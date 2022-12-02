@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'urbanist-medium';
+    src: url(C:\Projects\ncx-app\src\Assets\fonts\Urbanist-Medium.ttf);
+}
+@font-face {
+    font-family: 'urbanist-regular';
+    src: url(C:\Projects\ncx-app\src\Assets\fonts\Urbanist-Regular.ttf);
+}
+header {
+    background: #000000 !important;
+}
+#main-header {
+    max-width: 1280px !important;
+    margin: 0 auto !important;
+    width: 100% !important;
+    padding: 0px !important;
+    min-height: 84px !important
+}
+.btn01, .signin, .launch-dex {
+    height: 38px !important;
+    border: 1px solid #65E4A1 !important;
+    background: #65E4A1 !important;
+    color: #000000 !important;
+    font-family: 'urbanist-regular' !important;
+    font-size: 16px !important;
+    border-radius: 0px !important;
+    margin-right: 15px !important;
+    text-transform: capitalize !important;
+    width: 10% !important;
+}
+.signin{
+    background: transparent !important;
+    color: #FFFFFF !important;
+}
+.launch-dex{
+    border: 1px solid #2460FF !important;
+    background: transparent !important;
+    color:  #FFFFFF !important;
+    width: 144px !important;
+    margin-right: 0px !important;
+}
+navlink a {
+    font-size: 16px !important;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    font-family: 'urbanist-regular' !important;
+    text-transform: capitalize !important;
+    padding: 0px 15px !important;
+}
+.header-logo {
+    width: 12% !important;
+}
+.header-logo a{
+    display: flex !important;
+}
+navlink {
+    width: 58% !important;
+    text-align: left !important;
+}

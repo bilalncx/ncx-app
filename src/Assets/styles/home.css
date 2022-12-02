@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'urbanist-medium';
+    src: url(../fonts/Urbanist-Medium.ttf);
+}
+@font-face {
+    font-family: 'urbanist-regular';
+    src: url(../fonts/Urbanist-Regular.ttf);
+}
+@font-face {
+    font-family: 'hauora-regular';
+    src: url(../fonts/Hauora-Regular.ttf);
+}
+
+section.bg-dark {
+    background: #000000 !important;
+}
+.container{
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 0px;
+}
+#hero-video {
+    width: 100% !important;
+    max-width: 590px;
+}
+.asss, .bsss {
+    width: 50%;
+    padding: 0px;
+    text-align: left;
+}
+.asss {
+    padding-top: 50px;
+}
+.hero-section{
+    padding: 50px 0px;
+}
+.bsss{
+    text-align: right;
+}
+h1, h2, h3, h4, h5, p{
+    margin: 0px;
+}
+.asss h1 {
+    font-size: 43px;
+    line-height: 60px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    padding: 20px 130px 20px 0px;
+}
+.hashtag{
+    padding-bottom: 10px;
+}
+.hashtag span {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    background: #212121;
+    padding: 5px 10px;
+    border-radius: 50px;
+    display: inline-block;
+    width: fit-content !important;
+    margin-right: 10px;
+}
+.hero-section button.btn01 {
+    width: fit-content !important;
+    padding: 0px 20px;
+    margin-top: 30px;
+}
+.img001{
+    display: flex;
+    column-gap: 10px;
+    padding: 30px 0px 0px 0px;
+}
+.img001 img {
+    width: 100%;
+    max-width: 130px;
+    height: 42px;
+}
+
+/* CEX and DEX Section */
+.cexdex .col{
+    width: 50% !important;
+    padding: 0px;
+}
+.cex {
+    padding-top: 0px;
+}
+.cexdex h1{
+    padding: 0px;
+    margin-bottom: 10px;
+    font-size: 43px;
+    line-height: 50px;
+}
+.animate__slideInUp.animate__animated {
+    animation-duration: 0.2s !important;
+}
+.dex p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    font-family: 'hauora-regular';
+    text-align: justify;
+}
+.cexdex {
+    background: url(../images/bgg.png);
+    padding: 100px 0px;
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
+}
+.cexdex .container {
+    padding: 70px;
+    background: #000000;
+}
+.hh_col {
+    width: 25%;
+    padding: 0px 15px 0px 15px !important;
+    position: relative;
+}
+.hh_col:before {
+    content: '';
+    background: #515151;
+    width: 1px;
+    height: 200px;
+    display: block;
+    position: absolute;
+    left: 0px;
+}
+.hh_col p {
+    font-family: 'hauora-regular';
+    color: #CCCCCC;
+    font-size: 16px;
+    text-align: left;
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+.hh_col h1 {
+    font-size: 22px;
+    text-align: left;
+    line-height: 26px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    margin: 0px 0px 40px 0px;
+    padding-right: 50px;
+    min-height: 78px;
+}
+.hh_row {
+    padding-top: 120px;
+}
+.hh_icon {
+    text-align: left !important;
+}
+
+
+/* FAQ Section */
+.faq-1 {
+    width: 60% !important;
+    padding: 0px !important;
+}
+.faq-0{
+    width: 40% !important;
+    padding: 0px !important;
+}
+.faq-0 button {
+    width: fit-content !important;
+    font-size: 12px !important;
+    padding: 0px 20px;
+}
+.faq-0 button svg {
+    margin-left: 10px;
+}
+.faq-0 p {
+    color: #FFFFFF !important;
+    font-family: 'hauora-regular' !important;
+    font-size: 15px;
+    font-weight: 300 !important;
+}
+.faq-sect{
+    background: url(../images/bss.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 120px 0px 80px 0px;
+}
