@@ -152,6 +152,128 @@ h1, h2, h3, h4, h5, p{
     text-align: left !important;
 }
 
+/* GradientBar */
+.gradient {
+    padding: 100px 0px 0px 0px;
+    background: #FFFFFF;
+}
+.gradientbar {
+    background: linear-gradient(90deg,#37ABFF,#ff78e5 50%,#00d85a);
+    /* transform: rotate(90deg); */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    height: 5px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.row.gradient-text {
+    margin: 0px;
+}
+.gradient-text .col {
+    padding: 0px;
+    padding-right: 30px;
+    margin-top: 35px;
+}
+.gradient-text .col:last-child {
+    padding: 0px;
+    padding-right: 0px !important;
+}
+.gradient-text .col h1{
+    font-family: 'urbanist-medium';
+    font-size: 24px;
+    line-height: 32px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.gradient-text .col h3{
+    font-family: 'hauora-regular';
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.gradient-text .col p{
+    font-family: 'hauora-regular';
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Download App Section */
+.download {
+    background: #FFFFFF;
+    padding: 100px 0px;
+}
+.download .row {
+    margin: 0px !important;
+}
+.download .asss h1 {
+    color: #000000;
+    padding: 0px;
+    font-family: 'urbanist-medium' !important;
+    font-size: 34px;
+    line-height: 40px;
+}
+.bar11 {
+    display: flex;
+    padding: 50px 0px;
+}
+.bar12 img {
+    max-width: 210px;
+}
+.stores img {
+    max-width: 172px;
+    display: inherit !important;
+    margin: 16.5px;
+}
+.stores {
+    padding-left: 30px;
+}
+.download .bsss img {
+    max-width: 410px;
+}
+.download .bsss {
+    text-align: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.download p {
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    padding-right: 130px;
+}
+
+/* Home Blog */
+.home-blog .row {
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.home-blog .row.first {
+    border-bottom: 1px solid #333A3D;
+}
+.home-blog .col-xs-2 {
+    min-height: 160px;
+    padding: 0px;
+    width: 20%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid #333A3D;
+}
+.home-blog .col-xs-2 svg {
+    width: 80%;
+}
+#p5, #p10 {
+    border-right: none;
+}
+.home-blog {
+    padding: 100px 0px;
+    background: url(../images/blog-banner.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
 
 /* FAQ Section */
 .faq-1 {

@@ -1,5 +1,6 @@
 import React from "react";
 import '../styles/home.css';
+import '../styles/media-query.css'
 import Button from "@mui/material/Button";
 import icon from '../images/1.svg';
 import appstore from '../images/app-store.png';
@@ -10,8 +11,22 @@ import { ReactComponent as Icon2 } from '../images/icon-2.svg';
 import { ReactComponent as Icon3 } from '../images/icon-3.svg';
 import { ReactComponent as Icon4 } from '../images/icon-4.svg';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-import { Icon } from "@mui/material";
 import AccordianPage from '../components/accordian/accordian';
+import { ReactComponent as Benzinga } from '../images/benzinga.svg';
+import { ReactComponent as Yahoofinance } from '../images/yahoo-finance.svg';
+import { ReactComponent as Marketwatch } from '../images/marketwatch.svg';
+import { ReactComponent as Cryptonews } from '../images/cryptonews.svg';
+import { ReactComponent as Coinmarketcap } from '../images/coinmarketcap.svg';
+import { ReactComponent as Pinksale } from '../images/pinksale.svg';
+import { ReactComponent as Coingecko } from '../images/coingecko.svg';
+import { ReactComponent as Coindesk } from '../images/coindesk.svg';
+import { ReactComponent as Cointelegraph } from '../images/cointelegraph.svg';
+import { ReactComponent as Newsbtc } from '../images/newsbtc.svg';
+import Barcode from '../images/barcode.png';
+import Googleplay from '../images/googleplay.png';
+import Applestore from '../images/appstore.png';
+import Androidstore from '../images/android.png';
+import NCXExchange from '../images/ncx-exchange.png';
 
 function MainHome()
 {
@@ -143,6 +158,88 @@ function MainHome()
                                 </AnimationOnScroll>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className="gradient">
+                <div className="container">
+                    <div className="gradient-bar">
+                        <AnimationOnScroll animateIn="animate__slideInLeft">
+                            <div className="gradientbar"></div>
+                        </AnimationOnScroll>
+                    </div>
+                    <div className="row gradient-text">
+                        <div className="col">
+                            <h3>01</h3>
+                            <h1>Customizable Interface</h1>
+                            <p>Customize the platform interface exactly as you need: change the arrangement of components, select one of the themes and customize notifications.</p>
+                        </div>
+                        <div className="col">
+                            <h3>02</h3>
+                            <h1>Web | Mobile | iOS App</h1>
+                            <p>Enjoy all the features of NCX Platfrom on Desktop, Mobile and advanced Mobile App. Grow your Crypto wealth and keep it secure with NCX, One Platfrom - Unlimited possibilities.</p>
+                        </div>
+                        <div className="col">
+                            <h3>03</h3>
+                            <h1>Grouping of Volumes</h1>
+                            <p>Evaluate the depth of liquidity using grouping feature in the orderbooks on all the available pairs. Get the overview of total cumulative number of opened buy and sell orders with a special widget in the Trading UI.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className="download">
+                <div className="container">
+                    <div className="row">
+                        <div className="asss">
+                            <div className="animtation">
+                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                    <h1>Download App, Trade on the go!</h1>
+                                </AnimationOnScroll>
+                            </div>
+                            <div className="bar11">
+                                <div className="bar12">
+                                    <AnimationOnScroll animateIn="animate__fadeIn">
+                                        <img src={Barcode} />
+                                    </AnimationOnScroll>
+                                </div>
+                                <div className="stores">
+                                    <AnimationOnScroll animateIn="animate__fadeIn">
+                                        <img src={Googleplay} />
+                                        <img src={Applestore} />
+                                        <img src={Androidstore} />
+                                    </AnimationOnScroll>
+                                </div>
+                            </div>
+                            <AnimationOnScroll animateIn="animate__fadeIn">
+                                <p>*NCX Exchange APK should only be installed from official website and distribution of APK on any other channel is strictly prohibited</p>
+                            </AnimationOnScroll>
+                        </div>
+                        <di className="bsss">
+                            <AnimationOnScroll animateIn="animate__slideInRight">
+                                <img src={NCXExchange} alt="NCX Exchange" />
+                            </AnimationOnScroll>
+                        </di>
+                    </div>
+                </div>
+            </div>
+            
+            <div className="home-blog">
+                <div className="container">
+                    <div className="row first">
+                        <a href="#" class="col-xs-2" id="p1"><AnimationOnScroll animateIn="animate__fadeIn"><Benzinga /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p2"><AnimationOnScroll animateIn="animate__fadeIn"><Yahoofinance /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p3"><AnimationOnScroll animateIn="animate__fadeIn"><Marketwatch /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p4"><AnimationOnScroll animateIn="animate__fadeIn"><Cryptonews /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p5"><AnimationOnScroll animateIn="animate__fadeIn"><Coinmarketcap /></AnimationOnScroll></a>
+                    </div>
+                    <div className="row">
+                        <a href="#" class="col-xs-2" id="p6"><AnimationOnScroll animateIn="animate__fadeIn"><Pinksale /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p7"><AnimationOnScroll animateIn="animate__fadeIn"><Coingecko /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p8"><AnimationOnScroll animateIn="animate__fadeIn"><Coindesk /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p9"><AnimationOnScroll animateIn="animate__fadeIn"><Cointelegraph /></AnimationOnScroll></a>
+                        <a href="#" class="col-xs-2 col-half-offset" id="p10"><AnimationOnScroll animateIn="animate__fadeIn"><Newsbtc /></AnimationOnScroll></a>
                     </div>
                 </div>
             </div>
