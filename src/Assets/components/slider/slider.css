@@ -1,0 +1,111 @@
+.nextSlide{
+    display: none;
+}
+.row.text-image {
+    margin: 0px !important;
+    display: flex !important;
+    width: 100% !important;
+    margin-top: 60px !important;
+}
+img.perspon-img {
+    position: absolute;
+    width: 100% !important;
+    max-width: 390px;
+    left: 300px;
+    top: -220px;
+}
+.tet{
+    width: 30%;
+    text-align: left;
+    padding-left: 0px !important;
+    padding-right: 80px !important;
+}
+.tet p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.tet-img{
+    width: 70% !important;
+    background: #2460FF;
+    position: relative;
+    min-height: 350px;
+}
+.section-center {
+    padding-left: 150px;
+}
+.section-center h1 {
+    font-size: 48px;
+    line-height: 68px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    text-align: left;
+    width: 50%;
+}
+.section-center h2 {
+    background: #212121;
+    color: #FFFFFF;
+    font-family: 'urbanist-medium';
+    font-size: 15px;
+    width: fit-content;
+    padding: 8px 12px;
+    border-radius: 25px;
+    margin-right: 12px;
+}
+.tag-class{
+    padding-top: 12px;
+    display: flex;
+    width: 50%;
+}
+.tet a{
+    background: #65E4A1;
+    color: #000;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: 'urbanist-regular' !important;
+    padding: 13px 20px;
+}
+.tet a svg{
+    margin-left: 10px;
+}
+#slider > div > article:nth-child(1) > div:nth-child(3) > h2:nth-child(4),
+#slider > div > article:nth-child(1) > div:nth-child(3) > h2:nth-child(5){
+    display: none !important;
+}
+h1.features-include {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 40px;
+}
+#slider > div > article:nth-child(2) > div:nth-child(3) > h2:nth-child(4), 
+#slider > div > article:nth-child(4) > div:nth-child(3) > h2:nth-child(4){
+    display: none !important;
+}
+#slider > div > article:nth-child(4) > div:nth-child(3) > h2:nth-child(3){
+    display: none;
+}
+#slider > div > article:nth-child(2) > div:nth-child(3) > h2:nth-child(5), #slider > div > article:nth-child(4) > div:nth-child(3) > h2:nth-child(5){
+    display: none !important;
+}
+.moving-btm {
+    width: 70%;
+    margin: 0 auto;
+    margin-right: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+    position: relative;
+    top: -60px;
+    left: 0px;
+    float: right;
+}
+.moving-btm button {
+    background: none !important;
+    border: none !important;
+}
+section#slider {
+    padding: 100px 0px 50px 0px;
+}
