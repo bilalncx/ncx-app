@@ -57,3 +57,7 @@ navlink {
     width: 58% !important;
     text-align: left !important;
 }
+header {
+    position: fixed !important;
+    z-index: 9999;
+}

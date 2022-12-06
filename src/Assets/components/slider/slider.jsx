@@ -2,6 +2,7 @@ import React, {useState, useEffect} from "react";
 import './slider.css';
 import data from './data';
 import { Slider } from "@mui/material";
+import {Animated} from "react-animated-css";
 
 const Sliderfunction = () => {
     const [people]  = useState(data);
@@ -66,7 +67,9 @@ const Sliderfunction = () => {
                                     </a>
                                 </div>
                                 <div className="tet-img">
-                                    <img src={image} alt={name} className="perspon-img"/>
+                                    <Animated animationIn="fadeInLeft" animationOut="fadeOut" isVisible={true}>
+                                        <img src={image} alt={name} className="perspon-img"/>
+                                    </Animated>
                                 </div>
                             </div>
                         </article>

@@ -32,7 +32,7 @@ section.bg-dark {
     padding-top: 50px;
 }
 .hero-section{
-    padding: 50px 0px;
+    padding: 130px 0px 50px 0px;
 }
 .bsss{
     text-align: right;
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, p{
     line-height: 50px;
 }
 .animate__slideInUp.animate__animated {
-    animation-duration: 0.2s !important;
+    animation-duration: 0.8s !important;
 }
 .dex p{
     font-size: 16px;
@@ -150,6 +150,15 @@ h1, h2, h3, h4, h5, p{
 }
 .hh_icon {
     text-align: left !important;
+}
+
+/* Market & Exchange Section  */
+.market-exchange {
+    background: #FFFFFF;
+    padding: 100px 0px;
+}
+.marketimg .col img {
+    width: 100%;
 }
 
 /* Advanced CEX and DEX Table Section */
@@ -409,6 +418,15 @@ video#ncx-main-video {
     font-family: 'hauora-regular';
     font-size: 16px;
     text-align: left;
+}
+.gradient-animation-one {
+    animation-duration: 0.8s !important;
+}
+.gradient-animation-two {
+    animation-duration: 2.0s !important;
+}
+.gradient-animation-three {
+    animation-duration: 3.2s !important;
 }
 
 /* Download App Section */

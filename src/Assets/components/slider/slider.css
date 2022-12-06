@@ -44,6 +44,7 @@ img.perspon-img {
     font-family: 'urbanist-regular';
     text-align: left;
     width: 50%;
+    min-height: 136px;
 }
 .section-center h2 {
     background: #212121;
@@ -79,6 +80,7 @@ h1.features-include {
     font-size: 16px;
     line-height: 20px;
     margin-bottom: 40px;
+    min-height: inherit !important;
 }
 #slider > div > article:nth-child(2) > div:nth-child(3) > h2:nth-child(4), 
 #slider > div > article:nth-child(4) > div:nth-child(3) > h2:nth-child(4){
@@ -98,7 +100,7 @@ h1.features-include {
     justify-content: space-between;
     padding: 0px 50px;
     position: relative;
-    top: -60px;
+    top: -190px;
     left: 0px;
     float: right;
 }
@@ -108,4 +110,7 @@ h1.features-include {
 }
 section#slider {
     padding: 100px 0px 50px 0px;
+}
+#slider > div > article:nth-child(2) > h1{
+    width: 25% !important;
 }

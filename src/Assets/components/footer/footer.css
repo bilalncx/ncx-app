@@ -1,0 +1,41 @@
+div#footerdiv {
+    padding: 70px 0px 40px 0px;
+}
+.footer-row {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-row ul li {
+    list-style-type: none !important;
+    text-align: left;
+    padding-bottom: 16px;
+}
+.footer-row ul li a {
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 14px;
+    line-height: 20px;
+}
+.social-media {
+    display: flex;
+    column-gap: 20px;
+    justify-content: end;
+    padding: 25px 0px 10px 0px;
+}
+.footer-logo a img {
+    width: 190px;
+    height: auto;
+}
+.info-mail {
+    text-align: end;
+}
+.info-mail a {
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 15px !important;
+}
+.copyright p {
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 14px;
+}

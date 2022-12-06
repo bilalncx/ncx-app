@@ -28,11 +28,21 @@ import Applestore from '../images/appstore.png';
 import Androidstore from '../images/android.png';
 import NCXExchange from '../images/ncx-exchange.png';
 import SliderSection from '../components/slider/slider';
+import Market1 from '../images/market1.png';
+import Market2 from '../images/market2.png';
+import Market3 from '../images/market3.png';
+import Market4 from '../images/market4.png';
+import Marketpage from '../components/market/market';
+import MyFooter from '../components/footer/footer';
+import MyHeader from '../components/header/header';
 
 function MainHome()
 {
     return(
           <section className="bg-dark">
+
+            <MyHeader />
+
             <div className="hero-section">
                 <div className="row container">
                     <div className="asss">
@@ -160,6 +170,26 @@ function MainHome()
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+
+            <div className="market-exchange">
+                <div className="container">
+                    <div className="row marketimg">
+                        <div className="col">
+                            <img src={Market1} alt="NCX" />
+                        </div>
+                        <div className="col">
+                            <img src={Market2} alt="NCX" />
+                        </div>
+                        <div className="col">
+                            <img src={Market3} alt="NCX" />
+                        </div>
+                        <div className="col">
+                            <img src={Market4} alt="NCX" />
+                        </div>
+                    </div>
+                    <Marketpage />
                 </div>
             </div>
 
@@ -593,37 +623,43 @@ function MainHome()
                     </div>
                     <div className="row gradient-text">
                         <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
+                            <AnimationOnScroll animateIn="animate__fadeIn" className="gradient-animation-one">
                                 <h3>01</h3>
+                                <h1>Customizable Interface</h1>
+                                <p>Customize the platform interface exactly as you need: change the arrangement of components, select one of the themes and customize notifications.</p>
                             </AnimationOnScroll>
-                            <AnimationOnScroll animateIn="animate__slideInUp">
+                            {/* <AnimationOnScroll animateIn="animate__slideInUp">
                                 <h1>Customizable Interface</h1>
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <p>Customize the platform interface exactly as you need: change the arrangement of components, select one of the themes and customize notifications.</p>
-                            </AnimationOnScroll>
+                            </AnimationOnScroll> */}
                         </div>
                         <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
+                            <AnimationOnScroll animateIn="animate__fadeIn" className="gradient-animation-two">
                                 <h3>02</h3>
+                                <h1>Web | Mobile | iOS App</h1>
+                                <p>Enjoy all the features of NCX Platfrom on Desktop, Mobile and advanced Mobile App. Grow your Crypto wealth and keep it secure with NCX, One Platfrom - Unlimited possibilities.</p>
                             </AnimationOnScroll>
-                            <AnimationOnScroll animateIn="animate__slideInUp">
+                            {/* <AnimationOnScroll animateIn="animate__slideInUp">
                                 <h1>Web | Mobile | iOS App</h1>
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <p>Enjoy all the features of NCX Platfrom on Desktop, Mobile and advanced Mobile App. Grow your Crypto wealth and keep it secure with NCX, One Platfrom - Unlimited possibilities.</p>
-                            </AnimationOnScroll>
+                            </AnimationOnScroll> */}
                         </div>
                         <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
+                            <AnimationOnScroll animateIn="animate__fadeIn" className="gradient-animation-three">
                                 <h3>03</h3>
+                                <h1>Grouping of Volumes</h1>
+                                <p>Evaluate the depth of liquidity using grouping feature in the orderbooks on all the available pairs. Get the overview of total cumulative number of opened buy and sell orders with a special widget in the Trading UI.</p>
                             </AnimationOnScroll>
-                            <AnimationOnScroll animateIn="animate__slideInUp">
+                            {/* <AnimationOnScroll animateIn="animate__slideInUp">
                                 <h1>Grouping of Volumes</h1>
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <p>Evaluate the depth of liquidity using grouping feature in the orderbooks on all the available pairs. Get the overview of total cumulative number of opened buy and sell orders with a special widget in the Trading UI.</p>
-                            </AnimationOnScroll>
+                            </AnimationOnScroll> */}
                         </div>
                     </div>
                 </div>
@@ -657,7 +693,7 @@ function MainHome()
                             </AnimationOnScroll>
                         </div>
                         <di className="bsss">
-                            <AnimationOnScroll animateIn="animate__slideInRight">
+                            <AnimationOnScroll animateIn="animate__fadeIn">
                                 <img src={NCXExchange} alt="NCX Exchange" />
                             </AnimationOnScroll>
                         </di>
@@ -710,6 +746,8 @@ function MainHome()
                     </div>
                 </div>
             </div>
+
+            <MyFooter />
 
           </section>
     )
