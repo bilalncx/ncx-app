@@ -273,7 +273,7 @@ tbody tr:hover {
     }
     .market-table {
         background: #FFFFFF !important;
-        padding: 5px 15px 30px 15px !important;
+        padding: 0px !important;
     }
     #table-market .currrency_name span.star-svg {
         display: none !important;
