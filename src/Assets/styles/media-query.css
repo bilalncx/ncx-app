@@ -34,9 +34,6 @@ div#mobile-tabsection {
     .home-blog .container.desktop{
         display: none;
     }
-    div#footerdiv {
-        display: none;
-    }
     #main-header{
         display: none !important;
     }
@@ -395,5 +392,48 @@ div#mobile-tabsection {
     #slider > div.section-center.mobile > article:nth-child(4) > div:nth-child(4) > h2:nth-child(3),
     #slider > div.section-center.mobile > article:nth-child(2) > div:nth-child(4) > h2:nth-child(3){
         display: none;
+    }
+    .footer-row {
+        flex-flow: column wrap;
+    }
+    .first-column{
+        order: 2;
+        margin-top: 20px !important;
+    }
+    .second-column{
+        order: 3;
+    }
+    .third-column{
+        order: 4;
+    }
+    .fourth-column {
+        order: 1;
+        width: 100%;
+    }
+    .footer-logo {
+        text-align: left;
+    }
+    .footer-logo a img {
+        width: 120px !important;
+        height: auto !important;
+    }
+    .social-media{
+        justify-content: flex-start !important;
+    }
+    .info-mail {
+        text-align: left !important;
+    }
+    .footer-row ul {
+        padding-left: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .footer-row ul li{
+        padding-bottom: 10px !important;
+    }
+    .copyright p{
+        font-size: 10px !important;
+    }
+    .copyright{
+        margin-top: 20px !important;
     }
 }
