@@ -68,8 +68,8 @@
       $('header.main-header').addClass("zindex-visible");
     });
 
-    $(window).on('beforeunload', function(){
-      $(window).scrollTop(0);
+    jQuery(window).on('load', function(){
+      jQuery(this).scrollTop(0);
     });
   });
 </script>
