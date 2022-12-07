@@ -295,5 +295,20 @@ tbody tr:hover {
     padding: 5px 20px !important;
 }
 .market-table button.btn01 a{
-    color: #000000 !important;
+    color: #B9BBC1 !important;
+}
+.market-table button.btn01 {
+    background: none !important;
+    border: none !important;
+    padding: 0px !important;
+    height: inherit !important;
+    font-family: 'hauora-regular' !important;
+}
+.market-table button.btn01 a svg path {
+    fill: #B9BBC1 !important;
+}
+.market-table button.btn01 a svg {
+    width: 5px !important;
+    margin-left: 5px;
+    margin-bottom: 2px;
 }

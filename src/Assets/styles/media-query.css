@@ -192,6 +192,14 @@ div#mobile-tabsection {
     .download{
         padding: 20px 0px !important;
     }
+    .stores img:nth-child(1), .stores img:nth-child(3) {
+        display: none !important;
+    }
+    .stores {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .bar12 img {
         max-width: 100%;
     }

@@ -14,8 +14,8 @@ const people = [
         tag9: "",
         icon: "https://ncx.cx/slide-icon1.svg",
         content: "Trading Crypto just got easier with NCX Cutting-Edge Trading Tools. State-of-the-ArtTechnology providing multi-level market depth, institutional grade liquidity, stable platform and fast processing and executions. Sign up and complete KYC to receive 10,000 NERO Tokens Airdrop and Earn a further 10,000 NERO on each referral through NCX Referral Program",
-        button: "Sign Up & Receive $NERO Airdrop",
-        url: "https://ncx.cx"
+        button: "Sign Up",
+        url: "https://ncx.cx/"
     },
     {
         id:2,

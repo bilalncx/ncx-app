@@ -68,6 +68,7 @@ img.perspon-img {
     line-height: 24px;
     font-family: 'urbanist-regular' !important;
     padding: 13px 20px;
+    border-radius: 2px !important;
 }
 .tet a svg{
     margin-left: 10px;

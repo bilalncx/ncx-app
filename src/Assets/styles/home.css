@@ -66,6 +66,13 @@ h1, h2, h3, h4, h5, p{
     padding: 0px 20px;
     margin-top: 30px;
 }
+.hero-section button.hero-btn{
+    border-radius: 2px !important;
+}
+.hero-section button.hero-btn svg{
+    margin-left: 5px !important;
+    margin-top: 3px !important;
+}
 .img001{
     display: flex;
     column-gap: 10px;
@@ -368,6 +375,10 @@ video#ncx-main-video {
     margin-left: 0px !important;
     display: flex !important;
     margin-top: 40px;
+    border-radius: 2px !important;
+}
+.generate-div button.btn01 a {
+    color: #000000 !important;
 }
 .generate-div button.btn01 svg {
     margin-left: 15px;
@@ -518,6 +529,8 @@ video#ncx-main-video {
     width: fit-content !important;
     font-size: 12px !important;
     padding: 0px 20px;
+    font-family: 'urbanist-medium' !important;
+    border-radius: 2px !important;
 }
 .faq-0 button svg {
     margin-left: 10px;

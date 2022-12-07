@@ -24,7 +24,7 @@ export default function Header() {
             <a href="#home"><img src={Logo} alt="NCX-Logo" /></a>
             </IconButton>
             <navlink>
-              <a href="#home">home</a>
+              <a href="https://ncx.cx/">home</a>
               <a href="#">Exchange</a>
               <a href="#">DEX</a>
               <a href="#">Blog</a>
@@ -44,7 +44,7 @@ export default function Header() {
                 className="header-logo"
                 sx={{ mr: 2 }}
               >
-              <a href="#home"><img src={Logo} alt="NCX-Logo" /></a>
+              <a href="https://ncx.cx/"><img src={Logo} alt="NCX-Logo" /></a>
               </IconButton>
               </div>
               <div className="mobile-menu">
@@ -53,7 +53,7 @@ export default function Header() {
                 </label>
                 <input type="checkbox" id="nav" />
                 <ul class="nav-overlary">
-                  <li><a href="#">Home</a></li>
+                  <li><a href="https://ncx.cx/">Home</a></li>
                   <li><a href="#">Exchange</a></li>
                   <li><a href="#">DEX</a></li>
                   <li><a href="#">Blog</a></li>

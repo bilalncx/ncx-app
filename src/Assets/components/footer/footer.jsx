@@ -12,24 +12,25 @@ function MyFooter()
                 <div class="footer-row">
                     <div class="first-column">
                         <ul>
-                            <li><a href="https://ncx.cx/">Markets</a></li>
-                            <li><a href="#">Features</a></li>
-                            <li><a href="https://ncx.cx/market">Security</a></li>
-                            <li><a href="https://ncx.cx/staking">NeroSwap</a></li>
-                            <li><a href="https://ncx.cx/rewards">Staking</a></li>
+                            <li><a href="https://ncx.cx/market">Markets</a></li>
+                            <li><a href="https://ncx.cx/rewards">Rewards</a></li>
+                            <li><a href="#">Security</a></li>
+                            <li><a href="#">NeroSwap</a></li>
+                            <li><a href="https://ncx.cx/staking">Staking</a></li>
                         </ul>
                     </div>
                     <div class="second-column">
                         <ul>
-                            <li><a href="https://ncx.cx/user-agreement">Whitepaper</a></li>
-                            <li><a href="https://ncx.cx/privacy-policy">Nero Coin</a></li>
+                            <li><a href="#">Whitepaper</a></li>
+                            <li><a href="#">Nero Coin</a></li>
+                            <li><a href="https://ncx.cx/user-agreement">User Agreeement</a></li>
                         </ul>
                     </div>
                     <div class="third-column">
                         <ul>
                             <li><a href="#">Terms & Conditions</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">KYC and AML Policy</a></li>
+                            <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
+                            <li><a href="https://ncx.cx/kyc-aml-policy">KYC and AML Policy</a></li>
                         </ul>
                     </div>
                     <div class="fourth-column">

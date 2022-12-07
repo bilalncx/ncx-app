@@ -93,7 +93,11 @@ function MarketPage(){
                     <tbody>
                     </tbody>
                 </table>
-                <button className='btn01'><a href="market.jsx">View More Market</a></button>
+                <button className='btn01'><a href="https://ncx.cx/market">View More Market
+                    <svg width="11" height="21" viewBox="0 0 11 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M0.29289 1.12883C-0.09763 1.51936 -0.09763 2.15252 0.29289 2.54305L8.5858 10.8359L0.29289 19.1288C-0.09763 19.5193 -0.09763 20.1525 0.29289 20.543C0.68342 20.9335 1.3166 20.9335 1.7071 20.543L10.7071 11.543C11.0976 11.1525 11.0976 10.5193 10.7071 10.1288L1.7071 1.12883C1.3166 0.738308 0.68342 0.738308 0.29289 1.12883Z" fill="white"/>
+                    </svg>
+                </a></button>
             </div>
         </section>       
     )

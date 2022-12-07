@@ -69,11 +69,19 @@ function MainHome()
                             <span>Yied Farms</span>
                             <span>Swap Across 5 Leading Blockchains</span>
                         </div>
-                        <Button className="btn01">Sign Up to Receive 10,000 $NERO Airdrop</Button>
-                        <Button className="btn01 ">Get the App</Button>
+                        <Button className="btn01 hero-btn">Sign Up
+                            <svg width="31" height="8" viewBox="0 0 31 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M30.3536 3.48205C30.5488 3.67731 30.5488 3.99389 30.3536 4.18915L27.1716 7.37113C26.9763 7.56639 26.6597 7.56639 26.4645 7.37113C26.2692 7.17587 26.2692 6.85929 26.4645 6.66403L29.2929 3.8356L26.4645 1.00717C26.2692 0.811907 26.2692 0.495327 26.4645 0.300067C26.6597 0.104797 26.9763 0.104797 27.1716 0.300067L30.3536 3.48205ZM-1.90735e-06 3.3356L30 3.3356V4.3356L-1.90735e-06 4.3356V3.3356Z" fill="black"/>
+                            </svg>
+                        </Button>
+                        <Button className="btn01 hero-btn">Get the App
+                            <svg width="31" height="8" viewBox="0 0 31 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M30.3536 3.48205C30.5488 3.67731 30.5488 3.99389 30.3536 4.18915L27.1716 7.37113C26.9763 7.56639 26.6597 7.56639 26.4645 7.37113C26.2692 7.17587 26.2692 6.85929 26.4645 6.66403L29.2929 3.8356L26.4645 1.00717C26.2692 0.811907 26.2692 0.495327 26.4645 0.300067C26.6597 0.104797 26.9763 0.104797 27.1716 0.300067L30.3536 3.48205ZM-1.90735e-06 3.3356L30 3.3356V4.3356L-1.90735e-06 4.3356V3.3356Z" fill="black"/>
+                            </svg>
+                        </Button>
                         <div className="img001">
                             <img src={appstore} alt="ncx"/>
-                            <img src={appplay} alt="ncx"/>
+                            {/* <img src={appplay} alt="ncx"/> */}
                         </div>
                     </div>
                     <div className="bsss">
@@ -582,7 +590,7 @@ function MainHome()
                                 </div>
                                 <div className="agreement-p">
                                     <p>*- Over 80 Pairs available for Trading and over 20,000 Crypto Assests on NCX DEX available on BSC, Ethereum, Polygon, Fantom and Solana Networks</p>
-                                    <p>**- NCX Platfrom is available Globally apart of Restricted Juresdictions listed in <span><a href="https://ncx.cx">User Agreement</a></span></p>
+                                    <p>**- NCX Platfrom is available Globally apart of Restricted Juresdictions listed in <span><a href="https://ncx.cx/user-agreement/">User Agreement</a></span></p>
                                 </div>
                             </div>
                         </div>
@@ -987,7 +995,7 @@ function MainHome()
                         </div>
                         <div className="mobile-bp">
                             <p>*- Over 80 Pairs available for Trading and over 20,000 Crypto Assests on NCX DEX available on BSC, Ethereum, Polygon, Fantom and Solana Networks</p>
-                            <p>**- NCX Platfrom is available Globally apart of Restricted Juresdictions listed in <span><a href="https://ncx.cx">User Agreement</a></span></p>
+                            <p>**- NCX Platfrom is available Globally apart of Restricted Juresdictions listed in <span><a href="https://ncx.cx/user-agreement">User Agreement</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -1001,10 +1009,11 @@ function MainHome()
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <p>One app. Unlimited possibilities.</p>
-                                <Button className="btn01">Sign Up
+                                <Button className="btn01"><a href="https://ncx.cx">Sign Up
                                 <svg width="31" height="8" viewBox="0 0 31 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M30.3536 3.48205C30.5488 3.67731 30.5488 3.99389 30.3536 4.18915L27.1716 7.37113C26.9763 7.56639 26.6597 7.56639 26.4645 7.37113C26.2692 7.17587 26.2692 6.85929 26.4645 6.66403L29.2929 3.8356L26.4645 1.00717C26.2692 0.811907 26.2692 0.495327 26.4645 0.300067C26.6597 0.104797 26.9763 0.104797 27.1716 0.300067L30.3536 3.48205ZM-1.90735e-06 3.3356L30 3.3356V4.3356L-1.90735e-06 4.3356V3.3356Z" fill="black"/>
                                 </svg>
+                                </a>
                                 </Button>
                             </AnimationOnScroll>
                         </div>
