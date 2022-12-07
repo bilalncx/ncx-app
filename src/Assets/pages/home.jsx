@@ -142,7 +142,7 @@ function MainHome()
                     </div>
                     <div className="row hh_row">
                         <div className="hh_col">
-                            <AnimationOnScroll animateIn="animate__fadeInDown" id="hh-fade1">
+                            <AnimationOnScroll animateIn="animate__fadeIn" className="hh-fade1">
                                 <div className="line-div"></div>
                             </AnimationOnScroll>
                             <p>01</p>
@@ -158,7 +158,7 @@ function MainHome()
                             </div>
                         </div>
                         <div className="hh_col">
-                            <AnimationOnScroll animateIn="animate__fadeInDown" id="hh-fade2">
+                            <AnimationOnScroll animateIn="animate__fadeIn" id="hh-fade2">
                                 <div className="line-div"></div>
                             </AnimationOnScroll>
                             <p>01</p>
@@ -174,7 +174,7 @@ function MainHome()
                             </div>
                         </div>
                         <div className="hh_col">
-                            <AnimationOnScroll animateIn="animate__fadeInDown" id="hh-fade3">
+                            <AnimationOnScroll animateIn="animate__fadeIn" id="hh-fade3">
                                 <div className="line-div"></div>
                             </AnimationOnScroll>
                             <p>01</p>
@@ -190,7 +190,7 @@ function MainHome()
                             </div>
                         </div>
                         <div className="hh_col">
-                            <AnimationOnScroll animateIn="animate__fadeInDown" id="hh-fade4">
+                            <AnimationOnScroll animateIn="animate__fadeIn" id="hh-fade4">
                                 <div className="line-div"></div>
                             </AnimationOnScroll>
                             <p>01</p>
