@@ -1,4 +1,4 @@
-import react from 'react';
+// import react from 'react';
 import '../market/market.css';
 
 function MarketPage(){
@@ -14,7 +14,7 @@ function MarketPage(){
             const coinInfo = json[`${coin}`];
             
             const name = coinInfo.id;
-            const coinname = name.replace(/string/g, "");
+            // const coinname = name.replace(/string/g, "");
             
             const coinsymbol = coinInfo.symbol;
             

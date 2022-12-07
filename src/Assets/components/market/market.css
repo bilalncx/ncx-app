@@ -312,3 +312,6 @@ tbody tr:hover {
     margin-left: 5px;
     margin-bottom: 2px;
 }
+.market-table button.btn01 {
+    display: none !important;
+}

@@ -12,10 +12,13 @@ div#mobile-tabsection {
 }
 @media (min-width: 1200px){
     .container {
-        width: 1250px;
+        width: 1300px;
     }
 }
 @media screen and (max-width: 800px){
+    .market-exchange .row.marketimg {
+        display: none !important;
+    }
     .section-center.desktop {
         display: none;
     }
@@ -251,13 +254,16 @@ div#mobile-tabsection {
         width: 50% !important;
         border-bottom: 1px solid #333A3D;
     }
-    a#p2, a#p4, a#p6, a#p8, a#p10 {
+    a#p2, a#p4, a#p6, a#p8, a#p10, a#p12, a#p14, a#p16, a#p18, a#p20 {
         border-right: 0px !important;
     }
-    a#p10, a#p9{
+    a#p19, a#p20{
         border-bottom: 0px !important;
     }
-    a#p5{
+    a#p20{
+        visibility: hidden;
+    }
+    a#p5, a#p15{
         border-right: 1px solid #333A3D !important;
     }
     .home-blog {

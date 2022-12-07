@@ -16,6 +16,9 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -33,7 +36,7 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>NCX - Nero Cryptocurrency Exchange</title>
+    <title>NCX - Cryptocurrency Exchange</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -50,3 +53,23 @@
     -->
   </body>
 </html>
+
+<script>
+  $(document).ready(function(){
+    $('.loadingbar').delay(4500).animate({left: '0'}, 5500);
+    $('.loadingBox').delay(500).animate({opacity: '1'}, 1000);
+    $('.splashupperscreen').delay(9000).animate({top: '-100%'}, 2000);
+    $('.splashlowerscreen').delay(9000).animate({bottom: '-100%', opacity: '0'}, 3000);
+
+    $('.splashScreen').delay(8300).queue(function(){
+      $('.splashScreen').addClass("visibleSplash");
+      $('.loadingContainer').delay(8000).addClass('splashdone');
+      $('body').css({overflow: 'visible'});
+      $('header.main-header').addClass("zindex-visible");
+    });
+
+    $(window).on('beforeunload', function(){
+      $(window).scrollTop(0);
+    });
+  });
+</script>

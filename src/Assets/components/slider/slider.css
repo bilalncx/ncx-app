@@ -73,25 +73,11 @@ img.perspon-img {
 .tet a svg{
     margin-left: 10px;
 }
-#slider > div > article:nth-child(1) > div:nth-child(3) > h2:nth-child(4),
-#slider > div > article:nth-child(1) > div:nth-child(3) > h2:nth-child(5){
-    display: none !important;
-}
 h1.features-include {
     font-size: 16px;
     line-height: 20px;
     margin-bottom: 40px;
     min-height: inherit !important;
-}
-#slider > div > article:nth-child(2) > div:nth-child(3) > h2:nth-child(4), 
-#slider > div > article:nth-child(4) > div:nth-child(3) > h2:nth-child(4){
-    display: none !important;
-}
-#slider > div > article:nth-child(4) > div:nth-child(3) > h2:nth-child(3){
-    display: none;
-}
-#slider > div > article:nth-child(2) > div:nth-child(3) > h2:nth-child(5), #slider > div > article:nth-child(4) > div:nth-child(3) > h2:nth-child(5){
-    display: none !important;
 }
 .moving-btm {
     width: 70%;
@@ -114,4 +100,14 @@ section#slider {
 }
 #slider > div > article:nth-child(2) > h1{
     width: 25% ;
+}
+#slider > div.section-center.desktop > article:nth-child(2) > div > div:nth-child(3) > h2:nth-child(4),
+#slider > div.section-center.desktop > article:nth-child(2) > div > div:nth-child(3) > h2:nth-child(5),
+#slider > div.section-center.desktop > article:nth-child(4) > div > div:nth-child(3) > h2:nth-child(3),
+#slider > div.section-center.desktop > article:nth-child(4) > div > div:nth-child(3) > h2:nth-child(4),
+#slider > div.section-center.desktop > article:nth-child(4) > div > div:nth-child(3) > h2:nth-child(5){
+    display: none;
+}
+article {
+    overflow-x: hidden !important;
 }

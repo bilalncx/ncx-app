@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from "react";
 import './slider.css';
 import data from './data';
-import { Slider } from "@mui/material";
+// import { Slider } from "@mui/material";
 import {Animated} from "react-animated-css";
 
 const Sliderfunction = () => {
@@ -42,6 +42,7 @@ const Sliderfunction = () => {
                     }
                     return(
                         <article className={position} key={id}>
+                            <Animated animationIn="fadeInRight" animationOut="fadeOut" isVisible={true}>
                             <h1>{name}</h1>
                             <div className="tag-class">
                                 <h2>{tag1}</h2>
@@ -67,11 +68,12 @@ const Sliderfunction = () => {
                                     </a>
                                 </div>
                                 <div className="tet-img">
-                                    <Animated animationIn="fadeInLeft" animationOut="fadeOut" isVisible={true}>
+                                    {/* <Animated animationIn="fadeInRight" animationOut="fadeOut" isVisible={true}> */}
                                         <img src={image} alt={name} className="perspon-img"/>
-                                    </Animated>
+                                    {/* </Animated> */}
                                 </div>
                             </div>
+                            </Animated>
                         </article>
                     );
                 })}
@@ -120,7 +122,7 @@ const Sliderfunction = () => {
                             </div>
                             <div className="row text-image">
                                 <div className="tet-img">
-                                    <Animated animationIn="fadeInLeft" animationOut="fadeOut" isVisible={true}>
+                                    <Animated animationIn="fadeInRight" animationOut="fadeOut" isVisible={true}>
                                         <img src={image} alt={name} className="perspon-img"/>
                                     </Animated>
                                 </div>

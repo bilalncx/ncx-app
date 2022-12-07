@@ -11,17 +11,33 @@
     src: url(../fonts/Hauora-Regular.ttf);
 }
 
+/* width */
+::-webkit-scrollbar {
+    width: 6px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+  
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #000;
+    border-radius: 50px;  
+}
+
 section.bg-dark {
     background: #000000 !important;
 }
 .container{
-    max-width: 1250px;
+    max-width: 1300px;
     margin: 0 auto;
     padding: 0px;
 }
 #hero-video {
     width: 100% !important;
-    max-width: 590px;
+    max-width: 360px;
 }
 .asss, .bsss {
     width: 50%;
@@ -35,7 +51,7 @@ section.bg-dark {
     padding: 130px 0px 50px 0px;
 }
 .bsss{
-    text-align: right;
+    text-align: center;
 }
 h1, h2, h3, h4, h5, p{
     margin: 0px;
@@ -124,8 +140,17 @@ h1, h2, h3, h4, h5, p{
     width: 25%;
     padding: 0px 15px 0px 15px !important;
     position: relative;
+    overflow: hidden;
 }
-.hh_col:before {
+.line-div {
+    width: 1px;
+    height: 100%;
+    display: block;
+    position: absolute;
+    background: #515151;
+    left: 0px;
+}
+/* .hh_col:before {
     content: '';
     background: #515151;
     width: 1px;
@@ -133,7 +158,7 @@ h1, h2, h3, h4, h5, p{
     display: block;
     position: absolute;
     left: 0px;
-}
+} */
 .hh_col p {
     font-family: 'hauora-regular';
     color: #CCCCCC;
@@ -285,7 +310,7 @@ h1, h2, h3, h4, h5, p{
 }
 .txt-blue {
     position: relative;
-    z-index: 999;
+    z-index: 1;
 }
 .txt-blue:before {
     content: '';
@@ -397,7 +422,7 @@ video#ncx-main-video {
     align-self: stretch;
     flex-grow: 0;
     height: 5px;
-    max-width: 1280px;
+    max-width: 1380px;
     margin: 0 auto;
 }
 .row.gradient-text {
@@ -438,6 +463,9 @@ video#ncx-main-video {
 }
 .gradient-animation-three {
     animation-duration: 3.2s !important;
+}
+.gradient-bar {
+    overflow: hidden;
 }
 
 /* Download App Section */
@@ -491,7 +519,7 @@ video#ncx-main-video {
     margin: 0 auto;
     justify-content: space-between;
 }
-.home-blog .row.first {
+.home-blog .row.first, .home-blog .row.second, .home-blog .row.third {
     border-bottom: 1px solid #333A3D;
 }
 .home-blog .col-xs-2 {
@@ -503,10 +531,23 @@ video#ncx-main-video {
     align-items: center;
     border-right: 1px solid #333A3D;
 }
-.home-blog .col-xs-2 svg {
-    width: 80%;
+.home-blog .row .col-xs-2 img {
+    -webkit-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+    height: auto;
+    margin: 0 auto;
+    width: 70%;
 }
-#p5, #p10 {
+#p3 img{
+    width: 100% !important;
+}
+#p17 img {
+    width: 50%;
+}
+#p19 img {
+    width: 30%;
+}
+#p5, #p10, #p15, #p20 {
     border-right: none;
 }
 .home-blog {
@@ -514,6 +555,13 @@ video#ncx-main-video {
     background: url(../images/blog-banner.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+}
+.home-blog .col-xs-2:hover {
+    background: linear-gradient(88.47deg,#65E4A1 4.2%,#2460FF 94.88%);
+    cursor: pointer;
+}
+a#p20{
+    visibility: hidden;
 }
 
 /* FAQ Section */

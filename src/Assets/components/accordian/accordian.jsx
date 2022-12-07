@@ -38,19 +38,30 @@ function Accordian() {
 const data = [
     {
         question: 'Do I need to keep my Crypto on NCX?',
-        answer: 'Write Text Here. Write Text Here.',
+        answer: 'NCX strongly believes that the future of Cryptocurrencies  is in Decentralisation, hence users should always keep the custody of their assets. However some tools such us buying and selling cryptocurrency with fiat, advanced trading tools and features, fiat/crypto trading pairs, margin trading and liquidity are only available on Centralised Exchange. Users are advised to only move the assets to the trading account only to use the features & withdraw to their non-custodial wallets right after and do not store their funds on the trading account. Our DEX does not require assets moved to the platform, just connect your wallet and Swap, Stake, Farm Yield on thousands of tokes across 5 leading blockchains including Binance Smart Chain, Ethereum, Solana, Fantom and Polygon',
     },
     {
         question: 'Can I Buy/Sell Crypto with Fiat?',
-        answer: 'Write Text Here. Write Text Here. Write Text Here. Write Text Here.',
+        answer: 'Yes, this is one of the main feats of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency',
     },
     {
         question: 'What are benefits of using NCX vs other Crypto Exchnages?',
         answer: 'Write Text Here. Write Text Here. Write Text Here. Write Text Here. Write Text Here. Write Text Here.',
     },
     {
-        question: 'How can I earn $NERO Tokens?',
-        answer: 'Write Text Here. Write Text Here. Write Text Here. Write Text Here. Write Text Here. Write Text Here. Write Text Here. Write Text Here.',
+        question: 'How can I earn NCXX Tokens?',
+        answer: 
+        <div>
+            <p>NCX is on target to reach 500,000 users by the end of 2023, to achieve our goal we introduced a number of ways to 
+                grow and reward NCX community and built a scalable ecosystem. As a part of our marketing campaign:</p>
+            <ul className='faq_li'>
+                <li>Newly registered users will receive 10,000 NCXX tokens airdrop as a sign-up bonus</li>
+                <li>Earn 10,000 NCXX tokens with each new referral with NCX Referral Program, both the referred user and the one referring will receive the 10,000 NCXX tokens airdrop, one as referral another as sign-up bonus </li>
+                <li>Stake NCXX on NCX DeFi Staking & Liquidity Pools</li>
+                <li>Farm Yield and earn NCXX on NCX DeFi Yield Farms</li>
+                <li>Earn rewards in NCXX Tokens by completing task on the platform and reaching trading volumes, receive cash back on trading fees in NCXX</li>
+            </ul>
+        </div>,
     }
 ]
 

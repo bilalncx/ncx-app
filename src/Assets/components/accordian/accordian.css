@@ -16,7 +16,7 @@
 .accordian .content p {
     color: #FFFF;
     text-align: left;
-    font-family: 'hauora-regular' !important;
+    font-family: 'urbanist-regular' !important;
     font-size: 16px;
 }
 .content {
@@ -39,4 +39,25 @@ span.svg {
     padding: 7px 10.5px;
     border-radius: 50%;
     transition: all 0.4s cubic-bezier(1,1,1,1);
+}
+ul.faq_li {
+    padding-left: 0px;
+    margin-top: 20px;
+}
+ul.faq_li li {
+    font-size: 16px !important;
+    line-height: 24px;
+    font-family: 'urbanist-regular' !important;
+    padding: 5px 0px;
+    list-style-type: none !important;
+    position: relative;
+    padding-left: 20px;
+}
+ul.faq_li li:before {
+    content: '-';
+    left: 0px;
+    position: absolute;
+}
+.accordian .item:nth-child(3) .content {
+    display: none !important;
 }
