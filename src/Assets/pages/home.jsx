@@ -1122,15 +1122,10 @@ function MainHome()
                                 </div>
                                 <div className="stores">
                                     <AnimationOnScroll animateIn="animate__fadeIn">
-                                        <img src={Googleplay} alt="GooglePlay" />
                                         <img src={Applestore} alt="AppleStore"/>
-                                        <img src={Androidstore} alt="AndroidStoere" />
                                     </AnimationOnScroll>
                                 </div>
                             </div>
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <p>*NCX Exchange APK should only be installed from official website and distribution of APK on any other channel is strictly prohibited</p>
-                            </AnimationOnScroll>
                         </div>
                         <di className="bsss">
                             <AnimationOnScroll animateIn="animate__fadeIn">
@@ -1158,18 +1153,11 @@ function MainHome()
                         <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p10"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahoofinanzen} alt="YahooFinanzen" /></AnimationOnScroll></a>
                     </div>
                     <div className="row third">
-                        <a href="https://ncx.cx/" class="col-xs-2" id="p11"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooNews} alt="YahooNews" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p12"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahoo} alt="Yahoo" /></AnimationOnScroll></a>
+                        <a href="https://ncx.cx/" class="col-xs-2" id="p11"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooFinance} alt="YahooFinance" /></AnimationOnScroll></a>
+                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p12"><AnimationOnScroll animateIn="animate__fadeIn"><img src={VH} alt="VH" /></AnimationOnScroll></a>
                         <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p13"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooChina} alt="Yahoo" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p14"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooNachi} alt="YahooNachrichten" /></AnimationOnScroll></a>
+                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p14"><AnimationOnScroll animateIn="animate__fadeIn"><img src={AP} alt="AP" /></AnimationOnScroll></a>
                         <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p15"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahooactualities} alt="Yahooactualities" /></AnimationOnScroll></a>
-                    </div>
-                    <div className="row fourt">
-                        <a href="https://ncx.cx/" class="col-xs-2" id="p16"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooFinance} alt="YahooFinance" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p17"><AnimationOnScroll animateIn="animate__fadeIn"><img src={VH} alt="VH" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p18"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooNotize} alt="YahooNotize" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p19"><AnimationOnScroll animateIn="animate__fadeIn"><img src={AP} alt="AP" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p20"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahooactualities} alt="Yahooactualities" /></AnimationOnScroll></a>
                     </div>
                 </div>
                 <div className="container mobile">
@@ -1194,24 +1182,12 @@ function MainHome()
                         <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p10"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahoofinanzen} alt="YahooFinanzen" /></AnimationOnScroll></a>
                     </div>
                     <div className="row">
-                        <a href="https://ncx.cx/" class="col-xs-2" id="p11"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooNews} alt="YahooNews" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p12"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahoo} alt="Yahoo" /></AnimationOnScroll></a>
+                        <a href="https://ncx.cx/" class="col-xs-2" id="p11"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooFinance} alt="YahooFinance" /></AnimationOnScroll></a>
+                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p12"><AnimationOnScroll animateIn="animate__fadeIn"><img src={VH} alt="VH" /></AnimationOnScroll></a>
                     </div>
                     <div className="row">
                         <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p13"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooChina} alt="Yahoo" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p14"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooNachi} alt="YahooNachrichten" /></AnimationOnScroll></a>
-                    </div>
-                    <div className="row">
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p15"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahooactualities} alt="Yahooactualities" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2" id="p16"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooFinance} alt="YahooFinance" /></AnimationOnScroll></a>
-                    </div>
-                    <div className="row">
-                    <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p17"><AnimationOnScroll animateIn="animate__fadeIn"><img src={VH} alt="VH" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p18"><AnimationOnScroll animateIn="animate__fadeIn"><img src={YahooNotize} alt="YahooNotize" /></AnimationOnScroll></a>  
-                    </div>
-                    <div className="row">
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p19"><AnimationOnScroll animateIn="animate__fadeIn"><img src={AP} alt="AP" /></AnimationOnScroll></a>
-                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p20"><AnimationOnScroll animateIn="animate__fadeIn"><img src={Yahooactualities} alt="Yahooactualities" /></AnimationOnScroll></a>
+                        <a href="https://ncx.cx/" class="col-xs-2 col-half-offset" id="p14"><AnimationOnScroll animateIn="animate__fadeIn"><img src={AP} alt="AP" /></AnimationOnScroll></a>
                     </div>
                 </div>
             </div>

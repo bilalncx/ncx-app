@@ -195,9 +195,6 @@ div#mobile-tabsection {
     .download{
         padding: 20px 0px !important;
     }
-    .stores img:nth-child(1), .stores img:nth-child(3) {
-        display: none !important;
-    }
     .stores {
         display: flex;
         justify-content: center;
@@ -254,14 +251,11 @@ div#mobile-tabsection {
         width: 50% !important;
         border-bottom: 1px solid #333A3D;
     }
-    a#p2, a#p4, a#p6, a#p8, a#p10, a#p12, a#p14, a#p16, a#p18, a#p20 {
+    a#p2, a#p4, a#p6, a#p8, a#p10, a#p12, a#p14 {
         border-right: 0px !important;
     }
-    a#p19, a#p20{
+    a#p13, a#p14{
         border-bottom: 0px !important;
-    }
-    a#p20{
-        visibility: hidden;
     }
     a#p5, a#p15{
         border-right: 1px solid #333A3D !important;

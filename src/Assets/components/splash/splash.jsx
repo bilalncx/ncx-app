@@ -8,8 +8,8 @@ function SplashScreen()
                 <div class="loadingBox">
                     <div class="loading">
                         <span>N</span>
-                        <span>E</span>
-                        <span>R</span>
+                        <span>C</span>
+                        <span>X</span>
                         <span>O</span>
                         <span></span>
                         <span>C</span>

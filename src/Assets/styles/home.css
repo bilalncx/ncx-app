@@ -491,12 +491,15 @@ video#ncx-main-video {
     max-width: 210px;
 }
 .stores img {
-    max-width: 172px;
+    max-width: 160px;
     display: inherit !important;
-    margin: 16.5px;
+    /* margin: 16.5px; */
 }
 .stores {
-    padding-left: 30px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+
 }
 .download .bsss img {
     max-width: 410px;
@@ -519,7 +522,7 @@ video#ncx-main-video {
     margin: 0 auto;
     justify-content: space-between;
 }
-.home-blog .row.first, .home-blog .row.second, .home-blog .row.third {
+.home-blog .row.first, .home-blog .row.second {
     border-bottom: 1px solid #333A3D;
 }
 .home-blog .col-xs-2 {
@@ -538,17 +541,20 @@ video#ncx-main-video {
     margin: 0 auto;
     width: 70%;
 }
-#p3 img{
-    width: 100% !important;
+a#p3 img {
+    width: 100%;
 }
-#p17 img {
+#p12 img {
     width: 50%;
 }
-#p19 img {
+#p14 img {
     width: 30%;
 }
-#p5, #p10, #p15, #p20 {
+#p5, #p10, #p15 {
     border-right: none;
+}
+a#p15{
+    visibility: hidden;
 }
 .home-blog {
     padding: 100px 0px;
@@ -559,9 +565,6 @@ video#ncx-main-video {
 .home-blog .col-xs-2:hover {
     background: linear-gradient(88.47deg,#65E4A1 4.2%,#2460FF 94.88%);
     cursor: pointer;
-}
-a#p20{
-    visibility: hidden;
 }
 
 /* FAQ Section */

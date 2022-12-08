@@ -101,6 +101,9 @@ body{
 .loading span:nth-child(4) {
     -webkit-animation-delay: 0.3s;
     animation-delay: 0.3s;
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
 }
 .loading span:nth-child(5) {
     -webkit-animation-delay: 0.4s;
