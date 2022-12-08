@@ -142,6 +142,9 @@ div#mobile-tabsection {
         padding-right: 0px !important;
         margin-bottom: 30px;
     }
+    .line-div{
+        height: 80%;
+    }
     .row {
         margin: 0px !important;
     }
