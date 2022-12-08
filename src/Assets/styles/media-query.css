@@ -447,4 +447,7 @@ div#mobile-tabsection {
     .copyright{
         margin-top: 20px !important;
     }
+    div#videosection {
+        margin-top: 60px;
+    }
 }

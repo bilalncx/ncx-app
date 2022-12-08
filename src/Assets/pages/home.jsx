@@ -4,7 +4,6 @@ import '../styles/media-query.css'
 import Button from "@mui/material/Button";
 import icon from '../images/1.svg';
 import appstore from '../images/app-store.png';
-import appplay from '../images/google-app.png';
 import "animate.css/animate.min.css";
 import { ReactComponent as Icon1 } from '../images/icon-1.svg';
 import { ReactComponent as Icon2 } from '../images/icon-2.svg';
@@ -22,19 +21,13 @@ import CoinChapter from '../images/coinchapter.webp';
 import Dkoding from '../images/dkoding.png';
 import Yahoomoney from '../images/yahoo-money.png';
 import Yahoofinanzen from '../images/yahoo-finanzen.png';
-import YahooNews from '../images/yahoo-news.png';
-import Yahoo from '../images/yahoo.png';
 import YahooChina from '../images/yahoo-china.png';
-import YahooNachi from '../images/yahoo-nachrichten.png';
 import Yahooactualities from '../images/yahoo-actualites.png';
 import YahooFinance from '../images/yahoo-finance.png';
 import VH from '../images/vh.png';
-import YahooNotize from '../images/yahoo-notizie.png';
 import AP from '../images/ap.png';
 import Barcode from '../images/barcode.png';
-import Googleplay from '../images/googleplay.png';
 import Applestore from '../images/appstore.png';
-import Androidstore from '../images/android.png';
 import NCXExchange from '../images/ncx-exchange.png';
 import SliderSection from '../components/slider/slider';
 import Market1 from '../images/market1.png';
@@ -45,6 +38,8 @@ import Marketpage from '../components/market/market';
 import MyFooter from '../components/footer/footer';
 import MyHeader from '../components/header/header';
 import SplashPage from '../components/splash/splash';
+import Sidebtn1 from '../images/rightbtn1.png';
+import Sidebtn2 from '../images/rightbtn2.png';
 
 
 function MainHome()
@@ -91,20 +86,27 @@ function MainHome()
                         </Button>
                         <div className="img001">
                             <img src={appstore} alt="ncx"/>
-                            {/* <img src={appplay} alt="ncx"/> */}
                         </div>
                     </div>
-                    <div className="bsss">
-                        <video 
-                            id='hero-video'
-                            autoPlay={true}
-                            muted={true}
-                            loop={true}
-                            playsInline={true}
-                            // poster={"../src/assets/images/roadmap-bg.png"}
-                            >
-                            <source src={require('../images/Iphone-video.mp4')} type="video/mp4" />
-                        </video>
+                    <div id="videosection" className="bsss">
+                        <div className="videodiv">
+                            <video 
+                                id='hero-video'
+                                autoPlay={true}
+                                muted={true}
+                                loop={true}
+                                playsInline={true}
+                                // poster={"../src/assets/images/roadmap-bg.png"}
+                                >
+                                <source src={require('../images/video2.mp4')} type="video/mp4" />
+                            </video>
+                            <img className="sidebtn1" src={Sidebtn1} alt="NCX" />
+                            <div className="volumebtn">
+                                <img className="sidebtn2" src={Sidebtn1} alt="NCX" />
+                                <img className="sidebtn2" src={Sidebtn1} alt="NCX" />
+                            </div>
+                            <img className="sidebtn3" src={Sidebtn1} alt="NCX" />
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1068,12 +1070,6 @@ function MainHome()
                                 <h1>Customizable Interface</h1>
                                 <p>Customize the platform interface exactly as you need: change the arrangement of components, select one of the themes and customize notifications.</p>
                             </AnimationOnScroll>
-                            {/* <AnimationOnScroll animateIn="animate__slideInUp">
-                                <h1>Customizable Interface</h1>
-                            </AnimationOnScroll>
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <p>Customize the platform interface exactly as you need: change the arrangement of components, select one of the themes and customize notifications.</p>
-                            </AnimationOnScroll> */}
                         </div>
                         <div className="col">
                             <AnimationOnScroll animateIn="animate__fadeIn" className="gradient-animation-two">
@@ -1081,12 +1077,6 @@ function MainHome()
                                 <h1>Web | Mobile | iOS App</h1>
                                 <p>Enjoy all the features of NCX Platfrom on Desktop, Mobile and advanced Mobile App. Grow your Crypto wealth and keep it secure with NCX, One Platfrom - Unlimited possibilities.</p>
                             </AnimationOnScroll>
-                            {/* <AnimationOnScroll animateIn="animate__slideInUp">
-                                <h1>Web | Mobile | iOS App</h1>
-                            </AnimationOnScroll>
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <p>Enjoy all the features of NCX Platfrom on Desktop, Mobile and advanced Mobile App. Grow your Crypto wealth and keep it secure with NCX, One Platfrom - Unlimited possibilities.</p>
-                            </AnimationOnScroll> */}
                         </div>
                         <div className="col">
                             <AnimationOnScroll animateIn="animate__fadeIn" className="gradient-animation-three">
@@ -1094,12 +1084,6 @@ function MainHome()
                                 <h1>Grouping of Volumes</h1>
                                 <p>Evaluate the depth of liquidity using grouping feature in the orderbooks on all the available pairs. Get the overview of total cumulative number of opened buy and sell orders with a special widget in the Trading UI.</p>
                             </AnimationOnScroll>
-                            {/* <AnimationOnScroll animateIn="animate__slideInUp">
-                                <h1>Grouping of Volumes</h1>
-                            </AnimationOnScroll>
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <p>Evaluate the depth of liquidity using grouping feature in the orderbooks on all the available pairs. Get the overview of total cumulative number of opened buy and sell orders with a special widget in the Trading UI.</p>
-                            </AnimationOnScroll> */}
                         </div>
                     </div>
                 </div>
@@ -1200,11 +1184,6 @@ function MainHome()
                                 <p>Got a Question?</p>
                                 <h1>Frequently Asked Question</h1>
                             </AnimationOnScroll>
-                            {/* <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>Frequently Asked Question</h1>
-                                </AnimationOnScroll>
-                            </div> */}
                             <Button className="btn01">Refer a Friend & Get 10,000 $NERO Tokens
                             <svg width="31" height="8" viewBox="0 0 31 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M30.3536 3.48205C30.5488 3.67731 30.5488 3.99389 30.3536 4.18915L27.1716 7.37113C26.9763 7.56639 26.6597 7.56639 26.4645 7.37113C26.2692 7.17587 26.2692 6.85929 26.4645 6.66403L29.2929 3.8356L26.4645 1.00717C26.2692 0.811907 26.2692 0.495327 26.4645 0.300067C26.6597 0.104797 26.9763 0.104797 27.1716 0.300067L30.3536 3.48205ZM-1.90735e-06 3.3356L30 3.3356V4.3356L-1.90735e-06 4.3356V3.3356Z" fill="black"/>
