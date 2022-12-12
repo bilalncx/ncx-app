@@ -163,7 +163,7 @@ function MainHome()
                             <AnimationOnScroll animateIn="animate__fadeIn" id="hh-fade2">
                                 <div className="line-div"></div>
                             </AnimationOnScroll>
-                            <p>01</p>
+                            <p>02</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
                                     <h1>Multichain DEX</h1>
@@ -179,7 +179,7 @@ function MainHome()
                             <AnimationOnScroll animateIn="animate__fadeIn" id="hh-fade3">
                                 <div className="line-div"></div>
                             </AnimationOnScroll>
-                            <p>01</p>
+                            <p>03</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
                                     <h1>Swap on BSC, Ethereum, Polygon, Fantom & Solana</h1>
@@ -195,7 +195,7 @@ function MainHome()
                             <AnimationOnScroll animateIn="animate__fadeIn" id="hh-fade4">
                                 <div className="line-div"></div>
                             </AnimationOnScroll>
-                            <p>01</p>
+                            <p>04</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
                                     <h1>DeFi Staking & Yield Farmings</h1>
