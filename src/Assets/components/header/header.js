@@ -48,7 +48,7 @@ export default function Header() {
                         <div className="main_service_wrapper">
                           <div className="community_inner">
                             <div className="main_service">
-                              <a href="http://localhost:3000/blog">Press & News 
+                              <a href="https://ncx.cx/blog">Press & News 
                                 <p> Discover the latest NCX news and industry related articles</p> 
                               </a>
                             </div>
