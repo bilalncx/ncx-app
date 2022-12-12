@@ -73,3 +73,26 @@
     });
   });
 </script>
+
+<!-- <script>
+  jQuery(document).ready(function(){
+    if (jQuery(".mydivclass")[0]){
+      jQuery("body").adddClass("body-overflow");
+      console.log("hellll");
+    } else {
+      jQuery("body").removeClass("body-overflow");
+    }
+  });
+</script> -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    if (window.location.href.indexOf("blog") > -1) {
+      // alert("your url contains the name franky");
+      $("body").addClass("body-overflow");
+    } else{
+      $("body").removeClass("body-overflow");
+    }
+  });
+</script>

@@ -48,17 +48,17 @@ export default function Header() {
                         <div className="main_service_wrapper">
                           <div className="community_inner">
                             <div className="main_service">
-                              <a href="https://ncx.cx/blog">Press & News 
+                              <a href="./blog">Press & News 
                                 <p> Discover the latest NCX news and industry related articles</p> 
                               </a>
                             </div>
                           </div>
                           <div className="social_links">
                             <div className="social_link_inner"> 
-                              <a href="#" target="_blank">Telegram</a> 
+                              <a href="#" target="_blank" rel="noreferrer">Telegram</a> 
                             </div>
                             <div className="social_link_inner"> 
-                              <a href="#" target="_blank">Twitter</a> 
+                              <a href="https://twitter.com/ncx_cx" target="_blank" rel="noreferrer">Twitter</a> 
                             </div>
                           </div>
                         </div>
@@ -70,7 +70,7 @@ export default function Header() {
                       <h4> Support </h4>
                       <div className="connect_links">
                         <div className="box">
-                          <a href="/contact">Contact
+                          <a href="#">Contact
                             <p>Do something amazing, today. Talk to our Growth Strategy expert.</p>
                             <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg"> 
                               <path fill-rule="evenodd" clip-rule="evenodd" d="M12 4.49399L7.07931 9.00006L6.89362 8.81787L11.6154 4.49399L6.89362 0.1701L7.07931 5.96875e-05L12 4.49399Z" fill="#141414"></path> 

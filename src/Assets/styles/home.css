@@ -10,8 +10,8 @@
     font-family: 'hauora-regular';
     src: url(../fonts/Hauora-Regular.ttf);
 }
-.splashScreen {
-    overflow: hidden !important;
+.body-overflow {
+    overflow: scroll !important;
 }
 /* width */
 ::-webkit-scrollbar {
