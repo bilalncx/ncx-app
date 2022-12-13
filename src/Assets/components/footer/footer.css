@@ -39,4 +39,16 @@ div#footerdiv {
     color: #FFFFFF;
     font-family: 'urbanist-regular';
     font-size: 14px;
+    text-align: end;
+}
+.second-column, .third-column {
+    visibility: hidden;
+}
+.social-media .icons:nth-child(1) {
+    display: none;
+}
+@media screen and (min-width: 900px){
+    .copyright {
+        margin-top: -46px;
+    }
 }

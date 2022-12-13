@@ -253,6 +253,7 @@ div#mobile-tabsection {
     .home-blog .row .col-xs-2 {
         width: 50% !important;
         border-bottom: 1px solid #333A3D;
+        text-align: center;
     }
     a#p2, a#p4, a#p6, a#p8, a#p10, a#p12, a#p14 {
         border-right: 0px !important;

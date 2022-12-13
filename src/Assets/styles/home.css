@@ -12,6 +12,7 @@
 }
 .body-overflow {
     overflow: scroll !important;
+    overflow-x: hidden !important;
 }
 /* width */
 ::-webkit-scrollbar {
@@ -366,6 +367,7 @@ video#hero-video {
 }
 .tickbox, .optionalbox {
     padding: 4.65px;
+    text-align: center;
 }
 .txt-blue {
     position: relative;
@@ -592,6 +594,7 @@ video#ncx-main-video {
     display: flex;
     align-items: center;
     border-right: 1px solid #333A3D;
+    text-align: center;
 }
 .home-blog .row .col-xs-2 img {
     -webkit-filter: brightness(0) invert(1);

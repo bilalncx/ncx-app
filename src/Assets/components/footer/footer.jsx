@@ -12,11 +12,11 @@ function MyFooter()
                 <div class="footer-row">
                     <div class="first-column">
                         <ul>
-                            <li><a href="https://ncx.cx/market">Markets</a></li>
-                            <li><a href="https://ncx.cx/rewards">Rewards</a></li>
-                            <li><a href="#">Security</a></li>
-                            <li><a href="#">NeroSwap</a></li>
-                            <li><a href="https://ncx.cx/staking">Staking</a></li>
+                            <li><a href="https://ncx.cx">Home</a></li>
+                            <li><a href="https://ncx.cx/#market">Markets</a></li>
+                            <li><a href="https://ncx.cx/#features">Features</a></li>
+                            <li><a href="https://ncx.cx/#faq">FAQ</a></li>
+                            <li><a href="https://ncx.cx/blog">News & Press</a></li>
                         </ul>
                     </div>
                     <div class="second-column">

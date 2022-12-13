@@ -54,7 +54,7 @@ const blogListdata = [
     },
     {
       id: 2,
-      title: <div>Binance's Bitcoin Reserves Are Overcollateralized, New Report Says</div>,
+      title: 'Binance Bitcoin Reserves Are Overcollateralized, New Report Says',
       category: 'News',
       subCategory: ['binance news', 'bitcoin', 'Reports'],
       description: <div className="blog-desc">
@@ -93,7 +93,7 @@ const blogListdata = [
     },
     {
       id: 3,
-      title: <div>Bitcoin Retraces 3 Weeks of Gains as Analysts Blame Macroeconomic Turmoil</div>,
+      title: 'Bitcoin Retraces 3 Weeks of Gains as Analysts Blame Macroeconomic Turmoil',
       category: 'Press',
       subCategory: ['Markets', 'News', 'Reports'],
       description: <div className="blog-desc">
@@ -135,7 +135,7 @@ const blogListdata = [
     },
     {
       id: 4,
-      title: <div>Binance's Bitcoin Reserves Are Overcollateralized, New Report Says</div>,
+      title: 'Binance Bitcoin Reserves Are Overcollateralized, New Report Says',
       category: 'News',
       subCategory: ['vacation', 'holidays', 'sight seeing'],
       description:

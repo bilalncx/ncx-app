@@ -102,7 +102,7 @@ const Blog = () => {
                     <img src={blog.authorAvatar} alt={blog.authorName} />
                     <h1><a href={blog.authorurl} target="_blank">{blog.authorName}</a></h1>
                   </div>
-                  <p>{blog.authorContent}</p>
+                  <p className='author-content'>{blog.authorContent}</p>
                 </div>
               </div>
               ) : (

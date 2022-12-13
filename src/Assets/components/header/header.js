@@ -25,13 +25,13 @@ export default function Header() {
             </IconButton>
             <ul className="navlink">
               <li className="main_title white_bg">
-                <a href="https://ncx.cx/">home</a>
+                <a href="https://ncx.cx/">Home</a>
               </li>
               <li className="main_title white_bg">
-                <a href="#">Exchange</a>
+                <a href="https://ncx.cx/#market">Market</a>
               </li>
               <li className="main_title white_bg">
-                <a href="#">DEX</a>
+                <a href="https://ncx.cx/#features">Features</a>
               </li>
               <li className="main_title white_bg">
                 <a href="#">Connect
@@ -54,9 +54,9 @@ export default function Header() {
                             </div>
                           </div>
                           <div className="social_links">
-                            <div className="social_link_inner"> 
+                            {/* <div className="social_link_inner"> 
                               <a href="#" target="_blank" rel="noreferrer">Telegram</a> 
-                            </div>
+                            </div> */}
                             <div className="social_link_inner"> 
                               <a href="https://twitter.com/ncx_cx" target="_blank" rel="noreferrer">Twitter</a> 
                             </div>
@@ -70,7 +70,7 @@ export default function Header() {
                       <h4> Support </h4>
                       <div className="connect_links">
                         <div className="box">
-                          <a href="#">Contact
+                          <a href="https://ncx.cx/">Contact
                             <p>Do something amazing, today. Talk to our Growth Strategy expert.</p>
                             <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg"> 
                               <path fill-rule="evenodd" clip-rule="evenodd" d="M12 4.49399L7.07931 9.00006L6.89362 8.81787L11.6154 4.49399L6.89362 0.1701L7.07931 5.96875e-05L12 4.49399Z" fill="#141414"></path> 
@@ -109,9 +109,9 @@ export default function Header() {
                 <input type="checkbox" id="nav" />
                 <ul class="nav-overlary">
                   <li><a href="https://ncx.cx/">Home</a></li>
-                  <li><a href="#">Exchange</a></li>
-                  <li><a href="#">DEX</a></li>
-                  <li><a href="#">Blog</a></li>
+                  <li><a href="https://ncx.cx/#market">Market</a></li>
+                  <li><a href="https://ncx.cx/#features">Features</a></li>
+                  <li><a href="https://ncx.cx/blog">Blog</a></li>
                   <div className="buttons-div">
                     <Button className="btn01 signup">Sign Up</Button>
                     <Button className="signin">Sign In</Button>

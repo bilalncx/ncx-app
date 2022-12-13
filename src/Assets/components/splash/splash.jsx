@@ -10,22 +10,6 @@ function SplashScreen()
                         <span>N</span>
                         <span>C</span>
                         <span>X</span>
-                        <span>O</span>
-                        <span></span>
-                        <span>C</span>
-                        <span>R</span>
-                        <span>Y</span>
-                        <span>P</span>
-                        <span>T</span>
-                        <span>O</span>
-                        <span>C</span>
-                        <span>U</span>
-                        <span>R</span>
-                        <span>R</span>
-                        <span>E</span>
-                        <span>N</span>
-                        <span>C</span>
-                        <span>Y</span>
                         <span></span>
                         <span>E</span>
                         <span>X</span>
