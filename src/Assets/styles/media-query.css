@@ -568,4 +568,7 @@ div#mobile-tabsection {
         display: block !important;
         padding: 4px 8px !important;
     }
+    .loading span:nth-child(5) {
+        display: none;
+    }
 }
