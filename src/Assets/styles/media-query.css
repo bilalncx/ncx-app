@@ -324,6 +324,12 @@ div#mobile-tabsection {
     #mobile-tabs-content .row.body-text.second {
         margin-top: 20px !important;
     }
+    .row.body-text.second .txt-blue:before{
+        height: 105% !important;
+    }
+    .row.body-text.second .tickbox, .row.body-text.second .optionalbox {
+        padding: 6px 0px;
+    }
     .mobile-bp p {
         font-size: 12px;
         line-height: 18px;

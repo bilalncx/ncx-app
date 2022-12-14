@@ -288,6 +288,7 @@ video#hero-video {
     position: absolute;
     left: -49px;
     top: 50%;
+    display: none;
 }
 .pinkarrow h3 {
     color: #FFFFFF;
@@ -300,11 +301,21 @@ video#hero-video {
     min-width: 120px;
     position: absolute;
     left: -49px;
-    top: 50%;
+    top: 45%;
+    text-align: center;
+}
+.pinkarrow{
+    text-align: end;
+    position: relative;
+    right: 10px;
+}
+.pinkarrow img{
+    width: 15%;
+    max-width: 380px !important;
 }
 .whitearrow svg, .pinkarrow svg {
     position: relative;
-    left: 20px;
+    left: 45px;
 }
 .tabledex .body {
     display: flex;
@@ -347,9 +358,13 @@ video#hero-video {
     font-family: 'urbanist-medium';
     font-size: 20px;
     line-height: 24px;
+    text-align: center;
 }
 .txt-cl, .txt-blue {
     width: 25%;
+}
+.txt-cl h3 span {
+    display: block;
 }
 .row.body-text {
     margin: 0px;
@@ -390,6 +405,7 @@ video#hero-video {
 }
 .row.body-text.second .txt-blue:before {
     background: #222222;
+    height: 100%;
 }
 .agreement-p {
     margin-top: 20px;
