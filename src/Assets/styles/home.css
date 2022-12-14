@@ -317,6 +317,9 @@ video#hero-video {
     position: relative;
     left: 45px;
 }
+.row.body-text.second .tickbox, .row.body-text.second .optionalbox {
+    padding: 6px;
+}
 .tabledex .body {
     display: flex;
     margin: 0px;
@@ -405,7 +408,7 @@ video#hero-video {
 }
 .row.body-text.second .txt-blue:before {
     background: #222222;
-    height: 100%;
+    height: 104%;
 }
 .agreement-p {
     margin-top: 20px;
