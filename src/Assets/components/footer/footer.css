@@ -41,7 +41,7 @@ div#footerdiv {
     font-size: 14px;
     text-align: end;
 }
-.second-column, .third-column {
+.third-column {
     visibility: hidden;
 }
 .social-media .icons:nth-child(1) {

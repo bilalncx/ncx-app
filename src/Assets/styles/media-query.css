@@ -421,7 +421,7 @@ div#mobile-tabsection {
         order: 2;
         margin-top: 20px !important;
     }
-    .second-column, .third-column{
+    .third-column{
         display: none !important;
     }
     .second-column{
@@ -456,6 +456,7 @@ div#mobile-tabsection {
     }
     .copyright p{
         font-size: 10px !important;
+        text-align: center;
     }
     .copyright{
         margin-top: 20px !important;

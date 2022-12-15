@@ -1,25 +1,12 @@
-// import './App.css';
-// import { Redirect, Route, Switch } from 'react-router-dom';
-// import Home from './Assets/pages/home';
-// import './Assets/pages/markets';
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <Home />
-//     </div>
-//   );
-// }
-
-// export default App;
-
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Blog from './Assets/pages/blog/blog';
 import Home from './Assets/pages/home';
-import Market from './Assets/pages/markets';
 import Press from './Assets/pages/bloglisting';
+import PrivacyPolicy from './Assets/pages/privacy-policy/privacy-policy';
+import KYCAMLPolicy from './Assets/pages/kyc-aml-policy/kyc-aml-policy';
+import UserAgreement from './Assets/pages/user-agreement/user-agreement';
 
 const App = () => {
   return (
@@ -29,7 +16,9 @@ const App = () => {
           <Route path='/' exact element={<Home />} />
           <Route path='/blog' element={<Press />}/>
           <Route path='/blog/:id' element={<Blog />} />
-          <Route path='/market' element={Market}/>
+          <Route path='/privacy-policy' element={<PrivacyPolicy />}/>
+          <Route path='/kyc-aml-policy' element={<KYCAMLPolicy />}/>
+          <Route path='/user-agreement' element={<UserAgreement />}/>
         </Routes>
       </BrowserRouter>
     </div>

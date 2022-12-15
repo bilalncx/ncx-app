@@ -1,0 +1,93 @@
+.policy{
+    min-height: 600px;
+    background: url(../../images/otherservice.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.policy .head.container{
+    padding: 0px 50px;
+}
+.policy .head h1{
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 58px;
+    line-height: 68px;
+}
+.policy-body.container {
+    padding: 80px 0px;
+}
+.policy-body h2 {
+    font-size: 36px;
+    font-family: 'urbanist-medium';
+    line-height: 42px;
+    margin-bottom: 20px;
+}
+.policy-body p {
+    font-size: 16px;
+    font-family: 'hauora-regular';
+    line-height: 22px;
+    padding: 5px 0px;
+    text-align: justify;
+}
+.policy-body h3 {
+    font-size: 24px;
+    font-family: 'urbanist-medium';
+    line-height: 24px;
+    margin: 17px 0px 10px 0px;
+}
+.policy-body li {
+    font-family: 'hauora-regular';
+    font-size: 16px;
+    line-height: 20px;
+    padding: 5px;
+    text-align: justify;
+}
+.policy .head h1 span {
+    display: block;
+}
+.policy-body h2 span {
+    display: block;
+}
+.policy-body li h4 {
+    font-family: 'urbanist-medium';
+    margin-top: 5px;
+}
+.policy-body li span {
+    display: block;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 800px){
+    .policy{
+        min-height: 300px;
+    }
+    .policy .head.container{
+        padding-left: 30px !important;
+    }
+    .policy .head h1{
+        font-size: 40px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .policy .head h1 span {
+        display: inline !important;
+    }
+    .policy-body.container{
+        padding: 50px 20px !important;
+    }
+    .policy-body h2{
+        font-size: 30px;
+        line-height: 32px;
+        margin-bottom: 10px;
+    }
+    .policy-body h3{
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .policy-body h2 span {
+        display: inline;
+    }
+}

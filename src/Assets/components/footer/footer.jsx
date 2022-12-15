@@ -21,8 +21,8 @@ function MyFooter()
                     </div>
                     <div class="second-column">
                         <ul>
-                            <li><a href="#">Whitepaper</a></li>
-                            <li><a href="#">Nero Coin</a></li>
+                            <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
+                            <li><a href="https://ncx.cx/kyc-aml-policy">KYC and AML Policy</a></li>
                             <li><a href="https://ncx.cx/user-agreement">User Agreeement</a></li>
                         </ul>
                     </div>
