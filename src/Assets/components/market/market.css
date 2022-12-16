@@ -1,54 +1,5 @@
-@font-face {
-    font-family: 'DMSans-regular';
-    src: url(https://ncx.cx/src/fonts/DMSans-Regular.ttf);
-}
-@font-face {
-    font-family: 'poppins-regular';
-    src: url(https://ncx.cx/src/fonts/Poppins-Regular.otf);
-}
-@font-face {
-    font-family: 'poppins-light';
-    src: url(https://ncx.cx/src/fonts/Poppins-Light.otf);
-}
-@font-face {
-    font-family: 'proxima-nova';
-    src: url(https://ncx.cx/src/fonts/Proxima-Nova-font.ttf);
-}
-@font-face {
-    font-family: 'poppins-medium';
-    src: url(https://ncx.cx/src/fonts/Poppins-Medium.otf);
-}
-@font-face {
-    font-family: 'Alliance-no-2-regular';
-    src: url(https://ncx.cx/src/fonts/Alliance-no-2-regular.otf);
-}
-@font-face {
-    font-family: 'Alliance-no-2-light';
-    src: url(https://ncx.cx/src/fonts/Alliance-no-2-light.otf);
-}
-@font-face {
-    font-family: 'poppins-extralight';
-    src: url(https://ncx.cx/src/fonts/Poppins-ExtraLight.otf);
-}
-@font-face {
-    font-family: 'din-regular';
-    src: url(https://ncx.cx/src/fonts/DIN-Regular.ttf);
-}
-@font-face {
-    font-family: 'din-medium';
-    src: url(https://ncx.cx/src/fonts/DIN-Medium.ttf);
-}
-@font-face {
-    font-family: 'din-bold';
-    src: url(https://ncx.cx/src/fonts/DIN-Bold.ttf);
-}
-@font-face {
-    font-family: 'din-light';
-    src: url(https://ncx.cx/src/fonts/DIN-Light.ttf);
-}
-
 body, h2, h1, h4, h3, div, p{
-    font-family: 'poppins-regular';
+    font-family: 'urbanist-regular';
 }
 
 .market_header_section {
@@ -74,7 +25,7 @@ body, h2, h1, h4, h3, div, p{
 }
 .market_inner_div h2 {
     font-size: 58px;
-    font-family: 'din-regular';
+    font-family: 'hauora-regular';
     margin: 0px;
     margin-bottom: 0px;
 }
@@ -91,7 +42,7 @@ table#table-market {
 #table-market thead th {
     font-size: 16px;
     line-height: 18px;
-    font-family: 'din-light';
+    font-family: 'urbanist-regular';
     color: #C7CAC9;
     text-align: left;
     padding: 10px 0px 5px 0px !important;
@@ -118,7 +69,7 @@ tbody tr:hover {
 /*}*/
 .currrency_name h2 {
     font-size: 14px;
-    font-family: 'din-regular';
+    font-family: 'urbanist-regular';
     font-weight: 500;
     line-height: 20px;
     text-transform: capitalize;
@@ -131,7 +82,7 @@ tbody tr:hover {
     text-transform: uppercase;
 }
 .currrency_price h2, .currrency_24change h2, .currrency_7daychange h2, .currrency_marketcap h2 {
-    font-family: 'din-regular';
+    font-family: 'urbanist-regular';
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
@@ -193,7 +144,7 @@ tbody tr:hover {
     .currrency_price h2, .currrency_24change h2, .currrency_7daychange h2, .currrency_marketcap h2{
             display: inline-block !important;
             width: 100% !important;
-            font-family: 'Alliance-no-2-light' !important;
+            font-family: 'urbanist-regular' !important;
         }
         .currrency_name span.star-svg {
             display: inline-block !important;
@@ -202,7 +153,7 @@ tbody tr:hover {
         .currrency_name h2{
             display: inline-block !important;
             width: 85% !important;
-            font-family: 'Alliance-no-2-light' !important;
+            font-family: 'urbanist-regular' !important;
         }
         .market_inner_div h2{
             font-family: 'Alliance-no-2-regular' !important;
