@@ -162,6 +162,7 @@ ul.navlink li {
     padding: 10px 0;
     cursor: initial;
     transition: .3s;
+    font-family: 'urbanist-regular';
 }
 .mega_menu .social_links {
     width: 30%;
@@ -220,6 +221,7 @@ ul.navlink li {
     opacity: .4;
     padding: 10px 0 15px;
     cursor: pointer;
+    font-family: 'urbanist-regular';
 }
 .connect_links svg {
     transform: none !important;

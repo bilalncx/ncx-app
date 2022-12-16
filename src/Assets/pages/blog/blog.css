@@ -63,7 +63,7 @@
     width: 100% !important;
 }
 .blog_detailspage .container {
-  padding: 80px 0px;
+  padding: 30px 0px;
 }
 .leftsidebar svg path:nth-child(2) {
   fill: #000000 !important;
@@ -105,6 +105,7 @@
   line-height: 32px;
   margin-top: 40px;
   margin-bottom: 20px;
+  font-family: 'urbanist-regular';
 }
 p.left-text {
   font-family: 'urbanist-regular';
@@ -148,11 +149,27 @@ p.blog-date {
   margin-bottom: 12px;
   text-align: justify;
 }
-.blog-content p a {
+.blog-content p a, .blog-content ul li a {
   color: #2460FF;
   font-size: 15px;
   line-height: 24px;
   font-family: 'hauora-regular';
+}
+.blog-content h3{
+  font-family: 'urbanist-medium';
+  font-size: 20px;
+  line-height: 24px;
+}
+.blog-content ul {
+  margin-top: 15px;
+}
+.blog-content ul li{
+  font-size: 15px;
+  font-family: 'hauora-regular';
+  line-height: 24px;
+}
+.trend svg path:nth-child(2) {
+  fill: #000000;
 }
 .author-details img {
   width: 60px;

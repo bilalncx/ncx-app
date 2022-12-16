@@ -7,6 +7,7 @@ import blogListdata from '../../config/jata';
 import MyHeader from '../components/header/header';
 import MyFooter from '../components/footer/footer';
 import SliderBlog from '../../blogcomponents/homeblog/BlogSlider/blogslider';
+import { ReactComponent as NCXLogo } from '../../Assets/images/NCX-logo.svg';
 
 const Home = () => {
   const [blogs, setBlogs] = useState(blogListdata);
@@ -53,7 +54,10 @@ const Home = () => {
         <div className="container">
           <div className="blog-search">
             <div className='blog_heading'>
-              <h1>Learn More About Us</h1>
+              <div className="trend">
+                <NCXLogo />
+                <h3>Trends</h3>
+              </div>
               <p>See what the best app development agency in UAE is saying</p>
             </div>
             <div className="blog-buttons">

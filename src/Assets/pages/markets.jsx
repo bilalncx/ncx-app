@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/market.css';
 import MarketPage from '../components/market/market';
 
 function MarketsPageSection()

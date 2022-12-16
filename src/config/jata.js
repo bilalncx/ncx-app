@@ -135,16 +135,140 @@ const blogListdata = [
     },
     {
       id: 4,
-      title: 'Binance Bitcoin Reserves Are Overcollateralized, New Report Says',
+      title: 'Hong Kong Stock Exchange debuts ‘Asia’s first’ crypto futures ETFs',
       category: 'News',
-      subCategory: ['vacation', 'holidays', 'sight seeing'],
-      description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      authorName: 'John Doe',
-      authorAvatar: '../Assets/images/author.jpg',
-      createdAt: 'June 03, 2021',
-      cover: 'https://cdn-gmaph.nitrocdn.com/awUROinaMuUZjuokHApFepEHtdYvFKyg/assets/static/optimized/rev-2bda6ba/wp-content/uploads/2022/05/AB_BlogImages-08-Small.png',
+      subCategory: ['Stock Exchange', 'ETFs', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>The Hong Kong Exchanges and Clearing Ltd. launched two exchange-traded funds (ETFs) tracking cryptocurrency</p>
+      </div>,
+      authorName: 'Timmy Shen',
+      authorurl: '',
+      authorAvatar: 'https://downloads.coindesk.com/cd3/author-page/avatar-placeholder.png',
+      authorContent: '',
+      createdAt: 'Dec 16, 2022 - 07:43 AM',
+      cover: 'https://s.yimg.com/ny/api/res/1.2/HqBM4T5k6_sziTv8aV1lHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzODtjZj13ZWJw/https://media.zenfs.com/en/forkast_news_articles_672/5baa28927095b77c90d9a0620175b46a',
+      content: <div className="blog-content">
+        <p>The Hong Kong Exchanges and Clearing Ltd. launched two exchange-traded funds (ETFs) tracking cryptocurrency futures on Friday, becoming the first “in Asia to offer crypto asset exposure through ETFs,” the exchange <a href="https://www.hkex.com.hk/News/News-Release/2022/221216news?sc_lang=en" target="_blank" rel="noreferrer">said</a>.</p>
+        <p>See related article: <a href="https://forkast.news/headlines/hong-kongs-virtual-asset-licensing-regime-to-take-effect-next-june/" target="_blank" rel="noreferrer">Hong Kong’s virtual asset licensing regime to take effect next June</a></p>
+        <h3>Fast Facts</h3>
+        <ul>
+          <li>The two ETFs — <a href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Exchange-Traded-Products/Exchange-Traded-Products-Quote?sym=3066&sc_lang=en" target="_blank" rel="noreferrer">CSOP Bitcoin Futures ETF</a> and <a href="https://www.hkex.com.hk/Market-Data/Securities-Prices/Exchange-Traded-Products/Exchange-Traded-Products-Quote?sym=3068&sc_lang=en" target="_blank" rel="noreferrer">CSOP Ether Futures ETF</a> — respectively track the Bitcoin futures contracts and Ether futures contracts traded on the Chicago Mercantile Exchange, and are both managed by CSOP Asset Management Ltd., a Hong Kong unit of Chinese state-backed asset manager China Southern Asset Management Co. Ltd.</li>
+          <li>The two attracted a combined US$73.6 million in investment ahead of their Friday debut, CSOP said in a <a href="https://www.businesswire.com/news/home/20221214006108/en/CSOP-Bitcoin-Futures-ETF-3066.HK-and-CSOP-Ether-Futures-ETF-3068.HK-to-List-on-HKEX" target="_blank" rel="noreferrer">Thursday statement</a>.</li>
+          <li>“They provide investors with exposure to the digital asset space for the first time in Asia and reflect both our ongoing commitment to, and the market’s appetite for, the digital economy,” Wilfred Yiu, chief operating officer and co-head of markets of Hong Kong Exchanges and Clearing, or HKEX, said in a <a href="https://www.hkex.com.hk/News/News-Release/2022/221216news?sc_lang=en" target="_blank" rel="noreferrer">Friday statetment</a>.</li>
+          <li>The city’s first crypto-linked ETFs come after Hong Kong in October <a href="https://forkast.news/hong-kong-announces-policies-to-win-back-role-as-digital-asset-hub/" target="_blank" rel="noreferrer">said</a> it would work to regain its role as a cryptocurrency hub in Asia. Financial Secretary Paul Chan last month <a href="https://forkast.news/headlines/hong-kong-continues-to-welcome-virtual-assets-after-ftx-debacle/" target="_blank" rel="noreferrer">doubled</a> down on the government’s position despite the <a href="https://forkast.news/u-s-senator-elizabeth-warren-submits-crypto-know-your-customer-bill-in-wake-of-ftx-collapse/" target="_blank" rel="noreferrer">collapse</a> of the FTX.com exchange.</li>
+          <li>Last week, Hong Kong’s Legislative Council <a href="https://forkast.news/headlines/hong-kongs-virtual-asset-licensing-regime-to-take-effect-next-june/" target="_blank" rel="noreferrer">passed an amendment to the bill</a> that includes a licensing regime for virtual asset service providers, which will come into effect on June 1, 2023.</li>
+        </ul>
+        <p>See related article: <a href="https://forkast.news/headlines/hong-kong-mulls-regulatory-requirements-for-local-licensed-crypto-exchanges-report/" target="_blank" rel="noreferrer">Hong Kong mulls regulatory requirements for local licensed crypto exchanges: report</a></p>
+      </div>,
     },
+    {
+      id: 5,
+      title: 'Japan plans to ease corporate tax rates for cryptocurrency issuers',
+      category: 'News',
+      subCategory: ['Crypto Tax', 'ETFs', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>Japan’s ruling Liberal Democratic Party approved a proposal on Thursday that exempts companies issuing cryptocurrencies...</p>
+      </div>,
+      authorName: 'Danny Park',
+      authorurl: '',
+      authorAvatar: 'https://downloads.coindesk.com/cd3/author-page/avatar-placeholder.png',
+      authorContent: '',
+      createdAt: 'Dec 16, 2022 - 07:26 AM',
+      cover: 'https://s.yimg.com/ny/api/res/1.2/n5SEJgUdRmEAyLoYE0rmuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMDtjZj13ZWJw/https://media.zenfs.com/en/forkast_news_articles_672/f6821a2168bd28ef3c47c595b22310de',
+      content: <div className="blog-content">
+        <p>Japan’s ruling Liberal Democratic Party approved a proposal on Thursday that exempts companies issuing cryptocurrencies from taxes on unrealized capital gains for tokens they retain on their books, Bloomberg reported, citing party member Akihisa Shiozaki.</p>
+        <p>See related article: <a href="https://forkast.news/headlines/japan-lawmaker-regulatory-clarity-ftx/" target="_blank" rel="noreferrer">Japan ruling party lawmaker calls for regulatory clarity after FTX debacle</a></p>
+        <h3>Fast Facts</h3>
+        <ul>
+          <li>The proposal reviewed by the ruling party’s tax committee aims to improve business conditions for companies issuing cryptocurrencies,<a href="https://www.bloomberg.com/news/articles/2022-12-15/japan-moves-closer-to-easing-tax-on-corporate-crypto-holdings?leadSource=uverify%20wall" target="_blank" rel="noreferrer">Shiozaki told Bloomberg</a>.</li>
+          <li>Currently, Japan imposes a levy of around 30% on companies sitting on unrealized gains from cryptocurrency holdings.</li>
+          <li>Prime Minister Fumio Kishida’s administration is expected to finalize its annual tax policy guidelines before the end of this year, while tax code amendments are usually submitted to parliament in January.</li>
+          <li>The tax legislation indicates the authorities are pursuing earlier announced plans to cut some of the red tape on the crypto industry to encourage innovation and investment, despite the collapse of the FTX.com crypto exchange, which had an operation in Japan.</li>
+          <li>Japan’s Virtual and Crypto assets Exchange Association (JVCEA), the self-regulatory body that oversees local crypto exchanges, <a href="https://forkast.news/headlines/japan-eases-token-vetting-process-crypto/" target="_blank" rel="noreferrer">said</a> in October it would relax its screening process for crypto token listings.</li>
+          <li>Kishida, who became prime minister in September 2021, has been a supporter of digital finance and blockchain adoption, recently announcing further investments in the non-fungible token (NFT) and metaverse industry. He included crypto in plans to reinvigorate the economy, under his “new capitalism” mandate.</li>
+        </ul>
+        <p>See related article: <a href="https://forkast.news/headlines/japan-eases-token-vetting-process-crypto/" target="_blank" rel="noreferrer">Japan eases token vetting process to expand crypto offerings: report</a></p>
+      </div>,
+    },
+    {
+      id: 6,
+      title: 'PayPal (PYPL) Integrates With MetaMask, Boosts Crypto Efforts',
+      category: 'News',
+      subCategory: ['Paypal', 'Metamask', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>PayPal PYPL joined forces with ConsenSys in a bid to expand its offerings in the booming cryptocurrency space..</p>
+      </div>,
+      authorName: 'Zacks Equity Research',
+      authorurl: '',
+      authorAvatar: 'https://downloads.coindesk.com/cd3/author-page/avatar-placeholder.png',
+      authorContent: '',
+      createdAt: 'Dec 15, 2022 - 07:16 PM',
+      cover: 'https://s.yimg.com/ny/api/res/1.2/CayJj5PaeoLu8rKyuR5_4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ0MztjZj13ZWJw/https://media.zenfs.com/en/zacks.com/924e7d5074a2a8293801aacbdea3f652',
+      content: <div className="blog-content">
+        <p>PayPal PYPL joined forces with ConsenSys in a bid to expand its offerings in the booming cryptocurrency space and expand its customer reach.</p>
+        <p>Per the terms, PayPal has been added as an option for cryptocurrency transactions to ConsenSys’ MetaMask, which is a digital cryptocurrency wallet.</p>
+        <p>Notably, users of MetaMask will now be able to buy and transfer the second-most-popular cryptocurrency called Ether seamlessly by just tapping the “buy” button and logging into their PayPal accounts.</p>
+        <p>The underlined integration will aid MetaMask in expanding its reach to customers using Web3 applications like play-to-earn games and metaverse applications, among others.</p>
+        <p>Similarly, PayPal will also be able to gain traction among Web3 application users, whose number is rising rapidly.</p>
+        <p>Currently, the PayPal option within MetaMask is available to selected U.S. users. The feature will be rolled out eventually across the United States.</p>
+        <h3>PayPal Holdings, Inc. Price and Consensus</h3>
+        <img src="https://s.yimg.com/ny/api/res/1.2/CayJj5PaeoLu8rKyuR5_4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ0MztjZj13ZWJw/https://media.zenfs.com/en/zacks.com/924e7d5074a2a8293801aacbdea3f652" alt="Paypal holdings, Inc. Price and Consensus"/>
+        <p>PayPal Holdings, Inc. price-consensus-chart | PayPal Holdings, Inc. Quote</p>
+        <h3>Growing Crypto Efforts</h3>
+        <p>The latest move bodes well for the company’s strengthening crypto initiatives.</p>
+        <p>Apart from the latest move, PayPal offers a feature called crypto on Venmo, which lets Venmo customers buy, hold and sell cryptocurrency directly within the Venmo app. Customers can also check cryptocurrency trends from the app. </p>
+        <p>Further, the company offers its cryptocurrency service in the United Kingdom, which allows users to buy, hold and sell digital currencies like bitcoin, bitcoin cash, Ethereum and Litecoin directly from their PayPal accounts.</p>
+        <p>PayPal’s acquisition of a digital asset security technology provider — Curv — remains noteworthy.</p>
+        <p>The unveiling of a feature called Checkout with Crypto, which allows customers to seamlessly convert their cryptocurrency holdings into fiat currency at the checkout, is another positive.</p>
+        <p>With all these endeavors, PayPal remains well-poised to penetrate the booming cryptocurrency market rapidly amid the pandemic, which has highlighted the importance of digital currency transactions.</p>
+        <p>Per a report by Grand View Research, the global cryptocurrency market is expected to witness a CAGR of 12.2% between 2022 and 2030.</p>
+        <h3>Competitive Scenario</h3>
+        <p>We note that the latest move, along with the above-mentioned efforts, is likely to strengthen PayPal’s competitive position against one of its biggest peers, Block SQ.</p>
+        <p>Block facilitates the buying and selling of bitcoins via its Cash App. It also intends to develop a bitcoin mining system, with the help of which it strives to carry out the processes of mining, maintaining, setting up and purchasing bitcoin efficiently.</p>
+        <p>Apart from Square, Shopify SHOP is also leaving no stone unturned to gain a strong foothold in the cryptocurrency space.</p>
+        <p>Shopify allows its merchants to accept payments in bitcoin, Litecoin, Ethereum and many other cryptocurrencies. It recently took a step further in the crypto market by making its platform NFT-enabled, which allows users to mint and trade collectibles.</p>
+        <p>Nevertheless, PayPal’s strong crypto initiatives and the growing crypto volume are likely to strengthen its position in the intensifying cryptocurrency battle against the above-mentioned companies.</p>
+        <h3>Zacks Rank & Other Stocks to Consider</h3>
+        <p>Currently, PayPal carries a Zacks Rank #3 (Hold).</p>
+        <p>Investors interested in the broader Zacks Computer & Technology sector can consider a better-ranked stock like Arista Networks ANET, which sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today’s Zacks #1 Rank stocks here.</p>
+        <p>Arista Networks has lost 8.9% in the year-to-date period. The long-term earnings growth rate for ANET is currently projected at 17.5%.</p>
+        <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. <a href="https://www.zacks.com/registration/pfp/?ALERT=RPT_7BEST_YHOSYND&ADID=SYND_YAHOO_7BEST_ANALYSTBLOG_253&cid=CS-YAHOO-FT-analyst_blog|company_news_tech_sector-2029196" target="_blank" rel="noreferrer">Click to get this free report</a></p>
+        <p><a href="https://www.zacks.com/registration/pfp?ALERT=YAHOO_ZER&d_alert=ZER_CONF&t=ANET&ADID=SYND_YAHOO_TCK_ANALYSTBLOG_253&cid=CS-YAHOO-FT-analyst_blog|company_news_tech_sector-2029196" target="_blank" rel="noreferrer">Arista Networks, Inc. (ANET) : Free Stock Analysis Report</a></p>
+        <p><a href="https://www.zacks.com/registration/pfp?ALERT=YAHOO_ZER&d_alert=ZER_CONF&t=PYPL&ADID=SYND_YAHOO_TCK_ANALYSTBLOG_253&cid=CS-YAHOO-FT-analyst_blog|company_news_tech_sector-2029196" target="_blank" rel="noreferrer">PayPal Holdings, Inc. (PYPL) : Free Stock Analysis Report</a></p>
+        <p><a href="https://www.zacks.com/registration/pfp?ALERT=YAHOO_ZER&d_alert=ZER_CONF&t=SHOP&ADID=SYND_YAHOO_TCK_ANALYSTBLOG_253&cid=CS-YAHOO-FT-analyst_blog|company_news_tech_sector-2029196" target="_blank" rel="noreferrer">Shopify Inc. (SHOP) : Free Stock Analysis Report</a></p>
+        <p><a href="https://www.zacks.com/registration/pfp?ALERT=YAHOO_ZER&d_alert=ZER_CONF&t=SQ&ADID=SYND_YAHOO_TCK_ANALYSTBLOG_253&cid=CS-YAHOO-FT-analyst_blog|company_news_tech_sector-2029196" target="_blank" rel="noreferrer">Block, Inc. (SQ) : Free Stock Analysis Report</a></p>
+        <p><a href="https://www.zacks.com/stock/news/2029196/paypal-pypl-integrates-with-metamask-boosts-crypto-efforts?cid=CS-YAHOO-FT-analyst_blog|company_news_tech_sector-2029196" target="_blank" rel="noreferrer">To read this article on Zacks.com click here.</a></p>
+        <p><a href="https://www.zacks.com/" target="_blank" rel="noreferrer">Zacks Investment Research</a></p>
+      </div>,
+    },
+    {
+      id: 7,
+      title: 'Spike in Network Activity for Several Altcoins: Santiment Report',
+      category: 'News',
+      subCategory: ['Spike network', 'Santiment report', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>“big upticks in address activity and dormant wallets awakening to move their funds.”</p>
+      </div>,
+      authorName: 'Steven Walgenbach',
+      authorurl: 'https://coinedition.com/author/steven-walgenbach/',
+      authorAvatar: 'https://downloads.coindesk.com/cd3/author-page/avatar-placeholder.png',
+      authorContent: 'Steven has been involved in the crypto space since 2014 and has coded, invested in, and mined crypto. He is now keen to play apart in the global narrative for crypto.',
+      createdAt: 'Dec 16, 2022 - 08:26 PM',
+      cover: 'https://coinedition.com/wp-content/uploads/2022/12/Several-altcoins-are-seeing-big-upticks.jpg',
+      content: <div className="blog-content">
+        <p>A tweet by the blockchain intelligence firm, Santiment in the past day shows that several altcoins have seen “big upticks in address activity and dormant wallets awakening to move their funds.” The tweet read: “Others [altcoins] are staying stuck in the mud and are more likely to fall behind.”</p>
+        <p>Santiment focused on three altcoins in its latest report such as Uniswap (UNI), Ren (REN), and yearn.finance (YFI).</p>
+        <p>One example of an altcoin that has seen its network activity increase quite impressively after a consolidation period is YFI, according to the blockchain intelligence firm.</p>
+        <p></p>
+        <img src="https://coinedition.com/wp-content/uploads/2022/12/SANTIMENT-1920x650.png" alt="Spike in Network Activity" />
+        <p>Meanwhile, the report showed that network activity for REN did not pick up as much as YFI because of the project’s “complicated financial situation.”</p>
+        <p>Lastly, UNI experienced strong growth before when the project announced its NFT marketplace. Network activity for UNI has continued to grow, even compared with the NFT-related pump, according to the report.</p>
+        <p>At press time, YFI is trading at $6,257.01 following a 2.63% drop in price over the last 24 hours. This is according to the crypto market tracking website, CoinMarketCap. The altcoin’s price has also weakened against Bitcoin (BTC) and Ethereum (ETH) by 0.80% and 0.98%, respectively.</p>
+        <p>REN on the other hand, is up 2.88% over the last 24 hours. In addition to strengthening against the U.S. dollar, REN’s price has become resilient against BTC and ETH by 4.80% and 4.61%, respectively.</p>
+        <p>UNI is also currently down 1.52%, but, it strengthened against Bitcoin by 0.44% and also strengthened against ETH by 0.24% over the same time period.</p>
+        <p><strong>Disclaimer:</strong> The views and opinions, as well as all the information shared in this price analysis, are published in good faith. Readers must do their own research and due diligence. Any action taken by the reader is strictly at their own risk. Coin Edition and its affiliates will not be held liable for any direct or indirect damage or loss.</p>
+      </div>,
+    }
   ];
   
   export default blogListdata;
