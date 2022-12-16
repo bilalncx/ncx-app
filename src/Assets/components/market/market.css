@@ -105,6 +105,7 @@ tbody tr:hover {
 .currrency_name span.star-svg svg {
     width: 16px;
     height: 16px;
+    position: absolute;
 }
 .currrency_name span.star-svg svg path{
     fill: #000000 !important;
