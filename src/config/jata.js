@@ -268,6 +268,41 @@ const blogListdata = [
         <p>UNI is also currently down 1.52%, but, it strengthened against Bitcoin by 0.44% and also strengthened against ETH by 0.24% over the same time period.</p>
         <p><strong>Disclaimer:</strong> The views and opinions, as well as all the information shared in this price analysis, are published in good faith. Readers must do their own research and due diligence. Any action taken by the reader is strictly at their own risk. Coin Edition and its affiliates will not be held liable for any direct or indirect damage or loss.</p>
       </div>,
+    },
+    {
+      id: 8,
+      title: '13% of Americans have now held crypto: JPMorgan research',
+      category: 'News',
+      subCategory: ['American', 'Morgan', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>The JPMorgan report is based on a study of cash transfers from banks to crypto accounts for over 5 million customers.</p>
+      </div>,
+      authorName: 'TOM BLACKSTONE',
+      authorurl: 'https://cointelegraph.com/authors/tom-blackstone',
+      authorAvatar: 'https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=300/https://s3.cointelegraph.com/storage/uploads/view/fcc228ab484f6733d5208bb3df2e94e7.jpg',
+      authorContent: 'Tom Blackstone has been writing about finance and technology since 2014. His areas of expertise include: crypto regulations, wallet security, public/private cryptography, the history of cryptocurrencies, and blockchain video games.',
+      createdAt: 'Dec 16, 2022 - 08:26 PM',
+      cover: 'https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=717/https://s3.cointelegraph.com/uploads/2022-12/36a51ff2-4004-482f-9e8b-6f1c84b7dc58.jpg',
+      content: <div className="blog-content">
+        <p>Around 13% of the American population — or 43 million people — have held cryptocurrency at some point in their lives, new research from JPMorgan Chase has revealed.</p>
+        <p>According to a Dec. 13 report titled "The Dynamics and Demographics of U.S. Household Crypto-Asset Use,” this number has risen dramatically since before 2020, when the figure was only around 3%.</p>
+        <p>The latest data from JPMorgan comes from analyzing checking account transfers from a sample of over 5 million customers. It found that 600,000 customers in this sample group transferred cash to crypto accounts at some point during period from 2020 to 2022.</p>
+        <p>The study also noted that cryptocurrency holders typically made their first crypto purchases during spikes in crypto prices. During this time, the amount of cash being sent into crypto exchange accounts typically far outweigh the cash being removed. In other words, most people were holding onto their crypto during this time period.</p>
+        <p>This changed in early 2022 as crypto prices fell, according to JPMorgan. In recent months, cash transfers into crypto exchanges have only slightly exceeded cash transfers out of them.</p>
+        <p>JPMorgan says that this is a result of both price declines in crypto and a broader trend of the savings rate declining in the United States since the pandemic:</p>
+        <p>“We view the rise and fall of crypto use since the onset of COVID as consistent with the joint relationship between retail flows and market prices seen in prior research. Additionally, the trend in crypto flows also tracks dynamics of household savings, which spiked to historic highs early in the pandemic but has begun to reverse.”</p>
+        <h3>Who's buying?</h3>
+        <p>The report also weighed in on whether certain demographic groups are more likely to buy crypto. It found that men of all ages buy significantly more crypto than women, and that younger people buy significantly more than older people. For example, the report found that over 25% of millennial men have bought crypto, whereas only around 12% of millennial women and 5% of male baby boomers have.</p>
+        <img src="https://s3.cointelegraph.com/uploads/2022-12/5a822161-3af7-4b27-8a3c-54c08517f7b5.png" alt="breakdown of crpto" />
+        <p>A breakdown of crypto ownership by demographic. Source: JP Morgan Chase</p>
+        <p>he research also found that crypto holdings were relatively minor for most individuals, with median flows equal to less than one week’s worth of take-home pay. </p>
+        <p>On the other hand, about 15% of crypto owners had more than a month’s pay invested in crypto</p>
+        <p><strong>Related: <a href="https://cointelegraph.com/news/arthur-hayes-bitcoin-bottomed-as-everyone-who-could-go-bankrupt-has-gone-bankrupt" target="_blank" rel="noreferrer">Arthur Hayes says Bitcoin has bottomed as “everyone who could go bankrupt has gone bankrupt”</a></strong></p>
+        <p>The crypto market has gone through a dramatic fall in 2022. Bitcoin has fallen from a 2022 high of $47,459 in March to $17,208 at the time of writing, while Ether has fallen from $3,521 in April to $1,273 at the time of writing.</p>
+        <p>This fall in the crypto market has been the result of market shocks such as TerraUSD (UST) stablecoin <a href="https://cointelegraph.com/news/terra-peg-mechanism-in-doubt-as-ust-crashes-to-67-cents" target="_blank" rel="noreferrer">losing its peg</a> in May and crypto exchange <a href="https://cointelegraph.com/news/bankruptcy-court-told-ftx-and-alameda-owe-blockfi-1b-but-it-s-complicated" target="_blank" rel="noreferrer">FTX going bankrupt</a> in November.</p>
+        <p>Trading fees have fallen on many crypto exchanges, and Coinbase has even stated that its <a href="https://cointelegraph.com/news/coinbase-ceo-says-trading-revenue-has-fallen-to-roughly-half-what-it-was-last-year" target="_blank" rel="noreferrer">revenue has fallen</a> by nearly 50%.</p>
+        <p>But despite this decline in crypto prices and trading activity, this new report indicates that crypto ownership has still increased over the course of the last few years.</p>
+      </div>,
     }
   ];
   
