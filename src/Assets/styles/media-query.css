@@ -139,14 +139,16 @@ div#mobile-tabsection {
         float: left;
         padding: 0px;
         height: 250px;
+        margin-bottom: 20px;
     }
     .hh_col h1 {
-        font-size: 17px;
+        font-size: 15px;
         padding-right: 0px !important;
         margin-bottom: 30px;
+        min-height: 130px;
     }
     .line-div{
-        height: 80%;
+        height: 95%;
     }
     .row {
         margin: 0px !important;
@@ -214,7 +216,7 @@ div#mobile-tabsection {
     }
     .hero-section {
         background: #000000;
-        padding-top: 30px !important;
+        padding-top: 80px !important;
     }
     section#slider {
         background: #000000;
@@ -379,6 +381,17 @@ div#mobile-tabsection {
         margin-right: 10px !important;
         margin-bottom: 10px !important;
         font-size: 9px !important;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 5px 8px !important;
+    }
+    #slider > div.section-center.mobile > article:nth-child(3) > div.tag-class.rowfour,
+    #slider > div.section-center.mobile > article:nth-child(4) > div.tag-class.rowthree,
+    #slider > div.section-center.mobile > article:nth-child(4) > div.tag-class.rowfour > h2{
+        visibility: hidden;
     }
     #slider .tet-img{
         width: 100% !important;
@@ -406,13 +419,6 @@ div#mobile-tabsection {
         width: 100% !important;
         top: -530px !important;
         padding: 0px 20px !important;
-    }
-    #slider > div.section-center.mobile > article:nth-child(2) > div:nth-child(4) > h2:nth-child(2),
-    #slider > div.section-center.mobile > article:nth-child(4) > div:nth-child(4) > h2:nth-child(1),
-    #slider > div.section-center.mobile > article.lastSlide > div:nth-child(4) > h2:nth-child(2),
-    #slider > div.section-center.mobile > article:nth-child(4) > div:nth-child(4) > h2:nth-child(3),
-    #slider > div.section-center.mobile > article:nth-child(2) > div:nth-child(4) > h2:nth-child(3){
-        display: none;
     }
     .footer-row {
         flex-flow: column wrap;
