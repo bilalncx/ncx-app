@@ -584,4 +584,15 @@ div#mobile-tabsection {
     .loading span:nth-child(5) {
         display: none;
     }
+    .blog-search .blog_heading .trend svg {
+        min-width: 130px !important;
+        width: 130px !important;
+        height: 30px !important;
+    }
+    .blog-search .blog_heading .trend h3 {
+        font-size: 34px !important;
+    }
+    .blog-search .blog_heading .trend {
+        margin-bottom: 30px;
+    }
 }
