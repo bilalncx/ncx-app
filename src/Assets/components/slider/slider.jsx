@@ -32,7 +32,7 @@ const Sliderfunction = () => {
             <div className="section-center desktop">
                 <h1 className="features-include">Feartures include</h1>
                 {people.map((item, indexPeople) => {
-                    const {id, image, name, tag1, tag2, tag3, tag4, tag5, tag6, tag7, tag8, tag9, icon, content, button, url} = item;
+                    const {id, image, name, tag1, tag2, tag3, tag4, tag5, tag6, tag7, tag8, tag9, tag10, icon, content, button, url} = item;
                     let position = "nextSlide";
                     if(indexPeople === item) {
                         position = "activeSlide";
@@ -44,18 +44,21 @@ const Sliderfunction = () => {
                         <article className={position} key={id}>
                             <Animated animationIn="fadeInRight" animationOut="fadeOut" isVisible={true}>
                             <h1>{name}</h1>
-                            <div className="tag-class">
+                            <div className="tag-class rowone">
                                 <h2>{tag1}</h2>
                                 <h2>{tag2}</h2>
                                 <h2>{tag3}</h2>
                                 <h2>{tag4}</h2>
                             </div>
-                            <div className="tag-class">
+                            <div className="tag-class rowtwo">
                                 <h2>{tag5}</h2>
                                 <h2>{tag6}</h2>
                                 <h2>{tag7}</h2>
+                            </div>
+                            <div className="tag-class rowthree">
                                 <h2>{tag8}</h2>
                                 <h2>{tag9}</h2>
+                                <h2>{tag10}</h2>
                             </div>
                             <div className="row text-image">
                                 <div className="tet">

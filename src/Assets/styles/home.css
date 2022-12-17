@@ -51,7 +51,7 @@ section.bg-dark {
     padding-top: 50px;
 }
 .hero-section{
-    padding: 130px 0px 50px 0px;
+    padding: 140px 0px 50px 0px;
 }
 .bsss{
     text-align: center;
@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, p{
     line-height: 60px;
     color: #FFFFFF;
     font-family: 'urbanist-regular';
-    padding: 20px 130px 20px 0px;
+    padding: 20px 100px 20px 0px;
 }
 .hashtag{
     padding-bottom: 10px;
@@ -233,9 +233,11 @@ video#hero-video {
     line-height: 26px;
     color: #FFFFFF;
     font-family: 'urbanist-regular';
-    margin: 0px 0px 40px 0px;
-    padding-right: 50px;
-    min-height: 78px;
+    margin: 0px 0px 50px 0px;
+    min-height: 104px;
+}
+.hh_col h1 span {
+    display: block;
 }
 .hh_row {
     padding-top: 120px;
@@ -463,7 +465,7 @@ video#ncx-main-video {
     line-height: 68px;
     font-family: 'urbanist-medium';
     text-align: left;
-    padding-right: 120px;
+    /* padding-right: 120px; */
 }
 .generate-div p {
     font-size: 16px;
@@ -573,7 +575,7 @@ video#ncx-main-video {
 .stores img {
     max-width: 160px;
     display: inherit !important;
-    /* margin: 16.5px; */
+    margin: 15px 0px;
 }
 .stores {
     padding-left: 50px;

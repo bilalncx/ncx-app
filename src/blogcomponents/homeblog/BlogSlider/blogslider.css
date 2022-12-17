@@ -31,6 +31,10 @@ section#slider-blog{
     font-size: 18px;
     line-height: 30px;
 }
+#slider-blog p a{
+    color: #104ff5 !important;
+    text-decoration: underline;
+}
 #slider-blog .moving-btm {
     width: 70%;
     margin: 0 auto;

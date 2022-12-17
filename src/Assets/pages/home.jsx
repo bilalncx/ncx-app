@@ -4,6 +4,8 @@ import '../styles/media-query.css'
 import Button from "@mui/material/Button";
 import icon from '../images/1.svg';
 import appstore from '../images/app-store.png';
+import Googleplay from '../images/google-app.png';
+import DownloadGoogle from '../images/googleplay.png';
 import "animate.css/animate.min.css";
 import { ReactComponent as Icon1 } from '../images/icon-1.svg';
 import { ReactComponent as Icon2 } from '../images/icon-2.svg';
@@ -59,21 +61,21 @@ function MainHome()
                 <div className="row container">
                     <div className="asss">
                         <img src={icon} alt="ncx" />
-                        <h1>Buy, Sell, Trade, Swap, Stake, Farm Yield on NCX Hybrid CEX/DEX Platform</h1>
+                        <h1>Trade, Swap, Stake, Farm Yield on NCX Hybrid CEX/DEX & Trading Platform</h1>
                         <div className="hashtag">
-                            <span>Fiat/Crypto Trading</span>
                             <span>Advanced CEX</span>
                             <span>Multichain DEX</span>
+                            <span>Swap over 1000s of tokens across 5 Blockchains</span>
                         </div>
                         <div className="hashtag">
-                            <span>Over 80 Trading Pairs</span>
-                            <span>Decentraised Staking</span>
-                            <span>Advanced Security & Private Keys</span>
+                            <span>Over 500 Trading Pairs</span>
+                            <span>DeFi Staking</span>
+                            <span>Yied Farming</span>
+                            <span>Liquidity Pools</span>
                         </div>
                         <div className="hashtag">
-                            <span>Margin Trading</span>
-                            <span>Yied Farms</span>
-                            <span>Swap Across 5 Leading Blockchains</span>
+                            <span>Trade Crypto, Forex, Stock Market, ETFs, Indexes, Metals  with up to 100x Leverage</span>
+                            {/* <span>Swap Across 5 Leading Blockchains</span> */}
                         </div>
                         <Button className="btn01 hero-btn">Sign Up
                             <svg width="31" height="8" viewBox="0 0 31 8" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -87,6 +89,7 @@ function MainHome()
                         </Button>
                         <div className="img001">
                             <img src={appstore} alt="ncx"/>
+                            <img src={Googleplay} alt="ncx" />
                         </div>
                     </div>
                     <div id="videosection" className="bsss">
@@ -118,28 +121,26 @@ function MainHome()
                         <div className="cex asss">
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>Hybrid CEX DEX all-in-</h1>
+                                    <h1>Hybrid CEX DEX all-in-one</h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>one Cryptocurrency</h1>
+                                    <h1>Cryptocurrency Exchange</h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>exchange for Web3.</h1>
+                                    <h1>& Trading Platform</h1>
                                 </AnimationOnScroll>
                             </div>
                         </div>
                         <div className="dex bsss">
                             <AnimationOnScroll animateIn="animate__fadeIn">
-                                <p>NCX is a next generation Hybrid Cryptocurrency Exchange combining Decentralised Finance with the 
-                                    ease of use and advantages of a traditional Cryptocurrency Exchange in a single advanced 
-                                    all-in-one  platform and scalable ecosystem, providing an ultimate Cryptocurrency Exchange 
-                                    for Web3. Having the main benefits of CEX such as fiat deposits/withdrawals, advanced spot 
-                                    trading with multiple order types, high trading volume and liquidity, fiat-cryptocurrency trading 
-                                    and vice versa, advanced security and 24/7 live support.</p>
+                                <p>NCX is a next generation Hybrid Cryptocurrency Exchange and Trading Platform combining 
+                                    Decentralised Finance with the ease of use & advantages of a traditional Cryptocurrency 
+                                    Exchange in a single advanced all-in-one  platform and scalable ecosystem, providing an 
+                                    ultimate Cryptocurrency Exchange and Trading Platform. </p>
                             </AnimationOnScroll>
                         </div>
                     </div>
@@ -151,7 +152,10 @@ function MainHome()
                             <p>01</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>CEX Fiat Crypto Trading Margin Trading</h1>
+                                    <h1>CEX 
+                                    <span>Fiat/Crypto Trading</span> 
+                                    <span>spot Trading</span>
+                                    </h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="hh_icon">
@@ -167,7 +171,10 @@ function MainHome()
                             <p>02</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>Multichain DEX</h1>
+                                    <h1>Margin Trading 
+                                        <span>Crypto CFD, Forex,</span>
+                                        <span>Stock Market, ETFs, </span>
+                                        <span>Indexes, Metals Trading</span></h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="hh_icon">
@@ -183,7 +190,10 @@ function MainHome()
                             <p>03</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>Swap on BSC, Ethereum, Polygon, Fantom & Solana</h1>
+                                    <h1>Multichain DEX on 
+                                        <span>Binance Smart Chain</span> 
+                                        <span>Ethereum, Polygon</span> 
+                                        <span>Avalanche & Solana</span></h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="hh_icon">
@@ -199,7 +209,9 @@ function MainHome()
                             <p>04</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>DeFi Staking & Yield Farmings</h1>
+                                    <h1>DeFi Staking 
+                                        <span>Yield Farming</span>
+                                        <span>Liquidity Pools</span></h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="hh_icon">
@@ -1356,7 +1368,10 @@ function MainHome()
                 <div className="container">
                         <div className="generate-div">
                             <AnimationOnScroll animateIn="animate__slideInUp">
-                                <h1>New Generation Crypto Exchange leading the Web3 Revolution</h1>
+                                <h1>New Generation Crypto Exchange and Trading</h1>
+                            </AnimationOnScroll>
+                            <AnimationOnScroll animateIn="animate__slideInUp">
+                                <h1>Platform leading the Web3 Revolution</h1>
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <p>One app. Unlimited possibilities.</p>
@@ -1434,6 +1449,7 @@ function MainHome()
                                 <div className="stores">
                                     <AnimationOnScroll animateIn="animate__fadeIn">
                                         <img src={Applestore} alt="AppleStore"/>
+                                        <img src={DownloadGoogle} alt="GoogleStore" />
                                     </AnimationOnScroll>
                                 </div>
                             </div>

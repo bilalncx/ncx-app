@@ -34,7 +34,7 @@
 
   /* s\******************* */
   .blog_detailspage{
-    padding: 84px 0px;
+    padding: 120px 0px 90px 0px;
   }
   .blog_detailspage .container .row .col{
     flex: inherit;
@@ -75,6 +75,14 @@
 .trend svg {
   width: 110px;
 } 
+.blog-search .blog_heading .trend svg {
+  width: 100%;
+  min-width: 140px;
+  height: auto;
+}
+.blog-search .blog_heading .trend h3{
+  font-size: 36px;
+}
 .trend h3 {
   font-size: 30px;
   font-family: 'urbanist-regular';

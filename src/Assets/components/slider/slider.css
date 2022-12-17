@@ -101,12 +101,15 @@ section#slider {
 #slider > div > article:nth-child(2) > h1{
     width: 25% ;
 }
-#slider > div.section-center.desktop > article:nth-child(2) > div > div:nth-child(3) > h2:nth-child(4),
-#slider > div.section-center.desktop > article:nth-child(2) > div > div:nth-child(3) > h2:nth-child(5),
-#slider > div.section-center.desktop > article:nth-child(4) > div > div:nth-child(3) > h2:nth-child(3),
-#slider > div.section-center.desktop > article:nth-child(4) > div > div:nth-child(3) > h2:nth-child(4),
-#slider > div.section-center.desktop > article:nth-child(4) > div > div:nth-child(3) > h2:nth-child(5){
+#slider > div.section-center.desktop > article:nth-child(3) > div > div.tag-class.rowthree > h2:nth-child(3),
+#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowtwo > h2:nth-child(3){
     display: none;
+}
+#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree{
+    visibility: hidden;
+}
+.tag-class {
+    min-height: 44.5px !important;
 }
 article {
     overflow-x: hidden !important;
