@@ -22,6 +22,12 @@ div#header-newmobile {
     }
 }
 @media screen and (max-width: 800px){
+    body{
+        overflow: visible !important;
+    }
+    .splashScreen {
+        display: none !important;
+    }
     div#header-newmobile {
         display: block;
     }
