@@ -303,7 +303,77 @@ const blogListdata = [
         <p>Trading fees have fallen on many crypto exchanges, and Coinbase has even stated that its <a href="https://cointelegraph.com/news/coinbase-ceo-says-trading-revenue-has-fallen-to-roughly-half-what-it-was-last-year" target="_blank" rel="noreferrer">revenue has fallen</a> by nearly 50%.</p>
         <p>But despite this decline in crypto prices and trading activity, this new report indicates that crypto ownership has still increased over the course of the last few years.</p>
       </div>,
-    }
+    },
+    {
+      id: 9,
+      title: 'DEXs see increase in trading volume as investors tread carefully around CEXes',
+      category: 'Press',
+      subCategory: ['American', 'Morgan', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>With the recent events in the crypto space, investors seem to be putting more faith in DEXes</p>
+      </div>,
+      authorName: 'Suzuki Shillsalot',
+      authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+      authorAvatar: 'https://ambcrypto.com/wp-content/uploads/2022/08/image-1-300x300.jpeg',
+      authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+      createdAt: 'Nov 25, 2022 - 12:26 PM',
+      cover: 'https://ambcrypto.com/wp-content/uploads/2022/11/pexels-anna-nekrashevich-6801874-scaled-e1669363554617.jpg',
+      content: <div className="blog-content">
+        <p>With the recent events in the crypto space, investors seem to be putting more faith in DEXes</p>
+        <p>DEXes has seen recently seen an increase in trading volume and TVL in recent time</p>
+        <p>Investors have started viewing <a href="https://ambcrypto.com/chainalysis-report-reveals-this-about-centralized-vs-decentralized-exchanges/" target="_blank" rel="noreferrer">centralized exchanges</a> (CEXes) with skepticism as fear and uncertainty have engulfed the cryptocurrency market. However, despite the current state of CEXes, their decentralized equivalent seems to be thriving. According to data by Messari, decentralized exchanges (DEXes) have recently experienced a significant spike in volume. But how significant have these spikes been?</p>
+        <h3>DEXes trade volume surge</h3>
+        <p>Messari’s statistics revealed that the top three DEXes, <a href="https://ambcrypto.com/uniswap-is-changing-tactics-to-pursue-more-growth-beyond-l1-l2-heres-how/" target="_blank" rel="noreferrer">Uniswap</a>, Balancer, and <a href="https://ambcrypto.com/sushiswap-investors-going-long-can-expect-this-in-the-coming-week/" target="_blank" rel="noreferrer" >Sushiswap</a> had a combined transaction volume of nearly $7 billion over the previous 30 days. However, a closer look at each one showed how much growth had occurred.</p>
+        <p>In terms of transaction volume and TVL, <a href="https://ambcrypto.com/uniswap-user-and-dev-activity-lack-of-profitability-and-everything-in-between/" target="_blank" rel="noreferrer">Uniswap</a> was ranked first among all DEXes. The trading volume for Uniswap revealed that there had been noticeable rises in recent weeks. This demonstrates the platform’s increased trading activity.</p>
+        <p>The trading volume for the DEX reached approximately $300 million, which was a record for the year so far, according to the trade volume chart.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-pink.png" alt="Dex sees inceases in trading volume"/>
+        <p>It had experienced $3.57 billion in trade volume over the previous 30 days, a rise of 65.32%. Although the TVL showed a modest dip, it still had $2.6 billion, at the time of writing.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-down.png" alt="Dex sees inceases in trading volume"/>
+        <p>In the previous 30 days, its revenue had likewise climbed by over 64%.</p>
+        <p>Additionally, a glance at Balancer revealed that the DEX experienced a sharp increase in trade volume. Trading volume reached its all-time high during this time, rising by a staggering 730.38% in the past 30 days to reach $2.09 billion</p>
+        <p>The overall revenue climbed by 40.68% and was $1.09 million during the same time frame. Also, TVL had <a href="https://messari.io/protocol/balancer-v2" target="_blank" rel="noreferrer">grown</a> by almost 600% and was worth $699 million, as of this writing. </p>
+        <h3>Overall TVL sees an uptrend</h3>
+        <p>It was also evident that there had been a rise in total TVL during November, according to DefiLlama data. From the statistics, it was clear that there had been a reduction in recent months. Starting from $57 billion in October, the TVL observed at the time of this writing was above $92 billion.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-up.png" alt="breakdown of crpto" />
+        <p>The obvious increase in these DEXes’ trading volumes is evidence of how recently that area has come to receive a lot more attention. The increased interest could lead to a more balanced crypto economy and encourage participation outside of centralized exchanges.</p>
+        <p>This is not meant to minimize or overlook the significance of centralized exchanges within the ecosystem; rather, DEXes provide investors with different options.</p>
+      </div>,
+    },
+    // {
+    //   id: 10,
+    //   title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
+    //   category: 'Press',
+    //   subCategory: ['American', 'Morgan', 'Crypto'],
+    //   description: <div className="blog-desc">
+    //     <p>According to new data from Dune Analytics, Aave [AAVE] users on Arbitrum witnessed major growth. </p>
+    //   </div>,
+    //   authorName: 'Suzuki Shillsalot',
+    //   authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    //   authorAvatar: 'https://ambcrypto.com/wp-content/uploads/2022/08/image-1-300x300.jpeg',
+    //   authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+    //   createdAt: 'Nov 25, 2022 - 12:26 PM',
+    //   cover: 'https://ambcrypto.com/wp-content/uploads/2022/11/pexels-anna-nekrashevich-6801874-scaled-e1669363554617.jpg',
+    //   content: <div className="blog-content">
+    //     <p>With the recent events in the crypto space, investors seem to be putting more faith in DEXes</p>
+    //     <p>DEXes has seen recently seen an increase in trading volume and TVL in recent time</p>
+    //     <p>Investors have started viewing <a href="https://ambcrypto.com/chainalysis-report-reveals-this-about-centralized-vs-decentralized-exchanges/" target="_blank" rel="noreferrer">centralized exchanges</a> (CEXes) with skepticism as fear and uncertainty have engulfed the cryptocurrency market. However, despite the current state of CEXes, their decentralized equivalent seems to be thriving. According to data by Messari, decentralized exchanges (DEXes) have recently experienced a significant spike in volume. But how significant have these spikes been?</p>
+    //     <h3>DEXes trade volume surge</h3>
+    //     <p>Messari’s statistics revealed that the top three DEXes, <a href="https://ambcrypto.com/uniswap-is-changing-tactics-to-pursue-more-growth-beyond-l1-l2-heres-how/" target="_blank" rel="noreferrer">Uniswap</a>, Balancer, and <a href="https://ambcrypto.com/sushiswap-investors-going-long-can-expect-this-in-the-coming-week/" target="_blank" rel="noreferrer" >Sushiswap</a> had a combined transaction volume of nearly $7 billion over the previous 30 days. However, a closer look at each one showed how much growth had occurred.</p>
+    //     <p>In terms of transaction volume and TVL, <a href="https://ambcrypto.com/uniswap-user-and-dev-activity-lack-of-profitability-and-everything-in-between/" target="_blank" rel="noreferrer">Uniswap</a> was ranked first among all DEXes. The trading volume for Uniswap revealed that there had been noticeable rises in recent weeks. This demonstrates the platform’s increased trading activity.</p>
+    //     <p>The trading volume for the DEX reached approximately $300 million, which was a record for the year so far, according to the trade volume chart.</p>
+    //     <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-pink.png" alt="Dex sees inceases in trading volume"/>
+    //     <p>It had experienced $3.57 billion in trade volume over the previous 30 days, a rise of 65.32%. Although the TVL showed a modest dip, it still had $2.6 billion, at the time of writing.</p>
+    //     <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-down.png" alt="Dex sees inceases in trading volume"/>
+    //     <p>In the previous 30 days, its revenue had likewise climbed by over 64%.</p>
+    //     <p>Additionally, a glance at Balancer revealed that the DEX experienced a sharp increase in trade volume. Trading volume reached its all-time high during this time, rising by a staggering 730.38% in the past 30 days to reach $2.09 billion</p>
+    //     <p>The overall revenue climbed by 40.68% and was $1.09 million during the same time frame. Also, TVL had <a href="https://messari.io/protocol/balancer-v2" target="_blank" rel="noreferrer">grown</a> by almost 600% and was worth $699 million, as of this writing. </p>
+    //     <h3>Overall TVL sees an uptrend</h3>
+    //     <p>It was also evident that there had been a rise in total TVL during November, according to DefiLlama data. From the statistics, it was clear that there had been a reduction in recent months. Starting from $57 billion in October, the TVL observed at the time of this writing was above $92 billion.</p>
+    //     <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-up.png" alt="breakdown of crpto" />
+    //     <p>The obvious increase in these DEXes’ trading volumes is evidence of how recently that area has come to receive a lot more attention. The increased interest could lead to a more balanced crypto economy and encourage participation outside of centralized exchanges.</p>
+    //     <p>This is not meant to minimize or overlook the significance of centralized exchanges within the ecosystem; rather, DEXes provide investors with different options.</p>
+    //   </div>,
+    // }
   ];
   
   export default blogListdata;

@@ -26,6 +26,9 @@
     max-height: 800px;
     object-fit: cover;
   }
+  .blog-content img {
+    padding: 10px 0px;
+  }
   .blog-desc {
     padding: 1rem;
     margin-top: 1.5rem;

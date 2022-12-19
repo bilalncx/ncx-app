@@ -13,12 +13,18 @@ div#mobile-tabsection {
 .blog_heading p{
     display: none;
 }
+div#header-newmobile {
+    display: none;
+}
 @media (min-width: 1200px){
     .container {
         width: 1300px;
     }
 }
 @media screen and (max-width: 800px){
+    div#header-newmobile {
+        display: block;
+    }
     .market-exchange .row.marketimg {
         display: none !important;
     }
@@ -43,37 +49,10 @@ div#mobile-tabsection {
     #main-header{
         display: none !important;
     }
-    div#mobile-header {
-        display: flex !important;
-        justify-content: space-between !important;
-        align-items: center !important;
-        margin: 0 auto;
-    }
-    .mobile-container {
-        display: flex;
-        justify-content: space-between;
-        width: 100%;
-    }
-    .mobile-logo{
-        width: 80%;
-        text-align: left;
-    }
     .header-logo{
         width: 100% !important;
         text-align: left;
         justify-content: left !important;
-    }
-    .mobile-menu{
-        width: 20% !important;
-        display: flex;
-        align-items: center;
-        justify-content: right;
-    }
-    .nav-btn{
-        position: unset !important;
-        right: 0px !important;
-        top: 0px !important;
-        margin-bottom: 0px !important;
     }
     header#header-row{
         position: relative !important;
@@ -99,11 +78,31 @@ div#mobile-tabsection {
         padding: 20px 0px 20px 0px;
     }
     .hashtag span{
-        font-size: 10px !important;
+        font-size: 13px !important;
         margin-bottom: 10px !important;
+        padding:7px 12px !important;
     }
     .hashtag {
         padding-bottom: 0px !important;
+    }
+    .hero-section:before{
+        display: none;
+    }
+    .hero-section{
+        padding-top: 30px !important;
+        padding-bottom: 0px !important;
+        background: linear-gradient(180deg,rgba(5,27,96,0) 20%,#051b60 58.85%),#141414 !important;
+    }
+    .hero-section .row.container{
+        padding-bottom: 50px !important;
+    }
+    .second-container{
+        display: none;
+    }
+    #csexdex{
+        display: block;
+        padding-top: 50px;
+        margin-top: -1px;
     }
     .hero-section button.btn01 {
         font-size: 12px !important;
@@ -213,10 +212,6 @@ div#mobile-tabsection {
     }
     section.bg-dark {
         background: #FFFFFF !important;
-    }
-    .hero-section {
-        background: #000000;
-        padding-top: 80px !important;
     }
     section#slider {
         background: #000000;

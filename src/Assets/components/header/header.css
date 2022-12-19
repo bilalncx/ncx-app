@@ -255,65 +255,92 @@ header {
 
 
 /* Mobile Css */
-.nav-btn{
-    position: fixed;
-    top:30px;
-    right: 0px;
-    cursor: pointer;
-}
-
-#nav{
-    display: none;
-}
-
-.nav-overlary{
-    position: absolute;
-    display: inline-block;
-    text-align: center;
-    width: 100%;
-    height: 100vh;
-    padding: 40px;
-    list-style: none;
-    opacity: 0;
-    transform: translateY(-100);
-    transition: .5s;
-    z-index: -1;
-    background: #000000;
-    left: 0px;
-    top: 75px !important
-}
-
-.nav-overlary li{
-    font-size: 22px;
-    text-transform: uppercase;
-    padding:20px;
-}
-
-input[type="checkbox"]:checked ~ .nav-overlary{
-    opacity: 1;
-    transition: 1s;
-}
-.nav-btn .fa-bars:before {
-    font-size: 20px;
-}
-.nav-overlary li a {
-    color: #FFFFFF;
-    font-family: 'urbanist-regular';
-    font-size: 22px;
-    text-transform: capitalize;
-}
-.buttons-div button {
-    width: 100% !important;
-    margin: 10px 0px;
-    font-size: 22px !important;
-    height: 50px !important;
-}
-div#mobile-header {
-    border-bottom: 1px solid #333333;
-    width: 100%;
-    padding: 10px 20px !important;
-}
-.mobile-container {
-    display: flex;
-    justify-content: space-between;
-}
+  @media screen and (max-width: 768px) {
+    .hamburger {
+      display: block;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    div#header-newmobile {
+        width: 100% !important;
+        padding: 10px 0px;
+    }
+    .navigation {
+        width: 100%;
+        justify-content: space-between !important;
+        display: flex;
+        align-items: center;
+        position: relative;
+        background-color: #000000;
+        box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    }
+    .mobile-logo {
+        width: 80%;
+        text-align: left;
+        padding-left: 20px;
+    }
+    button.hamburger {
+        width: 20%;
+        margin: 0px !important;
+        padding: 0px !important;
+        background: none !important;
+        text-align: right;
+        padding-right: 20px !important;
+        border: 0px;
+    }
+    .hamburger svg {
+        width: 34px;
+        height: auto !important;
+    }
+    .navigation-menu {
+        margin-left: auto;
+    }
+    .navigation-menu li {
+        list-style-type: none;
+        margin: 0 1rem;
+    }
+    .navigation-menu li a {
+        text-decoration: none;
+        display: block;
+        width: 100%;
+    }
+    .hamburger:hover {
+        background-color: #2642af;
+    }
+    .navigation-menu ul {
+      display: none;
+    }
+    .navigation-menu.expanded {
+        position: fixed;
+        top: 0px;
+        width: 100% !important;
+        padding: 120px 40px 0px 40px ;
+        background: #000000;
+        height: 100vh;
+        z-index: -1;
+    }
+    .navigation-menu.expanded ul {
+        display: block;
+        padding: 0px;
+    }
+    .navigation-menu.expanded ul li {
+        padding: 20px 10px;
+        margin: 0px !important;
+    }
+    .navigation-menu.expanded ul li a {
+        font-size: 19px;
+        line-height: 32px;
+        color: #FFFFFF;
+        text-align: center;
+        font-family: 'urbanist-regular' !important;
+        width: fit-content;
+        margin: 0 auto;
+    }
+    #header-newmobile .navigation-menu.expanded ul li button {
+        width: 100% !important;
+        margin-right: 0px !important;
+        font-size: 18px !important;
+        padding: 10px 15px !important;
+        min-height: 48px;
+    }
+  }

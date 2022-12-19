@@ -1,4 +1,4 @@
-import * as React from "react";
+import {React, useState} from "react";
   
 // importing material UI components
 import AppBar from "@mui/material/AppBar";
@@ -8,7 +8,8 @@ import IconButton from "@mui/material/IconButton";
 import Logo from './NCX-logo.svg';
 import './header.css';
   
-export default function Header() {
+export default function Header() {   
+  const [isNavExpanded, setIsNavExpanded] = useState(false) 
   return (
       <AppBar position="static" id="header-row">
         <Toolbar>
@@ -88,8 +89,9 @@ export default function Header() {
             <Button className="signin">Sign In</Button>
             <Button className="launch-dex">Launch DEX</Button>
           </div>
-          <div id="mobile-header">
-            <div className="mobile-container">
+
+          <div id="header-newmobile">
+            <nav className="navigation">
               <div className="mobile-logo">
               <IconButton
                 size="large"
@@ -102,24 +104,54 @@ export default function Header() {
               <a href="https://ncx.cx/"><img src={Logo} alt="NCX-Logo" /></a>
               </IconButton>
               </div>
-              <div className="mobile-menu">
-                <label for="nav" class="nav-btn">
-                  <i class="fa fa-bars" aria-hidden="true"></i>
-                </label>
-                <input type="checkbox" id="nav" />
-                <ul class="nav-overlary">
-                  <li><a href="https://ncx.cx/">Home</a></li>
-                  <li><a href="https://ncx.cx/#market">Market</a></li>
-                  <li><a href="https://ncx.cx/#features">Features</a></li>
-                  <li><a href="https://ncx.cx/blog">Blog</a></li>
-                  <div className="buttons-div">
-                    <Button className="btn01 signup">Sign Up</Button>
-                    <Button className="signin">Sign In</Button>
-                    <Button className="launch-dex">Launch DEX</Button>
-                  </div>
+              <button 
+                className="hamburger"
+                onClick={() => {
+                  setIsNavExpanded(!isNavExpanded)
+                }}>
+                {/* icon from heroicons.com */}
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="h-5 w-5"
+                  viewBox="0 0 20 20"
+                  fill="white"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </button>
+              <div
+                className={
+                  isNavExpanded ? "navigation-menu expanded" : "navigation-menu"
+                }>
+                <ul>
+                  <li>
+                    <a href="https://ncx.cx">Home</a>
+                  </li>
+                  <li>
+                    <a href="#market">Market</a>
+                  </li>
+                  <li>
+                    <a href="#features">Features</a>
+                  </li>
+                  <li>
+                    <a href="https://ncx.cx/blog">Press & News</a>
+                  </li>
+                  <li>
+                  <Button className="btn01 signup">Sign Up</Button>
+                  </li>
+                  <li>
+                  <Button className="signin">Sign In</Button>
+                  </li>
+                  <li>
+                  <Button className="launch-dex">Launch DEX</Button>
+                  </li>
                 </ul>
               </div>
-            </div>
+            </nav>
           </div>
         </Toolbar>
       </AppBar>
