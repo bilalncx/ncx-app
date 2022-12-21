@@ -91,48 +91,48 @@ const blogListdata = [
           bitcoin held on the Bitcoin, Ethereum, BNB Chain and Binance Smart Chain blockchains.</p>
       </div>,
     },
-    {
-      id: 3,
-      title: 'Bitcoin Retraces 3 Weeks of Gains as Analysts Blame Macroeconomic Turmoil',
-      category: 'Press',
-      subCategory: ['Markets', 'News', 'Reports'],
-      description: <div className="blog-desc">
-        <p>Bitcoin is holding at around $21,340 after slumping for the sixth consecutive day.</p>
-      </div>,
-      authorName: 'Jimmy He',
-      authorurl: 'https://www.coindesk.com/author/helene-braun/',
-      authorAvatar: 'https://downloads.coindesk.com/cd3/author-page/avatar-placeholder.png',
-      authorContent: <div>Helene is a U.S. markets reporter at CoinDesk, covering the US economy, the Fed, and bitcoin. She is a recent graduate of New York University's business and economic reporting program.</div>,
-      createdAt: 'Aug 20, 2022 - 1:10 AM',
-      cover: 'https://www.coindesk.com/resizer/eybDUdPzHvpb0rLILvXz8G29GJs=/3168x2376/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPZCHNV7SVAO3KV5G4XTPHPNJU.jpg',
-      content: <div className="blog-content">
-        <img src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/33CVXSIQNVC5FFCJRXCSN5MUDE.png" alt="bitcoin-retraces 3 weeks of gains as analysts blame macroeconomic turmoil" />
-        <p>Bitcoin (<a href="https://www.coindesk.com/price/bitcoin/" target="_blank" rel="noreferrer">BTC</a>) erased three weeks of gains after plunging 8.4%, its biggest single-digit decline in two months.</p>
-        <p>The largest cryptocurrency by market capitalization is now trading at about $21,340.</p>
-        <p>Two analysts with whom CoinDesk spoke said investor concerns about inflation and the likelihood of continued 
-          monetary hawkishness by the U.S. Federal Reserve had spurred the decline in crypto prices and other riskier assets. 
-          The tech-heavy Nasdaq index, whose fluctuations have largely correlated with bitcoin this year, recently fell over 2%. 
-          The S&P 500, which has a strong tech component, was down about 1.2%.</p>
-        <p>Paul McCaffery, co-head of equities for investment bank Keefe, Bruyette & Woods, noted the connection between plunging 
-          asset prices and Wednesday’s release of minutes from the Federal Open Market Committee’s (FOMC) July meeting showing 
-          the U.S. Federal Reserve continues to be concerned about inflation and might not slow the pace of <a href="https://www.coindesk.com/markets/2022/08/17/us-federal-reserve-minutes-show-more-rate-hikes-coming-concern-about-stablecoin-risks/" target="_blank" rel="noreferrer">interest rate hikes</a> 
-          soon. Bitcoin’s price rose last week after an encouraging Consumer Price Index (CPI) suggested the Fed could ratchet 
-          back its approach because of easing inflation.</p>
-        <p>McCaffery said crypto performance will depend on macroeconomic conditions and the ongoing development of regulation.</p>
-        <p>“The reality is that for now the space is highly correlated to risk assets, so price action will follow the macro 
-          narrative for the most part, with the additional factor of global regulatory action weighing on the sector,” McCaffery 
-          wrote in an email.</p>
-        <p>Sylvia Jablonski, Defiance ETFs co-founder, CEO and chief investment officer, also highlighted voting and non-voting 
-          Fed members’ vocal unease with inflation, which remains at near four-decade highs despite the recent improvement shown 
-          by the CPI.</p>
-        <p>“Crypto is now on that list of thoughtful, innovative, disruptive technologies and it's viewed as sort of high risk by 
-          the average retail trader,” Jablonski said. “So what happens is they get this bad news, they sort of take it in and, lo 
-          and behold, the price of bitcoin falls.”</p>
-        <p>Ether (<a href="https://www.coindesk.com/price/ethereum/" target="_blank" rel="noreferrer">ETH</a>), the second-largest crypto by market value, had risen sharply over the past month on enthusiasm about 
-          the expected September Ethereum protocol change known as the Merge. However, even ether recently fell to around $1,700, 
-          down 9.1% over the past 24 hours.</p>
-      </div>,
-    },
+    // {
+    //   id: 3,
+    //   title: 'Bitcoin Retraces 3 Weeks of Gains as Analysts Blame Macroeconomic Turmoil',
+    //   category: 'Press',
+    //   subCategory: ['Markets', 'News', 'Reports'],
+    //   description: <div className="blog-desc">
+    //     <p>Bitcoin is holding at around $21,340 after slumping for the sixth consecutive day.</p>
+    //   </div>,
+    //   authorName: 'Jimmy He',
+    //   authorurl: 'https://www.coindesk.com/author/helene-braun/',
+    //   authorAvatar: 'https://downloads.coindesk.com/cd3/author-page/avatar-placeholder.png',
+    //   authorContent: <div>Helene is a U.S. markets reporter at CoinDesk, covering the US economy, the Fed, and bitcoin. She is a recent graduate of New York University's business and economic reporting program.</div>,
+    //   createdAt: 'Aug 20, 2022 - 1:10 AM',
+    //   cover: 'https://www.coindesk.com/resizer/eybDUdPzHvpb0rLILvXz8G29GJs=/3168x2376/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPZCHNV7SVAO3KV5G4XTPHPNJU.jpg',
+    //   content: <div className="blog-content">
+    //     <img src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/33CVXSIQNVC5FFCJRXCSN5MUDE.png" alt="bitcoin-retraces 3 weeks of gains as analysts blame macroeconomic turmoil" />
+    //     <p>Bitcoin (<a href="https://www.coindesk.com/price/bitcoin/" target="_blank" rel="noreferrer">BTC</a>) erased three weeks of gains after plunging 8.4%, its biggest single-digit decline in two months.</p>
+    //     <p>The largest cryptocurrency by market capitalization is now trading at about $21,340.</p>
+    //     <p>Two analysts with whom CoinDesk spoke said investor concerns about inflation and the likelihood of continued 
+    //       monetary hawkishness by the U.S. Federal Reserve had spurred the decline in crypto prices and other riskier assets. 
+    //       The tech-heavy Nasdaq index, whose fluctuations have largely correlated with bitcoin this year, recently fell over 2%. 
+    //       The S&P 500, which has a strong tech component, was down about 1.2%.</p>
+    //     <p>Paul McCaffery, co-head of equities for investment bank Keefe, Bruyette & Woods, noted the connection between plunging 
+    //       asset prices and Wednesday’s release of minutes from the Federal Open Market Committee’s (FOMC) July meeting showing 
+    //       the U.S. Federal Reserve continues to be concerned about inflation and might not slow the pace of <a href="https://www.coindesk.com/markets/2022/08/17/us-federal-reserve-minutes-show-more-rate-hikes-coming-concern-about-stablecoin-risks/" target="_blank" rel="noreferrer">interest rate hikes</a> 
+    //       soon. Bitcoin’s price rose last week after an encouraging Consumer Price Index (CPI) suggested the Fed could ratchet 
+    //       back its approach because of easing inflation.</p>
+    //     <p>McCaffery said crypto performance will depend on macroeconomic conditions and the ongoing development of regulation.</p>
+    //     <p>“The reality is that for now the space is highly correlated to risk assets, so price action will follow the macro 
+    //       narrative for the most part, with the additional factor of global regulatory action weighing on the sector,” McCaffery 
+    //       wrote in an email.</p>
+    //     <p>Sylvia Jablonski, Defiance ETFs co-founder, CEO and chief investment officer, also highlighted voting and non-voting 
+    //       Fed members’ vocal unease with inflation, which remains at near four-decade highs despite the recent improvement shown 
+    //       by the CPI.</p>
+    //     <p>“Crypto is now on that list of thoughtful, innovative, disruptive technologies and it's viewed as sort of high risk by 
+    //       the average retail trader,” Jablonski said. “So what happens is they get this bad news, they sort of take it in and, lo 
+    //       and behold, the price of bitcoin falls.”</p>
+    //     <p>Ether (<a href="https://www.coindesk.com/price/ethereum/" target="_blank" rel="noreferrer">ETH</a>), the second-largest crypto by market value, had risen sharply over the past month on enthusiasm about 
+    //       the expected September Ethereum protocol change known as the Merge. However, even ether recently fell to around $1,700, 
+    //       down 9.1% over the past 24 hours.</p>
+    //   </div>,
+    // },
     {
       id: 4,
       title: 'Hong Kong Stock Exchange debuts ‘Asia’s first’ crypto futures ETFs',
@@ -339,41 +339,116 @@ const blogListdata = [
         <p>This is not meant to minimize or overlook the significance of centralized exchanges within the ecosystem; rather, DEXes provide investors with different options.</p>
       </div>,
     },
-    // {
-    //   id: 10,
-    //   title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
-    //   category: 'Press',
-    //   subCategory: ['American', 'Morgan', 'Crypto'],
-    //   description: <div className="blog-desc">
-    //     <p>According to new data from Dune Analytics, Aave [AAVE] users on Arbitrum witnessed major growth. </p>
-    //   </div>,
-    //   authorName: 'Suzuki Shillsalot',
-    //   authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
-    //   authorAvatar: 'https://ambcrypto.com/wp-content/uploads/2022/08/image-1-300x300.jpeg',
-    //   authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
-    //   createdAt: 'Nov 25, 2022 - 12:26 PM',
-    //   cover: 'https://ambcrypto.com/wp-content/uploads/2022/11/pexels-anna-nekrashevich-6801874-scaled-e1669363554617.jpg',
-    //   content: <div className="blog-content">
-    //     <p>With the recent events in the crypto space, investors seem to be putting more faith in DEXes</p>
-    //     <p>DEXes has seen recently seen an increase in trading volume and TVL in recent time</p>
-    //     <p>Investors have started viewing <a href="https://ambcrypto.com/chainalysis-report-reveals-this-about-centralized-vs-decentralized-exchanges/" target="_blank" rel="noreferrer">centralized exchanges</a> (CEXes) with skepticism as fear and uncertainty have engulfed the cryptocurrency market. However, despite the current state of CEXes, their decentralized equivalent seems to be thriving. According to data by Messari, decentralized exchanges (DEXes) have recently experienced a significant spike in volume. But how significant have these spikes been?</p>
-    //     <h3>DEXes trade volume surge</h3>
-    //     <p>Messari’s statistics revealed that the top three DEXes, <a href="https://ambcrypto.com/uniswap-is-changing-tactics-to-pursue-more-growth-beyond-l1-l2-heres-how/" target="_blank" rel="noreferrer">Uniswap</a>, Balancer, and <a href="https://ambcrypto.com/sushiswap-investors-going-long-can-expect-this-in-the-coming-week/" target="_blank" rel="noreferrer" >Sushiswap</a> had a combined transaction volume of nearly $7 billion over the previous 30 days. However, a closer look at each one showed how much growth had occurred.</p>
-    //     <p>In terms of transaction volume and TVL, <a href="https://ambcrypto.com/uniswap-user-and-dev-activity-lack-of-profitability-and-everything-in-between/" target="_blank" rel="noreferrer">Uniswap</a> was ranked first among all DEXes. The trading volume for Uniswap revealed that there had been noticeable rises in recent weeks. This demonstrates the platform’s increased trading activity.</p>
-    //     <p>The trading volume for the DEX reached approximately $300 million, which was a record for the year so far, according to the trade volume chart.</p>
-    //     <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-pink.png" alt="Dex sees inceases in trading volume"/>
-    //     <p>It had experienced $3.57 billion in trade volume over the previous 30 days, a rise of 65.32%. Although the TVL showed a modest dip, it still had $2.6 billion, at the time of writing.</p>
-    //     <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-down.png" alt="Dex sees inceases in trading volume"/>
-    //     <p>In the previous 30 days, its revenue had likewise climbed by over 64%.</p>
-    //     <p>Additionally, a glance at Balancer revealed that the DEX experienced a sharp increase in trade volume. Trading volume reached its all-time high during this time, rising by a staggering 730.38% in the past 30 days to reach $2.09 billion</p>
-    //     <p>The overall revenue climbed by 40.68% and was $1.09 million during the same time frame. Also, TVL had <a href="https://messari.io/protocol/balancer-v2" target="_blank" rel="noreferrer">grown</a> by almost 600% and was worth $699 million, as of this writing. </p>
-    //     <h3>Overall TVL sees an uptrend</h3>
-    //     <p>It was also evident that there had been a rise in total TVL during November, according to DefiLlama data. From the statistics, it was clear that there had been a reduction in recent months. Starting from $57 billion in October, the TVL observed at the time of this writing was above $92 billion.</p>
-    //     <img src="https://ambcrypto.com/wp-content/uploads/2022/11/ao-tv-blue-up.png" alt="breakdown of crpto" />
-    //     <p>The obvious increase in these DEXes’ trading volumes is evidence of how recently that area has come to receive a lot more attention. The increased interest could lead to a more balanced crypto economy and encourage participation outside of centralized exchanges.</p>
-    //     <p>This is not meant to minimize or overlook the significance of centralized exchanges within the ecosystem; rather, DEXes provide investors with different options.</p>
-    //   </div>,
-    // }
+    {
+      id: 10,
+      title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
+      category: 'Press',
+      subCategory: ['American', 'Morgan', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>According to new data from Dune Analytics, Aave [AAVE] users on Arbitrum witnessed major growth. </p>
+      </div>,
+      authorName: 'Suzuki Shillsalot',
+      authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+      authorAvatar: 'https://ambcrypto.com/wp-content/uploads/2022/08/image-1-300x300.jpeg',
+      authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+      createdAt: 'Dec 11, 2022 - 03:56 PM',
+      cover: 'https://ambcrypto.com/wp-content/uploads/2022/12/hp-fi.jpg',
+      content: <div className="blog-content">
+        <p>Aave grew on the Arbitrum network but declined on Ethereum</p>
+        <p>Arbitrum’s TVL witnessed growth, and the number of transactions on the protocol rose</p>
+        <p>According to new data from <a href="https://dune.com/queries/1238683/2122874" target="_blank" rel="noreferrer">Dune Analytics</a>, <a href="https://ambcrypto.com/?s=aave" target="_blank" rel="noreferrer">Aave [AAVE]</a> users on Arbitrum witnessed major growth. More and more users have increasingly switched to Arbitrum, indicating that L2 adoption was rapidly rising.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/ARB-ETH.jpeg" alt="What does aave growth on arbitrum" />
+        <p>Arbitrum is a major layer 2 solution that has been contributing to the growth of the sector. Its TVL grew tremendously over the last few weeks and sat at 1.08 billion at the time of writing after appreciating by 1.24% in the last 24 hours.</p>
+        <p>However, despite the TVL growth, Arbitrum’s activity and TPS were unable to rise. The latter declined by 26.78%, according to data from <a href="https://l2beat.com/scaling/projects/arbitrum" target="_blank" rel="noreferrer">L2beats</a>.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/hp-image.png" alt="defiLama"/>
+        <p>Regardless of the momentary decline in Arbitrum’s TPS, the number of transactions on the protocol grew significantly since September. Even though there was volatility observed in the number of transactions, overall, the number of transactions kept moving in a positive direction.</p>
+        <p>Furthermore, the number of unique users on the L2 protocol increased from 1.7 million to 12.16 million in the last month, according to <a href="https://arbiscan.io/chart/address" target="_blank" rel="noreferrer">Arbiscan</a>.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/Screenshot-2022-12-11-at-1.28.31-PM.png" alt="arbiscran"/>
+        <h3>State of Aave on Ethereum</h3>
+        <p>The growing presence of Aave on Arbitrum had a correspondingly negative impact on Aave’s presence on the <a href="https://ambcrypto.com/category/ethereum-news/" target="_blank" rel="noreferrer"></a>Ethereum [ETH] network.</p>
+        <p>As can be seen from the image below, the volume for Aave on Ethereum decreased rapidly. Additionally, large addresses also lost interest in Aave. This was indicated by the declining top addresses holding AAVE on the network.</p>
+        <p>Aave’s network growth decreased as well, thus, signifying that the number of new users transferring <a href="https://ambcrypto.com/aave-seeks-community-go-ahead-to-list-lidos-wsteth-on-its-liquidity-pool/" target="_blank" rel="noreferrer">the coin</a> for the first time on Ethereum’s network shrank.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/Aave-on-Ethereum-AAVE-13.38.02-11-Dec-2022.png" alt="santiment" />
+        <p>It remains to be seen whether the growth of <a href="https://ambcrypto.com/despite-growth-aave-could-still-face-these-hurdles-in-q4-2022/" target="_blank" rel="noreferrer">Aave</a> on the Arbitrum network points to a larger shift to L2 networks.</p>
+        <p>At the time of writing, <a href="https://ambcrypto.com/predictions/aave-price-prediction" target="_blank" rel="noreferrer">AAVE</a> was trading at $61.52, according to <a href="https://coinmarketcap.com/currencies/aave/" target="_blank" rel="noreferrer">CoinMarketCap</a>.</p>
+      </div>,
+    },
+    {
+      id: 11,
+      title: 'ALTCOINSSolana showing signs of life even as TVL and SOL’s price decline massively',
+      category: 'News',
+      subCategory: ['Solana', 'TVL', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>SOL’s TVL and price suffered a decline while NFT trades ran smoothly.</p>
+      </div>,
+      authorName: 'Suzuki Shillsalot ',
+      authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+      authorAvatar: 'https://ambcrypto.com/wp-content/uploads/2022/08/image-1-80x80.jpeg',
+      authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+      createdAt: 'Dec 17, 2022 - 02:56 PM',
+      cover: 'https://ambcrypto.com/wp-content/uploads/2022/12/solana-e1669974212650.jpg',
+      content: <div className="blog-content">
+        <p>Solana was on track to bring some developments to its network.</p>
+        <p>SOL’s TVL and price suffered a decline while NFT trades ran smoothly.</p>
+        <p>Solana [SOL] has been locked in FUD for a long time, affecting its price drastically. However, the network had some positives to show as its development continued.</p>
+        <p>After rumors surfaced linking the Solana ecosystem to the troubled <a href="https://ambcrypto.com/ftx-ceo-john-rays-congressional-testimony-reveals-sbfs-poor-management/" target="_blank" rel="noreferrer">FTX and SBF</a> debacle, SOL came under close examination. The FTX incident left a lasting impression on the network, and the corresponding FUD was difficult to dispel.</p>
+        <p>It appeared, however, that Solana had not let up on the gas in its pursuit to prove its worth. Given current statistics, how well has this worked out?</p>
+        <h3>Upcoming updates</h3>
+        <p>The Firedancer is an upcoming improvement <a href="https://messari.io/report/solana-ecosystem-overview?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=solana_ecosystem_overview" target="_blank" rel="noreferrer">scheduled</a> for rollout on Solana to bolster the reliability of its network. Formed by Jump Crypto, Firedancer is a decentralized validator client written in C++.</p>
+        <p>After going live, Solana will join Ethereum as the second multi-client chain. The likelihood that a flaw may cause severe damage to the network is reduced when numerous sets of code exist that can “run” the chain from scratch. </p>
+        <p>Additionally, in the event of a flawed implementation, the network gains from a second, unrelated implementation are less likely to suffer from the same flaws simultaneously. Similarly, Firedancer will be released in 2020 and can provide significant performance boosts.</p>
+        <h3>Dev activity resumes an upward trend</h3>
+        <p>There was some relief after Solana suffered from a noticeable decline. Development on Solana was steadily picking up, according to the Development Activity statistic at press time. Dev activity, according to the metric, was approximately 20.2.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/Solana-SOL-13.33.27-16-Dec-2022.png" alt="santiment" />
+        <h3>Active developers reduce on Solana and other blockchains</h3>
+        <p>Data from the Token Terminal also showed a decline in developers working on well-known blockchains. Because of the decrease in Solana’s developers from over 2,000 to 75, the number of active developers in the general crypto space fell from 3,700 to roughly 1,600.</p>
+        <p>This would imply that the drop in Solana affected the crypto industry.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/Solana-active-developers.png" alt="token-terminal" />
+        <h3>Price and TVL face sharp decline</h3>
+        <p>In recent weeks, SOL’s price has been stagnant at best. It was trading at roughly $13 at the time of this writing, a sharp decline from its $30 price at the start of November 2022.</p>
+        <p>The Price Range statistic revealed that Solana lost 60% of its value since the last time it was in the $30 range. The low volume, devoid of any significant spikes – indicated by the volume indicator – showed that the asset had not been traded actively in recent weeks.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/SOLUSD_2022-12-16_13-33-39.png" alt="Tradingview" />
+        <p>A review of Solana’s Total Value Locked (TVL) also <a href="https://defillama.com/chain/Solana" target="_blank" rel="noreferrer">revealed</a> that it had drastically decreased in value. The TVL observed was still over $1 billion as of October.</p>
+        <p>However, it was discovered that the current worth was around $280 million. The TVL showed a severe decline to which the FTX event and the current market trend contributed.</p>
+        <h3>NFT trade remains active</h3>
+        <p>The NFT measures provided some promise despite the negative trends shown in the SOL price and Solana’s TVL. Solana was still active, as indicated by the Total NFT trade Volume statistic, expressed in USD. The statistic revealed that <a href="https://ambcrypto.com/solana-nfts-enjoy-some-limelight-but-sol-prefers-to-lurk-in-the-shadows/" target="_blank" rel="noreferrer">NFT sales</a> on the network had sales of over $1.4 million on 6 December alone.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/Solana-SOL-13.33.20-16-Dec-2022.png" alt="santiment" />
+        <p>Additionally, Helium will switch to the Solana network in the first quarter of 2023, according to the Helium Foundation. This is despite the present difficulties of the Solana network. The network hasn’t ceased developing despite its challenges; therefore, it might endure and emerge from the FTX fallout.</p>
+      </div>,
+    },
+    {
+      id: 12,
+      title: 'These latest Avalanche developments can help AVAX climb up the ladder',
+      category: 'News',
+      subCategory: ['Avalanche', 'AVAX', 'ncx'],
+      description: <div className="blog-desc">
+        <p>Avalanche has recently started rolling out new features and forming new alliances to impact the ecosystem.</p>
+      </div>,
+      authorName: 'Suzuki Shillsalot',
+      authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+      authorAvatar: 'https://ambcrypto.com/wp-content/uploads/2022/08/image-1-80x80.jpeg',
+      authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+      createdAt: 'Dec 15, 2022 - 11:37 AM',
+      cover: 'https://ambcrypto.com/wp-content/uploads/2022/12/jeremy-thomas-O6N9RV2rzX8-unsplash-e1671020778574.jpg',
+      content: <div className="blog-content">
+        <p>Avalanche recently announced the launch of the mobile version of its Core Wallet.</p>
+        <p>Avalanche’s latest developments have caused AVAX to rally by over 5% in the last 24 hours.</p>
+        <p><a href="https://ambcrypto.com/avalanche-performance-on-this-front-is-to-blame-for-its-bearish-price-action/" target="_blank" rel="noreferrer">Avalanche</a> has recently started rolling out new features and forming new alliances to impact the ecosystem. Owners of AVAX have been forced to grasp onto hope despite these actions because the effects have been minimal if any at all. However, the most recent developments revealed by the ecosystem may attract new users and impact AVAX.</p>
+        <h3>Mobile core wallet</h3>
+        <p>On 13 December, Avalanche <a href="https://twitter.com/avalancheavax/status/1602720454539874304" target="_blank" rel="noreferrer">announced</a> the release of its Core Wallet app for mobile devices. In its initial release in June of this year, the Core wallet had native Avalanche bridging capabilities, allowing users to connect with dApps on the Avalanche network.</p>
+        <p>In the past, users who wished to transfer their assets to the network had to resort to third-party tools like MetaMask, which offered a similar Ethereum-Avalanche bridge.</p>
+        <p>Avalanche’s latest change could pave the way for the company to attract more consumers. This has the potential to boost both ecosystem participation and user count.</p>
+        <p>The network claimed that the Core wallet’s other distinctive features included the ability to trade Avalanche, <a href="https://ambcrypto.com/bitcoin-traders-can-keep-an-eye-on-these-levels-as-btc-drops-into-a-demand-zone/" target="_blank" rel="noreferrer">Bitcoin</a> easily, and <a href="https://ambcrypto.com/cftc-again-calls-ethereum-eth-a-commodity-in-a-court-filing-details-inside/" target="_blank" rel="noreferrer">Ethereum</a> assets. Also, the transfer of Bitcoin and Ethereum to participate in Avalanche DeFi dApps, and track real-time asset price movements in a unified watchlist. </p>
+        <h3>Avalanche’s recent partnership</h3>
+        <p>Avalanche has also recently <a href="https://twitter.com/avalancheavax/status/1602745689926008833" target="_blank" rel="noreferrer">launched</a> a learn-and-earn program in collaboration with Robinhood. By incorporating Robinhood’s “learn and earn” feature, the ecosystem would be able to onboard a wider variety of users.</p>
+        <p>In related news, Avalanche had also recently <a href="https://ambcrypto.com/avalanche-and-alibaba-partnership-may-have-this-effect-on-avax/" target="_blank" rel="noreferrer">established</a> a relationship with Alibaba Cloud. As a result of the collaboration, the platform would be offering Node-as-a-Service. This service would allow any operator interested in running a node to do so by simply connecting to an already-built architecture without a complex set-up.</p>
+        <h3>AVAX in daily timeframe</h3>
+        <p>By taking a glance at AVAX in a daily timeframe, it was possible to see more clearly how these feature enhancements and partnerships are yet to have the expected impact.</p>
+        <p>The asset’s price movement trend was underwhelming when examined. But it was clear that it had increased by more than 5% over the preceding trading period.</p>
+        <p>This would imply a favorable reaction to the network’s most recent news. At the time of this writing, the asset was trading with less than a 1% increase in value, and it appeared to be rising.</p>
+        <img src="https://ambcrypto.com/wp-content/uploads/2022/12/AVAXUSD_2022-12-14_12-47-29.png" alt="Trading view" />
+      </div>,
+    }
   ];
   
   export default blogListdata;

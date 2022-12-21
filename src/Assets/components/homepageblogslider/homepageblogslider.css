@@ -1,0 +1,203 @@
+div#homePBS {
+    background: #FFFFFF;
+    padding: 50px 0px;
+}
+.ncx-trenddiv svg path:nth-child(2) {
+    fill: #000000 !important;
+}
+.ncx-trenddiv {
+    display: flex;
+    column-gap: 10px;
+}
+.ncx-trenddiv p {
+    font-size: 31px;
+    line-height: 30px;
+    padding-left: 10px;
+    border-left: 1px solid #000000;
+}
+#homePBS h1 {
+    font-size: 36px;
+    line-height: 51px;
+    font-family: 'urbanist-medium';
+    margin: 50px 0px
+}
+#homePBS .row {
+    margin: 0px !important;
+}
+#homePBS .row .col:nth-child(1) {
+    width: 30% !important;
+    flex: initial;
+}
+#homePBS .row .col:nth-child(2) {
+    width: 70% !important;
+    flex: initial;
+}
+button.ncx-trendbtn {
+    height: 40px !important;
+    border: 1px solid #65E4A1 !important;
+    background: #65E4A1 !important;
+    color: #000000 !important;
+    font-family: 'urbanist-regular' !important;
+    font-size: 16px !important;
+    border-radius: 0px !important;
+    padding: 0px 25px;
+}
+button.ncx-trendbtn a{
+    color: #000000;
+}
+button.ncx-trendbtn a svg{
+    margin-left: 10px;
+}
+article.HPB-l{
+    position: relative;
+}
+img.post-cover-ccc {
+    width: 100%;
+    min-width: 600px;
+    max-width: 600px;
+    height: 450px;
+    min-height: 450px;
+    max-height: 450px;
+    object-fit: cover;
+}
+.ddd-ioamges {
+    display: flex;
+    justify-content: space-between;
+}
+img.author-ss {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+img.health {
+    width: 30px;
+    height: 30px;
+}
+h3.author-nnn {
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    margin: 10px 0px !important;
+}
+p.publish-ss {
+    font-size: 12px;
+    line-height: 16px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+h1.post-tilelll {
+    font-size: 28px !important;
+    line-height: 36px !important;
+    margin: 15px 0px !important;
+    color: #FFFFFF;
+}
+p.reading-fulll {
+    display: flex;
+    font-size: 14px !important;
+    color: #FFFFFF;
+}
+.reading-fulll a.blogItem-link {
+    font-size: 14px !important;
+    font-family: 'urbanist-medium';
+    color: #59F7A4 !important;
+    text-decoration: none !important;
+    margin: 0px !important;
+    padding-left: 5px;
+}
+.text-ssrr {
+    background: #141414;
+    padding: 30px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    left: 20%;
+    max-width: 665px;
+}
+.HPB-l {
+    position: relative;
+    width: 100% !important;
+    min-width: 900px !important;
+    left: 0px;
+    float: left;
+}
+div#HMPBlogSlider {
+    position: relative;
+    margin-left: 50px !important;
+}
+button.backwrod {
+    position: absolute;
+    left: -50px;
+    bottom: 0px;
+    background: #141414 !important;
+    border-radius: 0px !important;
+    width: 50px !important;
+    height: 50px !important;
+    padding: 0px !important;
+    z-index: 1;
+}
+button.backwrod svg path, button.farworad svg path {
+    fill: #FFFFFF !important;
+}
+button.farworad {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    border-radius: 0px !important;
+    width: 140px !important;
+    background: #104FF5 !important;
+    height: 50px !important;
+    padding: 0px !important;
+}
+
+@media screen and (max-width: 800px){
+    #homePBS .row .col:nth-child(2){
+        width: 100% !important;
+    }
+    #homePBS .row .col:nth-child(1){
+        width: 100% !important;
+    }
+    #homePBS h1 {
+        font-size: 26px;
+        line-height: 38px;
+        font-family: 'urbanist-medium';
+        margin: 20px 0px;
+    }
+    button.ncx-trendbtn {
+        width: 100% !important;
+        margin-bottom: 40px !important;
+    }
+    div#HMPBlogSlider{
+        margin-left: 0px !important;
+    }
+    img.post-cover-ccc {
+        width: 100%;
+        min-width: 335px;
+        max-width: 335px;
+        height: 250px;
+        min-height: 250px;
+        max-height: 250px;
+        object-fit: cover;
+    }
+    .text-ssrr{
+        position: relative;
+    bottom: 0px;
+    left: 0px;
+    max-width: 335px;
+    }
+    button.backwrod{
+        bottom: -49px;
+        left: 0px !important;
+    }
+    button.farworad{
+        bottom: -49px !important;
+        left: 50px !important;
+    }
+    h1.post-tilelll {
+        font-size: 18px !important;
+        line-height: 24px !important;
+    }
+    div#homePBS{
+        padding: 80px 0px 120px 0px !important;
+    }
+}
