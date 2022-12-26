@@ -723,7 +723,7 @@ a#p15{
 
 /* Blog Page Styling starts from here */
 .blog-header {
-    background: url(https://cdn-gmaph.nitrocdn.com/awUROinaMuUZjuokHApFepEHtdYvFKyg/assets/static/optimized/rev-2bda6ba/wp-content/themes/appboxer_v2/assets/img/blog_head_bg.jpg);
+    background: url(../images/kick-scaled.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-top: 210px;
