@@ -171,6 +171,7 @@ button.farworad {
         margin: 20px 0px;
     }
     button.ncx-trendbtn {
+        display: none !important;
         width: 100% !important;
         margin-bottom: 40px !important;
     }
@@ -188,23 +189,33 @@ button.farworad {
     }
     .text-ssrr{
         position: relative;
-        bottom: 0px;
+        bottom: 120px;
         left: 0px;
+        padding: 15px !important;
         max-width: 335px;
     }
+    h3.author-nnn{
+        margin: 5px 0px 0px 0px !important;
+    }
     button.backwrod{
-        bottom: -49px;
+        bottom: 0px;
+        top: 50px;
         left: 0px !important;
     }
+    article.HPB-l{
+        padding-top: 100px;
+    }
     button.farworad{
-        bottom: -49px !important;
+        top: 50px;
+        bottom: 0px !important;
         left: 50px !important;
     }
     h1.post-tilelll {
         font-size: 18px !important;
         line-height: 24px !important;
+        margin-top: 40px !important;
     }
     div#homePBS{
-        padding: 80px 0px 120px 0px !important;
+        padding: 80px 0px 0px 0px !important;
     }
 }

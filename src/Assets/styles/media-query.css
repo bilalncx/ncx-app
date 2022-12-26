@@ -117,7 +117,7 @@ div#header-newmobile {
     }
     .img001 img {
         width: 100%;
-        max-width: 96px;
+        max-width: 120px;
         height: auto;
     }
     .cexdex .row {
@@ -291,7 +291,7 @@ div#header-newmobile {
     }
     #mobile-tabs button.tabs {
         background: none;
-        border: 1px solid #65E4A1;
+        border: 1.5px solid #65E4A1;
         outline: none;
         padding: 5px 15px;
         font-size: 16px;
@@ -389,14 +389,15 @@ div#header-newmobile {
         text-align: center;
         padding: 5px 12px !important;
     }
-    #slider > div.section-center.mobile > article:nth-child(3) > div.tag-class.rowfour,
+    /* #slider > div.section-center.mobile > article:nth-child(3) > div.tag-class.rowfour,
     #slider > div.section-center.mobile > article:nth-child(4) > div.tag-class.rowthree,
     #slider > div.section-center.mobile > article:nth-child(4) > div.tag-class.rowfour > h2{
         visibility: hidden;
-    }
+    } */
     #slider .tet-img{
         width: 100% !important;
         min-width: 300px !important;
+        min-height: 370px !important;
     }
     #slider .tet {
         padding: 40px 20px 40px 20px !important;
@@ -405,16 +406,17 @@ div#header-newmobile {
     .tet p{
         margin-bottom: 30px !important;
     }
-    .tet a {
-        width: 100% !important;
+    #slider .tet a {
+        width: 70% !important;
         display: block;
         text-align: center;
-        padding: 12px 20px !important;
+        margin: 0 auto !important;
+        padding: 9px 20px !important;
     }
     img.perspon-img{
-        max-width: 250px !important;
-        left: 60px !important;
-        top: -50px !important;
+        max-width: 280px !important;
+        left: 50px !important;
+        top: -60px !important;
     }
     .moving-btm{
         width: 100% !important;
@@ -491,6 +493,14 @@ div#header-newmobile {
     }
     #footer-faq #footerdiv {
         background: transparent !important;
+    }
+    h3.author-nnn{
+        margin-bottom: 0px !important;
+    }
+    #slider > div.section-center.mobile > article:nth-child(4) > div.tags-div > div.tag-class.rowthree,
+    #slider > div.section-center.mobile > article:nth-child(3) > div.tags-div > div.tag-class.rowfour > h2,
+    #slider > div.section-center.mobile > article:nth-child(4) > div.tags-div > div.tag-class.rowfour > h2{
+        display: none;
     }
 
     /* ************************************************************************************************** */

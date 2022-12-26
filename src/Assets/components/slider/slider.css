@@ -109,19 +109,11 @@ section#slider {
 #slider > div > article:nth-child(2) > h1{
     width: 25% ;
 }
-#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree,
 #slider > div.section-center.desktop > article:nth-child(3) > div > div.tag-class.rowthree > h2:nth-child(3),
+#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree,
 #slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowtwo > h2:nth-child(3){
     display: none;
 }
-/* #slider > div.section-center.mobile > article:nth-child(3) > div.tags-div > div.tag-class.rowfour > h2,
-#slider > div.section-center.mobile > article:nth-child(4) > div.tags-div > div.tag-class.rowthree,
-#slider > div.section-center.mobile > article:nth-child(4) > div.tags-div > div.tag-class.rowfour{
-    display: none;
-} */
-/* #slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree{
-    visibility: hidden;
-} */
 .tags-div {
     min-height: 185px;
 }

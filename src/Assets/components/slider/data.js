@@ -36,7 +36,7 @@ const people = [
         tag9: "Solana",
         icon: "https://ncx.cx/slide-icon1.svg",
         content: "Access Breakthrough dApps and DeFi Solutions through the NXC’s NeroSwap DEX & DeFi Ecosystem. Swap, Stake, Farm Yield across 5 leading Blockchains including Binance Smart Chain, Ethereum, Solana, Fantom and Polygon",
-        button: "Launch d’Apps",
+        button: "Sign Up",
         url: "https://ncx.cx"
     },
     {
@@ -51,7 +51,7 @@ const people = [
         tag6: "Address Whitelisting",
         icon: "https://ncx.cx/slide-icon1.svg",
         content: "An industry specific management tool that tackles the needs of compliance related systems. Star Compliance provides administrators with the tools to take control of their daily internal operations and site management across multiple venues.",
-        button: "Signing Up to Receive Airdrop",
+        button: "Sign Up",
         url: "https://ncx.cx"
     }
 ]
