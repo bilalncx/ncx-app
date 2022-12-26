@@ -1,9 +1,9 @@
 div#homePBS {
-    background: #FFFFFF;
-    padding: 50px 0px;
+    background: #000000;
+    padding: 100px 0px;
 }
 .ncx-trenddiv svg path:nth-child(2) {
-    fill: #000000 !important;
+    fill: #FFFFFF !important;
 }
 .ncx-trenddiv {
     display: flex;
@@ -13,13 +13,19 @@ div#homePBS {
     font-size: 31px;
     line-height: 30px;
     padding-left: 10px;
-    border-left: 1px solid #000000;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    border-left: 1px solid #FFFFFF;
+}
+#HMPBlogSlider button.backwrod svg {
+    transform: rotate(180deg);
 }
 #homePBS h1 {
     font-size: 36px;
     line-height: 51px;
-    font-family: 'urbanist-medium';
-    margin: 50px 0px
+    font-family: 'urbanist-regular';
+    margin: 50px 0px;
+    color: #FFFFFF !important;
 }
 #homePBS .row {
     margin: 0px !important;
@@ -91,6 +97,7 @@ h1.post-tilelll {
     line-height: 36px !important;
     margin: 15px 0px !important;
     color: #FFFFFF;
+    font-family: 'urbanist-regular' !important;
 }
 p.reading-fulll {
     display: flex;
@@ -106,7 +113,7 @@ p.reading-fulll {
     padding-left: 5px;
 }
 .text-ssrr {
-    background: #141414;
+    background: rgb(0,0,0, 0.5);
     padding: 30px;
     width: 100%;
     position: absolute;
@@ -144,7 +151,7 @@ button.farworad {
     left: 0px;
     bottom: 0px;
     border-radius: 0px !important;
-    width: 140px !important;
+    width: 180px !important;
     background: #104FF5 !important;
     height: 50px !important;
     padding: 0px !important;
@@ -181,9 +188,9 @@ button.farworad {
     }
     .text-ssrr{
         position: relative;
-    bottom: 0px;
-    left: 0px;
-    max-width: 335px;
+        bottom: 0px;
+        left: 0px;
+        max-width: 335px;
     }
     button.backwrod{
         bottom: -49px;

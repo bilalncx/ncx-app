@@ -90,66 +90,72 @@ export default function Header() {
             <Button className="launch-dex">Launch DEX</Button>
           </div>
 
-          <div id="header-newmobile">
+          <div id="header-newmobile" className={
+                    isNavExpanded ? "header-expanded avtive" : "header-expanded"
+                  }>
             <nav className="navigation">
-              <div className="mobile-logo">
-              <IconButton
-                size="large"
-                edge="start"
-                color="inherit"
-                aria-label="menu"
-                className="header-logo"
-                sx={{ mr: 2 }}
-              >
-              <a href="https://ncx.cx/"><img src={Logo} alt="NCX-Logo" /></a>
-              </IconButton>
-              </div>
-              <button 
-                className="hamburger"
-                onClick={() => {
-                  setIsNavExpanded(!isNavExpanded)
-                }}>
-                {/* icon from heroicons.com */}
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-5 w-5"
-                  viewBox="0 0 20 20"
-                  fill="white"
+              <div className="navigation-one">
+                <div className="mobile-toogle">
+                  <button 
+                    className="hamburger"
+                    onClick={() => {
+                      setIsNavExpanded(!isNavExpanded)
+                    }}>
+                    <svg width="19" height="16" viewBox="0 0 19 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M0.875 0.5H18.125V1.49902H0.875V0.5ZM1 7.50098L18.125 7.5V8.49902L1 8.5V7.50098ZM0.875 14.5H18.125V15.499H0.875V14.5Z" fill="white"/>
+                    </svg>
+                  </button>
+                  <div
+                    className={
+                      isNavExpanded ? "navigation-menu expanded" : "navigation-menu"
+                    }>
+                    <ul>
+                      <li>
+                        <a href="https://ncx.cx">Home</a>
+                      </li>
+                      <li>
+                        <a href="#market">Market</a>
+                      </li>
+                      <li>
+                        <a href="#features">Features</a>
+                      </li>
+                      <li>
+                        <a href="https://ncx.cx/blog">Press & News</a>
+                      </li>
+                      <li>
+                      <Button className="btn01 signup">Sign Up</Button>
+                      </li>
+                      <li>
+                      <Button className="signin">Sign In</Button>
+                      </li>
+                      <li>
+                      <Button className="launch-dex">Launch DEX</Button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div className="mobile-logo">
+                <IconButton
+                  size="large"
+                  edge="start"
+                  color="inherit"
+                  aria-label="menu"
+                  className="header-logo"
+                  sx={{ mr: 2 }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </button>
-              <div
-                className={
-                  isNavExpanded ? "navigation-menu expanded" : "navigation-menu"
-                }>
-                <ul>
-                  <li>
-                    <a href="https://ncx.cx">Home</a>
-                  </li>
-                  <li>
-                    <a href="#market">Market</a>
-                  </li>
-                  <li>
-                    <a href="#features">Features</a>
-                  </li>
-                  <li>
-                    <a href="https://ncx.cx/blog">Press & News</a>
-                  </li>
-                  <li>
-                  <Button className="btn01 signup">Sign Up</Button>
-                  </li>
-                  <li>
-                  <Button className="signin">Sign In</Button>
-                  </li>
-                  <li>
-                  <Button className="launch-dex">Launch DEX</Button>
-                  </li>
-                </ul>
+                <a href="https://ncx.cx/"><img src={Logo} alt="NCX-Logo" /></a>
+                </IconButton>
+                </div>
+              </div>
+              <div className="mobile-launch">
+              <div class="dropdown">
+                <button class="dropbtn">Launch Dex</button>
+                <div class="dropdown-content">
+                  <a href="#" target="_blank" rel="noreferrer">Launch Dex</a>
+                  <a href="#" target="_blank" rel="noreferrer">Sign In</a>
+                  <a href="#" target="_blank" rel="noreferrer">Sign Up</a>
+                </div>
+              </div>
               </div>
             </nav>
           </div>

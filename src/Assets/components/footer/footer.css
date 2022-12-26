@@ -35,20 +35,87 @@ div#footerdiv {
     font-family: 'urbanist-regular';
     font-size: 15px !important;
 }
+.copyright{
+    padding-top: 40px;
+}
 .copyright p {
     color: #FFFFFF;
     font-family: 'urbanist-regular';
     font-size: 12px;
-    text-align: end;
+    text-align: center;
 }
-.third-column {
-    visibility: hidden;
+.copyright p a{
+    color: #65E4A1;
+    text-decoration: none;
 }
-.social-media .icons:nth-child(1) {
+.copyright p a:hover{
+    text-decoration: underline;
+}
+
+.mobile-footer{
     display: none;
 }
-@media screen and (min-width: 900px){
+@media screen and (max-width: 800px){
+    div#footerdiv{
+        padding: 50px 0px 30px 0px !important;
+        background: none;
+        border-top: 0.5px solid rgba(255, 255, 255, .5);
+        background: #000000 !important;
+    }
+    .mobile-footer{
+        display: block;
+        padding: 0px 20px;
+    }
+    #footerdiv .container.footer{
+        display: none;
+    }
+    .mob-foot-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .mob-foot-head button {
+        height: 35px;
+        background: #000000;
+        border: 1.5px solid #65E4A1;
+        width: 100px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 12px 8px rgb(101 228 161 / 40%);
+    }
+    .mob-foot-head button a {
+        color: #FFFFFF;
+        font-family: 'urbanist-regular';
+        font-size: 14px;
+    }
+    .mob-foot-ul ul {
+        padding: 0px;
+        margin: 0px;
+    }
+    .mob-foot-ul ul li {
+        list-style-type: none;
+        color: #FFFFFF;
+    }
+    .mob-foot-ul ul li {
+        list-style-type: none;
+        color: #FFFFFF;
+        padding: 5px 0px;
+    }
+    .mob-foot-ul ul li a {
+        color: #FFFFFF;
+        font-family: 'urbanist-regular';
+        font-size: 14px;
+    }
+    .mob-foot-ul {
+        padding-top: 40px;
+        position: relative;
+    }
+    .social-media {
+        position: absolute;
+        padding: 0px;
+        bottom: 5px;
+        right: 0px;
+    }
     .copyright {
-        margin-top: -46px;
+        padding-top: 50px;
     }
 }

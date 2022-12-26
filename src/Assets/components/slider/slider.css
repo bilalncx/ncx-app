@@ -62,16 +62,24 @@ img.perspon-img {
     width: 50%;
 }
 .tet a{
-    background: #65E4A1;
-    color: #000;
+    /* background: #65E4A1; */
+    color: #FFFFFF;
     font-size: 14px;
     line-height: 24px;
     font-family: 'urbanist-regular' !important;
     padding: 13px 20px;
-    border-radius: 2px !important;
+    border-radius: 5px !important;
+    box-shadow: 0px 0px 12px 8px rgb(101 228 161 / 40%) !important;
+    width: 80% !important;
+    margin: 0 auto;
+    border: 1.5px solid #65E4A1 !important;
+    margin-left: 10px;
 }
 .tet a svg{
     margin-left: 10px;
+}
+.tet a svg path{
+    fill: #ffffff !important;
 }
 h1.features-include {
     font-size: 16px;
@@ -101,12 +109,21 @@ section#slider {
 #slider > div > article:nth-child(2) > h1{
     width: 25% ;
 }
+#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree,
 #slider > div.section-center.desktop > article:nth-child(3) > div > div.tag-class.rowthree > h2:nth-child(3),
 #slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowtwo > h2:nth-child(3){
     display: none;
 }
-#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree{
+/* #slider > div.section-center.mobile > article:nth-child(3) > div.tags-div > div.tag-class.rowfour > h2,
+#slider > div.section-center.mobile > article:nth-child(4) > div.tags-div > div.tag-class.rowthree,
+#slider > div.section-center.mobile > article:nth-child(4) > div.tags-div > div.tag-class.rowfour{
+    display: none;
+} */
+/* #slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree{
     visibility: hidden;
+} */
+.tags-div {
+    min-height: 185px;
 }
 .tag-class {
     min-height: 44.5px !important;

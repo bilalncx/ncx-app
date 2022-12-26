@@ -255,41 +255,48 @@ header {
 
 
 /* Mobile Css */
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 800px) {
     .hamburger {
       display: block;
     }
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 800px) {
     div#header-newmobile {
         width: 100% !important;
-        padding: 10px 0px;
+        padding: 18px 0px;
+        display: block !important;
+        position: fixed;
+        background: #000000;
+        top: 0;
     }
     .navigation {
         width: 100%;
-        justify-content: space-between !important;
         display: flex;
         align-items: center;
         position: relative;
         background-color: #000000;
         box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+        justify-content: space-between;
+    }
+    .mobile-logo .header-logo a img {
+        width: 110px;
     }
     .mobile-logo {
-        width: 80%;
+        width: fit-content;
         text-align: left;
-        padding-left: 20px;
+    }
+    .mobile-logo .header-logo {
+        padding: 0px;
+        margin: 0 auto;
     }
     button.hamburger {
-        width: 20%;
-        margin: 0px !important;
-        padding: 0px !important;
         background: none !important;
-        text-align: right;
-        padding-right: 20px !important;
         border: 0px;
+        padding: 0px !important;
+        transform: rotate(180deg);
     }
     .hamburger svg {
-        width: 34px;
+        width: 24px;
         height: auto !important;
     }
     .navigation-menu {
@@ -318,6 +325,7 @@ header {
         background: #000000;
         height: 100vh;
         z-index: -1;
+        left: 0px;
     }
     .navigation-menu.expanded ul {
         display: block;
@@ -343,4 +351,61 @@ header {
         padding: 10px 15px !important;
         min-height: 48px;
     }
-  }
+    #header-newmobile nav.navigation {
+        padding: 0px 20px !important;
+    }
+    .mobile-toogle {
+        width: fit-content;
+        text-align: left !important;
+    }
+    .navigation-one {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+    }
+    .dropbtn {
+        background-color: #000000 !important;
+        border: 1.5px solid #2460FF;
+        padding: 5px 10px 5px 14px;
+        border-radius: 7px;
+        background: url(./drop.svg);
+        background-repeat: no-repeat;
+        background-position: center right 8px;
+        background-size: 11%;
+        width: 110px;
+        font-size: 12px;
+        font-family: 'urbanist-regular';
+        text-align: left;
+        box-shadow: 0px 0px 12px 8px rgba(36, 96, 255, 0.4);
+    }
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }  
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #000000;
+        min-width: 110px;
+        box-shadow: 0px 0px 12px 8px rgba(36, 96, 255, 0.4);
+        border-radius: 5px;
+        z-index: 1;
+        width: 110px;
+        margin-top: 10px;
+    }  
+    .dropdown-content a {
+        color: #FFFFFF;
+        padding: 10px 16px;
+        text-decoration: none;
+        display: block;
+        font-size: 12px;
+        text-align: left;
+        font-family: 'urbanist-regular';
+    }
+    .dropdown-content a:hover {
+        background-color: #2E2E2E;
+        border-radius: 5px;
+    }
+    .dropdown:hover .dropdown-content {
+        display: block;}
+}

@@ -28,9 +28,6 @@ div#header-newmobile {
     .splashScreen {
         display: none !important;
     }
-    div#header-newmobile {
-        display: block;
-    }
     .market-exchange .row.marketimg {
         display: none !important;
     }
@@ -97,7 +94,10 @@ div#header-newmobile {
     .hero-section{
         padding-top: 30px !important;
         padding-bottom: 0px !important;
-        background: linear-gradient(180deg,rgba(5,27,96,0) 20%,#051b60 58.85%),#141414 !important;
+        /* background: linear-gradient(180deg,rgba(5,27,96,0) 20%,#051b60 58.85%),#141414 !important; */
+        background: url(../images/green-bg-mb.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
     }
     .hero-section .row.container{
         padding-bottom: 50px !important;
@@ -198,7 +198,7 @@ div#header-newmobile {
         margin-top: 30px !important;
     }
     .gradient {
-        padding: 50px 0px 0px 0px;
+        padding: 50px 0px 80px 0px;
     }
     .gradient-text .col {
         width: 100% !important;
@@ -241,9 +241,6 @@ div#header-newmobile {
         width: 100% !important;
         margin: 0 auto !important;
         font-size: 14px;
-    }
-    div#footerdiv {
-        background: #000000;
     }
     .accordian h2{
         font-size: 16px !important;
@@ -288,8 +285,9 @@ div#header-newmobile {
         border-bottom: 0.5px solid #FFFFFF;
     }
     #mobile-tabs button.tabs.active {
-        background: #65E4A1;
-        color: #000000;
+        /* background: #65E4A1; */
+        color: #FFFFFF;
+        box-shadow: 0px 0px 12px 8px rgba(101, 228, 161, 0.4);
     }
     #mobile-tabs button.tabs {
         background: none;
@@ -354,6 +352,7 @@ div#header-newmobile {
     }
     #slider .section-center.mobile{
         padding: 0px 0px !important;
+        position: relative;
     }
     #slider h1.include-features {
         font-size: 16px !important;
@@ -377,17 +376,18 @@ div#header-newmobile {
     .tag-class {
         width: 100% !important;
         padding: 0px 20px !important;
+        min-height: inherit !important;
     }
     .section-center .tag-class h2 {
         margin-right: 10px !important;
         margin-bottom: 10px !important;
-        font-size: 9px !important;
-        width: 100%;
+        font-size: 12px !important;
+        /* width: 100%; */
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
-        padding: 5px 8px !important;
+        padding: 5px 12px !important;
     }
     #slider > div.section-center.mobile > article:nth-child(3) > div.tag-class.rowfour,
     #slider > div.section-center.mobile > article:nth-child(4) > div.tag-class.rowthree,
@@ -418,8 +418,9 @@ div#header-newmobile {
     }
     .moving-btm{
         width: 100% !important;
-        top: -530px !important;
+        top: 450px !important;
         padding: 0px 20px !important;
+        position: absolute !important;
     }
     .footer-row {
         flex-flow: column wrap;
@@ -448,9 +449,6 @@ div#header-newmobile {
         width: 120px !important;
         height: auto !important;
     }
-    .social-media{
-        justify-content: flex-start !important;
-    }
     .info-mail {
         text-align: left !important;
     }
@@ -465,11 +463,34 @@ div#header-newmobile {
         font-size: 10px !important;
         text-align: center;
     }
-    .copyright{
-        margin-top: 20px !important;
-    }
     div#videosection {
         margin-top: 60px;
+    }
+
+    div#footer-faq{
+        background: url(../images/green-bg-mb.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-color: #000000;
+    }
+    .title{
+        border-top: 0.5px solid rgba(255, 255, 255, 0.5) !important;
+    }
+    span.svg {
+        background: rgba(255, 255, 255, 0.5) !important;
+    }
+    .faq-sect{
+        background: none !important;
+        padding: 80px 0px 50px 0px !important;
+    }
+    .tet-img{
+        background-color: #000000 !important;
+        background: url(../images/green-bg-dt.png) !important;
+        background-repeat: no-repeat;
+        background-size: 100% 100% !important;
+    }
+    #footer-faq #footerdiv {
+        background: transparent !important;
     }
 
     /* ************************************************************************************************** */
