@@ -17,6 +17,10 @@ header#header-row {
 header#header-row.darkheader{
     background: #000000 !important;
 }
+#BlogdetailsHeader header#header-row {
+    background: #000000 !important;
+    background-color: #000000 !important;
+}
 #main-header {
     max-width: 1320px !important;
     margin: 0 auto !important;

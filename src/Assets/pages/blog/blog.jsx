@@ -51,7 +51,7 @@ const Blog = () => {
 
   return (
     <>
-    <MyHeader />
+    <div id="BlogdetailsHeader"><MyHeader /></div>
     <div className='blog_detailspage'>
       <div className="container">
         <div className="row">
