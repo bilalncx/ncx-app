@@ -31,7 +31,7 @@ img.perspon-img {
 .tet-img{
     width: 70% !important;
     background-color: #2460FF;
-    background: url(../../images/green-bg-dt.png);
+    background: url(../../images/case-bg-min.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -99,7 +99,7 @@ h1.features-include {
     justify-content: space-between;
     padding: 0px 50px;
     position: relative;
-    top: -190px;
+    top: -300px;
     left: 0px;
     float: right;
 }
@@ -113,13 +113,16 @@ section#slider {
 #slider > div > article:nth-child(2) > h1{
     width: 25% ;
 }
-#slider > div.section-center.desktop > article:nth-child(3) > div > div.tag-class.rowthree > h2:nth-child(3),
-#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowthree,
-#slider > div.section-center.desktop > article:nth-child(4) > div > div.tag-class.rowtwo > h2:nth-child(3){
+#slider > div.section-center.desktop > article:nth-child(4) > div > div.tags-div > div.tag-class.rowthree,
+#slider > div.section-center.desktop > article:nth-child(4) > div > div.tags-div > div.tag-class.rowtwo > h2:nth-child(3),
+#slider > div.section-center.desktop > article:nth-child(3) > div > div.tags-div > div.tag-class.rowthree > h2:nth-child(3) {
     display: none;
 }
 .tags-div {
     min-height: 185px;
+}
+.section-center.desktop .tags-div {
+    min-height: 145px;
 }
 .tag-class {
     min-height: 44.5px !important;

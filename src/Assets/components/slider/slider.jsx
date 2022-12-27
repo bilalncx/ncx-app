@@ -44,21 +44,23 @@ const Sliderfunction = () => {
                         <article className={position} key={id}>
                             <Animated animationIn="fadeInRight" animationOut="fadeOut" isVisible={true}>
                             <h1>{name}</h1>
-                            <div className="tag-class rowone">
-                                <h2>{tag1}</h2>
-                                <h2>{tag2}</h2>
-                                <h2>{tag3}</h2>
-                                <h2>{tag4}</h2>
-                            </div>
-                            <div className="tag-class rowtwo">
-                                <h2>{tag5}</h2>
-                                <h2>{tag6}</h2>
-                                <h2>{tag7}</h2>
-                            </div>
-                            <div className="tag-class rowthree">
-                                <h2>{tag8}</h2>
-                                <h2>{tag9}</h2>
-                                <h2>{tag10}</h2>
+                            <div className="tags-div">
+                                <div className="tag-class rowone">
+                                    <h2>{tag1}</h2>
+                                    <h2>{tag2}</h2>
+                                    <h2>{tag3}</h2>
+                                    <h2>{tag4}</h2>
+                                </div>
+                                <div className="tag-class rowtwo">
+                                    <h2>{tag5}</h2>
+                                    <h2>{tag6}</h2>
+                                    <h2>{tag7}</h2>
+                                </div>
+                                <div className="tag-class rowthree">
+                                    <h2>{tag8}</h2>
+                                    <h2>{tag9}</h2>
+                                    <h2>{tag10}</h2>
+                                </div>
                             </div>
                             <div className="row text-image">
                                 <div className="tet">

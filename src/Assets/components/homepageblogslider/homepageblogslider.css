@@ -156,6 +156,12 @@ button.farworad {
     height: 50px !important;
     padding: 0px !important;
 }
+button.farworad span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
 
 @media screen and (max-width: 800px){
     #homePBS .row .col:nth-child(2){

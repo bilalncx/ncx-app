@@ -22,7 +22,7 @@ function MyFooter()
                     </div>
                     <div class="second-column">
                         <ul>
-                            <li><a href="https://ncx.cx/blog">News & Pres</a></li>
+                            <li><a href="https://ncx.cx/blog">News & Press</a></li>
                             <li><a href="https://ncx.cx/#faq">FAQ</a></li>
                             <li><a href="#">Connect</a></li>
                             <li><a href="#">Download App</a></li>

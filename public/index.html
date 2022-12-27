@@ -91,5 +91,14 @@
     } else{
       $("body").removeClass("body-overflow");
     }
+
+    $(window).scroll(function() {    
+      var scroll = $(window).scrollTop();
+      if (scroll >= 150) {
+        $("#header-row").addClass("darkheader");
+      }else{
+        $("#header-row").removeClass("darkheader");
+      }
+    });
   });
 </script>

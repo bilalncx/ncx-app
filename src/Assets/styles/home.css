@@ -51,7 +51,7 @@ section.bg-dark {
     padding-top: 50px;
 }
 .hero-section{
-    padding: 140px 0px 50px 0px;
+    padding: 140px 0px 100px 0px;
 }
 .bsss{
     text-align: center;
@@ -713,7 +713,7 @@ a#p15{
     font-weight: 300 !important;
 }
 .faq-sect{
-    background: url(../images/bss.png);
+    background: url(../images/faq-bg-min.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 120px 0px 80px 0px;

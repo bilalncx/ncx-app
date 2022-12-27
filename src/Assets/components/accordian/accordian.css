@@ -9,7 +9,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-top: 1px solid #364470;
+    border-top: 1px solid rgb(255,255,255, 0.5);
     padding: 30px 0px;
     cursor: pointer;
 }
@@ -35,7 +35,7 @@ span.svg.transform {
     transition: all 0.4s cubic-bezier(1,1,1,1);
 }
 span.svg {
-    background: #354269;
+    background: rgb(255,255,255, 0.5);
     padding: 7px 10.5px;
     border-radius: 50%;
     transition: all 0.4s cubic-bezier(1,1,1,1);

@@ -10,6 +10,7 @@ import './header.css';
   
 export default function Header() {   
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
+  
   return (
       <AppBar position="static" id="header-row">
         <Toolbar>
@@ -29,10 +30,16 @@ export default function Header() {
                 <a href="https://ncx.cx/">Home</a>
               </li>
               <li className="main_title white_bg">
-                <a href="https://ncx.cx/#market">Market</a>
+                <a href="#">Exchange</a>
               </li>
               <li className="main_title white_bg">
-                <a href="https://ncx.cx/#features">Features</a>
+                <a href="#">Trade</a>
+              </li>
+              <li className="main_title white_bg">
+                <a href="https://ncx.cx/#market">Markets</a>
+              </li>
+              <li className="main_title white_bg">
+                <a href="#">DEX</a>
               </li>
               <li className="main_title white_bg">
                 <a href="#">Connect
