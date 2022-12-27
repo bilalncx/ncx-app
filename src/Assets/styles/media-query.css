@@ -52,6 +52,14 @@ div#header-newmobile {
     #main-header{
         display: none !important;
     }
+    .market-table:before{
+        content: 'Markets';
+        font-size: 26px;
+        line-height: 36px;
+        font-family: 'urbanist-regular';
+        position: relative;
+        left: 10px;
+    }
     .header-logo{
         width: 100% !important;
         text-align: left;
@@ -83,7 +91,7 @@ div#header-newmobile {
     .hashtag span{
         font-size: 13px !important;
         margin-bottom: 10px !important;
-        padding:7px 12px !important;
+        padding:7px 15px !important;
     }
     .hashtag {
         padding-bottom: 0px !important;
@@ -161,6 +169,7 @@ div#header-newmobile {
     .market-exchange{
         padding: 50px 0px !important;
     }
+    
     .currrency_24change h2 {
         text-align: right !important;
     }
@@ -416,8 +425,11 @@ div#header-newmobile {
     }
     img.perspon-img{
         max-width: 280px !important;
-        left: 50px !important;
+        left: 0px !important;
         top: -60px !important;
+        right: 0px !important;
+        margin-left: auto;
+        margin-right: auto;
     }
     .moving-btm{
         width: 100% !important;

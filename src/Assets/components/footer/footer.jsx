@@ -24,9 +24,8 @@ function MyFooter()
                         <ul>
                             <li><a href="https://ncx.cx/blog">News & Press</a></li>
                             <li><a href="https://ncx.cx/#faq">FAQ</a></li>
-                            <li><a href="#">Connect</a></li>
+                            <li><a href="https://ncx.cx/blog">Connect</a></li>
                             <li><a href="#">Download App</a></li>
-                            <li><a href="#">Risk Disclosure</a></li>
                         </ul>
                     </div>
                     <div class="third-column">
@@ -34,8 +33,8 @@ function MyFooter()
                             <li><a href="https://ncx.cx/user-agreement">User Agreement</a></li>
                             <li><a href="https://ncx.cx/kyc-aml-policy">AML and KYC Policy</a></li>
                             <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
-                            <li><a href="#">API Documentation</a></li>
-                            <li><a href="#">Cookie Policy</a></li>
+                            <li><a href="https://ncx.cx/api-agreement">API Documentation</a></li>
+                            <li><a href="https://ncx.cx/cookie-policy">Cookie Policy</a></li>
                         </ul>
                     </div>
                     <div class="fourth-column">
@@ -69,14 +68,14 @@ function MyFooter()
                         <li><a href="#">Exchange</a></li>
                         <li><a href="#">Trade</a></li>
                         <li><a href="#">DEX</a></li>
-                        <li><a href="#">Markets</a></li>
-                        <li><a href="#">Connect</a></li>
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">Documentation</a></li>
+                        <li><a href="https://ncx.cx/#market">Markets</a></li>
+                        <li><a href="https://ncx.cx/blog">Connect</a></li>
+                        <li><a href="https://ncx.cx/#faq">FAQ</a></li>
+                        <li><a href="https://ncx.cx/api-agreement">Documentation</a></li>
                     </ul>
                     <div class="social-media">
                         <div class="icons"><a href="https://ncx.cx"><img src={MobileTelegram} alt="NCX" title="Telegram"/></a></div>
-                        <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                        <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                     </div>
                 </div>
                 <div class="copyright">

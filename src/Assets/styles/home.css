@@ -53,6 +53,9 @@ section.bg-dark {
 .hero-section{
     padding: 140px 0px 100px 0px;
 }
+.hero-section button {
+    display: none;
+}
 .bsss{
     text-align: center;
 }
@@ -713,9 +716,10 @@ a#p15{
     font-weight: 300 !important;
 }
 .faq-sect{
-    background: url(../images/faq-bg-min.png);
+    background: url(../images/copy-faq.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
     padding: 120px 0px 80px 0px;
 }
 

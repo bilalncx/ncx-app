@@ -375,7 +375,7 @@ ul.navlink li {
     .dropbtn {
         background-color: #000000 !important;
         border: 1.5px solid #2460FF;
-        padding: 5px 10px 5px 14px;
+        padding: 7px 10px 7px 14px;
         border-radius: 7px;
         background: url(./drop.svg);
         background-repeat: no-repeat;

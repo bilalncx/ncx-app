@@ -7,6 +7,8 @@ import Press from './Assets/pages/bloglisting';
 import PrivacyPolicy from './Assets/pages/privacy-policy/privacy-policy';
 import KYCAMLPolicy from './Assets/pages/kyc-aml-policy/kyc-aml-policy';
 import UserAgreement from './Assets/pages/user-agreement/user-agreement';
+import CookiePolicy from './Assets/pages/cookie-policy/cookie-policy';
+import APIDocumentation from './Assets/pages/api-documentation/api-documentation';
 
 const App = () => {
   return (
@@ -19,6 +21,8 @@ const App = () => {
           <Route path='/privacy-policy' element={<PrivacyPolicy />}/>
           <Route path='/kyc-aml-policy' element={<KYCAMLPolicy />}/>
           <Route path='/user-agreement' element={<UserAgreement />}/>
+          <Route path='/cookie-policy' element={<CookiePolicy />}/>
+          <Route path='/api-agreement' element={<APIDocumentation />}/>
         </Routes>
       </BrowserRouter>
     </div>

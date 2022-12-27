@@ -59,6 +59,13 @@
     display: block;
     margin-top: 10px;
 }
+ul.api-ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ul.api-ul li {
+    list-style-type: disc;
+}
 
 @media screen and (max-width: 800px){
     .policy{
