@@ -156,9 +156,9 @@ export default function Header() {
               </div>
               <div className="mobile-launch">
               <div class="dropdown">
-                <button class="dropbtn">Launch Dex</button>
+                <button class="dropbtn">Launch DEX</button>
                 <div class="dropdown-content">
-                  <a href="#" target="_blank" rel="noreferrer">Launch Dex</a>
+                  <a href="#" target="_blank" rel="noreferrer">Launch DEX</a>
                   <a href="#" target="_blank" rel="noreferrer">Sign In</a>
                   <a href="#" target="_blank" rel="noreferrer">Sign Up</a>
                 </div>

@@ -381,8 +381,8 @@ ul.navlink li {
         background-repeat: no-repeat;
         background-position: center right 8px;
         background-size: 11%;
-        width: 110px;
-        font-size: 12px;
+        width: 115px;
+        font-size: 13px;
         font-family: 'urbanist-regular';
         text-align: left;
         box-shadow: 0px 0px 12px 8px rgba(36, 96, 255, 0.4);
@@ -407,7 +407,7 @@ ul.navlink li {
         padding: 10px 16px;
         text-decoration: none;
         display: block;
-        font-size: 12px;
+        font-size: 13px;
         text-align: left;
         font-family: 'urbanist-regular';
     }

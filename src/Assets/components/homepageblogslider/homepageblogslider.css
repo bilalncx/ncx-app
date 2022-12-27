@@ -211,6 +211,7 @@ button.farworad span {
     article.HPB-l{
         padding-top: 100px;
         max-height: 540px;
+        overflow: hidden;
     }
     button.farworad{
         top: 50px;
