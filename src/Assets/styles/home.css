@@ -330,6 +330,7 @@ video#hero-video {
     display: none;
 }
 .pinkarrow h3 {
+    display: none;
     color: #FFFFFF;
     font-family: 'hauora-regular';
     font-size: 12px;
