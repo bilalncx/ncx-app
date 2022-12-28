@@ -1658,7 +1658,7 @@ function MainHome()
                             <div className="faq-0 asss">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
                                     <p>Got a Question?</p>
-                                    <h1>Frequently Asked Question</h1>
+                                    <h1>Frequently Asked Questions</h1>
                                 </AnimationOnScroll>
                                 <Button className="btn01">Refer a Friend & Get 10,000 $NCXX Tokens
                                 <svg width="31" height="8" viewBox="0 0 31 8" fill="none" xmlns="http://www.w3.org/2000/svg">

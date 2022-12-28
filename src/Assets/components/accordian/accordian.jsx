@@ -42,7 +42,7 @@ const data = [
     },
     {
         question: 'Can I Buy/Sell Crypto with Fiat?',
-        answer: 'Yes, this is one of the main feats of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency',
+        answer: 'Yes, this is one of the main features of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency',
     },
     {
         question: 'What are benefits of using NCX vs other Crypto Exchnages?',
