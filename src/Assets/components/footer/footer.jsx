@@ -13,11 +13,11 @@ function MyFooter()
                 <div class="footer-row">
                     <div class="first-column">
                         <ul>
-                            <li><a href="">Exchange</a></li>
-                            <li><a href="https://ncx.cx/#features">Trade</a></li>
+                            <li><a href="">Home</a></li>
+                            <li><a href="#">Exchange</a></li>
+                            <li><a href="#">Trade</a></li>
                             <li><a href="https://ncx.cx/#market">Markets</a></li>
-                            <li><a href="">Swap</a></li>
-                            <li><a href="#">Earn</a></li>
+                            <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
                         </ul>
                     </div>
                     <div class="second-column">
@@ -67,7 +67,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx">Home</a></li>
                         <li><a href="#">Exchange</a></li>
                         <li><a href="#">Trade</a></li>
-                        <li><a href="#">DEX</a></li>
+                        <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
                         <li><a href="https://ncx.cx/#market">Markets</a></li>
                         <li><a href="https://ncx.cx/blog">Connect</a></li>
                         <li><a href="https://ncx.cx/#faq">FAQ</a></li>

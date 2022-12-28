@@ -39,7 +39,7 @@ export default function Header() {
                 <a href="https://ncx.cx/#market">Markets</a>
               </li>
               <li className="main_title white_bg">
-                <a href="#">DEX</a>
+                <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
               </li>
               <li className="main_title white_bg">
                 <a href="#">Connect
@@ -94,7 +94,7 @@ export default function Header() {
             </ul>
             <Button className="btn01 signup">Sign Up</Button>
             <Button className="signin">Sign In</Button>
-            <Button className="launch-dex">Launch DEX</Button>
+            <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex">Launch DEX</Button>
           </div>
 
           <div id="header-newmobile" className={
@@ -130,13 +130,13 @@ export default function Header() {
                         <a href="https://ncx.cx/blog">Press & News</a>
                       </li>
                       <li>
-                      <Button className="btn01 signup">Sign Up</Button>
+                        <a className="btn01 signup launching-btn">Sign Up</a>
                       </li>
                       <li>
-                      <Button className="signin">Sign In</Button>
+                        <a className="signin launching-btn">Sign In</a>
                       </li>
                       <li>
-                      <Button className="launch-dex">Launch DEX</Button>
+                        <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex launching-btn">Launch DEX</a>
                       </li>
                     </ul>
                   </div>
@@ -158,7 +158,7 @@ export default function Header() {
               <div class="dropdown">
                 <button class="dropbtn">Launch DEX</button>
                 <div class="dropdown-content">
-                  <a href="#" target="_blank" rel="noreferrer">Launch DEX</a>
+                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</a>
                   <a href="#" target="_blank" rel="noreferrer">Sign In</a>
                   <a href="#" target="_blank" rel="noreferrer">Sign Up</a>
                 </div>

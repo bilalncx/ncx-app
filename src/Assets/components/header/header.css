@@ -43,6 +43,9 @@ header#header-row.darkheader{
     text-transform: capitalize !important;
     width: 9% !important;
 }
+.btn01:focus, .signin:focus, .launch-dex:focus, .btn01:focus-visible, .signin:focus-visible, .launch-dex:focus-visible{
+    outline: none !important;
+}
 .signin{
     background: #000000 !important;
     color: #FFFFFF !important;
@@ -357,13 +360,20 @@ ul.navlink li {
         width: fit-content;
         margin: 0 auto;
     }
-    #header-newmobile .navigation-menu.expanded ul li button {
+    #header-newmobile .navigation-menu.expanded ul li a.launching-btn{
         width: 100% !important;
         margin-right: 0px !important;
         font-size: 18px !important;
         padding: 10px 15px !important;
         min-height: 48px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
+    #header-newmobile nav.navigation {
+        padding: 0px 20px;
+    }
+    #header-newmobile .navigation-menu.expanded ul li a 
     #header-newmobile nav.navigation {
         padding: 0px 20px !important;
     }
