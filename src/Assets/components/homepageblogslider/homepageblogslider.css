@@ -241,9 +241,12 @@ div#HMPBlogSlider:after {
     h1.post-tilelll {
         font-size: 18px !important;
         line-height: 24px !important;
-        margin-top: 40px !important;
+        margin-top: 25px !important;
     }
     div#homePBS{
         padding: 80px 0px 0px 0px !important;
+    }
+    .tag-class {
+        min-height: 30px !important;
     }
 }
