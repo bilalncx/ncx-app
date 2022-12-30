@@ -638,7 +638,9 @@ video#ncx-main-video {
 
 }
 .download .bsss img {
-    max-width: 410px;
+    max-width: 450px;
+    position: relative;
+    top: -10px;
 }
 .download .bsss {
     text-align: center;
