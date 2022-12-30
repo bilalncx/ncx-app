@@ -12,6 +12,11 @@ function TradePage(){
         setToggleStatecontent(index);
     };
 
+    const [toggleStateequity, setToggleStateequity] = useState(1);
+    const toggleTabequity = (index) => {
+        setToggleStateequity(index);
+    };
+
     return(
         <div id="trade-tabs-sect">
             <div className="buttons-tab">
@@ -21,12 +26,12 @@ function TradePage(){
                 >
                 Crypto
                 </button>
-                {/* <button
+                <button
                     className={toggleState === 2 ? "trade-tabs active" : "trade-tabs"}
                     onClick={() => toggleTab(2)}
                 >
                 Equities
-                </button> */}
+                </button>
                 <button
                     className={toggleState === 3 ? "trade-tabs active" : "trade-tabs"}
                     onClick={() => toggleTab(3)}
@@ -749,9 +754,530 @@ function TradePage(){
                             </div>
                     </div>
                 </div>
-                {/* <div className={toggleState === 2 ? "trade-content  active" : "trade-content"}>
-                    <h2>Two</h2>
-                </div> */}
+                <div className={toggleState === 2 ? "trade-content  active" : "trade-content"}>
+                    <div id="equity-tabbtn" className="inner-btntabs">
+                        <button
+                            className={toggleStateequity === 1 ? "conttrade-tabs active" : "conttrade-tabs"}
+                            onClick={() => toggleTabequity(1)}
+                        >
+                        US Stock Market
+                        </button>
+                        <button
+                            className={toggleStateequity === 2 ? "conttrade-tabs active" : "conttrade-tabs"}
+                            onClick={() => toggleTabequity(2)}
+                        >
+                        EU Stock Market
+                        </button>
+                        <button
+                            className={toggleStateequity === 3 ? "conttrade-tabs active" : "conttrade-tabs"}
+                            onClick={() => toggleTabequity(3)}
+                        >
+                        Asia Stock Market
+                        </button>
+                    </div>
+                    <div id="equity_stocktabs" className="innercontent-tabs">
+                        <div className={toggleStateequity === 1 ? "conttrade-content  active" : "conttrade-content"}>
+                            <div className="currecny-row">
+                                <div className="currecnycol">
+                                    <div className="currecnycol-txt">
+                                        <h1>A</h1>
+                                        <p>Agilent Technologies, Inc.</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>AAL</h1>
+                                        <p>American Airlines Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>APPL</h1>
+                                        <p>Apple</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>AIG</h1>
+                                        <p>American International Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>AMZN</h1>
+                                        <p>Amazon</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BA</h1>
+                                        <p>Boeing Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BAC</h1>
+                                        <p>Bank of America Corporation</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>C</h1>
+                                        <p>Citigroup</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>CSCO</h1>
+                                        <p>Cisco Systems</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>CVX</h1>
+                                        <p>Chevron Corporation</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>DIS</h1>
+                                        <p>Walt Disney Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>F</h1>
+                                        <p>Ford Motor Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>META</h1>
+                                        <p>Meta Platforms</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>FDX</h1>
+                                        <p>FedEx Corporation</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>GE</h1>
+                                        <p>General Electric Inc.</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>GOOGL</h1>
+                                        <p>Alphabet Class A</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>GS</h1>
+                                        <p>Goldman Sachs Group Inc</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>H</h1>
+                                        <p>Hyatt Hotels Corporation</p>
+                                    </div>
+                                </div>
+                                <div className="currecnycol">
+                                    <div className="currecnycol-txt">
+                                        <h1>HD</h1>
+                                        <p>Home Depot</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>HPQ</h1>
+                                        <p>Hewlett-Packard Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>IBM</h1>
+                                        <p>International Business Machines</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>ING</h1>
+                                        <p>ING Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>INTC</h1>
+                                        <p>Intel</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>JNJ</h1>
+                                        <p>Johnson & Johnson</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>JPM</h1>
+                                        <p>JPMorgan Chase & Co</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>KO</h1>
+                                        <p>Coca-Cola Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MA</h1>
+                                        <p>Mastercard</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MAR</h1>
+                                        <p>Marriott International</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MCD</h1>
+                                        <p>McDonald`s</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MMM</h1>
+                                        <p>3M Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MRK</h1>
+                                        <p>Merck & Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MSFT</h1>
+                                        <p>Microsoft Corporation</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>NDAQ</h1>
+                                        <p>NASDAQ OMX Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>NFLX</h1>
+                                        <p>Netflix</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>NIKE</h1>
+                                        <p>Nike</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>ORCL</h1>
+                                        <p>Oracle Corporation</p>
+                                    </div>
+                                </div>
+                                <div className="currecnycol">
+                                    <div className="currecnycol-txt">
+                                        <h1>PEP</h1>
+                                        <p>Pepsico</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>PG</h1>
+                                        <p>Procter & Gamble Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>T</h1>
+                                        <p>AT&T</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>TSLA</h1>
+                                        <p>Tesla</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>UAL</h1>
+                                        <p>United Continental Holdings</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>UNH</h1>
+                                        <p>UnitedHealth Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>V</h1>
+                                        <p>Visa</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>VZ</h1>
+                                        <p>Verizon Communications</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>WFC</h1>
+                                        <p>Wells Fargo & Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>WKHS</h1>
+                                        <p>Workhorse Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>WMT</h1>
+                                        <p>Wal-Mart Stores</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>XOM</h1>
+                                        <p>Exxon Mobil Corporation</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>NVDA</h1>
+                                        <p>Nvidia</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MAT</h1>
+                                        <p>Mattel, Inc. - Common Stock</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>DLPN</h1>
+                                        <p>Dolphin Entertainment, Inc. </p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>FNKO</h1>
+                                        <p>Funko, Inc. - Class A Common Stock</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>NET</h1>
+                                        <p>CloudFlare - Class A</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>TKAT</h1>
+                                        <p>Takung Art Co. Ltd. Common Stock</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className={toggleStateequity === 2 ? "conttrade-content  active" : "conttrade-content"}>
+                            <div className="currecny-row">
+                                <div className="currecnycol">
+                                    <div className="currecnycol-txt">
+                                        <h1>ADS</h1>
+                                        <p>Adidas</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>AF</h1>
+                                        <p>Air France-KLM</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>AI</h1>
+                                        <p>Air Liquide</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>AIR</h1>
+                                        <p>Airbus Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>ALV</h1>
+                                        <p>Allianz</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BAS</h1>
+                                        <p>BASF</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BATS</h1>
+                                        <p>British American Tobacco</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BAYN</h1>
+                                        <p>Bayer</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BMW</h1>
+                                        <p>Bayerische Motoren Werke</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BN</h1>
+                                        <p>Danone</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>BNP</h1>
+                                        <p>BNP Paribas</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>CS</h1>
+                                        <p>AXA</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>DGE</h1>
+                                        <p>Diageo</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>DTE</h1>
+                                        <p>Deutsche Telekom</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>EDF</h1>
+                                        <p>Electricite de France</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>GLEN</h1>
+                                        <p>Glencore</p>
+                                    </div>
+                                </div>
+                                <div className="currecnycol">
+                                    <div className="currecnycol-txt">
+                                        <h1>GSK</h1>
+                                        <p>GlaxoSmithKline</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>IBE</h1>
+                                        <p>Iberdrola</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>LHA</h1>
+                                        <p>Lufthansa</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MBG</h1>
+                                        <p>Mercedes-Benz Group AG</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MC</h1>
+                                        <p>LVMH Moet Hennessy Louis Vuitton</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>NESN</h1>
+                                        <p>Nestle</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>NOVN</h1>
+                                        <p>Novartis</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>OR</h1>
+                                        <p>L`Oreal</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>SHEL</h1>
+                                        <p>Shell PLC</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>RIO</h1>
+                                        <p>Rio Tinto</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>ROG</h1>
+                                        <p>Roche Holding</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>SAP</h1>
+                                        <p>SAP</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>SIE</h1>
+                                        <p>Siemens</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>ULVR</h1>
+                                        <p>Unilever</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>VOD</h1>
+                                        <p>Vodafone Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>VOW3</h1>
+                                        <p>Volkswagen</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className={toggleStateequity === 3 ? "conttrade-content  active" : "conttrade-content"}>
+                            <div className="currecny-row">
+                                <div className="currecnycol">
+                                    <div className="currecnycol-txt">
+                                        <h1>AIA</h1>
+                                        <p>AIA Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Canon</h1>
+                                        <p>Canon</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>China Mobile</h1>
+                                        <p>China Mobile</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>CITIC</h1>
+                                        <p>CITIC Securities</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>CKHutchison</h1>
+                                        <p>CK Hutchison Holdings</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>CNOOC</h1>
+                                        <p>CNOOC</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Henderson</h1>
+                                        <p>Henderson Land</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>HKBankChina</h1>
+                                        <p>Bank of China</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Honda</h1>
+                                        <p>Honda Motor Company</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>HSBC</h1>
+                                        <p>HSBC Holdings</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Ind&ComBank</h1>
+                                        <p>Industrial and Commercial Bank of China</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>JDCom</h1>
+                                        <p>Jd Com Inc</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>JpnTobacco</h1>
+                                        <p>Japan Tobacco</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>KDDI</h1>
+                                        <p>KDDI</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Keyence</h1>
+                                        <p>Keyence</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Lenovo</h1>
+                                        <p>Lenovo Group</p>
+                                    </div>
+                                </div>
+                                <div className="currecnycol">
+                                    <div className="currecnycol-txt">
+                                        <h1>Makita</h1>
+                                        <p>Makita</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>MitsubishiUFJ</h1>
+                                        <p>Mitsubishi UFJ Financial Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Mitsui</h1>
+                                        <p>Mitsui & Co</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Mizuho</h1>
+                                        <p>Mizuho Financial Group</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Nissan</h1>
+                                        <p>Nissan Motor Co</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>PICC</h1>
+                                        <p>PICC Property and Casualty</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Seven&I</h1>
+                                        <p>Seven & i Holdings Co</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>ShenhuaEnrg</h1>
+                                        <p>China Shenhua Energy</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>SHK</h1>
+                                        <p>SHK Ppt</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Softbank</h1>
+                                        <p>Softbank</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Sony</h1>
+                                        <p>Sony</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Sumitomo</h1>
+                                        <p>SUMITOMO SHOJI KAISHA,LTD.</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Tencent</h1>
+                                        <p>Tencent Holdings</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Toshiba</h1>
+                                        <p>Toshiba Corporation</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Toyota</h1>
+                                        <p>Toyota Motor Corp</p>
+                                    </div>
+                                    <div className="currecnycol-txt">
+                                        <h1>Xiaomi</h1>
+                                        <p>Xiaomi</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div className={toggleState === 3 ? "trade-content  active" : "trade-content"}>
                     <div id="forex-tradecol" className="currecny-row">
                         <div className="currecnycol">

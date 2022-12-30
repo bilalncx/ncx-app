@@ -58,6 +58,6 @@ ul.faq_li li:before {
     left: 0px;
     position: absolute;
 }
-.accordian .item:nth-child(3) .content {
+/* .accordian .item:nth-child(3) .content {
     display: none !important;
-}
+} */

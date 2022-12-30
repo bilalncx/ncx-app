@@ -18,6 +18,11 @@ function ReactSimplyCarouselExample() {
         onRequestChange={setActiveSlideIndex}
         itemsToShow={1}
         itemsToScroll={1}
+        loop
+        useNativeDriver
+        autoplay={true}
+        autoplayDelay={3000}
+        autoplayInterval={3000}
         forwardBtnProps={{
             className: 'farworad',
           //here you can also pass className, or any other button element attributes
@@ -68,7 +73,7 @@ function ReactSimplyCarouselExample() {
             itemsToScroll: 1,
           },
         ]}
-        speed={800}
+        speed={600}
         easing="linear"
       >
         {/* here you can also pass any other element attributes. Also, you can use your custom components as slides */}

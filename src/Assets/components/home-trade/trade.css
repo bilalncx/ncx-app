@@ -127,6 +127,10 @@ button.conttrade-tabs.active {
 #forex-tradecol .currecnycol:nth-child(2) .currecnycol-txt:last-child, #forex-tradecol .currecnycol:nth-child(3) .currecnycol-txt:last-child {
     border: none;
 }
+#equity_stocktabs .currecnycol .currecnycol-txt:last-child {
+    border: none;
+}
+
 
 
 @media screen and (max-width: 800px){
@@ -149,17 +153,16 @@ button.conttrade-tabs.active {
     div#trade-tabs-sect{
         padding: 40px 0px 20px 0px;
     }
-    .buttons-tab {
+    /* .buttons-tab {
         display: flex;
         justify-content: space-evenly;
-    }
+    } */
     button.trade-tabs{
-        width: fit-content;
         padding: 6px 8px;
-        font-size: 13px;
-        min-width: unset;
-        margin: 0px;
-        margin-right: 0px;
+        font-size: 14px;
+        border-radius: 10px !important;
+        min-width: 80px !important;
+        margin-bottom: 5px !important;
     }
     .hometrade .content-tabs {
         padding: 30px 15px 15px 15px;
@@ -188,5 +191,11 @@ button.conttrade-tabs.active {
     #other-col .currecnycol .currecnycol-txt p, #forex-tradecol .currecnycol .currecnycol-txt p{
         min-height: 42px;
         font-size: 11px;
+    }
+    #equity-tabbtn button.conttrade-tabs {
+        min-width: 125px;
+    }
+    #equity_stocktabs .currecnycol-txt p {
+        min-height: 42px;
     }
 }
