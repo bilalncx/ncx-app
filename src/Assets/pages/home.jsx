@@ -898,7 +898,7 @@ function MainHome()
                                 </div>
                                 <div className="agreement-p">
                                     <p>*- Over 80 Pairs available for Trading and over 20,000 Crypto Assets on NCX DEX available on BSC, Ethereum, Polygon, Fantom and Solana Networks</p>
-                                    <p>**- NCX Platform is available Globally apart of Restricted Jurisdictions listed in <span><a href="#">User Agreement</a></span></p>
+                                    <p>**- NCX Platform is available Globally apart of Restricted Jurisdictions listed in <span><a href="https://ncx.cx/user-agreement">User Agreement</a></span></p>
                                 </div>
                             </div>
                         </div>
@@ -1469,7 +1469,7 @@ function MainHome()
                         </div>
                         <div className="mobile-bp">
                             <p>*- Over 80 Pairs available for Trading and over 20,000 Crypto Assets on NCX DEX available on BSC, Ethereum, Polygon, Fantom and Solana Networks</p>
-                            <p>**- NCX Platform is available Globally apart of Restricted Jurisdictions listed in <span><a href="#">User Agreement</a></span></p>
+                            <p>**- NCX Platform is available Globally apart of Restricted Jurisdictions listed in <span><a href="https://ncx.cx/user-agreement">User Agreement</a></span></p>
                         </div>
                     </div>
                 </div>
