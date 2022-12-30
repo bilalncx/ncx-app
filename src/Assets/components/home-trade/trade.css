@@ -166,6 +166,7 @@ button.conttrade-tabs.active {
     }
     .hometrade .content-tabs {
         padding: 30px 15px 15px 15px;
+        margin-top: 10px !important;
     }
     .currecnycol-txt{
         padding: 13px 10px !important;
