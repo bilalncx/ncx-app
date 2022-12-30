@@ -515,6 +515,14 @@ div#header-newmobile {
     #slider > div.section-center.mobile > article:nth-child(4) > div.tags-div > div.tag-class.rowfour > h2{
         display: none;
     }
+    .download .row:before, div#HMPBlogSlider:before, div#HMPBlogSlider:after{
+        display: none !important;
+    }
+    .download .asss {
+        padding: 0px 20px 20px 20px;
+    }
+
+
 
     /* ************************************************************************************************** */
     /* ****************************************Blog Page Stlye******************************************* */

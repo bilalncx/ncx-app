@@ -291,6 +291,9 @@ video#hero-video {
 .marketimg .col img {
     width: 100%;
 }
+.row.marketimg {
+    margin: 0px !important;
+}
 
 /* Advanced CEX and DEX Table Section */
 .dex-table {
@@ -591,10 +594,23 @@ video#ncx-main-video {
 /* Download App Section */
 .download {
     background: #FFFFFF;
-    padding: 100px 0px;
+    padding: 50px 0px 100px 0px;
+}
+.download .asss {
+    padding: 83px 0px 0px 70px;
 }
 .download .row {
     margin: 0px !important;
+    position: relative;
+}
+.download .row:before {
+    background: #EEEEEE;
+    content: '';
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    max-width: 1280px;
+    top: 60px;
 }
 .download .asss h1 {
     color: #000000;
@@ -605,10 +621,10 @@ video#ncx-main-video {
 }
 .bar11 {
     display: flex;
-    padding: 50px 0px;
+    padding: 30px 0px 0px 0px;
 }
 .bar12 img {
-    max-width: 210px;
+    max-width: 175px;
 }
 .stores img {
     max-width: 160px;

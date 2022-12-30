@@ -45,6 +45,7 @@ import Sidebtn2 from '../images/rightbtn2.png';
 import PinkArrow from '../images/pinkarrow.png'; 
 import BlogSliderHomepage from '../components/homepageblogslider/homepageblogslider';
 import {ReactComponent as NCXLogo} from '../images/NCX-logo.svg';
+import HomepageTrade from '../components/home-trade/trade';
 
 
 function MainHome()
@@ -1537,6 +1538,24 @@ function MainHome()
                             </AnimationOnScroll>
                         </div>
                     </div>
+                </div>
+            </div>
+
+            <div className="hometrade">
+                <div className="container">
+                <div className="row">
+                    <div className="col">
+                        <div className="ncx-trenddiv">
+                            <NCXLogo />
+                            <p>Trade</p>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <h2>Trade Futures with up to 100x Leverage</h2>
+                        <p>With Ultra Fast Execution and Deep Liquidity</p>
+                    </div>
+                </div>
+                <HomepageTrade />
                 </div>
             </div>
 
