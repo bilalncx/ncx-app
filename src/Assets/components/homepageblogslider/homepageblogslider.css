@@ -180,7 +180,7 @@ div#HMPBlogSlider:after {
     display: block;
     position: absolute;
     left: -80px;
-    top: 0px;
+    top: -1px;
 }
 
 @media screen and (max-width: 800px){
