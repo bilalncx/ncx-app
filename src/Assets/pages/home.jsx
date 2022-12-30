@@ -105,14 +105,14 @@ function MainHome()
                                 playsInline={true}
                                 // poster={"../src/assets/images/roadmap-bg.png"}
                                 >
-                                <source src={require('../images/video2.mp4')} type="video/mp4" />
+                                <source src={require('../images/updated-video.mp4')} type="video/mp4" />
                             </video>
-                            <img className="sidebtn1" src={Sidebtn1} alt="NCX" />
+                            {/* <img className="sidebtn1" src={Sidebtn1} alt="NCX" />
                             <div className="volumebtn">
                                 <img className="sidebtn2" src={Sidebtn1} alt="NCX" />
                                 <img className="sidebtn2" src={Sidebtn1} alt="NCX" />
                             </div>
-                            <img className="sidebtn3" src={Sidebtn1} alt="NCX" />
+                            <img className="sidebtn3" src={Sidebtn1} alt="NCX" /> */}
                         </div>
                     </div>
                 </div>
