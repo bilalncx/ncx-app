@@ -336,7 +336,7 @@ function MainHome()
 
             <div id="market" className="market-exchange">
                 <div className="container">
-                    <div className="row marketimg">
+                    {/* <div className="row marketimg">
                         <div className="col">
                             <img src={Market1} alt="NCX" />
                         </div>
@@ -349,7 +349,8 @@ function MainHome()
                         <div className="col">
                             <img src={Market4} alt="NCX" />
                         </div>
-                    </div>
+                    </div> */}
+                    <h1>Markets</h1>
                     <Marketpage />
                 </div>
             </div>

@@ -52,14 +52,14 @@ div#header-newmobile {
     #main-header{
         display: none !important;
     }
-    .market-table:before{
+    /* .market-table:before{
         content: 'Markets';
         font-size: 26px;
         line-height: 36px;
         font-family: 'urbanist-regular';
         position: relative;
         left: 10px;
-    }
+    } */
     .header-logo{
         width: 100% !important;
         text-align: left;
