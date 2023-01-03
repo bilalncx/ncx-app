@@ -48,21 +48,21 @@ const data = [
         question: 'What are benefits of using NCX vs other Crypto Exchnages?',
         answer: 'NCX is the first Platform to combine DEX, CEX and Leverage Trading of Assets (Crypto, Forex, Stock Market, ETFs, Indexes, Metals with up to 100x Leverage) all on one, advanced Hybrid Platform. Users can simply connect their non-custodial wallet on DEX, top-up their Spot or Trading Wallet and start trading, NCX doe not charge any Deposit or Withdrawal fees hence allowing customers to move their funds freely to their non-custodial wallets such as Metamask, Trust Wallet etc. preserving the safety of their assets.',
     },
-    {
-        question: 'How can I earn NCXX Tokens?',
-        answer: 
-        <div>
-            <p>NCX is on target to reach 500,000 users by the end of 2023, to achieve our goal we introduced a number of ways to 
-                grow and reward NCX community and built a scalable ecosystem. As a part of our marketing campaign:</p>
-            <ul className='faq_li'>
-                <li>Newly registered users will receive 10,000 NCXX tokens airdrop as a sign-up bonus</li>
-                <li>Earn 10,000 NCXX tokens with each new referral with NCX Referral Program, both the referred user and the one referring will receive the 10,000 NCXX tokens airdrop, one as referral another as sign-up bonus </li>
-                <li>Stake NCXX on NCX DeFi Staking & Liquidity Pools</li>
-                <li>Farm Yield and earn NCXX on NCX DeFi Yield Farms</li>
-                <li>Earn rewards in NCXX Tokens by completing task on the platform and reaching trading volumes, receive cash back on trading fees in NCXX</li>
-            </ul>
-        </div>,
-    }
+    // {
+    //     question: 'How can I earn NCXX Tokens?',
+    //     answer: 
+    //     <div>
+    //         <p>NCX is on target to reach 500,000 users by the end of 2023, to achieve our goal we introduced a number of ways to 
+    //             grow and reward NCX community and built a scalable ecosystem. As a part of our marketing campaign:</p>
+    //         <ul className='faq_li'>
+    //             <li>Newly registered users will receive 10,000 NCXX tokens airdrop as a sign-up bonus</li>
+    //             <li>Earn 10,000 NCXX tokens with each new referral with NCX Referral Program, both the referred user and the one referring will receive the 10,000 NCXX tokens airdrop, one as referral another as sign-up bonus </li>
+    //             <li>Stake NCXX on NCX DeFi Staking & Liquidity Pools</li>
+    //             <li>Farm Yield and earn NCXX on NCX DeFi Yield Farms</li>
+    //             <li>Earn rewards in NCXX Tokens by completing task on the platform and reaching trading volumes, receive cash back on trading fees in NCXX</li>
+    //         </ul>
+    //     </div>,
+    // }
 ]
 
 
