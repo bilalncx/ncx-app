@@ -1,6 +1,7 @@
 div#footerdiv {
-    padding: 70px 0px 40px 0px;
+    padding: 70px 0px 20px 0px;
     background: #000000;
+    /* border-top: 1px solid rgb(255, 255, 255, 0.2); */
 }
 .footer-row {
     display: flex;
@@ -12,10 +13,11 @@ div#footerdiv {
     padding-bottom: 16px;
 }
 .footer-row ul li a {
-    color: #FFFFFF;
-    font-family: 'urbanist-regular';
+    color: #FCFCFD;
+    font-family: 'urbanist-light';
     font-size: 14px;
     line-height: 20px;
+    font-weight: 400 !important;
 }
 .social-media {
     display: flex;
@@ -23,8 +25,11 @@ div#footerdiv {
     justify-content: end;
     padding: 25px 0px 10px 0px;
 }
+.social-media .icons img {
+    width: 20px;
+}
 .footer-logo a img {
-    width: 190px;
+    width: 160px;
     height: auto;
 }
 .info-mail {
@@ -43,6 +48,7 @@ div#footerdiv {
     font-family: 'urbanist-regular';
     font-size: 12px;
     text-align: center;
+    margin-bottom: 10px !important;
 }
 .copyright p a{
     color: #65E4A1;
@@ -51,9 +57,36 @@ div#footerdiv {
 .copyright p a:hover{
     text-decoration: underline;
 }
-
+ul.ul-one {
+    padding-left: 0px;
+    min-height: 180px;
+    margin-bottom: 20px !important;
+}
+ul.ul-two {
+    padding-left: 0px;
+}
+.footer-row h1 {
+    font-family: 'urbanist-medium' !important;
+    font-size: 20px !important;
+    color: #FCFCFD !important;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
 .mobile-footer{
     display: none;
+}
+
+@media screen and (min-width: 1301px){
+    .footer.container {
+        width: 1280px;
+        padding: 0px 20px !important;
+    }
+}
+@media screen and (max-width: 1300px){
+    .footer.container {
+        width: 100%;
+        padding: 0px 50px !important;
+    }
 }
 @media screen and (max-width: 800px){
     div#footerdiv{

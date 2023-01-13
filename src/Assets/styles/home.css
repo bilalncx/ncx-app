@@ -7,6 +7,10 @@
     src: url(../fonts/Urbanist-Regular.ttf);
 }
 @font-face {
+    font-family: 'urbanist-light';
+    src: url(../fonts/Urbanist-Light.ttf);
+}
+@font-face {
     font-family: 'hauora-regular';
     src: url(../fonts/Hauora-Regular.ttf);
 }
@@ -625,6 +629,7 @@ video#ncx-main-video {
 }
 .bar12 img {
     max-width: 175px;
+    border-radius: 10px;
 }
 .stores img {
     max-width: 160px;
