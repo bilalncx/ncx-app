@@ -1,3 +1,4 @@
+/************************** Body Fonts family Starts from here *************************/
 @font-face {
     font-family: 'urbanist-medium';
     src: url(../fonts/Urbanist-Medium.ttf);
@@ -14,10 +15,18 @@
     font-family: 'hauora-regular';
     src: url(../fonts/Hauora-Regular.ttf);
 }
+@font-face {
+    font-family: 'urbanist-semibold';
+    src: url(../fonts/Urbanist-SemiBold.ttf);
+}
+/************************** Body Fonts family Ends from here *************************/
+
 .body-overflow {
     overflow: scroll !important;
     overflow-x: hidden !important;
 }
+
+/************************** Body Scroll Section Starts from here *************************/
 /* width */
 ::-webkit-scrollbar {
     width: 6px;
@@ -33,6 +42,7 @@
     background: #000;
     border-radius: 50px;  
 }
+/************************** Body Scroll Section Ends from here *************************/
 
 section.bg-dark {
     background: #000000 !important;
@@ -42,252 +52,14 @@ section.bg-dark {
     margin: 0 auto;
     padding: 0px;
 }
-#hero-video {
-    width: 100% !important;
-    max-width: 280px;
-}
-.asss, .bsss {
-    width: 50%;
-    padding: 0px;
-    text-align: left;
-}
-.asss {
-    padding-top: 50px;
-}
-.hero-section{
-    padding: 140px 0px 100px 0px;
-}
-.hero-section button {
-    display: none;
-}
-.bsss{
-    text-align: center;
-}
 h1, h2, h3, h4, h5, p{
     margin: 0px;
 }
-.asss h1 {
-    font-size: 43px;
-    line-height: 60px;
-    color: #FFFFFF;
-    font-family: 'urbanist-regular';
-    padding: 20px 100px 20px 0px;
-}
-.hashtag{
-    padding-bottom: 10px;
-}
-.hashtag span {
-    color: #FFFFFF;
-    font-size: 14px;
-    font-family: 'urbanist-regular';
-    background: #212121;
-    padding: 5px 10px;
-    border-radius: 50px;
-    display: inline-block;
-    width: fit-content !important;
-    margin-right: 10px;
-}
-.hero-section button.btn01 {
-    width: fit-content !important;
-    padding: 0px 20px;
-    margin-top: 30px;
-}
-.hero-section button.hero-btn{
-    border-radius: 2px !important;
-}
-.hero-section button.hero-btn svg{
-    margin-left: 5px !important;
-    margin-top: 3px !important;
-}
-.img001{
-    display: flex;
-    column-gap: 10px;
-    padding: 30px 0px 0px 0px;
-}
-.img001 img {
-    width: 100%;
-    max-width: 130px;
-    height: 42px;
-}
-.hero-section button.hero-btn.signin {
-    background: none !important;
-    border: 1.5px solid #65E4A1 !important;
-    box-shadow: 0px 0px 12px 8px rgb(101 228 161 / 40%) !important;
-    border-radius: 7px !important;
-    color: #FFFFFF !important;
-    color: #FFFFFF !important;
-    font-size: 16px !important;
-    font-family: 'urbanist-regular' !important;
-    width: 120px !important;
-    height: 38px !important;
-}
-.hero-section button.hero-btn.singup {
-    background: none !important;
-    border: 1.5px solid #2460FF !important;
-    box-shadow: 0px 0px 12px 8px rgba(36, 96, 255, 0.4) !important;
-    border-radius: 7px !important;
-    color: #FFFFFF !important;
-    font-size: 16px !important;
-    font-family: 'urbanist-regular' !important;
-    width: 120px !important;
-    height: 38px !important;
-}
 
-/* CEX and DEX Section */
-.cexdex .col{
-    width: 50% !important;
-    padding: 0px;
+/************************** HomePage Fourth Market & Exchange Section Starts from here *************************/
+div#market .container {
+    max-width: 1200px !important;
 }
-.cex {
-    padding-top: 0px;
-}
-.cexdex h1{
-    padding: 0px;
-    margin-bottom: 10px;
-    font-size: 43px;
-    line-height: 50px;
-}
-.animate__slideInUp.animate__animated {
-    animation-duration: 0.8s !important;
-}
-.dex p{
-    font-size: 16px;
-    line-height: 24px;
-    color: #FFFFFF;
-    font-family: 'hauora-regular';
-    text-align: justify;
-}
-.hero-section{
-    background: url(../images/home-bg-gr.png);
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-color: #000000 !important;
-}
-.row.container {
-    padding-bottom: 100px !important;
-}
-.second-container {
-    padding: 70px;
-    background: #000000;
-    max-width: 1300px !important;
-    margin: 0 auto;
-}
-.second-container .cex.asss h1 {
-    padding: 0px;
-    margin-bottom: 10px;
-    font-size: 43px;
-    line-height: 50px;
-}
-#csexdex{
-    display: none;
-}
-.videodiv {
-    width: fit-content;
-    margin: 0 auto;
-    position: relative;
-}
-img.sidebtn1 {
-    position: absolute;
-    top: 92px;
-    left: -3px;
-    display: block;
-    width: 4px;
-}
-.volumebtn {
-    position: absolute;
-    left: -3px;
-    top: 133px;
-    display: inline-grid;
-    gap: 10px;
-}
-img.sidebtn3 {
-    height: 68px;
-    position: absolute;
-    width: 4px;
-    transform: rotate(180deg);
-    top: 147px;
-}
-.volumebtn img.sidebtn2 {
-    width: 4px;
-    height: 44px;
-}
-.hero-section{
-    position: relative;
-    z-index: 1;
-}
-div#videosection{
-    position: relative;
-}
-video#hero-video {
-    border-radius: 45px;
-}
-.cexdex {
-    /* background: url(../images/bgg.png); */
-    padding: 100px 0px;
-    min-height: 600px;
-    position: relative;
-    z-index: 1;
-    /* background-repeat: no-repeat; */
-    /* background-size: 100% 100%; */
-    /* background-position: center center; */
-}
-.cexdex .container {
-    padding: 70px;
-    background: #000000;
-}
-.hh_col {
-    width: 25%;
-    padding: 0px 15px 0px 15px !important;
-    position: relative;
-    /* overflow: hidden; */
-}
-.line-div {
-    width: 1px;
-    height: 100%;
-    display: block;
-    position: absolute;
-    background: #515151;
-    left: 0px;
-}
-/* .hh_col:before {
-    content: '';
-    background: #515151;
-    width: 1px;
-    height: 200px;
-    display: block;
-    position: absolute;
-    left: 0px;
-} */
-.hh_col p {
-    font-family: 'hauora-regular';
-    color: #CCCCCC;
-    font-size: 16px;
-    text-align: left;
-    line-height: 20px;
-    padding-bottom: 20px;
-}
-.hh_col h1 {
-    font-size: 22px;
-    text-align: left;
-    line-height: 26px;
-    color: #FFFFFF;
-    font-family: 'urbanist-regular';
-    margin: 0px 0px 50px 0px;
-    min-height: 104px;
-}
-.hh_col h1 span {
-    display: block;
-}
-.hh_row {
-    padding-top: 120px;
-}
-.hh_icon {
-    text-align: left !important;
-}
-
-/* Market & Exchange Section  */
 .market-exchange {
     background: #FFFFFF;
     padding: 100px 0px;
@@ -299,419 +71,7 @@ video#hero-video {
     margin: 0px !important;
 }
 
-/* Advanced CEX and DEX Table Section */
-.dex-table {
-    background: #000000;
-    padding: 100px 0px;
-}
-.text-table h1 {
-    text-align: left;
-    color: #FFFFFF;
-    font-family: 'urbanist-regular';
-    font-size: 48px;
-    line-height: 68px;
-    margin-bottom: 20px;
-}
-.text-table p {
-    text-align: left;
-    color: #FFFFFF;
-    font-family: 'urbanist-regular';
-    font-size: 14px;
-    font-weight: 300 !important;
-}
-.whitearrow, .pinkarrow {
-    position: relative;
-}
-.whitearrow h3 {
-    color: #000000;
-    font-family: 'hauora-regular';
-    font-size: 12px;
-    transform: rotate(270deg);
-    background: #FFFFFF;
-    padding: 3px 5px 5px 5px;
-    border-radius: 3px;
-    min-width: 120px;
-    position: absolute;
-    left: -49px;
-    top: 50%;
-    display: none;
-}
-.pinkarrow h3 {
-    display: none;
-    color: #FFFFFF;
-    font-family: 'hauora-regular';
-    font-size: 12px;
-    transform: rotate(270deg);
-    background: #BB6BD9;
-    padding: 3px 5px 5px 5px;
-    border-radius: 3px;
-    min-width: 120px;
-    position: absolute;
-    left: -49px;
-    top: 45%;
-    text-align: center;
-}
-.pinkarrow{
-    text-align: end;
-    position: relative;
-    right: 10px;
-}
-.pinkarrow img{
-    width: 15%;
-    max-width: 380px !important;
-}
-.whitearrow svg, .pinkarrow svg {
-    position: relative;
-    left: 45px;
-}
-.row.body-text.second .tickbox, .row.body-text.second .optionalbox {
-    padding: 6px;
-}
-.tabledex .body {
-    display: flex;
-    margin: 0px;
-    width: 100%;
-}
-.tabledex .body .col.one {
-    padding: 0px;
-    width: 65px;
-    display: block;
-    max-width: 5% !important;
-}
-.tabledex .body .col.two {
-    width: 95% !important;
-    padding: 0px;
-    flex: inherit;
-    padding-right: 30px;
-}
-.row.head {
-    margin: 0px;
-    padding: 15px 30px 15px 62.5px;
-    position: relative;
-    margin-bottom: 30px;
-}
-.tabledex {
-    margin-top: 30px;
-}
-.row.head:before {
-    content: '';
-    background: #FFFFFF;
-    width: 100%;
-    height: 1px;
-    position: absolute;
-    display: block;
-    left: 0px;
-    bottom: 0px;
-}
-.row.head h2 {
-    color: #FFFFFF;
-    font-family: 'urbanist-medium';
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-}
-.txt-cl, .txt-blue {
-    width: 25%;
-}
-.txt-cl h3 span {
-    display: block;
-}
-.row.body-text {
-    margin: 0px;
-    display: flex;
-}
-.txt-cl h3, .txt-blue h3 {
-    font-size: 14px;
-    font-family: 'urbanist-regular';
-    color: #FFFFFF;
-    text-align: left;
-    padding: 8px 0px;
-}
-.txt-blue h3{
-    text-align: center; 
-}
-.tickbox, .optionalbox {
-    padding: 4.65px;
-    text-align: center;
-}
-.txt-blue {
-    position: relative;
-    z-index: 1;
-}
-.txt-blue:before {
-    content: '';
-    background: #141B2F;
-    display: block;
-    width: 70%;
-    height: 105%;
-    position: absolute;
-    z-index: -1;
-    right: 45px;
-    border-radius: 7px;
-    top: -2%;
-}
-.row.body-text.second {
-    margin-top: 20px;
-}
-.row.body-text.second .txt-blue:before {
-    background: #222222;
-    height: 104%;
-}
-.agreement-p {
-    margin-top: 20px;
-    padding-right: 45px;
-}
-.agreement-p p {
-    text-align: end;
-    color: #FFFFFF;
-    font-size: 11px;
-    font-family: 'urbanist-regular';
-    line-height: 18px;
-}
-.agreement-p p span a{
-    color: #65E4A1;
-}
-
-/* new generation crypto section */
-.new-generation {
-    background: #FFFFFF !important;
-    padding: 100px 0px 50px 0px !important;
-    min-height: 906px;
-}
-.new-generation .container{
-    position: relative;
-}
-video#ncx-main-video {
-    max-width: 800px;
-}
-.generate-video {
-    width: fit-content;
-    position: absolute;
-    right: 0px;
-    bottom: -110px;
-}
-.generate-video:before {
-    content: '';
-    background: #EFEFEF;
-    width: 1px;
-    height: 460px;
-    display: block;
-    position: absolute;
-    left: -70px;
-}
-.generate-div {
-    padding: 40px 50px;
-    background: #F6F6F7;
-    min-height: 600px;
-    width: 90%;
-}
-.generate-div h1 {
-    font-size: 48px;
-    line-height: 68px;
-    font-family: 'urbanist-medium';
-    text-align: left;
-    /* padding-right: 120px; */
-}
-.generate-div p {
-    font-size: 16px;
-    text-align: left;
-    line-height: 24px;
-    margin-top: 10px;
-    font-family: 'urbanist-medium';
-}
-.generate-div button.btn01 {
-    width: 100% !important;
-    text-align: center !important;
-    max-width: 150px;
-    margin: 0 auto;
-    margin-left: 0px !important;
-    display: flex !important;
-    margin-top: 40px;
-    border-radius: 2px !important;
-}
-.generate-div button.btn01 a {
-    color: #000000 !important;
-}
-.generate-div button.btn01 svg {
-    margin-left: 15px;
-}
-
-/* GradientBar */
-.gradient {
-    padding: 70px 0px 100px 0px;
-    background: #FFFFFF;
-}
-.gradientbar {
-    background: linear-gradient(90deg,#37ABFF,#ff78e5 50%,#00d85a);
-    /* transform: rotate(90deg); */
-    flex: none;
-    order: 0;
-    align-self: stretch;
-    flex-grow: 0;
-    height: 5px;
-    max-width: 1380px;
-    margin: 0 auto;
-}
-.row.gradient-text {
-    margin: 0px;
-}
-.gradient-text .col {
-    padding: 0px;
-    padding-right: 30px;
-    margin-top: 35px;
-}
-.gradient-text .col:last-child {
-    padding: 0px;
-    padding-right: 0px !important;
-}
-.gradient-text .col h1{
-    font-family: 'urbanist-medium';
-    font-size: 24px;
-    line-height: 32px;
-    text-align: left;
-    margin-bottom: 15px;
-}
-.gradient-text .col h3{
-    font-family: 'hauora-regular';
-    font-size: 14px;
-    text-align: left;
-    margin-bottom: 10px;
-}
-.gradient-text .col p{
-    font-family: 'hauora-regular';
-    font-size: 16px;
-    text-align: left;
-}
-.gradient-animation-one {
-    animation-duration: 0.8s !important;
-}
-.gradient-animation-two {
-    animation-duration: 2.0s !important;
-}
-.gradient-animation-three {
-    animation-duration: 3.2s !important;
-}
-.gradient-bar {
-    overflow: hidden;
-}
-
-/* Download App Section */
-.download {
-    background: #FFFFFF;
-    padding: 50px 0px 100px 0px;
-}
-.download .asss {
-    padding: 83px 0px 0px 70px;
-}
-.download .row {
-    margin: 0px !important;
-    position: relative;
-}
-.download .row:before {
-    background: #EEEEEE;
-    content: '';
-    width: 100%;
-    height: 300px;
-    position: absolute;
-    max-width: 1280px;
-    top: 60px;
-}
-.download .asss h1 {
-    color: #000000;
-    padding: 0px;
-    font-family: 'urbanist-medium' !important;
-    font-size: 34px;
-    line-height: 40px;
-}
-.bar11 {
-    display: flex;
-    padding: 30px 0px 0px 0px;
-}
-.bar12 img {
-    max-width: 175px;
-    border-radius: 10px;
-}
-.stores img {
-    max-width: 160px;
-    display: inherit !important;
-    margin: 15px 0px;
-}
-.stores {
-    padding-left: 50px;
-    display: flex;
-    align-items: center;
-
-}
-.download .bsss img {
-    max-width: 450px;
-    position: relative;
-    top: -10px;
-}
-.download .bsss {
-    text-align: center;
-    display: flex;
-    align-items: end;
-    justify-content: center;
-}
-.download p {
-    font-size: 14px;
-    font-family: 'urbanist-regular';
-    padding-right: 130px;
-}
-
-/* Home Blog */
-.home-blog .row {
-    width: 100%;
-    margin: 0 auto;
-    justify-content: space-between;
-}
-.home-blog .row.first, .home-blog .row.second {
-    border-bottom: 1px solid #333A3D;
-}
-.home-blog .col-xs-2 {
-    min-height: 160px;
-    padding: 0px;
-    width: 20%;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    border-right: 1px solid #333A3D;
-    text-align: center;
-}
-.home-blog .row .col-xs-2 img {
-    -webkit-filter: brightness(0) invert(1);
-    filter: brightness(0) invert(1);
-    height: auto;
-    margin: 0 auto;
-    width: 70%;
-}
-a#p3 img {
-    width: 100%;
-}
-#p12 img {
-    width: 50%;
-}
-#p14 img {
-    width: 30%;
-}
-#p5, #p10, #p15 {
-    border-right: none;
-}
-a#p15{
-    visibility: hidden;
-}
-.home-blog {
-    padding: 100px 0px;
-    background: url(../images/blog-banner.png);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-}
-.home-blog .col-xs-2:hover {
-    background: linear-gradient(88.47deg,#65E4A1 4.2%,#2460FF 94.88%);
-    cursor: pointer;
-}
-
-/* FAQ Section */
+/************************** HomePage FAQ Section Starts from here *************************/
 #faq.faq-sect .row {
     margin: 0px !important;
 }
@@ -740,7 +100,7 @@ a#p15{
     font-weight: 300 !important;
 }
 .faq-sect{
-    background: url(../images/copy-faq.jpg);
+    background: url(../images/ncx-faq-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -748,7 +108,7 @@ a#p15{
 }
 
 /* Blog Page Styling starts from here */
-.blog-header {
+/* .blog-header {
     background: url(../images/kick-scaled.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -818,4 +178,4 @@ a#p15{
 }
 .blog-page .blog {
     padding-bottom: 100px;
-}
+} */

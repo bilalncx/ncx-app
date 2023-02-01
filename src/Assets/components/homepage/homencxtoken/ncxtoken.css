@@ -1,0 +1,21 @@
+/************************** HomePage NCX Token Section Starts from here *************************/
+.ncxtoken .row{
+    margin: 0 auto !important;
+}
+.ncx-tokenlogo {
+    display: flex;
+    column-gap: 10px;
+}
+.ncx-tokenlogo p {
+    font-size: 31px;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    border-left: 1px solid #FFFFFF;
+}
+.tokenrow h2{
+    color: #FFFFFF;
+    font-size: 35px;
+    font-family: 'urbanist-medium';
+}

@@ -1,0 +1,96 @@
+/************************** HomePage Third CEX/DEX Section Starts from here *************************/
+#cex{
+    background: url(../../../images//ncx-cex-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+#cex .row{
+    margin: 0px !important;
+}
+.cexdex .col{
+    width: 50% !important;
+    padding: 0px;
+}
+.cex {
+    padding-top: 0px !important;
+    padding-left: 0px !important;
+    width: 50%;
+}
+.dex{
+    width: 50%;
+}
+.cexdex h1{
+    padding: 0px;
+    margin-bottom: 10px;
+    font-size: 43px;
+    line-height: 50px;
+}
+.animate__slideInUp.animate__animated {
+    animation-duration: 0.8s !important;
+}
+.dex p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    font-family: 'hauora-regular';
+    text-align: justify;
+}
+.row.container {
+    padding-bottom: 100px !important;
+}
+.second-container {
+    padding: 70px;
+    background: #000000;
+    max-width: 1300px !important;
+    margin: 0 auto;
+}
+.second-container .cex.asss h1 {
+    padding: 0px;
+    margin-bottom: 10px;
+    font-size: 43px;
+    line-height: 50px;
+}
+.hero-section{
+    position: relative;
+    z-index: 1;
+}
+.hh_col {
+    width: 25%;
+    padding: 0px 15px 0px 15px !important;
+    position: relative;
+}
+.line-div {
+    width: 1px;
+    height: 100%;
+    display: block;
+    position: absolute;
+    background: #515151;
+    left: 0px;
+}
+.hh_col p {
+    font-family: 'hauora-regular';
+    color: #CCCCCC;
+    font-size: 16px;
+    text-align: left;
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+.hh_col h1 {
+    font-size: 22px;
+    text-align: left;
+    line-height: 26px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    margin: 0px 0px 50px 0px;
+    min-height: 104px;
+}
+.hh_col h1 span {
+    display: block;
+}
+.hh_row {
+    padding-top: 120px;
+}
+.hh_icon {
+    text-align: left !important;
+}

@@ -1,0 +1,63 @@
+/************************** HomePage Seventh New Generation Section Starts from here *************************/
+.new-generation {
+    background: #FFFFFF !important;
+    padding: 100px 0px 50px 0px !important;
+    min-height: 906px;
+}
+.new-generation .container{
+    position: relative;
+}
+video#ncx-main-video {
+    max-width: 800px;
+}
+.generate-video {
+    width: fit-content;
+    position: absolute;
+    right: 0px;
+    bottom: -110px;
+}
+.generate-video:before {
+    content: '';
+    background: #EFEFEF;
+    width: 1px;
+    height: 460px;
+    display: block;
+    position: absolute;
+    left: -70px;
+}
+.generate-div {
+    padding: 40px 50px;
+    background: #F6F6F7;
+    min-height: 600px;
+    width: 90%;
+}
+.generate-div h1 {
+    font-size: 48px;
+    line-height: 68px;
+    font-family: 'urbanist-medium';
+    text-align: left;
+    /* padding-right: 120px; */
+}
+.generate-div p {
+    font-size: 16px;
+    text-align: left;
+    line-height: 24px;
+    margin-top: 10px;
+    font-family: 'urbanist-medium';
+}
+.generate-div button.btn01 {
+    width: 100% !important;
+    text-align: center !important;
+    max-width: 150px;
+    margin: 0 auto;
+    margin-left: 0px !important;
+    display: flex !important;
+    margin-top: 40px;
+    border-radius: 2px !important;
+}
+.generate-div button.btn01 a {
+    color: #000000 !important;
+}
+.generate-div button.btn01 svg {
+    margin-left: 15px;
+}

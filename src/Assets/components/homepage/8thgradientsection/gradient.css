@@ -1,0 +1,59 @@
+/************************** HomePage Eight Gradient Bar Section Section Starts from here *************************/
+/* GradientBar */
+.gradient {
+    padding: 70px 0px 100px 0px;
+    background: #FFFFFF;
+}
+.gradientbar {
+    background: linear-gradient(90deg,#37ABFF,#ff78e5 50%,#00d85a);
+    /* transform: rotate(90deg); */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    height: 5px;
+    max-width: 1380px;
+    margin: 0 auto;
+}
+.row.gradient-text {
+    margin: 0px;
+}
+.gradient-text .col {
+    padding: 0px;
+    padding-right: 30px;
+    margin-top: 35px;
+}
+.gradient-text .col:last-child {
+    padding: 0px;
+    padding-right: 0px !important;
+}
+.gradient-text .col h1{
+    font-family: 'urbanist-medium';
+    font-size: 24px;
+    line-height: 32px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.gradient-text .col h3{
+    font-family: 'hauora-regular';
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.gradient-text .col p{
+    font-family: 'hauora-regular';
+    font-size: 16px;
+    text-align: left;
+}
+.gradient-animation-one {
+    animation-duration: 0.8s !important;
+}
+.gradient-animation-two {
+    animation-duration: 2.0s !important;
+}
+.gradient-animation-three {
+    animation-duration: 3.2s !important;
+}
+.gradient-bar {
+    overflow: hidden;
+}

@@ -1,0 +1,202 @@
+.hometrade {
+    background: #F8F8F9;
+    padding: 70px 0px;
+}
+.hometrade .ncx-trenddiv path:nth-child(2) {
+    fill: #000000 !important;
+}
+.hometrade .ncx-trenddiv p {
+    color: #000000;
+    border-color: #000000;
+}
+.hometrade .row {
+    margin: 0px !important;
+    width: 100% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    /* padding-right: 100px; */
+}
+.hometrade .row .col:nth-child(1){
+    width: 30%;
+    flex: inherit;
+}
+.hometrade .row .col:nth-child(2){
+    width: 70%;
+    flex: inherit;
+    padding-right: 100px;
+}
+.hometrade .col:nth-child(2) h2 {
+    font-size: 35px;
+    text-align: end;
+    font-family: 'urbanist-medium';
+}
+.hometrade .col:nth-child(2) p {
+    font-size: 17px;
+    text-align: end;
+    font-family: 'urbanist-regular';
+    color: #65E4A1 !important;
+}
+.trade-content {
+    display: none;
+}
+.trade-content.active {
+    display: block;
+}
+div#trade-tabs-sect {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 80px 0px 40px 0px;
+}
+button.trade-tabs {
+    background: #161616;
+    margin-right: 6px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 14px;
+    padding: 8px 13px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    min-width: 77px;
+}
+button.trade-tabs.active{
+    color: #65E4A1;
+}
+.hometrade .content-tabs {
+    background: #F8F8F9;
+    box-shadow: 0px 0px 25px rgb(0 0 0 / 25%);
+    /* border-radius: 5px; */
+    padding: 40px 30px 30px 30px;
+}
+.conttrade-content {
+    display: none;
+}
+.conttrade-content.active {
+    display: block;
+}
+button.conttrade-tabs {
+    font-family: 'urbanist-regular';
+    font-size: 13px;
+    padding: 8px 10px;
+    border-radius: 10px;
+    line-height: 16px;
+    margin-right: 10px;
+    border: 1px solid #B4BEC2;
+    background: transparent !important;
+    min-width: 85px;
+}
+button.conttrade-tabs.active {
+    border: 1px solid #65E4A1;
+    background: #FFFFFF !important;
+}
+.innercontent-tabs {
+    padding: 30px 0px 0px 0px;
+}
+.currecny-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.currecnycol {
+    width: 47%;
+}
+.currecnycol-txt {
+    padding: 13px 15px;
+    border-bottom: 1px solid #B4BEC2;
+}
+.currecnycol-txt h1 {
+    font-size: 20px;
+    font-family: 'urbanist-medium';
+    font-weight: 500;
+    line-height: 22px;
+}
+.currecnycol-txt p {
+    font-size: 12px;
+    font-family: 'urbanist-medium';
+    font-weight: 500;
+    line-height: 14px;
+}
+.currecnycol:nth-child(1) .currecnycol-txt:last-child {
+    border: none !important;
+}
+#other-col .currecnycol:nth-child(2) .currecnycol-txt:last-child {
+    border: none;
+}
+#other-col .currecnycol, #forex-tradecol .currecnycol {
+    width: 30% !important;
+}
+#forex-tradecol .currecnycol:nth-child(2) .currecnycol-txt:last-child, #forex-tradecol .currecnycol:nth-child(3) .currecnycol-txt:last-child {
+    border: none;
+}
+#equity_stocktabs .currecnycol .currecnycol-txt:last-child {
+    border: none;
+}
+
+
+
+@media screen and (max-width: 800px){
+    .hometrade .row .col{
+        width: 100% !important;
+        padding: 0px !important;
+    }
+    .hometrade .row .col:nth-child(2){
+        margin-top: 20px;
+    }
+    .hometrade .col:nth-child(2) h2{
+        font-size: 26px;
+        line-height: 32px;
+        text-align: left;
+    }
+    .hometrade .col:nth-child(2) p{
+        text-align: left;
+        margin-top: 10px;
+    }
+    div#trade-tabs-sect{
+        padding: 40px 0px 20px 0px;
+    }
+    /* .buttons-tab {
+        display: flex;
+        justify-content: space-evenly;
+    } */
+    button.trade-tabs{
+        padding: 6px 8px;
+        font-size: 14px;
+        border-radius: 10px !important;
+        min-width: 80px !important;
+        margin-bottom: 5px !important;
+    }
+    .hometrade .content-tabs {
+        padding: 30px 15px 15px 15px;
+        margin-top: 10px !important;
+    }
+    .currecnycol-txt{
+        padding: 13px 10px !important;
+    }
+    button.conttrade-tabs {
+        min-width: 93px;
+        margin-bottom: 8px;
+        margin-right: 8px;
+    }
+    .innercontent-tabs {
+        padding: 10px 0px 0px 0px;
+    }
+    .currecnycol-txt h1 {
+        font-size: 16px !important;
+        font-weight: 600;
+    }
+    .currecnycol-txt p {
+        min-height: 28px;
+    }
+    #other-col .currecnycol, #forex-tradecol .currecnycol {
+        width: 50% !important;
+    }
+    #other-col .currecnycol .currecnycol-txt p, #forex-tradecol .currecnycol .currecnycol-txt p{
+        min-height: 42px;
+        font-size: 11px;
+    }
+    #equity-tabbtn button.conttrade-tabs {
+        min-width: 125px;
+    }
+    #equity_stocktabs .currecnycol-txt p {
+        min-height: 42px;
+    }
+}

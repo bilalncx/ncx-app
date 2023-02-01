@@ -1,0 +1,67 @@
+/************************** HomePage Download App Section Starts from here *************************/
+.download {
+    background: #FFFFFF;
+    padding: 50px 0px 100px 0px;
+}
+.download .asss {
+    padding: 83px 0px 0px 70px;
+}
+.download .row {
+    margin: 0px !important;
+    position: relative;
+}
+.download .row:before {
+    background: #EEEEEE;
+    content: '';
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    max-width: 1280px;
+    top: 60px;
+}
+.download .asss h1 {
+    color: #000000;
+    padding: 0px;
+    font-family: 'urbanist-medium' !important;
+    font-size: 34px;
+    line-height: 40px;
+}
+.bar11 {
+    display: flex;
+    padding: 30px 0px 0px 0px;
+}
+.bar12 img {
+    max-width: 175px;
+    border-radius: 10px;
+}
+.stores img {
+    max-width: 160px;
+    display: inherit !important;
+    margin: 15px 0px;
+}
+.stores {
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+
+}
+.download .bsss img {
+    max-width: 450px;
+    position: relative;
+    top: -10px;
+}
+.download .asss {
+    width: 50%;
+}
+.download .bsss {
+    text-align: center;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    width: 50%;
+}
+.download p {
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    padding-right: 130px;
+}
