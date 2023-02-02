@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import ReactSimplyCarousel from 'react-simply-carousel';
-import data from '../../../config/sliderdata';
+import data from '../../../../config/sliderdata';
 import {Animated} from "react-animated-css";
 import { Link } from 'react-router-dom';
 import './homepageblogslider.css';
-import Health from '../../images/health.png';
+import Health from '../../../images/health.png';
 
 
 function ReactSimplyCarouselExample() {

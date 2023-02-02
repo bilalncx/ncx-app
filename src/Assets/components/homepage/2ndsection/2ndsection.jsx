@@ -13,17 +13,20 @@ function Home2ndSection(){
                     <div className="row">
                         <div className="cex asss">
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>Hybrid CEX DEX all-in-one</h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>Cryptocurrency Exchange</h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                {/* <AnimationOnScroll animateIn="animate__slideInUp">
+                                    <h1>& Trading Platform</h1>
+                                </AnimationOnScroll> */}
+                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>& Trading Platform</h1>
                                 </AnimationOnScroll>
                             </div>
@@ -46,7 +49,7 @@ function Home2ndSection(){
                             </AnimationOnScroll>
                             <p>01</p>
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>Advanced CEX 
                                     <span>Spot Trading</span> 
                                     <span>Margin Trading</span>
@@ -65,7 +68,7 @@ function Home2ndSection(){
                             </AnimationOnScroll>
                             <p>02</p>
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>Multichain DEX 
                                         <span>on 5 Blockchains</span>
                                     </h1>
@@ -83,7 +86,7 @@ function Home2ndSection(){
                             </AnimationOnScroll>
                             <p>03</p>
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>500 Derivatives 
                                         <span>Trading Pairs</span></h1>
                                 </AnimationOnScroll>
@@ -100,7 +103,7 @@ function Home2ndSection(){
                             </AnimationOnScroll>
                             <p>04</p>
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__slideInUp">
+                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>DeFi Staking 
                                         <span>Yield Farming</span></h1>
                                 </AnimationOnScroll>

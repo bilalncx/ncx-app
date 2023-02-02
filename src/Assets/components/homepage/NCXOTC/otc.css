@@ -1,0 +1,69 @@
+.ncxotcsection {
+    padding: 100px 0px 120px 0px;
+}
+.ncx-otc {
+    display: flex;
+    column-gap: 10px;
+}
+.ncx-otc p {
+    font-size: 31px;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    border-left: 1px solid #FFFFFF;
+}
+.view-all a:hover{
+    background: #34A9FF;
+    color: #FFFFFF;
+}
+.view-all a:focus, .view-all a:focus-visible{
+    outline: none !important;
+    text-decoration: none;
+}
+.otclogo.row {
+    margin: 0px !important;
+}
+.otclogo.row .col:nth-child(1) {
+    display: flex;
+    align-items: center;
+}
+.OTCsect.row {
+    margin: 0px !important;
+    padding-top: 60px;
+}
+.otc-line {
+    background: #515151;
+    height: 271px;
+    transform: rotate(0deg);
+    width: 1px;
+}
+.otc-linediv {
+    width: 271px !important;
+    height: 1px !important;
+}
+.OTCsect.row .col {
+    min-height: 271px;
+}
+.txtimgsect {
+    padding: 20px 60px 0px 25px;
+}
+.otctxt h2 {
+    font-size: 27px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.otctxt p {
+    font-size: 16px;
+    font-family: 'urbanist-light';
+    color: #FFFFFF;
+    margin-bottom: 15px;
+    min-height: 155px;
+}
+.otc-image svg {
+    height: 32px;
+}
+.OTCsect.second.row {
+    padding-top: 100px;
+}

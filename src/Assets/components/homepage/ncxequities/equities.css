@@ -1,0 +1,149 @@
+.ncxequities{
+    padding: 100px 0px 150px 0px;
+    background-color: #FFFFFF;
+}
+.equitiesrow.row{
+    margin: 0 auto !important;
+}
+.ncx-equities {
+    display: flex;
+    column-gap: 10px;
+}
+.ncx-equities p {
+    font-size: 31px;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #000000;
+    font-family: 'urbanist-regular';
+    border-left: 1px solid #000000;
+}
+.equitiesrow h2{
+    color: #000000;
+    font-size: 35px;
+    font-family: 'urbanist-regular';
+    text-align: end;
+}
+.ncx-equities svg path:nth-child(2) {
+    fill: #000000;
+}
+p.equity-text {
+    font-size: 16px;
+    color: #000;
+    font-family: 'urbanist-regular';
+    margin-top: 10px;
+}
+.col.view-all {
+    text-align: end;
+}
+.view-all a {
+    border: 1px solid #34A9FF;
+    width: 134px;
+    height: 38px;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #34A9FF;
+    border-radius: 7px;
+    font-family: 'urbanist-regular';
+}
+.equitytable.row, .equitytable2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    margin: 0px !important;
+    column-gap: 50px;
+}
+.equitytable.row .col.green, .equitytable2 .col.empty {
+    width: 550px !important;
+    flex: inherit;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    padding: 0px !important
+}
+.equitytable.row .col.red, .equitytable2 .col.black {
+    width: 550px !important;
+    flex: inherit;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    padding: 0px !important;
+}
+.tableshadow.row {
+    margin: 0px !important;
+    border-bottom: 0.5px solid rgba(0,0,0, 0.15)
+}
+.tableshadow.row .col:nth-child(2){
+    justify-content: end;
+    align-items: center;
+}
+.tableshadow.row .col {
+    display: flex;
+    padding: 18px 20px;
+}
+.imgtxt h3, .nmbrtxt h3 {
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    line-height: 20px;
+}
+.imgtxt p, .nmbrtxt p {
+    font-size: 12px;
+    font-family: 'urbanist-medium';
+    color: rgba(0,0,0, 0.50);
+    line-height: 18px; 
+}
+.imgtxt{
+    padding-left: 13px;
+}
+.nmbrtxt h3, .nmbrtxt p{
+    text-align: end;
+}
+.col.green .nmbrtxt p{
+    color: #5FAB3D !important;
+}
+.col.red .nmbrtxt p{
+    color: #D65350 !important;
+}
+.col.green .tableshadow.row:first-child {
+    background: #EAF8EC;
+    border: none !important
+}
+.col.red .tableshadow.row:first-child {
+    background: #F5E5E6;
+    border: none !important;
+}
+.col.red .tableshadow.row:last-child, .col.green .tableshadow.row:last-child{
+    border: none !important;
+}
+.tableshadow.row svg {
+    width: 37px;
+    height: 37px;
+}
+.equitytable2 .col.empty{
+    padding: 40px 35px !important;
+}
+.emptyboxtxt p{
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    line-height: 20px;
+}
+.emptyboxtxt h2{
+    font-size: 44px;
+    font-family: 'urbanist-medium';
+    line-height: 58px;
+}
+.emptyboxtxt h2 span{
+    color: #34A9FF;
+}
+.equitytable2 .col.empty .view-all {
+    margin-top: 115px;
+}
+.equitytable2 .col.black .tableshadow.row:last-child {
+    border: none !important;
+}
+.equitytable2 .col.empty .view-all a:hover{
+    background: #34A9FF;
+    outline: none;
+    color: #FFFFFF;
+}
+.equitytable2 .col.empty .view-all a:focus, .equitytable2 .col.empty .view-all a:focus-visible{
+    outline: none !important;
+    text-decoration: none !important;
+}

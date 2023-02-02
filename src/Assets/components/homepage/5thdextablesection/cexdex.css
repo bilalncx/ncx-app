@@ -8,8 +8,8 @@
     color: #FFFFFF;
     font-family: 'urbanist-regular';
     font-size: 48px;
-    line-height: 68px;
-    margin-bottom: 20px;
+    line-height: 58px;
+    margin-bottom: 10px;
 }
 .text-table p {
     text-align: left;
@@ -64,13 +64,10 @@
     left: 45px;
 } */
 .row.body-text.second .tickbox, .row.body-text.second .optionalbox {
-    padding: 7.2px 6px;
+    padding: 9px 6px;
 }
 .row.body-text.second .txt-cl {
-    padding-top: 5px;
-}
-.row.body-text.second .txt-blue .tickbox:nth-child(4), .row.body-text.second .txt-blue .optionalbox:nth-child(4) {
-    padding-top: 12px;
+    padding-top: 2px;
 }
 .tabledex .body {
     display: flex;
@@ -123,23 +120,27 @@
 }
 .txt-cl h3 span {
     display: block;
+    font-size: 10px !important;
+    font-family: 'urbanist-light' !important;
+    line-height: 14px !important;
 }
 .row.body-text {
     margin: 0px;
     display: flex;
 }
 .txt-cl h3, .txt-blue h3 {
-    font-size: 14px;
+    font-size: 17px;
     font-family: 'urbanist-regular';
     color: #FFFFFF;
     text-align: left;
     padding: 9px 0px;
+    line-height: 21px;
 }
 .txt-blue h3{
     text-align: center; 
 }
 .tickbox, .optionalbox {
-    padding: 5px;
+    padding: 9px 0px;
     text-align: center;
 }
 .txt-blue {
@@ -150,11 +151,11 @@
     content: '';
     background: #141B2F;
     display: block;
-    width: 70%;
-    height: 105%;
+    width: 160px;
+    height: 102%;
     position: absolute;
     z-index: -1;
-    right: 45px;
+    right: 68px;
     border-radius: 7px;
     top: -2%;
 }
@@ -167,15 +168,21 @@
 }
 .agreement-p {
     margin-top: 20px;
-    padding-right: 45px;
+    padding-right: 65px;
 }
 .agreement-p p {
     text-align: end;
     color: #FFFFFF;
-    font-size: 11px;
+    font-size: 13px;
     font-family: 'urbanist-regular';
     line-height: 18px;
 }
 .agreement-p p span a{
     color: #65E4A1;
+}
+.row.body-text .txt-blue:nth-child(2):before{
+    background: #008AEF !important;
+}
+.row.body-text.second .txt-blue:nth-child(2):before{
+    background: #7650FF !important;
 }

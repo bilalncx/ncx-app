@@ -1,9 +1,6 @@
 import  React from "react";
 import '../styles/home.css';
 import '../styles/media-query.css'
-// import Button from "@mui/material/Button";
-// import appstore from '../images/app-store.png';
-// import Googleplay from '../images/google-app.png';
 import "animate.css/animate.min.css";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import AccordianPage from '../components/homepage/accordian/accordian';
@@ -16,10 +13,7 @@ import Marketpage from '../components/homepage/3rdmarketsection/market';
 import MyFooter from '../components/footer/footer';
 import MyHeader from '../components/header/header';
 import SplashPage from '../components/splash/splash';
-// import Sidebtn1 from '../images/rightbtn1.png';
-// import Sidebtn2 from '../images/rightbtn2.png';
-// import PinkArrow from '../images/pinkarrow.png'; 
-// import BlogSliderHomepage from '../components/homepageblogslider/homepageblogslider';
+// import BlogSliderHomepage from '../components/homepage/homepageblogslider/homepageblogslider';
 import {ReactComponent as NCXLogo} from '../images/NCX-logo.svg';
 import HomepageTrade from '../components/homepage/home-trade/trade';
 // import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
@@ -31,6 +25,10 @@ import Home8thGradientsection from '../components/homepage/8thgradientsection/gr
 import Home9thDownloadSection from '../components/homepage/9thdownloadsection/download';
 import NCXDebitCard from '../components/homepage/ncxdebitcardsection/ncxcard';
 import NCXEarn from '../components/homepage/EarnNCX/earnncx';
+import NCXEquities from '../components/homepage/ncxequities/equities';
+import NCXCardSlider from '../components/homepage/NCXCardsection/card';
+import NCXOTCSection from '../components/homepage/NCXOTC/otc';
+import NCXHomeTrends from '../components/homepage/ncxtrends/trends';
 
 
 function MainHome()
@@ -84,14 +82,20 @@ function MainHome()
                 <div className="container">
                 <div className="row">
                     <div className="col">
-                        <div className="ncx-trenddiv">
-                            <NCXLogo />
-                            <p>Trade</p>
-                        </div>
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <div className="ncx-trenddiv">
+                                <NCXLogo />
+                                <p>Trade</p>
+                            </div>
+                        </AnimationOnScroll>
                     </div>
                     <div className="col">
-                        <h2>Trade Futures with up to 100x Leverage</h2>
-                        <p>With Ultra Fast Execution and Deep Liquidity</p>
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <h2>Trade Futures with up to 100x Leverage</h2>
+                        </AnimationOnScroll>
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <p>With Ultra Fast Execution and Deep Liquidity</p>
+                        </AnimationOnScroll>
                     </div>
                 </div>
                 <HomepageTrade />
@@ -123,7 +127,11 @@ function MainHome()
                 </div>
             </div> */}
 
-            <Home9thDownloadSection />
+            {/* <HomeNCXToken /> */}
+            
+            <NCXCardSlider />
+
+            <NCXDebitCard />
 
             <div id="footer-faq">
                 <div id="faq" className="faq-sect">
@@ -144,10 +152,14 @@ function MainHome()
                     </div>
                 </div>
             </div>
+            
+            <NCXEquities />
 
-            {/* <HomeNCXToken /> */}
+            <Home9thDownloadSection />
 
-            <NCXDebitCard />
+            <NCXOTCSection />
+
+            <NCXHomeTrends />
             
             <MyFooter />
 
