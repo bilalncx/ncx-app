@@ -5,9 +5,17 @@
 .hometrade .ncx-trenddiv path:nth-child(2) {
     fill: #000000 !important;
 }
-.hometrade .ncx-trenddiv p {
+.ncx-trenddiv{
+    display: flex;
+    column-gap: 10px;
+}
+.ncx-trenddiv p {
+    font-size: 31px;
+    line-height: 30px;
+    padding-left: 10px;
     color: #000000;
-    border-color: #000000;
+    font-family: 'urbanist-regular';
+    border-left: 1px solid #000;
 }
 .hometrade .row {
     margin: 0px !important;

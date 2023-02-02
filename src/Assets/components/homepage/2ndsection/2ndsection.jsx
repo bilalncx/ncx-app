@@ -30,10 +30,12 @@ function Home2ndSection(){
                         </div>
                         <div className="dex">
                             <AnimationOnScroll animateIn="animate__fadeIn">
-                                <p>NCX is a next generation Hybrid Cryptocurrency Exchange and Trading Platform combining 
-                                    Decentralised Finance with the ease of use & advantages of a traditional Cryptocurrency 
-                                    Exchange in a single advanced all-in-one  platform and scalable ecosystem, providing an 
-                                    ultimate Cryptocurrency Exchange and Trading Platform. </p>
+                                <p>NCX is a next generation Hybrid Cryptocurrency Exchange combining Decentralised Finance 
+                                    with the ease of use & advantages of a traditional Cryptocurrency Exchange in a single 
+                                    advanced all-in-one  platform and scalable ecosystem, providing an ultimate Cryptocurrency 
+                                    Exchange for Web3. Having the main benefits of CEX such as fiat deposits/withdrawals, advanced 
+                                    spot trading with multiple order types, high trading volume and liquidity, fiat-cryptocurrency 
+                                    trading and vice versa, advanced security and 24/7 live support. </p>
                             </AnimationOnScroll>
                         </div>
                     </div>
@@ -45,9 +47,9 @@ function Home2ndSection(){
                             <p>01</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>CEX 
-                                    <span>Fiat/Crypto Trading</span> 
-                                    <span>spot Trading</span>
+                                    <h1>Advanced CEX 
+                                    <span>Spot Trading</span> 
+                                    <span>Margin Trading</span>
                                     </h1>
                                 </AnimationOnScroll>
                             </div>
@@ -64,10 +66,9 @@ function Home2ndSection(){
                             <p>02</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>Margin Trading 
-                                        <span>Crypto CFD, Forex,</span>
-                                        <span>Stock Market, ETFs, </span>
-                                        <span>Indexes, Metals Trading</span></h1>
+                                    <h1>Multichain DEX 
+                                        <span>on 5 Blockchains</span>
+                                    </h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="hh_icon">
@@ -83,10 +84,8 @@ function Home2ndSection(){
                             <p>03</p>
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
-                                    <h1>Multichain DEX on 
-                                        <span>Binance Smart Chain</span> 
-                                        <span>Ethereum, Polygon</span> 
-                                        <span>Avalanche & Solana</span></h1>
+                                    <h1>500 Derivatives 
+                                        <span>Trading Pairs</span></h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="hh_icon">
@@ -103,8 +102,7 @@ function Home2ndSection(){
                             <div className="animtation">
                                 <AnimationOnScroll animateIn="animate__slideInUp">
                                     <h1>DeFi Staking 
-                                        <span>Yield Farming</span>
-                                        <span>Liquidity Pools</span></h1>
+                                        <span>Yield Farming</span></h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="hh_icon">

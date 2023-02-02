@@ -1,7 +1,7 @@
-import  { React, useState } from "react";
+import  React from "react";
 import '../styles/home.css';
 import '../styles/media-query.css'
-import Button from "@mui/material/Button";
+// import Button from "@mui/material/Button";
 // import appstore from '../images/app-store.png';
 // import Googleplay from '../images/google-app.png';
 import "animate.css/animate.min.css";
@@ -22,22 +22,24 @@ import SplashPage from '../components/splash/splash';
 // import BlogSliderHomepage from '../components/homepageblogslider/homepageblogslider';
 import {ReactComponent as NCXLogo} from '../images/NCX-logo.svg';
 import HomepageTrade from '../components/homepage/home-trade/trade';
-import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
+// import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
 import HomeCEXDEXTableSection from '../components/homepage/5thdextablesection/cexdex';
 import HomeFirstSection from '../components/homepage/1stsection/firstsection';
 import Home2ndSection from '../components/homepage/2ndsection/2ndsection';
 import Home6thVideoSection from '../components/homepage/6thvideosection/newgeneration';
 import Home8thGradientsection from '../components/homepage/8thgradientsection/gradient';
 import Home9thDownloadSection from '../components/homepage/9thdownloadsection/download';
+import NCXDebitCard from '../components/homepage/ncxdebitcardsection/ncxcard';
+import NCXEarn from '../components/homepage/EarnNCX/earnncx';
 
 
 function MainHome()
 {
-    const [toggleState, setToggleState] = useState(1);
+    // const [toggleState, setToggleState] = useState(1);
 
-    const toggleTab = (index) => {
-        setToggleState(index);
-    };
+    // const toggleTab = (index) => {
+    //     setToggleState(index);
+    // };
     return(
           <section className="bg-dark">
             <SplashPage />
@@ -75,6 +77,8 @@ function MainHome()
             <HomeCEXDEXTableSection />
             
             <Home6thVideoSection />
+
+            <NCXEarn />
 
             <div className="hometrade">
                 <div className="container">
@@ -141,7 +145,9 @@ function MainHome()
                 </div>
             </div>
 
-            <HomeNCXToken />
+            {/* <HomeNCXToken /> */}
+
+            <NCXDebitCard />
             
             <MyFooter />
 

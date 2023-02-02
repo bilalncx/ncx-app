@@ -1,63 +1,91 @@
 /************************** HomePage Seventh New Generation Section Starts from here *************************/
 .new-generation {
     background: #FFFFFF !important;
-    padding: 100px 0px 50px 0px !important;
-    min-height: 906px;
-}
-.new-generation .container{
-    position: relative;
+    padding: 100px 0px;
 }
 video#ncx-main-video {
-    max-width: 800px;
-}
-.generate-video {
-    width: fit-content;
-    position: absolute;
-    right: 0px;
-    bottom: -110px;
-}
-.generate-video:before {
-    content: '';
-    background: #EFEFEF;
-    width: 1px;
-    height: 460px;
-    display: block;
-    position: absolute;
-    left: -70px;
+    max-width: 100%;
+    object-fit: cover;
+    height: 100%;
 }
 .generate-div {
-    padding: 40px 50px;
-    background: #F6F6F7;
-    min-height: 600px;
-    width: 90%;
+    width: 48%;
 }
-.generate-div h1 {
-    font-size: 48px;
-    line-height: 68px;
+.generate-video{
+    width: 52%;
+}
+.new-generation .container {
+    display: flex;
+}
+.generate-div h1{
+    font-size: 38px;
+    line-height: 46px;
     font-family: 'urbanist-medium';
-    text-align: left;
-    /* padding-right: 120px; */
 }
-.generate-div p {
+.generate-div p{
     font-size: 16px;
-    text-align: left;
-    line-height: 24px;
-    margin-top: 10px;
+    line-height: 22px;
+    width: 60%;
+    margin-top: 15px;
+}
+.taskdiv {
+    background: #F7F9FE;
+    border-radius: 2px;
+    width: 240px;
+    height: 245px;
+    padding: 25px 20px;
+    display: grid;
+    gap: 65px;
+    margin-right: 20px;
+}
+.taskdiv h3 {
+    color: #40475A;
+    font-size: 42px;
+}
+.taskdiv h3 span {
+    font-size: 16px;
+}
+.buttoninfo a {
+    background: #925BCA;
+    color: #FFF;
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    border-radius: 50px;
+    text-transform: capitalize;
+    width: 115px;
+    height: 40px;
+}
+.buttoninfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.buttoninfo svg{
+    padding-bottom: 3px;
+    width: 18px;
+    height: 18px;
+}
+.text212 h4 {
+    font-size: 18px;
     font-family: 'urbanist-medium';
 }
-.generate-div button.btn01 {
-    width: 100% !important;
-    text-align: center !important;
-    max-width: 150px;
-    margin: 0 auto;
-    margin-left: 0px !important;
-    display: flex !important;
-    margin-top: 40px;
-    border-radius: 2px !important;
+.text212 {
+    padding-bottom: 10px;
 }
-.generate-div button.btn01 a {
-    color: #000000 !important;
+.text212 p {
+    width: 100%;
+    margin-top: 5px;
+    font-size: 13px;
+    color: #565672;
 }
-.generate-div button.btn01 svg {
-    margin-left: 15px;
+h2.secondtask{
+    margin-bottom: 20px;
+}
+.ncxtask.row {
+    margin: 0px !important;
+    display: flex;
+    margin-top: 50px !important;
+}
+.taskdiv.one{
+    gap: 55px;
 }

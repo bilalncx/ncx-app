@@ -1,0 +1,48 @@
+.ncxcard {
+    background: #F8F8F9;
+    padding: 100px 0px;
+}
+.card-row.row {
+    margin: 0px !important;
+}
+.card-row.row .col{
+    width: 50%;
+}
+.card-row.row .col:nth-child(1) {
+    padding-top: 80px;
+}
+.cardmobileimg img {
+    max-width: 600px;
+}
+.card-row h3 {
+    font-size: 38px;
+    font-family: 'urbanist-semibold';
+    line-height: 45px;
+}
+.card-row h3 span{
+    -webkit-text-stroke: 1px black;
+    color: #FFFFFF;
+}
+.card-row p {
+    width: 60%;
+    font-size: 20px;
+    line-height: 28px;
+    padding-top: 10px;
+}
+.cryptopay {
+    padding-top: 15px;
+}
+.cryptopay svg {
+    margin-right: 30px;
+    max-width: 90px;
+}
+a.card-view-all{
+    width: 145px;
+    height: 40px;
+    border-radius: 7px;
+    border: 1.5px solid #34A9FF;
+    color: #34A9FF;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 15px;
+}
