@@ -99,9 +99,35 @@ ul.navlink {
     display: flex;
     margin-bottom: 0px;
     align-items: center;
+    padding-left: 15px;
 }
 ul.navlink li {
     list-style-type: none;
+}
+
+/* ************************************************************************** */
+.headermore_row{
+    display: flex;
+    align-items: center;
+    padding: 20px 0px 20px 15px;;
+}
+.header-more svg {
+    width: 20px !important;
+    height: 20px !important;
+}
+.header-more svg path{
+    fill: #FFFFFF;
+}
+.headermore_row:hover{
+    cursor: pointer;
+}
+.headermore_row:hover .mega_menu{
+    opacity: 1;
+    display: flex;
+    transition: .3s;
+}
+.mega_menu a:hover{
+    text-decoration: none !important;
 }
 /* header {
     position: fixed !important;

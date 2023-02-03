@@ -18,10 +18,12 @@ function MyFooter()
                             <li><a href="">Buy Crypto</a></li>
                             <li><a href="#">Spot Trading</a></li>
                             <li><a href="#">Markets</a></li>
+                            <li><a href="#">NCX Card</a></li>
+                            <li><a href="#">NCX Token</a></li>
                         </ul>
                         <h1>Derivatives Trading</h1>
                         <ul className="ul-two">
-                            <li><a href="#">Crypto Futures Trading</a></li>
+                            <li><a href="#">Crypto Derivatives</a></li>
                             <li><a href="#">Equities Trading</a></li>
                             <li><a href="#">EFTs Trading</a></li>
                             <li><a href="#">Forex Trading</a></li>
@@ -41,8 +43,8 @@ function MyFooter()
                         <h1>About</h1>
                         <ul className="ul-two">
                             <li><a href="#">About Us</a></li>
-                            <li><a href="#">NCX Trends</a></li>
                             <li><a href="#">Media & Press</a></li>
+                            <li><a href="#">NCX Trends</a></li>
                             <li><a href="#">FAQ</a></li>
                             <li><a href="#">Referral Program</a></li>
                             <li><a href="#">Claim Sign Up Bonus Airdrop</a></li>
@@ -61,8 +63,6 @@ function MyFooter()
                         <ul className="ul-two">
                             <li><a href="#">NCX App on App Store</a></li>
                             <li><a href="#">NC App on Google Play Store</a></li>
-                            <li><a href="#">NCX Trade on App Store</a></li>
-                            <li><a href="#">NCX Trade on Google Play Store</a></li>
                         </ul>
                     </div>
                     <div class="fourth-column">
@@ -83,8 +83,8 @@ function MyFooter()
                 </div>
                 <div class="copyright">
                     <p>By using any services provided by NCX Platform you agree with NCX Digital Exchange L.L.C. <a href="https://ncx.cx/user-agreement">User Agreement</a>, <a href="https://ncx.cx/kyc-aml-policy">AML & KYC Policy</a> and <a href="https://ncx.cx/privacy-policy">Privacy Policy</a></p>
-                    <p>NCX does not offer Services to residents of USA, Afghanistan, American Samoa, the Bahamas, Botswana, Democratic People's Republic of Korea, Ethiopia,  Ghana, Guam, Iran, Iraq, Libya, Panama, Puerto Rico, Samoa, Saudi Arabia, Sri Lanka, Syria, Trinidad and Tobago, Tunisia, US Virgin Islands, Yemen. NCX Digital Exchange L.L.C., Company Reg. Number - 2477 LLC 2022, Registered Office Address - Suite 305, Griffith Corporate Centre, Beachmont, Kingstown, St. Vincent and the Grenadines</p>
-                    <p>NCX Digital Exchange L.L.C. © 2022-2023 All rights reserved.</p>
+                    <p>NCX does not offer Services to residents of USA, Afghanistan, American Samoa, the Bahamas, Botswana, Democratic People's Republic of Korea, Ethiopia, Ghana, Guam, Iran, Iraq, Libya, Panama, Puerto Rico, Samoa, Saudi Arabia, Sri Lanka, Syria, Trinidad and Tobago, Tunisia, US Virgin Islands, Yemen</p>
+                    <p>NCX Digital Exchange L.L.C., Company Reg. Number - 2477 LLC 2022 © 2022-2023 All rights reserved.</p>
                 </div>
             </div>
             <div className="mobile-footer">

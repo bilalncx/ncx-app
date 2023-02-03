@@ -16,7 +16,7 @@ import SplashPage from '../components/splash/splash';
 // import BlogSliderHomepage from '../components/homepage/homepageblogslider/homepageblogslider';
 import {ReactComponent as NCXLogo} from '../images/NCX-logo.svg';
 import HomepageTrade from '../components/homepage/home-trade/trade';
-// import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
+import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
 import HomeCEXDEXTableSection from '../components/homepage/5thdextablesection/cexdex';
 import HomeFirstSection from '../components/homepage/1stsection/firstsection';
 import Home2ndSection from '../components/homepage/2ndsection/2ndsection';
@@ -52,16 +52,24 @@ function MainHome()
                 <div className="container">
                     <div className="row marketimg">
                         <div className="col">
-                            <img src={Market1} alt="NCX" />
+                            <AnimationOnScroll animateIn="animate__fadeIn">
+                                <img src={Market2} alt="NCX" />
+                            </AnimationOnScroll>
                         </div>
                         <div className="col">
-                            <img src={Market2} alt="NCX" />
+                            <AnimationOnScroll animateIn="animate__fadeIn">
+                                <img src={Market3} alt="NCX" />
+                            </AnimationOnScroll>
                         </div>
                         <div className="col">
-                            <img src={Market3} alt="NCX" />
+                            <AnimationOnScroll animateIn="animate__fadeIn">
+                                <img src={Market1} alt="NCX" />
+                            </AnimationOnScroll>
                         </div>
                         <div className="col">
-                            <img src={Market4} alt="NCX" />
+                            <AnimationOnScroll animateIn="animate__fadeIn">
+                                <img src={Market4} alt="NCX" />
+                            </AnimationOnScroll>
                         </div>
                     </div>
                     <Marketpage />
@@ -126,8 +134,6 @@ function MainHome()
                     </div>
                 </div>
             </div> */}
-
-            {/* <HomeNCXToken /> */}
             
             <NCXCardSlider />
 
@@ -152,6 +158,8 @@ function MainHome()
                     </div>
                 </div>
             </div>
+
+            <HomeNCXToken />
             
             <NCXEquities />
 

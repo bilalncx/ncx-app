@@ -1,7 +1,7 @@
 const carddata = [
     {
       id: 1,
-      img: 'https://ncx.cx/ncx-whitecard.png',
+      img: 'https://ncx.cx/images/ncx-whitecard.png',
       title: <h1>NCX <span>Select</span></h1>,
       point1: <p>Monthly Limit<span>$10,000</span></p>,
       point2: <p>ATM Withdrawals<span>$2,500 Monthly</span></p>,
@@ -16,7 +16,7 @@ const carddata = [
     },
     {
         id: 2,
-        img: 'https://ncx.cx/ncx-platniumcard.png',
+        img: 'https://ncx.cx/images/ncx-platniumcard.png',
         title: <div><h1>NCX <span>Platinum</span></h1></div>,
         point1: <p>Monthly Limit<span>$25,000</span></p>,
         point2: <p>ATM Withdrawals<span>$5,000 Monthly</span></p>,
@@ -31,7 +31,7 @@ const carddata = [
       },
       {
         id: 3,
-        img: 'https://ncx.cx/ncx-whitegoldcard.png',
+        img: 'https://ncx.cx/images/ncx-whitegoldcard.png',
         title: <div><h1>NCX <span>Gold</span></h1></div>,
         point1: <p>Monthly Limit<span>$50,000</span></p>,
         point2: <p>ATM Withdrawals<span>$10,000 Monthly</span></p>,
@@ -47,7 +47,7 @@ const carddata = [
       },
       {
         id: 4,
-        img: 'https://ncx.cx/ncx-blackcard.png',
+        img: 'https://ncx.cx/images/ncx-blackcard.png',
         title: <div><h1>NCX <span>Black</span></h1></div>,
         point1: <p>Monthly Limit<span>$100,000</span></p>,
         point2: <p>ATM Withdrawals<span>$15,000 Monthly</span></p>,

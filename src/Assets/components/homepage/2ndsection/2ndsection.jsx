@@ -27,7 +27,7 @@ function Home2ndSection(){
                                     <h1>& Trading Platform</h1>
                                 </AnimationOnScroll> */}
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h1>& Trading Platform</h1>
+                                    <h1>for Web3.</h1>
                                 </AnimationOnScroll>
                             </div>
                         </div>

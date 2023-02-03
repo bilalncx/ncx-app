@@ -1,3 +1,6 @@
+.ncxtoken {
+    padding: 100px 0px;
+}
 .ncxtoken .row{
     margin: 0 auto !important;
 }
@@ -19,15 +22,109 @@
     font-family: 'urbanist-regular';
     text-align: end;
 }
-.tokentable tr {
-    border: none !important;
-    display: inherit !important;
-    padding: 0px !important
+.tokentable{
+    padding: 50px 5px;
 }
-.tokentable tr th {
-    border: medium;
+.tokenhead{
+    display: flex;
+}
+.tokenhead p {
+    font-size: 14px;
+    line-height: 20px;
     color: #FFFFFF;
-    font-family: 'urbanist-regular' !important;
-    font-size: 15px;
-    font-weight: 500;
+    font-family: 'urbanist-regular';
+    border-bottom: 1px solid #FFFFFF;
+    margin-right: 10px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 10px;
+    /* width: 145px; */
+    width: 11%;
+    margin-bottom: 10px;
+}
+.tokenhead p:last-child{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.tokenhead p:first-child{
+    margin-left: 0px !important;
+    /* width: 155px !important; */
+}
+.tokencolum {
+    display: flex;
+}
+.color {
+    background: #1F1F1F;
+    padding: 9px 10px;
+    /* width: 140px; */
+    display: flex;
+    column-gap: 8px;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.color div {
+    width: 23px;
+    height: 23px;
+    border-radius: 50%;
+}
+.color-one{
+    background: #3167F7;
+}
+.color-two{
+    background: #5F5DC0;
+}
+.color-three{
+    background: #89508A;
+}
+.color-four{
+    background: #9F4972;
+}
+.color-five{
+    background: #B5445D;
+}
+.color-six{
+    background: #CC3C3F;
+}
+.color-seven{
+    background: #E4361F;
+}
+.color-eight{
+    background: #FA3005;
+}
+.colone p {
+    color: #FFFFFF;
+    font-family: 'urbanist-medium';
+    font-size: 16px;
+    line-height: 24px;
+}
+.colone, .coltwo, .colthree, .colfour, .colfive, .colsix, .colseven, .coleight, .colnine{
+    width: 12% !important;
+}
+.coltwo p, .colthree p, .colfour p, .colfive p, .colsix p , .colseven p, .coleight p, .colnine p{
+    background: #1f1f1f;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'urbanist-medium';
+    /* width: 140px; */
+    height: 42px;
+    margin-bottom: 5px;
+    padding: 0px 15px;
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+.colfour p:nth-child(1), .colsix p:nth-child(1), .colsix p:nth-child(2), .colsix p:nth-child(3), .colseven p:nth-child(1),
+.colseven p:nth-child(2), .colseven p:nth-child(3), .colseven p:nth-child(4), .coleight p:nth-child(1), .coleight p:nth-child(2),
+.coleight p:nth-child(3), .coleight p:nth-child(4), .coleight p:nth-child(5) {
+    background: #303030;
+}
+.colfive p:first-child {
+    height: 89px;
+    background: #303030 !important;
+}
+.colnine p {
+    height: 89px;
+    margin-right: 0px !important;
+    /* width: 130px !important; */
 }

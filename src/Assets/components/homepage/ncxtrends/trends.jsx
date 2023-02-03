@@ -3,13 +3,18 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import './trends.css';
 import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
 import Button  from "@mui/material/Button";
-import TrendingCard from './card';
+import Card from './card';
+import TrendingCard from './data';
+import Buttons from './buttons';
 
-function NCXHomePageTrendsSection()
-{
-    const [toggleState, setToggleState] = useState(1);
-    const toggleTab = (index) => {
-        setToggleState(index);
+function NCXHomePageTrendsSection(){
+    const [item, setItem] = useState(TrendingCard);
+    const menuItems = [...new Set(TrendingCard.map((Val) => Val.category))];
+    const filterItem = (curcat) => {
+        const newItem = TrendingCard.filter((newVal) => {
+            return newVal.category === curcat;
+            });
+        setItem(newItem);
     };
     return(
         <div className="homencxtrends">
@@ -33,65 +38,15 @@ function NCXHomePageTrendsSection()
                     </div>
                 </div>
 
-                <div className="blogcard">
-                    <div className="blog-tabs">
-                        <button
-                            className={toggleState === 1 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(1)}
-                        >
-                        News
-                        </button>
-                        <button
-                            className={toggleState === 2 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(2)}
-                        >
-                        Press Mentions
-                        </button>
-                        <button
-                            className={toggleState === 3 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(3)}
-                        >
-                        Crypto
-                        </button>
-                        <button
-                            className={toggleState === 4 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(4)}
-                        >
-                        Markets
-                        </button>
-                        <button
-                            className={toggleState === 5 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(5)}
-                        >
-                        Trens
-                        </button>
-                        <button
-                            className={toggleState === 6 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(6)}
-                        >
-                        NCX
-                        </button>
-                        <button
-                            className={toggleState === 7 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(7)}
-                        >
-                        Bitcoin
-                        </button>
-                        <button
-                            className={toggleState === 8 ? "trens-tabs active" : "trens-tabs"}
-                            onClick={() => toggleTab(8)}
-                        >
-                        Ethereum
-                        </button>
-                    </div>
-                    <div className="content-tabs">
-                        <div className={toggleState === 1 ? "trade-content  active" : "trade-content"}>
-                            <TrendingCard />
-                        </div>
-                        <div className={toggleState === 2 ? "trade-content  active" : "trade-content"}>
-
-                        </div>
-                    </div>
+                <div className="buttons-tabs">
+                    <Buttons
+                        filterItem={filterItem}
+                        setItem={setItem}
+                        menuItems={menuItems}
+                    />
+                </div>
+                <div className="cardtrend">
+                    <Card item={item} />
                 </div>
             </div>
         </div>

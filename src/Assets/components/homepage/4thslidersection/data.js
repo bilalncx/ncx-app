@@ -1,7 +1,7 @@
 const people = [
     {
         id:1,
-        image: "https://ncx.cx/ncx-slide1.png",
+        image: "https://ncx.cx/images/ncx-slide1.png",
         name: "Cutting-Edge Trading Tools",
         tag1: "Over 500 Trading Pairs",
         tag2: "Spot Trading",
@@ -23,7 +23,7 @@ const people = [
     },
     {
         id:2,
-        image: "https://ncx.cx/ncx-slide2.png",
+        image: "https://ncx.cx/images/ncx-slide2.png",
         name: "Swap, Stake, Farm Yield on NCX Multichain DEX",
         tag1: "Multichain Swap",
         tag2: "DeFi Staking",
@@ -41,7 +41,7 @@ const people = [
     },
     {
         id:3,
-        image: "https://ncx.cx/ncx-slide3.png",
+        image: "https://ncx.cx/images/ncx-slide3.png",
         name: "Peace of mind with Advanced Security & 24/7 Support",
         tag1: "2FA Authentication",
         tag2: "Anti Phishing",

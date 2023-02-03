@@ -7,6 +7,7 @@ import Button from "@mui/material/Button";
 import IconButton from "@mui/material/IconButton";
 import Logo from './NCX-logo.svg';
 import './header.css';
+import { ReactComponent as NCXMore } from '../../images/ncx-header-more.svg';
   
 export default function Header() {   
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
@@ -26,6 +27,54 @@ export default function Header() {
               >
               <a href="https://ncx.cx"><img src={Logo} alt="NCX-Logo" /></a>
               </IconButton>
+              <div className="headermore_row">
+                <a className="header-more" href="#"><NCXMore /></a>
+                <div id="new-headermenu" className="mega_menu"> 
+                    <div className="col1">
+                      <div className="top_heading connect_link_title"> 
+                        <h4> Community </h4> 
+                        <h4> Social </h4> 
+                      </div>
+                      <div className="menu_box">
+                        <div className="col">
+                          <div className="main_service_wrapper">
+                            <div className="community_inner">
+                              <div className="main_service">
+                                <a href="./blog">Press & News 
+                                  <p> Discover the latest NCX news and industry related articles</p> 
+                                </a>
+                              </div>
+                            </div>
+                            <div className="social_links">
+                              {/* <div className="social_link_inner"> 
+                                <a href="#" target="_blank" rel="noreferrer">Telegram</a> 
+                              </div> */}
+                              <div className="social_link_inner"> 
+                                <a href="https://twitter.com/ncx_cx" target="_blank" rel="noreferrer">Twitter</a> 
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="col2">
+                      <div className="right_inner">
+                        <h4> Support </h4>
+                        <div className="connect_links">
+                          <div className="box">
+                            <a href="#">Contact
+                              <p>Sign in to open a Support Ticket</p>
+                              <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M12 4.49399L7.07931 9.00006L6.89362 8.81787L11.6154 4.49399L6.89362 0.1701L7.07931 5.96875e-05L12 4.49399Z" fill="#141414"></path> 
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M0 4.31366H11.7447V4.57085H0V4.31366Z" fill="#141414"></path> 
+                              </svg>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+              </div>
               <ul className="navlink">
                 <li className="main_title white_bg">
                   <a href="#">Buy Crypto</a>
@@ -41,6 +90,9 @@ export default function Header() {
                 </li>
                 <li className="main_title white_bg">
                   <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
+                </li>
+                <li className="main_title white_bg">
+                  <a href="#" target="_blank" rel="noreferrer">NCX Card</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#">Connect
@@ -101,6 +153,9 @@ export default function Header() {
             </div>
           </div>
 
+          
+          
+          
           <div id="header-newmobile" className={
                     isNavExpanded ? "header-expanded avtive" : "header-expanded"
                   }>

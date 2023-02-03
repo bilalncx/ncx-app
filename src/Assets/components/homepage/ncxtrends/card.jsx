@@ -1,34 +1,36 @@
-import {React, useState} from "react";
-import { AnimationOnScroll } from 'react-animation-on-scroll';
+import React from "react";
 import './trends.css';
-import Button  from "@mui/material/Button";
-import TrendData from './data'
 
-function HomeTrendCard()
-{
-    const [TrendingCard]  = useState(TrendData);
-    return(
-        <div className="cardtrend">
-            {/* here you can also pass any other element attributes. Also, you can use your custom components as slides */}
-            {TrendingCard.map((item, indexpeople) => {
-                    const {id, img, point1, point2, point3, point4, title} = item;
-                    return(
-                        <article className='ncxcard01' key={id}>
-                            <img className='cardimg01' src={img} alt={id} />
-                            <div className='cardtitle'>{title}</div>
-                            <div className='card-features'>
-                                <div>{point1}</div>
-                                <div>{point2}</div>
-                                <div>{point3}</div>
-                                <div>{point4}</div>
-                                <a href="https://ncx.cx/" className='card-learnmore'>
-                                    Learn More
-                                </a>
+const Card = ({ item }) => {            
+    // destructuring props
+    return (
+        <div className="container-fluid">
+            <div className="row justify-content-flex-start">
+                {item.map((Val) => {
+                    return (
+                        <div className='trend-card' key={Val.id}>
+                            <p className="trend-featured">{Val.featured}</p>
+                            <img className='trend-img' src={Val.img} alt={Val.title} />
+                            <div className='trend-title'>{Val.title}</div>
+                            <div className='trend-bydate row'>
+                                <div className="col">
+                                    <div className="by-date">
+                                        <p>By: <span><img src={Val.by} alt="ncx-trends"/></span></p>
+                                        <p>{Val.date}</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <a href={Val.seemore} className='trend-seemore'>
+                                        See More
+                                    </a>
+                                </div>
                             </div>
-                        </article>
+                        </div>
                     );
                 })}
+            </div>
         </div>
-    )
-}
-export default HomeTrendCard;
+    );
+};
+
+export default Card;

@@ -82,6 +82,7 @@ p.equity-text {
     font-size: 16px;
     font-family: 'urbanist-medium';
     line-height: 20px;
+    color: #000000;
 }
 .imgtxt p, .nmbrtxt p {
     font-size: 12px;
@@ -101,14 +102,45 @@ p.equity-text {
 .col.red .nmbrtxt p{
     color: #D65350 !important;
 }
-.col.green .tableshadow.row:first-child {
+.col.green .tableshadow.row, .col.red .tableshadow.row, .equitytable2 .col.black a.tableshadow.row{
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+.col.green .tableshadow.row:hover{
+    transform: translateY(0%) scale(1.04);
+    -webkit-transform: translateY(0%) scale(1.04);
+    -moz-transform: translateY(0%) scale(1.04);
+    cursor: pointer;
+    background: #EAF8EC;
+    border-bottom: 1px solid #EAF8EC !important;
+}
+.col.red .tableshadow.row:hover{
+    transform: translateY(0%) scale(1.04);
+    -webkit-transform: translateY(0%) scale(1.04);
+    -moz-transform: translateY(0%) scale(1.04);
+    cursor: pointer;
+    background: #F5E5E6;
+    border-bottom: 1px solid #F5E5E6 !important;
+}
+.equitytable2 .col.black a.tableshadow.row:hover{
+    transform: translateY(0%) scale(1.04);
+    -webkit-transform: translateY(0%) scale(1.04);
+    -moz-transform: translateY(0%) scale(1.04);
+    cursor: pointer;
+    background: #EAF8EC;
+    border-bottom: 1px solid #EAF8EC !important;
+}
+.tableshadow.row:hover, .tableshadow.row:focus, .tableshadow.row:focus-visible{
+    text-decoration: none;
+}
+/* .col.green .tableshadow.row:first-child {
     background: #EAF8EC;
     border: none !important
-}
-.col.red .tableshadow.row:first-child {
+} */
+/* .col.red .tableshadow.row:first-child {
     background: #F5E5E6;
     border: none !important;
-}
+} */
 .col.red .tableshadow.row:last-child, .col.green .tableshadow.row:last-child{
     border: none !important;
 }
