@@ -1,0 +1,193 @@
+.widerangencxproducts {
+    background: #FFFFFF;
+    padding: 100px 0px;
+}
+.whatwe-head p {
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    text-transform: uppercase;
+    color: #34A9FF;
+}
+.whatwe-head h1 {
+    font-family: 'urbanist-medium';
+    font-size: 48px;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+button.pro-tabs {
+    font-size: 20px;
+    font-family: 'urbanist-semibold';
+    color: #000;
+    border: none;
+    padding: 0px;
+    background: none !important;
+}
+button.pro-tabs.active {
+    color: #349AFF;
+}
+.whatwe-head {
+    padding: 0px 40px;
+}
+.product-tabs-btn {
+    padding: 20px 40px 0px 40px;
+    display: flex;
+    column-gap: 70px;
+}
+.pro-content {
+    display: none;
+}
+.pro-content.active {
+    display: block;
+}
+.deri-row {
+    background: #F7F9FB;
+    padding: 40px 50px;
+    display: flex;
+    max-width: 1259px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.deri-row .col {
+    width: 50%;
+}
+img.deri-image {
+    width: 100%;
+    max-width: 400px;
+}
+.product-img{
+    text-align: center;
+}
+.bullets {
+    display: flex;
+    column-gap: 8px;
+    margin-bottom: 8px;
+}
+.bullets span {
+    background: #212121;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 50px;
+}
+.deri-row .col h1 {
+    font-size: 30px;
+    font-family: 'urbanist-medium';
+    line-height: 42px;
+    margin-bottom: 40px;
+}
+.prod-butns {
+    display: flex;
+    margin-top: 30px;
+    column-gap: 15px;
+}
+a.der-buttons {
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    border: 1px solid #349AFF;
+    border-radius: 50px;
+    text-align: center;
+    color: #349AFF;
+    width: 130px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a.der-buttons:hover{
+    background: #34A9FF;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a.der-buttons:focus, a.der-buttons:focus-visible{
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+a.get-app {
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    color: #FFF;
+    background: #000000;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.deri-row .col:nth-child(1) {
+    padding-top: 40px;
+}
+.crypto-trade{
+    background: url(../../../images/ncx-crpyot-trading-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 40px 50px;
+    max-width: 1259px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.crypto-row {
+    display: flex;
+}
+.crypto-trade h1 {
+    font-size: 36px !important;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    width: 84%;
+    margin-bottom: 5px;
+}
+.crypto-trade p {
+    font-size: 20px !important;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+.crypto-row .bullets span {
+    background: #FFFFFF !important;
+    color: #000000;
+}
+p.pro-desc {
+    margin-top: 20px;
+}
+.crypto-trade a.der-buttons {
+    color: #FFFFFF !important;
+    border-color: #FFFFFF !important;
+}
+.crypto-trade a.der-buttons:hover{
+    border-color: #349AFF !important;
+}
+.buycrypt-btn{
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    border: 1px solid #349AFF;
+    background: #349AFF;;
+    border-radius: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 130px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.crypto-row .col.product-img {
+    text-align: end;
+}
+.cutting-edge-trade h1 {
+    margin-bottom: 25px !important;
+}
+p.p-01 {
+    margin-top: 20px;
+}
+.cutting-edge-trade .product-img{
+    position: relative;
+    text-align: end;
+}
+.cutting-edge-trade .product-img img {
+    max-width: 520px;
+    position: relative;
+    top: 40px;
+    right: -60px;
+}

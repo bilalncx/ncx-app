@@ -5,6 +5,9 @@ import { ReactComponent as NCXGooglePay } from '../../../images/ncx-googlepay.sv
 import { ReactComponent as NCXApplePay } from '../../../images/ncx-applepay.svg';
 import './ncxcard.css';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import NCXDebitCard from '../../../images/ncx-blackcard.png';
+import NCXIphoneAddWallet from '../../../images/ncx-iphone-addwallet.png';
+import NCXiPhoneTransactions from '../../../images/ncx-iphonetransactions.png';
 
 function NCXDebitCardSection()
 {
@@ -36,9 +39,13 @@ function NCXDebitCardSection()
                     </div>
                     <div className="col">
                         <div className="cardmobileimg">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <img  src={NCXMblCardScreen} alt="NCX Card"/>
-                            </AnimationOnScroll>
+                            <div className="ncx-iphoneimages">
+                                <img src={NCXIphoneAddWallet} alt="NCX iPhone Add wallet" />
+                            </div>
+                            <div className="ncx-transactionphone">
+                                <img className="transact-iphone"  src={NCXiPhoneTransactions} alt="NCX iPhone Transactions"/>
+                                {/* <img className="floatingcard" src={NCXDebitCard} alt="NCX Debit Card" /> */}
+                            </div>
                         </div>
                     </div>
                 </div>

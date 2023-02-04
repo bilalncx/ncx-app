@@ -47,10 +47,15 @@ article.ncxcard01:hover {
     box-shadow: 0 10px 20px 0 rgb(0 0 0 / 10%);
     cursor: pointer;
 }
+article.ncxcard01:hover{
+    transform: translateY(0%) scale(1.01);
+    -webkit-transform: translateY(0%) scale(1.01);
+    -moz-transform: translateY(0%) scale(1.01);
+}
 article.ncxcard01:hover img.cardimg01 {
-    transform: translateY(0%) scale(1.06);
-    -webkit-transform: translateY(0%) scale(1.06);
-    -moz-transform: translateY(0%) scale(1.06);
+    transform: translateY(0%) scale(1.15);
+    -webkit-transform: translateY(0%) scale(1.15);
+    -moz-transform: translateY(0%) scale(1.15);
 }
 .card-features {
     text-align: left;

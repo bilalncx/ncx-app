@@ -11,9 +11,6 @@
 .card-row.row .col:nth-child(1) {
     padding-top: 80px;
 }
-.cardmobileimg img {
-    max-width: 600px;
-}
 .card-row h3 {
     font-size: 38px;
     font-family: 'urbanist-semibold';
@@ -46,3 +43,64 @@ a.card-view-all{
     line-height: 24px;
     margin-top: 15px;
 }
+.cardmobileimg {
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+.ncx-iphoneimages img, .transact-iphone{
+    max-width: 270px;
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+.ncx-transactionphone {
+    position: relative;
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+img.floatingcard {
+    width: 219.8px;
+    position: absolute;
+    right: 24.5px;
+    top: 69px;
+}
+.ncx-iphoneimages img:hover, .transact-iphone:hover{
+    transform: translateY(0%) scale(1.06);
+    -webkit-transform: translateY(0%) scale(1.06);
+    -moz-transform: translateY(0%) scale(1.06);
+    cursor: pointer;
+}
+/* .ncx-transactionphone:hover img.floatingcard {
+    transform: translateY(0%) scale(1.10);
+    -webkit-transform: translateY(0%) scale(1.10);
+    -moz-transform: translateY(0%) scale(1.10);
+    cursor: pointer;
+} */
+/* .ncx-iphoneimages img {
+    max-width: 250px;
+    margin: 0px 10px;
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+.ncx-iphoneimages img:hover{
+    transform: translateY(0%) scale(1.06);
+    -webkit-transform: translateY(0%) scale(1.06);
+    -moz-transform: translateY(0%) scale(1.06);
+    cursor: pointer;
+}
+.cardmobileimg {
+    position: relative;
+    text-align: center;
+}
+img.floatingcard {
+    width: 204px;
+    position: absolute;
+    top: 64px;
+    right: 80.5px;
+}
+.cardmobileimg:hover img.floatingcard{
+    transform: translateY(0%) scale(1.06);
+    -webkit-transform: translateY(0%) scale(1.06);
+    -moz-transform: translateY(0%) scale(1.06);
+    cursor: pointer;
+} */

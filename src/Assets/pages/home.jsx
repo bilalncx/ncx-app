@@ -29,6 +29,7 @@ import NCXEquities from '../components/homepage/ncxequities/equities';
 import NCXCardSlider from '../components/homepage/NCXCardsection/card';
 import NCXOTCSection from '../components/homepage/NCXOTC/otc';
 import NCXHomeTrends from '../components/homepage/ncxtrends/trends';
+import WhatWeDoSection from '../components/homepage/whatwedo/whatwe';
 
 
 function MainHome()
@@ -76,9 +77,11 @@ function MainHome()
                 </div>
             </div>
 
-            <div id="features">
+            <WhatWeDoSection />
+
+            {/* <div id="features">
                 <SliderSection />
-            </div>
+            </div> */}
             
             <HomeCEXDEXTableSection />
             

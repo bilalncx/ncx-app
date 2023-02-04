@@ -107,25 +107,25 @@ p.equity-text {
     transition: .4s ease;
 }
 .col.green .tableshadow.row:hover{
-    transform: translateY(0%) scale(1.04);
-    -webkit-transform: translateY(0%) scale(1.04);
-    -moz-transform: translateY(0%) scale(1.04);
+    transform: translateY(0%) scale(1.05);
+    -webkit-transform: translateY(0%) scale(1.05);
+    -moz-transform: translateY(0%) scale(1.05);
     cursor: pointer;
     background: #EAF8EC;
     border-bottom: 1px solid #EAF8EC !important;
 }
 .col.red .tableshadow.row:hover{
-    transform: translateY(0%) scale(1.04);
-    -webkit-transform: translateY(0%) scale(1.04);
-    -moz-transform: translateY(0%) scale(1.04);
+    transform: translateY(0%) scale(1.05);
+    -webkit-transform: translateY(0%) scale(1.05);
+    -moz-transform: translateY(0%) scale(1.05);
     cursor: pointer;
     background: #F5E5E6;
     border-bottom: 1px solid #F5E5E6 !important;
 }
 .equitytable2 .col.black a.tableshadow.row:hover{
-    transform: translateY(0%) scale(1.04);
-    -webkit-transform: translateY(0%) scale(1.04);
-    -moz-transform: translateY(0%) scale(1.04);
+    transform: translateY(0%) scale(1.05);
+    -webkit-transform: translateY(0%) scale(1.05);
+    -moz-transform: translateY(0%) scale(1.05);
     cursor: pointer;
     background: #EAF8EC;
     border-bottom: 1px solid #EAF8EC !important;
@@ -150,6 +150,14 @@ p.equity-text {
 }
 .equitytable2 .col.empty{
     padding: 40px 35px !important;
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+.equitytable2 .col.empty:hover{
+    transform: translateY(0%) scale(1.05);
+    -webkit-transform: translateY(0%) scale(1.05);
+    -moz-transform: translateY(0%) scale(1.05);
+    cursor: pointer;
 }
 .emptyboxtxt p{
     font-size: 16px;
