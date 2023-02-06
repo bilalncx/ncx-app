@@ -2,6 +2,7 @@ import  React from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import './ncxtoken.css';
 import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
+import {ReactComponent as NCXTickmark } from '../../../images/ncxicon-check-mark.svg';
 
 function HomeNCXToken()
 {
@@ -133,9 +134,9 @@ function HomeNCXToken()
                             <p></p>
                             <p></p>
                             <p></p>
-                            <p>60%</p>
-                            <p>70%</p>
-                            <p>80%</p>
+                            <p className="checkmark"><NCXTickmark /></p>
+                            <p className="checkmark"><NCXTickmark /></p>
+                            <p className="checkmark"><NCXTickmark /></p>
                         </div>
                         <div className="colnine">
                             <p>8%</p>

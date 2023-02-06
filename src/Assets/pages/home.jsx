@@ -15,8 +15,8 @@ import MyHeader from '../components/header/header';
 import SplashPage from '../components/splash/splash';
 // import BlogSliderHomepage from '../components/homepage/homepageblogslider/homepageblogslider';
 import {ReactComponent as NCXLogo} from '../images/NCX-logo.svg';
-import HomepageTrade from '../components/homepage/home-trade/trade';
-import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
+// import HomepageTrade from '../components/homepage/home-trade/trade';
+// import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
 import HomeCEXDEXTableSection from '../components/homepage/5thdextablesection/cexdex';
 import HomeFirstSection from '../components/homepage/1stsection/firstsection';
 import Home2ndSection from '../components/homepage/2ndsection/2ndsection';
@@ -89,7 +89,7 @@ function MainHome()
 
             <NCXEarn />
 
-            <div className="hometrade">
+            {/* <div className="hometrade">
                 <div className="container">
                 <div className="row">
                     <div className="col">
@@ -111,7 +111,7 @@ function MainHome()
                 </div>
                 <HomepageTrade />
                 </div>
-            </div>
+            </div> */}
 
             <Home8thGradientsection />
 
@@ -162,7 +162,7 @@ function MainHome()
                 </div>
             </div>
 
-            <HomeNCXToken />
+            {/* <HomeNCXToken /> */}
             
             <NCXEquities />
 

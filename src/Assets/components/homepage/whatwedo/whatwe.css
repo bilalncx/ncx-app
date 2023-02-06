@@ -1,6 +1,6 @@
 .widerangencxproducts {
     background: #FFFFFF;
-    padding: 100px 0px;
+    padding: 100px 0px 150px 0px;
 }
 .whatwe-head p {
     font-size: 16px;
@@ -11,8 +11,8 @@
 .whatwe-head h1 {
     font-family: 'urbanist-medium';
     font-size: 48px;
-    padding-top: 15px;
-    margin-bottom: 30px;
+    padding-top: 5px;
+    margin-bottom: 20px;
 }
 button.pro-tabs {
     font-size: 20px;
@@ -29,9 +29,11 @@ button.pro-tabs.active {
     padding: 0px 40px;
 }
 .product-tabs-btn {
-    padding: 20px 40px 0px 40px;
+    padding: 0px 40px 0px 40px;
     display: flex;
     column-gap: 70px;
+    position: relative;
+    z-index: 1;
 }
 .pro-content {
     display: none;
@@ -41,11 +43,12 @@ button.pro-tabs.active {
 }
 .deri-row {
     background: #F7F9FB;
-    padding: 40px 50px;
+    padding: 40px 50px 40px 50px;
     display: flex;
-    max-width: 1259px;
+    max-width: 1261px;
     margin: 0 auto;
-    margin-top: 30px;
+    margin-top: 20px;
+    min-height: 586px;
 }
 .deri-row .col {
     width: 50%;
@@ -54,13 +57,16 @@ img.deri-image {
     width: 100%;
     max-width: 400px;
 }
+.derivatives-trade .product-img {
+    text-align: end;
+}
 .product-img{
     text-align: center;
 }
 .bullets {
     display: flex;
     column-gap: 8px;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 .bullets span {
     background: #212121;
@@ -69,12 +75,23 @@ img.deri-image {
     font-size: 15px;
     padding: 5px 15px;
     border-radius: 50px;
+    min-height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .deri-row .col h1 {
-    font-size: 30px;
+    font-size: 32px;
     font-family: 'urbanist-medium';
     line-height: 42px;
     margin-bottom: 40px;
+}
+.derivatives-trade h1 {
+    width: 107% !important;
+}
+p.deriv-p {
+    width: 65%;
+    padding-top: 15px;
 }
 .prod-butns {
     display: flex;
@@ -89,7 +106,7 @@ a.der-buttons {
     text-align: center;
     color: #349AFF;
     width: 130px;
-    height: 40px;
+    height: 46px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -110,23 +127,24 @@ a.get-app {
     color: #FFF;
     background: #000000;
     width: 150px;
-    height: 40px;
+    height: 46px;
     border-radius: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.deri-row .col:nth-child(1) {
-    padding-top: 40px;
+a.get-app:hover{
+    text-decoration: none !important;
 }
 .crypto-trade{
     background: url(../../../images/ncx-crpyot-trading-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    padding: 40px 50px;
-    max-width: 1259px;
+    padding: 50px 50px 50px 70px;
+    max-width: 1261px;
     margin: 0 auto;
-    margin-top: 30px;
+    margin-top: 20px;
+    min-height: 586px;
 }
 .crypto-row {
     display: flex;
@@ -166,14 +184,25 @@ p.pro-desc {
     border-radius: 50px;
     text-align: center;
     color: #FFFFFF;
-    width: 130px;
-    height: 40px;
+    width: 150px;
+    height: 46px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+.buycrypt-btn:hover{
+    background: #000000 !important;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    border: 1px solid #000000 !important;
+}
 .crypto-row .col.product-img {
     text-align: end;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 20px;
+    padding-right: 40px;
 }
 .cutting-edge-trade h1 {
     margin-bottom: 25px !important;
@@ -190,4 +219,313 @@ p.p-01 {
     position: relative;
     top: 40px;
     right: -60px;
+}
+.crypto-trade img.deri-image{
+    width: 350px;
+}
+img.dex-image {
+    width: 100%;
+    max-width: 520px;
+}
+.ncx-dexphone-sect .col.product-img {
+    text-align: end;
+}
+p.dexp1 {
+    font-size: 18px;
+    line-height: 24px;
+    width: 70%;
+    height: 84px;
+    font-family: 'urbanist-regular';
+}
+.ncx-dexphone-sect h1 {
+    margin-bottom: 20px !important;
+    margin-top: 20px;
+}
+.ncx-dexphone-sect .deri-row {
+    padding-left: 80px !important;
+}
+p.dexp2 {
+    font-size: 18px;
+    font-family: 'urbanist-regular';
+    line-height: 24px;
+    width: 50%;
+    padding-top: 10px;
+}
+.ncx-card-trade{
+    background: url(../../../images/ncx-card-traebg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 50px 50px 50px 70px;
+    max-width: 1261px;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 586px;
+    max-height: 586px;
+}
+.cardtrade-row {
+    display: flex;
+}
+.cardtrade-row .col.product-img {
+    position: relative;
+}
+.cardtrade-row .col.product-img img {
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: -85px;
+    min-width: 603px;
+}
+.cardtrade-row h1 {
+    font-size: 34px;
+    line-height: 40px;
+    color: #FFFFFF;
+    font-family: 'urbanist-medium';
+    margin-bottom: 20px;
+}
+p.cardp1 {
+    color: #FFFF;
+    font-family: 'urbanist-regular';
+    font-size: 18px;
+    line-height: 24px;
+    width: 80%;
+    margin-bottom: 20px;
+}
+.cardtrade-row .bullets span {
+    color: #000000;
+    background: #FFFFFF;
+}
+p.cardp2{
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+}
+.cardtrade-row a.der-buttons {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+.cardtrade-row a.der-buttons:hover {
+    color: #FFFFFF;
+    border-color: #34A9FF;
+}
+.cardtrade-row a.buycrypt-btn {
+    color: #000000;
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+}
+.cardtrade-row a.buycrypt-btn:hover {
+    text-decoration: none;
+}
+h1.margin-bottomzero {
+    margin-bottom: 0px !important;
+}
+.cryptotrading-div img.deri-image {
+    width: 100%;
+    max-width: 600px !important;
+    filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.15));
+}
+p.deriv-p.crypttradep2 {
+    width: 100%;
+    padding: 0px;
+}
+.cryptotrading-div .col.product-img {
+    display: flex;
+    justify-content: flex-end !important;
+    align-items: center;
+    position: relative;
+}
+.cryptotrading-div .col.product-img img{
+    position: relative;
+    right: -30px;
+}
+.ncx-apisect{
+    background: url(../../../images/ncx-api-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 60px 50px 50px 50px;
+    max-width: 1261px;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 586px;
+    max-height: 586px;
+}
+.api-row{
+    display: flex;
+}
+.api-row .col:nth-child(1) {
+    width: 70%;
+}
+.api-row .col:nth-child(2) {
+    width: 30%;
+    flex: inherit;
+}
+.api-monitoring{
+    max-width: 350px;
+    height: 400px;
+    background: url(../../../images/ncx-api-img.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 30px 20px;
+}
+.api-monitoring h3 {
+    font-size: 24px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.api-monitoring p {
+    font-size: 22px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    line-height: 25px;
+}
+.col.apiproduct-img {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.3));
+    border-radius: 8px;
+}
+.api-row h1 {
+    font-size: 34px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    line-height: 40px;
+}
+.API-search .searchbar-api{
+    width: 100%;
+}
+.ncx-apisect .accordian_wrapper {
+    max-width: 700px;
+    background: #FFFFFF;
+}
+.API-search .title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #F1F4FB;
+    padding: 15px 0px;
+    cursor: pointer;
+}
+.API-search .accordian h2 {
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    font-family: 'urbanist-regular' !important;
+    text-align: left;
+}
+.API-search {
+    max-width: 700px;
+    background: #FFFFFF;
+    margin-top: 30px;
+}
+.ncx-apisect .accordian_wrapper {
+    padding: 20px;
+}
+span.apisvg.transform {
+    transform: rotate(90deg);
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+}
+span.apisvg {
+    transform: rotate(0deg);
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+}
+.content p {
+    color: #000000 !important;
+    font-family: 'urbanist-regular' !important;
+    font-size: 16px !important;
+}
+.content.show{
+    margin-bottom: 20px !important;
+}
+.API-search .item:nth-child(1) .title{
+    border: none !important;
+}
+.ncx-tradeassets{
+    background: #F7F9FB;
+    padding: 40px 50px 40px 50px;
+    max-width: 1261px;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 586px;
+    max-height: 2410px;
+}
+.asset-hed {
+    text-align: end;
+}
+.asset-hed h1 {
+    font-size: 35px;
+    line-height: 44px;
+    color: #000000;
+    font-family: 'urbanist-medium';
+}
+.asset-hed p {
+    font-family: 'urbanist-regular';
+    font-size: 17px;
+    line-height: 24px;
+    color: #34A9FF;
+}
+.ncx-tradeassets div#trade-tabs-sect {
+    max-width: 987px !important;
+    padding: 20px 0px 0px 0px !important;
+}
+.ncx-tradeassets button.trade-tabs.active{
+    color: #34a9ff !important;
+}
+.ncx-tradeassets .content-tabs {
+    background: #FFFFFF;
+    padding: 30px 30px;
+    box-shadow: 0px 0px 25px rgb(0 0 0 / 25%);
+    border-radius: 0px 5px 5px 5px;
+}
+.ncx-tradeassets button.conttrade-tabs.active{
+    border-color: #34A9FF !important;
+}
+.TradeNCXToken{
+    background: url(../../../images/ncx-api-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 60px 50px 50px 50px;
+    max-width: 1261px;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 586px;
+    max-height: 586px;
+}
+.TradeNCXToken .row.tokenrow {
+    display: none;
+}
+.TradeNCXToken .ncxtoken {
+    padding: 0px !important;
+}
+.TradeNCXToken .tokentable {
+    padding: 0px !important;
+}
+.TradeNCXToken .color, .TradeNCXToken .coltwo p, .TradeNCXToken .colthree p, .TradeNCXToken .colfour p, .TradeNCXToken .colfive p, 
+.TradeNCXToken .colsix p, .TradeNCXToken .colseven p, .TradeNCXToken .coleight p, .TradeNCXToken .colnine p {
+    background: rgba(255,255,255,0.6);
+    color: #000000;
+}
+.colone p{
+    color: #000000 !important;
+}
+.TradeNCXToken .colfour p:nth-child(1), .TradeNCXToken .colsix p:nth-child(1), .TradeNCXToken .colsix p:nth-child(2), 
+.TradeNCXToken .colsix p:nth-child(3), .TradeNCXToken .colseven p:nth-child(1), .TradeNCXToken .colseven p:nth-child(2), 
+.TradeNCXToken .colseven p:nth-child(3), .TradeNCXToken .colseven p:nth-child(4), .TradeNCXToken .coleight p:nth-child(1), 
+.TradeNCXToken .coleight p:nth-child(2), .TradeNCXToken .coleight p:nth-child(3), .TradeNCXToken .coleight p:nth-child(4), 
+.TradeNCXToken .coleight p:nth-child(5), .TradeNCXToken .colfive p:first-child{
+    background: rgba(241, 250, 241, 0.3) !important;
+}
+.TradeNCXToken .colnine, .TradeNCXToken p.nine {
+    display: none !important;
+}
+.TradeNCXToken .colone, .TradeNCXToken .coltwo, .TradeNCXToken .colthree, .TradeNCXToken .colfour, .TradeNCXToken .colfive, 
+.TradeNCXToken .colsix, .TradeNCXToken .colseven, .TradeNCXToken .coleight, .TradeNCXToken .colnine{
+    width: 13% !important;
+}
+.TradeNCXToken .tokenhead p{
+    width: 13% !important;
 }
