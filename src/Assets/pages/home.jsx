@@ -1,4 +1,4 @@
-import  React from "react";
+import  {React, useState, useEffect} from "react";
 import '../styles/home.css';
 import '../styles/media-query.css'
 import "animate.css/animate.min.css";
@@ -34,6 +34,33 @@ import WhatWeDoSection from '../components/homepage/whatwedo/whatwe';
 
 function MainHome()
 {
+    // const [sidebarWidth, setSidebarWidth] = useState(undefined);
+    // const [sidebarTop, setSidebarTop] = useState(undefined);
+    
+    // useEffect(() => {
+    // const sidebarEl = document.querySelector('.sidebar').getBoundingClientRect();
+    // setSidebarWidth(sidebarEl.width);
+    // setSidebarTop(sidebarEl.top);
+    // }, []);
+    
+    // useEffect(() => {
+    // if (!sidebarTop) return;
+    
+    // window.addEventListener('scroll', isSticky);
+    // return () => {
+    //     window.removeEventListener('scroll', isSticky);
+    // };
+    // }, [sidebarTop]);
+    
+    // const isSticky = (e) => {
+    // const sidebarEl = document.querySelector('.sidebar');
+    // const scrollTop = window.scrollY;
+    // if (scrollTop >= sidebarTop - 10) {
+    //     sidebarEl.classList.add('is-sticky');
+    // } else {
+    //     sidebarEl.classList.remove('is-sticky');
+    // }
+    // }
     // const [toggleState, setToggleState] = useState(1);
 
     // const toggleTab = (index) => {

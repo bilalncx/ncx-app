@@ -53,9 +53,9 @@ video#DownloadVideo {
 
 }
 .download .bsss img {
-    max-width: 480px;
+    max-width: 430px;
     position: relative;
-    top: -50px;
+    top: -30px;
 }
 .download .asss {
     width: 50%;

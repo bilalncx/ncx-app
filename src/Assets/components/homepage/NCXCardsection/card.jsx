@@ -1,6 +1,6 @@
 import React from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
+import NCXLogo from '../../../images/ncx-black-logo.svg';
 import CardSlide from './cardslidercomponent';
 
 function HomepageCardSection()
@@ -10,7 +10,7 @@ function HomepageCardSection()
             <div className="container">
                 <AnimationOnScroll animateIn="animate__fadeIn">
                     <div className="ncx-equities">
-                        <NCXLogo />
+                        <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-main-logo" />
                         <p>Card</p>
                     </div>
                 </AnimationOnScroll>

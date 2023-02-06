@@ -1,7 +1,7 @@
 import {React, useState} from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import './trends.css';
-import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
+import NCXLogo from '../../../images/ncx-black-logo.svg';
 import Button  from "@mui/material/Button";
 import Card from './card';
 import TrendingCard from './data';
@@ -23,7 +23,7 @@ function NCXHomePageTrendsSection(){
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="ncx-trends">
-                                <NCXLogo />
+                                <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
                                 <p>Trends</p>
                             </div>
                         </AnimationOnScroll>

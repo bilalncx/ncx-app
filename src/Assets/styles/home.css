@@ -25,6 +25,9 @@
     overflow: scroll !important;
     overflow-x: hidden !important;
 }
+.ncx-blacklogo, .ncx-whitelogo{
+    width: 122px !important;
+}
 
 /************************** Body Scroll Section Starts from here *************************/
 /* width */

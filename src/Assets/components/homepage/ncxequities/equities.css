@@ -48,9 +48,12 @@ p.equity-text {
 .equitytable.row, .equitytable2 {
     display: flex;
     justify-content: center;
-    padding-top: 50px;
+    padding-top: 30px;
     margin: 0px !important;
     column-gap: 50px;
+}
+.equitytable2{
+    padding-top: 50px !important;
 }
 .equitytable.row .col.green, .equitytable2 .col.empty {
     width: 550px !important;
@@ -186,4 +189,26 @@ p.equity-text {
 .equitytable2 .col.empty .view-all a:focus, .equitytable2 .col.empty .view-all a:focus-visible{
     outline: none !important;
     text-decoration: none !important;
+}
+.equity-content {
+    display: none;
+}
+.equity-content.active {
+    display: block;
+}
+#equities-tabs-sect .buttons-tab {
+    padding: 30px 0px 0px 75px;
+    display: flex;
+    column-gap: 147px;
+}
+button.equity-tabs {
+    background: none;
+    border: none;
+    font-size: 22px;
+    line-height: 30px;
+    font-family: 'urbanist-semibold';
+    padding: 0px;
+}
+button.equity-tabs.active {
+    color: #34A9FF;
 }

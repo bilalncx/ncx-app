@@ -1,6 +1,6 @@
 import React from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
+import NCXLogo from '../../../images/NCX-logo.svg';
 import Button from "@mui/material/Button";
 import './otc.css';
 import { ReactComponent as OTC1 } from '../../../images/ncx-otc1.svg';
@@ -18,7 +18,7 @@ function NCXhomepageOTCSection(){
                     <div className="col">
                     <AnimationOnScroll animateIn="animate__fadeIn">
                         <div className="ncx-otc">
-                            <NCXLogo />
+                            <img className="ncx-whitelogo" src={NCXLogo} alt="ncx-whitelogo" />
                             <p>OTC</p>
                         </div>
                     </AnimationOnScroll>
