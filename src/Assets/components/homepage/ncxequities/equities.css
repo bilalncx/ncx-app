@@ -96,6 +96,15 @@ p.equity-text {
 .imgtxt{
     padding-left: 13px;
 }
+#currenciesss .imgtxt{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+img.picimg {
+    width: 37px;
+    height: 37px;
+}
 .nmbrtxt h3, .nmbrtxt p{
     text-align: end;
 }

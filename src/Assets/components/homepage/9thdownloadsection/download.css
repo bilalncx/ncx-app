@@ -7,7 +7,7 @@
 video#DownloadVideo {
     z-index: -1;
     width: 100% !important;
-    max-height: 350px !important;
+    max-height: 320px !important;
     object-fit: cover !important;
 }
 .download .container {
@@ -19,7 +19,7 @@ video#DownloadVideo {
     right: 0% !important;
 }
 .download .asss {
-    padding: 50px 0px 0px 0px;
+    padding: 30px 0px 0px 0px;
 }
 .download .row {
     margin: 0px !important;
@@ -53,9 +53,9 @@ video#DownloadVideo {
 
 }
 .download .bsss img {
-    max-width: 430px;
+    max-width: 390px;
     position: relative;
-    top: -30px;
+    top: -25px;
 }
 .download .asss {
     width: 50%;
