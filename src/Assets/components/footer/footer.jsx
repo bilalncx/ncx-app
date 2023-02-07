@@ -5,6 +5,7 @@ import Telegram from '../footer/telegram.svg';
 import Twitter from '../footer/twitter.svg';
 import MobileTelegram from './telegrss.svg';
 import Instagram from '../../images/instagram.svg';
+import { color } from "@mui/system";
 
 function MyFooter() 
 {
@@ -18,6 +19,7 @@ function MyFooter()
                             <li><a href="">Buy Crypto</a></li>
                             <li><a href="#">Spot Trading</a></li>
                             <li><a href="#">Markets</a></li>
+                            <li><a href="#">DEX</a></li>
                             <li><a href="#">NCX Card</a></li>
                             <li><a href="#">NCX Token</a></li>
                         </ul>
@@ -33,21 +35,21 @@ function MyFooter()
                         </ul>
                     </div>
                     <div class="second-column">
-                        <h1>DEX</h1>
+                        <h1>Services</h1>
                         <ul className="ul-one">
-                            <li><a href="#">BSC Network</a></li>
-                            <li><a href="#">Ethereum Network</a></li>
-                            <li><a href="#">Polygon Network</a></li>
-                            <li><a href="#">Avalance Network</a></li>
+                            <li><a href="#">Referral Program</a></li>
+                            <li><a href="#">Market Makers</a></li>
+                            <li><a href="#">OTC</a></li>
+                            <li><a href="#">NCX Trends</a></li>
+                            <li><a href="#">NCX Ambassador</a></li>
+                            <li className="hiddendss"><a>Red</a></li>
                         </ul>
-                        <h1>About</h1>
+                        <h1>Company</h1>
                         <ul className="ul-two">
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">Media & Press</a></li>
-                            <li><a href="#">NCX Trends</a></li>
                             <li><a href="#">FAQ</a></li>
-                            <li><a href="#">Referral Program</a></li>
-                            <li><a href="#">Claim Sign Up Bonus Airdrop</a></li>
+                            <li><a href="#">Support</a></li>
                         </ul>
                     </div>
                     <div class="third-column">
@@ -58,6 +60,7 @@ function MyFooter()
                             <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
                             <li><a href="https://ncx.cx/api-agreement">API Documentation</a></li>
                             <li><a href="https://ncx.cx/cookie-policy">Cookie Policy</a></li>
+                            <li className="hiddendss"><a>Red</a></li>
                         </ul>
                         <h1>Apps</h1>
                         <ul className="ul-two">

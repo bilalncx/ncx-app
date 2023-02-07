@@ -46,7 +46,7 @@ div#footerdiv {
 }
 .copyright p {
     color: #FFFFFF;
-    font-family: 'urbanist-regular';
+    font-family: 'urbanist-light';
     font-size: 12px;
     text-align: center;
     margin-bottom: 10px !important;
@@ -79,6 +79,9 @@ ul.ul-two {
 .copyright p:nth-child(2) {
     width: 70%;
     margin: 0 auto;
+}
+li.hiddendss {
+    visibility: hidden;
 }
 
 @media screen and (min-width: 1301px){
