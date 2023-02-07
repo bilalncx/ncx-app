@@ -1,6 +1,7 @@
 .ncxequities{
     padding: 100px 0px 150px 0px;
     background-color: #FFFFFF;
+    position: relative;
 }
 .equitiesrow.row{
     margin: 0 auto !important;
@@ -204,6 +205,12 @@ img.picimg {
 }
 .equity-content.active {
     display: block;
+    opacity: 1;
+    animation: equityfade 1s linear;
+}
+@keyframes equityfade {
+  0% { opacity: 0 }
+  100% { opacity: 1 }
 }
 #equities-tabs-sect .buttons-tab {
     padding: 30px 0px 0px 75px;

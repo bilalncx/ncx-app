@@ -2,6 +2,7 @@
 .dex-table {
     background: #000000;
     padding: 100px 0px;
+    position: relative;
 }
 .text-table h1 {
     text-align: left;

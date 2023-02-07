@@ -92,3 +92,11 @@
     overflow: hidden !important;
     margin-top: 30px;
 }
+.img001 {
+    display: flex;
+    column-gap: 15px;
+    padding-top: 20px;
+}
+.img001 img {
+    width: 134px;
+}

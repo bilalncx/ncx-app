@@ -96,6 +96,9 @@ div#market .container {
 }
 
 /************************** HomePage FAQ Section Starts from here *************************/
+div#footer-faq {
+    position: relative;
+}
 #faq.faq-sect .row {
     margin: 0px !important;
 }

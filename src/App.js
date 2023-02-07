@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
+import './script';
 import Blog from './Assets/pages/blog/blog';
 import Home from './Assets/pages/home';
 import Press from './Assets/pages/bloglisting';

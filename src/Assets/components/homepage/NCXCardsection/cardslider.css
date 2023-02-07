@@ -1,6 +1,7 @@
 .ncxcarddiv {
     background: #FFFFFF;
     padding: 100px 0px 50px 0px;
+    position: relative;
 }
 div#cardarticles{
     max-width: 1420px;
@@ -34,12 +35,12 @@ img.cardimg01 {
     text-align: center;
 }
 article.ncxcard01 {
-    width: 395px;
-    min-width: 395px !important;
+    width: 400px;
+    min-width: 400px !important;
     box-shadow: 0 10px 20px 0 rgb(0 0 0 / 3%);
     margin-left: 30px !important;
     background: #FFFFFF;
-    padding-bottom: 30px !important;
+    padding-bottom: 70px !important;
 }
 article.ncxcard01:hover {
     -webkit-box-shadow: 0 10px 20px 0 rgb(0 0 0 / 10%);
@@ -53,9 +54,9 @@ article.ncxcard01:hover{
     -moz-transform: translateY(0%) scale(1.01);
 }
 article.ncxcard01:hover img.cardimg01 {
-    transform: translateY(0%) scale(1.15);
-    -webkit-transform: translateY(0%) scale(1.15);
-    -moz-transform: translateY(0%) scale(1.15);
+    transform: translateY(0%) scale(1.07);
+    -webkit-transform: translateY(0%) scale(1.07);
+    -moz-transform: translateY(0%) scale(1.07);
 }
 .card-features {
     text-align: left;

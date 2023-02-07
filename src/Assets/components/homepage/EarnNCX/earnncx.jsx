@@ -6,6 +6,7 @@ import Elbrus from '../../../images/ncx-elbrus.png';
 import Denali from '../../../images/ncx-denali.png';
 import Everest from '../../../images/ncx-everest.png';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import NCXTask from '../ncxtasks/tasks';
 
 function HomeEarnNCXSection()
 {
@@ -58,6 +59,7 @@ function HomeEarnNCXSection()
                     </div>
                 </div>
             </div>
+            <NCXTask />
         </div>
     )
 }

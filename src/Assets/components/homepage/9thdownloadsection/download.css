@@ -9,6 +9,7 @@ video#DownloadVideo {
     width: 100% !important;
     max-height: 320px !important;
     object-fit: cover !important;
+    margin-bottom: -5px !important;
 }
 .download .container {
     position: absolute;

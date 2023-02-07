@@ -88,13 +88,13 @@ function HomeNCXEquitiesSection(){
                             className={toggleState === 2 ? "equity-tabs active" : "equity-tabs"}
                             onClick={() => toggleTab(2)}
                         >
-                        Indices
+                        Currencies
                         </button>
                         <button
                             className={toggleState === 3 ? "equity-tabs active" : "equity-tabs"}
                             onClick={() => toggleTab(3)}
                         >
-                        Currencies
+                        Indices
                         </button>
                     </div>
                     <div className={toggleState === 1 ? "equity-content  active" : "equity-content"}>
@@ -343,7 +343,7 @@ function HomeNCXEquitiesSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 2 ? "equity-content  active" : "equity-content"}>
+                    <div className={toggleState === 3 ? "equity-content  active" : "equity-content"}>
                         <div className="equitytable row">
                             <div className="col green">
                                 <a href="https://ncx.cx" className="tableshadow row">
@@ -546,7 +546,7 @@ function HomeNCXEquitiesSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 3 ? "equity-content  active" : "equity-content"}>
+                    <div className={toggleState === 2 ? "equity-content  active" : "equity-content"}>
                         <div id="currenciesss" className="equitytable row">
                             <div className="col green">
                                 <a href="https://ncx.cx" className="tableshadow row">
@@ -623,6 +623,8 @@ function HomeNCXEquitiesSection(){
                                         </div>
                                     </div>
                                 </a>
+                            </div>
+                            <div className="col green">
                                 <a href="https://ncx.cx" className="tableshadow row">
                                     <div className="col">
                                         <img className="picimg" src={AUDUSD} alt="AUDUSD" />
@@ -668,8 +670,6 @@ function HomeNCXEquitiesSection(){
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            <div className="col green">
                                 <a href="https://ncx.cx" className="tableshadow row">
                                     <div className="col">
                                         <img className="picimg" src={GBPAUD} alt="GBPAUD" />
@@ -700,6 +700,20 @@ function HomeNCXEquitiesSection(){
                                         </div>
                                     </div>
                                 </a>
+                                
+                            </div>
+                        </div>
+                        <div id="currenciesss" className="equitytable2 row">
+                            <div className="col empty">
+                                    <div className="emptyboxtxt">
+                                        <p>Community Choice</p>
+                                        <h2>Show me the most popular <span>Stocks</span></h2>
+                                    </div>
+                                    <div className="view-all">
+                                        <Button href="#">View All</Button>
+                                    </div>
+                            </div>
+                            <div className="col black">
                                 <a href="https://ncx.cx" className="tableshadow row">
                                     <div className="col">
                                         <img className="picimg" src={GBPCAD} alt="GBPCAD" />

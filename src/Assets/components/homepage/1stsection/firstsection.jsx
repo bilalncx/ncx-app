@@ -4,6 +4,8 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import icon from '../../../images/ncx-staricon.svg';
 import Button from "@mui/material/Button";
 import CountUp from 'react-countup';
+import appstore from '../../../images/app-store.png';
+import Googleplay from '../../../images/google-app.png';
 
 function HomeFirstSection()
 {
@@ -35,12 +37,12 @@ function HomeFirstSection()
                         <span>Yied Farming</span>
                         <span>Liquidity Pools</span>
                     </div>
-                    <Button className="btn01 hero-btn signin">Sign In</Button>
-                    <Button className="btn01 hero-btn singup">Launch DEX</Button>
-                    {/* <div className="img001">
+                    {/* <Button className="btn01 hero-btn signin">Sign In</Button>
+                    <Button className="btn01 hero-btn singup">Launch DEX</Button> */}
+                    <div className="img001">
                         <img src={appstore} alt="ncx"/>
                         <img src={Googleplay} alt="ncx" />
-                    </div> */}
+                    </div>
                 </div>
                 <div id="videosection" className="bsss">
                     <div className="videodiv">

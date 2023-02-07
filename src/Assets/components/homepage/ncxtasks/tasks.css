@@ -1,0 +1,138 @@
+.ncxtasksection h1 {
+    font-size: 42px;
+    font-family: 'urbanist-medium';
+    color: #40475A;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.ncxtasksection {
+    padding-top: 100px;
+}
+p.task {
+    font-size: 20px;
+    font-family: 'urbanist-regular';
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    max-width: 1131px;
+    margin: 0 auto;
+}
+.tasksrow {
+    display: flex;
+    column-gap: 25px;
+    max-width: 1131px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.tasksrow .col {
+    width: 25%;
+}
+.tasktext {
+    width: 264px;
+    height: 245px;
+    background: #F7F9FE;
+    padding: 20px 25px;
+}
+.tasktext:hover{
+    background: #FFFFFF;
+    box-shadow: 0 0 16px rgb(184 201 255 / 30%);
+}
+.tasktext h1 {
+    font-size: 42px;
+    font-family: 'urbanist-medium';
+    text-align: left;
+    line-height: 50px;
+    margin-bottom: 88px;
+}
+.tasktext h1 span {
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    text-align: left;
+    line-height: 24px;
+    padding-left: 10px;
+}
+.taskbtn a {
+    background: #925BCA;
+    font-size: 18px;
+    font-family: 'urbanist-semibold';
+    text-transform: capitalize;
+    color: #FFFFFF;
+    width: 115px;
+    height: 44px;
+    border-radius: 50px;
+}
+.taskbtn {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-top: 24px;
+}
+.tasktext h3 {
+    font-size: 17px;
+    font-family: 'urbanist-medium';
+    color: #2C2236;
+    margin-bottom: 5px;
+    line-height: 23px;
+}
+.tasktext p {
+    font-size: 12px;
+    font-family: 'urbanist-regular';
+    color: #565672;
+}
+.tasktext-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    min-height: 68px;
+}
+.tasktext-div .col:first-child {
+    width: 95% !important;
+    flex: inherit;
+}
+.tasktext-div .col:last-child {
+    width: 5% !important;
+    flex: inherit;
+}
+.tasktext.signup h1 {
+    margin-bottom: 40px;
+}
+
+.ncxtasksection button.btn-primary{
+    background: none;
+    border: none;
+    padding: 0px;
+    color: #925bca;
+    font-size: 20px;
+    font-family: 'urbanist-medium';
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+.ncxtasksection button.btn-primary:hover, .ncxtasksection button.btn-primary:focus, .ncxtasksection button.btn-primary:focus-visible{
+    outline: none;
+    border: none;
+    box-shadow: none;
+    background: none !important;
+}
+.ncxtasksection button.btn-primary svg path {
+    fill: #925bca;
+}
+.ncxtasksection button.btn-primary svg{
+    margin-left: 10px;
+}
+svg.straight {
+    transform: rotate(90deg);
+    width: 12px;
+    height: auto;
+    margin-bottom: 4px;
+    margin-left: 20px !important;
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+}
+svg.turn {
+    width: 12px;
+    height: auto;
+    margin-bottom: 4px;
+    margin-left: 20px !important;
+    transform: rotate(-270deg);
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+}

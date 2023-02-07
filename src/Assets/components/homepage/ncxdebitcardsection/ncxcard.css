@@ -1,6 +1,7 @@
 .ncxcard {
     background: #F8F8F9;
     padding: 100px 0px;
+    position: relative;
 }
 .card-row.row {
     margin: 0px !important;

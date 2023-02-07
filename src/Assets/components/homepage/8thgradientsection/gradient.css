@@ -3,6 +3,7 @@
 .gradient {
     padding: 70px 0px 100px 0px;
     background: #FFFFFF;
+    position: relative;
 }
 .gradientbar {
     background: linear-gradient(90deg,#37ABFF,#ff78e5 50%,#00d85a);

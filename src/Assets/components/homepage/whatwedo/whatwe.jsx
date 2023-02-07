@@ -28,48 +28,56 @@ function WhatweDoSection(){
                 </div>
                 <div className="product-tabs-btn">
                     <button
+                        id="btn-1"
                         className={toggleState === 1 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(1)}
                     >
                     Derivatives Trading
                     </button>
                     <button
+                        id="btn-2"
                         className={toggleState === 2 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(2)}
                     >
                     Buy Crypto
                     </button>
                     <button
+                        id="btn-3"
                         className={toggleState === 3 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(3)}
                     >
                     DEX
                     </button>
                     <button
+                        id="btn-4"
                         className={toggleState === 4 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(4)}
                     >
                     NCX Card
                     </button>
                     <button
+                        id="btn-5"
                         className={toggleState === 5 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(5)}
                     >
                     Crypto Trading
                     </button>
                     <button
+                        id="btn-6"
                         className={toggleState === 6 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(6)}
                     >
                     API
                     </button>
                     <button
+                        id="btn-7"
                         className={toggleState === 7 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(7)}
                     >
                     Assets
                     </button>
                     <button
+                        id="btn-8"
                         className={toggleState === 8 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(8)}
                     >
@@ -77,7 +85,7 @@ function WhatweDoSection(){
                     </button>
                 </div>
                 <div className="product-content-tabs">
-                    <div className={toggleState === 1 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-1" className={toggleState === 1 ? "pro-content active" : "pro-content"}>
                         <div className="derivatives-trade">
                             <div className="deri-row">
                                 <div className="col">
@@ -111,7 +119,7 @@ function WhatweDoSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 2 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-2" className={toggleState === 2 ? "pro-content active" : "pro-content"}>
                         <div className="crypto-trade">
                             <div className="crypto-row">
                                 <div className="col">
@@ -148,7 +156,7 @@ function WhatweDoSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 3 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-3" className={toggleState === 3 ? "pro-content active" : "pro-content"}>
                         <div className="ncx-dexphone-sect">
                             <div className="deri-row">
                                 <div className="col">
@@ -181,7 +189,7 @@ function WhatweDoSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 4 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-4" className={toggleState === 4 ? "pro-content active" : "pro-content"}>
                         <div className="ncx-card-trade">
                             <div className="cardtrade-row">
                                 <div className="col">
@@ -218,7 +226,7 @@ function WhatweDoSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 5 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-5" className={toggleState === 5 ? "pro-content active" : "pro-content"}>
                     <div className="cryptotrading-div">
                             <div className="deri-row">
                                 <div className="col">
@@ -256,7 +264,7 @@ function WhatweDoSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 6 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-6" className={toggleState === 6 ? "pro-content active" : "pro-content"}>
                         <div className="ncx-apisect">
                             <div className="api-row">
                                 <div className="col">
@@ -275,7 +283,7 @@ function WhatweDoSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 7 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-7" className={toggleState === 7 ? "pro-content active" : "pro-content"}>
                         <div className="ncx-tradeassets">
                             <div className="tradeasset-row">
                                 <div className="asset-hed">
@@ -286,7 +294,7 @@ function WhatweDoSection(){
                             </div>
                         </div>
                     </div>
-                    <div className={toggleState === 8 ? "pro-content  active" : "pro-content"}>
+                    <div id="content-8" className={toggleState === 8 ? "pro-content active" : "pro-content"}>
                         <div className="TradeNCXToken">
                             <NCXTradeToken />
                         </div>

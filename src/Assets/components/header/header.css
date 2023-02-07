@@ -16,6 +16,7 @@ header#header-row {
 }
 header#header-row.darkheader{
     background: #000000 !important;
+    z-index: 999;
 }
 #BlogdetailsHeader header#header-row {
     background: #000000 !important;
@@ -48,19 +49,23 @@ header#header-row.darkheader{
     outline: none !important;
 }
 .signin{
-    background: #000000 !important;
+    background: #34A9FF !important;
     color: #FFFFFF !important;
     width: 107px !important;
     height: 37px !important;
+    border: 1px solid #34A9FF !important;
 }
 .launch-dex{
-    border: 1px solid #2460FF !important;
+    border: 1.5px solid #34A9FF !important;
     background: #000000 !important;
     color:  #FFFFFF !important;
     width: 134px !important;
     height: 37px !important;
     margin-right: 0px !important;
     box-shadow: 0px 0px 12px 8px rgba(36, 96, 255, 0.4);
+}
+.signin:focus, .signin:focus-visible, .launch-dex:focus, .launch-dex:focus-visible{
+    text-decoration: none !important;
 }
 ul.navlink a {
     font-size: 16px !important;

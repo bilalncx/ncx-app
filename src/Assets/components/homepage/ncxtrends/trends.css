@@ -25,6 +25,7 @@ p.trending-text {
 .homencxtrends {
     padding: 80px 0px;
     background: #FFFFFF;
+    position: relative;
 }
 .buttons-tabs {
     margin-top: 40px;

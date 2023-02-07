@@ -1,6 +1,8 @@
 .widerangencxproducts {
     background: #FFFFFF;
-    padding: 100px 0px 150px 0px;
+    padding: 100px 0px 120px 0px;
+    position: relative;
+    /* height: 1000px !important; */
 }
 .whatwe-head p {
     font-size: 16px;
@@ -433,7 +435,7 @@ span.apisvg {
     transform: rotate(0deg);
     transition: all 0.4s cubic-bezier(1,1,1,1);
 }
-.content p {
+.API-search .content p {
     color: #000000 !important;
     font-family: 'urbanist-regular' !important;
     font-size: 16px !important;
@@ -508,6 +510,28 @@ span.apisvg {
 .TradeNCXToken .colsix p, .TradeNCXToken .colseven p, .TradeNCXToken .coleight p, .TradeNCXToken .colnine p {
     background: rgba(255,255,255,0.6);
     color: #000000;
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+.TradeNCXToken .color:hover, .TradeNCXToken .coltwo p:hover, .TradeNCXToken .colthree p:hover, .TradeNCXToken .colfour p:hover, 
+.TradeNCXToken .colfive p:hover, .TradeNCXToken .colsix p:hover, .TradeNCXToken .colseven p:hover, .TradeNCXToken .coleight p:hover, 
+.TradeNCXToken .colnine p:hover{
+    transform: translateY(0%) scale(1.06);
+    -webkit-transform: translateY(0%) scale(1.06);
+    -moz-transform: translateY(0%) scale(1.06);
+    cursor: pointer;
+}
+.TradeNCXToken .colfour p:nth-child(1):hover, .TradeNCXToken .colsix p:nth-child(1):hover, 
+.TradeNCXToken .colsix p:nth-child(2):hover, .TradeNCXToken .colsix p:nth-child(3):hover, 
+.TradeNCXToken .colseven p:nth-child(1):hover, .TradeNCXToken .colseven p:nth-child(2):hover, 
+.TradeNCXToken .colseven p:nth-child(3):hover, .TradeNCXToken .colseven p:nth-child(4):hover, 
+.TradeNCXToken .coleight p:nth-child(1):hover, .TradeNCXToken .coleight p:nth-child(2):hover, 
+.TradeNCXToken .coleight p:nth-child(3):hover, .TradeNCXToken .coleight p:nth-child(4):hover, 
+.TradeNCXToken .coleight p:nth-child(5):hover, .TradeNCXToken .colfive p:first-child:hover{
+    transform: none !important;
+    -webkit-transform: none !important;
+    -moz-transform: none !important;
+    cursor: inherit !important;
 }
 .colone p{
     color: #000000 !important;
@@ -528,4 +552,46 @@ span.apisvg {
 }
 .TradeNCXToken .tokenhead p{
     width: 13% !important;
+}
+
+
+
+
+/* *********************************************************************************************************************** */
+.sections-links {
+    padding: 0px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.sections-links a.nav-linkss {
+    font-size: 22px;
+    color: #000000;
+    font-family: 'urbanist-semibold';
+}
+.nav-linkss.active{
+    color: #349AFF !important;
+}
+.sections-content .hide {
+    display: block !important;
+}
+.sections-content .active{
+    display: block;
+}
+.stickyrow{
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 0 !important;
+    padding-top: 80px !important;
+}
+@supports (position: sticky) {
+    .is-sticky { 
+    }
+}
+.pro-content.active {
+    opacity: 1;
+    animation: fade 1s linear;
+}
+@keyframes fade {
+  0% { opacity: 0 }
+  100% { opacity: 1 }
 }

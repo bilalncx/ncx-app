@@ -5,10 +5,10 @@ import "animate.css/animate.min.css";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import AccordianPage from '../components/homepage/accordian/accordian';
 import SliderSection from '../components/homepage/4thslidersection/slider';
-import Market1 from '../images/ncx-market-1.png';
-import Market2 from '../images/ncx-market-2.png';
-import Market3 from '../images/ncx-market-3.png';
-import Market4 from '../images/ncx-market-4.png';
+import Market1 from '../images/ncx-market-4.png';
+import Market2 from '../images/ncx-market-5.png';
+import Market3 from '../images/ncx-market-6.png';
+import Market4 from '../images/ncx-market-3.png';
 import Marketpage from '../components/homepage/3rdmarketsection/market';
 import MyFooter from '../components/footer/footer';
 import MyHeader from '../components/header/header';
@@ -23,7 +23,7 @@ import Home2ndSection from '../components/homepage/2ndsection/2ndsection';
 import Home6thVideoSection from '../components/homepage/6thvideosection/newgeneration';
 import Home8thGradientsection from '../components/homepage/8thgradientsection/gradient';
 import Home9thDownloadSection from '../components/homepage/9thdownloadsection/download';
-import NCXDebitCard from '../components/homepage/ncxdebitcardsection/ncxcard';
+// import NCXDebitCard from '../components/homepage/ncxdebitcardsection/ncxcard';
 import NCXEarn from '../components/homepage/EarnNCX/earnncx';
 import NCXEquities from '../components/homepage/ncxequities/equities';
 import NCXCardSlider from '../components/homepage/NCXCardsection/card';
@@ -54,17 +54,17 @@ function MainHome()
                     <div className="row marketimg">
                         <div className="col">
                             <AnimationOnScroll animateIn="animate__fadeIn">
+                                <img src={Market1} alt="NCX" />
+                            </AnimationOnScroll>
+                        </div>
+                        <div className="col">
+                            <AnimationOnScroll animateIn="animate__fadeIn">
                                 <img src={Market2} alt="NCX" />
                             </AnimationOnScroll>
                         </div>
                         <div className="col">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <img src={Market3} alt="NCX" />
-                            </AnimationOnScroll>
-                        </div>
-                        <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <img src={Market1} alt="NCX" />
                             </AnimationOnScroll>
                         </div>
                         <div className="col">
@@ -140,7 +140,7 @@ function MainHome()
             
             <NCXCardSlider />
 
-            <NCXDebitCard />
+            {/* <NCXDebitCard /> */}
 
             <div id="footer-faq">
                 <div id="faq" className="faq-sect">
@@ -168,7 +168,7 @@ function MainHome()
 
             <Home9thDownloadSection />
 
-            <NCXOTCSection />
+            {/* <NCXOTCSection /> */}
 
             <NCXHomeTrends />
             

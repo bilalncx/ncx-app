@@ -1,5 +1,7 @@
 .ncxotcsection {
     padding: 100px 0px 120px 0px;
+    position: relative;
+    background: #000000;
 }
 .ncx-otc {
     display: flex;
