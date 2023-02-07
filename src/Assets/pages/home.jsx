@@ -50,7 +50,6 @@ function MainHome()
             <Home2ndSection />
 
             <div id="market" className="market-exchange">
-                <div className="container">
                     <div className="row marketimg">
                         <div className="col">
                             <AnimationOnScroll animateIn="animate__fadeIn">
@@ -73,6 +72,7 @@ function MainHome()
                             </AnimationOnScroll>
                         </div>
                     </div>
+                <div className="container">
                     <Marketpage />
                 </div>
             </div>

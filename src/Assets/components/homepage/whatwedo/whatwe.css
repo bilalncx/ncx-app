@@ -14,11 +14,11 @@
     font-family: 'urbanist-medium';
     font-size: 48px;
     padding-top: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 button.pro-tabs {
     font-size: 20px;
-    font-family: 'urbanist-semibold';
+    font-family: 'urbanist-medium';
     color: #000;
     border: none;
     padding: 0px;
@@ -527,7 +527,8 @@ span.apisvg {
 .TradeNCXToken .colseven p:nth-child(3):hover, .TradeNCXToken .colseven p:nth-child(4):hover, 
 .TradeNCXToken .coleight p:nth-child(1):hover, .TradeNCXToken .coleight p:nth-child(2):hover, 
 .TradeNCXToken .coleight p:nth-child(3):hover, .TradeNCXToken .coleight p:nth-child(4):hover, 
-.TradeNCXToken .coleight p:nth-child(5):hover, .TradeNCXToken .colfive p:first-child:hover{
+.TradeNCXToken .coleight p:nth-child(5):hover, .TradeNCXToken .colfive p:first-child:hover,
+.TradeNCXToken .colseven p:nth-child(5):hover, .TradeNCXToken .coleight p:nth-child(6):hover{
     transform: none !important;
     -webkit-transform: none !important;
     -moz-transform: none !important;
@@ -538,9 +539,10 @@ span.apisvg {
 }
 .TradeNCXToken .colfour p:nth-child(1), .TradeNCXToken .colsix p:nth-child(1), .TradeNCXToken .colsix p:nth-child(2), 
 .TradeNCXToken .colsix p:nth-child(3), .TradeNCXToken .colseven p:nth-child(1), .TradeNCXToken .colseven p:nth-child(2), 
-.TradeNCXToken .colseven p:nth-child(3), .TradeNCXToken .colseven p:nth-child(4), .TradeNCXToken .coleight p:nth-child(1), 
-.TradeNCXToken .coleight p:nth-child(2), .TradeNCXToken .coleight p:nth-child(3), .TradeNCXToken .coleight p:nth-child(4), 
-.TradeNCXToken .coleight p:nth-child(5), .TradeNCXToken .colfive p:first-child{
+.TradeNCXToken .colseven p:nth-child(3), .TradeNCXToken .colseven p:nth-child(4), .TradeNCXToken .colseven p:nth-child(5), 
+.TradeNCXToken .coleight p:nth-child(1), .TradeNCXToken .coleight p:nth-child(2), .TradeNCXToken .coleight p:nth-child(3), 
+.TradeNCXToken .coleight p:nth-child(4), .TradeNCXToken .coleight p:nth-child(5), .TradeNCXToken .coleight p:nth-child(6), 
+.TradeNCXToken .colfive p:first-child{
     background: rgba(241, 250, 241, 0.3) !important;
 }
 .TradeNCXToken .colnine, .TradeNCXToken p.nine {

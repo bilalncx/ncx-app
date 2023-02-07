@@ -69,27 +69,30 @@
     border-radius: 50%;
 }
 .color-one{
-    background: #3167F7;
+    background: #34A9FF;
 }
 .color-two{
-    background: #5F5DC0;
+    background: #3167F7;
 }
 .color-three{
-    background: #89508A;
+    background: #5F5DC0;
 }
 .color-four{
-    background: #9F4972;
+    background: #89508A;
 }
 .color-five{
-    background: #B5445D;
+    background: #9F4972;
 }
 .color-six{
-    background: #CC3C3F;
+    background: #B5445D;
 }
 .color-seven{
-    background: #E4361F;
+    background: #CC3C3F;
 }
 .color-eight{
+    background: #E4361F;
+}
+.color-nine{
     background: #FA3005;
 }
 .colone p {

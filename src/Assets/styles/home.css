@@ -86,13 +86,14 @@ div#market .container {
 }
 .market-exchange {
     background: #FFFFFF;
-    padding: 100px 0px;
+    padding: 100px 0px 50px 0px;
 }
 .marketimg .col img {
     width: 100%;
 }
 .row.marketimg {
     margin: 0px !important;
+    padding: 0px 50px 30px 50px;
 }
 
 /************************** HomePage FAQ Section Starts from here *************************/
