@@ -5,7 +5,7 @@ const Card = ({ item }) => {
     // destructuring props
     return (
         <div className="container-fluid">
-            <div className="row justify-content-flex-start">
+            <div className="row">
                 {item.map((Val) => {
                     return (
                         <div className='trend-card' key={Val.id}>

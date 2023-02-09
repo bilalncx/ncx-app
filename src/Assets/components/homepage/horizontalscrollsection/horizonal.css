@@ -19,26 +19,9 @@
 }  
 .process-wrap{
   padding: 0px 0px 0px !important;
-  /* height: 3030px !important; */
   min-height: 4800px !important;
   max-height: 6180px !important;
 }
-/* .process {
-  width: 300%;
-  display: flex;
-  -ms-flex-wrap: nowrap;
-  flex-wrap: nowrap;
-  -ms-flex-item-align: center;
-  align-self: center;
-  height: 100vh!important;
-}
-.process__item {
-  display: flex;
-  align-items: center !important;
-  margin: 0 auto !important;
-  column-gap: 50px !important;
-  justify-content: center !important;
-} */
 .process__item .deri-row {
   margin: 0px !important;
 }
@@ -51,6 +34,4 @@
 .tabshorizontal-ss{
   background: #FFFFFF !important;
   padding: 0px 0px 0px 0px;
-  border-top: 1px solid red;
-  border-bottom: 1px solid red;
 }

@@ -69,7 +69,7 @@ p.trending-text {
     cursor: pointer;
 }
 .trend-card:nth-child(2), .trend-card:nth-child(5) {
-    margin: 0px 50px 40px 50px;
+    margin: 0px 30px 40px 30px;
 }
 p.trend-featured {
     color: #D71F27;
@@ -130,4 +130,15 @@ a.trend-seemore::after{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+}
+.cardtrend .row {
+    display: flex;
+    justify-content: center;
+    margin: 0px !important;
+}
+
+@media screen and (max-width: 1300px){
+    .trend-card:nth-child(2), .trend-card:nth-child(5){
+        margin: 0px !important;
+    }
 }

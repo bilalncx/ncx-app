@@ -17,12 +17,33 @@ import NCXTradeToken from '../../homepage/homencxtoken/ncxtoken';
 
 function HomeHorizontalScrollSection(){
 gsap.registerPlugin(ScrollTrigger);
+let horizontalSection = document.querySelector('.horizontal')
+
+console.log(horizontalSection.scrollWidth)
+
+gsap.to('.horizontal', {
+  x: () => horizontalSection.scrollWidth * -1,
+  xPercent: 100,
+  scrollTrigger: {
+    trigger: '.horizontal',
+    start: 'center center',
+    end: '+=3000px',
+    pin: '.container',
+    scrub: true,
+    markers: true,
+    invalidateOnRefresh: true,
+  }
+})
+
+
+
+
   {
     const process = document.querySelector('.process-wrap');
     if ((typeof(process) != 'undefined' && process != null)) {
       let sections = gsap.utils.toArray('.process__item');
       gsap.to(sections, {
-        xPercent: -50 * (sections.length - 1),
+        xPercent: -50 * (sections.length - 2),
         ease: "none",
         scrollTrigger: {
           scroller: ".process-wrap",
@@ -40,7 +61,7 @@ gsap.registerPlugin(ScrollTrigger);
   }
   return (
     <div className="tabshorizontal-ss">
-        <div className="process-wrap">
+        {/* <div className="process-wrap">
             <div className="process">
                 <div className="process__item">
                     <div className="derivatives-trade">
@@ -257,7 +278,32 @@ gsap.registerPlugin(ScrollTrigger);
                     </div>
                 </div>
             </div>
-        </div>
+        </div> */}
+        <div class="section section1">
+  
+  </div>
+  <div class="section sectionspacer"></div>
+  <div class="container">
+  <div class="section section2">
+  </div>
+  <div class="section sectionspacer"></div>
+  <div class="section section3">
+    <div class="horizontal">
+        <section>content starting horizontal</section>
+    <section>next slide in horizontal</section>
+    <section>next slide in horizontal</section>
+    <section>last slide in horizontal</section>
+    </div>
+  
+  </div>
+  <div class="section sectionspacer"></div>
+  <div class="section  section4">
+  </div>
+  </div>
+  <div class="section sectionspacer"></div>
+  <div class="section section5">
+    
+  </div>
     </div>
   );
 }
