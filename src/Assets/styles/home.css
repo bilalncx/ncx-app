@@ -90,11 +90,18 @@ div#market .container {
 }
 .marketimg .col img {
     width: 100%;
+    max-width: 320px;
+}
+.row.marketimg .col {
+    max-width: 320px;
 }
 .row.marketimg {
     margin: 0px !important;
     padding: 0px 50px 30px 50px;
+    display: flex;
+    justify-content: center;
 }
+
 
 /************************** HomePage FAQ Section Starts from here *************************/
 div#footer-faq {

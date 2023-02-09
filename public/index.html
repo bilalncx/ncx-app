@@ -22,6 +22,10 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script type="text/Javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js" ></script>
+    
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -52,59 +56,3 @@
     -->
   </body>
 </html>
-
-<!-- <script>
-  $(document).ready(function(){
-    $('.loadingbar').delay(4500).animate({left: '0'}, 5500);
-    $('.loadingBox').delay(500).animate({opacity: '1'}, 1000);
-    $('.splashupperscreen').delay(9000).animate({top: '-100%'}, 2000);
-    $('.splashlowerscreen').delay(9000).animate({bottom: '-100%', opacity: '0'}, 3000);
-
-    $('.splashScreen').delay(8300).queue(function(){
-      $('.splashScreen').addClass("visibleSplash");
-      $('.loadingContainer').delay(8000).addClass('splashdone');
-      $('body').css({overflow: 'visible'});
-      $('header.main-header').addClass("zindex-visible");
-    });
-
-    jQuery(window).on('load', function(){
-      jQuery(this).scrollTop(0);
-    });
-  });
-</script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript">
-  $(document).ready(function() {
-    if (window.location.href.indexOf("blog") > -1) {
-      // alert("your url contains the name franky");
-      $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("privacy-policy") > -1) {
-      // alert("your url contains the name franky");
-      $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("kyc-aml-policy") > -1) {
-      // alert("your url contains the name franky");
-      $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("user-agreement") > -1) {
-      // alert("your url contains the name franky");
-      $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("cookie-policy") > -1){
-      $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("api-agreement") > -1){
-      $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("buy-crypto") > -1){
-      $("body").addClass("body-overflow");
-    } else{
-      $("body").removeClass("body-overflow");
-    }
-
-    $(window).scroll(function() {    
-      var scroll = $(window).scrollTop();
-      if (scroll >= 100) {
-        $("#header-row").addClass("darkheader");
-      }else{
-        $("#header-row").removeClass("darkheader");
-      }
-    });
-  });
-</script> -->

@@ -50,10 +50,6 @@ import GBPCHF from '../../../images/GBPCHF.png';
 
 
 function HomeNCXEquitiesSection(){
-    const [toggleState, setToggleState] = useState(1);
-    const toggleTab = (index) => {
-        setToggleState(index);
-    };
     return(
         <div className="ncxequities">
             <div className="container">
@@ -70,726 +66,729 @@ function HomeNCXEquitiesSection(){
                         </AnimationOnScroll>
                     </div>
                     <div className="col view-all">
-                        <AnimationOnScroll animateIn="animate__fadeIn">
+                        {/* <AnimationOnScroll animateIn="animate__fadeIn">
                             <Button href="#">View All</Button>
-                        </AnimationOnScroll>
+                        </AnimationOnScroll> */}
                     </div>
                 </div>
-
                 <div id="equities-tabs-sect">
-                    <div className="buttons-tab">
-                        <button
-                            className={toggleState === 1 ? "equity-tabs active" : "equity-tabs"}
-                            onClick={() => toggleTab(1)}
-                        >
-                        Stocks
-                        </button>
-                        <button
-                            className={toggleState === 2 ? "equity-tabs active" : "equity-tabs"}
-                            onClick={() => toggleTab(2)}
-                        >
-                        Currencies
-                        </button>
-                        <button
-                            className={toggleState === 3 ? "equity-tabs active" : "equity-tabs"}
-                            onClick={() => toggleTab(3)}
-                        >
-                        Indices
-                        </button>
-                    </div>
-                    <div className={toggleState === 1 ? "equity-content  active" : "equity-content"}>
-                        <div className="equitytable row">
-                            <div className="col green">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Tesla />
-                                        <div className="imgtxt">
-                                            <h3>TSLA</h3>
-                                            <p>Tesla Motors, Inc.</p>
-                                        </div>
+                    <div className="equitytable row">
+                        <div className="col green">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Tesla />
+                                    <div className="imgtxt">
+                                        <h3>TSLA</h3>
+                                        <p>Tesla Motors, Inc.</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>122.22</h3>
-                                            <p>(0.94%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>122.22</h3>
+                                        <p>(0.94%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Amazon />
-                                        <div className="imgtxt">
-                                            <h3>AMZN</h3>
-                                            <p>Amazon.com Inc</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Amazon />
+                                    <div className="imgtxt">
+                                        <h3>AMZN</h3>
+                                        <p>Amazon.com Inc</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>97.96</h3>
-                                            <p>(2.99%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>97.96</h3>
+                                        <p>(2.99%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Apple />
-                                        <div className="imgtxt">
-                                            <h3>AAPL</h3>
-                                            <p>Apple</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Apple />
+                                    <div className="imgtxt">
+                                        <h3>AAPL</h3>
+                                        <p>Apple</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>134.51</h3>
-                                            <p>(1.01%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>134.51</h3>
+                                        <p>(1.01%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Meta />
-                                        <div className="imgtxt">
-                                            <h3>META</h3>
-                                            <p>Meta Platforms Inc</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Meta />
+                                    <div className="imgtxt">
+                                        <h3>META</h3>
+                                        <p>Meta Platforms Inc</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>136.70</h3>
-                                            <p>(0.20%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>136.70</h3>
+                                        <p>(0.20%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Microsoft />
-                                        <div className="imgtxt">
-                                            <h3>MSFT</h3>
-                                            <p>Microsoft</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Microsoft />
+                                    <div className="imgtxt">
+                                        <h3>MSFT</h3>
+                                        <p>Microsoft</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>238.78</h3>
-                                            <p>(0.30%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>238.78</h3>
+                                        <p>(0.30%)</p>
                                     </div>
-                                </a>
-                            </div>
-                            <div className="col red">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Nike />
-                                        <div className="imgtxt">
-                                            <h3>NIKE</h3>
-                                            <p>NIKE</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>136.70</h3>
-                                            <p>(0.20%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <CityGroup />
-                                        <div className="imgtxt">
-                                            <h3>Citygroup</h3>
-                                            <p>Citygroup</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>238.78</h3>
-                                            <p>(0.30%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <NIO />
-                                        <div className="imgtxt">
-                                            <h3>NIO</h3>
-                                            <p>Nio Inc.-ADR</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>11.77</h3>
-                                            <p>(0.08%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <GOOG />
-                                        <div className="imgtxt">
-                                            <h3>GOOG</h3>
-                                            <p>Alphabet</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>92.62</h3>
-                                            <p>(0.97%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <NVDA />
-                                        <div className="imgtxt">
-                                            <h3>NVDA</h3>
-                                            <p>NIVIDIA Corporation</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>168.66</h3>
-                                            <p>(2.35%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                                </div>
+                            </a>
                         </div>
-                        <div className="equitytable2 row">
-                            <div className="col empty">
-                                    <div className="emptyboxtxt">
-                                        <p>Community Choice</p>
-                                        <h2>Show me the most popular <span>Stocks</span></h2>
+                        <div className="col red">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Nike />
+                                    <div className="imgtxt">
+                                        <h3>NIKE</h3>
+                                        <p>NIKE</p>
                                     </div>
-                                    <div className="view-all">
-                                        <Button href="#">View All</Button>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>136.70</h3>
+                                        <p>(0.20%)</p>
                                     </div>
-                            </div>
-                            <div className="col black">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Goldman />
-                                        <div className="imgtxt">
-                                            <h3>GLS</h3>
-                                            <p>Goldman Sachs Group Inc</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <CityGroup />
+                                    <div className="imgtxt">
+                                        <h3>Citygroup</h3>
+                                        <p>Citygroup</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>122.22</h3>
-                                            <p>(0.94%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>238.78</h3>
+                                        <p>(0.30%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <VISA />
-                                        <div className="imgtxt">
-                                            <h3>V</h3>
-                                            <p>Visa</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <NIO />
+                                    <div className="imgtxt">
+                                        <h3>NIO</h3>
+                                        <p>Nio Inc.-ADR</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>97.96</h3>
-                                            <p>(2.99%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>11.77</h3>
+                                        <p>(0.08%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Netflix />
-                                        <div className="imgtxt">
-                                            <h3>NFLX</h3>
-                                            <p>Netflix</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <GOOG />
+                                    <div className="imgtxt">
+                                        <h3>GOOG</h3>
+                                        <p>Alphabet</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>134.51</h3>
-                                            <p>(1.01%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>92.62</h3>
+                                        <p>(0.97%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <XOM />
-                                        <div className="imgtxt">
-                                            <h3>XOM</h3>
-                                            <p>Exxon Mobil Corporation</p>
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <NVDA />
+                                    <div className="imgtxt">
+                                        <h3>NVDA</h3>
+                                        <p>NIVIDIA Corporation</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>136.70</h3>
-                                            <p>(0.20%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>168.66</h3>
+                                        <p>(2.35%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <VOK />
-                                        <div className="imgtxt">
-                                            <h3>VOW3</h3>
-                                            <p>Volkswagen</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>238.78</h3>
-                                            <p>(0.30%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <div className={toggleState === 3 ? "equity-content  active" : "equity-content"}>
-                        <div className="equitytable row">
-                            <div className="col green">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <German />
-                                        <div className="imgtxt">
-                                            <h3>DAXEUR / FDAX</h3>
-                                            <p>Germany 40 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1534.96</h3>
-                                            <p>(0.43%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <France />
-                                        <div className="imgtxt">
-                                            <h3>F40EUR / CAC</h3>
-                                            <p>France 40 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>7140.85</h3>
-                                            <p>(0.92%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <NCXUK />
-                                        <div className="imgtxt">
-                                            <h3>FTSGBP / FTSE</h3>
-                                            <p>UK 100 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>7849.31</h3>
-                                            <p>(0.61%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Switzerland />
-                                        <div className="imgtxt">
-                                            <h3>SMICHF</h3>
-                                            <p>Switzerland 20 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>45.06</h3>
-                                            <p>(0.44%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <EURO50 />
-                                        <div className="imgtxt">
-                                            <h3>ESXEUR</h3>
-                                            <p>EURO 50 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>4205.34</h3>
-                                            <p>(0.78%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Spain />
-                                        <div className="imgtxt">
-                                            <h3>IBXEUR</h3>
-                                            <p>Spain 35 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>9160.10</h3>
-                                            <p>(0.20%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <DJIUSD />
-                                        <div className="imgtxt">
-                                            <h3>DJIUSD</h3>
-                                            <p>US 30 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>33762.45</h3>
-                                            <p>(0.16%)</p>
-                                        </div>
-                                    </div>
-                                </a>
+                    <div className="equitytable2 row">
+                        <div className="col empty">
+                            <div className="emptyboxtxt">
+                                <p>Community Choice</p>
+                                <h2>Show me the most popular <span>Stocks</span></h2>
                             </div>
-                            <div className="col green">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <SPXUSD />
-                                        <div className="imgtxt">
-                                            <h3>SPXUSD</h3>
-                                            <p>US 500 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>4110.26</h3>
-                                            <p>(0.24%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <NDXUSD />
-                                        <div className="imgtxt">
-                                            <h3>NDXUSD</h3>
-                                            <p>US 100 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>13.88</h3>
-                                            <p>(0.36%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Japan />
-                                        <div className="imgtxt">
-                                            <h3>NIKJPY / NIK</h3>
-                                            <p>Japan 225 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>132.033</h3>
-                                            <p>(0.24%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Hongkong />
-                                        <div className="imgtxt">
-                                            <h3>HSIHKD</h3>
-                                            <p>Hong Kong 50 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>21151.60</h3>
-                                            <p>(1.53%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <Australia />
-                                        <div className="imgtxt">
-                                            <h3>ASXAUD</h3>
-                                            <p>Australia 200 Index</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>7541.91</h3>
-                                            <p>(0.22%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <China />
-                                        <div className="imgtxt">
-                                            <h3>XINUSD</h3>
-                                            <p>China 50 Index (USD)</p>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>13445.00</h3>
-                                            <p>(1.19%)</p>
-                                        </div>
-                                    </div>
-                                </a>
+                            <div className="view-all">
+                                <Button href="#">View All</Button>
                             </div>
+                        </div>
+                        <div className="col black">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Goldman />
+                                    <div className="imgtxt">
+                                        <h3>GLS</h3>
+                                        <p>Goldman Sachs Group Inc</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>122.22</h3>
+                                        <p>(0.94%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <VISA />
+                                    <div className="imgtxt">
+                                        <h3>V</h3>
+                                        <p>Visa</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>97.96</h3>
+                                        <p>(2.99%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Netflix />
+                                    <div className="imgtxt">
+                                        <h3>NFLX</h3>
+                                        <p>Netflix</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>134.51</h3>
+                                        <p>(1.01%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <XOM />
+                                    <div className="imgtxt">
+                                        <h3>XOM</h3>
+                                        <p>Exxon Mobil Corporation</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>136.70</h3>
+                                        <p>(0.20%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <VOK />
+                                    <div className="imgtxt">
+                                        <h3>VOW3</h3>
+                                        <p>Volkswagen</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>238.78</h3>
+                                        <p>(0.30%)</p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <div className={toggleState === 2 ? "equity-content  active" : "equity-content"}>
-                        <div id="currenciesss" className="equitytable row">
-                            <div className="col green">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <EURUSD />
-                                        <div className="imgtxt">
-                                            <h3>EURUSD</h3>
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1.07533</h3>
-                                            <p>(0.30%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <GBPUSD />
-                                        <div className="imgtxt">
-                                            <h3>GBPUSD</h3>
-                                            {/* <p>France 40 Index</p> */}
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1.20523</h3>
-                                            <p>(0.17%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={USDCAD} alt="USDCAD" />
-                                        <div className="imgtxt">
-                                            <h3>USDCAD</h3>
-                                            {/* <p>UK 100 Index</p> */}
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1.34412</h3>
-                                            <p>(0.20%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <USDCHF />
-                                        <div className="imgtxt">
-                                            <h3>USDCHF</h3>
-                                            {/* <p>Switzerland 20 Index</p> */}
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>0.92697</h3>
-                                            <p>(0.06%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <EURGBP />
-                                        <div className="imgtxt">
-                                            <h3>EURGBP</h3>
-                                            {/* <p>EURO 50 Index</p> */}
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>0.89156</h3>
-                                            <p>(0.47%)</p>
-                                        </div>
-                                    </div>
-                                </a>
+                </div>
+            </div>
+
+            <div className="container">
+                <div className="row equitiesrow indices">
+                    <div className="col">
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <div className="ncx-equities">
+                                < img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
+                                <p>EFT's</p>
                             </div>
-                            <div className="col green">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={AUDUSD} alt="AUDUSD" />
-                                        <div className="imgtxt">
-                                            <h3>AUDUSD</h3>
-                                            {/* <p>Spain 35 Index</p> */}
-                                        </div>
+                        </AnimationOnScroll>
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <p className="equity-text">Trade world markets with NCX superior execution</p>
+                        </AnimationOnScroll>
+                    </div>
+                    <div className="col view-all">
+                        {/* <AnimationOnScroll animateIn="animate__fadeIn">
+                            <Button href="#">View All</Button>
+                        </AnimationOnScroll> */}
+                    </div>
+                </div>
+                <div id="equities-tabs-sect">
+                    <div className="equitytable row">
+                        <div className="col green">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <German />
+                                    <div className="imgtxt">
+                                        <h3>DAXEUR / FDAX</h3>
+                                        <p>Germany 40 Index</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>0.68895</h3>
-                                            <p>(0.21%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1534.96</h3>
+                                        <p>(0.43%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={USDCNH} alt="USDCNH" />
-                                        <div className="imgtxt">
-                                            <h3>USDCNH</h3>
-                                            {/* <p>US 30 Index</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <France />
+                                    <div className="imgtxt">
+                                        <h3>F40EUR / CAC</h3>
+                                        <p>France 40 Index</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>0.79114</h3>
-                                            <p>(0.29%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>7140.85</h3>
+                                        <p>(0.92%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <EURCAD />
-                                        <div className="imgtxt">
-                                            <h3>EURCAD</h3>
-                                            {/* <p>US 30 Index</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <NCXUK />
+                                    <div className="imgtxt">
+                                        <h3>FTSGBP / FTSE</h3>
+                                        <p>UK 100 Index</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1.44551</h3>
-                                            <p>(0.07%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>7849.31</h3>
+                                        <p>(0.61%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={GBPAUD} alt="GBPAUD" />
-                                        <div className="imgtxt">
-                                            <h3>GBPAUD</h3>
-                                            {/* <p>US 500 Index</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <EURO50 />
+                                    <div className="imgtxt">
+                                        <h3>ESXEUR</h3>
+                                        <p>EURO 50 Index</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1.74990</h3>
-                                            <p>(0.47%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>4205.34</h3>
+                                        <p>(0.78%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <EURJPY />
-                                        <div className="imgtxt">
-                                            <h3>EURJPY</h3>
-                                            {/* <p>US 100 Index</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Spain />
+                                    <div className="imgtxt">
+                                        <h3>IBXEUR</h3>
+                                        <p>Spain 35 Index</p>
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>142.89</h3>
-                                            <p>(0.27%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>9160.10</h3>
+                                        <p>(0.20%)</p>
                                     </div>
-                                </a>
-                                
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <DJIUSD />
+                                    <div className="imgtxt">
+                                        <h3>DJIUSD</h3>
+                                        <p>US 30 Index</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>33762.45</h3>
+                                        <p>(0.16%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div className="col green">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <SPXUSD />
+                                    <div className="imgtxt">
+                                        <h3>SPXUSD</h3>
+                                        <p>US 500 Index</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>4110.26</h3>
+                                        <p>(0.24%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <NDXUSD />
+                                    <div className="imgtxt">
+                                        <h3>NDXUSD</h3>
+                                        <p>US 100 Index</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>13.88</h3>
+                                        <p>(0.36%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Japan />
+                                    <div className="imgtxt">
+                                        <h3>NIKJPY / NIK</h3>
+                                        <p>Japan 225 Index</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>132.033</h3>
+                                        <p>(0.24%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Hongkong />
+                                    <div className="imgtxt">
+                                        <h3>HSIHKD</h3>
+                                        <p>Hong Kong 50 Index</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>21151.60</h3>
+                                        <p>(1.53%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <Australia />
+                                    <div className="imgtxt">
+                                        <h3>ASXAUD</h3>
+                                        <p>Australia 200 Index</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>7541.91</h3>
+                                        <p>(0.22%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <China />
+                                    <div className="imgtxt">
+                                        <h3>XINUSD</h3>
+                                        <p>China 50 Index (USD)</p>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>13445.00</h3>
+                                        <p>(1.19%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className="container">
+                <div className="row equitiesrow currencies">
+                    <div className="col">
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <div className="ncx-equities">
+                                < img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
+                                <p>Currencies</p>
+                            </div>
+                        </AnimationOnScroll>
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <p className="equity-text">Trade world markets with NCX superior execution</p>
+                        </AnimationOnScroll>
+                    </div>
+                    <div className="col view-all">
+                        {/* <AnimationOnScroll animateIn="animate__fadeIn">
+                            <Button href="#">View All</Button>
+                        </AnimationOnScroll> */}
+                    </div>
+                </div>
+                <div id="equities-tabs-sect">
+                    <div className="equitytable row">
+                        <div className="col green">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <EURUSD />
+                                    <div className="imgtxt">
+                                        <h3>EURUSD</h3>
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1.07533</h3>
+                                        <p>(0.30%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <GBPUSD />
+                                    <div className="imgtxt">
+                                        <h3>GBPUSD</h3>
+                                        {/* <p>France 40 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1.20523</h3>
+                                        <p>(0.17%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={USDCAD} alt="USDCAD" />
+                                    <div className="imgtxt">
+                                        <h3>USDCAD</h3>
+                                        {/* <p>UK 100 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1.34412</h3>
+                                        <p>(0.20%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <USDCHF />
+                                    <div className="imgtxt">
+                                        <h3>USDCHF</h3>
+                                        {/* <p>Switzerland 20 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>0.92697</h3>
+                                        <p>(0.06%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <EURGBP />
+                                    <div className="imgtxt">
+                                        <h3>EURGBP</h3>
+                                        {/* <p>EURO 50 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>0.89156</h3>
+                                        <p>(0.47%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div className="col green">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={AUDUSD} alt="AUDUSD" />
+                                    <div className="imgtxt">
+                                        <h3>AUDUSD</h3>
+                                        {/* <p>Spain 35 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>0.68895</h3>
+                                        <p>(0.21%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={USDCNH} alt="USDCNH" />
+                                    <div className="imgtxt">
+                                        <h3>USDCNH</h3>
+                                        {/* <p>US 30 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>0.79114</h3>
+                                        <p>(0.29%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <EURCAD />
+                                    <div className="imgtxt">
+                                        <h3>EURCAD</h3>
+                                        {/* <p>US 30 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1.44551</h3>
+                                        <p>(0.07%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={GBPAUD} alt="GBPAUD" />
+                                    <div className="imgtxt">
+                                        <h3>GBPAUD</h3>
+                                        {/* <p>US 500 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1.74990</h3>
+                                        <p>(0.47%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <EURJPY />
+                                    <div className="imgtxt">
+                                        <h3>EURJPY</h3>
+                                        {/* <p>US 100 Index</p> */}
+                                    </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>142.89</h3>
+                                        <p>(0.27%)</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="currenciesss" className="equitytable2 row">
+                        <div className="col empty">
+                            <div className="emptyboxtxt">
+                                <p>Community Choice</p>
+                                <h2>Show me the most popular <span>Stocks</span></h2>
+                            </div>
+                            <div className="view-all">
+                                <Button href="#">View All</Button>
                             </div>
                         </div>
-                        <div id="currenciesss" className="equitytable2 row">
-                            <div className="col empty">
-                                    <div className="emptyboxtxt">
-                                        <p>Community Choice</p>
-                                        <h2>Show me the most popular <span>Stocks</span></h2>
+                        <div className="col black">
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={GBPCAD} alt="GBPCAD" />
+                                    <div className="imgtxt">
+                                        <h3>GBPCAD</h3>
+                                        {/* <p>Japan 225 Index</p> */}
                                     </div>
-                                    <div className="view-all">
-                                        <Button href="#">View All</Button>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1.6210</h3>
+                                        <p>(0.43%)</p>
                                     </div>
-                            </div>
-                            <div className="col black">
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={GBPCAD} alt="GBPCAD" />
-                                        <div className="imgtxt">
-                                            <h3>GBPCAD</h3>
-                                            {/* <p>Japan 225 Index</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={NZDUSD} alt="NZDUSD" />
+                                    <div className="imgtxt">
+                                        <h3>NZDUSD</h3>
+                                        {/* <p>Hong Kong 50 Index</p> */}
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1.6210</h3>
-                                            <p>(0.43%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>0.630011</h3>
+                                        <p>(0.23%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={NZDUSD} alt="NZDUSD" />
-                                        <div className="imgtxt">
-                                            <h3>NZDUSD</h3>
-                                            {/* <p>Hong Kong 50 Index</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={USDTRY} alt="USDTRY" />
+                                    <div className="imgtxt">
+                                        <h3>USDTRY</h3>
+                                        {/* <p>Australia 200 Index</p> */}
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>0.630011</h3>
-                                            <p>(0.23%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>18.82351</h3>
+                                        <p>(0.58%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={USDTRY} alt="USDTRY" />
-                                        <div className="imgtxt">
-                                            <h3>USDTRY</h3>
-                                            {/* <p>Australia 200 Index</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={CADJPY} alt="CADJPY" />
+                                    <div className="imgtxt">
+                                        <h3>CADJPY</h3>
+                                        {/* <p>China 50 Index (USD)</p> */}
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>18.82351</h3>
-                                            <p>(0.58%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>98.502</h3>
+                                        <p>(0.33%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={CADJPY} alt="CADJPY" />
-                                        <div className="imgtxt">
-                                            <h3>CADJPY</h3>
-                                            {/* <p>China 50 Index (USD)</p> */}
-                                        </div>
+                                </div>
+                            </a>
+                            <a href="https://ncx.cx" className="tableshadow row">
+                                <div className="col">
+                                    <img className="picimg" src={GBPCHF} alt="GBPCHF" />
+                                    <div className="imgtxt">
+                                        <h3>GBPCHF</h3>
+                                        {/* <p>China 50 Index (USD)</p> */}
                                     </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>98.502</h3>
-                                            <p>(0.33%)</p>
-                                        </div>
+                                </div>
+                                <div className="col">
+                                    <div className="nmbrtxt">
+                                        <h3>1.11765</h3>
+                                        <p>(0.21%)</p>
                                     </div>
-                                </a>
-                                <a href="https://ncx.cx" className="tableshadow row">
-                                    <div className="col">
-                                        <img className="picimg" src={GBPCHF} alt="GBPCHF" />
-                                        <div className="imgtxt">
-                                            <h3>GBPCHF</h3>
-                                            {/* <p>China 50 Index (USD)</p> */}
-                                        </div>
-                                    </div>
-                                    <div className="col">
-                                        <div className="nmbrtxt">
-                                            <h3>1.11765</h3>
-                                            <p>(0.21%)</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>

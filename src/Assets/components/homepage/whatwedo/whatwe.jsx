@@ -227,7 +227,7 @@ function WhatweDoSection(){
                         </div>
                     </div>
                     <div id="content-5" className={toggleState === 5 ? "pro-content active" : "pro-content"}>
-                    <div className="cryptotrading-div">
+                        <div className="cryptotrading-div">
                             <div className="deri-row">
                                 <div className="col">
                                     <h1 className="margin-bottomzero">Trading just got easier with NCX</h1>

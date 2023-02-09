@@ -228,3 +228,10 @@ button.equity-tabs {
 button.equity-tabs.active {
     color: #34A9FF;
 }
+
+.row.equitiesrow.indices {
+    margin: 80px 0px 0px 0px !important;
+}
+.row.equitiesrow.currencies {
+    margin: 80px 0px 0px 0px !important;
+}

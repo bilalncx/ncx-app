@@ -51,6 +51,7 @@ button.pro-tabs.active {
     margin: 0 auto;
     margin-top: 20px;
     min-height: 586px;
+    min-width: 1261px !important;
 }
 .deri-row .col {
     width: 50%;
