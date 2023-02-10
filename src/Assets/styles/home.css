@@ -19,6 +19,10 @@
     font-family: 'urbanist-semibold';
     src: url(../fonts/Urbanist-SemiBold.ttf);
 }
+@font-face {
+    font-family: 'hauora-light';
+    src: url(../fonts/Hauora-Light.ttf);
+}
 /************************** Body Fonts family Ends from here *************************/
 
 .body-overflow {

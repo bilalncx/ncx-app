@@ -1,5 +1,5 @@
 .accordian h2 {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 26px;
     color: #FFFFFF;
     font-family: 'urbanist-regular' !important;
@@ -16,7 +16,7 @@
 .accordian .content p {
     color: #FFFF;
     text-align: left;
-    font-family: 'urbanist-regular' !important;
+    font-family: 'urbanist-light' !important;
     font-size: 16px;
 }
 .content {

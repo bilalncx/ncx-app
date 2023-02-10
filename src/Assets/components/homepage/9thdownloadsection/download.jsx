@@ -10,6 +10,7 @@ import DownloadBackgroundVideo from '../../../images/ncx-mountain.mp4';
 function Home9thDownloadSection(){
     return(
         <div className="download">
+            <AnimationOnScroll animateIn="animate__fadeIn">
             <video autoPlay loop muted playsInline id="DownloadVideo">
                 <source src={DownloadBackgroundVideo} type='video/mp4' />
             </video>
@@ -30,18 +31,15 @@ function Home9thDownloadSection(){
                                 </div>
                             </div>
                             <div className="animtation">
-                                <AnimationOnScroll animateIn="animate__fadeIn">
                                     <h1>Download App, Trade on the go!</h1>
-                                </AnimationOnScroll>
                             </div>
                         </div>
-                        <di className="bsss">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
+                        <div className="bsss">
                                 <img src={NCXExchange} alt="NCX Exchange" />
-                            </AnimationOnScroll>
-                        </di>
+                        </div>
                     </div>
                 </div>
+                </AnimationOnScroll>
             </div>
     )
 }

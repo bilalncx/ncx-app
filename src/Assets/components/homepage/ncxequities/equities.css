@@ -51,10 +51,10 @@ p.equity-text {
     justify-content: center;
     padding-top: 30px;
     margin: 0px !important;
-    column-gap: 50px;
+    column-gap: 30px;
 }
 .equitytable2{
-    padding-top: 50px !important;
+    padding-top: 30px !important;
 }
 .equitytable.row .col.green, .equitytable2 .col.empty {
     width: 550px !important;
