@@ -1,0 +1,112 @@
+.ncxapp-section {
+    padding: 100px 0px 20px 0px;
+}
+.ncxapp-section .row{
+    margin: 0px;
+    min-height: 816px;
+}
+.ncxapp-section .row:before, .ncxapp-section .row:after{
+    display: none;
+}
+.ncxapp-section .row .col:first-child{
+    width: 40%;
+    background-color: #000000;
+    background: url(../../../images/ncx-faq-mblbg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 120px 80px;
+    flex: inherit;
+}
+.ncxapp-section .row .col:last-child{
+    width: 60%;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.ncxapp-section .row .col .mobile-photo img{
+    max-width: 320px;
+}
+.ncxapp-section .row .col:first-child h1 {
+    font-size: 40px;
+    color: #FFFFFF;
+    line-height: 46px;
+    max-width: 236px;
+}
+.ncxapp-section .row .col:first-child p{
+    font-size: 16px;
+    line-height: 24px;
+    padding: 20px 0px;
+    font-family: 'urbanist-light';
+    color: #FFFFFF;
+    width: 60%;
+}
+.barcodd img {
+    max-width: 110px;
+    padding-left: 10px;
+}
+.barcodd p {
+    font-size: 12px !important;
+    line-height: 16px !important;
+    padding: 0px !important;
+    width: 30% !important;
+    text-align: center;
+    padding-left: 10px !important;
+}
+.apps-divi {
+    display: grid;
+    gap: 10px;
+    padding-top: 20px;
+}
+.apps-divi svg {
+    width: 135px;
+    height: auto;
+}
+.ncxapp-section .row .col .mobile-photo{
+    position: relative;
+}
+.ncxapp-section .row .col .mobile-photo img {
+    max-width: 410px;
+    position: relative;
+    left: -190px;
+}
+.app-texts-src {
+    position: relative;
+    width: 65%;
+}
+.apptexts h1 {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'urbanist-medium';
+}
+.apptexts p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'urbanist-light';
+    color: #747272;
+}
+.mobile-photo {
+    width: 35%;
+}
+.apptexts {
+    margin-bottom: 30px;
+    position: relative;
+}
+.apptexts:before {
+    content: '';
+    position: absolute;
+    width: 70px;
+    height: 4px;
+    background: #D9D9D9;
+    display: block;
+    left: -101px;
+    /* z-index: -1; */
+    top: 12px;
+}
+
+@media screen and (max-width: 800px){
+    .ncxapp-section{
+        display: none;
+    }
+}

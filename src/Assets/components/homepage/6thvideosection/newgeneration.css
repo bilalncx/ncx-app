@@ -109,3 +109,62 @@ h2.secondtask{
 .taskdiv.one{
     gap: 55px;
 }
+
+@media screen and (max-width: 800px) {
+    .new-generation{
+        padding: 50px 0px;
+    }
+    .generate-div, .generate-video{
+        width: 100%;
+    }
+    .new-generation .container{
+        display: block;
+    }
+    .generate-div h1{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .generate-div p{
+        width: 100%;
+        font-size: 14px;
+        line-height: 20px;
+        font-family: 'urbanist-regular';
+    }
+    .ncxtask.row{
+        margin-top: 30px !important;
+        justify-content: space-between;
+    }
+    .ncxtask.row:before, .ncxtask.row:after{
+        display: none;
+    }
+    .taskdiv {
+        width: 49%;
+        margin-right: 0px;
+        max-height: 170px;
+        gap: 40px !important;
+        padding: 15px 10px 15px 15px !important;
+    }
+    .taskdiv.one{
+        gap: 29px !important;
+    }
+    .taskdiv h3{
+        font-size: 28px;
+        font-family: 'urbanist-medium';
+    }
+    .taskdiv h3 span{
+        font-size: 12px;
+        font-family: 'urbanist-regular';
+    }
+    .generate-video{
+        margin-top: 30px;
+    }
+    .text212 h4 {
+        font-size: 14px;
+        font-family: 'urbanist-medium';
+    }
+    .buttoninfo a{
+        width: 95px;
+        height: 30px;
+        font-size: 12px !important;
+    }
+}

@@ -101,10 +101,11 @@ function WhatweDoSection(){
                                     </div>
                                     <div className="bullets">
                                         <span>Metals Trading</span>
-                                        <span>ETFs Trading</span>
+                                        <span className="mbl-blthide">ETFs Trading</span>
                                         <span>Trade with up to 100x Leverage</span>
                                     </div>
                                     <div className="bullets">
+                                        <span className="mbl-bltshow">ETFs Trading</span>
                                         <span>Trade World Markets with NCX Superior Execution</span>
                                     </div>
                                     <p className="deriv-p">The more you trade, the higher your level, earn NCX Tokens with every level and better trading conditions</p>

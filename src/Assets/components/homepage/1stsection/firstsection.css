@@ -97,6 +97,73 @@
     column-gap: 15px;
     padding-top: 20px;
 }
-.img001 img {
+.img001 svg {
     width: 134px;
+    height: auto;
+}
+@media screen and (min-width: 801px){
+    .hashtag.mobile {
+        display: none;
+    }
+    .mobile-currenciesrow{
+        display: none;
+    }
+}
+@media screen and (max-width: 800px){
+    .hero-section .asss{
+        padding-left: 0px;
+        padding-top: 50px !important;
+        padding-right: 0px !important;
+    }
+    span.hide-onmbl {
+        display: none;
+    }
+    .img001 svg {
+        width: 110px;
+        height: auto;
+    }
+    .img001{
+        padding-top: 10px !important;
+    }
+    div#videosection{
+        width: 100% !important;
+    }
+    #hero-video{
+        max-width: 300px;
+    }
+    .currencies-options.row {
+        padding: 0px 20px;
+    }
+    .bar-grade33{
+        width: 100% !important;
+        margin-bottom: 30px !important;
+        padding: 0px !important;
+    }
+    .currencies-options.row .col{
+        display: none;
+    }
+    .mobile-currenciesrow .onembl .col {
+        display: block !important;
+        width: 50% !important;
+    }
+    .mobile-currenciesrow{
+        padding: 0px !important;
+    }
+    .mobile-currenciesrow .onembl {
+        display: flex !important;
+        column-gap: 60px;
+        margin-bottom: 30px;
+    }
+    .mobile-currenciesrow .onembl span.balance {
+        font-size: 26px !important;
+        line-height: 32px !important;
+        text-align: center !important;
+    }
+    .mobile-currenciesrow .onembl p{
+        font-size: 14px !important;
+        line-height: 18px !important;
+        text-align: center !important;
+        padding: 0px 15px !important;
+    }
+
 }

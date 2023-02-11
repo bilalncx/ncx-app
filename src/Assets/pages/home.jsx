@@ -4,6 +4,7 @@ import '../styles/media-query.css'
 import "animate.css/animate.min.css";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import AccordianPage from '../components/homepage/accordian/accordian';
+import NCXBlackLogo from '../images/ncx-black-logo.svg';
 import SliderSection from '../components/homepage/4thslidersection/slider';
 import Market1 from '../images/ncx-market-4.png';
 import Market2 from '../images/ncx-market-5.png';
@@ -51,28 +52,39 @@ function MainHome()
             <Home2ndSection />
 
             <div id="market" className="market-exchange">
-                    <div className="row marketimg">
-                        <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <img src={Market1} alt="NCX" />
-                            </AnimationOnScroll>
-                        </div>
-                        <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <img src={Market2} alt="NCX" />
-                            </AnimationOnScroll>
-                        </div>
-                        <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <img src={Market3} alt="NCX" />
-                            </AnimationOnScroll>
-                        </div>
-                        <div className="col">
-                            <AnimationOnScroll animateIn="animate__fadeIn">
-                                <img src={Market4} alt="NCX" />
-                            </AnimationOnScroll>
-                        </div>
+                <div className="row marketimg">
+                    <div className="col">
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <img src={Market1} alt="NCX" />
+                        </AnimationOnScroll>
                     </div>
+                    <div className="col">
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <img src={Market2} alt="NCX" />
+                        </AnimationOnScroll>
+                    </div>
+                    <div className="col">
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <img src={Market3} alt="NCX" />
+                        </AnimationOnScroll>
+                    </div>
+                    <div className="col">
+                        <AnimationOnScroll animateIn="animate__fadeIn">
+                            <img src={Market4} alt="NCX" />
+                        </AnimationOnScroll>
+                    </div>
+                </div>
+                <div className="mbl-heading">
+                    <AnimationOnScroll animateIn="animate__fadeIn">
+                        <div className="ncx-trends">
+                            <img className="ncx-blacklogo" src={NCXBlackLogo} alt="ncx-blacklogo"/>
+                            <p>Exchange</p>
+                        </div>
+                    </AnimationOnScroll>
+                    <AnimationOnScroll animateIn="animate__fadeIn">
+                        <h3>Crypto Assets</h3>
+                    </AnimationOnScroll>
+                </div>
                 <div className="container">
                     <Marketpage />
                 </div>
@@ -169,11 +181,15 @@ function MainHome()
             
             <NCXEquities />
 
-            <Home9thDownloadSection />
+            {/* <Home9thDownloadSection /> */}
 
-            {/* <NCXOTCSection /> */}
+            <NCXOTCSection />
 
             <NCXHomeTrends />
+
+            <div className="mobiledownload">
+                <Home9thDownloadSection />
+            </div> 
             
             <MyFooter />
 

@@ -46,6 +46,7 @@ import NZDUSD from '../../../images/NZDUSD.png';
 import USDTRY from '../../../images/USDTRY.png';
 import CADJPY from '../../../images/CADJPY.png';
 import GBPCHF from '../../../images/GBPCHF.png';
+import NCXAppNewSection from '../NCXapp/ncxapp';
 
 
 
@@ -319,7 +320,7 @@ function HomeNCXEquitiesSection(){
                 </div>
             </div>
 
-            <div className="container">
+            {/* <div className="container">
                 <div className="row equitiesrow indices">
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
@@ -333,9 +334,6 @@ function HomeNCXEquitiesSection(){
                         </AnimationOnScroll>
                     </div>
                     <div className="col view-all">
-                        {/* <AnimationOnScroll animateIn="animate__fadeIn">
-                            <Button href="#">View All</Button>
-                        </AnimationOnScroll> */}
                     </div>
                 </div>
                 <div id="equities-tabs-sect">
@@ -526,7 +524,9 @@ function HomeNCXEquitiesSection(){
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
+
+            <NCXAppNewSection />
 
             <div className="container">
                 <div className="row equitiesrow currencies">

@@ -9,22 +9,35 @@
     font-size: 31px;
     line-height: 30px;
     padding-left: 10px;
-    color: #000000;
+    color: #FFFFFF;
     font-family: 'urbanist-regular';
-    border-left: 1px solid #000000;
+    border-left: 1px solid #FFFFFF;
 }
 p.trending-text {
     font-size: 16px;
-    color: #000000;
+    color: #FFFFFF;
     font-family: 'urbanist-regular';
     margin-top: 10px;
+}
+.trendsrow .view-all a {
+    border: 1px solid #FFFFFF;
+    width: 134px;
+    height: 38px;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    border-radius: 7px;
+    font-family: 'urbanist-regular';
+}
+.trendsrow .view-all a:hover{
+    border-color: #34A9FF;
 }
 .ncx-trends svg path:nth-child(2) {
     fill: #000000;
 }
 .homencxtrends {
     padding: 80px 0px;
-    background: #FFFFFF;
+    background: #000000;
     position: relative;
 }
 .buttons-tabs {
@@ -33,20 +46,21 @@ p.trending-text {
 .buttons-tabs button {
     font-size: 12px !important;
     font-family: 'urbanist-medium' !important;
-    border: 0.5px solid #000000 !important;
+    border: 0.5px solid #FFFFFF !important;
     border-radius: 50px !important;
     padding: 5px 15px !important;
     margin-right: 5px !important;
     background: none;
-    color: #000000 !important;
+    color: #FFFFFF !important;
     margin-left: 0px !important;
 }
 
 .buttons-tabs button:active, .buttons-tabs button:hover, .buttons-tabs button:focus, .buttons-tabs button:focus-visible{
-    background: #000000 !important;
+    background: #34A9FF !important;
     color: #FFFFFF !important;
     outline: none !important;
     box-shadow: none !important;
+    border-color: #34A9FF !important;
 }
 .blog-tabs {
     padding-top: 40px;
@@ -86,7 +100,7 @@ img.trend-img {
 .trend-title {
     font-size: 24px;
     font-family: 'urbanist-medium';
-    color: #000000;
+    color: #FFFFFF;
     padding-top: 20px;
     min-height: 123px;
 }
@@ -102,13 +116,14 @@ img.trend-img {
     font-size: 12px;
     font-family: 'urbanist-medium';
     padding-bottom: 5px;
+    color: #FFFFFF;
 }
 .by-date p span img {
     max-height: 10px !important;
     min-height: 10px;
 }
 a.trend-seemore {
-    color: #000000;
+    color: #FFFFFF;
     font-family: 'urbanist-medium';
     text-transform: uppercase;
     font-size: 14px;
@@ -140,5 +155,66 @@ a.trend-seemore::after{
 @media screen and (max-width: 1300px){
     .trend-card:nth-child(2), .trend-card:nth-child(5){
         margin: 0px !important;
+    }
+}
+@media screen and (max-width: 800px){
+    p.trending-text{
+        font-size: 13px;
+        font-family: 'urbanist-medium';
+        line-height: 16px;
+        color: #000000;
+    }
+    .homencxtrends{
+        padding: 50px 0px 0px 0px;
+        background: #FFFFFF !important;
+    }
+    .trendsrow .col.view-all{
+        display: none;
+    }
+    .buttons-tabs{
+        margin-top: 20px;
+    }
+    .cardtrend .container-fluid{
+        padding: 0px;
+    }
+    .cardtrend .row:before, .cardtrend .row:after{
+        display: none;
+    }
+    .trend-card{
+        width: 100%;
+        max-width: 100%;
+        padding: 0px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 20px 5px rgba(135, 136, 150, 0.2);
+        margin-bottom: 30px;
+    }
+    p.trend-featured{
+        display: none;
+    }
+    .trend-title{
+        padding: 20px 20px 0px 20px;
+        font-size: 20px;
+        min-height: inherit !important;
+        color: #000000;
+    }
+    .trend-card:nth-child(2), .trend-card:nth-child(5){
+        margin-bottom: 30px !important;
+    }
+    .trend-card .trend-bydate{
+        padding: 20px !important;
+    }
+    .ncx-trends p{
+        color: #000000;
+        border-left: 1px solid #000000
+    }
+    .buttons-tabs button{
+        border: 0.5px solid #000000 !important;
+        color: #000000 !important;
+    }
+    .by-date p{
+        color: #000000;
+    }
+    a.trend-seemore{
+        color: #000000;
     }
 }

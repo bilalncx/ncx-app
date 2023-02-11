@@ -1,5 +1,6 @@
 import React from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import NCXLogo from '../../../images/ncx-black-logo.svg';
 import DownloadGoogle from '../../../images/googleplay.png';
 import Barcode from '../../../images/barcode.png';
 import Applestore from '../../../images/appstore.png';
@@ -10,6 +11,17 @@ import DownloadBackgroundVideo from '../../../images/ncx-mountain.mp4';
 function Home9thDownloadSection(){
     return(
         <div className="download">
+            <div className="mobile-scetdown">
+                <AnimationOnScroll animateIn="animate__fadeIn">
+                    <div className="ncx-downloadmbl">
+                        < img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
+                        <p>App</p>
+                    </div>
+                </AnimationOnScroll>
+                <AnimationOnScroll animateIn="animate__fadeIn">
+                    <p className="equity-text">Download App, Trade on the go!</p>
+                </AnimationOnScroll>
+            </div>
             <AnimationOnScroll animateIn="animate__fadeIn">
             <video autoPlay loop muted playsInline id="DownloadVideo">
                 <source src={DownloadBackgroundVideo} type='video/mp4' />

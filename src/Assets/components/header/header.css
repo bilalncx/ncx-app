@@ -51,7 +51,7 @@ header#header-row.darkheader{
 .signin{
     background: transparent !important;
     color: #FFFFFF !important;
-    width: 102px !important;
+    width: 90px !important;
     height: 34px !important;
     border: 1.5px solid #34A9FF !important;
 }
@@ -59,7 +59,7 @@ header#header-row.darkheader{
     border: 1.5px solid #34A9FF !important;
     background: #000000 !important;
     color:  #FFFFFF !important;
-    width: 130px !important;
+    width: 120px !important;
     height: 34px !important;
     margin-right: 0px !important;
     box-shadow: 0px 0px 12px 8px rgba(36, 96, 255, 0.4);
@@ -393,6 +393,9 @@ ul.navlink li {
     }
   }
   @media screen and (max-width: 800px) {
+    .mobile-launch {
+        display: none;
+    }
     div#header-newmobile {
         width: 100% !important;
         padding: 18px 0px;
@@ -496,15 +499,23 @@ ul.navlink li {
     .mobile-toogle {
         width: fit-content;
         text-align: left !important;
+        padding-top: 7px;
+    }
+    .navigation-one .mobile-toogle {
+        order: 2;
+    }
+    .navitgation-one .mobile-logo{
+        order: 1;
     }
     .navigation-one {
         display: flex;
         align-items: center;
-        column-gap: 10px;
+        width: 100%;
+        justify-content: space-between;
     }
     .dropbtn {
         background-color: #000000 !important;
-        border: 1.5px solid #2460FF;
+        border: 1.5px solid #34A9FF;
         padding: 7px 10px 7px 14px;
         border-radius: 7px;
         background: url(./drop.svg);

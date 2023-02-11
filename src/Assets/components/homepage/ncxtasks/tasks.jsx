@@ -73,49 +73,15 @@ function NCXTaskSection()
                         </div>
                     </div>
                 </div>
-
-                {toggle && (
-                <div className="tasks-hidediv">
-                    <div className="tasksrow">
+                <div className="tasksrow mobile">
                     <div className="col">
-                        <div className="tasktext">
-                            <h1>750<span>NCXT</span></h1>
-                            <div className="tasktext-div">
-                                <div className="col">
-                                    <h3>Spot Trading Volume over $10,000+</h3>
-                                    <p>For new users only</p>
-                                </div>
-                                <div className="col">
-                                    <NCXQuestionmark />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="tasktext">
-                            <h1>1,250<span>NCXT</span></h1>
-                            <div className="tasktext-div">
-                                <div className="col">
-                                    <h3>Derivatives Trading Volume over $10,000+</h3>
-                                    <p>For new users only</p>
-                                </div>
-                                <div className="col">
-                                    <NCXQuestionmark />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="tasktext">
-                            <h1>1,000<span>NCXT</span></h1>
-                            <div className="tasktext-div">
-                                <div className="col">
-                                    <h3>Spot Trading Volume over $25,000+</h3>
-                                    <p>For new users only</p>
-                                </div>
-                                <div className="col">
-                                    <NCXQuestionmark />
-                                </div>
+                        <div className="tasktext signup">
+                            <h1>10,000<span>NCXT</span></h1>
+                            <h3>Sign Up and Verify</h3>
+                            <p>For new users only</p>
+                            <div className="taskbtn">
+                                <Button href="https:/ncx.cx">Start Task</Button>
+                                <NCXQuestionmark />
                             </div>
                         </div>
                     </div>
@@ -124,7 +90,7 @@ function NCXTaskSection()
                             <h1>2,500<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
-                                    <h3>Derivatives Trading Volume over $25,000+</h3>
+                                    <h3>Refer a Friend</h3>
                                     <p>For new users only</p>
                                 </div>
                                 <div className="col">
@@ -133,6 +99,157 @@ function NCXTaskSection()
                             </div>
                         </div>
                     </div>
+                </div>
+                <div className="tasksrow mobile">
+                    <div className="col">
+                        <div className="tasktext">
+                            <h1>500<span>NCXT</span></h1>
+                            <div className="tasktext-div">
+                                <div className="col">
+                                    <h3>Spot Trading Volume over $5,000+</h3>
+                                    <p>For new users only</p>
+                                </div>
+                                <div className="col">
+                                    <NCXQuestionmark />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="tasktext">
+                            <h1>750<span>NCXT</span></h1>
+                            <div className="tasktext-div">
+                                <div className="col">
+                                    <h3>Derivatives Trading Volume over $5,000+</h3>
+                                    <p>For new users only</p>
+                                </div>
+                                <div className="col">
+                                    <NCXQuestionmark />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                {toggle && (
+                <div className="tasks-hidediv">
+                    <div className="tasksrow">
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>750<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $10,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>1,250<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $10,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>1,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $25,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>2,500<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $25,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="tasksrow mobile">
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>750<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $10,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>1,250<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $10,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="tasksrow mobile">
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>1,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $25,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>2,500<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $25,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div className="tasksrow">
                         <div className="col">
@@ -192,6 +309,66 @@ function NCXTaskSection()
                             </div>
                         </div>
                     </div>
+                    <div className="tasksrow mobile">
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>2,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $50,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>4,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $50,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="tasksrow mobile">
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>3,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $100,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>7,500<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $100,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div className="tasksrow">
                         <div className="col">
                             <div className="tasktext">
@@ -221,6 +398,66 @@ function NCXTaskSection()
                                 </div>
                             </div>
                         </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>8,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $400,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>15,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $500,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="tasksrow mobile">
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>5,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Spot Trading Volume over $200,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col">
+                            <div className="tasktext">
+                                <h1>10,000<span>NCXT</span></h1>
+                                <div className="tasktext-div">
+                                    <div className="col">
+                                        <h3>Derivatives Trading Volume over $250,000+</h3>
+                                        <p>For new users only</p>
+                                    </div>
+                                    <div className="col">
+                                        <NCXQuestionmark />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="tasksrow mobile">
                         <div className="col">
                             <div className="tasktext">
                                 <h1>8,000<span>NCXT</span></h1>

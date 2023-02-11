@@ -6,6 +6,10 @@ import Twitter from '../footer/twitter.svg';
 import MobileTelegram from './telegrss.svg';
 import Instagram from '../../images/instagram.svg';
 import { color } from "@mui/system";
+import { ReactComponent as NCXGoogle } from '../../images/ncxgoogleplay.svg';
+import { ReactComponent as NCXApple } from '../../images/ncxappstore.svg';
+import NCXBarcode from '../../images/ncx-barcode.png';
+import { ReactComponent as NCXNewsletterarrow } from '../../images/ncx-newsletterarrow.svg';
 
 function MyFooter() 
 {
@@ -71,15 +75,32 @@ function MyFooter()
                     <div class="fourth-column">
                         <div>
                             <div class="footer-logo"><a title="NCX" href="https://ncx.cx/"><img src={Footerlogo} alt="NCX" title="NCX" /></a></div>
-                            <div class="social-media">
-                                <div class="icons"><a href="https://ncx.cx"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                                
-                                <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
-
-                                <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                            <div className="app-barcode-row">
+                                <div className="appsttore">
+                                    <p>Mobile App</p>
+                                    <NCXGoogle />
+                                    <NCXApple />
+                                </div>
+                                <div className="bardcodd">
+                                    < img src={NCXBarcode} alt="NCX Barcode to Download App" />
+                                    <p>Scan to Download NCX App</p>
+                                </div>
                             </div>
-                            <div class="info-mail"><a title="NCX Mail" href="mailto:support@ncx.cx">support@ncx.cx</a></div>
-                            
+                            <div class="social-media">
+                                <p>Follow us</p>
+                                <div className="social-icons">
+                                    <div class="icons"><a href="https://ncx.cx"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
+                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                                    <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                                </div>
+                            </div>
+                            <div className="fot-newsleter">
+                                <p>Sign Up for Updates</p>
+                                <form>
+                                    <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required="" type="email" value="" />
+                                    <button><NCXNewsletterarrow /></button>
+                                </form>
+                            </div>
                         </div>
                     </div>
                     

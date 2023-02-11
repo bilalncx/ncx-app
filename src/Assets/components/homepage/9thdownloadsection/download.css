@@ -73,3 +73,93 @@ video#DownloadVideo {
     font-family: 'urbanist-regular';
     padding-right: 130px;
 }
+
+.mobiledownload .download, .mobile-scetdown{
+    display: none;
+}
+@media screen and (max-width: 800px){
+    .download{
+        display: none;
+    }
+    .mobiledownload{
+        margin-top: -1px;
+    }
+    .mobiledownload .download{
+        display: block;
+        background: #FFFFFF !important;
+        padding: 50px 0px 0px 0px !important;
+    }
+    video#DownloadVideo{
+        display: none;
+    }
+    .download .container{
+        position: relative !important;
+        left: inherit !important;
+        right: inherit !important;
+        top: inherit !important;
+    }
+    .download .row:before, .download .row::after{
+        display: none;
+    }
+    .download .bsss{
+        width: 100% !important;
+        display: block;
+    }
+    .download .bsss img{
+        max-width: 100%;
+        position: relative;
+        top: 10px;
+    }
+    .bar11{
+        visibility: visible !important;
+    }
+    .mobile-scetdown{
+        display: block;
+        padding: 0px 20px;
+    }
+    .ncx-downloadmbl {
+        display: flex;
+        column-gap: 10px;
+    }
+    .download p{
+        padding: 0px;
+        padding-bottom: 0px;
+    }
+    .ncx-downloadmbl p{
+        font-size: 31px;
+        line-height: 30px;
+        padding-left: 10px;
+        color: #000000;
+        font-family: 'urbanist-regular';
+        border-left: 1px solid #000000;
+    }
+    .mobile-scetdown p.equity-text {
+        font-size: 21px !important;
+        line-height: 26px !important;
+        font-family: 'urbanist-medium' !important;
+        margin-top: 20px !important;
+    }
+    .mobiledownload .download .asss .animtation{
+        display: none;
+    }
+    .download .asss .bar11 .bar12{
+        order: 2;
+        text-align: center;
+    }
+    .bar12, .store{
+        width: 50%;
+        min-width: 50% !important;
+    }
+    .stores {
+        padding: 0px 20px 0px 20px;
+        display: flex;
+        align-items: center;
+    }
+    .bar12 img {
+        border: 1px solid;
+        max-width: 100px;
+    }
+    .download .asss {
+        padding: 0px 20px 20px 20px !important;
+    }
+}

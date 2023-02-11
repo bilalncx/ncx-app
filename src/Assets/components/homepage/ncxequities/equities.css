@@ -235,3 +235,54 @@ button.equity-tabs.active {
 .row.equitiesrow.currencies {
     margin: 80px 0px 0px 0px !important;
 }
+
+@media screen and (max-width: 800px){
+    .ncxequities{
+        padding: 50px 0px !important;
+    }
+    .tableshadow.row .col{
+        padding: 15px !important;
+    }
+    .tableshadow.row .col:nth-child(1){
+        width: 65% !important;
+    }
+    .tableshadow.row .col:nth-child(2){
+        width: 35% !important;
+        flex: inherit !important;
+    }
+    .equitytable.row:before, .equitytable.row:after{
+        display: none !important;
+    }
+    .equitytable.row .col.green, .equitytable2 .col.empty, .equitytable.row .col.red{
+        margin-bottom: 20px;
+    }
+    .equitytable.row, .equitytable2{
+        padding-top: 0px !important;
+    }
+    .equitiesrow .col.view-all{
+        display: none;
+    }
+    p.equity-text{
+        font-size: 14px !important;
+        line-height: 18px !important;
+        margin-bottom: 30px !important;
+    }
+    .equitytable2 .col.empty{
+        height: fit-content !important;
+        padding: 40px 20px !important;
+    }
+    .equitytable2 .col.empty .view-all{
+        margin-top: 40px;
+    }
+    .emptyboxtxt h2{
+        font-size: 32px;
+        line-height: 36px;
+        font-family: 'urbanist-semibold';
+    }
+    #equities-tabs-sect .view-all a{
+        width: 100%;
+    }
+    .row.equitiesrow.indices, .row.equitiesrow.currencies{
+        margin: 50px 0px 0px 0px !important;
+    }
+}

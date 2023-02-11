@@ -4,8 +4,8 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import icon from '../../../images/ncx-staricon.svg';
 import Button from "@mui/material/Button";
 import CountUp from 'react-countup';
-import appstore from '../../../images/app-store.png';
-import Googleplay from '../../../images/google-app.png';
+import { ReactComponent as Appstore } from '../../../images/ncxappstore.svg';
+import { ReactComponent as Googleplay } from '../../../images/ncxgoogleplay.svg';
 
 function HomeFirstSection()
 {
@@ -26,7 +26,11 @@ function HomeFirstSection()
                     <div className="hashtag">
                         <span>Advanced CEX</span>
                         <span>Multichain DEX</span>
+                        <span className="hide-onmbl">Swap over 200k of tokens on 5 Chains</span>
+                    </div>
+                    <div className="hashtag mobile">
                         <span>Swap over 200k of tokens on 5 Chains</span>
+                        <span>Liquidity Pools</span>
                     </div>
                     <div className="hashtag">
                         <span>Trade Crypto, Forex, Stock Market, ETFs, Indexes, Metals Derivatives with up to 100x Leverage</span>
@@ -35,13 +39,13 @@ function HomeFirstSection()
                         <span>Over 500 Trading Pairs</span>
                         <span>DeFi Staking</span>
                         <span>Yied Farming</span>
-                        <span>Liquidity Pools</span>
+                        <span className="hide-onmbl">Liquidity Pools</span>
                     </div>
                     {/* <Button className="btn01 hero-btn signin">Sign In</Button>
                     <Button className="btn01 hero-btn singup">Launch DEX</Button> */}
                     <div className="img001">
-                        <img src={appstore} alt="ncx"/>
-                        <img src={Googleplay} alt="ncx" />
+                        <Appstore />
+                        <Googleplay/>
                     </div>
                 </div>
                 <div id="videosection" className="bsss">
@@ -141,6 +145,74 @@ function HomeFirstSection()
                         onStart={onStart}
                     />
                     <p>Cryptocurrencies</p>
+                </div>
+                <div className="mobile-currenciesrow">
+                    <div className="onembl">
+                        <div className="col">
+                            <CountUp
+                                className="balance"
+                                start={1}
+                                end={16}
+                                duration={20}
+                                useEasing={true}
+                                useGrouping={true}
+                                // separator=" "
+                                // decimals={4}
+                                // decimal=","
+                                prefix=">"
+                                // suffix=" left"
+                                onComplete={onComplete}
+                                onStart={onStart}
+                                delay={0}
+                            />
+                            <p>Payment Methods</p>
+                        </div>
+                        <div className="col">
+                            <CountUp
+                                className="balance"
+                                start={10}
+                                end={500}
+                                duration={25}
+                                useEasing={true}
+                                useGrouping={true}
+                                prefix=">"
+                                onComplete={onComplete}
+                                onStart={onStart}
+                            />
+                            <p>Trading Pairs</p>
+                        </div>
+                    </div>
+                    <div className="onembl">
+                        <div className="col">
+                            <CountUp
+                                className="balance"
+                                start={10}
+                                end={200}
+                                duration={25}
+                                useEasing={true}
+                                useGrouping={true}
+                                prefix=">"
+                                suffix="K"
+                                onComplete={onComplete}
+                                onStart={onStart}
+                            />
+                            <p>Tokens on DEX Across 5 Chains</p>
+                        </div>
+                        <div className="col">
+                            <CountUp
+                                className="balance"
+                                start={10}
+                                end={180}
+                                duration={25}
+                                useEasing={true}
+                                useGrouping={true}
+                                prefix=">"
+                                onComplete={onComplete}
+                                onStart={onStart}
+                            />
+                            <p>Countries</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

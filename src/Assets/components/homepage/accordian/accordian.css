@@ -61,3 +61,33 @@ ul.faq_li li:before {
 /* .accordian .item:nth-child(3) .content {
     display: none !important;
 } */
+
+@media screen and (max-width: 800px){
+    #faq.faq-sect .row:before, #faq.faq-sect .row:after{
+        display: none;
+    }
+    .title{
+        padding: 20px 0px;
+    }
+    .faq-1{
+        width: 100% !important;
+        margin-top: 30px;
+    }
+    .accordian h2{
+        font-size: 14px !important;
+        line-height: 20px !important;
+        padding-right: 20px;
+    }
+    .asss h1 {
+        font-size: 26px !important;
+        line-height: 34px !important;
+        padding: 10px 60px 10px 0px !important;
+    }
+    .accordian span.svg{
+        padding: 4px 9px;
+    }
+    .accordian span.svg svg{
+        width: 10px;
+        height: auto;
+    }
+}

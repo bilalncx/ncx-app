@@ -58,3 +58,10 @@
 .gradient-bar {
     overflow: hidden;
 }
+
+@media screen and (max-width: 800px){
+    .gradient{
+        margin-top: -1px;
+        padding: 50px 0px 50px 0px;
+    }
+}

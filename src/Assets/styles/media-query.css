@@ -4,9 +4,7 @@ div#mobile-header {
 .home-blog .container.mobile{
     display: none;
 }
-div#mobile-tabsection {
-    display: none;
-}
+
 .section-center.mobile{
     display: none;
 }
@@ -41,12 +39,6 @@ div#header-newmobile {
         display: none;
     }
     .section-center.mobile{
-        display: block !important;
-    }
-    .tabledex{
-        display: none;
-    }
-    div#mobile-tabsection {
         display: block !important;
     }
     .home-blog .container.mobile{
@@ -89,15 +81,11 @@ div#header-newmobile {
         width: 100%;
         text-align: center;
     }
-    .asss h1 {
-        font-size: 26px !important;
-        line-height: 38px !important;
-        padding: 20px 0px 20px 0px;
-    }
     .hashtag span{
-        font-size: 13px !important;
+        font-size: 10px !important;
         margin-bottom: 10px !important;
-        padding:7px 15px !important;
+        padding:5px 10px !important;
+        margin-right: 5px !important;
     }
     .hashtag {
         padding-bottom: 0px !important;
@@ -109,66 +97,18 @@ div#header-newmobile {
         padding-top: 30px !important;
         padding-bottom: 0px !important;
         /* background: linear-gradient(180deg,rgba(5,27,96,0) 20%,#051b60 58.85%),#141414 !important; */
-        background: url(../images/green-bg-mb.png);
+        /* background: url(../images/green-bg-mb.png); */
+        background: #000000;
         background-repeat: no-repeat;
         background-size: 100% 100%;
     }
     .hero-section .row.container{
         padding-bottom: 50px !important;
     }
-    .second-container{
+    /* .second-container{
         display: none;
-    }
-    #csexdex{
-        display: block;
-        padding-top: 50px;
-        margin-top: -1px;
-    }
-    .hero-section button.btn01 {
-        font-size: 12px !important;
-        padding: 0px 10px;
-        margin-right: 10px !important;
-    }
-    .img001 img {
-        width: 100%;
-        max-width: 120px;
-        height: auto;
-    }
-    .cexdex .row {
-        margin: 0px !important;
-    }
-    .cexdex .container{
-        background: none !important;
-    }
-    .cexdex{
-        background-size: cover;
-        background-position: center right 37%;
-        padding-bottom: 50px !important;
-        background-color: #000000;
-    }
-    .cex.asss h1 {
-        padding: 0px !important;
-        margin-bottom: 0px !important;
-    }
-    .dex.bsss {
-        margin-top: 30px;
-    }
-    .hh_col {
-        width: 50% !important;
-        float: left;
-        padding: 0px;
-        height: 250px;
-        margin-bottom: 20px;
-    }
-    .hh_col h1 {
-        font-size: 15px;
-        padding-right: 0px !important;
-        margin-bottom: 30px;
-        min-height: 130px;
-    }
-    .line-div{
-        height: 95%;
-    }
+    } */
+    
     .row {
         margin: 0px !important;
     }
@@ -178,39 +118,6 @@ div#header-newmobile {
     
     .currrency_24change h2 {
         text-align: right !important;
-    }
-    .new-generation{
-        padding: 20px 0px !important;
-        min-height: inherit;
-    }
-    .new-generation .container {
-        display: flex;
-        flex-flow: column wrap;
-    }
-    .generate-div {
-        padding: 30px 30px 35px 30px;
-        background: #F6F6F7;
-        min-height: inherit;
-        width: 100%;
-        order: 2;
-        margin-top: -5px;
-    }
-    .generate-video {
-        position: inherit;
-        bottom: 0px;
-        order: 1;
-    }
-    video#ncx-main-video {
-        max-width: 100%;
-    }
-    .generate-div h1{
-        font-size: 26px;
-        line-height: 34px;
-        padding-right: 0px;
-    }
-    .generate-div button.btn01{
-        max-width: 100% !important;
-        margin-top: 30px !important;
     }
     .gradient {
         padding: 50px 0px 80px 0px;
@@ -231,9 +138,9 @@ div#header-newmobile {
     .bar12 img {
         max-width: 100%;
     }
-    section.bg-dark {
+    /* section.bg-dark {
         background: #FFFFFF !important;
-    }
+    } */
     section#slider {
         background: #000000;
     }
@@ -244,23 +151,11 @@ div#header-newmobile {
     .bar11{
         padding-bottom: 20px !important;
     }
-    .download p{
-        padding-right: 0px;
-        padding-bottom: 30px;
-    }
-    .faq-1{
-        width: 100% !important;
-        margin-top: 50px;
-    }
     .faq-0 button {
         width: 100% !important;
         margin: 0 auto !important;
         font-size: 14px;
         display: none;
-    }
-    .accordian h2{
-        font-size: 16px !important;
-        line-height: 24px !important;
     }
     .download .bsss img {
         max-width: 100%;
@@ -287,81 +182,11 @@ div#header-newmobile {
         padding: 80px 0px 50px 0px !important;
         background-color: #000000;
     }
-    .text-table h1 {
-        font-size: 26px;
-        line-height: 36px;
-    }
-    div#mobile-tabsection{
-        margin-top: 40px    ;
-    }
-    div#mobile-tabs {
-        display: flex;
-        justify-content: space-between;
-        padding-bottom: 15px;
-        border-bottom: 0.5px solid #FFFFFF;
-    }
-    #mobile-tabs button.tabs.active {
-        /* background: #65E4A1; */
-        color: #FFFFFF;
-        box-shadow: 0px 0px 12px 8px rgba(101, 228, 161, 0.4);
-    }
-    #mobile-tabs button.tabs {
-        background: none;
-        border: 1.5px solid #65E4A1;
-        outline: none;
-        padding: 5px 15px;
-        font-size: 16px;
-        font-family: 'urbanist-regular';
-        color: #FFFFFF;
-    }
-    #mobile-tabs-content .content {
-        max-height: inherit !important;
-    }
-    #mobile-tabs-content .content .row .txt-cl {
-        width: 70% !important;
-        padding: 0px !important;
-    }
-    #mobile-tabs-content .content .row .txt-blue {
-        width: 30% !important;
-        padding: 0px !important;
-    }
-    .txt-blue:before{
-        right: 0px !important;
-        width: 100% !important;
-    }
-    #mobile-tabs-content .content{
-        display: none;
-    }
-    #mobile-tabs-content .content.active{
-        display: block !important;
-    }
-    div#mobile-tabs-content {
-        padding-top: 15px;
-    }
-    #mobile-tabs-content .row.body-text.second {
-        margin-top: 20px !important;
-    }
     .row.body-text.second .txt-blue:before{
         height: 105% !important;
     }
     .row.body-text.second .tickbox, .row.body-text.second .optionalbox {
         padding: 6px 0px;
-    }
-    .mobile-bp p {
-        font-size: 12px;
-        line-height: 18px;
-        color: #FFFFFF;
-        font-family: 'urbanist-regular';
-        text-align: right;
-    }
-    .mobile-bp{
-        margin-top: 30px;
-    }
-    .mobile-bp p span a{
-        color: #65E4A1 !important;
-    }
-    .dex-table{
-        padding: 60px 0px !important;
     }
     section#slider{
         padding: 50px 0px 0px 0px !important;
@@ -485,11 +310,11 @@ div#header-newmobile {
         text-align: center;
     }
     div#videosection {
-        margin-top: 60px;
+        margin-top: 50px;
     }
 
     div#footer-faq{
-        background: url(../images/green-bg-mb.png);
+        background: url(../images/ncx-faq-mblbg.png);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         background-color: #000000;
@@ -523,9 +348,6 @@ div#header-newmobile {
     }
     .download .row:before, div#HMPBlogSlider:before, div#HMPBlogSlider:after{
         display: none !important;
-    }
-    .download .asss {
-        padding: 0px 20px 20px 20px;
     }
 
 

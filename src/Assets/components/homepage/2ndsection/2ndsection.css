@@ -94,3 +94,66 @@
 .hh_icon {
     text-align: left !important;
 }
+
+@media screen and (max-width: 800px){
+    #cex{
+        background: #000000 !important;
+        padding: 50px 0px;
+    }
+    #cex .second-container {
+        padding: 0px 20px;
+    }
+    .hero-section button.btn01 {
+        font-size: 12px !important;
+        padding: 0px 10px;
+        margin-right: 10px !important;
+    }
+    .img001 img {
+        width: 100%;
+        max-width: 120px;
+        height: auto;
+    }
+    .cexdex .row {
+        margin: 0px !important;
+    }
+    .cexdex .container{
+        background: none !important;
+    }
+    .cexdex{
+        background-size: cover;
+        background-position: center right 37%;
+        padding-bottom: 50px !important;
+        background-color: #000000;
+    }
+    .cex.asss h1 {
+        padding: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .dex.bsss {
+        margin-top: 30px;
+    }
+    .hh_col {
+        width: 50% !important;
+        float: left;
+        padding: 0px;
+        height: 200px;
+        margin-bottom: 40px;
+    }
+    .hh_col h1 {
+        font-size: 16px;
+        padding-right: 0px !important;
+        margin-bottom: 30px;
+        line-height: 26px !important;
+        min-height: 80px;
+    }
+    .line-div{
+        height: 95%;
+    }
+    .dex{
+        width: 100%;
+        padding: 10px 0px 0px 0px;
+    }
+    #cex .hh_row {
+        padding-top: 50px;
+    }
+}

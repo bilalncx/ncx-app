@@ -136,3 +136,85 @@ svg.turn {
     transform: rotate(-270deg);
     transition: all 0.4s cubic-bezier(1,1,1,1);
 }
+.tasksrow.mobile{
+    display: none;
+}
+
+@media screen and (max-width: 800px){
+    .ncxtasksection{
+        padding: 50px 0px 0px 0px;
+    }
+    .ncxtasksection h1{
+        font-size: 26px;
+        line-height: 32px;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+    .tasksrow{
+        display: block;
+        column-gap: inherit;
+        max-width: 100%;
+    }
+    .tasksrow .col{
+        width: 49% !important;
+        display: inline-block;
+    }
+    .tasktext{
+        width: 100%;
+        height: 170px;
+        padding: 15px 10px 15px 15px;
+    }
+    .taskbtn{
+        margin-top: 10px;
+    }
+    .tasktext h3{
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .tasktext p{
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .tasksrow{
+        display: none;
+    }
+    .tasksrow.mobile{
+        display: flex;
+        column-gap: 10px;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+    .tasktext.signup h1{
+        font-size: 28px;
+        line-height: 32px;
+        margin-bottom: 50px;
+    }
+    .tasktext.signup h1 span{
+        font-size: 12px;
+        font-family: 'urbanist-medium';
+    }
+    .taskbtn a{
+        width: 95px;
+        height: 30px;
+        font-size: 12px;
+    }
+    .tasktext.signup h1{
+        margin-bottom: 34px !important;
+    }
+    .tasktext-div .col:first-child{
+        width: 90% !important;
+    }
+    .tasktext-div .col:last-child{
+        width: 10% !important;
+    }
+    .ncxtasksection button.btn-primary{
+        font-size: 14px !important;
+    }
+    .ncxtasksection button.btn-primary svg{
+        width: 8px !important;
+        margin-left: 10px !important;
+    }
+    svg.straight{
+        margin-left: 10px !important;
+    }
+}

@@ -95,7 +95,7 @@ export default function Header() {
                   <a href="#" target="_blank" rel="noreferrer">NCX Card</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#">Connect
+                  <a href="#">More
                   <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.80486 5L9.62305 0.181818L9.42824 -2.32303e-09L4.80486 4.62338L0.181488 -1.12589e-07L-0.000329914 0.181818L4.80486 5Z" fill="white"></path> </svg>
                   </a>
                   <div className="mega_menu"> 
@@ -192,7 +192,10 @@ export default function Header() {
                         <a href="https://bcx.ncx.cx/" target="_blank" rel="noreferrer">DEX</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/blog">Press & News</a>
+                        <a href="https://ncx.cx/blog">NCX Card</a>
+                      </li>
+                      <li>
+                        <a href="https://ncx.cx/blog">Blog</a>
                       </li>
                       {/* <li>
                         <a className="btn01 signup launching-btn">Sign Up</a>

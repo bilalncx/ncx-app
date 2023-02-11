@@ -20,14 +20,119 @@ div#footerdiv {
     line-height: 20px;
     font-weight: 400 !important;
 }
-.social-media {
+.app-barcode-row {
+    display: flex;
+    margin-top: 30px;
+}
+.appsttore p {
+    font-size: 18px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    margin-top: 12px;
+}
+.appsttore svg {
+    display: block;
+    width: 128px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.bardcodd img {
+    width: 100px;
+    height: auto;
+}
+.bardcodd p {
+    font-size: 12px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.bardcodd {
+    text-align: center;
+    padding: 10px 10px;
+}
+.social-media p {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'urbanist-regular';
+    margin-bottom: 10px;
+}
+.social-icons {
     display: flex;
     column-gap: 20px;
-    justify-content: end;
-    padding: 25px 0px 10px 0px;
 }
-.social-media .icons img {
-    width: 20px;
+.social-icons .icons a {
+    width: 48px;
+    height: 48px;
+    background: rgba(255,255, 255, 0.15);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+.social-icons .icons a:hover {
+    background: #34A9FF;
+}
+.social-media {
+    padding-top: 10px;
+}
+.fot-newsleter {
+    padding-top: 25px;
+}
+.fot-newsleter p {
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.fourth-column {
+    max-width: 270px;
+}
+.fot-newsleter form input {
+    width: 100%;
+    max-width: 250px;
+    background: none;
+    border: 0.5px solid rgba(255,255,255,0.5);
+    min-height: 48px;
+    padding: 10px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 14px;
+}
+.fot-newsleter form input::placeholder{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+}
+.fot-newsleter form input:focus, .fot-newsleter form input:focus-visible{
+    outline: none;
+    box-shadow: none;
+}
+.fot-newsleter form {
+    position: relative;
+}
+.fot-newsleter form button {
+    background: #34A9FF;
+    width: 38px;
+    height: 40px;
+    position: absolute;
+    right: 25px;
+    top: 4px;
+    border-radius: 8px;
+}
+.fot-newsleter form button:foucs, .fot-newsleter form button:focus-visible{
+    outline: none;
+    box-shadow: none;
+}
+.fot-newsleter form button svg {
+    max-width: 14px;
+}
+.fot-newsleter form button svg path {
+    fill: #FFFFFF;
 }
 .footer-logo a img {
     width: 160px;
@@ -47,12 +152,14 @@ div#footerdiv {
 .copyright p {
     color: #FFFFFF;
     font-family: 'urbanist-light';
-    font-size: 12px;
+    font-size: 11px;
     text-align: center;
+    line-height: 16px;
     margin-bottom: 10px !important;
 }
 .copyright p a{
-    color: #65E4A1;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
     text-decoration: none;
 }
 .copyright p a:hover{
