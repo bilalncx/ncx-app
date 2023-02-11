@@ -3,6 +3,7 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import './ncxtoken.css';
 import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
 import {ReactComponent as NCXTickmark } from '../../../images/ncxicon-check-mark.svg';
+import { ReactComponent as TokenTick } from '../../../images/tokentick.svg';
 
 function HomeNCXToken()
 {
@@ -154,6 +155,262 @@ function HomeNCXToken()
                             <p>1%</p>
                             <p>12%</p>
                             <p>12%</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="mobile-tokentable">
+                    <div className="mbl-tokrow">
+                        <h3>NCX Staked</h3>
+                        <div className="mbl-tokrowitems">
+                            <div className="color">
+                                <div className="color-one"></div>
+                                <p>50K</p>
+                            </div>
+                            <div className="color">
+                                <div className="color-two"></div>
+                                <p>100K</p>
+                            </div>
+                            <div className="color">
+                                <div className="color-three"></div>
+                                <p>250K</p>
+                            </div>
+                            <div className="color">
+                                <div className="color-four"></div>
+                                <p>500K</p>
+                            </div>
+                            <div className="color">
+                                <div className="color-five"></div>
+                                <p>1M</p>
+                            </div>
+                            <div className="color">
+                                <div className="color-six"></div>
+                                <p>2.5M</p>
+                            </div>
+                            <div className="color">
+                                <div className="color-seven"></div>
+                                <p>5M</p>
+                            </div>
+                            <div className="color">
+                                <div className="color-eight"></div>
+                                <p>10M</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Trading Fee Discount (Spot & Derivatives)</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color">
+                                <p>10%</p>
+                            </div>
+                            <div className="color">
+                                <p>20%</p>
+                            </div>
+                            <div className="color">
+                                <p>30%</p>
+                            </div>
+                            <div className="color">
+                                <p>40%</p>
+                            </div>
+                            <div className="color">
+                                <p>50%</p>
+                            </div>
+                            <div className="color">
+                                <p>60%</p>
+                            </div>
+                            <div className="color">
+                                <p>70%</p>
+                            </div>
+                            <div className="color">
+                                <p>80%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Additional Staking Rewards (APR)</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color">
+                                <p>3%</p>
+                            </div>
+                            <div className="color">
+                                <p>5%</p>
+                            </div>
+                            <div className="color">
+                                <p>7%</p>
+                            </div>
+                            <div className="color">
+                                <p>10%</p>
+                            </div>
+                            <div className="color">
+                                <p>15%</p>
+                            </div>
+                            <div className="color">
+                                <p>20%</p>
+                            </div>
+                            <div className="color">
+                                <p>25%</p>
+                            </div>
+                            <div className="color">
+                                <p>30%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Withdrawal Fee Refund</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">
+                                {/* <p>3%</p> */}
+                            </div>
+                            <div className="color">
+                                <p>10%</p>
+                            </div>
+                            <div className="color">
+                                <p>20%</p>
+                            </div>
+                            <div className="color">
+                                <p>30%</p>
+                            </div>
+                            <div className="color">
+                                <p>40%</p>
+                            </div>
+                            <div className="color">
+                                <p>50%</p>
+                            </div>
+                            <div className="color">
+                                <p>60%</p>
+                            </div>
+                            <div className="color">
+                                <p>70%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow derivative">
+                        <h3>Derivative Leverage</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">  
+                                <p>80x</p>
+                            </div>
+                            <div className="color">
+                                <p>100x</p>
+                            </div>
+                            <div className="color">
+                                <p>110x</p>
+                            </div>
+                            <div className="color">
+                                <p>120x</p>
+                            </div>
+                            <div className="color">
+                                <p>130x</p>
+                            </div>
+                            <div className="color">
+                                <p>140x</p>
+                            </div>
+                            <div className="color">
+                                <p>150x</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Additional APR for Providing Liquidity in NCX Yield Farms</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">
+                                {/* <p>3%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>10%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>20%</p> */}
+                            </div>
+                            <div className="color">
+                                <p>5%</p>
+                            </div>
+                            <div className="color">
+                                <p>8%</p>
+                            </div>
+                            <div className="color">
+                                <p>10%</p>
+                            </div>
+                            <div className="color">
+                                <p>12%</p>
+                            </div>
+                            <div className="color">
+                                <p>15%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Use NCXT as Derivatives Trading Collateral </h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">
+                                {/* <p>3%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>10%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>20%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>5%</p> */}
+                            </div>
+                            <div className="color">
+                                <p>20%</p>
+                            </div>
+                            <div className="color">
+                                <p>30%</p>
+                            </div>
+                            <div className="color">
+                                <p>40%</p>
+                            </div>
+                            <div className="color">
+                                <p>50%</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Use NCXT as Derivatives Trading Collateral</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">
+                                {/* <p>3%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>10%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>20%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>5%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>20%</p> */}
+                            </div>
+                            <div className="color">
+                                <p><TokenTick /></p>
+                            </div>
+                            <div className="color">
+                                <p><TokenTick /></p>
+                            </div>
+                            <div className="color">
+                                <p><TokenTick /></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow derivative">
+                        <h3>IEO Tickets for New NCX Spot Launches</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">  
+                                <p>8%</p>
+                            </div>
+                            <div className="color inactive">  
+                                <p>10%</p>
+                            </div>
+                            <div className="color inactive">  
+                                <p>12%</p>
+                            </div>
+                            <div className="color inactive">  
+                                <p>12%</p>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -131,3 +131,15 @@
     margin-right: 0px !important;
     /* width: 130px !important; */
 }
+
+.mobile-tokentable{
+    display: none;
+}
+@media screen and (max-width: 800px){
+    .tokentable{
+        display: none;
+    }
+    .mobile-tokentable{
+        display: block;
+    }
+}

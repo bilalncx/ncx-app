@@ -687,12 +687,17 @@ span.mbl-bltshow {
         top: inherit !important;
         left: inherit !important;
     }
-    .crypto-trade h1, .cardtrade-row h1{
+    .crypto-trade h1, .cardtrade-row h1, .api-row h1{
         font-size: 22px !important;
         font-family: 'urbanist-medium';
         line-height: 26px !important;
         width: 100% !important;
         margin-bottom: 10px !important;
+    }
+    .asset-hed h1{
+        font-size: 26px !important;
+        font-family: 'urbanist-medium';
+        line-height: 32px !important;
     }
     .crypto-trade, .ncx-card-trade{
         background-size: cover;
@@ -701,7 +706,7 @@ span.mbl-bltshow {
         display: block !important;
         padding: 20px 10px !important;
     }
-    .crypto-trade p, p.cardp1, p.cardp2{
+    .crypto-trade p, p.cardp1, p.cardp2, .asset-hed p{
         font-size: 14px !important;
         line-height: 19px !important;
         margin-bottom: 20px;
@@ -710,7 +715,7 @@ span.mbl-bltshow {
     .crypto-row {
         display: block;
     }
-    .ncx-dexphone-sect .deri-row{
+    .ncx-dexphone-sect .deri-row, .ncx-tradeassets{
         min-width: inherit !important;
         max-width: inherit !important;
         display: block !important;
@@ -735,12 +740,120 @@ span.mbl-bltshow {
         padding-top: 0px;
         margin-bottom: 20px;
     }
-    .cardtrade-row {
+    .cardtrade-row, .api-row{
         display: block;
     }
-    #content-4 .ncx-card-trade{
+    .api-row .col{
+        width: 100% !important;
+    }
+    #content-4 .ncx-card-trade, .ncx-apisect{
         max-height: inherit !important;
         background-size: cover !important;
         background-position: center !important;
+    }
+    .ncx-apisect{
+        padding: 20px 10px !important;
+    }
+    #content-5 h1.margin-bottomzero {
+        margin-bottom: 0px !important;
+    }
+    #content-5 .bullets{
+        column-gap: 2px !important;
+    }
+    #content-5 .bullets span{
+        padding: 5px 7px !important;
+        font-size: 9px !important;
+    }
+    span.apisvg svg {
+        width: 8px;
+        height: auto;
+    }
+    .api-monitoring{
+        max-width: inherit !important;
+        height: 320px !important;
+        background-size: cover !important;
+        background-position: center bottom;
+        margin-top: 20px;
+    }
+    .api-monitoring h3{
+        font-size: 22px;
+        line-height: 24px !important;
+        margin-bottom: 5px;
+    }
+    .api-monitoring p{
+        font-size: 16px !important;
+        line-height: 24px;
+    }
+    #content-7 button.trade-tabs{
+        min-width: 70px !important;
+    }
+    #content-7 .ncx-tradeassets .content-tabs {
+        padding: 20px 15px !important;
+    } 
+    #content-7 .currecnycol-txt h1{
+        font-size: 14px !important
+    }
+    #content-7 .ncx-tradeassets{
+        max-height: 2850px !important;
+    }
+    .TradeNCXToken{
+        padding: 20px 10px !important;
+        min-width: inherit !important;
+        max-width: inherit !important;
+        max-height: inherit !important;
+    }
+    .TradeNCXToken .ncxtoken .container {
+        padding: 0px !important;
+    }
+    .mbl-tokrow h3{
+        color: #FFFFFF;
+        font-size: 14px;
+        font-family: 'urbanist-regular';
+        line-height: 19px !important;
+        padding-bottom: 2px;
+        border-bottom: 1px solid #FFF;
+        width: fit-content;
+    }
+    .mbl-tokrowitems {
+        display: flex;
+        margin-top: 8px;
+        justify-content: space-between;
+    }
+    .mbl-tokrowitems .color {
+        display: block !important;
+        padding: 5px;
+        text-align: center;
+        margin: 0px !important;
+        width: 12%;
+        min-height: 35px;
+        border-radius: 3px;
+    }
+    .mbl-tokrowitems .color div {
+        width: 13px;
+        height: 13px;
+        margin: 0 auto;
+    }
+    .mbl-tokrowitems p {
+        font-size: 12px;
+        line-height: 14px;
+        padding-top: 3px;
+        font-family: 'urbanist-regular';
+    }
+    .mbl-tokrow {
+        margin-bottom: 15px;
+    }
+    .mbl-tokrowitems.sd2 .color {
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+    }
+    .color.inactive {
+        background: rgba(241, 250, 241, 0.3);
+    }
+    .derivative .color.inactive {
+        width: 24%;
+    }
+    .mbl-tokrowitems.sd2 .color svg {
+        width: 14px;
     }
 }

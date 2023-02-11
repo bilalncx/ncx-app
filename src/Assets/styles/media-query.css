@@ -28,6 +28,7 @@ div#header-newmobile {
 @media screen and (max-width: 800px){
     body{
         overflow: visible !important;
+        overflow-x: hidden !important;
     }
     .splashScreen {
         display: none !important;
