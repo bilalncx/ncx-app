@@ -151,4 +151,7 @@
     .OTCsect.row.mobile.three .otc-line {
         height: 165px;
     }
+    .otc-linediv{
+        width: inherit !important;
+    }
 }

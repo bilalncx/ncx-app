@@ -167,4 +167,11 @@ h2.secondtask{
         height: 30px;
         font-size: 12px !important;
     }
+    video#ncx-main-video{
+        width: 100% !important;
+        height: auto !important;   
+        max-width: inherit !important;
+        object-fit: inherit !important;
+        
+    }
 }

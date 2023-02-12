@@ -1,21 +1,106 @@
-import React from "react";
-// import HorizontalPagsss from '../../components/homepage/horizontalscrollsection/horizontal';
-// import SwiperSlider from '../../components/homepage/horizontalscrollsection/slidecard';
-import NCXAppDeis from '../../components/homepage/NCXapp/ncxapp';
-import Header from '../../components/header/header';
-import Footer from '../../components/footer/footer';
+import {React, useState} from "react";
+import ReactDOM from 'react-dom';
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import './horixx.css';
+import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
+import WhiteCard from '../../images/ncx-whitecard.png';
+import BlackCard from '../../images/ncx-blackcard.png';
+import WhiteGold from '../../images/ncx-whitegoldcard.png';
+import Platinum from '../../images/ncx-platniumcard.png';
+import { ReactComponent as CardArrow } from '../../images/ncx-cardarrow.svg';
+  
 
 function HorizontalPage()
-{  
+{
     return(
-        <div id="pageContinesr">
-            <Header />
-            <div id="newHorzialdiv">
-                <NCXAppDeis />
-            </div>
-            <Footer />
+        <div id="NCXCreditCardSlider">
+            <CarouselProvider
+                visibleSlides={3}
+                totalSlides={4}
+                step={1}
+                naturalSlideWidth={300}
+                naturalSlideHeight={500}
+                hasMasterSpinner
+                // isPlaying={true}
+                // interval={3000}
+                orientation="horizontal"
+                infinite
+                playDirectio="forward"
+            >
+            <Slider className="slider">
+                <Slide index={0}>
+                    <article className='ncxcard01'>
+                        <img className='cardimg01' src={WhiteCard} alt="NCX Black Card" />
+                        <div className='cardtitle'>
+                            <h1>NCX<span>Select</span></h1>
+                        </div>
+                        <div className='card-features'>
+                            <div><p>Monthly Limit<span>$10,000</span></p></div>
+                            <div><p>ATM Withdrawals<span>$2,500 Monthly</span></p></div>
+                            <div><p>Free Premium Metal Card</p></div>
+                            <div><p>24/7 Support</p></div>
+                            <a href="https://ncx.cx/" className='card-learnmore'>
+                                Learn More
+                            </a>
+                        </div>
+                    </article>
+                </Slide>
+                <Slide index={1}>
+                    <article className='ncxcard01'>
+                        <img className='cardimg01' src={Platinum} alt="NCX Black Card" />
+                        <div className='cardtitle'>
+                            <h1>NCX<span>Platinum</span></h1>
+                        </div>
+                        <div className='card-features'>
+                            <div><p>Monthly Limit<span>$25,000</span></p></div>
+                            <div><p>ATM Withdrawals<span>$5,000 Monthly</span></p></div>
+                            <div><p>Trading Fee Discount<span>10%</span></p></div>
+                            <div><p>Free Wire Transfer</p></div>
+                            <a href="https://ncx.cx/" className='card-learnmore'>
+                                Learn More
+                            </a>
+                        </div>
+                    </article>
+                </Slide>
+                <Slide index={2}>
+                    <article className='ncxcard01'>
+                        <img className='cardimg01' src={WhiteGold} alt="NCX Black Card" />
+                        <div className='cardtitle'>
+                            <h1>NCX<span>Gold</span></h1>
+                        </div>
+                        <div className='card-features'>
+                            <div><p>Monthly Limit<span>$50,000</span></p></div>
+                            <div><p>ATM Withdrawals<span>$10,000 Monthly</span></p></div>
+                            <div><p>Trading Fee Discount<span>15%</span></p></div>
+                            <div><p>Free Premium Metal Card</p></div>
+                            <a href="https://ncx.cx/" className='card-learnmore'>
+                                Learn More
+                            </a>
+                        </div>
+                    </article>
+                </Slide>
+                <Slide index={3}>
+                    <article className='ncxcard01'>
+                        <img className='cardimg01' src={BlackCard} alt="NCX Black Card" />
+                        <div className='cardtitle'>
+                            <h1>NCX<span>Black</span></h1>
+                        </div>
+                        <div className='card-features'>
+                            <div><p>Monthly Limit<span>$100,000</span></p></div>
+                            <div><p>ATM Withdrawals<span>$15,000 Monthly</span></p></div>
+                            <div><p>Trading Fee Discount<span>20%</span></p></div>
+                            <div><p>Free<span>Spotify</span> Subscription</p></div>
+                            <a href="https://ncx.cx/" className='card-learnmore'>
+                                Learn More
+                            </a>
+                        </div>
+                    </article>
+                </Slide>
+            </Slider>
+            <ButtonBack className="buttonBack"><CardArrow /></ButtonBack>
+            <ButtonNext className="buttonNext"><CardArrow /></ButtonNext>
+            </CarouselProvider>
         </div>
     )
-
 }
  export default HorizontalPage;

@@ -86,10 +86,26 @@
     padding: 0px;
 }
 
+.earnbadge.row.mobile{
+    display: none !important;
+}
 @media screen and (max-width: 800px){
+    .earnbadge.row {
+        display: none;
+    }
+    .earnbadge.row.mobile{
+        display: flex !important;
+        justify-content: center;
+    }
+    .earnbadge.row.mobile .col{
+        width: 49% !important;
+    }
     .earnncx{
-        padding: 30px 0px 0px 0px !important;
+        padding: 0px 0px 0px 0px !important;
         margin-top: -1px;
+    }
+    .earnheading{
+        margin-bottom: 30px !important;
     }
     .earnheading h1{
         font-size: 26px !important;
@@ -102,9 +118,6 @@
     .earnbadge .col{
         height: 210px !important;
         margin-bottom: 10px;
-    }
-    .earnbadge .col:last-child{
-        display: none;
     }
     .earnbadge .col img{
         width: 70px !important;

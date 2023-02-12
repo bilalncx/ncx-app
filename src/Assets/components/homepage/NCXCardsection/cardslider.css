@@ -41,6 +41,8 @@ article.ncxcard01 {
     margin-left: 30px !important;
     background: #FFFFFF;
     padding-bottom: 70px !important;
+    margin: 0 auto;
+    text-align: center;
 }
 article.ncxcard01:hover {
     -webkit-box-shadow: 0 10px 20px 0 rgb(0 0 0 / 10%);
@@ -152,8 +154,126 @@ a.card-learnmore:after {
     height: 6px !important;
 }
 
-@media screen and (max-width: 800px){
-   .ncxcarddiv{
-    display: none;
-   }
+
+
+#NCXCreditCardSlider .carousel__slider-tray {
+    display: flex;
 }
+#NCXCreditCardSlider .carousel__slider-tray .carousel__slide {
+    padding: 0px !important;
+}
+#NCXCreditCardSlider .cardtitle, #NCXCreditCardSlider .card-features {
+    margin: 0px 40px;
+}
+#NCXCreditCardSlider .carousel{
+    position: relative !important;
+    width: 100% !important;
+    overflow: hidden !important;
+}
+#NCXCreditCardSlider .carousel .slider {
+    max-width: 1300px;
+    margin: 0 auto;
+    position: relative;
+    padding: 70px 0px !important;
+    margin-left: 0px !important;
+}
+#NCXCreditCardSlider .card-features{
+    padding: 0px !important;
+}
+#NCXCreditCardSlider a.card-learnmore {
+    position: relative;
+    left: -20px;
+}
+.buttonNext {
+    background: none;
+    border: none;
+    background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important;
+    height: 638px !important;
+    width: 150px !important;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.buttonBack{
+    display: none;
+    background: none;
+    border: none;
+    background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important;
+    height: 638px !important;
+    width: 150px !important;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+
+#NCXCreditCardSlider.mobile-ss{
+    display: none;
+}
+@media screen and (max-width: 800px){
+    #NCXCreditCardSlider.mobile-ss{
+        display: block;
+    }
+    #NCXCreditCardSlider{
+        display: none;
+    }
+    #NCXCreditCardSlider.mobile-ss article.ncxcard01{
+        width: 320px;
+        min-width: 320px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .cardtitle h1{
+        font-size: 22px !important;
+        line-height: 26px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .card-features p{
+        font-size: 13px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .card-features p:before{
+        width: 10px !important;
+        height: 10px !important;
+        left: -10px !important
+    }
+    #NCXCreditCardSlider.mobile-ss a.card-learnmore{
+        font-size: 14px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .cardtitle{
+        margin: 0px 30px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss img.cardimg01{
+        max-width: 240px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .buttonBack, #NCXCreditCardSlider.mobile-ss .buttonNext{
+        display: block !important;
+        border: 1px solid !important;
+        background: none !important;
+        height: 40px !important;
+        width: 40px !important;
+        position: relative !important;
+        right: inherit !important;
+        top: inherit !important;
+        display: inline-block !important;
+        border-radius: 50px !important;
+        margin: 5px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .buttonBack svg{
+        transform: rotate(180deg);
+    }
+    #NCXCreditCardSlider.mobile-ss button svg path{
+        fill: #000 !important;
+    }
+    #NCXCreditCardSlider.mobile-ss button svg{
+        width: 12px !important;
+        height: 12px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .carousel .slider{
+        padding-bottom: 30px !important;
+    }
+    #NCXCreditCardSlider.mobile-ss .carousel{
+        text-align: center !important;
+    }
+    .ncxcarddiv{
+        padding: 50px 0px !important;
+        margin-top: -1px !important;
+    }
+ }
+ 

@@ -18,12 +18,12 @@ function HomeNCXCardSection() {
         SlideIndex={1}
         activeSlideIndex={activeSlideIndex}
         onRequestChange={setActiveSlideIndex}
-        itemsToShow={1}
+        // itemsToShow={1}
         itemsToScroll={1}
         inactiveSlideScale={3}
         inactiveSlideOpacity={1}
         // inverted
-        horizontal
+        // horizontal
         useNativeDriver
         // autoplay={true}
         // infinite={true}

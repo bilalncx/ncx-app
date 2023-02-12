@@ -58,6 +58,41 @@ function HomeEarnNCXSection()
                         <h3>8,000 NCX</h3>
                     </div>
                 </div>
+                <div className="earnbadge row mobile">
+                    <div className="col fuji">
+                        <div className="badgeimg">
+                            <img src={Fuji} alt="NCX Fuji" />
+                        </div>
+                        <div className="complete-bar"></div>
+                        <div className="completetext">
+                            <p>Tasks Completed</p>
+                            <p>0 <span>/ 5</span></p>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="badgeimg">
+                            <img src={Rainer} alt="NCX Rainer" />
+                        </div>
+                        <p>Bonus</p>
+                        <h3>1,000 NCX</h3>
+                    </div>
+                </div>
+                <div className="earnbadge row mobile">
+                    <div className="col">
+                        <div className="badgeimg">
+                            <img src={Elbrus} alt="NCX Elbrus" />
+                        </div>
+                        <p>Bonus</p>
+                        <h3>2,000 NCX</h3>
+                    </div>
+                    <div className="col">
+                        <div className="badgeimg">
+                            <img src={Denali} alt="NCX Denali" />
+                        </div>
+                        <p>Bonus</p>
+                        <h3>4,000 NCX</h3>
+                    </div>
+                </div>
             </div>
             <NCXTask />
         </div>

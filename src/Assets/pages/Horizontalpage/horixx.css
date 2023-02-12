@@ -1,0 +1,42 @@
+#NCXCreditCardSlider .carousel__slider-tray {
+    display: flex;
+}
+#NCXCreditCardSlider .carousel__slider-tray .carousel__slide {
+    padding: 0px !important;
+}
+#NCXCreditCardSlider .cardtitle, #NCXCreditCardSlider .card-features {
+    margin: 0px 40px;
+}
+#NCXCreditCardSlider .carousel .slider {
+    max-width: 1300px;
+    margin: 0 auto;
+    position: relative;
+}
+#NCXCreditCardSlider .card-features{
+    padding: 0px !important;
+}
+#NCXCreditCardSlider a.card-learnmore {
+    position: relative;
+    left: -20px;
+}
+.buttonNext {
+    background: none;
+    border: none;
+    background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important;
+    height: 638px !important;
+    width: 150px !important;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.buttonBack{
+    display: none;
+    background: none;
+    border: none;
+    background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important;
+    height: 638px !important;
+    width: 150px !important;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
