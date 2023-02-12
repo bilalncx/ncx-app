@@ -16,12 +16,12 @@ function Home6thVideoSection(){
                         <h1>Earn NCX Tokens</h1>
                     </AnimationOnScroll>
                     <AnimationOnScroll animateIn="animate__fadeIn">
-                        <p>Sign Up, Complete Tasks, reach new Levels while earning NCX Tokens along the way with NCX Rewards Program. One of the most through after Rewards Programs built for the Traders and Community.</p>
+                        <p>Sign Up, Complete Tasks, reach new Levels while earning NCXT along the way with NCX Rewards Program. One of the most through after Rewards Programs built for the Traders and Community.</p>
                     </AnimationOnScroll>
                     
                     <div className="ncxtask row">
                         <div className="taskdiv one">
-                            <h3>10,000 <span>NCX</span></h3>
+                            <h3>10,000 <span>NCXT</span></h3>
                             <div className="taskdiv11">
                                 <div className="text212">
                                     <h4>Sign Up and Verify</h4>
@@ -34,7 +34,7 @@ function Home6thVideoSection(){
                             </div>
                         </div>
                         <div className="taskdiv">
-                            <h3 className="secondtask">1,250 <span>NCX</span></h3>
+                            <h3 className="secondtask">1,250 <span>NCXT</span></h3>
                             <div className="text212">
                                 <h4>Reach $10,000+ in Derivatives Trading Volume </h4>
                                 <div className="buttoninfo">

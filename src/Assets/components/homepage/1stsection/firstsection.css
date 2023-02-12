@@ -4,14 +4,14 @@
 }
 #hero-video {
     width: 100% !important;
-    max-width: 280px;
+    max-width: 270px;
 }
 .hero-section .bsss {
     width: 45%;
 }
 .hero-section .asss {
     width: 55%;
-    padding-top: 100px;
+    padding-top: 70px;
     padding-left: 50px;
 }
 .hero-section{
@@ -22,31 +22,66 @@
 }
 .asss h1 {
     font-size: 43px;
-    line-height: 60px;
+    line-height: 50px;
     color: #FFFFFF;
     font-family: 'urbanist-regular';
-    padding: 20px 100px 20px 0px;
+    margin-bottom: 2px;
+}
+.hero-section .asss img {
+    padding: 20px 0px;
+}
+.hero-section .asss p {
+    font-size: 16px;
+    font-family: 'urbanist-light';
+    color: #FFFFFF;
+    line-height: 22px;
 }
 .hashtag{
     padding-bottom: 10px;
+    column-gap: 10px;
+    display: flex;
 }
 .hashtag span {
     color: #FFFFFF;
-    font-size: 14px;
+    font-size: 17px;
     font-family: 'urbanist-regular';
     background: #212121;
-    padding: 5px 10px;
+    padding: 5px 15px;
     border-radius: 50px;
-    display: inline-block;
     width: fit-content !important;
-    margin-right: 10px;
 }
-.hero-section button.btn01 {
+.btn-signin {
+    line-height: 24px !important;
+    width: 115px !important;
+    height: 38px !important;
+    color: #FFFFFF !important;
+    background: #24A9FF !important;
+    position: relative !important;
+    visibility: visible !important;
+    border-radius: 7px !important;
+    font-size: 16px !important;
+    font-family: 'urbanist-regular' !important;
+    text-transform: capitalize !important;
+}
+.btn-singup {
+    line-height: 24px !important;
+    width: 160px !important;
+    height: 38px !important;
+    color: #FFFFFF !important;
+    background: #24A9FF !important;
+    position: relative !important;
+    visibility: visible !important;
+    border-radius: 7px !important;
+    font-size: 16px !important;
+    font-family: 'urbanist-regular' !important;
+    text-transform: capitalize !important;
+}
+/* .hero-section button.btn01 {
     width: fit-content !important;
     padding: 0px 20px;
     margin-top: 10px;
-}
-.hero-section button.hero-btn{
+} */
+/* .hero-section button.hero-btn{
     border-radius: 2px !important;
 }
 .hero-section button.hero-btn.signin {
@@ -70,7 +105,7 @@
     font-family: 'urbanist-regular' !important;
     width: 150px !important;
     height: 38px !important;
-}
+} */
 
 /************************** HomePage Second Nnumbering Section Starts from here *************************/
 /* Number Update Section */
@@ -92,14 +127,24 @@
     overflow: hidden !important;
     margin-top: 30px;
 }
+.btnsdc {
+    display: flex;
+    column-gap: 12px;
+    align-items: center;
+    margin-top: 20px;
+}
 .img001 {
     display: flex;
+    justify-content: center;
+    align-items: center;
     column-gap: 15px;
-    padding-top: 20px;
+    width: 67px;
+    height: 34px;
+    border: 1px solid #FFFFFF;
+    border-radius: 7px
 }
-.img001 svg {
-    width: 134px;
-    height: auto;
+.img001 svg path {
+    fill: #FFFFFF;
 }
 @media screen and (min-width: 801px){
     .hashtag.mobile {
@@ -109,21 +154,57 @@
         display: none;
     }
 }
+.img001{
+    display: none;
+}
+img.mbl-pic {
+    display: none;
+}
 @media screen and (max-width: 800px){
+    img.mbl-pic {
+        display: block;
+    }
+    .hashtag{
+        display: none;
+    }
+    .hashtag.mobile{
+        display: flex !important;
+        column-gap: 5px !important;
+    }
+    .hashtag.mobile span {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .hero-section .asss h1{
+        padding: 0px !important;
+    }
+    .btn-signin{
+        width: 90px !important;
+        height: 30px !important;
+        font-size: 12px !important;
+    }
+    .btn-singup{
+        width: 110px !important;
+        height: 30px !important;
+        font-size: 12px !important;
+    }
     .hero-section .asss{
         padding-left: 0px;
         padding-top: 50px !important;
         padding-right: 0px !important;
     }
-    span.hide-onmbl {
+    .img001{
+        display: flex !important;
+        height: 30px !important
+    }
+    .btnsdc{
+        margin-top: 10px !important;
+    }
+    img.desk-pic {
         display: none;
     }
-    .img001 svg {
-        width: 110px;
-        height: auto;
-    }
-    .img001{
-        padding-top: 10px !important;
+    .hero-section .asss p{
+        margin-bottom: 20px;
     }
     div#videosection{
         width: 100% !important;

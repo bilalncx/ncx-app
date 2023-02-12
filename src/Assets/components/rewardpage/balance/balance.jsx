@@ -1,0 +1,41 @@
+import React from "react";
+import './balance.css';
+import Button from "@mui/material/Button";
+import { AnimationOnScroll } from 'react-animation-on-scroll';
+import { ReactComponent as RewardStar } from '../../../images/ncx-reward-star.svg';
+
+function MyBalance()
+{
+    return(
+        <div className="balance-section">
+            <div className="reward-row">
+                <div className="container">
+                    <div className="rewardheadrow">
+                        {/* <AnimationOnScroll animateIn="animate__fadeIn"> */}
+                            <div className="reward-center">
+                                <p>Reward Center</p>
+                                <p className="star-res"><RewardStar /> NCX Rewards</p>
+                            </div>
+                            <p className="complete-tsks">Complete Tasks Earn NCX</p>
+                        {/* </AnimationOnScroll> */}
+                    </div>
+                </div>
+            </div>
+            <div className="ncx-balance">
+                <div className="container">
+                    <div className="ncx-baldiv">
+                        {/* <AnimationOnScroll animateIn="animate__fadeIn"> */}
+                            <h3>My NCX Balance</h3>
+                            <h1>10,000,000<span>0</span></h1>
+                        {/* </AnimationOnScroll> */}
+                    </div>
+                    {/* <AnimationOnScroll animateIn="animate__fadeIn"> */}
+                        <p>Sign up to claim your 10,000 NCX Tokens welcome bonus & start earning NCX</p>
+                        <Button className="earn-toget" href="#">Get Started</Button>
+                    {/* </AnimationOnScroll> */}
+                </div>
+            </div>
+        </div>
+    )
+}
+export default MyBalance;

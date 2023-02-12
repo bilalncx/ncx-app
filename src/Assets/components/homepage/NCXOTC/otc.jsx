@@ -27,7 +27,7 @@ function NCXhomepageOTCSection(){
                         <Button href="#">View All</Button>
                     </div>
                     <AnimationOnScroll className="mobile-otcheding" animateIn="animate__fadeIn">
-                        <h1>NCX Token Utility & Features</h1>
+                        <h1>Off Market Trades for Institutional Clients</h1>
                     </AnimationOnScroll>
                 </div>
                 <div className="OTCsect row">

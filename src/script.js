@@ -38,7 +38,7 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("buy-crypto") > -1){
       $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("horizontal") > -1){
+    } else if (window.location.href.indexOf("task-rewards") > -1){
       $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");

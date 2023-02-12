@@ -3,11 +3,11 @@
     padding: 100px 0px 50px 0px;
     position: relative;
 }
-div#cardarticles{
+/* div#cardarticles{
     max-width: 1420px;
     margin: 0 auto;
     margin-right: 0px;
-}
+} */
 img.cardimg01 {
     width: 100%;
     max-width: 290px !important;
@@ -175,7 +175,7 @@ a.card-learnmore:after {
     margin: 0 auto;
     position: relative;
     padding: 70px 0px !important;
-    margin-left: 0px !important;
+    /* margin-left: 0px !important; */
 }
 #NCXCreditCardSlider .card-features{
     padding: 0px !important;
@@ -195,7 +195,6 @@ a.card-learnmore:after {
     top: 0px;
 }
 .buttonBack{
-    display: none;
     background: none;
     border: none;
     background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important;
@@ -204,6 +203,10 @@ a.card-learnmore:after {
     position: absolute;
     left: 0px;
     top: 0px;
+    transform: rotate(180deg);
+}
+button:disabled{
+    display: none;
 }
 
 

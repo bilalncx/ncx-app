@@ -20,10 +20,12 @@
 }
 .ncxotcsection .view-all a{
     color: #FFFFFF !important;
+    border-color: #FFFFFF !important;
 }
 .view-all a:hover{
     background: #34A9FF;
     color: #FFFFFF;
+    border-color: #34A9FF !important;
 }
 .view-all a:focus, .view-all a:focus-visible{
     outline: none !important;
@@ -86,8 +88,8 @@
     .mobile-otcheding{
         display: block;
     }
-    .otclogo.row .col{
-        display: none !important;
+    .otclogo.row .col.view-all {
+        display: none;
     }
     .otclogo.row:before, .otclogo.row:after{
         display: none;
@@ -97,17 +99,19 @@
         background: #000000 !important;
     }
     .mobile-otcheding h1 {
-        font-size: 26px;
-        line-height: 32px;
-        font-family: 'urbanist-medium';
+        font-size: 14px;
+        line-height: 18px;
+        font-family: 'urbanist-regular';
         color: #FFFFFF;
-        padding-right: 90px;
+        padding-right: 0px;
+        margin-top: 10px;
     }
     .OTCsect.row, .OTCsect.row.second{
         display: none;
     }
     .OTCsect.row.mobile{
         display: flex;
+        padding-top: 40px !important;
     }
     .OTCsect.row.mobile:before, .OTCsect.row.mobile:after{
         display: none;
@@ -122,11 +126,11 @@
         padding: 0px 10px 0px 14px;
     }
     .otctxt h2 {
-        font-size: 15px;
+        font-size: 16px;
         font-family: 'urbanist-medium';
     }
     .otctxt p {
-        font-size: 12px;
+        font-size: 13px;
         font-family: 'urbanist-light';
         color: #FFFFFF;
         margin-bottom: 15px;
@@ -139,11 +143,27 @@
     .otc-line{
         height: 250px;
     }
+    .OTCsect.row.mobile.two {
+        padding-top: 60px !important;
+    }
+    .OTCsect.row.mobile.three{
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
+    }
+    .OTCsect.row .col{
+        min-height: inherit;
+    }
     .OTCsect.row.mobile.two .otctxt p{
-        min-height: 145px;
+        min-height: 168px;
+    }
+    .OTCsect.row.mobile.one .otctxt p {
+        height: 186px;
+    }
+    .OTCsect.row.mobile.one .otc-line {
+        height: 280px;
     }
     .OTCsect.row.mobile.two .otc-line {
-        height: 220px;
+        height: 250px;
     }
     .OTCsect.row.mobile.three .otctxt p{
         min-height: 85px;

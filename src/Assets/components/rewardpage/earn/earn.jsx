@@ -1,12 +1,12 @@
 import React from "react";
-import './earnncx.css';
+import './earn.css';
 import Fuji from '../../../images/ncx-fuji.png';
 import Rainer from '../../../images/ncx-rainer.png';
 import Elbrus from '../../../images/ncx-elbrus.png';
 import Denali from '../../../images/ncx-denali.png';
 import Everest from '../../../images/ncx-everest.png';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-import NCXTask from '../ncxtasks/tasks';
+import NCXTask from './tasks';
 
 function HomeEarnNCXSection()
 {

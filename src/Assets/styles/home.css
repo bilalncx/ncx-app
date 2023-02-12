@@ -122,6 +122,9 @@ div#footer-faq {
     width: 40% !important;
     padding: 0px !important;
 }
+#faq .asss h1 {
+    padding: 10px 150px 30px 0px;
+}
 .faq-0 button {
     width: fit-content !important;
     font-size: 12px !important;

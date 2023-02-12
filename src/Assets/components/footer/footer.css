@@ -96,7 +96,7 @@ div#footerdiv {
     max-width: 250px;
     background: none;
     border: 0.5px solid rgba(255,255,255,0.5);
-    min-height: 48px;
+    min-height: 45px;
     padding: 10px;
     border-radius: 8px;
     color: #FFFFFF;
@@ -111,6 +111,7 @@ div#footerdiv {
 .fot-newsleter form input:focus, .fot-newsleter form input:focus-visible{
     outline: none;
     box-shadow: none;
+    background: none !important;
 }
 .fot-newsleter form {
     position: relative;
@@ -118,7 +119,7 @@ div#footerdiv {
 .fot-newsleter form button {
     background: #34A9FF;
     width: 38px;
-    height: 40px;
+    height: 36px;
     position: absolute;
     right: 25px;
     top: 4px;
@@ -259,17 +260,18 @@ li.hiddendss {
     }
     .mobile-footer .fot-newsleter form {
         position: relative;
-        width: 70%;
+        width: 100%;
     }
     .fot-newsleter form input{
         max-width: inherit !important;
-        min-height: 40px;
+        min-height: 45px;
     }
     .fot-newsleter form button {
         border: none !important;
-        width: 30px;
-        height: 32px;
+        width: 38px;
+        height: 35px;
         right: 5px;
+        top: 5px;
     }
     .fot-newsleter p, .social-media p{
         font-size: 15px !important;
@@ -279,8 +281,8 @@ li.hiddendss {
         padding-top: 20px;
     }
     .social-icons .icons a{
-        width: 38px;
-        height: 38px;
+        width: 42px;
+        height: 42px;
     }
     .social-icons .icons a img{
         width: 16px;

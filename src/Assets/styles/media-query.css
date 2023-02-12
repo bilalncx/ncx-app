@@ -82,15 +82,6 @@ div#header-newmobile {
         width: 100%;
         text-align: center;
     }
-    .hashtag span{
-        font-size: 10px !important;
-        margin-bottom: 10px !important;
-        padding:5px 10px !important;
-        margin-right: 5px !important;
-    }
-    .hashtag {
-        padding-bottom: 0px !important;
-    }
     .hero-section:before{
         display: none;
     }

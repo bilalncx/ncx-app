@@ -1,0 +1,46 @@
+.ncxearingsteps{
+    background: #F7F9FE;
+    padding: 80px 0px;
+    text-align: center; 
+}
+.ncxearingsteps h1 {
+    font-size: 42px;
+    font-family: 'urbanist-medium';
+    line-height: 46px;
+    color: #40475A;
+}
+.steps-row {
+    display: flex;
+    column-gap: 50px;
+    padding-top: 50px;
+}
+.steps-row .col{
+    width: 33.333%;
+}
+.steps-row img {
+    max-height: 200px;
+    width: auto;
+    margin-bottom: 30px;
+}
+.steps-row p {
+    width: 78%;
+    margin: 0 auto;
+    font-size: 18px;
+    font-family: 'urbanist-regular';
+    line-height: 24px;
+    color: #2C2236;
+}
+.ncxearingsteps a.earn-toget{
+    font-size: 18px;
+    font-family: 'urbanist-semibold';
+    width: 165px;
+    height: 52px;
+    background: #925BCA;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 50px;
+}

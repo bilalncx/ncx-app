@@ -194,6 +194,10 @@ function HomeNCXToken()
                                 <div className="color-eight"></div>
                                 <p>10M</p>
                             </div>
+                            <div className="color">
+                                <div className="color-nine"></div>
+                                <p>20.5M</p>
+                            </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
@@ -222,6 +226,9 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <p>80%</p>
+                            </div>
+                            <div className="color">
+                                <p>100%</p>
                             </div>
                         </div>
                     </div>
@@ -252,6 +259,9 @@ function HomeNCXToken()
                             <div className="color">
                                 <p>30%</p>
                             </div>
+                            <div className="color">
+                                <p>35%</p>
+                            </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
@@ -279,7 +289,10 @@ function HomeNCXToken()
                                 <p>60%</p>
                             </div>
                             <div className="color">
-                                <p>70%</p>
+                                <p>80%</p>
+                            </div>
+                            <div className="color">
+                                <p>100%</p>
                             </div>
                         </div>
                     </div>
@@ -306,6 +319,9 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <p>150x</p>
+                            </div>
+                            <div className="color">
+                                <p>200x</p>
                             </div>
                         </div>
                     </div>
@@ -336,6 +352,9 @@ function HomeNCXToken()
                             <div className="color">
                                 <p>15%</p>
                             </div>
+                            <div className="color">
+                                <p>25%</p>
+                            </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
@@ -353,17 +372,20 @@ function HomeNCXToken()
                             <div className="color inactive">
                                 {/* <p>5%</p> */}
                             </div>
+                            <div className="color inactive">
+                                {/* <p>5%</p> */}
+                            </div>
+                            <div className="color">
+                                <p>10%</p>
+                            </div>
+                            <div className="color">
+                                <p>15%</p>
+                            </div>
                             <div className="color">
                                 <p>20%</p>
                             </div>
                             <div className="color">
-                                <p>30%</p>
-                            </div>
-                            <div className="color">
-                                <p>40%</p>
-                            </div>
-                            <div className="color">
-                                <p>50%</p>
+                                <p>25%</p>
                             </div>
                         </div>
                     </div>
@@ -381,6 +403,9 @@ function HomeNCXToken()
                             </div>
                             <div className="color inactive">
                                 {/* <p>5%</p> */}
+                            </div>
+                            <div className="color inactive">
+                                {/* <p>20%</p> */}
                             </div>
                             <div className="color inactive">
                                 {/* <p>20%</p> */}
@@ -410,6 +435,9 @@ function HomeNCXToken()
                             </div>
                             <div className="color inactive">  
                                 <p>12%</p>
+                            </div>
+                            <div className="color">
+                                <p>15%</p>
                             </div>
                         </div>
                     </div>

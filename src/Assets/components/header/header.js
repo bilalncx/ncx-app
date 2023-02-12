@@ -8,6 +8,8 @@ import IconButton from "@mui/material/IconButton";
 import Logo from './NCX-logo.svg';
 import './header.css';
 import { ReactComponent as NCXMore } from '../../images/ncx-header-more.svg';
+import { ReactComponent as AppleIcon } from '../../images/apple-icon.svg';
+import { ReactComponent as GooglePlayIcon } from '../../images/play-icon.svg';
   
 export default function Header() {   
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
@@ -95,6 +97,9 @@ export default function Header() {
                   <a href="#" target="_blank" rel="noreferrer">NCX Card</a>
                 </li>
                 <li className="main_title white_bg">
+                  <a href="#" target="_blank" rel="noreferrer">NCX Token</a>
+                </li>
+                <li className="main_title white_bg">
                   <a href="#">More
                   <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.80486 5L9.62305 0.181818L9.42824 -2.32303e-09L4.80486 4.62338L0.181488 -1.12589e-07L-0.000329914 0.181818L4.80486 5Z" fill="white"></path> </svg>
                   </a>
@@ -147,9 +152,12 @@ export default function Header() {
               </ul>
             </div>
             <div className="login-buttons">
-              {/* <Button className="btn01 signup">Sign Up</Button> */}
               <Button href="https://my.ncx.cx/" target="_blank" className="signin">Sign In</Button>
               <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex">Launch DEX</Button>
+              <div className="storeicons">
+                <AppleIcon />
+                <GooglePlayIcon />
+              </div>
             </div>
           </div>
 

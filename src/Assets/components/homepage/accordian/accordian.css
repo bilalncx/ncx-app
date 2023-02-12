@@ -74,9 +74,12 @@ ul.faq_li li:before {
         margin-top: 30px;
     }
     .accordian h2{
-        font-size: 14px !important;
+        font-size: 16px !important;
         line-height: 20px !important;
         padding-right: 20px;
+    }
+    .accordian .content p{
+        font-size: 14px !important;
     }
     .asss h1 {
         font-size: 26px !important;

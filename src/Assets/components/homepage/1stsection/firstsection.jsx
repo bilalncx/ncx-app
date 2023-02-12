@@ -4,8 +4,8 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import icon from '../../../images/ncx-staricon.svg';
 import Button from "@mui/material/Button";
 import CountUp from 'react-countup';
-import { ReactComponent as Appstore } from '../../../images/ncxappstore.svg';
-import { ReactComponent as Googleplay } from '../../../images/ncxgoogleplay.svg';
+import { ReactComponent as AppleIcon } from '../../../images/apple-icon.svg';
+import { ReactComponent as GooglePlayIcon } from '../../../images/play-icon.svg';
 
 function HomeFirstSection()
 {
@@ -21,31 +21,58 @@ function HomeFirstSection()
         <div className="hero-section">
             <div className="row container">
                 <div className="asss">
-                    <img src={icon} alt="ncx" />
+                    <img className="mbl-pic" src={icon} alt="ncx" />
                     <h1>NCX Exchange</h1>
+                    <p>First Hybrid Crypto Exchange x Trading Platform </p>
+                    <img className="desk-pic" src={icon} alt="ncx" />
                     <div className="hashtag">
                         <span>Advanced CEX</span>
                         <span>Multichain DEX</span>
-                        <span className="hide-onmbl">Swap over 200k of tokens on 5 Chains</span>
+                        <span>Spot Trading</span>
+                    </div>
+                    <div className="hashtag">
+                        <span>Swap over 200k of tokens on 5 Chains</span>
+                        <span>Derivatives</span>
+                    </div>
+                    <div className="hashtag">
+                        <span>Up to 200x Leverage </span>
+                        <span>DeFi Staking & LP’s </span>
+                        <span>Forex</span>
+                    </div>
+                    <div className="hashtag">
+                        <span>Equities (US, EU, Asia Stock Markets)</span>
+                        <span>Commodities</span>
                     </div>
                     <div className="hashtag mobile">
-                        <span>Swap over 200k of tokens on 5 Chains</span>
-                        <span>Liquidity Pools</span>
+                        <span>Advanced CEX</span>
+                        <span>Multichain DEX</span>
+                        <span>Spot & Derivatives </span>
                     </div>
-                    <div className="hashtag">
-                        <span>Trade Crypto, Forex, Stock Market, ETFs, Indexes, Metals Derivatives with up to 100x Leverage</span>
+                    <div className="hashtag mobile">
+                        <span>Up to 200x Leverage </span>
+                        <span>Equities (US, EU, Asia  Markets)</span>
                     </div>
-                    <div className="hashtag">
-                        <span>Over 500 Trading Pairs</span>
-                        <span>DeFi Staking</span>
-                        <span>Yied Farming</span>
-                        <span className="hide-onmbl">Liquidity Pools</span>
+                    <div className="hashtag mobile">
+                        <span>>500 Trading Pairs</span>
+                        <span>ETF’s</span>
+                        <span>Forex</span>
+                        <span>Commodities</span>
                     </div>
-                    {/* <Button className="btn01 hero-btn signin">Sign In</Button>
-                    <Button className="btn01 hero-btn singup">Launch DEX</Button> */}
-                    <div className="img001">
-                        <Appstore />
-                        <Googleplay/>
+                    <div className="hashtag mobile">
+                        <span>Staking & LP’s</span>
+                        <span>Swap >200k Tokens Across 5 Chains </span>
+                    </div>
+                    <div className="hashtag mobile">
+                        <span>Buy Crypto with >16 Payment Methods </span>
+                        <span>24/7 Support</span>
+                    </div>
+                    <div className="btnsdc">
+                        <Button className="btn-signin">Sign Up</Button>
+                        <Button className="btn-singup">Claim Airdrop</Button>
+                        <div className="img001">
+                            <AppleIcon />
+                            <GooglePlayIcon />
+                        </div>
                     </div>
                 </div>
                 <div id="videosection" className="bsss">

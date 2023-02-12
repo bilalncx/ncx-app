@@ -11,7 +11,8 @@ import UserAgreement from './Assets/pages/user-agreement/user-agreement';
 import CookiePolicy from './Assets/pages/cookie-policy/cookie-policy';
 import APIDocumentation from './Assets/pages/api-documentation/api-documentation';
 import BuyCrypto from './Assets/pages/buy_crypto/buy-crypto';
-import HorizontalRed from './Assets/pages/Horizontalpage/horizontalpage';
+// import HorizontalRed from './Assets/pages/Horizontalpage/horizontalpage';
+import TaskReward from './Assets/pages/taskrewards/taskreward';
 
 const App = () => {
   return (
@@ -27,7 +28,8 @@ const App = () => {
           <Route path='/cookie-policy' element={<CookiePolicy />}/>
           <Route path='/api-agreement' element={<APIDocumentation />}/>
           <Route path='/buy-crypto' element={<BuyCrypto />}/>
-          <Route path='/horizontal' element={<HorizontalRed />}/>
+          <Route path='/task-rewards' element={<TaskReward />} />
+          {/* <Route path='/horizontal' element={<HorizontalRed />}/> */}
         </Routes>
       </BrowserRouter>
     </div>

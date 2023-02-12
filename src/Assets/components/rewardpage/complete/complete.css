@@ -1,0 +1,73 @@
+.earingingcomplet-sect {
+    text-align: center;
+    padding: 80px 0px;
+}
+.earingingcomplet-sect h1 {
+    color: #40475A;
+    font-size: 42px;
+    font-family: 'urbanist-medium';
+    line-height: 46px;
+}
+.earingingcomplet-sect a.earn-toget {
+    font-size: 14px;
+    font-family: 'urbanist-medium';
+    width: 235px;
+    height: 48px;
+    background: #925BCA;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.getocodesect {
+    display: flex;
+    column-gap: 50px;
+    padding-top: 80px;
+    justify-content: center;
+}
+.getocodesect .col{
+    width: 33.33%;
+    background: #F7F9FE;
+    min-height: 215px;
+    max-width: 350px;
+    padding: 20px;
+}
+.quesion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+.quesion p {
+    font-size: 10px;
+    font-family: 'urbanist-regular';
+    text-transform: uppercase;
+}
+.getocodesect h1 {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+    font-family: 'urbanist-semibold';
+    color: #2C2236;
+    margin-bottom: 5px;
+}
+.getocodesect p{
+    font-size: 12px;
+    font-family: 'urbanist-light';
+    line-height: 16px;
+    color: #000000;
+    text-align: left;
+}
+.getocodesect a {
+    font-family: 'urbanist-regular';
+    font-size: 12px;
+    color: #925BCA;
+    display: flex;
+    justify-content: end;
+}
+p.getocode-txt {
+    min-height: 97px;
+}

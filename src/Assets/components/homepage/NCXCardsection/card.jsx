@@ -33,12 +33,12 @@ function HomepageCardSection()
                         step={1}
                         naturalSlideWidth={300}
                         naturalSlideHeight={500}
-                        hasMasterSpinner
+                        // hasMasterSpinner
                         // isPlaying={true}
                         // interval={3000}
-                        orientation="horizontal"
-                        infinite
-                        playDirectio="forward"
+                        // orientation="horizontal"
+                        // infinite
+                        // playDirectio="forward"
                     >
                     <Slider className="slider">
                         <Slide index={0}>
