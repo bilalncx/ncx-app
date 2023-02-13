@@ -57,6 +57,7 @@ p.complete-tsks {
     padding: 25px 50px;
     border: 1px solid #565672;
     border-radius: 20px;
+    position: relative;
 }
 .ncx-balance {
     text-align: center;
@@ -81,4 +82,104 @@ p.complete-tsks {
     color: #FFFFFF;
     margin: 0 auto;
     margin-top: 30px;
+}
+.ncx-balanceup, .colorncx-balanceup{
+    font-size: 80px;
+    font-family: 'urbanist-semibold';
+    color: #FFFFFF;
+    line-height: 86px;
+}
+.colorncx-balanceup{
+    color: #CBB7E0;
+}
+.ncx-baldiv:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 1px solid #E1C8FF;
+    border-radius: 20px;
+    animation: clippath 3s linear infinite;
+}
+@keyframes clippath{0%, to{
+    -webkit-clip-path:inset(95% 0 0 0);
+    clip-path:inset(95% 0 0 0)
+    }
+    20%{
+        -webkit-clip-path:inset(0 95% 0 0);
+        clip-path:inset(0 95% 0 0)
+    }
+    50%{
+        -webkit-clip-path:inset(0 0 95% 0);
+        clip-path:inset(0 0 95% 0)
+    }
+    70%{
+        -webkit-clip-path:inset(0 0 0 95%);
+        clip-path:inset(0 0 0 95%)
+    }
+}
+
+@media screen and (max-width: 800px){
+    .reward-row{
+        margin-top: 7px;
+    }
+    .rewardheadrow{
+        padding: 0px;
+        align-items: center;
+    }
+    p.complete-tsks, .reward-center p{
+        font-size: 12px;
+        line-height: 15px;
+    }
+    p.star-res svg {
+        width: 12px;
+    }
+    .reward-center{
+        column-gap: 5px;
+    }
+    .reward-center p {
+        border-right: 1px solid #565672;
+        padding-right: 5px;
+        border-width: 1.5px;
+    }
+    p.star-res{
+        border: none !important;
+        padding: 0px !important;
+        column-gap: 5px;
+    }
+    .ncx-baldiv{
+        margin: 40px 0px 30px 0px;
+        padding: 16px 24px;
+        display: block;
+    }
+    .ncx-baldiv h3{
+        font-size: 16px !important;
+        font-family: 'urbanist-regular';
+        line-height: 20px !important;
+        text-align: left;
+    }
+    .ncx-balanceup, .colorncx-balanceup{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .balance-counter {
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 20px;
+    }
+    .ncx-balance .container p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .ncx-balance .container a.earn-toget {
+        width: 145px;
+        height: 40px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .balance-section{
+        padding-bottom: 50px;
+    }
 }

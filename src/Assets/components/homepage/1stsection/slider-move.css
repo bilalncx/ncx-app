@@ -1,0 +1,86 @@
+.hero-section .row.container {
+    display: none;
+}
+.hero-section .whatwe-head {
+    display: none;
+}
+.hero-section .widerangencxproducts {
+    padding: 0px;
+    background: #000000;
+    padding-bottom: 50px;
+}
+.hero-section button.pro-tabs{
+    color: #FFFFFF !important;
+}
+.hero-section button.pro-tabs.active {
+    color: #349AFF !important;
+}
+.hero-section .crypto-trade, .hero-section .deri-row, .hero-section .ncx-card-trade, .hero-section .ncx-apisect{
+    min-width: 100% !important;
+    max-width: 100% !important;
+    max-height: 586px !important;
+}
+.hero-section .cardtrade-row .col.product-img img{
+    min-width: 540px !important;
+    max-width: 540px !important;
+    top: -60px !important;
+}
+.hero-section .homecarouselslider {
+    padding-bottom: 50px;
+}
+.hero-section button#btn-7, .hero-section button#btn-8 {
+    display: none;
+}
+.hero-section .product-tabs-btn{
+    justify-content: space-between !important;
+    column-gap: inherit !important;
+}
+div#Homevideosection {
+    z-index: -1;
+    position: relative;
+}
+video#hhero-video {
+    width: 100%;
+    max-height: 586px;
+    object-fit: cover;
+}
+.hero-section .deri-row {
+    position: absolute;
+    top: 0;
+    background: no-repeat;
+    margin-top: 0px;
+}
+.hero-section .deri-row .col h1{
+    color: #FFFFFF;
+}
+.hero-section .bullets span, #her-cryptodiv .crypto-row .bullets span {
+    background: rgba(255,255,255, 0.08) !important;
+    color: #FFFFFF !important;
+}
+.hero-section p.deriv-p, #her_dex p.dexp1, #her_dex p.dexp2{
+    color: #FFFFFF;
+}
+.hero-section a.get-app, .hero-section .buycrypt-btn {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+    border-color: #FFFFFF !important;
+}
+#her-cryptodiv, div#her_cardset, #her_cryptotrading, #her_apisect{
+    position: relative;
+}
+#her-cryptodiv .crypto-trade, #her_cardset .ncx-card-trade, #her_apisect .ncx-apisect {
+    background: transparent;
+    margin-top: 0px;
+    position: absolute;
+    top: 0px;
+}
+#her_apisect .api-row h1{
+    text-align: left;
+}
+.hero-section .prod-butns a.der-buttons {
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+#her_apisect .api-monitoring h3, #her_apisect .api-monitoring p{
+    text-align: left;
+}

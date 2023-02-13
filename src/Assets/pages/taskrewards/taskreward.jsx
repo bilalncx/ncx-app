@@ -3,7 +3,7 @@ import './taskreward.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
 import EarnTaskSection from '../../components/rewardpage/earn/earn';
-import VideoSection from '../../components/homepage/6thvideosection/newgeneration';
+import VideoSection from '../../components/rewardpage/rewardvideo/rewardvideo';
 import NCXBalance from '../../components/rewardpage/balance/balance';
 import NCXSteps from '../../components/rewardpage/steps/steps';
 import NCXCompleteEarn from '../../components/rewardpage/complete/complete';

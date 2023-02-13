@@ -1,0 +1,178 @@
+/************************** HomePage Seventh New Generation Section Starts from here *************************/
+.new-generation {
+    background: #FFFFFF !important;
+    padding: 100px 0px;
+    position: relative;
+}
+video#ncx-main-video {
+    max-width: 100%;
+    object-fit: cover;
+    height: 100%;
+    filter: drop-shadow(4px 4px 25px rgba(0, 0, 0, 0.25));
+}
+.generate-div {
+    width: 48%;
+}
+.generate-video{
+    width: 52%;
+}
+.new-generation .container {
+    display: flex;
+}
+.generate-div h1{
+    font-size: 38px;
+    line-height: 46px;
+    font-family: 'urbanist-medium';
+}
+.generate-div p{
+    font-size: 16px;
+    line-height: 22px;
+    width: 60%;
+    margin-top: 15px;
+}
+.taskdiv {
+    background: #F7F9FE;
+    border-radius: 2px;
+    width: 240px;
+    height: 245px;
+    padding: 25px 20px;
+    display: grid;
+    gap: 65px;
+    margin-right: 20px;
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+.taskdiv:hover{
+    transform: translateY(0%) scale(1.06);
+    -webkit-transform: translateY(0%) scale(1.06);
+    -moz-transform: translateY(0%) scale(1.06);
+    cursor: pointer;
+}
+.taskdiv h3 {
+    color: #40475A;
+    font-size: 42px;
+}
+.taskdiv h3 span {
+    font-size: 16px;
+}
+.buttoninfo a {
+    background: #925BCA;
+    color: #FFF;
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    border-radius: 50px;
+    text-transform: capitalize;
+    width: 115px;
+    height: 40px;
+}
+.buttoninfo a:hover{
+    background: #925BCA;
+    color: #FFF;
+}
+.buttoninfo a:focus, .buttoninfo a:focus-visible{
+    background: #925BCA;
+    color: #FFF;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+}
+.buttoninfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.buttoninfo svg{
+    padding-bottom: 3px;
+    width: 18px;
+    height: 18px;
+}
+.text212 h4 {
+    font-size: 18px;
+    font-family: 'urbanist-medium';
+}
+.text212 {
+    padding-bottom: 10px;
+}
+.text212 p {
+    width: 100%;
+    margin-top: 5px;
+    font-size: 13px;
+    color: #565672;
+}
+h2.secondtask{
+    margin-bottom: 20px;
+}
+.ncxtask.row {
+    margin: 0px !important;
+    display: flex;
+    margin-top: 50px !important;
+}
+.taskdiv.one{
+    gap: 55px;
+}
+
+@media screen and (max-width: 800px) {
+    .new-generation{
+        padding: 50px 0px;
+    }
+    .generate-div, .generate-video{
+        width: 100%;
+    }
+    .new-generation .container{
+        display: block;
+    }
+    .generate-div h1{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .generate-div p{
+        width: 100%;
+        font-size: 14px;
+        line-height: 20px;
+        font-family: 'urbanist-regular';
+    }
+    .ncxtask.row{
+        margin-top: 30px !important;
+        justify-content: space-between;
+    }
+    .ncxtask.row:before, .ncxtask.row:after{
+        display: none;
+    }
+    .taskdiv {
+        width: 49%;
+        margin-right: 0px;
+        max-height: 170px;
+        gap: 40px !important;
+        padding: 15px 10px 15px 15px !important;
+    }
+    .taskdiv.one{
+        gap: 29px !important;
+    }
+    .taskdiv h3{
+        font-size: 28px;
+        font-family: 'urbanist-medium';
+    }
+    .taskdiv h3 span{
+        font-size: 12px;
+        font-family: 'urbanist-regular';
+    }
+    .generate-video{
+        margin-top: 30px;
+    }
+    .text212 h4 {
+        font-size: 14px;
+        font-family: 'urbanist-medium';
+    }
+    .buttoninfo a{
+        width: 95px;
+        height: 30px;
+        font-size: 12px !important;
+    }
+    video#ncx-main-video{
+        width: 100% !important;
+        height: auto !important;   
+        max-width: inherit !important;
+        object-fit: inherit !important;
+        
+    }
+}

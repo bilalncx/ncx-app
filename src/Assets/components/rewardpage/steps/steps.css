@@ -44,3 +44,36 @@
     margin: 0 auto;
     margin-top: 50px;
 }
+
+@media screen and (max-width: 800px) {
+    .ncxearingsteps{
+        padding: 50px 0px;
+    }
+    .ncxearingsteps h1{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .steps-row{
+        display: block;
+    }
+    .steps-row .col{
+        width: 100%;
+        text-align: center;
+    }
+    .steps-row img {
+        max-height: 150px;
+    }
+    .steps-row p{
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .steps-row .col:nth-child(2){
+        margin: 40px 0px;
+    }
+    .ncxearingsteps a.earn-toget{
+        width: 145px;
+        height: 40px;
+        font-size: 16px;
+    }
+}

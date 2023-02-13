@@ -3,42 +3,7 @@
     background-color: #000000 !important;
 }
 /* ********************************************* */
-.hero-section .row.container {
-    display: none;
-}
-.hero-section .whatwe-head {
-    display: none;
-}
-.hero-section .widerangencxproducts {
-    padding: 0px;
-    background: #000000;
-    padding-bottom: 50px;
-}
-.hero-section button.pro-tabs{
-    color: #FFFFFF !important;
-}
-.hero-section button.pro-tabs.active {
-    color: #349AFF !important;
-}
-.hero-section .crypto-trade, .hero-section .deri-row, .hero-section .ncx-card-trade, .hero-section .ncx-apisect{
-    min-width: 100% !important;
-    max-width: 100% !important;
-    max-height: 586px !important;
-}
-.hero-section .cardtrade-row .col.product-img img{
-    min-width: 570px !important;
-    max-width: 570px !important;
-}
-.hero-section .homecarouselslider {
-    padding-bottom: 50px;
-}
-.hero-section button#btn-7, .hero-section button#btn-8 {
-    display: none;
-}
-.hero-section .product-tabs-btn{
-    justify-content: space-between !important;
-    column-gap: inherit !important;
-}
+
 /* ********************************************* */
 #hero-video {
     width: 100% !important;
@@ -204,7 +169,7 @@ img.mbl-pic {
         display: none;
     }
     .hero-section .row.container {
-        display: block;
+        display: block !important;
     }
     img.mbl-pic {
         display: block;

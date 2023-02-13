@@ -406,6 +406,7 @@ p.deriv-p.crypttradep2 {
     font-family: 'urbanist-medium';
     color: #FFFFFF;
     line-height: 40px;
+    text-align: left;
 }
 .API-search .searchbar-api{
     width: 100%;

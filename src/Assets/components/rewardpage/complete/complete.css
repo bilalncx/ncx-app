@@ -71,3 +71,43 @@
 p.getocode-txt {
     min-height: 97px;
 }
+
+@media screen and (max-width: 800px){
+    .earingingcomplet-sect h1{
+        font-size: 26px;
+        line-height: 32px;
+        font-family: 'urbanist-semibold';
+        padding: 0px 10px;
+    }
+    .earingingcomplet-sect a.earn-toget{
+        width: 230px;
+        height: 40px;
+        font-size: 13px;
+    }
+    .getocodesect{
+        display: block;
+        padding-top: 50px;
+    }
+    .getocodesect .col{
+        width: 100%;
+    }
+    .getocodesect .col:nth-child(2){
+        margin: 30px 0px;
+    }
+    .quesion p{
+        font-size: 12px !important;
+        font-family: 'urbanist-semibold';
+    }
+    .getocodesect h1{
+        padding: 0px !important;
+        text-align: left !important;
+        font-size: 18px !important;
+        line-height: 24px !important;
+    }
+    p.getocode-txt {
+        min-height: 97px;
+        font-size: 14px !important;
+        line-height: 20px;
+        font-family: 'urbanist-light' !important;
+    }
+}
