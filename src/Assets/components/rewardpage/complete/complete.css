@@ -90,6 +90,7 @@ p.getocode-txt {
     }
     .getocodesect .col{
         width: 100%;
+        max-width: inherit !important;
     }
     .getocodesect .col:nth-child(2){
         margin: 30px 0px;
