@@ -6,6 +6,8 @@ import Button from "@mui/material/Button";
 import CountUp from 'react-countup';
 import { ReactComponent as AppleIcon } from '../../../images/apple-icon.svg';
 import { ReactComponent as GooglePlayIcon } from '../../../images/play-icon.svg';
+// import SliderSection from '../whatwedo/whatwe';
+import HomeSlider from './slider-move';
 
 function HomeFirstSection()
 {
@@ -22,7 +24,7 @@ function HomeFirstSection()
             <div className="row container">
                 <div className="asss">
                     <img className="mbl-pic" src={icon} alt="ncx" />
-                    <h1>NCX Exchange</h1>
+                    <h1>NCX <span>Exchange</span></h1>
                     <p>First Hybrid Crypto Exchange x Trading Platform </p>
                     <img className="desk-pic" src={icon} alt="ncx" />
                     <div className="hashtag">
@@ -89,6 +91,10 @@ function HomeFirstSection()
                         </video>
                     </div>
                 </div>
+            </div>
+
+            <div id="homecarouselslides" className="container">
+                <HomeSlider />
             </div>
             
             <div className="currencies-options row">

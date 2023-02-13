@@ -2,9 +2,10 @@
     padding: 100px 0px 120px 0px;
     position: relative;
     background-color: #000000;
-    background: url(../../../images/ncx-otcbg.png);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background: #000000;
+    /* background: url(../../../images/ncx-otcbg.png); */
+    /* background-repeat: no-repeat;
+    background-size: 100% 100%; */
 }
 .ncx-otc {
     display: flex;
@@ -137,7 +138,7 @@
         min-height: 155px;
     }
     .otc-image svg{
-        height: 20px;
+        height: 26px;
         width: auto;
     }
     .otc-line{

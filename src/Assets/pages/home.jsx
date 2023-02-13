@@ -31,6 +31,7 @@ import NCXCardSlider from '../components/homepage/NCXCardsection/card';
 import NCXOTCSection from '../components/homepage/NCXOTC/otc';
 import NCXHomeTrends from '../components/homepage/ncxtrends/trends';
 import WhatWeDoSection from '../components/homepage/whatwedo/whatwe';
+import MarketSLider from '../components/homepage/market/flyers';
 // import HorizontalWhatWeDo from '../components/homepage/horizontalscrollsection/horizontal';
 
 
@@ -52,7 +53,7 @@ function MainHome()
             <Home2ndSection />
 
             <div id="market" className="market-exchange">
-                <div className="row marketimg">
+                {/* <div className="row marketimg">
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <img src={Market1} alt="NCX" />
@@ -73,6 +74,9 @@ function MainHome()
                             <img src={Market4} alt="NCX" />
                         </AnimationOnScroll>
                     </div>
+                </div> */}
+                <div className="row marketing">
+                    <MarketSLider />
                 </div>
                 <div className="mbl-heading">
                     <AnimationOnScroll animateIn="animate__fadeIn">

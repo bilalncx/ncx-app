@@ -88,6 +88,7 @@ img.deri-image {
     font-family: 'urbanist-medium';
     line-height: 42px;
     margin-bottom: 40px;
+    text-align: left;
 }
 .derivatives-trade h1 {
     width: 107% !important;
@@ -95,6 +96,7 @@ img.deri-image {
 p.deriv-p {
     width: 65%;
     padding-top: 15px;
+    text-align: left;
 }
 .prod-butns {
     display: flex;
@@ -158,12 +160,14 @@ a.get-app:hover{
     color: #FFFFFF;
     width: 84%;
     margin-bottom: 5px;
+    text-align: left;
 }
 .crypto-trade p {
     font-size: 20px !important;
     font-family: 'urbanist-regular';
     color: #FFFFFF;
     margin-bottom: 25px;
+    text-align: left;
 }
 .crypto-row .bullets span {
     background: #FFFFFF !important;
@@ -239,6 +243,7 @@ p.dexp1 {
     width: 70%;
     height: 84px;
     font-family: 'urbanist-regular';
+    text-align: left;
 }
 .ncx-dexphone-sect h1 {
     margin-bottom: 20px !important;
@@ -253,6 +258,7 @@ p.dexp2 {
     line-height: 24px;
     width: 50%;
     padding-top: 10px;
+    text-align: left;
 }
 .ncx-card-trade{
     background: url(../../../images/ncx-card-traebg.png);
@@ -285,6 +291,7 @@ p.dexp2 {
     color: #FFFFFF;
     font-family: 'urbanist-medium';
     margin-bottom: 20px;
+    text-align: left;
 }
 p.cardp1 {
     color: #FFFF;
@@ -293,6 +300,7 @@ p.cardp1 {
     line-height: 24px;
     width: 80%;
     margin-bottom: 20px;
+    text-align: left;
 }
 .cardtrade-row .bullets span {
     color: #000000;
@@ -304,6 +312,7 @@ p.cardp2{
     margin-bottom: 20px;
     font-family: 'urbanist-regular';
     color: #FFFFFF;
+    text-align: left;
 }
 .cardtrade-row a.der-buttons {
     color: #FFFFFF;
@@ -604,6 +613,15 @@ span.apisvg {
 span.mbl-bltshow {
     display: none;
 }
+@media screen and (max-width: 1280px){
+    .deri-row, .ncx-card-trade{
+        max-width: 100% !important;
+        min-width: 100% !important;
+    }
+    .cardtrade-row .col.product-img img{
+        min-width: 100% !important;
+    }
+}
 @media screen and (max-width: 800px){
     .widerangencxproducts{
         padding: 30px 0px 20px 0px !important;
@@ -806,6 +824,7 @@ span.mbl-bltshow {
         max-width: inherit !important;
         margin-top: 10px !important;
         max-height: inherit !important;
+        background-size: cover !important;
     }
     .TradeNCXToken .ncxtoken .container {
         padding: 0px !important;

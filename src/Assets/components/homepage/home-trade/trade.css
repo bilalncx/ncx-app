@@ -180,9 +180,10 @@ button.conttrade-tabs.active {
         padding: 13px 10px !important;
     }
     button.conttrade-tabs {
-        min-width: 93px;
-        margin-bottom: 8px;
-        margin-right: 8px;
+        min-width: 90px;
+        margin-bottom: 6px;
+        margin-right: 6px;
+        max-width: 96px;
     }
     .innercontent-tabs {
         padding: 10px 0px 0px 0px;

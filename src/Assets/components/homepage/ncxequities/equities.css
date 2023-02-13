@@ -285,4 +285,7 @@ button.equity-tabs.active {
     .row.equitiesrow.indices, .row.equitiesrow.currencies{
         margin: 50px 0px 0px 0px !important;
     }
+    .col.green .tableshadow.row, .col.red .tableshadow.row, .equitytable2 .col.black a.tableshadow.row{
+        justify-content: space-between !important;
+    }
 }

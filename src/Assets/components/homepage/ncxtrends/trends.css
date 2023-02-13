@@ -9,35 +9,36 @@
     font-size: 31px;
     line-height: 30px;
     padding-left: 10px;
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'urbanist-regular';
-    border-left: 1px solid #FFFFFF;
+    border-left: 1px solid #000000;
 }
 p.trending-text {
     font-size: 16px;
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'urbanist-regular';
     margin-top: 10px;
 }
 .trendsrow .view-all a {
-    border: 1px solid #FFFFFF;
+    border: 1px solid #34A9FF;
     width: 134px;
     height: 38px;
     font-size: 16px;
     text-transform: capitalize;
-    color: #FFFFFF;
+    color: #34A9FF;
     border-radius: 7px;
     font-family: 'urbanist-regular';
 }
 .trendsrow .view-all a:hover{
     border-color: #34A9FF;
+    background: #34A9FF;
 }
 .ncx-trends svg path:nth-child(2) {
     fill: #000000;
 }
 .homencxtrends {
     padding: 80px 0px;
-    background: #000000;
+    background: #FFFFFF;
     position: relative;
 }
 .buttons-tabs {
@@ -46,21 +47,21 @@ p.trending-text {
 .buttons-tabs button {
     font-size: 12px !important;
     font-family: 'urbanist-medium' !important;
-    border: 0.5px solid #FFFFFF !important;
+    border: 0.5px solid #000000 !important;
     border-radius: 50px !important;
     padding: 5px 15px !important;
     margin-right: 5px !important;
     background: none;
-    color: #FFFFFF !important;
+    color: #000000 !important;
     margin-left: 0px !important;
 }
 
 .buttons-tabs button:active, .buttons-tabs button:hover, .buttons-tabs button:focus, .buttons-tabs button:focus-visible{
-    background: #34A9FF !important;
+    background: #000000 !important;
     color: #FFFFFF !important;
     outline: none !important;
     box-shadow: none !important;
-    border-color: #34A9FF !important;
+    border-color: #000000 !important;
 }
 .blog-tabs {
     padding-top: 40px;
@@ -100,7 +101,7 @@ img.trend-img {
 .trend-title {
     font-size: 24px;
     font-family: 'urbanist-medium';
-    color: #FFFFFF;
+    color: #000000;
     padding-top: 20px;
     min-height: 123px;
 }
@@ -116,14 +117,14 @@ img.trend-img {
     font-size: 12px;
     font-family: 'urbanist-medium';
     padding-bottom: 5px;
-    color: #FFFFFF;
+    color: #000000;
 }
 .by-date p span img {
     max-height: 10px !important;
     min-height: 10px;
 }
 a.trend-seemore {
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'urbanist-medium';
     text-transform: uppercase;
     font-size: 14px;

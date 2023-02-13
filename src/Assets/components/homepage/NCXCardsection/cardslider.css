@@ -221,8 +221,12 @@ button:disabled{
         display: none;
     }
     #NCXCreditCardSlider.mobile-ss article.ncxcard01{
-        width: 320px;
-        min-width: 320px !important;
+        width: 100% !important;
+        min-width: 100% !important;
+        margin: 0px !important;
+    }
+    #NCXCreditCardSlider .carousel__slider-tray .carousel__slide{
+        margin: 0px 20px !important;
     }
     #NCXCreditCardSlider.mobile-ss .cardtitle h1{
         font-size: 22px !important;
@@ -243,7 +247,7 @@ button:disabled{
         margin: 0px 30px !important;
     }
     #NCXCreditCardSlider.mobile-ss img.cardimg01{
-        max-width: 240px !important;
+        max-width: 270px !important;
     }
     #NCXCreditCardSlider.mobile-ss .buttonBack, #NCXCreditCardSlider.mobile-ss .buttonNext{
         display: block !important;

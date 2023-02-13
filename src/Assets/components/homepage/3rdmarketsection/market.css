@@ -190,6 +190,9 @@ tbody tr:hover {
 }
 
 @media screen and (max-width: 800px){
+    #market .row.marketing {
+        display: none;
+    }
     #table-market thead th:nth-child(5), #table-market tbody tr td:nth-child(5){
         display: none;
     }
@@ -269,7 +272,7 @@ tbody tr:hover {
 .market-table button.btn01 {
     width: fit-content !important;
     margin: 0 auto !important;
-    margin-top: 30px !important;
+    margin-top: 45px !important;
     padding: 5px 20px !important;
 }
 .market-table button.btn01 a{
