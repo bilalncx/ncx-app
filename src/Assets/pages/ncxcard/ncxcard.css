@@ -54,12 +54,14 @@
         position: relative !important;
         top: unset !important;
         left: unset !important;
-        right: 25px !important;
+        /* right: 25px !important; */
         min-width: 400px !important;
     }
     .cardvideo-sect #ncxcard_cardset .ncx-card-trade .bullets span{
         color: #000000 !important;
         background: rgba(255,255,255, 0.8) !important;
+        font-size: 14px !important;
+        padding: 5px 13px !important;
     }
     body .cardvideo-sect #cardgradient{
         padding-top: 0px !important;
@@ -144,6 +146,8 @@
     }
     form#email-subscription input{
         width: 70% !important;
+        background: #FFFFFF !important;
+        box-shadow: 0px 0px 12px rgb(0 0 0 / 9%) !important;
     }
     form#email-subscription button{
         width: 30% !important;
@@ -165,5 +169,23 @@
     }
     .cardmobileimg{
         margin-top: 60px;
+    }
+    .carddetailsimg img{
+        padding: 15px !important;
+        border-radius: 25px !important;
+    }
+    .bullets{
+        display: none;
+    }
+    #mobile-butller{
+        display: block;
+    }
+    #mobile-butller .bullets{
+        display: flex;
+        margin-bottom: 15px !important;
+    }
+    #ncxcard_cardset .ncx-card-trade p.cardp1,  #ncxcard_cardset .ncx-card-trade p.cardp2{
+        font-size: 16px !important;
+        line-height: 20px !important;
     }
 }

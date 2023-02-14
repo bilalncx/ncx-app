@@ -48,6 +48,29 @@ function CardfirstSection()
                                     <span>Google Play</span>
                                     <span>Samsung Play</span>
                                 </div>
+                                <div id="mobile-butller">
+                                    <div className="bullets">
+                                        <span>Pay at 44 Million Merchant locations Worldwide</span>
+                                    </div>
+                                    <div className="bullets">                                
+                                        <span>Virtual Card</span>
+                                        <span>ATM Withdrawals</span>
+                                        <span>24/7 Support</span>
+                                    </div>
+                                    <div className="bullets">
+                                        <span>Powered by MasterCard</span>
+                                        <span>Top up by Crypto</span>
+                                    </div>
+                                    <div className="bullets">
+                                        <span>Premium Metal Card</span>
+                                        <span>Apple Pay</span>
+                                    </div>
+                                    <div className="bullets">
+                                        <span>Online Payments</span>
+                                        <span>Google Pay</span>
+                                        <span>Samsung Pay</span>
+                                    </div>
+                                </div>
                                 <p className="cardp2">One Card, Unlimited Possibilities!</p>
                                 <div className="prod-butns">
                                     <a className="der-buttons" href="#">Sign Up</a>
