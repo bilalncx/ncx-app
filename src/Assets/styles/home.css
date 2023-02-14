@@ -23,6 +23,26 @@
     font-family: 'hauora-light';
     src: url(../fonts/Hauora-Light.ttf);
 }
+@font-face {
+    font-family: "hauora-semibold";
+    src: url(../fonts/Hauora-SemiBold.ttf);
+}
+@font-face {
+    font-family: "hauora-medium";
+    src: url(../fonts/Hauora-Medium.ttf);
+}
+@font-face {
+    font-family: "poppins-regular";
+    src: url(../fonts/Poppins-Regular.otf);
+}
+@font-face {
+    font-family: "poppins-light";
+    src: url(../fonts//Poppins-Light.otf);
+}
+@font-face {
+    font-family: "poppins-medium";
+    src: url(../fonts//Poppins-Medium.otf);
+}
 /************************** Body Fonts family Ends from here *************************/
 
 .body-overflow {

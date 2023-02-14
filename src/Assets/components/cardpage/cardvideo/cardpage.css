@@ -1,0 +1,51 @@
+.cardvideo-sect {
+    padding: 0px 0px;
+    background: #000000;
+}
+.cardvideo-sect #Homevideosection{
+    z-index: inherit !important;
+}
+#ncxcard_cardset{
+    position: relative;
+    min-height: 586px;
+}
+#ncxcard_cardset .ncx-card-trade {
+    position: absolute;
+    top: 0;
+    margin: 0px;
+    background: transparent !important;
+}
+#ncxcard_cardset .ncx-card-trade p.cardp1{
+    font-family: 'urbanist-light' !important;
+}
+#ncxcard_cardset .ncx-card-trade .bullets span {
+    background: rgba(255,255,255, 0.08) !important;
+    color: #FFFFFF !important;
+}
+.cardvideo-sect video#hhero-video {
+    width: 100%;
+    max-height: fit-content !important;
+    object-fit: cover;
+    margin-bottom: -5px;
+    max-height: 1140px !important;
+}
+.cardvideo-sect .container {
+    position: absolute;
+    top: 0;
+    width: 100% !important;
+    left: 0;
+    right: 0;
+    padding: 120px 0px 80px 0px;
+}
+.cardvideo-sect #cardgradient .container {
+    position: inherit;
+    background: transparent !important;
+    width: inherit !important;
+    left: inherit;
+    right: inherit;
+    padding: 30px 0px;
+}
+.cardvideo-sect #cardgradient {
+    background: transparent !important;
+    padding-bottom: 0px !important;
+}

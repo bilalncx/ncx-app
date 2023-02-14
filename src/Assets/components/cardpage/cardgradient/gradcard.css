@@ -1,0 +1,23 @@
+#cardgradient{
+    background: #000000;
+}
+#cardgradient h3 {
+    font-family: 'hauora-light';
+    color: #FFFFFF;
+}
+#cardgradient h1 {
+    color: #FFFFFF;
+    font-size: 27px;
+    font-family: 'hauora-regular';
+}
+#cardgradient p {
+    font-family: 'hauora-light';
+    font-size: 15px;
+    color: #FFFFFF;
+}
+#cardgradient .gradient-text .col{
+    padding-right: 0px;
+}
+#cardgradient .gradient-text .col:nth-child(2){
+    margin: 35px 100px 0px 100px;
+}

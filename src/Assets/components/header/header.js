@@ -116,7 +116,7 @@ export default function Header() {
                   <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#" target="_blank" rel="noreferrer">NCX Card</a>
+                  <a href="./ncx-card">NCX Card</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#" target="_blank" rel="noreferrer">NCX Token</a>

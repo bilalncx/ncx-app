@@ -52,7 +52,7 @@ function MyBalance()
                         {/* </AnimationOnScroll> */}
                     </div>
                     {/* <AnimationOnScroll animateIn="animate__fadeIn"> */}
-                        <p>Sign up to claim your 10,000 NCX Tokens welcome bonus & start earning NCX</p>
+                        <p>Sign up to claim your 10,000 NCX Tokens welcome bonus & start earning NCXT</p>
                         <Button className="earn-toget" href="#">Get Started</Button>
                     {/* </AnimationOnScroll> */}
                 </div>

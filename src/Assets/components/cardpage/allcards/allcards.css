@@ -1,0 +1,82 @@
+.carddetailsimg img {
+    width: 100%;
+    max-width: 450px;
+    /* filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.25)); */
+    filter: drop-shadow(0px 4px 16px rgba(0, 0, 0, 0.1));
+    transform: translateY(0%);
+    transition: .4s ease;
+}
+.carddetailsimg img:hover{
+    transform: translateY(0%) scale(1.06);
+    -webkit-transform: translateY(0%) scale(1.06);
+    -moz-transform: translateY(0%) scale(1.06);
+    cursor: pointer;
+}
+.carddetails {
+    padding: 120px 0px 0px 0px;
+}
+.carddetailsimg {
+    text-align: center;
+    padding-bottom: 120px;
+}
+.carddetails .row {
+    margin: 0px !important;
+}
+.carddetails .row h1 {
+    font-size: 40px;
+    font-family: 'poppins-medium';
+    letter-spacing: 0px;
+    line-height: 50px;
+}
+.carddetails .row ul{
+    padding-left: 0px;
+    margin: 0px;
+}
+.carddetails .row ul li{
+    list-style-type: none;
+    position: relative;
+    margin-bottom: 20px;
+}
+.carddetails .row ul li:before{
+    content: '';
+    background: url(../../../images/ncx-bluetick.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 26px;
+    height: 26px;
+    display: block;
+    position: absolute;
+    left: -35px;
+    top: 0px;
+    border-radius: 50%;
+}
+.carddetails .row ul li p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'poppins-regular';
+    color: #767676;
+}
+.carddetails .row ul li p span{
+    font-family: 'poppins-medium';
+    color: #000000;
+}
+.carddetails .row .col:nth-child(1) {
+    display: block;
+    flex: inherit !important;
+    width: 22%;
+}
+.carddetails .row .col:nth-child(2) {
+    display: block;
+    flex: inherit !important;
+    width: 28%;
+}
+.carddetails .row .col:nth-child(3) {
+    display: block;
+    flex: inherit !important;
+    width: 25%;
+}
+.carddetails .row .col:nth-child(4) {
+    display: block;
+    flex: inherit !important;
+    width: 25%;
+}

@@ -1,0 +1,169 @@
+.ncxdebitcreditcardpage .earnncx {
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+.ncxdebitcreditcardpage header#header-row {
+    position: fixed !important;
+    background: transparent !important;
+    background-color: transparent !important;
+}
+.ncxdebitcreditcardpage header#header-row.darkheader{
+    background: #000000 !important;
+    background-color: #000000 !important;
+}
+
+#mobile-showcard{
+    display: none;
+}
+@media screen and (max-width: 800px){
+    #mobile-showcard{
+        display: block;
+        padding: 0px !important;
+    }
+    .card-row.row .col:nth-child(3){
+        display: none;
+    }
+    .cardvideo-sect{
+        background: #FFFFFF !important;
+    }
+    .cardvideo-sect #Homevideosection{
+        display: none !important;
+    }
+    .cardvideo-sect .container{
+        position: relative !important;
+        top: inherit !important;
+        left: inherit !important;
+        right: inherit !important;
+        padding: 50px 0px 0px 0px !important;
+    }
+    .cardvideo-sect #ncxcard_cardset .ncx-card-trade {
+        position: relative !important;
+        background: url(../../images/ncx-card-traebg.png) !important;
+        background-repeat: no-repeat;
+        background-size: cover !important;
+        background-position: center !important;
+        margin: 0px !important;
+        padding: 70px 20px 50px 20px !important;
+        min-height: inherit !important;
+        max-height: inherit !important;
+    }
+    .cardvideo-sect #ncxcard_cardset{
+        max-height: inherit !important;
+    }
+    .cardvideo-sect .cardtrade-row .col.product-img img{
+        position: relative !important;
+        top: unset !important;
+        left: unset !important;
+        right: 25px !important;
+        min-width: 400px !important;
+    }
+    .cardvideo-sect #ncxcard_cardset .ncx-card-trade .bullets span{
+        color: #000000 !important;
+        background: rgba(255,255,255, 0.8) !important;
+    }
+    body .cardvideo-sect #cardgradient{
+        padding-top: 0px !important;
+        background: #FFF !important;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        padding-bottom: 50px !important;
+    }
+    .cardvideo-sect .gradient-text .col h3 {
+        font-family: 'hauora-regular' !important;
+        font-size: 14px !important;
+        text-align: left !important;
+        margin-bottom: 10px !important;
+        color: #000000 !important;
+    }
+    .cardvideo-sect .gradient-text .col h1 {
+        font-family: 'urbanist-medium' !important;
+        font-size: 24px !important;
+        line-height: 32px !important;
+        text-align: left !important;
+        margin-bottom: 15px !important;
+        color: #000000 !important;
+    }
+    .cardvideo-sect .gradient-text .col p {
+        font-family: 'hauora-regular' !important;
+        font-size: 16px !important;
+        text-align: left !important;
+        color: #000000 !important
+    }
+    .cardvideo-sect #cardgradient .gradient-text .col:nth-child(2){
+        margin: 0px;
+        margin-top: 35px;
+    }
+    .carddetails {
+        padding: 50px 0px 0px 0px !important;
+    }
+    .carddetailsimg{
+        padding-bottom: 50px !important;
+    }
+    .carddetails .row{
+        display: block !important;
+    }
+    .carddetails .row .col{
+        width: 100% !important;
+        padding: 0px !important;
+    }
+    .carddetails .row h1{
+        font-size: 26px !important;
+        line-height: 32px !important;
+        margin-bottom: 20px;
+    }
+    .carddetails .row ul {
+        padding-left: 35px !important;
+    }
+    .ncxcard{
+        padding: 50px 0px !important;
+    }
+    .freq-ask-ques{
+        font-size: 26px !important;
+        line-height: 32px !important;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    #card-faqss .accordian{
+        margin: 0px !important;
+    }
+    #card-faqss .accordian .item{
+        padding: 16px !important;
+    }
+    div#card-faqss{
+        padding-bottom: 50px !important;
+    }
+    #mobile-showcard h1 {
+        font-size: 26px;
+        line-height: 32px;
+        font-family: 'hauora-semibold';
+    }
+    .trprr{
+        font-family: 'hauora-semibold';
+        color: #FFFFFF;
+        -webkit-text-stroke: 1px black;
+    }
+    form#email-subscription input{
+        width: 70% !important;
+    }
+    form#email-subscription button{
+        width: 30% !important;
+        margin: 0px !important;
+    }
+    form#email-subscription{
+        width: 100%;
+    }
+    .cryptopay svg{
+        margin-top: 15px !important;
+        margin-right: 15px !important;
+    }
+    .card-row.row .col{
+        width: 100% !important;
+        padding: 0px !important;
+    }
+    .ncx-iphoneimages img, .transact-iphone {
+        width: 100%;
+    }
+    .cardmobileimg{
+        margin-top: 60px;
+    }
+}
