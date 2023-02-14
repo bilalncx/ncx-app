@@ -178,10 +178,10 @@
         display: none;
     }
     #mobile-butller{
-        display: block;
+        display: block !important;
     }
     #mobile-butller .bullets{
-        display: flex;
+        display: flex !important;
         margin-bottom: 15px !important;
     }
     #ncxcard_cardset .ncx-card-trade p.cardp1,  #ncxcard_cardset .ncx-card-trade p.cardp2{
