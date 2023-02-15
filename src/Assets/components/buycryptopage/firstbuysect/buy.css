@@ -1,5 +1,6 @@
 .buycrypto-page {
-    padding: 100px 0px;
+    padding: 0px 0px;
+    background: #000000;
 }
 .buycrypt-row {
     display: flex;
@@ -32,7 +33,7 @@
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.2));
 }
 .col.coinsect {
-    padding-right: 8%;
+    padding: 9% 9% 9% 8%;
 }
 .col.coinsect h1 {
     font-size: 38px;
@@ -40,11 +41,13 @@
     width: 80%;
     line-height: 45px;
     margin-bottom: 20px;
+    color: #FFFFFF;
 }
 .col.coinsect p {
     font-size: 16px;
     line-height: 24px;
     font-family: 'hauora-light';
+    color: #FFFFFF;
 }
 .coin-graph {
     display: flex;
@@ -62,11 +65,13 @@
     width: 100% !important;
     margin-bottom: 5px !important;
     line-height: 16px !important;
+    color: #000000 !important;
 }
 .coin-details p {
     font-size: 14px !important;
     font-family: 'hauora-medium' !important;
     line-height: 16px !important;
+    color: #000000 !important;
 }
 .col.coin-details {
     border: 0.5px solid rgb(239, 239, 239);
@@ -79,11 +84,19 @@
     display: flex;
     align-items: center;
     margin-top: 10px;
-    color: #65b07a;
+    color: #65b07a !important;
     column-gap: 5px;
 }
 #buyCryptoPage .currencies-options span.balance, #buyCryptoPage .currencies-options p {
     color: #000000 !important;
+}
+#ncxbuycrypto-desk video {
+    width: 100% !important;
+    height: 100% !important;
+    min-height: 730px;
+    object-fit: cover;
+    object-position: right bottom;
+    margin-bottom: -5px;
 }
 
 @media screen and (max-width: 800px){
@@ -91,7 +104,14 @@
         padding: 50px 0px;
     }
     .buycrypto-page{
-        padding: 70px 0px 50px 0px;
+        padding: 0px 0px 20px 0px;
+    }
+    .container990 {
+        padding: 50px 20px 0px 20px !important;
+    }
+    #ncxbuycrypto-desk video{
+        min-height: inherit !important;
+        max-height: inherit !important;
     }
     .buycrypt-row{
         display: block;

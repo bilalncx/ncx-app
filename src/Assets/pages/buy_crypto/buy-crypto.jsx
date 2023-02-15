@@ -5,7 +5,7 @@ import MyFooter from '../../components/footer/footer';
 import BuyCryptoFirst from '../../components/buycryptopage/firssect/first';
 import BuyCryptoSecond from '../../components/buycryptopage/secondsect/second';
 import BuyCryptoThird from '../../components/buycryptopage/thirdsect/thirdsect';
-import BuyCryptoFourth from '../../components/buycryptopage/fourthsect/fourthsect';
+// import BuyCryptoFourth from '../../components/buycryptopage/fourthsect/fourthsect';
 import FirstBuyCrypto from '../../components/buycryptopage/firstbuysect/buy';
 
 
@@ -23,7 +23,7 @@ function PrivacyPolicy(){
 
             <BuyCryptoThird />
 
-            <BuyCryptoFourth />
+            {/* <BuyCryptoFourth /> */}
 
             <MyFooter />
         </div>

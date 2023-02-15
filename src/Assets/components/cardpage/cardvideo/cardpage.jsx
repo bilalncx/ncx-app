@@ -8,10 +8,10 @@ function CardfirstSection()
 {
     return(
         <div className="cardvideo-sect">
-            <div id="Homevideosection">
-                <div className="homevideodiv">
+            <div id="ncxcardvideo-desk">
+                <div className="desktop">
                     <video 
-                        id='hhero-video'
+                        id='video-scss'
                         autoPlay={true}
                         muted={true}
                         loop={true}
@@ -53,22 +53,17 @@ function CardfirstSection()
                                         <span>Pay at 44 Million Merchant locations Worldwide</span>
                                     </div>
                                     <div className="bullets">                                
-                                        <span>Virtual Card</span>
-                                        <span>ATM Withdrawals</span>
-                                        <span>24/7 Support</span>
-                                    </div>
-                                    <div className="bullets">
                                         <span>Powered by MasterCard</span>
-                                        <span>Top up by Crypto</span>
+                                        <span>ATM Withdrawals</span>
                                     </div>
                                     <div className="bullets">
+                                        <span>Top up by Crypto</span>
                                         <span>Premium Metal Card</span>
-                                        <span>Apple Pay</span>
                                     </div>
                                     <div className="bullets">
                                         <span>Online Payments</span>
+                                        <span>Apple Pay</span>
                                         <span>Google Pay</span>
-                                        <span>Samsung Pay</span>
                                     </div>
                                 </div>
                                 <p className="cardp2">One Card, Unlimited Possibilities!</p>
@@ -79,6 +74,20 @@ function CardfirstSection()
                             </div>
                             <div className="col product-img">
                                 <img className="cardtr-image" src={NCXCardTrade} />
+                                <div id="ncxcardvideo-mbl">
+                                    <div className="desktop">
+                                        <video 
+                                            id='video-scss'
+                                            autoPlay={true}
+                                            muted={true}
+                                            loop={true}
+                                            playsInline={true}
+                                            // poster={"../src/assets/images/roadmap-bg.png"}
+                                            >
+                                            <source src={NCXHomeSliderVideo} type="video/mp4" />
+                                        </video>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

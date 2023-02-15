@@ -22,12 +22,14 @@
     background: rgba(255,255,255, 0.08) !important;
     color: #FFFFFF !important;
 }
-.cardvideo-sect video#hhero-video {
+.cardvideo-sect video#video-scss {
     width: 100%;
     max-height: fit-content !important;
     object-fit: cover;
     margin-bottom: -5px;
-    max-height: 1140px !important;
+    max-height: 1240px !important;
+    margin-top: -150px;
+    min-height: 1290px;
 }
 .cardvideo-sect .container {
     position: absolute;
@@ -53,5 +55,8 @@
     display: none;
 }
 .ncxdebitcreditcardpage img.cardtr-image {
+    display: none;
+}
+#ncxcardvideo-mbl{
     display: none;
 }

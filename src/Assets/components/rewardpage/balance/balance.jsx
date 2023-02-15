@@ -12,13 +12,11 @@ function MyBalance()
             <div className="reward-row">
                 <div className="container">
                     <div className="rewardheadrow">
-                        {/* <AnimationOnScroll animateIn="animate__fadeIn"> */}
-                            <div className="reward-center">
-                                <p>Reward Center</p>
-                                <p className="star-res"><RewardStar /> NCX Rewards</p>
-                            </div>
-                            <p className="complete-tsks">Complete Tasks Earn NCX</p>
-                        {/* </AnimationOnScroll> */}
+                        <div className="reward-center">
+                            <p>Reward Center</p>
+                            <p className="star-res"><RewardStar /> NCX Rewards</p>
+                        </div>
+                        <p className="complete-tsks">Complete Tasks Earn NCX</p>
                     </div>
                 </div>
             </div>

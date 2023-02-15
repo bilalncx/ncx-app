@@ -59,10 +59,10 @@
         min-width: 400px !important;
     }
     .cardvideo-sect #ncxcard_cardset .ncx-card-trade .bullets span{
-        color: #FFFFFF !important;
-        background: #212121 !important;
+        color: #000000 !important;
+        background: #FFFFFF !important;
         /* background: rgba(0,0,0,0.5) !important; */
-        font-size: 14px !important;
+        font-size: 15px !important;
         padding: 5px 13px !important;
     }
     body .cardvideo-sect #cardgradient{
@@ -188,9 +188,27 @@
     }
     #ncxcard_cardset .ncx-card-trade p.cardp1,  #ncxcard_cardset .ncx-card-trade p.cardp2{
         font-size: 16px !important;
-        line-height: 20px !important;
+        line-height: 24px !important;
+    }
+    #ncxcard_cardset .ncx-card-trade p.cardp2{
+        margin-top: 30px;
+        margin-bottom: 10px !important;
     }
     #card-faqss .accordian h2{
         font-family: 'urbanist-medium' !important;
+    }
+    div#ncxcardvideo-desk {
+        display: none;
+    }
+    #ncxcardvideo-mbl{
+        display: block !important;
+        margin-top: 50px;
+    }
+    #ncxcardvideo-mbl video#video-scss {
+        position: relative !important;
+        margin-top: 0px !important;
+        width: 100% !important;
+        min-height: 350px !important;
+        object-fit: cover;
     }
 }

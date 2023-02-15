@@ -1,10 +1,12 @@
 import React from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import CountUp from 'react-countup';
+import NCXCryptoBuySell from '../../../images/ncx-crypto-trading.png';
 
 function BuyCryptoFirstPage(){
     return(
         <div className="currencies-options row">
+                <img className="buy-ss22" src={NCXCryptoBuySell} alt="NCX Buy Sell Cryptos" />
                 <div className="bar-grade33">
                     <AnimationOnScroll animateIn="animate__slideInLeft">
                         <div className="gradientbar"></div>
@@ -31,26 +33,25 @@ function BuyCryptoFirstPage(){
                     <CountUp
                         className="balance"
                         start={10}
-                        end={500}
-                        duration={20}
-                        useEasing={true}
-                        useGrouping={true}
-                        prefix=">"
-                    />
-                    <p>Trading Pairs</p>
-                </div>
-                <div className="col">
-                    <CountUp
-                        className="balance"
-                        start={10}
                         end={200}
                         duration={20}
                         useEasing={true}
                         useGrouping={true}
                         prefix=">"
-                        suffix="K"
                     />
-                    <p>Tokens on DEX Across 5 Chains</p>
+                    <p>Cryptocurrencies</p>
+                </div>
+                <div className="col">
+                    <CountUp
+                        className="balance"
+                        start={10}
+                        end={95}
+                        duration={20}
+                        useEasing={true}
+                        useGrouping={true}
+                        prefix=">"
+                    />
+                    <p>Fiat Currencies</p>
                 </div>
                 <div className="col">
                     <CountUp
@@ -63,18 +64,6 @@ function BuyCryptoFirstPage(){
                         prefix=">"
                     />
                     <p>Countries</p>
-                </div>
-                <div className="col">
-                    <CountUp
-                        className="balance"
-                        start={10}
-                        end={200}
-                        duration={20}
-                        useEasing={true}
-                        useGrouping={true}
-                        prefix=">"
-                    />
-                    <p>Cryptocurrencies</p>
                 </div>
                 <div className="mobile-currenciesrow">
                     <div className="onembl">
@@ -99,13 +88,13 @@ function BuyCryptoFirstPage(){
                             <CountUp
                                 className="balance"
                                 start={10}
-                                end={500}
+                                end={200}
                                 duration={25}
                                 useEasing={true}
                                 useGrouping={true}
                                 prefix=">"
                             />
-                            <p>Trading Pairs</p>
+                            <p>Cryptocurrencies</p>
                         </div>
                     </div>
                     <div className="onembl">
@@ -113,14 +102,14 @@ function BuyCryptoFirstPage(){
                             <CountUp
                                 className="balance"
                                 start={10}
-                                end={200}
+                                end={95}
                                 duration={25}
                                 useEasing={true}
                                 useGrouping={true}
                                 prefix=">"
                                 suffix="K"
                             />
-                            <p>Tokens on DEX Across 5 Chains</p>
+                            <p>Fiat Currencies</p>
                         </div>
                         <div className="col">
                             <CountUp

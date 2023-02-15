@@ -22,12 +22,16 @@
     font-family: 'urbanist-regular';
     color: #FFFFFF;
     line-height: 24px;
+    border-right: 1px solid #565672;
+    padding-right: 10px;
 }
 p.star-res {
     color: #E1C8FF;
     display: flex;
     align-items: center;
     gap: 10px;
+    border-right: none !important;
+    padding-right: 0px;
 }
 p.complete-tsks {
     color: #FFFFFF;

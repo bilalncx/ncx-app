@@ -35,6 +35,11 @@
     max-width: 350px;
     padding: 20px;
 }
+.getocodesect .col:hover{
+    background: #FFFFFF;
+    box-shadow: 0 0 16px rgb(184 201 255 / 30%);
+    cursor: pointer;
+}
 .quesion {
     display: flex;
     align-items: center;
