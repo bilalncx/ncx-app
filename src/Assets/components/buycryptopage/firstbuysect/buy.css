@@ -1,0 +1,83 @@
+.buycrypto-page {
+    padding: 100px 0px;
+}
+.buycrypt-row {
+    display: flex;
+    margin: 0px;
+    align-items: center;
+}
+.buycrypt-row .col {
+    width: 50%;
+    flex: inherit;
+    padding: 0px;
+}
+.crypto-assets.row {
+    display: flex;
+    margin: 0px !important;
+    column-gap: 10px;
+    margin-top: 40px !important;
+}
+.crypto-assets.row:before, .crypto-assets.row:after{
+    display: none;
+}
+.crypto-assets.row .col.coin-details {
+    width: 32%;
+}
+.col.buysell-sect{
+    text-align: center;
+}
+.col.buysell-sect img{
+    width: 100% !important;
+    max-width: 450px;
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.2));
+}
+.col.coinsect {
+    padding-right: 8%;
+}
+.col.coinsect h1 {
+    font-size: 38px;
+    font-family: 'hauora-medium';
+    width: 80%;
+    line-height: 45px;
+    margin-bottom: 20px;
+}
+.col.coinsect p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'hauora-light';
+}
+.coin-graph {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.coin-graph svg {
+    width: 32px;
+    height: auto;
+}
+.coin-details h1 {
+    font-size: 14px !important;
+    font-family: 'hauora-regular' !important;
+    width: 100% !important;
+    margin-bottom: 5px !important;
+    line-height: 16px !important;
+}
+.coin-details p {
+    font-size: 14px !important;
+    font-family: 'hauora-medium' !important;
+    line-height: 16px !important;
+}
+.col.coin-details {
+    border: 0.5px solid rgb(239, 239, 239);
+    background: #FFFFFF;
+    min-height: 150px;
+    padding: 15px;
+}
+.coin-details .change {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    color: #65b07a;
+    column-gap: 5px;
+}

@@ -6,6 +6,7 @@ import BuyCryptoFirst from '../../components/buycryptopage/firssect/first';
 import BuyCryptoSecond from '../../components/buycryptopage/secondsect/second';
 import BuyCryptoThird from '../../components/buycryptopage/thirdsect/thirdsect';
 import BuyCryptoFourth from '../../components/buycryptopage/fourthsect/fourthsect';
+import FirstBuyCrypto from '../../components/buycryptopage/firstbuysect/buy';
 
 
 function PrivacyPolicy(){
@@ -13,6 +14,8 @@ function PrivacyPolicy(){
         <div id="buyCryptoPage">
 
             <MyHeader />
+
+            <FirstBuyCrypto />
 
             <BuyCryptoFirst />
 
