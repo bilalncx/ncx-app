@@ -101,7 +101,7 @@ export default function Header() {
               </div>
               <ul className="navlink">
                 <li className="main_title white_bg">
-                  <a href="#">Buy Crypto</a>
+                  <a href="./buy-crypto">Buy Crypto</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#">Spot Trading</a>
