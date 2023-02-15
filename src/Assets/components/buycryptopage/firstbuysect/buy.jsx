@@ -53,14 +53,6 @@ function BuyCrypto()
                 </div>
                 <div className="col buysell-sect">
                     <img src={NCXCryptoBuySell} alt="NCX Buy Sell Crypto" />
-                    <iframe
-                        style="border-radius: 4px; border: 1px solid #58585f; margin: auto;max-width: 360px"
-                        src="https://buy.onramper.com/?API_KEY=pk_prod_01GQH660AP1Y1P9425ES10MY58"
-                        height="540px"
-                        width="360px"
-                        title="Onramper widget"
-                        allow="accelerometer; autoplay; camera; gyroscope; payment">
-                    </iframe>
                 </div>
             </div>
         </div>
