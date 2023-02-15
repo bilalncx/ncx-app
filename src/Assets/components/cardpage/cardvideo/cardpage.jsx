@@ -1,6 +1,6 @@
 import React from "react";
 import './cardpage.css';
-import NCXHomeSliderVideo from '../../../images/ncx-firstslidervideo.mp4';
+import NCXHomeSliderVideo from '../../../images/ncx_card_bgvideo.mp4';
 import NCXCardTrade from '../../../images/ncx-card-trade.png';
 import GradientSect from '../cardgradient/gradcard';
 

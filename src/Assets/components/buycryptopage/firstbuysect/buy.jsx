@@ -5,7 +5,6 @@ import { ReactComponent as Ethereum } from '../../../images/ncx-ethereum.svg';
 import { ReactComponent as Ripple } from '../../../images/ncx-xrp.svg';
 import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg';
 import NCXCryptoBuySell from '../../../images/ncx-crypto-trading.png';
-
 function BuyCrypto()
 {
     return(

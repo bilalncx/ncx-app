@@ -120,10 +120,18 @@
     font-size: 38px !important;
     line-height: 44px !important;
     font-family: 'urbanist-medium' !important;
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
 }
 .currencies-options p{
     font-family: 'urbanist-light' !important;
     font-size: 16px !important;
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
 }
 .bar-grade33{
     margin-bottom: 60px !important;
@@ -253,6 +261,8 @@ img.mbl-pic {
         font-size: 28px !important;
         line-height: 38px !important;
         text-align: center !important;
+        display: block;
+        color: #FFFFFF !important;
     }
     .mobile-currenciesrow .onembl p{
         font-size: 14px !important;
