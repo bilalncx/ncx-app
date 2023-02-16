@@ -1,0 +1,65 @@
+#ncxAmbassador-page header#header-row {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+#ncxAmbassador-page header#header-row.darkheader{
+    background: #000000 !important;
+    background-color: #000000 !important;
+}
+.ambassadordiv {
+    max-height: 556px;
+    background: #000000;
+    margin-top: -60px;
+}
+.ambassadordiv .container {
+    position: absolute;
+    top: 0;
+    width: 100% !important;
+    left: 0;
+    right: 0;
+    padding: 150px 0px 80px 0px;
+}
+.ambassadordiv .backgrdound-video video {
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: -5px;
+    max-height: 556px !important;
+}
+.ambassador.row {
+    margin: 0px !important;
+}
+.ambassador.row:before, .ambassador.row:after{
+    display: none;
+}
+.ambassador.row .col {
+    padding: 0px;
+    flex: inherit;
+    width: 50%;
+}
+.ambassador.row h1 {
+    font-size: 44px;
+    color: #fFFFFF;
+    font-family: 'urbanist-regular';
+    margin: 15px 0px 10px 0px;
+}
+.txt44 p {
+    font-size: 19px;
+    width: 70%;
+    font-family: 'hauora-light';
+    color: #FFFFFF;
+    line-height: 28px;
+    margin-bottom: 10px;
+}
+.ambassador a {
+    width: 155px;
+    height: 42px;
+    border: 1px solid #FFFFFF;
+    border-radius: 7px;
+    font-family: 'urbanist-regular';
+    font-size: 16px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+.txt44 {
+    margin-bottom: 30px;
+}

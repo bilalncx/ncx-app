@@ -13,6 +13,8 @@ import APIDocumentation from './Assets/pages/api-documentation/api-documentation
 import BuyCrypto from './Assets/pages/buy_crypto/buy-crypto';
 import TaskReward from './Assets/pages/taskrewards/taskreward';
 import NCXCard from './Assets/pages/ncxcard/ncxcard';
+import NCXOTC from './Assets/pages/ncxotcpage/otc';
+import NCXAmbassador from './Assets/pages/ncx-ambassador/ambassador';
 
 const App = () => {
   return (
@@ -30,6 +32,8 @@ const App = () => {
           <Route path='/buy-crypto' element={<BuyCrypto />}/>
           <Route path='/task-rewards' element={<TaskReward />} />
           <Route path='/ncx-card' element={<NCXCard />}/>
+          <Route path='ncx-otc' element={<NCXOTC />} />
+          <Route path='ncx-ambassador' element={<NCXAmbassador />} />
         </Routes>
       </BrowserRouter>
     </div>

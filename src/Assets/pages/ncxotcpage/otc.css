@@ -1,0 +1,110 @@
+#ncxotc-page header#header-row {
+    position: fixed !important;
+    background: transparent !important;
+    background-color: transparent !important;
+}
+#ncxotc-page header#header-row.darkheader{
+    background-color: #000000 !important;
+    background: #000000 !important;
+}
+.OTCwelcome .container {
+    position: absolute;
+    top: 0;
+    width: 100% !important;
+    left: 0;
+    right: 0;
+    padding: 120px 0px 80px 0px;
+}
+.OTCwelcome {
+    max-height: 720px;
+    background: #000000;
+}
+.OTCwelcome .container:before, .OTCwelcome .container:after{
+    display: none;
+}
+.welcomeotc.row {
+    margin: 0px;
+    padding: 100px 0px;
+}
+.welcomeotc.row h1 {
+    font-size: 48px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    margin: 20px 0px;
+}
+.welcomeotc.row p{
+    font-size: 22px;
+    line-height: 28px;
+    font-family: 'hauora-light';
+    color: #FFFFFF;
+}
+.welcomeotc.row a {
+    font-size: 16px;
+    width: 152px;
+    height: 42px;
+    background: #34A9FF;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    font-family: 'urbanist-regular';
+    margin-top: 40px;
+}
+.col.why-choose-otc h1 {
+    font-size: 34px;
+    margin: 0px 0px 10px 0px;
+}
+.col.why-choose-otc p{
+    font-size: 16px;
+}
+.col.why-choose-otc p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 12px;
+    font-family: 'hauora-light';
+    text-align: justify;
+}
+.col.why-choose-otc {
+    padding-left: 10%;
+}
+
+@media screen and (max-width: 800px){
+    .welcomeotc.row {
+        padding: 150px 0px 60px 0px;
+    }
+    .welcomeotc.row {
+        display: block;
+    }
+    .welcomeotc.row .col {
+        width: 100%;
+        padding: 0px;
+    }
+    .welcomeotc.row h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .welcomeotc.row p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .welcomeotc.row a{
+        margin-top: 20px;
+    }
+    .col.why-choose-otc {
+        padding: 50px 0px 0px 0px !important;
+    }
+    .col.why-choose-otc h1 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .col.why-choose-otc p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .OTCwelcome {
+        min-height: 780px;
+    }
+    .welcomevideo video {
+        width: 100%;
+        object-fit: cover;
+        min-height: 780px;
+    }
+}

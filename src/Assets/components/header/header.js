@@ -48,9 +48,9 @@ export default function Header() {
                               <div className="main_service">
                                 <a href="./blog">Rewards Program</a>
                                 <a href="#">News & Insights</a>
-                                <a href="">Market Makers</a>
-                                <a href="#">OTC</a>
-                                <a href="#">NCX Ambassador</a>
+                                <a href="#">Market Makers</a>
+                                <a href="./ncx-otc">OTC</a>
+                                <a href="./ncx-ambassador">NCX Ambassador</a>
                               </div>
                             </div>
                             <div className="social_links">
@@ -65,12 +65,12 @@ export default function Header() {
                             <div className="social_links">
                               <div className="social_link_inner">
                                 <a href="#">About Us</a>
-                                <a href="#">News & Press</a>
-                                <a href="#">User Agreement</a>
-                                <a href="#">AML & KYC Policy</a>
-                                <a href="#">Privacy Policy</a>
-                                <a href="#">API Documentation</a>
-                                <a href="#">Cookie Policy</a>
+                                <a href="./blog">News & Press</a>
+                                <a href="./user-agreement">User Agreement</a>
+                                <a href="./kyc-aml-policy">AML & KYC Policy</a>
+                                <a href="./privacy-policy">Privacy Policy</a>
+                                <a href="./api-agreement">API Documentation</a>
+                                <a href="./cookie-policy">Cookie Policy</a>
                               </div>
                             </div>
                           </div>
@@ -104,7 +104,7 @@ export default function Header() {
                   <a href="./buy-crypto">Buy Crypto</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#">Spot Trading</a>
+                  <a href="https://trade.ncx.cx/">Spot Trading</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#">Derivatives</a>

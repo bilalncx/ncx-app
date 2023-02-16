@@ -1,0 +1,78 @@
+.referral_privilleges {
+    padding: 80px 0px;
+}
+.referral_privilleges h1 {
+    font-size: 34px;
+    font-family: 'hauora-medium';
+    line-height: 38px;
+    margin-bottom: 10px;
+}
+.referral_privilleges p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'hauora-regular';
+}
+.rank_table {
+    padding: 30px 0px;
+}
+.tab_head_row{
+    margin-bottom: 20px;
+}
+.tab_head_row, .silver_row, .gold_row, .diamond_row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.silver_row{
+    background: linear-gradient(90deg, rgba(237, 243, 247, 0.7) 0%, #F8FAFA 100%);
+    border-radius: 50px 15px 15px 50px;
+}
+.gold_row{
+    background: linear-gradient(90deg, #FBF5E7 0%, #FDFAF2 100%);
+    border-radius: 50px 15px 15px 50px;
+}
+.diamond_row{
+    background: linear-gradient(90deg, #F7F2F8 0%, #F3F8FE 100%);
+    border-radius: 50px 15px 15px 50px;
+}
+.tab_head_row .col:nth-child(1), .silver_row .col:nth-child(1), .gold_row .col:nth-child(1), .diamond_row .col:nth-child(1) {
+    max-width: 200px;
+    text-align: left;
+}
+.tab_head_row .col:nth-child(2), .silver_row .col:nth-child(2), .gold_row .col:nth-child(2), .diamond_row .col:nth-child(2) {
+    max-width: 260px;
+}
+.tab_head_row .col:nth-child(3), .silver_row .col:nth-child(3), .gold_row .col:nth-child(3), .diamond_row .col:nth-child(3) {
+    max-width: 55px;
+}
+.tab_head_row .col:nth-child(4), .silver_row .col:nth-child(4), .gold_row .col:nth-child(4), .diamond_row .col:nth-child(4) {
+    max-width: 290px;
+}
+.tab_head_row .col:nth-child(5), .silver_row .col:nth-child(5), .gold_row .col:nth-child(5), .diamond_row .col:nth-child(5) {
+    max-width: 150px;
+}
+.tab_head_row .col:nth-child(5){
+    text-align: end;
+}
+/* .silver_row .col:nth-child(5){
+    text-align: center;
+} */
+.col.logo_text {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+}
+.col.logo_text svg {
+    background: #FFFFFF;
+    border-radius: 50%;
+    box-shadow: 5px 0px 20px 3px rgb(162 166 171 / 12%);
+}
+.silver_row, .gold_row{
+    margin-bottom: 15px;
+}
+.silver_row h3, .gold_row h3, .diamond_row h3 {
+    font-size: 20px;
+    font-family: 'hauora-medium';
+    line-height: 26px;
+}
