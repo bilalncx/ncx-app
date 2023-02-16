@@ -1,0 +1,150 @@
+@media screen and (max-width: 800px){
+    #ncxAmbassador-page .ambassadordiv{
+        margin-top: 0px !important;
+        padding: 50px 0px 50px 0px;
+    }
+    #ncxAmbassador-page .ambassadordiv .backgrdound-video {
+        display: none;
+    }
+    #ncxAmbassador-page .ambassadordiv .container{
+        position: relative !important;
+        left: inherit !important;
+        right: inherit !important;
+    }
+    #ncxAmbassador-page .ambassador.row .col{
+        width: 100% !important;
+    }
+    #ncxAmbassador-page .ambassador.row h1{
+        font-size: 24px;
+        line-height: 32px;
+    }
+    #ncxAmbassador-page .txt44{
+        margin-bottom: 20px;
+    }
+    #ncxAmbassador-page .txt44 p{
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    #ncxAmbassador-page .ambassador a {
+        width: 140px;
+        height: 40px;
+        font-size: 14px;
+    }
+    #ncxAmbassador-page .referral_privilleges{
+        padding: 50px 0px 40px 0px !important;
+    }
+    #ncxAmbassador-page .referral_privilleges h1{
+        font-size: 26px;
+        line-height: 32px;
+        padding: 0px 20px;
+    }
+    #ncxAmbassador-page .referral_privilleges p{
+        font-size: 14px;
+        line-height: 20px;
+        padding: 0px 20px;
+    }
+    #ncxAmbassador-page .referral_privilleges .container{
+        padding: 0px !important;
+    }
+    #ncxAmbassador-page h1.privileges_head{
+        padding: 0px;
+        font-size: 26px;
+        line-height: 32px;
+        margin-bottom: 20px;
+    }
+    #ncxAmbassador-page .row.gradient-text{
+        padding: 0px !important;
+    }
+    #ncxAmbassador-page .requirements_sect{
+        padding: 40px 20px 0px 20px;
+    }
+    #ncxAmbassador-page .requirements_sect h2.require{
+        font-size: 20px;
+        line-height: 22px;
+    }
+    #ncxAmbassador-page .requirements_sect p {
+        padding: 0px;
+    }
+    #ncxAmbassador-page .require_row h3{
+        font-size: 13px;
+        line-height: 16px;
+        font-family: 'hauora-semibold';
+    }
+    #ncxAmbassador-page .require_row .col:nth-child(1){
+        width: 40%;
+        padding: 0px;
+    }
+    #ncxAmbassador-page .require_row .col:nth-child(2){
+        width: 60%;
+    }
+    #ncxAmbassador-page .require_row{
+        margin: 0px;
+        padding: 20px 20px;
+    }
+    .become_an_ambassador{
+        margin-top: 60px !important;
+    }
+    .become_an_ambassador h1 {
+        font-size: 26px;
+        line-height: 32px;
+        font-family: 'hauora-medium';
+    }
+    .ambassador_row {
+        display: block !important;
+        margin: 0px !important;
+        margin-top: 40px !important;
+    }
+    .ambassador_row p {
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 10px !important;
+    }
+    .col.two, .col.four{
+        padding: 30px 0px !important;
+    }
+    .col.two svg, .col.four svg {
+        transform: rotate(90deg);
+    }
+    .table_text h3{
+        padding: 0px 20px;
+    }
+    .become_ambassador{
+        margin: 40px 0px 30px 0px !important;
+        padding: 0px 20px !important;
+    }
+    .become_ambassador h2{
+        font-size: 20px !important;
+        line-height: 26px !important;
+    }
+    a.referral_applynow{
+        margin: 20px 20px 0px 20px !important;
+    }
+    .silver_row h3, .gold_row h3, .diamond_row h3{
+        font-size: 14px !important;
+        line-height: 20px !important;
+    }
+    .col.logo_text svg, .logo_text img{
+        width: 60px !important;
+    }
+    .silver_row, .gold_row, .diamond_row{
+        padding: 0px 20px;
+        border-radius: 0px !important;
+    }
+    .col.logo_text{
+        column-gap: 12px !important;
+    }
+    .tab_head_row .col:nth-child(5), .silver_row .col:nth-child(5), .gold_row .col:nth-child(5), .diamond_row .col:nth-child(5) {
+        display: none !important;
+    }
+    .tab_head_row .col:nth-child(4), .silver_row .col:nth-child(4), .gold_row .col:nth-child(4), .diamond_row .col:nth-child(4){
+        display: none !important;
+    }
+    .tab_head_row .col:nth-child(3), .silver_row .col:nth-child(3), .gold_row .col:nth-child(3), .diamond_row .col:nth-child(3){
+        display: none;
+    }
+    .tab_head_row .col:nth-child(2), .silver_row .col:nth-child(2), .gold_row .col:nth-child(2), .diamond_row .col:nth-child(2){
+        text-align: end !important;
+    }
+}

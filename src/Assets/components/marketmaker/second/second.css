@@ -1,0 +1,175 @@
+.market-discount {
+    padding: 80px 0px;
+}
+.market-discount .container:before, .market-discount .container:after{
+    display: none;
+}
+.market-discount h1 {
+    font-size: 34px;
+    line-height: 38px;
+    font-family: 'hauora-medium';
+    margin-bottom: 30px;
+}
+.market-discount h1 span {
+    background: linear-gradient(90deg, #924DE9 50%, #4A3DAF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+button.market-tabs {
+    background: #F3F3F3;
+    border: none;
+    color: #7D7F81;
+    height: 50px;
+    width: 250px;
+    padding-top: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 18px;
+    font-family: 'hauora-medium';
+}
+.market-tabs-btn {
+    width: fit-content;
+    background: #F3F3F3;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+button.market-tabs.active {
+    background: #000000;
+    color: #FFFFFF;
+}
+.market-content {
+    display: none;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgb(93 100 106 / 15%);
+    border-radius: 0px 10px 15px 15px;
+    padding: 40px 60px;
+}
+.market-content.active{
+    display: block;
+}
+.hsd11 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.hsd11 h3, .hsd13 h3{
+    font-size: 26px;
+    line-height: 32px;
+    font-family: 'hauora-medium';
+}
+.hsd11 p{
+    font-size: 20px;
+    line-height: 24px;
+    font-family: 'hauora-medium';
+}
+#market-1 p{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'hauora-medium';
+}
+#market-1 p span {
+    background: linear-gradient(90deg, #924DE9 50%, #4A3DAF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.discount_table {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 23px 6px rgb(135 136 150 / 10%);
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.head_table {
+    display: flex;
+    margin: 0px 30px;
+    justify-content: space-between;
+    padding: 20px 0px;
+    align-items: center;
+    text-align: center;
+}
+.table_body_row {
+    display: flex;
+    margin: 0px 30px;
+    padding: 20px 0px;
+    justify-content: space-between;
+    text-align: center;
+    border-bottom: 1px solid #F4F6FA;
+}
+.head_table p span {
+    background: #5B51BE !important;
+    color: #FFFFFF !important;
+    -webkit-background-clip: inherit !important;
+    -webkit-text-fill-color: inherit !important;
+    font-size: 8px;
+    padding: 5px 2px;
+    border-radius: 50%;
+    line-height: 10px !important;
+}
+.head_table p{
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+    justify-content: center;
+    color: #7D7F81;
+    font-family: 'hauora-light' !important;
+}
+.table_body_row.boder-color {
+    margin: 0px;
+    border: 1px solid #1900FE;
+    border-radius: 0px 0px 20px 20px;
+    padding: 25px 30px;
+}
+.fees_details{
+    margin-bottom: 30px;
+}
+.fees_details h4{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'hauora-medium';
+    margin-bottom: 20px;
+}
+.fees_details p{
+    font-family: 'hauora-regular' !important;
+    color: #7D7F81;
+    margin-bottom: 10px;
+}
+.hsd13 p {
+    font-family: 'hauora-regular' !important;
+    padding-top: 5px;
+}
+.amm_markettable {
+    margin: 30px 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 23px 6px rgba(135, 136, 150, 0.1);
+    border-radius: 20px;
+}
+.amm_head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 19px 50px;
+}
+.amm_head .col p{
+    font-family: 'hauora-regular' !important;
+    color: #FFFFFF;
+}
+.amm_head .col:nth-child(3), .amm_body_row .col:nth-child(3) {
+    text-align: end;
+}
+.amm_head .col:nth-child(2), .amm_body_row .col:nth-child(2) {
+    text-align: center;
+}
+.amm_body_row {
+    border-bottom: 1px solid #F4F6FA;
+    margin: 0px 50px;
+    display: flex;
+    padding: 19px 0px;
+}

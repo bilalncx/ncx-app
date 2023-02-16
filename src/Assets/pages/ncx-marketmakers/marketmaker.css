@@ -1,0 +1,49 @@
+#marketmakers_page header#header-row {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+#marketmakers_page header#header-row.darkheader{
+    background-color: #000000 !important;
+    background: #000000 !important;
+}
+#marketmakers_page .gradient {
+    padding-top: 30px;
+}
+h1.market_benefits {
+    margin-bottom: 20px;
+    font-size: 34px;
+    line-height: 38px;
+    font-family: 'hauora-medium';
+}
+#marketmakers_page .row.gradient-text ul {
+    margin-top: 10px;
+    margin-bottom: 0px !important;
+}
+#marketmakers_page .row.gradient-text p {
+    min-height: 42px;
+    font-size: 15px !important;
+}
+#marketmakers_page .gradient-text .col h1{
+    font-size: 23px !important;
+    line-height: 28px !important;
+}
+#marketmakers_page .row.gradient-text ul li {
+    font-size: 15px;
+    font-family: 'hauora-regular';
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+.transaction_rebates {
+    margin-top: 100px;
+}
+h1.market_benefits span, .transaction_rebates .hsd13 h3 span {
+    background: linear-gradient(90deg, #924DE9 50%, #4A3DAF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.transaction_rebates .amm_body_row p {
+    font-size: 16px;
+    font-family: 'hauora-medium';
+}

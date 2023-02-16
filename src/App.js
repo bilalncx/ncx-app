@@ -15,6 +15,7 @@ import TaskReward from './Assets/pages/taskrewards/taskreward';
 import NCXCard from './Assets/pages/ncxcard/ncxcard';
 import NCXOTC from './Assets/pages/ncxotcpage/otc';
 import NCXAmbassador from './Assets/pages/ncx-ambassador/ambassador';
+import NCXMarketMaker from './Assets/pages/ncx-marketmakers/marketmaker';
 
 const App = () => {
   return (
@@ -34,6 +35,7 @@ const App = () => {
           <Route path='/ncx-card' element={<NCXCard />}/>
           <Route path='ncx-otc' element={<NCXOTC />} />
           <Route path='ncx-ambassador' element={<NCXAmbassador />} />
+          <Route path='market-makers' element={<NCXMarketMaker />} />
         </Routes>
       </BrowserRouter>
     </div>

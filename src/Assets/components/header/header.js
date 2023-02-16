@@ -47,8 +47,8 @@ export default function Header() {
                             <div className="community_inner">
                               <div className="main_service">
                                 <a href="./blog">Rewards Program</a>
-                                <a href="#">News & Insights</a>
-                                <a href="#">Market Makers</a>
+                                <a href="./blog">News & Insights</a>
+                                <a href="./market-makers">Market Makers</a>
                                 <a href="./ncx-otc">OTC</a>
                                 <a href="./ncx-ambassador">NCX Ambassador</a>
                               </div>
@@ -110,7 +110,7 @@ export default function Header() {
                   <a href="#">Derivatives</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://ncx.cx/#market">Markets</a>
+                  <a href="./market-makers">Markets</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
@@ -210,32 +210,38 @@ export default function Header() {
                         <a href="#">Buy crypto</a>
                       </li>
                       <li>
-                        <a href="#">Spot Trading</a>
+                        <a href="https://trade.ncx.cx">Spot Trading</a>
                       </li>
                       <li>
-                        <a href="#future">Derivatives</a>
+                        <a href="#">Derivatives</a>
                       </li>
                       <li>
-                        <a href="#market">Market</a>
+                        <a href="./market-makers">Markets</a>
                       </li>
                       <li>
                         <a href="https://bcx.ncx.cx/" target="_blank" rel="noreferrer">DEX</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/blog">NCX Card</a>
+                        <a href="./ncx-card">NCX Card</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/blog">Blog</a>
+                        <a href="#">NCX Token</a>
+                      </li>
+                      <li>
+                        <a href="./task-rewards">Rewards</a>
+                      </li>
+                      <li>
+                        <a href="https://ncx.cx/blog">News & Insights</a>
                       </li>
                       {/* <li>
                         <a className="btn01 signup launching-btn">Sign Up</a>
                       </li> */}
                       <li>
-                        <a className="signin launching-btn" href="https://my.ncx.cx/" target="_blank" rel="noreferrer">Sign In</a>
+                        <a className="signin launching-btn" href="https://my.ncx.cx/" target="_blank" rel="noreferrer">Sign In / Sign Up</a>
                       </li>
-                      <li>
+                      {/* <li>
                         <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex launching-btn">Launch DEX</a>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </div>

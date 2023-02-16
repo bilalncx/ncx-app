@@ -1,5 +1,5 @@
 .referral_privilleges {
-    padding: 80px 0px;
+    padding: 80px 0px 0px 0px;
 }
 .referral_privilleges h1 {
     font-size: 34px;
@@ -55,15 +55,12 @@
 .tab_head_row .col:nth-child(5){
     text-align: end;
 }
-/* .silver_row .col:nth-child(5){
-    text-align: center;
-} */
 .col.logo_text {
     display: flex;
     align-items: center;
     column-gap: 30px;
 }
-.col.logo_text svg {
+.col.logo_text svg, .logo_text img {
     background: #FFFFFF;
     border-radius: 50%;
     box-shadow: 5px 0px 20px 3px rgb(162 166 171 / 12%);
@@ -75,4 +72,156 @@
     font-size: 20px;
     font-family: 'hauora-medium';
     line-height: 26px;
+}
+.table_text h3 {
+    font-size: 16px;
+    font-family: 'hauora-medium';
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.table_text p {
+    margin-bottom: 10px;
+}
+.become_ambassador {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.become_ambassador h2{
+    font-size: 22px;
+    line-height: 30px;
+    font-family: 'hauora-regular';
+}
+h1.referral_bonus{
+    background: linear-gradient(50deg, #9853EF 3.48%, #6152C4 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-size: 32px;
+    line-height: 36px;
+    font-family: 'hauora-medium';
+}
+h1.referral_bonus span{
+    font-size: 16px;
+    font-family: 'hauora-regular';
+}
+a.referral_applynow{
+    background: linear-gradient(89.56deg, #9852EF 0.3%, #5F51C2 101.22%);
+    border-radius: 7px;
+    width: 155px;
+    height: 42px;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'hauora-regular';
+    color: #FFFFFF;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+a.referral_applynow:focus, a.referral_applynow:focus-visible{
+    outline: none;
+    text-decoration: none;
+}
+.requirements_sect {
+    padding: 40px 0px;
+}
+.requirements_sect h2.require {
+    font-size: 26px;
+    font-family: 'hauora-medium';
+    line-height: 32px;
+    margin-bottom: 10px;
+}
+.requirement_table {
+    margin: 30px 0px 0px 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px 3px rgb(135 136 150 / 10%);
+    border-radius: 20px;
+    padding: 20px 0px 0px 0px;
+}
+.require_row {
+    display: flex;
+    margin: 0px 30px;
+    border-bottom: 1px solid #F4F6FA;
+    min-height: 65px;
+    align-items: center;
+    padding: 20px 0px;
+}
+.require_row .col:nth-child(1){
+    width: 20%;
+    flex: inherit;
+    padding-left: 30px;
+}
+.require_row .col:nth-child(2){
+    width: 80%;
+    flex: inherit;
+}
+.require_row h3 {
+    font-size: 18px;
+    font-family: 'hauora-medium';
+    line-height: 24px;
+}
+.require_row.colo_bord {
+    margin: 0px;
+    border: 1px solid #1900FE;
+    border-radius: 0px 0px 20px 20px;
+    padding: 25px 25px;
+}
+h1.privileges_head {
+    font-size: 34px;
+    font-family: 'hauora-medium';
+    line-height: 40px;
+    margin-bottom: 30px;
+    padding: 0px 40px;
+}
+#ncxAmbassador-page .row.gradient-text:before, #ncxAmbassador-page .row.gradient-text:after{
+    display: none;
+}
+#ncxAmbassador-page .row.gradient-text {
+    padding: 0px 30px 50px 30px;
+    column-gap: 30px;
+}
+#ncxAmbassador-page .gradient-text .col{
+    padding-right: 0px !important;
+}
+.ambassador_row h1 {
+    font-size: 40px;
+    font-family: 'hauora-medium';
+    text-align: center;
+    background: url(../../../images/ncx-winbg.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 82px;
+    height: 82px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ambassador_row .one h1{
+    color: #756CF6;
+}
+.ambassador_row .two h1 {
+    color: #5C4EBD;
+}
+.ambassador_row .five h1 {
+    color: #A941C4;
+}
+.ambassador_row {
+    display: flex;
+    column-gap: 20px;
+    margin: 5% 15% 3% 15%;
+}
+.ambassador_row p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'hauora-medium';
+    margin-top: 20px;
+}
+.col.two, .col.four {
+    text-align: center;
+    padding-top: 30px;
+}
+.become_an_ambassador {
+    text-align: center;
+    margin-top: 120px;
 }
