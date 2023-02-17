@@ -5,3 +5,40 @@ img.buy-ss22 {
     padding: 80px 0px;
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.2));
 }
+#mobile-shoss{
+    display: none;
+}
+@media screen and (max-width: 800px){
+    #mobile-shoss{
+        display: block;
+        padding: 0px !important;
+    }
+    #mobile-shoss h1, #mobile-shoss p{
+        display: none;
+    }
+    #mobile-shoss .crypto-assets.row {
+        margin-top: 0px !important;
+        column-gap: 10px !important;
+    }
+    #mobile-shoss .crypto-assets.row p, #mobile-shoss .crypto-assets.row h1{
+        display: flex !important;
+        text-align: left !important;
+    }
+    body #mobile-shoss p.change {
+        color: #65b07a !important;
+        display: flex;
+        align-items: center !important;
+    }
+    #mobile-shoss .crypto-assets.row .col{
+        display: block !important;
+    }
+    img.buy-ss22{
+        padding-bottom: 40px !important;
+    }
+    .crypto-assets.row{
+        display: none !important;
+    }
+    #mobile-shoss .crypto-assets.row {
+        display: flex!important;
+    }
+}
