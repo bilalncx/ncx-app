@@ -4,7 +4,6 @@ import Button from "@mui/material/Button";
 import { ReactComponent as Silver} from '../../../images/ncx-silverrank.svg';
 import GoldRank from '../../../images/ncx-goldrank.svg';
 import DiamondRank from '../../../images/ncx-diamondrank.svg';
-import Rankg from '../../../images/ncx-winbg.svg'
 
 function ReferralPrivilleges(){
     return(

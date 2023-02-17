@@ -16,7 +16,6 @@ function CardfirstSection()
                         muted={true}
                         loop={true}
                         playsInline={true}
-                        // poster={"../src/assets/images/roadmap-bg.png"}
                         >
                         <source src={NCXHomeSliderVideo} type="video/mp4" />
                     </video>
@@ -68,12 +67,12 @@ function CardfirstSection()
                                 </div>
                                 <p className="cardp2">One Card, Unlimited Possibilities!</p>
                                 <div className="prod-butns">
-                                    <a className="der-buttons" href="#">Sign Up</a>
-                                    <a className="buycrypt-btn" href="#">Get the App</a>
+                                    <a className="der-buttons" href="https://my.ncx.cx" target="_blank" rel="noreferrer">Sign Up</a>
+                                    <a className="buycrypt-btn" href="https://my.ncx.cx" target="_blank" rel="noreferrer">Get the App</a>
                                 </div>
                             </div>
                             <div className="col product-img">
-                                <img className="cardtr-image" src={NCXCardTrade} />
+                                <img className="cardtr-image" src={NCXCardTrade} alt="NCX Trading" />
                                 <div id="ncxcardvideo-mbl">
                                     <div className="desktop">
                                         <video 
@@ -82,7 +81,6 @@ function CardfirstSection()
                                             muted={true}
                                             loop={true}
                                             playsInline={true}
-                                            // poster={"../src/assets/images/roadmap-bg.png"}
                                             >
                                             <source src={NCXHomeSliderVideo} type="video/mp4" />
                                         </video>

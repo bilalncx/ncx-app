@@ -9,7 +9,6 @@ import NCXLogo from '../../../images/ncx-black-logo.svg';
 
 function NCXDebitCardSection()
 {
-    // const { email, error } = this.state;
     return(
         <div className="ncxcard">
             <div className="container">

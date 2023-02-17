@@ -7,11 +7,8 @@ function Accordian() {
         if(selected === i){
             return setselected(null)
         }
-
         setselected(i)
     }
-
-
     return(
         <div id="card-faqss">
             <div className="container">
@@ -60,21 +57,6 @@ const data = [
             <p>Yes you can use your local currency to buy crypto. For example, if you are in Nigeria, you can use Naira [NGN] to buy bitcoin or any cryptocurrency.</p>
         </div>
     },
-    // {
-    //     question: 'How can I earn NCXX Tokens?',
-    //     answer: 
-    //     <div>
-    //         <p>NCX is on target to reach 500,000 users by the end of 2023, to achieve our goal we introduced a number of ways to 
-    //             grow and reward NCX community and built a scalable ecosystem. As a part of our marketing campaign:</p>
-    //         <ul className='faq_li'>
-    //             <li>Newly registered users will receive 10,000 NCXX tokens airdrop as a sign-up bonus</li>
-    //             <li>Earn 10,000 NCXX tokens with each new referral with NCX Referral Program, both the referred user and the one referring will receive the 10,000 NCXX tokens airdrop, one as referral another as sign-up bonus </li>
-    //             <li>Stake NCXX on NCX DeFi Staking & Liquidity Pools</li>
-    //             <li>Farm Yield and earn NCXX on NCX DeFi Yield Farms</li>
-    //             <li>Earn rewards in NCXX Tokens by completing task on the platform and reaching trading volumes, receive cash back on trading fees in NCXX</li>
-    //         </ul>
-    //     </div>,
-    // }
 ]
 
 

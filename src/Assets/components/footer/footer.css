@@ -2,7 +2,6 @@ div#footerdiv {
     padding: 70px 0px 20px 0px;
     background: #000000;
     position: relative;
-    /* border-top: 1px solid rgb(255, 255, 255, 0.2); */
 }
 .footer-row {
     display: flex;

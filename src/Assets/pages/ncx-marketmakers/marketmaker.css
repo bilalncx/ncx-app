@@ -47,3 +47,122 @@ h1.market_benefits span, .transaction_rebates .hsd13 h3 span {
     font-size: 16px;
     font-family: 'hauora-medium';
 }
+
+@media screen and (max-width: 800px){
+    #marketmakers_page .ambassadordiv {
+        margin-top: 0px !important;
+        padding: 50px 0px 50px 0px;
+    }
+    #marketmakers_page .ambassadordiv .backgrdound-video {
+        display: none;
+    }
+    #marketmakers_page .ambassadordiv .container {
+        position: relative !important;
+        left: inherit !important;
+        right: inherit !important;
+    }
+    #marketmakers_page .ambassador.row .col {
+        width: 100% !important;
+    }
+    #marketmakers_page .ambassador.row h1 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    #marketmakers_page .txt44 {
+        margin-bottom: 20px;
+    }
+    #marketmakers_page .txt44 p {
+        width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    #marketmakers_page .ambassador a {
+        width: 140px;
+        height: 40px;
+        font-size: 14px;
+    }
+    .market-discount{
+        padding: 50px 0px 20px 0px !important;
+    }
+    .market-discount h1{
+        font-size: 26px !important;
+        line-height: 32px !important;
+        width: 70%;
+    }
+    #marketmakers_page .market-tabs-btn {
+        display: flex;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        width: 100%;
+    }
+    #marketmakers_page button.market-tabs {
+        width: 50% !important;
+        padding: 0px;
+        font-size: 13px !important;
+        line-height: 16px !important;
+        font-family: 'hauora-semibold' !important;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        height: 46px;
+    }
+    #marketmakers_page .market-content{
+        border-radius: 0px;
+        background: transparent;
+        box-shadow: none;
+        padding: 30px 0px 0px 0px;
+    }
+    .hsd11 h3, .hsd13 h3{
+        font-size: 20px !important;
+        line-height: 25px !important;
+    }
+    .market-content p {
+        font-size: 14px !important;
+        line-height: 20px !important;
+        font-family: 'hauora-medium';
+        display: grid;
+    }
+    .head_table{
+        margin: 0px 10px !important;
+    }
+    #marketmakers_page .discount_table .col p {
+        display: inherit !important;
+        font-size: 10px !important;
+        line-height: 12px !important;
+    }
+    .table_body_row {
+        margin: 0px 10px !important;
+    }
+    .head_table p span{
+        font-size: 6px !important;
+        padding: 3.5px 2px !important;
+        line-height: 7px !important;
+        margin-right: 3px !important;
+    }
+    .table_body_row.boder-color{
+        margin: 0px !important;
+        padding: 25px 10px !important;
+    }
+    #marketmakers_page .fees_details h4{
+        margin-bottom: 10px;
+    }
+    #marketmakers_page .fees_details p{
+        line-height: 20px !important;
+    }
+    .amm_markettable .amm_head{
+        padding: 20px;
+    }
+    .amm_markettable .amm_body_row {
+        margin: 0px 20px;
+    }
+    h1.market_benefits{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    #marketmakers_page .row.gradient-text p{
+        min-height: inherit !important;
+    }
+    .transaction_rebates{
+        margin-top: 50px;
+    }
+}
