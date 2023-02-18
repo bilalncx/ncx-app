@@ -30,7 +30,8 @@ function RewardStepSection()
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <img src={NCXStep3} alt="NCX Earning" />
-                            <p>Once you reach 100,000 SATs, it's time to cash out! You can redeem, withdraw, or sell your BTC for USD(T) at anytime.</p>
+                            <p>You can redeem, withdraw, stake, trade or sell your tokens on NCX or any other listed DEX/CEX after NCXT TGE and Token Release*</p>
+                            <span>*-Subject to Vesting Period</span>
                         </AnimationOnScroll>
                     </div>
                 </div>

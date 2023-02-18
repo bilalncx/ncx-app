@@ -19,6 +19,15 @@ div#footerdiv {
     line-height: 20px;
     font-weight: 400 !important;
 }
+.footer-row ul li a:hover{
+    text-decoration: none;
+    color: #34A9FF;
+}
+.footer-row ul li a:focus, .footer-row ul li a:focus-visible{
+    text-decoration: none;
+    outline: none;
+    color: #34A9FF;
+}
 .app-barcode-row {
     display: flex;
     margin-top: 30px;

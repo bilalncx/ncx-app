@@ -20,8 +20,8 @@ function NCXEarningComplete()
                                 <p>Refer a friend</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Earn 2,500 NCX Tokens!</h1>
-                            <p className="getocode-txt">Get rewarded each time 50 referrals sign up for NCX and verify their accounts.</p>
+                            <h1>Earn 2,500 NCXT Tokens!</h1>
+                            <p className="getocode-txt">Get rewarded each time your referrals create and verify their account on <strong>www.ncx.cx</strong>, with NCX truly unlimited Referral Program.</p>
                             <a href="#">Sign in to Get Your Code</a>
                         </AnimationOnScroll>
                     </div>
@@ -32,7 +32,7 @@ function NCXEarningComplete()
                                 <NCXQuestionmark />
                             </div>
                             <h1>Earn 5% Commission on all Purchases!</h1>
-                            <p className="getocode-txt">Get rewarded each time your referrals sign up for NCX and make a purchase of NCX Tokens Across all Presale Rounds</p>
+                            <p className="getocode-txt">Get commissions each time your referrals make a purchase of NCX Tokens Across all Presale Rounds</p>
                             <a href="#">Sign in to Get Your Code</a>
                         </AnimationOnScroll>
                     </div>
@@ -42,7 +42,7 @@ function NCXEarningComplete()
                                 <p>SIGN UP AND VERIFY</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Get up to 50,000 NCX, simply trading!</h1>
+                            <h1>Get up to 50,000 NCXT, simply trading!</h1>
                             <p className="getocode-txt">Sign Up, Complete Tasks and earn NCX Tokens, reach new Levels and get Rewarded.</p>
                             <a href="#">Sign Up and Start Trading</a>
                         </AnimationOnScroll>

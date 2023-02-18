@@ -44,6 +44,10 @@
     margin: 0 auto;
     margin-top: 50px;
 }
+.ncxearingsteps a.earn-toget:focus, .ncxearingsteps a.earn-toget:focus-visible{
+    outline: none;
+    text-decoration: none;
+}
 
 @media screen and (max-width: 800px) {
     .ncxearingsteps{

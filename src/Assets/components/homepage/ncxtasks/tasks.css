@@ -61,6 +61,14 @@ p.task {
     height: 44px;
     border-radius: 50px;
 }
+.taskbtn a:hover{
+    background: rgba(25, 118, 210, 0.04);
+    color: #000;
+}
+.taskbtn a:focus, .taskbtn a:focus-visible{
+    outline: none !important;
+    text-decoration: none;
+}
 .taskbtn {
     display: flex;
     justify-content: space-between;

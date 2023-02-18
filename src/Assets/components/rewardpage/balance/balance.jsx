@@ -13,10 +13,10 @@ function MyBalance()
                 <div className="container">
                     <div className="rewardheadrow">
                         <div className="reward-center">
-                            <p>Reward Center</p>
+                            <p>Rewards Center</p>
                             <p className="star-res"><RewardStar /> NCX Rewards</p>
                         </div>
-                        <p className="complete-tsks">Complete Tasks Earn NCX</p>
+                        <p className="complete-tsks">Complete Tasks Earn NCXT</p>
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@ function MyBalance()
                 <div className="container">
                     <div className="ncx-baldiv">
                         {/* <AnimationOnScroll animateIn="animate__fadeIn"> */}
-                            <h3>My NCX Balance</h3>
+                            <h3>My NCXT Balance</h3>
                             {/* <h1>10,000,000<span>0</span></h1> */}
                             <div className="balance-counter">
                             <CountUp

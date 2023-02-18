@@ -32,6 +32,7 @@ p.trending-text {
 .trendsrow .view-all a:hover{
     border-color: #34A9FF;
     background: #34A9FF;
+    color: #FFFFFF !important;
 }
 .ncx-trends svg path:nth-child(2) {
     fill: #000000;

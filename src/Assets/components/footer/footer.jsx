@@ -18,7 +18,7 @@ function MyFooter()
                     <div class="first-column">
                         <h1>Products</h1>
                         <ul className="ul-one">
-                            <li><a href="">Buy Crypto</a></li>
+                            <li><a href="#">Buy Crypto</a></li>
                             <li><a href="#">Spot Trading</a></li>
                             <li><a href="#">Markets</a></li>
                             <li><a href="#">DEX</a></li>
@@ -95,7 +95,7 @@ function MyFooter()
                             <div className="fot-newsleter">
                                 <p>Sign Up for Updates</p>
                                 <form>
-                                    <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required="" type="email" value="" />
+                                    <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required="" type="email" />
                                     <button><NCXNewsletterarrow /></button>
                                 </form>
                             </div>

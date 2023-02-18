@@ -43,9 +43,11 @@ video#ncx-main-video {
     transition: .4s ease;
 }
 .taskdiv:hover{
-    transform: translateY(0%) scale(1.06);
+    background: #FFFFFF;
+    box-shadow: 0 0 16px rgb(184 201 255 / 30%);
+    /* transform: translateY(0%) scale(1.06);
     -webkit-transform: translateY(0%) scale(1.06);
-    -moz-transform: translateY(0%) scale(1.06);
+    -moz-transform: translateY(0%) scale(1.06); */
     cursor: pointer;
 }
 .taskdiv h3 {
@@ -66,8 +68,11 @@ video#ncx-main-video {
     height: 40px;
 }
 .buttoninfo a:hover{
-    background: #925BCA;
-    color: #FFF;
+    background: rgba(25, 118, 210, 0.04);
+    color: #000;
+}
+.buttoninfo a:focus, .buttoninfo a:focus-visible{
+    outline: none !important;
 }
 .buttoninfo a:focus, .buttoninfo a:focus-visible{
     background: #925BCA;
