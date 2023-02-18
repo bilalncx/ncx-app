@@ -13,6 +13,7 @@ import { ReactComponent as GooglePlayIcon } from '../../images/play-icon.svg';
 import Telegram from '../footer/telegram.svg';
 import Twitter from '../footer/twitter.svg';
 import Instagram from '../../images/instagram.svg';
+import AppBarCode from '../../images/ncx-QRcode.svg';
   
 export default function Header() {   
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
@@ -46,9 +47,10 @@ export default function Header() {
                           <div className="main_service_wrapper">
                             <div className="community_inner">
                               <div className="main_service">
-                                <a href="./blog">Rewards Program</a>
+                                <a href="./task-rewards">Rewards Program</a>
                                 <a href="./blog">News & Insights</a>
                                 <a href="./market-makers">Market Makers</a>
+                                <a href="#">Institutional Services</a>
                                 <a href="./ncx-otc">OTC</a>
                                 <a href="./ncx-ambassador">NCX Ambassador</a>
                               </div>
@@ -176,9 +178,23 @@ export default function Header() {
             <div className="login-buttons">
               <Button href="https://my.ncx.cx/" target="_blank" className="signin">Sign In</Button>
               <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex">Launch DEX</Button>
-              <div className="storeicons">
-                <AppleIcon />
-                <GooglePlayIcon />
+              <div className="downloadQRCode">
+                <div id="downloadlink" className="storeicons">
+                  <AppleIcon />
+                  <GooglePlayIcon />
+                </div>
+                <div id="headerDownloadApp">
+                  <div class="download-box">
+                    <div class="qr-box">
+                      <div class="img-box">
+                        <img src={AppBarCode} alt="NCX Mobile App"/>
+                      </div>
+                    </div>
+                    <div class="pc-box">
+                      <div class="text">Scan the QR code to download NCX mobile APP</div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

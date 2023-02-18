@@ -1,0 +1,70 @@
+div#exclusive_rates {
+    max-height: 400px;
+    background: #000000;
+}
+#exclusive_rates video {
+    width: 100%;
+    object-fit: cover;
+    max-height: 400px;
+}
+#exclusive_rates .backgrdound-video{
+    max-height: 400px;
+}
+div#exclusive_rates {
+    position: relative;
+}
+#exclusive_rates .container {
+    position: absolute;
+    top: 0;
+    width: 100% !important;
+    left: 0;
+    right: 0;
+    padding: 80px 0px 80px 0px;
+}
+h1.exclusive {
+    font-size: 34px;
+    color: #FFFFFF;
+    font-family: 'hauora-medium';
+    line-height: 38px;
+}
+.exclusive_rates {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.exclusive_rates .col {
+    background: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    flex: inherit;
+    width: 33.33%;
+    max-width: 400px;
+    padding: 30px;
+}
+.exclusive_rates h3 {
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 24px;
+    font-family: 'hauora-medium';
+}
+.rates_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.rates_div .marker_lowest {
+    width: 50%;
+}
+.rates_div .marker_lowest h1 {
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: 'hauora-medium';
+    line-height: 30px;
+}
+.marker_lowest p {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 16px;
+    font-family: 'hauora-medium';
+    margin-top: 5px;
+}

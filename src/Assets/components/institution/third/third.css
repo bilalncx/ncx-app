@@ -1,0 +1,32 @@
+div#trading_solutions {
+    position: relative;
+    min-height: 770px;
+    max-height: 880px;
+    background: #000000;
+}
+#trading_solutions video {
+    width: 100%;
+    object-fit: cover;
+    max-height: 880px;
+}
+#trading_solutions .backgrdound-video{
+    min-height: 770px;
+    max-height: 880px;
+}
+div#trading_solutions {
+    position: relative;
+}
+#trading_solutions .container {
+    position: absolute;
+    top: 0;
+    width: 100% !important;
+    left: 0;
+    right: 0;
+    padding: 120px 0px 80px 0px;
+}
+.trading-sol-row {
+    display: flex;
+}
+.trading-sol-row .col{
+    width: 50%;
+}

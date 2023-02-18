@@ -16,6 +16,7 @@ import NCXCard from './Assets/pages/ncxcard/ncxcard';
 import NCXOTC from './Assets/pages/ncxotcpage/otc';
 import NCXAmbassador from './Assets/pages/ncx-ambassador/ambassador';
 import NCXMarketMaker from './Assets/pages/ncx-marketmakers/marketmaker';
+import NCXInstitution from './Assets/pages/ncx-institution/institution';
 
 const App = () => {
   return (
@@ -36,6 +37,7 @@ const App = () => {
           <Route path='ncx-otc' element={<NCXOTC />} />
           <Route path='ncx-ambassador' element={<NCXAmbassador />} />
           <Route path='market-makers' element={<NCXMarketMaker />} />
+          <Route path='ncx-institution' element={<NCXInstitution />} />
         </Routes>
       </BrowserRouter>
     </div>

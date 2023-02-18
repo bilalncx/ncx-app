@@ -48,6 +48,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("market-maker") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("ncx-institution") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }

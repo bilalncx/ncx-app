@@ -50,7 +50,7 @@
     width: 1px;
 }
 .otc-linediv {
-    width: 271px !important;
+    width: 1px !important;
     height: 1px !important;
 }
 .OTCsect.row .col {
@@ -171,8 +171,5 @@
     }
     .OTCsect.row.mobile.three .otc-line {
         height: 165px;
-    }
-    .otc-linediv{
-        width: inherit !important;
     }
 }

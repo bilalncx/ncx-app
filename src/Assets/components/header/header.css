@@ -88,6 +88,7 @@ ul.navlink a:hover{
     column-gap: 12px;
     display: flex;
     justify-content: end;
+    position: relative;
 }
 .header-logo {
     margin-left: 0px !important;
@@ -373,6 +374,86 @@ a.header-more, li.main_title.white_bg:last-child a{
 .mega_menu .boxx-links{
     margin-bottom: 40px;
 }
+/* Header Mobile App */
+#headerDownloadApp {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 4px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 1px 6px 0 rgb(0 0 0 / 15%);
+    -moz-box-shadow: 0 1px 6px 0 rgba(0,0,0,.15);
+    box-shadow: 0 1px 6px 0 rgb(0 0 0 / 15%);
+    bottom: 10px;
+    display: none;
+    padding: 0 16px 16px 16px;
+    cursor: default;
+}
+#headerDownloadApp {
+    top: 55px;
+    right: 0px;
+    bottom: auto;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+#headerDownloadApp .download-box {
+    white-space: nowrap;
+    padding: 16px 0 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#headerDownloadApp .download-box .qr-box {
+    display: inline-flex;
+    vertical-align: top;
+    line-height: normal;
+    width: 92px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+#headerDownloadApp .download-box .qr-box img{
+    width: 92px;
+    height: 92px;
+    display: block;
+    padding: 0px;
+}
+#headerDownloadApp .download-box .pc-box {
+    display: inline-flex;
+    vertical-align: top;
+    margin-left: 16px;
+    margin-top: 0px;
+    color: #fff;
+    width: 107px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+}
+#headerDownloadApp .download-box .text {
+    text-align: left;
+    font-size: 15px;
+    color: #35384a;
+    word-break: break-word;
+    white-space: normal;
+    line-height: 20px;
+    font-family: 'hauora-regular';
+}
+#downloadlink:hover{
+    cursor: pointer;
+}
+.downloadQRCode:hover #headerDownloadApp {
+    display: block;
+}
+.downloadQRCode{
+    position: relative;
+    padding: 11px 0px
+}
+.login-buttons a{
+    margin: 11px 0px;
+}
+
 
 @media screen and (min-width: 801px) and (max-width: 1240px){
     .logo-nav{

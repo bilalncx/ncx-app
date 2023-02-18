@@ -1,0 +1,15 @@
+.our_advantages h1 {
+    font-size: 34px;
+    line-height: 38px;
+    font-family: 'hauora-medium';
+    color: #FFFFFF;
+}
+.our_advantages .txtimgsect {
+    padding: 0px 15px 0px 15px;
+}
+.our_advantages .otctxt p {
+    min-height: 220px;
+}
+.our_advantages .otc-line {
+    height: 320px;
+}

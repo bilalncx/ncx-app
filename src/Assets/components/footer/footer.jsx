@@ -41,10 +41,10 @@ function MyFooter()
                         <ul className="ul-one">
                             <li><a href="#">Referral Program</a></li>
                             <li><a href="#">Market Makers</a></li>
+                            <li><a href="#">Institutional Services</a></li>
                             <li><a href="#">OTC</a></li>
                             <li><a href="#">NCX Trends</a></li>
                             <li><a href="#">NCX Ambassador</a></li>
-                            <li className="hiddendss"><a>Red</a></li>
                         </ul>
                         <h1>Company</h1>
                         <ul className="ul-two">
