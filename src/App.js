@@ -34,10 +34,10 @@ const App = () => {
           <Route path='/buy-crypto' element={<BuyCrypto />}/>
           <Route path='/task-rewards' element={<TaskReward />} />
           <Route path='/ncx-card' element={<NCXCard />}/>
-          <Route path='ncx-otc' element={<NCXOTC />} />
-          <Route path='ncx-ambassador' element={<NCXAmbassador />} />
-          <Route path='market-makers' element={<NCXMarketMaker />} />
-          <Route path='ncx-institution' element={<NCXInstitution />} />
+          <Route path='/ncx-otc' element={<NCXOTC />} />
+          <Route path='/ncx-ambassador' element={<NCXAmbassador />} />
+          <Route path='/market-makers' element={<NCXMarketMaker />} />
+          <Route path='/institution' element={<NCXInstitution />} />
         </Routes>
       </BrowserRouter>
     </div>
