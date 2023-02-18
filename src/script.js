@@ -48,7 +48,7 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("market-maker") > -1){
       $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("institution") > -1){
+    } else if (window.location.href.indexOf("institutional") > -1){
       $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");

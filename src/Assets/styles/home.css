@@ -162,7 +162,8 @@ div#footer-faq {
     font-weight: 300 !important;
 }
 .faq-sect{
-    background: url(../images/ncx-faq-bg.png);
+    /* background: url(../images/ncx-faq-bg.png); */
+    background: #000000;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

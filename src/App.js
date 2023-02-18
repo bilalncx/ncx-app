@@ -37,7 +37,7 @@ const App = () => {
           <Route path='/ncx-otc' element={<NCXOTC />} />
           <Route path='/ncx-ambassador' element={<NCXAmbassador />} />
           <Route path='/market-makers' element={<NCXMarketMaker />} />
-          <Route path='/institution' element={<NCXInstitution />} />
+          <Route path='/institutional' element={<NCXInstitution />} />
         </Routes>
       </BrowserRouter>
     </div>

@@ -50,7 +50,7 @@ export default function Header() {
                                 <a href="./task-rewards">Rewards Program</a>
                                 <a href="./blog">News & Insights</a>
                                 <a href="./market-makers">Market Makers</a>
-                                <a href="./institution">Institutional Services</a>
+                                <a href="./institutional">Institutional Services</a>
                                 <a href="./ncx-otc">OTC</a>
                                 <a href="./ncx-ambassador">NCX Ambassador</a>
                               </div>
