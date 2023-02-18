@@ -29,7 +29,6 @@ function MarketMakerDiscountSection()
                     <div id="market-1" className={toggleState === 1 ? "market-content active" : "market-content"}>
                         <div className="hsd11">
                             <h3>Normal Market Fee Rate</h3>
-                            <p>207</p>
                         </div>
                         <p>Requirements of Ranking: <span>Last--month spot trading volume ≥ 5,000,000 USD</span></p>
                         <div className="discount_table">
@@ -37,9 +36,9 @@ function MarketMakerDiscountSection()
                                 <div className="col"><p>Level</p></div>
                                 <div className="col"><p>Ranking</p></div>
                                 <div className="col"><p>Maker</p></div>
-                                <div className="col"><p><span>NCX</span>Maker</p></div>
+                                <div className="col"><p><span>NCXT</span>Maker</p></div>
                                 <div className="col"><p>Taker</p></div>
-                                <div className="col"><p><span>NCX</span>Maker</p></div>
+                                <div className="col"><p><span>NCXT</span>Maker</p></div>
                             </div>
                             <div className="table_body_row">
                                 <div className="col"><p>LV5</p></div>

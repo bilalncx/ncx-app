@@ -10,7 +10,7 @@ function NCXEarningComplete()
         <div className="earingingcomplet-sect">
             <div className="container">
                 <AnimationOnScroll animateIn="animate__fadeIn">
-                    <h1>Complete tasks, earn NCXs, and begin your crypto ascent.</h1>
+                    <h1>Complete tasks, earn NCXTs, and begin your crypto ascent.</h1>
                     <Button className="earn-toget" href="#">Sign in to Get Your Code</Button>
                 </AnimationOnScroll>
                 <div className="getocodesect">
@@ -28,7 +28,7 @@ function NCXEarningComplete()
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>Refer a Earn</p>
+                                <p>Earn Commission</p>
                                 <NCXQuestionmark />
                             </div>
                             <h1>Earn 5% Commission on all Purchases!</h1>
@@ -39,7 +39,7 @@ function NCXEarningComplete()
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>SIGN UP AND VERIFY</p>
+                                <p>Trade to Earn</p>
                                 <NCXQuestionmark />
                             </div>
                             <h1>Get up to 50,000 NCXT, simply trading!</h1>

@@ -5,6 +5,9 @@ img.buy-ss22 {
     padding: 80px 0px;
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.2));
 }
+#buyCryptoPage .rewardheadrow {
+    padding: 0px;
+}
 #mobile-shoss{
     display: none;
 }

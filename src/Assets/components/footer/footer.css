@@ -257,6 +257,14 @@ li.hiddendss {
         font-family: 'urbanist-light';
         font-size: 13px;
     }
+    .mob-foot-ul ul li a:hover{
+        text-decoration: none;
+        color: #34A9FF;
+    }
+    .mob-foot-ul ul li a:focus, .mob-foot-ul ul li a:focus-visible{
+        text-decoration: none;
+        color: #34A9FF;
+    }
     .mob-foot-ul {
         padding-top: 20px;
         position: relative;

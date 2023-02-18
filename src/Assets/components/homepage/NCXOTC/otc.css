@@ -3,6 +3,7 @@
     position: relative;
     background-color: #000000;
     background: #000000;
+    margin-top: -1px;
     /* background: url(../../../images/ncx-otcbg.png); */
     /* background-repeat: no-repeat;
     background-size: 100% 100%; */
@@ -166,10 +167,13 @@
     .OTCsect.row.mobile.two .otc-line {
         height: 250px;
     }
-    .OTCsect.row.mobile.three .otctxt p{
+    .OTCsect.row.mobile.one .col:nth-child(1) p {
+        height: 168.04px;
+    }
+    /* .OTCsect.row.mobile.three .otctxt p{
         min-height: 85px;
-    }
-    .OTCsect.row.mobile.three .otc-line {
+    } */
+    /* .OTCsect.row.mobile.three .otc-line {
         height: 165px;
-    }
+    } */
 }

@@ -44,6 +44,10 @@
     margin: 0 auto;
     margin-top: 50px;
 }
+.ncxearingsteps a.earn-toget:hover{
+    background: #f6fafd;
+    color: #000;
+}
 .ncxearingsteps a.earn-toget:focus, .ncxearingsteps a.earn-toget:focus-visible{
     outline: none;
     text-decoration: none;

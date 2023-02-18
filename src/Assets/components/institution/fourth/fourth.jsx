@@ -8,6 +8,8 @@ import { ReactComponent as OTC3 } from '../../../images/ncx-otc3.svg';
 import { ReactComponent as OTC4 } from '../../../images/ncx-otc4.svg';
 import { ReactComponent as OTC5 } from '../../../images/ncx-otc5.svg';
 import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
+import { ReactComponent as OTC7 } from '../../../images/icon-4.svg';
+import { ReactComponent as OTC8 } from '../../../images/ncx-otc7.svg';
 import NCXLogo from '../../../images/ncx-black-logo.svg';
 
 function NCXhomepageOTCSection(){
@@ -64,7 +66,7 @@ function NCXhomepageOTCSection(){
                                 <p>NCX  offers a convenient GUI interface to monitor and analyze the risk exposures, PnL and all trading activities in real-time, based on data-driven intelligent technology, from one centralized environment. Comprehensive risk management and risk analytical insights, risk alerts, complex simulations and stress-testing on trading data with forecasting capabilities, hedging and other recommendations for actions.</p>
                             </div>
                             <div className="otc-image">
-                                <OTC6 />
+                                <OTC2 />
                             </div>
                         </div>
                     </div>
@@ -97,7 +99,7 @@ function NCXhomepageOTCSection(){
                                     <p>Our core value is to build strong relationships with our clients. We facilitate our clients to trade cryptocurrency products, optimize trading strategy, manage risk and access liquidity.</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC2 />
+                                    <OTC7 />
                                 </div>
                             </AnimationOnScroll>
                         </div>
@@ -131,7 +133,7 @@ function NCXhomepageOTCSection(){
                                     <p>NCX offers over 500 Derivatives Trading Pairs, from Cryptocurrencies to Stocks, Currencies and Commodities, alongside</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC3 />
+                                    <OTC6 />
                                 </div>
                             </AnimationOnScroll>
                         </div>
@@ -147,7 +149,7 @@ function NCXhomepageOTCSection(){
                                     <p>Spot trade the trending crypto projects</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC2 />
+                                    <OTC8 />
                                 </div>
                             </AnimationOnScroll>
                         </div>
@@ -195,7 +197,7 @@ function NCXhomepageOTCSection(){
                                 <p>NCX  offers a convenient GUI interface to monitor and analyze the risk exposures, PnL and all trading activities in real-time, based on data-driven intelligent technology, from one centralized environment. Comprehensive risk management and risk analytical insights, risk alerts, complex simulations and stress-testing on trading data with forecasting capabilities, hedging and other recommendations for actions.</p>
                             </div>
                             <div className="otc-image">
-                                <OTC6 />
+                                <OTC2 />
                             </div>
                         </div>
                     </div>
@@ -228,7 +230,7 @@ function NCXhomepageOTCSection(){
                                     <p>Our core value is to build strong relationships with our clients. We facilitate our clients to trade cryptocurrency products, optimize trading strategy, manage risk and access liquidity.</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC2 />
+                                    <OTC7 />
                                 </div>
                             </AnimationOnScroll>
                         </div>
@@ -262,7 +264,7 @@ function NCXhomepageOTCSection(){
                                     <p>NCX offers over 500 Derivatives Trading Pairs, from Cryptocurrencies to Stocks, Currencies and Commodities, alongside</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC3 />
+                                    <OTC6 />
                                 </div>
                             </AnimationOnScroll>
                         </div>
@@ -278,7 +280,7 @@ function NCXhomepageOTCSection(){
                                     <p>Spot trade the trending crypto projects</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC2 />
+                                    <OTC8 />
                                 </div>
                             </AnimationOnScroll>
                         </div>

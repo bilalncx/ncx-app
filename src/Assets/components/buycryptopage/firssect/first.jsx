@@ -4,7 +4,8 @@ import CountUp from 'react-countup';
 import NCXCryptoBuySell from '../../../images/ncx-crypto-trading.png';
 import { ReactComponent as TrendingGraph } from '../../../images/ncx-trendinggraph.svg';
 import { ReactComponent as Ethereum } from '../../../images/ncx-ethereum.svg';
-import { ReactComponent as Ripple } from '../../../images/ncx-xrp.svg';
+import { ReactComponent as Bitcoin } from '../../../images/ncx-bitcoin.svg';
+import { ReactComponent as BinanceCoinBNB } from '../../../images/ncx-binancecoinbnb.svg';
 import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg';
 
 function BuyCryptoFirstPage(){
@@ -17,36 +18,36 @@ function BuyCryptoFirstPage(){
                     <div className="crypto-assets row">
                         <div className="col coin-details">
                             <div className="coin-graph">
+                                <Bitcoin />
+                                <TrendingGraph />
+                            </div>
+                            <h1>Bitcoin</h1>
+                            <p>24,565.91 USD</p>
+                            <p className="change">
+                                <ChangeValue />
+                                3.46%</p>
+                        </div>
+                        <div className="col coin-details">
+                            <div className="coin-graph">
                                 <Ethereum />
                                 <TrendingGraph />
                             </div>
                             <h1>Ethereum</h1>
-                            <p>0.382 USD</p>
+                            <p>1,693.23 USD</p>
                             <p className="change">
                                 <ChangeValue />
-                                2.33%</p>
+                                1.90%</p>
                         </div>
                         <div className="col coin-details">
                             <div className="coin-graph">
-                                <Ripple />
+                                <BinanceCoinBNB />
                                 <TrendingGraph />
                             </div>
-                            <h1>XRP</h1>
-                            <p>0.382 USD</p>
+                            <h1>BNB</h1>
+                            <p>316.04 USD</p>
                             <p className="change">
                                 <ChangeValue />
-                                4.33%</p>
-                        </div>
-                        <div className="col coin-details">
-                            <div className="coin-graph">
-                                <Ethereum />
-                                <TrendingGraph />
-                            </div>
-                            <h1>BNBH</h1>
-                            <p>0.382 USD</p>
-                            <p className="change">
-                                <ChangeValue />
-                                2.33%</p>
+                                2.09%</p>
                         </div>
                     </div>
                 </div>

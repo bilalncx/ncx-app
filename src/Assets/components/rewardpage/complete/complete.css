@@ -22,6 +22,10 @@
     margin: 0 auto;
     margin-top: 50px;
 }
+.earingingcomplet-sect a.earn-toget:hover{
+    background: #f6fafd;
+    color: #000;
+}
 .earingingcomplet-sect a.earn-toget:focus, .earingingcomplet-sect a.earn-toget:focus-visible{
     outline: none;
     text-decoration: none;

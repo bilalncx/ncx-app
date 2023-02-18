@@ -1,8 +1,16 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="20" cy="20" r="20" fill="#454B74"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M19.7748 17.1342L13 20.2057L19.7748 24.1958L26.547 20.2057L19.7748 17.1342Z" fill="white"/>
-<path opacity="0.45" fill-rule="evenodd" clip-rule="evenodd" d="M13 20.2057L19.7748 24.1958V9L13 20.2057Z" fill="white"/>
-<path opacity="0.8" fill-rule="evenodd" clip-rule="evenodd" d="M19.7744 9V24.1958L26.5466 20.2057L19.7744 9Z" fill="white"/>
-<path opacity="0.45" fill-rule="evenodd" clip-rule="evenodd" d="M13 21.4854L19.7748 31V25.4755L13 21.4854Z" fill="white"/>
-<path opacity="0.8" fill-rule="evenodd" clip-rule="evenodd" d="M19.7744 25.4755V31L26.5519 21.4854L19.7744 25.4755Z" fill="white"/>
+<svg width="30" height="31" viewBox="0 0 30 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1890_5228)">
+<path d="M15 30.5C23.2843 30.5 30 23.7843 30 15.5C30 7.21575 23.2843 0.5 15 0.5C6.71574 0.5 0 7.21575 0 15.5C0 23.7843 6.71574 30.5 15 30.5Z" fill="#627EEA"/>
+<path d="M14.7031 8.30078V13.6238L19.2022 15.6342L14.7031 8.30078Z" fill="white" fill-opacity="0.602"/>
+<path d="M14.7028 8.30078L10.2031 15.6342L14.7028 13.6238V8.30078Z" fill="white"/>
+<path d="M14.7031 19.0844V22.7013L19.2052 16.4727L14.7031 19.0844Z" fill="white" fill-opacity="0.602"/>
+<path d="M14.7028 22.7013V19.0838L10.2031 16.4727L14.7028 22.7013Z" fill="white"/>
+<path d="M14.7031 18.2465L19.2022 15.6342L14.7031 13.625V18.2465Z" fill="white" fill-opacity="0.2"/>
+<path d="M10.2031 15.6342L14.7028 18.2465V13.625L10.2031 15.6342Z" fill="white" fill-opacity="0.602"/>
+</g>
+<defs>
+<clipPath id="clip0_1890_5228">
+<rect width="30" height="30" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
 </svg>

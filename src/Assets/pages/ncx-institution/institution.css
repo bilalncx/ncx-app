@@ -1,3 +1,7 @@
+#ncx_institution header#header-row {
+    background: transparent;
+    background-color: transparent;
+}
 #ncx_institution .ambassadordiv .container {
     padding-top: 240px;
 }
@@ -108,26 +112,29 @@ p.insta-head {
     .mbl_advag1 .otc-line {
         height: 310px !important;
     }
-    .mbl_advag2 .otctxt p {
-        min-height: 260px !important;
+    .mbl_advag2 .col:nth-child(1) .otctxt p {
+        min-height: 300px !important;
     }
-    .mbl_advag2 .otctxt p {
-        min-height: 260px !important;
+    .mbl_advag2 .col:nth-child(2) .otctxt p {
+        min-height: 280px !important;
     }
     .mbl_advag2 .otc-line {
-        height: 365px !important;
+        height: 385px !important;
+    }
+    .mbl_advag3 .col:nth-child(1) .otctxt p {
+        height: 150px;
     }
     .mbl_advag3 .col:nth-child(2) .otctxt p {
-        min-height: 115px !important;
+        min-height: 138px !important;
     }
     .mbl_advag3 .otc-line {
-        height: 215px !important;
+        height: 235px !important;
     }
     .mbl_advag4 p {
-        min-height: 100px !important;
+        min-height: 150px !important;
     }
     .mbl_advag4 .otc-line {
-        height: 183px !important;
+        height: 235px !important;
     }
     .OTCsect.row.mobile.four.mbl_advag4 {
         padding-top: 0px !important;
@@ -180,16 +187,23 @@ p.insta-head {
         position: relative !important;
         padding-bottom: 80px !important;
     }
-    .OTCsect.row.mobile.assets2 .col:nth-child(2) h2 {
+    /* .OTCsect.row.mobile.assets2 .col:nth-child(2) h2 {
         min-height: 35.19px;
-    }
+    } */
     .OTCsect.row.mobile.assets2 .otctxt p, .OTCsect.row.mobile.assets1 .otctxt p {
-        min-height: 270px !important;
+        min-height: 260px !important;
     }
     .OTCsect.row.mobile.assets1 .otc-line{
-        height: 350px !important;
+        height: 340px !important;
     }
     .OTCsect.row.mobile.assets2 .otc-line {
-        height: 370px !important;
+        height: 340px !important;
+    }
+    #ncx_institution .ncx-otc p{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    #ncx_institution .ncx-blacklogo, #ncx_institution .ncx-whitelogo{
+        width: 105px;
     }
 }

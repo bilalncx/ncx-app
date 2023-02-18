@@ -40,10 +40,10 @@ function CardfirstSection()
                                 <div className="bullets">
                                     <span>Premium Metal Card</span>
                                     <span>24/7 Support</span>
-                                    <span>Apple Pay</span>
+                                    <span>Online Payments</span>
                                 </div>
                                 <div className="bullets">
-                                    <span>Online Payments</span>
+                                    <span>Apple Pay</span>
                                     <span>Google Play</span>
                                     <span>Samsung Play</span>
                                 </div>

@@ -5,12 +5,11 @@ import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import NCXLogo from '../../../images/NCX-logo.svg';
 import '../../homepage/NCXOTC/otc.css';
-import { ReactComponent as OTC1 } from '../../../images/ncx-otc1.svg';
 import { ReactComponent as OTC2 } from '../../../images/ncx-otc2.svg';
-import { ReactComponent as OTC3 } from '../../../images/ncx-otc3.svg';
 import { ReactComponent as OTC4 } from '../../../images/ncx-otc4.svg';
 import { ReactComponent as OTC5 } from '../../../images/ncx-otc5.svg';
 import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
+
 
 function NCXAssetManagement()
 {
@@ -122,7 +121,7 @@ function NCXAssetManagement()
                                     <p>More and more corporations are starting to allocate cash to digital assets and cryptocurrencies as part of their corporate treasury strategy. Custody and Asset Management Service support corporations to safeguard their digital assets on their balance sheet to hedge against inflation.</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC6 />
+                                    <OTC2 />
                                 </div>
                             </div>
                         </div>
@@ -182,7 +181,7 @@ function NCXAssetManagement()
                                     <p>More and more corporations are starting to allocate cash to digital assets and cryptocurrencies as part of their corporate treasury strategy. Custody and Asset Management Service support corporations to safeguard their digital assets on their balance sheet to hedge against inflation.</p>
                                 </div>
                                 <div className="otc-image">
-                                    <OTC6 />
+                                    <OTC2 />
                                 </div>
                             </div>
                         </div>
@@ -198,14 +197,14 @@ const data = [
         question: 'Assets Management',
         answer: 
         <div>
-            <p>NCX portfolio margin is the latest trading system that can consolidate the balances across different trading accounts as one single joint collateral to determine margin balance. It supports margin requirement offsetting to enable greater capital utilization for the user.</p>
+            <p>Investors can create managed subaccounts and grant access rights to your professional trading or advisory team for treasury management. The volume generated during the binding period will be allocated to the trading team's parent account and the account tier will be upgraded in accordance with the transaction volume. Your managed subaccount can enjoy the rate of the trading team's parent account VIP tier.</p>
         </div>,
     },
     {
         question: 'Custody Account',
         answer: 
         <div>
-            <p>NCX OTC launches block trading service, providing deep liquidity and personalized service. We communicate with major global liquidity pools to provide the most competitive quotations, while ensuring transaction privacy and security. NCX OTC avoids the impact of large orders on the price fluctuations in the open market, and provides more professional, personalized, private and secure services for institutions or individuals with professional trading needs.</p>
+            <p>Any investment funds or companies that are looking to enhance the security level of their digital assets or need to meet the compliance requirements can use NCX Custody Service. Register your interest with your account manager to apply for custody account.</p>
         </div>,
     },
 ]

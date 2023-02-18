@@ -13,12 +13,12 @@
     filter: drop-shadow(0px 0px 20px rgba(135, 136, 150, 0.2));
     margin-top: 40px;
 }
-.analytics_row .col {
+/* .analytics_row .col {
     width: 33.33%;
     background: #FFFFFF;
     max-width: 400px;
     padding: 30px;
-}
+} */
 .analytic_sect {
     text-align: center;
 }
@@ -61,7 +61,7 @@ p.sub_heds {
     width: 33.33%;
     background: #FFFFFF;
     max-width: 400px;
-    padding: 30px 30px 50px 30px;
+    padding: 30px 30px 30px 30px;
 }
 .analytics_row .col:hover {
     box-shadow: 0 10px 20px 0 rgb(0 0 0 / 10%);

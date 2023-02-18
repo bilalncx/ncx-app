@@ -223,7 +223,7 @@ export default function Header() {
                     }>
                     <ul>
                       <li>
-                        <a href="#">Buy crypto</a>
+                        <a href="#">Buy Crypto</a>
                       </li>
                       <li>
                         <a href="https://trade.ncx.cx">Spot Trading</a>

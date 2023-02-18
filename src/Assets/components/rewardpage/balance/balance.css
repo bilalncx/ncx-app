@@ -87,6 +87,10 @@ p.complete-tsks {
     margin: 0 auto;
     margin-top: 30px;
 }
+.ncx-balance .container a.earn-toget:hover{
+    background: #f6fafd;
+    color: #000;
+}
 .ncx-balance .container a.earn-toget:focus, .ncx-balance .container a.earn-toget:focus-visible{
     outline: none !important;
     text-decoration: none;
