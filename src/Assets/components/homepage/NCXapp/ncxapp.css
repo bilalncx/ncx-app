@@ -16,7 +16,7 @@
     background-size: 100% 100%; */
     padding: 120px 0px 120px 200px;
     flex: inherit;
-    max-width: 440px;
+    display: grid;
 }
 .ncxapp-section .row .col:last-child{
     width: 60%;
@@ -77,6 +77,10 @@
     position: relative;
     width: 43%;
     padding-right: 200px;
+}
+.apps_barcod {
+    width: 50%;
+    margin: 0 auto;
 }
 .apptexts h1 {
     font-size: 16px;
