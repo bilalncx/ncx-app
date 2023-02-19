@@ -1,0 +1,149 @@
+.ncxapp-section {
+    padding: 100px 0px 20px 0px;
+}
+.ncxapp-section .row{
+    margin: 0px;
+    min-height: 816px;
+}
+.ncxapp-section .row:before, .ncxapp-section .row:after{
+    display: none;
+}
+.ncxapp-section .row .col:first-child{
+    width: 40%;
+    /* background-color: #000000;
+    background: url(../../../images/ncx-faq-mblbg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; */
+    padding: 120px 0px 120px 0px;
+    flex: inherit;
+    display: grid;
+}
+.ncxapp-section .row .col:last-child{
+    width: 60%;
+    padding: 0px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: relative;
+}
+.ncxapp-section .row .col .mobile-photo img{
+    max-width: 320px;
+}
+#powered_by.ncxapp-section .row .col:first-child h1 {
+    font-size: 40px;
+    color: #000000;
+    line-height: 46px;
+    padding-right: 45px;
+}
+#powered_by.ncxapp-section .row .col:first-child p{
+    font-size: 16px;
+    line-height: 24px;
+    padding: 20px 0px;
+    font-family: 'urbanist-light';
+    color: #000000;
+}
+.barcodd {
+    text-align: left;
+    padding-left: 10px;
+}
+.barcodd img {
+    max-width: 110px;
+}
+.barcodd p {
+    font-size: 12px !important;
+    line-height: 16px !important;
+    padding: 0px 0px !important;
+    width: 44% !important;
+    text-align: center;
+}
+.apps-divi {
+    gap: 10px;
+    padding-top: 20px;
+}
+.apps-divi svg {
+    width: 135px;
+    height: auto;
+}
+.ncxapp-section .row .col .mobile-photo{
+    position: relative;
+}
+.ncxapp-section .row .col .mobile-photo img {
+    max-width: 410px;
+    position: relative;
+    left: -190px;
+}
+.app-texts-src {
+    position: relative;
+    width: 43%;
+    padding-left: 20px;
+}
+.apps_barcod {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    min-width: 256px;
+    margin-left: 50px;
+}
+#powered_by .apptexts h1 {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'urbanist-medium';
+    color: #000000;
+}
+#powered_by .apptexts p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'urbanist-light';
+    color: rgba(0,0,0,0.8);
+}
+.apptexts {
+    margin-bottom: 40px;
+    position: relative;
+    text-align: left;
+    /* min-width: 480px; */
+}
+#powered_by .apptexts:before {
+    content: '';
+    position: absolute;
+    width: 70px;
+    height: 2px;
+    background: rgba(0,0,0,0.8);
+    display: block;
+    left: -101px;
+    /* z-index: -1; */
+    top: 12px;
+}
+
+@media screen and (max-width: 800px){
+    .ncxapp-section{
+        display: none;
+    }
+}
+
+
+/* **************************************************************** */
+#powered_by.ncxapp-section {
+    width: 100%;
+    max-height: 850px;
+    text-align: center;
+    background: #ECEBEC;
+    padding: 0px !important;
+    /* margin: 100px 0px !important; */
+    position: relative;
+}
+#ncx_buycrypto_video video {
+    width: 100%;
+    max-height: 850px;
+}
+div#buycrypto_container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100% !important;
+}
+@media screen and (min-width: 1600px){
+    .apptexts{
+        min-width: 480px;
+    }
+}

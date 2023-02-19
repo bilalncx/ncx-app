@@ -32,6 +32,7 @@ import NCXOTCSection from '../components/homepage/NCXOTC/otc';
 import NCXHomeTrends from '../components/homepage/ncxtrends/trends';
 import WhatWeDoSection from '../components/homepage/whatwedo/whatwe';
 import MarketSLider from '../components/homepage/market/flyers';
+import NCXPoweredByCrypto from '../components/homepage/sect_poweredby/powered';
 // import HorizontalWhatWeDo from '../components/homepage/horizontalscrollsection/horizontal';
 
 
@@ -159,7 +160,15 @@ function MainHome()
             
             <NCXCardSlider />
 
+            <NCXPoweredByCrypto />
+
             {/* <NCXDebitCard /> */}
+
+            {/* <HomeNCXToken /> */}
+            
+            <NCXEquities />
+
+            {/* <Home9thDownloadSection /> */}
 
             <div id="footer-faq">
                 <div id="faq" className="faq-sect">
@@ -181,13 +190,7 @@ function MainHome()
                 </div>
             </div>
 
-            {/* <HomeNCXToken /> */}
-            
-            <NCXEquities />
-
-            {/* <Home9thDownloadSection /> */}
-
-            <NCXOTCSection />
+            {/* <NCXOTCSection /> */}
 
             <NCXHomeTrends />
 
