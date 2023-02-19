@@ -14,7 +14,7 @@
     background: url(../../../images/ncx-faq-mblbg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%; */
-    padding: 120px 0px 120px 200px;
+    padding: 120px 0px 120px 0px;
     flex: inherit;
     display: grid;
 }
@@ -33,7 +33,7 @@
     font-size: 40px;
     color: #FFFFFF;
     line-height: 46px;
-    /* max-width: 236px; */
+    padding-right: 45px;
 }
 .ncxapp-section .row .col:first-child p{
     font-size: 16px;
@@ -43,7 +43,8 @@
     color: #FFFFFF;
 }
 .barcodd {
-    text-align: center;
+    text-align: left;
+    padding-left: 10px;
 }
 .barcodd img {
     max-width: 110px;
@@ -51,15 +52,13 @@
 .barcodd p {
     font-size: 12px !important;
     line-height: 16px !important;
-    padding: 0px 60px !important;
-    /* width: 30% !important; */
+    padding: 0px 0px !important;
+    width: 44% !important;
     text-align: center;
 }
 .apps-divi {
-    display: grid;
     gap: 10px;
     padding-top: 20px;
-    justify-content: center;
 }
 .apps-divi svg {
     width: 135px;
@@ -76,11 +75,14 @@
 .app-texts-src {
     position: relative;
     width: 43%;
-    padding-right: 200px;
+    padding-left: 20px;
 }
 .apps_barcod {
     width: 50%;
     margin: 0 auto;
+    text-align: left;
+    min-width: 256px;
+    margin-left: 50px;
 }
 .apptexts h1 {
     font-size: 16px;
@@ -94,20 +96,18 @@
     font-family: 'urbanist-light';
     color: rgba(255,255,255,0.8);
 }
-.mobile-photo {
-    width: 35%;
-}
 .apptexts {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     position: relative;
     text-align: left;
+    /* min-width: 480px; */
 }
 .apptexts:before {
     content: '';
     position: absolute;
     width: 70px;
-    height: 4px;
-    background: #D9D9D9;
+    height: 2px;
+    background: rgba(255,255,255,0.8);
     display: block;
     left: -101px;
     /* z-index: -1; */
@@ -141,5 +141,9 @@ div#buycrypto_container {
     right: 0;
     top: 0;
     width: 100% !important;
-    max-width: inherit !important;
+}
+@media screen and (min-width: 1600px){
+    .apptexts{
+        min-width: 480px;
+    }
 }
