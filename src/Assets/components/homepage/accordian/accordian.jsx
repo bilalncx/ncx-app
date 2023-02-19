@@ -40,17 +40,21 @@ const data = [
         question: 'Do I need to keep my Crypto on NCX?',
         answer: 'NCX strongly believes that the future of Cryptocurrencies  is in Decentralisation, hence users should always keep the custody of their assets. However some advanced tools tools and features, fiat/crypto trading pairs, margin and derivatives trading are only available on Centralised Exchange. Users are advised to only move the assets to the trading account necessary for trading & withdraw to their non-custodial wallets right after and do not store their funds on the trading account. Our DEX does not require assets moved to the platform, just connect your wallet and Swap, Stake, Farm Yield on thousands of tokes across 5 leading blockchains including Binance Smart Chain, Ethereum, Polygon, Fantom and Avalanche',
     },
-    {
-        question: 'Can I Buy/Sell Crypto with Fiat?',
-        answer: 'Yes, this is one of the main features of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency',
-    },
+    // {
+    //     question: 'Can I Buy/Sell Crypto with Fiat?',
+    //     answer: 'Yes, this is one of the main features of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency',
+    // },
     {
         question: 'What are benefits of using NCX vs other Crypto Exchanges?',
         answer: 'NCX is the first all-on-one, Hybrid Platform to combine CEX, DEX and Derivatives Trading of Cryptocurrencies, Stock Market, ETFs, Indexes, Metals, Forex with up to 200x Leverage. Bridging the gap between the DeFi and Centralised Finance, allowing Individuals and Corporate Entities a full spectrum of products, services and applications across Financial Markets, Cryptocurrencies and Decentralised Finance.',
     },
     {
-        question: 'What is NCX Trade? How to start trading with up to 100x Leverage?',
-        answer: 'Yes, this is one of the main features of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency',
+        question: 'What is NCX Trade? How to start trading with up to 200x Leverage?',
+        answer: 
+        <div>
+            <p>Derivatives Trading is available across 500 markets including Crypto Derivatives,  Equities (including US, EU and Asia Stock Markets), ETF’s, Forex, Indices, Metals, Oil and Gas with up to 200x Leverage.</p>
+            <p>Simply Sign Up, complete KYC and start trading in minutes. You can top up your Spot wallet on NCX with crypto and covert to USD on the platform then use the available USD for trading by simply moving the necessary USD to and from your Trading Wallet. NCX Trade is a separate APP available on iOS and Android which is linked to your main NCX Account. For advanced security and in compliance with risk management the trading wallets are kept separate from spot wallets on the platform.</p>
+        </div>,
     },
     // {
     //     question: 'How can I earn NCX Tokens?',
