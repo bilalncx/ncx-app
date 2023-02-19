@@ -282,5 +282,8 @@ button:disabled{
         padding: 50px 0px !important;
         margin-top: -1px !important;
     }
+    #NCXCreditCardSlider.mobile-ss button.buttonBack {
+        transform: rotate(0deg);
+    }
  }
  

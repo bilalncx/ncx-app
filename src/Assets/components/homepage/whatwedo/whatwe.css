@@ -882,4 +882,7 @@ span.mbl-bltshow {
     .mbl-tokrowitems.sd2 .color svg {
         width: 14px;
     }
+    .widerangencxproducts .pro-content .bullets {
+        display: flex;
+    }
 }
