@@ -95,7 +95,7 @@ function MyFooter()
                             <div className="fot-newsleter">
                                 <p>Sign Up for Updates</p>
                                 <form>
-                                    <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required="" type="email" />
+                                    <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required type="email" />
                                     <button><NCXNewsletterarrow /></button>
                                 </form>
                             </div>
@@ -176,7 +176,7 @@ function MyFooter()
                 <div className="fot-newsleter">
                     <p>Sign Up for Updates</p>
                     <form>
-                        <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required="" type="email" value="" />
+                        <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required type="email" value="" />
                         <button><NCXNewsletterarrow /></button>
                     </form>
                 </div>
