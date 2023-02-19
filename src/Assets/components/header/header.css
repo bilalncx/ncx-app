@@ -453,6 +453,10 @@ a.header-more, li.main_title.white_bg:last-child a{
 .login-buttons a{
     margin: 11px 0px;
 }
+#main-header .login-buttons a.signin:hover {
+    background: #000000 !important;
+    border: 1px solid #34A9FF !important;
+}
 
 
 @media screen and (min-width: 801px) and (max-width: 1240px){

@@ -8,6 +8,7 @@ import { ReactComponent as AppleIcon } from '../../../images/apple-icon.svg';
 import { ReactComponent as GooglePlayIcon } from '../../../images/play-icon.svg';
 // import SliderSection from '../whatwedo/whatwe';
 import HomeSlider from './slider-move';
+import BBVideo from './bb_video';
 
 function HomeFirstSection()
 {
@@ -94,7 +95,8 @@ function HomeFirstSection()
             </div>
 
             <div id="homecarouselslides" className="container">
-                <HomeSlider />
+                {/* <HomeSlider /> */}
+                <BBVideo />
             </div>
             
             <div className="currencies-options row">

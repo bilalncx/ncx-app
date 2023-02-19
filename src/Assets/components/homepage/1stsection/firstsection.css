@@ -270,5 +270,30 @@ img.mbl-pic {
         text-align: center !important;
         padding: 0px 15px !important;
     }
+}
 
+
+/* ********************************** */
+.col.hidden_col {
+    display: none !important;
+}
+#homecarouselslides div#powered_by {
+    background: none !important;
+}
+#homecarouselslides #ncx_buycrypto_video video{
+    max-height: 600px !important;
+    object-fit: cover !important;
+}
+#homecarouselslides .ncxapp-section .row .col:first-child {
+    padding: 50px 0px 50px 0px !important;
+}
+#homecarouselslides .ncxapp-section .row .col:first-child h1 {
+    color: #FFFFFF !important;
+    margin-bottom: 10px !important;
+}
+#homecarouselslides #powered_by.ncxapp-section .row .col:first-child p{
+    color: #FFFFFF !important;
+}
+div#homecarouselslides {
+    padding-bottom: 50px !important;
 }

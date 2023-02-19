@@ -10,6 +10,7 @@ import NCXAPISearchBar from '../../../images/ncx-api-searchbar.png';
 import APIAccordian from '../whatwedo/ncxapi-accordian';
 import { Fade } from "react-bootstrap";
 import NCXHomeSliderVideo from '../../../images/ncx-firstslidervideo.mp4';
+// import NCXHomeSliderVideo from '../../../images/ncx-redrock.mp4';
 import './slider-move.css';
 
 function HomeFirstsectionSlider()

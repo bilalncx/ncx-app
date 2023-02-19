@@ -196,7 +196,7 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <div className="color-nine"></div>
-                                <p>20.5M</p>
+                                <p>25M</p>
                             </div>
                         </div>
                     </div>

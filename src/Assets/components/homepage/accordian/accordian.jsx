@@ -38,7 +38,7 @@ function Accordian() {
 const data = [
     {
         question: 'Do I need to keep my Crypto on NCX?',
-        answer: 'NCX strongly believes that the future of Cryptocurrencies  is in Decentralisation, hence users should always keep the custody of their assets. However some tools such us buying and selling cryptocurrency with fiat, advanced trading tools and features, fiat/crypto trading pairs, margin trading and liquidity are only available on Centralised Exchange. Users are advised to only move the assets to the trading account only to use the features & withdraw to their non-custodial wallets right after and do not store their funds on the trading account. Our DEX does not require assets moved to the platform, just connect your wallet and Swap, Stake, Farm Yield on thousands of tokes across 5 leading blockchains including Binance Smart Chain, Ethereum, Solana, Fantom and Polygon',
+        answer: 'NCX strongly believes that the future of Cryptocurrencies  is in Decentralisation, hence users should always keep the custody of their assets. However some advanced tools tools and features, fiat/crypto trading pairs, margin and derivatives trading are only available on Centralised Exchange. Users are advised to only move the assets to the trading account necessary for trading & withdraw to their non-custodial wallets right after and do not store their funds on the trading account. Our DEX does not require assets moved to the platform, just connect your wallet and Swap, Stake, Farm Yield on thousands of tokes across 5 leading blockchains including Binance Smart Chain, Ethereum, Polygon, Fantom and Avalanche',
     },
     {
         question: 'Can I Buy/Sell Crypto with Fiat?',
@@ -46,31 +46,30 @@ const data = [
     },
     {
         question: 'What are benefits of using NCX vs other Crypto Exchanges?',
-        answer: 'NCX is the first Platform to combine DEX, CEX and Leverage Trading of Assets (Crypto, Forex, Stock Market, ETFs, Indexes, Metals with up to 100x Leverage) all on one, advanced Hybrid Platform. Users can simply connect their non-custodial wallet on DEX, top-up their Spot or Trading Wallet and start trading, NCX doe not charge any Deposit or Withdrawal fees hence allowing customers to move their funds freely to their non-custodial wallets such as Metamask, Trust Wallet etc. preserving the safety of their assets.',
+        answer: 'NCX is the first all-on-one, Hybrid Platform to combine CEX, DEX and Derivatives Trading of Cryptocurrencies, Stock Market, ETFs, Indexes, Metals, Forex with up to 200x Leverage. Bridging the gap between the DeFi and Centralised Finance, allowing Individuals and Corporate Entities a full spectrum of products, services and applications across Financial Markets, Cryptocurrencies and Decentralised Finance.',
     },
     {
         question: 'What is NCX Trade? How to start trading with up to 100x Leverage?',
         answer: 'Yes, this is one of the main features of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency',
     },
-    {
-        question: 'How can I earn NCX Tokens?',
-        answer: 'NCX is the first Platform to combine DEX, CEX and Leverage Trading of Assets (Crypto, Forex, Stock Market, ETFs, Indexes, Metals with up to 100x Leverage) all on one, advanced Hybrid Platform. Users can simply connect their non-custodial wallet on DEX, top-up their Spot or Trading Wallet and start trading, NCX doe not charge any Deposit or Withdrawal fees hence allowing customers to move their funds freely to their non-custodial wallets such as Metamask, Trust Wallet etc. preserving the safety of their assets.',
-    },
     // {
-    //     question: 'How can I earn NCXX Tokens?',
-    //     answer: 
-    //     <div>
-    //         <p>NCX is on target to reach 500,000 users by the end of 2023, to achieve our goal we introduced a number of ways to 
-    //             grow and reward NCX community and built a scalable ecosystem. As a part of our marketing campaign:</p>
-    //         <ul className='faq_li'>
-    //             <li>Newly registered users will receive 10,000 NCXX tokens airdrop as a sign-up bonus</li>
-    //             <li>Earn 10,000 NCXX tokens with each new referral with NCX Referral Program, both the referred user and the one referring will receive the 10,000 NCXX tokens airdrop, one as referral another as sign-up bonus </li>
-    //             <li>Stake NCXX on NCX DeFi Staking & Liquidity Pools</li>
-    //             <li>Farm Yield and earn NCXX on NCX DeFi Yield Farms</li>
-    //             <li>Earn rewards in NCXX Tokens by completing task on the platform and reaching trading volumes, receive cash back on trading fees in NCXX</li>
-    //         </ul>
-    //     </div>,
-    // }
+    //     question: 'How can I earn NCX Tokens?',
+    //     answer: 'NCX is the first Platform to combine DEX, CEX and Leverage Trading of Assets (Crypto, Forex, Stock Market, ETFs, Indexes, Metals with up to 100x Leverage) all on one, advanced Hybrid Platform. Users can simply connect their non-custodial wallet on DEX, top-up their Spot or Trading Wallet and start trading, NCX doe not charge any Deposit or Withdrawal fees hence allowing customers to move their funds freely to their non-custodial wallets such as Metamask, Trust Wallet etc. preserving the safety of their assets.',
+    // },
+    {
+        question: 'How can I earn NCXX Tokens?',
+        answer: 
+        <div>
+            <p>NCX is on target to reach 1,000,000 users by the end of 2023, to achieve our goal we’ve introduced a number of initiatives to grow a strong community and ecosystem through NCX Rewards Program:</p>
+            <ul className='faq_li'>
+                <li>Newly registered users will receive 10,000 NCX Tokens airdrop as a sign-up bonus</li>
+                <li>Earn 2,500 NCXT with each new referral with NCX Referral Program, the referred user will receive the 10,000 NCXT SignUp Bonus Airdrop</li>
+                <li>Earn rewards in NCX Tokens by completing tasks and reaching trading volumes, receive cash back on trading fees through NCX Rewards Programme</li>
+                <li>Stake NCXT on NCX DEX and early daily interest</li>
+                <li>Farm Yield and earn NCXT on NCX DEX Yield Farms and Liquidity Pools</li>
+            </ul>
+        </div>,
+    },
 ]
 
 

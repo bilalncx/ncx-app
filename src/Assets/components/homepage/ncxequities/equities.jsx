@@ -707,7 +707,7 @@ function HomeNCXEquitiesSection(){
                         <div className="col empty">
                             <div className="emptyboxtxt">
                                 <p>Community Choice</p>
-                                <h2>Show me the most popular <span>Stocks</span></h2>
+                                <h2>Show me the most popular <span>Currencies</span></h2>
                             </div>
                             <div className="view-all">
                                 <Button href="#">View All</Button>
