@@ -61,7 +61,7 @@ const data = [
     //     answer: 'NCX is the first Platform to combine DEX, CEX and Leverage Trading of Assets (Crypto, Forex, Stock Market, ETFs, Indexes, Metals with up to 100x Leverage) all on one, advanced Hybrid Platform. Users can simply connect their non-custodial wallet on DEX, top-up their Spot or Trading Wallet and start trading, NCX doe not charge any Deposit or Withdrawal fees hence allowing customers to move their funds freely to their non-custodial wallets such as Metamask, Trust Wallet etc. preserving the safety of their assets.',
     // },
     {
-        question: 'How can I earn NCXX Tokens?',
+        question: 'How can I earn NCX Tokens?',
         answer: 
         <div>
             <p>NCX is on target to reach 1,000,000 users by the end of 2023, to achieve our goal we’ve introduced a number of initiatives to grow a strong community and ecosystem through NCX Rewards Program:</p>

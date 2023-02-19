@@ -24,7 +24,7 @@ function NCXHomePageTrendsSection(){
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="ncx-trends">
                                 <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                <p>Trends</p>
+                                <p>Insights</p>
                             </div>
                         </AnimationOnScroll>
                         <AnimationOnScroll animateIn="animate__fadeIn">

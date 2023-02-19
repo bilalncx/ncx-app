@@ -135,6 +135,12 @@ div#buycrypto_container {
     top: 0;
     width: 100% !important;
 }
+.barcodd svg{
+    width: 115px;
+}
+.barcodd svg rect:nth-child(2){
+    fill: transparent;
+}
 @media screen and (min-width: 1600px){
     .apptexts{
         min-width: 480px;
