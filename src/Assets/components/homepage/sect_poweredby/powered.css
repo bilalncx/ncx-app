@@ -147,5 +147,7 @@ div#buycrypto_container {
     }
     #ncx_buycrypto_video video {
         margin-bottom: -5px;
+        min-height: 490px;
+        object-fit: cover;
     }
 }
