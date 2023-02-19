@@ -129,6 +129,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
                         <li><a href="https://ncx.cx/insights">NCX Trends</a></li>
                         <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
+                        <li><a href="https://https://ncx.cx/institutional">Institutional Services</a></li>
                     </ul>
                 </div>
                 <div className="mob-foot-ul">
