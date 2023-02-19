@@ -47,12 +47,12 @@ export default function Header() {
                           <div className="main_service_wrapper">
                             <div className="community_inner">
                               <div className="main_service">
-                                <a href="./task-rewards">Rewards Program</a>
-                                <a href="./blog">News & Insights</a>
-                                <a href="./market-makers">Market Makers</a>
-                                <a href="./institutional">Institutional Services</a>
-                                <a href="./ncx-otc">OTC</a>
-                                <a href="./ncx-ambassador">NCX Ambassador</a>
+                                <a href="https://ncx.cx/task-rewards">Rewards Program</a>
+                                <a href="https://ncx.cx/insights">News & Insights</a>
+                                <a href="https://ncx.cx/market-makers">Market Makers</a>
+                                <a href="https://ncx.cx/institutional">Institutional Services</a>
+                                <a href="https://ncx.cx/ncx-otc">OTC</a>
+                                <a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a>
                               </div>
                             </div>
                             <div className="social_links">
@@ -67,12 +67,12 @@ export default function Header() {
                             <div className="social_links">
                               <div className="social_link_inner">
                                 <a href="#">About Us</a>
-                                <a href="./blog">News & Press</a>
-                                <a href="./user-agreement">User Agreement</a>
-                                <a href="./kyc-aml-policy">AML & KYC Policy</a>
-                                <a href="./privacy-policy">Privacy Policy</a>
-                                <a href="./api-agreement">API Documentation</a>
-                                <a href="./cookie-policy">Cookie Policy</a>
+                                <a href="https://ncx.cx/insights">News & Press</a>
+                                <a href="https://ncx.cx/user-agreement">User Agreement</a>
+                                <a href="https://ncx.cx/kyc-aml-policy">AML & KYC Policy</a>
+                                <a href="https://ncx.cx/privacy-policy">Privacy Policy</a>
+                                <a href="https://ncx.cx/api-agreement">API Documentation</a>
+                                <a href="https://ncx.cx/cookie-policy">Cookie Policy</a>
                               </div>
                             </div>
                           </div>
@@ -103,28 +103,28 @@ export default function Header() {
               </div>
               <ul className="navlink">
                 <li className="main_title white_bg">
-                  <a href="./buy-crypto">Buy Crypto</a>
+                  <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://trade.ncx.cx/">Spot Trading</a>
+                  <a href="#">Spot Trading</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#">Derivatives</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="./market-makers">Markets</a>
+                  <a href="https://ncx.cx/market-makers">Markets</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
+                  <a href="#" target="_blank" rel="noreferrer">DEX</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="./ncx-card">NCX Card</a>
+                  <a href="https://ncx.cx/ncx-card">NCX Card</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#" target="_blank" rel="noreferrer">NCX Token</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="./task-rewards">Rewards</a>
+                  <a href="https://ncx.cx/task-rewards">Rewards</a>
                 </li>
                 {/* <li className="main_title white_bg">
                   <a href="#">More
@@ -176,8 +176,8 @@ export default function Header() {
               </ul>
             </div>
             <div className="login-buttons">
-              <Button href="https://my.ncx.cx/" target="_blank" className="signin">Sign In</Button>
-              <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex">Launch DEX</Button>
+              <Button href="#" target="_blank" className="signin">Sign In</Button>
+              <Button href="#" target="_blank" rel="noreferrer" className="launch-dex">Launch DEX</Button>
               <div className="downloadQRCode">
                 <div id="downloadlink" className="storeicons">
                   <AppleIcon />
@@ -223,37 +223,37 @@ export default function Header() {
                     }>
                     <ul>
                       <li>
-                        <a href="#">Buy Crypto</a>
+                        <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
                       </li>
                       <li>
-                        <a href="https://trade.ncx.cx">Spot Trading</a>
+                        <a href="#">Spot Trading</a>
                       </li>
                       <li>
                         <a href="#">Derivatives</a>
                       </li>
                       <li>
-                        <a href="./market-makers">Markets</a>
+                        <a href="https://ncx.cx/market-makers">Markets</a>
                       </li>
                       <li>
-                        <a href="https://bcx.ncx.cx/" target="_blank" rel="noreferrer">DEX</a>
+                        <a href="#" target="_blank" rel="noreferrer">DEX</a>
                       </li>
                       <li>
-                        <a href="./ncx-card">NCX Card</a>
+                        <a href="https://ncx.cx/ncx-card">NCX Card</a>
                       </li>
                       <li>
                         <a href="#">NCX Token</a>
                       </li>
                       <li>
-                        <a href="./task-rewards">Rewards</a>
+                        <a href="https://ncx.cx/task-rewards">Rewards</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/blog">News & Insights</a>
+                        <a href="https://ncx.cx/insights">News & Insights</a>
                       </li>
                       {/* <li>
                         <a className="btn01 signup launching-btn">Sign Up</a>
                       </li> */}
                       <li>
-                        <a className="signin launching-btn" href="https://my.ncx.cx/" target="_blank" rel="noreferrer">Sign In / Sign Up</a>
+                        <a className="signin launching-btn" href="#" target="_blank" rel="noreferrer">Sign In / Sign Up</a>
                       </li>
                       {/* <li>
                         <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex launching-btn">Launch DEX</a>
@@ -278,8 +278,8 @@ export default function Header() {
               <div class="dropdown">
                 <button class="dropbtn">Launch DEX</button>
                 <div class="dropdown-content">
-                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</a>
-                  <a href="https://my.ncx.cx/" target="_blank" rel="noreferrer">Sign In</a>
+                  <a href="#" target="_blank" rel="noreferrer">Launch DEX</a>
+                  <a href="#" target="_blank" rel="noreferrer">Sign In</a>
                   {/* <a href="#" target="_blank" rel="noreferrer">Sign Up</a> */}
                 </div>
               </div>

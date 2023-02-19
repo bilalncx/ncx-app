@@ -49,16 +49,16 @@ const data = [
         question: 'What are the benefits of using NCX Card?',
         answer: 
         <div className="faq-ans">
-            <p>Yes, this is one of the main features of the platform, the team is working towards accepting fiat deposits and withdrawals across the globe including SWIFT Bank Transfers, P2P, Credit/Debit Cards and multiple Payment Gateways depending on the region and the local currency</p>
-        </div>
-    },
-    {
-        question: 'What are benefits of using NCX vs other Crypto Exchanges?',
-        answer:
-        <div className="faq-ans">
             <p>Apart of many benefits included in the card, the main purpose of the NCX Card is bridging the gap between Crypto and Centralised Finance, allowing the NCX Platform users to use their crypto assets to pay for their everyday purchases without the need to withdraw the funds back to the bank account to make small, everyday payments, saving on fees and processing times as well allowing users the freedom of travel and user their crypto how, when and where they want.</p>
         </div>
     },
+    // {
+    //     question: 'What are benefits of using NCX vs other Crypto Exchanges?',
+    //     answer:
+    //     <div className="faq-ans">
+    //         <p>Apart of many benefits included in the card, the main purpose of the NCX Card is bridging the gap between Crypto and Centralised Finance, allowing the NCX Platform users to use their crypto assets to pay for their everyday purchases without the need to withdraw the funds back to the bank account to make small, everyday payments, saving on fees and processing times as well allowing users the freedom of travel and user their crypto how, when and where they want.</p>
+    //     </div>
+    // },
     {
         question: 'Where can I pay with my NCX Card?',
         answer:

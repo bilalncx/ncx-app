@@ -89,8 +89,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Investment Funds</h2>
-                                    <p> NCX is one of the long-standing presence trading platforms and the most compliant trading platform in the world, has 100% proof of reserves, has partnered with renowned institutional custodian suppliers like Copper.co and BitGo, and invests hundreds of millions of dollars to safeguard users’ funds and investments.</p>
+                                    <h2>Regulatory Compliance</h2>
+                                    <p>NCX extensive compliance program is designed to be on the level with the world’s leading regulatory and industry best practices. Our risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC5 />
@@ -147,8 +147,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Investment Funds</h2>
-                                    <p> NCX is one of the long-standing presence trading platforms and the most compliant trading platform in the world, has 100% proof of reserves, has partnered with renowned institutional custodian suppliers like Copper.co and BitGo, and invests hundreds of millions of dollars to safeguard users’ funds and investments.</p>
+                                    <h2>Regulatory Compliance</h2>
+                                    <p>NCX extensive compliance program is designed to be on the level with the world’s leading regulatory and industry best practices. Our risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC5 />

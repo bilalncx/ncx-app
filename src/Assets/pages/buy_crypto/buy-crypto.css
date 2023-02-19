@@ -8,6 +8,9 @@ img.buy-ss22 {
 #buyCryptoPage .rewardheadrow {
     padding: 0px;
 }
+#buyCryptoPage ul.faq_li li {
+    font-family: 'urbanist-light' !important;
+}
 #mobile-shoss{
     display: none;
 }

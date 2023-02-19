@@ -18,11 +18,11 @@ function MyFooter()
                     <div class="first-column">
                         <h1>Products</h1>
                         <ul className="ul-one">
-                            <li><a href="#">Buy Crypto</a></li>
+                            <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
                             <li><a href="#">Spot Trading</a></li>
-                            <li><a href="#">Markets</a></li>
+                            <li><a href="https://ncx.cx/market-makers">Markets</a></li>
                             <li><a href="#">DEX</a></li>
-                            <li><a href="#">NCX Card</a></li>
+                            <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
                             <li><a href="#">NCX Token</a></li>
                         </ul>
                         <h1>Derivatives Trading</h1>
@@ -39,17 +39,17 @@ function MyFooter()
                     <div class="second-column">
                         <h1>Services</h1>
                         <ul className="ul-one">
-                            <li><a href="#">Referral Program</a></li>
-                            <li><a href="#">Market Makers</a></li>
-                            <li><a href="#">Institutional Services</a></li>
-                            <li><a href="#">OTC</a></li>
-                            <li><a href="#">NCX Trends</a></li>
-                            <li><a href="#">NCX Ambassador</a></li>
+                            <li><a href="https://ncx.cx/task-rewards">Referral Program</a></li>
+                            <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
+                            <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
+                            <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
+                            <li><a href="https://ncx.cx/insights">NCX Trends</a></li>
+                            <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
                         </ul>
                         <h1>Company</h1>
                         <ul className="ul-two">
                             <li><a href="#">About Us</a></li>
-                            <li><a href="#">Media & Press</a></li>
+                            <li><a href="https://ncx.cx/insights">Media & Press</a></li>
                             <li><a href="#">FAQ</a></li>
                             <li><a href="#">Support</a></li>
                         </ul>
@@ -87,7 +87,7 @@ function MyFooter()
                             <div class="social-media">
                                 <p>Follow us</p>
                                 <div className="social-icons">
-                                    <div class="icons"><a href="https://ncx.cx"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
+                                    <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                                     <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                                     <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
                                 </div>
@@ -116,19 +116,19 @@ function MyFooter()
                 <div className="mob-foot-ul">
                     <ul>
                         <h1>Products</h1>
-                        <li><a href="#">Buy Crypto</a></li>
+                        <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
                         <li><a href="#">Spot Trading</a></li>
-                        <li><a href="#">Markets</a></li>
-                        <li><a href="#">NCX Card</a></li>
+                        <li><a href="https://ncx.cx/market-makers">Markets</a></li>
+                        <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
                         <li><a href="#">NCX Token</a></li>
                     </ul>
                     <ul>
                         <h1>Services</h1>
-                        <li><a href="#">Referral Program</a></li>
-                        <li><a href="#">Market Makers</a></li>
-                        <li><a href="#">OTC</a></li>
-                        <li><a href="#">NCX Trends</a></li>
-                        <li><a href="#">NCX Ambassador</a></li>
+                        <li><a href="https://ncx.cx/task-rewards">Referral Program</a></li>
+                        <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
+                        <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
+                        <li><a href="https://ncx.cx/insights">NCX Trends</a></li>
+                        <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
                     </ul>
                 </div>
                 <div className="mob-foot-ul">
@@ -145,7 +145,7 @@ function MyFooter()
                     <ul>
                         <h1>Company</h1>
                         <li><a href="#">About Us</a></li>
-                        <li><a href="#">Media & Press</a></li>
+                        <li><a href="https://ncx.cx/insights">Media & Press</a></li>
                         <li><a href="#">FAQ</a></li>
                         <li><a href="#">Support</a></li>
                     </ul>
@@ -153,13 +153,11 @@ function MyFooter()
                 <div className="mob-foot-ul">
                     <ul>
                         <h1>Legal</h1>
-                        <li><a href="#">User Agreement</a></li>
-                        <li><a href="#">AML and KYC Policy</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">API Documentation</a></li>
-                        <li><a href="#">Cookie Policy</a></li>
-                        <li><a href="#">Indices Trading</a></li>
-                        <li><a href="#">Oil & Gas Trading</a></li>
+                        <li><a href="https://ncx.cx/user-agreement">User Agreement</a></li>
+                        <li><a href="https://ncx.cx/kyc-aml-policy">AML and KYC Policy</a></li>
+                        <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="https://ncx.cx/api-agreement">API Documentation</a></li>
+                        <li><a href="https://ncx.cx/cookie-policy">Cookie Policy</a></li>
                     </ul>
                     <ul>
                         <h1>Apps</h1>
@@ -170,7 +168,7 @@ function MyFooter()
                 <div class="social-media">
                     <p>Follow us</p>
                     <div className="social-icons">
-                        <div class="icons"><a href="https://ncx.cx"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
+                        <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                         <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                         <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
                     </div>

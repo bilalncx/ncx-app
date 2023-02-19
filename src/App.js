@@ -24,7 +24,7 @@ const App = () => {
       <BrowserRouter>
         <Routes>
           <Route path='/' exact element={<Home />} />
-          <Route path='/blog' element={<Press />}/>
+          <Route path='/insights' element={<Press />}/>
           <Route path='/blog/:id' element={<Blog />} />
           <Route path='/privacy-policy' element={<PrivacyPolicy />}/>
           <Route path='/kyc-aml-policy' element={<KYCAMLPolicy />}/>

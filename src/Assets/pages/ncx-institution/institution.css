@@ -204,6 +204,6 @@ p.insta-head {
         line-height: 32px;
     }
     #ncx_institution .ncx-blacklogo, #ncx_institution .ncx-whitelogo{
-        width: 105px;
+        width: 105px !important;
     }
 }

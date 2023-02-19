@@ -33,7 +33,7 @@ function NCXHomePageTrendsSection(){
                     </div>
                     <div className="col view-all">
                         <AnimationOnScroll animateIn="animate__fadeIn">
-                            <Button href="#">View All</Button>
+                            <Button href="https://ncx.cx/insights">View All</Button>
                         </AnimationOnScroll>
                     </div>
                 </div>

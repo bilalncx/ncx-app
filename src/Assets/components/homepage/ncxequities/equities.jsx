@@ -538,7 +538,7 @@ function HomeNCXEquitiesSection(){
                             </div>
                         </AnimationOnScroll>
                         <AnimationOnScroll animateIn="animate__fadeIn">
-                            <p className="equity-text">Trade world markets with NCX superior execution</p>
+                            <p className="equity-text">Trade world currencies with NCX superior execution</p>
                         </AnimationOnScroll>
                     </div>
                     <div className="col view-all">

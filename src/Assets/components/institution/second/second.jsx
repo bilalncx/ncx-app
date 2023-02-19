@@ -71,7 +71,7 @@ function NCXhomepageOTCSection(){
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
                                     <h2>OTC and Execution Services</h2>
-                                    <p>NCX offers private and personalized services to institutions and high net-worth individuals to access deeper liquidity to fill large orders.</p>
+                                    <p>NCX offers private and personalized services to institutions and corporate entities to access deeper liquidity to fill large orders.</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC3 />
@@ -87,7 +87,7 @@ function NCXhomepageOTCSection(){
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
                                     <h2>Custody and Assets Management</h2>
-                                    <p>NCX offers digital asset custody and asset management service for institutions to store and manage their digital assets on a licensed and regulated platform.</p>
+                                    <p>NCX offers digital asset custody and asset management service for institutions to store and manage their digital assets on a professional platform.</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC2 />
@@ -165,7 +165,7 @@ function NCXhomepageOTCSection(){
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
                                     <h2>OTC and Execution Services</h2>
-                                    <p>NCX offers private and personalized services to institutions and high net-worth individuals to access deeper liquidity to fill large orders.</p>
+                                    <p>NCX offers private and personalized services to institutions and corporate entities to access deeper liquidity to fill large orders.</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC3 />
@@ -183,7 +183,7 @@ function NCXhomepageOTCSection(){
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
                                     <h2>Custody and Assets Management</h2>
-                                    <p>NCX offers digital asset custody and asset management service for institutions to store and manage their digital assets on a licensed and regulated platform.</p>
+                                    <p>NCX offers digital asset custody and asset management service for institutions to store and manage their digital assets on a professional platform.</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC2 />

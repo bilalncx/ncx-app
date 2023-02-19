@@ -20,7 +20,7 @@ $(document).ready(function(){
 
 
 $(document).ready(function() {
-    if (window.location.href.indexOf("blog") > -1) {
+    if (window.location.href.indexOf("insights") > -1) {
       // alert("your url contains the name franky");
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("privacy-policy") > -1) {

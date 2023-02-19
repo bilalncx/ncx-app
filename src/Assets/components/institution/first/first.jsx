@@ -23,7 +23,7 @@ function FirstVideo()
                             <Icon />
                             <h1>Institutional Services</h1>
                             <div className="txt44">
-                                <p>Professional digital asset solutions for institutional clients by the world's leading cryptocurrency exchange</p>
+                                <p>Professional digital asset solutions for Institutional and Corporate Clients</p>
                             </div>
                         </div>
                     </div>

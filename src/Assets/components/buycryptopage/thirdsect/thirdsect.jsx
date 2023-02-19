@@ -37,24 +37,32 @@ function Accordian() {
 
 const data = [
     {
-        question: 'How long will it take to buy crypto?',
+        question: 'Which Cards are accepted?',
         answer: 
         <div className="faq-ans">
-            <p>With Instant Buy/Sell, your order goes through in a few seconds. We're reliable like that!</p>
+            <p>Most credit and debit cards issued by VISA and MasterCard as well some virtual and prepaid cards.</p>
+            <p>Before making a payment, please check the following: </p>
+            <ul className='faq_li'>
+                <li>Your card is eligible for international transactions</li>
+                <li>You are enrolled in the 3DSecure program</li>
+                <li>You have enough money in your account to complete the transaction</li>
+                <li>Also, please note that some banks may require additional authorization for cryptocurrency purchases. It would be best to clarify this with them before making the payment.</li>
+            </ul>
+            <p>Please note that, currently, cards issued by American Express or Discover are not accepted.</p>
         </div>
     },
     {
-        question: 'Are my funds safe?',
+        question: 'How long does it take to complete a transaction?',
         answer: 
         <div className="faq-ans">
-            <p>Yes, they are. All funds are secured with top-notch encryption and wallet storage.</p>
+            <p>Usually, payments are processed within the hour; however, some cases require more attention and can take up to 24 hours to be approved. You will receive an email once your payment has been reviewed. If your transaction is still pending, it might be because you have yet to submit a verification request. In such cases, an email is sent asking for proof of identity or card ownership – which can land in your spam folder. In case of delays, please check your spam folder for a verification email. In some cases, your transaction may be canceled due to price volatility. All prices are locked at the time of purchase, but if the price changes +/- 2.5% of the locked-in rate, the transaction will be canceled.</p>
         </div>
     },
     {
-        question: 'Can I use my local currency to buy crypto?',
+        question: 'Can I use my local currency to buy Crypto?',
         answer:
         <div className="faq-ans">
-            <p>Yes you can use your local currency to buy crypto. For example, if you are in Nigeria, you can use Naira [NGN] to buy bitcoin or any cryptocurrency.</p>
+            <p>Yes, you can use your local currency, you can choose between 95 Currencies that are currently accepted, if your currency is not listed please choose USD as payment option.</p>
         </div>
     },
 ]
