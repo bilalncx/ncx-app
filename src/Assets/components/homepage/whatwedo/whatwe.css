@@ -45,6 +45,7 @@ button.pro-tabs.active {
 }
 .deri-row {
     background: #F7F9FB;
+    background-color: #F7F9FB;
     padding: 40px 50px 40px 50px;
     display: flex;
     max-width: 1261px;
@@ -142,7 +143,8 @@ a.get-app:hover{
     text-decoration: none !important;
 }
 .crypto-trade{
-    background: url(../../../images/ncx-crpyot-trading-bg.png);
+    background: url(../../../images/ncx-api-bg.jpg);
+    background-color: #ADB9D1;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 50px 50px 50px 70px;
@@ -261,7 +263,8 @@ p.dexp2 {
     text-align: left;
 }
 .ncx-card-trade{
-    background: url(../../../images/ncx-card-traebg.png);
+    background: url(../../../images/ncx-card-traebg.jpg);
+    background-color: #B5C0D6;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 50px 50px 50px 70px;
@@ -353,7 +356,8 @@ p.deriv-p.crypttradep2 {
     right: -30px;
 }
 .ncx-apisect{
-    background: url(../../../images/ncx-api-bg.png);
+    background: url(../../../images/ncx-api-bg.jpg);
+    background-color: #ACBAD2;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 60px 50px 50px 50px;
@@ -376,10 +380,12 @@ p.deriv-p.crypttradep2 {
 .api-monitoring{
     max-width: 350px;
     height: 400px;
-    background: url(../../../images/ncx-api-img.png);
+    background: url(../../../images/ncx-api-img.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     padding: 30px 20px;
+    border-radius: 15px;
+    background-position: center;
 }
 .api-monitoring h3 {
     font-size: 24px;
@@ -389,10 +395,10 @@ p.deriv-p.crypttradep2 {
     margin-bottom: 15px;
 }
 .api-monitoring p {
-    font-size: 22px;
+    font-size: 16px;
     font-family: 'urbanist-medium';
     color: #FFFFFF;
-    line-height: 25px;
+    line-height: 23px;
 }
 .col.apiproduct-img {
     display: flex;
@@ -498,7 +504,8 @@ span.apisvg {
     border-color: #34A9FF !important;
 }
 .TradeNCXToken{
-    background: url(../../../images/ncx-api-bg.png);
+    background: url(../../../images/ncx-api-bg.jpg);
+    background-color: #acbad2;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 60px 50px 50px 50px;
