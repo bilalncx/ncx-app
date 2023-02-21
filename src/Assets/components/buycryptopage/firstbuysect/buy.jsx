@@ -71,7 +71,8 @@ function BuyCrypto()
                                     muted={true}
                                     loop={true}
                                     playsInline={true}
-                                    // poster={"../src/assets/images/roadmap-bg.png"}
+                                    preload="none"
+                                    poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
                                     <source src={BuyCrypotVideo} type="video/mp4" />
                                 </video>

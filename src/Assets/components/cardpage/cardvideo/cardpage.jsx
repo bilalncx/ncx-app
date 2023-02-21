@@ -16,6 +16,8 @@ function CardfirstSection()
                         muted={true}
                         loop={true}
                         playsInline={true}
+                        preload="none"
+                        poster="https://ncx.cx/images/ncx_card_poster.png"
                         >
                         <source src={NCXHomeSliderVideo} type="video/mp4" />
                     </video>

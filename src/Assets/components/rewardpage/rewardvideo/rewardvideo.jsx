@@ -45,6 +45,8 @@ function Home6thVideoSection(){
                         muted={true}
                         loop={true}
                         playsInline={true}
+                        preload="none"
+                        poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                         // poster={"../src/assets/images/roadmap-bg.png"}
                         >
                         <source src={require('../../../images/ncx-mainvideo.mp4')} type="video/mp4" />

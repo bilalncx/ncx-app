@@ -16,6 +16,8 @@ function NCXAPPSection()
                         muted={true}
                         loop={true}
                         playsInline={true}
+                        preload="none"
+                        poster="https://ncx.cx/images/ncx_redrok_poster.png"
                         >
                         <source src={BuyCryptoVideo} type="video/mp4" />
                     </video>
