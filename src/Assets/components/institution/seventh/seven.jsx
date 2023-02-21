@@ -29,7 +29,7 @@ function NCXAssetManagement()
                     muted={true}
                     loop={true}
                     playsInline={true}
-                    preload="none"
+                    preload="auto"
                     poster="https://ncx.cx/images/ncx_line_poster.png"
                     >
                     <source src={BackVideo} type="video/mp4" />

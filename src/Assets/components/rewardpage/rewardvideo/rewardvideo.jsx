@@ -45,7 +45,7 @@ function Home6thVideoSection(){
                         muted={true}
                         loop={true}
                         playsInline={true}
-                        preload="none"
+                        preload="autp"
                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                         // poster={"../src/assets/images/roadmap-bg.png"}
                         >

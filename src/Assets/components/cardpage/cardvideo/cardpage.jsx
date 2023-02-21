@@ -3,6 +3,7 @@ import './cardpage.css';
 import NCXHomeSliderVideo from '../../../images/ncx_card_bgvideo.mp4';
 import NCXCardTrade from '../../../images/ncx-card-trade.png';
 import GradientSect from '../cardgradient/gradcard';
+import MobileVideo from '../../../images/ncx_poweredby.mp4';
 
 function CardfirstSection()
 {
@@ -16,7 +17,7 @@ function CardfirstSection()
                         muted={true}
                         loop={true}
                         playsInline={true}
-                        preload="none"
+                        preload="auto"
                         poster="https://ncx.cx/images/ncx_card_poster.png"
                         >
                         <source src={NCXHomeSliderVideo} type="video/mp4" />
@@ -83,8 +84,10 @@ function CardfirstSection()
                                             muted={true}
                                             loop={true}
                                             playsInline={true}
+                                            preload="auto"
+                                            poster="https://ncx.cx/images/ncx_poweredby_poster.png"
                                             >
-                                            <source src={NCXHomeSliderVideo} type="video/mp4" />
+                                            <source src={MobileVideo} type="video/mp4" />
                                         </video>
                                     </div>
                                 </div>

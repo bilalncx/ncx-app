@@ -17,7 +17,7 @@ function NCXAPPSection()
                         muted={true}
                         loop={true}
                         playsInline={true}
-                        preload="none"
+                        preload="auto"
                         poster="https://ncx.cx/images/ncx_poweredby_poster.png"
                         >
                         <source src={BuyCryptoVideo} type="video/mp4" />

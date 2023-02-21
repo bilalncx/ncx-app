@@ -53,7 +53,7 @@ function Home6thVideoSection(){
                         muted={true}
                         loop={true}
                         playsInline={true}
-                        preload="none"
+                        preload="auto"
                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                         >
                         <source src={require('../../../images/ncx-mainvideo.mp4')} type="video/mp4" />
