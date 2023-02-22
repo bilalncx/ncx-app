@@ -233,6 +233,7 @@ img.mbl-pic {
     }
     #hero-video{
         max-width: 300px;
+        border-radius: 50px;
     }
     .currencies-options.row {
         padding: 0px 20px;

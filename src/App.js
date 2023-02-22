@@ -17,6 +17,8 @@ import NCXOTC from './Assets/pages/ncxotcpage/otc';
 import NCXAmbassador from './Assets/pages/ncx-ambassador/ambassador';
 import NCXMarketMaker from './Assets/pages/ncx-marketmakers/marketmaker';
 import NCXInstitution from './Assets/pages/ncx-institution/institution';
+import PageNotFound from './Assets/components/404page/404';
+import MarketPage from './Assets/pages/market/marketpage';
 
 const App = () => {
   return (
@@ -38,6 +40,8 @@ const App = () => {
           <Route path='/ncx-ambassador' element={<NCXAmbassador />} />
           <Route path='/market-makers' element={<NCXMarketMaker />} />
           <Route path='/institutional' element={<NCXInstitution />} />
+          <Route path='*' element={<PageNotFound />}/>
+          <Route path='/market' element={<MarketPage />} />
         </Routes>
       </BrowserRouter>
     </div>

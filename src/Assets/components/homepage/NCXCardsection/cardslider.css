@@ -208,6 +208,9 @@ a.card-learnmore:after {
 button:disabled{
     display: none;
 }
+#NCXCreditCardSlider .horizontalSlider___281Ls{
+    overflow: unset !important;
+}
 
 
 #NCXCreditCardSlider.mobile-ss{

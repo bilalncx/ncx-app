@@ -1,0 +1,225 @@
+.popular_content{
+    display: none;
+}
+.popular_content.active{
+    display: block;
+}
+#popuplar_marketsSlider .carousel__slider-tray {
+    display: flex;
+    padding: 40px 0px;
+}
+.coin_log0 img {
+    width: 45px;
+    height: auto;
+}
+.popular_coin {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    margin-bottom: 10px;
+    min-height: 81px;
+}
+.coin_price h1 {
+    font-size: 26px;
+    line-height: 26px;
+    font-family: 'urbanist-semibold';
+    margin-bottom: 5px;
+}
+.coin_price p {
+    font-size: 18px;
+    font-family: 'urbanist-light';
+    line-height: 24px;
+}
+.pop_coindiv {
+    background: #FFFFFF;
+    box-shadow: 0 16px 100px #e4ecff;
+    height: 230px;
+    padding: 24px;
+    border-radius: 16px;
+}
+.coin_changing{
+    margin-bottom: 10px;
+}
+.coin_changing p{
+    color: #de4242;
+    font-size: 26px;
+    line-height: 24px;
+    font-family: 'urbanist-semibold';
+}
+.coin_changing p span {
+    display: block;
+    color: #000000;
+    font-size: 22px;
+    font-family: 'urbanist-regular';
+    padding-top: 5px;
+}
+.pop_coindiv a {
+    padding: 4px 25px;
+    font-size: 12px;
+    font-family: 'urbanist-regular';
+    border: 1px solid #b8c9ff;
+    border-radius: 25px;
+    color: #000000;
+    text-transform: capitalize;
+    line-height: 18px;
+}
+div#popuplar_marketsSlider {
+    position: relative;
+}
+button.goback {
+    position: absolute;
+    left: 50px;
+    border: 2px solid #925bca;
+    padding: 19px 22.5px;
+    border-radius: 50%;
+    background: no-repeat;
+    top: 140px;
+    box-shadow: 0 16px 100px #e4ecff;
+    background: #FFFFFF;
+}
+button.gonext {
+    position: absolute;
+    right: 50px;
+    border: 2px solid #925bca;
+    padding: 19px 22.5px;
+    border-radius: 50%;
+    background: no-repeat;
+    top: 140px;
+    box-shadow: 0 16px 100px #e4ecff;
+    background: #FFFFFF;
+}
+button.goback svg{
+    transform: rotate(-180deg);
+}
+button.goback svg path, button.gonext svg path{
+    fill: #925bca;   
+}
+.popular_market-btn {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+button.popular_market {
+    border: none;
+    font-size: 22px;
+    background: none;
+    padding: 0px;
+    font-family: 'urbanist-medium';
+    margin-right: 40px;
+    color: #000000;
+}
+button.popular_market.active{
+    color: #34A9FF;
+}
+.market_sess .market-table{
+    box-shadow: none;
+}
+.page_heading{
+    font-size: 44px;
+    line-height: 50px;
+    font-family: 'urbanist-regular';
+    color: #000000;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+#cryptomarket_page .market_header {
+    padding: 50px 0px 20px 0px;
+    background: #F1F5FD;
+}
+.market_sess {
+    padding: 0px 0px 100px 0px;
+}
+.slideInner___2mfX9{
+    position: unset !important;
+    top: unset !important;
+    left: unset !important;
+    width: unset !important;
+    height: unset !important;
+}
+.market_header .carousel__slide {
+    max-width: 264px;
+    padding: 0px !important;
+    min-width: 264px;
+    margin: 24px 12px;
+}
+.market_sess div#marketslider {
+    padding-top: 50px;
+}
+
+
+/* ************************ Market Modal CSS **************************************** */
+#modaL_slider .carousel__slide {
+    padding: 0px !important;
+    min-height: 80px;
+}
+.btn_ro {
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+}
+.market_modal {
+    border-top: 1px solid #925bca;
+    border-bottom: 1px solid #925bca;
+    max-height: 56px;
+    background: rgb(241, 240, 251);
+}
+#modaL_slider{
+    position: relative;
+    max-width: 1300px;
+    margin: 0 auto;
+    max-height: 56px;
+}
+button.forwards {
+    border: none;
+    background: none;
+    position: absolute;
+    top: 18px;
+    left: 0px;
+}
+button.forwards svg{
+    width: 11px;
+    height: auto;
+    position: relative;
+    display: block;
+    transform: rotate(-180deg);
+}
+button.forwards svg path, button.reverses svg path{
+    fill: #2c2236;
+}
+button.reverses{
+    border: none;
+    background: none;
+    position: absolute;
+    top: 18px;
+    right: 0px;
+}
+button.reverses svg{
+    width: 11px;
+    height: auto;
+    position: relative;
+    display: block;
+}
+.earing_modal {
+    padding-top: 10px;
+}
+.btn_ro a{
+    padding: 7px 25px;
+    margin-left: 10px;
+    background-color: transparent !important;
+    border: 1px solid #925bca;
+    border-radius: 50px;
+    color: #925bca;
+    font-size: 14px;
+    line-height: 18px;
+    min-height: 35px;
+    font-family: 'urbanist-semibold';
+}
+.btn_ro a:hover{
+    text-decoration: none;
+}
+.btn_ro p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 8px;
+    font-family: 'urbanist-medium';
+    color: #2c2236;
+}
