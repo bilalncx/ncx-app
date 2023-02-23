@@ -73,7 +73,7 @@ div#question_tabs {
     font-size: 16px;
     font-family: 'urbanist-regular';
 }
-.search_bar .cmyNjn .wrapper .sc-gswNZR.hCpHso {
+.search_bar .wrapper ul {
     background: #FFFFFF;
     box-shadow: 0px 29px 44px -33px rgb(0 0 0 / 37%) !important;
     border: 1px solid #e2e8f0;
@@ -81,10 +81,10 @@ div#question_tabs {
     border-radius: 15px;
     padding-top: 10px;
 }
-.search_bar .cmyNjn .wrapper .sc-gswNZR.hCpHso .line{
+.search_bar .wrapper .line{
     display: none;
 }
-.search_bar .cmyNjn .wrapper .sc-gswNZR.hCpHso li {
+.search_bar .wrapper ul li {
     padding: 15px 10px;
     cursor: pointer;
 }
@@ -179,17 +179,17 @@ div#question_tabs {
     .search_bar{
         margin: 0px 20px;
     }
-    .search_bar .cmyNjn, .search_bar .cmyNjn .wrapper .fDbOPw{
-        min-height: 66px;
-    }
     .search_bar .cmyNjn .wrapper .fDbOPw svg{
         width: 24px !important;
         height: auto !important;
     }
-    .search_bar .cmyNjn .wrapper input::placeholder, .search_bar .cmyNjn .wrapper input{
+    .search_bar .wrapper input::placeholder, .search_bar .wrapper input{
         font-size: 16px;
         line-height: 24px;
         font-family: 'urbanist-regular' !important;
+    }
+    .search_bar .wrapper ul{
+        margin-top: 10px;
     }
     .search_bar .cmyNjn .wrapper .sc-gswNZR.hCpHso li{
         padding: 10px 0px;
