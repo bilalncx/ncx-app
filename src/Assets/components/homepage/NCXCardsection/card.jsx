@@ -52,7 +52,7 @@ function HomepageCardSection()
                                     <div><p>ATM Withdrawals<span>$2,500 Monthly</span></p></div>
                                     <div><p>Free Premium Metal Card</p></div>
                                     <div><p>24/7 Support</p></div>
-                                    <a href="https://ncx.cx/" className='card-learnmore'>
+                                    <a href="https://ncx.cx/ncx-card" className='card-learnmore'>
                                         Learn More
                                     </a>
                                 </div>
@@ -69,7 +69,7 @@ function HomepageCardSection()
                                     <div><p>ATM Withdrawals<span>$5,000 Monthly</span></p></div>
                                     <div><p>Trading Fee Discount<span>10%</span></p></div>
                                     <div><p>Free Wire Transfer</p></div>
-                                    <a href="https://ncx.cx/" className='card-learnmore'>
+                                    <a href="https://ncx.cx/ncx-card" className='card-learnmore'>
                                         Learn More
                                     </a>
                                 </div>
@@ -86,7 +86,7 @@ function HomepageCardSection()
                                     <div><p>ATM Withdrawals<span>$10,000 Monthly</span></p></div>
                                     <div><p>Trading Fee Discount<span>15%</span></p></div>
                                     <div><p>Free Premium Metal Card</p></div>
-                                    <a href="https://ncx.cx/" className='card-learnmore'>
+                                    <a href="https://ncx.cx/ncx-card" className='card-learnmore'>
                                         Learn More
                                     </a>
                                 </div>
@@ -103,7 +103,7 @@ function HomepageCardSection()
                                     <div><p>ATM Withdrawals<span>$15,000 Monthly</span></p></div>
                                     <div><p>Trading Fee Discount<span>20%</span></p></div>
                                     <div><p>Free<span>Spotify</span> Subscription</p></div>
-                                    <a href="https://ncx.cx/" className='card-learnmore'>
+                                    <a href="https://ncx.cx/ncx-card" className='card-learnmore'>
                                         Learn More
                                     </a>
                                 </div>

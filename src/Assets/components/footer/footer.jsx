@@ -6,6 +6,8 @@ import Twitter from '../footer/twitter.svg';
 import Instagram from '../../images/instagram.svg';
 import { ReactComponent as NCXGoogle } from '../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../images/ncxappstore.svg';
+import MBLNCXGoogle from '../../images/ncx_mbl_playstore.png';
+import MBLNCXAppStore from '../../images/ncx_mbl_appstore.png';
 import NCXBarcode from '../../images/ncx-barcode.png';
 import { ReactComponent as NCXNewsletterarrow } from '../../images/ncx-newsletterarrow.svg';
 
@@ -177,15 +179,15 @@ function MyFooter()
                 <div className="fot-newsleter">
                     <p>Sign Up for Updates</p>
                     <form>
-                        <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required type="email" value="" />
+                        <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required type="email" />
                         <button><NCXNewsletterarrow /></button>
                     </form>
                 </div>
                 <div className="app-barcode-row">
                     <div className="appsttore">
                         <p>Mobile App</p>
-                        <NCXGoogle />
-                        <NCXApple />
+                        <img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" />
+                        <img src={MBLNCXAppStore} alt="ncx-app-on-appstore" />
                     </div>
                     <div className="bardcodd">
                         < img src={NCXBarcode} alt="NCX Barcode to Download App" />
