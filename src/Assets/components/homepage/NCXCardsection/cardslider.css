@@ -250,7 +250,8 @@ button:disabled{
         margin: 0px 30px !important;
     }
     #NCXCreditCardSlider.mobile-ss img.cardimg01{
-        max-width: 270px !important;
+        max-width: 330px !important;
+        padding: 50px 30px !important;
     }
     #NCXCreditCardSlider.mobile-ss .buttonBack, #NCXCreditCardSlider.mobile-ss .buttonNext{
         display: block !important;
