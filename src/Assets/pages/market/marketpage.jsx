@@ -5,7 +5,7 @@ import MyFooter from '../../components/footer/footer';
 import OldMarketSection from '../../components/homepage/3rdmarketsection/market';
 import Flyers from '../../components/homepage/market/flyers';
 import PopularMarkets from "../../components/our_markets/popular_markets";
-import ModalMarketPage from "./modal";
+import ModalMarketPage from "../../components/our_markets/modal";
 
 function CryptoMarketPage()
 {

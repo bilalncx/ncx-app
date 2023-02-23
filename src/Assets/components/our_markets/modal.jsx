@@ -14,7 +14,7 @@ function ModalMarketPage()
                 // naturalSlideWidth={264}
                 // naturalSlideHeight={300}
                 isPlaying={true}
-                interval={1200}
+                interval={4000}
                 orientation="horizontal"
                 infinite
                 loop
