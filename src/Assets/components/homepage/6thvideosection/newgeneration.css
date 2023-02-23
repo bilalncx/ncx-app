@@ -122,7 +122,8 @@ h2.secondtask{
 
 @media screen and (max-width: 800px) {
     #ncx-main-video-mobile{
-        display: block;
+        display: block !important;
+        width: 100% !important;
     }
     #ncx-main-video{
         display: none;
