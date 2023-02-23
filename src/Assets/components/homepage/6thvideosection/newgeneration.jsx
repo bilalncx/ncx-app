@@ -58,6 +58,17 @@ function Home6thVideoSection(){
                         >
                         <source src={require('../../../images/ncx-mainvideo.mp4')} type="video/mp4" />
                     </video>
+                    <video 
+                        id='ncx-main-video-mobile'
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
+                        >
+                        <source src={require('../../../images/ncx_mainvideo_mbl.mp4')} type="video/mp4" />
+                    </video>
                 </div>
             </div>
         </div>
