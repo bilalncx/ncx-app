@@ -54,6 +54,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("market") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("support") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }

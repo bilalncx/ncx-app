@@ -19,6 +19,7 @@ import NCXMarketMaker from './Assets/pages/ncx-marketmakers/marketmaker';
 import NCXInstitution from './Assets/pages/ncx-institution/institution';
 import PageNotFound from './Assets/components/404page/404';
 import MarketPage from './Assets/pages/market/marketpage';
+import SupportPage from './Assets/pages/support/support';
 
 const App = () => {
   return (
@@ -42,6 +43,7 @@ const App = () => {
           <Route path='/institutional' element={<NCXInstitution />} />
           <Route path='*' element={<PageNotFound />}/>
           <Route path='/market' element={<MarketPage />} />
+          <Route path='/support' element={<SupportPage />} />
         </Routes>
       </BrowserRouter>
     </div>
