@@ -18,7 +18,7 @@
     padding: 150px 0 0px 0px;
     position: absolute;
     right: 0;
-    bottom: -40px;
+    bottom: 0px;
     width: 100%!important;
     max-width: 1024px;
     margin: 0 auto;
@@ -38,33 +38,34 @@ div#question_tabs {
     z-index: 1;
     position: relative;
 }
-.search_bar .cmyNjn {
-    min-height: 86px;
-}
-.search_bar .cmyNjn .wrapper {
-    height: 100%;
-    position: relative;
-    border: 1px solid #e2e8f0;
-    background-color: #fff;
-    width: 100%;
-    border-radius: 15px;
+/* .search_bar .cmyNjn {
+    min-height: 86px !important;
+} */
+.search_bar .wrapper {
+    height: 100% !important;
+    position: relative !important;
+    border: 1px solid #e2e8f0 !important;
+    background-color: #fff !important;
+    width: 100% !important;
+    border-radius: 15px !important;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     font-size: 22px;
     font-family: 'urbanist-regular' !important;
     box-shadow: 0px 29px 44px -33px rgb(0 0 0 / 37%) !important;
-    
+    min-height: 86px;
+    padding-top: 20px;
 }
-.search_bar .cmyNjn .wrapper:hover{
+.search_bar .wrapper:hover{
     box-shadow: 0px 29px 44px -33px rgb(0 0 0 / 37%);
 }
-.search_bar .cmyNjn .wrapper input::placeholder{
+.search_bar .wrapper input::placeholder{
     font-size: 22px;
     font-family: 'urbanist-regular' !important;
 }
-.search_bar .cmyNjn .wrapper .fDbOPw {
+/* .search_bar .cmyNjn .wrapper .fDbOPw {
     min-height: 86px;
-}
-.search_bar .cmyNjn .wrapper .fDbOPw svg {
+} */
+.search_bar .cmyNjn .wrapper svg {
     width: 34px !important;
     height: auto;
 }
@@ -76,7 +77,7 @@ div#question_tabs {
     background: #FFFFFF;
     box-shadow: 0px 29px 44px -33px rgb(0 0 0 / 37%) !important;
     border: 1px solid #e2e8f0;
-    margin-top: 10px;
+    margin-top: 30px;
     border-radius: 15px;
     padding-top: 10px;
 }
