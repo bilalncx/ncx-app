@@ -98,8 +98,9 @@ div#question_tabs {
     width: 33.333%;
     margin: 0 2rem;
 }
-.question_row a.col:hover{
+.question_row a.col:hover, .question_row a.col:focus, .question_row a.col:focus-visible{
     text-decoration: none;
+    outline: none;
 }
 .col.second {
     background-color: rgba(12, 152, 181, 1);
@@ -137,7 +138,7 @@ div#question_tabs {
 }
 .question_row p {
     font-size: 18px;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-regular';
     color: #FFFFFF;
 }
 .animation\:fade-in-up {
