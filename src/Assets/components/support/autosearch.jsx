@@ -7,23 +7,31 @@ function App() {
     const items = [
       {
         id: 0,
-        name: "Cobol",
+        name: "How to Sign Up via Desktop",
       },
       {
         id: 1,
-        name: "JavaScript",
+        name: "How to Sign Up via Mobile App",
       },
       {
         id: 2,
-        name: "Basic",
+        name: "How to Add Two-Factor Authentication",
       },
       {
         id: 3,
-        name: "PHP",
+        name: "How to Change Password",
       },
       {
         id: 4,
-        name: "Java",
+        name: "How to Add Anti Phishing Code",
+      },
+      {
+        id: 5,
+        name: "How to Add Address Whitelisting",
+      },
+      {
+        id: 6,
+        name: "How to Reset Password",
       },
     ];
   
@@ -71,7 +79,7 @@ function App() {
                 />
             </div>
         </div>
-      </div>
+      </div>  
     );
   }
   

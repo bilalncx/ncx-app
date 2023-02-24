@@ -164,6 +164,232 @@ div#question_tabs {
     transform: translateY(20);
 }
 
+
+/* *************************************** Details Page ********************************************* */
+.details_faqs {
+    padding: 150px 0px;
+    min-height: 600px;
+}
+.details_faqs .col.fest {
+    flex: inherit;
+    padding-left: 0;
+    padding-right: 40px;
+    position: relative;
+    width: 20%;
+}
+.details_faqs .col.sect {
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    padding: 0 40px;
+    position: relative;
+    width: 60%;
+    flex: inherit;
+}
+.details_faqs .col.thest {
+    padding-left: 40px;
+    padding-right: 0;
+    position: relative;
+    width: 20%!important;
+    flex: inherit;
+}
+#artiles_faq .slider {
+    height: 100% !important;
+    min-height: 300px;
+}
+#artiles_faq .slider .carousel__slider-tray-wrapper {
+    height: 100%;
+    min-height: 300px;
+    max-height: 300px;
+}
+#artiles_faq .slider .carousel__slide--hidden {
+    height: 300px;
+    max-height: 300px;
+}
+#artiles_faq .slider .carousel__slider-tray {
+    height: 300px;
+    max-height: 300px;
+}
+div#artiles_faq {
+    padding: 60px 16px 16px!important;
+    background: linear-gradient(192.05deg,#444 -355.42%,#141414 101.9%);
+    max-height: 300px;
+}
+.faq-mod p {
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 20px;
+    line-height: 28px;
+    min-height: 56px;
+    margin-bottom: 130px;
+}
+.faq-mod a {
+    font-size: 18px;
+    font-family: 'urbanist-regular';
+    color: #34A9FF;
+    line-height: 24px;
+    width: 100%;
+    position: relative;
+    display: block;
+    text-align: end;
+}
+#artiles_faq button {
+    background: none;
+    border: none;
+}
+#artiles_faq button svg{
+    width: 10px;
+    height: auto;
+}
+#artiles_faq button svg path{
+    fill: #FFFFFF;
+}
+#artiles_faq button.movenxt {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
+#artiles_faq button.moveback{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+#artiles_faq button.moveback svg{
+    transform: rotate(-180deg);
+}
+.details_faqs .row {
+    margin: 0px !important;
+}
+.faq_nav {
+    display: flex;
+    column-gap: 13px;
+    margin-top: 40px;
+}
+.faq_nav a {
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    color: #000000;
+    line-height: 24px;
+}
+.faq_nav p {
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    color: #34A9FF;
+    line-height: 24px;
+}
+.arr_sv svg {
+    width: 8px;
+    display: block;
+}
+.arr_sv svg path{
+    fill: rgba(0,0,0,0.2);
+}
+.arr_sv {
+    padding-top: 3px;
+}
+ul.details_faqul {
+    padding-left: 0px;
+    padding-top: 10px;
+}
+ul.details_faqul li{
+    list-style-type: none;
+    padding: 15px 0px;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    color: #000000;
+}
+ul.details_faqul li button{
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    color: #000000;
+    background: none;
+    padding: 0px;
+    border: none;
+}
+ul.details_faqul li button:hover{
+    text-decoration: none;
+    color: #34A9FF;
+}
+ul.details_faqul li button:focus, ul.details_faqul li button:focus-visible{
+    text-decoration: none;
+}
+ul.details_faqul li button.active {
+    color: #34A9FF;
+}
+h1.support_ticket {
+    font-size: 24px;
+    line-height: 32px;
+    font-family: 'urbanist-regular';
+    margin-bottom: 20px;
+}
+p.support_txt {
+    color: #000000;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: 'urbanist-regular';
+}
+p.support_txt a {
+    color: #000000;
+    text-decoration: underline;
+}
+a.support_signin {
+    color: #FFFFFF;
+    background: #34A9FF;
+    width: 170px;
+    height: 44px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    margin-top: 30px;
+}
+.details_faqs .col.fest .social-icons {
+    margin-top: 40px;
+}
+.details_faqs .col.fest .social-icons a {
+    background: rgba(0,0,0,0.2);
+    width: 44px;
+    height: 44px;
+}
+.details_faqs .col.fest .social-icons a:hover{
+    background: #34A9FF;
+}
+.sprt-content{
+    display: none;
+}
+.sprt-content.active{
+    display: block;
+}
+.sprt-content h1 {
+    font-size: 48px;
+    line-height: 68px;
+    font-family: 'urbanist-regular';
+}
+.sprt-content p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'urbanist-regular';
+    margin: 15px 0px;
+}
+.sprt-content img {
+    width: 100%;
+    margin: 25px 0px;
+    filter: drop-shadow(0px 0px 18px rgba(0, 0, 0, 0.06));
+}
+
+
+
+
+/* *************************************** Details Page ********************************************* */
+@media screen and (min-width: 1300px){
+    .details_faqs .container {
+        max-width: 1360px;
+    }
+}
+
+
 @media screen and (max-width: 800px){
     .question_row{
         display: block;

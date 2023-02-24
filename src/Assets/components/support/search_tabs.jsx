@@ -16,7 +16,7 @@ function QuestionTabs()
                         <p>Identity Verification</p>
                         <p>Requirements</p>
                     </a>
-                    <a href="#" className="col third animated animation:fade-in-up">
+                    <a href="./security_google_2fa" className="col third animated animation:fade-in-up">
                         <h1>Settings & Security</h1>
                         <p>Google 2FA</p>
                         <p>Password Reset</p>

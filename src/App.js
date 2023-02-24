@@ -20,6 +20,7 @@ import NCXInstitution from './Assets/pages/ncx-institution/institution';
 import PageNotFound from './Assets/components/404page/404';
 import MarketPage from './Assets/pages/market/marketpage';
 import SupportPage from './Assets/pages/support/support';
+import SecurityGoogle2FA from './Assets/components/support/security_settings/security';
 
 const App = () => {
   return (
@@ -43,7 +44,8 @@ const App = () => {
           <Route path='/institutional' element={<NCXInstitution />} />
           <Route path='*' element={<PageNotFound />}/>
           <Route path='/market' element={<MarketPage />} />
-          <Route path='/support' element={<SupportPage />} />
+          <Route path='/faq' element={<SupportPage />} />
+          <Route path='/faq/security_google_2fa' element={<SecurityGoogle2FA />}/>
         </Routes>
       </BrowserRouter>
     </div>
