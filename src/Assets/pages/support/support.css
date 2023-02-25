@@ -427,7 +427,7 @@ a.support_signin {
         position: relative;
         display: block;
         margin: 0px;
-        max-height: 180px !important;
+        /* max-height: 180px !important; */
         min-height: inherit;
         margin-bottom: 20px;
     }
