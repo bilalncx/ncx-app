@@ -16,7 +16,7 @@ function QuestionTabs()
                         <p>Identity Verification</p>
                         <p>Requirements</p>
                     </a>
-                    <a href="./security_google_2fa" className="col third animated animation:fade-in-up">
+                    <a href="/faq_security_google_2fa" className="col third animated animation:fade-in-up">
                         <h1>Settings & Security</h1>
                         <p>Google 2FA</p>
                         <p>Password Reset</p>
@@ -26,7 +26,7 @@ function QuestionTabs()
                     </a>
                 </div>
                 <div className="question_row">
-                    <a href="#" className="col first animated animation:fade-in-up">
+                    <a href="/faq_deposits" className="col first animated animation:fade-in-up">
                         <h1>Deposits</h1>
                         <p>Deposits on Desktop</p>
                         <p>Deposits on Mobile App</p>

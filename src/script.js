@@ -56,9 +56,9 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("faq") > -1){
       $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("/faq/security_google_2fa") > -1){
+    } else if (window.location.href.indexOf("/faq_security_google_2fa") > -1){
       $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("/faq/deposits") > -1){
+    } else if (window.location.href.indexOf("/faq_deposits") > -1){
       $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");

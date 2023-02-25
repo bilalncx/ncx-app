@@ -47,8 +47,8 @@ const App = () => {
           <Route path='*' element={<PageNotFound />}/>
           <Route path='/market' element={<MarketPage />} />
           <Route path='/faq' element={<SupportPage />} />
-          <Route path='/faq/security_google_2fa' element={<FAQSecurityGoogle2FA />}/>
-          <Route path='/faq/deposits' element={<FAQDesposits />} />
+          <Route path='/faq_security_google_2fa' element={<FAQSecurityGoogle2FA />}/>
+          <Route path='/faq_deposits' element={<FAQDesposits />} />
         </Routes>
       </BrowserRouter>
     </div>
