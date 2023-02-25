@@ -20,7 +20,9 @@ import NCXInstitution from './Assets/pages/ncx-institution/institution';
 import PageNotFound from './Assets/components/404page/404';
 import MarketPage from './Assets/pages/market/marketpage';
 import SupportPage from './Assets/pages/support/support';
-import SecurityGoogle2FA from './Assets/components/support/security_settings/security';
+import FAQSecurityGoogle2FA from './Assets/components/support/security_settings/security';
+import FAQDesposits from './Assets/components/support/deposits/deposit';
+
 
 const App = () => {
   return (
@@ -45,7 +47,8 @@ const App = () => {
           <Route path='*' element={<PageNotFound />}/>
           <Route path='/market' element={<MarketPage />} />
           <Route path='/faq' element={<SupportPage />} />
-          <Route path='/faq/security_google_2fa' element={<SecurityGoogle2FA />}/>
+          <Route path='/faq/security_google_2fa' element={<FAQSecurityGoogle2FA />}/>
+          <Route path='/faq/deposits' element={<FAQDesposits />} />
         </Routes>
       </BrowserRouter>
     </div>

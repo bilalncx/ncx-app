@@ -58,6 +58,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/faq/security_google_2fa") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/faq/deposits") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }

@@ -437,4 +437,38 @@ a.support_signin {
     div#question_tabs{
         padding: 80px 0px;
     }
+    .details_faqs .col.thest {
+        display: none;
+    }
+    .details_faqs .col.fest {
+        width: 100%;
+    }
+    .details_faqs .col.sect{
+        width: 100%;
+        padding: 0px 20px;
+        margin-top: 20px;
+    }
+    h1.support_ticket {
+        display: none;
+    }
+    p.support_txt, a.support_signin, .details_faqs .col.fest .social-icons {
+        display: none;
+    }
+    .details_faqs{
+        padding: 100px 0px;
+    }
+    ul.details_faqul li{
+        padding: 7px 0px;
+    }
+    .faq_nav{
+        margin-top: 20px;
+    }
+    .sprt-content h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .sprt-content p{
+        font-size: 14px;
+        line-height: 20px;
+    }
 }
