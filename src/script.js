@@ -60,6 +60,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/faq_deposits") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/faq_withdrawal") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }

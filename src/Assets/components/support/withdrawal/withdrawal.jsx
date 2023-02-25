@@ -9,11 +9,15 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-import Deposit1 from '../../../images/deposit1.png';
-import Deposit2 from '../../../images/deposit2.png';
-import Deposit3 from '../../../images/deposit3.png';
-import Deposit4 from '../../../images/deposit4.png';
-import Deposit5 from '../../../images/deposit5.png';
+import Withdrawal1 from '../../../images/withdrwal1.png';
+import Withdrawal2 from '../../../images/withdrwal2.png';
+import Withdrawal3 from '../../../images/withdrwal3.png';
+import Withdrawal4 from '../../../images/withdrwal4.png';
+import Withdrawal5 from '../../../images/withdrwal5.png';
+import Withdrawal6 from '../../../images/withdrwal6.png';
+import Withdrawal7 from '../../../images/withdrwal7.png';
+import Withdrawal8 from '../../../images/withdrwal8.png';
+
 
 
 function SupportPageSet()
@@ -43,7 +47,7 @@ function SupportPageSet()
                                 <div className="arr_sv">
                                     <CardArrow />
                                 </div>
-                                <p>Deposits</p>
+                                <p>Withdrawal</p>
                             </div>
 
                             <ul className="details_faqul">
@@ -52,7 +56,7 @@ function SupportPageSet()
                                         className={toggleState === 1 ? "faq-tabs active" : "faq-tabs"}
                                         onClick={() => toggleTab(1)}
                                     >
-                                    Deposits on Desktop
+                                    Withdrawals on Desktop
                                     </button>
                                 </li>
                                 <li>
@@ -78,21 +82,26 @@ function SupportPageSet()
                         </div>
                         <div className="col sect">
                             <div className={toggleState === 1 ? "sprt-content active" : "sprt-content"}>
-                                <h1>Make a Deposit</h1>
-                                <p>Please follow the simple steps below to Deposit Cryptocurrencies into your NCX Account.</p>
-                                <p>1. Go to ‘Wallets’ section in NCX Dashboard and select the Asset you wish to deposit.</p>
-                                <img src={Deposit1} alt="ncx-deposits" />
-                                <p>2. Click on 3 dots in the top right corner of the wallet widget, select ‘Deposit’</p>
-                                <img src={Deposit2} alt="ncx-deposits" />
+                                <h1>Make a Withdrawal</h1>
+                                <p>Please follow the simple steps below to Withdraw Cryptocurrencies from your NCX Wallet.</p>
+                                <p>1. Go to ‘Wallets’ section in NCX Dashboard and select the Asset you wish to Withdraw.</p>
+                                <img src={Withdrawal1} alt="ncx-deposits" />
+                                <p>2. Click on 3 dots in the top right corner of the wallet widget, select ‘Withdraw’</p>
+                                <img src={Withdrawal2} alt="ncx-deposits" />
                                 <p>3. Choose the Blockchain Network, make sure you are sending assets via correct network, if you send the funds via wrong network, they would be permanently lost</p>
-                                <img src={Deposit3} alt="ncx-deposits" />
-                                <p>4. Copy the Wallet Address and proceed with Deposit</p>
-                                <img src={Deposit4} alt="ncx-deposits" />
-                                <p>5. You will receive a ‘successful deposit’ confirmation email, to view your recent deposits go to ‘Transactions’ section in your NCX Dashboard and selects ‘Deposit’</p>
-                                <img src={Deposit5} alt="ncx-deposits" />
+                                <img src={Withdrawal3} alt="ncx-deposits" />
+                                <p>4. Enter the amount</p>
+                                <img src={Withdrawal4} alt="ncx-deposits" />
+                                <p>5. Enter a withdrawal wallet address or select the address from  ‘Saved Withdrawals’</p>
+                                <img src={Withdrawal5} alt="ncx-deposits" />
+                                <p>6. Enter a confirmation code sent to the registered email, if you have not received an email check junk/spam folder</p>
+                                <img src={Withdrawal6} alt="ncx-deposits" />
+                                <img src={Withdrawal7} alt="ncx-deposits" />
+                                <p>7. You will receive a ‘successful withdrawal’ confirmation email, to view your recent withdrawals go to ‘Transactions’ section in your NCX Dashboard and select ‘Withdraw’</p>
+                                <img src={Withdrawal8} alt="ncx-deposits" />
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
-                                <h2>How to Make a Deposits on Mobile</h2>
+                                <h2>How to Make a Withdrawal on Mobile</h2>
                             </div>
                         </div>
                         <div className="col thest">

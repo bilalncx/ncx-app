@@ -89,7 +89,7 @@ div#question_tabs {
     cursor: pointer;
 }
 .col.first {
-    background-color: rgba(19, 194, 194, 1);
+    background-color: #34A9FF;
     min-height: 220px;
     padding: 30px 25px;
     border-radius: 10px;
@@ -103,7 +103,7 @@ div#question_tabs {
     outline: none;
 }
 .col.second {
-    background-color: rgba(12, 152, 181, 1);
+    background-color: #235DFF;
     min-height: 220px;
     padding: 30px 25px;
     border-radius: 10px;
@@ -113,7 +113,7 @@ div#question_tabs {
     margin: 0 2rem;
 }
 .col.third {
-    background-color: #285fa2;
+    background-color: #7650FF;
     min-height: 220px;
     padding: 30px 25px;
     border-radius: 10px;
@@ -445,8 +445,9 @@ a.support_signin {
     }
     .details_faqs .col.sect{
         width: 100%;
-        padding: 0px 20px;
+        padding: 0px 0px;
         margin-top: 20px;
+        border: none;
     }
     h1.support_ticket {
         display: none;

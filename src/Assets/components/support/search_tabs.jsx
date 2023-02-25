@@ -31,7 +31,7 @@ function QuestionTabs()
                         <p>Deposits on Desktop</p>
                         <p>Deposits on Mobile App</p>
                     </a>
-                    <a href="#" className="col second animated animation:fade-in-up">
+                    <a href="/faq_withdrawal" className="col second animated animation:fade-in-up">
                         <h1>Withdrawals</h1>
                         <p>Withdrawals on Desktop</p>
                         <p>Withdrawals on Mobile App</p>
