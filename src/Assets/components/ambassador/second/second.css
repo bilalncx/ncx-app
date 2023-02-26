@@ -217,7 +217,7 @@ h1.privileges_head {
     font-family: 'hauora-medium';
     margin-top: 20px;
 }
-.col.two, .col.four {
+#ncxAmbassador-page .col.two, #ncxAmbassador-page .col.four {
     text-align: center;
     padding-top: 30px;
 }
