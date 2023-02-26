@@ -6,15 +6,16 @@ div#exclusive_rates {
     width: 100%;
     object-fit: cover;
     max-height: 400px;
+    display: none;
 }
-#exclusive_rates .backgrdound-video{
+/* #exclusive_rates .backgrdound-video{
     max-height: 400px;
-}
+} */
 div#exclusive_rates {
     position: relative;
 }
 #exclusive_rates .container {
-    position: absolute;
+    position: relative;
     top: 0;
     width: 100% !important;
     left: 0;

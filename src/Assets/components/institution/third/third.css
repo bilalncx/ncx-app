@@ -8,16 +8,14 @@ div#trading_solutions {
     width: 100%;
     object-fit: cover;
     max-height: 880px;
+    display: none;
 }
-#trading_solutions .backgrdound-video{
+/* #trading_solutions .backgrdound-video{
     min-height: 770px;
     max-height: 880px;
-}
-div#trading_solutions {
-    position: relative;
-}
+} */
 #trading_solutions .container {
-    position: absolute;
+    position: relative;
     top: 0;
     width: 100% !important;
     left: 0;
