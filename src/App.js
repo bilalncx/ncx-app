@@ -32,7 +32,7 @@ const App = () => {
         <Routes>
           <Route path='/' exact element={<Home />} />
           <Route path='/insights' element={<Press />}/>
-          <Route path='/blog/:id' element={<Blog />} />
+          <Route path='/insights/:id' element={<Blog />} />
           <Route path='/privacy-policy' element={<PrivacyPolicy />}/>
           <Route path='/kyc-aml-policy' element={<KYCAMLPolicy />}/>
           <Route path='/user-agreement' element={<UserAgreement />}/>

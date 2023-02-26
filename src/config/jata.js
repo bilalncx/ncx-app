@@ -2,6 +2,7 @@ const blogListdata = [
     {
       id: 1,
       title: 'Binance’s bitcoin reserves are fully collateralized according to auditing firm Mazars',
+      slug: 'binance’s-bitcoin-reserves-are-fully-collateralized-according-to-auditing-firm-mazars',
       category: 'News',
       subCategory: ['binance news', 'bitcoin', 'Mazars'],
       description: <div className="blog-desc">
@@ -55,6 +56,7 @@ const blogListdata = [
     {
       id: 2,
       title: 'Binance Bitcoin Reserves Are Overcollateralized, New Report Says',
+      slug: 'binance-bitcoin-reserves-are-overcollateralized-new-report-says',
       category: 'News',
       subCategory: ['binance news', 'bitcoin', 'Reports'],
       description: <div className="blog-desc">
@@ -136,6 +138,7 @@ const blogListdata = [
     {
       id: 4,
       title: 'Hong Kong Stock Exchange debuts ‘Asia’s first’ crypto futures ETFs',
+      slug: 'hong-kong-stock-exchange-debuts-Asia-first-crypto-futures-etfs',
       category: 'News',
       subCategory: ['Stock Exchange', 'ETFs', 'Crypto'],
       description: <div className="blog-desc">
@@ -164,6 +167,7 @@ const blogListdata = [
     {
       id: 5,
       title: 'Japan plans to ease corporate tax rates for cryptocurrency issuers',
+      slug: 'japan-plans-to-ease-corporate-tax-rates-for-cryptocurrency-issuers',
       category: 'News',
       subCategory: ['Crypto Tax', 'ETFs', 'Crypto'],
       description: <div className="blog-desc">
@@ -193,6 +197,7 @@ const blogListdata = [
     {
       id: 6,
       title: 'PayPal (PYPL) Integrates With MetaMask, Boosts Crypto Efforts',
+      slug: 'paypal-(PYPL)-integrates-with-metaMask-boosts-crypto-efforts',
       category: 'News',
       subCategory: ['Paypal', 'Metamask', 'Crypto'],
       description: <div className="blog-desc">
@@ -244,6 +249,7 @@ const blogListdata = [
     {
       id: 7,
       title: 'Spike in Network Activity for Several Altcoins: Santiment Report',
+      slug: 'spike-in-network-activity-for-several-altcoins-santiment-report',
       category: 'News',
       subCategory: ['Spike network', 'Santiment report', 'Crypto'],
       description: <div className="blog-desc">
@@ -272,6 +278,7 @@ const blogListdata = [
     {
       id: 8,
       title: '13% of Americans have now held crypto: JPMorgan research',
+      slug: '13%-of-americans-have-now-held-crypto-JPMorgan-research',
       category: 'News',
       subCategory: ['American', 'Morgan', 'Crypto'],
       description: <div className="blog-desc">
@@ -307,6 +314,7 @@ const blogListdata = [
     {
       id: 9,
       title: 'DEXs see increase in trading volume as investors tread carefully around CEXes',
+      slug: 'DEXs-see-increase-in-trading-volume-as-investors-tread-carefully-around-CEXes',
       category: 'Press',
       subCategory: ['American', 'Morgan', 'Crypto'],
       description: <div className="blog-desc">
@@ -342,6 +350,7 @@ const blogListdata = [
     {
       id: 10,
       title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
+      slug: 'what-does-aaves-growth-on-arbitrum-mean-for-the-current-state-of-l2s',
       category: 'Press',
       subCategory: ['American', 'Morgan', 'Crypto'],
       description: <div className="blog-desc">
@@ -376,6 +385,7 @@ const blogListdata = [
     {
       id: 11,
       title: 'ALTCOINSSolana showing signs of life even as TVL and SOL’s price decline massively',
+      slug: 'altcoinssolana-showing-signs-of-life-even-as-TVL-and-SOLs-price-decline-massively',
       category: 'News',
       subCategory: ['Solana', 'TVL', 'Crypto'],
       description: <div className="blog-desc">
@@ -419,6 +429,7 @@ const blogListdata = [
     {
       id: 12,
       title: 'These latest Avalanche developments can help AVAX climb up the ladder',
+      slug: 'these-latest-avalanche-developments-can-help-avax-climb-up-the-ladder',
       category: 'News',
       subCategory: ['Avalanche', 'AVAX', 'ncx'],
       description: <div className="blog-desc">
