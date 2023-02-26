@@ -8,6 +8,8 @@ import MyHeader from '../components/header/header';
 import MyFooter from '../components/footer/footer';
 import SliderBlog from '../../blogcomponents/homeblog/BlogSlider/blogslider';
 import { ReactComponent as NCXLogo } from '../../Assets/images/NCX-logo.svg';
+import { ReactComponent as Telegram } from '../components/footer/telegram.svg';
+import { ReactComponent as Twitter } from '../components/footer/twitter.svg';
 
 const Home = () => {
   const [blogs, setBlogs] = useState(blogListdata);
@@ -51,24 +53,29 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="container">
-          <div className="blog-search">
-            <div className='blog_heading'>
-              <div className="trend">
-                <NCXLogo />
-                <h3>Trends</h3>
-              </div>
-              <p>See what the best app development agency in UAE is saying</p>
+        <div id="insight_page" className="container">
+          <div className='blog_heading'>
+            <div className="trend">
+              <NCXLogo />
+              <h3>Trends</h3>
             </div>
-            <div className="blog-buttons">
-              <SearchBar
+            <ul>
+              <li><a href="#a" alt="latest articles">Latest Articles</a></li>
+              <li><a href="#a" alt="News & Insights">News & Insights</a></li>
+              <li><a href="#a" alt="Press Room">Press Room</a></li>
+            </ul>
+            <SearchBar
                 value={searchKey}
                 clearSearch={handleClearSearch}
                 formSubmit={handleSearchBar}
                 handleSearchKey={(e) => setSearchKey(e.target.value)}
-              />
-            <button className='search-btn'><a href="#">Press</a></button>
-            <button className='search-btn'><a href="#">News</a></button>
+            />
+            <h1>High-Yield Crypto Savings</h1>
+            <p className='left-text'>Earn a steady interest in your favorite crypto. Accrue per minute, no lockup!</p>
+            <button className="btn01 signup">Sign Up</button>
+            <div className="social-links">
+              <a href="https://twitter.com/NCX_CX" target="_blank"><Twitter /></a>
+              <a href="https://ncx.cx/"><Telegram /></a>
             </div>
           </div>
           <div className="blog">

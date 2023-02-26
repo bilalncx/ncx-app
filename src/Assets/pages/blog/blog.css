@@ -29,15 +29,14 @@
   .blog-content img {
     padding: 10px 0px;
   }
-  .blog-desc {
+  /* .blog-desc {
     padding: 1rem;
     margin-top: 1.5rem;
-  }
-  
+  } */
 
   /* s\******************* */
   .blog_detailspage{
-    padding: 120px 0px 90px 0px;
+    padding: 50px 0px 90px 0px;
   }
   .blog_detailspage .container .row .col{
     flex: inherit;
@@ -283,12 +282,16 @@ p.blog-date {
 
 /* Blog Page Styling starts from here */
 .blog-header {
-  background: url(../../images/kick-scaled.jpg);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  padding-top: 210px;
-  min-height: 750px;
+  /* background: url(../../images/kick-scaled.jpg); */
+  background: #000000;
+  /* background-repeat: no-repeat;
+  background-size: 100% 100%; */
+  padding: 70px 0px;
+  /* min-height: 750px; */
   background-color: #000000;
+}
+.blog-page .blog-header .row-col:nth-child(1) {
+  padding: 100px 0px;
 }
 .blog-header p {
   font-size: 14px;
@@ -332,24 +335,22 @@ p.blog-date {
   max-width: 40%;
   padding: 0;
   font-size: 13px;
-  color: #141414;
+  color: #FFFFFF;
   line-height: 38px;
   background-position: 80% center;
   text-align: left;
-  padding-left: 40px;
-  background: #65e4a1;
+  /* padding-left: 40px; */
+  background: #34a9ff;
   border-radius: 5px !important;
   position: relative;
   top: 8px;
   margin-left: 30px;
   font-family: 'urbanist-regular';
+  text-align: center;
 }
 .blog-header .row {
   margin: 0px;
 }
 .blog-header .row .row-col {
   width: 50%;
-}
-.blog-page .blog {
-  padding-bottom: 100px;
 }

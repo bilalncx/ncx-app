@@ -1,4 +1,4 @@
-.blogList-wrap {
+/* .blogList-wrap {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 50px;
@@ -15,4 +15,145 @@
       grid-template-columns: repeat(1, 1fr);
     }
   }
-  
+   */
+
+
+#insight_page:before, #insight_page:after{
+  display: none;
+}
+.blogItem-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition: .3s;
+}
+.blog-image{
+  height: 230px;
+  overflow: hidden;
+  width: 380px;
+  min-width: 380px;
+}
+.blog-image a:hover img {
+  transform: scale(1.1);
+}
+p.chip {
+  display: none;
+}
+.blogItem-wrap footer {
+  display: none;
+}
+.blogItem-wrap {
+  display: flex;
+}
+.blogItem-wrap {
+  display: flex;
+  column-gap: 40px;
+}
+.blogList-wrap .blogItem-wrap {
+  margin-bottom: 40px;
+}
+.blog-heading {
+  padding: 10px 0px;
+}
+.blog-heading p {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: 'urbanist-regular';
+}
+.ttdfe h3 {
+  font-size: 26px;
+  line-height: 32px;
+  font-family: 'urbanist-medium';
+  margin: 10px 0px;
+}
+.blog-desc p {
+  font-size: 16px;
+  line-height: 23px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  font-family: 'urbanist-regular';
+  min-height: 69px;
+}
+.blog-desc p a{
+  color: #000000 !important;
+}
+.blogItem-link {
+  width: fit-content;
+  display: block;
+  text-align: end;
+  font-size: 16px;
+  font-family: 'urbanist-regular';
+  color: #34A9FF;
+  text-decoration: none;
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-top: 12px;
+}
+.blogItem-link:hover{
+  text-decoration: none;
+  color: #34A9FF;
+}
+a.blogItem-link:hover svg {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-name: move;
+  animation-iteration-count: infinite;
+  animation-name: move;
+  animation-timing-function: ease-out;
+}
+a.blogItem-link svg {
+  margin-left: 10px;
+  vertical-align: middle;
+}
+a.blogItem-link svg path{
+  fill: #34A9FF;
+}
+@keyframes move{
+  0%{
+    transform:translateX(0);
+  }
+  20%{
+    transform:translateX(10px);
+  }
+}
+div#insight_page {
+  display: flex;
+  column-gap: 70px;
+  padding: 100px 0px;
+}
+.blog_heading ul {
+  padding: 0px;
+  margin: 0px;
+  margin-top: 40px;
+}
+.blog_heading ul li {
+  list-style-type: none;
+  padding: 8px 0px;
+}
+.blog_heading ul li a {
+  font-family: 'urbanist-regular';
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+.blog_heading h1 {
+  font-size: 24px;
+  line-height: 32px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-family: 'urbanist-regular';
+}
+.blog_heading .searchBar-wrap {
+  margin-top: 10px;
+} 
+.blog_heading button.btn01.signup {
+  width: 80% !important;
+  margin-top: 30px;
+}
