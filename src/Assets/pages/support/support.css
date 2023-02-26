@@ -88,7 +88,7 @@ div#question_tabs {
     padding: 15px 10px;
     cursor: pointer;
 }
-.col.first {
+#question_tabs .col.first {
     background-color: #7650FF;
     min-height: 220px;
     padding: 30px 25px;
@@ -102,7 +102,7 @@ div#question_tabs {
     text-decoration: none;
     outline: none;
 }
-.col.second {
+#question_tabs .col.second {
     background-color: #7650FF;
     min-height: 220px;
     padding: 30px 25px;
@@ -112,7 +112,7 @@ div#question_tabs {
     width: 33.333%;
     margin: 0 2rem;
 }
-.col.third {
+#question_tabs .col.third {
     background-color: #7650FF;
     min-height: 220px;
     padding: 30px 25px;
