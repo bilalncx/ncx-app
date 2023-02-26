@@ -52,7 +52,7 @@ function MyFooter()
                         <ul className="ul-two">
                             <li><a href="#">About Us</a></li>
                             <li><a href="https://ncx.cx/insights">Media & Press</a></li>
-                            <li><a href="#">FAQ</a></li>
+                            <li><a href="https://ncx.cx/faq">FAQ</a></li>
                             <li><a href="#">Support</a></li>
                         </ul>
                     </div>
@@ -149,7 +149,7 @@ function MyFooter()
                         <h1>Company</h1>
                         <li><a href="#">About Us</a></li>
                         <li><a href="https://ncx.cx/insights">Media & Press</a></li>
-                        <li><a href="#">FAQ</a></li>
+                        <li><a href="https://ncx.cx/faq">FAQ</a></li>
                         <li><a href="#">Support</a></li>
                     </ul>
                 </div>
