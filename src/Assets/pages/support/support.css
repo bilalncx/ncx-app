@@ -517,4 +517,15 @@ a.support_signin {
         font-size: 14px;
         line-height: 20px;
     }
+    #question_tabs .container{
+        display: block !important;
+    }
+    #question_tabs .container .blog_heading ul, h1.open-ticket, p.ticker_pass, .support_singbtn, #question_tabs .container .social-links{
+        display: none;
+    }
+    .question_ssdedaa{
+        padding-left: 0px !important;
+        border: none !important;
+        margin-top: 40px;
+    }
 }
