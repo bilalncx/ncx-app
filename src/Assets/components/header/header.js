@@ -67,7 +67,7 @@ export default function Header() {
                             <div className="social_links">
                               <div className="social_link_inner">
                                 <a href="#">About Us</a>
-                                <a href="https://ncx.cx/insights">News & Press</a>
+                                <a href="https://ncx.cx/insights">News & Insights</a>
                                 <a href="https://ncx.cx/user-agreement">User Agreement</a>
                                 <a href="https://ncx.cx/kyc-aml-policy">AML & KYC Policy</a>
                                 <a href="https://ncx.cx/privacy-policy">Privacy Policy</a>
@@ -85,15 +85,15 @@ export default function Header() {
                         <div className="connect_links">
                           <div className="box">
                             <div className="boxx-links">
-                              <a href="#">FAQ</a>
+                              <a href="https://ncx.cx/faq">FAQ</a>
                               <a href="#">Open Support Ticket</a>
                               <a href="#">Support via Telegram</a>
                             </div>
                             <h4> Social Media</h4>
                             <div className="social-icons">
                               <div class="icons"><a href="https://ncx.cx"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                              <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
-                              <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                              <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                              <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
                             </div>
                           </div>
                         </div>
@@ -126,53 +126,6 @@ export default function Header() {
                 <li className="main_title white_bg">
                   <a href="https://ncx.cx/task-rewards">Rewards</a>
                 </li>
-                {/* <li className="main_title white_bg">
-                  <a href="#">More
-                  <svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.80486 5L9.62305 0.181818L9.42824 -2.32303e-09L4.80486 4.62338L0.181488 -1.12589e-07L-0.000329914 0.181818L4.80486 5Z" fill="white"></path> </svg>
-                  </a>
-                  <div className="mega_menu"> 
-                    <div className="col1">
-                      <div className="top_heading connect_link_title"> 
-                        <h4> Community </h4> 
-                        <h4> Social </h4> 
-                      </div>
-                      <div className="menu_box">
-                        <div className="col">
-                          <div className="main_service_wrapper">
-                            <div className="community_inner">
-                              <div className="main_service">
-                                <a href="./blog">Press & News 
-                                  <p> Discover the latest NCX news and industry related articles</p> 
-                                </a>
-                              </div>
-                            </div>
-                            <div className="social_links">
-                              <div className="social_link_inner"> 
-                                <a href="https://twitter.com/ncx_cx" target="_blank" rel="noreferrer">Twitter</a> 
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="col2">
-                      <div className="right_inner">
-                        <h4> Support </h4>
-                        <div className="connect_links">
-                          <div className="box">
-                            <a href="#">Contact
-                              <p>Sign in to open a Support Ticket</p>
-                              <svg width="12" height="9" viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg"> 
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M12 4.49399L7.07931 9.00006L6.89362 8.81787L11.6154 4.49399L6.89362 0.1701L7.07931 5.96875e-05L12 4.49399Z" fill="#141414"></path> 
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M0 4.31366H11.7447V4.57085H0V4.31366Z" fill="#141414"></path> 
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </li> */}
               </ul>
             </div>
             <div className="login-buttons">
