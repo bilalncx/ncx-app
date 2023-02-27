@@ -74,6 +74,22 @@ $(document).ready(function() {
             $("#header-row").removeClass("darkheader");
         }
     });
+
+
+    window.onscroll = function() {myFunction()};
+    var header = document.getElementById("fixed_sticky_insights");
+    var sticky = header.offsetTop+550;
+    function myFunction() {
+      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 2500) { // <--here
+        header.classList.add("sticky");
+        $("#insight_page .blog").addClass("blog-stick");
+        $("#insight_page").addClass("sefeds");
+      } else {
+        header.classList.remove("sticky");
+        $("#insight_page .blog").removeClass("blog-stick");
+        $("#insight_page").removeClass("sefeds");
+      }
+    }
 });
 
 

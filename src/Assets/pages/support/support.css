@@ -88,21 +88,21 @@ div#question_tabs {
     padding: 15px 10px;
     cursor: pointer;
 }
-#question_tabs .col.first {
-    background-color: #7650FF;
-    min-height: 220px;
+#question_tabs .col.first, #question_tabs .col.second, #question_tabs .col.third {
+    background-color: #f7f9fe;
+    min-height: 245px;
     padding: 30px 25px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     max-width: 300px;
     flex: inherit;
     width: 33.333%;
-    margin: 0 2rem;
+    /* margin: 0 2rem; */
 }
 .question_row a.col:hover, .question_row a.col:focus, .question_row a.col:focus-visible{
     text-decoration: none;
     outline: none;
 }
-#question_tabs .col.second {
+/* #question_tabs .col.second {
     background-color: #7650FF;
     min-height: 220px;
     padding: 30px 25px;
@@ -121,25 +121,26 @@ div#question_tabs {
     flex: inherit;
     width: 33.333%;
     margin: 0 2rem;
-}
+} */
 .question_row {
     display: flex;
     justify-content: space-between;
     margin-bottom: 32px;
+    column-gap: 30px;
 }
 #question_tabs .container {
-    max-width: 1024px;
+    max-width: 852px;
 }
 .question_row h1 {
-    font-size: 22px;
-    color: #FFFFFF;
-    font-family: 'urbanist-semibold';
+    font-size: 26px;
+    color: #40475a;
+    font-family: 'urbanist-medium';
     margin-bottom: 15px;
 }
 .question_row p {
-    font-size: 17px;
+    font-size: 16px;
     font-family: 'urbanist-regular';
-    color: #FFFFFF;
+    color: #40475a;
 }
 .animation\:fade-in-up {
     animation-name: fadeInUp;
@@ -160,8 +161,8 @@ div#question_tabs {
     }
 }
 .question_row a:hover {
-    box-shadow: 0px 29px 44px -33px rgb(0 0 0 / 37%);
-    transform: translateY(20);
+    background: #FFFFFF !important;
+    box-shadow: 0 0 16px rgb(184 201 255 / 30%);
 }
 
 

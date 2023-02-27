@@ -54,15 +54,15 @@ const Home = () => {
           </div>
         </div>
         <div id="insight_page" className="container">
-          <div className='blog_heading'>
+          <div id="fixed_sticky_insights" className='blog_heading'>
             <div className="trend">
               <NCXLogo />
-              <h3>Trends</h3>
+              <h3>Insights</h3>
             </div>
             <ul>
               <li><a href="#a" alt="latest articles">Latest Articles</a></li>
-              <li><a href="#a" alt="News & Insights">News & Insights</a></li>
-              <li><a href="#a" alt="Press Room">Press Room</a></li>
+              <li><a href="#a" alt="News & Insights">Press Room</a></li>
+              <li><a href="#a" alt="Press Room">Announcements</a></li>
             </ul>
             <SearchBar
                 value={searchKey}
@@ -70,13 +70,11 @@ const Home = () => {
                 formSubmit={handleSearchBar}
                 handleSearchKey={(e) => setSearchKey(e.target.value)}
             />
-            <h1>High-Yield Crypto Savings</h1>
-            <p className='left-text'>Earn a steady interest in your favorite crypto. Accrue per minute, no lockup!</p>
-            <button className="btn01 signup">Sign Up</button>
             <div className="social-links">
               <a href="https://twitter.com/NCX_CX" target="_blank"><Twitter /></a>
               <a href="https://ncx.cx/"><Telegram /></a>
             </div>
+            <SliderBlog />
           </div>
           <div className="blog">
             {!blogs.length ? <EmptyList /> : <BlogList blogs={blogs} />}  

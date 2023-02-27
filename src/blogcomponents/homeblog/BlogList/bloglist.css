@@ -127,6 +127,18 @@ div#insight_page {
   display: flex;
   column-gap: 35px;
   padding: 100px 20px !important;
+  position: relative;
+}
+div#fixed_sticky_insights.sticky {
+  position: fixed;
+  top: 80px;
+}
+#insight_page .blog.blog-stick {
+  margin-left: 255px;
+}
+div#insight_page.container.sefeds {
+  position: relative;
+  display: flex;
 }
 #insight_page .blog {
   padding-left: 35px;
@@ -182,7 +194,7 @@ div#insight_page {
       width: 60%;
       padding-bottom: 15px;
   }
-  #insight_page{
+  div#insight_page{
       display: block !important;
       width: 100% !important;
       padding: 50px 20px !important;
@@ -229,5 +241,19 @@ div#insight_page {
   }
   .blog-header button{
       width: 30% !important;
+  }
+  div#fixed_sticky_insights.sticky {
+    position: inherit !important;
+    top: inherit !important;
+  }
+  #insight_page .blog.blog-stick {
+    margin-left: inherit !important;
+  }
+  div#insight_page.container.sefeds {
+    position: relative;
+    display: flex;
+  }
+  #fixed_sticky_insights section#slider-blog {
+    display: none;
   }
 }

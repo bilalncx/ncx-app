@@ -47,7 +47,7 @@ function SupportPageSet()
 
             <SearchModal />
 
-            <div className="details_faqs">
+            <div id="support_faq_details" className="details_faqs">
                 <div className="container">
                     <div className="row">
                         <div className="col fest">

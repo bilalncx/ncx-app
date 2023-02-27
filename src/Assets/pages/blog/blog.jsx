@@ -59,12 +59,12 @@ const Blog = () => {
             <div className="leftsidebar">
               <div className="trend">
                 <NCXLogo />
-                <h3>Trends</h3>
+                <h3>Insights</h3>
               </div>
               <ul>
                 <li><a href="#a" alt="latest articles">Latest Articles</a></li>
-                <li><a href="#a" alt="News & Insights">News & Insights</a></li>
-                <li><a href="#a" alt="Press Room">Press Room</a></li>
+                <li><a href="#a" alt="News & Insights">Press Room</a></li>
+                <li><a href="#a" alt="Press Room">Announcements</a></li>
               </ul>
               <SearchBar
                 value={searchKey}
