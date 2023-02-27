@@ -11,6 +11,7 @@ import SearchBar from '../../../blogcomponents/homeblog/SearchBar/searchbar';
 import Button from "@mui/material/Button";
 import { ReactComponent as Telegram } from '../../components/footer/telegram.svg';
 import { ReactComponent as Twitter } from '../../components/footer/twitter.svg';
+import { ReactComponent as Instagram } from '../../images/instagram.svg';
 import BlogSliders from '../../../blogcomponents/homeblog/BlogSlider/blogslider';
 import { Link } from 'react-router-dom';
 
@@ -76,8 +77,9 @@ const Blog = () => {
               <p className='left-text'>Earn a steady interest in your favorite crypto. Accrue per minute, no lockup!</p>
               <Button className="btn01 signup">Sign Up</Button>
               <div className="social-links">
-                <a href="https://twitter.com/NCX_CX" target="_blank"><Twitter /></a>
-                <a href="https://ncx.cx/"><Telegram /></a>
+                <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
+                <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>
+                <a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
               </div>
             </div>
           </div>

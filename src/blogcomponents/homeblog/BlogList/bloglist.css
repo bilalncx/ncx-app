@@ -131,7 +131,7 @@ div#insight_page {
 }
 div#fixed_sticky_insights.sticky {
   position: fixed;
-  top: 80px;
+  top: 100px;
 }
 #insight_page .blog.blog-stick {
   margin-left: 255px;
