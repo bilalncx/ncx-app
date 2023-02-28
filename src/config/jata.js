@@ -459,7 +459,218 @@ const blogListdata = [
         <p>This would imply a favorable reaction to the network’s most recent news. At the time of this writing, the asset was trading with less than a 1% increase in value, and it appeared to be rising.</p>
         <img src="https://ambcrypto.com/wp-content/uploads/2022/12/AVAXUSD_2022-12-14_12-47-29.png" alt="Trading view" />
       </div>,
-    }
+    },
+    {
+      id: 13,
+      title: 'Bitcoin, Ether prices rise as crypto market stages rebound; Solana biggest gainer among top 10',
+      slug: 'bitcoin-Ether-prices-rise-as-crypto-market-stages-rebound-solana-biggest-gainer-among-top-10',
+      category: 'News',
+      subCategory: ['Market', 'Bitcoin', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>Bitcoin and Ether rebounded in Thursday morning trading in Asia amid broad gains in the top 10 non-stablecoin cryptocurrencies after a bout of profit-taking and mixed economic indicators sent prices lower on Wednesday.</p>
+      </div>,
+      authorName: 'Danny Park',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Jan 26, 2023 - 11:37 AM',
+      cover: 'https://ncx.cx/images/bitcoin-cloud.png',
+      content: <div className="blog-content">
+        <p>Bitcoin and Ether rebounded in Thursday morning trading in Asia amid broad gains in the top 10 non-stablecoin cryptocurrencies after a bout of profit-taking and mixed economic indicators sent prices lower on Wednesday. Solana, Polygon and Cardano led gains among the top 10 by market capitalization. U.S. equities were mixed overnight. Tesla beat earnings forecasts but the poor outlook from Microsoft on Wednesday and an interest rate hike expected next week kept a lid on trading.</p>
+        <h3>Fast facts</h3>
+        <ul>
+          <li>Bitcoin rose 2% to US$23,096 in the 24 hours to 8 a.m. in Hong Kong. The world’s biggest cryptocurrency by market capitalization has risen 11.66% in the seven days to date and resumed a strong run up since the start of the year after hitting a speed bump on Wednesday. Ether added 3.43% to US$1,610, up 6.36% in the same week, according to <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">CoinMarketCap data</a>.</li>
+          <li>Solana jumped 7.78% to US$24.56 to post a week-to-date growth of 17.9%. Solana recently opened pre-orders for its blockchain-focused mobile phone Solana Saga, which is expected to launch as early as Q1 this year.</li>
+          <li>Polygon added 3.85% to US$0.99 after the Fractal NFT gaming site on Wednesday said it was expanding onto the Polygon network. Cardano rose by 3.91% to US$0.37.</li>
+          <li>The total crypto market capitalization grew 2.72% to US$1.05 trillion, while trading volume saw a 12% increase to US$61.86 billion.</li>
+          <li>U.S. equity markets had a mixed day on Wednesday. The Dow Jones Industrial Average rose 0.03%, while the S&P 500 and the Nasdaq Composite both dipped almost 0.2%.</li>
+          <li>More economic indicators are out on Thursday in the U.S., including GDP, durable goods orders and jobless claims, which could provide direction to equities through the end of the week.</li>
+          <li>Members of the U.S. Federal Reserve are in a so-called blackout period before they meet next week – Jan. 31 to Feb. 1 – to decide the next move on interest rates. Analysts from CME Group predict a 99.8% chance of an increase of 25 basis points.</li>
+          <li>Last month, the Fed raised interest rates by 50-basis points to between 4.25% and 4.5%, the highest in 15 years, to try and slow the pace of inflation and a number of indicators suggest that slowdown is happening. However, some investors remain concerned about the U.S. economy, the world’s biggest, tipping into a recession.</li>
+        </ul>
+      </div>
+    },
+    {
+      id: 14,
+      title: 'Ethereum [ETH] metric sees correction: Hopes of a bull run rise',
+      slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
+      category: 'News',
+      subCategory: ['Market', 'Bitcoin', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>Bitcoin and Ether rebounded in Thursday morning trading in Asia amid broad gains in the top 10 non-stablecoin cryptocurrencies after a bout of profit-taking and mixed economic indicators sent prices lower on Wednesday.</p>
+      </div>,
+      authorName: 'Suzuki Shillsalot',
+      authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+      authorAvatar: 'https://ncx.cx/images/suzuki.jpeg',
+      authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+      createdAt: 'Jan 21, 2023 - 1:37 AM',
+      cover: 'https://ncx.cx/images/ncx-news1.png',
+      content: <div className="blog-content">
+        <p>The S&P 500 metric showed a price correction while Ethereum continued an uptrend.</p>
+        <p>Percent Supply in Profit was over 67% at press time, representing a four-month high for Ethereum.</p>
+        <p>The price of <a href="https://ambcrypto.com/?s=ethereum" target="_blank" rel="noreferrer">Ethereum [ETH]</a> rose dramatically over the last few days, which indicated a bull trend. Consequently, the recent activity of the S&P 500 metric and its correlation with crypto may provide some indication as to the same.</p>
+        <h3>Ethereum and equity prices go in opposite directions</h3>
+        <p>Recent information indicated that Ethereum’s price was trending opposite to the S&P 500. Per Santiment’s data, at press time, the price of the S&P 500 index underwent a correction following its previous rising trajectory.</p>
+        <p>When the S&P 500 (a proxy for equities) and cryptocurrency show no relationship to one another, a bull market is said to have begun.</p>
+        <img src="https://ncx.cx/images/ethereum_metrics-1.png" alt="Ethereum_metrics"/>
+        <p>The Standard & Poor’s 500 (S&P 500) measures the collective stock market performance of 500 of the largest publicly traded corporations in the United States. The index components are chosen by Standard & Poor’s, an S & P Global division, and broadly represent the U.S. stock market.</p>
+        <h3>Percent Supply in Profit hits four-month high</h3>
+        <p>Besides the stock market’s movement, the percentage of supply in profit is a leading sign of an Ethereum bull run. Over 67% of the Percent Supply was profitable, as evidenced by data from Glassnode.</p>
+        <p>The graph also showed that the present level of the Percent Supply in profit was at its highest in four months. The significance of this statistic in evaluating the Ethereum bull run is that the greater the Percent Supply in profit, the more likely a bull run is in play.</p>
+        <img src="https://ncx.cx/images/ethereum_metrics-2.png" alt="Ethereum_metrics"/>
+        <h3>MVRV shows reduced loss</h3>
+        <p>When the 365-day Market Value to Realized Value (MVRV) ratio is included, the case for a bull market becomes stronger. The MVRV ratio was roughly 6.3% at the time of writing. The current MVRV level indicated a 6% decrease in the value of <a href="https://ambcrypto.com/ethereums-latest-update-could-get-eth-holders-excited-for-2023-because/" target="_blank" rel="noreferrer">Ethereum</a>.</p>
+        <p>Though a loss, the stretch to recoup the earlier loss suggested a bull market. However, it would be a complete run when it turned the holdings in the 365-day period into profit.</p>
+        <img src="https://ncx.cx/images/ethereum_metrics-3.png" alt="Ethereum_metrics"/>
+        <h3>Ethereum remains in the overbought zone</h3>
+        <p>A daily timeframe chart of Ethereum’s price showed that it was trading near $1,550 as of this writing. The current price region represented a gain of nearly 30% at press time, as calculated using the Price Range tool.</p>
+        <p>Furthermore, Ethereum’s Relative Strength Index (RSI) readings indicated that the price was relatively stable in the overbought territory.</p>
+        <img src="https://ncx.cx/images/ethereum_metrics-4.png" alt="Ethereum_metrics"/>
+      </div>
+    },
+    {
+      id: 15,
+      title: 'S&P 500: On The Verge Of A Bullish Breakout - Week Starting Jan. 16th (Technical Analysis)',
+      slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
+      category: 'News',
+      subCategory: ['Breakout', 'graphics', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>This article is the first in what I hope will be a regular weekend series. A variety of technical analysis techniques will be used to look at probable moves for the S&P 500 (SPY) in the week ahead. No personal bias will be shown and no predictions will be made either.</p>
+      </div>,
+      authorName: 'Andrew McElroy',
+      authorurl: 'https://seekingalpha.com/author/andrew-mcelroy/?source=content_type%3Areact%7Csection%3Aauthor%7Cbutton%3Aname%7Cfirst_level_url%3Aarticle',
+      authorAvatar: 'https://ncx.cx/images/andrew_mc.png',
+      authorContent: 'Chief Analyst at Matrixtrade.com. Author of the ebook Fractal Market Mastery. Trend follower and market timer. All time frames, all instruments. Wherever I see an edge, I trade it.',
+      createdAt: 'Jan 15, 2023 - 3:32 AM',
+      cover: 'https://ncx.cx/images/ncx-news2.png',
+      content: <div className="blog-content">
+        <h3>Summary</h3>
+        <ul>
+          <li>A technical guide to the week ahead for the S&P 500.</li>
+          <li>The daily chart is breaking out of the downtrend following last week's positive CPI release.</li>
+          <li>Price is also now above the daily 200MA.</li>
+          <li>Resistance on the weekly chart still needs to be cleared.</li>
+        </ul>
+        <img src="https://ncx.cx/images/sp.png" alt="bitcoin s&p"/>
+        <p>This article is the first in what I hope will be a regular weekend series. A variety of technical analysis techniques will be used to look at probable moves for the S&P 500 (<a href="https://seekingalpha.com/symbol/SPY?hasComeFromMpArticle=false&source=content_type%253Areact%257Csection%253Amain_content%257Cbutton%253Abody_link" target="_blank" rel="noreferrer">SPY</a>) in the week ahead. No personal bias will be shown and no predictions will be made either. Rather, the market will be viewed in probable outcomes using inflection points - if it is going down, where is it likely to go? If it is going up, where is it likely to test? Likewise, if it breaks a key level to the downside, what does that tell us about the market and where is it likely to go?</p>
+        <p>The technical analysis itself will be kept fairly simple. After all, one line drawn from the early 2022 top and through the peaks has been the main technical barrier all last year and continues to be important. Tried and tested techniques such as classic patterns, trendlines, major moving averages and horizontal support form the body of the analysis. Demark systems are also used to detect exhaustion and volume profile shows additional areas of interest.</p>
+        <p>The S&P 500 chart will be analyzed on monthly, weekly and daily timeframes, then the information collated into an actionable summary at the end.</p>
+        <h3>The Market Narrative</h3>
+        <p>While the focus of this article is primarily on technical analysis, a more complete picture combines it with fundamental and sentiment studies.</p>
+        <p>Last week saw the sixth consecutive drop in inflation and there is now plenty evidence it should continue to fall. The Fed won this particular battle. However, the labor market, and particularly wage growth, remain a risk to any further shift away from the hawkish stance. For now, the message from the Fed is that rates will stay high for an extended period.</p>
+        <p>But is this warning just a bluff to keep markets from getting too bullish too quickly? The market seems to think so - the expectation is that the Fed are going to slow the pace of hikes to a halt over the coming months and then start cutting in the second half of the year.</p>
+        <p>The question next week and beyond is whether this situation merits the bullish breakout brewing on the charts. Sentiment has improved drastically in recent months and is reflected already in today's price. A Fed pivot has been a primary driver for months. What is left to continue the rally? Easing in the labor market and confirmed dovish signals from the Fed would complete the bullish narrative, but neither are going to happen next week. Personally, I wouldn't trust the rally until a weekly close above 4050.</p>
+        <h3>S&P 500 Monthly</h3>
+        <img src="https://ncx.cx/images/s&p-1.png" alt="Ethereum_metrics"/>
+        <p>The monthly chart shows the SPX trading inside the range set in December. Resistance is at the range high of 4101 and beyond that, 4325 at the high of August. Support is at December's low of 3764 and the 3491 low.</p>
+        <p>There are no exhaustion signals in either direction (using Demark methods).</p>
+        <h3>S&P 500 Weekly</h3>
+        <img src="https://ncx.cx/images/s&p-2.png" alt="Ethereum_metrics"/>
+        <p>Last week's bar closed near the highs. This gives an upside bias into early next week to at least take out last week's 4003 high.</p>
+        <p>Resistance comes in at 4048.5 at the 50ma, which will drop to around 4045 next week. There is also trendline resistance (or the neckline of an inverse head and shoulders pattern) near the same level at 4040. If this area is broken, 4101 is the next resistance, then 4203 at the large weekly gap. Support is at the 3764 pivot low and the 200ma at 3680.</p>
+        <p>Again, there are no exhaustion signals in either direction.</p>
+        <p>The trend is down (lower lows and lower highs).</p>
+        <h3>S&P 500 Daily</h3>
+        <img src="https://ncx.cx/images/s&p-3.png" alt="Ethereum_metrics"/>
+        <p>The daily chart is at a very important juncture. Friday's session closed at 3999 which was above the 200dma at 3981 and above the trendline at the same level.</p>
+        <p>Resistance has been cleared and now only comes from higher timeframe references. Initial support is at 3928 and the gap, then last Tuesday's low of 3877.</p>
+        <p>There are no exhaustion signals but a sell set up is now on bar 6. This could become active on Tuesday and Wednesday (bars 8 and 9) and suggests a pause/pullback could materialize.</p>
+        <p>The trend is neutral/up. Price is above all major MAs and the bearish trendline.</p>
+        <h3>Scenarios for Next Week</h3>
+        <strong>Bullish</strong>
+        <p>As mentioned earlier, there is a bullish bias due to the strong weekly close and the close above the daily 200ma and trendline. A test of weekly resistance at 4040-45 therefore looks likely. If this breaks, it should bring the monthly resistance of 4101 into play, with 4203 a stretched target above that.</p>
+        <strong>Bearish</strong>
+        <p>Exhaustion signals could trigger on Tuesday/Wednesday should there be a rally early in the week. Failure to break 4040-45 could flip the view bearish/neutral if it leads to a drop back under 3975-80 and the 200dma/trendline which is declining by around 3 points a day. Daily references of 3928 and 3877 could then be tested, with 3764 good weekly support and unlikely to be broken.</p>
+        <strong>Conclusion</strong>
+        <p>The S&P 500 is testing very important technical resistance and looks to be making a bullish breakout following the positive CPI report last week. One thing to note is that this is a rather obvious and closely watched move and it still needs to clear weekly resistance at 4040-45 and hold its gains to cement a bullish look.</p>
+      </div>
+    },
+    {
+      id: 16,
+      title: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
+      slug: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
+      category: 'News',
+      subCategory: ['Binanve Coin', 'BNB', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. Binance Coin [BNB] declined by 9% in the same period, dropping from $323 to $293. </p>
+      </div>,
+      authorName: 'Suzuki Shillsalot',
+      authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+      authorAvatar: 'https://ncx.cx/images/suzuki.jpeg',
+      authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+      createdAt: 'Jan 25, 2023 - 12:54 AM',
+      cover: 'https://ncx.cx/images/ncx-news6.png',
+      content: <div className="blog-content">
+        <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>
+        <p>BNB could oscillate in a range in the next few hours/days.</p>
+        <p>Short-term holders saw a sharp decline in profits after Tuesday’s sudden drop.</p>
+        <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. <a href="https://ambcrypto.com/?s=BNB" target="_blank" rel="noreferrer">Binance Coin [BNB]</a> declined by 9% in the same period, dropping from $323 to $293. </p>
+        <p>However, bulls found steady support of around $297 and launched a price recovery. At press time, BNB’s value was $303.6o and could oscillate in the range below for the next few hours/days. </p>
+        <h3>BNB remained steady at the $300 – $310 range</h3>
+        <img src="https://ncx.cx/images/bnb_steady1.png" alt="Ethereum_metrics"/>
+        <p>On the three-hour chart, the Relative Strength Index (RSI) rebounded from the 40 level and showed that buying pressure increased after dropping to the 40-mark.</p>
+        <p>In addition, the Chaikin Money Flow (CMF) was rejected at the zero mark, forcing it into an uptick on the positive side, which indicated that the BNB market was strengthening.</p>
+        <p>Therefore, BNB could oscillate between the demand zone ($293 – $300) and $310 in the next couple of hours. BNB has traded within this range since 21 January, only to witness a false breakout on 24 January. A retest of the $319 could also be likely if BTC reclaims the $23k zone.</p>
+        <p>However, BNB could drop below the demand zone if BTC breaks below $22.5k, invalidating the bias described above. But such a drop could settle on the 100-period EMA (exponential moving average) or $286.9 level.</p>
+        <p>Swing traders should therefore track RSI rejection at the 50-mark, CMF crossover, and BTC price action to minimize risk exposure.</p>
+        <h3>Short-term holders’ profits tanked and sentiment flipped into negative</h3>
+        <img src="https://ncx.cx/images/bnb_steady2.png" alt="Ethereum_metrics"/>
+        <p>According to Santiment, BNB’s 30-day MVRV (market value to realized value) dropped from 36% to 6% at press time. Short-term holders’ profit tanked by 30% as BNB’s price correction wiped out recent gains.</p>
+        <p>The price decline was also followed by an elevated negative weighted sentiment and a drop in demand in the derivatives market, as evidenced by the drop in the Funding Rate. However, the Funding Rate rested on the neutral line and any increment could boost BNB’s recovery.</p>
+        <p>Alternatively, a further drop in the Funding Rate could set BNB to retest the demand zone below $300. Moreover, the active address in the past 24 hours also dropped, but there was a slight uptick at press time. Any further increase in active addresses could boost the recovery momentum.</p>
+        <img src="https://ncx.cx/images/bnb_steady3.png" alt="Ethereum_metrics"/>
+      </div>
+    },
+    {
+      id: 17,
+      title: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
+      slug: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
+      category: 'News',
+      subCategory: ['US Stock', 'Markets', 'Economy'],
+      description: <div className="blog-desc">
+        <p>NEW YORK, Jan 26 (Reuters) - Wall Street advanced in choppy trading on Thursday as investors grappled with an onslaught of economic data and a string of mixed corporate earnings, all while eyeing the clock as it ticks down toward next week's Federal Reserve monetary policy meeting.</p>
+      </div>,
+      authorName: 'Stephen Culp',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Jan 25, 2023 - 12:54 AM',
+      cover: 'https://ncx.cx/images/ncx-news5.png',
+      content: <div className="blog-content">
+        <p>(For a Reuters live blog on U.S., UK and European stock markets, click or type LIVE/ in a news window.)</p>
+        <p>*</p>
+        <p>Tesla leads S&P, Nasdaq higher</p>
+        <p>*</p>
+        <p>Jobless claims unexpectedly dip</p>
+        <p>*</p>
+        <p>IBM announces job cuts, asset divestment</p>
+        <p>*</p>
+        <p>Chevron to bump up share buybacks</p>
+        <p>*</p>
+        <p>Indexes up: Dow 0.26%, S&P 0.60%, Nasdaq 1.08%</p>
+        <p>(New throughout; adds NEW YORK dateline; changes byline)</p>
+        <p>By Stephen Culp</p>
+        <p>NEW YORK, Jan 26 (Reuters) - Wall Street advanced in choppy trading on Thursday as investors grappled with an onslaught of economic data and a string of mixed corporate earnings, all while eyeing the clock as it ticks down toward next week's Federal Reserve monetary policy meeting.</p>
+        <p>While all three major U.S. stock indexes were green, megacap momentum stocks, buoyed by Tesla Inc's earnings beat and upbeat sales forecast, helped put the Nasdaq in the lead.</p>
+        <p>A raft of data showed the U.S. economy fared better in the fourth quarter than analysts expected, and the labor market remains tight, despite some signs of weakening demand. This is a double-edged sword for investors, as it could embolden the Fed to keep key interest rates at restrictive levels for longer.</p>
+        <p>While financial markets have largely priced in a 25 basis point rate from the central bank next Wednesday, that sentiment is not unanimous.</p>
+        <p>The data "suggests a 50-basis-point rate hike next week and 25 basis points in March, and then possibly an end to the tightening cycle," said Peter Cardillo, chief market economist at Spartan Capital Securities in New York. "I think the Fed wants to make sure that the markets don’t get ahead of themselves."</p>
+        <p>"(The Fed tightening) hasn't worked its way through the system, but you’re beginning to see cracks in consumption and inflation," Cardillo added. "I'm sure the Fed is going to take note of that."</p>
+        <p>Fourth-quarter earnings season has hit full stride, with more than one fourth of the companies in the S&P 500 having reported. Of those, 69% have beaten consensus estimates, up from 67% on Wednesday, according to Refinitiv.</p>
+        <p>Analysts now see aggregate fourth quarter earnings falling 2.7%, worse than the 1.6% year-on-year decline seen on Jan. 1, but an improvement over the 3% annual decline as of Wednesday, per Refinitiv.</p>
+        <p>The Dow Jones Industrial Average rose 87.4 points, or 0.26%, to 33,831.24, the S&P 500 gained 24 points, or 0.60%, to 4,040.22 and the Nasdaq Composite added 122.49 points, or 1.08%, to 11,435.85.</p>
+        <p>Among the 11 major sectors of the S&P 500, energy led the percentage gainers, boosted by rising crude prices due to signs of increasing demand from China.</p>
+        <p>Tesla Inc provided the most upside muscle to the S&P 500 and the Nasdaq, its shares jumping 9.4% in the wake of its earnings report.</p>
+        <p>Chevron Corp announced it would triple its budget for share buybacks, which sent the oil major's stock up 4.4%.</p>
+        <p>Among losers, IBM Corp fell 4.3% in the wake of its announcement that it would cut jobs divest some assets after falling short of its annual cash target.</p>
+        <p>Southwest Airlines Co slid 4.0% after warning of current quarter losses.</p>
+        <p>And despite forecasts of strong demand for air travel in 2023, the broader S&P 1500 Airlines index was off 1.6%.</p>
+        <p>That might have something to do with Mastercard Inc's disappointing current quarter revenue forecast, cited an expected diminishing pent-up travel demand. The consumer payments company's shares were down 1.7%.</p>
+        <p>Mastercard rival Visa Inc is due to post results after the bell, as is chip bellwether Intel Corp.</p>
+        <p>Advancing issues outnumbered declining ones on the NYSE by a 1.72-to-1 ratio; on Nasdaq, a 1.18-to-1 ratio favored advancers.</p>
+        <p>The S&P 500 posted 22 new 52-week highs and no new lows; the Nasdaq Composite recorded 89 new highs and 26 new lows (Reporting by Stephen Culp; Additional reporting by Johann M Cherian and Shreyashi Sanyal in Bengaluru; Editing by Aurora Ellis)</p>
+      </div>
+    },
   ];
   
   export default blogListdata;

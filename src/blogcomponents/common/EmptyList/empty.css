@@ -1,9 +1,13 @@
 .emptyList-wrap {
-    display: flex;
-    justify-content: center;
-  }
-  .emptyList-wrap img {
-    max-width: 250px;
-    width: 100%;
-  }
+  text-align: center;
+}
+.emptyList-wrap img {
+  max-width: 250px;
+  width: 100%;
+}
   
+.emptyList-wrap h2 {
+  font-size: 26px;
+  font-family: 'urbanist-regular';
+  line-height: 32px;
+}

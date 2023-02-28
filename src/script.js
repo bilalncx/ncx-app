@@ -80,7 +80,7 @@ $(document).ready(function() {
     var header = document.getElementById("fixed_sticky_insights");
     var sticky = header.offsetTop+550;
     function myFunction() {
-      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 2500) { // <--here
+      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3700) { // <--here
         header.classList.add("sticky");
         $("#insight_page .blog").addClass("blog-stick");
         $("#insight_page").addClass("sefeds");

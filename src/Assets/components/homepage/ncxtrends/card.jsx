@@ -10,7 +10,7 @@ const Card = ({ item }) => {
                     return (
                         <div className='trend-card' key={Val.id}>
                             <p className="trend-featured">{Val.featured}</p>
-                            <img className='trend-img' src={Val.img} alt={Val.title} />
+                            <a href={Val.seemore}><img className='trend-img' src={Val.img} alt={Val.title} /></a>
                             <div className='trend-title'>{Val.title}</div>
                             <div className='trend-bydate row'>
                                 <div className="col">

@@ -3,7 +3,8 @@ import './empty.css';
 
 const EmptyList = () => (
   <div className='emptyList-wrap'>
-    <img src='/assets/images/13525-empty.gif' alt='empty' />
+    <img src='https://ncx.cx/images/empty-folder.png' alt='empty' />
+    <h2>Not Found</h2>
   </div>
 );
 
