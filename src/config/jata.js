@@ -93,50 +93,8 @@ const blogListdata = [
           bitcoin held on the Bitcoin, Ethereum, BNB Chain and Binance Smart Chain blockchains.</p>
       </div>,
     },
-    // {
-    //   id: 3,
-    //   title: 'Bitcoin Retraces 3 Weeks of Gains as Analysts Blame Macroeconomic Turmoil',
-    //   category: 'Press',
-    //   subCategory: ['Markets', 'News', 'Reports'],
-    //   description: <div className="blog-desc">
-    //     <p>Bitcoin is holding at around $21,340 after slumping for the sixth consecutive day.</p>
-    //   </div>,
-    //   authorName: 'Jimmy He',
-    //   authorurl: 'https://www.coindesk.com/author/helene-braun/',
-    //   authorAvatar: 'https://downloads.coindesk.com/cd3/author-page/avatar-placeholder.png',
-    //   authorContent: <div>Helene is a U.S. markets reporter at CoinDesk, covering the US economy, the Fed, and bitcoin. She is a recent graduate of New York University's business and economic reporting program.</div>,
-    //   createdAt: 'Aug 20, 2022 - 1:10 AM',
-    //   cover: 'https://www.coindesk.com/resizer/eybDUdPzHvpb0rLILvXz8G29GJs=/3168x2376/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPZCHNV7SVAO3KV5G4XTPHPNJU.jpg',
-    //   content: <div className="blog-content">
-    //     <img src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/33CVXSIQNVC5FFCJRXCSN5MUDE.png" alt="bitcoin-retraces 3 weeks of gains as analysts blame macroeconomic turmoil" />
-    //     <p>Bitcoin (<a href="https://www.coindesk.com/price/bitcoin/" target="_blank" rel="noreferrer">BTC</a>) erased three weeks of gains after plunging 8.4%, its biggest single-digit decline in two months.</p>
-    //     <p>The largest cryptocurrency by market capitalization is now trading at about $21,340.</p>
-    //     <p>Two analysts with whom CoinDesk spoke said investor concerns about inflation and the likelihood of continued 
-    //       monetary hawkishness by the U.S. Federal Reserve had spurred the decline in crypto prices and other riskier assets. 
-    //       The tech-heavy Nasdaq index, whose fluctuations have largely correlated with bitcoin this year, recently fell over 2%. 
-    //       The S&P 500, which has a strong tech component, was down about 1.2%.</p>
-    //     <p>Paul McCaffery, co-head of equities for investment bank Keefe, Bruyette & Woods, noted the connection between plunging 
-    //       asset prices and Wednesday’s release of minutes from the Federal Open Market Committee’s (FOMC) July meeting showing 
-    //       the U.S. Federal Reserve continues to be concerned about inflation and might not slow the pace of <a href="https://www.coindesk.com/markets/2022/08/17/us-federal-reserve-minutes-show-more-rate-hikes-coming-concern-about-stablecoin-risks/" target="_blank" rel="noreferrer">interest rate hikes</a> 
-    //       soon. Bitcoin’s price rose last week after an encouraging Consumer Price Index (CPI) suggested the Fed could ratchet 
-    //       back its approach because of easing inflation.</p>
-    //     <p>McCaffery said crypto performance will depend on macroeconomic conditions and the ongoing development of regulation.</p>
-    //     <p>“The reality is that for now the space is highly correlated to risk assets, so price action will follow the macro 
-    //       narrative for the most part, with the additional factor of global regulatory action weighing on the sector,” McCaffery 
-    //       wrote in an email.</p>
-    //     <p>Sylvia Jablonski, Defiance ETFs co-founder, CEO and chief investment officer, also highlighted voting and non-voting 
-    //       Fed members’ vocal unease with inflation, which remains at near four-decade highs despite the recent improvement shown 
-    //       by the CPI.</p>
-    //     <p>“Crypto is now on that list of thoughtful, innovative, disruptive technologies and it's viewed as sort of high risk by 
-    //       the average retail trader,” Jablonski said. “So what happens is they get this bad news, they sort of take it in and, lo 
-    //       and behold, the price of bitcoin falls.”</p>
-    //     <p>Ether (<a href="https://www.coindesk.com/price/ethereum/" target="_blank" rel="noreferrer">ETH</a>), the second-largest crypto by market value, had risen sharply over the past month on enthusiasm about 
-    //       the expected September Ethereum protocol change known as the Merge. However, even ether recently fell to around $1,700, 
-    //       down 9.1% over the past 24 hours.</p>
-    //   </div>,
-    // },
     {
-      id: 4,
+      id: 3,
       title: 'Hong Kong Stock Exchange debuts ‘Asia’s first’ crypto futures ETFs',
       slug: 'hong-kong-stock-exchange-debuts-Asia-first-crypto-futures-etfs',
       category: 'News',
@@ -165,7 +123,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 5,
+      id: 4,
       title: 'Japan plans to ease corporate tax rates for cryptocurrency issuers',
       slug: 'japan-plans-to-ease-corporate-tax-rates-for-cryptocurrency-issuers',
       category: 'News',
@@ -195,7 +153,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 6,
+      id: 5,
       title: 'PayPal (PYPL) Integrates With MetaMask, Boosts Crypto Efforts',
       slug: 'paypal-(PYPL)-integrates-with-metaMask-boosts-crypto-efforts',
       category: 'News',
@@ -247,7 +205,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 7,
+      id: 6,
       title: 'Spike in Network Activity for Several Altcoins: Santiment Report',
       slug: 'spike-in-network-activity-for-several-altcoins-santiment-report',
       category: 'News',
@@ -276,7 +234,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 8,
+      id: 7,
       title: '13% of Americans have now held crypto: JPMorgan research',
       slug: '13%-of-americans-have-now-held-crypto-JPMorgan-research',
       category: 'News',
@@ -312,7 +270,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 9,
+      id: 8,
       title: 'DEXs see increase in trading volume as investors tread carefully around CEXes',
       slug: 'DEXs-see-increase-in-trading-volume-as-investors-tread-carefully-around-CEXes',
       category: 'Press',
@@ -348,7 +306,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 10,
+      id: 9,
       title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
       slug: 'what-does-aaves-growth-on-arbitrum-mean-for-the-current-state-of-l2s',
       category: 'Press',
@@ -383,7 +341,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 11,
+      id: 10,
       title: 'ALTCOINSSolana showing signs of life even as TVL and SOL’s price decline massively',
       slug: 'altcoinssolana-showing-signs-of-life-even-as-TVL-and-SOLs-price-decline-massively',
       category: 'News',
@@ -427,7 +385,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 12,
+      id: 11,
       title: 'These latest Avalanche developments can help AVAX climb up the ladder',
       slug: 'these-latest-avalanche-developments-can-help-avax-climb-up-the-ladder',
       category: 'News',
@@ -461,7 +419,7 @@ const blogListdata = [
       </div>,
     },
     {
-      id: 13,
+      id: 12,
       title: 'Bitcoin, Ether prices rise as crypto market stages rebound; Solana biggest gainer among top 10',
       slug: 'bitcoin-Ether-prices-rise-as-crypto-market-stages-rebound-solana-biggest-gainer-among-top-10',
       category: 'News',
@@ -491,7 +449,7 @@ const blogListdata = [
       </div>
     },
     {
-      id: 14,
+      id: 13,
       title: 'Ethereum [ETH] metric sees correction: Hopes of a bull run rise',
       slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
       category: 'News',
@@ -529,7 +487,7 @@ const blogListdata = [
       </div>
     },
     {
-      id: 15,
+      id: 14,
       title: 'S&P 500: On The Verge Of A Bullish Breakout - Week Starting Jan. 16th (Technical Analysis)',
       slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
       category: 'News',
@@ -586,7 +544,7 @@ const blogListdata = [
       </div>
     },
     {
-      id: 16,
+      id: 15,
       title: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
       slug: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
       category: 'News',
@@ -622,7 +580,7 @@ const blogListdata = [
       </div>
     },
     {
-      id: 17,
+      id: 16,
       title: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
       slug: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
       category: 'News',
@@ -669,6 +627,135 @@ const blogListdata = [
         <p>Mastercard rival Visa Inc is due to post results after the bell, as is chip bellwether Intel Corp.</p>
         <p>Advancing issues outnumbered declining ones on the NYSE by a 1.72-to-1 ratio; on Nasdaq, a 1.18-to-1 ratio favored advancers.</p>
         <p>The S&P 500 posted 22 new 52-week highs and no new lows; the Nasdaq Composite recorded 89 new highs and 26 new lows (Reporting by Stephen Culp; Additional reporting by Johann M Cherian and Shreyashi Sanyal in Bengaluru; Editing by Aurora Ellis)</p>
+      </div>
+    },
+    {
+      id: 17,
+      title: 'MarketsBitcoin, Ether fall as 2-year bond nears 15-year high',
+      slug: 'Markets: Bitcoin, Ether fall as 2-year bond nears 15-year high',
+      category: 'Market',
+      subCategory: ['Market', 'Bitcoin', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>Bitcoin and Ether fell in Wednesday morning trading in Asia along with all other top 10 non-stablecoin cryptocurrencies by market capitalization. Polygon saw the biggest drop, while BNB dropped the least.</p>
+      </div>,
+      authorName: 'Lachlan Keller',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 22, 2023 - 6:44 AM',
+      cover: 'https://ncx.cx/images/bitcoin-fall.png',
+      content: <div className="blog-content">
+        <p>Bitcoin and Ether fell in Wednesday morning trading in Asia along with all other top 10 non-stablecoin cryptocurrencies by market capitalization. Polygon saw the biggest drop, while BNB dropped the least. A series of economic data in the U.S. released on Tuesday, including earnings reports from retail giants and the rising rate of some Treasury bills, weighed down on equity markets.</p>
+        <h3>Fast facts</h3>
+        <ul>
+          <li>Bitcoin fell 1.6% in the last 24 hours to trade at US$24,442 as of 8 a.m. in Hong Kong, though it was still up 10% over the past week, <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">according to CoinMarketCap</a>. Ethereum fell 2.6% to US$1,658, rising 6.5% over the past seven days.</li>
+          <li>Polygon lost 6.1% to US$1.39, though it still booked 10% gains over the past seven days. BNB fell 1.2% to US$311.48, but was still up 5.2% for the week.</li>
+          <li>The total crypto market capitalization dropped 1.8% to US$1.11 trillion at 8 a.m. in Hong Kong. The total trading volume over the past 24 hours was up by 3.3% to US$66.70 billion.</li>
+          <li>U.S. equities closed lower on Tuesday, which was the first trading day of the week, as markets closed on Monday for President’s Day. The Dow Jones Industrial Average fell 2.1%, the S&P 500 Index dropped 2% and the Nasdaq Composite Index finished the day down 2.5%.</li>
+          <li><a href="https://www.cnbc.com/2023/02/20/stock-market-today-live-updates.html" target="_blank" rel="noreferrer">The three key indices</a> posted the biggest single-day losses since Dec. 15 as the S&P 500 cut its year-to-date gains in half while the Dow Jones wiped out almost all of its 2023 gains.</li>
+          <li>The two-year Treasury note yield rose to 4.7% on Tuesday, the highest level since 2007, while the 10-year Treasury yield climbed to 3.9%. Elevated levels in Treasury bond yields represent a larger upside risk for yields, placing downward pressure on equities.</li>
+          <li>The U.S. Federal Reserve will release the minutes from its Jan. 31 to Feb. 1 policy meeting on Wednesday, which investors will look to for hints on how the central bank may act to tackle inflation.</li>
+          <li>Retail giants Walmart Inc. and Home Depot Inc., released their holiday season earnings reports on Tuesday. Walmart’s revenue rose 7.3% to US$164 billion from the previous year, while Home Depot fell short of expectations, reporting US$35 billion in Q4 revenue. Both companies projected a challenging quarter ahead due to headwinds from supply chain shortages and ongoing inflation in the economy.</li>
+          <li>Economic <a href="https://www.reuters.com/markets/us/us-business-activity-rebounds-eight-month-high-february-sp-global-survey-2023-02-21/" target="_blank" rel="noreferrer">data released on Tuesday</a> suggested that business activity in the U.S. is expanding. The S&P Global services purchasing managers index (PMI) rose to an 8-month high of 50.5 in February, up from 46.8 in the previous month, while the manufacturing PMI rose to a four-month high of 47.8 from 46.9.</li>
+          <li>The Fed raised interest rates to the range of 4.5%-4.75% on Feb.1 to fight the inflation, the highest level since October 2007, with the latest Consumer Price Index data up 6.4% in January from a year ago, down from 6.5% in December and 7.1% in November.</li>
+          <li>Analysts at the <a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html" target="_blank" rel="noreferrer">CME Group predict</a> a roughly 75% chance that the Fed will raise rates by another 25 basis points next month.</li>
+        </ul>
+      </div>
+    },
+    {
+      id: 18,
+      title: 'Stocks moving in after-hours: Coinbase, Palo Alto Networks, Caesars, Toll Brothers',
+      slug: 'Stocks moving in after-hours: Coinbase, Palo Alto Networks, Caesars, Toll Brothers',
+      category: 'Market',
+      subCategory: ['Market', 'Bitcoin', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>Coinbase Global shares jumped after the crypto exchange’s fourth-quarter revenue of $629.1 million came in above Wall Street expectations of $581.1 million, according to data compiled by Bloomberg.</p>
+      </div>,
+      authorName: 'Ines Ferré',
+      authorurl: 'https://www.yahoo.com/author/ines-ferre',
+      authorAvatar: 'https://ncx.cx/images/Ines Ferré.png',
+      authorContent: '',
+      createdAt: 'Feb 22, 2023 - 2:25 AM',
+      cover: 'https://ncx.cx/images/stocks-moving.png',
+      content: <div className="blog-content">
+        <h3>Coinbase (COIN)</h3>
+        <p>Coinbase Global shares jumped after <a href="https://finance.yahoo.com/news/coinbase-earnings-revenue-losses-beat-expectations-as-volumes-plunge-to-cap-2022-215528339.html" target="_blank" rel="noreferrer">the crypto exchange’s fourth-quarter revenue of $629.1 million came in above Wall Street expectations of $581.1 million</a>, according to data compiled by Bloomberg .</p>
+        <p>The bar was set relatively low for Coinbase amid a sharp fall in trading volumes last quarter following a decline in crypto prices, the collapse of FTX.com, and increased regulatory scrutiny.</p>
+        <p>“Coinbase and crypto proved to be largely resilient in 2022 despite major shocks to the system,” read the company’s shareholder letter. “Idiosyncratic events throughout 2022 exacerbated already weak macro conditions.”</p>
+        <p>Coinbase slashed about 20% of its staff in January. The company says it expects a decrease in expenses of more than 30% given its reduced headcount.</p>
+        <p>Coinbase shares, which lost about two-thirds of their value over the last year, have rallied sharply since the start of 2023, up roughly 80%. The rise comes amid a resurgence in the price of Bitcoin (BTC-USD), which currently hovers above $24,300 per token.</p>
+        <h3>Palo Alto Networks (PANW)</h3>
+        <p>Palo Alto Networks’ total revenue <a href="https://finance.yahoo.com/news/palo-alto-networks-sees-strong-213114754.html" target="_blank" rel="noreferrer">for the fiscal second quarter 2023 grew 26% year over year to $1.7 billion</a>. Shares of the cybersecurity firm rallied in after hours.</p>
+        <p>"We continue to see our teams execute well in the midst of macroeconomic challenges, helping customers consolidate their security architectures," said Nikesh Arora, chairman and CEO of Palo Alto Networks said in the company’s earnings release.</p>
+        <p>Year-to-date shares of the Palo Alto-based firm are up about 20% amid an overall rise in tech equities. Cybersecurity firms held up relatively well last year compared to the rest of technology stocks, as demand for keeping networks safe grows amid rising geo-political tensions.</p>
+        <h3>Caesars Entertainment (CZR)</h3>
+        <p>Caesars Entertainment posted fourth quarter net revenue of $2.8 billion, in line with Wall Street expectations.</p>
+        <p>The gambling company’s results were positively impacted by a continued consumer shift towards spending in services and experiences, from goods.</p>
+        <p>"Our fourth quarter delivered another set of strong operating results as both our Las Vegas and Regional segments each set a new fourth quarter record for Adjusted EBITDA,” Tom Reeg, CEO of Caesars Entertainment said in the company’s earnings release.</p>
+        <h3>Toll Brothers (TOL)</h3>
+        <p>Toll Brothers <a href="https://finance.yahoo.com/news/toll-brothers-reports-fy-2023-213000282.html" target="_blank" rel="noreferrer">posted first-quarter earnings per share of $1.70 compared to $1.24 for the same period last year</a>. The home builder also gave upbeat guidance after the housing market started to slow down last year.</p>
+        <img src="https://ncx.cx/images/stocks-moving.png" alt="ncx-stocks"/>
+        <p>“Since the start of the calendar year, we have seen a marked increase in demand beyond normal seasonality as buyer confidence appears to be improving,” Douglas Yearley, Jr., chairman and CEO of Toll Brothers, said in the company's earnings release.</p>
+        <p>Toll Brothers reaffirmed its full-year 2023 guidance for an adjusted gross margin of 27% and an earnings per share range between $8.00 and $9.00.</p>
+        <p>U.S. existing home sales fell to the lowest level in more than 12 years in January, <a href="https://finance.yahoo.com/news/u-existing-home-sales-fall-150228036.html" target="_blank" rel="noreferrer">according to a report released by the National Association of Realtors</a>. However the pace of decline slowed, signaling the housing market slowdown could could soon be bottoming.</p>
+      </div>
+    },
+    {
+      id: 19,
+      title: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
+      slug: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
+      category: 'News',
+      subCategory: ['Bitcoin', 'Litecoin', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>The Bitcoin Network has recorded over 154,554 inscriptions since the launch of Bitcoin Ordinals on Jan. 21, a fork that enables digital assets to be inscribed on satoshis (sats), which is the lowest denomination of a Bitcoin.</p>
+      </div>,
+      authorName: 'Zoltan Vardai',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 21, 2023 - 7:05 AM',
+      cover: 'https://ncx.cx/images/bitcoin-inscriptions.png',
+      content: <div className="blog-content">
+        <p>The <a href="https://forkast.news/headlines/bitcoin-gains-returns-to-us25000/" target="_blank" rel="noreferrer">Bitcoin</a> Network has recorded over 154,554 inscriptions since the launch of Bitcoin Ordinals on Jan. 21, a fork that enables digital assets to be inscribed on satoshis (sats), which is the lowest denomination of a Bitcoin.</p>
+        <h3>Fast facts</h3>
+        <ul>
+          <li><a href="https://docs.ordinals.com/" target="_blank" rel="noreferrer">Ordinal Inscriptions</a> are similar to <a href="https://forkast.news/video-audio/what-else-can-you-do-with-an-nft/" target="_blank" rel="noreferrer">non-fungible tokens (NFTs)</a> on Bitcoin, as they allow users to mint images, videos, and even video games on satoshis, which benefit from the inherent immutability of the network.</li>
+          <li>The upgrade was developed in the past year by software engineer Caser Rodarmor and relies on Bitcoin’s SegWit and <a href="https://forkast.news/video-audio/taproot-unlocks-bitcoin-mintable-aims-big/" target="_blank" rel="noreferrer">Taproot</a> upgrades to function.</li>
+          <li>As interest in NFTs on proof-of-work blockchains strengthens, software engineer Anthony Guerrera launched Ordinals on the Litecoin network on Feb.19, motivated by the 22 Litecoin (US$2,066) bounty posted by pseudonymous Twitter user Indigo Nakamotoist.</li>
+          <li>Guerrera told <a href="https://decrypt.co/121789/litecoin-ordinals-inscriptions-nfts-blockchain" target="_blank" rel="noreferrer">Decrypt</a> that Litecoin was the only other blockchain that could support Ordinals because it also included Bitcoin’s SegWit and Taproot upgrades.</li>
+          <li>Bitcoin was down 0.56% in the 24 hours to 7:45 p.m. Hong Kong time, trading at US$24,686. Litecoin was down 3.76% trading at US$93.86, according to <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">CoinMarketCap</a>.</li>
+        </ul>
+      </div>
+    },
+    {
+      id: 20,
+      title: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
+      slug: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
+      category: 'Market',
+      subCategory: ['Bitcoin', 'Dollars', 'Crypto'],
+      description: <div className="blog-desc">
+        <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines.</p>
+      </div>,
+      authorName: 'Pradipta Mukherjee',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 21, 2023 - 9:15 AM',
+      cover: 'https://ncx.cx/images/pizza-bitcoin.png',
+      content: <div className="blog-content">
+        <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines. Bitcoin returned to the US$25,000 price level a day after it <a href="https://forkast.news/headlines/bitcoin-surpasses-visas-market-cap-11th-largest-asset-in-the-world/" target="_blank" rel="noreferrer">became the 11th largest asset in the world</a>, surpassing payments giant Visa’s market cap.</p>
+        <h3>Fast facts</h3>
+        <ul>
+          <li>Bitcoin (BTC) gained 1.97% to US$25,002 in 24 hours to 4 p.m. in Hong Kong, and has gained 14.79% on the week. Ether inched up 0.46% to US$1,704, gaining 13.2% over the last seven days, according to CoinMarketCap data.</li>
+          <li>“BTC repeated its March 2020 downside wicking depth below the 200-day MA (moving average),” <a href="https://twitter.com/rektcapital/status/1627011221097525248/photo/1" target="_blank" rel="noreferrer">wrote</a> pseudonymous crypto analyst Rekt Capital, adding that Bitcoin will rally once it reclaims the 200-day MA as support, which is around US$25,000.</li>
+          <li>XRP rose the most, gaining 2.37% to US$0.3998, and strengthened 7.85% on the week. Ripple Labs, which developed the Ripple payment network powered by XRP, <a href="https://twitter.com/Ripple/status/1627471853412315137?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1627471853412315137%7Ctwgr%5E01a487764bae3c39b41dde8451bbd21dfb541c8e%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fu.today%2Fripple-on-hiring-spree-as-focus-on-utility-broadens" target="_blank" rel="noreferrer">said on Monday</a> it is hiring engineers and has about <a href="https://ripple.com/careers/all-jobs/" target="_blank" rel="noreferrer">75 open positions</a>.</li>
+          <li>Solana dropped the most among top 10 non-stablecoin cryptos, by 1.78% to US$26, but gained 23.84% in the last seven days. Polygon’s Matic fell 1.46% to US$1.47, but strengthened 24.54% on the week.</li>
+          <li>Asian markets were mixed on Tuesday. The Shenzhen Component Index gained 0.12% while the Shanghai Composite strengthened by 0.49%.</li>
+          <li>“While the current macroeconomic environment may cast a shadow over global exports, and the Fed may still continue with its rate hikes, China’s domestic demand remains robust,” Jack Lee, China A-shares fund manager of Schroders, said.</li>
+          <li>Hong Kong’s <a href="https://www.hsi.com.hk/eng" target="_blank" rel="noreferrer">Hang Seng</a> Index dropped 1.71% at Tuesday’s close while Japan’s <a href="https://indexes.nikkei.co.jp/en/nkave" target="_blank" rel="noreferrer">Nikkei 225</a> lost 0.21%.</li>
+          <li>European shares declined in anticipation of Eurozone manufacturing and services activity data and the ZEW economic sentiment index. Germany’s DAX 40 retreated 0.2% while Stoxx 600 fell 0.3%.</li>
+          <li>Investors are anticipating the minutes of the meeting of U.S. Federal Reserve, which would shed light on the direction of the economy and interest rates. The central bank has been consistently increasing interest rates since last year and is expected to raise rates by 25 basis points next month. Currently, interest rates in the world’s largest economy stand at 4.5% to 4.75%, and Fed officials had earlier said that may increase to as high as 5%.</li>
+        </ul>
       </div>
     },
   ];

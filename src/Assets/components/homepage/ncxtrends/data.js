@@ -6,7 +6,7 @@ const TrendingCard = [
       by: 'https://ncx.cx/images/ncx-yahoofinance.svg',
       date: 'Jan 26, 2023 - 11:37 AM',
       featured: 'Featured',
-      seemore: 'https://ncx.cx/insights/13',
+      seemore: 'https://ncx.cx/insights/12',
       category: 'News',
     },
     {
@@ -16,7 +16,7 @@ const TrendingCard = [
       by: 'https://ncx.cx/images/ncx-newslogo.svg',
       date: 'Jan 15, 2023 - 3:32 AM',
       featured: 'Featured',
-      seemore: 'https://ncx.cx/insights/15',
+      seemore: 'https://ncx.cx/insights/14',
       category: 'NCX',
     },
     {
@@ -26,7 +26,7 @@ const TrendingCard = [
       by: 'https://ncx.cx/images/ncx-ambcrypto.svg',
       date: 'Jan 21, 2023 - 1:37 AM',
       featured: 'Featured',
-      seemore: 'https://ncx.cx/insights/14',
+      seemore: 'https://ncx.cx/insights/13',
       category: 'News',
     },
     {
@@ -36,7 +36,7 @@ const TrendingCard = [
       by: 'https://ncx.cx/images/ncx-newslogo.svg',
       date: 'Nov 25, 2022 - 12:26 PM',
       featured: 'Featured',
-      seemore: 'https://ncx.cx/insights/9',
+      seemore: 'https://ncx.cx/insights/8',
       category: 'NCX',
     },
     {
@@ -46,7 +46,7 @@ const TrendingCard = [
       by: 'https://ncx.cx/images/ncx-yahoofinance.svg',
       date: 'Jan 25, 2023 - 12:54 AM',
       featured: 'Featured',
-      seemore: 'https://ncx.cx/insights/17',
+      seemore: 'https://ncx.cx/insights/16',
       category: 'News',
     },
     {
@@ -56,7 +56,7 @@ const TrendingCard = [
       by: 'https://ncx.cx/images/ncx-newslogo.svg',
       date: 'Jan 25, 2023 - 12:54 AM',
       featured: 'Featured',
-      seemore: 'https://ncx.cx/insights/16',
+      seemore: 'https://ncx.cx/insights/15',
       category: 'NCX',
     },
   ];
