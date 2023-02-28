@@ -69,7 +69,7 @@ const blogListdata = [
       authorAvatar: 'https://www.coindesk.com/resizer/WRCkPzzL6ensJY3fMsnmdAZfy_w=/408x408/filters:quality(80):format(webp)/s3.amazonaws.com/arc-authors/coindesk/4dee834f-1c7e-4115-bedc-3e763850d5d1.jpg  ',
       authorContent: <div>Helene is a U.S. markets reporter at CoinDesk, covering the US economy, the Fed, and bitcoin. She is a recent graduate of New York University's business and economic reporting program.</div>,
       createdAt: 'Dec 7, 2022 - 6:38 PM',
-      cover: 'https://cdn01.vulcanpost.com/wp-uploads/2022/11/binance-reserves.jpg',
+      cover: 'https://ncx.cx/images/binance_bnb.png',
       content: <div className="blog-content">
         <p>Binance, the world’s largest crypto exchange by trading volume, released a new report on Wednesday from global 
           financial audit, tax and advisory firm Mazars showing that Binance's customer bitcoin (<a href="https://www.coindesk.com/price/bitcoin/" target="_blank" rel="noreferrer">BTC</a>) reserves are 
