@@ -374,7 +374,7 @@ const blogListdata = [
         <p>Furthermore, the number of unique users on the L2 protocol increased from 1.7 million to 12.16 million in the last month, according to <a href="https://arbiscan.io/chart/address" target="_blank" rel="noreferrer">Arbiscan</a>.</p>
         <img src="https://ambcrypto.com/wp-content/uploads/2022/12/Screenshot-2022-12-11-at-1.28.31-PM.png" alt="arbiscran"/>
         <h3>State of Aave on Ethereum</h3>
-        <p>The growing presence of Aave on Arbitrum had a correspondingly negative impact on Aave’s presence on the <a href="https://ambcrypto.com/category/ethereum-news/" target="_blank" rel="noreferrer"></a>Ethereum [ETH] network.</p>
+        <p>The growing presence of Aave on Arbitrum had a correspondingly negative impact on Aave’s presence on the <a href="https://ambcrypto.com/category/ethereum-news/" target="_blank" rel="noreferrer">Ethereum [ETH]</a> network.</p>
         <p>As can be seen from the image below, the volume for Aave on Ethereum decreased rapidly. Additionally, large addresses also lost interest in Aave. This was indicated by the declining top addresses holding AAVE on the network.</p>
         <p>Aave’s network growth decreased as well, thus, signifying that the number of new users transferring <a href="https://ambcrypto.com/aave-seeks-community-go-ahead-to-list-lidos-wsteth-on-its-liquidity-pool/" target="_blank" rel="noreferrer">the coin</a> for the first time on Ethereum’s network shrank.</p>
         <img src="https://ambcrypto.com/wp-content/uploads/2022/12/Aave-on-Ethereum-AAVE-13.38.02-11-Dec-2022.png" alt="santiment" />
