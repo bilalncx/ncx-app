@@ -47,6 +47,12 @@ h1.market_benefits span, .transaction_rebates .hsd13 h3 span {
     font-size: 16px;
     font-family: 'hauora-medium';
 }
+#marketmakers_page .ambassadordiv .backgrdound-video video{
+    display: block !important;
+}
+#marketmakers_page .ambassadordiv .container{
+    position: absolute;
+}
 
 @media screen and (max-width: 800px){
     #marketmakers_page .ambassadordiv {

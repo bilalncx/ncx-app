@@ -92,6 +92,22 @@ $(document).ready(function() {
     }
 });
 
+$(document).ready(function(){
+  window.onscroll = function() {myFunction()};
+    var header = document.getElementById("insight_detail");
+    var sticky = header.offsetTop+100;
+    function myFunction() {
+      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) { // <--here
+        header.classList.add("sticky-bar");
+        $("#insight_detail .leftsidebar").addClass("sticky-bar");
+        $("#insight_detail .rightsidebar").addClass("sticky-bar");
+      } else {
+        header.classList.remove("sticky-bar");
+        $("#insight_detail .leftsidebar").removeClass("sticky-bar");
+        $("#insight_detail .rightsidebar").removeClass("sticky-bar");
+      }
+    }
+});
 
 
 // ****************************************************************************

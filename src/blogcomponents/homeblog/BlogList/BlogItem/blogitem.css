@@ -125,3 +125,8 @@ a.blogItem-link svg {
 /* .blogItem-wrap:nth-child(odd) .blog-heading {
   padding: 30px 0px 50px 0px;
 } */
+
+#insight_detail .sticky-bar {
+  position: sticky;
+  top: 100px;
+}

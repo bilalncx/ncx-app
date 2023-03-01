@@ -51,72 +51,69 @@ function SupportPageSet()
                 <div className="container">
                     <div className="row">
                         <div className="col fest">
-                            <div className="ncx-trends">
-                                <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                <p>FAQs</p>
-                            </div>
-
-                            <div className="faq_nav">
-                                <a href="/faq">FAQs</a>
-                                <div className="arr_sv">
-                                    <CardArrow />
+                            <div className="support_leftbar">
+                                <div className="ncx-trends">
+                                    <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
+                                    <p>FAQs</p>
                                 </div>
-                                <p>Settings & Security</p>
+                                <div className="faq_nav">
+                                    <a href="/faq">FAQs</a>
+                                    <div className="arr_sv">
+                                        <CardArrow />
+                                    </div>
+                                    <p>Settings & Security</p>
+                                </div>
+                                <ul className="details_faqul">
+                                    <li>
+                                        <button
+                                            className={toggleState === 1 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(1)}
+                                        >
+                                        Google 2FA
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 2 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(2)}
+                                        >
+                                        Change Password
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 3 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(3)}
+                                        >
+                                        Forgot Password
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 4 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(4)}
+                                        >
+                                        Anti Phishing
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 5 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(5)}
+                                        >
+                                        Address Whitelist
+                                        </button>
+                                    </li>
+                                </ul>
+                                <h1 className="support_ticket">Open Support Ticket</h1>
+                                <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
+                                <a className="support_signin" href="#">Sign In</a>
+                                <div className="social-icons">
+                                    <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
+                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                                    <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                                </div>
                             </div>
-
-                            <ul className="details_faqul">
-                                <li>
-                                    <button
-                                        className={toggleState === 1 ? "faq-tabs active" : "faq-tabs"}
-                                        onClick={() => toggleTab(1)}
-                                    >
-                                    Google 2FA
-                                    </button>
-                                </li>
-                                <li>
-                                    <button
-                                        className={toggleState === 2 ? "faq-tabs active" : "faq-tabs"}
-                                        onClick={() => toggleTab(2)}
-                                    >
-                                    Change Password
-                                    </button>
-                                </li>
-                                <li>
-                                    <button
-                                        className={toggleState === 3 ? "faq-tabs active" : "faq-tabs"}
-                                        onClick={() => toggleTab(3)}
-                                    >
-                                    Forgot Password
-                                    </button>
-                                </li>
-                                <li>
-                                    <button
-                                        className={toggleState === 4 ? "faq-tabs active" : "faq-tabs"}
-                                        onClick={() => toggleTab(4)}
-                                    >
-                                    Anti Phishing
-                                    </button>
-                                </li>
-                                <li>
-                                    <button
-                                        className={toggleState === 5 ? "faq-tabs active" : "faq-tabs"}
-                                        onClick={() => toggleTab(5)}
-                                    >
-                                    Address Whitelist
-                                    </button>
-                                </li>
-                            </ul>
-
-                            <h1 className="support_ticket">Open Support Ticket</h1>
-                            <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                            <a className="support_signin" href="#">Sign In</a>
-
-                            <div className="social-icons">
-                                <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                                <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
-                                <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
-                            </div>
-
                         </div>
                         <div className="col sect">
                             <div className={toggleState === 1 ? "sprt-content active" : "sprt-content"}>

@@ -52,75 +52,77 @@ const Blog = () => {
 
   return (
     <>
-    <div id="BlogdetailsHeader"><MyHeader /></div>
-    <div className='blog_detailspage'>
-      <div className="container">
-        <div className="row">
-          <div className="col first">
-            <div className="leftsidebar">
-              <div className="trend">
-                <NCXLogo />
-                <h3>Insights</h3>
-              </div>
-              <ul>
-                <li><a href="https://ncx.cx/insights" alt="latest articles">Latest Articles</a></li>
-                <li><a href="https://ncx.cx/insights" alt="News & Insights">Press News</a></li>
-                <li><a href="#" alt="Press Room">Announcements</a></li>
-              </ul>
-              <SearchBar
-                value={searchKey}
-                clearSearch={handleClearSearch}
-                formSubmit={handleSearchBar}
-                handleSearchKey={(e) => setSearchKey(e.target.value)}
-              />
-              <h1>High-Yield Crypto Savings</h1>
-              <p className='left-text'>Earn a steady interest in your favorite crypto. Accrue per minute, no lockup!</p>
-              <Button className="btn01 signup">Sign Up</Button>
-              <div className="social-links">
-                <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
-                <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>
-                <a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
+    <div id="BlogdetailsHeader">
+      <MyHeader />
+      <div id="insight_detail" className='blog_detailspage'>
+        <div className="container">
+          <div className="row">
+            <div className="col first">
+              <div className="leftsidebar">
+                <div className="trend">
+                  <NCXLogo />
+                  <h3>Insights</h3>
+                </div>
+                <ul>
+                  <li><a href="https://ncx.cx/insights" alt="latest articles">Latest Articles</a></li>
+                  <li><a href="https://ncx.cx/insights" alt="News & Insights">Press News</a></li>
+                  <li><a href="#" alt="Press Room">Announcements</a></li>
+                </ul>
+                <SearchBar
+                  value={searchKey}
+                  clearSearch={handleClearSearch}
+                  formSubmit={handleSearchBar}
+                  handleSearchKey={(e) => setSearchKey(e.target.value)}
+                />
+                <h1>High-Yield Crypto Savings</h1>
+                <p className='left-text'>Earn a steady interest in your favorite crypto. Accrue per minute, no lockup!</p>
+                <Button className="btn01 signup">Sign Up</Button>
+                <div className="social-links">
+                  <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
+                  <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>
+                  <a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
+                </div>
               </div>
             </div>
-          </div>
-          <div className="col second">
-            {blog ? (
-              <div className='blog-wrap'>
-                <h1 className='blog-title'>{blog.title}</h1>
-                <p className='blog-date'>Published {blog.createdAt}</p>
-                <div className='cover-image'>
-                  <img src={blog.cover} alt='cover' />
-                </div>
-                <div className='blog-subCategory'>
-                  {blog.subCategory.map((category, i) => (
-                    <div key={i}>
-                      <Chip label={category} />
-                    </div>
-                  ))}
-                </div>
-                {blog.content}
-                <div className="author-details">
-                  <div className="profile">
-                    <img src={blog.authorAvatar} alt={blog.authorName} />
-                    <h1><a href={blog.authorurl} target="_blank">{blog.authorName}</a></h1>
+            <div className="col second">
+              {blog ? (
+                <div className='blog-wrap'>
+                  <h1 className='blog-title'>{blog.title}</h1>
+                  <p className='blog-date'>Published {blog.createdAt}</p>
+                  <div className='cover-image'>
+                    <img src={blog.cover} alt='cover' />
                   </div>
-                  <p className='author-content'>{blog.authorContent}</p>
+                  <div className='blog-subCategory'>
+                    {blog.subCategory.map((category, i) => (
+                      <div key={i}>
+                        <Chip label={category} />
+                      </div>
+                    ))}
+                  </div>
+                  {blog.content}
+                  <div className="author-details">
+                    <div className="profile">
+                      <img src={blog.authorAvatar} alt={blog.authorName} />
+                      <h1><a href={blog.authorurl} target="_blank">{blog.authorName}</a></h1>
+                    </div>
+                    <p className='author-content'>{blog.authorContent}</p>
+                  </div>
                 </div>
+                ) : (
+                <EmptyList />
+              )}
+            </div>
+            <div className="col third">
+              <div className="rightsidebar">
+                <h1>Latest Articles</h1>
+                <BlogSliders />
               </div>
-              ) : (
-              <EmptyList />
-            )}
-          </div>
-          <div className="col third">
-            <div className="rightsidebar">
-              <h1>Latest Articles</h1>
-              <BlogSliders />
             </div>
           </div>
         </div>
       </div>
+      <MyFooter />
     </div>
-    <MyFooter />
     </>
   );
 };
