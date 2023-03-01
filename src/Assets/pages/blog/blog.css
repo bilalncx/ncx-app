@@ -427,3 +427,12 @@ p.blog-date {
   box-shadow: none;
   color: #34A9FF;
 }
+#fixed_sticky_insights.blog-stick {
+  position: sticky;
+  top: 100px;
+}
+#insight_detail .sticky-bar, .leftsidebar.blog-stick, .rightsidebar.blog-stick, .support_leftbar.blog-stick,
+.support_articles.blog-stick {
+  position: sticky;
+  top: 100px;
+}

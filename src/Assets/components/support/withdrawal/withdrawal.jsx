@@ -33,7 +33,7 @@ function SupportPageSet()
 
             <SearchModal />
 
-            <div id="support_faq_details" className="details_faqs">
+            <div id="insight_page" className="details_faqs">
                 <div className="container">
                     <div className="row">
                         <div className="col fest">

@@ -77,54 +77,60 @@ $(document).ready(function() {
 
 
     window.onscroll = function() {myFunction()};
-    var header = document.getElementById("fixed_sticky_insights");
-    var sticky = header.offsetTop+550;
+    var headera = document.getElementById("insight_page");
+    var sticky = headera.offsetTop+0;
     function myFunction() {
       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 7500) { // <--here
-        header.classList.add("sticky");
-        $("#insight_page .blog").addClass("blog-stick");
-        $("#insight_page").addClass("sefeds");
+        headera.classList.add("sticky");
+        $("#fixed_sticky_insights").addClass("blog-stick");
+        $("#insight_page .col.first .leftsidebar").addClass("blog-stick");
+        $("#insight_page .col.third .rightsidebar").addClass("blog-stick");
+        $("#insight_page .support_leftbar").addClass("blog-stick");
+        $("#insight_page .support_articles").addClass("blog-stick");
       } else {
-        header.classList.remove("sticky");
-        $("#insight_page .blog").removeClass("blog-stick");
-        $("#insight_page").removeClass("sefeds");
+        headera.classList.remove("sticky");
+        $("#fixed_sticky_insights").removeClass("blog-stick");
+        $("#insight_page .col.first .leftsidebar").removeClass("blog-stick");
+        $("#insight_page .col.third .rightsidebar").removeClass("blog-stick");
+        $("#insight_page .support_leftbar").removeClass("blog-stick");
+        $("#insight_page .support_articles").removeClass("blog-stick");
       }
     }
 });
 
-$(document).ready(function(){
-  window.onscroll = function() {myFunction()};
-    var header = document.getElementById("insight_detail");
-    var sticky = header.offsetTop+100;
-    function myFunction() {
-      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) { // <--here
-        header.classList.add("sticky-bar");
-        $("#insight_detail .leftsidebar").addClass("sticky-bar");
-        $("#insight_detail .rightsidebar").addClass("sticky-bar");
-      } else {
-        header.classList.remove("sticky-bar");
-        $("#insight_detail .leftsidebar").removeClass("sticky-bar");
-        $("#insight_detail .rightsidebar").removeClass("sticky-bar");
-      }
-    }
-});
+// $(document).ready(function(){
+//   window.onscroll = function() {myFunctionB()};
+//     var header = document.getElementById("insight_detail");
+//     var sticky = header.offsetTop+100;
+//     function myFunctionB() {
+//       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) {
+//         header.classList.add("sticky-bar");
+//         $("#insight_detail .leftsidebar").addClass("sticky-bar");
+//         $("#insight_detail .rightsidebar").addClass("sticky-bar");
+//       } else {
+//         header.classList.remove("sticky-bar");
+//         $("#insight_detail .leftsidebar").removeClass("sticky-bar");
+//         $("#insight_detail .rightsidebar").removeClass("sticky-bar");
+//       }
+//     }
+// });
 
-$(document).ready(function(){
-  window.onscroll = function() {myFunction()};
-    var header = document.getElementById("support_faq_details");
-    var sticky = header.offsetTop+100;
-    function myFunction() {
-      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) { // <--here
-        header.classList.add("sticky-bar");
-        $("#support_faq_details .support_leftbar").addClass("sticky-bar");
-        $("#support_faq_details .support_articles").addClass("sticky-bar");
-      } else {
-        header.classList.remove("sticky-bar");
-        $("#support_faq_details .support_leftbar").removeClass("sticky-bar");
-        $("#support_faq_details .support_articles").removeClass("sticky-bar");
-      }
-    }
-});
+// $(document).ready(function(){
+//   window.onscroll = function() {myFunction()};
+//     var header = document.getElementById("support_faq_details");
+//     var sticky = header.offsetTop+100;
+//     function myFunction() {
+//       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) { // <--here
+//         header.classList.add("sticky-bar");
+//         $("#support_faq_details .support_leftbar").addClass("sticky-bar");
+//         $("#support_faq_details .support_articles").addClass("sticky-bar");
+//       } else {
+//         header.classList.remove("sticky-bar");
+//         $("#support_faq_details .support_leftbar").removeClass("sticky-bar");
+//         $("#support_faq_details .support_articles").removeClass("sticky-bar");
+//       }
+//     }
+// });
 
 
 // ****************************************************************************

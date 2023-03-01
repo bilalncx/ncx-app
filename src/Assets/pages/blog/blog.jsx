@@ -54,7 +54,7 @@ const Blog = () => {
     <>
     <div id="BlogdetailsHeader">
       <MyHeader />
-      <div id="insight_detail" className='blog_detailspage'>
+      <div id="insight_page" className='blog_detailspage'>
         <div className="container">
           <div className="row">
             <div className="col first">
