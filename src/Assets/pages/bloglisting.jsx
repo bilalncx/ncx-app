@@ -66,33 +66,35 @@ const Home = () => {
           </div>
         </div>
         <div id="insight_page" className="container">
-          <div id="fixed_sticky_insights" className='blog_heading'>
-            <div className="trend">
-              <NCXLogo />
-              <h3>Insights</h3>
-            </div>
-            <ul>
-              <Buttons
-                filterItem={filterItem}
-                setItem={setBlogs}
-                menuItems={menuItems}
+          <div className='blog_heading'>
+            <div id="fixed_sticky_insights" className="inner-divdixes">
+              <div className="trend">
+                <NCXLogo />
+                <h3>Insights</h3>
+              </div>
+              <ul>
+                <Buttons
+                  filterItem={filterItem}
+                  setItem={setBlogs}
+                  menuItems={menuItems}
+                />
+                {/* <li><a href="#a" alt="latest articles">Latest Articles</a></li>
+                <li><a href="#a" alt="News & Insights">Press Room</a></li>
+                <li><a href="#a" alt="Press Room">Announcements</a></li> */}
+              </ul>
+              <SearchBar
+                  value={searchKey}
+                  clearSearch={handleClearSearch}
+                  formSubmit={handleSearchBar}
+                  handleSearchKey={(e) => setSearchKey(e.target.value)}
               />
-              {/* <li><a href="#a" alt="latest articles">Latest Articles</a></li>
-              <li><a href="#a" alt="News & Insights">Press Room</a></li>
-              <li><a href="#a" alt="Press Room">Announcements</a></li> */}
-            </ul>
-            <SearchBar
-                value={searchKey}
-                clearSearch={handleClearSearch}
-                formSubmit={handleSearchBar}
-                handleSearchKey={(e) => setSearchKey(e.target.value)}
-            />
-            <div className="social-links">
-              <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
-              <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>
-              <a  href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
+              <div className="social-links">
+                <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
+                <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>
+                <a  href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
+              </div>
+              <SliderBlog />
             </div>
-            <SliderBlog />
           </div>
           <div className="blog">
             {!blogs.length ? <EmptyList /> : <BlogList blogs={blogs} />}  

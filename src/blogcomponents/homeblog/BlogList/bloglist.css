@@ -130,12 +130,12 @@ div#insight_page {
   position: relative;
 }
 div#fixed_sticky_insights.sticky {
-  position: fixed;
+  position: sticky;
   top: 100px;
 }
-#insight_page .blog.blog-stick {
+/* #insight_page .blog.blog-stick {
   margin-left: 255px;
-}
+} */
 div#insight_page.container.sefeds {
   position: relative;
   display: flex;
@@ -173,12 +173,12 @@ div#insight_page.container.sefeds {
   width: 80% !important;
   margin-top: 30px;
 }
-.blogList-wrap .blogItem-wrap {
+/* .blogList-wrap .blogItem-wrap {
   transform: rotate(-180deg);
 }
 .blogList-wrap {
   transform: rotate(180deg);
-}
+} */
 
 
 
