@@ -109,6 +109,23 @@ $(document).ready(function(){
     }
 });
 
+$(document).ready(function(){
+  window.onscroll = function() {myFunction()};
+    var header = document.getElementById("support_faq_details");
+    var sticky = header.offsetTop+100;
+    function myFunction() {
+      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) { // <--here
+        header.classList.add("sticky-bar");
+        $("#support_faq_details .support_leftbar").addClass("sticky-bar");
+        $("#support_faq_details .support_articles").addClass("sticky-bar");
+      } else {
+        header.classList.remove("sticky-bar");
+        $("#support_faq_details .support_leftbar").removeClass("sticky-bar");
+        $("#support_faq_details .support_articles").removeClass("sticky-bar");
+      }
+    }
+});
+
 
 // ****************************************************************************
 // $(document).ready(function($){

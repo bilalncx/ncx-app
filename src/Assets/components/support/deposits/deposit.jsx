@@ -29,52 +29,53 @@ function SupportPageSet()
 
             <SearchModal />
 
-            <div className="details_faqs">
+            <div id="support_faq_details" className="details_faqs">
                 <div className="container">
                     <div className="row">
                         <div className="col fest">
-                            <div className="ncx-trends">
-                                <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                <p>FAQs</p>
-                            </div>
-
-                            <div className="faq_nav">
-                                <a href="/faq">FAQs</a>
-                                <div className="arr_sv">
-                                    <CardArrow />
+                            <div className="support_leftbar">
+                                <div className="ncx-trends">
+                                    <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
+                                    <p>FAQs</p>
                                 </div>
-                                <p>Deposits</p>
+
+                                <div className="faq_nav">
+                                    <a href="/faq">FAQs</a>
+                                    <div className="arr_sv">
+                                        <CardArrow />
+                                    </div>
+                                    <p>Deposits</p>
+                                </div>
+
+                                <ul className="details_faqul">
+                                    <li>
+                                        <button
+                                            className={toggleState === 1 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(1)}
+                                        >
+                                        Deposits on Desktop
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 2 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(2)}
+                                        >
+                                        Deposits on Mobile App
+                                        </button>
+                                    </li>
+                                </ul>
+
+                                <h1 className="support_ticket">Open Support Ticket</h1>
+                                <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
+                                <a className="support_signin" href="#">Sign In</a>
+
+                                <div className="social-icons">
+                                    <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
+                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                                    <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                                </div>
                             </div>
-
-                            <ul className="details_faqul">
-                                <li>
-                                    <button
-                                        className={toggleState === 1 ? "faq-tabs active" : "faq-tabs"}
-                                        onClick={() => toggleTab(1)}
-                                    >
-                                    Deposits on Desktop
-                                    </button>
-                                </li>
-                                <li>
-                                    <button
-                                        className={toggleState === 2 ? "faq-tabs active" : "faq-tabs"}
-                                        onClick={() => toggleTab(2)}
-                                    >
-                                    Deposits on Mobile App
-                                    </button>
-                                </li>
-                            </ul>
-
-                            <h1 className="support_ticket">Open Support Ticket</h1>
-                            <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                            <a className="support_signin" href="#">Sign In</a>
-
-                            <div className="social-icons">
-                                <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                                <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
-                                <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
-                            </div>
-
                         </div>
                         <div className="col sect">
                             <div className={toggleState === 1 ? "sprt-content active" : "sprt-content"}>
