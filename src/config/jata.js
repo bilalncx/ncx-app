@@ -758,6 +758,323 @@ const blogListdata = [
         </ul>
       </div>
     },
+    {
+      id: 21,
+      title: 'Bitcoin Layer 2 Stacks Networks STX Token Spikes 50% as Ordinals Boom',
+      slug: 'Bitcoin Layer 2 Stacks Networks STX Token Spikes 50% as Ordinals Boom',
+      category: 'News',
+      subCategory: ['Bitcoin', 'Ordinal Boom', 'STX Token'],
+      description: <div className="blog-desc">
+        <p>STX, the native token of Bitcoin layer 2 Stacks Network, is surging as the recent arrival of the Ordinals protocol has unleashed a new narrative of non-fungible tokens (NFTs) and smart contracts on the Bitcoin blockchain.</p>
+      </div>,
+      authorName: 'Omkar Godbole',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 21, 2023 - 9:15 AM',
+      cover: 'https://ncx.cx/images/stx-token.webp',
+      content: <div className="blog-content">
+        <p>STX, the native token of Bitcoin layer 2 Stacks Network, is surging as the recent arrival of the <a href="https://www.coindesk.com/business/2023/02/07/the-ordinals-protocol-has-caused-a-resurgence-in-bitcoin-development/" target="_blank" rel="noreferrer">Ordinals protocol</a> has unleashed a new narrative of non-fungible tokens (NFTs) and smart contracts on the Bitcoin blockchain.</p>
+        <p>Stacks Network is a Bitcoin layer 2 for smart contracts focused on establishing the world's biggest and oldest blockchain programmable – a dominant feature of Ethereum and its competitors like Solana, which currently account for a majority of global NFT and decentralized finance (DeFi) activity.</p>
+        <p>Stacks has a separate ledger to store data outside the Bitcoin blockchain, allowing developers to build applications similar to those on Ethereum and Solana. STX, known for being the first token offering qualified by the U.S. Securities and Exchange Commission (SEC), is used to incentivize Stacks miners and participants in the <a href="https://www.coindesk.com/tech/2022/12/29/step-aside-ethereum-blockchain-project-stacks-wants-to-bring-smart-contracts-to-bitcoin/" target="_blank" rel="noreferrer">proposed</a> Stacks bitcoin (sBTC) system, which is aimed at making bitcoin fully programmable.</p>
+        <p>The token has risen nearly 50% to $0.60 in the past 24 hours, taking the month-to-date gain to 125%. Prices were quoted as high as $0.84 early Monday, the highest since May, <a href="https://www.coindesk.com/price/stacks/" target="_blank" rel="noreferrer">CoinDesk</a> data show. Meanwhile, market leader bitcoin (BTC) has risen just 6% this month.</p>
+        <p>The outsized move comes as the crypto community goes gaga over Ordinals, which went live on Jan. 21, allowing users to inscribe references to digital art into small transactions on the Bitcoin blockchain. In other words, Ordinals are like drawing artwork directly on satoshi (sats), the lowest denomination of a bitcoin, while NFTs on Ethereum are analogous to an authenticity certificate from the creator that is separate from ether.</p>
+        <p>The number of newly created Ordinals or NFTs inscribed directly into Satoshis on Bitcoin crossed the 100,000 mark last week, causing network congestion on the Bitcoin blockchain.</p>
+        <p>Per Muneeb Ali, co-founder of Stacks, the growing popularity of Ordinals would bode well for layer 2 solutions.</p>
+        <p>"Ordinals on Bitcoin L1 are complementary to Bitcoin NFTs on L2s like Stacks. Ordinals have a natural limit on the L1 scale, and L2s provide a clear scalability path," <a href="https://twitter.com/muneeb/status/1627501257324654592" target="_blank" rel="noreferrer">Ali tweeted</a> Monday. "Wallets like Xverse and & Hiro are amongst the first to release or work on Ordinals."</p>
+        <p>Activity in NFTs on Stacks has picked up in the wake of the Ordinals' rising popularity. Data from DappRadar shows trading volume on Gamma.io, a Stack-based Bitcoin NFT marketplace, has increased by more than 1,000% in the past 30 days. Meanwhile, volumes on Megapont have increased by 125%. Per data tweeted by Ali, there is an active community of artists and creators on Stacks and people have minted 650K Bitcoin NFTs on the layer 2 solution.</p>
+        <p>"Ordinals NFT on Bitcoin blockchain has been very successful, leading to a general Bitcoin NFT fever," CK Cheung, investment analyst at DeFiance Capital, said. "Stacks is a beneficiary of this as it is an L2 supporting smart contracts built on top of the Bitcoin Network. People could mint new Bitcoin NFTs on top of Stacks with a lower cost and higher speed."</p>
+        <p>Last week, the bitcoin-focused Web 3 wallet Xverse rolled out support for Ordinals. At the same time, Hiro Wallet added support for inscriptions on its testnet, with Ali describing the same as Metamask for Bitcoin.</p>
+        <p>Early this month, <a href="http://gamma.io/" target="_blank" rel="noreferrer">Gamma.io</a> unveiled a no-code creator platform for NFTs on native Bitcoin through the use of ordinals, opening doors for users to create inscriptions without having to run a full Bitcoin node or write any code. Gamma's new launch essentially made Ordinals accessible to everyone.</p>
+        <p>"Ordinals (inscriptions) are similar to NFTs, are digital assets inscribed on the smallest value of Bitcoin (satoshis). This is now opening up the use case for NFTs and merging them with the Bitcoin network security layer," Markus Thielen, head of research and strategy at crypto services provider Matrixport, said in an email while pointing to the upcoming "Building on Bitcoin Hackathon" as the <a href="https://twitter.com/clarity_lang/status/1626661763671371779" target="_blank" rel="noreferrer">key event</a> to watch out for in the short term.</p>
+        <p>The hackathon, scheduled from Feb. 24 to March 7, will have participants build their own smart contracts using Clarity, programming language for writing smart contracts on the Stacks 2.0 blockchain.</p>
+        <p>"This virtual hackathon is driving a lot of attention as Stacks uses 'Clarity,' a programming language for writing smart contracts that might be easier to learn than Solidity. The hackathon will reveal in the next two weeks if everybody can now build smart contracts without too much technical knowledge," Thielen noted.</p>
+        <p>Finally, on top of all this, STX is seemingly drawing a haven bid, according to Dubai-based crypto analyst and trader Reetika Malik.</p>
+        <p>"STX is also one of the rare tokens approved by the SEC. So in these uncertain times when the regulator is going after a lot of crypto companies, an SEC-approved token also sounds like a good thing to the market," Malik said.</p>
+      </div>
+    },
+    {
+      id: 22,
+      title: 'Bitcoin price nears $25,000 as crypto market reaches $1.17tn',
+      slug: 'Bitcoin price nears $25,000 as crypto market reaches $1.17tn',
+      category: 'News',
+      subCategory: ['Bitcoin', 'Ordinal Boom', 'STX Token'],
+      description: <div className="blog-desc">
+        <p>Bitcoin is closing in on $25,000 per coin as the entire cryptocurrency market capitalisation rose to $1.17tn.</p>
+      </div>,
+      authorName: 'Brian McGleenon',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 20, 2023 - 6:55 AM',
+      cover: 'https://ncx.cx/images/ncx-blog-22.webp',
+      content: <div className="blog-content">
+        <p>Bitcoin is closing in on $25,000 per coin as the entire <a href="https://uk.yahoo.com/topics/crypto/" target="_blank" rel="noreferrer">cryptocurrency</a> market capitalisation rose to $1.17tn.</p>
+        <p>Bitcoin (BTC-USD), the world's largest digital asset by market capitalisation was trading at $24,500 on Monday, up 12.4% in the past week.</p>
+        <p>The second largest cryptocurrency ethereum <a href="https://uk.finance.yahoo.com/quote/ETH-USD" target="_blank" rel="noreferrer">(ETH-USD)</a> stood at $1,689 as of the time of writing, up 11.7% in the last seven days.</p>
+        <p>Bitcoin shot above $25,000 late on Sunday evening UK time as Asia began the working week, revealing a positive price-movement signal.</p>
+        <p>Other cryptocurrencies such as Solana <a href="https://finance.yahoo.com/quote/SOL-USD/" target="_blank" rel="noreferrer">(SOL-USD)</a>, Polkadot <a href="https://finance.yahoo.com/quote/DOT-USD/" target="_blank" rel="noreferrer">(DOT-USD)</a>, and Polygon <a href="https://finance.yahoo.com/quote/MATIC-USD/" target="_blank" rel="noreferrer">(MATIC-USD)</a> also experienced gains, with increases of 20%, 19%, and 18.5% in the past week respectively.</p>
+        <p>Joe DiPasquale, CEO of crypto fund manager BitBull Capital, told Coindesk that $23,000 was bitcoin’s new support level, adding that the coming week would decide whether the digital asset would hit $30,000 or not.</p>
+        <p>He said: “It was critical for bitcoin to reclaim $23,000 if we were to see more upside action.</p>
+        <p>“With February coming to an end, another bullish monthly close may be what the market needs for bitcoin to test $30,000.”</p>
+        <p>On Monday morning bitcoin trader Matthew Hyland tweeted: "Bitcoin lower time frame, really hard to tell if the big breakout above $25.2k comes right here."</p>
+        <p>Hyland tweeted a chart that suggested bitcoin would drop to a low of around $22,000 before rebounding above $25,000.</p>
+        <p>Bitcoin is heading into a quiet week in terms of macroeconomic triggers that could affect the price. There are a few US data releases, such as the Personal Consumption Expenditures (PCE) Index, coming up.</p>
+        <p>All eyes are on the next Federal Open Market Committee (FOMC) meeting being held on 15 and 16 March where a decision for the next benchmark interest rate hike will be made. Futures markets are pricing in a less hawkish Federal Reserve, forecasting a 25 basis point rate hike at the meeting in March.</p>
+        </div>
+    },
+    {
+      id: 23,
+      title: 'Bitcoin dips below US$24,000 to start the trading week in Asia',
+      slug: 'Bitcoin dips below US$24,000 to start the trading week in Asia',
+      category: 'Market',
+      subCategory: ['Bitcoin', 'Trading', 'Asia'],
+      description: <div className="blog-desc">
+        <p>Bitcoin fell below US$24,000 in a mixed morning for the top 10 non-stablecoin cryptocurrencies by market capitalization on Monday in Asia. Solana posted the most gains in that list while leading memecoin Dogecoin dropped the most.</p>
+      </div>,
+      authorName: 'Lachlan Keller',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 20, 2023 - 8:39 AM',
+      cover: 'https://ncx.cx/images/ncx-blog-23.webp',
+      content: <div className="blog-content">
+        <p>Bitcoin fell below US$24,000 in a mixed morning for the top 10 non-stablecoin cryptocurrencies by market capitalization on Monday in Asia. Solana posted the most gains in that list while leading memecoin Dogecoin dropped the most.</p>
+        <h3>Fast Facts</h3>
+        <ul>
+          <li>Bitcoin fell 2.76% in the last 24 hours to trade at US$23,927 as of 9:15 a.m. in Hong Kong, but was still up 11.9% over the past week, according to CoinMarketCap. Ethereum lost 0.97% to US$1,661, and has gained 11.2% over the past seven days.</li>
+          <li>Solana was up 4.6% to US$24.62, a weekly gain of 15.6%. The network has been holding its “Build through the Bear” <a href="https://solana.com/grizzlython" target="_blank" rel="noreferrer">hackathon this month</a>, which invites community members to build on the blockchain, offering US$50,000 in USDC for the top prize. The hackathon ends on March 14.</li>
+          <li>Dogecoin fell 2% to US$0.087, but was still trading up 6.6% over the past seven days. XRP slipped 1.7% to US$0.38, though was still trading 3% higher for the past week.</li>
+          <li>The total crypto market capitalization reached US$1.13 trillion overnight, the highest since August 2022, before falling to US$1.12 trillion at 9:15 a.m. in Hong Kong. The total trading volume over the past 24 hours was up by 14.4% to US$54.9 billion.</li>
+          <li>U.S. equities had a mixed day of trading on Friday. The Dow Jones Industrial Average rose 0.4%, but the S&P 500 Index fell 0.3%, and the Nasdaq Composite Index closed the day down 0.6%. Wall Street will be closed on Monday for Presidents’ Day.</li>
+          <li>Many major U.S. retailers are slated to release their holiday season <a href="https://www.cnbc.com/2023/02/19/walmart-home-depot-earnings-preview.html" target="_blank" rel="noreferrer">earnings this week</a>, starting with Walmart Inc. and Home Depot Inc. on Tuesday.</li>
+          <li>The earning reports are set to come amid growing recessionary concerns in the U.S., as the Federal Reserve has raised interest rates from near zero to 4.5% to 4.75% to tamp down on inflation. While some have criticized the Fed for raising rates too sharply, the central bank maintains it will be able to achieve a “<a href="https://www.bloomberg.com/news/articles/2023-02-10/fed-s-harker-favors-rates-above-5-says-soft-landing-odds-grow" target="_blank" rel="noreferrer">soft landing</a>” to bring down inflation without triggering a recession.</li>
+          <li>The latest Consumer Price Index data showed that inflation was up 6.4% in January from a year ago, down from 6.5% in December and 7.1% in November.</li>
+          <li>Analysts at the <a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html" target="_blank" rel="noreferrer">CME Group predict</a> an 85% chance that the Fed will raise rates by another 25 basis points next month.</li>
+        </ul>
+        </div>
+    },
+    {
+      id: 24,
+      title: 'Bitcoin rises above US$23,000 after its first weekly ‘death cross’',
+      slug: 'Bitcoin rises above US$23,000 after its first weekly ‘death cross’',
+      category: 'Market',
+      subCategory: ['Bitcoin', 'Market wrap', 'Asia'],
+      description: <div className="blog-desc">
+        <p>Bitcoin, the world’s largest cryptocurrency by market capitalization, rose 8.86% in the week from Feb. 10 to Feb. 17, trading at US$23,764  at 7 p.m. on Friday in Hong Kong. Ether strengthened 7.86% in the same period to change hands at US$1,665.</p>
+      </div>,
+      authorName: 'Zoltan Vardai',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 17, 2023 - 5:27 AM',
+      cover: 'https://ncx.cx/images/ncx-blog-24.webp',
+      content: <div className="blog-content">
+        <p><a href="https://forkast.news/headlines/bitcoin-changes-little-as-u-s-inflation-cools/" target="_blank" rel="noreferrer">Bitcoin</a>, the world’s largest cryptocurrency by market capitalization, rose 8.86% in the week from Feb. 10 to Feb. 17, trading at US$23,764  at 7 p.m. on Friday in Hong Kong. <a href="https://forkast.news/what-is-ethereum-and-how-can-it-become-the-future-of-blockchain/" target="_blank" rel="noreferrer">Ether</a> strengthened 7.86% in the same period to change hands at US$1,665.</p>
+        <img src="https://ncx.cx/images/ncx-blog-24-1.webp" alt="ncx-blog"/>
+        <p>Bitcoin saw this week’s second-biggest gains among the 10 largest non-stablecoin cryptocurrencies, followed by Polygon’s Matic that rose 13.33% to US$1.44.</p>
+        <p>“I am expecting a slightly sideways move. The market has to calm a little before any further impulses,” wrote Aziz Kenjaev, head of partnerships at decentralized crypto derivatives exchange <a href="https://gammax.exchange/" target="_blank" rel="noreferrer">GammaX</a>, in a LinkedIn response to Forkast.</p>
+        <p>“There is massive support and a strong buy orders wall which might push Bitcoin further towards US$29,000-30,000 in early March. However, there also is a strong support zone at US$22,250. If that support withholds, we might see another impulse toward US$25,300,” wrote Kenjaev, adding that “there will be more speculations over the SEC and Paxos, so keep your newsfeed open.”</p>
+        <p>Kenjaev sees less correlation between traditional and crypto markets, as prices are mainly driven by industry developments.</p>
+        <p>“The cryptocurrency market is more focused on developments inside its own ecosystem and the connectivity of this decentralized ecosystem to the centralized one. Hence, every development related to the regulators vs crypto companies, especially U.S. regulators, does and will affect the crypto market,” wrote Kenjaev.</p>
+        <p>“Be mindful of the release, testing, deployment and adoption of central bank digital currencies (CBDCs). The major macroeconomic data I would like to see is the national debt. There has been a lot of money spent in recent years and governments will be looking to recover it,” wrote Kanjaev, adding that “the government knows that there is a good portion of funds floating in Web3.”</p>
+        <p>The global crypto market cap stood at US$1.09 trillion on Friday at 7 p.m. in Hong Kong, up 6.86% from US$1.02 trillion a week ago, according to CoinMarketCap data. Bitcoin’s US$458 billion market cap represented 42.2% of the market, while Ether accounted for 18.7%.</p>
+        <h3>Biggest Gainers</h3>
+        <p>Astar Network’s Astr token was this week’s biggest gainer among the top 100 coins by market capitalization listed on CoinMarketCap. Astar Network is a multi-chain smart contract network focused on Web3 innovation.</p>
+        <p>Astr rallied 51.72% this past week to change hands at US$0.1099 after the announcement of its partnership with Sony to launch a Web3 incubation program to support developers building Web3 projects.</p>
+        <p>Decentralized gaming developer <a href="https://treasure.lol/" target="_blank" rel="noreferrer">Treasure</a>’s Magic token was the second biggest gainer, up 44.94% to trade at US$2.18. The token started its rally on Feb. 13, after the company <a href="https://twitter.com/Treasure_DAO/status/1616558704299761664" target="_blank" rel="noreferrer">launched</a> a new Game Builders Program supported by Arbitrum to incentivize high-potential games building on Treasure, by offering developers access to open-source code as well as advisory and marketing support.</p>
+        <h3>Next Week</h3>
+        <p>For the first time in Bitcoin’s history, a “death cross” appeared on its weekly chart. This meant that the 50-week small moving average (SMA), a key technical indicator, stood below the 200-week SMA for the first time.</p>
+        <p>Kasper Vandeloock, chief executive officer of quantitative trading firm <a href="https://www.musca.capital/" target="_blank" rel="noreferrer">Musca Capital</a>, said that the death cross “gives very little input,” since it only shows that Bitcoin price performed better in the last 50 weeks compared to the last 200 weeks.</p>
+        <p>Bitcoin prices charted another significant formation, with its first “golden cross” on the daily timeframe since the beginning of the crypto bear market in November 2021. A golden cross means that the 50-day SMA is above the 200-day SMA. Historically, Bitcoin has charted multiple golden crosses in previous cycles before a sustained rally.</p>
+        <p>“A record high 66.9% of circulating BTC has not moved in over a year,” tweeted Joe Burnett, head analyst at Blockware Solutions, adding that “Bitcoin bear markets end when there are no sellers remaining, the price slowly starts drifting up due to (any) marginal buyer, and the next wave of adopters learn BTC is the least uncertain money.”</p>
+        <p>According to Kenjaev, this suggests that Bitcoin holders were more conservative. “They are waiting for the right time to sell and are hedging over the upcoming recession. The state of the global economic conditions now leads to more uncertainty than during the Covid-19 pandemic. The reason why the situation is not changing with current global developments is that investors do not see the same scenario happening. Current market conditions look risk-attractive and favorable, although it’s very early to call it the next bull run. We shall at the very least wait for improvements from regulatory bodies globally.”</p>
+        <p>“Some patterns suggest that an ideal scenario for Bitcoin would be to drop near US$19,500-19,300,” he added, hoping for “a decline to US$19,500 and a jump to US$30,000.”</p>
+        <p>On Feb. 12, Blockstream chief executive officer Adam Back <a href="https://twitter.com/adam3us/status/1624844122363244544" target="_blank" rel="noreferrer">predicted</a> that Bitcoin would exceed US$200 million in market cap, bringing BTC prices to US$10 million by 2032.</p>
+        </div>
+    },
+    {
+      id: 25,
+      title: 'Binance secretly moved $400 million from its US partner to a trading firm managed by the crypto giants boss CZ, report says',
+      slug: 'Binance secretly moved $400 million from its US partner to a trading firm managed by the crypto giants boss CZ, report says',
+      category: 'Market',
+      subCategory: ['Binance', 'Crypto Giant', 'Trading'],
+      description: <div className="blog-desc">
+        <p>Binance secretly moved $400 million from its US partner to a trading firm owned by boss Changpeng Zhao, according to Reuters.</p>
+      </div>,
+      authorName: 'George Glover',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 17, 2023 - 9:21 AM',
+      cover: 'https://ncx.cx/images/ncx-blog-25.webp',
+      content: <div className="blog-content">
+        <p>Binance sent $400 million to a supposedly independent US trading firm managed by CEO Changpeng Zhao, according to Reuters.REUTERS/Darrin Zammit Lupi</p>
+        <ul>
+          <li>Binance secretly moved $400 million from its US partner to a trading firm owned by boss Changpeng Zhao, according to Reuters.</li>
+          <li>A US-based executive called the transfers "unexpected", saying that "no one mentioned them".</li>
+          <li>It's not clear why the money was sent or if any of the funds belonged to US customers.</li>
+        </ul>
+        <p>Binance secretly moved large sums of money from its supposedly independent US partner to a company managed by the crypto giant's boss Changpeng Zhao, according to <a href="https://www.reuters.com/technology/crypto-giant-binance-moved-400-million-us-partner-firm-managed-by-ceo-zhao-2023-02-16/" target="_blank" rel="noreferrer">Reuters.</a></p>
+        <p>The publication said Thursday that Binance's US partner started transferring money to Merit Peak in 2020 and sent the trading firm over $400 million in the first quarter of 2021, citing banking records and company messages.</p>
+        <p>Merit Peak is a market-maker trading firm owned by Binance CEO Zhao, who's often referred to by his initials CZ.</p>
+        <p>Binance claims that Merit Peak and Binance's US partner Binance.US operate independently from the global exchange, which CZ co-founded in 2017.</p>
+        <p>But Binance.US executives didn't know that it had been sending money to Merit Peak and were concerned when this came to light, according to company messages seen by Reuters.</p>
+        <p>Then-CEO Catherine Coley reportedly asked a Binance executive for an explanation in late 2020, calling the transfers "unexpected" and saying that "no one mentioned them".</p>
+        <p>The Securities and Exchange Commission has previously probed ties between Binance.US, Merit Peak, and another CZ-owned trading firm called Sigma Chain AG, according to a Wall Street Journal report published in February 2022.</p>
+        <p>Binance.US did not immediately respond to Insider's request to comment.</p>
+        <p>It's not clear why the money was sent from Binance.US to Merit Peak or if any of the funds belonged to US customers.</p>
+        <p>Reuters reported in November that FTX founder <a href="https://markets.businessinsider.com/news/currencies/ftx-crash-client-funds-alameda-binance-sbf-sec-cftc-probe-2022-11?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">Sam Bankman-Fried had used at least $4 billion of customers' money to prop up Alameda Research</a>, a supposedly independent trading firm that he managed.</p>
+        <p>FTX had already filed for bankruptcy when that story broke but Bankman-Fried was subsequently arrested in the Bahamas and extradited to the US to face eight counts of fraud.</p>
+        <p>Read the original article on <a href="https://www.businessinsider.com/binance-crypto-exchange-secret-transfer-changpeng-zhao-cz-ftx-alameda-2023-2" target="_blank" rel="noreferrer">Business Insider</a></p>
+        </div>
+    },
+    {
+      id: 26,
+      title: 'Top 5 China Stocks To Buy And Watch Now',
+      slug: 'Top 5 China Stocks To Buy And Watch Now',
+      category: 'Market',
+      subCategory: ['Binance', 'Crypto Giant', 'Trading'],
+      description: <div className="blog-desc">
+        <p>China is the world's No. 2 economy and home to dozens of companies that trade in the U.S. Right now, Pinduoduo parent PDD Holdings (PDD), Canadian Solar (CSIQ), BYD (BYDDF), Tencent Holdings (TCEHY) and Baidu (BIDU) are China stocks worth watching or potentially buying.</p>
+      </div>,
+      authorName: 'ED CARSON',
+      authorurl: 'https://www.investors.com/author/carsone/',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 17, 2023 - 9:21 AM',
+      cover: 'https://ncx.cx/images/ncx-blog-26.webp',
+      content: <div className="blog-content">
+        <p>China is the world's No. 2 economy and home to dozens of companies that trade in the U.S. Right now, Pinduoduo parent PDD Holdings (<a href="https://research.investors.com/quote.aspx?symbol=PDD">PDD</a>), Canadian Solar (<a href="https://research.investors.com/quote.aspx?symbol=CSIQ" target="_blank" rel="noreferrer">CSIQ</a>), BYD (<a href="https://research.investors.com/quote.aspx?symbol=BYDDF" target="_blank" rel="noreferrer">BYDDF</a>), Tencent Holdings (<a href="https://research.investors.com/quote.aspx?symbol=TCEHY" target="_blank" rel="noreferrer">TCEHY</a>) and Baidu (<a href="https://research.investors.com/quote.aspx?symbol=BIDU" target="_blank" rel="noreferrer">BIDU</a>) are China stocks worth watching or potentially buying.</p>
+        <p>It's been a tough couple of years for Chinese stocks. The Covid pandemic, and Beijing's zero-Covid policy, have slammed the economy. Meanwhile, regulatory crackdowns vs. technology and data-centric firms such as <a href="https://www.investors.com/research/alibaba-stock-buy-now/" target="_blank" rel="noreferrer">Alibaba</a> (<a href="https://research.investors.com/quote.aspx?symbol=BABA" target="_blank" rel="noreferrer">BABA</a>), Tencent (<a href="https://research.investors.com/quote.aspx?symbol=TCEHY" target="_blank" rel="noreferrer">TCEHY</a>) and NetEase (<a href="https://research.investors.com/quote.aspx?symbol=NTES" target="_blank" rel="noreferrer">NTES</a>) have been a major headwind. The tech crackdown seems to have eased.</p>
+        <p>U.S. tensions are a concern. In recent months, the White House has barred shipments of key chip technology to China, adding to tariffs and other curbs on Chinese goods. </p>
+        <p>Meanwhile, China has rolled back Covid restrictions significantly. With an end to lockdowns and other severe controls, a massive wave of infections took hold. But investors are looking beyond to brighter days ahead. With China New Year holidays out of the way, will the Chinese economy finally rebound?</p>
+        <p>While the current top China stocks to buy or watch are dominated by e-commerce plays, don't forget EV startups such as Nio (NIO) and Li Auto (LI). Like global giant BYD (BYDDF), all are taking on Tesla (TSLA) in the world's largest EV market.</p>
+        <h3>Tencent Stock</h3>
+        <p>Tencent is China's messaging and gaming giant, with major payments exposure and with key holdings in an array of Chinese companies, including JD.com.</p>
+        <p>Earnings have declined for the past four quarters, and revenue for the past two, as a big crackdown on internet platforms and new mobile games took a toll. Earnings growth is expected to return in 2023.</p>
+        <p>JD.com stock peaked at 94.46 in February 2021, tumbling to a five-year low of 23.52 on Oct. 24, 2022. Since then shares have doubled, vaulting above moving averages</p>
+        <p>Shares hit 52.88 on Jan. 27 and have pulled back. TECHY stock has fallen below its 50-day line.</p>
+        <p>Ideally, Tencent would forge a new base after its big run.</p>
+        <p>Tencent stock is listed in Hong Kong and trades over the counter in the U.S.</p>
+        <p><a href="https://www.investors.com/news/top-china-stocks-to-buy-now/?src=A00220" target="_blank" rel="noreferrer">Continue reading</a></p>
+        </div>
+    },
+    {
+      id: 27,
+      title: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
+      slug: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
+      category: 'Market',
+      subCategory: ['Bitcoin', 'Polygon', 'Token Leads'],
+      description: <div className="blog-desc">
+        <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
+      </div>,
+      authorName: 'Tom Zuo',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 28, 2023 - 7:23 AM',
+      cover: 'https://ncx.cx/images/ncx-blog-27.webp',
+      content: <div className="blog-content">
+        <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
+        <h3>Fast Facts</h3>
+        <ul>
+          <li>Bitcoin dipped 0.23% in the past 24 hours to trade little changed at US$23,509 as of 8 a.m. in Hong Kong. The leading token is holding a seven day loss of 5.34%, according to CoinMarketCap data. Ethereum also treaded water at US$1,634, off 0.41%. The token is down 4.05% in the past seven days.</li>
+          <li>Polygon’s Matic token posed the biggest drop among the top ten cryptocurrencies by market capitalization, falling 3.63% to US$1.24, and extending its weekly loss to 16.27%. Polygon Labs, the developer of the Polygon blockchain, said last week it would lay off 20% of its workforce, which was followed by a reported <a href="https://twitter.com/sandeepnailwal/status/1628522387401482241" target="_blank" rel="noreferrer">glitch on Polygon’s network</a>.</li>
+          <li>Solana lost 2.43% to US$22.69, posting a weekly loss of 13.41%. Solana developers are <a href="https://solana.com/news/02-25-23-solana-mainnet-beta-outage-report" target="_blank" rel="noreferrer">investigating</a> a network failure on the Solana Mainet Beta last Saturday, which forced it to restart the network and downgrade it from a recent update.</li>
+          <li>Shiba Inu dropped 2.53% after analytics firm Lookonchain reported a wallet moving 182 billion Shiba Inu tokens to crypto exchanges on Monday, usually the sign of preparation for selling that can drive prices lower. Last time the same wallet transferred over 200 billion Shiba Inu in December 2022 the price fell more than 7% on the day, according to Lookonchain. The token is down 7.21% for the seven day period.</li>
+          <li>The total crypto market capitalization edged 0.15% lower to US$1.07 trillion, while the total trading volume jumped 34.55% over the past 24 hours to US$45.70 billion.</li>
+          <li>U.S. equities edged higher on Monday after last week’s tumble on concerns about indicators showing inflation remains entrenched. The Dow Jones Industrial Average rose 0.22%, the S&P 500 gained 0.31% and the Nasdaq Composite Index added 0.63%.</li>
+          <li>Janet Yellen, the U.S. Treasury Secretary, <a href="https://edition.cnn.com/2023/02/27/economy/yellen-inflation-debt-ceiling-ukraine/index.html" target="_blank" rel="noreferrer">told CNN</a> on Monday that U.S. inflation remains too high, but the economy can achieve a soft landing. She said the Federal Reserve’s attempt to curb inflation through higher interest rates while maintaining a strong labor market appears achievable.</li>
+          <li>U.S. interest rates are now between 4.5% to 4.75%, the highest since October 2007. The January <a href="https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20230201.pdf" target="_blank" rel="noreferrer">Federal Reserve</a> meeting minutes released last Wednesday showed policymakers agreed to slow down the pace of interest rate hikes, but warned the tightening cycle is not over.</li>
+          <li>The U.S. Census Bureau announced its latest monthly <a href="https://www.census.gov/manufacturing/m3/adv/pdf/durgd.pdf" target="_blank" rel="noreferrer">report</a> on durable goods on Monday, with orders for manufactured goods – excluding transportation – rising 0.7% in January, or below expectations in a sign of a slowdown in the growth that has been feeding inflation.</li>
+          <li>Analysts at the <a href="https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html" target="_blank" rel="noreferrer">CME Group</a> predict a 76.7% likelihood the Fed will raise rates by another 25 basis points in March. They also predict a 23.3% chance for a raise of 50 basis points, a decrease from 27.7% as reported on Monday.</li>
+        </ul>
+      </div>
+    },
+    {
+      id: 28,
+      title: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
+      slug: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
+      category: 'Market',
+      subCategory: ['Bitcoin', 'Polygon', 'XRP'],
+      description: <div className="blog-desc">
+        <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
+      </div>,
+      authorName: 'Pradipta Mukherjee',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 27, 2023 - 3:28 AM',
+      cover: 'https://ncx.cx/images/blog_28_ncx.webp',
+      content: <div className="blog-content">
+        <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
+        <h3>Fast Facts</h3>
+        <ul>
+          <li>Bitcoin, the biggest cryptocurrency by market capitalization, rose 1.18% to US$23,441 in the 24 hours to 4 p.m. on Monday in Hong Kong, although it dropped 4.4% on the week. Ethereum gained the most among the top 10 cryptos at 2.28% to US$1,637, but lost 3.54% in the last seven days, according to <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">CoinMarketCap data</a>.</li>
+          <li>Polygon’s Matic slipped 0.74% in 24 hours to US$1.26 and has dropped 15.74% over the past seven days. XRP fell 0.71% to US$0.3754, after posting a weekly loss of 3.9%.</li>
+          <li>The global cryptocurrency market capitalization rose 1.05% to US$1.07 trillion while total crypto market volume gained 0.57% to US$36.09 billion.</li>
+          <li>Asian equity markets ended lower on Monday, following the release of the U.S. personal consumption expenditures January price index last Friday, which rose 4.7% on the year.</li>
+          <li>The <a href="https://www.szse.cn/English/" target="_blank" rel="noreferrer">Shenzhen Component Index</a> dropped 0.73% while the Shanghai Composite slipped 0.28%.</li>
+          <li>Japan’s <a href="https://indexes.nikkei.co.jp/en/nkave" target="_blank" rel="noreferrer">Nikkei 225</a> dropped 0.11%, while South Korea’s Kospi ended the day 0.87% lower.</li>
+          <li><a href="https://www.hsi.com.hk/eng" target="_blank" rel="noreferrer">Hang Seng</a> Index slipped 0.33% after Hong Kong announced that its exports <a href="https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3211687/hong-kongs-exports-fall-367-cent-january-marking-biggest-monthly-drop-70-years" target="_blank" rel="noreferrer">dropped 36.7%</a> in January compared to a year ago. The decline in exports is the largest monthly fall in 70 years.</li>
+          <li>The U.S. Federal Reserve is expected to increase interest rates further to tackle inflation at its next meeting on Mar. 21 and 22. Currently, interest rates in the world’s largest economy are at 4.5% to 4.75%, the highest since October 2007. The central bank has said interest rates could go as high as 5% to tame inflation.</li>
+          <li>U.S. Treasury Secretary Janet Yellen <a href="https://www.reuters.com/markets/us/yellen-says-us-inflation-fight-not-straight-line-after-price-rise-data-2023-02-25/" target="_blank" rel="noreferrer">said</a> on Saturday that the fight against inflation “is not a straight line” and that more work is necessary.</li>
+        </ul>
+      </div>
+    },
+    {
+      id: 29,
+      title: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
+      slug: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
+      category: 'Market',
+      subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
+      description: <div className="blog-desc">
+        <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
+      </div>,
+      authorName: 'Pradipta Mukherjee',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 24, 2023 - 5:37 AM',
+      cover: 'https://ncx.cx/images/ncx-blog-29.webp',
+      content: <div className="blog-content">
+        <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
+        <p>The move is part of a broader plan to make FLOKI, which was originally a meme coin named after billionaire Elon Musk's pet dog, as a serious decentralized-finance (<a href="https://www.coindesk.com/learn/what-is-defi/" target="_blank" rel="noreferrer">DeFi</a>) token.</p>
+        <p>Venus provides a simple-to-use crypto asset lending and borrowing product that allows users to directly borrow against collateral at a high speed while losing less to transaction fees. It held over $800 million in locked tokens as of Friday.</p>
+        <p>Venus will be integrating FLOKI in its money-market platform, thereby allowing FLOKI holders on the BNB Chain to borrow USDT, USDC, BNB and a basket of other cryptocurrencies while using their FLOKI tokens as collateral.</p>
+        <p>This allows FLOKI token holders to easily access liquidity without having to sell their tokens.</p>
+        <p>The move is expected to benefit FLOKI holders, developers say, as they continue to build and seek strategic partnerships that ultimately benefit the token’s value.</p>
+        <p>The FLOKI integration process on Venus has started, and is expected to be completed in March. After that, FLOKI holders will be able to seamlessly lend and borrow on Venus while using their FLOKI tokens as collateral.</p>
+        <p>FLOKI has so far been one of the strongest crypto performers this year, tripling in value over a 30-day rolling period, according to CoinGecko. Interest in the tokens has heightened in recent months following a <a href="https://www.coindesk.com/markets/2023/01/30/floki-inu-dao-passes-proposal-to-burn-over-100m-worth-of-tokens/" target="_blank" rel="noreferrer">$100 million token burn</a> and a push to target Valhalla, Floki’s metaverse game, to the <a href="https://www.coindesk.com/web3/2023/02/07/shiba-inu-themed-floki-to-release-chinese-version-of-its-upcoming-valhalla-game/" target="_blank" rel="noreferrer">multibillion-dollar</a> <a href="https://www.coindesk.com/web3/2023/02/07/shiba-inu-themed-floki-to-release-chinese-version-of-its-upcoming-valhalla-game/" target="_blank" rel="noreferrer">Chinese gaming market</a>.</p>
+      </div>
+    },
+    {
+      id: 30,
+      title: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
+      slug: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
+      category: 'Market',
+      subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
+      description: <div className="blog-desc">
+        <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>
+      </div>,
+      authorName: 'Shaurya Malwa',
+      authorurl: '',
+      authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+      authorContent: '',
+      createdAt: 'Feb 23, 2023 - 2:49 PM',
+      cover: 'https://ncx.cx/images/ncx-blog-30.webp',
+      content: <div className="blog-content">
+        <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>
+        <p>Synthetix (SNX) is a protocol that enables the issuance of synthetic assets on the Ethereum blockchain – allowing users to mint, hold, and trade a wide range of derivatives – including commodities, fiat currencies, and even stocks.</p>
+        <p>The protocol holds over $450 million in locked tokens over the Ethereum and Optimism blockchains as of Thursday. It held just shy of $3 billion in total locked value (TVL) at its February 2021 record high.</p>
+        <p>Developers previously stated said that Synthetix v3 will have much more efficient architecture to allow developers to create faster, complex and more efficient decentralized financial (DeFi) applications.</p>
+        <p>V3 will allow the creation of products that offer a liquid market for any financial derivative that developers want to build, from traditional financial markets to more exotic markets such as no-loss lotteries or even wholly separate protocols.</p>
+        <p>V3 will also offer simplified staking and differentiated debt pools, allowing network stakers to supply collateral to, and receive fees from, specific asset pools without having to be exposed to every Spartan Council-supported asset.</p>
+        <p>The Spartan Council (SC) is the central governing body of the Synthetix protocol that votes on overall improvement proposals and parameter changes.</p>
+        <p>Synthetix’s native SNX tokens saw nominal price changes in the past 24 hours.</p>
+        </div>
+    },
   ];
   
   export default blogListdata;

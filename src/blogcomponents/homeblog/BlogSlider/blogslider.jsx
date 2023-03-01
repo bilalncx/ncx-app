@@ -46,7 +46,7 @@ const BlogSliderfunction = () => {
                             <Animated animationIn="fadeInRight" animationOut="fadeOut" isVisible={true}>
                             <h1>{title}</h1>
                             <p>{description}</p>
-                            <Link className='blogItem-link' to={`/blog/${id}`}>
+                            <Link className='blogItem-link' to={`/insights/${id}`}>
                                 Read More
                             </Link>
                             </Animated>
