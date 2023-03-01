@@ -531,4 +531,7 @@ a.support_signin {
         border: none !important;
         margin-top: 40px;
     }
+    #support_faqdetails #insight_page .container {
+        padding: 40px 0px !important;
+    }
 }

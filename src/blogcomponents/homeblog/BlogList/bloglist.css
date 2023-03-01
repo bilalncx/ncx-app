@@ -265,4 +265,11 @@ div#insight_page.container.sefeds {
   #fixed_sticky_insights section#slider-blog {
     display: none;
   }
+  #BlogdetailsHeader #insight_page .container {
+    padding: 0px !important;
+  }
+  #BlogdetailsHeader #insight_page .container .col.second {
+    padding: 0px !important;
+    border: none !important;
+  }
 }
