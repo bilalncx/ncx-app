@@ -308,8 +308,8 @@ p.blog-date {
 .blog-header p {
   font-size: 14px;
   line-height: 24px;
-  padding: 4px 12px;
-  border-left: 1px solid #fff;
+  padding: 4px 0px;
+  /* border-left: 1px solid #fff; */
   color: #FFFFFF;
   font-family: 'urbanist-regular';
   margin: 20px 0px;
