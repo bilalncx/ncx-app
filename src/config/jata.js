@@ -1,5 +1,349 @@
 const blogListdata = [
   {
+    id: 40,
+    title: 'Intel Plunges on Earnings Miss, Weak Guidance: ETFs in Focus',
+    slug: 'Intel Plunges on Earnings Miss, Weak Guidance: ETFs in Focus',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Intel INTC reported Q4 results after market close yesterday. The world’s largest chipmaker missed estimates for both earnings and revenues and offered a weak outlook for 2023, citing cooling demand for its chips used in personal computers.</p>
+    </div>,
+    authorName: 'Sweta Killa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 22, 2022 - 11:23 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-40.webp',
+    content: <div className="blog-content">
+      <p>Intel INTC reported Q4 results after market close yesterday. The world’s largest chipmaker missed estimates for both earnings and revenues and offered a weak outlook for 2023, citing cooling demand for its chips used in personal computers.</p>
+      <p>As such, shares of INTC plunged about 10% in after-market hours. Given this, ETFs like First Trust NASDAQ Technology Dividend Index Fund TDIV, First Trust Nasdaq Semiconductor ETF FTXL, Strive U.S. Semiconductor ETF SHOC, Pacer Data and Digital Revolution ETF TRFK, and Invesco Dow Jones Industrial Average Dividend ETF DJD having the highest allocation to the world’s biggest semiconductor maker, will be in focus.</p>
+      <h3>Q4 Earnings in Focus</h3>
+      <p>Earnings of 10 cents per share came much below the Zacks Consensus Estimate of 20 cents and the year-ago earnings of $1.09. Revenues declined 32% year over year to $14 billion and came in above the estimated $14.5 billion.</p>
+      <p>Client computing, data-center and AI, and network and edge revenues declined 36%, 33% and 1%, respectively. However, accelerated computing systems and graphics, Intel Foundry Services and Mobileye revenues were up 1%, 30% and 59%, respectively (see: all the Technology ETFs here).</p>
+      <p>The chipmaker continued to suffer from dismal PC and data-center markets. Shoppers choose to hold on to the laptops and desktops they purchased at the peak of the pandemic. According to Gartner, Q4 worldwide PC shipments declined 28.5%, the biggest decline since the firm started following shipments in the mid-1990s.</p>
+      <p>As such, Intel projects another big revenue decline for the current quarter, along with deeper-than-expected losses. Revenues are expected in the range of $10.5 billion to $11.5 billion, while loss will likely be about 15 cents per share. Both revenue and earnings per share guidance are well below the current Zacks Consensus Estimate of $14.05 billion and 26 cents per share, respectively.</p>
+      <h3>ETFs to Tap</h3>
+      <h3>First Trust NASDAQ Technology Dividend Index Fund (TDIV)</h3>
+      <p>First Trust NASDAQ Technology Dividend Index Fund provides exposure to dividend payers within the technology sector by tracking the Nasdaq Technology Dividend Index. It holds about 93 securities in its basket. Of these firms, Intel takes the second spot, making up for 7.8% of the assets. From a sector look, about 38.6% of the portfolio is dominated by semiconductors & semiconductor equipment, followed by software, and technology hardware, storage & peripherals.</p>
+      <p>First Trust NASDAQ Technology Dividend Index Fund has amassed $1.6 billion in its asset base while trading in a volume of around 125,000 shares per day. It charges 50 bps in annual fees (read: 5 Stocks Powering Nasdaq ETF to Start 2023).</p>
+      <h3>First Trust Nasdaq Semiconductor ETF (FTXL)</h3>
+      <p>First Trust Nasdaq Semiconductor ETF offers exposure to the most-liquid U.S. semiconductor securities based on volatility, value and growth by tracking the Nasdaq US Smart Semiconductor Index. FTXL holds 30 stocks in its basket, with Intel taking the second spot at 7.6% share.</p>
+      <p>First Trust Nasdaq Semiconductor ETF has accumulated $90.7 million in AUM. The average trading volume is light at around 10,000 shares and the expense ratio is 0.60%. FTXL has a Zacks ETF Rank #2 (Buy).</p>
+      <h3>Strive U.S. Semiconductor ETF (SHOC)</h3>
+      <p>Strive U.S. Semiconductor ETF seeks broad market exposure to the U.S. semiconductor sector. It follows the Solactive United States Semiconductors 30 Capped Index and holds 31 stocks in its basket, with Intel taking the third spot at 7.2% of assets.</p>
+      <p>Strive U.S. Semiconductor ETF has AUM of $16.5 million and charges 40 bps in annual fees. It trades in a volume of 11,000 shares per day on average.</p>
+      <h3>Pacer Data and Digital Revolution ETF (TRFK)</h3>
+      <p>Pacer Data and Digital Revolution ETF aims to offer investors exposure to the globally listed stocks and depositary receipts of data and digital revolution companies. It follows the Pacer Data Transmission and Communication Revolution Index, holding 83 stocks in its basket. Out of these, Nvidia is the top firm, accounting for an 11.6% share.</p>
+      <p>Pacer Data and Digital Revolution ETF debuted in the space in June and has accumulated $0.9 million in its asset base. It has an expense ratio of 0.60%. TRFK trades in a meager volume of under 100 shares per day on average.</p>
+      <h3>Invesco Dow Jones Industrial Average Dividend ETF (DJD)</h3>
+      <p>Invesco Dow Jones Industrial Average Dividend ETF offers exposure to dividend-paying companies included in the Dow Jones Industrial Average by their 12-month dividend yield over the prior 12 months. It holds 28 stocks in its basket, with Intel making up for the sixth position in the basket for 5.2% of assets (read: After Winning in 2022, What Awaits Dow Jones ETFs in 2023?).</p>
+      <p>Invesco Dow Jones Industrial Average Dividend ETF has been able to manage assets worth $298.8 million, while trading in a volume of 64,000 shares a day on average. It charges 7 bps in annual fees and has a Zacks ETF Rank #3.</p>
+      <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. <a href="https://www.zacks.com/registration/pfp/?ALERT=RPT_7BEST_YHOSYND&ADID=SYND_YAHOO_7BEST_ETFNEWSANDCOMMENTARY&cid=CS-YAHOO-FT-etf_news_and_commentary-2045511">Click to get this free report</a></p>
+    </div>
+  },
+  {
+    id: 39,
+    title: 'Semiconductor ETFs Shining Amid Mixed Numbers in Q4 Earnings',
+    slug: 'Semiconductor ETFs Shining Amid Mixed Numbers in Q4 Earnings',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The semiconductor space has been surging over the past three months on improving demand from chips suppliers, data centers, PC manufacturers, and mobile phone producers, as well as reopening in China. However, mixed quarterly results from well-known players slowed down the rally in the sector lately (read: Is the Worst Over for Semiconductor Stocks & ETFs?).</p>
+    </div>,
+    authorName: 'Sweta Killa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 22, 2022 - 11:23 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-39.webp',
+    content: <div className="blog-content">
+      <p>The semiconductor space has been surging over the past three months on improving demand from chips suppliers, data centers, PC manufacturers, and mobile phone producers, as well as reopening in China. However, mixed quarterly results from well-known players slowed down the rally in the sector lately (read: Is the Worst Over for Semiconductor Stocks & ETFs?).</p>
+      <p>While Intel INTC and Qualcomm QCOM disappointed investors, Texas Instruments TXN, Lam Research Corporation LRCX and Advanced Micro Devices AMD came up with solid earnings reports. As such, semiconductor ETFs remained strong over the past month with VanEck Vectors Semiconductor ETF SMH, iShares Semiconductor ETF SOXX, Invesco PHLX Semiconductor ETF SOXQ, Invesco Dynamic Semiconductors ETF PSI and First Trust NASDAQ Semiconductor ETF FTXL rising 12.8%, 12.7%, 12.4%, 10.4% and 8.7%, respectively.</p>
+      <p>Let’s dig into the individual performances:</p>
+      <h3>Semiconductor Earnings in Focus</h3>
+      <p>Intel, the world’s largest chipmaker, missed estimates for both earnings and revenues and offered a weak outlook for 2023, citing cooling demand for its chips used in personal computers. Earnings of 10 cents per share came much below the Zacks Consensus Estimate of 20 cents and revenues of $14 billion also came in below the estimated $14.5 billion. Intel projects another big revenue decline for the current quarter, along with deeper-than-expected losses. Revenues are expected in the range of $10.5 billion to $11.5 billion, while loss will likely be about 15 cents per share (read: Intel Plunges on Earnings Miss, Weak Guidance: ETFs in Focus).</p>
+      <p>Texas Instruments reported solid Q4 results topping our earnings estimate by 17 cents and revenue estimate by $84 million. For first-quarter 2023, the company expects revenues in the range of $4.17-$4.53 billion and earnings per share of $1.64-$1.90.</p>
+      <p>Lam Research also topped on both revenue and earnings for second-quarter fiscal 2023. Earnings per share of $10.71 strongly surpassed the Zacks Consensus Estimate by 76 cents, while revenues of $5.28 billion edged past the estimated $5.08 billion. For third-quarter fiscal 2023, the company expects revenues of $3.8 billion (+/- $300 million) and earnings per share of $6.50 (+/- 75 cents).</p>
+      <p>Advanced Micro Devices beat the Zacks Consensus Estimate on earnings by three cents and on revenues by $58 million. It expects first-quarter 2023 revenues of $5.3 billion (+/-$300 million), which indicates a year-over-year decline of 10%.</p>
+      <p>At Qualcomm, earnings per share of $2.37 for first-quarter fiscal 2023 surpassed the Zacks Consensus Estimate by a couple of cents, while revenues of $9.46 billion fell short of the estimate of $9.56 billion. The company projects revenues of $8.7-$9.5 billion and earnings per share of $2.05-$2.25 for the second quarter of fiscal 2023.</p>
+      <h3>ETFs in Focus</h3>
+      <h3>VanEck Vectors Semiconductor ETF (SMH)</h3>
+      <p>VanEck Vectors Semiconductor ETF provides exposure to 25 companies involved in semiconductor production and equipment by tracking the MVIS US Listed Semiconductor 25 Index. It has managed assets worth $7.7 billion and charges 35 bps in annual fees and expenses. The in-focus five firms account for 23.2% share in the basket.</p>
+      <p>VanEck Vectors Semiconductor ETF is heavily traded with a volume of around 3.7 million shares per day and has a Zacks ETF Rank #1 (Strong Buy) with a High risk outlook.</p>
+      <h3>iShares Semiconductor ETF (SOXX)</h3>
+      <p>iShares Semiconductor ETF follows the ICE Semiconductor Index and offers exposure to U.S. companies that design, manufacture and distribute semiconductors. It holds 30 securities in its basket, with the in-focus five firms making up for 26.6% of assets.</p>
+      <p>iShares Semiconductor ETF has amassed $7.4 billion in its asset base and trades in a volume of about 1.1 million shares a day. The product charges a fee of 35 bps a year from investors and has a Zacks ETF Rank #2 (Buy) with a High risk outlook (read: U.S.-China Aerial Conflict Intensifies: ETF Areas in Tight Spot).</p>
+      <h3>Invesco PHLX Semiconductor ETF (SOXQ)</h3>
+      <p>Invesco PHLX Semiconductor ETF tracks the PHLX Semiconductor Sector Index, holding 30 stocks in its basket. The in-focus five firms collectively make up for a combined 30.4% share in the basket.</p>
+      <p>Invesco PHLX Semiconductor ETF has accumulated $101.7 million in its asset base. It charges 19 bps in annual fees and trades in an average daily volume of 70,000 shares.</p>
+      <h3>First Trust Nasdaq Semiconductor ETF (FTXL)</h3>
+      <p>First Trust Nasdaq Semiconductor ETF offers exposure to the most-liquid U.S. semiconductor securities based on volatility, value and growth by tracking the Nasdaq US Smart Semiconductor Index. FTXL holds 30 stocks in its basket, with in-focus five firms accounting for a combined 23.1% share.</p>
+      <p>First Trust Nasdaq Semiconductor ETF has accumulated $87.1 million in AUM. The average trading volume is light at around 10,000 shares and the expense ratio is 0.60%. FTXL has a Zacks ETF Rank #2.</p>
+      <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. <a href="https://www.zacks.com/registration/pfp/?ALERT=RPT_7BEST_YHOSYND&ADID=SYND_YAHOO_7BEST_ETFNEWSANDCOMMENTARY&cid=CS-YAHOO-FT-etf_news_and_commentary-2054146" target="_blank" rel="noreferrer">Click to get this free report</a></p>
+    </div>
+  },
+  {
+    id: 38,
+    title: 'We’re not paying countries enough to save trees from deforestation. Here’s the price that would actually make a dent in climate change.',
+    slug: 'We’re not paying countries enough to save trees from deforestation. Here’s the price that would actually make a dent in climate change.',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>We’re not paying countries enough to save trees from deforestation. Here’s the price that would actually make a dent in climate change.</p>
+    </div>,
+    authorName: 'Rachel Koning Beals',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 22, 2022 - 11:23 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-38.webp',
+    content: <div className="blog-content">
+      <p>We’re not paying countries enough to save trees from deforestation. Here’s the price that would actually make a dent in climate change.</p>
+      <p>A U.N. policy arm has a price target in mind to pay industry and agriculture to stop deforestation speeding up climate change, it exclusively tells MarketWatch.</p>
+      <p><a href="https://www.marketwatch.com/story/were-not-paying-countries-enough-to-save-trees-from-deforestation-heres-the-price-that-would-actually-make-a-dent-in-climate-change-8a81140b?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 37,
+    title: 'Reminder: Capital Link’s 21st Annual Closed–End Funds & Global ETFs Forum This Thursday, October 13, 2022 At 3 West Club in New York City',
+    slug: 'Reminder: Capital Link’s 21st Annual Closed–End Funds & Global ETFs Forum This Thursday, October 13, 2022 At 3 West Club in New York City',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>NEW YORK, Oct. 11, 2022 (GLOBE NEWSWIRE) -- The 21st Annual Capital Link Closed-Ends Funds & Global ETFs Forum will take place on Thursday, October 13, 2022 at the 3 West Club in New York City from 9:00 am to 4:30 pm.</p>
+    </div>,
+    authorName: 'Capital Link',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Oct 11, 2022 - 10:17 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-37.webp',
+    content: <div className="blog-content">
+      <p>NEW YORK, Oct. 11, 2022 (GLOBE NEWSWIRE) -- The 21st Annual Capital Link Closed-Ends Funds & Global ETFs Forum will take place on Thursday, October 13, 2022 at the 3 West Club in New York City from 9:00 am to 4:30 pm.</p>
+      <p>The event is held in cooperation with the New York Stock Exchange.</p>
+      <p>This Forum has been submitted for 6 CFP CE Credits.</p>
+      <h3>REGISTRATION</h3>
+      <p>Registration is complimentary for Financial Advisors, RIAs and Institutional Investors.</p>
+      <p>To register please follow this link:</p>
+      <p><a href="http://forums.capitallink.com/cef/2022/signup.html" target="_blank" rel="noreferrer">http://forums.capitallink.com/cef/2022/signup.html</a></p>
+      <h3>AGENDA</h3>
+      <p>To view the full agenda, please follow this link:</p>
+      <p><a href="http://forums.capitallink.com/cef/2022/" target="_blank" rel="noreferrer">http://forums.capitallink.com/cef/2022/</a></p>
+      <h3>FORUM OVERVIEW</h3>
+      <p>With a 21–year track record, Capital Link’s Annual Closed–End Funds & Global ETFs Forum is the longest running investment forum with significant branding and recognition in the industry. It updates the broader investment community on the latest trends, developments and investment strategies using Closed–End Funds, BDCs, and Exchange Traded Funds.</p>
+      <p>This conference brings together financial advisors, institutional investors, RIAs, private bankers, financial planners, fund and asset managers, analysts, and financial media utilize this forum not only as a resource for sharing and evaluating the latest CEF and ETF products and trends, but also as an interactive platform for enhancing visibility and establishing the right connections.</p>
+      <p>There are seven INDUSTRY PANELS: CEF Industry Roundtable; Alternatives & Real Assets (REITs, Preferreds & Convertibles); New CEFs Brought to Market & Looking Ahead; The Use of Leverage; BDCs Roundtable – Financing America’s Growth; ETF Industry Roundtable; and Analyst Roundtable.</p>
+      <h3>KEYNOTE SPEAKER</h3>
+      <p>Jan Van Eck, President and Chief Executive Officer - Van Eck Associates Corporation will deliver the Keynote Address on “NAVIGATING THROUGH THE CHALLENGES & CAPTURING OPPORTUNITIES - Investing in an Era of Energy Transition, Inflation, Geopolitics and Cryptocurrencies”</p>
+      <h3>PARTICIPATING COMPANIES:</h3>
+      <ul>
+        <li>Abrdn (FAX)</li>
+        <li>Advent Capital Management</li>
+        <li>BlackRock (BMEZ)</li>
+        <li>BC Partners</li>
+        <li>Calamos Investments (CHY)</li>
+        <li>CLIFFORD CHANCE US LLP</li>
+        <li>Cohen & Steers (UTF)</li>
+        <li>DWS</li>
+        <li>First Eagle Investments</li>
+        <li>Fitch Ratings</li>
+        <li>Guggenheim (GOF)</li>
+        <li>Harbor Capital Advisors</li>
+        <li>KEEFE, BRUYETTE & WOODS / Stifel</li>
+        <li>Logan Ridge Finance Corporation</li>
+        <li>Morgan Stanley Wealth Management</li>
+        <li>Neuberger Berman</li>
+        <li>New Mountain Finance Corporation</li>
+        <li>New York Stock Exchange</li>
+        <h3>Forum Target Audienece</h3>
+        <p>Financial advisors, registered investment advisors, institutional investors, private bankers & wealth managers, securities analysts, retail & institutional brokers, industry specialists & analysts, financial press & media, and other qualified investors will be in attendance.</p>
+      </ul>
+    </div>
+  },
+  {
+    id: 36,
+    title: 'Housing Downturn Making Itself Felt in ETFs',
+    slug: 'Housing Downturn Making Itself Felt in ETFs',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>What a difference a year has made in the housing market. Toward the end of 2021, homebuilder exchange-traded funds and stocks were at all-time highs, as favorable interest rates, low housing inventories and COVID-19-fueled demand charged the market. Ten months later, the situation has reversed.</p>
+    </div>,
+    authorName: 'Heather Bell',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Oct 22, 2022 - 9:43 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-36.webp',
+    content: <div className="blog-content">
+      <p>What a difference a year has made in the housing market.</p>
+      <p>Toward the end of 2021, homebuilder exchange-traded funds and stocks were at all-time highs, as favorable interest rates, low housing inventories and COVID-19-fueled demand charged the market. Ten months later, the situation has reversed.</p>
+      <p>A doubling of mortgage rates, thanks to the Federal Reserve’s five interest rate hikes so far this year, has sent home loan demand into a tailspin. Demand for mortgages hit a 25-year low this month, according to the Mortgage Bankers Association. The spike in mortgage costs as inflation surges and the stock market wallows in bear territory suggests the housing market is set for a major cooldown.</p>
+      <p>Indeed, home prices fell at the fastest rate in their history in July from the previous month, according to S&P CoreLogic Case-Shiller Indices. While July prices were still higher year over year, the immediate picture appears to be turning grimmer. The National Association of Home Builders (NAHB)/Wells Fargo Housing Market Index (HMI), which measures homebuilder sentiment, is now at 38, its lowest level since 2012, and less than half its level in April.</p>
+      <h3>Significant Downturn</h3>
+      <p>Unsurprisingly, the two homebuilder ETFs have suffered steep declines and significant outflows this year. The SPDR S&P Homebuilders ETF (XHB) and the iShares U.S. Home Construction ETF (ITB) were up more than 49% in 2021, while SPY was up nearly 30%. Now the funds are down 34% and 35.5%, respectively, while SPY is down a little less than 24%.</p>
+      <p>They’ve also shrunk, with both shedding two-thirds of their assets this year. XHB currently has roughly $840 million, down from $2.5 billion at the end of 2021, while ITB stands at about $1 billion, down from $3.2 billion. Those funds have seen outflows of $959 million and $1.1 billion, respectively, so far this year.</p>
+      <p>ITB and XHB launched four months apart in 2006, shortly before the Great Financial Crisis and the last major housing disaster. From the end of June 2006 through mid-2009, XHB was down as much as 75%, while ITB slumped by nearly 85%.</p>
+      <p>The last housing crisis, however, didn’t feature record-breaking inflation. So this time around things might be even worse.</p>
+      <p>Costs for construction materials remain high even with recent moderation. That, paired with higher financing costs (with more interest rate hikes expected), is creating a double whammy for the industry, which is made worse by the falloff in demand. If the trajectory of homebuilder stocks during the last housing market meltdown is any benchmark, more declines are ahead.</p>
+      <h3>Differences Between the ETFs </h3>
+      <p>ITB has the broader portfolio, with 50 components in its index, versus 36 stocks in XHB’s index. Lately, the funds have moved in lockstep, but that difference in holdings could be more relevant going forward.</p>
+      <p>XHB has nine holdings—with a combined weight equal to nearly one-third of the index, that are not in ITB’s portfolio. None of those actually builds homes; they make things like homebuilding supplies and systems, appliances and furnishings.</p>
+      <p>In fact, only about 25% of XHB’s weight is invested in companies that actually build homes, while more than half of ITB’s weight is in those types of companies. The big question is whether that diversification from homebuilding companies will benefit XHB as much when inflation is so high and when interest rates are on an upward trajectory.</p>
+      <p>The homebuilding industry appears poised for further tough times. Investors may want to seek shelter elsewhere.</p>
+      <img src="https://ncx.cx/images/ncx-blog-36-1.webp" alt="ncx-blog" />
+    </div>
+  },
+  {
+    id: 35,
+    title: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
+    slug: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. disclosed Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
+    </div>,
+    authorName: 'Ron Day',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Nov 15, 2022 - 7:43 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-35.webp',
+    content: <div className="blog-content">
+      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. <a href="https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=117058401&type=HTML&symbol=BRK.B&companyName=Berkshire+Hathaway+Inc.&formType=13F-HR&formDescription=Quarterly+report+filed+by+institutional+managers%2C+Holdings&dateFiled=2022-11-14&CK=1067983" target="_blank" rel="noreferrer">disclosed</a> Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
+      <p>ETFs including the <a href="http://etf.com/xsd" target="_blank" rel="noreferrer">SPDR S&P Semiconductor ETF (XSD)</a>, the VanEck Semiconductor ETF (SMH) and the Invesco Dynamic Semiconductors ETF (PSI) gained more than 4% and were among the five biggest ETF movers on Tuesday. A handful of Taiwan and semiconductor funds rounded out the top 10 ETF movers.</p>
+      <p>Berkshire’s Securities and Exchange Commission filing disclosed 4.12 million shares of Taiwan Semiconductor, the world’s biggest contract chipmaker and supplier to Apple Inc., purchased in the third calendar quarter. Apple is the top holding in Berkshire’s portfolio.</p>
+      <p>The company’s shares have been among the most beaten-down in what has been a declining tech market this year. Even with today’s more than 12% gain, TSMC—as it’s also known—has dropped 32% this year, more than the 27% decline in the tech-heavy <a href="http://etf.com/qqq" target="_blank" rel="noreferrer">Invesco QQQ Trust (QQQ)</a>.</p>
+      <p>That decline may have been seen as a buying opportunity for Buffett, who, along with business partner Charlie Munger, are the world’s most famous value investors. Semiconductors are generally priced low at present: XSD’s price-to-earnings ratio of 17 times earnings falls beneath QQQ’s 22 times.</p>
+      <p>In addition to the Berkshire purchases, geopolitical tensions in the region may have taken a breather after President Joe Biden met with Chinese leader Xi Jinping in Indonesia Monday and committed to working together to solve economic and security issues.</p>
+      <p>China has promised to reunify Taiwan with the Chinese mainland, which the U.S. opposes. House Speaker Nancy Pelosi’s July trip to Taiwan in support of the country infuriated China and led the country to cut off some diplomatic channels with the U.S.</p>
+    </div>
+  },
+  {
+    id: 34,
+    title: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
+    slug: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
+    </div>,
+    authorName: 'Heather Bell',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Dec 13, 2022 - 4:43 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-34.webp',
+    content: <div className="blog-content">
+      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
+      <p>This year, the <a href="http://www.etf.com/iak" target="_blank" rel="noreferrer">iShares U.S. Insurance ETF (IAK)</a> has been one of the few stock exchange-traded funds outside of energy that handily topped broader markets like the S&P 500.</p>
+      <p>The fund is up about 12% and recently hit its all-time high. It did this in one of the worst equity market environments in years, and without exposure to energy stocks. Energy is the only major sector with positive returns year to date, while the <a href="http://etf.com/spy"></a>SPDR S&P 500 ETF Trust (SPY) has dropped 16%.</p>
+      <p>Three ETFs trading on U.S. exchanges provide exposure to insurance stocks. With 58 holdings, IAK is the broadest that covers this category in addition to being the top performer year to date. With $558 million in assets under management, it’s also the largest compared with the $525 million SPDR S&P Insurance ETF (KIE) and the $347 million Invesco KBW Property & Casualty Insurance ETF (KBWP). Those two funds are up 4.3% and 11.2%, respectively.</p>
+      <p>All but one of IAK’s top 10 holdings—including names like Chubb Corp., Progressive Corp. and MetLife Inc.—have notched positive returns during 2022, the majority of them in the double digits. The top firms in the fund have mostly reported strong earnings and revenues this year, boosting their performance in a tough market, and spurring the ETFs gains.</p>
+      <p>IAK is probably doing well for a number of reasons, one being that insurance companies do well in unstable economic times because as more or less steady companies, they aren’t affected by the downturn in the economy like other industries. They also provide essential services whose demand profile doesn’t fluctuate with economic cycles.</p>
+      <p>Rising interest rates also boost insurance companies’ “float,” the pool of money, collected as premiums, which they invest conservatively and use to make claims payments. The Federal Reserve boosting rates from around zero to 4% Monday has helped IAK’s companies, and with more hikes expected this year and next, the insurance industry may be positioned well for strong profits for some time.</p>
+      <p>So far this year, IAK has seen strong inflows, gaining $422.3 million year to date, while KBWP pulled in $248.5 million, and KIE—a broadly based insurance fund like IAK—gained just $62.8 million. With more room to run, those funds could pull in even more.</p>
+      <h3>An Analyst’s View</h3>
+      <p>The Deloitte Center for Financial Services’ report on its 2023 outlook the insurance industry in September 2022 noted that while insurers are “facing a host of macroeconomic and geopolitical challenges,” they exhibited agility during the pandemic in terms of adopting remote work and adapting to customer needs.</p>
+      <p>They should continue to maintain that momentum, Deloitte advises, by investing in technology and their workforce while focusing on innovation and their customers.</p>
+      <p>The report also notes that ESG considerations will become increasingly important to stakeholders, and that those could be major differentiators in competing within the insurance peer group. The firm declined to comment further when contacted.</p>
+      <p>Deloitte U.S. Insurance Leader Karl Hersch said in a video in its outlook that the sector is at a “post-pandemic inflection point” during which it could “reset the narrative” around it.</p>
+      <p>While the report cites inflation as cutting into profitability, it notes several opportunities for growth. Those include small businesses, in particular when it comes to cybersecurity-related mishaps.</p>
+      <p>The push toward green energy could result in $125 billion in spending on such matters projected by 2030. In the digital realm, including cryptocurrency, NFTs and the metaverse, the report notes that only 17% of related assets are insured.</p>
+    </div>
+  },
+  {
+    id: 33,
+    title: 'Steel ETF Surged as Market Tumbled',
+    slug: 'Steel ETF Surged as Market Tumbled',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>One of last year’s top-performing equity exchange-traded funds, the VanEck Steel ETF (SLX), stealthily outperformed broader markets. After 2022’s 14% gain, investors may wonder, can it do so again?</p>
+    </div>,
+    authorName: 'Heather Bell',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Jan 6, 2023 - 9:03 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-33.webp',
+    content: <div className="blog-content">
+      <p>One of last year’s top-performing equity exchange-traded funds, the <a href="http://www.etf.com/slx" target="_blank" rel="noreferrer">VanEck Steel ETF (SLX)</a>, stealthily outperformed broader markets. After 2022’s 14% gain, investors may wonder, can it do so again?</p>
+      <p>The ETF is the only one covering steel specifically, investing in global steel producers. It manages $101.3 million in assets, only one-fourth of what it managed in 2008. Still, SLX is about the only way to access the performance of steel directly.</p>
+      <p>Those outflows may seem surprising. SLX has performed well in in previous years, with three-and five-year annualized returns of 21.2% and 10.2%, respectively. Still, it’s lost nearly $19 million last year despite its positive performance and its indirect exposure to a key global commodity.</p>
+      <p>Although nearly half of the portfolio is invested in U.S. equities, the fund also offers exposure to countries like Brazil (19.4%), the U.K. (10.7%) and Italy (5.6%). Top holdings include Rio Tinto plc (12.4%), Vale, S.A. (12.1%) and Nucor Corp. (6.8%).</p>
+      <p>SLX’s liquidity isn’t great, with FactSet rating it at the lowest end of its scale, but SLX’s volumes and spreads are within the normal range relative to other similarly sized equity funds. It’s also not likely to close given it has more than $100 million in assets and has been trading for more than 14 years. Its 0.55% expense ratio is at the low end for a specialty equity ETF.</p>
+      <p>It should also be noted that SLX has a dividend yield for the past 12 months of 4.26% versus 1.65% for the <a href="http://www.etf.com/spy" target="_blank" rel="noreferrer">SPDR S&P 500 ETF Trust (SPY)</a>.</p>
+      <h3>What’s Ahead for Steel</h3>
+      <p>Steel price gains may be fairly muted this year after having been driven up by supply chain disruptions and the Russia-Ukraine war, but nothing too extreme in either direction, according to Christos Rigoutsos, a senior economist with S&P Global.</p>
+      <p>“It's not a matter of weakness in pricing—it's the fact that prices will tend [toward] normal rather than actually being weak or lower than that,” he told ETF.com, pointing out that steel prices over the past year have been “sky high” and that the situation is simply normalizing.</p>
+      <p>He notes that steel producers will idle production when surpluses of the commodity build up. Add that to the fact that prices are already only slightly above cost, there’s not much downside, according to Rigoutsos. However, he also emphasizes steel is not recession-proof, as manufacturing tends to fall off in that kind of environment.</p>
+      <p>Given all that, there may be some upside remaining for SLX, while a similar level of outperformance is unlikely to continue very far into 2023. However, its specific focus and global nature could provide additional diversification to a portfolio with little added risk.</p>
+      <p>With recession fears high, a fund focused on companies producing a crucial commodity could be seen as an attractive prospect.</p>
+      </div>
+  },
+  {
+    id: 32,
+    title: 'TU.S. stock futures rise as data shows Chinese economy bouncing back',
+    slug: 'U.S. stock futures rise as data shows Chinese economy bouncing back',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'Chinese'],
+    description: <div className="blog-desc">
+      <p>U.S. stock index futures rose on Wednesday as traders began the new month on a more optimistic note following signs of a recovery in the Chinese economy.</p>
+    </div>,
+    authorName: 'Jamie Chisholm',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 7:23 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-32.webp',
+    content: <div className="blog-content">
+      <p>U.S. stock index futures rose on Wednesday as traders began the new month on a more optimistic note following signs of a recovery in the Chinese economy.</p>
+      <h3>How are stock-index futures trading</h3>
+      <ul>
+        <li>S&P 500 futures ES00, -0.36% rose 9 points, or 0.2%, to 3985</li>
+        <li>Dow Jones Industrial Average futures YM00, -0.28% gained 54 points, or 0.2%, to 32736</li>
+        <li>Nasdaq 100 futures NQ00, -0.37% advanced 42 points, or 0.3%, to 12114</li>
+      </ul>
+      <p>On Tuesday, the Dow Jones Industrial Average DJIA, -0.71% fell 232 points, or 0.71%, to 32657, the S&P 500 SPX, -0.30% declined 12 points, or 0.3%, to 3970, and the Nasdaq Composite COMP, -0.10% dropped 11 points, or 0.1%, to 11456. The Dow Jones Industrial Average fell 4.2% in February and is now down 1.5% for 2023.</p>
+      <p><a href="https://www.marketwatch.com/story/u-s-stock-futures-rise-as-data-shows-chinese-economy-bouncing-back-a56018b0?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 31,
+    title: 'There is still a ‘delta’ between what the market is pricing in amid rate hikes, strategist says',
+    slug: 'There is still a ‘delta’ between what the market is pricing in amid rate hikes, strategist says',
+    category: 'Crypto',
+    subCategory: ['Market', 'Polygon', 'Strategy'],
+    description: <div className="blog-desc">
+      <p>Allianz Investment Management Head ETF Market Strategist Johan Grahn sits down with Yahoo Finance Live to discuss volatility and market performances amid inflation and the Fed's interest rate hike cycle.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/yahoo-fi.webp',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 7:23 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-31.jpg',
+    content: <div className="blog-content">
+      <p>Allianz Investment Management Head ETF Market Strategist Johan Grahn sits down with Yahoo Finance Live to discuss volatility and market performances amid inflation and the Fed's interest rate hike cycle.</p>
+      <h3>Video Transcript</h3>
+      <p>DAVE BRIGGS: All right, welcome back to "Yahoo Finance Live." We're going to check on the markets with just a bit before trading closes. Let's see, the Dow falling now 222 points, and check out the S&P and the NASDAQ hovering around the level point. Down just a bit on the S&P, and the NASDAQ just barely in the positive.</p>
+      <p>What is ahead for this economy and equities? Let's talk about all of it with Johan Grahn, Allianz Investment Management head ETF market strategist. Nice to see you, sir. Seems like the markets, relatively speaking, holding their breath. What could be the next catalyst around the corner?</p>
+      <p>JOHAN GRAHN: Well, Dave, it's good to see you. Thank you.</p>
+      <p>Catalysts? There could be all kinds of catalysts around the corner for you just lurking in the background here. The one thing that we've seen is that we have an environment of increased volatility. And even if it's been coming down a little bit this past week, we're still in a pretty high-volatility environment by historical standards, so to speak.</p>
+      <p>So basically it tells you that all the known factors are baked in and that the known factors are bound to swing one way or another, or something new will pop up at any point in time. So it's a good question with a very weak answer for you because it could be a myriad of things.</p>
+      <p>SEANA SMITH: Well, Johan, when you take into account what's happening today, where we are at current levels here, I think a lot of people are trying to figure out how exactly to play this market given all of that uncertainty that you were just talking about. So what's your advice to those who are trying to decide what now is-- I guess what is best to do right now?</p>
+      <p>JOHAN GRAHN: Yeah, it really depends on what kind of time you have. And I mean, frankly, most of the assets are sitting in retirement accounts, as you know. So it's really those investors and Americans that have the least amount of time left in their investing careers, so to speak.</p>
+      <p>And what it leads to is a fight against this wealth destruction that the Fed has set out to navigate for us, if you will. And what it comes down to is that you have to be more conservative. You've got to think about how you can keep that wealth as opposed to rallying for the highest potential return.</p>
+      <p>And there are various ways you can do it, and I think one of the benefits of the current environment, even though it's a silver lining given the volatility that we're in, is that when you look at this market with higher equity volatility and also higher fixed-income volatility, higher rates, it gives you an opportunity to invest in structured products where you can actually set the definition of what you're looking for, and it gives you more upside given the unit of risk that you're mitigating on the downside in an environment like this.</p>
+      <p>DAVE BRIGGS: Johan, many just feel that the 10 year is really in control and closing their eyes to the equities right now to the highest we've seen since November, 50-plus basis points this month alone. What does it tell you is around the corner?</p>
+      <p>JOHAN GRAHN: Well, the proverbial Fed tactics are always around the corner, as you know. And we're still looking at this environment where you have the Fed consistently telling the market that you are going to have to be more patient and the market reacting and responding consecutively to all this communication. And it's happened over and over and over again. Every time the Fed comes out to have this conversation, the market will try to call the bluff, and then they have to move aside and say, OK, fine. We'll adjust accordingly, and it keeps happening.</p>
+      <p>And I think that right now we might be very much closer to the point where the market is, frankly, catching up to what the Fed has been saying all along, and now we're talking about the duration of how long the Fed is going to keep the rates high and how many more hikes they're going to pursue to get there.</p>
+      <p>DAVE BRIGGS: And you see no pivot until '24, presumably?</p>
+      <p>JOHAN GRAHN: No pivot until '24. The market is still-- there is a little bit of a delta between what the market is pricing in and what the Fed is speaking to the market. But in terms of a real pivot, nothing until 2024 for sure.</p>
+    </div>
+  },
+  {
     id: 30,
     title: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
     slug: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
