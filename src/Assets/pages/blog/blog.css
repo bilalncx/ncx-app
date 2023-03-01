@@ -398,3 +398,32 @@ p.blog-date {
   margin-right: 0px !important;
   margin-top: 20px !important;
 }
+.searching_btns{
+  display: grid;
+}
+.searching_btns button.btn-dark {
+  width: 100%;
+  text-align: left;
+  background: none;
+  color: #000000;
+  border: none;
+  font-size: 16px;
+  font-family: 'urbanist-regular';
+  padding: 10px 0px;
+  width: fit-content;
+}
+.searching_btns button.btn-dark:hover {
+  background: none;
+  border: none;
+  color: #34A9FF;
+  font-size: 16px;
+  font-family: 'urbanist-regular';
+  padding: 10px 0px;
+  width: fit-content;
+}
+.searching_btns button.btn-dark:focus, .searching_btns button.btn-dark:focus-visible{
+  border: none !important;
+  outline: none;
+  box-shadow: none;
+  color: #34A9FF;
+}

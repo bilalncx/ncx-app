@@ -173,6 +173,15 @@ div#insight_page.container.sefeds {
   width: 80% !important;
   margin-top: 30px;
 }
+.blogList-wrap .blogItem-wrap {
+  transform: rotate(-180deg);
+}
+.blogList-wrap {
+  transform: rotate(180deg);
+}
+
+
+
 @media screen and (min-width: 1300px){
   div#insight_page{
     padding: 100px 0px !important;

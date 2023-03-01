@@ -11,6 +11,7 @@ import { ReactComponent as NCXLogo } from '../../Assets/images/NCX-logo.svg';
 import { ReactComponent as Telegram } from '../components/footer/telegram.svg';
 import { ReactComponent as Twitter } from '../components/footer/twitter.svg';
 import { ReactComponent as Instagram } from '../images/instagram.svg';
+import Buttons from '../pages/blog/search_btns';
 
 const Home = () => {
   const [blogs, setBlogs] = useState(blogListdata);
@@ -37,6 +38,16 @@ const Home = () => {
     setSearchKey('');
   };
 
+
+  const menuItems = [...new Set(blogListdata.map((Val) => Val.category))];
+
+  const filterItem = (curcat) => {
+    const newItem = blogListdata.filter((newVal) => {
+      return newVal.category === curcat;
+    });
+    setBlogs(newItem);
+  };
+
   return (
     <div className='blog-page'>
         <MyHeader />
@@ -61,9 +72,14 @@ const Home = () => {
               <h3>Insights</h3>
             </div>
             <ul>
-              <li><a href="#a" alt="latest articles">Latest Articles</a></li>
+              <Buttons
+                filterItem={filterItem}
+                setItem={setBlogs}
+                menuItems={menuItems}
+              />
+              {/* <li><a href="#a" alt="latest articles">Latest Articles</a></li>
               <li><a href="#a" alt="News & Insights">Press Room</a></li>
-              <li><a href="#a" alt="Press Room">Announcements</a></li>
+              <li><a href="#a" alt="Press Room">Announcements</a></li> */}
             </ul>
             <SearchBar
                 value={searchKey}

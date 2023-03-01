@@ -3,7 +3,7 @@ const blogListdata = [
       id: 1,
       title: 'Binance’s bitcoin reserves are fully collateralized according to auditing firm Mazars',
       slug: 'binance’s-bitcoin-reserves-are-fully-collateralized-according-to-auditing-firm-mazars',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['binance news', 'bitcoin', 'Mazars'],
       description: <div className="blog-desc">
         <p>Auditing firm <a href="https://www.mazars.com/" target="_blank" rel="noreferrer">Mazars</a> has released 
@@ -57,7 +57,7 @@ const blogListdata = [
       id: 2,
       title: 'Binance Bitcoin Reserves Are Overcollateralized, New Report Says',
       slug: 'binance-bitcoin-reserves-are-overcollateralized-new-report-says',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['binance news', 'bitcoin', 'Reports'],
       description: <div className="blog-desc">
         <p>Binance, the world’s largest crypto exchange by trading volume, released a new report on Wednesday from global 
@@ -97,7 +97,7 @@ const blogListdata = [
       id: 3,
       title: 'Hong Kong Stock Exchange debuts ‘Asia’s first’ crypto futures ETFs',
       slug: 'hong-kong-stock-exchange-debuts-Asia-first-crypto-futures-etfs',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['Stock Exchange', 'ETFs', 'Crypto'],
       description: <div className="blog-desc">
         <p>The Hong Kong Exchanges and Clearing Ltd. launched two exchange-traded funds (ETFs) tracking cryptocurrency</p>
@@ -126,7 +126,7 @@ const blogListdata = [
       id: 4,
       title: 'Japan plans to ease corporate tax rates for cryptocurrency issuers',
       slug: 'japan-plans-to-ease-corporate-tax-rates-for-cryptocurrency-issuers',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['Crypto Tax', 'ETFs', 'Crypto'],
       description: <div className="blog-desc">
         <p>Japan’s ruling Liberal Democratic Party approved a proposal on Thursday that exempts companies issuing cryptocurrencies...</p>
@@ -156,7 +156,7 @@ const blogListdata = [
       id: 5,
       title: 'PayPal (PYPL) Integrates With MetaMask, Boosts Crypto Efforts',
       slug: 'paypal-(PYPL)-integrates-with-metaMask-boosts-crypto-efforts',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['Paypal', 'Metamask', 'Crypto'],
       description: <div className="blog-desc">
         <p>PayPal PYPL joined forces with ConsenSys in a bid to expand its offerings in the booming cryptocurrency space..</p>
@@ -208,7 +208,7 @@ const blogListdata = [
       id: 6,
       title: 'Spike in Network Activity for Several Altcoins: Santiment Report',
       slug: 'spike-in-network-activity-for-several-altcoins-santiment-report',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['Spike network', 'Santiment report', 'Crypto'],
       description: <div className="blog-desc">
         <p>“big upticks in address activity and dormant wallets awakening to move their funds.”</p>
@@ -237,7 +237,7 @@ const blogListdata = [
       id: 7,
       title: '13% of Americans have now held crypto: JPMorgan research',
       slug: '13%-of-americans-have-now-held-crypto-JPMorgan-research',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['American', 'Morgan', 'Crypto'],
       description: <div className="blog-desc">
         <p>The JPMorgan report is based on a study of cash transfers from banks to crypto accounts for over 5 million customers.</p>
@@ -273,7 +273,7 @@ const blogListdata = [
       id: 8,
       title: 'DEXs see increase in trading volume as investors tread carefully around CEXes',
       slug: 'DEXs-see-increase-in-trading-volume-as-investors-tread-carefully-around-CEXes',
-      category: 'Press',
+      category: 'Press News',
       subCategory: ['American', 'Morgan', 'Crypto'],
       description: <div className="blog-desc">
         <p>With the recent events in the crypto space, investors seem to be putting more faith in DEXes</p>
@@ -309,7 +309,7 @@ const blogListdata = [
       id: 9,
       title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
       slug: 'what-does-aaves-growth-on-arbitrum-mean-for-the-current-state-of-l2s',
-      category: 'Press',
+      category: 'Press News',
       subCategory: ['American', 'Morgan', 'Crypto'],
       description: <div className="blog-desc">
         <p>According to new data from Dune Analytics, Aave [AAVE] users on Arbitrum witnessed major growth. </p>
@@ -344,7 +344,7 @@ const blogListdata = [
       id: 10,
       title: 'ALTCOINSSolana showing signs of life even as TVL and SOL’s price decline massively',
       slug: 'altcoinssolana-showing-signs-of-life-even-as-TVL-and-SOLs-price-decline-massively',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['Solana', 'TVL', 'Crypto'],
       description: <div className="blog-desc">
         <p>SOL’s TVL and price suffered a decline while NFT trades ran smoothly.</p>
@@ -388,7 +388,7 @@ const blogListdata = [
       id: 11,
       title: 'These latest Avalanche developments can help AVAX climb up the ladder',
       slug: 'these-latest-avalanche-developments-can-help-avax-climb-up-the-ladder',
-      category: 'News',
+      category: 'Press News',
       subCategory: ['Avalanche', 'AVAX', 'ncx'],
       description: <div className="blog-desc">
         <p>Avalanche has recently started rolling out new features and forming new alliances to impact the ecosystem.</p>
@@ -422,7 +422,7 @@ const blogListdata = [
       id: 12,
       title: 'Bitcoin, Ether prices rise as crypto market stages rebound; Solana biggest gainer among top 10',
       slug: 'bitcoin-Ether-prices-rise-as-crypto-market-stages-rebound-solana-biggest-gainer-among-top-10',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['Market', 'Bitcoin', 'Crypto'],
       description: <div className="blog-desc">
         <p>Bitcoin and Ether rebounded in Thursday morning trading in Asia amid broad gains in the top 10 non-stablecoin cryptocurrencies after a bout of profit-taking and mixed economic indicators sent prices lower on Wednesday.</p>
@@ -452,7 +452,7 @@ const blogListdata = [
       id: 13,
       title: 'Ethereum [ETH] metric sees correction: Hopes of a bull run rise',
       slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['Market', 'Bitcoin', 'Crypto'],
       description: <div className="blog-desc">
         <p>Bitcoin and Ether rebounded in Thursday morning trading in Asia amid broad gains in the top 10 non-stablecoin cryptocurrencies after a bout of profit-taking and mixed economic indicators sent prices lower on Wednesday.</p>
@@ -490,7 +490,7 @@ const blogListdata = [
       id: 14,
       title: 'S&P 500: On The Verge Of A Bullish Breakout - Week Starting Jan. 16th (Technical Analysis)',
       slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['Breakout', 'graphics', 'Crypto'],
       description: <div className="blog-desc">
         <p>This article is the first in what I hope will be a regular weekend series. A variety of technical analysis techniques will be used to look at probable moves for the S&P 500 (SPY) in the week ahead. No personal bias will be shown and no predictions will be made either.</p>
@@ -547,7 +547,7 @@ const blogListdata = [
       id: 15,
       title: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
       slug: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['Binanve Coin', 'BNB', 'Crypto'],
       description: <div className="blog-desc">
         <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. Binance Coin [BNB] declined by 9% in the same period, dropping from $323 to $293. </p>
@@ -583,7 +583,7 @@ const blogListdata = [
       id: 16,
       title: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
       slug: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['US Stock', 'Markets', 'Economy'],
       description: <div className="blog-desc">
         <p>NEW YORK, Jan 26 (Reuters) - Wall Street advanced in choppy trading on Thursday as investors grappled with an onslaught of economic data and a string of mixed corporate earnings, all while eyeing the clock as it ticks down toward next week's Federal Reserve monetary policy meeting.</p>
@@ -633,7 +633,7 @@ const blogListdata = [
       id: 17,
       title: 'MarketsBitcoin, Ether fall as 2-year bond nears 15-year high',
       slug: 'Markets: Bitcoin, Ether fall as 2-year bond nears 15-year high',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Market', 'Bitcoin', 'Crypto'],
       description: <div className="blog-desc">
         <p>Bitcoin and Ether fell in Wednesday morning trading in Asia along with all other top 10 non-stablecoin cryptocurrencies by market capitalization. Polygon saw the biggest drop, while BNB dropped the least.</p>
@@ -666,7 +666,7 @@ const blogListdata = [
       id: 18,
       title: 'Stocks moving in after-hours: Coinbase, Palo Alto Networks, Caesars, Toll Brothers',
       slug: 'Stocks moving in after-hours: Coinbase, Palo Alto Networks, Caesars, Toll Brothers',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Market', 'Bitcoin', 'Crypto'],
       description: <div className="blog-desc">
         <p>Coinbase Global shares jumped after the crypto exchange’s fourth-quarter revenue of $629.1 million came in above Wall Street expectations of $581.1 million, according to data compiled by Bloomberg.</p>
@@ -704,7 +704,7 @@ const blogListdata = [
       id: 19,
       title: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
       slug: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Litecoin', 'Crypto'],
       description: <div className="blog-desc">
         <p>The Bitcoin Network has recorded over 154,554 inscriptions since the launch of Bitcoin Ordinals on Jan. 21, a fork that enables digital assets to be inscribed on satoshis (sats), which is the lowest denomination of a Bitcoin.</p>
@@ -731,7 +731,7 @@ const blogListdata = [
       id: 20,
       title: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
       slug: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Dollars', 'Crypto'],
       description: <div className="blog-desc">
         <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines.</p>
@@ -762,7 +762,7 @@ const blogListdata = [
       id: 21,
       title: 'Bitcoin Layer 2 Stacks Networks STX Token Spikes 50% as Ordinals Boom',
       slug: 'Bitcoin Layer 2 Stacks Networks STX Token Spikes 50% as Ordinals Boom',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Ordinal Boom', 'STX Token'],
       description: <div className="blog-desc">
         <p>STX, the native token of Bitcoin layer 2 Stacks Network, is surging as the recent arrival of the Ordinals protocol has unleashed a new narrative of non-fungible tokens (NFTs) and smart contracts on the Bitcoin blockchain.</p>
@@ -797,7 +797,7 @@ const blogListdata = [
       id: 22,
       title: 'Bitcoin price nears $25,000 as crypto market reaches $1.17tn',
       slug: 'Bitcoin price nears $25,000 as crypto market reaches $1.17tn',
-      category: 'News',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Ordinal Boom', 'STX Token'],
       description: <div className="blog-desc">
         <p>Bitcoin is closing in on $25,000 per coin as the entire cryptocurrency market capitalisation rose to $1.17tn.</p>
@@ -827,7 +827,7 @@ const blogListdata = [
       id: 23,
       title: 'Bitcoin dips below US$24,000 to start the trading week in Asia',
       slug: 'Bitcoin dips below US$24,000 to start the trading week in Asia',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Trading', 'Asia'],
       description: <div className="blog-desc">
         <p>Bitcoin fell below US$24,000 in a mixed morning for the top 10 non-stablecoin cryptocurrencies by market capitalization on Monday in Asia. Solana posted the most gains in that list while leading memecoin Dogecoin dropped the most.</p>
@@ -858,7 +858,7 @@ const blogListdata = [
       id: 24,
       title: 'Bitcoin rises above US$23,000 after its first weekly ‘death cross’',
       slug: 'Bitcoin rises above US$23,000 after its first weekly ‘death cross’',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Market wrap', 'Asia'],
       description: <div className="blog-desc">
         <p>Bitcoin, the world’s largest cryptocurrency by market capitalization, rose 8.86% in the week from Feb. 10 to Feb. 17, trading at US$23,764  at 7 p.m. on Friday in Hong Kong. Ether strengthened 7.86% in the same period to change hands at US$1,665.</p>
@@ -897,7 +897,7 @@ const blogListdata = [
       id: 25,
       title: 'Binance secretly moved $400 million from its US partner to a trading firm managed by the crypto giants boss CZ, report says',
       slug: 'Binance secretly moved $400 million from its US partner to a trading firm managed by the crypto giants boss CZ, report says',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Binance', 'Crypto Giant', 'Trading'],
       description: <div className="blog-desc">
         <p>Binance secretly moved $400 million from its US partner to a trading firm owned by boss Changpeng Zhao, according to Reuters.</p>
@@ -933,7 +933,7 @@ const blogListdata = [
       id: 26,
       title: 'Top 5 China Stocks To Buy And Watch Now',
       slug: 'Top 5 China Stocks To Buy And Watch Now',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Binance', 'Crypto Giant', 'Trading'],
       description: <div className="blog-desc">
         <p>China is the world's No. 2 economy and home to dozens of companies that trade in the U.S. Right now, Pinduoduo parent PDD Holdings (PDD), Canadian Solar (CSIQ), BYD (BYDDF), Tencent Holdings (TCEHY) and Baidu (BIDU) are China stocks worth watching or potentially buying.</p>
@@ -964,7 +964,7 @@ const blogListdata = [
       id: 27,
       title: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
       slug: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Polygon', 'Token Leads'],
       description: <div className="blog-desc">
         <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
@@ -996,7 +996,7 @@ const blogListdata = [
       id: 28,
       title: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
       slug: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Bitcoin', 'Polygon', 'XRP'],
       description: <div className="blog-desc">
         <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
@@ -1027,7 +1027,7 @@ const blogListdata = [
       id: 29,
       title: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
       slug: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
       description: <div className="blog-desc">
         <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
@@ -1053,7 +1053,7 @@ const blogListdata = [
       id: 30,
       title: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
       slug: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
-      category: 'Market',
+      category: 'Latest Articles',
       subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
       description: <div className="blog-desc">
         <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>

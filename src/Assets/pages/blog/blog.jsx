@@ -63,9 +63,9 @@ const Blog = () => {
                 <h3>Insights</h3>
               </div>
               <ul>
-                <li><a href="#a" alt="latest articles">Latest Articles</a></li>
-                <li><a href="#a" alt="News & Insights">Press Room</a></li>
-                <li><a href="#a" alt="Press Room">Announcements</a></li>
+                <li><a href="https://ncx.cx/insights" alt="latest articles">Latest Articles</a></li>
+                <li><a href="https://ncx.cx/insights" alt="News & Insights">Press News</a></li>
+                <li><a href="#" alt="Press Room">Announcements</a></li>
               </ul>
               <SearchBar
                 value={searchKey}
