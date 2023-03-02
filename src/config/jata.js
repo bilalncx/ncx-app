@@ -1,5 +1,56 @@
 const blogListdata = [
   {
+    id: 56,
+    title: 'AUDUSD Forecast – Australian Dollar Pulls Back',
+    slug: 'AUDUSD Forecast – Australian Dollar Pulls Back',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 21, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-57.webp',
+    content: <div className="blog-content">
+      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/aud-usd" target="_blank" rel="noreferrer">Australian dollar</a> has pulled back a bit during the trading session on Tuesday as we continue to see a lot all volatility in this pair. We are hanging around the 200-Day EMA, an indicator that a lot of people pay attention to. Because of this, I think it makes quite a bit of sense that we would see choppy behavior. The 0.69 level being in the same general vicinity probably as to the volatility as well, so it is worth pointing that out also.</p>
+      <p>All things being equal, we have to ask whether or not this is an area where the Australian dollar is going to see a little bit of support, or if we are going to continue to see negativity. A lot of this will come down to the interest-rate markets, and whether or not traders are starting to focus on tight monetary policy in the United States, or if they are going to focus more on the China reopening situation. After all, the Australian dollar is highly levered to the Chinese economy and of course the demand for Aussie commodities.</p>
+      <p>The global growth situation is tenuous at best, but a lot of traders are starting to pin their hopes on China pulling everybody through. If that’s the case, then Australia will be one of the biggest beneficiaries. However, if this market were to break down below the hammer from the Friday session, I suspect at that point we will see further selling pressure on the Aussie dollar, sending it toward the 0.67 level. Regardless, I would anticipate a lot of choppy behavior, but it is worth noting that we have recently seen a significant selloff from the 0.7150 level that has yet to be truly challenged.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/audusd-forecast-australian-dollar-pulls-back-2-1290377">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 56,
+    title: 'GBP to USD Forecast – British Pound Continues to Fight',
+    slug: 'GBP to USD Forecast – British Pound Continues to Fight',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 22, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-56.webp',
+    content: <div className="blog-content">
+      <h3>British Pound vs US Dollar Technical Analysis</h3>
+      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here and the 1.20 level, which is a large, round, psychologically significant figure that a lot of people will be paying attention to. Furthermore, the 1.20 level is an area where we had seen quite a bit of support previously, so I think everything comes together quite nicely for that being a bit of the support barrier.</p>
+      <p>If we were to break down below the 1.20 level, then it’s likely that we go down to the 1.1850 level. The 1.1850 level course was a swing low, and I believe that will be the bottom of the uptrend. In other words, if we break down below there, it’s likely that we drop down to the 1.15 level as it should open up a bit of a vacuum. The shooting star from last week suggests that we have a lot of resistance just above near the 1.2250 level, so if we were to break above there it opens up the possibility of a double top, which is at the 1.24 level, with resistance extending all the way to the 1.25 level. Now that we have formed a double top in that area, one would have to believe that it is going to continue to be a very important level.</p>
+      <p>If we were to break above all of that resistance, then it would continue the overall uptrend in the British pound, and as things stand right now it looks like we are essentially close to the bottom of the consolidation area. However, I would point out that the price action over the last several weeks has been somewhat soft, and therefore one would have to believe that all it would take is a kick to the market to knock it over and have a go lower.</p>
+      <p>The <a href="https://www.fxempire.com/currencies/aud-usd" target="_blank" rel="noreferrer">Australian dollar</a> has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim. The US dollar will continue to see a lot of noisy behavior, but then again quite a bit of strength due to the fact that the Federal Reserve remains very tight with its monetary policy, and of course the Australian dollar has issues due to the fact that it is so highly levered to global growth.</p>
+      <p>When you look at this chart, you can see that we bounced rather hard from the 0.62 level, to test the 50% Fibonacci level and the 200-Week EMA indicator. Since then, we have seen a lot of negativity and it looks to me as if the market is trying to continue the longer term downtrend. With this being the case, you may wish to flip down to shorter-term charts that show signs of a bounce, and then take advantage of those bounces as selling opportunities with the end goal of going down to the 0.66 level, maybe even as low as 0.62 level if things get out of hand and a major “risk off environment.”</p>
+      <p>As far as buying is concerned, quite frankly would take something coming out of the Federal Reserve along the lines of a complete reversal of attitude for me to think about doing that. This week’s candle has been very clear in its intentions.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/aud-usd-weekly-forecast-australian-dollar-breaks-down-significantly-1294027">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
     id: 55,
     title: 'Asian currencies witness a bit of reprieve, lift rupee',
     slug: 'Asian currencies witness a bit of reprieve, lift rupee',
