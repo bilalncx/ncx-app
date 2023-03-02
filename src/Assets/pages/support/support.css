@@ -506,10 +506,66 @@ a.support_signin {
     position: sticky;
     top: 100px;
 }
-
-
-
 /* *************************************** Details Page ********************************************* */
+
+
+/* *************************************** TableRow Miniumum despoit and withdrawal Starts ********** */
+.coin-wrapper table {
+    width: 100%;
+    margin: 40px 0px;
+}
+tr.coin-headrow {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #eeeeee;
+    padding: 10px 0px;
+    width: 100%;
+}
+tr.coin-headrow th {
+    font-size: 16px;
+    font-family: 'urbanist-regular' !important;
+    font-weight: 400;
+    color: rgba(0,0,0,0.4);
+}
+tr.coin-row {
+    padding: 15px 0px !important;
+    border-bottom: 1px solid #eeeeee !important;
+    justify-content: space-between;
+}
+tr.coin-row td.logo-title {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+tr.coin-row td p, tr.coin-row td img{
+    margin: 0px !important;
+}
+tr.coin-row td.logo-title img {
+    width: 24px;
+    height: auto;
+}
+.coin-row td, tr.coin-headrow th {
+    width: 25%;
+}
+.coin-row td:nth-child(3), tr.coin-headrow th:nth-child(3){
+    text-align: center;
+}
+.coin-row td:last-child, tr.coin-headrow th:last-child{
+    text-align: end;
+}
+tr.coin-row td a{
+    font-size: 16px;
+    color: #34A9FF;
+    font-family: 'urbanist-regular';
+}
+tr.coin-row td a:hover{
+    text-decoration: underline;
+}
+/* *************************************** TableRow Miniumum despoit and withdrawal end ************* */
+
+
+
+
 @media screen and (min-width: 1300px){
     .details_faqs .container {
         max-width: 1360px;
