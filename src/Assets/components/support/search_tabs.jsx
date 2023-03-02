@@ -14,28 +14,6 @@ import { ReactComponent as Instagram } from '../../images/instagram.svg';
 
 function QuestionTabs()
 {
-    const [blogs, setBlogs] = useState(blogListdata);
-    const [searchKey, setSearchKey] = useState('');
-      // Search submit
-    const handleSearchBar = (e) => {
-        e.preventDefault();
-        handleSearchResults();
-    };
-
-    // Search for blog by category
-    const handleSearchResults = () => {
-        const allBlogs = blogListdata;
-        const filteredBlogs = allBlogs.filter((blog) =>
-        blog.category.toLowerCase().includes(searchKey.toLowerCase().trim())
-        );
-        setBlogs(filteredBlogs);
-    };
-
-    // Clear search and show all blogs
-    const handleClearSearch = () => {
-        setBlogs(blogListdata);
-        setSearchKey('');
-    };
     return(
         <div id="question_tabs">
             <div className="container">
@@ -45,15 +23,15 @@ function QuestionTabs()
                         <h3>FAQs</h3>
                     </div>
                     <ul>
-                        <li><a href="https://ncx.cx/faq">Account Registration</a></li>
-                        <li><a href="https://ncx.cx/faq">KYC</a></li>
+                        <li><a href="https://ncx.cx/faq">Registration & KYC</a></li>
                         <li><a href="https://ncx.cx/faq_security_google_2fa" alt="Settings & Security">Settings & Security</a></li>
                         <li><a href="https://ncx.cx/faq_deposits">Deposits</a></li>
                         <li><a href="https://ncx.cx/faq_withdrawal">Withdtrawal</a></li>
                         <li><a href="https://ncx.cx/faq">DEX</a></li>
                         <li><a href="https://ncx.cx/faq_spot_trading">Spot Trading</a></li>
-                        <li><a href="https://ncx.cx/faq">Derivatives</a></li>
+                        <li><a href="https://ncx.cx/faq">Derivatives Trading</a></li>
                         <li><a href="https://ncx.cx/faq">Rewards & Referrals</a></li>
+                        <li><a href="https://ncx.cx/faq_learn">Learn</a></li>
                     </ul>
                     {/* <SearchBar
                         value={searchKey}
@@ -74,16 +52,11 @@ function QuestionTabs()
                 <div className="question_ssdedaa">
                     <div className="question_row">
                         <a href="#" className="col first animated animation:fade-in-up">
-                            <h1>Account Registration</h1>
+                            <h1>Registration & KYC</h1>
                             <p>Sign Up via Desktop</p>
                             <p>Sign Up via Mobile App</p>
                         </a>
-                        <a href="#" className="col second animated animation:fade-in-up">
-                            <h1>KYC</h1>
-                            <p>Identity Verification</p>
-                            <p>Requirements</p>
-                        </a>
-                        <a href="/faq_security_google_2fa" className="col third animated animation:fade-in-up">
+                        <a href="/faq_security_google_2fa" className="col second animated animation:fade-in-up">
                             <h1>Settings & Security</h1>
                             <p>Google 2FA</p>
                             <p>Password Reset</p>
@@ -91,37 +64,44 @@ function QuestionTabs()
                             <p>Device Management</p>
                             <p>Address Whitelist</p>
                         </a>
-                    </div>
-                    <div className="question_row">
-                        <a href="/faq_deposits" className="col first animated animation:fade-in-up">
+                        <a href="/faq_deposits" className="col third animated animation:fade-in-up">
                             <h1>Deposits</h1>
                             <p>Deposits on Desktop</p>
                             <p>Deposits on Mobile App</p>
                         </a>
-                        <a href="/faq_withdrawal" className="col second animated animation:fade-in-up">
+                    </div>
+                    <div className="question_row">
+                        <a href="/faq_withdrawal" className="col first animated animation:fade-in-up">
                             <h1>Withdrawals</h1>
                             <p>Withdrawals on Desktop</p>
                             <p>Withdrawals on Mobile App</p>
                         </a>
-                        <a href="#" className="col third animated animation:fade-in-up">
+                        <a href="#" className="col second animated animation:fade-in-up">
                             <h1>DEX</h1>
                             <p>Swaps</p>
                             <p>Liquidity Pools</p>
                         </a>
-                    </div>
-                    <div className="question_row">
-                        <a href="/faq_spot_trading" className="col first animated animation:fade-in-up">
+                        <a href="/faq_spot_trading" className="col third animated animation:fade-in-up">
                             <h1>Spot Trading</h1>
                             <p>Spot Trading Tutorial</p>
                         </a>
-                        <a href="#" className="col second animated animation:fade-in-up">
-                            <h1>Derivatives</h1>
+                    </div>
+                    <div className="question_row">
+                        <a href="#" className="col first animated animation:fade-in-up">
+                            <h1>Derivatives Trading</h1>
                             <p>Derivatives Trading Tutorial</p>
                         </a>
-                        <a href="#" className="col third animated animation:fade-in-up">
+                        <a href="#" className="col second animated animation:fade-in-up">
                             <h1>Rewards & Referrals</h1>
                             <p>Rewards Program</p>
                             <p>Referral Program</p>
+                        </a>
+                        <a href="/faq_learn" className="col third animated animation:fade-in-up">
+                            <h1>Learn</h1>
+                            <p>Learn about Blockchain</p>
+                            <p>Cryptocurrencies, Web3, NFTs,</p>
+                            <p>Gas Fees, Smart Contracts,</p>
+                            <p>Common Q&A</p>
                         </a>
                     </div>
                 </div>

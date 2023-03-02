@@ -93,7 +93,7 @@ div#question_tabs {
     min-height: 245px;
     padding: 30px 25px;
     /* border-radius: 10px; */
-    max-width: 300px;
+    max-width: 267px;
     flex: inherit;
     width: 33.333%;
     /* margin: 0 2rem; */
@@ -208,6 +208,85 @@ h1.open-ticket {
     background: #FFFFFF !important;
     box-shadow: 0 0 16px rgb(184 201 255 / 30%);
 }
+.support_leftbar ul {
+    padding: 0px;
+    margin: 0px;
+    margin: 20px 0px;
+}
+.support_leftbar ul li{
+    list-style-type: none;
+    padding: 8px 0px;
+}
+.support_leftbar ul li a {
+    font-family: 'urbanist-regular';
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.support_leftbar ul li a:hover, .support_leftbar ul li a:focus, .support_leftbar ul li a:focus-visible{
+    color: #34A9FF;
+    text-decoration: none;
+}
+.sub_title_ss{
+    font-size: 22px;
+    margin: 20px 0px;
+    font-family: 'urbanist-regular';
+}
+#learnfaq .accordian {
+    margin: 60px 0px 0px;
+}
+#learnfaq .accordian .item {
+    border: 1px solid rgb(239, 239, 239);
+    padding: 24px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+#learnfaq .title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 0px;
+}
+#learnfaq .accordian h2 {
+    font-size: 18px;
+    line-height: 26px;
+    color: #000000;
+    font-family: 'urbanist-semibold' !important;
+    text-align: left;
+}
+#learnfaq span.svg {
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+}
+#learnfaq span.svg.transform {
+    transform: rotate(180deg);
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+}
+#learnfaq span.svg svg {
+    width: 10px;
+    height: auto;
+}
+#learnfaq span.svg{
+    padding: 0px !important;   
+}
+#learnfaq span.svg svg path {
+    fill: #000000;
+}
+#learnfaq .content.show {
+    padding-top: 20px !important;
+    height: auto;
+    max-height: 9999px;
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+    margin-bottom: 0px !important;
+}
+#learnfaq .accordian .content p {
+    color: #000000;
+    text-align: left;
+    font-family: 'urbanist-regular' !important;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
 
 
 /* *************************************** Details Page ********************************************* */
