@@ -1,5 +1,168 @@
 const blogListdata = [
   {
+    id: 45,
+    title: 'Bitcoin, Ether rise along with most top 10 cryptos, amid ‘bull trap’ warning',
+    slug: 'Bitcoin, Ether rise along with most top 10 cryptos, amid ‘bull trap’ warning',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether gained in Wednesday afternoon trading in Asia, along with most other top 10 non-stablecoin cryptocurrencies by market capitalization. Asian equities mostly rose on Wednesday as investors digested economic recovery indications after Hong Kong ended its mask mandate.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 - 2:18 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-45.webp',
+    content: <div className="blog-content">
+        <p>Bitcoin and <a href="https://forkast.news/what-is-ethereum-and-how-can-it-become-the-future-of-blockchain/" target="_blank" rel="noreferrer">Ether</a> gained in Wednesday afternoon trading in Asia, along with most other top 10 non-stablecoin cryptocurrencies by market capitalization. Asian equities mostly rose on Wednesday as investors digested economic recovery indications after Hong Kong ended its mask mandate.</p>
+        <p>See related article: <a href="https://forkast.news/bitcoin-price-relief-cash-crypto-miners/" target="_blank" rel="noreferrer">Bitcoin’s price gains this year bring needed relief to cash-strapped crypto mining industry</a></p>
+        <h3>Fast Facts</h3>
+        <ul>
+          <li>Bitcoin rose 1.98% to US$23,723 at 4 p.m. in Hong Kong on Wednesday, according to <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">CoinMarketCap</a> data. The largest cryptocurrency by market capitalization has lost 1.47% in the last seven days of trade. Ether gained 1.83% to US$1,651 after posting a weekly gain of 0.47%.</li>
+          <li>Litecoin (LTC) gained the most among the top 10 non-stablecoin cryptocurrencies, rising 3.98% to US$97.27, a week after the <a href="https://forkast.news/headlines/bitcoin-exceeds-154000-inscriptions-month-litecoin-ordinals-launches/" target="_blank" rel="noreferrer">Ordinals protocol was launched on Litecoin</a>, giving the network non-fungible token (NFT) capabilities.</li>
+          <li>Polygon’s Matic token saw the day’s second biggest gain, increasing 2.14% to trade at US$1.25, but declined 7.44% on the week.</li>
+          <li>Most Asian markets rose on Wednesday after Hong Kong ended its three-year mask mandate, marking an end to Covid-19 restrictions. Hong Kong’s <a href="https://www.hsi.com.hk/eng" target="_blank" rel="noreferrer">Hang Seng Index</a> ended the day 4.21% higher, while Japan’s Nikkei 225 inched up 0.26%. The Shanghai Composite gained 1%, and the Shenzhen Component Index rose 1.11%.</li>
+          <li>European stocks started the first day of March slightly higher, fueled by stronger-than-expected manufacturing data from China, despite another potential rate hike from the European Central Bank this month. Germany’s DAX 40 gained 0.3% while France’s STOXX 600 inched up 0.8%.</li>
+          <li>Investment management giant Morgan Stanley has warned that the current stock market rally is a “bull trap,” and that “March is a high-risk month for the bear market to resume,” according to a note seen by Business Insider.</li>
+        </ul>
+      </div>
+  },
+  {
+    id: 44,
+    title: 'EMERGING MARKETS-Stocks set for February decline as rate hike worries dent sentiment',
+    slug: 'EMERGING MARKETS-Stocks set for February decline as rate hike worries dent sentiment',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Feb 28 (Reuters) - Emerging market stocks edged lower on Tuesday, on track for their biggest February percentage decline in over two decades, as geopolitical risks and fears about U.S. interest rates staying higher for longer cooled demand for riskier assets.</p>
+    </div>,
+    authorName: 'Shubham Batra and Amruta Khandekar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 1:32 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-44.jpg',
+    content: <div className="blog-content">
+        <p>*</p>
+        <p>China urban employment, per capita spending fall in 2022</p>
+        <p>*</p>
+        <p>Russia oil output back at pre-sanctions level</p>
+        <p>*</p>
+        <p>Turkey's 2022 GDP better-than-expected</p>
+        <p>*</p>
+        <p>Hungary's rate decision on tap</p>
+        <p>Feb 28 (Reuters) - Emerging market stocks edged lower on Tuesday, on track for their biggest February percentage decline in over two decades, as geopolitical risks and fears about U.S. interest rates staying higher for longer cooled demand for riskier assets.</p>
+        <p>The MSCI EM equities index slipped 0.5% and was down 6.6% this month, headed for its worst February performance since 2001. A rally in EM stocks at the beginning of 2023 has petered out in recent weeks after signs of strength in the U.S economy fueled fears of aggressive rate hikes by the Federal Reserve and geopolitical risks including heightened U.S.-China tensions also weighed on sentiment.</p>
+        <p>"It's started to get more challenging for emerging markets," said William Jackson, chief emerging markets economist at Capital Economics.</p>
+        <p>"We think weakness in the global economy will lead to more risk-off in the next few quarters, providing a difficult backdrop."</p>
+        <p>Data on Tuesday showed China's urban employment fell for the first time in six decades last year and per capita spending also marked a rare decline, as harsh COVID-19 curbs ravaged the world's second-biggest economy.</p>
+        <p>Stocks in China rose 0.6% while Hong Kong's Hang Seng index closed down 0.8%.</p>
+        <p>Regional currencies were muted against a stronger dollar and are set to record their worst month since September 2022.</p>
+        <p>The South African rand was down 0.2% ahead of the release of domestic money supply, budget, trade and unemployment data later in the day.</p>
+        <p>Russia's rouble was stronger against the U.S. dollar at 74.39. Local media reported that Russia's oil output was back at pre-sactions levels for the first time in February.</p>
+        <p>Turkey's lira was flat at 18.8860 after data showed the country's economy expanded 5.6% in 2022, more than expected with growth slowing to 3.5% in the fourth quarter as a decline in demand continued.</p>
+        <p>In central and eastern Europe, Hungary's forint edged lower against the euro ahead of an interest rate decision by the country's central bank due later in the day.</p>
+        <p>The National Bank of Hungary is widely expected to keep its base rate steady at 13%.</p>
+        <p>Elsewhere in emerging markets, India's GDP growth likely slowed further in the October-December quarter amid weakening demand and is set to lose more momentum as a series of interest rate hikes weigh on activity, according to a Reuters poll.</p>
+        <p>(Reporting by Shubham Batra and Amruta Khandekar in Bengaluru; Editing by Emelia Sithole-Matarise)</p>
+      </div>
+  },
+  {
+    id: 43,
+    title: 'Wall Street and FTSE 100 lower as volatile month comes to close',
+    slug: 'U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks were mixed this Tuesday as investors reassess the global economy's outlook given expectations for higher interest rates.</p>
+    </div>,
+    authorName: 'Pedro Goncalves · Finance Reporter, Yahoo Finance UK',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 12:44 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-43.webp',
+    content: <div className="blog-content">
+        <p>The FTSE 100 and European stocks were mixed this Tuesday as investors reassess the global economy's outlook given expectations for higher interest rates.</p>
+        <p>The FTSE 100 (<a href="https://uk.finance.yahoo.com/quote/%5EFTSE?p=%5EFTSE" target="_blank" rel="noreferrer">^FTSE</a>) dropped 0.74% to 7,876.28 points at close of trading on Tuesday, while the CAC 40 (<a href="https://uk.finance.yahoo.com/quote/%5EFCHI?p=%5EFCHI" target="_blank" rel="noreferrer">^FCHI</a>) in Paris was muted at 7,291 points. In Germany, the DAX (<a href="https://uk.finance.yahoo.com/quote/%5EGDAXI?p=%5EGDAXI" target="_blank" rel="noreferrer">^GDAXI</a>) was also flat at 15,383.</p>
+        <p>Across the pond, US stocks fell Tuesday at the open, rounding out the last day of a volatile month of February on Wall Street.</p>
+        <p>The Dow Jones (^DJI) lost 0.34% to 32,775 points. The S&P 500 (^GSPC) retreated 0.31% to 3,980 points and the tech-heavy NASDAQ (^IXIC) edged lower by 0.21% to 11,472.</p>
+        <p>Traders are increasingly worried that central banks around the globe will remain hawkish in order to bring down persistent inflation.</p>
+        <p>“Rishi Sunak’s new Brexit deal for Northern Ireland breathed some life back into the pound yesterday, yet the currency gave back some of these gains on Tuesday as markets took time to digest the information," said Russ Mould, investment director at AJ Bell.</p>
+        <p>"While the deal may provide a reset for UK/EU relations and be good for the UK economy, reports suggest some in the DUP [Democratic Unionist Party] are not fully satisfied by what’s on the table.”</p>
+        <p>Inflation figures in Spain and France both rose in February while the latest grocery price survey from Kantar in the UK showed food price inflation hit a record high, up 17.1%.</p>
+        <p>Read more: <a href="https://uk.finance.yahoo.com/news/spring-budget-chancellor-jeremy-hunt-cut-taxes-pay-060047933.html" target="_blank" rel="noreferrer">Spring budget: Chancellor Hunt won’t have enough money to cut taxes or raise pay</a></p>
+        <p>Back in London, shares in Ocado (OCDO.L) dropped by 7.81%, the top faller on the FTSE 100 index.</p>
+        <p>The online supermarket saw its <a href="https://uk.finance.yahoo.com/news/ftse-100-ocado-loses-more-than-%C2%A3500m-as-shoppers-cut-back-100022496.html" target="_blank" rel="noreferrer">pre-tax loss balloon to nearly £501m</a> last year, nearly three times as high as in 2021.</p>
+        <p>The FTSE 100 slipped 0.4% to 7,902, pulled down by poorly received results from Ocado and Croda (CRDA.L), and housebuilders falling in response to Travis Perkins’ cautious outlook in its latest figures.</p>
+        <p>The builders’ merchant said it was preparing for ‘more challenged’ private domestic new-build and repair, maintenance and improvement markets.</p>
+        <p>Moving in the opposite direction, online electricals retailer AO World (AO.L) was up by 23.38% as it boosted it annual earnings outlook for the third time since November as it said cost-cutting efforts and targeted price rises were paying off.</p>
+        <p>Read more: <a href="https://uk.finance.yahoo.com/news/pound-northern-ireland-protocol-deal-windsor-framework-161218772.html" target="_blank" rel="noreferrer">Pound hits high as Northern Ireland protocol deal is done</a></p>
+        <p>Meanwhile, Brent crude (BZ=F) rose and was trading at around $83/barrel as demand surged ahead of the release of fresh economic data from China, the world’s largest oil importer and second largest consumer.</p>
+        <p>In Asia, Tokyo’s Nikkei 225 (<a href="https://uk.finance.yahoo.com/quote/%5EN225?p=%5EN2250" target="_blank" rel="noreferrer">^N225</a>) rose 0.1% to 27,445 points, while the Hang Seng (<a href="https://uk.finance.yahoo.com/quote/%5EHSI?p=%5EHSI" target="_blank" rel="noreferrer">^HSI</a>) in Hong Kong slipped 0.78% to 19,044. The Shanghai Composite (<a href="https://uk.finance.yahoo.com/quote/000001.SS?p=000001.SS">000001.SS</a>) edged higher, rising 0.66% to 3,279 points.</p>
+        </div>
+  },
+  {
+    id: 42,
+    title: 'U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December',
+    slug: 'U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>MARKET PULSE U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average (DJIA) closed 0.</p>
+    </div>,
+    authorName: 'Christine Idzelis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 - 1:04 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-42.webp',
+    content: <div className="blog-content">
+        <p>U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December</p>
+        <p>MARKET PULSE U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average (DJIA) closed 0.</p>
+        <p>U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average DJIA closed 0.7% lower Tuesday, while the S&P 500 SPX fell 0.3% and the technology-heavy Nasdaq Composite COMP edged down 0.1%, according to preliminary data from FactSet. For the month, the Dow shed 4.2%, while the S&P 500 slid 2.6% and the Nasdaq slipped 1.1%, preliminary FactSet data show. Stocks sold off in February after bond-market concerns over stubbornly high inflation sparked a rise in Treasury yields.</p>
+        <p><a href="https://www.marketwatch.com/story/u-s-stocks-close-lower-s-p-500-ends-february-with-biggest-monthly-loss-since-december-d7b35b62?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+      </div>
+  },
+  {
+    id: 41,
+    title: 'Asian shares, oil advance on strong China factory data',
+    slug: 'Asian shares, oil advance on strong China factory data',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>A pedestrian passes by the Hong Kong Stock Exchange electronic screen in Hong Kong, on Wednesday, March 1, 2023. Asian shares were mixed Wednesday as investors watched for upcoming earnings reports and other indicators on how inflationary pressures might be denting global growth. (AP Photo/Louise Delmotte)</p>
+    </div>,
+    authorName: 'YURI KAGEYAMA',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 - 9:40 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-41.webp',
+    content: <div className="blog-content">
+        <h3>Hong Kong Financial Markets</h3>
+        <p>A pedestrian passes by the Hong Kong Stock Exchange electronic screen in Hong Kong, on Wednesday, March 1, 2023. Asian shares were mixed Wednesday as investors watched for upcoming earnings reports and other indicators on how inflationary pressures might be denting global growth. (AP Photo/Louise Delmotte)</p>
+        <p>TOKYO (AP) — Asian shares were higher Wednesday after reports on key measures of China manufacturing showed a strong recovery after anti-virus controls were lifted late last year.</p>
+        <p>Hong Kong’s Hang Seng index jumped 3.3% and Shanghai gained 0.9%.</p>
+        <p>Purchasing managers’ indexes issued by a business magazine, Caixin, and the official China Federation of Logistics & Purchasing showed gains in production, exports and new orders.</p>
+        <p>Business activity is recovering after the ruling Communist Party ended stringent anti-virus restrictions in early December. That followed a slump in activity that dragged last year’s economic growth to 3%, its second-lowest level since at least the 1970s.</p>
+        <p>That was good news in Hong Kong, where the Hang Seng gained more than 700 points to 20,486.79.</p>
+        <p>Hong Kong's own outlook has improved as it also has relaxed pandemic precautions. The territory's chief executive, John Lee, announced Tuesday t hat masks will no longer be required both outdoors and indoors, but some high-risk areas including hospitals and elderly homes can still require their use.</p>
+        <p>The Shanghai Composite added 28 points to 3,308.53. South Korean markets were closed for a national holiday.</p>
+        <p>Japan’s benchmark Nikkei 225 picked up 0.3% to 27,523.17. Australia’s S&P/ASX 200 edged up 0.1% to 7,263.10.</p>
+        <p>Wall Street closed out a frigid February with more losses on Tuesday. The S&P 500 lost 0.3%, locking in a loss of 2.6% for the month and closing at 3,970.15. The Dow fell 0.7% to 32,656.70 while the Nasdaq edged 0.1% lower to 11,455.54. Both also sank over the month.</p>
+        <p>Investors are keeping an eye on the last of the earnings reports for this season. Several big-name retailers are still on the schedule for this week.</p>
+        <p>“The consumer and inflation are in focus over the next few days. After last week’s drubbing among retail stocks, the worst since June last year, some upbeat earnings results from Target should buoy the group,” said Brian Overby, senior market strategist at Ally, while warning that more volatility may be in store later this week.</p>
+        <p>After a strong start to the year driven by hopes inflation is abating, Wall Street shifted into reverse in February. A stream of data showed inflation and the overall economy are remaining more resilient than expected. That’s forced investors to raise their forecasts for how high the Federal Reserve will take interest rates and how long it will keep them there.</p>
+        <p>High rates can drive down inflation, but they also raise the risk of a recession down the line because they hurt the economy. They also drag on prices for stocks and other investments. </p>
+        <p>Heightened expectations for rates sent yields jumping in the bond market Tuesday. The yield on the 10-year Treasury held steady at 3.92%. It helps set rates for mortgages and other loans that shape the economy’s health, and still near its highest level since November. The two-year yield, which moves more on expectations for Fed action, ticked up to 4.81% from 4.78%. It’s near its highest level since 2007.</p>
+        <p>Reports on the economy released Tuesday showed some slight cracks. One said that confidence among U.S. consumers fell in February. Another said that manufacturing in the Chicago region weakened by more than expected.</p>
+        <p>In energy trading, benchmark U.S. crude added 48 cents to $77.53 in electronic trading on the New York Mercantile Exchange. Brent crude, the international pricing standard, rose $0.52 to $83.97 a barrel.</p>
+        <p>In currency trading, the U.S. dollar inched up to $136.37 Japanese yen from $136.20 yen. The euro rose to $1.0596 from $1.0583.</p>
+      </div>
+  },
+  {
     id: 40,
     title: 'Intel Plunges on Earnings Miss, Weak Guidance: ETFs in Focus',
     slug: 'Intel Plunges on Earnings Miss, Weak Guidance: ETFs in Focus',
