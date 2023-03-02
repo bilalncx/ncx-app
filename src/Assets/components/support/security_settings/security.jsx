@@ -118,9 +118,9 @@ function SupportPageSet()
                         <div className="col sect">
                             <div className={toggleState === 1 ? "sprt-content active" : "sprt-content"}>
                                 <h1>How to Add Two-Factor Authentication</h1>
-                                <p>What is Google Authenticator</p>
+                                <p><strong>What is Google Authenticator</strong></p>
                                 <p>Google Authenticator is a dynamic password tool and its work principle is like SMS dynamic verification. After binding Google Authenticator, it will generate a dynamic verification code every 30 seconds, and the verification code is used for security verification of login, withdrawal, security settings modification and other operations.</p>
-                                <p>How to enable Google Authenticator</p>
+                                <p><strong>How to enable Google Authenticator</strong></p>
                                 <p>1. Install Google Authenticator App on your mobile device</p>
                                 <p>Note:</p>
                                 <p>iOS users can download Google Authenticator App via App Store;</p>
@@ -178,7 +178,7 @@ function SupportPageSet()
                             </div>
                             <div className={toggleState === 4 ? "sprt-content active" : "sprt-content"}>
                                 <h1>How to Add Anti Phishing Code</h1>
-                                <p>What is phishing?</p>
+                                <p><strong>What is phishing?</strong></p>
                                 <p>The phishing attack is a criminal cheating process by getting sensitive information like username, password, fund, and ID by means of disguising others. These messages claim that they are from an official or internet administrator to get trust from the victim.</p>
                                 <p>How to enable Anti Phishing Code</p>
                                 <p>1. Login to your NCX Dashboard. </p>

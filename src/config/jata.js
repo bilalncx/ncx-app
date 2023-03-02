@@ -1,5 +1,273 @@
 const blogListdata = [
   {
+    id: 55,
+    title: 'Asian currencies witness a bit of reprieve, lift rupee',
+    slug: 'Asian currencies witness a bit of reprieve, lift rupee',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
+    </div>,
+    authorName: 'Nimesh Vora',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 23, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-55.webp',
+    content: <div className="blog-content">
+      <p>A customer hands Indian currency notes to an attendant at a fuel station in Mumbai</p>
+      <p>By Nimesh Vora</p>
+      <p>MUMBAI (Reuters) - The Indian rupee rose against the dollar on Thursday, helped by a broad recovery in Asian currencies following losses fuelled by worries over rising U.S. yields.</p>
+      <p>The rupee was at 82.77 to the U.S. dollar by 10:29 a.m. IST, up from 82.85 in the previous session. Following the higher opening, the local currency has been in a three-paisa range.</p>
+      <p>The rupee, it can be safely assumed, will stick to the 82.80 level through the session, a currency dealer at a private sector bank said. Volumes are likely to be on the lower side and speculative interest will be minimal, he said.</p>
+      <p>The Korean won, the Asian currency worst impacted by the market's ongoing reassessment of the U.S. Federal Reserve's rate hike path, lead the recovery against the dollar on Thursday.</p>
+      <p>It was up 0.8% while others rose 0.2% to 0.3%. The dollar index declined slightly.</p>
+      <p>The Fed minutes released overnight noted that almost all participants preferred a 25 basis points (bps) hike at the Jan. 31-Feb. 1 Fed meeting, and a few would have liked a 50 bps hike.</p>
+      <p>However, the minutes did not have a significant impact on Asian currencies, as they were considered "outdated". Since the Fed's February meeting, there has been a series of data points on inflation and economic activity that surprised the market.</p>
+      <p>We’ve already been hearing from some Fed officials that they may be open to up the size of the rate hikes and that a higher terminal rate may be needed, Scotiabank said in a note.</p>
+      <p>Risk appetite in Asia was better, weighing on demand for the dollar. Asian shares were mostly higher and futures indicated a positive opening for U.S. equities. Oil prices inched up, recovering from two-week lows.</p>
+      <p>(Reporting by Nimesh Vora; Editing by Janane Venkatraman)</p>
+    </div>
+  },
+  {
+    id: 54,
+    title: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
+    slug: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 24, 2023 - 6:40 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-54.webp',
+    content: <div className="blog-content">
+      <h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/aud-usd" target="_blank" rel="noreferrer">Australian dollar</a> has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim. The US dollar will continue to see a lot of noisy behavior, but then again quite a bit of strength due to the fact that the Federal Reserve remains very tight with its monetary policy, and of course the Australian dollar has issues due to the fact that it is so highly levered to global growth.</p>
+      <p>When you look at this chart, you can see that we bounced rather hard from the 0.62 level, to test the 50% Fibonacci level and the 200-Week EMA indicator. Since then, we have seen a lot of negativity and it looks to me as if the market is trying to continue the longer term downtrend. With this being the case, you may wish to flip down to shorter-term charts that show signs of a bounce, and then take advantage of those bounces as selling opportunities with the end goal of going down to the 0.66 level, maybe even as low as 0.62 level if things get out of hand and a major “risk off environment.”</p>
+      <p>As far as buying is concerned, quite frankly would take something coming out of the Federal Reserve along the lines of a complete reversal of attitude for me to think about doing that. This week’s candle has been very clear in its intentions.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/aud-usd-weekly-forecast-australian-dollar-breaks-down-significantly-1294027">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 53,
+    title: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
+    slug: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 5:39 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-53.webp',
+    content: <div className="blog-content">
+      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/aud-usd" target="_blank" rel="noreferrer">Australian dollar</a> has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general. As long as there are concerns of a global slowdown, it does make a certain amount of sense that the Aussie will struggle. Furthermore, the 50-Day EMA is starting to roll over, and is getting ready to break down below the 200-Day EMA, a negative technical indicator known as a “death cross.”</p>
+      <p>In the area of 0.67, there is a significant amount of support. Because of this, short-term bounce would not be huge price, but that should more likely than not have a lot of people jumping into the market to short the Aussie again, in order to pick up “cheap US dollars.” If we break down below all the noise just below the 0.67 level, then it’s likely that the market would go looking to the 0.6450 level given enough time.</p>
+      <p>On the other hand, if we were to turn around and breakout above the moving averages above, then the market could go looking to the 0.70 level. The 0.70 level is obviously a large, round, psychologically significant figure, and an area where we’ve seen a lot of selling recently. Nonetheless, I do think that this pullback is rather significant, and could get the market really selling off if we get more “risk off behavior” around the world. Regardless of what happens next, we are at an inflection point, and therefore it’s likely that we will see a lot of choppy and noisy trading in this general vicinity.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/audusd-forecast-australian-dollar-touches-that-figure-1295738">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 52,
+    title: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
+    slug: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 5:46 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-52.webp',
+    content: <div className="blog-content">
+      <h3>Euro vs US Dollar Technical Analysis</h3>
+      <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar. The US dollar breaking higher due to the fact that people have struggled with risk appetite, and of course the fact that interest rates on the 2 year yield in America continue to climb, despite the fact that Wall Street believes that the Federal Reserve will eventually come and bail them out.</p>
+      <p>The Euro of course has its own issues, not the least of which will be the fact that the economy is running into significant headwinds, but at the same time has a certain amount of inflation. Because of this, the Euro is not ready to go down without a fight but at the end of the day one of the main things that has this market somewhat levitated is the fact that Christine Lagarde has stated repeatedly that an inflation target of 2% is crucial. Nonetheless, if we continue to see a lot of negativity out there when it comes to risk appetite, the Euro will more likely than not start to sell off yet again.</p>
+      <p>If we can break down below the 200-Day EMA, then the 1.05 level will be targeted. Anything below there then opens up the possibility of a move to the 1.04 level, and then possibly the 1.0250 level. After that, we have the possibility of going down to the parity level. The parity level of course will attract a lot of headlines, and therefore could be a noisy affair. The alternative scenario would be breaking above the 1.07 level, which would open up a potential move to the 1.08 level. That is where the massive selloff begins from a couple of weeks ago and therefore, I think that as long as we have the same fundamental situation, rallies are more likely than not going to be sold into.</p>
+      <p>The <a href="https://www.fxempire.com/currencies/gbp-usd">British pound</a> has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to. Because of this, the market is more likely than not going to continue to be very noisy but seems to have a short-term ceiling due to those indicators. Any rally at this point in time more likely than not should be sold into, on the first signs of exhaustion.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/eur-usd-forecast-euro-testing-the-200-day-ema-1295751">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 51,
+    title: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
+    slug: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 5:57 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-48.webp',
+    content: <div className="blog-content">
+      <h3>British Pound vs US Dollar Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/gbp-usd">British pound</a> has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to. Because of this, the market is more likely than not going to continue to be very noisy but seems to have a short-term ceiling due to those indicators. Any rally at this point in time more likely than not should be sold into, on the first signs of exhaustion.</p>
+      <p>On the other hand, if we break down below the hammer from last week, it’s very likely that we could go looking to the 1.18 level, an area that really looks supported a while back, and it’s also an area we had launched from to enter the consolidation area that we had been in for a while. If we break down below that level, then it’s like a trapdoor opening, allowing the British pound to fall quite drastically. It does make a certain amount of sense, due to the fact that the US dollar continues to strengthen across the board, so there’s really no reason to think that the British pound will be any different.</p>
+      <p>Granted, the Bank of England has recently had to deal with a lot of inflation and therefore monetary policy may remain tight longer than anticipated, but at the same time you can certainly take that same attitude towards the Federal Reserve, and of course the Federal Reserve will get what it wants given enough time.</p>
+      <p>It seems traders are just now starting to come to grips with the idea that the Federal Reserve is going to remain “tighter for longer”, as inflation simply is going nowhere in the United States. There’s a high demand for US dollars currently, as interest rates around the world continue to climb, and world governments have to pay back US dollar denominated debt. I like fading rallies at the first signs of exhaustion.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/gbp-to-usd-forecast-british-pound-looking-to-stay-within-range-1295771">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 50,
+    title: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
+    slug: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The US dollar has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 6:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-50.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/usd-jpy" target="_blank" rel="noreferrer">US dollar</a> has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
+      <p>If we pull back from here, the ¥135 level courses a large, round, psychologically significant figure, in an area that previously had been resistance. The fact that we broke above there should now have “market memory” attached to it, suggesting that there should be plenty of value hunters in that general vicinity. The Bank of Japan continues to keep interest rates low and fight 10 year yields from rising above 50 basis points.</p>
+      <p>In order to do so they will have to continue to print yen in order to buy their own bonds in Japan. In other words, if rates start to rise again, that will only help the US dollar clobber the Japanese yen. You can also see that the Japanese yen is getting the same treatment almost everywhere, so this is most certainly a Japanese Yen situation more than it is a US dollar situation.</p>
+      <p>Looking at this chart, I do think that the trend is starting to change, so I think it’s probably only a matter of time before we try to reach towards the top again as the Bank of Japan has dug in its heels when it comes to yield curve control and has reiterated multiple times that it was going to be stuck in it. At the same time, we have the Federal Reserve making it abundantly clear that it is going to stay “tighter for longer”, meaning that monetary policy in the United States will be much more restrictive than many other economies around the world, thereby making the US dollar attractive.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar" target="_blank" rel="noreferrer">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/usd-jpy-forecast-us-dollar-continues-to-look-strong-against-the-yen-1295775" target="_blank" rel="noreferrer">article was originally posted on FX Empire</a></p>
+    </div>
+  },
+  {
+    id: 49,
+    title: 'EUR/USD Forecast – Euro Continues to Show Support',
+    slug: 'EUR/USD Forecast – Euro Continues to Show Support',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 6:15 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-49.webp',
+    content: <div className="blog-content">
+      <h3>Euro vs US Dollar Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/eur-usd" target="_blank" rel="noreferrer">Euro</a> has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
+      <p>Furthermore, you need to keep an eye on the fact that we are between the 50-Day EMA and the 200-Day EMA indicators, because they attract a lot of attention. Typically, when a currency pair is sitting between these 2 indicators, it means that there are probably going to be traders in both directions pushing quite hard. Typically, when you find the market in this range, there is an explosive move sooner or later as one side or the other finally loses.</p>
+      <p>If we break above the 50-Day EMA, it’s possible that the market goes looking to the 1.08 level. On the other hand, if we break down below the 200-Day EMA, is very likely that we would see a huge move lower. On a break down below the 200-Day EMA, I suspect that we will eventually go down to the 1.03 level, and then eventually the parity level which of course would be an area that would attract a lot of attention. Keep an eye on the interest rate situation in the United States, because recently the 2 year and the 10 year have seen moves higher in yield.</p>
+      <p>That does typically help the US dollar, but ultimately this is a situation where the markets are in flux, and therefore a lot of noisy behavior does make significant sense. The European Central Bank has reiterated its mission to keep inflation down to 2%, but at the same time the Federal Reserve has reiterated its attitude of staying tight for longer. Because of this, a lot of choppiness is more likely than not going to be the case going forward, so therefore position sizing will be crucial.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar" target="_blank" rel="noreferrer">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/eur-usd-forecast-euro-continues-to-show-support-1296911" target="_blank" rel="noreferrer"></a>article was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 48,
+    title: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
+    slug: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The <a href="https://www.fxempire.com/currencies/gbp-jpy" target="_blank" rel="noreferrer">British pound</a> has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 6:32 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-48.webp',
+    content: <div className="blog-content">
+      <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/gbp-jpy" target="_blank" rel="noreferrer">British pound</a> has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
+      <p>As an example, the New Zealand dollar looks like it’s getting close to breaking out against the Japanese Yen, and while I do believe that the British pound can continue to climb from here, it’s got a lot more noise in the short term to deal with and it has had in the last 48 hours. I certainly wouldn’t short this pair, but I recognize that it has outstretched itself a little bit during the day. With that in mind, I would be cautious, but I would look at pullbacks as a potential buying opportunity.</p>
+      <p>Quite frankly, what I would like to see is this market continue to rip higher, because there’s more value to be found in other yen related crosses. For example, the New Zealand dollar, the Australian dollar, and the Canadian dollar all look like they are ready to rip higher against the Japanese yen as well. Simply put, I believe that this chart might be a proxy for what the yen is doing at the moment, because if an overbought condition like this can continue to find buyers, clearly other pairs will have to pay homage to this, and play catch up.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar" target="_blank" rel="noreferrer">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/gbp-jpy-forecast-british-pound-looks-stratospheric-against-the-yen-1296929" target="_blank" rel="noreferrer">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 47,
+    title: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
+    slug: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The <a href="https://www.fxempire.com/currencies/usd-jpy" target="_blank" rel="noreferrer">US dollar</a> has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 6:45 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-47.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/usd-jpy" target="_blank" rel="noreferrer">US dollar</a> has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
+      <p>With interest rates around the world climbing overall, it does make a lot of sense the Japanese yen will continue to get hammered as more pressure will be put on the bond market in Tokyo. As the Bank of Japan is the only major central bank in the world offering quantitative easing, the Japanese yen is an easy target for currency traders. With that being the case, not only will the US dollar continue to climb against the Japanese in but is very likely that we will see multiple other currencies do the same. In fact, when you look at the British pound, it is completely ripping the face off of the Japanese yen.</p>
+      <p>Just above, the ¥137.50 level is an area that we will need to pay close attention to due to the fact that it was a previous resistance barrier, right along with support. There should be a certain amount of “market memory” in that area, and therefore it’s going to take a significant amount of momentum to break through that area. Short-term pullbacks are very likely, but those will more likely than not end up being buying opportunities.</p>
+      <p>The ¥135 level underneath should be support, due to the fact that it is a large, round, psychologically significant figure, and it is also an area that we have seen quite a bit of noise there in both directions. The 200-Day EMA sits near the ¥134 level, and the 50-Day EMA is getting ready to cross above there in order to form the “golden cross” indicator that a lot of people pay close attention to for a longer-term “buy-and-hold” type of attitude. I have no interest in shorting this pair anytime soon, at least not until the interest rate situation around the world calms down.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/usd-jpy-forecast-us-dollar-continues-to-power-higher-against-the-japanese-yen-1296952" target="_blank" rel="noreferrer">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 46,
+    title: 'FOREX-Dollar slides, yuan gains on China PMI; hot inflation lifts euro',
+    slug: 'FOREX-Dollar slides, yuan gains on China PMI; hot inflation lifts euro',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>LONDON, March 1 (Reuters) - The dollar slumped and China's yuan gained on Wednesday after China's manufacturing activity expanded at its fastest pace since April 2012, while the euro rose after regional German inflation data signalled price pressures remain high.</p>
+    </div>,
+    authorName: 'Samuel Indyk and Rae Wee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 - 4:06 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-46.jpg',
+    content: <div className="blog-content">
+      <p>By Samuel Indyk and Rae Wee</p>
+      <p>LONDON, March 1 (Reuters) - The dollar slumped and China's yuan gained on Wednesday after China's manufacturing activity expanded at its fastest pace since April 2012, while the euro rose after regional German inflation data signalled price pressures remain high.</p>
+      <p>The Australian and New Zealand dollars were also among the beneficiaries of the robust Chinese data, which smashed expectations with the official manufacturing purchasing managers' index (PMI) shooting up to 52.6 last month from 50.1 in January.</p>
+      <p>China's non-manufacturing activity also grew at a faster pace in February, while the Caixin/S&P Global manufacturing PMI reading for last month likewise surpassed market expectations.</p>
+      <p>The onshore yuan finished the domestic session at 6.8854 per dollar, the strongest close since Feb. 21, while the offshore yuan jumped 1.3% to 6.8683 per dollar, set for its largest one-day gain since late November.</p>
+      <p>"The data confirms expectations that the growth outlook has improved quite significantly in China, so it's positive for risk sentiment," said Niels Christensen, chief analyst at Nordea.</p>
+      <p>"This has put the dollar on the defensive."</p>
+      <p>The kiwi surged 1.3% to $0.6263, while the Aussie gained 0.7% to $0.6774, reversing the slide to a two-month low earlier on Wednesday following soft domestic economic data.</p>
+      <p>The antipodean currencies are often used as liquid proxies for the yuan.</p>
+      <p>Meanwhile, inflation data from five German states was largely unchanged in the high single digits in February, pointing to no let-up in stubborn price pressures at the national level.</p>
+      <p>Preliminary pan-German inflation data is to be published at 1300 GMT, calculated using data from up to 16 German states.</p>
+      <p>Figures released on Tuesday showed accelerating inflation in France and Spain, two of the euro zone's biggest economies, pushing up expectations for rate hikes by the European Central Bank (ECB).</p>
+      <p>The euro was last up 0.9% against the dollar to $1.0672 , on track for its biggest daily gain since Feb. 1.</p>
+      <p>"The euro is being well supported by the inflation data," Nordea's Christensen said.</p>
+      <p>"We're looking for a more solid euro area inflation reading tomorrow than we had expected going into this week."</p>
+      <p>Sterling rose 0.2% to $1.2049, although trimmed earlier gains after Bank of England governor Andrew Bailey said it was possible the central bank had already come to the end of its rate-rising cycle.</p>
+      <p>The pound surged 1% at the start of the week after Britain struck a post-Brexit Northern Ireland trade deal with the European Union.</p>
+      <p>Against a basket of currencies, the U.S. dollar index fell 0.7% to 104.25.</p>
+      <p>The index rose nearly 3% in February, its first monthly gain after a four-month losing streak, as a slew of strong U.S. economic data in recent weeks raised market expectations that the Federal Reserve has further to go in hiking rates.</p>
+      <p>Futures pricing currently suggests a peak of around 5.4% in the Fed funds rate by September.</p>
+      <p>"We see the Fed going to 5.5%, with a growing risk of 6%," said Michael Every, global strategist at Rabobank. "The Fed is hiking. Others can't follow or match. The dollar will soar."</p>
+      <p>Elsewhere, the dollar fell 0.65% against the Japanese yen to 135.36, having spiked close to 5% against the yen in February, its largest monthly gain since last June.</p>
+      <p>(Reporting by Samuel Indyk and Rae Wee; Editing by Kim Coghill and Mark Potter)</p>
+    </div>
+  },
+  {
     id: 45,
     title: 'Bitcoin, Ether rise along with most top 10 cryptos, amid ‘bull trap’ warning',
     slug: 'Bitcoin, Ether rise along with most top 10 cryptos, amid ‘bull trap’ warning',

@@ -62,6 +62,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/faq_withdrawal") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/faq_spot_trading") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }

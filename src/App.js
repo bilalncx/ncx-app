@@ -23,6 +23,7 @@ import SupportPage from './Assets/pages/support/support';
 import FAQSecurityGoogle2FA from './Assets/components/support/security_settings/security';
 import FAQDesposits from './Assets/components/support/deposits/deposit';
 import FAQWithdrawal from './Assets/components/support/withdrawal/withdrawal';
+import FAQSpotTrading from './Assets/components/support/spottrading/sporttrading';
 
 
 const App = () => {
@@ -51,6 +52,7 @@ const App = () => {
           <Route path='/faq_security_google_2fa' element={<FAQSecurityGoogle2FA />}/>
           <Route path='/faq_deposits' element={<FAQDesposits />} />
           <Route path='/faq_withdrawal' element={<FAQWithdrawal />}/>
+          <Route path='/faq_spot_trading' element={<FAQSpotTrading />} />
         </Routes>
       </BrowserRouter>
     </div>

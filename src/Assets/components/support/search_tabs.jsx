@@ -51,7 +51,7 @@ function QuestionTabs()
                         <li><a href="https://ncx.cx/faq_deposits">Deposits</a></li>
                         <li><a href="https://ncx.cx/faq_withdrawal">Withdtrawal</a></li>
                         <li><a href="https://ncx.cx/faq">DEX</a></li>
-                        <li><a href="https://ncx.cx/faq">Spot Trading</a></li>
+                        <li><a href="https://ncx.cx/faq_spot_trading">Spot Trading</a></li>
                         <li><a href="https://ncx.cx/faq">Derivatives</a></li>
                         <li><a href="https://ncx.cx/faq">Rewards & Referrals</a></li>
                     </ul>
@@ -110,7 +110,7 @@ function QuestionTabs()
                         </a>
                     </div>
                     <div className="question_row">
-                        <a href="#" className="col first animated animation:fade-in-up">
+                        <a href="/faq_spot_trading" className="col first animated animation:fade-in-up">
                             <h1>Spot Trading</h1>
                             <p>Spot Trading Tutorial</p>
                         </a>
