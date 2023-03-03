@@ -7,11 +7,14 @@ import { ReactComponent as Ethereum } from '../../../images/ncx-ethereum.svg';
 import { ReactComponent as Bitcoin } from '../../../images/ncx-bitcoin.svg';
 import { ReactComponent as BinanceCoinBNB } from '../../../images/ncx-binancecoinbnb.svg';
 import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg';
+import BuyWidget from './buy_widget';
+import './widget.css';
 
 function BuyCryptoFirstPage(){
     return(
         <div className="currencies-options row">
                 <img className="buy-ss22" src={NCXCryptoBuySell} alt="NCX Buy Sell Cryptos" />
+                <BuyWidget />
                 <div id="mobile-shoss" className="col coinsect">
                     <h1>Buy & Sell Crypto Instantly</h1>
                     <p>Buy & Sell Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer. Simply enter the currency & amount and chose among the available payment methods, the best available rate is displayed by default, you can easily switch between providers and payment methods and chose the one right for you.</p>
