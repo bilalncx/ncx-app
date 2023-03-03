@@ -206,8 +206,6 @@ function SupportPageSet()
                                             <td><p><strong>Marking price (Reasonable price) = index-based price * (1 + basis rate of funding cost)</strong></p></td>
                                         </tr>
                                     </table>
-                                    <p>For BitMart perpetual swap, its reasonable marking price is the index-based price with reference to the price of the global spot market plus the funding cost basis that decreases over time.</p>
-                                    <p>ATTENTION: Cryptocurrency investment is subject to high market risk. Please make your investments cautiously. This is not investment advice, or an endorsement by BitMart as to the intrinsic value of a digital asset, or a commitment by BitMart team to support any speciﬁc asset/token that the announcement pertains to.</p>
                                 </div>
                             </div>
                         </div>

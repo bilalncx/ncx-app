@@ -69,7 +69,7 @@ function MyFooter()
                         <h1>Apps</h1>
                         <ul className="ul-two">
                             <li><a href="#">NCX App on App Store</a></li>
-                            <li><a href="#">NC App on Google Play Store</a></li>
+                            <li><a href="#">NCX App on Google Play Store</a></li>
                         </ul>
                     </div>
                     <div class="fourth-column">

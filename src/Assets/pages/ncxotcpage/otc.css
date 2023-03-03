@@ -8,19 +8,19 @@
     background: #000000 !important;
 }
 .OTCwelcome .container {
-    position: relative;
+    position: absolute;
     top: 0;
     width: 100% !important;
     left: 0;
     right: 0;
     padding: 120px 0px 80px 0px;
 }
-.OTCwelcome .welcomevideo{
+/* .OTCwelcome .welcomevideo{
     display: none;
-}
-#ncxotc-page .ncxotcsection {
+} */
+/* #ncxotc-page .ncxotcsection {
     padding-top: 0px;
-}
+} */
 .OTCwelcome {
     max-height: 720px;
     background: #000000;
@@ -74,7 +74,7 @@
 
 @media screen and (max-width: 800px){
     .welcomeotc.row {
-        padding: 150px 0px 60px 0px;
+        padding: 0px 0px 60px 0px;
     }
     .welcomeotc.row {
         display: block;
@@ -112,5 +112,12 @@
         width: 100%;
         object-fit: cover;
         min-height: 780px;
+    }
+    .OTCwelcome .welcomevideo{
+        display: none;
+    }
+    .OTCwelcome .container {
+        padding: 120px 20px 60px 20px !important;
+        position: relative !important;
     }
 }
