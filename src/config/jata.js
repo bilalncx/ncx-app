@@ -1,6 +1,152 @@
 const blogListdata = [
   {
-    id: 56,
+    id: 63,
+    title: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
+    slug: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+    </div>,
+    authorName: 'Andrew Throuvalas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 1:46 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-63.webp',
+    content: <div className="blog-content">
+      <p>Ethereum’s fee market is slowly returning to form amid a recent resurgence in NFT trading activity across the network.</p>
+      <p>According to on-chain analytics firm Glassnode, the median price for gas powering Ethereum transactions cost roughly 10 to 20 <a href="https://decrypt.co/5732/inside-ethereum/" target="_blank" rel="noreferrer">gwei</a> over the past 9 months. This month, that cost had risen to 38 gwei—higher than during key bear market events including FTX’s collapse in November (36 gwei) and Binance’s “bank run” in December (24 gwei).</p>
+      <p>“The incremental nature of the gas demand suggests an early resurgence of network activity may be underway,” wrote Glassnode in its weekly <a href="https://insights.glassnode.com/the-week-onchain-week-09-2023/?&utm_source=gn_twitter&utm_medium=tweet_woc&utm_campaign=woc_09_2023" target="_blank" rel="noreferrer">newsletter</a> on Monday.</p>
+      <p>Gas prices fluctuate with network demand, meaning costs rise as more users seek to include their transactions in the next Ethereum block. In this case, rising activity in Ethereum’s NFT market appears to be a primary source of the newfound demand for gas.</p>
+      <p><a href="https://wp.decrypt.co/93154/nft-trading-slow-down-falling-ethereum-gas-fees/" target="_blank" rel="noreferrer">You Can Thank NFTs for Falling Ethereum Gas Prices</a></p>
+      <p>Specifically, gas used by Ethereum NFT transactions has risen by 97% for two months straight, approaching levels last seen during the “NFT boom” from mid-2021 to mid-2022. Much of that rising activity is thanks to Blur, an NFT marketplace launched in October that’s now <a href="https://decrypt.co/121768/blur-opensea-ethereum-nft-trading-skyrockets" target="_blank" rel="noreferrer">overtaken OpenSea</a> in terms of trading volume.</p>
+      <p>“The recent attention surrounding Blur has led to a surge in demand for block space, resulting in increased fees for validators, and more ETH being burnt via EIP1559,” explained Glassnode.</p>
+      <p>Other drivers of NFT activity include all-new projects launched by the industry’s biggest names, including Yuga Labs’ <a href="https://decrypt.co/119063/bored-ape-yacht-club-nft-sales-spike-yuga-dookey-dash-game" target="_blank" rel="noreferrer">Dookey Dash</a> game and the <a href="https://decrypt.co/119958/ethereum-nft-hit-doodles-launch-doodles-2-flow-blockchain" target="_blank" rel="noreferrer">announcement</a> of Doodles 2 last month.</p>
+      <p>Nevertheless, Ethereum network adoption rate remains low. The number of new addresses being generated is still 40% below what it was 12 months ago. This suggests that the recent revival in NFT activity has been spurred among existing NFT users, rather than new ones.</p>
+      <p>Not all corners of the Ethereum ecosystem are seeing rising revenues. In an <a href="https://decrypt.co/122179/most-projects-are-not-going-make-doodles-ceo" target="_blank" rel="noreferrer">interview</a> with Decrypt on Friday, Doodle CEO Julian Holguin said that the competition between OpenSea and Blur is constricting cash available to many NFT projects that relied on secondary royalties for revenue.</p>
+    </div>
+  },
+  {
+    id: 62,
+    title: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
+    slug: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+    </div>,
+    authorName: 'Jack Denton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 3:34 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-62.webp',
+    content: <div className="blog-content">
+      <p>Alibaba BABA –0.22%  and other Chinese stocks were rallying on Wednesday after data showed that China is quickly leaving behind the lingering impacts of Covid-19 lockdowns, which spurred a slowdown in the world’s second-largest economy last year.</p>
+      <p>A key measure of Chinese growth marked its fastest expansion in more than a decade in February, with the official manufacturing purchasing managers index ( PMI ) rising to 52.6 last month from 50.1 in January. The February PMI came ahead of expectations and also marked the highest level since April 2021.</p>
+      <p>The PMI data is “the strongest sign yet that demand and supply are being fully restored following the lifting of all Covid restrictions in December,” said Raffi Boyadjian, an analyst at broker XM. “The initial tepid pickup in the economy had raised some concerns about how long it would take for the full effects of the reopening to transpire so it’s very encouraging for investors to see that the recovery is well under way.”</p>
+      <p><a href="https://www.barrons.com/articles/alibaba-didi-china-growth-lockdowns-covid-f286af0a?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 61,
+    title: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
+    slug: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 17, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-61.webp',
+    content: <div className="blog-content">
+      <h3>Euro vs US Dollar Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/eur-usd" target="_blank" rel="noreferrer">Euro</a> has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+      <p>The Euro has seen a lot of action at 1.06, but I suspect it is only a minor support level, perhaps opening up the possibility of a challenge of the 1.05 level, which is much more important in the sense that it was a swing low, and of course the 200-Day EMA sitting in that same area has a huge effect as well. Because of this, I think it’s probably only a matter of time before we see that area challenged, especially as we have seen a couple of impulsive negative moves over the last couple of weeks. With this, I think the real battle begins in that area.</p>
+      <p>If we were to break down below the 200-Day EMA on a daily close, then I think you could have a situation where the Euro gets hit really hard. At that point, it would not surprise me at all to see the Euro go down to parity again. On the other hand, if we turn around and take out the shooting star from the Tuesday session, it opens up a move to the 1.10 level above, but that area looks extraordinarily difficult to break higher than, due to the fact that we had seen so much massive selling at what is a large, round, psychologically significant figure, and the 50% Fibonacci level from the big move lower.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/eur-usd-forecast-euro-plunges-yet-again-on-friday-1287772">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 60,
+    title: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
+    slug: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 17, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-60.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/usd-jpy" target="_blank" rel="noreferrer">US dollar</a> has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming. After all, if the Bank of Japan continues to have to fight interest rates, it’s likely that we will continue to see the US dollar overcome the Japanese yen strength. We also had recently pulled back from the 50% Fibonacci retracement level, and now it looks like we are ready to go to the upside again. Given enough time, I do think that we probably have a much higher exchange rate.</p>
+      <p>If we can break above the ¥135 level, then it is possible that we could go to the ¥137.50 level. After that, the ¥140 level is worth paying close attention to. On the other hand, if we turn around and break down below the ¥130 level, that would probably show quite a bit of negativity, perhaps opening up the possibility of a move down to the ¥127.50 level. You can see that the pullback was rather brutal, but then again, the move higher was brutal to get up there. Now that the Federal Reserve may finally be convincing people that they are serious about keeping interest rates higher for longer, we could very well see this market take off to the upside. Ultimately, this is a market that remains very noisy, but I do think given enough time we probably try to get back to those highs at this rate.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/usd-jpy-weekly-forecast-us-dollar-has-a-strong-week-1287935">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 59,
+    title: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
+    slug: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 20, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-59.webp',
+    content: <div className="blog-content">
+      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/aud-usd" target="_blank" rel="noreferrer">Australian dollar</a> has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
+      <p>Keep in mind that the Australian dollar will be highly levered to commodities, and of course the idea of global growth. With China reopening, there is a bit of hope, but it also is probably worth noting that the global economy itself looks a bit shaky to say the least. The market had recently rallied all the way to the 50% Fibonacci level, only to start selling off quite drastically. Those impulsive candlesticks above should continue to weigh heavy upon the market, especially if we see commodities lose some steam.</p>
+      <p>It is probably worth noting that the hammer from the Friday trading session is a candlestick that you should be paying close attention to, because if we were to break down below there, it would be a serious breach of support. Not only would we be breaking down below the hammer, and also the 200-Day EMA, an indicator that will attract a lot of attention by systematic traders. To the upside, I think that the 0.70 level will continue to be a bit of the ceiling, as it is psychologically important, and we have seen a lot of action in that area.</p>
+      <p>It is worth noting that inflation is still an issue in both Australia and the United States, so the interest rate situation between the 2 currencies may not be as clear as others, but as a general rule of the dollar tends to move in one direction against all currencies. In other words, you can pay attention to multiple currency pairs, and notice the overall direction of the dollar in order to trade this market.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/audusd-forecast-australian-dollar-hovers-near-major-moving-averages-1289452">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 58,
+    title: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
+    slug: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
+    category: 'Forex',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The US dollar has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 20, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-58.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+      <p>The <a href="https://www.fxempire.com/currencies/usd-jpy" target="_blank" rel="noreferrer">US dollar</a> has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior. The market has been repudiated at the ¥135 level, but if he can break above there it has a clear shot to the ¥137.50 level.</p>
+      <p>If we can break above there, then the market can continue to go much higher. All things being equal, this is a situation where we see a lot of volatility over the next several days as the Bank of Japan continues to fight higher interest rates, meaning that they will be printing more Japanese yen, thereby driving down the value of that currency. On the other side of the equation, you have the Federal Reserve keeping a very tight monetary policy, so thereby offering a bit of support to the US dollar, despite the fact that may not necessarily be their intention. As long as there is a huge amount of inflation in the United States, that will be a continuous issue.</p>
+      <p>It may also be worth noting that the market had recently bounced from the 50% Fibonacci retracement level, so that is something that a lot of technical traders will pay close attention to. Beyond that, the ¥127.50 level was where that 50% Fibonacci level showed up, and of course it’s also an area that previously had seen support. With all that, it’s very possible this may remain a “buy on the dips” type of market.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/usd-jpy-forecast-us-dollar-continues-to-threaten-resistance-1289498">article</a> was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 57,
     title: 'AUDUSD Forecast – Australian Dollar Pulls Back',
     slug: 'AUDUSD Forecast – Australian Dollar Pulls Back',
     category: 'Forex',

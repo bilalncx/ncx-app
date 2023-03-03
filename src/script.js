@@ -84,7 +84,7 @@ $(document).ready(function() {
     var headera = document.getElementById("insight_page");
     var sticky = headera.offsetTop+0;
     function myFunction() {
-      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 15000) { // <--here
+      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 18000) { // <--here
         headera.classList.add("sticky");
         $("#fixed_sticky_insights").addClass("blog-stick");
         $("#insight_page .col.first .leftsidebar").addClass("blog-stick");
