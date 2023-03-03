@@ -71,6 +71,22 @@ function SupportPageSet()
                                         How to Trade Spot on App
                                         </button>
                                     </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 4 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(4)}
+                                        >
+                                        What is Taker and Maker?
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 5 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(5)}
+                                        >
+                                        Definitions and Calculation of Last Trade Price, Index Price and Marking Price
+                                        </button>
+                                    </li>
                                 </ul>
 
                                 <h1 className="support_ticket">Open Support Ticket</h1>
@@ -113,6 +129,19 @@ function SupportPageSet()
                             </div>
                             <div className={toggleState === 3 ? "sprt-content active" : "sprt-content"}>
                                 <h2>How to Trade Spot on NCX App</h2>
+                            </div>
+                            <div className={toggleState === 4 ? "sprt-content active" : "sprt-content"}>
+                                <h1>What is Taker and Maker?</h1>
+                                <p>Note: Trading fees on NCX are applied only to trades, not orders.</p>
+                                <h3>1. Taker:</h3>
+                                <p>When you place an order that trades immediately, by filling partially or fully, before going on the order book, those trades will be "taker" trades.</p>
+                                <p>Trades from Market orders are always Takers, as Market orders can never go on the order book. These trades are "taking" volume off of the order book, and therefore called the "taker."</p>
+                                <p>2. Maker:</p>
+                                <p>When you place an order that goes on the order book partially or fully (such as a limit order placed via the trading screen on ncx.cx), any subsequent trades coming from that order will be as a “maker.”</p>
+                                <p>These orders add volume to the order book, helping to "make the market," and are therefore termed the "maker" for any subsequent trades.</p>
+                            </div>
+                            <div className={toggleState === 5 ? "sprt-content active" : "sprt-content"}>
+                                <h1>Definitions and Calculation of Last Trade Price, Index Price and Marking Price</h1>
                             </div>
                         </div>
                         <div className="col thest">

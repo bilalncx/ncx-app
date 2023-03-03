@@ -17,6 +17,7 @@ import Withdrawal5 from '../../../images/withdrwal5.png';
 import Withdrawal6 from '../../../images/withdrwal6.png';
 import Withdrawal7 from '../../../images/withdrwal7.png';
 import Withdrawal8 from '../../../images/withdrwal8.png';
+import CoinData from '.././deposit-payout-table';
 
 
 
@@ -68,6 +69,14 @@ function SupportPageSet()
                                         Deposits on Mobile App
                                         </button>
                                     </li>
+                                    <li>
+                                        <button
+                                            className={toggleState === 3 ? "faq-tabs active" : "faq-tabs"}
+                                            onClick={() => toggleTab(3)}
+                                        >
+                                        Minimum Withdrawal
+                                        </button>
+                                    </li>
                                 </ul>
 
                                 <h1 className="support_ticket">Open Support Ticket</h1>
@@ -103,6 +112,30 @@ function SupportPageSet()
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
                                 <h2>How to Make a Withdrawal on Mobile</h2>
+                            </div>
+                            <div className={toggleState === 3 ? "sprt-content active" : "sprt-content"}>
+                                <h2>Minimum Withdrawal</h2>
+                                <div className="coin-wrapper">
+                                    <table>
+                                        <tr className="coin-headrow">
+                                            <th>Name</th>
+                                            <th>Blockchain</th>
+                                            <th>Deposit / Payout, min*</th>
+                                            <th>Block Explorer</th>
+                                        </tr>
+                                        {CoinData.map((coin, i) => (
+                                        <tr className="coin-row">
+                                            <td className="logo-title">
+                                                <img src={coin.logo} alt="coin-symbol" />
+                                                <p>{coin.title}</p>
+                                            </td>
+                                            <td><p>{coin.blockchain}</p></td>
+                                            <td><p>{coin.depostpayout}</p></td>
+                                            <td><a href={coin.blockexplorer} target="_blank" rel="noreferrer">Block explorer</a></td>
+                                        </tr>
+                                    ))}
+                                    </table>
+                                </div>
                             </div>
                         </div>
                         <div className="col thest">

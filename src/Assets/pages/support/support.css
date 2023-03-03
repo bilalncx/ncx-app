@@ -428,6 +428,7 @@ ul.details_faqul li button{
     background: none;
     padding: 0px;
     border: none;
+    text-align: left;
 }
 ul.details_faqul li button:hover{
     text-decoration: none;

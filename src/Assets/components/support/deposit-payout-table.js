@@ -508,7 +508,7 @@ const coinslist = [
         id: '63',
         logo: 'https://ncx.cx/images/yfi.svg',
         title: 'yearn.finance',
-        blockchain: 'Ethereum',
+        blockchain: 'Binance Smart Chain',
         depostpayout: '0.0003',
         blockexplorer: 'https://bscscan.com'
     },
@@ -529,12 +529,140 @@ const coinslist = [
         blockexplorer: 'https://bscscan.com'
     },
     {
-        id: '65',
+        id: '66',
         logo: 'https://ncx.cx/images/ftm.svg',
         title: 'Fantom',
         blockchain: 'Ethereum',
         depostpayout: '7.6',
         blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '67',
+        logo: 'https://ncx.cx/images/axs.svg',
+        title: 'Axie Infinity',
+        blockchain: 'Ethereum',
+        depostpayout: '0.3',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '68',
+        logo: 'https://ncx.cx/images/qnt.svg',
+        title: 'Quant',
+        blockchain: 'Ethereum',
+        depostpayout: '0.15',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '69',
+        logo: 'https://ncx.cx/images/amp.svg',
+        title: 'AMP',
+        blockchain: 'Ethereum',
+        depostpayout: '625',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '70',
+        logo: 'https://ncx.cx/images/chz.svg',
+        title: 'Chiliz',
+        blockchain: 'Ethereum',
+        depostpayout: '90',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '71',
+        logo: 'https://ncx.cx/images/enj.svg',
+        title: 'Enjin Coin',
+        blockchain: 'Ethereum',
+        depostpayout: '10.9',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '72',
+        logo: 'https://ncx.cx/images/hot.svg',
+        title: 'Holo',
+        blockchain: 'Ethereum',
+        depostpayout: '4200',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '73',
+        logo: 'https://ncx.cx/images/fet.svg',
+        title: 'Fetch.ai',
+        blockchain: 'Ethereum',
+        depostpayout: '55.5',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '74',
+        logo: 'https://ncx.cx/images/omg.svg',
+        title: 'OMG Network',
+        blockchain: 'Ethereum',
+        depostpayout: '4',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '75',
+        logo: 'https://ncx.cx/images/1inch.svg',
+        title: '1inch',
+        blockchain: 'Binance Smart Chain',
+        depostpayout: '4.3',
+        blockexplorer: 'https://bscscan.com'
+    },
+    {
+        id: '76',
+        logo: 'https://ncx.cx/images/1inch.svg',
+        title: '1inch',
+        blockchain: 'Ethereum',
+        depostpayout: '10.9',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '78',
+        logo: 'https://ncx.cx/images/crv.svg',
+        title: 'Curve DAO Token',
+        blockchain: 'Ethereum',
+        depostpayout: '5',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '79',
+        logo: 'https://ncx.cx/images/ocean.svg',
+        title: 'Ocean Protocol',
+        blockchain: 'Ethereum',
+        depostpayout: '32',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '80',
+        logo: 'https://ncx.cx/images/bal.svg',
+        title: 'Balancer',
+        blockchain: 'Ethereum',
+        depostpayout: '1.5',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '81',
+        logo: 'https://ncx.cx/images/badger.svg',
+        title: 'Badger DAO',
+        blockchain: 'Ethereum',
+        depostpayout: '1.8',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '82',
+        logo: 'https://ncx.cx/images/rari.svg',
+        title: 'Rarible',
+        blockchain: 'Ethereum',
+        depostpayout: '1.9',
+        blockexplorer: 'https://etherscan.io'
+    },
+    {
+        id: '83',
+        logo: 'https://ncx.cx/images/cake.svg',
+        title: 'PancakeSwap',
+        blockchain: 'Binance Smart Chain',
+        depostpayout: '0.9',
+        blockexplorer: 'https://bscscan.com'
     },
 ]
 export default coinslist;
