@@ -12,6 +12,12 @@ import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
 import SpotTrading1 from '../../../images/spot-trading-1.png';
 import SpotTrading2 from '../../../images/spot-trading-2.png';
 import SpotTrading3 from '../../../images/spot-trading-3.png';
+import SpotWeb1 from '../../../images/spot-web1.png';
+import SpotWeb2 from '../../../images/spot-web2.png';
+import SpotWeb3 from '../../../images/spot-web3.png';
+import SpotWeb4 from '../../../images/spot-web4.png';
+import SpotWeb5 from '../../../images/spot-web5.png';
+import SpotWeb6 from '../../../images/spot-web6.png';
 
 
 
@@ -125,7 +131,42 @@ function SupportPageSet()
                                 <p>Please note that the trailing stop order does not move back in the other direction. When the price moves in the opposite direction by a specified percentage, it will close or exit the trade at market price.</p>
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
-                                <h2>How to Trade Spot on NCX web</h2>
+                                <h1>How to Trade Spot on NCX</h1>
+                                <p>A spot trade is a simple transaction between a buyer and a seller to trade at the current market rate, known as the spot price. The trade takes place immediately when the order is fulfilled.</p>
+                                <p>Users can prepare spot trades in advance to trigger when a specific (better) spot price is reached, known as a limit order. You can make spot trades on NCX through our trading page interface.</p>
+                                <img src={SpotWeb1} alt="ncx-spot-trading" />
+                                <h3>What is a limit order?</h3>
+                                <ol>
+                                    <li>Select Trading Pair</li>
+                                    <li>Trading View Graphs</li>
+                                    <li>Sell Order Book</li>
+                                    <li>Buy Order Book</li>
+                                    <li>Favorite Trading Pairs</li>
+                                    <li>Assets</li>
+                                    <li>Type of order: Limit/Market/Stop-limit/OCO(One-Cancels-the-Other)</li>
+                                    <li>Select Trading Pair</li>
+                                    <li>Place Buy Order</li>
+                                    <li>Place Sell Order</li>
+                                    <li>Your  Order History</li>
+                                    <li>Menu</li>
+                                    <li>Custom Workspaces (Customise your Trading Interface)</li>
+                                    <li>Customise your Trading Interface - Add Widget</li>
+                                    <li>Help and Tips</li>
+                                    <li>Notifications</li>
+                                    <li>Reset Trading Widgets to Default</li>
+                                    <li>Settings</li>
+                                    <li>Sign Out</li>
+                                </ol>
+                                <p>Custom Workspaces (Customise your Trading Interface) </p>
+                                <img src={SpotWeb2} alt="ncx-spot-trading" />
+                                <p> Customise your Trading Interface - Add Widget</p>
+                                <img src={SpotWeb3} alt="ncx-spot-trading" />
+                                <p>Help and Tips</p>
+                                <img src={SpotWeb4} alt="ncx-spot-trading" />
+                                <p>Notifications</p>
+                                <img src={SpotWeb5} alt="ncx-spot-trading" />
+                                <p>Reset Trading Widgets to Default </p>
+                                <img src={SpotWeb6} alt="ncx-spot-trading" />
                             </div>
                             <div className={toggleState === 3 ? "sprt-content active" : "sprt-content"}>
                                 <h2>How to Trade Spot on NCX App</h2>
@@ -136,12 +177,38 @@ function SupportPageSet()
                                 <h3>1. Taker:</h3>
                                 <p>When you place an order that trades immediately, by filling partially or fully, before going on the order book, those trades will be "taker" trades.</p>
                                 <p>Trades from Market orders are always Takers, as Market orders can never go on the order book. These trades are "taking" volume off of the order book, and therefore called the "taker."</p>
-                                <p>2. Maker:</p>
+                                <h3>2. Maker:</h3>
                                 <p>When you place an order that goes on the order book partially or fully (such as a limit order placed via the trading screen on ncx.cx), any subsequent trades coming from that order will be as a “maker.”</p>
                                 <p>These orders add volume to the order book, helping to "make the market," and are therefore termed the "maker" for any subsequent trades.</p>
                             </div>
                             <div className={toggleState === 5 ? "sprt-content active" : "sprt-content"}>
                                 <h1>Definitions and Calculation of Last Trade Price, Index Price and Marking Price</h1>
+                                <div className="calculation_table">
+                                    <table>
+                                        <tr>
+                                            <th><p><strong>Type</strong></p></th>
+                                            <th><p><strong>Function</strong></p></th>
+                                            <th><p><strong>Calculation</strong></p></th>
+                                        </tr>
+                                        <tr>
+                                            <td><p><strong>Last Trade Price</strong></p></td>
+                                            <td><p>Display the latest traded price of the order book on a real-time basis</p></td>
+                                            <td><p>The latest traded price of the order book on a real-time basis</p></td>
+                                        </tr>
+                                        <tr>
+                                            <td><p><strong>Index Price</strong></p></td>
+                                            <td><p>Reflect the fail last traded price of cryptocurrency calculated with reference to its USD or USDT price on multiple exchanges</p></td>
+                                            <td><p>Last traded prices of three of more major exchange as the weighted index constituents for each cryptocurrency; measures introduced to handle abnormal situations and control fluctuation within a normal range</p></td>
+                                        </tr>
+                                        <tr>
+                                            <td><p><strong>Marking Price <span> (Reasonable Price)</span></strong></p></td>
+                                            <td><p>To avoid unnecessarily forced liquidation of high-leverage products. Without this system, the marking price may deviate unnecessarily from the price index due to manipulated market or lack of liquidity, thus leading to unnecessarily forced liquidation.</p></td>
+                                            <td><p><strong>Marking price (Reasonable price) = index-based price * (1 + basis rate of funding cost)</strong></p></td>
+                                        </tr>
+                                    </table>
+                                    <p>For BitMart perpetual swap, its reasonable marking price is the index-based price with reference to the price of the global spot market plus the funding cost basis that decreases over time.</p>
+                                    <p>ATTENTION: Cryptocurrency investment is subject to high market risk. Please make your investments cautiously. This is not investment advice, or an endorsement by BitMart as to the intrinsic value of a digital asset, or a commitment by BitMart team to support any speciﬁc asset/token that the announcement pertains to.</p>
+                                </div>
                             </div>
                         </div>
                         <div className="col thest">

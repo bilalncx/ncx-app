@@ -122,7 +122,7 @@ function SupportPageSet()
                                             </td>
                                             <td><p>{coin.blockchain}</p></td>
                                             <td><p>{coin.depostpayout}</p></td>
-                                            <td><a href={coin.blockexplorer} target="_blank" rel="noreferrer">Block explorer</a></td>
+                                            <td><a href={coin.blockexplorer} target="_blank" rel="noreferrer">Block Explorer</a></td>
                                         </tr>
                                     ))}
                                     </table>

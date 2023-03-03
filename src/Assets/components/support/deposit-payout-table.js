@@ -336,14 +336,14 @@ const coinslist = [
         depostpayout: '8.3',
         blockexplorer: 'https://etherscan.io'
     },
-    {
-        id: '42',
-        logo: 'https://ncx.cx/images/ftt.svg',
-        title: 'FTX Token',
-        blockchain: 'Ethereum',
-        depostpayout: '0.5',
-        blockexplorer: 'https://etherscan.io'
-    },
+    // {
+    //     id: '42',
+    //     logo: 'https://ncx.cx/images/ftt.svg',
+    //     title: 'FTX Token',
+    //     blockchain: 'Ethereum',
+    //     depostpayout: '0.5',
+    //     blockexplorer: 'https://etherscan.io'
+    // },
     {
         id: '43',
         logo: 'https://ncx.cx/images/lrc.svg',

@@ -507,6 +507,15 @@ a.support_signin {
     position: sticky;
     top: 100px;
 }
+.sprt-content ol{
+    margin: 15px 0px;
+}
+.sprt-content li {
+    font-size: 16px;
+    padding: 10px 0px;
+    line-height: 24px;
+    font-family: 'urbanist-regular';
+}
 /* *************************************** Details Page ********************************************* */
 
 
@@ -564,6 +573,47 @@ tr.coin-row td a:hover{
 }
 /* *************************************** TableRow Miniumum despoit and withdrawal end ************* */
 
+/* *************************************** Calculation Table start ********************************** */
+.calculation_table table{
+    margin: 50px 0px;
+    border: 1px solid #eeeeee !important;
+    width: 100%;
+    display: block;
+}
+.calculation_table table tr {
+    padding: 0px;
+    border-bottom: 1px solid #eeeeee !important;
+    align-items: flex-start !important;
+}
+.calculation_table table tr th {
+    padding: 15px 20px;
+    width: 33.33%;
+    font-size: 16px;
+    font-family: 'urbanist-semibold' !important;
+    font-weight: 600;
+    min-height: 60px;
+}
+.calculation_table table tr td {
+    padding: 15px 20px;
+    width: 33.33%;
+    flex: inherit;
+    font-family: 'urbanist-regular';
+}
+.calculation_table table tr th:nth-child(2), .calculation_table table tr td:nth-child(2) {
+    border-left: 1px solid #eeeeee;
+    border-right: 1px solid #eeeeee;
+}
+.calculation_table table p {
+    margin: 0px 0px 20px 0px !important;
+}
+.calculation_table table tr:nth-child(4){
+    border-bottom: 0px !important;
+}
+.calculation_table table tr:nth-child(3) td {
+    min-height: 250px;
+    max-height: 400px;
+}
+/* *************************************** Calculation Table end ***********************((*********** */
 
 
 
@@ -669,5 +719,28 @@ tr.coin-row td a:hover{
     }
     #support_faqdetails #insight_page .container {
         padding: 40px 0px !important;
+    }
+    .calculation_table table tr td, .calculation_table table tr th{
+        padding: 15px 10px !important;
+    }
+    .calculation_table table tr td:nth-child(1), .calculation_table table tr th:nth-child(1){
+        width: 25% !important;
+    }
+    .calculation_table table tr td:nth-child(2), .calculation_table table tr th:nth-child(2){
+        width: 37.5% !important;
+    }
+    .calculation_table table tr td:nth-child(3), .calculation_table table tr th:nth-child(3){
+        width: 37.5% !important;
+    }
+    .calculation_table table p {
+        font-size: 12px;
+    }
+    .calculation_table table tr:nth-child(3) td {
+        min-height: 300px;
+        max-height: 600px;
+    }
+    #insight_detail .sticky-bar, .leftsidebar.blog-stick, .rightsidebar.blog-stick, .support_leftbar.blog-stick, .support_articles.blog-stick{
+        position: relative;
+        top: 0px;
     }
 }
