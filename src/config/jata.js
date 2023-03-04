@@ -1,5 +1,73 @@
 const blogListdata = [
   {
+    id: 101,
+    title: 'Silvergate suspends crypto payments network; shares fall after-hours',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Silvergate Capital Corp said on Friday it made a "risk-based decision" to discontinue the Silvergate Exchange Network, its crypto payments network, two days after the digital asset-focused bank raised doubts about its viability.</p>
+    </div>,
+    authorName: 'Hannah Lang and Akriti Sharma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 05:55 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-101.webp',
+    content: <div className="blog-content">
+      <p>(Reuters) - Silvergate Capital Corp said on Friday it made a "risk-based decision" to discontinue the Silvergate Exchange Network, its crypto payments network, two days after the digital asset-focused bank raised doubts about its viability.</p>
+      <p>"Effective immediately Silvergate Bank has made a risk-based decision to discontinue the Silvergate Exchange Network (SEN). All other deposit-related services remain operational," Silvergate said in a statement posted on its website.</p>
+      <p>The Silvergate Exchange Network, one of the bank's most popular offerings, enabled round-the-clock transfers between investors and crypto exchanges, unlike traditional bank wires, which can often take days to settle.</p>
+      <p>Silvergate shares on Friday slumped more than 2% in after-hours trading, after closing up 0.9% at $5.77 in regular trade. The shares on Thursday had fallen to a record low, ending the day down more than 97% from their all-time high in November 2021.</p>
+      <p>Silvergate on Wednesday warned in a filing that it was evaluating its ability to operate as a going concern, disclosing that it had sold additional debt securities this year at a loss and that further losses mean the bank could be “less than well capitalized.”</p>
+      <p>After the warning, cryptocurrency heavyweights including Coinbase Global Inc and Galaxy Digital dropped Silvergate as their banking partner. Stablecoin issuers Paxos and Circle, Cboe’s digital asset exchange, and crypto exchanges Bitstamp and Gemini also suspended their partnerships with Silvergate.</p>
+      <p>(Reporting by Akriti Sharma in Bengaluru; Editing by Leslie Adler)</p>
+    </div>
+  },
+  {
+    id: 100,
+    title: 'U.S. Oil Will Grow Only 3% This Year. One Reason: Executive Compensation.',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Morgan Stanley analyst Devin McDermott tracks the change in pay incentives for oil executives from high production to</p>
+    </div>,
+    authorName: 'Avi Salzman',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 05:55 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-100.webp',
+    content: <div className="blog-content">
+      <p>U.S. Oil Will Grow Only 3% This Year. One Reason: Executive Compensation</p>
+      <p>Morgan Stanley analyst Devin McDermott tracks the change in pay incentives for oil executives from high production to investor-pleasing efficiency metrics like free cash flow.</p>
+      <p><a href="https://www.barrons.com/articles/u-s-oil-will-grow-only-3-this-year-one-reason-executive-compensation-de460308?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 99,
+    title: 'Twitters revenue, adjusted earnings drop about 40% in December - WSJ',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>FILE PHOTO: Twitter corporate headquarters building in San Francisco, California</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 06:44 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-99.webp',
+    content: <div className="blog-content">
+      <p>FILE PHOTO: Twitter corporate headquarters building in San Francisco, California</p>
+      <p>(Reuters) - Twitter Inc reported a drop of about 40% year-over-year in both revenue and adjusted earnings for the month of December, the Wall Street Journal reported on Friday citing people familiar with the matter.</p>
+      <p>The report comes after several advertisers slashed their spending on the social-media platform after Elon Musk took charge of the company on Oct. 27, resulting in a 71% drop in advertising spend on Twitter during December, data from advertising research firm—Standard Media Index showed.</p>
+      <p>Twitter did not immediately respond to a Reuters request for comment.</p>
+      <p>Musk, who warned in November about the possibility of the Twitter going bankrupt, said in December that the company was on track to be "roughly cash flow break-even" in 2023.</p>
+      <p>Twitter made its first interest payment in January on a loan that banks provided to help finance billionaire Musk's purchase of the social media company last year.</p>
+      <p>(Reporting by Anirudh Saligrama in Bengaluru; Editing by Himani Sarkar)</p>
+    </div>
+  },
+  {
     id: 98,
     title: 'iPhone Maker Plans $700 Million India Plant in Shift From China',
     category: 'Markets',
