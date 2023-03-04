@@ -67,7 +67,7 @@ gsap.to('.horizontal', {
                     <div className="derivatives-trade">
                         <div className="deri-row">
                             <div className="col">
-                                <h1>Trade Derivatives with up to 200x Leverage</h1>
+                                <h1>Trade Derivatives with up to 100x Leverage</h1>
                                 <div className="bullets">
                                     <span>Crypto Derivatives</span>
                                     <span>Equities (US, EU, Asia Stock Markets)</span>
@@ -265,7 +265,7 @@ gsap.to('.horizontal', {
                     <div className="ncx-tradeassets">
                         <div className="tradeasset-row">
                             <div className="asset-hed">
-                                <h1>Trade Derivatives with up to 200x Leverage</h1>
+                                <h1>Trade Derivatives with up to 100x Leverage</h1>
                                 <p>With Ultra Fast Execution and Deep Liquidity</p>
                             </div>
                             <NCXTradeAssets />

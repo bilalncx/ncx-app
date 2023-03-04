@@ -46,13 +46,13 @@ const data = [
     // },
     {
         question: 'What are benefits of using NCX vs other Crypto Exchanges?',
-        answer: 'NCX is the first all-on-one, Hybrid Platform to combine CEX, DEX and Derivatives Trading of Cryptocurrencies, Stock Market, ETFs, Indexes, Metals, Forex with up to 200x Leverage. Bridging the gap between the DeFi and Centralised Finance, allowing Individuals and Corporate Entities a full spectrum of products, services and applications across Financial Markets, Cryptocurrencies and Decentralised Finance.',
+        answer: 'NCX is the first all-on-one, Hybrid Platform to combine CEX, DEX and Derivatives Trading of Cryptocurrencies, Stock Market, ETFs, Indexes, Metals, Forex with up to 100x Leverage. Bridging the gap between the DeFi and Centralised Finance, allowing Individuals and Corporate Entities a full spectrum of products, services and applications across Financial Markets, Cryptocurrencies and Decentralised Finance.',
     },
     {
-        question: 'What is NCX Trade? How to start trading with up to 200x Leverage?',
+        question: 'What is NCX Trade? How to start trading with up to 100x Leverage?',
         answer: 
         <div>
-            <p>Derivatives Trading is available across 500 markets including Crypto Derivatives,  Equities (including US, EU and Asia Stock Markets), ETF’s, Forex, Indices, Metals, Oil and Gas with up to 200x Leverage.</p>
+            <p>Derivatives Trading is available across 500 markets including Crypto Derivatives,  Equities (including US, EU and Asia Stock Markets), ETF’s, Forex, Indices, Metals, Oil and Gas with up to 100x Leverage.</p>
             <p>Simply Sign Up, complete KYC and start trading in minutes. You can top up your Spot wallet on NCX with crypto and covert to USD on the platform then use the available USD for trading by simply moving the necessary USD to and from your Trading Wallet. NCX Trade is a separate APP available on iOS and Android which is linked to your main NCX Account. For advanced security and in compliance with risk management the trading wallets are kept separate from spot wallets on the platform.</p>
         </div>,
     },

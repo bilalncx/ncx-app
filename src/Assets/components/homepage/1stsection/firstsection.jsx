@@ -38,7 +38,7 @@ function HomeFirstSection()
                         <span>Derivatives</span>
                     </div>
                     <div className="hashtag">
-                        <span>Up to 200x Leverage </span>
+                        <span>Up to 100x Leverage </span>
                         <span>DeFi Staking & LP’s </span>
                         <span>Forex</span>
                     </div>
@@ -52,7 +52,7 @@ function HomeFirstSection()
                         <span>Spot & Derivatives </span>
                     </div>
                     <div className="hashtag mobile">
-                        <span>Up to 200x Leverage </span>
+                        <span>Up to 100x Leverage </span>
                         <span>Equities (US, EU, Asia  Markets)</span>
                     </div>
                     <div className="hashtag mobile">

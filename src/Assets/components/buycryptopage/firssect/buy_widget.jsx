@@ -12,7 +12,6 @@ function BuyWidfet(){
             frameborder="0"
             allow="accelerometer; autoplay; camera; gyroscope; payment"
             >
-                <h1>red</h1>
             </iframe>
         </div>
     )

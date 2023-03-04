@@ -68,6 +68,7 @@ function QuestionTabs()
                             <h1>Deposits</h1>
                             <p>Deposits on Desktop</p>
                             <p>Deposits on Mobile App</p>
+                            <p>Minimum Deposits</p>
                         </a>
                     </div>
                     <div className="question_row">
@@ -75,6 +76,7 @@ function QuestionTabs()
                             <h1>Withdrawals</h1>
                             <p>Withdrawals on Desktop</p>
                             <p>Withdrawals on Mobile App</p>
+                            <p>Minimum Withdrawal</p>
                         </a>
                         <a href="#" className="col second animated animation:fade-in-up">
                             <h1>DEX</h1>
@@ -83,7 +85,11 @@ function QuestionTabs()
                         </a>
                         <a href="/faq_spot_trading" className="col third animated animation:fade-in-up">
                             <h1>Spot Trading</h1>
-                            <p>Spot Trading Tutorial</p>
+                            <p>Order Types</p>
+                            <p>How to Trade Spot on Web</p>
+                            <p>How to Trade Spot on App</p>
+                            <p>What is Taker & Maker?</p>
+                            <p>Definitions and Calculations</p>
                         </a>
                     </div>
                     <div className="question_row">

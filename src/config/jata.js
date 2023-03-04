@@ -1,9 +1,1102 @@
 const blogListdata = [
   {
+    id: 98,
+    title: 'iPhone Maker Plans $700 Million India Plant in Shift From China',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Apple Inc. partner Foxconn Technology Group plans to invest about $700 million on a new plant in India to ramp up local production, people familiar with the matter said, underscoring an accelerating shift of manufacturing away from China as Washington-Beijing tensions grow.</p>
+    </div>,
+    authorName: 'Sankalp Phartiyal and Debby Wu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 07:39 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-98.webp',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- Apple Inc. partner Foxconn Technology Group plans to invest about $700 million on a new plant in India to ramp up local production, people familiar with the matter said, underscoring an accelerating shift of manufacturing away from China as Washington-Beijing tensions grow.</p>
+      <p>The Taiwanese company, also known for its flagship unit Hon Hai Precision Industry Co., plans to build the plant to make iPhone parts on a 300-acre site close to the airport in Bengaluru, the capital of the southern Indian state of Karnataka, according to the people, who asked not to be named as the information is not public.</p>
+      <p>The factory may also assemble Apple’s handsets, some of the people said, and Foxconn may also use the site to produce some parts for its nascent electric vehicle business. Apple declined to comment.</p>
+      <p>The investment is one of Foxconn’s biggest single outlays to date in India and underscores how China’s at risk of losing its status as the world’s largest producer of consumer electronics. Apple and other US brands are leaning on their Chinese-based suppliers to explore alternative locations such as India and Vietnam. It’s a rethink of the global supply chain that’s accelerated during the pandemic and the war in Ukraine and could reshape the way global electronics are made.</p>\
+      <p>Hon Hai Chairman Young Liu, who met India’s Prime Minister Narendra Modi this week, did not comment on a possible Karnataka investment in a statement on Saturday outlining his visit.</p>
+      <p>“My trip this week supported Foxconn’s efforts to deepen partnerships, meet old friends and make new ones, and seek cooperation in new areas such as semiconductor development and electric vehicles,” Liu said. “Foxconn will continue to communicate with local governments to seek the most beneficial development opportunities for the company and all stakeholders.”</p>
+      <p>The new production site in India is expected to create about 100,000 jobs, the people said. The company’s sprawling iPhone assembly complex in the Chinese city of Zhengzhou employs some 200,000 at the moment, although that number surges during peak production season.</p>
+      <p>Output at the Zhengzhou plant plunged ahead of the year-end holidays due to Covid-related disruptions, spurring Apple to re-examine its China-reliant supply chain. Foxconn’s decision is the latest move that suggests suppliers may move capacity out of China far faster than expected.</p>
+      <p>What Bloomberg Intelligence Says</p>
+      <p>The plan may herald an accelerated relocation from China for Hon Hai. Once completed, we calculate this factory could materially improve the component supply in India and potentially boost the country’s share of iPhone assembly to 10-15 % from a sub-5% currently.</p>
+      <p>— Steven Tseng and Sean Chen, analysts</p>
+      <p>Several government officials including India’s deputy tech minister tweeted confirmation of details around the upcoming plant on Friday, including that it will be built soon and create 100,000 jobs.</p>
+      <p>The plans could still change as Foxconn is in the process of finalizing investment and project details, the people said. It’s also unclear if the plant represents new capacity, or production that Foxconn is shifting from other sites such as its Chinese facilities.</p>
+      <p>The Karnataka state government also did not respond to a Bloomberg request for comment. Liu has committed to another manufacturing project in the neighboring Telangana state.</p>
+      <p>Foxconn’s decision would be a coup for Modi’s government, which sees an opportunity to close India’s tech gap with China as Western investors and corporations sour on Beijing’s crackdowns on the private sector.</p>
+      <p>India has offered financial incentives to Apple suppliers such as Foxconn, which began making the latest generation of iPhones at a site in Tamil Nadu last year. Smaller rivals Wistron Corp. and Pegatron Corp. have also ramped up in India, while suppliers such as Jabil Inc. have begun making components for AirPods locally.</p>
+      <p>--With assistance from Mark Gurman.</p>
+      <p>(Updates with Hon Hai statement in fifth paragraph)</p>
+      <p>Most Read from Bloomberg Businessweek</p>
+      <ul>
+        <li><a href="https://www.bloomberg.com/news/features/2023-03-02/leonardo-dicaprio-kim-kardashian-grilled-for-1mdb-secrets-fbi-documents-show?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">FBI Documents Show Leonardo DiCaprio, Kim Kardashian Grilled for 1MDB Secrets</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/top-independent-film-and-tv-studios-struggle-to-find-buyers?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Yellowstone Backers Wanted to Cash Out—Then the Streaming Bubble Burst</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-02/gen-x-female-executives-are-leaving-their-jobs-in-droves?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Female Execs Are Exhausted, Frustrated and Heading for the Exits</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/germany-canada-iceland-among-best-places-for-child-care-costs?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">How Countries Leading on Early Years of Child Care Get It Right</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-02-28/xbox-game-pass-expands-as-regulators-probe-microsoft-activision-deal?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Microsoft Expands Game Pass as Regulators Fret Over Activision Deal</a></li>
+      </ul>
+      <p>©2023 Bloomberg L.P. </p>
+    </div>
+  },
+  {
+    id: 97,
+    title: 'China E-Commerce Giant JD Set for $1.4 Billion Discount Spree',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The campaign has spurred concerns that larger rival Alibaba Group Holding Ltd. or upstart PDD Holdings Inc. may </p>
+    </div>,
+    authorName: 'Jane Zhang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 08:04 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-97.webp',
+    content: <div className="blog-content">
+      <p><strong>China E-Commerce Giant JD Set for $1.4 Billion Discount Spree</strong></p>
+      <p>(Bloomberg) -- JD.com Inc. will offer discounts across its online shopping platforms from Monday in a 10 billion yuan ($1.4 billion) campaign to capture new users ahead of an anticipated Chinese economic recovery this year.</p>
+      <p>The campaign has spurred concerns that larger rival Alibaba Group Holding Ltd. or upstart PDD Holdings Inc. may retaliate with cuts of their own, igniting a margin-eroding price war. JD announced the launch of the subsidy plan in a statement on its official WeChat account Saturday.</p>
+      <p>China’s internet firms are revving up efforts to outdo each other since Beijing began to wind back its bruising crackdown on the tech sector, spurring an abrupt surge in competition that’s spooking investors. Meituan is said to be expanding into Hong Kong and has embarked on a campaign to hire 10,000 people on the mainland — an effort to beat back heightened competition from new entrants such as ByteDance Ltd. in the $145 billion Chinese food-delivery arena.</p>
+      <p>JD shares tumbled after news of the impending rivalry surfaced in domestic media last week. Alibaba executives have since dismissed speculation it would directly engage its longtime rival, warning that a return to the price wars of years past was in nobody’s best interest.</p>
+      <p>In 2020, Beijing launched a crackdown campaign to rein in what it called the “reckless expansion of capital,” affecting sectors from e-commerce to online education and the sharing economy. The government has begun rolling back restrictions since late 2022, intent on reviving a Covid-struck economy.</p>
+      <p>A $33 Billion Hit Shows China’s Newest Stock Worry: Tech Watch</p>
+      <p>Most Read from Bloomberg Businessweek</p>
+      <ul>
+        <li><a href="https://www.bloomberg.com/news/features/2023-03-02/leonardo-dicaprio-kim-kardashian-grilled-for-1mdb-secrets-fbi-documents-show?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">FBI Documents Show Leonardo DiCaprio, Kim Kardashian Grilled for 1MDB Secrets</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/top-independent-film-and-tv-studios-struggle-to-find-buyers?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Yellowstone Backers Wanted to Cash Out—Then the Streaming Bubble Burst</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-02/gen-x-female-executives-are-leaving-their-jobs-in-droves?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Female Execs Are Exhausted, Frustrated and Heading for the Exits</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/germany-canada-iceland-among-best-places-for-child-care-costs?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">How Countries Leading on Early Years of Child Care Get It Right</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-02-28/xbox-game-pass-expands-as-regulators-probe-microsoft-activision-deal?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Microsoft Expands Game Pass as Regulators Fret Over Activision Deal</a></li>
+      </ul>
+    </div>
+  },
+  {
+    id: 96,
+    title: 'OpenAI Rival Stable Diffusion Maker Seeks to Raise Funds at $4 Billion Valuation',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The parent company of Stable Diffusion, an AI tool for making digital images, is seeking to raise money at a valuation of about $4 billion, according to people familiar with the matter, who asked to not be identified because it isn’t public. It isn’t clear how much capital Stability AI Ltd. is seeking to raise in the potential round. A final decision hasn’t been made on whether to go ahead with the financing and the valuation could still change, the people added.</p>
+    </div>,
+    authorName: 'Katie Roof, Mark Bergen and Hannah Miller',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 08:31 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-96.webp',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- With artificial intelligence booming, one key player in the fast-growing space is talking to investors about raising more money after just reaching unicorn status in a funding round late last year.</p>
+      <p>The parent company of Stable Diffusion, an AI tool for making digital images, is seeking to raise money at a valuation of about $4 billion, according to people familiar with the matter, who asked to not be identified because it isn’t public. It isn’t clear how much capital Stability AI Ltd. is seeking to raise in the potential round. A final decision hasn’t been made on whether to go ahead with the financing and the valuation could still change, the people added.</p>
+      <p>London-based Stability, whose investors include Coatue Management and Lightspeed Venture Partners, last raised $101 million at a valuation of about $1 billion, Bloomberg News reported in October.</p>
+      <p>Representatives for Stability AI didn’t provide a comment.</p>
+      <p>That it’s going back to market so soon amid a tech downturn at a much richer valuation underscores how artificial intelligence in recent months has become the hottest topic in Silicon Valley, with the potential to upend entertainment, finance and even education.</p>
+      <p>Microsoft Corp., Bloomberg News reported in January, is investing $10 billion in OpenAI, the parent of ChatGPT, a leader in the technology, with tools that can generate uncannily detailed pictures, text and other media with a short prompt. LinkedIn co-founder Reid Hoffman said Friday that he was stepping down from the board of OpenAI, as his venture capital firm increasingly invests in other AI companies.</p>
+      <p>Other tech giants including Alphabet Inc., Amazon.com Inc. and Meta Platforms Inc. are also competing to get out front in AI.</p>
+      <p>Stable Diffusion competes with OpenAI’s Dall-E 2, another digital-image tool.</p>
+      <p>The way Stable Diffusion works is that people type in a description of an image — say an astronaut riding a horse — and the program spits out a realistic or surrealistic picture. The company says it stands apart from competitors because its open-source software is available to the public. Its practical uses include designing video games to advertisements.</p>
+      <p>--With assistance from Dina Bass.</p>
+      <p>(Updates with Reid Hoffman leaving OpenAI board in sixth paragraph.)</p>
+      <p>Most Read from Bloomberg Businessweek</p>
+      <ul>
+        <li><a href="https://www.bloomberg.com/news/features/2023-03-02/leonardo-dicaprio-kim-kardashian-grilled-for-1mdb-secrets-fbi-documents-show?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">FBI Documents Show Leonardo DiCaprio, Kim Kardashian Grilled for 1MDB Secrets</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/top-independent-film-and-tv-studios-struggle-to-find-buyers?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Yellowstone Backers Wanted to Cash Out—Then the Streaming Bubble Burst</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-02/gen-x-female-executives-are-leaving-their-jobs-in-droves?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Female Execs Are Exhausted, Frustrated and Heading for the Exits</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/germany-canada-iceland-among-best-places-for-child-care-costs?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">How Countries Leading on Early Years of Child Care Get It Right</a></li>
+        <li><a href="https://www.bloomberg.com/news/articles/2023-02-28/xbox-game-pass-expands-as-regulators-probe-microsoft-activision-deal?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Microsoft Expands Game Pass as Regulators Fret Over Activision Deal</a></li>
+      </ul>
+      <p>©2023 Bloomberg L.P.</p>
+    </div>
+  },
+  {
+    id: 95,
+    title: 'Exclusive-Nvidias plans for sales to Huawei imperiled if U.S. tightens Huawei curbs-draft',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>WASHINGTON (Reuters) - U.S. chipmaker Nvidia Corp's plans to sell technology to China's Huawei would be thwarted if the U.S. government proceeds with a proposal to further restrict shipments to the blacklisted company, a draft report by a government contractor shows.</p>
+    </div>,
+    authorName: 'Alexandra Alper',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 08:36 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-95.webp',
+    content: <div className="blog-content">
+      <p>FILE PHOTO: Foxconn to use Nvidia chips to build self-driving platforms</p>
+      <p>By Alexandra Alper</p>
+      <p>WASHINGTON (Reuters) - U.S. chipmaker Nvidia Corp's plans to sell technology to China's Huawei would be thwarted if the U.S. government proceeds with a proposal to further restrict shipments to the blacklisted company, a draft report by a government contractor shows.</p>
+      <p>The Biden administration has been considering limiting the items it authorizes U.S. companies to ship to telecoms equipment giant Huawei Technologies Co, which was added to a U.S. trade blacklist in 2019 but which continues to receive billions in U.S. goods under a special plan implemented by the Trump administration.</p>
+      <p>"The proposed 2023 amendment of (the Commerce Department's) licensing will likely have a high economic impact on Nvidia," according to excerpts of the draft report seen by Reuters, referring to the company's "pending license value."</p>
+      <p>Nvidia's plans to sell to Huawei have not been previously reported.</p>
+      <p>A Nvidia spokesperson declined to comment on the document, saying: "The China market presents a significant opportunity for the U.S. semiconductor industry. While we are unable to comment on any pending license requests, we work with customers and partners worldwide to comply with all applicable export controls and meet market demand.”</p>
+      <p>A senior State Department Official said the document was a preliminary draft prepared by a contractor, and the department "would not have approved of the report in its current form." It also said the government "has written and contracted multiple reports on this subject, based on different contingencies, which arrive at very different conclusions."</p>
+      <p>The White House and Commerce Department declined to comment. Huawei did not respond to a request for comment.</p>
+      <p>The document shows the Biden administration is seeking to assess the impact on U.S. companies of proposed Huawei policy changes before imposing new rules that could crimp projected revenue streams at a time when the tech industry is already reeling. It also provides unusual insight into the politically sensitive question of which U.S. companies are seeking business ties to Huawei, one of Washington's most penalized Chinese companies.</p>
+      <p>Reuters could not learn the details of the specific policy change whose impact was being assessed in the report.</p>
+      <p>The report suggested Qualcomm would likely suffer a "moderate economic impact" from the change in policy, in contrast to Huawei. Indeed, the loss of access to Qualcomm's modem chips would have a bigger impact on Huawei, the report forecast, since Huawei "relies heavily on Qualcomm's modem chips to support its smart phone offering."</p>
+      <p>Qualcomm did not respond to a request for comment.</p>
+      <p>Reuters reported in 2021 that U.S. officials had approved license applications worth hundreds of millions of dollars for Huawei to buy chips for its growing auto component business, including vehicle components such as video screens and sensors, as trade restrictions crippled other business lines.</p>
+      <p>Huawei was placed on the "entity list" in 2019 amid fears it could spy on Americans and allegations it was stealing intellectual property and violating sanctions. The U.S requires that suppliers seek a special license that is usually denied when selling U.S. goods to companies on the list. But the Trump administration instituted a more lenient policy for Huawei, blocking its access to 5G chips but allowing other items like 4G chips to be shipped to the firm.</p>
+      <p>The Commerce Department's top export controls official, Alan Estevez, said this week the Trump-era policy allowing U.S. technology below the “5G level" to be shipped to Huawei was "under assessment."</p>
+      <p>But sources say there are differences within the administration odds over how far to go: some officials advocate blocking all licenses to Huawei suppliers and revoking existing authorizations, while others want to extend restrictions only to 4G chips and other targeted technologies going forward.</p>
+      <p>(Reporting by Alexandra Alper; Additional Reporting by Karen Freifeld and Stephen Nellis; Editing by Chris Sanders and William Mallard)</p>
+    </div>
+  },
+  {
+    id: 94,
+    title: 'U.S. Prepares New Rules on Investment in China',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The Biden administration is preparing a new program that could prohibit American investment in certain sectors in China, a step to guard U.S. technological advantages amid a growing competition between the world’s two largest economies.</p>
+    </div>,
+    authorName: 'Andrew Duehren',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 08:47 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-94.webp',
+    content: <div className="blog-content">
+      <p>The Biden administration is preparing a new program that could prohibit American investment in certain sectors in China, a step to guard U.S. technological advantages amid a growing competition between the world’s two largest economies.</p>
+      <p><a href="https://www.wsj.com/articles/u-s-prepares-new-rules-on-investment-in-technology-abroad-a451e035?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 93,
+    title: 'US prepares new rules on investment in technology abroad- WSJ',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - The Treasury Department is preparing a new program that could prohibit U.S. investment in certain sectors of adversarial nations, the Wall Street Journal reported on Friday citing copies of reports provided to lawmakers on Capitol Hill viewed by the newspaper.</p>
+    </div>,
+    authorName: 'Jose Joseph',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 09:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-93.webp',
+    content: <div className="blog-content">
+      <p>(Reuters) - The Treasury Department is preparing a new program that could prohibit U.S. investment in certain sectors of adversarial nations, the Wall Street Journal reported on Friday citing copies of reports provided to lawmakers on Capitol Hill viewed by the newspaper.</p>
+      <p>The Biden administration's work on the new rules would in practice largely deal with U.S. investments in China though the report given to lawmakers did not identify any countries, the WSJ said.</p>
+      <p>The new rules are expected to cover private-equity and venture-capital investments in advanced semiconductors, supercomputing and some forms of artificial intelligence, the WSJ reported quoting people familiar with the matter as saying.</p>
+      <p>The Treasury and Commerce departments expected to finalize their policy in the near future, it added.</p>
+      <p>Reuters reported last month that Biden administration was planning an outright ban on investments in some Chinese technology companies and increased scrutiny of others.</p>
+      <p>The United States passed a sweeping set of regulations last year that aimed at hobbling China's semiconductor industry.</p>
+      <p>(Reporting by Jose Joseph and Anirudh Saligrama in Bengaluru; Editing by Himani Sarkar and Simon Cameron-Moore)</p>
+    </div>
+  },
+  {
+    id: 92,
+    title: 'Mortgage rate deals for week ending March 4, 2023: Top offers from lenders',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The average rate for mortgage offers clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. </p>
+    </div>,
+    authorName: 'Jeff Ostrowski',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 09:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-92.webp',
+    content: <div className="blog-content">
+      <p>The average rate for <a href="https://www.bankrate.com/mortgages/mortgage-rates/" target="_blank" rel="noreferrer">mortgage offers</a> clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. Mortgage rates remain higher than they were a year ago, so it remains important to shop around if you want to find a good deal for a new loan or a <a href="https://www.bankrate.com/mortgages/refinance-rates/" target="_blank" rel="noreferrer">refinance</a>.</p>
+      <p>Bankrate’s “clicked-on” rate reflects both purchase mortgages and refinances with all terms, including 30-year and 15-year loans.</p>
+      <p>The best deals come with some caveats. For instance, to reel in the best combination of interest rate and costs, you generally need a credit score of 740 or higher and a down payment of 20 percent or more. Many of the lowest rates posted on Bankrate.com also require borrowers to buy <a href="https://www.bankrate.com/mortgages/mortgage-points/" target="_blank" rel="noreferrer">discount points</a>, a way of lowering the loan’s interest by paying a fee at closing — known as “buying down” the rate.</p>
+      <p><a href="https://www.bankrate.com/mortgages/analysis/" target="_blank" rel="noreferrer">Rates for mortgages</a> change constantly, and they’ve recently risen. Those ups and downs reflect the <a href="https://www.bankrate.com/mortgages/rate-volatility-tips/" target="_blank" rel="noreferrer">volatility of the mortgage market</a> as the economy continues to grapple with <a href="https://www.bankrate.com/real-estate/inflation-housing-market/" target="_blank" rel="noreferrer">slowing-but-still-significant</a> inflation and a looming recession.</p>
+      <p>While it still might make sense to refinance your mortgage, the rationale has changed: Most refis now are being done by homeowners pulling out equity to pay for home renovations or repairs.</p>
+      <p>Key Takeway</p>
+      <p>Be sure to get offers from at least three lenders — you can save thousands of dollars by comparison shopping.</p>
+      <p><a href="https://www.bankrate.com/mortgages/mortgage-rates/" target="_blank" rel="noreferrer">Compare mortgage rates in your area now.</a></p>
+      <h3>Average clicked on rate for purchase loans</h3>
+      <p>The average rate clicked on by Bankrate readers for 30-year purchase mortgages was 6.31 percent on Thursday.</p>
+      <h3>Average clicked on rate for refinance loans</h3>
+      <p>The typical rate clicked on by Bankrate readers for 30-year refinances stood at 6.23 percent Thursday.</p>
+      <p>You can use Bankrate’s mortgage payment calculator to estimate your monthly payments and see the effect of making extra payments. The tool can also help you determine how much interest you’ll pay over the life of the loan.</p>
+      <p><a href="https://www.bankrate.com/mortgages/refinance-rates/" target="_blank" rel="noreferrer">Compare refinance rates in your area now.</a></p>
+    </div>
+  },
+  {
+    id: 91,
+    title: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
+    slug: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
+    </div>,
+    authorName: 'Tae Kim',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 2, 2023 11:35 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-91.webp',
+    content: <div className="blog-content">
+      <p>Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst</p>
+      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
+      <p><a href="https://www.barrons.com/articles/nvidia-amd-intel-chip-stock-price-fb44087f?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 90,
+    title: 'Stocks Are Surging Again. Why This Rally Could Last Into Spring.',
+    slug: 'Stocks Are Surging Again. Why This Rally Could Last Into Spring.',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Stifel strategists see the S&P 500 reaching 4300 by April. Plus, investment newsletter commentary on corporate earnings, small-caps’ advantage, and “voluntary” defaults in commercial real estate.</p>
+    </div>,
+    authorName: 'BARRONS',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 3:35 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-90.webp',
+    content: <div className="blog-content">
+      <p>Stocks Are Surging Again. Why This Rally Could Last Into Spring.</p>
+      <p>Stifel strategists see the S&P 500 reaching 4300 by April. Plus, investment newsletter commentary on corporate earnings, small-caps’ advantage, and “voluntary” defaults in commercial real estate.</p>
+      <p><a href="https://www.barrons.com/articles/stocks-are-surging-again-why-this-rally-could-last-into-spring-f9a8f544?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 89,
+    title: 'MasterCard (MA) Outpaces Stock Market Gains: What You Should Know',
+    slug: 'MasterCard (MA) Outpaces Stock Market Gains: What You Should Know',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>MasterCard (MA) closed at $361.50 in the latest trading session, marking a +1.67% move from the prior day. This move outpaced the S&P 500's daily gain of 1.62%. Meanwhile, the Dow gained 1.17%, and the Nasdaq, a tech-heavy index, added 12.91%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 2:45 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-89.webp',
+    content: <div className="blog-content">
+      <p>MasterCard (MA) closed at $361.50 in the latest trading session, marking a +1.67% move from the prior day. This move outpaced the S&P 500's daily gain of 1.62%. Meanwhile, the Dow gained 1.17%, and the Nasdaq, a tech-heavy index, added 12.91%.</p>
+      <p>Coming into today, shares of the processor of debit and credit card payments had lost 5.17% in the past month. In that same time, the Business Services sector lost 5.68%, while the S&P 500 lost 4.54%.</p>
+      <p>Investors will be hoping for strength from MasterCard as it approaches its next earnings release. The company is expected to report EPS of $2.70, down 2.17% from the prior-year quarter. Our most recent consensus estimate is calling for quarterly revenue of $5.61 billion, up 8.58% from the year-ago period.</p>
+      <p>MA's full-year Zacks Consensus Estimates are calling for earnings of $12.13 per share and revenue of $25.03 billion. These results would represent year-over-year changes of +13.9% and +12.55%, respectively.</p>
+      <p>It is also important to note the recent changes to analyst estimates for MasterCard. These recent revisions tend to reflect the evolving nature of short-term business trends. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Our research shows that these estimate changes are directly correlated with near-term stock prices. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
+      <p>The Zacks Rank system ranges from #1 (Strong Buy) to #5 (Strong Sell). It has a remarkable, outside-audited track record of success, with #1 stocks delivering an average annual return of +25% since 1988. Within the past 30 days, our consensus EPS projection has moved 0.09% higher. MasterCard is currently a Zacks Rank #3 (Hold).</p>
+      <p>Valuation is also important, so investors should note that MasterCard has a Forward P/E ratio of 29.32 right now. For comparison, its industry has an average Forward P/E of 14.8, which means MasterCard is trading at a premium to the group.</p>
+      <p>Meanwhile, MA's PEG ratio is currently 1.68. The PEG ratio is similar to the widely-used P/E ratio, but this metric also takes the company's expected earnings growth rate into account. Financial Transaction Services stocks are, on average, holding a PEG ratio of 1.18 based on yesterday's closing prices.</p>
+      <p>The Financial Transaction Services industry is part of the Business Services sector. This group has a Zacks Industry Rank of 90, putting it in the top 36% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+      <p>You can find more information on all of these metrics, and much more, on Zacks.com.</p>
+      <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. <a href="https://www.zacks.com/registration/pfp/?ALERT=RPT_7BEST_YHOSYND&ADID=SYND_YAHOO_7BEST_TALEOFTAPE_515&cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6-2061736" target="_blank" rel="noreferrer">Click to get this free report</a></p>
+      <p><a href="Mastercard Incorporated (MA) : Free Stock Analysis Report" target="_blank" rel="noreferrer">Mastercard Incorporated (MA) : Free Stock Analysis Report</a></p>
+      <p><a href="https://www.zacks.com/stock/news/2061736/mastercard-ma-outpaces-stock-market-gains-what-you-should-know?cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6-2061736" target="_blank" rel="noreferrer">To read this article on Zacks.com click here.</a></p>
+      <p><a href="https://www.zacks.com/" target="_blank" rel="noreferrer">Zacks Investment Research</a></p>
+    </div>
+  },
+  {
+    id: 88,
+    title: 'Market Rally Roars Back: What You Should Do Now; Apple, Tesla Lead 7 Stocks Near Buy Points',
+    slug: 'Market Rally Roars Back: What You Should Do Now; Apple, Tesla Lead 7 Stocks Near Buy Points',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The stock market rally continued a dramatic comeback. Time for investors act. Apple and Tesla are among stocks</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 2:11 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-88.webp',
+    content: <div className="blog-content">
+      <p>Market Rally Roars Back: What You Should Do Now; Apple, Tesla Lead 7 Stocks Near Buy Points</p>
+      <p>The stock market rally continued a dramatic comeback. Time for investors act. Apple and Tesla are among stocks near buy points.</p>
+      <p><a href="https://www.investors.com/market-trend/stock-market-today/market-rally-roars-back-what-you-should-do-apple-tesla-lead-7-stocks-near-buy-points/?src=A00220" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 87,
+    title: 'Tesla Is Getting Boring. That Isn’t a Bad Thing for the Stock.',
+    slug: 'Tesla Is Getting Boring. That Isn’t a Bad Thing for the Stock.',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Tesla Is Getting Boring. That Isn’t a Bad Thing for the Stock</p>
+    </div>,
+    authorName: 'Al Root',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:51 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-87.webp',
+    content: <div className="blog-content">
+      <p>Tesla Is Getting Boring. That Isn’t a Bad Thing for the Stock.</p>
+      <p>While the electric-vehicles maker is led by maverick Elon Musk and is trying to disrupt the global energy status quo, it's starting to look like other auto companies.</p>
+      <p><a href="https://www.barrons.com/articles/tesla-stock-elon-musk-ford-car-auto-cybertruck-investors-d1f55d56?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 86,
+    title: 'S&P 500 Notches Best Week Since Late January: Markets Wrap',
+    slug: 'S&P 500 Notches Best Week Since Late January: Markets Wrap',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- US stocks ended the week on a high note, driven by speculation that the Federal Reserve won’t raise interest rates beyond peak levels already priced in.</p>
+    </div>,
+    authorName: 'Denitsa Tsekova and Alice Atkins',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:36 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-86.jpg',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- US stocks ended the week on a high note, driven by speculation that the Federal Reserve won’t raise interest rates beyond peak levels already priced in.</p>
+      <p>A rally in the S&P 500 Friday helped snap a three-week losing streak. The Nasdaq 100 scored its best day since early February. Sentiment remained upbeat despite a report showing resilience in the service sector, as some investors wagered the impact of the Fed’s hikes on the economy would be delayed. A measure of prices paid by service providers showed costs rising at a slower pace, which was cheered by traders.</p>
+      <p>Bond yields rose for the week though Treasuries rallied on Friday, with the 10-year yield hovering around 3.96%. A benchmark of the dollar had its worst week since mid-January, ending four consecutive weeks of gains.</p>
+      <p>All eyes will be on the non-farm payrolls report next week for clues on whether the economy can handle more rate hikes. Data this week showed continued labor-market resilience in the US, supporting the case for the Fed to stick to its tightening policy, a theme that had pushed almost every major asset into the red in February.</p>
+      <p>But investors were heartened after Atlanta Fed’s Raphael Bostic said on Thursday that the central bank could possibly pause its rate hikes sometime this summer. Traders interpreted his comments as dovish, even though Bostic and his colleagues said decisions would continue to be data dependent and a Fed report on Friday emphasized that further rate increases are in store.</p>
+      <p>Read More: Barkin Favors Fed Acting More Deliberately Than Hikes Last Year</p>
+      <p>Traders are still optimistic because even the most hawkish Fed officials haven’t suggested that rates could need to go beyond levels already baked in, said Priya Misra, global head of rates strategy at TD Securities. Swap markets have been pricing a peak Fed policy rate of 5.5% in September.</p>
+      <p>“I think they stay at 5.5% and we have to see how data evolves in the second quarter,” she said on Bloomberg Television.</p>
+      <p>Misra also added that robust data doesn’t mean the Fed’s persistent tightening isn’t working.</p>
+      <p>“It takes a long time,” she said. “Policy only turned restrictive last year.”</p>
+      <p>Read More: Blaring Bond Alarms Are Falling on Deaf Ears in the Stock Market</p>
+      <p>Risk sentiment also received a boost on Friday from forecast-beating factory data from China. Oil gained for the fourth day, with confidence in China’s robust rebound supporting prices.</p>
+      <p>Some of the main moves in markets:</p>
+      <p>Stocks</p>
+      <ul>
+        <li>The S&P 500 rose 1.6% as of 4 p.m. New York time</li>
+        <li>The Nasdaq 100 rose 2%</li>
+        <li>The Dow Jones Industrial Average rose 1.2%</li>
+        <li>The MSCI World index rose 0.4%</li>
+      </ul>
+      <p>Currencies</p>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index fell 0.5%</li>
+        <li>The euro rose 0.3% to $1.0634</li>
+        <li>The British pound rose 0.8% to $1.2041</li>
+        <li>The Japanese yen rose 0.7% to 135.85 per dollar</li>
+      </ul>
+      <p>Cryptocurrencies</p>
+      <ul>
+        <li>Bitcoin fell 4.8% to $22,296.29</li>
+        <li>Ether fell 5% to $1,558.57</li>
+      </ul>
+      <p>Bonds</p>
+      <ul>
+        <li>The yield on 10-year Treasuries declined 10 basis points to 3.96%</li>
+        <li>Germany’s 10-year yield declined four basis points to 2.72%</li>
+        <li>Britain’s 10-year yield declined three basis points to 3.85%</li>
+      </ul>
+      <p>Commodities</p>
+      <ul>
+        <li>West Texas Intermediate crude rose 2% to $79.74 a barrel</li>
+        <li>Gold futures rose 1.1% to $1,861.30 an ounce</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Sujata Rao and Peyton Forte.</p>
+    </div>
+  },
+  {
+    id: 85,
+    title: 'U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy',
+    slug: 'U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy</p>
+    </div>,
+    authorName: 'Christine Idzelis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:36 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-85.webp',
+    content: <div className="blog-content">
+      <p>U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy</p>
+      <p>U.S. stocks close sharply higher Friday, with the Dow snapping four straight weeks of losses amid signs of a resilient economy despite Federal Reserve interest rate hikes.</p>
+      <p><a href="https://www.marketwatch.com/story/u-s-stock-futures-lean-higher-after-strong-wall-street-showing-d9238139?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 84,
+    title: 'Stock Traders Are Ignoring Blaring Bond Alarms',
+    slug: 'Stock Traders Are Ignoring Blaring Bond Alarms',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Indexes Close Near Session Highs As Yields Ease; Tesla China Deliveries Jump</p>
+    </div>,
+    authorName: 'Vildana Hajric and Katie Greifeld',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:15 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-84.webp',
+    content: <div className="blog-content">
+      <p><strong>Stock Traders Are Ignoring Blaring Bond Alarms</strong></p>
+      <p>(Bloomberg) -- The fixed-income market’s unblemished record of striking fear into the hearts of equity traders is in danger.</p>
+      <p>With rates on two- and 10-year Treasuries up a sixth straight week, and payouts on cash at or above the earnings yield of the S&P 500, stock investors are barely registering a shrug. Benchmark US share indexes just posted their biggest runup in a month, climaxing Friday with a jump in the Nasdaq 100 that topped any since early February.</p>
+      <p>Why peace is breaking out in risky assets during a week that at one point saw yields in the entire Treasury market rise above 4% is a mystery Wall Street has no easy answer for. Charts may be one reason: the S&P 500 bounced sharply after falling below its 200-day average on Wednesday. Another may be that investors are interpreting elevated rates as a sign strong economic data is likely to persist, says Chris Zaccarelli at Independent Advisor Alliance LLC.</p>
+      <p>“It’s interesting to see stocks whistling past the graveyard,” Zaccarelli said. “Stock investors may be looking for yields to drop as a sign we are going to have a recession and are seeing an all-clear in the sense that rates are higher.”</p>
+      <p>The indifference to calamity on display in stocks was particularly vivid as the week ended. Friday’s 1.6% gain in the S&P 500 pushed the Cboe Volatility Index below 19, testing lows hit when equities surged at the start of the year. A basket of most-shorted stocks rose 3.2% — it’s fifth straight advance — while a gauge of unprofitable technology companies vaulted almost 6%.</p>
+      <img src="https://ncx.cx/images/ncx-blog-84-1.webp" alt="ncx-blogs"/>
+      <p>It’s happening even as money cascades out of stock-focused ETFs and into fixed-income funds, as risk-free yields reach multi-year highs. Short-dated Treasury bills are enticing investors as yields push above 5%, eclipsing the payout on everything from profits generated by S&P 500 companies to those offered by the traditional 60/40 portfolio of stocks and bonds.</p>
+      <p>But while the trade is touted as risk free, it comes with opportunity costs. Grasping for a 5% yield right in an S&P 500 bear market strikes certain money managers as an iffy proposition.</p>
+      <p>“That short rate isn’t going to be at those levels forever — it’s probably going to end up lower,” said Robert Tipp, chief investment strategist at PGIM Fixed Income. “What we’ve seen over long periods of time is that the long-term assets outperform cash. And we have every reason to believe that’s going to be the case.”</p>
+      <p>Over the past year, the SPDR Bloomberg 1-3 Month T-Bill exchange-traded fund (ticker BIL) has returned about 2%, while the SPDR S&P 500 ETF Trust (SPY) has dropped 6.3% on a total return basis. However, over the past decade BIL is flat, while SPY soared 165% during an epic bull run.</p>
+      <p>“There’s much less ‘opportunity cost’ than what we’re used to because it’s a place where you can get paid while you wait, but there’s not long-term price potential like in equities,” said Liz Young, head of investment strategy at SoFi. “So for people with more than a five-year time horizon, you still need equities in the portfolio to set you up for compounding returns.”</p>
+      <p>The notion that yields may be peaking also has investors preaching caution when it comes to bonds. While bets have been building in recent weeks that the Fed will ultimately need to raise rates past 5% to stamp out inflation — boosting yields across the Treasury curve — traders are pricing in an end to increases by September.</p>
+      <p>Tipp hearkened back to the 1970s, when inflation was a threat to both stocks and bonds. As growth moderated and rates leveled off and then came down, equities rose — even though the economy remained weak.</p>
+      <p>“There’s a good chance that that kind of cyclicality is going to make its way through the markets, and people that lock in at the short term, exit the long-term markets and go into short term are going to suffer,” he said. “Their long-term returns are not going to be as high because the cash rates will probably move lower.”</p>
+      <p>Analysts say that the haven appeal of cash-like positions combined with reliable returns means investors have an attractive place to wait out any turbulence induced by the Fed’s path.</p>
+      <p>“I do think that we need to take advantage of the higher yields on the short-end of the yield curve, wait out this continued volatility,” David Spika, president and chief investment officer of GuideStone Capital Management, said in an interview. “And then at some point we’ll hit a bottom, and that will be a great time to re-risk, take that money out of cash, put it back in equities and you’ll benefit from that.”</p>
+      <p>Six-month Treasury bills currently yield about 5.1%, the highest since 2007, compared to the S&P 500’s earnings yield of roughly 5.3%. That’s the slimmest advantage for stocks since 2001.</p>
+      <p>Though bonds look attractive at current yields relative to equities, the risk investors are taking in allocating to cash is the uncertainty of that yield going forward, said Josh Emanuel, chief investment officer at Wilshire, which oversees roughly $90 billion.</p>
+      <p>“So, cash may pay you 4.5-5% today, but in one year that may not be the case, in two years that may not be the case,” he said in an interview. “The challenge in allocating to cash is that while you’re not taking any duration risk and you’re not taking any credit risk, the risk that you’re taking is the opportunity cost or the uncertainty risk associated with what that cash will pay you in the future relative to the yield you can lock in over the longer-term by moving out further on the yield curve.”</p>
+      <p>--With assistance from Lu Wang.</p>
+    </div>
+  },
+  {
+    id: 83,
+    title: 'Indexes Close Near Session Highs As Yields Ease; Tesla China Deliveries Jump',
+    slug: 'Indexes Close Near Session Highs As Yields Ease; Tesla China Deliveries Jump',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Indexes Close Near Session Highs As Yields Ease; Tesla China Deliveries Jump</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:00 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-83.webp',
+    content: <div className="blog-content">
+      <p>Indexes Close Near Session Highs As Yields Ease; Tesla China Deliveries Jump</p>
+      <p>Most sectors in the S&P 500 did well in the afternoon, while the defensive consumer staples sector lagged the rest.</p>
+      <p><a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-other-indexes-strengthen-in-afternoon-trading-this-index-outperforms-market/?src=A00220" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 82,
+    title: 'Data shows investors running toward safety of cash as stock market stumbles, yields rise',
+    slug: 'Data shows investors running toward safety of cash as stock market stumbles, yields rise',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Data shows investors running toward safety of cash as stock market stumbles, yields rise</p>
+    </div>,
+    authorName: 'Isabel Wang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:00 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-82.webp',
+    content: <div className="blog-content">
+      <p>Data shows investors running toward safety of cash as stock market stumbles, yields rise</p>
+      <p>Investors poured $68.1 billion into cash funds in the week to Wednesday as concerns over additional Federal Reserve rate hikes continue to rattle financial markets, according to EPFR data.</p>
+      <p><a href="https://www.marketwatch.com/story/data-shows-investors-running-toward-safety-of-cash-as-stock-market-stumbles-yields-rise-99fc098b?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 81,
+    title: 'S&P 500 Weekly Price Forecast – Stock Markets Recover Slightly for the Week',
+    slug: 'S&P 500 Weekly Price Forecast – Stock Markets Recover Slightly for the Week',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The S&P 500 initially dipped during the trading week to show signs of weakness, only to turn around and show signs of life again. We are back above the 4000 level, so that of course is a good sign, but at the end of the day, this is a market that looks as if it is trying to roll over.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 7:18 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-81.webp',
+    content: <div className="blog-content">
+      <h3>S&P 500 Weekly Technical Analysis</h3>
+      <p>The S&P 500 initially dipped during the trading week to show signs of weakness, only to turn around and show signs of life again. We are back above the 4000 level, so that of course is a good sign, but at the end of the day, this is a market that looks as if it is trying to roll over. Keep in mind that we have just gone through a significant portion of earnings, and it’s been a mixed bag to say the least.</p>
+      <p>If we were to break down below the bottom of the candlestick for the week, then it is likely that we could go down to the 3800 level, an area that previously had been rather supportive. By bouncing from there, it puts an imprint of support in that region that I think a lot of people will be paying attention to. On the upside, we have the 4100 level, which was previous support, but even more importantly we have the 4200 level above that has caused quite a bit of selling pressure, almost like a brick wall. That’s an area where we continue to see a lot of noise, so it does make a target that a lot of people may look for, but breaking above there might be a completely different question.</p>
+      <p>You can see that I had a channel drawn previously, and we did break out of it only to turn around and retest that area for potential support. Either way, this is a market that I think continues to see a lot of volatility, so longer term traders may struggle.</p>
+      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar" target="_blank" rel="noreferrer">economic calendar</a>.</p>
+      <p>This <a href="https://www.fxempire.com/forecasts/article/sp-500-weekly-price-forecast-stock-markets-recover-slightly-for-the-week-1300969" target="_blank" rel="noreferrer">article</a> was originally posted on FX Empire</p>
+      <p><strong>More From FXEMPIRE:</strong></p>
+      <p><a href="https://www.fxempire.com/forecasts/article/gbp-jpy-forecast-british-pound-continues-to-chop-back-and-forth-2-1300697" target="_blank" rel="noreferrer">GBP/JPY Forecast – British Pound Continues to Chop Back and Forth</a></p>
+      <p><a href="https://www.fxempire.com/forecasts/article/usd-jpy-forecast-us-dollar-pulls-back-slightly-against-yen-1300708" target="_blank" rel="noreferrer">USD/JPY Forecast – US Dollar Pulls Back Slightly Against Yen</a></p>
+      <p><a href="https://www.fxempire.com/forecasts/article/gbp-to-usd-weekly-forecast-british-pound-gives-up-much-of-the-gains-for-the-week-1300760" target="_blank" rel="noreferrer">GBP to USD Weekly Forecast – British Pound Gives Up Much of the Gains for the Week</a></p>
+      <p><a href="https://www.fxempire.com/forecasts/article/steel-dynamics-stock-rallies-on-high-demand-and-strong-fundamentals-1299881" target="_blank" rel="noreferrer">Steel Dynamics Stock Rallies on High Demand and Strong Fundamentals</a></p>
+      <p><a href="https://www.fxempire.com/forecasts/article/sp-500-price-forecast-stock-markets-end-the-week-on-a-positive-note-1300933" target="_blank" rel="noreferrer">S&P 500 Price Forecast – Stock Markets End the Week On a Positive Note</a></p>
+      <p><a href="https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-continues-to-look-for-its-footing-1300898" target="_blank" rel="noreferrer">Silver Price Forecast – Silver Continues to Look for Its Footing</a></p>
+    </div>
+  },
+  {
+    id: 80,
+    title: 'Dow Jones Rises After Key Economic Data; AI Stock Soars 23% On Dramatic Change In Sentiment',
+    slug: 'Dow Jones Rises After Key Economic Data; AI Stock Soars 23% On Dramatic Change In Sentiment',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Dow Jones Rises After Key Economic Data; AI Stock Soars 23% On 'Dramatic Change' In Sentiment</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 7:18 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-80.webp',
+    content: <div className="blog-content">
+      <p>Dow Jones Rises After Key Economic Data; AI Stock Soars 23% On 'Dramatic Change' In Sentiment</p>
+      <p>The Dow Jones rose Friday after key economic data. AI stock leader C3.ai soared after the company's better-than-expected earnings.</p>
+      <p><a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-economic-data-ai-stock-soars-on-dramatic-change-in-sentiment/?src=A00220">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 79,
+    title: 'Analysis-Sharp drop in equity premium may mark return of 60/40 portfolio',
+    slug: 'Analysis-Sharp drop in equity premium may mark return of 60/40 portfolio',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - The reward for holding U.S. stocks over Treasury bonds has not been this unattractive since 2004, possibly setting the stage for the sought-after 60/40 portfolio diversification to make a comeback after one of its worst years on record.</p>
+    </div>,
+    authorName: 'Mehnaz Yasmin',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 4:25 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-79.webp',
+    content: <div className="blog-content">
+      <p>Scenes near Wall Street and the New York Stock Exchange (NYSE), in New York</p>
+      <p>By Mehnaz Yasmin</p>
+      <p>(Reuters) - The reward for holding U.S. stocks over Treasury bonds has not been this unattractive since 2004, possibly setting the stage for the sought-after 60/40 portfolio diversification to make a comeback after one of its worst years on record.</p>
+      <p>A 60/40 portfolio, which typically has 60% of its holdings in stocks and the remaining 40% in fixed income, counts on moves in the two asset classes to offset one another, with stocks strengthening amid economic optimism and bonds rising during turbulent times.</p>
+      <p>The strategy took a backseat in 2022 as the Federal Reserve raised interest rates aggressively to rein in inflation. However, signals from the stock and bond markets this year are pointing to a return of the popular asset allocation strategy.</p>
+      <p>At the end of February, the S&P 500 returned 5.41% in earnings yield, the reciprocal of price-to-earnings ratio, while the yield on the benchmark U.S. 10-year bond surged to 3.94%, according to data from Refinitiv. The 1.47 percentage-point difference is the lowest upside stocks have held over bonds in nearly two decades.</p>
+      <p>Earnings yield here refers to the S&P 500 earnings per share estimate for the next 12 moths divided by the index price.</p>
+      <p>Graphic:https://www.reuters.com/graphics/STOCK-SPREADS/CHART/byprlqxyepe/chart.png</p>
+      <p>"The relative shine of equities is definitely dulled by rising yields across the Treasury curve," said Eric Leve, chief investment officer of wealth and investment management firm Bailard.</p>
+      <p>With estimates for earnings in 2023 implying essentially no growth over 2022, rates above 5% on short-term bonds and 10-year yields on the verge of 4% represent credible alternatives to stocks, according to Leve.</p>
+      <p>The thinning spread between returns from stocks and bonds is set to bring the 60/40 portfolio strategy back in favor.</p>
+      <p>"This strategy does provide excellent hedging in current environment," said Glenn Yin, Head of Research and Analysis at AETOS Capital Group.</p>
+      <p>The 60/40 portfolio has already had the best start to the year since 1991, according to Bank of America.</p>
+      <p>The Fed's move to tighten monetary policy at the fastest pace in decades pumped up bond yields after nearly two years of near-zero interest rates.</p>
+      <p>But a rise in yields poses headwinds for equities, especially growth stocks, and by extension, a large index like the S&P 500. Apple, Alphabet and Amazon.com Inc are among the tech heavyweights that make up nearly a fifth of the index and bore the brunt of a sell-off last year.</p>
+      <p>"Equity yields will continue to struggle this year as both prices and earnings decline" amid an economic slowdown, said Lance Roberts, Chief Investment Strategist at RIA Advisors.</p>
+      <p>On the other hand, "during a recession, yields will fall and Treasury bond prices will rise," said Roberts. He prefers bonds over stocks today, he added.</p>
+      <p>Recent results and guidance from companies have bolstered the case for investors who believe the stock market's early-year rally is unlikely to last.</p>
+      <p>As of Feb. 24, results from 465 of the S&P 500 companies showed fourth-quarter earnings are estimated to have fallen 3.2% from the year-ago quarter while Wall Street's expectation for S&P earnings growth for 2023 fell to 1.7% from an expected 4.4% on Jan. 1, according to Refinitiv.</p>
+      <p>Expectations for U.S. earnings to decline in the first two quarters if the year come amid weaker-than-expected fourth-quarter results for 2022, which Credit Suisse estimates will be the worst earnings season outside of a recession in 24 years.</p>
+      <p>Investors are hoping that in case of a severe recession, the Fed would be forced to slash interest rates. While the economic downturn would hit stock returns, drop in bond yields should provide some relief in such a scenario, according to analysts.</p>
+      <p>"For me, the best risk-reward portfolio in this environment for now is long duration Treasury bonds, and deep value, dividend equities," Roberts said. Deep value refers to stocks that are trading at a huge discount to their intrinsic values.</p>
+      <p>"When the recession arrives, and the Fed cuts rates to zero, I will sell my bond portfolio to lock in the capital appreciation, and buy distressed equities with high yields and companies with strong balance sheets and earnings growth," he added.</p>
+      <p>(Reporting by Mehnaz Yasmin in Bengaluru; Editing by Alden Bentley and Saumyadeb Chakrabarty)</p>
+    </div>
+  },
+  {
+    id: 78,
+    title: 'China Automotive Systems (CAAS) Stock Sinks As Market Gains: What You Should Know',
+    slug: 'China Automotive Systems (CAAS) Stock Sinks As Market Gains: What You Should Know',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>In the latest trading session, China Automotive Systems (CAAS) closed at $7.42, marking a -0.4% move from the previous day.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 3:00 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-78.webp',
+    content: <div className="blog-content">
+      <p>In the latest trading session, China Automotive Systems (CAAS) closed at $7.42, marking a -0.4% move from the previous day. This move lagged the S&P 500's daily gain of 0.76%. At the same time, the Dow added 1.05%, and the tech-heavy Nasdaq lost 0.98%.</p>
+      <p>Coming into today, shares of the auto parts supplier had lost 13.87% in the past month. In that same time, the Auto-Tires-Trucks sector gained 1.79%, while the S&P 500 lost 3.91%.</p>
+      <p>Investors will be hoping for strength from China Automotive Systems as it approaches its next earnings release. On that day, China Automotive Systems is projected to report earnings of $0.07 per share, which would represent a year-over-year decline of 56.25%. Our most recent consensus estimate is calling for quarterly revenue of $138.46 million, down 0.24% from the year-ago period.</p>
+      <p>Any recent changes to analyst estimates for China Automotive Systems should also be noted by investors. These recent revisions tend to reflect the evolving nature of short-term business trends. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Research indicates that these estimate revisions are directly correlated with near-term share price momentum. Investors can capitalize on this by using the Zacks Rank. This model considers these estimate changes and provides a simple, actionable rating system.</p>
+      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Within the past 30 days, our consensus EPS projection remained stagnant. China Automotive Systems currently has a Zacks Rank of #3 (Hold).</p>
+      <p>Digging into valuation, China Automotive Systems currently has a Forward P/E ratio of 15.52. For comparison, its industry has an average Forward P/E of 14.43, which means China Automotive Systems is trading at a premium to the group.</p>
+      <p>The Automotive - Original Equipment industry is part of the Auto-Tires-Trucks sector. This industry currently has a Zacks Industry Rank of 194, which puts it in the bottom 24% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our individual industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+      <p>You can find more information on all of these metrics, and much more, on Zacks.com.</p>
+      <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. <a href="https://www.zacks.com/registration/pfp/?ALERT=RPT_7BEST_YHOSYND&ADID=SYND_YAHOO_7BEST_TALEOFTAPE_554&cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6v2-2061305">Click to get this free report</a></p>
+      <p><a href="https://www.zacks.com/registration/pfp?ALERT=YAHOO_ZR&d_alert=rd_final_rank&t=CAAS&ADID=SYND_YAHOO_TCK_TALEOFTAPE_554&cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6v2-2061305">China Automotive Systems, Inc. (CAAS) : Free Stock Analysis Report</a></p>
+      <p><a href="https://www.zacks.com/stock/news/2061305/china-automotive-systems-caas-stock-sinks-as-market-gains-what-you-should-know?cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6v2-2061305">To read this article on Zacks.com click here.</a></p>
+      <p><a href="https://www.zacks.com/">Zacks Investment Research</a></p>
+    </div>
+  },
+  {
+    id: 77,
+    title: 'Dow, S&P 500 and Nasdaq post best day in 2 weeks as stocks look past rising Treasury yields',
+    slug: 'Dow, S&P 500 and Nasdaq post best day in 2 weeks as stocks look past rising Treasury yields',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>U.S. stocks end higher Thursday, shaking off earlier weakness, despite the 10-year Treasury yield topping 4% on worries about more Federal Reserve interest rate hikes.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 12:15 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-77.webp',
+    content: <div className="blog-content">
+      <p>U.S. stocks end higher Thursday, shaking off earlier weakness, despite the 10-year Treasury yield topping 4% on worries about more Federal Reserve interest rate hikes.</p>
+      <p><a href="https://www.marketwatch.com/story/u-s-stock-futures-extend-slide-as-inflation-fears-push-benchmark-u-s-treasury-yield-further-above-4-d51ba518?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
+    </div>
+  },
+  {
+    id: 76,
+    title: 'Stocks move higher on manufacturing data',
+    slug: 'Stocks move higher on manufacturing data',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Yahoo Finance Live’s Brad Smith breaks down how stocks are moving in Friday's intraday trading.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 12:15 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-76.jpg',
+    content: <div className="blog-content">
+      <p>Yahoo Finance Live’s Brad Smith breaks down how stocks are moving in Friday's intraday trading.</p>
+      <p><strong>Video Transcript</strong></p>
+      <p>[AUDIO LOGO]</p>
+      <p>- Yeah. And taking a look at the market reaction here this morning too. You do see a little bit of just before the start of that 10:00 AM hour, it's moved lower off of, though, some of the intraday highs that we had seen early in today's trading activity on the Dow Jones Industrial average. Still holding onto gains of about a quarter of a percent in the green.</p>
+      <p>The NASDAQ Composite, you're seeing that also in positive territory. Up triple digits on a point basis. Percentage basis, it's up by about 1%. We'll round that off too. And the S&P 500, you're seeing that up by about 7/10 of a percent right now. Still holding on to those gains.</p>
+      <p>And additionally, checking in on the major sectors here. The S&P 500 11. Taking a look at those sectors, and XLB is leading the pack, at least on that previous time scale that was loaded up on the screen. XLRE here on the day, on this Fri-yay, it's higher by about 1.25%. But you've got XLP. Yeah, indeed. Consumer staples not looking so hot, hot, hot. Down by about 7/10 of a percent here this morning, and we'll continue to watch that as we move on throughout the rest of the day.</p>
+      <p>Overall though, you've got more gainers than laggards here, and we'll continue to keep a close eye on that. Taking a look at some of the Dow components as well. Apple is really leading the charge today. You're seeing that higher by about 2.5%. We've got much more on that this hour as well. And taking a look at the NASDAQ, you've also got a pretty mixed picture here. We'll kind of put this on a broader heat map view. It looks like more gainers than laggards. Just a rough look at things here on the day.</p>
+    </div>
+  },
+  {
+    id: 75,
+    title: 'Near Protocol Starts ‘Blockchain Operating System’ to Focus on User Experience',
+    slug: 'Near Protocol Starts ‘Blockchain Operating System’ to Focus on User Experience',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'FED'],
+    description: <div className="blog-desc">
+      <p>Layer 1 blockchain network Near Protocol has launched a product-first operating system that developers can build into and users can interact on as a single platform, Illia Polosukhin, Near’s co-founder, announced at the ETHDenver industry conference.</p>
+    </div>,
+    authorName: 'Lyllah Ledesma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 12:15 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-75.webp',
+    content: <div className="blog-content">
+      <p>Layer 1 blockchain network Near Protocol has launched a product-first operating system that developers can build into and users can interact on as a single platform, Illia Polosukhin, Near’s co-founder, announced at the ETHDenver industry conference.</p>
+      <p>The platform is intended to act as a common layer for browsing and discovering Web 3 products including crypto exchanges, non-fungible token (NFT) galleries and social networks, according to Polosukhin. The framework will be compatible with all blockchains (currently supporting Near Protocol and Ethereum Virtual Machine chains) and Near will act as the common entry point, said Polusukhin, in an interview with CoinDesk.</p>
+      <p><strong>Read more: <a href="https://www.coindesk.com/learn/what-is-near-protocol-and-how-does-it-work/" target="_blank" rel="noreferrer">What Is Near Protocol and How Does It Work?</a></strong></p>
+      <p>For developers, decentralized and composable front ends offer a way to build and launch better apps and faster forking of existing pieces and components, while leveraging built-ins such as profiles, payments and notifications as well as searching, without the need to host anything themselves, according to the press release.</p>
+      <p>“The composable decentralized front ends as a framework can work with any Web2 or Web3 back end and any wallet,” Polusukhin said. “In the future we will be offering [use of] wallets from one chain to interact with another via seamless bridging,” he added.</p>
+      <p>The Near protocol currently ranks as the 35th largest blockchain in terms of market capitalization, according to <a href="https://messari.io/asset/near-protocol?utm_term=messari%20near&utm_campaign=G_Messari_SEM_BR_EXM_PRO_Assets_NEAR+Protocol&utm_source=adwords&utm_medium=ppc&hsa_acc=1352272735&hsa_cam=18594931872&hsa_grp=141104089806&hsa_ad=628425722546&hsa_src=g&hsa_tgt=kwd-1832692015359&hsa_kw=messari%20near&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAjPyfBhBMEiwAB2CCIiqo9vrQjGuN4qjLXl6P_bUijVenAOahSaIOOsIIoQM-Chxn4YSuLBoCi4kQAvD_BwE" target="_blank" rel="noreferrer">data</a> from Messari. The layer 1’s market cap was around $1.96 billion and its <a href="https://www.coindesk.com/price/near-protocol/" target="_blank" rel="noreferrer">NEAR</a> token was trading at around $2.28, at the time of writing.</p>
+      <p>The platform is dubbed a “blockchain operating system (BOS),” according to the press release. “We are moving away from our layer 1 focus, it’s now about the user and the experience they have. We are looking at this as the frontend for blockchains in general,” said Polosukhin, in an interview with CoinDesk.</p>
+      <p>Polosukhin added the platform is hoping to tackle some of the user experience issues in the Web3 space. “As a user at the moment it’s hard to find a single place to look at Web3 apps, there’s no search mechanism or way to navigate between them,” said Polosukhin. “The BOS creates a single point of entry. ”</p>
+    </div>
+  },
+  {
+    id: 74,
+    title: 'US stocks rally as traders digest comments from Fed officials on coming rate hikes',
+    slug: 'US stocks rally as traders digest comments from Fed officials on coming rate hikes',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'FED'],
+    description: <div className="blog-desc">
+      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations?</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:05 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-74.webp',
+    content: <div className="blog-content">
+      <p>Michael M. Santiago/Getty Images</p>
+      <ul>
+        <li>US equities rallied Thursday as traders mulled over coming interest rate hikes.</li>
+        <li>The Dow popped more than 300 points, supported by Salesforce's gains on strong corporate earnings.</li>
+        <li>Atlanta Fed President Raphael Bostic said he's "very firmly" in favor of a quarter-point rate hike.</li>
+      </ul>
+      <p>US stocks rallied Thursday as a Federal Reserve official's comments on coming interest rates hikes cheered investors.</p>
+      <p>After opening in mixed territory, the major indexes closed in the green, even as the 2-year note yield reached levels not seen in over a decade. The Dow Jones Industrial Average popped more than 300 points to lead the gains, supported by Salesforce's strong earnings.</p>
+      <p>Atlanta Fed President Raphael Bostic said that he's "very firmly" in favor of a quarter-point hike for now, adding that it's important for the central bank to move cautiously.</p>
+      <p>That comes after other Fed officials have hinted at the possibility of a half-point increase as recent data have pointed to a resilient economy that needs more slowing to get inflation under control.</p>
+      <p>Earlier on Thursday, jobless claims fell for a third straight week, remaining below 200,000, in a sign the labor market is still strong.</p>
+      <p><strong>Here's where US indexes stood at the 4:00 p.m. ET close on Thursday:</strong></p>
+      <ul>
+        <li><a href="https://markets.businessinsider.com/index/s&p_500?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">S&P 500</a>: 3,981.36, up 0.76%</li>
+        <li><a href="https://markets.businessinsider.com/index/dow_jones?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Dow Jones Industrial Average</a>: 33,003.57, up 1.05% (341.73 points)</li>
+        <li><a href="https://markets.businessinsider.com/index/nasdaq_composite?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Nasdaq Composite</a>: 11,462.98, up 0.73%</li>
+      </ul>
+      <p><strong>Here's what else happened today:</strong></p>
+      <ul>
+        <li><a href="https://markets.businessinsider.com/news/etf/jim-cramer-short-etf-stock-picks-investment-outlook-mad-money-2023-3?_gl=1%2Akmagmo%2A_ga%2AMTczODk2OTA2Ny4xNjU0ODcwMTA2%2A_ga_E21CV80ZCZ%2AMTY3Nzc4ODMxOC4yOTguMS4xNjc3Nzg5MzI5LjAuMC4w&utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">There's now a convenient way</a> to be on the opposite side of every Jim Cramer trade, with the launch of an ETF that shorts the financial pundit's stock recommendations.</li>
+        <li><a href="https://markets.businessinsider.com/news/stocks/nouriel-roubini-economy-recession-inflation-debt-market-crash-dr-doom-2023-3?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">Economist Nouriel Roubini said</a> a debt crisis, recession, and stagflation trifecta will hit the US economy this year.</li>
+        <li><a href="https://markets.businessinsider.com/news/stocks/us-debt-default-probability-increases-tripled-credit-default-swaps-activity-2023-3?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">The odds of a catastrophic US debt default</a> have more than tripled since the start of 2023, according to MSCI.</li>
+        <li><a href="https://markets.businessinsider.com/news/commodities/russian-oil-china-imports-record-high-march-steep-discounts-2023-3?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">China's imports of seaborne Russian oil</a> are on track hit a record high this month.</li>
+      </ul>
+      <p><strong>In commodities, bonds and crypto:</strong></p>
+      <ul>
+        <li><a href="https://markets.businessinsider.com/commodities/oil-price?type=wti&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">West Texas Intermediate crude</a> oil fell 0.62% to $78.12 per barrel. <a href="https://markets.businessinsider.com/commodities/oil-price?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Brent crude</a>, oil's international benchmark, rose 0.4% to $84.60 a barrel.</li>
+        <li><a href="https://markets.businessinsider.com/commodities/gold-price?utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Gold</a> slipped 0.3% to $1,84o.20 per ounce.</li>
+        <li>The yield on the 10-year Treasury rose six basis points to 4.06%.</li>
+        <li>Bitcoin fell 0.46% to $23,683, while ether dropped 0.28% to $1,654.</li>
+      </ul>
+      <p>Read the original article on <a href="https://www.businessinsider.com/stock-market-news-today-dow-sp500-nasdaq-fed-rates-bostic-2023-3">Business Insider</a></p>
+    </div>
+  },
+  {
+    id: 73,
+    title: 'Regulators Are Bringing the Multichain Era to a Close',
+    slug: 'Regulators Are Bringing the Multichain Era to a Close',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Multichain', 'ERA'],
+    description: <div className="blog-desc">
+      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations?</p>
+    </div>,
+    authorName: 'Paul Brody',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:20 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-73.webp',
+    content: <div className="blog-content">
+      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations? At EY, it costs us about $500,000 to add a new chain to our Blockchain Analyzer platform and we spend between 10%-20% of that amount each year keeping up to date.</p>
+      <p>While setting up network nodes may not be too difficult, understanding how networks operate and the mechanics of transfers and payments is another matter. When we add a network, we take a close look at the transaction processing model (how transactions are initiated, recorded, processed and reported); the cryptography that underpins those transactions; and the risks that might be associated with different steps in the process. When it comes to audits, we even identify control points where we can perform verification steps.</p>
+      <p><strong>Paul Brody is EY's global blockchain leader and a CoinDesk columnist.</strong></p>
+      <p>Nor are these networks static entities. Ethereum has two to four hard forks a year and other smart contract-enabled chains evolve at a similar rate. The result: Staying up to date on a large number of different blockchains is costly.</p>
+      <p>Cost isn’t the only factor, either. Liquidity becomes an issue as well. Polling Automated Market Makers (AMM) for their sample prices by volumes of proposed swaps on different token pairs shows how quickly liquidity drops off once you leave the Ethereum blockchain. Even within public Ethereum, trading is highly concentrated among the top tokens. Tokens without liquidity are much more vulnerable to price manipulation.</p>
+      <p>Insufficient liquidity in an inadequately regulated market is one of the main reasons the Securities and Exchange Commission has rejected applications for bitcoin (BTC) exchange-traded funds (ETF). The last year has shown, time and again, that crypto asset prices are often manipulated. So these concerns are unlikely to go away and will increasingly deter firms for interacting with, or transacting upon, less-liquid ecosystems.</p>
+      <p>As if it wasn’t complicated enough, just deciding which chains to add is a constantly changing mix. Over the last few years, there has been a constant stream of “Ethereum killer” chains taking up the #2 spot in the ecosystem. A good measure of “who’s on top” is the <a href="https://defillama.com/" target="_blank" rel="noreferrer">DeFiLlama scorecard</a> showing Ethereum dominance of the decentralized finance (DeFi) ecosystem. DeFiLlama tracks nearly 140 different chains. At various times, Binance, Terra, Tron and Celo have been in second place, but none has ever represented more than about 20% of the total DeFi ecosystem value. Usually the second chain by volume is at 10% or less.</p>
+      <p>Nor is Ethereum Virtual Machine (EVM) compatibility a useful factor in de-risking a chain’s adoption. EVM compatibility means that (in theory) applications written for Ethereum’s virtual machine will run on any other chain making that claim. Theory doesn’t always match reality exactly, however. As a result, EVM compatibility may actually increase risk.</p>
+      <p>EVM compatibility is not perfect and the implementation on each chain is slightly different. While this can definitely make it simpler to deploy new smart contracts on a different chain, they may behave differently in a fully “compatible” environment and the claim of compatibility may increase risk that people deploy without careful consideration. We often encounter novel errors when moving smart contracts from bitcoineum testnets to the mainnet. I don’t see cross-chain deployment being easier under any conditions.</p>
+      <p>All of this aligns with our own experience, which has shown that the amount of work required to qualify a new asset or service for our audit tools on Ethereum is significantly lower than other chains. That’s because we already have a strong understanding of the underlying ecosystem. Ethereum also offers far more liquidity than any other chain, all of it inside the same ecosystem with no cross-chain bridge risk.</p>
+      <p>One way to anticipate how a much more regulated future looks is to examine how the biggest centralized or traditional finance firms are looking at the market for crypto assets. These firms are highly regulated and need to document their processes and work extensively to demonstrate they are not mishandling their client responsibilities. What you will see, over and over again, is that many of the biggest regulated firms have largely limited their offerings to BTC and ether (ETH) and have been very slow to grow that footprint. </p>
+      <p>When the most regulated firms do start adding to the mix, my own prediction is they will begin by adding more tokens from the Ethereum ecosystem and, perhaps, adding curated sets of DeFi services from Ethereum as well. I had, in the past, expected that we would have seen this expansion during 2022. But the market turmoil and increased regulatory scrutiny in the second half of last year caused many firms to move more slowly and increase their focus on compliance.</p>
+      <p>All of these challenges were much easier to ignore when every chain was growing, venture-capital funding was plentiful and regulatory scrutiny was light. All those sunny conditions are gone now and the game is different. Between slashing burn rates and regulatory scrutiny, the multichain era is drawing to a close.</p>
+    </div>
+  },
+  {
+    id: 72,
+    title: 'Bitcoin Miner Riot Delayed 10-K Filing Due to Impairment Calculation Issues',
+    slug: 'Bitcoin Miner Riot Delayed 10-K Filing Due to Impairment Calculation Issues',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Minor Riot', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>CORRECTION (March 3, 12:13 UTC): Corrects story to state that Riot has already filed its 10-K report after asking for an extension.</p>
+    </div>,
+    authorName: 'Nelson Wang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:29 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-72.webp',
+    content: <div className="blog-content">
+      <p>CORRECTION (March 3, 12:13 UTC): Corrects story to state that Riot has already filed its 10-K report after asking for an extension.</p>
+      <p>Bitcoin miner Riot Platforms (RIOT) delayed the filing of its annual 10-K report with the Securities and Exchange Commission due to issues raised by its accounting firm about the company's impairment calculations related to its bitcoin assets.</p>
+      <p>“After assessing the impact of this revised impairment assessment methodology, the Registrant determined that material errors in certain of its financial statements and reports resulted,” Riot wrote in its <a href="https://www.sec.gov/Archives/edgar/data/1167419/000155837023002681/tmb-20221231xnt10k.htm" target="_blank" rel="noreferrer">SEC filing</a> on Thursday.</p>
+      <p>Specifically, Riot said its previously issued financial statements for 2022, 2021 and 2020 “contained material errors and should not be relied upon.”</p>
+      <p>For those reasons, Riot said it needed additional time to complete its 10-K and it has since done so and <a href="https://www.sec.gov/ix?doc=/Archives/edgar/data/0001167419/000155837023002704/riot-20221231x10k.htm" target="_blank" rel="noreferrer">filed its report for 2022</a>.</p>
+      <p>Shares of Riot were down 2.4% in after-hours trading on Thursday.</p>
+      <p>Earlier this week, fellow miner Marathon Digital (MARA) said it would <a href="https://www.coindesk.com/business/2023/02/28/bitcoin-miner-marathon-digital-to-restate-some-results-on-accounting-issues/" target="_blank" rel="noreferrer">need to restate portions of its audited 2021 results and unaudited quarter reports from 2022</a> following an inquiry from the SEC that questioned its method of calculating impairment on digital assets.</p>
+      <p>Marathon had previously been scheduled to release its 2022 Q4 results after the close of trading on Tuesday, but now has postponed that.</p>
+    </div>
+  },
+  {
+    id: 71,
+    title: 'Bitcoin Miner Marathon Digital Sold Almost All Bitcoin Mined in February',
+    slug: 'Bitcoin Miner Marathon Digital Sold Almost All Bitcoin Mined in February',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>Marathon Digital (MARA), one of the largest publicly traded bitcoin miners, sold 650 bitcoins out of 683 it mined in February.</p>
+    </div>,
+    authorName: 'Aoyon Ashraf',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:51 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-71.webp',
+    content: <div className="blog-content">
+      <p>Marathon Digital (MARA), one of the largest publicly traded bitcoin miners, sold 650 bitcoins out of 683 it mined in February.</p>
+      <p>The company said it sold the bitcoin to help pay for operating expenses and for general corporate purposes, <a href="https://ir.marathondh.com/news-events/press-releases/detail/1303/marathon-digital-holdings-announces-bitcoin-production-and" target="_blank" rel="noreferrer">according to a statement</a>. Marathon sold <a href="https://www.coindesk.com/business/2023/02/03/marathon-digital-sells-mined-bitcoin-for-first-time-to-monetize-recent-rally/" target="_blank" rel="noreferrer">1,500 bitcoins in January</a>, which marked the first time it had unloaded any of its holdings.</p>
+      <p>Even with the February sales, said company Chairman and CEO Fred Thiel, Marathon increased its unrestricted bitcoin holdings from 8,090 bitcoins as of Jan. 31, 2023, to 8,260, valued at $191.2 million as of Feb. 28.</p>
+      <p>The move to sell brings Marathon's strategy in line with some of its peers, including Riot Platforms (RIOT), which <a href="https://www.coindesk.com/business/2022/04/05/riot-blockchain-bitcoin-mined-rises-to-511-in-march/" target="_blank" rel="noreferrer">started selling some of its mined bitcoin last year</a>. Prior to January, Marathon was among few remaining miners who continued to hold onto its mined bitcoin, even though the company <a href="https://www.coindesk.com/business/2022/05/04/marathon-digital-may-start-to-sell-some-of-its-bitcoins/" target="_blank" rel="noreferrer">in May 2022 indicated</a> it could become a seller at some point.</p>
+      <p>Turning to operations, Marathon said it had installed computing power of 14 exahash per second (EH/s) at the end of February, up from 11 EH/s a month earlier, and plans to reach 23 EH/s near the middle of 2023. The company ended the month with $219.7 million in unrestricted cash on hand, according to the statement.</p>
+      <p>Earlier this week, the miner cancelled its earnings report and said that it will need to restate portions of its audited 2021 results and currently unaudited quarterly reports from 2022 after an inquiry from the U.S. Securities and Exchange Commission (SEC) flagged technical accounting matters. Riot Platforms on Thursday also said it will <a href="https://www.coindesk.com/business/2023/03/02/bitcoin-miner-riot-delays-10k-filing-due-to-impairment-calculation-issues/" target="_blank" rel="noreferrer">delay its 10-K filings</a> with the SEC due to due to issues raised by its accounting firm about the company's impairment calculations related to its bitcoin assets.</p>
+      <p>Marathon's shares were little changed in after-hours trading on Thursday, remaining higher by more than 80% in 2023. Bitcoin is down about 1% over the last 24 hours and higher by 42% year to date.</p>
+    </div>
+  },
+  {
+    id: 70,
+    title: 'Bitcoin, Ether fall; Litecoin is biggest loser of day',
+    slug: 'Bitcoin, Ether fall; Litecoin is biggest loser of day',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether fell by the end of Asian trading hours on Friday afternoon, together with all other top 10 non-stablecoin cryptocurrencies by market capitalization, weighed by the financial woes of crypto-focused bank Silvergate. Investors saw a glimpse of relief</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:59 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-70.webp',
+    content: <div className="blog-content">
+      <p>Bitcoin and <a href="https://forkast.news/what-is-ethereum-and-how-can-it-become-the-future-of-blockchain/" target="_blank" rel="noreferrer">Ether</a> fell by the end of Asian trading hours on Friday afternoon, together with all other top 10 non-stablecoin cryptocurrencies by market capitalization, weighed by the financial woes of crypto-focused bank Silvergate. Investors saw a glimpse of relief, following dovish remarks from the U.S. Federal Reserve, signaling a potential stop to interest rate hikes this summer.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin fell by 4.3% to US$23,402 in the 24 hours to 4:30 p.m. in Hong Kong. Ether declined 4.49% to US$1,569, according to <a href="https://coinmarketcap.com/" target="_blank" rel="noreferrer">CoinMarketCap</a> data, pressured by <a href="https://forkast.news/headlines/circle-crypto-com-coinbase-silvergate/" target="_blank" rel="noreferrer">financial woes at crypto-focused U.S. bank Silvergate</a> Capital Corp.</li>
+        <li>Litecoin’s Ltc token was the day’s biggest loser, losing 8.52% to US$89.05, followed by <a href="https://forkast.news/while-supporters-rally-to-mark-dogeday-420-heres-a-brief-history-of-dogecoin/" target="_blank" rel="noreferrer">Dogecoin</a> that fell 6.3% to trade at US$0.075.</li>
+        <li>The global cryptocurrency market capitalization shrunk by 3.81% to US$1.03 trillion in the 24 hours to 4:30 p.m. in Hong Kong. The total crypto market trading volume increased by 22% to US$55.42 billion.</li>
+        <li>Asian equities strengthened in line with Wall Street’s overnight rally after Atlanta Federal Reserve President Raphael Bostic said that he supported an interest rate increase of 25 basis points and that the central bank may pause rate hikes sometimes during the summer.</li>
+        <li>The Shanghai Composite gained 0.54%, the Shenzhen Component Index inched up 0.02%, Japan’s Nikkei 225 rose 1.56% and Hong Kong’s Hang Seng Index strengthened 0.68%.</li>
+        <li>Investors digested data suggesting that China’s service sector growth accelerated in February, following the relaxation of Covid-19 restrictions.</li>
+        <li>Europe’s STOXX 600 rose 0.4% and Germany’s DAX 40 gained 0.8%, fueled by dovish commentary from the U.S. Fed.</li>
+        <li>The euro stood above US$1.06, up from a two-month low of US$1.053 on Feb. 27, despite hawkish remarks from European Central bank officials signaling more incoming rate hikes.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 69,
+    title: 'Bitcoin-Bridged to Avalanche Reaches Record Daily Mint of Over 2K BTC',
+    slug: 'Bitcoin-Bridged to Avalanche Reaches Record Daily Mint of Over 2K BTC',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>Interest in bridging bitcoin (BTC) to the Avalanche smart contract blockchain (BTC.b) continues to swell as the supply of wrapped bitcoin (wBTC), the largest wrapped version of bitcoin on Ethereum, dwindles.</p>
+    </div>,
+    authorName: 'Omkar Godbole',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 3:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-69.webp',
+    content: <div className="blog-content">
+      <p>Interest in bridging bitcoin (BTC) to the Avalanche smart contract blockchain (BTC.b) continues to swell as the supply of wrapped bitcoin (wBTC), the largest wrapped version of bitcoin on Ethereum, dwindles.</p>
+      <p>On Thursday, over 2,000 BTC ($44 million) was ported to Avalanche, the largest single-day BTC.b mint on record, according to data sourced from pseudonymous analyst <a href="https://twitter.com/gfk_acid" target="_blank" rel="noreferrer">0xAcid</a>'s <a href="https://dune.com/gfkacid/btcb-avalanche-bridge" target="_blank" rel="noreferrer">dashboard</a> on Dune Analytics. That has lifted the total circulating supply of BTC.b to 8,572.</p>
+      <p>According to 0xAcid, half of the bitcoin minted on Thursday has been moved to BENQI Finance. BENQI Finance is an Avalanche-based decentralized finance (DeFi) protocol, which allows users to lend, borrow and earn additional yields from digital assets.</p>
+      <p>In June 2022, Avalanche added support for bitcoin on its cross-chain bridge, allowing BTC holders to deploy their coins in the Avalanche-based decentralized finance (DeFi) ecosystem to generate extra yield. BTC.b has seen impressive growth since then, surpassing the number of coins held in the Lightning Network.</p>
+      <p>A crypto bridge is a tool that facilitates interactions between the two economically and technologically separate blockchains. Bridges became a target of hackers last year, accounting for about 70% of the total exploits in the crypto industry last year, according to forensics firm Chainalysis.</p>
+      <p>The record BTC.b mint comes as the WBTC supply fell by 15% to 153,164 in February, reaching the lowest since March 2021. Apparently, bankrupt crypto lender Celsius Network, a well-known WBTC holder, redeemed a large amount of WBTC, causing a sharp drop in the token's supply.</p>
+      <p>WBTC, issued by Bitgo, is an ERC-20 token based on the Ethereum network with its price pegged 1:1 with bitcoin. The token's supply peaked at 285,000 in April last year and has been falling ever since.</p>
+      <p>The Avalanche community considers BTC.b a better option than WBTC, considering Avalanche offers users the ability to mint and redeem BTC.b anytime with the bridge in a non-custodial browser extension Core, eliminating the need for intermediaries. It provides more control to users, unlike WBTC, which relies on merchants to initiate the process of minting and burning.</p>
+      <p>According to Emperor Osmo, an anonymous writer for Cosmos-based automated market maker Osmosis, the investors in AVAX, the native token of Avalanche, are yet to take notice of BTC's growing use in DeFI, as evidenced by BTC.b's rising supply.</p>
+      <p>"Over $200M of BTC has been bridged to Avalanche [to date]. The BTC DeFi narrative is definitely not priced in for AVAX," <a href="https://twitter.com/Flowslikeosmo/status/1631444307550031873" target="_blank" rel="noreferrer">Osmo tweeted</a> early Friday.</p>
+      <p>At press time, AVAX traded nearly 6% lower on the day, near $16, the lowest since Jan. 20. The cryptocurrency has seen a 50% appreciation in its market value this year, <a href="https://www.coindesk.com/price/avax/" target="_blank" rel="noreferrer">per CoinDesk data</a>.</p>
+    </div>
+  },
+  {
+    id: 68,
+    title: 'Coinbase, Gemini and other big crypto names have rushed to ditch Silvergate after the bank warned of building troubles',
+    slug: 'Coinbase, Gemini and other big crypto names have rushed to ditch Silvergate after the bank warned of building troubles',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Coinbase, Kraken and other crypto apps.Getty Images</p>
+    </div>,
+    authorName: 'Zinya Salfiti',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 3:16 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-68.webp',
+    content: <div className="blog-content">
+      <p>Coinbase, Kraken and other crypto apps.Getty Images</p>
+      <ul>
+        <li>Crypto companies are cutting ties with Silvergate, once the go-to bank for digital currencies</li>
+        <li>This comes after the crypto bank flagged doubts about its survival.</li>
+        <li>Coinbase, Circle Internet Financial and other big names have ditched the lender.</li>
+      </ul>
+      <p>Some of the biggest names in crypto have backed away from lender Silvergate Capital after the key digital-currency player warned it's having to evaluate its ability to survive.</p>
+      <p>Coinbase, Paxos Trust, Circle Internet Financial and Galaxy Digital Holdings all said Thursday they plan to suspend banking with Silvergate, as did the Winklevoss twins' Gemini.</p>
+      <p>Crypto.com and Cboe's digital arm are also stepping away, <a href="https://www.bnnbloomberg.ca/coinbase-galaxy-paxos-stop-accepting-transfers-via-silvergate-1.1890372" target="_blank" rel="noreferrer">Bloomberg reported</a>.</p>
+      <p>The exodus of crypto exchanges, stablecoin issuers and trading desks came after Silvergate flagged doubts about its future in business.</p>
+      <p>It said it was delaying the filing of its annual report to regulators because it needs more time to look into how badly its finances have been hit by the events battering the crypto world.</p>
+      <p>"The company is evaluating the impact that these subsequent events have on its ability to continue as a going concern for the twelve months following the issuance of its financial statements," the California-based firm said in an SEC filing Wednesday.</p>
+      <p>Silvergate's stock price plunged to close 58% lower on Thursday, and was down 5.24% at $5.42 in premarket trading Friday. Shares have fallen almost 95% in the past 12 months, as more than a dozen of <a href="https://markets.businessinsider.com/news/currencies/sam-bankman-fried-silvergate-alameda-research-sketchy-ties-cryptocurrency-report-2023-1?utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">its crypto firm customers shut down, were fined or came under investigation</a>.</p>
+      <p>Silvergate used to be the go-to bank for the biggest names in crypto, operating a key payments network used for real-time transfers between the firms.</p>
+      <p>But the lender has struggled in recent months thanks to its ties to embattled crypto players, and it is seen as having suffered during as prices of digital assets tumbled last year.</p>
+      <p>It has been caught up in fallout from the implosion of now-bankrupt FTX, which was one of the lender's major clients. Its customers withdrew $8 billion in deposits late last year after the crypto exchange collapsed in November.</p>
+      <p>In addition, it had relationships with other bankrupt crypto firms, like centralized lenders Celsius and BlockFi, along with digital asset brokerage Voyager Digital. It has also has worked with crypto exchange Binance's US arm, which is reportedly under criminal investigation for money laundering and criminal sanctions violations.</p>
+      <p>As fears swirled that Silvergate's troubles would spread through the crypto sector, companies stepped up to underline their positions.</p>
+      <p>MicroStrategy said it doesn't have any financial relationship with Silvergate, other than a loan it needs to pay back to Silvergate by 2025.</p>
+      <p>"For anyone wondering, the loan wouldn't accelerate b/c of SI insolvency or bankruptcy. Our BTC collateral isn't custodied w/ SI & we have no other financial relationship w/ SI,"  the business intelligence firm <a href="https://twitter.com/MicroStrategy/status/1631366897378680835?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1631366897378680835%7Ctwgr%5Ee70269101b3a10a42fdce88a8572eff40c6ba5a6%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fmicrostrategy-tether-adds-to-firms-distancing-from-silvergate-as-stock-dives-57" target="_blank" rel="noreferrer">tweeted</a>.</p>
+      <p>Stablecoin Tether is not exposed to Silvergate either, its chief technology officer said in a tweet Thursday.</p>
+      <p>Meanwhile, JPMorgan analysts cut their rating on Silvergate stock to "underweight" from "neutral" and withdrew its $14 price target, <a href="https://www.coindesk.com/business/2023/03/02/silvergate-downgraded-by-jpm-canaccord-amid-doubts-of-banks-solvency/" target="_blank" rel="noreferrer">CoinDesk reported</a>. It also said broker Canaccord Genuity downgraded the bank's rating to "hold" from "buy" and slashed its price target to $9 from $25.</p>
+      <p>Read the original article on <a href="https://www.businessinsider.com/crypto-silvergate-coinbase-gemini-circle-ditch-lender-payments-financial-troubles-2023-3" target="_blank" rel="noreferrer">Business Insider</a></p>
+    </div>
+  },
+  {
+    id: 67,
+    title: 'FTX has a massive $9.5 billion shortfall in top crypto and cash needed to repay customers, the bankrupt exchanges new bosses say',
+    slug: 'FTX has a massive $9.5 billion shortfall in top crypto and cash needed to repay customers, the bankrupt exchanges new bosses say',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>FTX has identified a $9.5 billion shortfall in top crypto...</p>
+    </div>,
+    authorName: 'Ryan Hogg',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 5:28 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-67.webp',
+    content: <div className="blog-content">
+      <p>Sam Bankman-Fried.AP Photo/Seth Wenig</p>
+      <p>FTX has identified a $9.5 billion shortfall in top crypto and cash needed to repay customers, its new bosses have said, with just $694 million in currency that's easy to cash in.</p>
+      <ul>
+        <li>FTX has a $9.5 billion shortfall in top crypto and cash to repay customers, bankruptcy lawyers say.</li>
+        <li>Just $694 million in assets of $2.2 billion recovered are easy to cash in.</li>
+        <li>The group said it also lent $9.3 billion to Sam Bankman-Fried's Alameda Research.</li>
+      </ul>
+      <p>FTX has identified a $9.5 billion shortfall in top crypto and cash needed to repay customers, its new bosses have said, with just $694 million in currency that's easy to cash in.</p>
+      <p>In a press release on Thursday, FTX shared the extent of the company's deficit as bankruptcy lawyers scramble to unravel a mess that led to billions of dollars' worth of customer funds getting lost.</p>
+      <p>The bankrupt crypto exchange's new executives have so far identified $2.2 billion in assets in the company's wallets, of which only $694 million were in the most liquid currencies, like fiat, stablecoins, bitcoin, or ethereum.</p>
+      <p>Lawyers have also identified $385 million of customer receivables, and substantial claims against Bankman-Fried's Alameda Research, the company at the center of FTX's controversial collapse. FTX lent $9.3 billion to Alameda, they said.</p>
+      <p>"It has taken a huge effort to get this far. The exchanges' assets were highly commingled, and their books and records are incomplete and, in many cases, totally absent," CEO John Ray wrote.</p>
+      <p>"For these reasons, it is important to emphasize that this information is still preliminary and subject to change."</p>
+      <p>FTX US also has a shortfall, with $191 million in assets versus $335 million of customer claims and $283 million of related party claims payable.</p>
+      <p>In January, bankruptcy lawyers said they had recovered $5.5 billion in liquid assets from FTX.</p>
+      <p>But lawyers still don't know the extent of losses to customer funds, which burned famous faces like Tom Brady and Kevin O'Leary. The Commodities and Futures Trading Commission (CFTC) has <a href="https://markets.businessinsider.com/news/currencies/alameda-billion-in-liabilities-in-korean-friends-account-2022-12?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">estimated</a> that $8 billion of client money had been lost by the exchange.</p>
+      <p>Its latest presentation suggested there is a $9.5 billion deficit across its most liquid assets, and a $733 million surplus in category B assets — those which are harder to retrieve — including through the FTX native coin FTT.</p>
+      <p>It was reported in November that <a href="https://markets.businessinsider.com/news/currencies/sam-bankman-fried-repay-clients-ftx-bankruptcy-1-million-creditors-2022-11?utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">FTX could have one million creditors</a>.</p>
+      <p>Read the original article on <a href="https://www.businessinsider.com/ftx-crypto-shortfall-billions-sam-bankman-fried-exchange-bankruptcy-ftt-2023-3" target="_blank" rel="noreferrer">Business Insider</a></p>
+    </div>
+  },
+  {
+    id: 66,
+    title: 'Ethereum core developers delay Shanghai hard fork to early April',
+    slug: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The expected launch of the Shanghai hard fork has been delayed from late March to the first two weeks of April, according to Ethereum developers at a meeting on Thursday.</p>
+    </div>,
+    authorName: 'Dylan Butts',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 5:28 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-66.webp',
+    content: <div className="blog-content">
+      <p>The expected launch of the Shanghai hard fork has been delayed from late March to the first two weeks of April, according to Ethereum developers at a <a href="https://www.youtube.com/watch?v=GNhrb5txJ4M" target="_blank" rel="noreferrer">meeting</a> on Thursday.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>The Shanghai hard fork will be the first major upgrade since the “<a href="https://forkast.news/ethereum-merge-ugrade-successfully-ether/" target="_blank" rel="noreferrer">Merge</a>” last September. A hard fork is a permanent split between a new blockchain and its latest version, often adding or fixing features of a network.</li>
+        <li>The Shanghai fork will allow validators to withdraw their locked Ether for the first time since the staking feature went live in 2020. Over 17 million Ether (about US$26.7 billion) has since been staked.</li>
+        <li>During the meeting, core developers agreed that the hard fork should occur at least two weeks after the “Goerli testnet launch,” which has been scheduled for March 14.</li>
+        <li>The “Shanghai Capella” upgrade to Goerli, one of Ethereum’s popular testnets, will be the last chance for Ethereum clients and staking providers to ensure the Shanghai hard fork can go through smoothly when the final “mainnet” version launches.</li>
+        <li>“So imagine Goerli happens on the 14th, everything goes well, and on the 16th, we agree to move forward with mainnet – I think the earliest that puts us is like the first week of April,” said Ethereum core developer and project coordinator Tim Beiko.</li>
+        <li>Beiko noted in a Thursday Twitter <a href="https://twitter.com/TimBeiko/status/1631373281650708481?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1631373281650708481%7Ctwgr%5Ede9900804edfc27c2742ecef27ff6748b58b9d3c%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fethereum-core-developers-push-shanghai-upgrade-to-early-april" target="_blank" rel="noreferrer">thread</a> that the Ethereum team did not explicitly agree to a mainnet date. Still, they will “probably” set a date during the next developers meeting slated for March 16, “assuming things go well on Goerli.”</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 65,
+    title: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
+    slug: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Traders work on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 20, 2020.Lucas Jackson/Reuters</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:16 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-65.webp',
+    content: <div className="blog-content">
+      <p>Traders work on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 20, 2020.Lucas Jackson/Reuters</p>
+      <ul>
+        <li>US stocks climbed higher on Friday, snapping a weekly losing streak.</li>
+        <li>Fears of a move back to bigger rate hikes were eased as traders digested comments from Fed officials.</li>
+        <li>Atlantic Fed President Raphael Bostic signaled support for another small hike of 25 basis-points.</li>
+      </ul>
+      <p>US stocks climbed higher on Friday, snapping a weekly losing streak as investors dialed back fears of aggressive rate hikes.</p>
+      <p>All three indices ended the day higher, with the Dow gaining almost 400 points to break a four-week streak of losses.</p>
+      <p>Investors digested comments from Federal Reserve officials on the central bank's next policy move. Though Fed Governor Christopher J. Waller said interest rates could tread higher than markets were currently expecting, Atlanta Fed President Raphael Bostic signaled for just a 25 basis-point hike in March, spurring a rally in stocks during the session on Thursday.</p>
+      <p>The 10-year Treasury yield retreated from the key 4% level, falling 11 basis points on Friday to 3.96%.</p>
+      <p>However, ISM manufacturing data ticked higher, from 47.4 to 47.7 last month, a sign that manufacturing activity is still expanding despite the Fed's aggressive monetary policy.</p>
+      <p>"The solid ISM survey and resilience to high interest rates will reinforce the Fed's resolve that interest rates should continue to move higher. Even so, the Fed is unlikely to go back to rate hikes of more than a quarter percent per decision," Comercia Bank chief economist Bill Adams said in a statement. "The Fed wants to tread lightly to minimize the risk that they overshoot and cause an unnecessarily severe downturn."</p>
+      <p><strong>Here's where US indexes stood at the 4:00 p.m. closing bell on Friday: </strong></p>
+      <ul>
+        <li><strong><a href="https://markets.businessinsider.com/index/s&p_500?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">S&P 500</a>: 4,045.64, up 1.61% </strong></li>
+        <li><strong><a href="https://markets.businessinsider.com/index/dow_jones?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Dow Jones Industrial Average</a>: 33,390.97, up 1.17% (387.40 points)</strong></li>
+        <li><strong><a href="https://markets.businessinsider.com/index/nasdaq_composite?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Nasdaq Composite</a>: 11,689.01, up 1.97% </strong></li>
+      </ul>
+      <p><strong>Here's what else is going on: </strong></p>
+      <ul>
+        <li>There are six reasons why the <a href="https://markets.businessinsider.com/news/stocks/stock-market-outlook-spring-rally-fundstrat-investor-sentiment-inflation-2023-3?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">stock market could see its strongest rally</a> of 2023 over the next two months, according to Fundstrat.</li>
+        <li>C3.ai soared 33% after the AI software company reported a big quarterly earning beat.</li>
+        <li>Bank of America said investors should <a href="https://markets.businessinsider.com/news/stocks/best-ai-stocks-to-buy-artificial-intelligence-bank-of-america-2023-3?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">capitalize on the $900 billion AI boom</a> by picking these 20 stocks.</li>
+        <li>Apple could soar to a near-$4 trillion valuation thanks to five under-the-radar drivers, Morgan Stanley said.</li>
+        <li><a href="https://markets.businessinsider.com/news/commodities/russia-oil-gas-energy-exports-revenue-halved-price-cap-sanctions-2023-3?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">Russia's oil and gas revenue tanked in February</a> as western sanctions ate into its export earnings.</li>
+        <li><a href="https://markets.businessinsider.com/news/currencies/bitcoin-price-today-silvergate-capital-signals-trouble-crypto-market-news-2023-3?utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">Bitcoin has tumbled to its lowest price</a> in weeks as the crypto market roils from Silvergate's troubles.</li>
+      </ul>
+      <p><strong>In commodities, bonds, and crypto: </strong></p>
+      <ul>
+        <li>Oil prices rose, with <a href="https://markets.businessinsider.com/commodities/oil-price?type=wti&utm_medium=referral&utm_source=yahoo.com" target="_blank" rel="noreferrer">West Texas Intermediate</a> up 2% to $79.73 a barrel. <a href="https://markets.businessinsider.com/commodities/oil-price?utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=yahoo.com">Brent crude</a>, the international benchmark, rose 1.3% to $85.86 a barrel.</li>
+        <li><a href="https://markets.businessinsider.com/commodities/gold-price?utm_medium=ingest%3Futm_source%3Dmarkets&utm_medium=ingest&utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Gold</a> edged higher by about 1% to $1,860 per ounce.</li>
+        <li>The <a href="https://markets.businessinsider.com/rates/u-s--rates-10-years?utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">10-year Treasury yield</a> ticked lower 11 basis points to 3.96%</li>
+        <li><a href="https://markets.businessinsider.com/currencies/btc-usd?utm_medium=ingest&utm_medium=referral&utm_source=markets&utm_source=yahoo.com" target="_blank" rel="noreferrer">Bitcoin</a> fell 4.71% to $22,373.12</li>
+      </ul>
+      <p>Read the original article on <a href="https://www.businessinsider.com/stock-market-news-today-dow-rally-fed-interest-rate-hikes-2023-3" target="_blank" rel="noreferrer">Business Insider</a></p>
+    </div>
+  },
+  {
+    id: 64,
+    title: 'Bitcoin fell nearly 5% Thursday night, its largest one-hour drop since FTX',
+    slug: 'Bitcoin fell nearly 5% Thursday night, its largest one-hour drop since FTX',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Bitcoin plunged nearly 5% over Thursday night following a Wednesday late notice filed by major industry bank Silvergate Capital that expressed doubts about the future of its business.</p>
+    </div>,
+    authorName: 'David Hollerith · Senior Reporter',
+    authorurl: 'https://www.yahoo.com/author/david-hollerith',
+    authorAvatar: 'https://ncx.cx/images/david-hollerith.webp',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 6:09 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-64.webp',
+    content: <div className="blog-content">
+      <p>Bitcoin plunged nearly 5% over Thursday night following a Wednesday late notice filed by major industry bank Silvergate Capital that expressed doubts about the future of its business.</p>
+      <p>In line with Bitcoin, the total market capitalization for crypto assets fell 4.6% from $1.06 trillion to $1.02 trillion between 8:18 p.m. to 9:05 p.m. Thursday New York time.</p>
+      <p>Bitcoin hasn’t plunged so fast and sharp since the price fell by 4% from $20,538 to $19,704 on the morning of November 8 as FTT, the token for crypto exchange FTX, faced massive withdrawals.</p>
+      <p>Bitcoin (<a href="https://finance.yahoo.com/chart/BTC-USD" target="_blank" rel="noreferrer">BTC-USD</a>) is changing hands at $22,381, down 4.3% for the last 24 hours and 6.4% over the past week.</p>
+      <p>"After today’s drop, the pullback is close to 10%, and bitcoin is on pace to close below its 50-day moving average (DMA) for the first time in nearly two months," according to a Friday note from BeSpoke.</p>
+      <p>Over the past two days, the crypto market is coming to grips with the potential failure of industry-serving bank, Silvergate.</p>
+      <p>“Fortunately, Silvergate is not FTX. Silvergate is more of a fiat on/off-ramp for U.S. Dollars, rather than a key source of liquidity and volume for the entire crypto ecosystem,” said Michael Safai, a co-founder and partner of crypto proprietary trading firm Dexterity Capital.</p>
+      <p>The La Jolla, Calif., headquartered Silvergate <a href="https://finance.yahoo.com/news/silvergate-stock-crashes-after-company-delays-annual-report-reveals-new-losses-121923800.html" target="_blank" rel="noreferrer">said in a Wednesday late notice</a> it would further delay its annual report due to greater losses than it showed in January preliminary results in addition to “certain regulatory and other inquiries and investigations that are pending with respect to the Company” and its "ability to continue as a going concern for the twelve months following the issuance of these financial statements," according to the filing.</p>
+      <p>Through Thursday, <a href="https://finance.yahoo.com/news/crypto-industry-distances-itself-from-silvergate-as-bank-collapses-175633982.html" target="_blank" rel="noreferrer">major crypto exchanges and businesses quickly distanced themselves from Silvergate</a>. The shares of the bank (SI) has fallen 62% from Thursday morning to Friday's open from $13.50 to $5.14.</p>
+      <p>Further exacerbating Silvergate’s business challenges, Coinbase, Paxos, Galaxy Digital, Gemini, BitStamp, Crypto.com, Cboe Digital, GSR and Circle each issued statements saying they have cut ties with what was once considered a crucial banking partner for the sector.</p>
+      <p>Stablecoin issuer Circle added, it is “in the process of unwinding certain services with them.”</p>
+      <p>Separately, Binance US and Kraken would not comment on their exposure to Silvergate.</p>
+      <p>“There is some dismay around the Silvergate news, but it's not clear it would trigger strong selling,” Noelle Acheson, author of the Crypto Is Macro Now newsletter, told Yahoo Finance Friday.</p>
+      <p>Dexterity's Safal agreed: “It’s more a case of jaded traders digesting the news and not wanting to be left holding any potential ticking time bombs, but not understanding how this differs from the collapses of 2022."</p>
+      <p>Safai also suggested the response may have come from Asian markets reacting to the exodus of firms from Silvergate.</p>
+      <p>Over Thursday, March 2, $203 million in bitcoin long positions were liquidated or $198 million net of short liquidations — the most in a single day in three weeks — according to crypto derivatives aggregator <a href="https://www.coinglass.com/LiquidationData" target="_blank" rel="noreferrer">Coinglass</a>.</p>
+      <p>As Acheson noted in her Friday newsletter, given little change of the ETH to BTC ratio, bitcoin's sharp drop hit the second largest cryptocurrency ether "in equal measure." Ether is changing hands at $1,570 per coin, down less than 4% for the past day as of Friday morning 8:30 New York time.</p>
+      <p>In a worst case scenario of Silvergate's failure, confidence could be shaken, causing some firms to yank capital from the market, Dexterity's Safai said.</p>
+      <p>“That in itself could impact liquidity, but that wouldn’t have a ripple effect per se, nor would it last very long,” he added.</p>
+      <p>More important for Acheson are the repercussions for banking access if a traditional bank were to “go under” due to its crypto activities.</p>
+      <p>“That would give regulators strong ammunition that crypto risks could become 'systemic' and any financial instiution serving the crypto industry could come up against new barriers,” Acheson explained over a messaging app.</p>
+      <p>"Uncertainty is currently high," she added.</p>
+      <p><a href="https://finance.yahoo.com/topic/crypto/" target="_blank" rel="noreferrer">Click here for the latest crypto news, updates, values, prices, and more related to Bitcoin, Ethereum, Dogecoin, DeFi and NFTs</a></p>
+    </div>
+  },
+  {
     id: 63,
     title: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
     slug: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
@@ -31,7 +1124,7 @@ const blogListdata = [
     id: 62,
     title: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
     slug: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
@@ -53,7 +1146,7 @@ const blogListdata = [
     id: 61,
     title: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
     slug: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
@@ -77,7 +1170,7 @@ const blogListdata = [
     id: 60,
     title: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
     slug: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The US dollar has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming.</p>
@@ -100,7 +1193,7 @@ const blogListdata = [
     id: 59,
     title: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
     slug: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
@@ -125,7 +1218,7 @@ const blogListdata = [
     id: 58,
     title: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
     slug: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The US dollar has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior.</p>
@@ -149,7 +1242,7 @@ const blogListdata = [
     id: 57,
     title: 'AUDUSD Forecast – Australian Dollar Pulls Back',
     slug: 'AUDUSD Forecast – Australian Dollar Pulls Back',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
@@ -173,7 +1266,7 @@ const blogListdata = [
     id: 56,
     title: 'GBP to USD Forecast – British Pound Continues to Fight',
     slug: 'GBP to USD Forecast – British Pound Continues to Fight',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
@@ -200,7 +1293,7 @@ const blogListdata = [
     id: 55,
     title: 'Asian currencies witness a bit of reprieve, lift rupee',
     slug: 'Asian currencies witness a bit of reprieve, lift rupee',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
@@ -230,7 +1323,7 @@ const blogListdata = [
     id: 54,
     title: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
     slug: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
@@ -254,7 +1347,7 @@ const blogListdata = [
     id: 53,
     title: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
     slug: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general.</p>
@@ -278,7 +1371,7 @@ const blogListdata = [
     id: 52,
     title: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
     slug: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar.</p>
@@ -303,7 +1396,7 @@ const blogListdata = [
     id: 51,
     title: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
     slug: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to.</p>
@@ -328,7 +1421,7 @@ const blogListdata = [
     id: 50,
     title: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
     slug: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The US dollar has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
@@ -353,7 +1446,7 @@ const blogListdata = [
     id: 49,
     title: 'EUR/USD Forecast – Euro Continues to Show Support',
     slug: 'EUR/USD Forecast – Euro Continues to Show Support',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
@@ -378,7 +1471,7 @@ const blogListdata = [
     id: 48,
     title: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
     slug: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The <a href="https://www.fxempire.com/currencies/gbp-jpy" target="_blank" rel="noreferrer">British pound</a> has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
@@ -402,7 +1495,7 @@ const blogListdata = [
     id: 47,
     title: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
     slug: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The <a href="https://www.fxempire.com/currencies/usd-jpy" target="_blank" rel="noreferrer">US dollar</a> has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
@@ -427,7 +1520,7 @@ const blogListdata = [
     id: 46,
     title: 'FOREX-Dollar slides, yuan gains on China PMI; hot inflation lifts euro',
     slug: 'FOREX-Dollar slides, yuan gains on China PMI; hot inflation lifts euro',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>LONDON, March 1 (Reuters) - The dollar slumped and China's yuan gained on Wednesday after China's manufacturing activity expanded at its fastest pace since April 2012, while the euro rose after regional German inflation data signalled price pressures remain high.</p>

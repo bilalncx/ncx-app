@@ -77,7 +77,7 @@ p.chip {
   line-clamp: 3;
   -webkit-box-orient: vertical;
   font-family: 'urbanist-regular';
-  min-height: 69px;
+  /* min-height: 69px; */
 }
 .blog-desc p a{
   color: #000000 !important;
@@ -185,6 +185,9 @@ div#insight_page.container.sefeds {
 @media screen and (min-width: 1300px){
   div#insight_page{
     padding: 100px 0px !important;
+  }
+  #BlogdetailsHeader div#insight_page {
+    padding: 50px 20px !important;
   }
 }
 

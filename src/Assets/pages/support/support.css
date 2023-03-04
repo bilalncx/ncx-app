@@ -743,4 +743,11 @@ tr.coin-row td a:hover{
         position: relative;
         top: 0px;
     }
+    .Support_Searchbar .backgrdound-video {
+        display: none;
+    }
+    .Support_Searchbar div#search_container {
+        position: relative;
+        padding: 120px 0px 0px 0px;
+    }
 }
