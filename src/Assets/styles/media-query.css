@@ -27,9 +27,6 @@ div#header-newmobile {
         overflow: visible !important;
         /* overflow-x: hidden !important; */
     }
-    .splashScreen {
-        display: none !important;
-    }
     .market-exchange .row.marketimg {
         display: none !important;
     }
