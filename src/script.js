@@ -9,7 +9,7 @@ $(document).ready(function(){
     $('.splashScreen').delay(8300).queue(function(){
       $('.splashScreen').addClass("visibleSplash");
       $('.loadingContainer').delay(8000).addClass('splashdone');
-      $('body').css({overflow: 'visible'});
+      $('body').addClass("body_visible");
       $('header.main-header').addClass("zindex-visible");
     });
 
