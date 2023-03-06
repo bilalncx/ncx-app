@@ -23,10 +23,10 @@ div#header-newmobile {
     }
 }
 @media screen and (max-width: 800px){
-    body{
+    /* body{
         overflow: visible !important;
-        /* overflow-x: hidden !important; */
-    }
+        overflow-x: hidden !important;
+    } */
     .market-exchange .row.marketimg {
         display: none !important;
     }
