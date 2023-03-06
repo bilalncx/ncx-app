@@ -45,7 +45,7 @@ function MyFooter()
                             <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
                             <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
                             <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
-                            <li><a href="https://ncx.cx/insights">NCX Trends</a></li>
+                            <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
                             <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
                         </ul>
                         <h1>Company</h1>
@@ -129,7 +129,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx/task-rewards">Referral Program</a></li>
                         <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
                         <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
-                        <li><a href="https://ncx.cx/insights">NCX Trends</a></li>
+                        <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
                         <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
                         <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
                     </ul>

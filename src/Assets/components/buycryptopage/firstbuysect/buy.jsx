@@ -16,7 +16,7 @@ function BuyCrypto()
                     <div className="rewardheadrow">
                         <p className="complete-tsks">Buy Crypto, Earn NCXT</p>
                         <div className="reward-center">
-                            <p>Visit Reward Center</p>
+                            <p><a href="https://ncx.cx/task-rewards">Visit Rewards Center</a></p>
                             <p className="star-res"><RewardStar /> NCX Rewards</p>
                         </div>
                     </div>

@@ -7,6 +7,14 @@
     margin: 0px;
     align-items: center;
 }
+.reward-center p a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.reward-center p a:hover{
+    color: #E1C8FF;
+    text-decoration: none;
+}
 .buycrypt-row .col {
     width: 50%;
     flex: inherit;
@@ -22,7 +30,7 @@
     display: none;
 }
 .crypto-assets.row .col.coin-details {
-    width: 32%;
+    width: 31%;
 }
 .col.buysell-sect{
     text-align: center;

@@ -1,5 +1,96 @@
 const blogListdata = [
   {
+    id: 103,
+    title: 'MONUMENTAL MINERALS CORP. CLOSES STRATEGIC PLACEMENT FINANCING',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>VANCOUVER, BC, March 3, 2023 /CNW/ - Monumental Minerals Corp. ("Monumental" or the "Company") (TSXV: MNRL) (FSE: BE5) (OTCQB: MNMRF) announces that it has closed a non-brokered private placement</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 05:15 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-103.webp',
+    content: <div className="blog-content">
+      <p>VANCOUVER, BC, March 3, 2023 /CNW/ - Monumental Minerals Corp. ("Monumental" or the "Company") (TSXV: MNRL) (FSE: BE5) (OTCQB: MNMRF) announces that it has closed a non-brokered private placement (the "Private Placement") for gross proceeds of $988,050, consisting of 5,646,000 units of the Company ("Units") at a price of $0.175 per Unit. Each Unit consists of one common share of the Company ("Shares") and one common share purchase warrant of the Company ("Warrants"). Each whole Warrant entitles the holder to acquire one Share at a price of $0.30 per Share for a period of three years following the closing of the Private Placement.</p>
+      <p>Monumental Minerals Corp. logo (CNW Group/Monumental Minerals Corp.)</p>
+      <p>Dr. Jamil Sader, CEO of Monumental comments:</p>
+      <p>"We are pleased to welcome our new strategic investors. They are highly respected and experienced and we look forward to leveraging their extensive expertise in mining and capital markets."</p>
+      <p>Monumental intends to use the proceeds of the Private Placement to conduct work on its projects, as well as for general working capital purposes. The Private Placement is subject to the final acceptance of the TSX Venture Exchange. The Shares issued pursuant to the Private Placement are subject to a statutory hold period of four months and one day from the closing of the Private Placement. No finder's fees are payable in connection with the Private Placement.</p>
+      <p>Pursuant to the Company's option agreement dated October 5, 2022 with Lithium Chile Inc. ("Lithium Chile") (TSX-V: LITH) to acquire a 50.01% interest in the Salar de Turi project (see the Company's news release dated October 6, 2022), the Company issued 1,050,000 common shares to Lithium Chile Inc. (the "Payment Shares"). In addition to the statutory hold period of four months and one day from the date of issuance, the Payment Shares are subject to a 12-month voluntary hold period from the date of issuance.</p>
+      <h3>Stock Options</h3>
+      <p>The Company also announces the granting of incentive stock options ("Options") to certain of its directors, officers and consultants to purchase up to an aggregate 694,600 common shares of the Company at a price of $0.20 per common share for a period of three years, with the Options vesting immediately.</p>
+      <h3>About Monumental Minerals Corp.</h3>
+      <p>Monumental Minerals Corp. is a mineral exploration company focused on the acquisition, exploration, and development of mineral resource properties in the critical and electric metals sector. The Company's flagship asset is the Jemi HREE project located in Coahuila, Mexico near the Texas, USA border which the Company has an option to acquire 100% of the 3,650-hectare project. The Company has an option to acquire a 75% interest and title to the Laguna cesium-lithium brine project located in Chile and a 50.01% interest in the Salar De Turi lithium project in Chile.</p>
+      <p>On behalf of the Board of Directors,</p>
+      <p>/s/ "Jamil Sader"</p>
+      <p><stong>Jamil Sader, </stong>Chief Executive Officer and Director</p>
+      <p><strong>Contact Information:</strong></p>
+      <p><stong>Email: </stong><a href="mailto:jsader@monumentalminerals.com">jsader@monumentalminerals.com</a></p>
+      <p>Or</p>
+      <p><stong>Max Sali, </stong>VP Corporate Development and Director</p>
+      <p><stong>Email: </stong><a href="mailto:msali@monumentalminerals.com">msali@monumentalminerals.com</a></p>
+      <p>Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release.</p>
+      <p>This news release does not constitute an offer to sell or a solicitation of an offer to sell any of the securities in the United States. The securities have not been and will not be registered under the United States Securities Act of 1933, as amended (the "U.S. Securities Act") or any state securities laws and may not be offered or sold within the United States or to U.S. Persons unless registered under the U.S. Securities Act and applicable state securities laws or an exemption from such registration is available.</p>
+      <h3>Forward Looking Information</h3>
+      <p>This news release contains "forward–looking information or statements" within the meaning of applicable securities laws, which may include, without limitation, the potential plans for the Company's projects, other statements relating to the technical, financial and business prospects of the Company, its projects and other matters. All statements in this news release, other than statements of historical facts, that address events or developments that the Company expects to occur, are forward-looking statements. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance and actual results may differ materially from those in the forward-looking statements. Such statements are based on numerous assumptions regarding present and future business strategies and the environment in which the Company will operate in the future, including the price of metals, the ability to achieve its goals, that general business and economic conditions will not change in a material adverse manner and that financing will be available if and when needed and on reasonable terms. Such forward-looking information reflects the Company's views with respect to future events and is subject to risks, uncertainties and assumptions, including the risks and uncertainties relating to the interpretation of exploration results, risks related to the inherent uncertainty of exploration and cost estimates and the potential for unexpected costs and expenses and those other risks filed under the Company's profile on SEDAR at www.sedar.com. While such estimates and assumptions are considered reasonable by the management of the Company, they are inherently subject to significant business, economic, competitive and regulatory uncertainties and risks. Factors that could cause actual results to differ materially from those in forward looking statements include, but are not limited to, continued availability of capital and financing and general economic, market or business conditions, failure to secure personnel and equipment for work programs, adverse weather and climate conditions, risks relating to unanticipated operational difficulties (including failure of equipment or processes to operate in accordance with specifications or expectations, cost escalation, unavailability of materials and equipment, government action or delays in the receipt of government approvals, industrial disturbances or other job action, and unanticipated events related to health, safety and environmental matters), risks relating to inaccurate geological assumptions, failure to maintain all necessary government permits, approvals and authorizations, failure to obtain surface access agreements or understandings from local communities, land owners or Indigenous groups, fluctuation in exchange rates, the impact of Covid-19 or other viruses and diseases on the Company's ability to operate, an inability to predict and counteract the effects of COVID-19 on the business of the Company, including but not limited to, the effects of COVID-19 on the price of commodities, capital market conditions, restriction on labour and international travel and supply chains, decrease in the price of rare earth elements, lithium, cesium and other metals, loss of key employees, consultants, or directors, failure to maintain community acceptance (including from the Indigenous communities), increase in costs, litigation, and failure of counterparties to perform their contractual obligations. The Company does not undertake to update forward–looking statements or forward–looking information, except as required by law.</p>
+      <p>SOURCE Monumental Minerals Corp.</p>
+      <p>View original content to download multimedia:</p>
+      <p><a href="http://www.newswire.ca/en/releases/archive/March2023/03/c7753.html" target="_blank" rel="noreferrer">http://www.newswire.ca/en/releases/archive/March2023/03/c7753.html</a></p>
+    </div>
+  },
+  {
+    id: 102,
+    title: 'Google’s head of ChatGPT rival Bard reassures employees it’s ‘a collaborative A.I. service’ and ‘not search’',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Hardik Chhabra/ The India Today Group via Getty Images</p>
+    </div>,
+    authorName: 'Steve Mollman',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 04:18 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-102.webp',
+    content: <div className="blog-content">
+      <p>Hardik Chhabra/ The India Today Group via Getty Images</p>
+      <p><a href="https://fortune.com/company/alphabet/" target="_blank" rel="noreferrer">Google</a> is feeling the heat—from employees. With Microsoft’s ChatGPT-powered Bing making waves and Google’s answer to it, Bard, suffering a “demoralizing” demo last month, workers want to know the game plan with artificial intelligence and search.</p>
+      <p><strong>More from Fortune:</strong></p>
+      <ul>
+        <li><a href="https://fortune.com/recommends/banking/lucrative-side-hustles-you-can-do-from-home/" target="_blank" rel="noreferrer">5 side hustles where you may earn over $20,000 per year—all while working from home</a></li>
+        <li><a href="https://fortune.com/recommends/banking/how-to-save-750-month/" target="_blank" rel="noreferrer">How to save $750 a month, according to financial advisers</a></li>
+        <li><a href="https://fortune.com/recommends/banking/best-high-yield-savings-accounts/" target="_blank" rel="noreferrer">The 10 best high yield savings accounts for March 2023</a></li>
+        <li><a href="https://fortune.com/recommends/mortgages/how-much-salary-to-buy-600000-home/" target="_blank" rel="noreferrer">This is how much money you need to earn annually to comfortably buy a $600,000 home</a></li>
+      </ul>
+      <p>At an all-hands meeting Thursday, Google workers had the chance to pepper CEO Sundar Pichai and Bard product lead Jack Krawczyk with questions, <a href="https://www.cnbc.com/2023/03/03/google-execs-say-in-all-hands-meeting-bard-ai-isnt-all-for-search-.html" target="_blank" rel="noreferrer">according to CNBC</a>, which said it obtained audio of the meeting.</p>
+      <p>One worker asked the following question via Google’s internal forum Dory, according to CNBC:</p>
+      <p>“Bard and ChatGPT are large language models, not knowledge models. They are great at generating human-sounding text, they are not good at ensuring their text is fact-based. Why do we think the big first application should be Search, which at its heart is about finding true information?”</p>
+      <p>Krawczyk, making his all-hands debut, quickly responded, “I just want to be very clear: Bard is not search.”</p>
+      <p>Instead, he said, it’s “a collaborative A.I. service.”</p>
+      <p>“The magic that we’re finding in using the product is really around being this creative companion to helping you be the spark plug for imagination, explore your curiosity, etc.,” he said. But, he added, “We can’t stop users from trying to use it like search.”</p>
+      <p>Of course, search is very much on the minds of Google investors and employees. When OpenAI shared its A.I. chatbot ChatGPT with the public in late November, thoughts immediately turned to how the technology might disrupt Google’s search dominance.</p>
+      <p>Fears about that were hardly allayed when Microsoft launched a ChatGPT-powered rival to Google search last month. (It’s available to a limited number of users for now but will be more widely available soon.)</p>
+      <p>Google responded last month with a video of a demo of Bard, but that was botched by a factual error from the chatbot concerning the James Webb Space Telescope. Wall Street promptly punished Google parent Alphabet, sending its shares down sharply.</p>
+      <p>Another question on Thursday was about the demo, according to CNBC, with an employee asking, “The first public demo was demoralizing, sent our stock into a nosedive, and invited massive media coverage. What really happened?”</p>
+      <p>“Questions like this can be fair and we want to reiterate the fact that Bard has not launched,” Krawczyk replied. “We acknowledged to the world that this is something that we’re experimenting with—we’re testing it. But there’s a lot of excitement in the industry right now.”</p>
+      <p>Another worker reportedly commented, “Launching AI seems like a knee-jerk reaction without a strategy.”</p>
+      <p>“I disagree with the premise of this question” Pichai responded, noting Google has been “working on A.I. for a long time.”</p>
+      <p>Indeed, OpenAI was established in 2015 “as a counterweight to Google” in A.I., Tesla CEO Elon Musk, who helped start it, tweeted last month. He also complained that OpenAI had “become a closed source, maximum-profit company effectively controlled by Microsoft.” (Musk is now reportedly working to establish a rival to OpenAI.)</p>
+      <p>But Google, though it’s long been strong on the A.I. research front, has much more to lose than anyone else if users start Googling less and turning to A.I. chatbots more for their search queries.</p>
+      <p>Google declined to comment when contacted by Fortune</p>
+      <p>This story was originally featured on <a href="https://fortune.com/2023/03/03/google-chatgpt-rival-bard-sundar-pichai-eassures-employees-tool-not-search-but-ai-companion/">Fortune.com</a></p>
+      <ul>
+        <li><a href="https://fortune.com/recommends/banking/lucrative-side-hustles-you-can-do-from-home/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">5 side hustles where you may earn over $20,000 per year—all while working from home</a></li>
+        <li><a href="https://fortune.com/recommends/banking/how-to-save-750-month/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">How to save $750 a month, according to financial advisers</a></li>
+        <li><a href="https://fortune.com/recommends/banking/best-high-yield-savings-accounts/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">The 10 best high yield savings accounts for March 2023</a></li>
+        <li><a href="https://fortune.com/recommends/mortgages/how-much-salary-to-buy-600000-home/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">This is how much money you need to earn annually to comfortably buy a $600,000 home</a></li>
+      </ul>
+    </div>
+  },
+  {
     id: 101,
     title: 'Silvergate suspends crypto payments network; shares fall after-hours',
     category: 'Markets',
