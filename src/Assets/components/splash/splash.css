@@ -3,9 +3,9 @@
 	overflow: visible !important;
     z-index: 999 !important;
 }
-body.body_visible {
+/* body.body_visible {
     overflow: visible !important;
-}
+} */
 .splashupperscreen{
     width: 100%;
  	height: 50vh;
