@@ -205,6 +205,7 @@ div#insight_page.container.sefeds {
   .blog-header input[type=email]{
       width: 60%;
       padding-bottom: 15px;
+      border-radius: 0px !important;
   }
   div#insight_page{
       display: block !important;

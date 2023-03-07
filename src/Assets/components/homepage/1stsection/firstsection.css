@@ -272,6 +272,15 @@ img.mbl-pic {
         padding: 0px 15px !important;
     }
 }
+@media screen and (max-width: 380px){
+    .hashtag.mobile span{
+        font-size: 12px !important;
+        padding: 5px 10px !important;
+    }
+    body .cardvideo-sect #ncxcard_cardset .ncx-card-trade .bullets span {
+        font-size: 13px !important;
+    }
+}
 
 
 /* ********************************** */

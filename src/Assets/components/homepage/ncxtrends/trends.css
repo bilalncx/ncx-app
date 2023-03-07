@@ -105,6 +105,19 @@ img.trend-img {
     color: #000000;
     padding-top: 20px;
     min-height: 123px;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.homencxtrends .trend-card{
+    display: none;
+}
+.homencxtrends .trend-card:nth-child(1), .homencxtrends .trend-card:nth-child(2), .homencxtrends .trend-card:nth-child(3),
+.homencxtrends .trend-card:nth-child(4), .homencxtrends .trend-card:nth-child(5), .homencxtrends .trend-card:nth-child(6){
+    display: block;
 }
 .trend-bydate.row {
     margin: 0px !important;
@@ -218,5 +231,9 @@ a.trend-seemore::after{
     }
     a.trend-seemore{
         color: #000000;
+    }
+    .buttons-tabs .d-flex.justify-content-flex-left {
+        width: 100% !important;
+        overflow-x: scroll;
     }
 }

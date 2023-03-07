@@ -87,7 +87,7 @@ function HomeNCXCardSection() {
                                 <div>{point2}</div>
                                 <div>{point3}</div>
                                 <div>{point4}</div>
-                                <a href="https://ncx.cx/" className='card-learnmore'>
+                                <a href="https://ncx.cx/ncx-card" className='card-learnmore'>
                                     Learn More
                                 </a>
                             </div>

@@ -750,4 +750,17 @@ tr.coin-row td a:hover{
         position: relative;
         padding: 120px 0px 0px 0px;
     }
+    .search_bar .wrapper{
+        min-height: 66px;
+        padding-top: 10px;
+    }
+    #insight_page h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    #insight_page h3.sub_title_ss {
+        font-size: 16px;
+        margin: 10px 0px 0px 0px;
+        line-height: 24px;
+    }
 }

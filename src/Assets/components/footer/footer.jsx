@@ -6,8 +6,8 @@ import Twitter from '../footer/twitter.svg';
 import Instagram from '../../images/instagram.svg';
 import { ReactComponent as NCXGoogle } from '../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../images/ncxappstore.svg';
-import MBLNCXGoogle from '../../images/ncx_mbl_playstore.png';
-import MBLNCXAppStore from '../../images/ncx_mbl_appstore.png';
+import MBLNCXGoogle from '../../images/ncxgoogleplay.svg';
+import MBLNCXAppStore from '../../images/ncxappstore.svg';
 import NCXBarcode from '../../images/ncx-barcode.png';
 import { ReactComponent as NCXNewsletterarrow } from '../../images/ncx-newsletterarrow.svg';
 

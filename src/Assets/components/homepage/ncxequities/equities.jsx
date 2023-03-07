@@ -75,7 +75,7 @@ function HomeNCXEquitiesSection(){
                 <div id="equities-tabs-sect">
                     <div className="equitytable row">
                         <div className="col green">
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Tesla />
                                     <div className="imgtxt">
@@ -90,7 +90,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Amazon />
                                     <div className="imgtxt">
@@ -105,7 +105,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Apple />
                                     <div className="imgtxt">
@@ -120,7 +120,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Meta />
                                     <div className="imgtxt">
@@ -135,7 +135,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Microsoft />
                                     <div className="imgtxt">
@@ -152,7 +152,7 @@ function HomeNCXEquitiesSection(){
                             </a>
                         </div>
                         <div className="col red">
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Nike />
                                     <div className="imgtxt">
@@ -167,7 +167,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <CityGroup />
                                     <div className="imgtxt">
@@ -182,7 +182,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <NIO />
                                     <div className="imgtxt">
@@ -197,7 +197,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <GOOG />
                                     <div className="imgtxt">
@@ -212,7 +212,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <NVDA />
                                     <div className="imgtxt">
@@ -240,7 +240,7 @@ function HomeNCXEquitiesSection(){
                             </div>
                         </div>
                         <div className="col black">
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Goldman />
                                     <div className="imgtxt">
@@ -255,7 +255,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <VISA />
                                     <div className="imgtxt">
@@ -270,7 +270,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <Netflix />
                                     <div className="imgtxt">
@@ -285,7 +285,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <XOM />
                                     <div className="imgtxt">
@@ -300,7 +300,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <VOK />
                                     <div className="imgtxt">
@@ -550,7 +550,7 @@ function HomeNCXEquitiesSection(){
                 <div id="equities-tabs-sect">
                     <div className="equitytable row">
                         <div className="col green">
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <EURUSD />
                                     <div className="imgtxt">
@@ -564,7 +564,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <GBPUSD />
                                     <div className="imgtxt">
@@ -579,7 +579,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={USDCAD} alt="USDCAD" />
                                     <div className="imgtxt">
@@ -594,7 +594,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <USDCHF />
                                     <div className="imgtxt">
@@ -609,7 +609,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <EURGBP />
                                     <div className="imgtxt">
@@ -626,7 +626,7 @@ function HomeNCXEquitiesSection(){
                             </a>
                         </div>
                         <div className="col green">
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={AUDUSD} alt="AUDUSD" />
                                     <div className="imgtxt">
@@ -641,7 +641,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={USDCNH} alt="USDCNH" />
                                     <div className="imgtxt">
@@ -656,7 +656,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <EURCAD />
                                     <div className="imgtxt">
@@ -671,7 +671,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={GBPAUD} alt="GBPAUD" />
                                     <div className="imgtxt">
@@ -686,7 +686,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <EURJPY />
                                     <div className="imgtxt">
@@ -714,7 +714,7 @@ function HomeNCXEquitiesSection(){
                             </div>
                         </div>
                         <div className="col black">
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={GBPCAD} alt="GBPCAD" />
                                     <div className="imgtxt">
@@ -729,7 +729,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={NZDUSD} alt="NZDUSD" />
                                     <div className="imgtxt">
@@ -744,7 +744,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={USDTRY} alt="USDTRY" />
                                     <div className="imgtxt">
@@ -759,7 +759,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={CADJPY} alt="CADJPY" />
                                     <div className="imgtxt">
@@ -774,7 +774,7 @@ function HomeNCXEquitiesSection(){
                                     </div>
                                 </div>
                             </a>
-                            <a href="https://ncx.cx" className="tableshadow row">
+                            <a href="#" className="tableshadow row">
                                 <div className="col">
                                     <img className="picimg" src={GBPCHF} alt="GBPCHF" />
                                     <div className="imgtxt">
