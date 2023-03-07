@@ -25,7 +25,7 @@ function NCXTaskSection()
                             <h3>Sign Up and Verify</h3>
                             <p>For new users only</p>
                             <div className="taskbtn">
-                                <Button href="https:/ncx.cx/task-rewards">Start Task</Button>
+                                <Button href="./task-rewards">Start Task</Button>
                                 <NCXQuestionmark />
                             </div>
                         </div>
@@ -80,7 +80,7 @@ function NCXTaskSection()
                             <h3>Sign Up and Verify</h3>
                             <p>For new users only</p>
                             <div className="taskbtn">
-                                <Button href="https:/ncx.cx/task-rewards">Start Task</Button>
+                                <Button href="./task-rewards">Start Task</Button>
                                 <NCXQuestionmark />
                             </div>
                         </div>
