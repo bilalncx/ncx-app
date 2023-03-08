@@ -11,6 +11,9 @@ div#mobile-header {
 div#header-newmobile {
     display: none;
 }
+.by-date p:nth-child(1) {
+    display: none;
+}
 @media (min-width: 1200px){
     .container {
         width: inherit !important;
