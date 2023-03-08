@@ -10,6 +10,7 @@ import MBLNCXGoogle from '../../images/ncxgoogleplay.svg';
 import MBLNCXAppStore from '../../images/ncxappstore.svg';
 import NCXBarcode from '../../images/ncx-barcode.png';
 import { ReactComponent as NCXNewsletterarrow } from '../../images/ncx-newsletterarrow.svg';
+import NCXNewsletter from '../newsletter/subscribe';
 
 function MyFooter() 
 {
@@ -96,10 +97,7 @@ function MyFooter()
                             </div>
                             <div className="fot-newsleter">
                                 <p>Sign Up for Updates</p>
-                                <form>
-                                    <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required type="email" />
-                                    <button><NCXNewsletterarrow /></button>
-                                </form>
+                                <NCXNewsletter />
                             </div>
                         </div>
                     </div>
@@ -178,10 +176,11 @@ function MyFooter()
                 </div>
                 <div className="fot-newsleter">
                     <p>Sign Up for Updates</p>
-                    <form>
+                    <NCXNewsletter />
+                    {/* <form>
                         <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required type="email" />
                         <button><NCXNewsletterarrow /></button>
-                    </form>
+                    </form> */}
                 </div>
                 <div className="app-barcode-row">
                     <div className="appsttore">

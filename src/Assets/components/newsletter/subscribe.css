@@ -1,0 +1,12 @@
+div#error-message {
+    color: #000000;
+    font-size: 0px !important;
+}
+div#error-message p{
+    font-size: 12px !important;
+    line-height: 20px !important;
+    font-family: 'urbanist-regular' !important;
+    color: #34A9FF;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}

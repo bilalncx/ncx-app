@@ -6,6 +6,7 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import NCXIphoneAddWallet from '../../../images/ncx-iphone-addwallet.png';
 import NCXiPhoneTransactions from '../../../images/ncx-iphonetransactions.png';
 import NCXLogo from '../../../images/ncx-black-logo.svg';
+import NCXNewsletter from '../../newsletter/subscribe';
 
 function NCXDebitCardSection()
 {
@@ -22,10 +23,9 @@ function NCXDebitCardSection()
                             <h1>One Card</h1>
                             <h1 className="trprr">Unlimited Possibilities</h1>
                             <h1>Launching 2023 <span className="trprr">Apply Now</span></h1>
-                            <form id="email-subscription">
-                                <input aria-label="Your email address" name="email_address" placeholder="Email" type="email" required />
-                                <button>Apply</button>
-                            </form>
+                            <div id="email-subscription">
+                                <NCXNewsletter />
+                            </div>
                             <div className="cryptopay">
                                 <NCXApplePay />
                                 <NCXGooglePay />
@@ -53,10 +53,9 @@ function NCXDebitCardSection()
                             <h1>One Card,</h1>
                             <h1>Unlimited Possibilities</h1>
                             <h1>Apply Now</h1>
-                            <form id="email-subscription">
-                                <input aria-label="Your email address" name="email_address" placeholder="Email" type="email" required />
-                                <button>Apply</button>
-                            </form>
+                            <div id="email-subscription">
+                                <NCXNewsletter />
+                            </div>
                             <div className="cryptopay">
                                 <NCXApplePay />
                                 <NCXGooglePay />

@@ -1,5 +1,6 @@
 import {React, useState} from 'react';
-// import './blogheader.css';
+import NCXNewsletter from '../../../Assets/components/newsletter/subscribe';
+import './blogheader.css';
 
 // const Header = () => (
 //   <header className='home-header'>
@@ -17,32 +18,21 @@ import {React, useState} from 'react';
 // export default Header;
 
 const SubscribeForm = () => {
-  const [email, setEmail] = useState("")
-  const [name, setName] = useState("")
+  // const [email, setEmail] = useState("")
+  // const [name, setName] = useState("")
 
-  const handleSubmit = async (event: React.FormEvent) => {
-    // TODO
-  }
+  // const handleSubmit = async (event: React.FormEvent) => {
+  //   // TODO
+  // }
 
-  const handleEmailChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const { value } = event.target
-    setEmail(value)
-  }
+  // const handleEmailChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+  //   const { value } = event.target
+  //   setEmail(value)
+  // }
 
   return (
     <div className="header-form">
-      <form onSubmit={handleSubmit}>
-      <input
-        aria-label="Your email address"
-        name="email_address"
-        placeholder="Your email address"
-        required
-        type="email"
-        onChange={handleEmailChange}
-        value={email}
-      />
-      <button>SUBSCRIBE</button>
-      </form>
+      <NCXNewsletter />
     </div>
   )
 }

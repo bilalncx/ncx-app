@@ -143,6 +143,13 @@ div#footerdiv {
 .fot-newsleter form button svg path {
     fill: #FFFFFF;
 }
+.fot-newsleter form button p {
+    display: none;
+}
+.fot-newsleter form button:focus {
+    outline: none;
+    border: none !important;
+}
 .footer-logo a img {
     width: 160px;
     height: auto;

@@ -29,7 +29,7 @@ import FAQLearn from './Assets/components/support/learn/learn';
 
 const App = () => {
   return (
-    <div className='roo-container'>
+    // <div className='roo-container'>
       <BrowserRouter>
         <Routes>
           <Route path='/' exact element={<Home />} />
@@ -57,7 +57,7 @@ const App = () => {
           <Route path='/faq_learn' element={<FAQLearn />} />
         </Routes>
       </BrowserRouter>
-    </div>
+    // </div>
   );
 };
 

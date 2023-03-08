@@ -86,10 +86,11 @@ img.floatingcard {
     font-family: 'hauora-semibold';
     line-height: 42px;
 }
-form#email-subscription {
+#email-subscription form {
     margin-top: 30px;
+    display: flex;
 }
-form#email-subscription input {
+#email-subscription form input {
     background: #FFFFFF;
     font-size: 16px;
     font-family: 'poppins-regular';
@@ -101,17 +102,17 @@ form#email-subscription input {
     width: 65%;
     padding: 0px 15px;
 }
-form#email-subscription input:focus, form#email-subscription input:focus-visible{
+#email-subscription form input:focus, #email-subscription form input:focus-visible{
     outline: none;
     border: none;
 }
-form#email-subscription input::placeholder{
+#email-subscription form input::placeholder{
     font-size: 16px;
     font-family: 'poppins-regular';
     line-height: 20px;
     color: #767676;
 }
-form#email-subscription button{
+#email-subscription form button{
     font-size: 16px;
     line-height: 20px;
     font-family: 'poppins-regular';
@@ -123,4 +124,7 @@ form#email-subscription button{
     height: 43px;
     width: 120px;
     margin-left: 10px;
+}
+#email-subscription form button svg {
+    display: none;
 }

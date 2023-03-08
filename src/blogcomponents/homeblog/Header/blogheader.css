@@ -1,4 +1,4 @@
-.home-header {
+/* .home-header {
     text-align: center;
   }
   
@@ -20,5 +20,12 @@
   .home-header p {
     color: #a9a9a9;
     font-weight: 500;
+  } */
+  .header-form .newsletter_form button svg{
+    display: none;
   }
-  
+  .header-form .newsletter_form button p {
+    margin: 0px !important;
+    padding: 10px 0px;
+    font-size: 16px !important;
+}

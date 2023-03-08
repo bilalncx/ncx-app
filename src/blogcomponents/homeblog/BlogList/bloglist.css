@@ -204,7 +204,7 @@ div#insight_page.container.sefeds {
   }
   .blog-header input[type=email]{
       width: 60%;
-      padding-bottom: 15px;
+      padding-bottom: 10px;
       border-radius: 0px !important;
   }
   div#insight_page{
@@ -254,6 +254,10 @@ div#insight_page.container.sefeds {
   }
   .blog-header button{
       width: 30% !important;
+      top: 0px;
+  }
+  .header-form .newsletter_form button p{
+    padding: 8px 0px !important;
   }
   div#fixed_sticky_insights.sticky {
     position: inherit !important;
@@ -275,5 +279,20 @@ div#insight_page.container.sefeds {
   #BlogdetailsHeader #insight_page .container .col.second {
     padding: 0px !important;
     border: none !important;
+  }
+  .blogItem-cover{
+    min-height: 105px;
+  }
+  .blog-subCategory{
+    display: none;
+  }
+  .cover-image {
+    margin-bottom: 20px;
+  }
+  .profile h1 a {
+    color: #000000;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: 'urbanist-regular';
   }
 }

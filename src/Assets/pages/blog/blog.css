@@ -325,7 +325,7 @@ p.blog-date {
   background: transparent;
   border: none;
   font-size: 14px;
-  line-height: 163.35%;
+  line-height: 20px !important;
   color: #fff;
   font-family: 'Hauora-regular';
   padding: 16px 3px;
