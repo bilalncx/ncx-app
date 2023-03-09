@@ -417,12 +417,13 @@ p.blog-date {
 }
 .searching_btns .btn-dark:nth-child(5){
   order: 1;
+  display: none;
 }
 .searching_btns .btn-dark:nth-child(6){
   order: 6;
 }
 .searching_btns .btn-dark:nth-child(7){
-  order: 7;
+  order: 1;
 }
 .searching_btns button.btn-dark {
   width: 100%;

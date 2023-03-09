@@ -25,8 +25,7 @@ import FAQDesposits from './Assets/components/support/deposits/deposit';
 import FAQWithdrawal from './Assets/components/support/withdrawal/withdrawal';
 import FAQSpotTrading from './Assets/components/support/spottrading/sporttrading';
 import FAQLearn from './Assets/components/support/learn/learn';
-
-
+import ApplyNow from './Assets/pages/Horizontalpage/horizontalpage';
 const App = () => {
   return (
     // <div className='roo-container'>
@@ -55,6 +54,7 @@ const App = () => {
           <Route path='/faq_withdrawal' element={<FAQWithdrawal />}/>
           <Route path='/faq_spot_trading' element={<FAQSpotTrading />} />
           <Route path='/faq_learn' element={<FAQLearn />} />
+          <Route path='/apply-now' element={<ApplyNow />} />
         </Routes>
       </BrowserRouter>
     // </div>

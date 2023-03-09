@@ -20,7 +20,7 @@ const Buttons = ({ filterItem, setItem, menuItems }) => {
           className="btn-dark"
           onClick={() => setItem(Data)}
         >
-          All
+          Latest Articles
         </button>
       </div>
     </>
