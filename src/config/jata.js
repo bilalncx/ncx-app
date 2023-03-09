@@ -1,5 +1,33 @@
 const blogListdata = [
   {
+    id: 104,
+    title: 'Bitcoin, Ether fall amid U.S. Fed chair warning of more interest rate hikes; Forkast NFT 500 index slips 0.65%',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Crypto', 'NFTs'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether fell in afternoon trading in Asia on Wednesday, with XRP the sole gainer among the top 10 non-stablecoin cryptocurrencies by market capitalization.</p>
+    </div>,
+    authorName: 'Dylan Butts',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023 - 1:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-105.webp',
+    content: <div className="blog-content">
+      <p>Bitcoin and Ether fell in afternoon trading in Asia on Wednesday, with XRP the sole gainer among the top 10 non-stablecoin cryptocurrencies by market capitalization. The new Forkast NFT 500 index slipped, and Asian equity markets were mixed following declines in the U.S. as investors reacted to Tuesday’s comments from the U.S. Federal Reserve Chair Jerome Powell.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin fell 0.76% to US$22,028 in 24 hours as of 4:30 p.m. in Hong Kong on Tuesday, according to CoinMarketCap data. The biggest cryptocurrency by market capitalization is down over 7% on the week. Ether fell 1% to US$1,554, after losing about 6% in the past seven days.</li>
+        <li>XRP was the day’s biggest gainer, extending gains from Tuesday. The token increased 2.42% to US$0.38 but declined 1.25% on the week.</li>
+        <li>Altcoin Bone ShibaSwap was the top gainer of all cryptocurrencies, rising over 10% over 24 hours to trade hands at US$1.69.</li>
+        <li>The global cryptocurrency market capitalization fell 1.82% to US$1.01 trillion, but the total crypto market volume increased 41.44% to US$46.71 billion in the last 24 hours.</li>
+        <li>Asian stocks were mostly flat despite losses in the U.S. after hawkish comments from Federal Reserve Chair Jerome Powell raised the possibility of the U.S. central bank returning to significant rate hikes to settle inflation. Hong Kong’s Hang Seng saw the biggest loss of 2.35% while Japan’s Nikkei 225 gained 0.48%.</li>
+        <li>Investors remained cautious after Powell’s hawkish remarks. European stocks were trading flat, as Germany’s DAX 40 inched down 0.02%, while the STOXX 600 slid 0.17%.</li>
+        <li>The Forkast NFT 500 index, which went live on Tuesday, dropped 0.65% to 4,275.91 over the last 24 hours as per 4:30 p.m. on Tuesday in Hong Kong. The Forkast NFT 500 Index is a proxy measure of the performance of the global NFT market, and includes 500 eligible smart contracts on any given day.</li>
+      </ul>
+      </div>
+  },
+  {
     id: 103,
     title: 'MONUMENTAL MINERALS CORP. CLOSES STRATEGIC PLACEMENT FINANCING',
     category: 'Markets',
