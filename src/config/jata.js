@@ -735,14 +735,14 @@ const blogListdata = [
       <p><stong>Email: </stong>jsader@monumentalminerals.com</p>
       <p>Or</p>
       <p><stong>Max Sali, </stong>VP Corporate Development and Director</p>
-      <p><stong>Email: </stong><a href="mailto:msali@monumentalminerals.com">msali@monumentalminerals.com</a></p>
+      <p><stong>Email: </stong>msali@monumentalminerals.com</p>
       <p>Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release.</p>
       <p>This news release does not constitute an offer to sell or a solicitation of an offer to sell any of the securities in the United States. The securities have not been and will not be registered under the United States Securities Act of 1933, as amended (the "U.S. Securities Act") or any state securities laws and may not be offered or sold within the United States or to U.S. Persons unless registered under the U.S. Securities Act and applicable state securities laws or an exemption from such registration is available.</p>
       <h3>Forward Looking Information</h3>
       <p>This news release contains "forward–looking information or statements" within the meaning of applicable securities laws, which may include, without limitation, the potential plans for the Company's projects, other statements relating to the technical, financial and business prospects of the Company, its projects and other matters. All statements in this news release, other than statements of historical facts, that address events or developments that the Company expects to occur, are forward-looking statements. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance and actual results may differ materially from those in the forward-looking statements. Such statements are based on numerous assumptions regarding present and future business strategies and the environment in which the Company will operate in the future, including the price of metals, the ability to achieve its goals, that general business and economic conditions will not change in a material adverse manner and that financing will be available if and when needed and on reasonable terms. Such forward-looking information reflects the Company's views with respect to future events and is subject to risks, uncertainties and assumptions, including the risks and uncertainties relating to the interpretation of exploration results, risks related to the inherent uncertainty of exploration and cost estimates and the potential for unexpected costs and expenses and those other risks filed under the Company's profile on SEDAR at www.sedar.com. While such estimates and assumptions are considered reasonable by the management of the Company, they are inherently subject to significant business, economic, competitive and regulatory uncertainties and risks. Factors that could cause actual results to differ materially from those in forward looking statements include, but are not limited to, continued availability of capital and financing and general economic, market or business conditions, failure to secure personnel and equipment for work programs, adverse weather and climate conditions, risks relating to unanticipated operational difficulties (including failure of equipment or processes to operate in accordance with specifications or expectations, cost escalation, unavailability of materials and equipment, government action or delays in the receipt of government approvals, industrial disturbances or other job action, and unanticipated events related to health, safety and environmental matters), risks relating to inaccurate geological assumptions, failure to maintain all necessary government permits, approvals and authorizations, failure to obtain surface access agreements or understandings from local communities, land owners or Indigenous groups, fluctuation in exchange rates, the impact of Covid-19 or other viruses and diseases on the Company's ability to operate, an inability to predict and counteract the effects of COVID-19 on the business of the Company, including but not limited to, the effects of COVID-19 on the price of commodities, capital market conditions, restriction on labour and international travel and supply chains, decrease in the price of rare earth elements, lithium, cesium and other metals, loss of key employees, consultants, or directors, failure to maintain community acceptance (including from the Indigenous communities), increase in costs, litigation, and failure of counterparties to perform their contractual obligations. The Company does not undertake to update forward–looking statements or forward–looking information, except as required by law.</p>
       <p>SOURCE Monumental Minerals Corp.</p>
       <p>View original content to download multimedia:</p>
-      <p><a href="http://www.newswire.ca/en/releases/archive/March2023/03/c7753.html" target="_blank" rel="noreferrer">http://www.newswire.ca/en/releases/archive/March2023/03/c7753.html</a></p>
+      <p>http://www.newswire.ca/en/releases/archive/March2023/03/c7753.html</p>
     </div>
   },
   {
@@ -761,15 +761,8 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-102.webp',
     content: <div className="blog-content">
       <p>Hardik Chhabra/ The India Today Group via Getty Images</p>
-      <p><a href="https://fortune.com/company/alphabet/" target="_blank" rel="noreferrer">Google</a> is feeling the heat—from employees. With Microsoft’s ChatGPT-powered Bing making waves and Google’s answer to it, Bard, suffering a “demoralizing” demo last month, workers want to know the game plan with artificial intelligence and search.</p>
-      <p><strong>More from Fortune:</strong></p>
-      <ul>
-        <li><a href="https://fortune.com/recommends/banking/lucrative-side-hustles-you-can-do-from-home/" target="_blank" rel="noreferrer">5 side hustles where you may earn over $20,000 per year—all while working from home</a></li>
-        <li><a href="https://fortune.com/recommends/banking/how-to-save-750-month/" target="_blank" rel="noreferrer">How to save $750 a month, according to financial advisers</a></li>
-        <li><a href="https://fortune.com/recommends/banking/best-high-yield-savings-accounts/" target="_blank" rel="noreferrer">The 10 best high yield savings accounts for March 2023</a></li>
-        <li><a href="https://fortune.com/recommends/mortgages/how-much-salary-to-buy-600000-home/" target="_blank" rel="noreferrer">This is how much money you need to earn annually to comfortably buy a $600,000 home</a></li>
-      </ul>
-      <p>At an all-hands meeting Thursday, Google workers had the chance to pepper CEO Sundar Pichai and Bard product lead Jack Krawczyk with questions, <a href="https://www.cnbc.com/2023/03/03/google-execs-say-in-all-hands-meeting-bard-ai-isnt-all-for-search-.html" target="_blank" rel="noreferrer">according to CNBC</a>, which said it obtained audio of the meeting.</p>
+      <p>Google is feeling the heat—from employees. With Microsoft’s ChatGPT-powered Bing making waves and Google’s answer to it, Bard, suffering a “demoralizing” demo last month, workers want to know the game plan with artificial intelligence and search.</p>
+      <p>At an all-hands meeting Thursday, Google workers had the chance to pepper CEO Sundar Pichai and Bard product lead Jack Krawczyk with questions, according to CNBC, which said it obtained audio of the meeting.</p>
       <p>One worker asked the following question via Google’s internal forum Dory, according to CNBC:</p>
       <p>“Bard and ChatGPT are large language models, not knowledge models. They are great at generating human-sounding text, they are not good at ensuring their text is fact-based. Why do we think the big first application should be Search, which at its heart is about finding true information?”</p>
       <p>Krawczyk, making his all-hands debut, quickly responded, “I just want to be very clear: Bard is not search.”</p>
@@ -784,14 +777,6 @@ const blogListdata = [
       <p>“I disagree with the premise of this question” Pichai responded, noting Google has been “working on A.I. for a long time.”</p>
       <p>Indeed, OpenAI was established in 2015 “as a counterweight to Google” in A.I., Tesla CEO Elon Musk, who helped start it, tweeted last month. He also complained that OpenAI had “become a closed source, maximum-profit company effectively controlled by Microsoft.” (Musk is now reportedly working to establish a rival to OpenAI.)</p>
       <p>But Google, though it’s long been strong on the A.I. research front, has much more to lose than anyone else if users start Googling less and turning to A.I. chatbots more for their search queries.</p>
-      <p>Google declined to comment when contacted by Fortune</p>
-      <p>This story was originally featured on <a href="https://fortune.com/2023/03/03/google-chatgpt-rival-bard-sundar-pichai-eassures-employees-tool-not-search-but-ai-companion/">Fortune.com</a></p>
-      <ul>
-        <li><a href="https://fortune.com/recommends/banking/lucrative-side-hustles-you-can-do-from-home/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">5 side hustles where you may earn over $20,000 per year—all while working from home</a></li>
-        <li><a href="https://fortune.com/recommends/banking/how-to-save-750-month/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">How to save $750 a month, according to financial advisers</a></li>
-        <li><a href="https://fortune.com/recommends/banking/best-high-yield-savings-accounts/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">The 10 best high yield savings accounts for March 2023</a></li>
-        <li><a href="https://fortune.com/recommends/mortgages/how-much-salary-to-buy-600000-home/?utm_source=Yahoo%21%20Finance&utm_medium=promo-module-bottom&utm_campaign=syndicationpromo&utm_term=Google%E2%80%99s%20head%20of%20ChatGPT%20rival%20Bard%20reassures%20employees%20it%27s%20%27a%20collaborative%20A.I.%20service%27%20and%20%27not%20search%27" target="_blank" rel="noreferrer">This is how much money you need to earn annually to comfortably buy a $600,000 home</a></li>
-      </ul>
     </div>
   },
   {
@@ -835,7 +820,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>U.S. Oil Will Grow Only 3% This Year. One Reason: Executive Compensation</p>
       <p>Morgan Stanley analyst Devin McDermott tracks the change in pay incentives for oil executives from high production to investor-pleasing efficiency metrics like free cash flow.</p>
-      <p><a href="https://www.barrons.com/articles/u-s-oil-will-grow-only-3-this-year-one-reason-executive-compensation-de460308?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -895,15 +879,6 @@ const blogListdata = [
       <p>India has offered financial incentives to Apple suppliers such as Foxconn, which began making the latest generation of iPhones at a site in Tamil Nadu last year. Smaller rivals Wistron Corp. and Pegatron Corp. have also ramped up in India, while suppliers such as Jabil Inc. have begun making components for AirPods locally.</p>
       <p>--With assistance from Mark Gurman.</p>
       <p>(Updates with Hon Hai statement in fifth paragraph)</p>
-      <p>Most Read from Bloomberg Businessweek</p>
-      <ul>
-        <li><a href="https://www.bloomberg.com/news/features/2023-03-02/leonardo-dicaprio-kim-kardashian-grilled-for-1mdb-secrets-fbi-documents-show?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">FBI Documents Show Leonardo DiCaprio, Kim Kardashian Grilled for 1MDB Secrets</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/top-independent-film-and-tv-studios-struggle-to-find-buyers?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Yellowstone Backers Wanted to Cash Out—Then the Streaming Bubble Burst</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-02/gen-x-female-executives-are-leaving-their-jobs-in-droves?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Female Execs Are Exhausted, Frustrated and Heading for the Exits</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/germany-canada-iceland-among-best-places-for-child-care-costs?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">How Countries Leading on Early Years of Child Care Get It Right</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-02-28/xbox-game-pass-expands-as-regulators-probe-microsoft-activision-deal?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Microsoft Expands Game Pass as Regulators Fret Over Activision Deal</a></li>
-      </ul>
-      <p>©2023 Bloomberg L.P. </p>
     </div>
   },
   {
@@ -928,14 +903,6 @@ const blogListdata = [
       <p>JD shares tumbled after news of the impending rivalry surfaced in domestic media last week. Alibaba executives have since dismissed speculation it would directly engage its longtime rival, warning that a return to the price wars of years past was in nobody’s best interest.</p>
       <p>In 2020, Beijing launched a crackdown campaign to rein in what it called the “reckless expansion of capital,” affecting sectors from e-commerce to online education and the sharing economy. The government has begun rolling back restrictions since late 2022, intent on reviving a Covid-struck economy.</p>
       <p>A $33 Billion Hit Shows China’s Newest Stock Worry: Tech Watch</p>
-      <p>Most Read from Bloomberg Businessweek</p>
-      <ul>
-        <li><a href="https://www.bloomberg.com/news/features/2023-03-02/leonardo-dicaprio-kim-kardashian-grilled-for-1mdb-secrets-fbi-documents-show?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">FBI Documents Show Leonardo DiCaprio, Kim Kardashian Grilled for 1MDB Secrets</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/top-independent-film-and-tv-studios-struggle-to-find-buyers?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Yellowstone Backers Wanted to Cash Out—Then the Streaming Bubble Burst</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-02/gen-x-female-executives-are-leaving-their-jobs-in-droves?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Female Execs Are Exhausted, Frustrated and Heading for the Exits</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/germany-canada-iceland-among-best-places-for-child-care-costs?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">How Countries Leading on Early Years of Child Care Get It Right</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-02-28/xbox-game-pass-expands-as-regulators-probe-microsoft-activision-deal?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Microsoft Expands Game Pass as Regulators Fret Over Activision Deal</a></li>
-      </ul>
     </div>
   },
   {
@@ -964,15 +931,6 @@ const blogListdata = [
       <p>The way Stable Diffusion works is that people type in a description of an image — say an astronaut riding a horse — and the program spits out a realistic or surrealistic picture. The company says it stands apart from competitors because its open-source software is available to the public. Its practical uses include designing video games to advertisements.</p>
       <p>--With assistance from Dina Bass.</p>
       <p>(Updates with Reid Hoffman leaving OpenAI board in sixth paragraph.)</p>
-      <p>Most Read from Bloomberg Businessweek</p>
-      <ul>
-        <li><a href="https://www.bloomberg.com/news/features/2023-03-02/leonardo-dicaprio-kim-kardashian-grilled-for-1mdb-secrets-fbi-documents-show?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">FBI Documents Show Leonardo DiCaprio, Kim Kardashian Grilled for 1MDB Secrets</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/top-independent-film-and-tv-studios-struggle-to-find-buyers?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Yellowstone Backers Wanted to Cash Out—Then the Streaming Bubble Burst</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-02/gen-x-female-executives-are-leaving-their-jobs-in-droves?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Female Execs Are Exhausted, Frustrated and Heading for the Exits</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-03-03/germany-canada-iceland-among-best-places-for-child-care-costs?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">How Countries Leading on Early Years of Child Care Get It Right</a></li>
-        <li><a href="https://www.bloomberg.com/news/articles/2023-02-28/xbox-game-pass-expands-as-regulators-probe-microsoft-activision-deal?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS" target="_blank" rel="noreferrer">Microsoft Expands Game Pass as Regulators Fret Over Activision Deal</a></li>
-      </ul>
-      <p>©2023 Bloomberg L.P.</p>
     </div>
   },
   {
@@ -1026,7 +984,6 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-94.webp',
     content: <div className="blog-content">
       <p>The Biden administration is preparing a new program that could prohibit American investment in certain sectors in China, a step to guard U.S. technological advantages amid a growing competition between the world’s two largest economies.</p>
-      <p><a href="https://www.wsj.com/articles/u-s-prepares-new-rules-on-investment-in-technology-abroad-a451e035?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1068,20 +1025,18 @@ const blogListdata = [
     createdAt: 'Mar 4, 2023 09:05 PM',
     cover: 'https://ncx.cx/images/ncx-blog-92.webp',
     content: <div className="blog-content">
-      <p>The average rate for <a href="https://www.bankrate.com/mortgages/mortgage-rates/" target="_blank" rel="noreferrer">mortgage offers</a> clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. Mortgage rates remain higher than they were a year ago, so it remains important to shop around if you want to find a good deal for a new loan or a <a href="https://www.bankrate.com/mortgages/refinance-rates/" target="_blank" rel="noreferrer">refinance</a>.</p>
+      <p>The average rate for mortgage offers clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. Mortgage rates remain higher than they were a year ago, so it remains important to shop around if you want to find a good deal for a new loan or a refinance.</p>
       <p>Bankrate’s “clicked-on” rate reflects both purchase mortgages and refinances with all terms, including 30-year and 15-year loans.</p>
-      <p>The best deals come with some caveats. For instance, to reel in the best combination of interest rate and costs, you generally need a credit score of 740 or higher and a down payment of 20 percent or more. Many of the lowest rates posted on Bankrate.com also require borrowers to buy <a href="https://www.bankrate.com/mortgages/mortgage-points/" target="_blank" rel="noreferrer">discount points</a>, a way of lowering the loan’s interest by paying a fee at closing — known as “buying down” the rate.</p>
-      <p><a href="https://www.bankrate.com/mortgages/analysis/" target="_blank" rel="noreferrer">Rates for mortgages</a> change constantly, and they’ve recently risen. Those ups and downs reflect the <a href="https://www.bankrate.com/mortgages/rate-volatility-tips/" target="_blank" rel="noreferrer">volatility of the mortgage market</a> as the economy continues to grapple with <a href="https://www.bankrate.com/real-estate/inflation-housing-market/" target="_blank" rel="noreferrer">slowing-but-still-significant</a> inflation and a looming recession.</p>
+      <p>The best deals come with some caveats. For instance, to reel in the best combination of interest rate and costs, you generally need a credit score of 740 or higher and a down payment of 20 percent or more. Many of the lowest rates posted on Bankrate.com also require borrowers to buy discount points, a way of lowering the loan’s interest by paying a fee at closing — known as “buying down” the rate.</p>
+      <p>Rates for mortgages change constantly, and they’ve recently risen. Those ups and downs reflect the volatility of the mortgage market as the economy continues to grapple with slowing-but-still-significant inflation and a looming recession.</p>
       <p>While it still might make sense to refinance your mortgage, the rationale has changed: Most refis now are being done by homeowners pulling out equity to pay for home renovations or repairs.</p>
       <p>Key Takeway</p>
       <p>Be sure to get offers from at least three lenders — you can save thousands of dollars by comparison shopping.</p>
-      <p><a href="https://www.bankrate.com/mortgages/mortgage-rates/" target="_blank" rel="noreferrer">Compare mortgage rates in your area now.</a></p>
       <h3>Average clicked on rate for purchase loans</h3>
       <p>The average rate clicked on by Bankrate readers for 30-year purchase mortgages was 6.31 percent on Thursday.</p>
       <h3>Average clicked on rate for refinance loans</h3>
       <p>The typical rate clicked on by Bankrate readers for 30-year refinances stood at 6.23 percent Thursday.</p>
       <p>You can use Bankrate’s mortgage payment calculator to estimate your monthly payments and see the effect of making extra payments. The tool can also help you determine how much interest you’ll pay over the life of the loan.</p>
-      <p><a href="https://www.bankrate.com/mortgages/refinance-rates/" target="_blank" rel="noreferrer">Compare refinance rates in your area now.</a></p>
     </div>
   },
   {
@@ -1102,7 +1057,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst</p>
       <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
-      <p><a href="https://www.barrons.com/articles/nvidia-amd-intel-chip-stock-price-fb44087f?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1123,7 +1077,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Stocks Are Surging Again. Why This Rally Could Last Into Spring.</p>
       <p>Stifel strategists see the S&P 500 reaching 4300 by April. Plus, investment newsletter commentary on corporate earnings, small-caps’ advantage, and “voluntary” defaults in commercial real estate.</p>
-      <p><a href="https://www.barrons.com/articles/stocks-are-surging-again-why-this-rally-could-last-into-spring-f9a8f544?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1154,10 +1107,7 @@ const blogListdata = [
       <p>The Financial Transaction Services industry is part of the Business Services sector. This group has a Zacks Industry Rank of 90, putting it in the top 36% of all 250+ industries.</p>
       <p>The Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
       <p>You can find more information on all of these metrics, and much more, on Zacks.com.</p>
-      <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. <a href="https://www.zacks.com/registration/pfp/?ALERT=RPT_7BEST_YHOSYND&ADID=SYND_YAHOO_7BEST_TALEOFTAPE_515&cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6-2061736" target="_blank" rel="noreferrer">Click to get this free report</a></p>
-      <p><a href="Mastercard Incorporated (MA) : Free Stock Analysis Report" target="_blank" rel="noreferrer">Mastercard Incorporated (MA) : Free Stock Analysis Report</a></p>
-      <p><a href="https://www.zacks.com/stock/news/2061736/mastercard-ma-outpaces-stock-market-gains-what-you-should-know?cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6-2061736" target="_blank" rel="noreferrer">To read this article on Zacks.com click here.</a></p>
-      <p><a href="https://www.zacks.com/" target="_blank" rel="noreferrer">Zacks Investment Research</a></p>
+      <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. </p>
     </div>
   },
   {
@@ -1178,7 +1128,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Market Rally Roars Back: What You Should Do Now; Apple, Tesla Lead 7 Stocks Near Buy Points</p>
       <p>The stock market rally continued a dramatic comeback. Time for investors act. Apple and Tesla are among stocks near buy points.</p>
-      <p><a href="https://www.investors.com/market-trend/stock-market-today/market-rally-roars-back-what-you-should-do-apple-tesla-lead-7-stocks-near-buy-points/?src=A00220" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1199,7 +1148,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Tesla Is Getting Boring. That Isn’t a Bad Thing for the Stock.</p>
       <p>While the electric-vehicles maker is led by maverick Elon Musk and is trying to disrupt the global energy status quo, it's starting to look like other auto companies.</p>
-      <p><a href="https://www.barrons.com/articles/tesla-stock-elon-musk-ford-car-auto-cybertruck-investors-d1f55d56?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1283,7 +1231,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy</p>
       <p>U.S. stocks close sharply higher Friday, with the Dow snapping four straight weeks of losses amid signs of a resilient economy despite Federal Reserve interest rate hikes.</p>
-      <p><a href="https://www.marketwatch.com/story/u-s-stock-futures-lean-higher-after-strong-wall-street-showing-d9238139?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1343,7 +1290,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Indexes Close Near Session Highs As Yields Ease; Tesla China Deliveries Jump</p>
       <p>Most sectors in the S&P 500 did well in the afternoon, while the defensive consumer staples sector lagged the rest.</p>
-      <p><a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-other-indexes-strengthen-in-afternoon-trading-this-index-outperforms-market/?src=A00220" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1364,7 +1310,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Data shows investors running toward safety of cash as stock market stumbles, yields rise</p>
       <p>Investors poured $68.1 billion into cash funds in the week to Wednesday as concerns over additional Federal Reserve rate hikes continue to rattle financial markets, according to EPFR data.</p>
-      <p><a href="https://www.marketwatch.com/story/data-shows-investors-running-toward-safety-of-cash-as-stock-market-stumbles-yields-rise-99fc098b?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -1387,15 +1332,15 @@ const blogListdata = [
       <p>The S&P 500 initially dipped during the trading week to show signs of weakness, only to turn around and show signs of life again. We are back above the 4000 level, so that of course is a good sign, but at the end of the day, this is a market that looks as if it is trying to roll over. Keep in mind that we have just gone through a significant portion of earnings, and it’s been a mixed bag to say the least.</p>
       <p>If we were to break down below the bottom of the candlestick for the week, then it is likely that we could go down to the 3800 level, an area that previously had been rather supportive. By bouncing from there, it puts an imprint of support in that region that I think a lot of people will be paying attention to. On the upside, we have the 4100 level, which was previous support, but even more importantly we have the 4200 level above that has caused quite a bit of selling pressure, almost like a brick wall. That’s an area where we continue to see a lot of noise, so it does make a target that a lot of people may look for, but breaking above there might be a completely different question.</p>
       <p>You can see that I had a channel drawn previously, and we did break out of it only to turn around and retest that area for potential support. Either way, this is a market that I think continues to see a lot of volatility, so longer term traders may struggle.</p>
-      <p>For a look at all of today’s economic events, check out our <a href="https://www.fxempire.com/tools/economic-calendar" target="_blank" rel="noreferrer">economic calendar</a>.</p>
-      <p>This <a href="https://www.fxempire.com/forecasts/article/sp-500-weekly-price-forecast-stock-markets-recover-slightly-for-the-week-1300969" target="_blank" rel="noreferrer">article</a> was originally posted on FX Empire</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+      <p>This article was originally posted on FX Empire</p>
       <p><strong>More From FXEMPIRE:</strong></p>
-      <p><a href="https://www.fxempire.com/forecasts/article/gbp-jpy-forecast-british-pound-continues-to-chop-back-and-forth-2-1300697" target="_blank" rel="noreferrer">GBP/JPY Forecast – British Pound Continues to Chop Back and Forth</a></p>
-      <p><a href="https://www.fxempire.com/forecasts/article/usd-jpy-forecast-us-dollar-pulls-back-slightly-against-yen-1300708" target="_blank" rel="noreferrer">USD/JPY Forecast – US Dollar Pulls Back Slightly Against Yen</a></p>
-      <p><a href="https://www.fxempire.com/forecasts/article/gbp-to-usd-weekly-forecast-british-pound-gives-up-much-of-the-gains-for-the-week-1300760" target="_blank" rel="noreferrer">GBP to USD Weekly Forecast – British Pound Gives Up Much of the Gains for the Week</a></p>
-      <p><a href="https://www.fxempire.com/forecasts/article/steel-dynamics-stock-rallies-on-high-demand-and-strong-fundamentals-1299881" target="_blank" rel="noreferrer">Steel Dynamics Stock Rallies on High Demand and Strong Fundamentals</a></p>
-      <p><a href="https://www.fxempire.com/forecasts/article/sp-500-price-forecast-stock-markets-end-the-week-on-a-positive-note-1300933" target="_blank" rel="noreferrer">S&P 500 Price Forecast – Stock Markets End the Week On a Positive Note</a></p>
-      <p><a href="https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-continues-to-look-for-its-footing-1300898" target="_blank" rel="noreferrer">Silver Price Forecast – Silver Continues to Look for Its Footing</a></p>
+      <p>GBP/JPY Forecast – British Pound Continues to Chop Back and Forth</p>
+      <p>USD/JPY Forecast – US Dollar Pulls Back Slightly Against Yen</p>
+      <p>GBP to USD Weekly Forecast – British Pound Gives Up Much of the Gains for the Week</p>
+      <p>Steel Dynamics Stock Rallies on High Demand and Strong Fundamentals</p>
+      <p>S&P 500 Price Forecast – Stock Markets End the Week On a Positive Note</p>
+      <p>Silver Price Forecast – Silver Continues to Look for Its Footing</p>
     </div>
   },
   {
@@ -1416,7 +1361,6 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Dow Jones Rises After Key Economic Data; AI Stock Soars 23% On 'Dramatic Change' In Sentiment</p>
       <p>The Dow Jones rose Friday after key economic data. AI stock leader C3.ai soared after the company's better-than-expected earnings.</p>
-      <p><a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-ahead-of-economic-data-ai-stock-soars-on-dramatic-change-in-sentiment/?src=A00220">Continue Reading</a></p>
     </div>
   },
   {
@@ -1487,10 +1431,6 @@ const blogListdata = [
       <p>The Automotive - Original Equipment industry is part of the Auto-Tires-Trucks sector. This industry currently has a Zacks Industry Rank of 194, which puts it in the bottom 24% of all 250+ industries.</p>
       <p>The Zacks Industry Rank gauges the strength of our individual industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
       <p>You can find more information on all of these metrics, and much more, on Zacks.com.</p>
-      <p>Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. <a href="https://www.zacks.com/registration/pfp/?ALERT=RPT_7BEST_YHOSYND&ADID=SYND_YAHOO_7BEST_TALEOFTAPE_554&cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6v2-2061305">Click to get this free report</a></p>
-      <p><a href="https://www.zacks.com/registration/pfp?ALERT=YAHOO_ZR&d_alert=rd_final_rank&t=CAAS&ADID=SYND_YAHOO_TCK_TALEOFTAPE_554&cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6v2-2061305">China Automotive Systems, Inc. (CAAS) : Free Stock Analysis Report</a></p>
-      <p><a href="https://www.zacks.com/stock/news/2061305/china-automotive-systems-caas-stock-sinks-as-market-gains-what-you-should-know?cid=CS-YAHOO-FT-tale_of_the_tape|yseop_template_6v2-2061305">To read this article on Zacks.com click here.</a></p>
-      <p><a href="https://www.zacks.com/">Zacks Investment Research</a></p>
     </div>
   },
   {
@@ -1510,7 +1450,6 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-77.webp',
     content: <div className="blog-content">
       <p>U.S. stocks end higher Thursday, shaking off earlier weakness, despite the 10-year Treasury yield topping 4% on worries about more Federal Reserve interest rate hikes.</p>
-      <p><a href="https://www.marketwatch.com/story/u-s-stock-futures-extend-slide-as-inflation-fears-push-benchmark-u-s-treasury-yield-further-above-4-d51ba518?siteid=yhoof2" target="_blank" rel="noreferrer">Continue Reading</a></p>
     </div>
   },
   {
@@ -2319,7 +2258,7 @@ const blogListdata = [
     category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
-      <p>The <a href="https://www.fxempire.com/currencies/gbp-jpy" target="_blank" rel="noreferrer">British pound</a> has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
+      <p>The British pound has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
     </div>,
     authorName: 'Christopher Lewis',
     authorurl: '',
@@ -2342,7 +2281,7 @@ const blogListdata = [
     category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
-      <p>The <a href="https://www.fxempire.com/currencies/usd-jpy" target="_blank" rel="noreferrer">US dollar</a> has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
+      <p>The US dollar has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
     </div>,
     authorName: 'Christopher Lewis',
     authorurl: '',
@@ -3524,7 +3463,7 @@ const blogListdata = [
         <li>Resistance on the weekly chart still needs to be cleared.</li>
       </ul>
       <img src="https://ncx.cx/images/sp.png" alt="bitcoin s&p"/>
-      <p>This article is the first in what I hope will be a regular weekend series. A variety of technical analysis techniques will be used to look at probable moves for the S&P 500 (<a href="https://seekingalpha.com/symbol/SPY?hasComeFromMpArticle=false&source=content_type%253Areact%257Csection%253Amain_content%257Cbutton%253Abody_link" target="_blank" rel="noreferrer">SPY</a>) in the week ahead. No personal bias will be shown and no predictions will be made either. Rather, the market will be viewed in probable outcomes using inflection points - if it is going down, where is it likely to go? If it is going up, where is it likely to test? Likewise, if it breaks a key level to the downside, what does that tell us about the market and where is it likely to go?</p>
+      <p>This article is the first in what I hope will be a regular weekend series. A variety of technical analysis techniques will be used to look at probable moves for the S&P 500 (SPY) in the week ahead. No personal bias will be shown and no predictions will be made either. Rather, the market will be viewed in probable outcomes using inflection points - if it is going down, where is it likely to go? If it is going up, where is it likely to test? Likewise, if it breaks a key level to the downside, what does that tell us about the market and where is it likely to go?</p>
       <p>The technical analysis itself will be kept fairly simple. After all, one line drawn from the early 2022 top and through the peaks has been the main technical barrier all last year and continues to be important. Tried and tested techniques such as classic patterns, trendlines, major moving averages and horizontal support form the body of the analysis. Demark systems are also used to detect exhaustion and volume profile shows additional areas of interest.</p>
       <p>The S&P 500 chart will be analyzed on monthly, weekly and daily timeframes, then the information collated into an actionable summary at the end.</p>
       <h3>The Market Narrative</h3>
@@ -3593,7 +3532,7 @@ const blogListdata = [
       <p>In recent weeks, SOL’s price has been stagnant at best. It was trading at roughly $13 at the time of this writing, a sharp decline from its $30 price at the start of November 2022.</p>
       <p>The Price Range statistic revealed that Solana lost 60% of its value since the last time it was in the $30 range. The low volume, devoid of any significant spikes – indicated by the volume indicator – showed that the asset had not been traded actively in recent weeks.</p>
       <img src="https://ambcrypto.com/wp-content/uploads/2022/12/SOLUSD_2022-12-16_13-33-39.png" alt="Tradingview" />
-      <p>A review of Solana’s Total Value Locked (TVL) also <a href="https://defillama.com/chain/Solana" target="_blank" rel="noreferrer">revealed</a> that it had drastically decreased in value. The TVL observed was still over $1 billion as of October.</p>
+      <p>A review of Solana’s Total Value Locked (TVL) also revealed that it had drastically decreased in value. The TVL observed was still over $1 billion as of October.</p>
       <p>However, it was discovered that the current worth was around $280 million. The TVL showed a severe decline to which the FTX event and the current market trend contributed.</p>
       <h3>NFT trade remains active</h3>
       <p>The NFT measures provided some promise despite the negative trends shown in the SOL price and Solana’s TVL. Solana was still active, as indicated by the Total NFT trade Volume statistic, expressed in USD. The statistic revealed that NFT sales on the network had sales of over $1.4 million on 6 December alone.</p>
@@ -3972,5 +3911,5 @@ const blogListdata = [
     </div>,
   },
 ];
-  
+
 export default blogListdata;
