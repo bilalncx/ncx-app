@@ -1,3 +1,9 @@
+body{
+  font-family: 'urbanist-regular' !important;
+}
+html{
+  font-family: 'urbanist-regular' !important;
+}
 .App {
   text-align: center;
 }
