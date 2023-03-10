@@ -29,7 +29,7 @@ function FirstVideo()
                                 <p>NCX Ambassadors are global promotion partners of NCX - The Global Cryptocurrency Exchange</p>
                                 <p>Ambassadors earn a passive income of 40-60% commission on trading fees of their affiliates</p>
                             </div>
-                            <Button href="#">Apply Now</Button>
+                            <Button href="mailto:support@ncx.cx">Apply Now</Button>
                         </div>
                     </div>
                 </div>

@@ -96,7 +96,7 @@ function ReferralPrivilleges(){
                     <h2>referral commissions reaches:</h2>
                 </div>
                 <h1 className="referral_bonus">5,000 <span>USD</span></h1>
-                <Button className="referral_applynow" href="#">Apply Now</Button>
+                <Button className="referral_applynow" href="mailto:support@ncx.cx">Apply Now</Button>
 
                 <div className="requirements_sect">
                     <h2 className="require">Requirements</h2>

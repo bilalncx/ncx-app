@@ -60,7 +60,7 @@ function Home8thGradientSection(){
                             <p>Click to “Apply for NCX Ambassador”</p>
                         </div>
                     </div>
-                    <Button className="referral_applynow" href="#">Apply Now</Button>
+                    <Button className="referral_applynow" href="mailto:support@ncx.cx">Apply Now</Button>
                 </div>
             </div>
         </div>

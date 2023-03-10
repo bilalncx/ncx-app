@@ -24,7 +24,7 @@ function NCXhomepageOTCSection(){
                         </AnimationOnScroll>
                     </div>
                     <div className="col view-all">
-                        <Button href="#">View All</Button>
+                        {/* <Button href="#">View All</Button> */}
                     </div>
                     <AnimationOnScroll className="mobile-otcheding" animateIn="animate__fadeIn">
                         <h1>Off Market Trades for Institutional Clients</h1>

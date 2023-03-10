@@ -29,7 +29,7 @@ function NCXOTCPage()
                             <Icon />
                             <h1>Welcome to NCX OTC</h1>
                             <p>Tight spreads, Deep Liquidity, Instant settlement</p>
-                            <Button href="#">Contact Us</Button>
+                            <Button href="mailto:support@ncx.cx">Contact Us</Button>
                         </div>
                         <div className="col why-choose-otc">
                             <h1>Why choose NCX OTC</h1>
