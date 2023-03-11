@@ -66,8 +66,8 @@ export default function Header() {
                             </div>
                             <div className="social_links">
                               <div className="social_link_inner">
-                                <a href="#">About Us</a>
-                                <a href="https://ncx.cx/insights">News & Insights</a>
+                                {/* <a href="#">About Us</a> */}
+                                <a href="https://ncx.cx/insights">Media & Press</a>
                                 <a href="https://ncx.cx/user-agreement">User Agreement</a>
                                 <a href="https://ncx.cx/kyc-aml-policy">AML & KYC Policy</a>
                                 <a href="https://ncx.cx/privacy-policy">Privacy Policy</a>
