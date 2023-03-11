@@ -76,7 +76,7 @@ const Blog = () => {
                 />
                 <h1>High-Yield Crypto Savings</h1>
                 <p className='left-text'>Earn a steady interest in your favorite crypto. Accrue per minute, no lockup!</p>
-                <Button className="btn01 signup">Sign Up</Button>
+                <Button className="insight-signup" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</Button>
                 <div className="social-links">
                   <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
                   <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>

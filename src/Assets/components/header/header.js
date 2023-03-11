@@ -129,8 +129,8 @@ export default function Header() {
               </ul>
             </div>
             <div className="login-buttons">
-              <Button href="#" target="_blank" className="signin">Sign In</Button>
-              <Button href="#" target="_blank" rel="noreferrer" className="launch-dex">Launch DEX</Button>
+              <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer" className="signin">Sign In</Button>
+              <Button className="launch-dex" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</Button>
               <div className="downloadQRCode">
                 <div id="downloadlink" className="storeicons">
                   <AppleIcon />
@@ -206,7 +206,7 @@ export default function Header() {
                         <a className="btn01 signup launching-btn">Sign Up</a>
                       </li> */}
                       <li>
-                        <a className="signin launching-btn" href="#" target="_blank" rel="noreferrer">Sign In / Sign Up</a>
+                        <a className="signin launching-btn" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In / Sign Up</a>
                       </li>
                       {/* <li>
                         <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex launching-btn">Launch DEX</a>
@@ -231,8 +231,8 @@ export default function Header() {
               <div class="dropdown">
                 <button class="dropbtn">Launch DEX</button>
                 <div class="dropdown-content">
-                  <a href="#" target="_blank" rel="noreferrer">Launch DEX</a>
-                  <a href="#" target="_blank" rel="noreferrer">Sign In</a>
+                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</a>
+                  <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</a>
                   {/* <a href="#" target="_blank" rel="noreferrer">Sign Up</a> */}
                 </div>
               </div>

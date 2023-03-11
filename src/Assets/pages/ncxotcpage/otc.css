@@ -21,6 +21,11 @@
 /* #ncxotc-page .ncxotcsection {
     padding-top: 0px;
 } */
+.OTCwelcome .welcomevideo video {
+    object-fit: cover !important;
+    width: 100%;
+    object-position: center;
+}
 .OTCwelcome {
     max-height: 720px;
     background: #000000;

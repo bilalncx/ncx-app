@@ -20,7 +20,7 @@ function Home6thVideoSection(){
                                     <p>For new user only</p>
                                 </div>
                                 <div className="buttoninfo">
-                                    <Button href="#" alt="NCX Task Start">Start Task</Button>
+                                    <Button href="#" alt="NCX Task Start">Sign Up</Button>
                                     <NCXInfoIcon />
                                 </div>
                             </div>

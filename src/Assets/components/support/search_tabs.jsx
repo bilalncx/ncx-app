@@ -6,6 +6,7 @@ import SearchBar from '../../../blogcomponents/homeblog/SearchBar/searchbar';
 import blogListdata from '../../../config/jata';
 // import MyHeader from '../components/header/header';
 // import MyFooter from '../components/footer/footer';
+import Button from "@mui/material/Button";
 import SliderBlog from '../../../blogcomponents/homeblog/BlogSlider/blogslider';
 import { ReactComponent as NCXLogo } from '../../images/NCX-logo.svg';
 import { ReactComponent as Telegram } from '../../components/footer/telegram.svg';
@@ -41,7 +42,7 @@ function QuestionTabs()
                     /> */}
                     <h1 className='open-ticket'>Open Support Ticket</h1>
                     <p className='ticker_pass'>Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                    <button className='support_singbtn' href="#">Sign In</button>
+                    <Button className='support_singbtn' href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</Button>
                     <div className="social-links">
                         <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
                         <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>

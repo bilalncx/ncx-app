@@ -97,7 +97,7 @@ function SupportPageSet()
 
                                 <h1 className="support_ticket">Open Support Ticket</h1>
                                 <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="#">Sign In</a>
+                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</a>
 
                                 <div className="social-icons">
                                     <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>

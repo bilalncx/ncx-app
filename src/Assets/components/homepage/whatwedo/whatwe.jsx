@@ -110,7 +110,7 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="deriv-p">The more you trade, the higher your level, earn NCX Tokens with every level and better trading conditions</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="#">Sign Up</a>
+                                        <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="get-app" href="#">Get the App</a>
                                     </div>
                                 </div>
@@ -147,7 +147,7 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="pro-desc">Buy Crypto in just a few clicks on NCX</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="#">Sign Up</a>
+                                        <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="buycrypt-btn" href="#">Buy Crypto</a>
                                     </div>
                                 </div>
@@ -180,8 +180,8 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="dexp2">Swap, Stake, Farm Yield across 5 leading Blockchains</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="#">Sign Up</a>
-                                        <a className="get-app" href="#">Launch DEX</a>
+                                        <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
+                                        <a className="get-app" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</a>
                                     </div>
                                 </div>
                                 <div className="col product-img">
@@ -217,7 +217,7 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="cardp2">One Card, Unlimited Possibilities!</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="#">Sign Up</a>
+                                        <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="buycrypt-btn" href="#">Get the App</a>
                                     </div>
                                 </div>
@@ -255,7 +255,7 @@ function WhatweDoSection(){
                                     <p className="deriv-p crypttradep1">* - Get up to 100% Trading Fee Discount Staking NCX Tokens</p>
                                     <p className="deriv-p crypttradep2">** - Get up to 100% Withdrawal Fee Refund  Staking NCX Tokens</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="#">Sign Up</a>
+                                        <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="get-app" href="#">Get the App</a>
                                     </div>
                                 </div>

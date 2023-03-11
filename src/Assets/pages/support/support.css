@@ -152,7 +152,7 @@ p.ticker_pass, p.ticker_pass a{
 p.ticker_pass a{
     text-decoration: underline;
 }
-button.support_singbtn {
+a.support_singbtn {
     background: #34A9FF;
     border: none;
     color: #FFFFFF;
@@ -163,6 +163,15 @@ button.support_singbtn {
     line-height: 24px;
     border-radius: 8px;
     margin-top: 20px;
+}
+a.support_singbtn:hover{
+    background: #34A9FF;
+}
+a.support_singbtn:hover, a.support_singbtn:focus, a.support_singbtn:focus-visible{
+    outline: none;
+    border: none;
+    box-shadow: none;
+    text-decoration: none;
 }
 .question_ssdedaa {
     padding-left: 40px;
@@ -192,6 +201,10 @@ h1.open-ticket {
 .animated {
     animation-duration: 1s;
     animation-fill-mode: both;
+}
+#support_faqdetails header#header-row {
+    background: transparent;
+    background-color: transparent;
 }
 @keyframes fadeInUp {
     from {

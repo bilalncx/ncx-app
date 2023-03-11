@@ -460,3 +460,21 @@ p.blog-date {
   position: sticky;
   top: 100px;
 }
+.insight-signup{
+  background: #34A9FF !important;
+    border: none !important;
+    color: #FFFFFF !important;
+    height: 44px !important;
+    width: 170px !important;
+    font-size: 16px !important;
+    font-family: 'urbanist-medium' !important;
+    line-height: 24px !important;
+    border-radius: 8px !important;
+    margin-top: 20px !important;
+}
+.insight-signup:hover, .insight-signup:focus, .insight-signup:focus-visible{
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+}
