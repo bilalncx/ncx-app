@@ -63,6 +63,7 @@
 .apps-divi svg {
     width: 135px;
     height: auto;
+    margin-bottom: 5px !important;
 }
 .ncxapp-section .row .col .mobile-photo{
     position: relative;

@@ -22,7 +22,7 @@ function NCXTaskSection()
                             <h3>Sign Up and Verify</h3>
                             <p>For new users only</p>
                             <div className="taskbtn">
-                                <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</Button>
+                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</Button>
                                 <NCXQuestionmark />
                             </div>
                         </div>
