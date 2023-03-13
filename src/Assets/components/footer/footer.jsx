@@ -24,7 +24,7 @@ function MyFooter()
                             <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
                             <li><a href="#">Spot Trading</a></li>
                             <li><a href="https://ncx.cx/market-makers">Markets</a></li>
-                            <li><a href="#">DEX</a></li>
+                            <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
                             <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
                             <li><a href="#">NCX Token</a></li>
                         </ul>
@@ -119,6 +119,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
                         <li><a href="#">Spot Trading</a></li>
                         <li><a href="https://ncx.cx/market-makers">Markets</a></li>
+                        <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
                         <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
                         <li><a href="#">NCX Token</a></li>
                     </ul>

@@ -70,8 +70,8 @@ function CardfirstSection()
                                 </div>
                                 <p className="cardp2">One Card, Unlimited Possibilities!</p>
                                 <div className="prod-butns">
-                                    <a className="der-buttons" href="https://my.ncx.cx" target="_blank" rel="noreferrer">Sign Up</a>
-                                    <a className="buycrypt-btn" href="https://my.ncx.cx" target="_blank" rel="noreferrer">Get the App</a>
+                                    <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
+                                    <a className="buycrypt-btn" href="#" target="_blank" rel="noreferrer">Get the App</a>
                                 </div>
                             </div>
                             <div className="col product-img">

@@ -115,7 +115,7 @@ export default function Header() {
                   <a href="https://ncx.cx/market-makers">Markets</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#" target="_blank" rel="noreferrer">DEX</a>
+                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="https://ncx.cx/ncx-card">NCX Card</a>
@@ -188,7 +188,7 @@ export default function Header() {
                         <a href="https://ncx.cx/market-makers">Markets</a>
                       </li>
                       <li>
-                        <a href="#" target="_blank" rel="noreferrer">DEX</a>
+                        <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
                       </li>
                       <li>
                         <a href="https://ncx.cx/ncx-card">NCX Card</a>
