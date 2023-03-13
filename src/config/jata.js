@@ -1,5 +1,400 @@
 const blogListdata = [
   {
+    id: 142,
+    title: 'Pfizer buys biotech firm Seagen for $43 billion',
+    category: 'Markets',
+    subCategory: ['Pfizer', 'Biotech', 'seagan'],
+    description: <div className="blog-desc">
+      <p>US pharmaceutical giant Pfizer announced Monday that it had reached a deal to buy biotech firm Seagen, specializing in innovative cancer treatment, for $43 billion.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 5:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-146.jpg',
+    content: <div className="blog-content">
+      <p>US pharmaceutical giant Pfizer announced Monday that it had reached a deal to buy biotech firm Seagen, specializing in innovative cancer treatment, for $43 billion.</p>
+      <p>Pfizer is offering $229 per share in cash, and the companies expect to complete the transaction later this year or in early 2024, they said in a statement.</p>
+      <p>"Pfizer is deploying its financial resources to advance the battle against cancer," said Pfizer CEO Albert Bourla.</p>
+      <p>"Oncology continues to be the largest growth driver in global medicine, and this acquisition will enhance Pfizer's position in this important space," Bourla added.</p>
+	    <p>Seagen -- leading in the research, development and commercialization of cancer treatments -- is growing, with a 12 percent increase in revenue forecast this year to $2.2 billion.</p>
+	    <p> Targeting cancer -</p>	
+	    <p>The company, headquartered in Washington state, came to major drugmakers' attention with its work on antibody-drug conjugates (ADCs) that are "designed to preferentially kill cancer cells."</p>
+      <p>The agreement has been approved by the boards of both firms, and will be subject to regulatory and shareholder approvals.</p>	
+      <p>A deal would have to pass heightened scrutiny from antitrust regulators.</p>	
+      <p>The Biden administration has also been seeking to keep down drug prices.</p>	
+      <p>Pfizer expects to finance the deal through $31 billion of new long-term debt and a "combination of short-term financing and existing cash."</p>	
+      <p>For now, Pfizer Oncology has a portfolio of 24 approved innovative cancer medicines that generated $12.1 billion in 2022, it said.</p>	
+      <p>The deal with Seagen would double Pfizer's early-stage oncology clinical pipeline, the pharmaceutical firm added.</p>	
+      <p>"The addition of Seagen's world-leading ADC technology will position us at the forefront of innovative cancer care," said Chris Boshoff, Pfizer's chief development officer of oncology and rare disease.</p>	
+      <p>Seagen CEO David Epstein added that "the proposed combination with Pfizer is the right next step for Seagen to further its strategy."</p>	
+      <p>According to reports, Pfizer competitor Merck was in talks with Seagen previously but these did not go through.</p>	
+      <p>Pfizer expects that Seagen may contribute more than $10 billion in risk-adjusted revenues in 2030, "with potential significant growth beyond 2030," the company said.</p>		
+	    <p>Seagen's portfolio includes three products with ADCs, including Padcev, which is used for the treatment of urothelial cancer.</p>
+      <p>The US Food and Drug Administration is looking into combining Padcev with Merck's Keytruda in treating patients with advanced bladder cancer who are not eligible for chemotherapy.</p>
+    </div>
+  },
+  {
+    id: 144,
+    title: 'India proposes additional net expenditure of 1.48 trillion rupees for 2022/23',
+    category: 'Markets',
+    subCategory: ['India', 'expenditure',],
+    description: <div className="blog-desc">
+      <p>NEW DELHI (Reuters) - The Indian government has proposed an additional net expenditure of 1.48 trillion rupees ($18.06 billion) for the fiscal year ending this month, a government statement said on Monday.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 5:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-148.jpg',
+    content: <div className="blog-content">
+      <p>NEW DELHI (Reuters) - The Indian government has proposed an additional net expenditure of 1.48 trillion rupees ($18.06 billion) for the fiscal year ending this month, a government statement said on Monday.</p>
+      <p>The additional gross expenditure for the same period will be 2.71 trillion rupees ($33.06 billion), the statement said.</p>
+	    <p>An additional amount of 363.25 billion rupees has been sought for fertiliser subsidy and 337.18 billion rupees have been earmarked to meet the pension liabilities of defence forces.</p>
+	    <p>The government has also sought extra spending of 250 billion rupees to provide telecom services in rural and remote areas.</p>	
+	    <p>The Indian government will spend 41.87 trillion in 2022/23, according to the Union budget it presented on Feb. 1.</p>	
+	    <p>The government will stick to the spending target it specified in the budget and any unused funds will be reallocated, said a government official, declining to be named.</p>
+      <p>The government's fiscal deficit target would be met through savings, extra tax and other receipts, the official added.</p>
+      <p>The government's fiscal deficit target for the ongoing financial year, which will end on March 31, is set at 6.4% of GDP (gross domestic product). ($1 = 81.9675 Indian rupees)</p>
+      <p>(Reporting by Nigam Prusty in New Delhi, writing by Shilpa Jamkhandikar; Editing by Krishna N. Das and Savio D'Souza)</p>
+    </div>
+  },
+  {
+    id: 145,
+    title: 'Bank Crisis Widens As Signature Topples, Funding Props First Republic',
+    category: 'Markets',
+    subCategory: ['Funding', 'Bank', 'Crisis'],
+    description: <div className="blog-desc">
+      <p>The U.S. bank crisis deepened Monday as the financial industry continued to reel from last week's closing of vital venture capital lender Silicon Valley Bank and its parent SVB Financial (SIVB) Friday — marking the second-largest bank collapse in U.S. history. On Sunday, regulators shuttered cryptocurrency-focused Signature Bank (SBNY) and moved the assets to a bridge bank while agencies search for a buyer. Investors continued to dump bank stocks early Monday.</p>
+    </div>,
+    authorName: 'HARRISON MILLER',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 10:38 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-149.jpg',
+    content: <div className="blog-content">
+      <p>The U.S. bank crisis deepened Monday as the financial industry continued to reel from last week's closing of vital venture capital lender Silicon Valley Bank and its parent SVB Financial (SIVB) Friday — marking the second-largest bank collapse in U.S. history. On Sunday, regulators shuttered cryptocurrency-focused Signature Bank (SBNY) and moved the assets to a bridge bank while agencies search for a buyer. Investors continued to dump bank stocks early Monday.</p>
+      <p><strong>Bank Stocks Reel</strong></p>
+      <p>Financial stocks continued to fall Monday as investors felt for the limits of the bank crisis triggered on Friday. Trading for First Republic was halted early Monday after FRC stock fell nearly 68% after the open to 26.45 after sliding roughly 15% on Friday. WAL stock trading was temporarily paused as shares of Western Alliance Bancorp (WAL) toppled 80% Monday morning after shedding 20.88% Friday. PacWest Bancorp (PACW) was briefly halted as the stock plummeted nearly 52% Monday after collapsing 37.9% before the weekend. Zions Bancorp (ZION) retreated 34% Monday.</p>
+      <p>First Horizon (FHN) trading halted early Monday as FHN stock fell 23% in the morning. And Regions Financial (RF) trading was paused after sliding nearly 6% Monday.</p>
+      <p>Charles Schwab (SCHW) slid more than 16% Monday morning after losing 11.7% Friday. Bank of America (BAC) weakened about 4.3% in early trading after inching lower Friday.</p>
+      <p>JPM stock pared early losses to less than 0.5% Monday. It climbed 2.5% Friday, one of the day's few banking bright spots.</p>
+	    <p><strong>Bank Crisis: Signature Bank Closed</strong></p>
+	    <p>On Sunday, state regulators closed New York-based Signature Bank and appointed the FDIC as the receiver. Signature Bank is the 20th largest bank in the U.S. and roughly 30% of its deposits came from crypto customers.</p>	
+	    <p>The FDIC transferred all deposits and "substantially" all of the assets to Signature Bridge Bank. The bridge bank is a full-service bank operated by the agency as it markets the institution to potential bidders.</p>
+      <p>As of Dec. 31, Signature Bank had $110.4 billion in total assets and $82.6 billion in deposits. Signature Bank operations and banking activities will resume Monday, March 13. Regulators guarantee that, "all depositors of the institution will be made whole. No losses will be borne by the taxpayers." In a joint press release Sunday, Treasury Secretary Janet Yellen, Fed Chair Jerome Powell and FDIC Chair Martin Gruenberg approved systemic risk exceptions for Signature Bank to soothe fears of a bank crisis.</p>
+      <p>"Today we are taking decisive actions to protect the U.S. economy by strengthening public confidence in our banking system," the regulators wrote in the release. "This step will ensure that the U.S. banking system continues to perform its vital roles of protecting deposits and providing access to credit to households and businesses in a manner that promotes strong and sustainable economic growth."</p>
+      <p><strong>A Special Assessment On Banks</strong></p>
+      <p>Regulators approved similar systemic risk exceptions for Silicon Valley Bank. Shareholders and certain unsecured debtholders will not be protected. In addition, officials removed senior management, according to the announcement. Any losses to the Deposit Insurance Fund to support uninsured depositors will be recovered by a special assessment on banks, as required by law. And Sunday, the Federal Reserve Board announced it will make additional funding available to eligible institutions to assure banks have the ability to meet all their depositors' needs.</p>
+      <p>"The U.S. banking system remains resilient and on a solid foundation, in large part due to reforms that were made after the financial crisis that ensured better safeguards for the banking industry," regulators wrote. "Those reforms combined with today's actions demonstrate our commitment to take the necessary steps to ensure that depositors' savings remain safe."</p>
+      <p><strong>First Republic Shores Up Funds</strong></p>	
+	    <p>On Sunday, First Republic Bank (FRC) secured additional liquidity from the Federal Reserve Bank and JPMorgan (JPM) to shore up its operations. The additional borrowing capacity brings the total available, unused liquidity to fund operations to more than $70 billion, the company announced in a press release.</p>
+      <p>"First Republic's capital and liquidity positions are very strong, and its capital remains well above the regulatory threshold for well-capitalized banks," CEO Jim Herbert said in the announcement.</p>
+      <p>Meanwhile on Monday, Bank of America removed its rating price target on First Republic, from its previous Buy rating and $90 price target. The unexpected bank failures resulted in First Republic "no longer trading on fundamentals," and made the previous targets unreliable, Bank of America wrote in a research note.</p>
+      <p><strong>PacWest Operations Update</strong></p>
+      <p>On Friday, following the Silicon Valley Bank failure, PacWest Bancorp released an operations update on its current liquidity. PacWest listed $41 billion in assets and $33.2 billion in deposits as of March 9. The Los Angeles-based bank lists $28.3 billion in loan balances, $1.9 billion in cash on hand, $5.3 billion in liquid securities and about $2 billion available from the Federal Reserve Discount Window.</p>
+      <p>"Though the banking industry is experiencing significant volatility in light of recent events, we want to reiterate that Pacific Western Bank is a well-performing, well-diversified, full-service commercial bank with more than 20 years of history," CEO Paul Taylor said in the release. "We have been a proven partner to our customers through all economic cycles and are actively adapting in the current economic environment."</p>
+      <p>Following the update, DA Davidson analyst Gary Tenner upgraded PacWest to Buy from Neutral on Monday, but lowered the price target to 29 from 31. The bank's financial update was largely in-line with the firm's Q1 expectations, despite contagion concerns, Tenner wrote in a research note.</p>
+    </div>
+  },
+  {
+    id: 143,
+    title: 'Dow Jones Falls On SVB Rescue Plan; First Republic, Charles Schwab Crash On Bank Fears',
+    category: 'Markets',
+    subCategory: ['Dow Jones', 'SVB', 'Bank'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average dropped Monday, as global markets grappled with the ongoing crisis among U.S. banks. The FDIC and other financial regulators guaranteed all deposits of SVB Financial (SIVB). Regulators on Sunday also took control of Signature Bank (SBNY). Meanwhile, San Francisco's First Republic (FRC) crashed 74% in morning trade, despite receiving additional funding from the Federal Reserve and JPMorgan (JPM). Finally, Charles Schwab (SCHW) plunged 19% amid ongoing banking fears.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: 'https://www.investors.com/author/lehtonens/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 10:18 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-147.jpg',
+    content: <div className="blog-content">
+      <p>The Dow Jones Industrial Average dropped Monday, as global markets grappled with the ongoing crisis among U.S. banks. The FDIC and other financial regulators guaranteed all deposits of SVB Financial (SIVB). Regulators on Sunday also took control of Signature Bank (SBNY). Meanwhile, San Francisco's First Republic (FRC) crashed 74% in morning trade, despite receiving additional funding from the Federal Reserve and JPMorgan (JPM). Finally, Charles Schwab (SCHW) plunged 19% amid ongoing banking fears.</p>
+      <p>On the economic front, eyes will be on the consumer price index on Tuesday. The CPI is expected to rise 0.4%, both overall and excluding food and energy. That would bring the headline CPI inflation rate down to 6% from 6.1% in January, with the core inflation rate easing to 5.5% from 5.6%.</p>
+      <p>Earnings continue trickling out at the tail end of the season this week. Among them are Academy Sports & Outdoors (ASO), Adobe (ADBE), Dollar General (DG), FedEx (FDX), Five Below (FIVE), GitLab (GTLB) and Lennar (LEN).</p>
+	    <p><strong>Stock Market Today</strong></p>
+	    <p>Drug giant Pfizer (PFE) agreed to pay $43 billion for biotech Seagen (SGEN). Pfizer shares rose 0.3%, while SGEN stock soared 15%.</p>	
+	    <p>Genetic screening tools leader Illumina (ILMN) jumped more than 11% early, on news reports that activist investor Carl Icahn planned to nominate three persons to the company's board of directors.</p>	
+	    <p>Electric-vehicle leader Tesla (TSLA) traded down more than 2% Monday morning after Wolfe Research downgraded the stock to peer perform from outperform. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were up after the stock market open.</p>
+      <p>IBD Leaderboard watchlist stock Palo Alto Networks (PANW) and New Relic (NEWR) — as well as Dow Jones stock Salesforce (CRM) — are among the top stocks to watch in the new stock market correction.</p>
+      <p>Palo Alto is an IBD Leaderboard watchlist stock. New Relic was recently an IBD Stock Of The Day. And Salesforce was featured in last week's Stocks Near A Buy Zone column.</p>
+      <p><strong>Dow Jones Today: Oil Prices, Treasury Yields</strong></p>
+      <p>After Monday's market open, the Dow Jones Industrial Average fell 0.1%, and the S&P 500 was down 0.2%. The tech-heavy Nasdaq composite erased sharp losses in morning action, with Seagen and Illumina leading the index.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) fell 0.1% and the SPDR S&P 500 ETF (SPY) dropped 0.2% early Monday.</p>
+      <p>The 10-year U.S. Treasury yield tumbled to 3.69% Friday. Then on Monday, the 10-year yield dived to 3.47% in early morning trade, as safe haven trade drove bonds sharply higher following the SVB collapse. The dollar angled lower, losing ground against the euro and the yen.</p>
+      <p>Oil prices sold off Monday morning after Friday's brief bounce. West Texas Intermediate futures slid nearly 5% in early trade, trading below $73 a barrel early Monday. Gold and silver also moved sharply higher as investors sought solid ground. Gold jumped 1.4% to above $1,892 an ounce. Silver rallied 3.3%, clearing $21 an ounce.</p>
+      <p><strong>Stock Market Correction</strong></p>
+      <p>On Friday, the stock market sold off sharply, as the major stock index ended with big losses. The Dow Jones Industrial Average dropped 1.1%, and the S&P 500 declined 1.45%. The tech-heavy Nasdaq tumbled 1.8%.</p>
+      <p>Friday's Big Picture column commented, "IBD changed its market outlook to 'uptrend under pressure' Thursday. And after Friday's selloff we've cut our outlook further, to 'market in correction.' This requires investors to avoid any stock purchases and pivot to defensive trading, such as taking profits and cutting losses short."</p>
+      <p><strong>Dow Jones Stocks To Watch: Salesforce</strong></p>
+      <p>In recent weeks, Dow Jones leader Salesforce showed big upside strength after strong fourth-quarter results. But those gains have mostly disappeared amid the recent market weakness, and now the stock is back below a 178.94 cup-with-handle entry. Still, the stock's recent strength is a reason to monitor the software leader in the coming sessions. CRM stock rose 0.5% Monday.</p>
+      <p><strong>Top Stocks To Watch: Palo Alto, New Relic</strong></p>
+      <p>IBD Leaderboard watchlist stock Palo Alto Networks continues to trade quietly in a handle after the stock's 12.5% surge on Feb. 22. Shares remain within striking distance of a base's 192.94 buy point. Bullishly, the stock's relative strength line is at new highs, as the stock sharply outperforms the market averages. PANW stock traded down 0.8% Monday morning.</p>
+      <p>Backstory: On Feb. 21, the cybersecurity giant announced good results for the January-ended quarter that saw earnings hit $1.05 a share, up 81% vs. a year earlier, on a 26% jump in revenue to $1.7 billion.</p>
+      <p>Recent IBD Stock Of The Day, New Relic, is working on a flat base with a 80.98 buy point in the aftermath of the Feb. 8 earnings-fueled surge. The RS line is holding up for now. NEWR stock was down 1.6% Monday.</p>
+      <p>Backstory: New Relic provides a cloud-based suite of software products that enables organizations to collect, store and analyze massive amounts of data in real time. Customers gain increased visibility into their enterprise software to help make data-driven decisions.</p>
+      <p><strong>Tesla Stock</strong></p>
+      <p>Tesla stock snapped a four-day losing streak Friday, with modest gains. It's trying to find support around its key 50-day line and closed Friday around 55% off their 52-week high.</p>
+      <p>Tesla shares fell 2% Monday morning, threatening to erase Friday's gains.</p>
+      <p><strong>Dow Jones Leaders: Apple, Microsoft</strong></p>
+      <p>Among Dow Jones stocks, Apple shares declined 1.4% Friday, finishing with a weekly loss of 1.7%. The stock rose 1.6% early Monday.</p>
+      <p>Microsoft shares extended a losing streak to four sessions, with a 1.5% fall Friday. The stock is more than 20% off its 52-week high after recent declines. MSFT stock moved up 0.8% Monday morning.</p>
+      <p>Be sure to follow Scott Lehtonen on Twitter at @IBD_SLehtonen for more on growth stocks and the Dow Jones Industrial Average.</p>
+    </div>
+  },
+  {
+    id: 139,
+    title: 'Circle’s USDC stablecoin regains parity as regulators act to stop bank run risk',
+    category: 'Crypto',
+    subCategory: ['USDC', 'Stablecoin',],
+    description: <div className="blog-desc">
+      <p>Circle Internet Financial’s USDC, the second-largest stablecoin by market capitalization, lost and then regained parity to the U.S. dollar after regulators took over the failed Silicon Valley Bank and guaranteed deposits, including Circle’s, to prevent a broader run on the banking industry.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 9:33 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-143.jpg',
+    content: <div className="blog-content">
+      <p>Circle Internet Financial’s USDC, the second-largest stablecoin by market capitalization, lost and then regained parity to the U.S. dollar after regulators took over the failed Silicon Valley Bank and guaranteed deposits, including Circle’s, to prevent a broader run on the banking industry.</p>
+      <p>USDC was trading at US$0.9948 at 9:30 a.m. in Hong Kong on Monday, after falling to as low as US$0.8774 on Saturday, according to data from CoinMarketCap. Circle held about US$3.3 billion in USDC reserve deposits at Silicon Valley Bank, known as SVB.</p>
+	    <p>Cryptocurrencies also bounced back from losses last week, with Bitcoin jumping almost 10% in early trading in Asia, after the Federal Deposit Insurance Corporation (FDIC) – a government body set up after the 1930s Great Depression to provide deposit insurance at savings and commercial banks – said on Sunday that it has taken over SVB.</p>
+	    <p>The move to backstop SVB, which had total deposits of more than US$175 billion, went all the way up to the White House and President Joe Biden for approval at the weekend, according to a joint statement by the Treasury, the Federal Reserve and the FDIC, indicating the seriousness with which U.S. regulators took the threat of bank failures spreading.</p>	
+	    <p>The fall of SVB followed the earlier collapse of another California-based and crypto-linked bank Silvergate Capital last week. The FDIC said Sunday it has also taken control of New York-based Signature Bank, one of the biggest lenders in the crypto industry, due to banking industry risk.</p>	
+	    <p>“Depositors will have access to all of their money starting Monday, March 13. No losses associated with the resolution of Silicon Valley Bank will be borne by the taxpayer,” the joint official statement said.</p>
+      <p>“We are also announcing a similar systemic risk exception for Signature Bank, New York, New York, which was closed today by its state chartering authority. All depositors of this institution will be made whole. As with the resolution of Silicon Valley Bank, no losses will be borne by the taxpayer.”</p>
+      <p><strong>Circle</strong></p>
+      <p>Jeremy Allaire, Co-founder and CEO of Circle, said in a statement dated March 12 in Boston, U.S.: “We are heartened to see the U.S. government and financial regulators take crucial steps to mitigate risks extending from the banking system.”</p>
+      <p>Allaire said the US$3.3 billion in USDC reserve deposits held at Silicon Valley Bank “will be fully available when U.S. banks open tomorrow morning. No USDC cash reserves were held at Signature Bank. As a regulated payment token, USDC remains redeemable 1:1 with the U.S. Dollar.”</p>
+      <p>FDIC data shows SVB had about US$209 billion in total assets at the end of last year, making it the biggest bank failure in the U.S. since the 2008 financial crisis that included the collapse of Lehman Brothers, a 158-year old investment bank that is the largest bankruptcy in U.S. history with more than US$600 billion in liabilities.</p>
+      <p>The FDIC in its Sunday statement said all insured depositors at SVB will have full access to their insured deposits no later than Monday morning in the U.S. and that the FDIC will pay uninsured depositors an advance dividend within the next week.</p>
+      <p>“As the FDIC sells the assets of Silicon Valley Bank, future dividend payments may be made to uninsured depositors,” the federal agency said.</p>
+      <p><strong>Crypto link?</strong></p>
+      <p>New York-based Signature Bank was closed down on Sunday by its state chartering authority, with the FDIC appointed as receiver. At the end of last year, Signature Bank held total assets of around US$110.36 billion with US$88.59 billion in deposits, according to the FDIC.</p>
+      <p>Crypto exchange Coinbase tweeted on Monday morning in Asia that the firm had about US$240 million in corporate cash at Signature as of Friday, and it is currently facilitating all client cash transactions with other banking partners.</p>
+      <p>The U.S. bank failures could be seen as contagion from the crypto industry, but “the collapses of Silvergate and SVB didn’t appear to have direct links with cryptocurrency,” Winston Hsiao, co-founder and chief revenue officer of Taipei-based fiat-crypto exchange XREX, wrote on Sunday in a Facebook post.</p>
+      <p>“Crypto firms are actually victims just like many corporates and individuals that deposited at the two banks,” he said.</p>
+      <p>US President Joe Biden on Twitter said he is “firmly committed” to holding those responsible for the Silicon Valley Bank and Signature Bank collapse “fully accountable.”</p>
+    </div>
+  },
+  {
+    id: 141,
+    title: 'Awaiting the Fallout From the Collapse of 2 Banks',
+    category: 'Markets',
+    subCategory: ['Collapse', 'Banks', 'Fallout'],
+    description: <div className="blog-desc">
+      <p>As we laid out in last Friday's AAP Weekly Roundup, over the weekend a plan was hatched to stem the impact from SVB Financial (SIVB) and Signature Bank (SBNY) via a joint statement released Sunday night by the Treasury Department, Federal Reserve and Federal Deposit Insurance Corp. This included the Fed sharing it "will make available additional funding to eligible depository institutions to help assure banks have the ability to meet the needs of all their depositors."</p>
+    </div>,
+    authorName: 'By The AAP Team',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 9:22 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-145.jpg',
+    content: <div className="blog-content">
+      <p>As we laid out in last Friday's AAP Weekly Roundup, over the weekend a plan was hatched to stem the impact from SVB Financial (SIVB) and Signature Bank (SBNY) via a joint statement released Sunday night by the Treasury Department, Federal Reserve and Federal Deposit Insurance Corp. This included the Fed sharing it "will make available additional funding to eligible depository institutions to help assure banks have the ability to meet the needs of all their depositors."</p>
+	    <p>Our view is this action is a Band-Aid approach to reassure depositors in order to prevent a repeat of what we saw late last week, but the fallout to come likely will see banks becoming more disciplined with their loan programs. This could pressure early-stage companies that are contending with the tech downturn, but it could also jump-start merger-and-acquisition activity in the coming months.</p>
+	    <p>Given the speed with which this unfolded and the impact that Silicon Valley Bank had on the market -- with its $212 billion in total assets, $74 billion in total loans and $342 billion in total client funds as more than 2,500 venture capital firms banked with it and 15% of its loans were secured by residential mortgages and commercial real estate -- odds are there will be ripple effects. And there will still be questions over similar exposures at banks and other institutions tied to the venture debt market. That is going to raise questions about bank profitability, and indeed we are seeing some of those questions emerge today.</p>	
+	    <p>We are also seeing the market question the Fed's next steps when it comes to monetary policy and its fight against inflation. Following the weekend's developments, the CME FedWatch Tool tells us the odds of a 50-basis-point move by the Fed next week is off the table, but we are still likely to see a 25-basis-point move. Without any fresh inflation data since Friday's February Employment Report, it's fair to say the market is thinking the Fed will factor the happenings of the last few days into its thinking.</p>	
+	    <p>We are seeing a mixed outlook in equity futures this morning, with those for Nasdaq moving higher while the ones for the Dow Industrials and S&P 500 are bouncing back and forth between slightly up and modestly down. The yield for the 10-Year Treasury is also moving lower, hitting 3.515%, pretty much back to where it was in early February. What is climbing this morning, is the Cboe Volatility Index (VIX), which is up double-digits to levels we haven't seen since late. October. This move along with the CNN Business Fear & Greed Index that fell sharply to Extreme Fear from Neutral over the last week suggests the next few days are likely to be volatile and potentially emotional for some investors.</p>
+      <p>The next few days bring not only the February Consumer Price Index report as well as Wednesday's February Producer Price Index report but also the February Retail Sales report. If tomorrow's CPI data is more in line with the Cleveland Fed's Inflation Nowcasting model that calls for headline CPI to come in at 6.2% in February with the core reading up 5.5%, showing little progress against January's respective readings of 6.4% and 5.6%, we could see the market react negatively as it once again rethinks what the Fed is likely to do next week. The key to is remember the Fed's dual mandate - stable prices and maximum employment. </p>
+      <p>What this all means is the market will continue to trade day to day based on what is learned that day. Only once we get through the coming days will we have more answers that will tell us what is likely to happen. For now, we will sit on the sidelines, letting our cash, inverse ETFs and the position in gold via the SPDR Gold Shares ETF (GLD) fulfill their role in the portfolio. As we noted in Friday's Roundup, there are several holdings that have been hit, putting them back at more than interesting price levels. However, given a potential for the market to whipsaw in the coming days, we will bide our time for at least a bit longer.</p>
+      <p>With that in mind, we would note that this Friday we have a triple witching event with the expiration of stock options, stock index futures and stock index options. This happens roughly four times a year and has been known to produce strong swings in the market. As we move toward that and digest the week's data we will also be closely watching the technical levels for the S&P 500 we shared earlier this morning. </p>
+    </div>
+  },
+  {
+    id: 148,
+    title: 'Dow Jones Futures Fall; Regulators Protect All SVB Deposits, But Bank Stocks Keep Tumbling',
+    category: 'indices',
+    subCategory: ['Dow Jones', 'SVB', 'Bank'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures and S&P 500 futures fell Monday, while Nasdaq futures rose after a flurry of news Sunday evening. The FDIC and other financial regulators announced that all SVB Financial depositors would get access to all funds Monday, while also announcing a plan to limit the contagion. Regulators also closed embattled Signature Bank (SBNY).</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 8:27 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-152.jpg',
+    content: <div className="blog-content">
+      <p>Dow Jones futures and S&P 500 futures fell Monday, while Nasdaq futures rose after a flurry of news Sunday evening. The FDIC and other financial regulators announced that all SVB Financial depositors would get access to all funds Monday, while also announcing a plan to limit the contagion. Regulators also closed embattled Signature Bank (SBNY).</p>
+      <p>Treasury yields plummeted while Fed rate hike odds faded, but bank stocks continued to sell off, including such as First Republic Bank (FRC), Western Alliance Bancorp (WAL) and Charles Schwab (SCHW) as regulators stressed their would be no bailouts for shareholders.</p>
+      <p>President Biden will speaking on the banking crisis at 9 a.m. ET.</p>
+      <p>First Republic stock crashed more than 60% Monday morning, even after saying it got fresh funding from the Federal Reserve and JPMorgan. Western Alliance also is off over 60% as well. Schwab lost 6% despite a Citigroup upgrade. JPMorgan Chase (JPM), which found support on Friday, fell 1% even with a Wells Fargo upgrade. Bank of America (BAC) retreated 3%. The XLF financial ETF fell modestly and KRE regional bank ETF declined sharply.</p>
+      <p>The stock market suffered big losses last week as SVB Financial (SIVB) and crypto bank Silvergate Financial (SI) collapsed, triggering intense losses for bank stocks. The major indexes sold off hard, breaking multiple areas of support during the week as many leading stocks also came under pressure.</p>
+      <p><strong>Dow Jones Futures Today</strong></p>
+      <p>Dow Jones futures fell 0.7% after surging more than 1% Sunday night. S&P 500 futures sank 0.4% and Nasdaq 100 futures rose 0.%. Futures are active and volatile.</p>
+      <p>The 10-year Treasury yield, which dived last week on safe-haven flows, tumbled 21 basis points to 3.48%. But the 2-year Treasury yield plunged 50 basis points to 4.9%, as Fed rate hike odds fall.</p>
+	    <p>Markets are now pricing in just one quarter-point rate hike, with a solid chance that the Fed will pause on March 22. A few days ago, markets expected 50 basis points on March 22, with at least two more quarter-point hikes after that.</p>
+	    <p>Crude oil futures plunged 5%.</p>	
+	    <p>Bitcoin rose sharply Sunday and largely held those gains Monday morning. The cryptocurrency tumbled last week on the Silvergate and SVB collapses.</p>
+      <p>In other news, Pfizer (PFE) will buy Seagen (SGEN) for $229 a share, with an enterprise value of $43 billion, following weeks of talks. PFE stock fell modestly while SGEN stock leapt nearly 20%. Sanofi (SNY) will acquire Provention Bio (PRVB) for $2.9 billion, or $25 a share. SNY stock was little changed while PRVB stock more than tripled.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <p>The video embedded in this article discussed the market action in depth while also analyzing JPMorgan Chase, Palo Alto Networks and META stock.</p>
+      <p><strong>FDIC, Regulators Protect SVB Financial Depositors</strong></p>
+      <p>Shortly after Dow futures opened, the Federal Deposit Insurance Corp. and Federal Reserve issued a joint statement that SVB Financial's "[d]epositors will have access to all of their money starting Monday, March 13." They also announced that Signature Bank, which had a lot of crypto exposure, would be closed due to systemic risks. Signature Bank's depositors also will be protected.</p>
+      <p>California regulators shut down SVB Financial and its Silicon Valley Bank subsidiary on Friday, the largest bank failure since Washington Mutual in the 2008 financial crisis.</p>	
+      <p>The FDIC held an auction over the weekend for Silicon Valley Bank, with final bids due Sunday afternoon, according to multiple reports. No winner has been announced.</p>
+	    <p>HSBC Holdings (HSBC) will buy SVB's U.K. arm for just over $1.</p>
+      <p>Meanwhile, the Fed is creating a new financial backstop for other banks. The facility will offer loans of up to one year to banks and other institutions. They'll have to pledge high-quality collateral such as Treasuries, agency debt and mortgage-backed securities. Notably, that collateral will be valued at par, not mark to market. Banks have been sitting on unrealized debt losses as Fed rate hikes sent rates soaring over the past year. That was a big facto in SVB Financial's collapse.</p>
+      <p>Hundreds of companies, including many venture capital and tech startups, have deposits or business ties to Silicon Valley Bank. There were reports that many will struggle to meet payroll without access to accounts soon.</p>
+      <p>Notably, SVB and SBNY shareholders and certain unsecured debtholders will not be protected.</p>
+      <p>Stocks Near Buy Points</p>
+      <p>Amid a weak, volatile, uncertain market, investors should not be making new position trades and instead be largely or entirely in cash. But keep an eye on stocks holding up near buy points. Palo Alto Networks (PANW), Facebook parent Meta Platforms (META), Ulta Beauty (ULTA), Monolithic Power Systems (MPWR) and United Airlines (UAL) are five stocks showing strength, near buy points. PANW stock has formed a handle on a long consolidation, while META stock has a new flat base. ULTA stock is finding support at key levels. Monolithic Power is working on a long cup-with-handle base while UAL stock has retreated from a buy zone.</p>
+      <p>Meanwhile, Apple (AAPL) has a new flat base as well. Tesla (TSLA) sold off hard this past week, but did find support at its 10-week line on Friday. TSLA stock is far from being actionable. Wolfe Research downgraded Tesla to peer perform on Monday, saying the SVB collapse adds to macro pressures.</p>
+      <p>Insulet (PODD) will replace SIVB stock in the S&P 500 before Wednesday's open. PODD stock jumped Friday night.</p>
+      <p>PANW stock is on the IBD Leaderboard watchlist. MPWR stock is on the IBD Long-Term Leaders watchlist. Monolithic Power, United Airlines and ULTA stock are on the IBD 50. Meta Platforms was Friday's IBD Stock Of The Day.</p>
+      <p><strong>Stock Market Weekly Action</strong></p>
+      <p>The stock market started off higher but quickly reversed lower for major losses on Fed rate hike fears and later the SVB Financial and Silvergate shutdowns.</p>
+      <p>Twice on Friday, stocks bounced as Treasury Secretary Janet Yellen expressed confidence in a "resilient" banking system. But the positive momentum quickly faded.</p>
+      <p>The Dow Jones Industrial Average tumbled 4.4% in last week's stock market trading. The S&P 500 index sold off 4.55%. The Nasdaq composite skidded 4.7%. The small-cap Russell 2000 dived 8%.</p>
+      <p>Apple stock fell just 1.7% for the week to 148.50, holding above its 200-day line. But that's after reversing from Monday's intraday high of 156.30, nearly hitting AAPL's 157.48 buy point.</p>
+      <p>The 10-year Treasury yield plunged 29 basis points to 3.69% this past week, after hitting a 2023 high of 4.09% on March 2. The 2-year yield tumbled 27 basis points to 4.59%, including 31 basis points on Friday and 48 points on Thursday-Friday.</p>
+      <p>U.S. crude oil futures fell 3.8% to $76.68 a barrel this past week, but did rise on Friday.</p>
+      <p><strong>ETFs</strong></p>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) plunged just over 6% last week, while the Innovator IBD Breakout Opportunities ETF (BOUT) slumped 3.4%.  The iShares Expanded Tech-Software Sector ETF (IGV) gave up 5.7%. The VanEck Vectors Semiconductor ETF (SMH) retreated 3%, with MPWR stock an SMH holding.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) dived 10.9% last week and ARK Genomics ETF (ARKG) 11.4%. Tesla stock is a major holding across Ark Invest's ETFs. TSLA fell 12.3% for the week, amid fresh price cuts and safety probes. But shares edged up on Friday.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) sold off 11.1% last week. The Global X U.S. Infrastructure Development ETF (PAVE) retreated 7.1%. U.S. Global Jets ETF (JETS) descended 4.8, with UAL stock a key component. SPDR S&P Homebuilders ETF (XHB) stepped down 4.85%. The Energy Select SPDR ETF (XLE) gave up 5.3%.  The Health Care Select Sector SPDR Fund (XLV) slumped 3.85% to the lowest point since October.</p>
+      <p>The Financial Select SPDR ETF (XLF) dived 8.5%, with JPMorgan and SCHW stock big holdings. The SPDR S&P Regional Banking ETF (KRE) plummeted 15.7%, its worst weekly loss since the Covid crash in March 2020. SIVB stock and Western Alliance are notable components.</p>
+      <p><strong>Market Analysis</strong></p>
+      <p>The stock market suffered damaging losses this past week, with the major indexes selling off hard and breaking through multiple support levels. The indexes tried to bounce back from early losses Friday, briefly turning positive, before tumbling to fresh lows.</p>
+      <p>The S&P 500, Nasdaq composite and Russell 2000 tumbled through their 21-day lines early in the week and finished decisively below their 50-day and 200-day moving averages. The S&P 500 and Russell 2000 finished Friday below the close of the Jan. 6 follow-through day.</p>
+      <p>The Dow Jones is at its worst levels since early November.</p>
+      <p>Fed chief Jerome Powell's signal that he favors "faster" rate hikes hit the market on Tuesday-Wednesday. But SVB Financial and crypto bank Silvergate Capital rocked banks late in the week.</p>
+      <p>A Friday morning rebound attempt fizzled as the FDIC announced SVB Financial's failure.</p>
+      <p>If bank contagion fears grow, that would be grim for Wall Street and the economy. However, if SVB Financial's woes are seen as isolated and broader banking fears quickly fade, that could restore overall market confidence. But that would also likely send Treasury yields and the dollar rebounding higher, with Fed rate hike odds also increasing.</p>
+      <p>The odds of a half-point Fed rate hike surged from 30% on Monday to over 80% following Fed chief Powell's testimony, then fell back below 40% on Friday. The odds fell further over the weekend.</p>
+      <p>Leading stocks also sold off hard last week. A number of names held up for much of the week, but most of those were struggling by Friday's close.</p>
+      <p>Up until Thursday, Friday's jobs report and the upcoming March 14 CPI inflation report seemed like major events. And they are still important. A relatively tame CPI inflation rate could give Fed chief Powell and his colleagues the excuse they need to raise rates by only a quarter-point.</p>
+      <p>But in the very near term, Wall Street will likely take its cue from the banking sector. So pay attention to banks, from the biggest recent losers such as First Republic to broad ETFs and relative stalwarts such as JPM stock.</p>
+      <p>JPMorgan was the S&P 500's second-best stock on Friday, even as SBNY stock, First Republic and Schwab were the worst performers. That's a sign that investors see JPMorgan as relatively safe. But if JPM stock breaks this past week's lows, that would be concerning.</p>
+      <p><strong>What To Do Now</strong></p>
+      <p>The stock market is selling off hard amid bad news and even-greater uncertainty.</p>
+      <p>This is not a healthy environment. Investors should be largely or entirely on the sidelines, waiting to see how this shakes out. If conditions clear up in a few days or weeks, new buying opportunities will arise.</p>
+      <p>Build your watchlists with a focus on the stocks showing strong relative strength. If they're near potential buy points like META stock, Monolithic Power or Palo Alto, great. But that's not the priority right now.</p>
+    </div>
+  },
+  {
+    id: 140,
+    title: 'Bitcoin jumps more than 9% as U.S. acts to protect deposits at crypto-linked banks',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'crypto', 'US'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether led a strong price rebound in the top 10 non-stablecoin cryptocurrencies in morning trading in Asia as U.S. banking regulators took control of Silicon Valley Bank and Signature Bank, both with ties to the crypto industry, and guaranteed deposits at the institutions as well as additional backstops for the banking industry. The moves followed the failure of Silvergate Capital last week that raised the threat of a systemic run on banks. Solana led the gains.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 7:59 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-144.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin and Ether led a strong price rebound in the top 10 non-stablecoin cryptocurrencies in morning trading in Asia as U.S. banking regulators took control of Silicon Valley Bank and Signature Bank, both with ties to the crypto industry, and guaranteed deposits at the institutions as well as additional backstops for the banking industry. The moves followed the failure of Silvergate Capital last week that raised the threat of a systemic run on banks. Solana led the gains.</p>
+	    <h3><strong>Fast facts</strong></h3>
+	    <ul><li>Bitcoin jumped 9.60% in the past 24 hours to US$22,601 at 09:00 a.m. in Hong Kong, according to CoinMarketCap data. Ether gained 9.77% to US$1,621.</li></ul>
+      <ul><li>Solana surged 12.85% to US$20.38 to lead the gainers, but still has more ground to make up as it’s down 2.93% over the past seven days.</li></ul>
+      <ul><li>USD Coin (USDC), the second largest stablecoin by market capitalization, traded back in line with its U.S. dollar peg in the Asia Monday morning after briefly losing the peg following the failure of Silicon Valley Bank where it holds about US$3 billion in deposits, according to Circle, the issuer of USDC.</li></ul>
+      <ul><li>USDC fell to US$0.8774 on Saturday and its market cap slumped 15% to US$36 billion from US$43 billion. Circle said the same day the company had the funds to back USDC and it would remain redeemable 1 for 1 with the U.S. dollar. USDC recently traded at US$0.9941.</li></ul>
+      <ul><li>Circle CEO Jeremy Allaire said on Monday that all Circle deposits will be available when banks open on Monday.</li></ul>
+      <ul><li>The total crypto market capitalization rose 6.47% in the past 24 hours to US$1.01 trillion. Total trading volume over the last 24 hours was down 34.52% to US$60.19 billion.</li></ul>
+      <ul><li>U.S. equities slid on Friday. The Dow Jones Industrial Average dropped 1.07%, the S&P 500 fell 1.45% and the Nasdaq Composite Index was down 1.76%.</li></ul>
+      <ul><li>The slump in equities followed the collapse of Silicon Valley Bank, which was taken over by the FDIC on Friday, in the biggest U.S. bank failure since 2008. However, U.S. stock futures were trading higher on Monday morning in Asia, reflecting the moves to backstop the U.S. banking industry.</li></ul>
+      <ul><li>Amid the banking scares, investors had to contend with the job report from the Labor Department on Friday that showed February nonfarm payrolls came in at  311,000, beating the projected 225,000. This furthers the narrative that the Federal Reserve may raise interest rates more than previously expected to curb inflation.</li></ul>
+      <ul><li>However, with banking failures now the center of attention and concern, analysts at the CME Group predict a 17.4% chance of a 50 basis point hike this month, a sharp drop from 60.9% last Friday. This reflects a view the Fed is unlikely to raise rates by that much in the middle of a series of bank failures.</li></ul>
+      <ul><li>CME expect a 82.6% chance the Fed will raise rates by the forecasted 25 basis points this month, but other commentators say the Fed may postpone any hike until next month because of the banking industry jitters.</li></ul>
+      <ul><li>The Fed meets on March 22 to make its next decision on interest rates, which are currently between 4.5% to 4.75%, the highest since October 2007.</li></ul>
+      <ul><li>The U.S. annual inflation rate is 6.4% for the year ended January 2023, according to Labor Department data released on Feb. 14, which is well above the Fed’s long-term goal to keep inflation in a 2% band. The next inflation update is scheduled for March 14 at 8:30 a.m. Eastern Standard Time.</li></ul>
+    </div>
+  },
+  {
+    id: 147,
+    title: 'Crude oil prices slide $2 as banking fears rattle markets',
+    category: 'Markets',
+    subCategory: ['Crude oil', 'Markets', 'banking'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices fell $2 in volatile trading on Monday as the collapse of Silicon Valley Bank hit equities markets and raised fears of a fresh financial crisis, but a recovery in Chinese demand provided support.</p>
+    </div>,
+    authorName: 'Noah Browning',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 6:48 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-151.jpg',
+    content: <div className="blog-content">
+      <p>By Noah Browning</p>
+      <p>LONDON (Reuters) -Oil prices fell $2 in volatile trading on Monday as the collapse of Silicon Valley Bank hit equities markets and raised fears of a fresh financial crisis, but a recovery in Chinese demand provided support.</p>
+      <p>Brent crude futures were down $2.03, or 2.5%, to $80.75 per barrel by 1401 GMT. West Texas Intermediate U.S. crude futures (WTI) fell $2.11, or 2.8%, to $74.57 a barrel.</p>
+      <p>Brent earlier in the session hit lows last seen in early January while WTI touched prices last reached in early December.</p>
+	    <p>Fears of contagion from the failure of Silicon Valley Bank led to a sell-off in U.S. assets at the end of last week, while state regulators closed New York-based Signature Bank on Sunday.</p>
+	    <p>Europe's STOXX bank index was down 5.8%, having shed 3.8% on Friday. U.S. authorities launched emergency measures on Sunday to shore up confidence in the banking system.</p>	
+	    <p>"Investor sentiment towards these sectors will be hit in the near term. The crisis indicates that there continues to be sizeable risks in financial markets", said Daniel Casali, chief investment strategist at wealth management firm Evelyn Partners.</p>	
+	    <p>"Interest rates have moved a long way in a short space of time, exposing weaknesses across the global financial system."</p>
+      <p>Market sentiment was already fragile as worries about further monetary tightening by the Federal Reserve have been exacerbated by high U.S. crude oil inventories.</p>
+      <p>In recent days a weaker dollar, which makes oil cheaper for holders of other currencies, has lent some support to prices.</p>
+      <p>Oil's fall follows positive momentum on Friday, when U.S. employment data surprised to the upside. Data for February beat expectations, with nonfarm payrolls rising by 311,000, compared with expectations of a gain of 205,000 in a Reuters survey.</p>
+      <p>From a medium- to long-term supply perspective, energy services firm Baker Hughes Co on Friday said U.S. energy firms last week cut the number of oil and natural gas rigs operating for a fourth week in a row for the first time since July 2020.</p>
+      <p>(Additional reporting by Andrew Hayley; editing by Kirsten Donovan, Jason Neely and Paul Simao)</p>
+    </div>
+  },
+  {
+    id: 146,
+    title: 'China Could Control a Third of The World’s Lithium by 2025',
+    category: 'Markets',
+    subCategory: ['China', 'Lithium',],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- China’s efforts to ramp up lithium extraction could see it accounting for nearly a third of the world’s supply by the middle of the decade, according to UBS AG.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 5:07 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-150.jpg',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- China’s efforts to ramp up lithium extraction could see it accounting for nearly a third of the world’s supply by the middle of the decade, according to UBS AG.</p>
+      <p>The bank expects Chinese-controlled mines, including projects in Africa, to raise output to 705,000 tons by 2025, from 194,000 tons in 2022. That would lift China’s share of the mineral critical to electric-vehicle batteries to 32% of global supply, from 24% last year, according to a note on Friday.</p>
+    	<p>The race to secure lithium is playing out at the highest levels, with nations including the US prioritizing access to the materials necessary for making batteries as the world turns away from fossil fuels. China’s needs are particularly acute because it’s home to the world’s biggest market for new energy vehicles.</p>
+	    <p>The rise in Chinese output will include an increase in material derived from lepidolite, a lithium-bearing rock often overlooked as poor quality and environmentally unsound because of its low yield and high energy costs. UBS sees lepidolite in China accounting for 280,000 tons of lithium in 2025, or 13% of global supply, from 88,000 tons last year, as the government continues to support the sector.</p>	
+	    <p>Beijing has already moved to curb unlicensed lepidolite extraction in Jiangxi province, a major mining hub, as it seeks to exert more control over its deposits.</p>	
+	    <p>The Week’s Diary</p>
+      <p>(All times Beijing unless noted.)</p>
+      <p>Monday, March 13</p>
+      <ul><li>Last day of National People’s Congress in Beijing</li></ul>
+      <p>Tuesday, March 14</p>
+      <ul><li>Nothing major scheduled</li></ul>
+      <p>Wednesday, March 15</p>
+      <ul><li>China sets monthly medium-term lending rate, 09:20</li></ul>
+      <ul><li>China industrial output for Jan.-Feb., including steel & aluminum; coal, gas & power generation; and crude oil & refining. 10:00</li></ul>
+      <ul><li>Retail sales, fixed assets, property investment, residential property sales, jobless rate</li></ul>
+      <ul><li>CCTD’s weekly online briefing on China’s coal market, 15:00</li></ul>
+      <ul><li>Mysteel Southeastern China Aluminum Summit in Foshan, Guangdong, day 1</li></ul>
+      <ul><li>EARNINGS: CGN Power, Daqo New Energy, Power Assets</li></ul>
+      <p>Thursday, March 16</p>
+      <ul><li>China new home prices for February, 09:30</li></ul>
+      <ul><li>China Hydrogen Summit in Shanghai, day 1</li></ul>
+      <ul><li>Mysteel Southeastern China Aluminum Summit, Foshan, Guangdong, day 2</li></ul>
+      <ul><li>EARNINGS: Rusal</li></ul>
+      <p>Friday, March 17</p>
+      <ul><li>China Jan.-Feb. output data for base metals and oil products</li></ul>
+      <ul><li>China weekly iron ore port stockpiles</li></ul>
+      <ul><li>Shanghai exchange weekly commodities inventory, ~15:30</li></ul>
+      <ul><li>China Hydrogen Summit in Shanghai, day 2</li></ul>
+      <ul><li>Mysteel Southeastern China Aluminum Summit, Foshan, Guangdong, day 3</li></ul>
+      <ul><li>EARNINGS: CMOC, Hong Kong & China Gas</li></ul>
+      <p>Saturday, March 18</p>
+      <ul><li>China’s 2nd batch of Jan.-Feb. trade data, including agricultural imports; LNG & pipeline gas imports; oil products trade breakdown; alumina, copper and rare-earth product exports; bauxite, steel & aluminum product imports</li></ul>
+      <p>On The Wire</p>
+      <p>Chinese President Xi Jinping capped this year’s National People’s Congress by securing a third, norm-defying term in office and shaping some of the policies that will steer the world’s second-largest economy through the year ahead.</p>
+    </div>
+  },
+  {
     id: 128,
     title: 'Stablecoin Issuer Circle Reveals $3.3 Billion SVB Exposure',
     category: 'Crypto',
@@ -170,7 +565,7 @@ const blogListdata = [
   {
     id: 136,
     title: 'GBP to USD Weekly Forecast – The British Pound Has a Wild Week',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['GBP', 'USD',],
     description: <div className="blog-desc">
       <p>British Pound vs US Dollar Weekly Technical Analysis</p>
@@ -192,7 +587,7 @@ const blogListdata = [
   {
     id: 137,
     title: 'EUR/USD Weekly Forecast – Euro Continues to Fight Near 50-Week EMA',
-    category: 'Forex',
+    category: 'Currencies',
     subCategory: ['EUR', 'USD',],
     description: <div className="blog-desc">
       <p>Euro vs US Dollar Weekly Technical Analysis</p>

@@ -70,7 +70,7 @@ function HomeFirstSection()
                         <span>24/7 Support</span>
                     </div>
                     <div className="btnsdc">
-                        <Button className="btn-signin">Sign Up</Button>
+                        <Button className="btn-signin" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</Button>
                         <Button className="btn-singup">Claim Airdrop</Button>
                         <div className="img001">
                             <AppleIcon />
