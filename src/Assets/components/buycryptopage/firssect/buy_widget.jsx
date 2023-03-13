@@ -4,7 +4,7 @@ function BuyWidfet(){
     return(
         <div className="bbuss">
             <iframe
-            src="https://widget.onramper.com/?apiKey=pk_prod_wtF0vnpmyNMaXUKPqeqlPSdENpQtolTbyPqwhkaZw8Y0"
+            src="https://buy.onramper.com/?apiKey=pk_prod_01GV5X7Q5Y8130N3WEBJA4JFAV"
             
             height="660px"
             width="482px"

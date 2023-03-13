@@ -73,8 +73,25 @@ ul.navlink a {
     font-family: 'urbanist-regular' !important;
     text-transform: capitalize !important;
 }
-ul.navlink a:hover{
+/* ul.navlink a:hover{
     color: #34A9FF !important;
+} */
+ul.navlink li {
+    list-style-type: none;
+    position: relative;
+}
+ul.navlink li:after {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 24px;
+    width: 0;
+    height: 2px;
+    background-color: #34A9FF;
+    transition: 1s;
+}
+ul.navlink li:hover:after {
+    width: 100%;
 }
 .logo-nav{
     width: 75%;

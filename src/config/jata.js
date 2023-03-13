@@ -1,5 +1,374 @@
 const blogListdata = [
   {
+    id: 137,
+    title: 'EUR/USD Weekly Forecast – Euro Continues to Fight Near 50-Week EMA',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD',],
+    description: <div className="blog-desc">
+      <p>Euro vs US Dollar Weekly Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 10, 2023 - 10:12 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-141.jpg',
+    content: <div className="blog-content">
+      <p>Euro vs US Dollar Weekly Technical Analysis</p>
+      <p>The Euro has initially fallen during the week, only to turn around to show signs of life again. The 50-Week EMA seems to be attracting a lot of attention, so therefore it’s not a huge surprise to see that we have turned around. Furthermore, we also had the non-Farm Payroll announcement come out on Friday that had people hoping that perhaps the shrinking wage inflation might have the Federal Reserve rethinking its rate of change. That of course is absolute nonsense, but in the short term it seems to be that’s the narrative that Wall Street is playing.</p>
+	    <p>If we can break higher, there should be a significant amount of resistance near the 1.07 level, and then again at the 1.08 level. On the downside, if we were to break down below the bottom of the candlesticks for the past couple of weeks, then I think you have a situation where you could easily see this market drop down to the 1.03 level, followed by parity. Keep in mind that parity is going to attract a lot of headlines, and therefore people will be very interested in that region. I think we will have a major fight if we do get down to that area, and whether or not we can break down below there is a completely open question at this point.</p>
+	    <p>At this juncture, I think the only thing you can probably count on is going to be more volatility, which is something that quite frankly I think a lot of traders are sick of. However, until we get some type of certainty when it comes to trading conditions and the economic outlook, this is a beast that we have to deal with.</p>	
+	    <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 136,
+    title: 'GBP to USD Weekly Forecast – The British Pound Has a Wild Week',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD',],
+    description: <div className="blog-desc">
+      <p>British Pound vs US Dollar Weekly Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 10, 2023 - 10:24 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-140.jpg',
+    content: <div className="blog-content">
+      <p>British Pound vs US Dollar Weekly Technical Analysis</p>
+      <p>The British pound initially plunged during the week to show signs of weakness, reaching down to the 1.1850 level again. This is an area that previously had been support, so the fact that we held there is a good sign. However, it’s also worth noting that we have seen a lot of choppy and noisy behavior as of late, and most of this reaction was due to the Non-Farm Payroll announcement on Friday, perhaps showing a little bit of hesitation in wage pressure. With that in mind, I’m a little less likely to get bullish of the British pound that I would be under normal circumstances, especially as the preceding candlesticks were all inverted hammers.</p>
+	    <p>I do believe eventually the British pound falls apart, and goes looking to lower pricing against the US dollar, but right now we might be settling on some type of short-term consolidation. If that’s going to be the case, keep in mind that markets can be extraordinarily choppy at times and you need to be cautious with your position size as a result.</p>
+	    <p>If we were to break down below the bottom of the weekly candlestick, then I think it opens up a move down to the 1.15 level, something that I do expect to happen sooner or later. With that, I would be increasingly aggressive to the downside. If we do rally from here, I think there’s a lot of noise near the 1.21 level and the 1.2250 level where the 50-Week EMA currently resides. Either way, volatility is going to be a major issue.</p>	
+	    <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 135,
+    title: 'Dow tumbles 345 points as the biggest bank failure since 2008 rattles nerves',
+    category: 'Markets',
+    subCategory: ['Bank', 'Failure',],
+    description: <div className="blog-desc">
+      <p>US stocks sank Friday, with a losing week capped by the largest bank failure since the global financial crisis and the prospect of higher interest rates.</p>
+    </div>,
+    authorName: 'Carla Mozée',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 1:07 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-139.jpg',
+    content: <div className="blog-content">
+  <ul><li>Stocks dropped sharply Friday after regulators closed Silicon Valley Bank.</li></ul>
+  <ul><li>The bank failure is the biggest since the 2008 financial crisis and has sparked contagion fears.</li></ul>
+  <ul><li>The S&P 500 is close to losing its 2023 gains.</li></ul>
+	<p>US stocks sank Friday, with a losing week capped by the largest bank failure since the global financial crisis and the prospect of higher interest rates.</p>
+	<p>The S&P 500 was on the verge of losing its 2023 gain as it finished closer to 3,839.50, where it ended after last year's 19% plunge. The index's financial sector was the worst performing on Friday as regulators shut down Silicon Valley Bank to prevent a run on the tech-startups lender. The bank collapsed after this week saying higher interest rates spurred billions in losses on a $21 billion bond portfolio.</p>	
+	<p>"Silicon Valley Bank was heavily reliant on the tech industry, catering mainly to startups and the investors that fund them. However, the insular ecosystem of startups and investors that it served took a hit when the Fed began raising rates to curb inflation," Thomas Smale, CEO of FEI International, wrote Friday.</p>	
+	<p><strong>Here's where US indexes stood at the 4:00 p.m. closing bell on Friday: </strong></p>
+  <ul><li>S&P 500: 3,861.72, down 1.44%</li></ul>
+  <ul><li>Dow Jones Industrial Average: 31,909.83, down 1.07% (345.03 points)</li></ul>
+  <ul><li>Nasdaq Composite: 11,138.89, down 1.76%</li></ul>
+  <p>Stocks had moved higher ahead of the opening bell after investors found some relief in the February jobs report.</p>
+  <p>The Labor Department said the US economy added 311,000 jobs last month, much higher than expectations of 205,000 in a Bloomberg survey of economists. But wage growth slowed to 0.2% from January's 0.5% pace, curbing expectations the Federal Reserve will upsize its March interest rate hike to 50 basis points.</p>
+  <p><strong>Here's what else is happening today:</strong></p>
+  <ul><li>Silicon Valley Bank crisis: What you need to know about SVB Financial as its shares plunge.</li></ul>
+  <ul><li>"It is possible today we found our Enron," Michael Burry said about the Silicon Valley Bank implosion.</li></ul>
+  <ul><li>Emerging markets investing pioneer Mark Mobius says most of his investments are in Taiwan after saying he can't get his money out of China.</li></ul>
+  <p><storng>In commodities, bonds, and crypto:</storng></p>
+  <ul><li>West Texas Intermediate crude rose 1% to $76.46 per barrel. Brent crude, the international benchmark, rose 1.1% to $82.52.</li></ul>
+  <ul><li>Gold gained 1.8% to $1,869.30 per ounce.</li></ul>
+  <ul><li>The 10-year Treasury yield tumbled 22 basis points to 3.69%.</li></ul>
+  <ul><li>Bitcoin fell 1.8% to $20,007. It fell below $20,000 earlier Friday for the first time in two months.</li></ul>
+  </div>
+  },
+  {
+    id: 134,
+    title: 'Dow Jones Futures Fall With Jobs Report Due After S&P 500 Sell-Off; SVB Financial Still Crashing',
+    category: 'Markets',
+    subCategory: ['Reports', 'ORCL', 'Crashing'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures and S&P 500 futures fell slightly early Friday, while Nasdaq futures were little changed ahead of the February jobs report. SVB Financial kept plunging overnight after triggering a bank stock sell-off that slammed the broad market Thursday. Treasury yields kept falling.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: 'https://www.investors.com/author/carsone/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 10, 2023 - 8:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-138.jpg',
+    content: <div className="blog-content">
+      <p>Dow Jones futures and S&P 500 futures fell slightly early Friday, while Nasdaq futures were little changed ahead of the February jobs report. SVB Financial kept plunging overnight after triggering a bank stock sell-off that slammed the broad market Thursday. Treasury yields kept falling.</p>
+	    <p>Oracle (ORCL) and Ulta Beauty (ULTA) reported earnings late.</p>
+	    <p>The stock market rally reversed sharply lower Thursday as questions about banks' financials suddenly came to the fore. The S&P 500 and Nasdaq fell to critical support levels.</p>	
+	    <p>Bank stocks plunged as SVB Financial (SIVB), parent of Silicon Valley Bank, cratered on a series of negative headlines while long-ailing crypto bank Silvergate Capital (SI) said it would shut down. Bank of America (BAC), JPMorgan Chase (JPM), Wells Fargo (WFC) and Charles Schwab (SCHW) were among the high-profile losers.</p>	
+	    <p>SIVB stock continued to plunge late as fears of a bank run grew.</p>
+      <p>Investors should be cautious, waiting for the market rally to show renewed strength.</p>
+      <p><strong>Key Earnings</strong></p>
+      <p>ORCL stock fell 5% overnight after Oracle earnings topped but revenue fell short. Oracle stock skidded 5.9% to 81.75 on Thursday, falling below its 50-day line. Shares have been working on a 91.32 buy point from a deep cup-with-handle base.</p>
+      <p>ULTA stock edged lower in premarket action. Ulta Beauty earnings and revenue topped views, but same-store guidance was light. The beauty products retail giant dipped 0.8% to 519.93 on Thursday, just below its 21-day line. ULTA stock does not have a clear buy point.</p>
+      <p><strong></strong></p>
+      <p>Jobs Report</p>
+      <p>The Labor Department will release the February jobs report at 8:30 a.m. ET. Economists expect to see nonfarm payrolls up by 223,000, a big slowdown from January's 517,000, but that would still be a strong two-month start to the year. The jobless rate should hold at a 53-year low of 3.4%. Average hourly earnings should climb 0.3%, but the annual pay gain should pick up to 4.7%.</p>
+      <p>On Thursday, Labor reported initial jobless claims rose more than expected to their highest number since December. Challenger, Gray & Christmas reported that announced layoff plans are the highest to start a year since 2009.</p>
+      <p>The February jobs report, along with next week's CPI inflation report, could lock in expectations for half-point rate hike on March 22.</p>
+      <p><strong>Dow Jones Futures Today</strong></p>
+      <p>Dow Jones futures fell 0.4% vs. fair value, but off overnight lows. S&P 500 futures dipped 0.2%. Nasdaq 100 futures were flat.</p>
+      <p>The 10-year Treasury yield sank 11 basis points to 3.83%. The 2-year yield slumped 11 basis points to 4.79%.</p>
+      <p>Crude oil futures fell 1%.</p>
+      <p>The February jobs report will be sure to swing Dow Jones futures, Treasury yields and Fed rate hike expectations.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <p><strong>Stock Market Rally</strong></p>
+      <p>The stock market rally got off to a decent start Thursday on rising jobless claims, but soon reversed lower on bank concerns. The major indexes steadily worsened, closing near session lows.</p>
+      <p>The Dow Jones Industrial Average slumped 1.7% in Thursday's stock market trading. The S&P 500 index tumbled 1.85%, with SIVB stock, First Republic Bank (FRC) and Schwab the biggest losers. The Nasdaq composite skidded 2.05%. The small-cap Russell 2000, which has a lot of financial components, plunged 2.8%.</p>
+      <p>U.S. crude oil prices fell 1.2% to $75.72 a barrel.</p>
+      <p>The 10-year Treasury yield fell 5 basis points to 3.92%. The two-year Treasury yield plunged 16 basis points to 4.9%, while the six-month T-bill yield dipped 3 basis points to 5.28%.</p>
+      <p>Fed rate hike expectations have shifted, but not decisively.</p>
+      <p>As of early Friday, Markets see a 62% chance of a 50-basis-point move on March 22, down from Thursday's 68.3% and Wednesday's 78.6%. The odds spiked from around 30% before Fed chief Jerome Powell's hawkish testimony on Tuesday. Markets are now pricing in 75 basis points of rate hikes over the next three Fed meetings, with another quarter-point increase likely over that time.</p>
+      <p><strong>Bank Stocks</strong></p>
+      <p>SIVB stock plummeted 60% to 106.04, the lowest price since 2016. SVB Financial late Wednesday announced a $1.75 billion share sale. The Silicon Valley Bank parent also cut guidance. Deposits are dwindling due to startups facing a funding drought. There are also big concerns about SVB's loans to the tech industry.</p>
+      <p>SIVB stock plunged over 60% in heavy premarket trade Friday. Peter Thiel's Founders Fund is advising companies to pull money from Silicon Valley Bank, Bloomberg reported. SVB Financial still has to price that share offering.</p>
+      <p>Silvergate Capital, which has been in free-fall for months, announced late Wednesday that it would shut down, with its Silvergate Bank liquidating. SI stock dived 42% on Thursday.</p>
+      <p>The SVB and Silvergate news slammed financials, already under pressure as the extremely inverted yield curve upends the traditional borrow short/lend long lending strategy.</p>
+      <p>KeyCorp (KEY), which warned on net interest margins earlier in the week, slumped 7.2% Thursday. Western Alliance Bancorp (WAL) tumbled nearly 13%, and FRC stock dived 16.5%.</p>
+      <p>JPM stock skidded 5.4%. On Tuesday, JPMorgan fell below a 138.76 buy point and its 50-day line. BAC stock retreated 6.2% to its lowest levels since October. WFC stock also lost 6.2%, tumbling below its 200-day line after breaking below its 50-day earlier in the week.</p>
+      <p>SCHW stock plunged 12.8%, gapping below the 200-day line and the low of its base. JPMorgan offered a block sale of 8.5 million Schwab shares, Bloomberg reported. SCHW stock is at its worst levels since October.</p>
+      <p>On Friday, banking giants were little changed or edged lower after big losses Thursday and for the week. But FRC stock sold off again, with Western Alliance and KeyCorp also down</p>
+      <p>Investors will take a much-closer look at banks' balance sheets and capital levels, something that hasn't been a real concern up until now. Banks are pushing up deposit and CD rates significantly, while long-term rates lag. Many banks are sitting on sizable unrealized losses on loans and other securities.</p>
+      <p>If banks rein in lending, that could rapidly chill the economy. Meanwhile, SVB Financial and Silvergate Capital's woes raise concerns about their tech and crypto clienteles.</p>
+      <p><strong>ETFs</strong></p>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) tumbled 3.1%. The iShares Expanded Tech-Software Sector ETF (IGV) slumped 2.3%, with ORCL stock a big IGV component. The VanEck Vectors Semiconductor ETF (SMH) gave up 1.9%.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) slumped 4.2% and ARK Genomics ETF (ARKG) 3.8%.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) shed 2.6% and the Global X U.S. Infrastructure Development ETF (PAVE) 2.2%. U.S. Global Jets ETF (JETS) descended 3.1%. SPDR S&P Homebuilders ETF (XHB) stepped down 1.6%. The Energy Select SPDR ETF (XLE) retreated 1.4% and the Health Care Select Sector SPDR Fund (XLV) 1%.</p>
+      <p>The Financial Select SPDR ETF (XLF) plunged 4.1%, with JPM stock, Wells Fargo, Charles Schwab and Bank of America all notable holdings. The SPDR S&P Regional Banking ETF (KRE) dived 8.2% to a three-year low. SIVB stock is a notable KRE holding, along with KeyCorp and Western Alliance.</p>
+      <p><strong>Market Rally Analysis</strong></p>
+      <p>The stock market rally had a highly negative day, with a downside reversal damaging the major indexes and leading stocks.</p>
+      <p>The S&P 500 opened by rising above its 50-day line, but soon hit resistance at the 21-day moving average and reversed lower to below its 200-day line and its March 2 low.</p>
+      <p>The Nasdaq initially rose above its 21-day line, but then reversed to below the 200-day line. The tech-heavy composite briefly undercut its 50-day before settling just above that level.</p>
+      <p>The Dow Jones knifed below its 200-day line to a four-month low.</p>
+      <p>The Russell 2000 fell decisively below its 50-day line, all the way to its 200-day line.</p>
+      <p>Some leaders held up, but most did not.</p>
+      <p>Banking concerns triggered by SIVB stock, Silvergate and KeyCorp don't mean a financial crisis is on the way. Banks, especially the giants such as JPMorgan and Bank of America, are far-better capitalized than they were in the 2007-2009 financial crisis. But the fact that the words "financial crisis" are even being mentioned is a big shift.</p>
+      <p>If banks rein in lending aggressively, that would hit the broader economy quickly. That also would raise the already-hefty risk that the Federal Reserve will overshoot rate hikes, triggering a hard landing. That also could spur the Fed to be more cautious with rate hikes.</p>
+      <p>Friday's jobs report will be important, but it's the market reaction that matters. Keep in mind that if the economy suddenly stalls, lagging employment data won't offer a warning.</p>
+      <p><strong>What To Do Now</strong></p>
+      <p>With the S&P 500 and other major indexes heading south once again, it's not a time to add exposure. Investors should be looking to cut losses on recent buys that are struggling.</p>
+      <p>Perhaps the market rally will once again find support with a tame jobs report or upcoming inflation data, but hope isn't a strategy. The key indexes are on the cusp of breaking decisively lower.</p>
+      <p>On the upside, wait for the S&P 500 and Nasdaq to retake their 21-day lines. If that happens, new buying opportunities will emerge. So keep working on those watchlists.</p>
+    </div>
+  },
+  {
+    id: 133,
+    title: 'Bond Yields Plunge Most Since 2008 as Traders Rethink Fed Path',
+    category: 'Markets',
+    subCategory: ['Traders', 'Yields', 'Bond'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Government-bond yields fell the most since since 2008 after a US bank failure spurred traders to reassess the outlook for additional Federal Reserve rate hikes.</p>
+    </div>,
+    authorName: 'Alice Gledhill, Jan-Patrick Barnert and Michael MacKenzie',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 1:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-137.jpg',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- Government-bond yields fell the most since since 2008 after a US bank failure spurred traders to reassess the outlook for additional Federal Reserve rate hikes.</p>
+      <p>Shorter-dated Treasury yields plummeted for a second day as traders reverted to pricing in a quarter-point rate hike at the Fed’s March 21-22 meeting, instead of a half-point move. The market also resumed pricing in a quarter-point cut by the end of the year.</p>
+      <p>The moves occurred even as US employment data released Friday showed job creation exceeded estimates for an 11th straight month in February, which prompted economists at Barclays Plc to forecast a half-point hike in March. The mixed data, which also showed wages rose less than expected, was overshadowed by the failure of SVB Financial Group, which buckled under the strain of declining deposits and losses on its securities portfolio.</p>
+      <p>The two-year Treasury yield fell nearly 30 basis points to 4.57% at one point and ended near its session low. The yield’s two-day slide of just under 50 basis points was the biggest since 2008. Investors also piled into German short-term debt, sending those rates into a similarly steep decline.</p>
+      <p>“It is incredible to see the whipsaw action in Treasury yields and it’s likely people want to own Treasuries into the weekend,” said Kevin Flanagan, head of fixed-income strategy at Wisdom Tree Investments.</p>
+      <p>Traders reasoned that the prospect of contagion in the banking system could curb the Fed’s willingness to keep raising rates despite still-elevated inflation. Swaps referencing the March meeting price in about 32 basis points of tightening, down some 13 basis points from earlier in the week. A rate cut by year end from the expected peak level had dwindled to less than a coin-toss in recent weeks.</p>
+      <p>“The reaction in the market reflects the broader worry about US banks and investors did expect a beat in the payrolls number,” said Andrzej Skiba, portfolio manager at Bluebay Asset Management.</p>
+	    <p>Markets are jittery about potential fallout from the parent of Silicon Valley Bank, which has suffered losses on a portfolio including US Treasuries. Investors are turning their attention to risks that may lurk in other financial institutions — and questioning the degree to which the Fed’s rate hikes have precipitated that pain.</p>
+	    <p>US payrolls in February rose by more than expected while a broad measure of monthly wage growth slowed, offering a mixed picture as the Fed contemplates whether to step up the pace of rate hikes. The unemployment rate ticked up to 3.6% as the labor force grew, and monthly wages rose at the slowest pace in a year. Nonfarm payrolls increased 311,000 after a 504,000 advance in January, revised down from 517,000.</p>	
+	    <p>Traders will look to whether next week’s release of US consumer inflation data warrants pricing in a quarter- or half-point hike this month.</p>	
+	    <p>“The market is clearly reading that the labor report is solid but not strong enough for the Fed to re-accelerate the hiking cycle,” said Roberto Cobo Garcia, BBVA’s head of G10 FX strategy. “It would probably take very significant surprises in the CPI data next week for the Fed to change course again.”</p>
+      <p>--With assistance from Giulia Morpurgo, John Viljoen, Sydney Maki, James Hirai, Tasos Vossos, Ksenia Galouchko and Julien Ponthus.</p>
+      <p>(Adds Barclays Fed forecast change in third paragraph, updates yield levels.)</p>
+    </div>
+  },
+  {
+    id: 132,
+    title: 'Two U.S. Banks Collapse in 48 Hours. Which Ones Next?',
+    category: 'Markets',
+    subCategory: ['Bank', 'US', 'Collapse'],
+    description: <div className="blog-desc">
+      <p>Silvergate served the cryptocurrency industry, while SVB was the bank for Silicon Valley tech startups.</p>
+    </div>,
+    authorName: 'Luc Olinga',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 10, 2023 - 1:34 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-136.jpg',
+    content: <div className="blog-content">
+  <p>Silvergate served the cryptocurrency industry, while SVB was the bank for Silicon Valley tech startups.</p>
+  <p>It's a black week for the American financial system: In just 48 hours, the banking sector has been shaken by the collapse of two major banks.</p>
+  <p>Most worrying is that these banks served two so-called growth economic sectors: the tech sector and the cryptocurrency industry.</p>
+  <p>SVB Financial Group,  (SIVB) - Get Free Report the lender to Silicon Valley startups, failed on March 10, falling into the hands of the FDIC. The federal agency has taken control of the banking company, reviving the ghosts of the 2008 financial crisis.</p>
+  <p>"Silicon Valley Bank, Santa Clara, California, was closed today by the California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corporation as receiver," the federal agency said in a news release.</p>
+  <p>"All insured depositors will have full access to their insured deposits no later than Monday morning, March 13, 2023. The FDIC will pay uninsured depositors an advance dividend within the next week. Uninsured depositors will receive a receivership certificate for the remaining amount of their uninsured funds."</p>
+  <p>It added that it may pay a dividend to uninsured depositors as it sells the assets of SVB</p>
+  <p>The FDIC is a guarantor for bank depositors.</p>
+  <p><strong>SVB: The To-Go Bank for Tech Startups</strong></p>
+  <p>At the end of last year SVB had $209 billion in total assets and $175 billion in total deposits. SVB becomes the second biggest failure of a U.S. bank after Washington Mutual in 2008.</p>
+  <p>SVB was a central player in the innovation economy. It was the backbone of the tech industry in Silicon Valley. It played an important role in the startup ecosystem by providing specialized financial services, industry expertise, a valuable network, and a strong reputation.</p>
+  <p>It also offered a range of financial services tailored specifically to the needs of startups, such as venture debt, corporate banking, and asset management. These services are designed to help startups manage their finances, optimize their cash flow, and scale their businesses.</p>
+  <p>SVB suffered from the rise in interest rates from the Federal Reserve because it hurt the value of its investment assets, especially bonds. As a result, the bank had to resort to a capital raise as many startups withdrew their deposits from the bank since they were burning a lot of cash.</p>
+  <p>SVB had to sell bonds, primarily U.S. Treasury securities, at a discount to cover these withdrawals. The rise in interest rates has made existing bonds less valuable. In selling these bond positions, SVB had to take a significant loss.</p>
+	<p>But its attempt to raise $2.25 billion failed.</p>
+	<p><strong>Crypto Bank Silvergate Collapsed</strong></p>	
+	<p>Two days earlier, Silvergate, the crypto bank, collapsed. The bank was where most of the big crypto firms went, because traditional banks did not want to do business with them. And that reluctance stemmed from warnings from regulators who consider the crypto industry a risky sector.</p>
+  <p>The company said on March 8 that it intended "to wind down operations and voluntarily liquidate the bank in an orderly manner and in accordance with applicable regulatory processes."</p>
+  <p>It added: "In light of recent industry and regulatory developments, Silvergate believes that an orderly wind down of bank operations and a voluntary liquidation of the bank is the best path forward."</p>	
+  <p>"The bank’s wind down and liquidation plan includes full repayment of all deposits. The Company is also considering how best to resolve claims and preserve the residual value of its assets, including its proprietary technology and tax assets."</p>
+  <p><strong>Verging on Bigger Fall Than 2008: Economist Schiff</strong></p>
+  <p>The rout of the La Jolla, Calif., bank was due to pressure from regulators, in particular the Department of Justice, which has opened an investigation into its business relations with the empire of the former crypto king Sam Bankman-Fried.</p>
+  <p>Bankman-Fried has been charged with 12 counts of fraud, stemming from the collapse of his crypto empire, the cryptocurrency exchange FTX and its sister company, Alameda Research.</p>
+  <p>Silvergate was established in 1988. The bank initially specialized in lending to industrial customers and at the time also offered loans for both residential and commercial real estate.</p>
+  <p>But in 2013, the bank began to court crypto firms, when traditional banks were reluctant to do so due to the opacity prevailing in the sector. Silvergate thus became the crypto bank. </p>
+  <p>In 2019, the firm made its initial public offering, promising a complete refocus on the industry, which was then experiencing a renaissance. As of Sept. 30, Silvergate had $11.9 billion in digital assets held as deposits. </p>
+  <p>But the bankruptcy of FTX and Alameda on Nov. 11 scared away customers. The bank thus reported only $3.8 billion in digital assets held as deposits as of Dec. 31. FTX was one of Silvergate's big customers.</p>
+  <p>The question now is whether other U.S. banks will fall? Could SVB and Silvergate's issues spread to other regional banks especially since suspicion can lead customers to rush to these banks to withdraw their money?</p>
+	<p>"The U.S. banking system is on the verge of a much bigger collapse than 2008," said economist Peter Schiff, known for his dire predictions. </p>
+  <p>"Banks own long-term paper at extremely low interest rates. They can't compete with short-term Treasuries. Mass withdrawals from depositors seeking higher yields will result in a wave of bank failures."</p>
+    </div>
+  },
+  {
+    id: 131,
+    title: 'Weekly Market Wrap: Bitcoin falls below US$20,000 as Silvergate collapse, rate hike concerns rise',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'silvergate', 'market'],
+    description: <div className="blog-desc">
+      <p>Bitcoin, the world’s largest cryptocurrency by market capitalization, fell 10.98% in the week from March 3 to March 10, to trade at US$19,941 at 9:00 p.m. on Friday in Hong Kong. Ether slid 10.88% in the same period to US$1,397.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 10, 2023 - 9:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-135.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin,the world’s largest cryptocurrency by market capitalization, fell 10.98% in the week from March 3 to March 10, to trade at US$19,941 at 9:00 p.m. on Friday in Hong Kong. Ether slid 10.88% in the same period to US$1,397.</p>
+	<p>The crypto market saw a turbulent week after New York State Attorney General Letitia James said Ether should be registered as a security in her lawsuit against cryptocurrency exchange Kucoin filed on Thursday, a day after crypto-friendly financial institution Silvergate Capital said it would cease operations and liquidate its banking unit.</p>
+	<p>Investors digested hawkish comments from Federal Reserve Chair Jerome Powell, who said that the U.S. central bank may continue to raise interest rates this year to combat inflation.</p>
+	<p>“Bitcoin is still highly dependent on the monetary policy of the U.S. Federal Reserve, and any words hinting an increase or decrease of the key rate can have an effect on its price,” wrote Roman Nekrasov, co-founder of blockchain software firm Encry, in a LinkedIn response to Forkast.</p>	
+	<p>“The depreciation of Bitcoin should not be unexpected since inflation in the U.S. and the rest of the world has not gone away. The growth of Bitcoin in January and February was expected to stop and turn into a correction. Therefore, Bitcoin was expected to move into a downtrend,” wrote Nekrasov.</p>	
+	<p>The Fed will announce its rate decision at the Federal Open Market Committee’s March 21-22 meeting.</p>
+  <p>Alexander Politayko, the founder of MarsDAO, a decentralized autonomous organization developing deflationary products, said that he believes Bitcoin’s main support level is US$18,000.</p>
+  <p>“If Bitcoin does not hold on to this level, then the market may witness another wave of panic sales, and Bitcoin could return to the levels of last fall at US$16,000,” wrote Politayko in a LinkedIn response to Forkast.</p>
+  <p>Meanwhile, data from investment platform MacroMicro suggests that more Bitcoin owners are deciding against selling their assets despite turbulent market conditions. The percentage of Bitcoin supply that has been dormant for at least a year rose to an all-time high of 67.84% last weekend.</p>
+  <p>“There is a growing number of investors who view Bitcoin not just as a speculative asset, but also as a store of value or tool for savings. This is significant because it indicates a shift in the perception of Bitcoin from a purely speculative asset to one that has a practical use case,” wrote Politayko.</p>
+  <p>“As more people begin to use Bitcoin for its utilitarian value, the demand for the asset as a means to store value is likely to increase. This, in turn, can affect the price of Bitcoin in a positive way,” he added.</p>
+  <p>The global crypto market capitalization stood at US$923 billion on Friday at 9:00 p.m. in Hong Kong, falling 10.3% from US$1.03 trillion a week ago, according to CoinMarketCap data. Bitcoin’s US$385 billion market cap dominated 41.6% of the market, while Ether’s US$170 billion accounted for 18.5%.</p>
+  <p><strong>Kava tops winners</strong></p>
+  <p>Kava, the governance token of a layer-1 blockchain of the same name, was this week’s biggest gainer among the top 100 coins by market capitalization listed on CoinMarketCap. Kava rose 7.18% to US$0.86, and surpassed Solana in the total value of assets locked in the network this week, according to DeFiLlama data.</p>
+  <p>STX, the native token of Bitcoin smart contract layer Stacks, was the week’s worst performer among CoinMarketCap’s top 100, as it fell 33.54% to US$0.54. MINA, the token of privacy-focused blockchain Mina Protocol, followed closely as it fell 30.89% to US$0.61.</p>
+  <p><strong>Next week?</strong></p>
+  <p>Investors will be anticipating the release of the U.S. Consumer Price Index data, a key indicator for inflation.</p>
+  <p>In addition, the European Union will likely announce a 50 basis point rate hike next week, as predicted by 60 economists polled by Reuters. European Central Bank President Christine Lagarde said the rate hike is “very, very likely.” The central bank’s interest rate is expected to rise to 3.00% as a result.</p>
+  <p>The banking industry is bracing for ongoing challenges as the drop of Silicon Valley Bank’s shares, plunging over 60% on Thursday, prompted a domino effect, causing the market value of the four biggest U.S. banks to plummet by more than US$50 billion, raising widespread anxieties in equity markets.</p>
+  </div>
+  },
+  {
+    id: 130,
+    title: 'Coinbase Pauses Conversions Between USDC and U.S. Dollars as Banking Crisis Roils Crypto',
+    category: 'Crypto',
+    subCategory: ['USDC', 'US', 'Coinbase'],
+    description: <div className="blog-desc">
+      <p>Coinbase (COIN) hit the brakes on conversions between USDC stablecoin and US dollars late Friday as fallout from Silicon Valley Bank's (SIVB) collapse spread into the heart of crypto trading.</p>
+    </div>,
+    authorName: 'Danny Nelson',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 8:14 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-132.jpg',
+    content: <div className="blog-content">
+      <p>Coinbase (COIN) hit the brakes on conversions between USDC stablecoin and US dollars late Friday as fallout from Silicon Valley Bank's (SIVB) collapse spread into the heart of crypto trading.</p>
+      <p>In a tweet, the crypto exchange said it was "temporarily pausing" the conversions while banks are closed over the weekend. The exchange said it planned to restart conversions on Monday.</p>
+    	<p>The pause speaks to the chaos that's roiled the crypto industry's second-largest stablecoin in the wake of Silicon Valley Bank's demise on Friday. Speculating on the stability of USDC, traders redeemed $1.6 billion of USDC, lowering its total supply.</p>
+	    <p>Late in the day, Circle confirmed that $3.3B of the $40B backing its stablecoin was on deposit at the now-shuttered lender. The fate of that cash is now uncertain, with Silicon Valley Bank having been seized by the FDIC, and USDC – for the moment – has lost its dollar peg.</p>	
+	    <p>"Circle is currently protecting USDC from a black swan failure in the U.S. banking system," tweeted Circle Chief Strategy Officer Dante Disparte late Friday night. "Silicon Valley Bank is a critical bank in the U.S. economy and its failure – without a Federal rescue plan – will have broader implications for business, banking and entrepreneurs."</p>	
+	    <p>"During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours," Coinbase said in its tweet announcing the conversion pause. "When banks open on Monday, we plan to re-commence conversions."</p>
+    </div>
+  },
+  {
+    id: 129,
+    title: 'Circle assures market after stablecoin USDC breaks dollar peg',
+    category: 'Crypto',
+    subCategory: ['Market', 'USDC', 'Stablecoin'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Stablecoin USD Coin (USDC) lost its dollar peg and slumped to an all-time low on Saturday before recovering most of its losses after Circle, the firm behind it, assured investors it would honor the peg despite exposure to failed Silicon Valley Bank.</p>
+    </div>,
+    authorName: 'Elizabeth Howcroft and RISHABH JAISWAL',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 11:25 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-131.jpg',
+    content: <div className="blog-content">
+      <p>By Elizabeth Howcroft and RISHABH JAISWAL</p>
+      <p>LONDON (Reuters) -Stablecoin USD Coin (USDC) lost its dollar peg and slumped to an all-time low on Saturday before recovering most of its losses after Circle, the firm behind it, assured investors it would honor the peg despite exposure to failed Silicon Valley Bank.</p>
+	    <p>Circle said in a tweet on Friday it has $3.3 billion of its $40 billion of USDC reserves at Silicon Valley Bank. On Saturday, the cryptocurrency company said in a blog post that USDC liquidity operations will resume as normal when banks open on Monday morning in the United States.</p>
+	    <p>"As a regulated payment token, USDC will remain redeemable 1 for 1 with the U.S. Dollar", the company said in a blog post.</p>	
+	    <p>The cryptocurrency firm said that in the event the bank does not return 100% of deposits, it will cover any shortfall using corporate resources, involving external capital if necessary.</p>	
+	    <p>The coin, which broke its 1:1 dollar peg and fell as low as $0.88 shortly after 0800 GMT (3 a.m. EST) on Saturday, according to market tracker CoinGecko, recovered to trade around $0.97 by 2100 GMT.</p>
+      <p>Silicon Valley Bank collapsed on Friday in the largest U.S. bank failure since the 2008 financial crisis, roiling global markets and stranding billions of dollars belonging to companies and investors.</p>
+      <p>Circle said in a tweet on Friday that the company and USDC "continue to operate normally" while the firm waits for clarity on what will happen to Silicon Valley Bank depositors.</p>
+      <p>Meanwhile, U.S. crypto exchange Coinbase said in a tweet it was not allowing USDC to be exchanged for U.S. dollars over the weekend while banks are closed, citing "heightened activity", while it plans to resume swaps on Monday.</p>
+      <p>Joseph Edwards, investment advisor at Enigma Securities, said the situation was "extremely serious" for USDC.</p>
+      <p>"No matter how sound Circle's operations are, this sort of depeg on a stablecoin tends to fundamentally undermine confidence in it," Edwards said.</p>
+      <p>"The short-term implications here are dramatic and unknowable, especially once systems start to have to be adjusted to the reality that 1 USDC isn't trading at 1 USD for the time being."</p>
+      <p>CONSTANT EXCHANGE RATE</p>
+      <p>Stablecoins are cryptocurrencies designed to maintain a constant exchange rate with "fiat" currencies - those backed by a central government rather than a physical commodity such as gold - for example through a 1:1 U.S. dollar peg.</p>
+      <p>Used in cryptocurrency trading, they have surged in value in recent years. USDC is the second-biggest stablecoin with a market cap of $37 billion. The largest, Tether, has a market cap of $72 billion, according to CoinGecko.</p>
+      <p>USDC's price usually holds close to $1, making Saturday's drop unprecedented. According to CoinGecko data, its previous all-time low was around $0.97 in 2018, though in 2022 it fell just below $0.99 when cryptocurrency markets were roiled by the collapse of crypto hedge fund Three Arrows Capital.</p>
+      <p>Traders have been on guard this week for signs of contagion in the financial sector and beyond from troubles for Silicon Valley Bank and crypto-focused Silvergate, which this week disclosed plans to wind down operations and voluntarily liquidate.</p>
+      <p>Boston-based Circle said last week it had moved a "small percentage" of USDC reserve deposits held at Silvergate to its other banking partners.</p>
+      <p>The chief executive of cryptocurrency exchange Binance said in a tweet on Friday it had no exposure to Silicon Valley Bank, as did Tether Chief Technology Officer Paolo Ardoino.</p>
+      <p>Stablecoin issuer Paxos and crypto exchange Gemini also tweeted that they do not have relationships with the bank.</p>
+      <p>(Reporting by Elizabeth Howcroft in London and Rishabh Jaiswal in Bengaluru; Editing by William Mallard, David Holmes and Paul Simao)</p>
+    </div>
+  },
+  {
+    id: 128,
+    title: 'Stablecoin Issuer Circle Reveals $3.3 Billion SVB Exposure',
+    category: 'Crypto',
+    subCategory: ['SVB', 'stablecoin',],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The second-largest stablecoin in crypto fell from its intended $1 peg on Saturday, trading as low as 81.5 cents, hurt by the exposure of issuer Circle Internet Financial Ltd. to the collapsed Silicon Valley Bank.</p>
+    </div>,
+    authorName: 'Suvashree Ghosh and Yueqi Yang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 1:08 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-130.jpg',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- The second-largest stablecoin in crypto fell from its intended $1 peg on Saturday, trading as low as 81.5 cents, hurt by the exposure of issuer Circle Internet Financial Ltd. to the collapsed Silicon Valley Bank.</p>
+	<p>USD Coin, or USDC, is a key plank of crypto markets and is supposed to hold a constant $1 value, fully backed by reserves of cash and short-dated Treasuries. But $3.3 billion of that roughly $40 billion stockpile is with Silicon Valley Bank, which has just become one of the largest US bank failures in recent history.</p>
+	<p>Regulators seized the bank on Friday and investors are awaiting more clarity on the return of deposits. In that vacuum, USDC fell below $1, trading at about 92 cents as of 9:02 a.m. in London on Saturday. Smaller stablecoins such as DAI and Pax Dollar also fell from their pegs, a sign of wider nervousness.</p>	
+	<p>The worries haven’t so far spread to top stablecoin Tether, which held at $1. Tether has previously faced scrutiny over its reserves. Wider crypto markets are having a painful week and were on the back foot Saturday: Bitcoin oscillated between gains and losses, while smaller tokens like Solana and Avalanche were in the red.</p>	
+	<p>Circle’s Chief Strategy Officer Dante Disparte described the fall of Silicon Valley Bank as a “black swan failure” in the US financial system, saying in a tweet that without a federal rescue plan there would be “broader implications for business, banking and entrepreneurs.”</p>
+  <p>USDC has a circulating supply of about 41 billion tokens and a market value of roughly $37 billion, CoinGecko data shows. A net $2 billion of USDC was redeemed in the past 24 hours, according to blockchain research firm Nansen. Data compiled by Bloomberg indicated USDC traded as low as 81.5 cents.</p>
+  <p>Coinbase’s Step</p>
+  <p>Stablecoins like USDC are intended to hold a set value against another, highly liquid asset like the US dollar. They come in a variety of forms and some, like Circle’s, are underpinned by reserves of cash and bonds. Investors often park funds in stablecoins as they move between crypto trades.</p>
+  <p>As the selloff in USDC worsened, US-based crypto exchange Coinbase Global Inc. said it would be “temporarily pausing” the conversion of USDC into US dollars during the weekend, and would resume on Monday when banks open.</p>
+  <p>The fall in USDC has had a knock-on effect on decentralized finance applications which let users trade, borrow and lend coins and which tend to rely heavily on trading pairs involving the stablecoin.</p>
+  <p>“Unless there’s a concrete bailout plan this weekend, I think markets will be ugly again next week,” said Teong Hng, chief executive officer at crypto investment firm Satori Research, about the failure of SVB.</p>
+  <p>Crypto’s Woes</p>
+  <p>The crypto sector was already reeling from a prolonged rout that’s knocked $2 trillion off the value of digital assets since November 2021, precipitating a series of implosions such as the TerraUSD stablecoin, the Three Arrows Capital hedge fund and the FTX exchange.</p>
+  <p>The TerraUSD token — known as UST — tried to use a mix of algorithms and trader incentives involving a sister token, Luna, to hold its value. The $60 billion wipeout of that system intensified global regulatory scrutiny of stablecoins.</p>
+  <p>“I think the market ‘panic priced’ USDC like it priced USDT around the Luna collapse,” said Haohan Xu, chief executive officer of Apifiny, an institutional trading platform. “It’s driven by Circle’s exposure at SVB plus Coinbase closing off its USDC convert function.”</p>
+  <p>Trying to Reassure</p>
+  <p>Crypto firms including Binance and Tether on Friday used Twitter to try to reassure their customers about any risks posed by the failed bank.</p>
+  <p>Changpeng Zhao, chief executive officer at Binance, the largest digital-asset exchange, tweeted that the firm doesn’t have exposure and its funds are safe.</p>
+  <p>Paxos Trust Co., issuer of Pax Dollar, and crypto exchange Gemini said they have no relationship with the bank, according to statements on their official Twitter accounts. Tether’s Chief Technology Officer Paolo Ardoino said in a tweet that the largest stablecoin doesn’t have exposure to SVB.</p>
+  <p>By contrast, bankrupt crypto lender BlockFi has about $227 million in an account at the failed bank, according to a court filing.</p>
+  <p>--With assistance from David Pan.</p>
+  <p>(Updates market prices in the fourth paragraph. An earlier version of this story corrected the TerraUSD acronym in the 12th paragraph to UST.)</p>
+    </div>
+  },
+  {
     id: 127,
     title: 'GBP to USD Weekly Forecast – British Pound Gives Up Much of the Gains for the Week',
     category: 'Currencies',
