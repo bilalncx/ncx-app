@@ -1,24 +1,170 @@
 const blogListdata = [
   {
-    id: 137,
-    title: 'EUR/USD Weekly Forecast – Euro Continues to Fight Near 50-Week EMA',
-    category: 'Forex',
-    subCategory: ['EUR', 'USD',],
+    id: 128,
+    title: 'Stablecoin Issuer Circle Reveals $3.3 Billion SVB Exposure',
+    category: 'Crypto',
+    subCategory: ['SVB', 'stablecoin',],
     description: <div className="blog-desc">
-      <p>Euro vs US Dollar Weekly Technical Analysis</p>
+      <p>(Bloomberg) -- The second-largest stablecoin in crypto fell from its intended $1 peg on Saturday, trading as low as 81.5 cents, hurt by the exposure of issuer Circle Internet Financial Ltd. to the collapsed Silicon Valley Bank.</p>
     </div>,
-    authorName: 'Christopher Lewis',
+    authorName: 'Suvashree Ghosh and Yueqi Yang',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 10, 2023 - 10:12 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-141.jpg',
+    createdAt: 'Mar 11, 2023 - 1:08 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-130.jpg',
     content: <div className="blog-content">
-      <p>Euro vs US Dollar Weekly Technical Analysis</p>
-      <p>The Euro has initially fallen during the week, only to turn around to show signs of life again. The 50-Week EMA seems to be attracting a lot of attention, so therefore it’s not a huge surprise to see that we have turned around. Furthermore, we also had the non-Farm Payroll announcement come out on Friday that had people hoping that perhaps the shrinking wage inflation might have the Federal Reserve rethinking its rate of change. That of course is absolute nonsense, but in the short term it seems to be that’s the narrative that Wall Street is playing.</p>
-	    <p>If we can break higher, there should be a significant amount of resistance near the 1.07 level, and then again at the 1.08 level. On the downside, if we were to break down below the bottom of the candlesticks for the past couple of weeks, then I think you have a situation where you could easily see this market drop down to the 1.03 level, followed by parity. Keep in mind that parity is going to attract a lot of headlines, and therefore people will be very interested in that region. I think we will have a major fight if we do get down to that area, and whether or not we can break down below there is a completely open question at this point.</p>
-	    <p>At this juncture, I think the only thing you can probably count on is going to be more volatility, which is something that quite frankly I think a lot of traders are sick of. However, until we get some type of certainty when it comes to trading conditions and the economic outlook, this is a beast that we have to deal with.</p>	
-	    <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+      <p>(Bloomberg) -- The second-largest stablecoin in crypto fell from its intended $1 peg on Saturday, trading as low as 81.5 cents, hurt by the exposure of issuer Circle Internet Financial Ltd. to the collapsed Silicon Valley Bank.</p>
+      <p>USD Coin, or USDC, is a key plank of crypto markets and is supposed to hold a constant $1 value, fully backed by reserves of cash and short-dated Treasuries. But $3.3 billion of that roughly $40 billion stockpile is with Silicon Valley Bank, which has just become one of the largest US bank failures in recent history.</p>
+      <p>Regulators seized the bank on Friday and investors are awaiting more clarity on the return of deposits. In that vacuum, USDC fell below $1, trading at about 92 cents as of 9:02 a.m. in London on Saturday. Smaller stablecoins such as DAI and Pax Dollar also fell from their pegs, a sign of wider nervousness.</p>  
+      <p>The worries haven’t so far spread to top stablecoin Tether, which held at $1. Tether has previously faced scrutiny over its reserves. Wider crypto markets are having a painful week and were on the back foot Saturday: Bitcoin oscillated between gains and losses, while smaller tokens like Solana and Avalanche were in the red.</p>  
+      <p>Circle’s Chief Strategy Officer Dante Disparte described the fall of Silicon Valley Bank as a “black swan failure” in the US financial system, saying in a tweet that without a federal rescue plan there would be “broader implications for business, banking and entrepreneurs.”</p>
+      <p>USDC has a circulating supply of about 41 billion tokens and a market value of roughly $37 billion, CoinGecko data shows. A net $2 billion of USDC was redeemed in the past 24 hours, according to blockchain research firm Nansen. Data compiled by Bloomberg indicated USDC traded as low as 81.5 cents.</p>
+      <p>Coinbase’s Step</p>
+      <p>Stablecoins like USDC are intended to hold a set value against another, highly liquid asset like the US dollar. They come in a variety of forms and some, like Circle’s, are underpinned by reserves of cash and bonds. Investors often park funds in stablecoins as they move between crypto trades.</p>
+      <p>As the selloff in USDC worsened, US-based crypto exchange Coinbase Global Inc. said it would be “temporarily pausing” the conversion of USDC into US dollars during the weekend, and would resume on Monday when banks open.</p>
+      <p>The fall in USDC has had a knock-on effect on decentralized finance applications which let users trade, borrow and lend coins and which tend to rely heavily on trading pairs involving the stablecoin.</p>
+      <p>“Unless there’s a concrete bailout plan this weekend, I think markets will be ugly again next week,” said Teong Hng, chief executive officer at crypto investment firm Satori Research, about the failure of SVB.</p>
+      <p>Crypto’s Woes</p>
+      <p>The crypto sector was already reeling from a prolonged rout that’s knocked $2 trillion off the value of digital assets since November 2021, precipitating a series of implosions such as the TerraUSD stablecoin, the Three Arrows Capital hedge fund and the FTX exchange.</p>
+      <p>The TerraUSD token — known as UST — tried to use a mix of algorithms and trader incentives involving a sister token, Luna, to hold its value. The $60 billion wipeout of that system intensified global regulatory scrutiny of stablecoins.</p>
+      <p>“I think the market ‘panic priced’ USDC like it priced USDT around the Luna collapse,” said Haohan Xu, chief executive officer of Apifiny, an institutional trading platform. “It’s driven by Circle’s exposure at SVB plus Coinbase closing off its USDC convert function.”</p>
+      <p>Trying to Reassure</p>
+      <p>Crypto firms including Binance and Tether on Friday used Twitter to try to reassure their customers about any risks posed by the failed bank.</p>
+      <p>Changpeng Zhao, chief executive officer at Binance, the largest digital-asset exchange, tweeted that the firm doesn’t have exposure and its funds are safe.</p>
+      <p>Paxos Trust Co., issuer of Pax Dollar, and crypto exchange Gemini said they have no relationship with the bank, according to statements on their official Twitter accounts. Tether’s Chief Technology Officer Paolo Ardoino said in a tweet that the largest stablecoin doesn’t have exposure to SVB.</p>
+      <p>By contrast, bankrupt crypto lender BlockFi has about $227 million in an account at the failed bank, according to a court filing.</p>
+      <p>--With assistance from David Pan.</p>
+      <p>(Updates market prices in the fourth paragraph. An earlier version of this story corrected the TerraUSD acronym in the 12th paragraph to UST.)</p>
+    </div>
+  },
+  {
+    id: 129,
+    title: 'Circle assures market after stablecoin USDC breaks dollar peg',
+    category: 'Crypto',
+    subCategory: ['Market', 'USDC', 'Stablecoin'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Stablecoin USD Coin (USDC) lost its dollar peg and slumped to an all-time low on Saturday before recovering most of its losses after Circle, the firm behind it, assured investors it would honor the peg despite exposure to failed Silicon Valley Bank.</p>
+    </div>,
+    authorName: 'Elizabeth Howcroft and RISHABH JAISWAL',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 11:25 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-131.jpg',
+    content: <div className="blog-content">
+      <p>By Elizabeth Howcroft and RISHABH JAISWAL</p>
+      <p>LONDON (Reuters) -Stablecoin USD Coin (USDC) lost its dollar peg and slumped to an all-time low on Saturday before recovering most of its losses after Circle, the firm behind it, assured investors it would honor the peg despite exposure to failed Silicon Valley Bank.</p>
+      <p>Circle said in a tweet on Friday it has $3.3 billion of its $40 billion of USDC reserves at Silicon Valley Bank. On Saturday, the cryptocurrency company said in a blog post that USDC liquidity operations will resume as normal when banks open on Monday morning in the United States.</p>
+      <p>"As a regulated payment token, USDC will remain redeemable 1 for 1 with the U.S. Dollar", the company said in a blog post.</p> 
+      <p>The cryptocurrency firm said that in the event the bank does not return 100% of deposits, it will cover any shortfall using corporate resources, involving external capital if necessary.</p>  
+      <p>The coin, which broke its 1:1 dollar peg and fell as low as $0.88 shortly after 0800 GMT (3 a.m. EST) on Saturday, according to market tracker CoinGecko, recovered to trade around $0.97 by 2100 GMT.</p>
+      <p>Silicon Valley Bank collapsed on Friday in the largest U.S. bank failure since the 2008 financial crisis, roiling global markets and stranding billions of dollars belonging to companies and investors.</p>
+      <p>Circle said in a tweet on Friday that the company and USDC "continue to operate normally" while the firm waits for clarity on what will happen to Silicon Valley Bank depositors.</p>
+      <p>Meanwhile, U.S. crypto exchange Coinbase said in a tweet it was not allowing USDC to be exchanged for U.S. dollars over the weekend while banks are closed, citing "heightened activity", while it plans to resume swaps on Monday.</p>
+      <p>Joseph Edwards, investment advisor at Enigma Securities, said the situation was "extremely serious" for USDC.</p>
+      <p>"No matter how sound Circle's operations are, this sort of depeg on a stablecoin tends to fundamentally undermine confidence in it," Edwards said.</p>
+      <p>"The short-term implications here are dramatic and unknowable, especially once systems start to have to be adjusted to the reality that 1 USDC isn't trading at 1 USD for the time being."</p>
+      <p>CONSTANT EXCHANGE RATE</p>
+      <p>Stablecoins are cryptocurrencies designed to maintain a constant exchange rate with "fiat" currencies - those backed by a central government rather than a physical commodity such as gold - for example through a 1:1 U.S. dollar peg.</p>
+      <p>Used in cryptocurrency trading, they have surged in value in recent years. USDC is the second-biggest stablecoin with a market cap of $37 billion. The largest, Tether, has a market cap of $72 billion, according to CoinGecko.</p>
+      <p>USDC's price usually holds close to $1, making Saturday's drop unprecedented. According to CoinGecko data, its previous all-time low was around $0.97 in 2018, though in 2022 it fell just below $0.99 when cryptocurrency markets were roiled by the collapse of crypto hedge fund Three Arrows Capital.</p>
+      <p>Traders have been on guard this week for signs of contagion in the financial sector and beyond from troubles for Silicon Valley Bank and crypto-focused Silvergate, which this week disclosed plans to wind down operations and voluntarily liquidate.</p>
+      <p>Boston-based Circle said last week it had moved a "small percentage" of USDC reserve deposits held at Silvergate to its other banking partners.</p>
+      <p>The chief executive of cryptocurrency exchange Binance said in a tweet on Friday it had no exposure to Silicon Valley Bank, as did Tether Chief Technology Officer Paolo Ardoino.</p>
+      <p>Stablecoin issuer Paxos and crypto exchange Gemini also tweeted that they do not have relationships with the bank.</p>
+      <p>(Reporting by Elizabeth Howcroft in London and Rishabh Jaiswal in Bengaluru; Editing by William Mallard, David Holmes and Paul Simao)</p>
+    </div>
+  },
+  {
+    id: 130,
+    title: 'Coinbase Pauses Conversions Between USDC and U.S. Dollars as Banking Crisis Roils Crypto',
+    category: 'Crypto',
+    subCategory: ['USDC', 'US', 'Coinbase'],
+    description: <div className="blog-desc">
+      <p>Coinbase (COIN) hit the brakes on conversions between USDC stablecoin and US dollars late Friday as fallout from Silicon Valley Bank's (SIVB) collapse spread into the heart of crypto trading.</p>
+    </div>,
+    authorName: 'Danny Nelson',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 8:14 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-132.jpg',
+    content: <div className="blog-content">
+      <p>Coinbase (COIN) hit the brakes on conversions between USDC stablecoin and US dollars late Friday as fallout from Silicon Valley Bank's (SIVB) collapse spread into the heart of crypto trading.</p>
+      <p>In a tweet, the crypto exchange said it was "temporarily pausing" the conversions while banks are closed over the weekend. The exchange said it planned to restart conversions on Monday.</p>
+      <p>The pause speaks to the chaos that's roiled the crypto industry's second-largest stablecoin in the wake of Silicon Valley Bank's demise on Friday. Speculating on the stability of USDC, traders redeemed $1.6 billion of USDC, lowering its total supply.</p>
+      <p>Late in the day, Circle confirmed that $3.3B of the $40B backing its stablecoin was on deposit at the now-shuttered lender. The fate of that cash is now uncertain, with Silicon Valley Bank having been seized by the FDIC, and USDC – for the moment – has lost its dollar peg.</p>  
+      <p>"Circle is currently protecting USDC from a black swan failure in the U.S. banking system," tweeted Circle Chief Strategy Officer Dante Disparte late Friday night. "Silicon Valley Bank is a critical bank in the U.S. economy and its failure – without a Federal rescue plan – will have broader implications for business, banking and entrepreneurs."</p> 
+      <p>"During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours," Coinbase said in its tweet announcing the conversion pause. "When banks open on Monday, we plan to re-commence conversions."</p>
+    </div>
+  },
+  {
+    id: 135,
+    title: 'Dow tumbles 345 points as the biggest bank failure since 2008 rattles nerves',
+    category: 'Markets',
+    subCategory: ['Bank', 'Failure',],
+    description: <div className="blog-desc">
+      <p>US stocks sank Friday, with a losing week capped by the largest bank failure since the global financial crisis and the prospect of higher interest rates.</p>
+    </div>,
+    authorName: 'Carla Mozée',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 1:07 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-139.jpg',
+    content: <div className="blog-content">
+      <ul><li>Stocks dropped sharply Friday after regulators closed Silicon Valley Bank.</li></ul>
+      <ul><li>The bank failure is the biggest since the 2008 financial crisis and has sparked contagion fears.</li></ul>
+      <ul><li>The S&P 500 is close to losing its 2023 gains.</li></ul>
+      <p>US stocks sank Friday, with a losing week capped by the largest bank failure since the global financial crisis and the prospect of higher interest rates.</p>
+      <p>The S&P 500 was on the verge of losing its 2023 gain as it finished closer to 3,839.50, where it ended after last year's 19% plunge. The index's financial sector was the worst performing on Friday as regulators shut down Silicon Valley Bank to prevent a run on the tech-startups lender. The bank collapsed after this week saying higher interest rates spurred billions in losses on a $21 billion bond portfolio.</p> 
+      <p>"Silicon Valley Bank was heavily reliant on the tech industry, catering mainly to startups and the investors that fund them. However, the insular ecosystem of startups and investors that it served took a hit when the Fed began raising rates to curb inflation," Thomas Smale, CEO of FEI International, wrote Friday.</p> 
+      <p><strong>Here's where US indexes stood at the 4:00 p.m. closing bell on Friday: </strong></p>
+      <ul><li>S&P 500: 3,861.72, down 1.44%</li></ul>
+      <ul><li>Dow Jones Industrial Average: 31,909.83, down 1.07% (345.03 points)</li></ul>
+      <ul><li>Nasdaq Composite: 11,138.89, down 1.76%</li></ul>
+      <p>Stocks had moved higher ahead of the opening bell after investors found some relief in the February jobs report.</p>
+      <p>The Labor Department said the US economy added 311,000 jobs last month, much higher than expectations of 205,000 in a Bloomberg survey of economists. But wage growth slowed to 0.2% from January's 0.5% pace, curbing expectations the Federal Reserve will upsize its March interest rate hike to 50 basis points.</p>
+      <p><strong>Here's what else is happening today:</strong></p>
+      <ul><li>Silicon Valley Bank crisis: What you need to know about SVB Financial as its shares plunge.</li></ul>
+      <ul><li>"It is possible today we found our Enron," Michael Burry said about the Silicon Valley Bank implosion.</li></ul>
+      <ul><li>Emerging markets investing pioneer Mark Mobius says most of his investments are in Taiwan after saying he can't get his money out of China.</li></ul>
+      <p><storng>In commodities, bonds, and crypto:</storng></p>
+      <ul><li>West Texas Intermediate crude rose 1% to $76.46 per barrel. Brent crude, the international benchmark, rose 1.1% to $82.52.</li></ul>
+      <ul><li>Gold gained 1.8% to $1,869.30 per ounce.</li></ul>
+      <ul><li>The 10-year Treasury yield tumbled 22 basis points to 3.69%.</li></ul>
+      <ul><li>Bitcoin fell 1.8% to $20,007. It fell below $20,000 earlier Friday for the first time in two months.</li></ul>
+  </div>
+  },
+  {
+    id: 133,
+    title: 'Bond Yields Plunge Most Since 2008 as Traders Rethink Fed Path',
+    category: 'Markets',
+    subCategory: ['Traders', 'Yields', 'Bond'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Government-bond yields fell the most since since 2008 after a US bank failure spurred traders to reassess the outlook for additional Federal Reserve rate hikes.</p>
+    </div>,
+    authorName: 'Alice Gledhill, Jan-Patrick Barnert and Michael MacKenzie',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 1:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-137.jpg',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- Government-bond yields fell the most since since 2008 after a US bank failure spurred traders to reassess the outlook for additional Federal Reserve rate hikes.</p>
+      <p>Shorter-dated Treasury yields plummeted for a second day as traders reverted to pricing in a quarter-point rate hike at the Fed’s March 21-22 meeting, instead of a half-point move. The market also resumed pricing in a quarter-point cut by the end of the year.</p>
+      <p>The moves occurred even as US employment data released Friday showed job creation exceeded estimates for an 11th straight month in February, which prompted economists at Barclays Plc to forecast a half-point hike in March. The mixed data, which also showed wages rose less than expected, was overshadowed by the failure of SVB Financial Group, which buckled under the strain of declining deposits and losses on its securities portfolio.</p>
+      <p>The two-year Treasury yield fell nearly 30 basis points to 4.57% at one point and ended near its session low. The yield’s two-day slide of just under 50 basis points was the biggest since 2008. Investors also piled into German short-term debt, sending those rates into a similarly steep decline.</p>
+      <p>“It is incredible to see the whipsaw action in Treasury yields and it’s likely people want to own Treasuries into the weekend,” said Kevin Flanagan, head of fixed-income strategy at Wisdom Tree Investments.</p>
+      <p>Traders reasoned that the prospect of contagion in the banking system could curb the Fed’s willingness to keep raising rates despite still-elevated inflation. Swaps referencing the March meeting price in about 32 basis points of tightening, down some 13 basis points from earlier in the week. A rate cut by year end from the expected peak level had dwindled to less than a coin-toss in recent weeks.</p>
+      <p>“The reaction in the market reflects the broader worry about US banks and investors did expect a beat in the payrolls number,” said Andrzej Skiba, portfolio manager at Bluebay Asset Management.</p>
+      <p>Markets are jittery about potential fallout from the parent of Silicon Valley Bank, which has suffered losses on a portfolio including US Treasuries. Investors are turning their attention to risks that may lurk in other financial institutions — and questioning the degree to which the Fed’s rate hikes have precipitated that pain.</p>
+      <p>US payrolls in February rose by more than expected while a broad measure of monthly wage growth slowed, offering a mixed picture as the Fed contemplates whether to step up the pace of rate hikes. The unemployment rate ticked up to 3.6% as the labor force grew, and monthly wages rose at the slowest pace in a year. Nonfarm payrolls increased 311,000 after a 504,000 advance in January, revised down from 517,000.</p> 
+      <p>Traders will look to whether next week’s release of US consumer inflation data warrants pricing in a quarter- or half-point hike this month.</p> 
+      <p>“The market is clearly reading that the labor report is solid but not strong enough for the Fed to re-accelerate the hiking cycle,” said Roberto Cobo Garcia, BBVA’s head of G10 FX strategy. “It would probably take very significant surprises in the CPI data next week for the Fed to change course again.”</p>
+      <p>--With assistance from Giulia Morpurgo, John Viljoen, Sydney Maki, James Hirai, Tasos Vossos, Ksenia Galouchko and Julien Ponthus.</p>
+      <p>(Adds Barclays Fed forecast change in third paragraph, updates yield levels.)</p>
     </div>
   },
   {
@@ -38,47 +184,67 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>British Pound vs US Dollar Weekly Technical Analysis</p>
       <p>The British pound initially plunged during the week to show signs of weakness, reaching down to the 1.1850 level again. This is an area that previously had been support, so the fact that we held there is a good sign. However, it’s also worth noting that we have seen a lot of choppy and noisy behavior as of late, and most of this reaction was due to the Non-Farm Payroll announcement on Friday, perhaps showing a little bit of hesitation in wage pressure. With that in mind, I’m a little less likely to get bullish of the British pound that I would be under normal circumstances, especially as the preceding candlesticks were all inverted hammers.</p>
-	    <p>I do believe eventually the British pound falls apart, and goes looking to lower pricing against the US dollar, but right now we might be settling on some type of short-term consolidation. If that’s going to be the case, keep in mind that markets can be extraordinarily choppy at times and you need to be cautious with your position size as a result.</p>
-	    <p>If we were to break down below the bottom of the weekly candlestick, then I think it opens up a move down to the 1.15 level, something that I do expect to happen sooner or later. With that, I would be increasingly aggressive to the downside. If we do rally from here, I think there’s a lot of noise near the 1.21 level and the 1.2250 level where the 50-Week EMA currently resides. Either way, volatility is going to be a major issue.</p>	
-	    <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+      <p>I do believe eventually the British pound falls apart, and goes looking to lower pricing against the US dollar, but right now we might be settling on some type of short-term consolidation. If that’s going to be the case, keep in mind that markets can be extraordinarily choppy at times and you need to be cautious with your position size as a result.</p>
+      <p>If we were to break down below the bottom of the weekly candlestick, then I think it opens up a move down to the 1.15 level, something that I do expect to happen sooner or later. With that, I would be increasingly aggressive to the downside. If we do rally from here, I think there’s a lot of noise near the 1.21 level and the 1.2250 level where the 50-Week EMA currently resides. Either way, volatility is going to be a major issue.</p>  
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
     </div>
   },
   {
-    id: 135,
-    title: 'Dow tumbles 345 points as the biggest bank failure since 2008 rattles nerves',
-    category: 'Markets',
-    subCategory: ['Bank', 'Failure',],
+    id: 137,
+    title: 'EUR/USD Weekly Forecast – Euro Continues to Fight Near 50-Week EMA',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD',],
     description: <div className="blog-desc">
-      <p>US stocks sank Friday, with a losing week capped by the largest bank failure since the global financial crisis and the prospect of higher interest rates.</p>
+      <p>Euro vs US Dollar Weekly Technical Analysis</p>
     </div>,
-    authorName: 'Carla Mozée',
+    authorName: 'Christopher Lewis',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 11, 2023 - 1:07 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-139.jpg',
+    createdAt: 'Mar 10, 2023 - 10:12 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-141.jpg',
     content: <div className="blog-content">
-  <ul><li>Stocks dropped sharply Friday after regulators closed Silicon Valley Bank.</li></ul>
-  <ul><li>The bank failure is the biggest since the 2008 financial crisis and has sparked contagion fears.</li></ul>
-  <ul><li>The S&P 500 is close to losing its 2023 gains.</li></ul>
-	<p>US stocks sank Friday, with a losing week capped by the largest bank failure since the global financial crisis and the prospect of higher interest rates.</p>
-	<p>The S&P 500 was on the verge of losing its 2023 gain as it finished closer to 3,839.50, where it ended after last year's 19% plunge. The index's financial sector was the worst performing on Friday as regulators shut down Silicon Valley Bank to prevent a run on the tech-startups lender. The bank collapsed after this week saying higher interest rates spurred billions in losses on a $21 billion bond portfolio.</p>	
-	<p>"Silicon Valley Bank was heavily reliant on the tech industry, catering mainly to startups and the investors that fund them. However, the insular ecosystem of startups and investors that it served took a hit when the Fed began raising rates to curb inflation," Thomas Smale, CEO of FEI International, wrote Friday.</p>	
-	<p><strong>Here's where US indexes stood at the 4:00 p.m. closing bell on Friday: </strong></p>
-  <ul><li>S&P 500: 3,861.72, down 1.44%</li></ul>
-  <ul><li>Dow Jones Industrial Average: 31,909.83, down 1.07% (345.03 points)</li></ul>
-  <ul><li>Nasdaq Composite: 11,138.89, down 1.76%</li></ul>
-  <p>Stocks had moved higher ahead of the opening bell after investors found some relief in the February jobs report.</p>
-  <p>The Labor Department said the US economy added 311,000 jobs last month, much higher than expectations of 205,000 in a Bloomberg survey of economists. But wage growth slowed to 0.2% from January's 0.5% pace, curbing expectations the Federal Reserve will upsize its March interest rate hike to 50 basis points.</p>
-  <p><strong>Here's what else is happening today:</strong></p>
-  <ul><li>Silicon Valley Bank crisis: What you need to know about SVB Financial as its shares plunge.</li></ul>
-  <ul><li>"It is possible today we found our Enron," Michael Burry said about the Silicon Valley Bank implosion.</li></ul>
-  <ul><li>Emerging markets investing pioneer Mark Mobius says most of his investments are in Taiwan after saying he can't get his money out of China.</li></ul>
-  <p><storng>In commodities, bonds, and crypto:</storng></p>
-  <ul><li>West Texas Intermediate crude rose 1% to $76.46 per barrel. Brent crude, the international benchmark, rose 1.1% to $82.52.</li></ul>
-  <ul><li>Gold gained 1.8% to $1,869.30 per ounce.</li></ul>
-  <ul><li>The 10-year Treasury yield tumbled 22 basis points to 3.69%.</li></ul>
-  <ul><li>Bitcoin fell 1.8% to $20,007. It fell below $20,000 earlier Friday for the first time in two months.</li></ul>
+      <p>Euro vs US Dollar Weekly Technical Analysis</p>
+      <p>The Euro has initially fallen during the week, only to turn around to show signs of life again. The 50-Week EMA seems to be attracting a lot of attention, so therefore it’s not a huge surprise to see that we have turned around. Furthermore, we also had the non-Farm Payroll announcement come out on Friday that had people hoping that perhaps the shrinking wage inflation might have the Federal Reserve rethinking its rate of change. That of course is absolute nonsense, but in the short term it seems to be that’s the narrative that Wall Street is playing.</p>
+      <p>If we can break higher, there should be a significant amount of resistance near the 1.07 level, and then again at the 1.08 level. On the downside, if we were to break down below the bottom of the candlesticks for the past couple of weeks, then I think you have a situation where you could easily see this market drop down to the 1.03 level, followed by parity. Keep in mind that parity is going to attract a lot of headlines, and therefore people will be very interested in that region. I think we will have a major fight if we do get down to that area, and whether or not we can break down below there is a completely open question at this point.</p>
+      <p>At this juncture, I think the only thing you can probably count on is going to be more volatility, which is something that quite frankly I think a lot of traders are sick of. However, until we get some type of certainty when it comes to trading conditions and the economic outlook, this is a beast that we have to deal with.</p> 
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 131,
+    title: 'Weekly Market Wrap: Bitcoin falls below US$20,000 as Silvergate collapse, rate hike concerns rise',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'silvergate', 'market'],
+    description: <div className="blog-desc">
+      <p>Bitcoin, the world’s largest cryptocurrency by market capitalization, fell 10.98% in the week from March 3 to March 10, to trade at US$19,941 at 9:00 p.m. on Friday in Hong Kong. Ether slid 10.88% in the same period to US$1,397.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 10, 2023 - 9:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-135.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin,the world’s largest cryptocurrency by market capitalization, fell 10.98% in the week from March 3 to March 10, to trade at US$19,941 at 9:00 p.m. on Friday in Hong Kong. Ether slid 10.88% in the same period to US$1,397.</p>
+      <p>The crypto market saw a turbulent week after New York State Attorney General Letitia James said Ether should be registered as a security in her lawsuit against cryptocurrency exchange Kucoin filed on Thursday, a day after crypto-friendly financial institution Silvergate Capital said it would cease operations and liquidate its banking unit.</p>
+      <p>Investors digested hawkish comments from Federal Reserve Chair Jerome Powell, who said that the U.S. central bank may continue to raise interest rates this year to combat inflation.</p>
+      <p>“Bitcoin is still highly dependent on the monetary policy of the U.S. Federal Reserve, and any words hinting an increase or decrease of the key rate can have an effect on its price,” wrote Roman Nekrasov, co-founder of blockchain software firm Encry, in a LinkedIn response to Forkast.</p>  
+      <p>“The depreciation of Bitcoin should not be unexpected since inflation in the U.S. and the rest of the world has not gone away. The growth of Bitcoin in January and February was expected to stop and turn into a correction. Therefore, Bitcoin was expected to move into a downtrend,” wrote Nekrasov.</p> 
+      <p>The Fed will announce its rate decision at the Federal Open Market Committee’s March 21-22 meeting.</p>
+      <p>Alexander Politayko, the founder of MarsDAO, a decentralized autonomous organization developing deflationary products, said that he believes Bitcoin’s main support level is US$18,000.</p>
+      <p>“If Bitcoin does not hold on to this level, then the market may witness another wave of panic sales, and Bitcoin could return to the levels of last fall at US$16,000,” wrote Politayko in a LinkedIn response to Forkast.</p>
+      <p>Meanwhile, data from investment platform MacroMicro suggests that more Bitcoin owners are deciding against selling their assets despite turbulent market conditions. The percentage of Bitcoin supply that has been dormant for at least a year rose to an all-time high of 67.84% last weekend.</p>
+      <p>“There is a growing number of investors who view Bitcoin not just as a speculative asset, but also as a store of value or tool for savings. This is significant because it indicates a shift in the perception of Bitcoin from a purely speculative asset to one that has a practical use case,” wrote Politayko.</p>
+      <p>“As more people begin to use Bitcoin for its utilitarian value, the demand for the asset as a means to store value is likely to increase. This, in turn, can affect the price of Bitcoin in a positive way,” he added.</p>
+      <p>The global crypto market capitalization stood at US$923 billion on Friday at 9:00 p.m. in Hong Kong, falling 10.3% from US$1.03 trillion a week ago, according to CoinMarketCap data. Bitcoin’s US$385 billion market cap dominated 41.6% of the market, while Ether’s US$170 billion accounted for 18.5%.</p>
+      <p><strong>Kava tops winners</strong></p>
+      <p>Kava, the governance token of a layer-1 blockchain of the same name, was this week’s biggest gainer among the top 100 coins by market capitalization listed on CoinMarketCap. Kava rose 7.18% to US$0.86, and surpassed Solana in the total value of assets locked in the network this week, according to DeFiLlama data.</p>
+      <p>STX, the native token of Bitcoin smart contract layer Stacks, was the week’s worst performer among CoinMarketCap’s top 100, as it fell 33.54% to US$0.54. MINA, the token of privacy-focused blockchain Mina Protocol, followed closely as it fell 30.89% to US$0.61.</p>
+      <p><strong>Next week?</strong></p>
+      <p>Investors will be anticipating the release of the U.S. Consumer Price Index data, a key indicator for inflation.</p>
+      <p>In addition, the European Union will likely announce a 50 basis point rate hike next week, as predicted by 60 economists polled by Reuters. European Central Bank President Christine Lagarde said the rate hike is “very, very likely.” The central bank’s interest rate is expected to rise to 3.00% as a result.</p>
+      <p>The banking industry is bracing for ongoing challenges as the drop of Silicon Valley Bank’s shares, plunging over 60% on Thursday, prompted a domino effect, causing the market value of the four biggest U.S. banks to plummet by more than US$50 billion, raising widespread anxieties in equity markets.</p>
   </div>
   },
   {
@@ -97,10 +263,10 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-138.jpg',
     content: <div className="blog-content">
       <p>Dow Jones futures and S&P 500 futures fell slightly early Friday, while Nasdaq futures were little changed ahead of the February jobs report. SVB Financial kept plunging overnight after triggering a bank stock sell-off that slammed the broad market Thursday. Treasury yields kept falling.</p>
-	    <p>Oracle (ORCL) and Ulta Beauty (ULTA) reported earnings late.</p>
-	    <p>The stock market rally reversed sharply lower Thursday as questions about banks' financials suddenly came to the fore. The S&P 500 and Nasdaq fell to critical support levels.</p>	
-	    <p>Bank stocks plunged as SVB Financial (SIVB), parent of Silicon Valley Bank, cratered on a series of negative headlines while long-ailing crypto bank Silvergate Capital (SI) said it would shut down. Bank of America (BAC), JPMorgan Chase (JPM), Wells Fargo (WFC) and Charles Schwab (SCHW) were among the high-profile losers.</p>	
-	    <p>SIVB stock continued to plunge late as fears of a bank run grew.</p>
+      <p>Oracle (ORCL) and Ulta Beauty (ULTA) reported earnings late.</p>
+      <p>The stock market rally reversed sharply lower Thursday as questions about banks' financials suddenly came to the fore. The S&P 500 and Nasdaq fell to critical support levels.</p> 
+      <p>Bank stocks plunged as SVB Financial (SIVB), parent of Silicon Valley Bank, cratered on a series of negative headlines while long-ailing crypto bank Silvergate Capital (SI) said it would shut down. Bank of America (BAC), JPMorgan Chase (JPM), Wells Fargo (WFC) and Charles Schwab (SCHW) were among the high-profile losers.</p> 
+      <p>SIVB stock continued to plunge late as fears of a bank run grew.</p>
       <p>Investors should be cautious, waiting for the market rally to show renewed strength.</p>
       <p><strong>Key Earnings</strong></p>
       <p>ORCL stock fell 5% overnight after Oracle earnings topped but revenue fell short. Oracle stock skidded 5.9% to 81.75 on Thursday, falling below its 50-day line. Shares have been working on a 91.32 buy point from a deep cup-with-handle base.</p>
@@ -156,36 +322,6 @@ const blogListdata = [
     </div>
   },
   {
-    id: 133,
-    title: 'Bond Yields Plunge Most Since 2008 as Traders Rethink Fed Path',
-    category: 'Markets',
-    subCategory: ['Traders', 'Yields', 'Bond'],
-    description: <div className="blog-desc">
-      <p>(Bloomberg) -- Government-bond yields fell the most since since 2008 after a US bank failure spurred traders to reassess the outlook for additional Federal Reserve rate hikes.</p>
-    </div>,
-    authorName: 'Alice Gledhill, Jan-Patrick Barnert and Michael MacKenzie',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 11, 2023 - 1:06 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-137.jpg',
-    content: <div className="blog-content">
-      <p>(Bloomberg) -- Government-bond yields fell the most since since 2008 after a US bank failure spurred traders to reassess the outlook for additional Federal Reserve rate hikes.</p>
-      <p>Shorter-dated Treasury yields plummeted for a second day as traders reverted to pricing in a quarter-point rate hike at the Fed’s March 21-22 meeting, instead of a half-point move. The market also resumed pricing in a quarter-point cut by the end of the year.</p>
-      <p>The moves occurred even as US employment data released Friday showed job creation exceeded estimates for an 11th straight month in February, which prompted economists at Barclays Plc to forecast a half-point hike in March. The mixed data, which also showed wages rose less than expected, was overshadowed by the failure of SVB Financial Group, which buckled under the strain of declining deposits and losses on its securities portfolio.</p>
-      <p>The two-year Treasury yield fell nearly 30 basis points to 4.57% at one point and ended near its session low. The yield’s two-day slide of just under 50 basis points was the biggest since 2008. Investors also piled into German short-term debt, sending those rates into a similarly steep decline.</p>
-      <p>“It is incredible to see the whipsaw action in Treasury yields and it’s likely people want to own Treasuries into the weekend,” said Kevin Flanagan, head of fixed-income strategy at Wisdom Tree Investments.</p>
-      <p>Traders reasoned that the prospect of contagion in the banking system could curb the Fed’s willingness to keep raising rates despite still-elevated inflation. Swaps referencing the March meeting price in about 32 basis points of tightening, down some 13 basis points from earlier in the week. A rate cut by year end from the expected peak level had dwindled to less than a coin-toss in recent weeks.</p>
-      <p>“The reaction in the market reflects the broader worry about US banks and investors did expect a beat in the payrolls number,” said Andrzej Skiba, portfolio manager at Bluebay Asset Management.</p>
-	    <p>Markets are jittery about potential fallout from the parent of Silicon Valley Bank, which has suffered losses on a portfolio including US Treasuries. Investors are turning their attention to risks that may lurk in other financial institutions — and questioning the degree to which the Fed’s rate hikes have precipitated that pain.</p>
-	    <p>US payrolls in February rose by more than expected while a broad measure of monthly wage growth slowed, offering a mixed picture as the Fed contemplates whether to step up the pace of rate hikes. The unemployment rate ticked up to 3.6% as the labor force grew, and monthly wages rose at the slowest pace in a year. Nonfarm payrolls increased 311,000 after a 504,000 advance in January, revised down from 517,000.</p>	
-	    <p>Traders will look to whether next week’s release of US consumer inflation data warrants pricing in a quarter- or half-point hike this month.</p>	
-	    <p>“The market is clearly reading that the labor report is solid but not strong enough for the Fed to re-accelerate the hiking cycle,” said Roberto Cobo Garcia, BBVA’s head of G10 FX strategy. “It would probably take very significant surprises in the CPI data next week for the Fed to change course again.”</p>
-      <p>--With assistance from Giulia Morpurgo, John Viljoen, Sydney Maki, James Hirai, Tasos Vossos, Ksenia Galouchko and Julien Ponthus.</p>
-      <p>(Adds Barclays Fed forecast change in third paragraph, updates yield levels.)</p>
-    </div>
-  },
-  {
     id: 132,
     title: 'Two U.S. Banks Collapse in 48 Hours. Which Ones Next?',
     category: 'Markets',
@@ -200,405 +336,36 @@ const blogListdata = [
     createdAt: 'Mar 10, 2023 - 1:34 PM', 
     cover: 'https://ncx.cx/images/ncx-blog-136.jpg',
     content: <div className="blog-content">
-  <p>Silvergate served the cryptocurrency industry, while SVB was the bank for Silicon Valley tech startups.</p>
-  <p>It's a black week for the American financial system: In just 48 hours, the banking sector has been shaken by the collapse of two major banks.</p>
-  <p>Most worrying is that these banks served two so-called growth economic sectors: the tech sector and the cryptocurrency industry.</p>
-  <p>SVB Financial Group,  (SIVB) - Get Free Report the lender to Silicon Valley startups, failed on March 10, falling into the hands of the FDIC. The federal agency has taken control of the banking company, reviving the ghosts of the 2008 financial crisis.</p>
-  <p>"Silicon Valley Bank, Santa Clara, California, was closed today by the California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corporation as receiver," the federal agency said in a news release.</p>
-  <p>"All insured depositors will have full access to their insured deposits no later than Monday morning, March 13, 2023. The FDIC will pay uninsured depositors an advance dividend within the next week. Uninsured depositors will receive a receivership certificate for the remaining amount of their uninsured funds."</p>
-  <p>It added that it may pay a dividend to uninsured depositors as it sells the assets of SVB</p>
-  <p>The FDIC is a guarantor for bank depositors.</p>
-  <p><strong>SVB: The To-Go Bank for Tech Startups</strong></p>
-  <p>At the end of last year SVB had $209 billion in total assets and $175 billion in total deposits. SVB becomes the second biggest failure of a U.S. bank after Washington Mutual in 2008.</p>
-  <p>SVB was a central player in the innovation economy. It was the backbone of the tech industry in Silicon Valley. It played an important role in the startup ecosystem by providing specialized financial services, industry expertise, a valuable network, and a strong reputation.</p>
-  <p>It also offered a range of financial services tailored specifically to the needs of startups, such as venture debt, corporate banking, and asset management. These services are designed to help startups manage their finances, optimize their cash flow, and scale their businesses.</p>
-  <p>SVB suffered from the rise in interest rates from the Federal Reserve because it hurt the value of its investment assets, especially bonds. As a result, the bank had to resort to a capital raise as many startups withdrew their deposits from the bank since they were burning a lot of cash.</p>
-  <p>SVB had to sell bonds, primarily U.S. Treasury securities, at a discount to cover these withdrawals. The rise in interest rates has made existing bonds less valuable. In selling these bond positions, SVB had to take a significant loss.</p>
-	<p>But its attempt to raise $2.25 billion failed.</p>
-	<p><strong>Crypto Bank Silvergate Collapsed</strong></p>	
-	<p>Two days earlier, Silvergate, the crypto bank, collapsed. The bank was where most of the big crypto firms went, because traditional banks did not want to do business with them. And that reluctance stemmed from warnings from regulators who consider the crypto industry a risky sector.</p>
-  <p>The company said on March 8 that it intended "to wind down operations and voluntarily liquidate the bank in an orderly manner and in accordance with applicable regulatory processes."</p>
-  <p>It added: "In light of recent industry and regulatory developments, Silvergate believes that an orderly wind down of bank operations and a voluntary liquidation of the bank is the best path forward."</p>	
-  <p>"The bank’s wind down and liquidation plan includes full repayment of all deposits. The Company is also considering how best to resolve claims and preserve the residual value of its assets, including its proprietary technology and tax assets."</p>
-  <p><strong>Verging on Bigger Fall Than 2008: Economist Schiff</strong></p>
-  <p>The rout of the La Jolla, Calif., bank was due to pressure from regulators, in particular the Department of Justice, which has opened an investigation into its business relations with the empire of the former crypto king Sam Bankman-Fried.</p>
-  <p>Bankman-Fried has been charged with 12 counts of fraud, stemming from the collapse of his crypto empire, the cryptocurrency exchange FTX and its sister company, Alameda Research.</p>
-  <p>Silvergate was established in 1988. The bank initially specialized in lending to industrial customers and at the time also offered loans for both residential and commercial real estate.</p>
-  <p>But in 2013, the bank began to court crypto firms, when traditional banks were reluctant to do so due to the opacity prevailing in the sector. Silvergate thus became the crypto bank. </p>
-  <p>In 2019, the firm made its initial public offering, promising a complete refocus on the industry, which was then experiencing a renaissance. As of Sept. 30, Silvergate had $11.9 billion in digital assets held as deposits. </p>
-  <p>But the bankruptcy of FTX and Alameda on Nov. 11 scared away customers. The bank thus reported only $3.8 billion in digital assets held as deposits as of Dec. 31. FTX was one of Silvergate's big customers.</p>
-  <p>The question now is whether other U.S. banks will fall? Could SVB and Silvergate's issues spread to other regional banks especially since suspicion can lead customers to rush to these banks to withdraw their money?</p>
-	<p>"The U.S. banking system is on the verge of a much bigger collapse than 2008," said economist Peter Schiff, known for his dire predictions. </p>
-  <p>"Banks own long-term paper at extremely low interest rates. They can't compete with short-term Treasuries. Mass withdrawals from depositors seeking higher yields will result in a wave of bank failures."</p>
-    </div>
-  },
-  {
-    id: 131,
-    title: 'Weekly Market Wrap: Bitcoin falls below US$20,000 as Silvergate collapse, rate hike concerns rise',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'silvergate', 'market'],
-    description: <div className="blog-desc">
-      <p>Bitcoin, the world’s largest cryptocurrency by market capitalization, fell 10.98% in the week from March 3 to March 10, to trade at US$19,941 at 9:00 p.m. on Friday in Hong Kong. Ether slid 10.88% in the same period to US$1,397.</p>
-    </div>,
-    authorName: 'Zoltan Vardai',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 10, 2023 - 9:10 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-135.jpg',
-    content: <div className="blog-content">
-      <p>Bitcoin,the world’s largest cryptocurrency by market capitalization, fell 10.98% in the week from March 3 to March 10, to trade at US$19,941 at 9:00 p.m. on Friday in Hong Kong. Ether slid 10.88% in the same period to US$1,397.</p>
-	<p>The crypto market saw a turbulent week after New York State Attorney General Letitia James said Ether should be registered as a security in her lawsuit against cryptocurrency exchange Kucoin filed on Thursday, a day after crypto-friendly financial institution Silvergate Capital said it would cease operations and liquidate its banking unit.</p>
-	<p>Investors digested hawkish comments from Federal Reserve Chair Jerome Powell, who said that the U.S. central bank may continue to raise interest rates this year to combat inflation.</p>
-	<p>“Bitcoin is still highly dependent on the monetary policy of the U.S. Federal Reserve, and any words hinting an increase or decrease of the key rate can have an effect on its price,” wrote Roman Nekrasov, co-founder of blockchain software firm Encry, in a LinkedIn response to Forkast.</p>	
-	<p>“The depreciation of Bitcoin should not be unexpected since inflation in the U.S. and the rest of the world has not gone away. The growth of Bitcoin in January and February was expected to stop and turn into a correction. Therefore, Bitcoin was expected to move into a downtrend,” wrote Nekrasov.</p>	
-	<p>The Fed will announce its rate decision at the Federal Open Market Committee’s March 21-22 meeting.</p>
-  <p>Alexander Politayko, the founder of MarsDAO, a decentralized autonomous organization developing deflationary products, said that he believes Bitcoin’s main support level is US$18,000.</p>
-  <p>“If Bitcoin does not hold on to this level, then the market may witness another wave of panic sales, and Bitcoin could return to the levels of last fall at US$16,000,” wrote Politayko in a LinkedIn response to Forkast.</p>
-  <p>Meanwhile, data from investment platform MacroMicro suggests that more Bitcoin owners are deciding against selling their assets despite turbulent market conditions. The percentage of Bitcoin supply that has been dormant for at least a year rose to an all-time high of 67.84% last weekend.</p>
-  <p>“There is a growing number of investors who view Bitcoin not just as a speculative asset, but also as a store of value or tool for savings. This is significant because it indicates a shift in the perception of Bitcoin from a purely speculative asset to one that has a practical use case,” wrote Politayko.</p>
-  <p>“As more people begin to use Bitcoin for its utilitarian value, the demand for the asset as a means to store value is likely to increase. This, in turn, can affect the price of Bitcoin in a positive way,” he added.</p>
-  <p>The global crypto market capitalization stood at US$923 billion on Friday at 9:00 p.m. in Hong Kong, falling 10.3% from US$1.03 trillion a week ago, according to CoinMarketCap data. Bitcoin’s US$385 billion market cap dominated 41.6% of the market, while Ether’s US$170 billion accounted for 18.5%.</p>
-  <p><strong>Kava tops winners</strong></p>
-  <p>Kava, the governance token of a layer-1 blockchain of the same name, was this week’s biggest gainer among the top 100 coins by market capitalization listed on CoinMarketCap. Kava rose 7.18% to US$0.86, and surpassed Solana in the total value of assets locked in the network this week, according to DeFiLlama data.</p>
-  <p>STX, the native token of Bitcoin smart contract layer Stacks, was the week’s worst performer among CoinMarketCap’s top 100, as it fell 33.54% to US$0.54. MINA, the token of privacy-focused blockchain Mina Protocol, followed closely as it fell 30.89% to US$0.61.</p>
-  <p><strong>Next week?</strong></p>
-  <p>Investors will be anticipating the release of the U.S. Consumer Price Index data, a key indicator for inflation.</p>
-  <p>In addition, the European Union will likely announce a 50 basis point rate hike next week, as predicted by 60 economists polled by Reuters. European Central Bank President Christine Lagarde said the rate hike is “very, very likely.” The central bank’s interest rate is expected to rise to 3.00% as a result.</p>
-  <p>The banking industry is bracing for ongoing challenges as the drop of Silicon Valley Bank’s shares, plunging over 60% on Thursday, prompted a domino effect, causing the market value of the four biggest U.S. banks to plummet by more than US$50 billion, raising widespread anxieties in equity markets.</p>
-  </div>
-  },
-  {
-    id: 130,
-    title: 'Coinbase Pauses Conversions Between USDC and U.S. Dollars as Banking Crisis Roils Crypto',
-    category: 'Crypto',
-    subCategory: ['USDC', 'US', 'Coinbase'],
-    description: <div className="blog-desc">
-      <p>Coinbase (COIN) hit the brakes on conversions between USDC stablecoin and US dollars late Friday as fallout from Silicon Valley Bank's (SIVB) collapse spread into the heart of crypto trading.</p>
-    </div>,
-    authorName: 'Danny Nelson',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 11, 2023 - 8:14 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-132.jpg',
-    content: <div className="blog-content">
-      <p>Coinbase (COIN) hit the brakes on conversions between USDC stablecoin and US dollars late Friday as fallout from Silicon Valley Bank's (SIVB) collapse spread into the heart of crypto trading.</p>
-      <p>In a tweet, the crypto exchange said it was "temporarily pausing" the conversions while banks are closed over the weekend. The exchange said it planned to restart conversions on Monday.</p>
-    	<p>The pause speaks to the chaos that's roiled the crypto industry's second-largest stablecoin in the wake of Silicon Valley Bank's demise on Friday. Speculating on the stability of USDC, traders redeemed $1.6 billion of USDC, lowering its total supply.</p>
-	    <p>Late in the day, Circle confirmed that $3.3B of the $40B backing its stablecoin was on deposit at the now-shuttered lender. The fate of that cash is now uncertain, with Silicon Valley Bank having been seized by the FDIC, and USDC – for the moment – has lost its dollar peg.</p>	
-	    <p>"Circle is currently protecting USDC from a black swan failure in the U.S. banking system," tweeted Circle Chief Strategy Officer Dante Disparte late Friday night. "Silicon Valley Bank is a critical bank in the U.S. economy and its failure – without a Federal rescue plan – will have broader implications for business, banking and entrepreneurs."</p>	
-	    <p>"During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours," Coinbase said in its tweet announcing the conversion pause. "When banks open on Monday, we plan to re-commence conversions."</p>
-    </div>
-  },
-  {
-    id: 129,
-    title: 'Circle assures market after stablecoin USDC breaks dollar peg',
-    category: 'Crypto',
-    subCategory: ['Market', 'USDC', 'Stablecoin'],
-    description: <div className="blog-desc">
-      <p>LONDON (Reuters) -Stablecoin USD Coin (USDC) lost its dollar peg and slumped to an all-time low on Saturday before recovering most of its losses after Circle, the firm behind it, assured investors it would honor the peg despite exposure to failed Silicon Valley Bank.</p>
-    </div>,
-    authorName: 'Elizabeth Howcroft and RISHABH JAISWAL',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 11, 2023 - 11:25 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-131.jpg',
-    content: <div className="blog-content">
-      <p>By Elizabeth Howcroft and RISHABH JAISWAL</p>
-      <p>LONDON (Reuters) -Stablecoin USD Coin (USDC) lost its dollar peg and slumped to an all-time low on Saturday before recovering most of its losses after Circle, the firm behind it, assured investors it would honor the peg despite exposure to failed Silicon Valley Bank.</p>
-	    <p>Circle said in a tweet on Friday it has $3.3 billion of its $40 billion of USDC reserves at Silicon Valley Bank. On Saturday, the cryptocurrency company said in a blog post that USDC liquidity operations will resume as normal when banks open on Monday morning in the United States.</p>
-	    <p>"As a regulated payment token, USDC will remain redeemable 1 for 1 with the U.S. Dollar", the company said in a blog post.</p>	
-	    <p>The cryptocurrency firm said that in the event the bank does not return 100% of deposits, it will cover any shortfall using corporate resources, involving external capital if necessary.</p>	
-	    <p>The coin, which broke its 1:1 dollar peg and fell as low as $0.88 shortly after 0800 GMT (3 a.m. EST) on Saturday, according to market tracker CoinGecko, recovered to trade around $0.97 by 2100 GMT.</p>
-      <p>Silicon Valley Bank collapsed on Friday in the largest U.S. bank failure since the 2008 financial crisis, roiling global markets and stranding billions of dollars belonging to companies and investors.</p>
-      <p>Circle said in a tweet on Friday that the company and USDC "continue to operate normally" while the firm waits for clarity on what will happen to Silicon Valley Bank depositors.</p>
-      <p>Meanwhile, U.S. crypto exchange Coinbase said in a tweet it was not allowing USDC to be exchanged for U.S. dollars over the weekend while banks are closed, citing "heightened activity", while it plans to resume swaps on Monday.</p>
-      <p>Joseph Edwards, investment advisor at Enigma Securities, said the situation was "extremely serious" for USDC.</p>
-      <p>"No matter how sound Circle's operations are, this sort of depeg on a stablecoin tends to fundamentally undermine confidence in it," Edwards said.</p>
-      <p>"The short-term implications here are dramatic and unknowable, especially once systems start to have to be adjusted to the reality that 1 USDC isn't trading at 1 USD for the time being."</p>
-      <p>CONSTANT EXCHANGE RATE</p>
-      <p>Stablecoins are cryptocurrencies designed to maintain a constant exchange rate with "fiat" currencies - those backed by a central government rather than a physical commodity such as gold - for example through a 1:1 U.S. dollar peg.</p>
-      <p>Used in cryptocurrency trading, they have surged in value in recent years. USDC is the second-biggest stablecoin with a market cap of $37 billion. The largest, Tether, has a market cap of $72 billion, according to CoinGecko.</p>
-      <p>USDC's price usually holds close to $1, making Saturday's drop unprecedented. According to CoinGecko data, its previous all-time low was around $0.97 in 2018, though in 2022 it fell just below $0.99 when cryptocurrency markets were roiled by the collapse of crypto hedge fund Three Arrows Capital.</p>
-      <p>Traders have been on guard this week for signs of contagion in the financial sector and beyond from troubles for Silicon Valley Bank and crypto-focused Silvergate, which this week disclosed plans to wind down operations and voluntarily liquidate.</p>
-      <p>Boston-based Circle said last week it had moved a "small percentage" of USDC reserve deposits held at Silvergate to its other banking partners.</p>
-      <p>The chief executive of cryptocurrency exchange Binance said in a tweet on Friday it had no exposure to Silicon Valley Bank, as did Tether Chief Technology Officer Paolo Ardoino.</p>
-      <p>Stablecoin issuer Paxos and crypto exchange Gemini also tweeted that they do not have relationships with the bank.</p>
-      <p>(Reporting by Elizabeth Howcroft in London and Rishabh Jaiswal in Bengaluru; Editing by William Mallard, David Holmes and Paul Simao)</p>
-    </div>
-  },
-  {
-    id: 128,
-    title: 'Stablecoin Issuer Circle Reveals $3.3 Billion SVB Exposure',
-    category: 'Crypto',
-    subCategory: ['SVB', 'stablecoin',],
-    description: <div className="blog-desc">
-      <p>(Bloomberg) -- The second-largest stablecoin in crypto fell from its intended $1 peg on Saturday, trading as low as 81.5 cents, hurt by the exposure of issuer Circle Internet Financial Ltd. to the collapsed Silicon Valley Bank.</p>
-    </div>,
-    authorName: 'Suvashree Ghosh and Yueqi Yang',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 11, 2023 - 1:08 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-130.jpg',
-    content: <div className="blog-content">
-      <p>(Bloomberg) -- The second-largest stablecoin in crypto fell from its intended $1 peg on Saturday, trading as low as 81.5 cents, hurt by the exposure of issuer Circle Internet Financial Ltd. to the collapsed Silicon Valley Bank.</p>
-	<p>USD Coin, or USDC, is a key plank of crypto markets and is supposed to hold a constant $1 value, fully backed by reserves of cash and short-dated Treasuries. But $3.3 billion of that roughly $40 billion stockpile is with Silicon Valley Bank, which has just become one of the largest US bank failures in recent history.</p>
-	<p>Regulators seized the bank on Friday and investors are awaiting more clarity on the return of deposits. In that vacuum, USDC fell below $1, trading at about 92 cents as of 9:02 a.m. in London on Saturday. Smaller stablecoins such as DAI and Pax Dollar also fell from their pegs, a sign of wider nervousness.</p>	
-	<p>The worries haven’t so far spread to top stablecoin Tether, which held at $1. Tether has previously faced scrutiny over its reserves. Wider crypto markets are having a painful week and were on the back foot Saturday: Bitcoin oscillated between gains and losses, while smaller tokens like Solana and Avalanche were in the red.</p>	
-	<p>Circle’s Chief Strategy Officer Dante Disparte described the fall of Silicon Valley Bank as a “black swan failure” in the US financial system, saying in a tweet that without a federal rescue plan there would be “broader implications for business, banking and entrepreneurs.”</p>
-  <p>USDC has a circulating supply of about 41 billion tokens and a market value of roughly $37 billion, CoinGecko data shows. A net $2 billion of USDC was redeemed in the past 24 hours, according to blockchain research firm Nansen. Data compiled by Bloomberg indicated USDC traded as low as 81.5 cents.</p>
-  <p>Coinbase’s Step</p>
-  <p>Stablecoins like USDC are intended to hold a set value against another, highly liquid asset like the US dollar. They come in a variety of forms and some, like Circle’s, are underpinned by reserves of cash and bonds. Investors often park funds in stablecoins as they move between crypto trades.</p>
-  <p>As the selloff in USDC worsened, US-based crypto exchange Coinbase Global Inc. said it would be “temporarily pausing” the conversion of USDC into US dollars during the weekend, and would resume on Monday when banks open.</p>
-  <p>The fall in USDC has had a knock-on effect on decentralized finance applications which let users trade, borrow and lend coins and which tend to rely heavily on trading pairs involving the stablecoin.</p>
-  <p>“Unless there’s a concrete bailout plan this weekend, I think markets will be ugly again next week,” said Teong Hng, chief executive officer at crypto investment firm Satori Research, about the failure of SVB.</p>
-  <p>Crypto’s Woes</p>
-  <p>The crypto sector was already reeling from a prolonged rout that’s knocked $2 trillion off the value of digital assets since November 2021, precipitating a series of implosions such as the TerraUSD stablecoin, the Three Arrows Capital hedge fund and the FTX exchange.</p>
-  <p>The TerraUSD token — known as UST — tried to use a mix of algorithms and trader incentives involving a sister token, Luna, to hold its value. The $60 billion wipeout of that system intensified global regulatory scrutiny of stablecoins.</p>
-  <p>“I think the market ‘panic priced’ USDC like it priced USDT around the Luna collapse,” said Haohan Xu, chief executive officer of Apifiny, an institutional trading platform. “It’s driven by Circle’s exposure at SVB plus Coinbase closing off its USDC convert function.”</p>
-  <p>Trying to Reassure</p>
-  <p>Crypto firms including Binance and Tether on Friday used Twitter to try to reassure their customers about any risks posed by the failed bank.</p>
-  <p>Changpeng Zhao, chief executive officer at Binance, the largest digital-asset exchange, tweeted that the firm doesn’t have exposure and its funds are safe.</p>
-  <p>Paxos Trust Co., issuer of Pax Dollar, and crypto exchange Gemini said they have no relationship with the bank, according to statements on their official Twitter accounts. Tether’s Chief Technology Officer Paolo Ardoino said in a tweet that the largest stablecoin doesn’t have exposure to SVB.</p>
-  <p>By contrast, bankrupt crypto lender BlockFi has about $227 million in an account at the failed bank, according to a court filing.</p>
-  <p>--With assistance from David Pan.</p>
-  <p>(Updates market prices in the fourth paragraph. An earlier version of this story corrected the TerraUSD acronym in the 12th paragraph to UST.)</p>
-    </div>
-  },
-  {
-    id: 127,
-    title: 'GBP to USD Weekly Forecast – British Pound Gives Up Much of the Gains for the Week',
-    category: 'Currencies',
-    subCategory: ['GBP', 'USD', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>British Pound vs US Dollar Weekly Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 - 7:17 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-129.jpg',
-    content: <div className="blog-content">
-      <p><strong>British Pound vs US Dollar Weekly Technical Analysis</strong></p>
-	    <p>The British pound has initially rallied during the course of the trading week to break above the 1.20 level, reaching towards 1.21 level before pulling back. We ended up forming a bit of an inverted hammer, so therefore it’s going to be interesting to see how this plays out. The previous week formed the same candlestick, and the week before that was very similar. In other words, every time we rally it looks like the sellers are starting to come back in and push lower.</p>
-	    <p>It looks as if the area around the 1.19 level is going to continue to be support, so I do think it’s worth watching. Breaking down through that area then opens up a bigger drop from what I can see, which of course is what would coincide with the longer-term trend. We had bounced rather significantly to test the 50% Fibonacci level, and then even formed a bit of a double top in that area. By doing so, this is a market that I believe continues to be very noisy, but in the end will find plenty of sellers to come in and punish it.</p>	
-	    <p>If global risk appetite continues to struggle, I just don’t see how this market takes off to the upside. A breakdown below the 1.1850 level will open up a move down to the 1.15 level, followed by the 1.1250 level. That does not necessarily mean that it will be sudden or have a lot of momentum, but that certainly looks as if it would be the more likely of scenarios right now.</p>
-    </div>
-  },
-  {
-    id: 126,
-    title: 'AUD/USD Forecast – Australian Dollar Continues to Threaten Support',
-    category: 'Currencies',
-    subCategory: ['AUD', 'USD', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>Australian Dollar vs US Dollar Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 6, 2023 - 5:54 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-128.jpg',
-    content: <div className="blog-content">
-      <p><strong>Australian Dollar vs US Dollar Technical Analysis</strong></p>
-	    <p>The Australian dollar has fallen a bit during the trading session on Monday, as we continue to look at the 0.67 level underneath as a potential support level. It has offered support over the last couple of days, so it does make a certain amount of sense that traders continue to come back into this picture. Furthermore, there is a little bit of support underneath there reaching down to the 0.66 level, and therefore I think it’s going to be difficult for this pair to simply fall through the floor. However, it’s probably worth noting that the market has been very choppy in general, therefore I think you probably continue to see a lot of back and forth trading more than anything else.</p>
-	    <p>The 50-Day EMA has just broken back below the 200-Day EMA, forming the so-called “death cross”, then longer-term sellers may come in and hold short positions. That being said, the 0.68 level above could be resistance, right along with those moving averages. With that being said, the market is likely to continue to see a lot of volatility, and therefore I would not hang on to a position for far too long, due to the fact that there are so many different things out there moving the market around.</p>	
-	    <p>Keep in mind that the Aussie of course is going to be very sensitive to the idea of global growth, or perhaps even the lack of it, and therefore you need to pay close attention to inflation numbers, and of course GDP numbers around the world. The Australian economy is highly levered to the Chinese economy as well, which although just reopening from the pandemic lockdowns, does not necessarily look blazing hot either, although in all fairness the Chinese economy is probably one of the better performers at the moment.</p>	
-	    <p>That being said, if the rest of the world is going to slow down, then the Chinese economy will of course suffer as a result. If we do break down below the support region underneath, it could open up a move down to 0.65 level, which is an area where we had seen a lot of noise previously. Breaking above the moving averages could open up a move to the 0.70 level, but that would take a significant amount of momentum.</p>
-    </div>
-  },
-  {
-    id: 125,
-    title: 'EUR/USD Forecast – Euro Testing the 50-Day EMA',
-    category: 'Currencies',
-    subCategory: ['EUR', 'USD', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>Euro vs US Dollar Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 6, 2023 - 6:01 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-127.jpg',
-    content: <div className="blog-content">
-      <p><strong>Euro vs US Dollar Technical Analysis</strong></p>
-	    <p>The Euro has rallied a bit during the trading session on Monday, as it looks like we’re going to continue to see a lot of noise in this pair. The 50-Day EMA currently sits at roughly 1.0675, and the market has tested that level. Ultimately, this is an indicator that a lot of people pay close attention to, but we are also between that and the 200-Day EMA, which typically means that you are going to see a lot of volatility in general. The 1.06 level is an area that a lot of people have paid close attention to recently, but I think that the support extends all the way down to the 1.05 level. The 1.05 level also features the 200-Day EMA, so it all ties together quite nicely.</p>
-	    <p>If we were to break down below the 200-Day EMA, the market could drop down to the 1.03 level. The 1.03 level is an area that had been important previously. Ultimately, this is a market that continues to see a lot of noisy behavior, which makes quite a bit of sense considering that the economic situation seems to be all over the place. Ultimately, I think this continues to be a lot of noise more than anything else, but it is worth noting that we had seen a lot of selling pressure from the top. When you look at the recent high, you can see that the selloff began with 2 massive negative candlesticks.</p>	
-	    <p>If the rally did get to that area, I think it would be very difficult to break out above. Quite frankly, I see a significant amount of resistance at multiple levels. The 50-Day EMA of course is a major barrier, and then the 1.07 level is an area where we have seen resistance previously, and of course the 1.08 level. It’s not until we break above there that we can even begin to threaten those massive negative candlesticks where so much had changed in momentum. It is because of this that I think this pair ultimately remains a “fade the rally” type of situation, especially as inflation in the United States remains stubbornly high, thereby forcing the Federal Reserve to remain “tighter for longer.”</p>
-    </div>
-  },
-  {
-    id: 124,
-    title: 'GBP/JPY Forecast – British Pound Looking For Direction Against the Yen',
-    category: 'Currencies',
-    subCategory: ['GBP', 'JPY', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>British Pound vs Japanese Yen Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 6, 2023 - 6:10 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-126.jpg',
-    content: <div className="blog-content">
-      <p><strong>British Pound vs Japanese Yen Technical Analysis</strong></p>
-	    <p>The British pound has pulled back a bit during the trading session on Monday but continues to find plenty of buyers near the ¥163 level. The ¥162.50 level is an area that previously had been important as well, so I do think that there’s a lot of support underneath as it shows signs of importance. The 50-Day EMA looks as if it is ready to turn around and break above the 200-Day EMA, kicking off the so-called “golden cross.”</p>
-	    <p>The ¥165 level above is an area that could be a target as we pierced it previously, only to turn around and fall apart. Having said that, this is all about the Bank of Japan and the fact that there is going to be a continued need by the central bank to keep interest rates lower in that country. In order to do that, they have to buy bonds in order to keep interest rates from spiking in the country. In order to buy bonds, they have to print yen, and have promised to do so in “an unlimited amount.”</p>	
-	    <p>Ultimately, the market has been bullish for quite some time, and therefore I think momentum will continue to be part of the picture here. However, you should also keep in mind that recently when we spiked, we tested the top of a major selloff, and therefore I think it will continue to be a major target, but it is going to be so difficult to break above there that I do not anticipate that it happens anytime soon.</p>	
-	    <p>Short-term pullbacks should continue to be buying opportunities, but you should also keep an eye on the fact that the market is going to be very noisy not only due to the Bank of Japan noise, but the fact that the pair is also very sensitive to risk appetite, which of course is all over the place right now. Because of this, keep in mind that sometimes people will run to the yen when either rates overall drop, or if there is a major fear out there about some type of economic issue. I do believe that eventually we will have to make a bigger decision, but right now it seems like this can be more noise than anything else.</p>
-    </div>
-  },
-  {
-    id: 123,
-    title: 'GBP to USD Forecast – British Pound Continues to Consolidate Near Big Figure',
-    category: 'Currencies',
-    subCategory: ['GBP', 'USD', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>British Pound vs US Dollar Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 6, 2023 - 6:17 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-125.jpg',
-    content: <div className="blog-content">
-      <p><strong>British Pound vs US Dollar Technical Analysis</strong></p>
-	    <p>The British pound has gone back and forth during the course of the trading session on Monday, as it looks like it is still trying to figure out what to do with itself. Because of this, the market will be very noisy, but ultimately it looks as if we are going to have to make a bigger decision. Until we get some kind of impulsive candlestick, it’s a bit difficult to get overly aggressive in this pair. It seems as if the 1.20 level is going to continue to be a magnet for the price, therefore you need to pay close attention to how the market continues to react to this area. So far, it looks as if it’s ready to grind back and forth but if you look at the chart a little closer, you can recognize that there have been a series of lower highs along the way.</p>
-	    <p>Underneath, the 1.1925 level has offered a bit of support, and I think that probably extends down to the 1.1850 area where we had seen a little bit of support previously. Breaking down that level will then kick off the major leg lower, perhaps opening up a move down to the 1.15 level. The 1.15 level of course is very likely to continue to be important due to the fact that it is a large, round, psychologically significant figure, so with that in mind, I think it’s probably a nice target.</p>	
-	    <p>However, if we were to turn around and break above the 1.21 level, then it’s possible that we could go to the 1.24 level above, but that double top I think would be difficult to break above anytime soon and I think it extends all the way to the 1.25 level as well. In other words, there’s a lot of noise out there that is going to continue to be a major issue, so therefore I think you’ve got a situation where you have to look at this more or less from a “fade the rally” type of plan, but you should also perhaps look at this as a short-term market more than anything else at the moment.</p>
-    </div>
-  },
-  {
-    id: 122,
-    title: 'AUD/USD Forecast – Australian Dollar Continues to Threaten a Breakdown',
-    category: 'Currencies',
-    subCategory: ['AUD', 'USD', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>Australian Dollar vs US Dollar Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 7, 2023 - 5:35 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-124.jpg',
-    content: <div className="blog-content">
-      <p><strong>Australian Dollar vs US Dollar Technical Analysis</strong></p>
-	    <p>The Australian dollar has fallen rather hard during the course of the trading session on Tuesday, as we are now well below the 0.67 level. At this point, the market is looking likely to go down to the 0.6650 level, which is an area where we have seen a lot of previous support. If we were to break down below there, then the market is likely to drop down to the 0.6450 level. Furthermore, we have recently seen the so-called “death cross”, when the 50-Day EMA breaks down below the 200-Day EMA indicator and is generally seen as a negative turn of events. Because of this, I think you got a situation where the market will continue to be more dollar positive than anything else.</p>
-	    <p>This will continue to be the case as long as the Federal Reserve has decided to be “tighter for longer”, as they have publicly stated. At this point, I think it’s only a matter of time before rallies get sold into at the first signs of exhaustion. With that being said, I like the idea of fading these rallies and taking advantage of momentum, as it continues to see a lot of noise. The Australian dollar of course is a very sensitive currency when it comes to global growth and of course the Chinese mainland, both of which are a bit shaky at the moment, despite the fact that the Chinese have less than desirable numbers at times.</p>	
-	    <p>The size of the candlestick does suggest that there is a significant amount of downward pressure building in this market, so I do think that a breakdown is only a matter of time before it actually happens. Rallies at this point will more likely than not be sold into at the first signs of exhaustion, and it would take the market breaking above the 200-Day EMA for me to change my opinion on this pair. All things being equal, I think the US dollar continues to be one of the favorite currencies around the world, and therefore I do believe that the Aussie will continue to be threatened by the juggernaut that is the greenback.</p>
-    </div>
-  },
-  {
-    id: 121,
-    title: 'EUR/USD Forecast – Euro Pulls Back Again',
-    category: 'Currencies',
-    subCategory: ['EUR', 'USD', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>Euro vs US Dollar Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 7, 2023 - 5:41 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-123.jpg',
-    content: <div className="blog-content">
-      <p><strong>Euro vs US Dollar Technical Analysis</strong></p>
-    	<p>The Euro initially tried to rally during the trading session on Tuesday but gave back gains near the 1.07 level. The 1.07 level is a large, round, psychologically significant figure and an area where we have seen both support and resistance recently. That being said, the market also has been banging around between the 50-Day EMA and the 200-Day EMA indicators, which typically will mean that we have a lot of noise out there that is going to continue to be a problem.</p>
-	    <p>If we were to turn around and break down below the 200-Day EMA, which is basically at the 1.05 level, then it opens up a trap door to much lower prices, perhaps down to the 1.03 level, followed by the parity level. The parity level of course is an area that will attract a lot of attention due to the fact that it is a level that makes for a good headline number. However, I think at this point we’ve got a situation where we have so much in the way of noise and volatility out there that sooner or later the Euro starts to fall. After all, when you look at the chart you can see that we had fallen rather drastically from the 1.10 level. The last couple of weeks have been very noisy, but it’s also worth noting that it was kicked off by a massive shot lower.</p>	
-	    <p>Jerome Powell is speaking during the session, in front of the United States Congress. That could be a mover of markets, but we will have to wait and see. Either way, it looks as if the sellers are going to continue to take hold of this market, especially as we sold off so drastically from the 50% Fibonacci level of the massive selloff that occurred last year. I think we continue to see more of the same, and therefore I think it’s only a matter of time before we go lower. That being said, if we were to turn around and break above the recent highs, that could change everything but I would not hold my breath on that.</p>
-    </div>
-  },
-  {
-    id: 120,
-    title: 'GBP to USD Forecast – British Pound Gives Up Early Gains',
-    category: 'Currencies',
-    subCategory: ['GBP', 'USD', 'Forecast'],
-    description: <div className="blog-desc">
-      <p>British Pound vs US Dollar Technical Analysis</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 7, 2023 - 6:01 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-121.jpg',
-    content: <div className="blog-content">
-      <p><strong>British Pound vs US Dollar Technical Analysis</strong></p>
-	    <p>The British pound initially tried to rally during the trading session on Tuesday but gave back gains to show signs of hesitation. At this point, it looks like we are trying to build up enough pressure to go lower, breaking down below the support. The market has continued to fail every time we get close to the 50-Day EMA, so it is more likely going to continue to be a situation where traders are fading the rally, taking advantage of US dollar strength.</p>
-	    <p>The 50-Day EMA is also backed up by the 200-Day EMA, so therefore I think there are quite a few different players that look to short this market every time it tries to rally. Ultimately, this is a situation where if we can break down below the 1.1850 level underneath, then the market is likely to drop down to the 1.15 level underneath. The 1.15 level is a large, round, psychologically significant figure, and an area where we have seen a lot of noise previously. That previous resistance should now end up being supported.</p>	
-	    <p>On the other hand, if we turned around and took out the 200-Day EMA, then it’s likely that we could go to the 1.23 level. After that, then we have the 1.25 level above, that is where we have the double top, which started at the 1.24 level. Ultimately, this is a market that I think continues to see a lot of noisy behavior, but I also believe that this is a market that has a major overhang, and therefore it’s going to be difficult for it to go much higher.</p>	
-	    <p>Furthermore, the Federal Reserve is going to remain tighter for longer when it comes to the monetary policy, and therefore it’s likely that we would see the US dollar continue to be strong in general. All things being equal, this is a situation where we continue to see a lot of downward pressure on each rally, and therefore I will be fading each one at the first signs of exhaustion. True, support has held fairly well so far, but it is only a matter of time before it gives way to all of this mounting pressure.</p>
-    </div>
-  },
-  {
-    id: 119,
-    title: 'Alphabet (GOOGL) Stock Moves -1.34%: What You Should Know',
-    category: 'Markets',
-    subCategory: ['Alphabet', 'stocks', 'GOOGL'],
-    description: <div className="blog-desc">
-      <p>Alphabet (GOOGL) closed the most recent trading day at $93.86, moving -1.34% from the previous trading session. This change was narrower than the S&P 500's 1.53% loss on the day. Meanwhile, the Dow lost 1.72%, and the Nasdaq, a tech-heavy index, lost 3.27%.</p>
-    </div>,
-    authorName: 'Zacks Equity Research',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 8, 2023 - 2:45 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-120.jpg',
-    content: <div className="blog-content">
-      <p>Alphabet (GOOGL) closed the most recent trading day at $93.86, moving -1.34% from the previous trading session. This change was narrower than the S&P 500's 1.53% loss on the day. Meanwhile, the Dow lost 1.72%, and the Nasdaq, a tech-heavy index, lost 3.27%.</p>
-	    <p>Coming into today, shares of the internet search leader had lost 7.55% in the past month. In that same time, the Computer and Technology sector lost 1.34%, while the S&P 500 lost 1.28%.</p>
-	    <p>Wall Street will be looking for positivity from Alphabet as it approaches its next earnings report date. On that day, Alphabet is projected to report earnings of $1.09 per share, which would represent a year-over-year decline of 11.38%. Our most recent consensus estimate is calling for quarterly revenue of $56.89 billion, up 1.56% from the year-ago period.</p>	
-	    <p>Looking at the full year, our Zacks Consensus Estimates suggest analysts are expecting earnings of $5.12 per share and revenue of $246.7 billion. These totals would mark changes of +12.28% and +5.48%, respectively, from last year.</p>	
-	    <p>Any recent changes to analyst estimates for Alphabet should also be noted by investors. These recent revisions tend to reflect the evolving nature of short-term business trends. As a result, we can interpret positive estimate revisions as a good sign for the company's business outlook.</p>
-      <p>Our research shows that these estimate changes are directly correlated with near-term stock prices. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
-      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Within the past 30 days, our consensus EPS projection has moved 0.61% lower. Alphabet currently has a Zacks Rank of #3 (Hold).</p>
-      <p>Digging into valuation, Alphabet currently has a Forward P/E ratio of 18.58. For comparison, its industry has an average Forward P/E of 25.2, which means Alphabet is trading at a discount to the group.</p>
-      <p>Meanwhile, GOOGL's PEG ratio is currently 1.31. This popular metric is similar to the widely-known P/E ratio, with the difference being that the PEG ratio also takes into account the company's expected earnings growth rate. The Internet - Services industry currently had an average PEG ratio of 1.36 as of yesterday's close.</p>
-      <p>The Internet - Services industry is part of the Computer and Technology sector. This group has a Zacks Industry Rank of 64, putting it in the top 26% of all 250+ industries.</p>
-      <p>The Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
-      <p>Be sure to follow all of these stock-moving metrics, and many more, on Zacks.com.</p>
-    </div>
-  },
-  {
-    id: 118,
-    title: 'Berkshire Hathaway resumes Occidental purchases, stake reaches 22.2%',
-    category: 'Markets',
-    subCategory: ['occidental', 'berkshire', 'purchases'],
-    description: <div className="blog-desc">
-      <p>(Reuters) - Warren Buffett's Berkshire Hathaway Inc has resumed its purchases of Occidental Petroleum Corp shares after a five-month hiatus, increasing its stake in the oil company to about 22.2%, a regulatory filing showed on Tuesday.</p>
-    </div>,
-    authorName: 'Jonathan Stempel',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 8, 2023 - 6:01 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-119.jpg',
-    content: <div className="blog-content">
-      <p>By Jonathan Stempel</p>
-	    <p>(Reuters) - Warren Buffett's Berkshire Hathaway Inc has resumed its purchases of Occidental Petroleum Corp shares after a five-month hiatus, increasing its stake in the oil company to about 22.2%, a regulatory filing showed on Tuesday.</p>
-	    <p>Berkshire paid about $355 million for 5.8 million Occidental shares between March 3 and March 7, according to the filing.</p>	
-	    <p>The purchases were the first Berkshire has disclosed since late September. It ended last year with a 21.4% stake.</p>	
-	    <p>In August, Berkshire won U.S. Federal Energy Regulatory Commission permission to buy up to 50% of Occidental's common stock.</p>
-      <p>Buffett's company now owns about 200.2 million Occidental shares worth $12.2 billion, based on Tuesday's closing price of $60.85.</p>
-      <p>Those shares would generate about $144 million of annual dividends, following a 38% increase that Occidental announced last month.</p>
-      <p>Berkshire also owns $10 billion of Occidental preferred stock that throws off $800 million of annual dividends, plus warrants to buy another $5 billion of common stock.</p>
-      <p>Occidental ended January with about 900 million shares outstanding.</p>
-      <p>Berkshire began buying large quantities of the Houston-based company's stock about one year ago.</p>
-      <p>After its stake surpassed 20%, Berkshire adopted the equity method of accounting for its holdings, and now reports its share of Occidental's results with its own.</p>
-      <p>Accounting rules normally require the equity method above the 20% threshold, reflecting an assumption that the holder might exert significant influence.</p>
-      <p>Berkshire ended 2022 with $128.6 billion of cash and equivalents. It plans to keep a $30 billion cushion.</p>
-      <p>Occidental's share price more than doubled in 2022, benefiting from higher oil prices after Russia invaded Ukraine.</p>
-      <p>Though fourth-quarter profit was lower than analysts expected, Occidental said it planned to raise capital spending this year and could repurchase up to $3 billion of stock.</p>
-      <p>Berkshire also owns dozens of companies including Geico car insurance, the BNSF railroad, consumer brands such as Dairy Queen and Fruit of the Loom, and other stocks including Apple Inc.</p>
+      <p>Silvergate served the cryptocurrency industry, while SVB was the bank for Silicon Valley tech startups.</p>
+      <p>It's a black week for the American financial system: In just 48 hours, the banking sector has been shaken by the collapse of two major banks.</p>
+      <p>Most worrying is that these banks served two so-called growth economic sectors: the tech sector and the cryptocurrency industry.</p>
+      <p>SVB Financial Group,  (SIVB) - Get Free Report the lender to Silicon Valley startups, failed on March 10, falling into the hands of the FDIC. The federal agency has taken control of the banking company, reviving the ghosts of the 2008 financial crisis.</p>
+      <p>"Silicon Valley Bank, Santa Clara, California, was closed today by the California Department of Financial Protection and Innovation, which appointed the Federal Deposit Insurance Corporation as receiver," the federal agency said in a news release.</p>
+      <p>"All insured depositors will have full access to their insured deposits no later than Monday morning, March 13, 2023. The FDIC will pay uninsured depositors an advance dividend within the next week. Uninsured depositors will receive a receivership certificate for the remaining amount of their uninsured funds."</p>
+      <p>It added that it may pay a dividend to uninsured depositors as it sells the assets of SVB</p>
+      <p>The FDIC is a guarantor for bank depositors.</p>
+      <p><strong>SVB: The To-Go Bank for Tech Startups</strong></p>
+      <p>At the end of last year SVB had $209 billion in total assets and $175 billion in total deposits. SVB becomes the second biggest failure of a U.S. bank after Washington Mutual in 2008.</p>
+      <p>SVB was a central player in the innovation economy. It was the backbone of the tech industry in Silicon Valley. It played an important role in the startup ecosystem by providing specialized financial services, industry expertise, a valuable network, and a strong reputation.</p>
+      <p>It also offered a range of financial services tailored specifically to the needs of startups, such as venture debt, corporate banking, and asset management. These services are designed to help startups manage their finances, optimize their cash flow, and scale their businesses.</p>
+      <p>SVB suffered from the rise in interest rates from the Federal Reserve because it hurt the value of its investment assets, especially bonds. As a result, the bank had to resort to a capital raise as many startups withdrew their deposits from the bank since they were burning a lot of cash.</p>
+      <p>SVB had to sell bonds, primarily U.S. Treasury securities, at a discount to cover these withdrawals. The rise in interest rates has made existing bonds less valuable. In selling these bond positions, SVB had to take a significant loss.</p>
+      <p>But its attempt to raise $2.25 billion failed.</p>
+      <p><strong>Crypto Bank Silvergate Collapsed</strong></p>  
+      <p>Two days earlier, Silvergate, the crypto bank, collapsed. The bank was where most of the big crypto firms went, because traditional banks did not want to do business with them. And that reluctance stemmed from warnings from regulators who consider the crypto industry a risky sector.</p>
+      <p>The company said on March 8 that it intended "to wind down operations and voluntarily liquidate the bank in an orderly manner and in accordance with applicable regulatory processes."</p>
+      <p>It added: "In light of recent industry and regulatory developments, Silvergate believes that an orderly wind down of bank operations and a voluntary liquidation of the bank is the best path forward."</p>  
+      <p>"The bank’s wind down and liquidation plan includes full repayment of all deposits. The Company is also considering how best to resolve claims and preserve the residual value of its assets, including its proprietary technology and tax assets."</p>
+      <p><strong>Verging on Bigger Fall Than 2008: Economist Schiff</strong></p>
+      <p>The rout of the La Jolla, Calif., bank was due to pressure from regulators, in particular the Department of Justice, which has opened an investigation into its business relations with the empire of the former crypto king Sam Bankman-Fried.</p>
+      <p>Bankman-Fried has been charged with 12 counts of fraud, stemming from the collapse of his crypto empire, the cryptocurrency exchange FTX and its sister company, Alameda Research.</p>
+      <p>Silvergate was established in 1988. The bank initially specialized in lending to industrial customers and at the time also offered loans for both residential and commercial real estate.</p>
+      <p>But in 2013, the bank began to court crypto firms, when traditional banks were reluctant to do so due to the opacity prevailing in the sector. Silvergate thus became the crypto bank. </p>
+      <p>In 2019, the firm made its initial public offering, promising a complete refocus on the industry, which was then experiencing a renaissance. As of Sept. 30, Silvergate had $11.9 billion in digital assets held as deposits. </p>
+      <p>But the bankruptcy of FTX and Alameda on Nov. 11 scared away customers. The bank thus reported only $3.8 billion in digital assets held as deposits as of Dec. 31. FTX was one of Silvergate's big customers.</p>
+      <p>The question now is whether other U.S. banks will fall? Could SVB and Silvergate's issues spread to other regional banks especially since suspicion can lead customers to rush to these banks to withdraw their money?</p>
+      <p>"The U.S. banking system is on the verge of a much bigger collapse than 2008," said economist Peter Schiff, known for his dire predictions. </p>
+      <p>"Banks own long-term paper at extremely low interest rates. They can't compete with short-term Treasuries. Mass withdrawals from depositors seeking higher yields will result in a wave of bank failures."</p>
     </div>
   },
   {
@@ -617,116 +384,9 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-118.jpg',
     content: <div className="blog-content">
       <p>TAIPEI (Reuters) - Alphabet Inc.'s Google said on Wednesday it will launch a T$300 million ($9.8 million) fund over the next three years to help boost the Taiwanese media's continuing operations and digital competitiveness.</p>
-	    <p>Google has come under pressure in some countries to negotiate commercial deals and pay news publishers for their content, though not in Taiwan.Google said it will pay local publishers through what it calls a "Taiwan News Digital Co-prosperity Fund" to strengthen their digital publishing capability.</p>
-	    <p>The fund will help Taiwan local media "hone digital skills, gain expertise and support the sustainable development of Taiwan's news industry", the company said. "Even while Google faces many challenges in the overall international environment, Taiwan remains a crucial global stronghold," Tina Lin, managing director of sales and operations at Google Taiwan, told reporters in Taipei. Google said Taiwan's media industry has been facing major competitive challenges in adapting to the digital age, pointing out that advertising revenues for traditional media outlets have dropped 70% from 2003 to 2020. The initiative marks the latest effort by the internet giant to develop mechanisms to support and compensate regional news providers whose content appears on Google, as it faces the prospect that governments may impose regulations to require such mechanisms.</p>	
-	    <p>An Australian law giving the government power to compel Google and rival Meta Platforms to negotiate content supply deals with media outlets has largely worked, according to an Australian government report in late 2022.</p>	
-    </div>
-  },
-  {
-    id: 116,
-    title: 'My Top FAANG Stock to Buy for the Second Half of 2023 (and Beyond)',
-    category: 'Markets',
-    subCategory: ['FAANG', 'stock',],
-    description: <div className="blog-desc">
-      <p>There's a solid argument to be made for most of the FAANG stocks right now. Just to name a couple examples, Amazon trades for less than half of its recent peak, and Netflix recently reported subscriber numbers that were dramatically better than analysts were expecting.</p>
-    </div>,
-    authorName: 'Matthew Frankel, CFP®',
-    authorurl: 'https://www.fool.com/author/2280/',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 8, 2023 - 6:18 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-117.jpg',
-    content: <div className="blog-content">
-	<h3>Key Points</h3>
-	<ul><li>Alphabet has been beaten down, with shares trading 40% below their highs.</li></ul>
-  <ul><li>The company has a dominant and profitable core business, as well as some big potential growth drivers.</li></ul>
-	<ul><li>With massive financial flexibility and an attractive valuation, Alphabet is worth a closer look.</li></ul>
-	<p><strong>This dominant industry leader still has lots of growth potential.</strong></p>
-  <p>There's a solid argument to be made for most of the FAANG stocks right now. Just to name a couple examples, Amazon trades for less than half of its recent peak, and Netflix recently reported subscriber numbers that were dramatically better than analysts were expecting.</p>
-  <p>However, as we head into spring, there is one FAANG stock that looks like a particularly strong long-term opportunity while interest rates and inflation remain elevated and economic uncertainty persists: Google parent Alphabet (GOOGL 0.42%) (GOOG 0.51%). The company offers a rare combination of maturity, profitability, and growth potential, and with shares down by about 40% from their highs, it looks like a bargain for patient investors.</p>
-  <p><strong>A core business with maturity and growth potential</strong></p>
-  <p>Roughly 90% of Alphabet's revenue comes from Google Services, and to be fair, this is a collection of relatively mature, ad-driven businesses. The dominant Google Search platform is the biggest component, but this also includes YouTube, Gmail, Android, Chrome, Maps, and other popular consumer-facing platforms.</p>
-  <p>There could still be significant growth potential on this side of the business, but it's not likely to happen in the years ahead. However, Google Services is a collection of rock-solid dominant businesses that produces a reliable stream of high-margin revenue.</p>
-  <p>On the other hand, Google Cloud, which currently accounts for about 10% of the company's revenue, could be a major growth driver in the years to come. It provides business collaboration tools, cloud storage, database services, content delivery networks (CDN), artificial intelligence and machine learning tools, app platforms, and much more. In all, Google Cloud offers more than 150 different products.</p>
-  <p>For the time being, Google Cloud is a relatively small part of the business, but that could change in the coming years. For one thing, Cloud is the fastest-growing part of the company, with revenue increasing 32% year over year in the fourth quarter. It is the only one of the big three cloud providers to gain significant share of the cloud infrastructure market in recent quarters (Amazon's AWS and Microsoft's Azure are the leaders).</p>
-  <p>Not only that, but the cloud market itself is expanding rapidly. The cloud computing market was estimated at $484 billion in size in 2022, but is expected to more than triple by 2030 to a $1.55 trillion opportunity. If Google Cloud can increase its market share, this could end up being a big growth driver.</p>
-  <p><strong>Lots of optionality</strong></p>
-  <p>There are a few other reasons Alphabet is my favorite FAANG stock right now. The "other bets" segment doesn't produce much revenue currently, but that could potentially change in the future. The Waymo self-driving vehicle start-up is especially promising, but there are also some start-ups in healthcare and artificial intelligence, among other industries. To be clear, I'd buy Alphabet even if nothing ever came of these businesses -- but it's a nice addition to the tech titan's future potential. And it also doesn't limit the company's acquisition potential to just organizations that fit into the Google Services and Cloud segments.</p>
-  <p>Finally, it's important to consider Alphabet's stellar financial condition. The company has about $140 billion in cash and securities on its balance sheet, which gives it tremendous financial flexibility, especially when you consider it generated nearly $60 billion in net income over past four quarters alone. Alphabet can fund acquisition opportunities, reinvest in innovation, or opportunistically buy back shares as it sees fit.</p>
-  <p><strong>Should you add Alphabet to your portfolio before the second half of 2023?</strong></p>
-  <p>At some point, inflation will decline back toward historic levels and the Federal Reserve will back off of its interest rate increases, which could be an excellent catalyst for industries like advertising. More economic certainty would likely translate into more ad spending across the core Google Services businesses and would also make enterprise customers more comfortable increasing their spending on cloud services. So while I think Alphabet makes an excellent long-term investment regardless of timing, it could be an especially opportunistic buy while the stock is still about 40% below its highs due to the current economic uncertainty.</p>
-  <p><strong>Should you invest $1,000 in Alphabet right now?</strong></p>
-  <p>Before you consider Alphabet, you'll want to hear this.</p>
-  <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Alphabet wasn't one of them.</p>
-    </div>
-  },
-  {
-    id: 115,
-    title: 'Disney+ Hotstar Will Cease Streaming HBO Content From March 31; Potential Amazon-Warner Bros Deal Reportedly In Works',
-    category: 'Markets',
-    subCategory: ['disney', 'hotstar', 'HBO'],
-    description: <div className="blog-desc">
-      <p>Starting March 31, HBO content will be unavailable on Walt Disney Co (NYSE: DIS) Disney+ Hotstar in India, the latter tweeted.</p>
-    </div>,
-    authorName: 'Anusuya Lahiri',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 8, 2023 - 4:32 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-116.jpg',
-    content: <div className="blog-content">
-      <ul><li>Starting March 31, HBO content will be unavailable on Walt Disney Co (NYSE: DIS) Disney+ Hotstar in India, the latter tweeted.</li></ul>
-      <ul><li>HBO’s catalog, including shows like Succession, The Last of Us, Curb Your Enthusiasm, Game of Thrones, Industry, Watchmen, The Wire and Veep, will leave Disney+ Hotstar starting March 31.</li></ul>
-      <ul><li>Simultaneously, Amazon.Com Inc (NASDAQ: AMZN) may broaden its partnership with Warner Bros. Discovery, Inc (NASDAQ: WBD) in India to stream more HBO content there, TechCrunch reports citing industry analysts.</li></ul>
-      <ul><li>The loss of the premium offering from HBO will hurt Hotstar, which used cricket and the international catalog as the pillars around which it courted a loyal customer base in the South Asian market.</li></ul>
-      <ul><li>In the past two years, Disney has made broader changes within the company and visibly cut down the spending on Hotstar. HBO has scrapped plans to launch HBO Max in India.</li></ul>
-      <ul><li>In February, some Disney+ Hotstar users in India faced disrupted services during a famous cricket match between India and Australia. Hotstar acknowledged it as “unforeseen technical issues” across its apps and web. Domain registrar records show that Hotstar renewed the domain name, Hotstar.com on February 17.</li></ul>
-      <ul><li>Hotstar, one of India’s leading streaming services, lost the streaming rights of the popular IPL cricket tournament.</li></ul>
-      <ul><li>Price Action: DIS shares closed higher by 0.34% at $99.40 premarket on the last check Wednesday.</li></ul>
-	    <p>Don't miss real-time alerts on your stocks - join Benzinga Pro for free! Try the tool that will help you invest smarter, faster, and better.</p>	
-	    <p>This article Disney+ Hotstar Will Cease Streaming HBO Content From March 31; Potential Amazon-Warner Bros Deal Reportedly In Works originally appeared on Benzinga.com</p>
-    </div>
-  },
-  {
-    id: 114,
-    title: 'Metas alternative to ChatGPT leaked online, what we know so far',
-    category: 'Markets',
-    subCategory: ['meta', 'GPT', 'chat'],
-    description: <div className="blog-desc">
-      <p>Meta's rival to ChatGPT has been leaked online and is now available for download. Yahoo Finance investigates how much it differs from Microsoft and Google's AI alternatives.</p>
-    </div>,
-    authorName: 'Brian McGleenon',
-    authorurl: 'https://www.yahoo.com/author/brian-mcgleenon',
-    authorAvatar: 'https://ncx.cx/images/brain-m.jpg',
-    authorContent: '',
-    createdAt: 'Mar 8, 2023 - 5:58 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-115.jpg',
-    content: <div className="blog-content">
-      <p>Meta's rival to ChatGPT has been leaked online and is now available for download. Yahoo Finance investigates how much it differs from Microsoft and Google's AI alternatives.</p>
-	<p>In February, Meta (META) unveiled LLaMA, their memorably-named Large Language Model competitor to Microsoft's ChatGPT and Google's Bard.</p>
-	<p>At the time Mark Zuckerberg's tech-firm stated that they would only give researchers access to the artificial intelligence application, so as to "maintain integrity and prevent misuse".</p>	
-	<p>Meta's initial release statement said: "To maintain integrity and prevent misuse, we are releasing our model under a noncommercial license focused on research use cases, and access to the model will be granted on a case-by-case basis to academic researchers."</p>	
-	<p>However, someone has now leaked Facebook/Meta's Large Language Model alternative to the public via fringe online messaging platform 4Chan.</p>
-  <p>After the leak, developers have taken the new chat-bot app out for a test drive, so what do we know so far?</p>
-  <p>So far Meta's offering in the AI gold-rush to create the ultimate 'automated companion' for our journeys throughout cyber-space is similar in style to ChatGPT and Bard, with an ability to generate human-like responses to prompts and questions.</p>
-  <p>According to popular AI newsletter The Neuron, "early testers are saying that LLaMA isn't as good as the models powering ChatGPT.</p>
-  <p>"That's mostly because ChatGPT has anchored people to chat, and LLaMA wasn't taught how."</p>
-  <p>On machine learning platform Hugging Face, one developer inquired, "anyone know how to get going with LLaMA?"</p>
-  <p>Another platform released the code for LLaMA, on the popular website Github. Where developers had quickly used Meta's code to introduce 'ChatLLaMA', which was described as having a training process that was 15 times faster than ChatGPT.</p>
-  <p>After the leak was detected Meta sent a takedown notice to Hugging Face, citing legal issues.</p>
-  <p>Meta's Chief AI Scientist Yann LeCun has also claimed that although LLaMA is a smaller AI model that uses less parameters than rivals it will be just as powerful, if not more, than other leading language models.</p>
-  <p>Rivals ChatGPT and Google's Bard are trained following the scaling law, which attests that the more parameters the model has access to, the better the result.</p>
-  <p>However, a paper released last month by Meta artificial intelligence researchers claimed that "although it may be cheaper to train a large model to reach a certain level of performance, a smaller one trained longer will ultimately be cheaper at inference".</p>
-  <p>Within artificial intelligence technology, 'inference' explains how an AI model can use the data that it has been trained on to understand new information that it has never been exposed to before. In application, this gives the AI the ability to make decisions and evolve its understanding when fed fresh data.</p>
-  <p>According to AI news outlet The De-Coder, Meta's alternative to ChatGPT "is more compact and faster and is even said to be on par with Google’s PaLM-E model".</p>
-  <p>Google's PaLM-E combines language, speech and robotics, but has not yet been released.</p>
-  <p><strong></strong></p>
-  <p>What are Large Language Models?</p>
-  <p>Large Language Models (LLMs) have captured mass media headlines across the globe since the release of OpenAI's ChatGPT in November, which has received investment from Microsoft (MSFT) to the tune of $10bn (£8.3bn).</p>
-  <p>ChatGPT now has over 100 million users, the fastest application to mass adoption on record, and Microsoft has stated that the new technology will operate as a user's 'co-pilot' as they navigate the web.</p>
-  <p>Large Language Models allow 'artificial intelligence' to generate content on request via a trawl of large data sets, in a matter of seconds.</p>
-  <p>These generative-AI tools can produce haiku, jokes, corporate emails, business plans, fix computer code, write academic essays and even pieces of original fiction in the style of any writer you want, from Joyce and Dostoyevsky, to Shakespeare.</p>
-  <p>Microsoft and Google (GOOG) are competing to build the best models to boost their search engines.</p>
+      <p>Google has come under pressure in some countries to negotiate commercial deals and pay news publishers for their content, though not in Taiwan.Google said it will pay local publishers through what it calls a "Taiwan News Digital Co-prosperity Fund" to strengthen their digital publishing capability.</p>
+      <p>The fund will help Taiwan local media "hone digital skills, gain expertise and support the sustainable development of Taiwan's news industry", the company said. "Even while Google faces many challenges in the overall international environment, Taiwan remains a crucial global stronghold," Tina Lin, managing director of sales and operations at Google Taiwan, told reporters in Taipei. Google said Taiwan's media industry has been facing major competitive challenges in adapting to the digital age, pointing out that advertising revenues for traditional media outlets have dropped 70% from 2003 to 2020. The initiative marks the latest effort by the internet giant to develop mechanisms to support and compensate regional news providers whose content appears on Google, as it faces the prospect that governments may impose regulations to require such mechanisms.</p>  
+      <p>An Australian law giving the government power to compel Google and rival Meta Platforms to negotiate content supply deals with media outlets has largely worked, according to an Australian government report in late 2022.</p>  
     </div>
   },
   {
@@ -745,10 +405,10 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-114.jpg',
     content: <div className="blog-content">
       <p>Howard Marks put it nicely when he said that, rather than worrying about share price volatility, 'The possibility of permanent loss is the risk I worry about... and every practical investor I know worries about.' So it might be obvious that you need to consider debt, when you think about how risky any given stock is, because too much debt can sink a company. We note that Amazon.com, Inc. (NASDAQ:AMZN) does have debt on its balance sheet. But should shareholders be worried about its use of debt?</p>
-	<p><strong>Why Does Debt Bring Risk?</strong></p>
-	<p>Debt assists a business until the business has trouble paying it off, either with new capital or with free cash flow. Ultimately, if the company can't fulfill its legal obligations to repay debt, shareholders could walk away with nothing. However, a more common (but still painful) scenario is that it has to raise new equity capital at a low price, thus permanently diluting shareholders. Having said that, the most common situation is where a company manages its debt reasonably well - and to its own advantage. The first thing to do when considering how much debt a business uses is to look at its cash and debt together.</p>	
-	<p><strong>What Is Amazon.com's Net Debt?</strong></p>	
-	<p>The image below, which you can click on for greater detail, shows that at December 2022 Amazon.com had debt of US$85.1b, up from US$57.7b in one year. However, because it has a cash reserve of US$70.0b, its net debt is less, at about US$15.1b.</p>
+  <p><strong>Why Does Debt Bring Risk?</strong></p>
+  <p>Debt assists a business until the business has trouble paying it off, either with new capital or with free cash flow. Ultimately, if the company can't fulfill its legal obligations to repay debt, shareholders could walk away with nothing. However, a more common (but still painful) scenario is that it has to raise new equity capital at a low price, thus permanently diluting shareholders. Having said that, the most common situation is where a company manages its debt reasonably well - and to its own advantage. The first thing to do when considering how much debt a business uses is to look at its cash and debt together.</p> 
+  <p><strong>What Is Amazon.com's Net Debt?</strong></p>  
+  <p>The image below, which you can click on for greater detail, shows that at December 2022 Amazon.com had debt of US$85.1b, up from US$57.7b in one year. However, because it has a cash reserve of US$70.0b, its net debt is less, at about US$15.1b.</p>
   <p><strong>How Strong Is Amazon.com's Balance Sheet?</strong></p>
   <p>The latest balance sheet data shows that Amazon.com had liabilities of US$155.4b due within a year, and liabilities of US$161.2b falling due after that. Offsetting this, it had US$70.0b in cash and US$42.0b in receivables that were due within 12 months. So it has liabilities totalling US$204.6b more than its cash and near-term receivables, combined.</p>
   <p>While this might seem like a lot, it is not so bad since Amazon.com has a huge market capitalization of US$958.6b, and so it could probably strengthen its balance sheet by raising capital if it needed to. However, it is still worthwhile taking a close look at its ability to pay off debt.</p>
@@ -762,87 +422,45 @@ const blogListdata = [
     </div>
   },
   {
-    id: 112,
-    title: 'Amazon Owns the Fastest-Growing Digital Ad Business -- and Its Not Even Close',
+    id: 114,
+    title: 'Metas alternative to ChatGPT leaked online, what we know so far',
     category: 'Markets',
-    subCategory: ['amazon', 'digital business', 'growing'],
+    subCategory: ['meta', 'GPT', 'chat'],
     description: <div className="blog-desc">
-      <p>This technology conglomerate is building a sizable profitable ad business capable of challenging Meta's family of apps and Google's advertising empire.</p>
+      <p>Meta's rival to ChatGPT has been leaked online and is now available for download. Yahoo Finance investigates how much it differs from Microsoft and Google's AI alternatives.</p>
     </div>,
-    authorName: 'Rob Starks Jr',
-    authorurl: 'https://www.fool.com/author/2051',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorName: 'Brian McGleenon',
+    authorurl: 'https://www.yahoo.com/author/brian-mcgleenon',
+    authorAvatar: 'https://ncx.cx/images/brain-m.jpg',
     authorContent: '',
-    createdAt: 'Mar 8, 2023 - 10:05 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-113.jpg',
+    createdAt: 'Mar 8, 2023 - 5:58 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-115.jpg',
     content: <div className="blog-content">
-	<h3>KEY POINTS</h3>
-  <ul><li>Amazon ads are the most effective and cheapest way to advertise online, making their ads more attractive for brands versus competitors.</li></ul>
-  <ul><li>The ad business is likely already its most profitable and valuable segment.</li></ul>
-  <ul><li>The best thesis for investing in this stock as the economy normalizes over the next year or two is its prowess in digital advertising.</li></ul>
-	<p><strong>This technology conglomerate is building a sizable profitable ad business capable of challenging Meta's family of apps and Google's advertising empire</strong></p>	
-	<p>It turns out that even mighty Amazon (AMZN 0.40%) is not immune to the adverse effects of inflation and rising interest rates. For example, its quarterly revenue growth rates for its North American and International e-commerce segments peaked in the first quarter of 2021. Even worse, both e-commerce businesses turned in an unprofitable fourth quarter of 2022.</p>
-  <p>As for Amazon Web Services (AWS), revenue has consistently decelerated over the last several years amid intensifying competition and the law of large numbers, which states that the larger a company grows, the more difficult it is to achieve prior growth rates.</p>
-  <p>For instance, in the fourth quarter of 2018, AWS grew revenue at 45% year over year, and in the fourth quarter of 2022, the cloud unit only produced 20% year-over-year revenue growth. Additionally, operating income for AWS dropped 2% year over year during the latest fourth quarter.</p>
-  <p>Since Amazon's primary growth engines offered investors little to be excited about since the first quarter of 2021, investors became fascinated with the growth potential of Amazon's nascent digital advertising business. However, since Alphabet's (NASDAQ: GOOGL) (NASDAQ: GOOG) Google ad business and Meta Platforms' (NASDAQ: META) family of app businesses, including Facebook, dominated the online advertising industry for about a decade, the question is whether Amazon's advertising business is worth investors' attention as a possible long-term growth engine.</p>
-  <p>Let's take a look.</p>
-  <p><storng>Its advertising unit is taking share</storng></p>
-  <p>According to an article by Axios, which cited statistics from Insider Intelligence, Google and Meta combined in 2022 for a less than 50% market share for the first time in eight years. These statistics show that both companies are losing market share, and the prime cause is Amazon, which ended 2022 with a 7.3% digital ad market share. Still, analysts project its share to explode to nearly 13% by 2024, closing the gap with Meta's projected 17.9% share -- a drop from the 19.6% market share Meta achieved in 2022.</p>
-  <p>Many advertisers are gravitating to Amazon ads since it's the most effective and cheapest way to advertise online.</p>
-  <p>According to a Feedvisor report that cites a 2020 survey of over 1,000 brands, 36% of all brands say Amazon generates the highest return on media spend, followed by paid social at 29% and then Google at 27%. Even better, 59% of the brands on Amazon's e-commerce marketplace say that it drives the highest return on media spending, followed by Google at 22% and then paid social at 17%.</p>
-  <p>As far as cost, according to a report from e-commerce analytics firm Sellics, Amazon ads are 68% cheaper than Google, 44% cheaper than Facebook, 79% cheaper than Instagram, and 13% cheaper than e-commerce competitor Walmart (NYSE: WMT).</p>
-  <p><strong>Why investors are interested in its ad unit</strong></p>
-  <p>While Alphabet's advertising unit and Meta's advertising lost approximately 4% year over year in revenue in the fourth quarter, Amazon's ad unit generated 19% year over year, despite an ad market that global media company Magna Global forecasts to slow further during 2023. And only the 20% revenue growth of the AWS segment was better for it in the fourth quarter. However, the prime rationale behind the investors' strong interest in the ad segment is that it is likely the most profitable piece of its business.</p>
-  <p>While the company does not reveal the profitability of its ad business, analysts have roughly figured the profitability that Amazon gains in advertising by comparing it to Google and Meta's advertising units' profitability and using a few assumptions. Most analysts conclude that Amazon's advertising unit is more profitable than AWS.</p>
-  <p>In addition, AWS also requires substantial capital investment, long-term investments in property, equipment, land, computers, and software needed to operate the cloud business. In its fourth-quarter 2021 earnings call, Chief Financial Officer Brian Olsavsky revealed for the first time that just under 40% of its capital expenses go toward supporting AWS.</p>
-  <p>Suppose that is true; in 2022, $25 billion of capital expenditures went into supporting AWS, while AWS only produced $22.84 billion in operating income in the same year. Amazon likely uses all of the AWS segment's operating income to pay the cloud unit's capital expenses. Thus AWS currently has a feeble free cash flow. And if you assume advertising is a less capital-intensive business, it produces better free cash flow than AWS.</p>
-  <p>So however you want to parse it, advertising is a rapidly growing, profitable growth engine for Amazon that might already be its most valuable business.</p>
-  <p><strong>A foggy short-term future</strong></p>
-  <p>Amazon shareholders should understand that a recession would not benefit any of its businesses, including advertising, which relies substantially on the health of its e-commerce markets.</p>
-  <p>Suppose you want to invest in Amazon stock for its long-term potential in advertising. Be aware that things could get much worse before getting better, and the ad business won't ride in to save the day.</p>
-  <p>Still, as the economy normalizes over the next year or two, the ad business will likely become its most significant growth engine and a strong thesis for becoming a shareholder.</p>
-  <p><strong>Should you invest $1,000 in Amazon.com right now?</strong></p>
-  <p>Before you consider Amazon.com, you'll want to hear this.</p>
-  <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Amazon.com wasn't one of them.</p>
-  <p>Stock Advisor is the online investing service that has beaten the stock market by 3x since 2002*. And right now, they think there are 10 stocks that are better buys.</p>
-    </div>
-  },
-  {
-    id: 111,
-    title: 'How Big Tech performed this earnings season amid layoffs, AI integration trends',
-    category: 'Markets',
-    subCategory: ['earnings', 'amid layoffs', 'integration'],
-    description: <div className="blog-desc">
-      <p>Yahoo Finance tech reporter Allie Garfinkle joins the Live show to grade how tech sector leaders performed this past earnings season amid labor trends, A.I. adoption, and TikTok facing legislative headwinds.</p>
-    </div>,
-    authorName: 'Yahoo Finance',
-    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
-    authorAvatar: 'https://ncx.cx/images/yahoo-finance.webp',
-    authorContent: '',
-    createdAt: 'Mar 8, 2023 - 12:35 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-112.jpg',
-    content: <div className="blog-content">
-      <p>Yahoo Finance tech reporter Allie Garfinkle joins the Live show to grade how tech sector leaders performed this past earnings season amid labor trends, A.I. adoption, and TikTok facing legislative headwinds.</p>
-	    <p>SEANA SMITH: Meta planning another round of layoffs this week, that's according to reports from Bloomberg. Now, the move would add thousands more to the 11,000 workers that were cut from the social media giant last November. It is the latest in a tech industry that has certainly seen a massive contraction over the last several months.</p>
-	    <p>Here to break down how the major players are navigating this and who's coming out on top, Yahoo Finance's tech reporter Allie Garfinkle has that for us. Hey, Allie.</p>	
-	    <p>ALLIE GARFINKLE: Hi, Seana. So while I'm not a teacher, I want to break this down report card style because these companies are all in incredibly different positions. I want to start with Apple, who is at the top of the pack with an A. Now, Apple's earnings were actually not standard Apple. We actually saw a rare miss out of them this last cycle.</p>	
-	    <p>However, there's a key number that's really important here for how things are looking, and it's 2 billion devices. That is how big their install base is. I believe that's more than 20% of the world's population. So the iPhone install base is at an all-time high, and it's sending the company's services revenue to a record of $20.8 billion.</p>
-      <p>What does this-- what does this all amount to? It says that analysts say that this bodes extremely well for Apple's future as they increase how much individual users spend. So not a standard quarter for Apple, but there is a lot of good news there. So we'll give them an A. Maybe we'll fudge it to an A-minus.</p>
-      <p>Now, next is Microsoft. So Microsoft will get a B, slight top line B, slight bottom line miss, but they won the ChatGPT lottery. Now, while their cloud growth is slowing, it slowed to about 31%, just barely beating analysts' expectations, that $10 billion investment in ChatGPT came at exactly the right moment. So we're going to give them a B for foresight.</p>
-      <p>Next, Amazon. Revenue beat, earned EPS miss. Amazon has a lot to prove here. They're really doubling down on cost cutting, and I'm giving them a C because of that cloud number. Amazon Web Services net sales came in missing. It was a $21.3 billion actual versus $21.76 billion expected.</p>
-      <p>Now, that doesn't seem like a big miss. And to be fair, it is not. However, that has been a stalwart-- AWS has been a stalwart of Apple-- of Apple-- of Amazon's business for so long, that it is very important that they keep that growth up or come up with a new plan.</p>
-      <p>And last, we have Meta, which is going to get a C. Yes, they beat key revenue expectations, and there are growing losses on the Reality Labs operation, hence the C. However, they are investing in a $40 billion stock buyback plan, and they're betting that this year of efficiency, this cost-cutting plan, is going to work. I'm withholding judgment for now, but they are certainly ready to bet on themselves.</p>
-      <p>Of course, now Meta being in the news because they're reportedly set to do another round of layoffs that could affect thousands and could come as early as this week. That said, Meta is the only one we know is doing layoffs for the time being. However, given Jerome Powell's testimony earlier today that rates will continue rising, the macroeconomic climate that has been so difficult for so many of these companies will continue to be difficult, so we'll have to see how they navigate it moving forward.</p>
-      <p>DAVID BRIGGS: Very good. So, Allie, you mentioned the ChatGPT lottery being won by Microsoft. Let's shift to the other one, which is the TikTok ban boost, if you will. Who stands to benefit the most? Because you're young and I'm old and because you're our tech reporter, is it YouTube Shorts, therefore Google? Is it Meta with their Reels? Or is it even Snap, who's seen a really solid pop to start the year? Who's the closest to emulating it in terms of social media style?</p>
-      <p>ALLIE GARFINKLE: That is a really good question, Dave, and I'll be candid. I think there are a couple of different answers, and we would have to have that whole scenario play out to really know who the winner is. That said, I'm going to actually throw my hat in on Snap here. Every analyst I've ever spoken to who's bullish on Snap has one key argument, and it's that it is essential for teenagers. And if that's like something TikTok has become known for, it's certainly something Snap is known for, definitely on Wall Street and, to be fair, among the teenagers I've talked to.</p>
-      <p>So I'd say if there's anyone who's set to really benefit, I would put money on Snap. That said, YouTube Shorts is something Google has massively invested in. Meta has been preparing for the moment where, hopefully, TikTok is less of a competitor for a long time. I think we could see a massive shift in the competitive landscape. But I would say the biggest beneficiary could be Snap, and the market certainly seems to think so.</p>
-      <p>DAVID BRIGGS: That's an interesting take because I sat at a Celtics game with a 15-year-old the other day, and he was on Snap the entire time, not TikTok.</p>
-      <p>ALLIE GARFINKLE: The kids love it.</p>
-      <p>DAVID BRIGGS: So, yeah--</p>
-      <p>ALLIE GARFINKLE: The kids love it.</p>
-      <p>DAVID BRIGGS: --they really do. I'm curious--</p>
-      <p>ALLIE GARFINKLE: They love it.</p>
-      <p>DAVID BRIGGS: --to see where they go from here. Allie Garfinkle, thanks so much. Good stuff.</p>
+      <p>Meta's rival to ChatGPT has been leaked online and is now available for download. Yahoo Finance investigates how much it differs from Microsoft and Google's AI alternatives.</p>
+      <p>In February, Meta (META) unveiled LLaMA, their memorably-named Large Language Model competitor to Microsoft's ChatGPT and Google's Bard.</p>
+      <p>At the time Mark Zuckerberg's tech-firm stated that they would only give researchers access to the artificial intelligence application, so as to "maintain integrity and prevent misuse".</p>  
+      <p>Meta's initial release statement said: "To maintain integrity and prevent misuse, we are releasing our model under a noncommercial license focused on research use cases, and access to the model will be granted on a case-by-case basis to academic researchers."</p>  
+      <p>However, someone has now leaked Facebook/Meta's Large Language Model alternative to the public via fringe online messaging platform 4Chan.</p>
+      <p>After the leak, developers have taken the new chat-bot app out for a test drive, so what do we know so far?</p>
+      <p>So far Meta's offering in the AI gold-rush to create the ultimate 'automated companion' for our journeys throughout cyber-space is similar in style to ChatGPT and Bard, with an ability to generate human-like responses to prompts and questions.</p>
+      <p>According to popular AI newsletter The Neuron, "early testers are saying that LLaMA isn't as good as the models powering ChatGPT.</p>
+      <p>"That's mostly because ChatGPT has anchored people to chat, and LLaMA wasn't taught how."</p>
+      <p>On machine learning platform Hugging Face, one developer inquired, "anyone know how to get going with LLaMA?"</p>
+      <p>Another platform released the code for LLaMA, on the popular website Github. Where developers had quickly used Meta's code to introduce 'ChatLLaMA', which was described as having a training process that was 15 times faster than ChatGPT.</p>
+      <p>After the leak was detected Meta sent a takedown notice to Hugging Face, citing legal issues.</p>
+      <p>Meta's Chief AI Scientist Yann LeCun has also claimed that although LLaMA is a smaller AI model that uses less parameters than rivals it will be just as powerful, if not more, than other leading language models.</p>
+      <p>Rivals ChatGPT and Google's Bard are trained following the scaling law, which attests that the more parameters the model has access to, the better the result.</p>
+      <p>However, a paper released last month by Meta artificial intelligence researchers claimed that "although it may be cheaper to train a large model to reach a certain level of performance, a smaller one trained longer will ultimately be cheaper at inference".</p>
+      <p>Within artificial intelligence technology, 'inference' explains how an AI model can use the data that it has been trained on to understand new information that it has never been exposed to before. In application, this gives the AI the ability to make decisions and evolve its understanding when fed fresh data.</p>
+      <p>According to AI news outlet The De-Coder, Meta's alternative to ChatGPT "is more compact and faster and is even said to be on par with Google’s PaLM-E model".</p>
+      <p>Google's PaLM-E combines language, speech and robotics, but has not yet been released.</p>
+      <p><strong></strong></p>
+      <p>What are Large Language Models?</p>
+      <p>Large Language Models (LLMs) have captured mass media headlines across the globe since the release of OpenAI's ChatGPT in November, which has received investment from Microsoft (MSFT) to the tune of $10bn (£8.3bn).</p>
+      <p>ChatGPT now has over 100 million users, the fastest application to mass adoption on record, and Microsoft has stated that the new technology will operate as a user's 'co-pilot' as they navigate the web.</p>
+      <p>Large Language Models allow 'artificial intelligence' to generate content on request via a trawl of large data sets, in a matter of seconds.</p>
+      <p>These generative-AI tools can produce haiku, jokes, corporate emails, business plans, fix computer code, write academic essays and even pieces of original fiction in the style of any writer you want, from Joyce and Dostoyevsky, to Shakespeare.</p>
+      <p>Microsoft and Google (GOOG) are competing to build the best models to boost their search engines.</p>
     </div>
   },
   {
@@ -861,10 +479,10 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-111.jpg',
     content: <div className="blog-content">
       <p>In this article, we will discuss the 13 most profitable renewable energy stocks. If you want to see more companies in this selection, go to the 5 Most Profitable Renewable Energy Stocks.</p>
-	    <p>There has been a global energy crisis since the start of the conflict between Russia and Ukraine. European countries realized they heavily relied on Russian natural gas and crude oil and needed to transition away from these sources to reduce their dependence. During the conflict, the price of crude oil and natural gas spiked significantly due to global uncertainty, and the importance of oil and gas supply took center stage in the political landscape. As a result, there has been an acceleration in the installation of renewable energy resources. According to the International Energy Agency (IEA), the capacity growth of renewable energy is set to double in the next five years. During this process, renewable energy sources will overtake coal and become the biggest energy source for the generation of electricity.</p>
-	    <p>The IEA anticipates the capacity of renewable energy to grow by 2,400 gigawatts (GW) during the 2022 to 2027 period. The increase in the capacity growth of renewable energy is 30% higher than the forecast one year ago. This reflects the positive intent of governments around the world on transforming towards renewable energy sources. The IEA also notes that 90% of the increase in electricity capacity globally will be done through renewable sources, and as a result, renewable energy will become the biggest source of electricity generation by early 2025. IEA Director Fatih Birol shared that in the next five years, the world will add as much renewable energy as in the last two decades.</p>	
-	    <p>Besides Europe, India, China, and the US are also aggressively pursuing the rollout of renewable energy at various levels. The 14th Five-Year Plan rolled out by China in January 2022 focuses on making China a behemoth in the field of renewable energy, as the country will be responsible for nearly 50% of new capacity additions through renewable energy during the 2022 to 2027 period. Meanwhile, the Inflation Reduction Act (IRA) passed in August 2022 in the US intends to provide long-term support to the aggressive expansion and adoption of renewable energy by various corporations. Meanwhile, India is also set to increase its investment in solar manufacturing by as much as $25 billion between 2022 to 2027. Shell plc (NYSE:SHEL), Equinor ASA (NYSE:EQNR), and TotalEnergies SE (NYSE:TTE) are some of the most profitable renewable energy stocks in the industry currently.</p>	
-	    <p>A thorough research was conducted on the renewable energy sector, including its current market trends, growth projections, and key players, to gain a comprehensive understanding of the industry and identify the most promising companies within it. We then shortlisted the 13 most profitable renewable energy stocks on the basis of their trailing 12 months’ net income. We have included non-pure play companies in the list as well that have significant exposure to the renewable sector. The companies have been ranked in ascending order of their net income.</p>
+      <p>There has been a global energy crisis since the start of the conflict between Russia and Ukraine. European countries realized they heavily relied on Russian natural gas and crude oil and needed to transition away from these sources to reduce their dependence. During the conflict, the price of crude oil and natural gas spiked significantly due to global uncertainty, and the importance of oil and gas supply took center stage in the political landscape. As a result, there has been an acceleration in the installation of renewable energy resources. According to the International Energy Agency (IEA), the capacity growth of renewable energy is set to double in the next five years. During this process, renewable energy sources will overtake coal and become the biggest energy source for the generation of electricity.</p>
+      <p>The IEA anticipates the capacity of renewable energy to grow by 2,400 gigawatts (GW) during the 2022 to 2027 period. The increase in the capacity growth of renewable energy is 30% higher than the forecast one year ago. This reflects the positive intent of governments around the world on transforming towards renewable energy sources. The IEA also notes that 90% of the increase in electricity capacity globally will be done through renewable sources, and as a result, renewable energy will become the biggest source of electricity generation by early 2025. IEA Director Fatih Birol shared that in the next five years, the world will add as much renewable energy as in the last two decades.</p> 
+      <p>Besides Europe, India, China, and the US are also aggressively pursuing the rollout of renewable energy at various levels. The 14th Five-Year Plan rolled out by China in January 2022 focuses on making China a behemoth in the field of renewable energy, as the country will be responsible for nearly 50% of new capacity additions through renewable energy during the 2022 to 2027 period. Meanwhile, the Inflation Reduction Act (IRA) passed in August 2022 in the US intends to provide long-term support to the aggressive expansion and adoption of renewable energy by various corporations. Meanwhile, India is also set to increase its investment in solar manufacturing by as much as $25 billion between 2022 to 2027. Shell plc (NYSE:SHEL), Equinor ASA (NYSE:EQNR), and TotalEnergies SE (NYSE:TTE) are some of the most profitable renewable energy stocks in the industry currently.</p> 
+      <p>A thorough research was conducted on the renewable energy sector, including its current market trends, growth projections, and key players, to gain a comprehensive understanding of the industry and identify the most promising companies within it. We then shortlisted the 13 most profitable renewable energy stocks on the basis of their trailing 12 months’ net income. We have included non-pure play companies in the list as well that have significant exposure to the renewable sector. The companies have been ranked in ascending order of their net income.</p>
       <p>Most Profitable Renewable Energy Stocks</p>
       <p><strong>13. Enbridge Inc. (NYSE:ENB)</strong></p>
       <p>Trailing 12 months Net Income: $1.91 billion</p>
@@ -901,39 +519,473 @@ const blogListdata = [
       <p>In addition to Tesla, Inc. (NASDAQ:TSLA), Shell plc (NYSE:SHEL), Equinor ASA (NYSE:EQNR), and TotalEnergies SE (NYSE:TTE) are also some of the most profitable renewable energy stocks.</p>
       <p></p>
       <p></p>
-
     </div>
   },
   {
-    id: 109,
-    title: 'Bitcoin falls to its lowest price in weeks as crypto markets tumble amid Silvergate troubles',
-    category: 'Crypto',
-    subCategory: ['markets', 'crypto', 'bitcoin'],
+    id: 115,
+    title: 'Disney+ Hotstar Will Cease Streaming HBO Content From March 31; Potential Amazon-Warner Bros Deal Reportedly In Works',
+    category: 'Markets',
+    subCategory: ['disney', 'hotstar', 'HBO'],
     description: <div className="blog-desc">
-      <p>Cryptocurrency markets are tumbling as the industry's once go-to bank faces a slew of financial woes, potentially threatening global crypto liquidity.</p>
+      <p>Starting March 31, HBO content will be unavailable on Walt Disney Co (NYSE: DIS) Disney+ Hotstar in India, the latter tweeted.</p>
     </div>,
-    authorName: 'Morgan Chittum',
+    authorName: 'Anusuya Lahiri',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 3, 2023 - 7:28 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-110.jpg',
+    createdAt: 'Mar 8, 2023 - 4:32 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-116.jpg',
     content: <div className="blog-content">
+      <ul><li>Starting March 31, HBO content will be unavailable on Walt Disney Co (NYSE: DIS) Disney+ Hotstar in India, the latter tweeted.</li></ul>
+      <ul><li>HBO’s catalog, including shows like Succession, The Last of Us, Curb Your Enthusiasm, Game of Thrones, Industry, Watchmen, The Wire and Veep, will leave Disney+ Hotstar starting March 31.</li></ul>
+      <ul><li>Simultaneously, Amazon.Com Inc (NASDAQ: AMZN) may broaden its partnership with Warner Bros. Discovery, Inc (NASDAQ: WBD) in India to stream more HBO content there, TechCrunch reports citing industry analysts.</li></ul>
+      <ul><li>The loss of the premium offering from HBO will hurt Hotstar, which used cricket and the international catalog as the pillars around which it courted a loyal customer base in the South Asian market.</li></ul>
+      <ul><li>In the past two years, Disney has made broader changes within the company and visibly cut down the spending on Hotstar. HBO has scrapped plans to launch HBO Max in India.</li></ul>
+      <ul><li>In February, some Disney+ Hotstar users in India faced disrupted services during a famous cricket match between India and Australia. Hotstar acknowledged it as “unforeseen technical issues” across its apps and web. Domain registrar records show that Hotstar renewed the domain name, Hotstar.com on February 17.</li></ul>
+      <ul><li>Hotstar, one of India’s leading streaming services, lost the streaming rights of the popular IPL cricket tournament.</li></ul>
+      <ul><li>Price Action: DIS shares closed higher by 0.34% at $99.40 premarket on the last check Wednesday.</li></ul>
+      <p>Don't miss real-time alerts on your stocks - join Benzinga Pro for free! Try the tool that will help you invest smarter, faster, and better.</p> 
+      <p>This article Disney+ Hotstar Will Cease Streaming HBO Content From March 31; Potential Amazon-Warner Bros Deal Reportedly In Works originally appeared on Benzinga.com</p>
+    </div>
+  },
+  {
+    id: 104,
+    title: 'Bitcoin, Ether fall amid U.S. Fed chair warning of more interest rate hikes; Forkast NFT 500 index slips 0.65%',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Crypto', 'NFTs'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether fell in afternoon trading in Asia on Wednesday, with XRP the sole gainer among the top 10 non-stablecoin cryptocurrencies by market capitalization.</p>
+    </div>,
+    authorName: 'Dylan Butts',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023 - 1:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-105.webp',
+    content: <div className="blog-content">
+      <p>Bitcoin and Ether fell in afternoon trading in Asia on Wednesday, with XRP the sole gainer among the top 10 non-stablecoin cryptocurrencies by market capitalization. The new Forkast NFT 500 index slipped, and Asian equity markets were mixed following declines in the U.S. as investors reacted to Tuesday’s comments from the U.S. Federal Reserve Chair Jerome Powell.</p>
+      <h3>Fast facts</h3>
       <ul>
-      <li>The price of bitcoin hit a two-week low as the industry's crucial banking partner faces financial troubles.</li>
-      <li>Silvergate has experienced a steep downtrend in deposits, along with a 95% plunge in share price over the past year.</li>
-      <li>Bitcoin saw its largest one-hour drop since the blowup of FTX in November.</li>
+        <li>Bitcoin fell 0.76% to US$22,028 in 24 hours as of 4:30 p.m. in Hong Kong on Tuesday, according to CoinMarketCap data. The biggest cryptocurrency by market capitalization is down over 7% on the week. Ether fell 1% to US$1,554, after losing about 6% in the past seven days.</li>
+        <li>XRP was the day’s biggest gainer, extending gains from Tuesday. The token increased 2.42% to US$0.38 but declined 1.25% on the week.</li>
+        <li>Altcoin Bone ShibaSwap was the top gainer of all cryptocurrencies, rising over 10% over 24 hours to trade hands at US$1.69.</li>
+        <li>The global cryptocurrency market capitalization fell 1.82% to US$1.01 trillion, but the total crypto market volume increased 41.44% to US$46.71 billion in the last 24 hours.</li>
+        <li>Asian stocks were mostly flat despite losses in the U.S. after hawkish comments from Federal Reserve Chair Jerome Powell raised the possibility of the U.S. central bank returning to significant rate hikes to settle inflation. Hong Kong’s Hang Seng saw the biggest loss of 2.35% while Japan’s Nikkei 225 gained 0.48%.</li>
+        <li>Investors remained cautious after Powell’s hawkish remarks. European stocks were trading flat, as Germany’s DAX 40 inched down 0.02%, while the STOXX 600 slid 0.17%.</li>
+        <li>The Forkast NFT 500 index, which went live on Tuesday, dropped 0.65% to 4,275.91 over the last 24 hours as per 4:30 p.m. on Tuesday in Hong Kong. The Forkast NFT 500 Index is a proxy measure of the performance of the global NFT market, and includes 500 eligible smart contracts on any given day.</li>
       </ul>
-	    <p>Cryptocurrency markets are tumbling as the industry's once go-to bank faces a slew of financial woes, potentially threatening global crypto liquidity.</p>
-	    <p>The price of bitcoin hit a two-week low early Friday and experienced its largest one-hour price drop since the blowup of bankrupt exchange FTX in November. The token is trading 4% lower at $$22,394, per Messari.</p>	
-	    <p>Other major tokens followed suit. Ethereum shed 3%, falling to $1,573.</p>	
-	    <p>The market moves come after several companies like Coinbase, Circle, Galaxy Digital, and Paxos cut ties with Silvergate, which is delaying its annual report due to greater losses, flagging doubts about the future of its business.</p>
-      <p>Many large digital asset exchanges work with Silvergate for transactions between entities, and a dent in those relationships could impact industry liquidity.</p>
-      <p>Silvergate was entangled in a number of ailing firms such as FTX, resulting in a massive decline in deposits at the bank amid broader crypto market contagion. Shares of Silvergate have dropped 95% in the past year.</p>
-      <p>"Fears are growing that a crypto-focused bank failure could constitute a new hit to investors' confidence after the bankruptcies of major crypto players during the last few months," Wael Makarem, senior market strategist at investment broker Exness, told Insider. "As a result, the market could be exposed to new price corrections while investors could be concerned about a potential impact on other market players."</p>
-      <p>Makarem added: "This incident could strongly dent the market's recent rebound as cryptocurrencies remain in a delicate position. Additionally, the dwindling number of companies operating in crypto could add to the concerns."</p>
-      <p>Crypto's total market capitalization sits above $1 trillion, per Messari, roughly two-thirds below its record high in November of 2021. Investor sentiment in digital assets took a beating in the past year on a series of crypto company bankruptcies, along with a rise in borrowing costs from a hawkish Federal Reserve.</p>
-      <p>Sentiment may have deteriorated further in cryptocurrency markets as traders brace themselves for the Fed's next move to tamp down inflation, which remains above the central bank's target.</p>
+      </div>
+  },
+  {
+    id: 112,
+    title: 'Amazon Owns the Fastest-Growing Digital Ad Business -- and Its Not Even Close',
+    category: 'Markets',
+    subCategory: ['amazon', 'digital business', 'growing'],
+    description: <div className="blog-desc">
+      <p>This technology conglomerate is building a sizable profitable ad business capable of challenging Meta's family of apps and Google's advertising empire.</p>
+    </div>,
+    authorName: 'Rob Starks Jr',
+    authorurl: 'https://www.fool.com/author/2051',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023 - 10:05 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-113.jpg',
+    content: <div className="blog-content">
+      <h3>KEY POINTS</h3>
+      <ul><li>Amazon ads are the most effective and cheapest way to advertise online, making their ads more attractive for brands versus competitors.</li></ul>
+      <ul><li>The ad business is likely already its most profitable and valuable segment.</li></ul>
+      <ul><li>The best thesis for investing in this stock as the economy normalizes over the next year or two is its prowess in digital advertising.</li></ul>
+      <p><strong>This technology conglomerate is building a sizable profitable ad business capable of challenging Meta's family of apps and Google's advertising empire</strong></p>  
+      <p>It turns out that even mighty Amazon (AMZN 0.40%) is not immune to the adverse effects of inflation and rising interest rates. For example, its quarterly revenue growth rates for its North American and International e-commerce segments peaked in the first quarter of 2021. Even worse, both e-commerce businesses turned in an unprofitable fourth quarter of 2022.</p>
+      <p>As for Amazon Web Services (AWS), revenue has consistently decelerated over the last several years amid intensifying competition and the law of large numbers, which states that the larger a company grows, the more difficult it is to achieve prior growth rates.</p>
+      <p>For instance, in the fourth quarter of 2018, AWS grew revenue at 45% year over year, and in the fourth quarter of 2022, the cloud unit only produced 20% year-over-year revenue growth. Additionally, operating income for AWS dropped 2% year over year during the latest fourth quarter.</p>
+      <p>Since Amazon's primary growth engines offered investors little to be excited about since the first quarter of 2021, investors became fascinated with the growth potential of Amazon's nascent digital advertising business. However, since Alphabet's (NASDAQ: GOOGL) (NASDAQ: GOOG) Google ad business and Meta Platforms' (NASDAQ: META) family of app businesses, including Facebook, dominated the online advertising industry for about a decade, the question is whether Amazon's advertising business is worth investors' attention as a possible long-term growth engine.</p>
+      <p>Let's take a look.</p>
+      <p><storng>Its advertising unit is taking share</storng></p>
+      <p>According to an article by Axios, which cited statistics from Insider Intelligence, Google and Meta combined in 2022 for a less than 50% market share for the first time in eight years. These statistics show that both companies are losing market share, and the prime cause is Amazon, which ended 2022 with a 7.3% digital ad market share. Still, analysts project its share to explode to nearly 13% by 2024, closing the gap with Meta's projected 17.9% share -- a drop from the 19.6% market share Meta achieved in 2022.</p>
+      <p>Many advertisers are gravitating to Amazon ads since it's the most effective and cheapest way to advertise online.</p>
+      <p>According to a Feedvisor report that cites a 2020 survey of over 1,000 brands, 36% of all brands say Amazon generates the highest return on media spend, followed by paid social at 29% and then Google at 27%. Even better, 59% of the brands on Amazon's e-commerce marketplace say that it drives the highest return on media spending, followed by Google at 22% and then paid social at 17%.</p>
+      <p>As far as cost, according to a report from e-commerce analytics firm Sellics, Amazon ads are 68% cheaper than Google, 44% cheaper than Facebook, 79% cheaper than Instagram, and 13% cheaper than e-commerce competitor Walmart (NYSE: WMT).</p>
+      <p><strong>Why investors are interested in its ad unit</strong></p>
+      <p>While Alphabet's advertising unit and Meta's advertising lost approximately 4% year over year in revenue in the fourth quarter, Amazon's ad unit generated 19% year over year, despite an ad market that global media company Magna Global forecasts to slow further during 2023. And only the 20% revenue growth of the AWS segment was better for it in the fourth quarter. However, the prime rationale behind the investors' strong interest in the ad segment is that it is likely the most profitable piece of its business.</p>
+      <p>While the company does not reveal the profitability of its ad business, analysts have roughly figured the profitability that Amazon gains in advertising by comparing it to Google and Meta's advertising units' profitability and using a few assumptions. Most analysts conclude that Amazon's advertising unit is more profitable than AWS.</p>
+      <p>In addition, AWS also requires substantial capital investment, long-term investments in property, equipment, land, computers, and software needed to operate the cloud business. In its fourth-quarter 2021 earnings call, Chief Financial Officer Brian Olsavsky revealed for the first time that just under 40% of its capital expenses go toward supporting AWS.</p>
+      <p>Suppose that is true; in 2022, $25 billion of capital expenditures went into supporting AWS, while AWS only produced $22.84 billion in operating income in the same year. Amazon likely uses all of the AWS segment's operating income to pay the cloud unit's capital expenses. Thus AWS currently has a feeble free cash flow. And if you assume advertising is a less capital-intensive business, it produces better free cash flow than AWS.</p>
+      <p>So however you want to parse it, advertising is a rapidly growing, profitable growth engine for Amazon that might already be its most valuable business.</p>
+      <p><strong>A foggy short-term future</strong></p>
+      <p>Amazon shareholders should understand that a recession would not benefit any of its businesses, including advertising, which relies substantially on the health of its e-commerce markets.</p>
+      <p>Suppose you want to invest in Amazon stock for its long-term potential in advertising. Be aware that things could get much worse before getting better, and the ad business won't ride in to save the day.</p>
+      <p>Still, as the economy normalizes over the next year or two, the ad business will likely become its most significant growth engine and a strong thesis for becoming a shareholder.</p>
+      <p><strong>Should you invest $1,000 in Amazon.com right now?</strong></p>
+      <p>Before you consider Amazon.com, you'll want to hear this.</p>
+      <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Amazon.com wasn't one of them.</p>
+      <p>Stock Advisor is the online investing service that has beaten the stock market by 3x since 2002*. And right now, they think there are 10 stocks that are better buys.</p>
+    </div>
+  },
+  {
+    id: 116,
+    title: 'My Top FAANG Stock to Buy for the Second Half of 2023 (and Beyond)',
+    category: 'Markets',
+    subCategory: ['FAANG', 'stock',],
+    description: <div className="blog-desc">
+      <p>There's a solid argument to be made for most of the FAANG stocks right now. Just to name a couple examples, Amazon trades for less than half of its recent peak, and Netflix recently reported subscriber numbers that were dramatically better than analysts were expecting.</p>
+    </div>,
+    authorName: 'Matthew Frankel, CFP®',
+    authorurl: 'https://www.fool.com/author/2280/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023 - 6:18 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-117.jpg',
+    content: <div className="blog-content">
+  <h3>Key Points</h3>
+  <ul><li>Alphabet has been beaten down, with shares trading 40% below their highs.</li></ul>
+  <ul><li>The company has a dominant and profitable core business, as well as some big potential growth drivers.</li></ul>
+  <ul><li>With massive financial flexibility and an attractive valuation, Alphabet is worth a closer look.</li></ul>
+  <p><strong>This dominant industry leader still has lots of growth potential.</strong></p>
+  <p>There's a solid argument to be made for most of the FAANG stocks right now. Just to name a couple examples, Amazon trades for less than half of its recent peak, and Netflix recently reported subscriber numbers that were dramatically better than analysts were expecting.</p>
+  <p>However, as we head into spring, there is one FAANG stock that looks like a particularly strong long-term opportunity while interest rates and inflation remain elevated and economic uncertainty persists: Google parent Alphabet (GOOGL 0.42%) (GOOG 0.51%). The company offers a rare combination of maturity, profitability, and growth potential, and with shares down by about 40% from their highs, it looks like a bargain for patient investors.</p>
+  <p><strong>A core business with maturity and growth potential</strong></p>
+  <p>Roughly 90% of Alphabet's revenue comes from Google Services, and to be fair, this is a collection of relatively mature, ad-driven businesses. The dominant Google Search platform is the biggest component, but this also includes YouTube, Gmail, Android, Chrome, Maps, and other popular consumer-facing platforms.</p>
+  <p>There could still be significant growth potential on this side of the business, but it's not likely to happen in the years ahead. However, Google Services is a collection of rock-solid dominant businesses that produces a reliable stream of high-margin revenue.</p>
+  <p>On the other hand, Google Cloud, which currently accounts for about 10% of the company's revenue, could be a major growth driver in the years to come. It provides business collaboration tools, cloud storage, database services, content delivery networks (CDN), artificial intelligence and machine learning tools, app platforms, and much more. In all, Google Cloud offers more than 150 different products.</p>
+  <p>For the time being, Google Cloud is a relatively small part of the business, but that could change in the coming years. For one thing, Cloud is the fastest-growing part of the company, with revenue increasing 32% year over year in the fourth quarter. It is the only one of the big three cloud providers to gain significant share of the cloud infrastructure market in recent quarters (Amazon's AWS and Microsoft's Azure are the leaders).</p>
+  <p>Not only that, but the cloud market itself is expanding rapidly. The cloud computing market was estimated at $484 billion in size in 2022, but is expected to more than triple by 2030 to a $1.55 trillion opportunity. If Google Cloud can increase its market share, this could end up being a big growth driver.</p>
+  <p><strong>Lots of optionality</strong></p>
+  <p>There are a few other reasons Alphabet is my favorite FAANG stock right now. The "other bets" segment doesn't produce much revenue currently, but that could potentially change in the future. The Waymo self-driving vehicle start-up is especially promising, but there are also some start-ups in healthcare and artificial intelligence, among other industries. To be clear, I'd buy Alphabet even if nothing ever came of these businesses -- but it's a nice addition to the tech titan's future potential. And it also doesn't limit the company's acquisition potential to just organizations that fit into the Google Services and Cloud segments.</p>
+  <p>Finally, it's important to consider Alphabet's stellar financial condition. The company has about $140 billion in cash and securities on its balance sheet, which gives it tremendous financial flexibility, especially when you consider it generated nearly $60 billion in net income over past four quarters alone. Alphabet can fund acquisition opportunities, reinvest in innovation, or opportunistically buy back shares as it sees fit.</p>
+  <p><strong>Should you add Alphabet to your portfolio before the second half of 2023?</strong></p>
+  <p>At some point, inflation will decline back toward historic levels and the Federal Reserve will back off of its interest rate increases, which could be an excellent catalyst for industries like advertising. More economic certainty would likely translate into more ad spending across the core Google Services businesses and would also make enterprise customers more comfortable increasing their spending on cloud services. So while I think Alphabet makes an excellent long-term investment regardless of timing, it could be an especially opportunistic buy while the stock is still about 40% below its highs due to the current economic uncertainty.</p>
+  <p><strong>Should you invest $1,000 in Alphabet right now?</strong></p>
+  <p>Before you consider Alphabet, you'll want to hear this.</p>
+  <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Alphabet wasn't one of them.</p>
+    </div>
+  },
+  {
+    id: 118,
+    title: 'Berkshire Hathaway resumes Occidental purchases, stake reaches 22.2%',
+    category: 'Markets',
+    subCategory: ['occidental', 'berkshire', 'purchases'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Warren Buffett's Berkshire Hathaway Inc has resumed its purchases of Occidental Petroleum Corp shares after a five-month hiatus, increasing its stake in the oil company to about 22.2%, a regulatory filing showed on Tuesday.</p>
+    </div>,
+    authorName: 'Jonathan Stempel',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023 - 6:01 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-119.jpg',
+    content: <div className="blog-content">
+      <p>By Jonathan Stempel</p>
+      <p>(Reuters) - Warren Buffett's Berkshire Hathaway Inc has resumed its purchases of Occidental Petroleum Corp shares after a five-month hiatus, increasing its stake in the oil company to about 22.2%, a regulatory filing showed on Tuesday.</p>
+      <p>Berkshire paid about $355 million for 5.8 million Occidental shares between March 3 and March 7, according to the filing.</p>  
+      <p>The purchases were the first Berkshire has disclosed since late September. It ended last year with a 21.4% stake.</p>  
+      <p>In August, Berkshire won U.S. Federal Energy Regulatory Commission permission to buy up to 50% of Occidental's common stock.</p>
+      <p>Buffett's company now owns about 200.2 million Occidental shares worth $12.2 billion, based on Tuesday's closing price of $60.85.</p>
+      <p>Those shares would generate about $144 million of annual dividends, following a 38% increase that Occidental announced last month.</p>
+      <p>Berkshire also owns $10 billion of Occidental preferred stock that throws off $800 million of annual dividends, plus warrants to buy another $5 billion of common stock.</p>
+      <p>Occidental ended January with about 900 million shares outstanding.</p>
+      <p>Berkshire began buying large quantities of the Houston-based company's stock about one year ago.</p>
+      <p>After its stake surpassed 20%, Berkshire adopted the equity method of accounting for its holdings, and now reports its share of Occidental's results with its own.</p>
+      <p>Accounting rules normally require the equity method above the 20% threshold, reflecting an assumption that the holder might exert significant influence.</p>
+      <p>Berkshire ended 2022 with $128.6 billion of cash and equivalents. It plans to keep a $30 billion cushion.</p>
+      <p>Occidental's share price more than doubled in 2022, benefiting from higher oil prices after Russia invaded Ukraine.</p>
+      <p>Though fourth-quarter profit was lower than analysts expected, Occidental said it planned to raise capital spending this year and could repurchase up to $3 billion of stock.</p>
+      <p>Berkshire also owns dozens of companies including Geico car insurance, the BNSF railroad, consumer brands such as Dairy Queen and Fruit of the Loom, and other stocks including Apple Inc.</p>
+    </div>
+  },
+  {
+    id: 119,
+    title: 'Alphabet (GOOGL) Stock Moves -1.34%: What You Should Know',
+    category: 'Markets',
+    subCategory: ['Alphabet', 'stocks', 'GOOGL'],
+    description: <div className="blog-desc">
+      <p>Alphabet (GOOGL) closed the most recent trading day at $93.86, moving -1.34% from the previous trading session. This change was narrower than the S&P 500's 1.53% loss on the day. Meanwhile, the Dow lost 1.72%, and the Nasdaq, a tech-heavy index, lost 3.27%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023 - 2:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-120.jpg',
+    content: <div className="blog-content">
+      <p>Alphabet (GOOGL) closed the most recent trading day at $93.86, moving -1.34% from the previous trading session. This change was narrower than the S&P 500's 1.53% loss on the day. Meanwhile, the Dow lost 1.72%, and the Nasdaq, a tech-heavy index, lost 3.27%.</p>
+      <p>Coming into today, shares of the internet search leader had lost 7.55% in the past month. In that same time, the Computer and Technology sector lost 1.34%, while the S&P 500 lost 1.28%.</p>
+      <p>Wall Street will be looking for positivity from Alphabet as it approaches its next earnings report date. On that day, Alphabet is projected to report earnings of $1.09 per share, which would represent a year-over-year decline of 11.38%. Our most recent consensus estimate is calling for quarterly revenue of $56.89 billion, up 1.56% from the year-ago period.</p> 
+      <p>Looking at the full year, our Zacks Consensus Estimates suggest analysts are expecting earnings of $5.12 per share and revenue of $246.7 billion. These totals would mark changes of +12.28% and +5.48%, respectively, from last year.</p> 
+      <p>Any recent changes to analyst estimates for Alphabet should also be noted by investors. These recent revisions tend to reflect the evolving nature of short-term business trends. As a result, we can interpret positive estimate revisions as a good sign for the company's business outlook.</p>
+      <p>Our research shows that these estimate changes are directly correlated with near-term stock prices. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
+      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Within the past 30 days, our consensus EPS projection has moved 0.61% lower. Alphabet currently has a Zacks Rank of #3 (Hold).</p>
+      <p>Digging into valuation, Alphabet currently has a Forward P/E ratio of 18.58. For comparison, its industry has an average Forward P/E of 25.2, which means Alphabet is trading at a discount to the group.</p>
+      <p>Meanwhile, GOOGL's PEG ratio is currently 1.31. This popular metric is similar to the widely-known P/E ratio, with the difference being that the PEG ratio also takes into account the company's expected earnings growth rate. The Internet - Services industry currently had an average PEG ratio of 1.36 as of yesterday's close.</p>
+      <p>The Internet - Services industry is part of the Computer and Technology sector. This group has a Zacks Industry Rank of 64, putting it in the top 26% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+      <p>Be sure to follow all of these stock-moving metrics, and many more, on Zacks.com.</p>
+    </div>
+  },
+  {
+    id: 111,
+    title: 'How Big Tech performed this earnings season amid layoffs, AI integration trends',
+    category: 'Markets',
+    subCategory: ['earnings', 'amid layoffs', 'integration'],
+    description: <div className="blog-desc">
+      <p>Yahoo Finance tech reporter Allie Garfinkle joins the Live show to grade how tech sector leaders performed this past earnings season amid labor trends, A.I. adoption, and TikTok facing legislative headwinds.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/yahoo-finance.webp',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023 - 12:35 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-112.jpg',
+    content: <div className="blog-content">
+      <p>Yahoo Finance tech reporter Allie Garfinkle joins the Live show to grade how tech sector leaders performed this past earnings season amid labor trends, A.I. adoption, and TikTok facing legislative headwinds.</p>
+      <p>SEANA SMITH: Meta planning another round of layoffs this week, that's according to reports from Bloomberg. Now, the move would add thousands more to the 11,000 workers that were cut from the social media giant last November. It is the latest in a tech industry that has certainly seen a massive contraction over the last several months.</p>
+      <p>Here to break down how the major players are navigating this and who's coming out on top, Yahoo Finance's tech reporter Allie Garfinkle has that for us. Hey, Allie.</p> 
+      <p>ALLIE GARFINKLE: Hi, Seana. So while I'm not a teacher, I want to break this down report card style because these companies are all in incredibly different positions. I want to start with Apple, who is at the top of the pack with an A. Now, Apple's earnings were actually not standard Apple. We actually saw a rare miss out of them this last cycle.</p> 
+      <p>However, there's a key number that's really important here for how things are looking, and it's 2 billion devices. That is how big their install base is. I believe that's more than 20% of the world's population. So the iPhone install base is at an all-time high, and it's sending the company's services revenue to a record of $20.8 billion.</p>
+      <p>What does this-- what does this all amount to? It says that analysts say that this bodes extremely well for Apple's future as they increase how much individual users spend. So not a standard quarter for Apple, but there is a lot of good news there. So we'll give them an A. Maybe we'll fudge it to an A-minus.</p>
+      <p>Now, next is Microsoft. So Microsoft will get a B, slight top line B, slight bottom line miss, but they won the ChatGPT lottery. Now, while their cloud growth is slowing, it slowed to about 31%, just barely beating analysts' expectations, that $10 billion investment in ChatGPT came at exactly the right moment. So we're going to give them a B for foresight.</p>
+      <p>Next, Amazon. Revenue beat, earned EPS miss. Amazon has a lot to prove here. They're really doubling down on cost cutting, and I'm giving them a C because of that cloud number. Amazon Web Services net sales came in missing. It was a $21.3 billion actual versus $21.76 billion expected.</p>
+      <p>Now, that doesn't seem like a big miss. And to be fair, it is not. However, that has been a stalwart-- AWS has been a stalwart of Apple-- of Apple-- of Amazon's business for so long, that it is very important that they keep that growth up or come up with a new plan.</p>
+      <p>And last, we have Meta, which is going to get a C. Yes, they beat key revenue expectations, and there are growing losses on the Reality Labs operation, hence the C. However, they are investing in a $40 billion stock buyback plan, and they're betting that this year of efficiency, this cost-cutting plan, is going to work. I'm withholding judgment for now, but they are certainly ready to bet on themselves.</p>
+      <p>Of course, now Meta being in the news because they're reportedly set to do another round of layoffs that could affect thousands and could come as early as this week. That said, Meta is the only one we know is doing layoffs for the time being. However, given Jerome Powell's testimony earlier today that rates will continue rising, the macroeconomic climate that has been so difficult for so many of these companies will continue to be difficult, so we'll have to see how they navigate it moving forward.</p>
+      <p>DAVID BRIGGS: Very good. So, Allie, you mentioned the ChatGPT lottery being won by Microsoft. Let's shift to the other one, which is the TikTok ban boost, if you will. Who stands to benefit the most? Because you're young and I'm old and because you're our tech reporter, is it YouTube Shorts, therefore Google? Is it Meta with their Reels? Or is it even Snap, who's seen a really solid pop to start the year? Who's the closest to emulating it in terms of social media style?</p>
+      <p>ALLIE GARFINKLE: That is a really good question, Dave, and I'll be candid. I think there are a couple of different answers, and we would have to have that whole scenario play out to really know who the winner is. That said, I'm going to actually throw my hat in on Snap here. Every analyst I've ever spoken to who's bullish on Snap has one key argument, and it's that it is essential for teenagers. And if that's like something TikTok has become known for, it's certainly something Snap is known for, definitely on Wall Street and, to be fair, among the teenagers I've talked to.</p>
+      <p>So I'd say if there's anyone who's set to really benefit, I would put money on Snap. That said, YouTube Shorts is something Google has massively invested in. Meta has been preparing for the moment where, hopefully, TikTok is less of a competitor for a long time. I think we could see a massive shift in the competitive landscape. But I would say the biggest beneficiary could be Snap, and the market certainly seems to think so.</p>
+      <p>DAVID BRIGGS: That's an interesting take because I sat at a Celtics game with a 15-year-old the other day, and he was on Snap the entire time, not TikTok.</p>
+      <p>ALLIE GARFINKLE: The kids love it.</p>
+      <p>DAVID BRIGGS: So, yeah--</p>
+      <p>ALLIE GARFINKLE: The kids love it.</p>
+      <p>DAVID BRIGGS: --they really do. I'm curious--</p>
+      <p>ALLIE GARFINKLE: They love it.</p>
+      <p>DAVID BRIGGS: --to see where they go from here. Allie Garfinkle, thanks so much. Good stuff.</p>
+    </div>
+  },
+  {
+    id: 120,
+    title: 'GBP to USD Forecast – British Pound Gives Up Early Gains',
+    category: 'Currencies',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>British Pound vs US Dollar Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 7, 2023 - 6:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-121.jpg',
+    content: <div className="blog-content">
+      <p><strong>British Pound vs US Dollar Technical Analysis</strong></p>
+      <p>The British pound initially tried to rally during the trading session on Tuesday but gave back gains to show signs of hesitation. At this point, it looks like we are trying to build up enough pressure to go lower, breaking down below the support. The market has continued to fail every time we get close to the 50-Day EMA, so it is more likely going to continue to be a situation where traders are fading the rally, taking advantage of US dollar strength.</p>
+      <p>The 50-Day EMA is also backed up by the 200-Day EMA, so therefore I think there are quite a few different players that look to short this market every time it tries to rally. Ultimately, this is a situation where if we can break down below the 1.1850 level underneath, then the market is likely to drop down to the 1.15 level underneath. The 1.15 level is a large, round, psychologically significant figure, and an area where we have seen a lot of noise previously. That previous resistance should now end up being supported.</p>  
+      <p>On the other hand, if we turned around and took out the 200-Day EMA, then it’s likely that we could go to the 1.23 level. After that, then we have the 1.25 level above, that is where we have the double top, which started at the 1.24 level. Ultimately, this is a market that I think continues to see a lot of noisy behavior, but I also believe that this is a market that has a major overhang, and therefore it’s going to be difficult for it to go much higher.</p> 
+      <p>Furthermore, the Federal Reserve is going to remain tighter for longer when it comes to the monetary policy, and therefore it’s likely that we would see the US dollar continue to be strong in general. All things being equal, this is a situation where we continue to see a lot of downward pressure on each rally, and therefore I will be fading each one at the first signs of exhaustion. True, support has held fairly well so far, but it is only a matter of time before it gives way to all of this mounting pressure.</p>
+    </div>
+  },
+  {
+    id: 121,
+    title: 'EUR/USD Forecast – Euro Pulls Back Again',
+    category: 'Currencies',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>Euro vs US Dollar Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 7, 2023 - 5:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-123.jpg',
+    content: <div className="blog-content">
+      <p><strong>Euro vs US Dollar Technical Analysis</strong></p>
+      <p>The Euro initially tried to rally during the trading session on Tuesday but gave back gains near the 1.07 level. The 1.07 level is a large, round, psychologically significant figure and an area where we have seen both support and resistance recently. That being said, the market also has been banging around between the 50-Day EMA and the 200-Day EMA indicators, which typically will mean that we have a lot of noise out there that is going to continue to be a problem.</p>
+      <p>If we were to turn around and break down below the 200-Day EMA, which is basically at the 1.05 level, then it opens up a trap door to much lower prices, perhaps down to the 1.03 level, followed by the parity level. The parity level of course is an area that will attract a lot of attention due to the fact that it is a level that makes for a good headline number. However, I think at this point we’ve got a situation where we have so much in the way of noise and volatility out there that sooner or later the Euro starts to fall. After all, when you look at the chart you can see that we had fallen rather drastically from the 1.10 level. The last couple of weeks have been very noisy, but it’s also worth noting that it was kicked off by a massive shot lower.</p> 
+      <p>Jerome Powell is speaking during the session, in front of the United States Congress. That could be a mover of markets, but we will have to wait and see. Either way, it looks as if the sellers are going to continue to take hold of this market, especially as we sold off so drastically from the 50% Fibonacci level of the massive selloff that occurred last year. I think we continue to see more of the same, and therefore I think it’s only a matter of time before we go lower. That being said, if we were to turn around and break above the recent highs, that could change everything but I would not hold my breath on that.</p>
+    </div>
+  },
+  {
+    id: 122,
+    title: 'AUD/USD Forecast – Australian Dollar Continues to Threaten a Breakdown',
+    category: 'Currencies',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>Australian Dollar vs US Dollar Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 7, 2023 - 5:35 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-124.jpg',
+    content: <div className="blog-content">
+      <p><strong>Australian Dollar vs US Dollar Technical Analysis</strong></p>
+      <p>The Australian dollar has fallen rather hard during the course of the trading session on Tuesday, as we are now well below the 0.67 level. At this point, the market is looking likely to go down to the 0.6650 level, which is an area where we have seen a lot of previous support. If we were to break down below there, then the market is likely to drop down to the 0.6450 level. Furthermore, we have recently seen the so-called “death cross”, when the 50-Day EMA breaks down below the 200-Day EMA indicator and is generally seen as a negative turn of events. Because of this, I think you got a situation where the market will continue to be more dollar positive than anything else.</p>
+      <p>This will continue to be the case as long as the Federal Reserve has decided to be “tighter for longer”, as they have publicly stated. At this point, I think it’s only a matter of time before rallies get sold into at the first signs of exhaustion. With that being said, I like the idea of fading these rallies and taking advantage of momentum, as it continues to see a lot of noise. The Australian dollar of course is a very sensitive currency when it comes to global growth and of course the Chinese mainland, both of which are a bit shaky at the moment, despite the fact that the Chinese have less than desirable numbers at times.</p> 
+      <p>The size of the candlestick does suggest that there is a significant amount of downward pressure building in this market, so I do think that a breakdown is only a matter of time before it actually happens. Rallies at this point will more likely than not be sold into at the first signs of exhaustion, and it would take the market breaking above the 200-Day EMA for me to change my opinion on this pair. All things being equal, I think the US dollar continues to be one of the favorite currencies around the world, and therefore I do believe that the Aussie will continue to be threatened by the juggernaut that is the greenback.</p>
+    </div>
+  },
+  {
+    id: 105,
+    title: 'Grayscale’s bitcoin trust shares jump 9% after ETF hearing',
+    category: 'Crypto',
+    subCategory: ['Grayscale', 'ETF', 'bitcoin'],
+    description: <div className="blog-desc">
+      <p>Grayscale Bitcoin Trust, or GBTC, saw its share price rally almost 9% Tuesday, after a panel of judges appeared to be skeptical about the U.S. Securities and Exchange Commission’s arguments during an appeals court hearing, as Grayscale continues its push to convert GBTC into an exchange-traded fund. </p>
+    </div>,
+    authorName: 'Frances Yue',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 7, 2023 - 1:55 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-106.jpg',
+    content: <div className="blog-content">
+      <p>Grayscale Bitcoin Trust, or GBTC, saw its share price rally almost 9% Tuesday, after a panel of judges appeared to be skeptical about the U.S. Securities and Exchange Commission’s arguments during an appeals court hearing, as Grayscale continues its push to convert GBTC into an exchange-traded fund. </p>
+      <p>Judges at the District of Columbia Circuit Court of Appeals in Washington, D.C., asked SEC senior counsel Emily Parise details about the connections between bitcoin BTCUSD spot and futures and markets, and questioned the agency’s...</p>
+      <p>In June, Grayscale filed a lawsuit against the SEC over the agency’s denial of an application to convert GBTC GBTC, +2.64% into an ETF. The SEC has greenlighted several bitcoin futures-backed ETFs, but has yet to approve any ETFs backed by the cryptocurrency itself, citing concerns about market manipulation. </p>
+      <p>The lawsuit filed by Grayscale is under the spotlight as it may shed light on whether and when a spot bitcoin ETF might be available in the U.S. Meanwhile, a successful conversion of GBTC into an ETF would help mitigate the discount GBTC has been trading at to its net asset value, or the value of bitcoins it holds. </p>
+      <p>Launched in 2013, GBTC traded at a premium to its net asset value for several years, as it was for a long time the only public-listed fund that holds bitcoin as its primary assets. The premium flipped to a discount in February 2021, partly due to the launch of the first spot bitcoin ETF in Canada. However, investors can only sell, but not redeem their shares in the fund, in part as GBTC was structured similar to a close-end fund.</p>
+      <p>To close the discount, Grayscale had lobbied the SEC and finally filed a lawsuit against the agency to push for a conversion from GBTC into an ETF. For an ETF, institutional traders can keep creating and redeeming shares, thus closing the gap between the fund’s price and the value of its underlying assets through arbitrages.</p>
+      <p>“We look forward to the Court’s final decision, and strongly believe that American investors deserve to have equal access to the Bitcoin ETF product that best suits their needs,” a Grayscale spokeswoman wrote to MarketWatch in an email. </p>
+      <p>China Yangtze Power Co., Ltd. (600900.SS) owns the Three Gorges hydropower electricity generation unit, which has the highest power generation capacity of 22,500 MW. Overall, the company has a power generation capacity of 71,795 MW and has more than 110 other hydroelectric power units under its portfolio. Not only is China Yangtze Power Co., Ltd. (600900.SS) the biggest supplier of electricity in China, but it is also the biggest publicly listed hydroelectric power generation and transmission company in the world.</p>
+     </div>
+  },
+  {
+    id: 106,
+    title: 'Tethers USDT Stablecoin Market Share Rises to Highest Level in 15 Months',
+    category: 'Crypto',
+    subCategory: ['USDT', 'Stablecoin', 'market'],
+    description: <div className="blog-desc">
+      <p>The dominance of Tethers USDT is rising among stablecoins amid an ongoing shakeup of the $136 billion stablecoin market.</p>
+    </div>,
+    authorName: 'Krisztian Sandor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 7, 2023 - 12:41 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-107.webp',
+    content: <div className="blog-content">
+      <p>The dominance of Tethers USDT is rising among stablecoins amid an ongoing shakeup of the $136 billion stablecoin market.</p>
+      <p>USDTs market share among stablecoins surpassed 54% on Monday, data from CoinGecko shows. This is the largest market share Tethers stablecoin has reached since late November 2021, after the crypto bull market reached its apex.</p>
+      <p>Tethers gain came mostly at the expense of rival Binance USD, which has been in rapid decline since its issuer, Paxos, announced on Feb. 13 that it would halt minting new BUSD tokens due to pressure from the New York Department of Financial Services, the states top regulator. Since then, BUSD has shrunk below $9 billion from a $16 billion market capitalization.</p>  
+      <p>USDTs market capitalization has grown some $5.3 billion this year so far to $71.6 billion, with $3 billion of the gains after mid-February. Circles rival stablecoin, USD coin (USDC), has also gained $3 billion since the Paxos announcement; however, its $44 billion market cap is still lower than at the start of 2023.</p>  
+      <p>Stablecoins have become the backbone of the crypto economy in recent years, ballooning to a peak market capitalization of$188 billion in May 2022. They peg their price stable to an external asset, such as the U.S. dollar, and serve as a facilitator for trading on exchanges and making transactions between central bank-issued fiat money and the digital asset world.</p>
+      <p>Tethers position as issuer of the worlds dominant stablecoin defies its historically opaque reporting about its reserves backing the value of USDT and heavy scrutiny of its internal dealings. Last week, the Wall Street Journal reported that Tether used bank accounts accessed by falsified documents in 2018. In September, a New York judge ordered Tether to present financial records on USDTs reserve assets in a lawsuit that alleges Tether conspired to issue USDT to prop up the price of bitcoin (BTC), CoinDesk reported.</p>
+      <p>USDT is the most traded cryptocurrency with some $27 billion of trading volume in the past 24 hours, according to CoinGecko, larger than BTC.</p>
+    </div>
+  },
+  {
+    id: 107,
+    title: 'Binance reveals plans to elude U.S. authorities amid fear of prosecution: Report',
+    category: 'Crypto',
+    subCategory: ['binance'],
+    description: <div className="blog-desc">
+      <p>Yahoo Finance’s David Hollerith joins the Live show to discuss the details around Binance’s reported plans to elude U.S. authorities and the expectations for Silvergate Capital.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/yahoo-finance.webp',
+    authorContent: '',
+    createdAt: 'Mar 6, 2023 - 8:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-108.jpg',
+    content: <div className="blog-content">
+      <p>Yahoo Finance’s David Hollerith joins the Live show to discuss the details around Binance’s reported plans to elude U.S. authorities and the expectations for Silvergate Capital.</p>
+  <h3>Video Transcript</h3>
+  <p>Crypto exchange giant Binance in focus this morning following a report from the Wall Street Journal that, amid the fear of prosecution, Binance had set out on a plan to neutralize US authorities. Yahoo Finance's David Hollerith has more on this story. He joins us now. David, what are some of the details here?</p>
+  <p>DAVID HOLLERITH: Yeah, so Jared, just to take a step back, so Binance International is the world's largest crypto exchange. And Binance US is much smaller US regulated crypto exchange. There's been a long running discussion about the relationship between these two firms, and that's become notably a bigger deal as critics have pointed out. And since FTX has collapsed, there are a lot of similarities in terms of structure between the two firms.</p> 
+  <p>Things reached a new boiling point on Friday, actually, in bankruptcy court. Voyager Digital is trying to sell its assets to Binance US, and notably, the SEC, the FTC, and several state securities regulators have actively been objecting. And sort of the bankruptcy court is trying to go through all this. So Binance US licenses the Binance brand and technologies, but is technically a separate legal entity, though, it's nonetheless majority owned by Binance's founder and CEO CZ.</p> 
+  <p>As far back as 2020, there's actually been reports about sort of a connection to this, and even documents that have shown that Binance, at least, at one point in time, was thinking about trying to find a way to reach US investors without having to deal with US regulators. So the Wall Street Journal story from the weekend drew from chat logs from Binance employees, and this provided further evidence that Binance for some time has been potentially trying to find ways to use Binance US to reach US investors without having to deal with regulators. Reuters has also reported about this extensively, and they've also drawn-- as was in the Journal story, they've drawn a connection to Merit Peak, which was once a market maker for Binance US and is also owned by CZ, Binance's CEO.</p>
+  <p>But notably from this story, I think, what was pointed out was the fact that the SEC Chair Gary Gensler was actually being recruited by Binance before he was chair of the agency when he was an MIT professor, and that's notable. If we are to believe the chat logs from Binance employees, it indicated that he was generous in offering licensing strategies to the companies. Obviously, this licensing agreement situation is the legal connection between the two firms. It's also notable as, on Friday, CZ, the founder, actually did a Twitter Space's AMA, and he sort of brought some of this to the public's attention, too, saying that he had met and previously known Gary Gensler, and that they had a good rapport. And he lectured for his MIT course. So this all just makes the connection between what's going on right now with Binance US and the SEC that much more interesting.</p>
+  <p>It does, and speaking of connections, I mean, as we talk about the interconnectedness of this crypto world, as we know, one of the potential casualties that you've been watching is Silvergate. What can we expect to happen next with that sort of crypto focused bank?</p>
+  <p>DAVID HOLLERITH: Yeah, Julie, you know, so for Q4, Silvergate fell into a situation, which is they were less than well capitalized or sort of on the brink of being less than well capitalized. There's a leverage ratio that is watched closely by banking regulators, and Silvergate was about 5.3%. Anything below 5% is a concern for regulators, and since then, Silvergate's come out saying they're going to be late on their annual report. Losses look worse, and obviously, last week, we saw the stock collapse by half between Thursday and Friday.</p>
+  <p>So in this scenario, Silvergate is a bank. It's a state chartered bank, so it could go into something, which is receivership, which for banks, it's kind of like bankruptcy, not quite the same thing. And this would be decided by either the California State regulator or the FDIC, and in either situation, it would likely be the FDIC that would sort of take the mantle there.</p>
+  <p>So we'll be watching that, but again, that's a worst case scenario. And Silvergate has fallen. It's lost so many deposits in the last couple of days. We are definitely expecting something like this to happen.</p>
+  <p>Yeah, most definitely, and we'll count on you to keep watching it. Thanks so much, David. Appreciate it.</p>
+    </div>
+  },
+  {
+    id: 123,
+    title: 'GBP to USD Forecast – British Pound Continues to Consolidate Near Big Figure',
+    category: 'Currencies',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>British Pound vs US Dollar Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 6, 2023 - 6:17 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-125.jpg',
+    content: <div className="blog-content">
+      <p><strong>British Pound vs US Dollar Technical Analysis</strong></p>
+      <p>The British pound has gone back and forth during the course of the trading session on Monday, as it looks like it is still trying to figure out what to do with itself. Because of this, the market will be very noisy, but ultimately it looks as if we are going to have to make a bigger decision. Until we get some kind of impulsive candlestick, it’s a bit difficult to get overly aggressive in this pair. It seems as if the 1.20 level is going to continue to be a magnet for the price, therefore you need to pay close attention to how the market continues to react to this area. So far, it looks as if it’s ready to grind back and forth but if you look at the chart a little closer, you can recognize that there have been a series of lower highs along the way.</p>
+      <p>Underneath, the 1.1925 level has offered a bit of support, and I think that probably extends down to the 1.1850 area where we had seen a little bit of support previously. Breaking down that level will then kick off the major leg lower, perhaps opening up a move down to the 1.15 level. The 1.15 level of course is very likely to continue to be important due to the fact that it is a large, round, psychologically significant figure, so with that in mind, I think it’s probably a nice target.</p>  
+      <p>However, if we were to turn around and break above the 1.21 level, then it’s possible that we could go to the 1.24 level above, but that double top I think would be difficult to break above anytime soon and I think it extends all the way to the 1.25 level as well. In other words, there’s a lot of noise out there that is going to continue to be a major issue, so therefore I think you’ve got a situation where you have to look at this more or less from a “fade the rally” type of plan, but you should also perhaps look at this as a short-term market more than anything else at the moment.</p>
+    </div>
+  },
+  {
+    id: 124,
+    title: 'GBP/JPY Forecast – British Pound Looking For Direction Against the Yen',
+    category: 'Currencies',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>British Pound vs Japanese Yen Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 6, 2023 - 6:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-126.jpg',
+    content: <div className="blog-content">
+      <p><strong>British Pound vs Japanese Yen Technical Analysis</strong></p>
+      <p>The British pound has pulled back a bit during the trading session on Monday but continues to find plenty of buyers near the ¥163 level. The ¥162.50 level is an area that previously had been important as well, so I do think that there’s a lot of support underneath as it shows signs of importance. The 50-Day EMA looks as if it is ready to turn around and break above the 200-Day EMA, kicking off the so-called “golden cross.”</p>
+      <p>The ¥165 level above is an area that could be a target as we pierced it previously, only to turn around and fall apart. Having said that, this is all about the Bank of Japan and the fact that there is going to be a continued need by the central bank to keep interest rates lower in that country. In order to do that, they have to buy bonds in order to keep interest rates from spiking in the country. In order to buy bonds, they have to print yen, and have promised to do so in “an unlimited amount.”</p> 
+      <p>Ultimately, the market has been bullish for quite some time, and therefore I think momentum will continue to be part of the picture here. However, you should also keep in mind that recently when we spiked, we tested the top of a major selloff, and therefore I think it will continue to be a major target, but it is going to be so difficult to break above there that I do not anticipate that it happens anytime soon.</p>  
+      <p>Short-term pullbacks should continue to be buying opportunities, but you should also keep an eye on the fact that the market is going to be very noisy not only due to the Bank of Japan noise, but the fact that the pair is also very sensitive to risk appetite, which of course is all over the place right now. Because of this, keep in mind that sometimes people will run to the yen when either rates overall drop, or if there is a major fear out there about some type of economic issue. I do believe that eventually we will have to make a bigger decision, but right now it seems like this can be more noise than anything else.</p>
+    </div>
+  },
+  {
+    id: 125,
+    title: 'EUR/USD Forecast – Euro Testing the 50-Day EMA',
+    category: 'Currencies',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>Euro vs US Dollar Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 6, 2023 - 6:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-127.jpg',
+    content: <div className="blog-content">
+      <p><strong>Euro vs US Dollar Technical Analysis</strong></p>
+      <p>The Euro has rallied a bit during the trading session on Monday, as it looks like we’re going to continue to see a lot of noise in this pair. The 50-Day EMA currently sits at roughly 1.0675, and the market has tested that level. Ultimately, this is an indicator that a lot of people pay close attention to, but we are also between that and the 200-Day EMA, which typically means that you are going to see a lot of volatility in general. The 1.06 level is an area that a lot of people have paid close attention to recently, but I think that the support extends all the way down to the 1.05 level. The 1.05 level also features the 200-Day EMA, so it all ties together quite nicely.</p>
+      <p>If we were to break down below the 200-Day EMA, the market could drop down to the 1.03 level. The 1.03 level is an area that had been important previously. Ultimately, this is a market that continues to see a lot of noisy behavior, which makes quite a bit of sense considering that the economic situation seems to be all over the place. Ultimately, I think this continues to be a lot of noise more than anything else, but it is worth noting that we had seen a lot of selling pressure from the top. When you look at the recent high, you can see that the selloff began with 2 massive negative candlesticks.</p> 
+      <p>If the rally did get to that area, I think it would be very difficult to break out above. Quite frankly, I see a significant amount of resistance at multiple levels. The 50-Day EMA of course is a major barrier, and then the 1.07 level is an area where we have seen resistance previously, and of course the 1.08 level. It’s not until we break above there that we can even begin to threaten those massive negative candlesticks where so much had changed in momentum. It is because of this that I think this pair ultimately remains a “fade the rally” type of situation, especially as inflation in the United States remains stubbornly high, thereby forcing the Federal Reserve to remain “tighter for longer.”</p>
+    </div>
+  },
+  {
+    id: 126,
+    title: 'AUD/USD Forecast – Australian Dollar Continues to Threaten Support',
+    category: 'Currencies',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>Australian Dollar vs US Dollar Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 6, 2023 - 5:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-128.jpg',
+    content: <div className="blog-content">
+      <p><strong>Australian Dollar vs US Dollar Technical Analysis</strong></p>
+      <p>The Australian dollar has fallen a bit during the trading session on Monday, as we continue to look at the 0.67 level underneath as a potential support level. It has offered support over the last couple of days, so it does make a certain amount of sense that traders continue to come back into this picture. Furthermore, there is a little bit of support underneath there reaching down to the 0.66 level, and therefore I think it’s going to be difficult for this pair to simply fall through the floor. However, it’s probably worth noting that the market has been very choppy in general, therefore I think you probably continue to see a lot of back and forth trading more than anything else.</p>
+      <p>The 50-Day EMA has just broken back below the 200-Day EMA, forming the so-called “death cross”, then longer-term sellers may come in and hold short positions. That being said, the 0.68 level above could be resistance, right along with those moving averages. With that being said, the market is likely to continue to see a lot of volatility, and therefore I would not hang on to a position for far too long, due to the fact that there are so many different things out there moving the market around.</p> 
+      <p>Keep in mind that the Aussie of course is going to be very sensitive to the idea of global growth, or perhaps even the lack of it, and therefore you need to pay close attention to inflation numbers, and of course GDP numbers around the world. The Australian economy is highly levered to the Chinese economy as well, which although just reopening from the pandemic lockdowns, does not necessarily look blazing hot either, although in all fairness the Chinese economy is probably one of the better performers at the moment.</p>  
+      <p>That being said, if the rest of the world is going to slow down, then the Chinese economy will of course suffer as a result. If we do break down below the support region underneath, it could open up a move down to 0.65 level, which is an area where we had seen a lot of noise previously. Breaking above the moving averages could open up a move to the 0.70 level, but that would take a significant amount of momentum.</p>
     </div>
   },
   {
@@ -967,110 +1019,264 @@ const blogListdata = [
     </div>
   },
   {
-    id: 107,
-    title: 'Binance reveals plans to elude U.S. authorities amid fear of prosecution: Report',
-    category: 'Crypto',
-    subCategory: ['binance'],
+    id: 92,
+    title: 'Mortgage rate deals for week ending March 4, 2023: Top offers from lenders',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
     description: <div className="blog-desc">
-      <p>Yahoo Finance’s David Hollerith joins the Live show to discuss the details around Binance’s reported plans to elude U.S. authorities and the expectations for Silvergate Capital.</p>
+      <p>The average rate for mortgage offers clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. </p>
     </div>,
-    authorName: 'Yahoo Finance',
-    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
-    authorAvatar: 'https://ncx.cx/images/yahoo-finance.webp',
+    authorName: 'Jeff Ostrowski',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 6, 2023 - 8:06 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-108.jpg',
+    createdAt: 'Mar 4, 2023 09:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-92.webp',
     content: <div className="blog-content">
-      <p>Yahoo Finance’s David Hollerith joins the Live show to discuss the details around Binance’s reported plans to elude U.S. authorities and the expectations for Silvergate Capital.</p>
-	<h3>Video Transcript</h3>
-	<p>Crypto exchange giant Binance in focus this morning following a report from the Wall Street Journal that, amid the fear of prosecution, Binance had set out on a plan to neutralize US authorities. Yahoo Finance's David Hollerith has more on this story. He joins us now. David, what are some of the details here?</p>
-	<p>DAVID HOLLERITH: Yeah, so Jared, just to take a step back, so Binance International is the world's largest crypto exchange. And Binance US is much smaller US regulated crypto exchange. There's been a long running discussion about the relationship between these two firms, and that's become notably a bigger deal as critics have pointed out. And since FTX has collapsed, there are a lot of similarities in terms of structure between the two firms.</p>	
-	<p>Things reached a new boiling point on Friday, actually, in bankruptcy court. Voyager Digital is trying to sell its assets to Binance US, and notably, the SEC, the FTC, and several state securities regulators have actively been objecting. And sort of the bankruptcy court is trying to go through all this. So Binance US licenses the Binance brand and technologies, but is technically a separate legal entity, though, it's nonetheless majority owned by Binance's founder and CEO CZ.</p>	
-	<p>As far back as 2020, there's actually been reports about sort of a connection to this, and even documents that have shown that Binance, at least, at one point in time, was thinking about trying to find a way to reach US investors without having to deal with US regulators. So the Wall Street Journal story from the weekend drew from chat logs from Binance employees, and this provided further evidence that Binance for some time has been potentially trying to find ways to use Binance US to reach US investors without having to deal with regulators. Reuters has also reported about this extensively, and they've also drawn-- as was in the Journal story, they've drawn a connection to Merit Peak, which was once a market maker for Binance US and is also owned by CZ, Binance's CEO.</p>
-  <p>But notably from this story, I think, what was pointed out was the fact that the SEC Chair Gary Gensler was actually being recruited by Binance before he was chair of the agency when he was an MIT professor, and that's notable. If we are to believe the chat logs from Binance employees, it indicated that he was generous in offering licensing strategies to the companies. Obviously, this licensing agreement situation is the legal connection between the two firms. It's also notable as, on Friday, CZ, the founder, actually did a Twitter Space's AMA, and he sort of brought some of this to the public's attention, too, saying that he had met and previously known Gary Gensler, and that they had a good rapport. And he lectured for his MIT course. So this all just makes the connection between what's going on right now with Binance US and the SEC that much more interesting.</p>
-  <p>It does, and speaking of connections, I mean, as we talk about the interconnectedness of this crypto world, as we know, one of the potential casualties that you've been watching is Silvergate. What can we expect to happen next with that sort of crypto focused bank?</p>
-  <p>DAVID HOLLERITH: Yeah, Julie, you know, so for Q4, Silvergate fell into a situation, which is they were less than well capitalized or sort of on the brink of being less than well capitalized. There's a leverage ratio that is watched closely by banking regulators, and Silvergate was about 5.3%. Anything below 5% is a concern for regulators, and since then, Silvergate's come out saying they're going to be late on their annual report. Losses look worse, and obviously, last week, we saw the stock collapse by half between Thursday and Friday.</p>
-  <p>So in this scenario, Silvergate is a bank. It's a state chartered bank, so it could go into something, which is receivership, which for banks, it's kind of like bankruptcy, not quite the same thing. And this would be decided by either the California State regulator or the FDIC, and in either situation, it would likely be the FDIC that would sort of take the mantle there.</p>
-  <p>So we'll be watching that, but again, that's a worst case scenario. And Silvergate has fallen. It's lost so many deposits in the last couple of days. We are definitely expecting something like this to happen.</p>
-  <p>Yeah, most definitely, and we'll count on you to keep watching it. Thanks so much, David. Appreciate it.</p>
+      <p>The average rate for mortgage offers clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. Mortgage rates remain higher than they were a year ago, so it remains important to shop around if you want to find a good deal for a new loan or a refinance.</p>
+      <p>Bankrate’s “clicked-on” rate reflects both purchase mortgages and refinances with all terms, including 30-year and 15-year loans.</p>
+      <p>The best deals come with some caveats. For instance, to reel in the best combination of interest rate and costs, you generally need a credit score of 740 or higher and a down payment of 20 percent or more. Many of the lowest rates posted on Bankrate.com also require borrowers to buy discount points, a way of lowering the loan’s interest by paying a fee at closing — known as “buying down” the rate.</p>
+      <p>Rates for mortgages change constantly, and they’ve recently risen. Those ups and downs reflect the volatility of the mortgage market as the economy continues to grapple with slowing-but-still-significant inflation and a looming recession.</p>
+      <p>While it still might make sense to refinance your mortgage, the rationale has changed: Most refis now are being done by homeowners pulling out equity to pay for home renovations or repairs.</p>
+      <p>Key Takeway</p>
+      <p>Be sure to get offers from at least three lenders — you can save thousands of dollars by comparison shopping.</p>
+      <h3>Average clicked on rate for purchase loans</h3>
+      <p>The average rate clicked on by Bankrate readers for 30-year purchase mortgages was 6.31 percent on Thursday.</p>
+      <h3>Average clicked on rate for refinance loans</h3>
+      <p>The typical rate clicked on by Bankrate readers for 30-year refinances stood at 6.23 percent Thursday.</p>
+      <p>You can use Bankrate’s mortgage payment calculator to estimate your monthly payments and see the effect of making extra payments. The tool can also help you determine how much interest you’ll pay over the life of the loan.</p>
     </div>
   },
   {
-    id: 106,
-    title: 'Tethers USDT Stablecoin Market Share Rises to Highest Level in 15 Months',
-    category: 'Crypto',
-    subCategory: ['USDT', 'Stablecoin', 'market'],
+    id: 93,
+    title: 'US prepares new rules on investment in technology abroad- WSJ',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
     description: <div className="blog-desc">
-      <p>The dominance of Tethers USDT is rising among stablecoins amid an ongoing shakeup of the $136 billion stablecoin market.</p>
+      <p>(Reuters) - The Treasury Department is preparing a new program that could prohibit U.S. investment in certain sectors of adversarial nations, the Wall Street Journal reported on Friday citing copies of reports provided to lawmakers on Capitol Hill viewed by the newspaper.</p>
     </div>,
-    authorName: 'Krisztian Sandor',
+    authorName: 'Jose Joseph',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 7, 2023 - 12:41 AM', 
-    cover: 'https://ncx.cx/images/ncx-blog-107.webp',
+    createdAt: 'Mar 4, 2023 09:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-93.webp',
     content: <div className="blog-content">
-      <p>The dominance of Tethers USDT is rising among stablecoins amid an ongoing shakeup of the $136 billion stablecoin market.</p>
-    	<p>USDTs market share among stablecoins surpassed 54% on Monday, data from CoinGecko shows. This is the largest market share Tethers stablecoin has reached since late November 2021, after the crypto bull market reached its apex.</p>
-	    <p>Tethers gain came mostly at the expense of rival Binance USD, which has been in rapid decline since its issuer, Paxos, announced on Feb. 13 that it would halt minting new BUSD tokens due to pressure from the New York Department of Financial Services, the states top regulator. Since then, BUSD has shrunk below $9 billion from a $16 billion market capitalization.</p>	
-	    <p>USDTs market capitalization has grown some $5.3 billion this year so far to $71.6 billion, with $3 billion of the gains after mid-February. Circles rival stablecoin, USD coin (USDC), has also gained $3 billion since the Paxos announcement; however, its $44 billion market cap is still lower than at the start of 2023.</p>	
-	    <p>Stablecoins have become the backbone of the crypto economy in recent years, ballooning to a peak market capitalization of$188 billion in May 2022. They peg their price stable to an external asset, such as the U.S. dollar, and serve as a facilitator for trading on exchanges and making transactions between central bank-issued fiat money and the digital asset world.</p>
-      <p>Tethers position as issuer of the worlds dominant stablecoin defies its historically opaque reporting about its reserves backing the value of USDT and heavy scrutiny of its internal dealings. Last week, the Wall Street Journal reported that Tether used bank accounts accessed by falsified documents in 2018. In September, a New York judge ordered Tether to present financial records on USDTs reserve assets in a lawsuit that alleges Tether conspired to issue USDT to prop up the price of bitcoin (BTC), CoinDesk reported.</p>
-      <p>USDT is the most traded cryptocurrency with some $27 billion of trading volume in the past 24 hours, according to CoinGecko, larger than BTC.</p>
+      <p>(Reuters) - The Treasury Department is preparing a new program that could prohibit U.S. investment in certain sectors of adversarial nations, the Wall Street Journal reported on Friday citing copies of reports provided to lawmakers on Capitol Hill viewed by the newspaper.</p>
+      <p>The Biden administration's work on the new rules would in practice largely deal with U.S. investments in China though the report given to lawmakers did not identify any countries, the WSJ said.</p>
+      <p>The new rules are expected to cover private-equity and venture-capital investments in advanced semiconductors, supercomputing and some forms of artificial intelligence, the WSJ reported quoting people familiar with the matter as saying.</p>
+      <p>The Treasury and Commerce departments expected to finalize their policy in the near future, it added.</p>
+      <p>Reuters reported last month that Biden administration was planning an outright ban on investments in some Chinese technology companies and increased scrutiny of others.</p>
+      <p>The United States passed a sweeping set of regulations last year that aimed at hobbling China's semiconductor industry.</p>
+      <p>(Reporting by Jose Joseph and Anirudh Saligrama in Bengaluru; Editing by Himani Sarkar and Simon Cameron-Moore)</p>
     </div>
   },
   {
-    id: 105,
-    title: 'Grayscale’s bitcoin trust shares jump 9% after ETF hearing',
-    category: 'Crypto',
-    subCategory: ['Grayscale', 'ETF', 'bitcoin'],
+    id: 94,
+    title: 'U.S. Prepares New Rules on Investment in China',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
     description: <div className="blog-desc">
-      <p>Grayscale Bitcoin Trust, or GBTC, saw its share price rally almost 9% Tuesday, after a panel of judges appeared to be skeptical about the U.S. Securities and Exchange Commission’s arguments during an appeals court hearing, as Grayscale continues its push to convert GBTC into an exchange-traded fund. </p>
+      <p>The Biden administration is preparing a new program that could prohibit American investment in certain sectors in China, a step to guard U.S. technological advantages amid a growing competition between the world’s two largest economies.</p>
     </div>,
-    authorName: 'Frances Yue',
+    authorName: 'Andrew Duehren',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 7, 2023 - 1:55 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-106.jpg',
+    createdAt: 'Mar 4, 2023 08:47 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-94.webp',
     content: <div className="blog-content">
-      <p>Grayscale Bitcoin Trust, or GBTC, saw its share price rally almost 9% Tuesday, after a panel of judges appeared to be skeptical about the U.S. Securities and Exchange Commission’s arguments during an appeals court hearing, as Grayscale continues its push to convert GBTC into an exchange-traded fund. </p>
-      <p>Judges at the District of Columbia Circuit Court of Appeals in Washington, D.C., asked SEC senior counsel Emily Parise details about the connections between bitcoin BTCUSD spot and futures and markets, and questioned the agency’s...</p>
-      <p>In June, Grayscale filed a lawsuit against the SEC over the agency’s denial of an application to convert GBTC GBTC, +2.64% into an ETF. The SEC has greenlighted several bitcoin futures-backed ETFs, but has yet to approve any ETFs backed by the cryptocurrency itself, citing concerns about market manipulation. </p>
-      <p>The lawsuit filed by Grayscale is under the spotlight as it may shed light on whether and when a spot bitcoin ETF might be available in the U.S. Meanwhile, a successful conversion of GBTC into an ETF would help mitigate the discount GBTC has been trading at to its net asset value, or the value of bitcoins it holds. </p>
-      <p>Launched in 2013, GBTC traded at a premium to its net asset value for several years, as it was for a long time the only public-listed fund that holds bitcoin as its primary assets. The premium flipped to a discount in February 2021, partly due to the launch of the first spot bitcoin ETF in Canada. However, investors can only sell, but not redeem their shares in the fund, in part as GBTC was structured similar to a close-end fund.</p>
-      <p>To close the discount, Grayscale had lobbied the SEC and finally filed a lawsuit against the agency to push for a conversion from GBTC into an ETF. For an ETF, institutional traders can keep creating and redeeming shares, thus closing the gap between the fund’s price and the value of its underlying assets through arbitrages.</p>
-      <p>“We look forward to the Court’s final decision, and strongly believe that American investors deserve to have equal access to the Bitcoin ETF product that best suits their needs,” a Grayscale spokeswoman wrote to MarketWatch in an email. </p>
-      <p>China Yangtze Power Co., Ltd. (600900.SS) owns the Three Gorges hydropower electricity generation unit, which has the highest power generation capacity of 22,500 MW. Overall, the company has a power generation capacity of 71,795 MW and has more than 110 other hydroelectric power units under its portfolio. Not only is China Yangtze Power Co., Ltd. (600900.SS) the biggest supplier of electricity in China, but it is also the biggest publicly listed hydroelectric power generation and transmission company in the world.</p>
-     </div>
+      <p>The Biden administration is preparing a new program that could prohibit American investment in certain sectors in China, a step to guard U.S. technological advantages amid a growing competition between the world’s two largest economies.</p>
+    </div>
   },
   {
-    id: 104,
-    title: 'Bitcoin, Ether fall amid U.S. Fed chair warning of more interest rate hikes; Forkast NFT 500 index slips 0.65%',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'Crypto', 'NFTs'],
+    id: 95,
+    title: 'Exclusive-Nvidias plans for sales to Huawei imperiled if U.S. tightens Huawei curbs-draft',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
     description: <div className="blog-desc">
-      <p>Bitcoin and Ether fell in afternoon trading in Asia on Wednesday, with XRP the sole gainer among the top 10 non-stablecoin cryptocurrencies by market capitalization.</p>
+      <p>WASHINGTON (Reuters) - U.S. chipmaker Nvidia Corp's plans to sell technology to China's Huawei would be thwarted if the U.S. government proceeds with a proposal to further restrict shipments to the blacklisted company, a draft report by a government contractor shows.</p>
     </div>,
-    authorName: 'Dylan Butts',
+    authorName: 'Alexandra Alper',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 8, 2023 - 1:51 PM', 
-    cover: 'https://ncx.cx/images/ncx-blog-105.webp',
+    createdAt: 'Mar 4, 2023 08:36 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-95.webp',
     content: <div className="blog-content">
-      <p>Bitcoin and Ether fell in afternoon trading in Asia on Wednesday, with XRP the sole gainer among the top 10 non-stablecoin cryptocurrencies by market capitalization. The new Forkast NFT 500 index slipped, and Asian equity markets were mixed following declines in the U.S. as investors reacted to Tuesday’s comments from the U.S. Federal Reserve Chair Jerome Powell.</p>
-      <h3>Fast facts</h3>
-      <ul>
-        <li>Bitcoin fell 0.76% to US$22,028 in 24 hours as of 4:30 p.m. in Hong Kong on Tuesday, according to CoinMarketCap data. The biggest cryptocurrency by market capitalization is down over 7% on the week. Ether fell 1% to US$1,554, after losing about 6% in the past seven days.</li>
-        <li>XRP was the day’s biggest gainer, extending gains from Tuesday. The token increased 2.42% to US$0.38 but declined 1.25% on the week.</li>
-        <li>Altcoin Bone ShibaSwap was the top gainer of all cryptocurrencies, rising over 10% over 24 hours to trade hands at US$1.69.</li>
-        <li>The global cryptocurrency market capitalization fell 1.82% to US$1.01 trillion, but the total crypto market volume increased 41.44% to US$46.71 billion in the last 24 hours.</li>
-        <li>Asian stocks were mostly flat despite losses in the U.S. after hawkish comments from Federal Reserve Chair Jerome Powell raised the possibility of the U.S. central bank returning to significant rate hikes to settle inflation. Hong Kong’s Hang Seng saw the biggest loss of 2.35% while Japan’s Nikkei 225 gained 0.48%.</li>
-        <li>Investors remained cautious after Powell’s hawkish remarks. European stocks were trading flat, as Germany’s DAX 40 inched down 0.02%, while the STOXX 600 slid 0.17%.</li>
-        <li>The Forkast NFT 500 index, which went live on Tuesday, dropped 0.65% to 4,275.91 over the last 24 hours as per 4:30 p.m. on Tuesday in Hong Kong. The Forkast NFT 500 Index is a proxy measure of the performance of the global NFT market, and includes 500 eligible smart contracts on any given day.</li>
-      </ul>
-      </div>
+      <p>FILE PHOTO: Foxconn to use Nvidia chips to build self-driving platforms</p>
+      <p>By Alexandra Alper</p>
+      <p>WASHINGTON (Reuters) - U.S. chipmaker Nvidia Corp's plans to sell technology to China's Huawei would be thwarted if the U.S. government proceeds with a proposal to further restrict shipments to the blacklisted company, a draft report by a government contractor shows.</p>
+      <p>The Biden administration has been considering limiting the items it authorizes U.S. companies to ship to telecoms equipment giant Huawei Technologies Co, which was added to a U.S. trade blacklist in 2019 but which continues to receive billions in U.S. goods under a special plan implemented by the Trump administration.</p>
+      <p>"The proposed 2023 amendment of (the Commerce Department's) licensing will likely have a high economic impact on Nvidia," according to excerpts of the draft report seen by Reuters, referring to the company's "pending license value."</p>
+      <p>Nvidia's plans to sell to Huawei have not been previously reported.</p>
+      <p>A Nvidia spokesperson declined to comment on the document, saying: "The China market presents a significant opportunity for the U.S. semiconductor industry. While we are unable to comment on any pending license requests, we work with customers and partners worldwide to comply with all applicable export controls and meet market demand.”</p>
+      <p>A senior State Department Official said the document was a preliminary draft prepared by a contractor, and the department "would not have approved of the report in its current form." It also said the government "has written and contracted multiple reports on this subject, based on different contingencies, which arrive at very different conclusions."</p>
+      <p>The White House and Commerce Department declined to comment. Huawei did not respond to a request for comment.</p>
+      <p>The document shows the Biden administration is seeking to assess the impact on U.S. companies of proposed Huawei policy changes before imposing new rules that could crimp projected revenue streams at a time when the tech industry is already reeling. It also provides unusual insight into the politically sensitive question of which U.S. companies are seeking business ties to Huawei, one of Washington's most penalized Chinese companies.</p>
+      <p>Reuters could not learn the details of the specific policy change whose impact was being assessed in the report.</p>
+      <p>The report suggested Qualcomm would likely suffer a "moderate economic impact" from the change in policy, in contrast to Huawei. Indeed, the loss of access to Qualcomm's modem chips would have a bigger impact on Huawei, the report forecast, since Huawei "relies heavily on Qualcomm's modem chips to support its smart phone offering."</p>
+      <p>Qualcomm did not respond to a request for comment.</p>
+      <p>Reuters reported in 2021 that U.S. officials had approved license applications worth hundreds of millions of dollars for Huawei to buy chips for its growing auto component business, including vehicle components such as video screens and sensors, as trade restrictions crippled other business lines.</p>
+      <p>Huawei was placed on the "entity list" in 2019 amid fears it could spy on Americans and allegations it was stealing intellectual property and violating sanctions. The U.S requires that suppliers seek a special license that is usually denied when selling U.S. goods to companies on the list. But the Trump administration instituted a more lenient policy for Huawei, blocking its access to 5G chips but allowing other items like 4G chips to be shipped to the firm.</p>
+      <p>The Commerce Department's top export controls official, Alan Estevez, said this week the Trump-era policy allowing U.S. technology below the “5G level" to be shipped to Huawei was "under assessment."</p>
+      <p>But sources say there are differences within the administration odds over how far to go: some officials advocate blocking all licenses to Huawei suppliers and revoking existing authorizations, while others want to extend restrictions only to 4G chips and other targeted technologies going forward.</p>
+      <p>(Reporting by Alexandra Alper; Additional Reporting by Karen Freifeld and Stephen Nellis; Editing by Chris Sanders and William Mallard)</p>
+    </div>
+  },
+  {
+    id: 96,
+    title: 'OpenAI Rival Stable Diffusion Maker Seeks to Raise Funds at $4 Billion Valuation',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The parent company of Stable Diffusion, an AI tool for making digital images, is seeking to raise money at a valuation of about $4 billion, according to people familiar with the matter, who asked to not be identified because it isn’t public. It isn’t clear how much capital Stability AI Ltd. is seeking to raise in the potential round. A final decision hasn’t been made on whether to go ahead with the financing and the valuation could still change, the people added.</p>
+    </div>,
+    authorName: 'Katie Roof, Mark Bergen and Hannah Miller',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 08:31 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-96.webp',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- With artificial intelligence booming, one key player in the fast-growing space is talking to investors about raising more money after just reaching unicorn status in a funding round late last year.</p>
+      <p>The parent company of Stable Diffusion, an AI tool for making digital images, is seeking to raise money at a valuation of about $4 billion, according to people familiar with the matter, who asked to not be identified because it isn’t public. It isn’t clear how much capital Stability AI Ltd. is seeking to raise in the potential round. A final decision hasn’t been made on whether to go ahead with the financing and the valuation could still change, the people added.</p>
+      <p>London-based Stability, whose investors include Coatue Management and Lightspeed Venture Partners, last raised $101 million at a valuation of about $1 billion, Bloomberg News reported in October.</p>
+      <p>Representatives for Stability AI didn’t provide a comment.</p>
+      <p>That it’s going back to market so soon amid a tech downturn at a much richer valuation underscores how artificial intelligence in recent months has become the hottest topic in Silicon Valley, with the potential to upend entertainment, finance and even education.</p>
+      <p>Microsoft Corp., Bloomberg News reported in January, is investing $10 billion in OpenAI, the parent of ChatGPT, a leader in the technology, with tools that can generate uncannily detailed pictures, text and other media with a short prompt. LinkedIn co-founder Reid Hoffman said Friday that he was stepping down from the board of OpenAI, as his venture capital firm increasingly invests in other AI companies.</p>
+      <p>Other tech giants including Alphabet Inc., Amazon.com Inc. and Meta Platforms Inc. are also competing to get out front in AI.</p>
+      <p>Stable Diffusion competes with OpenAI’s Dall-E 2, another digital-image tool.</p>
+      <p>The way Stable Diffusion works is that people type in a description of an image — say an astronaut riding a horse — and the program spits out a realistic or surrealistic picture. The company says it stands apart from competitors because its open-source software is available to the public. Its practical uses include designing video games to advertisements.</p>
+      <p>--With assistance from Dina Bass.</p>
+      <p>(Updates with Reid Hoffman leaving OpenAI board in sixth paragraph.)</p>
+    </div>
+  },
+  {
+    id: 97,
+    title: 'China E-Commerce Giant JD Set for $1.4 Billion Discount Spree',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>The campaign has spurred concerns that larger rival Alibaba Group Holding Ltd. or upstart PDD Holdings Inc. may </p>
+    </div>,
+    authorName: 'Jane Zhang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 08:04 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-97.webp',
+    content: <div className="blog-content">
+      <p><strong>China E-Commerce Giant JD Set for $1.4 Billion Discount Spree</strong></p>
+      <p>(Bloomberg) -- JD.com Inc. will offer discounts across its online shopping platforms from Monday in a 10 billion yuan ($1.4 billion) campaign to capture new users ahead of an anticipated Chinese economic recovery this year.</p>
+      <p>The campaign has spurred concerns that larger rival Alibaba Group Holding Ltd. or upstart PDD Holdings Inc. may retaliate with cuts of their own, igniting a margin-eroding price war. JD announced the launch of the subsidy plan in a statement on its official WeChat account Saturday.</p>
+      <p>China’s internet firms are revving up efforts to outdo each other since Beijing began to wind back its bruising crackdown on the tech sector, spurring an abrupt surge in competition that’s spooking investors. Meituan is said to be expanding into Hong Kong and has embarked on a campaign to hire 10,000 people on the mainland — an effort to beat back heightened competition from new entrants such as ByteDance Ltd. in the $145 billion Chinese food-delivery arena.</p>
+      <p>JD shares tumbled after news of the impending rivalry surfaced in domestic media last week. Alibaba executives have since dismissed speculation it would directly engage its longtime rival, warning that a return to the price wars of years past was in nobody’s best interest.</p>
+      <p>In 2020, Beijing launched a crackdown campaign to rein in what it called the “reckless expansion of capital,” affecting sectors from e-commerce to online education and the sharing economy. The government has begun rolling back restrictions since late 2022, intent on reviving a Covid-struck economy.</p>
+      <p>A $33 Billion Hit Shows China’s Newest Stock Worry: Tech Watch</p>
+    </div>
+  },
+  {
+    id: 98,
+    title: 'iPhone Maker Plans $700 Million India Plant in Shift From China',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Apple Inc. partner Foxconn Technology Group plans to invest about $700 million on a new plant in India to ramp up local production, people familiar with the matter said, underscoring an accelerating shift of manufacturing away from China as Washington-Beijing tensions grow.</p>
+    </div>,
+    authorName: 'Sankalp Phartiyal and Debby Wu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 07:39 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-98.webp',
+    content: <div className="blog-content">
+      <p>(Bloomberg) -- Apple Inc. partner Foxconn Technology Group plans to invest about $700 million on a new plant in India to ramp up local production, people familiar with the matter said, underscoring an accelerating shift of manufacturing away from China as Washington-Beijing tensions grow.</p>
+      <p>The Taiwanese company, also known for its flagship unit Hon Hai Precision Industry Co., plans to build the plant to make iPhone parts on a 300-acre site close to the airport in Bengaluru, the capital of the southern Indian state of Karnataka, according to the people, who asked not to be named as the information is not public.</p>
+      <p>The factory may also assemble Apple’s handsets, some of the people said, and Foxconn may also use the site to produce some parts for its nascent electric vehicle business. Apple declined to comment.</p>
+      <p>The investment is one of Foxconn’s biggest single outlays to date in India and underscores how China’s at risk of losing its status as the world’s largest producer of consumer electronics. Apple and other US brands are leaning on their Chinese-based suppliers to explore alternative locations such as India and Vietnam. It’s a rethink of the global supply chain that’s accelerated during the pandemic and the war in Ukraine and could reshape the way global electronics are made.</p>\
+      <p>Hon Hai Chairman Young Liu, who met India’s Prime Minister Narendra Modi this week, did not comment on a possible Karnataka investment in a statement on Saturday outlining his visit.</p>
+      <p>“My trip this week supported Foxconn’s efforts to deepen partnerships, meet old friends and make new ones, and seek cooperation in new areas such as semiconductor development and electric vehicles,” Liu said. “Foxconn will continue to communicate with local governments to seek the most beneficial development opportunities for the company and all stakeholders.”</p>
+      <p>The new production site in India is expected to create about 100,000 jobs, the people said. The company’s sprawling iPhone assembly complex in the Chinese city of Zhengzhou employs some 200,000 at the moment, although that number surges during peak production season.</p>
+      <p>Output at the Zhengzhou plant plunged ahead of the year-end holidays due to Covid-related disruptions, spurring Apple to re-examine its China-reliant supply chain. Foxconn’s decision is the latest move that suggests suppliers may move capacity out of China far faster than expected.</p>
+      <p>What Bloomberg Intelligence Says</p>
+      <p>The plan may herald an accelerated relocation from China for Hon Hai. Once completed, we calculate this factory could materially improve the component supply in India and potentially boost the country’s share of iPhone assembly to 10-15 % from a sub-5% currently.</p>
+      <p>— Steven Tseng and Sean Chen, analysts</p>
+      <p>Several government officials including India’s deputy tech minister tweeted confirmation of details around the upcoming plant on Friday, including that it will be built soon and create 100,000 jobs.</p>
+      <p>The plans could still change as Foxconn is in the process of finalizing investment and project details, the people said. It’s also unclear if the plant represents new capacity, or production that Foxconn is shifting from other sites such as its Chinese facilities.</p>
+      <p>The Karnataka state government also did not respond to a Bloomberg request for comment. Liu has committed to another manufacturing project in the neighboring Telangana state.</p>
+      <p>Foxconn’s decision would be a coup for Modi’s government, which sees an opportunity to close India’s tech gap with China as Western investors and corporations sour on Beijing’s crackdowns on the private sector.</p>
+      <p>India has offered financial incentives to Apple suppliers such as Foxconn, which began making the latest generation of iPhones at a site in Tamil Nadu last year. Smaller rivals Wistron Corp. and Pegatron Corp. have also ramped up in India, while suppliers such as Jabil Inc. have begun making components for AirPods locally.</p>
+      <p>--With assistance from Mark Gurman.</p>
+      <p>(Updates with Hon Hai statement in fifth paragraph)</p>
+    </div>
+  },
+  {
+    id: 99,
+    title: 'Twitters revenue, adjusted earnings drop about 40% in December - WSJ',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>FILE PHOTO: Twitter corporate headquarters building in San Francisco, California</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 06:44 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-99.webp',
+    content: <div className="blog-content">
+      <p>FILE PHOTO: Twitter corporate headquarters building in San Francisco, California</p>
+      <p>(Reuters) - Twitter Inc reported a drop of about 40% year-over-year in both revenue and adjusted earnings for the month of December, the Wall Street Journal reported on Friday citing people familiar with the matter.</p>
+      <p>The report comes after several advertisers slashed their spending on the social-media platform after Elon Musk took charge of the company on Oct. 27, resulting in a 71% drop in advertising spend on Twitter during December, data from advertising research firm—Standard Media Index showed.</p>
+      <p>Twitter did not immediately respond to a Reuters request for comment.</p>
+      <p>Musk, who warned in November about the possibility of the Twitter going bankrupt, said in December that the company was on track to be "roughly cash flow break-even" in 2023.</p>
+      <p>Twitter made its first interest payment in January on a loan that banks provided to help finance billionaire Musk's purchase of the social media company last year.</p>
+      <p>(Reporting by Anirudh Saligrama in Bengaluru; Editing by Himani Sarkar)</p>
+    </div>
+  },
+  {
+    id: 100,
+    title: 'U.S. Oil Will Grow Only 3% This Year. One Reason: Executive Compensation.',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Morgan Stanley analyst Devin McDermott tracks the change in pay incentives for oil executives from high production to</p>
+    </div>,
+    authorName: 'Avi Salzman',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 05:55 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-100.webp',
+    content: <div className="blog-content">
+      <p>U.S. Oil Will Grow Only 3% This Year. One Reason: Executive Compensation</p>
+      <p>Morgan Stanley analyst Devin McDermott tracks the change in pay incentives for oil executives from high production to investor-pleasing efficiency metrics like free cash flow.</p>
+    </div>
+  },
+  {
+    id: 101,
+    title: 'Silvergate suspends crypto payments network; shares fall after-hours',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Funds', 'Finance'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Silvergate Capital Corp said on Friday it made a "risk-based decision" to discontinue the Silvergate Exchange Network, its crypto payments network, two days after the digital asset-focused bank raised doubts about its viability.</p>
+    </div>,
+    authorName: 'Hannah Lang and Akriti Sharma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 05:55 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-101.webp',
+    content: <div className="blog-content">
+      <p>(Reuters) - Silvergate Capital Corp said on Friday it made a "risk-based decision" to discontinue the Silvergate Exchange Network, its crypto payments network, two days after the digital asset-focused bank raised doubts about its viability.</p>
+      <p>"Effective immediately Silvergate Bank has made a risk-based decision to discontinue the Silvergate Exchange Network (SEN). All other deposit-related services remain operational," Silvergate said in a statement posted on its website.</p>
+      <p>The Silvergate Exchange Network, one of the bank's most popular offerings, enabled round-the-clock transfers between investors and crypto exchanges, unlike traditional bank wires, which can often take days to settle.</p>
+      <p>Silvergate shares on Friday slumped more than 2% in after-hours trading, after closing up 0.9% at $5.77 in regular trade. The shares on Thursday had fallen to a record low, ending the day down more than 97% from their all-time high in November 2021.</p>
+      <p>Silvergate on Wednesday warned in a filing that it was evaluating its ability to operate as a going concern, disclosing that it had sold additional debt securities this year at a loss and that further losses mean the bank could be “less than well capitalized.”</p>
+      <p>After the warning, cryptocurrency heavyweights including Coinbase Global Inc and Galaxy Digital dropped Silvergate as their banking partner. Stablecoin issuers Paxos and Circle, Cboe’s digital asset exchange, and crypto exchanges Bitstamp and Gemini also suspended their partnerships with Silvergate.</p>
+      <p>(Reporting by Akriti Sharma in Bengaluru; Editing by Leslie Adler)</p>
+    </div>
   },
   {
     id: 103,
@@ -1146,286 +1352,6 @@ const blogListdata = [
       <p>“I disagree with the premise of this question” Pichai responded, noting Google has been “working on A.I. for a long time.”</p>
       <p>Indeed, OpenAI was established in 2015 “as a counterweight to Google” in A.I., Tesla CEO Elon Musk, who helped start it, tweeted last month. He also complained that OpenAI had “become a closed source, maximum-profit company effectively controlled by Microsoft.” (Musk is now reportedly working to establish a rival to OpenAI.)</p>
       <p>But Google, though it’s long been strong on the A.I. research front, has much more to lose than anyone else if users start Googling less and turning to A.I. chatbots more for their search queries.</p>
-    </div>
-  },
-  {
-    id: 101,
-    title: 'Silvergate suspends crypto payments network; shares fall after-hours',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>(Reuters) - Silvergate Capital Corp said on Friday it made a "risk-based decision" to discontinue the Silvergate Exchange Network, its crypto payments network, two days after the digital asset-focused bank raised doubts about its viability.</p>
-    </div>,
-    authorName: 'Hannah Lang and Akriti Sharma',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 05:55 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-101.webp',
-    content: <div className="blog-content">
-      <p>(Reuters) - Silvergate Capital Corp said on Friday it made a "risk-based decision" to discontinue the Silvergate Exchange Network, its crypto payments network, two days after the digital asset-focused bank raised doubts about its viability.</p>
-      <p>"Effective immediately Silvergate Bank has made a risk-based decision to discontinue the Silvergate Exchange Network (SEN). All other deposit-related services remain operational," Silvergate said in a statement posted on its website.</p>
-      <p>The Silvergate Exchange Network, one of the bank's most popular offerings, enabled round-the-clock transfers between investors and crypto exchanges, unlike traditional bank wires, which can often take days to settle.</p>
-      <p>Silvergate shares on Friday slumped more than 2% in after-hours trading, after closing up 0.9% at $5.77 in regular trade. The shares on Thursday had fallen to a record low, ending the day down more than 97% from their all-time high in November 2021.</p>
-      <p>Silvergate on Wednesday warned in a filing that it was evaluating its ability to operate as a going concern, disclosing that it had sold additional debt securities this year at a loss and that further losses mean the bank could be “less than well capitalized.”</p>
-      <p>After the warning, cryptocurrency heavyweights including Coinbase Global Inc and Galaxy Digital dropped Silvergate as their banking partner. Stablecoin issuers Paxos and Circle, Cboe’s digital asset exchange, and crypto exchanges Bitstamp and Gemini also suspended their partnerships with Silvergate.</p>
-      <p>(Reporting by Akriti Sharma in Bengaluru; Editing by Leslie Adler)</p>
-    </div>
-  },
-  {
-    id: 100,
-    title: 'U.S. Oil Will Grow Only 3% This Year. One Reason: Executive Compensation.',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>Morgan Stanley analyst Devin McDermott tracks the change in pay incentives for oil executives from high production to</p>
-    </div>,
-    authorName: 'Avi Salzman',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 05:55 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-100.webp',
-    content: <div className="blog-content">
-      <p>U.S. Oil Will Grow Only 3% This Year. One Reason: Executive Compensation</p>
-      <p>Morgan Stanley analyst Devin McDermott tracks the change in pay incentives for oil executives from high production to investor-pleasing efficiency metrics like free cash flow.</p>
-    </div>
-  },
-  {
-    id: 99,
-    title: 'Twitters revenue, adjusted earnings drop about 40% in December - WSJ',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>FILE PHOTO: Twitter corporate headquarters building in San Francisco, California</p>
-    </div>,
-    authorName: '',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 06:44 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-99.webp',
-    content: <div className="blog-content">
-      <p>FILE PHOTO: Twitter corporate headquarters building in San Francisco, California</p>
-      <p>(Reuters) - Twitter Inc reported a drop of about 40% year-over-year in both revenue and adjusted earnings for the month of December, the Wall Street Journal reported on Friday citing people familiar with the matter.</p>
-      <p>The report comes after several advertisers slashed their spending on the social-media platform after Elon Musk took charge of the company on Oct. 27, resulting in a 71% drop in advertising spend on Twitter during December, data from advertising research firm—Standard Media Index showed.</p>
-      <p>Twitter did not immediately respond to a Reuters request for comment.</p>
-      <p>Musk, who warned in November about the possibility of the Twitter going bankrupt, said in December that the company was on track to be "roughly cash flow break-even" in 2023.</p>
-      <p>Twitter made its first interest payment in January on a loan that banks provided to help finance billionaire Musk's purchase of the social media company last year.</p>
-      <p>(Reporting by Anirudh Saligrama in Bengaluru; Editing by Himani Sarkar)</p>
-    </div>
-  },
-  {
-    id: 98,
-    title: 'iPhone Maker Plans $700 Million India Plant in Shift From China',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>(Bloomberg) -- Apple Inc. partner Foxconn Technology Group plans to invest about $700 million on a new plant in India to ramp up local production, people familiar with the matter said, underscoring an accelerating shift of manufacturing away from China as Washington-Beijing tensions grow.</p>
-    </div>,
-    authorName: 'Sankalp Phartiyal and Debby Wu',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 07:39 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-98.webp',
-    content: <div className="blog-content">
-      <p>(Bloomberg) -- Apple Inc. partner Foxconn Technology Group plans to invest about $700 million on a new plant in India to ramp up local production, people familiar with the matter said, underscoring an accelerating shift of manufacturing away from China as Washington-Beijing tensions grow.</p>
-      <p>The Taiwanese company, also known for its flagship unit Hon Hai Precision Industry Co., plans to build the plant to make iPhone parts on a 300-acre site close to the airport in Bengaluru, the capital of the southern Indian state of Karnataka, according to the people, who asked not to be named as the information is not public.</p>
-      <p>The factory may also assemble Apple’s handsets, some of the people said, and Foxconn may also use the site to produce some parts for its nascent electric vehicle business. Apple declined to comment.</p>
-      <p>The investment is one of Foxconn’s biggest single outlays to date in India and underscores how China’s at risk of losing its status as the world’s largest producer of consumer electronics. Apple and other US brands are leaning on their Chinese-based suppliers to explore alternative locations such as India and Vietnam. It’s a rethink of the global supply chain that’s accelerated during the pandemic and the war in Ukraine and could reshape the way global electronics are made.</p>\
-      <p>Hon Hai Chairman Young Liu, who met India’s Prime Minister Narendra Modi this week, did not comment on a possible Karnataka investment in a statement on Saturday outlining his visit.</p>
-      <p>“My trip this week supported Foxconn’s efforts to deepen partnerships, meet old friends and make new ones, and seek cooperation in new areas such as semiconductor development and electric vehicles,” Liu said. “Foxconn will continue to communicate with local governments to seek the most beneficial development opportunities for the company and all stakeholders.”</p>
-      <p>The new production site in India is expected to create about 100,000 jobs, the people said. The company’s sprawling iPhone assembly complex in the Chinese city of Zhengzhou employs some 200,000 at the moment, although that number surges during peak production season.</p>
-      <p>Output at the Zhengzhou plant plunged ahead of the year-end holidays due to Covid-related disruptions, spurring Apple to re-examine its China-reliant supply chain. Foxconn’s decision is the latest move that suggests suppliers may move capacity out of China far faster than expected.</p>
-      <p>What Bloomberg Intelligence Says</p>
-      <p>The plan may herald an accelerated relocation from China for Hon Hai. Once completed, we calculate this factory could materially improve the component supply in India and potentially boost the country’s share of iPhone assembly to 10-15 % from a sub-5% currently.</p>
-      <p>— Steven Tseng and Sean Chen, analysts</p>
-      <p>Several government officials including India’s deputy tech minister tweeted confirmation of details around the upcoming plant on Friday, including that it will be built soon and create 100,000 jobs.</p>
-      <p>The plans could still change as Foxconn is in the process of finalizing investment and project details, the people said. It’s also unclear if the plant represents new capacity, or production that Foxconn is shifting from other sites such as its Chinese facilities.</p>
-      <p>The Karnataka state government also did not respond to a Bloomberg request for comment. Liu has committed to another manufacturing project in the neighboring Telangana state.</p>
-      <p>Foxconn’s decision would be a coup for Modi’s government, which sees an opportunity to close India’s tech gap with China as Western investors and corporations sour on Beijing’s crackdowns on the private sector.</p>
-      <p>India has offered financial incentives to Apple suppliers such as Foxconn, which began making the latest generation of iPhones at a site in Tamil Nadu last year. Smaller rivals Wistron Corp. and Pegatron Corp. have also ramped up in India, while suppliers such as Jabil Inc. have begun making components for AirPods locally.</p>
-      <p>--With assistance from Mark Gurman.</p>
-      <p>(Updates with Hon Hai statement in fifth paragraph)</p>
-    </div>
-  },
-  {
-    id: 97,
-    title: 'China E-Commerce Giant JD Set for $1.4 Billion Discount Spree',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>The campaign has spurred concerns that larger rival Alibaba Group Holding Ltd. or upstart PDD Holdings Inc. may </p>
-    </div>,
-    authorName: 'Jane Zhang',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 08:04 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-97.webp',
-    content: <div className="blog-content">
-      <p><strong>China E-Commerce Giant JD Set for $1.4 Billion Discount Spree</strong></p>
-      <p>(Bloomberg) -- JD.com Inc. will offer discounts across its online shopping platforms from Monday in a 10 billion yuan ($1.4 billion) campaign to capture new users ahead of an anticipated Chinese economic recovery this year.</p>
-      <p>The campaign has spurred concerns that larger rival Alibaba Group Holding Ltd. or upstart PDD Holdings Inc. may retaliate with cuts of their own, igniting a margin-eroding price war. JD announced the launch of the subsidy plan in a statement on its official WeChat account Saturday.</p>
-      <p>China’s internet firms are revving up efforts to outdo each other since Beijing began to wind back its bruising crackdown on the tech sector, spurring an abrupt surge in competition that’s spooking investors. Meituan is said to be expanding into Hong Kong and has embarked on a campaign to hire 10,000 people on the mainland — an effort to beat back heightened competition from new entrants such as ByteDance Ltd. in the $145 billion Chinese food-delivery arena.</p>
-      <p>JD shares tumbled after news of the impending rivalry surfaced in domestic media last week. Alibaba executives have since dismissed speculation it would directly engage its longtime rival, warning that a return to the price wars of years past was in nobody’s best interest.</p>
-      <p>In 2020, Beijing launched a crackdown campaign to rein in what it called the “reckless expansion of capital,” affecting sectors from e-commerce to online education and the sharing economy. The government has begun rolling back restrictions since late 2022, intent on reviving a Covid-struck economy.</p>
-      <p>A $33 Billion Hit Shows China’s Newest Stock Worry: Tech Watch</p>
-    </div>
-  },
-  {
-    id: 96,
-    title: 'OpenAI Rival Stable Diffusion Maker Seeks to Raise Funds at $4 Billion Valuation',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>The parent company of Stable Diffusion, an AI tool for making digital images, is seeking to raise money at a valuation of about $4 billion, according to people familiar with the matter, who asked to not be identified because it isn’t public. It isn’t clear how much capital Stability AI Ltd. is seeking to raise in the potential round. A final decision hasn’t been made on whether to go ahead with the financing and the valuation could still change, the people added.</p>
-    </div>,
-    authorName: 'Katie Roof, Mark Bergen and Hannah Miller',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 08:31 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-96.webp',
-    content: <div className="blog-content">
-      <p>(Bloomberg) -- With artificial intelligence booming, one key player in the fast-growing space is talking to investors about raising more money after just reaching unicorn status in a funding round late last year.</p>
-      <p>The parent company of Stable Diffusion, an AI tool for making digital images, is seeking to raise money at a valuation of about $4 billion, according to people familiar with the matter, who asked to not be identified because it isn’t public. It isn’t clear how much capital Stability AI Ltd. is seeking to raise in the potential round. A final decision hasn’t been made on whether to go ahead with the financing and the valuation could still change, the people added.</p>
-      <p>London-based Stability, whose investors include Coatue Management and Lightspeed Venture Partners, last raised $101 million at a valuation of about $1 billion, Bloomberg News reported in October.</p>
-      <p>Representatives for Stability AI didn’t provide a comment.</p>
-      <p>That it’s going back to market so soon amid a tech downturn at a much richer valuation underscores how artificial intelligence in recent months has become the hottest topic in Silicon Valley, with the potential to upend entertainment, finance and even education.</p>
-      <p>Microsoft Corp., Bloomberg News reported in January, is investing $10 billion in OpenAI, the parent of ChatGPT, a leader in the technology, with tools that can generate uncannily detailed pictures, text and other media with a short prompt. LinkedIn co-founder Reid Hoffman said Friday that he was stepping down from the board of OpenAI, as his venture capital firm increasingly invests in other AI companies.</p>
-      <p>Other tech giants including Alphabet Inc., Amazon.com Inc. and Meta Platforms Inc. are also competing to get out front in AI.</p>
-      <p>Stable Diffusion competes with OpenAI’s Dall-E 2, another digital-image tool.</p>
-      <p>The way Stable Diffusion works is that people type in a description of an image — say an astronaut riding a horse — and the program spits out a realistic or surrealistic picture. The company says it stands apart from competitors because its open-source software is available to the public. Its practical uses include designing video games to advertisements.</p>
-      <p>--With assistance from Dina Bass.</p>
-      <p>(Updates with Reid Hoffman leaving OpenAI board in sixth paragraph.)</p>
-    </div>
-  },
-  {
-    id: 95,
-    title: 'Exclusive-Nvidias plans for sales to Huawei imperiled if U.S. tightens Huawei curbs-draft',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>WASHINGTON (Reuters) - U.S. chipmaker Nvidia Corp's plans to sell technology to China's Huawei would be thwarted if the U.S. government proceeds with a proposal to further restrict shipments to the blacklisted company, a draft report by a government contractor shows.</p>
-    </div>,
-    authorName: 'Alexandra Alper',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 08:36 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-95.webp',
-    content: <div className="blog-content">
-      <p>FILE PHOTO: Foxconn to use Nvidia chips to build self-driving platforms</p>
-      <p>By Alexandra Alper</p>
-      <p>WASHINGTON (Reuters) - U.S. chipmaker Nvidia Corp's plans to sell technology to China's Huawei would be thwarted if the U.S. government proceeds with a proposal to further restrict shipments to the blacklisted company, a draft report by a government contractor shows.</p>
-      <p>The Biden administration has been considering limiting the items it authorizes U.S. companies to ship to telecoms equipment giant Huawei Technologies Co, which was added to a U.S. trade blacklist in 2019 but which continues to receive billions in U.S. goods under a special plan implemented by the Trump administration.</p>
-      <p>"The proposed 2023 amendment of (the Commerce Department's) licensing will likely have a high economic impact on Nvidia," according to excerpts of the draft report seen by Reuters, referring to the company's "pending license value."</p>
-      <p>Nvidia's plans to sell to Huawei have not been previously reported.</p>
-      <p>A Nvidia spokesperson declined to comment on the document, saying: "The China market presents a significant opportunity for the U.S. semiconductor industry. While we are unable to comment on any pending license requests, we work with customers and partners worldwide to comply with all applicable export controls and meet market demand.”</p>
-      <p>A senior State Department Official said the document was a preliminary draft prepared by a contractor, and the department "would not have approved of the report in its current form." It also said the government "has written and contracted multiple reports on this subject, based on different contingencies, which arrive at very different conclusions."</p>
-      <p>The White House and Commerce Department declined to comment. Huawei did not respond to a request for comment.</p>
-      <p>The document shows the Biden administration is seeking to assess the impact on U.S. companies of proposed Huawei policy changes before imposing new rules that could crimp projected revenue streams at a time when the tech industry is already reeling. It also provides unusual insight into the politically sensitive question of which U.S. companies are seeking business ties to Huawei, one of Washington's most penalized Chinese companies.</p>
-      <p>Reuters could not learn the details of the specific policy change whose impact was being assessed in the report.</p>
-      <p>The report suggested Qualcomm would likely suffer a "moderate economic impact" from the change in policy, in contrast to Huawei. Indeed, the loss of access to Qualcomm's modem chips would have a bigger impact on Huawei, the report forecast, since Huawei "relies heavily on Qualcomm's modem chips to support its smart phone offering."</p>
-      <p>Qualcomm did not respond to a request for comment.</p>
-      <p>Reuters reported in 2021 that U.S. officials had approved license applications worth hundreds of millions of dollars for Huawei to buy chips for its growing auto component business, including vehicle components such as video screens and sensors, as trade restrictions crippled other business lines.</p>
-      <p>Huawei was placed on the "entity list" in 2019 amid fears it could spy on Americans and allegations it was stealing intellectual property and violating sanctions. The U.S requires that suppliers seek a special license that is usually denied when selling U.S. goods to companies on the list. But the Trump administration instituted a more lenient policy for Huawei, blocking its access to 5G chips but allowing other items like 4G chips to be shipped to the firm.</p>
-      <p>The Commerce Department's top export controls official, Alan Estevez, said this week the Trump-era policy allowing U.S. technology below the “5G level" to be shipped to Huawei was "under assessment."</p>
-      <p>But sources say there are differences within the administration odds over how far to go: some officials advocate blocking all licenses to Huawei suppliers and revoking existing authorizations, while others want to extend restrictions only to 4G chips and other targeted technologies going forward.</p>
-      <p>(Reporting by Alexandra Alper; Additional Reporting by Karen Freifeld and Stephen Nellis; Editing by Chris Sanders and William Mallard)</p>
-    </div>
-  },
-  {
-    id: 94,
-    title: 'U.S. Prepares New Rules on Investment in China',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>The Biden administration is preparing a new program that could prohibit American investment in certain sectors in China, a step to guard U.S. technological advantages amid a growing competition between the world’s two largest economies.</p>
-    </div>,
-    authorName: 'Andrew Duehren',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 08:47 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-94.webp',
-    content: <div className="blog-content">
-      <p>The Biden administration is preparing a new program that could prohibit American investment in certain sectors in China, a step to guard U.S. technological advantages amid a growing competition between the world’s two largest economies.</p>
-    </div>
-  },
-  {
-    id: 93,
-    title: 'US prepares new rules on investment in technology abroad- WSJ',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>(Reuters) - The Treasury Department is preparing a new program that could prohibit U.S. investment in certain sectors of adversarial nations, the Wall Street Journal reported on Friday citing copies of reports provided to lawmakers on Capitol Hill viewed by the newspaper.</p>
-    </div>,
-    authorName: 'Jose Joseph',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 09:05 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-93.webp',
-    content: <div className="blog-content">
-      <p>(Reuters) - The Treasury Department is preparing a new program that could prohibit U.S. investment in certain sectors of adversarial nations, the Wall Street Journal reported on Friday citing copies of reports provided to lawmakers on Capitol Hill viewed by the newspaper.</p>
-      <p>The Biden administration's work on the new rules would in practice largely deal with U.S. investments in China though the report given to lawmakers did not identify any countries, the WSJ said.</p>
-      <p>The new rules are expected to cover private-equity and venture-capital investments in advanced semiconductors, supercomputing and some forms of artificial intelligence, the WSJ reported quoting people familiar with the matter as saying.</p>
-      <p>The Treasury and Commerce departments expected to finalize their policy in the near future, it added.</p>
-      <p>Reuters reported last month that Biden administration was planning an outright ban on investments in some Chinese technology companies and increased scrutiny of others.</p>
-      <p>The United States passed a sweeping set of regulations last year that aimed at hobbling China's semiconductor industry.</p>
-      <p>(Reporting by Jose Joseph and Anirudh Saligrama in Bengaluru; Editing by Himani Sarkar and Simon Cameron-Moore)</p>
-    </div>
-  },
-  {
-    id: 92,
-    title: 'Mortgage rate deals for week ending March 4, 2023: Top offers from lenders',
-    category: 'Markets',
-    subCategory: ['Mortgage', 'Funds', 'Finance'],
-    description: <div className="blog-desc">
-      <p>The average rate for mortgage offers clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. </p>
-    </div>,
-    authorName: 'Jeff Ostrowski',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 09:05 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-92.webp',
-    content: <div className="blog-content">
-      <p>The average rate for mortgage offers clicked on by Bankrate readers Thursday was 5.38 percent, up 15 basis points from the previous week. Mortgage rates remain higher than they were a year ago, so it remains important to shop around if you want to find a good deal for a new loan or a refinance.</p>
-      <p>Bankrate’s “clicked-on” rate reflects both purchase mortgages and refinances with all terms, including 30-year and 15-year loans.</p>
-      <p>The best deals come with some caveats. For instance, to reel in the best combination of interest rate and costs, you generally need a credit score of 740 or higher and a down payment of 20 percent or more. Many of the lowest rates posted on Bankrate.com also require borrowers to buy discount points, a way of lowering the loan’s interest by paying a fee at closing — known as “buying down” the rate.</p>
-      <p>Rates for mortgages change constantly, and they’ve recently risen. Those ups and downs reflect the volatility of the mortgage market as the economy continues to grapple with slowing-but-still-significant inflation and a looming recession.</p>
-      <p>While it still might make sense to refinance your mortgage, the rationale has changed: Most refis now are being done by homeowners pulling out equity to pay for home renovations or repairs.</p>
-      <p>Key Takeway</p>
-      <p>Be sure to get offers from at least three lenders — you can save thousands of dollars by comparison shopping.</p>
-      <h3>Average clicked on rate for purchase loans</h3>
-      <p>The average rate clicked on by Bankrate readers for 30-year purchase mortgages was 6.31 percent on Thursday.</p>
-      <h3>Average clicked on rate for refinance loans</h3>
-      <p>The typical rate clicked on by Bankrate readers for 30-year refinances stood at 6.23 percent Thursday.</p>
-      <p>You can use Bankrate’s mortgage payment calculator to estimate your monthly payments and see the effect of making extra payments. The tool can also help you determine how much interest you’ll pay over the life of the loan.</p>
-    </div>
-  },
-  {
-    id: 91,
-    title: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
-    slug: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
-    category: 'Indices',
-    subCategory: ['Stocks', 'manufacturing', 'Finance'],
-    description: <div className="blog-desc">
-      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
-    </div>,
-    authorName: 'Tae Kim',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 2, 2023 11:35 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-91.webp',
-    content: <div className="blog-content">
-      <p>Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst</p>
-      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
     </div>
   },
   {
@@ -1520,6 +1446,26 @@ const blogListdata = [
     </div>
   },
   {
+    id: 85,
+    title: 'U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy',
+    slug: 'U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy</p>
+    </div>,
+    authorName: 'Christine Idzelis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 4, 2023 1:36 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-85.webp',
+    content: <div className="blog-content">
+      <p>U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy</p>
+      <p>U.S. stocks close sharply higher Friday, with the Dow snapping four straight weeks of losses amid signs of a resilient economy despite Federal Reserve interest rate hikes.</p>
+    </div>
+  },
+  {
     id: 86,
     title: 'S&P 500 Notches Best Week Since Late January: Markets Wrap',
     slug: 'S&P 500 Notches Best Week Since Late January: Markets Wrap',
@@ -1583,23 +1529,56 @@ const blogListdata = [
     </div>
   },
   {
-    id: 85,
-    title: 'U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy',
-    slug: 'U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy',
-    category: 'Indices',
-    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    id: 65,
+    title: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
+    slug: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'Morning Star'],
     description: <div className="blog-desc">
-      <p>U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy</p>
+      <p>Traders work on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 20, 2020.Lucas Jackson/Reuters</p>
     </div>,
-    authorName: 'Christine Idzelis',
+    authorName: 'Jennifer Sor',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 4, 2023 1:36 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-85.webp',
+    createdAt: 'Mar 4, 2023 1:16 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-65.webp',
     content: <div className="blog-content">
-      <p>U.S. stocks end sharply higher, Dow snaps four straight weeks of losses amid signs of a resilient economy</p>
-      <p>U.S. stocks close sharply higher Friday, with the Dow snapping four straight weeks of losses amid signs of a resilient economy despite Federal Reserve interest rate hikes.</p>
+      <p>Traders work on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 20, 2020.Lucas Jackson/Reuters</p>
+      <ul>
+        <li>US stocks climbed higher on Friday, snapping a weekly losing streak.</li>
+        <li>Fears of a move back to bigger rate hikes were eased as traders digested comments from Fed officials.</li>
+        <li>Atlantic Fed President Raphael Bostic signaled support for another small hike of 25 basis-points.</li>
+      </ul>
+      <p>US stocks climbed higher on Friday, snapping a weekly losing streak as investors dialed back fears of aggressive rate hikes.</p>
+      <p>All three indices ended the day higher, with the Dow gaining almost 400 points to break a four-week streak of losses.</p>
+      <p>Investors digested comments from Federal Reserve officials on the central bank's next policy move. Though Fed Governor Christopher J. Waller said interest rates could tread higher than markets were currently expecting, Atlanta Fed President Raphael Bostic signaled for just a 25 basis-point hike in March, spurring a rally in stocks during the session on Thursday.</p>
+      <p>The 10-year Treasury yield retreated from the key 4% level, falling 11 basis points on Friday to 3.96%.</p>
+      <p>However, ISM manufacturing data ticked higher, from 47.4 to 47.7 last month, a sign that manufacturing activity is still expanding despite the Fed's aggressive monetary policy.</p>
+      <p>"The solid ISM survey and resilience to high interest rates will reinforce the Fed's resolve that interest rates should continue to move higher. Even so, the Fed is unlikely to go back to rate hikes of more than a quarter percent per decision," Comercia Bank chief economist Bill Adams said in a statement. "The Fed wants to tread lightly to minimize the risk that they overshoot and cause an unnecessarily severe downturn."</p>
+      <p><strong>Here's where US indexes stood at the 4:00 p.m. closing bell on Friday: </strong></p>
+      <ul>
+        <li><strong>S&P 500: 4,045.64, up 1.61% </strong></li>
+        <li><strong>Dow Jones Industrial Average: 33,390.97, up 1.17% (387.40 points)</strong></li>
+        <li><strong>Nasdaq Composite: 11,689.01, up 1.97% </strong></li>
+      </ul>
+      <p><strong>Here's what else is going on: </strong></p>
+      <ul>
+        <li>There are six reasons why the stock market could see its strongest rally of 2023 over the next two months, according to Fundstrat.</li>
+        <li>C3.ai soared 33% after the AI software company reported a big quarterly earning beat.</li>
+        <li>Bank of America said investors should capitalize on the $900 billion AI boom by picking these 20 stocks.</li>
+        <li>Apple could soar to a near-$4 trillion valuation thanks to five under-the-radar drivers, Morgan Stanley said.</li>
+        <li>Russia's oil and gas revenue tanked in February as western sanctions ate into its export earnings.</li>
+        <li>Bitcoin has tumbled to its lowest price in weeks as the crypto market roils from Silvergate's troubles.</li>
+      </ul>
+      <p><strong>In commodities, bonds, and crypto: </strong></p>
+      <ul>
+        <li>Oil prices rose, with West Texas Intermediate up 2% to $79.73 a barrel. Brent crude, the international benchmark, rose 1.3% to $85.86 a barrel.</li>
+        <li>Gold edged higher by about 1% to $1,860 per ounce.</li>
+        <li>The 10-year Treasury yield ticked lower 11 basis points to 3.96%</li>
+        <li>Bitcoinfell 4.71% to $22,373.12</li>
+      </ul>
+      
     </div>
   },
   {
@@ -1682,6 +1661,38 @@ const blogListdata = [
     </div>
   },
   {
+    id: 109,
+    title: 'Bitcoin falls to its lowest price in weeks as crypto markets tumble amid Silvergate troubles',
+    category: 'Crypto',
+    subCategory: ['markets', 'crypto', 'bitcoin'],
+    description: <div className="blog-desc">
+      <p>Cryptocurrency markets are tumbling as the industry's once go-to bank faces a slew of financial woes, potentially threatening global crypto liquidity.</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 - 7:28 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-110.jpg',
+    content: <div className="blog-content">
+      <ul>
+      <li>The price of bitcoin hit a two-week low as the industry's crucial banking partner faces financial troubles.</li>
+      <li>Silvergate has experienced a steep downtrend in deposits, along with a 95% plunge in share price over the past year.</li>
+      <li>Bitcoin saw its largest one-hour drop since the blowup of FTX in November.</li>
+      </ul>
+      <p>Cryptocurrency markets are tumbling as the industry's once go-to bank faces a slew of financial woes, potentially threatening global crypto liquidity.</p>
+      <p>The price of bitcoin hit a two-week low early Friday and experienced its largest one-hour price drop since the blowup of bankrupt exchange FTX in November. The token is trading 4% lower at $$22,394, per Messari.</p>  
+      <p>Other major tokens followed suit. Ethereum shed 3%, falling to $1,573.</p> 
+      <p>The market moves come after several companies like Coinbase, Circle, Galaxy Digital, and Paxos cut ties with Silvergate, which is delaying its annual report due to greater losses, flagging doubts about the future of its business.</p>
+      <p>Many large digital asset exchanges work with Silvergate for transactions between entities, and a dent in those relationships could impact industry liquidity.</p>
+      <p>Silvergate was entangled in a number of ailing firms such as FTX, resulting in a massive decline in deposits at the bank amid broader crypto market contagion. Shares of Silvergate have dropped 95% in the past year.</p>
+      <p>"Fears are growing that a crypto-focused bank failure could constitute a new hit to investors' confidence after the bankruptcies of major crypto players during the last few months," Wael Makarem, senior market strategist at investment broker Exness, told Insider. "As a result, the market could be exposed to new price corrections while investors could be concerned about a potential impact on other market players."</p>
+      <p>Makarem added: "This incident could strongly dent the market's recent rebound as cryptocurrencies remain in a delicate position. Additionally, the dwindling number of companies operating in crypto could add to the concerns."</p>
+      <p>Crypto's total market capitalization sits above $1 trillion, per Messari, roughly two-thirds below its record high in November of 2021. Investor sentiment in digital assets took a beating in the past year on a series of crypto company bankruptcies, along with a rise in borrowing costs from a hawkish Federal Reserve.</p>
+      <p>Sentiment may have deteriorated further in cryptocurrency markets as traders brace themselves for the Fed's next move to tamp down inflation, which remains above the central bank's target.</p>
+    </div>
+  },
+  {
     id: 81,
     title: 'S&P 500 Weekly Price Forecast – Stock Markets Recover Slightly for the Week',
     slug: 'S&P 500 Weekly Price Forecast – Stock Markets Recover Slightly for the Week',
@@ -1733,6 +1744,131 @@ const blogListdata = [
     </div>
   },
   {
+    id: 127,
+    title: 'GBP to USD Weekly Forecast – British Pound Gives Up Much of the Gains for the Week',
+    category: 'Currencies',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>British Pound vs US Dollar Weekly Technical Analysis</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 - 7:17 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-129.jpg',
+    content: <div className="blog-content">
+      <p><strong>British Pound vs US Dollar Weekly Technical Analysis</strong></p>
+      <p>The British pound has initially rallied during the course of the trading week to break above the 1.20 level, reaching towards 1.21 level before pulling back. We ended up forming a bit of an inverted hammer, so therefore it’s going to be interesting to see how this plays out. The previous week formed the same candlestick, and the week before that was very similar. In other words, every time we rally it looks like the sellers are starting to come back in and push lower.</p>
+      <p>It looks as if the area around the 1.19 level is going to continue to be support, so I do think it’s worth watching. Breaking down through that area then opens up a bigger drop from what I can see, which of course is what would coincide with the longer-term trend. We had bounced rather significantly to test the 50% Fibonacci level, and then even formed a bit of a double top in that area. By doing so, this is a market that I believe continues to be very noisy, but in the end will find plenty of sellers to come in and punish it.</p> 
+      <p>If global risk appetite continues to struggle, I just don’t see how this market takes off to the upside. A breakdown below the 1.1850 level will open up a move down to the 1.15 level, followed by the 1.1250 level. That does not necessarily mean that it will be sudden or have a lot of momentum, but that certainly looks as if it would be the more likely of scenarios right now.</p>
+    </div>
+  },
+  {
+    id: 64,
+    title: 'Bitcoin fell nearly 5% Thursday night, its largest one-hour drop since FTX',
+    slug: 'Bitcoin fell nearly 5% Thursday night, its largest one-hour drop since FTX',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Bitcoin plunged nearly 5% over Thursday night following a Wednesday late notice filed by major industry bank Silvergate Capital that expressed doubts about the future of its business.</p>
+    </div>,
+    authorName: 'David Hollerith · Senior Reporter',
+    authorurl: 'https://www.yahoo.com/author/david-hollerith',
+    authorAvatar: 'https://ncx.cx/images/david-hollerith.webp',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 6:09 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-64.webp',
+    content: <div className="blog-content">
+      <p>Bitcoin plunged nearly 5% over Thursday night following a Wednesday late notice filed by major industry bank Silvergate Capital that expressed doubts about the future of its business.</p>
+      <p>In line with Bitcoin, the total market capitalization for crypto assets fell 4.6% from $1.06 trillion to $1.02 trillion between 8:18 p.m. to 9:05 p.m. Thursday New York time.</p>
+      <p>Bitcoin hasn’t plunged so fast and sharp since the price fell by 4% from $20,538 to $19,704 on the morning of November 8 as FTT, the token for crypto exchange FTX, faced massive withdrawals.</p>
+      <p>Bitcoin BTC-USD is changing hands at $22,381, down 4.3% for the last 24 hours and 6.4% over the past week.</p>
+      <p>"After today’s drop, the pullback is close to 10%, and bitcoin is on pace to close below its 50-day moving average (DMA) for the first time in nearly two months," according to a Friday note from BeSpoke.</p>
+      <p>Over the past two days, the crypto market is coming to grips with the potential failure of industry-serving bank, Silvergate.</p>
+      <p>“Fortunately, Silvergate is not FTX. Silvergate is more of a fiat on/off-ramp for U.S. Dollars, rather than a key source of liquidity and volume for the entire crypto ecosystem,” said Michael Safai, a co-founder and partner of crypto proprietary trading firm Dexterity Capital.</p>
+      <p>The La Jolla, Calif., headquartered Silvergate said in a Wednesday late notice it would further delay its annual report due to greater losses than it showed in January preliminary results in addition to “certain regulatory and other inquiries and investigations that are pending with respect to the Company” and its "ability to continue as a going concern for the twelve months following the issuance of these financial statements," according to the filing.</p>
+      <p>Through Thursday, major crypto exchanges and businesses quickly distanced themselves from Silvergate. The shares of the bank (SI) has fallen 62% from Thursday morning to Friday's open from $13.50 to $5.14.</p>
+      <p>Further exacerbating Silvergate’s business challenges, Coinbase, Paxos, Galaxy Digital, Gemini, BitStamp, Crypto.com, Cboe Digital, GSR and Circle each issued statements saying they have cut ties with what was once considered a crucial banking partner for the sector.</p>
+      <p>Stablecoin issuer Circle added, it is “in the process of unwinding certain services with them.”</p>
+      <p>Separately, Binance US and Kraken would not comment on their exposure to Silvergate.</p>
+      <p>“There is some dismay around the Silvergate news, but it's not clear it would trigger strong selling,” Noelle Acheson, author of the Crypto Is Macro Now newsletter, told Yahoo Finance Friday.</p>
+      <p>Dexterity's Safal agreed: “It’s more a case of jaded traders digesting the news and not wanting to be left holding any potential ticking time bombs, but not understanding how this differs from the collapses of 2022."</p>
+      <p>Safai also suggested the response may have come from Asian markets reacting to the exodus of firms from Silvergate.</p>
+      <p>Over Thursday, March 2, $203 million in bitcoin long positions were liquidated or $198 million net of short liquidations — the most in a single day in three weeks — according to crypto derivatives aggregator Coinglass.</p>
+      <p>As Acheson noted in her Friday newsletter, given little change of the ETH to BTC ratio, bitcoin's sharp drop hit the second largest cryptocurrency ether "in equal measure." Ether is changing hands at $1,570 per coin, down less than 4% for the past day as of Friday morning 8:30 New York time.</p>
+      <p>In a worst case scenario of Silvergate's failure, confidence could be shaken, causing some firms to yank capital from the market, Dexterity's Safai said.</p>
+      <p>“That in itself could impact liquidity, but that wouldn’t have a ripple effect per se, nor would it last very long,” he added.</p>
+      <p>More important for Acheson are the repercussions for banking access if a traditional bank were to “go under” due to its crypto activities.</p>
+      <p>“That would give regulators strong ammunition that crypto risks could become 'systemic' and any financial instiution serving the crypto industry could come up against new barriers,” Acheson explained over a messaging app.</p>
+      <p>"Uncertainty is currently high," she added.</p>
+    </div>
+  },
+  {
+    id: 66,
+    title: 'Ethereum core developers delay Shanghai hard fork to early April',
+    slug: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The expected launch of the Shanghai hard fork has been delayed from late March to the first two weeks of April, according to Ethereum developers at a meeting on Thursday.</p>
+    </div>,
+    authorName: 'Dylan Butts',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 5:28 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-66.webp',
+    content: <div className="blog-content">
+      <p>The expected launch of the Shanghai hard fork has been delayed from late March to the first two weeks of April, according to Ethereum developers at a meeting on Thursday.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>The Shanghai hard fork will be the first major upgrade since the “Merge” last September. A hard fork is a permanent split between a new blockchain and its latest version, often adding or fixing features of a network.</li>
+        <li>The Shanghai fork will allow validators to withdraw their locked Ether for the first time since the staking feature went live in 2020. Over 17 million Ether (about US$26.7 billion) has since been staked.</li>
+        <li>During the meeting, core developers agreed that the hard fork should occur at least two weeks after the “Goerli testnet launch,” which has been scheduled for March 14.</li>
+        <li>The “Shanghai Capella” upgrade to Goerli, one of Ethereum’s popular testnets, will be the last chance for Ethereum clients and staking providers to ensure the Shanghai hard fork can go through smoothly when the final “mainnet” version launches.</li>
+        <li>“So imagine Goerli happens on the 14th, everything goes well, and on the 16th, we agree to move forward with mainnet – I think the earliest that puts us is like the first week of April,” said Ethereum core developer and project coordinator Tim Beiko.</li>
+        <li>Beiko noted in a Thursday Twitter thread that the Ethereum team did not explicitly agree to a mainnet date. Still, they will “probably” set a date during the next developers meeting slated for March 16, “assuming things go well on Goerli.”</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 67,
+    title: 'FTX has a massive $9.5 billion shortfall in top crypto and cash needed to repay customers, the bankrupt exchanges new bosses say',
+    slug: 'FTX has a massive $9.5 billion shortfall in top crypto and cash needed to repay customers, the bankrupt exchanges new bosses say',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>FTX has identified a $9.5 billion shortfall in top crypto...</p>
+    </div>,
+    authorName: 'Ryan Hogg',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 5:28 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-67.webp',
+    content: <div className="blog-content">
+      <p>Sam Bankman-Fried.AP Photo/Seth Wenig</p>
+      <p>FTX has identified a $9.5 billion shortfall in top crypto and cash needed to repay customers, its new bosses have said, with just $694 million in currency that's easy to cash in.</p>
+      <ul>
+        <li>FTX has a $9.5 billion shortfall in top crypto and cash to repay customers, bankruptcy lawyers say.</li>
+        <li>Just $694 million in assets of $2.2 billion recovered are easy to cash in.</li>
+        <li>The group said it also lent $9.3 billion to Sam Bankman-Fried's Alameda Research.</li>
+      </ul>
+      <p>FTX has identified a $9.5 billion shortfall in top crypto and cash needed to repay customers, its new bosses have said, with just $694 million in currency that's easy to cash in.</p>
+      <p>In a press release on Thursday, FTX shared the extent of the company's deficit as bankruptcy lawyers scramble to unravel a mess that led to billions of dollars' worth of customer funds getting lost.</p>
+      <p>The bankrupt crypto exchange's new executives have so far identified $2.2 billion in assets in the company's wallets, of which only $694 million were in the most liquid currencies, like fiat, stablecoins, bitcoin, or ethereum.</p>
+      <p>Lawyers have also identified $385 million of customer receivables, and substantial claims against Bankman-Fried's Alameda Research, the company at the center of FTX's controversial collapse. FTX lent $9.3 billion to Alameda, they said.</p>
+      <p>"It has taken a huge effort to get this far. The exchanges' assets were highly commingled, and their books and records are incomplete and, in many cases, totally absent," CEO John Ray wrote.</p>
+      <p>"For these reasons, it is important to emphasize that this information is still preliminary and subject to change."</p>
+      <p>FTX US also has a shortfall, with $191 million in assets versus $335 million of customer claims and $283 million of related party claims payable.</p>
+      <p>In January, bankruptcy lawyers said they had recovered $5.5 billion in liquid assets from FTX.</p>
+      <p>But lawyers still don't know the extent of losses to customer funds, which burned famous faces like Tom Brady and Kevin O'Leary. The Commodities and Futures Trading Commission (CFTC) has estimated that $8 billion of client money had been lost by the exchange.</p>
+      <p>Its latest presentation suggested there is a $9.5 billion deficit across its most liquid assets, and a $733 million surplus in category B assets — those which are harder to retrieve — including through the FTX native coin FTT.</p>
+      <p>It was reported in November that FTX could have one million creditors.</p>
+    </div>
+  },
+  {
     id: 79,
     title: 'Analysis-Sharp drop in equity premium may mark return of 60/40 portfolio',
     slug: 'Analysis-Sharp drop in equity premium may mark return of 60/40 portfolio',
@@ -1775,6 +1911,95 @@ const blogListdata = [
     </div>
   },
   {
+    id: 68,
+    title: 'Coinbase, Gemini and other big crypto names have rushed to ditch Silvergate after the bank warned of building troubles',
+    slug: 'Coinbase, Gemini and other big crypto names have rushed to ditch Silvergate after the bank warned of building troubles',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Coinbase, Kraken and other crypto apps.Getty Images</p>
+    </div>,
+    authorName: 'Zinya Salfiti',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 3:16 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-68.webp',
+    content: <div className="blog-content">
+      <p>Coinbase, Kraken and other crypto apps.Getty Images</p>
+      <ul>
+        <li>Crypto companies are cutting ties with Silvergate, once the go-to bank for digital currencies</li>
+        <li>This comes after the crypto bank flagged doubts about its survival.</li>
+        <li>Coinbase, Circle Internet Financial and other big names have ditched the lender.</li>
+      </ul>
+      <p>Some of the biggest names in crypto have backed away from lender Silvergate Capital after the key digital-currency player warned it's having to evaluate its ability to survive.</p>
+      <p>Coinbase, Paxos Trust, Circle Internet Financial and Galaxy Digital Holdings all said Thursday they plan to suspend banking with Silvergate, as did the Winklevoss twins' Gemini.</p>
+      <p>Crypto.com and Cboe's digital arm are also stepping away, Bloomberg reported.</p>
+      <p>The exodus of crypto exchanges, stablecoin issuers and trading desks came after Silvergate flagged doubts about its future in business.</p>
+      <p>It said it was delaying the filing of its annual report to regulators because it needs more time to look into how badly its finances have been hit by the events battering the crypto world.</p>
+      <p>"The company is evaluating the impact that these subsequent events have on its ability to continue as a going concern for the twelve months following the issuance of its financial statements," the California-based firm said in an SEC filing Wednesday.</p>
+      <p>Silvergate's stock price plunged to close 58% lower on Thursday, and was down 5.24% at $5.42 in premarket trading Friday. Shares have fallen almost 95% in the past 12 months, as more than a dozen of its crypto firm customers shut down, were fined or came under investigation.</p>
+      <p>Silvergate used to be the go-to bank for the biggest names in crypto, operating a key payments network used for real-time transfers between the firms.</p>
+      <p>But the lender has struggled in recent months thanks to its ties to embattled crypto players, and it is seen as having suffered during as prices of digital assets tumbled last year.</p>
+      <p>It has been caught up in fallout from the implosion of now-bankrupt FTX, which was one of the lender's major clients. Its customers withdrew $8 billion in deposits late last year after the crypto exchange collapsed in November.</p>
+      <p>In addition, it had relationships with other bankrupt crypto firms, like centralized lenders Celsius and BlockFi, along with digital asset brokerage Voyager Digital. It has also has worked with crypto exchange Binance's US arm, which is reportedly under criminal investigation for money laundering and criminal sanctions violations.</p>
+      <p>As fears swirled that Silvergate's troubles would spread through the crypto sector, companies stepped up to underline their positions.</p>
+      <p>MicroStrategy said it doesn't have any financial relationship with Silvergate, other than a loan it needs to pay back to Silvergate by 2025.</p>
+      <p>"For anyone wondering, the loan wouldn't accelerate b/c of SI insolvency or bankruptcy. Our BTC collateral isn't custodied w/ SI & we have no other financial relationship w/ SI,"  the business intelligence firm tweeted.</p>
+      <p>Stablecoin Tether is not exposed to Silvergate either, its chief technology officer said in a tweet Thursday.</p>
+      <p>Meanwhile, JPMorgan analysts cut their rating on Silvergate stock to "underweight" from "neutral" and withdrew its $14 price target, CoinDesk reported. It also said broker Canaccord Genuity downgraded the bank's rating to "hold" from "buy" and slashed its price target to $9 from $25.</p>
+    </div>
+  },
+  {
+    id: 69,
+    title: 'Bitcoin-Bridged to Avalanche Reaches Record Daily Mint of Over 2K BTC',
+    slug: 'Bitcoin-Bridged to Avalanche Reaches Record Daily Mint of Over 2K BTC',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>Interest in bridging bitcoin (BTC) to the Avalanche smart contract blockchain (BTC.b) continues to swell as the supply of wrapped bitcoin (wBTC), the largest wrapped version of bitcoin on Ethereum, dwindles.</p>
+    </div>,
+    authorName: 'Omkar Godbole',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 3:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-69.webp',
+    content: <div className="blog-content">
+      <p>Interest in bridging bitcoin (BTC) to the Avalanche smart contract blockchain (BTC.b) continues to swell as the supply of wrapped bitcoin (wBTC), the largest wrapped version of bitcoin on Ethereum, dwindles.</p>
+      <p>On Thursday, over 2,000 BTC ($44 million) was ported to Avalanche, the largest single-day BTC.b mint on record, according to data sourced from pseudonymous analyst 0xAcid's dashboard on Dune Analytics. That has lifted the total circulating supply of BTC.b to 8,572.</p>
+      <p>According to 0xAcid, half of the bitcoin minted on Thursday has been moved to BENQI Finance. BENQI Finance is an Avalanche-based decentralized finance (DeFi) protocol, which allows users to lend, borrow and earn additional yields from digital assets.</p>
+      <p>In June 2022, Avalanche added support for bitcoin on its cross-chain bridge, allowing BTC holders to deploy their coins in the Avalanche-based decentralized finance (DeFi) ecosystem to generate extra yield. BTC.b has seen impressive growth since then, surpassing the number of coins held in the Lightning Network.</p>
+      <p>A crypto bridge is a tool that facilitates interactions between the two economically and technologically separate blockchains. Bridges became a target of hackers last year, accounting for about 70% of the total exploits in the crypto industry last year, according to forensics firm Chainalysis.</p>
+      <p>The record BTC.b mint comes as the WBTC supply fell by 15% to 153,164 in February, reaching the lowest since March 2021. Apparently, bankrupt crypto lender Celsius Network, a well-known WBTC holder, redeemed a large amount of WBTC, causing a sharp drop in the token's supply.</p>
+      <p>WBTC, issued by Bitgo, is an ERC-20 token based on the Ethereum network with its price pegged 1:1 with bitcoin. The token's supply peaked at 285,000 in April last year and has been falling ever since.</p>
+      <p>The Avalanche community considers BTC.b a better option than WBTC, considering Avalanche offers users the ability to mint and redeem BTC.b anytime with the bridge in a non-custodial browser extension Core, eliminating the need for intermediaries. It provides more control to users, unlike WBTC, which relies on merchants to initiate the process of minting and burning.</p>
+      <p>According to Emperor Osmo, an anonymous writer for Cosmos-based automated market maker Osmosis, the investors in AVAX, the native token of Avalanche, are yet to take notice of BTC's growing use in DeFI, as evidenced by BTC.b's rising supply.</p>
+      <p>"Over $200M of BTC has been bridged to Avalanche [to date]. The BTC DeFi narrative is definitely not priced in for AVAX," Osmo tweeted early Friday.</p>
+      <p>At press time, AVAX traded nearly 6% lower on the day, near $16, the lowest since Jan. 20. The cryptocurrency has seen a 50% appreciation in its market value this year, per CoinDesk data.</p>
+    </div>
+  },
+  {
+    id: 91,
+    title: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
+    slug: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
+    description: <div className="blog-desc">
+      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
+    </div>,
+    authorName: 'Tae Kim',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 2, 2023 11:35 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-91.webp',
+    content: <div className="blog-content">
+      <p>Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst</p>
+      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
+    </div>
+  },
+  {
     id: 78,
     title: 'China Automotive Systems (CAAS) Stock Sinks As Market Gains: What You Should Know',
     slug: 'China Automotive Systems (CAAS) Stock Sinks As Market Gains: What You Should Know',
@@ -1800,6 +2025,167 @@ const blogListdata = [
       <p>The Automotive - Original Equipment industry is part of the Auto-Tires-Trucks sector. This industry currently has a Zacks Industry Rank of 194, which puts it in the bottom 24% of all 250+ industries.</p>
       <p>The Zacks Industry Rank gauges the strength of our individual industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
       <p>You can find more information on all of these metrics, and much more, on Zacks.com.</p>
+    </div>
+  },
+  {
+    id: 70,
+    title: 'Bitcoin, Ether fall; Litecoin is biggest loser of day',
+    slug: 'Bitcoin, Ether fall; Litecoin is biggest loser of day',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether fell by the end of Asian trading hours on Friday afternoon, together with all other top 10 non-stablecoin cryptocurrencies by market capitalization, weighed by the financial woes of crypto-focused bank Silvergate. Investors saw a glimpse of relief</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:59 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-70.webp',
+    content: <div className="blog-content">
+      <p>Bitcoin and Ether fell by the end of Asian trading hours on Friday afternoon, together with all other top 10 non-stablecoin cryptocurrencies by market capitalization, weighed by the financial woes of crypto-focused bank Silvergate. Investors saw a glimpse of relief, following dovish remarks from the U.S. Federal Reserve, signaling a potential stop to interest rate hikes this summer.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin fell by 4.3% to US$23,402 in the 24 hours to 4:30 p.m. in Hong Kong. Ether declined 4.49% to US$1,569, according to CoinMarketCap data, pressured by financial woes at crypto-focused U.S. bank Silvergate Capital Corp.</li>
+        <li>Litecoin’s Ltc token was the day’s biggest loser, losing 8.52% to US$89.05, followed by Dogecoin that fell 6.3% to trade at US$0.075.</li>
+        <li>The global cryptocurrency market capitalization shrunk by 3.81% to US$1.03 trillion in the 24 hours to 4:30 p.m. in Hong Kong. The total crypto market trading volume increased by 22% to US$55.42 billion.</li>
+        <li>Asian equities strengthened in line with Wall Street’s overnight rally after Atlanta Federal Reserve President Raphael Bostic said that he supported an interest rate increase of 25 basis points and that the central bank may pause rate hikes sometimes during the summer.</li>
+        <li>The Shanghai Composite gained 0.54%, the Shenzhen Component Index inched up 0.02%, Japan’s Nikkei 225 rose 1.56% and Hong Kong’s Hang Seng Index strengthened 0.68%.</li>
+        <li>Investors digested data suggesting that China’s service sector growth accelerated in February, following the relaxation of Covid-19 restrictions.</li>
+        <li>Europe’s STOXX 600 rose 0.4% and Germany’s DAX 40 gained 0.8%, fueled by dovish commentary from the U.S. Fed.</li>
+        <li>The euro stood above US$1.06, up from a two-month low of US$1.053 on Feb. 27, despite hawkish remarks from European Central bank officials signaling more incoming rate hikes.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 71,
+    title: 'Bitcoin Miner Marathon Digital Sold Almost All Bitcoin Mined in February',
+    slug: 'Bitcoin Miner Marathon Digital Sold Almost All Bitcoin Mined in February',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>Marathon Digital (MARA), one of the largest publicly traded bitcoin miners, sold 650 bitcoins out of 683 it mined in February.</p>
+    </div>,
+    authorName: 'Aoyon Ashraf',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:51 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-71.webp',
+    content: <div className="blog-content">
+      <p>Marathon Digital (MARA), one of the largest publicly traded bitcoin miners, sold 650 bitcoins out of 683 it mined in February.</p>
+      <p>The company said it sold the bitcoin to help pay for operating expenses and for general corporate purposes, according to a statement. Marathon sold 1,500 bitcoins in January, which marked the first time it had unloaded any of its holdings.</p>
+      <p>Even with the February sales, said company Chairman and CEO Fred Thiel, Marathon increased its unrestricted bitcoin holdings from 8,090 bitcoins as of Jan. 31, 2023, to 8,260, valued at $191.2 million as of Feb. 28.</p>
+      <p>The move to sell brings Marathon's strategy in line with some of its peers, including Riot Platforms (RIOT), which started selling some of its mined bitcoin last year. Prior to January, Marathon was among few remaining miners who continued to hold onto its mined bitcoin, even though the company in May 2022 indicated it could become a seller at some point.</p>
+      <p>Turning to operations, Marathon said it had installed computing power of 14 exahash per second (EH/s) at the end of February, up from 11 EH/s a month earlier, and plans to reach 23 EH/s near the middle of 2023. The company ended the month with $219.7 million in unrestricted cash on hand, according to the statement.</p>
+      <p>Earlier this week, the miner cancelled its earnings report and said that it will need to restate portions of its audited 2021 results and currently unaudited quarterly reports from 2022 after an inquiry from the U.S. Securities and Exchange Commission (SEC) flagged technical accounting matters. Riot Platforms on Thursday also said it will delay its 10-K filings with the SEC due to due to issues raised by its accounting firm about the company's impairment calculations related to its bitcoin assets.</p>
+      <p>Marathon's shares were little changed in after-hours trading on Thursday, remaining higher by more than 80% in 2023. Bitcoin is down about 1% over the last 24 hours and higher by 42% year to date.</p>
+    </div>
+  },
+  {
+    id: 72,
+    title: 'Bitcoin Miner Riot Delayed 10-K Filing Due to Impairment Calculation Issues',
+    slug: 'Bitcoin Miner Riot Delayed 10-K Filing Due to Impairment Calculation Issues',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Minor Riot', 'Bitcoin Bridge'],
+    description: <div className="blog-desc">
+      <p>CORRECTION (March 3, 12:13 UTC): Corrects story to state that Riot has already filed its 10-K report after asking for an extension.</p>
+    </div>,
+    authorName: 'Nelson Wang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:29 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-72.webp',
+    content: <div className="blog-content">
+      <p>CORRECTION (March 3, 12:13 UTC): Corrects story to state that Riot has already filed its 10-K report after asking for an extension.</p>
+      <p>Bitcoin miner Riot Platforms (RIOT) delayed the filing of its annual 10-K report with the Securities and Exchange Commission due to issues raised by its accounting firm about the company's impairment calculations related to its bitcoin assets.</p>
+      <p>“After assessing the impact of this revised impairment assessment methodology, the Registrant determined that material errors in certain of its financial statements and reports resulted,” Riot wrote in its SEC filing on Thursday.</p>
+      <p>Specifically, Riot said its previously issued financial statements for 2022, 2021 and 2020 “contained material errors and should not be relied upon.”</p>
+      <p>For those reasons, Riot said it needed additional time to complete its 10-K and it has since done so and filed its report for 2022.</p>
+      <p>Shares of Riot were down 2.4% in after-hours trading on Thursday.</p>
+      <p>Earlier this week, fellow miner Marathon Digital (MARA) said it would need to restate portions of its audited 2021 results and unaudited quarter reports from 2022 following an inquiry from the SEC that questioned its method of calculating impairment on digital assets.</p>
+      <p>Marathon had previously been scheduled to release its 2022 Q4 results after the close of trading on Tuesday, but now has postponed that.</p>
+    </div>
+  },
+  {
+    id: 73,
+    title: 'Regulators Are Bringing the Multichain Era to a Close',
+    slug: 'Regulators Are Bringing the Multichain Era to a Close',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Multichain', 'ERA'],
+    description: <div className="blog-desc">
+      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations?</p>
+    </div>,
+    authorName: 'Paul Brody',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:20 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-73.webp',
+    content: <div className="blog-content">
+      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations? At EY, it costs us about $500,000 to add a new chain to our Blockchain Analyzer platform and we spend between 10%-20% of that amount each year keeping up to date.</p>
+      <p>While setting up network nodes may not be too difficult, understanding how networks operate and the mechanics of transfers and payments is another matter. When we add a network, we take a close look at the transaction processing model (how transactions are initiated, recorded, processed and reported); the cryptography that underpins those transactions; and the risks that might be associated with different steps in the process. When it comes to audits, we even identify control points where we can perform verification steps.</p>
+      <p><strong>Paul Brody is EY's global blockchain leader and a CoinDesk columnist.</strong></p>
+      <p>Nor are these networks static entities. Ethereum has two to four hard forks a year and other smart contract-enabled chains evolve at a similar rate. The result: Staying up to date on a large number of different blockchains is costly.</p>
+      <p>Cost isn’t the only factor, either. Liquidity becomes an issue as well. Polling Automated Market Makers (AMM) for their sample prices by volumes of proposed swaps on different token pairs shows how quickly liquidity drops off once you leave the Ethereum blockchain. Even within public Ethereum, trading is highly concentrated among the top tokens. Tokens without liquidity are much more vulnerable to price manipulation.</p>
+      <p>Insufficient liquidity in an inadequately regulated market is one of the main reasons the Securities and Exchange Commission has rejected applications for bitcoin (BTC) exchange-traded funds (ETF). The last year has shown, time and again, that crypto asset prices are often manipulated. So these concerns are unlikely to go away and will increasingly deter firms for interacting with, or transacting upon, less-liquid ecosystems.</p>
+      <p>As if it wasn’t complicated enough, just deciding which chains to add is a constantly changing mix. Over the last few years, there has been a constant stream of “Ethereum killer” chains taking up the #2 spot in the ecosystem. A good measure of “who’s on top” is the DeFiLlama scorecard showing Ethereum dominance of the decentralized finance (DeFi) ecosystem. DeFiLlama tracks nearly 140 different chains. At various times, Binance, Terra, Tron and Celo have been in second place, but none has ever represented more than about 20% of the total DeFi ecosystem value. Usually the second chain by volume is at 10% or less.</p>
+      <p>Nor is Ethereum Virtual Machine (EVM) compatibility a useful factor in de-risking a chain’s adoption. EVM compatibility means that (in theory) applications written for Ethereum’s virtual machine will run on any other chain making that claim. Theory doesn’t always match reality exactly, however. As a result, EVM compatibility may actually increase risk.</p>
+      <p>EVM compatibility is not perfect and the implementation on each chain is slightly different. While this can definitely make it simpler to deploy new smart contracts on a different chain, they may behave differently in a fully “compatible” environment and the claim of compatibility may increase risk that people deploy without careful consideration. We often encounter novel errors when moving smart contracts from bitcoineum testnets to the mainnet. I don’t see cross-chain deployment being easier under any conditions.</p>
+      <p>All of this aligns with our own experience, which has shown that the amount of work required to qualify a new asset or service for our audit tools on Ethereum is significantly lower than other chains. That’s because we already have a strong understanding of the underlying ecosystem. Ethereum also offers far more liquidity than any other chain, all of it inside the same ecosystem with no cross-chain bridge risk.</p>
+      <p>One way to anticipate how a much more regulated future looks is to examine how the biggest centralized or traditional finance firms are looking at the market for crypto assets. These firms are highly regulated and need to document their processes and work extensively to demonstrate they are not mishandling their client responsibilities. What you will see, over and over again, is that many of the biggest regulated firms have largely limited their offerings to BTC and ether (ETH) and have been very slow to grow that footprint. </p>
+      <p>When the most regulated firms do start adding to the mix, my own prediction is they will begin by adding more tokens from the Ethereum ecosystem and, perhaps, adding curated sets of DeFi services from Ethereum as well. I had, in the past, expected that we would have seen this expansion during 2022. But the market turmoil and increased regulatory scrutiny in the second half of last year caused many firms to move more slowly and increase their focus on compliance.</p>
+      <p>All of these challenges were much easier to ignore when every chain was growing, venture-capital funding was plentiful and regulatory scrutiny was light. All those sunny conditions are gone now and the game is different. Between slashing burn rates and regulatory scrutiny, the multichain era is drawing to a close.</p>
+    </div>
+  },
+  {
+    id: 74,
+    title: 'US stocks rally as traders digest comments from Fed officials on coming rate hikes',
+    slug: 'US stocks rally as traders digest comments from Fed officials on coming rate hikes',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US Stocks', 'FED'],
+    description: <div className="blog-desc">
+      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations?</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 3, 2023 1:05 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-74.webp',
+    content: <div className="blog-content">
+      <p>Michael M. Santiago/Getty Images</p>
+      <ul>
+        <li>US equities rallied Thursday as traders mulled over coming interest rate hikes.</li>
+        <li>The Dow popped more than 300 points, supported by Salesforce's gains on strong corporate earnings.</li>
+        <li>Atlanta Fed President Raphael Bostic said he's "very firmly" in favor of a quarter-point rate hike.</li>
+      </ul>
+      <p>US stocks rallied Thursday as a Federal Reserve official's comments on coming interest rates hikes cheered investors.</p>
+      <p>After opening in mixed territory, the major indexes closed in the green, even as the 2-year note yield reached levels not seen in over a decade. The Dow Jones Industrial Average popped more than 300 points to lead the gains, supported by Salesforce's strong earnings.</p>
+      <p>Atlanta Fed President Raphael Bostic said that he's "very firmly" in favor of a quarter-point hike for now, adding that it's important for the central bank to move cautiously.</p>
+      <p>That comes after other Fed officials have hinted at the possibility of a half-point increase as recent data have pointed to a resilient economy that needs more slowing to get inflation under control.</p>
+      <p>Earlier on Thursday, jobless claims fell for a third straight week, remaining below 200,000, in a sign the labor market is still strong.</p>
+      <p><strong>Here's where US indexes stood at the 4:00 p.m. ET close on Thursday:</strong></p>
+      <ul>
+        <li>S&P 500: 3,981.36, up 0.76%</li>
+        <li>Dow Jones Industrial Average: 33,003.57, up 1.05% (341.73 points)</li>
+        <li>Nasdaq Composite: 11,462.98, up 0.73%</li>
+      </ul>
+      <p><strong>Here's what else happened today:</strong></p>
+      <ul>
+        <li>There's now a convenient way to be on the opposite side of every Jim Cramer trade, with the launch of an ETF that shorts the financial pundit's stock recommendations.</li>
+        <li>Economist Nouriel Roubini said a debt crisis, recession, and stagflation trifecta will hit the US economy this year.</li>
+        <li>The odds of a catastrophic US debt default have more than tripled since the start of 2023, according to MSCI.</li>
+        <li>China's imports of seaborne Russian oil are on track hit a record high this month.</li>
+      </ul>
+      <p><strong>In commodities, bonds and crypto:</strong></p>
+      <ul>
+        <li>West Texas Intermediate crude oil fell 0.62% to $78.12 per barrel. Brent crude, oil's international benchmark, rose 0.4% to $84.60 a barrel.</li>
+        <li>Gold slipped 0.3% to $1,84o.20 per ounce.</li>
+        <li>The yield on the 10-year Treasury rose six basis points to 4.06%.</li>
+        <li>Bitcoin fell 0.46% to $23,683, while ether dropped 0.28% to $1,654.</li>
+      </ul>
     </div>
   },
   {
@@ -1873,799 +2259,23 @@ const blogListdata = [
     </div>
   },
   {
-    id: 74,
-    title: 'US stocks rally as traders digest comments from Fed officials on coming rate hikes',
-    slug: 'US stocks rally as traders digest comments from Fed officials on coming rate hikes',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'US Stocks', 'FED'],
+    id: 91,
+    title: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
+    slug: 'Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst',
+    category: 'Indices',
+    subCategory: ['Stocks', 'manufacturing', 'Finance'],
     description: <div className="blog-desc">
-      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations?</p>
+      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
     </div>,
-    authorName: 'Morgan Chittum',
+    authorName: 'Tae Kim',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 3, 2023 1:05 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-74.webp',
+    createdAt: 'Mar 2, 2023 11:35 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-91.webp',
     content: <div className="blog-content">
-      <p>Michael M. Santiago/Getty Images</p>
-      <ul>
-        <li>US equities rallied Thursday as traders mulled over coming interest rate hikes.</li>
-        <li>The Dow popped more than 300 points, supported by Salesforce's gains on strong corporate earnings.</li>
-        <li>Atlanta Fed President Raphael Bostic said he's "very firmly" in favor of a quarter-point rate hike.</li>
-      </ul>
-      <p>US stocks rallied Thursday as a Federal Reserve official's comments on coming interest rates hikes cheered investors.</p>
-      <p>After opening in mixed territory, the major indexes closed in the green, even as the 2-year note yield reached levels not seen in over a decade. The Dow Jones Industrial Average popped more than 300 points to lead the gains, supported by Salesforce's strong earnings.</p>
-      <p>Atlanta Fed President Raphael Bostic said that he's "very firmly" in favor of a quarter-point hike for now, adding that it's important for the central bank to move cautiously.</p>
-      <p>That comes after other Fed officials have hinted at the possibility of a half-point increase as recent data have pointed to a resilient economy that needs more slowing to get inflation under control.</p>
-      <p>Earlier on Thursday, jobless claims fell for a third straight week, remaining below 200,000, in a sign the labor market is still strong.</p>
-      <p><strong>Here's where US indexes stood at the 4:00 p.m. ET close on Thursday:</strong></p>
-      <ul>
-        <li>S&P 500: 3,981.36, up 0.76%</li>
-        <li>Dow Jones Industrial Average: 33,003.57, up 1.05% (341.73 points)</li>
-        <li>Nasdaq Composite: 11,462.98, up 0.73%</li>
-      </ul>
-      <p><strong>Here's what else happened today:</strong></p>
-      <ul>
-        <li>There's now a convenient way to be on the opposite side of every Jim Cramer trade, with the launch of an ETF that shorts the financial pundit's stock recommendations.</li>
-        <li>Economist Nouriel Roubini said a debt crisis, recession, and stagflation trifecta will hit the US economy this year.</li>
-        <li>The odds of a catastrophic US debt default have more than tripled since the start of 2023, according to MSCI.</li>
-        <li>China's imports of seaborne Russian oil are on track hit a record high this month.</li>
-      </ul>
-      <p><strong>In commodities, bonds and crypto:</strong></p>
-      <ul>
-        <li>West Texas Intermediate crude oil fell 0.62% to $78.12 per barrel. Brent crude, oil's international benchmark, rose 0.4% to $84.60 a barrel.</li>
-        <li>Gold slipped 0.3% to $1,84o.20 per ounce.</li>
-        <li>The yield on the 10-year Treasury rose six basis points to 4.06%.</li>
-        <li>Bitcoin fell 0.46% to $23,683, while ether dropped 0.28% to $1,654.</li>
-      </ul>
-    </div>
-  },
-  {
-    id: 73,
-    title: 'Regulators Are Bringing the Multichain Era to a Close',
-    slug: 'Regulators Are Bringing the Multichain Era to a Close',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'Multichain', 'ERA'],
-    description: <div className="blog-desc">
-      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations?</p>
-    </div>,
-    authorName: 'Paul Brody',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 1:20 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-73.webp',
-    content: <div className="blog-content">
-      <p>As firms add more and more blockchains to their strategic road maps, I grow more and more frustrated. Where, I keep wondering, do firms have the money to properly understand and implement such an enormous array of blockchains in their operations? At EY, it costs us about $500,000 to add a new chain to our Blockchain Analyzer platform and we spend between 10%-20% of that amount each year keeping up to date.</p>
-      <p>While setting up network nodes may not be too difficult, understanding how networks operate and the mechanics of transfers and payments is another matter. When we add a network, we take a close look at the transaction processing model (how transactions are initiated, recorded, processed and reported); the cryptography that underpins those transactions; and the risks that might be associated with different steps in the process. When it comes to audits, we even identify control points where we can perform verification steps.</p>
-      <p><strong>Paul Brody is EY's global blockchain leader and a CoinDesk columnist.</strong></p>
-      <p>Nor are these networks static entities. Ethereum has two to four hard forks a year and other smart contract-enabled chains evolve at a similar rate. The result: Staying up to date on a large number of different blockchains is costly.</p>
-      <p>Cost isn’t the only factor, either. Liquidity becomes an issue as well. Polling Automated Market Makers (AMM) for their sample prices by volumes of proposed swaps on different token pairs shows how quickly liquidity drops off once you leave the Ethereum blockchain. Even within public Ethereum, trading is highly concentrated among the top tokens. Tokens without liquidity are much more vulnerable to price manipulation.</p>
-      <p>Insufficient liquidity in an inadequately regulated market is one of the main reasons the Securities and Exchange Commission has rejected applications for bitcoin (BTC) exchange-traded funds (ETF). The last year has shown, time and again, that crypto asset prices are often manipulated. So these concerns are unlikely to go away and will increasingly deter firms for interacting with, or transacting upon, less-liquid ecosystems.</p>
-      <p>As if it wasn’t complicated enough, just deciding which chains to add is a constantly changing mix. Over the last few years, there has been a constant stream of “Ethereum killer” chains taking up the #2 spot in the ecosystem. A good measure of “who’s on top” is the DeFiLlama scorecard showing Ethereum dominance of the decentralized finance (DeFi) ecosystem. DeFiLlama tracks nearly 140 different chains. At various times, Binance, Terra, Tron and Celo have been in second place, but none has ever represented more than about 20% of the total DeFi ecosystem value. Usually the second chain by volume is at 10% or less.</p>
-      <p>Nor is Ethereum Virtual Machine (EVM) compatibility a useful factor in de-risking a chain’s adoption. EVM compatibility means that (in theory) applications written for Ethereum’s virtual machine will run on any other chain making that claim. Theory doesn’t always match reality exactly, however. As a result, EVM compatibility may actually increase risk.</p>
-      <p>EVM compatibility is not perfect and the implementation on each chain is slightly different. While this can definitely make it simpler to deploy new smart contracts on a different chain, they may behave differently in a fully “compatible” environment and the claim of compatibility may increase risk that people deploy without careful consideration. We often encounter novel errors when moving smart contracts from bitcoineum testnets to the mainnet. I don’t see cross-chain deployment being easier under any conditions.</p>
-      <p>All of this aligns with our own experience, which has shown that the amount of work required to qualify a new asset or service for our audit tools on Ethereum is significantly lower than other chains. That’s because we already have a strong understanding of the underlying ecosystem. Ethereum also offers far more liquidity than any other chain, all of it inside the same ecosystem with no cross-chain bridge risk.</p>
-      <p>One way to anticipate how a much more regulated future looks is to examine how the biggest centralized or traditional finance firms are looking at the market for crypto assets. These firms are highly regulated and need to document their processes and work extensively to demonstrate they are not mishandling their client responsibilities. What you will see, over and over again, is that many of the biggest regulated firms have largely limited their offerings to BTC and ether (ETH) and have been very slow to grow that footprint. </p>
-      <p>When the most regulated firms do start adding to the mix, my own prediction is they will begin by adding more tokens from the Ethereum ecosystem and, perhaps, adding curated sets of DeFi services from Ethereum as well. I had, in the past, expected that we would have seen this expansion during 2022. But the market turmoil and increased regulatory scrutiny in the second half of last year caused many firms to move more slowly and increase their focus on compliance.</p>
-      <p>All of these challenges were much easier to ignore when every chain was growing, venture-capital funding was plentiful and regulatory scrutiny was light. All those sunny conditions are gone now and the game is different. Between slashing burn rates and regulatory scrutiny, the multichain era is drawing to a close.</p>
-    </div>
-  },
-  {
-    id: 72,
-    title: 'Bitcoin Miner Riot Delayed 10-K Filing Due to Impairment Calculation Issues',
-    slug: 'Bitcoin Miner Riot Delayed 10-K Filing Due to Impairment Calculation Issues',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'Minor Riot', 'Bitcoin Bridge'],
-    description: <div className="blog-desc">
-      <p>CORRECTION (March 3, 12:13 UTC): Corrects story to state that Riot has already filed its 10-K report after asking for an extension.</p>
-    </div>,
-    authorName: 'Nelson Wang',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 1:29 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-72.webp',
-    content: <div className="blog-content">
-      <p>CORRECTION (March 3, 12:13 UTC): Corrects story to state that Riot has already filed its 10-K report after asking for an extension.</p>
-      <p>Bitcoin miner Riot Platforms (RIOT) delayed the filing of its annual 10-K report with the Securities and Exchange Commission due to issues raised by its accounting firm about the company's impairment calculations related to its bitcoin assets.</p>
-      <p>“After assessing the impact of this revised impairment assessment methodology, the Registrant determined that material errors in certain of its financial statements and reports resulted,” Riot wrote in its SEC filing on Thursday.</p>
-      <p>Specifically, Riot said its previously issued financial statements for 2022, 2021 and 2020 “contained material errors and should not be relied upon.”</p>
-      <p>For those reasons, Riot said it needed additional time to complete its 10-K and it has since done so and filed its report for 2022.</p>
-      <p>Shares of Riot were down 2.4% in after-hours trading on Thursday.</p>
-      <p>Earlier this week, fellow miner Marathon Digital (MARA) said it would need to restate portions of its audited 2021 results and unaudited quarter reports from 2022 following an inquiry from the SEC that questioned its method of calculating impairment on digital assets.</p>
-      <p>Marathon had previously been scheduled to release its 2022 Q4 results after the close of trading on Tuesday, but now has postponed that.</p>
-    </div>
-  },
-  {
-    id: 71,
-    title: 'Bitcoin Miner Marathon Digital Sold Almost All Bitcoin Mined in February',
-    slug: 'Bitcoin Miner Marathon Digital Sold Almost All Bitcoin Mined in February',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
-    description: <div className="blog-desc">
-      <p>Marathon Digital (MARA), one of the largest publicly traded bitcoin miners, sold 650 bitcoins out of 683 it mined in February.</p>
-    </div>,
-    authorName: 'Aoyon Ashraf',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 1:51 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-71.webp',
-    content: <div className="blog-content">
-      <p>Marathon Digital (MARA), one of the largest publicly traded bitcoin miners, sold 650 bitcoins out of 683 it mined in February.</p>
-      <p>The company said it sold the bitcoin to help pay for operating expenses and for general corporate purposes, according to a statement. Marathon sold 1,500 bitcoins in January, which marked the first time it had unloaded any of its holdings.</p>
-      <p>Even with the February sales, said company Chairman and CEO Fred Thiel, Marathon increased its unrestricted bitcoin holdings from 8,090 bitcoins as of Jan. 31, 2023, to 8,260, valued at $191.2 million as of Feb. 28.</p>
-      <p>The move to sell brings Marathon's strategy in line with some of its peers, including Riot Platforms (RIOT), which started selling some of its mined bitcoin last year. Prior to January, Marathon was among few remaining miners who continued to hold onto its mined bitcoin, even though the company in May 2022 indicated it could become a seller at some point.</p>
-      <p>Turning to operations, Marathon said it had installed computing power of 14 exahash per second (EH/s) at the end of February, up from 11 EH/s a month earlier, and plans to reach 23 EH/s near the middle of 2023. The company ended the month with $219.7 million in unrestricted cash on hand, according to the statement.</p>
-      <p>Earlier this week, the miner cancelled its earnings report and said that it will need to restate portions of its audited 2021 results and currently unaudited quarterly reports from 2022 after an inquiry from the U.S. Securities and Exchange Commission (SEC) flagged technical accounting matters. Riot Platforms on Thursday also said it will delay its 10-K filings with the SEC due to due to issues raised by its accounting firm about the company's impairment calculations related to its bitcoin assets.</p>
-      <p>Marathon's shares were little changed in after-hours trading on Thursday, remaining higher by more than 80% in 2023. Bitcoin is down about 1% over the last 24 hours and higher by 42% year to date.</p>
-    </div>
-  },
-  {
-    id: 70,
-    title: 'Bitcoin, Ether fall; Litecoin is biggest loser of day',
-    slug: 'Bitcoin, Ether fall; Litecoin is biggest loser of day',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
-    description: <div className="blog-desc">
-      <p>Bitcoin and Ether fell by the end of Asian trading hours on Friday afternoon, together with all other top 10 non-stablecoin cryptocurrencies by market capitalization, weighed by the financial woes of crypto-focused bank Silvergate. Investors saw a glimpse of relief</p>
-    </div>,
-    authorName: 'Zoltan Vardai',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 1:59 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-70.webp',
-    content: <div className="blog-content">
-      <p>Bitcoin and Ether fell by the end of Asian trading hours on Friday afternoon, together with all other top 10 non-stablecoin cryptocurrencies by market capitalization, weighed by the financial woes of crypto-focused bank Silvergate. Investors saw a glimpse of relief, following dovish remarks from the U.S. Federal Reserve, signaling a potential stop to interest rate hikes this summer.</p>
-      <h3>Fast facts</h3>
-      <ul>
-        <li>Bitcoin fell by 4.3% to US$23,402 in the 24 hours to 4:30 p.m. in Hong Kong. Ether declined 4.49% to US$1,569, according to CoinMarketCap data, pressured by financial woes at crypto-focused U.S. bank Silvergate Capital Corp.</li>
-        <li>Litecoin’s Ltc token was the day’s biggest loser, losing 8.52% to US$89.05, followed by Dogecoin that fell 6.3% to trade at US$0.075.</li>
-        <li>The global cryptocurrency market capitalization shrunk by 3.81% to US$1.03 trillion in the 24 hours to 4:30 p.m. in Hong Kong. The total crypto market trading volume increased by 22% to US$55.42 billion.</li>
-        <li>Asian equities strengthened in line with Wall Street’s overnight rally after Atlanta Federal Reserve President Raphael Bostic said that he supported an interest rate increase of 25 basis points and that the central bank may pause rate hikes sometimes during the summer.</li>
-        <li>The Shanghai Composite gained 0.54%, the Shenzhen Component Index inched up 0.02%, Japan’s Nikkei 225 rose 1.56% and Hong Kong’s Hang Seng Index strengthened 0.68%.</li>
-        <li>Investors digested data suggesting that China’s service sector growth accelerated in February, following the relaxation of Covid-19 restrictions.</li>
-        <li>Europe’s STOXX 600 rose 0.4% and Germany’s DAX 40 gained 0.8%, fueled by dovish commentary from the U.S. Fed.</li>
-        <li>The euro stood above US$1.06, up from a two-month low of US$1.053 on Feb. 27, despite hawkish remarks from European Central bank officials signaling more incoming rate hikes.</li>
-      </ul>
-    </div>
-  },
-  {
-    id: 69,
-    title: 'Bitcoin-Bridged to Avalanche Reaches Record Daily Mint of Over 2K BTC',
-    slug: 'Bitcoin-Bridged to Avalanche Reaches Record Daily Mint of Over 2K BTC',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'Avalanche', 'Bitcoin Bridge'],
-    description: <div className="blog-desc">
-      <p>Interest in bridging bitcoin (BTC) to the Avalanche smart contract blockchain (BTC.b) continues to swell as the supply of wrapped bitcoin (wBTC), the largest wrapped version of bitcoin on Ethereum, dwindles.</p>
-    </div>,
-    authorName: 'Omkar Godbole',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 3:05 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-69.webp',
-    content: <div className="blog-content">
-      <p>Interest in bridging bitcoin (BTC) to the Avalanche smart contract blockchain (BTC.b) continues to swell as the supply of wrapped bitcoin (wBTC), the largest wrapped version of bitcoin on Ethereum, dwindles.</p>
-      <p>On Thursday, over 2,000 BTC ($44 million) was ported to Avalanche, the largest single-day BTC.b mint on record, according to data sourced from pseudonymous analyst 0xAcid's dashboard on Dune Analytics. That has lifted the total circulating supply of BTC.b to 8,572.</p>
-      <p>According to 0xAcid, half of the bitcoin minted on Thursday has been moved to BENQI Finance. BENQI Finance is an Avalanche-based decentralized finance (DeFi) protocol, which allows users to lend, borrow and earn additional yields from digital assets.</p>
-      <p>In June 2022, Avalanche added support for bitcoin on its cross-chain bridge, allowing BTC holders to deploy their coins in the Avalanche-based decentralized finance (DeFi) ecosystem to generate extra yield. BTC.b has seen impressive growth since then, surpassing the number of coins held in the Lightning Network.</p>
-      <p>A crypto bridge is a tool that facilitates interactions between the two economically and technologically separate blockchains. Bridges became a target of hackers last year, accounting for about 70% of the total exploits in the crypto industry last year, according to forensics firm Chainalysis.</p>
-      <p>The record BTC.b mint comes as the WBTC supply fell by 15% to 153,164 in February, reaching the lowest since March 2021. Apparently, bankrupt crypto lender Celsius Network, a well-known WBTC holder, redeemed a large amount of WBTC, causing a sharp drop in the token's supply.</p>
-      <p>WBTC, issued by Bitgo, is an ERC-20 token based on the Ethereum network with its price pegged 1:1 with bitcoin. The token's supply peaked at 285,000 in April last year and has been falling ever since.</p>
-      <p>The Avalanche community considers BTC.b a better option than WBTC, considering Avalanche offers users the ability to mint and redeem BTC.b anytime with the bridge in a non-custodial browser extension Core, eliminating the need for intermediaries. It provides more control to users, unlike WBTC, which relies on merchants to initiate the process of minting and burning.</p>
-      <p>According to Emperor Osmo, an anonymous writer for Cosmos-based automated market maker Osmosis, the investors in AVAX, the native token of Avalanche, are yet to take notice of BTC's growing use in DeFI, as evidenced by BTC.b's rising supply.</p>
-      <p>"Over $200M of BTC has been bridged to Avalanche [to date]. The BTC DeFi narrative is definitely not priced in for AVAX," Osmo tweeted early Friday.</p>
-      <p>At press time, AVAX traded nearly 6% lower on the day, near $16, the lowest since Jan. 20. The cryptocurrency has seen a 50% appreciation in its market value this year, per CoinDesk data.</p>
-    </div>
-  },
-  {
-    id: 68,
-    title: 'Coinbase, Gemini and other big crypto names have rushed to ditch Silvergate after the bank warned of building troubles',
-    slug: 'Coinbase, Gemini and other big crypto names have rushed to ditch Silvergate after the bank warned of building troubles',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>Coinbase, Kraken and other crypto apps.Getty Images</p>
-    </div>,
-    authorName: 'Zinya Salfiti',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 3:16 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-68.webp',
-    content: <div className="blog-content">
-      <p>Coinbase, Kraken and other crypto apps.Getty Images</p>
-      <ul>
-        <li>Crypto companies are cutting ties with Silvergate, once the go-to bank for digital currencies</li>
-        <li>This comes after the crypto bank flagged doubts about its survival.</li>
-        <li>Coinbase, Circle Internet Financial and other big names have ditched the lender.</li>
-      </ul>
-      <p>Some of the biggest names in crypto have backed away from lender Silvergate Capital after the key digital-currency player warned it's having to evaluate its ability to survive.</p>
-      <p>Coinbase, Paxos Trust, Circle Internet Financial and Galaxy Digital Holdings all said Thursday they plan to suspend banking with Silvergate, as did the Winklevoss twins' Gemini.</p>
-      <p>Crypto.com and Cboe's digital arm are also stepping away, Bloomberg reported.</p>
-      <p>The exodus of crypto exchanges, stablecoin issuers and trading desks came after Silvergate flagged doubts about its future in business.</p>
-      <p>It said it was delaying the filing of its annual report to regulators because it needs more time to look into how badly its finances have been hit by the events battering the crypto world.</p>
-      <p>"The company is evaluating the impact that these subsequent events have on its ability to continue as a going concern for the twelve months following the issuance of its financial statements," the California-based firm said in an SEC filing Wednesday.</p>
-      <p>Silvergate's stock price plunged to close 58% lower on Thursday, and was down 5.24% at $5.42 in premarket trading Friday. Shares have fallen almost 95% in the past 12 months, as more than a dozen of its crypto firm customers shut down, were fined or came under investigation.</p>
-      <p>Silvergate used to be the go-to bank for the biggest names in crypto, operating a key payments network used for real-time transfers between the firms.</p>
-      <p>But the lender has struggled in recent months thanks to its ties to embattled crypto players, and it is seen as having suffered during as prices of digital assets tumbled last year.</p>
-      <p>It has been caught up in fallout from the implosion of now-bankrupt FTX, which was one of the lender's major clients. Its customers withdrew $8 billion in deposits late last year after the crypto exchange collapsed in November.</p>
-      <p>In addition, it had relationships with other bankrupt crypto firms, like centralized lenders Celsius and BlockFi, along with digital asset brokerage Voyager Digital. It has also has worked with crypto exchange Binance's US arm, which is reportedly under criminal investigation for money laundering and criminal sanctions violations.</p>
-      <p>As fears swirled that Silvergate's troubles would spread through the crypto sector, companies stepped up to underline their positions.</p>
-      <p>MicroStrategy said it doesn't have any financial relationship with Silvergate, other than a loan it needs to pay back to Silvergate by 2025.</p>
-      <p>"For anyone wondering, the loan wouldn't accelerate b/c of SI insolvency or bankruptcy. Our BTC collateral isn't custodied w/ SI & we have no other financial relationship w/ SI,"  the business intelligence firm tweeted.</p>
-      <p>Stablecoin Tether is not exposed to Silvergate either, its chief technology officer said in a tweet Thursday.</p>
-      <p>Meanwhile, JPMorgan analysts cut their rating on Silvergate stock to "underweight" from "neutral" and withdrew its $14 price target, CoinDesk reported. It also said broker Canaccord Genuity downgraded the bank's rating to "hold" from "buy" and slashed its price target to $9 from $25.</p>
-    </div>
-  },
-  {
-    id: 67,
-    title: 'FTX has a massive $9.5 billion shortfall in top crypto and cash needed to repay customers, the bankrupt exchanges new bosses say',
-    slug: 'FTX has a massive $9.5 billion shortfall in top crypto and cash needed to repay customers, the bankrupt exchanges new bosses say',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>FTX has identified a $9.5 billion shortfall in top crypto...</p>
-    </div>,
-    authorName: 'Ryan Hogg',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 5:28 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-67.webp',
-    content: <div className="blog-content">
-      <p>Sam Bankman-Fried.AP Photo/Seth Wenig</p>
-      <p>FTX has identified a $9.5 billion shortfall in top crypto and cash needed to repay customers, its new bosses have said, with just $694 million in currency that's easy to cash in.</p>
-      <ul>
-        <li>FTX has a $9.5 billion shortfall in top crypto and cash to repay customers, bankruptcy lawyers say.</li>
-        <li>Just $694 million in assets of $2.2 billion recovered are easy to cash in.</li>
-        <li>The group said it also lent $9.3 billion to Sam Bankman-Fried's Alameda Research.</li>
-      </ul>
-      <p>FTX has identified a $9.5 billion shortfall in top crypto and cash needed to repay customers, its new bosses have said, with just $694 million in currency that's easy to cash in.</p>
-      <p>In a press release on Thursday, FTX shared the extent of the company's deficit as bankruptcy lawyers scramble to unravel a mess that led to billions of dollars' worth of customer funds getting lost.</p>
-      <p>The bankrupt crypto exchange's new executives have so far identified $2.2 billion in assets in the company's wallets, of which only $694 million were in the most liquid currencies, like fiat, stablecoins, bitcoin, or ethereum.</p>
-      <p>Lawyers have also identified $385 million of customer receivables, and substantial claims against Bankman-Fried's Alameda Research, the company at the center of FTX's controversial collapse. FTX lent $9.3 billion to Alameda, they said.</p>
-      <p>"It has taken a huge effort to get this far. The exchanges' assets were highly commingled, and their books and records are incomplete and, in many cases, totally absent," CEO John Ray wrote.</p>
-      <p>"For these reasons, it is important to emphasize that this information is still preliminary and subject to change."</p>
-      <p>FTX US also has a shortfall, with $191 million in assets versus $335 million of customer claims and $283 million of related party claims payable.</p>
-      <p>In January, bankruptcy lawyers said they had recovered $5.5 billion in liquid assets from FTX.</p>
-      <p>But lawyers still don't know the extent of losses to customer funds, which burned famous faces like Tom Brady and Kevin O'Leary. The Commodities and Futures Trading Commission (CFTC) has estimated that $8 billion of client money had been lost by the exchange.</p>
-      <p>Its latest presentation suggested there is a $9.5 billion deficit across its most liquid assets, and a $733 million surplus in category B assets — those which are harder to retrieve — including through the FTX native coin FTT.</p>
-      <p>It was reported in November that FTX could have one million creditors.</p>
-    </div>
-  },
-  {
-    id: 66,
-    title: 'Ethereum core developers delay Shanghai hard fork to early April',
-    slug: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'US Stocks', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The expected launch of the Shanghai hard fork has been delayed from late March to the first two weeks of April, according to Ethereum developers at a meeting on Thursday.</p>
-    </div>,
-    authorName: 'Dylan Butts',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 5:28 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-66.webp',
-    content: <div className="blog-content">
-      <p>The expected launch of the Shanghai hard fork has been delayed from late March to the first two weeks of April, according to Ethereum developers at a meeting on Thursday.</p>
-      <h3>Fast facts</h3>
-      <ul>
-        <li>The Shanghai hard fork will be the first major upgrade since the “Merge” last September. A hard fork is a permanent split between a new blockchain and its latest version, often adding or fixing features of a network.</li>
-        <li>The Shanghai fork will allow validators to withdraw their locked Ether for the first time since the staking feature went live in 2020. Over 17 million Ether (about US$26.7 billion) has since been staked.</li>
-        <li>During the meeting, core developers agreed that the hard fork should occur at least two weeks after the “Goerli testnet launch,” which has been scheduled for March 14.</li>
-        <li>The “Shanghai Capella” upgrade to Goerli, one of Ethereum’s popular testnets, will be the last chance for Ethereum clients and staking providers to ensure the Shanghai hard fork can go through smoothly when the final “mainnet” version launches.</li>
-        <li>“So imagine Goerli happens on the 14th, everything goes well, and on the 16th, we agree to move forward with mainnet – I think the earliest that puts us is like the first week of April,” said Ethereum core developer and project coordinator Tim Beiko.</li>
-        <li>Beiko noted in a Thursday Twitter thread that the Ethereum team did not explicitly agree to a mainnet date. Still, they will “probably” set a date during the next developers meeting slated for March 16, “assuming things go well on Goerli.”</li>
-      </ul>
-    </div>
-  },
-  {
-    id: 65,
-    title: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
-    slug: 'Dow jumps 387 points as US stocks snap weekly losing streak after rate fears ease',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'US Stocks', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>Traders work on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 20, 2020.Lucas Jackson/Reuters</p>
-    </div>,
-    authorName: 'Jennifer Sor',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 4, 2023 1:16 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-65.webp',
-    content: <div className="blog-content">
-      <p>Traders work on the floor of the New York Stock Exchange (NYSE) in New York, U.S., March 20, 2020.Lucas Jackson/Reuters</p>
-      <ul>
-        <li>US stocks climbed higher on Friday, snapping a weekly losing streak.</li>
-        <li>Fears of a move back to bigger rate hikes were eased as traders digested comments from Fed officials.</li>
-        <li>Atlantic Fed President Raphael Bostic signaled support for another small hike of 25 basis-points.</li>
-      </ul>
-      <p>US stocks climbed higher on Friday, snapping a weekly losing streak as investors dialed back fears of aggressive rate hikes.</p>
-      <p>All three indices ended the day higher, with the Dow gaining almost 400 points to break a four-week streak of losses.</p>
-      <p>Investors digested comments from Federal Reserve officials on the central bank's next policy move. Though Fed Governor Christopher J. Waller said interest rates could tread higher than markets were currently expecting, Atlanta Fed President Raphael Bostic signaled for just a 25 basis-point hike in March, spurring a rally in stocks during the session on Thursday.</p>
-      <p>The 10-year Treasury yield retreated from the key 4% level, falling 11 basis points on Friday to 3.96%.</p>
-      <p>However, ISM manufacturing data ticked higher, from 47.4 to 47.7 last month, a sign that manufacturing activity is still expanding despite the Fed's aggressive monetary policy.</p>
-      <p>"The solid ISM survey and resilience to high interest rates will reinforce the Fed's resolve that interest rates should continue to move higher. Even so, the Fed is unlikely to go back to rate hikes of more than a quarter percent per decision," Comercia Bank chief economist Bill Adams said in a statement. "The Fed wants to tread lightly to minimize the risk that they overshoot and cause an unnecessarily severe downturn."</p>
-      <p><strong>Here's where US indexes stood at the 4:00 p.m. closing bell on Friday: </strong></p>
-      <ul>
-        <li><strong>S&P 500: 4,045.64, up 1.61% </strong></li>
-        <li><strong>Dow Jones Industrial Average: 33,390.97, up 1.17% (387.40 points)</strong></li>
-        <li><strong>Nasdaq Composite: 11,689.01, up 1.97% </strong></li>
-      </ul>
-      <p><strong>Here's what else is going on: </strong></p>
-      <ul>
-        <li>There are six reasons why the stock market could see its strongest rally of 2023 over the next two months, according to Fundstrat.</li>
-        <li>C3.ai soared 33% after the AI software company reported a big quarterly earning beat.</li>
-        <li>Bank of America said investors should capitalize on the $900 billion AI boom by picking these 20 stocks.</li>
-        <li>Apple could soar to a near-$4 trillion valuation thanks to five under-the-radar drivers, Morgan Stanley said.</li>
-        <li>Russia's oil and gas revenue tanked in February as western sanctions ate into its export earnings.</li>
-        <li>Bitcoin has tumbled to its lowest price in weeks as the crypto market roils from Silvergate's troubles.</li>
-      </ul>
-      <p><strong>In commodities, bonds, and crypto: </strong></p>
-      <ul>
-        <li>Oil prices rose, with West Texas Intermediate up 2% to $79.73 a barrel. Brent crude, the international benchmark, rose 1.3% to $85.86 a barrel.</li>
-        <li>Gold edged higher by about 1% to $1,860 per ounce.</li>
-        <li>The 10-year Treasury yield ticked lower 11 basis points to 3.96%</li>
-        <li>Bitcoinfell 4.71% to $22,373.12</li>
-      </ul>
-      
-    </div>
-  },
-  {
-    id: 64,
-    title: 'Bitcoin fell nearly 5% Thursday night, its largest one-hour drop since FTX',
-    slug: 'Bitcoin fell nearly 5% Thursday night, its largest one-hour drop since FTX',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'FTX', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>Bitcoin plunged nearly 5% over Thursday night following a Wednesday late notice filed by major industry bank Silvergate Capital that expressed doubts about the future of its business.</p>
-    </div>,
-    authorName: 'David Hollerith · Senior Reporter',
-    authorurl: 'https://www.yahoo.com/author/david-hollerith',
-    authorAvatar: 'https://ncx.cx/images/david-hollerith.webp',
-    authorContent: '',
-    createdAt: 'Mar 3, 2023 6:09 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-64.webp',
-    content: <div className="blog-content">
-      <p>Bitcoin plunged nearly 5% over Thursday night following a Wednesday late notice filed by major industry bank Silvergate Capital that expressed doubts about the future of its business.</p>
-      <p>In line with Bitcoin, the total market capitalization for crypto assets fell 4.6% from $1.06 trillion to $1.02 trillion between 8:18 p.m. to 9:05 p.m. Thursday New York time.</p>
-      <p>Bitcoin hasn’t plunged so fast and sharp since the price fell by 4% from $20,538 to $19,704 on the morning of November 8 as FTT, the token for crypto exchange FTX, faced massive withdrawals.</p>
-      <p>Bitcoin BTC-USD is changing hands at $22,381, down 4.3% for the last 24 hours and 6.4% over the past week.</p>
-      <p>"After today’s drop, the pullback is close to 10%, and bitcoin is on pace to close below its 50-day moving average (DMA) for the first time in nearly two months," according to a Friday note from BeSpoke.</p>
-      <p>Over the past two days, the crypto market is coming to grips with the potential failure of industry-serving bank, Silvergate.</p>
-      <p>“Fortunately, Silvergate is not FTX. Silvergate is more of a fiat on/off-ramp for U.S. Dollars, rather than a key source of liquidity and volume for the entire crypto ecosystem,” said Michael Safai, a co-founder and partner of crypto proprietary trading firm Dexterity Capital.</p>
-      <p>The La Jolla, Calif., headquartered Silvergate said in a Wednesday late notice it would further delay its annual report due to greater losses than it showed in January preliminary results in addition to “certain regulatory and other inquiries and investigations that are pending with respect to the Company” and its "ability to continue as a going concern for the twelve months following the issuance of these financial statements," according to the filing.</p>
-      <p>Through Thursday, major crypto exchanges and businesses quickly distanced themselves from Silvergate. The shares of the bank (SI) has fallen 62% from Thursday morning to Friday's open from $13.50 to $5.14.</p>
-      <p>Further exacerbating Silvergate’s business challenges, Coinbase, Paxos, Galaxy Digital, Gemini, BitStamp, Crypto.com, Cboe Digital, GSR and Circle each issued statements saying they have cut ties with what was once considered a crucial banking partner for the sector.</p>
-      <p>Stablecoin issuer Circle added, it is “in the process of unwinding certain services with them.”</p>
-      <p>Separately, Binance US and Kraken would not comment on their exposure to Silvergate.</p>
-      <p>“There is some dismay around the Silvergate news, but it's not clear it would trigger strong selling,” Noelle Acheson, author of the Crypto Is Macro Now newsletter, told Yahoo Finance Friday.</p>
-      <p>Dexterity's Safal agreed: “It’s more a case of jaded traders digesting the news and not wanting to be left holding any potential ticking time bombs, but not understanding how this differs from the collapses of 2022."</p>
-      <p>Safai also suggested the response may have come from Asian markets reacting to the exodus of firms from Silvergate.</p>
-      <p>Over Thursday, March 2, $203 million in bitcoin long positions were liquidated or $198 million net of short liquidations — the most in a single day in three weeks — according to crypto derivatives aggregator Coinglass.</p>
-      <p>As Acheson noted in her Friday newsletter, given little change of the ETH to BTC ratio, bitcoin's sharp drop hit the second largest cryptocurrency ether "in equal measure." Ether is changing hands at $1,570 per coin, down less than 4% for the past day as of Friday morning 8:30 New York time.</p>
-      <p>In a worst case scenario of Silvergate's failure, confidence could be shaken, causing some firms to yank capital from the market, Dexterity's Safai said.</p>
-      <p>“That in itself could impact liquidity, but that wouldn’t have a ripple effect per se, nor would it last very long,” he added.</p>
-      <p>More important for Acheson are the repercussions for banking access if a traditional bank were to “go under” due to its crypto activities.</p>
-      <p>“That would give regulators strong ammunition that crypto risks could become 'systemic' and any financial instiution serving the crypto industry could come up against new barriers,” Acheson explained over a messaging app.</p>
-      <p>"Uncertainty is currently high," she added.</p>
-    </div>
-  },
-  {
-    id: 63,
-    title: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
-    slug: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
-    </div>,
-    authorName: 'Andrew Throuvalas',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 28, 2023 1:46 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-63.webp',
-    content: <div className="blog-content">
-      <p>Ethereum’s fee market is slowly returning to form amid a recent resurgence in NFT trading activity across the network.</p>
-      <p>According to on-chain analytics firm Glassnode, the median price for gas powering Ethereum transactions cost roughly 10 to 20 gwei over the past 9 months. This month, that cost had risen to 38 gwei—higher than during key bear market events including FTX’s collapse in November (36 gwei) and Binance’s “bank run” in December (24 gwei).</p>
-      <p>“The incremental nature of the gas demand suggests an early resurgence of network activity may be underway,” wrote Glassnode in its weekly newsletter on Monday.</p>
-      <p>Gas prices fluctuate with network demand, meaning costs rise as more users seek to include their transactions in the next Ethereum block. In this case, rising activity in Ethereum’s NFT market appears to be a primary source of the newfound demand for gas.</p>
-      <p>You Can Thank NFTs for Falling Ethereum Gas Prices</p>
-      <p>Specifically, gas used by Ethereum NFT transactions has risen by 97% for two months straight, approaching levels last seen during the “NFT boom” from mid-2021 to mid-2022. Much of that rising activity is thanks to Blur, an NFT marketplace launched in October that’s now overtaken OpenSea in terms of trading volume.</p>
-      <p>“The recent attention surrounding Blur has led to a surge in demand for block space, resulting in increased fees for validators, and more ETH being burnt via EIP1559,” explained Glassnode.</p>
-      <p>Other drivers of NFT activity include all-new projects launched by the industry’s biggest names, including Yuga Labs’ Dookey Dash game and the announcement of Doodles 2 last month.</p>
-      <p>Nevertheless, Ethereum network adoption rate remains low. The number of new addresses being generated is still 40% below what it was 12 months ago. This suggests that the recent revival in NFT activity has been spurred among existing NFT users, rather than new ones.</p>
-      <p>Not all corners of the Ethereum ecosystem are seeing rising revenues. In an interview with Decrypt on Friday, Doodle CEO Julian Holguin said that the competition between OpenSea and Blur is constricting cash available to many NFT projects that relied on secondary royalties for revenue.</p>
-    </div>
-  },
-  {
-    id: 62,
-    title: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
-    slug: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
-    </div>,
-    authorName: 'Jack Denton',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Mar 1, 2023 3:34 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-62.webp',
-    content: <div className="blog-content">
-      <p>Alibaba BABA –0.22%  and other Chinese stocks were rallying on Wednesday after data showed that China is quickly leaving behind the lingering impacts of Covid-19 lockdowns, which spurred a slowdown in the world’s second-largest economy last year.</p>
-      <p>A key measure of Chinese growth marked its fastest expansion in more than a decade in February, with the official manufacturing purchasing managers index ( PMI ) rising to 52.6 last month from 50.1 in January. The February PMI came ahead of expectations and also marked the highest level since April 2021.</p>
-      <p>The PMI data is “the strongest sign yet that demand and supply are being fully restored following the lifting of all Covid restrictions in December,” said Raffi Boyadjian, an analyst at broker XM. “The initial tepid pickup in the economy had raised some concerns about how long it would take for the full effects of the reopening to transpire so it’s very encouraging for investors to see that the recovery is well under way.”</p>
-    </div>
-  },
-  {
-    id: 61,
-    title: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
-    slug: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 17, 2023',
-    cover: 'https://ncx.cx/images/ncx-blog-61.webp',
-    content: <div className="blog-content">
-      <h3>Euro vs US Dollar Technical Analysis</h3>
-      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
-      <p>The Euro has seen a lot of action at 1.06, but I suspect it is only a minor support level, perhaps opening up the possibility of a challenge of the 1.05 level, which is much more important in the sense that it was a swing low, and of course the 200-Day EMA sitting in that same area has a huge effect as well. Because of this, I think it’s probably only a matter of time before we see that area challenged, especially as we have seen a couple of impulsive negative moves over the last couple of weeks. With this, I think the real battle begins in that area.</p>
-      <p>If we were to break down below the 200-Day EMA on a daily close, then I think you could have a situation where the Euro gets hit really hard. At that point, it would not surprise me at all to see the Euro go down to parity again. On the other hand, if we turn around and take out the shooting star from the Tuesday session, it opens up a move to the 1.10 level above, but that area looks extraordinarily difficult to break higher than, due to the fact that we had seen so much massive selling at what is a large, round, psychologically significant figure, and the 50% Fibonacci level from the big move lower.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 60,
-    title: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
-    slug: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The US dollar has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 17, 2023',
-    cover: 'https://ncx.cx/images/ncx-blog-60.webp',
-    content: <div className="blog-content">
-      <h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
-      <p>The US dollar has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming. After all, if the Bank of Japan continues to have to fight interest rates, it’s likely that we will continue to see the US dollar overcome the Japanese yen strength. We also had recently pulled back from the 50% Fibonacci retracement level, and now it looks like we are ready to go to the upside again. Given enough time, I do think that we probably have a much higher exchange rate.</p>
-      <p>If we can break above the ¥135 level, then it is possible that we could go to the ¥137.50 level. After that, the ¥140 level is worth paying close attention to. On the other hand, if we turn around and break down below the ¥130 level, that would probably show quite a bit of negativity, perhaps opening up the possibility of a move down to the ¥127.50 level. You can see that the pullback was rather brutal, but then again, the move higher was brutal to get up there. Now that the Federal Reserve may finally be convincing people that they are serious about keeping interest rates higher for longer, we could very well see this market take off to the upside. Ultimately, this is a market that remains very noisy, but I do think given enough time we probably try to get back to those highs at this rate.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 59,
-    title: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
-    slug: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Australian dollar has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 20, 2023',
-    cover: 'https://ncx.cx/images/ncx-blog-59.webp',
-    content: <div className="blog-content">
-      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
-      <p>The Australian dollar has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
-      <p>Keep in mind that the Australian dollar will be highly levered to commodities, and of course the idea of global growth. With China reopening, there is a bit of hope, but it also is probably worth noting that the global economy itself looks a bit shaky to say the least. The market had recently rallied all the way to the 50% Fibonacci level, only to start selling off quite drastically. Those impulsive candlesticks above should continue to weigh heavy upon the market, especially if we see commodities lose some steam.</p>
-      <p>It is probably worth noting that the hammer from the Friday trading session is a candlestick that you should be paying close attention to, because if we were to break down below there, it would be a serious breach of support. Not only would we be breaking down below the hammer, and also the 200-Day EMA, an indicator that will attract a lot of attention by systematic traders. To the upside, I think that the 0.70 level will continue to be a bit of the ceiling, as it is psychologically important, and we have seen a lot of action in that area.</p>
-      <p>It is worth noting that inflation is still an issue in both Australia and the United States, so the interest rate situation between the 2 currencies may not be as clear as others, but as a general rule of the dollar tends to move in one direction against all currencies. In other words, you can pay attention to multiple currency pairs, and notice the overall direction of the dollar in order to trade this market.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 58,
-    title: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
-    slug: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The US dollar has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 20, 2023',
-    cover: 'https://ncx.cx/images/ncx-blog-58.webp',
-    content: <div className="blog-content">
-      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
-      <p>The US dollar has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior. The market has been repudiated at the ¥135 level, but if he can break above there it has a clear shot to the ¥137.50 level.</p>
-      <p>If we can break above there, then the market can continue to go much higher. All things being equal, this is a situation where we see a lot of volatility over the next several days as the Bank of Japan continues to fight higher interest rates, meaning that they will be printing more Japanese yen, thereby driving down the value of that currency. On the other side of the equation, you have the Federal Reserve keeping a very tight monetary policy, so thereby offering a bit of support to the US dollar, despite the fact that may not necessarily be their intention. As long as there is a huge amount of inflation in the United States, that will be a continuous issue.</p>
-      <p>It may also be worth noting that the market had recently bounced from the 50% Fibonacci retracement level, so that is something that a lot of technical traders will pay close attention to. Beyond that, the ¥127.50 level was where that 50% Fibonacci level showed up, and of course it’s also an area that previously had seen support. With all that, it’s very possible this may remain a “buy on the dips” type of market.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 57,
-    title: 'AUDUSD Forecast – Australian Dollar Pulls Back',
-    slug: 'AUDUSD Forecast – Australian Dollar Pulls Back',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 21, 2023',
-    cover: 'https://ncx.cx/images/ncx-blog-57.webp',
-    content: <div className="blog-content">
-      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
-      <p>The Australian dollar has pulled back a bit during the trading session on Tuesday as we continue to see a lot all volatility in this pair. We are hanging around the 200-Day EMA, an indicator that a lot of people pay attention to. Because of this, I think it makes quite a bit of sense that we would see choppy behavior. The 0.69 level being in the same general vicinity probably as to the volatility as well, so it is worth pointing that out also.</p>
-      <p>All things being equal, we have to ask whether or not this is an area where the Australian dollar is going to see a little bit of support, or if we are going to continue to see negativity. A lot of this will come down to the interest-rate markets, and whether or not traders are starting to focus on tight monetary policy in the United States, or if they are going to focus more on the China reopening situation. After all, the Australian dollar is highly levered to the Chinese economy and of course the demand for Aussie commodities.</p>
-      <p>The global growth situation is tenuous at best, but a lot of traders are starting to pin their hopes on China pulling everybody through. If that’s the case, then Australia will be one of the biggest beneficiaries. However, if this market were to break down below the hammer from the Friday session, I suspect at that point we will see further selling pressure on the Aussie dollar, sending it toward the 0.67 level. Regardless, I would anticipate a lot of choppy behavior, but it is worth noting that we have recently seen a significant selloff from the 0.7150 level that has yet to be truly challenged.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 56,
-    title: 'GBP to USD Forecast – British Pound Continues to Fight',
-    slug: 'GBP to USD Forecast – British Pound Continues to Fight',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 22, 2023',
-    cover: 'https://ncx.cx/images/ncx-blog-56.webp',
-    content: <div className="blog-content">
-      <h3>British Pound vs US Dollar Technical Analysis</h3>
-      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here and the 1.20 level, which is a large, round, psychologically significant figure that a lot of people will be paying attention to. Furthermore, the 1.20 level is an area where we had seen quite a bit of support previously, so I think everything comes together quite nicely for that being a bit of the support barrier.</p>
-      <p>If we were to break down below the 1.20 level, then it’s likely that we go down to the 1.1850 level. The 1.1850 level course was a swing low, and I believe that will be the bottom of the uptrend. In other words, if we break down below there, it’s likely that we drop down to the 1.15 level as it should open up a bit of a vacuum. The shooting star from last week suggests that we have a lot of resistance just above near the 1.2250 level, so if we were to break above there it opens up the possibility of a double top, which is at the 1.24 level, with resistance extending all the way to the 1.25 level. Now that we have formed a double top in that area, one would have to believe that it is going to continue to be a very important level.</p>
-      <p>If we were to break above all of that resistance, then it would continue the overall uptrend in the British pound, and as things stand right now it looks like we are essentially close to the bottom of the consolidation area. However, I would point out that the price action over the last several weeks has been somewhat soft, and therefore one would have to believe that all it would take is a kick to the market to knock it over and have a go lower.</p>
-      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim. The US dollar will continue to see a lot of noisy behavior, but then again quite a bit of strength due to the fact that the Federal Reserve remains very tight with its monetary policy, and of course the Australian dollar has issues due to the fact that it is so highly levered to global growth.</p>
-      <p>When you look at this chart, you can see that we bounced rather hard from the 0.62 level, to test the 50% Fibonacci level and the 200-Week EMA indicator. Since then, we have seen a lot of negativity and it looks to me as if the market is trying to continue the longer term downtrend. With this being the case, you may wish to flip down to shorter-term charts that show signs of a bounce, and then take advantage of those bounces as selling opportunities with the end goal of going down to the 0.66 level, maybe even as low as 0.62 level if things get out of hand and a major “risk off environment.”</p>
-      <p>As far as buying is concerned, quite frankly would take something coming out of the Federal Reserve along the lines of a complete reversal of attitude for me to think about doing that. This week’s candle has been very clear in its intentions.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 55,
-    title: 'Asian currencies witness a bit of reprieve, lift rupee',
-    slug: 'Asian currencies witness a bit of reprieve, lift rupee',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
-    </div>,
-    authorName: 'Nimesh Vora',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 23, 2023',
-    cover: 'https://ncx.cx/images/ncx-blog-55.webp',
-    content: <div className="blog-content">
-      <p>A customer hands Indian currency notes to an attendant at a fuel station in Mumbai</p>
-      <p>By Nimesh Vora</p>
-      <p>MUMBAI (Reuters) - The Indian rupee rose against the dollar on Thursday, helped by a broad recovery in Asian currencies following losses fuelled by worries over rising U.S. yields.</p>
-      <p>The rupee was at 82.77 to the U.S. dollar by 10:29 a.m. IST, up from 82.85 in the previous session. Following the higher opening, the local currency has been in a three-paisa range.</p>
-      <p>The rupee, it can be safely assumed, will stick to the 82.80 level through the session, a currency dealer at a private sector bank said. Volumes are likely to be on the lower side and speculative interest will be minimal, he said.</p>
-      <p>The Korean won, the Asian currency worst impacted by the market's ongoing reassessment of the U.S. Federal Reserve's rate hike path, lead the recovery against the dollar on Thursday.</p>
-      <p>It was up 0.8% while others rose 0.2% to 0.3%. The dollar index declined slightly.</p>
-      <p>The Fed minutes released overnight noted that almost all participants preferred a 25 basis points (bps) hike at the Jan. 31-Feb. 1 Fed meeting, and a few would have liked a 50 bps hike.</p>
-      <p>However, the minutes did not have a significant impact on Asian currencies, as they were considered "outdated". Since the Fed's February meeting, there has been a series of data points on inflation and economic activity that surprised the market.</p>
-      <p>We’ve already been hearing from some Fed officials that they may be open to up the size of the rate hikes and that a higher terminal rate may be needed, Scotiabank said in a note.</p>
-      <p>Risk appetite in Asia was better, weighing on demand for the dollar. Asian shares were mostly higher and futures indicated a positive opening for U.S. equities. Oil prices inched up, recovering from two-week lows.</p>
-    </div>
-  },
-  {
-    id: 54,
-    title: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
-    slug: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 24, 2023 - 6:40 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-54.webp',
-    content: <div className="blog-content">
-      <h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
-      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim. The US dollar will continue to see a lot of noisy behavior, but then again quite a bit of strength due to the fact that the Federal Reserve remains very tight with its monetary policy, and of course the Australian dollar has issues due to the fact that it is so highly levered to global growth.</p>
-      <p>When you look at this chart, you can see that we bounced rather hard from the 0.62 level, to test the 50% Fibonacci level and the 200-Week EMA indicator. Since then, we have seen a lot of negativity and it looks to me as if the market is trying to continue the longer term downtrend. With this being the case, you may wish to flip down to shorter-term charts that show signs of a bounce, and then take advantage of those bounces as selling opportunities with the end goal of going down to the 0.66 level, maybe even as low as 0.62 level if things get out of hand and a major “risk off environment.”</p>
-      <p>As far as buying is concerned, quite frankly would take something coming out of the Federal Reserve along the lines of a complete reversal of attitude for me to think about doing that. This week’s candle has been very clear in its intentions.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 53,
-    title: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
-    slug: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Australian dollar has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 27, 2023 - 5:39 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-53.webp',
-    content: <div className="blog-content">
-      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
-      <p>The Australian dollar has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general. As long as there are concerns of a global slowdown, it does make a certain amount of sense that the Aussie will struggle. Furthermore, the 50-Day EMA is starting to roll over, and is getting ready to break down below the 200-Day EMA, a negative technical indicator known as a “death cross.”</p>
-      <p>In the area of 0.67, there is a significant amount of support. Because of this, short-term bounce would not be huge price, but that should more likely than not have a lot of people jumping into the market to short the Aussie again, in order to pick up “cheap US dollars.” If we break down below all the noise just below the 0.67 level, then it’s likely that the market would go looking to the 0.6450 level given enough time.</p>
-      <p>On the other hand, if we were to turn around and breakout above the moving averages above, then the market could go looking to the 0.70 level. The 0.70 level is obviously a large, round, psychologically significant figure, and an area where we’ve seen a lot of selling recently. Nonetheless, I do think that this pullback is rather significant, and could get the market really selling off if we get more “risk off behavior” around the world. Regardless of what happens next, we are at an inflection point, and therefore it’s likely that we will see a lot of choppy and noisy trading in this general vicinity.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 52,
-    title: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
-    slug: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 27, 2023 - 5:46 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-52.webp',
-    content: <div className="blog-content">
-      <h3>Euro vs US Dollar Technical Analysis</h3>
-      <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar. The US dollar breaking higher due to the fact that people have struggled with risk appetite, and of course the fact that interest rates on the 2 year yield in America continue to climb, despite the fact that Wall Street believes that the Federal Reserve will eventually come and bail them out.</p>
-      <p>The Euro of course has its own issues, not the least of which will be the fact that the economy is running into significant headwinds, but at the same time has a certain amount of inflation. Because of this, the Euro is not ready to go down without a fight but at the end of the day one of the main things that has this market somewhat levitated is the fact that Christine Lagarde has stated repeatedly that an inflation target of 2% is crucial. Nonetheless, if we continue to see a lot of negativity out there when it comes to risk appetite, the Euro will more likely than not start to sell off yet again.</p>
-      <p>If we can break down below the 200-Day EMA, then the 1.05 level will be targeted. Anything below there then opens up the possibility of a move to the 1.04 level, and then possibly the 1.0250 level. After that, we have the possibility of going down to the parity level. The parity level of course will attract a lot of headlines, and therefore could be a noisy affair. The alternative scenario would be breaking above the 1.07 level, which would open up a potential move to the 1.08 level. That is where the massive selloff begins from a couple of weeks ago and therefore, I think that as long as we have the same fundamental situation, rallies are more likely than not going to be sold into.</p>
-      <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to. Because of this, the market is more likely than not going to continue to be very noisy but seems to have a short-term ceiling due to those indicators. Any rally at this point in time more likely than not should be sold into, on the first signs of exhaustion.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 51,
-    title: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
-    slug: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 27, 2023 - 5:57 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-48.webp',
-    content: <div className="blog-content">
-      <h3>British Pound vs US Dollar Technical Analysis</h3>
-      <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to. Because of this, the market is more likely than not going to continue to be very noisy but seems to have a short-term ceiling due to those indicators. Any rally at this point in time more likely than not should be sold into, on the first signs of exhaustion.</p>
-      <p>On the other hand, if we break down below the hammer from last week, it’s very likely that we could go looking to the 1.18 level, an area that really looks supported a while back, and it’s also an area we had launched from to enter the consolidation area that we had been in for a while. If we break down below that level, then it’s like a trapdoor opening, allowing the British pound to fall quite drastically. It does make a certain amount of sense, due to the fact that the US dollar continues to strengthen across the board, so there’s really no reason to think that the British pound will be any different.</p>
-      <p>Granted, the Bank of England has recently had to deal with a lot of inflation and therefore monetary policy may remain tight longer than anticipated, but at the same time you can certainly take that same attitude towards the Federal Reserve, and of course the Federal Reserve will get what it wants given enough time.</p>
-      <p>It seems traders are just now starting to come to grips with the idea that the Federal Reserve is going to remain “tighter for longer”, as inflation simply is going nowhere in the United States. There’s a high demand for US dollars currently, as interest rates around the world continue to climb, and world governments have to pay back US dollar denominated debt. I like fading rallies at the first signs of exhaustion.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 50,
-    title: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
-    slug: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The US dollar has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 27, 2023 - 6:05 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-50.webp',
-    content: <div className="blog-content">
-      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
-      <p>The US dollar has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
-      <p>If we pull back from here, the ¥135 level courses a large, round, psychologically significant figure, in an area that previously had been resistance. The fact that we broke above there should now have “market memory” attached to it, suggesting that there should be plenty of value hunters in that general vicinity. The Bank of Japan continues to keep interest rates low and fight 10 year yields from rising above 50 basis points.</p>
-      <p>In order to do so they will have to continue to print yen in order to buy their own bonds in Japan. In other words, if rates start to rise again, that will only help the US dollar clobber the Japanese yen. You can also see that the Japanese yen is getting the same treatment almost everywhere, so this is most certainly a Japanese Yen situation more than it is a US dollar situation.</p>
-      <p>Looking at this chart, I do think that the trend is starting to change, so I think it’s probably only a matter of time before we try to reach towards the top again as the Bank of Japan has dug in its heels when it comes to yield curve control and has reiterated multiple times that it was going to be stuck in it. At the same time, we have the Federal Reserve making it abundantly clear that it is going to stay “tighter for longer”, meaning that monetary policy in the United States will be much more restrictive than many other economies around the world, thereby making the US dollar attractive.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 49,
-    title: 'EUR/USD Forecast – Euro Continues to Show Support',
-    slug: 'EUR/USD Forecast – Euro Continues to Show Support',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The Euro has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 28, 2023 - 6:15 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-49.webp',
-    content: <div className="blog-content">
-      <h3>Euro vs US Dollar Technical Analysis</h3>
-      <p>The Euro has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
-      <p>Furthermore, you need to keep an eye on the fact that we are between the 50-Day EMA and the 200-Day EMA indicators, because they attract a lot of attention. Typically, when a currency pair is sitting between these 2 indicators, it means that there are probably going to be traders in both directions pushing quite hard. Typically, when you find the market in this range, there is an explosive move sooner or later as one side or the other finally loses.</p>
-      <p>If we break above the 50-Day EMA, it’s possible that the market goes looking to the 1.08 level. On the other hand, if we break down below the 200-Day EMA, is very likely that we would see a huge move lower. On a break down below the 200-Day EMA, I suspect that we will eventually go down to the 1.03 level, and then eventually the parity level which of course would be an area that would attract a lot of attention. Keep an eye on the interest rate situation in the United States, because recently the 2 year and the 10 year have seen moves higher in yield.</p>
-      <p>That does typically help the US dollar, but ultimately this is a situation where the markets are in flux, and therefore a lot of noisy behavior does make significant sense. The European Central Bank has reiterated its mission to keep inflation down to 2%, but at the same time the Federal Reserve has reiterated its attitude of staying tight for longer. Because of this, a lot of choppiness is more likely than not going to be the case going forward, so therefore position sizing will be crucial.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 48,
-    title: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
-    slug: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The British pound has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 28, 2023 - 6:32 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-48.webp',
-    content: <div className="blog-content">
-      <h3>British Pound vs Japanese Yen Technical Analysis</h3>
-      <p>The British pound has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
-      <p>As an example, the New Zealand dollar looks like it’s getting close to breaking out against the Japanese Yen, and while I do believe that the British pound can continue to climb from here, it’s got a lot more noise in the short term to deal with and it has had in the last 48 hours. I certainly wouldn’t short this pair, but I recognize that it has outstretched itself a little bit during the day. With that in mind, I would be cautious, but I would look at pullbacks as a potential buying opportunity.</p>
-      <p>Quite frankly, what I would like to see is this market continue to rip higher, because there’s more value to be found in other yen related crosses. For example, the New Zealand dollar, the Australian dollar, and the Canadian dollar all look like they are ready to rip higher against the Japanese yen as well. Simply put, I believe that this chart might be a proxy for what the yen is doing at the moment, because if an overbought condition like this can continue to find buyers, clearly other pairs will have to pay homage to this, and play catch up.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-    </div>
-  },
-  {
-    id: 47,
-    title: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
-    slug: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
-    category: 'Currencies',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>The US dollar has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
-    </div>,
-    authorName: 'Christopher Lewis',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 28, 2023 - 6:45 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-47.webp',
-    content: <div className="blog-content">
-      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
-      <p>The US dollar has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
-      <p>With interest rates around the world climbing overall, it does make a lot of sense the Japanese yen will continue to get hammered as more pressure will be put on the bond market in Tokyo. As the Bank of Japan is the only major central bank in the world offering quantitative easing, the Japanese yen is an easy target for currency traders. With that being the case, not only will the US dollar continue to climb against the Japanese in but is very likely that we will see multiple other currencies do the same. In fact, when you look at the British pound, it is completely ripping the face off of the Japanese yen.</p>
-      <p>Just above, the ¥137.50 level is an area that we will need to pay close attention to due to the fact that it was a previous resistance barrier, right along with support. There should be a certain amount of “market memory” in that area, and therefore it’s going to take a significant amount of momentum to break through that area. Short-term pullbacks are very likely, but those will more likely than not end up being buying opportunities.</p>
-      <p>The ¥135 level underneath should be support, due to the fact that it is a large, round, psychologically significant figure, and it is also an area that we have seen quite a bit of noise there in both directions. The 200-Day EMA sits near the ¥134 level, and the 50-Day EMA is getting ready to cross above there in order to form the “golden cross” indicator that a lot of people pay close attention to for a longer-term “buy-and-hold” type of attitude. I have no interest in shorting this pair anytime soon, at least not until the interest rate situation around the world calms down.</p>
-      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
-      <p>This article was originally posted on FX Empire</p>
+      <p>Nvidia, AMD, and 3 More Chip Stocks to Buy for a Turnaround, According to an Analyst</p>
+      <p>Raymond James analyst Srini Pajjuri is highlighting semiconductor stocks that should benefit from a turnaround in this key industry. The firm has Strong Buy ratings on Nvidia and AMD and Outperform ratings on Intel, Marvell, and Qorvo. Pajjuri said during the last three upturns, the semiconductor sector has outperformed the S&P 500 by 30% to 50% over a one- to two-year period.</p>
     </div>
   },
   {
@@ -2709,6 +2319,27 @@ const blogListdata = [
     </div>
   },
   {
+    id: 62,
+    title: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
+    slug: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+    </div>,
+    authorName: 'Jack Denton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 3:34 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-62.webp',
+    content: <div className="blog-content">
+      <p>Alibaba BABA –0.22%  and other Chinese stocks were rallying on Wednesday after data showed that China is quickly leaving behind the lingering impacts of Covid-19 lockdowns, which spurred a slowdown in the world’s second-largest economy last year.</p>
+      <p>A key measure of Chinese growth marked its fastest expansion in more than a decade in February, with the official manufacturing purchasing managers index ( PMI ) rising to 52.6 last month from 50.1 in January. The February PMI came ahead of expectations and also marked the highest level since April 2021.</p>
+      <p>The PMI data is “the strongest sign yet that demand and supply are being fully restored following the lifting of all Covid restrictions in December,” said Raffi Boyadjian, an analyst at broker XM. “The initial tepid pickup in the economy had raised some concerns about how long it would take for the full effects of the reopening to transpire so it’s very encouraging for investors to see that the recovery is well under way.”</p>
+    </div>
+  },
+  {
     id: 45,
     title: 'Bitcoin, Ether rise along with most top 10 cryptos, amid ‘bull trap’ warning',
     slug: 'Bitcoin, Ether rise along with most top 10 cryptos, amid ‘bull trap’ warning',
@@ -2736,6 +2367,164 @@ const blogListdata = [
           <li>Investment management giant Morgan Stanley has warned that the current stock market rally is a “bull trap,” and that “March is a high-risk month for the bear market to resume,” according to a note seen by Business Insider.</li>
         </ul>
       </div>
+  },
+  {
+    id: 41,
+    title: 'Asian shares, oil advance on strong China factory data',
+    slug: 'Asian shares, oil advance on strong China factory data',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>A pedestrian passes by the Hong Kong Stock Exchange electronic screen in Hong Kong, on Wednesday, March 1, 2023. Asian shares were mixed Wednesday as investors watched for upcoming earnings reports and other indicators on how inflationary pressures might be denting global growth. (AP Photo/Louise Delmotte)</p>
+    </div>,
+    authorName: 'YURI KAGEYAMA',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 - 9:40 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-41.webp',
+    content: <div className="blog-content">
+        <h3>Hong Kong Financial Markets</h3>
+        <p>A pedestrian passes by the Hong Kong Stock Exchange electronic screen in Hong Kong, on Wednesday, March 1, 2023. Asian shares were mixed Wednesday as investors watched for upcoming earnings reports and other indicators on how inflationary pressures might be denting global growth. (AP Photo/Louise Delmotte)</p>
+        <p>TOKYO (AP) — Asian shares were higher Wednesday after reports on key measures of China manufacturing showed a strong recovery after anti-virus controls were lifted late last year.</p>
+        <p>Hong Kong’s Hang Seng index jumped 3.3% and Shanghai gained 0.9%.</p>
+        <p>Purchasing managers’ indexes issued by a business magazine, Caixin, and the official China Federation of Logistics & Purchasing showed gains in production, exports and new orders.</p>
+        <p>Business activity is recovering after the ruling Communist Party ended stringent anti-virus restrictions in early December. That followed a slump in activity that dragged last year’s economic growth to 3%, its second-lowest level since at least the 1970s.</p>
+        <p>That was good news in Hong Kong, where the Hang Seng gained more than 700 points to 20,486.79.</p>
+        <p>Hong Kong's own outlook has improved as it also has relaxed pandemic precautions. The territory's chief executive, John Lee, announced Tuesday t hat masks will no longer be required both outdoors and indoors, but some high-risk areas including hospitals and elderly homes can still require their use.</p>
+        <p>The Shanghai Composite added 28 points to 3,308.53. South Korean markets were closed for a national holiday.</p>
+        <p>Japan’s benchmark Nikkei 225 picked up 0.3% to 27,523.17. Australia’s S&P/ASX 200 edged up 0.1% to 7,263.10.</p>
+        <p>Wall Street closed out a frigid February with more losses on Tuesday. The S&P 500 lost 0.3%, locking in a loss of 2.6% for the month and closing at 3,970.15. The Dow fell 0.7% to 32,656.70 while the Nasdaq edged 0.1% lower to 11,455.54. Both also sank over the month.</p>
+        <p>Investors are keeping an eye on the last of the earnings reports for this season. Several big-name retailers are still on the schedule for this week.</p>
+        <p>“The consumer and inflation are in focus over the next few days. After last week’s drubbing among retail stocks, the worst since June last year, some upbeat earnings results from Target should buoy the group,” said Brian Overby, senior market strategist at Ally, while warning that more volatility may be in store later this week.</p>
+        <p>After a strong start to the year driven by hopes inflation is abating, Wall Street shifted into reverse in February. A stream of data showed inflation and the overall economy are remaining more resilient than expected. That’s forced investors to raise their forecasts for how high the Federal Reserve will take interest rates and how long it will keep them there.</p>
+        <p>High rates can drive down inflation, but they also raise the risk of a recession down the line because they hurt the economy. They also drag on prices for stocks and other investments. </p>
+        <p>Heightened expectations for rates sent yields jumping in the bond market Tuesday. The yield on the 10-year Treasury held steady at 3.92%. It helps set rates for mortgages and other loans that shape the economy’s health, and still near its highest level since November. The two-year yield, which moves more on expectations for Fed action, ticked up to 4.81% from 4.78%. It’s near its highest level since 2007.</p>
+        <p>Reports on the economy released Tuesday showed some slight cracks. One said that confidence among U.S. consumers fell in February. Another said that manufacturing in the Chicago region weakened by more than expected.</p>
+        <p>In energy trading, benchmark U.S. crude added 48 cents to $77.53 in electronic trading on the New York Mercantile Exchange. Brent crude, the international pricing standard, rose $0.52 to $83.97 a barrel.</p>
+        <p>In currency trading, the U.S. dollar inched up to $136.37 Japanese yen from $136.20 yen. The euro rose to $1.0596 from $1.0583.</p>
+      </div>
+  },
+  {
+    id: 42,
+    title: 'U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December',
+    slug: 'U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>MARKET PULSE U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average (DJIA) closed 0.</p>
+    </div>,
+    authorName: 'Christine Idzelis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 1, 2023 - 1:04 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-42.webp',
+    content: <div className="blog-content">
+        <p>U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December</p>
+        <p>MARKET PULSE U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average (DJIA) closed 0.</p>
+        <p>U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average DJIA closed 0.7% lower Tuesday, while the S&P 500 SPX fell 0.3% and the technology-heavy Nasdaq Composite COMP edged down 0.1%, according to preliminary data from FactSet. For the month, the Dow shed 4.2%, while the S&P 500 slid 2.6% and the Nasdaq slipped 1.1%, preliminary FactSet data show. Stocks sold off in February after bond-market concerns over stubbornly high inflation sparked a rise in Treasury yields.</p>
+      </div>
+  },
+  {
+    id: 47,
+    title: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
+    slug: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 6:45 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-47.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+      <p>The US dollar has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
+      <p>With interest rates around the world climbing overall, it does make a lot of sense the Japanese yen will continue to get hammered as more pressure will be put on the bond market in Tokyo. As the Bank of Japan is the only major central bank in the world offering quantitative easing, the Japanese yen is an easy target for currency traders. With that being the case, not only will the US dollar continue to climb against the Japanese in but is very likely that we will see multiple other currencies do the same. In fact, when you look at the British pound, it is completely ripping the face off of the Japanese yen.</p>
+      <p>Just above, the ¥137.50 level is an area that we will need to pay close attention to due to the fact that it was a previous resistance barrier, right along with support. There should be a certain amount of “market memory” in that area, and therefore it’s going to take a significant amount of momentum to break through that area. Short-term pullbacks are very likely, but those will more likely than not end up being buying opportunities.</p>
+      <p>The ¥135 level underneath should be support, due to the fact that it is a large, round, psychologically significant figure, and it is also an area that we have seen quite a bit of noise there in both directions. The 200-Day EMA sits near the ¥134 level, and the 50-Day EMA is getting ready to cross above there in order to form the “golden cross” indicator that a lot of people pay close attention to for a longer-term “buy-and-hold” type of attitude. I have no interest in shorting this pair anytime soon, at least not until the interest rate situation around the world calms down.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+      <p>This article was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 48,
+    title: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
+    slug: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The British pound has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 6:32 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-48.webp',
+    content: <div className="blog-content">
+      <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+      <p>The British pound has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
+      <p>As an example, the New Zealand dollar looks like it’s getting close to breaking out against the Japanese Yen, and while I do believe that the British pound can continue to climb from here, it’s got a lot more noise in the short term to deal with and it has had in the last 48 hours. I certainly wouldn’t short this pair, but I recognize that it has outstretched itself a little bit during the day. With that in mind, I would be cautious, but I would look at pullbacks as a potential buying opportunity.</p>
+      <p>Quite frankly, what I would like to see is this market continue to rip higher, because there’s more value to be found in other yen related crosses. For example, the New Zealand dollar, the Australian dollar, and the Canadian dollar all look like they are ready to rip higher against the Japanese yen as well. Simply put, I believe that this chart might be a proxy for what the yen is doing at the moment, because if an overbought condition like this can continue to find buyers, clearly other pairs will have to pay homage to this, and play catch up.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 49,
+    title: 'EUR/USD Forecast – Euro Continues to Show Support',
+    slug: 'EUR/USD Forecast – Euro Continues to Show Support',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 6:15 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-49.webp',
+    content: <div className="blog-content">
+      <h3>Euro vs US Dollar Technical Analysis</h3>
+      <p>The Euro has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
+      <p>Furthermore, you need to keep an eye on the fact that we are between the 50-Day EMA and the 200-Day EMA indicators, because they attract a lot of attention. Typically, when a currency pair is sitting between these 2 indicators, it means that there are probably going to be traders in both directions pushing quite hard. Typically, when you find the market in this range, there is an explosive move sooner or later as one side or the other finally loses.</p>
+      <p>If we break above the 50-Day EMA, it’s possible that the market goes looking to the 1.08 level. On the other hand, if we break down below the 200-Day EMA, is very likely that we would see a huge move lower. On a break down below the 200-Day EMA, I suspect that we will eventually go down to the 1.03 level, and then eventually the parity level which of course would be an area that would attract a lot of attention. Keep an eye on the interest rate situation in the United States, because recently the 2 year and the 10 year have seen moves higher in yield.</p>
+      <p>That does typically help the US dollar, but ultimately this is a situation where the markets are in flux, and therefore a lot of noisy behavior does make significant sense. The European Central Bank has reiterated its mission to keep inflation down to 2%, but at the same time the Federal Reserve has reiterated its attitude of staying tight for longer. Because of this, a lot of choppiness is more likely than not going to be the case going forward, so therefore position sizing will be crucial.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 63,
+    title: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
+    slug: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+    </div>,
+    authorName: 'Andrew Throuvalas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 1:46 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-63.webp',
+    content: <div className="blog-content">
+      <p>Ethereum’s fee market is slowly returning to form amid a recent resurgence in NFT trading activity across the network.</p>
+      <p>According to on-chain analytics firm Glassnode, the median price for gas powering Ethereum transactions cost roughly 10 to 20 gwei over the past 9 months. This month, that cost had risen to 38 gwei—higher than during key bear market events including FTX’s collapse in November (36 gwei) and Binance’s “bank run” in December (24 gwei).</p>
+      <p>“The incremental nature of the gas demand suggests an early resurgence of network activity may be underway,” wrote Glassnode in its weekly newsletter on Monday.</p>
+      <p>Gas prices fluctuate with network demand, meaning costs rise as more users seek to include their transactions in the next Ethereum block. In this case, rising activity in Ethereum’s NFT market appears to be a primary source of the newfound demand for gas.</p>
+      <p>You Can Thank NFTs for Falling Ethereum Gas Prices</p>
+      <p>Specifically, gas used by Ethereum NFT transactions has risen by 97% for two months straight, approaching levels last seen during the “NFT boom” from mid-2021 to mid-2022. Much of that rising activity is thanks to Blur, an NFT marketplace launched in October that’s now overtaken OpenSea in terms of trading volume.</p>
+      <p>“The recent attention surrounding Blur has led to a surge in demand for block space, resulting in increased fees for validators, and more ETH being burnt via EIP1559,” explained Glassnode.</p>
+      <p>Other drivers of NFT activity include all-new projects launched by the industry’s biggest names, including Yuga Labs’ Dookey Dash game and the announcement of Doodles 2 last month.</p>
+      <p>Nevertheless, Ethereum network adoption rate remains low. The number of new addresses being generated is still 40% below what it was 12 months ago. This suggests that the recent revival in NFT activity has been spurred among existing NFT users, rather than new ones.</p>
+      <p>Not all corners of the Ethereum ecosystem are seeing rising revenues. In an interview with Decrypt on Friday, Doodle CEO Julian Holguin said that the competition between OpenSea and Blur is constricting cash available to many NFT projects that relied on secondary royalties for revenue.</p>
+    </div>
   },
   {
     id: 44,
@@ -2813,61 +2602,325 @@ const blogListdata = [
         </div>
   },
   {
-    id: 42,
-    title: 'U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December',
-    slug: 'U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December',
+    id: 32,
+    title: 'TU.S. stock futures rise as data shows Chinese economy bouncing back',
+    slug: 'U.S. stock futures rise as data shows Chinese economy bouncing back',
     category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    subCategory: ['Bitcoin', 'US Stocks', 'Chinese'],
     description: <div className="blog-desc">
-      <p>MARKET PULSE U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average (DJIA) closed 0.</p>
+      <p>U.S. stock index futures rose on Wednesday as traders began the new month on a more optimistic note following signs of a recovery in the Chinese economy.</p>
     </div>,
-    authorName: 'Christine Idzelis',
+    authorName: 'Jamie Chisholm',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 1, 2023 - 1:04 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-42.webp',
+    createdAt: 'Feb 28, 2023 - 7:23 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-32.webp',
     content: <div className="blog-content">
-        <p>U.S. stocks close lower, S&P 500 ends February with biggest monthly loss since December</p>
-        <p>MARKET PULSE U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average (DJIA) closed 0.</p>
-        <p>U.S. stocks closed lower Tuesday, with the S&P 500 finishing February with the worst monthly performance since December amid heightened worries over sticky inflation. The Dow Jones Industrial Average DJIA closed 0.7% lower Tuesday, while the S&P 500 SPX fell 0.3% and the technology-heavy Nasdaq Composite COMP edged down 0.1%, according to preliminary data from FactSet. For the month, the Dow shed 4.2%, while the S&P 500 slid 2.6% and the Nasdaq slipped 1.1%, preliminary FactSet data show. Stocks sold off in February after bond-market concerns over stubbornly high inflation sparked a rise in Treasury yields.</p>
-      </div>
+      <p>U.S. stock index futures rose on Wednesday as traders began the new month on a more optimistic note following signs of a recovery in the Chinese economy.</p>
+      <h3>How are stock-index futures trading</h3>
+      <ul>
+        <li>S&P 500 futures ES00, -0.36% rose 9 points, or 0.2%, to 3985</li>
+        <li>Dow Jones Industrial Average futures YM00, -0.28% gained 54 points, or 0.2%, to 32736</li>
+        <li>Nasdaq 100 futures NQ00, -0.37% advanced 42 points, or 0.3%, to 12114</li>
+      </ul>
+      <p>On Tuesday, the Dow Jones Industrial Average DJIA, -0.71% fell 232 points, or 0.71%, to 32657, the S&P 500 SPX, -0.30% declined 12 points, or 0.3%, to 3970, and the Nasdaq Composite COMP, -0.10% dropped 11 points, or 0.1%, to 11456. The Dow Jones Industrial Average fell 4.2% in February and is now down 1.5% for 2023.</p>
+    </div>
   },
   {
-    id: 41,
-    title: 'Asian shares, oil advance on strong China factory data',
-    slug: 'Asian shares, oil advance on strong China factory data',
+    id: 31,
+    title: 'There is still a ‘delta’ between what the market is pricing in amid rate hikes, strategist says',
+    slug: 'There is still a ‘delta’ between what the market is pricing in amid rate hikes, strategist says',
     category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    subCategory: ['Market', 'Polygon', 'Strategy'],
     description: <div className="blog-desc">
-      <p>A pedestrian passes by the Hong Kong Stock Exchange electronic screen in Hong Kong, on Wednesday, March 1, 2023. Asian shares were mixed Wednesday as investors watched for upcoming earnings reports and other indicators on how inflationary pressures might be denting global growth. (AP Photo/Louise Delmotte)</p>
+      <p>Allianz Investment Management Head ETF Market Strategist Johan Grahn sits down with Yahoo Finance Live to discuss volatility and market performances amid inflation and the Fed's interest rate hike cycle.</p>
     </div>,
-    authorName: 'YURI KAGEYAMA',
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/yahoo-fi.webp',
+    authorContent: '',
+    createdAt: 'Feb 28, 2023 - 7:23 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-31.jpg',
+    content: <div className="blog-content">
+      <p>Allianz Investment Management Head ETF Market Strategist Johan Grahn sits down with Yahoo Finance Live to discuss volatility and market performances amid inflation and the Fed's interest rate hike cycle.</p>
+      <h3>Video Transcript</h3>
+      <p>DAVE BRIGGS: All right, welcome back to "Yahoo Finance Live." We're going to check on the markets with just a bit before trading closes. Let's see, the Dow falling now 222 points, and check out the S&P and the NASDAQ hovering around the level point. Down just a bit on the S&P, and the NASDAQ just barely in the positive.</p>
+      <p>What is ahead for this economy and equities? Let's talk about all of it with Johan Grahn, Allianz Investment Management head ETF market strategist. Nice to see you, sir. Seems like the markets, relatively speaking, holding their breath. What could be the next catalyst around the corner?</p>
+      <p>JOHAN GRAHN: Well, Dave, it's good to see you. Thank you.</p>
+      <p>Catalysts? There could be all kinds of catalysts around the corner for you just lurking in the background here. The one thing that we've seen is that we have an environment of increased volatility. And even if it's been coming down a little bit this past week, we're still in a pretty high-volatility environment by historical standards, so to speak.</p>
+      <p>So basically it tells you that all the known factors are baked in and that the known factors are bound to swing one way or another, or something new will pop up at any point in time. So it's a good question with a very weak answer for you because it could be a myriad of things.</p>
+      <p>SEANA SMITH: Well, Johan, when you take into account what's happening today, where we are at current levels here, I think a lot of people are trying to figure out how exactly to play this market given all of that uncertainty that you were just talking about. So what's your advice to those who are trying to decide what now is-- I guess what is best to do right now?</p>
+      <p>JOHAN GRAHN: Yeah, it really depends on what kind of time you have. And I mean, frankly, most of the assets are sitting in retirement accounts, as you know. So it's really those investors and Americans that have the least amount of time left in their investing careers, so to speak.</p>
+      <p>And what it leads to is a fight against this wealth destruction that the Fed has set out to navigate for us, if you will. And what it comes down to is that you have to be more conservative. You've got to think about how you can keep that wealth as opposed to rallying for the highest potential return.</p>
+      <p>And there are various ways you can do it, and I think one of the benefits of the current environment, even though it's a silver lining given the volatility that we're in, is that when you look at this market with higher equity volatility and also higher fixed-income volatility, higher rates, it gives you an opportunity to invest in structured products where you can actually set the definition of what you're looking for, and it gives you more upside given the unit of risk that you're mitigating on the downside in an environment like this.</p>
+      <p>DAVE BRIGGS: Johan, many just feel that the 10 year is really in control and closing their eyes to the equities right now to the highest we've seen since November, 50-plus basis points this month alone. What does it tell you is around the corner?</p>
+      <p>JOHAN GRAHN: Well, the proverbial Fed tactics are always around the corner, as you know. And we're still looking at this environment where you have the Fed consistently telling the market that you are going to have to be more patient and the market reacting and responding consecutively to all this communication. And it's happened over and over and over again. Every time the Fed comes out to have this conversation, the market will try to call the bluff, and then they have to move aside and say, OK, fine. We'll adjust accordingly, and it keeps happening.</p>
+      <p>And I think that right now we might be very much closer to the point where the market is, frankly, catching up to what the Fed has been saying all along, and now we're talking about the duration of how long the Fed is going to keep the rates high and how many more hikes they're going to pursue to get there.</p>
+      <p>DAVE BRIGGS: And you see no pivot until '24, presumably?</p>
+      <p>JOHAN GRAHN: No pivot until '24. The market is still-- there is a little bit of a delta between what the market is pricing in and what the Fed is speaking to the market. But in terms of a real pivot, nothing until 2024 for sure.</p>
+    </div>
+  },
+  {
+    id: 30,
+    title: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
+    slug: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
+    category: 'Latest Articles',
+    subCategory: ['Bitcoin', 'Polygon', 'Token Leads'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
+    </div>,
+    authorName: 'Tom Zuo',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Mar 1, 2023 - 9:40 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-41.webp',
+    createdAt: 'Feb 28, 2023 - 7:23 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-27.webp',
     content: <div className="blog-content">
-        <h3>Hong Kong Financial Markets</h3>
-        <p>A pedestrian passes by the Hong Kong Stock Exchange electronic screen in Hong Kong, on Wednesday, March 1, 2023. Asian shares were mixed Wednesday as investors watched for upcoming earnings reports and other indicators on how inflationary pressures might be denting global growth. (AP Photo/Louise Delmotte)</p>
-        <p>TOKYO (AP) — Asian shares were higher Wednesday after reports on key measures of China manufacturing showed a strong recovery after anti-virus controls were lifted late last year.</p>
-        <p>Hong Kong’s Hang Seng index jumped 3.3% and Shanghai gained 0.9%.</p>
-        <p>Purchasing managers’ indexes issued by a business magazine, Caixin, and the official China Federation of Logistics & Purchasing showed gains in production, exports and new orders.</p>
-        <p>Business activity is recovering after the ruling Communist Party ended stringent anti-virus restrictions in early December. That followed a slump in activity that dragged last year’s economic growth to 3%, its second-lowest level since at least the 1970s.</p>
-        <p>That was good news in Hong Kong, where the Hang Seng gained more than 700 points to 20,486.79.</p>
-        <p>Hong Kong's own outlook has improved as it also has relaxed pandemic precautions. The territory's chief executive, John Lee, announced Tuesday t hat masks will no longer be required both outdoors and indoors, but some high-risk areas including hospitals and elderly homes can still require their use.</p>
-        <p>The Shanghai Composite added 28 points to 3,308.53. South Korean markets were closed for a national holiday.</p>
-        <p>Japan’s benchmark Nikkei 225 picked up 0.3% to 27,523.17. Australia’s S&P/ASX 200 edged up 0.1% to 7,263.10.</p>
-        <p>Wall Street closed out a frigid February with more losses on Tuesday. The S&P 500 lost 0.3%, locking in a loss of 2.6% for the month and closing at 3,970.15. The Dow fell 0.7% to 32,656.70 while the Nasdaq edged 0.1% lower to 11,455.54. Both also sank over the month.</p>
-        <p>Investors are keeping an eye on the last of the earnings reports for this season. Several big-name retailers are still on the schedule for this week.</p>
-        <p>“The consumer and inflation are in focus over the next few days. After last week’s drubbing among retail stocks, the worst since June last year, some upbeat earnings results from Target should buoy the group,” said Brian Overby, senior market strategist at Ally, while warning that more volatility may be in store later this week.</p>
-        <p>After a strong start to the year driven by hopes inflation is abating, Wall Street shifted into reverse in February. A stream of data showed inflation and the overall economy are remaining more resilient than expected. That’s forced investors to raise their forecasts for how high the Federal Reserve will take interest rates and how long it will keep them there.</p>
-        <p>High rates can drive down inflation, but they also raise the risk of a recession down the line because they hurt the economy. They also drag on prices for stocks and other investments. </p>
-        <p>Heightened expectations for rates sent yields jumping in the bond market Tuesday. The yield on the 10-year Treasury held steady at 3.92%. It helps set rates for mortgages and other loans that shape the economy’s health, and still near its highest level since November. The two-year yield, which moves more on expectations for Fed action, ticked up to 4.81% from 4.78%. It’s near its highest level since 2007.</p>
-        <p>Reports on the economy released Tuesday showed some slight cracks. One said that confidence among U.S. consumers fell in February. Another said that manufacturing in the Chicago region weakened by more than expected.</p>
-        <p>In energy trading, benchmark U.S. crude added 48 cents to $77.53 in electronic trading on the New York Mercantile Exchange. Brent crude, the international pricing standard, rose $0.52 to $83.97 a barrel.</p>
-        <p>In currency trading, the U.S. dollar inched up to $136.37 Japanese yen from $136.20 yen. The euro rose to $1.0596 from $1.0583.</p>
+      <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
+      <h3>Fast Facts</h3>
+      <ul>
+        <li>Bitcoin dipped 0.23% in the past 24 hours to trade little changed at US$23,509 as of 8 a.m. in Hong Kong. The leading token is holding a seven day loss of 5.34%, according to CoinMarketCap data. Ethereum also treaded water at US$1,634, off 0.41%. The token is down 4.05% in the past seven days.</li>
+        <li>Polygon’s Matic token posed the biggest drop among the top ten cryptocurrencies by market capitalization, falling 3.63% to US$1.24, and extending its weekly loss to 16.27%. Polygon Labs, the developer of the Polygon blockchain, said last week it would lay off 20% of its workforce, which was followed by a reported glitch on Polygon’s network.</li>
+        <li>Solana lost 2.43% to US$22.69, posting a weekly loss of 13.41%. Solana developers are investigating a network failure on the Solana Mainet Beta last Saturday, which forced it to restart the network and downgrade it from a recent update.</li>
+        <li>Shiba Inu dropped 2.53% after analytics firm Lookonchain reported a wallet moving 182 billion Shiba Inu tokens to crypto exchanges on Monday, usually the sign of preparation for selling that can drive prices lower. Last time the same wallet transferred over 200 billion Shiba Inu in December 2022 the price fell more than 7% on the day, according to Lookonchain. The token is down 7.21% for the seven day period.</li>
+        <li>The total crypto market capitalization edged 0.15% lower to US$1.07 trillion, while the total trading volume jumped 34.55% over the past 24 hours to US$45.70 billion.</li>
+        <li>U.S. equities edged higher on Monday after last week’s tumble on concerns about indicators showing inflation remains entrenched. The Dow Jones Industrial Average rose 0.22%, the S&P 500 gained 0.31% and the Nasdaq Composite Index added 0.63%.</li>
+        <li>Janet Yellen, the U.S. Treasury Secretary, told CNN on Monday that U.S. inflation remains too high, but the economy can achieve a soft landing. She said the Federal Reserve’s attempt to curb inflation through higher interest rates while maintaining a strong labor market appears achievable.</li>
+        <li>U.S. interest rates are now between 4.5% to 4.75%, the highest since October 2007. The January Federal Reserve meeting minutes released last Wednesday showed policymakers agreed to slow down the pace of interest rate hikes, but warned the tightening cycle is not over.</li>
+        <li>The U.S. Census Bureau announced its latest monthly report on durable goods on Monday, with orders for manufactured goods – excluding transportation – rising 0.7% in January, or below expectations in a sign of a slowdown in the growth that has been feeding inflation.</li>
+        <li>Analysts at the CME Group predict a 76.7% likelihood the Fed will raise rates by another 25 basis points in March. They also predict a 23.3% chance for a raise of 50 basis points, a decrease from 27.7% as reported on Monday.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 50,
+    title: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
+    slug: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The US dollar has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 6:05 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-50.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+      <p>The US dollar has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
+      <p>If we pull back from here, the ¥135 level courses a large, round, psychologically significant figure, in an area that previously had been resistance. The fact that we broke above there should now have “market memory” attached to it, suggesting that there should be plenty of value hunters in that general vicinity. The Bank of Japan continues to keep interest rates low and fight 10 year yields from rising above 50 basis points.</p>
+      <p>In order to do so they will have to continue to print yen in order to buy their own bonds in Japan. In other words, if rates start to rise again, that will only help the US dollar clobber the Japanese yen. You can also see that the Japanese yen is getting the same treatment almost everywhere, so this is most certainly a Japanese Yen situation more than it is a US dollar situation.</p>
+      <p>Looking at this chart, I do think that the trend is starting to change, so I think it’s probably only a matter of time before we try to reach towards the top again as the Bank of Japan has dug in its heels when it comes to yield curve control and has reiterated multiple times that it was going to be stuck in it. At the same time, we have the Federal Reserve making it abundantly clear that it is going to stay “tighter for longer”, meaning that monetary policy in the United States will be much more restrictive than many other economies around the world, thereby making the US dollar attractive.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 51,
+    title: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
+    slug: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 5:57 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-48.webp',
+    content: <div className="blog-content">
+      <h3>British Pound vs US Dollar Technical Analysis</h3>
+      <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to. Because of this, the market is more likely than not going to continue to be very noisy but seems to have a short-term ceiling due to those indicators. Any rally at this point in time more likely than not should be sold into, on the first signs of exhaustion.</p>
+      <p>On the other hand, if we break down below the hammer from last week, it’s very likely that we could go looking to the 1.18 level, an area that really looks supported a while back, and it’s also an area we had launched from to enter the consolidation area that we had been in for a while. If we break down below that level, then it’s like a trapdoor opening, allowing the British pound to fall quite drastically. It does make a certain amount of sense, due to the fact that the US dollar continues to strengthen across the board, so there’s really no reason to think that the British pound will be any different.</p>
+      <p>Granted, the Bank of England has recently had to deal with a lot of inflation and therefore monetary policy may remain tight longer than anticipated, but at the same time you can certainly take that same attitude towards the Federal Reserve, and of course the Federal Reserve will get what it wants given enough time.</p>
+      <p>It seems traders are just now starting to come to grips with the idea that the Federal Reserve is going to remain “tighter for longer”, as inflation simply is going nowhere in the United States. There’s a high demand for US dollars currently, as interest rates around the world continue to climb, and world governments have to pay back US dollar denominated debt. I like fading rallies at the first signs of exhaustion.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 52,
+    title: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
+    slug: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 5:46 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-52.webp',
+    content: <div className="blog-content">
+      <h3>Euro vs US Dollar Technical Analysis</h3>
+      <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar. The US dollar breaking higher due to the fact that people have struggled with risk appetite, and of course the fact that interest rates on the 2 year yield in America continue to climb, despite the fact that Wall Street believes that the Federal Reserve will eventually come and bail them out.</p>
+      <p>The Euro of course has its own issues, not the least of which will be the fact that the economy is running into significant headwinds, but at the same time has a certain amount of inflation. Because of this, the Euro is not ready to go down without a fight but at the end of the day one of the main things that has this market somewhat levitated is the fact that Christine Lagarde has stated repeatedly that an inflation target of 2% is crucial. Nonetheless, if we continue to see a lot of negativity out there when it comes to risk appetite, the Euro will more likely than not start to sell off yet again.</p>
+      <p>If we can break down below the 200-Day EMA, then the 1.05 level will be targeted. Anything below there then opens up the possibility of a move to the 1.04 level, and then possibly the 1.0250 level. After that, we have the possibility of going down to the parity level. The parity level of course will attract a lot of headlines, and therefore could be a noisy affair. The alternative scenario would be breaking above the 1.07 level, which would open up a potential move to the 1.08 level. That is where the massive selloff begins from a couple of weeks ago and therefore, I think that as long as we have the same fundamental situation, rallies are more likely than not going to be sold into.</p>
+      <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to. Because of this, the market is more likely than not going to continue to be very noisy but seems to have a short-term ceiling due to those indicators. Any rally at this point in time more likely than not should be sold into, on the first signs of exhaustion.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 53,
+    title: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
+    slug: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 5:39 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-53.webp',
+    content: <div className="blog-content">
+      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+      <p>The Australian dollar has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general. As long as there are concerns of a global slowdown, it does make a certain amount of sense that the Aussie will struggle. Furthermore, the 50-Day EMA is starting to roll over, and is getting ready to break down below the 200-Day EMA, a negative technical indicator known as a “death cross.”</p>
+      <p>In the area of 0.67, there is a significant amount of support. Because of this, short-term bounce would not be huge price, but that should more likely than not have a lot of people jumping into the market to short the Aussie again, in order to pick up “cheap US dollars.” If we break down below all the noise just below the 0.67 level, then it’s likely that the market would go looking to the 0.6450 level given enough time.</p>
+      <p>On the other hand, if we were to turn around and breakout above the moving averages above, then the market could go looking to the 0.70 level. The 0.70 level is obviously a large, round, psychologically significant figure, and an area where we’ve seen a lot of selling recently. Nonetheless, I do think that this pullback is rather significant, and could get the market really selling off if we get more “risk off behavior” around the world. Regardless of what happens next, we are at an inflection point, and therefore it’s likely that we will see a lot of choppy and noisy trading in this general vicinity.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 29,
+    title: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
+    slug: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
+    category: 'Latest Articles',
+    subCategory: ['Bitcoin', 'Polygon', 'XRP'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 27, 2023 - 3:28 AM',
+    cover: 'https://ncx.cx/images/blog_28_ncx.webp',
+    content: <div className="blog-content">
+      <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
+      <h3>Fast Facts</h3>
+      <ul>
+        <li>Bitcoin, the biggest cryptocurrency by market capitalization, rose 1.18% to US$23,441 in the 24 hours to 4 p.m. on Monday in Hong Kong, although it dropped 4.4% on the week. Ethereum gained the most among the top 10 cryptos at 2.28% to US$1,637, but lost 3.54% in the last seven days, according to CoinMarketCap data.</li>
+        <li>Polygon’s Matic slipped 0.74% in 24 hours to US$1.26 and has dropped 15.74% over the past seven days. XRP fell 0.71% to US$0.3754, after posting a weekly loss of 3.9%.</li>
+        <li>The global cryptocurrency market capitalization rose 1.05% to US$1.07 trillion while total crypto market volume gained 0.57% to US$36.09 billion.</li>
+        <li>Asian equity markets ended lower on Monday, following the release of the U.S. personal consumption expenditures January price index last Friday, which rose 4.7% on the year.</li>
+        <li>The Shenzhen Component Index dropped 0.73% while the Shanghai Composite slipped 0.28%.</li>
+        <li>Japan’s Nikkei 225 dropped 0.11%, while South Korea’s Kospi ended the day 0.87% lower.</li>
+        <li>Hang Seng Index slipped 0.33% after Hong Kong announced that its exports dropped 36.7% in January compared to a year ago. The decline in exports is the largest monthly fall in 70 years.</li>
+        <li>The U.S. Federal Reserve is expected to increase interest rates further to tackle inflation at its next meeting on Mar. 21 and 22. Currently, interest rates in the world’s largest economy are at 4.5% to 4.75%, the highest since October 2007. The central bank has said interest rates could go as high as 5% to tame inflation.</li>
+        <li>U.S. Treasury Secretary Janet Yellen said on Saturday that the fight against inflation “is not a straight line” and that more work is necessary.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 54,
+    title: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
+    slug: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 24, 2023 - 6:40 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-54.webp',
+    content: <div className="blog-content">
+      <h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim. The US dollar will continue to see a lot of noisy behavior, but then again quite a bit of strength due to the fact that the Federal Reserve remains very tight with its monetary policy, and of course the Australian dollar has issues due to the fact that it is so highly levered to global growth.</p>
+      <p>When you look at this chart, you can see that we bounced rather hard from the 0.62 level, to test the 50% Fibonacci level and the 200-Week EMA indicator. Since then, we have seen a lot of negativity and it looks to me as if the market is trying to continue the longer term downtrend. With this being the case, you may wish to flip down to shorter-term charts that show signs of a bounce, and then take advantage of those bounces as selling opportunities with the end goal of going down to the 0.66 level, maybe even as low as 0.62 level if things get out of hand and a major “risk off environment.”</p>
+      <p>As far as buying is concerned, quite frankly would take something coming out of the Federal Reserve along the lines of a complete reversal of attitude for me to think about doing that. This week’s candle has been very clear in its intentions.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 28,
+    title: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
+    slug: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
+    category: 'Latest Articles',
+    subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
+    description: <div className="blog-desc">
+      <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 24, 2023 - 5:37 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-29.webp',
+    content: <div className="blog-content">
+      <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
+      <p>The move is part of a broader plan to make FLOKI, which was originally a meme coin named after billionaire Elon Musk's pet dog, as a serious decentralized-finance token.</p>
+      <p>Venus provides a simple-to-use crypto asset lending and borrowing product that allows users to directly borrow against collateral at a high speed while losing less to transaction fees. It held over $800 million in locked tokens as of Friday.</p>
+      <p>Venus will be integrating FLOKI in its money-market platform, thereby allowing FLOKI holders on the BNB Chain to borrow USDT, USDC, BNB and a basket of other cryptocurrencies while using their FLOKI tokens as collateral.</p>
+      <p>This allows FLOKI token holders to easily access liquidity without having to sell their tokens.</p>
+      <p>The move is expected to benefit FLOKI holders, developers say, as they continue to build and seek strategic partnerships that ultimately benefit the token’s value.</p>
+      <p>The FLOKI integration process on Venus has started, and is expected to be completed in March. After that, FLOKI holders will be able to seamlessly lend and borrow on Venus while using their FLOKI tokens as collateral.</p>
+      <p>FLOKI has so far been one of the strongest crypto performers this year, tripling in value over a 30-day rolling period, according to CoinGecko. Interest in the tokens has heightened in recent months following a $100 million token burn and a push to target Valhalla, Floki’s metaverse game, to the multibillion-dollar Chinese gaming market.</p>
+    </div>
+  },
+  {
+    id: 55,
+    title: 'Asian currencies witness a bit of reprieve, lift rupee',
+    slug: 'Asian currencies witness a bit of reprieve, lift rupee',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
+    </div>,
+    authorName: 'Nimesh Vora',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 23, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-55.webp',
+    content: <div className="blog-content">
+      <p>A customer hands Indian currency notes to an attendant at a fuel station in Mumbai</p>
+      <p>By Nimesh Vora</p>
+      <p>MUMBAI (Reuters) - The Indian rupee rose against the dollar on Thursday, helped by a broad recovery in Asian currencies following losses fuelled by worries over rising U.S. yields.</p>
+      <p>The rupee was at 82.77 to the U.S. dollar by 10:29 a.m. IST, up from 82.85 in the previous session. Following the higher opening, the local currency has been in a three-paisa range.</p>
+      <p>The rupee, it can be safely assumed, will stick to the 82.80 level through the session, a currency dealer at a private sector bank said. Volumes are likely to be on the lower side and speculative interest will be minimal, he said.</p>
+      <p>The Korean won, the Asian currency worst impacted by the market's ongoing reassessment of the U.S. Federal Reserve's rate hike path, lead the recovery against the dollar on Thursday.</p>
+      <p>It was up 0.8% while others rose 0.2% to 0.3%. The dollar index declined slightly.</p>
+      <p>The Fed minutes released overnight noted that almost all participants preferred a 25 basis points (bps) hike at the Jan. 31-Feb. 1 Fed meeting, and a few would have liked a 50 bps hike.</p>
+      <p>However, the minutes did not have a significant impact on Asian currencies, as they were considered "outdated". Since the Fed's February meeting, there has been a series of data points on inflation and economic activity that surprised the market.</p>
+      <p>We’ve already been hearing from some Fed officials that they may be open to up the size of the rate hikes and that a higher terminal rate may be needed, Scotiabank said in a note.</p>
+      <p>Risk appetite in Asia was better, weighing on demand for the dollar. Asian shares were mostly higher and futures indicated a positive opening for U.S. equities. Oil prices inched up, recovering from two-week lows.</p>
+    </div>
+  },
+  {
+    id: 27,
+    title: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
+    slug: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
+    category: 'Latest Articles',
+    subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
+    description: <div className="blog-desc">
+      <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>
+    </div>,
+    authorName: 'Shaurya Malwa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 23, 2023 - 2:49 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-30.webp',
+    content: <div className="blog-content">
+      <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>
+      <p>Synthetix (SNX) is a protocol that enables the issuance of synthetic assets on the Ethereum blockchain – allowing users to mint, hold, and trade a wide range of derivatives – including commodities, fiat currencies, and even stocks.</p>
+      <p>The protocol holds over $450 million in locked tokens over the Ethereum and Optimism blockchains as of Thursday. It held just shy of $3 billion in total locked value (TVL) at its February 2021 record high.</p>
+      <p>Developers previously stated said that Synthetix v3 will have much more efficient architecture to allow developers to create faster, complex and more efficient decentralized financial (DeFi) applications.</p>
+      <p>V3 will allow the creation of products that offer a liquid market for any financial derivative that developers want to build, from traditional financial markets to more exotic markets such as no-loss lotteries or even wholly separate protocols.</p>
+      <p>V3 will also offer simplified staking and differentiated debt pools, allowing network stakers to supply collateral to, and receive fees from, specific asset pools without having to be exposed to every Spartan Council-supported asset.</p>
+      <p>The Spartan Council (SC) is the central governing body of the Synthetix protocol that votes on overall improvement proposals and parameter changes.</p>
+      <p>Synthetix’s native SNX tokens saw nominal price changes in the past 24 hours.</p>
       </div>
   },
   {
@@ -2972,358 +3025,30 @@ const blogListdata = [
     </div>
   },
   {
-    id: 37,
-    title: 'Reminder: Capital Link’s 21st Annual Closed–End Funds & Global ETFs Forum This Thursday, October 13, 2022 At 3 West Club in New York City',
-    slug: 'Reminder: Capital Link’s 21st Annual Closed–End Funds & Global ETFs Forum This Thursday, October 13, 2022 At 3 West Club in New York City',
-    category: 'Crypto',
+    id: 56,
+    title: 'GBP to USD Forecast – British Pound Continues to Fight',
+    slug: 'GBP to USD Forecast – British Pound Continues to Fight',
+    category: 'Currencies',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
-      <p>NEW YORK, Oct. 11, 2022 (GLOBE NEWSWIRE) -- The 21st Annual Capital Link Closed-Ends Funds & Global ETFs Forum will take place on Thursday, October 13, 2022 at the 3 West Club in New York City from 9:00 am to 4:30 pm.</p>
+      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
     </div>,
-    authorName: 'Capital Link',
+    authorName: 'Christopher Lewis',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Oct 11, 2022 - 10:17 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-37.webp',
+    createdAt: 'Feb 22, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-56.webp',
     content: <div className="blog-content">
-      <p>NEW YORK, Oct. 11, 2022 (GLOBE NEWSWIRE) -- The 21st Annual Capital Link Closed-Ends Funds & Global ETFs Forum will take place on Thursday, October 13, 2022 at the 3 West Club in New York City from 9:00 am to 4:30 pm.</p>
-      <p>The event is held in cooperation with the New York Stock Exchange.</p>
-      <p>This Forum has been submitted for 6 CFP CE Credits.</p>
-      <h3>REGISTRATION</h3>
-      <p>Registration is complimentary for Financial Advisors, RIAs and Institutional Investors.</p>
-      <p>To register please follow this link:</p>
-      <p>http://forums.capitallink.com/cef/2022/signup.html</p>
-      <h3>AGENDA</h3>
-      <p>To view the full agenda, please follow this link:</p>
-      <p>http://forums.capitallink.com/cef/2022/</p>
-      <h3>FORUM OVERVIEW</h3>
-      <p>With a 21–year track record, Capital Link’s Annual Closed–End Funds & Global ETFs Forum is the longest running investment forum with significant branding and recognition in the industry. It updates the broader investment community on the latest trends, developments and investment strategies using Closed–End Funds, BDCs, and Exchange Traded Funds.</p>
-      <p>This conference brings together financial advisors, institutional investors, RIAs, private bankers, financial planners, fund and asset managers, analysts, and financial media utilize this forum not only as a resource for sharing and evaluating the latest CEF and ETF products and trends, but also as an interactive platform for enhancing visibility and establishing the right connections.</p>
-      <p>There are seven INDUSTRY PANELS: CEF Industry Roundtable; Alternatives & Real Assets (REITs, Preferreds & Convertibles); New CEFs Brought to Market & Looking Ahead; The Use of Leverage; BDCs Roundtable – Financing America’s Growth; ETF Industry Roundtable; and Analyst Roundtable.</p>
-      <h3>KEYNOTE SPEAKER</h3>
-      <p>Jan Van Eck, President and Chief Executive Officer - Van Eck Associates Corporation will deliver the Keynote Address on “NAVIGATING THROUGH THE CHALLENGES & CAPTURING OPPORTUNITIES - Investing in an Era of Energy Transition, Inflation, Geopolitics and Cryptocurrencies”</p>
-      <h3>PARTICIPATING COMPANIES:</h3>
-      <ul>
-        <li>Abrdn (FAX)</li>
-        <li>Advent Capital Management</li>
-        <li>BlackRock (BMEZ)</li>
-        <li>BC Partners</li>
-        <li>Calamos Investments (CHY)</li>
-        <li>CLIFFORD CHANCE US LLP</li>
-        <li>Cohen & Steers (UTF)</li>
-        <li>DWS</li>
-        <li>First Eagle Investments</li>
-        <li>Fitch Ratings</li>
-        <li>Guggenheim (GOF)</li>
-        <li>Harbor Capital Advisors</li>
-        <li>KEEFE, BRUYETTE & WOODS / Stifel</li>
-        <li>Logan Ridge Finance Corporation</li>
-        <li>Morgan Stanley Wealth Management</li>
-        <li>Neuberger Berman</li>
-        <li>New Mountain Finance Corporation</li>
-        <li>New York Stock Exchange</li>
-        <h3>Forum Target Audienece</h3>
-        <p>Financial advisors, registered investment advisors, institutional investors, private bankers & wealth managers, securities analysts, retail & institutional brokers, industry specialists & analysts, financial press & media, and other qualified investors will be in attendance.</p>
-      </ul>
+      <h3>British Pound vs US Dollar Technical Analysis</h3>
+      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here and the 1.20 level, which is a large, round, psychologically significant figure that a lot of people will be paying attention to. Furthermore, the 1.20 level is an area where we had seen quite a bit of support previously, so I think everything comes together quite nicely for that being a bit of the support barrier.</p>
+      <p>If we were to break down below the 1.20 level, then it’s likely that we go down to the 1.1850 level. The 1.1850 level course was a swing low, and I believe that will be the bottom of the uptrend. In other words, if we break down below there, it’s likely that we drop down to the 1.15 level as it should open up a bit of a vacuum. The shooting star from last week suggests that we have a lot of resistance just above near the 1.2250 level, so if we were to break above there it opens up the possibility of a double top, which is at the 1.24 level, with resistance extending all the way to the 1.25 level. Now that we have formed a double top in that area, one would have to believe that it is going to continue to be a very important level.</p>
+      <p>If we were to break above all of that resistance, then it would continue the overall uptrend in the British pound, and as things stand right now it looks like we are essentially close to the bottom of the consolidation area. However, I would point out that the price action over the last several weeks has been somewhat soft, and therefore one would have to believe that all it would take is a kick to the market to knock it over and have a go lower.</p>
+      <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim. The US dollar will continue to see a lot of noisy behavior, but then again quite a bit of strength due to the fact that the Federal Reserve remains very tight with its monetary policy, and of course the Australian dollar has issues due to the fact that it is so highly levered to global growth.</p>
+      <p>When you look at this chart, you can see that we bounced rather hard from the 0.62 level, to test the 50% Fibonacci level and the 200-Week EMA indicator. Since then, we have seen a lot of negativity and it looks to me as if the market is trying to continue the longer term downtrend. With this being the case, you may wish to flip down to shorter-term charts that show signs of a bounce, and then take advantage of those bounces as selling opportunities with the end goal of going down to the 0.66 level, maybe even as low as 0.62 level if things get out of hand and a major “risk off environment.”</p>
+      <p>As far as buying is concerned, quite frankly would take something coming out of the Federal Reserve along the lines of a complete reversal of attitude for me to think about doing that. This week’s candle has been very clear in its intentions.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
     </div>
-  },
-  {
-    id: 36,
-    title: 'Housing Downturn Making Itself Felt in ETFs',
-    slug: 'Housing Downturn Making Itself Felt in ETFs',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>What a difference a year has made in the housing market. Toward the end of 2021, homebuilder exchange-traded funds and stocks were at all-time highs, as favorable interest rates, low housing inventories and COVID-19-fueled demand charged the market. Ten months later, the situation has reversed.</p>
-    </div>,
-    authorName: 'Heather Bell',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Oct 22, 2022 - 9:43 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-36.webp',
-    content: <div className="blog-content">
-      <p>What a difference a year has made in the housing market.</p>
-      <p>Toward the end of 2021, homebuilder exchange-traded funds and stocks were at all-time highs, as favorable interest rates, low housing inventories and COVID-19-fueled demand charged the market. Ten months later, the situation has reversed.</p>
-      <p>A doubling of mortgage rates, thanks to the Federal Reserve’s five interest rate hikes so far this year, has sent home loan demand into a tailspin. Demand for mortgages hit a 25-year low this month, according to the Mortgage Bankers Association. The spike in mortgage costs as inflation surges and the stock market wallows in bear territory suggests the housing market is set for a major cooldown.</p>
-      <p>Indeed, home prices fell at the fastest rate in their history in July from the previous month, according to S&P CoreLogic Case-Shiller Indices. While July prices were still higher year over year, the immediate picture appears to be turning grimmer. The National Association of Home Builders (NAHB)/Wells Fargo Housing Market Index (HMI), which measures homebuilder sentiment, is now at 38, its lowest level since 2012, and less than half its level in April.</p>
-      <h3>Significant Downturn</h3>
-      <p>Unsurprisingly, the two homebuilder ETFs have suffered steep declines and significant outflows this year. The SPDR S&P Homebuilders ETF (XHB) and the iShares U.S. Home Construction ETF (ITB) were up more than 49% in 2021, while SPY was up nearly 30%. Now the funds are down 34% and 35.5%, respectively, while SPY is down a little less than 24%.</p>
-      <p>They’ve also shrunk, with both shedding two-thirds of their assets this year. XHB currently has roughly $840 million, down from $2.5 billion at the end of 2021, while ITB stands at about $1 billion, down from $3.2 billion. Those funds have seen outflows of $959 million and $1.1 billion, respectively, so far this year.</p>
-      <p>ITB and XHB launched four months apart in 2006, shortly before the Great Financial Crisis and the last major housing disaster. From the end of June 2006 through mid-2009, XHB was down as much as 75%, while ITB slumped by nearly 85%.</p>
-      <p>The last housing crisis, however, didn’t feature record-breaking inflation. So this time around things might be even worse.</p>
-      <p>Costs for construction materials remain high even with recent moderation. That, paired with higher financing costs (with more interest rate hikes expected), is creating a double whammy for the industry, which is made worse by the falloff in demand. If the trajectory of homebuilder stocks during the last housing market meltdown is any benchmark, more declines are ahead.</p>
-      <h3>Differences Between the ETFs </h3>
-      <p>ITB has the broader portfolio, with 50 components in its index, versus 36 stocks in XHB’s index. Lately, the funds have moved in lockstep, but that difference in holdings could be more relevant going forward.</p>
-      <p>XHB has nine holdings—with a combined weight equal to nearly one-third of the index, that are not in ITB’s portfolio. None of those actually builds homes; they make things like homebuilding supplies and systems, appliances and furnishings.</p>
-      <p>In fact, only about 25% of XHB’s weight is invested in companies that actually build homes, while more than half of ITB’s weight is in those types of companies. The big question is whether that diversification from homebuilding companies will benefit XHB as much when inflation is so high and when interest rates are on an upward trajectory.</p>
-      <p>The homebuilding industry appears poised for further tough times. Investors may want to seek shelter elsewhere.</p>
-      <img src="https://ncx.cx/images/ncx-blog-36-1.webp" alt="ncx-blog" />
-    </div>
-  },
-  {
-    id: 35,
-    title: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
-    slug: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. disclosed Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
-    </div>,
-    authorName: 'Ron Day',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Nov 15, 2022 - 7:43 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-35.webp',
-    content: <div className="blog-content">
-      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. disclosed Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
-      <p>ETFs including the SPDR S&P Semiconductor ETF (XSD), the VanEck Semiconductor ETF (SMH) and the Invesco Dynamic Semiconductors ETF (PSI) gained more than 4% and were among the five biggest ETF movers on Tuesday. A handful of Taiwan and semiconductor funds rounded out the top 10 ETF movers.</p>
-      <p>Berkshire’s Securities and Exchange Commission filing disclosed 4.12 million shares of Taiwan Semiconductor, the world’s biggest contract chipmaker and supplier to Apple Inc., purchased in the third calendar quarter. Apple is the top holding in Berkshire’s portfolio.</p>
-      <p>The company’s shares have been among the most beaten-down in what has been a declining tech market this year. Even with today’s more than 12% gain, TSMC—as it’s also known—has dropped 32% this year, more than the 27% decline in the tech-heavy Invesco QQQ Trust (QQQ).</p>
-      <p>That decline may have been seen as a buying opportunity for Buffett, who, along with business partner Charlie Munger, are the world’s most famous value investors. Semiconductors are generally priced low at present: XSD’s price-to-earnings ratio of 17 times earnings falls beneath QQQ’s 22 times.</p>
-      <p>In addition to the Berkshire purchases, geopolitical tensions in the region may have taken a breather after President Joe Biden met with Chinese leader Xi Jinping in Indonesia Monday and committed to working together to solve economic and security issues.</p>
-      <p>China has promised to reunify Taiwan with the Chinese mainland, which the U.S. opposes. House Speaker Nancy Pelosi’s July trip to Taiwan in support of the country infuriated China and led the country to cut off some diplomatic channels with the U.S.</p>
-    </div>
-  },
-  {
-    id: 34,
-    title: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
-    slug: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
-    </div>,
-    authorName: 'Heather Bell',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Dec 13, 2022 - 4:43 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-34.webp',
-    content: <div className="blog-content">
-      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
-      <p>This year, the iShares U.S. Insurance ETF (IAK) has been one of the few stock exchange-traded funds outside of energy that handily topped broader markets like the S&P 500.</p>
-      <p>The fund is up about 12% and recently hit its all-time high. It did this in one of the worst equity market environments in years, and without exposure to energy stocks. Energy is the only major sector with positive returns year to date, while the SPDR S&P 500 ETF Trust (SPY) has dropped 16%.</p>
-      <p>Three ETFs trading on U.S. exchanges provide exposure to insurance stocks. With 58 holdings, IAK is the broadest that covers this category in addition to being the top performer year to date. With $558 million in assets under management, it’s also the largest compared with the $525 million SPDR S&P Insurance ETF (KIE) and the $347 million Invesco KBW Property & Casualty Insurance ETF (KBWP). Those two funds are up 4.3% and 11.2%, respectively.</p>
-      <p>All but one of IAK’s top 10 holdings—including names like Chubb Corp., Progressive Corp. and MetLife Inc.—have notched positive returns during 2022, the majority of them in the double digits. The top firms in the fund have mostly reported strong earnings and revenues this year, boosting their performance in a tough market, and spurring the ETFs gains.</p>
-      <p>IAK is probably doing well for a number of reasons, one being that insurance companies do well in unstable economic times because as more or less steady companies, they aren’t affected by the downturn in the economy like other industries. They also provide essential services whose demand profile doesn’t fluctuate with economic cycles.</p>
-      <p>Rising interest rates also boost insurance companies’ “float,” the pool of money, collected as premiums, which they invest conservatively and use to make claims payments. The Federal Reserve boosting rates from around zero to 4% Monday has helped IAK’s companies, and with more hikes expected this year and next, the insurance industry may be positioned well for strong profits for some time.</p>
-      <p>So far this year, IAK has seen strong inflows, gaining $422.3 million year to date, while KBWP pulled in $248.5 million, and KIE—a broadly based insurance fund like IAK—gained just $62.8 million. With more room to run, those funds could pull in even more.</p>
-      <h3>An Analyst’s View</h3>
-      <p>The Deloitte Center for Financial Services’ report on its 2023 outlook the insurance industry in September 2022 noted that while insurers are “facing a host of macroeconomic and geopolitical challenges,” they exhibited agility during the pandemic in terms of adopting remote work and adapting to customer needs.</p>
-      <p>They should continue to maintain that momentum, Deloitte advises, by investing in technology and their workforce while focusing on innovation and their customers.</p>
-      <p>The report also notes that ESG considerations will become increasingly important to stakeholders, and that those could be major differentiators in competing within the insurance peer group. The firm declined to comment further when contacted.</p>
-      <p>Deloitte U.S. Insurance Leader Karl Hersch said in a video in its outlook that the sector is at a “post-pandemic inflection point” during which it could “reset the narrative” around it.</p>
-      <p>While the report cites inflation as cutting into profitability, it notes several opportunities for growth. Those include small businesses, in particular when it comes to cybersecurity-related mishaps.</p>
-      <p>The push toward green energy could result in $125 billion in spending on such matters projected by 2030. In the digital realm, including cryptocurrency, NFTs and the metaverse, the report notes that only 17% of related assets are insured.</p>
-    </div>
-  },
-  {
-    id: 33,
-    title: 'Steel ETF Surged as Market Tumbled',
-    slug: 'Steel ETF Surged as Market Tumbled',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>One of last year’s top-performing equity exchange-traded funds, the VanEck Steel ETF (SLX), stealthily outperformed broader markets. After 2022’s 14% gain, investors may wonder, can it do so again?</p>
-    </div>,
-    authorName: 'Heather Bell',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Jan 6, 2023 - 9:03 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-33.webp',
-    content: <div className="blog-content">
-      <p>One of last year’s top-performing equity exchange-traded funds, the VanEck Steel ETF (SLX), stealthily outperformed broader markets. After 2022’s 14% gain, investors may wonder, can it do so again?</p>
-      <p>The ETF is the only one covering steel specifically, investing in global steel producers. It manages $101.3 million in assets, only one-fourth of what it managed in 2008. Still, SLX is about the only way to access the performance of steel directly.</p>
-      <p>Those outflows may seem surprising. SLX has performed well in in previous years, with three-and five-year annualized returns of 21.2% and 10.2%, respectively. Still, it’s lost nearly $19 million last year despite its positive performance and its indirect exposure to a key global commodity.</p>
-      <p>Although nearly half of the portfolio is invested in U.S. equities, the fund also offers exposure to countries like Brazil (19.4%), the U.K. (10.7%) and Italy (5.6%). Top holdings include Rio Tinto plc (12.4%), Vale, S.A. (12.1%) and Nucor Corp. (6.8%).</p>
-      <p>SLX’s liquidity isn’t great, with FactSet rating it at the lowest end of its scale, but SLX’s volumes and spreads are within the normal range relative to other similarly sized equity funds. It’s also not likely to close given it has more than $100 million in assets and has been trading for more than 14 years. Its 0.55% expense ratio is at the low end for a specialty equity ETF.</p>
-      <p>It should also be noted that SLX has a dividend yield for the past 12 months of 4.26% versus 1.65% for the SPDR S&P 500 ETF Trust (SPY).</p>
-      <h3>What’s Ahead for Steel</h3>
-      <p>Steel price gains may be fairly muted this year after having been driven up by supply chain disruptions and the Russia-Ukraine war, but nothing too extreme in either direction, according to Christos Rigoutsos, a senior economist with S&P Global.</p>
-      <p>“It's not a matter of weakness in pricing—it's the fact that prices will tend [toward] normal rather than actually being weak or lower than that,” he told ETF.com, pointing out that steel prices over the past year have been “sky high” and that the situation is simply normalizing.</p>
-      <p>He notes that steel producers will idle production when surpluses of the commodity build up. Add that to the fact that prices are already only slightly above cost, there’s not much downside, according to Rigoutsos. However, he also emphasizes steel is not recession-proof, as manufacturing tends to fall off in that kind of environment.</p>
-      <p>Given all that, there may be some upside remaining for SLX, while a similar level of outperformance is unlikely to continue very far into 2023. However, its specific focus and global nature could provide additional diversification to a portfolio with little added risk.</p>
-      <p>With recession fears high, a fund focused on companies producing a crucial commodity could be seen as an attractive prospect.</p>
-      </div>
-  },
-  {
-    id: 32,
-    title: 'TU.S. stock futures rise as data shows Chinese economy bouncing back',
-    slug: 'U.S. stock futures rise as data shows Chinese economy bouncing back',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'US Stocks', 'Chinese'],
-    description: <div className="blog-desc">
-      <p>U.S. stock index futures rose on Wednesday as traders began the new month on a more optimistic note following signs of a recovery in the Chinese economy.</p>
-    </div>,
-    authorName: 'Jamie Chisholm',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 28, 2023 - 7:23 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-32.webp',
-    content: <div className="blog-content">
-      <p>U.S. stock index futures rose on Wednesday as traders began the new month on a more optimistic note following signs of a recovery in the Chinese economy.</p>
-      <h3>How are stock-index futures trading</h3>
-      <ul>
-        <li>S&P 500 futures ES00, -0.36% rose 9 points, or 0.2%, to 3985</li>
-        <li>Dow Jones Industrial Average futures YM00, -0.28% gained 54 points, or 0.2%, to 32736</li>
-        <li>Nasdaq 100 futures NQ00, -0.37% advanced 42 points, or 0.3%, to 12114</li>
-      </ul>
-      <p>On Tuesday, the Dow Jones Industrial Average DJIA, -0.71% fell 232 points, or 0.71%, to 32657, the S&P 500 SPX, -0.30% declined 12 points, or 0.3%, to 3970, and the Nasdaq Composite COMP, -0.10% dropped 11 points, or 0.1%, to 11456. The Dow Jones Industrial Average fell 4.2% in February and is now down 1.5% for 2023.</p>
-    </div>
-  },
-  {
-    id: 31,
-    title: 'There is still a ‘delta’ between what the market is pricing in amid rate hikes, strategist says',
-    slug: 'There is still a ‘delta’ between what the market is pricing in amid rate hikes, strategist says',
-    category: 'Crypto',
-    subCategory: ['Market', 'Polygon', 'Strategy'],
-    description: <div className="blog-desc">
-      <p>Allianz Investment Management Head ETF Market Strategist Johan Grahn sits down with Yahoo Finance Live to discuss volatility and market performances amid inflation and the Fed's interest rate hike cycle.</p>
-    </div>,
-    authorName: 'Yahoo Finance',
-    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
-    authorAvatar: 'https://ncx.cx/images/yahoo-fi.webp',
-    authorContent: '',
-    createdAt: 'Feb 28, 2023 - 7:23 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-31.jpg',
-    content: <div className="blog-content">
-      <p>Allianz Investment Management Head ETF Market Strategist Johan Grahn sits down with Yahoo Finance Live to discuss volatility and market performances amid inflation and the Fed's interest rate hike cycle.</p>
-      <h3>Video Transcript</h3>
-      <p>DAVE BRIGGS: All right, welcome back to "Yahoo Finance Live." We're going to check on the markets with just a bit before trading closes. Let's see, the Dow falling now 222 points, and check out the S&P and the NASDAQ hovering around the level point. Down just a bit on the S&P, and the NASDAQ just barely in the positive.</p>
-      <p>What is ahead for this economy and equities? Let's talk about all of it with Johan Grahn, Allianz Investment Management head ETF market strategist. Nice to see you, sir. Seems like the markets, relatively speaking, holding their breath. What could be the next catalyst around the corner?</p>
-      <p>JOHAN GRAHN: Well, Dave, it's good to see you. Thank you.</p>
-      <p>Catalysts? There could be all kinds of catalysts around the corner for you just lurking in the background here. The one thing that we've seen is that we have an environment of increased volatility. And even if it's been coming down a little bit this past week, we're still in a pretty high-volatility environment by historical standards, so to speak.</p>
-      <p>So basically it tells you that all the known factors are baked in and that the known factors are bound to swing one way or another, or something new will pop up at any point in time. So it's a good question with a very weak answer for you because it could be a myriad of things.</p>
-      <p>SEANA SMITH: Well, Johan, when you take into account what's happening today, where we are at current levels here, I think a lot of people are trying to figure out how exactly to play this market given all of that uncertainty that you were just talking about. So what's your advice to those who are trying to decide what now is-- I guess what is best to do right now?</p>
-      <p>JOHAN GRAHN: Yeah, it really depends on what kind of time you have. And I mean, frankly, most of the assets are sitting in retirement accounts, as you know. So it's really those investors and Americans that have the least amount of time left in their investing careers, so to speak.</p>
-      <p>And what it leads to is a fight against this wealth destruction that the Fed has set out to navigate for us, if you will. And what it comes down to is that you have to be more conservative. You've got to think about how you can keep that wealth as opposed to rallying for the highest potential return.</p>
-      <p>And there are various ways you can do it, and I think one of the benefits of the current environment, even though it's a silver lining given the volatility that we're in, is that when you look at this market with higher equity volatility and also higher fixed-income volatility, higher rates, it gives you an opportunity to invest in structured products where you can actually set the definition of what you're looking for, and it gives you more upside given the unit of risk that you're mitigating on the downside in an environment like this.</p>
-      <p>DAVE BRIGGS: Johan, many just feel that the 10 year is really in control and closing their eyes to the equities right now to the highest we've seen since November, 50-plus basis points this month alone. What does it tell you is around the corner?</p>
-      <p>JOHAN GRAHN: Well, the proverbial Fed tactics are always around the corner, as you know. And we're still looking at this environment where you have the Fed consistently telling the market that you are going to have to be more patient and the market reacting and responding consecutively to all this communication. And it's happened over and over and over again. Every time the Fed comes out to have this conversation, the market will try to call the bluff, and then they have to move aside and say, OK, fine. We'll adjust accordingly, and it keeps happening.</p>
-      <p>And I think that right now we might be very much closer to the point where the market is, frankly, catching up to what the Fed has been saying all along, and now we're talking about the duration of how long the Fed is going to keep the rates high and how many more hikes they're going to pursue to get there.</p>
-      <p>DAVE BRIGGS: And you see no pivot until '24, presumably?</p>
-      <p>JOHAN GRAHN: No pivot until '24. The market is still-- there is a little bit of a delta between what the market is pricing in and what the Fed is speaking to the market. But in terms of a real pivot, nothing until 2024 for sure.</p>
-    </div>
-  },
-  {
-    id: 30,
-    title: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
-    slug: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
-    category: 'Latest Articles',
-    subCategory: ['Bitcoin', 'Polygon', 'Token Leads'],
-    description: <div className="blog-desc">
-      <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
-    </div>,
-    authorName: 'Tom Zuo',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 28, 2023 - 7:23 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-27.webp',
-    content: <div className="blog-content">
-      <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
-      <h3>Fast Facts</h3>
-      <ul>
-        <li>Bitcoin dipped 0.23% in the past 24 hours to trade little changed at US$23,509 as of 8 a.m. in Hong Kong. The leading token is holding a seven day loss of 5.34%, according to CoinMarketCap data. Ethereum also treaded water at US$1,634, off 0.41%. The token is down 4.05% in the past seven days.</li>
-        <li>Polygon’s Matic token posed the biggest drop among the top ten cryptocurrencies by market capitalization, falling 3.63% to US$1.24, and extending its weekly loss to 16.27%. Polygon Labs, the developer of the Polygon blockchain, said last week it would lay off 20% of its workforce, which was followed by a reported glitch on Polygon’s network.</li>
-        <li>Solana lost 2.43% to US$22.69, posting a weekly loss of 13.41%. Solana developers are investigating a network failure on the Solana Mainet Beta last Saturday, which forced it to restart the network and downgrade it from a recent update.</li>
-        <li>Shiba Inu dropped 2.53% after analytics firm Lookonchain reported a wallet moving 182 billion Shiba Inu tokens to crypto exchanges on Monday, usually the sign of preparation for selling that can drive prices lower. Last time the same wallet transferred over 200 billion Shiba Inu in December 2022 the price fell more than 7% on the day, according to Lookonchain. The token is down 7.21% for the seven day period.</li>
-        <li>The total crypto market capitalization edged 0.15% lower to US$1.07 trillion, while the total trading volume jumped 34.55% over the past 24 hours to US$45.70 billion.</li>
-        <li>U.S. equities edged higher on Monday after last week’s tumble on concerns about indicators showing inflation remains entrenched. The Dow Jones Industrial Average rose 0.22%, the S&P 500 gained 0.31% and the Nasdaq Composite Index added 0.63%.</li>
-        <li>Janet Yellen, the U.S. Treasury Secretary, told CNN on Monday that U.S. inflation remains too high, but the economy can achieve a soft landing. She said the Federal Reserve’s attempt to curb inflation through higher interest rates while maintaining a strong labor market appears achievable.</li>
-        <li>U.S. interest rates are now between 4.5% to 4.75%, the highest since October 2007. The January Federal Reserve meeting minutes released last Wednesday showed policymakers agreed to slow down the pace of interest rate hikes, but warned the tightening cycle is not over.</li>
-        <li>The U.S. Census Bureau announced its latest monthly report on durable goods on Monday, with orders for manufactured goods – excluding transportation – rising 0.7% in January, or below expectations in a sign of a slowdown in the growth that has been feeding inflation.</li>
-        <li>Analysts at the CME Group predict a 76.7% likelihood the Fed will raise rates by another 25 basis points in March. They also predict a 23.3% chance for a raise of 50 basis points, a decrease from 27.7% as reported on Monday.</li>
-      </ul>
-    </div>
-  },
-  {
-    id: 29,
-    title: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
-    slug: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
-    category: 'Latest Articles',
-    subCategory: ['Bitcoin', 'Polygon', 'XRP'],
-    description: <div className="blog-desc">
-      <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
-    </div>,
-    authorName: 'Pradipta Mukherjee',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 27, 2023 - 3:28 AM',
-    cover: 'https://ncx.cx/images/blog_28_ncx.webp',
-    content: <div className="blog-content">
-      <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
-      <h3>Fast Facts</h3>
-      <ul>
-        <li>Bitcoin, the biggest cryptocurrency by market capitalization, rose 1.18% to US$23,441 in the 24 hours to 4 p.m. on Monday in Hong Kong, although it dropped 4.4% on the week. Ethereum gained the most among the top 10 cryptos at 2.28% to US$1,637, but lost 3.54% in the last seven days, according to CoinMarketCap data.</li>
-        <li>Polygon’s Matic slipped 0.74% in 24 hours to US$1.26 and has dropped 15.74% over the past seven days. XRP fell 0.71% to US$0.3754, after posting a weekly loss of 3.9%.</li>
-        <li>The global cryptocurrency market capitalization rose 1.05% to US$1.07 trillion while total crypto market volume gained 0.57% to US$36.09 billion.</li>
-        <li>Asian equity markets ended lower on Monday, following the release of the U.S. personal consumption expenditures January price index last Friday, which rose 4.7% on the year.</li>
-        <li>The Shenzhen Component Index dropped 0.73% while the Shanghai Composite slipped 0.28%.</li>
-        <li>Japan’s Nikkei 225 dropped 0.11%, while South Korea’s Kospi ended the day 0.87% lower.</li>
-        <li>Hang Seng Index slipped 0.33% after Hong Kong announced that its exports dropped 36.7% in January compared to a year ago. The decline in exports is the largest monthly fall in 70 years.</li>
-        <li>The U.S. Federal Reserve is expected to increase interest rates further to tackle inflation at its next meeting on Mar. 21 and 22. Currently, interest rates in the world’s largest economy are at 4.5% to 4.75%, the highest since October 2007. The central bank has said interest rates could go as high as 5% to tame inflation.</li>
-        <li>U.S. Treasury Secretary Janet Yellen said on Saturday that the fight against inflation “is not a straight line” and that more work is necessary.</li>
-      </ul>
-    </div>
-  },
-  {
-    id: 28,
-    title: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
-    slug: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
-    category: 'Latest Articles',
-    subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
-    description: <div className="blog-desc">
-      <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
-    </div>,
-    authorName: 'Pradipta Mukherjee',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 24, 2023 - 5:37 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-29.webp',
-    content: <div className="blog-content">
-      <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
-      <p>The move is part of a broader plan to make FLOKI, which was originally a meme coin named after billionaire Elon Musk's pet dog, as a serious decentralized-finance token.</p>
-      <p>Venus provides a simple-to-use crypto asset lending and borrowing product that allows users to directly borrow against collateral at a high speed while losing less to transaction fees. It held over $800 million in locked tokens as of Friday.</p>
-      <p>Venus will be integrating FLOKI in its money-market platform, thereby allowing FLOKI holders on the BNB Chain to borrow USDT, USDC, BNB and a basket of other cryptocurrencies while using their FLOKI tokens as collateral.</p>
-      <p>This allows FLOKI token holders to easily access liquidity without having to sell their tokens.</p>
-      <p>The move is expected to benefit FLOKI holders, developers say, as they continue to build and seek strategic partnerships that ultimately benefit the token’s value.</p>
-      <p>The FLOKI integration process on Venus has started, and is expected to be completed in March. After that, FLOKI holders will be able to seamlessly lend and borrow on Venus while using their FLOKI tokens as collateral.</p>
-      <p>FLOKI has so far been one of the strongest crypto performers this year, tripling in value over a 30-day rolling period, according to CoinGecko. Interest in the tokens has heightened in recent months following a $100 million token burn and a push to target Valhalla, Floki’s metaverse game, to the multibillion-dollar Chinese gaming market.</p>
-    </div>
-  },
-  {
-    id: 27,
-    title: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
-    slug: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
-    category: 'Latest Articles',
-    subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
-    description: <div className="blog-desc">
-      <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>
-    </div>,
-    authorName: 'Shaurya Malwa',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Feb 23, 2023 - 2:49 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-30.webp',
-    content: <div className="blog-content">
-      <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>
-      <p>Synthetix (SNX) is a protocol that enables the issuance of synthetic assets on the Ethereum blockchain – allowing users to mint, hold, and trade a wide range of derivatives – including commodities, fiat currencies, and even stocks.</p>
-      <p>The protocol holds over $450 million in locked tokens over the Ethereum and Optimism blockchains as of Thursday. It held just shy of $3 billion in total locked value (TVL) at its February 2021 record high.</p>
-      <p>Developers previously stated said that Synthetix v3 will have much more efficient architecture to allow developers to create faster, complex and more efficient decentralized financial (DeFi) applications.</p>
-      <p>V3 will allow the creation of products that offer a liquid market for any financial derivative that developers want to build, from traditional financial markets to more exotic markets such as no-loss lotteries or even wholly separate protocols.</p>
-      <p>V3 will also offer simplified staking and differentiated debt pools, allowing network stakers to supply collateral to, and receive fees from, specific asset pools without having to be exposed to every Spartan Council-supported asset.</p>
-      <p>The Spartan Council (SC) is the central governing body of the Synthetix protocol that votes on overall improvement proposals and parameter changes.</p>
-      <p>Synthetix’s native SNX tokens saw nominal price changes in the past 24 hours.</p>
-      </div>
   },
   {
     id: 26,
@@ -3397,34 +3122,26 @@ const blogListdata = [
     </div>
   },
   {
-    id: 24,
-    title: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
-    slug: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
-    category: 'Latest Articles',
-    subCategory: ['Bitcoin', 'Dollars', 'Crypto'],
+    id: 57,
+    title: 'AUDUSD Forecast – Australian Dollar Pulls Back',
+    slug: 'AUDUSD Forecast – Australian Dollar Pulls Back',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
-      <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines.</p>
+      <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
     </div>,
-    authorName: 'Pradipta Mukherjee',
+    authorName: 'Christopher Lewis',
     authorurl: '',
     authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
     authorContent: '',
-    createdAt: 'Feb 21, 2023 - 9:15 AM',
-    cover: 'https://ncx.cx/images/pizza-bitcoin.png',
+    createdAt: 'Feb 21, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-57.webp',
     content: <div className="blog-content">
-      <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines. Bitcoin returned to the US$25,000 price level a day after it became the 11th largest asset in the world, surpassing payments giant Visa’s market cap.</p>
-      <h3>Fast facts</h3>
-      <ul>
-        <li>Bitcoin (BTC) gained 1.97% to US$25,002 in 24 hours to 4 p.m. in Hong Kong, and has gained 14.79% on the week. Ether inched up 0.46% to US$1,704, gaining 13.2% over the last seven days, according to CoinMarketCap data.</li>
-        <li>“BTC repeated its March 2020 downside wicking depth below the 200-day MA (moving average),” wrote pseudonymous crypto analyst Rekt Capital, adding that Bitcoin will rally once it reclaims the 200-day MA as support, which is around US$25,000.</li>
-        <li>XRP rose the most, gaining 2.37% to US$0.3998, and strengthened 7.85% on the week. Ripple Labs, which developed the Ripple payment network powered by XRP, said on Monday it is hiring engineers and has about 75 open positions.</li>
-        <li>Solana dropped the most among top 10 non-stablecoin cryptos, by 1.78% to US$26, but gained 23.84% in the last seven days. Polygon’s Matic fell 1.46% to US$1.47, but strengthened 24.54% on the week.</li>
-        <li>Asian markets were mixed on Tuesday. The Shenzhen Component Index gained 0.12% while the Shanghai Composite strengthened by 0.49%.</li>
-        <li>“While the current macroeconomic environment may cast a shadow over global exports, and the Fed may still continue with its rate hikes, China’s domestic demand remains robust,” Jack Lee, China A-shares fund manager of Schroders, said.</li>
-        <li>Hong Kong’s Hang Seng Index dropped 1.71% at Tuesday’s close while Japan’s Nikkei 225 lost 0.21%.</li>
-        <li>European shares declined in anticipation of Eurozone manufacturing and services activity data and the ZEW economic sentiment index. Germany’s DAX 40 retreated 0.2% while Stoxx 600 fell 0.3%.</li>
-        <li>Investors are anticipating the minutes of the meeting of U.S. Federal Reserve, which would shed light on the direction of the economy and interest rates. The central bank has been consistently increasing interest rates since last year and is expected to raise rates by 25 basis points next month. Currently, interest rates in the world’s largest economy stand at 4.5% to 4.75%, and Fed officials had earlier said that may increase to as high as 5%.</li>
-      </ul>
+      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+      <p>The Australian dollar has pulled back a bit during the trading session on Tuesday as we continue to see a lot all volatility in this pair. We are hanging around the 200-Day EMA, an indicator that a lot of people pay attention to. Because of this, I think it makes quite a bit of sense that we would see choppy behavior. The 0.69 level being in the same general vicinity probably as to the volatility as well, so it is worth pointing that out also.</p>
+      <p>All things being equal, we have to ask whether or not this is an area where the Australian dollar is going to see a little bit of support, or if we are going to continue to see negativity. A lot of this will come down to the interest-rate markets, and whether or not traders are starting to focus on tight monetary policy in the United States, or if they are going to focus more on the China reopening situation. After all, the Australian dollar is highly levered to the Chinese economy and of course the demand for Aussie commodities.</p>
+      <p>The global growth situation is tenuous at best, but a lot of traders are starting to pin their hopes on China pulling everybody through. If that’s the case, then Australia will be one of the biggest beneficiaries. However, if this market were to break down below the hammer from the Friday session, I suspect at that point we will see further selling pressure on the Aussie dollar, sending it toward the 0.67 level. Regardless, I would anticipate a lot of choppy behavior, but it is worth noting that we have recently seen a significant selloff from the 0.7150 level that has yet to be truly challenged.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
     </div>
   },
   {
@@ -3463,6 +3180,37 @@ const blogListdata = [
     </div>
   },
   {
+    id: 24,
+    title: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
+    slug: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
+    category: 'Latest Articles',
+    subCategory: ['Bitcoin', 'Dollars', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 21, 2023 - 9:15 AM',
+    cover: 'https://ncx.cx/images/pizza-bitcoin.png',
+    content: <div className="blog-content">
+      <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines. Bitcoin returned to the US$25,000 price level a day after it became the 11th largest asset in the world, surpassing payments giant Visa’s market cap.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin (BTC) gained 1.97% to US$25,002 in 24 hours to 4 p.m. in Hong Kong, and has gained 14.79% on the week. Ether inched up 0.46% to US$1,704, gaining 13.2% over the last seven days, according to CoinMarketCap data.</li>
+        <li>“BTC repeated its March 2020 downside wicking depth below the 200-day MA (moving average),” wrote pseudonymous crypto analyst Rekt Capital, adding that Bitcoin will rally once it reclaims the 200-day MA as support, which is around US$25,000.</li>
+        <li>XRP rose the most, gaining 2.37% to US$0.3998, and strengthened 7.85% on the week. Ripple Labs, which developed the Ripple payment network powered by XRP, said on Monday it is hiring engineers and has about 75 open positions.</li>
+        <li>Solana dropped the most among top 10 non-stablecoin cryptos, by 1.78% to US$26, but gained 23.84% in the last seven days. Polygon’s Matic fell 1.46% to US$1.47, but strengthened 24.54% on the week.</li>
+        <li>Asian markets were mixed on Tuesday. The Shenzhen Component Index gained 0.12% while the Shanghai Composite strengthened by 0.49%.</li>
+        <li>“While the current macroeconomic environment may cast a shadow over global exports, and the Fed may still continue with its rate hikes, China’s domestic demand remains robust,” Jack Lee, China A-shares fund manager of Schroders, said.</li>
+        <li>Hong Kong’s Hang Seng Index dropped 1.71% at Tuesday’s close while Japan’s Nikkei 225 lost 0.21%.</li>
+        <li>European shares declined in anticipation of Eurozone manufacturing and services activity data and the ZEW economic sentiment index. Germany’s DAX 40 retreated 0.2% while Stoxx 600 fell 0.3%.</li>
+        <li>Investors are anticipating the minutes of the meeting of U.S. Federal Reserve, which would shed light on the direction of the economy and interest rates. The central bank has been consistently increasing interest rates since last year and is expected to raise rates by 25 basis points next month. Currently, interest rates in the world’s largest economy stand at 4.5% to 4.75%, and Fed officials had earlier said that may increase to as high as 5%.</li>
+      </ul>
+    </div>
+  },
+  {
     id: 22,
     title: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
     slug: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
@@ -3487,6 +3235,53 @@ const blogListdata = [
         <li>Guerrera told Decrypt that Litecoin was the only other blockchain that could support Ordinals because it also included Bitcoin’s SegWit and Taproot upgrades.</li>
         <li>Bitcoin was down 0.56% in the 24 hours to 7:45 p.m. Hong Kong time, trading at US$24,686. Litecoin was down 3.76% trading at US$93.86, according to CoinMarketCap.</li>
       </ul>
+    </div>
+  },
+  {
+    id: 59,
+    title: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
+    slug: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 20, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-59.webp',
+    content: <div className="blog-content">
+      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+      <p>The Australian dollar has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
+      <p>Keep in mind that the Australian dollar will be highly levered to commodities, and of course the idea of global growth. With China reopening, there is a bit of hope, but it also is probably worth noting that the global economy itself looks a bit shaky to say the least. The market had recently rallied all the way to the 50% Fibonacci level, only to start selling off quite drastically. Those impulsive candlesticks above should continue to weigh heavy upon the market, especially if we see commodities lose some steam.</p>
+      <p>It is probably worth noting that the hammer from the Friday trading session is a candlestick that you should be paying close attention to, because if we were to break down below there, it would be a serious breach of support. Not only would we be breaking down below the hammer, and also the 200-Day EMA, an indicator that will attract a lot of attention by systematic traders. To the upside, I think that the 0.70 level will continue to be a bit of the ceiling, as it is psychologically important, and we have seen a lot of action in that area.</p>
+      <p>It is worth noting that inflation is still an issue in both Australia and the United States, so the interest rate situation between the 2 currencies may not be as clear as others, but as a general rule of the dollar tends to move in one direction against all currencies. In other words, you can pay attention to multiple currency pairs, and notice the overall direction of the dollar in order to trade this market.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 58,
+    title: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
+    slug: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The US dollar has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 20, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-58.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+      <p>The US dollar has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior. The market has been repudiated at the ¥135 level, but if he can break above there it has a clear shot to the ¥137.50 level.</p>
+      <p>If we can break above there, then the market can continue to go much higher. All things being equal, this is a situation where we see a lot of volatility over the next several days as the Bank of Japan continues to fight higher interest rates, meaning that they will be printing more Japanese yen, thereby driving down the value of that currency. On the other side of the equation, you have the Federal Reserve keeping a very tight monetary policy, so thereby offering a bit of support to the US dollar, despite the fact that may not necessarily be their intention. As long as there is a huge amount of inflation in the United States, that will be a continuous issue.</p>
+      <p>It may also be worth noting that the market had recently bounced from the 50% Fibonacci retracement level, so that is something that a lot of technical traders will pay close attention to. Beyond that, the ¥127.50 level was where that 50% Fibonacci level showed up, and of course it’s also an area that previously had seen support. With all that, it’s very possible this may remain a “buy on the dips” type of market.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
     </div>
   },
   {
@@ -3549,6 +3344,51 @@ const blogListdata = [
       <p>Bitcoin is heading into a quiet week in terms of macroeconomic triggers that could affect the price. There are a few US data releases, such as the Personal Consumption Expenditures (PCE) Index, coming up.</p>
       <p>All eyes are on the next Federal Open Market Committee (FOMC) meeting being held on 15 and 16 March where a decision for the next benchmark interest rate hike will be made. Futures markets are pricing in a less hawkish Federal Reserve, forecasting a 25 basis point rate hike at the meeting in March.</p>
       </div>
+  },
+  {
+    id: 61,
+    title: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
+    slug: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 17, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-61.webp',
+    content: <div className="blog-content">
+      <h3>Euro vs US Dollar Technical Analysis</h3>
+      <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
+      <p>The Euro has seen a lot of action at 1.06, but I suspect it is only a minor support level, perhaps opening up the possibility of a challenge of the 1.05 level, which is much more important in the sense that it was a swing low, and of course the 200-Day EMA sitting in that same area has a huge effect as well. Because of this, I think it’s probably only a matter of time before we see that area challenged, especially as we have seen a couple of impulsive negative moves over the last couple of weeks. With this, I think the real battle begins in that area.</p>
+      <p>If we were to break down below the 200-Day EMA on a daily close, then I think you could have a situation where the Euro gets hit really hard. At that point, it would not surprise me at all to see the Euro go down to parity again. On the other hand, if we turn around and take out the shooting star from the Tuesday session, it opens up a move to the 1.10 level above, but that area looks extraordinarily difficult to break higher than, due to the fact that we had seen so much massive selling at what is a large, round, psychologically significant figure, and the 50% Fibonacci level from the big move lower.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
+  },
+  {
+    id: 60,
+    title: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
+    slug: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
+    category: 'Currencies',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Feb 17, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-60.webp',
+    content: <div className="blog-content">
+      <h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+      <p>The US dollar has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming. After all, if the Bank of Japan continues to have to fight interest rates, it’s likely that we will continue to see the US dollar overcome the Japanese yen strength. We also had recently pulled back from the 50% Fibonacci retracement level, and now it looks like we are ready to go to the upside again. Given enough time, I do think that we probably have a much higher exchange rate.</p>
+      <p>If we can break above the ¥135 level, then it is possible that we could go to the ¥137.50 level. After that, the ¥140 level is worth paying close attention to. On the other hand, if we turn around and break down below the ¥130 level, that would probably show quite a bit of negativity, perhaps opening up the possibility of a move down to the ¥127.50 level. You can see that the pullback was rather brutal, but then again, the move higher was brutal to get up there. Now that the Federal Reserve may finally be convincing people that they are serious about keeping interest rates higher for longer, we could very well see this market take off to the upside. Ultimately, this is a market that remains very noisy, but I do think given enough time we probably try to get back to those highs at this rate.</p>
+      <p>For a look at all of today’s economic events, check out our economic calendar.</p>
+    </div>
   },
   {
     id: 19,
@@ -3685,42 +3525,6 @@ const blogListdata = [
     </div>
   },
   {
-    id: 15,
-    title: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
-    slug: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
-    category: 'Latest Articles',
-    subCategory: ['Binanve Coin', 'BNB', 'Crypto'],
-    description: <div className="blog-desc">
-      <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. Binance Coin [BNB] declined by 9% in the same period, dropping from $323 to $293. </p>
-    </div>,
-    authorName: 'Suzuki Shillsalot',
-    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
-    authorAvatar: 'https://ncx.cx/images/suzuki.jpeg',
-    authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
-    createdAt: 'Jan 25, 2023 - 12:54 AM',
-    cover: 'https://ncx.cx/images/ncx-news6.png',
-    content: <div className="blog-content">
-      <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>
-      <p>BNB could oscillate in a range in the next few hours/days.</p>
-      <p>Short-term holders saw a sharp decline in profits after Tuesday’s sudden drop.</p>
-      <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. Binance Coin [BNB] declined by 9% in the same period, dropping from $323 to $293. </p>
-      <p>However, bulls found steady support of around $297 and launched a price recovery. At press time, BNB’s value was $303.6o and could oscillate in the range below for the next few hours/days. </p>
-      <h3>BNB remained steady at the $300 – $310 range</h3>
-      <img src="https://ncx.cx/images/bnb_steady1.png" alt="Ethereum_metrics"/>
-      <p>On the three-hour chart, the Relative Strength Index (RSI) rebounded from the 40 level and showed that buying pressure increased after dropping to the 40-mark.</p>
-      <p>In addition, the Chaikin Money Flow (CMF) was rejected at the zero mark, forcing it into an uptick on the positive side, which indicated that the BNB market was strengthening.</p>
-      <p>Therefore, BNB could oscillate between the demand zone ($293 – $300) and $310 in the next couple of hours. BNB has traded within this range since 21 January, only to witness a false breakout on 24 January. A retest of the $319 could also be likely if BTC reclaims the $23k zone.</p>
-      <p>However, BNB could drop below the demand zone if BTC breaks below $22.5k, invalidating the bias described above. But such a drop could settle on the 100-period EMA (exponential moving average) or $286.9 level.</p>
-      <p>Swing traders should therefore track RSI rejection at the 50-mark, CMF crossover, and BTC price action to minimize risk exposure.</p>
-      <h3>Short-term holders’ profits tanked and sentiment flipped into negative</h3>
-      <img src="https://ncx.cx/images/bnb_steady2.png" alt="Ethereum_metrics"/>
-      <p>According to Santiment, BNB’s 30-day MVRV (market value to realized value) dropped from 36% to 6% at press time. Short-term holders’ profit tanked by 30% as BNB’s price correction wiped out recent gains.</p>
-      <p>The price decline was also followed by an elevated negative weighted sentiment and a drop in demand in the derivatives market, as evidenced by the drop in the Funding Rate. However, the Funding Rate rested on the neutral line and any increment could boost BNB’s recovery.</p>
-      <p>Alternatively, a further drop in the Funding Rate could set BNB to retest the demand zone below $300. Moreover, the active address in the past 24 hours also dropped, but there was a slight uptick at press time. Any further increase in active addresses could boost the recovery momentum.</p>
-      <img src="https://ncx.cx/images/bnb_steady3.png" alt="Ethereum_metrics"/>
-    </div>
-  },
-  {
     id: 14,
     title: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
     slug: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
@@ -3768,6 +3572,42 @@ const blogListdata = [
       <p>Mastercard rival Visa Inc is due to post results after the bell, as is chip bellwether Intel Corp.</p>
       <p>Advancing issues outnumbered declining ones on the NYSE by a 1.72-to-1 ratio; on Nasdaq, a 1.18-to-1 ratio favored advancers.</p>
       <p>The S&P 500 posted 22 new 52-week highs and no new lows; the Nasdaq Composite recorded 89 new highs and 26 new lows (Reporting by Stephen Culp; Additional reporting by Johann M Cherian and Shreyashi Sanyal in Bengaluru; Editing by Aurora Ellis)</p>
+    </div>
+  },
+  {
+    id: 15,
+    title: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
+    slug: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
+    category: 'Latest Articles',
+    subCategory: ['Binanve Coin', 'BNB', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. Binance Coin [BNB] declined by 9% in the same period, dropping from $323 to $293. </p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/suzuki.jpeg',
+    authorContent: 'Ser Suzuki Shillsalot has 8 years of experience working as a Senior Investigative journalist at The SpamBot Times. He completed a two-hour course in journalism from a popular YouTube video and was one of the few to give it a positive rating. Shillsalot writings mainly focus on shilling his favourite cryptos and trolling anyone who disagrees with him. P.S - There is a slight possibility the profile pic is AI-generated.',
+    createdAt: 'Jan 25, 2023 - 12:54 AM',
+    cover: 'https://ncx.cx/images/ncx-news6.png',
+    content: <div className="blog-content">
+      <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>
+      <p>BNB could oscillate in a range in the next few hours/days.</p>
+      <p>Short-term holders saw a sharp decline in profits after Tuesday’s sudden drop.</p>
+      <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. Binance Coin [BNB] declined by 9% in the same period, dropping from $323 to $293. </p>
+      <p>However, bulls found steady support of around $297 and launched a price recovery. At press time, BNB’s value was $303.6o and could oscillate in the range below for the next few hours/days. </p>
+      <h3>BNB remained steady at the $300 – $310 range</h3>
+      <img src="https://ncx.cx/images/bnb_steady1.png" alt="Ethereum_metrics"/>
+      <p>On the three-hour chart, the Relative Strength Index (RSI) rebounded from the 40 level and showed that buying pressure increased after dropping to the 40-mark.</p>
+      <p>In addition, the Chaikin Money Flow (CMF) was rejected at the zero mark, forcing it into an uptick on the positive side, which indicated that the BNB market was strengthening.</p>
+      <p>Therefore, BNB could oscillate between the demand zone ($293 – $300) and $310 in the next couple of hours. BNB has traded within this range since 21 January, only to witness a false breakout on 24 January. A retest of the $319 could also be likely if BTC reclaims the $23k zone.</p>
+      <p>However, BNB could drop below the demand zone if BTC breaks below $22.5k, invalidating the bias described above. But such a drop could settle on the 100-period EMA (exponential moving average) or $286.9 level.</p>
+      <p>Swing traders should therefore track RSI rejection at the 50-mark, CMF crossover, and BTC price action to minimize risk exposure.</p>
+      <h3>Short-term holders’ profits tanked and sentiment flipped into negative</h3>
+      <img src="https://ncx.cx/images/bnb_steady2.png" alt="Ethereum_metrics"/>
+      <p>According to Santiment, BNB’s 30-day MVRV (market value to realized value) dropped from 36% to 6% at press time. Short-term holders’ profit tanked by 30% as BNB’s price correction wiped out recent gains.</p>
+      <p>The price decline was also followed by an elevated negative weighted sentiment and a drop in demand in the derivatives market, as evidenced by the drop in the Funding Rate. However, the Funding Rate rested on the neutral line and any increment could boost BNB’s recovery.</p>
+      <p>Alternatively, a further drop in the Funding Rate could set BNB to retest the demand zone below $300. Moreover, the active address in the past 24 hours also dropped, but there was a slight uptick at press time. Any further increase in active addresses could boost the recovery momentum.</p>
+      <img src="https://ncx.cx/images/bnb_steady3.png" alt="Ethereum_metrics"/>
     </div>
   },
   {
@@ -3866,6 +3706,36 @@ const blogListdata = [
     </div>
   },
   {
+    id: 33,
+    title: 'Steel ETF Surged as Market Tumbled',
+    slug: 'Steel ETF Surged as Market Tumbled',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>One of last year’s top-performing equity exchange-traded funds, the VanEck Steel ETF (SLX), stealthily outperformed broader markets. After 2022’s 14% gain, investors may wonder, can it do so again?</p>
+    </div>,
+    authorName: 'Heather Bell',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Jan 6, 2023 - 9:03 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-33.webp',
+    content: <div className="blog-content">
+      <p>One of last year’s top-performing equity exchange-traded funds, the VanEck Steel ETF (SLX), stealthily outperformed broader markets. After 2022’s 14% gain, investors may wonder, can it do so again?</p>
+      <p>The ETF is the only one covering steel specifically, investing in global steel producers. It manages $101.3 million in assets, only one-fourth of what it managed in 2008. Still, SLX is about the only way to access the performance of steel directly.</p>
+      <p>Those outflows may seem surprising. SLX has performed well in in previous years, with three-and five-year annualized returns of 21.2% and 10.2%, respectively. Still, it’s lost nearly $19 million last year despite its positive performance and its indirect exposure to a key global commodity.</p>
+      <p>Although nearly half of the portfolio is invested in U.S. equities, the fund also offers exposure to countries like Brazil (19.4%), the U.K. (10.7%) and Italy (5.6%). Top holdings include Rio Tinto plc (12.4%), Vale, S.A. (12.1%) and Nucor Corp. (6.8%).</p>
+      <p>SLX’s liquidity isn’t great, with FactSet rating it at the lowest end of its scale, but SLX’s volumes and spreads are within the normal range relative to other similarly sized equity funds. It’s also not likely to close given it has more than $100 million in assets and has been trading for more than 14 years. Its 0.55% expense ratio is at the low end for a specialty equity ETF.</p>
+      <p>It should also be noted that SLX has a dividend yield for the past 12 months of 4.26% versus 1.65% for the SPDR S&P 500 ETF Trust (SPY).</p>
+      <h3>What’s Ahead for Steel</h3>
+      <p>Steel price gains may be fairly muted this year after having been driven up by supply chain disruptions and the Russia-Ukraine war, but nothing too extreme in either direction, according to Christos Rigoutsos, a senior economist with S&P Global.</p>
+      <p>“It's not a matter of weakness in pricing—it's the fact that prices will tend [toward] normal rather than actually being weak or lower than that,” he told ETF.com, pointing out that steel prices over the past year have been “sky high” and that the situation is simply normalizing.</p>
+      <p>He notes that steel producers will idle production when surpluses of the commodity build up. Add that to the fact that prices are already only slightly above cost, there’s not much downside, according to Rigoutsos. However, he also emphasizes steel is not recession-proof, as manufacturing tends to fall off in that kind of environment.</p>
+      <p>Given all that, there may be some upside remaining for SLX, while a similar level of outperformance is unlikely to continue very far into 2023. However, its specific focus and global nature could provide additional diversification to a portfolio with little added risk.</p>
+      <p>With recession fears high, a fund focused on companies producing a crucial commodity could be seen as an attractive prospect.</p>
+      </div>
+  },
+  {
     id: 11,
     title: 'ALTCOINSSolana showing signs of life even as TVL and SOL’s price decline massively',
     slug: 'altcoinssolana-showing-signs-of-life-even-as-TVL-and-SOLs-price-decline-massively',
@@ -3910,35 +3780,6 @@ const blogListdata = [
     </div>,
   },
   {
-    id: 10,
-    title: 'Spike in Network Activity for Several Altcoins: Santiment Report',
-    slug: 'spike-in-network-activity-for-several-altcoins-santiment-report',
-    category: 'Press News',
-    subCategory: ['Spike network', 'Santiment report', 'Crypto'],
-    description: <div className="blog-desc">
-      <p>“big upticks in address activity and dormant wallets awakening to move their funds.”</p>
-    </div>,
-    authorName: 'Steven Walgenbach',
-    authorurl: 'https://coinedition.com/author/steven-walgenbach/',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: 'Steven has been involved in the crypto space since 2014 and has coded, invested in, and mined crypto. He is now keen to play apart in the global narrative for crypto.',
-    createdAt: 'Dec 16, 2022 - 08:26 PM',
-    cover: 'https://coinedition.com/wp-content/uploads/2022/12/Several-altcoins-are-seeing-big-upticks.jpg',
-    content: <div className="blog-content">
-      <p>A tweet by the blockchain intelligence firm, Santiment in the past day shows that several altcoins have seen “big upticks in address activity and dormant wallets awakening to move their funds.” The tweet read: “Others [altcoins] are staying stuck in the mud and are more likely to fall behind.”</p>
-      <p>Santiment focused on three altcoins in its latest report such as Uniswap (UNI), Ren (REN), and yearn.finance (YFI).</p>
-      <p>One example of an altcoin that has seen its network activity increase quite impressively after a consolidation period is YFI, according to the blockchain intelligence firm.</p>
-      <p></p>
-      <img src="https://coinedition.com/wp-content/uploads/2022/12/SANTIMENT-1920x650.png" alt="Spike in Network Activity" />
-      <p>Meanwhile, the report showed that network activity for REN did not pick up as much as YFI because of the project’s “complicated financial situation.”</p>
-      <p>Lastly, UNI experienced strong growth before when the project announced its NFT marketplace. Network activity for UNI has continued to grow, even compared with the NFT-related pump, according to the report.</p>
-      <p>At press time, YFI is trading at $6,257.01 following a 2.63% drop in price over the last 24 hours. This is according to the crypto market tracking website, CoinMarketCap. The altcoin’s price has also weakened against Bitcoin (BTC) and Ethereum (ETH) by 0.80% and 0.98%, respectively.</p>
-      <p>REN on the other hand, is up 2.88% over the last 24 hours. In addition to strengthening against the U.S. dollar, REN’s price has become resilient against BTC and ETH by 4.80% and 4.61%, respectively.</p>
-      <p>UNI is also currently down 1.52%, but, it strengthened against Bitcoin by 0.44% and also strengthened against ETH by 0.24% over the same time period.</p>
-      <p><strong>Disclaimer:</strong> The views and opinions, as well as all the information shared in this price analysis, are published in good faith. Readers must do their own research and due diligence. Any action taken by the reader is strictly at their own risk. Coin Edition and its affiliates will not be held liable for any direct or indirect damage or loss.</p>
-    </div>,
-  },
-  {
     id: 9,
     title: '13% of Americans have now held crypto: JPMorgan research',
     slug: '13%-of-americans-have-now-held-crypto-JPMorgan-research',
@@ -3972,6 +3813,35 @@ const blogListdata = [
       <p>This fall in the crypto market has been the result of market shocks such as TerraUSD (UST) stablecoin losing its peg in May and crypto exchange FTX going bankrupt in November.</p>
       <p>Trading fees have fallen on many crypto exchanges, and Coinbase has even stated that its revenue has fallen by nearly 50%.</p>
       <p>But despite this decline in crypto prices and trading activity, this new report indicates that crypto ownership has still increased over the course of the last few years.</p>
+    </div>,
+  },
+  {
+    id: 10,
+    title: 'Spike in Network Activity for Several Altcoins: Santiment Report',
+    slug: 'spike-in-network-activity-for-several-altcoins-santiment-report',
+    category: 'Press News',
+    subCategory: ['Spike network', 'Santiment report', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>“big upticks in address activity and dormant wallets awakening to move their funds.”</p>
+    </div>,
+    authorName: 'Steven Walgenbach',
+    authorurl: 'https://coinedition.com/author/steven-walgenbach/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: 'Steven has been involved in the crypto space since 2014 and has coded, invested in, and mined crypto. He is now keen to play apart in the global narrative for crypto.',
+    createdAt: 'Dec 16, 2022 - 08:26 PM',
+    cover: 'https://coinedition.com/wp-content/uploads/2022/12/Several-altcoins-are-seeing-big-upticks.jpg',
+    content: <div className="blog-content">
+      <p>A tweet by the blockchain intelligence firm, Santiment in the past day shows that several altcoins have seen “big upticks in address activity and dormant wallets awakening to move their funds.” The tweet read: “Others [altcoins] are staying stuck in the mud and are more likely to fall behind.”</p>
+      <p>Santiment focused on three altcoins in its latest report such as Uniswap (UNI), Ren (REN), and yearn.finance (YFI).</p>
+      <p>One example of an altcoin that has seen its network activity increase quite impressively after a consolidation period is YFI, according to the blockchain intelligence firm.</p>
+      <p></p>
+      <img src="https://coinedition.com/wp-content/uploads/2022/12/SANTIMENT-1920x650.png" alt="Spike in Network Activity" />
+      <p>Meanwhile, the report showed that network activity for REN did not pick up as much as YFI because of the project’s “complicated financial situation.”</p>
+      <p>Lastly, UNI experienced strong growth before when the project announced its NFT marketplace. Network activity for UNI has continued to grow, even compared with the NFT-related pump, according to the report.</p>
+      <p>At press time, YFI is trading at $6,257.01 following a 2.63% drop in price over the last 24 hours. This is according to the crypto market tracking website, CoinMarketCap. The altcoin’s price has also weakened against Bitcoin (BTC) and Ethereum (ETH) by 0.80% and 0.98%, respectively.</p>
+      <p>REN on the other hand, is up 2.88% over the last 24 hours. In addition to strengthening against the U.S. dollar, REN’s price has become resilient against BTC and ETH by 4.80% and 4.61%, respectively.</p>
+      <p>UNI is also currently down 1.52%, but, it strengthened against Bitcoin by 0.44% and also strengthened against ETH by 0.24% over the same time period.</p>
+      <p><strong>Disclaimer:</strong> The views and opinions, as well as all the information shared in this price analysis, are published in good faith. Readers must do their own research and due diligence. Any action taken by the reader is strictly at their own risk. Coin Edition and its affiliates will not be held liable for any direct or indirect damage or loss.</p>
     </div>,
   },
   {
@@ -4030,7 +3900,6 @@ const blogListdata = [
         <li>Japan’s Virtual and Crypto assets Exchange Association (JVCEA), the self-regulatory body that oversees local crypto exchanges, said in October it would relax its screening process for crypto token listings.</li>
         <li>Kishida, who became prime minister in September 2021, has been a supporter of digital finance and blockchain adoption, recently announcing further investments in the non-fungible token (NFT) and metaverse industry. He included crypto in plans to reinvigorate the economy, under his “new capitalism” mandate.</li>
       </ul>
-      
     </div>,
   },
   {
@@ -4113,6 +3982,39 @@ const blogListdata = [
       <p>This would imply a favorable reaction to the network’s most recent news. At the time of this writing, the asset was trading with less than a 1% increase in value, and it appeared to be rising.</p>
       <img src="https://ambcrypto.com/wp-content/uploads/2022/12/AVAXUSD_2022-12-14_12-47-29.png" alt="Trading view" />
     </div>,
+  },
+  {
+    id: 34,
+    title: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
+    slug: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
+    </div>,
+    authorName: 'Heather Bell',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Dec 13, 2022 - 4:43 AM',
+    cover: 'https://ncx.cx/images/ncx-blog-34.webp',
+    content: <div className="blog-content">
+      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
+      <p>This year, the iShares U.S. Insurance ETF (IAK) has been one of the few stock exchange-traded funds outside of energy that handily topped broader markets like the S&P 500.</p>
+      <p>The fund is up about 12% and recently hit its all-time high. It did this in one of the worst equity market environments in years, and without exposure to energy stocks. Energy is the only major sector with positive returns year to date, while the SPDR S&P 500 ETF Trust (SPY) has dropped 16%.</p>
+      <p>Three ETFs trading on U.S. exchanges provide exposure to insurance stocks. With 58 holdings, IAK is the broadest that covers this category in addition to being the top performer year to date. With $558 million in assets under management, it’s also the largest compared with the $525 million SPDR S&P Insurance ETF (KIE) and the $347 million Invesco KBW Property & Casualty Insurance ETF (KBWP). Those two funds are up 4.3% and 11.2%, respectively.</p>
+      <p>All but one of IAK’s top 10 holdings—including names like Chubb Corp., Progressive Corp. and MetLife Inc.—have notched positive returns during 2022, the majority of them in the double digits. The top firms in the fund have mostly reported strong earnings and revenues this year, boosting their performance in a tough market, and spurring the ETFs gains.</p>
+      <p>IAK is probably doing well for a number of reasons, one being that insurance companies do well in unstable economic times because as more or less steady companies, they aren’t affected by the downturn in the economy like other industries. They also provide essential services whose demand profile doesn’t fluctuate with economic cycles.</p>
+      <p>Rising interest rates also boost insurance companies’ “float,” the pool of money, collected as premiums, which they invest conservatively and use to make claims payments. The Federal Reserve boosting rates from around zero to 4% Monday has helped IAK’s companies, and with more hikes expected this year and next, the insurance industry may be positioned well for strong profits for some time.</p>
+      <p>So far this year, IAK has seen strong inflows, gaining $422.3 million year to date, while KBWP pulled in $248.5 million, and KIE—a broadly based insurance fund like IAK—gained just $62.8 million. With more room to run, those funds could pull in even more.</p>
+      <h3>An Analyst’s View</h3>
+      <p>The Deloitte Center for Financial Services’ report on its 2023 outlook the insurance industry in September 2022 noted that while insurers are “facing a host of macroeconomic and geopolitical challenges,” they exhibited agility during the pandemic in terms of adopting remote work and adapting to customer needs.</p>
+      <p>They should continue to maintain that momentum, Deloitte advises, by investing in technology and their workforce while focusing on innovation and their customers.</p>
+      <p>The report also notes that ESG considerations will become increasingly important to stakeholders, and that those could be major differentiators in competing within the insurance peer group. The firm declined to comment further when contacted.</p>
+      <p>Deloitte U.S. Insurance Leader Karl Hersch said in a video in its outlook that the sector is at a “post-pandemic inflection point” during which it could “reset the narrative” around it.</p>
+      <p>While the report cites inflation as cutting into profitability, it notes several opportunities for growth. Those include small businesses, in particular when it comes to cybersecurity-related mishaps.</p>
+      <p>The push toward green energy could result in $125 billion in spending on such matters projected by 2030. In the digital realm, including cryptocurrency, NFTs and the metaverse, the report notes that only 17% of related assets are insured.</p>
+    </div>
   },
   {
     id: 4,
@@ -4278,6 +4180,31 @@ const blogListdata = [
       <p>The obvious increase in these DEXes’ trading volumes is evidence of how recently that area has come to receive a lot more attention. The increased interest could lead to a more balanced crypto economy and encourage participation outside of centralized exchanges.</p>
       <p>This is not meant to minimize or overlook the significance of centralized exchanges within the ecosystem; rather, DEXes provide investors with different options.</p>
     </div>,
+  },
+  {
+    id: 35,
+    title: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
+    slug: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
+    description: <div className="blog-desc">
+      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. disclosed Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
+    </div>,
+    authorName: 'Ron Day',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Nov 15, 2022 - 7:43 PM',
+    cover: 'https://ncx.cx/images/ncx-blog-35.webp',
+    content: <div className="blog-content">
+      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. disclosed Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
+      <p>ETFs including the SPDR S&P Semiconductor ETF (XSD), the VanEck Semiconductor ETF (SMH) and the Invesco Dynamic Semiconductors ETF (PSI) gained more than 4% and were among the five biggest ETF movers on Tuesday. A handful of Taiwan and semiconductor funds rounded out the top 10 ETF movers.</p>
+      <p>Berkshire’s Securities and Exchange Commission filing disclosed 4.12 million shares of Taiwan Semiconductor, the world’s biggest contract chipmaker and supplier to Apple Inc., purchased in the third calendar quarter. Apple is the top holding in Berkshire’s portfolio.</p>
+      <p>The company’s shares have been among the most beaten-down in what has been a declining tech market this year. Even with today’s more than 12% gain, TSMC—as it’s also known—has dropped 32% this year, more than the 27% decline in the tech-heavy Invesco QQQ Trust (QQQ).</p>
+      <p>That decline may have been seen as a buying opportunity for Buffett, who, along with business partner Charlie Munger, are the world’s most famous value investors. Semiconductors are generally priced low at present: XSD’s price-to-earnings ratio of 17 times earnings falls beneath QQQ’s 22 times.</p>
+      <p>In addition to the Berkshire purchases, geopolitical tensions in the region may have taken a breather after President Joe Biden met with Chinese leader Xi Jinping in Indonesia Monday and committed to working together to solve economic and security issues.</p>
+      <p>China has promised to reunify Taiwan with the Chinese mainland, which the U.S. opposes. House Speaker Nancy Pelosi’s July trip to Taiwan in support of the country infuriated China and led the country to cut off some diplomatic channels with the U.S.</p>
+    </div>
   },
 ];
 
