@@ -166,6 +166,24 @@ a.trend-seemore::after{
     justify-content: center;
     margin: 0px !important;
 }
+.buttons-tabs button.btn-dark:nth-child(1) {
+    order: 1;
+}
+.buttons-tabs button.btn-dark:nth-child(6) {
+    order: 2;
+}
+.buttons-tabs button.btn-dark:nth-child(5) {
+    order: 3;
+}
+.buttons-tabs button.btn-dark:nth-child(4) {
+    order: 4;
+}
+.buttons-tabs button.btn-dark:nth-child(3) {
+    order: 5;
+}
+.buttons-tabs button.btn-dark:nth-child(2) {
+    order: 6;
+}
 
 @media screen and (max-width: 1300px){
     .trend-card:nth-child(2), .trend-card:nth-child(5){

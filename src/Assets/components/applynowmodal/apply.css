@@ -1,33 +1,66 @@
-/* .ReactModal__Overlay.ReactModal__Overlay--after-open {
-    background-color: rgba(0,0,0,0.6) !important;
-} */
-
-/* header#header-row:before{
+.hubspot-link__container {
+    display: none !important;
+}
+.hubspot-link__container.sproket {
     display: none;
 }
-header#header-row .MuiToolbar-root {
-    min-height: 56px !important;
+#applynow_form{
+    /* background: url(../../images/apply_bg.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important; */
+    width: 50% !important;
 }
-.logo-nav{
-    column-gap: 28px !important;
+.heading_corss {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
-.header-more svg path{
-    fill: #000;
-}
-ul.navlink a{
-    color: #000;
-    font-weight: 400;
+.heading_corss h2 {
+    color: #000000 !important;
+    font-size: 32px;
+    line-height: 36px;
     font-family: 'urbanist-regular';
 }
-ul.navlink{
-    column-gap: 28px;
+.heading_corss button {
+    border: none;
+    background: none;
 }
-.login-buttons a.signin{
-    min-height: 34px !important;
+.heading_corss button svg{
+    width: 20px;
+    height: auto;
 }
-.login-buttons .dqLguv {
-    min-height: 34px;
+.heading_corss button svg path{
+    fill: #000000;
 }
-.login-buttons button.sc-hKFxyN {
-    width: 34px;
-} */
+#applynow_form input{
+    padding: 0px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular' !important;
+    border-bottom: 1px solid #FFFFFF !important;
+}
+span {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 400;
+}
+.submitted-message {
+    color: #52c452;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+@media screen and (max-width: 767px){
+    #applynow_form{
+        width: inherit !important;
+        inset: 55% auto auto 50% !important;
+        max-height: 500px;
+    }
+    .heading_corss h2 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .heading_corss button svg{
+        width: 14px;
+    }
+}

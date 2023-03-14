@@ -4,6 +4,12 @@ import TrendingCard from "./data";
 const Buttons = ({ filterItem, setItem, menuItems }) => {
     return (
         <div className="d-flex justify-content-flex-left">
+            <button
+                className="btn-dark text-white p-1 px-3 mx-5 fw-bold btn"
+                onClick={() => setItem(TrendingCard)}
+            >
+                Latest Articles
+            </button> 
             {menuItems.map((Val, id) => {
                 return (
                     <button
@@ -15,12 +21,6 @@ const Buttons = ({ filterItem, setItem, menuItems }) => {
                     </button>
                 );
             })}
-            <button
-                className="btn-dark text-white p-1 px-3 mx-5 fw-bold btn"
-                onClick={() => setItem(TrendingCard)}
-            >
-                All
-            </button> 
          </div>
     );
   };

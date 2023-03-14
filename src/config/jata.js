@@ -62,6 +62,46 @@ const blogListdata = [
     </div>
   },
   {
+    id: 149,
+    title: 'Wall Street higher as Biden says the banking system is safe but FTSE closes in red',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Biden', 'Wall Street'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks finished in the red this Monday as the rescue of Silicon Valley Bank's UK arm (SIVB) led to a weak start to the week on the markets.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 12:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-153.jpg',
+    content: <div className="blog-content">
+      <p>The FTSE 100 and European stocks finished in the red this Monday as the rescue of Silicon Valley Bank's UK arm (SIVB) led to a weak start to the week on the markets.</p>
+      <p>The FTSE 100 (^FTSE) lost 2.25% to close at 7,574 points, while the CAC 40 (^FCHI) in Paris tumbled 2.58% to 7,034 points. In Germany, the DAX (^GDAXI) fell 2.66% to 15,017.</p>
+      <p>Across the pond, US stocks started off the week with a sour sentiment before bouncing back after federal banking regulators took aggressive actions to stem the fallout of Silicon Valley Bank's failure.</p>
+      <p>The Dow Jones (^DJI) rose 0.47% to 32,060 points. The S&P 500 (^GSPC) rose 0.49% to 3,880 points and the tech-heavy NASDAQ (^IXIC) gained 1.13% to 11,264.</p>
+      <p>President Joe Biden addressed the nation on Monday regarding the collapse of Silicon Valley Bank. Biden said that “no losses will be borne by the taxpayers” and he assured customers that they would be protected. The president also vowed to ask Congress and the banking regulators to strengthen rules for banks.</p>
+      <p>Biden explained that he instructed his team to protect US workers and small businesses and detailed their actions to protect customers' deposits and not put taxpayer dollars at risk, to hold those responsible accountable, and not to protect investors in the bank.</p>
+    	<p>Back in London, HSBC (HSBA.L) bought the UK arm of Silicon Valley Bank (SVBUK), securing the deposits of more than 3,000 customers worth £6.7bn ($8bn).</p>
+	    <p>The Treasury said the deal with HSBC involved no taxpayer money and the Bank of England said deposits were secure.</p>	
+	    <p>HSBC said it paid just £1 for SVBUK after the bank failed on Friday.</p>
+      <p>All SVBUK services will continue to operate as normal and customers should not notice any changes, the statement said.</p>
+      <p>"This acquisition makes excellent strategic sense for our business in the UK," HSBC said.</p>
+      <p>"It strengthens our commercial banking franchise and enhances our ability to serve innovative and fast-growing firms, including in the technology and life-science sectors, in the UK and internationally," Noel Quinn, HSBC group chief executive, said.</p>
+      <p>Silicon Valley Bank — which specialised in lending to technology companies — was shut down by US regulators on Friday in the largest failure of a US bank since 2008.</p>
+      <p>UK chancellor Jeremy Hunt said: “Today the government and the Bank of England have facilitated a private sale of Silicon Valley Bank UK. This ensures customer deposits are protected and can bank as normal, with no taxpayer support.</p>
+      <p>“I am pleased we have reached a resolution in such short order.</p>
+      <p>“HSBC is Europe’s largest bank, and SVBUK customers should feel reassured by the strength, safety and security that brings them.”</p>
+      <p>"HSBC shareholders may have some concerns about the bank snapping up assets which have been under such a cloud of uncertainty, particularly the exposure to bonds, but HSBC says it expects a gain to arise from the acquisition.</p>
+      <p>"This will be hugely welcomed by the government, given the looming crisis risked overshadowing budget day, as a big tech sector bailout would not have been a good look when millions have been told there is little extra money to ease the cost of living crisis."</p>
+	    <p>Victoria Scholar, head of investment at Interactive Investor, said: "It means that SVBUK will avoid insolvency proceedings and its customers will be able to access deposits and banking services as normal from today. European markets look set to open higher as a crisis in the banking sector is averted for now."</p>
+      <p>Dom Hallas, executive director of Coadec, a lobby group representing UK tech start-ups, said Monday’s deal “saved hundreds of the UK’s most innovative companies".</p>
+      <p>Financial stocks were among the fallers in London, with Standard Chartered (STAN.L) losing 6.52%, investment manager abrdn (ABDN.L) off 3.41%, and Barclays (BARC.L) falling 5.79%.</p>
+      <p>Meanwhile, Brent crude (BZ=F) lost ground and was trading at around $82 per barrel amid concerns of further interest rate increases.</p>
+      <p>In Asia, Tokyo’s Nikkei 225 (^N225) lost 1.11% to 27,832 points, while the Hang Seng (^HSI) in Hong Kong gained 1.98% to 19,702. The Shanghai Composite (000001.SS) also gained ground, climbing 1.20% to 3,268 points.</p>
+    </div>
+  },
+  {
     id: 145,
     title: 'Bank Crisis Widens As Signature Topples, Funding Props First Republic',
     category: 'Markets',
@@ -212,7 +252,7 @@ const blogListdata = [
   {
     id: 148,
     title: 'Dow Jones Futures Fall; Regulators Protect All SVB Deposits, But Bank Stocks Keep Tumbling',
-    category: 'indices',
+    category: 'Indices',
     subCategory: ['Dow Jones', 'SVB', 'Bank'],
     description: <div className="blog-desc">
       <p>Dow Jones futures and S&P 500 futures fell Monday, while Nasdaq futures rose after a flurry of news Sunday evening. The FDIC and other financial regulators announced that all SVB Financial depositors would get access to all funds Monday, while also announcing a plan to limit the contagion. Regulators also closed embattled Signature Bank (SBNY).</p>
@@ -492,6 +532,54 @@ const blogListdata = [
       <p>Late in the day, Circle confirmed that $3.3B of the $40B backing its stablecoin was on deposit at the now-shuttered lender. The fate of that cash is now uncertain, with Silicon Valley Bank having been seized by the FDIC, and USDC – for the moment – has lost its dollar peg.</p>  
       <p>"Circle is currently protecting USDC from a black swan failure in the U.S. banking system," tweeted Circle Chief Strategy Officer Dante Disparte late Friday night. "Silicon Valley Bank is a critical bank in the U.S. economy and its failure – without a Federal rescue plan – will have broader implications for business, banking and entrepreneurs."</p> 
       <p>"During periods of heightened activity, conversions rely on USD transfers from the banks that clear during normal banking hours," Coinbase said in its tweet announcing the conversion pause. "When banks open on Monday, we plan to re-commence conversions."</p>
+    </div>
+  },
+  {
+    id: 150,
+    title: 'Nasdaq Bear Market: 5 Stunning Growth Stocks Youll Regret Not Buying on the Dip',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Bear', 'Stock'],
+    description: <div className="blog-desc">
+      <p>A 33% plunge in the previously high-flying Nasdaq Composite is the perfect time for growth investors to pounce on some amazing deals.</p>
+    </div>,
+    authorName: 'Sean Williams',
+    authorurl: 'https://www.fool.com/author/1813/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 11, 2023 - 5:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-154.jpg',
+    content: <div className="blog-content">
+      <p>A 33% plunge in the previously high-flying Nasdaq Composite is the perfect time for growth investors to pounce on some amazing deals.</p>
+      <p>While I hate being the bearer of bad news, stock market corrections are a perfectly normal part of the investing cycle. Since the beginning of 1950, the benchmark S&P 500 has undergone 39 separate double-digit percentage corrections, according to data from sell-side consultancy firm Yardeni Research. In other words, the drubbing Wall Street took in 2022 is par for the course when investing for the long run.</p>
+      <p>When the major indexes crossed the finish line last year, it was the growth-focused Nasdaq Composite (^IXIC) that was hit hardest. The Nasdaq, which led the broader market to new highs in 2021, shed 33% of its value in 2022 and continues to stew in a bear market.</p>
+      <p>But there's a silver lining in this bad news. Though we'll never be able to forecast exactly when a bear market will occur or how steep the decline will be, we do know that every previous bear market in the major U.S. stock indexes (including the Nasdaq) was eventually whisked away by a bull market. It effectively means that every bear market is the ideal time to put your money to work.</p>
+      <p>It's an especially lucrative time to go shopping for growth stocks. What follows are five stunning growth stocks you'll regret not buying on the Nasdaq bear market dip.</p>
+      <p><strong>Nio</strong></p>
+      <p>The first phenomenal growth stock just begging to be bought during the bear market decline is China-based electric vehicle (EV) manufacturer Nio (NIO). Although supply chain issues continue to weigh on Nio's production expansion efforts, a number of headwinds have been safely put in the back seat.</p>
+      <p>For the past couple of years, China stocks carried extra investment risk due to the country's zero-COVID strategy, as well as the possible delisting of China stocks by U.S. regulators. However, China has abandoned its zero-COVID strategy and reopened its economy. What's more, regulators gained hold of three years' worth of financial audits for Chinese firms, which removes the fear of delisting. In short, Nio is considerably de-risked from where things stood four months ago.</p>
+      <p>But what's really been impressive about this company is its various forms of innovation. Nio has been introducing at least one new EV each year and has seen sales of its ET7 and ET5 sedans take off since hitting showrooms last year. With the exception of January, when production was constrained by factory closures as a result of the Chinese New Year, Nio has delivered in excess of 10,000 EVs every month since June 2022, with its sedans regularly accounting for more than half of those deliveries.</p>
+      <p>Nio's out-of-the-box innovation is on display as well. In August 2020, the company announced the rollout of its battery-as-a-service (BaaS) subscription. BaaS allows its EV buyers to charge, swap, and upgrade batteries at more than 1,300 power swap stations and more than 1,200 power charger stations. In exchange for a reduced EV purchase price, Nio nets high-margin, recurring subscription revenue from buyers via BaaS and keeps buyers loyal to the brand.</p>
+      <p><strong>Exelixis</strong></p>
+      <p>The second amazing growth stock you'll be kicking yourself for not buying during the Nasdaq bear market dip is biotech stock Exelixis (EXEL). Despite occasional clinical trial failures, cancer-drug developer Exelixis is well positioned to grow by double digits.</p>
+      <p>A little over a week ago, Exelixis announced that a late-stage study involving its blockbuster drug Cabometyx in combination with Roche's Tecentriq failed to meet its primary endpoint of a statistically significant improvement in progression-free survival in a trial for patients with previously treated advanced kidney cancer.  But failures happen. It's part of being a drug developer.</p>
+	    <p>What's far more important is that Exelixis has around six dozen clinical trials ongoing involving Cabometyx as a monotherapy or combination treatment for a variety of cancer types. It only takes a handful of success stories to significantly expand Cabometyx's sales and pricing power. We've already witnessed one of these studies finding the mark, which led to Exelixis and Bristol Myers Squibb gaining first-line approval for their combination treatment for renal cell carcinoma.</p>
+	    <p>Furthermore, Exelixis has the cash to fund ongoing internal development, collaborations, and possibly even acquisitions. The company closed out 2022 with approximately $1.31 billion in cash, cash equivalents, and short-term investments, and had another $756.7 million in long-term investments. </p>	
+	    <p><strong>Walt Disney</strong></p>	
+	    <p>A third stunning growth stock you'll regret not adding during the Nasdaq bear market drop is the popular "House of Mouse," Walt Disney (DIS). Though Walt Disney is a mature business, it's expected to sustain a double-digit earnings growth rate for the next half-decade. That absolutely makes it a growth stock.</p>
+      <p>The biggest competitive edge that Disney offers is that its business can't be duplicated. While there are other theme parks consumers can visit and other movies on the big screen, Disney's characters and stories, along with the emotion, engagement, and imagination they evoke in consumers, can't be duplicated by any other company.</p>
+      <p>As I've previously suggested, the value of this irreplaceability can be seen in Walt Disney's pricing power. Since Disneyland opened its doors in Southern California in 1955, admission prices have risen by 10,300%. By comparison, the U.S. inflation rate has jumped a little over 1,000% over the same time span.  Disney has also been able to raise prices on its ad-free streaming service, Disney+, while losing only a small fraction of its subscribers. </p>
+      <p>The next step in Walt Disney's evolution is turning its money-losing streaming segment into a profit machine. Newly reappointed CEO Bob Iger increased monthly subscription prices and is targeting profitability for this segment toward the end of fiscal 2024. Once streaming becomes cash-flow positive, I'd be surprised to see Disney stock anywhere near $100 per share.</p>
+      <p><strong>Innovative Industrial Properties</strong></p>
+      <p>The fourth magnificent growth stock that you'll regret not scooping up during the Nasdaq's bear market swoon is marijuana-focused real estate investment trust (REIT) Innovative Industrial Properties (IIPR). In spite of rent-collection speed bumps in recent months, IIP, as Innovative Industrial Properties is known, can show patient investors the green.</p>
+      <p>The prevailing concern with IIP is that its on-time rental collection rate has dropped from 100% to 92% as of the end of February 2023. But it's important to understand that all REITs eventually deal with delinquencies. It's how companies handle their delinquencies that matters. IIP's fourth-quarter report and year-to-date update shows it's working through these delinquencies and should be able to sustain these revenue streams or outright sell these properties for cash.</p>
+      <p>Another key point with Innovative Industrial Properties is that 100% of its properties are triple-net leased (also known as "NNN leased"). NNN-leased properties require the tenant to cover all expenses, including utilities, maintenance, and even property tax and insurance. While NNN leases reduce the rental income IIP can expect to receive, it also removes any chance of surprise expenses or inflation hurting the company.</p>
+      <p>Lastly, Innovative Industrial Properties might be one of the few pot stocks benefiting from weed remaining illegal at the federal level. Since most cannabis companies have limited access to basic financial services, IIP has been able to work out sale-leaseback agreements that benefit both parties. Cultivators and processors get cash they sorely need from IIP, and IIP lands long-term tenants through this program.</p>
+      <p><strong>Alphabet</strong></p>
+      <p>A fifth stunning growth stock that you'll regret not buying during the Nasdaq bear market dip is Alphabet (GOOGL) (GOOG), the parent company of internet search engine Google, autonomous vehicle company Waymo, and streaming platform YouTube.</p>
+      <p>At the moment, advertising weakness is Alphabet's biggest headwind. When the probability of a recession materializing rises, advertisers pull back on their spending. But this is also a two-sided coin. Even though recessions are inevitable, they're typically short-lived. Buying ad-driven stocks during these short swoons often allows investors to take advantage of long-winded economic expansions.</p>
+      <p>Alphabet's competitive advantage isn't going away anytime soon, either. Since December 2018, data from GlobalStats shows that Google has accounted for roughly 91% to 93% of global internet search share. Having a 90-percentage-point lead over its next-closest competitor allows Google to command significant pricing power for ad placement.</p>
+      <p>Alphabet's ancillary operating segments provide plenty of promise, too. YouTube is the second most visited social platform in the world, with Shorts getting more than 50 billion daily views. Meanwhile, Google Cloud has worked its way up to a 10% share of global cloud infrastructure-service spending. </p>
+      <p>Based on both forward-year earnings and future cash flow, Alphabet is cheaper now than at any point since it became a publicly traded company.</p>
     </div>
   },
   {
@@ -3060,7 +3148,7 @@ const blogListdata = [
     id: 30,
     title: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
     slug: 'Bitcoin, Ether little changed; Polygon’s Matic token leads losers in top ten',
-    category: 'Latest Articles',
+    category: 'Crypto',
     subCategory: ['Bitcoin', 'Polygon', 'Token Leads'],
     description: <div className="blog-desc">
       <p>Bitcoin and Ether traded little-changed on Tuesday morning in Asia, while most other top 10 non-stablecoin cryptocurrencies fell. Polygon led the losers, along with Solana and Shiba Inu. U.S. equities gained ground on Monday after last week’s slump.</p>
@@ -3187,7 +3275,7 @@ const blogListdata = [
     id: 29,
     title: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
     slug: 'Bitcoin, Ether gain; Polygon, XRP biggest losers',
-    category: 'Latest Articles',
+    category: 'Crypto',
     subCategory: ['Bitcoin', 'Polygon', 'XRP'],
     description: <div className="blog-desc">
       <p>Bitcoin and Ethereum rose in Monday afternoon trade in Asia along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Asian markets dropped on Monday, following last Friday’s Wall Street selloff, as investors brace for more interest rate hikes in the U.S. due to persistently high inflation.</p>
@@ -3241,7 +3329,7 @@ const blogListdata = [
     id: 28,
     title: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
     slug: 'BNB Chain’s Second-Largest DeFi Protocol Venus to Accept Floki Tokens as Lending',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
     description: <div className="blog-desc">
       <p>Tokens of Shiba Inu-themed Floki can soon be used as collateral to borrow a basket of cryptocurrencies on Venus Protocol, the second-largest lending platform on the BNB Chain, Floki developers told CoinDesk on Friday.</p>
@@ -3296,7 +3384,7 @@ const blogListdata = [
     id: 27,
     title: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
     slug: 'DeFi Liquidity Protocol Synthetix Deploys Version 3 on Ethereum',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Floki Tokens', 'DeFi Protocol', 'BNB'],
     description: <div className="blog-desc">
       <p>On-chain liquidity and derivatives trading protocol Synthetix has deployed version 3 (v3) on the Ethereum mainnet following security audits, developers said Wednesday.</p>
@@ -3449,7 +3537,7 @@ const blogListdata = [
     id: 26,
     title: 'MarketsBitcoin, Ether fall as 2-year bond nears 15-year high',
     slug: 'Markets: Bitcoin, Ether fall as 2-year bond nears 15-year high',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Market', 'Bitcoin', 'Crypto'],
     description: <div className="blog-desc">
       <p>Bitcoin and Ether fell in Wednesday morning trading in Asia along with all other top 10 non-stablecoin cryptocurrencies by market capitalization. Polygon saw the biggest drop, while BNB dropped the least.</p>
@@ -3482,7 +3570,7 @@ const blogListdata = [
     id: 25,
     title: 'Stocks moving in after-hours: Coinbase, Palo Alto Networks, Caesars, Toll Brothers',
     slug: 'Stocks moving in after-hours: Coinbase, Palo Alto Networks, Caesars, Toll Brothers',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Market', 'Bitcoin', 'Crypto'],
     description: <div className="blog-desc">
       <p>Coinbase Global shares jumped after the crypto exchange’s fourth-quarter revenue of $629.1 million came in above Wall Street expectations of $581.1 million, according to data compiled by Bloomberg.</p>
@@ -3543,7 +3631,7 @@ const blogListdata = [
     id: 23,
     title: 'Bitcoin Layer 2 Stacks Networks STX Token Spikes 50% as Ordinals Boom',
     slug: 'Bitcoin Layer 2 Stacks Networks STX Token Spikes 50% as Ordinals Boom',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Bitcoin', 'Ordinal Boom', 'STX Token'],
     description: <div className="blog-desc">
       <p>STX, the native token of Bitcoin layer 2 Stacks Network, is surging as the recent arrival of the Ordinals protocol has unleashed a new narrative of non-fungible tokens (NFTs) and smart contracts on the Bitcoin blockchain.</p>
@@ -3578,7 +3666,7 @@ const blogListdata = [
     id: 24,
     title: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
     slug: 'Bitcoin gains, returns to US$25,000; XRP biggest winner in top 10 cryptos',
-    category: 'Latest Articles',
+    category: 'Crypto',
     subCategory: ['Bitcoin', 'Dollars', 'Crypto'],
     description: <div className="blog-desc">
       <p>Bitcoin and Ether prices rose in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies were mixed. XRP led gains at 2.37%, while Solana and Polygon dropped saw the largest declines.</p>
@@ -3609,7 +3697,7 @@ const blogListdata = [
     id: 22,
     title: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
     slug: 'Bitcoin exceeds 154,000 inscriptions in a month as Litecoin Ordinals launches',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Bitcoin', 'Litecoin', 'Crypto'],
     description: <div className="blog-desc">
       <p>The Bitcoin Network has recorded over 154,554 inscriptions since the launch of Bitcoin Ordinals on Jan. 21, a fork that enables digital assets to be inscribed on satoshis (sats), which is the lowest denomination of a Bitcoin.</p>
@@ -3683,7 +3771,7 @@ const blogListdata = [
     id: 21,
     title: 'Bitcoin dips below US$24,000 to start the trading week in Asia',
     slug: 'Bitcoin dips below US$24,000 to start the trading week in Asia',
-    category: 'Latest Articles',
+    category: 'Crypto',
     subCategory: ['Bitcoin', 'Trading', 'Asia'],
     description: <div className="blog-desc">
       <p>Bitcoin fell below US$24,000 in a mixed morning for the top 10 non-stablecoin cryptocurrencies by market capitalization on Monday in Asia. Solana posted the most gains in that list while leading memecoin Dogecoin dropped the most.</p>
@@ -3714,7 +3802,7 @@ const blogListdata = [
     id: 20,
     title: 'Bitcoin price nears $25,000 as crypto market reaches $1.17tn',
     slug: 'Bitcoin price nears $25,000 as crypto market reaches $1.17tn',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Bitcoin', 'Ordinal Boom', 'STX Token'],
     description: <div className="blog-desc">
       <p>Bitcoin is closing in on $25,000 per coin as the entire cryptocurrency market capitalisation rose to $1.17tn.</p>
@@ -3789,7 +3877,7 @@ const blogListdata = [
     id: 19,
     title: 'Binance secretly moved $400 million from its US partner to a trading firm managed by the crypto giants boss CZ, report says',
     slug: 'Binance secretly moved $400 million from its US partner to a trading firm managed by the crypto giants boss CZ, report says',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Binance', 'Crypto Giant', 'Trading'],
     description: <div className="blog-desc">
       <p>Binance secretly moved $400 million from its US partner to a trading firm owned by boss Changpeng Zhao, according to Reuters.</p>
@@ -3824,7 +3912,7 @@ const blogListdata = [
     id: 18,
     title: 'Top 5 China Stocks To Buy And Watch Now',
     slug: 'Top 5 China Stocks To Buy And Watch Now',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Binance', 'Crypto Giant', 'Trading'],
     description: <div className="blog-desc">
       <p>China is the world's No. 2 economy and home to dozens of companies that trade in the U.S. Right now, Pinduoduo parent PDD Holdings (PDD), Canadian Solar (CSIQ), BYD (BYDDF), Tencent Holdings (TCEHY) and Baidu (BIDU) are China stocks worth watching or potentially buying.</p>
@@ -3854,7 +3942,7 @@ const blogListdata = [
     id: 17,
     title: 'Bitcoin rises above US$23,000 after its first weekly ‘death cross’',
     slug: 'Bitcoin rises above US$23,000 after its first weekly ‘death cross’',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Bitcoin', 'Market wrap', 'Asia'],
     description: <div className="blog-desc">
       <p>Bitcoin, the world’s largest cryptocurrency by market capitalization, rose 8.86% in the week from Feb. 10 to Feb. 17, trading at US$23,764  at 7 p.m. on Friday in Hong Kong. Ether strengthened 7.86% in the same period to change hands at US$1,665.</p>
@@ -3893,7 +3981,7 @@ const blogListdata = [
     id: 16,
     title: 'Bitcoin, Ether prices rise as crypto market stages rebound; Solana biggest gainer among top 10',
     slug: 'bitcoin-Ether-prices-rise-as-crypto-market-stages-rebound-solana-biggest-gainer-among-top-10',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Market', 'Bitcoin', 'Crypto'],
     description: <div className="blog-desc">
       <p>Bitcoin and Ether rebounded in Thursday morning trading in Asia amid broad gains in the top 10 non-stablecoin cryptocurrencies after a bout of profit-taking and mixed economic indicators sent prices lower on Wednesday.</p>
@@ -3923,7 +4011,7 @@ const blogListdata = [
     id: 14,
     title: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
     slug: 'US STOCKS-Wall Street gains as solid GDP data offsets signs of economic weakness',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['US Stock', 'Markets', 'Economy'],
     description: <div className="blog-desc">
       <p>NEW YORK, Jan 26 (Reuters) - Wall Street advanced in choppy trading on Thursday as investors grappled with an onslaught of economic data and a string of mixed corporate earnings, all while eyeing the clock as it ticks down toward next week's Federal Reserve monetary policy meeting.</p>
@@ -3973,10 +4061,10 @@ const blogListdata = [
     id: 15,
     title: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
     slug: 'BNB steady after a 7% plunge – bulls must now handle this fresh hurdle',
-    category: 'Latest Articles',
+    category: 'Crypto',
     subCategory: ['Binanve Coin', 'BNB', 'Crypto'],
     description: <div className="blog-desc">
-      <p>Bitcoin [BTC] dropped from $23k to below $22.5k on Tuesday, pulling the altcoin market into a short-term plunge. Binance Coin [BNB] declined by 9% in the same period, dropping from $323 to $293. </p>
+      <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>
     </div>,
     authorName: 'Suzuki Shillsalot',
     authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
@@ -4009,10 +4097,10 @@ const blogListdata = [
     id: 13,
     title: 'Ethereum [ETH] metric sees correction: Hopes of a bull run rise',
     slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
-    category: 'Latest Articles',
+    category: 'Markets',
     subCategory: ['Market', 'Bitcoin', 'Crypto'],
     description: <div className="blog-desc">
-      <p>Bitcoin and Ether rebounded in Thursday morning trading in Asia amid broad gains in the top 10 non-stablecoin cryptocurrencies after a bout of profit-taking and mixed economic indicators sent prices lower on Wednesday.</p>
+      <p>Percent Supply in Profit was over 67% at press time, representing a four-month high for Ethereum.</p>
     </div>,
     authorName: 'Suzuki Shillsalot',
     authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
@@ -4047,7 +4135,7 @@ const blogListdata = [
     id: 12,
     title: 'S&P 500: On The Verge Of A Bullish Breakout - Week Starting Jan. 16th (Technical Analysis)',
     slug: 'rthereum-ETH-metric-sees-correction-Hopes-of-a-bull-run-rise',
-    category: 'Latest Articles',
+    category: 'Crypto',
     subCategory: ['Breakout', 'graphics', 'Crypto'],
     description: <div className="blog-desc">
       <p>This article is the first in what I hope will be a regular weekend series. A variety of technical analysis techniques will be used to look at probable moves for the S&P 500 (SPY) in the week ahead. No personal bias will be shown and no predictions will be made either.</p>
@@ -4134,7 +4222,7 @@ const blogListdata = [
     id: 11,
     title: 'ALTCOINSSolana showing signs of life even as TVL and SOL’s price decline massively',
     slug: 'altcoinssolana-showing-signs-of-life-even-as-TVL-and-SOLs-price-decline-massively',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['Solana', 'TVL', 'Crypto'],
     description: <div className="blog-desc">
       <p>SOL’s TVL and price suffered a decline while NFT trades ran smoothly.</p>
@@ -4178,7 +4266,7 @@ const blogListdata = [
     id: 9,
     title: '13% of Americans have now held crypto: JPMorgan research',
     slug: '13%-of-americans-have-now-held-crypto-JPMorgan-research',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['American', 'Morgan', 'Crypto'],
     description: <div className="blog-desc">
       <p>The JPMorgan report is based on a study of cash transfers from banks to crypto accounts for over 5 million customers.</p>
@@ -4214,7 +4302,7 @@ const blogListdata = [
     id: 10,
     title: 'Spike in Network Activity for Several Altcoins: Santiment Report',
     slug: 'spike-in-network-activity-for-several-altcoins-santiment-report',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['Spike network', 'Santiment report', 'Crypto'],
     description: <div className="blog-desc">
       <p>“big upticks in address activity and dormant wallets awakening to move their funds.”</p>
@@ -4243,7 +4331,7 @@ const blogListdata = [
     id: 8,
     title: 'Hong Kong Stock Exchange debuts ‘Asia’s first’ crypto futures ETFs',
     slug: 'hong-kong-stock-exchange-debuts-Asia-first-crypto-futures-etfs',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['Stock Exchange', 'ETFs', 'Crypto'],
     description: <div className="blog-desc">
       <p>The Hong Kong Exchanges and Clearing Ltd. launched two exchange-traded funds (ETFs) tracking cryptocurrency</p>
@@ -4272,7 +4360,7 @@ const blogListdata = [
     id: 7,
     title: 'Japan plans to ease corporate tax rates for cryptocurrency issuers',
     slug: 'japan-plans-to-ease-corporate-tax-rates-for-cryptocurrency-issuers',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['Crypto Tax', 'ETFs', 'Crypto'],
     description: <div className="blog-desc">
       <p>Japan’s ruling Liberal Democratic Party approved a proposal on Thursday that exempts companies issuing cryptocurrencies...</p>
@@ -4301,7 +4389,7 @@ const blogListdata = [
     id: 6,
     title: 'PayPal (PYPL) Integrates With MetaMask, Boosts Crypto Efforts',
     slug: 'paypal-(PYPL)-integrates-with-metaMask-boosts-crypto-efforts',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['Paypal', 'Metamask', 'Crypto'],
     description: <div className="blog-desc">
       <p>PayPal PYPL joined forces with ConsenSys in a bid to expand its offerings in the booming cryptocurrency space..</p>
@@ -4348,7 +4436,7 @@ const blogListdata = [
     id: 5,
     title: 'These latest Avalanche developments can help AVAX climb up the ladder',
     slug: 'these-latest-avalanche-developments-can-help-avax-climb-up-the-ladder',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['Avalanche', 'AVAX', 'ncx'],
     description: <div className="blog-desc">
       <p>Avalanche has recently started rolling out new features and forming new alliances to impact the ecosystem.</p>
@@ -4415,7 +4503,7 @@ const blogListdata = [
     id: 4,
     title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
     slug: 'what-does-aaves-growth-on-arbitrum-mean-for-the-current-state-of-l2s',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['American', 'Morgan', 'Crypto'],
     description: <div className="blog-desc">
       <p>According to new data from Dune Analytics, Aave [AAVE] users on Arbitrum witnessed major growth. </p>
@@ -4450,7 +4538,7 @@ const blogListdata = [
     id: 3,
     title: 'Binance’s bitcoin reserves are fully collateralized according to auditing firm Mazars',
     slug: 'binance’s-bitcoin-reserves-are-fully-collateralized-according-to-auditing-firm-mazars',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['binance news', 'bitcoin', 'Mazars'],
     description: <div className="blog-desc">
       <p>Auditing firm Mazars has released 
@@ -4504,7 +4592,7 @@ const blogListdata = [
     id: 2,
     title: 'Binance Bitcoin Reserves Are Overcollateralized, New Report Says',
     slug: 'binance-bitcoin-reserves-are-overcollateralized-new-report-says',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['binance news', 'bitcoin', 'Reports'],
     description: <div className="blog-desc">
       <p>Binance, the world’s largest crypto exchange by trading volume, released a new report on Wednesday from global 
@@ -4544,7 +4632,7 @@ const blogListdata = [
     id: 1,
     title: 'DEXs see increase in trading volume as investors tread carefully around CEXes',
     slug: 'DEXs-see-increase-in-trading-volume-as-investors-tread-carefully-around-CEXes',
-    category: 'Press News',
+    category: 'NCX Media Mentions',
     subCategory: ['American', 'Morgan', 'Crypto'],
     description: <div className="blog-desc">
       <p>With the recent events in the crypto space, investors seem to be putting more faith in DEXes</p>
