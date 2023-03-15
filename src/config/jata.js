@@ -3,7 +3,7 @@ const blogListdata = [
     id: 151,
     title: 'Facebook Parent Meta Plans 10,000 Job Cuts in New Round of Layoffs',
     category: 'Markets',
-    subCategory: ['Meta', 'Facebook', 'Job'],
+    subCategory: ['Meta', 'Facebook', 'Market'],
     description: <div className="blog-desc">
       <p>Meta Chief Executive Mark Zuckerberg said in an email to staff on Tuesday that the company would in the coming months conduct multiple rounds of job cuts, as well as cancel some projects and reduce hiring rates as part of what he has dubbed the “year of efficiency.”</p>
     </div>,
