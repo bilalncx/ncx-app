@@ -1,5 +1,107 @@
 const blogListdata = [
   {
+    id: 151,
+    title: 'Facebook Parent Meta Plans 10,000 Job Cuts in New Round of Layoffs',
+    category: 'Markets',
+    subCategory: ['Meta', 'Facebook', 'Job'],
+    description: <div className="blog-desc">
+      <p>Meta Chief Executive Mark Zuckerberg said in an email to staff on Tuesday that the company would in the coming months conduct multiple rounds of job cuts, as well as cancel some projects and reduce hiring rates as part of what he has dubbed the “year of efficiency.”</p>
+    </div>,
+    authorName: 'Sam Schechner',
+    authorurl: 'https://www.wsj.com/news/author/sam-schechner',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 14, 2023 - 6:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-155.jpg',
+    content: <div className="blog-content">
+      <p>Meta Platforms Inc. META 7.25%increase; green up pointing triangle said it would cut roughly 10,000 jobs over the coming months, the Facebook parent’s META 7.25%increase; green up pointing triangle second wave of mass layoffs in what it says is an effort to be more efficient in a difficult economy.</p>
+      <p>Meta Chief Executive Mark Zuckerberg said in an email to staff on Tuesday that the company would in the coming months conduct multiple rounds of job cuts, as well as cancel some projects and reduce hiring rates as part of what he has dubbed the “year of efficiency.”</p>
+      <p>Company recruitment teams will be cut first, followed by restructuring and layoffs in its technology groups in late April, Mr. Zuckerberg said. Business teams will face layoffs in May, he added. The company will also stop hiring for about 5,000 open positions.</p>
+      <p>Mr. Zuckerberg said his company must cope with a longer term change in the economy, marked by the end of low interest rates, growing geopolitical tensions and costly new regulations.</p>
+      <p>“At this point, I think we should prepare ourselves for the possibility that this new economic reality will continue for many years,” Mr. Zuckerberg wrote. “Given this outlook, we’ll need to operate more efficiently than our previous headcount reduction to ensure success.”</p>
+      <p>Meta said in a securities filing Tuesday that it expects to lower its annual expenses by roughly $3 billion from an estimated range it gave on Feb. 1. It now expects to spend a total of $86 billion to $92 billion this year, including the costs of its layoffs and restructuring, which it said could total $3 billion to $5 billion.</p>
+      <p>Meta’s share price rose more than 7% in Tuesday trading to just above $194, far outpacing the broader market. The stock is up more than 60% so far this year, though well below its all-time high of more than $380 in September 2021.</p>
+      <p>Tuesday’s announcements come after Meta’s layoff of about 11,000 employees—or roughly 13% of its workforce—last fall, in the first broad head-count reductions in the company’s history. The new round of cuts is likely to add up to roughly the same magnitude as those layoffs, The Wall Street Journal reported last week.</p> 
+      <p>The new rounds of layoffs are likely to hit non-engineering roles especially hard, and among projects that will be cut are some wearable devices that were in the works at Reality Labs, Meta’s hardware and metaverse division, the Journal reported.</p> 
+      <p>While saying that layoffs were difficult, Mr. Zuckerberg in his email on Tuesday also described what he said were the advantages of a leaner organization, expanding on a new view of management for the current economy that he has been laying out in recent months.</p>
+      <p>He said that many managers will “become individual contributors.” He also said that managers might now have up to 10 direct reports, rather than just a handful because the company now doesn’t expect to increase its head count as quickly as in the past.</p>
+      <p>“It’s well-understood that every layer of a hierarchy adds latency and risk aversion in information flow and decision-making,” Mr. Zuckerberg said. “Every manager typically reviews work and polishes off some rough edges before sending it further up the chain.” He said the company will be “focused on canceling projects that are duplicative or lower priority” because those can take broader resources and managers’ attention from core priorities.</p>
+      <p>“In retrospect, I underestimated the indirect costs of lower priority projects,” Mr. Zuckerberg wrote.</p>
+      <p>Mr. Zuckerberg said the company analyzed performance data and found that engineers who joined the company in person before working remotely or remained in person performed better on average than those who joined the company remotely. The analysis also showed that engineers perform better on average when they work in person with teammates at least three days a week, he said. The company’s hypothesis is that in-person work helps build trust and is more effective, he said.</p>
+      <p>He encouraged employees to find more time to work with colleagues in person. “We’re focusing on understanding this further and finding ways to make sure people build the necessary connections to work effectively,” he said Tuesday.</p>
+      <p>Meta reported a head count of 86,482 employees at the end of December, up 20% from a year earlier, but said that figure still included most of the 11,000 employees affected by the November layoffs.</p>
+      <p>Meta’s new layoffs add to waves of job cuts that have roiled Silicon Valley, where tech giants are now retrenching after adding employees by the tens of thousands through the pandemic. Technology companies including Amazon.com Inc. and Google parent Alphabet Inc. have cut thousands of jobs in recent months.</p>
+      <p>Since 2022, layoff tallies at tech companies have reached nearly 300,000 workers, according to Layoffs.fyi, a site that is tracking job cuts in the industry. Broadly, employment in the information industry was unchanged between July and January, according to federal data. Total employment rose in that time.</p>
+      <p>Meta said Tuesday that it plans to extend a hiring freeze and pause internal transfers in the company while the layoffs and restructuring occur. Those freezes will lift in each unit once the restructuring there is complete.</p> 
+      <p>U.S. employees affected by the layoffs will get 16 weeks of severance pay, plus an additional two weeks for every year they worked at Meta, the company said. Outside the U.S., packages will vary depending on local laws.</p>
+      </div>
+  },
+  {
+    id: 153,
+    title: 'U.S. prosecutors probing collapse of Silicon Valley Bank -source',
+    category: 'Markets',
+    subCategory: ['Slicon Valley', 'Bank', 'Collapse'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - U.S. prosecutors are investigating the collapse of Silicon Valley Bank, according to a source familiar with the matter, as scrutiny mounts over the firm's sudden collapse and regulators scramble to contain the fallout.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 14, 2023 - 6:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-157.jpg',
+    content: <div className="blog-content">
+      <p><strong>In this article:</strong></p>
+	    <p>(Reuters) - U.S. prosecutors are investigating the collapse of Silicon Valley Bank, according to a source familiar with the matter, as scrutiny mounts over the firm's sudden collapse and regulators scramble to contain the fallout.</p>
+	    <p>The U.S. Justice Department is probing the sudden demise of the bank, which was shuttered on Friday following a bank run, the source said, declining to be named as the inquiry is not public. The Securities and Exchange Commission has launched a parallel investigation, according to the Wall Street Journal, which first reported the probes.</p>	
+	    <p>Spokespeople for the SEC, SVB and the Justice Department declined to comment.</p>	
+	    <p>The investigation is in early stages and may not result in allegations of wrongdoing or charges being filed, the source said. Officials are also examining stock sales by officers of SVB Financial Group, which owned the bank, the WSJ reported, citing people familiar with the matter.</p>
+      <p>SEC Chair Gary Gensler on Sunday said in a statement the agency is particularly focused on monitoring for market stability and identifying and prosecuting any form of misconduct that might threaten investors during periods of volatility.</p>
+      <p>The rapid demise of Silicon Valley Bank and the fall of Signature Bank have left regulators racing to contain risks to the rest of the sector. On Tuesday, ratings agency Moody's cut its outlook on the U.S. banking system to "negative" from "stable."</p>
+      <p>SVB Financial Group and two top executives were sued this week by shareholders, who accused them of concealing how rising interest rates would leave its Silicon Valley Bank unit susceptible to a bank run.</p>
+      <p>(Reporting by Chris Prentice in New York and Mehnaz Yasmin in Bengaluru; Editing by Krishna Chandra Eluri, Saumyadeb Chakrabarty and Nick Zieminski)</p>
+    </div>
+  },
+  {
+    id: 152,
+    title: 'US stocks rise as inflation data comes in line with expectations and investors shake off SVB fears',
+    category: 'Markets',
+    subCategory: ['US', 'SVB', 'Inflation'],
+    description: <div className="blog-desc">
+      <p>US stocks rallied Tuesday as traders digested the latest inflation data, with the Dow Jones Industrial Average on track to snap a five-day slump.</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 14, 2023 - 5:34 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-156.jpg',
+    content: <div className="blog-content">
+      <ul><li>US stocks rose as investors digested the latest CPI data, which came in line with estimates.</li></ul>
+      <ul><li>The Dow Jones Industrial Average is on track to break its five-day losing streak.</li></ul>
+      <ul><li>Shares of regional banks are staging a comeback after cratering on SVB contagion concerns.</li></ul>
+      <p>US stocks rallied Tuesday as traders digested the latest inflation data, with the Dow Jones Industrial Average on track to snap a five-day slump.</p>
+	    <p>The consumer price index increased 0.4% in February from January, putting the annual rate at 6%. Both were in line with estimates and signaled continued cooling in inflation as the Federal Reserve weighs its next step on interest rates.</p>
+	    <p>Regional bank stocks staged a comeback after getting demolished on Silicon Valley Bank and Signature Bank contagion concerns on Monday. Shares of First Republic, PacWest, and Western Alliance were up double-digit percentage points.</p>	
+	    <p>The collapse of both banks has fueled speculation the Fed will take a less hawkish stance. Goldman Sachs predicted the central bank will pause interest rate hikes at next week's FOMC meeting, citing "considerable uncertainty."</p>	
+	    <p>"In light of recent stress in the banking system, we no longer expect the FOMC to deliver a rate hike at its March 22 meeting with considerable uncertainty about the path beyond March," analysts wrote in a Sunday note.</p>
+      <p><strong>Here's where US indexes stood shortly after the 9:30 a.m. ET open on Tuesday:</strong></p>
+      <ul><li>S&P 500: 3,911.03, up 1.43%</li></ul>
+      <ul><li>Dow Jones Industrial Average: 32,136.72, up 1.00% (317.58 points)</li></ul>
+      <ul><li>Nasdaq Composite: 11,366.08, up 1.58%</li></ul>
+      <p><strong>Here's what else is happening this morning:</strong></p>
+      <ul><li>The Fed will launch an investigation into its own oversight of SVB.</li></ul>
+      <ul><li>Three of crypto's most important banks have been closed. Industry experts weighed in on what's next for the trillion-dollar market.</li></ul>
+      <ul><li>Citadel boss Ken Griffin told the Financial Times that the government's decision to rescue SVB depositors shows US capitalism "breaking down before our eyes."</li></ul>
+      <ul><li>First Republic and Western Alliance stock are under review for a possible downgrade by Moody's.</li></ul>
+      <p><strong>In commodities, bonds and crypto:</strong></p>
+      <ul><li>West Texas Intermediate crude oil fell 2.7% to $72.76 per barrel. Brent crude, oil's international benchmark, dropped 2.2% to $79.00.</li></ul>
+      <ul><li>Gold dipped 0.3% $1,911 per ounce.</li></ul>
+      <ul><li>The yield on the 10-year Treasury fell 9.6 basis points to 3.61%.</li></ul>
+      <ul><li>Bitcoin jumped 5.6% to $22,382.</li></ul>
+    </div>
+  },
+  {
     id: 155,
     title: 'Bitcoin, Ether extend gains as U.S. regulators take charge of banking industry turmoil',
     category: 'Crypto',
@@ -28,6 +130,31 @@ const blogListdata = [
       <ul><li>The Forkast NFT 500 index rose 0.7% to 4,064.39. Planet IX – Gravity Grade rallied 51.67% as the day’s biggest gainer, followed by EGoldMiner that strengthened 44.63%.</li></ul>
       <ul><li>European stocks traded slightly higher after a two-day sell-off. The STOXX 600 inched up 0.1% and Germany’s DAX 40 rose 0.53%, while Britain’s FTSE 100 fell 0.32% to a two-month low, as investors assessed spillover effects from the collapse of SVB and Signature Bank.</li></ul>
       <ul><li>HSBC’s shares fell 1.28% during the day, following news that the bank would inject £2 billion (US$2.4 billion) of liquidity into the U.K. unit of SVB.</li></ul>
+    </div>
+  },
+  {
+    id: 154,
+    title: 'Circle exec Dante Disparte calls on Congress to pass legislation to regulate stablecoins',
+    category: 'Crypto',
+    subCategory: ['Circle', 'Stablecoin', 'legislation'],
+    description: <div className="blog-desc">
+      <p>Yahoo Finance’s Jennifer Schonberger joins the Live show to discuss Circle Chief Strategy Officer Dante Disparte’s call on Congress for the urgent approval of stablecoin regulation.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 13, 2023 - 7:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-158.jpg',
+    content: <div className="blog-content">
+      <p>Yahoo Finance’s Jennifer Schonberger joins the Live show to discuss Circle Chief Strategy Officer Dante Disparte’s call on Congress for the urgent approval of stablecoin regulation.</p>
+      <p>RACHELLE AKUFFO: All right, well, turning now to Yahoo Finance's Jennifer Schonberger, who's been following this story all day and has more on this. Hey, Jennifer.</p>
+      <p>JENNIFER SCHONBERGER: Hey there, Rachelle. That's right. Just spoke with Circle's Chief Policy Officer and Head of Strategy Dante Disparte, who is urgently calling on Congress to pass legislation to regulate stablecoins in the wake of Silicon Valley Bank's failure that led their stablecoin to break the buck.</p>
+      <p>In a conversation just moments ago, Disparte saying that he favors legislation from House Financial Services Committee Chair and Ranking Member Patrick McHenry and Maxine Waters. Disparte telling me, quote, "I have been uploading to the internet since 2019. And since 2019, there has been an ongoing persistent conversation about risk. And we've been met with complete inaction."</p>
+      <p>"I do think if this is the digital assets Dodd-Frank moment, then it is the time to act. Just as it took 2008 to get comprehensive banking reforms, I think it's well past time that the US acts. And to act is not to ban innovation, it's to encourage responsible innovation. But there is a shortfall in action right now"</p>
+      <p>Now, Disparte also told me it was a run on a bank that triggered a loss of confidence in a fully reserved digital dollar. He says, that's the irony. Whereas, with the Tarra LUNA blowup, he called that financial alchemy of the very worst kind. He says, the way Circle operates is more conservative than the Paypals of the world, and it was a loss in confidence in a bank that triggered a crisis and risk in Circle's business.</p>
+	    <p>Now, Circle's stablecoin broke the buck after it revealed that it had a $3.3 billion in reserves tied up in Silicon Valley Bank, causing investors to dump the stablecoin. Circle pledged from its balance sheet over the weekend to make any holder whole If the bank didn't go through an orderly wind down. And that helped to restore that deep peg on the chain.</p>
+	    <p>Circle holds 80% of its reserves in short term treasuries and 20% in cash. As a depositor of Silicon Valley Bank, Circle will be made whole by the FDIC. Now, Rachelle, Disparte told me that there is a serious policy conversation that needs to be had here. And that regulators' intervention over the weekend was the right move to stave off contagion. I will have more on our website on finance.yahoo.com. Rachelle.</p>
     </div>
   },
   {
