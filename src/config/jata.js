@@ -1,5 +1,36 @@
 const blogListdata = [
   {
+    id: 155,
+    title: 'Bitcoin, Ether extend gains as U.S. regulators take charge of banking industry turmoil',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Banking Industry', 'US'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether rose the most in the top 10 non-stablecoin cryptocurrencies by market capitalization on Tuesday afternoon in Asia. Cryptocurrencies have been on a rebound since U.S. regulators took charge of the failures in the banking industry and moved to protect deposits across crypto-linked banks. The asset class is also benefiting from market talk that turmoil in the banking industry could prompt the U.S. Federal Reserve to halt interest rate increases.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 14, 2023 - 3:18 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-159.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin and Ether rose the most in the top 10 non-stablecoin cryptocurrencies by market capitalization on Tuesday afternoon in Asia. Cryptocurrencies have been on a rebound since U.S. regulators took charge of the failures in the banking industry and moved to protect deposits across crypto-linked banks. The asset class is also benefiting from market talk that turmoil in the banking industry could prompt the U.S. Federal Reserve to halt interest rate increases.</p>
+	    <h3><strong>Fast facts</strong></h3>
+      <ul><li>Bitcoin, world’s largest cryptocurrency, gained 8.2% to US$24,404 in 24 hours to 4 p.m. in Hong Kong, bringing its weekly gains to 8.8%, according to CoinMarketCap data. Ethereum rose 3.93% to US$1,677, after rising 6.72% on the week.</li></ul>
+      <ul><li>Dogecoin strengthened 2.31% to US$0.07242, but lost 3.54% in the past seven days. Polygon’s Matic token gained 2.04% to US$1.16, after rising 0.83% on the week.</li></ul>
+      <ul><li>USD Coin (USDC), the second largest stablecoin by market capitalization, rose 0.75% to US$0.999, but slipped 0.09% on the week. USDC had momentarily lost its peg to the U.S. dollar after the shutdown of Silicon Valley Bank (SVB) but recovered after Circle, its issuer, announced a new partnership with Cross River Bank.</li></ul>
+      <ul><li>“We expect the stress in the banking sector, and the wider impact on confidence, now will give the central bank [U.S. Federal Reserve] cause for pause on its rate hike program,” said Nigel Green, chief executive of financial advisory firm deVere Group.</li></ul>
+      <ul><li>The global crypto market capitalization gained 4.39% to US$1.07 trillion, while the total crypto market volume rose 16.93% to US$90.47 billion in the past 24 hours.</li></ul>
+      <ul><li>All Asian equity markets dropped on Tuesday as investors braced for the biggest U.S. bank failure since 2008. Hong Kong’s Hang Seng Index dropped 2.27%, while South Korea’s Kospi fell 2.56% and Japan’s Nikkei 225 declined 2.19%.</li></ul>
+      <ul><li>The Shanghai Composite lost 0.72% while the Shenzhen Component Index dropped 0.77%, despite China announcing it will resume issuing visas from March 15 as it eased its Covid-zero policy. Investors are also looking forward to a series of China’s economic indicators expected to be published on Wednesday.</li></ul>
+      <ul><li>Investors also await U.S. inflation data later on Tuesday. The February consumer price index (CPI), a key inflation indicator, is expected at 6% on year, dropping from the 6.4% for the year that ended January 2023, but still well above the U.S. central bank’s 2% target.</li></ul>
+      <ul><li>“Despite most warning signs flashing red, the U.S. has continued to defy gravity,” said Keith Wade, chief economist and strategist at Schroders. “We still think that higher interest rates, which we now expect to peak at 5.25% in the second quarter of 2023, will lead to a recession. However, it is likely to be relatively short and shallow.”</li></ul>
+      <ul><li>The Forkast NFT 500 index rose 0.7% to 4,064.39. Planet IX – Gravity Grade rallied 51.67% as the day’s biggest gainer, followed by EGoldMiner that strengthened 44.63%.</li></ul>
+      <ul><li>European stocks traded slightly higher after a two-day sell-off. The STOXX 600 inched up 0.1% and Germany’s DAX 40 rose 0.53%, while Britain’s FTSE 100 fell 0.32% to a two-month low, as investors assessed spillover effects from the collapse of SVB and Signature Bank.</li></ul>
+      <ul><li>HSBC’s shares fell 1.28% during the day, following news that the bank would inject £2 billion (US$2.4 billion) of liquidity into the U.K. unit of SVB.</li></ul>
+    </div>
+  },
+  {
     id: 142,
     title: 'Pfizer buys biotech firm Seagen for $43 billion',
     category: 'Markets',
