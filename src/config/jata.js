@@ -46,7 +46,7 @@ const blogListdata = [
     id: 177,
     title: 'GLOBAL MARKETS-Selling slows as Credit Suisse taps central bank cash',
     category: 'Indices',
-    subCategory: ['Global', 'Markets', 'Credit Suisse'],
+    subCategory: ['Global', 'Markets', 'Bank'],
     description: <div className="blog-desc">
       <p>Markets took a moment's respite on Thursday after Credit Suisse said it would borrow as much as 50 billion francs ($53.7 billion) from the Swiss central bank to steady itself, but trade was very tense as investors worried where banking stress might show up next.</p>
     </div>,
