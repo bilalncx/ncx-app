@@ -1,5 +1,819 @@
 const blogListdata = [
   {
+    id: 176,
+    title: 'Asian stocks fall, Europe gains after Credit Suisse jitters',
+    category: 'Indices',
+    subCategory: ['Asian', 'stocks', 'Credit suisse'],
+    description: <div className="blog-desc">
+      <p>BEIJING (AP) — European shares advanced Thursday following a retreat in Asia after Credit Suisse said it would borrow up to $54 billion from Switzerland's central bank to shore up its finances, possibly easing worries about a bank crisis following the failure of two U.S. lenders.</p>
+    </div>,
+    authorName: 'JOE McDONALD',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 9:52 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-180.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>BEIJING (AP) — European shares advanced Thursday following a retreat in Asia after Credit Suisse said it would borrow up to $54 billion from Switzerland's central bank to shore up its finances, possibly easing worries about a bank crisis following the failure of two U.S. lenders.</p>
+	    <p>London, Frankfurt and Wall Street futures gained. Shanghai, Tokyo and Hong Kong declined as Asian bank stocks slid, reversing Wednesday's gains. Oil prices rose.</p>	
+	    <p>Wall Street's benchmark S&P 500 lost 0.7% on Wednesday after Credit Suisse shares fell 30%. That fueled jitters about global banks that are under strain following interest rate hikes by the Federal Reserve and other central banks to cool inflation.</p>	
+	    <p>“Expect confidence to remain fragile,” Chris Turner, Francesco Pesole and Frantisek Taborsky of ING said in a report.</p>
+      <p>The turmoil over banks will complicate a European Central Bank decision due to be announced Thursday about another possible interest rate hike, they said. It is “casting doubts on whether policymakers will raise rates at all,” they said.</p>
+      <p>In early trading, the FTSE 100 in London gained 1.4% to 7,447.53. The DAX in Frankfurt jumped 1.7% to 14,988.39 and the CAC 40 in Paris added 1.7% to 6,999.23. The Swiss Market index was up 1.2%.</p>
+      <p>On Wall Street, the future for the benchmark S&P 500 index was up 0.1%. That for the Dow Jones Industrial Average was unchanged.</p>
+      <p>On Wednesday, the Dow lost 0.9% and the Nasdaq composite closed up 0.1%.</p>
+      <p>In Asia, the Nikkei 225 in Tokyo retreated 0.8% to 27,010.61. Mizuho Bank was down 3.9%, while Resona Holdings, a major second-tier bank, lost 4.8%.</p>
+      <p>The Hang Seng in Hong Kong shed 1.7% to 19,203.91. Standard Chartered Plc lost 5.4% and HSBC was 2.4% lower.</p>
+      <p>The Shanghai Composite Index lost 1.1% to 3,226.89 after government data Wednesday showed the Chinese economy is recovering more slowly than expected following the lifting of anti-virus controls.</p>
+      <p>Search engine Baidu's share price plunged 10% and eventually closed down 6.4% in Hong Kong after the company unveiled its rival to the Microsoft-backed ChatGPT in a pre-recorded rather than a live presentation.</p>
+      <p>China's banks don't face the same pressures as foreign lenders because Beijing has held its benchmark lending rate steady since mid-2022 and keeps the country sealed off from global capital flows. State-owned Industrial & Commercial Bank of China, Ltd. and Bank of China, Ltd. were up 0.1%.</p>
+      <p>The Kospi in Seoul was off less than 0.1% at 2,377.91 and Sydney's S&P-ASX 200 sank 1.5% to 6,965.50.</p>
+      <p>Credit Suisse has been fighting troubles for years, including losses from the 2021 collapse of investment firm Archegos Capital.</p>
+      <p>Its share price plunge reignited worries about the global industry after Silicon Valley Bank and Signature Bank collapsed in the second- and third-biggest U.S. bank failures in history.</p>
+      <p>On Wall Street, bank stocks plunged Monday, recovered Tuesday and tumbled again Wednesday.</p>
+      <p>First Republic Bank sank 21.4%, a day after soaring 27%. JPMorgan Chase slid 4.7%.</p>
+      <p>Banks are struggling after the Federal Reserve's fastest series of rate hikes in decades caused prices of assets on their balance sheets to decline.</p>
+      <p>Stress in the financial system could push the Fed to hold off on hiking rates at its meeting next week or at least refrain from the larger rate hike it had been potentially signaling. But inflation at 6% in February still is well above the Fed's 2% target.</p>
+      <p>Weaker-than-expected economic reports released Wednesday may have allayed some of those worries.</p>
+      <p>One showed that inflation at the wholesale level slowed by much more last month than economists expected. It’s still high at a 4.6% level versus a year earlier, but that was better than the 5.4% that was forecast.</p>
+      <p>Other data showed that U.S. spending at retailers fell by more than expected last month. Such data could raise worries about a recession on the horizon, but they may also take some pressure off inflation in the near term.</p>
+      <p>In energy markets, benchmark U.S. crude gained 89 cents to $68.50 per barrel in electronic trading on the New York Mercantile Exchange. The contract plummeted $3.72 on Wednesday to $67.61. Brent crude, the price basis for international oil trading advanced $1.05 cents to $74.74 per barrel in London. It lost $3.76 to $73.69 the previous session.</p>
+      <p>The dollar declined to 132.87 yen from Wednesday's 133.46 yen. The euro gained to $1.0615 from $1.0586.</p>
+    </div>
+  },
+  {
+    id: 177,
+    title: 'GLOBAL MARKETS-Selling slows as Credit Suisse taps central bank cash',
+    category: 'Indices',
+    subCategory: ['Global', 'Markets', 'Credit Suisse'],
+    description: <div className="blog-desc">
+      <p>Markets took a moment's respite on Thursday after Credit Suisse said it would borrow as much as 50 billion francs ($53.7 billion) from the Swiss central bank to steady itself, but trade was very tense as investors worried where banking stress might show up next.</p>
+    </div>,
+    authorName: 'Tom Westbrook',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 9:20 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-181.jpg',
+    content: <div className="blog-content">
+	    <h4>SINGAPORE, March 16 (Reuters) -</h4>
+	    <p>Markets took a moment's respite on Thursday after Credit Suisse said it would borrow as much as 50 billion francs ($53.7 billion) from the Swiss central bank to steady itself, but trade was very tense as investors worried where banking stress might show up next.</p>
+	    <p>Asian shares fell but without the frenzied drops seen overnight in Europe. European futures were last up 2%, while S&P 500 futures rose 0.5%.</p>	
+	    <p>Any relief was tinged with fear of what may go wrong next.</p>	
+	    <p>A week ago a start-up lender in California failed and now a systemic bank in one of Europe's financial capitals is in enough trouble to seek authorities' help. Credit Suisse shares dropped 24% on Wednesday.</p>
+      <p>Safe assets like bonds, gold and dollars were in favour.</p>
+      <p>"I think we're getting into the hard hat territory again," said Damian Rooney, a dealer at Perth stockbroker Argonaut.</p>
+      <p>"The word contagion is knocking about...we're getting fear across the whole board here," he said. "The trouble is with the unwinding - you don't know what you don't know."</p>
+      <p>MSCI's index of Asia-Pacific shares outside Japan fell 1% to its lowest this year. Japan's bank shares recovered some even deeper early losses, but were last down 4% and the Nikkei dropped 1.3%.</p>
+      <p>Insurers, banks, miners and consumer stocks were among the biggest losers across Asia's markets as worries grow that a potential credit crunch can worsen a looming economic slowdown.</p>
+      <p>Selling pressure eased for commodities and buying in gold, bonds and dollars backed off but without really recovering any of the losses in growth-exposed assets or handing back much of the astonishing gains that have been seen in bond markets.</p>
+      <p>Bonds have soared while markets have radically re-priced the interest rate outlook, betting central banks will be quickly cutting rates while stability fears rattle the financial system.</p>
+      <p>Two-year U.S. Treasuries are eying their best week since 1987 and yields, which fall when prices rise, are down more than 66 basis points since Friday.</p>
+      <p>An index of bond market volatility - the ICE BofA MOVE index - has hit its highest level since the 2008 financial crisis.</p>
+      <p>'SOMETHING UGLY'</p>
+      <p>The European Central Bank's meeting later on Thursday looms as a big test of the bond rally, as the first scheduled policy announcement since bank jitters began in the U.S. last week.</p>
+      <p>ECB policymakers had flagged a 50 basis point hike and President Christine Lagarde was just this month saying it was very likely. But market pricing implies just a 10% chance of that happening now and traders are on edge about the outcome.</p>
+      <p>"We've got to get through ECB and see how that goes down. And then the impact of that may well impact on what we think about the Fed next week," said ING economist Rob Carnell.</p>
+      <p>"I think it's going to be a very volatile period until we get this out of the way...it feels like at these interest rate levels the risk of finding that you've lifted a stone and something ugly is underneath gets higher."</p>
+      <p>The euro and Swiss franc found some support from the central bank's help for Credit Suisse, steadying after steep overnight drops.</p>
+      <p>The euro last stood at $1.0601 and the franc at 0.9300 to the dollar. The flight to safety lent support to the yen and it rose about 0.5% to 132.75 per dollar.</p>
+      <p>The New Zealand dollar fell 0.4% to $0.6161 after growth data missed forecasts.</p>
+      <p>($1 = 0.9310 Swiss francs) ($1 = 0.9301 Swiss francs)</p>
+    </div>
+  },
+  {
+    id: 171,
+    title: 'Yen Demand Catapults as Banking Crisis Wrecks US, Europe Havens',
+    category: 'Currencies',
+    subCategory: ['YEN', 'Banking', 'US'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The yen is making a push to regain its crown as the go-to haven as a banking crisis dents the appeal of its US and European peers.</p>
+    </div>,
+    authorName: 'Ruth Carson and Garfield Reynolds',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 8:44 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-175.jpg',
+    content: <div className="blog-content">
+	    <h3><strong>Yen Demand Catapults as Banking Crisis Wrecks US, Europe Havens</strong></h3>
+      <h3>In this article:</h3>
+	    <p>(Bloomberg) -- The yen is making a push to regain its crown as the go-to haven as a banking crisis dents the appeal of its US and European peers.</p>
+	    <p>Japan’s currency has outperformed all its Group-of-10 counterparts in the past five days as traders sought the safest assets amid a surge in volatility. In contrast, a gauge of the dollar sank 0.7% in the immediate aftermath of Silicon Valley Bank’s collapse while the Swiss franc dropped as much as 2% Wednesday.</p>	
+	    <p>“The yen is being seen as a safe haven again, and there appear to be very few of those at the moment,” said Andrew Ticehurst, a rates strategist at Nomura Holdings Inc. in Sydney. “With SVB impacting the US dollar as Fed rate hikes get put in doubt, and Credit Suisse impacting ECB thinking and the euro and Swiss franc outlook, the yen can buck the trend.”</p>	
+	    <p>The turmoil in the banking sector is reshaping the outlook for monetary tightening, as investors speculate that the crisis may stay the hand of central banks. Upcoming policy reviews by the European Central Bank and the Federal Reserve are the next event risk, with some investors warning that authorities may continue to tighten to tame inflation.</p>
+      <p>The expected peak for the Fed policy rate — which exceeded 5.5% less than a week ago — is down to about 4.85%, pricing in an increase in May, with a quarter-point hike at next week’s review deemed a coin toss. Traders see the ECB opting for a quarter-point increase on Thursday, compared with expectations for a half-point hike last week.</p>
+      <p>Analysts are similarly less enthused about the franc as the currency’s fortunes are seen to be closely linked to those of troubled lender Credit Suisse Group AG. The bank is seeking funding from the Swiss National Bank to shore up investor confidence and Chief Executive Officer Ulrich Koerner has said its financial position is sound.</p>
+      <p>“The yen seems more popular now than the Swiss franc, which is another safe currency, due to the emergence of the Credit Suisse issue,” said Ayako Sera, strategist at Sumitomo Mitsui Trust Bank Ltd. in Tokyo. “Safety is the key word in the market right now.”</p>
+      <p>Surplus Challenges</p>
+      <p>Still, Japan’s currency has several factors working against it. For one, the nation would probably require overseas money to help fund a record current-account deficit, and this may expose the yen to volatile foreign flows.</p>
+      <p>Japan’s ultra-low rates are another worry, and any further Fed tightening may widen the rate gap and unleash another wave of selling in the yen.</p>
+      <p>But until that happens, Japan’s currency looks likely to continue attracting buyers for now, strategists said.</p>
+      <p>“We see recent developments as USD bearish,” Patrick Bennett, strategist at Canadian Imperial Bank of Commerce, wrote in a note. He forecasts dollar-yen falling to 123 in the third quarter from around 133 now.</p>
+    </div>
+  },
+  {
+    id: 165,
+    title: 'Credit Suisse intends to borrow up to 50 billion Swiss francs from Swiss National Bank',
+    category: 'Markets',
+    subCategory: ['Credit', 'Swiss', 'francs'],
+    description: <div className="blog-desc">
+      <p>Credit Suisse Group AG said on Thursday it intended to borrow up to 50 billion Swiss francs ($54 billion) from the Swiss National Bank in what it called "decisive action" to boost its liquidity.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 5:26 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-169.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Reuters) -Credit Suisse Group AG said on Thursday it intended to borrow up to 50 billion Swiss francs ($54 billion) from the Swiss National Bank in what it called "decisive action" to boost its liquidity.</p>
+	    <p>The planned move came after Swiss regulators pledged a liquidity lifeline to Credit Suisse in an unprecedented move by a central bank after the flagship Swiss lender's shares fell by as much as 30% on Wednesday.</p>	
+	    <p>"Credit Suisse is taking decisive action to pre-emptively strengthen its liquidity by intending to exercise its option to borrow from the Swiss National Bank (SNB) up to CHF 50 billion under a Covered Loan Facility as well as a short-term liquidity facility, which are fully collateralized by high quality assets," Credit Suisse said in a statement.</p>	
+	    <p>It pointed to its end-2022 Common Equity Tier 1 capital ratio of 14.1% and average liquidity coverage ratio (LCR) of 144%. The latter had improved to about 150% by March 14, it said.</p>
+      <p>Referring to the intended borrowing, it said: "This additional liquidity would support Credit Suisse's core businesses and clients as Credit Suisse takes the necessary steps to create a simpler and more focused bank built around client needs."</p>
+      <p>The collapses in the U.S. of Silicon Valley Bank last week and Signature Bank two days later have sent global bank stocks on a rollercoaster ride.</p>
+      <p>Gary Ng, senior economist at Natixis Corporate and Investment Bank, said investors might be worried about Silicon Valley Bank and Credit Suisse for different reasons, but both suffered from the side effect of high-interest rates.</p>
+      <p>"The underlying economic stress may emerge more frequently ... and it is possible to see more black swans in an uncertain environment," he said.</p>
+      <p>The Swiss lender's latest move came after CEO Ulrich Koerner said in an interview earlier on Wednesday that the bank's "capital, our liquidity basis is very very strong."</p>
+      <p>"We fulfill and overshoot basically all regulatory requirements."</p>
+      <p>Credit Suisse Group last month reported its biggest annual loss since the 2008 global financial crisis after rattled clients pulled billions of dollars from the bank. It warned that a further "substantial" loss would come this year.</p>
+      <p>The bank, Switzerland's second biggest, has begun a major overhaul of its business, cutting costs and jobs to revive its fortunes, including creating a separate business for its investment bank under the CS First Boston brand. The bank raised 4 billion Swiss francs from investors in December.</p>
+      <p>On Wednesday, it also announced offers for senior debt securities for cash of up to 3 billion francs.</p>
+      <p>The bank said it had also accelerated cost cuts and was well on track to deliver 2.5 billion francs of cost-base reductions by 2025, including 1.2 billion francs in 2023.</p>
+      <p>(Reporting by Saeed Azhar in New York and Akriti Sharma in Bengaluru, additional reporting by Xie Yu in Hong Kong; Editing by Muralikumar Anantharaman and Bradley Perrett)</p>
+    </div>
+  },
+  {
+    id: 169,
+    title: 'ExlService Holdings (EXLS) Dips More Than Broader Markets: What You Should Know',
+    category: 'Markets',
+    subCategory: ['Exlserivce', 'Broader', 'Markets'],
+    description: <div className="blog-desc">
+      <p>ExlService Holdings (EXLS) closed at $151.71 in the latest trading session, marking a -1.95% move from the prior day. This change lagged the S&P 500's daily loss of 0.7%. At the same time, the Dow lost 0.87%, and the tech-heavy Nasdaq gained 2.77%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 2:15 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-173.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>ExlService Holdings (EXLS) closed at $151.71 in the latest trading session, marking a -1.95% move from the prior day. This change lagged the S&P 500's daily loss of 0.7%. At the same time, the Dow lost 0.87%, and the tech-heavy Nasdaq gained 2.77%.</p>
+	    <p>Coming into today, shares of the provider of outsourcing services had lost 10.47% in the past month. In that same time, the Business Services sector lost 6.49%, while the S&P 500 lost 5.06%.</p>	
+	    <p>Investors will be hoping for strength from ExlService Holdings as it approaches its next earnings release. The company is expected to report EPS of $1.59, up 11.97% from the prior-year quarter. Meanwhile, the Zacks Consensus Estimate for revenue is projecting net sales of $377.55 million, up 14.68% from the year-ago period.</p>	
+	    <p>EXLS's full-year Zacks Consensus Estimates are calling for earnings of $6.72 per share and revenue of $1.59 billion. These results would represent year-over-year changes of +11.63% and +12.54%, respectively.</p>
+      <p>It is also important to note the recent changes to analyst estimates for ExlService Holdings. Recent revisions tend to reflect the latest near-term business trends. As such, positive estimate revisions reflect analyst optimism about the company's business and profitability.</p>
+      <p>Based on our research, we believe these estimate revisions are directly related to near-team stock moves. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
+      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Within the past 30 days, our consensus EPS projection has moved 1.18% higher. ExlService Holdings is holding a Zacks Rank of #3 (Hold) right now.</p>
+      <p>Looking at its valuation, ExlService Holdings is holding a Forward P/E ratio of 23.02. This valuation marks a premium compared to its industry's average Forward P/E of 15.</p>
+      <p>Also, we should mention that EXLS has a PEG ratio of 1.58. This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate. Outsourcing stocks are, on average, holding a PEG ratio of 1.68 based on yesterday's closing prices.</p>
+      <p>The Outsourcing industry is part of the Business Services sector. This industry currently has a Zacks Industry Rank of 46, which puts it in the top 19% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our individual industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+      </div>
+  },
+  {
+    id: 170,
+    title: 'Clearway Energy (CWEN) Gains As Market Dips: What You Should Know',
+    category: 'Markets',
+    subCategory: ['CWEN', 'Clearway', 'Energy'],
+    description: <div className="blog-desc">
+      <p>Clearway Energy (CWEN) closed the most recent trading day at $30.97, moving +0.06% from the previous trading session. This move outpaced the S&P 500's daily loss of 0.7%. Meanwhile, the Dow lost 0.87%, and the Nasdaq, a tech-heavy index, added 2.77%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 2:15 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-174.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Clearway Energy (CWEN) closed the most recent trading day at $30.97, moving +0.06% from the previous trading session. This move outpaced the S&P 500's daily loss of 0.7%. Meanwhile, the Dow lost 0.87%, and the Nasdaq, a tech-heavy index, added 2.77%.</p>
+	    <p>Coming into today, shares of the company created by NRG Energy to acquire and operate natural gas, solar and wind plants had lost 6.44% in the past month. In that same time, the Oils-Energy sector lost 8.43%, while the S&P 500 lost 5.06%.</p>	
+	    <p>Investors will be hoping for strength from Clearway Energy as it approaches its next earnings release. The company is expected to report EPS of -$0.12, up 57.14% from the prior-year quarter. Meanwhile, the Zacks Consensus Estimate for revenue is projecting net sales of $246.62 million, up 15.24% from the year-ago period.</p>	
+	    <p>For the full year, our Zacks Consensus Estimates are projecting earnings of $1.95 per share and revenue of $1.34 billion, which would represent changes of +152.28% and +12.77%, respectively, from the prior year.</p>
+      <p>Any recent changes to analyst estimates for Clearway Energy should also be noted by investors. These revisions help to show the ever-changing nature of near-term business trends. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Based on our research, we believe these estimate revisions are directly related to near-team stock moves. Investors can capitalize on this by using the Zacks Rank. This model considers these estimate changes and provides a simple, actionable rating system.</p>
+      <p>The Zacks Rank system ranges from #1 (Strong Buy) to #5 (Strong Sell). It has a remarkable, outside-audited track record of success, with #1 stocks delivering an average annual return of +25% since 1988. The Zacks Consensus EPS estimate has moved 31.05% higher within the past month. Clearway Energy currently has a Zacks Rank of #2 (Buy).</p>
+      <p>Looking at its valuation, Clearway Energy is holding a Forward P/E ratio of 15.87. For comparison, its industry has an average Forward P/E of 19.46, which means Clearway Energy is trading at a discount to the group.</p>
+      <p>We can also see that CWEN currently has a PEG ratio of 1.59. This popular metric is similar to the widely-known P/E ratio, with the difference being that the PEG ratio also takes into account the company's expected earnings growth rate. CWEN's industry had an average PEG ratio of 1.59 as of yesterday's close.</p>
+      <p>The Alternative Energy - Other industry is part of the Oils-Energy sector. This group has a Zacks Industry Rank of 178, putting it in the bottom 30% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  },
+  {
+    id: 178,
+    title: 'FS KKR Capital (FSK) Dips More Than Broader Markets: What You Should Know',
+    category: 'Indices',
+    subCategory: ['FSk', 'Capital', 'Broader Markets'],
+    description: <div className="blog-desc">
+      <p>FS KKR Capital (FSK) closed the most recent trading day at $17.45, moving -1.8% from the previous trading session. This move lagged the S&P 500's daily loss of 0.7%. Meanwhile, the Dow lost 0.87%, and the Nasdaq, a tech-heavy index, added 2.77%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 2:15 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-182.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>FS KKR Capital (FSK) closed the most recent trading day at $17.45, moving -1.8% from the previous trading session. This move lagged the S&P 500's daily loss of 0.7%. Meanwhile, the Dow lost 0.87%, and the Nasdaq, a tech-heavy index, added 2.77%.</p>
+	    <p>Coming into today, shares of the business development company had lost 9.61% in the past month. In that same time, the Finance sector lost 9.19%, while the S&P 500 lost 5.06%.</p>	
+	    <p>Investors will be hoping for strength from FS KKR Capital as it approaches its next earnings release. The company is expected to report EPS of $0.76, up 5.56% from the prior-year quarter. Meanwhile, the Zacks Consensus Estimate for revenue is projecting net sales of $443.47 million, up 11.99% from the year-ago period.</p>	
+	    <p>For the full year, our Zacks Consensus Estimates are projecting earnings of $3.10 per share and revenue of $1.84 billion, which would represent changes of +6.9% and +12.4%, respectively, from the prior year.</p>
+      <p>Any recent changes to analyst estimates for FS KKR Capital should also be noted by investors. These revisions help to show the ever-changing nature of near-term business trends. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Based on our research, we believe these estimate revisions are directly related to near-team stock moves. Investors can capitalize on this by using the Zacks Rank. This model considers these estimate changes and provides a simple, actionable rating system.</p>
+      <p>The Zacks Rank system ranges from #1 (Strong Buy) to #5 (Strong Sell). It has a remarkable, outside-audited track record of success, with #1 stocks delivering an average annual return of +25% since 1988. The Zacks Consensus EPS estimate has moved 3.34% higher within the past month. FS KKR Capital currently has a Zacks Rank of #3 (Hold).</p>
+      <p>Looking at its valuation, FS KKR Capital is holding a Forward P/E ratio of 5.74. For comparison, its industry has an average Forward P/E of 7.14, which means FS KKR Capital is trading at a discount to the group.</p>
+      <p>The Financial - SBIC & Commercial Industry industry is part of the Finance sector. This industry currently has a Zacks Industry Rank of 11, which puts it in the top 5% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank includes is listed in order from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  },
+  {
+    id: 179,
+    title: 'Skyworks Solutions (SWKS) Dips More Than Broader Markets: What You Should Know',
+    category: 'Indices',
+    subCategory: ['SWKS', 'Markets', 'Dips'],
+    description: <div className="blog-desc">
+      <p>In the latest trading session, Skyworks Solutions (SWKS) closed at $111.70, marking a -1.35% move from the previous day. This change lagged the S&P 500's 0.7% loss on the day. At the same time, the Dow lost 0.87%, and the tech-heavy Nasdaq gained 2.77%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 2:15 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-183.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>In the latest trading session, Skyworks Solutions (SWKS) closed at $111.70, marking a -1.35% move from the previous day. This change lagged the S&P 500's 0.7% loss on the day. At the same time, the Dow lost 0.87%, and the tech-heavy Nasdaq gained 2.77%.</p>
+	    <p>Coming into today, shares of the chipmaker had lost 7.01% in the past month. In that same time, the Computer and Technology sector lost 2.73%, while the S&P 500 lost 5.06%.</p>	
+	    <p>Investors will be hoping for strength from Skyworks Solutions as it approaches its next earnings release. On that day, Skyworks Solutions is projected to report earnings of $2.01 per share, which would represent a year-over-year decline of 23.57%. Meanwhile, our latest consensus estimate is calling for revenue of $1.15 billion, down 13.96% from the prior-year quarter.</p>	
+	    <p>For the full year, our Zacks Consensus Estimates are projecting earnings of $9.29 per share and revenue of $4.97 billion, which would represent changes of -17.35% and -9.43%, respectively, from the prior year.</p>
+      <p>It is also important to note the recent changes to analyst estimates for Skyworks Solutions. These revisions typically reflect the latest short-term business trends, which can change frequently. As such, positive estimate revisions reflect analyst optimism about the company's business and profitability.</p>
+      <p>Based on our research, we believe these estimate revisions are directly related to near-team stock moves. To benefit from this, we have developed the Zacks Rank, a proprietary model which takes these estimate changes into account and provides an actionable rating system.</p>
+      <p>Ranging from #1 (Strong Buy) to #5 (Strong Sell), the Zacks Rank system has a proven, outside-audited track record of outperformance, with #1 stocks returning an average of +25% annually since 1988. The Zacks Consensus EPS estimate has moved 1.3% lower within the past month. Skyworks Solutions is currently a Zacks Rank #3 (Hold).</p>
+      <p>Digging into valuation, Skyworks Solutions currently has a Forward P/E ratio of 12.19. Its industry sports an average Forward P/E of 12.19, so we one might conclude that Skyworks Solutions is trading at a no noticeable deviation comparatively.</p>
+      <p>It is also worth noting that SWKS currently has a PEG ratio of 0.81. This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate. SWKS's industry had an average PEG ratio of 1.68 as of yesterday's close.</p>
+      <p>The Semiconductors - Radio Frequency industry is part of the Computer and Technology sector. This industry currently has a Zacks Industry Rank of 187, which puts it in the bottom 26% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  }, 
+  {
+    id: 156,
+    title: 'Bitcoin Slides Below $24.5K as European Banking Woes Spook Investors',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'European', 'Banking'],
+    description: <div className="blog-desc">
+      <p>Bitcoin slid below $24,500 as investors weighed a potential European banking meltdown triggered by concerns about often-embattled Credit Suisse.</p>
+    </div>,
+    authorName: 'Jocelyn Yang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 1:51 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-160.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin slid below $24,500 as investors weighed a potential European banking meltdown triggered by concerns about often-embattled Credit Suisse.</p>
+      <p>The largest cryptocurrency by market capitalization dropped to $23,946 at one point before regaining ground to recently trade at $24,502, roughly flat over the 24 hours. But that was still well off BTC's highs of the previous day when it soared past $26,000 after the release of a mildly upbeat consumer price index (CPI) inflation data for February. The 6% CPI improved on the previous month’s reading and offered investors looking for more monetary policy dovishness hope the U.S. Federal Reserve would at least temporarily stop its recent diet of interest rate hikes.</p>
+      <p>On Wednesday, banking troubles trumped monetary policy considerations.</p>
+      <p>Shares of the Swiss banking giant Credit Suisse (CS), which has been rocked by scandals over the past year and posted losses for five consecutive quarters, tanked on Wednesday after the bank’s largest investor, Saudi National Bank, said it wouldn’t invest capital beyond the $1.5 billion it sank into the bank last year. Saudi National Bank owns a stake of up to 9.9%.</p>
+      <p>The Swiss National Bank seemed to at least temporarily halt the damage after announcing it would provide CS with liquidity “if necessary,” and rejecting the notion that contagion tied to the failure of two, large U.S. regional banks over the past week had spread overseas.</p>
+      <p>Credit Suisse shares tumbled 13%, as did several European banking stocks including French banks BNP Paribas (BNP.PA) and Société Générale (GLE:FP), down by 8% and 10%, respectively. European markets tumbled as investors in riskier assets grew skittish.</p>
+      <p>U.S. equity markets initially tumbled on the banking news coming from Europe before recovering some of their losses. The S&P 500 and Dow Jones Industrial Average (DJIA) dropped 0.7% and 0.8%, respectively. But the tech-heavy Nasdaq Composite rose 0.05%.</p>
+      <p>Regional banking stocks also plunged, with First Republic Bank (FRC) and PacWest Bancorp (PACW) falling 21% and 13%, respectively.</p>
+      <p>“Credit Suisse is a bigger story than Silicon Valley Bank (SVB) and this has Wall Street extremely nervous,” ​​Edward Moya, senior market analyst at foreign exchange market maker Oanda, wrote in a Wednesday email. “Bitcoin’s decline isn’t that bad when you consider how much pressure is hitting stocks, oil prices and the euro.”</p>
+      <p>While banking turmoil could ultimately become a bullish moment for bitcoin, “for now crypto weakness is justified,” Moya added.</p>
+	    <p>Meanwhile, the CME FedWatch Tool showed that currently around 55% of traders believe the Fed will not raise interest rates at its next Federal Open Market Committee (FOMC) meeting starting March 22. An additional 45% expect the Fed to boost the rate by 25 basis points (bps), a stark change from a week ago when an increasing number of observers felt the Fed would increase the rate by 50 bps.</p>
+	    <p>Will Tamplin, a senior analyst at technical analysis-based research firm Fairlead Strategies, said BTC's resistance is strong near $25,200, while tackling “intermediate-term overbought conditions in place that have become a headwind."</p>	
+	    <p>“This increases short-term downside risk to support from the 200-day [moving average] (~$19,800),” Tamplin told CoinDesk in an email.</p>	
+	    <p>Ether (ETH), the second-largest cryptocurrency, was hovering around $1,656 Wednesday afternoon, down 2.4% from Tuesday, same time. HNT, the native token of the decentralized wireless communication network Helium, recently tumbled 13% to trade near $2 Wednesday, its lowest level in two months. The decline came after Binance.US said it would delist the cryptocurrency on March 21.</p>
+      <p>The CoinDesk Market Index, which measures overall crypto market performance, was down roughly 3% for the day.</p>
+    </div>
+  },
+  {
+    id: 167,
+    title: 'MasterCard (MA) Dips More Than Broader Markets: What You Should Know',
+    category: 'Markets',
+    subCategory: ['Mastercard', 'broader', 'Markets'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 1:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-171.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>MasterCard (MA) closed the most recent trading day at $348.08, moving -1.34% from the previous trading session. This change lagged the S&P 500's daily loss of 0.7%. Elsewhere, the Dow lost 0.87%, while the tech-heavy Nasdaq added 2.77%.</p>
+	    <p>Coming into today, shares of the processor of debit and credit card payments had lost 4.63% in the past month. In that same time, the Business Services sector lost 6.49%, while the S&P 500 lost 5.06%.</p>	
+	    <p>Wall Street will be looking for positivity from MasterCard as it approaches its next earnings report date. The company is expected to report EPS of $2.70, down 2.17% from the prior-year quarter. Our most recent consensus estimate is calling for quarterly revenue of $5.62 billion, up 8.76% from the year-ago period.</p>	
+	    <p>MA's full-year Zacks Consensus Estimates are calling for earnings of $12.13 per share and revenue of $25.03 billion. These results would represent year-over-year changes of +13.9% and +12.57%, respectively.</p>
+      <p>It is also important to note the recent changes to analyst estimates for MasterCard. These revisions typically reflect the latest short-term business trends, which can change frequently. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Research indicates that these estimate revisions are directly correlated with near-term share price momentum. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
+      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Over the past month, the Zacks Consensus EPS estimate has moved 0.02% higher. MasterCard is currently sporting a Zacks Rank of #3 (Hold).</p>
+      <p>In terms of valuation, MasterCard is currently trading at a Forward P/E ratio of 29.09. For comparison, its industry has an average Forward P/E of 14.03, which means MasterCard is trading at a premium to the group.</p>
+      <p>Investors should also note that MA has a PEG ratio of 1.66 right now. This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate. Financial Transaction Services stocks are, on average, holding a PEG ratio of 1.11 based on yesterday's closing prices.</p>
+      <p>The Financial Transaction Services industry is part of the Business Services sector. This group has a Zacks Industry Rank of 93, putting it in the top 37% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our individual industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  },
+  {
+    id: 168,
+    title: 'PepsiCo (PEP) Gains As Market Dips: What You Should Know',
+    category: 'Markets',
+    subCategory: ['Pepsico', 'Markets', 'Gain'],
+    description: <div className="blog-desc">
+      <p>PepsiCo (PEP) closed the most recent trading day at $176.63, moving +1.79% from the previous trading session. The stock outpaced the S&P 500's daily loss of 0.7%. Elsewhere, the Dow lost 0.87%, while the tech-heavy Nasdaq added 2.77%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 1:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-172.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>PepsiCo (PEP) closed the most recent trading day at $176.63, moving +1.79% from the previous trading session. The stock outpaced the S&P 500's daily loss of 0.7%. Elsewhere, the Dow lost 0.87%, while the tech-heavy Nasdaq added 2.77%.</p>
+	    <p>Coming into today, shares of the food and beverage company had lost 1.27% in the past month. In that same time, the Consumer Staples sector lost 1.52%, while the S&P 500 lost 5.06%.</p>	
+	    <p>Wall Street will be looking for positivity from PepsiCo as it approaches its next earnings report date. This is expected to be April 25, 2023. The company is expected to report EPS of $1.37, up 6.2% from the prior-year quarter. Our most recent consensus estimate is calling for quarterly revenue of $17.18 billion, up 6.05% from the year-ago period.</p>	
+	    <p>PEP's full-year Zacks Consensus Estimates are calling for earnings of $7.23 per share and revenue of $89.48 billion. These results would represent year-over-year changes of +6.48% and +3.58%, respectively.</p>
+      <p>It is also important to note the recent changes to analyst estimates for PepsiCo. These revisions typically reflect the latest short-term business trends, which can change frequently. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Research indicates that these estimate revisions are directly correlated with near-term share price momentum. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
+      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Over the past month, the Zacks Consensus EPS estimate has moved 0.06% lower. PepsiCo is currently sporting a Zacks Rank of #3 (Hold).</p>
+      <p>In terms of valuation, PepsiCo is currently trading at a Forward P/E ratio of 24.01. For comparison, its industry has an average Forward P/E of 23.11, which means PepsiCo is trading at a premium to the group.</p>
+      <p>Investors should also note that PEP has a PEG ratio of 3.15 right now. This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate. Beverages - Soft drinks stocks are, on average, holding a PEG ratio of 2.9 based on yesterday's closing prices.</p>
+      <p>The Beverages - Soft drinks industry is part of the Consumer Staples sector. This group has a Zacks Industry Rank of 83, putting it in the top 33% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our individual industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  },
+  {
+    id: 180,
+    title: 'Nasdaq Reverses Higher Even As Bank Fears Grow; Other Indexes Pare Losses',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Bank', 'Grow'],
+    description: <div className="blog-desc">
+      <p>Indexes rose swiftly from session lows in late trading Wednesday and closed mostly lower. The Dow Jones Industrial Average reduced its loss to 0.9% — to a 270 point drop. Swiss banking giant Credit Suisse (CS) fell as it struggled to stay afloat, while U.S.-based First Republic (FRC) got slammed with a junk rating.</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 12:50 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-184.jpg',
+    content: <div className="blog-content">
+      <p>Indexes rose swiftly from session lows in late trading Wednesday and closed mostly lower. The Dow Jones Industrial Average reduced its loss to 0.9% — to a 270 point drop. Swiss banking giant Credit Suisse (CS) fell as it struggled to stay afloat, while U.S.-based First Republic (FRC) got slammed with a junk rating.</p>
+      <p>Among Dow Jones stocks, Microsoft (MSFT) rose a third straight day, notching a 1.7% gain in strong volume. Earlier, the software giant made an AI tool available on Azure OpenAI.</p>
+	    <p>Amgen (AMGN) and Merck (MRK) rose, along with Walgreens (WBA) and Walmart (WMT).</p>
+	    <p>The S&P 500 was also off session lows, down 0.7% at the closing bell. Steel Dynamics (STLD) sold off and fell below its 50-day line. The steelmaker expects lower Q1 profit, according to reports.</p>	
+	    <p>The Nasdaq erased most losses and gained less than 0.1% at the close. Tech stocks gave the index some help. Google parent Alphabet (GOOGL) gained over 2%. Netflix (NFLX) rose 3%. Both stocks were near today's highs at closing time.</p>	
+	    <p>Volume on the NYSE and on the Nasdaq was higher compared to the same time on Tuesday, according to early data.</p>
+      <p>Crude oil plunged 6.3% to $67.83 a barrel. Oil giants Halliburton (HAL) and SLB (SLB) fell more than 8% as other energy stocks tumbled.</p>
+      <p>The yield on the 10-year Treasury note fell 18 basis points to 3.45%. The price of gold rose while Bitcoin fell.</p>
+      <p>The run on banks got a reboot on Wednesday. Credit Suisse shares plunged after its largest investor, Saudi National Bank, said it would not make further investments in the Swiss bank. That reverses plans last year for  a possible investment of up to 1.5 billion swiss francs.</p>
+      <p>First Republic (FRC) got a sharp rating cut to junk rating by S&P Global Ratings on worries that clients are pulling out their money. That is a four-level slash from A- to BB+, according to the Wall Street Journal. The new rating places the stock squarely in speculative territory. Shares dived.</p>
+      <p>Elsewhere, shares of Charles Schwab (SCHW) rose 5% in strong volume after last week's heavy sell-off. CEO Walt Bettinger said the brokerage firm was not in dire straits and would not need to look hastily to raise money to keep running. Western Alliance Bancorp (WAL) and Metropolitan Bank (MCB) were among regional banks that reversed from steep losses.</p>
+      <p><strong>Tech Stocks Outside Dow Jones: AMD Tops Buy Point</strong></p>
+      <p>Advanced Micro Devices (AMD) broke out of a flat base and is in a buy  zone above an 89.04 entry. Volume was mildly above average, however.</p>
+      <p>Shares of Facebook parent Meta Platforms (META) rose again after its huge 7% gain on Tuesday. The IBD Leaderboard stock closed just above the 197.26 entry of a flat base. Also on Leaderboard, Nvidia (NVDA) reversed higher.</p>
+      <p><strong>Stocks Moving Today</strong></p>
+      <p>AerCap (AER) fell below its 200-day line. The aircraft leasing company dived below its 50-day line March 8 and is working on a six-day losing streak.</p>
+      <p>Shares of fertilizer maker Bunge (BG) fell 7.5%, reversing gains from Tuesday. Shares rallied 14% Tuesday on news that Corteva (CTVA) and Chevron (CVX) had partnered with Bunge for plant-based oil products.</p>
+      <p>In economic data, wholesale prices rose less in February compared to January. Excluding food and energy, they were unchanged. The producer price index fell 0.1% in February and was up 4.6% for the year. U.S. retail sales also fell 0.4% in February, a sharper decline than views of 0.3%.</p>
+    </div>
+  },
+  {
+    id: 181,
+    title: 'The S&P 500 Staved Off Collapse. Here’s What to Watch Next.',
+    category: 'Indices',
+    subCategory: ['S&P', 'Collapse', 'credit suisse'],
+    description: <div className="blog-desc">
+      <p>Stocks were tumbling—until the Swiss National Bank offered to support  Credit Suisse Group CS –13.94%  if necessary. That news caused the market to bounce and hold an important level of technical support.</p>
+    </div>,
+    authorName: 'Jacob Sonenshine',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 16, 2023 - 12:41 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-185.jpg',
+    content: <div className="blog-content">
+      <p>Stocks were tumbling—until the Swiss National Bank offered to support  Credit Suisse Group CS –13.94%  if necessary. That news caused the market to bounce and hold an important level of technical support.</p>
+	    <p>The day began with Credit Suisse (CS) emerging as the latest bank to be the focus of investor concerns after the Saudi National Bank said it wouldn’t provide more financing. The news, which came after SVB’s collapse, caused the S&P 500 to tumble as much as 2.1%, to 3838.24, Wednesday and to give back nearly all of its year-to-date gains. But news that the Swiss National Bank would help support Credit Suisse caused stocks to bounce off their lows and the S&P 500SPX –0.70%  to close down just 0.7% at 3,891.93.</p>
+	    <p>“Bottom line, the introduction of regional bank contagion has altered the market landscape in the short term, and whether those risks settle or increase will determine if stocks stabilize,” writes Sevens Report’s Tom Essaye. </p>	
+	    <p>Stabilize they did, and at an important level for the market. For the S&P 500, 3850 has been identified as an important support level for stocks, one, that if it broke, would lead to a further drop to the next support level, near 3700. And if that level were to break, the index could fall to its bear market low of just below 3600. In a worst-case scenario—or at least a bad one—the S&P 500 could fall to 3000, writes John Kolovos, chief technical strategist at Macro Risk Advisors. </p>	
+	    <p>That level would make sense from a fundamental perspective, too. More economic weakness from here—in addition to that created by the Federal Reserve’s rate hikes—would pressure earnings estimates, estimates that already look too high. Analyst’s aggregate 2023 earnings per share forecasts for S&P 500 companies sit at about $221 right now, according to FactSet, just above last year’s $216.</p>
+      <p>But if the economy slows, estimates could get reduced to $210 or even lower as the market loses confidence in the economy and corporate earnings power. That alone would put the S&P 500 at about 3640 at a current based on the S&P 500’s current multiple of 17.3 times 12-month forward earnings.</p>
+      <p>Declining earnings would likely mean declining valuations, writes Morgan Stanley’s chief U.S. equity strategist, Mike Wilson, perhaps earning the S&P 500 a multiple as low as 14 times. At that level, the index would trade at 2940, down 24% from Wednesday’s close.</p>
+    </div>
+  },
+  {
+    id: 172,
+    title: 'USD/JPY Forecast – US Dollar Gives Up Early Gains Against the Japanese Yen',
+    category: 'Currencies',
+    subCategory: ['USD', 'JYP', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has initially tried to rally during the trading session on Wednesday, to reach the ¥135 level. This is an area that has previously been resistance, and therefore the fact that we broke above that level would have been a very strong sign, but we have given back those gains to show signs of weakness since then. At this point, it looks like we are reaching down to the ¥132.50 level, an area that I think should end up being support. If we can break below there, then it’s likely that this market starts to fall toward the ¥130 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 6:11 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-176.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <h3><strong>US Dollar vs Japanese Yen Technical Analysis</strong></h3>
+	    <p>The US dollar has initially tried to rally during the trading session on Wednesday, to reach the ¥135 level. This is an area that has previously been resistance, and therefore the fact that we broke above that level would have been a very strong sign, but we have given back those gains to show signs of weakness since then. At this point, it looks like we are reaching down to the ¥132.50 level, an area that I think should end up being support. If we can break below there, then it’s likely that this market starts to fall toward the ¥130 level.</p>	
+	    <p>This all began with concerns with Credit Suisse, as Saudi financiers decided that they were no longer going to try to prop up the bank. Now we have to worry about contagion in the banking system, and as a result a lot of money flew into bond markets. Remember, the Bank of Japan is trying to fight higher interest rates right now, so therefore they have to step into the bond market and purchase those bonds with freshly printed in Japanese yen to keep the rates under 50 basis points on the 10 year. On the other hand, if rates start to drop around the world, then it’s likely that there is less pressure on the Bank of Japan, meaning that they will be buying less yen, and then meaning that the Japanese yen will strengthen, which is exactly what we see on this chart.</p>	
+	    <p>The more fear that we have out there, the more likely it is to be a situation where the Japanese yen gets a bit of a boost, and therefore as long as his fear is out there, we may see the Japanese yen be one of the better performing currencies. As soon as the market continues to see a lot of relief, then this market will turn right back around. That being said, these are very dangerous days so don’t be surprised at all that the market would be very volatile and noisy, so in this environment you need to keep your position size relatively small until you get confirmation of your position.</p>
+    </div>
+  },
+  {
+    id: 173,
+    title: 'GBP/JPY Forecast – British Pound Plunges Against Japanese Yen in Risk Off Move',
+    category: 'Currencies',
+    subCategory: ['GBP', 'JPY',],
+    description: <div className="blog-desc">
+      <p>The British pound initially tried to rally during the trading session on Wednesday, but ran into a buzz saw of concern, and then the next thing you know is that the Japanese yen started to take off. The reason for this is that bond yields around the world are dropping as traders are betting that a round of bailouts are coming. This releases pressure on the Bank of Japan when it comes to the idea of having to print more yen to keep their yield curve control in line, and that’s exactly what you are seeing on this chart.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 5:59 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-177.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+      <h3><strong>British Pound vs Japanese Yen Technical Analysis</strong></h3>
+	    <p>The British pound initially tried to rally during the trading session on Wednesday, but ran into a buzz saw of concern, and then the next thing you know is that the Japanese yen started to take off. The reason for this is that bond yields around the world are dropping as traders are betting that a round of bailouts are coming. This releases pressure on the Bank of Japan when it comes to the idea of having to print more yen to keep their yield curve control in line, and that’s exactly what you are seeing on this chart.</p>
+	    <p>The ¥160 level has offered a little bit of support, but if we blow through there, it’s possible that the market could go down to the ¥157.50 level. In that area we would more likely than not see a significant amount of support. If we bounce from here, I don’t necessarily think that we are going to see a new bull market, just that we may have a bit of a consolidation area in the short term. Either way, volatility continues to be a major issue, and you will have to keep an eye on your positions. Now is not the time to be complacent with positioning, and therefore it’s crucial that you keep your position size reasonable.</p>	
+	    <p>At this point, the market will continue to be noisy more than anything else, and with that in mind you will have to understand that you need to look at the big picture. We are most certainly in an area that could be important, but it’s also worth noting that the British pound has underperformed against the yen when compared to multiple other currency pairs, so I would assume this might be a market that is softer than many others.</p>	
+    </div>
+  },
+  {
+    id: 157,
+    title: 'Germany and U.S. Seize Over $46M Crypto Tied to ChipMixer Investigation',
+    category: 'Crypto',
+    subCategory: ['Germany', 'US', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Authorities from Germany and the U.S. have seized up to 44 million euros ($46.3 million) from ChipMixer, a noted cryptocurrency mixer, according to the European Union Agency for Law Enforcement Cooperation (Europol).</p>
+    </div>,
+    authorName: 'Jamie Crawley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 5:52 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-161.jpg',
+    content: <div className="blog-content">
+      <p>Authorities from Germany and the U.S. have seized up to 44 million euros ($46.3 million) from ChipMixer, a noted cryptocurrency mixer, according to the European Union Agency for Law Enforcement Cooperation (Europol).</p>
+	    <p>The authorities took down the platform's infrastructure, seizing four servers, 7 terabytes of data and 1909.4 bitcoins (BTC) ($47.7 million), Europol said on Wednesday.</p>
+	    <p>The seizure was also supported by Belgium, Poland and Switzerland.</p>	
+	    <p>ChipMixer laundered money for ransomware perpetrators, darknet markets, fraudsters and state-sponsored actors, according to the U.S. Department of Justice (DOJ).</p>	
+	    <p>One operator of ChipMixer, Minh Quốc Nguyễn, from Hanoi, Vietnam, was charged on Wednesday in Philadelphia with money laundering, operating an unlicensed money transmitting business and identity theft, the DOJ said.</p>
+      <p>The platform is believed to have enabled the laundering of 152,000 BTC – around $3.8 billion at current prices – since 2017, a large share of which was connected to ransomware groups, illicit goods trafficking and child sexual exploitation.</p>
+      <p>According to the DOJ, activities enabled by ChipMixer include over $700 million in bitcoin associated with wallets designated as stolen funds, including those related to heists by North Korean cyber actors, and bitcoin used by the Russian General Staff Main Intelligence Directorate (GRU) to purchase infrastructure for Linux-based malware Drovorub.</p>
+      <p>Mixing services gained increased prominence in August 2022 when Ethereum-based mixer Tornado Cash was sanctioned by the U.S. Treasury Department’s Office of Foreign Asset Control for facilitating North Korea’s money-laundering operations. Shortly after that, Tornado Cash’s web developer Alexey Pertsev was arrested.</p>
+    </div>
+  }, 
+  {
+    id: 174,
+    title: 'EUR/USD Forecast – Euro Plunges Amidst Risk Off Move',
+    category: 'Currencies',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>After Credit Suisse got the news that there was not going to be more of a bailout from Saudi financiers, suddenly there seems to be a concern of contagion in the European Union. After all, the bank has been the epicenter of a lot of problems for the last several years, and without assistance it plunged, sending the CDS market for that bank pricing in a 36% possibility of default. Because of this, it’s very likely that money is flowing away from the European Union as Credit Suisse almost certainly has its fingers all throughout the continent.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 5:46 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-178.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+      <h3><strong>Euro vs US Dollar Technical Analysis</strong></h3>
+	    <p>After Credit Suisse got the news that there was not going to be more of a bailout from Saudi financiers, suddenly there seems to be a concern of contagion in the European Union. After all, the bank has been the epicenter of a lot of problems for the last several years, and without assistance it plunged, sending the CDS market for that bank pricing in a 36% possibility of default. Because of this, it’s very likely that money is flowing away from the European Union as Credit Suisse almost certainly has its fingers all throughout the continent.</p>
+	    <p>The euro plunged towards the 200-Day EMA, and by the time New Yorkers got to work was down 200 pips. If the market were to break down below the 200-Day EMA, it could open up a new rush of selling pressure, sending the Euro down to the 1.03 level, possibly even down to the parity level. In that environment it is likely that we would see quite a bit of US dollar strength in general, as traders will be looking for safety. It almost certainly means that the market will continue to favor the US dollar as money goes flying towards the US Treasury market.</p>	
+	    <p>If we do rally at this point, it’s difficult to imagine that it sticks anytime soon, with the 50-Day EMA more likely than not offering a little bit of resistance on the way up. Furthermore, the market struggled with the 1.07 area, an area that previously had been difficult to get above. If we break above the 1.08 level, then it opens up the possibility of a move to the 1.10 level, although at this point it seems very unlikely to be the case.</p>	
+	    <p>We recently had seen the Euro rally a bit due to the fact that a lot of traders are counting on the Federal Reserve cutting rates, due to the fact that there was a bailout of the bank in California just a few days ago. However, if the Europeans suddenly find themselves needing to worry about contagion, that essentially makes things “all even”, which of course would be bad all the way around in that environment.</p>
+    </div>
+  },
+  {
+    id: 175,
+    title: 'AUDUSD Forecast – Australian Dollar Gives Up Early Gains',
+    category: 'Currencies',
+    subCategory: ['AUS', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar initially tried to rally during the trading session on Wednesday but struggled at the 0.67 level yet again. This is an area where we had previously seen support, and now it looks as if market memory has come back into the picture to send the Aussie lower. This makes a certain amount of sense considering there’s a lot of “risk off” attitude out there due to the fact that major banks are starting to struggle, meaning Credit Suisse. If that’s going to be the case, there will be a run to safety currency such as the US dollar as there will be a run toward the bond market.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 5:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-179.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+      <h3><strong>Australian Dollar vs US Dollar Technical Analysis</strong></h3>
+	    <p>The Australian dollar initially tried to rally during the trading session on Wednesday but struggled at the 0.67 level yet again. This is an area where we had previously seen support, and now it looks as if market memory has come back into the picture to send the Aussie lower. This makes a certain amount of sense considering there’s a lot of “risk off” attitude out there due to the fact that major banks are starting to struggle, meaning Credit Suisse. If that’s going to be the case, there will be a run to safety currency such as the US dollar as there will be a run toward the bond market.</p>
+	    <p>Underneath, the 0.6550 level is an area that has previously been important, so therefore if we were to break through there, it would likely need to send this market down to the 0.64 level. The Australian dollar of course is highly sensitive to risk appetite so I think this continues to be a very noisy situation, as traders hope the Federal Reserve is going to step out and cut interest rates, with the Fed Fund Futures markets suggesting there could be 100 basis points of interest rate cuts by the end of the year.</p>	
+	    <p>Any rally at this point in time will have to deal with not only the 0.67 level, but also the 0.68 level. The 0.68 level is a significant barrier, and if we were to break above there it would obviously be a very bullish sign. The 200-Day EMA sits near the 0.6850 level and is dropping at this point. That of course could be a large technical barrier that will be difficult to get above any time soon. It’s also worth noting that we had bounced high enough to hit the 50% Fibonacci level from the massive selloff previously, and now it looks like we are ready to go much lower, perhaps reaching down to the 0.62 level where we had bounced from to begin with. It will be very noisy, but it certainly looks as if the Australian dollar is struggling to find its footing for a bigger move anytime soon.</p>
+    </div>
+  },
+  {
+    id: 158,
+    title: 'Circle’s USDC bounces back after Silicon Valley Bank bust',
+    category: 'Crypto',
+    subCategory: ['Circle', 'USDC', 'Sillicon valley Bank'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Forkast.News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 3:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-162.jpg',
+    content: <div className="blog-content">
+	    <h3><strong>In this issue</strong></h3>
+      <ol><li>USDC: Level-pegging</li>
+      <li>Silvergate: Closing act</li>
+      <li>China finance: Reverse decentralization</li></ol>
+      <h3><strong>From the Editor’s Desk</strong></h3>
+	    <p>Dear Reader,</p>
+	    <p>Predictions that things will get worse before they get better are commonplace among the punditocracy in their comments on virtually any subject one cares to name. But they’ve arguably become even more common in crypto than in other fields following the industry’s travails during the past year. So far, so unsurprising.</p>	
+	    <p>The failure of cryptocurrency-focused lender Silvergate, which had been widely expected since at least the beginning of this month, alongside the collapses of Silicon Valley Bank and Signature Bank, are very much of a piece with this narrative.</p>	
+	    <p>The closure of the Silvergate Exchange Network and Signature Bank’s Signet, real-time payment platforms that allowed clients to move money into crypto around the clock, is already affecting crypto trade. The two services handled a huge chunk of fiat settlement for crypto, and their disappearance from the market is crimping liquidity, threatening to send transaction costs higher, at least in the short term.</p>
+      <p>Where the darkest-before-the-dawn narrative starts to get interesting, though, involves what comes next. As we’ve seen, the crypto industry has an uncanny knack of finding creative ways out of tight spots, and in any case, it’s a sector that’s experiencing growing pains like any other as it moves through its teenage years and into adulthood.</p>
+      <p>The banking system didn’t collapse during the global financial crisis 15 years ago when the titans of TradFi were shaken to their foundations, and neither will crypto as it loses some important players but finds others to take their place.</p>
+      <p>The strife stirred up by Silvergate, SVB and Signature will pass, and, since nature abhors a vacuum, new providers of similar services will doubtless swoop in and fill the gap they leave in likely even more innovative ways.</p>
+      <p>If there’s one thing that being in this industry should have taught all of us by now, it’s that nothing stays the same for long and that this frenetic pace of change is what keeps the sector at the cutting edge as it continues to shape the future of finance.</p>
+      <p>We of course regret the trifecta of failures that have occurred in recent days. But long live disruption.</p>
+      <p>Until the next time,</p>
+      <p>Angie Lau,</p>
+      <p>Founder and Editor-in-Chief</p>
+      <p>Forkast</p>
+      <h3><strong>1.Stable genus</strong></h3>
+      <img src="https://ncx.cx/images/ncx-blog-162-1.jpg" alt="NCX Stable genus"/>
+      <p>By the numbers: USDC — over 5,000% increase in Google search volume.</p>
+      <p>Circle Internet Financial’s USDC, the world’s second-largest stablecoin by market capitalization, regained parity with the U.S. dollar on Monday morning Asia time after the Federal Deposit Insurance Corporation (FDIC) said it had taken over failed tech- and crypto-focused lender Silicon Valley Bank (SVB) and guaranteed its deposits to prevent a broader bank run.</p>
+      <ul><li>USDC fell as low as US$0.8774 on Saturday before recovering to US$0.999 around mid-morning Hong Kong time on Monday, according to CoinMarketCap data. It has mostly hovered around the US$0.997 mark since.</li></ul>
+      <ul><li>USDC regained its peg after the FDIC said it had taken control of SVB on Sunday. Circle had held US$3.3 billion of deposits, accounting for around 8% of total USDC reserves, at the troubled bank.</li></ul>
+      <ul><li>Circle co-founder Jeremy Allaire said that USDC’s deposits held by SVB would be fully recoverable. Circle also announced a partnership with New Jersey-based Cross River Bank to enable the automated minting and redemption of USDC for customers starting on Monday.</li></ul>
+      <ul><li>USDC started trading off its peg over the weekend after it was revealed that it held reserves at SVB, which had more than US$200 billion in assets and represents the largest bank failure since the global financial crisis of 2008.</li></ul>
+      <ul><li>SVB and Signature Bank, two key lenders to the crypto industry, were both shut down and taken over by U.S. regulators to prevent systemic risk to the broader banking industry.</li></ul>
+      <ul><li>“All depositors of [Signature Bank] will be made whole,” said a joint statement released by the U.S. Treasury Department, the Federal Reserve and the FDIC. “​​As with the resolution of Silicon Valley Bank, no losses will be borne by the taxpayer.”</li></ul>
+      <ul><li>USDC is currently the fifth-largest cryptocurrency by market capitalization, with a US$38.4 billion market cap.</li></ul>
+      <h3><strong>Forkast.Insights | What does it mean?</strong></h3>
+      <p>The collapse of Silicon Valley Bank was not due to its affiliations with crypto. But combined with the failure of Signature and Silvergate, its collapse has rattled the industry to its core.</p>
+      <p>When Signature went down, it was revealed that Coinbase and Paxos, the issuer of Binance’s BUSD stablecoin, collectively had around US$500 million deposited in the bank. When Silicon Valley Bank called it a day, USDC issuer Circle had several billion dollars parked there.</p>
+      <p>Although Circle acted quickly to reassure investors they wouldn’t lose their money, a bigger question arose: Is the crypto industry’s long-term viability reliant on regulators stepping in to clean up its messes?</p>
+      <p>Since 2008, and before that, if we’re honest, central banks around the world have played a very visible role in backstopping the financial system and the economy more broadly when things have gone sideways. As the Covid pandemic brought much of the world to a halt, their huge injections of liquidity spared it an even worse fate than it ended up suffering. That may have been a rescue that was always guaranteed. Crypto has no such luxury.</p>
+      <p>Circle may have handled its Silicon Valley problem adroitly, but would Tether fare so well in similar circumstances? Tether appears to be only skimpily regulated in the U.S., yet its market cap is nearly twice that of USDC. If it gets into trouble, there are few people it can turn to for help.</p>
+      <p>When Terra collapsed last year, no central authority was willing to pick up the bill. If crypto wants to be taken seriously, its “safest” assets must be made safer than they currently are.</p>
+      <h3><strong>2.Gate carsh</strong></h3>
+      <img src="https://ncx.cx/images/ncx-blog-162-3.jpg" alt="NCX Gate crash"/>
+      <p>By the numbers: Silvergate — over 5,000% increase in Google search volume.</p>
+      <p>California-based, crypto-focused lender Silvergate Bank is being wound up by its parent company, Silvergate Capital, becoming another victim of last year’s collapse of crypto exchange FTX.</p>
+      <ul><li>Silvergate Capital will shut down the bank’s operations and liquidate it in an orderly manner, offering full repayments to all depositors, according to a company announcement.</li></ul>
+      <ul><li>Unlike the recent failures of Silicon Valley Bank and Signature Bank, Silvergate’s shutdown has not involved intervention by the U.S. Federal Deposit Insurance Corporation.</li></ul>
+      <ul><li>As a federally insured bank, Silvergate provided banking services to the crypto industry. In 2017, it rolled out its Silvergate Exchange Network (SEN), a 24/7 payment network allowing instantaneous fiat transactions between crypto exchanges and their customers.</li></ul>
+      <ul><li>The bank was hit hard by the collapse of FTX in November 2022, with its non-interest-bearing deposits slumping from US$12.1 billion on Sept. 30 to US$3.9 billion on Dec. 31, a dive of more than 67%, according to a Silvergate quarterly report.</li></ul>
+      <ul><li>Silvergate reported a US$1 billion loss for the fourth quarter of 2022 and had laid off 40% of its staff by Jan. 5 this year. It is also being probed by U.S. prosecutors over its links to Alameda Research, FTX’s trading arm.</li></ul>
+      <ul><li>On March 1, Silvergate Capital announced in a filing to the U.S. Securities and Exchange Commission that it was evaluating “its ability to continue as a going concern.” and it discontinued its SEN service on March 3.</li></ul>
+      <ul><li>The crypto market has felt the absence of SEN, which Silvergate said had handled around US$563.3 billion of U.S. dollar transfers last year. On some U.S. crypto exchanges, Bitcoin-to-dollar and Bitcoin-to-Tether transactions dropped between 35% and 45% between the beginning of the month and March 11, Bloomberg reported earlier this week.</li></ul>
+      <ul><li>At the same time, U.S.-based crypto exchanges are seeking alternatives for banking services, with Kraken set to launch its own bank in the state of Wyoming, aiming to offer “a more seamless integration between crypto and the traditional financial system”.</li></ul>
+      <ul><li>Silvergate’s stock was trading at US$2.21 at press time, down more than 80% from its opening price on March 1, according to data from Yahoo Finance.</li></ul>
+      <h3><strong>Forkast.Insights | What does it mean?</strong></h3>
+      <p>Crypto users could be forgiven for feeling un-banked in the U.S., especially when it comes to 24/7 payments. The loss of Silvergate’s seamless off-ramp has meant crypto companies have been forced to find alternative means of transacting with traditional finance.</p>
+      <p>A stark illustration of this came in the form of Circle’s weekend announcement that it would cover any losses related to the closure of Silicon Valley Bank, but that investors would have to wait until banks opened on Monday before they could withdraw their funds.</p>
+      <p>This is a profound development affecting one of crypto’s key features: markets that never close and the ability to cash out anytime. It’s a problem being felt by other companies, too.</p>
+      <p>Crypto.com and Binance are having to find new off-ramps for the euro and British pound after banking partners pulled out of crypto. While businesses are exploring other options, and new companies gear up to meet their needs, cryptocurrencies look more isolated from the rest of the finance sector.</p>
+      <p>This is likely to continue as regulators scrutinize the balance sheets of businesses offering services to the industry. It ought to be beneficial for consumers in the long run, but for now, it leaves crypto with fewer friends in TradFi.</p>
+      <h3><strong>3.Regulatory consolidation</strong></h3>
+      <img src="https://ncx.cx/images/ncx-blog-162-4.jpg" alt="NCX Regulatory consolidation"/>
+      <p>China has passed a plan to establish a new national financial regulator, replacing the China Banking and Insurance Regulatory Commission, according to state-run news outlet CGTN. The move was part of an overhaul of State Council institutions announced at the annual “two sessions” meetings of the National People’s Congress and the Chinese People’s Political Consultative Conference last Friday.</p>
+      <ul><li>The new regulatory administration will be set up directly under the State Council. Aside from replacing the China Banking and Insurance Regulatory Commission (CBIRC), it will also consolidate certain functions of the People’s Bank of China (PBOC) and the China Securities Regulatory Commission (CSRC). The new regulator’s official name has not yet been revealed.</li></ul>
+      <ul><li>Financial regulation in China has up to now been the preserve of the CBIRC, the PBOC and the CSRC, whose functions have at times overlapped. Following the reform, the respective responsibilities of PBOC and CSRC to protect consumers and investors will be shifted to the regulator, which will supervise most of the country’s financial activities, apart from the securities sector.</li></ul>
+      <ul><li>The reform will further centralize China’s supervision of its finance sector and comes as part of an overall consolidation of political power in the country.</li></ul>
+      <ul><li>“China’s regulatory reforms will strengthen regulators’ capability to establish and enforce a unified regulatory framework, as well as reduce the room for regulatory arbitrage,” CNBC reported Moody’s Investors Service Vice President David Yin as having said in a note.</li></ul>
+      <ul><li>The reform plan follows President Xi Jinping’s warning in February about three “systemic risks” in China’s economy: risks to the real estate sector, financial risks and local government debt risks.</li></ul>
+      <ul><li>The plan does not give much indication of how crypto assets will be regulated. According to a PBOC notice dated September 2021 that announced China’s blanket ban on cryptocurrency transactions, the CBIRC, the PBOC and the CSRC were together responsible for curbing crypto speculation to safeguard financial stability.</li></ul>
+      <h3><strong>Forkast.Insights | What does it mean?</strong></h3>
+      <p>Beijing’s announcement of a new financial regulator shows the extent to which it is poised to charge ahead with its Digital China strategy while ramping up efforts to identify and weed out perceived risks to the country’s financial system.</p>
+      <p>When China banned cryptocurrency transactions in 2021, 10 regulators — including the  China Banking and Insurance Regulatory Commission, the People’s Bank of China and the China Securities Regulatory Commission — pointed to crypto as a risk and announced a ban in a joint notice. There have been some overlaps in oversight responsibilities among the three authorities, but now, with the establishment of the new regulator, currently informally known as “the National Financial Regulatory Administration,” the reshuffle is expected to clarify regulatory power and functions.</p>
+      <p>According to analysts at Citic Securities and Guotai Junan Securities, cited in a report by business media outlet Caixin Global, the top-level realignment aims to spell out the regulatory relationship between monetary policy and financial consumer protection.</p>
+      <p>When it comes to consumer protection, the State Administration for Market Regulation (SAMR) on Tuesday released a report showing a growing number of complaints associated with non-fungible tokens (NFTs). Last year, NFT buyers in China flooded SAMR with gripes about scams and price manipulation, with official complaints skyrocketing 30,000% to 59,700 from just 198 the previous year.</p>
+      <p>Meanwhile, China appears determined to develop and oversee the industries contributing to its digital economy by setting up a national data bureau. That makes sense, as a big chunk of the nation’s economy depends on its digital industries. A government “work report” submitted on March 5 to the country’s rubber-stamp legislature showed that the value-added output of new industries and businesses in the country’s digital economy accounted for more than 17% of gross domestic product.</p>
+      <p>It remains to be seen how the new financial regulator will approach NFTs, which in China have frequently involved fraud and wild speculation, and how it and other authorities will strike a balance between encouraging digital innovation and ramped-up regulatory scrutiny. But what’s more certain following the heavily politically loaded meetings that wrapped up a few days ago is that however China’s digital future takes shape, it may well look even more centralized under the Communist Party’s control than it already is.</p>
+    </div>
+  },
+  {
+    id: 159,
+    title: 'KuCoin Has Closed a $10M Funding Round Into CNHC, but Is the Offshore Yuan Right for a Stablecoin?',
+    category: 'Crypto',
+    subCategory: ['Kucoin', 'CNHC', 'Yaun'],
+    description: <div className="blog-desc">
+      <p>KuCoin Ventures, the venture arm of China-focused (but Seychelles-registered) crypto exchange KuCoin, led a $10 million funding round into the stablecoin issuer behind CNHC, a stablecoin pegged to the value of the offshore yuan.</p>
+    </div>,
+    authorName: 'Sam Reynolds',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 2:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-163.jpg',
+    content: <div className="blog-content">
+      <p><strong>In this article:</strong></p>
+      <p>KuCoin Ventures, the venture arm of China-focused (but Seychelles-registered) crypto exchange KuCoin, led a $10 million funding round into the stablecoin issuer behind CNHC, a stablecoin pegged to the value of the offshore yuan.</p>
+      <p>CNHC is pegged 1:1 with the offshore yuan, known by its abbreviation CNH to differentiate it from China’s onshore yuan, which goes by CNY. Reserves for the CNH are kept at a Hong Kong depository institution.</p>
+      <p>“This investment in CNHC is part of KuCoin Ventures' broader strategy of investing in the Web3 infrastructure in the APAC region,” Justin Chou, chief investment officer of KuCoin and lead at KuCoin Ventures, said in a statement. “Hong Kong has a well-established traditional finance ecosystem. With the regulation and new policy for next-generation digital assets, Hong Kong has a real opportunity at becoming the new crypto center of the world.”</p>
+	    <p>CNHC is issued on both Ethereum and Conflux. On-chain data shows that Ethereum has 23 holders of the token and 102 transfers, while Conflux has 606 holders and 1,487 transfers.</p>
+	    <p>Fan Long, co-founder of Conflux, said Conflux is capturing the majority of the volume here because of Conflux’s “regulatory compliance” in China.</p>	
+	    <p>“The significance of CNHC stems from its capacity to connect traditional financial systems with the emerging Web3 landscape, especially amid heightened regulatory scrutiny in the U.S.,” he told CoinDesk in a note. “CNHC presents a practical alternative for businesses and users in search of compliant options beyond the U.S.-centric regulatory framework.”</p>	
+	    <h3><strong>Hunting for a dollar alternative</strong></h3>
+      <p>Stablecoins are overwhelmingly backed by the U.S. dollar. While there are stablecoins based on other world currencies such as the euro, pound, or other dollars like the Australian, Canadian or Singaporean variety, none come close to touching the volume of U.S. dollar-backed stablecoins including USDT and USDC.</p>
+      <p>On one hand, this has only re-enforced U.S. dollar hegemony. The next frontier of finance being denominated in dollars is largely a good thing as it extends U.S. rule making, CoinDesk columnists have argued.</p>
+      <p>But at the same time, not everyone wants to follow U.S. rules, especially when they have no nexus to the country. Regulators in the U.S. are also hesitant to allow crypto full-fettered access to the American banking system until stringent federal oversight is established.</p>
+      <p>The market itself is not a fan of the U.S.-centric concentration risk this presents. USDC, knocked off its peg for multiple days during the crypto banking crisis, only recently regained it but the smart money is skeptical.</p>
+      <p>BitMEX co-founder Arthur Hayes thinks the answer to all of this is a bitcoin derivatives-based algorithmic stablecoin called the kakaDollar, though the market might be skeptical of the concept after the collapse of Terra last year.</p>
+      <p>There’s certainly been a successful use case for the CNH in China’s offshore bond market, for bwhich it was built. But crypto is something else entirely.</p>
+      <p>It’s not without its skeptics.</p>
+      <p>Alex Liu, CEO of Taipei-based Maicoin, said in a recent interview with CoinDesk the RMB is too tightly controlled on- or offshore for it to work out.</p>
+      <p>“I think the only real challenge for the U.S. dollar is the RMB. But not through crypto, and not through China’s CBDC,” he said, referring to a central bank digital currency. He said the real focus is oil traded in RMB-denominated contracts. “Most trade between Russia and China has been de-dollarized,” he said.</p>
+      </div>
+  },
+  {
+    id: 166,
+    title: 'Samsung to invest US$230 billion to build worlds largest semiconductor manufacturing base in South Korea',
+    category: 'Markets',
+    subCategory: ['samsung', 'south korea', 'investment'],
+    description: <div className="blog-desc">
+      <p>Samsung Electronics said on Wednesday it expects to invest 300 trillion won (US$230 billion) over the next 20 years as part of an ambitious South Korean national project to build the world's largest semiconductor manufacturing base near the capital, Seoul.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 1:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-170.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+	    <p>Samsung Electronics said on Wednesday it expects to invest 300 trillion won (US$230 billion) over the next 20 years as part of an ambitious South Korean national project to build the world's largest semiconductor manufacturing base near the capital, Seoul.</p>
+	    <p>The chip-making "mega cluster", which will be established in Gyeonggi province by 2042, will be anchored by five new semiconductor plants built by Samsung. It will aim to attract 150 other companies producing materials and components or designing hi-tech chips, according to South Korea's Ministry of Trade, Industry and Energy.</p>	
+	    <p>Samsung's new plants will be located near its existing domestic factories and will produce both memory chips used for storing data and higher-margin logic chips designed to perform a broader range of functions, the company said.</p>	
+	    <p>Do you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge, our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.</p>
+      <p>A giant in the global memory chip business, Samsung is trying to expand its presence in advanced semiconductors, anticipating that demand will soar in coming years with the adoption of new technologies, such as 5G wireless networks, artificial intelligence and self-driving cars.</p>
+      <p>The semiconductor cluster is part of broader government plans announced on Wednesday to promote six key technology industries the country sees as most crucial for its export-dependent economy.</p>
+      <p>Apart from semiconductors, they include rechargeable batteries, electric vehicles, robotics, displays and biotechnology. The government hopes to draw 550 trillion won in corporate investment on those projects through 2026.</p>
+      <p>South Korea's plan comes as other technology powerhouses, including the United States, Japan and China, are building up their domestic chip manufacturing, deploying protectionist measures, tax cuts and sizeable subsidies to lure investments.</p>
+      <p>In a meeting with economic policymakers and business leaders on Wednesday, South Korean President Yoon Suk-yeol described technology industries as the country's "key economic growth engines and security and strategic assets that are also directly linked to job creation and livelihoods".</p>
+      <img src="https://ncx.cx/images/ncx-blog-170-1.webp" alt="NCX south korea"/>
+      <p>South Korean President Yoon Suk-yeol sees technology industries as key to economic growth. Photo: Agence France-Presse alt=South Korean President Yoon Suk-yeol sees technology industries as key to economic growth. Photo: Agence France-Presse</p>
+      <p>"(South Korea) has world-class manufacturing capabilities and technologies in various hi-tech industries such as semiconductors, secondary batteries, and displays, but (government) support and regulatory conditions have been insufficient", the Trade Ministry said in a statement.</p>
+      <p>Samsung, South Korea's biggest company, has seen its profit plummet in recent months as a weak global economy, rattled by Russia's war on Ukraine and high inflation, depressed demand for its consumer electronics products and memory chips.</p>
+      <p>The company's profit for the three months through December fell near 70 per cent, partially because chip prices fell sharply as clients adjusted their inventories to reflect economic uncertainties.</p>
+      <p>SK Hynix, another major South Korean chip maker, reported an operating loss of 1.7 trillion won for the October-December period, which marked its first quarterly deficit since 2012.</p>
+      <p>This article originally appeared in the South China Morning Post (SCMP), the most authoritative voice reporting on China and Asia for more than a century. For more SCMP stories, please explore the SCMP app or visit the SCMP's Facebook and Twitter pages. Copyright © 2023 South China Morning Post Publishers Ltd. All rights reserved.</p>
+    </div>
+  },
+  {
+    id: 160,
+    title: 'Bitcoin, Ether continue run up; Solana, Dogecoin lead gainers; U.S. equities rebound',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'solana'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether continued the strong price gains for the week to move higher in Wednesday morning trading in Asia, with most of the top 10 non-stablecoin cryptocurrencies logging advances for the past seven days. Solana and Dogecoin led the Wednesday winners. The rise in cryptocurrencies accompanied a rebound in U.S. equities on Tuesday as concern about bank failures receded and February inflation data released the same day was in line with expectations.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 6:39 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-164.jpg',
+    content: <div className="blog-content">
+      <p><strong>In this article:</strong></p>
+      <p>Bitcoin and Ether continued the strong price gains for the week to move higher in Wednesday morning trading in Asia, with most of the top 10 non-stablecoin cryptocurrencies logging advances for the past seven days. Solana and Dogecoin led the Wednesday winners. The rise in cryptocurrencies accompanied a rebound in U.S. equities on Tuesday as concern about bank failures receded and February inflation data released the same day was in line with expectations.</p>
+	    <h3><strong>Fast facts</strong></h3>
+	    <ul><li>Bitcoin rose 2.10% in the past 24 hours to US$24,789 at 09:00 a.m. in Hong Kong, according to CoinMarketCap data, for a weekly gain of 11.39%. The world’s largest cryptocurrency briefly broke the US$26,000 ceiling on Tuesday evening in Asia and is now up almost 50% for the year to date.</li></ul>
+      <ul><li>Ether gained 1.90% to US$1,706, rising 8.86% in the past seven days.</li></ul>
+      <ul><li>Solana led the gainers in the top 10, adding 2.75% to US$20.93 for a rise of 3.12% for the week. The Solana Foundation introduced Ask Solana U on Tuesday, an AI-powered chat-like engine that aims to assist Web3 developers on the Solana blockchain.</li></ul>
+      <ul><li>Dogecoin rose 2.74% to US$0.07478. The memecoin is up 0.85% for the seven-day period, but still down more than 7% from the beginning of March.</li></ul>
+      <ul><li>XRP edged 0.54% higher to trade at US$0.3735, but is the only top 10 non-stablecoin cryptocurrency with a weekly loss, down 2.20%. Brad Garlinghouse, the CEO of Ripple Labs whose payment network is powered by XRP,  tweeted on Monday that Ripple had some exposure to the failed Silicon Valley Bank. This was accompanied by a large flow of XRP transactions on the same day, according to crypto tracker Whale Alert.</li></ul>
+      <ul><li>Crypto exchange Binance’s BNB rose 0.51% to US$309.51, posting a weekly gain of 6.88%. The world’s largest crypto exchange on Tuesday said it will halt its U.K. pound deposits and withdrawals by May this year, after its local partner for fiat on- and off-ramps said it was ending the service due to regulatory concerns.</li></ul>
+      <ul><li>The total crypto market capitalization rose 1.30% in the past 24 hours to US$1.09 trillion. Total trading volume over the last 24 hours gained 8.47% to US$101.54 billion.</li></ul>
+      <ul><li>U.S. equities closed higher on Tuesday. The Dow Jones Industrial Average rose 1.06%, the S&P 500 moved up 1.65% and the Nasdaq Composite Index posted the biggest gain of 2.14%.</li></ul>
+      <ul><li>Efforts by U.S. regulators and President Joe Biden to calm markets seemed to have the desired effect after the collapses of U.S. banks at the weekend. First Republic Bank, which slid over 60% on Monday and was briefly suspended from trading, bounced back almost 27% on Tuesday, according to CNBC.</li></ul>
+      <ul><li>Investors in U.S. equities and cryptocurrencies also gained some reassurance from the U.S. Labor Department’s February inflation report released Tuesday, which showed the Consumer Price Index (CPI) rose 0.6% by month and 6% on year, all in line with expectations. Though still above the Federal Reserve’s stated goal to keep annual inflation below 2%, the data suggest inflation in the U.S. is moderating and may convince the Fed to ease back on interest rate hikes.</li></ul>
+      <ul><li>After a raft of rate hikes last year and into 2023, U.S. interest rates are now between 4.5% to 4.75%, the highest since October 2007. Analysts at the CME Group expect a 79.7% chance the Fed will raise rates by 25 basis points this month. The chance of no rate increase is at 20.3%, a decrease from 35% on Tuesday.</li></ul>
+    </div>
+  },
+  {
+    id: 161,
+    title: 'Blockchain Firm RockX Unveils Institutional Liquid Staking Platform',
+    category: 'Crypto',
+    subCategory: ['blockchain', 'rockx', 'platform'],
+    description: <div className="blog-desc">
+      <p>RockX, a Singapore-based blockchain company, is looking to attract institutional investors to liquid staking with its new service, Bedrock.</p>
+    </div>,
+    authorName: 'Jamie Crawley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 5:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-165.jpg',
+    content: <div className="blog-content">
+      <h3><strong>In this article:</strong></h3>
+	    <p>RockX, a Singapore-based blockchain company, is looking to attract institutional investors to liquid staking with its new service, Bedrock.</p>
+	    <p>As well as offering staking services to retail customers, Bedrock offers institutional-grade know your customer (KYC) and anti-money laundering (AML) compliance to institutions looking to stake more than 32 ether (ETH)($57,000), RockX said in an email Wednesday.</p>	
+	    <p>The company is initially targeting exchanges and wealth management platforms, with a view to attracting large funds and banking institutions further down the line, founder and CEO Chen Zhuling told CoinDesk in an interview. Crypto trading firm Amber Group, a RockX investor, will be one of Bedrock's first clients.</p>	
+	    <p>Staking is a means of earning yield on digital assets, in which crypto holders can lock up their tokens to secure proof-of-stake blockchains in exchange for a reward. With liquid staking, investors keep their capital liquid and use their staked tokens as collateral by receiving derivatives.</p>
+      <p>Last month, liquid staking became the second-largest crypto sector when its total value of assets locked reached $14.1 billion, surpassing the $13.7 billion held on decentralized lending and borrowing protocols. Liquid staking platform Lido Finance has become decentralized finance's largest protocol with about $10 billion worth of digital assets locked on the platform.</p>
+      <p>The catalyst for liquid staking is the Ethereum blockchain's Shanghai upgrade, which will allow stakers to withdraw the ether (ETH) they have staked and for which they have accumulated rewards. The expectation is Shanghai will strengthen ETH by establishing a blueprint for staking protocols and give users more confidence in their sovereignty over their assets.</p>
+      <p>However, there have been doubts cast on the appetite for liquid staking among financial institutions, particularly in the Asian market closest to RockX. David Cicoria, head of markets technology for digital asset custodian Hex Trust, recently said institutions are giving it a miss due to risks of depegging, hacks and lack of regulatory clarity.</p>
+      <p>Zhuling agreed institutions do hold some of these concerns, but stressed the important distinction between custodial and non-custodial staking services. Bedrock falls under the latter.</p>
+      <p>"We are not holding any ETH at all. All the ETH is held in a smart contract and then deployed to validators," he said.</p>
+      <p>"It's very easy to tally how many coins are held in the pool and thence being passed on to validators, so there is no risk of inflation of the numbers or misappropriation of assets," he added.</p>
+    </div>
+  },
+  {
+    id: 162,
+    title: 'In About-Face, Crypto Exchanges Abandon Support for STG Token Reissuance',
+    category: 'Crypto',
+    subCategory: ['Exchange', 'Crypto', 'STG Token'],
+    description: <div className="blog-desc">
+      <p>Bitfinex and Binance are walking back technical support for Stargate Finance’s plans to reissue its stargate (STG) tokens, according to several announcements that came out this week. They will now promote the use of the protocol’s original STG tokens.</p>
+    </div>,
+    authorName: 'Elizabeth Napolitano',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023 - 2:36 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-166.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Bitfinex and Binance are walking back technical support for Stargate Finance’s plans to reissue its stargate (STG) tokens, according to several announcements that came out this week. They will now promote the use of the protocol’s original STG tokens.</p>
+	    <p>The crypto exchanges’ decision to eliminate support for the new STG tokens follows Stargate decentralized autonomous organization’s (DAO) decision on Tuesday to pump the brakes on its plan to mint new tokens, according to a recent community proposal. At the time of that decision Stargate Finance had already begun disseminating the new STG tokens, according to data from Etherscan – a problem with which exchanges must now contend to eliminate security risks to STG token holders.</p>	
+	    <p>StargateDAO initially voted in favor of reissuing all STG tokens by March 15 after it uncovered security risks posed by “illegitimate STG transfers from compromised Alameda wallets,” referring to the failed crypto trading firm where roughly 10% of STG tokens are held. However, the DAO abandoned those plans when liquidators of FTX, Alameda’s sister company, rebuked the plan, arguing it violated an automatic stay issued in the FTX bankruptcy case.</p>	
+	    <p>"[The reissuance] was to try to help the safety of the tokens in question. This is now being challenged with the liquidators clearly not wanting them moved," StargateDAO’s latest proposal to unwind the token’s reissuance reads.</p>
+      <p>As a result, Bitfinex and Binance are now revoking scheduled STG contract swaps on various blockchains. They have also taken steps to ascertain whether their users who have STG holdings are, in fact, holding original STG tokens and not reissued tokens.</p>
+      <p>Bitfinex provided its users with a contract address on the Ethereum network against which they could check the validity of their STG tokens.</p>
+      <p>"We would like to remind our customers that there are STG tokens with different contract addresses in circulation; therefore, please don't send any STG tokens to our platform other than the one with the above contract address to avoid losing funds," Bitfinex said in its post about the canceled reissuance.</p>
+      <p>Meanwhile, Binance pledged to "swap [users’] new STG tokens back to old STG tokens" to mitigate security risks associated with the use of the new STG tokens.</p>
+    </div>
+  },
+  {
+    id: 163,
+    title: 'U.S. could pass stablecoin legislation in a few days, says Rep. Maxine Waters',
+    category: 'Crypto',
+    subCategory: ['US', 'Stablecoin', 'legislation'],
+    description: <div className="blog-desc">
+      <p>Market turmoil resulting from Silicon Valley Bank's collapse briefly caused Circle's USDC (USDC-USD) stablecoin to break its peg to the dollar. In response, the stablecoin issuer's management team has called upon the U.S. congress to urgently pass stablecoin legislation.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 14, 2023 - 9:35 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-167.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Market turmoil resulting from Silicon Valley Bank's collapse briefly caused Circle's USDC (USDC-USD) stablecoin to break its peg to the dollar. In response, the stablecoin issuer's management team has called upon the U.S. congress to urgently pass stablecoin legislation.</p>
+	    <p>In an interview with Yahoo Finance's Jennifer Schonberger, House Committee on Financial Services Chair Rep. Maxine Waters (D-CA), says the legislation could be passed in just a few days, hinting that the delay was due to concerns over which political party would be in control of the House of Representatives.</p>	
+	    <p>"The only thing that interfered, I think, with its passage was the anticipation that the house was going to change and it was going to be in the hands of the Republicans and they should take charge rather than those of us on the Democratic side," said Ranking Member Waters.</p>	
+	    <p>Rep. Waters declined to give a timetable for the legislation, though she did reaffirm that she and Rep. Patrick McHenry (R-NC), are focused on stablecoin legislation and have bipartisan support to get it done.</p>
+    </div>
+  },
+  {
+    id: 164,
+    title: 'Bitcoin breaks US$26,000 as inflation cools in February',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'breaks', 'inflation'],
+    description: <div className="blog-desc">
+      <p>Bitcoin, the world’s largest cryptocurrency, rallied past the US$26,000 mark at 09:15 p.m. in Hong Kong, shortly after the release of the U.S. Consumer Price Index (CPI), which indicated a drop in annual inflation rate to 6% in February.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 14, 2023 - 7:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-168.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin, the world’s largest cryptocurrency, rallied past the US$26,000 mark at 09:15 p.m. in Hong Kong, shortly after the release of the U.S. Consumer Price Index (CPI), which indicated a drop in annual inflation rate to 6% in February.</p>
+	    <h3>Fast facts</h3>
+      <ul><li>The inflation data was in line with the expectations of the market and a decrease from January’s rate of 6.4%. CPI rose 0.4% on the month, lower than 0.5% in January.</li></ul>
+      <ul><li>Housing remains a big contributor to the index, accounting for over 70% of the monthly increase.</li></ul>
+      <ul><li>Meanwhile, Bitcoin jumped 6.10% to soar past the US$26,000 mark, a level not seen since June 2022, according to CoinMarketCap data.  Ether also enjoyed a bump, rising 4.57% to US$1,767.</li></ul>
+      <ul><li>This increase in cryptocurrency prices boosted the total crypto market capitalization by 12.15% in the past 24 hours to US$1.14 trillion</li></ul>
+      <ul><li>Market analysts were previously predicting that the Federal Reserve would consider 50 basis point rate hikes at the next Federal Open Market Committee meeting scheduled for next week. However, recent events have changed expectations regarding interest rates.</li></ul>
+      <ul><li>The failures of Silicon Valley Bank and Signature Bank over the past weekend have caused many market watchers to revise their predictions. Some analysts even believe that the Fed may decide to leave rates unchanged.</li></ul>
+      <ul><li>“While a 50 basis point interest rate hike was seen as increasingly possible last week, U.S. bank issues have shifted expectations toward lower raises,” Ahmed Negm, head of market research at trading platform XS.com, said in a statement.</li></ul>
+    </div>
+  },
+  {
     id: 151,
     title: 'Facebook Parent Meta Plans 10,000 Job Cuts in New Round of Layoffs',
     category: 'Markets',
