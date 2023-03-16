@@ -3,7 +3,7 @@ const blogListdata = [
     id: 176,
     title: 'Asian stocks fall, Europe gains after Credit Suisse jitters',
     category: 'Indices',
-    subCategory: ['Asian', 'stocks', 'Credit suisse'],
+    subCategory: ['Asian', 'indices', 'Credit suisse'],
     description: <div className="blog-desc">
       <p>BEIJING (AP) — European shares advanced Thursday following a retreat in Asia after Credit Suisse said it would borrow up to $54 billion from Switzerland's central bank to shore up its finances, possibly easing worries about a bank crisis following the failure of two U.S. lenders.</p>
     </div>,
