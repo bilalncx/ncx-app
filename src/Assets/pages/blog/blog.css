@@ -173,6 +173,7 @@ p.blog-date {
   font-family: 'urbanist-medium';
   font-size: 20px;
   line-height: 24px;
+  margin: 10px 0px;
 }
 .blog-content ul {
   margin-top: 15px;

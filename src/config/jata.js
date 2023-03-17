@@ -14,8 +14,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-194.jpg',
     content: <div className="blog-content">
-      <ul><li>Optimism Goerli nodes halted temporarily, business went on as usual for Optimism</li></ul>
-      <ul><li>Spike in daily transactions observed while fees collected declined on the charts</li></ul>
+      <ul>
+        <li>Optimism Goerli nodes halted temporarily, business went on as usual for Optimism</li>
+        <li>Spike in daily transactions observed while fees collected declined on the charts</li>
+      </ul>
       <p>The implementation of the long-anticipated Shapella hard fork took place on Ethereum’s Goerli network on March 15. This resulted in a brief pause in Optimism‘s Goerli nodes. Goerli is a network utilized by Ethereum developers for testing purposes. Nevertheless, the Optimism protocol persevered, with its ecosystem flourishing despite the disruption to the Goerli nodes.</p>
 	    <h3>Glass half full</h3>
 	    <p>The growth of Optimism’s ecosystem is evident in the neck-to-neck competition for its 10th grant cycle. This cycle received a high number of applications, with many developers and applications competing for a grant to build on the network. The incentives to build on Optimism could help the protocol in attracting more developers and users to the network.</p>
@@ -42,8 +44,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-193.jpg',
     content: <div className="blog-content">
-      <ul><li>Galaxy Digital’s Christine Kim discussed Ethereum’s Shanghai upgrade on an episode of Unchained</li></ul>
-      <ul><li>Kim believes unlocking of staked Ether, subsequent withdrawals will stress test the network</li></ul>
+      <ul>
+        <li>Galaxy Digital’s Christine Kim discussed Ethereum’s Shanghai upgrade on an episode of Unchained</li>
+        <li>Kim believes unlocking of staked Ether, subsequent withdrawals will stress test the network</li>
+      </ul>
       <p>Christine Kim, the Vice President of Research at Galaxy Digital, recently appeared on a podcast hosted by Laura Shin. Kim, who is an experienced Ethereum researcher, shared her thoughts on the highly anticipated Shanghai upgrade and its impact on the network and ETH’s price. </p>
 	    <h3>Shanghai upgrade will stress test the network</h3>
 	    <p>Ethereum validators have eagerly anticipated the Shanghai upgrade for a while. EIP 4895 is arguably the most-awaited aspect of the upgrade, which will unlock staked Ether and allow its withdrawals. Speaking about the upgrade, Christine Kim noted that the activation of staked ETH withdrawals on Ethereum is a major milestone. According to her, Shanghai and Capella aren’t necessarily different upgrades since they both work towards the same goal of enabling withdrawals of staked ETH. </p>
@@ -71,8 +75,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-192.jpg',
     content: <div className="blog-content">
-      <ul><li>The daily market structure has turned bullish</li></ul>
-      <ul><li>A pullback as deep as $290 remains a possibility though</li></ul>
+      <ul>
+        <li>The daily market structure has turned bullish</li>
+        <li>A pullback as deep as $290 remains a possibility though</li>
+      </ul>
       <p>Binance Coin [BNB] reacted extremely positively over the past two days of trading. The bullish euphoria over Bitcoin’s gains translated across the crypto-market and BNB gained by 20.5% within four days. A retracement before a sustained move higher up the charts remains possible too.</p>
 	    <p>On the daily timeframe, the market structure for Binance Coin seemed to be bullish once more. The recent lower high at $294 was beaten during the latest reversal, but the $309-mark has posed some resistance over the past 24 hours.</p>
       <h3>A strong confluence of support at $292</h3>
@@ -100,8 +106,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-191.jpg',
     content: <div className="blog-content">
-      <ul><li>The bulls seem to have fronted a recovery on the charts</li></ul>
-      <ul><li>CVD (Cumulative Volume Delta) fell and could affect bulls’ efforts</li></ul>
+      <ul>
+        <li>The bulls seem to have fronted a recovery on the charts</li>
+        <li>CVD (Cumulative Volume Delta) fell and could affect bulls’ efforts</li>
+      </ul>
       <p>While the bears have controlled MATIC’s market since mid-February, bulls only gained considerable leverage on 10 March. At the time, while the price action rebounded from $0.943, it has since faced stiff resistance levels.</p>
 	    <p>Additionally, Bitcoin [BTC] faced rejection around the $26K zone and dropped below $25K, further undermining the rest of the altcoin’s market recovery in the short-term. However, a retest of BTC’s latest highs could lead the altcoin market into a renewed recovery process.</p>
       <h3>MATIC’s recovery at stake – Can bulls push forward?</h3>
@@ -129,8 +137,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-190.jpg',
     content: <div className="blog-content">
-      <ul><li>Social sentiment in connection with Cardano has begun to rise</li></ul>
-      <ul><li>Project’s TVL also hiked while its founder pushed for a bank-free crypto-sector</li></ul>
+      <ul>
+        <li>Social sentiment in connection with Cardano has begun to rise</li>
+        <li>Project’s TVL also hiked while its founder pushed for a bank-free crypto-sector</li>
+      </ul>
       <p>Cardano [ADA], the decentralized Proof-of-Stake (PoS) blockchain, has put up with consistent neglect by folks in the crypto-channel. The lack of attention given to the network might be surprising though, especially as the ecosystem reacted positively to recent crises in the industry.</p>
 	    <h3>An escape route for the fallen</h3>
 	    <p>However, according to on-chain data, Cardano’s struggles are not really a recent matter. In fact, Santiment data revealed that social dominance has hit severe rock bottom repeatedly since 26 February.</p>
@@ -161,8 +171,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-189.jpg',
     content: <div className="blog-content">
-      <ul><li>FET hit a key price rejection level </li></ul>
-      <ul><li>Bulls can be hopeful because of rising Mean Coin Age and favorable sentiment </li></ul>
+      <ul>
+        <li>FET hit a key price rejection level </li>
+        <li>Bulls can be hopeful because of rising Mean Coin Age and favorable sentiment </li>
+      </ul>
       <p>Fetch [FET] oscillated around $0.371 – $0.490 over the last few days before breaking below the range. However, bulls found steady ground at $0.298 on March 12, pushing the price back into its previous range only to face rejection at the range’s upper boundary. </p>
 	    <p>At press time, the AI-focused token’s value was $0.4310, down 10% in the last 24 hours. However, FET could benefit from a renewed AI narrative.</p>
       <p>OpenAI released its latest and advanced ChatGPT-4 as a Google-backed Anthropic also rolled out a “safer” rival AI chatbot called Claude. This marked a renewal of the AI-wars that could boost AI-focused tokens like Fetch [FET], as seen in the past trend. </p>
@@ -192,8 +204,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-188.jpg',
     content: <div className="blog-content">
-      <ul><li>USDC regained its peg after Circle moved quickly with new banking partners.</li></ul>
-      <ul><li>USDC demonstrated signs of demand and volume recovery.</li></ul>
+      <ul>
+        <li>USDC regained its peg after Circle moved quickly with new banking partners.</li>
+        <li>USDC demonstrated signs of demand and volume recovery.</li>
+      </ul>
       <p>Circle faced its toughest week so far this year after USD Coin [USDC] lost its dollar peg. It has since recovered, but the stablecoin issuer just released a new update regarding its USDC operations.</p>
       <p>According to the update, Circle redeemed 2.9 billion USDC and minted 700 million USDC on 14 March. Those efforts were part of its action plan to aid the peg recovery. More importantly, Circle announced that it was securing new transaction banking partners. The company’s goal is to facilitate round-the-clock transactions that will not be limited by regular banking hours.</p>
       <p>Circle further revealed that it had limited funds held by its transaction banking partners to support redemption and minting. It also revealed that it held a cash position of its reserve at BNY Mellon. Thus, at press time, it had on-ramps for users looking to move their funds into the crypto segment.</p>
@@ -220,8 +234,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-187.jpg',
     content: <div className="blog-content">
-      <ul><li>MakerDAO’s RWA holdings led to profits amid stablecoin market issues.</li></ul>
-      <ul><li>Protocol maintains stability but faces a decline in unique users.</li></ul>
+      <ul>
+        <li>MakerDAO’s RWA holdings led to profits amid stablecoin market issues.</li>
+        <li>Protocol maintains stability but faces a decline in unique users.</li>
+      </ul>
       <p>The stablecoin market faced a significant challenge as USD Coin [USDC] came under scrutiny. MakerDAO, the protocol behind stablecoin DAI, also felt the impact. But despite this, MakerDAO saw profits, thanks to its RWA holdings.</p>
 	    <p>According to data provided by Delphi Digital, MakerDAO made a $3.8 million profit through its RWA holdings. These holdings contribute significantly to MakerDAO’s overall earnings, making up 11.6% of its total holdings. Real World Asset (RWA) is a type of collateral that is not cryptocurrency-based but is more traditional and tangible, such as U.S. Treasury Bills and Bonds.</p>
       <h3>Having a closer look</h3>
@@ -249,8 +265,10 @@ const blogListdata = [
     createdAt: 'Mar 16, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-186.jpg',
     content: <div className="blog-content">
-      <ul><li>Coinbase enters the Singapore market through strategic partnership with Standard Chartered.</li></ul>
-      <ul><li>The launch was flagged off through regulatory approval from the Monetary Authority of Singapore.</li></ul>
+      <ul>
+        <li>Coinbase enters the Singapore market through strategic partnership with Standard Chartered.</li>
+        <li>The launch was flagged off through regulatory approval from the Monetary Authority of Singapore.</li>
+      </ul>
 	    <p>On 15 March, Coinbase announced that it had secured a partnership with TradFi giant Standard Chartered. This move undermined recent directives by regulators aiming to prevent the flow of liquidity into the crypto market.</p>
 	    <p>Crypto regulators issued a directive to U.S banks in February, requiring them not to engage in business with crypto companies. However, Coinbase moved forward nonetheless. According to a recent announcement, the partnership will provide a free on-ramp and off-ramp for crypto users in Singapore.</p>	
 	    <p>Coinbase also revealed that it updated its help center so that it can offer learning material for over 200 crypto assets. This is a surprising change of pace for Singapore users because regulators in the country previously criticized cryptocurrencies.</p>	
@@ -436,7 +454,7 @@ const blogListdata = [
       <p>Also, we should mention that EXLS has a PEG ratio of 1.58. This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate. Outsourcing stocks are, on average, holding a PEG ratio of 1.68 based on yesterday's closing prices.</p>
       <p>The Outsourcing industry is part of the Business Services sector. This industry currently has a Zacks Industry Rank of 46, which puts it in the top 19% of all 250+ industries.</p>
       <p>The Zacks Industry Rank gauges the strength of our individual industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
-      </div>
+    </div>
   },
   {
     id: 170,
@@ -688,8 +706,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-211.jpg',
     content: <div className="blog-content">
-      <ul><li>The daily market structure, at press time, was about to flip bullish</li></ul>
-      <ul><li>Two levels for lower timeframe traders to watch out for as a retest can provide trading opportunities</li></ul>
+      <ul>
+        <li>The daily market structure, at press time, was about to flip bullish</li>
+        <li>Two levels for lower timeframe traders to watch out for as a retest can provide trading opportunities</li>
+      </ul>
       <p>The release of the CPI data was just around the corner, at the time of writing. Ease in inflation is expected, but is this expectation already priced in? Does that explain the recent Bitcoin pump right into a zone of resistance at this critical moment? And, what can that mean for Polkadot traders?</p>
 	    <p>Traders can prepare themselves for the bullish and the bearish scenarios. Since DOT is also at a critical inflection point, its next leg is not yet certain. Evidence for the next move can be awaited before assuming positions in the market.</p>
       <h3>The daily bearish breaker is likely to oppose DOT bulls</h3>
@@ -697,7 +717,9 @@ const blogListdata = [
 	    <p>If BTC can break out past this resistance, it would signal bullish sentiment across the market. This could prime DOT to climb past the $6.1-level as well. However, a daily session close above the breaker would be required before buyers can look for opportunities to enter long positions. The market structure was on the verge of flipping bullish as well, as the recent lower high at $6.06 from 5 March could be beaten.</p>	
 	    <p>On the other hand, if the price sees rejection and falls beneath the $5.75-level, it would be a sign that bears had taken control. Short sellers can thereafter look to short the asset, with a stop-loss above the $6.1-mark. To the south, targets would be the $5.6-level and the March low at $5.15.</p>	
 	    <p>The RSI was at neutral 50 at press time, while the A/D line had climbed over the past few weeks to show strong buying pressure. This was another indication that DOT was in a significant area, but it appeared the buyers had an edge.</p>
-      <ul><li>OI indicated participants could be trying to fade the rally</li></ul>
+      <ul>
+        <li>OI indicated participants could be trying to fade the rally</li>
+      </ul>
       <p>The Funding Rate jumped into positive territory to signal that the sentiment was bullish. However, the 1-hour chart showed a drop in Open Interest over the last 12 hours preceding the time of writing. In this period, the price continued to climb higher.</p>
       <p>This suggested that long positions were discouraged and bearish sentiment began to take hold. And yet, it could be too early to short Polkadot. The reaction of Bitcoin over the next couple of days would show the direction of the market over the coming weeks.</p>
     </div>
@@ -717,8 +739,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-210.jpg',
     content: <div className="blog-content">
-      <ul><li>Polkadot has announced the launch of an NFT marketplace by Beatport on Aventus</li></ul>
-      <ul><li>Polkadot NFT volume fairly normal as DOT commenced recovery on price charts</li></ul>
+      <ul>
+        <li>Polkadot has announced the launch of an NFT marketplace by Beatport on Aventus</li>
+        <li>Polkadot NFT volume fairly normal as DOT commenced recovery on price charts</li>
+      </ul>
       <p>Polkadot is making a significant play in the Non-Fungible Token (NFT), and Web 3 arena as the space grows and the link gets deeper. The development of the Internet and how we interact with digital assets are tied to Web3 and NFTs. Polkadot is putting its foot down early with a recent collaboration announcement with Beatport. Needless to say, a favorable effect on DOT may be on the cards too.</p>
 	    <h3>The Polkadot partnership with Beatport</h3>
 	    <p>NFTs are a crucial application of Web3 technology, enabling the creation and ownership of unique digital assets that can be verified on a blockchain. As the Web 3 ecosystem grows, we expect to see more innovative uses of NFTs and other blockchain-based assets.</p>
@@ -750,8 +774,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-209.jpg',
     content: <div className="blog-content">
-      <ul><li>BCH’s correlation with BTC has led to a rally in its price</li></ul>
-      <ul><li>If positive conviction remains, the coin’s value can be expected to appreciate even further</li></ul>
+      <ul>
+        <li>BCH’s correlation with BTC has led to a rally in its price</li>
+        <li>If positive conviction remains, the coin’s value can be expected to appreciate even further</li>
+      </ul>
       <p>Due to its statistically significant positive correlation with Bitcoin [BTC], Bitcoin Cash’s [BCH] price has also rallied in the last 24 hours. This, following the decision by the U.S. Department of the Treasury, Federal Reserve, and Federal Deposit Insurance Corporation (FDIC) to restore all customer deposits at failed Silicon Valley Bank (SVB).</p>
       <p>When SVB collapsed on 11 March, BCH slipped below $110 and oscillated between $109 and $110 for most of the weekend. However, as BTC’s price rallied in the early trading hours of 13 March following the Federal Regulators’ decision to make all SVIB depositors whole, BCH reclaimed $110 and exceeded it.</p>
       <p>Still on a rally at press time, BCH’s price had appreciated by 5% in the last 24 hours. At the time, the cryptocurrency was trading at $127.31.</p>
@@ -782,8 +808,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-208.jpg',
     content: <div className="blog-content">
-      <ul><li>Whales added 400,000 ETH despite a recent price increment</li></ul>
-      <ul><li>More ETH is being circulated although the current vault could be overpriced</li></ul>
+      <ul>
+        <li>Whales added 400,000 ETH despite a recent price increment</li>
+        <li>More ETH is being circulated although the current vault could be overpriced</li>
+      </ul>
       <p>Like a ton of assets in the crypto-market, Ethereum’s [ETH] price jumped over the weekend. Even at press time, the second-largest cryptocurrency in market value maintained a 5.11% hike in the last 24 hours. Needless to say, this has brought some calm to the market. Especially since much of it was flashing red over the weekend.</p>
 	    <p>However, despite the gains registered on the charts, whales did not seem to be content. As pointed out by Ali_charts, a crypto-analyst on Twitter, addresses holding 1000 to 10000 ETH added $600 million to their holdings.</p>
       <p>The information, derived from Glassnode, revealed that the whales took the action when ETH was still hovering above $1,680 on the charts.</p>
@@ -815,8 +843,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-207.jpg',
     content: <div className="blog-content">
-      <ul><li>CEXs registered a massive surge in usage and balance after USDC’s de-peg</li></ul>
-      <ul><li>Sustained interest in various CEX tokens also recorded a hike</li></ul>
+      <ul>
+        <li>CEXs registered a massive surge in usage and balance after USDC’s de-peg</li>
+        <li>Sustained interest in various CEX tokens also recorded a hike</li>
+      </ul>
       <p>Despite the adverse effects of the USDC situation on various aspects of the cryptocurrency sector, centralized exchanges were able to reap significant gains during this time.</p>
 	    <h3>CEXs reap rewards</h3>
 	    <p>According to data provided by Messari, activity on CEXs hit a 12-month high due to USDC’s de-pegging event. Exchanges such as Binance, OKX, and Kraken all recorded an uptick in activity over this period.</p>
@@ -844,8 +874,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-206.jpg',
     content: <div className="blog-content">
-      <ul><li>Ripple updated its EVM sidechain development with access to the Testnet.</li></ul>
-      <ul><li>XRP’s network growth declined, but developers remained significantly active.</li></ul>
+      <ul>
+        <li>Ripple updated its EVM sidechain development with access to the Testnet.</li>
+        <li>XRP’s network growth declined, but developers remained significantly active.</li>
+      </ul>
       <p>On 14 March, RippleX, the open platform of the Ripple [XRP] network, confirmed that its sidechain was available on its Testnet. Built on the XRP Ledger [XRPL], the Ethereum Virtual Machine [EVM] sidechain would enable 1000 transactions per second on the ledger.</p>
 	    <p>Contextually, the XRPL is a public blockchain led by Ripple’s developer community. The ledger is part of the ecosystem responsible for aiding asset transfer globally. So, now that the sidechain EVM Mainnet is approaching, cross-chain bridging could improve the network.</p>
       <h3>The dream is edging close to reality</h3>
@@ -875,8 +907,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-205.jpg',
     content: <div className="blog-content">
-      <ul><li>Polygon [MATIC] continued on its consecutive rise at press time.</li></ul>
-      <ul><li>Its social dominance rose with the introduction of the Polygon domain.</li></ul>
+      <ul>
+        <li>Polygon [MATIC] continued on its consecutive rise at press time.</li>
+        <li>Its social dominance rose with the introduction of the Polygon domain.</li>
+      </ul>
       <p>There have been many recent periods of uptrend activity on Polygon [MATIC], suggesting that the cryptocurrency has emerged from the doldrums it was mired in since 18 February. With the token garnering some attention in terms of social volume, its movement on exchanges is something that investors can keep monitoring.</p>
 	    <h3>Polygon sees positive social volume</h3>
 	    <p>As per Santiment’s chart, Polygon has experienced a boost in its social volume. The observed chart indicated that the last time MATIC experienced such an uptrend was in August. According to Alicharts, this shift was also suggestive of optimistic attitudes that could benefit the asset’s price. As of this writing, the social volume metric was over 1,000, and the weighted sentiment was over 2.2.</p>
@@ -907,8 +941,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-204.jpg',
     content: <div className="blog-content">
-      <ul><li>MakerDAO has a new proposal to introduce a debt ceiling breaker.</li></ul>
-      <ul><li>MKR has commenced a new bear run.</li></ul>
+      <ul>
+        <li>MakerDAO has a new proposal to introduce a debt ceiling breaker.</li>
+        <li>MKR has commenced a new bear run.</li>
+      </ul>
       <p>In a new emergency executive proposal, leading DeFi platform MakerDAO [MKR] has sought community approval to introduce a debt ceiling breaker for collateral assets used to mint its DAI stablecoin.</p>
       <p>This action became necessary after USD Coin [USDC] lost its parity with the U.S. dollar last weekend due to the disclosure that Circle, the issuer, held deposits at Silicon Valley Bank (SVIB). As USDC was a significant collateral backing for DAI, its de-pegging event resulted in a temporary loss of dollar parity for DAI.</p>
       <p>With this new proposal, the DeFi protocol aims to implement a mechanism to set the debt ceiling of any collateral type to zero on the Maker protocol.</p>
@@ -936,8 +972,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-203.jpg',
     content: <div className="blog-content">
-      <ul><li>Companies in search for new banking partners after collapse of three in less then a week</li></ul>
-      <ul><li>Anchorage Digital announces layoffs amid uncertain regulatory environment</li></ul>
+      <ul>
+        <li>Companies in search for new banking partners after collapse of three in less then a week</li>
+        <li>Anchorage Digital announces layoffs amid uncertain regulatory environment</li>
+      </ul>
       <p>The recent turmoil in the U.S. banking industry has left crypto-companies searching high and low for new partner banks. Last week, Silvergate Capital, Silicon Valley Bank, and Signature Bank all shut down following regulatory intervention. This forced many users to move their assets elsewhere.</p>
       <p>It is difficult to find alternatives to these banks as their instant payment platforms were critical for transactions 24*7. According to many, the current regulatory environment in the U.S indicates it is not best suited for the growth of the crypto-space.</p>
 	    <h3>Experts share their two cents</h3>
@@ -970,8 +1008,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-202.jpg',
     content: <div className="blog-content">
-      <ul><li>U.S. government is arguing that $1 billion transaction made by Binance.US to purchase assets of Voyager should be placed on hold</li></ul>
-      <ul><li>In order to file an appeal, a two-week delay on the court’s approval has been requested</li></ul>
+      <ul>
+        <li>U.S. government is arguing that $1 billion transaction made by Binance.US to purchase assets of Voyager should be placed on hold</li>
+        <li>In order to file an appeal, a two-week delay on the court’s approval has been requested</li>
+      </ul>
       <p>The plan by insolvent lender Voyager Digital to sell its digital assets to cryptocurrency exchange Binance.US includes a clause that would preclude U.S. authorities from bringing legal action against anyone connected to the sale.</p>
 	    <p>According to a motion filed by U.S. Trustee William Harrington and other government lawyers before a New York bankruptcy court, “the court improperly exceeded its statutory power” in authorizing the pardoning. In fact, they have asked for a two-week hold on the court’s approval of the transaction so that they could submit an appeal.</p>
       <h3>What does the Provision say?</h3>
@@ -1001,8 +1041,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-201.jpg',
     content: <div className="blog-content">
-      <ul><li>Filecoin has launched its Filecoin Virtual Machine.</li></ul>
-      <ul><li>The FVM has led to increased FIL trading in the last 24 hours.</li></ul>    
+      <ul>
+        <li>Filecoin has launched its Filecoin Virtual Machine.</li>
+        <li>The FVM has led to increased FIL trading in the last 24 hours.</li>
+      </ul>    
       <p>To provide an execution environment for running the Ethereum [ETH] Virtual Machine (EVM)-compatible smart contracts on its network, leading decentralized storage network Filecoin [FIL] finally launched its Filecoin Virtual Machine [FVM] on the mainnet on 14 March.</p>
       <p>The launch of the FVM formed the final step of Filecoin’s Masterplan to bring large-scale computation and the ability to power web-scale apps to the decentralized storage network.</p>
       <p>According to the press release, the Filecoin Virtual Machine will provide similar abilities to Ethereum, allowing for the development and deployment of decentralized applications and the ability to connect with other blockchains.</p>
@@ -1031,8 +1073,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-200.jpg',
     content: <div className="blog-content">
-      <ul><li>Addresses with large USDT holdings are moving their assets off exchanges.</li></ul>
-      <ul><li>Tether’s market cap dominated Circle, but earlier high sentiment has reduced.</li></ul>
+      <ul>
+        <li>Addresses with large USDT holdings are moving their assets off exchanges.</li>
+        <li>Tether’s market cap dominated Circle, but earlier high sentiment has reduced.</li>
+      </ul>
       <p>Over the weekend, stablecoins became “unstable” as fifth-ranked cryptocurrency as Circle USDC in market value lost its dollar peg. Following the event, a lot of investors switched sides and held their stables in Tether [USDT]. This led to a drop in USDC’s market capitalization and increased dominance for Tether.</p>
 	    <p>While many may have believed that USDT could act as a safe haven, not many trusted keeping them on exchanges. In fact, whales were the leading light in this group.</p>
       <h3>Whales keep stability to themselves</h3>
@@ -1062,8 +1106,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-199.jpg',
     content: <div className="blog-content">
-      <ul><li>The H4 market structure was strongly bullish.</li></ul>
-      <ul><li>The trading volume saw an increase during the shift in structure.</li></ul>
+      <ul>
+        <li>The H4 market structure was strongly bullish.</li>
+        <li>The trading volume saw an increase during the shift in structure.</li>
+      </ul>
       <p>Measured from the swing low at $0.0625, Dogecoin [DOGE] has made gains of close to 25% within the past five days. The sentiment across the crypto sphere was bullish following Bitcoin’s [BTC] sharp breakout past the $22k region on Monday.</p>
 	    <p>Bitcoin’s surge past $25.2k resistance on Tuesday meant it, too, had a strong bullish bias going forward. Dogecoin bulls might have to be wary- such a strong pump could see a large retracement before the next leg.</p>
       <h3>Two lower highs were breached and showed a shift in bias</h3>
@@ -1091,8 +1137,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-198.jpg',
     content: <div className="blog-content">
-      <ul><li>While Solana saw growth on multiple fronts, TVL declined</li></ul>
-      <ul><li>On-chain metrics showcased a pessimistic outlook, with some traders turning bearish</li></ul>
+      <ul>
+        <li>While Solana saw growth on multiple fronts, TVL declined</li>
+        <li>On-chain metrics showcased a pessimistic outlook, with some traders turning bearish</li>
+      </ul>
       <p>Multiple dApps and DEXs on the Solana network have seen an uptick in activity over the last few days. However, this spike in activity on Solana may not be enough for the chain to take part in this bull run.</p>
 	    <p>The DEX in question would be Drift Protocol, with the same recording an ATH recently in terms of daily active users.</p>
       <p>Another dApp – Light Protocol –  witnessed an improvement in terms of activity on the Solana network.  The protocol verifies ZK SNARKs on the network. At press time, the protocol had managed to complete over 2 million transactions.</p>
@@ -1122,8 +1170,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-197.jpg',
     content: <div className="blog-content">
-      <ul><li>Authorities have seized and taken down the website of ChipMixer</li></ul>
-      <ul><li>The crypto mixer was used to launder funds stolen from Binance, Ronin Bridge, and FTX</li></ul>
+      <ul>
+        <li>Authorities have seized and taken down the website of ChipMixer</li>
+        <li>The crypto mixer was used to launder funds stolen from Binance, Ronin Bridge, and FTX</li>
+      </ul>
       <p>Bitcoin mixer – ChipMixer has been shut down by authorities, as per an announcement by Europol. The operation involved the collaboration of regulatory authorities from various countries. The operation also resulted in the seizure of four servers, over 1909.4 Bitcoins (BTC) – over $46.6 million (nearly EUR 44.2 million), and 7 TB of data.</p>
 	    <h3>Multiple agencies collaborate to bring down the Bitcoin mixer</h3>
 	    <p>United States Federal Bureau of Investigation (FBI), Homeland Security Investigation, and Department of Justice took part in taking down the platform. Germany’s Federal Criminal Police Office and General Prosecutors Office Frankfurt-Main also headed the operations. Others included Belgium’s Federal police, Poland’s Central Cybercrime Bureau, and Switzerland’s Cantonal Police of Zurich. The press release further said,</p>
@@ -1150,8 +1200,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-196.jpg',
     content: <div className="blog-content">
-      <ul><li>ADA’s four-hour chart was bullish.</li></ul>
-      <ul><li>The bulls had minimal leverage as per long vs. short positions.</li></ul>
+      <ul>
+        <li>ADA’s four-hour chart was bullish.</li>
+        <li>The bulls had minimal leverage as per long vs. short positions.</li>
+      </ul>
       <p>Cardano [ADA] rebounded strongly after hitting its recent low of $0.3020 on 12 March. It saw aggressive buying at the above lows pushing its price break key resistances as Bitcoin [BTC] surged to the $26k area. </p>
 	    <p>However, BTC saw a sharp rejection at $26k and was operating below $25k at press time. Similarly, ADA hit the price ceiling at $0.368 and entered a retracement, pushing it into a key price range. As such, BTC’s price action will determine ADA’s price direction in the next few days/weeks.</p>
       <h3>ADA re-enters a previous short-term consolidation range</h3>
@@ -1179,8 +1231,10 @@ const blogListdata = [
     createdAt: 'Mar 15, 2023', 
     cover: 'https://ncx.cx/images/ncx-blog-195.jpg',
     content: <div className="blog-content">
-      <ul><li>ETH sees surge in demand which may remain in the long term courtesy of deflationary milestone</li></ul>
-      <ul><li>ETH shorts traders suffer as price pivots while demand for leverage recovers</li></ul>
+      <ul>
+        <li>ETH sees surge in demand which may remain in the long term courtesy of deflationary milestone</li>
+        <li>ETH shorts traders suffer as price pivots while demand for leverage recovers</li>
+      </ul>
       <p>Ethereum’s EIP 1559 in August last year marked an important milestone for the network and ETH. The impact of that milestone is particularly evident in the fact that ETH is now deflationary.</p>
 	    <p>The latest Ethereum data reveals that the network has so far burned over 3 million ETH. The total amount of ETH burned is worth over $9.09 billion, trimming the post Merge total supply by slightly over 62,000 ETH. These findings underscore the progress that the Ethereum network has achieved so far as part of its PoS transition.</p>
       <h3>ETH’s race for sound money</h3>
@@ -1326,9 +1380,11 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-162.jpg',
     content: <div className="blog-content">
 	    <h3><strong>In this issue</strong></h3>
-      <ol><li>USDC: Level-pegging</li>
-      <li>Silvergate: Closing act</li>
-      <li>China finance: Reverse decentralization</li></ol>
+      <ol>
+        <li>USDC: Level-pegging</li>
+        <li>Silvergate: Closing act</li>
+        <li>China finance: Reverse decentralization</li>
+      </ol>
       <h3><strong>From the Editor’s Desk</strong></h3>
 	    <p>Dear Reader,</p>
 	    <p>Predictions that things will get worse before they get better are commonplace among the punditocracy in their comments on virtually any subject one cares to name. But they’ve arguably become even more common in crypto than in other fields following the industry’s travails during the past year. So far, so unsurprising.</p>	
@@ -1347,13 +1403,15 @@ const blogListdata = [
       <img src="https://ncx.cx/images/ncx-blog-162-1.jpg" alt="NCX Stable genus"/>
       <p>By the numbers: USDC — over 5,000% increase in Google search volume.</p>
       <p>Circle Internet Financial’s USDC, the world’s second-largest stablecoin by market capitalization, regained parity with the U.S. dollar on Monday morning Asia time after the Federal Deposit Insurance Corporation (FDIC) said it had taken over failed tech- and crypto-focused lender Silicon Valley Bank (SVB) and guaranteed its deposits to prevent a broader bank run.</p>
-      <ul><li>USDC fell as low as US$0.8774 on Saturday before recovering to US$0.999 around mid-morning Hong Kong time on Monday, according to CoinMarketCap data. It has mostly hovered around the US$0.997 mark since.</li></ul>
-      <ul><li>USDC regained its peg after the FDIC said it had taken control of SVB on Sunday. Circle had held US$3.3 billion of deposits, accounting for around 8% of total USDC reserves, at the troubled bank.</li></ul>
-      <ul><li>Circle co-founder Jeremy Allaire said that USDC’s deposits held by SVB would be fully recoverable. Circle also announced a partnership with New Jersey-based Cross River Bank to enable the automated minting and redemption of USDC for customers starting on Monday.</li></ul>
-      <ul><li>USDC started trading off its peg over the weekend after it was revealed that it held reserves at SVB, which had more than US$200 billion in assets and represents the largest bank failure since the global financial crisis of 2008.</li></ul>
-      <ul><li>SVB and Signature Bank, two key lenders to the crypto industry, were both shut down and taken over by U.S. regulators to prevent systemic risk to the broader banking industry.</li></ul>
-      <ul><li>“All depositors of [Signature Bank] will be made whole,” said a joint statement released by the U.S. Treasury Department, the Federal Reserve and the FDIC. “​​As with the resolution of Silicon Valley Bank, no losses will be borne by the taxpayer.”</li></ul>
-      <ul><li>USDC is currently the fifth-largest cryptocurrency by market capitalization, with a US$38.4 billion market cap.</li></ul>
+      <ul>
+        <li>USDC fell as low as US$0.8774 on Saturday before recovering to US$0.999 around mid-morning Hong Kong time on Monday, according to CoinMarketCap data. It has mostly hovered around the US$0.997 mark since.</li>
+        <li>USDC regained its peg after the FDIC said it had taken control of SVB on Sunday. Circle had held US$3.3 billion of deposits, accounting for around 8% of total USDC reserves, at the troubled bank.</li>
+        <li>Circle co-founder Jeremy Allaire said that USDC’s deposits held by SVB would be fully recoverable. Circle also announced a partnership with New Jersey-based Cross River Bank to enable the automated minting and redemption of USDC for customers starting on Monday.</li>
+        <li>USDC started trading off its peg over the weekend after it was revealed that it held reserves at SVB, which had more than US$200 billion in assets and represents the largest bank failure since the global financial crisis of 2008.</li>
+        <li>SVB and Signature Bank, two key lenders to the crypto industry, were both shut down and taken over by U.S. regulators to prevent systemic risk to the broader banking industry.</li>
+        <li>“All depositors of [Signature Bank] will be made whole,” said a joint statement released by the U.S. Treasury Department, the Federal Reserve and the FDIC. “​​As with the resolution of Silicon Valley Bank, no losses will be borne by the taxpayer.”</li>
+        <li>USDC is currently the fifth-largest cryptocurrency by market capitalization, with a US$38.4 billion market cap.</li>
+      </ul>
       <h3><strong>Forkast.Insights | What does it mean?</strong></h3>
       <p>The collapse of Silicon Valley Bank was not due to its affiliations with crypto. But combined with the failure of Signature and Silvergate, its collapse has rattled the industry to its core.</p>
       <p>When Signature went down, it was revealed that Coinbase and Paxos, the issuer of Binance’s BUSD stablecoin, collectively had around US$500 million deposited in the bank. When Silicon Valley Bank called it a day, USDC issuer Circle had several billion dollars parked there.</p>
@@ -1365,15 +1423,17 @@ const blogListdata = [
       <img src="https://ncx.cx/images/ncx-blog-162-3.jpg" alt="NCX Gate crash"/>
       <p>By the numbers: Silvergate — over 5,000% increase in Google search volume.</p>
       <p>California-based, crypto-focused lender Silvergate Bank is being wound up by its parent company, Silvergate Capital, becoming another victim of last year’s collapse of crypto exchange FTX.</p>
-      <ul><li>Silvergate Capital will shut down the bank’s operations and liquidate it in an orderly manner, offering full repayments to all depositors, according to a company announcement.</li></ul>
-      <ul><li>Unlike the recent failures of Silicon Valley Bank and Signature Bank, Silvergate’s shutdown has not involved intervention by the U.S. Federal Deposit Insurance Corporation.</li></ul>
-      <ul><li>As a federally insured bank, Silvergate provided banking services to the crypto industry. In 2017, it rolled out its Silvergate Exchange Network (SEN), a 24/7 payment network allowing instantaneous fiat transactions between crypto exchanges and their customers.</li></ul>
-      <ul><li>The bank was hit hard by the collapse of FTX in November 2022, with its non-interest-bearing deposits slumping from US$12.1 billion on Sept. 30 to US$3.9 billion on Dec. 31, a dive of more than 67%, according to a Silvergate quarterly report.</li></ul>
-      <ul><li>Silvergate reported a US$1 billion loss for the fourth quarter of 2022 and had laid off 40% of its staff by Jan. 5 this year. It is also being probed by U.S. prosecutors over its links to Alameda Research, FTX’s trading arm.</li></ul>
-      <ul><li>On March 1, Silvergate Capital announced in a filing to the U.S. Securities and Exchange Commission that it was evaluating “its ability to continue as a going concern.” and it discontinued its SEN service on March 3.</li></ul>
-      <ul><li>The crypto market has felt the absence of SEN, which Silvergate said had handled around US$563.3 billion of U.S. dollar transfers last year. On some U.S. crypto exchanges, Bitcoin-to-dollar and Bitcoin-to-Tether transactions dropped between 35% and 45% between the beginning of the month and March 11, Bloomberg reported earlier this week.</li></ul>
-      <ul><li>At the same time, U.S.-based crypto exchanges are seeking alternatives for banking services, with Kraken set to launch its own bank in the state of Wyoming, aiming to offer “a more seamless integration between crypto and the traditional financial system”.</li></ul>
-      <ul><li>Silvergate’s stock was trading at US$2.21 at press time, down more than 80% from its opening price on March 1, according to data from Yahoo Finance.</li></ul>
+      <ul>
+        <li>Silvergate Capital will shut down the bank’s operations and liquidate it in an orderly manner, offering full repayments to all depositors, according to a company announcement.</li>
+        <li>Unlike the recent failures of Silicon Valley Bank and Signature Bank, Silvergate’s shutdown has not involved intervention by the U.S. Federal Deposit Insurance Corporation.</li>
+        <li>As a federally insured bank, Silvergate provided banking services to the crypto industry. In 2017, it rolled out its Silvergate Exchange Network (SEN), a 24/7 payment network allowing instantaneous fiat transactions between crypto exchanges and their customers.</li>
+        <li>The bank was hit hard by the collapse of FTX in November 2022, with its non-interest-bearing deposits slumping from US$12.1 billion on Sept. 30 to US$3.9 billion on Dec. 31, a dive of more than 67%, according to a Silvergate quarterly report.</li>
+        <li>Silvergate reported a US$1 billion loss for the fourth quarter of 2022 and had laid off 40% of its staff by Jan. 5 this year. It is also being probed by U.S. prosecutors over its links to Alameda Research, FTX’s trading arm.</li>
+        <li>On March 1, Silvergate Capital announced in a filing to the U.S. Securities and Exchange Commission that it was evaluating “its ability to continue as a going concern.” and it discontinued its SEN service on March 3.</li>
+        <li>The crypto market has felt the absence of SEN, which Silvergate said had handled around US$563.3 billion of U.S. dollar transfers last year. On some U.S. crypto exchanges, Bitcoin-to-dollar and Bitcoin-to-Tether transactions dropped between 35% and 45% between the beginning of the month and March 11, Bloomberg reported earlier this week.</li>
+        <li>At the same time, U.S.-based crypto exchanges are seeking alternatives for banking services, with Kraken set to launch its own bank in the state of Wyoming, aiming to offer “a more seamless integration between crypto and the traditional financial system”.</li>
+        <li>Silvergate’s stock was trading at US$2.21 at press time, down more than 80% from its opening price on March 1, according to data from Yahoo Finance.</li>
+      </ul>
       <h3><strong>Forkast.Insights | What does it mean?</strong></h3>
       <p>Crypto users could be forgiven for feeling un-banked in the U.S., especially when it comes to 24/7 payments. The loss of Silvergate’s seamless off-ramp has meant crypto companies have been forced to find alternative means of transacting with traditional finance.</p>
       <p>A stark illustration of this came in the form of Circle’s weekend announcement that it would cover any losses related to the closure of Silicon Valley Bank, but that investors would have to wait until banks opened on Monday before they could withdraw their funds.</p>
@@ -1383,12 +1443,13 @@ const blogListdata = [
       <h3><strong>3.Regulatory consolidation</strong></h3>
       <img src="https://ncx.cx/images/ncx-blog-162-4.jpg" alt="NCX Regulatory consolidation"/>
       <p>China has passed a plan to establish a new national financial regulator, replacing the China Banking and Insurance Regulatory Commission, according to state-run news outlet CGTN. The move was part of an overhaul of State Council institutions announced at the annual “two sessions” meetings of the National People’s Congress and the Chinese People’s Political Consultative Conference last Friday.</p>
-      <ul><li>The new regulatory administration will be set up directly under the State Council. Aside from replacing the China Banking and Insurance Regulatory Commission (CBIRC), it will also consolidate certain functions of the People’s Bank of China (PBOC) and the China Securities Regulatory Commission (CSRC). The new regulator’s official name has not yet been revealed.</li></ul>
-      <ul><li>Financial regulation in China has up to now been the preserve of the CBIRC, the PBOC and the CSRC, whose functions have at times overlapped. Following the reform, the respective responsibilities of PBOC and CSRC to protect consumers and investors will be shifted to the regulator, which will supervise most of the country’s financial activities, apart from the securities sector.</li></ul>
-      <ul><li>The reform will further centralize China’s supervision of its finance sector and comes as part of an overall consolidation of political power in the country.</li></ul>
-      <ul><li>“China’s regulatory reforms will strengthen regulators’ capability to establish and enforce a unified regulatory framework, as well as reduce the room for regulatory arbitrage,” CNBC reported Moody’s Investors Service Vice President David Yin as having said in a note.</li></ul>
-      <ul><li>The reform plan follows President Xi Jinping’s warning in February about three “systemic risks” in China’s economy: risks to the real estate sector, financial risks and local government debt risks.</li></ul>
-      <ul><li>The plan does not give much indication of how crypto assets will be regulated. According to a PBOC notice dated September 2021 that announced China’s blanket ban on cryptocurrency transactions, the CBIRC, the PBOC and the CSRC were together responsible for curbing crypto speculation to safeguard financial stability.</li></ul>
+      <ul>
+        <li>The new regulatory administration will be set up directly under the State Council. Aside from replacing the China Banking and Insurance Regulatory Commission (CBIRC), it will also consolidate certain functions of the People’s Bank of China (PBOC) and the China Securities Regulatory Commission (CSRC). The new regulator’s official name has not yet been revealed.</li>
+        <li>Financial regulation in China has up to now been the preserve of the CBIRC, the PBOC and the CSRC, whose functions have at times overlapped. Following the reform, the respective responsibilities of PBOC and CSRC to protect consumers and investors will be shifted to the regulator, which will supervise most of the country’s financial activities, apart from the securities sector.</li>
+        <li>The reform will further centralize China’s supervision of its finance sector and comes as part of an overall consolidation of political power in the country.</li>
+        <li>“China’s regulatory reforms will strengthen regulators’ capability to establish and enforce a unified regulatory framework, as well as reduce the room for regulatory arbitrage,” CNBC reported Moody’s Investors Service Vice President David Yin as having said in a note.</li>
+        <li>The reform plan follows President Xi Jinping’s warning in February about three “systemic risks” in China’s economy: risks to the real estate sector, financial risks and local government debt risks.</li></ul>
+        <li>The plan does not give much indication of how crypto assets will be regulated. According to a PBOC notice dated September 2021 that announced China’s blanket ban on cryptocurrency transactions, the CBIRC, the PBOC and the CSRC were together responsible for curbing crypto speculation to safeguard financial stability.</li>
       <h3><strong>Forkast.Insights | What does it mean?</strong></h3>
       <p>Beijing’s announcement of a new financial regulator shows the extent to which it is poised to charge ahead with its Digital China strategy while ramping up efforts to identify and weed out perceived risks to the country’s financial system.</p>
       <p>When China banned cryptocurrency transactions in 2021, 10 regulators — including the  China Banking and Insurance Regulatory Commission, the People’s Bank of China and the China Securities Regulatory Commission — pointed to crypto as a risk and announced a ban in a joint notice. There have been some overlaps in oversight responsibilities among the three authorities, but now, with the establishment of the new regulator, currently informally known as “the National Financial Regulatory Administration,” the reshuffle is expected to clarify regulatory power and functions.</p>
@@ -1484,17 +1545,19 @@ const blogListdata = [
       <p><strong>In this article:</strong></p>
       <p>Bitcoin and Ether continued the strong price gains for the week to move higher in Wednesday morning trading in Asia, with most of the top 10 non-stablecoin cryptocurrencies logging advances for the past seven days. Solana and Dogecoin led the Wednesday winners. The rise in cryptocurrencies accompanied a rebound in U.S. equities on Tuesday as concern about bank failures receded and February inflation data released the same day was in line with expectations.</p>
 	    <h3><strong>Fast facts</strong></h3>
-	    <ul><li>Bitcoin rose 2.10% in the past 24 hours to US$24,789 at 09:00 a.m. in Hong Kong, according to CoinMarketCap data, for a weekly gain of 11.39%. The world’s largest cryptocurrency briefly broke the US$26,000 ceiling on Tuesday evening in Asia and is now up almost 50% for the year to date.</li></ul>
-      <ul><li>Ether gained 1.90% to US$1,706, rising 8.86% in the past seven days.</li></ul>
-      <ul><li>Solana led the gainers in the top 10, adding 2.75% to US$20.93 for a rise of 3.12% for the week. The Solana Foundation introduced Ask Solana U on Tuesday, an AI-powered chat-like engine that aims to assist Web3 developers on the Solana blockchain.</li></ul>
-      <ul><li>Dogecoin rose 2.74% to US$0.07478. The memecoin is up 0.85% for the seven-day period, but still down more than 7% from the beginning of March.</li></ul>
-      <ul><li>XRP edged 0.54% higher to trade at US$0.3735, but is the only top 10 non-stablecoin cryptocurrency with a weekly loss, down 2.20%. Brad Garlinghouse, the CEO of Ripple Labs whose payment network is powered by XRP,  tweeted on Monday that Ripple had some exposure to the failed Silicon Valley Bank. This was accompanied by a large flow of XRP transactions on the same day, according to crypto tracker Whale Alert.</li></ul>
-      <ul><li>Crypto exchange Binance’s BNB rose 0.51% to US$309.51, posting a weekly gain of 6.88%. The world’s largest crypto exchange on Tuesday said it will halt its U.K. pound deposits and withdrawals by May this year, after its local partner for fiat on- and off-ramps said it was ending the service due to regulatory concerns.</li></ul>
-      <ul><li>The total crypto market capitalization rose 1.30% in the past 24 hours to US$1.09 trillion. Total trading volume over the last 24 hours gained 8.47% to US$101.54 billion.</li></ul>
-      <ul><li>U.S. equities closed higher on Tuesday. The Dow Jones Industrial Average rose 1.06%, the S&P 500 moved up 1.65% and the Nasdaq Composite Index posted the biggest gain of 2.14%.</li></ul>
-      <ul><li>Efforts by U.S. regulators and President Joe Biden to calm markets seemed to have the desired effect after the collapses of U.S. banks at the weekend. First Republic Bank, which slid over 60% on Monday and was briefly suspended from trading, bounced back almost 27% on Tuesday, according to CNBC.</li></ul>
-      <ul><li>Investors in U.S. equities and cryptocurrencies also gained some reassurance from the U.S. Labor Department’s February inflation report released Tuesday, which showed the Consumer Price Index (CPI) rose 0.6% by month and 6% on year, all in line with expectations. Though still above the Federal Reserve’s stated goal to keep annual inflation below 2%, the data suggest inflation in the U.S. is moderating and may convince the Fed to ease back on interest rate hikes.</li></ul>
-      <ul><li>After a raft of rate hikes last year and into 2023, U.S. interest rates are now between 4.5% to 4.75%, the highest since October 2007. Analysts at the CME Group expect a 79.7% chance the Fed will raise rates by 25 basis points this month. The chance of no rate increase is at 20.3%, a decrease from 35% on Tuesday.</li></ul>
+	    <ul>
+        <li>Bitcoin rose 2.10% in the past 24 hours to US$24,789 at 09:00 a.m. in Hong Kong, according to CoinMarketCap data, for a weekly gain of 11.39%. The world’s largest cryptocurrency briefly broke the US$26,000 ceiling on Tuesday evening in Asia and is now up almost 50% for the year to date.</li>
+        <li>Ether gained 1.90% to US$1,706, rising 8.86% in the past seven days.</li>
+        <li>Solana led the gainers in the top 10, adding 2.75% to US$20.93 for a rise of 3.12% for the week. The Solana Foundation introduced Ask Solana U on Tuesday, an AI-powered chat-like engine that aims to assist Web3 developers on the Solana blockchain.</li>
+        <li>Dogecoin rose 2.74% to US$0.07478. The memecoin is up 0.85% for the seven-day period, but still down more than 7% from the beginning of March.</li>
+        <li>XRP edged 0.54% higher to trade at US$0.3735, but is the only top 10 non-stablecoin cryptocurrency with a weekly loss, down 2.20%. Brad Garlinghouse, the CEO of Ripple Labs whose payment network is powered by XRP,  tweeted on Monday that Ripple had some exposure to the failed Silicon Valley Bank. This was accompanied by a large flow of XRP transactions on the same day, according to crypto tracker Whale Alert.</li>
+        <li>Crypto exchange Binance’s BNB rose 0.51% to US$309.51, posting a weekly gain of 6.88%. The world’s largest crypto exchange on Tuesday said it will halt its U.K. pound deposits and withdrawals by May this year, after its local partner for fiat on- and off-ramps said it was ending the service due to regulatory concerns.</li>
+        <li>The total crypto market capitalization rose 1.30% in the past 24 hours to US$1.09 trillion. Total trading volume over the last 24 hours gained 8.47% to US$101.54 billion.</li>
+        <li>U.S. equities closed higher on Tuesday. The Dow Jones Industrial Average rose 1.06%, the S&P 500 moved up 1.65% and the Nasdaq Composite Index posted the biggest gain of 2.14%.</li>
+        <li>Efforts by U.S. regulators and President Joe Biden to calm markets seemed to have the desired effect after the collapses of U.S. banks at the weekend. First Republic Bank, which slid over 60% on Monday and was briefly suspended from trading, bounced back almost 27% on Tuesday, according to CNBC.</li>
+        <li>Investors in U.S. equities and cryptocurrencies also gained some reassurance from the U.S. Labor Department’s February inflation report released Tuesday, which showed the Consumer Price Index (CPI) rose 0.6% by month and 6% on year, all in line with expectations. Though still above the Federal Reserve’s stated goal to keep annual inflation below 2%, the data suggest inflation in the U.S. is moderating and may convince the Fed to ease back on interest rate hikes.</li>
+        <li>After a raft of rate hikes last year and into 2023, U.S. interest rates are now between 4.5% to 4.75%, the highest since October 2007. Analysts at the CME Group expect a 79.7% chance the Fed will raise rates by 25 basis points this month. The chance of no rate increase is at 20.3%, a decrease from 35% on Tuesday.</li>
+      </ul>
     </div>
   },
   {
@@ -1590,13 +1653,15 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Bitcoin, the world’s largest cryptocurrency, rallied past the US$26,000 mark at 09:15 p.m. in Hong Kong, shortly after the release of the U.S. Consumer Price Index (CPI), which indicated a drop in annual inflation rate to 6% in February.</p>
 	    <h3>Fast facts</h3>
-      <ul><li>The inflation data was in line with the expectations of the market and a decrease from January’s rate of 6.4%. CPI rose 0.4% on the month, lower than 0.5% in January.</li></ul>
-      <ul><li>Housing remains a big contributor to the index, accounting for over 70% of the monthly increase.</li></ul>
-      <ul><li>Meanwhile, Bitcoin jumped 6.10% to soar past the US$26,000 mark, a level not seen since June 2022, according to CoinMarketCap data.  Ether also enjoyed a bump, rising 4.57% to US$1,767.</li></ul>
-      <ul><li>This increase in cryptocurrency prices boosted the total crypto market capitalization by 12.15% in the past 24 hours to US$1.14 trillion</li></ul>
-      <ul><li>Market analysts were previously predicting that the Federal Reserve would consider 50 basis point rate hikes at the next Federal Open Market Committee meeting scheduled for next week. However, recent events have changed expectations regarding interest rates.</li></ul>
-      <ul><li>The failures of Silicon Valley Bank and Signature Bank over the past weekend have caused many market watchers to revise their predictions. Some analysts even believe that the Fed may decide to leave rates unchanged.</li></ul>
-      <ul><li>“While a 50 basis point interest rate hike was seen as increasingly possible last week, U.S. bank issues have shifted expectations toward lower raises,” Ahmed Negm, head of market research at trading platform XS.com, said in a statement.</li></ul>
+      <ul>
+        <li>The inflation data was in line with the expectations of the market and a decrease from January’s rate of 6.4%. CPI rose 0.4% on the month, lower than 0.5% in January.</li>
+        <li>Housing remains a big contributor to the index, accounting for over 70% of the monthly increase.</li>
+        <li>Meanwhile, Bitcoin jumped 6.10% to soar past the US$26,000 mark, a level not seen since June 2022, according to CoinMarketCap data.  Ether also enjoyed a bump, rising 4.57% to US$1,767.</li>
+        <li>This increase in cryptocurrency prices boosted the total crypto market capitalization by 12.15% in the past 24 hours to US$1.14 trillion</li>
+        <li>Market analysts were previously predicting that the Federal Reserve would consider 50 basis point rate hikes at the next Federal Open Market Committee meeting scheduled for next week. However, recent events have changed expectations regarding interest rates.</li>
+        <li>The failures of Silicon Valley Bank and Signature Bank over the past weekend have caused many market watchers to revise their predictions. Some analysts even believe that the Fed may decide to leave rates unchanged.</li>
+        <li>“While a 50 basis point interest rate hike was seen as increasingly possible last week, U.S. bank issues have shifted expectations toward lower raises,” Ahmed Negm, head of market research at trading platform XS.com, said in a statement.</li>
+      </ul>
     </div>
   },
   {
@@ -1634,7 +1699,7 @@ const blogListdata = [
       <p>Since 2022, layoff tallies at tech companies have reached nearly 300,000 workers, according to Layoffs.fyi, a site that is tracking job cuts in the industry. Broadly, employment in the information industry was unchanged between July and January, according to federal data. Total employment rose in that time.</p>
       <p>Meta said Tuesday that it plans to extend a hiring freeze and pause internal transfers in the company while the layoffs and restructuring occur. Those freezes will lift in each unit once the restructuring there is complete.</p> 
       <p>U.S. employees affected by the layoffs will get 16 weeks of severance pay, plus an additional two weeks for every year they worked at Meta, the company said. Outside the U.S., packages will vary depending on local laws.</p>
-      </div>
+    </div>
   },
   {
     id: 153,
@@ -1677,28 +1742,36 @@ const blogListdata = [
     createdAt: 'Mar 14, 2023 - 5:34 PM', 
     cover: 'https://ncx.cx/images/ncx-blog-156.jpg',
     content: <div className="blog-content">
-      <ul><li>US stocks rose as investors digested the latest CPI data, which came in line with estimates.</li></ul>
-      <ul><li>The Dow Jones Industrial Average is on track to break its five-day losing streak.</li></ul>
-      <ul><li>Shares of regional banks are staging a comeback after cratering on SVB contagion concerns.</li></ul>
+      <ul>
+        <li>US stocks rose as investors digested the latest CPI data, which came in line with estimates.</li>
+        <li>The Dow Jones Industrial Average is on track to break its five-day losing streak.</li>
+        <li>Shares of regional banks are staging a comeback after cratering on SVB contagion concerns.</li>
+      </ul>
       <p>US stocks rallied Tuesday as traders digested the latest inflation data, with the Dow Jones Industrial Average on track to snap a five-day slump.</p>
 	    <p>The consumer price index increased 0.4% in February from January, putting the annual rate at 6%. Both were in line with estimates and signaled continued cooling in inflation as the Federal Reserve weighs its next step on interest rates.</p>
 	    <p>Regional bank stocks staged a comeback after getting demolished on Silicon Valley Bank and Signature Bank contagion concerns on Monday. Shares of First Republic, PacWest, and Western Alliance were up double-digit percentage points.</p>	
 	    <p>The collapse of both banks has fueled speculation the Fed will take a less hawkish stance. Goldman Sachs predicted the central bank will pause interest rate hikes at next week's FOMC meeting, citing "considerable uncertainty."</p>	
 	    <p>"In light of recent stress in the banking system, we no longer expect the FOMC to deliver a rate hike at its March 22 meeting with considerable uncertainty about the path beyond March," analysts wrote in a Sunday note.</p>
       <p><strong>Here's where US indexes stood shortly after the 9:30 a.m. ET open on Tuesday:</strong></p>
-      <ul><li>S&P 500: 3,911.03, up 1.43%</li></ul>
-      <ul><li>Dow Jones Industrial Average: 32,136.72, up 1.00% (317.58 points)</li></ul>
-      <ul><li>Nasdaq Composite: 11,366.08, up 1.58%</li></ul>
+      <ul>
+        <li>S&P 500: 3,911.03, up 1.43%</li>
+        <li>Dow Jones Industrial Average: 32,136.72, up 1.00% (317.58 points)</li>
+        <li>Nasdaq Composite: 11,366.08, up 1.58%</li>
+      </ul>
       <p><strong>Here's what else is happening this morning:</strong></p>
-      <ul><li>The Fed will launch an investigation into its own oversight of SVB.</li></ul>
-      <ul><li>Three of crypto's most important banks have been closed. Industry experts weighed in on what's next for the trillion-dollar market.</li></ul>
-      <ul><li>Citadel boss Ken Griffin told the Financial Times that the government's decision to rescue SVB depositors shows US capitalism "breaking down before our eyes."</li></ul>
-      <ul><li>First Republic and Western Alliance stock are under review for a possible downgrade by Moody's.</li></ul>
+      <ul>
+        <li>The Fed will launch an investigation into its own oversight of SVB.</li>
+        <li>Three of crypto's most important banks have been closed. Industry experts weighed in on what's next for the trillion-dollar market.</li>
+        <li>Citadel boss Ken Griffin told the Financial Times that the government's decision to rescue SVB depositors shows US capitalism "breaking down before our eyes."</li>
+        <li>First Republic and Western Alliance stock are under review for a possible downgrade by Moody's.</li>
+      </ul>
       <p><strong>In commodities, bonds and crypto:</strong></p>
-      <ul><li>West Texas Intermediate crude oil fell 2.7% to $72.76 per barrel. Brent crude, oil's international benchmark, dropped 2.2% to $79.00.</li></ul>
-      <ul><li>Gold dipped 0.3% $1,911 per ounce.</li></ul>
-      <ul><li>The yield on the 10-year Treasury fell 9.6 basis points to 3.61%.</li></ul>
-      <ul><li>Bitcoin jumped 5.6% to $22,382.</li></ul>
+      <ul>
+        <li>West Texas Intermediate crude oil fell 2.7% to $72.76 per barrel. Brent crude, oil's international benchmark, dropped 2.2% to $79.00.</li>
+        <li>Gold dipped 0.3% $1,911 per ounce.</li>
+        <li>The yield on the 10-year Treasury fell 9.6 basis points to 3.61%.</li>
+        <li>Bitcoin jumped 5.6% to $22,382.</li>
+      </ul>
     </div>
   },
   {
@@ -1718,18 +1791,20 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Bitcoin and Ether rose the most in the top 10 non-stablecoin cryptocurrencies by market capitalization on Tuesday afternoon in Asia. Cryptocurrencies have been on a rebound since U.S. regulators took charge of the failures in the banking industry and moved to protect deposits across crypto-linked banks. The asset class is also benefiting from market talk that turmoil in the banking industry could prompt the U.S. Federal Reserve to halt interest rate increases.</p>
 	    <h3><strong>Fast facts</strong></h3>
-      <ul><li>Bitcoin, world’s largest cryptocurrency, gained 8.2% to US$24,404 in 24 hours to 4 p.m. in Hong Kong, bringing its weekly gains to 8.8%, according to CoinMarketCap data. Ethereum rose 3.93% to US$1,677, after rising 6.72% on the week.</li></ul>
-      <ul><li>Dogecoin strengthened 2.31% to US$0.07242, but lost 3.54% in the past seven days. Polygon’s Matic token gained 2.04% to US$1.16, after rising 0.83% on the week.</li></ul>
-      <ul><li>USD Coin (USDC), the second largest stablecoin by market capitalization, rose 0.75% to US$0.999, but slipped 0.09% on the week. USDC had momentarily lost its peg to the U.S. dollar after the shutdown of Silicon Valley Bank (SVB) but recovered after Circle, its issuer, announced a new partnership with Cross River Bank.</li></ul>
-      <ul><li>“We expect the stress in the banking sector, and the wider impact on confidence, now will give the central bank [U.S. Federal Reserve] cause for pause on its rate hike program,” said Nigel Green, chief executive of financial advisory firm deVere Group.</li></ul>
-      <ul><li>The global crypto market capitalization gained 4.39% to US$1.07 trillion, while the total crypto market volume rose 16.93% to US$90.47 billion in the past 24 hours.</li></ul>
-      <ul><li>All Asian equity markets dropped on Tuesday as investors braced for the biggest U.S. bank failure since 2008. Hong Kong’s Hang Seng Index dropped 2.27%, while South Korea’s Kospi fell 2.56% and Japan’s Nikkei 225 declined 2.19%.</li></ul>
-      <ul><li>The Shanghai Composite lost 0.72% while the Shenzhen Component Index dropped 0.77%, despite China announcing it will resume issuing visas from March 15 as it eased its Covid-zero policy. Investors are also looking forward to a series of China’s economic indicators expected to be published on Wednesday.</li></ul>
-      <ul><li>Investors also await U.S. inflation data later on Tuesday. The February consumer price index (CPI), a key inflation indicator, is expected at 6% on year, dropping from the 6.4% for the year that ended January 2023, but still well above the U.S. central bank’s 2% target.</li></ul>
-      <ul><li>“Despite most warning signs flashing red, the U.S. has continued to defy gravity,” said Keith Wade, chief economist and strategist at Schroders. “We still think that higher interest rates, which we now expect to peak at 5.25% in the second quarter of 2023, will lead to a recession. However, it is likely to be relatively short and shallow.”</li></ul>
-      <ul><li>The Forkast NFT 500 index rose 0.7% to 4,064.39. Planet IX – Gravity Grade rallied 51.67% as the day’s biggest gainer, followed by EGoldMiner that strengthened 44.63%.</li></ul>
-      <ul><li>European stocks traded slightly higher after a two-day sell-off. The STOXX 600 inched up 0.1% and Germany’s DAX 40 rose 0.53%, while Britain’s FTSE 100 fell 0.32% to a two-month low, as investors assessed spillover effects from the collapse of SVB and Signature Bank.</li></ul>
-      <ul><li>HSBC’s shares fell 1.28% during the day, following news that the bank would inject £2 billion (US$2.4 billion) of liquidity into the U.K. unit of SVB.</li></ul>
+      <ul>
+        <li>Bitcoin, world’s largest cryptocurrency, gained 8.2% to US$24,404 in 24 hours to 4 p.m. in Hong Kong, bringing its weekly gains to 8.8%, according to CoinMarketCap data. Ethereum rose 3.93% to US$1,677, after rising 6.72% on the week.</li>
+        <li>Dogecoin strengthened 2.31% to US$0.07242, but lost 3.54% in the past seven days. Polygon’s Matic token gained 2.04% to US$1.16, after rising 0.83% on the week.</li>
+        <li>USD Coin (USDC), the second largest stablecoin by market capitalization, rose 0.75% to US$0.999, but slipped 0.09% on the week. USDC had momentarily lost its peg to the U.S. dollar after the shutdown of Silicon Valley Bank (SVB) but recovered after Circle, its issuer, announced a new partnership with Cross River Bank.</li>
+        <li>“We expect the stress in the banking sector, and the wider impact on confidence, now will give the central bank [U.S. Federal Reserve] cause for pause on its rate hike program,” said Nigel Green, chief executive of financial advisory firm deVere Group.</li>
+        <li>The global crypto market capitalization gained 4.39% to US$1.07 trillion, while the total crypto market volume rose 16.93% to US$90.47 billion in the past 24 hours.</li>
+        <li>All Asian equity markets dropped on Tuesday as investors braced for the biggest U.S. bank failure since 2008. Hong Kong’s Hang Seng Index dropped 2.27%, while South Korea’s Kospi fell 2.56% and Japan’s Nikkei 225 declined 2.19%.</li>
+        <li>The Shanghai Composite lost 0.72% while the Shenzhen Component Index dropped 0.77%, despite China announcing it will resume issuing visas from March 15 as it eased its Covid-zero policy. Investors are also looking forward to a series of China’s economic indicators expected to be published on Wednesday.</li>
+        <li>Investors also await U.S. inflation data later on Tuesday. The February consumer price index (CPI), a key inflation indicator, is expected at 6% on year, dropping from the 6.4% for the year that ended January 2023, but still well above the U.S. central bank’s 2% target.</li>
+        <li>“Despite most warning signs flashing red, the U.S. has continued to defy gravity,” said Keith Wade, chief economist and strategist at Schroders. “We still think that higher interest rates, which we now expect to peak at 5.25% in the second quarter of 2023, will lead to a recession. However, it is likely to be relatively short and shallow.”</li>
+        <li>The Forkast NFT 500 index rose 0.7% to 4,064.39. Planet IX – Gravity Grade rallied 51.67% as the day’s biggest gainer, followed by EGoldMiner that strengthened 44.63%.</li>
+        <li>European stocks traded slightly higher after a two-day sell-off. The STOXX 600 inched up 0.1% and Germany’s DAX 40 rose 0.53%, while Britain’s FTSE 100 fell 0.32% to a two-month low, as investors assessed spillover effects from the collapse of SVB and Signature Bank.</li>
+        <li>HSBC’s shares fell 1.28% during the day, following news that the bank would inject £2 billion (US$2.4 billion) of liquidity into the U.K. unit of SVB.</li>
+      </ul>
     </div>
   },
   {
@@ -2096,19 +2171,21 @@ const blogListdata = [
     content: <div className="blog-content">
       <p>Bitcoin and Ether led a strong price rebound in the top 10 non-stablecoin cryptocurrencies in morning trading in Asia as U.S. banking regulators took control of Silicon Valley Bank and Signature Bank, both with ties to the crypto industry, and guaranteed deposits at the institutions as well as additional backstops for the banking industry. The moves followed the failure of Silvergate Capital last week that raised the threat of a systemic run on banks. Solana led the gains.</p>
 	    <h3><strong>Fast facts</strong></h3>
-	    <ul><li>Bitcoin jumped 9.60% in the past 24 hours to US$22,601 at 09:00 a.m. in Hong Kong, according to CoinMarketCap data. Ether gained 9.77% to US$1,621.</li></ul>
-      <ul><li>Solana surged 12.85% to US$20.38 to lead the gainers, but still has more ground to make up as it’s down 2.93% over the past seven days.</li></ul>
-      <ul><li>USD Coin (USDC), the second largest stablecoin by market capitalization, traded back in line with its U.S. dollar peg in the Asia Monday morning after briefly losing the peg following the failure of Silicon Valley Bank where it holds about US$3 billion in deposits, according to Circle, the issuer of USDC.</li></ul>
-      <ul><li>USDC fell to US$0.8774 on Saturday and its market cap slumped 15% to US$36 billion from US$43 billion. Circle said the same day the company had the funds to back USDC and it would remain redeemable 1 for 1 with the U.S. dollar. USDC recently traded at US$0.9941.</li></ul>
-      <ul><li>Circle CEO Jeremy Allaire said on Monday that all Circle deposits will be available when banks open on Monday.</li></ul>
-      <ul><li>The total crypto market capitalization rose 6.47% in the past 24 hours to US$1.01 trillion. Total trading volume over the last 24 hours was down 34.52% to US$60.19 billion.</li></ul>
-      <ul><li>U.S. equities slid on Friday. The Dow Jones Industrial Average dropped 1.07%, the S&P 500 fell 1.45% and the Nasdaq Composite Index was down 1.76%.</li></ul>
-      <ul><li>The slump in equities followed the collapse of Silicon Valley Bank, which was taken over by the FDIC on Friday, in the biggest U.S. bank failure since 2008. However, U.S. stock futures were trading higher on Monday morning in Asia, reflecting the moves to backstop the U.S. banking industry.</li></ul>
-      <ul><li>Amid the banking scares, investors had to contend with the job report from the Labor Department on Friday that showed February nonfarm payrolls came in at  311,000, beating the projected 225,000. This furthers the narrative that the Federal Reserve may raise interest rates more than previously expected to curb inflation.</li></ul>
-      <ul><li>However, with banking failures now the center of attention and concern, analysts at the CME Group predict a 17.4% chance of a 50 basis point hike this month, a sharp drop from 60.9% last Friday. This reflects a view the Fed is unlikely to raise rates by that much in the middle of a series of bank failures.</li></ul>
-      <ul><li>CME expect a 82.6% chance the Fed will raise rates by the forecasted 25 basis points this month, but other commentators say the Fed may postpone any hike until next month because of the banking industry jitters.</li></ul>
-      <ul><li>The Fed meets on March 22 to make its next decision on interest rates, which are currently between 4.5% to 4.75%, the highest since October 2007.</li></ul>
-      <ul><li>The U.S. annual inflation rate is 6.4% for the year ended January 2023, according to Labor Department data released on Feb. 14, which is well above the Fed’s long-term goal to keep inflation in a 2% band. The next inflation update is scheduled for March 14 at 8:30 a.m. Eastern Standard Time.</li></ul>
+	    <ul>
+        <li>Bitcoin jumped 9.60% in the past 24 hours to US$22,601 at 09:00 a.m. in Hong Kong, according to CoinMarketCap data. Ether gained 9.77% to US$1,621.</li>
+        <li>Solana surged 12.85% to US$20.38 to lead the gainers, but still has more ground to make up as it’s down 2.93% over the past seven days.</li>
+        <li>USD Coin (USDC), the second largest stablecoin by market capitalization, traded back in line with its U.S. dollar peg in the Asia Monday morning after briefly losing the peg following the failure of Silicon Valley Bank where it holds about US$3 billion in deposits, according to Circle, the issuer of USDC.</li>
+        <li>USDC fell to US$0.8774 on Saturday and its market cap slumped 15% to US$36 billion from US$43 billion. Circle said the same day the company had the funds to back USDC and it would remain redeemable 1 for 1 with the U.S. dollar. USDC recently traded at US$0.9941.</li>
+        <li>Circle CEO Jeremy Allaire said on Monday that all Circle deposits will be available when banks open on Monday.</li>
+        <li>The total crypto market capitalization rose 6.47% in the past 24 hours to US$1.01 trillion. Total trading volume over the last 24 hours was down 34.52% to US$60.19 billion.</li>
+        <li>U.S. equities slid on Friday. The Dow Jones Industrial Average dropped 1.07%, the S&P 500 fell 1.45% and the Nasdaq Composite Index was down 1.76%.</li>
+        <li>The slump in equities followed the collapse of Silicon Valley Bank, which was taken over by the FDIC on Friday, in the biggest U.S. bank failure since 2008. However, U.S. stock futures were trading higher on Monday morning in Asia, reflecting the moves to backstop the U.S. banking industry.</li>
+        <li>Amid the banking scares, investors had to contend with the job report from the Labor Department on Friday that showed February nonfarm payrolls came in at  311,000, beating the projected 225,000. This furthers the narrative that the Federal Reserve may raise interest rates more than previously expected to curb inflation.</li>
+        <li>However, with banking failures now the center of attention and concern, analysts at the CME Group predict a 17.4% chance of a 50 basis point hike this month, a sharp drop from 60.9% last Friday. This reflects a view the Fed is unlikely to raise rates by that much in the middle of a series of bank failures.</li>
+        <li>CME expect a 82.6% chance the Fed will raise rates by the forecasted 25 basis points this month, but other commentators say the Fed may postpone any hike until next month because of the banking industry jitters.</li>
+        <li>The Fed meets on March 22 to make its next decision on interest rates, which are currently between 4.5% to 4.75%, the highest since October 2007.</li>
+        <li>The U.S. annual inflation rate is 6.4% for the year ended January 2023, according to Labor Department data released on Feb. 14, which is well above the Fed’s long-term goal to keep inflation in a 2% band. The next inflation update is scheduled for March 14 at 8:30 a.m. Eastern Standard Time.</li>
+      </ul>
     </div>
   },
   {
@@ -2168,24 +2245,30 @@ const blogListdata = [
       <p>Tuesday, March 14</p>
       <ul><li>Nothing major scheduled</li></ul>
       <p>Wednesday, March 15</p>
-      <ul><li>China sets monthly medium-term lending rate, 09:20</li></ul>
-      <ul><li>China industrial output for Jan.-Feb., including steel & aluminum; coal, gas & power generation; and crude oil & refining. 10:00</li></ul>
-      <ul><li>Retail sales, fixed assets, property investment, residential property sales, jobless rate</li></ul>
-      <ul><li>CCTD’s weekly online briefing on China’s coal market, 15:00</li></ul>
-      <ul><li>Mysteel Southeastern China Aluminum Summit in Foshan, Guangdong, day 1</li></ul>
-      <ul><li>EARNINGS: CGN Power, Daqo New Energy, Power Assets</li></ul>
+      <ul>
+        <li>China sets monthly medium-term lending rate, 09:20</li>
+        <li>China industrial output for Jan.-Feb., including steel & aluminum; coal, gas & power generation; and crude oil & refining. 10:00</li>
+        <li>Retail sales, fixed assets, property investment, residential property sales, jobless rate</li>
+        <li>CCTD’s weekly online briefing on China’s coal market, 15:00</li>
+        <li>Mysteel Southeastern China Aluminum Summit in Foshan, Guangdong, day 1</li>
+        <li>EARNINGS: CGN Power, Daqo New Energy, Power Assets</li>
+      </ul>
       <p>Thursday, March 16</p>
-      <ul><li>China new home prices for February, 09:30</li></ul>
-      <ul><li>China Hydrogen Summit in Shanghai, day 1</li></ul>
-      <ul><li>Mysteel Southeastern China Aluminum Summit, Foshan, Guangdong, day 2</li></ul>
-      <ul><li>EARNINGS: Rusal</li></ul>
+      <ul>
+        <li>China new home prices for February, 09:30</li>
+        <li>China Hydrogen Summit in Shanghai, day 1</li>
+        <li>Mysteel Southeastern China Aluminum Summit, Foshan, Guangdong, day 2</li>
+        <li>EARNINGS: Rusal</li>
+      </ul>
       <p>Friday, March 17</p>
-      <ul><li>China Jan.-Feb. output data for base metals and oil products</li></ul>
-      <ul><li>China weekly iron ore port stockpiles</li></ul>
-      <ul><li>Shanghai exchange weekly commodities inventory, ~15:30</li></ul>
-      <ul><li>China Hydrogen Summit in Shanghai, day 2</li></ul>
-      <ul><li>Mysteel Southeastern China Aluminum Summit, Foshan, Guangdong, day 3</li></ul>
-      <ul><li>EARNINGS: CMOC, Hong Kong & China Gas</li></ul>
+      <ul>
+        <li>China Jan.-Feb. output data for base metals and oil products</li>
+        <li>China weekly iron ore port stockpiles</li>
+        <li>Shanghai exchange weekly commodities inventory, ~15:30</li>
+        <li>China Hydrogen Summit in Shanghai, day 2</li>
+        <li>Mysteel Southeastern China Aluminum Summit, Foshan, Guangdong, day 3</li>
+        <li>EARNINGS: CMOC, Hong Kong & China Gas</li>
+      </ul>
       <p>Saturday, March 18</p>
       <ul><li>China’s 2nd batch of Jan.-Feb. trade data, including agricultural imports; LNG & pipeline gas imports; oil products trade breakdown; alumina, copper and rare-earth product exports; bauxite, steel & aluminum product imports</li></ul>
       <p>On The Wire</p>
@@ -2355,27 +2438,35 @@ const blogListdata = [
     createdAt: 'Mar 11, 2023 - 1:07 AM',
     cover: 'https://ncx.cx/images/ncx-blog-139.jpg',
     content: <div className="blog-content">
-      <ul><li>Stocks dropped sharply Friday after regulators closed Silicon Valley Bank.</li></ul>
-      <ul><li>The bank failure is the biggest since the 2008 financial crisis and has sparked contagion fears.</li></ul>
-      <ul><li>The S&P 500 is close to losing its 2023 gains.</li></ul>
+      <ul>
+        <li>Stocks dropped sharply Friday after regulators closed Silicon Valley Bank.</li>
+        <li>The bank failure is the biggest since the 2008 financial crisis and has sparked contagion fears.</li>
+        <li>The S&P 500 is close to losing its 2023 gains.</li>
+      </ul>
       <p>US stocks sank Friday, with a losing week capped by the largest bank failure since the global financial crisis and the prospect of higher interest rates.</p>
       <p>The S&P 500 was on the verge of losing its 2023 gain as it finished closer to 3,839.50, where it ended after last year's 19% plunge. The index's financial sector was the worst performing on Friday as regulators shut down Silicon Valley Bank to prevent a run on the tech-startups lender. The bank collapsed after this week saying higher interest rates spurred billions in losses on a $21 billion bond portfolio.</p> 
       <p>"Silicon Valley Bank was heavily reliant on the tech industry, catering mainly to startups and the investors that fund them. However, the insular ecosystem of startups and investors that it served took a hit when the Fed began raising rates to curb inflation," Thomas Smale, CEO of FEI International, wrote Friday.</p> 
       <p><strong>Here's where US indexes stood at the 4:00 p.m. closing bell on Friday: </strong></p>
-      <ul><li>S&P 500: 3,861.72, down 1.44%</li></ul>
-      <ul><li>Dow Jones Industrial Average: 31,909.83, down 1.07% (345.03 points)</li></ul>
-      <ul><li>Nasdaq Composite: 11,138.89, down 1.76%</li></ul>
+      <ul>
+        <li>S&P 500: 3,861.72, down 1.44%</li>
+        <li>Dow Jones Industrial Average: 31,909.83, down 1.07% (345.03 points)</li>
+        <li>Nasdaq Composite: 11,138.89, down 1.76%</li>
+      </ul>
       <p>Stocks had moved higher ahead of the opening bell after investors found some relief in the February jobs report.</p>
       <p>The Labor Department said the US economy added 311,000 jobs last month, much higher than expectations of 205,000 in a Bloomberg survey of economists. But wage growth slowed to 0.2% from January's 0.5% pace, curbing expectations the Federal Reserve will upsize its March interest rate hike to 50 basis points.</p>
       <p><strong>Here's what else is happening today:</strong></p>
-      <ul><li>Silicon Valley Bank crisis: What you need to know about SVB Financial as its shares plunge.</li></ul>
-      <ul><li>"It is possible today we found our Enron," Michael Burry said about the Silicon Valley Bank implosion.</li></ul>
-      <ul><li>Emerging markets investing pioneer Mark Mobius says most of his investments are in Taiwan after saying he can't get his money out of China.</li></ul>
+      <ul>
+        <li>Silicon Valley Bank crisis: What you need to know about SVB Financial as its shares plunge.</li>
+        <li>"It is possible today we found our Enron," Michael Burry said about the Silicon Valley Bank implosion.</li>
+        <li>Emerging markets investing pioneer Mark Mobius says most of his investments are in Taiwan after saying he can't get his money out of China.</li>
+      </ul>
       <p><storng>In commodities, bonds, and crypto:</storng></p>
-      <ul><li>West Texas Intermediate crude rose 1% to $76.46 per barrel. Brent crude, the international benchmark, rose 1.1% to $82.52.</li></ul>
-      <ul><li>Gold gained 1.8% to $1,869.30 per ounce.</li></ul>
-      <ul><li>The 10-year Treasury yield tumbled 22 basis points to 3.69%.</li></ul>
-      <ul><li>Bitcoin fell 1.8% to $20,007. It fell below $20,000 earlier Friday for the first time in two months.</li></ul>
+      <ul>
+        <li>West Texas Intermediate crude rose 1% to $76.46 per barrel. Brent crude, the international benchmark, rose 1.1% to $82.52.</li>
+        <li>Gold gained 1.8% to $1,869.30 per ounce.</li>
+        <li>The 10-year Treasury yield tumbled 22 basis points to 3.69%.</li>
+        <li>Bitcoin fell 1.8% to $20,007. It fell below $20,000 earlier Friday for the first time in two months.</li>
+      </ul>
   </div>
   },
   {
@@ -2646,20 +2737,20 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-114.jpg',
     content: <div className="blog-content">
       <p>Howard Marks put it nicely when he said that, rather than worrying about share price volatility, 'The possibility of permanent loss is the risk I worry about... and every practical investor I know worries about.' So it might be obvious that you need to consider debt, when you think about how risky any given stock is, because too much debt can sink a company. We note that Amazon.com, Inc. (NASDAQ:AMZN) does have debt on its balance sheet. But should shareholders be worried about its use of debt?</p>
-  <p><strong>Why Does Debt Bring Risk?</strong></p>
-  <p>Debt assists a business until the business has trouble paying it off, either with new capital or with free cash flow. Ultimately, if the company can't fulfill its legal obligations to repay debt, shareholders could walk away with nothing. However, a more common (but still painful) scenario is that it has to raise new equity capital at a low price, thus permanently diluting shareholders. Having said that, the most common situation is where a company manages its debt reasonably well - and to its own advantage. The first thing to do when considering how much debt a business uses is to look at its cash and debt together.</p> 
-  <p><strong>What Is Amazon.com's Net Debt?</strong></p>  
-  <p>The image below, which you can click on for greater detail, shows that at December 2022 Amazon.com had debt of US$85.1b, up from US$57.7b in one year. However, because it has a cash reserve of US$70.0b, its net debt is less, at about US$15.1b.</p>
-  <p><strong>How Strong Is Amazon.com's Balance Sheet?</strong></p>
-  <p>The latest balance sheet data shows that Amazon.com had liabilities of US$155.4b due within a year, and liabilities of US$161.2b falling due after that. Offsetting this, it had US$70.0b in cash and US$42.0b in receivables that were due within 12 months. So it has liabilities totalling US$204.6b more than its cash and near-term receivables, combined.</p>
-  <p>While this might seem like a lot, it is not so bad since Amazon.com has a huge market capitalization of US$958.6b, and so it could probably strengthen its balance sheet by raising capital if it needed to. However, it is still worthwhile taking a close look at its ability to pay off debt.</p>
-  <p>We measure a company's debt load relative to its earnings power by looking at its net debt divided by its earnings before interest, tax, depreciation, and amortization (EBITDA) and by calculating how easily its earnings before interest and tax (EBIT) cover its interest expense (interest cover). Thus we consider debt relative to earnings both with and without depreciation and amortization expenses.</p>
-  <p>With net debt sitting at just 0.28 times EBITDA, Amazon.com is arguably pretty conservatively geared. And it boasts interest cover of 8.9 times, which is more than adequate. The modesty of its debt load may become crucial for Amazon.com if management cannot prevent a repeat of the 51% cut to EBIT over the last year. Falling earnings (if the trend continues) could eventually make even modest debt quite risky. The balance sheet is clearly the area to focus on when you are analysing debt. But it is future earnings, more than anything, that will determine Amazon.com's ability to maintain a healthy balance sheet going forward. So if you're focused on the future you can check out this free report showing analyst profit forecasts.</p>
-  <p>Finally, a company can only pay off debt with cold hard cash, not accounting profits. So it's worth checking how much of that EBIT is backed by free cash flow. Over the last three years, Amazon.com recorded negative free cash flow, in total. Debt is usually more expensive, and almost always more risky in the hands of a company with negative free cash flow. Shareholders ought to hope for an improvement.</p>
-  <p><strong>Our View</strong></p>
-  <p>While Amazon.com's conversion of EBIT to free cash flow makes us cautious about it, its track record of (not) growing its EBIT is no better. But at least its net debt to EBITDA is a gleaming silver lining to those clouds. Taking the abovementioned factors together we do think Amazon.com's debt poses some risks to the business. So while that leverage does boost returns on equity, we wouldn't really want to see it increase from here. While Amazon.com didn't make a statutory profit in the last year, its positive EBIT suggests that profitability might not be far away.</p>
-  <p>At the end of the day, it's often better to focus on companies that are free from net debt. You can access our special list of such companies (all with a track record of profit growth). It's free.</p>
-  <p>This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.</p>
+      <p><strong>Why Does Debt Bring Risk?</strong></p>
+      <p>Debt assists a business until the business has trouble paying it off, either with new capital or with free cash flow. Ultimately, if the company can't fulfill its legal obligations to repay debt, shareholders could walk away with nothing. However, a more common (but still painful) scenario is that it has to raise new equity capital at a low price, thus permanently diluting shareholders. Having said that, the most common situation is where a company manages its debt reasonably well - and to its own advantage. The first thing to do when considering how much debt a business uses is to look at its cash and debt together.</p> 
+      <p><strong>What Is Amazon.com's Net Debt?</strong></p>  
+      <p>The image below, which you can click on for greater detail, shows that at December 2022 Amazon.com had debt of US$85.1b, up from US$57.7b in one year. However, because it has a cash reserve of US$70.0b, its net debt is less, at about US$15.1b.</p>
+      <p><strong>How Strong Is Amazon.com's Balance Sheet?</strong></p>
+      <p>The latest balance sheet data shows that Amazon.com had liabilities of US$155.4b due within a year, and liabilities of US$161.2b falling due after that. Offsetting this, it had US$70.0b in cash and US$42.0b in receivables that were due within 12 months. So it has liabilities totalling US$204.6b more than its cash and near-term receivables, combined.</p>
+      <p>While this might seem like a lot, it is not so bad since Amazon.com has a huge market capitalization of US$958.6b, and so it could probably strengthen its balance sheet by raising capital if it needed to. However, it is still worthwhile taking a close look at its ability to pay off debt.</p>
+      <p>We measure a company's debt load relative to its earnings power by looking at its net debt divided by its earnings before interest, tax, depreciation, and amortization (EBITDA) and by calculating how easily its earnings before interest and tax (EBIT) cover its interest expense (interest cover). Thus we consider debt relative to earnings both with and without depreciation and amortization expenses.</p>
+      <p>With net debt sitting at just 0.28 times EBITDA, Amazon.com is arguably pretty conservatively geared. And it boasts interest cover of 8.9 times, which is more than adequate. The modesty of its debt load may become crucial for Amazon.com if management cannot prevent a repeat of the 51% cut to EBIT over the last year. Falling earnings (if the trend continues) could eventually make even modest debt quite risky. The balance sheet is clearly the area to focus on when you are analysing debt. But it is future earnings, more than anything, that will determine Amazon.com's ability to maintain a healthy balance sheet going forward. So if you're focused on the future you can check out this free report showing analyst profit forecasts.</p>
+      <p>Finally, a company can only pay off debt with cold hard cash, not accounting profits. So it's worth checking how much of that EBIT is backed by free cash flow. Over the last three years, Amazon.com recorded negative free cash flow, in total. Debt is usually more expensive, and almost always more risky in the hands of a company with negative free cash flow. Shareholders ought to hope for an improvement.</p>
+      <p><strong>Our View</strong></p>
+      <p>While Amazon.com's conversion of EBIT to free cash flow makes us cautious about it, its track record of (not) growing its EBIT is no better. But at least its net debt to EBITDA is a gleaming silver lining to those clouds. Taking the abovementioned factors together we do think Amazon.com's debt poses some risks to the business. So while that leverage does boost returns on equity, we wouldn't really want to see it increase from here. While Amazon.com didn't make a statutory profit in the last year, its positive EBIT suggests that profitability might not be far away.</p>
+      <p>At the end of the day, it's often better to focus on companies that are free from net debt. You can access our special list of such companies (all with a track record of profit growth). It's free.</p>
+      <p>This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.</p>
     </div>
   },
   {
@@ -2878,27 +2969,29 @@ const blogListdata = [
     createdAt: 'Mar 8, 2023 - 6:18 AM', 
     cover: 'https://ncx.cx/images/ncx-blog-117.jpg',
     content: <div className="blog-content">
-  <h3>Key Points</h3>
-  <ul><li>Alphabet has been beaten down, with shares trading 40% below their highs.</li></ul>
-  <ul><li>The company has a dominant and profitable core business, as well as some big potential growth drivers.</li></ul>
-  <ul><li>With massive financial flexibility and an attractive valuation, Alphabet is worth a closer look.</li></ul>
-  <p><strong>This dominant industry leader still has lots of growth potential.</strong></p>
-  <p>There's a solid argument to be made for most of the FAANG stocks right now. Just to name a couple examples, Amazon trades for less than half of its recent peak, and Netflix recently reported subscriber numbers that were dramatically better than analysts were expecting.</p>
-  <p>However, as we head into spring, there is one FAANG stock that looks like a particularly strong long-term opportunity while interest rates and inflation remain elevated and economic uncertainty persists: Google parent Alphabet (GOOGL 0.42%) (GOOG 0.51%). The company offers a rare combination of maturity, profitability, and growth potential, and with shares down by about 40% from their highs, it looks like a bargain for patient investors.</p>
-  <p><strong>A core business with maturity and growth potential</strong></p>
-  <p>Roughly 90% of Alphabet's revenue comes from Google Services, and to be fair, this is a collection of relatively mature, ad-driven businesses. The dominant Google Search platform is the biggest component, but this also includes YouTube, Gmail, Android, Chrome, Maps, and other popular consumer-facing platforms.</p>
-  <p>There could still be significant growth potential on this side of the business, but it's not likely to happen in the years ahead. However, Google Services is a collection of rock-solid dominant businesses that produces a reliable stream of high-margin revenue.</p>
-  <p>On the other hand, Google Cloud, which currently accounts for about 10% of the company's revenue, could be a major growth driver in the years to come. It provides business collaboration tools, cloud storage, database services, content delivery networks (CDN), artificial intelligence and machine learning tools, app platforms, and much more. In all, Google Cloud offers more than 150 different products.</p>
-  <p>For the time being, Google Cloud is a relatively small part of the business, but that could change in the coming years. For one thing, Cloud is the fastest-growing part of the company, with revenue increasing 32% year over year in the fourth quarter. It is the only one of the big three cloud providers to gain significant share of the cloud infrastructure market in recent quarters (Amazon's AWS and Microsoft's Azure are the leaders).</p>
-  <p>Not only that, but the cloud market itself is expanding rapidly. The cloud computing market was estimated at $484 billion in size in 2022, but is expected to more than triple by 2030 to a $1.55 trillion opportunity. If Google Cloud can increase its market share, this could end up being a big growth driver.</p>
-  <p><strong>Lots of optionality</strong></p>
-  <p>There are a few other reasons Alphabet is my favorite FAANG stock right now. The "other bets" segment doesn't produce much revenue currently, but that could potentially change in the future. The Waymo self-driving vehicle start-up is especially promising, but there are also some start-ups in healthcare and artificial intelligence, among other industries. To be clear, I'd buy Alphabet even if nothing ever came of these businesses -- but it's a nice addition to the tech titan's future potential. And it also doesn't limit the company's acquisition potential to just organizations that fit into the Google Services and Cloud segments.</p>
-  <p>Finally, it's important to consider Alphabet's stellar financial condition. The company has about $140 billion in cash and securities on its balance sheet, which gives it tremendous financial flexibility, especially when you consider it generated nearly $60 billion in net income over past four quarters alone. Alphabet can fund acquisition opportunities, reinvest in innovation, or opportunistically buy back shares as it sees fit.</p>
-  <p><strong>Should you add Alphabet to your portfolio before the second half of 2023?</strong></p>
-  <p>At some point, inflation will decline back toward historic levels and the Federal Reserve will back off of its interest rate increases, which could be an excellent catalyst for industries like advertising. More economic certainty would likely translate into more ad spending across the core Google Services businesses and would also make enterprise customers more comfortable increasing their spending on cloud services. So while I think Alphabet makes an excellent long-term investment regardless of timing, it could be an especially opportunistic buy while the stock is still about 40% below its highs due to the current economic uncertainty.</p>
-  <p><strong>Should you invest $1,000 in Alphabet right now?</strong></p>
-  <p>Before you consider Alphabet, you'll want to hear this.</p>
-  <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Alphabet wasn't one of them.</p>
+      <h3>Key Points</h3>
+      <ul>
+        <li>Alphabet has been beaten down, with shares trading 40% below their highs.</li>
+        <li>The company has a dominant and profitable core business, as well as some big potential growth drivers.</li>
+        <li>With massive financial flexibility and an attractive valuation, Alphabet is worth a closer look.</li>
+      </ul>
+      <p><strong>This dominant industry leader still has lots of growth potential.</strong></p>
+      <p>There's a solid argument to be made for most of the FAANG stocks right now. Just to name a couple examples, Amazon trades for less than half of its recent peak, and Netflix recently reported subscriber numbers that were dramatically better than analysts were expecting.</p>
+      <p>However, as we head into spring, there is one FAANG stock that looks like a particularly strong long-term opportunity while interest rates and inflation remain elevated and economic uncertainty persists: Google parent Alphabet (GOOGL 0.42%) (GOOG 0.51%). The company offers a rare combination of maturity, profitability, and growth potential, and with shares down by about 40% from their highs, it looks like a bargain for patient investors.</p>
+      <p><strong>A core business with maturity and growth potential</strong></p>
+      <p>Roughly 90% of Alphabet's revenue comes from Google Services, and to be fair, this is a collection of relatively mature, ad-driven businesses. The dominant Google Search platform is the biggest component, but this also includes YouTube, Gmail, Android, Chrome, Maps, and other popular consumer-facing platforms.</p>
+      <p>There could still be significant growth potential on this side of the business, but it's not likely to happen in the years ahead. However, Google Services is a collection of rock-solid dominant businesses that produces a reliable stream of high-margin revenue.</p>
+      <p>On the other hand, Google Cloud, which currently accounts for about 10% of the company's revenue, could be a major growth driver in the years to come. It provides business collaboration tools, cloud storage, database services, content delivery networks (CDN), artificial intelligence and machine learning tools, app platforms, and much more. In all, Google Cloud offers more than 150 different products.</p>
+      <p>For the time being, Google Cloud is a relatively small part of the business, but that could change in the coming years. For one thing, Cloud is the fastest-growing part of the company, with revenue increasing 32% year over year in the fourth quarter. It is the only one of the big three cloud providers to gain significant share of the cloud infrastructure market in recent quarters (Amazon's AWS and Microsoft's Azure are the leaders).</p>
+      <p>Not only that, but the cloud market itself is expanding rapidly. The cloud computing market was estimated at $484 billion in size in 2022, but is expected to more than triple by 2030 to a $1.55 trillion opportunity. If Google Cloud can increase its market share, this could end up being a big growth driver.</p>
+      <p><strong>Lots of optionality</strong></p>
+      <p>There are a few other reasons Alphabet is my favorite FAANG stock right now. The "other bets" segment doesn't produce much revenue currently, but that could potentially change in the future. The Waymo self-driving vehicle start-up is especially promising, but there are also some start-ups in healthcare and artificial intelligence, among other industries. To be clear, I'd buy Alphabet even if nothing ever came of these businesses -- but it's a nice addition to the tech titan's future potential. And it also doesn't limit the company's acquisition potential to just organizations that fit into the Google Services and Cloud segments.</p>
+      <p>Finally, it's important to consider Alphabet's stellar financial condition. The company has about $140 billion in cash and securities on its balance sheet, which gives it tremendous financial flexibility, especially when you consider it generated nearly $60 billion in net income over past four quarters alone. Alphabet can fund acquisition opportunities, reinvest in innovation, or opportunistically buy back shares as it sees fit.</p>
+      <p><strong>Should you add Alphabet to your portfolio before the second half of 2023?</strong></p>
+      <p>At some point, inflation will decline back toward historic levels and the Federal Reserve will back off of its interest rate increases, which could be an excellent catalyst for industries like advertising. More economic certainty would likely translate into more ad spending across the core Google Services businesses and would also make enterprise customers more comfortable increasing their spending on cloud services. So while I think Alphabet makes an excellent long-term investment regardless of timing, it could be an especially opportunistic buy while the stock is still about 40% below its highs due to the current economic uncertainty.</p>
+      <p><strong>Should you invest $1,000 in Alphabet right now?</strong></p>
+      <p>Before you consider Alphabet, you'll want to hear this.</p>
+      <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Alphabet wasn't one of them.</p>
     </div>
   },
   {
@@ -3130,17 +3223,17 @@ const blogListdata = [
     cover: 'https://ncx.cx/images/ncx-blog-108.jpg',
     content: <div className="blog-content">
       <p>Yahoo Finance’s David Hollerith joins the Live show to discuss the details around Binance’s reported plans to elude U.S. authorities and the expectations for Silvergate Capital.</p>
-  <h3>Video Transcript</h3>
-  <p>Crypto exchange giant Binance in focus this morning following a report from the Wall Street Journal that, amid the fear of prosecution, Binance had set out on a plan to neutralize US authorities. Yahoo Finance's David Hollerith has more on this story. He joins us now. David, what are some of the details here?</p>
-  <p>DAVID HOLLERITH: Yeah, so Jared, just to take a step back, so Binance International is the world's largest crypto exchange. And Binance US is much smaller US regulated crypto exchange. There's been a long running discussion about the relationship between these two firms, and that's become notably a bigger deal as critics have pointed out. And since FTX has collapsed, there are a lot of similarities in terms of structure between the two firms.</p> 
-  <p>Things reached a new boiling point on Friday, actually, in bankruptcy court. Voyager Digital is trying to sell its assets to Binance US, and notably, the SEC, the FTC, and several state securities regulators have actively been objecting. And sort of the bankruptcy court is trying to go through all this. So Binance US licenses the Binance brand and technologies, but is technically a separate legal entity, though, it's nonetheless majority owned by Binance's founder and CEO CZ.</p> 
-  <p>As far back as 2020, there's actually been reports about sort of a connection to this, and even documents that have shown that Binance, at least, at one point in time, was thinking about trying to find a way to reach US investors without having to deal with US regulators. So the Wall Street Journal story from the weekend drew from chat logs from Binance employees, and this provided further evidence that Binance for some time has been potentially trying to find ways to use Binance US to reach US investors without having to deal with regulators. Reuters has also reported about this extensively, and they've also drawn-- as was in the Journal story, they've drawn a connection to Merit Peak, which was once a market maker for Binance US and is also owned by CZ, Binance's CEO.</p>
-  <p>But notably from this story, I think, what was pointed out was the fact that the SEC Chair Gary Gensler was actually being recruited by Binance before he was chair of the agency when he was an MIT professor, and that's notable. If we are to believe the chat logs from Binance employees, it indicated that he was generous in offering licensing strategies to the companies. Obviously, this licensing agreement situation is the legal connection between the two firms. It's also notable as, on Friday, CZ, the founder, actually did a Twitter Space's AMA, and he sort of brought some of this to the public's attention, too, saying that he had met and previously known Gary Gensler, and that they had a good rapport. And he lectured for his MIT course. So this all just makes the connection between what's going on right now with Binance US and the SEC that much more interesting.</p>
-  <p>It does, and speaking of connections, I mean, as we talk about the interconnectedness of this crypto world, as we know, one of the potential casualties that you've been watching is Silvergate. What can we expect to happen next with that sort of crypto focused bank?</p>
-  <p>DAVID HOLLERITH: Yeah, Julie, you know, so for Q4, Silvergate fell into a situation, which is they were less than well capitalized or sort of on the brink of being less than well capitalized. There's a leverage ratio that is watched closely by banking regulators, and Silvergate was about 5.3%. Anything below 5% is a concern for regulators, and since then, Silvergate's come out saying they're going to be late on their annual report. Losses look worse, and obviously, last week, we saw the stock collapse by half between Thursday and Friday.</p>
-  <p>So in this scenario, Silvergate is a bank. It's a state chartered bank, so it could go into something, which is receivership, which for banks, it's kind of like bankruptcy, not quite the same thing. And this would be decided by either the California State regulator or the FDIC, and in either situation, it would likely be the FDIC that would sort of take the mantle there.</p>
-  <p>So we'll be watching that, but again, that's a worst case scenario. And Silvergate has fallen. It's lost so many deposits in the last couple of days. We are definitely expecting something like this to happen.</p>
-  <p>Yeah, most definitely, and we'll count on you to keep watching it. Thanks so much, David. Appreciate it.</p>
+      <h3>Video Transcript</h3>
+      <p>Crypto exchange giant Binance in focus this morning following a report from the Wall Street Journal that, amid the fear of prosecution, Binance had set out on a plan to neutralize US authorities. Yahoo Finance's David Hollerith has more on this story. He joins us now. David, what are some of the details here?</p>
+      <p>DAVID HOLLERITH: Yeah, so Jared, just to take a step back, so Binance International is the world's largest crypto exchange. And Binance US is much smaller US regulated crypto exchange. There's been a long running discussion about the relationship between these two firms, and that's become notably a bigger deal as critics have pointed out. And since FTX has collapsed, there are a lot of similarities in terms of structure between the two firms.</p> 
+      <p>Things reached a new boiling point on Friday, actually, in bankruptcy court. Voyager Digital is trying to sell its assets to Binance US, and notably, the SEC, the FTC, and several state securities regulators have actively been objecting. And sort of the bankruptcy court is trying to go through all this. So Binance US licenses the Binance brand and technologies, but is technically a separate legal entity, though, it's nonetheless majority owned by Binance's founder and CEO CZ.</p> 
+      <p>As far back as 2020, there's actually been reports about sort of a connection to this, and even documents that have shown that Binance, at least, at one point in time, was thinking about trying to find a way to reach US investors without having to deal with US regulators. So the Wall Street Journal story from the weekend drew from chat logs from Binance employees, and this provided further evidence that Binance for some time has been potentially trying to find ways to use Binance US to reach US investors without having to deal with regulators. Reuters has also reported about this extensively, and they've also drawn-- as was in the Journal story, they've drawn a connection to Merit Peak, which was once a market maker for Binance US and is also owned by CZ, Binance's CEO.</p>
+      <p>But notably from this story, I think, what was pointed out was the fact that the SEC Chair Gary Gensler was actually being recruited by Binance before he was chair of the agency when he was an MIT professor, and that's notable. If we are to believe the chat logs from Binance employees, it indicated that he was generous in offering licensing strategies to the companies. Obviously, this licensing agreement situation is the legal connection between the two firms. It's also notable as, on Friday, CZ, the founder, actually did a Twitter Space's AMA, and he sort of brought some of this to the public's attention, too, saying that he had met and previously known Gary Gensler, and that they had a good rapport. And he lectured for his MIT course. So this all just makes the connection between what's going on right now with Binance US and the SEC that much more interesting.</p>
+      <p>It does, and speaking of connections, I mean, as we talk about the interconnectedness of this crypto world, as we know, one of the potential casualties that you've been watching is Silvergate. What can we expect to happen next with that sort of crypto focused bank?</p>
+      <p>DAVID HOLLERITH: Yeah, Julie, you know, so for Q4, Silvergate fell into a situation, which is they were less than well capitalized or sort of on the brink of being less than well capitalized. There's a leverage ratio that is watched closely by banking regulators, and Silvergate was about 5.3%. Anything below 5% is a concern for regulators, and since then, Silvergate's come out saying they're going to be late on their annual report. Losses look worse, and obviously, last week, we saw the stock collapse by half between Thursday and Friday.</p>
+      <p>So in this scenario, Silvergate is a bank. It's a state chartered bank, so it could go into something, which is receivership, which for banks, it's kind of like bankruptcy, not quite the same thing. And this would be decided by either the California State regulator or the FDIC, and in either situation, it would likely be the FDIC that would sort of take the mantle there.</p>
+      <p>So we'll be watching that, but again, that's a worst case scenario. And Silvergate has fallen. It's lost so many deposits in the last couple of days. We are definitely expecting something like this to happen.</p>
+      <p>Yeah, most definitely, and we'll count on you to keep watching it. Thanks so much, David. Appreciate it.</p>
     </div>
   },
   {
