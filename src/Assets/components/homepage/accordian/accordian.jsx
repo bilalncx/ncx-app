@@ -38,7 +38,7 @@ function Accordian() {
 const data = [
     {
         question: 'Do I need to keep my Crypto on NCX?',
-        answer: 'NCX strongly believes that the future of Cryptocurrencies  is in Decentralisation, hence users should always keep the custody of their assets. However some advanced tools tools and features, fiat/crypto trading pairs, margin and derivatives trading are only available on Centralised Exchange. Users are advised to only move the assets to the trading account necessary for trading & withdraw to their non-custodial wallets right after and do not store their funds on the trading account. Our DEX does not require assets moved to the platform, just connect your wallet and Swap, Stake, Farm Yield on thousands of tokes across 5 leading blockchains including Binance Smart Chain, Ethereum, Polygon, Fantom and Avalanche',
+        answer: 'NCX strongly believes that the future of Cryptocurrencies  is in Decentralisation, hence users should always keep the custody of their assets. However some advanced tools and features, fiat/crypto trading pairs, margin and derivatives trading are only available on Centralised Exchange. Users are advised to only move the assets to the trading account necessary for trading & withdraw to their non-custodial wallets right after and do not store their funds on the trading account. Our DEX does not require assets moved to the platform, just connect your wallet and Swap, Stake, Farm Yield on thousands of tokes across 5 leading blockchains including Binance Smart Chain, Ethereum, Polygon, Fantom and Avalanche',
     },
     // {
     //     question: 'Can I Buy/Sell Crypto with Fiat?',
