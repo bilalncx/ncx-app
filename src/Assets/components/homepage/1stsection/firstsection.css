@@ -172,9 +172,18 @@
 img.mbl-pic {
     display: none;
 }
+#buy_ssd_dd{
+    display: none;
+}
+#NCX_poweredby #buy_ssd_dd {
+    display: block;
+}
 @media screen and (max-width: 800px){
-    div#homecarouselslides{
+    div#NCX_poweredby {
         display: none;
+    }
+    #buy_ssd_dd{
+        display: block;
     }
     .hero-section .row.container {
         display: block !important;
@@ -304,6 +313,9 @@ img.mbl-pic {
 #homecarouselslides #powered_by.ncxapp-section .row .col:first-child p{
     color: #FFFFFF !important;
 }
-div#homecarouselslides {
+/* div#homecarouselslides {
     padding-bottom: 50px !important;
+} */
+#NCX_poweredby div#buy_ssd_dd {
+    margin: 0px !important;
 }

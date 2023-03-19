@@ -100,6 +100,9 @@ section.bg-dark {
     margin: 0 auto;
     padding: 0px;
 }
+.container:before, .container:after{
+    display: none;
+}
 h1, h2, h3, h4, h5, p{
     margin: 0px;
 }

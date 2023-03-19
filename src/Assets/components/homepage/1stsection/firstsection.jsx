@@ -9,6 +9,7 @@ import { ReactComponent as GooglePlayIcon } from '../../../images/play-icon.svg'
 // import SliderSection from '../whatwedo/whatwe';
 import HomeSlider from './slider-move';
 import BBVideo from './bb_video';
+import NCXAPPSection from "../NCXapp/ncxapp";
 
 function HomeFirstSection()
 {
@@ -96,9 +97,10 @@ function HomeFirstSection()
                 </div>
             </div>
 
-            <div id="homecarouselslides" className="container">
+            <div id="NCX_poweredby">
                 {/* <HomeSlider /> */}
-                <BBVideo />
+                <NCXAPPSection />
+                {/* <BBVideo /> */}
             </div>
             
             <div className="currencies-options row">
