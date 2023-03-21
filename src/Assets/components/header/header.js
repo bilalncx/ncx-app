@@ -14,6 +14,7 @@ import Telegram from '../footer/telegram.svg';
 import Twitter from '../footer/twitter.svg';
 import Instagram from '../../images/instagram.svg';
 import AppBarCode from '../../images/ncx-QRcode.svg';
+import {ReactComponent as DropdownICon} from '../../images/menu-dropdown.svg';
   
 export default function Header() {   
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
@@ -106,7 +107,7 @@ export default function Header() {
                   <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://trade.ncx.cx/">Spot Trading</a>
+                  <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">Spot Trading</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#">Derivatives</a>
@@ -121,6 +122,9 @@ export default function Header() {
                   <a href="https://ncx.cx/ncx-card">NCX Card</a>
                 </li>
                 <li className="main_title white_bg">
+                  <a href="#">NCX Wallet</a>
+                </li>
+                <li className="main_title white_bg">
                   <a href="#" target="_blank" rel="noreferrer">NCX Token</a>
                 </li>
                 <li className="main_title white_bg">
@@ -130,7 +134,7 @@ export default function Header() {
             </div>
             <div className="login-buttons">
               <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer" className="signin">Sign In</Button>
-              <Button className="launch-dex" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</Button>
+              <Button className="launch-dex" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DeFi</Button>
               <div className="downloadQRCode">
                 <div id="downloadlink" className="storeicons">
                   <AppleIcon />
@@ -146,6 +150,24 @@ export default function Header() {
                     <div class="pc-box">
                       <div class="text">Scan the QR code to download NCX mobile APP</div>
                     </div>
+                  </div>
+                </div>
+              </div>
+              <div className="translate_lng">
+                <div id="tran_lang">
+                  <h1>English</h1>
+                  <DropdownICon />
+                </div>
+                <div id="language_trans">
+                  <div class="language-box">
+                    <a href="#">English</a>
+                    <a href="#">Русский</a>
+                    <a href="#">Español</a>
+                    <a href="#">中文</a>
+                    <a href="#">Bahasa</a>
+                    <a href="#">Tiếng Việt</a>
+                    <a href="#">हिन्दी</a>
+                    <a href="#">Melayu</a>
                   </div>
                 </div>
               </div>
@@ -179,7 +201,7 @@ export default function Header() {
                         <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
                       </li>
                       <li>
-                        <a href="https://trade.ncx.cx/">Spot Trading</a>
+                        <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">Spot Trading</a>
                       </li>
                       <li>
                         <a href="#">Derivatives</a>

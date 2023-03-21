@@ -23,7 +23,7 @@ header#header-row.darkheader{
     background-color: #000000;
 }
 #main-header {
-    max-width: 1400px !important;
+    max-width: 1450px !important;
     margin: 0 auto !important;
     width: 100% !important;
     padding: 0px !important;
@@ -37,7 +37,7 @@ header#header-row.darkheader{
     background: #65E4A1 !important;
     color: #000000 !important;
     font-family: 'urbanist-regular' !important;
-    font-size: 14px !important;
+    font-size: 15px !important;
     border-radius: 7px !important;
     text-transform: capitalize !important;
     width: 9% !important;
@@ -56,7 +56,7 @@ header#header-row.darkheader{
     border: 1.5px solid #34A9FF !important;
     background: #000000 !important;
     color:  #FFFFFF !important;
-    width: 110px !important;
+    width: 72px !important;
     height: 34px !important;
     margin-right: 0px !important;
 }
@@ -67,10 +67,10 @@ header#header-row.darkheader{
     text-decoration: none !important;
 }
 ul.navlink a {
-    font-size: 15px !important;
+    font-size: 14px !important;
     color: #FFFFFF !important;
     text-decoration: none !important;
-    font-family: 'urbanist-regular' !important;
+    font-family: 'pingfang-regular' !important;
     text-transform: capitalize !important;
 }
 /* ul.navlink a:hover{
@@ -96,13 +96,13 @@ ul.navlink li:hover:after {
 .logo-nav{
     width: 75%;
     display: flex;
-    column-gap: 28px;
+    column-gap: 24px;
     align-items: center;
 }
 .login-buttons {
     width: 25%;
     text-align: right;
-    column-gap: 12px;
+    column-gap: 8px;
     display: flex;
     justify-content: end;
     position: relative;
@@ -128,7 +128,7 @@ ul.navlink {
     align-items: center;
     padding-left: 0px;
     padding-bottom: 0px !important;
-    column-gap: 28px;
+    column-gap: 24px;
 }
 ul.navlink li {
     list-style-type: none;
@@ -224,7 +224,7 @@ a.header-more, li.main_title.white_bg:last-child a{
     display: block;
     padding: 12.5px 0px;
     color: #000000;
-    font-family: 'urbanist-regular';
+    font-family: 'pingfang-regular' !important;
     font-size: 14px;
     line-height: 20px;
     width: fit-content;
@@ -474,11 +474,87 @@ a.header-more, li.main_title.white_bg:last-child a{
     background: #000000 !important;
     border: 1px solid #34A9FF !important;
 }
-
 #header-row .MuiToolbar-regular {
     min-height: 56px !important;
 }
+
+/* ********************  Language dropdown Styling */
+.translate_lng {
+    padding: 19px 0px;
+}
+#tran_lang h1{
+    font-size: 15px;
+    font-family: 'pingfang-regular' !important;
+}
+#language_trans{
+    position: absolute;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 1px 6px 0 rgb(0 0 0 / 15%);
+    display: none;
+    padding: 0 16px 16px 16px;
+    cursor: default;
+    top: 55px;
+    right: 0px;
+    bottom: auto;
+    border-radius: 8px;
+    cursor: pointer;
+    min-width: 180px;
+}
+.language-box {
+    padding: 16px 0 0px 0px;
+    display: block;
+}
+#tran_lang:hover {
+    cursor: pointer;
+}
+.translate_lng {
+    position: relative;
+}
+.translate_lng:hover #language_trans {
+    display: block;
+}
+.language-box a {
+    text-align: left;
+    background: none;
+    border: none;
+    color: #000000;
+    font-family: 'pingfang-regular';
+    font-size: 14px;
+    display: block;
+    margin: 8px 0px;
+    padding: 0px !important;
+}
+.language-box a:hover{
+    color: #34A9FF !important;
+}
+div#tran_lang {
+    display: flex;
+    gap: 5px;
+}
+div#tran_lang svg {
+    width: 10px;
+    padding-top: 5px;
+}
+div#tran_lang svg path {
+    fill: rgb(255,255,255,1);
+}
+
+@media screen and (max-width: 1310px){
+    .logo-nav{
+        column-gap: 15px;
+    }
+    ul.navlink{
+        column-gap: 20px;
+    }
+}
 @media screen and (min-width: 801px) and (max-width: 1240px){
+    #main-header .login-buttons a{
+        font-size: 14px !important;
+    }
+    #tran_lang h1{
+        font-size: 14px !important;
+    }
     .logo-nav{
         width: 75% !important;
     }
@@ -487,32 +563,51 @@ a.header-more, li.main_title.white_bg:last-child a{
     }
     ul.navlink{
         width: fit-content !important;
-        column-gap: 20px !important;
+        column-gap: 15px !important;
     }
     ul.navlink a{
         font-size: 13px !important;
     }
     .signin, .launch-dex{
         width: fit-content !important;
-        padding: 6px 15px !important;
+        padding: 6px 5px !important;
     }
 }
 @media screen and (min-width: 801px) and (max-width: 1170px){
     .logo-nav{
-        width: 73% !important;
+        width: 78% !important;
         column-gap: 14px !important;
     }
     .login-buttons{
-        width: 27% !important;
+        width: 22% !important;
     }
     ul.navlink a{
         font-size: 12px !important;
     }
     .header-logo a img {
-        width: 100px !important;
+        width: 90px !important;
     }
     .signin, .launch-dex{
         padding: 6px 10px !important;
+    }
+    #main-header .login-buttons a{
+        font-size: 13px !important;
+        height: 30px !important;
+    }
+    .storeicons{
+        column-gap: 12px;
+        width: 60px;
+        height: 30px;
+    }
+    #tran_lang h1{
+        font-size: 13px !important;
+    }
+    div#tran_lang svg {
+        width: 7px;
+        padding-top: 0px;
+    }
+    .downloadQRCode{
+        display: none !important;
     }
 }
 @media screen and (min-width: 801px) and (max-width: 1010px){
@@ -548,7 +643,7 @@ a.header-more, li.main_title.white_bg:last-child a{
         width: 12px;
     }
 }
-@media screen and (min-width: 801px) and (max-width: 940px){
+@media screen and (min-width: 801px) and (max-width: 1000px){
     .logo-nav{
         width: 80% !important;
         column-gap: 14px !important;
@@ -691,7 +786,7 @@ a.header-more, li.main_title.white_bg:last-child a{
         line-height: 32px;
         color: #FFFFFF;
         text-align: center;
-        font-family: 'urbanist-regular' !important;
+        font-family: 'pingfang-regular' !important;
         width: fit-content;
         margin: 0 auto;
     }
