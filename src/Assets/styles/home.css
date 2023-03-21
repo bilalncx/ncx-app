@@ -43,10 +43,6 @@
     font-family: "poppins-medium";
     src: url(../fonts/Poppins-Medium.otf);
 }
-@font-face {
-    font-family: "pingfang-regular";
-    src: url(../fonts/pingfang-sc-regular.ttf);
-}
 /************************** Body Fonts family Ends from here *************************/
 
 .body-overflow {
