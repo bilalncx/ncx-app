@@ -70,7 +70,7 @@ ul.navlink a {
     font-size: 14px !important;
     color: #FFFFFF !important;
     text-decoration: none !important;
-    font-family: 'pingfang-regular' !important;
+    font-family: 'urbanist-regular' !important;
     text-transform: capitalize !important;
 }
 /* ul.navlink a:hover{
@@ -224,7 +224,7 @@ a.header-more, li.main_title.white_bg:last-child a{
     display: block;
     padding: 12.5px 0px;
     color: #000000;
-    font-family: 'pingfang-regular' !important;
+    font-family: 'urbanist-regular' !important;
     font-size: 14px;
     line-height: 20px;
     width: fit-content;
@@ -484,7 +484,7 @@ a.header-more, li.main_title.white_bg:last-child a{
 }
 #tran_lang h1{
     font-size: 15px;
-    font-family: 'pingfang-regular' !important;
+    font-family: 'urbanist-regular' !important;
 }
 #language_trans{
     position: absolute;
@@ -519,7 +519,7 @@ a.header-more, li.main_title.white_bg:last-child a{
     background: none;
     border: none;
     color: #000000;
-    font-family: 'pingfang-regular';
+    font-family: 'urbanist-regular';
     font-size: 14px;
     display: block;
     margin: 8px 0px;
@@ -786,7 +786,7 @@ div#tran_lang svg path {
         line-height: 32px;
         color: #FFFFFF;
         text-align: center;
-        font-family: 'pingfang-regular' !important;
+        font-family: 'urbanist-regular' !important;
         width: fit-content;
         margin: 0 auto;
     }
