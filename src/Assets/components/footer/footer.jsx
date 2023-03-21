@@ -22,7 +22,7 @@ function MyFooter()
                         <h1>Products</h1>
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
-                            <li><a href="#">Spot Trading</a></li>
+                            <li><a href="https://trade.ncx.cx/">Spot Trading</a></li>
                             <li><a href="https://ncx.cx/market-makers">Markets</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
                             <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
@@ -117,7 +117,7 @@ function MyFooter()
                     <ul>
                         <h1>Products</h1>
                         <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
-                        <li><a href="#">Spot Trading</a></li>
+                        <li><a href="https://trade.ncx.cx/">Spot Trading</a></li>
                         <li><a href="https://ncx.cx/market-makers">Markets</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
                         <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
