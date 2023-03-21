@@ -106,7 +106,7 @@ export default function Header() {
                   <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#">Spot Trading</a>
+                  <a href="https://trade.ncx.cx/">Spot Trading</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="#">Derivatives</a>
@@ -179,7 +179,7 @@ export default function Header() {
                         <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
                       </li>
                       <li>
-                        <a href="#">Spot Trading</a>
+                        <a href="https://trade.ncx.cx/">Spot Trading</a>
                       </li>
                       <li>
                         <a href="#">Derivatives</a>
