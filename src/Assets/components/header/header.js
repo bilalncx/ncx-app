@@ -161,12 +161,12 @@ export default function Header() {
                 <div id="language_trans">
                   <div class="language-box">
                     <a href="#">English</a>
-                    <a href="#">Русский</a>
+                    <a href="#">हिन्दी</a>
                     <a href="#">Español</a>
                     <a href="#">中文</a>
                     <a href="#">Bahasa</a>
                     <a href="#">Tiếng Việt</a>
-                    <a href="#">हिन्दी</a>
+                    <a href="#">Русский</a>
                     <a href="#">Melayu</a>
                   </div>
                 </div>
