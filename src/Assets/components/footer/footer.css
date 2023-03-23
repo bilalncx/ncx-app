@@ -10,7 +10,7 @@ div#footerdiv {
 .footer-row ul li {
     list-style-type: none !important;
     text-align: left;
-    padding-bottom: 16px;
+    padding-bottom: 20px;
 }
 .footer-row ul li a {
     color: #FCFCFD;
@@ -21,7 +21,7 @@ div#footerdiv {
 }
 .footer-row ul li a:hover{
     text-decoration: none;
-    color: #34A9FF;
+    /* color: #34A9FF; */
 }
 .footer-row ul li a:focus, .footer-row ul li a:focus-visible{
     text-decoration: none;
@@ -41,7 +41,7 @@ div#footerdiv {
 }
 .appsttore svg {
     display: block;
-    width: 128px;
+    width: 115px;
     height: auto;
     margin-bottom: 10px;
 }
@@ -72,8 +72,8 @@ div#footerdiv {
     column-gap: 20px;
 }
 .social-icons .icons a {
-    width: 48px;
-    height: 48px;
+    width: 44px;
+    height: 44px;
     background: rgba(255,255, 255, 0.15);
     text-align: center;
     display: flex;
@@ -132,6 +132,7 @@ div#footerdiv {
     right: 25px;
     top: 4px;
     border-radius: 8px;
+    border: 1px solid #34A9FF !important;
 }
 .fot-newsleter form button:foucs, .fot-newsleter form button:focus-visible{
     outline: none;
@@ -163,11 +164,11 @@ div#footerdiv {
     font-size: 15px !important;
 }
 .copyright{
-    padding-top: 40px;
+    padding-top: 60px;
 }
 .copyright p {
     color: #FFFFFF;
-    font-family: 'urbanist-light';
+    font-family: 'hauora-light';
     font-size: 11px;
     text-align: center;
     line-height: 16px;
@@ -175,7 +176,7 @@ div#footerdiv {
 }
 .copyright p a{
     color: #FFFFFF;
-    font-family: 'urbanist-regular';
+    font-family: 'hauora-regular';
     text-decoration: none;
 }
 .copyright p a:hover{
@@ -191,7 +192,7 @@ ul.ul-two {
 }
 .footer-row h1 {
     font-family: 'urbanist-medium' !important;
-    font-size: 20px !important;
+    font-size: 24px !important;
     color: #FCFCFD !important;
     font-weight: 500;
     margin-bottom: 20px;
@@ -206,10 +207,31 @@ ul.ul-two {
 li.hiddendss {
     visibility: hidden;
 }
-
+.footer-row ul li a {
+    list-style-type: none;
+    position: relative;
+}
+.footer-row ul li a:after {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 24px;
+    width: 0;
+    height: 2px;
+    background-color: #34A9FF;
+    transition: 1s;
+}
+.footer-row ul li a:hover:after {
+    width: 100%;
+}
+@media screen and (max-width: 1280px){
+    .footer-row ul li a{
+        font-size: 14px !important;
+    }
+}
 @media screen and (min-width: 1301px){
     .footer.container {
-        max-width: 1200px !important;
+        max-width: 1250px !important;
         padding: 0px 20px !important;
     }
 }
@@ -217,6 +239,12 @@ li.hiddendss {
     .footer.container {
         width: 100%;
         padding: 0px 50px !important;
+    }
+}
+@media screen and (max-width: 1020px){
+    .footer.container {
+        width: 100%;
+        padding: 0px 20px !important;
     }
 }
 @media screen and (max-width: 800px){
@@ -266,11 +294,28 @@ li.hiddendss {
     }
     .mob-foot-ul ul li a:hover{
         text-decoration: none;
-        color: #34A9FF;
+        /* color: #34A9FF; */
     }
     .mob-foot-ul ul li a:focus, .mob-foot-ul ul li a:focus-visible{
         text-decoration: none;
         color: #34A9FF;
+    }
+    .mob-foot-ul ul li a {
+        list-style-type: none;
+        position: relative;
+    }
+    .mob-foot-ul ul li a:after {
+        content: "";
+        position: absolute;
+        display: block;
+        top: 18px;
+        width: 0;
+        height: 2px;
+        background-color: #34A9FF;
+        transition: 1s;
+    }
+    .mob-foot-ul ul li a:hover:after {
+        width: 100%;
     }
     .mob-foot-ul {
         padding-top: 20px;
@@ -318,10 +363,10 @@ li.hiddendss {
         width: 100% !important;
     }
     .copyright p{
-        font-family: 'urbanist-light' !important;
+        font-family: 'hauora-light' !important;
     }
     .copyright p a{
-        font-family: 'urbanist-medium' !important;
+        font-family: 'hauora-medium' !important;
     }
     .appsttore img {
         width: 100%;

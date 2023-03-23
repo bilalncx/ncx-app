@@ -26,18 +26,26 @@ div#header-newmobile {
     }
     .product-tabs-btn{
         justify-content: space-between !important;
+        column-gap: inherit !important;
     }
     button.pro-tabs{
         font-size: 16px !important;
+        min-width: fit-content;
+        width: fit-content;
+    }
+    .api-row{
+        column-gap: 50px;
     }
     .ncxequities .row:before, .ncxequities .row:after{
         display: none;
     }
-    .ncxequities #equities-tabs-sect .row .col{
-        width: 45% !important;
-    }
     .tasktext{
         width: 100% !important;
+    }
+}
+@media screen and (min-width: 801px) and (max-width: 1280px){
+    .ncxequities #equities-tabs-sect .row .col{
+        width: 45% !important;
     }
 }
 @media screen and (max-width: 800px){

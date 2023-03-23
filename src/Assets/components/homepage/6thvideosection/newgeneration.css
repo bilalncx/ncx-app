@@ -112,6 +112,9 @@ h2.secondtask{
     display: flex;
     margin-top: 50px !important;
 }
+.ncxtask.row:before, .ncxtask.row:after{
+    display: none;
+}
 .taskdiv.one{
     gap: 55px;
 }
@@ -120,6 +123,21 @@ h2.secondtask{
     display: none;
 }
 
+@media screen and (max-width: 1200px){
+    .taskdiv{
+        width: 46% !important;
+        margin: 0px !important;
+    }
+    .ncxtask.row{
+        justify-content: space-between;
+    }
+    .new-generation .container{
+        column-gap: 20px;
+    }
+    .taskdiv h3{
+        font-size: 36px;
+    }
+}
 @media screen and (max-width: 800px) {
     #ncx-main-video-mobile{
         display: block !important;

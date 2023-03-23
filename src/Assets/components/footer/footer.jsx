@@ -18,17 +18,22 @@ function MyFooter()
         <div id="footerdiv">
             <div className="container footer">
                 <div class="footer-row">
-                    <div class="first-column">
+                    <div class="first-column ftr-col">
                         <h1>Products</h1>
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
                             <li><a href="https://trade.ncx.cx/">Spot Trading</a></li>
+                            <li><a href="https://trade.ncx.cx/">Crypto Derivatives</a></li>
                             <li><a href="https://ncx.cx/market-makers">Markets</a></li>
-                            <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
+                            <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Cross-Chain DEX</a></li>
                             <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
+                            <li><a href="#">NCX DeFi Wallet</a></li>
                             <li><a href="#">NCX Token</a></li>
+                            <li><a href="#">Equities Trading</a></li>
+                            <li><a href="#">Forex Trading</a></li>
+                            <li><a href="#">Commodities Trading</a></li>
                         </ul>
-                        <h1>Derivatives Trading</h1>
+                        {/* <h1>Derivatives Trading</h1>
                         <ul className="ul-two">
                             <li><a href="#">Crypto Derivatives</a></li>
                             <li><a href="#">Equities Trading</a></li>
@@ -37,27 +42,29 @@ function MyFooter()
                             <li><a href="#">Metals Trading</a></li>
                             <li><a href="#">Indices Trading</a></li>
                             <li><a href="#">Oil & Gas Trading</a></li>
-                        </ul>
+                        </ul> */}
                     </div>
-                    <div class="second-column">
+                    <div class="second-column ftr-col">
                         <h1>Services</h1>
                         <ul className="ul-one">
+                            <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
                             <li><a href="https://ncx.cx/task-rewards">Referral Program</a></li>
                             <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
                             <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
                             <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
-                            <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
                             <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
+                            <li><a href="https://ncx.cx/faq">FAQ</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="https://ncx.cx/insights">Media Press</a></li>
                         </ul>
-                        <h1>Company</h1>
+                        {/* <h1>Company</h1>
                         <ul className="ul-two">
-                            {/* <li><a href="#">About Us</a></li> */}
                             <li><a href="https://ncx.cx/insights">Media & Press</a></li>
                             <li><a href="https://ncx.cx/faq">FAQ</a></li>
                             <li><a href="#">Support</a></li>
-                        </ul>
+                        </ul> */}
                     </div>
-                    <div class="third-column">
+                    <div class="third-column ftr-col">
                         <h1>Legal</h1>
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/user-agreement">User Agreement</a></li>
@@ -65,15 +72,17 @@ function MyFooter()
                             <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
                             <li><a href="https://ncx.cx/api-agreement">API Documentation</a></li>
                             <li><a href="https://ncx.cx/cookie-policy">Cookie Policy</a></li>
-                            <li className="hiddendss"><a>Red</a></li>
+                            {/* <li className="hiddendss"><a>Red</a></li> */}
                         </ul>
                         <h1>Apps</h1>
                         <ul className="ul-two">
                             <li><a href="#">NCX App on App Store</a></li>
                             <li><a href="#">NCX App on Google Play Store</a></li>
+                            <li><a href="#">NCX cTrader on App Store</a></li>
+                            <li><a href="#">NCX cTrader on Google Play Store</a></li>
                         </ul>
                     </div>
-                    <div class="fourth-column">
+                    <div class="fourth-column ftr-col">
                         <div>
                             <div class="footer-logo"><a title="NCX" href="https://ncx.cx/"><img src={Footerlogo} alt="NCX" title="NCX" /></a></div>
                             <div className="app-barcode-row">
@@ -118,22 +127,30 @@ function MyFooter()
                         <h1>Products</h1>
                         <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
                         <li><a href="https://trade.ncx.cx/">Spot Trading</a></li>
+                        <li><a href="#">Crypto Derivatives</a></li>
                         <li><a href="https://ncx.cx/market-makers">Markets</a></li>
-                        <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a></li>
+                        <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Cross-Chain DEX</a></li>
                         <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
+                        <li><a href="#">NCX DeFi Wallet</a></li>
                         <li><a href="#">NCX Token</a></li>
+                        <li><a href="#">Equities Trading</a></li>
+                        <li><a href="#">Forex Trading</a></li>
+                        <li><a href="#">Commodities Trading</a></li>
                     </ul>
                     <ul>
                         <h1>Services</h1>
+                        <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
                         <li><a href="https://ncx.cx/task-rewards">Referral Program</a></li>
                         <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
-                        <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
-                        <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
-                        <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
                         <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
+                        <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
+                        <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
+                        <li><a href="https://ncx.cx/faq">FAQ</a></li>
+                        <li><a href="#">Support</a></li>
+                        <li><a href="https://ncx.cx/insights">Media & Press</a></li>
                     </ul>
                 </div>
-                <div className="mob-foot-ul">
+                {/* <div className="mob-foot-ul">
                     <ul>
                         <h1>Derivatives Trading</h1>
                         <li><a href="#">Crypto Derivatives</a></li>
@@ -146,12 +163,11 @@ function MyFooter()
                     </ul>
                     <ul>
                         <h1>Company</h1>
-                        {/* <li><a href="#">About Us</a></li> */}
                         <li><a href="https://ncx.cx/insights">Media & Press</a></li>
                         <li><a href="https://ncx.cx/faq">FAQ</a></li>
                         <li><a href="#">Support</a></li>
                     </ul>
-                </div>
+                </div> */}
                 <div className="mob-foot-ul">
                     <ul>
                         <h1>Legal</h1>
@@ -165,6 +181,8 @@ function MyFooter()
                         <h1>Apps</h1>
                         <li><a href="#">NCX App on App Store</a></li>
                         <li><a href="#">NCX App on Google Play Store</a></li>
+                        <li><a href="#">NCX cTrader on App Store</a></li>
+                        <li><a href="#">NCX cTrader on Google Play Store</a></li>
                     </ul>
                 </div>
                 <div class="social-media">

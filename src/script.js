@@ -80,8 +80,7 @@ $(document).ready(function() {
     });
 
 
-    window.onscroll = function() {myFunction()};
-    var headera = document.getElementById("insight_page");
+    var headera = document.querySelector("#insight_page");
     var sticky = headera.offsetTop+0;
     function myFunction() {
       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 18000) { // <--here
@@ -100,6 +99,7 @@ $(document).ready(function() {
         $("#insight_page .support_articles").removeClass("blog-stick");
       }
     }
+    window.onscroll = function() {myFunction()};
 });
 
 // $(document).ready(function(){

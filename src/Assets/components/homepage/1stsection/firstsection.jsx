@@ -14,11 +14,11 @@ import NCXAPPSection from "../NCXapp/ncxapp";
 function HomeFirstSection()
 {
     const onComplete = () => {
-        console.log('Completed!');
+        // console.log('Completed!');
     };
       
     const onStart = () => {
-        console.log('Started!');
+        // console.log('Started!');
     };
     
     return(
