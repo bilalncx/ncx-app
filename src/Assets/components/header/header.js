@@ -254,7 +254,7 @@ export default function Header() {
                 <button class="dropbtn">Launch DEX</button>
                 <div class="dropdown-content">
                   <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</a>
-                  <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Log in</a>
+                  <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign in</a>
                   {/* <a href="#" target="_blank" rel="noreferrer">Sign Up</a> */}
                 </div>
               </div>
