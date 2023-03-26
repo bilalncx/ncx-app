@@ -48,7 +48,7 @@ function MyFooter()
                         <h1>Services</h1>
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
-                            <li><a href="https://ncx.cx/task-rewards">Referral Program</a></li>
+                            <li><a href="https://ncx.cx/task-rewards">Rewards Program</a></li>
                             <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
                             <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
                             <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
@@ -140,7 +140,7 @@ function MyFooter()
                     <ul>
                         <h1>Services</h1>
                         <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
-                        <li><a href="https://ncx.cx/task-rewards">Referral Program</a></li>
+                        <li><a href="https://ncx.cx/task-rewards">Rewards Program</a></li>
                         <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
                         <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
                         <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>

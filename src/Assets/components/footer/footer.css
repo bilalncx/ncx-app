@@ -26,7 +26,7 @@ div#footerdiv {
 .footer-row ul li a:focus, .footer-row ul li a:focus-visible{
     text-decoration: none;
     outline: none;
-    color: #34A9FF;
+    /* color: #34A9FF; */
 }
 .app-barcode-row {
     display: flex;

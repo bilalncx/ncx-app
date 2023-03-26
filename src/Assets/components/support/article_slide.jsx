@@ -26,43 +26,43 @@ function ModalMarketPage()
                     <Slide>
                         <div className="faq-mod">
                             <p>How to Sign Up via Desktop</p>
-                            <a href="#">FAQs</a>
+                            <a href="https://ncx.cx/faq">FAQs</a>
                         </div>
                     </Slide>
                     <Slide>
                         <div className="faq-mod">
                             <p>How to Sign Up via Mobile App</p>
-                            <a href="#">FAQs</a>
+                            <a href="https://ncx.cx/faq">FAQs</a>
                         </div>
                     </Slide>
                     <Slide>
                         <div className="faq-mod">
                             <p>How to Add Two-Factor Authentication</p>
-                            <a href="#">FAQs</a>
+                            <a href="https://ncx.cx/faq">FAQs</a>
                         </div>
                     </Slide>
                     <Slide>
                         <div className="faq-mod">
                             <p>How to Change Password</p>
-                            <a href="#">FAQs</a>
+                            <a href="https://ncx.cx/faq">FAQs</a>
                         </div>
                     </Slide>
                     <Slide>
                         <div className="faq-mod">
                             <p>How to Reset Password</p>
-                            <a href="#">FAQs</a>
+                            <a href="https://ncx.cx/faq">FAQs</a>
                         </div>
                     </Slide>
                     <Slide>
                         <div className="faq-mod">
                             <p>How to Add Anti Phishing Cod</p>
-                            <a href="#">FAQs</a>
+                            <a href="https://ncx.cx/faq">FAQs</a>
                         </div>
                     </Slide>
                     <Slide>
                         <div className="faq-mod">
                             <p>How to Add Address Whitelisting</p>
-                            <a href="#">FAQs</a>
+                            <a href="https://ncx.cx/faq">FAQs</a>
                         </div>
                     </Slide>
                 </Slider>

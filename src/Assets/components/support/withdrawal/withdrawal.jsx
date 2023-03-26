@@ -66,7 +66,7 @@ function SupportPageSet()
                                             className={toggleState === 2 ? "faq-tabs active" : "faq-tabs"}
                                             onClick={() => toggleTab(2)}
                                         >
-                                        Deposits on Mobile App
+                                        Withdrawals on Mobile App
                                         </button>
                                     </li>
                                     <li>

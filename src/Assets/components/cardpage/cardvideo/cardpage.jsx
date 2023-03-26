@@ -47,8 +47,8 @@ function CardfirstSection()
                                 </div>
                                 <div className="bullets">
                                     <span>Apple Pay</span>
-                                    <span>Google Play</span>
-                                    <span>Samsung Play</span>
+                                    <span>Google Pay</span>
+                                    <span>Samsung Pay</span>
                                 </div>
                                 <div id="mobile-butller">
                                     <div className="bullets">

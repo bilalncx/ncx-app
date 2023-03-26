@@ -133,7 +133,7 @@ export default function Header() {
               </ul>
             </div>
             <div className="login-buttons">
-              <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer" className="signin">Sign In</Button>
+              <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer" className="signin">Sign in</Button>
               <Button className="launch-dex" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DeFi</Button>
               <div className="downloadQRCode">
                 <div id="downloadlink" className="storeicons">
