@@ -66,6 +66,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/faq_learn") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/ncx-token") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }

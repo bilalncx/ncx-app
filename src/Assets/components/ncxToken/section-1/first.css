@@ -1,0 +1,81 @@
+.token_first_sect{
+    background: url(../../../images/Token_bg.png);
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    margin-top: -56px;
+    padding: 200px 0px 50px 0px;
+}
+.txt112 h1 {
+    font-size: 26px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    width: 74%;
+    line-height: 45px;
+    margin-bottom: 40px;
+}
+a.token_signin {
+    background: #5ED3F0;
+    padding: 15px 30px;
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    border-radius: 50px;
+}
+a.claim_airdrop{
+    background: rgba(31, 31, 31, 0.55);
+    border: 1.5px solid #5ED3F0;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    padding: 15px 30px;
+}
+.btnss {
+    display: flex;
+    column-gap: 15px;
+}
+.txt112 p {
+    margin-top: 15px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'urbanist-light';
+}
+.how_and_why22 {
+    display: flex;
+    justify-content: space-between;
+}
+.ds22 {
+    display: flex;
+    column-gap: 15px;
+}
+.work {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.social-col svg path {
+    fill: #FFFFFF !important;
+}
+.social-col svg{
+    font-size: 20px;
+}
+.social-col {
+    display: flex;
+    column-gap: 20px;
+    height: 20px;
+}
+.work p, .work a {
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.work a:hover{
+    text-decoration: none;
+}
+.work a:focus, .work a:focus-visible{
+    text-decoration: none;
+}

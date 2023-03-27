@@ -1,0 +1,281 @@
+/************************************ Token Header Styling ************************************** */
+#ncx_token_Page header#header-row{
+    background: transparent;
+}
+#ncx_token_Page .header-logo a img {
+    width: 100% !important;
+}
+#ncx_token_Page .login-buttons a.signin{
+    width: 120px !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+    background: #5ED3F0 !important;
+    border: 1px solid #5ED3F0 !important;
+}
+#ncx_token_Page .login-buttons a.signin:hover{
+    background: #000000 !important;
+    border: 1px solid #5ED3F0 !important;
+}
+#ncx_token_Page .login-buttons a.launch-dex{
+    font-size: 14px !important;
+    line-height: 20px !important;
+    background: #000000 !important;
+    border: 1px solid #5ED3F0 !important;
+}
+#ncx_token_Page .login-buttons a.launch-dex:hover{
+    background: #5ED3F0 !important;
+    border: 1px solid #5ED3F0 !important;
+}
+#ncx_token_Page #main-header .logo-nav{
+    column-gap: 20px !important;
+}
+#ncx_token_Page #main-header ul.navlink{
+    column-gap: 20px !important;
+}
+#ncx_token_Page #main-header ul.navlink li:after{
+    background-color: #5ED3F0 !important;
+}
+
+@media screen and (min-width: 1400px){
+    #ncx_token_Page #main-header ul.navlink a{
+        font-size: inherit !important;
+        font-family: inherit !important;
+    }
+}
+@media screen and (min-width: 1450px){
+    #ncx_token_Page #main-header ul.navlink a{
+        font-size: 16px !important;
+        font-family: 'urbanist-light' !important;
+    }
+    #ncx_token_Page #main-header ul.navlink{
+        column-gap: 18px !important;
+    }
+}
+@media screen and (max-width: 1380px){
+    #ncx_token_Page .header-logo a img{
+        width: 160px !important;
+    }
+    #ncx_token_Page #main-header .login-buttons{
+        width: 26% !important;
+    }
+    #ncx_token_Page #main-header ul.navlink{
+        column-gap: 15px !important;
+    }
+}
+@media screen and (max-width: 1310px){
+    #ncx_token_Page #main-header .logo-nav{
+        column-gap: 15px !important;
+        width: 72% !important;
+    }
+    #ncx_token_Page #main-header ul.navlink{
+        column-gap: 15px !important;
+    }
+    #ncx_token_Page .login-buttons a.signin, #ncx_token_Page .login-buttons a.launch-dex{
+        font-size: 13px !important;
+    }
+    #ncx_token_Page .header-logo a img{
+        width: 140px !important;
+    }
+    #ncx_token_Page #main-header .login-buttons{
+        width: 28% !important;
+    }
+}
+@media screen and (min-width: 801px) and (max-width: 1240px){
+    #ncx_token_Page #main-header .login-buttons a{
+        font-size: 14px !important;
+    }
+    #ncx_token_Page #main-header #tran_lang h1{
+        font-size: 14px !important;
+    }
+    #ncx_token_Page #main-header .logo-nav{
+        width: 72% !important;
+    }
+    #ncx_token_Page #main-header .login-buttons{
+        width: 28% !important;
+    }
+    #ncx_token_Page #main-header ul.navlink{
+        width: fit-content !important;
+        column-gap: 15px !important;
+    }
+    #ncx_token_Page #main-header ul.navlink a{
+        font-size: 13px !important;
+    }
+    #ncx_token_Page #main-header .signin, #ncx_token_Page #main-header .launch-dex{
+        width: fit-content !important;
+        padding: 6px 5px !important;
+    }
+}
+@media screen and (min-width: 801px) and (max-width: 1170px){
+    #ncx_token_Page #main-header .logo-nav{
+        width: 74% !important;
+        column-gap: 14px !important;
+    }
+    #ncx_token_Page #main-header .login-buttons{
+        width: 26% !important;
+    }
+    #ncx_token_Page #main-header ul.navlink a{
+        font-size: 12px !important;
+    }
+    #ncx_token_Page #main-header .header-logo a img {
+        width: 140px !important;
+    }
+    #ncx_token_Page #main-header .signin, #ncx_token_Page #main-header .launch-dex{
+        padding: 6px 10px !important;
+    }
+    #ncx_token_Page #main-header .login-buttons a{
+        font-size: 12px !important;
+        height: 30px !important;
+    }
+    #ncx_token_Page #main-header .storeicons{
+        column-gap: 12px;
+        width: 60px;
+        height: 30px;
+    }
+    #ncx_token_Page #main-header #tran_lang h1{
+        font-size: 13px !important;
+    }
+    #ncx_token_Page #main-header div#tran_lang svg {
+        width: 7px;
+        padding-top: 0px;
+    }
+    #ncx_token_Page #main-header .downloadQRCode{
+        display: none !important;
+    }
+    #ncx_token_Page #main-header .header-more svg{
+        width: 14px !important;
+        height: 14px !important;
+    }
+    #ncx_token_Page #header-row .MuiToolbar-regular{
+        padding: 0px 15px !important
+    }
+    #ncx_token_Page #main-header ul.navlink{
+        column-gap: 13px !important;
+    }
+}
+@media screen and (max-width: 1040px){
+    #ncx_token_Page #main-header .header-logo a img{
+        width: 120px !important;
+    }
+}
+@media screen and (min-width: 801px) and (max-width: 1010px){
+    #ncx_token_Page #main-header .logo-nav{
+        width: 76% !important;
+        column-gap: 14px !important;
+    }
+    #ncx_token_Page #main-header .login-buttons{
+        width: 24% !important;
+    }
+    #ncx_token_Page #main-header ul.navlink a{
+        font-size: 12px !important;
+    }
+    /* #ncx_token_Page #main-header .header-logo a img {
+        width: 80px !important;
+    } */
+    #ncx_token_Page #main-header .signin, #ncx_token_Page #main-header .launch-dex{
+        padding: 6px 5px !important;
+        height: 30px !important;
+        font-size: 10px !important;
+    }
+    #ncx_token_Page #main-header .storeicons{
+        height: 30px !important;
+        width: fit-content !important;
+        column-gap: 10px !important;
+        padding: 0px 10px !important;
+    }
+    #ncx_token_Page #main-header .header-more svg {
+        width: 13px !important;
+        height: 13px !important;
+    }
+    #ncx_token_Page #main-header .storeicons svg {
+        width: 12px;
+    }
+}
+@media screen and (min-width: 801px) and (max-width: 1000px){
+    #ncx_token_Page #main-header .logo-nav{
+        width: 75% !important;
+        column-gap: 14px !important;
+    }
+    #ncx_token_Page #main-header .login-buttons{
+        width: 25% !important;
+    }
+    #ncx_token_Page #main-header ul.navlink a{
+        font-size: 10px !important;
+    }
+    #ncx_token_Page #main-header .header-logo a img {
+        width: 110px !important;
+    }
+    #ncx_token_Page #main-header .signin, #ncx_token_Page #main-header .launch-dex{
+        padding: 6px 5px !important;
+        height: 30px !important;
+        font-size: 10px !important;
+    }
+    #ncx_token_Page #main-header .storeicons{
+        display: none;
+    }
+    #ncx_token_Page #main-header .header-more svg {
+        width: 13px !important;
+        height: 13px !important;
+    }
+    #ncx_token_Page #main-header .storeicons svg {
+        width: 12px;
+    }
+}
+
+/************************************ Token Footer Styling ************************************** */
+#ncx_token_Page .footer-row ul li a:after{
+    background-color: #5ED3F0;
+}
+#ncx_token_Page .fot-newsleter form button{
+    background: #5ED3F0 !important;
+    border-color: #5ED3F0 !important;
+}
+#ncx_token_Page .social-icons .icons a:hover{
+    background: #5ED3F0 !important;
+}
+
+/************************************ Token Countdown Styling ************************************** */
+div#token_countdown .show-counter {
+    display: flex;
+}
+.expired-notice > span {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: red;
+}
+.expired-notice > p {
+    font-size: 1.5rem;
+}
+/* .show-counter {
+    padding: 40px;
+} */
+.show-counter .countdown {
+    line-height: 1.25rem;
+    padding: 0px 20px 0px 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.show-counter .countdown.danger {
+    color: #ff0000;
+}
+div#token_countdown .show-counter p{
+    font-size: 30px;
+}
+.show-counter .countdown > p {
+    margin: 0;
+    font-size: 30px;
+    line-height: 44px;
+    font-family: 'urbanist-regular';
+}
+.show-counter .countdown > span {
+    text-transform: uppercase;
+    font-size: 11px;
+    line-height: 16px;
+    font-family: 'urbanist-regular';
+    text-transform: capitalize;
+}
+#token_countdown h1{
+    font-size: 14px;
+    font-family: 'urbanist-medium';
+    line-height: 20px;
+}

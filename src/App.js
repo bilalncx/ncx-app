@@ -26,6 +26,8 @@ import FAQWithdrawal from './Assets/components/support/withdrawal/withdrawal';
 import FAQSpotTrading from './Assets/components/support/spottrading/sporttrading';
 import FAQLearn from './Assets/components/support/learn/learn';
 import ApplyNow from './Assets/pages/Horizontalpage/horizontalpage';
+import NCXTokenPage from './Assets/pages/ncx-token/token';
+
 const App = () => {
   return (
     // <div className='roo-container'>
@@ -55,6 +57,7 @@ const App = () => {
           <Route path='/faq_spot_trading' element={<FAQSpotTrading />} />
           <Route path='/faq_learn' element={<FAQLearn />} />
           <Route path='/apply-now' element={<ApplyNow />} />
+          <Route path='/ncx-token' element={<NCXTokenPage />} />
         </Routes>
       </BrowserRouter>
     // </div>
