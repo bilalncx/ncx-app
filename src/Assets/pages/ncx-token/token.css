@@ -238,12 +238,16 @@ div#token_countdown .show-counter {
     display: flex;
 }
 .expired-notice > span {
-    font-size: 2.5rem;
-    font-weight: bold;
+    font-size: 30px;
+    font-family: 'urbanist-medium';
     color: red;
+    padding-left: 20px;
 }
 .expired-notice > p {
-    font-size: 1.5rem;
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    padding-left: 20px;
 }
 /* .show-counter {
     padding: 40px;
@@ -255,17 +259,19 @@ div#token_countdown .show-counter {
     display: flex;
     flex-direction: column;
 }
-.show-counter .countdown.danger {
-    color: #ff0000;
+.countdown.danger p {
+    color: #ff0000 !important;
 }
 div#token_countdown .show-counter p{
     font-size: 30px;
+    color: #FFFFFF;
 }
 .show-counter .countdown > p {
     margin: 0;
     font-size: 30px;
     line-height: 44px;
     font-family: 'urbanist-regular';
+    color: #FFFFFF;
 }
 .show-counter .countdown > span {
     text-transform: uppercase;
@@ -273,9 +279,13 @@ div#token_countdown .show-counter p{
     line-height: 16px;
     font-family: 'urbanist-regular';
     text-transform: capitalize;
+    color: #FFFFFF;
 }
 #token_countdown h1{
     font-size: 14px;
     font-family: 'urbanist-medium';
     line-height: 20px;
+    color: #FFFFFF;
+    padding-left: 20px;
+    margin-bottom: 0px;
 }

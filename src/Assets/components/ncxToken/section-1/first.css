@@ -6,7 +6,11 @@
     width: 100%;
     height: auto;
     margin-top: -56px;
-    padding: 200px 0px 50px 0px;
+    padding: 250px 0px 50px 0px;
+    background-position: center;
+}
+.row:before, .row:after{
+    display: none;
 }
 .txt112 h1 {
     font-size: 26px;
@@ -23,6 +27,17 @@ a.token_signin {
     color: #FFFFFF;
     font-family: 'urbanist-regular';
     border-radius: 50px;
+    border: 1px solid #5ED3F0;
+}
+a.token_signin:hover{
+    background: rgba(31, 31, 31, 0.55);
+    border: 1px solid #5ED3F0;
+    text-decoration: none;
+}
+a.token_signin:focus, a.token_signin:focus-visible{
+    text-decoration: none !important;
+    outline: none;
+    box-shadow: none;
 }
 a.claim_airdrop{
     background: rgba(31, 31, 31, 0.55);
@@ -31,6 +46,11 @@ a.claim_airdrop{
     color: #FFFFFF;
     font-family: 'urbanist-regular';
     padding: 15px 30px;
+    font-size: 18px;
+}
+a.claim_airdrop:hover{
+    background: #5ED3F0;
+    text-decoration: none;
 }
 .btnss {
     display: flex;
@@ -45,6 +65,7 @@ a.claim_airdrop{
 .how_and_why22 {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .ds22 {
     display: flex;
@@ -67,6 +88,9 @@ a.claim_airdrop{
     column-gap: 20px;
     height: 20px;
 }
+.social-col a:hover .social-col svg path{
+    fill: #34A9FF !important;
+}
 .work p, .work a {
     font-size: 14px;
     font-family: 'urbanist-regular';
@@ -78,4 +102,83 @@ a.claim_airdrop{
 }
 .work a:focus, .work a:focus-visible{
     text-decoration: none;
+}
+.col.time_contribute {
+    width: 50% !important;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0px;
+    column-gap: 50px;
+}
+.bonus_col p {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    line-height: 20px;
+}
+p.contributors {
+    font-size: 12px;
+}
+.bonus_col h1 {
+    font-size: 30px !important;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    margin: 5px 0px !important;
+}
+.row.slider_countdown {
+    margin-bottom: 70px;
+}
+.slider_countdown h1 {
+    font-size: 20px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    margin-bottom: 13px;
+}
+.row.txxss {
+    margin-bottom: 230px;
+}
+.row.slider_countdown {
+    margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+}
+span.MuiSlider-rail {
+    color: #E6E6E6 !important;
+    opacity: 1 !important;
+    border-radius: 0px;
+    height: 7px;
+}
+span.MuiSlider-track {
+    background-image: linear-gradient(190deg, #3FAEFE 0%, #39D8FF 100%) !important;
+    border: none;
+    border-radius: 0px;
+    height: 7px;
+}
+span.MuiSlider-thumb {
+    display: none;
+}
+span.MuiSlider-mark {
+    display: none;
+}
+span.MuiSlider-markLabel {
+    left: 96% !important;
+    top: -36px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'urbanist-medium';
+    padding-bottom: 15px;
+}
+span.MuiSlider-markLabel:before {
+    content: 'Completed';
+    font-size: 12px;
+    font-family: 'urbanist-light';
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.MuiSlider-root {
+    margin-bottom: 0px !important;
+}
+.bonus_col {
+    display: none;
 }

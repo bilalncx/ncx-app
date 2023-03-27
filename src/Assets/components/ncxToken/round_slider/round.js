@@ -4,11 +4,11 @@ import Slider from "@mui/material/Slider";
 
 const marks = [
   {
-    value: 0
+    value: 0,
   },
   {
-    value: 70,
-    label: "70%"
+    value: 77,
+    label: "77%"
   },
   // {
   //   value: 100,
@@ -26,15 +26,15 @@ const marks = [
 
 export default function DiscreteSliderValues() {
   return (
-    <Box sx={{ width: 300 }}>
+    <Box sx={{ width: 400 }}>
         <h1>Round 1</h1>
         <Slider
             aria-label="Restricted values"
-            defaultValue={70}
+            defaultValue={77}
             // valueLabelFormat={valueLabelFormat}
             // getAriaValueText={valuetext}
-            step={null}
-            // valueLabelDisplay="auto"
+            // step={null}
+            valueLabelDisplay="auto"
             marks={marks}
         />
     </Box>

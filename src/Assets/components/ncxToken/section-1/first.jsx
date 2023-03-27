@@ -28,7 +28,7 @@ function FirstSect()
                     <div className="col">
                         <RoundSlider />
                     </div>
-                    <div className="col">
+                    <div className="col time_contribute">
                         <div className="bonus_col">
                             <p>Current Bonus</p>
                             <h1>5-25%</h1>
@@ -49,9 +49,9 @@ function FirstSect()
                         </div>
                     </div>
                     <div className="social-col">
-                        <Instagram />
-                        <Telegram />
-                        <Twitter />
+                        <a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
+                        <a href="#"><Telegram /></a>
+                        <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
                     </div>
                 </div>
             </div>
