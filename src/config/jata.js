@@ -1,5 +1,1956 @@
 const blogListdata = [
   {
+    id: 215,
+    title: 'Chainlink receives fresh attention from whales, but here’s a problem',
+    category: 'Crypto',
+    subCategory: ['Chainlink', 'Whales', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Chainlink [LINK] has been witnessing a constant decline in its number of holders lately. Dune’s data revealed that the daily number of wallets with 1+ LINK has been on a declining trend for months. </p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-221.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Gas spent and the daily wallets with 1+ LINK were on a declining trend, at press time. </li>
+        <li>Metrics showed signs of recovery, but LINK’s price action was bearish. </li>
+      </ul>
+      <p>Chainlink [LINK] has been witnessing a constant decline in its number of holders lately. Dune’s data revealed that the daily number of wallets with 1+ LINK has been on a declining trend for months. </p>
+      <p>And as per Market.link, gas spent on the chain has also gone down, suggesting less usage of the Chainlink network. </p>
+	    <h3>Can LINK regain users? </h3>
+	    <p>While the number of users on the network declined, whales still preferred LINK over the rest of the cryptocurrencies.</p>
+	    <p>Consider this- LINK recently flipped Shiba Inu [SHIB] to become the most traded token among the top 500 Ethereum [ETH] whales.</p>	
+	    <p>Additionally, LINK has also been stepping up its efforts to increase adoption, which can play a role in attracting new users to the network.</p>	
+	    <p>One of the latest ones was the integration with SteakHut, which has equipped Chainlink Automation to support automated liquidity management.</p>
+      <p>The official announcement mentioned that SteakHut decided to use Chainlink Automation to monitor the state of smart contracts and perform advanced liquidity management on-chain because it is the most reliable Web3 automation service. </p>
+      <p>As per Santiment, LINK’s network growth remained relatively high, indicating that a larger number of new accounts were used to transfer the token. The velocity also followed a similar trend, which too suggested high network activity.</p>
+      <p>However, negative sentiments around LINK were dominant in the market. Well, this can cause trouble for LINK since investors’ faith seems to be dwindling. </p>
+      <h3>LINK is feeling the heat</h3>    
+      <p>Though there were signs of recovery on the network front, LINK’s price action aligned with the sellers’ interests. According to CoinMarketCap, the price of LINK dropped by more than 3% in the last 24 hours, and it was trading at $7.13, at the time of writing.</p> 
+      <p>Nonetheless, much like network activity, LINK’s on-chain metrics gave hope for better days.</p>
+      <p>For instance, LINK’s supply on exchanges declined while its supply outside of exchanges went up.</p>
+      <p>Furthermore, LINK’s demand in the derivatives market also remained high, as suggested by its Binance funding rate. This might help LINK change its price trajectory in the coming days.</p>
+      <h3>More selling pressure soon? </h3>
+      <p>Meanwhile, LINK’s daily chart revealed that the sellers might soon increase their pressure. At press time, LINK’s Money Flow Index (MFI) was in the overbought zone. In fact, the coin’s Relative Strength Index (RSI) also registered a downtick, which was a development in the bear’s favor.</p>
+      <p>However, its Exponential Moving Average (EMA) Ribbon displayed a slight bullish crossover. The MACD supported EMA readings.</p>
+      <p>However, the entry of selling forces in the near term can’t be ruled out. </p>
+    </div>
+  },
+  {
+    id: 214,
+    title: 'Ethereum holders might be elated to know this about exchange balance',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'exchange', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>The beginning of the year ushered in a whirlwind of events that significantly influenced the crypto industry, with Ethereum being (ETH) no exception.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-220.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Ethereum exchange balance hit a five-year low as more holders moved their assets to self-custody options and DeFi platforms.</li>
+        <li>The decline in exchange balance can be attributed to factors such as the rise of DeFi, the switch to PoS, and the downturn in the crypto market.</li>
+      </ul>
+      <p>The beginning of the year ushered in a whirlwind of events that significantly influenced the crypto industry, with Ethereum being (ETH) no exception.</p>
+	    <p>The current state of affairs, including the SEC’s regulatory crackdown and potential bank runs, has undoubtedly left ETH holders feeling disillusioned. However, other factors might be responsible for the dwindling ETH exchange balance.</p>
+      <h3>Ethereum exchange balance declines</h3>
+	    <p>In 2022, the FTX crash sent shockwaves through the crypto world, causing many holders to question the safety of keeping their assets on exchanges.</p>
+	    <p>The incident sparked a renewed interest in self-custody to secure crypto holdings. However, while Ethereum experienced a decrease in exchange balances in the months following the crash, this trend can be attributed to other factors beyond fear of exchange insecurity.</p>	
+	    <h3>Ethereum exchange netflow flashes negative</h3>
+      <p>According to a recent Glassnode chart from Glassnode alerts, the balance of Ethereum held on exchanges has been steadily decreasing.</p>	
+	    <p>As of this writing, the exchange balance had reached a five-year low, hovering just above $18 million. This trend indicates that more ETH holders are opting for alternative storage methods rather than leaving their assets on exchanges.</p>
+      <p>In addition, a closer examination of Ethereum’s exchange netflow reveals that the outflow of ETH from exchanges has exceeded the inflow, with few exceptions of inflow spikes.</p>
+      <p>Currently, the netflow of ETH on exchanges remains negative, with outflow continuing to dominate. At the time of writing, the netflow had surpassed 11,000 ETH already, highlighting the ongoing trend of ETH holders moving their assets away from exchanges.</p>
+      <h3>Possible reasons for declining exchange balance</h3>
+      <p>One possible factor is the rise of decentralized finance (DeFi) platforms built on the Ethereum network. Many holders have moved their funds from centralized exchanges to DeFi protocols to earn higher yields.</p>
+      <p>The yields come through liquidity provision, staking, or other forms of participation in decentralized finance. Also, ETH stakes account for 15% of the coins in circulation per staking rewards.</p>
+      <p>It is also possible that some holders took a more long-term investment approach by holding their assets in personal wallets. It is a means of storing value and avoiding short-term trading risks.</p>
+      <p>Also, the crypto market experienced a downturn in the latter half of 2022. The downturn may have led some holders to move their assets off exchanges and into personal wallets.</p>
+      <h3>Daily timeframe move and 365-day MVRV</h3>
+      <p>Despite experiencing a decent price run, Ethereum (ETH) had yet to regain the price zone it dropped back in May. As of this writing, it was trading at approximately $1,740 and had sustained losses for two consecutive days. However, ETH had maintained a support level of around $1,732 and $1,630, previously resistance levels. </p>
+      <p>The 365-day Market Value to Realized Value ratio (MVRV) revealed that for most of the period being analyzed, ETH was trading below zero.</p>
+      <p>However, as of this writing, the MVRV had surpassed the zero line and currently sat at 13.60%. This indicated that, on average, the holders of ETH were now profitable, given the price at which they acquired their coins.</p>
+    </div>
+  },
+  {
+    id: 213,
+    title: 'Bitcoin [BTC] bears gain edge against the bulls- Is it right time to short',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'BTC', 'bulls'],
+    description: <div className="blog-desc">
+      <p>In the last few days, we have seen Bitcoin [BTC] struggle to sustain its upside. Now the market is showing some bullish weakness and the bears are trying to take advantage. The next few days might bring forth a significant pullback and here’s why.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-219.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Bitcoin experienced a net outflow in the last three days; short positions may not be a good idea.</li>
+        <li>Bitcoin whales demonstrate mixed reactions that explain the current stalemate.</li>
+      </ul>
+      <p>In the last few days, we have seen Bitcoin [BTC] struggle to sustain its upside. Now the market is showing some bullish weakness and the bears are trying to take advantage. The next few days might bring forth a significant pullback and here’s why.</p>
+      <p>Recent data suggests that Bitcoin’s failure to continue rallying past the $28,300 resistance level yielded a loss of confidence among investors. The situation was further exasperated by miner outflows which are currently at a monthly high according to the latest glassnode data.</p>
+      <p>Bitcoin miner outflows are often considered a confidence indicator. This is because miners often hold on to their BTC when there are bullish expectations and sell when there are bearish expectations.</p>
+      <p>It is thus not surprising that they are offloading some BTC, right after Bitcoin struggled to push beyond its current resistance level.</p>
+      <h3>Will Bitcoin outflows lend favor to the bears?</h3>
+    	<p>The Bitcoin miner observations also align with BTC’s -$119 million net flows in the last 24 hours according to glassnode alerts. This is slightly lower than the -$190.5 million net flow on 24 March and even lower than the -$342 million net flow on 23 March.</p>
+    	<p>It is important to note that the net flows confirm that sell pressure has also been slowing down. In other words, Bitcoin might not necessarily be in for a strong bearish pullback this week contrary to expectations. This will, however, depend on the possibility of market events that may swiftly change the outcome.</p>	
+    	<p>The lower net flows may explain why short sellers may not necessarily be keen on executing leveraged positions. Bitcoin’s estimated leverage ratio is currently down to its lowest level since the start of 2023. Meanwhile, funding rates have leveled out for the most part.</p>	
+    	<p>The lack of confidence among short sellers and leverage traders reflects mixed observations with Bitcoin’s supply distribution. For example, addresses holding between 10,000 and 100,000 BTC have been buying in the last three days, hence providing a cushion for the price. The same whale category currently controls 12.13% of the circulating supply.</p>
+      <p>On the other hand, addresses holding between 1,000 and 10,000 BTC have been selling in the last three days. The same addresses currently control 23% of the total BTC supply, hence their impact is more pronounced.</p>
+    </div>
+  },
+  {
+    id: 212,
+    title: 'Polkadot [DOT]: Pall of uncertainty over price despite surging metrics',
+    category: 'Crypto',
+    subCategory: ['Polkadot', 'Price', 'Uncertainty'],
+    description: <div className="blog-desc">
+      <p>Layer 0 blockchain Polkadot [DOT] has emerged as the leading blockchain network in terms of development activity in the last 30 days, new data from Santiment revealed. </p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-218.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Polkadot was the blockchain network with the highest development activity in the last 30 days.</li>
+        <li>DOT traded within a narrow range in the last week as investors remain unsure of the coin’s next direction.</li>
+      </ul>
+      <p>Layer 0 blockchain Polkadot [DOT] has emerged as the leading blockchain network in terms of development activity in the last 30 days, new data from Santiment revealed. </p>
+      <p>According to the on-chain data provider, Polkadot GitHub commits during the period under review totaled 591.47, tying with Kusama. The Ethereum [ETH] network, on the other hand, logged a development activity count of 387.67, putting it four places behind Polkadot.</p>
+      <p>Development activity is an important metric as it offers insights into a crypto project’s commitment to creating a working product and the likelihood of shipping new features. In addition, a high development activity often reduces the possibility of the project being an exit scam.</p>
+      <h3>DOT wading through troubled waters</h3>
+	    <p>Despite sharing a statistically significant positive correlation with Bitcoin [BTC], whose value jumped by 13% in the last 30 days, DOT’s value decreased by 17% during the same period. </p>
+	    <p>The drop in DOT’s value occurred despite the optimistic sentiment that lingered in the cryptocurrency market and investors’ increased accumulation in the face of uncertain macro factors. </p>	
+	    <p>According to data from CoinMarketCap, the altcoin exchanged hands at $6.04 at press time.</p>	
+      <p>The decline in value is partly attributable to the fall in the token’s Open Interests since 17 February. According to Coinglass, DOT’s Open Interest has since fallen by 25%.</p>
+      <p>When a crypto asset’s Open Interest falls, it indicates reduced trading activity, as investors may be closing their positions or taking profits. </p>
+      <h3>Up or down, who knows?</h3>
+	    <p>An assessment of DOT’s movement on a daily chart revealed severe price volatility in the first 19 days of March. However, in the last week, investors appeared to have stayed their hands as many remain unsure of the coin’s next direction. </p>
+      <p>Since 20 March, DOT’s price was at the middle line of the Bollinger Bands indicator, and remained so at press time. When the asset’s price is on the middle line of the Bollinger Bands, it indicates that the asset’s price is in a neutral position, and there is no clear trend in either direction. It is generally considered a “wait-and-see” situation for traders and investors until there is a clearer signal of where the asset’s price is heading.</p>
+      <p>While DOT’s price oscillated within a narrow range in the last week, its Relative Strength Index (RSI) has dipped, while its Money Flow Index (MFI) embarked on an uptrend. This suggested that some buying activity was underway despite the decline in RSI.</p>
+      <p>However, the neutral price action indicates that the market remains uncertain about the asset’s direction.</p>
+    </div>
+  },
+  {
+    id: 211,
+    title: 'Shiba Inu: This new update might end FUD surrounding Shibarium',
+    category: 'Crypto',
+    subCategory: ['Shiba inu', 'Shibarium', 'FUD'],
+    description: <div className="blog-desc">
+      <p>The FUD which gripped the Shiba Inu [SHIB] ecosystem since the testnet launch of layer-2 blockchain Shibarium, could soon be a thing of the past.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-217.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>The chain ID of the Shibarium testnet was a source of significant FUD.</li>
+        <li>Daily transactions on the test network zoomed to 718 on 24 March.</li>
+      </ul>
+      <p>The FUD which gripped the Shiba Inu [SHIB] ecosystem since the testnet launch of layer-2 blockchain Shibarium, could soon be a thing of the past.</p>
+	    <p>According to the latest update provided by a SHIB influencer, the chain ID of the Shibarium testnet, also called ‘Puppynet’, has been changed. As per a screenshot posted in the same thread, the new chain ID was 719.</p>
+      <h3>Basis of the FUD</h3>
+	    <p>The chain ID of the Shibarium testnet became a bone of contention as soon as it was launched. A Shiba Inu discord channel member pointed out that Shibarium’s chain ID shared the same ID as the Rinia testnet blockchain.</p>
+	    <p>The member insinuated that Shibarium might have copied the genesis file from the Rinia testnet and changed their name to Shibarium without changing the chain ID.</p>	
+	    <p>While Shibarium developers termed this as a coincidence, the revelation caused much furor in the SHIB community and the price of SHIB fell by more than 8%.</p>	
+	    <p>However, after the announcement of a new chain ID, the FUD might subside. And there were strong positive signs coming from Puppyscan, the Puppynet explorer. The daily transactions on the network zoomed to 718 on 24 March, after staying lulled for the last few days.</p>
+      <p>Furthermore, the Shibarium team was also working on the faucet update. Faucets are used to obtain the test cryptocurrency needed to interact with the testnet blockchain. The Shibarium faucet will utilize a BONE token in order to allow users and developers to perform tests on the network.</p>
+      <h3>Whales are back in business?</h3>
+      <p>Meanwhile, SHIB exchanged hands at $0.00001055 at the time of writing, falling by 1.21% over the previous day, per CoinMarketCap.</p>
+      <p>With clarity on chain ID in place, big addresses were attracted to SHIB. As per Santiment, the supply held by large addresses as a percentage of the total supply increased over the last two days.</p>
+      <p>This could be due to whales amassing SHIB in large quantities as the number of transactions transferring more than $1 million rose.</p>
+      <p>However, despite the increase in transaction numbers, data from Shibburn revealed that the burn rate declined by over 92% in the last 24 hours, with a little over 1.34 million tokens removed from circulation.</p>
+    </div>
+  },
+  {
+    id: 210,
+    title: 'Solana: Assessing the state of NFT prices and trading volume',
+    category: 'Crypto',
+    subCategory: ['Solana', 'NFT', 'Prices'],
+    description: <div className="blog-desc">
+      <p>Despite the re-emergence of interest in profile picture NFTs  (PFPs) since the beginning of the year, Solana [SOL] has witnessed a steady decline in NFT activity. </p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-215.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Solana has seen a drop in NFT activity since the year started.</li>
+        <li>SOL’s value has grown tremendously in the last three months.</li>
+      </ul>
+      <p>Despite the re-emergence of interest in profile picture NFTs  (PFPs) since the beginning of the year, Solana [SOL] has witnessed a steady decline in NFT activity. </p>
+      <p>According to data from Dune Analytics, the network has seen a steep decline in its count of monthly NFT trades completed since September 2022. With 349,937 NFT trades completed on Solana this month, there has been a 63% drop from the 944,010 total NFT trades completed in January. </p>
+      <p>As a result of a consistent fall in NFT trade count on Solana since the year started, the network has also experienced a drop in sales volume. With a sales volume of $35.35 million recorded so far this month, Solana has witnessed a 64% decrease from the $99.37 million registered as total NFT sales volume in January. In the last month alone, this fell by 22%. </p>
+      <h3>Solana marketplaces are the biggest losers</h3>
+      <p>Due to a decline in NFT activity on Solana, the NFT marketplaces native to the chain have faced a persistent fall in sales volume, buyer and seller count, and revenue. </p>
+      <p>Formfunction, a Solana-based NFT marketplace, recently announced its decision to stop operating after only 13 months of operation due to a decline in Solana NFT prices and trading volumes. </p>
+      <p>Also, leading NFT marketplace Magic Eden has seen a drop in NFT activity and a decline in its market share. For example, the weekly count of NFT transactions completed on Magic Eden has dropped by 75% since the first week of the year. </p>
+      <p>Likewise, the number of active traders using the marketplace has also trended downward since the year started. Per data from Dune Analytics, this has since fallen by 31%.</p>
+      <h3>SOL amid all this</h3>
+    	<p>Thanks to the rally in the general cryptocurrency market since the year began, SOL’s value has surged by 105% on a year-to-date basis. At press time, the altcoin exchanged hands at $20.54 per SOL, data from CoinMarketCap revealed. </p>
+	    <p>With increased coin accumulation in the last week, SOL buyers were spotted in control of the market on a daily chart at press time.</p>	
+	    <p>The Directional Movement Index (DMI) indicator put the buyers’ strength (green) at 19.85, above the sellers’ (red) at 16.69.</p>	
+	    <p>Likewise, SOL’s Money Flow Index (MFI) rested above the neutral 50 line at 64.57, indicating growing buying momentum. </p>
+    </div>
+  },
+  {
+    id: 209,
+    title: 'Tron sees expansion, but this impending danger can’t be ignored',
+    category: 'Crypto',
+    subCategory: ['Tron', 'expansion', 'crypto'],
+    description: <div className="blog-desc">
+      <p>The TRON [TRX] ecosystem shared a report on the network’s notable developments that took place over the week that went by.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-214.jpg',
+    content: <div className="blog-content">
+      <u>
+        <li>The total stablecoin market cap of Tron grew by 5% over the last week.</li>
+        <li>The TVL on the network dropped 3% since the SEC launched a probe against the TRON foundation.</li>
+      </u>
+      <p>The TRON [TRX] ecosystem shared a report on the network’s notable developments that took place over the week that went by.</p>
+	    <p>One of the major takeaways was the network’s increasing dominance in the stablecoin sector.  Tether [USDT], the largest stablecoin by market cap, saw its circulating supply on Tron reach a record high. At press time, it was over 44 billion, as per Tronscan.</p>
+	    <p>Additional data from DeFiLlama revealed that the total stablecoin market cap on the network grew by 5% over the last week to $43.57 billion.</p>
+      <p>This was in stark contrast to the chain with the highest stablecoin market cap, Ethereum [ETH], which registered a weekly drop of 2.3%.</p>
+      <h3>Network expands thanks to stablecoins</h3>
+      <p>Tron became a go-to platform for stablecoins ever since the USD Coin [USDC] depegging episode which rattled the broader crypto market. In fact, a day after the fateful event, the stablecoin inflows into the network reached a three-month high of $1.17 billion.</p>
+      <p>The remarkable growth prompted Tron founder, Justin Sun, to announce an ambitious plan of growing the stablecoin market cap to $60 billion.</p>
+      <p>It became evident that stablecoin-dominated trading powered the whole network. Since the stablecoin turmoil, the revenue generated on the chain surged 70% until 24 March while the daily user base expanded by 21%.</p>
+      <p>The growth in revenue propelled Tron as the second-best performing chain over the last week.</p>
+      <h3>Next challenge for TRX</h3>
+      <p>On the flip side, the total funds deposited on the network’s smart contracts fell significantly, sparking liquidity concerns. Since March 2022, the total value locked (TVL) dropped 3% until press time, as per DeFiLlama.</p>
+      <p>Notably, this happened after the United States Securities and Exchanges Commission (SEC) initiated a probe against the Tron foundation and Justin Sun over charges of unregistered sale of TRX and BTT which the regulator termed as securities.</p>
+      <p>Following this, TRX’s price tumbled 13%. However, the coin recovered to its press time value of $0.06375, per data from CoinMarketCap.</p>
+      <p>Meanwhile, according to Tronscan, more than 18 million TRX tokens were moved out of circulation in the last 24 hours. Adjusted against newly minted tokens, there was a net decrease in the circulating supply of TRX  by 13.4 million.</p>
+    </div>
+  },
+  {
+    id: 208,
+    title: 'Cosmos heading to crucial $10.58 – shorting opportunity limited?',
+    category: 'Crypto',
+    subCategory: ['Cosmos', 'crypto',],
+    description: <div className="blog-desc">
+      <p>Cosmos [ATOM] has depreciated by over 15%, clearing gains from the recovery in mid-March. ATOM dropped from $13.5 and was operating at the $11 price level at the time of writing. A retest of a crucial support level could offer new buying opportunities at discounted prices.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-212.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>ATOM was bearish on the 12-hour chart.</li>
+        <li>Funding rates declined, but development activity improved slightly.</li>
+      </ul>
+      <p>Cosmos [ATOM] has depreciated by over 15%, clearing gains from the recovery in mid-March. ATOM dropped from $13.5 and was operating at the $11 price level at the time of writing. A retest of a crucial support level could offer new buying opportunities at discounted prices.</p>
+	    <p>At press time, Bitcoin’s [BTC] value was below $28K and could further exert selling pressure on ATOM to retest this key support level.</p>
+      <h3>The $10.58 support – Can ATOM bulls prevail?</h3>
+      <img src="https://ncx.cx/images/ncx-blog-212-01jpg.png" alt="ncx-blogs"/>
+      <p>After facing price rejection at $15.5 in January, ATOM has weathered selling pressure that has seen it drop to $10.58. Bulls successfully recovered from the $10.58, but the second leg of the rally was interrupted by the obstacle at $13.5.</p>	
+	    <p>ATOM’s retracement could set it to retest the $10.58 support, and a rebound could be likely if the bulls defend it. A pullback retest on the support could offer long positions targeting 50 EMA, 200 EMA, or $13.5.</p>	
+	    <p>A close above $13.5 could usher ATOM into the second leg of the rally with a target of $15.5 if the bulls clear the $14.77 hurdle.</p>
+      <p>On the other hand, ATOM could depreciate further to $9.57 if bulls fail to defend the $10.58 support. As such, the downswing could offer short-sellers extra shorting opportunities at $9.57 if ATOM closes below $10.58.</p>
+      <p>The Relative Strength Index (RSI) retreated from the upper ranges and fluctuated below the 50 mark, showing buying pressure declined. Similarly, the Average Directional Index (ADX) dropped, suggesting a likely further retracement or consolidation.</p>
+      <h3>Funding rate was negative: development activity improved</h3>
+      <img src="https://ncx.cx/images/ncx-blog-212-02.png" alt="ncx-blogs"/>
+      <p>According to Santiment, funding rates flashed red at press time – an indication of bearish sentiment in the derivatives market. Moreover, the weighted sentiment had dropped significantly but remained positive, which could give bulls little hope.</p>
+      <p>Development activity has declined since mid-March but showed signs of improvement at press time. The trend could bolster investors’ confidence and prop up ATOM’s value in the long run. Investors should track BTC’s performance to make better moves.</p>
+    </div>
+  },
+  {
+    id: 221,
+    title: 'Cardano [ADA] hits a price ceiling of $0.388 – Are more gains unlikely?',
+    category: 'Crypto',
+    subCategory: ['Cardano', 'ADA', 'Prices'],
+    description: <div className="blog-desc">
+      <p>Cardano’s [ADA] recovery continues to face challenges but has clawed back some of the gains lost after retracement from mid-February. At press time, ADA hit a price ceiling of $0.3876, and bears seemed determined to sink to key support at $0.3578.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-227.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Price action faced an obstacle at $0.3876.</li>
+        <li>Aggregated CVD (cumulative volume delta) showed sellers had leverage. </li>
+      </ul>
+      <p>Cardano’s [ADA] recovery continues to face challenges but has clawed back some of the gains lost after retracement from mid-February. At press time, ADA hit a price ceiling of $0.3876, and bears seemed determined to sink to key support at $0.3578.</p>
+      <p>So far, the $0.3578 has prevented a dip plunge twice, giving a reprieve to bulls. The support could be steady if BTC maintains a hold on $28K. However, bulls’ efforts could be complicated if BTC drops below $28K.</p>
+	    <h3>Will the $0.3578 support hold?</h3>
+	    <p>The retracement from mid-February saw ADA depreciate by 28%, dropping to $0.30. But the low price saw increased demand, tipping bulls for a recovery. Price action oscillated between $0.3236 – $0.3578 before breaking above the range after BTC zoomed to the $28K area.</p>
+	    <p>Bears could sink ADA to retest the $0.3578 support. But a close below the support could attract a more aggressive price dump that could push ADA towards the lower support at $0.3236, especially if BTC drops below $28K.</p>	
+	    <p>But bulls could gain leverage if ADA closes above the price range upper level of $0.3876. Such an upswing could push the price toward $0.4056 or the overhead resistance level of $0.4201.</p>	
+	    <p>The Relative Strength Index (RSI) faced rejection below the 60-mark and moved sideways after retreating from the oversold zone. It shows buying pressure eased. The Chaikin Money Flow (CMF) moved south, showing bears had more influence in the market.</p>
+      <h3>CVD slope turned negative</h3>
+      <p>According to Coinalyze, the aggregated CVD (Cumulative Volume Delta) slope turned negative and moved downwards, indicating that sellers were more dominant in the market at press time. Therefore a retest of the $0.3578 was highly likely, and a breach below could occur if BTC falls below $28K.</p>
+      <p>However, more short positions ($445K) have been liquidated in the past 24 hours compared to long positions ($345K). It shows an underlying bullish sentiment which could offer bulls hopes of a possible rebound at $0.3578. But investors should track BTC’s price movements for more profitable moves.</p>
+    </div>
+  },
+  {
+    id: 220,
+    title: 'Tether releases Q1 USDT profit estimate amid growing FUD',
+    category: 'Crypto',
+    subCategory: ['Tether', 'USDT', 'FUD'],
+    description: <div className="blog-desc">
+      <p>Tether has expressed optimism about its profits in Q1, especially now that March is approaching its conclusion. The demand for USDT surged in during the quarterly period for numerous reasons but the road ahead might have some bumps.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-226.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Tether expects its Q1 earnings at roughly $700 million.</li>
+        <li>The SEC launches an assault on stablecoins and USDT might be caught in the crosshairs.</li>
+      </ul>
+      <p>Tether has expressed optimism about its profits in Q1, especially now that March is approaching its conclusion. The demand for USDT surged in during the quarterly period for numerous reasons but the road ahead might have some bumps.</p>
+      <p>According to the latest reports, Tether expects more than $1 billion in total revenue from USDT in Q1. It also anticipates a $700 million profit for the quarter.</p>
+	    <p>The first three months of March have so far been quite eventful for USDT and the rest of the stablecoin segment following USDC’s depegging.</p>
+	    <p>USDT saw a large influx of volumes especially as many people migrated from USDC. This new volume added to Tether’s transaction revenue generated from USDT transactions.</p>	
+	    <p>Tether also increased USDT supply in Q1 and continues to increase it further, according to recent data. There was roughly $77.6.14 billion worth of the stablecoin in circulation on Thursday according to the latest Glassnode data.</p>	
+	    <p>But can this surge in circulating supply match the prevailing stablecoin demand? A comparison between active addresses and transfer volumes may provide some interesting insights.</p>
+      <p>Active addresses peaked in mid-February, during which there was a surge in daily transfer volume. This is likely because of the outflows as the market saw ample demand.</p>
+      <p>Interestingly, the USDT transfer volume had its highest peak on 11 March. This was mainly because of the aforementioned inflows due to USDC migration.</p>
+      <p>However, transfer volume dropped since then due to outflows as demand for cryptocurrencies surged.</p>
+      <h3>U.S. regulator finds inroad to criticize stablecoins</h3>
+      <p>USDT’s growing circulation might be in preparation for more demand but it has not been without concerns.</p>
+      <p>Many crypto proponents have expressed concerns regarding Tether’s ability to provide a proper guarantee of reserves. The SEC recently took advantage of those concerns to launch criticism against Tether and USDT.</p>
+      <p>In fact, the SEC described proof of reserves as meaningless in a recent statement to investors. The latter constitutes the latest of the market’s concerns.</p>
+      <p>Regulators have been increasingly pushing back against cryptocurrencies and stablecoins. However, some view this as a good sign that regulators are concerned about the crypto market appearing as a threat to the traditional finance system.</p>
+      <p>Regardless of the current market views, there are still concerns about potential bank runs that may trigger the loss of stablecoin pegs in the future.</p>
+    </div>
+  },
+  {
+    id: 219,
+    title: 'Polygon [MATIC] sees uptick in these metrics, what does the future hold',
+    category: 'Crypto',
+    subCategory: ['Poloygon', 'MATIC', 'metrics'],
+    description: <div className="blog-desc">
+      <p>Polygon [MATIC] witnessed a massive surge in transactions as the metric crossed $40 million in value on 24 March. MATIC was the only top-10 crypto that registered these numbers. Apart from Polygon, Fetch [FET], and The Sandbox [SAND] registered similar growth. </p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-225.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>MATIC transaction surged considerably, and accumulation also increased. </li>
+        <li>NFT space witnessed decline and market indicators were bearish. </li>
+      </ul>
+      <p>Polygon [MATIC] witnessed a massive surge in transactions as the metric crossed $40 million in value on 24 March. MATIC was the only top-10 crypto that registered these numbers. Apart from Polygon, Fetch [FET], and The Sandbox [SAND] registered similar growth. </p>
+      <p>It was also interesting to note that MATIC accumulation by whales was on a rise. Santiment’s chart revealed that MATIC’s supply held by top addresses went up over the last week, reflecting the investors’ confidence in the token. </p>
+      <h3>Polygon gains in popularity</h3>
+	    <p>Not only did whales accumulate more MATIC, growth was also noted on other fronts. For instance, Dune’s chart indicated that MATIC’s unique users were on an increasing trend, indicating more usage and adoption of the network.</p>
+	    <p>Though there were several reasons for this growth, one of them can be attributed to the recent partnership of MATIC with Immutable, a leading Web3 gaming platform.</p>	
+	    <h3>A quick overview of Polygon’s NFT space</h3>
+      <p>While the number of unique addresses was rising, a decline was registered in NFT sales. According to CRYPTOSLAM’s chart, MATIC’s NFT sales volume declined by over 38% in the last seven days. Not only that, but after spiking during late February 2023, MATIC weekly volume on Polygon marketplaces declined sharply.</p>	
+	    <p>Despite the decline in the NFT ecosystem, Polygon Daily, a popular Twitter handle that posts updates about the network’s development, tweeted about the most traded NFT collection on OpenSea. As per the tweet, CollectTrumpCards once again topped the list, followed by The Sandbox and Lens Protocol.</p>
+      <h3>Other metrics looked decent</h3>
+      <p>Things were looking pretty good for MATIC in terms of its on-chain performance. For instance, MATIC’s exchange reserve decreased, suggesting less selling pressure. The token’s supply outside of exchanges also increased, which is a typical bull signal.</p>
+      <p>Thanks to the massive surge in transactions, MATIC’s network growth remained high last week, indicating that more new addresses were used to transfer MATIC. Additionally, more tokens were transferred among multiple addresses, which was evident from looking at MATIC’s spiking velocity on 21 March.</p>
+      <h3>A bear takeover?</h3>
+      <p>Though the metrics were fine, MATIC’s price action turned bearish lately. As per CoinMarketCap, the token’s price declined by over 1.8% in the last 24 hours. At the time of writing, it was trading at $1.11 with a market capitalization of more than $9.6 billion. Polygon’s daily chart also gave a bearish notion and suggested a further price decline.</p>
+      <p>The MACD displayed the possibility of a bearish crossover. MATIC’s Relative Strength Index (RSI) registered a slight decline, which was bearish. The Bollinger Band’s findings indicated that MATIC’s price was in a less volatile zone, further decreasing the chances of a northbound breakout in the near term.</p>
+      <p>However, the token’s Money Flow Index (MFI) remained bullish, as it was moving above the neutral mark. Combining that with the upcoming zkEVM launch, the possibility of a trend reversal can’t be ruled out.</p>
+    </div>
+  },
+  {
+    id: 218,
+    title: 'Aptos [APT] diversifies into NFTs and music: How did its price react',
+    category: 'Crypto',
+    subCategory: ['Aptos', 'NFTs', 'Music'],
+    description: <div className="blog-desc">
+      <p>The Aptos [APT] network is tapping into the latest hype around its platform to pursue more growth opportunities. Two of its latest announcements reveal that the network is eyeing growth opportunities in the music industry as well as pushing deeper into the NFT market.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-224.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Aptos revealed its next growth plan involving NFTs and the music industry.</li>
+        <li>APT struggled to maintain bullish momentum as sell pressure slowly trickled back.</li>
+      </ul>
+      <p>The Aptos [APT] network is tapping into the latest hype around its platform to pursue more growth opportunities. Two of its latest announcements reveal that the network is eyeing growth opportunities in the music industry as well as pushing deeper into the NFT market.</p>
+	    <p>Aptos recently affirmed its plans to play an active role in the music industry and potentially even revolutionize it. The network aims to achieve this by bringing WEB3 benefits to the music industry through KYD apps.</p>
+	    <p>Aptos is likely going to leverage its NFT capabilities as part of its plans for the music industry. The network also conveniently launched OrderDAO, its new community governance protocol for NFT projects. The protocol will make it easier for projects to make efficient decentralized decisions regarding their future.</p>
+	    <h3>Can these announcements breathe new life into APT?</h3>
+      <p>Aptos’ native cryptocurrency APT struggled to find directional performance this week after its rally last week. This suggests that the bulls ran out of momentum. Meanwhile, the bears have been pushing to take over. APT tanked by 6.8% to its $12.20 press time price.</p>	
+	    <p>There are other reasons for investors to expect sell pressure to prevail. For example, APT’s RSI attempted to push below the 50% level. The price also encountered resistance above the $13.7 price range and it has been struggling to rally above its 50-day moving average.</p>	
+	    <p>Numerous Aptos metrics show a higher potential for a pivot. For example, APT’s price volatility has been declining and is currently at a weekly low. In addition, the price experienced a sizable drop in volume between 23 – 24 March, confirmation that the bulls were losing strength.</p>
+      <p>APT’s weighted sentiment dropped slightly in the last 24 hours at press time, confirming that some investors were losing faith in the bulls. However, its press time level was notably higher than its weekly low on 20 March.</p>
+      <p>Aptos’ social dominance metric had its highest weekly spike in the last 24 hours. This was an important observation, as it may indicate that APT investors were aware of the bulls’ sluggishness.</p>
+      <p>They may thus act in accordance with the current observations, potentially contributing to more sell pressure. Of course, this will depend on the overall market direction, which may regain its upside unexpectedly.</p>
+    </div>
+  },
+  {
+    id: 217,
+    title: 'AAVE outperforms LDO as DeFi TVL reaches YTD high, more inside',
+    category: 'Crypto',
+    subCategory: ['AAVE', 'DeFi', 'LDO'],
+    description: <div className="blog-desc">
+      <p>The Total Value Locked of Aave [AAVE] gained as much as 8.69% in the week ended 25 March. The rise in unique smart contract deposits made the protocol the best-performing one as the overall TVL hit $5o.01 billion — a Year-To-Date (YTD) high. However, the TVL fell to $49.42 billion at press time</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-223.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Aave recorded the most asset deposits in its protocol.</li>
+        <li>Though Lido underperformed, its TVL hit 2023 highs.</li>
+      </ul>
+      <p>The Total Value Locked of Aave [AAVE] gained as much as 8.69% in the week ended 25 March. The rise in unique smart contract deposits made the protocol the best-performing one as the overall TVL hit $5o.01 billion — a Year-To-Date (YTD) high. However, the TVL fell to $49.42 billion at press time</p>
+	    <p>The TVL considers factors like the circulating supply, asset locked, as well as user interest in a protocol to measure the protocol’s health. So, Aave’s hike implied that many participants in the last seven days looked in the lending and borrowing direction.</p>
+      <h3>Aave takes the week and triumphs</h3>
+	    <p>Lido Finance [LDO] dominated the space for several weeks before Aave took over. Although the liquid staking protocol maintained its stay as the project with the highest TVL, it did not perform well enough to place second-fiddle to Aave. According to DeFi Llama, Lido’s performance over the week yielded a less than 1% hike.</p>	
+	    <p>However, this does not take away Lido’s position as the project which has accommodated the most staked Ether [stETH] ready to be unlocked on 12 April when the Ethereum’s [ETH] Shanghai upgrade takes place. </p>	
+	    <p>Aave, on the other hand, may not boast of such, but its rise in popularity could also be due to Ethereum’s impact. With a $4.82 billion lifetime contribution, Ethereum has helped Aave record a substantial number in fees and revenue.</p>
+      <p>Meanwhile, the non-custodial liquidity protocols have not experienced significant strides regarding developments. As of 23 March, development activity reached a yearly low of 3.792.</p>
+      <p>A detailed understanding of the metric points to feature upgrades, and public commitment by the project’s developers to improve products under the blockchain.</p>
+      <p>But at press time, there has been some recovery as the metric improved to 4.31. This implies that the developers’ activity contribution has been notably restored.</p>
+      <h3>NFT volume rises as…</h3>
+      <p>In addition to the TVL increase, NFT sales on the Aave network were also impressive over the week. According to Santiment, the digital collectibles volume reached $16.05 million on 20 March. Although it was reduced afterwards, most of the daily sales surpassed those of the previous week.</p>
+      <p>Furthermore, Aave’s activities during the week included playing its part in returning funds to those affected by the Platypus exploit. The exploit happened in February when a flashloan drained the Avalanche [AVAX]-based protocol of $9 million.</p>
+      <p>Although it threatened the project’s solvency, Aave’s governance was able to help out as the rightful owners got back their funds.</p>
+    </div>
+  },
+  {
+    id: 216,
+    title: 'U.S. loses web3 lead amidst regulatory pushback, emerging markets rise',
+    category: 'Crypto',
+    subCategory: ['US', 'web3', 'Market'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-222.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>The blockchain developer share in the U.S. fell from 40% in 2017 to 29% in 2022.</li>
+        <li>Emerging markets like India were capturing the share away from the U.S.</li>
+      </ul>
+      <p>As per an analysis by Developer Report, the U.S. ceded a considerable chunk of the blockchain development pie to emerging markets around the world.</p>
+      <p>The report highlighted that developer share in the U.S. fell from 40% in 2017 to 29% in 2022, corresponding to about 2% drop every year.</p>
+      <p>The ongoing crackdown by regulators on centralized exchanges and other crypto participants has left the U.S. crypto sector in a state of trepidation, threatening the market dominance that the country has enjoyed over the last few years.</p>
+      <h3>India, Ukraine show consistent web3 growth</h3>
+	    <p>The overall growth in development activity was encouraging, even as the crypto network value dropped to January 2018 levels, the report underlined. The number of developers jumped almost by four times during the same time period.</p>
+	    <p>U.S. was still the market leader at the time of writing, accounting for 29% of all blockchain developers. European nations also enjoyed a combined market share of 29% while Asia was home to 13% of all web3 developers.</p>	
+	    <p>But while U.S.’ share has declined over the years, emerging markets like India saw their developer share steadily increasing from 2% in 2017 to 6% in 2022. India’s growth trajectory showed more consistency as compared to other regions, the report stated.</p>	
+	    <p>India’s lucrativeness as a growing market for blockchain development was evidenced by the data showing how the country was eating into the share of the U.S.</p>
+      <p>Data from Europe also revealed an interesting development. While UK and Germany lead in developer share, both countries saw their dominance decline in the 2017-2022 period. Conversely, conflict-ridden Ukraine’s share increased from 4% to 6% since the war.</p>
+      <h3>Will it only get worse?</h3>
+      <p>Recently there were reports that Coinbase was contemplating setting up a trading platform outside the U.S. While Coinbase didn’t make any official statement, the report had weight owing to concerns of an enforcement action on the largest crypto exchange in the U.S.</p>
+      <p>Brad Garlinghouse, the CEO of Ripple Labs, said in an interview that the crypto industry has already moved overseas and the hawkish stances of the SEC may dent the prospects of U.S. as an inviting destination for blockchain development and cryptos.</p>
+    </div>
+  },
+  {
+    id: 268,
+    title: 'Nasdaq Bear Market: 5 Jaw-Dropping Growth Stocks Youll Regret Not Buying on the Dip',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Bear', 'Jaw-Dropping'],
+    description: <div className="blog-desc">
+      <p>The Nasdaq Composite losing a third of its value is the perfect excuse for opportunistic investors to pounce on high-quality growth stocks.</p>
+    </div>,
+    authorName: 'Sean Williams, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023 - 1:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-275.jpg',
+    content: <div className="blog-content">
+      <p>The Nasdaq Composite losing a third of its value is the perfect excuse for opportunistic investors to pounce on high-quality growth stocks.</p>
+      <p>As much as we'd like the stock market to move higher and never falter, it's important to recognize that corrections, crashes, and bear markets are a normal part of the long-term investing cycle. Last year, all three of the major U.S. stock indexes plunged into a bear market, with the tech-focused Nasdaq Composite (^IXIC) getting hit hardest -- a 33% decline when the finish line was crossed.</p>
+      <p>While bear markets can be unpleasant in the short run and tug on investors' heartstrings, they're also, historically, the ideal time for patient investors to pounce. Even though we can't consistently forecast when a bear market will begin, how long it'll last, or how steep the decline will be, we do know that all previous bear markets have eventually been cleared away by a bull market rally. In other words, bear market volatility is a red-carpet invitation for opportunistic investors.</p>
+      <p>With growth stocks taking it on the chin, they're a logical place for long-term investors to look for bargains. What follows are five jaw-dropping growth stocks you'll regret not buying on the Nasdaq bear market dip.</p>
+      <h3>CrowdStrike Holdings</h3>
+      <p>The first awe-inspiring growth stock that's ripe for the picking during the Nasdaq bear market decline is end-user cybersecurity company CrowdStrike Holdings (CRWD -2.23%). Though recessionary fears have weighed on CrowdStrike in the short run, it's well positioned with clear-cut competitive advantages over the long term.</p>
+      <p>On a macro basis, investors should be aware that cybersecurity solutions have evolved into basic necessity services. Hackers and robots don't take vacation days just because the U.S. economy hits a speed bump. Businesses of all sizes with an online and/or cloud-based presence are increasingly relying on third-party providers like CrowdStrike to protect their sensitive data.</p>
+      <p>The engine that powers CrowdStrike's incredible growth is Falcon, the company's cloud-native platform that's reliant on artificial intelligence (AI). Falcon is overseeing trillions of weekly events, which is helping it become smarter at recognizing and responding to potential threats over time. Despite CrowdStrike's services being costlier than its peers', the company's gross retention rate of 98% speaks volumes about Falcon's efficacy.</p>
+      <p>Although CrowdStrike hasn't had any trouble gaining new subscribers, the most intriguing aspect of its ascension is the add-on sales from existing clients. Six years ago, a single-digit percentage of its 450 clients had purchased four or more cloud-module subscriptions. Today, 62% of its more than 23,000 subs have purchased five or more cloud-module subscriptions. These add-on sales are the key reason CrowdStrike's subscription gross margin is near 80%.</p>
+      <h3>Fiverr International</h3>
+      <p>A second stellar growth stock you'll regret not adding to your portfolio is online-services marketplace Fiverr International (FVRR -0.38%). Despite near-term worries of a possible U.S. recession weakening the labor market, Fiverr has three key catalysts it brings to the table.</p>
+      <p>To start with, the labor market has been permanently shifted in the wake of the COVID-19 pandemic. While some people have returned to the office, more are choosing to work remotely than ever before. This means Fiverr's freelancer marketplace is perfectly positioned to take advantage of this structural change in the workforce.</p>
+      <p>Another reason Fiverr stands out is the way its freelancers market their work. Whereas pricing tasks on an hourly basis is commonplace at competing online-service marketplaces, Fiverr freelancers price their work as a package. The price transparency of Fiverr's platform is helping to push both spend per buyer and the aggregate number of buyers higher.</p>
+      <p>The third differentiating factor is Fiverr's take-rate -- i.e., the percentage of each deal negotiated on its platform that it gets to keep. Most competing freelancer marketplaces keep around 15% of the revenue tied to negotiated deals. Fiverr's take-rate continues to climb and hit 30.2% during the fourth quarter.  Fiverr isn't scaring away buyers or freelancers, and a 30%-plus take-rate shows it'll be substantially more profitable than its peers.</p>
+      <h3>Intuitive Surgical</h3>
+      <p>The third jaw-dropping growth stock you'll be kicking yourself for not buying on the Nasdaq bear market plunge is robotic-assisted surgical system developer Intuitive Surgical (ISRG 4.89%). Though COVID-19 has caused some optional surgical procedures to be pushed to a later date, Intuitive Surgical's dominance of the robotic-assisted surgical landscape, along with its operating model, sets this company up for long-term success.</p>
+      <p>As of the end of 2022, Intuitive Surgical had installed 7,544 of its da Vinci surgical systems in hospitals and surgical centers worldwide.  While this might sound like a pedestrian figure, it's far more than its competitors. For a two-decade stretch, da Vinci was one of the only soft-tissue assistive surgical systems available.</p>
+      <p>What's more, it takes a considerable amount of time to train surgeons to use da Vinci, and it's pricey to purchase these systems -- $500,000 to $2,500,000 per system. The tangible expense and opportunity cost associated with purchasing a da Vinci surgical system makes it highly unlikely that hospitals or surgical centers will switch to a competing device.</p>
+      <p>However, the real lure is Intuitive Surgical's razor-and-blades operating model. The company's da Vinci operating system may be pricey, but it's intricate to build and generates only mediocre margins. But once Intuitive has clients locked into its surgical system, it generates copious amounts of high-margin revenue by selling instruments with each procedure and servicing its systems. As time passes, these higher-margin sales channels are becoming a larger percentage of total revenue.</p>
+      <h3>Fastly</h3>
+      <p>A fourth marvelous growth stock you'll regret not scooping up during the Nasdaq bear market swoon is edge computing company Fastly (FSLY 0.56%). In spite of ongoing losses, new leadership appears to have Fastly on the fast track to sustained double-digit sales growth and eventual profits.</p>
+      <p>Fastly is best known for its work as a content-delivery network. It's tasked with getting data from the edge of the cloud to end users as quickly and securely as possible. Both the rise of the metaverse and the hybrid work environment in the wake of the pandemic are catalysts that can increase the amount of data traversing Fastly's network. Since this is a usage-based network, more data movement equates to more revenue for Fastly.</p>
+      <p>Although its growth rate has slowed a bit, the vast majority of Fastly's key performance metrics remain rock solid. Its total customer count has grown by 500 over a seven-quarter stretch (21 months, ended Dec. 31, 2022), with average enterprise customer spend (over the last 12 months) increasing by 11% to $782 over that same span. More importantly, Fastly's dollar-based net expansion rate (DBNER) is climbing, once again, and hit 123% during the fourth quarter. A DBNER of 123% implies that existing clients spent 23% more during the fourth quarter than they did in the comparable quarter last year.</p>
+      <p>Lastly, new CEO Todd Nightingale should inspire confidence in shareholders. Nightingale was hired to tighten the belt at money-losing Fastly, further innovation, and keep the customer count needle moving in the right direction.  Nightingale is, thus far, firing on all cylinders in his young tenure.</p>
+      <h3>Baidu</h3>
+      <p>The fifth jaw-dropping growth stock you'll regret not buying on the Nasdaq bear market dip is China's leading internet search provider Baidu (BIDU 3.55%). Though multiple headwinds have held Baidu back for the past three years, many of these hurdles have now been lifted.</p>
+      <p>For example, China's zero-COVID mitigation strategy resulted in unpredictable and stringent lockdowns that crippled supply chains for most sectors and industries. With China removing its stringent COVID-19 restrictions, the country's economy is free to thrive once again. Though it could take a few quarters for China's residents to build up immunity to COVID-19, moving beyond the zero-COVID strategy will benefit the country and Baidu.</p>
+      <p>What makes Baidu such a phenomenal stock to buy is its dominance of the Chinese internet search space. As of February, it accounted for approximately 56% of all search share in its home market. This makes it the go-to choice for advertisers wanting to target their message(s) and logically gives the company strong ad-pricing power.</p>
+	    <p>But don't overlook AI as a major future growth driver for Baidu. In addition to the company's recently released AI-powered chatbot, known as Ernie Bot, Baidu AI cloud services and AI-based intelligent driving solutions are delivering double-digit sales growth in the company's nonmarketing sales channel. </p>
+    	<p>With economic activity in China ramping back up, Baidu stock remains reasonably cheap at 13 times Wall Street's forward-year consensus earnings.</p>
+    </div>
+  }, 
+  {
+    id: 239,
+    title: 'Diesel Prices Drop. It’s an Economic Danger Sign.',
+    category: 'Commodities',
+    subCategory: ['Diesel', 'Prices', 'Economic'],
+    description: <div className="blog-desc">
+      <p>A big drop in demand for diesel fuel may be due to slowing economic growth in the U.S., especially in the heavy industry and construction sectors.</p>
+    </div>,
+    authorName: 'Myra P. Saefong',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023 - 12:55 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-246.jpg',
+    content: <div className="blog-content">
+      <p>A big drop in demand for diesel fuel may be due to slowing economic growth in the U.S., especially in the heavy industry and construction sectors.</p>
+	    <p>Diesel prices at the pump have fallen to their lowest in over a year. That’s good news for consumers, but the decline in prices for the fuel suggests a gloomy outlook when it comes to the U.S. economy.</p>
+	    <p>“Diesel fuel is ubiquitous in our economy,” says Brian Milne, product manager, editor, and analyst at DTN. It’s a “critical component in industrial production and…supply-chain dynamics.”</p>
+    </div>
+  },
+  {
+    id: 263,
+    title: 'US stocks close higher as markets assess fresh bank woes and recession fears',
+    category: 'Markets',
+    subCategory: ['US', 'Stocks', 'Bank'],
+    description: <div className="blog-desc">
+      <p>US stocks ended higher on Friday as investors rallied to end the day in the green, throwing off new banking fears out of Europe.</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023 - 12:18 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-270.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+      <ul>
+        <li>US stocks ended higher Friday, capping off a week of Fed moves and more bank fears.</li>
+        <li>The 2-year and 10-year Treasury yields both notched their lowest levels in six months.</li>
+        <li>Deutsche Bank stock plunged as a new round of bank jitters hit the market in the wake of SVB and CS failures.</li>
+      </ul>
+	    <p>US stocks ended higher on Friday as investors rallied to end the day in the green, throwing off new banking fears out of Europe.</p>
+	    <p>All three major indexes ended the day higher, capping off another tumultuous week for markets.</p>	
+	    <p>Deutsche Bank stock plunge and unsettled financial markets early in the day. The slide came as bets on the German lender defaulting on its debts soared, with the price of credit default swaps linked to its bonds posting their largest-ever single-day jump.</p>	
+	    <p>Yields on key Treasury bonds were down. The 2-year and 10-year Treasury yields tumbled to six-month lows as investors wager the Federal Reserve' interest rate hikes could soon be over, and the central bank could cut rates as the economy slows.</p>
+      <p>"Confidence is fragile, market volatility is likely to stay high, and policymakers may have to go further to make sure faith in the global financial system stays solid," Mark Haefele, chief investment officer at UBS Wealth Management. said in a note on Friday.</p>
+      <p>Haefele added: "Financial conditions are also likely to tighten, which increases the risk of a hard landing for the economy, even if central banks ease off on interest-rate hikes."</p>
+      <h3>Here's where US indexes stood shortly after the close at 4:00 p.m. on Friday:</h3>
+      <ul>
+        <li>S&P 500:3,970.99, up 0.56%</li>
+        <li>Dow Jones Industrial Average: 32,237.53, up 0.41% (132.28 points)</li>
+        <li>Nasdaq Composite: 11,823.96, up 0.31%</li>
+      </ul>
+      <h3>Here's what happened today:</h3>
+      <ul>
+        <li>A recession is nearly certain in 2023, according to Fed chair Jerome Powell's preferred bond gauge,</li>
+        <li>Moody's chief economist Mark Zandi says that the central bank is putting the US economy in jeopardy by not prioritizing the stability of the country's banking system.</li>
+        <li>Top metal traders say copper prices could jump 33% to as high as $12,000 per metric ton within the next year.</li>
+        <li>Deepwater's Gene Munster says a ban on social media app TikTok is coming and that could be bad news for some US stocks.</li>
+      </ul>
+      <h3>In commodities, bonds and crypto:</h3>
+      <ul>
+        <li>West Texas Intermediate crude oil fell 1% to $69.24 per barrel. Brent crude, oil's international benchmark, dropped 1.2% to $74.99.</li>
+        <li>Gold fell 0.7% to $1,980 per ounce.</li>
+        <li>The yield on the 10-year Treasury tumbled to 3.37%.</li>
+        <li>Bitcoin fell 2% to $27,836.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 238,
+    title: 'Big Oil Eyes New Deals in North Africa Amid Rising Energy Demand',
+    category: 'Commodities',
+    subCategory: ['Oil', 'energy', 'North Africa'],
+    description: <div className="blog-desc">
+      <p>Halliburton and Honeywell in advanced talks to develop oil fields and refineries in Libya; Eni importing more oil and gas from Algeria</p>
+    </div>,
+    authorName: 'Chao Deng',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 25, 2023 - 1:59 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-245.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Halliburton and Honeywell in advanced talks to develop oil fields and refineries in Libya; Eni importing more oil and gas from Algeria</p>
+	    <p>CAIRO—After years of underinvestment in North Africa’s energy infrastructure, global oil-and-gas giants from Halliburton Co. and Chevron Corp. to Eni SpA are ramping up their presence in the region as demand from Europe grows.</p>	
+	    <p>Executives in the industry are betting it is worth drilling again in some of the hardest places to do business in the world as Europe increasingly turns to other sources for its energy needs after shunning its main supplier, Russia, over the invasion of Ukraine. In recent months, a string of European officials have visited the region to help advance talks over potential supply deals.</p>	
+	    <p>Halliburton and Honeywell International Inc. are hammering out $1.4 billion worth of deals to develop an oil field and refinery with National Oil Corporation in Libya, which has the largest known oil reserves in Africa, according to the chairman of state-owned firm, Farhat Bengdara. Italy’s Eni is planning investments aimed at replacing nearly half of the gas it was importing from Russia with gas from Algeria.</p>
+      <p>Chevron is also looking to seal an energy exploration deal in Algeria, The Wall Street Journal reported last month. In January, the U.S. oil major announced a sizable natural-gas discovery in Egypt.</p>
+      <p>“North Africa has been slow to develop its potential because of political risks, either related to insecurity or bureaucracy,” said Geoff Porter, president of U.S.-based North Africa Risk Consulting Inc. But with Europe needing to replace Russian energy, “this is their moment,” he said.</p>
+      <p>Western oil executives say they see a more stable political climate in North Africa, especially in countries such as Libya where fighting between local militias has been subdued in the past two years following nearly a decade of civil war. Many American firms had pulled back from the region, viewing it as politically too risky, to focus on shale production at home. The region’s proximity to Europe and massive reserves, with Algeria holding the third-largest recoverable shale resources in the world, also make doing business there worth the risk, they say.</p>
+      <p>At the same time, state-owned firms in the North African region have been eager to strike deals, as they see an opportunity to fill a gap left by Russia and take advantage of higher global commodity prices. Some countries, such as Egypt, are eager to bring in additional revenue from selling energy, as their economies struggle with higher import costs including for food. The Ukraine war has disrupted shipments and pushed up global commodity prices.</p>
+      <p>“I think we can be a good replacement for Russian gas to Europe,” NOC’s Mr. Bengdara said.</p>
+      <p>The Libyan state-owned company is expected to soon sign a $1 billion agreement with Halliburton that will allow the U.S. firm to rebuild the al-Dhara oil field, according to Mr. Bengdara. The oil field in central Libya was destroyed by Islamic State militants in 2015 and is now run by ConocoPhillips and TotalEnergies SE, Mr. Bengdara said. It would be one of the biggest deals for the U.S. oil-services giant clinched in the Middle East and North Africa in recent years.</p>
+      <p>Halliburton and Total didn’t respond to requests for comment. ConocoPhillips declined to comment.</p>
+      <p>Libya’s NOC and Honeywell are set to unveil a contract related to the construction of a refinery in southern Libya, Mr. Bengdara and a spokesman for the American firm said. The initial deal, expected to be announced this weekend, is for the design of the plant, the spokesman said, which would be followed by a $400 million pact to build the entire plant.</p>
+      <p>Libya relies heavily on its oil resources for income, although it has struggled for years to turn its own crude into motor fuel, making it largely dependent on costly gasoline imports.</p>
+      <p>As of last year, the North African nation was divided politically again, with a United Nations-appointed prime minister, Abdul Hamid Dbeibeh, remaining in control of the capital Tripoli and a rival prime minister taking charge of the country’s east. The country is again pushing to hold presidential and legislative elections this year, after plans fell through in 2021.</p>
+      <p>Still, there have been no serious clashes since last summer and its eastern government in recent months has unlocked some of the budget needed by the state oil company to clinch deals with international companies.</p>
+      <p>Secretary of State Antony Blinken told a senate committee on Wednesday that the U.S. was actively working to reopen an embassy in Libya, in part so it could better support the prospect of Libyan elections. The U.S. shut its embassy in Tripoli in 2014 following violent clashes between militias.</p>
+      <p>The U.S. also pressured a top Libyan commander in mid-January to expel Russia’s paramilitary Wagner Group, the Journal reported last month, amid fears the unit may tap into the country’s oil riches. Khalifa Haftar, commander of a faction that controls eastern Libya, is aligned with the government in Tripoli.</p>
+      <p>“There is recognition in the U.S. that Libya is a workable environment,” said Mr. Porter, who advises U.S. oil companies in the region. He added that firms now see it as “an environment in which you can operate reasonably safely, where you can more predictably invest in ways that you could not have a few years ago.”</p>
+      <p>NOC exports most of its gas to Europe through a pipeline from Libya to Italy. Over the next three to five years, it aims to increase oil production to 2 million barrels a day, from around 1.2 million currently, and to produce 4 billion standard cubic feet of gas a day, up from roughly 2.6 billion.</p>
+      <p>In January, NOC and Eni, which produces the majority of the country’s gas, signed an $8 billion deal for the Italian energy giant to develop two gas fields to pump 850 million cubic feet a day for 25 years. Under the agreement, production of gas will start in 2025, ramping up to full capacity of 850 million cubic feet a day by 2026.</p>
+      <p>In Algeria, Eni is aiming to export an additional 3 billion cubic meters of gas annually, starting this year, to help make up for gas that used to flow from Russia. Algeria will become the firm’s top region for investment in the next four years.</p>
+      <p>“Algeria is a reliable partner of absolute strategic importance,” said Italian Prime Minister Giorgia Meloni during a visit to Algiers in January.</p>
+      <p>From Egypt, Eni aims to export three billion cubic meters of liquefied natural gas to Italy starting this year, after regas capacity was built up on the receiving end. That compares with roughly 1 billion cubic meters being exported last year.</p>
+      <p>Egypt’s ability to export gas is limited given the growing electricity demand of its more than 100 million population. It doesn’t have any pipelines to Europe. Still, the country has ambitions to become a hub for energy distribution in the Mediterranean, importing more gas from Israel and exporting liquefied gas on ships to Italy.</p>
+    </div>
+  },
+  {
+    id: 235,
+    title: 'Oil moves lower after U.S. signals no SPR replenishment',
+    category: 'Commodities',
+    subCategory: ['Oil', 'US', 'SPR'],
+    description: <div className="blog-desc">
+      <p>Yahoo Finance’s Ines Ferre joins the Live show to discuss the dip in oil prices after the U.S. signaled it will wait before refilling the Strategic Petroleum Reserve (SPR).</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 6:52 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-242.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>Yahoo Finance’s Ines Ferre joins the Live show to discuss the dip in oil prices after the U.S. signaled it will wait before refilling the Strategic Petroleum Reserve (SPR).</p>
+	    <p>JARED BLIKRE: Energy markets dipping on worries about an oversupply, especially after the US signaled it will wait before refilling its Strategic Petroleum Reserve. The SPR weakness there contributing to the overall gloom in the markets. Here with more is Yahoo Finance's Ines Ferre. Ines.</p>
+	    <p>INES FERRE: Yeah, Jared, and this lower oil prices, it's really having an impact on energy as a whole, energy stocks, equities as well. Let's take a look at our YFi Interactive board so we can see where the underlying commodity crude oil is right now. You're looking at WTI that is down more than 1 and 1/2%. You've got crude right now that is on pace for its biggest first quarter drop since 2020. That's when the pandemic hit, and you saw demand being wiped out. This week, we had a little bit of a rebound when it came to oil, but today, we are seeing losses, taking out a big chunk of the gains that we had seen this week.</p>	
+	    <p>Also, Brent crude down 1.8%. Remember that last week, you had oil that, on a weekly basis last week, lost almost 10% of its value. A lot of this has to do with a stronger dollar, which is impacting the price of oil because oil is invoiced in dollars. You've got the US now that is holding off on refilling its Strategic Petroleum Reserve, as you just mentioned, Jared. Also, you have Russian oil that is still coming into the market, despite the Western sanctions. And then you've got concerns about a US recession, and the banking concerns, the banking worries deepening worries of a recession. You've got institutions that are selling their oil futures.</p>	
+	    <p>Now, we have been seeing Wall Street sort of pulling back a little bit on their forecast when it comes to crude oil for the end of the year, but not as much as you would think. I mean, one of the commentaries that I saw out there is that this isn't necessarily like 2008, where oil touched a low of $39 a barrel. Analysts aren't seeing oil going that much lower. But nonetheless, we are seeing a selloff when it comes to oil recently.</p>
+      <p>And then just taking a look at other commodities, look, if you are a gold bug, you are happy this week because gold touched $2,000 an ounce. I've spoken to analysts saying, this is it for gold, guys. The gold is coming out-- is breaking out from here. We'll see, but certainly, one analyst telling me, 2024, that's going to be huge for gold. Guys.</p>
+    </div>
+  }, 
+  {
+    id: 240,
+    title: '15 Largest Oil Fields in the World',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Largest', ''],
+    description: <div className="blog-desc">
+      <p>In this article, we take a look at 15 largest oil fields in the world. If you want to see more largest oil fields in the world, go directly to 5 Largest Oil Fields in the World.</p>
+    </div>,
+    authorName: 'Insider Monkey Team',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 6:39 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-247.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>In this article, we take a look at 15 largest oil fields in the world. If you want to see more largest oil fields in the world, go directly to 5 Largest Oil Fields in the World.</p>
+	    <p>Oil fields are areas where there is substantial oil in multiple oil reservoirs that are trapped by impermeable rock above. In oil reservoirs, oil exists as tiny droplets inside open spaces called pores inside rocks. Given the pressure that exists deep beneath the surface, oil can squeeze through tiny pores of underground rock. Furthermore, given the earth's natural heat deep below ground in some fields, oil also wants to squeeze to the areas above.</p>	
+	    <p>The Department of Energy describes the process, "Oil in a reservoir acts something like the air in a balloon. The pressure comes from millions of tons of rock lying on the oil and from the earth’s natural heat that builds up in an oil reservoir and expands any gases that may be in the rock. The result is that when an oil well strikes an underground oil reservoir, the natural pressure is released—like the air escaping from a balloon. The pressure forces the oil through the rock and up the well to the surface."</p>	
+	    <p>Some oil fields are offshore while others are onshore. Many oil fields also produce natural gas, although the total mix of oil and gas can vary substantially from oil field to oil field. Depending on their location and geology, the cost to extract oil from oil fields can vary as well. For those of you interested, check out 15 Countries That Produce the Most Oil in the World.</p>
+      <p>Many of the world's largest oil fields are in the Middle East as several countries in the region have substantial reserves of oil. Many of the world's most economical to extract oil fields are also in the Middle East given the region's favorable geology.</p>
+      <p>Because they have operational expertise and capital, big oil companies like Exxon Mobil Corporation (NYSE:XOM) sometimes help nations develop some of their oil fields. In addition to extracting oil from oil fields, oil companies also have to transport the oil often through pipeline to export facilities or to refineries that do further processing.</p>
+      <p><strong>The World's Largest Oil Fields</strong></p>
+      <p>In terms of the world's largest oil fields, some of the largest oil fields have already produced a lot of oil like China's Daqing Field which began full scale production in 1963. Meanwhile others like Kazakhstan's Kashagan Field are relatively new.</p>
+      <p>Given their size and the importance of oil, some of the world's largest oil fields are also important to the global economy. The world's largest oil field, Saudi Arabia's Ghawar Field, for instance, produces around 4 million barrels of oil per day, accounting for well over 1/3 of Saudi Arabia's total production. Saudi Arabia is the largest exporter of oil in the world, with crude oil exports of 7.28 million barrels per day in November of 2022. For those of you interested, check out Top 20 Oil Exporting Countries in 2023.</p>
+      <p><strong>Crude Oil</strong></p>
+      <p>In terms of crude oil, the price of the commodity has fallen recently as economists worry of an economic slowdown as a result of the recent Silicon Valley Bank failure. If oil prices decline, companies like Exxon Mobil Corporation (NYSE:XOM) might not be as profitable as they could have been.</p>
+      <p>In the longer term, the world will need to reduce its dependence on crude oil as a transportation fuel to reduce carbon emissions. In the near and medium terms, however, the world is expected to continue to need crude oil for transportation and for many refined crude products.</p>
+      <p>In terms of oil prices, it isn't clear where they will go as many factors can influence the oil price.</p>
+      <p><strong>Methodology</strong></p>
+      <p>For our list of 15 Largest Oil Fields in the World, we used Stacker's Largest oil fields in the world list and data from Stacker. Given the company's calculations, it isn't clear whether the data is barrels of oil or barrels of oil equivalent, which could include natural gas.</p>
+      <p>Stacker includes cumulative past production in its oil field size data. Because some mega oil fields have already produced much of their oil, they don't have as much future production capability but nevertheless still rank on our list.</p>
+      <p>We ranked the oil fields based on the total reserves based on cumulative past and future production potential.</p>
+      <h3><strong>15 Largest Oil Fields in the World</strong></h3>
+      <h3>15. Marun Field</h3>
+      <p><strong>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 22 billion barrels</strong></p>
+      <p><strong>Country: Iran</strong></p>
+      <p>Iran was the eighth largest producer of oil in 2021 with production of 3.6 million barrels per day in the year. As the country's second largest producing oil field, Marun Field is one reason why. Discovered in 1963, the oil field produced around 1 million barrels per day at its peak in the 1970's and the field still produces around 600,000 barrels of oil per day according to a Bloomberg article in 2020.</p>
+      <h3>14. Samotlor Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 25 billion barrels</p>
+      <p><strong>Country: Russia</strong></p>
+      <p>Russia is an energy superpower with substantial oil and gas reserves. As far as oil fields go, Samotlor Field is the country's largest oil field with 25 billion barrels of cumulative past production and future production potential. Like Marun Field, Samotlor Field is an oil field that has already produced a lot of oil. At its peak, the field produced around 3 million barrels per day in the 1980's.</p>
+      <h3>13. Prudhoe Bay</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 25 billion barrels</p>
+      <p><strong>Country: United States</strong></p>
+      <p>Prudhoe Bay is America's largest oil field in terms of total oil reserves when including cumulative past oil production. The Alaskan oil field has been active for over four decades and still has over 800 active wells. Although production in Prudhoe Bay is declining and well below its peak in the 1980's, U.S. oil production has nevertheless increased over the years, ranking the country #1 in the world in terms of oil production in 2021 with 16.59 million barrels per day produced in 2021.</p>
+      <h3>12. Tengiz Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 26 billion barrels</p>
+      <p><strong>Country: Kazakhstan</strong></p>
+      <p>Kazakhstan's Tengiz Field ranks #12 on our list of 15 Largest Oil Fields in the World given its total oil reserves of 26 billion barrels based on past and future production. Tengiz Field is the country's highest oil producing field with official capacity of 600,000 barrels per day as of 2022. With a planned expansion, however, the oil field could have oil production capacity of 850,000 barrels per day by 2024.</p>
+      <h3>11. Kashagan Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 30 billion barrels</p>
+      <p><strong>Country: Kazakhstan</strong></p>
+      <p>Kashagan Field is another giant oil field in Kazakhstan with substantial oil reserves. According to estimates, the Kashagan Field could have 30 billion barrels of oil reserves when including cumulative past production, ranking it among the largest in the world. As a country, Kazakhstan had total oil production of around 1.6 million barrels per day in 2022 and S&P Global Platts Analytics expects Kazakhstan's oil output to reach 2 million barrels per day in 2024 and 2.6 million barrels per day by 2030.</p>
+      <h3>10. Aghajari Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 30.2 billion barrels</p>
+      <p><strong>Country: Iran</strong></p>
+      <p>Aghajari Field in Iran is one of the oldest big oil fields in the world given it was first discovered in 1938. Although it has total oil reserves based on cumulative past production and future production potential of 30.2 billion barrels, much of the oil in Aghajari Field has already been produced.</p>
+      <h3>9. Bolivar Coastal Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 32 billion barrels</p>
+      <p><strong>Country: Venezuela</strong></p>
+      <p>Venezuela's Bolivar Coastal Field is the country's largest oil field and also one of the oldest given it was discovered in 1917. According to Stacker, Bolivar Coastal Field has total oil reserves based on cumulative past production and future production potential of 32 billion barrels.</p>
+      <h3>8. Cantarell Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 35 billion barrels</p>
+      <p><strong>Country: Mexico</strong></p>
+      <p>Cantarell Field is comprised of four fields that was first discovered in 1972. Given the oil field has already produced a lot of oil, production in Cantarell Field is declining and the oil field was surpassed in 2009 as the biggest oil field in Mexico in terms of production.</p>
+      <h3>7. Safaniya Oil Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 37 billion barrels</p>
+      <p><strong>Country: Saudi Arabia</strong></p>
+      <p>Saudi Arabia's Safaniya Oil Field is one of the two largest offshore oil fields in the world along with UAE's Upper Zakum Oil Field. According to Reuters, Safaniya Oil Field had production capacity of over 1 million barrels per day in 2019 and mainly produces heavy oil. It ranks #7 on our list of 15 Largest Oil Fields in the World given its total oil reserves of 37 billion barrels when including cumulative past production.</p>
+      <h3>6. Daqing Field</h3>
+      <p>Total Oil Reserves Based on Cumulative Past Production and Future Production Potential: 42 billion barrels</p>
+      <p><strong>Country: China</strong></p>
+      <p>Daqing Field is China's largest oil field that still produces around a third of the country's total oil despite entering full scale production in 1963. Given its growing large economy and insufficient domestic oil production, China is the world's largest importer of oil and production from Daqing Field helps reduce imports. For those of you interested, check out Top 20 Oil Importing Countries in 2023.</p>
+    </div>
+  },
+  {
+    id: 269,
+    title: 'Dow Jones Drops On Renewed Banking Fears; Deutsche Bank Plunges As Credit Default Swaps Surge',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'banking', 'Deutshche'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones dropped 300 points Friday on renewed banking fears. Deutsche Bank dived 10% as the bank's credit default swaps surged.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 6:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-276.jpg',
+    content: <div className="blog-content">
+      <p>The Dow Jones dropped 300 points Friday on renewed banking fears. Deutsche Bank dived 10% as the bank's credit default swaps surged.</p>
+	    <p>The Dow Jones Industrial Average briefly dropped 300 points Friday on renewed banking fears. U.S. shares of Germany's Deutsche Bank (DB) plunged more than 10% after concerned investors drove the bank's credit default swaps, which insure against bond failure, to a four-year high. The panic sent investors fleeing into bonds, driving yields lower. Meanwhile, energy stocks crowded the bottom of the Dow Jones Industrial Average and S&P 500 as oil prices swooned.</p>
+	    <p>Among U.S. banks, JPMorgan Chase (JPM) lost 1.4% while Citigroup (C) declined 1.8%. And Wells Fargo (WFC) fell 1.7%. The SPDR S&P Regional Bank ETF (KRE) dropped 2.1%, with First Republic Bank (FRC) down more than 4%. (For our latest coverage of the market's action, go to our Stock Market Today page.)</p>	
+	    <p>On the economic front, February durable goods orders from the Commerce Department fell 1% for the month. Wall Street saw durable goods orders rising 1.5% for the month vs. January's 4.5% drop. Further, the S&P Global's preliminary Purchasing Managers' Manufacturing and Services Indexes for March came out.</p>	
+	    <p>The manufacturing index posted a better-than-expected 49.3 reading vs. the 47.2 estimates, while the services index measured 53.8, higher than the 50.3 estimate.</p>
+      <p>Finally, St. Louis Fed President James Bullard is scheduled to speak around the market open Friday.</p>
+      <h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) declined 1.7% Friday, following a modest recall in China and after Cathie Wood's ARK Investment Management dumped $26.8 million worth of Tesla shares on Thursday. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were lower after today's stock market open.</p>
+      <p>Align Technology (ALGN), IBD SwingTrader stock Meta Platforms (META) and IBD Leaderboard Palo Alto Networks (PANW) — as well as Dow Jones stocks Nike and Salesforce (CRM) — are among the top stocks to watch in the ongoing stock market correction.</p>
+      <p>Palo Alto is an IBD Leaderboard stock. Microsoft is featured in this week's Stocks Near A Buy Zone column. And Meta is an IBD SwingTrader stock. Palo Alto, Align, Microsoft and Meta were all recent IBD Stock Of The Day subjects.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Friday's opening bell, the Dow Jones Industrial Average lost 0.4%, and the S&P 500 fell 0.3%. The tech-heavy Nasdaq composite, which does not track oil or financial stocks, dropped 0.3% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) fell 0.8% and the SPDR S&P 500 ETF (SPY) moved down 0.7% early Friday.</p>
+      <p>The 10-year U.S. Treasury yield on Thursday slipped to 3.4%, falling sharply for a second-straight session. The 10-year yield is near its lowest level since early February. On Friday, the 10-year continued lower, falling to 3.29%.</p>
+      <p>U.S. oil prices shifted sharply lower, as West Texas Intermediate traded down 3.6% to just above $67 a barrel. WTI futures are defending a mild gain for the week, after touching their lowest level since November 2021 on Monday.</p>
+      <h3>Stock Market Correction</h3>
+      <p>On Thursday, the Dow Jones Industrial Average and the S&P 500 rallied as much as 1.5% and 1.8%, respectively, before closing with modest gains of 0.2% and 0.3%. Both briefly turned lower in afternoon trade before a late-day bounce. Meanwhile, the tech-heavy Nasdaq composite shrank an early 2.5% gain down to 1%. The small-cap Russell 2000 was a laggard, reversing 0.4% lower.</p>
+      <p>Thursday's Big Picture column commented, "The stock market ended higher but well off session highs Thursday, as Treasury Secretary Janet Yellen established that the U.S. government is ready to take 'additional action if warranted' to stabilize the banking sector."</p>
+      <p>Now is an important time to read IBD's The Big Picture column amid the ongoing stock market correction.</p>
+      <h3>Dow Jones Stocks To Watch: Nike, Salesforce</h3>
+      <p>Since bottoming on Oct. 3, Nike shares have rallied as much as 59% to their recent high at 131.31. Now the stock is consolidating within a flat base that offers a 131.41 buy point, according to IBD MarketSmith pattern recognition.</p>
+      <p>Amid Thursday's 1.2% gain, the stock is again consolidating back below its 50-day moving average, a key benchmark. NKE stock moved down 0.7% early Friday.</p>
+      <p>In recent weeks, Dow Jones leader Salesforce showed big upside strength after strong fourth-quarter results. The stock is now above a 178.94 cup-with-handle entry after recent big gains. Still, the market is in a correction, so investors should avoid new purchases until the market environment improves. CRM stock fell 0.4% early Friday.</p>
+      <h3>Top Stocks To Watch: Align, Meta, Palo Alto</h3>
+      <p>Align Technology continues to trace a consolidation that has multiple buy points: a 357.10 early entry and a conventional entry at 368.97. Shares fell 0.7% Friday morning.</p>
+      <p>Backstory: The company makes clear teeth-straightening systems called Invisalign. UBS analyst Kevin Caliendo says investors recently regained confidence in Align stock, which has surged 50% this year. December-ended quarter results from Align and its competitors, management commentary, U.S. economic data and a recent uptick in demand for Invisalign cases support this view, he said in a note to clients.</p>
+      <p>Backstory: Like social media rivals, Meta is struggling due to a sharp reduction in advertising revenue as clients squirm over macroeconomic concerns, recession fears and higher interest rates. This is happening as it spends billions of dollars on a risky bet to build the "metaverse," a virtual reality world that has yet to take hold.</p>
+      <p>IBD Leaderboard stock Palo Alto Networks reclaimed its 192.94 buy point out of a cup with handle during Thursday's 1.6% move higher. The buy area runs up to 202.59. PANW stock traded down 0.6% Friday.</p>
+      <p>Backstory: Through acquisitions, Palo Alto Networks has expanded into endpoint security and vulnerability management. Endpoint tools detect malware on laptops, mobile phones and other devices that access corporate networks.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock rose 0.6% Thursday, bouncing a bit after Wednesday's 3.25% skid. Shares continue to rebound from their 50-day moving average. Shares closed Thursday around 50% off their 52-week high.</p>
+      <p>TSLA stock lost 1.7% Friday morning, as it threatened to give up Thursday's gains.</p>
+      <p><strong>Dow Jones Leaders: Apple, Microsoft</strong></p>
+      <p>Among Dow Jones stocks, Apple shares climbed 0.7% Thursday, recovering a large part of Wednesday's decline. AAPL stock fell 0.4% Friday.</p>
+      <p>Microsoft shares are again trying to break out above a flat base's 276.86 buy point with a 2% gain Thursday. MSFT stock lost 0.6% early Friday.</p>
+      <p>Microsoft shares surged last week after the company announced that it is adding artificial intelligence tools to its popular Office productivity applications. That follows the company's investments in AI startup OpenAI, the firm behind the buzzy ChatGPT application.</p>
+    </div>
+  },
+  {
+    id: 252,
+    title: 'Will Silver ETFs Outshine Gold ETFs Ahead?',
+    category: 'Metals',
+    subCategory: ['Silver', 'ETFs', 'Gold'],
+    description: <div className="blog-desc">
+      <p>Precious metals like gold and silver have been rallying lately. This is because investors have been seeking safe-haven investments amid growing risks emanating from the banking crisis in the United States and Europe, high inflation, hawkish central banks, fear of prolonged global growth slowdown and the ongoing uncertainty surrounding U.S.-China relations as well as the Russia-Ukraine war.</p>
+    </div>,
+    authorName: 'Sanghamitra Saha',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 6:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-259.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Precious metals like gold and silver have been rallying lately. This is because investors have been seeking safe-haven investments amid growing risks emanating from the banking crisis in the United States and Europe, high inflation, hawkish central banks, fear of prolonged global growth slowdown and the ongoing uncertainty surrounding U.S.-China relations as well as the Russia-Ukraine war.</p>
+	    <p>In the latest statement from the Federal Open Market Committee (FOMC), the Fed hiked interest rates by 25 basis points (bps), to a funds range of 4.75%-5.00%. The move was largely expected. However, the Fed’s language in its statement grew notably milder from the last meeting, even as it clearly stated that inflation is still “elevated.” The Fed also indicated that “some additional policy firming may be appropriate.”</p>	
+	    <p>A softening in the Fed’s hawkish tone and the resultant decline in U.S. rates should weigh on the dollar against a basket of currencies, raising the precious metals’ attractiveness as these do not pay interest like fixed-income assets. Notably, the U.S. dollar is now at a seven-week low. Analysts believe that precious metal prices will witness momentum.</p>	
+	    <p>The Fed indicated that further increases in borrowing costs might be postponed (or there may be just one more rate hike worth 25 bps this year) due to the recent failure of two U.S. banks. A low-interest-rate environment makes non-yielding bullion an intriguing bet. Plus, gold is traditionally viewed as an inflation hedge and thus is well-positioned to take advantage of the recent spike in global inflation.</p>
+      <p>SPDR Gold Shares GLD has risen 8.1% in the past month, while iShares Silver Trust SLV has gained 4%. But in the past five days, SLV has added 5.8% versus a 2.7% uptick in GLD (as of Mar 22, 2023).</p>
+      <h3>What to Buy Ahead? Gold or Silver</h3>
+      <p>We believe that gold has run up a little bit higher. It’s just 1% off from its 52-week high whereas silver is still 13% off its 52-week high. So, the poor man’s gold has more room to run than the yellow metal. Moreover, the operating backdrop is more favorable for silver as it has high usage in industrial activities. About 50% of the total demand for silver comes from industrial applications.</p>
+      <p>The Fed is likely to take less-hawkish actions, going forward. This should bolster industrial activities. Manufacturing activity in China expanded and logged its highest reading in nearly 11 years. China’s reopening following the COVID-led lockdown is a huge plus for the manufacturing sector.</p>
+      <p>Growth in the global solar PV industry and new sources of demand for sensors used in IoT are providing a boost to silver demand. The recent emergence and faster rollout of 5G globally is another positive for silver. The electronic components that enable 5G technology depend on silver greatly. Silver’s role in electronic applications used in 5G is forecast to rise significantly.</p>
+      <h3>Bottom Line</h3>
+      <p>If we go by the relative strength index (RSI), SLV has an RSI value of 64.31 while GLD has an RSI value of 66.95. An asset is usually considered overbought when the RSI is above 70 and oversold when it is below 30.</p>
+      <p>Hence, the value indicates that while both ETFs are in high momentum, silver has good chances of outperforming gold. But if the economic backdrop remains this edgy, global growth slows down and inflation remains hot, gold will outshine the manufacturing metal silver.</p>
+      <h3>ETFs in Focus</h3>
+      <p>Apart from the largest ETF SLV, investors can also bet on the likes of Aberdeen Standard Physical Silver Shares ETF SIVR, Invesco DB Silver Fund (DBS) and ProShares Ultra Silver AGQ to realize gains in silver.</p>
+      <p>And for gold ETFs, investing options include the likes of iShares Gold Trust IAU, SPDR Gold MiniShares Trust GLDM, abrdn Physical Gold Shares ETF SGOL and ProShares Ultra Gold UGL.</p>
+    </div>
+  },
+  {
+    id: 234,
+    title: 'EUR/USD Forecast – Euro Plunges Into the Wekend',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro has fallen rather significantly during the trading session on Friday to reach down to the 1.07 level. At this point, the market has completely wiped out the post-FOMC burst higher, and now it looks like traders are starting to worry about risk appetite yet again. After all, the entire global economy seems to be threatened, as credit issues are going to be a significant weight around the neck of the markets.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 5:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-241.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>The Euro has fallen rather significantly during the trading session on Friday to reach down to the 1.07 level. At this point, the market has completely wiped out the post-FOMC burst higher, and now it looks like traders are starting to worry about risk appetite yet again. After all, the entire global economy seems to be threatened, as credit issues are going to be a significant weight around the neck of the markets.</p>
+	    <p>It’s worth noting that the 50-Day EMA sits just below the 1.07 level, and it is starting to turn higher again. That’s a technical indicator that will attract a lot of attention, but you can also make an argument for the fact that we have failed near the 1.09 level, which is basically where the market had collapsed from previously. At this point, it looks like the Euro is going to continue to see a lot of negativity going forward, or perhaps it should be said that the US dollar is going to be a lot of strength in this type of environment.</p>	
+	    <p>Underneath, the 1.06 level is an area that a lot of people will be paying attention to, and then of course the 200-Day EMA that could offer quite a bit of support that sits just below there. The market breaking down below the 200-Day EMA would of course be extraordinarily negative, so therefore you need to pay close attention to a move like that. In that scenario, we would probably see a resumption of the overall negativity in the market.</p>	
+	    <p>On the other hand, if we turn around a rally from here, we could get a short-term bounce, but I think at this point in time you need to see the Euro break above the 1.10 level to clearly enter a bullish phase. That of course would probably coincide with a lot of US dollar weakness in general, so pay attention to other currency pairs around the world, because if we see the US dollar falling everywhere, then it will give even more of a boost for buyers in this market. In general, this is a market that will continue to be very noisy, right around this area as we are trying to make a bigger decision.</p>
+    </div>
+  },
+  {
+    id: 233,
+    title: 'AUDUSD Forecast – Australian Dollar Breaks Lower',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has fallen a bit during the trading session on Friday, which was not a huge surprise considering that we formed a couple of shooting stars during the previous 2 days. The 0.67 level is an area that a lot of people will be paying close attention to, as it has been important multiple times. Keep in mind that the Australian dollar is highly levered to risk, and there are a lot of concerns that you need to pay attention to around the world, and that does work against the value of a currency like this.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 5:43 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-240.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has fallen a bit during the trading session on Friday, which was not a huge surprise considering that we formed a couple of shooting stars during the previous 2 days. The 0.67 level is an area that a lot of people will be paying close attention to, as it has been important multiple times. Keep in mind that the Australian dollar is highly levered to risk, and there are a lot of concerns that you need to pay attention to around the world, and that does work against the value of a currency like this.</p>
+	    <p>That being said, it has been rather resilient in the sense that we could have broken down multiple times in the past, so I think more choppy volatility is probably ahead for the market. The 0.67 level has previously been support just a couple of weeks ago, with resistance at the 0.68 level. In other words, there’s a huge block of noise that people will be paying attention to. This is even further confirmed by the 50-Day EMA sitting at the top of it and dropping lower, a technical signal that a lot of people will be using as a directional indicator.</p>	
+	    <p>If we do break down from here, the 0.6550 level is an area where we have seen a significant bounce from, so it should be a certain amount of support, but if we were to break down below there it could send this market much lower, perhaps down to the 0.65 level, maybe even down to the 0.63 level. That being said, when we look at this chart, it’s hard not to notice the fact that the market is trying to bounce a bit, and therefore by the end of the day we may have seen the market turn things completely around. If that is in fact going to be the case, then it’s possible that we could just simply enter a bit of consolidation, but either way, I am not bullish of the Australian dollar and will more likely than not stay that way for the time being, what could change my mind is if we take out the 0.68 level on a daily close.</p>
+    </div>
+  },
+  {
+    id: 264,
+    title: 'US stocks slide as traders deal with fresh banking woes and digest outlook for rates',
+    category: 'Markets',
+    subCategory: ['US', 'Stocks', 'Banking'],
+    description: <div className="blog-desc">
+      <p>US stocks tumbled on Friday as traders digested fresh concerns in the global banking sector and the Federal Reserve's outlook on interest rates.</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 5:40 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-271.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+      <ul>
+        <li>US stocks fell as traders remain wary of banking sector woes and assess the Fed's next move.</li>
+        <li>Shares of Deutsche Bank dropped after the cost of its credit default swaps jumped.</li>
+        <li>Bond yields are down across the curve this morning.</li>
+      </ul>
+      <p>US stocks tumbled on Friday as traders digested fresh concerns in the global banking sector and the Federal Reserve's outlook on interest rates.</p>
+      <p>Bank shares led the dive. Deutsche Bank sank 14% in Frankfurt on concerns about the health of the German lender. Shares of UBS and Credit Suisse also fell after Bloomberg reported that both banks are under Justice Department scrutiny.</p>
+      <p>Bond yields are down across the curve this morning. Yields on the two-year Treasury are the lowest they've been in six months as investors eye a pause in rate hikes from the US central bank later this year.</p>
+    	<h3>Here's where US indexes stood shortly after the open at 9:30 a.m. on Friday:</h3>
+      <ul>
+        <li>S&P 500: 3,926.73, down 0.56%</li>
+        <li>Dow Jones Industrial Average: 31,920.71, down 0.57% (184.54 points)</li>
+        <li>Nasdaq Composite: 11,721.88, down 0.56%</li>
+      </ul>
+    	<h3>Here's what else is happening today:</h3>
+      <ul>
+      <li>A sharp economic downturn is headed for the US, billionaire investor Barry Sternlicht told CNBC. He described the Fed's policy approach "using a steamroller to get the price of milk down two cents, to kill a small fly."</li>
+      <li>According to Fed chair Jerome Powell's favorite bond gauge, a recession is nearly certain this year.</li>
+      <li>Steve Forbes says the Federal Reserve's persistent interest rate hikes are trashing the economy, adding that "they're pursuing policies that will make the economy worse," the editor-in-chief of Forbes Magazine told Fox Business.</li>
+      <li>Wedbush Securities said it's not seeing anything illegal with Block following the release of a scathing short-seller report from Hindenburg, which alleges that that the payment firm misled its investors.</li>
+      </ul>
+    	<h3>In commodities, bonds and crypto:</h3>	
+      <ul>
+        <li>West Texas Intermediate crude oil fell 2.7% to $68.10 per barrel. Brent crude, oil's international benchmark, dropped 2.5% to $74.02.</li>
+        <li>Gold rose 0.2% to $2,000 per ounce.</li>
+        <li>The yield on the 10-year Treasury tumbled 10 basis points to 3.30%.</li>
+        <li>Bitcoin fell 1% to $27,913.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 265,
+    title: 'Dow tumbles over 300 points as Deutsche Bank jitters reignite Europes banking concerns',
+    category: 'Indices',
+    subCategory: ['Dow', 'Europe', 'Deutsche'],
+    description: <div className="blog-desc">
+      <p>US stock futures fell Friday as investors shifted their focus from the Federal Reserve's interest-rate decision back to the lingering banking-sector instability.</p>
+    </div>,
+    authorName: 'Zahra Tayeb',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 4:11 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-272.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+      <ul>
+        <li>US equities futures slipped into the red Friday as fears over the US banking turmoil continue to rattle investors.</li>
+        <li>Dow futures lost 1.05% points, while the S&P 500 and Nasdaq shed 0.88% and 0.54%, respectively.</li>
+        <li>Fears over the financial health of European banks are also mounting, with Deutsche Bank shares slumping following a spike in credit default swaps.</li>
+      </ul>
+      <p>US stock futures fell Friday as investors shifted their focus from the Federal Reserve's interest-rate decision back to the lingering banking-sector instability.</p>
+      <p>Dow Jones Industrial Average futures were down 340 points, or 1.05%, as of 8:00 a.m. ET. S&P 500 futures fell 0.88%, while Nasdaq 100 futures lost 0.54%.</p>
+      <p>The losses follow a volatile trading session on Thursday as investors digested the Fed's latest interest-rate hike and fresh concerns over the banking turmoil that started two weeks ago with the collapses of Silicon Valley Bank and Signature Bank, before spreading to Europe with the rescue deal for Credit Suisse.</p>
+      <p>The US central bank hiked interest rates by 25 basis points on Wednesday, representing its 9th consecutive interest rate hike since it started the tightening policy in March 2022, and Chairman Jerome Powell signaled that further increases could be necessary.</p>
+      <p>The drop in US equity futures also comes amid renewed jitters over the financial health of European lenders, with Deutsche Bank shares slumping 14% in premarket trading following a sharp jump in the cost of insuring its bonds against the risk of default.</p>
+      <p>In European equity markets, the pan-contential Stoxx 600 index was down 1.8% at last check Friday. The DAX in Frankfurt lost 2.4%, while the CAC 40 in Paris dropped 2.3%.</p>
+	    <h3>In commodities, currencies, bonds and crypto:</h3>
+      <ul>
+        <li>West Texas Intermediate crude oil futures fell 3.9% to $67.18 per barrel. Brent crude, oil's international benchmark, slipped 3.7% to $72.73.</li>
+        <li>The yield on the 10-year Treasury sank 12 basis points to 3.29%.</li>
+        <li>Bitcoin dropped 1% in the past hour to $27,764, while ether slipped 1.5%% to $1,764.</li>
+        <li>The US dollar index was up 0.67% to $103.23.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 237,
+    title: 'Gas Demand Recovery in Europe Gathers Pace as Prices Plunge',
+    category: 'Commodities',
+    subCategory: ['Gas', 'Demand', 'Europe'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- European companies are using more natural gas as prices drop to levels seen before the Ukraine war, putting a potential strain on preparations for another winter with limited Russian supplies.</p>
+    </div>,
+    authorName: 'Anna Shiryaevskaya',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 1:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-244.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- European companies are using more natural gas as prices drop to levels seen before the Ukraine war, putting a potential strain on preparations for another winter with limited Russian supplies.</p>
+	    <p>The green shoots are mainly evident in the refining industry, which can switch more easily between raw materials ranging from natural gas to fuel oil. Earlier this month, Dutch data showed the country’s petroleum sector had the biggest weekly gain in gas use this year, while French and Spanish gas network figures indicated refiners’ demand advanced in February from a year earlier.</p>	
+	    <p>The speed of the recovery will be crucial for the European Union and how it readies for a second winter with no pipeline gas from Russia. Rebounding demand could push prices past €100 ($109) per megawatt-hour this year, from about €43 now, and chip away at stockpiles, according Swedish bank SEB AB. It’s a view echoed by Vitol Group, one of the biggest gas traders.</p>	
+	    <p>“Some manufacturing industries last year shifted from gas to fuel,” said Patrick Pouyanne, chief executive officer at TotalEnergies SE. “Now this year they are very reactive, they shift back from diesel or fuel to gas, so it’s creating an additional demand,” he said at a presentation in London on Tuesday.</p>
+      <p>European Refiners Eye Natural Gas Again After Price Drop: BNEF</p>
+      <p>Along with refineries, petrochemical plants will also be a good indicator of the recovery because they can easily switch back to gas to make power and heat, according to Energy Aspects Ltd.</p>
+      <p>“Other gas-intensive sectors will take longer to recover over the course of 2023 owing to their demand reductions being the result of reducing output rather than fuel switching,” the industry consultant said.</p>
+      <p>As gas prices soared to records at the height of the energy crisis, Spanish industrial gas demand plunged as much as 40% in September from a year earlier. Overall usage by factories and plants slumped about 20% last year in Europe, accounting for almost half of the record drop in total consumption last year, according to the International Energy Agency. This year, the IEA expects demand in industry to recover by about 10%.</p>
+      <p>From a peak above €340 per megawatt-hour in late August, benchmark Dutch gas futures have dropped about 90%. In February, usage by Spain’s refiners soared 8.1%, helping to pare an overall drop by industry to 9.5% from a year earlier, network operator Enagas SA said.</p>
+      <p>In the Netherlands, gas use in the petroleum and the chemical industries have also started to exceed last year’s levels this month, CBS data show.</p>
+      <p>“Lower energy costs — combined, possibly, with stronger demand from China’s reopening — mean that we expect industrial production to make some positive contributions to growth in the euro area this year,” said Maeva Cousin, a senior euro-area economist at Bloomberg Economics.</p>
+      <p>While Goldman Sachs Group Inc. expects the industrial recovery will start to gather pace by the end of this month, other analysts warned it could still be a while.</p>
+      <p>“It will take time for gas tariffs from gas suppliers to fall enough and over a sustainable period for factory managers to take the decision to resume output,” Energy Aspects said.</p>
+      <p>Factories Moving</p>
+      <p>Despite the plunge in prices, they are still way above the historical average and are expected to remain elevated until about 2025 when new global supply is poised to arrive.</p>
+      <p>That means some demand may be lost forever as factories relocated to parts of the world where energy costs are lower.</p>
+      <p>Chemical firms BASF SE, Dow Inc. and Lanxess AG are poised to cut thousands of jobs and shift investment out of Germany because they don’t expect Berlin to reliably provide the energy they need at prices close to those they once paid for Russian pipeline gas.</p>
+      <p>A survey from Germany’s VCI chemical association earlier this year revealed that almost half of companies plan to cut investment in the country this year due to high energy costs. Production is likely to shift to countries with similar values and political systems, said Oliver Wojahn, an analyst at Alsterresearch AG.</p>
+      <p>“The outlook for the future has brightened somewhat in Germany’s third-largest industry,” VCI said in a report this month. “The major drop in energy and raw material prices in recent months has stabilized the situation where the bottom seems to have been reached. Unlike the pandemic or the global economic crisis, this time there will be no powerful recovery.”</p>
+    </div>
+  },
+  {
+    id: 241,
+    title: 'Gas Demand Recovery in Europe Gathers Pace as Prices Plunge',
+    category: 'Commodities',
+    subCategory: ['Gas', 'Europe', 'Demand'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- European companies are using more natural gas as prices drop to levels seen before the Ukraine war, putting a potential strain on preparations for another winter with limited Russian supplies.</p>
+    </div>,
+    authorName: 'Anna Shiryaevskaya',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 1:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-248.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Gas Demand Recovery in Europe Gathers Pace as Prices Plunge</h3>
+	    <p>(Bloomberg) -- European companies are using more natural gas as prices drop to levels seen before the Ukraine war, putting a potential strain on preparations for another winter with limited Russian supplies.</p>
+	    <p>The green shoots are mainly evident in the refining industry, which can switch more easily between raw materials ranging from natural gas to fuel oil. Earlier this month, Dutch data showed the country’s petroleum sector had the biggest weekly gain in gas use this year, while French and Spanish gas network figures indicated refiners’ demand advanced in February from a year earlier.</p>	
+	    <p>The speed of the recovery will be crucial for the European Union and how it readies for a second winter with no pipeline gas from Russia. Rebounding demand could push prices past €100 ($109) per megawatt-hour this year, from about €43 now, and chip away at stockpiles, according Swedish bank SEB AB. It’s a view echoed by Vitol Group, one of the biggest gas traders.</p>	
+	    <p>“Some manufacturing industries last year shifted from gas to fuel,” said Patrick Pouyanne, chief executive officer at TotalEnergies SE. “Now this year they are very reactive, they shift back from diesel or fuel to gas, so it’s creating an additional demand,” he said at a presentation in London on Tuesday.</p>
+      <p>European Refiners Eye Natural Gas Again After Price Drop: BNEF</p>
+      <p>Along with refineries, petrochemical plants will also be a good indicator of the recovery because they can easily switch back to gas to make power and heat, according to Energy Aspects Ltd.</p>
+      <p>“Other gas-intensive sectors will take longer to recover over the course of 2023 owing to their demand reductions being the result of reducing output rather than fuel switching,” the industry consultant said.</p>
+      <p>As gas prices soared to records at the height of the energy crisis, Spanish industrial gas demand plunged as much as 40% in September from a year earlier. Overall usage by factories and plants slumped about 20% last year in Europe, accounting for almost half of the record drop in total consumption last year, according to the International Energy Agency. This year, the IEA expects demand in industry to recover by about 10%.</p>
+      <p>From a peak above €340 per megawatt-hour in late August, benchmark Dutch gas futures have dropped about 90%. In February, usage by Spain’s refiners soared 8.1%, helping to pare an overall drop by industry to 9.5% from a year earlier, network operator Enagas SA said.</p>
+      <p>In the Netherlands, gas use in the petroleum and the chemical industries have also started to exceed last year’s levels this month, CBS data show.</p>
+      <p>“Lower energy costs — combined, possibly, with stronger demand from China’s reopening — mean that we expect industrial production to make some positive contributions to growth in the euro area this year,” said Maeva Cousin, a senior euro-area economist at Bloomberg Economics.</p>
+      <p>While Goldman Sachs Group Inc. expects the industrial recovery will start to gather pace by the end of this month, other analysts warned it could still be a while.</p>
+      <p>“It will take time for gas tariffs from gas suppliers to fall enough and over a sustainable period for factory managers to take the decision to resume output,” Energy Aspects said.</p>
+      <p>Factories Moving</p>
+      <p>Despite the plunge in prices, they are still way above the historical average and are expected to remain elevated until about 2025 when new global supply is poised to arrive.</p>
+      <p>That means some demand may be lost forever as factories relocated to parts of the world where energy costs are lower.</p>
+      <p>Chemical firms BASF SE, Dow Inc. and Lanxess AG are poised to cut thousands of jobs and shift investment out of Germany because they don’t expect Berlin to reliably provide the energy they need at prices close to those they once paid for Russian pipeline gas.</p>
+      <p>A survey from Germany’s VCI chemical association earlier this year revealed that almost half of companies plan to cut investment in the country this year due to high energy costs. Production is likely to shift to countries with similar values and political systems, said Oliver Wojahn, an analyst at Alsterresearch AG.</p>
+      <p>“The outlook for the future has brightened somewhat in Germany’s third-largest industry,” VCI said in a report this month. “The major drop in energy and raw material prices in recent months has stabilized the situation where the bottom seems to have been reached. Unlike the pandemic or the global economic crisis, this time there will be no powerful recovery.”</p>
+      <p>--With assistance from Cagan Koc, Francois de Beaupuy, Elena Mazneva, Rachel Graham and Thomas Gualtieri.</p>
+    </div>
+  },
+  {
+    id: 262,
+    title: 'Indian stocks may outperform Asian peers in long term - Jefferies',
+    category: 'Markets',
+    subCategory: ['Indian', 'Markets', 'Asian'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) - The Indian stock market may outperform its Asian and emerging market peers in the long term as lofty valuations ease and investors look to bet on the economy's growth prospects, brokerage group Jefferies said in a note.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 12:38 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-269.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BENGALURU (Reuters) - The Indian stock market may outperform its Asian and emerging market peers in the long term as lofty valuations ease and investors look to bet on the economy's growth prospects, brokerage group Jefferies said in a note.</p>
+    	<p>The benchmark Nifty 50 Index's price-to-earnings premium to China's Hang Seng Index declined to 115% from 208% in end October, and is in line with the 10-year average of 118%, Chris Wood, global head of equity strategy, Jefferies, wrote in his "Greed & Fear" report.</p>	
+	    <p>India's long-term prospects have led the global brokerage to invest 39% of its Asia ex-Japan long-only portfolio in the south Asian country compared with 25% in China.</p>	
+	    <p>While foreign investors have sold $2.8 billion on a net basis in Indian markets so far this year, domestic equity mutual fund inflows have remained positive, Wood said.</p>
+      <p>Domestic equity mutual fund inflows in the first two months of 2023 amounted to 282.33 billion rupees ($3.43 billion), according to official data from the Association of Mutual Funds in India.</p>
+      <p>The usual challenge of relatively high valuations remain, Wood said, adding that the brokerage will remain slightly "overweight" on India in the Asia Pacific ex-Japan relative-return portfolio.</p>
+      <p>"The domestic demand story certainly remains intact to justify the continuing belief in the equity market. Loan growth has slowed somewhat but still remains solid ... The recovery in the residential property market also continues," Wood wrote.</p>
+      <p>Asian banking systems remain remarkably free from stresses, Wood said, citing a slide in the ratio of non-performing loans in Indian banks to an eight-year low.</p>
+      <p>($1 = 82.2290 Indian rupees)</p>
+    </div>
+  },
+  {
+    id: 253,
+    title: 'Gold eases from key $2,000 level as dollar firms',
+    category: 'Metals',
+    subCategory: ['Gold', 'Dollar', 'firms'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold dipped on Friday in a volatile week that saw bullion prices north of the key $2,000 figure as bank contagion fears bolstered both safe-haven demand and bets on a pause in Federal Reserve rate hikes.</p>
+    </div>,
+    authorName: 'Seher Dareen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 24, 2023 - 5:55 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-260.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>By Seher Dareen</p>
+    	<p>(Reuters) - Gold dipped on Friday in a volatile week that saw bullion prices north of the key $2,000 figure as bank contagion fears bolstered both safe-haven demand and bets on a pause in Federal Reserve rate hikes.</p>
+    	<p>The U.S. dollar rose about 0.5%, making the greenback-priced gold more expensive among overseas buyers on Friday. [USD/]</p>	
+    	<p>Spot gold fell 0.8% to $1,977.01 per ounce by 2:34 p.m. EDT (1834 GMT), after it rose to $2,002.89 earlier in the session. U.S. gold futures slipped 0.6% to settle at $1,983.80.</p>	
+    	<p>A somewhat firmer dollar and a rebound in equity markets and risk appetite are probably what has driven gold lower, said Bart Melek, head of commodity markets strategy at TD Securities. But bullion was likely to get continued support from big macro developments, Melek said. [MKTS/GLOB]</p>
+      <p>Rescue measures for struggling banks eased contagion fears earlier in the week, putting gold on course for its first weekly decline in four, down about 0.5%, despite having climbed to its highest in a year above $2,000 on Monday.</p>
+      <p>But banking shares were trounced again on Friday, with European giants Deutsche Bank and UBS knocked by worries that regulators and central banks have yet to contain the worst shock to the sector since the 2008 financial crisis. [.N]</p>
+      <p>"Any concern that pops up about U.S. banks being undercapitalized is going to be a factor for gold to rise," said Bob Haberkorn, senior market strategist at RJO Futures.</p>
+      <p>Fed officials said there was no indication financial stress was worsening as they gathered at a policy meeting this week, a fact that allowed them to stay focused on lowering inflation with another interest rate increase.</p>
+      <p>The U.S. central bank this week raised rates by an expected quarter of a percentage point but signalled it was on the verge of pausing.</p>
+      <p>Silver eased 0.1% to $23.07, platinum fell 0.7% to $977.776, and palladium dropped 0.7% to $1,420.40.</p>
+    </div>
+  },
+  {
+    id: 254,
+    title: 'Shaky Banking Sector Pushes Gold Past $2,000',
+    category: 'Metals',
+    subCategory: ['Gold', 'Banking', 'shaky'],
+    description: <div className="blog-desc">
+      <p>Rising interest rates have been putting downward pressure on gold, but the shaky banking sector recently pushed prices past the $2,000 mark. With investor confidence in banks waning, this could continue to bolster gold prices as they seek to add precious metals for safety.</p>
+    </div>,
+    authorName: 'Ben Hernandez',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 23, 2023 - 8:50 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-261.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Rising interest rates have been putting downward pressure on gold, but the shaky banking sector recently pushed prices past the $2,000 mark. With investor confidence in banks waning, this could continue to bolster gold prices as they seek to add precious metals for safety.</p>
+	    <p>Along with the rescue of U.S. regional bank First Republic, Europe's Credit Suisse has been grabbing the financial news as of late with its recent rescue thanks to help from global investment bank UBS. Bank rescues can help re-instill market confidence, but more bank failures could continue to push investors to safe havens like gold.</p>	
+	    <p>“Long-term damage has been done to the credibility of U.S. banks,” said Chintan Karnani, director of research at Insignia Consultants, who also noted in a MarketWatch report that the banking fallout could be just be the tip of the iceberg. “Significant price corrections (if any) in gold price will be for a very short period.”</p>	
+	    <h3>3 Options for Gold Exposure</h3>
+      <p>There are three options where investors can get gold exposure. For direct correlation to holding physical gold, consider the Sprott Physical Gold Trust (PHYS), which is a fund that provides an enhanced physical bullion structure, offering the ease of purchase and sale that comes with being traded on an exchange.</p>
+      <p>For a backdoor play on ancillary gold services, investors can also consider the Sprott Gold Miners ETF (SGDM). If demand continues to rise for gold, this can have a domino effect on miners for indirect exposure to gold prices.</p>
+      <p>Per SGDM’s fund description, the ETF seeks investment results that correspond generally to the performance of its underlying index, the Solactive Gold Miners Custom Factors Index. The index aims to track the performance of larger-sized gold companies whose stocks are listed on Canadian and major U.S. exchanges.</p>
+      <p>The index uses a transparent, rules-based methodology designed to emphasize larger-sized gold companies with the highest revenue growth, free cash flow yield, and the lowest long-term debt to equity. The index is reconstituted on a quarterly basis to reflect the companies that have the highest factor scores.</p>
+      <p>Lastly, investors looking for gold exposure with an environmental, social, and governance (ESG) component can consider the Sprott ESG Gold ETF (SESG). The fund directly sources from select gold producers that Sprott believe are leaders when it comes to ESG mining and sustainability.</p>
+      <p>SESG also adds a backdoor play on gold prices, investing in ancillary services (i.e. mining) that support the gold market as opposed to the actual precious metal itself. In addition, the inclusion of an ESG filter gives conscious investors an opportunity to allocate capital to gold miners exhibiting ESG-friendly operations.</p>
+    </div>
+  },
+  {
+    id: 242,
+    title: 'China holds upper hand in Russian gas exports',
+    category: 'Commodities',
+    subCategory: ['Gas', 'exports', 'russian'],
+    description: <div className="blog-desc">
+      <p>A massive new gas pipeline to China could help reduce Russia's reliance on European buyers, but analysts say the project reveals a growing imbalance between the longtime strategic allies.</p>
+    </div>,
+    authorName: 'Jing Xuan TENG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 23, 2023 - 6:26 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-249.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>A massive new gas pipeline to China could help reduce Russia's reliance on European buyers, but analysts say the project reveals a growing imbalance between the longtime strategic allies.</p>
+	    <p>Beijing emerged as an economic lifeline for Moscow last year, especially through energy purchases, after Western sanctions over Russia's invasion of Ukraine cut off crucial trade links.</p>	
+	    <p>Moscow is confident that the new pipeline -- Power of Siberia 2 -- is going ahead, but Beijing has so far avoided an explicit commitment.</p>	
+	    <p>Analysts say the lagging response shows an imbalance favouring Beijing in energy deals between the two countries -- as well as China's wariness of over-reliance on Russia for fuel.</p>
+      <p>China is "in no rush to sign anything unless the proposal is favourable and is shaped on China's terms," researcher Maria Shagina at the International Institute for Strategic Studies (IISS) in Berlin told AFP.</p>
+      <p>The project was discussed during Chinese President Xi Jinping's summit with Russian leader Vladimir Putin in Moscow this week.</p>
+      <p>Putin said after talks with Xi that "all agreements have been reached" on the Power of Siberia 2 project.</p>
+      <p>But their joint statement only said the two sides will work on pushing forward "research and consultation" on the pipeline.</p>
+      <p>The Chinese foreign ministry did not respond to a request for more details.</p>
+      <p>Power of Siberia 2 could facilitate the transport of 50 billion cubic metres of gas to China annually, roughly on par with the total capacity of the controversial Nord Stream 2 pipeline from Russia to Germany.</p>
+      <p>A senior Russian official suggested last year that it could strategically replace Nord Stream 2.</p>
+      <p>- 'Russia is desperate' -</p>
+      <p>Previously the world's largest exporter of liquefied natural gas (LNG), Russia's gas exports plummeted in 2022 after a flurry of Western sanctions over the Ukraine war.</p>
+      <p>As Europe looked for other suppliers, Moscow turned to alternative buyers including China, with which it is already linked by the first Power of Siberia pipeline.</p>
+      <p>In 2022, China overtook Germany to become the top buyer of Russian energy. It has paid a total of $12.2 billion for coal, gas and oil from Russia so far this year, according to the Helsinki-based Centre for Research on Energy and Clean Air.</p>
+      <p>Russian gas deliveries to China through the existing Power of Siberia pipeline reached a record 15.5 billion cubic metres last year.</p>
+      <p>But sales to Asia pale in comparison with the 155 billion cubic metres of gas Russia exported to Europe prior to the Ukraine war.</p>
+      <p>"Russia is desperate to send as much gas as possible eastwards as Europe strives to reduce its dependence on Russian gas," said Philip Andrews-Speed, a senior research fellow at the National University of Singapore's Energy Studies Institute.</p>
+      <p>And a potential Power of Siberia 2 gas deal would consolidate China as a long-term market, said Jaime Concha, a gas market expert at industry analysis firm Energy Intelligence.</p>
+      <p>Russia's existing pipeline infrastructure "was mostly structured to cater to the European market", Concha told AFP.</p>
+      <p>Building up an equivalent network in Asia would be costly and time-consuming, he said, "which shows how few alternatives Russia has".</p>
+      <p>- 'Lessons from Europe' -</p>
+      <p>China, meanwhile, has sought to ensure a diverse set of energy suppliers.</p>
+      <p>It has signed a flurry of long-term gas deals around the world in recent years, including a $60 billion, 27-year agreement with Qatar in November.</p>
+      <p>"Chinese policymakers also observe the lessons from Europe of overreliance on Russian energy imports," said Yan Qin, lead carbon analyst at Refinitiv.</p>
+      <p>With a strengthened position in energy negotiations with Russia, "China emerged as the winner from the war in Ukraine", IISS researcher Shagina told AFP.</p>
+      <p>"Beijing capitalised on Moscow's international isolation and ramped up its purchases of heavily discounted Russian oil, gas, and coal."</p>
+      <p>At the same time, China has felt the bite from the turmoil in global energy markets.</p>
+      <p>The war in Ukraine has pushed thermal coal prices at China's Qinhuangdao port "almost as high as Europe", Qin said, while rising LNG prices have hit gas power plants and industrial users.</p>
+      <p>Ultimately, she said, the Power of Siberia 2 pipeline could "enhance China's gas imports capacity greatly and potentially reduce China's LNG imports demand".</p>
+    </div>
+  },
+  {
+    id: 232,
+    title: 'GBP to USD Forecast – British Pound Gives Up Early Move Higher',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit against the US dollar early during the trading session on Thursday, breaking above the 1.23 level. 1.23 level is an area that begins the cluster that formed the double top at the 1.24 level. In other words, there will probably be a significant amount of resistance just above, so giving up some of the gains does make a certain amount of sense. After all, the Federal Reserve continues to raise rates, and has reiterated during the session on Wednesday and that they are going to stay tight going forward, even if that means that they have to continue tightening interest rates.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 23, 2023 - 5:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-239.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has rallied a bit against the US dollar early during the trading session on Thursday, breaking above the 1.23 level. 1.23 level is an area that begins the cluster that formed the double top at the 1.24 level. In other words, there will probably be a significant amount of resistance just above, so giving up some of the gains does make a certain amount of sense. After all, the Federal Reserve continues to raise rates, and has reiterated during the session on Wednesday and that they are going to stay tight going forward, even if that means that they have to continue tightening interest rates.</p>
+	    <p>Looking at this chart, it certainly looks as if we are a little overextended anyway, and the fact that we gave back some of the gains does suggest that perhaps we are ready to start pulling back towards the US dollar. On the other hand, if we were to somehow break above the double top at the 1.24 level, that means that the market would then challenge the psychologically and structurally important 1.25 level. That being said, the market would then start to see the British pound take off to the upside, perhaps kicking off a huge move higher.</p>	
+	    <p>If we break down from here, the 1.20 level underneath would be a large victory for the US dollar, as it is an area that’s been a bit of a magnet for price over the last several months, so it does suggest that perhaps we are going to see a bit of a fight in that area if we do get down to it. Anything under there would then threaten a move down to the 1.1850 level, an area that previously had been major support. That’s essentially the bottom of the overall consolidation area, and if we were to break down below there it opens up a bit of a trapdoor for falling prices. Ultimately, this is a market that looks a little heavy, so I’ll be looking for opportunities to short if there’s any opportunity to do so over the next several days.</p>
+    </div>
+  },
+  {
+    id: 231,
+    title: 'EUR/USD Forecast – Euro Gives Up Early Rally',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro initially rallied significantly against the US dollar during the trading session on Thursday, but has run into a previous selling area, from which we plunged from. At this point, the market is likely to see a bit of exhaustion set in, due to the fact that we went parabolic over the last couple of days. Whether or not the market starts to roll over and turn trends again, that’s of course a different question, but at this point it certainly looks as if we have gotten a bit ahead of ourselves.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 23, 2023 - 5:09 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-238.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The Euro initially rallied significantly against the US dollar during the trading session on Thursday, but has run into a previous selling area, from which we plunged from. At this point, the market is likely to see a bit of exhaustion set in, due to the fact that we went parabolic over the last couple of days. Whether or not the market starts to roll over and turn trends again, that’s of course a different question, but at this point it certainly looks as if we have gotten a bit ahead of ourselves.</p>
+	    <p>Keep in mind that the Federal Reserve raised rates just 25 basis points during the session on Wednesday, but at the end of the day there are a lot of concerns around the world about the banking system, and if that’s going to be the case, the US dollar is going to be at a premium. This area that we are in right now is an area that had been so bearish previously that one would have to assume that there should be a significant amount of selling pressure.</p>	
+	    <p>If we do break down below the bottom of the candlestick for the trading session on Thursday, then it’s likely that we could go down to the 1.08 level, an area that has been previous resistance. On the other hand, if we can rally above the top of the range for the Thursday session, we may try to threaten the 1.10 level, which of course is a large, round, psychologically significant figure, and an area that would attract a lot of attention. Anything above there then would kick off the next great leg higher. I think at this point, there are so many different economic issues out there that it’s probably only a matter of time before the US dollar picks up strength again, so it will be interesting to see how they play this out going forward. Regardless, I would not be a buyer all the way up here without at least seeing the market consolidate for a while as I don’t like to chase trading positions after a market has made such a sharp move.</p>
+    </div>
+  },
+  {
+    id: 230,
+    title: 'Bank of England raises interest rates for 11th time to 4.25%',
+    category: 'Forex',
+    subCategory: ['BOG', 'Intrest', 'raises'],
+    description: <div className="blog-desc">
+      <p>The Bank of England (BoE) has raised the UK interest rates by 0.25 basis points to 4.25% to combat double-digit inflation.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 23, 2023 - 4:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-237.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>The Bank of England (BoE) has raised the UK interest rates by 0.25 basis points to 4.25% to combat double-digit inflation.</p>
+	    <p>This is the 11th time in a row, in less than 18 months, that the central bank has increased rates, making borrowing costs higher despite the cost of living crisis that has hit UK households.</p>
+    	<p>It lifts UK interest rates to their highest since October 2008, early in the financial crisis, when Bank Rate was 4.5%.</p>
+	    <p>It also comes after inflation took a surprise leap to 10.4% in February. Inflation hit a 41-year high at 11.1% in October.</p>	
+	    <p>The monetary policy committee voted 7-2 in favour of a 25bps increase, with two members preferring to maintain at 4%.</p>	
+	    <p>Seven members (governor Andrew Bailey, plus Ben Broadbent, Jon Cunliffe, Jonathan Haskel, Catherine Mann, Huw Pill and Dave Ramsden) voted in favour of raising Bank Rate by a quarter-point, to 4.25%.</p>
+      <p>But two members, Swati Dhingra and Silvana Tenreyro, voted against the proposition, preferring to maintain Bank Rate at 4%.</p>
+      <p>Nathaniel Casey, investment strategist at wealth manager Evelyn Partners, said: “The split in voting is indicative of the tricky state of affairs confronting the MPC and other central banks, with committee members having to weigh the fragility of the global banking sector against the need to bring inflation back to target.</p>
+      <p>“The recent turmoil in the banking sector, which began with collapse of Silicon Valley Bank (SVB) nearly a fortnight ago, has reminded central banks that things can break when monetary policy is rapidly tightened. Although contagion risks from the tech bank crisis and Credit Suisse look to have receded for the time being, the BoE will need to tread carefully if it decides to further tighten monetary policy from here. The Bank recently acknowledged that ‘more sharp moves in asset prices could expose weakness in parts of Britain’s financial system’ in a letter to lawmakers."</p>
+      <p>This increase will have an immediate impact on some borrowers and savers. High-street banks use the Bank's base rate to work out the interest rates it offers to customers.</p>
+      <p>Sam Richardson, Which? money deputy editor, said: "This rate rise will push up housing costs for already hard-pressed households – with millions more likely to be hit over the coming months.</p>
+      <p>"Those on a tracker mortgage will see an immediate impact on monthly repayments, and those on a variable rate could also see their costs rise. Mortgage owners on a fixed-term deal will not be affected for the duration of their deal, however they will likely be stung with much higher rates when the time comes to renew.</p>
+      <p>"Homeowners struggling with payments should speak to their lenders, which are required to offer support, such as temporarily reducing payments or extending the mortgage term. Discussing your options with your lender will not affect your credit rating.</p>
+      <p>"Higher rates will also have an impact on renters, as buy-to-let landlords will likely pass on increased costs to their tenants. If you are unsure about how you will be able to make monthly repayments, contact your landlord or letting agent to see if a different payment plan is available."</p>
+      <p>The Bank of England says up to 4 million households face a higher monthly mortgage bill this year. An estimated 356,000 mortgage borrowers could face difficulties with repayments by July next year, according to the Financial Conduct Authority.</p>
+      <p>When interest rates rise, more than 1.4 million people on tracker and variable rate deals usually see an immediate increase in their monthly payments.</p>
+      <p>For the average UK property costing £270,708 on a variable rate and with a 75% LTV, monthly mortgage repayments would increase by £26 a month, according to data from TotallyMoney and Moneycomms.</p>
+      <p>Three-quarters of mortgage customers hold a fixed-rate mortgage so their payments should not be affected for now but prospective house buyers or those seeking a remortgage will pay more.</p>
+      <p>Alice Haine, personal finance analyst at Bestinvest, said: "For first-time buyers shopping around for a fixed rate deal, another interest rate rise will leave them feeling very nervous. Mortgage rates rose rapidly last year – hitting a peak of 6.5% in October in the wake of the mini budget chaos when unfunded tax cuts spooked the markets. Despite interest rates continuing to rise since then, the average two- and five-year fixed rates are currently at a six-month low as most of the recent Bank Rate rises were already priced in by lenders."</p>
+      <p>Richard Donnell, executive director of research at Zoopla, commented: "We don't expect the increase in the base rate to make much difference to the outlook for the housing market. Demand for homes is down on last year but sales are still being agreed albeit at a slower rate (20% lower). People still want to move and households are resetting their plans in an environment of higher borrowing costs. Talk of a big price correction in home values has been overplayed and if you price your home sensibly, it’s likely to attract interest subject to some negotiation on the final price."</p>
+      <p>The Bank of England said in its latest monetary policy report that global growth "is expected to be stronger than projected" in its last meeting and that the UK banking system "remains resilient".</p>
+      <p>Markets predict this to be the final rate hike in the Bank of England’s run.</p>
+      <p>"Assuming the broader inflation data continues to point to an easing in pipeline pressures, then we suspect the committee will be comfortable with pausing by the time of the next meeting in May," ING economist James Smith said.</p>
+      <p>The BoE has raised its outlook for the economy in the near term, now expecting the economy to grow in second quarter.</p>
+      <p>Chancellor Jeremy Hunt said: “With rising prices strangling growth and eroding family budgets, the sooner we grip inflation the better for everyone.</p>
+      <p>“That's why we support the Bank of England's actions today and why we will continue to play our part in this fight by being responsible with the public finances, alongside providing cost of living support worth an average of £3300 per household over this year and next.”</p>
+      <p>The Bank of England follows other central banks in rising interest rates amid sticky inflation and an international banking crisis.</p>
+      <p>The US Federal Reserve raised its main rate by a quarter of a percentage point on Wednesday but indicated it would stop further increases.</p>
+      <p>The European Central Bank also raised its three main interest rates by 50 basis points last week.</p>
+      <p>This Thursday, the Swiss National Bank’s policy rate has been lifted to 1.5%, from 1%, to counter “the renewed increase in inflationary pressure”.</p>
+      <p>The Norges Bank’s Monetary Policy and Financial Stability Committee also announced today it had decided to raise the Norwegian policy rate from 2.75% to 3%, as it battles inflation.</p>
+    </div>
+  },
+  {
+    id: 266,
+    title: 'Wall Street higher after Fed signals rate hikes nearing end but FTSE closes in red',
+    category: 'Indices',
+    subCategory: ['Wall street', 'FED', 'FTSE'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks finished mixed this Thursday as the Bank of England raised interest rates to 4.25%.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 23, 2023 - 12:47 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-273.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>The FTSE 100 and European stocks finished mixed this Thursday as the Bank of England raised interest rates to 4.25%.</p>
+	    <p>The FTSE 100 (^FTSE) lost 0.69% to close at 7,515 points , while the CAC 40 (^FCHI) in Paris climbed 0.22% to 7,146 points. In Germany, the DAX (^GDAXI) rose 0.14% to 15,237.</p>	
+	    <h3>Bank of England's interest rate hike</h3>
+      <p>The Bank of England (BoE) has raised the UK interest rates by 0.25 basis points to 4.25% to combat double-digit inflation.</p>
+      <p>This is the 11th time in a row in less than 18 months that the central bank has increased rates, making borrowing costs higher despite the cost of living crisis that has hit UK households.</p>
+      <p>It lifts UK interest rates to their highest since October 2008, early in the financial crisis, when Bank Rate was 4.5%.</p>
+      <p>Karen Ward, chief market strategist EMEA at JP Morgan Asset Management, said: “The Bank of England’s Monetary Policy Committee was right to raise interest rates by 25bps at its meeting today. It is possible that recent concerns in the global banking sector will serve to tighten credit conditions, but that is not guaranteed. As with the ECB last week and Fed last night, the Bank of England acted on the information it had today which is that the economy is still resilient, inflation is uncomfortably high and broadening, and wage growth is at a level that is inconsistent with a 2% inflation target.</p>
+      <p>“We are concerned that the Bank will find itself outside of the central bank herd in the second half of the year. This is because the persistence of inflation appears more worrying in the UK than elsewhere, reflecting the fact that the combination of Brexit, the pandemic and an energy crisis appears to have done more lasting damage to the supply side of the economy.</p>	
+	    <p>Vivek Paul, UK chief investment strategist, BlackRock Investment Institute, added: “The Bank of England raised interest rates by 0.25%, in line with our expectations – recent upside surprises in inflation show that we’re yet to see the back of the problem. The increase follows the Federal Reserve and ECB rate rises in recent days, and shows why we’re in a new regime; central banks will not ride to the rescue with rate cuts at the first sign of growth concerns, as we’ve been used to for a generation. Financial stability (stabilising the system given banking concerns, or in the UK’s case last year, the gilt yield spike) and monetary policy actions (dealing with inflation) are distinct.</p>
+      <h3>US and Asia</h3>
+      <p>Wall Street opened higher Thursday after the Federal Reserve on Wednesday signaled its rate hiking campaign may be nearing an end amid concerns about stability in the global banking system.</p>
+      <p>The Dow Jones (^DJI) rose 1.16% to 32,402 points. The S&P 500 (^GSPC) jumped 1.36% to 3,990 points and the tech-heavy NASDAQ (^IXIC) gained 2% to 11,902.</p>
+      <p>The Federal Reserve raised its benchmark rate 0.25% to a 4.75%-5% target range, citing some additional policy firming may be appropriate. Additionally, the Fed said it would continue the same pace of reducing treasury and mortgage-backed security holdings.</p>
+      <p>"On net, we think the Silicon Valley Bank (SVB) episode and the fallout for the broader regional banking sector will work to slow credit, economic activity, and eventually inflation, resulting in the Fed needing to do less of the heavy lifting to tighten financial conditions," Tiffany Wilding, PIMCO North American economist, wrote in a statement following Powell's press conference.</p>
+      <p>Although the Fed did lift US interest rates by a quarter-point, it also dropped its regular warning that “ongoing increases” in Fed Funds rate would be needed.</p>
+      <p>“In other words, the Fed has toned down its statement to give it flexibility to pause the interest rate hiking cycle in May depending on incoming economic data,” saidMatthew Weller, global head of research at FOREX.com and City Index.</p>
+      <p>Powell also moved to calm banking sector fears in the wake insisting that depositor funds were "safe" in the US banking system.</p>
+      <p>The Fed chair said the measures taken in response to the failures, including a guarantee for all deposits held at the two lenders and a new Fed lending facility, "demonstrate that all depositors’ savings are safe".</p>
+      <p>In Asia, Tokyo’s Nikkei 225 (^N225) lost 0.17% to 27,419 points, while the Hang Seng (^HSI) in Hong Kong gained 2.05% to 19,993. The Shanghai Composite (000001.SS) also gained ground, rising 0.64% to 3,286 points.</p>
+      <h3>FTSE 100</h3>
+      <p>Back in London, the blue chip was in the red as banks lost as much as 1.1% after two straight days of gains.</p>
+      <p>Schroders (SDR.L) led the losses, down 3.52%, with HSBC (HSBA.L) tumbling 2.35%, and Standard Chartered (STAN.L) falling by 2.70%.</p>
+      <p>Informa (INF.L) dropped 2.25% after Morgan Stanley cut its rating on the events organizer's stock to "equal-weight" from "overweight".</p>
+      <p>The pound (GBPUSD=X) touched its highest level since the start of February this morning, as the City was right to anticipate another rise in UK interest rates.</p>
+      <p>The pound reached $1.2325, up 0.5%, as the dollar slipped following last night’s Federal Reserve decision.</p>
+      <h3>Oil markets</h3>
+      <p>Meanwhile, Brent crude (BZ=F) bounced back and was trading at around $76/barrel amid optimism around China's demand.</p>
+    </div>
+  },
+  {
+    id: 244,
+    title: '7 Energy Stocks Sitting in the Sweet Spot',
+    category: 'Commodities',
+    subCategory: ['Energy', 'Stocks', 'Sweet spot'],
+    description: <div className="blog-desc">
+      <p>With the forces of geopolitics and social normalization trends converging, investors may want to consider energy stocks sitting in the sweet spot. What exactly does that entail, though? For one thing, the underlying sector – especially the hydrocarbon arena – will command long-term relevance. While the ideological winds seek to replace fossil fuels, renewable sources often lack the energy density required to compete effectively.</p>
+    </div>,
+    authorName: 'Josh Enomoto',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 23, 2023 - 3:05 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-250.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>With the forces of geopolitics and social normalization trends converging, investors may want to consider energy stocks sitting in the sweet spot. What exactly does that entail, though? For one thing, the underlying sector – especially the hydrocarbon arena – will command long-term relevance. While the ideological winds seek to replace fossil fuels, renewable sources often lack the energy density required to compete effectively.</p>
+	    <p>The other component that makes the below energy stocks exceptionally compelling is that they hit the sweet spot of being undervalued (by objective standards) but highly rated among Wall Street analysts. Further, it’s not just about the baseline assessment itself. Rather, each of the names below commands an average price target that implies double-digit reward potential.</p>	
+	    <h3>PBF Energy (PBF)</h3>
+      <p>A petroleum refiner and supplier of unbranded transportation fuels, heating oils, and lubricants (among many other products), PBF Energy (NYSE:PBF) deserves special consideration as we recover from the Covid-19 pandemic. With social normalization trends likely to increase traffic volume on our roadways, PBF offers an opportunity to profit. Indeed, since the January opener, PBG gained over 12% of its equity value.</p>	
+	    <p>Financially, the company isn’t perfect but it holds its own. For instance, its Altman Z-Score comes in at 5.08, indicating low bankruptcy risk. Also, PBF’s debt-to-EBITDA ratio comes in at 0.61 times, favorably below the industry median of 1.67 times.</p>
+      <p>Operationally, the refiner posts a three-year revenue growth rate of 22.4%, ranked better than 79.48% of the oil and gas sector. Most importantly regarding this topic of energy stocks in the sweet spot, the market prices PBF at a forward multiple of 4.94. As a discount to earnings, the company ranks better than 71.07% of the competition. Finally, Wall Street analysts peg PBG as a consensus moderate buy. Their average price target stands at $51.44, implying over 22% upside potential.</p>
+      <h3>Marathon Petroleum (MPC)</h3>
+      <p>A petroleum refining, marketing, and transportation firm, Marathon Petroleum (NYSE:MPC) is one of the larger players in its field. At the moment, the company carries a market capitalization of nearly $56 billion. Since the Jan. opener, MPC returned shareholders almost 14%. In the past 365 days, it moved up 58%. Still, it technically ranks as one of the underrated energy stocks sitting in the sweet spot.</p>
+      <p>Currently, the market prices MPC at a trailing multiple of 4.42. As a discount to earnings, Marathon Petroleum ranks better than 68.76% of sector rivals. In addition, MPC trades at 0.36 times sales. However, the sector median value, in this case, is 0.93 times.</p>
+      <p>Notably, Marathon carries an Altman Z-Score of just under 4, indicating an enterprise safe from bankruptcy. As well, its debt-to-EBITDA pings at 1.12 times, below the sector median of 1.67 times. Moreover, Marathon’s a growth machine, posting a three-year revenue growth rate of 27.1%. Lastly, covering analysts peg MPC as a consensus strong buy. Their average price target stands at $147.92, implying over 17% upside potential.</p>
+      <h3>Valero Energy (VLO)</h3>
+      <p>A downstream energy specialist, Valero Energy (NYSE:VLO) mostly focuses on manufacturing and marketing transportation fuels. As well, it covers other petrochemical products and power. Because of the ongoing social normalization trends, VLO easily represents one of the more relevant energy stocks. Since the beginning of this year, shares gained over 7% of equity value. In the past 365 days, they’re up nearly 37%.</p>
+      <p>Even with the tremendous upside, VLO technically remains underrated. For instance, the market prices VLO at a trailing multiple of 4.43. As a discount to earnings, Valero ranks better than 68.61% of its peers. Also, VLO trades at a sales multiple of 0.28. As a discount to revenue, the company beats out 80.23% of the industry.</p>
+      <p>Further, Valero enjoys a robust balance sheet, backed by an Altman Z-Score of 5.55. Moreover, its three-year revenue growth rate pings at 19.4%, outpacing 76% of competitors. In closing, analysts peg VLO as a consensus strong buy (with one sell rating). Overall, the average price target comes out to $161.67, implying over 25% upside potential.</p>
+      <h3>Magnolia Oil & Gas (MGY)</h3>
+      <p>Based in Houston, Texas, Magnolia Oil & Gas (NYSE:MGY) is one of the underrated energy stocks for good reason. Since the beginning of this year, MGY fell over 7%. In the past 365 days, it gave up nearly 15% of its equity value. Still, the exploration and production (upstream) company could be an intriguing idea to consider, especially if you like to gamble.</p>
+      <p>First, Magnolia enjoys a strong balance sheet. Its cash-to-debt ratio comes in at 1.73 times, outbidding 65.5% of the competition. Also, its equity-to-asset ratio is 0.61, which ranks better than nearly 66% of the oil and gas industry. Moreover, the company’s three-year revenue growth rate pings at 16.9%, while its net margin is nearly 53%. Both stats rank well into the industry’s upper half.</p>
+      <p>Regarding valuation, the market prices MGY at a trailing multiple of 4.36. As a discount to earnings, Magnolia ranks better than nearly 70% of its peers. Also, its price-to-free-cash-flow (FCF) is 4.64 times, below the industry median of 7.3 times. Turning to Wall Street, analysts peg MGY as a consensus strong buy. Their average price target comes out to $29.67, implying nearly 45% upside potential.</p>
+      <h3>Devon Energy (DVN)</h3>
+      <p>Focused on hydrocarbon exploration, Devon Energy (NYSE:DVN) commands a relevant profile among energy stocks. Unfortunately, DVN failed to resonate with investors so far this year. Since the Jan. opener, DVN gave up a worrying 19% of equity value. In the past 365 days, it’s off the mark by 23.5%. Nevertheless, for those that want to live a bit dangerously, DVN offers something to think about.</p>
+      <p>Despite its market losses, Devon enjoys a decently stable balance sheet. Notably, its debt-to-EBITDA ratio of 0.65 times ranks better than 73.15% of its peers. Also, its Altman Z-Score pings at 3.69, indicating low bankruptcy risk. Operationally, the company features a three-year revenue growth rate of 23.7% and a net margin of 31.38%. Both stats rank well in the upper half of the hydrocarbon sector.</p>
+      <p>Most importantly for our discussion of energy stocks in the sweet spot, the market prices DVN at a forward multiple of 5.75. As a discount to earnings, Devon ranks better than 60.69% of its rivals. Looking to the Street, analysts peg DVN as a consensus moderate buy. Their average price target currently stands at $68.75, implying over 46% upside potential.</p>
+      <h3>Arch Resources (ARCH)</h3>
+      <p>A coal mining and processing firm, Arch Resources (NYSE:ARCH) mines, processes, and markets bituminous and sub-bituminous coal with low sulfur content in the U.S. Per its public profile, Arch is the second-largest supplier of coal in the nation. Despite its relevancies, since the beginning of this year, ARCH slipped over 2%. In the trailing year, it’s down 13%.</p>
+      <p>Nevertheless, for contrarian investors, ARCH may be one of the energy stocks sitting in the sweet spot. Presently, the market prices ARCH at a trailing multiple of 2.04. As a discount to earnings, the company ranks better than 83.67% of sector players. Also, its price-to-FCF comes in at 2.65 times. Here, the applicable discount for Arch ranks better than 69.47% of the industry.</p>
+      <p>Beyond the valuation, Arch benefits from a solid balance sheet, backed by an Altman Z-Score of 5.43. Also, the coal firm’s three-year EBITDA growth rate stands at 41%, above 74.15% of the competition. Finally, Wall Street analysts peg ARCH as a unanimous strong buy. Their average price target pings at $201.33, implying nearly 54% upside potential.</p>
+      <h3>Evolution Petroleum (EPM)</h3>
+      <p>Headquartered in Houston, Texas, Evolution Petroleum (NYSEAMERICAN:EPM) is an independent energy company focused on maximizing total returns to its shareholders through the ownership of and investment in onshore oil and natural gas properties in the U.S. As with some of the riskier energy stocks, EPM looks shaky at the moment. Since the January opener, shares tumbled nearly 20%.</p>
+      <p>Still, for the contrarian investor, EPM could also rank among the underappreciated energy stocks to buy. Financially, Evolution benefits from excellent strengths in the balance sheet. In particular, the company features a cash-to-debt ratio of 17.84 times, above 77.23% of the industry. Also, its Altman Z-Score of 5.51 indicates a low risk of bankruptcy.</p>
+      <p>Regarding the theme at hand, the market prices EPM at a trailing multiple of 4.51. As a discount to earnings, Evolution ranks better than 68.46% of its rivals. Also, it trades at 2.82 times the operating cash flow. In contrast, the sector median value is 4.41. Lastly, Northland Securities’ Donovan Schafer, CFA, pegs EPM as a buy. Further, the expert anticipates shares hitting $11, implying nearly 97% upside potential.</p>
+      <p>On the date of publication, Josh Enomoto did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.</p>
+      <p>A former senior business analyst for Sony Electronics, Josh Enomoto has helped broker major contracts with Fortune Global 500 companies. Over the past several years, he has delivered unique, critical insights for the investment markets, as well as various other industries including legal, construction management, and healthcare.</p>
+    </div>
+  },
+  {
+    id: 229,
+    title: 'GBP to USD Forecast – British Pound Rallies Heading Towards FOMC',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'FOMC'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit during the trading session on Wednesday as we are waiting for the FOMC meeting results. Obviously, the FOMC will have a major influence on what happens with the US dollar next, and therefore have a major influence on what happens with most major forex pairs. Currently, it looks as if we are getting close to the top of the range that we have been in, and therefore we will have to make some serious decisions. The 1.23 level sits just above, which is a short-term resistance barrier.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 22, 2023 - 5:28 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-236.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has rallied a bit during the trading session on Wednesday as we are waiting for the FOMC meeting results. Obviously, the FOMC will have a major influence on what happens with the US dollar next, and therefore have a major influence on what happens with most major forex pairs. Currently, it looks as if we are getting close to the top of the range that we have been in, and therefore we will have to make some serious decisions. The 1.23 level sits just above, which is a short-term resistance barrier.</p>
+	    <p>After that, then we have the 1.24 level, an area where we had formed a major double top, and therefore it will be interesting to see if that holds on any type of big move to the upside. The 1.24 level begins an area that extends to the 1.25 level, so it’s obvious that there are a lot of things above that could come into the picture and cause problems. Keep in mind that the market has been chopping back and forth for a while, and therefore one would have to assume that we could keep doing that.</p>	
+	    <p>The 200-Day EMA sits just below the 1.2150 level, with the 50-Day EMA sitting just below there as well. However, that’s not the bottom of the range that I’m looking at, and it extends all the way down to the 1.1850 level. All things being equal, this is a market that is more likely than not going to stay in this range, and as we are closer to the top than the bottom, unless we get some type of extraordinarily dovish statement or action out of the Federal Reserve, which could send the dollar plunging.</p>	
+	    <p>However, at this point it’s all speculation and we need to see what ends up being the case with the Federal Reserve and what they are going to do. With this, a lot of caution will be needed, but if the Federal Reserve raises interest rates by 25 basis points and sounds like they are still looking to fight inflation, one would have to anticipate that the double top above will hold.</p>
+    </div>
+  },
+  {
+    id: 228,
+    title: 'EUR/USD Forecast – Euro Slams Into Resistance Ahead of FOMC',
+    category: 'Forex',
+    subCategory: ['USD', 'EUR', 'FOMC'],
+    description: <div className="blog-desc">
+      <p>The Euro has rallied a bit during the trading session on Wednesday to test the 1.08 level. The 1.08 level is an area that previously has been resistance, so it should be well known as an area that we could struggle at. Furthermore, the Euro has rallied rather drastically over the last couple of days, so you would have to keep in mind that we may see signs of exhaustion, and a FOMC meeting might be the perfect reason.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 22, 2023 - 5:18 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-235.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The Euro has rallied a bit during the trading session on Wednesday to test the 1.08 level. The 1.08 level is an area that previously has been resistance, so it should be well known as an area that we could struggle at. Furthermore, the Euro has rallied rather drastically over the last couple of days, so you would have to keep in mind that we may see signs of exhaustion, and a FOMC meeting might be the perfect reason.</p>
+	    <p>The Euro is now heading into an area that has been sold off rather aggressively, so it does make a certain amount of sense that we would see hesitation if we did rally. However, the FOMC meeting could change everything, so you need to be very cautious with putting big positions into the market. The market breaking above the 1.08 level would be very bullish, but again, there’s a lot of noise above that could cause significant selling pressure all the way up to the 1.0950 level.</p>	
+	    <p>The 50-Day EMA sits near the 1.0650 level and is rising. The 50-Day EMA is an indicator that a lot of people will pay attention to, so could be dynamic support. Any short-term pullback at this point will more likely than not offer value the people are willing to pay attention to, unless of course the Federal Reserve remains extraordinarily hawkish.</p>	
+	    <p>If that’s the case, then we could see the market could break down and go looking towards the 1.06 level. The 1.05 level underneath there would be massive support as well, and breaking down below that area would also be a break of the 200-Day EMA. That of course is a very negative sign and could send the market much lower. In that environment, we could be looking at a move down to the 1.03 level, perhaps down to the parity level.</p>
+      <p>Ultimately, this is a market that will be making a lot of decisions over the next couple of days that could be more permanent, but at this point it still looks like there is a lot of trouble above that could keep a bit of a lid on any Euro rally.</p>
+    </div>
+  },
+  {
+    id: 227,
+    title: 'AUDUSD Forecast – Australian Dollar Runs Into Resistance',
+    category: 'Forex',
+    subCategory: ['USD', 'AUD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has rallied during early hours on Wednesday as we wait for the FOMC meeting results and of course the interest rate situation afterwards. Ultimately, the 0.68 level is major resistance, which extends all the way down to the 0.67 level. This is a situation where we are more likely than not going to cause some issues, and therefore it’s likely that signs of exhaustion will be jumped on.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 22, 2023 - 5:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-234.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+      <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+      <p>The Australian dollar has rallied during early hours on Wednesday as we wait for the FOMC meeting results and of course the interest rate situation afterwards. Ultimately, the 0.68 level is major resistance, which extends all the way down to the 0.67 level. This is a situation where we are more likely than not going to cause some issues, and therefore it’s likely that signs of exhaustion will be jumped on.</p>	
+	    <p>The Australian dollar has rallied during early hours on Wednesday as we wait for the FOMC meeting results and of course the interest rate situation afterwards. Ultimately, the 0.68 level is major resistance, which extends all the way down to the 0.67 level. This is a situation where we are more likely than not going to cause some issues, and therefore it’s likely that signs of exhaustion will be jumped on.</p>
+	    <p>The 0.68 level above offers a significant amount of resistance that is now backed up by the 50-Day EMA, so that must be kept in the back of your mind at this point. Even if we do break out above there, the upside is somewhat limited due to the fact that there are plenty of areas of trouble above. That being said, the market will continue to be very noisy, and therefore it’s likely that we see sellers into the market center later. This makes quite a bit of sense considering that the Australian dollar is so highly levered to the global commodity market, which of course is levered to the global growth situation.</p>	
+	    <p>As things stand right now, the market is likely to continue to see a lot of back-and-forth and volatile concerns, meaning that the Australian dollar is probably going to suffer at the hands of US dollar strength. This will be especially true due to the fact that the FOMC meeting will more likely than not introduce another rate hike, and of course the statement and press conference will be paid close attention to as well. If Jerome Powell sounds hawkish, the Australian dollar will more likely than not be a major victim as there will be concerns about global recession, which is very toxic for the Aussie.</p>	
+	    <p>Furthermore, we have been in a downtrend for a while, so it’ll be interesting to see if this holds up. You could make an argument for a little bit of a rising wedge at the moment, which of course is a bearish candlestick pattern as well. Regardless, I think it’s probably a market that you do not want to be long of, so if you were looking to sell the US dollar against a currency, you may want to do that against another one.</p>
+    </div>
+  },
+  {
+    id: 243,
+    title: 'Australian Coal Finally Lands in Oversupplied Chinese Market',
+    category: 'Commodities',
+    subCategory: ['AUS', 'Coal', 'Chinese'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Australian coal is finally flowing to China, opening up another avenue for shipments in what’s shaping up as an increasingly oversupplied market this year.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 22, 2023 - 6:48 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-251.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- Australian coal is finally flowing to China, opening up another avenue for shipments in what’s shaping up as an increasingly oversupplied market this year.</p>
+	    <p>Some 207,000 tons arrived in China in February, including 73,000 tons of the higher-grade coking coal prized by steel mills, according to customs data. Although the total is just a sliver of China’s massive import haul of over 60 million tons so far this year, they’re Australia’s first new cargoes since Beijing imposed its unofficial ban in late 2020 after relations with Canberra soured.</p>	
+	    <p>Before the halt, Australia was China’s No. 2 overseas supplier after Indonesia. But that ranking has since been taken by Russia, which has seen its sales to China boom after other buyers shunned its product due to the invasion of Ukraine. Now, Australia is back in the mix, with imports that could rise to 20 million tons this year, according to one industry estimate.</p>	
+	    <p>Steelmakers in particular are likely to be glad of the extra supply after Mongolia, another key miner of coking coal, launched a new auction system that raised prices for Chinese buyers, according to industry news portal Yulin Coal Web.</p>
+      <p>But at the same time, China is mining record quantities of the fuel as it prioritizes energy security after a string of power outages in recent years. Output in the first two months climbed to 734 million tons. Including imports, Fengkuang Coal Logistics estimates that China had about 65 million tons of additional coal in the first two months compared to last year.</p>
+      <p>The extra supply is doubtless designed to feed the reopening of China’s economy after three years of Covid Zero restrictions. But Beijing’s modest growth targets, as well as plans to curtail steel output, suggest the fuel has been secured out of an abundance of caution that could end up pressuring prices, limiting any windfall to Australia’s miners.</p>
+      <p>The Week’s Diary</p>
+      <p>(All times Beijing unless noted.)</p>
+      <p>Wednesday, March 22</p>
+      <ul>
+        <li>President Xi Jinping’s visit to Russia concludes</li>
+        <li>Mysteel China Upstream Aluminum Summit in Chongqing, day 1</li>
+        <li>CCTD’s weekly online briefing on China’s coal market, 15:00</li>
+        <li>EARNINGS: China Resources Power, JA Solar</li>
+      </ul>
+      <p>Thursday, March 23</p>
+      <ul>
+        <li>Fubao Lithium Summit in Ningbo, Zhejiang, day 1</li>
+        <li>Mysteel China Upstream Aluminum Summit in Chongqing, day 2</li>
+        <li>EARNINGS: China Coal, China Oilfield Services</li>
+      </ul>
+      <p>Friday, March 24</p>
+      <ul>
+        <li>China weekly iron ore port stockpiles</li>
+        <li>Shanghai exchange weekly commodities inventory, ~15:30</li>
+        <li>Fubao Lithium Summit in Ningbo, Zhejiang, day 2</li>
+        <li>EARNINGS: China Shenhua, Zijin Mining, Jiangxi Copper, China Hongqiao</li>
+      </ul>
+      <p>On The Wire</p>
+      <p>China is likely to recover about half of its demand for liquefied natural gas this year after a drop in 2022, according to Vitol Group.</p>
+    </div>
+  },
+  {
+    id: 245,
+    title: 'Western Oil Companies To Bolster Presence In China’s Arch Rival',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Western', 'China'],
+    description: <div className="blog-desc">
+      <p>The signing of a memorandum of understanding (MoU) between India’s largest crude oil and natural gas company in India, Oil and Natural Gas Corp (ONGC), and France’s leading energy oil and gas firm, TotalEnergies, as recently tweeted by the French company, may open the way for a renewed push by Western companies in China’s arch rival in the Far East. This, in turn, might begin to shift momentum back into the US’s longstanding plans for India to act as a key counterbalance to China’s ever-increasing influence in the Indo-Pacific region.</p>
+    </div>,
+    authorName: 'Editor OilPrice.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 22, 2023 - 12:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-252.jpg',
+    content: <div className="blog-content">
+      <h3></h3>
+      <p>The signing of a memorandum of understanding (MoU) between India’s largest crude oil and natural gas company in India, Oil and Natural Gas Corp (ONGC), and France’s leading energy oil and gas firm, TotalEnergies, as recently tweeted by the French company, may open the way for a renewed push by Western companies in China’s arch rival in the Far East. This, in turn, might begin to shift momentum back into the US’s longstanding plans for India to act as a key counterbalance to China’s ever-increasing influence in the Indo-Pacific region.</p>
+      <p>The MoU between TotalEnergies and ONGC is geared towards the initial exploration of deepwater blocks, especially in and around Mahanadi and Andaman off India’s east coast, according to the French company’s tweet. Towards this end, ONGC last year also signed a heads of agreement with U.S. oil giant ExxonMobil for deepwater exploration on India’s east and west coasts. This latter deal will focus on the exploration of the Krishna Godavari and Cauvery Basins in the eastern offshore area and the Kutch-Mumbai region in the western offshore. According to ONGC’s director of exploration, Shri Rajesh Kumar Srivastava, the collaboration between it and ExxonMobil is likely to last for many years and will be a key part of ONGC’s ability to ensuring energy security for India.</p>
+	    <p>These long-term strategic energy partnerships between flagship Western oil companies and India are precisely what the U.S. had envisioned back in 2019 when it was putting together its ‘relationship normalisation deals’ initiative. This initiative had originated in the aftermath of the U.S.’s unilateral withdrawal from the Joint Comprehensive Plan of Action (JCPOA, or colloquially, ‘the nuclear deal’) in May 2018, as analysed in-depth in my latest book on the global oil markets. From that point, Israel’s concerns about Iran’s nuclear program escalated and the U.S. knew that any major attack by Israel against Iran could well be a catalyst for a broader conflict across the entire Middle East. This, in turn, could eventually draw China and Russia as key sponsors of Iran into direct opposition to the US, a key sponsor of Israel. The U.S. also knew that several of its remaining allies in the Middle East shared Israel’s fear about Iranian intentions following the U.S. withdrawal from the JCPOA. In an attempt to counterbalance these fears, the administration under then-U.S. President Donald Trump came up with the relationship normalisation deals initiative. On 13 August 2020, it was announced that Israel and the United Arab Emirates (UAE) would normalise relations in a deal that had been brokered by the US – the first of the relationship normalisation deals program.</p>
+    	<p>For the program to work effectively for the long term, though, the U.S. needed a substitute big buyer of energy to China be found that could form a unified oil and gas supply and demand network with the US and its allies at the centre, rather than China and Russia. Both Beijing and Moscow were targeting the same countries as the U.S., with the exception of Iran, and had two significant advantages over the U.S. in attracting politically wavering Middle Eastern countries to their sphere of influence. First, Russia was the key player – alongside Saudi Arabia – in the ‘OPEC+’ oil supply alliance. Second, China was the big buyer in the global oil demand pool. Therefore, the U.S. posited, the substitute buyer for China had to be big and full of promise, and the obvious candidate was India.</p>	
+    	<p>India’s role as the US counterpoint to China in the Indo-Pacific region was further underlined by data released in the first quarter of 2021 by the IEA. This showed that India would make up the biggest share of energy demand growth - at 25 percent - over the next two decades, as it overtook the European Union as the world’s third-biggest energy consumer by 2030. India’s energy consumption was expected to nearly double as the nation’s GDP expanded to an estimated USD8.6 trillion by 2040 under its national policy scenario. This was underpinned by a rate of GDP growth that added the equivalent of another Japan to the world economy by 2040, according to the IEA. Politically as well, there had been several developments – also analysed in-depth in my latest book on the global oil markets – that pointed to India finally making substantive progress on its ‘Neighbourhood First’ policy as an alternative to China’s ‘One Belt, One Road’ initiative.</p>	
+	    <p>The U.S.’s vision of the intertwining of the relationship normalisation deals initiative with the economic and political development of India was initially illustrated through an early series of major oil deals between the UAE and India. Perhaps the most notable of these was the landmark decision by India that allowed the Abu Dhabi National Oil Company (ADNOC) to export oil from the country’s vitally-important strategic petroleum reserves (SPR) if there was no domestic demand for it. This was in line with ADNOC being the only overseas company allowed to hold and store any part of India’s SPR. Another sign of the UAE and India developments moving in the way that the U.S. wanted for its ‘relationship normalisation deals’ model was ADNOC being put ‘top of the list’ of foreign companies being considered as the lead buyer in the high-profile privatisation of major Indian refiner, Bharat Petroleum. Russian state corporate proxy, Rosneft, had expressed an interest in buying the Indian government’s 53.29 percent stake in the company at that time but had been subsequently side-lined by ADNOC.</p>
+      <p>Since then, and especially in light of India’s equivocal stance on Russia just before and after its invasion of Ukraine in February 2022, questions have remained on which way India will jump in the reordering of the global oil markets that is currently underway. However, with the world’s third biggest oil importer and consumer, currently shipping in over 85% of its oil from overseas, India still remains in play as far as the West is concerned. The country is recovering economically from the effects of COVID-19 at a  slower pace than had been expected and is therefore looking to monetise its oil and gas resources as quickly as possible to minimise energy import costs. ExxonMobil’s prime position in several major sites and TotalEnergies’ new MoU have significantly bolstered the existing presence of Western firms in India to take advantage of this situation. September 2022 saw ONGC sign another agreement, with Chevron New Ventures (a subsidiary of U.S. energy giant, Chevron), to assess exploration potential in India. This deal is geared towards exploring the geologically challenging and difficult developments in Category-I, II and III of India’s sedimentary basins.</p>
+    </div>
+  },
+  {
+    id: 255,
+    title: 'Gold rush still on for 2023, precious metals outperforming market last 6 months',
+    category: 'Metals',
+    subCategory: ['Gold', 'Metals', 'market'],
+    description: <div className="blog-desc">
+      <p>Despite ongoing market volatility and a sluggish start to 2023, the price of gold and silver continues to outperform on Wall Street while maintaining an upward trend towards historic highs.</p>
+    </div>,
+    authorName: 'Joe Toppe',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 9:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-262.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Despite ongoing market volatility and a sluggish start to 2023, the price of gold and silver continues to outperform on Wall Street while maintaining an upward trend towards historic highs.</p>
+	    <p>A Kitco News' online survey showed gold could top out at a record $2,100 an ounce in 2023, and silver could jump more than 50% to reach $38 an ounce this year. However, since Jan. 1, gold has only recorded modest gains, as silver backpedaled beneath the redline over the same time.</p>	
+	    <p>The price of gold futures peaked at $2,014.90 on Monday before quickly retreating below the $2,000 marker, while silver continues to rally strong in recent weeks, rising roughly 4% the last month and another 3.1% the last week.</p>	
+	    <p>In an interview with FOX Business, Jonathan Rose, CEO of Genesis Gold Group, said, "Both gold and silver added 15% to 20% over the last six months, while the overall market was in the range of 2% to 4% growth."</p>
+      <p>"Things are just starting to heat up," he added. "In fact, the long-term projections in the precious metals market could get even higher."</p>
+      <p>"And regardless of the Fed's position, few Americans have faith that the U.S. dollar will strengthen, providing a strong case for allocating a portion of funds to a tangible and secure asset," Rose added.</p>
+      <p>Year-to-date, the U.S. dollar has slipped roughly 0.27% and is now just $0.93 of the euro and $0.82 of the pound sterling.</p>
+      <p>The Federal Reserve will announce another interest rate decision on Wednesday, after the latest bump placed rates in the range of 4.5% to 4.75%, notching the highest mark since 2007 and the eighth consecutive increase.</p>
+      <p>The interest rate hike in February followed a half-point jump in December and four 75-basis-point hikes earlier in 2022.</p>
+      <p>Rose said in light of several major banking institutions failing over the last few weeks, "you now have the government and Fed claiming they can orchestrate a soft landing."</p>
+      <p>"No one knows exactly what will happen in the future," he rebutted. "Historically speaking, you would be hard-pressed to find a more consistent option than precious metals to place your hard-earned money when the economy is crashing."</p>
+      <p>According to Morgan Stanley, "The volatility of silver prices can be two to three times greater than that of gold on a given day," due to the silver market being much smaller than the yellow metal’s, resulting in lower market liquidity.</p>
+      <p>However, silver’s increasing applications in industry could begin closing the gap in 2023, particularly as the automotive sector makes greater shifts to electric, and alternate forms of energy are harnessed through solar.</p>
+      <p>Meanwhile, gold remains the enduring metal on Wall Street because of its connection to currency alongside supply and demand factors, despite being primarily used in industry for its properties as a conductor in electronics manufacturing in both the aerospace and defense.</p>
+    </div>
+  },
+  {
+    id: 256,
+    title: 'Gold: Money from banking system absolutely did move away into gold, says strategist',
+    category: 'Metals',
+    subCategory: ['Gold', 'Money', 'Banking'],
+    description: <div className="blog-desc">
+      <p>Gold bugs have been waiting for this moment. The precious metal touched $2,000 an ounce on Monday amid a wobbly banking sector, elevated inflation, and expectations of a 25 basis point rate hike (or none at all) at the next Fed meeting.</p>
+    </div>,
+    authorName: 'Ines Ferré·Markets Reporter',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 6:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-263.jpg',
+    content: <div className="blog-content">
+	    <h3></h3>
+	    <p>Gold bugs have been waiting for this moment. The precious metal touched $2,000 an ounce on Monday amid a wobbly banking sector, elevated inflation, and expectations of a 25 basis point rate hike (or none at all) at the next Fed meeting.</p>
+	    <p>“When things get scary out there, investors run to safe havens, and gold is basically one of those major safe havens,” Gareth Soloway, chief market strategist at Inthemoneystocks.com and verifiedinvesting.com.</p>	
+	    <p>Gold futures (GC=F) are up 6% since the collapse of Silicon Valley Bank and the closure of Signature Bank of New York spurred concerns of a banking contagion. Europe’s Credit Suisse debacle also sent investors into assets like bitcoin and precious metals.</p>	
+	    <p>“We have seen kind of a flee from the banking system," said Soloway. “Money absolutely did move away into gold and that’s definitely one of those fear-factor trades that has helped gold go higher."</p>
+      <p>“Recent price gains have likely sapped some of the support for a further rally, even though the Fed is likely closer to their peak interest rate and the U.S. dollar may weaken further," Rob Haworth, senior investment strategist at U.S. Bank Wealth Management in Seattle told Yahoo Finance. "That said, the trend is likely to remain higher, especially as demand from Asia recovers as China reopens this year."</p>
+      <p>While gold bulls see the precious metal going past its previous record high of $2,074.88 some time before the end of 2023, the real fireworks are expected next year.</p>
+      <p>“By 2024, I would actually say we’ll get well above $3,000, maybe $3500,” said Soloway, who expects prices to reach $2,100 by the end of this year. “2024 will be the big year for gold. That’s going to be the monster up year.”</p>
+      <p>The future also looks bright for mining stocks, he said. Those underperformed last year as the costs to mine rose, but prices for the underlying metal did not.</p>
+      <p>"We will see inflation that is somewhat lightly elevated, but it's not going to be at the levels that it was over the last year or so, and with gold really starting to play catchup, the miners are going to do really well over the next couple of years," said Soloway.</p>
+    </div>
+  },
+  {
+    id: 236,
+    title: 'Oil Market Fundamentals Push Oil Prices Higher',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Market', 'Prices'],
+    description: <div className="blog-desc">
+      <p>Oil prices appear to have taken a break from focusing on macro events, with increasing demand and disruptions in supply pushing oil prices higher at the start of the week. The real news for oil markets this week, however, will come from the Fed's meeting.</p>
+    </div>,
+    authorName: 'Editor OilPrice.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 6:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-243.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>Oil prices appear to have taken a break from focusing on macro events, with increasing demand and disruptions in supply pushing oil prices higher at the start of the week. The real news for oil markets this week, however, will come from the Fed's meeting.</p>
+	    <p>- As French strikes are moving into their third week and at least four refineries are winding down operations due to blocked ports and overflowing stocks, Europe’s diesel woes are making a counter-seasonal comeback.</p>
+	    <p>- French refining, recording 990,000 b/d in the last reported month of January 2023, is heavily geared towards diesel, but cannot meet the country’s hefty 850,000 b/d demand for the product.</p>	
+    	<p>- Consequently, the spread between the prompt and second month of Europe’s diesel benchmark contract, the ICE low-sulfur diesel, rose to a premium of $35 per barrel, the highest since November 2022.</p>	
+	    <p>- France might be the epicenter of the diesel squeeze because the blockage of import terminals across the country is limiting diesel importers from buying products, with diesel imports falling 50% this month compared to February.</p>
+      <h3>Market Movers</h3>     
+      <p>- US LNG developer Sempra Energy (NYSE:SRE) has reached a final investment decision for the 13.5 mtpa capacity Phase 1 of the Port Arthur LNG project in Texas, estimating costs at $13 billion.</p>
+      <p>- Italian oil major ENI (BIT:ENI) made a new 200 million-barrel discovery with its Yatzil exploration well in Mexico’s offshore Block 7, hitting 40m of net oil pay some 40 miles off the coast.</p>
+      <p>- Warren Buffett’s Berkshire Hathaway (NYSE:BRK) conglomerate sped up its pace of stock buybacks, having already repurchased more than $1.8 billion of its stock in 2023 to date, suggesting the company is still undervalued.</p>
+      <p>Tuesday, March 21, 2023</p>
+      <p>Having survived the macro mayhem of last week, oil prices have marginally rebounded this week, with ICE Brent climbing toward $75 per barrel again. The perennial bulls have started to discuss the commodity supercycle again, while the UN published yet another report of a “ticking climate bomb”. For a second it might even feel like a return to the idyllic past when only supply and demand mattered. However, that feeling will likely be a brief one as the Fed starts its two-day meeting on Tuesday, potentially creating another downside factor for prices.</p>
+      <p><strong>US Oil Exports Hit Record Highs.</strong>US crude exports are set for an all-time high this month, with outflows to Europe averaging 2.1 million b/d so far as wide discounts for the WTI benchmark and a significantly lower domestic refining pull compel oil producers to export as much as they can.</p>
+      <p><strong>G7 Holds Back on Price Cap Revision.</strong>The G7 group is reportedly not seeking to revise the $60 per barrel price cap on Russian oil this week, three months after it came into effect on December 05, claiming there is no appetite among the members to alter policy.</p>
+      <p><strong>Gold Spikes to 1-Year High.</strong>Gold prices have spiked to their highest level since March 2022 this week on the back of banking collapses and a redirection of capital into safe-haven assets, hitting $2,009 per ounce in the Monday session, only to subside somewhat on</p>
+      <p><strong>French Refinery Disruptions Get Worse.</strong>Four out of France’s six refineries, a total of 883,000 b/d of refining capacity, are poised to halt operations this week as nationwide protests against President Macron’s decision to increase the retirement age to 64 years spiral out of control.</p>
+      <p><strong>Chevron Tanker Collides with Sanctioned Vessel.</strong>The Kerala oil tanker, chartered by US oil major Chevron (NYSE:CVX) to transport some of its heavy Venezuelan crude at the Bajo Grande terminal, collided with Bueno, a sanctioned vessel that had carried Iranian oil in the past, in Venezuelan waters.</p>
+      <p><strong>UK Oil Workers to Start Striking.</strong>Some 1,400 offshore workers brought together by the Unite trade union intend to strike across UK oil production sites within weeks, demanding better pay and work conditions, impacting output from fields operated by BP (NYSE:BP), Shell (LON:SHEL), and others.</p>
+      <p><strong>LME Suffers Another Scandal.</strong>Less than a year has passed since the LME’s nickel trading debacle, and the metal exchange has now found bags of stones instead of the nickel that was supposed to underpin some of its contracts at a warehouse in Rotterdam, dealing another blow to the 146-year-old exchange.</p>
+      <p><strong>Indigenous Protests Hinder Ecuador Production.</strong>Protests by indigenous communities in Ecuador’s Oriente jungle have forced the country’s national oil firm Petroecuador to declare force majeure on production there, aggravated by a 6.8-magnitude earthquake that triggered power outages.</p>
+      <p><strong>Mexico to Punish Its Own Refiner.</strong>The state authorities of the Nuevo Leon state in Mexico warned they would penalize national oil company Pemex for a dramatic increase in emissions coming out of its Cadereyta refinery, responsible for 90% of sulfur dioxide emissions in and around Monterrey.</p>
+      <p><strong>BP Eyes Chinese CCUS Projects.</strong>UK energy major BP (NYSE:BP) signed an agreement with China’s state-owned oil company PetroChina (SHA:601857) to build a carbon capture, utilization and storage (CCUS) cluster in the country’s Hainan province, potentially storing some 1 million tons CO2.</p>
+      <p><strong>Exxon Wants to Get More Out of Mozambique.</strong></p>
+      <p><strong></strong>Having shelved the Rovuma LNG project in Mozambique after an Islamic State insurgency, US oil major ExxonMobil (NYSE:XOM) is now looking to revive the project and increase its production capacity from the initial 15.2mtpa to 18mtpa.</p>
+      <p><strong>Venezuelan Oil Minister Resigns.</strong>Venezuela’s oil minister Tareck El Aissami handed in his resignation this week after a corruption investigation into the operation of state oil company PDVSA by its new boss unearthed serious acts of corruption, linked to the disappearance of $3-5 billion in cryptocurrency.</p>
+      <p><strong>EU Wants to Extend Gas Cut Mandates.</strong>The European Commission proposed an extension of gas consumption mandates for EU member states to have gas demand cut by 15% for another 12 months, wary that natural gas markets remain tight despite the exceptionally warm winter.</p>
+    </div>
+  },
+  {
+    id: 226,
+    title: 'USD/JPY Forecast – US Dollar Rallies Against Japanese Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied a bit during the trading session on Tuesday, to reach toward the sea ¥132.50 level. This is the top of the range from the previous session, suggesting that perhaps we are trying to figure out whether or not we can kick off the uptrend again. The 50-Day EMA is starting to break down below the 200-Day EMA, kicking off another bearish signal. Nonetheless, the reality is that both moving averages are essentially flat, and therefore it suggests that we are going to go back and forth.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 5:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-233.jpg',
+    content: <div className="blog-content">
+      <p>In this article</p>
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+      <p>The US dollar has rallied a bit during the trading session on Tuesday, to reach toward the sea ¥132.50 level. This is the top of the range from the previous session, suggesting that perhaps we are trying to figure out whether or not we can kick off the uptrend again. The 50-Day EMA is starting to break down below the 200-Day EMA, kicking off another bearish signal. Nonetheless, the reality is that both moving averages are essentially flat, and therefore it suggests that we are going to go back and forth.</p>
+	    <p>The ¥135 level above is a major resistance barrier, but I do think that’s where we attempt to get to before it’s all said and done. This will be especially true when it comes down to what’s going on with the bond market, as the Bank of Japan continues to fight higher interest rates. That being said, interest rates have been dropping as of late, and that’s part of what has pushed the value of the Japanese yen higher at one point.</p>
+	    <p>Underneath, the ¥130 level is an area where I think a lot of people will be paying close attention to, as it is a large, round, psychologically significant figure. Underneath there, we have the double bottom that formed at the ¥127.50 area. It’s also where the 50% Fibonacci level from the huge move last year, and therefore it makes a certain amount of sense that the market will pay close attention to it. That being said, the most important factor to keep in the back of your mind is that the Federal Reserve has a meeting on Wednesday, and therefore it’s likely that we will be paying close attention to it for hints as to where the Federal Reserve is going next.</p>	
+	    <p>After all, there have been tremors in the global financial system, so a lot of people are hoping that the Federal Reserve will not raise interest rates very much, or at all. However, with inflation running as rapid as it is, it’s very difficult to imagine a scenario where they do not. As they raise interest rates, rates could very well right across the board, putting more downward pressure on the yen and allow this pair to go higher.</p>
+    </div>
+  },
+  {
+    id: 225,
+    title: 'EUR/USD Forecast – Euro Rallies Towards Resistance',
+    category: 'Forex',
+    subCategory: ['', '', ''],
+    description: <div className="blog-desc">
+      <p>The Euro has rallied a bit during the trading session on Tuesday to reach the 1.08 level. That being said, this is an area that should be a significant amount of resistance all the way up to the 1.10 level, and with the Federal Reserve meeting coming on Wednesday, I suspect that we could be setting up for a trade. A lot of this will come down to whether or not Jerome Powell is hawkish or dovish, and what they do as far as interest rates are concerned. There is consensus across the board that nobody really knows, and I think that’s probably part of what you are seeing here.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 5:04 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-232.jpg',
+    content: <div className="blog-content">
+    <p>In this article</p>
+	  <h3>Euro vs US Dollar Technical Analysis</h3>
+	  <p>The Euro has rallied a bit during the trading session on Tuesday to reach the 1.08 level. That being said, this is an area that should be a significant amount of resistance all the way up to the 1.10 level, and with the Federal Reserve meeting coming on Wednesday, I suspect that we could be setting up for a trade. A lot of this will come down to whether or not Jerome Powell is hawkish or dovish, and what they do as far as interest rates are concerned. There is consensus across the board that nobody really knows, and I think that’s probably part of what you are seeing here.</p>
+	  <p>While Wall Street and various large firms want the Federal Reserve to stop raising rates, the reality might be something different. After all, they start to worry about inflation, and if they choose to loosen monetary policy again, that will almost certainly kick off even more inflation. That being said, the market has been arguing with the Fed for a while, and now that we have had a couple of banks failed, they believe that the Fed simply “must loosen” sooner than later.</p>	
+	  <p>The market has sold the US dollar as of late, but if Jerome Powell and company surprise everyone, and stay extraordinarily hawkish, that could send this market plunging. I do think that the next couple of trading sessions could be rather important, so therefore we need to be watching how the market behaves. Any sign of exhaustion between now and 1.09 has to be looked at with suspicion, as it’s an area where we have seen an impulsive move lower, as the market started to plunge. It’s probably worth noting that we bounced from the 200-Day EMA, so that of course is a bullish sign, but right now it could be a target if we break down. On the other hand, if we do rally from here, you need to be cautious of the 1.10 level above, because if we were to somehow break above there, that could open up a huge leg higher in the Euro. That would almost certainly involve the Federal Reserve changing its overall tune.</p>
+    </div>
+  },
+  {
+    id: 224,
+    title: 'AUDUSD Forecast – Australian Dollar Pulls Back From Resistance Barrier',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Pulls Back'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has pulled back a bit against the US dollar during trading on Tuesday, as traders are going to have to start focusing on the FOMC Meeting for the Wednesday session. After all, the entire world seems to be paying attention to whether or not the Federal Reserve will raise interest rates, and by how much. Currently, there is the overall expectations that the Federal Reserve will raise by 25 basis points, but there are some out there that believe it could be 50 basis points, while others believe that they will have to stop raising rates altogether.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 4:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-231.jpg',
+    content: <div className="blog-content">
+  	<h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	  <p>The Australian dollar has pulled back a bit against the US dollar during trading on Tuesday, as traders are going to have to start focusing on the FOMC Meeting for the Wednesday session. After all, the entire world seems to be paying attention to whether or not the Federal Reserve will raise interest rates, and by how much. Currently, there is the overall expectations that the Federal Reserve will raise by 25 basis points, but there are some out there that believe it could be 50 basis points, while others believe that they will have to stop raising rates altogether.</p>
+	  <p>With that being said, the next 24 hours could be a bit lackadaisical, but it’s also worth noting that the area just above is major resistance as well, so therefore I do tend to favor the downside at this point. The market seems to have a block of resistance between 0.67 and 0.68, therefore I would be surprised to get above there before we get to the meeting itself. If we break down below the 0.6650 level, then we could drift down to the 0.66 level. I anticipate that the next 24 hours could be very sideways, so I would not put too much money to work right away. However, it’ll be interesting to see whether or not people are willing to put money to work.</p>	
+	  <p>Keep in mind that the Australian dollar is highly sensitive to risk appetite and commodities around the world, so that obviously will have its influence as per usual. Beyond that, risk appetite in general needs to be seen in order for the Australian dollar to really start to rally, so if we get some type a surprise move, that would obviously be very bullish for risk appetite in general. Nonetheless, most of the move that we have seen earlier in the day makes sense, because a lot of people will not want to be overly exposed to price fluctuations as there are too many unknowns. More likely than not, if you are a short-term trader, you are looking at this through the prism of range bound opportunities on short-term charts between now and the meeting.</p>
+    </div>
+  },
+  {
+    id: 223,
+    title: 'UK government borrowing hits February record on energy bill help',
+    category: 'Forex',
+    subCategory: ['UK', 'Energy', 'borrowing'],
+    description: <div className="blog-desc">
+      <p>UK public sector borrowing hit a new record in February, driven by the cost of the government’s energy support schemes.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 12:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-230.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>UK public sector borrowing hit a new record in February, driven by the cost of the government’s energy support schemes.</p>
+      <p>Borrowing, the difference between spending and tax income, was £16.7bn, last month, the Office for National Statistics (ONS) said.</p>
+	    <p>The ONS said the extra spending on energy subsidies in February 2023 compared with a year earlier was estimated to be about £9.3bn.</p>
+	    <p>The cost of energy support has now reached about £34bn since it was put in place last October.</p>	
+	    <p>The Treasury kept household energy bills at £2,500 a year on average under its Energy Support Scheme.</p>	
+      <p>The latest ONS data also revealed that £6.9bn of interest payable on debt also pushed February borrowing higher, although this was down by £1.3bn — the first fall in debt interest payments since April 2021 due to easing inflation.</p>
+	    <p>Public sector borrowing was the highest February figure since monthly records began in 1993 and higher than the £11.7bn expected by most economists. It takes the year-to-date total to £132.2bn</p>
+      <p>Chancellor Jeremy Hunt said borrowing was "still high" because the government was supporting households with the rising cost of living.</p>
+      <p>Hunt said: “Borrowing is still high because we’re determined to support households and businesses with rising prices and are spending about £1,500 per household to pay just under half of people’s energy bills this winter.</p>
+      <p>The ONS said £5bn was raised through the new windfall tax on UK energy company profits. Tax income was also £5bn higher than a year ago at £77.8bn.</p>
+      <p>“What will bring these costs right down is lower inflation, which is why it remains one of our top priorities to halve it this year, alongside growing our economy and reducing debt.”</p>
+    </div>
+  },
+  {
+    id: 222,
+    title: 'Rupee rangebound on caution ahead of Fed meeting, future commentary key',
+    category: 'Forex',
+    subCategory: ['Rupee', 'Fed', 'commentary key'],
+    description: <div className="blog-desc">
+      <p>MUMBAI (Reuters) - The Indian rupee ended little changed on Tuesday, as investors were wary ahead of a pivotal U.S. Federal Reserve bank meeting decision, amid major economies grappling with a banking sector crisis.</p>
+    </div>,
+    authorName: 'Anushka Trivedi',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 9:44 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-229.jpg',
+    content: <div className="blog-content">
+      <p>By Anushka Trivedi</p>
+      <p>MUMBAI (Reuters) - The Indian rupee ended little changed on Tuesday, as investors were wary ahead of a pivotal U.S. Federal Reserve bank meeting decision, amid major economies grappling with a banking sector crisis.</p>
+	    <p>The rupee ended at 82.6550 per dollar, compared to its previous close of 82.6350. It moved in a narrow 15 paisa range all day.</p>
+	    <p>Initial dollar bids from large state-run corporates and lacklustre trading volumes ahead of the Fed meeting led to the rupee staying contained in a range, said two traders.</p>	
+	    <p>Heading into the risk event, traders said they built "slightly" long USD/INR positions as foreign exchange markets are shut in India on Wednesday.</p>	
+	    <p>Asian currencies were flat to marginally higher, tracking a sombre dollar index.</p>
+      <p>Focus shifts to the Fed decision, due Wednesday, with investors going back to expecting a 25 basis point (bps) interest rate hike amid relative calm after a crisis emanating from Credit Suisse and U.S. mid-sized lenders had roiled financial markets over the past week.</p>
+      <p>Fed funds repricing has been quite volatile off late, and at one point on Monday it indicated higher chances of a pause than a hike, fuelled by global central banks pledging liquidity support in the wake of the banking crisis.</p>
+      <p>"A 25 bps move...can either be read as a sign of confidence in the financial sector and a reiteration of the inflation focus or as a policy misjudgement that could accelerate banking troubles," ING analysts said in a note.</p>
+      <p>"On the flip side, a hold may either reassure investors or be interpreted as a de-facto sign of alarm."</p>
+      <p>Clear direction is possible only from the Fed's commentary and the dot plot, said a foreign bank trader.</p>
+    </div>
+  },
+  {
+    id: 257,
+    title: 'Gold is Pushing $2000: 2 Stocks to Trade the Breakout',
+    category: 'Metals',
+    subCategory: ['Gold', 'stocks', 'Trade`'],
+    description: <div className="blog-desc">
+      <p>High inflation, a banking crisis, rising interest rates, and geopolitical tensions; it’s no wonder gold is finding a bid. Is this rally going to fade or is it signal of what is to come?</p>
+    </div>,
+    authorName: 'Ethan Feller',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 1:37 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-264.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>High inflation, a banking crisis, rising interest rates, and geopolitical tensions; it’s no wonder gold is finding a bid. Is this rally going to fade or is it signal of what is to come?</p>
+	    <p>Gold is a bit of an oddball asset and is shrouded by conspiracy and half-truths. While commonly regarded as an inflation hedge, it doesn’t actually correlate very well with the rate of inflation. In 2022, we saw that during the worst bout of inflation in 50 years, gold prices were unchanged over the year. Nonetheless, gold has continuously grinded higher over the last two decades in line with the expansion of central bank balance sheets.</p>	
+	    <p>Gold, while not a great stand-alone investment can provide some valuable portfolio diversification. Its returns are generally quite lumpy, but often provides standout performance during periods of very high market stress.</p>
+      <h3>Technical Setup</h3>	
+      <p>A long-term price chart of gold futures shows a compelling technical chart pattern has developed over the last 10 years. A prototypical cup and handle pattern indicates there may be more room to run for the yellow metal.</p>
+	    <p>A monthly close above $2000 signals a breakout that can extend to $2400, although a reversal back into the range would invalidate the setup.</p>
+      <h3>Barrick Gold</h3>
+      <p>Barrick Gold GOLD, based in Toronto, Canada, is the largest gold mining company in the world. GOLD has many advanced exploration and development projects located across five continents. The company produced 4.1 million ounces of gold in 2022 and has 76 million ounces of proven and probable gold reserves.</p>
+      <p>Barrick Gold currently earns a Zacks Rank #3 (Hold), indicating a mixed earnings revision trend. We can see that the current and next quarter have seen some small revisions lower, but the current year and next year are looking higher. Furthermore, the major factor determining Barrick’s returns are going to be the price of gold. Thus, if we see continued strength in gold prices, Barrick should follow.</p>
+      <p>So far this year Barrick Gold is up 8% and trading in line with the underlying commodity. Over the last year GOLD stock is down -22% considerably underperforming gold.</p>
+      <p>GOLD is currently trading at a one-year forward earnings multiple of 20x, which is below the industry average of 22x and below its own five-year median of 21x. Additionally, Barrick Gold has a dividend yield of 2.3%, and has raised its dividend an average of 30% annually over the last five years. Barrick Gold’s dividend yield can make the stock more compelling than the underlying commodity because gold has no cash flow.</p>
+      <h3>Yamana Gold</h3>
+      <p>Yamana Gold AUY is another Canada based gold producer. It operates both gold and copper exploration and development sites in North America, Brazil, Chile and Argentina.</p>
+      <p>Over the last five years Yamana Gold stock has performed quite well, outperforming both its respective industry and the broad market. AUY also offers a dividend yield of 2%, which it has increased by an average of 44% annually over the last three years.</p>
+      <p>AUY boasts a Zacks Rank #2 (Buy), indicating upward trending earnings revisions. Over the last 60 days analysts have raised earnings expectations for all future earnings periods.</p>
+      <p>The company’s EPS surprised to the upside by 25% last quarter. Additionally, AUY has a history of beating earnings expectations having missed only once over the last five years.</p>
+      <p>Currently trading at 19x one-year forward earnings AUY is above its three-year median of 17x, and below the industry average of 22x.</p>
+      <h3>Additional Picks</h3>
+      <p>There are two additional options for adding exposure to gold. The first is through the most popular gold ETF GLD, which does a good job of tracking the underlying price of gold.</p>
+      <p>The second option is the gold miners ETF GDX. This ETF holds a portfolio of gold mining companies like the ones featured here. GDX is generally more volatile than the underlying commodity, which can be great if you time it correctly with a rally, or painful if the timing is poor.</p>
+      <p>With Gold breaking out above $2000 there is no doubt that we are going through unprecedented times. Even if you aren’t trading gold as it stands now, at the least it can be used as an indication of the state of capital markets. If investors are reaching for gold, you can assume uncertainty is on the rise.</p>
+    </div>
+  },
+  {
+    id: 267,
+    title: 'FTSE 100 falls after Credit Suisse sold to UBS in emergency rescue deal',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Credit Suisse', 'UBS'],
+    description: <div className="blog-desc">
+      <p>Britain’s FTSE 100 plunged by nearly 2 per cent in early morning trading on Monday despite UBS’s £2.7 billion rescue deal to save troubled lender Credit Suisse.</p>
+    </div>,
+    authorName: 'Thomas Kingsley and Matt Mathers',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 21, 2023 - 1:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-274.jpg',
+    content: <div className="blog-content">
+      <h3>In this article</h3>
+      <p>Britain’s FTSE 100 plunged by nearly 2 per cent in early morning trading on Monday despite UBS’s £2.7 billion rescue deal to save troubled lender Credit Suisse.</p>
+      <p>The takeover, announced on Sunday night, failed to convince spooked investors concerned about another meltdown in the global banking system, with 129 points shaved off the value of the 100 biggest firms listed in the UK.</p>
+      <p>The FTSE 250 was also down 1 per cent, with banking stocks across the two indexes slumping by 5.3 per cent.</p>
+      <p>By 2pm in London, the FTSE 100 was around 0.6 per cent higher for the session, with early session gains seen also on the Dow Jones and S&P 500 on Wall Street.</p>
+      <p>Nevertheless, market worries continued to particularly hit other banking stocks, which led the fallers in London and Europe’s other key markets.</p>
+      <p>The recent collapse of US-headquartered Silicon Valley Bank has continued to send shockwaves through the banking sector, bringing back grim memories of the 2008 financial crash which had major implications for economies across the globe.</p>
+      <p>Regulators in Washington - and in London, where SVB had a UK division - stepped in to guarantee customer deposits in the failed tech lender but the moves have so far failed to calm market jitters.</p>
+      <p>Credit Suisse, founded in 1856 and which had managed more than £1 trillion in assets, has had troubles for years but appears to have been tipped over the age by SVB’s collapse.</p>
+      <p>It was hoped that the sale of the Swiss bank - the country’s second-biggest lender and viewed by some analysts as ‘too important to fail’ - would calm anxieties in the markets but there was no evidence of that on Monday morning.</p>
+      <p>Markets in Asia were struggling earlier in the morning, with shares in Hong Kong falling by more than 3 per cent as the banking sector took a battering.</p>
+	    <p>“With Credit Suisse shareholders and some bondholders taking a huge hit, banks in Asia have taken a hit on similar concerns about (some of their) bond-holding values,” said Michael Hewson, chief market analyst at CMC Markets.</p>
+	    <p>“While the weekend deal still presents the Swiss National Bank and Swiss Government with untold headaches, with the size of the newly merged bank set to dwarf the size of the Swiss economy.</p>	
+	    <p>“The phrase too big to fail really does spring to mind here, and this morning’s weakness in Asia markets serves to reinforce concerns about these types of writedowns and any spillover effects on the rest of the banking sector.”</p>	
+	    <p>The Credit Suisse deal was announced on Sunday evening, as UBS agreed to pay around £2.7 billion for its former rival. The deal was brokered by the same Swiss regulators which had on Wednesday said they would lend up to £45 billion to Credit Suisse to keep it afloat.</p>
+      <p>“Having come off the worst week for European equity markets this year, volatility looks set to continue this week now that the fate of Credit Suisse appears to have finally been sealed,” Mr Hewson said.</p>
+      <p>UBS’s merger was welcomed internationally, with the US Federal Reserve and Treasury saying Switzerland had moved to “support financial stability”. British chancellor Jeremy Hunt and the Bank of England have also hailed the deal.</p>
+      <p>The 167-year-old Credit Suisse was brought to the brink of financial calamity last week despite a £45bn emergency loan from Switzerland’s central bank.</p>
+      <p>The deal was made in tandem with six major central banks, including the Bank of England, taking coordinated action to boost dollar flows to help stem the crisis of confidence gripping more lenders.</p>
+      <p>The so-called swap line arrangement, involving the US Federal Reserve, Bank of Japan, European Central Bank, Bank of Canada and Swiss National Bank (SNB) aimed to "enhance the provision of liquidity" and the "smooth functioning of US dollar funding markets".</p>
+      <p>It was hoped that the seven-day-a-week facility, which is due to run until at least the end of April, will be enough to bolster market confidence over the health of other banks, particularly US regional lenders.</p>
+      <p>Switzerland said the Credit Suisse deal, which was essentially forced on UBS, was aimed at shoring up confidence in the market.</p>
+      <p>UBS’s own shares took a 12 per cent hit in the aftermath of the deal. Deutsche Bank was down 10 per cent, Barclays fell 6 per cent and Lloyds saw a tumble of 4 per cent.</p>
+      <p>Credit Suisse employs around 5,500 people in the UK, but authorities here were keen to stress on Sunday that the country’s financial system is still safe.</p>
+      <p>The Bank of England said: "We welcome the comprehensive set of actions set out by the Swiss authorities today in order to support financial stability.</p>
+      <p>"We have been engaging closely with international counterparts throughout the preparations for today’s announcements and will continue to support their implementation.</p>
+      <p>"The UK banking system is well capitalised and funded, and remains safe and sound."</p>
+      <p>UBS said job losses were expected at Credit Suisse’s UK office after the historic sale of the Swiss bank, with an impact on the lender’s British workers seen as being “inevitable”.</p>
+      <p>The former chief executive of UBS in the UK, Mark Yallop, said he thinks job losses will be “inevitable” as a result of the merger and chopping down the investment bank.</p>
+      <p>He told the BBC’s Today programme: “The two firms together employ about 120,000 staff, of which about 11,000 sit in London, and I think it’s inevitable that a merger of this sort will result in some further job losses.</p>
+      <p>“I would imagine those would be concentrated in the risky investment banking business at Credit Suisse which is partly the cause of the problems the firms is experiencing.</p>
+      <p>“And in middle-office, technology and operational roles where bringing two firms together will mean you can run one bigger firm, without doubling up the infrastructure needed to manage it.”</p>
+    </div>
+  },
+  {
+    id: 260,
+    title: 'Gold drops from 1-year peak as banking fragility drives wild swings',
+    category: 'Metals',
+    subCategory: ['Gold', 'Banking', 'peak'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices retreated from their highest level in a year in volatile trading on Monday, as share markets and Treasury yields bounced back on central banks' efforts to shore up confidence in the financial sector.</p>
+    </div>,
+    authorName: 'Seher Dareen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 20, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-267.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+    	<p>By Seher Dareen</p>
+    	<p>(Reuters) - Gold prices retreated from their highest level in a year in volatile trading on Monday, as share markets and Treasury yields bounced back on central banks' efforts to shore up confidence in the financial sector.</p>	
+    	<p>Spot gold dipped 0.5% to $1,977.18 per ounce by 1:57 p.m. EDT (1757 GMT), after sliding over 1%, while U.S. gold futures rose 0.5% to settle at $1,982.80.</p>	
+    	<p>Earlier in the session, prices of the yellow metal had climbed 1% to their highest since March 2022 at $2,009.59, just shy of a record set during the onset of the COVID-19 pandemic.</p>
+      <p>"While emergency efforts are being done... now you're seeing that this is far from over. Safe-haven flows are fairly going to be the key trade," Edward Moya, senior market analyst at OANDA, said.</p>
+      <p>In an effort to help the banking sector, top central banks moved on Sunday to bolster the flow of cash around the world.</p>
+      <p>Benchmark Treasury yields rose close to their session highs, while equities bounced back on the rescue of Credit Suisse which helped calm some jitters around a bigger banking crisis. [.N] [US/]</p>
+      <p>Gold prices have rallied more than $100 after the collapse of U.S.-based Silicon Valley Bank earlier this month.</p>
+      <p>"Today's rejection above $2,000 may trigger some profit-taking, but in our opinion not a change in direction," Ole Hansen, head of commodity strategy at Saxo Bank, said in a note, adding he maintains a bullish outlook on gold.</p>
+      <p>Bullion is considered a safe-haven asset during financial uncertainty, and lower interest rates reduce the opportunity cost of holding the non-yielding bullion, making it more attractive.</p>
+      <p>A key U.S. central bank policy announcement is due on Wednesday. Market participants are mixed on the Federal Reserve's decision, while bets for a rate-hike pause have increased.</p>
+      <p>Spot silver fell 0.4% to $22.50 per ounce, platinum firmed 1.1% at $986.27, and palladium dipped 0.5% to $1,413.08.</p>
+    </div>
+  },
+  {
+    id: 258,
+    title: 'Can Gold ETFs Continue Their Winning Run?',
+    category: 'Metals',
+    subCategory: ['Gold', 'ETFs', 'Market'],
+    description: <div className="blog-desc">
+      <p>After wild swings, gold showed a strong rebound last week. SPDR Gold Shares GLD added more than 4% last week and 7.3% past month. The subdued U.S. dollar and a decline in U.S. treasury bond yields bolstered the demand for the yellow metal. Additionally, the demand for inflation hedge and growing recession fears are driving investors toward gold, as it is considered a safe haven.</p>
+    </div>,
+    authorName: 'Sanghamitra Saha',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 20, 2023 - 9:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-265.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>After wild swings, gold showed a strong rebound last week. SPDR Gold Shares GLD added more than 4% last week and 7.3% past month. The subdued U.S. dollar and a decline in U.S. treasury bond yields bolstered the demand for the yellow metal. Additionally, the demand for inflation hedge and growing recession fears are driving investors toward gold, as it is considered a safe haven.</p>
+    	<p>As such, gold ETF rallied over the last week with GraniteShares Gold Trust BAR, iShares Gold Trust IAU, SPDR Gold Shares (GLD), iShares Gold Strategy ETF IAUF, and Aberdeen Standard Physical Swiss Gold Shares ETF SGOL gaining about 5% each.</p>	
+    	<h3>Factors Driving Gold Price</h3>
+      <p>The combination of factors is acting as a catalyst for gold price. Wall Street has been witnessing high volatility lately due to failures of regional banks like Silicon Valley Bank, Signature Bank and Silvergate Bank. While First Republic Bank secured a $30 billion rescue package from other big banks, its fate is still unclear.</p>	
+    	<p>The crisis spread to the global market. And European banking behemoth Credit Suisse is also operating at the edge. The flagship Swiss lender's shares nosedived on fears of a debt default. Finally, UBS has purchased the struggling Credit Suisse for more than $3 billion in a historic deal. Such crisis has every reason for a flight to safety, which has bolstered the demand for safe haven asset gold.</p>
+      <p>In fact, other safe assets like U.S. treasuries gained too, dragging down bond yields. As U.S. treasury yields dropped last week, the greenback has lost its strength. The U.S. benchmark treasury yield started the month at 4.01%, hit a high of 4.08% and ended last week at 3.39%. Traders expect the Fed to raise its benchmark lending rate this week but by a smaller margin of a 25 bps. A decline in bond yields went in favor of non-interest-paying assets like gold.</p>
+      <p>If the pace of Fed rate hike slows, the U.S. dollar is likely to decline ahead. If the greenback falls, gold prices will gain as the metal is priced in the U.S. dollar. Moreover, ongoing geopolitical tensions in the East Europe and tensed relationship between United States and China may boost the safe-haven status of gold.</p>
+      <h3>Bottom Line</h3>
+      <p>The gold’s rally from here depends on the Fed’s behavior and the government’s ability to tackle the banking crisis. If the U.S. economic growth slows materially, jobs market suffers and the banking crisis deepens, the Fed will likely be staying put in the coming months. This would be a good new for gold investing. Gold investors should closely watch the economic and market events before taking any decision.</p>
+    </div>
+  },
+  {
+    id: 259,
+    title: 'Gold Declines as Traders Assess Banking Crisis, Fed Rate Path',
+    category: 'Metals',
+    subCategory: ['Gold', 'Banking', 'Trade'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Gold slipped after earlier rising above $2,000 an ounce for the first time in a year as a deal to buy Credit Suisse Group AG failed to fully ease fears over the global banking sector.</p>
+    </div>,
+    authorName: 'Yvonne Yue Li and Eddie Spence',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 20, 2023 - 8:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-266.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- Gold slipped after earlier rising above $2,000 an ounce for the first time in a year as a deal to buy Credit Suisse Group AG failed to fully ease fears over the global banking sector.</p>
+	    <p>The haven earlier rose as much as 1% despite regulators worldwide rushing to shore up market confidence over the weekend. The ongoing banking woes are also spurring bets that central banks may embark on a slower pace of monetary tightening.</p>	
+	    <p>Read More: UBS to Buy Credit Suisse in $3 Billion Deal to Fight Crisis</p>	
+	    <p>Bullion surged 6.5% last week in its biggest advance since early on in the pandemic after several regional American lenders collapsed and concerns grew over the Swiss bank’s health.</p>
+      <p>“The treatment of AT1 bonds has introduced a new source of uncertainty,” Marcus Garvey, head of metals strategy at Macquarie Group Ltd., wrote in a note. “The longer uncertainty rolls on, with neither market fears being wholly calmed nor a full-blown systematic crisis unfolding, the higher gold prices should be able to trade.”</p>
+      <p>It’s a sharp turnaround for bullion, which slid last month on expectations the Federal Reserve would continue its aggressive monetary tightening to curb inflation. Those bets have since been greatly diminished, with swaps traders now split on whether the central bank will hike again this year.</p>
+      <p>That’s a boon for non-yielding gold, and investors have responded by increasing their allocations to the market. In tonnage terms, exchange-traded fund holdings of the metal rose the most since April last week, according to an initial tally by Bloomberg.</p>
+      <p>All eyes will now shift to the Fed’s two-day meeting that culminates Wednesday, “where the outcome is going to be the most difficult to predict in years,” said Ole Hansen, head of commodities strategy at Saxo Bank A/S. A shift to a more dovish outlook from policymakers at a time when inflation remains hot could push gold even higher.</p>
+      <p>Spot gold fell 0.5% to $1,978.64 an ounce as of 12:20 p.m. in New York, after earlier climbing as high as $2,009.73. The last time bullion traded above the $2,000 mark was in March 2022. The Bloomberg Dollar Spot Index was 0.4% lower. Silver and palladium dropped, while platinum gained.</p>
+      <p>Copper traded on the London Metal Exchange advanced as risk appetite improved moderately. Most other base metals were higher.</p>
+    </div>
+  },
+  {
+    id: 246,
+    title: 'Commodities Under Pressure as Focus Remains on Banking Crisis',
+    category: 'Commodities',
+    subCategory: ['Banking ', 'Crisis', 'commodities'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Many commodities remained under pressure in the wake of UBS Group AG’s emergency purchase of Credit Suisse Group AG that aims to contain a banking crisis hurting the appeal of risk assets.</p>
+    </div>,
+    authorName: 'Rob Verdonck and Nicholas Larkin',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 20, 2023 - 3:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-253.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <p>(Bloomberg) -- Many commodities remained under pressure in the wake of UBS Group AG’s emergency purchase of Credit Suisse Group AG that aims to contain a banking crisis hurting the appeal of risk assets.</p>
+      <p>Oil sank, with the US benchmark plunging below $65 a barrel to the lowest since late 2021. Grains fell and European gas hit the lowest in more than 1 1/2 years, though copper rose amid a mixed session for industrial metals. Gold — which benefited from the banking turmoil with a 6.5% surge last week — eased after topping $2,000 an ounce for the first time in a year on haven demand.</p>
+	    <p>After reaching a record last year following Russia’s invasion of Ukraine, the Bloomberg Commodities Spot Index has dropped by more than a quarter as concerns over a global slowdown, higher interest rates, and a huge selloff in natural gas dragged the gauge lower. The upheaval in the banking sector — marked by the swift collapse of several US lenders and subsequent crisis at Credit Suisse — then deepened the rout, although bullion was a beneficiary.</p>
+	    <p>With a crisis of confidence threatening to spread across financial markets, the Swiss government brokered the deal for Credit Suisse over the weekend, including a guarantee for potential losses from the assets UBS is taking over. The Federal Reserve and five other central banks also announced coordinated action to boost liquidity in US dollar swap arrangements to ease strains in the financial system.</p>	
+	    <p>Following those efforts, financial markets came under further pressure early Monday before equities started to fare better.</p>	
+	    <p>“When banking suffers then credit suffers and then the economy suffers,” said Bjarne Schieldrop, chief commodities analyst at SEB AB. “So less optimism on economic growth is warranted.”</p>
+      <p>The trajectory for raw materials this week will mostly hinge on how the Credit Suisse deal is received, as well as on the outcome of the Fed’s rate decision on Wednesday. Although US policy makers had signaled their willingness to raise rates by 50 basis points to contain still-hot inflation before the banking crisis erupted, market watchers now expect a smaller increase, or perhaps even a pause.</p>
+      <p>The worries over the banking sector have prompted Goldman Sachs Group Inc. — one of the most bullish banks on crude — to trim its forecasts, with the lender no longer seeing prices at $100 in the year ahead. That’s even with it now expecting OPEC producers to only increase output in the third quarter of 2024, rather than in the second half of 2023.</p>
+      <p>Oil Spread Slumps Most Since January in Latest Sign of Weakness</p>
+      <p>“Participants are still not fully convinced on whether recent moves by authorities can backstop further banking fallouts,” said Yeap Jun Rong, a market strategist at IG Asia Pte in Singapore. Investors are now wondering whether to buy the dip, Yeap said.</p>
+      <p>Bullion’s Appeal</p>
+      <p>Gold’s jump last week was its biggest since the early days of the pandemic. Heading into the latest banking crisis, precious metals were dramatically under-owned after a big selloff in February, said Ole Sloth Hansen, head of commodities strategy at Saxo Bank A/S. A shift to a more dovish outlook from Fed policy makers would benefit non-yielding bullion.</p>
+      <p>In other commodities, iron ore fell after Chinese regulators renewed warnings to companies against hoarding and price gouging in response to a recent surge in the steel-making material. Wheat retreated after the renewal of a deal allowing Ukraine to ship rains and other crops from key Black Sea ports, although there was uncertainty over the length of the agreement.</p>
+      <p>Five Key Charts to Watch in Global Commodity Markets This Week</p>
+      <p>--With assistance from Winnie Zhu, Yongchang Chin, Paul Burkhardt, Paul Wallace and Eddie Spence.</p>
+    </div>
+  },
+  {
+    id: 247,
+    title: 'Coal Use Seen Peaking Next Year as India, China Determine Future',
+    category: 'Commodities',
+    subCategory: ['Coal', 'india', 'China'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Global coal consumption will likely peak by next year as economics and climate strategies shift the world toward cleaner energy, but several wild cards could determine how long the dirtiest fossil fuel persists, according to BloombergNEF.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 20, 2023 - 2:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-254.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- Global coal consumption will likely peak by next year as economics and climate strategies shift the world toward cleaner energy, but several wild cards could determine how long the dirtiest fossil fuel persists, according to BloombergNEF.</p>
+	    <p>Coal power generation increased in each of the past two years as China and India battled electricity shortages and Europe tried to replace Russian natural gas. BNEF modeled two scenarios — a purely economic one and one driven by policies to reach net zero emissions by 2050 — both of which see demand rise to a record next year before declining.</p>	
+	    <p>Under both scenarios there are several wild cards that could affect how slowly or rapidly use of the fossil fuel declines. These include stronger-than-expected power demand, social backlash against the loss of mining jobs and lobbying from plant owners. China’s clean energy policies, economic support for poorer nations’ energy transitions and prices are other key factors.</p>	
+	    <p>BloombergNEF sees coal use persisting through the middle of the century even under strong net zero policies, where demand in the power sector would fall about 70% from its 2024 peak to 1.5 billion tons a year and require plants equipped with carbon capture systems to keep emissions at bay. That would require massive investments in the technology, which has struggled to prove it can operate commercially at scale.</p>
+      <p>Coal production has outpaced demand over the past two years, as top miners China and India lifted output to help battle power shortages. That led to a surge in inventories by the end of 2022, especially in China.</p>
+      <p>The report also highlights a rocky road ahead for the seaborne thermal coal trade. While production increased for domestic use in China and India, miners in exporters including Australia and the US have ramped down investments to avoid being stuck with stranded assets. That could create a supply squeeze if demand in importing countries rises.</p>
+      <p>“A supply crunch in the seaborne thermal coal market could raise coal prices and make it less competitive in the power sector in coal-importing countries and hence accelerate the fall of coal consumption around the world,” BloombergNEF said in the report.</p>
+    </div>
+  },
+  {
     id: 190,
     title: 'Is Optimism’s ecosystem really thriving after Shapella Fork’s interruption',
     category: 'Crypto',
@@ -366,7 +2317,7 @@ const blogListdata = [
   {
     id: 171,
     title: 'Yen Demand Catapults as Banking Crisis Wrecks US, Europe Havens',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['YEN', 'Banking', 'US'],
     description: <div className="blog-desc">
       <p>(Bloomberg) -- The yen is making a push to regain its crown as the go-to haven as a banking crisis dents the appeal of its US and European peers.</p>
@@ -689,6 +2640,98 @@ const blogListdata = [
 	    <p>That level would make sense from a fundamental perspective, too. More economic weakness from here—in addition to that created by the Federal Reserve’s rate hikes—would pressure earnings estimates, estimates that already look too high. Analyst’s aggregate 2023 earnings per share forecasts for S&P 500 companies sit at about $221 right now, according to FactSet, just above last year’s $216.</p>
       <p>But if the economy slows, estimates could get reduced to $210 or even lower as the market loses confidence in the economy and corporate earnings power. That alone would put the S&P 500 at about 3640 at a current based on the S&P 500’s current multiple of 17.3 times 12-month forward earnings.</p>
       <p>Declining earnings would likely mean declining valuations, writes Morgan Stanley’s chief U.S. equity strategist, Mike Wilson, perhaps earning the S&P 500 a multiple as low as 14 times. At that level, the index would trade at 2940, down 24% from Wednesday’s close.</p>
+    </div>
+  },
+  {
+    id: 261,
+    title: 'Expansion Plans to Drive Southern Copper (SCCO), Costs Ail',
+    category: 'Metals',
+    subCategory: ['SCCO', 'Expansion', 'plans'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-268.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+    	<p><strong>Southern Copper Corporation</strong>SCCO is poised well for growth, backed by its industry-leading copper reserves, focus on increasing low-cost production and ongoing investment in expansion projects. Its cost control measures will help offset the impact of inflated fuel, labor and operating costs.</p>
+	    <h3>Output to Pick Up 2023 Onwards</h3>
+      <p>In 2022, the company registered a 6.6% year-over-year decline in copper production to 894,703 tons, due to work stoppage at the Cuajone mine as well as lower ore grades. Molybdenum production was 13.3% down to 26,240 tons as a result of lower ore grades at the Toquepala mine. Zinc production was down 10.4% year over year to 60,010 tons due to lower production at the Charcas and Santa Barbara mines. Mined silver production was 18.56 million ounces, down 2.1% from last year. This was mainly due to a decline in production at Peruvian operations and the La Caridad mine which was partially offset by higher production at Buenavista and IMMSA mines.</p>	
+	    <p>These numbers are expected to pick up and reach 926,000 tons in 2023. This will be made possible by the Peruvian production coming back on track and new production on projects of Pilares and Buenavista zinc concentrators.</p>	
+	    <h3>Solid Projects on Track</h3>
+      <p>Southern Copper’s total investment program in Peru runs to $7.9 billion, including the Michiquillay ($2.5 billion) and Los Chancas ($2.6 billion) projects. Peru is currently the second-largest producer of copper globally and holds 13% of the world’s copper reserves. Michiquillay is expected to become one of Peru's largest copper mines and will produce 225,000 tons of copper per year for an initial mine life of more than 25 years and at a competitive cash cost. Production is expected to commence by 2032.</p>
+      <p>The Los Chancas project located in Apurimac, Peru is a copper and molybdenum porphyry deposit. The project envisions an open-pit mine with a combined operation of the concentrator and SX-EW processes to produce 130,000 tons of copper and 7,500 tons of molybdenum annually. The project is expected to commence in 2030.</p>
+      <p>The company has a number of other projects that are planned to be developed in the future, which will help in attaining its copper volume production target of 1.5 million tons by 2031.</p>
+      <h3>Metal Prices to Pick Up in the Long Term</h3>
+      <p>Copper prices had been on a downtrend in 2022 amid uncertainties surrounding the global economy, as new coronavirus restrictions in China affected the demand for the red metal, thus hurting prices. Zinc prices also bore the brunt of weak demand worries as COVID lockdowns in China stoked concerns over a global recession. Silver prices had also been negatively impacted, weighed down by the stronger U.S. dollar, rising interest rates and sluggish growth.</p>
+      <p>Industrial production in China has lagged expectations for the first two months of this year while political unrest in South America is fueling supply concerns. This has been weighing on copper prices lately.</p>
+      <p>The long-term outlook for copper is positive, as copper demand is expected to grow, driven by electric vehicles and renewable energy, and infrastructure investments. Copper prices will be supported by growth in public infrastructure investment in the United States, as well as global initiatives to address climate change.</p>
+      <p>Molybdenum prices are set to increase on the back of healthy demand and reduced supply. Long-term fundamentals for zinc remain strong due to its significant industrial consumption. Silver prices will gain eventually, given its industrial use, impending demand-supply imbalance and safe-haven demand.</p>
+      <h3>Industry Leading Reserves & Low Cost: A Winning Combination</h3>
+      <p>Southern Copper has the largest copper reserves in the industry and operates high-quality, world-class assets in investment-grade countries such as Mexico and Peru. Backed by its constant focus on increasing low-cost production and growth investments, the company is well-poised to continue delivering enhanced performance. Its efforts to lower costs have aided the company to negate the impacts of higher costs for diesel and fuel, operating and repair materials, supplies and energy, as well as higher labor costs.</p>
+      <h3>Price Performance</h3>
+      <p>The company’s shares have fallen 2.6% over the past year compared with the industry’s 14% growth.</p>
+      <h3>Zacks Rank & Stocks to Consider</h3>
+      <p>Southern Copper currently carries a Zacks Rank #3 (Hold).</p>
+      <p>Some better-ranked stocks from the basic materials space are Steel Dynamics Inc. STLD, Olympic Steel Inc. ZEUS and Nucor Corporation NUE.</p>
+      <p>Steel Dynamics currently sports a Zacks Rank #1 (Strong Buy). STLD’s earnings beat the Zacks Consensus Estimate in each of the last four quarters. It has a trailing four-quarter earnings surprise of roughly 11.3% on average. STLD has rallied around 23.2% in a year.</p>
+      <p>Olympic Steel currently sports a Zacks Rank of 1. ZEUS’ earnings beat the Zacks Consensus Estimate in each of the last four quarters. It has a trailing four-quarter earnings surprise of roughly 26.2% on average. ZEUS has rallied around 51.7% in a year.</p>
+      <p>Nucor currently carries a Zacks Rank #2 (Buy). NUE’s earnings beat the Zacks Consensus Estimate in each of the last four quarters. It has a trailing four-quarter earnings surprise of roughly 7.7% on average. NUE has rallied around 20.5% in a year.</p>
+    </div>
+  },
+  {
+    id: 249,
+    title: 'OPEC and the Fed Have Their Hands Tied When It Comes to Impacting Markets',
+    category: 'Commodities',
+    subCategory: ['OPEC', 'Fed', 'Markets'],
+    description: <div className="blog-desc">
+      <p>In the case of OPEC, cutting back on oil supplies doesn't do much for boosting prices when demand isn't there.</p>
+    </div>,
+    authorName: 'TheStreet.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-256.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>In the case of OPEC, cutting back on oil supplies doesn't do much for boosting prices when demand isn't there.</p>
+	    <p>The OPEC put, just like the Fed put, is nothing other than a fallacy, or perhaps wishful thinking at this point. After the Russian invasion of Ukraine, as Brent oil spiked to $130 a barrel plus, money rushed into the oil sector as we heard doom-and-gloom calls about a lack of energy capital spending, running out of spare capacity, and how oil prices would need to be higher for longer to spur that investment.</p>	
+	    <p>True as some of those calls may be, commodities don't work that way. They are driven by actual demand and supply at any given time and by the inventory balance. Of course, academics and analysts tend to move their models at extremes to price in the latest scenario. But trading does not care about research-driven models. After all, if we believed research-driven models, Tesla (TSLA) was supposed to trade at $1.500.</p>	
+	    <p>It is easy to tweak an Excel model to spit out whatever confirmation bias you may have, or play with the denominator to generate the result one wants to see. Assumptions are very important in any modeling, and that is where the problem lies. Most models get demand entirely wrong.</p>
+      <p>After the rout in technology stocks in 2022, most investors parked their money in what they deemed as safe haven assets, such as large-cap equites that showed 4%-5% yield on their balance sheets. But those very same dividend yields are subject to cash flows, and if the top line erodes, so do those cash flows. A stock needs to give an investor the right upside reward potential for the risk the investor takes to invest in that equity. But if US government bonds yielded the same coupon as a risky equity, one would be better suited to be invested in the former.</p>
+      <p>Just as we saw in natural gas markets when prices got to as high as 300 euros per megawatt hour and most called for Europe to be sent back to the dark ages, lo and behold, the physical market finds a way as there are entrepreneurs who will find a way to capitalize on these arbitrage opportunities. US liquefied natural gas (LNG) companies did just that as they profited from the massive $10/MMBtu vs. $2/MMBtu differential by sending all their cargoes to Europe as Europe was desperate.</p>
+      <p>European gas today is trading below 45 euros per MWh and politicians are still debating energy and gas security. The oil market is slightly different in that we have had OPEC and Russia working together to balance the market, supporting prices so to speak. This only works when the market is tight and you are the only swing producer, i.e. in 2021. But today, demand is not as strong despite China reopening its economy, and there is no need for additional barrels. When demand is weak and supply picks up, there is nothing much that can be done to support prices.</p>
+      <p>Oil equity investors held onto their long oil bets all throughout 2022 as they hoped for China's return or Russian barrels to come off the market. Neither has happened. Oil prices are down 50%-plus as analysts who assumed $90 a barrel was the floor for oil are seeing less than $75 a barrel now. One forgets that we were trading below $75 a barrel before Covid.</p>
+      <p>The same wishful thinking is heard in the equity market as most retail investors think Fed will come to their rescue as it did in the past decade and start quantitative easing (QE) again. But what the Fed and OPEC have in common is that they never had to deal with a harsh recession and higher inflation at the same time. Both have their hands tied for now, for if they were to either print more money (in the case of Fed) or cut back on supplies (OPEC), it could cause a price surge, but only in the short term, as that would collapse the global economy as we know it, sending it back even worse than the 1970s.</p>
+    </div>
+  },
+  {
+    id: 248,
+    title: 'Exxon considers selling stake in LNG terminal offshore Italy',
+    category: 'Commodities',
+    subCategory: ['Exxon', 'LNG', 'Itlay'],
+    description: <div className="blog-desc">
+      <p>HOUSTON (Reuters) - Exxon Mobil Corp. is considering selling its majority stake in the Rovigo LNG terminal offshore Italy as part of a strategy to divest from non-core assets, the company said in a statement on Wednesday.</p>
+    </div>,
+    authorName: 'Sabrina Valle and Francesca Landini',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 15, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-255.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>By Sabrina Valle and Francesca Landini</p>
+	    <p>HOUSTON (Reuters) - Exxon Mobil Corp. is considering selling its majority stake in the Rovigo LNG terminal offshore Italy as part of a strategy to divest from non-core assets, the company said in a statement on Wednesday.</p>
+	    <p>The terminal, also named, Adriatic LNG, is owned by Exxon's subsidiary ExxonMobil Italiana Gas S.r.l. (70.7%), QatarEnergy subsidiary Qatar Terminal Company Limited (22%) and Snam Spa (7.3%). Snam has the right of first refusal should a partner decide to divest.</p>	
+	    <p>Exxon said that while it was verifying market interest, it had not made a decision about a potential sale nor has it identified a buyer at this early stage.</p>	
+	    <p>"Tests like this are consistent with our focused investment strategy, highlighting our willingness to divest non-core assets to those who can derive greater value," Exxon spokesperson Meghan Macdonald said.</p>
+      <p>Any transaction would not impact Exxon's imports of LNG into the Adriatic LNG terminal, nor its interest in the Italian and European markets as a natural gas supplier, the company said.</p>
     </div>
   },
   {
@@ -1253,7 +3296,7 @@ const blogListdata = [
   {
     id: 172,
     title: 'USD/JPY Forecast – US Dollar Gives Up Early Gains Against the Japanese Yen',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['USD', 'JYP', 'Forecast'],
     description: <div className="blog-desc">
       <p>The US dollar has initially tried to rally during the trading session on Wednesday, to reach the ¥135 level. This is an area that has previously been resistance, and therefore the fact that we broke above that level would have been a very strong sign, but we have given back those gains to show signs of weakness since then. At this point, it looks like we are reaching down to the ¥132.50 level, an area that I think should end up being support. If we can break below there, then it’s likely that this market starts to fall toward the ¥130 level.</p>
@@ -1275,7 +3318,7 @@ const blogListdata = [
   {
     id: 173,
     title: 'GBP/JPY Forecast – British Pound Plunges Against Japanese Yen in Risk Off Move',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['GBP', 'JPY',],
     description: <div className="blog-desc">
       <p>The British pound initially tried to rally during the trading session on Wednesday, but ran into a buzz saw of concern, and then the next thing you know is that the Japanese yen started to take off. The reason for this is that bond yields around the world are dropping as traders are betting that a round of bailouts are coming. This releases pressure on the Bank of Japan when it comes to the idea of having to print more yen to keep their yield curve control in line, and that’s exactly what you are seeing on this chart.</p>
@@ -1322,7 +3365,7 @@ const blogListdata = [
   {
     id: 174,
     title: 'EUR/USD Forecast – Euro Plunges Amidst Risk Off Move',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['EUR', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>After Credit Suisse got the news that there was not going to be more of a bailout from Saudi financiers, suddenly there seems to be a concern of contagion in the European Union. After all, the bank has been the epicenter of a lot of problems for the last several years, and without assistance it plunged, sending the CDS market for that bank pricing in a 36% possibility of default. Because of this, it’s very likely that money is flowing away from the European Union as Credit Suisse almost certainly has its fingers all throughout the continent.</p>
@@ -1345,7 +3388,7 @@ const blogListdata = [
   {
     id: 175,
     title: 'AUDUSD Forecast – Australian Dollar Gives Up Early Gains',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['AUS', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>The Australian dollar initially tried to rally during the trading session on Wednesday but struggled at the 0.67 level yet again. This is an area where we had previously seen support, and now it looks as if market memory has come back into the picture to send the Aussie lower. This makes a certain amount of sense considering there’s a lot of “risk off” attitude out there due to the fact that major banks are starting to struggle, meaning Credit Suisse. If that’s going to be the case, there will be a run to safety currency such as the US dollar as there will be a run toward the bond market.</p>
@@ -2502,7 +4545,7 @@ const blogListdata = [
   {
     id: 136,
     title: 'GBP to USD Weekly Forecast – The British Pound Has a Wild Week',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['GBP', 'USD',],
     description: <div className="blog-desc">
       <p>British Pound vs US Dollar Weekly Technical Analysis</p>
@@ -2524,7 +4567,7 @@ const blogListdata = [
   {
     id: 137,
     title: 'EUR/USD Weekly Forecast – Euro Continues to Fight Near 50-Week EMA',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['EUR', 'USD',],
     description: <div className="blog-desc">
       <p>Euro vs US Dollar Weekly Technical Analysis</p>
@@ -2698,6 +4741,73 @@ const blogListdata = [
       <p>The question now is whether other U.S. banks will fall? Could SVB and Silvergate's issues spread to other regional banks especially since suspicion can lead customers to rush to these banks to withdraw their money?</p>
       <p>"The U.S. banking system is on the verge of a much bigger collapse than 2008," said economist Peter Schiff, known for his dire predictions. </p>
       <p>"Banks own long-term paper at extremely low interest rates. They can't compete with short-term Treasuries. Mass withdrawals from depositors seeking higher yields will result in a wave of bank failures."</p>
+    </div>
+  },
+  {
+    id: 250,
+    title: 'The European Union will expand its liquefied natural gas import capacity by nearly a third as it weans off Russian energy supplies',
+    category: 'Commodities',
+    subCategory: ['natural', 'gas', 'import'],
+    description: <div className="blog-desc">
+      <p>The European Union is set to increase its liquefied natural gas import volume by almost a third in a continued move to reduce its dependence on Russian supplies.</p>
+    </div>,
+    authorName: 'Filip De Mott',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 9, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-257.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+      <ul>
+        <li>The EU will expand its liquefied natural gas import capacity to help ease supply bottlenecks.</li>
+        <li>The bloc has also encouraged bloc companies to not enter any further LNG agreements with Russia.</li>
+        <li>Despite trying to wean away from Russian supplies, LNG exports from the country increased in 2022.</li>
+      </ul>
+    	<p>The European Union is set to increase its liquefied natural gas import volume by almost a third in a continued move to reduce its dependence on Russian supplies.</p>
+    	<p>Maros Sefcovic, vice president of the European Commission, tweeted on Thursday that the union was gearing up to add eight more LNG regasification terminals in the next year, up from 27 existing facilities.</p>	
+    	<p>The extra infrastructure will help alleviate bottleneck concerns that the 27-member bloc experienced in the past year and provide the continent with more LNG for the future. The move will increase its regasification capacity from 178 to 227 billion cubic meters, Sefcovic tweeted.</p>	
+	    <p>The announcement comes alongside remarks from European Energy Commissioner Kadri Simson, directing European companies not to enter any new LNG trade deals with Russia, as the continent tries to completely shed Russian energy exports by 2027.</p>
+      <p>"I encourage all member states and all companies to stop buying Russian LNG, and not to sign any new gas contracts with Russia once the existing contracts have expired," she said in an EU meeting on Thursday.</p>
+      <p>Russia's invasion of Ukraine a year ago sparked an energy war as Russia cut off its gas and oil exports to the continent in retaliation for Western sanctions.</p>
+      <p>Though the bloc weathered the crisis thanks to a mild winter and increased imports from alternative suppliers, such as the US, it continues to depend on Russian LNG, and imports of the commodity increased by 35% in 2022.</p>
+      <p>"We can and should get rid of Russian gas completely as soon as possible, still keeping in mind our security of supply," Simson said.</p>
+      <p>At the same time, the EU has continued to develop on-sea floating import terminals, or FSRUs, that have allowed it to import LNG from new suppliers without the construction of pipelines.</p>
+    </div>
+  },
+  {
+    id: 251,
+    title: 'Shell (SHEL) Withdraws From Russias Salym Petroleum Project',
+    category: 'Commodities',
+    subCategory: ['Shell', 'Withdraws', 'Russia'],
+    description: <div className="blog-desc">
+      <p>Shell Plc SHEL, one of the world's largest oil and gas companies, has recently withdrawn its involvement in the Salym Petroleum Development in Russia. This marks a significant moment in the company's history, as it has been operating in the region for over two decades.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-258.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>Shell Plc SHEL, one of the world's largest oil and gas companies, has recently withdrawn its involvement in the Salym Petroleum Development in Russia. This marks a significant moment in the company's history, as it has been operating in the region for over two decades.</p>
+      <p>The decision to exit the Salym project was made as part of Shell's ongoing strategy to streamline its global portfolio and focus on areas where it can generate maximum returns.</p>
+	    <p>The company has been divesting its non-core assets and reducing costs in recent years, in order to become more competitive and adapt to changing market conditions.</p>
+	    <p>Salym Petroleum Development was a joint venture between Shell and Gazprom Neft, with the former holding a 50% interest in the project. The venture was launched in 1996 to develop oil fields in the West Siberian Basin and has since produced over 200 million barrels of oil.</p>	
+	    <p>Despite its success, the Salym project was not considered a strategic asset for Shell, and the decision to divest was made after a comprehensive review of the company's portfolio. The withdrawal was completed on Dec 22, 2022, and the stake was sold to Gazprom Neft for $233 million.</p>	
+	    <p>While the sale of the Salym stake will have a limited impact on Shell's overall production, it is an important step in the company's efforts to simplify its portfolio and focus on areas of higher revenue generation. Shell is currently investing in a range of new technologies, such as carbon capture and storage, renewable energy and electric vehicle charging, as it seeks transition to a low-carbon future.</p>
+      <p>The withdrawal from the Salym project also reflects the broader trend of international oil companies reducing their exposure to Russia, due to political and economic risks. Sanctions imposed by Western countries in response to Russia's Ukraine invasion in 2022 have made it more difficult for foreign companies to do business in the country.</p>
+      <p>The withdrawal is also a clear indication of the company's commitment to strategic focus and adaptability in a changing industry. As the energy transition accelerates, companies will need to be proactive in adapting to the new energy landscape.</p>
+      <p>Shell, a multinational energy and petrochemical company, headquartered in London, engages in the exploration, extraction, marketing and transportation of crude oil, natural gas and natural gas liquids. It also produces gas-to-liquid fuels and other products.</p>
+      <h3>Zacks Rank and Key Picks</h3>
+      <p>Currently, Shell carries a Zacks Rank #3 (Hold). Investors interested in the energy sector might also look at some better-ranked stocks like NGL Energy Partners (NGL) sporting a Zacks Rank #1 (Strong Buy) and Energy Transfer ET and Halliburton (HAL) both holding a Zacks Rank #2 (Buy). You can see the complete list of today’s Zacks #1 Rank stocks here.</p>
+      <p><strong>NGL Energy Partners:</strong>NGL Energy Partners is worth approximately $509.53 million. Its shares have increased 48.8% in the past year.</p>
+      <p>NGL Energy Partners LP is a limited partnership company that operates a vertically-integrated propane business with three segments — retail propane, wholesale supply and marketing, and midstream.</p>
+      <p><strong>Energy Transfer LP:</strong>Energy Transfer LP is valued at around $40.85 billion. ET delivered an average earnings surprise of 11.43% for the last four quarters, and its current dividend yield is 9.48%.</p>
+      <p>Energy Transfer LP currently has a forward P/E ratio of 9.17. In comparison, its industry has an average forward P/E of 9.40, which means Energy Transfer LP is trading at a discount to the group.</p>
+      <p><strong>Halliburton:</strong>Halliburton is valued at around $35.16 billion. In the past year, HAL stock has increased 3.4%.</p>
+      <p>Houston, TX-based Halliburton Company is one of the largest oilfield service providers in the world, with a trailing four-quarter earnings surprise of roughly 5.87%, on average.</p>
     </div>
   },
   {
@@ -3097,7 +5207,7 @@ const blogListdata = [
   {
     id: 120,
     title: 'GBP to USD Forecast – British Pound Gives Up Early Gains',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['GBP', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>British Pound vs US Dollar Technical Analysis</p>
@@ -3119,7 +5229,7 @@ const blogListdata = [
   {
     id: 121,
     title: 'EUR/USD Forecast – Euro Pulls Back Again',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['EUR', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>Euro vs US Dollar Technical Analysis</p>
@@ -3140,7 +5250,7 @@ const blogListdata = [
   {
     id: 122,
     title: 'AUD/USD Forecast – Australian Dollar Continues to Threaten a Breakdown',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['AUD', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>Australian Dollar vs US Dollar Technical Analysis</p>
@@ -3239,7 +5349,7 @@ const blogListdata = [
   {
     id: 123,
     title: 'GBP to USD Forecast – British Pound Continues to Consolidate Near Big Figure',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['GBP', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>British Pound vs US Dollar Technical Analysis</p>
@@ -3260,7 +5370,7 @@ const blogListdata = [
   {
     id: 124,
     title: 'GBP/JPY Forecast – British Pound Looking For Direction Against the Yen',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['GBP', 'JPY', 'Forecast'],
     description: <div className="blog-desc">
       <p>British Pound vs Japanese Yen Technical Analysis</p>
@@ -3282,7 +5392,7 @@ const blogListdata = [
   {
     id: 125,
     title: 'EUR/USD Forecast – Euro Testing the 50-Day EMA',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['EUR', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>Euro vs US Dollar Technical Analysis</p>
@@ -3303,7 +5413,7 @@ const blogListdata = [
   {
     id: 126,
     title: 'AUD/USD Forecast – Australian Dollar Continues to Threaten Support',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['AUD', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>Australian Dollar vs US Dollar Technical Analysis</p>
@@ -4080,7 +6190,7 @@ const blogListdata = [
   {
     id: 127,
     title: 'GBP to USD Weekly Forecast – British Pound Gives Up Much of the Gains for the Week',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['GBP', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>British Pound vs US Dollar Weekly Technical Analysis</p>
@@ -4616,7 +6726,7 @@ const blogListdata = [
     id: 46,
     title: 'FOREX-Dollar slides, yuan gains on China PMI; hot inflation lifts euro',
     slug: 'FOREX-Dollar slides, yuan gains on China PMI; hot inflation lifts euro',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>LONDON, March 1 (Reuters) - The dollar slumped and China's yuan gained on Wednesday after China's manufacturing activity expanded at its fastest pace since April 2012, while the euro rose after regional German inflation data signalled price pressures remain high.</p>
@@ -4656,7 +6766,7 @@ const blogListdata = [
     id: 62,
     title: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
     slug: 'Alibaba and China Stocks Are Rallying. Chinese Growth Means Lockdown Pain Is in the Past.',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
@@ -4764,7 +6874,7 @@ const blogListdata = [
     id: 47,
     title: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
     slug: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against the Japanese Yen',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The US dollar has rallied a bit during the trading session on Tuesday, as we continue to see the Japanese yen pay the price for the Bank of Japan monetary policy. As the 10 year JGB presses 50 basis points, the Bank of Japan has to step in and start printing yen in order to buy bonds. Quite frankly, at this point Japan has no other option but to accept either a weakening currency, or higher interest rates.</p>
@@ -4789,7 +6899,7 @@ const blogListdata = [
     id: 48,
     title: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
     slug: 'GBP/JPY Forecast – British Pound Looks Stratospheric Against the Yen',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The British pound has skyrocketed against the Japanese yet again during the trading session on Tuesday as we have seen massive amounts of downward pressure on the value of the Japanese yen across the board. With that being the case, I think this is a market that is now starting to reach a little bit of noise, so perhaps the question now is whether or not we should be switching from the British pound to other currencies against the yen?</p>
@@ -4812,7 +6922,7 @@ const blogListdata = [
     id: 49,
     title: 'EUR/USD Forecast – Euro Continues to Show Support',
     slug: 'EUR/USD Forecast – Euro Continues to Show Support',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has initially pulled back during the trading session on Tuesday but found enough support underneath the 1.06 level to turn things around and show signs of life. The overall market structure of the day seems to be a bit positive, so it does make a certain amount of sense that we would see the Euro trying to pick up a bit of momentum. The 50-Day EMA sits just below the 1.0675 level, and therefore it looks as if it is going to be a bit of resistance.</p>
@@ -4836,7 +6946,7 @@ const blogListdata = [
     id: 63,
     title: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
     slug: 'Ethereum Gas Fees Are Slowly Climbing as NFT Market Rebounds',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
@@ -5031,7 +7141,7 @@ const blogListdata = [
     id: 50,
     title: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
     slug: 'USD/JPY Forecast – US Dollar Continues to Look Strong Against the Yen',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The US dollar has pulled back slightly during the trading session on Monday but continues look very strong as it is a very minor pullback but should also be noted that the market was relatively quiet, especially considering just how bullish it had been previously. Because of this, it looks as if the market is going to try to go to the ¥137.50 level, an area that previously had been significant resistance. If we can break above there, then it’s possible that the market could go to the ¥140 level.</p>
@@ -5055,7 +7165,7 @@ const blogListdata = [
     id: 51,
     title: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
     slug: 'GBP to USD Forecast – British Pound Looking to Stay Within Range',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The British pound has rallied a bit during the trading session on Monday, suggesting that we are going to try to break above the 1.20 level again. This is a large, round, psychologically significant figure, so it’s not a huge surprise to see that the market continues to struggle with this idea. The 1.21 level features the 50-Day EMA and the 200-Day EMA indicators, which of course a lot of people pay close attention to.</p>
@@ -5079,7 +7189,7 @@ const blogListdata = [
     id: 52,
     title: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
     slug: 'EUR/USD Forecast – Euro Testing the 200-Day EMA',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen a bit early during the trading session on Monday to touch the 200-Day EMA. The market bounced from that level to turn around and show signs of life, and now threatens the 1.06 level. It’ll be interesting to see whether or not this happens, due to the fact that there is so much downward pressure on the major currencies that are not the US dollar.</p>
@@ -5103,7 +7213,7 @@ const blogListdata = [
     id: 53,
     title: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
     slug: 'AUDUSD Forecast – Australian Dollar Touches That Figure',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has fallen a bit during the trading session on Monday, reaching down to touch the crucial 0.67 level. By doing so, it suggests that the Aussie is going to continue to see a lot of negativity, and that of course makes a certain amount of sense due to the fact that the global economy seems to be slowing down. Remember, the Australian dollar is highly sensitive to global growth, as the Australian economy is so highly leveraged not only mainland China, but also commodity trading in general.</p>
@@ -5157,7 +7267,7 @@ const blogListdata = [
     id: 54,
     title: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
     slug: 'AUD/USD Weekly Forecast – Australian Dollar Breaks Down Significantly',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
@@ -5206,7 +7316,7 @@ const blogListdata = [
     id: 55,
     title: 'Asian currencies witness a bit of reprieve, lift rupee',
     slug: 'Asian currencies witness a bit of reprieve, lift rupee',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has initially tried to rally during the week, but then sold off quite drastically. At this point, it looks like the Aussie is getting ready to break through significant support, near the 0.67 level. Quite frankly, there’s a lot of risk out there and it makes a lot of sense that the Aussie would be a victim.</p>
@@ -5362,7 +7472,7 @@ const blogListdata = [
     id: 56,
     title: 'GBP to USD Forecast – British Pound Continues to Fight',
     slug: 'GBP to USD Forecast – British Pound Continues to Fight',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
@@ -5459,7 +7569,7 @@ const blogListdata = [
     id: 57,
     title: 'AUDUSD Forecast – Australian Dollar Pulls Back',
     slug: 'AUDUSD Forecast – Australian Dollar Pulls Back',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The British pound has pulled back just a bit during the trading session on Wednesday, as we have seen quite a bit of volatility. Again. The 50-Day EMA has been offering resistance, and of course the 200-Day EMA also is an area where we have seen the light of pressure as well. Now that we have pulled back a bit, it’s likely that we continue to see a lot of noise between here </p>
@@ -5575,7 +7685,7 @@ const blogListdata = [
     id: 59,
     title: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
     slug: 'AUDUSD Forecast – Australian Dollar Hovers Near Major Moving Averages',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Australian dollar has rallied a bit during the trading session on Monday, breaking above the 50-Day EMA, near the 0.69 level. 0.69 level has been important more than once, so it does make a certain amount of sense that we would see noise there. As we have broken above that moving average, we also saw a bit of downward pressure, so now it looks as if the market is trying to figure out what it wants to do for a longer-term move.</p>
@@ -5599,7 +7709,7 @@ const blogListdata = [
     id: 58,
     title: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
     slug: 'USD/JPY Forecast – US Dollar Continues to Threaten Resistance',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The US dollar has gone back and forth against the Japanese yen during trading on Monday, as the market still looks at the ¥135 level as a potential resistance barrier. That being said, the market also is sitting just above the crucial 200-Day EMA, so the question will be whether or not it can offer support. The 50-Day EMA sits underneath there and is trying to curl back to the upside so I would anticipate quite a bit of noisy behavior.</p>
@@ -5683,7 +7793,7 @@ const blogListdata = [
     id: 61,
     title: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
     slug: 'EUR/USD Forecast – Euro Plunges Yet Again on Friday',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The Euro has fallen again against the US dollar during the trading session on Friday, as we continue to see a lot of negativity out there in general. Keep in mind that the US dollar will be the first place people run to for safety in this environment, so it’s probably worth noting that we have seen more of a “risk off” move around the world during the day.</p>
@@ -5706,7 +7816,7 @@ const blogListdata = [
     id: 60,
     title: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
     slug: 'USD/JPY Weekly Forecast – US Dollar Has a Strong Week',
-    category: 'Currencies',
+    category: 'Forex',
     subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
     description: <div className="blog-desc">
       <p>The US dollar has rallied during the course of the week to test the ¥135 level. The ¥135 level of course is an area that has been important multiple times, so it’s not a huge surprise to see that we have failed there. Nonetheless, the overall candlestick is rather bullish looking, and therefore I think we probably have a little bit of follow-through coming.</p>
