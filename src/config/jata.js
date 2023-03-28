@@ -1,5 +1,152 @@
 const blogListdata = [
   {
+    id: 273,
+    title: 'Dow Jones Futures Fall Ahead Of Key Economic Data; Warren Buffett Stock Occidental Jumps On Upgrade',
+    category: 'Markets',
+    subCategory: ['Dow', 'Jones', 'Economic'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures fell slightly Tuesday morning ahead of key economic data, including a consumer confidence reading and two home price indexes. Warren Buffett stock Occidental Petroleum (OXY) rallied on an analyst upgrade, while Chinese e-commerce giant Alibaba (BABA) jumped nearly 9% on plans to split its business into six independently run entities, the biggest structural overhaul in its history.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 4:56 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-280.jpg',
+    content: <div className="blog-content">
+      <p>Dow Jones futures fell slightly Tuesday morning ahead of key economic data, including a consumer confidence reading and two home price indexes. Warren Buffett stock Occidental Petroleum (OXY) rallied on an analyst upgrade, while Chinese e-commerce giant Alibaba (BABA) jumped nearly 9% on plans to split its business into six independently run entities, the biggest structural overhaul in its history.</p>
+      <p>On the economic front Tuesday, the Conference Board's Consumer Confidence Index is out at 10 a.m. ET, along with two home price indexes in the Case-Shiller Home Price Index and the FHFA House Price Index, which are due at 9 a.m.</p>
+	    <p>Wall Street expects the Consumer Confidence Index to measure 101.0 in March, down slightly from February's 102.9 reading. The Case-Shiller Home Price Index is expected to rise 3.7% on the year in January vs. December's 4.6% rise. Further, the FHFA House Price index is expected to fall 0.2% for January.</p>
+	    <p>Walgreen Boots Alliance (WBA) rose nearly 2% premarket Tuesday after the company's fiscal-Q2 results topped earnings and sales estimates.</p>	
+      <h3>Stock Market Today: Warren Buffett Stock Jumps</h3>
+	    <p>Warren Buffett stock Occidental Petroleum rallied 2.3% after TD Cowen upgraded the stock to outperform, with a 70 price target. Late Monday, SEC filings showed that famed investor Warren Buffett's Berkshire Hathaway (BRKB) boosted its stake by 3.66 million shares between March 23 and March 27.</p>	
+	    <p>Electric-vehicle giant Tesla (TSLA) rose 0.5% early Tuesday. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were lower ahead of today's stock market open.</p>
+      <p>Align Technology (ALGN), IBD SwingTrader stock Meta Platforms (META) and IBD Leaderboard Palo Alto Networks (PANW) — as well as Dow Jones stocks Cisco Systems (CSCO) and Nike (NKE) — are among the top stocks to watch in the ongoing stock market correction.</p>
+      <p>Palo Alto is an IBD Leaderboard stock. Cisco was featured in this week's Stocks Near A Buy Zone column. And Meta is an IBD SwingTrader stock. Palo Alto, Align, Microsoft and Meta were all recent IBD Stock Of The Day subjects.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>Ahead of Tuesday's opening bell, Dow Jones futures fell 0.1% vs. fair value, and S&P 500 futures lost 0.2%. Tech-heavy Nasdaq 100 futures were down 0.2% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) lost 0.2% and the SPDR S&P 500 ETF (SPY) fell 0.2% early Tuesday.</p>
+      <p>The 10-year U.S. Treasury yield on Monday jumped to 3.52%, snapping a three-day losing streak. Last week, the 10-year yield briefly touched its lowest level since mid-September. On Tuesday, the 10-year ticked higher to 3.56%.</p>
+      <p>U.S. oil prices continued higher Tuesday after Monday's sharp gains, as West Texas Intermediate futures traded above $73 a barrel.</p>
+      <h3>Stock Market Correction</h3>
+      <p>On Monday, the Dow Jones Industrial Average climbed 0.6%. The S&P 500 reduced its gain to 0.2%. And the Nasdaq trailed with a 0.5% decline as techs lagged.</p>
+      <p>Monday's Big Picture column commented, "The Nasdaq and S&P 500 continue with a rally attempt that started about two weeks ago. But so far there's been no follow-through signal to confirm a new uptrend. That's left the stock market in an ambiguous spot, making tentative progress only to bump up against sellers."</p>
+      <p>Now is an important time to read IBD's The Big Picture column amid the ongoing stock market correction.</p>
+      <h3>Dow Jones Stocks To Watch: Cisco Systems, Nike</h3>
+      <p>Cisco Systems is approaching flat base's 51.84 buy point, according to IBD MarketSmith pattern recognition. Bullishly, the stock's relative strength line hit a new high last week, a sign of stock market outperformance. CSCO stock fell 0.1% Tuesday morning.</p>
+      <p>Nike shares continue to trace a flat base that has a 131.41 buy point. The stock failed to hold above its 50-day line last week, meeting resistance. NKE stock moved up 0.4% Tuesday.</p>
+      <h3>Top Stocks To Watch: Align, Meta, Palo Alto</h3>
+      <p>Align Technology continues to trace a consolidation that has multiple buy points: a 357.10 early entry and a conventional entry at 368.97. ALGN stock is looking for support around its 50-day moving average. If the stock breaches this level, then further weakness would be expected. ALGN stock was up 0.3% Tuesday morning.</p>
+      <p><strong>Backstory:</strong>The company makes clear teeth-straightening systems called Invisalign. UBS analyst Kevin Caliendo says investors recently regained confidence in Align stock, which has surged 50% this year. December-ended quarter results from Align and its competitors, management commentary, U.S. economic data and a recent uptick in demand for Invisalign cases support this view, he said in a note to clients.</p>
+      <p>Backstory: Like social media rivals, Meta is struggling due to a sharp reduction in advertising revenue as clients squirm over macroeconomic concerns, recession fears and higher interest rates. This is happening as it spends billions of dollars on a risky bet to build the "metaverse," a virtual reality world that has yet to take hold.</p>
+      <p>IBD Leaderboard stock Palo Alto Networks continues to trade above and below its 192.94 buy point out of a cup with handle amid Monday's 0.5% move higher. The buy area will run up to 202.59 if the stock retakes the entry. PANW stock was unchanged premarket Tuesday.</p>
+      <p>Backstory: Through acquisitions, Palo Alto Networks has expanded into endpoint security and vulnerability management. Endpoint tools detect malware on laptops, mobile phones and other devices that access corporate networks.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock climbed 0.7% Monday, as it continues see some support around its 50-day moving average line. Shares closed Monday around 50% off their 52-week high. TSLA stock moved up 0.5% Tuesday morning.</p>
+      <p>On Tuesday, weekly China EV insurance registration data could be an important gauge for Tesla demand in the world's largest EV market, which is in the midst of a huge price war started by Tesla.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares declined 1.2% Monday, ending a two-day win streak. Shares remain near their recent highs. AAPL stock moved down 0.4% Tuesday.</p>
+      <p>Microsoft shares are again trying to capture a flat base's 276.86 buy point, but closed back below the entry during Monday's 1.5% loss. The stock is just below the 5% buy area that goes up to 290.70. And shares fell 0.2% early Tuesday.</p>
+      <p>Microsoft shares surged earlier this month after the company announced that it is adding artificial intelligence tools to its popular Office productivity applications. That follows the company's investments in AI startup OpenAI, the firm behind the buzzy ChatGPT application.</p>
+    </div>
+  },
+  {
+    id: 274,
+    title: 'Should SPDR Portfolio S&P 500 Growth ETF (SPYG) Be on Your Investing Radar?',
+    category: 'Markets',
+    subCategory: ['SPDR', 'S&P', 'Investing'],
+    description: <div className="blog-desc">
+      <p>The fund is sponsored by State Street Global Advisors. It has amassed assets over $15.23 billion, making it one of the largest ETFs attempting to match the Large Cap Growth segment of the US equity market.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 2:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-281.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Looking for broad exposure to the Large Cap Growth segment of the US equity market? You should consider the SPDR Portfolio S&P 500 Growth ETF (SPYG), a passively managed exchange traded fund launched on 09/25/2000.</p>
+	    <p>The fund is sponsored by State Street Global Advisors. It has amassed assets over $15.23 billion, making it one of the largest ETFs attempting to match the Large Cap Growth segment of the US equity market.</p>	
+	    <h3>Why Large Cap Growth</h3>
+      <p>Large cap companies usually have a market capitalization above $10 billion. Considered a more stable option, large cap companies boast more predictable cash flows and are less volatile than their mid and small cap counterparts.</p>	
+	    <p>Growth stocks have higher than average sales and earnings growth rates. While these are expected to grow faster than the broader market, they also have higher valuations. Also, growth stocks are a type of equity that carries more risk compared to others. Compared to value stocks, growth stocks are a safer bet in a strong bull market, but don't perform as strongly in almost all other financial environments.</p>
+      <h3>Costs</h3>
+      <p>Since cheaper funds tend to produce better results than more expensive funds, assuming all other factors remain equal, it is important for investors to pay attention to an ETF's expense ratio.</p>
+      <p>Annual operating expenses for this ETF are 0.04%, making it one of the least expensive products in the space.</p>
+      <p>It has a 12-month trailing dividend yield of 1.09%.</p>
+      <h3>Sector Exposure and Top Holdings</h3>
+      <p>Even though ETFs offer diversified exposure that minimizes single stock risk, investors should also look at the actual holdings inside the fund. Luckily, most ETFs are very transparent products that disclose their holdings on a daily basis.</p>
+      <p>This ETF has heaviest allocation to the Information Technology sector--about 44.70% of the portfolio. Consumer Discretionary and Healthcare round out the top three.</p>
+      <p>Looking at individual holdings, Apple Inc. (AAPL) accounts for about 14.01% of total assets, followed by Microsoft Corporation (MSFT) and Amazon.com Inc. (AMZN).</p>
+      <p>The top 10 holdings account for about 49% of total assets under management.</p>
+      <h3>Performance and Risk</h3>
+      <p>SPYG seeks to match the performance of the S&P 500 Growth Index before fees and expenses. The S&P 500 Growth Index measures the performance of the large-capitalization growth sector in the U.S. equity market.</p>
+      <p>The ETF has gained about 6.29% so far this year and is down about -17.89% in the last one year (as of 03/28/2023). In the past 52-week period, it has traded between $49.14 and $68.01.</p>
+      <p>The ETF has a beta of 1.05 and standard deviation of 23.93% for the trailing three-year period, making it a medium risk choice in the space. With about 244 holdings, it effectively diversifies company-specific risk.</p>
+      <h3>Alternatives</h3>
+      <p>SPDR Portfolio S&P 500 Growth ETF carries a Zacks ETF Rank of 3 (Hold), which is based on expected asset class return, expense ratio, and momentum, among other factors. Thus, SPYG is a sufficient option for those seeking exposure to the Style Box - Large Cap Growth area of the market. Investors might also want to consider some other ETF options in the space.</p>
+      <p>The Vanguard Growth ETF (VUG) and the Invesco QQQ (QQQ) track a similar index. While Vanguard Growth ETF has $78.01 billion in assets, Invesco QQQ has $168.40 billion. VUG has an expense ratio of 0.04% and QQQ charges 0.20%.</p>
+      <h3>Bottom-Line</h3>
+      <p>Passively managed ETFs are becoming increasingly popular with institutional as well as retail investors due to their low cost, transparency, flexibility and tax efficiency. They are excellent vehicles for long term investors.</p>
+      <p>To learn more about this product and other ETFs, screen for products that match your investment objectives and read articles on latest developments in the ETF investing universe, please visit Zacks ETF Center.</p>
+    </div>
+  },
+  {
+    id: 272,
+    title: 'FTSE 100 loses steam after strong start amid inflation jitters',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Inflation',],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks were higher on Tuesday after the banking industry turmoil of the past few weeks but the rally seemed to be losing steam</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 12:07 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-279.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>The FTSE 100 and European stocks were higher on Tuesday after the banking industry turmoil of the past few weeks but the rally seemed to be losing steam</p>
+	    <p>The FTSE 100 (^FTSE) was near parity at 7,476 points during midday trading, while the CAC 40 (^FCHI) in Paris was also muted at 7,1080 points. In Germany, the DAX (^GDAXI) was flat at 15,138.</p>	
+	    <h3>Bank of England</h3>
+      <p>Bank of England (BoE) governor Andrew Bailey said a wave of early retirements could force up inflation, leading to higher interest rates.</p>	
+    	<p>Speaking at the London School of Economics on Monday evening, Bailey said that a sharp decline in the number of people in the workforce was “part of the reason why we have had to raise Bank Rate by as much as we have”.</p>
+      <p>That trend, he warned, will drive up prices and mean borrowing costs may need to be higher.</p>
+      <p>He said: “We should expect this to put upward pressure on inflation in a way that would call for a higher level of interest rates to dampen demand.”</p>
+      <p>Bailey said the rise in inactivity of people aged 50 to 64 was “particularly striking”.</p>
+      <p>Bailey said the BoE had not already decided that interest rates needed to increase further but noted that inflation of 10.4% in February was “much too high”. He stressed that the Monetary Policy Committee (MPC) would assess the “emerging evidence” before opting to lift rates again.</p>
+      <p>Last week, the BoE raised the Bank rate toto 4.25% — its highest level since 2008.</p>
+      <p>The European Central Bank, US Federal Reserve and Swiss National Bank have also all raised interest rates this month.</p>
+      <p>Markets are also taking note of Bailey speaking at the Treasury Select committee about the Silicon Valley UK arm's collapse.</p>
+      <p>The governor of the Bank of England has said that the collapse of Silicon Valley Bank (SVB) was the quickest seen since Barings Bank failed in 1995.</p>
+      <p>Andrew Bailey told MPs that the UK subsidiary of the Californian lender experienced a 30% run on its deposits in a single day as panic spread through markets and savers.</p>
+      <p>Despite the run, Silicon Valley Bank's UK arm as able to meet those requests, which made its sale process to HSBC (HSBA.L) easier.</p>
+      <h3>US and Asia</h3>
+      <p>Across the pond, S&P 500 futures (ES=F), Dow futures (YM=F) and Nasdaq futures (NQ=F) were all in the green ahead of the opening bell.</p>
+      <p>Wall Street finished mixed on Monday, as bank stocks moved upward after North Carolina-based First Citizens (FCNCA) bank agreed to buy most of Silicon Valley Bank (SVB).</p>
+      <p>The Dow Jones (^DJI) rose 0.60% to close at 32,432 points. The S&P 500 (^GSPC) climbed 0.16% to finish at 3,977 points and the tech-heavy NASDAQ (^IXIC) lost 0.47% to 11,768.</p>
+      <p>Banks will dominate the headlines again this week with the earnings and economic calendars in sight. The Senate Banking Committee will hold a hearing on bank failures on Tuesday, with the witness list including FDIC chairman Martin Gruenberg, Federal Reserve vice chairman Michael Barr, and Treasury undersecretary Nellie Liang.</p>
+      <p>Barr wrote in a statement ahead of the hearing on Monday that the failure of SVB reeked of "mismanagement."</p>
+      <p>"To begin, SVB's failure is a textbook case of mismanagement. The bank had a concentrated business model, serving the technology and venture capital sector," Barr's testimony reads.</p>
+      <p>In Asia, Tokyo’s Nikkei 225 (^N225) rose 0.15% to 27,518 points, while the Hang Seng (^HSI) in Hong Kong climbed 1.10% to 19,782. The Shanghai Composite (000001.SS) lost ground, falling 0.18% to 3,245 points.</p>
+      <h3>FTSE 100</h3>
+      <p>Back in London, Ocado Group (OCDO.L) lost 4.39% after Ocado Retail, despite its joint venture with Marks and Spencer (MKS.L) reporting a rise in revenue.</p>
+      <p>Susannah Streeter, head of money and markets at Hargreaves Lansdown, said: "A relief ripple is helping stocks make some gains amid hopes that the volatility, which has wracked the banking sector, has eased off.</p>
+      <p>“Right now, worries about the impact of banking turmoil are taking a back seat and the Bank of England is intent on steering consumer prices lower. Governor Andrew Bailey stressed in his speech in London last night that interest rates may have to move higher if there were signs of persistent inflationary pressure.”</p>
+      <p>Spirits maker Diageo (DGE.L) has appointed its first female chief executive after announcing the retirement of Sir Ivan Menezes after a decade in the top job.</p>
+      <p>Debra Crew will step up from her current position as chief operating officer and lead the FTSE 100-listed business from 1 July.</p>
+      <p>Across the wider FTSE 250 index (^FTMC), gambling company William Hill (888.L) has been hit by a record £19.2m ($23.6m) fine by the UK gambling regulator.</p>
+      <p>Three gambling businesses owned by the company will pay the sum for "widespread and alarming" social responsibility and anti-money laundering failures, the Gambling Commission said.</p>
+      <h3>Pound vs dollar</h3>
+      <p>The pound (GBPUSD=X) gained ground against the dollar at over $1.23. Sterling (GBPEUR=X) rose nearly 0.15% against the euro, trading near €1.14.</p>
+      <h3>Oil markets</h3>
+      <p>Meanwhile, Brent crude (BZ=F) climbed and was trading at around $78 per barrel, with markets focused on developments in the banking crisis and indications of strengthening demand in China.</p>
+      <p>"Though risks remain in the banking system amid the recent event, dip-buys in crude oil could be the prevailing trend in the near term," said Tina Teng, analyst at CMC Markets.</p>
+    </div>
+  },
+  {
     id: 270,
     title: 'Bitcoin rises, most top 10 cryptos drop, amid mixed signals on state of banking sector',
     category: 'Crypto',
