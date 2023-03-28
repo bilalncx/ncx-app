@@ -1,3 +1,12 @@
+div#ncx_token_Page {
+    background: #000000;
+    background-color: #000000;
+}
+#ncx_token_Page .dex-table {
+    padding: 30px 0px 120px 0px;
+}
+
+
 /************************************ Token Header Styling ************************************** */
 #ncx_token_Page header#header-row{
     background: transparent;
@@ -289,3 +298,206 @@ div#token_countdown .show-counter p{
     padding-left: 20px;
     margin-bottom: 0px;
 }
+
+
+/************************************ Token Generation Video Styling ************************************** */
+div#token_video {
+    background: #000000 !important;
+    padding: 50px 0px 150px 0px ;
+}
+div#token_video .generate-div h1{
+    color: #FFFFFF !important;
+}
+div#token_video .generate-div p, div#token_video .taskdiv h3{
+    color: #FFFFFF !important;
+}
+div#token_video .text212 h4{
+    color: #FFFFFF !important;
+    font-size: 17px !important;
+    width: 103% !important;
+}
+div#token_video .taskdiv {
+    background: #151515 !important;
+}
+div#token_video .buttoninfo a{
+    background: #5ED3F0 !important;
+}
+div#token_video .buttoninfo a:hover{
+    background: #5ED3F0 !important;
+    color: #FFFFFF !important;
+}
+div#token_video .taskdiv:hover{
+    box-shadow: 0 0 40px 5px rgb(255 255 255 / 25%) !important;
+}
+div#token_video .taskdiv.one{
+    gap: 55px !important;
+}
+div#token_video .taskdiv.two{
+    gap: 36px !important;
+}
+
+
+
+/* ************************************************************************* */
+#roadmap_slide{
+    padding-bottom: 100px;
+}
+.roadmap_sect {
+    padding: 100px 0px;
+}
+.roadmap_sect h1.roadmm {
+    font-size: 48px;
+    color: #FFFFFF;
+    font-family: 'urbanist-medium';
+    text-align: center;
+    margin-bottom: 120px;
+}
+#roadmap_slide span.MuiSlider-mark {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #E6E6E6;
+    border: 3px solid #FFFFFF;
+    opacity: 1;
+    display: unset !important;
+}
+#roadmap_slide span.MuiSlider-markActive {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #5ED3F0;
+    border: 3px solid #FFFFFF;
+    opacity: 1;
+    display: unset !important;
+}
+#roadmap_slide .MuiSlider-markLabel h1{
+    font-size: 16px !important;
+    font-family: 'urbanist-semibold' !important;
+    line-height: 24px !important;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+#roadmap_slide span.MuiSlider-rail {
+    color: #E6E6E6 !important;
+    opacity: 1 !important;
+    border-radius: 0px;
+    height: 7px;
+}
+#roadmap_slide span.MuiSlider-track {
+    background-image: linear-gradient(190deg, #3FAEFE 0%, #39D8FF 100%) !important;
+    border: none;
+    border-radius: 0px;
+    height: 7px;
+}
+#roadmap_slide span.MuiSlider-thumb {
+    display: none;
+}
+#roadmap_slide span.MuiSlider-markLabel {
+    width: 100%;
+    max-width: 230px;
+}
+
+
+
+
+/* ************************************** */
+.form-container {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .form {
+    margin: auto;
+  }
+  
+  .btn-primary {
+    width: 120px;
+    border: 0;
+    padding: 8px;
+    border-radius: 15px;
+    color: white;
+    background: #00d4ff;
+    cursor: pointer;
+  }
+  .example-mark {
+    width: 8px;
+    height: 8px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin: 0px calc(19px);
+    bottom: calc(50% - 6px);
+  }
+  
+  .example-mark.example-mark-active {
+    border: 2px solid #00d4ff;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .example-mark.example-mark-completed {
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #00d4ff;
+  }
+  
+  .example-thumb {
+    font-size: 0.9em;
+    text-align: center;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    box-sizing: border-box;
+  }
+  
+  .example-thumb.active {
+    background-color: grey;
+  }
+  
+  .example-track {
+    position: relative;
+    background: #ddd;
+  }
+  
+  .example-track.example-track-0 {
+    background: #00d4ff;
+  }
+  
+  .vertical-slider .example-thumb {
+    left: 1px;
+    width: 48px;
+    line-height: 40px;
+    height: 50px;
+  }
+  
+  .vertical-slider .example-track {
+    left: 23px;
+    width: 3px;
+  }
+  .App {
+    display: flex;
+    font-family: sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  
+  .container {
+    width: 25%;
+  }
+  
+  .form-container {
+    width: 50%;
+  }
+  
+  .steps-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .steps-item {
+    padding: 5px;
+    min-height: 80px;
+  }

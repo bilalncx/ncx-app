@@ -1,5 +1,5 @@
 .token_first_sect{
-    background: url(../../../images/Token_bg.png);
+    background: url(../../../images/Token_bg.jpg);
     background-color: #000000;
     background-repeat: no-repeat;
     background-size: cover;
@@ -142,25 +142,25 @@ p.contributors {
     display: flex;
     align-items: center;
 }
-span.MuiSlider-rail {
+.slider_countdown span.MuiSlider-rail {
     color: #E6E6E6 !important;
     opacity: 1 !important;
     border-radius: 0px;
     height: 7px;
 }
-span.MuiSlider-track {
+.slider_countdown span.MuiSlider-track {
     background-image: linear-gradient(190deg, #3FAEFE 0%, #39D8FF 100%) !important;
     border: none;
     border-radius: 0px;
     height: 7px;
 }
-span.MuiSlider-thumb {
+.slider_countdown span.MuiSlider-thumb {
     display: none;
 }
-span.MuiSlider-mark {
+.slider_countdown span.MuiSlider-mark {
     display: none;
 }
-span.MuiSlider-markLabel {
+.slider_countdown span.MuiSlider-markLabel {
     left: 96% !important;
     top: -36px;
     color: #FFFFFF;
@@ -168,7 +168,7 @@ span.MuiSlider-markLabel {
     font-family: 'urbanist-medium';
     padding-bottom: 15px;
 }
-span.MuiSlider-markLabel:before {
+.slider_countdown span.MuiSlider-markLabel:before {
     content: 'Completed';
     font-size: 12px;
     font-family: 'urbanist-light';
@@ -176,7 +176,7 @@ span.MuiSlider-markLabel:before {
     bottom: 0px;
     right: 0px;
 }
-.MuiSlider-root {
+.slider_countdown .MuiSlider-root {
     margin-bottom: 0px !important;
 }
 .bonus_col {

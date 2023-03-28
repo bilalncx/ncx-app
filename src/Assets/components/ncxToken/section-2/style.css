@@ -98,3 +98,24 @@ p.height_q {
         display: block;
     }
 }
+
+
+
+/* ********************************* NCXT PreSale Styling ********************************* */
+div#presale_ncxT {
+    padding: 50px 0px;
+}
+#presale_ncxT .colstake:nth-child(1), #presale_ncxT .tokenhead-stake p.q1:nth-child(1){
+    width: 15% !important;
+}
+#presale_ncxT .colstake:nth-child(2), #presale_ncxT .colstake:nth-child(3), #presale_ncxT .tokenhead-stake p.q1:nth-child(2),
+#presale_ncxT .tokenhead-stake p.q1:nth-child(3){
+    width: 13% !important;
+}
+#presale_ncxT .colstake:nth-child(4), #presale_ncxT .tokenhead-stake p.q1:nth-child(4){
+    width: 22% !important;
+}
+#presale_ncxT .colstake:nth-child(5), #presale_ncxT .colstake:nth-child(6), #presale_ncxT .colstake:nth-child(7),
+#presale_ncxT .tokenhead-stake p.q1:nth-child(5), #presale_ncxT .tokenhead-stake p.q1:nth-child(6), #presale_ncxT .tokenhead-stake p.q1:nth-child(7){
+    width: 11.5% !important;
+}

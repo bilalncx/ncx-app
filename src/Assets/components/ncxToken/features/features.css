@@ -1,0 +1,55 @@
+.token_features{
+    padding: 0px 0px 100px 0px;
+}
+h1.toke_feat{
+    font-size: 34px;
+    font-family: 'urbanist-regular';
+    line-height: 40px;
+    color: #FFFFFF;
+}
+h1.toke_feat span{
+    font-family: 'urbanist-extralight';
+}
+.features-col {
+    display: flex;
+    column-gap: 20px;
+}
+.feat-row.row {
+    margin: 0px !important;
+    margin-top: 70px !important;
+}
+.feat-row.row .col{
+    padding: 0px !important;
+}
+.fftxt h2 {
+    font-size: 25px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    line-height: 35px;
+    width: 75%;
+    margin-bottom: 10px;
+}
+.fftxt p {
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    font-family: 'urbanist-light';
+    width: 84%;
+    letter-spacing: 0.5px;
+}
+.feat-line{
+    background: #515151;
+    height: 320px;
+    transform: rotate(0deg);
+    width: 1px;
+}
+.fftxt {
+    min-height: 275px;
+}
+.featicon svg {
+    width: 35px;
+    height: 35px;
+}
+.features-col.hide {
+    visibility: hidden;
+}

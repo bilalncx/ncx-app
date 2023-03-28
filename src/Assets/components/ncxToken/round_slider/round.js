@@ -33,7 +33,7 @@ export default function DiscreteSliderValues() {
             defaultValue={77}
             // valueLabelFormat={valueLabelFormat}
             // getAriaValueText={valuetext}
-            // step={null}
+            step={null}
             valueLabelDisplay="auto"
             marks={marks}
         />

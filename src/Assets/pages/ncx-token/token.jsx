@@ -3,7 +3,13 @@ import './token.css';
 import NCXTokenHeader from '../../components/ncxToken/token-header';
 import NCXTokenFooter from '../../components/ncxToken/token-footer';
 import FirstSection from '../../components/ncxToken/section-1/first';
-import SecondSection from '../../components/ncxToken/section-2/first';
+import SecondSection from '../../components/ncxToken/section-2/staking_ncxt';
+import ThirdSectionTokenFeatures from '../../components/ncxToken/features/features';
+import FourthSectionTokenAllocation from '../../components/ncxToken/features/token-allocation';
+import CEXDEXTable from '../../components/homepage/5thdextablesection/cexdex';
+import SixthVideoSection from '../../components/ncxToken/token_video/video';
+import NCXTPresale from '../../components/ncxToken/section-2/private_sale';
+import RoadMap from '../../components/ncxToken/round_slider/roadmap';
 
 function NCXTokenPage(){
     return(
@@ -11,6 +17,12 @@ function NCXTokenPage(){
             <NCXTokenHeader />
             <FirstSection />
             <SecondSection />
+            <ThirdSectionTokenFeatures />
+            <CEXDEXTable />
+            <NCXTPresale />
+            <SixthVideoSection />
+            <FourthSectionTokenAllocation />
+            <RoadMap />
             <NCXTokenFooter />
         </div>
     )
