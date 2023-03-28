@@ -1,5 +1,67 @@
 const blogListdata = [
   {
+    id: 270,
+    title: 'Bitcoin rises, most top 10 cryptos drop, amid mixed signals on state of banking sector',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Banking', 'Rises'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose while Ether and most of the other top 10 non-stablecoin cryptocurrencies fell during afternoon trading in Asia on Monday. U.S. and European equities strengthened while Asian equities were mixed, after the International Monetary Fund (IMF) warned of potential financial stability risks in the wake of the banking turmoil. U.S. investors saw some relief after North Carolina-based First Citizens BancShares bought all the loans of failed Silicon Valley Bank.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 27, 2023 - 2:11 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-277.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin rose while Ether and most of the other top 10 non-stablecoin cryptocurrencies fell during afternoon trading in Asia on Monday. U.S. and European equities strengthened while Asian equities were mixed, after the International Monetary Fund (IMF) warned of potential financial stability risks in the wake of the banking turmoil. U.S. investors saw some relief after North Carolina-based First Citizens BancShares bought all the loans of failed Silicon Valley Bank.</p>
+	    <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin rose 1.01% to US$27,806 in the 24 hours to 4:00 p.m. in Hong Kong. The world’s first cryptocurrency hovered around US$28,000 for most of last week, amid looming concerns of a potential banking crisis.</li>
+        <li>Ether fell 0.12% to US$1,752 in the same timeframe, making for a weekly drop of 2.48%.</li>
+        <li>Bitcoin saw the day’s biggest gains, followed by Binance’s BNB token that rose 0.62% to change hands at US$326.24. Cardano’s ADA saw the biggest drop, as it fell 1.81% to US$0.35.</li>
+        <li>The global cryptocurrency market capitalization increased by 0.32% to US$1.16 trillion in the 24 hours to 4 p.m. in Hong Kong, with total crypto market trading volume up by 6.93% to US$33.32 billion.</li>
+        <li>The Forkast 500 NFT index fell 1.49% to 4,021.44 points, losing 2.68% during the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day.</li>
+        <li>U.S. investor concerns over a banking crisis partially eased after First Citizens BancShares, the parent company of First Citizens Bank, bought all the loans and deposits of failed Silicon Valley Bank, resulting in a 0.56% gain for the S&P 500.</li>
+        <li>Asian equities were mixed on Monday, after the IMF’s managing director Kristalina Georgieva warned on Sunday that financial stability risks have increased after a banking sector crisis in the U.S. and Europe earlier this month. Georgieva also said that global growth would slow to just 3% this year due to war in Ukraine, Covid-19 related restrictions and monetary policy tightening to tackle sticky inflation.</li>
+        <li>The Shanghai Composite slid 0.44% while the Shenzhen Component Index inched up 0.12%. Japan’s Nikkei 225 rose 0.33% and Hong Kong’s Hang Seng index dropped 1.75%.</li>
+        <li>European bourses saw a rebound after a steep sell-off last week, led by gains in the banking sector. The benchmark STOXX 600 rose 0.97% and Germany’s DAX 40 gained 1.11%.</li>
+        <li>Gold fell 0.45% to US$1,968 an ounce on Monday, after testing the US$2,000 mark multiple times last week. The U.S. dollar is struggling to recover from a seven-week low, after St. Louis Fed President James Bullard clarified last Friday that the U.S. central bank is planning further monetary tightening.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 271,
+    title: 'What impact will Ethereum’s Shanghai upgrade have on ETH and crypto markets?',
+    category: 'Crypto',
+    subCategory: ['ETH', 'Crypto', 'Market'],
+    description: <div className="blog-desc">
+      <p>Ethereum’s Shanghai upgrade is upon us and for the first time, individuals who have “staked” their ETH as part of the network’s security mechanism will be able to withdraw their holdings. Will this create huge sell pressure for the second-largest cryptocurrency? Hardly.</p>
+    </div>,
+    authorName: 'Bill Xing',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 27, 2023 - 1:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-278.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Ethereum’s Shanghai upgrade is upon us and for the first time, individuals who have “staked” their ETH as part of the network’s security mechanism will be able to withdraw their holdings. Will this create huge sell pressure for the second-largest cryptocurrency? Hardly.</p>
+	    <p>After the Shanghai upgrade (or “hard fork”), users who had locked a minimum of 32 ETH to secure an APY staking reward of 4-5% will be able to withdraw a portion of their stake immediately. But those wishing to withdraw their entire stake will need to wait one to 36 days, which dampens potential sell pressure. Furthermore, only 16% of ETH stakers are in profit, so why would they sell now?</p>	
+	    <p>In fact, for rational investors, selling ETH now would likely make little sense. And the investor profile for ETH holders leans towards rationality and a long-term outlook. It’s arguably one of the world’s premier risk assets, and the only reasons investors are still on the sidelines may be because they don’t understand it, they fear its ferocious volatility, or they find the regulatory uncertainty to be unnerving.</p>	
+	    <p>But the answer to the first objection also answers the second, and will go a long way toward answering the final objection. By the end, you may grok the thesis that Ether — in the crypto vernacular — isn’t just “sound money” it’s “ultrasound money.”</p>
+      <p>Ethereum is a blockchain that sells block space to apps. The apps must pay for transactions using the blockchain’s native currency: ETH.</p>
+      <p>The demand side of the trade relies on simple network effects, the more apps, the more users, the more demand for ETH. And this is because the Ethereum network is the oldest and most established decentralized smart contract ecosystem out there.</p>
+      <p>Ethereum and Bitcoin networks were analyzed by researcher Ken Alabi in a 2017 paper. “The analysis shows that the networks were fairly well modeled by Metcalfe’s Law, which identifies the value of a network as proportional to the square of the number of its nodes, or end users.” This means that adoption can increase the value of any given network exponentially.</p>
+      <p>On the supply side, ETH is issued as compensation to independent actors who run network nodes, and this currently amounts to 671,000 ETH per year. However, thanks to a novel burn mechanism that destroys a small amount of ETH per transaction (by sending it to a wallet from which it can never be withdrawn), the supply of ETH is actually shrinking despite token issuance.</p>
+      <p>Ultrasound.money is a dashboard that tracks the burn rate in real-time showing that the supply of ETH has been shrinking for months — and that’s in the middle of a raging bear market, imagine what would happen when demand picks up again. In fact, despite the bear market, transactions on Ethereum are still maintaining a solid uptrend thanks to innovations like NFTs and decentralized finance.</p>
+      <p>Volatility should be ironed out slowly as the effects of network adoption take place. The more people who join the Ethereum network, the more the value of ETH increases, which leads to more adoption. As the market cap increases it will take larger and larger market movements to rock the boat, reducing the large deviations in the price.</p>
+      <p>The best that crypto-bashing regulators can hope for is to slow down the pace of adoption. But there’s not much incentive for most governments to support this approach because a) crypto, on the retail side, is driven by Millennials and Generation Z, so it will be a voter issue in the coming years, and b) it will only move innovation offshore.</p>
+      <p>Even as the U.S. is putting a squeeze on crypto, Dubai, Hong Kong and the U.K. are already preparing to scoop up exiled crypto companies. And even if regulators shoehorn ETH into the antiquated category of a security — so what? Anyone could buy securities in minutes using an app on a phone.</p>
+      <p>The upcoming Shanghai upgrade will be followed by a more complex upgrade that will reduce fees on the Ethereum network, making it faster and even more user-friendly. The genie is well and truly out of the bottle, and investors may well find a magic carpet beckoning.</p>
+    </div>
+  },
+  {
     id: 215,
     title: 'Chainlink receives fresh attention from whales, but here’s a problem',
     category: 'Crypto',
