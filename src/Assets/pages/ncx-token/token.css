@@ -400,104 +400,108 @@ div#token_video .taskdiv.two{
 }
 
 
+@media screen and (max-width: 800px){
+    .token_first_sect{
+        padding: 200px 0px 50px 0px !important;
+        background-position: right !important;
+    }
+    .txxss .col:nth-child(2) {
+        display: none;
+    }
+    .txt112{
+        padding: 0px !important;
+    }
+    .txt112 h1{
+        width: 100% !important;
+        font-size: 23px !important;
+        line-height: 30px !important;
+        text-align: center !important;
+    }
+    a.claim_airdrop, a.token_signin{
+        font-size: 14px !important;
+        padding: 10px 20px !important;
+    }
+    .btnss{
+        justify-content: center !important;
+    }
+    .txt112 p{
+        font-size: 13px !important;
+        text-align: center !important;
+    }
+    .slider_countdown .MuiBox-root {
+        width: 100% !important;
+    }
+    .slider_countdown .col {
+        padding: 0px !important;
+        width: 100% !important;
+        flex: inherit !important;
+    }
+    .slider_countdown {
+        margin-top: 60px !important;
+    }
+    div#token_countdown {
+        width: 100% !important;
+    }
+    #token_countdown .show-counter{
+        justify-content: center !important;
+    }
+    .slider_countdown .col.time_contribute{
+        width: 100% !important;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .work a svg {
+        width: 20px !important;
+        height: auto;
+    }
+    .work p {
+        font-size: 10px !important;
+    }
+    .social-col{
+        column-gap: 10px !important;
+    }
+    
+
+    /* Mobile NCXT Stake styling */
+    #stake_ncxT .stake_ncx h1{
+        font-size: 22px;
+        width: 60%;
+        margin-bottom: 40px !important;
+    }
+    #stake_ncxT .mbl-tokrowitems p{
+        color: #FFFFFF !important;
+        font-size: 11px !important;
+    }
+    .mbl-tokrow .color.height_q {
+        width: 21.8%;
+    }
+    .mbl-tokrow .color.inactive {
+        background: rgba(31, 31, 31, 0.6) !important;
+    }
+
+    /* Mobile NCXT Presale Styling */
+    #presale_ncxT .mbl-tokrowitems p{
+        color: #FFFFFF !important;
+        font-size: 8px !important;
+    }
+    #presale_ncxT .color.mbl-hid {
+        visibility: hidden;
+    }
 
 
-/* ************************************** */
-.form-container {
-    height: 100%;
-    width: 100%;
-  }
-  
-  .form {
-    margin: auto;
-  }
-  
-  .btn-primary {
-    width: 120px;
-    border: 0;
-    padding: 8px;
-    border-radius: 15px;
-    color: white;
-    background: #00d4ff;
-    cursor: pointer;
-  }
-  .example-mark {
-    width: 8px;
-    height: 8px;
-    border: 2px solid rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    cursor: pointer;
-    border-radius: 50%;
-    vertical-align: middle;
-    margin: 0px calc(19px);
-    bottom: calc(50% - 6px);
-  }
-  
-  .example-mark.example-mark-active {
-    border: 2px solid #00d4ff;
-    background-color: rgb(255, 255, 255);
-  }
-  
-  .example-mark.example-mark-completed {
-    border: 2px solid rgb(255, 255, 255);
-    background-color: #00d4ff;
-  }
-  
-  .example-thumb {
-    font-size: 0.9em;
-    text-align: center;
-    background-color: black;
-    color: white;
-    cursor: pointer;
-    box-sizing: border-box;
-  }
-  
-  .example-thumb.active {
-    background-color: grey;
-  }
-  
-  .example-track {
-    position: relative;
-    background: #ddd;
-  }
-  
-  .example-track.example-track-0 {
-    background: #00d4ff;
-  }
-  
-  .vertical-slider .example-thumb {
-    left: 1px;
-    width: 48px;
-    line-height: 40px;
-    height: 50px;
-  }
-  
-  .vertical-slider .example-track {
-    left: 23px;
-    width: 3px;
-  }
-  .App {
-    display: flex;
-    font-family: sans-serif;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  }
-  
-  .container {
-    width: 25%;
-  }
-  
-  .form-container {
-    width: 50%;
-  }
-  
-  .steps-container {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .steps-item {
-    padding: 5px;
-    min-height: 80px;
-  }
+    /* Mobile NCXT Video Generation */
+    div#token_video{
+        padding: 30px 0px 100px 0px !important;
+    }
+    div#token_video .text212 h4{
+        font-size: 14px !important;
+    }
+    div#token_video .generate-div p{
+        font-size: 14px !important;
+        font-family: 'urbanist-light' !important;
+    }
+    div#token_video .taskdiv {
+        gap: 55px !important;
+        min-height: 210px !important;
+    }
+}

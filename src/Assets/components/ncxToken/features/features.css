@@ -53,3 +53,47 @@ h1.toke_feat span{
 .features-col.hide {
     visibility: hidden;
 }
+
+
+.token_features .feat-row.mobile {
+    display: none;
+}
+@media screen and (max-width: 800px){
+    .token_features .feat-row.mobile {
+        display: flex !important;
+        margin-top: 40px !important;
+    }
+    .token_features .feat-row.row{
+        display: none;
+    }
+    .token_features .feat-row.mobile .col {
+        width: 50% !important;
+        flex: inherit !important;
+    }
+    .features-col{
+        column-gap: 10px !important;
+    }
+    .fftxt h2 {
+        font-size: 15px !important;
+        line-height: 20px !important;
+        font-family: 'urbanist-regular' !important;
+        width: 90% !important;
+    }
+    .featicon svg {
+        width: 20px !important;
+        height: 20px !important;
+    }
+    .fftxt p {
+        font-size: 11px !important;
+        line-height: 16px !important;
+    }
+    h1.toke_feat {
+        font-size: 22px;
+    }
+    .feat-row.row.mobile.one .feat-line {
+        height: 280px;
+    }
+    .feat-row.row.mobile.one .fftxt {
+        min-height: 250px;
+    }
+}

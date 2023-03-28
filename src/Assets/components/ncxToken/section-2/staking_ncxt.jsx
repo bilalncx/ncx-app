@@ -149,45 +149,45 @@ function HomeNCXToken()
                         <h3>NCX Staked</h3>
                         <div className="mbl-tokrowitems">
                             <div className="color">
-                                <div className="color-one"></div>
+                                <NCXTokenIcon />
+                                <p>25K</p>
+                            </div>
+                            <div className="color">
+                                <NCXTokenIcon />
                                 <p>50K</p>
                             </div>
                             <div className="color">
-                                <div className="color-two"></div>
+                                <NCXTokenIcon />
                                 <p>100K</p>
                             </div>
                             <div className="color">
-                                <div className="color-three"></div>
+                                <NCXTokenIcon />
                                 <p>250K</p>
                             </div>
                             <div className="color">
-                                <div className="color-four"></div>
+                                <NCXTokenIcon />
                                 <p>500K</p>
                             </div>
                             <div className="color">
-                                <div className="color-five"></div>
+                                <NCXTokenIcon />
                                 <p>1M</p>
                             </div>
                             <div className="color">
-                                <div className="color-six"></div>
+                                <NCXTokenIcon />
                                 <p>2.5M</p>
                             </div>
                             <div className="color">
-                                <div className="color-seven"></div>
+                                <NCXTokenIcon />
                                 <p>5M</p>
                             </div>
                             <div className="color">
-                                <div className="color-eight"></div>
+                                <NCXTokenIcon />
                                 <p>10M</p>
-                            </div>
-                            <div className="color">
-                                <div className="color-nine"></div>
-                                <p>25M</p>
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Trading Fee Discount (Spot & Derivatives)</h3>
+                        <h3>Trading Fee Discount</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
                                 <p>10%</p>
@@ -214,7 +214,7 @@ function HomeNCXToken()
                                 <p>80%</p>
                             </div>
                             <div className="color">
-                                <p>100%</p>
+                                <p>90%</p>
                             </div>
                         </div>
                     </div>
@@ -222,31 +222,69 @@ function HomeNCXToken()
                         <h3>Additional Staking Rewards (APR)</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
+                                <p>2%</p>
+                            </div>
+                            <div className="color">
                                 <p>3%</p>
+                            </div>
+                            <div className="color">
+                                <p>4%</p>
                             </div>
                             <div className="color">
                                 <p>5%</p>
                             </div>
                             <div className="color">
-                                <p>7%</p>
+                                <p>6%</p>
+                            </div>
+                            <div className="color">
+                                <p>8%</p>
                             </div>
                             <div className="color">
                                 <p>10%</p>
                             </div>
                             <div className="color">
+                                <p>12%</p>
+                            </div>
+                            <div className="color">
                                 <p>15%</p>
                             </div>
-                            <div className="color">
-                                <p>20%</p>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Lower Spread on Derivatives Trading</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">
                             </div>
-                            <div className="color">
-                                <p>25%</p>
+                            <div className="color height_q">
+                                <p>Level 1</p>
                             </div>
-                            <div className="color">
-                                <p>30%</p>
+                            <div className="color height_q">
+                                <p>Level 2</p>
                             </div>
-                            <div className="color">
-                                <p>35%</p>
+                            <div className="color height_q">
+                                <p>Level 3</p>
+                            </div>
+                            <div className="color height_q">
+                                <p>Level 4</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow derivative">
+                        <h3>NCX Card</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive">
+                            </div>
+                            <div className="color height_q">
+                                <p>Select</p>
+                            </div>
+                            <div className="color height_q">
+                                <p>Platinum</p>
+                            </div>
+                            <div className="color height_q">
+                                <p>Gold</p>
+                            </div>
+                            <div className="color height_q">
+                                <p>Black</p>
                             </div>
                         </div>
                     </div>
@@ -254,7 +292,6 @@ function HomeNCXToken()
                         <h3>Withdrawal Fee Refund</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive">
-                                {/* <p>3%</p> */}
                             </div>
                             <div className="color">
                                 <p>10%</p>
@@ -282,13 +319,13 @@ function HomeNCXToken()
                             </div>
                         </div>
                     </div>
-                    <div className="mbl-tokrow derivative">
-                        <h3>Derivative Leverage</h3>
+                    <div className="mbl-tokrow">
+                        <h3>Derivatives Leverage</h3>
                         <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">  
+                            <div className="color height_q">
                                 <p>80x</p>
                             </div>
-                            <div className="color">
+                            <div className="color height_q">
                                 <p>100x</p>
                             </div>
                             <div className="color">
@@ -298,7 +335,7 @@ function HomeNCXToken()
                                 <p>120x</p>
                             </div>
                             <div className="color">
-                                <p>130x</p>
+                                <p>130x%</p>
                             </div>
                             <div className="color">
                                 <p>140x</p>
@@ -306,23 +343,14 @@ function HomeNCXToken()
                             <div className="color">
                                 <p>150x</p>
                             </div>
-                            <div className="color">
-                                <p>200x</p>
-                            </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
                         <h3>Additional APR for Providing Liquidity in NCX Yield Farms</h3>
                         <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">
-                                {/* <p>3%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>10%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
                             <div className="color">
                                 <p>5%</p>
                             </div>
@@ -339,63 +367,19 @@ function HomeNCXToken()
                                 <p>15%</p>
                             </div>
                             <div className="color">
-                                <p>25%</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="mbl-tokrow">
-                        <h3>Use NCXT as Derivatives Trading Collateral </h3>
-                        <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">
-                                {/* <p>3%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>10%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>5%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>5%</p> */}
-                            </div>
-                            <div className="color">
-                                <p>10%</p>
-                            </div>
-                            <div className="color">
-                                <p>15%</p>
-                            </div>
-                            <div className="color">
                                 <p>20%</p>
                             </div>
-                            <div className="color">
-                                <p>25%</p>
-                            </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Use NCXT as Derivatives Trading Collateral</h3>
+                        <h3>Use NCXT as Collateral to Borrow other Crypto Assets</h3>
                         <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">
-                                {/* <p>3%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>10%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>5%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
                             <div className="color">
                                 <p><TokenTick /></p>
                             </div>
@@ -404,26 +388,6 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <p><TokenTick /></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="mbl-tokrow derivative">
-                        <h3>IEO Tickets for New NCX Spot Launches</h3>
-                        <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">  
-                                <p>8%</p>
-                            </div>
-                            <div className="color inactive">  
-                                <p>10%</p>
-                            </div>
-                            <div className="color inactive">  
-                                <p>12%</p>
-                            </div>
-                            <div className="color inactive">  
-                                <p>12%</p>
-                            </div>
-                            <div className="color">
-                                <p>15%</p>
                             </div>
                         </div>
                     </div>

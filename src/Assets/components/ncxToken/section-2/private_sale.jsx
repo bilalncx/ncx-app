@@ -129,255 +129,149 @@ function HomeNCXToken()
                 </div>
                 <div className="mobile-tokentable">
                     <div className="mbl-tokrow">
-                        <h3>NCX Staked</h3>
+                        <h3>Private Sale Round</h3>
                         <div className="mbl-tokrowitems">
                             <div className="color">
-                                <div className="color-one"></div>
-                                <p>50K</p>
+                                <NCXTokenIcon />
+                                <p>Round 1</p>
                             </div>
                             <div className="color">
-                                <div className="color-two"></div>
-                                <p>100K</p>
+                                <NCXTokenIcon />
+                                <p>Round 2</p>
                             </div>
                             <div className="color">
-                                <div className="color-three"></div>
-                                <p>250K</p>
+                                <NCXTokenIcon />
+                                <p>Round 3</p>
                             </div>
                             <div className="color">
-                                <div className="color-four"></div>
-                                <p>500K</p>
+                                <NCXTokenIcon />
+                                <p>Round 4</p>
                             </div>
                             <div className="color">
-                                <div className="color-five"></div>
-                                <p>1M</p>
+                                <NCXTokenIcon />
+                                <p>Round 5</p>
                             </div>
                             <div className="color">
-                                <div className="color-six"></div>
-                                <p>2.5M</p>
+                                <NCXTokenIcon />
+                                <p>Round 6</p>
                             </div>
                             <div className="color">
-                                <div className="color-seven"></div>
-                                <p>5M</p>
+                                <NCXTokenIcon />
+                                <p>Round 7</p>
                             </div>
                             <div className="color">
-                                <div className="color-eight"></div>
-                                <p>10M</p>
+                                <NCXTokenIcon />
+                                <p>Public Sale</p>
                             </div>
                             <div className="color">
-                                <div className="color-nine"></div>
-                                <p>25M</p>
+                                <NCXTokenIcon />
+                                <p>Listing Price</p>
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Trading Fee Discount (Spot & Derivatives)</h3>
+                        <h3>NCX Token Price in USDT</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
-                                <p>10%</p>
+                                <p>$0.0004</p>
                             </div>
                             <div className="color">
-                                <p>20%</p>
+                                <p>$0.0006</p>
                             </div>
                             <div className="color">
-                                <p>30%</p>
+                                <p>$0.0008</p>
                             </div>
                             <div className="color">
-                                <p>40%</p>
+                                <p>$0.0011</p>
                             </div>
                             <div className="color">
-                                <p>50%</p>
+                                <p>$0.0015</p>
                             </div>
                             <div className="color">
-                                <p>60%</p>
+                                <p>$0.002</p>
                             </div>
                             <div className="color">
-                                <p>70%</p>
+                                <p>$0.003</p>
                             </div>
                             <div className="color">
-                                <p>80%</p>
+                                <p>$0.004</p>
                             </div>
                             <div className="color">
-                                <p>100%</p>
+                                <p>$0.008</p>
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Additional Staking Rewards (APR)</h3>
+                        <h3>Lockup Period</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
-                                <p>3%</p>
+                                <p>9 Months</p>
                             </div>
                             <div className="color">
-                                <p>5%</p>
+                                <p>6 Months</p>
                             </div>
                             <div className="color">
-                                <p>7%</p>
+                                <p>5 Months</p>
                             </div>
                             <div className="color">
-                                <p>10%</p>
+                                <p>4 Months</p>
                             </div>
                             <div className="color">
-                                <p>15%</p>
+                                <p>3 Months</p>
                             </div>
                             <div className="color">
-                                <p>20%</p>
+                                <p>2 Months</p>
                             </div>
                             <div className="color">
-                                <p>25%</p>
+                                <p>30 Days</p>
                             </div>
                             <div className="color">
-                                <p>30%</p>
+                                <p>Unlocked</p>
                             </div>
-                            <div className="color">
-                                <p>35%</p>
+                            <div className="color mbl-hid">
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Withdrawal Fee Refund</h3>
+                        <h3>After Lockup Period Ends</h3>
                         <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">
-                                {/* <p>3%</p> */}
+                            <div className="color">
+                                <p>10% Monthly Release</p>
                             </div>
                             <div className="color">
-                                <p>10%</p>
+                                <p>10% Monthly Release</p>
                             </div>
                             <div className="color">
-                                <p>20%</p>
+                                <p>20% Monthly Release</p>
                             </div>
                             <div className="color">
-                                <p>30%</p>
+                                <p>20% Monthly Release</p>
                             </div>
                             <div className="color">
-                                <p>40%</p>
+                                <p>25% Monthly Release</p>
                             </div>
                             <div className="color">
-                                <p>50%</p>
+                                <p>25% Monthly Release</p>
                             </div>
                             <div className="color">
-                                <p>60%</p>
+                                <p>25% Monthly Release</p>
                             </div>
                             <div className="color">
-                                <p>80%</p>
+                                <p>25% Monthly Release</p>
                             </div>
-                            <div className="color">
-                                <p>100%</p>
+                            <div className="color mbl-hid">
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow derivative">
-                        <h3>Derivative Leverage</h3>
+                        <h3>Receive Trading Fee Discounts during the Vesting Period</h3>
                         <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">  
-                                <p>80x</p>
-                            </div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
                             <div className="color">
-                                <p>100x</p>
-                            </div>
-                            <div className="color">
-                                <p>110x</p>
-                            </div>
-                            <div className="color">
-                                <p>120x</p>
-                            </div>
-                            <div className="color">
-                                <p>130x</p>
-                            </div>
-                            <div className="color">
-                                <p>140x</p>
-                            </div>
-                            <div className="color">
-                                <p>150x</p>
-                            </div>
-                            <div className="color">
-                                <p>200x</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="mbl-tokrow">
-                        <h3>Additional APR for Providing Liquidity in NCX Yield Farms</h3>
-                        <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">
-                                {/* <p>3%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>10%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
-                            <div className="color">
-                                <p>5%</p>
-                            </div>
-                            <div className="color">
-                                <p>8%</p>
-                            </div>
-                            <div className="color">
-                                <p>10%</p>
-                            </div>
-                            <div className="color">
-                                <p>12%</p>
-                            </div>
-                            <div className="color">
-                                <p>15%</p>
-                            </div>
-                            <div className="color">
-                                <p>25%</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="mbl-tokrow">
-                        <h3>Use NCXT as Derivatives Trading Collateral </h3>
-                        <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">
-                                {/* <p>3%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>10%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>5%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>5%</p> */}
-                            </div>
-                            <div className="color">
-                                <p>10%</p>
-                            </div>
-                            <div className="color">
-                                <p>15%</p>
-                            </div>
-                            <div className="color">
-                                <p>20%</p>
-                            </div>
-                            <div className="color">
-                                <p>25%</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="mbl-tokrow">
-                        <h3>Use NCXT as Derivatives Trading Collateral</h3>
-                        <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">
-                                {/* <p>3%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>10%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>5%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
-                            </div>
-                            <div className="color inactive">
-                                {/* <p>20%</p> */}
+                                <p><TokenTick /></p>
                             </div>
                             <div className="color">
                                 <p><TokenTick /></p>
@@ -388,26 +282,47 @@ function HomeNCXToken()
                             <div className="color">
                                 <p><TokenTick /></p>
                             </div>
+                            <div className="color mbl-hid"></div>
                         </div>
                     </div>
-                    <div className="mbl-tokrow derivative">
-                        <h3>IEO Tickets for New NCX Spot Launches</h3>
+                    <div className="mbl-tokrow">
+                        <h3>Receive Staking Rewards during the Vesting Period</h3>
                         <div className="mbl-tokrowitems sd2">
-                            <div className="color inactive">  
-                                <p>8%</p>
-                            </div>
-                            <div className="color inactive">  
-                                <p>10%</p>
-                            </div>
-                            <div className="color inactive">  
-                                <p>12%</p>
-                            </div>
-                            <div className="color inactive">  
-                                <p>12%</p>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color">
+                                <p><TokenTick /></p>
                             </div>
                             <div className="color">
-                                <p>15%</p>
+                                <p><TokenTick /></p>
                             </div>
+                            <div className="color">
+                                <p><TokenTick /></p>
+                            </div>
+                            <div className="color mbl-hid"></div>
+                        </div>
+                    </div>
+                    <div className="mbl-tokrow">
+                        <h3>Receive Staking Rewards during the Vesting Period</h3>
+                        <div className="mbl-tokrowitems sd2">
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color inactive"></div>
+                            <div className="color">
+                                <p><TokenTick /></p>
+                            </div>
+                            <div className="color">
+                                <p><TokenTick /></p>
+                            </div>
+                            <div className="color">
+                                <p><TokenTick /></p>
+                            </div>
+                            <div className="color mbl-hid"></div>
                         </div>
                     </div>
                 </div>
