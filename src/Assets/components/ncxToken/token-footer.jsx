@@ -28,7 +28,7 @@ function MyFooter()
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Cross-Chain DEX</a></li>
                             <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
                             <li><a href="#">NCX DeFi Wallet</a></li>
-                            <li><a href="#">NCX Token</a></li>
+                            <li><a href="/ncx-token">NCX Token</a></li>
                             <li><a href="#">Equities Trading</a></li>
                             <li><a href="#">Forex Trading</a></li>
                             <li><a href="#">Commodities Trading</a></li>
@@ -132,7 +132,7 @@ function MyFooter()
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Cross-Chain DEX</a></li>
                         <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
                         <li><a href="#">NCX DeFi Wallet</a></li>
-                        <li><a href="#">NCX Token</a></li>
+                        <li><a href="/ncx-token">NCX Token</a></li>
                         <li><a href="#">Equities Trading</a></li>
                         <li><a href="#">Forex Trading</a></li>
                         <li><a href="#">Commodities Trading</a></li>

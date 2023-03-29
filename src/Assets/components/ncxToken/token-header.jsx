@@ -125,7 +125,7 @@ export default function Header() {
                   <a href="#">NCX Wallet</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#" target="_blank" rel="noreferrer">NCX Token</a>
+                  <a href="/ncx-token">NCX Token</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="https://ncx.cx/task-rewards">Rewards</a>
@@ -216,7 +216,7 @@ export default function Header() {
                         <a href="https://ncx.cx/ncx-card">NCX Card</a>
                       </li>
                       <li>
-                        <a href="#">NCX Token</a>
+                        <a href="ncx-token">NCX Token</a>
                       </li>
                       <li>
                         <a href="https://ncx.cx/task-rewards">Rewards</a>
