@@ -4,6 +4,8 @@ import './style.css';
 import {ReactComponent as NCXTickmark } from '../../../images/check.svg';
 import { ReactComponent as TokenTick } from '../../../images/check.svg';
 import {ReactComponent as NCXTokenIcon} from '../../../images/token_icon.svg';
+import { ReactComponent as NCXTokenLogo } from '../../../images/token-footerlogo.svg';
+
 
 function HomeNCXToken()
 {
@@ -11,7 +13,8 @@ function HomeNCXToken()
         <div id="presale_ncxT">
             <div className="container">
                 <div className="stake_ncx">
-                    <h1>Stake NCXT & Reap the Rewards</h1>
+                    <NCXTokenLogo />
+                    <h1>Token <span>Private Sale</span></h1>
                 </div>
                 <div className="tokentable-stake">
                     <div className="tokenhead-stake">

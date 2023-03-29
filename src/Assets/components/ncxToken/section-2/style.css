@@ -9,9 +9,30 @@
     font-size: 34px;
     font-family: 'urbanist-light';
     color: #FFFFFF;
+    padding-left: 5px;
+}
+#presale_ncxT .stake_ncx h1 span {
+    font-family: 'urbanist-extralight' !important;
+}
+#presale_ncxT .stake_ncx{
+    display: flex;
+    align-items: center;
+}
+#presale_ncxT .stake_ncx svg {
+    width: 150px;
+    height: 33px;
+}
+#presale_ncxT .stake_ncx h1{
+    font-size: 33px;
+    font-family: 'urbanist-light';
+    color: #FFFFFF;
+    padding-left: 5px;
+    padding-left: 5px;
+    margin-left: 5px;
+    border-left: 1px solid #FFFFFF;
 }
 .tokentable-stake{
-    padding: 50px 5px;
+    padding: 50px 0px;
 }
 .tokenhead-stake{
     display: flex;
@@ -96,6 +117,9 @@ p.height_q {
     }
     .mobile-tokentable{
         display: block;
+    }
+    #stake_ncxT{
+        padding: 60px 0px !important;
     }
 }
 

@@ -337,69 +337,6 @@ div#token_video .taskdiv.two{
 }
 
 
-
-/* ************************************************************************* */
-#roadmap_slide{
-    padding-bottom: 100px;
-}
-.roadmap_sect {
-    padding: 100px 0px;
-}
-.roadmap_sect h1.roadmm {
-    font-size: 48px;
-    color: #FFFFFF;
-    font-family: 'urbanist-medium';
-    text-align: center;
-    margin-bottom: 120px;
-}
-#roadmap_slide span.MuiSlider-mark {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background: #E6E6E6;
-    border: 3px solid #FFFFFF;
-    opacity: 1;
-    display: unset !important;
-}
-#roadmap_slide span.MuiSlider-markActive {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background: #5ED3F0;
-    border: 3px solid #FFFFFF;
-    opacity: 1;
-    display: unset !important;
-}
-#roadmap_slide .MuiSlider-markLabel h1{
-    font-size: 16px !important;
-    font-family: 'urbanist-semibold' !important;
-    line-height: 24px !important;
-    text-align: center;
-    color: #FFFFFF;
-    margin-top: 20px;
-    padding-left: 20px;
-}
-#roadmap_slide span.MuiSlider-rail {
-    color: #E6E6E6 !important;
-    opacity: 1 !important;
-    border-radius: 0px;
-    height: 7px;
-}
-#roadmap_slide span.MuiSlider-track {
-    background-image: linear-gradient(190deg, #3FAEFE 0%, #39D8FF 100%) !important;
-    border: none;
-    border-radius: 0px;
-    height: 7px;
-}
-#roadmap_slide span.MuiSlider-thumb {
-    display: none;
-}
-#roadmap_slide span.MuiSlider-markLabel {
-    width: 100%;
-    max-width: 230px;
-}
-
-
 @media screen and (max-width: 800px){
     .token_first_sect{
         padding: 200px 0px 50px 0px !important;
@@ -503,5 +440,6 @@ div#token_video .taskdiv.two{
     div#token_video .taskdiv {
         gap: 55px !important;
         min-height: 210px !important;
+        width: 49% !important;
     }
 }
