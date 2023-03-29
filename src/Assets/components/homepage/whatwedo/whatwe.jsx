@@ -46,7 +46,7 @@ function WhatweDoSection(){
                         className={toggleState === 3 ? "pro-tabs active" : "pro-tabs"}
                         onClick={() => toggleTab(3)}
                     >
-                    DEX
+                    Cross-Chain DEX
                     </button>
                     <button
                         id="btn-4"
@@ -192,6 +192,22 @@ function WhatweDoSection(){
                     </div>
                     <div id="content-4" className={toggleState === 4 ? "pro-content active" : "pro-content"}>
                         <div className="ncx-card-trade">
+                            <div className="card_video row">
+                                <div className="col"></div>
+                                <div className="col">
+                                    <video 
+                                        id='buy-video'
+                                        autoPlay={true}
+                                        muted={true}
+                                        loop={true}
+                                        playsInline={true}
+                                        preload="auto"
+                                        poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
+                                    >
+                                    <source src={require('../../../images/buy_crypto_homevideo.mp4')} type="video/mp4" />
+                                </video>
+                                </div>
+                            </div>
                             <div className="cardtrade-row">
                                 <div className="col">
                                     <h1>NCX Crypto Debit Card</h1>
@@ -222,7 +238,18 @@ function WhatweDoSection(){
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="cardtr-image" src={NCXCardTrade} />
+                                    <video 
+                                            id='buy-video'
+                                            autoPlay={true}
+                                            muted={true}
+                                            loop={true}
+                                            playsInline={true}
+                                            preload="auto"
+                                            poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
+                                        >
+                                        <source src={require('../../../images/buy_crypto_homevideo.mp4')} type="video/mp4" />
+                                    </video>
+                                    {/* <img className="cardtr-image" src={NCXCardTrade} /> */}
                                 </div>
                             </div>
                         </div>

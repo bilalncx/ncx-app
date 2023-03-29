@@ -9,31 +9,56 @@
     font-family: 'urbanist-medium';
     text-transform: uppercase;
     color: #34A9FF;
+    display: none;
 }
 .whatwe-head h1 {
-    font-family: 'urbanist-medium';
-    font-size: 48px;
-    padding-top: 5px;
+    font-family: 'urbanist-regular';
+    font-size: 52px;
+    padding-top: 0px;
     margin-bottom: 25px;
 }
 button.pro-tabs {
-    font-size: 20px;
-    font-family: 'urbanist-medium';
+    font-size: 22px;
+    font-family: 'urbanist-light';
     color: #000;
     border: none;
     padding: 0px;
     background: none !important;
+    position: relative;
 }
-button.pro-tabs.active {
+button.pro-tabs:after {
+    background-color: #34a9ff;
+    content: "";
+    display: block;
+    height: 2px;
+    position: absolute;
+    top: 32px;
+    transition: 1s;
+    width: 0;
+}
+button.pro-tabs:hover:after {
+    width: 100%;
+}
+/* button.pro-tabs.active {
     color: #349AFF;
+} */
+button.pro-tabs.active:after{
+    background-color: #34a9ff;
+    content: "";
+    display: block;
+    height: 2px;
+    position: absolute;
+    top: 32px;
+    transition: 1s;
+    width: 100%;
 }
 .whatwe-head {
-    padding: 0px 40px;
+    padding: 0px 20px;
 }
 .product-tabs-btn {
-    padding: 0px 40px 0px 40px;
+    padding: 0px 20px 0px 20px;
     display: flex;
-    column-gap: 70px;
+    justify-content: space-between;
     position: relative;
     z-index: 1;
 }
@@ -44,8 +69,8 @@ button.pro-tabs.active {
     display: block;
 }
 .deri-row {
-    background: #F7F9FB;
-    background-color: #F7F9FB;
+    background: #EBEBEB;
+    background-color: #EBEBEB;
     padding: 40px 50px 40px 50px;
     display: flex;
     max-width: 1261px;
@@ -62,7 +87,10 @@ img.deri-image {
     max-width: 400px;
 }
 .derivatives-trade .product-img {
-    text-align: end;
+    /* text-align: end; */
+    align-items: center;
+    display: flex;
+    justify-content: end;
 }
 .product-img{
     text-align: center;
@@ -263,19 +291,46 @@ p.dexp2 {
     text-align: left;
 }
 .ncx-card-trade{
-    background: url(../../../images/ncx-card-traebg.jpg);
-    background-color: #B5C0D6;
+    /* background: url(../../../images/ncx-card-traebg.jpg); */
+    /* background-color: #B5C0D6; */
+    background-color: #EBEBEB;
+    background: #EBEBEB;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    padding: 50px 50px 50px 70px;
+    /* padding: 50px 50px 50px 70px; */
     max-width: 1261px;
     margin: 0 auto;
     margin-top: 20px;
     min-height: 586px;
     max-height: 586px;
+    position: relative;
+}
+video#buy-video {
+    height: 586px;
+    width: auto;
+}
+.card_video.row {
+    margin: 0 !important;
+}
+.card_video.row .col:nth-child(1) {
+    width: 40%;
+    padding: 0px;
+}
+.card_video.row .col:nth-child(2) {
+    width: 60%;
+    padding: 0px;
 }
 .cardtrade-row {
     display: flex;
+    position: absolute;
+    top: 0px;
+}
+.cardtrade-row .col{
+    width: 50% !important;
+    flex: inherit !important;
+}
+.cardtrade-row .col:nth-child(1){
+    padding: 50px 50px 50px 70px;
 }
 .cardtrade-row .col.product-img {
     position: relative;
@@ -291,13 +346,13 @@ p.dexp2 {
 .cardtrade-row h1 {
     font-size: 34px;
     line-height: 40px;
-    color: #FFFFFF;
+    color: #000000;
     font-family: 'urbanist-medium';
     margin-bottom: 20px;
     text-align: left;
 }
 p.cardp1 {
-    color: #FFFF;
+    color: #000000;
     font-family: 'urbanist-regular';
     font-size: 18px;
     line-height: 24px;
@@ -306,29 +361,30 @@ p.cardp1 {
     text-align: left;
 }
 .cardtrade-row .bullets span {
-    color: #000000;
-    background: #FFFFFF;
+    color: #FFFFFF;
+    background: #000000;
 }
 p.cardp2{
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 20px;
     font-family: 'urbanist-regular';
-    color: #FFFFFF;
+    color: #000000;
     text-align: left;
 }
 .cardtrade-row a.der-buttons {
-    color: #FFFFFF;
-    border-color: #FFFFFF;
+    color: #34A9FF;
+    border-color: #34A9FF;
 }
 .cardtrade-row a.der-buttons:hover {
     color: #FFFFFF;
     border-color: #34A9FF;
+    background: #34A9FF;
 }
 .cardtrade-row a.buycrypt-btn {
-    color: #000000;
-    background: #FFFFFF;
-    border-color: #FFFFFF;
+    color: #FFFFFF;
+    background: #000000;
+    border-color: #000000;
 }
 .cardtrade-row a.buycrypt-btn:hover {
     text-decoration: none;
@@ -464,7 +520,7 @@ span.apisvg {
     border: none !important;
 }
 .ncx-tradeassets{
-    background: #F7F9FB;
+    background: #EBEBEB;
     padding: 40px 50px 40px 50px;
     max-width: 1261px;
     margin: 0 auto;
@@ -621,6 +677,9 @@ span.apisvg {
 span.mbl-bltshow {
     display: none;
 }
+.pro-content .col.product-img video#buy-video {
+    display: none;
+}
 @media screen and (max-width: 1280px){
     .deri-row, .ncx-card-trade{
         max-width: 100% !important;
@@ -657,8 +716,11 @@ span.mbl-bltshow {
         margin-right: 15px;
         margin-bottom: 10px;
     }
-    button.pro-tabs.active{
+    /* button.pro-tabs.active{
         font-family: 'urbanist-semibold';
+    } */
+    button.pro-tabs.active:after, button.pro-tabs:after{
+        top: 24px !important;
     }
     .deri-row {
         min-width: inherit !important;
@@ -891,5 +953,26 @@ span.mbl-bltshow {
     }
     .widerangencxproducts .pro-content .bullets {
         display: flex;
+    }
+    .card_video.row {
+        display: none;
+    }
+    .pro-content .col.product-img video#buy-video {
+        display: block;
+        width: 100%;
+        height: auto !important;
+    }
+    .ncx-card-trade .cardtrade-row {
+        position: relative;
+    }
+    .cardtrade-row .col{
+        width: 100% !important;
+        padding: 0px !important;
+    }
+    #content-4 .ncx-card-trade{
+        padding-bottom: 0px !important;
+    }
+    .cardtrade-row .col:nth-child(1) {
+        margin-bottom: 50px !important;
     }
 }

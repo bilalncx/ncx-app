@@ -19,9 +19,9 @@ const CountdownTimer = ({ targetDate }) => {
       <div className="show-counter">
           <DateTimeDisplay value={days} type={'Days'} isDanger={days <= 0} />
           <p>:</p>
-          <DateTimeDisplay value={hours} type={'Hours'} isDanger={hours <= 0} />
+          <DateTimeDisplay value={hours} type={'Hours'} isDanger={false} />
           <p>:</p>
-          <DateTimeDisplay value={minutes} type={'Mins'} isDanger={minutes <= 0 } />
+          <DateTimeDisplay value={minutes} type={'Mins'} isDanger={false} />
           <p>:</p>
           <DateTimeDisplay value={seconds} type={'Seconds'} isDanger={false} />
       </div>

@@ -62,7 +62,7 @@
     display: flex;
     justify-content: space-between;
 }
-.color {
+#ncx_token_Page .color {
     background: rgba(31, 31, 31, 0.6);
     padding: 10px 10px;
     display: flex;
