@@ -1,5 +1,565 @@
 const blogListdata = [
   {
+    id: 291,
+    title: 'Arbitrum [ARB] dApps show growth, but protocol has a long road ahead',
+    category: 'Crypto',
+    subCategory: ['ARB', 'Arbitrum', 'Growth'],
+    description: <div className="blog-desc">
+      <p>Arbitrum [ARB] has been receiving a lot of attention due to its recent token AirDrop. The dApps on the Arbitrum network seem to have taken advantage of this attention as many of them observed growth after the AirDrop.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 29, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-302.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Arbitrum’s dApps observed high activity on its network.</li>
+        <li>However, the overall state of Arbitrum returned to normal as the AirDrop hype died down.</li>
+      </ul>
+      <p>Arbitrum [ARB] has been receiving a lot of attention due to its recent token AirDrop. The dApps on the Arbitrum network seem to have taken advantage of this attention as many of them observed growth after the AirDrop.</p>
+    	<p>Santiment’s data revealed that Stargate, a DeFi protocol operating on the Arbitrum network, experienced a significant increase in its network growth despite a 51% decrease in the value of its token STG.</p>
+    	<p>Another dApp that witnessed growth was GMX. According to Dapp Radar, the overall volume on the GMX protocol increased by 6.72% in the past 30 days. During this period, the number of unique active wallets on the GMX network also increased.</p>	
+    	<p>These developments led to a 28.6% surge in the TVL of Arbitrum last week, according to data provided by L2Beats.</p>	
+    	<h3>Still a long way to go</h3>
+      <p>However, the growth of the aforementioned dApps wasn’t reflected by the Arbitrum network. According to Artemis’ data, the daily activity addresses on the network declined materially over the last few days, falling from 611,000 addresses to 167,300 addresses at press time.</p>
+      <p>This decline in activity was observed despite Arbitrum offering lower transaction fees to its users, which helped them save higher amounts of ETH on each of their transactions. According to Dune Analytics’ data, Arbitrum outperformed other L2 solutions like Optimism in terms of savings provided to users.</p>
+      <p>Even though there was a decline in activity on Arbitrum, there wasn’t much of an impact on the revenue that was being generated. According to Token Terminal’s data, the revenue rose by 22.7% in the last 24 hours.</p>
+      <p>The number of active developers on the network spiked during this period as well. This indicated that Arbitrum was capitalizing on the renewed attention on its network to roll out new upgrades and updates on the network.</p>
+    </div>
+  },
+  {
+    id: 290,
+    title: 'Dogecoin [DOGE]: Short-term investors could gain, but only if…',
+    category: 'Crypto',
+    subCategory: ['DOGE', 'Investors', 'Dogecoin'],
+    description: <div className="blog-desc">
+      <p>The higher timeframe price charts of Dogecoin [DOGE] showed strong bearish pressure on one of the most popular meme coins. The $0.08 region has posed stern resistance since early March, and this does not look likely to change soon.</p>
+    </div>,
+    authorName: 'Akashnath S',
+    authorurl: 'https://ambcrypto.com/author/akashnath-sumukar/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 29, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-301.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>The lower timeframe structure of DOGE was bearish on the charts.</li>
+        <li>The support zone at $0.071 could see a minor bullish reaction.</li>
+      </ul>
+	    <p>The higher timeframe price charts of Dogecoin [DOGE] showed strong bearish pressure on one of the most popular meme coins. The $0.08 region has posed stern resistance since early March, and this does not look likely to change soon.</p>
+    	<p>Bitcoin [BTC] could see some volatility after dropping to $26.5k on 27 March. In this scenario, a bounce for DOGE would offer short sellers a better risk-to-reward region to sell Dogecoin.</p>	
+	    <p>There were two scenarios that short-term bears can watch out for. One is a drop beneath the $0.071 region, highlighted in cyan. This would be a strongly bearish scenario, and bears can look to short the retest of this region as resistance. They can target the zones of support at $0.068 and $0.065 to take profits. An extremely wide stop-loss can be used above the recent Monday’s swing high.</p>	
+	    <p>The blue line at $0.0713 marked a strong lower timeframe zone of support for DOGE. The second scenario that could unfold was a bounce from this region that reached the $0.075-$0.078 area.</p>
+      <p>A move into this zone can also be shorted, with a stop-loss above the $0.0805 mark. This could offer a better R: R trade and sellers can take partial profits at the support zones if they choose to.</p>
+      <p>The RSI on the two-hour chart has not surfaced above neutral 50 since 24 March, which highlighted a near-term downtrend. The CMF was also at -0.10 to indicate significant capital flow out of the Dogecoin market.</p>
+      <p>Dogecoin reached a swing high of $0.0764 on Monday and dropped to test the $0.0713 support level just a couple of hours later. This constituted a drop of 6.7%, and the futures traders remained sidelined or lost money.</p>
+      <p>The Open Interest dove from $261 million to $243 million after this move, and Coinalyze’s data showed $1.6 million worth of long positions were liquidated in those two hours. However, the predicted funding rate was positive, which hinted at slight bullishness. Overall, the inference was bearish sentiment toward DOGE.</p>
+    </div>
+  },
+  {
+    id: 277,
+    title: 'Stocks Push Higher as China Tech Buoys Sentiment: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['Stocks', 'China Tech', 'Market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- European and US equity futures rose alongside Asian shares as the Hong Kong market rallied on a planned revamp of Alibaba Group Holdings Ltd. that bodes well for Chinese technology companies.</p>
+    </div>,
+    authorName: 'Richard Henderson',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 29, 2023 - 9:40 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-284.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- European and US equity futures rose alongside Asian shares as the Hong Kong market rallied on a planned revamp of Alibaba Group Holdings Ltd. that bodes well for Chinese technology companies.</p>
+	    <p>Contracts for the region-wide Euro Stoxx 50 equity benchmark moved around 0.4% higher, broadly in line with an advance in US futures that effectively canceled a decline Tuesday. A gauge of Asian stocks rose for a second day as benchmarks in Japan and Australia also increased.</p>	
+	    <p>Investors rushed back to Alibaba shares and other large tech companies that have been stung by a crackdown from Beijing over the past two years. Alibaba’s Hong Kong shares surged around 14%, tracking a jump in its US-listed stock after the e-commerce giant said it would split into six units in a shakeup that promises to yield multiple initial public offerings.</p>	
+	    <p>The Hang Seng Index advanced around 2% and a measure of Hong Kong-listed tech firms jumped about 3% in an updraft that buoyed Tencent Holdings Ltd., Baidu Inc., and Japan-listed Softbank Group Corp., which owns a large stake in Alibaba.</p>
+      <p>Treasuries were little changed in Asian trading after the two-year yield rose eight basis points and the 10-year equivalent climbed four basis points Tuesday.</p>
+      <p>An index of the dollar edged higher after ending Tuesday near the lowest level in eight weeks. The Australian dollar weakend after slower-than-forecast inflation data bolstered the case for the central bank to pause its run of interest-rate increases.</p>
+      <p>Investors are preparing for a raft of data on the US economy this week, including the central bank’s preferred measure of inflation — the so-called core PCE deflator — which is likely to factor into the Federal Reserve’s next policy decision.</p>
+      <p>St. Louis Fed President James Bullard said “appropriate monetary policy can continue to put downward pressure on inflation” despite the turmoil in US regional banks. Meanwhile, consumers appear to have shrugged off the bank failures, with the latest consumer confidence figures unexpectedly higher in March.</p>
+      <p>Swaps traders have priced in more than a 50% probability the Fed will raise rates by a quarter point at its next meeting, with plans to ease thereafter. However, several strategists have joined BlackRock Investment Institute in saying markets are wrong in expecting imminent rate cuts.</p>
+      <p>“The banking crisis and the new tighter standards for banks is equivalent to one to two rate hikes,” said Eva Ados, chief investment strategist for ERShares, in an interview with Bloomberg Television. “There is a big possibility here of a pricing mistake. We are pricing in the rate drop rather than the reason why rates are dropping, which is the banking crisis.”</p>
+      <p>Underscoring how much disruption has been caused by the turmoil in the banking sector, UBS Group AG said Sergio Ermotti would return as chief executive officer. He’s replacing Ralph Hamers after just over two years in charge as the UBS looks to the veteran banker to oversee the complicated acquisition of Credit Suisse Group AG.</p>
+      <p>Elsewhere, oil was higher after a clash between Iraq and its Kurdish region curtailed exports. Gold fell slightly and Bitcoin traded around $27,400.</p>
+      <p>Key events this week:</p>
+      <ul>
+        <li>EIA Crude Oil Inventory Report, Wednesday</li>
+        <li>Eurozone economic confidence, consumer confidence, Thursday</li>
+        <li>US GDP, initial jobless claims, Thursday</li>
+        <li>Boston Fed President Susan Collins and Richmond Fed President Thomas Barkin speaks at event. Treasury Secretary Janet Yellen also speaks, Thursday</li>
+        <li>China PMI, Friday</li>
+        <li>Eurozone CPI, unemployment, Friday</li>
+        <li>US consumer income, PCE deflator, University of Michigan consumer sentiment, Friday</li>
+        <li>ECB President Christine Lagarde speaks, Friday</li>
+        <li>New York Fed President John Williams speaks, Friday</li>
+      </ul>
+      <p>Some of the main moves in markets:</p>
+      <p>Stocks</p>
+      <ul>
+        <li>S&P 500 futures rose 0.5% as of 2:38 p.m. Tokyo time. The S&P 500 fell 0.2%</li>
+        <li>Nasdaq 100 futures rose 0.5%. The Nasdaq 100 fell 0.5%</li>
+        <li>Japan’s Topix rose 1.1%</li>
+        <li>Australia’s S&P/ASX 200 rose 0.2%</li>
+        <li>Hong Kong’s Hang Seng rose 2.2%</li>
+        <li>The Shanghai Composite was little changed</li>
+        <li>Euro Stoxx 50 futures rose 0.4%</li>
+      </ul>
+      <p>Currencies</p>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index rose 0.2%</li>
+        <li>The euro was little changed at $1.0836</li>
+        <li>The Japanese yen fell 0.6% to 131.74 per dollar</li>
+        <li>The offshore yuan fell 0.2% to 6.8885 per dollar</li>
+        <li>The Australian dollar fell 0.3% to $0.6690</li>
+      </ul>
+      <p>Cryptocurrencies</p>
+      <ul>
+        <li>Bitcoin rose 0.8% to $27,534.81</li>
+        <li>Ether rose 0.8% to $1,788.85</li>
+      </ul>
+      <p>Bonds</p>
+      <ul>
+        <li>The yield on 10-year Treasuries declined one basis point to 3.56%</li>
+        <li>Japan’s 10-year yield declined one basis point to 0.295%</li>
+        <li>Australia’s 10-year yield declined two basis points to 3.28%</li>
+      </ul>
+      <p>Commodities</p>
+      <ul>
+        <li>West Texas Intermediate crude rose 0.7% to $73.73 a barrel</li>
+        <li>Spot gold fell 0.4% to $1,965.21 an ounce</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+    </div>
+  },
+  {
+    id: 289,
+    title: 'Next Chapter in Europe’s Energy Crisis — Summer Risks for Gas',
+    category: 'Commodities',
+    subCategory: ['Europe', 'Summer', 'Crisis'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Europe has negotiated through the winter of a crisis that threatened to choke energy supplies and overwhelm its economy, but officials are warning that the squeeze may not yet be over.</p>
+    </div>,
+    authorName: 'Anna Shiryaevskaya and Elena Mazneva',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 29, 2023 - 9:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-300.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- Europe has negotiated through the winter of a crisis that threatened to choke energy supplies and overwhelm its economy, but officials are warning that the squeeze may not yet be over.</p>
+	    <p>Fears of blackouts and freezing homes have faded for now, and gas reserves remain far fuller than normal. The region is entering a crucial period of replenishing those stockpiles, and avoiding a crunch next winter hinges on its success. It won’t be able to rely on the usually massive supply of pipeline gas from Russia, and EU officials are leaning on companies to end LNG imports from the country.</p>	
+	    <p>The perils from a year ago will be fresh on policy makers’ minds. Heat waves, the worst drought in centuries, nuclear outages in France and overall panic about Russia’s dwindling gas exports resulted in a record surge in prices. They’ve fallen more than 80% since then, and the outlook holds few worries for the months ahead. BloombergNEF sees enough supplies available to fill inventories to the EU’s goal of 90% by the end of October.</p>	
+	    <p>The market remains wary a repeat of last year’s events will flip the balance once again. There are also new worries about a rebound in Chinese demand, and an even deeper curtailment in Russian supplies — pipeline and liquefied natural gas, said Andrew Walker, a vice president at major LNG provider Cheniere Energy Inc.</p>
+      <p>“There are a lot of key risks sitting out there,” he said at the European Gas Conference in Vienna.</p>
+      <p>With summer coming and small volumes of gas already starting to be sent into storage sites, here are some of the biggest concerns for the continent.</p>
+      <p>China and Fight for LNG</p>
+      <p>Record LNG imports formed the backbone of Europe’s efforts to tackle the crisis over the past year. But the jostling for cargoes could start increasing.</p>
+      <p>The International Energy Agency has warned that Europe still faces a risk of supply shortages this year, unless it further curbs consumption, with China’s LNG demand being the biggest unknown. The agency has a 40 billion cubic meters difference between its highest and lowest estimates for the nation’s net LNG imports this year. That’s the equivalent of about 8% of Europe’s total demand last year.</p>
+      <p>Some industry watchers, like Wood Mackenzie, are not very bullish, at least for now. The consultant expects China’s booming domestic gas production and continued increase in Russia’s pipeline supplies to limit the need for LNG imports, and keep them below the peak of 2021 even in a high-growth scenario.</p>
+      <p>On the other hand, cheaper LNG is also bringing back appetite from smaller buyers in Asia, which increases competition, according to trader Vitol Group.</p>
+      <p>Industrial Demand Recovery</p>
+      <p>Signs are emerging that gas use by industry — which made up almost half of total demand reduction in Europe last year — is rebounding. A recovery is showing in the oil refining and petrochemical industries in Spain, the Netherlands and France, where it is easier to switch fuels than in other sectors.</p>
+      <p>Analysts at Goldman Sachs Group Inc. and SEB AB have warned that gas prices may more than double from current levels if industrial demand returns. But how big will the rebound be? Many manufacturers shut or relocated some operations last year as energy costs turned prohibitive, and there’s no certainty they will return. An unfolding banking crisis could also hit European industries.</p>
+      <p>Fuel Switching</p>
+      <p>Declining gas prices are making it attractive again for Europe’s power stations, in comparison to alternatives like coal or oil.</p>
+      <p>Coal power generation in Europe increased last year, ending a run of steady declines. It has been lower so far this year — as has gas — because of higher renewables output, primarily wind. But, gas use for electricity outstripped coal at times over the past month, according to consultant Rystad Energy AS. The shift is also aided by more expensive carbon permits, which are needed by power stations to spew emissions.</p>
+      <p>French Nukes</p>
+      <p>Electricite de France SA’s troubles are quickly turning out to be one of the biggest risks to Europe avoiding another crisis next winter. The beleaguered utility’s nuclear stations have suffered from technical errors, contributing to a record number of reactors going offline last year in the country and pushing atomic output to the lowest in 30 years.</p>
+      <p>As a result, power was the only sector in Europe where gas consumption remained relatively steady last year even though overall electricity demand declined, while wind and solar output jumped.</p>
+      <p>EDF has found new defects that have caused energy prices to spike several times this month. While the company has left its nuclear power production forecast for this year unchanged, more problems would further strain power networks and increase demand for gas. Widespread strikes in the country haven’t helped either.</p>
+      <p>Another Drought?</p>
+      <p>Memories of the arterial Rhine River drying up and becoming impassable last year are still fresh, as is the record heat and droughts that limited hydroelectric and nuclear production. Climate change is making severe weather events more likely.</p>
+      <p>The hydrological balance in the Alps — or the amount of energy stored in reservoirs and snowpack compared with seasonal norms — already shows the biggest deficit since 2017 for the time of year. Hot weather could boost demand for gas for cooling, and if the Rhine dries up again, it can disrupt the movement of coal and oil products to Germany.</p>
+      <p>Russia Risk</p>
+      <p>Russia’s share of total gas demand in the European Union dropped to under 10% by the end of last year from 40% in 2021 as most nations switched to alternatives such as US LNG. Even that little supply, especially the part coming by pipelines crossing Ukraine, has been under constant risk as the war moves into its second year.</p>
+      <p>While pipeline flows have dwindled, imports of LNG — which aren’t restricted — from the country have surged. But there’s now growing pressure on European companies to end these purchases. Some like the UK and the Baltic nations have already banned these imports. The EU is targeting a way to allow members to follow suit but it isn’t implementing any new sanctions or announcing specific measures.</p>
+      <p>Spain, one of Europe’s top buyers of the Russian fuel, has directly urged companies to reduce these purchases, but a blanket ban would be challenging to achieve.</p>
+      <p>Russia accounted for 14% of total European LNG imports last year, said Leo Kabouche, an analyst at Energy Aspects Ltd. If the region were to ban those flows, the loss would be “significant and would be extremely challenging to replace.”</p>
+      <p>The possibility of a total cut off from Moscow, risks of infrastructure sabotage or unplanned outages at major projects this year — as well as competition with China — could put the gas market under pressure again, Matthew Baldwin, deputy director general of the European Commission’s energy department, said at the conference in Vienna.</p>
+      <p>“We experienced unprecedented, volatile energy prices last year, it looks better but we are not complacent,” he said. “We are not out of the woods. So we stay vigilant, we stay together.”</p>
+    </div>
+  },
+  {
+    id: 285,
+    title: 'Gold pulls back as banking jitters ease',
+    category: 'Metals',
+    subCategory: ['Gold', 'Banking', 'Metal'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices retreated on Wednesday as investors trickled back into riskier assets betting that risks of contagion from the global banking crisis have been curbed for now.</p>
+    </div>,
+    authorName: 'Ashitha Shivaprasad',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 29, 2023 - 8:27 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-292.jpg',
+    content: <div className="blog-content">
+      <p>By Ashitha Shivaprasad</p>
+	    <p>(Reuters) - Gold prices retreated on Wednesday as investors trickled back into riskier assets betting that risks of contagion from the global banking crisis have been curbed for now.</p>
+	    <p>Spot gold was trading 0.4% lower at $1,965.89 per ounce, as of 0924 GMT. U.S. gold futures slipped 0.3% to $1,967.50.</p>	
+	    <p>Gold has retreated as "markets are going risk-on as fears of contagion within the banking sector abates," said independent analyst Ross Norman.</p>
+      <p>European shares rose, echoing an upbeat mood in Asian markets. [.EU]</p>
+      <p>Further pressuring bullion, the U.S. dollar firmed 0.2%. A stronger dollar makes bullion more expensive for overseas buyers. [USD/]</p>
+      <p>Gold traders, meanwhile, remained focused on the Federal Reserve's interest rate strategy, with investors pricing in a 40.5% chance of a 25-basis-point hike in May, according to the CME FedWatch tool.</p>
+      <p>Last week, the central bank suggested it was on the verge of pausing future hikes, but Fed Chair Jerome Powell reiterated the Fed's commitment to reining in inflation.</p>
+      <p>"Our outlook for the second half of 2023 for gold remains positive but not outrageously so as inflation persists and the Fed continues to try and edge rates higher until something breaks," Norman added.</p>
+      <p>Higher rates tend to dull zero-yield gold's appeal.</p>
+      <p>"The Fed will have to choose between higher inflation, a harder landing or financial instability - all outcomes will keep safe havens in play," likely prompting gold to retest and pierce all-time highs ($2,070/oz) this year, metals firm MKS PAMP said in a note.</p>
+      <p>U.S. consumer confidence unexpectedly increased in March, but Americans are becoming a bit anxious about the labour market, a survey showed on Tuesday.</p>
+      <p>Spot silver fell 0.2% to $23.22 per ounce, platinum eased 0.3% to $960.23 while palladium was up 0.1% at $1,420.11.</p>
+      <p>(Reporting by Ashitha Shivaprasad and Kavya Guduru in Bengaluru; Editing by Emelia Sithole-Matarise)</p>
+    </div>
+  },
+  {
+    id: 287,
+    title: 'Oil gains for 3rd day on Kurdish supply concern, easing banking fears',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Kurdish', 'Supply'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil rose for a third session on Wednesday as a halt to some exports from Iraqi Kurdistan raised concerns of tightening supply and as easing fears of a global banking crisis supported risk sentiment in the wider markets.</p>
+    </div>,
+    authorName: 'Alex Lawler',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 29, 2023 - 5:14 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-297.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>By Alex Lawler</p>
+	    <p>LONDON (Reuters) -Oil rose for a third session on Wednesday as a halt to some exports from Iraqi Kurdistan raised concerns of tightening supply and as easing fears of a global banking crisis supported risk sentiment in the wider markets.</p>	
+	    <p>Crude exports of 450,000 barrels per day (bpd) from Iraq's semi-autonomous northern Kurdistan region were halted on Saturday following an arbitration decision that confirmed Baghdad's consent was needed to ship the oil.</p>	
+	    <p>Brent crude climbed 42 cents, or 0.5%, to $79.07 a barrel by 0802 GMT, while West Texas Intermediate U.S. crude increased 61 cents, or 0.8%, to $73.81.</p>
+      <p>"The longer the stoppage continues, the tighter the supply outlook will become," said Stephen Brennock of oil broker PVM.</p>
+      <p>On Wednesday, Norwegian oil firm DNO said it had begun shutting down production at its fields in Kurdistan. The company's Tawke and Peshkabir fields averaged output of 107,000 bpd in 2022, a quarter of total Kurdish exports.</p>
+      <p>Also helping sentiment was easing worries over the banking sector after weeks of volatility in the market that had sent oil to a 15-month low on March 20, with investor nerves soothed by the sale of assets in collapsed lender Silicon Valley Bank.</p>
+      <p>"The recent rebound in oil prices is mainly driven by sentiment. We can see that risk sentiment has recovered to some extent, which pushed (the) global stock markets and crude oil rebound," said CMC Markets analyst Leon Li.</p>
+      <p>Oil also gained support from a drop in U.S. crude inventories. According to market sources citing American Petroleum Institute figures on Tuesday, crude stocks fell by 6.1 million barrels.</p>
+      <p>Attention will focus on official U.S. inventory data from the Energy Information Administration at 1430 GMT to see if it confirms the crude stock decline.</p>
+      <p>(Additional reporting by Yuka Obayashi in Tokyo and Trixie Yap in Singapore; Editing by Robert Birsel)</p>
+    </div>
+  },
+  {
+    id: 279,
+    title: 'Dow Jones Dips As Alibaba Flies; 3 New Cathie Wood Buys Trade Mixed; Micron Earnings Miss',
+    category: 'Markets',
+    subCategory: ['Dow Jones', 'Alibaba', 'Micron'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones fell as Alibaba soared. Three stocks, including Coinbase, struggled despite Cathie Wood buying shares. Micron earnings missed.</p>
+    </div>,
+    authorName: 'MICHAEL LARKIN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 29, 2023 - 12:53 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-286.jpg',
+    content: <div className="blog-content">
+	    <p>The Dow Jones fell as Alibaba soared. Three stocks, including Coinbase, struggled despite Cathie Wood buying shares. Micron earnings missed.</p>
+	    <p>The Dow Jones Industrial Average slipped as Treasury yields spiked. A trio of stocks, including Coinbase (COIN), were mixed despite Cathie Wood buying shares. Alibaba (BABA) went on a magic carpet ride while Apple (AAPL) and Microsoft (MSFT) fell. Micron Technology (MU) earnings missed views.</p>	
+	    <p>A couple of noteworthy stocks attempted breakouts despite the challenging action. Both CGI (GIB) and Sovos Brands (SOVO) tested buy points, with no success.</p>	
+	    <p>Treasury yields continued to rise. The 10-year yield rose 3 basis points to 3.56% while the two-year yield spiked 10 basis points to 4.06%. The yield curve remains inverted, traditionally an indicator of a recession.</p>
+      <p>Energy stocks got a boost as West Texas Intermediate crude rose 0.8% to more than $73 per barrel. It is continuing to move away from recent lows.</p>
+      <h3>Nasdaq Falls, IBD 50 Lags</h3>
+      <p>The Nasdaq closed off lows for the day but still fell 0.5%. EV stock Lucid (LCID) underperformed here with a dip of 7.2%.</p>
+      <p>The benchmark S&P 500 also fell despite rallying into the close. It fell 0.2%. It continues to lag the 50-day moving average. Humana (HUM) was a laggard here as it skidded 4.7%.</p>
+      <p>The S&P 500 sectors finished the session mixed, with energy and industrials making the best gains. Communications services, health and technology suffered.</p>
+      <p>Small caps barely fell, with the Russell 2000 dipping 0.1%. Growth stocks struggled the most, with the Innovator IBD 50 ETF (FFTY) down 1.5%.</p>
+      <h3>Dow Jones Today: Microsoft, Apple Stock Fall Again</h3>
+      <p>The Dow Jones industrials also slipped, though not as sharply as the other major indexes. It closed down less than 40 points, or 0.1%.</p>
+      <p>Microsoft fought back heading into the close, but still slid 0.4% as Big Tech stocks continued to cede some recent gains. It lost ground on a 276.86 entry, MarketSmith analysis shows.</p>
+      <p>Apple also toiled, easing 0.4%. Despite this, it remains clear of its 50-day and 200-day moving averages. It also managed to end the session above its 10-day line.</p>
+      <p>American Express (AXP) was the worst stock on the Dow Jones today as it fell 2.4%. Walgreens Boots Alliance (WBA) led the upside with a gain of 2.7%.</p>
+      <h3>These Stocks Struggle Despite Cathie Wood Buys</h3>
+      <p>Famed money manager Cathie Wood is never afraid to buy on the dip, but the strategy had mixed luck for three new buys Tuesday.</p>
+      <p>Cryptocurrency stock Coinbase reversed higher, gaining 0.8%. It is trading near the 50-day moving average. Wood's signature ARK Innovation ETF (ARKK) snapped up more than 32,000 shares Monday.</p>
+      <p>It came as bitcoin, the most famous digital currency of all, also reversed higher. It also rose 0.8% and remains up nearly 65% for the year.</p>
+      <p>Teladoc Health (TDOC) fell 1%, though it closed slightly off the day's lows. It is trading below its major moving averages. ARKK added more than 18,000 shares.</p>
+      <p>Joby Aviation (JOBY) also fell 1%, though also off lows. The ARK Autonomous Technology & Robotics ETF (ARKQ) bought 448,000 shares. This cheap stock does not meet CAN SLIM criteria.</p>
+      <h3>Alibaba Stock Goes On Magic Carpet Ride</h3>
+      <p>BABA stock soared on news it is splitting itself into six separate business groups. Investors seem excited by the fact that each of these groups could potentially go public to raise outside funding.</p>
+      <p>The six are: Cloud Intelligence, Cloud Commerce, Local Services, Cainiao Smart Logistics, Global Digital Commerce Group and Digital Media and Entertainment.</p>
+      <p>Each group will have its own board of directors and CEO. The move is "designed to unlock shareholder value and foster market competitiveness," according to a statement from the company.</p>
+      <p>The China stock rocketed 14.3%, taking investors on a magic carpet ride in the process. Alibaba stock is now up 7% so far in 2023.</p>
+      <h3>Micron Earnings Miss; MU Stock Up Late</h3>
+      <p>Chip giant Micron Technology (MU) inched higher after the close following earnings.</p>
+      <p>The stock closed lower heading into its report, sliding about 1%. But in extended trading it was up almost 2%. It is testing support at the 50-day moving average. The memory-chip maker is up nearly 18% so far in 2023.</p>
+      <p>Micron earnings per share were seen falling from $2.14 last year to a loss of 67 cents this year, according to Zacks Investment Research. Revenue was expected to dip 52% to $3.76 billion.</p>
+      <p>Instead, the Boise, Idaho-based company lost an adjusted $1.91 cents a share on sales of $3.69 billion.</p>
+      <p>Micron makes two types of memory chips: DRAM and Nand. DRAM chips act as the main memory in PCs, servers and other devices, working closely with central processing units. Nand flash chips provide longer-term data storage.</p>
+      <h3>Outside Dow Jones: These Stocks Test Entries</h3>
+      <p>With the stock market currently in a correction, now is the time to be adding to one's watchlist rather than buying stocks. Any buys now carry added risk.</p>
+      <p>Nevertheless, IT outsourcing play CGI (GIB) briefly cleared a flat-base entry of 94.10. It has since fallen back below this level. Overall performance is strong here, with the stock holding an IBD Composite Rating of 91 out of 99.</p>
+      <p>Packaged-food play Sovos Brands (SOVO) saw its relative strength line hit new heights as it tested a 16.93 buy point in a saucer base. It closed below that level. This is a first-stage pattern. Early-stage bases are more likely to succeed.</p>
+    </div>
+  },
+  {
+    id: 294,
+    title: 'Ethereum suffers yet another weekly outflow, but how did BTC perform',
+    category: 'Crypto',
+    subCategory: ['ETH', 'BTC', 'Ethereum'],
+    description: <div className="blog-desc">
+      <p>For the third straight week, Ethereum [ETH] investment products failed to attract the purses of digital asset investors, CoinShares’ 27 March report revealed.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-305.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Ethereum outflows were on the high side but Bitcoin shied away from a similar fate.</li>
+        <li>Other altcoins joined the BTC trend but investors remained wary of ETH.</li>
+      </ul>
+      <p>For the third straight week, Ethereum [ETH] investment products failed to attract the purses of digital asset investors, CoinShares’ 27 March report revealed.</p>
+      <p>According to the report duly delivered by James Butterfill, the altcoin faced the same fate as that of the previous weeks, seeing a $5.2 million outflow.</p>
+      <h3>ETH stuck, BTC finds an escape route</h3>
+	    <p>However, products linked to Bitcoin [BTC] had the opposite experience as the inflow was as high as $127.5 million. Every week, CoinShares discloses the activities with respect to crypto Exchange Traded Products (ETPs) across several countries.</p>
+	    <p>But before the latest report, both Bitcoin and Ethereum were on the same page. This was largely due to the instability in the traditional finance sector.</p>	
+	    <p>However, the trust issues with the banking sector seem to have resulted in gains for the crypto ecosystem. By and large, the overall inflow totaling $160 million was the highest since July 2022.</p>	
+	    <p>This hike implies that the level of trust in crypto products was high at the expense of traditional institutions’ offers. CoinShares was of the same view even though it admitted that the inflows were relatively low at the beginning of the previous week. The report stated:</p>
+      <p><b>“While the inflows came relatively late compared to the broader crypto market, we believe it is due to increasing fears amongst investors for stability in the traditional finance sector.”</b></p>
+      <h3>Until Shanghai leaves the stage</h3>
+      <p>But why has Ethereum failed to take a significant share of the input since it was the second-largest cryptocurrency in market value? Well, the long-standing investment group opined that Ethereum’s decline could be due to several factors. And like CoinShares opined last week, the Shanghai upgrade topped the list. The trading firm pointed out,</p>
+      <p><b>“We believe investor jitters around the Shanghai upgrade (expected 12th April) are the most likely reason”</b></p>
+      <p>The event, expected to happen in a few weeks, would set the grounds for staking withdrawals which could, in turn, result in selling pressure.</p>
+      <p>Besides that, recent Ethereum developments have not necessarily resulted in a positive price action. So, it could be valid that investors are being skeptic about committing funds to products related to the altcoin.</p>
+      <p>However, Bitcoin was not the only claimant with respect to improved inflow as some other altcoins joined the fray. For instance, Ripple [XRP], which outperformed several cryptocurrencies in the past week got inflows worth $1.2 million.</p>
+      <p>Polygon [MATIC], and Solana [SOL] received inflows worth $1.9 million and $4.8 million respectively.</p>
+    </div>
+  },
+  {
+    id: 293,
+    title: 'Polygon zkEVM Mainnet Beta in operation; Vitalik launches first live transaction',
+    category: 'Crypto',
+    subCategory: ['Polygon', 'Ceta', 'Vitalik'],
+    description: <div className="blog-desc">
+      <p>Almost six months after its Public Testnet, the Polygon [MATIC] zkEVM Mainnet Beta went live on Monday 27 March. The event, which began at 10 a.m. E.T, was broadcast live on YouTube. It had in attendance Vitalik Buterin, Ethereum’s [ETH] co-founder. As expected, Jordin Baylina, technical lead of the Polygon Hermez zkEVM project, was also an active participant.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-304.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>The Polygon team officially deployed the zkEVM Mainnet for public use. </li>
+        <li>Ethereum’s Vitalik Buterin made the first transaction on the network as over 50 projects were in line to join.</li>
+      </ul>
+      <p>Almost six months after its Public Testnet, the Polygon [MATIC] zkEVM Mainnet Beta went live on Monday 27 March. The event, which began at 10 a.m. E.T, was broadcast live on YouTube. It had in attendance Vitalik Buterin, Ethereum’s [ETH] co-founder. As expected, Jordin Baylina, technical lead of the Polygon Hermez zkEVM project, was also an active participant.</p>
+    	<p>Known to have made its primary objective to scale Ethereum, Polygon considered the zero-knowledge (ZK) rollup as a viable solution to the delays experienced on its optimistic match. The idea behind it was to use the existing smart contracts’ power to reduce transaction costs while utilizing Ethereum’s network security.</p>
+    	<h3>Finally, Beta is triumphant</h3>
+      <p>In an exclusive press release sent to AMBCrypto, Polygon noted that the Ethereum founder would make the first transaction on the Mainnet. The project’s co-founder, Mihailo Bjelic, who seemed elated in anticipation of the development and Vitalik’s presence, said,</p>	
+    	<p><b>“Today’s launch is an incredible milestone and the beginning of a new chapter for blockchain technology, fulfilling Ethereum’s original promise of becoming a true ‘world computer’ and creating a fairer, more egalitarian internet for all.”</b></p>	
+    	<p>However, the ability to transact was not the only benefit that Polygon was offering. According to Baylina, the team was also open-sourcing the code. This would allow developers to collaborate and innovate within the community.</p>
+      <p>When asked how Polygon could achieve the milestone less than two years after ideation, the technical lead said that it was down to the team’s dedication. Furthermore, he mentioned that the utilization of layers in the zkEVM architecture was vital to its fast execution.</p>
+      <p>Meanwhile, Vitalik was able to make the first successful transaction on the Mainnet in a few minutes. Here, he sent an ETH equivalent of $8.62 to the last address that opened a contract on the zkEVM network.</p>
+      <h3>Constraints beaten, but caution may be profitable </h3>
+      <p>After the transaction, the Ethereum founder admitted that scalability was one of the project’s limitations in the early days. But with glaring delight, he commented on the success of the Polygon landmark, saying,</p>
+      <p><b>“​​Millions of constraints for man, unconstrained scalability for mankind.”</b></p>
+      <p>Polygon also mentioned that over 50 web3 enterprises already showed an interest in joining the zkEVM. Some of these included Solana [SOL]-based Phantom, Etherscan, and Aavegotchi.</p>
+      <p>The project had pointed out that transacting within the zkEM rollup would take only a matter of seconds. However, the web3 project also warned that users bridging Ethereum could encounter a 30 to 60 minutes’ delay in this first phase.</p>
+      <p>Also, there could be vulnerabilities that could hinder the seamless processing of large deposits within this period. Polygon’s president Ryan Wyatt commented on the deployment, noting that there was more to do with the ZK expansion in the long term.</p>
+    </div>
+  },
+  {
+    id: 292,
+    title: 'Solana’s [SOL] high activity may not be enough for its revival: Here’s why',
+    category: 'Crypto',
+    subCategory: ['Solanas', 'SOl', 'revival'],
+    description: <div className="blog-desc">
+      <p>Solana [SOL] has been in muddy waters for quite some time, having been on the receiving end of criticism due to its frequent downtimes. However, new data revealed that there was a spike in the number of transactions being made on the network.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-303.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Solana witnessed a high number of transactions being made on the network.</li>
+        <li>However, DEX volume and active addresses on the network fell.</li>
+      </ul>
+    	<p>Solana [SOL] has been in muddy waters for quite some time, having been on the receiving end of criticism due to its frequent downtimes. However, new data revealed that there was a spike in the number of transactions being made on the network.</p>
+	    <p>Artemis’ data shows that the volume of transactions on the Solana network has hit its highest point in six months. This resulted in a 22.75% increase in its TVL over the past month, according to DeFiLlama’s data.</p>	
+	    <p>Although the Solana network has seen high levels of activity, there has been a decline in interest in its DEXs, as evidenced by the declining volume of DEX transactions on the network.</p>	
+	    <p>The decrease in DEX volume on the Solana network could be linked to the underperformance of DeFi protocols like Saber and Radium. Based on data from Dapp Radar, there was a 22.5% drop in the number of unique active wallets on Saber and a 33.97% decrease in the number of unique active wallets on Radium.</p>
+      <h3>SOL on the metric front</h3>
+      <p>On the social front, things were not going too well for Solana either. According to LunarCrush’s data, the number of social mentions and engagements for Solana fell by 64.7% and 47.11%, respectively. Along with that, the weighted sentiment for Solana also fell. This shows that the crypto community had a pessimistic outlook towards the future of Solana at press time.</p>
+      <p>This negative outlook impacted the price of SOL as well, which decreased materially over the last month. Coupled with that, the volume of the SOL token fell from 1.13 billion to 271 million in the same period.</p>
+      <p>However, one aspect of the Solana ecosystem that could turn things around for the protocol would be its NFT market. According to Santiment’s data, the number of NFT trades rose over the last few days. If the trend continued, it could dampen the negative sentiment against Solana and make users interested in the protocol and its token again.</p>
+    </div>
+  },
+  {
+    id: 288,
+    title: 'Oil Extends Rally as Iraq Dispute Curbs Exports, Bank Fears Wane',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Iraq', 'Exports'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil clung to gains as a disagreement between Iraq and Kurdish officials curtailed exports and fears of a banking meltdown receded.</p>
+    </div>,
+    authorName: 'Julia Fanzeres and Natalia Kniazhevich',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 11:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-299.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil clung to gains as a disagreement between Iraq and Kurdish officials curtailed exports and fears of a banking meltdown receded.</p>
+    	<p>West Texas Intermediate edged forward Tuesday and has recovered almost 10% since dropping to a 15-month low in the immediate aftermath of the banking crisis. A legal dispute between Iraq, Kurdistan, and Turkey has halted around 400,000 barrels a day of flows, constricting global supplies.</p>	
+    	<p>The market shrugged off concerns of a buildup of crude vessels along the coast of France as widespread strikes there forced most of the nation’s fuelmakers to halt operations. Strong Asian demand for the barrels has prevented prices from sliding.</p>	
+	    <p>While oil has rallied from recent lows as the banking sector stabilizes, it remains on track for a fifth monthly decline amid concerns over a potential US recession and resilient Russian energy flows. Most market watchers are still betting that China’s recovery will accelerate and boost prices later this year as demand rebounds.</p>
+      <p>Meanwhile, OPEC+ is showing no signs of adjusting oil production when it meets next week, staying the course amid turbulence in financial markets, delegates said.</p>
+      <p>Investors will also be watching comments from several US Federal Reserve officials, as well as a key measure of US inflation due this week, for clues on the path forward for monetary policy. Interest-rate hikes have added to bearish sentiment.</p>
+      <p>Energy Daily, Bloomberg’s energy and commodities newsletter, is now available. Sign up here.</p>
+    </div>
+  },
+  {
+    id: 275,
+    title: 'Stock Market Weakens; Warren Buffett Makes A Quick $450 Million; Micron Stock Slides Ahead Of Earnings',
+    category: 'Markets',
+    subCategory: ['Stock Market', 'Micron', 'Warren Buffett'],
+    description: <div className="blog-desc">
+      <p>Tech led the stock market lower Tuesday, with major benchmarks weakening in the last hour. Berkshire Hathaway's Warren Buffett made $450 million on Occidental Petroleum after a Cowen upgrade. Berkshire added more shares in March.</p>
+    </div>,
+    authorName: 'KIMBERLEY KOENIG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 9:40 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-282.jpg',
+    content: <div className="blog-content">
+	    <p>Tech led the stock market lower Tuesday, with major benchmarks weakening in the last hour. Berkshire Hathaway's Warren Buffett made $450 million on Occidental Petroleum after a Cowen upgrade. Berkshire added more shares in March.</p>
+	    <p>The Dow Jones Industrial Average reversed course, dropping 0.1%. The Nasdaq pulled back 0.8% while the S&P 500 shed 0.4%. The iShares Russell 20 (IWM) ticked lower by 0.3%.</p>	
+	    <p>NYSE volume and Nasdaq volume fell from the same time on Monday.</p>	
+	    <p>The S&P 500 and Nasdaq composite held above their 200-day moving averages but only the Nasdaq remains above its 50-day line. The Nasdaq 100-tracking Invesco QQQ Trust ETF (QQQ) fell 0.9%.</p>
+      <p>The Innovator IBD 50 ETF (FFTY) fared worse than the major indexes, falling 0.7%.</p>
+      <p>Crude oil rose 1.2% to $73.72 per barrel. Bitcoin fell 0.2% to $26,920. The 10-year U.S. Treasury yield rose 3 basis points to 3.56%.</p>
+      <p>European stocks were mildly positive, with the German DAX and Paris CAC adding 0.1%. The London FTSE crept up 0.2% to close out the trading day.</p>
+      <h3>Economic Highlights</h3>
+      <p>Fed Vice-Chair Michael Barr addressed the House Financial Services Committee on the SVB bank failure in prepared comments, noting "the bank waited too long to address its problems, and ironically, the overdue actions it finally took to strengthen its balance sheet sparked the uninsured depositor run that led to the bank's failure," he said.</p>
+      <p>A full report on the bank collapse is scheduled for May.</p>
+      <p>March consumer confidence posted a surprise uptick to 104.2 vs. the 101.0 consensus. The rise comes after three consecutive monthly declines, showing a positive reversal. The American consumer remains surprisingly resilient.</p>
+      <h3>Micron Sinks Ahead Of Earnings; Chip Stocks Join In</h3>
+      <p>Tech and software stocks felt the heat as short-term Treasury yields ticked higher.</p>
+      <p>Micron (MU) shed 2% ahead of its February-ended quarterly results after Tuesday's closing bell. The memory giant is expected to post a 67 cents-per-share loss after a $2.14 profit last year while revenue drops to $3.71 billion, from $7.79 billion. The company is engaged in a major cost reduction initiative, driven by lower DRAM pricing.</p>
+      <p>Autonomous-driving technology provider Mobileye Global (MBLY) sank 3.7%, sending it below the 50-day line.</p>
+      <p>IBD 50 stock Lattice Semiconductor (LSCC) fell 1.7%, dropping shares below the 21-day exponential moving average.</p>
+      <p>Chip giant Nvidia (NVDA) pulled back 1.2% with the group. The VanEck Semiconductor ETF (SMH) dropped 1.4%.</p>
+      <h3>Stock Market Today: Warren Buffett Makes $450 Million</h3>
+      <p>Occidental rose 4.2% after TD Cowen upgraded the stock to outperform from market perform and raised the price target to 70.</p>
+      <p>The rally added nearly a half-billion dollars to billionaire Warren Buffett's wealth as Berkshire CEO and Chairman. Berkshire bought an additional 3.66 million shares in the last week.</p>
+      <p>Meanwhile, shares of BRKB was relatively unchanged.</p>
+      <p>Alibaba (BABA) rallied over 14% after announcing it will split into six major business units, each with its own CEO. These groups will consist of Cloud Intelligence, Local Services, Logistics, Digital Media and Entertainment, and Commerce.</p>
+      <p>BABA shares had been in a slump despite a beat on Q4 top and bottom lines in February. Today's move lifts the stock above the 21-day line and 200-day moving average.</p>
+      <p>PVH (PVH) rallied over 19% after better-than-expected Q4 earnings and sales, and higher 2023 guidance. Company's brands include Tommy Hilfiger, Calvin Klein, Warner, Izod and Geoffrey Beene. The stock reclaimed its 50-day line.</p>
+      <p>Spice giant McCormick (MKC) jumped 8.7% after better-than-expected Q1 earnings and sales. It also reiterated full-year 2023 guidance.</p>
+      <p>MKC is on pace for its largest one day increase since March 2020, and is today's S&P 500 biggest gainer. Shares are above the 200-day line.</p>
+      <p>Canada-based CGI (GIB) pulled back from earlier gains, and were relatively flat. Shares of the IT and business consultant broke out of a flat base and hit the 94.10 buy point earlier in the session.</p>
+      <p>The relative strength line hit a new high as indicated by the blue dot, according to MarketSmith.</p>
+      <p>Dow Jones component Walt Disney (DIS) dipped 0.6% after detailing plans to cut 7,000 jobs in three waves, beginning this week. The media giant will also scale back metaverse initiatives.</p>
+      <h3>Stock Market Upgrades</h3>
+      <p>Paramount Global (PARA) gapped up 3.6% after BofA Securities upgraded the stock to buy from neutral and raised its target to 32.</p>
+      <p>Array Technologies (ARRY) popped 3.4% on news that Truist Securities upgraded the solar systems tracker to buy from hold with a price target of 26.</p>
+      <p>Ciena (CIEN) gained 4.9% in heavy volume after Raymond James upgraded the telecom networker to a strong buy from outperform and raised their price target to 70.</p>
+    </div>
+  },
+  {
+    id: 286,
+    title: 'Gold ETFs Spike as Banking Fears Spread',
+    category: 'Metals',
+    subCategory: ['Gold', 'ETFs', 'Banking'],
+    description: <div className="blog-desc">
+      <p>Investors are flocking to gold exchange-traded funds following weakness in the banking sector and a subsequent slump in confidence.</p>
+    </div>,
+    authorName: 'Shubham Saharan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 8:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-294.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article</h3>
+	    <p>Investors are flocking to gold exchange-traded funds following weakness in the banking sector and a subsequent slump in confidence.</p>
+	    <p>The SPDR Gold Trust (GLD), the largest gold ETF, has pulled in $489 million so far this year, etf.com data shows. That’s a reversal from the more than $1 billion in outflows the fund saw in the last quarter of 2022, the data shows. Meanwhile, the SPDR Gold MiniShares Trust (GLDM) has hauled in $431 million during the same period.</p>	
+    	<p>Last week, gold prices surged beyond $2,000 an ounce on rekindled fears of a banking crisis in the wake of the Credit Suisse takeover. That’s the first time bullion has traded above $2,000 since March 2022.</p>	
+	    <p>Though spot gold prices eased slightly to $1,969 by Tuesday, they remain 7.7% higher than the $1,826 at which the metal started the year. Meanwhile, gold futures have inched up 7.6% year to date to $1,986.</p>
+      <p>But that uptick in price and rush to gold ETFs may be due to a crisis of confidence, as recent tumult in the U.S. banking industry led to the collapse of several banks before spreading to Europe and rattling that continent’s financial sector, according to Will Rhind, founder and CEO of GraniteShares.</p>
+      <p>“Gold can't go bankrupt,” Rhind said in an interview with etf.com. “People have always fled to gold in an environment where they don't have confidence in putting money in a bank account or buying bonds from either a government or from a corporation.”</p>
+      <p>GLD has gained 7.3% year to date, according to etf.com data, while GLDM has jumped 7% as concerns over banking failures remain elevated. Deutsche Bank stock has sunk more than 22% in the past month on renewed market jitters.</p>
+      <p>Also spurring the gold rally could be a weaker U.S. dollar and a prospective easing of interest rates from the Federal Reserve,” said Ed Egilinsky, managing director at Direxion.</p>
+      <p>“Gold and even silver are very sensitive to dollar strength or weakness; there's an inverse relationship between those two,” he added.</p>
+      <p>“You've had a weaker dollar here, a little bit of a shift with the Fed in terms of maybe how aggressive they're going to be going forward. As a result, rates have started to drop,” Egilinsky explained, noting how the factors have given gold more traction.</p>
+    </div>
+  },
+  {
+    id: 284,
+    title: 'El Salvadors Bitcoin Boom: How the Worlds First Crypto Nations Big Bet Is Stabilizing Its Economy, Proving Critics Wrong, and Paying Back Its Debt',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Salvadors', 'Economy'],
+    description: <div className="blog-desc">
+      <p>When El Salvador President Nayib Bukele made the controversial decision to make Bitcoin legal tender in his country, many people were skeptical and concerned about the potential risks.</p>
+    </div>,
+    authorName: 'Jeannine Mancini',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 7:14 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-291.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<p>When El Salvador President Nayib Bukele made the controversial decision to make Bitcoin legal tender in his country, many people were skeptical and concerned about the potential risks.</p>
+    	<p>Bukele announced on Twitter that the country would purchase one Bitcoin (CRYPTO: BTC) each day starting Nov. 18, 2022. How is that going in 2023? The latest news out of El Salvador suggests that the government's bet on cryptocurrency is paying off.</p>	
+	    <p>According to Treasury Minister Alejandro Zelaya, the government has successfully repaid one of two outstanding $800 million bonds. This move is likely to allay concerns about a potential default, which had grown amid the country's adoption of Bitcoin.</p>	
+	    <p>Zalaya announced the news via Twitter on Jan. 23, highlighting the government's commitment to meeting its debt obligations and proving the skeptics wrong. Bukele tweeted, “Well, we just paid in full 800 million dollars plus interest. But of course, almost no one is covering the story.”</p>
+      <p>The government still owes $367 million plus interest on an additional bond set to mature in January 2025, but the successful repayment of the 2023 bond is a positive sign for the country's financial stability.</p>
+      <p>What initially started as a largely controversial might be paying off as Bitcoin and many aspects of the blockchain-based asset market have began to rebound. Gamestop Corp.’s NFT marketplace has seen a considerable boom. Some of the top NFT projects on the platform have seen volume spikes as high as 21,446%.</p>
+      <p>Similarly, leading NFT marketplace startup Gameflip recently crossed $900,000 raised from retail investors in their active equity crowdfunding raise. This comes after their announcement of hitting $160 million in lifetime volume on the platform earlier this month and a host of other milestones.</p>
+      <h3>Bitcoin as Legal Tender</h3>
+      <p>The small Central American country made headlines in 2021. The legislation required all businesses within the country to accept Bitcoin as a form of payment for goods and services, granting it the same status as traditional fiat currencies.</p>
+      <p>Chivo Wallet, the wallet created by the government of El Salvador, said 2.2 million Salvadorans were onboarded just one month after Bitcoin became the country’s legal tender. To encourage adoption, every user who successfully downloaded the app immediately received $30 in Bitcoin. By early 2022, about half of Salvadorans had downloaded the app.</p>
+      <p>The “Bitcoin bet” has been met with mixed reactions from international organizations and governments, with many expressing their concerns about potential risks that may arise from the use of cryptocurrency. The International Monetary Fund (IMF) recently issued a statement on El Salvador's decision to accept Bitcoin as legal tender, cautioning against potential risks associated with such adoption.</p>
+      <p>Although there have not been any significant risks thus far following El Salvador's adoption of Bitcoin, they noted it’s important for authorities to be vigilant when providing government exposure to digital assets. According to the statement, crypto markets are still largely speculative and unpredictable in nature and should be approached with caution for El Salvador’s economy to be safeguarded against potential losses.</p>
+      <p>The IMF also highlighted the importance of transparency when dealing with cryptocurrency transactions and emphasized that it is crucial for regulators to ensure they remain compliant with anti-money laundering laws and regulations. It advised El Salvador to develop effective regulatory frameworks aimed at mitigating financial stability risks associated with cryptocurrency use.</p>
+      <p>El Salvador appears undeterred by the IMF's recommendations. In January, its congress approved a digital securities law, paving the way for the country to raise funds through the issuance of the world's first sovereign blockchain bond. The law allows for the use of blockchain technology in the issuance, trading and clearing of securities, enabling greater efficiency and transparency in the process. The additional step forward for the country could potentially attract investment from tech-savvy investors looking for new opportunities in the cryptocurrency market.</p>
+      <h3>El Salvadorian Prosperity in a time of uncertainty</h3>
+      <p>While the U.S. market faces uncertainty around banking and a general decline in U.S. equities, El Salvador’s bet looks to be paying off. While El Salvador began buying Bitcoin at a significant premium to the current price, they also announced a purchase of 80 Bitcoin at a price around the $19,000 mark in July of 2022. They have also committed to purchasing one Bitcoin per day, every day since November of 2022. At the time, the price of Bitcoin was below $16,000. Roughly 126 days have passed since then meaning the company is still pouring millions into the digital currency despite the controversy, much of which has been at a steep discount to its current price of over $28,000.</p>
+    </div>
+  },
+  {
+    id: 280,
+    title: 'GBP to USD Forecast – British Pound Continues to Test Resistance',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Resistance'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit against the US dollar during the trading session on Tuesday, as we continue to see major resistance just above. After all, the market had formed a double top near the 1.24 level, and it looks as if there is significant resistance that could extend all the way to the 1.25 level. After all, the 1.25 level is a large, round, psychologically significant figure that has shown itself to be important in multiple times.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 4:59 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-287.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has rallied a bit against the US dollar during the trading session on Tuesday, as we continue to see major resistance just above. After all, the market had formed a double top near the 1.24 level, and it looks as if there is significant resistance that could extend all the way to the 1.25 level. After all, the 1.25 level is a large, round, psychologically significant figure that has shown itself to be important in multiple times.</p>
+	    <p>Underneath, we have the 200-Day EMA which sits just above the 1.21 level, which is also intertwined with the 50-Day EMA. That should offer a significant amount of support, so if we do break down from here, that might be the first area where you start to see buyers pushback. After that, we then have the 1.20 level, which has a significant amount of psychology attached to it, as it is a large, round, psychologically significant figure. Underneath that level, then we look at the 1.1850 level, an area that has already shown itself to be important in a couple of times in the somewhat recent past.</p>	
+	    <p>Looking at the longer-term chart, it seems as if we are trading between 1.24 on the upside and 1.1850 on the downside. Because of this, I’m looking for some type of exhaustion just above the start shorting again, but I do recognize that if we were to break above the 1.25 handle, then it’s very possible that we could go looking to the 1.2750 level above. After that, then we would go looking to the 1.30 level. If we do break above the 1.25 level, it’s very likely that we would see the US dollar falling against most major currencies in general, so it would be a market wide move.</p>	
+	    <p>All things being equal, a lot of this will come down to risk appetite, as the US dollar is considered to be a safety currency. We have seen this move a couple of times recently, and each time there is selling pressure that enters the market. I suspect that we are going to see more of the same going into the short-term future.</p>
+      <p>This article was originally posted on FX Empire</p>
+    </div>
+  },
+  {
     id: 273,
     title: 'Dow Jones Futures Fall Ahead Of Key Economic Data; Warren Buffett Stock Occidental Jumps On Upgrade',
     category: 'Markets',
@@ -51,6 +611,52 @@ const blogListdata = [
     </div>
   },
   {
+    id: 281,
+    title: 'GBP/JPY Forecast- British Pound Finds Buyers After Initial Selloff Against Yen',
+    category: 'Forex',
+    subCategory: ['GBp', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially fell against the Japanese yen during early trading on Tuesday, as we continue to see a lot of choppy behavior in the Forex markets. It’s worth noting that the pair is highly sensitive to risk appetite, but more importantly is paying close attention to the Japanese bond markets as of late. Remember, the Bank of Japan continues its yield curve control policy, meaning that they are trying to keep the 10 year yield down to 50 basis points or lower. Currently, they do not seem to have a lot of problems doing so, but every time interest rates around the world rise, it puts a bit of pressure on the Japanese yen as they will have to print more yen to buy more bonds.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 4:52 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-288.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>The British pound initially fell against the Japanese yen during early trading on Tuesday, as we continue to see a lot of choppy behavior in the Forex markets. It’s worth noting that the pair is highly sensitive to risk appetite, but more importantly is paying close attention to the Japanese bond markets as of late. Remember, the Bank of Japan continues its yield curve control policy, meaning that they are trying to keep the 10 year yield down to 50 basis points or lower. Currently, they do not seem to have a lot of problems doing so, but every time interest rates around the world rise, it puts a bit of pressure on the Japanese yen as they will have to print more yen to buy more bonds.</p>
+	    <p>On the other hand, the British have reiterated their need to fight inflation and not worry so much about the banking crisis. In other words, they are going to continue to be tight with monetary policy, and therefore it’s likely that the British pound will continue to be somewhat elevated. The 200-Day EMA sits just above, and of course will attract a certain amount of attention, but at the moment it seems as if the market is going back and forth in this range, as the moving averages are essentially flat, and therefore it suggests that we don’t have any conviction one way or the other.</p>	
+	    <p>That being said, the market is likely that we go higher rather than lower, as long as the trendline stays intact. That’s all the way down at the ¥157.50 level, so we are a long way from breaking the trend in general. That being said, the market is likely to see a lot of noise above, so I think the market is going to be one that you have to look at through the prism of range bound trading, as there are a lot of questions as to what the economic health of the world is at the moment. The ¥165 level above looks to be like a hard ceiling also, so pay attention to that.</p>	
+	    <p>This article was originally posted on FX Empire</p>
+    </div>
+  },
+  {
+    id: 282,
+    title: 'AUDUSD Forecast – Australian Dollar Continues to Face the Same Resistance',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has rallied a bit during the trading session on Tuesday, as we have seen resistance again at the 0.67 level, an area where we’ve seen a lot of action in the past. In fact, just a couple of trading sessions to go we ended up forming 2 shooting stars in a row, which is typically a very bearish sign. Ultimately, it’s also worth noting that the 50-Day EMA is just above and dropping. By doing so, this is a dynamic resistance barrier that continues to be paid close attention to. In other words, this is more or less going to be a “fade the rally” type of market.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 4:36 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-289.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has rallied a bit during the trading session on Tuesday, as we have seen resistance again at the 0.67 level, an area where we’ve seen a lot of action in the past. In fact, just a couple of trading sessions to go we ended up forming 2 shooting stars in a row, which is typically a very bearish sign. Ultimately, it’s also worth noting that the 50-Day EMA is just above and dropping. By doing so, this is a dynamic resistance barrier that continues to be paid close attention to. In other words, this is more or less going to be a “fade the rally” type of market.</p>
+    	<p>Keep in mind that the Australian dollar is highly levered to the commodity market, as Australia is a huge exporter of hard commodities such as copper, iron, and of course gold. With that in mind, it’s probably worth paying close attention to the idea that the commodity markets are highly influenced by the overall economic health of the world, with the demand for commodities being highly correlated. Furthermore, it also comes down to the health of the Chinese mainland, as Australia sends a majority of its exports to that part of the world.</p>	
+    	<p>If we do break to the upside, it’s not until we clear the 0.68 level that I would be impressed with the move. In that scenario, we could see the market going toward the 0.69 level where would run into further resistance. On the other hand, if we turn around and break down from here, we could see the market reaching to the 0.66 level where there is a considerable amount of support. Anything below there then would open up a bit of a trapdoor, allowing the markets to flood to the downside. The overall attitude of the markets. The slowing of choppy confusion, and I think that will remain the same here in the AUD/USD pair, with more or less an eye on the downside more than up. Either way, I’m not expecting big moves in the short term, rather more or less a range bound scenario to continue.</p>	
+    	<p>This article was originally posted on FX Empire</p>
+    </div>
+  },
+  {
     id: 274,
     title: 'Should SPDR Portfolio S&P 500 Growth ETF (SPYG) Be on Your Investing Radar?',
     category: 'Markets',
@@ -90,6 +696,39 @@ const blogListdata = [
       <h3>Bottom-Line</h3>
       <p>Passively managed ETFs are becoming increasingly popular with institutional as well as retail investors due to their low cost, transparency, flexibility and tax efficiency. They are excellent vehicles for long term investors.</p>
       <p>To learn more about this product and other ETFs, screen for products that match your investment objectives and read articles on latest developments in the ETF investing universe, please visit Zacks ETF Center.</p>
+    </div>
+  },
+  {
+    id: 283,
+    title: 'Bitcoin, Ether extend declines amid U.S. lawsuit against Binance; Asian equities mixed',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Binance', 'Equities'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether extended their declines in Tuesday afternoon trade in Asia, along with most other top 10 non-stablecoin cryptocurrencies by market capitalization, after regulators in the U.S. pulled up Binance, the world’s biggest crypto exchange, for allegedly violating trading mandates. Asian markets mostly gained on Tuesday, reflecting a rise in U.S. equities on Monday, as investor sentiment picked up following a slew of positive announcements that eased fears of a banking sector crisis.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 1:48 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-290.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <p>Bitcoin and Ether extended their declines in Tuesday afternoon trade in Asia, along with most other top 10 non-stablecoin cryptocurrencies by market capitalization, after regulators in the U.S. pulled up Binance, the world’s biggest crypto exchange, for allegedly violating trading mandates. Asian markets mostly gained on Tuesday, reflecting a rise in U.S. equities on Monday, as investor sentiment picked up following a slew of positive announcements that eased fears of a banking sector crisis.</p>
+	    <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin, the world’s biggest cryptocurrency by market cap, lost 3.06% to US$26,960 in 24 hours to 4 p.m. in Hong Kong, according to data from CoinMarketCap, declining 2.22% in the last seven days. Ethereum dropped 1.61% to US$1,724, after losing 0.6% on the week.</li>
+        <li>BNB, the native token of the world’s largest crypto exchange Binance, saw the biggest decline among top 10 cryptos. The token dropped 5.19% in the last 24 hours to US$309, after the U.S. Commodity Futures Trading Commission said Monday it filed a “civil enforcement action” lawsuit against Binance and its top executives for allegedly breaking trading rules.</li>
+        <li>XRP was the only token among top 10 cryptos to gain in Tuesday afternoon trade in Asia, climbing 5.61% to US$0.4843, and has risen 25.47% on the week. The gains come as Ripple Labs, whose payment network is powered by XRP, expects to win a lawsuit filed against it by the U.S. Securities and Exchange Commission for allegedly selling US$1.3 billion in unregistered securities.</li>
+        <li>The global crypto market capitalization dropped 1.96% to US$1.13 trillion, while the total crypto market volume gained 30.1% to US$43.42 billion in the last 24 hours.</li>
+        <li>The Forkast 500 NFT index fell 0.54% to 4,004.93 on the day and declined 3.34% on the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day.</li>
+        <li>Asian equity markets mostly rose on Tuesday after concerns regarding a banking industry crisis eased. Hong Kong’s Hang Seng Index rose 1.11%, South Korea’s Kospi increased 1.07% and Japan’s Nikkei 225 gained 0.15%.</li>
+        <li>The Shanghai Composite lost 0.19% and the Shenzhen Component Index dropped 0.72%, over concerns that Covid-19 related disruptions continue to hamper China’s economic recovery.</li>
+        <li>Gold slid 0.24% to US$1,951 an ounce, after falling 1% on Monday. The precious metal remains under its one-year high of US$2,000 that it touched last week.</li>
+        <li>European bourses rose for a second consecutive day. The benchmark STOXX 600 gained 0.34% and Germany’s DAX 40 advanced 0.5%.</li>
+        <li>European Central Bank President Christine Lagarde will speak at the opening ceremony of the Bank for International Settlements’ Innovation Hub Eurosystem Centre later Tuesday.</li>
+        <li>London’s benchmark FTSE 100 rose 0.43% during the day, after Bank of England Governor Andrew Bailey said the country’s financial system is resilient and has robust capital, but warned that interest rates may move higher.</li>
+      </ul>
     </div>
   },
   {
@@ -144,6 +783,153 @@ const blogListdata = [
       <h3>Oil markets</h3>
       <p>Meanwhile, Brent crude (BZ=F) climbed and was trading at around $78 per barrel, with markets focused on developments in the banking crisis and indications of strengthening demand in China.</p>
       <p>"Though risks remain in the banking system amid the recent event, dip-buys in crude oil could be the prevailing trend in the near term," said Tina Teng, analyst at CMC Markets.</p>
+    </div>
+  },
+  {
+    id: 276,
+    title: 'BlackRock, Fidelity Lose Out in $1 Trillion China Pension Market',
+    category: 'Markets',
+    subCategory: ['BlackRock', 'Lose', 'China market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- In the battle for the biggest prize in China’s trillion-dollar pension market, BlackRock Inc. and other global firms have little chance of attracting clients like Judy Deng.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 28, 2023 - 11:32 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-283.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- In the battle for the biggest prize in China’s trillion-dollar pension market, BlackRock Inc. and other global firms have little chance of attracting clients like Judy Deng.</p>
+	    <p>On New Year’s Eve, the logistics executive tapped on her phone to deposit 12,000 yuan ($1,700) into a new pension account at her local bank in Shanghai. Deng, 46, never considered investing with global asset managers.</p>	
+	    <p>“You need a very strong reason to pick a foreign company,” she said, calling the global giants “very unfamiliar” names. “I don’t even know which country they’re from.”</p>	
+	    <p>China launched private pension plans for the first time last year and Beijing has ensured that domestic banks and fund managers win the vast majority of the new business in a market that may eventually grow to $1.7 trillion. Global companies including BlackRock and Fidelity International Ltd have been off to a slow start.</p>
+      <p>Given their tiny asset bases in China, most foreign money managers have so far been excluded from pilot trials in 36 cities, allowing banks like Industrial & Commercial Bank of China Ltd. and China Merchants Bank Co. to grab all the inflows. To cement their lead, the banks are offering everything from cash incentives to free ibuprofen for each new account.</p>
+      <p>“The first bite at the cake here won’t be easy” for foreign companies, said Zhou Yiqin, president of GuanShao Information Consulting Center, a financial regulations specialist.</p>
+      <p>While it’s still early days for the new pension scheme, the head start for domestic companies illustrates the daunting challenges for global firms eyeing a piece of China’s $60 trillion financial services sector. From mergers advice to stock sales and trading, Wall Street is struggling in a market that combines endless potential with stiff local competition and regulatory roadblocks.</p>
+      <p>China’s fledging private pension system is loaded with promise, as Beijing desperately tries to entice retirement savings to support an aging population. The number of people over 60 is expected to jump more than 50% by 2040, according to the World Health Organization. China’s population shrank last year for the first time in six decades.</p>
+      <p>To address the problem, China has launched three pension pillars. The first two — a compulsory state-backed plan and a voluntary corporate matching option — don’t come close to meeting the future needs of most pensioners. Savings in the government-led program covering urban employees may run out by 2032 and face a shortfall of more than 7 trillion yuan by 2035, according to Citic Securities Co. estimates.</p>
+      <p>The new private offering aims to fill the void, allowing clients to contribute up to 12,000 yuan a year in tax-sheltered plans, similar to Individual Retirement Accounts (IRAs) in the US that have become a $13 trillion market. The private pillar is estimated by Citic to grow to 12 trillion yuan by 2035, equal to the two other plans combined. UBS Group AG estimates the market could be worth $25 trillion by 2060, more than a third of China’s gross domestic product by then.</p>
+      <p>Competition among the 23 pilot banks that can open these accounts — all Chinese — is heating up. Some managers are dangling 50 yuan in digital envelopes — or hongbao — to win customers. Others offered ibuprofen, the Advil-brand fever medicine that was in short supply during the pandemic, while Postal Savings Bank of China Co. runs draws with a 600 yuan top prize.</p>
+      <p>Read more: China’s Long-Delayed Plans to Hike Retirement Age Go Viral</p>
+      <p>Deng is among 28 million residents — more than the population of Australia — who have opened new accounts as of March 2. The program attracted 14.2 billion yuan in the last two months of 2022 alone, according to official data.</p>
+      <p>The new plan is an attractive niche for asset managers since the tax breaks appeal to high-income earners and the money will be locked up for years with the same firm. Once a client opens a pension account with a bank, they can only invest in eligible funds distributed by that lender. That’s a rare, government-sponsored opportunity in China, where fickle investors are notorious for switching investments and banks.</p>
+      <p>“The quality of this cake is much better than that of the regular type,” said Sun Bo, head of pension investment at Beijing-based China Asset Management Co., controlled by Citic Securities.</p>
+      <p>So far, most international firms’ wholly-owned businesses have been unable to join the pension party. They either lack sufficient assets to meet thresholds set by Beijing, or they’ve only recently won regulatory approval — often after lengthy delays — to buy out local partners to sell their own funds.</p>
+      <p>BlackRock Moves</p>
+      <p>BlackRock, with about 6 billion yuan in mutual fund assets, still hasn’t issued any products under the new program even though its wealth management joint venture was allowed to join given its experience with a previous trial. The New York-based giant attracted just 158 million yuan in the earlier push with partners China Construction Bank Corp. and Singapore’s Temasek Holdings Pte.</p>
+      <p>“If a ‘Big Brother’ like BlackRock can’t adapt well in China, it would serve as a mirror for other global managers to gauge their own prospects” for pension funds, Zhou said.</p>
+      <p>BlackRock didn’t reply to a request for comment.</p>
+      <p>BlackRock, Defying Soros Warning, Breaks New Ground in China</p>
+      <p>Other money managers such as Fidelity and Neuberger Berman Group LLC, which gained approvals for stand-alone units last year, are just starting to build onshore assets to meet the minimum thresholds.</p>
+      <p>Fidelity is scheduled to start its first product early next month, while Neuberger Berman just raised 4.1 billion yuan in its maiden fund.</p>
+      <p>JPMorgan Chase & Co. and Morgan Stanley have been in China for decades but only won approval in recent months to buy out their partners and ramp up their independent operation. JPMorgan has two funds in the trial via its joint venture.</p>
+      <p>“The pension market is one of the biggest opportunities for our onshore business, considering China’s demographic change and tremendous need for retirement investments,” JPMorgan said in a statement to Bloomberg.</p>
+      <p>Morgan Stanley declined to comment.</p>
+      <p>For the new entrants, meeting the thresholds may take time. Only retirement-target products with at least 50 million yuan in average assets over the past four quarters — or at least 200 million yuan in the recent quarter — can qualify. To start selling retirement-target funds, the firms need to be in operation for at least two years, and run a mutual fund business of at least 20 billion yuan.</p>
+      <p>These thresholds may be relaxed over time to entice more foreign players, UBS analyst Cao Haifeng told reporters in Shanghai.</p>
+      <p>“If they get to participate in the domestic market, with investors warming up to their products, that should help facilitate China’s capital market development,” Cao said. “It’s going to be a win-win.”</p>
+      <p>In the meantime, firms such as Credit Suisse Group AG and Schroders Plc are getting some pension revenue from their minority stakes in joint ventures though that’s not as lucrative as wholly-owned businesses like BlackRock’s that can pitch their own funds.</p>
+      <p>Read more: China Moves a Step Closer to a National Pension System</p>
+      <p>Winning over Chinese consumers won’t be easy as local banks tend to favor their in-house funds over rival products, Zhou said. Deng chose her lender — Bank of Shanghai — because a relative who works there needed to fill his quota. She even won a 50 yuan prize.</p>
+      <p>Invesco Ltd.’s fund venture shut down one of its retirement-target funds after its assets dropped below a minimum 200 million yuan threshold following losses last year. Goldman Sachs Group Inc.’s first wealth management product — not in the pension space — raised just $21 million, a fraction of the industry average.</p>
+      <p>Global firms “must move faster” if they want a bigger share of the market, said Sun at ChinaAMC. While foreign players are often better at product design and asset allocation, they lack brand recognition and need to understand the bank-dominated distribution network, he said.</p>
+      <p>The slow rollout could test global managers’ commitment to China as they face years of losses before building up scale, and it’s unlikely any foreign commercial bank will be selected for the trial, according to Zhou at GuanShao. He cited Citigroup Inc., which announced in December it will wind down its consumer bank in China as part of a wider retreat. Vanguard Group Inc. scrapped plans in 2021 to set up a wholly-owned fund business and now plans to exit the country entirely, people familiar told Bloomberg News.</p>
+      <p>Read more: Vanguard Said to Shutter Business in China, Exit Ant Venture</p>
+      <p>Still, global players have plenty of time to catch up in a market that will take years to develop, said Harry Handley, a senior associate at Z-Ben Advisors Ltd., an asset management research firm in Shanghai.</p>
+      <p>“It was highly unlikely that foreign firms would be welcomed into the market from the very beginning and few are in a position to execute on the opportunity,” he said.</p>
+      <p>Even with the slow start, Wall Street firms appear committed to the pension space in the world’s second-largest economy. Fidelity says pensions are “in their DNA” and are an integral part of their China focus.</p>
+      <p>“In due course, leveraging Fidelity’s extensive experiences in managing pension investments for clients around the world, we aim to offer pension solutions to Chinese investors to enhance their retirement readiness,” the company said in an emailed statement.</p>
+      <p>--With assistance from Amanda Wang.</p>
+    </div>
+  },
+  {
+    id: 295,
+    title: 'Analyzing how Decentraland’s hype failed to aid MANA’s climb',
+    category: 'Crypto',
+    subCategory: ['MANAs', 'Climb', 'Decentraland'],
+    description: <div className="blog-desc">
+      <p>A large part of the crypto ecosystem experienced unusual inaction in the just-ended 24- 26 March weekend.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 27, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-306.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>Decentraland dominated the social space over the weekend.</li>
+        <li>MANA’s price remains in the bearish region amid chances to exit the zone.</li>
+      </ul>
+      <p>A large part of the crypto ecosystem experienced unusual inaction in the just-ended 24- 26 March weekend.</p>
+      <p>Strange because almost all other weekends in the month were filled with evident price rises. Despite the market sluggishness, Decentraland [MANA] jumped to the top of the most discussed out of the thousands of crypto projects.</p>
+	    <h3>Opium in the virtual land</h3>
+	    <p>According to Santiment, MANA’s social dominance rose sharply on 26 March. At press time, Ethereum [ETH] virtual world project maintained the hike at 0.354%.</p>
+    	<p>This increase implied that the Decentraland community actively participated in conversations around the token. And the depth of discussion was far above many others.</p>	
+    	<p>However, the rise in social activity is not an inescapable condition for a positive price action or perception. This was further revealed by the weighted sentiment. The sentiment takes into account the unique social volume and measures the average subjective information about an asset.</p>	
+    	<p>At the time of writing, MANA’s weighted sentiment was -0.388. This means that the impression that investors had towards the token was not necessarily optimistic. The MANA price decreased 1.74% in the last 24 hours, following a similar trend as most cryptocurrencies.</p>
+      <p>Regardless, it did not seem that the token would go for a trend reversal anytime soon, as indicated by the Awesome Oscillator (AO). Based on the daily chart, the AO was -0.0161, at press time.</p>
+      <p>This value suggested that the momentum was bearish. However, there was potential for a trend reversal with the emerging presence of green bars.</p>
+      <p>In terms of volatility, the Bollinger Bands (BB) showed that MANA was contracting. And with the price evading both the upper and lower band, it meant that the token was not oversold or overbought, at the time of publication.</p>
+      <h3>No accolades yet</h3>
+      <p>Furthermore, the number of active addresses on the Decentrand network had significantly reduced. Active addresses show the number of unique participants that had successful transactions within a network.</p>
+      <p>According to Glassnode, the last time MANA had a notable hike in this regard was 17 January. But at press time, these addresses were down to 729.</p>
+      <p>Lastly, Decentrland has been somewhat quiet in this first quarter as there has been no notable development. Since this was the case, it is likely that MANA’s price action only responds to widespread crypto trends.</p>
+    </div>
+  },
+  {
+    id: 278,
+    title: 'Schwab’s $7 Trillion Empire Built on Low Rates Is Showing Cracks',
+    category: 'Markets',
+    subCategory: ['Schwabs', 'Low rates', 'Cracks'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) — On the surface, Charles Schwab Corp. being swept up in the worst US banking crisis since 2008 makes little sense.</p>
+    </div>,
+    authorName: 'Annie Massa and Edward Harrison',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 27, 2023 - 10:33 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-285.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) — On the surface, Charles Schwab Corp. being swept up in the worst US banking crisis since 2008 makes little sense.</p>
+	    <p>The firm, a half-century mainstay in the brokerage industry, isn’t overexposed to crypto like Silvergate Capital and Signature Bank, nor to startups and venture capital, which felled Silicon Valley Bank. Fewer than 20% of Schwab’s depositors exceed the FDIC’s $250,000 insurance cap, compared with about 90% at SVB. And with 34 million accounts, a phalanx of financial advisers and more than $7 trillion of assets across all of its businesses, it towers over regional institutions.</p>	
+	    <p>Yet the questions around Schwab won’t go away.</p>	
+	    <p>Rather, as the crisis drags on, investors are starting to unearth risks that have been hiding in plain sight. Unrealized losses on the Westlake, Texas-based firm’s balance sheet, loaded with long-dated bonds, ballooned to more than $29 billion last year. At the same time, higher interest rates are encouraging customers to move their cash out of certain accounts that underpin Schwab’s business and bolster its bottom line.</p>
+      <p>It’s another indication that the Federal Reserve’s rapid policy tightening caught the financial world flat-footed after decades of declining rates. Schwab shares have lost more than a quarter of their value since March 8, with some Wall Street analysts expecting earnings to suffer.</p>
+      <p>“In hindsight, they arguably could have had more prudent investment choices,” said Morningstar analyst Michael Wong.</p>
+      <p>Chief Executive Officer Walt Bettinger and the brokerage’s founder and namesake, billionaire Charles Schwab, have said the firm is healthy and prepared to withstand the broader turmoil.</p>
+      <p>The business is “misunderstood,” and it’s “misleading” to focus on paper losses, which the company may never have to incur, they said last week in a statement.</p>
+      <p>“There would be a sufficient amount of liquidity right there to cover if 100% of our bank’s deposits ran off,” Bettinger told the Wall Street Journal in an interview published Thursday, adding that the firm could borrow from the Federal Home Loan Bank and issue certificates of deposit to address any funding shortfall.</p>
+      <p>Through a representative, Bettinger declined to comment for this story. A Schwab spokesperson declined to comment beyond the Thursday statement.</p>
+      <p>The broader crisis showed signs of easing on Monday, after First Citizens BancShares Inc. agreed to buy SVB, buoying shares of financial firms including Schwab, which was up 3.1% at 2:29 p.m. in New York. The stock is still down 42% from its peak in February 2022, a month before the Fed started raising interest rates.</p>
+      <p>Unusual Operation</p>
+      <p>Schwab is unusual among peers. It operates one of the largest US banks, grafted on to the biggest publicly traded brokerage. Both divisions are sensitive to interest-rate fluctuations.</p>
+      <p>Like SVB, Schwab gobbled up longer-dated bonds at low yields in 2020 and 2021. That meant paper losses mounted in a short period as the Fed began boosting rates to stamp out inflation.</p>
+      <p>Three years ago, Schwab’s main bank had no unrealized losses on long-term debt that it planned to hold until maturity. By last March, the firm had more than $5 billion of such paper losses — a figure that climbed to more than $13 billion at year-end.</p>
+      <p>It shifted $189 billion of agency mortgage-backed securities from “available-for-sale” to “held-to-maturity” on its balance sheet last year, a move that effectively shields those unrealized losses from impacting stockholder equity.</p>
+      <p>“They basically saw higher interest rates coming,” Stephen Ryan, an accounting professor at New York University’s Stern School of Business, said in a phone interview. “They didn’t know how long they would last or how big they would be, but they protected the equity by making the transfer.”</p>
+      <p>The rules governing such balance sheet moves are stringent. It means Schwab plans to hold more than $150 billion worth of debt to maturity with a weighted-average yield of 1.74%. The lion’s share of the securities — $114 billion at the end of 2022 — won’t mature for more than a decade.</p>
+      <p>The benchmark 10-year Treasury yield now: 3.5%.</p>
+      <p>Cash Business</p>
+      <p>Schwab’s other headache from higher interest rates stems from cash.</p>
+      <p>At the root of Schwab’s income is idle client money. The firm “sweeps” cash deposits from brokerage accounts to its bank, where it can reinvest in higher-yielding products. The difference between what Schwab earns and what it pays out in interest to customers is its net interest income, among the most important metrics for a bank.</p>
+      <p>Net interest income accounted for 51% of Schwab’s total net revenue last year.</p>
+      <p>“Schwab’s counting on inertia,” said Allan Roth, founder of Wealth Logic, a financial-planning firm.</p>
+      <p>After a year of rapidly rising rates, there’s greater incentive to avoid being stagnant with cash. While many money-market funds are paying more than 4% interest, Schwab’s sweep accounts offer just 0.45%.</p>
+      <p>Though it’s an open question just how much money customers could move away from its sweep vehicles, Schwab’s management acknowledged this behavior picked up last year.</p>
+      <p>“As a result of rapidly increasing short-term interest rates in 2022, the company saw an increase in the pace at which clients moved certain cash balances” into higher-yielding alternatives, Schwab said in its annual report. “As these outflows have continued, they have outpaced excess cash on hand and cash generated by maturities and pay-downs on our investment portfolios.”</p>
+      <p>In their statement, Bettinger and Schwab wrote that “client deposits may move, but they are not leaving the firm.”</p>
+      <p>FHLB Borrowing</p>
+      <p>To plug the gap, the brokerage’s banking units borrowed $12.4 billion from the FHLB system through the end of 2022, and had the capacity to borrow $68.6 billion, according to an annual report filed with regulators.</p>
+      <p>Schwab borrowed an additional $13 billion from the FHLB so far this year, the filing showed.</p>
+      <p>Analysts have been weighing these factors, with Barclays Plc and Morningstar lowering their price targets for Schwab shares in recent weeks.</p>
+      <p>Bettinger and Schwab said that the firm’s long history and conservatism will help customers navigate the current cycle, as they have for more than 50 years.</p>
+      <p>“We remain confident in our client-centric approach, the performance of our business, and the long-term stability of our company,” they wrote in last week’s statement. “We are different than other banks.”</p>
+      <p>—With assistance from Silla Brush, Miles Weiss and Noah Buhayar.</p>
     </div>
   },
   {
@@ -206,6 +992,43 @@ const blogListdata = [
       <p>The best that crypto-bashing regulators can hope for is to slow down the pace of adoption. But there’s not much incentive for most governments to support this approach because a) crypto, on the retail side, is driven by Millennials and Generation Z, so it will be a voter issue in the coming years, and b) it will only move innovation offshore.</p>
       <p>Even as the U.S. is putting a squeeze on crypto, Dubai, Hong Kong and the U.K. are already preparing to scoop up exiled crypto companies. And even if regulators shoehorn ETH into the antiquated category of a security — so what? Anyone could buy securities in minutes using an app on a phone.</p>
       <p>The upcoming Shanghai upgrade will be followed by a more complex upgrade that will reduce fees on the Ethereum network, making it faster and even more user-friendly. The genie is well and truly out of the bottle, and investors may well find a magic carpet beckoning.</p>
+    </div>
+  },
+  {
+    id: 296,
+    title: 'Polygon’s NFT space is booming as trade count surges, thanks to…',
+    category: 'Crypto',
+    subCategory: ['Polygon', 'NFT', 'trade'],
+    description: <div className="blog-desc">
+      <p>Polygon [MATIC] recently witnessed a major boom in its NFT ecosystem, suggesting growth. Santiment’s chart showed that Polygon’s total NFT trade count and trade volume in USD increased considerably since 16 March 2023.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-307.jpg',
+    content: <div className="blog-content">
+      <ul>
+        <li>y00ts announced it will migrate to Polygon on 27 March 2023.</li>
+        <li>A day remains until the zkEVM release but MATIC continues to suffer.</li>
+      </ul>
+      <p>Polygon [MATIC] recently witnessed a major boom in its NFT ecosystem, suggesting growth. Santiment’s chart showed that Polygon’s total NFT trade count and trade volume in USD increased considerably since 16 March 2023.</p>
+      <p>Thanks to the increase in trade counts, the number of unique addresses holding NFTs have also increased.</p>
+	    <h3>What can fuel further growth?</h3>
+	    <p>Things might get even better in the coming days as y00ts, one of the most popular NFT collections on Solana [SOL], announced that it will migrate to Polygon on 27 March.</p>
+	    <p>As per the announcement, users will be able to directly migrate from y00ts website. Not only can holders simply migrate, but they will also be rewarded for the same. In fact, holders will be rewarded with $5 USDC per y00t listed on Magic Eden.</p>	
+	    <p>Additionally, the official tweet mentioned that y00ts is disapproving of further development for y00ts/DeGods on SOL.</p>	
+	    <p>The reason why this can help Polygon is that for the next 30 days, there will be no trading fees for y00ts on Magic Eden. Therefore, holders and new users can be motivated to buy or sell more, helping Polygon’s NFT ecosystem grow further.</p>
+      <h3>Polygon is all set for the zkEVM launch</h3>
+      <p>While y00ts will migrate to Polygon, the blockchain will be launching its much-awaited zkEVM. As the network prepares for the launch, it has started a bug bounty program.</p>
+      <p>The bounty program, which will be run by Immunefi, is one of the many safeguards in place for the upcoming release of mainnet beta.</p>
+      <p>This program will further help Polygon in refining its product. Well, its competitor, Ethereum’s [ETH] layer-2 solution, zkSync Era, was fully opened to the public on 25 March 2023.</p>
+      <p>Beating Polygon, the zkSync Era became the first EVM with the support of zero-knowledge rollup (zk-rollup) to be launched on the mainnet.</p>
+      <h3>MATIC performance was not at par</h3>
+      <p>While the NFT ecosystem witnessed growth, the same was not true for MATIC, which has fallen victim to the bears. According to CoinMarketCap, MATIC’s price declined by over 8% in the last week. At press time, it was trading at $1.09 with a market capitalization of over $9.8 billion.</p>
+      <p>Due to the decline, MATIC’s MVRV ratio plummeted sharply. The hype around the zkEVM launch also was not enough to give investors confidence as MATIC’s weighted sentiment remained on the negative side.</p>
+      <p>The future of MATIC post-zkEVM launch remains to be seen.</p>
     </div>
   },
   {
