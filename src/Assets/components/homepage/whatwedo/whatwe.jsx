@@ -20,7 +20,7 @@ function WhatweDoSection(){
     };
 
     return(
-        <div className="widerangencxproducts">
+        <div className={toggleState === 2 ? "widerangencxproducts active" : "widerangencxproducts"}>
             <div className="container">
                 <div className="whatwe-head">
                     <p>What We Do</p>
@@ -122,6 +122,22 @@ function WhatweDoSection(){
                     </div>
                     <div id="content-2" className={toggleState === 2 ? "pro-content active" : "pro-content"}>
                         <div className="crypto-trade">
+                            <div className="card_video row">
+                                <div className="col"></div>
+                                <div className="col">
+                                    <video 
+                                        id='buy-video'
+                                        autoPlay={true}
+                                        muted={true}
+                                        loop={true}
+                                        playsInline={true}
+                                        preload="auto"
+                                        poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
+                                    >
+                                    <source src={require('../../../images/ncxbuy-cryptovideo.mp4')} type="video/mp4" />
+                                </video>
+                                </div>
+                            </div>
                             <div className="crypto-row">
                                 <div className="col">
                                     <h1>Buy Crypto with one of over 95 Fiat Currencies </h1>
@@ -132,10 +148,10 @@ function WhatweDoSection(){
                                         <span>Google Pay</span>
                                     </div>
                                     <div className="bullets">
-                                        <span>We transfer</span>
-                                        <span>InstaPay</span>
+                                        <span>Wire transfer</span>
+                                        <span>SEPA</span>
+                                        <span>InstPay</span>
                                         <span>Ali Pay</span>
-                                        <span>Prompt Pay</span>
                                     </div>
                                     <div className="bullets">
                                         <span>>16 Payment Methods</span>
@@ -152,7 +168,18 @@ function WhatweDoSection(){
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="deri-image" src={BuyCrypto} />
+                                    <video 
+                                        id='buy-video'
+                                        autoPlay={true}
+                                        muted={true}
+                                        loop={true}
+                                        playsInline={true}
+                                        preload="auto"
+                                        poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
+                                    >
+                                        <source src={require('../../../images/ncxbuy-cryptovideo.mp4')} type="video/mp4" />
+                                    </video>
+                                    {/* <img className="deri-image" src={BuyCrypto} /> */}
                                 </div>
                             </div>
                         </div>

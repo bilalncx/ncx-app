@@ -672,6 +672,45 @@ span.apisvg {
   100% { opacity: 1 }
 }
 
+/* ************************************************************* */
+.widerangencxproducts.active {
+    background: #000000;
+    padding: 100px 0px 0px 0px !important;
+}
+.widerangencxproducts.active .whatwe-head h1{
+    color: #FFFFFF !important;
+}
+.widerangencxproducts.active button.pro-tabs {
+    color: #FFFFFF;
+}
+.widerangencxproducts.active .crypto-trade{
+    position: relative !important;
+    background: #000000 !important;
+    background-color: #000000 !important;
+    padding: 50px !important;
+}
+.widerangencxproducts.active .crypto-row {
+    display: flex;
+    position: absolute;
+    top: 0;
+    width: 100% !important;
+}
+.widerangencxproducts.active .crypto-row .col:nth-child(1) {
+    padding: 50px 0px 50px 0px;
+}
+.widerangencxproducts.active .crypto-row .bullets span {
+    background: rgba(33, 33, 33, 0.7) !important;
+    color: #FFFFFF !important;
+}
+.widerangencxproducts.active a.buycrypt-btn {
+    background: rgba(33, 33, 33, 0.7) !important;
+    border: none;
+}
+.widerangencxproducts.active .crypto-trade video#buy-video{
+    height: 526px !important;
+    position: relative;
+    top: -30px !important;
+}
 
 
 span.mbl-bltshow {
@@ -974,5 +1013,21 @@ span.mbl-bltshow {
     }
     .cardtrade-row .col:nth-child(1) {
         margin-bottom: 50px !important;
+    }
+    .widerangencxproducts.active .crypto-trade{
+        padding: unset !important;
+    }
+    .widerangencxproducts.active .crypto-row{
+        min-width: inherit !important;
+        max-width: inherit !important;
+        display: block !important;
+        padding: 20px 10px !important;
+        margin-top: 10px !important;
+    }
+    .widerangencxproducts.active .crypto-row .col:nth-child(1){
+        padding: unset !important;
+    }
+    .widerangencxproducts.active .crypto-trade video#buy-video{
+        top: 0px !important;
     }
 }
