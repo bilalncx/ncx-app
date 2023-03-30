@@ -7,20 +7,33 @@ import { ReactComponent as WhyBuyToken } from '../../../images/why-buy-token.svg
 import { Telegram } from "@mui/icons-material";
 import { Instagram } from "@mui/icons-material";
 import { Twitter } from "@mui/icons-material";
+import { useTranslation } from "react-i18next";
 
 function FirstSect()
 {
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "esp", native: "Español" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
+
+
     return(
         <div className="token_first_sect">
             <div className="container">
                 <div className="row txxss">
                     <div className="col txt112">
-                        <h1>NCX TOKEN POWERING WORLD’S FIRST HYBRID CEX | DEX | TRADING PLATFORM & DEFI ECOSYSTEM </h1>
+                        <h1>{t("next_token_powering_world_first_hybrid_cex_dex_trading_platform_defi_ecosystem")}</h1>
                         <div className="btnss">
-                            <a href="#" className="token_signin">Token Dashboard Sign In</a>
-                            <a href="#" className="claim_airdrop">Claim Airdrop</a>
+                            <a href="#" className="token_signin">{t("token_dashboard_sign_in")}</a>
+                            <a href="#" className="claim_airdrop">{t("claim_airdrop")}</a>
                         </div>
-                        <p>Sign Up today and get 4,000 NCX Tokens Airdrop</p>
+                        <p>{t("sign_up_today_and_get")}</p>
                     </div>
                     <div className="col"></div>
                 </div>

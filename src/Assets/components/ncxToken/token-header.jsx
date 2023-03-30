@@ -15,8 +15,21 @@ import Twitter from '../footer/twitter.svg';
 import Instagram from '../../images/instagram.svg';
 import AppBarCode from '../../images/ncx-QRcode.svg';
 import {ReactComponent as DropdownICon} from '../../images/menu-dropdown.svg';
+import ChangeButtons from '../../../selectlanguage';
+import { useTranslation } from "react-i18next";
   
 export default function Header() {   
+  const lngs = [
+    { code: "en", native: "English" },
+    { code: "esp", native: "Español" },
+  ];
+
+  const { t, i18n } = useTranslation();
+
+  const handleTrans = (code) => {
+    i18n.changeLanguage(code);
+  };
+
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
   
   return (
@@ -160,14 +173,15 @@ export default function Header() {
                 </div>
                 <div id="language_trans">
                   <div class="language-box">
-                    <a href="#">English</a>
+                    {/* <a href="#">English</a>
                     <a href="#">हिन्दी</a>
                     <a href="#">Español</a>
                     <a href="#">中文</a>
                     <a href="#">Bahasa</a>
                     <a href="#">Tiếng Việt</a>
                     <a href="#">Русский</a>
-                    <a href="#">Melayu</a>
+                    <a href="#">Melayu</a> */}
+                    <ChangeButtons />
                   </div>
                 </div>
               </div>
