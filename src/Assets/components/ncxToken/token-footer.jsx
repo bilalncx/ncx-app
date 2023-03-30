@@ -11,27 +11,40 @@ import MBLNCXAppStore from '../../images/ncxappstore.svg';
 import NCXBarcode from '../../images/ncx-barcode.png';
 import { ReactComponent as NCXNewsletterarrow } from '../../images/ncx-newsletterarrow.svg';
 import NCXNewsletter from '../newsletter/subscribe';
+import { useTranslation } from "react-i18next";
 
 function MyFooter() 
 {
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+      ];
+    
+      const { t, i18n } = useTranslation();
+    
+      const handleTrans = (code) => {
+        i18n.changeLanguage(code);
+      };
     return(
         <div id="footerdiv">
             <div className="container footer">
                 <div class="footer-row">
                     <div class="first-column ftr-col">
-                        <h1>Products</h1>
+                        <h1>{t("products")}</h1>
                         <ul className="ul-one">
-                            <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
-                            <li><a href="https://trade.ncx.cx/">Spot Trading</a></li>
-                            <li><a href="https://trade.ncx.cx/">Crypto Derivatives</a></li>
-                            <li><a href="https://ncx.cx/market-makers">Markets</a></li>
-                            <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Cross-Chain DEX</a></li>
-                            <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
-                            <li><a href="#">NCX DeFi Wallet</a></li>
-                            <li><a href="/ncx-token">NCX Token</a></li>
-                            <li><a href="#">Equities Trading</a></li>
-                            <li><a href="#">Forex Trading</a></li>
-                            <li><a href="#">Commodities Trading</a></li>
+                            <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
+                            <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
+                            <li><a href="https://trade.ncx.cx/">{t("crypto_derivatives")}</a></li>
+                            <li><a href="https://ncx.cx/market-makers">{t("markets")}</a></li>
+                            <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
+                            <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
+                            <li><a href="#">{t("ncx_defi_wallet")}</a></li>
+                            <li><a href="/ncx-token">{t("ncx_token")}</a></li>
+                            <li><a href="#">{t("equities_trading")}</a></li>
+                            <li><a href="#">{t("forex_trading")}</a></li>
+                            <li><a href="#">{t("commodities_trading")}</a></li>
                         </ul>
                         {/* <h1>Derivatives Trading</h1>
                         <ul className="ul-two">
@@ -45,17 +58,17 @@ function MyFooter()
                         </ul> */}
                     </div>
                     <div class="second-column ftr-col">
-                        <h1>Services</h1>
+                        <h1>{t("services")}</h1>
                         <ul className="ul-one">
-                            <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
-                            <li><a href="https://ncx.cx/task-rewards">Rewards Program</a></li>
-                            <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
-                            <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
-                            <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
-                            <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
-                            <li><a href="https://ncx.cx/faq">FAQ</a></li>
-                            <li><a href="#">Support</a></li>
-                            <li><a href="https://ncx.cx/insights">Media Press</a></li>
+                            <li><a href="https://ncx.cx/insights">{t("ncx_insights")}</a></li>
+                            <li><a href="https://ncx.cx/task-rewards">{t("rewards_program")}</a></li>
+                            <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
+                            <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
+                            <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
+                            <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
+                            <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
+                            <li><a href="#">{t("support")}</a></li>
+                            <li><a href="https://ncx.cx/insights">{t("media_press")}</a></li>
                         </ul>
                         {/* <h1>Company</h1>
                         <ul className="ul-two">
@@ -65,21 +78,21 @@ function MyFooter()
                         </ul> */}
                     </div>
                     <div class="third-column ftr-col">
-                        <h1>Legal</h1>
+                        <h1>{t("legal")}</h1>
                         <ul className="ul-one">
-                            <li><a href="https://ncx.cx/user-agreement">User Agreement</a></li>
-                            <li><a href="https://ncx.cx/kyc-aml-policy">AML and KYC Policy</a></li>
-                            <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
-                            <li><a href="https://ncx.cx/api-agreement">API Documentation</a></li>
-                            <li><a href="https://ncx.cx/cookie-policy">Cookie Policy</a></li>
+                            <li><a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a></li>
+                            <li><a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a></li>
+                            <li><a href="https://ncx.cx/privacy-policy">{t("privacy_policy")}</a></li>
+                            <li><a href="https://ncx.cx/api-agreement">{t("api_documentation")}</a></li>
+                            <li><a href="https://ncx.cx/cookie-policy">{t("cookie_policy")}</a></li>
                             {/* <li className="hiddendss"><a>Red</a></li> */}
                         </ul>
-                        <h1>Apps</h1>
+                        <h1>{t("apps")}</h1>
                         <ul className="ul-two">
-                            <li><a href="#">NCX App on App Store</a></li>
-                            <li><a href="#">NCX App on Google Play Store</a></li>
-                            <li><a href="#">NCX cTrader on App Store</a></li>
-                            <li><a href="#">NCX cTrader on Google Play Store</a></li>
+                            <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
+                            <li><a href="#">{t("ncx_app_on_google_play_store")}</a></li>
+                            <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
+                            <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                         </ul>
                     </div>
                     <div class="fourth-column ftr-col">
@@ -87,17 +100,17 @@ function MyFooter()
                             <div class="footer-logo"><a title="NCX" href="https://ncx.cx/"><img src={Footerlogo} alt="NCX" title="NCX" /></a></div>
                             <div className="app-barcode-row">
                                 <div className="appsttore">
-                                    <p>Mobile App</p>
+                                    <p>{t("mobile_app")}</p>
                                     <NCXGoogle />
                                     <NCXApple />
                                 </div>
                                 <div className="bardcodd">
                                     < img src={NCXBarcode} alt="NCX Barcode to Download App" />
-                                    <p>Scan to Download NCX App</p>
+                                    <p>{t("scan_to_download_ncx_app")}</p>
                                 </div>
                             </div>
                             <div class="social-media">
-                                <p>Follow us</p>
+                                <p>{t("follow_us")}</p>
                                 <div className="social-icons">
                                     <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                                     <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
@@ -105,7 +118,7 @@ function MyFooter()
                                 </div>
                             </div>
                             <div className="fot-newsleter">
-                                <p>Sign Up for Updates</p>
+                                <p>{t("sign_up_for_updates")}</p>
                                 <NCXNewsletter />
                             </div>
                         </div>
@@ -113,9 +126,9 @@ function MyFooter()
                     
                 </div>
                 <div class="copyright">
-                    <p>By using any services provided by NCX Platform you agree with NCX Digital Exchange L.L.C. <a href="https://ncx.cx/user-agreement">User Agreement</a>, <a href="https://ncx.cx/kyc-aml-policy">AML & KYC Policy</a> and <a href="https://ncx.cx/privacy-policy">Privacy Policy</a></p>
-                    <p>NCX does not offer Services to residents of USA, Afghanistan, American Samoa, the Bahamas, Botswana, Democratic People's Republic of Korea, Ethiopia, Ghana, Guam, Iran, Iraq, Libya, Panama, Puerto Rico, Samoa, Saudi Arabia, Sri Lanka, Syria, Trinidad and Tobago, Tunisia, US Virgin Islands, Yemen</p>
-                    <p>NCX Digital Exchange L.L.C., Company Reg. Number - 2477 LLC 2022 © 2022-2023 All rights reserved.</p>
+                    <p>{t("footer_copyright_1")} <a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a>, <a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a> {t("and")} <a href="https://ncx.cx/privacy-policy">{t("privacy_policy")}</a></p>
+                    <p>{t("footer_copyright_2")}</p>
+                    <p>{t("footer_copyright_3")}</p>
                 </div>
             </div>
             <div className="mobile-footer">
@@ -124,30 +137,30 @@ function MyFooter()
                 </div>
                 <div className="mob-foot-ul">
                     <ul>
-                        <h1>Products</h1>
-                        <li><a href="https://ncx.cx/buy-crypto">Buy Crypto</a></li>
-                        <li><a href="https://trade.ncx.cx/">Spot Trading</a></li>
-                        <li><a href="#">Crypto Derivatives</a></li>
-                        <li><a href="https://ncx.cx/market-makers">Markets</a></li>
-                        <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Cross-Chain DEX</a></li>
-                        <li><a href="https://ncx.cx/ncx-card">NCX Card</a></li>
-                        <li><a href="#">NCX DeFi Wallet</a></li>
-                        <li><a href="/ncx-token">NCX Token</a></li>
-                        <li><a href="#">Equities Trading</a></li>
-                        <li><a href="#">Forex Trading</a></li>
-                        <li><a href="#">Commodities Trading</a></li>
+                        <h1>{t("products")}</h1>
+                        <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
+                        <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
+                        <li><a href="#">{t("crypto_derivatives")}</a></li>
+                        <li><a href="https://ncx.cx/market-makers">{t("markets")}</a></li>
+                        <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
+                        <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
+                        <li><a href="#">{t("ncx_defi_wallet")}</a></li>
+                        <li><a href="/ncx-token">{t("ncx_token")}</a></li>
+                        <li><a href="#">{t("equities_trading")}</a></li>
+                        <li><a href="#">{t("forex_trading")}</a></li>
+                        <li><a href="#">{t("commodities_trading")}</a></li>
                     </ul>
                     <ul>
-                        <h1>Services</h1>
-                        <li><a href="https://ncx.cx/insights">NCX Insights</a></li>
-                        <li><a href="https://ncx.cx/task-rewards">Rewards Program</a></li>
-                        <li><a href="https://ncx.cx/market-makers">Market Makers</a></li>
-                        <li><a href="https://ncx.cx/institutional">Institutional Services</a></li>
-                        <li><a href="https://ncx.cx/ncx-otc">OTC</a></li>
-                        <li><a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a></li>
-                        <li><a href="https://ncx.cx/faq">FAQ</a></li>
-                        <li><a href="#">Support</a></li>
-                        <li><a href="https://ncx.cx/insights">Media & Press</a></li>
+                        <h1>{t("services")}</h1>
+                        <li><a href="https://ncx.cx/insights">{t("ncx_insights")}</a></li>
+                        <li><a href="https://ncx.cx/task-rewards">{t("rewards_program")}</a></li>
+                        <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
+                        <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
+                        <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
+                        <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
+                        <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
+                        <li><a href="#">{t("support")}</a></li>
+                        <li><a href="https://ncx.cx/insights">{t("media_press")}</a></li>
                     </ul>
                 </div>
                 {/* <div className="mob-foot-ul">
@@ -170,23 +183,23 @@ function MyFooter()
                 </div> */}
                 <div className="mob-foot-ul">
                     <ul>
-                        <h1>Legal</h1>
-                        <li><a href="https://ncx.cx/user-agreement">User Agreement</a></li>
-                        <li><a href="https://ncx.cx/kyc-aml-policy">AML and KYC Policy</a></li>
-                        <li><a href="https://ncx.cx/privacy-policy">Privacy Policy</a></li>
-                        <li><a href="https://ncx.cx/api-agreement">API Documentation</a></li>
-                        <li><a href="https://ncx.cx/cookie-policy">Cookie Policy</a></li>
+                        <h1>{t("legal")}</h1>
+                        <li><a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a></li>
+                        <li><a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a></li>
+                        <li><a href="https://ncx.cx/privacy-policy">{t("privacy_policy")}</a></li>
+                        <li><a href="https://ncx.cx/api-agreement">{t("api_documentation")}</a></li>
+                        <li><a href="https://ncx.cx/cookie-policy">{t("cookie_policy")}</a></li>
                     </ul>
                     <ul>
-                        <h1>Apps</h1>
-                        <li><a href="#">NCX App on App Store</a></li>
-                        <li><a href="#">NCX App on Google Play Store</a></li>
-                        <li><a href="#">NCX cTrader on App Store</a></li>
-                        <li><a href="#">NCX cTrader on Google Play Store</a></li>
+                        <h1>{t("apps")}</h1>
+                        <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
+                        <li><a href="#">{t("ncx_app_on_google_play_store")}</a></li>
+                        <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
+                        <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                     </ul>
                 </div>
                 <div class="social-media">
-                    <p>Follow us</p>
+                    <p>{t("follow_us")}</p>
                     <div className="social-icons">
                         <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                         <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
@@ -194,7 +207,7 @@ function MyFooter()
                     </div>
                 </div>
                 <div className="fot-newsleter">
-                    <p>Sign Up for Updates</p>
+                    <p>{t("sign_up_for_updates")}</p>
                     <NCXNewsletter />
                     {/* <form>
                         <input aria-label="Your email address" name="email_address" placeholder="Enter Your Email" required type="email" />
@@ -203,19 +216,19 @@ function MyFooter()
                 </div>
                 <div className="app-barcode-row">
                     <div className="appsttore">
-                        <p>Mobile App</p>
+                        <p>{t("mobile_app")}</p>
                         <img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" />
                         <img src={MBLNCXAppStore} alt="ncx-app-on-appstore" />
                     </div>
                     <div className="bardcodd">
                         < img src={NCXBarcode} alt="NCX Barcode to Download App" />
-                        <p>Scan to Download NCX App</p>
+                        <p>{t("scan_to_download_ncx_app")}</p>
                     </div>
                 </div>
                 <div class="copyright">
-                    <p>By using any services provided by NCX Platform you agree with NCX Digital Exchange L.L.C. <a href="https://ncx.cx/user-agreement">User Agreement</a>, <a href="https://ncx.cx/kyc-aml-policy">AML & KYC Policy</a> and <a href="https://ncx.cx/privacy-policy">Privacy Policy</a></p>
-                    <p>NCX does not offer Services to residents of USA, Afghanistan, American Samoa, the Bahamas, Botswana, Democratic People's Republic of Korea, Ethiopia, Ghana, Guam, Iran, Iraq, Libya, Panama, Puerto Rico, Samoa, Saudi Arabia, Sri Lanka, Syria, Trinidad and Tobago, Tunisia, US Virgin Islands, Yemen</p>
-                    <p>NCX Digital Exchange L.L.C., Company Reg. Number - 2477 LLC 2022 © 2022-2023 All rights reserved.</p>
+                    <p>{t("footer_copyright_1")} <a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a>, <a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a> {t("and")} <a href="https://ncx.cx/privacy-policy">{t("privacy_policy")}</a></p>
+                    <p>{t("footer_copyright_2")}</p>
+                    <p>{t("footer_copyright_3")}</p>
                 </div>
             </div>
         </div>

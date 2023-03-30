@@ -126,11 +126,11 @@ h1.toke_feat span{
         max-height: 270px;
     }
     .token_features .feat-row.row.mobile.six .feat-line {
-        height: 240px;
+        height: 410px;
     }
     .token_features .feat-row.row.mobile.six .fftxt {
-        min-height: 210px;
-        max-height: 210px;
+        min-height: 380px;
+        max-height: 380px;
     }
     .token_features{
         padding: 0px 0px 60px 0px !important;
@@ -161,11 +161,11 @@ h1.toke_feat span{
         min-height: 320px;
     }
     #token_allocation .feat-row.row.mobile.three .feat-line {
-        height: 260px;
+        height: 360px;
     }
     #token_allocation .feat-row.row.mobile.three .fftxt {
-        max-height: 230px;
-        min-height: 230px;
+        max-height: 330px;
+        min-height: 330px;
     }
     #token_allocation .feat-row.row.mobile.four .feat-line {
         height: 260px;

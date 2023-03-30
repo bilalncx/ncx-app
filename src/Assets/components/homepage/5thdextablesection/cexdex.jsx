@@ -1,23 +1,34 @@
 import  React from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-// import Sidebtn1 from '../images/rightbtn1.png';
-// import Sidebtn2 from '../images/rightbtn2.png';
-// import PinkArrow from '../images/pinkarrow.png'; 
 import './cexdex.css';
 import { ReactComponent as BlueTick } from '../../../images/blue-dex-checkmark.svg';
 import { ReactComponent as PurpleTick } from '../../../images/purple-dex-checkmark.svg';
 import { ReactComponent as BlackTick } from '../../../images/black-tickmark.svg';
 import { ReactComponent as OptionalBox } from '../../../images/optionalbox.svg';
+import { useTranslation } from "react-i18next";
 function HomeCEXDEXTableSection()
 {
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
+
     return(
         <div className="dex-table">
                 <div className="container">
                     <div className="text-table">
                         <AnimationOnScroll animateIn="animate__fadeIn">
-                            <h1>All-In-One CEX | DEX | Trading Platform & DeFi Ecosystem</h1>
-                            <p>Utilising the power of Decentralised Finance with the ease of use & advantages of a traditional Cryptocurrency Exchange</p>
-                            <p>and advanced Trading Platform in a single, cutting-edge, all-in-one platform and scalable ecosystem</p>
+                            <h1>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem")}</h1>
+                            <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph1")}</p>
+                            <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph2")}</p>
                         </AnimationOnScroll>
                     </div>
                     <div className="tabledex">
@@ -25,69 +36,37 @@ function HomeCEXDEXTableSection()
                             <div className="col one"></div>
                             <div className="col two">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>NCX</h2>
+                                    <h2>{t("ncx")}</h2>
                                 </AnimationOnScroll>
                             </div>
                             <div className="col three">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>CEX</h2>
+                                    <h2>{t("cex")}</h2>
                                 </AnimationOnScroll>
                             </div>
                             <div className="col four">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>DEX</h2>
+                                    <h2>{t("dex")}</h2>
                                 </AnimationOnScroll>
                             </div>
                         </div>
                         <div className="row body">
-                            {/* <div className="col one">
-                                <div className="whitearrow">
-                                    <h3>Design + Planning</h3>
-                                    <svg width="11" height="288" viewBox="0 0 11 288" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_634_2285)">
-                                        <path d="M6.18338 4.40039H4.83594V285.055H6.18338V4.40039Z" fill="white"/>
-                                        <path d="M5.50934 7.66358C6.99769 7.66358 8.20423 6.2025 8.20423 4.40015C8.20423 2.59781 6.99769 1.13672 5.50934 1.13672C4.021 1.13672 2.81445 2.59781 2.81445 4.40015C2.81445 6.2025 4.021 7.66358 5.50934 7.66358Z" fill="white"/>
-                                        <path d="M8.60651 281.207L5.51127 286.773L2.41602 281.207L5.36186 282.973L5.51127 283.062L5.66068 282.973L8.60651 281.207Z" fill="white" stroke="white" stroke-width="0.673721"/>
-                                        </g>
-                                        <defs>
-                                        <clipPath id="clip0_634_2285">
-                                        <rect width="10" height="287" fill="white" transform="translate(0.5 0.835938)"/>
-                                        </clipPath>
-                                        </defs>
-                                    </svg>
-                                </div>
-                                <div className="pinkarrow">
-                                    <h3>Development</h3>
-                                    <img src={PinkArrow} alt="ncx-pinkarrow"/>
-                                    <svg width="11" height="246" viewBox="0 0 11 246" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_634_2292)">
-                                        <path d="M6.18563 0.835938H4.81641V241.884H6.18563V0.835938Z" fill="#BB6BD9"/>
-                                        <path d="M8.60651 238.043L5.51127 244.096L2.41602 238.043L5.36186 239.963L5.51127 240.061L5.66068 239.963L8.60651 238.043Z" fill="#BB6BD9" stroke="#BB6BD9" stroke-width="0.673721"/>
-                                        </g>
-                                        <defs>
-                                        <clipPath id="clip0_634_2292">
-                                        <rect width="10" height="245" fill="white" transform="translate(0.5 0.835938)"/>
-                                        </clipPath>
-                                        </defs>
-                                    </svg>
-                                </div>
-                            </div> */}
                             <div className="col two">
                                 <div className="row body-text">
                                     <div className="txt-cl">
-                                        <h3>Security</h3>
-                                        <h3>Margin Trading</h3>
-                                        <h3>Fees</h3>
-                                        <h3>User Interface</h3>
-                                        <h3>Transaction Congestion</h3>
-                                        <h3>Trading Speed & Volume</h3>
-                                        <h3>Transaction Confirmation Latency</h3>
-                                        <h3>Cross Chain Swap</h3>
-                                        <h3>Staking</h3>
-                                        <h3>Equities Trading<span>(USA, EU, ASIA Stock Market)</span></h3>
+                                        <h3>{t("security")}</h3>
+                                        <h3>{t("margin_trading")}</h3>
+                                        <h3>{t("fees")}</h3>
+                                        <h3>{t("user_interface")}</h3>
+                                        <h3>{t("transaction_congestion")}</h3>
+                                        <h3>{t("trading_speed_volume")}</h3>
+                                        <h3>{t("transaction_confirmation_latency")}</h3>
+                                        <h3>{t("cross_chain_swap")}</h3>
+                                        <h3>{t("staking")}</h3>
+                                        <h3>{t("equities_trading")}<span>{t("usa_eu_asia_stock_market")}</span></h3>
                                     </div>
                                     <div className="txt-blue">
-                                        <h3>High</h3>
+                                        <h3>{t("high")}</h3>
                                         <div className="tickbox">
                                             <svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <g clip-path="url(#clip0_634_2320)">
@@ -100,12 +79,12 @@ function HomeCEXDEXTableSection()
                                                 </defs>
                                             </svg>
                                         </div>
-                                        <h3>Low</h3>
-                                        <h3>User Friendly</h3>
-                                        <h3>Low</h3>
-                                        <h3>High</h3>
-                                        <h3>Low</h3>
-                                        <h3>Decentalised</h3>
+                                        <h3>{t("low")}</h3>
+                                        <h3>{t("user_friendly")}</h3>
+                                        <h3>{t("low")}</h3>
+                                        <h3>{t("high")}</h3>
+                                        <h3>{t("low")}</h3>
+                                        <h3>{t("decentalised")}</h3>
                                         <div className="tickbox">
                                             <svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <g clip-path="url(#clip0_634_2320)">
@@ -132,7 +111,7 @@ function HomeCEXDEXTableSection()
                                         </div>
                                     </div>
                                     <div className="txt-blue">
-                                        <h3>Low</h3>
+                                        <h3>{t("low")}</h3>
                                         <div className="tickbox">
                                             <svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <g clip-path="url(#clip0_634_2320)">
@@ -145,12 +124,12 @@ function HomeCEXDEXTableSection()
                                                 </defs>
                                             </svg>
                                         </div>
-                                        <h3>Low</h3>
-                                        <h3>User Friendly</h3>
-                                        <h3>Low</h3>
-                                        <h3>High</h3>
-                                        <h3>Low</h3>
-                                        <h3>Centalised</h3>
+                                        <h3>{t("low")}</h3>
+                                        <h3>{t("user_friendly")}</h3>
+                                        <h3>{t("low")}</h3>
+                                        <h3>{t("high")}</h3>
+                                        <h3>{t("low")}</h3>
+                                        <h3>{t("centalised")}</h3>
                                         <div className="optionalbox">
                                             <svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <g clip-path="url(#clip0_634_2370)">
@@ -179,7 +158,7 @@ function HomeCEXDEXTableSection()
                                         </div>
                                     </div>
                                     <div className="txt-blue">
-                                        <h3>High</h3>
+                                        <h3>{t("high")}</h3>
                                         <div className="optionalbox">
                                             <svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <g clip-path="url(#clip0_634_2370)">
@@ -193,12 +172,12 @@ function HomeCEXDEXTableSection()
                                                 </defs>
                                             </svg>
                                         </div>
-                                        <h3>High</h3>
-                                        <h3>Complex</h3>
-                                        <h3>High</h3>
-                                        <h3>Low</h3>
-                                        <h3>High</h3>
-                                        <h3>Decentalised</h3>
+                                        <h3>{t("high")}</h3>
+                                        <h3>{t("complex")}</h3>
+                                        <h3>{t("high")}</h3>
+                                        <h3>{t("low")}</h3>
+                                        <h3>{t("high")}</h3>
+                                        <h3>{t("decentalised")}</h3>
                                         <div className="optionalbox">
                                             <svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <g clip-path="url(#clip0_634_2370)">
@@ -228,18 +207,18 @@ function HomeCEXDEXTableSection()
                                 </div>
                                 <div className="row body-text second">
                                     <div className="txt-cl">
-                                        <h3>Derivatives Trading</h3>
-                                        <h3>Crypto Debit Card</h3>
-                                        <h3>DeFi Wallet</h3>
-                                        <h3>Fiat Deposits / Withdrawals</h3>
-                                        <h3>Crypto-Fiat Trading Pairs</h3>
-                                        <h3>Commodities Trading</h3>
-                                        <h3>Forex Trading</h3>
-                                        <h3>ETF's Trading</h3>
-                                        <h3>OTC Trading</h3>
-                                        <h3>Institutional Services</h3>
-                                        <h3>24/7 Support</h3>
-                                        <h3>Coverage</h3>
+                                        <h3>{t("derivatives_trading")}</h3>
+                                        <h3>{t("crypto_debit_card")}</h3>
+                                        <h3>{t("defi_wallet")}</h3>
+                                        <h3>{t("fiat_deposits_withdrawal")}</h3>
+                                        <h3>{t("crypto_fiat_trading_pairs")}</h3>
+                                        <h3>{t("commodities_trading")}</h3>
+                                        <h3>{t("forex_trading")}</h3>
+                                        <h3>{t("etfs_trading")}</h3>
+                                        <h3>{t("otc_trading")}</h3>
+                                        <h3>{t("institutional_services")}</h3>
+                                        <h3>{t("24/7_support")}</h3>
+                                        <h3>{t("coverage")}</h3>
                                     </div>
                                     <div className="txt-blue">
                                         <div className="tickbox">
@@ -374,7 +353,7 @@ function HomeCEXDEXTableSection()
                                                 </defs>
                                             </svg>
                                         </div>
-                                        <h3>Global**</h3>
+                                        <h3>{t("global**")}</h3>
                                     </div>
                                     <div className="txt-blue">
                                         <div className="tickbox">
@@ -514,7 +493,7 @@ function HomeCEXDEXTableSection()
                                                 </defs>
                                             </svg>
                                         </div>
-                                        <h3>Regional</h3>
+                                        <h3>{t("regional")}</h3>
                                     </div>
                                     <div className="txt-blue">
                                         <div className="optionalbox">
@@ -660,11 +639,11 @@ function HomeCEXDEXTableSection()
                                                 </defs>
                                             </svg>
                                         </div>
-                                        <h3>Global</h3>
+                                        <h3>{t("global")}</h3>
                                     </div>
                                 </div>
                                 <div className="agreement-p">
-                                    <p>**- NCX Platform is available Globally apart of Restricted Jurisdictions listed in <span><a href="https://ncx.cx/user-agreement">User Agreement</a></span></p>
+                                    <p>{t("ncx_platform_is_available_globally_apart_of_restricted_jurisdictions_listed_in")} <span><a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a></span></p>
                                 </div>
                             </div>
                         </div>
@@ -672,47 +651,47 @@ function HomeCEXDEXTableSection()
 
                     <div id="mobile-tabsection">
                         <div className="btn-dexmbl">
-                            <h1>Features</h1>
-                            <h1>NCX</h1>
-                            <h1>CEX</h1>
-                            <h1>DEX</h1>
+                            <h1>{t("features")}</h1>
+                            <h1>{t("ncx")}</h1>
+                            <h1>{t("cex")}</h1>
+                            <h1>{t("dex")}</h1>
                         </div>
                         <div className="row">
                             <div className="mbl-dexheading">
-                                <h3>Security</h3>
-                                <h3>Margin Trading</h3>
-                                <h3>Fees</h3>
-                                <h3>User Interface</h3>
-                                <h3>Transaction Congestion</h3>
-                                <h3>Trading Speed & Volume</h3>
-                                <h3>Transaction Confirmation Latency</h3>
-                                <h3>Cross Chain Swap</h3>
-                                <h3>Staking</h3>
-                                <h3>Equities Trading <span>(USA, EU, ASIA Stock Market)</span></h3>
-                                <h3>Derivatives Trading</h3>
-                                <h3>Crypto Debit Card</h3>
-                                <h3>DeFi Wallet</h3>
-                                <h3>Fiat Deposits / Withdrawals</h3>
-                                <h3>Crypto-Fiat Trading Pairs</h3>
-                                <h3>Commodities Trading</h3>
-                                <h3>Forex Trading</h3>
-                                <h3>ETF's Trading</h3>
-                                <h3>OTC Trading</h3>
-                                <h3>Institutional Services</h3>
-                                <h3>24/7 Support</h3>
-                                <h3>Coverage</h3>
+                                <h3>{t("security")}</h3>
+                                <h3>{t("margin_trading")}</h3>
+                                <h3>{t("fees")}</h3>
+                                <h3>{t("user_interface")}</h3>
+                                <h3>{t("transaction_congestion")}</h3>
+                                <h3>{t("trading_speed_volume")}</h3>
+                                <h3>{t("transaction_confirmation_latency")}</h3>
+                                <h3>{t("cross_chain_swap")}</h3>
+                                <h3>{t("staking")}</h3>
+                                <h3>{t("equities_trading")}<span>{t("usa_eu_asia_stock_market")}</span></h3>
+                                <h3>{t("derivatives_trading")}</h3>
+                                <h3>{t("crypto_debit_card")}</h3>
+                                <h3>{t("defi_wallet")}</h3>
+                                <h3>{t("fiat_deposits_withdrawal")}</h3>
+                                <h3>{t("crypto_fiat_trading_pairs")}</h3>
+                                <h3>{t("commodities_trading")}</h3>
+                                <h3>{t("forex_trading")}</h3>
+                                <h3>{t("etfs_trading")}</h3>
+                                <h3>{t("otc_trading")}</h3>
+                                <h3>{t("institutional_services")}</h3>
+                                <h3>{t("24/7_support")}</h3>
+                                <h3>{t("coverage")}</h3>
                             </div>
                             <div className="mbl-dexcont1">
-                                <h3>High</h3>
+                                <h3>{t("high")}</h3>
                                 <div className="tickbox">
                                     <BlueTick />
                                 </div>
-                                <h3>Low</h3>
-                                <h3>User Friendly</h3>
-                                <h3>Low</h3>
-                                <h3>High</h3>
-                                <h3>Low</h3>
-                                <h3>Decentalised</h3>
+                                <h3>{t("low")}</h3>
+                                <h3>{t("user_friendly")}</h3>
+                                <h3>{t("low")}</h3>
+                                <h3>{t("high")}</h3>
+                                <h3>{t("low")}</h3>
+                                <h3>{t("decentalised")}</h3>
                                 <div className="tickbox">
                                     <BlueTick />
                                 </div>
@@ -752,19 +731,19 @@ function HomeCEXDEXTableSection()
                                 <div className="tickbox purple">
                                     <PurpleTick />
                                 </div>
-                                <h3 className="purple">Global**</h3>
+                                <h3 className="purple">{t("global**")}</h3>
                             </div>
                             <div className="mbl-dexcont2">
-                                <h3>Low</h3>
+                                <h3>{t("low")}</h3>
                                 <div className="tickbox">
                                     <BlackTick />
                                 </div>
-                                <h3>Low</h3>
-                                <h3>User Friendly</h3>
-                                <h3>Low</h3>
-                                <h3>High</h3>
-                                <h3>Low</h3>
-                                <h3>Centalised</h3>
+                                <h3>{t("low")}</h3>
+                                <h3>{t("user_friendly")}</h3>
+                                <h3>{t("low")}</h3>
+                                <h3>{t("high")}</h3>
+                                <h3>{t("low")}</h3>
+                                <h3>{t("centalised")}</h3>
                                 <div className="optionalbox">
                                     <OptionalBox />
                                 </div>
@@ -804,19 +783,19 @@ function HomeCEXDEXTableSection()
                                 <div className="tickbox">
                                     <BlackTick />
                                 </div>
-                                <h3>Regional</h3>
+                                <h3>{t("regional")}</h3>
                             </div>
                             <div className="mbl-dexcont3">
-                                <h3>High</h3>
+                                <h3>{t("high")}</h3>
                                 <div className="optionalbox">
                                     <OptionalBox />
                                 </div>
-                                <h3>High</h3>
-                                <h3>Complex</h3>
-                                <h3>High</h3>
-                                <h3>Low</h3>
-                                <h3>High</h3>
-                                <h3>Decentalised</h3>
+                                <h3>{t("high")}</h3>
+                                <h3>{t("complex")}</h3>
+                                <h3>{t("high")}</h3>
+                                <h3>{t("low")}</h3>
+                                <h3>{t("high")}</h3>
+                                <h3>{t("decentalised")}</h3>
                                 <div className="optionalbox">
                                     <OptionalBox />
                                 </div>
@@ -856,11 +835,11 @@ function HomeCEXDEXTableSection()
                                 <div className="optionalbox">
                                     <OptionalBox />
                                 </div>
-                                <h3>Global</h3>
+                                <h3>{t("global")}</h3>
                             </div>
                         </div>
                         <div className="mobile-bp">
-                            <p>**- NCX Platform is available Globally apart of Restricted Jurisdictions listed in <span><a href="https://ncx.cx/user-agreement">User Agreement</a></span></p>
+                            <p>{t("ncx_platform_is_available_globally_apart_of_restricted_jurisdictions_listed_in")} <span><a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a></span></p>
                         </div>
                     </div>
                 </div>
