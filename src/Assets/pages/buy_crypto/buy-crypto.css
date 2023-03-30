@@ -90,7 +90,8 @@ img.buy-ss22 {
         display: none !important;
     }
     #mobile-shoss .crypto-assets.row {
-        display: flex!important;
+        display: none !important;
+
     }
     .buycrypt-row .col.coinsect{
         padding: 0px !important;

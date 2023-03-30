@@ -3,7 +3,9 @@ import { useTranslation } from "react-i18next";
 
 const lngs = [
     { code: "en", native: "English" },
-    { code: "esp", native: "Español" },
+    { code: "hi", native: "हिन्दी"},
+    { code: "es", native: "Español" },
+    { code: "zh", native: "中文"}
   ];
   
   export default function App() {

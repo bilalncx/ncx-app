@@ -1,6 +1,7 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import Slider from "@mui/material/Slider";
+import { useTranslation } from "react-i18next";
 
 const marks = [
   {
@@ -25,9 +26,22 @@ const marks = [
 // }
 
 export default function DiscreteSliderValues() {
+  const lngs = [
+    { code: "en", native: "English" },
+    { code: "in", native: "हिन्दी"},
+    { code: "es", native: "Español" },
+    { code: "zh", native: "中文" },
+  ];
+  
+  const { t, i18n } = useTranslation();
+  
+  const handleTrans = (code) => {
+  i18n.changeLanguage(code);
+  };
+  
   return (
     <Box sx={{ width: 400 }}>
-        <h1>Round 1</h1>
+        <h1>{t("round_1")}</h1>
         <Slider
             aria-label="Restricted values"
             defaultValue={0}

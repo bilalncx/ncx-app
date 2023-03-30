@@ -2,13 +2,26 @@ import React from "react";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import { ReactComponent as CardArrow } from '../../../images/roadmap-next.svg';
 import './roadmap_slider.css';
+import { useTranslation } from "react-i18next";
 
 function RoadmapSlider()
 {
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
     return(
         <div className="roadMap_slider">
             <div className="container">
-                <h1 className="road-head">Roadmap</h1>
+                <h1 className="road-head">{t("road_map")}</h1>
                 <CarouselProvider
                     className="desktop"
                     visibleSlides={4}
@@ -85,42 +98,42 @@ function RoadmapSlider()
                     <Slider className="road_slider">
                         <Slide index={0}>
                             <div className="single_map">
-                                <h3>Q1 2023</h3>
+                                <h3>{t("q1_2023")}</h3>
                                 <div className="active border-map"></div>
-                                <h3>Jan - Apr 2023</h3>
-                                <p>Creation of a decentralize martketplace to neural network adjacent coefficients.</p>
+                                <h3>{t("jan_apr_2023")}</h3>
+                                <p>{t("road_map_para1")}</p>
                             </div>
                         </Slide>
                         <Slide index={1}>
                             <div className="single_map">
-                                <h3>Q1 2023</h3>
+                                <h3>{t("q1_2023")}</h3>
                                 <div className="active border-map"></div>
-                                <h3>Jul - Aug 2023</h3>
-                                <p>Start of the ICO Crypto Platform Development and Introduction of advertiser auctions</p>
+                                <h3>{t("jul_aug_2023")}</h3>
+                                <p>{t("road_map_para2")}</p>
                             </div>
                         </Slide>
                         <Slide index={2}>
                             <div className="single_map">
-                                <h3>Q1 2023</h3>
+                                <h3>{t("q1_2023")}</h3>
                                 <div className="border-map"></div>
-                                <h3>Q3 2023</h3>
-                                <p>Creation of a decentralize martketplace to neural network adjacent coefficients.</p>
+                                <h3>{t("q3_2023")}</h3>
+                                <p>{t("road_map_para1")}</p>
                             </div>
                         </Slide>
                         <Slide index={3}>
                             <div className="single_map">
-                                <h3>Q1 2023</h3>
+                                <h3>{t("q1_2023")}</h3>
                                 <div className="border-map"></div>
-                                <h3>Q4 2023</h3>
-                                <p>Launch of the mobile Best versions of the Publisher application and Press Tour.</p>
+                                <h3>{t("q4_2023")}</h3>
+                                <p>{t("road_map_para3")}</p>
                             </div>
                         </Slide>
                         <Slide index={4}>
                             <div className="single_map">
-                                <h3>Q1 2022</h3>
+                                <h3>{t("q1_2022")}</h3>
                                 <div className="border-map"></div>
-                                <h3>January 2022</h3>
-                                <p>Product Development Stage Platform Backend and Software Development</p>
+                                <h3>{t("january_2022")}</h3>
+                                <p>{t("road_map_para4")}</p>
                             </div>
                         </Slide>
                     </Slider>

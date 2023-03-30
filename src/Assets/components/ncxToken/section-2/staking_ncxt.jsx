@@ -4,26 +4,40 @@ import './style.css';
 import {ReactComponent as NCXTickmark } from '../../../images/check.svg';
 import { ReactComponent as TokenTick } from '../../../images/check.svg';
 import {ReactComponent as NCXTokenIcon} from '../../../images/token_icon.svg';
+import { useTranslation } from "react-i18next";
 
 function HomeNCXToken()
 {
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
+
     return(
         <div id="stake_ncxT">
             <div className="container">
                 <div className="stake_ncx">
-                    <h1>Stake NCXT & Reap the Rewards</h1>
+                    <h1>{t("stake_ncxt_reap_the_rewards")}</h1>
                 </div>
                 <div className="tokentable-stake">
                     <div className="tokenhead-stake">
-                        <p className="q1">NCXT Staked</p>
-                        <p className="q1">Trading Fee Discount</p>
-                        <p className="q1">Additional Staking Rewards (APR)</p>
-                        <p className="q1">Lower Spread on Derivatives Trading</p>
-                        <p className="q1">NCX Card</p>
-                        <p className="q1">Withdrawal Fee Refund</p>
-                        <p className="q1">Derivatives Leverage</p>
-                        <p className="q1">Additional APR for Providing Liquidity in NCX Yield Farms</p>
-                        <p className="q1">Use NCXT as Collateral to Borrow other Crypto Assets</p>
+                        <p className="q1">{t("ncxt_staked")}</p>
+                        <p className="q1">{t("trading_fee_discount")}</p>
+                        <p className="q1">{t("additional_staking_rewards_apr")}</p>
+                        <p className="q1">{t("lower_spread_on_derivatives_trading")}</p>
+                        <p className="q1">{t("ncx_card")}</p>
+                        <p className="q1">{t("withdrawal_fee_refund")}</p>
+                        <p className="q1">{t("derivatives_leverage")}</p>
+                        <p className="q1">{t("additional_apr_for_providing_liquidity_in_ncx_yield_farms")}</p>
+                        <p className="q1">{t("use_ncxt_as_collateral_to_borrow_other_crypto_assets")}</p>
                     </div>
                     <div className="tokencolum-stake">
                         <div className="colstake">
@@ -88,17 +102,17 @@ function HomeNCXToken()
                         </div>
                         <div className="colstake">
                             <p></p>
-                            <p className="height_q">Level 1</p>
-                            <p className="height_q">Level 2</p>
-                            <p className="height_q">Level 3</p>
-                            <p className="height_q">Level 4</p>
+                            <p className="height_q">{t("level_1")}</p>
+                            <p className="height_q">{t("level_2")}</p>
+                            <p className="height_q">{t("level_3")}</p>
+                            <p className="height_q">{t("level_4")}</p>
                         </div>
                         <div className="colstake">
                             <p></p>
-                            <p className="height_q">Select</p>
-                            <p className="height_q">Platinum</p>
-                            <p className="height_q">Gold</p>
-                            <p className="height_q">Black</p>
+                            <p className="height_q">{t("select")}</p>
+                            <p className="height_q">{t("platinum")}</p>
+                            <p className="height_q">{t("gold")}</p>
+                            <p className="height_q">{t("black")}</p>
                         </div>
                         <div className="colstake">
                             <p></p>
@@ -146,7 +160,7 @@ function HomeNCXToken()
                 </div>
                 <div className="mobile-tokentable">
                     <div className="mbl-tokrow">
-                        <h3>NCX Staked</h3>
+                        <h3>{t("ncxt_staked")}</h3>
                         <div className="mbl-tokrowitems">
                             <div className="color">
                                 <NCXTokenIcon />
@@ -187,7 +201,7 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Trading Fee Discount</h3>
+                        <h3>{t("trading_fee_discount")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
                                 <p>10%</p>
@@ -219,7 +233,7 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Additional Staking Rewards (APR)</h3>
+                        <h3>{t("additional_staking_rewards_apr")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
                                 <p>2%</p>
@@ -251,45 +265,45 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Lower Spread on Derivatives Trading</h3>
+                        <h3>{t("lower_spread_on_derivatives_trading")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive">
                             </div>
                             <div className="color height_q">
-                                <p>Level 1</p>
+                                <p>{t("level_1")}</p>
                             </div>
                             <div className="color height_q">
-                                <p>Level 2</p>
+                                <p>{t("level_2")}</p>
                             </div>
                             <div className="color height_q">
-                                <p>Level 3</p>
+                                <p>{t("level_3")}</p>
                             </div>
                             <div className="color height_q">
-                                <p>Level 4</p>
+                                <p>{t("level_4")}</p>
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow derivative">
-                        <h3>NCX Card</h3>
+                        <h3>{t("ncx_card")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive">
                             </div>
                             <div className="color height_q">
-                                <p>Select</p>
+                                <p>{t("select")}</p>
                             </div>
                             <div className="color height_q">
-                                <p>Platinum</p>
+                                <p>{t("platinum")}</p>
                             </div>
                             <div className="color height_q">
-                                <p>Gold</p>
+                                <p>{t("gold")}</p>
                             </div>
                             <div className="color height_q">
-                                <p>Black</p>
+                                <p>{t("black")}</p>
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Withdrawal Fee Refund</h3>
+                        <h3>{t("withdrawal_fee_refund")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive">
                             </div>
@@ -320,7 +334,7 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Derivatives Leverage</h3>
+                        <h3>{t("derivatives_leverage")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color height_q">
                                 <p>80x</p>
@@ -346,7 +360,7 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Additional APR for Providing Liquidity in NCX Yield Farms</h3>
+                        <h3>{t("additional_apr_for_providing_liquidity_in_ncx_yield_farms")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive"></div>
                             <div className="color inactive"></div>
@@ -372,7 +386,7 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Use NCXT as Collateral to Borrow other Crypto Assets</h3>
+                        <h3>{t("use_ncxt_as_collateral_to_borrow_other_crypto_assets")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive"></div>
                             <div className="color inactive"></div>

@@ -13,14 +13,28 @@ import { ReactComponent as Feature7 } from '../../../images/feat-7.svg';
 // import { ReactComponent as Feature10 } from '../../../images/feat-10.svg';
 import { ReactComponent as Feature11 } from '../../../images/feat-11.svg';
 // import { ReactComponent as Feature12 } from '../../../images/feat-12.svg';
+import { useTranslation } from "react-i18next";
 
 
 function NCXhomepageOTCSection(){
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
+        
     return(
         <div id="token_allocation" className="token_features">
             <div className="container">
                 <AnimationOnScroll animateIn="animate__fadeIn">
-                    <h1 className="toke_feat">NCXT <span>Token Allocation</span></h1>
+                    <h1 className="toke_feat">{t("ncxt_token_allocation")}</h1>
                 </AnimationOnScroll>
                 <div className="feat-row row">
                     <div className="col">
@@ -28,8 +42,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Airdrops & Rewards - 8%</h2>
-                                    <p>Airdrops for new user acquisition campaigns as well as for referral programs & affiliate rewards that drive the growth of NCX Platform user-base  and NCX Token holders.</p>
+                                    <h2>{t("ncxt_token_allocation_heading1")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph1")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature1 />
@@ -42,8 +56,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Products & Liquidity  - 19%</h2>
-                                    <p>Used for the platform liquidity and as ongoing support for product features, upgrades and incentives such as Staking, Mobile Applications, DEX, DeFi Wallet, Card etc.</p>
+                                    <h2>{t("ncxt_token_allocation_heading2")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph2")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature2 />
@@ -56,8 +70,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Private Sale & IDO - 24%</h2>
-                                    <p>Funds raised during the Private Sale and IDO are allocated for initial locked liquidity for NCX Tokens on Decentralised Exchanges and NCX Spot Trading, global marketing, growing of NCX Ecosystem and new user acquisition, operations, development, partnerships and initial liquidity</p>
+                                    <h2>{t("ncxt_token_allocation_heading3")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph3")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature3 />
@@ -72,8 +86,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>CEX/DEX Listings - 7%</h2>
-                                    <p>Allocated for Tier 1, Tier 2 Centralised and Decentralised Exchanges Listings and Liquidity</p>
+                                    <h2>{t("ncxt_token_allocation_heading4")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph4")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature4 />
@@ -86,8 +100,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Marketing & PR - 15%</h2>
-                                    <p>Allocated for Marketing Campaigns across all regions and marketing channels including Social Media, Target Marketing, Outdoor Marketing, Premium Sports Events & Tournaments and Sponsorship Deals</p>
+                                    <h2>{t("ncxt_token_allocation_heading5")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph5")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature5 />
@@ -100,8 +114,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Reserve - 12%</h2>
-                                    <p>NCX Reserve securing and administering the platform stable growth and performance allocating necessary resources into Compliance, Licensing, New Product Development & Launch,  Buyback & Burn Mechanism, decreasing the circulating supply stimulating price growth of NCX Platform & Ecosystem native token NCXT</p>
+                                    <h2>{t("ncxt_token_allocation_heading6")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph6")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature6 />
@@ -116,8 +130,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Ecosystem - 10%</h2>
-                                    <p>Used for expanding the NCX Ecosystem and NCX Token Utility through partnerships and integrations in the DeFi and CeFi Space</p>
+                                    <h2>{t("ncxt_token_allocation_heading7")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph7")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature7 />
@@ -130,8 +144,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Team - 5%</h2>
-                                    <p>Used exclusively for employee incentives and performance rewards, building a strong international team of professionals devoted to delivering the preeminent results and outstanding customer experience and satisfaction.</p>
+                                    <h2>{t("ncxt_token_allocation_heading8")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph8")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature11 />
@@ -162,8 +176,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Airdrops & Rewards - 8%</h2>
-                                    <p>Airdrops for new user acquisition campaigns as well as for referral programs & affiliate rewards that drive the growth of NCX Platform user-base  and NCX Token holders.</p>
+                                    <h2>{t("ncxt_token_allocation_heading1")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph1")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature1 />
@@ -176,8 +190,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Products & Liquidity  - 19%</h2>
-                                    <p>Used for the platform liquidity and as ongoing support for product features, upgrades and incentives such as Staking, Mobile Applications, DEX, DeFi Wallet, Card etc.</p>
+                                    <h2>{t("ncxt_token_allocation_heading2")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph2")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature2 />
@@ -192,8 +206,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Private Sale & IDO - 24%</h2>
-                                    <p>Funds raised during the Private Sale and IDO are allocated for initial locked liquidity for NCX Tokens on Decentralised Exchanges and NCX Spot Trading, global marketing, growing of NCX Ecosystem and new user acquisition, operations, development, partnerships and initial liquidity</p>
+                                    <h2>{t("ncxt_token_allocation_heading3")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph3")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature3 />
@@ -206,8 +220,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Reserve - 12%</h2>
-                                    <p>NCX Reserve securing and administering the platform stable growth and performance allocating necessary resources into Compliance, Licensing, New Product Development & Launch,  Buyback & Burn Mechanism, decreasing the circulating supply stimulating price growth of NCX Platform & Ecosystem native token NCXT</p>
+                                    <h2>{t("ncxt_token_allocation_heading4")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph4")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature6 />
@@ -222,8 +236,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Marketing & PR - 15%</h2>
-                                    <p>Allocated for Marketing Campaigns across all regions and marketing channels including Social Media, Target Marketing, Outdoor Marketing, Premium Sports Events & Tournaments and Sponsorship Deals</p>
+                                    <h2>{t("ncxt_token_allocation_heading5")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph5")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature5 />
@@ -236,8 +250,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>CEX/DEX Listings - 7%</h2>
-                                    <p>Allocated for Tier 1, Tier 2 Centralised and Decentralised Exchanges Listings and Liquidity</p>
+                                    <h2>{t("ncxt_token_allocation_heading6")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph6")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature4 />
@@ -252,8 +266,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Ecosystem - 10%</h2>
-                                    <p>Used for expanding the NCX Ecosystem and NCX Token Utility through partnerships and integrations in the DeFi and CeFi Space</p>
+                                    <h2>{t("ncxt_token_allocation_heading7")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph7")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature7 />
@@ -266,8 +280,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Team - 5%</h2>
-                                    <p>Used exclusively for employee incentives and performance rewards, building a strong international team of professionals devoted to delivering the preeminent results and outstanding customer experience and satisfaction.</p>
+                                    <h2>{t("ncxt_token_allocation_heading8")}</h2>
+                                    <p>{t("ncxt_token_allocation_paragraph8")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature11 />

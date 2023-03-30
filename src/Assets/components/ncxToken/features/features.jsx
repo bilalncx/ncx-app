@@ -13,14 +13,29 @@ import { ReactComponent as Feature9 } from '../../../images/feat-9.svg';
 import { ReactComponent as Feature10 } from '../../../images/feat-10.svg';
 import { ReactComponent as Feature11 } from '../../../images/feat-11.svg';
 import { ReactComponent as Feature12 } from '../../../images/feat-12.svg';
+import { useTranslation } from "react-i18next";
 
 
 function NCXhomepageOTCSection(){
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
+
+
     return(
         <div className="token_features">
             <div className="container">
                 <AnimationOnScroll animateIn="animate__fadeIn">
-                    <h1 className="toke_feat">NCX Token <span>Utility & Features</span></h1>
+                    <h1 className="toke_feat">{t("ncx_token")} <span>{t("utility_features")}</span></h1>
                 </AnimationOnScroll>
                 <div className="feat-row row">
                     <div className="col">
@@ -28,8 +43,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Trading Fees Discounts of up to 90%</h2>
-                                    <p>NCXT holders receive Trading Fees discounts of up to 100% depending on the amount of NCXT Staked. The discount tiers are provided in the table above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading1")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph1")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature1 />
@@ -42,8 +57,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Fee Reimbursement on Withdrawals up to 100%</h2>
-                                    <p>NCXT holders benefit from reimbursement of their withdrawal fees. The detailed reimbursement schedule and minimum amount of Staked NCXT required is provided above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading2")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph2")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature2 />
@@ -56,8 +71,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Increased Derivatives Leverage</h2>
-                                    <p>NCXT holders will be granted increased Derivatives Trading Leverage of up to 150x. The detailed schedule and minimum amount of Staked NCXT required is provided above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading3")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph3")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature3 />
@@ -72,9 +87,9 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Additional Staking Rewards </h2>
-                                    <p>NCXT holders enjoy an additional 5% to 40% APR Staking Rewards on top of the Standard Staking Rate.</p>
-                                    <p><strong>Example:</strong> If the Standard APR is 30%, Additional Rewards Bonus is 40% APR,  the total Staking Rewards the staking holder will receive is 70% APR in total secure.</p>
+                                    <h2>{t("ncx_token_utility_features_heading4")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph4_1")}</p>
+                                    <p><strong>{t("ncx_token_utility_features_paragraph4_2")}</strong>{t("ncx_token_utility_features_paragraph4_3")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature4 />
@@ -87,8 +102,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>NCX Crypto Debit Card</h2>
-                                    <p>NCX Card is Crypto Debit Card powered by MasterCard to facilitate every day payments at more than 44 million merchants word-wide, online payments and ATM withdrawals using crypto converted into fiat currency as a payment method. Multi-tier system unlocks the card benefits and discounts, depending on the amount of NCXT Staked.</p>
+                                    <h2>{t("ncx_token_utility_features_heading5")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph5")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature5 />
@@ -101,8 +116,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Governance</h2>
-                                    <p>NCXT holders are able to vote on future upgrades and incentives on NCX Ecosystem allowing for more decentralised decision-making approach through Governance.</p>
+                                    <h2>{t("ncx_token_utility_features_heading6")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph6")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature6 />
@@ -117,8 +132,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Derivatives Trading Collateral</h2>
-                                    <p>NCXT can be used as collateral for Derivatives Trading across 500 Markets including Cryptocurrencies, Stocks, Indices, Fiat Currencies, ETF’s and Commodities.</p>
+                                    <h2>{t("ncx_token_utility_features_heading7")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph7")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature7 />
@@ -131,8 +146,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Additional APR for Providing Liquidity in NCX DEX</h2>
-                                    <p>NCXT holders get additional 5% - 25% Rewards for providing liquidity in NCX DEX Liquidity Pools and Yield Farms. The detailed schedule provided in the table above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading8")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph8")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature8 />
@@ -145,8 +160,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Use NCXT as Collateral to Borrow other Crypto Assets</h2>
-                                    <p>NCXT can be used as collateral to borrow other Crypto Assets on NCX Lending Protocol, including USDT, Bitcoin, Ethereum, BNB, Solana, Polygon and others.</p>
+                                    <h2>{t("ncx_token_utility_features_heading9")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph9")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature9 />
@@ -161,8 +176,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Token Burn to Drive the Growth of NCXT</h2>
-                                    <p>NCX will burn NCXT every month to create a continuous utility environment for holders though the NCXT Buy Back & Burn Function decreasing the circulating supply in order to drive price growth of NCXT</p>
+                                    <h2>{t("ncx_token_utility_features_heading10")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph10")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature10 />
@@ -175,8 +190,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Exclusive Product Access & IEO Tickets</h2>
-                                    <p>NCXT holders will enjoy early access to new products, as well as preferential terms for up-and coming services such as IEOs on our Spot market.</p>
+                                    <h2>{t("ncx_token_utility_features_heading11")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph11")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature11 />
@@ -189,8 +204,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>NCX DeFi Wallet, Web App and Chrome Extension</h2>
-                                    <p>NCX generates revenue from swaps (both in-wallet and in our Web App), as well as single-sided staking, which is a feature of NCX Web App. 75% of the net revenue generated from all swaps & staking will be used to buy NCXT on the open market. These purchased tokens will be rewarded to token holders who stake NCXT.</p>
+                                    <h2>{t("ncx_token_utility_features_heading12")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph12")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature12 />
@@ -208,8 +223,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Trading Fees Discounts of up to 90%</h2>
-                                    <p>NCXT holders receive Trading Fees discounts of up to 100% depending on the amount of NCXT Staked. The discount tiers are provided in the table above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading1")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph1")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature1 />
@@ -222,8 +237,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Fee Reimbursement on Withdrawals up to 100%</h2>
-                                    <p>NCXT holders benefit from reimbursement of their withdrawal fees. The detailed reimbursement schedule and minimum amount of Staked NCXT required is provided above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading2")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph2")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature2 />
@@ -238,8 +253,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Increased Derivatives Leverage</h2>
-                                    <p>NCXT holders will be granted increased Derivatives Trading Leverage of up to 150x. The detailed schedule and minimum amount of Staked NCXT required is provided above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading3")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph3")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature3 />
@@ -252,9 +267,9 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Additional Staking Rewards </h2>
-                                    <p>NCXT holders enjoy an additional 5% to 40% APR Staking Rewards on top of the Standard Staking Rate.</p>
-                                    <p><strong>Example:</strong> If the Standard APR is 30%, Additional Rewards Bonus is 40% APR,  the total Staking Rewards the staking holder will receive is 70% APR in total secure.</p>
+                                    <h2>{t("ncx_token_utility_features_heading4")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph4_1")}</p>
+                                    <p><strong>{t("ncx_token_utility_features_paragraph4_2")}</strong>{t("ncx_token_utility_features_paragraph4_3")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature4 />
@@ -269,8 +284,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>NCX Crypto Debit Card</h2>
-                                    <p>NCX Card is Crypto Debit Card powered by MasterCard to facilitate every day payments at more than 44 million merchants word-wide, online payments and ATM withdrawals using crypto converted into fiat currency as a payment method. Multi-tier system unlocks the card benefits and discounts, depending on the amount of NCXT Staked.</p>
+                                    <h2>{t("ncx_token_utility_features_heading5")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph5")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature5 />
@@ -283,11 +298,11 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>NCX DeFi Wallet, Web App and Chrome Extension</h2>
-                                    <p>NCX generates revenue from swaps (both in-wallet and in our Web App), as well as single-sided staking, which is a feature of NCX Web App. 75% of the net revenue generated from all swaps & staking will be used to buy NCXT on the open market. These purchased tokens will be rewarded to token holders who stake NCXT.</p>
+                                    <h2>{t("ncx_token_utility_features_heading6")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph6")}</p>
                                 </div>
                                 <div className="featicon">
-                                    <Feature12 />
+                                    <Feature6 />
                                 </div>
                             </div>
                         </AnimationOnScroll>
@@ -299,8 +314,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Derivatives Trading Collateral</h2>
-                                    <p>NCXT can be used as collateral for Derivatives Trading across 500 Markets including Cryptocurrencies, Stocks, Indices, Fiat Currencies, ETF’s and Commodities.</p>
+                                    <h2>{t("ncx_token_utility_features_heading7")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph7")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature7 />
@@ -313,8 +328,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Additional APR for Providing Liquidity in NCX DEX</h2>
-                                    <p>NCXT holders get additional 5% - 25% Rewards for providing liquidity in NCX DEX Liquidity Pools and Yield Farms. The detailed schedule provided in the table above.</p>
+                                    <h2>{t("ncx_token_utility_features_heading8")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph8")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature8 />
@@ -329,8 +344,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Use NCXT as Collateral to Borrow other Crypto Assets</h2>
-                                    <p>NCXT can be used as collateral to borrow other Crypto Assets on NCX Lending Protocol, including USDT, Bitcoin, Ethereum, BNB, Solana, Polygon and others.</p>
+                                    <h2>{t("ncx_token_utility_features_heading9")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph9")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature9 />
@@ -343,8 +358,8 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Token Burn to Drive the Growth of NCXT</h2>
-                                    <p>NCX will burn NCXT every month to create a continuous utility environment for holders though the NCXT Buy Back & Burn Function decreasing the circulating supply in order to drive price growth of NCXT</p>
+                                    <h2>{t("ncx_token_utility_features_heading10")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph10")}</p>
                                 </div>
                                 <div className="featicon">
                                     <Feature10 />
@@ -359,11 +374,11 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Governance</h2>
-                                    <p>NCXT holders are able to vote on future upgrades and incentives on NCX Ecosystem allowing for more decentralised decision-making approach through Governance.</p>
+                                    <h2>{t("ncx_token_utility_features_heading11")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph11")}</p>
                                 </div>
                                 <div className="featicon">
-                                    <Feature6 />
+                                    <Feature11 />
                                 </div>
                             </div>
                         </AnimationOnScroll>
@@ -373,11 +388,11 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>Exclusive Product Access & IEO Tickets</h2>
-                                    <p>NCXT holders will enjoy early access to new products, as well as preferential terms for up-and coming services such as IEOs on our Spot market.</p>
+                                    <h2>{t("ncx_token_utility_features_heading12")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph12")}</p>
                                 </div>
                                 <div className="featicon">
-                                    <Feature11 />
+                                    <Feature12 />
                                 </div>
                             </div>
                         </AnimationOnScroll>

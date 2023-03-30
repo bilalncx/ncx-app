@@ -13,7 +13,9 @@ function FirstSect()
 {
     const lngs = [
         { code: "en", native: "English" },
-        { code: "esp", native: "Español" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
     ];
 
     const { t, i18n } = useTranslation();
@@ -33,7 +35,7 @@ function FirstSect()
                             <a href="#" className="token_signin">{t("token_dashboard_sign_in")}</a>
                             <a href="#" className="claim_airdrop">{t("claim_airdrop")}</a>
                         </div>
-                        <p>{t("sign_up_today_and_get")}</p>
+                        <p>{t("sign_up_today_and_get_4000_ncx_tokens_airdrop")}</p>
                     </div>
                     <div className="col"></div>
                 </div>
@@ -43,9 +45,9 @@ function FirstSect()
                     </div>
                     <div className="col time_contribute">
                         <div className="bonus_col">
-                            <p>Current Bonus</p>
+                            <p>{t("current_bonus")}</p>
                             <h1>5-25%</h1>
-                            <p className="contributors">Contributors can Receive</p>
+                            <p className="contributors">{t("contributor_can_receive")}</p>
                         </div>
                         <Timer />
                     </div>
@@ -54,11 +56,11 @@ function FirstSect()
                     <div className="ds22">
                         <div className="work">
                             <a href="#"><HowWork /></a>
-                            <a><p>How it works</p></a>
+                            <a href="#"><p>{t("how_it_work")}</p></a>
                         </div>
                         <div className="work">
                             <a href="#"><WhyBuyToken /></a>
-                            <a href="#"><p>Why buy Tokens now?</p></a>
+                            <a href="#"><p>{t("why_buy_tokens_now")}</p></a>
                         </div>
                     </div>
                     <div className="social-col">

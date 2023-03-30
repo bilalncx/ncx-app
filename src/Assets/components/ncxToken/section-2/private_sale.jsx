@@ -5,26 +5,40 @@ import {ReactComponent as NCXTickmark } from '../../../images/check.svg';
 import { ReactComponent as TokenTick } from '../../../images/check.svg';
 import {ReactComponent as NCXTokenIcon} from '../../../images/token_icon.svg';
 import { ReactComponent as NCXTokenLogo } from '../../../images/token-footerlogo.svg';
-
+import { useTranslation } from "react-i18next";
 
 function HomeNCXToken()
 {
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
+
+
     return(
         <div id="presale_ncxT">
             <div className="container">
                 <div className="stake_ncx">
                     <NCXTokenLogo />
-                    <h1>Token <span>Private Sale</span></h1>
+                    <h1>{t("token")} <span>{t("private_sale")}</span></h1>
                 </div>
                 <div className="tokentable-stake">
                     <div className="tokenhead-stake">
-                        <p className="q1">Private Sale Round</p>
-                        <p className="q1">NCX Token Price in USDT</p>
-                        <p className="q1">Lockup Period</p>
-                        <p className="q1">After Lockup Period Ends</p>
-                        <p className="q1">Receive Trading Fee Discounts during the Vesting Period</p>
-                        <p className="q1">Receive Staking Rewards during the Vesting Period</p>
-                        <p className="q1">Receive Staking Rewards during the Vesting Period</p>
+                        <p className="q1">{t("private_sale_round")}</p>
+                        <p className="q1">{t("ncx_token_price_in_USDT")}</p>
+                        <p className="q1">{t("lockup_period")}</p>
+                        <p className="q1">{t("after_lockup_period_ends")}</p>
+                        <p className="q1">{t("receiving_trading_fee_discounts_during_the_vesting_period")}</p>
+                        <p className="q1">{t("receive_staking_rewards_during_the_vesting_period")}</p>
+                        <p className="q1">{t("receive_staking_rewards_during_the_vesting_period")}</p>
                         {/* <p className="q1">Additional APR for Providing Liquidity in NCX Yield Farms</p>
                         <p className="q1">Use NCXT as Collateral to Borrow other Crypto Assets</p> */}
                     </div>
@@ -32,39 +46,39 @@ function HomeNCXToken()
                         <div className="colstake">
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 1</p>
+                                <p>{t("round_1")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 2</p>
+                                <p>{t("round_2")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 3</p>
+                                <p>{t("round_3")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 4</p>
+                                <p>{t("round_4")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 5</p>
+                                <p>{t("round_5")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 6</p>
+                                <p>{t("round_6")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 7</p>
+                                <p>{t("round_7")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Public Sale</p>
+                                <p>{t("public_sale")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Listing Price</p>
+                                <p>{t("listing_price")}</p>
                             </div>
                         </div>
                         <div className="colstake">
@@ -79,24 +93,24 @@ function HomeNCXToken()
                             <p>$0.008</p>
                         </div>
                         <div className="colstake">
-                            <p>9 Months</p>
-                            <p>6 Months</p>
-                            <p>5 Months</p>
-                            <p>4 Months</p>
-                            <p>3 Months</p>
-                            <p>2 Months</p>
-                            <p>30 Days</p>
-                            <p>Unlocked</p>
+                            <p>{t("9_months")}</p>
+                            <p>{t("6_months")}</p>
+                            <p>{t("5_months")}</p>
+                            <p>{t("4_months")}</p>
+                            <p>{t("3_months")}</p>
+                            <p>{t("2_months")}</p>
+                            <p>{t("30_days")}</p>
+                            <p>{t("unlocked")}</p>
                         </div>
                         <div className="colstake">
-                            <p>10% Monthly Release</p>
-                            <p>10% Monthly Release</p>
-                            <p>20% Monthly Release</p>
-                            <p>20% Monthly Release</p>
-                            <p>25% Monthly Release</p>
-                            <p>25% Monthly Release</p>
-                            <p>25% Monthly Release</p>
-                            <p>25% Monthly Release</p>
+                            <p>{t("10%_monthly_release")}</p>
+                            <p>{t("10%_monthly_release")}</p>
+                            <p>{t("20%_monthly_release")}</p>
+                            <p>{t("20%_monthly_release")}</p>
+                            <p>{t("25%_monthly_release")}</p>
+                            <p>{t("25%_monthly_release")}</p>
+                            <p>{t("25%_monthly_release")}</p>
+                            <p>{t("25%_monthly_release")}</p>
                         </div>
                         <div className="colstake">
                             <p></p>
@@ -132,48 +146,48 @@ function HomeNCXToken()
                 </div>
                 <div className="mobile-tokentable">
                     <div className="mbl-tokrow">
-                        <h3>Private Sale Round</h3>
+                        <h3>{t("private_sale_round")}</h3>
                         <div className="mbl-tokrowitems">
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 1</p>
+                                <p>{t("round_1")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 2</p>
+                                <p>{t("round_2")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 3</p>
+                                <p>{t("round_3")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 4</p>
+                                <p>{t("round_4")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 5</p>
+                                <p>{t("round_5")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 6</p>
+                                <p>{t("round_6")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Round 7</p>
+                                <p>{t("round_7")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Public Sale</p>
+                                <p>{t("public_sale")}</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>Listing Price</p>
+                                <p>{t("listing_price")}</p>
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>NCX Token Price in USDT</h3>
+                        <h3>{t("ncx_token_price_in_USDT")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
                                 <p>$0.0004</p>
@@ -205,69 +219,70 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Lockup Period</h3>
+                        <h3>{t("lockup_period")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
-                                <p>9 Months</p>
+                                <p>{t("9_months")}</p>
                             </div>
                             <div className="color">
-                                <p>6 Months</p>
+                                <p>{t("6_months")}</p>
                             </div>
                             <div className="color">
-                                <p>5 Months</p>
+                                <p>{t("5_months")}</p>
                             </div>
                             <div className="color">
-                                <p>4 Months</p>
+                                <p>{t("4_months")}</p>
                             </div>
                             <div className="color">
-                                <p>3 Months</p>
+                                <p>{t("3_months")}</p>
+
                             </div>
                             <div className="color">
-                                <p>2 Months</p>
+                                <p>{t("2_months")}</p>
                             </div>
                             <div className="color">
-                                <p>30 Days</p>
+                                <p>{t("30_days")}</p>
                             </div>
                             <div className="color">
-                                <p>Unlocked</p>
+                                <p>{t("unlocked")}</p>
                             </div>
                             <div className="color mbl-hid">
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>After Lockup Period Ends</h3>
+                        <h3>{t("after_lockup_period_ends")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
-                                <p>10% Monthly Release</p>
+                                <p>{t("10%_monthly_release")}</p>
                             </div>
                             <div className="color">
-                                <p>10% Monthly Release</p>
+                                <p>{t("10%_monthly_release")}</p>
                             </div>
                             <div className="color">
-                                <p>20% Monthly Release</p>
+                                <p>{t("20%_monthly_release")}</p>
                             </div>
                             <div className="color">
-                                <p>20% Monthly Release</p>
+                                <p>{t("20%_monthly_release")}</p>
                             </div>
                             <div className="color">
-                                <p>25% Monthly Release</p>
+                                <p>{t("25%_monthly_release")}</p>
                             </div>
                             <div className="color">
-                                <p>25% Monthly Release</p>
+                                <p>{t("25%_monthly_release")}</p>
                             </div>
                             <div className="color">
-                                <p>25% Monthly Release</p>
+                                <p>{t("25%_monthly_release")}</p>
                             </div>
                             <div className="color">
-                                <p>25% Monthly Release</p>
+                                <p>{t("25%_monthly_release")}</p>
                             </div>
                             <div className="color mbl-hid">
                             </div>
                         </div>
                     </div>
                     <div className="mbl-tokrow derivative">
-                        <h3>Receive Trading Fee Discounts during the Vesting Period</h3>
+                        <h3>{t("receiving_trading_fee_discounts_during_the_vesting_period")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive"></div>
                             <div className="color inactive"></div>
@@ -289,7 +304,7 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Receive Staking Rewards during the Vesting Period</h3>
+                        <h3>{t("receive_staking_rewards_during_the_vesting_period")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive"></div>
                             <div className="color inactive"></div>
@@ -309,7 +324,7 @@ function HomeNCXToken()
                         </div>
                     </div>
                     <div className="mbl-tokrow">
-                        <h3>Receive Staking Rewards during the Vesting Period</h3>
+                        <h3>{t("receive_staking_rewards_during_the_vesting_period")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive"></div>
                             <div className="color inactive"></div>

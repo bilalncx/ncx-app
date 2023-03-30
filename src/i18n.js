@@ -3,17 +3,25 @@ import { initReactI18next } from "react-i18next";
 import Backend from "i18next-xhr-backend";
 import LanguageDetector from "i18next-browser-languagedetector";
 import translationEN from "./Assets/locales/en/translation.json";
-import translationESP from "./Assets/locales/esp/translation.json";
+import translationES from "./Assets/locales/es/translation.json";
+import translationIN from './Assets/locales/in/translation.json';
+import translationZH from './Assets/locales/zh/translation.json';
 
 const fallbackLng = ["en"];
-const availableLanguages = ["en", "esp"];
+const availableLanguages = ["en", "in", "es", "zh"];
 
 const resources = {
   en: {
     translation: translationEN
   },
-  esp: {
-    translation: translationESP
+  in: {
+    translation: translationIN
+  },
+  es: {
+    translation: translationES
+  },
+  zh: {
+    translation: translationZH
   }
 };
 
