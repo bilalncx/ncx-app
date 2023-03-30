@@ -74,8 +74,8 @@ h1.toke_feat span{
         column-gap: 10px !important;
     }
     .fftxt h2 {
-        font-size: 15px !important;
-        line-height: 20px !important;
+        font-size: 17px !important;
+        line-height: 24px !important;
         font-family: 'urbanist-regular' !important;
         width: 90% !important;
     }
@@ -84,8 +84,8 @@ h1.toke_feat span{
         height: 20px !important;
     }
     .fftxt p {
-        font-size: 11px !important;
-        line-height: 16px !important;
+        font-size: 12px !important;
+        line-height: 17px !important;
     }
     h1.toke_feat {
         font-size: 26px;
@@ -98,18 +98,18 @@ h1.toke_feat span{
         max-height: 250px;
     }
     .token_features .feat-row.row.mobile.two .feat-line {
-        height: 300px !important;
+        height: 320px !important;
     }
     .token_features .feat-row.row.mobile.two .fftxt {
-        max-height: 270px;
-        min-height: 270px;
+        max-height: 290px;
+        min-height: 290px;
     }
     .token_features .feat-row.row.mobile.three .feat-line {
-        height: 350px;
+        height: 380px;
     }
     .token_features .feat-row.row.mobile.three .fftxt {
-        max-height: 320px;
-        min-height: 320px;
+        max-height: 350px;
+        min-height: 350px;
     }
     .token_features .feat-row.row.mobile.four .feat-line {
         height: 280px;
@@ -119,11 +119,11 @@ h1.toke_feat span{
         max-height: 250px;
     }
     .token_features .feat-row.row.mobile.five .feat-line {
-        height: 280px;
+        height: 300px;
     }
     .token_features .feat-row.row.mobile.five .fftxt {
-        min-height: 250px;
-        max-height: 250px;
+        min-height: 270px;
+        max-height: 270px;
     }
     .token_features .feat-row.row.mobile.six .feat-line {
         height: 240px;

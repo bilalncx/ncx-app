@@ -7,8 +7,8 @@ const marks = [
     value: 0,
   },
   {
-    value: 77,
-    label: "77%"
+    value: 0,
+    label: "0%"
   },
   // {
   //   value: 100,
@@ -30,7 +30,7 @@ export default function DiscreteSliderValues() {
         <h1>Round 1</h1>
         <Slider
             aria-label="Restricted values"
-            defaultValue={77}
+            defaultValue={0}
             // valueLabelFormat={valueLabelFormat}
             // getAriaValueText={valuetext}
             step={null}
