@@ -19,18 +19,8 @@ import ChangeButtons from '../../../selectlanguage';
 import { useTranslation } from "react-i18next";
   
 export default function Header() {   
-  const lngs = [
-    { code: "en", native: "English" },
-    { code: "in", native: "हिन्दी"},
-    { code: "es", native: "Español" },
-    { code: "zh", native: "中文" },
-  ];
 
   const { t, i18n } = useTranslation();
-
-  const handleTrans = (code) => {
-    i18n.changeLanguage(code);
-  };
 
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
   

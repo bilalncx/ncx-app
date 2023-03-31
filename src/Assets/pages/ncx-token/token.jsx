@@ -1,4 +1,4 @@
-import React from "react";
+import { React, useEffect } from "react";
 import './token.css';
 import NCXTokenHeader from '../../components/ncxToken/token-header';
 import NCXTokenFooter from '../../components/ncxToken/token-footer';
@@ -12,6 +12,9 @@ import NCXTPresale from '../../components/ncxToken/section-2/private_sale';
 import RoadmapSlider from "../../components/ncxToken/round_slider/roadmap-slider";
 
 function NCXTokenPage(){
+    useEffect(() => {
+        document.title = 'NCX - Token';
+      }, []);
     return(
         <div id="ncx_token_Page">
             <NCXTokenHeader />

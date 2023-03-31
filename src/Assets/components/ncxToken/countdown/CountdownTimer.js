@@ -1,10 +1,12 @@
 import React from 'react';
 import { useCountdown } from './useCountdown';
 import DateTimeDisplay from './DateTimeDisplay';
+import { useTranslation } from "react-i18next";
 
 const CountdownTimer = ({ targetDate }) => {
   const [days, hours, minutes, seconds] = useCountdown(targetDate);
 
+  const { t } = useTranslation();
   const ExpiredNotice = () => {
     return (
       <div className="expired-notice">
@@ -17,13 +19,13 @@ const CountdownTimer = ({ targetDate }) => {
   const ShowCounter = ({ days, hours, minutes, seconds }) => {
     return (
       <div className="show-counter">
-          <DateTimeDisplay value={days} type={'Days'} isDanger={days <= 0} />
+          <DateTimeDisplay value={days} type={t("days")} isDanger={days <= 0} />
           <p>:</p>
-          <DateTimeDisplay value={hours} type={'Hours'} isDanger={false} />
+          <DateTimeDisplay value={hours} type={t("hours")} isDanger={false} />
           <p>:</p>
-          <DateTimeDisplay value={minutes} type={'Mins'} isDanger={false} />
+          <DateTimeDisplay value={minutes} type={t("mins")} isDanger={false} />
           <p>:</p>
-          <DateTimeDisplay value={seconds} type={'Seconds'} isDanger={false} />
+          <DateTimeDisplay value={seconds} type={t("seconds")} isDanger={false} />
       </div>
     );
   };

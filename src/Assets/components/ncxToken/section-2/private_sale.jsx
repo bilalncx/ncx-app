@@ -9,19 +9,7 @@ import { useTranslation } from "react-i18next";
 
 function HomeNCXToken()
 {
-    const lngs = [
-        { code: "en", native: "English" },
-        { code: "in", native: "हिन्दी"},
-        { code: "es", native: "Español" },
-        { code: "zh", native: "中文" },
-    ];
-
-    const { t, i18n } = useTranslation();
-  
-    const handleTrans = (code) => {
-      i18n.changeLanguage(code);
-    };
-
+    const { t } = useTranslation();
 
     return(
         <div id="presale_ncxT">

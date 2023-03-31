@@ -6,18 +6,9 @@ import { ReactComponent as NCXInfoIcon } from '../../../images/ncx-infosign.svg'
 import { useTranslation } from "react-i18next";
 
 function Home6thVideoSection(){
-    const lngs = [
-        { code: "en", native: "English" },
-        { code: "in", native: "हिन्दी"},
-        { code: "es", native: "Español" },
-        { code: "zh", native: "中文" },
-    ];
 
-    const { t, i18n } = useTranslation();
-  
-    const handleTrans = (code) => {
-      i18n.changeLanguage(code);
-    };
+    const { t } = useTranslation();
+
     return(
         <div id="token_video" className="new-generation">
             <div className="container">

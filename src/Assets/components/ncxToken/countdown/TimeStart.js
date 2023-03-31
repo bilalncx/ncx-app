@@ -1,5 +1,6 @@
 import React from 'react';
 import CountdownTimer from './CountdownTimer';
+import { useTranslation } from "react-i18next";
 
 export default function App() {
   const THREE_DAYS_IN_MS = 25 * 24 * 60 * 60 * 1000;
@@ -7,9 +8,10 @@ export default function App() {
 
   const dateTimeAfterThreeDays = NOW_IN_MS + THREE_DAYS_IN_MS;
 
+  const { t } = useTranslation();
   return (
     <div id="token_countdown">
-        <h1>Round 1 Starts In</h1>
+        <h1>{t("round_1_starts_in")}</h1>
       <CountdownTimer targetDate={dateTimeAfterThreeDays} />
     </div>
   );

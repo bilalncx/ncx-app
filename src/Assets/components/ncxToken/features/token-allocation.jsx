@@ -8,28 +8,14 @@ import { ReactComponent as Feature4 } from '../../../images/feat-4.svg';
 import { ReactComponent as Feature5 } from '../../../images/feat-5.svg';
 import { ReactComponent as Feature6 } from '../../../images/feat-6.svg';
 import { ReactComponent as Feature7 } from '../../../images/feat-7.svg';
-// import { ReactComponent as Feature8 } from '../../../images/feat-8.svg';
-// import { ReactComponent as Feature9 } from '../../../images/feat-9.svg';
-// import { ReactComponent as Feature10 } from '../../../images/feat-10.svg';
 import { ReactComponent as Feature11 } from '../../../images/feat-11.svg';
-// import { ReactComponent as Feature12 } from '../../../images/feat-12.svg';
 import { useTranslation } from "react-i18next";
 
 
 function NCXhomepageOTCSection(){
-    const lngs = [
-        { code: "en", native: "English" },
-        { code: "in", native: "हिन्दी"},
-        { code: "es", native: "Español" },
-        { code: "zh", native: "中文" },
-    ];
 
-    const { t, i18n } = useTranslation();
-  
-    const handleTrans = (code) => {
-      i18n.changeLanguage(code);
-    };
-        
+    const { t } = useTranslation();
+
     return(
         <div id="token_allocation" className="token_features">
             <div className="container">
