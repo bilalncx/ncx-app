@@ -5,7 +5,9 @@ const lngs = [
     { code: "en", native: "English" },
     { code: "in", native: "हिन्दी"},
     { code: "es", native: "Español" },
-    { code: "zh", native: "中文"}
+    { code: "zh", native: "中文"},
+    { code: "id", native: "Bahasa"},
+    { code: "vi", native: "Tiếng Việt"}
   ];
   
   export default function App() {
