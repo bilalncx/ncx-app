@@ -18,7 +18,7 @@ function NCXTaskSection()
                 <div className="tasksrow">
                     <div className="col">
                         <div className="tasktext signup">
-                            <h1>10,000<span>NCXT</span></h1>
+                            <h1>4,000<span>NCXT</span></h1>
                             <h3>Sign Up and Verify</h3>
                             <p>For new users only</p>
                             <div className="taskbtn">
@@ -29,7 +29,7 @@ function NCXTaskSection()
                     </div>
                     <div className="col">
                         <div className="tasktext">
-                            <h1>2,500<span>NCXT</span></h1>
+                            <h1>1,000<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
                                     <h3>Refer a Friend</h3>
@@ -74,7 +74,7 @@ function NCXTaskSection()
                 <div className="tasksrow mobile">
                     <div className="col">
                         <div className="tasktext signup">
-                            <h1>10,000<span>NCXT</span></h1>
+                            <h1>4,000<span>NCXT</span></h1>
                             <h3>Sign Up and Verify</h3>
                             <p>For new users only</p>
                             <div className="taskbtn">
@@ -85,7 +85,7 @@ function NCXTaskSection()
                     </div>
                     <div className="col">
                         <div className="tasktext">
-                            <h1>2,500<span>NCXT</span></h1>
+                            <h1>1,000<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
                                     <h3>Refer a Friend</h3>

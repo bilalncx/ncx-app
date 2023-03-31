@@ -21,7 +21,7 @@ function Home6thVideoSection(){
                     
                     <div className="ncxtask row">
                         <div className="taskdiv one">
-                            <h3>10,000 <span>NCXT</span></h3>
+                            <h3>4,000 <span>NCXT</span></h3>
                             <div className="taskdiv11">
                                 <div className="text212">
                                     <h4>Sign Up and Verify</h4>

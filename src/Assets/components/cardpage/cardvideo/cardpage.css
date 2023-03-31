@@ -14,6 +14,18 @@
     top: 0;
     margin: 0px;
     background: transparent !important;
+    width: 100% !important;
+}
+#ncxcard_cardset .cardtrade-row .col:nth-child(1){
+    padding: 0px !important;
+    padding-top: 70px !important;
+}
+#ncxcard_cardset .cardtrade-row a.der-buttons{
+    color: #FFFFFF !important;
+    border-color: #FFFFFF !important;
+}
+#ncxcard_cardset .cardtrade-row a.der-buttons:hover{
+    border-color: #34A9FF !important;
 }
 #ncxcard_cardset .ncx-card-trade p.cardp1{
     font-family: 'urbanist-light' !important;

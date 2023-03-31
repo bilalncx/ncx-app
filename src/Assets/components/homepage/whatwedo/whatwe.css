@@ -343,7 +343,7 @@ video#buy-video {
     top: -85px;
     min-width: 603px;
 }
-.cardtrade-row h1 {
+.ncx-card-trade .cardtrade-row h1 {
     font-size: 34px;
     line-height: 40px;
     color: #000000;
@@ -351,7 +351,7 @@ video#buy-video {
     margin-bottom: 20px;
     text-align: left;
 }
-p.cardp1 {
+.ncx-card-trade p.cardp1 {
     color: #000000;
     font-family: 'urbanist-regular';
     font-size: 18px;

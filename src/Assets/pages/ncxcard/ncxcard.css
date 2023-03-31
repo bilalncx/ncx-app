@@ -11,7 +11,9 @@
     background: #000000 !important;
     background-color: #000000 !important;
 }
-
+#ncxcard_cardset .cardtrade-row h1, #ncxcard_cardset .cardtrade-row p{
+    color: #FFFFFF !important;
+}
 #mobile-showcard{
     display: none;
 }
@@ -217,5 +219,8 @@
     .carddetailsimg img:hover {
         transform: none !important;
         cursor: unset !important;
+    }
+    .ncxdebitcreditcardpage #ncxcard_cardset .cardtrade-row .col:nth-child(1){
+        padding-top: 0px !important;
     }
 }

@@ -30,7 +30,7 @@ function MyBalance()
                             <CountUp
                                 className="ncx-balanceup"
                                 start={100}
-                                end={10000}
+                                end={4000}
                                 duration={3}
                                 useEasing={true}
                                 useGrouping={true}
@@ -40,7 +40,7 @@ function MyBalance()
                             />
                             <CountUp
                                 className="colorncx-balanceup"
-                                start={100}
+                                start={500}
                                 end={0}
                                 duration={4.5}
                                 useEasing={true}
