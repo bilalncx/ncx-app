@@ -67,7 +67,7 @@ export default function Header() {
                                 <a href="https://ncx.cx/insights">{t("news_insights")}</a>
                                 <a href="https://ncx.cx/market-makers">{t("market_makers")}</a>
                                 <a href="https://ncx.cx/institutional">{t("institutional_services")}</a>
-                                <a href="https://ncx.cx/ncx-otc">OTC{t("otc")}</a>
+                                <a href="https://ncx.cx/ncx-otc">{t("otc")}</a>
                                 <a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a>
                               </div>
                             </div>
