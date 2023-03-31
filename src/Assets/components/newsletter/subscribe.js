@@ -1,7 +1,21 @@
 import React, { useState } from "react";
 import './subscribe.css';
+import { useTranslation } from "react-i18next";
 
 const Subscribe = () => {
+    const lngs = [
+        { code: "en", native: "English" },
+        { code: "in", native: "हिन्दी"},
+        { code: "es", native: "Español" },
+        { code: "zh", native: "中文" },
+    ];
+
+    const { t, i18n } = useTranslation();
+  
+    const handleTrans = (code) => {
+      i18n.changeLanguage(code);
+    };
+
     const [email, setEmail] = useState("");
 
     const handleSubmit = (evt) => {
@@ -48,7 +62,7 @@ const Subscribe = () => {
                 onChange={e => setEmail(e.target.value)} 
                 aria-label="Your email address" 
                 name="email_address" 
-                placeholder="Enter Your Email" 
+                placeholder={t("enter_your_email")}
                 required="" 
                 type="email">
             </input>
