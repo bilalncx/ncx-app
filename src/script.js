@@ -16,6 +16,22 @@ $(document).ready(function(){
     $(window).on('load', function(){
       $(this).scrollTop(0);
     });
+
+    $('.latest_change h2').each(function() {
+      var val = parseFloat($(this).text());
+      $(this).addClass(val < 0.0 ? 'negative' : 'positive');
+    });
+    $(".pair_name").click(function () {
+        $(".pair_name").removeClass("active");
+        // $(".tab").addClass("active"); // instead of this do the below 
+        $(this).addClass("active");   
+    });
+
+    $( '#search' ).keyup( function() {
+        var matches = $( '#ncx_market_table' ).find( 'tr:contains('+ $( this ).val() +') ' );
+        $( 'tr', '#ncx_market_table' ).not( matches ).slideUp();
+        matches.slideDown();    
+    });
 });
 
 
