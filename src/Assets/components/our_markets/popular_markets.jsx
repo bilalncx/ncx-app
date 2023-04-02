@@ -71,6 +71,7 @@ function MarketPage(){
     return(
         <section className='market_pag'>
             <div className="container">
+            <button id="all_btn">All Pairs</button>
             <button id="usdt_btn">USDT Pairs</button>
             <button id="usd_btn">USD Pairs</button>
             <button id="btc_btn">BTC Pairs</button>

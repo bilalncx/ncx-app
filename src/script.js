@@ -33,24 +33,32 @@ $(document).ready(function(){
         matches.slideDown();    
     });
 
+    $("#all_btn").click(function () {
+      $("#ncx_market_table").find("tr").show();
+    });
+
     $("#usdt_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
       rows.filter(":contains('_usdt')").show();
     });
+
     $("#usd_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide(":contains('_usdt')");
+      var rows = $("#ncx_market_table").find("tr").hide(":contains('_usdc')");
       rows.filter(":contains('eth_usd')").show();
-      rows.filter(":contains('usdt')").show();
+      rows.filter(":contains('usdt_usd')").show();
       rows.filter(":contains('btc_usd')").show();
       rows.filter(":contains('usdc_usd')").show();
       rows.filter(":contains('dai_usd')").show();
       rows.filter(":contains('xrp_usd')").show();
       rows.filter(":contains('eth_usd')").show();
     });
+
     $("#btc_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
       rows.filter(":contains('_btc')").show();
     });
+
     $("#usdc_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
       rows.filter(":contains('_usdc')").show();
