@@ -17,10 +17,11 @@ $(document).ready(function(){
       $(this).scrollTop(0);
     });
 
-    $('.latest_change h2').each(function() {
-      var val = parseFloat($(this).text());
-      $(this).addClass(val < 0.0 ? 'negative' : 'positive');
-    });
+    // $('.trend_pairs p').each(function() {
+    //   var val = parseFloat($(this).text());
+    //   $(this).addClass(val < 0.0 ? 'negative' : 'positive');
+    // });
+
     $(".pair_name").click(function () {
         $(".pair_name").removeClass("active");
         // $(".tab").addClass("active"); // instead of this do the below 
@@ -35,33 +36,44 @@ $(document).ready(function(){
 
     $("#all_btn").click(function () {
       $("#ncx_market_table").find("tr").show();
+      $("#all_btn").addClass("active_all");
+      $(".table_search_tabs button").removeClass("active_usdc active_btc active_usd active_usdt");
     });
 
     $("#usdt_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
-      rows.filter(":contains('_usdt')").show();
+      rows.filter(":contains('/ usdt')").show();
+      $("#usdt_btn").addClass("active_usdt");
+      $(".table_search_tabs button").removeClass("active_usdc active_btc active_usd active_all");
     });
 
     $("#usd_btn").click(function () {
-      var rows = $("#ncx_market_table").find("tr").hide(":contains('_usdt')");
-      var rows = $("#ncx_market_table").find("tr").hide(":contains('_usdc')");
-      rows.filter(":contains('eth_usd')").show();
-      rows.filter(":contains('usdt_usd')").show();
-      rows.filter(":contains('btc_usd')").show();
-      rows.filter(":contains('usdc_usd')").show();
-      rows.filter(":contains('dai_usd')").show();
-      rows.filter(":contains('xrp_usd')").show();
-      rows.filter(":contains('eth_usd')").show();
+      var rows = $("#ncx_market_table").find("tr").hide();
+      rows.filter(":contains('/ usdt')").hide();
+      rows.filter(":contains('/ usdc')").hide();
+      rows.filter(":contains('eth / usd')").show();
+      rows.filter(":contains('usdt / usd')").show();
+      rows.filter(":contains('btc / usd')").show();
+      rows.filter(":contains('usdc / usd')").show();
+      rows.filter(":contains('dai / usd')").show();
+      rows.filter(":contains('xrp / usd')").show();
+      rows.filter(":contains('eth / usd')").show();
+      $("#usd_btn").addClass("active_usd");
+      $(".table_search_tabs button").removeClass("active_usdc active_btc active_usdt active_all");
     });
 
     $("#btc_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
-      rows.filter(":contains('_btc')").show();
+      rows.filter(":contains('/ btc')").show();
+      $("#btc_btn").addClass("active_btc");
+      $(".table_search_tabs button").removeClass("active_usdc active_usd active_usdt active_all");
     });
 
     $("#usdc_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
-      rows.filter(":contains('_usdc')").show();
+      rows.filter(":contains('/ usdc')").show();
+      $("#usdc_btn").addClass("active_usdc");
+      $(".table_search_tabs button").removeClass("active_btc active_usd active_usdt active_all");
     });
 });
 
@@ -149,6 +161,17 @@ $(document).ready(function() {
       }
     }
     window.onscroll = function() {myFunction()};
+});
+
+
+$(".trend_pairs p").each(function() {
+  var val = parseFloat($(this).text());
+  $(this).addClass(val < 0.0 ? 'negative' : 'positive');
+});
+
+$(".latest_change h2").each(function() {
+  var val = parseFloat($(this).text());
+  $(this).addClass(val < 0.0 ? 'negative' : 'positive');
 });
 
 // $(document).ready(function(){
