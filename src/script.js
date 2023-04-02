@@ -32,6 +32,24 @@ $(document).ready(function(){
         $( 'tr', '#ncx_market_table' ).not( matches ).slideUp();
         matches.slideDown();    
     });
+
+    $("#usdt_btn").click(function () {
+      var rows = $("#ncx_market_table").find("tr").hide();
+      rows.filter(":contains('_usdt')").show();
+    });
+    $("#usd_btn").click(function () {
+      var rows = $("#ncx_market_table").find("tr").hide(":containes('_usdt')");
+      var rows = $("#ncx_market_table").find("tr").hide(":containes('_usdc')");
+      rows.filter(":contains('_usd')").show();
+    });
+    $("#btc_btn").click(function () {
+      var rows = $("#ncx_market_table").find("tr").hide();
+      rows.filter(":contains('_btc')").show();
+    });
+    $("#usdc_btn").click(function () {
+      var rows = $("#ncx_market_table").find("tr").hide();
+      rows.filter(":contains('_usdc')").show();
+    });
 });
 
 

@@ -71,6 +71,11 @@ function MarketPage(){
     return(
         <section className='market_pag'>
             <div className="container">
+            <button id="usdt_btn">USDT Pairs</button>
+            <button id="usd_btn">USD Pairs</button>
+            <button id="btc_btn">BTC Pairs</button>
+            <button id="usdc_btn">USDC Pairs</button>
+            <div id="showresult"></div>
             <div class="searchinput">
                 <input type="text" id="search" placeholder="Search" />
             </div>
