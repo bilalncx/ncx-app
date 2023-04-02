@@ -3,6 +3,7 @@ import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-re
 import { ReactComponent as CardArrow } from '../../../images/roadmap-next.svg';
 import './roadmap_slider.css';
 import { useTranslation } from "react-i18next";
+import 'pure-react-carousel/dist/react-carousel.es.css';
 
 function RoadmapSlider()
 {

@@ -1,0 +1,103 @@
+table#ncx_market_table {
+    width: 100% !important;
+    position: relative;
+    display: block;
+    background: #FFFFFF;
+    padding: 20px 30px;
+}
+section.market_pag {
+    padding: 50px 0px;
+    background: #f5f5f5;
+}
+#ncx_market_table thead {
+    width: 100%;
+    display: block;
+}
+#ncx_market_table body {
+    width: 100%;
+    display: block;
+}
+#ncx_market_table th {
+    font-size: 14px;
+    font-family: 'urbanist-medium';
+    color: #85899C;
+    font-weight: 500;
+}
+#ncx_market_table thead tr{
+    border: none !important;
+}
+#ncx_market_table tbody tr{
+    padding: 2px 0px !important;
+    border-bottom: 1px solid #f5f5f5 !important;
+}
+#ncx_market_table th:nth-child(1), #ncx_market_table tbody tr td:nth-child(1) {
+    width: 20%;
+}
+#ncx_market_table th:nth-child(2), #ncx_market_table tbody tr td:nth-child(2) {
+    width: 12.5%;
+}
+#ncx_market_table th:nth-child(3), #ncx_market_table tbody tr td:nth-child(3) {
+    width: 12.5%;
+}
+#ncx_market_table th:nth-child(4), #ncx_market_table tbody tr td:nth-child(4) {
+    width: 12.5%;
+}
+#ncx_market_table th:nth-child(5), #ncx_market_table tbody tr td:nth-child(5) {
+    width: 12.5%;
+}
+#ncx_market_table th:nth-child(6), #ncx_market_table tbody tr td:nth-child(6) {
+    width: 15%;
+    text-align: center;
+}
+#ncx_market_table th:nth-child(7), #ncx_market_table tbody tr td:nth-child(7) {
+    width: 15%;
+    text-align: end;
+}
+.star-svg svg {
+    width: 17px;
+    height: auto;
+}
+#ncx_market_table tbody{
+    width: 100%;
+    display: block;
+}
+td.pair_name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.pair_name h2 {
+    font-size: 14px;
+    font-family: 'urbanist-medium';
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #1B1E28 !important;
+}
+#ncx_market_table tbody tr td h2 {
+    font-size: 14px !important;
+    font-family: 'urbanist-medium';
+    font-weight: 500;
+    color: #1B1E28;
+}
+#ncx_market_table tbody tr td p{
+    font-size: 12px !important;
+    font-family: 'urbanist-medium';
+    font-weight: 500;
+    color: #85889C;
+}
+.price_trend_graph img {
+    width: 100%;
+    max-width: 140px;
+}
+#ncx_market_table tbody tr td h2.negative {
+    color: #E65261 !important;
+}
+#ncx_market_table tbody tr td h2.positive {
+    color: #17BE9E !important;
+}
+#ncx_market_table tbody tr:last-child{
+    border: none !important;
+}
+#ncx_market_table tbody tr:hover .star-svg svg path{
+    fill: #7650FF;
+}
