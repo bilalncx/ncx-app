@@ -38,9 +38,14 @@ $(document).ready(function(){
       rows.filter(":contains('_usdt')").show();
     });
     $("#usd_btn").click(function () {
-      var rows = $("#ncx_market_table").find("tr").hide(":containes('_usdt')");
-      var rows = $("#ncx_market_table").find("tr").hide(":containes('_usdc')");
-      rows.filter(":contains('_usd')").show();
+      var rows = $("#ncx_market_table").find("tr").hide(":contains('_usdt')");
+      rows.filter(":contains('eth_usd')").show();
+      rows.filter(":contains('usdt')").show();
+      rows.filter(":contains('btc_usd')").show();
+      rows.filter(":contains('usdc_usd')").show();
+      rows.filter(":contains('dai_usd')").show();
+      rows.filter(":contains('xrp_usd')").show();
+      rows.filter(":contains('eth_usd')").show();
     });
     $("#btc_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
