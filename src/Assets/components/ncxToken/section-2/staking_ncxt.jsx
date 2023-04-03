@@ -135,7 +135,7 @@ function HomeNCXToken()
                             <p>15%</p>
                             <p>20%</p>
                         </div>
-                        <div className="colstake">
+                        <div className="colstake ticken">
                             <p></p>
                             <p></p>
                             <p></p>
@@ -375,7 +375,7 @@ function HomeNCXToken()
                             </div>
                         </div>
                     </div>
-                    <div className="mbl-tokrow">
+                    <div className="mbl-tokrow ticken">
                         <h3>{t("use_ncxt_as_collateral_to_borrow_other_crypto_assets")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color inactive"></div>

@@ -15,7 +15,8 @@ div#ncx_token_Page {
     width: 100% !important;
 }
 #ncx_token_Page .login-buttons a.signin{
-    width: 120px !important;
+    width: fit-content !important;
+    min-width: 120px !important;
     font-size: 14px !important;
     line-height: 20px !important;
     background: #5ED3F0 !important;
@@ -30,6 +31,8 @@ div#ncx_token_Page {
     line-height: 20px !important;
     background: #000000 !important;
     border: 1px solid #5ED3F0 !important;
+    width: fit-content !important;
+    min-width: 72px !important;
 }
 #ncx_token_Page .login-buttons a.launch-dex:hover{
     background: #5ED3F0 !important;
@@ -422,6 +425,7 @@ div#token_video .taskdiv.two{
     }
     .mbl-tokrow .color.inactive {
         background: rgba(31, 31, 31, 0.6) !important;
+        width: 10.5% !important;
     }
 
     /* Mobile NCXT Presale Styling */
