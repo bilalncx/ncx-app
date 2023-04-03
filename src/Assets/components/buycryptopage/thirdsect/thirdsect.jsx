@@ -1,7 +1,12 @@
 import { useState } from 'react'
 import '../../cardpage/card-faq/faq.css'
+import { t, useTranslation } from "react-i18next";
+
 
 function Accordian() {
+
+    const { t } = useTranslation();
+
     const [selected, setselected] = useState(null);
     const toggle = (i) => {
         if(selected === i){
@@ -12,7 +17,7 @@ function Accordian() {
     return(
         <div id="card-faqss">
             <div className="container">
-                <h1 className='freq-ask-ques'>Frequently Asked Questions</h1>
+                <h1 className='freq-ask-ques'>{t("frequently_asked_questions")}</h1>
                 <div className="accordian">
                     {data.map((item, i) => (
                         <div className="item">

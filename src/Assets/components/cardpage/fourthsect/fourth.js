@@ -7,9 +7,12 @@ import NCXIphoneAddWallet from '../../../images/ncx-iphone-addwallet.png';
 import NCXiPhoneTransactions from '../../../images/ncx-iphonetransactions.png';
 import NCXLogo from '../../../images/ncx-black-logo.svg';
 import NCXNewsletter from '../../newsletter/subscribe';
+import { useTranslation } from "react-i18next";
 
 function NCXDebitCardSection()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="ncxcard">
             <div className="container">
@@ -18,11 +21,11 @@ function NCXDebitCardSection()
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="ncx-cardddd">
                                 < img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                <p>Card</p>
+                                <p>{t("card")}</p>
                             </div>
-                            <h1>One Card</h1>
-                            <h1 className="trprr">Unlimited Possibilities</h1>
-                            <h1>Launching 2023 <span className="trprr">Apply Now</span></h1>
+                            <h1>{t("one_card")}</h1>
+                            <h1 className="trprr">{t("unlimited_possibilities")}</h1>
+                            <h1>{t("launching_2023")} <span className="trprr">{t("apply_now")}</span></h1>
                             <div id="email-subscription">
                                 <NCXNewsletter />
                             </div>
@@ -48,11 +51,11 @@ function NCXDebitCardSection()
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="ncx-cardddd">
                                 < img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                <p>Card</p>
+                                <p>{t("card")}</p>
                             </div>
-                            <h1>One Card,</h1>
-                            <h1>Unlimited Possibilities</h1>
-                            <h1>Apply Now</h1>
+                            <h1>{t("one_card")}</h1>
+                            <h1>{t("unlimited_possibilities")}</h1>
+                            <h1>{t("apply_now")}</h1>
                             <div id="email-subscription">
                                 <NCXNewsletter />
                             </div>

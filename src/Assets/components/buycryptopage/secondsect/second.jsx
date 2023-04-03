@@ -2,47 +2,50 @@ import React from "react";
 import '../../rewardpage/complete/complete.css';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import {ReactComponent as NCXQuestionmark} from '../../../images/ncx-questionmark.svg';
+import { useTranslation } from "react-i18next";
 
 function NCXEarningComplete()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="earingingcomplet-sect">
             <div className="container">
                 <AnimationOnScroll animateIn="animate__fadeIn">
-                    <h1>Easy as 1-2-3</h1>
+                    <h1>{t("easy_as_1_2_3")}</h1>
                 </AnimationOnScroll>
                 <div className="getocodesect">
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>Step 1</p>
+                                <p>{t("step_1")}</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Choose Crypto, Payment Currency and Enter the Amount  </h1>
-                            <p className="getocode-txt">Choose from over 200 Cryptocurrencies and 95 Fiat Currencies, enter the required amount, if your currency is not available, select USD</p>
-                            <a href="https://ncx.cx/faq">FAQ</a>
+                            <h1>{t("chosse_crypto_payment_currency_enter_amount")}</h1>
+                            <p className="getocode-txt">{t("chosse_crypto_payment_currency_enter_amount_text")}</p>
+                            <a href="https://ncx.cx/faq">{t("faq")}</a>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>Step 2</p>
+                                <p>{t("step_2")}</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Choose Between Payment Providers for the Best Rate & Payment Method</h1>
-                            <p className="getocode-txt">Choose between Payment Methods and Providers to find the best rate and most convenient Payment Method</p>
-                            <a href="https://ncx.cx/faq">FAQ</a>
+                            <h1>{t("choose_between_payment_providers_best_rates_payment_method")}</h1>
+                            <p className="getocode-txt">{t("choose_between_payment_providers_best_rates_payment_method_text")}</p>
+                            <a href="https://ncx.cx/faq">{t("faq")}</a>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>Step 3</p>
+                                <p>{t("step_3")}</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Complete the Payment & Receive your Crypto </h1>
-                            <p className="getocode-txt">Once you complete the payment the Assets will be sent to your Crypto Wallet, if the amount is over certain limit you may be asked to complete KYC</p>
-                            <a href="https://ncx.cx/faq">FAQ</a>
+                            <h1>{t("complete_payment_receive_crypto")}</h1>
+                            <p className="getocode-txt">{t("complete_payment_receive_crypto_text")}</p>
+                            <a href="https://ncx.cx/faq">{t("faq")}</a>
                         </AnimationOnScroll>
                     </div>
                 </div>

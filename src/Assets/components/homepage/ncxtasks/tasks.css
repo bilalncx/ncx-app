@@ -57,9 +57,10 @@ p.task {
     font-family: 'urbanist-semibold';
     text-transform: capitalize;
     color: #FFFFFF;
-    width: 115px;
+    width: fit-content;
     height: 44px;
     border-radius: 50px;
+    padding: 6px 15px !important;
 }
 .taskbtn a:hover{
     background: rgba(25, 118, 210, 0.04);
@@ -76,7 +77,7 @@ p.task {
     margin-top: 24px;
 }
 .tasktext h3 {
-    font-size: 17px;
+    font-size: 16px;
     font-family: 'urbanist-medium';
     color: #2C2236;
     margin-bottom: 5px;
@@ -202,7 +203,7 @@ svg.turn {
         font-family: 'urbanist-medium';
     }
     .taskbtn a{
-        width: 95px;
+        width: fit-content;
         height: 30px;
         font-size: 12px;
     }

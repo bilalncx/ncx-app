@@ -4,9 +4,12 @@ import NCXApp from '../../../images/ncx-slide1.png';
 import NCXBarCode from '../../../images/ncx-barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
+import { useTranslation } from "react-i18next";
 
 function NCXAPPSection()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="ncxapp-section">
             <div className="container">
@@ -16,7 +19,7 @@ function NCXAPPSection()
                         <p>Trade, Earn, Access Funds from just about anywhere.</p>
                         <div className="barcodd">
                             <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
-                            <p>Scan to Download NCX App</p>
+                            <p>{t("scan_to_download_ncx_app")}</p>
                         </div>
                         <div className="apps-divi">
                             <NCXApple />

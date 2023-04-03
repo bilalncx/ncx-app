@@ -15,8 +15,13 @@ import Twitter from '../footer/twitter.svg';
 import Instagram from '../../images/instagram.svg';
 import AppBarCode from '../../images/ncx-QRcode.svg';
 import {ReactComponent as DropdownICon} from '../../images/menu-dropdown.svg';
+import { useTranslation } from "react-i18next";
+import ChangeButtons from '../../../selectlanguage';
   
 export default function Header() {   
+
+  const { t } = useTranslation();
+  
   const [isNavExpanded, setIsNavExpanded] = useState(false) 
   
   return (
@@ -39,41 +44,41 @@ export default function Header() {
                 <div id="new-headermenu" className="mega_menu"> 
                     <div className="col1">
                       <div className="top_heading connect_link_title"> 
-                        <h4>Services</h4> 
-                        <h4>NCXT</h4>
-                        <h4>Company</h4> 
+                        <h4>{t("services")}</h4> 
+                        <h4>{t("ncxt")}</h4>
+                        <h4>{t("company")}</h4> 
                       </div>
                       <div className="menu_box">
                         <div className="col">
                           <div className="main_service_wrapper">
                             <div className="community_inner">
                               <div className="main_service">
-                                <a href="https://ncx.cx/task-rewards">Rewards Program</a>
-                                <a href="https://ncx.cx/insights">News & Insights</a>
-                                <a href="https://ncx.cx/market-makers">Market Makers</a>
-                                <a href="https://ncx.cx/institutional">Institutional Services</a>
-                                <a href="https://ncx.cx/ncx-otc">OTC</a>
-                                <a href="https://ncx.cx/ncx-ambassador">NCX Ambassador</a>
+                                <a href="https://ncx.cx/task-rewards">{t("rewards_program")}</a>
+                                <a href="https://ncx.cx/insights">{t("news_insights")}</a>
+                                <a href="https://ncx.cx/market-makers">{t("market_makers")}</a>
+                                <a href="https://ncx.cx/institutional">{t("institutional_services")}</a>
+                                <a href="https://ncx.cx/ncx-otc">{t("otc")}</a>
+                                <a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a>
                               </div>
                             </div>
                             <div className="social_links">
                               <div className="social_link_inner"> 
-                                <a href="#">NCXT Overview</a>
-                                <a href="#">Claim Airdrop</a>
-                                <a href="#">Presale Dashboard</a>
-                                <a href="#">Referral Program</a>
-                                <a href="#">Official Telegram</a>
+                                <a href="#">{t("ncxt_overview")}</a>
+                                <a href="#">{t("claim_airdrop")}</a>
+                                <a href="#">{t("presale_dashboard")}</a>
+                                <a href="#">{t("referral_program")}</a>
+                                <a href="#">{t("official_telegram")}</a>
                               </div>
                             </div>
                             <div className="social_links">
                               <div className="social_link_inner">
                                 {/* <a href="#">About Us</a> */}
-                                <a href="https://ncx.cx/insights">Media & Press</a>
-                                <a href="https://ncx.cx/user-agreement">User Agreement</a>
-                                <a href="https://ncx.cx/kyc-aml-policy">AML & KYC Policy</a>
-                                <a href="https://ncx.cx/privacy-policy">Privacy Policy</a>
-                                <a href="https://ncx.cx/api-agreement">API Documentation</a>
-                                <a href="https://ncx.cx/cookie-policy">Cookie Policy</a>
+                                <a href="https://ncx.cx/insights">{t("media_press")}</a>
+                                <a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a>
+                                <a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a>
+                                <a href="https://ncx.cx/privacy-policy">{t("privacy_policy")}</a>
+                                <a href="https://ncx.cx/api-agreement">{t("api_documentation")}</a>
+                                <a href="https://ncx.cx/cookie-policy">{t("cookie_policy")}</a>
                               </div>
                             </div>
                           </div>
@@ -82,15 +87,15 @@ export default function Header() {
                     </div>
                     <div className="col2">
                       <div className="right_inner">
-                        <h4> Support </h4>
+                        <h4>{t("support")}</h4>
                         <div className="connect_links">
                           <div className="box">
                             <div className="boxx-links">
-                              <a href="https://ncx.cx/faq">FAQ</a>
-                              <a href="#">Open Support Ticket</a>
-                              <a href="#">Support via Telegram</a>
+                            <a href="https://ncx.cx/faq">{t("faq")}</a>
+                              <a href="#">{t("open_support_ticket")}</a>
+                              <a href="#">{t("support_via_telegram")}</a>
                             </div>
-                            <h4> Social Media</h4>
+                            <h4>{t("social_media")}</h4>
                             <div className="social-icons">
                               <div class="icons"><a href="https://ncx.cx"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                               <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
@@ -104,37 +109,37 @@ export default function Header() {
               </div>
               <ul className="navlink">
                 <li className="main_title white_bg">
-                  <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
+                  <a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">Spot Trading</a>
+                  <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#">Derivatives</a>
+                  <a href="#">{t("derivatives")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://ncx.cx/market-makers">Markets</a>
+                  <a href="https://ncx.cx/market-makers">{t("markets")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
+                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("dex")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://ncx.cx/ncx-card">NCX Card</a>
+                  <a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#">NCX Wallet</a>
+                  <a href="#">{t("ncx_wallet")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="/ncx-token">NCX Token</a>
+                  <a href="/ncx-token">{t("ncx_token")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://ncx.cx/task-rewards">Rewards</a>
+                  <a href="https://ncx.cx/task-rewards">{t("rewards")}</a>
                 </li>
               </ul>
             </div>
             <div className="login-buttons">
-              <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer" className="signin">Sign in</Button>
-              <Button className="launch-dex" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DeFi</Button>
+              <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer" className="signin">{t("sign_in")}</Button>
+              <Button className="launch-dex" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("defi")}</Button>
               <div className="downloadQRCode">
                 <div id="downloadlink" className="storeicons">
                   <AppleIcon />
@@ -148,26 +153,27 @@ export default function Header() {
                       </div>
                     </div>
                     <div class="pc-box">
-                      <div class="text">Scan the QR code to download NCX mobile APP</div>
+                      <div class="text">{t("scan_qr_code_to_download_ncx_mobile_app")}</div>
                     </div>
                   </div>
                 </div>
               </div>
               <div className="translate_lng">
                 <div id="tran_lang">
-                  <h1>English</h1>
+                  <h1>{t("english")}</h1>
                   <DropdownICon />
                 </div>
                 <div id="language_trans">
                   <div class="language-box">
-                    <a href="#">English</a>
+                    {/* <a href="#">English</a>
                     <a href="#">हिन्दी</a>
                     <a href="#">Español</a>
                     <a href="#">中文</a>
                     <a href="#">Bahasa</a>
                     <a href="#">Tiếng Việt</a>
                     <a href="#">Русский</a>
-                    <a href="#">Melayu</a>
+                    <a href="#">Melayu</a> */}
+                    <ChangeButtons />
                   </div>
                 </div>
               </div>
@@ -198,37 +204,37 @@ export default function Header() {
                     }>
                     <ul>
                       <li>
-                        <a href="https://ncx.cx/buy-crypto">Buy Crypto</a>
+                        <a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a>
                       </li>
                       <li>
-                        <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">Spot Trading</a>
+                        <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
                       </li>
                       <li>
-                        <a href="#">Derivatives</a>
+                        <a href="#">{t("derivatives")}</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/market-makers">Markets</a>
+                        <a href="https://ncx.cx/market-makers">{t("markets")}</a>
                       </li>
                       <li>
-                        <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">DEX</a>
+                        <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("dex")}</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/ncx-card">NCX Card</a>
+                        <a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a>
                       </li>
                       <li>
-                        <a href="/ncx-token">NCX Token</a>
+                        <a href="/ncx-token">{t("ncx_token")}</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/task-rewards">Rewards</a>
+                        <a href="https://ncx.cx/task-rewards">{t("rewards")}</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/insights">News & Insights</a>
+                        <a href="https://ncx.cx/insights">{t("news_insights")}</a>
                       </li>
                       {/* <li>
                         <a className="btn01 signup launching-btn">Sign Up</a>
                       </li> */}
                       <li>
-                        <a className="signin launching-btn" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In / Sign Up</a>
+                        <a className="signin launching-btn" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in_sign_up")}</a>
                       </li>
                       {/* <li>
                         <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex launching-btn">Launch DEX</a>
@@ -251,10 +257,10 @@ export default function Header() {
               </div>
               <div className="mobile-launch">
               <div class="dropdown">
-                <button class="dropbtn">Launch DEX</button>
+                <button class="dropbtn">{t("launch_dex")}</button>
                 <div class="dropdown-content">
-                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</a>
-                  <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
+                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("launch_dex")}</a>
+                  <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
                   {/* <a href="#" target="_blank" rel="noreferrer">Sign Up</a> */}
                 </div>
               </div>

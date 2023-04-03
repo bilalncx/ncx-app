@@ -11,7 +11,7 @@
 .earingingcomplet-sect a.earn-toget {
     font-size: 14px;
     font-family: 'urbanist-medium';
-    width: 235px;
+    width: fit-content;
     height: 48px;
     background: #925BCA;
     border-radius: 50px;
@@ -21,6 +21,7 @@
     color: #FFFFFF;
     margin: 0 auto;
     margin-top: 50px;
+    padding: 6px 15px;
 }
 .earingingcomplet-sect a.earn-toget:hover{
     background: #f6fafd;

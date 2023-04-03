@@ -3,48 +3,51 @@ import './complete.css';
 import Button from "@mui/material/Button";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import {ReactComponent as NCXQuestionmark} from '../../../images/ncx-questionmark.svg';
+import { useTranslation } from "react-i18next";
 
 function NCXEarningComplete()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="earingingcomplet-sect">
             <div className="container">
                 <AnimationOnScroll animateIn="animate__fadeIn">
-                    <h1>Complete tasks, earn NCXTs, and begin your crypto ascent.</h1>
-                    <Button className="earn-toget" href="#">Sign in to Get Your Code</Button>
+                    <h1>{t("complete_tasks_earn_ncx_tokens_and_your_crypto_ascent")}</h1>
+                    <Button className="earn-toget" href="#">{t("sign_in_to_grt_your_code")}</Button>
                 </AnimationOnScroll>
                 <div className="getocodesect">
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>Refer a friend</p>
+                                <p>{t("refer_a_friend")}</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Earn 2,500 NCXT Tokens!</h1>
-                            <p className="getocode-txt">Get rewarded each time your referrals create and verify their account on <strong>www.ncx.cx</strong>, with NCX truly unlimited Referral Program.</p>
-                            <a href="#">Sign in to Get Your Code</a>
+                            <h1>{t("earn_2500_ncxt_tokens")}</h1>
+                            <p className="getocode-txt">{t("earn_2500_ncxt_tokens_text")} <strong>{t("www_ncx_cx")}</strong>, {t("ncx_truly_unlimited_referral_program")}</p>
+                            <a href="#">{t("sign_in_to_grt_your_code")}</a>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>Earn Commission</p>
+                                <p>{t("earn_commission")}</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Earn 5% Commission on all Purchases!</h1>
-                            <p className="getocode-txt">Get commissions each time your referrals make a purchase of NCX Tokens Across all Presale Rounds</p>
-                            <a href="#">Sign in to Get Your Code</a>
+                            <h1>{t("earn_commisssion_all_purchases")}</h1>
+                            <p className="getocode-txt">{t("earn_commission_text")}</p>
+                            <a href="#">{t("sign_in_to_grt_your_code")}</a>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="quesion">
-                                <p>Trade to Earn</p>
+                                <p>{t("trade_to_earn")}</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>Get up to 50,000 NCXT, simply trading!</h1>
-                            <p className="getocode-txt">Sign Up, Complete Tasks and earn NCX Tokens, reach new Levels and get Rewarded.</p>
-                            <a href="#">Sign Up and Start Trading</a>
+                            <h1>{t("get_up_to_50000_ncxt_simply_trading!")}</h1>
+                            <p className="getocode-txt">{t("trade_to_earn_text")}</p>
+                            <a href="#">{t("sign_up_and_start_trading")}</a>
                         </AnimationOnScroll>
                     </div>
                 </div>

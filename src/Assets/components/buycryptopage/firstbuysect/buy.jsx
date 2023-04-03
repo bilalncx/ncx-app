@@ -7,17 +7,22 @@ import { ReactComponent as BinanceCoinBNB } from '../../../images/ncx-binancecoi
 import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg';
 import BuyCrypotVideo from '../../../images/ncxbuy-cryptovideo.mp4';
 import { ReactComponent as RewardStar } from '../../../images/ncx-reward-star.svg';
-function BuyCrypto()
-{
+import { useTranslation } from "react-i18next";
+
+
+function BuyCrypto(){
+
+    const { t } = useTranslation();
+
     return(
        <div className="buycrypto-page">
             <div className="reward-row">
                 <div className="container">
                     <div className="rewardheadrow">
-                        <p className="complete-tsks">Buy Crypto, Earn NCXT</p>
+                        <p className="complete-tsks">{t("buy_crypto_earn_ncxt")}</p>
                         <div className="reward-center">
-                            <p><a href="https://ncx.cx/task-rewards">Visit Rewards Center</a></p>
-                            <p className="star-res"><RewardStar /> NCX Rewards</p>
+                            <p><a href="https://ncx.cx/task-rewards">{t("visit_rewards_center")}</a></p>
+                            <p className="star-res"><RewardStar />{t("ncx_rewards")}</p>
                         </div>
                     </div>
                 </div>
@@ -25,8 +30,8 @@ function BuyCrypto()
             <div className="container990">
                 <div className="buycrypt-row">
                     <div className="col coinsect">
-                        <h1>Buy & Sell Crypto Instantly</h1>
-                        <p>Buy & Sell Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer. Simply enter the currency & amount and chose among the available payment methods, the best available rate is displayed by default, you can easily switch between providers and payment methods and chose the one right for you.</p>
+                        <h1>{t("buy_sell_crypto_instantly")}</h1>
+                        <p>{t("buy_sell_crypto_instantly_text")}</p>
                         <div className="crypto-assets row">
                             <div className="col coin-details">
                                 <div className="coin-graph">

@@ -4,28 +4,30 @@ import Button from "@mui/material/Button";
 import {ReactComponent as NCXStar} from '../../../images/ncx-taskstar.svg';
 import {ReactComponent as NCXQuestionmark} from '../../../images/ncx-questionmark.svg';
 import {ReactComponent as BtnSVGIcon } from '../../../images/ncx-trend-red-icon.svg';
+import { useTranslation } from "react-i18next";
 
 function NCXTaskSection()
 {
-    const [toggle, setToggle] = useState(false)
+    const { t } = useTranslation();
 
-      
+    const [toggle, setToggle] = useState(false);
+
     return(
         <div className="ncxtasksection">
             <div className="container">
-                <h1>Complete tasks, earn NCX Tokens, and begin your crypto ascent.</h1>
+                <h1>{t("complete_tasks_earn_ncx_tokens_and_your_crypto_ascent")}</h1>
                 <p className="task">
                     <NCXStar />
-                    Tasks
+                    {t("tasks")}
                 </p>
                 <div className="tasksrow">
                     <div className="col">
                         <div className="tasktext signup">
                             <h1>4,000<span>NCXT</span></h1>
-                            <h3>Sign Up and Verify</h3>
-                            <p>For new users only</p>
+                            <h3>{t("sign_up_verify")}</h3>
+                            <p>{t("new_user_only")}</p>
                             <div className="taskbtn">
-                                <Button href="./task-rewards">Start Task</Button>
+                                <Button href="./task-rewards">{t("start_task")}</Button>
                                 <NCXQuestionmark />
                             </div>
                         </div>
@@ -35,8 +37,8 @@ function NCXTaskSection()
                             <h1>1,000<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
-                                    <h3>Refer a Friend</h3>
-                                    <p>For new users only</p>
+                                    <h3>{t("refer_a_friend")}</h3>
+                                    <p>{t("new_user_only")}</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />
@@ -49,8 +51,8 @@ function NCXTaskSection()
                             <h1>500<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
-                                    <h3>Spot Trading Volume over $5,000+</h3>
-                                    <p>For new users only</p>
+                                    <h3>{t("spot_trading_volume")} $5,000+</h3>
+                                    <p>{t("new_user_only")}</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />
@@ -63,8 +65,8 @@ function NCXTaskSection()
                             <h1>750<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
-                                    <h3>Derivatives Trading Volume over $5,000+</h3>
-                                    <p>For new users only</p>
+                                    <h3>{t("derivatives_trading_volume")} $5,000+</h3>
+                                    <p>{t("new_user_only")}</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />
@@ -77,10 +79,10 @@ function NCXTaskSection()
                     <div className="col">
                         <div className="tasktext signup">
                             <h1>4,000<span>NCXT</span></h1>
-                            <h3>Sign Up and Verify</h3>
-                            <p>For new users only</p>
+                            <h3>{t("sign_up_verify")}</h3>
+                            <p>{t("new_user_only")}</p>
                             <div className="taskbtn">
-                                <Button href="./task-rewards">Start Task</Button>
+                                <Button href="./task-rewards">{t("start_task")}</Button>
                                 <NCXQuestionmark />
                             </div>
                         </div>
@@ -90,8 +92,8 @@ function NCXTaskSection()
                             <h1>1,000<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
-                                    <h3>Refer a Friend</h3>
-                                    <p>For new users only</p>
+                                    <h3>{t("refer_a_friend")}</h3>
+                                    <p>{t("new_user_only")}</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />
@@ -106,8 +108,8 @@ function NCXTaskSection()
                             <h1>500<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
-                                    <h3>Spot Trading Volume over $5,000+</h3>
-                                    <p>For new users only</p>
+                                    <h3>{t("spot_trading_volume")} $5,000+</h3>
+                                    <p>{t("new_user_only")}</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />
@@ -120,8 +122,8 @@ function NCXTaskSection()
                             <h1>750<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
-                                    <h3>Derivatives Trading Volume over $5,000+</h3>
-                                    <p>For new users only</p>
+                                    <h3>{t("derivatives_trading_volume")} $5,000+</h3>
+                                    <p>{t("new_user_only")}</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />
@@ -139,8 +141,8 @@ function NCXTaskSection()
                                 <h1>750<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $10,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $10,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -153,8 +155,8 @@ function NCXTaskSection()
                                 <h1>1,250<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $10,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $10,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -167,8 +169,8 @@ function NCXTaskSection()
                                 <h1>1,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $25,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $25,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -181,8 +183,8 @@ function NCXTaskSection()
                                 <h1>2,500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $25,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $25,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -197,8 +199,8 @@ function NCXTaskSection()
                                 <h1>750<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $10,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $10,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -211,8 +213,8 @@ function NCXTaskSection()
                                 <h1>1,250<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $10,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $10,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -227,8 +229,8 @@ function NCXTaskSection()
                                 <h1>1,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $25,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $25,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -241,8 +243,8 @@ function NCXTaskSection()
                                 <h1>2,500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $25,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $25,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -257,8 +259,8 @@ function NCXTaskSection()
                                 <h1>2,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $50,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $50,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -271,8 +273,8 @@ function NCXTaskSection()
                                 <h1>4,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $50,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $50,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -285,8 +287,8 @@ function NCXTaskSection()
                                 <h1>3,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $100,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $100,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -299,8 +301,8 @@ function NCXTaskSection()
                                 <h1>7,500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $100,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $100,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -315,8 +317,8 @@ function NCXTaskSection()
                                 <h1>2,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $50,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $50,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -329,8 +331,8 @@ function NCXTaskSection()
                                 <h1>4,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $50,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $50,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -345,8 +347,8 @@ function NCXTaskSection()
                                 <h1>3,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $100,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $100,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -359,8 +361,8 @@ function NCXTaskSection()
                                 <h1>7,500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $100,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $100,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -375,8 +377,8 @@ function NCXTaskSection()
                                 <h1>5,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $200,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $200,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -389,8 +391,8 @@ function NCXTaskSection()
                                 <h1>10,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $250,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $250,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -403,8 +405,8 @@ function NCXTaskSection()
                                 <h1>8,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $400,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $400,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -417,8 +419,8 @@ function NCXTaskSection()
                                 <h1>15,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $500,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $500,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -433,8 +435,8 @@ function NCXTaskSection()
                                 <h1>5,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $200,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $200,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -447,8 +449,8 @@ function NCXTaskSection()
                                 <h1>10,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $250,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $250,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -463,8 +465,8 @@ function NCXTaskSection()
                                 <h1>8,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Spot Trading Volume over $400,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("spot_trading_volume")} $400,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />
@@ -477,8 +479,8 @@ function NCXTaskSection()
                                 <h1>15,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
-                                        <h3>Derivatives Trading Volume over $500,000+</h3>
-                                        <p>For new users only</p>
+                                        <h3>{t("derivatives_trading_volume")} $500,000+</h3>
+                                        <p>{t("new_user_only")}</p>
                                     </div>
                                     <div className="col">
                                         <NCXQuestionmark />

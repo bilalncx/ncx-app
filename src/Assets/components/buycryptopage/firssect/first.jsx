@@ -9,15 +9,19 @@ import { ReactComponent as BinanceCoinBNB } from '../../../images/ncx-binancecoi
 import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg';
 import BuyWidget from './buy_widget';
 import './widget.css';
+import { useTranslation } from "react-i18next";
 
 function BuyCryptoFirstPage(){
+    
+    const { t } = useTranslation();
+
     return(
         <div className="currencies-options row">
                 <img className="buy-ss22" src={NCXCryptoBuySell} alt="NCX Buy Sell Cryptos" />
                 <BuyWidget />
                 <div id="mobile-shoss" className="col coinsect">
-                    <h1>Buy & Sell Crypto Instantly</h1>
-                    <p>Buy & Sell Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer. Simply enter the currency & amount and chose among the available payment methods, the best available rate is displayed by default, you can easily switch between providers and payment methods and chose the one right for you.</p>
+                    <h1>{t("buy_sell_crypto_instantly")}</h1>
+                    <p>{t("buy_sell_crypto_instantly_text")}</p>
                     <div className="crypto-assets row">
                         <div className="col coin-details">
                             <div className="coin-graph">
@@ -74,7 +78,7 @@ function BuyCryptoFirstPage(){
                         // suffix=" left"
                         delay={0}
                     />
-                    <p>Payment Methods</p>
+                    <p>{t("payment_methods")}</p>
                 </div>
                 <div className="col">
                     <CountUp
@@ -86,7 +90,7 @@ function BuyCryptoFirstPage(){
                         useGrouping={true}
                         prefix=">"
                     />
-                    <p>Cryptocurrencies</p>
+                    <p>{t("cryptocurrencies")}</p>
                 </div>
                 <div className="col">
                     <CountUp
@@ -98,7 +102,7 @@ function BuyCryptoFirstPage(){
                         useGrouping={true}
                         prefix=">"
                     />
-                    <p>Fiat Currencies</p>
+                    <p>{t("fiat_currencies")}</p>
                 </div>
                 <div className="col">
                     <CountUp
@@ -110,7 +114,7 @@ function BuyCryptoFirstPage(){
                         useGrouping={true}
                         prefix=">"
                     />
-                    <p>Countries</p>
+                    <p>{t("countries")}</p>
                 </div>
                 <div className="mobile-currenciesrow">
                     <div className="onembl">
@@ -129,7 +133,7 @@ function BuyCryptoFirstPage(){
                                 // suffix=" left"
                                 delay={0}
                             />
-                            <p>Payment Methods</p>
+                            <p>{t("payment_methods")}</p>
                         </div>
                         <div className="col">
                             <CountUp
@@ -141,7 +145,7 @@ function BuyCryptoFirstPage(){
                                 useGrouping={true}
                                 prefix=">"
                             />
-                            <p>Cryptocurrencies</p>
+                            <p>{t("cryptocurrencies")}</p>
                         </div>
                     </div>
                     <div className="onembl">
@@ -156,7 +160,7 @@ function BuyCryptoFirstPage(){
                                 prefix=">"
                                 suffix="K"
                             />
-                            <p>Fiat Currencies</p>
+                            <p>{t("fiat_currencies")}</p>
                         </div>
                         <div className="col">
                             <CountUp
@@ -168,7 +172,7 @@ function BuyCryptoFirstPage(){
                                 useGrouping={true}
                                 prefix=">"
                             />
-                            <p>Countries</p>
+                            <p>{t("countries")}</p>
                         </div>
                     </div>
                 </div>

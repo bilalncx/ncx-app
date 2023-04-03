@@ -3,20 +3,24 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import Button from "@mui/material/Button";
 import './newgeneration.css';
 import { ReactComponent as NCXInfoIcon } from '../../../images/ncx-infosign.svg';
+import { useTranslation } from "react-i18next";
 
 function Home6thVideoSection(){
+
+    const { t } = useTranslation();
+
     return(
         <div className="new-generation">
             <div className="container">
                 <div className="generate-div">
                     <AnimationOnScroll animateIn="animate__fadeIn">
-                        <h1>Complete Tasks</h1>
+                        <h1>{t("complete_tasks")}</h1>
                     </AnimationOnScroll>
                     <AnimationOnScroll animateIn="animate__fadeIn">
-                        <h1>Earn NCX Tokens</h1>
+                        <h1>{t("earn_ncx_tokens")}</h1>
                     </AnimationOnScroll>
                     <AnimationOnScroll animateIn="animate__fadeIn">
-                        <p>Sign Up, Complete Tasks, reach new Levels while earning NCXT along the way with NCX Rewards Program. One of the most through after Rewards Programs built for the Traders and Community.</p>
+                        <p>{t("tasks_complete_paragraph")}</p>
                     </AnimationOnScroll>
                     
                     <div className="ncxtask row">
@@ -24,11 +28,11 @@ function Home6thVideoSection(){
                             <h3>4,000 <span>NCXT</span></h3>
                             <div className="taskdiv11">
                                 <div className="text212">
-                                    <h4>Sign Up and Verify</h4>
-                                    <p>For new user only</p>
+                                    <h4>{t("sign_up_verify")}</h4>
+                                    <p>{t("for_new_users_only")}</p>
                                 </div>
                                 <div className="buttoninfo">
-                                    <Button href="https://ncx.cx/task-rewards" alt="NCX Task Start">Start Task</Button>
+                                    <Button href="https://ncx.cx/task-rewards" alt="NCX Task Start">{t("start_task")}</Button>
                                     <NCXInfoIcon />
                                 </div>
                             </div>
@@ -36,9 +40,9 @@ function Home6thVideoSection(){
                         <div className="taskdiv">
                             <h3 className="secondtask">1,250 <span>NCXT</span></h3>
                             <div className="text212">
-                                <h4>Reach $10,000+ in Derivatives Trading Volume </h4>
+                                <h4>{t("reach_derivatives_trading_volume")}</h4>
                                 <div className="buttoninfo">
-                                    <p>For new user only</p>
+                                    <p>{t("for_new_users_only")}</p>
                                     <NCXInfoIcon />
                                 </div>
                             </div>

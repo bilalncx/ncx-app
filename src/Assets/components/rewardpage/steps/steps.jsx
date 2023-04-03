@@ -5,38 +5,41 @@ import NCXStep1 from '../../../images/ncx-earningstep1.png';
 import NCXStep2 from '../../../images/ncx-earningstep2.png';
 import NCXStep3 from '../../../images/ncx-earningstep3.png';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import { useTranslation } from "react-i18next";
 
 function RewardStepSection()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="ncxearingsteps">
             <div className="container">
                 <AnimationOnScroll animateIn="animate__fadeIn">
-                    <h1>Easy as 1-2-3</h1>
+                    <h1>{t("easy_as_1_2_3")}</h1>
                 </AnimationOnScroll>
                 <div className="steps-row">
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <img src={NCXStep1} alt="NCX Earning" />
-                            <p>Earn NCX Tokens completing tasks. Sign up and start earning.</p>
+                            <p>{t("earn_ncx_tokens_completing_tasks_sign_up_start_earning.")}</p>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <img src={NCXStep2} alt="NCX Earning" />
-                            <p>Boost your NCX balance with every task completed. Bonus NCX Tokens are rewarded for completing a level.</p>
+                            <p>{t("boost_your_ncx_balance_with_task_completed_text")}</p>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <img src={NCXStep3} alt="NCX Earning" />
-                            <p>You can redeem, withdraw, stake, trade or sell your tokens on NCX or any other listed DEX/CEX after NCXT TGE and Token Release*</p>
-                            <span>*-Subject to Vesting Period</span>
+                            <p>{t("you_can_redeem_withdraw_stake_trade_token_text")}</p>
+                            <span>*-{t("subject_to_vesting_period")}</span>
                         </AnimationOnScroll>
                     </div>
                 </div>
                 <AnimationOnScroll animateIn="animate__fadeIn">
-                    <Button className="earn-toget" href="#">Get Started</Button>
+                    <Button className="earn-toget" href="#">{t("get_started")}</Button>
                 </AnimationOnScroll>
             </div>
         </div>

@@ -4,9 +4,12 @@ import NCXHomeSliderVideo from '../../../images/ncx_card_bgvideo.mp4';
 import NCXCardTrade from '../../../images/ncx-card-trade.png';
 import GradientSect from '../cardgradient/gradcard';
 import MobileVideo from '../../../images/ncx_poweredby.mp4';
+import { useTranslation } from "react-i18next";
 
 function CardfirstSection()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="cardvideo-sect">
             <div id="ncxcardvideo-desk">
@@ -29,21 +32,21 @@ function CardfirstSection()
                     <div className="ncx-card-trade">
                         <div className="cardtrade-row">
                             <div className="col">
-                                <h1>NCX Crypto Debit Card</h1>
-                                <p className="cardp1">Stake NCX and get your Premium Card, perfect solution for everyday purchases. Top up with crypto and use for payments - Anytime, Anywhere!</p>
+                                <h1>{t("ncxt_crypto_debit_card")}</h1>
+                                <p className="cardp1">{t("crypto_debit_card_text")}</p>
                                 <div className="bullets">
-                                    <span>Pay at 44 Million Merchant locations Worldwide</span>
-                                    <span>Virtual Card</span>
+                                    <span>{t("pay_at_44_million_merchant")}</span>
+                                    <span>{t("virtual_card")}</span>
                                 </div>
                                 <div className="bullets">
-                                    <span>ATM Withdrawals</span>
-                                    <span>Top up by Crypto</span>
-                                    <span>Powered by MasterCard</span>
+                                    <span>{t("atm_withdrawals")}</span>
+                                    <span>{t("top_up_by_crypto")}</span>
+                                    <span>{t("powered_by_mastercard")}</span>
                                 </div>
                                 <div className="bullets">
-                                    <span>Premium Metal Card</span>
-                                    <span>24/7 Support</span>
-                                    <span>Online Payments</span>
+                                    <span>{t("premium_metal_card")}</span>
+                                    <span>{t("24/7_support")}</span>
+                                    <span>{t("online_payments")}</span>
                                 </div>
                                 <div className="bullets">
                                     <span>Apple Pay</span>
@@ -52,26 +55,26 @@ function CardfirstSection()
                                 </div>
                                 <div id="mobile-butller">
                                     <div className="bullets">
-                                        <span>Pay at 44 Million Merchant locations Worldwide</span>
+                                        <span>{t("pay_at_44_million_merchant")}</span>
                                     </div>
                                     <div className="bullets">                                
-                                        <span>Powered by MasterCard</span>
-                                        <span>ATM Withdrawals</span>
+                                        <span>{t("powered_by_mastercard")}</span>
+                                        <span>{t("atm_withdrawals")}</span>
                                     </div>
                                     <div className="bullets">
-                                        <span>Top up by Crypto</span>
-                                        <span>Premium Metal Card</span>
+                                        <span>{t("top_up_by_crypto")}</span>
+                                        <span>{t("premium_metal_card")}</span>
                                     </div>
                                     <div className="bullets">
-                                        <span>Online Payments</span>
+                                        <span>{t("online_payments")}</span>
                                         <span>Apple Pay</span>
                                         <span>Google Pay</span>
                                     </div>
                                 </div>
-                                <p className="cardp2">One Card, Unlimited Possibilities!</p>
+                                <p className="cardp2">{t("one_card_ulimited_possibilties")}</p>
                                 <div className="prod-butns">
-                                    <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign Up</a>
-                                    <a className="buycrypt-btn" href="#" target="_blank" rel="noreferrer">Get the App</a>
+                                    <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_up")}</a>
+                                    <a className="buycrypt-btn" href="#" target="_blank" rel="noreferrer">{t("get_the_app")}</a>
                                 </div>
                             </div>
                             <div className="col product-img">
