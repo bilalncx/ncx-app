@@ -1,6 +1,7 @@
 import React from 'react';
 import './real_market.css';
 import { ReactComponent as SearchIcon } from '../../images/market_searchicon.svg';
+import $ from 'jquery';
 
 function MarketPage(){
     fetch('https://b2t-api-cmc-ncxdigital.flexprotect.org/marketdata/cmc/v1/summary')
@@ -122,3 +123,8 @@ function MarketPage(){
     )
 }
 export default MarketPage;
+
+$(".latest_change h2").each(function() {
+    var val = parseFloat($(this).text());
+    $(this).addClass(val < 0.0 ? 'negative' : 'positive');
+  });

@@ -102,3 +102,8 @@ function MarketPage(){
     )
 }
 export default MarketPage;
+
+$(".trend_pairs p").each(function() {
+    var val = parseFloat($(this).text());
+    $(this).addClass(val < 0.0 ? 'negative' : 'positive');
+  });

@@ -163,16 +163,15 @@ $(document).ready(function() {
     window.onscroll = function() {myFunction()};
 });
 
+// $(".trend_pairs p").each(function() {
+//   var val = parseFloat($(this).text());
+//   $(this).addClass(val < 0.0 ? "negative" : "positive");
+// });
 
-$(".trend_pairs p").each(function() {
-  var val = parseFloat($(this).text());
-  $(this).addClass(val < 0.0 ? 'negative' : 'positive');
-});
-
-$(".latest_change h2").each(function() {
-  var val = parseFloat($(this).text());
-  $(this).addClass(val < 0.0 ? 'negative' : 'positive');
-});
+// $(".latest_change h2").each(function() {
+//   var val = parseFloat($(this).text());
+//   $(this).addClass(val < 0.0 ? "negative" : "positive");
+// });
 
 // $(document).ready(function(){
 //   window.onscroll = function() {myFunctionB()};
