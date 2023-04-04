@@ -27,7 +27,7 @@ function MyFooter()
                             <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                             <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
                             <li><a href="https://trade.ncx.cx/">{t("crypto_derivatives")}</a></li>
-                            <li><a href="https://ncx.cx/market-makers">{t("markets")}</a></li>
+                            <li><a href="/markets">{t("markets")}</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                             <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
                             <li><a href="#">{t("ncx_defi_wallet")}</a></li>
@@ -131,7 +131,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                         <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
                         <li><a href="#">{t("crypto_derivatives")}</a></li>
-                        <li><a href="https://ncx.cx/market-makers">{t("markets")}</a></li>
+                        <li><a href="/markets">{t("markets")}</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
                         <li><a href="#">{t("ncx_defi_wallet")}</a></li>

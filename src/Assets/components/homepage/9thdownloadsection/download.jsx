@@ -6,7 +6,7 @@ import Barcode from '../../../images/barcode.png';
 import Applestore from '../../../images/appstore.png';
 import NCXExchange from '../../../images/ncx-exchange.png';
 import './download.css';
-import DownloadBackgroundVideo from '../../../images/ncx-mountain.mp4';
+// import DownloadBackgroundVideo from '../../../images/ncx-mountain.mp4';
 
 function Home9thDownloadSection(){
     return(
@@ -23,9 +23,9 @@ function Home9thDownloadSection(){
                 </AnimationOnScroll>
             </div>
             <AnimationOnScroll animateIn="animate__fadeIn">
-            <video autoPlay loop muted playsInline id="DownloadVideo">
+            {/* <video autoPlay loop muted playsInline id="DownloadVideo">
                 <source src={DownloadBackgroundVideo} type='video/mp4' />
-            </video>
+            </video> */}
                 <div className="container">
                     <div className="row">
                         <div className="asss">

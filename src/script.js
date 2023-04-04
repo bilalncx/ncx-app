@@ -111,7 +111,7 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("*") > -1){
       $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("market") > -1){
+    } else if (window.location.href.indexOf("markets") > -1){
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("faq") > -1){
       $("body").addClass("body-overflow");

@@ -49,7 +49,7 @@ const App = () => {
           <Route path='/market-makers' element={<NCXMarketMaker />} />
           <Route path='/institutional' element={<NCXInstitution />} />
           <Route path='*' element={<PageNotFound />}/>
-          <Route path='/market' element={<MarketPage />} />
+          <Route path='/markets' element={<MarketPage />} />
           <Route path='/faq' element={<SupportPage />} />
           <Route path='/faq_security_google_2fa' element={<FAQSecurityGoogle2FA />}/>
           <Route path='/faq_deposits' element={<FAQDesposits />} />

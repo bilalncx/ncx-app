@@ -40,10 +40,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>OTC & Execution Service</h2>
+                                    <h2>{t("otc_execution_service")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Complete large orders through NCX OTC Desk, access deeper liquidity, efficient, fast and secure. NCX  adopts the leading MPC technology to fully guarantee the security of assets. </p>
+                                    <p>{t("execution_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -60,10 +60,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Regulatory Compliance</h2>
+                                    <h2>{t("regulatory_compliance")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>NCX extensive compliance program is designed to be on the level with the world’s leading regulatory and industry best practices.  Our risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                                    <p>{t("regulatory_compliance_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -80,10 +80,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Zero Fees</h2>
+                                    <h2>{t("zero_fees")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>No fees, no transaction slippage, and we interoperate with liquidity pools worldwide to provide the most competitive quotes on all OTC trades.</p>
+                                    <p>{t("zero_fees_text")}</p>
                                 </AnimationOnScroll> 
                             </div>
                             <div className="otc-image">
@@ -102,10 +102,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Fast Settlement</h2>
+                                    <h2>{t("fast_settlement")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Our funds clearing and asset settlement can be finished within minutes after the transaction is completed, safe and efficient. Transaction data is not publicly available and is anonymous and secure.</p>
+                                    <p>{t("fast_settlement_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -122,10 +122,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Wide Coverage</h2>
+                                    <h2>{t("wide_coverage")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Our OTC services cover a wide range of countries and regions, including Europe and Asia Pacific.</p>
+                                    <p>{t("wide_coverage_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -142,10 +142,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Professional Service</h2>
+                                    <h2>{t("professional_service")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Experienced trading team provides 24/7 exclusive service, institutions can use the OTC API.</p>
+                                    <p>{t("professional_service_text")}</p>
                                 </AnimationOnScroll> 
                             </div>
                             <div className="otc-image">
@@ -164,10 +164,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>OTC & Execution Service</h2>
+                                    <h2>{t("otc_execution_service")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Complete large orders through NCX OTC Desk, access deeper liquidity, efficient, fast and secure. NCX  adopts the leading MPC technology to fully guarantee the security of assets. </p>
+                                    <p>{t("execution_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -184,10 +184,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Regulatory Compliance</h2>
+                                    <h2>{t("regulatory_compliance")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>NCX extensive compliance program is designed to be on the level with the world’s leading regulatory and industry best practices.  Our risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                                    <p>{t("regulatory_compliance_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -206,10 +206,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Zero Fees</h2>
+                                    <h2>{t("zero_fees")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>No fees, no transaction slippage, and we interoperate with liquidity pools worldwide to provide the most competitive quotes on all OTC trades.</p>
+                                    <p>{t("zero_fees_text")}</p>
                                 </AnimationOnScroll> 
                             </div>
                             <div className="otc-image">
@@ -226,10 +226,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Fast Settlement</h2>
+                                    <h2>{t("fast_settlement")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Our funds clearing and asset settlement can be finished within minutes after the transaction is completed, safe and efficient. Transaction data is not publicly available and is anonymous and secure.</p>
+                                    <p>{t("fast_settlement_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -248,10 +248,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Wide Coverage</h2>
+                                    <h2>{t("wide_coverage")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Our OTC services cover a wide range of countries and regions, including Europe and Asia Pacific.</p>
+                                    <p>{t("wide_coverage_text")}</p>
                                 </AnimationOnScroll>
                             </div>
                             <div className="otc-image">
@@ -268,10 +268,10 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <div className="otctxt">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>Professional Service</h2>
+                                    <h2>{t("professional_service")}</h2>
                                 </AnimationOnScroll>
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Experienced trading team provides 24/7 exclusive service, institutions can use the OTC API.</p>
+                                    <p>{t("professional_service_text")}</p>
                                 </AnimationOnScroll> 
                             </div>
                             <div className="otc-image">

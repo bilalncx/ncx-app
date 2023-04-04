@@ -3,14 +3,14 @@ import '../sect_poweredby/powered.css';
 import NCXBarCode from '../../../images/ncx-barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
-import BuyCryptoVideo from '../../../images/ncx-redrock.mp4';
+// import BuyCryptoVideo from '../../../images/ncx-redrock.mp4';
 
 function NCXAPPSection()
 {
     return(
         <div id="powered_by" className="ncxapp-section">
             <div id="ncx_buycrypto_video">
-                <div className="desktop">
+                {/* <div className="desktop">
                     <video 
                         autoPlay={true}
                         muted={true}
@@ -21,7 +21,7 @@ function NCXAPPSection()
                         >
                         <source src={BuyCryptoVideo} type="video/mp4" />
                     </video>
-                </div>
+                </div> */}
             </div>
             <div id="buycrypto_container" className="container">
                 <div className="row">
