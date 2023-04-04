@@ -9,8 +9,10 @@ import { ReactComponent as OTC3 } from '../../../images/ncx-otc3.svg';
 import { ReactComponent as OTC4 } from '../../../images/ncx-otc4.svg';
 import { ReactComponent as OTC5 } from '../../../images/ncx-otc5.svg';
 import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
+import { useTranslation } from "react-i18next";
 
 function NCXhomepageOTCSection(){
+    const { t, i18n } = useTranslation();
     return(
         <div className="ncxotcsection">
             <div className="container">
