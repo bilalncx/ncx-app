@@ -266,6 +266,7 @@ p.fet_tag {
     max-width: 110px;
     position: relative;
     left: 10px;
+    display: none;
 }
 .trending_markets .spiner_div {
     position: relative;
