@@ -49,12 +49,14 @@ $(document).ready(function(){
 
     $("#usd_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
-      $("#ncx_market_table > tr:nth-child(9)").addClass("hiddddd");
-      $("#ncx_market_table > tr:nth-child(11)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(10)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(12)").addClass("hiddddd");
       $("#ncx_market_table > tr:nth-child(18)").addClass("hiddddd");
       $("#ncx_market_table > tr:nth-child(34)").addClass("hiddddd");
       $("#ncx_market_table > tr:nth-child(36)").addClass("hiddddd");
       $("#ncx_market_table > tr:nth-child(37)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(35)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(38)").addClass("hiddddd");
       rows.filter(":contains('/ usdc')").hide();
       rows.filter(":contains('eth / usd')").show();
       rows.filter(":contains('usdt / usd')").show();
