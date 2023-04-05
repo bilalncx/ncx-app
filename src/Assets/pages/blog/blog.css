@@ -404,29 +404,26 @@ p.blog-date {
 .searching_btns{
   display: grid;
 }
-.searching_btns .btn-dark:nth-child(8){
+.searching_btns .btn-dark:nth-child(7){
   order: 1;
 }
-.searching_btns .btn-dark:nth-child(7){
+.searching_btns .btn-dark:nth-child(6){
   order: 2;
 }
 .searching_btns .btn-dark:nth-child(2){
   order: 3;
 }
-.searching_btns .btn-dark:nth-child(1){
+.searching_btns .btn-dark:nth-child(5){
   order: 4;
 }
-.searching_btns .btn-dark:nth-child(5){
+.searching_btns .btn-dark:nth-child(4){
   order: 5;
 }
 .searching_btns .btn-dark:nth-child(3){
   order: 6;
 }
-.searching_btns .btn-dark:nth-child(4){
+.searching_btns .btn-dark:nth-child(1){
   order: 7;
-}
-.searching_btns .btn-dark:nth-child(6){
-  order: 8;
 }
 .searching_btns button.btn-dark {
   width: 100%;
