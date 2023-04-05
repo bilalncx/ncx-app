@@ -30,6 +30,7 @@ section.market_pag {
     padding: 2px 0px !important;
     border-bottom: 1px solid #f5f5f5 !important;
     min-height: 60px;
+    position: relative;
 }
 #table_divddd thead th:nth-child(1), tbody#ncx_market_table tr td:nth-child(1) {
     width: 20%;
@@ -58,9 +59,15 @@ section.market_pag {
     width: 17px;
     height: auto;
 }
+button.star-svg {
+    padding: 0px;
+    border: none;
+    background: none;
+}
 #ncx_market_table{
     width: 100%;
     display: block;
+    position: relative;
 }
 #ncx_market_table td.pair_name {
     display: flex;
@@ -326,16 +333,15 @@ p.fet_tag {
         order: 1;
     }
     #table_divddd thead th:nth-child(6) {
-        order: 2;
-        text-align: left !important;
+        text-align: center !important;
     }
     #table_divddd thead th:nth-child(2) {
         order: 3;
-        padding-left: 15px;
     }
     #table_divddd thead th:nth-child(3) {
         order: 4;
         text-align: end;
+        display: none;
     }
     #ncx_market_table tr td.pair_name{
         order: 1;
@@ -346,11 +352,21 @@ p.fet_tag {
     }
     #ncx_market_table tr td.latest_price{
         order: 3;
-        padding-left: 15px;
     }
     #ncx_market_table tr td.latest_change{
         order: 4;
         text-align: end;
+        display: none
+    }
+    #table_divddd thead tr th:nth-child(7){
+        order: 4 !important;
+        display: block !important;
+    }
+    #table_divddd thead th:nth-child(6), tbody#ncx_market_table tr td:nth-child(6){
+        order: 3 !important;
+    }
+    #ncx_market_table .graphing{
+        width: 25% !important;
     }
     .table_search_tabs .searchinput input{
         width: 200px;
@@ -401,4 +417,46 @@ p.fet_tag {
         min-height: 98px !important;
     }
     
+}
+
+.graphing {
+    width: 15% !important;
+    margin: 0 auto;
+    margin-right: 0px;
+    position: absolute;
+    right: 0px !important;
+}
+.price_trend_graph {
+    text-align: end;
+    height: 60px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-top: 10px;
+    position: relative;
+    z-index: 1;
+}
+#ncx_market_table tr:nth-child(8) td.quote_volume h2, #ncx_market_table tr:nth-child(18) td.quote_volume h2,
+#ncx_market_table tr:nth-child(32) td.quote_volume h2{
+    position: relative;
+    width: fit-content;
+    margin: 0 auto;
+}
+#ncx_market_table tr:nth-child(8) td.quote_volume h2:after, #ncx_market_table tr:nth-child(18) td.quote_volume h2:after,
+#ncx_market_table tr:nth-child(32) td.quote_volume h2:after {
+    content: ' BTC';
+}
+#ncx_market_table tr:nth-child(8) td.quote_volume h2:before, #ncx_market_table tr:nth-child(18) td.quote_volume h2:before,
+#ncx_market_table tr:nth-child(32) td.quote_volume h2:before{
+    content: '';
+    width: 8px;
+    height: 20px;
+    background: #FFFFFF;
+    display: block;
+    position: absolute;
+}
+#ncx_market_table .graphing {
+    position: absolute;
+    height: 100% !important;
+    overflow: hidden;
 }

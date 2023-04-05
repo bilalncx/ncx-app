@@ -92,15 +92,23 @@
     padding: 0px;
     flex: inherit;
     filter: drop-shadow(30px 0px 80px rgba(0, 0, 0, 0.11));
+    background: #DBDCDE;
+    max-height: 550px;
+    text-align: center;
 }
 .col.card_imgb {
     width: 33%;
     padding: 0px;
     flex: inherit;
     background: #DBDCDE;
+    max-height: 550px;
 }
 .col.card_imga img, .col.card_imgb img {
     width: 100%;
+    height: auto;
+    max-height: 550px;
+    object-fit: cover;
+    min-height: 550px;
 }
 .col.card_txt h1 {
     font-size: 42px;
@@ -151,6 +159,29 @@ a.card_learn {
 
 #ncxAmbassador-page .ambassadordiv{
     display: none;
+}
+@media screen and (max-width: 1320px){
+    .col.card_imga img, .col.card_imgb img{
+        max-height: 450px;
+        min-height: 450px;
+    }
+    .col.card_txt h1{
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .col.card_txt p{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    a.card_apply, a.card_learn{
+        width: fit-content;
+        height: fit-content;
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .col.card_txt{
+        padding: 0% 3%;
+    }
 }
 @media screen and (max-width: 800px){
     .crypto_card {
