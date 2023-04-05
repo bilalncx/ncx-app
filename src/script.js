@@ -49,7 +49,12 @@ $(document).ready(function(){
 
     $("#usd_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
-      rows.filter(":contains('/ usdt')").hide();
+      $("#ncx_market_table > tr:nth-child(9)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(11)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(18)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(34)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(36)").addClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(37)").addClass("hiddddd");
       rows.filter(":contains('/ usdc')").hide();
       rows.filter(":contains('eth / usd')").show();
       rows.filter(":contains('usdt / usd')").show();
@@ -75,15 +80,6 @@ $(document).ready(function(){
       $("#usdc_btn").addClass("active_usdc");
       $(".table_search_tabs button").removeClass("active_btc active_usd active_usdt active_all");
     });
-
-    if($("#usd_btn").hasClass("active_usd")){
-      $("#ncx_market_table tr:nth-child(10").css("display: none");
-      console.log("hide");
-      $("#ncx_market_table tr:nth-child(12").hide();
-      $("#ncx_market_table tr:nth-child(35").hide();
-      $("#ncx_market_table tr:nth-child(37").hide();
-      $("#ncx_market_table tr:nth-child(38").hide();
-    }
 });
 
 
