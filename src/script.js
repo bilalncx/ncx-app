@@ -36,12 +36,28 @@ $(document).ready(function(){
 
     $("#all_btn").click(function () {
       $("#ncx_market_table").find("tr").show();
+      $("#ncx_market_table > tr:nth-child(10)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(12)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(18)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(34)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(36)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(37)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(35)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(38)").removeClass("hiddddd");
       $("#all_btn").addClass("active_all");
       $(".table_search_tabs button").removeClass("active_usdc active_btc active_usd active_usdt");
     });
 
     $("#usdt_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
+      $("#ncx_market_table > tr:nth-child(10)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(12)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(18)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(34)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(36)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(37)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(35)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(38)").removeClass("hiddddd");
       rows.filter(":contains('/ usdt')").show();
       $("#usdt_btn").addClass("active_usdt");
       $(".table_search_tabs button").removeClass("active_usdc active_btc active_usd active_all");
@@ -71,6 +87,14 @@ $(document).ready(function(){
 
     $("#btc_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
+      $("#ncx_market_table > tr:nth-child(10)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(12)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(18)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(34)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(36)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(37)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(35)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(38)").removeClass("hiddddd");
       rows.filter(":contains('/ btc')").show();
       $("#btc_btn").addClass("active_btc");
       $(".table_search_tabs button").removeClass("active_usdc active_usd active_usdt active_all");
@@ -78,6 +102,14 @@ $(document).ready(function(){
 
     $("#usdc_btn").click(function () {
       var rows = $("#ncx_market_table").find("tr").hide();
+      $("#ncx_market_table > tr:nth-child(10)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(12)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(18)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(34)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(36)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(37)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(35)").removeClass("hiddddd");
+      $("#ncx_market_table > tr:nth-child(38)").removeClass("hiddddd");
       rows.filter(":contains('/ usdc')").show();
       $("#usdc_btn").addClass("active_usdc");
       $(".table_search_tabs button").removeClass("active_btc active_usd active_usdt active_all");
