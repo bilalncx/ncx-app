@@ -1,5 +1,504 @@
 const blogListdata = [
   {
+    id: 307,
+    title: 'FTSE 100 clings to modest gains amid recession fears',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Gain', 'Clings'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks were mixed this Wednesday amid uncertainty over the outlook for the world economy as reports on job openings and factory orders in the US heightened recession fears.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 5, 2023 - 12:36 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-318.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>The FTSE 100 and European stocks were mixed this Wednesday amid uncertainty over the outlook for the world economy as reports on job openings and factory orders in the US heightened recession fears.</p>
+	    <p>The FTSE 100 (^FTSE) rose 0.45% to 7,668 points during midday trading, while the CAC 40 (^FCHI) in Paris was flat at 7,339 points. In Germany, the DAX (^GDAXI) slipped 0.21% to 15,571.</p>	
+	    <h3>US and Asia</h3>
+      <p>Across the pond, S&P 500 futures (ES=F), Dow futures (YM=F) and Nasdaq futures (NQ=F) were all in the red ahead of the opening bell.</p>	
+	    <p>Wall Street sank and oil prices held steady Tuesday as new data showed fresh signs of labour market cooling and declining factory orders from businesses.</p>
+      <p>The Dow Jones (^DJI) lost 0.59% to close at 33,402 points. The S&P 500 (^GSPC) retreated 0.58% to finish at 4,100 points and the tech-heavy NASDAQ (^IXIC) slipped 0.52% to 12,126.</p>
+      <p>On the economic front, vacancies at US employers fell to 9.93 million from 10.5 million, a bigger fall than expected. On the other hand, quits were up and layoffs were down, data from the Bureau of Labor Statistics showed. Separately, factory orders fell 0.3%, also lower than anticipated.</p>
+      <p>Some economists view the slowdown in the number of open job positions as "progress" to reaching the Fed's goal of an equilibrium between supply and demand in the labour market.</p>
+      <p>"While the Fed will welcome the softening in the data, officials will put much more stock in Friday's employment report and will continue to raise rates at the coming meetings to ensure further progress is made toward softer labour market conditions and lower inflation," Matthew Martin, US economist at Oxford Economics, wrote in a note to clients on Tuesday.</p>
+      <p>In Asia, Tokyo’s Nikkei 225 (^N225) lost 1.68% to 27,813 points, while the Hang Seng (^HSI) in Hong Kong tumbled 0.66% to 20,274. The Shanghai Composite (000001.SS) gained ground, rising 0.49% to 3,312 points.</p>
+      <h3>FTSE 100</h3>
+      <p>Back in London, the FTSE was being aided the banking sector after Barclays (BARC.L) rose 1.79% and Lloyds (LLOY.L) lifted 1.20%.</p>
+      <p>The index was led by the United Utilities Group (UU.L), up 2.98%.</p>
+      <p>Richard Hunter, head of markets at Interactive Investor, said: "Markets are drifting as investor thoughts start to turn towards the scale of severity, as the likelihood of a recession later in the year in the US increases.</p>
+      <p>"Further evidence of a slowing economy came in the form of releases showing factory orders which dropped for a second month and, in particular, as job openings fell to the lowest level in almost two years. The resilience of the labour market to date has kept the Federal Reserve on high alert in its battle against inflation, and most recent data has tended to suggest that the interest rate hiking policy is now taking a measured effect on crimping growth."</p>
+      <p>Hunter added that as traders begin to rein in any new positions ahead of the long Easter weekend, markets were finding little reason to make any progress.</p>
+      <h3>Pound vs dollar</h3>
+      <p>The pound (GBPUSD=X) was down against the dollar, trading around $1.24, after rallying the previous session. Investors are waiting on the latest UK PMI data, which can have a knock down effect on the sterling.</p>
+      <p>The same against the euro, with sterling (GBPEUR=X) hovering around €1.14.</p>
+      <h3>Oil markets</h3>
+      <p>Meanwhile, Brent crude (BZ=F) stopped its climb was trading at around $85/barrel, after rebounding demand in the US after data revealed that US crude stockpiles decreased by more than anticipated.</p>
+      <p>Supply side concerns are also pushing prices higher, driven by the recent output cut decision by OPEC and other oil-producing countries.</p>
+    </div>
+  },
+  {
+    id: 302,
+    title: 'Ethereum soars 8% – closes in on $2k ahead of Shanghai upgrade',
+    category: 'Crypto',
+    subCategory: ['ETH', 'Ethereum', 'Shanghai'],
+    description: <div className="blog-desc">
+      <p>Ethereum has gained 8% in the past 24 hours as it edges closer to the $2,000 (£1,602) mark ahead of the blockchain's Shanghai upgrade.</p>
+    </div>,
+    authorName: 'Brian McGleenon',
+    authorurl: 'https://www.yahoo.com/author/brian-mcgleenon',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 5, 2023 - 12:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-313.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<p>Ethereum has gained 8% in the past 24 hours as it edges closer to the $2,000 (£1,602) mark ahead of the blockchain's Shanghai upgrade.</p>
+    	<p>Ethereum (ETH-USD), the world's second largest cryptocurrency by market capitalisation, reached a high of $1,920 in the last 24 hours, a price level not seen since August 2022.</p>	
+    	<p>The upward trajectory comes despite uncertain macroeconomic conditions caused by successive US Federal Reserve rate hikes, and turmoil in the global banking sector following the collapse of Silicon Valley Bank (SIVB).</p>
+      <h3>What is Ethereum's Shanghai Upgrade?</h3>	
+    	<p>The upcoming Shanghai upgrade will mark Ethereum's complete transition to a proof-of-stake network, further solidifying its position within the cryptocurrency landscape as the most widely adopted layer one blockchain.</p>
+      <p>Scheduled for April 12, the Shanghai upgrade, commonly known as 'Shapella', will signify the blockchain's complete shift from a proof of work (PoW) to a proof of stake (PoS) network. Proof of stake blockchains use over 99% less energy to validate than those that operate using proof of stake.</p>
+      <p>This transition follows the previous 'merge' upgrade in September, and for the first time, it will allow users to withdraw their staked ether, Ethereum's native cryptocurrency.</p>
+      <p>By moving to a proof of stake network, Ethereum will reduce its energy consumption by 99.9%, and enable users to generate passive income through staking their cryptocurrency.</p>
+      <p>Staking involves earning financial rewards for contributing to the blockchain's network and supporting its functionality.</p>
+      <p>The Shanghai Upgrade will allow those ether 'stakers' who lock their funds to make the network function, to withdraw their staked ETH.</p>
+      <p>This is a relief to many stakers who experienced anxiety throughout the last quarter of 2022 when the price of the cryptocurrency was sent into a downward spiral after the collapse of the FTX exchange.</p>
+      <h3>Today's crypto prices</h3>
+      <p>The global cryptocurrency market cap today stands at $1.25tn (£860bn), a gain of 2.5% in the last 24 hours, according to data from Coingecko.</p>
+      <p>Ethereum stands at $1,911 as of the time of writing, a gain of 8% in the past week.</p>
+      <p>Bitcoin (BTC-USD) is now priced at $28,531, up 5% in the past week.</p>
+      <p>Bitcoin has gained 70% since beginning of the year, and according to data from Coinglass, in the past 24 hours most traders of the digital asset hold long positions, suggesting market sentiment is currently in favour of more upward momentum.</p>
+      <p>Coinglass data showed that in the past 24 hours, across the entire cryptocurrency market, 30,188 traders were liquidated, with the total liquidations comes in at $97.95m. The majority of these liquidations were of short positions as the whole market gained in value.</p>
+      <p>However, one of the most prominent losers in the past 24 hours was dogecoin (DOGE-USD).</p>
+      <p>The price of dogecoin shot up yesterday after Twitter changed the logo on the social media platform's website from the iconic blue bird to an image of a Shiba Inu dog associated with the dogecoin cryptocurrency.</p>
+      <p>The price of dogecoin, which is typically volatile, soared 35% in one day, however, it fell as day traders dumped the memecoin to take gains.</p>
+      <p>Dogecoin now sits at $0.096 per token, a fall of 2.2% in the past 24 hours, according to data from Coingecko.</p>
+    </div>
+  },
+  {
+    id: 309,
+    title: 'OPEC+ Cuts Give Extra Lift to Already-Tight Corner of Oil Market',
+    category: 'Commodities',
+    subCategory: ['OPEC', 'Oil', 'Cuts'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- For months, the Middle Eastern oil market has been among the tightest in the world as regional exporters support Asia’s recovering demand. This week, OPEC+’s surprise output cuts made it even stronger.</p>
+    </div>,
+    authorName: 'Alex Longley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 5, 2023 - 9:10 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-320.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>(Bloomberg) -- For months, the Middle Eastern oil market has been among the tightest in the world as regional exporters support Asia’s recovering demand. This week, OPEC+’s surprise output cuts made it even stronger.</p>
+	    <p>Key markers in the Dubai crude market — the benchmark for Middle Eastern grades — leapt higher after the Saudi-led decision. The most active timespread for Dubai swaps jumped to above $1 a barrel in backwardation, according to data from PVM Oil Associates Ltd, outperforming the Brent curve.</p>	
+	    <p>While OPEC+’s production cuts will take effect only next month, Dubai’s strength reflects expectations that the reductions will strengthen an already-robust market for Middle Eastern supplies. Saudi Arabia, Iraq, the UAE and Kuwait pledged to cut a combined 980,000 barrels a day of output, with generally heavier and more sulfurous crude as the bulk of their production.</p>	
+	    <p>That’s likely to lift the relative value of Dubai crude — which is both a proxy for Middle Eastern oil markets as well as medium-sour oil varieties — against global benchmarks such as Brent even further, a shot in arm for long-haul cargo flows from the Atlantic Basin and Americas into Asia.</p>
+      <p>Even prior to the OPEC+ cuts, traders were already bullish on Dubai versus other crudes, as red-hot Chinese demand hoovers up the region’s supplies and lackluster European consumption weighs on Brent.</p>
+      <p>“Given the bulk of the cuts stem from medium and heavy Middle Eastern producers, we would not be surprised to see Dubai trade at a premium to Brent in the coming months, particularly as China looks to ramp imports,” RBC analysts including Mike Tran and Helima Croft wrote in a report.</p>
+    </div>
+  },
+  {
+    id: 303,
+    title: 'Bitcoin pushes beyond US$28,000; Polygon’s Matic leads gainers, same chain sees surge in NFT trades',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Polygon', 'NFT'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose on Wednesday morning in Asia, moving beyond the US$28,000 mark. Ether and most other top 10 non-stablecoin cryptocurrencies also gained, with Polygon’s Matic token leading the winners. Polygon’s blockchain is also seeing a surge in non-fungible token (NFT) sales. U.S. equities fell as job openings declined to the lowest since May 2021, signaling a cooling economy and stirring concern about a recession after a year-long series of interest rate hikes by the Federal Reserve.</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 5, 2023 - 7:36 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-314.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<p>Bitcoin rose on Wednesday morning in Asia, moving beyond the US$28,000 mark. Ether and most other top 10 non-stablecoin cryptocurrencies also gained, with Polygon’s Matic token leading the winners. Polygon’s blockchain is also seeing a surge in non-fungible token (NFT) sales. U.S. equities fell as job openings declined to the lowest since May 2021, signaling a cooling economy and stirring concern about a recession after a year-long series of interest rate hikes by the Federal Reserve.</p>
+	    <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin gained 1.36% to US$28,172 in the last 24 hours to 8 a.m. in Hong Kong, up 3.32% in the last week, according to CoinMarketCap data. The leading cryptocurrency added almost 3% by mid-morning in Asia trading. Ethereum rose 3.35% to US$1,870, a weekly gain of 5.53%.</li>
+        <li>Polygon’s Matic token was the biggest gainer out of the top 10 non-stablecoin cryptocurrencies by market capitalization, adding 3.84% to US$1.14 for a weekly gain of 4.74%. Polygon’s y00ts NFT sale was the largest among all blockchains in the 24 hours to Tuesday morning, according to Polygon’s official Twitter handle.</li>
+        <li>“Compared to this time last year, Polygon is seeing roughly 3-5x the number of unique sellers, buyers, and total transactions monthly. This is largely due to non-NFT traders now being exposed to non-fungible tokens through Starbucks rewards and Reddit Avatars,” said Yehudah Petscher, strategist at Forkast Labs’ NFT data specialist unit, Cryptoslam.</li>
+        <li>Dogecoin, which surged Tuesday following Elon Musk’s move to change Twitter’s blue bird icon to the memecoin’s Shiba Inu dog image, fell back 0.89% to US$0.09523. The meme token’s value jumped 29% over the last seven days, which seems to have awakened some wallets, with Whale Alert noting one containing 1.2 million Doge activated after more than nine years dormant.</li>
+        <li>The global crypto market capitalization rose 1.43% to US$1.19 trillion while the total market trade volume dipped 14% to US$42.06 billion in the last 24 hours.</li>
+        <li>In the NFT market, the Forkast 500 NFT Index dipped 0.11% to 4,035.10 in the 24 hours to 09:00 a.m. in Hong Kong, but added 0.74% for the week. The CryptoSlam index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day.</li>
+        <li>From Jan. 1, 2022, to April 4, 2022, the Forkast 500 showed the market fell almost 12% and for the same period through April 4 this year, the index is down just 2%, said Petscher. “We trade in cycles so I’m curious if we really have much further to fall, or if we’ve found some sort of floor that’s supported by collectors that are here for the long haul,” he said.</li>
+        <li>U.S. equities closed lower on Tuesday. The Dow Jones Industrial Average fell 0.59%, and the S&P 500 lost 0.58%. The Nasdaq Composite slipped 0.52%.</li>
+        <li>The number of job openings in the U.S. fell to 9.9 million in February, the lowest since May 2021 and below market expectations of 10.4 million, indicating a cooling economy, according to Trading Economics.</li>
+        <li>The data points indicate the Fed’s battle against inflation may be working, but at the same time concern is growing that with U.S. interest rates now between 4.75% to 5%, or the highest in 17 years, the central bank may have gone too far and the world’s biggest economy could slide into a recession. Analysts at the CME Group have shifted in their view on the outcome of the Fed May 3 meeting to decide on interest rates, with a majority of analysts, about 59%, predicting no change, while 41.1% expect a 25 basis-point rise.</li>
+        <li>U.S. stock futures traded higher of 9:30 a.m. in Hong Kong. The Dow Jones Industrial Average Index Futures edged up 0.098%, S&P 500 Futures gained 0.097% and the  Nasdaq-100 Futures added 0.13%.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 312,
+    title: 'Gold extends rally as US data bolsters Fed slowdown bets',
+    category: 'Commodities',
+    subCategory: ['Gold', 'US', 'bolsters'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices hit their highest since March 2022 on Wednesday, extending a rally after weaker U.S. economic readings bolstered bets U.S. interest rates will rise more slowly.</p>
+    </div>,
+    authorName: 'Seher Dareen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 5, 2023 - 5:59 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-323.jpg',
+    content: <div className="blog-content">
+    	<h3>By Seher Dareen</h3>
+    	<p>(Reuters) - Gold prices hit their highest since March 2022 on Wednesday, extending a rally after weaker U.S. economic readings bolstered bets U.S. interest rates will rise more slowly.</p>
+    	<p>Spot gold was up 0.1% to $2,022.79 per ounce by 1120 GMT, while U.S. gold futures were unchanged at $2,038.10.</p>	
+    	<p>Analysts said gold was well-placed to sustain gains above the $2,000 level as weaker prospects for interest dilute the opportunity cost of holding non-yielding gold, which is also a hedge against inflation and economic uncertainty.</p>	
+    	<p>"The 'third time's the charm' for gold, having probed above the $2,000 level in both August 2020 and March 2022. This time it appears to be able to sustain the momentum as dark clouds gather within the economy," independent analyst Ross Norman said.</p>
+      <p>He said weaker economic data had shifted the emphasis from "inflation-busting to saving the wider economy".</p>
+      <p>Gold rallied 2% on Tuesday after U.S. job openings in February dropped to the lowest in nearly two years.</p>
+      <p>The dollar index edged higher, yet still near two-month lows, making bullion cheaper for buyers holding other currencies. [USD/]</p>
+      <p>There has also been an improvement in the gold market mood, said Carsten Menke, head of Next Generation Research at Julius Baer in a note, "indicated by the return of short-term speculative traders and trend followers".</p>
+      <p>Euro zone recovery gathered pace last month but the upturn was uneven, and the ECB could raise rates by 25 basis points at its May, June and July meetings a Reuters poll found.</p>
+      <p>While the markets expect a pause on U.S. rate hikes in May, Federal Reserve Bank of Cleveland President Loretta Mester said the central bank likely had more rate hikes ahead, pushing the terminal rate over 5%.</p>
+      <p>Traders also await economic cues from the U.S. non-farm payrolls data on Friday.</p>
+      <p>Silver was down 1.1% to $24.74 per ounce, platinum gained 0.6% to $1,022.99 while palladium jumped 1.2% to $1,474.73.</p>
+    </div>
+  },
+  {
+    id: 313,
+    title: 'Gold Prices Are Near All-Time Highs. 3 Reasons for the Rise.',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Prices', 'High'],
+    description: <div className="blog-desc">
+      <p>Gold prices are headed toward record highs Tuesday—and they might not stop there. At $2,042 an ounce—up 2.1% on Tuesday—the gold price has less than 1.5% to rise to hit its record high of $2,069.40 set in 2020. Gold prices are typically driven by three factors.</p>
+    </div>,
+    authorName: 'Nicholas Jasinski',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 5, 2023 - 1:52 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-324.jpg',
+    content: <div className="blog-content">
+      <p>Gold prices are headed toward record highs Tuesday—and they might not stop there. At $2,042 an ounce—up 2.1% on Tuesday—the gold price has less than 1.5% to rise to hit its record high of $2,069.40 set in 2020. Gold prices are typically driven by three factors.</p>
+    	<p>Gold prices are headed toward record highs Tuesday—and they might not stop there.</p>
+    	<p>At $2,042 an ounce—up 2.1% on Tuesday—the gold price GC00 +0.51%  has less than 1.5% to rise to hit its record high of $2,069.40 set in 2020. The shiny, yellow metal has gained 12% over the past month alone and is up 25% from its recent low in November.</p>
+    </div>
+  },
+  {
+    id: 298,
+    title: 'GBP to USD Forecast – British Pound Attempts a Major Breakout',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied during the trading session on Tuesday to pierce the 1.25 level. The 1.25 level is an area of significant psychological importance, and we had been looking at this chart through the prism of meeting the resistance between the 1.24 level in the 1.25 level. The question now is whether or not we can continue to go higher, because if we do it would be a major breakout for a longer-term move from everything I can see on the charts.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 4, 2023 - 5:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-309.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound has rallied during the trading session on Tuesday to pierce the 1.25 level. The 1.25 level is an area of significant psychological importance, and we had been looking at this chart through the prism of meeting the resistance between the 1.24 level in the 1.25 level. The question now is whether or not we can continue to go higher, because if we do it would be a major breakout for a longer-term move from everything I can see on the charts.</p>
+    	<p>However, if we turn around and give this up, it could be a sign that this is a barrier that simply cannot be broken. In that scenario, we would see the market drop to the 1.23 level more likely than not, and then perhaps down to the moving averages underneath. Speaking of moving averages, the 50-Day EMA has broken above the 200-Day EMA in the so-called “golden cross.” Ultimately, longer-term “buy-and-hold” traders are attracted to this type of setup.</p>	
+	    <p>Keep in mind that a lot of this comes down to the Federal Reserve and what traders think it will do, as there is a sizable amount of the population that thinks the Federal Reserve will have to cut rates rather soon, so they are trying to price in a weaker US dollar. That being said, the reason the Federal Reserve would have to cut would be due to recession. Over the longer term, the US dollar tends to perform fairly well in these recessions, because although interest rates will drop, the reality is that there is very little in the way of global growth to support other currencies.</p>	
+    	<p>Nonetheless, the most important thing you can do is pay attention to what the market is actually doing, not what it “should be doing.” I think as traders we all make this mistake from time to time. That being said, if we get a daily close well above the 1.25 level, you have to assume that the British pound will continue to go much higher, but we will have to wait and see.</p>
+    </div>
+  },
+  {
+    id: 297,
+    title: 'GBP/JPY Forecast – British Pound Shows Impulsive Momentum',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied significantly during the trading session on Tuesday to breakout to a fresh, new, high. The market has broken above the ¥166 level, and now is threatening the top of the major wipeout candlestick after the Bank of Japan announced that they were going to allow the 10 year JGB to rise to 50 basis points instead of 25. Now that we have made a complete “round-trip”, it suggests that the Japanese yen will continue to lose ground against most currencies. This currency pair had been a bit of a laggard until the last couple of days, and now looks as if it’s ready to lead the charge against the Japanese yen.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 4, 2023 - 4:58 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-308.jpg',
+    content: <div className="blog-content">
+    	<h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>The British pound has rallied significantly during the trading session on Tuesday to breakout to a fresh, new, high. The market has broken above the ¥166 level, and now is threatening the top of the major wipeout candlestick after the Bank of Japan announced that they were going to allow the 10 year JGB to rise to 50 basis points instead of 25. Now that we have made a complete “round-trip”, it suggests that the Japanese yen will continue to lose ground against most currencies. This currency pair had been a bit of a laggard until the last couple of days, and now looks as if it’s ready to lead the charge against the Japanese yen.</p>
+	    <p>That being said, the market is entering an area that is very noisy, so I don’t think that it’s simply going to take off to the upside. That being said, as long as we can stay above the ¥164 level, then it’s likely that we could have buyers on dips going forward. Alternatively, you should also pay attention to the fact that the 50-Day EMA is starting to shift to the upside, breaking above the 200-Day EMA. The so-called “golden cross” is an indicator that a lot of longer-term players in the market watch, but it’s also worth noting that the moving averages had been flat previously, so it’s still a little early to call for some type of longer-term breakout.</p>	
+	    <p>Going forward it’s more likely than not going to be a situation where you’re looking for value, and of course paying attention to interest rates. As they rise, the Japanese yen takes it on the chin, as the Bank of Japan continues its yield curve control monetary policy. Keep in mind that this pair is somewhat turbocharged compared to many others, so even if you aren’t trading this one, and gives you a good idea as to where other yen related pairs might be going. In other words, you could think of it as a secondary indicator in a market that is all about interest rates at the moment. Furthermore, the market has formed a very strong looking candle, so it does suggest that there’s probably plenty of interest.</p>
+    </div>
+  },
+  {
+    id: 299,
+    title: 'EUR/USD Forecast – Euro Gives Up Early Gains',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro has initially shot higher during the course of the trading session on Tuesday, breaking above the 1.09 level. That being said, the market is in an extreme high, so it’ll be interesting to see if we can hang onto these gains. The US dollar of course is suffering at the hands of traders expectations of the interest-rate markets, and whether or not they are going to continue to see interest rates possibly fall going forward in America. If that’s going to be the case, then obviously it works against the US dollar. However, the Federal Reserve has reiterated that inflation is nowhere near where they wanted to be, so I do think that the market will probably end up being somewhat disappointed.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 4, 2023 - 4:50 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-310.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	<h3>uro vs US Dollar Technical Analysis</h3>
+	<p>The Euro has initially shot higher during the course of the trading session on Tuesday, breaking above the 1.09 level. That being said, the market is in an extreme high, so it’ll be interesting to see if we can hang onto these gains. The US dollar of course is suffering at the hands of traders expectations of the interest-rate markets, and whether or not they are going to continue to see interest rates possibly fall going forward in America. If that’s going to be the case, then obviously it works against the US dollar. However, the Federal Reserve has reiterated that inflation is nowhere near where they wanted to be, so I do think that the market will probably end up being somewhat disappointed.</p>
+	<p>Nonetheless, it doesn’t really matter what the fundamentals are if the price doesn’t agree. Because of this, I’ll be watching very closely the area between the 1.09 level and the 1.10 level. This area has been very difficult to overcome in the past, so one would have to assume there is a certain amount of selling pressure here. If we were to break down below the bottom of the Monday candlestick, that would obviously be very negative, and could send this market reeling. Speaking of which, it is a bit interesting to see just how deep we plunged during the day on Monday at one point.</p>	
+	<p>I would expect a lot of choppy and noisy behavior over the next several sessions as we try to sort everything out. Keep in mind that Friday is Good Friday, and of course we have to think about the idea of the market trying to sort out the idea of a holiday and the Non-Farm Payroll announcement comes out at the same time. Ultimately, this could set up a rather strange week. Furthermore, as most markets will be closed on Friday, it might just be a matter of being in a bit of a holding pattern between now and then. The Euro has its own issues, but at this point it looks like the ECB is going to continue to see a reason to be hawkish as well, so at the end of the day, it could just be a bit of a wash.</p>
+    </div>
+  },
+  {
+    id: 300,
+    title: 'AUDUSD Forecast – Australian Dollar Threatens to Break Out',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has gone back and forth during the trading session on Tuesday, as we are now hanging around the 50-Day EMA. The question is whether or not we are going to break out to the upside, as the 0.68 level has been a bit of a major barrier for some time. The fact that we pierced that level and then turned around suggests that perhaps we aren’t quite ready to go higher. If we break down below the lows of the day, it’s possible that we could go down to the 0.6650 level. That’s where we took off from during the previous session, and therefore one would have to assume there is a significant amount of demand in that region.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 4, 2023 - 4:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-311.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has gone back and forth during the trading session on Tuesday, as we are now hanging around the 50-Day EMA. The question is whether or not we are going to break out to the upside, as the 0.68 level has been a bit of a major barrier for some time. The fact that we pierced that level and then turned around suggests that perhaps we aren’t quite ready to go higher. If we break down below the lows of the day, it’s possible that we could go down to the 0.6650 level. That’s where we took off from during the previous session, and therefore one would have to assume there is a significant amount of demand in that region.</p>
+	    <p>The 0.68 level being broken to the upside makes a move toward the 200-Day EMA. If the market were to move above the indicator, then it opens up a longer term uptrend. I would also expect to see a move towards the 0.70 level. I do think this is a situation where the risk appetite will have a lot to do with what happens next, but it’s worth noting that the RBA sat still overnight, so it suggests that perhaps interest rate differentials won’t have much to say.</p>	
+	    <p>Keep in mind that the Australian dollar is highly levered to the commodity markets, and of course global growth. At this point, it seems like it’s a bit of a mixed picture across the board, so I think you will continue to see a lot of volatility in this pair. The Australian dollar also represents a certain amount of risk appetite, so you have to be willing to keep that in mind as well. It does make a certain amount of sense that we would consolidate in this area, because it has been so important. However, if we can get a reasonable impulsive candlestick, then it could give you an idea as to which direction we are going, and then it’s simply a matter of following the momentum in this market. The momentum has been contained for a while, and the fact that we reversed after the massive shot higher on Monday suggests that it will remain so.</p>
+    </div>
+  },
+  {
+    id: 310,
+    title: 'Oil Rally Slows After US Jobs Report Resucitates Demand Concerns',
+    category: 'Commodities',
+    subCategory: ['Oil', 'US', 'Demand'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil eked out a gain after a report showed that US job openings in February fell to the lowest since 2021, reigniting concerns over a global economic slowdown.</p>
+    </div>,
+    authorName: 'Julia Fanzeres and Natalia Kniazhevich',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 4, 2023 - 11:19 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-321.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil eked out a gain after a report showed that US job openings in February fell to the lowest since 2021, reigniting concerns over a global economic slowdown.</p>
+    	<p>West Texas Intermediate settled above $80 paring gains on disappointing labor data after initially rising almost 2%. Before the US economic report, prices had extended the largest rally in a year stemming from the surprise decision Sunday by the Organization of Petroleum Exporting Countries and its allies to slash crude production by over 1 million barrels a day.</p>	
+	    <p>Short-term upside is limited until the market sees more inventory draws and stronger demand, said Jonathan Wagner, global head of crude options at Marex North America. “In this macro environment, ahead of payrolls this Friday, the signal of employers not looking for workers is not helping,” said Wagner.</p>	
+	    <p>Crude has soared about 20% from the low point in mid-March. The rebound was driven initially by expectations Chinese demand would pick up following the end of restrictive Covid policies. The OPEC+ surprise decision allowed markets to rally the most in a year, with the move being aimed to punish speculators that bet oil prices would fall.</p>
+      <p>While uber-bull Goldman Sachs Group Inc. upgraded their price forecasts in the wake of the decision, Citigroup Inc., JPMorgan Chase & Co. and Bank of America Corp. kept forecasts unchanged. Morgan Stanley even lowered its outlook, noting China’s demand growth has lagged behind expectations.</p>
+      <p>The market largely ignored the potential resumption of oil exports from Iraq’s semi-autonomous Kurdistan region on Tuesday. The region’s government said it will sign an agreement that may clear the path to restart shipments via the Turkish port of Ceyhan.</p>
+      <p>Elsewhere, Exxon Mobil said it’s restarting units over the coming days at the oil complex near Le Havre in France that had been halted after protests disrupted supplies.</p>
+    </div>
+  },
+  {
+    id: 308,
+    title: 'Teck Resources Is Said to Be Open to Offers Once Coal Spinoff Is Complete',
+    category: 'Commodities',
+    subCategory: ['commodities', 'Coal', 'Teck'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Teck Resources Ltd. is willing to entertain offers from potential suitors after it finishes the spinoff of its steelmaking coal business, according to people familiar with the matter.</p>
+    </div>,
+    authorName: 'Jacob Lorinc and Dinesh Nair',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 4, 2023 - 4:35 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-319.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Teck Resources Ltd. is willing to entertain offers from potential suitors after it finishes the spinoff of its steelmaking coal business, according to people familiar with the matter.</p>
+    	<p>The Canadian miner said Monday it rejected an unsolicited $23 billion proposal from Glencore Plc and will forge ahead with an April 26 shareholder vote on separating its metals and coal divisions. If investors approve, the split is expected to happen by the end of May, with the base metals producer being renamed Teck Metals Corp.</p>	
+    	<p>At that point, the Teck board is likely to be open to hearing offers from prospective partners or buyers including Glencore, the people said, asking not to be identified as the matter is private.</p>	
+    	<p>The Swiss commodities firm’s offer for Teck, at a 20% premium, is another sign that big mining companies are on the hunt for acquisitions. BHP Group Ltd. and Rio Tinto Plc are also said to be actively looking to increase their copper exposure.</p>
+      <p>“The board and special committee are confident that the proposed separation into Teck Metals and Elk Valley Resources is in the best interests of Teck and all its stakeholders,” Chris Stannell, a spokesperson for Teck, said in an emailed statement. “Teck’s proposed separation positions Teck Metals and EVR for success and does not foreclose future opportunities for other value-enhancing transactions at the appropriate point and time.”</p>
+      <p>In rejecting Glencore’s all-share offer, Teck Chief Executive Officer Jonathan Price said Monday that the spinoff structure proposed by the Swiss firm would expose Teck shareholders to its large thermal coal and oil trading businesses. Norman Keevil, Teck’s chairman emeritus, said that “now is not the time to explore a transaction of this nature.”</p>
+      <p>Teck has also proposed ending the dual-class share structure that gives control to Class A shareholders — the Keevil family and its partners. But that change wouldn’t take effect for six years. In the meantime, a hostile takeover of Teck is impossible.</p>
+    </div>
+  },
+  {
+    id: 304,
+    title: 'Bitcoin drops as US plans to sell over 41,000 BTC',
+    category: 'Crypto',
+    subCategory: ['BTC', 'US', 'Drops'],
+    description: <div className="blog-desc">
+      <p>Bitcoin (BTC-USD) has fallen below $28,000 (£22,730) as regulatory action against the crypto industry intensifies and the US government announces a schedule to sell 41,490 BTC in 2023.</p>
+    </div>,
+    authorName: 'Brian McGleenon',
+    authorurl: 'https://www.yahoo.com/author/brian-mcgleenon',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 3, 2023 - 12:48 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-315.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <p>Bitcoin (BTC-USD) has fallen below $28,000 (£22,730) as regulatory action against the crypto industry intensifies and the US government announces a schedule to sell 41,490 BTC in 2023.</p>
+	    <p>The global cryptocurrency market cap stood at $1.21tn on Monday, a drop of 2.1%, according to Coingecko.</p>	
+	    <p>Bitcoin fell 2.2% to $27,887.</p>	
+	    <p>The recent price action has left bitcoin's market capitalisation at $538bn. But, bitcoin's price has risen by 67.76% so far this year.</p>
+      <p>Ethereum (ETH-USD) fell 1.27% to $1,790.</p>
+      <p>The Ethereum Foundation said last week that the blockchain's Shanghai hard fork, featuring an upgrade enabling investors to withdraw their staked ETH for the first time, is set for 12 April.</p>
+      <h3>US to sell over 41,000 bitcoin</h3>
+      <p>Last month, the US government sold $216m worth of bitcoin that it had seized during a November 2021 search connected to cryptocurrency that had been stolen from the Silk Road dark web marketplace.</p>
+      <p>The bitcoin sold was a portion of a 50,000 BTC haul that was seized following the arrest of James Zhong, who pleaded guilty to wire fraud after the government alleged he manipulated the transaction system on Silk Road in 2012.</p>
+      <p>The US government plans to sell the remaining 41,490 bitcoins in four separate portions throughout 2023, according to a court filing.</p>
+      <h3>Ripple versus the SEC</h3>
+      <p>XRP (XRP-USD) climbed 3.06% to $0.5192 — a 15.57% weekly increase.</p>
+      <p>It is thought that Ripple Labs, whose crypto payment platform utilises XRP, will soon resolve its ongoing legal battle with the US Securities and Exchange Commission (SEC).</p>
+      <p>The SEC has accused the company and its executives of violating securities regulations.</p>
+      <p>SEC chair Gary Gensler asked Congress for $2.4bn in funding last Wednesday to enhance the agency's efforts in combating cryptocurrency-related malpractices.</p>
+      <h3>Binance versus the CFTC</h3>
+      <p>The cryptocurrency market has experienced instability due to last week's litigation from US regulators against crypto exchange Binance.</p>
+      <p>Last Monday, the US Commodities Futures Trading Commission (CFTC) filed an enforcement action against Binance and its founder Changpeng 'CZ' Zhao.</p>
+      <p>According to the CFTC, which has been investigating Binance’s business since 2021, the company failed to meet its regulatory obligations by not properly registering with the derivatives regulator.</p>
+      <p>The CFTC classifies bitcoin (BTC-USD), ethereum (ETH-USD) and litecoin (LTC-USD) as commodities and has accused Binance of conducting unregistered derivative trading with these digital assets.</p>
+      <p>Binance founder Changpeng “CZ” Zhao has also been accused of encouraging Americans to “evade compliance controls” by the US regulator.</p>
+      <h3>UK banks restricting web3 firms, claims report</h3>
+      <p>The UK cryptocurrency sector is finding it increasingly difficult to access banking services, with restrictions on web3 firms holding back Britain's aspiration to become a "global crypto hub", a new report has claimed.</p>
+      <p>The few banks that continue to collaborate with web3 businesses are requiring more extensive documentation, with problems ranging from having applications rejected to getting buried in paperwork, according to the report by Bloomberg.</p>
+      <p>Web3 firm SavingBlocks said it applied to nine banking service providers for a corporate account and was turned down by seven of them. Those that did offer services asked for "insurmountable" additional documentation.</p>
+      <p>“There aren’t many options available, most traditional banks won’t offer banking services to crypto firms," Edouard Daunizeau, SavingBlocks founder and CEO, told Bloomberg.</p>
+      <p>“With the recent string of events it will be even tougher, so we are now seeking licenses in France where we think it will be easier."</p>
+      <p>Some web3 founders have complained to the UK government, saying that the limitations contradict prime minister Rishi Sunak's intention to prioritise financial technology innovation and establish the UK as a global crypto hub.</p>
+      <p>“The UK banking reaction has been more acute than the EU one," Tom Duff-Gordon, vice president of international policy at Coinbase (COIN), told Bloomberg. He said that the European Union's efforts to create a digital asset framework make banks in other countries more open to working with crypto firms.</p>
+      <p>The European parliamentary committee approved the Markets in Crypto Assets (MiCA) legislation in October, with the final vote set to take place this month.</p>
+      <p>The UK is losing ground to the rest of Europe, according to the Bloomberg report, as data from PitchBook showed venture capital funding for UK digital asset companies has experienced a 94% decline over the past year.</p>
+      <p>The EU saw a 31% increase in investments during the same period.</p>
+      <h3>Equity markets</h3>
+      <p>US stocks advanced on Friday, as the Federal Reserve's preferred inflation measure indicated signs of cooling, and a potential end to the Fed's monetary tightening cycle.</p>
+      <p>The tech-heavy Nasdaq (^IXIC) increased by 1.7%, while the S&P 500 (^GSPC) and the Dow Jones Industrial Average (^DJI) gained 1.2% and 1.4%, respectively.</p>
+    </div>
+  },
+  {
+    id: 301,
+    title: 'EUR/USD Weekly Forecast – Euro Continues to Rally Into Resistance',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro has rallied significantly during the trading week to test the 1.09 level, an area that has been resistance previously, extending to the 1.10 level for selling pressure. Ultimately, this is a market that will continue to see a lot of noisy behavior in general, and therefore it’s not a huge surprise to see that we could fall from here. If we do, then it’s possible that the market could go down to the 1.07 level, followed by the 1.06 level, both of which are areas that we’ve seen a little bit of support at.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 31, 2023 - 6:26 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-312.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Weekly Technical Analysis</h3>
+	    <p>The Euro has rallied significantly during the trading week to test the 1.09 level, an area that has been resistance previously, extending to the 1.10 level for selling pressure. Ultimately, this is a market that will continue to see a lot of noisy behavior in general, and therefore it’s not a huge surprise to see that we could fall from here. If we do, then it’s possible that the market could go down to the 1.07 level, followed by the 1.06 level, both of which are areas that we’ve seen a little bit of support at.</p>
+	    <p>Keep in mind that the interest-rate situation in the United States continues to be parsed, and of course traders are still trying to figure out whether or not the Federal Reserve is going to continue to see a reason to tighten monetary policy. Ultimately, this is a situation where we also have to worry about risk appetite, because if things get truly ugly, the US dollar continues to see money running into the currency to get into the bond market for safety.</p>	
+	    <p>On the other hand, if we do turn around and break above the 1.11 level, then it opens up a much bigger move to the upside. While this has been a big move higher, I also recognize that we are still below the 200-Week EMA, and of course have had a nice bounce, but were still just around the 50% Fibonacci level of the overall selloff that happened previously. Another thing to be concerned about is the fact that there are still quite a few issues in the banking sector, giving you the likelihood of the US dollar being a safe haven going forward.</p>	
+    </div>
+  },
+  {
+    id: 305,
+    title: 'Bitcoin, Ether fall; top 10 cryptos mixed; gold closes March 8% higher',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'gold', 'top 10'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether fell during Asian trading hours on Friday, while the rest of the top 10 non-stablecoin cryptocurrencies by market capitalization were mixed, amid mounting allegations against Binance – the world’s largest crypto exchange. Asian and European equities markets strengthened, mirroring Wall Street’s overnight rally, amid easing inflation in Europe and China’s economic recovery.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 31, 2023 - 2:39 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-316.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Bitcoin and Ether fell during Asian trading hours on Friday, while the rest of the top 10 non-stablecoin cryptocurrencies by market capitalization were mixed, amid mounting allegations against Binance – the world’s largest crypto exchange. Asian and European equities markets strengthened, mirroring Wall Street’s overnight rally, amid easing inflation in Europe and China’s economic recovery.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin fell 3.3% to US$27,760 in the 24 hours to 4:30 p.m. in Hong Kong. Ether slid 0.78% to US$1,792, according to CoinMarketCap data.</li>
+        <li>The day’s biggest winner Cardano’s ADA token rose 1.58% to trade at US$0.38. Polkadot’s DOT had the second biggest gain on the day, rising 1% to US$6.24.</li>
+        <li>The global cryptocurrency market capitalization decreased by 1.89% to US$1.17 trillion in the 24 hours to 4:30 p.m. in Hong Kong, while total crypto market trading volume decreased by 15.09% to US$44.07 billion.</li>
+        <li>The crypto market continues to factor in this week’s events when Binance was sued by the U.S. Commodity Futures Trading Commission for allegedly violating derivative rules, days before it was accused of obscuring its China ties. Binance has denied all allegations.</li>
+        <li>The Forkast 500 NFT index rose 0.52% on the day to 4,027.14 points, making for a weekly loss of 2.34%. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day.</li>
+        <li>Asian equities rallied on Thursday in line with the S&P 500 that rose 0.57% during the day. Retail sales in Hong Kong for February increased 9.6% year-on-year, the largest growth since February 2021.</li>
+        <li>Japan’s Nikkei 225 rose 0.93%, the Shanghai Composite gained 0.36%, the Shenzhen Component inched up 0.64% and Hong Kong’s Hang Seng Index strengthened 0.45% to close the day near a three-week high, bolstered by China’s economic recovery in March.</li>
+        <li>European bourses strengthened on Friday, with the STOXX 600 inching up 0.23% and the DAX 40 rising 0.45%. Year-on-year consumer price inflation in the Eurozone for March declined to 6.9%, the lowest since February 2022 and stood below market expectations of 7.1%.</li>
+        <li>Gold largely traded flat on Friday at around US$1,980 per ounce. It gained over 8% in March as demand for safe-haven assets soared following global banking turmoil.</li>
+        <li>Seasonally-adjusted unemployment in the Euro area also declined to a record low of 6.6% for February, compared to 6.8% a year earlier.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 306,
+    title: 'US stocks and FTSE 100 higher as volatile first quarter wraps up',
+    category: 'Indices',
+    subCategory: ['US', 'Stocks', 'FTSE'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks finished higher this Friday as the UK economy grew by more than first thought in the fourth quarter of 2022.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 31, 2023 - 12:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-317.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>The FTSE 100 and European stocks finished higher this Friday as the UK economy grew by more than first thought in the fourth quarter of 2022.</p>
+	    <p>The FTSE 100 (^FTSE) rose 0.29% to close at 7,642 points, while the CAC 40 (^FCHI) in Paris climbed 1% to 7,336 points. In Germany, the DAX (^GDAXI) gained 0.83% to 15,652.</p>	
+	    <h3>UK avoids recession</h3>
+      <p>Revised figures from the Office for National Statistics (ONS) confirmed that the UK economy avoided recession in the second half of last year, posting 0.1% growth in the fourth quarter.</p>	
+	    <p>The economy shrank in the third quarter of last year, but Friday’s data confirmed that the economy did not shrink for two successive quarters, which is the technical definition of recession.</p>
+      <p>Gabriella Dickens at Pantheon Macroeconomics noted the UK is still is the only G7 economy in which GDP has not yet recovered to the same level as quarter four of 2019, before the pandemic struck.</p>
+      <p>“Indeed, GDP still was 0.6% lower than it was three years ago in the UK, whereas it was 5.1% higher in the US, 2.9% higher in Canada, 0.8% in Japan, 1.2% in France, 1.9% in Italy and just back in line in Germany,” she said.</p>
+      <p>The dominant services sector grew by 0.1%, boosted by a jump of nearly 11% for travel agents.</p>
+      <p>Manufacturing was up by 0.5%, driven by the pharmaceutical sector, and construction grew 1.3%.</p>
+      <p>ONS director of economic statistics Darren Morgan said: “The economy performed a little more strongly in the latter half of last year than previously estimated, with later data showing telecommunications, construction and manufacturing all faring better than initially thought in the latest quarter."</p>
+      <h3>US and Asia</h3>
+      <p>Wall Street pushed higher on Friday as the final trading day of an eventful first quarter got underway.</p>
+      <p>The Dow Jones (^DJI) rose 0.73% to 33,098 points. The S&P 500 (^GSPC) climbed 0.77% to 4,082 points and the tech-heavy NASDAQ (^IXIC) gained 0.99% to 12,132.</p>
+      <p>Stock futures perked up on Friday morning after inflation data showed further cooling in the personal consumption expenditures (PCE) index, which is the Fed's preferred measure of inflation.</p>
+      <p>In February, "core" PCE, which strips out the more volatile costs of food and energy, rose 0.3% over the prior month and 4.6% over last year, with the annual increase coming in below Wall Street expectations for a 4.7% rise.</p>
+      <p>A slowdown in inflation could ease pressure the Federal Reserve feels to continue with its rate-hiking campaign, which Fed officials earlier this week suggested will likely continue this spring given price increases that remain too high and a bank crisis that has shown signs of ebbing.</p>
+      <p>In Asia, Tokyo’s Nikkei 225 (^N225) gained 0.93% to 28,041 points, while the Hang Seng (^HSI) in Hong Kong rose 0.74% to 20,459. The Shanghai Composite (000001.SS) also gained ground, rising 0.36% to 3,272 points.</p>
+      <h3>FTSE 100</h3>
+      <p>Back in London, shares in Ocado Group (OCDO.L) rose 2.27% after it said had "comprehensively won" the patent infringement suit brought by AutoStore (AUTO.OL).</p>
+      <p>Miner Rio Tinto (RIO.L) rose 0.86% after signing a joint venture with Canada's First Quantum Minerals (FM.TO) to develop the La Granja copper project in Peru.</p>
+      <p>Rolls-Royce (RR.L) saw shares jump after it announced a new chief financial officer (CFO). The new boss of Rolls-Royce hired Helen McCabe from his alma mater BP (BP.L) as CFO. However, the stock was trading at a loss in afternoon trading and closed 0.69% lower.</p>
+      <h3>Pound vs dollar</h3>
+      <p>The pound (GBPUSD=X) was flat against the dollar, trading around $1.23.</p>
+      <p>It was also weaker against the euro, with sterling (GBPEUR=X) hovering around €1.13.</p>
+      <p>Francesco Pesole, FX strategist at ING, said: “The pound is set to be the best-performing currency of the first quarter of 2023, having gained 2.5% against the dollar”.</p>
+      <p>“Along with the improvement in the economic outlook, sterling is definitely drawing benefits from the market’s conviction that the Bank of England will need to continue raising rates.”</p>
+      <h3>Oil markets</h3>
+      <p>Meanwhile, Brent crude (BZ=F) lost ground and was trading at around $79 per barrel, as traders await the release of the personal consumption expenditures index on Friday, an indicator of US inflation that is certain to move oil prices.</p>
+      <p>Fear of supply disruptions continues to dominate the global oil market, so Brent is set to end the week higher despite the volatility.</p>
+    </div>
+  },
+  {
+    id: 311,
+    title: 'Natural Gas Was a Big Loser Among Commodities in the Quarter. Gold and Steel Bucked the Trend.',
+    category: 'Commodities',
+    subCategory: ['Natural', 'Gas', 'Gold'],
+    description: <div className="blog-desc">
+      <p>The energy sector led the decline among commodities in the first quarter. Bucking the trend: copper, gold, steel, and iron ore.</p>
+    </div>,
+    authorName: 'Myra P. Saefong',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Mar 31, 2023 - 10:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-322.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+    	<p>The energy sector led the decline among commodities in the first quarter. Bucking the trend: copper, gold, steel, and iron ore.</p>
+    	<p>Commodities declined in the first quarter, with the energy sector leading the way as markets were jolted in March by sudden stress in the U.S. banking system. Prices for natural gas lost more than half of their value and touched their lowest level in more than two years.</p>	
+	    <p>Fear that interest rates will be higher for longer quickly transitioned to views that there will be cuts in rates, says Albert Chu, portfolio manager at Newton Investment Management. That led to growth areas like technology getting a “bid at the expense of ‘value’ assets,” while fears of a banking contagion also started to dent demand.</p>
+    </div>
+  },
+  {
     id: 291,
     title: 'Arbitrum [ARB] dApps show growth, but protocol has a long road ahead',
     category: 'Crypto',
@@ -188,7 +687,7 @@ const blogListdata = [
   {
     id: 285,
     title: 'Gold pulls back as banking jitters ease',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'Banking', 'Metal'],
     description: <div className="blog-desc">
       <p>(Reuters) - Gold prices retreated on Wednesday as investors trickled back into riskier assets betting that risks of contagion from the global banking crisis have been curbed for now.</p>
@@ -476,7 +975,7 @@ const blogListdata = [
   {
     id: 286,
     title: 'Gold ETFs Spike as Banking Fears Spread',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'ETFs', 'Banking'],
     description: <div className="blog-desc">
       <p>Investors are flocking to gold exchange-traded funds following weakness in the banking sector and a subsequent slump in confidence.</p>
@@ -1829,7 +2328,7 @@ const blogListdata = [
   {
     id: 252,
     title: 'Will Silver ETFs Outshine Gold ETFs Ahead?',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Silver', 'ETFs', 'Gold'],
     description: <div className="blog-desc">
       <p>Precious metals like gold and silver have been rallying lately. This is because investors have been seeking safe-haven investments amid growing risks emanating from the banking crisis in the United States and Europe, high inflation, hawkish central banks, fear of prolonged global growth slowdown and the ongoing uncertainty surrounding U.S.-China relations as well as the Russia-Ukraine war.</p>
@@ -2092,7 +2591,7 @@ const blogListdata = [
   {
     id: 253,
     title: 'Gold eases from key $2,000 level as dollar firms',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'Dollar', 'firms'],
     description: <div className="blog-desc">
       <p>(Reuters) - Gold dipped on Friday in a volatile week that saw bullion prices north of the key $2,000 figure as bank contagion fears bolstered both safe-haven demand and bets on a pause in Federal Reserve rate hikes.</p>
@@ -2121,7 +2620,7 @@ const blogListdata = [
   {
     id: 254,
     title: 'Shaky Banking Sector Pushes Gold Past $2,000',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'Banking', 'shaky'],
     description: <div className="blog-desc">
       <p>Rising interest rates have been putting downward pressure on gold, but the shaky banking sector recently pushed prices past the $2,000 mark. With investor confidence in banks waning, this could continue to bolster gold prices as they seek to add precious metals for safety.</p>
@@ -2529,7 +3028,7 @@ const blogListdata = [
   {
     id: 255,
     title: 'Gold rush still on for 2023, precious metals outperforming market last 6 months',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'Metals', 'market'],
     description: <div className="blog-desc">
       <p>Despite ongoing market volatility and a sluggish start to 2023, the price of gold and silver continues to outperform on Wall Street while maintaining an upward trend towards historic highs.</p>
@@ -2561,7 +3060,7 @@ const blogListdata = [
   {
     id: 256,
     title: 'Gold: Money from banking system absolutely did move away into gold, says strategist',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'Money', 'Banking'],
     description: <div className="blog-desc">
       <p>Gold bugs have been waiting for this moment. The precious metal touched $2,000 an ounce on Monday amid a wobbly banking sector, elevated inflation, and expectations of a 25 basis point rate hike (or none at all) at the next Fed meeting.</p>
@@ -2754,7 +3253,7 @@ const blogListdata = [
   {
     id: 257,
     title: 'Gold is Pushing $2000: 2 Stocks to Trade the Breakout',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'stocks', 'Trade`'],
     description: <div className="blog-desc">
       <p>High inflation, a banking crisis, rising interest rates, and geopolitical tensions; it’s no wonder gold is finding a bid. Is this rally going to fade or is it signal of what is to come?</p>
@@ -2842,7 +3341,7 @@ const blogListdata = [
   {
     id: 260,
     title: 'Gold drops from 1-year peak as banking fragility drives wild swings',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'Banking', 'peak'],
     description: <div className="blog-desc">
       <p>(Reuters) - Gold prices retreated from their highest level in a year in volatile trading on Monday, as share markets and Treasury yields bounced back on central banks' efforts to shore up confidence in the financial sector.</p>
@@ -2872,7 +3371,7 @@ const blogListdata = [
   {
     id: 258,
     title: 'Can Gold ETFs Continue Their Winning Run?',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'ETFs', 'Market'],
     description: <div className="blog-desc">
       <p>After wild swings, gold showed a strong rebound last week. SPDR Gold Shares GLD added more than 4% last week and 7.3% past month. The subdued U.S. dollar and a decline in U.S. treasury bond yields bolstered the demand for the yellow metal. Additionally, the demand for inflation hedge and growing recession fears are driving investors toward gold, as it is considered a safe haven.</p>
@@ -2899,7 +3398,7 @@ const blogListdata = [
   {
     id: 259,
     title: 'Gold Declines as Traders Assess Banking Crisis, Fed Rate Path',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['Gold', 'Banking', 'Trade'],
     description: <div className="blog-desc">
       <p>(Bloomberg) -- Gold slipped after earlier rising above $2,000 an ounce for the first time in a year as a deal to buy Credit Suisse Group AG failed to fully ease fears over the global banking sector.</p>
@@ -3677,7 +4176,7 @@ const blogListdata = [
   {
     id: 261,
     title: 'Expansion Plans to Drive Southern Copper (SCCO), Costs Ail',
-    category: 'Metals',
+    category: 'Commodities',
     subCategory: ['SCCO', 'Expansion', 'plans'],
     description: <div className="blog-desc">
       <p></p>
