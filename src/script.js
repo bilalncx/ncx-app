@@ -75,6 +75,15 @@ $(document).ready(function(){
       $("#usdc_btn").addClass("active_usdc");
       $(".table_search_tabs button").removeClass("active_btc active_usd active_usdt active_all");
     });
+
+    if($("#usd_btn").hasClass("active_usd")){
+      $("#ncx_market_table tr:nth-child(10").css("display: none");
+      console.log("hide");
+      $("#ncx_market_table tr:nth-child(12").hide();
+      $("#ncx_market_table tr:nth-child(35").hide();
+      $("#ncx_market_table tr:nth-child(37").hide();
+      $("#ncx_market_table tr:nth-child(38").hide();
+    }
 });
 
 
