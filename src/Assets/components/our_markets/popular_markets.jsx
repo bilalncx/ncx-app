@@ -26,22 +26,21 @@ function MarketPage(){
         
         const name = Pairs.id;
         const strname = name.replace(/_/g, " / ");  
-        // const coinname = name.replace(/string/g, "");
         
         const price = Pairs.last;
-        const priced = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const fixedNum = parseFloat(price).toFixed(2);
         
         const change = Pairs.percentChange;
-        const changed = change.toLocaleString('en-US');
+        const changed = parseFloat(change).toFixed(4);
 
         const hig = Pairs.high24hr;
-        const high = hig.toLocaleString('en-US');
+        const high = parseFloat(hig).toFixed(4);
         
         const loo = Pairs.low24hr;
-        const low = loo.toLocaleString('en-US');
+        const low = parseFloat(loo).toFixed(4);
 
         const quote = Pairs.quoteVolume;
-        const volume = quote.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const volume = parseFloat(quote).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
         container.innerHTML += `
 
@@ -55,8 +54,8 @@ function MarketPage(){
                     <h2>${strname}</h2>
                 </td>
                 <td class="latest_price">
-                    <h2>${priced}</h2>
-                    <p>≈${priced}</p>
+                    <h2>${price}</h2>
+                    <p>≈${price}</p>
                 </td>
                 <td class="latest_change">
                     <h2>${changed}<span>%</span></h2>
@@ -105,7 +104,7 @@ function MarketPage(){
                             <th>Change</th>
                             <th>High [24H]</th>
                             <th>Low [24H]</th>
-                            <th>Price Trend [72H]</th>
+                            <th>Price Trend</th>
                             <th>24H Volume</th>
                         </tr>
                     </thead>

@@ -6,9 +6,13 @@ import BackVideo from '../../images/ncx-firstslidervideo.mp4';
 import {ReactComponent as Icon} from '../../images/ncx-staricon.svg';
 import OTCSecrtion from '../../components/homepage/NCXOTC/otc';
 import Button from "@mui/material/Button";
+import { useTranslation } from "react-i18next";
 
 function NCXOTCPage()
 {
+
+    const { t } = useTranslation();
+
     return(
         <div id="ncxotc-page">
             <MyHeader />
@@ -27,15 +31,15 @@ function NCXOTCPage()
                     <div className="welcomeotc row">
                         <div className="col">
                             <Icon />
-                            <h1>Welcome to NCX OTC</h1>
-                            <p>Tight spreads, Deep Liquidity, Instant settlement</p>
-                            <Button href="mailto:support@ncx.cx">Contact Us</Button>
+                            <h1>{t("welcome_ncx_otc")}</h1>
+                            <p>{t("otc_text")}</p>
+                            <Button href="mailto:support@ncx.cx">{t("contact_us")}</Button>
                         </div>
                         <div className="col why-choose-otc">
-                            <h1>Why choose NCX OTC</h1>
-                            <p>In order to meet the specific needs of financial institutions and high net worth individuals, NCX OTC launches block trading service, providing deep liquidity and personalized service. We communicate with major global liquidity pools to provide the most competitive quotations, while ensuring transaction privacy and security.</p>
-                            <p>NCX OTC avoids the impact of large orders on the price fluctuations in the open market, and provides more professional, personalized, private and secure services for institutions or individuals with professional trading needs.</p>
-                            <p>The current minimum amount for a single transaction is USD 100,000.</p>
+                            <h1>{t("why_choose_otc")}</h1>
+                            <p>{t("why_choose_otc_text_1")}</p>
+                            <p>{t("why_choose_otc_text_2")}</p>
+                            <p>{t("why_choose_otc_text_3")}</p>
                         </div>
                     </div>
                 </div>

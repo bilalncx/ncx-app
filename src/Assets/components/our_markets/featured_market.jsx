@@ -12,39 +12,46 @@ function MarketPage(){
     .then(json => {
 
     const trending = document.querySelector('#featured_slider .slider_market');
+    const mobiletrending = document.querySelector('#featured_slider_mobile .slider_market');
     const pairs = Object.getOwnPropertyNames(json);
 
     if (pairs) {
         hideloader();
+    } 
+    if(pairs){
+        hideloadermobile();
     }
+
 
     // Function to hide the loader
     function hideloader() {
         document.getElementById('loading_vv').style.display = 'none';
+    }
+    function hideloadermobile() {
+        document.getElementById('loading_vv_mobile').style.display = 'none';
     }
 
     for (let pair of pairs) {
 
         const Pairs = json[`${pair}`];
         
-        const name = Pairs.id;  
-        const strname = name.replace(/_/g, " / ");
-        // const coinname = name.replace(/string/g, "");
+        const name = Pairs.id;
+        const strname = name.replace(/_/g, " / ");  
         
         const price = Pairs.last;
-        // const priced = price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const fixedNum = parseFloat(price).toFixed(2);
         
         const change = Pairs.percentChange;
-        const changed = change.toLocaleString('en-US');
+        const changed = parseFloat(change).toFixed(4);
 
         const hig = Pairs.high24hr;
-        const high = hig.toLocaleString('en-US');
+        const high = parseFloat(hig).toFixed(4);
         
         const loo = Pairs.low24hr;
-        const low = loo.toLocaleString('en-US');
+        const low = parseFloat(loo).toFixed(4);
 
         const quote = Pairs.quoteVolume;
-        const volume = quote.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const volume = parseFloat(quote).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
         trending.innerHTML += `
                 <div class="slide">
@@ -64,11 +71,30 @@ function MarketPage(){
                     </div>
                 </div>
         `;
+
+        mobiletrending.innerHTML += `
+        <div class="slide">
+            <div class="featured_market">
+                <p class="fet_tag">Featured</p>
+                <div class="trend_pairs">
+                    <h1>${strname}</h1>
+                    <p>${changed}</p>
+                </div>
+                <div class="price_graph">
+                <div class="prix">
+                    <h3>${price}</h3>
+                    <p>≈${price}</p>
+                </div>
+                <img src="https://ncx.cx/images/market-graph.png" alt="graph_ncx" />
+            </div>
+            </div>
+        </div>
+`;
     }
 });
     return(              
         <div className="trending_markets">
-            <div className="container">
+            <div className="container desktop">
                 <div className='spiner_div'>
                     <div class="spinner-border" 
                         role="status" id="loading_vv">
@@ -78,6 +104,36 @@ function MarketPage(){
             <CarouselProvider
                 id="featured_slider"
                 visibleSlides={5}
+                totalSlides={50}
+                dragStep={1}
+                // naturalSlideWidth={264}
+                // naturalSlideHeight={300}
+                naturalSlideWidth={300}
+                isPlaying={true}
+                interval={4000}
+                orientation="horizontal"
+                infinite
+                loop
+                moveThreshol={0.5}
+                transition="all 4s"
+                playDirection="forward"
+            >
+                <Slider className="slider">
+                    <Slide className='slider_market'>
+                    </Slide>
+                </Slider>
+            </CarouselProvider>
+            </div>
+            <div className="container mobile">
+                <div className='spiner_div'>
+                    <div class="spinner-border" 
+                        role="status" id="loading_vv_mobile">
+                        <span class="sr-only">Loading...</span>
+                    </div>
+                </div>
+            <CarouselProvider
+                id="featured_slider_mobile"
+                visibleSlides={2}
                 totalSlides={50}
                 dragStep={1}
                 // naturalSlideWidth={264}

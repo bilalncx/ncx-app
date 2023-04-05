@@ -1,7 +1,7 @@
-#ncxAmbassador-page header#header-row {
+/* #ncxAmbassador-page header#header-row {
     background: transparent !important;
     background-color: transparent !important;
-}
+} */
 #ncxAmbassador-page header#header-row.darkheader{
     background: #000000 !important;
     background-color: #000000 !important;
@@ -64,4 +64,99 @@
 }
 .txt44 {
     margin-bottom: 30px;
+}
+
+/* Crypto Debit/credit Card Section */
+.ambassador_card.row {
+    margin: 0px;
+    display: flex;
+    filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.08));
+    background: #FFFFFF;
+}
+.col.card_txt {
+    width: 31%;
+    padding: 5% 5%;
+    flex: inherit;
+    position: relative;
+}
+.col.card_txt .inns-div {
+    max-width: 370px;
+    height: fit-content;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.col.card_imga {
+    width: 36%;
+    padding: 0px;
+    flex: inherit;
+    filter: drop-shadow(30px 0px 80px rgba(0, 0, 0, 0.11));
+}
+.col.card_imgb {
+    width: 33%;
+    padding: 0px;
+    flex: inherit;
+    background: #DBDCDE;
+}
+.col.card_imga img, .col.card_imgb img {
+    width: 100%;
+}
+.col.card_txt h1 {
+    font-size: 42px;
+    font-family: 'urbanist-regular';
+    line-height: 46px;
+    margin-bottom: 10px;
+}
+.col.card_txt p{
+    font-size: 16px;
+    font-family: 'hauora-light';
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.bbttn {
+    display: flex;
+    column-gap: 10px;
+    margin-top: 40px;
+}
+a.card_apply {
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    background: linear-gradient(180deg, #9452EC 0%, #6552C7 100%);
+    border-radius: 40px;
+    color: #FFFFFF;
+    width: 160px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a.card_apply:hover, a.card_apply:focus, a.card_apply:focus-visible,
+a.card_learn:hover, a.card_learn:focus, a.card_learn:focus-visible{
+    outline: none;
+    text-decoration: none;
+}
+a.card_learn {
+    font-size: 14px;
+    font-family: 'urbanist-regular';
+    background: #F0F0F1;
+    border-radius: 40px;
+    color: #000000;
+    width: 160px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ncxAmbassador-page .ambassadordiv{
+    display: none;
+}
+@media screen and (max-width: 800px){
+    .crypto_card {
+        display: none;
+    }
+    #ncxAmbassador-page .ambassadordiv{
+        display: block;
+    }
 }

@@ -231,7 +231,7 @@ function WhatweDoSection(){
                                         preload="auto"
                                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                                     >
-                                    <source src={require('../../../images/buy_crypto_homevideo.mp4')} type="video/mp4" />
+                                    <source src={require('../../../images/ncx_poweredby.mp4')} type="video/mp4" />
                                 </video>
                                 </div>
                             </div>
@@ -274,7 +274,7 @@ function WhatweDoSection(){
                                             preload="auto"
                                             poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                                         >
-                                        <source src={require('../../../images/buy_crypto_homevideo.mp4')} type="video/mp4" />
+                                        <source src={require('../../../images/ncx_poweredby.mp4')} type="video/mp4" />
                                     </video>
                                     {/* <img className="cardtr-image" src={NCXCardTrade} /> */}
                                 </div>
