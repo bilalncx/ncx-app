@@ -11,8 +11,12 @@ import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
 import { ReactComponent as OTC7 } from '../../../images/icon-4.svg';
 import { ReactComponent as OTC8 } from '../../../images/ncx-otc7.svg';
 import NCXLogo from '../../../images/ncx-black-logo.svg';
+import { useTranslation } from "react-i18next";
 
-function NCXhomepageOTCSection(){
+function NCXhomepageOTCSection()
+{
+    const { t } = useTranslation();
+
     return(
         <div id="solutions_institutional" className="ncxotcsection">
             <div className="container">
@@ -20,11 +24,11 @@ function NCXhomepageOTCSection(){
                     <AnimationOnScroll animateIn="animate__fadeIn">
                         <div className="ncx-otc">
                             <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo" />
-                            <p className="insta-head">Institutional</p>
+                            <p className="insta-head">{t("institutional")}</p>
                         </div>
                     </AnimationOnScroll>
                     <AnimationOnScroll className="advanta_our" animateIn="animate__fadeIn">
-                        <h2>Our Advantages</h2>
+                        <h2>{t("our_advantages")}</h2>
                     </AnimationOnScroll>
                 </div>
                 <div className="OTCsect row advantages1">
@@ -34,8 +38,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Compliance</h2>
-                                <p>NCX commits to safety and compliance. Our extensive compliance program is designed to be on par with the world’s leading regulatory and industry best practices.  NCX’s risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                                <h2>{t("compliance")}</h2>
+                                <p>{t("compliance_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC4 />
@@ -48,8 +52,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Comprehensive</h2>
-                                <p>NCX understands the importance of blockchain asset security and values user’s asset security as the top priority when comes to platform development. We always strive to provide and explore the safest and most comprehensive financial solutions.</p>
+                                <h2>{t("comprehensive")}</h2>
+                                <p>{t("comprehensive_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC5 />
@@ -62,8 +66,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Risk Management</h2>
-                                <p>NCX  offers a convenient GUI interface to monitor and analyze the risk exposures, PnL and all trading activities in real-time, based on data-driven intelligent technology, from one centralized environment. Comprehensive risk management and risk analytical insights, risk alerts, complex simulations and stress-testing on trading data with forecasting capabilities, hedging and other recommendations for actions.</p>
+                                <h2>{t("risk_management")}</h2>
+                                <p>{t("risk_management_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC2 />
@@ -79,8 +83,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>VIP Users can create up to 1,000 sub-accounts</h2>
-                                    <p>You can create multiple sub-accounts to invest and manage digital assets with your master account</p>
+                                    <h2>{t("vip_users_create_upto_1000_sub_accounts")}</h2>
+                                    <p>{t("vip_users_sub-accounts_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC3 />
@@ -95,8 +99,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Professional</h2>
-                                    <p>Our core value is to build strong relationships with our clients. We facilitate our clients to trade cryptocurrency products, optimize trading strategy, manage risk and access liquidity.</p>
+                                    <h2>{t("professional")}</h2>
+                                    <p>{t("professional_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC7 />
@@ -111,8 +115,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>API & SDK & COLO Service</h2>
-                                    <p>Access to high frequency and low latency trading services with widely used programming languages.</p>
+                                    <h2>{t("api_sdk_colo_service")}</h2>
+                                    <p>{t("api-sdk-colo-text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC1 />
@@ -129,8 +133,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Derivatives Market</h2>
-                                    <p>NCX offers over 500 Derivatives Trading Pairs, from Cryptocurrencies to Stocks, Currencies and Commodities, alongside</p>
+                                    <h2>{t("derivatives_market")}</h2>
+                                    <p>{t("derivatives_market_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC6 />
@@ -145,8 +149,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Spot Market</h2>
-                                    <p>Spot trade the trending crypto projects</p>
+                                    <h2>{t("spot_market")}</h2>
+                                    <p>{t("spot_market_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC8 />
@@ -163,8 +167,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Compliance</h2>
-                                <p>NCX commits to safety and compliance. Our extensive compliance program is designed to be on par with the world’s leading regulatory and industry best practices.  NCX’s risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                                <h2>{t("compliance")}</h2>
+                                <p>{t("compliance_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC4 />
@@ -177,8 +181,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Comprehensive</h2>
-                                <p>NCX understands the importance of blockchain asset security and values user’s asset security as the top priority when comes to platform development. We always strive to provide and explore the safest and most comprehensive financial solutions.</p>
+                                <h2>{t("comprehensive")}</h2>
+                                <p>{t("comprehensive_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC5 />
@@ -193,8 +197,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Risk Management</h2>
-                                <p>NCX  offers a convenient GUI interface to monitor and analyze the risk exposures, PnL and all trading activities in real-time, based on data-driven intelligent technology, from one centralized environment. Comprehensive risk management and risk analytical insights, risk alerts, complex simulations and stress-testing on trading data with forecasting capabilities, hedging and other recommendations for actions.</p>
+                                <h2>{t("risk_management")}</h2>
+                                <p>{t("risk_management_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC2 />
@@ -208,8 +212,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>VIP Users can create up to 1,000 sub-accounts</h2>
-                                    <p>You can create multiple sub-accounts to invest and manage digital assets with your master account</p>
+                                    <h2>{t("vip_users_create_upto_1000_sub_accounts")}</h2>
+                                    <p>{t("vip_users_sub-accounts_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC3 />
@@ -226,8 +230,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Professional</h2>
-                                    <p>Our core value is to build strong relationships with our clients. We facilitate our clients to trade cryptocurrency products, optimize trading strategy, manage risk and access liquidity.</p>
+                                    <h2>{t("professional")}</h2>
+                                    <p>{t("professional_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC7 />
@@ -242,8 +246,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>API & SDK & COLO Service</h2>
-                                    <p>Access to high frequency and low latency trading services with widely used programming languages.</p>
+                                    <h2>{t("api_sdk_colo_service")}</h2>
+                                    <p>{t("api-sdk-colo-text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC1 />
@@ -260,8 +264,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Derivatives Market</h2>
-                                    <p>NCX offers over 500 Derivatives Trading Pairs, from Cryptocurrencies to Stocks, Currencies and Commodities, alongside</p>
+                                    <h2>{t("derivatives_market")}</h2>
+                                    <p>{t("derivatives_market_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC6 />
@@ -276,8 +280,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Spot Market</h2>
-                                    <p>Spot trade the trending crypto projects</p>
+                                    <h2>{t("spot_market")}</h2>
+                                    <p>{t("spot_market_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC8 />

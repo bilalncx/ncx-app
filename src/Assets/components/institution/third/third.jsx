@@ -4,8 +4,12 @@ import '../../homepage/accordian/accordian.css';
 import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import NCXLogo from '../../../images/NCX-logo.svg';
+import { useTranslation } from "react-i18next";
 
 function Accordian() {
+
+    const { t } = useTranslation();
+
     const [selected, setselected] = useState(null);
     const toggle = (i) => {
         if(selected === i){
@@ -34,7 +38,7 @@ function Accordian() {
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="ncx-otc">
                                 <img className="ncx-whitelogo" src={NCXLogo} alt="ncx-whitelogo" />
-                                <p>Trading Solutions</p>
+                                <p>{t("trading_solutions")}</p>
                             </div>
                         </AnimationOnScroll>
                     </div>

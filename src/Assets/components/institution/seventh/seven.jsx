@@ -9,10 +9,12 @@ import { ReactComponent as OTC2 } from '../../../images/ncx-otc2.svg';
 import { ReactComponent as OTC4 } from '../../../images/ncx-otc4.svg';
 import { ReactComponent as OTC5 } from '../../../images/ncx-otc5.svg';
 import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
-
+import { useTranslation } from "react-i18next";
 
 function NCXAssetManagement()
 {
+    const { t } = useTranslation();
+
     const [selected, setselected] = useState(null);
     const toggle = (i) => {
         if(selected === i){
@@ -41,7 +43,7 @@ function NCXAssetManagement()
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <div className="ncx-otc">
                                 <img className="ncx-whitelogo" src={NCXLogo} alt="ncx-whitelogo" />
-                                <p>Assets Management</p>
+                                <p>{t("assets_management")}</p>
                             </div>
                         </AnimationOnScroll>
                     </div>
@@ -69,7 +71,7 @@ function NCXAssetManagement()
                 </div>
 
                 <div className="our_advantages">
-                    <h1>Our Advantages</h1>
+                    <h1>{t("our_advantages")}</h1>
                     <div className="OTCsect row">
                         <div className="col">
                             <div className="otc-linediv">
@@ -77,8 +79,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Fast Settlement</h2>
-                                    <p>Our funds clearing and asset settlement can be finished within minutes after the transaction is completed, safe and efficient. Transaction data is not publicly available and is anonymous and secure.</p>
+                                    <h2>{t("fast_settlement")}</h2>
+                                    <p>{t("fast_settlement_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC4 />
@@ -91,8 +93,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Regulatory Compliance</h2>
-                                    <p>NCX extensive compliance program is designed to be on the level with the world’s leading regulatory and industry best practices. Our risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                                    <h2>{t("regulatory_compliance")}</h2>
+                                    <p>{t("regulatory_compliance_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC5 />
@@ -105,8 +107,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Cryptocurrency Miners</h2>
-                                    <p>Custody and Asset Management Service help Cryptocurrency Miners safeguard their mining rewards and ensure the mining rewards are disseminated to their clients without any operation surprises.</p>
+                                    <h2>{t("cryptocurrency_miners")}</h2>
+                                    <p>{t("cryptocurrency_miners_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC6 />
@@ -119,8 +121,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Corporations</h2>
-                                    <p>More and more corporations are starting to allocate cash to digital assets and cryptocurrencies as part of their corporate treasury strategy. Custody and Asset Management Service support corporations to safeguard their digital assets on their balance sheet to hedge against inflation.</p>
+                                    <h2>{t("corporations")}</h2>
+                                    <p>{t("corporations_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC2 />
@@ -135,8 +137,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Fast Settlement</h2>
-                                    <p>Our funds clearing and asset settlement can be finished within minutes after the transaction is completed, safe and efficient. Transaction data is not publicly available and is anonymous and secure.</p>
+                                    <h2>{t("fast_settlement")}</h2>
+                                    <p>{t("fast_settlement_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC4 />
@@ -149,8 +151,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Regulatory Compliance</h2>
-                                    <p>NCX extensive compliance program is designed to be on the level with the world’s leading regulatory and industry best practices. Our risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                                    <h2>{t("regulatory_compliance")}</h2>
+                                    <p>{t("regulatory_compliance_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC5 />
@@ -165,8 +167,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Cryptocurrency Miners</h2>
-                                    <p>Custody and Asset Management Service help Cryptocurrency Miners safeguard their mining rewards and ensure the mining rewards are disseminated to their clients without any operation surprises.</p>
+                                    <h2>{t("cryptocurrency_miners")}</h2>
+                                    <p>{t("cryptocurrency_miners_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC6 />
@@ -179,8 +181,8 @@ function NCXAssetManagement()
                             </div>
                             <div className="txtimgsect">
                                 <div className="otctxt">
-                                    <h2>Corporations</h2>
-                                    <p>More and more corporations are starting to allocate cash to digital assets and cryptocurrencies as part of their corporate treasury strategy. Custody and Asset Management Service support corporations to safeguard their digital assets on their balance sheet to hedge against inflation.</p>
+                                    <h2>{t("corporations")}</h2>
+                                    <p>{t("corporations_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC2 />

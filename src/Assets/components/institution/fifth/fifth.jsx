@@ -2,9 +2,12 @@ import { React, useState } from 'react'
 import './fifth.css'
 import '../../homepage/accordian/accordian.css';
 import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
+import { useTranslation } from "react-i18next";
 
 function Accordian()
 {
+    const { t } = useTranslation();
+
     return(
         <div id="exclusive_rates">
             <div className="backgrdound-video">
@@ -20,40 +23,40 @@ function Accordian()
                 </video>
             </div>
             <div className="container">
-                <h1 className='exclusive'>Exclusive Rates</h1>
+                <h1 className='exclusive'>{t("exclusive_rates")}</h1>
                 <div className="exclusive_rates">
                     <div className="col">
-                        <h3>Spot fee rate</h3>
+                        <h3>{t("spot_fee_rate")}</h3>
                         <div className="rates_div">
                             <div className="marker_lowest">
                                 <h1>0.00%</h1>
-                                <p>Marker Lowest</p>
+                                <p>{t("marker_lowest")}</p>
                             </div>
                             <div className="marker_lowest">
                                 <h1>0.005%</h1>
-                                <p>Taker Lowest</p>
+                                <p>{t("taker_lowest")}</p>
                             </div>
                         </div>
                     </div>
                     <div className="col">
-                        <h3>Futures fee rate</h3>
+                        <h3>{t("future_fee_rate")}</h3>
                         <div className="rates_div">
                             <div className="marker_lowest">
                                 <h1>0.00%</h1>
-                                <p>Marker Lowest</p>
+                                <p>{t("marker_lowest")}</p>
                             </div>
                             <div className="marker_lowest">
                                 <h1>0.005%</h1>
-                                <p>Taker Lowest</p>
+                                <p>{t("taker_lowest")}</p>
                             </div>
                         </div>
                     </div>
                     <div className="col">
-                        <h3>Withdrawals</h3>
+                        <h3>{t("withdrawals")}</h3>
                         <div className="rates_div">
                             <div className="marker_lowest">
                                 <h1>0.02%</h1>
-                                <p>Withdrawal Fee Lowest</p>
+                                <p>{t("withdrawal_fee_lowest")}</p>
                             </div>
                         </div>
                     </div>

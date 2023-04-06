@@ -8,14 +8,19 @@ import { ReactComponent as OTC3 } from '../../../images/ncx-otc3.svg';
 import { ReactComponent as OTC4 } from '../../../images/ncx-otc4.svg';
 import { ReactComponent as OTC5 } from '../../../images/ncx-otc5.svg';
 import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
+import { useTranslation } from "react-i18next";
 
-function NCXhomepageOTCSection(){
+function NCXhomepageOTCSection()
+{
+
+    const { t } = useTranslation();
+
     return(
         <div id="solutions_institutional" className="ncxotcsection">
             <div className="container">
                 <div className="otclogo row">
                     <div className="ncx-otc solutions">
-                        <p>Solutions for Institutional Clients</p>
+                        <p>{t("solutions_institutional_clients")}</p>
                     </div>
                 </div>
                 <div className="OTCsect row">
@@ -25,8 +30,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Liquidity Program</h2>
-                                <p>Designed for market makers to enjoy attractive rebates or lower fees from trading in spot and futures markets</p>
+                                <h2>{t("liquidity_program")}</h2>
+                                <p>{t("liquidity_program_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC4 />
@@ -39,8 +44,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Broker Program</h2>
-                                <p>CBrokers can utilize our API products to manage sub-accounts and commissions</p>
+                                <h2>{t("broker_program")}</h2>
+                                <p>{t("broker_program_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC5 />
@@ -53,8 +58,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Access to DeFi</h2>
-                                <p>Compliance and AML policies and regulations are limiting Institutions from certain Decentralised Finance products, NCX acts as a professional licensed entity allowing Institutions full access to DeFi without risk of breaching the regulatory framework.</p>
+                                <h2>{t("access_defi")}</h2>
+                                <p>{t("access-defi_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC6 />
@@ -70,8 +75,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>OTC and Execution Services</h2>
-                                    <p>NCX offers private and personalized services to institutions and corporate entities to access deeper liquidity to fill large orders.</p>
+                                    <h2>{t("otc_execution_services")}</h2>
+                                    <p>{t("otc_execution_services_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC3 />
@@ -86,8 +91,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Custody and Assets Management</h2>
-                                    <p>NCX offers digital asset custody and asset management service for institutions to store and manage their digital assets on a professional platform.</p>
+                                    <h2>{t("custody_assets_management")}</h2>
+                                    <p>{t("custody_assets_management_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC2 />
@@ -102,8 +107,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Structured Product</h2>
-                                    <p>NCX structured products are crypto investments that provide predictable and superior returns fully customized to meet your specific objectives such as yield enhancement, capital protection, and leverage.</p>
+                                    <h2>{t("structured_product")}</h2>
+                                    <p>{t("structured_product_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC1 />
@@ -119,8 +124,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Liquidity Program</h2>
-                                <p>Designed for market makers to enjoy attractive rebates or lower fees from trading in spot and futures markets</p>
+                                <h2>{t("liquidity_program")}</h2>
+                                <p>{t("liquidity_program_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC4 />
@@ -133,8 +138,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Broker Program</h2>
-                                <p>CBrokers can utilize our API products to manage sub-accounts and commissions</p>
+                                <h2>{t("broker_program")}</h2>
+                                <p>{t("broker_program_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC5 />
@@ -149,8 +154,8 @@ function NCXhomepageOTCSection(){
                         </div>
                         <div className="txtimgsect">
                             <div className="otctxt">
-                                <h2>Access to DeFi</h2>
-                                <p>Compliance and AML policies and regulations are limiting Institutions from certain Decentralised Finance products, NCX acts as a professional licensed entity allowing Institutions full access to DeFi without risk of breaching the regulatory framework.</p>
+                                <h2>{t("access_defi")}</h2>
+                                <p>{t("access-defi_text")}</p>
                             </div>
                             <div className="otc-image">
                                 <OTC6 />
@@ -164,8 +169,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>OTC and Execution Services</h2>
-                                    <p>NCX offers private and personalized services to institutions and corporate entities to access deeper liquidity to fill large orders.</p>
+                                    <h2>{t("otc_execution_services")}</h2>
+                                    <p>{t("otc_execution_services_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC3 />
@@ -182,8 +187,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Custody and Assets Management</h2>
-                                    <p>NCX offers digital asset custody and asset management service for institutions to store and manage their digital assets on a professional platform.</p>
+                                    <h2>{t("custody_assets_management")}</h2>
+                                    <p>{t("custody_assets_management_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC2 />
@@ -198,8 +203,8 @@ function NCXhomepageOTCSection(){
                         <div className="txtimgsect">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
-                                    <h2>Structured Product</h2>
-                                    <p>NCX structured products are crypto investments that provide predictable and superior returns fully customized to meet your specific objectives such as yield enhancement, capital protection, and leverage.</p>
+                                    <h2>{t("structured_product")}</h2>
+                                    <p>{t("structured_product_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC1 />

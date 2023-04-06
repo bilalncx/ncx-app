@@ -294,7 +294,7 @@ p.fet_tag {
         width: 100% !important;
     }
     .table_search_tabs button{
-        font-size: 11px !important;
+        font-size: 10px !important;
         width: fit-content !important;
     }
     .table_search_tabs .col:nth-child(1){
