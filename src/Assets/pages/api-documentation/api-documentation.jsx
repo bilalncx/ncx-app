@@ -2,8 +2,12 @@ import React from "react";
 import '../privacy-policy/privacy-policy.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
+import { useTranslation } from "react-i18next";
 
 function PrivacyPolicy(){
+
+    const { t } = useTranslation();
+    
     return(
         <div className="cookie-policypage">
             <MyHeader />
