@@ -110,6 +110,18 @@ section.bg-dark {
 h1, h2, h3, h4, h5, p{
     margin: 0px;
 }
+.apps-divi svg:nth-child(1) {
+    display: none;
+}
+.appsttore svg:nth-child(3) {
+    display: none;
+}
+.appsttore img:nth-child(3) {
+    display: none;
+}
+.cryptopay svg:nth-child(1) {
+    display: none;
+}
 
 /************************** HomePage Fourth Market & Exchange Section Starts from here *************************/
 div#market .container {
