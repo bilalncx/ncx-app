@@ -1,13 +1,19 @@
-.token_first_sect{
-    background: url(../../../images/Token_bg.jpg);
-    background-color: #000000;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: auto;
+.ncx_token_aa {
     margin-top: -56px;
-    padding: 250px 0px 50px 0px;
+    position: relative;
+}
+video#token_video {
+    width: 100%;
+    max-height: 950px;
+    object-fit: cover;
+    object-position: center;
+}
+.token_first_sect{
+    width: 100%;
+    padding: 200px 0px 50px 0px;
     background-position: center;
+    position: absolute;
+    top: 0px;
 }
 .row:before, .row:after{
     display: none;
@@ -181,4 +187,55 @@ p.contributors {
 }
 .bonus_col {
     display: none;
+}
+
+@media screen and (max-width: 1240px){
+    .row.txxss {
+        margin-bottom: 150px;
+    }
+    .row.slider_countdown {
+        margin-bottom: 50px;
+    }
+    a.token_signin, a.claim_airdrop{
+        padding: 12px 20px;
+        font-size: 16px;
+    }
+    .txt112 h1{
+        width: 80%;
+    }
+}
+@media screen and (max-width: 1080px){
+    .row.txxss {
+        margin-bottom: 100px;
+    }
+    .row.slider_countdown {
+        margin-bottom: 30px;
+    }
+    .txt112 h1 {
+        width: 80%;
+        font-size: 22px;
+        line-height: 40px;
+    }
+    a.token_signin, a.claim_airdrop{
+        font-size: 14px;
+    }
+    .token_first_sect{
+        padding: 140px 0px 50px 0px;
+    }
+    .work a svg {
+        width: 30px;
+    }
+}
+@media screen and (max-width: 800px){
+    div#ncxtokenVieo {
+        display: none;
+    }
+    .token_first_sect{
+        position: relative;
+        background: url(../../../images/Token_bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 150px !important;
+        background-position: right;
+    }
 }

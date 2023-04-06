@@ -349,10 +349,10 @@ div#token_video .taskdiv.two{
 
 
 @media screen and (max-width: 800px){
-    .token_first_sect{
+    /* .token_first_sect{
         padding: 200px 0px 50px 0px !important;
         background-position: right !important;
-    }
+    } */
     .txxss .col:nth-child(2) {
         display: none;
     }
