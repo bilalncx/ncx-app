@@ -32,7 +32,7 @@ div#ncx_token_Page {
     background: #000000 !important;
     border: 1px solid #5ED3F0 !important;
     width: fit-content !important;
-    min-width: 72px !important;
+    min-width: 93px !important;
 }
 #ncx_token_Page .login-buttons a.launch-dex:hover{
     background: #5ED3F0 !important;

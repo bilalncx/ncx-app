@@ -48,7 +48,8 @@ header#header-row.darkheader{
 .signin{
     background: #34A9FF !important;
     color: #FFFFFF !important;
-    width: 90px !important;
+    min-width: 90px !important;
+    width: fit-content !important;
     height: 34px !important;
     border: 1.5px solid #34A9FF !important;
 }
@@ -485,6 +486,9 @@ a.header-more, li.main_title.white_bg:last-child a{
 #tran_lang h1{
     font-size: 15px;
     font-family: 'urbanist-regular' !important;
+}
+#ncx_token_Page #tran_lang h1{
+    min-width: 70px !important;
 }
 #language_trans{
     position: absolute;
