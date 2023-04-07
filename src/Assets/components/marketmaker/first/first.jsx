@@ -3,9 +3,12 @@ import '../../ambassador/first/first.css';
 import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import {ReactComponent as Icon} from '../../../images/ncx-staricon.svg';
 import Button from "@mui/material/Button";
+import { useTranslation } from "react-i18next";
 
 function FirstVideo()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="ambassadordiv">
                 <div className="backgrdound-video">
@@ -24,12 +27,12 @@ function FirstVideo()
                     <div className="ambassador row">
                         <div className="col">
                             <Icon />
-                            <h1>NCX Market Maker</h1>
+                            <h1>{t("ncx_marekt_maker")}</h1>
                             <div className="txt44">
-                                <p>Professional entities trading  with API services and reach a monthly trading volume of 5,000,000 USD in Spot/Derivatives markets can apply and become a Market Maker on NCX</p>
+                                <p>{t("ncx_market_maker_text")}</p>
                                 {/* <p>Ambassadors earn a passive income of 40-60% commission on trading fees of their affiliates</p> */}
                             </div>
-                            <Button href="#">Apply Now</Button>
+                            <Button href="#">{t("apply_now")}</Button>
                         </div>
                     </div>
                 </div>
