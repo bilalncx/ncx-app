@@ -13,6 +13,17 @@ function HomeNCXToken()
 
     return(
         <div id="presale_ncxT">
+            <video
+                id="NCX_Token_mobile"
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    preload="auto"
+                    poster="https://ncx.cx/images/ncx_line_poster.png"
+                    >
+                    <source src="https://ncx.cx/images/ncx-token-video.mp4" type="video/mp4" />
+                </video>
             <div className="container">
                 <div className="stake_ncx">
                     <NCXTokenLogo />

@@ -83,7 +83,7 @@ function MarketPage(){
                 <div class="price_graph">
                 <div class="prix">
                     <h3>${price}</h3>
-                    <p>≈${price}</p>
+                    <p>≈$${price}</p>
                 </div>
                 <img src="https://ncx.cx/images/market-graph.png" alt="graph_ncx" />
             </div>
@@ -161,5 +161,5 @@ export default MarketPage;
 
 $(".trend_pairs p").each(function() {
     var val = parseFloat($(this).text());
-    $(this).addClass(val < 0.0 ? 'negative' : 'positive');
+    $(this).addClass(val < 0 ? 'negative' : 'positive');
   });

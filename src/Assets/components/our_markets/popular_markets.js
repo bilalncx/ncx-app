@@ -55,18 +55,18 @@ function MarketPage(){
                 </td>
                 <td class="latest_price">
                     <h2>${price}</h2>
-                    <p>≈${price}</p>
+                    <p>≈$${fixedNum}</p>
                 </td>
                 <td class="latest_change">
                     <h2>${changed}<span>%</span></h2>
                 </td>
                 <td class="high_24">
                     <h2> ${high}</h2>
-                    <p>≈${high}</p>
+                    <p>≈$${high}</p>
                 </td>
                 <td class="low_24">
                     <h2>${low}</h2>
-                    <p>≈${low}</p>
+                    <p>≈$${low}</p>
                 </td>
                 <td class="quote_volume">
                     <h2>$${volume}</h2>

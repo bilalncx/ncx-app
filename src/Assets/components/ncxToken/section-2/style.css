@@ -117,6 +117,9 @@
 p.height_q {
     height: 91px;
 }
+video#NCX_Token_mobile {
+    display: none;
+}
 @media screen and (max-width: 800px){
     .tokentable-stake{
         display: none;
@@ -126,6 +129,11 @@ p.height_q {
     }
     #stake_ncxT{
         padding: 60px 0px !important;
+    }
+    video#NCX_Token_mobile {
+        display: block;
+        width: 100%;
+        margin-bottom: 50px;
     }
 }
 
