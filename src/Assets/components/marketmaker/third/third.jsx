@@ -1,12 +1,16 @@
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import  React from "react";
 import '../../homepage/8thgradientsection/gradient.css';
+import { useTranslation } from "react-i18next";
 
 function Home8thGradientSection(){
+
+const { t } = useTranslation();
+
     return(
         <div className="gradient">
             <div className="container">
-                <h1 className='market_benefits'>Market Makers <span>Trading Benefits</span></h1>
+                <h1 className='market_benefits'>{t("market_makers")} <span>{t("trading_benefits")}</span></h1>
                 <div className="gradient-bar">
                     <AnimationOnScroll animateIn="animate__slideInLeft">
                         <div className="gradientbar"></div>
@@ -16,44 +20,44 @@ function Home8thGradientSection(){
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <h3>01</h3>
-                            <h1>Special Fees</h1>
-                            <p>NCX Market Makers will have unconditional access to these privileges:</p>
+                            <h1>{t("special_fees")}</h1>
+                            <p>{t("special_fees_text")}</p>
                             <ul>
-                                <li>Top-tier fee rate in 1st Month</li>
-                                <li>Permanent discount fee rate</li>
+                                <li>{t("top_tier_fee_rate")}</li>
+                                <li>{t("permanent_discount_fee_rate")}</li>
                             </ul>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <h3>02</h3>
-                            <h1>Exclusive Withdrawal Limits</h1>
-                            <p>Reach out to your MM Contact for</p>
+                            <h1>{t("exclusive_withdrawal_limits")}</h1>
+                            <p>{t("reach_out_your_mm_contact")}</p>
                             <ul>
-                                <li>Exclusive daily withdrawal limit</li>
-                                <li>Customized margin loan quota</li>
+                                <li>{t("exclusive_daily_withdrawal_limits")}</li>
+                                <li>{t("customized_margin_loan_quota")}</li>
                             </ul>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <h3>03</h3>
-                            <h1>Interest-free Credit</h1>
-                            <p>Apply for high interest-free credit in two steps:</p>
+                            <h1>{t("intrest_free_credit")}</h1>
+                            <p>{t("intrest_free_credit_text")}</p>
                             <ul>
-                                <li>Sign E-Contract</li>
-                                <li>Fill in credit Form</li>
+                                <li>{t("sign_e_contact")}</li>
+                                <li>{t("fill_credit_form")}</li>
                             </ul>
                         </AnimationOnScroll>
                     </div>
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
                             <h3>03</h3>
-                            <h1>Stable API</h1>
-                            <p>Stable and exclusive API service:</p>
+                            <h1>{t("stable_api")}</h1>
+                            <p>{t("stbale_exclusive_api_service")}</p>
                             <ul>
-                                <li>Spot API</li>
-                                <li>Futures API</li>
+                                <li>{t("spot_api")}</li>
+                                <li>{t("futures_api")}</li>
                             </ul>
                         </AnimationOnScroll>
                     </div>
@@ -61,39 +65,39 @@ function Home8thGradientSection(){
                 <div className="transaction_rebates">
                     <div className="hsd13">
                         <AnimationOnScroll animateIn="animate__fadeIn">
-                            <h3>Transaction <span>Rebates</span></h3>
-                            <p>Market Makers can get up to 0.02% of Rebate from Maker trading in spot markets, which is settled in the pricing currency of the market.</p>
+                            <h3>{t("transaction")} <span>{t("rebates")}</span></h3>
+                            <p>{t("rebates_text")}</p>
                         </AnimationOnScroll>
                     </div>
                     <div className="amm_markettable">
                         <div className="amm_head">
-                            <div className="col"><p>Rebate Level</p></div>
-                            <div className="col"><p>Ranking</p></div>
-                            <div className="col"><p>Rebate Ratio (Returned in pricing currencies)</p></div>
+                            <div className="col"><p>{t("Rebate_level")}</p></div>
+                            <div className="col"><p>{t("ranking")}</p></div>
+                            <div className="col"><p>{t("rebate_ration")}</p></div>
                         </div>
                         <div className="amm_body_row">
                             <div className="col"><p>LV3</p></div>
-                            <div className="col"><p>Top 1-5</p></div>
+                            <div className="col"><p>{t("top_1_5")}</p></div>
                             <div className="col"><p>0.02%</p></div>
                         </div>
                         <div className="amm_body_row">
                             <div className="col"><p>LV2</p></div>
-                            <div className="col"><p>Top 6-10</p></div>
+                            <div className="col"><p>{t("top_6_10")}</p></div>
                             <div className="col"><p>0.015%</p></div>
                         </div>
                         <div className="amm_body_row">
                             <div className="col"><p>LV1</p></div>
-                            <div className="col"><p>Top 11-20</p></div>
+                            <div className="col"><p>{t("top_11_20")}</p></div>
                             <div className="col"><p>0.01%</p></div>
                         </div>
                     </div>
                     <div className="fees_details">
                         <AnimationOnScroll animateIn="animate__fadeIn">
-                            <h4>About Transaction Rebate:</h4>
-                            <p>1. The Rebate level is updated monthly based on the ranking of the last-month trading volume. Only the Top 20 can enjoy the Rebate.</p>
-                            <p>2. The Rebate is calculated against the total transaction volume of Maker trading in spot markets on the previous day and settled in the pricing currency of the market.</p>
-                            <p>3. The Rebate is NOT available for AMM markets.</p>
-                            <p>4. For Spot Market Maker Rebate benefits, please inquire your Market Making Manager.</p>
+                            <h4>{t("about_transaction_rebate")}</h4>
+                            <p>{t("about_transaction_rebate_1")}</p>
+                            <p>{t("about_transaction_rebate_2")}</p>
+                            <p>{t("about_transaction_rebate_3")}</p>
+                            <p>{t("about_transaction_rebate_4")}</p>
                         </AnimationOnScroll>
                     </div>
                 </div>
