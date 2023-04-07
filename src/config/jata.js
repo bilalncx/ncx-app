@@ -3,7 +3,7 @@ const blogListdata = [
     id: 315,
     title: 'Dow Jones Futures Rise On Jobs Report; Tesla Cuts U.S. EV Prices',
     category: 'Markets',
-    subCategory: ['Dow', 'jones', 'Tesla'],
+    subCategory: ['Dow', 'Jones', 'Tesla'],
     description: <div className="blog-desc">
       <p>Dow Jones futures rose slightly early Friday after the March jobs report showed slowing hiring and wage growth but also declining unemployment. Meanwhile, Tesla (TSLA) cut U.S. prices on all its electric vehicles. U.S. markets are closed today.</p>
     </div>,
