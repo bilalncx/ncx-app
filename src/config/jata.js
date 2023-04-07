@@ -1,5 +1,119 @@
 const blogListdata = [
   {
+    id: 315,
+    title: 'Dow Jones Futures Rise On Jobs Report; Tesla Cuts U.S. EV Prices',
+    category: 'Markets',
+    subCategory: ['Dow', 'jones', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures rose slightly early Friday after the March jobs report showed slowing hiring and wage growth but also declining unemployment. Meanwhile, Tesla (TSLA) cut U.S. prices on all its electric vehicles. U.S. markets are closed today.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 5:14 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-326.jpg',
+    content: <div className="blog-content">
+    	<p>Dow Jones futures rose slightly early Friday after the March jobs report showed slowing hiring and wage growth but also declining unemployment. Meanwhile, Tesla (TSLA) cut U.S. prices on all its electric vehicles. U.S. markets are closed today.</p>
+	    <p>The major indexes held up well in a holiday-shortened trading week, with midweek pullbacks looking healthy and normal. But many sectors and leading stocks sold off hard, including Tesla stock</p>	
+	    <p>Google parent Alphabet (GOOGL) broke out Thursday. China e-commerce giant Alibaba (BABA) flashed an aggressive entry.</p>	
+	    <p>Google stock is on the IBD Long-Term Leaders, along with Microsoft (MSFT).</p>
+      <p>The video embedded in the article discussed the weekly market action and analyzed Google, BABA stock and Intuitive Surgical (ISRG).</p>
+      <h3>Jobs Report</h3>
+      <p>The Labor Department reported that nonfarm payrolls rose by 236,000, just below estimates for 240,000. That's down from February's revised 326,000.</p>
+      <p>Private payrolls rose just 189,000. well below views for 223,000. Manufacturing jobs unexpectedly dipped 1,000.</p>
+      <p>The jobless rate unexpectedly dipped to 3.5%, back to long-term lows. However, the labor force participation rate climbed to a post-Covid high of 62.6%.</p>
+      <p>Hourly earnings rose 0.3% vs. February, in line. The annual gain cooled to 4.2%, below views for 4.3% and the lowest in years.</p>
+      <p>The average workweek unexpectedly shortened, to 34.4 hours.</p>
+      <p>Despite the slower wage gains and private hiring, the odds of a Fed rate hike in May rose to 65% Thursday morning from 49% on Wednesday.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.2% vs. fair value, reversing from slim losses before the jobs report. S&P 500 futures advanced 0.2%. Nasdaq 100 futures edged higher.</p>
+      <p>The 10-year Treasury yield popped 7 basis points to 3.36%.</p>
+      <p>Stock futures stop trading at 9:15 a.m. ET.</p>
+      <p>U.S. stock markets are closed in observance of Good Friday.</p>
+      <p>Hong Kong and European markets are closed for Good Friday and Easter Monday.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally had a mixed week. The Dow Jones Industrial Average rose 0.6% in  weekly stock market trading. The S&P 500 index dipped 0.1%. The Nasdaq fell 1.1% and the Russell 2000 slumped 2.5%.</p>
+      <p>U.S. crude oil prices leapt 6.65% to $80.92 a barrel, mostly on Monday after the surprise OPEC+ output cut. Crude futures have surged 20.9% in three weeks.</p>
+      <p>The 10-year Treasury yield tumbled 22 basis points to 3.28%, hitting seven-month lows.</p>
+      <h3>Growth ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) sank 3.5% for the week. The iShares Expanded Tech-Software Sector ETF (IGV) fell 1.6%. Microsoft stock is a major IGV holding. The VanEck Vectors Semiconductor ETF (SMH) gave up 4.1%.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) skidded 4.4% and ARK Genomics ETF (ARKG) dropped 1.2%, though both rose Thursday. Tesla stock is the No. 1 holding across Ark Invest's ETFs.</p>
+      <h3>Tesla Price Cuts</h3>
+      <p>Tesla cut U.S. prices on all its EVs overnight. It reduced Model S and X prices for the third time this year, both by $5,000 in this instance. The Model S starts at $84,990 while the Model X now begins at $94,990.</p>
+      <p>Meanwhile, Tesla trimmed U.S. Model 3 prices by $1,000 to an entry price of $41,990. The Model Y was cut $2,000 to $49,990.</p>
+      <p>Earlier in the week, Tesla cut Model 3 and Y prices in Australia once again.</p>
+      <p>Tesla slashed global prices in January, with further U.S. cuts on its S and X vehicles and additional European discounts in March. That, along with new U.S. EV credits, pushed first-quarter Tesla deliveries to a new record. But they fell short of FactSet views. Production exceeded deliveries once again, with Model S and X output nearly twice as high as sales.</p>
+      <p>Many analysts predicted further Tesla price cuts to support demand, further cutting its prized margins</p>
+      <h3>Tesla Stock</h3>
+      <p>Investors won't get a chance to react to the latest Tesla price cut until Monday. But Tesla stock tumbled 10.8% to 185.06 this week following the Q1 delivery report. Shares plunged below a 200.76 cup-with-handle buy point and the 50-day moving average.</p>
+      <p>The base had formed below the 200-day line, which is not great. The 200.76 buy point is no longer valid, but TSLA stock is working on a new handle, already present on a weekly chart, with a 207.89 entry. Of course, the 200-day line still looms just above that.</p>
+      <p>Tesla earnings for the first quarter are due April 19, when investors will see how price cuts have hit profit margins so far.</p>
+      <h3>Google Stock</h3>
+      <p>Google jumped 3.8% on Thursday to 108.42 in above-normal volume. Shares rallied past a cup-with-handle buy point of 106.69 according to MarketSmith analysis.</p>
+      <p>Google's CEO said the company will add a chat AI to its search engine soon, after Microsoft (MSFT) added ChatGPT to its Bing search engine and other products.</p>
+      <h3>Alibaba Stock</h3>
+      <p>Alibaba stock popped 4.25% on Thursday to 102.74, breaking the downtrend of a handle, offering an early entry. The new handle is above the 50-day line but fractionally too low in the base to be considered proper.</p>
+      <p>BABA stock surged in the prior week after Alibaba said it would split into six different units with their own CEOs and the option of filing for IPOs.</p>
+      <h3>Stock Market Rally Analysis</h3>
+      <p>The stock market rally had a normal and healthy pullback on the major indexes during the week.</p>
+      <p>The Nasdaq fell, but recovered the 12,000 level Thursday. The S&P 500 edged lower while the Dow Jones moved higher.</p>
+      <p>Google stock had a solid week and Meta Platforms (META) kept rising. Apple (AAPL) and Microsoft stock were little changed, at the edge of buy zones. Meanwhile, Exxon Mobil (XOM), Merck (MRK) and UnitedHealth (UNH) had big weekly gains.</p>
+      <p>But there were a lot of big losers. Construction and industrial-related groups tumbled Tuesday while growth stocks sold off Wednesday. Many suffered significant damage, while others could move back into position relatively soon. Thursday's rebounds, often from key levels, were definitely encouraging.</p>
+      <p>Defensive growth and defensive names had a strong week, including medicals, consumer staples and utilities.</p>
+      <p>Will those areas continue to do well if a "risk-on" mentality returns?</p>
+    </div>
+  },
+  {
+    id: 314,
+    title: 'Gold prices: We could see $2,800 this year, analyst says',
+    category: 'Commodities',
+    subCategory: ['Gold', 'High', 'Prices'],
+    description: <div className="blog-desc">
+      <p>Path Trading Partners Co-Founder and Chief Market Strategist Bob Iaccino joins Yahoo Finance Live to discuss the rise of gold prices, the catalyst, and how inflation plays a part.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 12:39 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-325.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Path Trading Partners Co-Founder and Chief Market Strategist Bob Iaccino joins Yahoo Finance Live to discuss the rise of gold prices, the catalyst, and how inflation plays a part.</p>
+    	<p>SEANA SMITH: You're looking at gold off a little bit today, pulling back from a 13-month high on weaker economic data. Still, though, obviously, above 2,000. Gold since the start of the year up just about 10%, hovering above that critical $2,000 level here, and just trading just about 50 bucks below its record high. We want to bring in Bob Iaccino. He's Path Trading Partners co-founder and chief market strategist. Bob, it's good to see you here. So we're holding above that 2,000 level. I think a lot of investors are asking if there's really upside here to the price of gold. What do you think?</p>	
+    	<p>BOB IACCINO: I think there is. Gold was my big call for the year. I'm sticking with that as of this point. I still think we're going into recession, although the timeline may be pushed a little bit. The yield curve says we're already there. Economic data is going to start to slow. And if you're long gold, which I am, the best case scenario is the Fed cuts rates to get you into-- or I'm sorry, out of a recession, which is positive for gold.</p>	
+    	<p>Worst case scenario, the Fed continues to raise rates. I think this is the least likely. And they hold-- or they hold the pause a little bit longer. Two out of three of these cases is good for gold. The worst case scenario is that they hold the pause, and we actually get this soft landing or easy landing or even no landing. That wouldn't be great for gold, and I think that's the least likely scenario.</p>
+      <p>DAVE BRIGGS: Fed certainly plays a role. Bob, talk about some of the other factors driving the prices where they are today.</p>
+      <p>BOB IACCINO: Well, again, you have this issue of asset prices being sold off. And gold has always taken advantage of that. And what's generally happened is, the Fed-- again, bringing that out-- cuts rates to help the economy and help asset prices. That's been a driver of gold in the past. And a lot of people believed that. CME Fed watch tool has cuts starting in July of this year, which the Fed says they're not going to do.</p>
+      <p>Another one is people think of gold as an inflation hedge. And it's really not. What gold is, is it's an asset. And if you look at assets in general, when inflation starts and then continues to rise through, gold powers through that because it's an asset, just like house prices, just like stocks. We forget the good part about inflation is asset inflation, and gold is an asset. The problem comes in for gold investors when the Fed starts to aggressively fight inflation.</p>
+      <p>So something we haven't had, which has contributed to gold's underperformance over the last decade or so, was we haven't had inflation, so we haven't had a Fed to fight inflation. And that's kind of gave gold this weakness. When inflation started, gold rallied. We saw that March spike that references almost the all-time high that Seana mentioned. We're driving toward that again. And if we are in a situation where, as Neil Dutta from Renaissance or at Macro put it, inflation remains unaddressed, then gold's going to benefit from that.</p>
+      <p>SEANA SMITH: Bob, how much upside is there to gold? Are we talking 2,500? Are we talking above that?</p>
+      <p>BOB IACCINO: Well, here's where people think I'm nuts. I think we can easily break to new highs. And I think if it goes the way I think it's going to go, easily within the next 12 months, we could see 2,800. I used to say by the end of the year. I'm not saying that anymore because I think the Fed was much more aggressive than I thought they would be when I made that call.</p>
+      <p>But I think the issue here is the popular opinion and the politically popular opinion is that the Fed should stop trying to fight inflation. And I don't think people realize how bad that is for the whole country, as opposed to just 2 or 3 million people. And I don't mean to downplay that. I want to stress that.</p>
+      <p>But the 2 or 3 million people that may lose their jobs in a recession, a recession, as investors should look at it, is good for gold. I'm sorry, it's good for stocks. It's not necessarily good for gold. Where gold outperforms is when there's inflation and a recession. And I think that's what we're going to because I think the Fed is going to cave in to pressure and stop fighting inflation.</p>
+      <p>DAVE BRIGGS: 2,800 call-- gutsy. All right, Bob, with that, we want to play a little game. We want to see how deep your love for gold goes. We're calling this Bob's Buys. We'll give you a choice between two investments. You'll tell us which is the buy and why. First up, Bitcoin, which has been surging with gold, which seems a little odd on its face. So Bitcoin or gold?</p>
+      <p>BOB IACCINO: So I have to ask you a question first, and we actually did this with a recent guest on our podcast. Is this 100% in one or the other?</p>
+      <p>DAVE BRIGGS: Is it 100%? I'm not sure.</p>
+      <p>SEANA SMITH: You mean all in on gold or all in on Bitcoin?</p>
+      <p>BOB IACCINO: Yeah, can I go 70/30, or I can't do that?</p>
+      <p>DAVE BRIGGS: Oh, I see what you're saying.</p>
+      <p>SEANA SMITH: Yeah, sure, you can make your own twist to the game. We're open to suggestions, Bob.</p>
+      <p>DAVE BRIGGS: Well, look at you making up your own rules. I was going to say 100%, but go, go.</p>
+      <p>BOB IACCINO: Well, actually, if you make me pick 100, it's gold. I am actually in about 70% gold, 30% Bitcoin for that amount of the capital that we allocate to this sort of space because I think the issue with Bitcoin is, is it here in 10 years or not? I think it is, but I don't run that sort of part of the game, so.</p>
+      <p>SEANA SMITH: All right, Bob, well, we're setting you up here because we have a couple to get through. So the next one's up is treasuries, TIPS, or gold? What do you think?</p>
+      <p>BOB IACCINO: Gold.</p>
+      <p>SEANA SMITH: You're sticking with it. Didn't even have to think twice about it.</p>
+      <p>DAVE BRIGGS: I want to get back to the prior answer. What do you make of the dynamic, though? Gold rising typically tells us people are risk averse. How does that rise with arguably the most speculative asset on the planet in Bitcoin? How do those rise together?</p>
+      <p>BOB IACCINO: So Bitcoin has a couple of things going for it. It's, again, beginning to perform in a non-correlated way, which I like. It hadn't done that. It was correlated very sharply to the NASDAQ. That's not the case anymore, at least in the short-term. If that sticks with it, then a non-correlated asset is always good in any environment. So that's really the core of it.</p>
+      <p>SEANA SMITH: All right, Bob, and last up here, I bonds or gold? What do you think?</p>
+      <p>BOB IACCINO: Wow, that one's tough. I'm going to have to say gold, too. But I think if you put me in a position, I'd go 60% gold, 40% I bonds.</p>
+      <p>SEANA SMITH: All right, there we go. All right, gold the winner of all three. You're the gold guy, so maybe we shouldn't be surprised by that. Bob, great to see you. Thanks so much.</p>
+    </div>
+  },
+
+  {
     id: 307,
     title: 'FTSE 100 clings to modest gains amid recession fears',
     category: 'Indices',
