@@ -28,7 +28,7 @@ function ReferralPrivilleges()
                             <p>{t("and_or")}</p>
                         </div>
                         <div className="col">
-                            <p>{t("total_referred-traders")}</p>
+                            <p>{t("total_referred_traders")}</p>
                         </div>
                         <div className="col">
                             <p>{t("referral_usdt")}</p>

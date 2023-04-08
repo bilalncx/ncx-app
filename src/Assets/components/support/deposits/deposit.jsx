@@ -15,10 +15,12 @@ import Deposit3 from '../../../images/deposit3.png';
 import Deposit4 from '../../../images/deposit4.png';
 import Deposit5 from '../../../images/deposit5.png';
 import CoinData from '.././deposit-payout-table';
+import { useTranslation } from "react-i18next";
 
 
 function SupportPageSet()
 {
+    const { t } = useTranslation();
     const [toggleState, setToggleState] = useState(1);
     const toggleTab = (index) => {
         setToggleState(index);
@@ -37,11 +39,11 @@ function SupportPageSet()
                             <div className="support_leftbar">
                                 <div className="ncx-trends">
                                     <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                    <p>FAQs</p>
+                                    <p>{t("faq")}</p>
                                 </div>
 
                                 <div className="faq_nav">
-                                    <a href="/faq">FAQs</a>
+                                    <a href="/faq">{t("faq")}</a>
                                     <div className="arr_sv">
                                         <CardArrow />
                                     </div>

@@ -255,6 +255,9 @@
   "search_by_category": "Tìm kiếm theo Danh mục",
   "commodities": "Hàng hóa",
   "Metals": "kim loại",
+  "announcements": "thông báo",
+  "high_yield_crypto_savings": "Tiết kiệm tiền điện tử năng suất cao",
+  "high_yield_crypto_savings_text": "Kiếm tiền lãi ổn định bằng tiền điện tử yêu thích của bạn. Tích lũy mỗi phút, không khóa!",
 
   "******************************************************************************** ncx ambassador ********************************************************************************": "",
   "ncx_ambassador_text_1": "Đại sứ NCX là đối tác quảng bá toàn cầu của NCX - Sàn giao dịch Crypto Toàn cầu",
@@ -267,7 +270,7 @@
   "last_month": "(Tháng trước)",
   "and_or": "và/hoặc",
   "or": "hoặc",
-  "total_referred-traders": "Tổng số Nhà giao dịch được Giới thiệu (Tháng trước)",
+  "total_referred_traders": "Tổng số Nhà giao dịch được Giới thiệu (Tháng trước)",
   "referral_usdt": "% Giới thiệu (USDT)",
   "silver": "Bạc",
   "silver_val_1": "≥ 500,000 USD",
@@ -514,7 +517,7 @@
   "trade_to_earn": "GIAO DỊCH ĐỂ KIẾM TOKEN",
   "get_up_to_50,000_ncxt_simply_trading!": "Nhận tới 50.000 NCXT, chỉ cần giao dịch thôi!",
   "trade_to_earn_text": "Đăng ký, Hoàn thành Nhiệm vụ và kiếm Token NCX, đạt Cấp độ mới và nhận Phần thưởng.",
-  "sign_up_and_start-trading": "Đăng ký và bắt đầu giao dịch",
+  "sign_up_and_start_trading": "Đăng ký và bắt đầu giao dịch",
 
   "******************************************************************************** ncx card ********************************************************************************": "",
   "ncxt_crypto_debit_card": "Thẻ ghi nợ crypto NCX",
