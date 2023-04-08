@@ -4,8 +4,10 @@ import data from '../../../config/jata';
 // import { Slider } from "@mui/material";
 import {Animated} from "react-animated-css";
 import { Link } from 'react-router-dom';
+import { useTranslation } from "react-i18next";
 
 const BlogSliderfunction = () => {
+    const { t } = useTranslation();
     const [blogListdata]  = useState(data);
     const [index, setIndex] = useState(0);
     
@@ -31,7 +33,7 @@ const BlogSliderfunction = () => {
     return(
         <section id="slider-blog">
             <div className="slss">
-                <h1 className="latest-post">Latest Post</h1>
+                <h1 className="latest-post">{t("latest_post")}</h1>
                 {blogListdata.map((item, indexPeople) => {
                     const {id, title, description} = item;
                     let position = "nextSlide";
@@ -47,7 +49,7 @@ const BlogSliderfunction = () => {
                             <h1>{title}</h1>
                             <p>{description}</p>
                             <Link className='blogItem-link' to={`/insights/${id}`}>
-                                Read More
+                                {t("read_more")}
                             </Link>
                             </Animated>
                         </article>

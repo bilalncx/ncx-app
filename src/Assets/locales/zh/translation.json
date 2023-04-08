@@ -255,6 +255,9 @@
   "search_by_category": "按类别搜索",
   "commodities": "商品",
   "Metals": "金属",
+  "announcements": "公告",
+  "high_yield_crypto_savings": "高收益加密储蓄",
+  "high_yield_crypto_savings_text": "对您最喜欢的加密货币产生稳定的兴趣。每分钟累积，无锁定！",
 
   "******************************************************************************** ncx ambassador ********************************************************************************": "",
   "ncx_ambassador_text_1": "NCX大使是NCX全球加密货币交易所的全球推广伙伴。",
@@ -267,7 +270,7 @@
   "last_month": "（上月）",
   "and_or": "和/或",
   "or": "或",
-  "total_referred-traders": "推荐交易者的总数（上月）",
+  "total_referred_traders": "推荐交易者的总数（上月）",
   "referral_usdt": "推荐%（USDT）",
   "silver": "银",
   "silver_val_1": "≥ 500,000 USD",
