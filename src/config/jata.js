@@ -66,6 +66,94 @@ const blogListdata = [
     </div>
   },
   {
+    id: 316,
+    title: 'Chinas green leap forward is a nightmare for Saudi Arabia and Russia',
+    category: 'Commodities',
+    subCategory: ['China', 'saudi', 'russia'],
+    description: <div className="blog-desc">
+      <p>The existential threat to Saudi Arabia and the OPEC cartel comes from China, not from net zero or from green deals in the West.</p>
+    </div>,
+    authorName: 'Ambrose Evans-Pritchard',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 11:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-327.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The existential threat to Saudi Arabia and the OPEC cartel comes from China, not from net zero or from green deals in the West.</p>
+    	<p>Chinese sales of petrol and diesel cars fell 20pc in absolute volume terms in February from a year earlier. Sales of plug-in electric vehicles kept rising explosively and reached a record 32pc of the market for standard passenger cars.</p>	
+    	<p>At the current pace, EV sales in China will hit eight million this year, helped by the proliferation of battery-swapping stations. Rather than charging your own car, you do an instant swap. No need to wait. No need for charge-points everywhere.</p>	
+    	<p>Sales have surged despite the elimination of subsidies at the end of last year.  China’s best-selling EV is the BYD Song Plus, which retails for about £22,000. Number two is the smaller Wuling Mini. It starts at around £4,000 (not a misprint).</p>
+      <p>“They are producing cheap EVs for the mass market, which is still completely lacking in the West. It is absolutely taking off,” said Lord Adair Turner, chairman of the global Energy Transitions Commission (ETC).</p>
+      <p>The consensus forecast until recently was that EV penetration would reach 40pc of Chinese sales by 2030. That threshold could be crossed as soon as this year if manufacturers can produce fast enough to meet the demand. “We think EVs will reach 80pc of sales in China by 2030,” said Kingsmill Bond from energy strategists RMI.</p>
+      <p>Electrification is spreading to light commercial vehicles, up 85pc year-on-year.  Over 60pc of buses in service in Chinese cities are already low-carbon. All municipal buses on the eastern seaboard will be electrified by 2025. Long-haul trucks are next in line.</p>
+      <p>Bloomberg New Energy Finance estimates that EVs worldwide have already displaced 1.5m barrels a day (b/d) of oil use, or 1.5pc of global demand. This is about to accelerate exponentially.</p>
+      <p>“China’s demand for oil is suddenly going to start falling. Half of China's total car fleet could be electric by 2030. If you add up the numbers, that could subtract several million barrels of oil a day,” said Lord Turner.</p>
+      <p>“China’s high speed rail network means that there won’t be so much internal aviation either. Oil use per capita is never going to be anything close to American levels,” he said.</p>
+      <p>Opec maintains the fiction that oil demand will keep booming until the middle of the century, but this is based on the obsolete premise that Asia's rising middle class will more than compensate for declining imports in Europe and America.</p>
+      <p>“Whatever they say in public, the Saudis know the game is up. They can see that the world’s largest car market for petrol cars is going to collapse,” said RMI’s Mr Bond.</p>
+      <p>For the last 40 years the Saudis have acted (mostly) as ‘Federal Reserve’ of the global oil market, working closely with the US and Europe to maintain stability. They would restrain Opec hotheads from pushing prices too high at critical moments, knowing that this would backfire by accelerating the switch to rival technologies.</p>
+      <p>It has abandoned this role as market regulator under Crown Prince Mohammed bin Salman. The strategy today is to extract as much money as possible from crude reserves before the window shuts forever, deliberately forcing prices higher (by cartel practices) to exploit captive demand for legacy transport.</p>
+      <p>Last weekend’s Saudi-led decision by Opec and Russia to cut global supply by a further 1.1m b/d is an act of weakness. It is not the action of states seeking to preserve a sustainable business model.</p>
+      <p>It was an affront to President Joe Biden but it was no favour for Xi Jinping either. Oil shocks are horrible for China. Its energy intensity per unit of GDP is two and a half times higher than in the US.</p>
+      <p>America is largely self-sufficient in crude: China is the world’s largest importer by far at 10.8m b/d. Its oil-import dependency has risen to 70pc, a greater level of vulnerability than the US at the worst point of the Arab oil embargo in 1973.</p>
+      <p>This oil is mostly shipped in tankers through the Straits of Molucca. China is also the world’s biggest importer of liquefied natural gas, which also comes on ships. This is a glaring geostrategic weakness as the superpower clash with the US turns increasingly dangerous.</p>
+      <p>Chinese strategists can see how the West is using its stranglehold over global tanker fleets, vessel insurance, and shipping finance to asphyxiate Russia. They have also studied Franklin Roosevelt’s blockade of Japanese oil imports in 1941. They know that China cannot risk a showdown over Taiwan until it has a safer supply of energy.</p>
+      <p>Hence the massive expansion of renewable power currently underway. Great tracts of desert in Inner Mongolia, Gansu, and Xinjiang are being covered with solar panels and onshore turbines, bundled with extra coal capacity as a back-up to avoid winter blackouts.</p>
+      <p>Xi Jinping’s original plan was to reach 1,200 gigawatts (GW) of wind and solar by 2030. China’s Research Academy of Environmental Sciences says this target will be achieved five years early, given that the rollout is running at 180 GW a year.</p>
+      <p>This compares to total installed capacity of 33 GW in France, 42 GW in the UK, and 240 GW in the US since the start of the green era.</p>
+      <p>Nikhil Bhandari and Amber Cai from Goldman Sachs think China will smash the target three times over, reaching a staggering 3,300 GW by the end of this decade, all backed by a vast expansion of energy storage. They estimate that the county could halve its total energy imports by the early 2040s.</p>
+      <p>This would require $2.2 trillion of investments but that should not be understood as a cost. Goldman says combined renewables with storage operating around the clock will be highly profitable by 2030 as they undercut coal, with a rate of return on capital reaching 10pc.</p>
+      <p>They think China’s total CO2 emissions will peak as soon as 2028.</p>
+      <p>China is not doing this as a favour to the West. It is doing so in order to confront the West from a position of greater strength in the future, and because it aims to become the world’s clean-tech hegemon.</p>
+      <p>The Chinese have already cornered 90pc of global production of solar panels, and control 70pc of the lithium output – although that may matter less as sodium-ion batteries arrive.</p>
+      <p>One can be too cynical about China’s motives. Xi Jinping was an environmental crusader 20 years ago as Zhejiang party chief.  He was a pioneer of the radical ‘Green GDP’ campaign in 2004, which called on local governments to subtract ecological damage from the raw GDP figures. He knows that China is more immediately vulnerable to climate change than the US or Europe.</p>
+      <p>Chinese scientists say the Himalayan glaciers – the Third Pole – are melting even faster than previously thought. They will shrink by two-thirds over the course of this century under current warming trends, exposing China’s ancient river systems to the annual devastation of spring floods followed by summer droughts. So yes, China has to act.</p>
+      <p>China’s green leap forward is a nightmare for Big Oil. It is compelling America and Europe to respond in kind, causing a step-change in the arms race for clean-tech ascendancy.</p>
+      <p>The EU’s retreat from its 2035 ban on combustion engines makes no difference in this larger geo-economic context. The permitted e-fuels, made from green hydrogen, are too wasteful and expensive to have any commercial relevance. They retain just 16pc of the original energy input compared to 77pc for EVs.</p>
+      <p>The next generation of solid state batteries and lithium-air variants will complete the annihilation in the late 2020s, opening the way to EVs with much longer driving ranges, much lower costs, and less reliance on scarce minerals.</p>
+      <p>Technology married to market forces will render fossil-fuel bans in the EU, the UK, Japan, California, or Quebec superfluous before they come into force.</p>
+      <p>Personally, I had assumed that oil would enjoy one last hurrah in the early 2020s as a decade of under-investment drives prices to $150 or $200. But this does not seem so inevitable any more. The rallies keep fading.</p>
+      <p>The events of the last week suggest that the process of oil displacement is more advanced than we had assumed. Saudi Arabia, Russia, and the petrostates have already entered the first stage of terminal run-off.</p>
+    </div>
+  },
+  {
+    id: 320,
+    title: 'Bitcoin holds US$28,000 in choppy trading; Ether falls after US Treasury warns against DeFi risk',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Defi', 'Us'],
+    description: <div className="blog-desc">
+      <p>Bitcoin moved in a narrow range above the support line at US$28,000 in Friday morning trading in Asia, while most other top 10 non-stablecoin cryptocurrencies declined. Ether lost ground as the U.S. Treasury said the growth of decentralized finance (DeFi) posed a security risk. U.S. equities closed higher Thursday despite signs of a slowing labor market and a grim global economic outlook report from the International Monetary Fund (IMF).</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 6:27 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-331.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin moved in a narrow range above the support line at US$28,000 in Friday morning trading in Asia, while most other top 10 non-stablecoin cryptocurrencies declined. Ether lost ground as the U.S. Treasury said the growth of decentralized finance (DeFi) posed a security risk. U.S. equities closed higher Thursday despite signs of a slowing labor market and a grim global economic outlook report from the International Monetary Fund (IMF).</p>
+    	<p>Fast facts</p>	
+      <ul>
+        <li>Bitcoin dipped 0.49% to US$28,041 in the 24 hours to 8:00 a.m. in Hong Kong, edging up 0.04% for the week, according to CoinMarketCap data. The token moved back into positive territory later in the morning and moved in a tight range.</li>
+        <li>Ether dipped 1.90% to US$1,873, following the U.S. Treasury Department’s statement on Thursday describing DeFi services as a threat to national security. Ethereum is a primary blockchain platform that allows development of decentralized applications in DeFi, where its Ether token is used as the primary means of exchange.</li>
+        <li>Ether, however, is up 4.4% on the week as the blockchain awaits next Wednesday’s Shanghai hardfork, also known as Shapella upgrade, which will allow investors to withdraw their staked Ether for the first time.</li>
+        <li>Dogecoin fell 8% to US$0.08542 after Elon Musk switched the Twitter icon back to the traditional blue bird after replacing it with the Dogecoin dog image earlier this week. Still, the meme token is still up 15% on the week.</li>
+        <li>Other tokens followed a similar price pattern, down for Friday but holding gains over seven days. Cardano’s ADA token dipped 2.32% to US$0.3834, but is up 1.85% week-to-date. Polygon’s Matic fell 2.27%, yet is up about 2% higher over the seven days.</li>
+        <li>The total crypto market capitalization dropped 0.84% in the past 24 hours to US$1.18 trillion. Total trading volume in the same period lost 15.64% to US$37.11 billion.</li>
+        <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index slipped 0.53% to 3,987.19 in the 24 hours to 08:00 a.m. in Hong Kong, losing 0.65% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by Forkast Labs data branch, CryptoSlam.</li>
+        <li>U.S. equities closed little changed to higher on Thursday. The Dow Jones Industrial Average finished flat, the S&P 500 gained 0.36%, and the Nasdaq Composite Index rose 0.76%.</li>
+        <li>The U.S. Labor Department on Thursday said the number of Americans filing new claims for unemployment benefits fell to 228,000 in the week ended April 1, but annual revisions to the number showed applications were higher this year than expected, indicating a slowing labor market. This added to concern the U.S. economy may be headed for a recession after a raft of interest rate hikes to curb inflation.</li>
+        <li>This view gained some credence from IMF’s managing director Kristalina Georgieva predicting just 3% growth in the global economy for the next five years, the lowest forecast in two decades.</li>
+        <li>U.S. interest rates are now between 4.75% to 5%, the highest since June 2006. Ahead of the Federal Reserve rates meeting on May 3, analysts at the CME Group expect a 44.5% chance of a 25 basis-point rise, while 55.5% expect no change, up from 54.2% on Thursday.</li>
+        <li>U.S. stock futures traded lower as of 8:00 a.m. in Hong Kong. The Dow Jones Industrial Average futures dipped 0.12%, S&P 500 futures moved down 0.097% and the Nasdaq-100 futures Index dropped 0.11%. U.S. equity markets are closed Friday in observance of Good Friday.</li>
+        <li>(Updates Dogecoin section with icon switch back to blue bird at Twitter.)</li>
+      </ul>
+    </div>
+  },
+  {
     id: 314,
     title: 'Gold prices: We could see $2,800 this year, analyst says',
     category: 'Commodities',
@@ -112,7 +200,146 @@ const blogListdata = [
       <p>SEANA SMITH: All right, there we go. All right, gold the winner of all three. You're the gold guy, so maybe we shouldn't be surprised by that. Bob, great to see you. Thanks so much.</p>
     </div>
   },
-
+  {
+    id: 317,
+    title: 'US STOCKS-Wall Street ends higher as investors eye upcoming jobs data',
+    category: 'Markets',
+    subCategory: ['US', 'wall street', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>April 6 (Reuters) - Major U.S. stock indexes ended higher on Thursday, helped by a rally in Alphabet shares as investors, worried about a slowing economy, looked to upcoming jobs data.</p>
+    </div>,
+    authorName: 'Noel Randewich and Ankika Biswas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 12:20 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-328.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>April 6 (Reuters) - Major U.S. stock indexes ended higher on Thursday, helped by a rally in Alphabet shares as investors, worried about a slowing economy, looked to upcoming jobs data.</p>
+    	<p>Alphabet Inc rallied 3.8% and Microsoft climbed 2.6%, with both providing more fuel than any other stocks for the S&P 500's gain for the session. Alphabet's Google unit plans to add artificial intelligence features to its search engine, the Wall Street Journal reported.</p>	
+    	<p>Adding to recent data hinting at a weak labor market, initial jobless claims fell to a seasonally adjusted 228,000 for the week ended April 1, versus expectations of 200,000 claims.</p>	
+    	<p>The Labor Department's data from the prior week was revised to show 48,000 more applications were received.</p>
+      <p>The S&P 500 climbed 0.36% to end the session at 4,105.02 points.</p>
+      <p>The Nasdaq gained 0.76% to 12,087.96 points, while the Dow Jones Industrial Average rose 0.01% to 33,485.29 points.</p>
+      <p>Wall Street has lost ground in recent days in response to signs of a slowing economy, including weak data on private payrolls and job openings earlier this week.</p>
+      <p>That marked a change from recent months, when investors cheered weak economic data on the basis that it might mean the Fed's interest rate hikes were working and that the Fed could ease up on its campaign to rein in decades-high inflation.</p>
+      <p>Interest rate futures imply traders are divided about whether the Fed will raise its target rate or keep it steady at its upcoming May meeting, according to CME Group's Fedwatch tool.</p>
+      <p>"The market is trying to decide whether the 'growth and recession' scare or the 'Fed hiking' scare are more meaningful to prices, and so it's waffling between whether a softening labor market is good news because it gets the Fed to pause in May or bad news because it means the recession is actually coming," said Ross Mayfield, an investment strategy analyst at Baird in Louisville, Kentucky.</p>
+      <p>Investors are now focused on the more comprehensive report on non-farm payrolls, which are expected to have increased by 239,000 in March, down from the 311,000 jobs added in the prior month. That report is due on Friday, when the U.S. stock market will be closed for the Good Friday holiday.</p>
+      <p>Of the 11 S&P 500 sector indexes, eight rose, led by communication services, up 1.71%, followed by a 0.74% gain in utilities.</p>
+      <p>With some investors away during a shortened holiday week, volume on U.S. exchanges was relatively light, with 9 billion shares traded, compared to an average of 12.7 billion shares over the previous 20 sessions.</p>
+      <p>For the week, the S&P 500 declined 0.1%, the Dow added 0.6% and the Nasdaq lost 1.1%.</p>
+      <p>In Thursday's trading, Caterpillar, viewed as a bellwether for the industrial sector, dipped 2%, bringing its loss over the past three days to 9% as investors fretted about a potential economic downturn.</p>
+      <p>AMC Entertainment Holdings Inc surged 21% after a U.S. court denied the theater operator's request to lift a status quo order necessary for its plan to convert preferred shares to common shares.</p>
+      <p>Levi Strauss & Co tumbled 16% after the apparel maker posted a fall in quarterly profit.</p>
+      <p>Big banks including JPMorgan Chase & Co and Citigroup will be among companies kicking off the quarterly reporting season next week, with investors eager for updates on the health of the sector after a recent banking crisis.</p>
+      <p>Analysts on average expect aggregate S&P 500 company earnings for the first quarter to have fallen 5% year-over-year, according to Refinitiv I/B/E/S.</p>
+      <p>Advancing issues outnumbered falling ones within the S&P 500 by a 1.2-to-one ratio.</p>
+      <p>The S&P 500 posted six new highs and no new lows; the Nasdaq recorded 46 new highs and 177 new lows.</p>
+      <p>(Reporting by Ankika Biswas and Amruta Khandekar in Bengaluru, and by Noel Randewich in Oakland, Calif.; Editing by Anil D'Silva, Arun Koyyur, Shounak Dasgupta and Deepa Babington)</p>
+    </div>
+  },
+  {
+    id: 318,
+    title: 'Nasdaq jumps as stocks wrap up week ahead of key jobs report: Stock market news today',
+    category: 'Markets',
+    subCategory: ['Nasdaq', 'jump up', 'stock market'],
+    description: <div className="blog-desc">
+      <p>U.S. stocks marched upward Thursday, with tech stocks leading the Nasdaq higher than other indexes, after fresh data pointed to a gradual softening of labor market conditions ahead of the highly anticipated Friday jobs report.</p>
+    </div>,
+    authorName: 'Dani Romero',
+    authorurl: 'https://www.yahoo.com/author/dani-romero',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 12:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-329.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>U.S. stocks marched upward Thursday, with tech stocks leading the Nasdaq higher than other indexes, after fresh data pointed to a gradual softening of labor market conditions ahead of the highly anticipated Friday jobs report.</p>
+      <p>The S&P 500 (^GSPC) added 0.4%, while the Dow Jones Industrial Average (^DJI) hovered just above the flatline. The technology-heavy Nasdaq Composite (^IXIC) gained 0.8%.</p>	
+      <p>The stock and bond markets will both close for Good Friday on April 7.</p>	
+      <p>Government bond yields were higher. The yield on the 10-year note was up slightly, while rate-sensitive two-year note yields climbed to 3.82% Thursday.</p>
+      <p>On the commodities front, gold futures (GC=F) are shining right now after the metal managed to break the $2,000-per-ounce barrier on the back of weak U.S. economic data, as well as hopes that the Fed will raise rates more slowly.</p>
+      <p>Crude oil (CL=F) continues to hover around $80 a barrel, little changed after big gains to start the week. At the same time, gas prices nationwide have notched up to a five-month high, surpassing $3.50 per gallon, according to data from AAA. The jump comes as the OPEC+ coalition, in a surprise decision last weekend, decided to cut oil production.</p>
+      <p>Meanwhile, applications for U.S. unemployment benefits rose by 228,000 for the week ended April 1, the Labor Department data reported, higher than consensus estimates of 200,000. The prior week was revised up to 246,000 given the government's updated seasonal factors. Continuing claims were also revised up for the week ending March 18 from 1.689 million to 1.823 million.</p>
+      <p>This comes after a report Wednesday from the private payroll firm ADP showed that employers added 145,000 jobs in March as the labor market showed signs of slowing from its strong pace so far this year.</p>
+      <p>That figure was well below the consensus estimates of 210,000 and lower than the revised 261,000 jobs gained in February. But market strategists say it's unclear if ADP’s results foreshadow a softer nonfarm payrolls report Friday, where Wall Street's attention now turns.</p>
+      <p>Economists surveyed by Bloomberg expect Friday's jobs report to show 240,000 jobs created last month. This would be significantly lower than the average job gains of 343,000 over the last six months.</p>
+      <p>In additional jobs data earlier this week, the government's Job Openings and Labor Turnover Survey (JOLTS) found that openings receded more than expected to 9.931 million, marking the first time the number dropped below 10 million since May 2021.</p>
+      <p>The gradual slowing in the labor market may be encouraging for policymakers. Some investors are maintaining “a fairly dovish path” from the Fed over the coming months.</p>
+      <p>“For instance, at the next meeting in May, the chances of a rate hike according to futures remained at 47%, after having been as high as 70% earlier in the week,” Jim Reid and colleagues at Deutsche Bank wrote in a note to clients.</p>
+      <p>Meanwhile, Cleveland Fed President Loretta Mester said on Wednesday she predicts rates will need to move higher.</p>
+      <p>"Precisely how much higher the federal funds rate will need to go from here and for how long policy will need to remain restrictive will depend on how much inflation and inflation expectations are moving down," Mester said in a speech at the Money Marketeers of New York University.</p>
+      <p>Markets on Thursday seemed to welcome the comments from St. Louis Federal Reserve President James Bullard, who cooled fears that the recent bank failures will send the economy into a recession.</p>
+      <p>Separately, the International Monetary Fund Managing Director Kristalina Georgieva said Thursday that the global economy will grow less 3% this year, the lowest medium-term growth forecast since 1990.</p>
+      <p>In single-stock moves:</p>
+      <ul>
+        <li>Costco Wholesale Corporation (COST) shares slid after the retailer reported softer-than-expected March sales amid a slowdown in discretionary spending from consumers.</li>
+        <li>Shares of Palantir Technologies Inc. (PLTR) moved upward after the company expanded its cloud computing partnership with Microsoft to government agencies.</li>
+        <li>CrowdStrike Holdings, Inc. (CRWD) shares rose Thursday following an investor day on Tuesday during which hinted at coming up short on medium-term growth and profit outlook.</li>
+        <li>Shares of AMC Entertainment Holdings, Inc. (AMC) surged after Delaware's Court of Chancery ruled against a share conversion settlement.</li>
+        <li>Constellation Brands (STZ) shares gained after the company reported results that beat analyst expectations and increased its quarterly dividend.</li>
+        <li>Shares of Levi's (LEVI) plunged 16% after the retailer reported a drop in quarterly profit. The company maintained full-year guidance.</li>
+        <li>Airbnb (ABNB) shares were on the downswing Thursday after a publication reported that top professional hosts are building out their own booking platforms and offering discounts to cut out Airbnb.</li>
+        <li>Shares of Alphabet Inc. (GOOG) and (GOOGL) rose as Alphabet CEO Sundar Pichai remains bullish that Google's search engine can hold its ground against a ChatGPT-led AI onslaught. The company giant plans to add chat functionality to Google Search, according to the Wall Street Journal.</li>
+        <li>Elsewhere on the earnings front, WD-40 (WDFC), Lamb Weston (LW), and RPM (RPM) are also set to report on Thursday.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 319,
+    title: 'Dow Jones Falls After Surprise Jump In Jobless Claims; Costco Slides On Sales Drop',
+    category: 'Markets',
+    subCategory: ['Dow', 'Jones', 'sales'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average fell Thursday morning after a surprise jump in the Labor Department's weekly first-time jobless claims.  Meanwhile, membership warehouse retailer Costco (COST) slid more than 3% after reporting its first monthly same-store sales drop in nearly three years.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 6, 2023 - 6:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-330.jpg',
+    content: <div className="blog-content">
+      <p>The Dow Jones Industrial Average fell Thursday morning after a surprise jump in the Labor Department's weekly first-time jobless claims.  Meanwhile, membership warehouse retailer Costco (COST) slid more than 3% after reporting its first monthly same-store sales drop in nearly three years.</p>
+	    <p>Early Thursday, initial unemployment claims came in at 228,000. Economists expected a slight rise to 201,000. But the prior week was revised up sharply to 246,000 from 198,000.</p>
+	    <p>Late Wednesday, Costco said global same-store sales fell 1.1% in March. The last time those sales fell was in April 2020. Costco said U.S. same-store sales fell 1.5% in March, and there was a 2.4% decrease in Canada. Internationally, those sales rose 2%. E-commerce comparable sales slid 12.7%.</p>	
+	    <p>On the earnings front, Constellation Brands (STZ) and Levi Strauss (LEVI) offered results Thursday.</p>	
+	    <p>STZ stock rose 1% after the company reported mixed fourth-quarter results, while Levi shares fell more than 12% despite narrowly beating views.</p>
+      <h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) moved down around 2% Thursday morning . Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were lower after today's stock market open.</p>
+      <p>IBD Leaderboard stock Axon Enterprise (AXON), ServiceNow (NOW) and Southern Copper (SCCO) — as well as Dow Jones stocks Boeing (BA), Cisco Systems (CSCO) and Nike (NKE) — are among the top stocks to buy and watch with the ongoing market strength.</p>
+      <p>Boeing was featured in this week's Stocks Near A Buy Zone column. Axon, Skyline and Microsoft were all recent IBD Stock Of The Day subjects.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Thursday's opening bell, the Dow Jones Industrial Average fell 0.3%, and the S&P 500 lost 0.35%. The tech-heavy Nasdaq composite traded down 0.4% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) dropped 0.8%, while the SPDR S&P 500 ETF (SPY) fell 0.4% early Thursday.</p>
+      <p>The 10-year U.S. Treasury yield on Thursday ticked higher to 3.29%. On Wednesday, the 10-year yield closed at its lowest level since mid-September.</p>
+      <p>U.S. oil prices paused after this week's already-big gains, trading slightly higher in early morning trade. West Texas Intermediate futures traded just below $81 a barrel.</p>
+      <h3>Stock Market Rally</h3>
+      <p>On Wednesday, the Dow Jones Industrial Average rose 0.2%, while the S&P 500 dropped 0.25%. The tech-heavy Nasdaq composite sold off 1.1%.</p>
+      <p>Wednesday's Big Picture column commented, "Hundreds of banks will report quarterly earnings and updated guidance in the next two weeks, starting with Dow Jones component JPMorgan Chase (JPM), Citigroup (C) and Wells Fargo (WFC) on April 14. Many investors will be reluctant to add to exposure until they are confident this volatile group isn't headed into a 'contagion event.'"</p>
+      <p>Now is an important time to read IBD's The Big Picture column with the stock market in an uptrend.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: Boeing, Cisco Systems, Nike</h3>
+      <p>Dow Jones leader Boeing is nearing a flat base's 221.43 buy point, according to IBD MarketSmith pattern recognition. Shares fell 1.8% Wednesday, still holding above their 50-day line. BA stock fell 0.4% early Thursday.</p>
+      <p>Cisco Systems broke out past a flat base's 51.84 buy point during last week's advance. Bullishly, the stock's relative strength line hit a new high in recent weeks, a sign of market outperformance. Shares lost 1.6% Thursday.</p>
+      <p>Nike shares continue to see stout resistance around their 50-day line, falling 2.3% Wednesday. They continue to trace a flat base that has a 131.41 buy point. An early entry at 126.16 is also in play. NKE stock moved 1.5% Thursday.</p>
+      <h3>Top Stocks To Buy And Watch: Axon, ServiceNow, Southern Copper</h3>
+      <p>IBD Leaderboard stock Axon closed further below a 226.10 buy point Wednesday in a short consolidation with a 2.6% drop. Meanwhile, it also gave up an early entry at 221.79, above the March 21 high. AXON stock was down 0.7% Thursday.</p>
+      <p>Backstory: Axon's products are considered key for law enforcement, helping to build public trust. Meanwhile, its cloud-based software for managing police evidence, records and communications is geared to make officers more productive.</p>
+      <p>IBD SwingTrader pick ServiceNow continues to move up the right side of a cup base with a 494.72 buy point despite Wednesday's 1.8% fall, which could be the start of a potential handle. NOW stock lost 0.5% early Thursday.</p>
+      <p>Backstory: NOW software tracks and manages services provided by information-technology departments. Also, its self-service tech portal enables workers to access administrative and workflow tools. In the latest quarter, the Santa Clara, Calif-based enterprise software maker said earnings jumped 56% to $2.28 per adjusted share. Revenue climbed 20% to $1.94 billion.</p>
+      <p>Southern Copper appeared to find support at its 50-day line, about 6% away from a double-bottom's 78.75 buy point after Wednesday's 0.8% drop. SCCO stock was slightly lower Thursday morning.</p>
+      <p>Backstory: Southern Copper engages in the development, production and exploration of copper, zinc, silver and other minerals and metals. It has operations in Peru and Mexico. The company trades on the New York Stock Exchange and the Lima Stock Exchange. A bet on copper is a bet on a stronger global economy as well as green energy. Copper is used heavily in renewable energy projects and electric vehicles.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock fell another 3.7% Wednesday, extending this week's losses. Shares triggered the 7%-8% loss rule from a buy point at 200.76 in a cup with handle. And they fell sharply below their 50-day line, a key support level. The stock closed Wednesday 52% off its 52-week high.</p>
+      <p>TSLA stock dropped 2.5% in Thursday trade.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares fell 1.1% Wednesday, down a second day in a row. Shares remain near their highest level since August. AAPL stock fell 0.8% Thursday.</p>
+      <p>Microsoft shares remain in buy range past a flat base's 276.86 buy point amid a third-straight fall Wednesday. The stock is in the 5% buy area that goes from the buy point to 290.70. MSFT stock moved down 0.6% early Thursday.</p>
+      <p>Microsoft shares surged earlier this month after the company announced that it is adding artificial intelligence tools to its popular Office productivity applications suite. That follows the company's investments in artificial intelligence startup OpenAI, the firm behind the buzzworthy ChatGPT application.</p>
+    </div>
+  },
   {
     id: 307,
     title: 'FTSE 100 clings to modest gains amid recession fears',
@@ -435,6 +662,37 @@ const blogListdata = [
       <p>“The board and special committee are confident that the proposed separation into Teck Metals and Elk Valley Resources is in the best interests of Teck and all its stakeholders,” Chris Stannell, a spokesperson for Teck, said in an emailed statement. “Teck’s proposed separation positions Teck Metals and EVR for success and does not foreclose future opportunities for other value-enhancing transactions at the appropriate point and time.”</p>
       <p>In rejecting Glencore’s all-share offer, Teck Chief Executive Officer Jonathan Price said Monday that the spinoff structure proposed by the Swiss firm would expose Teck shareholders to its large thermal coal and oil trading businesses. Norman Keevil, Teck’s chairman emeritus, said that “now is not the time to explore a transaction of this nature.”</p>
       <p>Teck has also proposed ending the dual-class share structure that gives control to Class A shareholders — the Keevil family and its partners. But that change wouldn’t take effect for six years. In the meantime, a hostile takeover of Teck is impossible.</p>
+    </div>
+  },
+  {
+    id: 321,
+    title: 'Dogecoin soars 20% after the tokens Shiba Inu mascot replaces Twitters bird logo',
+    category: 'Crypto',
+    subCategory: ['Dogecoin', 'twitter', 'token'],
+    description: <div className="blog-desc">
+      <p>Dogecoin, the meme cryptocurrency that counts Elon Musk among its most famous supporters, soared 20% on Monday after the token's Shiba Inu mascot replaced the bird logo on Twitter's website. Meanwhile, Musk brushed off a lawsuit accusing him of running a pyramid scheme, with lawyers for the exec asking a judge to throw out the $258 billion case.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 4, 2023 - 12:14 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-332.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+       <li>Dogecoin jumped 20% on Monday after Twitter users noticed the token's Shiba Inu mascot on Twitter's website.</li>
+       <li>Elon Musk, who's regularly pumped the meme coin, also brushed off a lawsuit related to the token.</li>
+       <li>Musk's lawyers defended his "silly" tweets about the coin, asking a judge to toss a $258 billion suit.</li>
+      </ul>
+	    <p>Dogecoin, the meme cryptocurrency that counts Elon Musk among its most famous supporters, soared 20% on Monday after the token's Shiba Inu mascot replaced the bird logo on Twitter's website. Meanwhile, Musk brushed off a lawsuit accusing him of running a pyramid scheme, with lawyers for the exec asking a judge to throw out the $258 billion case.</p>
+	    <p>The price of Dogecoin surged to $.09 as of 2:30 pm ET, up about 19%.</p>	
+	    <p>The jump occurred as Twitter users noticed Dogecoin's distinctive Shiba Inu logo had replaced the bird icon on Twitter's website, per Decrypt's report.</p>	
+	    <p>The surge behind the token's price also comes a few days after Musk refuted claims from dogecoin investors alleging in a new lawsuit that Musk's well-documented affinity for the meme token was part of a "pyramid scheme" to support the cryptocurrency.</p>
+      <p>Musk's lawyers filed a request on Friday to dismiss the $258 billion suit, calling the claims brought forward a "fanciful work of fiction." They added that Musk's tweets about dogecoin, which include statements like "no highs, no lows, only Doge," were merely "innocuous" and "silly" remarks from the tech mogul.</p>
+      <p>When Insider reached out to Twitter for comment regarding the logo change and the lawsuit, Twitter responded with a poop emoji, which Musk previously said was the new auto-response to any email sent to Twitter's press team.</p>
+      <p>Musk has regularly tweeted about dogecoin for years, and first promoted it to his Twitter followers in 2019, when he said that the meme token was his "fav cryptocurrency."</p>
+      <p>The coin's valued peaked around $0.74 in mid-2021, but has since spiked periodically, often on comments from Musk. Dogecoin's last big jump came late last year, with the crypto gaining around $10 billion in market value as Musk began his takeover of Twitter.</p>
     </div>
   },
   {

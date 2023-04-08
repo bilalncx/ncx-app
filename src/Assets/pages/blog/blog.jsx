@@ -14,8 +14,10 @@ import { ReactComponent as Twitter } from '../../components/footer/twitter.svg';
 import { ReactComponent as Instagram } from '../../images/instagram.svg';
 import BlogSliders from '../../../blogcomponents/homeblog/BlogSlider/blogslider';
 import { Link } from 'react-router-dom';
+import { useTranslation } from "react-i18next";
 
 const Blog = () => {
+  const { t } = useTranslation();
   const { id } = useParams();
   const [blog, setBlog] = useState(null);
 
@@ -64,9 +66,9 @@ const Blog = () => {
                   <h3>Insights</h3>
                 </div>
                 <ul>
-                  <li><a href="https://ncx.cx/insights" alt="latest articles">Latest Articles</a></li>
-                  <li><a href="https://ncx.cx/insights" alt="News & Insights">Press News</a></li>
-                  <li><a href="#" alt="Press Room">Announcements</a></li>
+                  <li><a href="https://ncx.cx/insights" alt="latest articles">{t("latest_articles")}</a></li>
+                  <li><a href="https://ncx.cx/insights" alt="News & Insights">{t("press_news")}</a></li>
+                  <li><a href="#" alt="Press Room">{t("announcements")}</a></li>
                 </ul>
                 <SearchBar
                   value={searchKey}
@@ -74,9 +76,9 @@ const Blog = () => {
                   formSubmit={handleSearchBar}
                   handleSearchKey={(e) => setSearchKey(e.target.value)}
                 />
-                <h1>High-Yield Crypto Savings</h1>
-                <p className='left-text'>Earn a steady interest in your favorite crypto. Accrue per minute, no lockup!</p>
-                <Button className="insight-signup" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</Button>
+                <h1>{t("high_yield_crypto_savings")}</h1>
+                <p className='left-text'>{t("high_yield_crypto_savings_text")}</p>
+                <Button className="insight-signup" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
                 <div className="social-links">
                   <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
                   <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>
@@ -114,7 +116,7 @@ const Blog = () => {
             </div>
             <div className="col third">
               <div className="rightsidebar">
-                <h1>Latest Articles</h1>
+                <h1>{t("latest_articles")}</h1>
                 <BlogSliders />
               </div>
             </div>

@@ -143,9 +143,9 @@ function SupportPageSet()
                                     <li>Saving the QR code to the mobile phone or copying the key to the clipboard may pose a security risk. Please keep it properly.</li>
                                 </ul>
                                 <img src={FA4} alt="ncx-faq" />
-                                <p>4. Enter Google Authenticator code and click ‘Enable’</p>
+                                <p>5. Enter Google Authenticator code and click ‘Enable’</p>
                                 <img src={FA5} alt="ncx-faq" />
-                                <p>5. Completed, your Google Authenticator is now active, you will be asked to enter the code for Log-Ins, Withdrawals, Account and Settings Changes, in order to disable Google Authenticator you will be asked to provide the security code sent to the account registered email address</p>
+                                <p>6. Completed, your Google Authenticator is now active, you will be asked to enter the code for Log-Ins, Withdrawals, Account and Settings Changes, in order to disable Google Authenticator you will be asked to provide the security code sent to the account registered email address</p>
                                 <img src={FA6} alt="ncx-faq" />
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>

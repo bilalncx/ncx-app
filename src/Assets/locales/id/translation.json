@@ -255,6 +255,9 @@
   "search_by_category": "Cari berdasarkan Kategori",
   "commodities": "Komoditas",
   "Metals": "Logam",
+  "announcements": "Pengumuman",
+  "high_yield_crypto_savings": "Penghematan Kripto Hasil Tinggi",
+  "high_yield_crypto_savings_text": "Dapatkan minat tetap pada crypto favorit Anda. Bertambah per menit, tidak ada penguncian!",
 
   "******************************************************************************** ncx ambassador ********************************************************************************": "",
   "ncx_ambassador_text_1": "Ambasador NCX adalah mitra promosi global dari NCX - Bursa Mata Uang Kripto Global",
@@ -266,7 +269,7 @@
   "trading_volume_referred": "Volume Perdagangan Pengguna yang Dirujuk ",
   "last_month": "(Bulan lalu)",
   "and_or": "dan/atau",
-  "total_referred-traders": "Total Trader yang Dirujuk (Bulan Terakhir)",
+  "total_referred_traders": "Total Trader yang Dirujuk (Bulan Terakhir)",
   "referral_usdt": "Persentase Rujukan (USDT)",
   "silver": "Perak",
   "or": "atau",
@@ -514,7 +517,7 @@
   "trade_to_earn": "PERDAGANGKAN UNTUK MENGHASILKAN",
   "get_up_to_50,000_ncxt_simply_trading!": "Dapatkan hingga 50.000 NCXT, cukup dengan memperdagangkannya!",
   "trade_to_earn_text": "Daftar, Selesaikan Tugas dan dapatkan Token NCX, capai Level baru dan raih Hadiah.",
-  "sign_up_and_start-trading": "Daftar dan Mulai Trading",
+  "sign_up_and_start_trading": "Daftar dan Mulai Trading",
 
   "******************************************************************************** ncx card ********************************************************************************": "",
   "ncxt_crypto_debit_card": "Kartu Debit Kripto NCX",

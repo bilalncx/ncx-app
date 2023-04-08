@@ -12,8 +12,10 @@ import { ReactComponent as Telegram } from '../components/footer/telegram.svg';
 import { ReactComponent as Twitter } from '../components/footer/twitter.svg';
 import { ReactComponent as Instagram } from '../images/instagram.svg';
 import Buttons from '../pages/blog/search_btns';
+import { useTranslation } from "react-i18next";
 
 const Home = () => {
+  const { t } = useTranslation();
   const [blogs, setBlogs] = useState(blogListdata);
   const [searchKey, setSearchKey] = useState('');
 
@@ -55,8 +57,8 @@ const Home = () => {
           <div className="container">
             <div className="row">
               <div className="row-col">
-              <h1>Press & News</h1>
-              <p>Subscribe to get NCX Press & News updates</p>
+              <h1>{t("press_news")}</h1>
+              <p>{t("subscribe_press_news_updates")}</p>
               <Header />
               </div>
               <div className="row-col">
