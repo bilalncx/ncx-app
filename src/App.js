@@ -27,6 +27,7 @@ import FAQSpotTrading from './Assets/components/support/spottrading/sporttrading
 import FAQLearn from './Assets/components/support/learn/learn';
 import ApplyNow from './Assets/pages/Horizontalpage/horizontalpage';
 import NCXTokenPage from './Assets/pages/ncx-token/token';
+import MarketHomePageSection from './Assets/components/our_markets/home_market';
 
 const App = () => {
   return (
@@ -58,6 +59,7 @@ const App = () => {
           <Route path='/faq_learn' element={<FAQLearn />} />
           <Route path='/apply-now' element={<ApplyNow />} />
           <Route path='/ncx-token' element={<NCXTokenPage />} />
+          <Route path='/home-market' element={<MarketHomePageSection />} />
         </Routes>
       </BrowserRouter>
     // </div>

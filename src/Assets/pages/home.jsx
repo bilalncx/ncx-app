@@ -34,6 +34,7 @@ import WhatWeDoSection from '../components/homepage/whatwedo/whatwe';
 import MarketSLider from '../components/homepage/market/flyers';
 import NCXPoweredByCrypto from '../components/homepage/sect_poweredby/powered';
 // import HorizontalWhatWeDo from '../components/homepage/horizontalscrollsection/horizontal';
+import NCXNewHomeMarketSection from '../components/our_markets/home_market';
 
 
 function MainHome()
@@ -86,12 +87,12 @@ function MainHome()
                             <p>Exchange</p>
                         </div>
                     </AnimationOnScroll>
-                    <AnimationOnScroll animateIn="animate__fadeIn">
+                    {/* <AnimationOnScroll animateIn="animate__fadeIn">
                         <h3>Crypto Assets</h3>
-                    </AnimationOnScroll>
+                    </AnimationOnScroll> */}
                 </div>
                 <div className="container">
-                    <Marketpage />
+                    <NCXNewHomeMarketSection />
                 </div>
             </div>
 
