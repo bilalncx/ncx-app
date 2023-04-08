@@ -436,18 +436,18 @@ p.fet_tag {
     position: relative;
     z-index: 1;
 }
-#ncx_market_table tr:nth-child(8) td.quote_volume h2, #ncx_market_table tr:nth-child(18) td.quote_volume h2,
-#ncx_market_table tr:nth-child(32) td.quote_volume h2{
+#ncx_market_table tr:nth-child(9) td.quote_volume h2, #ncx_market_table tr:nth-child(20) td.quote_volume h2,
+#ncx_market_table tr:nth-child(35) td.quote_volume h2{
     position: relative;
     width: fit-content;
     margin: 0 auto;
 }
-#ncx_market_table tr:nth-child(8) td.quote_volume h2:after, #ncx_market_table tr:nth-child(18) td.quote_volume h2:after,
-#ncx_market_table tr:nth-child(32) td.quote_volume h2:after {
+#ncx_market_table tr:nth-child(9) td.quote_volume h2:after, #ncx_market_table tr:nth-child(20) td.quote_volume h2:after,
+#ncx_market_table tr:nth-child(35) td.quote_volume h2:after {
     content: ' BTC';
 }
-#ncx_market_table tr:nth-child(8) td.quote_volume h2:before, #ncx_market_table tr:nth-child(18) td.quote_volume h2:before,
-#ncx_market_table tr:nth-child(32) td.quote_volume h2:before{
+#ncx_market_table tr:nth-child(9) td.quote_volume h2:before, #ncx_market_table tr:nth-child(20) td.quote_volume h2:before,
+#ncx_market_table tr:nth-child(35) td.quote_volume h2:before{
     content: '';
     width: 8px;
     height: 20px;

@@ -70,7 +70,7 @@ function NCXhomepageOTCSection(){
                         </AnimationOnScroll>
                     </div>
                 </div>
-                <div className="feat-row row">
+                <div className="feat-row row second">
                     <div className="col">
                         <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
                             <div className="feat-line"></div>
@@ -105,11 +105,11 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>{t("ncx_token_utility_features_heading6")}</h2>
-                                    <p>{t("ncx_token_utility_features_paragraph6")}</p>
+                                    <h2>{t("ncx_token_utility_features_heading12")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph12")}</p>
                                 </div>
                                 <div className="featicon">
-                                    <Feature6 />
+                                    <Feature12 />
                                 </div>
                             </div>
                         </AnimationOnScroll>
@@ -193,11 +193,11 @@ function NCXhomepageOTCSection(){
                             <div className="feat-line"></div>
                             <div className="feat-txt">
                                 <div className="fftxt">
-                                    <h2>{t("ncx_token_utility_features_heading12")}</h2>
-                                    <p>{t("ncx_token_utility_features_paragraph12")}</p>
+                                    <h2>{t("ncx_token_utility_features_heading6")}</h2>
+                                    <p>{t("ncx_token_utility_features_paragraph6")}</p>
                                 </div>
                                 <div className="featicon">
-                                    <Feature12 />
+                                    <Feature6 />
                                 </div>
                             </div>
                         </AnimationOnScroll>

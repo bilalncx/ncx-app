@@ -22,7 +22,7 @@ function HomeNCXToken()
                     preload="auto"
                     poster="https://ncx.cx/images/ncx_line_poster.png"
                     >
-                    <source src="https://ncx.cx/images/ncx-token-video.mp4" type="video/mp4" />
+                    <source src="https://ncx.cx/images/ncx-token-mblvideo.mp4" type="video/mp4" />
                 </video>
             <div className="container">
                 <div className="stake_ncx">

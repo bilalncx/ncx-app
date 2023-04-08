@@ -21,6 +21,12 @@ h1.toke_feat span{
 .feat-row.row .col{
     padding: 0px !important;
 }
+.token_features .feat-row.row.second .fftxt {
+    min-height: 315px;
+}
+.token_features .feat-row.row.second .feat-line {
+    height: 360px;
+}
 .fftxt h2 {
     font-size: 25px;
     font-family: 'urbanist-medium';
