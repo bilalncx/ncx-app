@@ -9,11 +9,12 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-
+import { useTranslation } from "react-i18next";
 
 
 function SupportPageSet()
 {
+    const { t } = useTranslation();
     const [selected, setselected] = useState(null);
     const toggle = (i) => {
         if(selected === i){
@@ -35,32 +36,32 @@ function SupportPageSet()
                             <div className="support_leftbar">
                                 <div className="ncx-trends">
                                     <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                    <p>FAQs</p>
+                                    <p>{t("")}FAQs</p>
                                 </div>
 
                                 <div className="faq_nav">
-                                    <a href="/faq">FAQs</a>
+                                    <a href="/faq">{t("")}FAQs</a>
                                     <div className="arr_sv">
                                         <CardArrow />
                                     </div>
-                                    <p>Learn</p>
+                                    <p>{t("")}Learn</p>
                                 </div>
 
                                 <ul>
-                                    <li><a href="https://ncx.cx/faq">Registration & KYC</a></li>
-                                    <li><a href="https://ncx.cx/faq_security_google_2fa" alt="Settings & Security">Settings & Security</a></li>
-                                    <li><a href="https://ncx.cx/faq_deposits">Deposits</a></li>
-                                    <li><a href="https://ncx.cx/faq_withdrawal">Withdtrawal</a></li>
-                                    <li><a href="https://ncx.cx/faq">DEX</a></li>
-                                    <li><a href="https://ncx.cx/faq_spot_trading">Spot Trading</a></li>
-                                    <li><a href="https://ncx.cx/faq">Derivatives Trading</a></li>
-                                    <li><a href="https://ncx.cx/faq">Rewards & Referrals</a></li>
-                                    <li><a href="https://ncx.cx/faq_learn">Learn</a></li>
+                                    <li><a href="https://ncx.cx/faq">{t("")}Registration & KYC</a></li>
+                                    <li><a href="https://ncx.cx/faq_security_google_2fa" alt="Settings & Security">{t("")}Settings & Security</a></li>
+                                    <li><a href="https://ncx.cx/faq_deposits">{t("")}Deposits</a></li>
+                                    <li><a href="https://ncx.cx/faq_withdrawal">{t("")}Withdtrawal</a></li>
+                                    <li><a href="https://ncx.cx/faq">{t("")}DEX</a></li>
+                                    <li><a href="https://ncx.cx/faq_spot_trading">{t("")}Spot Trading</a></li>
+                                    <li><a href="https://ncx.cx/faq">{t("")}Derivatives Trading</a></li>
+                                    <li><a href="https://ncx.cx/faq">{t("")}Rewards & Referrals</a></li>
+                                    <li><a href="https://ncx.cx/faq_learn">{t("")}Learn</a></li>
                                 </ul>
 
-                                <h1 className="support_ticket">Open Support Ticket</h1>
-                                <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</a>
+                                <h1 className="support_ticket">{t("")}Open Support Ticket</h1>
+                                <p className="support_txt">{t("")}Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
+                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("")}Sign In</a>
 
                                 <div className="social-icons">
                                     <div class="icons"><a href="#" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
@@ -70,8 +71,8 @@ function SupportPageSet()
                             </div>
                         </div>
                         <div className="col sect">
-                            <h1>Learn FAQ's</h1>
-                            <h3 className="sub_title_ss">Blockchain, Cryptocurrency, Metaverse, NFTS & more</h3>
+                            <h1>{t("")}Learn FAQ's</h1>
+                            <h3 className="sub_title_ss">{t("")}Blockchain, Cryptocurrency, Metaverse, NFTS & more</h3>
                             <div id="learnfaq">
                                 <div className="accordian">
                                     {data.map((item, i) => (

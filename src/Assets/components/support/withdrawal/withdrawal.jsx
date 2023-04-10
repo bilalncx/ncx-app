@@ -18,11 +18,12 @@ import Withdrawal6 from '../../../images/withdrwal6.png';
 import Withdrawal7 from '../../../images/withdrwal7.png';
 import Withdrawal8 from '../../../images/withdrwal8.png';
 import CoinData from '.././deposit-payout-table';
-
+import { useTranslation } from "react-i18next";
 
 
 function SupportPageSet()
 {
+    const { t } = useTranslation();
     const [toggleState, setToggleState] = useState(1);
     const toggleTab = (index) => {
         setToggleState(index);
@@ -41,15 +42,15 @@ function SupportPageSet()
                             <div className="support_leftbar">
                                 <div className="ncx-trends">
                                     <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                    <p>FAQs</p>
+                                    <p>{t("faq")}</p>
                                 </div>
 
                                 <div className="faq_nav">
-                                    <a href="/faq">FAQs</a>
+                                    <a href="/faq">{t("faq")}</a>
                                     <div className="arr_sv">
                                         <CardArrow />
                                     </div>
-                                    <p>Withdrawal</p>
+                                    <p>{t("withdrawal")}</p>
                                 </div>
 
                                 <ul className="details_faqul">
@@ -58,7 +59,7 @@ function SupportPageSet()
                                             className={toggleState === 1 ? "faq-tabs active" : "faq-tabs"}
                                             onClick={() => toggleTab(1)}
                                         >
-                                        Withdrawals on Desktop
+                                        {t("withdrawals_on_desktop")}
                                         </button>
                                     </li>
                                     <li>
@@ -66,7 +67,7 @@ function SupportPageSet()
                                             className={toggleState === 2 ? "faq-tabs active" : "faq-tabs"}
                                             onClick={() => toggleTab(2)}
                                         >
-                                        Withdrawals on Mobile App
+                                        {t("withdrawals_on_mobile_app")}
                                         </button>
                                     </li>
                                     <li>
@@ -74,14 +75,14 @@ function SupportPageSet()
                                             className={toggleState === 3 ? "faq-tabs active" : "faq-tabs"}
                                             onClick={() => toggleTab(3)}
                                         >
-                                        Minimum Withdrawal
+                                        {t("minimum_withdrawal")}
                                         </button>
                                     </li>
                                 </ul>
 
-                                <h1 className="support_ticket">Open Support Ticket</h1>
-                                <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</a>
+                                <h1 className="support_ticket">{t("open_support_ticket")}</h1>
+                                <p className="support_txt">{t("open_support_ticket_text")}<a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
+                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
 
                                 <div className="social-icons">
                                     <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
@@ -92,36 +93,36 @@ function SupportPageSet()
                         </div>
                         <div className="col sect">
                             <div className={toggleState === 1 ? "sprt-content active" : "sprt-content"}>
-                                <h1>Make a Withdrawal</h1>
-                                <p>Please follow the simple steps below to Withdraw Cryptocurrencies from your NCX Wallet.</p>
-                                <p>1. Go to ‘Wallets’ section in NCX Dashboard and select the Asset you wish to Withdraw.</p>
+                                <h1>{t("make_a_withdrawal")}</h1>
+                                <p>{t("follow_step_to_withdrawal")}</p>
+                                <p>{t("withdrawal_step_1")}</p>
                                 <img src={Withdrawal1} alt="ncx-deposits" />
-                                <p>2. Click on 3 dots in the top right corner of the wallet widget, select ‘Withdraw’</p>
+                                <p>{t("withdrawal_step_2")}</p>
                                 <img src={Withdrawal2} alt="ncx-deposits" />
-                                <p>3. Choose the Blockchain Network, make sure you are sending assets via correct network, if you send the funds via wrong network, they would be permanently lost</p>
+                                <p>{t("withdrawal_step_3")}</p>
                                 <img src={Withdrawal3} alt="ncx-deposits" />
-                                <p>4. Enter the amount</p>
+                                <p>{t("withdrawal_step_4")}</p>
                                 <img src={Withdrawal4} alt="ncx-deposits" />
-                                <p>5. Enter a withdrawal wallet address or select the address from  ‘Saved Withdrawals’</p>
+                                <p>{t("withdrawal_step_5")}</p>
                                 <img src={Withdrawal5} alt="ncx-deposits" />
-                                <p>6. Enter a confirmation code sent to the registered email, if you have not received an email check junk/spam folder</p>
+                                <p>{t("withdrawal_step_6")}</p>
                                 <img src={Withdrawal6} alt="ncx-deposits" />
                                 <img src={Withdrawal7} alt="ncx-deposits" />
-                                <p>7. You will receive a ‘successful withdrawal’ confirmation email, to view your recent withdrawals go to ‘Transactions’ section in your NCX Dashboard and select ‘Withdraw’</p>
+                                <p>{t("withdrawal_step_7")}</p>
                                 <img src={Withdrawal8} alt="ncx-deposits" />
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
-                                <h2>How to Make a Withdrawal on Mobile</h2>
+                                <h2>{t("how_make_withdrawal_on_mobile")}</h2>
                             </div>
                             <div className={toggleState === 3 ? "sprt-content active" : "sprt-content"}>
-                                <h2>Minimum Withdrawal</h2>
+                                <h2>{t("minimum_withdrawal")}</h2>
                                 <div className="coin-wrapper">
                                     <table>
                                         <tr className="coin-headrow">
-                                            <th>Name</th>
-                                            <th>Blockchain</th>
-                                            <th>Deposit / Payout, min*</th>
-                                            <th>Block Explorer</th>
+                                            <th>{t("name")}</th>
+                                            <th>{t("blockchain")}</th>
+                                            <th>{t("deposit_payout_min")}</th>
+                                            <th>{t("block_explorer")}</th>
                                         </tr>
                                         {CoinData.map((coin, i) => (
                                         <tr className="coin-row">
@@ -131,7 +132,7 @@ function SupportPageSet()
                                             </td>
                                             <td><p>{coin.blockchain}</p></td>
                                             <td><p>{coin.depostpayout}</p></td>
-                                            <td><a href={coin.blockexplorer} target="_blank" rel="noreferrer">Block Explorer</a></td>
+                                            <td><a href={coin.blockexplorer} target="_blank" rel="noreferrer">{t("block_explorer")}</a></td>
                                         </tr>
                                     ))}
                                     </table>
