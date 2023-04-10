@@ -12,16 +12,19 @@ import { ReactComponent as Partnership7 } from '../../../images/ncx-part7.svg';
 import { ReactComponent as Partnership8 } from '../../../images/ncx-part8.svg';
 import Partnership9 from '../../../images/ncx-part9.png';
 import { ReactComponent as Partnership10 } from '../../../images/ncx-part10.svg';
+import { useTranslation } from "react-i18next";
 
 function NCXPartnerships()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="ncx-partnerships">
             <div className="container">
                 <AnimationOnScroll className="trading_col" animateIn="animate__fadeIn">
                     <div className="about_logo">
                         <AboutLogo />
-                        <h1>Partnerships</h1>
+                        <h1>{t("partnerships")}</h1>
                     </div>
                 </AnimationOnScroll>
                 <div className="partnerships row">

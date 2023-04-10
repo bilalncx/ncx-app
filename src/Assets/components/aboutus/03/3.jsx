@@ -19,7 +19,7 @@ function InstitutionAboutUs()
             <div className="container">
                 <div className="about_logo">
                     <AboutLogo />
-                    <h1>Institutional</h1>
+                    <h1>{t("institutional")}</h1>
                 </div>
             </div>
             <div id="institutional_about">
@@ -33,7 +33,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("liquidity_program")}</h2>
-                                        <p>{t("liquidity_program_text")}</p>
+                                        <p>{t("about_liqiuidity_program")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC4 />
@@ -49,7 +49,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("broker_program")}</h2>
-                                        <p>{t("broker_program_text")}</p>
+                                        <p>{t("about_broker_program_text")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC5 />

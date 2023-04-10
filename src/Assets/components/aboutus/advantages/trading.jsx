@@ -20,7 +20,7 @@ function InstitutionAboutUs()
             <div className="container">
                 <div className="about_logo">
                     <AboutLogo />
-                    <h1>Trading Advantages</h1>
+                    <h1>{t("trading_advantage")}</h1>
                 </div>
             </div>
             <div id="institutional_about">
@@ -34,7 +34,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("compliance")}</h2>
-                                        <p>{t("trading_advantages_text1")}</p>
+                                        <p>{t("compliance_text")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC4 />
@@ -50,7 +50,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("risk_management")}</h2>
-                                        <p>{t("trading_advantages_text2")}</p>
+                                        <p>{t("risk_management_text")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC5 />
@@ -126,7 +126,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("api_sdk_colo_service")}</h2>
-                                        <p>{t("trading_advantage_text6")}</p>
+                                        <p>{t("api-sdk-colo-text")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC1 />

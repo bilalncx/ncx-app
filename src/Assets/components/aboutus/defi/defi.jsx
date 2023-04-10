@@ -2,9 +2,12 @@ import React from "react";
 import './defi.css';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import { ReactComponent as AboutLogo } from '../../../images/about_logo.svg';
+import { useTranslation } from "react-i18next";
 
 function AboutNCXDefi()
 {
+    const { t } = useTranslation();
+
     return(
         <div className="about_defi">
             <div className="container">
@@ -16,8 +19,8 @@ function AboutNCXDefi()
                 </AnimationOnScroll>
                 <div id="defi_content">
                     <div className="ccc">
-                        <h1>Swap 300k+ Tokens across 10 Chains with NCX DeFi. Migrate assets between different chains.</h1>
-                        <p>Including Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora</p>
+                        <h1>{t("about_defi_heading")}</h1>
+                        <p>{t("about_defi_text")}</p>
                     </div>
                 </div>
             </div>
