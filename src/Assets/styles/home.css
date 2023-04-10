@@ -195,3 +195,79 @@ div#footer-faq {
     background-position: center;
     padding: 120px 0px 80px 0px;
 }
+
+
+/* Other Page FAQ Starts from here */
+#card-faqss details{
+    border: 1px solid #efefef;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 24px;
+}
+#card-faqss summary {
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px !important;
+    border: none;
+    font-family: "urbanist-semibold" !important;
+    font-size: 18px;
+    line-height: 26px;
+}
+#card-faqss span.red {
+    background: transparent !important;
+}
+#card-faqss span.red svg{
+    width: 10px !important;
+    height: auto !important;
+}
+#card-faqss span.red svg path{
+    fill: #000000 !important;
+}
+.contt{
+    transition: all .4s cubic-bezier(1,1,1,1);
+    max-height: 0;
+    margin-bottom: 20px !important;
+    overflow: hidden;
+}
+details[open] .contt {
+    height: auto !important;
+    margin-bottom: 20px !important;
+    max-height: 9999px;
+    padding-top: 20px!important;
+    transition: all .4s cubic-bezier(1,1,1,1);
+}
+#card-faqss .accordian .contt p {
+    color: #000;
+    font-family: "urbanist-light" !important;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 10px !important;
+}
+#card-faqss .contt ul{
+    margin-top: 20px;
+    padding-left: 0;
+}
+#card-faqss .contt ul li{
+    font-family: "urbanist-light" !important;
+    font-size: 16px!important;
+    line-height: 24px;
+    list-style-type: none!important;
+    padding: 5px 0 5px 20px;
+    position: relative;
+}
+#card-faqss .contt ul li:before{
+    content: "-";
+    left: 0;
+    position: absolute;
+}
+
+@media screen and (max-width: 800px){
+    #card-faqss summary {
+        font-size: 16px!important;
+        line-height: 20px!important;
+        padding-right: 20px;
+        font-family: "urbanist-regular" !important;
+    }
+}

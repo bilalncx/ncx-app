@@ -1,9 +1,9 @@
-#ncx_about .col.card_imga {
+#ncx_about .col.card_imgb {
     text-align: center;
     display: flex;
     align-items: center;
 }
-#ncx_about .col.card_imga img {
+#ncx_about .col.card_imgb img {
     width: 100% !important;
     max-height: 430px;
     min-height: 350px;
