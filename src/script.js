@@ -1,6 +1,19 @@
 import $ from 'jquery'; 
 
 $(document).ready(function(){
+  var movementStrength = -5;
+  var height = movementStrength / $(window).height();
+  var width = movementStrength / $(window).width();
+  $("#defi_content").mousemove(function(e){
+            var pageX = e.pageX - ($(window).width() / 3);
+            var pageY = e.pageY - ($(window).height() / 3);
+            var newvalueX = width * pageX * -1 - 0;
+            var newvalueY = height * pageY * -1 - 5;
+            $('#defi_content').css("background-position", newvalueX+"px     "+newvalueY+"px");
+  });
+});
+
+$(document).ready(function(){
     $('.loadingbar').delay(4500).animate({left: '0'}, 5500);
     $('.loadingBox').delay(500).animate({opacity: '1'}, 1000);
     $('.splashupperscreen').delay(9000).animate({top: '-100%'}, 2000);
@@ -165,6 +178,8 @@ $(document).ready(function() {
     } else if (window.location.href.indexOf("/faq_learn") > -1){
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/ncx-token") > -1){
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/about-us") > -1){
       $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");

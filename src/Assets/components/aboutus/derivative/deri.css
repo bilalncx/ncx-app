@@ -1,0 +1,41 @@
+.trade_derivatives_xx {
+    padding: 30px;
+    margin-top: 60px;
+    position: relative;
+}
+.trade_derivatives_xx:before{
+    content: '';
+    background: #F7F7F7;
+    min-height: 600px;
+    display: block;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+div#trade-tabs-sect{
+    padding: 30px 0px 0px 0px;
+}
+.tvs {
+    text-align: end;
+}
+.tvs h1 {
+    font-size: 35px;
+    font-family: 'urbanist-medium';
+}
+.tvs p {
+    font-size: 17px;
+    font-family: 'urbanist-regular';
+    color: #9153EA;
+}
+div#derivative {
+    padding: 100px 0px;
+    min-height: 1000px;
+}
+.trade_derivatives_xx .content-tabs {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    padding: 40px;
+}

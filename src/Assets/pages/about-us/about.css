@@ -1,0 +1,14 @@
+#ncx_about .col.card_imga {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#ncx_about .col.card_imga img {
+    width: 100% !important;
+    max-height: 430px;
+    min-height: 350px;
+    object-fit: contain;
+}
+.market_maker_about .market-discount h1{
+    display: none;
+}

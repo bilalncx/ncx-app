@@ -111,6 +111,7 @@ h1.market_benefits span, .transaction_rebates .hsd13 h3 span {
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
         height: 46px;
+        min-width: unset !important;
     }
     #marketmakers_page .market-content{
         border-radius: 0px;

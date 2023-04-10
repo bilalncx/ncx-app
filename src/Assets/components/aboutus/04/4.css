@@ -1,0 +1,71 @@
+.about-faq{
+    position: relative;
+}
+#accord .row {
+    margin: 0 auto;
+    display: flex;
+}
+div#accord {
+    padding: 100px 0px;
+}
+.trading_col {
+    width: 40%;
+    padding: 0px;
+}
+.accord-about {
+    width: 60%;
+    padding: 0px !important;
+}
+.accord-about .accordian h2{
+    color: #000000;
+}
+.accord-about .accordian .content p{
+    color: #000000;
+}
+.accord-about span.svg {
+    background: rgb(0,0,0, 0.1) !important;
+}
+.title{
+    border-top: 1px solid rgb(0,0,0, 0.5);
+}
+span.red {
+    background: rgb(0,0,0, 0.1) !important;
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 50px;
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+span.red svg{
+    width: 15px;
+    height: auto;
+}
+.accordian details[open] span.red{
+    transform: rotate(180deg);
+    transition: all 0.4s cubic-bezier(1,1,1,1);
+}
+.contt{
+    overflow: hidden;
+    margin-bottom: 20px;
+    font-family: "urbanist-light" !important;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: #000000;
+}
+summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid rgb(0,0,0, 0.5);
+    padding: 30px 0px;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 26px;
+    color: #000000;
+    font-family: 'urbanist-regular' !important;
+}

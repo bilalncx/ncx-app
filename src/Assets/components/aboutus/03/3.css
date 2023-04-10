@@ -1,0 +1,72 @@
+.about_logo {
+    display: flex;
+    align-items: center;
+}
+.about_logo h1 {
+    font-size: 33px;
+    font-family: 'hauora-regular';
+    color: #000;
+    padding-left: 10px;
+    margin-left: 10px;
+    border-left: 1px solid #000000;
+}
+#institutional_about .txtimgsect {
+    padding: 0px 60px 0px 25px;
+}
+#institutional_about .otctxt h2 {
+    font-size: 27px;
+    font-family: 'urbanist-medium';
+    color: #000000;
+    margin-bottom: 15px;
+}
+#institutional_about .otctxt p {
+    font-size: 16px;
+    font-family: 'urbanist-light';
+    color: #000000;
+    margin-bottom: 15px;
+    min-height: unset !important;
+}
+#institutional_about .OTCsect.one.row .otctxt {
+    min-height: 232px;
+}
+#institutional_about .OTCsect.second.row .otctxt {
+    min-height: 232px;
+}
+#about_institution {
+    padding: 30px 0px 50px 0px;
+}
+#institutional_about .OTCsect.row .col{
+    padding: 0px;
+}
+
+@media screen and (max-width: 800px){
+    #institutional_about .otctxt h2 {
+        font-size: 16px;
+    }
+    #institutional_about .otctxt p {
+        font-size: 13px;
+    }
+    #institutional_about .txtimgsect {
+        padding: 0 10px 0 14px !important;
+    }
+    #institutional_about .liquidity-row .otctxt {
+        min-height: 165px !important;
+    }
+    #institutional_about .access_defi .otctxt {
+        min-height: 270px !important;
+    }
+    #institutional_about .structured_product .otc-line {
+        height: 270px !important;
+    }
+    #institutional_about .structured_product .otctxt {
+        min-height: 235px !important;
+    }
+    .about_logo h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .about_logo svg {
+        width: 105px;
+        height: auto;
+    }
+}

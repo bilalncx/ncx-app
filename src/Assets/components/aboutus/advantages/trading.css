@@ -1,0 +1,9 @@
+.otctxt.extra p {
+    margin-bottom: 0px !important;
+}
+#about_institution.trading_advantages .OTCsect.one.row .otctxt {
+    min-height: 340px;
+}
+#about_institution.trading_advantages .OTCsect.one.row .otc-line {
+    height: 380px;
+}
