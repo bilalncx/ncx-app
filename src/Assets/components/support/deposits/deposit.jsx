@@ -47,7 +47,7 @@ function SupportPageSet()
                                     <div className="arr_sv">
                                         <CardArrow />
                                     </div>
-                                    <p>Deposits</p>
+                                    <p>{t("deposits")}</p>
                                 </div>
 
                                 <ul className="details_faqul">
@@ -56,7 +56,7 @@ function SupportPageSet()
                                             className={toggleState === 1 ? "faq-tabs active" : "faq-tabs"}
                                             onClick={() => toggleTab(1)}
                                         >
-                                        Deposits on Desktop
+                                        {t("deposits_on_desktop")}
                                         </button>
                                     </li>
                                     <li>
@@ -64,7 +64,7 @@ function SupportPageSet()
                                             className={toggleState === 2 ? "faq-tabs active" : "faq-tabs"}
                                             onClick={() => toggleTab(2)}
                                         >
-                                        Deposits on Mobile App
+                                        {t("deposits_on_mobile_app")}
                                         </button>
                                     </li>
                                     <li>
@@ -72,14 +72,14 @@ function SupportPageSet()
                                             className={toggleState === 3 ? "faq-tabs active" : "faq-tabs"}
                                             onClick={() => toggleTab(3)}
                                         >
-                                        Minimum Deposits
+                                        {t("minimum_deposits")}
                                         </button>
                                     </li>
                                 </ul>
 
-                                <h1 className="support_ticket">Open Support Ticket</h1>
-                                <p className="support_txt">Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</a>
+                                <h1 className="support_ticket">{t("open_support_ticket")}</h1>
+                                <p className="support_txt">{t("open_support_ticket_text")}<a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
+                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
 
                                 <div className="social-icons">
                                     <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
@@ -90,31 +90,31 @@ function SupportPageSet()
                         </div>
                         <div className="col sect">
                             <div className={toggleState === 1 ? "sprt-content active" : "sprt-content"}>
-                                <h1>Make a Deposit</h1>
-                                <p>Please follow the simple steps below to Deposit Cryptocurrencies into your NCX Account.</p>
-                                <p>1. Go to ‘Wallets’ section in NCX Dashboard and select the Asset you wish to deposit.</p>
+                                <h1>{t("make_a_deposit")}</h1>
+                                <p>{t("follow_steps_to_deposit")}</p>
+                                <p>{t("deposit_step_1")}</p>
                                 <img src={Deposit1} alt="ncx-deposits" />
-                                <p>2. Click on 3 dots in the top right corner of the wallet widget, select ‘Deposit’</p>
+                                <p>{t("deposit_step_2")}</p>
                                 <img src={Deposit2} alt="ncx-deposits" />
-                                <p>3. Choose the Blockchain Network, make sure you are sending assets via correct network, if you send the funds via wrong network, they would be permanently lost</p>
+                                <p>{t("deposit_step_3")}</p>
                                 <img src={Deposit3} alt="ncx-deposits" />
-                                <p>4. Copy the Wallet Address and proceed with Deposit</p>
+                                <p>{t("deposit_step_4")}</p>
                                 <img src={Deposit4} alt="ncx-deposits" />
-                                <p>5. You will receive a ‘successful deposit’ confirmation email, to view your recent deposits go to ‘Transactions’ section in your NCX Dashboard and selects ‘Deposit’</p>
+                                <p>{t("deposit_step_5")}</p>
                                 <img src={Deposit5} alt="ncx-deposits" />
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
-                                <h2>How to Make a Deposits on Mobile</h2>
+                                <h2>{t("how_to_make_deposit_on_mobile")}</h2>
                             </div>
                             <div className={toggleState === 3 ? "sprt-content active" : "sprt-content"}>
-                                <h2>Minimum Deposits</h2>
+                                <h2>{t("minimum_deposits")}</h2>
                                 <div className="coin-wrapper">
                                     <table>
                                         <tr className="coin-headrow">
-                                            <th>Name</th>
-                                            <th>Blockchain</th>
-                                            <th>Deposit / Payout, min*</th>
-                                            <th>Block Explorer</th>
+                                            <th>{t("name")}</th>
+                                            <th>{t("blockchain")}</th>
+                                            <th>{t("deposit_payout_min")}</th>
+                                            <th>{t("block_explorer")}</th>
                                         </tr>
                                         {CoinData.map((coin, i) => (
                                         <tr className="coin-row">
@@ -124,7 +124,7 @@ function SupportPageSet()
                                             </td>
                                             <td><p>{coin.blockchain}</p></td>
                                             <td><p>{coin.depostpayout}</p></td>
-                                            <td><a href={coin.blockexplorer} target="_blank" rel="noreferrer">Block Explorer</a></td>
+                                            <td><a href={coin.blockexplorer} target="_blank" rel="noreferrer">{t("block_explorer")}</a></td>
                                         </tr>
                                     ))}
                                     </table>
