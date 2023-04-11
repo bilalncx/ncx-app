@@ -1,4 +1,5 @@
 import { EconomicCalendar } from "react-ts-tradingview-widgets";
+import { MarketData } from "react-ts-tradingview-widgets";
 
 function NCXWidget()
 {
@@ -6,6 +7,8 @@ function NCXWidget()
         <div className="economic_calendar">
             <div className="container">
             <EconomicCalendar colorTheme="light" height={800} width="100%" locale="en" currencyFilter="USD,EUR,ITL,NZD,CHF,AUD,FRF,JPY,ZAR,TRL,CAD,DEM,MXN,ESP,GBP" importanceFilter="-1,0,1"></EconomicCalendar>
+
+            <MarketData colorTheme="light" width="100%" height={400} locale="en"></MarketData>
             </div>
         </div>
     )

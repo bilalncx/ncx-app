@@ -30,7 +30,7 @@ function MarketPage(){
         const price = Pairs.last;
         const fixedNum = parseFloat(price).toFixed(2);
         
-        const change = Pairs.percentChange;
+        const change = Pairs.percentChange * 100;
         const changed = parseFloat(change).toFixed(4);
 
         const hig = Pairs.high24hr;
@@ -253,10 +253,9 @@ export default MarketPage;
 
 $(".latest_change h2").each(function() {
     var val = parseFloat($(this).text());
-    $(this).addClass(val < 0.0 ? 'negative' : 'positive');
-  });
+    $(this).addClass(val >= 0 ? 'positive' : 'negative');
+});
 
-
-  $("#ncx_market_table tr").hover(function(){
-    $("#ncx_market_table tr").toggleClass("clicked");
-  });
+//   $("#ncx_market_table tr").hover(function(){
+//     $("#ncx_market_table tr").toggleClass("clicked");
+//   });

@@ -157,123 +157,107 @@ function NCXhomepageOTCSection(){
 
 
                 <div className="feat-row row mobile one">
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading1")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph1")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature1 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading1")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph1")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature1 />
+                            </div>
+                        </div>
                     </div>
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading2")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph2")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature2 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading2")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph2")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature2 />
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div className="feat-row row mobile two">
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading3")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph3")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature3 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading3")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph3")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature3 />
+                            </div>
+                        </div>
                     </div>
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading4")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph4")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature6 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading4")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph4")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature6 />
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div className="feat-row row mobile three">
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading5")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph5")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature5 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading5")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph5")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature5 />
+                            </div>
+                        </div>
                     </div>
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading6")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph6")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature4 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading6")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph6")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature4 />
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div className="feat-row row mobile four">
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading7")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph7")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature7 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading7")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph7")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature7 />
+                            </div>
+                        </div>
                     </div>
-                    <div className="col">
-                        <AnimationOnScroll className="features-col" animateIn="animate__fadeIn">
-                            <div className="feat-line"></div>
-                            <div className="feat-txt">
-                                <div className="fftxt">
-                                    <h2>{t("ncxt_token_allocation_heading8")}</h2>
-                                    <p>{t("ncxt_token_allocation_paragraph8")}</p>
-                                </div>
-                                <div className="featicon">
-                                    <Feature11 />
-                                </div>
+                    <div className="col features-col">
+                        <div className="feat-line"></div>
+                        <div className="feat-txt">
+                            <div className="fftxt">
+                                <h2>{t("ncxt_token_allocation_heading8")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph8")}</p>
                             </div>
-                        </AnimationOnScroll>
+                            <div className="featicon">
+                                <Feature11 />
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

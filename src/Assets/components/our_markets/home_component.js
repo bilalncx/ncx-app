@@ -8,11 +8,6 @@ async function getapi(url) {
 	// Storing data in form of JSON
 	var data = await response.json();
 	
-    console.log(data);
-    
-    console.log(data.AAVE_USDT);
-
-
 	if (response) {
 		hideloader();
 	}
@@ -86,17 +81,17 @@ function show(data) {
 	const MATIC5 = data.MATIC_USDT.quoteVolume;
     const MATIC_Volume = parseFloat(MATIC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
-	// DAI 
-	const DAI = data.DAI_USD.id;
-	const DAI_ID = DAI.replace(/_/g, " / ");  
-	const DAI2 = data.DAI_USD.last;
-	const DAI_Price = parseFloat(DAI2).toFixed(2);
-	const DAI3 = data.DAI_USD.high24hr;
-	const DAI_High = parseFloat(DAI3).toFixed(4);
-	const DAI4 = data.DAI_USD.low24hr;
-	const DAI_Low = parseFloat(DAI4).toFixed(4);
-	const DAI5 = data.DAI_USD.quoteVolume;
-    const DAI_Volume = parseFloat(DAI5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+	// LTC 
+	const LTC = data.LTC_USDT.id;
+	const LTC_ID = LTC.replace(/_/g, " / ");  
+	const LTC2 = data.LTC_USDT.last;
+	const LTC_Price = parseFloat(LTC2).toFixed(2);
+	const LTC3 = data.LTC_USDT.high24hr;
+	const LTC_High = parseFloat(LTC3).toFixed(4);
+	const LTC4 = data.LTC_USDT.low24hr;
+	const LTC_Low = parseFloat(LTC4).toFixed(4);
+	const LTC5 = data.LTC_USDT.quoteVolume;
+    const LTC_Volume = parseFloat(LTC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
 	// XRP 
 	const XRP = data.XRP_USD.id;
@@ -122,17 +117,17 @@ function show(data) {
 	const USDC5 = data.USDC_USD.quoteVolume;
     const USDC_Volume = parseFloat(USDC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
-	// ZEC 
-	const ZEC = data.ZEC_USDT.id;
-	const ZEC_ID = ZEC.replace(/_/g, " / ");  
-	const ZEC2 = data.ZEC_USDT.last;
-	const ZEC_Price = parseFloat(ZEC2).toFixed(2);
-	const ZEC3 = data.ZEC_USDT.high24hr;
-	const ZEC_High = parseFloat(ZEC3).toFixed(4);
-	const ZEC4 = data.ZEC_USDT.low24hr;
-	const ZEC_Low = parseFloat(ZEC4).toFixed(4);
-	const ZEC5 = data.ZEC_USDT.quoteVolume;
-    const ZEC_Volume = parseFloat(ZEC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+	// BAND 
+	const BAND = data.BAND_USDT.id;
+	const BAND_ID = BAND.replace(/_/g, " / ");  
+	const BAND2 = data.BAND_USDT.last;
+	const BAND_Price = parseFloat(BAND2).toFixed(2);
+	const BAND3 = data.BAND_USDT.high24hr;
+	const BAND_High = parseFloat(BAND3).toFixed(4);
+	const BAND4 = data.BAND_USDT.low24hr;
+	const BAND_Low = parseFloat(BAND4).toFixed(4);
+	const BAND5 = data.BAND_USDT.quoteVolume;
+    const BAND_Volume = parseFloat(BAND5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
 	// BNB 
 	const BNB = data.BNB_USDT.id;
@@ -159,17 +154,17 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${BTC_High}</h1>
-				<p>${BTC_High}</p>
+				<p>≈$${BTC_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${BTC_Low}</h1>
-				<p>${BTC_Low}</p>
+				<p>≈$${BTC_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/btc_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${BTC_Volume}</h1>
+				<h1>$${BTC_Volume}</h1>
 			</td>
 		</tr>
 
@@ -184,17 +179,17 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${ETH_High}</h1>
-				<p>${ETH_High}</p>
+				<p>≈$${ETH_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${ETH_Low}</h1>
-				<p>${ETH_Low}</p>
+				<p>≈$${ETH_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/eth_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${ETH_Volume}</h1>
+				<h1>$${ETH_Volume}</h1>
 			</td>
 		</tr>
 
@@ -209,17 +204,17 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${USDT_High}</h1>
-				<p>${USDT_High}</p>
+				<p>≈$${USDT_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${USDT_Low}</h1>
-				<p>${USDT_Low}</p>
+				<p>≈$${USDT_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/usdt_usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${USDT_Volume}</h1>
+				<h1>$${USDT_Volume}</h1>
 			</td>
 		</tr>
 
@@ -234,17 +229,17 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${BCH_High}</h1>
-				<p>${BCH_High}</p>
+				<p>≈$${BCH_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${BCH_Low}</h1>
-				<p>${BCH_Low}</p>
+				<p>≈$${BCH_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/bch_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${BCH_Volume}</h1>
+				<h1>$${BCH_Volume}</h1>
 			</td>
 		</tr>
 
@@ -259,17 +254,17 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${BNB_High}</h1>
-				<p>${BNB_High}</p>
+				<p>≈$${BNB_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${BNB_Low}</h1>
-				<p>${BNB_Low}</p>
+				<p>≈$${BNB_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/bnb_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${BNB_Volume}</h1>
+				<h1>$${BNB_Volume}</h1>
 			</td>
 		</tr>
 
@@ -284,42 +279,42 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${MATIC_High}</h1>
-				<p>${MATIC_High}</p>
+				<p>≈$${MATIC_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${MATIC_Low}</h1>
-				<p>${MATIC_Low}</p>
+				<p>≈$${MATIC_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/matic_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${MATIC_Volume}</h1>
+				<h1>$${MATIC_Volume}</h1>
 			</td>
 		</tr>
 
 		<tr>
 			<td class="mark-pair">
-				<img src="https://ncx.cx/images/dai.svg" alt="coin-logo" />
-				<h1>${DAI_ID}</h1>
+				<img src="https://ncx.cx/images/ltc.svg" alt="coin-logo" />
+				<h1>${LTC_ID}</h1>
 			</td>
 			<td class="mark-price">
-				<h1>${DAI_Price}</h1>
-				<p>≈$${DAI_Price}</p>
+				<h1>${LTC_Price}</h1>
+				<p>≈$${LTC_Price}</p>
 			</td>
 			<td class="mark-high">
-				<h1>${DAI_High}</h1>
-				<p>${DAI_High}</p>
+				<h1>${LTC_High}</h1>
+				<p>≈$${LTC_High}</p>
 			</td>
 			<td class="mark-low">
-				<h1>${DAI_Low}</h1>
-				<p>${DAI_Low}</p>
+				<h1>${LTC_Low}</h1>
+				<p>≈$${LTC_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/dai_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${DAI_Volume}</h1>
+				<h1>$${LTC_Volume}</h1>
 			</td>
 		</tr>
 
@@ -334,17 +329,17 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${XRP_High}</h1>
-				<p>${XRP_High}</p>
+				<p>≈$${XRP_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${XRP_Low}</h1>
-				<p>${XRP_Low}</p>
+				<p>≈$${XRP_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/xrp_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${XRP_Volume}</h1>
+				<h1>$${XRP_Volume}</h1>
 			</td>
 		</tr>
 
@@ -359,42 +354,42 @@ function show(data) {
 			</td>
 			<td class="mark-high">
 				<h1>${USDC_High}</h1>
-				<p>${USDC_High}</p>
+				<p>≈$${USDC_High}</p>
 			</td>
 			<td class="mark-low">
 				<h1>${USDC_Low}</h1>
-				<p>${USDC_Low}</p>
+				<p>≈$${USDC_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/usdc_usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${USDC_Volume}</h1>
+				<h1>$${USDC_Volume}</h1>
 			</td>
 		</tr>
 
 		<tr>
 			<td class="mark-pair">
-				<img src="https://ncx.cx/images/zec.svg" alt="coin-logo" />
-				<h1>${ZEC_ID}</h1>
+				<img src="https://ncx.cx/images/band.svg" alt="coin-logo" />
+				<h1>${BAND_ID}</h1>
 			</td>
 			<td class="mark-price">
-				<h1>${ZEC_Price}</h1>
-				<p>≈$${ZEC_Price}</p>
+				<h1>${BAND_Price}</h1>
+				<p>≈$${BAND_Price}</p>
 			</td>
 			<td class="mark-high">
-				<h1>${ZEC_High}</h1>
-				<p>${ZEC_High}</p>
+				<h1>${BAND_High}</h1>
+				<p>≈$${BAND_High}</p>
 			</td>
 			<td class="mark-low">
-				<h1>${ZEC_Low}</h1>
-				<p>${ZEC_Low}</p>
+				<h1>${BAND_Low}</h1>
+				<p>≈$${BAND_Low}</p>
 			</td>
 			<td class="mark-graph">
 				<img src="https://ncx.cx/images/graphs/zec_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>${ZEC_Volume}</h1>
+				<h1>$${BAND_Volume}</h1>
 			</td>
 		</tr>
 		`;
