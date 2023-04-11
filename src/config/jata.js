@@ -1,5 +1,480 @@
 const blogListdata = [
   {
+    id: 334,
+    title: 'Crypto Traders Eye Inflation Data to Get Bitcoin Rally Back on Track',
+    category: 'Crypto',
+    subCategory: ['Trader', 'Inflation', 'Bitcoin'],
+    description: <div className="blog-desc">
+      <p>Data on consumer prices and producer prices due this week could be the catalysts to shake Bitcoin out of its holding pattern.</p>
+    </div>,
+    authorName: 'Jack Denton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 2:49 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-345.jpg',
+    content: <div className="blog-content">
+      <p>Data on consumer prices and producer prices due this week could be the catalysts to shake Bitcoin out of its holding pattern.</p>
+    	<p>Bitcoin BTCUSD +2.78%  and other cryptocurrencies edged higher Monday, remaining at some of the highest levels for digital assets since last summer, as traders eye inflation data in the coming days as possible catalysts for the next leg upward.</p>
+    	<p>The price of Bitcoin has risen 1.5% over the past 24 hours to $28,325. The largest digital asset has been hovering around $28,000 for weeks now, spiking as high as near $29,500 amid bouts of enthusiasm—representing the highest point since the crypto crash accelerated into a brutal bear market last June. Up some 70% so far this year, Bitcoin’s rally has spurred calls for a new crypto bull market.</p>	
+    </div>
+  },
+  {
+    id: 328,
+    title: 'Stocks Edge Higher, Inflation Data, First Republic Slides, Tesla China Plans , Pioneer Takeover Talks - Five Things To Know',
+    category: 'Markets',
+    subCategory: ['Tesla', 'China', 'Pioneer'],
+    description: <div className="blog-desc">
+      <p>Stock futures edge higher as traders dig through March jobs report; Week Ahead: Inflation data, big bank earnings in focus; First Republic suspends preferred dividend ahead of Q1 earnings; Tesla confirms Shanghai 'megapack' battery plant plans and Pioneer shares leap on report of Exxon takeover talks.</p>
+    </div>,
+    authorName: 'TheStreet.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 2:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-339.jpg',
+    content: <div className="blog-content">
+    	<p>Stock futures edge higher as traders dig through March jobs report; Week Ahead: Inflation data, big bank earnings in focus; First Republic suspends preferred dividend ahead of Q1 earnings; Tesla confirms Shanghai 'megapack' battery plant plans and Pioneer shares leap on report of Exxon takeover talks.</p> 
+    	<h3>1. -- Stock Futures Edge Higher As Traders Dig Through March Jobs Report</h3>
+      <p>U.S. equity futures edged higher Monday, while the dollar held steady against its global peers, as investors get their first chance to react to Friday's March jobs report and prep for a key inflation reading later in the week.</p>	
+    	<p>The U.S. economy added 236,000 new jobs last month, a figure that takes the year-to-date tally to just over 1 million, with the Bureau of Labor Statistics revising its February estimate higher and its January figure lower. Wage data was also mixed, with average hourly earnings rising 0.3% on the month, matching Street forecasts, but slowing to 4.2% on the year compared with the 4.6% pace recorded in February.</p>	
+    	<p>"Reading between the lines the moderate declines in specific sectors such as manufacturing and construction should be an encouraging sign to the Fed some effects of monetary policy are starting to take hold," said Charlie Ripley, senior investment strategist for Allianz Investment Management in Minneapolis. "The data shouldn’t do much to sway the Fed in either direction, but taken in conjunction with recent job openings data and weaker survey based data, the argument for a pause in rate hikes is building."</p>
+      <p>Still, the odds of a March hike remain firm, with the CME Group's FedWatch indicating a 64% chance the Fed will lift its target rate to between 5% and 5.25%, although the market is also forecasting a September Fed cut as the economy turns south over the summer months.</p>
+      <p>Benchmark 10-year Treasury note yields were marked 3.363% in thin overnight trading, with many markets in Europe closed for the final Easter observances, while 2-year note yields were last seen trading at 3.931%.</p>
+      <p>The U.S. dollar index, which tracks the greenback against a basket of six global currency peers, was marked 0.08% lower at 102.013 after hitting a two-month of low 101.40 prior to Friday's jobs data.</p>
+      <p>Heading into the start of the trading day on Wall Street, futures contacts tied to the S&P 500 are priced for a modest 1.5 point opening bell gain and those linked to Dow Jones Industrial Average are looking at a 25 point bump. Contacts tied to the tech-focused Nasdaq are indicating a 10 point decline.</p>
+      <p>Overnight in Asia, the MSCI ex-Japan index was marked 0.18% higher into the close of trading while Japan's Nikkei 225 gained 0.42% in Tokyo.</p>
+      <h3>2. -- Week Ahead: Inflation Data, Big Bank Earnings In Focus </h3>
+      <p>Investors are likely to focus on a key inflation release later this week, as well as the unofficial start to the first quarter earnings season, for clues as to whether stocks can continue their impressive year-to-date gains in the face of mounting recession concerns.</p>
+      <p>JPMorgan, Citigroup  (C) - Get Free Report and Wells Fargo  (WFC) - Get Free Report will form a trio of banks reporting first quarter profits before the market opens on Friday, with Dow component UnitedHealth  (UNH) - Get Free Report kicking things off that say day with its March quarter update at 6:00 am Eastern time.</p>
+      <p>Collective S&P 500 profits are expected to fall 5.2% from last year to a share-weighted $419.1 billion, with the second quarter tally expected to show a year-on-year decline of around 4%.</p>
+      <p>Wednesday's March inflation reading, however, will likely have more market impact as investors look to any signals of consumer price cooling following Friday's mixed March jobs report and a series of weaker-than-expected labor market readings.</p>
+      <p>Economists are forecasting headline inflation will slow to an annualized rate of 5.2%, with the closely-tracked core reading at 5.5%, compared to readings of 6% and 5.5% respectively over the month of February.</p>
+      <p>Producer price inflation figures are expected Thursday, alongside the regular weekly jobless claims release, with the Commerce Department's March retail sales report slated for Friday at 8:30 am Eastern time.</p>
+      <h3>3. -- First Republic Suspends Preferred Dividend Ahead of Q1 Earnings</h3>
+      <p>First Republic  (FRC) - Get Free Report shares moved lower in pre-market trading after the lender and wealth manager said it would suspend dividend payments on its preferred stock.</p>
+      <p>First Republic, which paused common stock dividends last month, said suspending preferred share payouts was a "measure of prudent oversight" ahead of its first quarter earnings on April 24.</p>
+      <p>First Republic is reportedly still looking to raise capital in order to shore-up its balance sheet, and it also considering selling some of its valuable loan book following a coordinated effort by a group of 11 banks, lead by JPMorgan  (JPM) - Get Free Report CEO Jamie Dimon, to add $30 billion to the lender's deposit base last month</p>
+      <p>First Republic shares were marked 1.6% lower in pre-market trading to indicate an opening bell price of $13.81 each.</p>
+      <h3>4. -- Tesla Confirms Shanghai 'Megapack' Battery Plant Plans</h3>
+      <p>Tesla  (TSLA) - Get Free Report shares edged modestly higher in pre-market trading after the carmaker confirmed plans to build a major battery production site in Shanghai.</p>
+      <p>The move, which deepens Tesla's investment in China amid rising tensions between Washington and Beijing, will see Tesla adding to its Shanghai 'gigafactory' later this year as it ramps-up battery production already underway in Lathrop, California.</p>
+      <p>The new Shanghai factory will produce around 10,000 so-called 'megapack' units each year from 2024, the company said, a tally level to the firm's California output.</p>
+      <p>Tesla will publish its first quarter earnings on April 19, after the market closes, with analysts looking for a bottom line of 85 cents per share on revenues of $23.375 billion.</p>
+      <p>Tesla shares were marked 0.14% higher in pre-market trading to indicate an opening bell price of $185.40 each..</p>
+      <h3>5. -- Pioneer Shares Leap On Report of Exxon Takeover Talks</h3>
+      <p>Pioneer Natural Resources  (PXD) - Get Free Report shares moved firmly higher in pre-market trading following reports of possible takeover interest from Exxon Mobil  (XOM) - Get Free Report.</p>
+      <p>The Wall Street Journal reported late Friday that Exxon has held informal talks with the Irving, Texas-based shale producer about a possible acquisition, with the paper citing the group as a "top target" for the use of its recent windfall profits from last year's energy price surge.</p>
+      <p>Exxon posted record profits of $56 billion last year, with fourth quarter earnings powered by both a jump in crude and a surge in U.S. gas prices. CEO Darren Woods said the group would "continue to invest in our advantaged projects to deliver profitable growth" while remaining focused on cost cuts.</p>
+      <p>Pioneer, for its part, denied a February report that it was linked to merger talks with rival producer Ranger Resources  (RRC) - Get Free Report, saying at the time that it is "not contemplating a significant business combination or other acquisition transaction."</p>
+      <p>Pioneer shares were marked 6.6% higher in pre-market trading to indicate an opening bell price of $221.89 each.</p>
+    </div>
+  },
+  {
+    id: 332,
+    title: 'Hong Kong financial secretary eyes Web3 push despite market fluctuations',
+    category: 'Crypto',
+    subCategory: ['Hong Kong', 'Web3', 'Financial'],
+    description: <div className="blog-desc">
+      <p>Hong Kong’s financial secretary, Paul Chan, said it is the right time for the city to push for Web3 despite market fluctuations.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 12:52 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-343.jpg',
+    content: <div className="blog-content">
+      <p>Hong Kong’s financial secretary, Paul Chan, said it is the right time for the city to push for Web3 despite market fluctuations.</p>
+    	<h3>Fast facts</h3>
+      <ul>
+        <li>He said that Hong Kong has the potential to become a key player in the emerging digital economy and is well-positioned to tap into the opportunities presented by Web3. He made these remarks in a blog post published Sunday on the Financial Secretary’s Office website.</li>
+        <li>Despite the volatility in the cryptocurrency market, Hong Kong should not miss the opportunity to invest in Web3, Chan said.</li>
+        <li>Web3 technologies such as blockchain, smart contracts, and decentralized finance can potentially transform various sectors, including finance, supply chain management, and social governance.</li>
+        <li>Chan said the next development stage would be on real-world blockchain applications and related technologies that can benefit the economy and existing business models.</li>
+        <li>China banned cryptocurrency transactions in 2021, but Hong Kong has set up a new licensing regime to take effect in June. The regime may eventually extend to retail crypto trading, which has been limited in the special administrative region.</li>
+        <li>The financial secretary said in January that the city will continue pushing ahead with the development of Web3 technologies to become a regional hub for the industry.</li>
+        <li>Chan’s blog post precedes a busy week for the Web3 industry in the region. Hong Kong Web3 Festival, an industry gathering, is scheduled to kick off on Wednesday, and the Hong Kong Government will be hosting its two-day Digital Economy Summit from Thursday.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 331,
+    title: 'Bitcoin Faces Low Risk of Liquidations-Induced Price Volatility After 70% Surge',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Risk', 'Liquidations'],
+    description: <div className="blog-desc">
+      <p>Bitcoin (BTC) has surged 70% this year, hitting nine-month highs of over $29,000. While the sharp rally has brought the derivatives market back to life, the overall use of leverage remains muted, suggesting a low risk of "liquidations-induced" wild price swings.</p>
+    </div>,
+    authorName: 'Omkar Godbole',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 12:16 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-342.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin (BTC) has surged 70% this year, hitting nine-month highs of over $29,000. While the sharp rally has brought the derivatives market back to life, the overall use of leverage remains muted, suggesting a low risk of "liquidations-induced" wild price swings.</p>
+    	<p>Liquidations refer to the forced closure of bullish long and bearish short positions in leveraged perpetual futures markets, which allow traders to open positions worth much more than the money deposited as margin. The forced closure for cash or cash equivalent happens when the trading entity fails to meet the margin shortage stemming from the market moving against its bullish or bearish bet.</p>	
+    	<p>When the degree of leverage in the market – measured by the ratio between the dollar value locked in perpetual futures (open interest) and the cryptocurrency's market capitalization – is high, short liquidations tend to exacerbate bullish moves. That, in turn, shakes out more shorts, leading to a short squeeze. Similarly, long liquidations exacerbate bearish moves, leading to a long squeeze.</p>	
+    	<p>Long/short squeezes were quite common during the 2021 bull run and early bear market days of 2022 when the amount of leverage outstanding relative to the size of the market was quite high and price moves would shake out billions of dollars' worth of leveraged trading positions. So far this year, the ratio has continued to drop.</p>
+      <p>"High open interest relative to market cap means the market could be vulnerable to a short-squeeze or liquidation cascade, which would result in a price swing being more volatile than it otherwise would have been due to forced buying or selling, respectively," analysts at Blockware Solutions said in a weekly newsletter.</p>
+      <p>"The medium-term trend of decreasing open interest/market cap has not been broken, which is reassurance that, even in the event of downward volatility, price is most likely not going to decrease to the level it was at to begin the year," the analysts added.</p>
+      <p>The perpetual futures open interest to market ratio has been falling since FTX, which was once the third-largest cryptocurrency exchange in the world and one of the preferred avenues to trade perpetual futures, went bust in early November.</p>
+      <p>The ratio has stayed low despite the recent price consolidation, a sign of investors' low appetite for risk, according to Blockware Solutions.</p>
+      <p>"BTC has essentially traded sideways for the past three weeks, yet, we haven’t seen a build-up in open interest. This is a signal that the market is still in a risk-off mode," Blockware's analysts noted, saying the non-expiring perpetual futures are typically in demand during periods of sideways price action, as seen ahead of FTX's implosion.</p>
+      <p>Bitcoin has been locked in the narrow range of $29,000 to $27,000 since March 21, according to CoinDesk data.</p>
+    </div>
+  },
+  {
+    id: 327,
+    title: 'China AI Stocks Sink on Call for State to Stem Bubble Risk',
+    category: 'Markets',
+    subCategory: ['China', 'AI', 'stocks'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Chinese shares related to artificial intelligence plunged after a state media outlet urged authorities to step up supervision of potential speculation.</p>
+    </div>,
+    authorName: 'Xiao Zibang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 11:19 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-338.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article</h3>
+    	<p>(Bloomberg) -- Chinese shares related to artificial intelligence plunged after a state media outlet urged authorities to step up supervision of potential speculation.</p>
+    	<p>The ChatGPT concept sector has “signs of a valuation bubble,” with many companies having made little progress in developing the technology, the Economic Daily wrote in a commentary Monday.</p>	
+    	<p>Regulators should strengthen monitoring and crackdown on share-price manipulation and speculation to create “a well-disclosed and well-run market,” according to the newspaper, which runs a website officially recognized by Beijing. Companies, it said, should develop the capabilities they propose, while investors should refrain from speculating.</p>
+      <p>CloudWalk Technology Co. tumbled a record 20%, while 360 Security Technology Inc. dropped by 10%, the most in three years. Beijing Haitian Ruisheng Science Technology Ltd. sank 15%.</p>	
+    	<p>Since the release of ChatGPT, Chinese shares related to the technology have surged, with domestic big techs joining the race to develop generative AI. SenseTime Group Inc. last Tuesday rose the most in two months in Hong Kong amid speculation that the SoftBank Group Corp.-backed company was developing a product to challenge ChatGPT. Shares of Alibaba suppliers also jumped on reports that the tech giant will unveil its answer to ChatGPT.</p>
+      <p>“Generative AI is the hottest trend now and many tech companies will be launching their own versions in the coming months,” said Vey-Sern Ling, managing director at Union Bancaire Privee. “While valuations may rise to such news, the actual financial impact to these companies may be difficult to gauge at this juncture, and may lead to disappointment eventually.”</p>
+    </div>
+  },
+  {
+    id: 324,
+    title: 'Investors Pull Cash From Oil Despite OPEC+ Cuts as Demand Fears Linger',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC+', 'Investors'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- One oil exchange-traded fund saw its largest one-day outflow in more than three years, a possible sign that some investors remain concerned about the outlook after OPEC+ delivered an unexpected supply cut.</p>
+    </div>,
+    authorName: 'Yongchang Chin',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 7:10 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-335.jpg',
+    content: <div className="blog-content">
+    	<h3></h3>
+    	<p>(Bloomberg) -- One oil exchange-traded fund saw its largest one-day outflow in more than three years, a possible sign that some investors remain concerned about the outlook after OPEC+ delivered an unexpected supply cut.</p>
+    	<p>WisdomTree’s Brent Crude Oil ETP — ticker BRNT — had an outflow of $55.7 million on Thursday, the largest one-day fall since late 2019. Another fund, the ProShares Ultra Bloomberg Crude Oil ETF — ticker UCO — saw outflows of $158.5 million last week. That’s its biggest weekly drop since March 2022.</p>	
+    	<p>The Organization of Petroleum Exporting Countries and its allies announced a surprise output cut earlier this month, led by Saudi Arabia. While that helped prices to surge last week, concerns about a potential slowdown in demand have lingered. There’s speculation both that the US could tip into recession, hurting consumption, and OPEC+ actions telegraph its concerns about market weakness.</p>	
+    	<p>“There is still a large segment of the market concerned over the demand outlook and OPEC+ cuts would have likely only reinforced these concerns,” said Warren Patterson, head of commodities strategy at ING Groep NV in Singapore.</p>
+    </div>
+  },
+  {
+    id: 333,
+    title: 'Bitcoin resumes rise, Ether gains ahead of upgrade, Dogecoin makes up some lost ground',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Rise', 'Dogecoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin resumed its rise above US$28,000 in Monday morning trading in Asia, a support level it has fluctuated around for most of April after a strong start to the year even amid higher interest rates, bank failures, and concerns about a recession in the U.S. Most other top 10 non-stablecoin cryptocurrencies gained, including Ether ahead of Wednesday’s upgrade to the Ethereum blockchain. Dogecoin rose. U.S. stock futures were mixed after a three day weekend.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 6:47 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-344.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+      <p>Bitcoin resumed its rise above US$28,000 in Monday morning trading in Asia, a support level it has fluctuated around for most of April after a strong start to the year even amid higher interest rates, bank failures, and concerns about a recession in the U.S. Most other top 10 non-stablecoin cryptocurrencies gained, including Ether ahead of Wednesday’s upgrade to the Ethereum blockchain. Dogecoin rose. U.S. stock futures were mixed after a three day weekend.</p>
+    	<h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin added 1.40% to US$28,343 in the 24 hours to 8:00 a.m. in Hong Kong, up 0.57% for the week or little changed, according to CoinMarketCap data.</li>
+        <li>The world’s biggest cryptocurrency has risen 70% so far this year and is holding its ground around US$28,000 this month even as equity markets have faced headwinds from higher interest rates to stem inflation, a series of bank failures, and signs the U.S. economy may be headed for a recession.</li>
+        <li>Bitcoin could break through US$30,000 in the coming week but the caution is that a recession may be looming, said Kadan Stadelmann, chief technical officer of blockchain infrastructure development firm Komodo.</li>
+        <li>“Normally, we see risk on conditions as something that drives up the Bitcoin price. But, over the last month with the banking crisis, we’ve actually seen risk off be positive for Bitcoin. Right now, the price action is telling us the market is undecided,” said Stadelmann.</li>
+        <li>Ether edged up 0.55% to US$1,859, a gain of 3.62% for the week ahead of  Wednesday’s Shanghai hardfork, also known as the Shapella upgrade, which will allow investors to withdraw their staked Ether for the first time.</li>
+        <li>Most other top 10 cryptocurrencies by market capitalization showed moderate gains led by Dogecoin, which added 2.31% to US$0.08328 for a weekly rise of 5.30%. The meme token surged last week when Elon Musk changed Twitter’s blue bird icon to the Dogecoin dog icon, breaching US$0.10 on April 4. It then lost steam as the Twitter icon shifted back to the bird.</li>
+        <li>Solana added 1.51% to US$20.33, but showed a weekly drop of 1%. Polkadot rose 1.29% to US$6.22 but similarly lost 0.87% over the past seven days.</li>
+        <li>The total crypto market capitalization gained 0.95% in the past 24 hours to US$1.19 trillion. Total trading volume in the same period rose 8.19% to US$29.46 billion.</li>
+        <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index rose 0.12% to 3,968.42 in the 24 hours to 08:00 a.m. in Hong Kong, losing 2.34% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by Forkast Labs data branch, CryptoSlam.</li>
+        <li>U.S. stock futures traded mixed as of 8:00 a.m. in Hong Kong. The Dow Jones Industrial Average futures rose 0.14%, S&P 500 futures moved up 0.091% and the Nasdaq-100 futures Index dropped 0.10%.</li>
+        <li>The U.S. unemployment rate, released last Friday, fell to 3.5% in March compared to 3.6% in February. The U.S. saw 236,000 jobs created in March, slightly below expectations but still pointing to a strong labor market, according to TradingEconomics.</li>
+        <li>However, several U.S. indicators released earlier last week pointed to a cooling economy. Job openings which fell to 9.9 million in February, the lowest since May 2021. The U.S. manufacturing purchasing managers’ index in March also signaled a possible recession, falling to 46.3%, down from 47.7% in February.</li>
+        <li>U.S. interest rates are now between 4.75% to 5%, the highest since June 2006. Ahead of the Federal Reserve rates meeting on May 3, analysts at the CME Group expect a 35.3% chance of no change to rates, while 64.7% expect a 25 basis-point rise, up from 44.5% on Friday.</li>
+        <li>This week brings more economic indicators in the U.S. — The Bureau of Labor Statistics’ consumer and producer prices index on Thursday, the monthly retail trade report expected on Friday, and minutes from the Federal Open Market Committee meeting expected to come out Tuesday.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 329,
+    title: 'Wall Street meanders, dollar gains as Fed rate hike seen in May',
+    category: 'Markets',
+    subCategory: ['Wall Street', 'Dollar', 'FED rate'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) -U.S. stocks closed mostly flat and the dollar rose on Monday after strong jobs data last week pointed to the Federal Reserve hiking interest rates in May, while the yen eased after Japan's new central bank governor vowed to maintain ultra-loose policy.</p>
+    </div>,
+    authorName: 'Herbert Lash',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 10, 2023 - 6:07 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-340.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Herbert Lash</p>
+    	<p>NEW YORK (Reuters) -U.S. stocks closed mostly flat and the dollar rose on Monday after strong jobs data last week pointed to the Federal Reserve hiking interest rates in May, while the yen eased after Japan's new central bank governor vowed to maintain ultra-loose policy.</p>	
+    	<p>Gold prices slipped below the key $2,000 level due to a resurgent dollar, while Treasury yields edged higher on growing market expectations that the Fed will hike rates when policymakers conclude a two-day meeting on May 3.</p>	
+	    <p>Consumer price index data on Wednesday will encourage the market to see a rate hike next month, but more important reports on Thursday and Friday will show the extent of emergency funding for banks, said Marc Chandler, chief market strategist at Bannockburn Global Forex in New York.</p>
+      <p>"My sense is that the labor market and CPI would favor the Fed raising rates again. However, what has made the market have second thoughts is the extent of the tightening of lending."</p>
+      <p>"We saw in the last two weeks there's a record decline in commercial and industry loans," Chandler said.</p>
+      <p>Futures show a 71.7% likelihood that the Fed will raise rates by 25 basis points to a range of 5.0%-5.25% next month, CME Group's FedWatch tool shows.</p>
+      <p>But recession worries have risen as commercial lending fell after the sudden collapse of Silicon Valley Bank in March tightened credit conditions among U.S. banks. The Fed's emergency lending program has eased some of those concerns.</p>
+      <p>Fed lending to banks over the past four weeks has increased more than $400 billion and offset nearly two-thirds of the quantitative tightening that began a year ago, said Joe LaVorgna, chief U.S. economist at SMBC Nikko Securities in New York.</p>
+      <p>"To the extent the market has all this liquidity sloshing around, people get more confident that the Fed is going to be there to save us in some capacity," LaVorgna said. "The market is going to stay bid, it won't go down."</p>
+      <p>Traders also are betting that the Fed will cut rates in the second half to ward off an economic downturn, but the two-year Treasury note's 4% rate and what will likely be a 5% Fed target rate is a "huge discrepancy" that cannot continue, LaVorgna said.</p>
+      <p>Minutes of the Fed's policy meeting in March are also scheduled to be released on Wednesday.</p>
+      <p>Trading was light as markets were closed in Europe, Australia and Hong Kong for Easter.</p>
+      <p>The dollar index rose 0.52% and the two-year Treasury yield, which typically moves in step with interest rate expectations, added 4.2 basis points to 4.014%.</p>
+      <p>On Wall Street, the Dow Jones Industrial Average rose 0.3%, the S&P 500 gained 0.10% and the Nasdaq Composite dropped 0.03%. MSCI's gauge of stocks across the globe closed down 0.11%.</p>
+      <p>The dollar extended gains against the yen to 133.87, the highest since March 15, on receding expectations of a near-term tweak to Japan's ultra-loose monetary policy.</p>
+      <p>Japan's new central bank Governor Kazuo Ueda said it was appropriate to maintain the bank's policy for now as inflation has yet to hit 2% as a trend, suggesting he will be in no rush to dial back its massive stimulus.</p>
+      <p>The yen was weakened 1.08% at 133.57 per dollar.</p>
+      <p>Asian shares were little changed. MSCI's broadest index of Asia-Pacific shares outside Japan gained 0.04%.</p>
+      <p>In China, shares slipped, with the blue chip CSI300 Index 0.32% lower and the Shanghai Composite Index easing 0.16% on rising geopolitical tensions around the Taiwan Strait.</p>
+      <p>China announced three days of drills on Saturday, after Taiwan's President Tsai Ing-wen returned to Taipei following a meeting in Los Angeles with U.S. House of Representatives Speaker Kevin McCarthy.</p>
+      <p>U.S. gold futures settled down 1.1% at $1,989.10 an ounce.</p>
+      <p>U.S. crude fell 96 cents to settle at $79.74 a barrel and Brent settled down 94 cents at $84.18 a barrel.</p>
+      <p>(Reporting by Ankur Banerjee; Editing by Kirsten Donovan, Will Dunham and Richard Chang)</p>
+    </div>
+  },
+  {
+    id: 330,
+    title: 'A Bull Market Is Coming: 1 FAANG Stock-Heavy Index Fund to Buy Now',
+    category: 'Markets',
+    subCategory: ['Bull', 'Market', 'FAANG Stock'],
+    description: <div className="blog-desc">
+      <p>This FAANG stock-heavy index fund could skyrocket when the next bull market comes around.</p>
+    </div>,
+    authorName: 'Trevor Jennewine, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 9, 2023 - 3:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-341.jpg',
+    content: <div className="blog-content">
+      <p>This FAANG stock-heavy index fund could skyrocket when the next bull market comes around.</p>
+    	<p>The S&P 500 nosedived into a bear market last year as recession fears rattled Wall Street, and the benchmark index is still down 15% from all-time highs. But every bear market has ended in a new bull market, and the same outcome is all but inevitable this time around. That makes the current situation a buying opportunity for patient investors, and the FAANG stocks look attractive.</p>
+    	<p>All five FAANG stocks crushed the S&P 500 over the past decade, and each one retains solid prospects for future growth. Investors can get significant exposure to the FAANG stocks through a specific Vanguard index fund. Of course, buying the stocks outright is also an option, but three of the five underperformed the S&P 500 over the past five years, while the Vanguard index fund in question outperformed.</p>	
+    	<h3>The future looks bright for the FAANG stocks</h3>
+      <p>The bull case for each FAANG stock is detailed below.</p>
+      <p><strong>Apple (AAPL -1.60%)</strong>led the world in smartphone and smartwatch sales in the fourth quarter. Its lineup of trendy devices inspired immense consumer loyalty, and the company recently surpassed 2 billion active devices worldwide. That hints at strong growth for its services business in the coming years. Indeed, App Store spending is forecast to climb at 14% annually through 2026, and Apple Pay is the most popular in-store mobile wallet in the U.S., meaning Apple should be a major beneficiary as smartphone payments become more prevalent at physical points of sale.</p>
+      <p><strong>Amazon (AMZN 0.11%)</strong>dominates the e-commerce industry. Its marketplace powered 38% of online retail sales in North America and Western Europe last year, and its massive logistics footprint gives the company an edge over its peers. But the company has more exciting growth prospects in the higher-margin industries of cloud computing and digital advertising. Amazon is the largest provider of cloud services, and it has quietly become the fourth-largest digital advertising company in the world in the world.</p>
+      <p><strong>Alphabet (GOOG -1.79%) (GOOGL -1.83%)</strong>dominates the ad tech space, and its valuable internet real estate should keep it at the forefront of the industry for years to come. Google Search holds an astounding 93% share in internet search, which effectively makes it the gateway to the internet, and YouTube is the top U.S. streaming service as measured by viewing time. Additionally, Google Cloud Platform is the third-largest provider of cloud services.</p>
+      <p><strong>Meta Platforms (META -0.62%)</strong>is the second-largest digital advertising company in the world. Its family of social media apps reached an incredible 3.7 billion people monthly in the fourth quarter, and Instagram, WhatsApp, and Facebook ranked among the 10 most downloaded mobile apps worldwide last year. Meta should be a major beneficiary of ongoing growth in digital ad spend, but its investments in generative AI and the metaverse could also pay off in the future.</p>
+      <p><strong>Netflix (NFLX -0.10%)</strong>leads the streaming industry in global engagement, revenue, and profits, and its ability to create binge-worthy content far surpasses that of its peers. The company accounted for 40% of consumer demand for original content last year, more than the next five streaming services combined, and Netflix produced 13 of the top 15 original streaming programs. While the company eschewed advertising for years, its recent launch of an ad-support service significantly expands its total addressable market.</p>
+      <h3>The Vanguard Mega Cap Growth ETF</h3>	
+    	<p>The Vanguard Mega Cap Growth ETF (MGK -0.28%) tracks nearly 100 of the largest U.S. growth stocks. Its constituents include all five FAANG stocks, which collectively account for 31% of its weighted exposure, but it also includes Microsoft, Tesla, and Nvidia, which account for another 21% of its weighted exposure. That diversity makes the Vanguard ETF a little less risky than owning the FAANG stocks outright, though investors still get heavy FAANG exposure, as detailed below.</p>
+      <ul>
+        <li><strong>Apple: </strong>15.8%</li>
+        <li><strong>Alphabet: </strong>7.1%</li>
+        <li><strong>Amazon: </strong>5.8%</li>
+        <li><strong>Meta Platforms: </strong>1.4%</li>
+        <li><strong>Netflix: </strong>1.1%</li>
+      </ul>
+      <p>The Vanguard Mega Cap Growth ETF crushed the broader market over the past decade. While the S&P 500 produced a total return of 219%, the Vanguard ETF soared 280%, or 14.2% annually. If that pace continues, $200 invested weekly would grow into $203,000 over the next decade and $969,000 in two decades. Of course, annualized returns of 14.2% are probably unsustainable over a 20-year period, but investors can reasonably expect the Vanguard ETF to beat the broader market in the long run.</p>
+      <p>The last thing investors need to know is that the Vanguard ETF bears a below-average expense ratio of 0.07%, meaning the annual fees would total $7 on a $10,000 portfolio. In short, this ETF is a cheap way to diversify across dozens of the biggest growth stocks on the market, which makes it a great option for risk-tolerant investors with a long time horizon.</p>
+    </div>
+  },
+  {
+    id: 326,
+    title: 'OPEC+ Shock Revives Oil Bulls Even as Demand Warnings Flash',
+    category: 'Commodities',
+    subCategory: ['OPEC+', 'Oil', 'Demand'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- OPEC+’s surprise oil-production cut sent shock waves through financial markets and pushed crude prices up by the most in a year. Now that the dust has started to settle, one question looms large: Will that price rally stick, or fade away?</p>
+    </div>,
+    authorName: 'Devika Krishna Kumar and Alex Longley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 8, 2023 - 7:32 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-337.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- OPEC+’s surprise oil-production cut sent shock waves through financial markets and pushed crude prices up by the most in a year. Now that the dust has started to settle, one question looms large: Will that price rally stick, or fade away?</p>
+    	<p>Banks from Goldman Sachs Group Inc. to RBC Capital Markets LLC raised their oil-price forecasts immediately after the OPEC+ cut. Yet, many traders still believe a souring economic outlook will block the group’s actions from pushing prices higher. Demand indicators are also starting to flash warning signs.</p>	
+    	<p>It could end up being the ultimate test of what matters more to the market: tighter supplies, or the lackluster demand picture. That will likely bring more uncertainty over the direction of prices — a complicated development for the Federal Reserve and the world’s central bankers in their ongoing battle against inflation.</p>	
+	    <p>“It’s a very hard market to trade right now,” said Livia Gallarati, a senior analyst at Energy Aspects. “If you’re a trader, you are pulled between what’s happening at a macroeconomic level and what’s happening fundamentally. It’s two different directions.”</p>
+      <p>One thing that is certain: A major shift of market control into the hands of Saudi Arabia and its allies has now been cemented, with huge implications for geopolitics and the world’s economy.</p>
+      <p>Investors have continued to reward US drillers for production discipline, making it unlikely that shale companies will ever again undertake the kind of disruptive growth that helped to keep energy inflation tame last decade. That leaves the oil market under the purview of OPEC+ at a time when some experts have predicted that demand is heading to a record.</p>
+      <p>“The surprise OPEC cuts have already triggered fears of a resurgence in inflation,” said Ryan Fitzmaurice, a lead index trader at commodities brokerages Marex Group Plc. “These renewed inflation concerns should only increase” in the months ahead, he said.</p>
+      <p>Here is an overview of what traders will be watching in the oil market.</p>
+      <p>Summer Demand</p>
+      <p>The timing of OPEC’s decision has struck an odd chord for many oil experts.</p>
+      <p>The production cuts don’t take effect until May, and much of the repercussions are likely to be felt in the second half of the year. That’s a time when oil demand typically reaches its seasonal peak, partly thanks to the busy summer driving season in the US. It’s also the point when China’s economic reopening is expected to start swinging into full gear, further underpinning demand.</p>
+      <p>Typically, OPEC would want to take advantage of that consumption burst by selling into the market as much as possible. Instead, the cut means the cartel is holding back. That’s sparking debate about whether the move will end up driving oil prices to $100 a barrel as demand surges, or whether, instead, the cartel and its allies are preparing for a recession-marked summer of tepid consumption.</p>
+      <p>“While OPEC+ cuts on the surface are generally seen as bullish, it does also raise concerns over the demand outlook,” said Warren Patterson, head of commodities strategy at ING. “If OPEC+ were confident in a strong demand outlook this year, would they really feel the need to cut supply?”</p>
+      <p>Moves in global fuel markets underscore the demand skepticism. While oil prices rallied, moves for refined products were less pronounced, shrinking margins for refiners across Europe and the US. In Asia, prices of diesel, a key refinery product, are signaling heightened slowdown concerns as timespreads shrink to their lowest since November.</p>
+      <p>Elevated Stockpiles</p>
+      <p>While US inventories have been declining, global inventories are still high.</p>
+      <p>In the first quarter, commercial oil stockpiles held in OECD countries were sitting about 8% above last year’s levels, according to estimates from the US Energy Information Administration. That’s a fairly sizeable buffer and a sign of the weakness in consumption that’s plagued the market in the past few months.</p>
+      <p>“You do need to chew through that overhang first before we can see we upside,” said Gallarati of Energy Aspects.</p>
+      <p>Russian Flows</p>
+      <p>Oil bulls have waited in vain for a Russian output cut promised for March to show up. The Kremlin said it would slash production by 500,000 barrels a day in March in retaliation for import bans and price caps imposed by “unfriendly countries.” But there’s been no sign of lower Russian output showing up in the one measure that matters to global crude markets — the number of barrels leaving the country.</p>
+      <p>Crude shipments from Russia’s ports hit a new high in the final week of March, topping 4 million barrels a day. That’s 45% higher than the average seen in the eight weeks before Moscow’s troops invaded Ukraine and has been boosted by the diversion since January of about 500,000 barrels a day delivered by pipeline directly to Poland and Germany.</p>
+      <p>Shale’s Production Discipline</p>
+      <p>It wasn’t long ago that there were two major players that oil traders turned to for direction over supplies: the Organization of the Petroleum Exporting Countries and the US shale industry.</p>
+      <p>At the time, OPEC and shale were locked in a battle for market share. It was a feud that helped to keep global oil prices — and energy-driven inflation — at bay for the better part of decade.</p>
+      <p>Then the pandemic hit, and with it an oil price rout that suffocated the shale industry. For the last three years, even as the market recovered and cash flow surged, companies have prioritized dividends and share buybacks over new drilling. It’s been a winning strategy. Since March 2020, the S&P 500 Energy Sector Index has surged almost 200%, outpacing the S&P 500’s nearly 60% gain.</p>
+      <p>Now, as calls for peak shale output gather pace, OPEC has one less factor to consider when making supply decisions.</p>
+      <p>That’s a sore spot for President Joe Biden, who was quick to downplay the impact of the decision by the cartel and its allies to cut output by more than 1 million barrels per day. Biden vowed after an initial production cut last year that there would be “consequences” for Saudi Arabia, but the administration has yet to follow through.</p>
+      <p>Futures Curve</p>
+      <p>Talk of $100 oil has been buzzing since the end of last year, but it seems like the can keeps getting kicked down the road. First, some analysts had predicted prices would reach that threshold in the second quarter of 2023. The view got pushed into the second half of the year, and now even some of the bigger bulls aren’t expecting the magic number to come into play until 2024.</p>
+      <p>The oil futures curve is reflecting those expectations. Prices for contracts tied to deliveries as far out as December 2024 and 2025 have rallied, even as benchmark front-month futures are starting to ease.</p>
+      <p>“The OPEC+ output cut certainly raises the possibility of $100 a barrel this year, although it is by no means a certainty,” said Harry Altham, an analyst at brokerage StoneX. “Demand-side weakness stemming from growth considerations is clearly taking a more prominent role.”</p>
+      <p>--With assistance from Julian Lee, Grant Smith, Chunzi Xu, Kevin Crowley and Mitchell Ferman.</p>
+    </div>
+  },
+  {
+    id: 322,
+    title: 'Nasdaq Bear Market: 5 Astonishing Growth Stocks You ll Regret Not Buying on the Dip',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Bear', 'Market'],
+    description: <div className="blog-desc">
+      <p>A 33% plunge in the Nasdaq Composite is the perfect excuse for opportunistic investors to pounce on discounted growth stocks.</p>
+    </div>,
+    authorName: 'Sean Williams, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 8, 2023 - 1:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-333.jpg',
+    content: <div className="blog-content">
+	<h3>By Sean Williams</h3>
+	<p>A 33% plunge in the Nasdaq Composite is the perfect excuse for opportunistic investors to pounce on discounted growth stocks.</p>
+	<p>Although it can be an unpleasant learning experience for new investors, Wall Street provided a reminder last year that stocks can, indeed, go down just as easily as they can rise. Although all three major U.S. stock indexes endured their worst year since 2008, it was the growth-focused Nasdaq Composite (^IXIC) that was hit hardest -- a 33% decline.</p>	
+	<p>But here's the interesting thing about bear market declines in the major stock indexes: They're always a red-carpet opportunity for long-term investors. Despite the Nasdaq Composite undergoing numerous double-digit percentage corrections, a bull market has always, eventually, recouped its losses (and some).</p>	
+	<p>Since growth stocks took it on the chin over the past 15 months, they're the most logical niche of stocks to bounce back when a new bull market takes shape. What follows are five astonishing growth stocks you'll regret not buying on the Nasdaq bear market dip.</p>
+  <h3>Vertex Pharmaceuticals</h3>
+  <p>The first awe-inspiring growth stock that you'll be kicking yourself for not buying during the Nasdaq bear market decline is biotech stock Vertex Pharmaceuticals (VRTX -0.09%). Despite its drug portfolio being concentrated in one area of focus, the company's cash flow is well protected.</p>
+  <p>Vertex is best known for its role in helping improve the lives of patients with cystic fibrosis (CF), a genetic disease characterized by thick mucus production that can obstruct a person's lungs and/or pancreas. Vertex has developed four generations of Food and Drug Administration-approved therapies aimed at improving lung function for patients with the most common CF mutation (F508del). The latest of these treatments, Trikafta, is bringing in more than $8 billion in annual run-rate sales.</p>
+  <p>No other drug developer is particularly close to disrupting Vertex in CF. To boot, the company has other areas of focus that may soon be generating recurring revenue. This includes exagamglogene autotemcel (exa-cel) for patients with severe sickle cell disease and transfusion-dependent beta thalassemia. With a rolling biologics license application for exa-cel in the U.S., Vertex and development partner CRISPR Therapeutics could soon have a new blockbuster on their hands.</p>
+  <p>And have I mentioned that Vertex is sitting on a hearty cash pile? Even after outlaying capital to acquire ViaCyte, Vertex's cash, cash equivalents, and marketable securities grew by $3.3 billion in 2022 to $10.8 billion. This capital puts a healthy floor beneath Vertex's stock and makes its forward-year price-to-earnings ratio of 20 appear all the cheaper.</p>
+  <h3>PubMatic</h3>
+  <p>A second stellar growth stock you'll regret not scooping up on the Nasdaq bear market drop is adtech company PubMatic (PUBM 2.28%). Although it's perfectly normal for ad spending to taper off when the prospects of a recession are climbing, PubMatic finds itself perfectly positioned to take advantage of the shift to digital advertising.</p>
+  <p>PubMatic is what's known as a sell-side platform (SSP) in the programmatic ad space. In English, this just means it helps advertisers sell their digital display space using software on its cloud-based platform. One advantage of being an SSP is the amount of consolidation that's occurred in recent years. With fewer competitors, PubMatic has been able to grow its share of the digital ad market.</p>
+  <p>Perhaps more importantly, PubMatic is focused on the fastest-growing aspects of the digital ad industry. Whereas the digital ad industry is forecast to grow by 14% on an annualized basis through 2025, PubMatic is generating more than a third of its revenue from omnichannel video programmatic ads, such as connected TV, which are growing at roughly twice the annualized rate as the industry forecast. In short, PubMatic's organic growth rate should easily outpace its peers.</p>
+  <p>Another overlooked advantage to PubMatic's operating model is its cloud-based infrastructure. The company chose to build out its own infrastructure rather than rely on a third-party provider. This should prove particularly beneficial to PubMatic's operating margin as its revenue scales.</p>
+  <h3>Datadog</h3>
+  <p>The third astonishing growth stock just begging to be bought with the Nasdaq mired in a bear market is infrastructure and application monitoring stock Datadog (DDOG -0.42%). While Datadog's premium valuation is a potential headwind during a bear market and possible recession, the company's competitive edge and phenomenal operating performance make it a lot cheaper than most investors realize.</p>
+  <p>On a macro basis, Datadog finds itself in the right place following the pandemic. Businesses are increasingly moving their presence online and their data into the cloud. That plays in perfectly with the company's application-monitoring software and real-time unified data platform. According to a forecast from Gartner, the observability market alone is a $62 billion addressable opportunity by 2026.</p>
+  <p>But what really makes Datadog tick is its success in gaining big businesses as customers. Though it has an impressive 23,200 total customers, it's the 47% year-over-year growth in the number of clients with $1 million (or more) in annual recurring revenue that's really driving profits at Datadog. Between landing these big fish and seeing existing clients add onto their initial purchase, Datadog has had no trouble sustaining a 25%-plus annual growth rate.</p>
+  <p>If you need one more solid reason to pay the premium for Datadog, consider this: Enterprise cloud spending accounted for roughly 8% of global information technology spending in 2021. By 2026, it's estimated to be closer to 20%. Datadog is built to help businesses with their cloud migration, so don't expect its growth rate to slow anytime soon.</p>
+  <h3>Cresco Labs</h3>
+  <p>A fourth magnificent growth stock you'll regret not adding on the Nasdaq bear market swoon is U.S. marijuana stock Cresco Labs (CRLBF 6.29%). Even though cannabis reform legislation continues to stall in Congress, multi-state operators (MSOs) like Cresco have more than enough catalysts to push into the green.</p>
+  <p>As of March 8, 2023, Cresco Labs had 63 operating dispensaries in 10 states. Though 28 of these stores are located in medical marijuana-legal Florida, the company has been spending a lot of its effort pushing into limited-license markets, such as Illinois, Massachusetts, Ohio, and Pennsylvania. States where regulators limit retail license issuance offer a level playing ground for relatively smaller MSOs like Cresco Labs to build up their brands and grow their following.</p>
+  <p>Then again, Cresco Labs may not be "relatively small" for much longer. It's currently in the process of acquiring MSO Columbia Care in an all-share deal. Inclusive of the one dozen facilities being divested to satisfy regulators, the combined company would entail more than 130 operating dispensaries spanning 18 legalized states. Cost synergies should allow this new Cresco to be even more efficient over time.</p>
+  <p>Yet the unsung hero of Cresco's operations might be its wholesale segment. While wholesale cannabis margins notably trail retail cannabis, Cresco holds a key advantage when it comes to volume. Thanks to its acquisition of Origin House in January 2020, it holds one of only a few cannabis distribution licenses in California. This allows it to place its proprietary products into hundreds of dispensaries throughout the Golden State.</p>
+  <h3>Okta</h3>
+  <p>The fifth astonishing growth stock you'll regret not buying on the Nasdaq bear market dip is cybersecurity company Okta (OKTA 1.74%). In spite of higher-than-expected integration costs following the acquisition of Auth0, Okta looks to be on the path to recurring profits and sustained double-digit sales growth.</p>
+  <p>Before getting into company specifics, it's important to recognize that the cybersecurity industry has become something of a necessity service. As businesses move their data into the cloud and develop an online presence, they're becoming evermore reliant on third-party security solutions. Since hackers don't take a day off, neither does demand for cybersecurity solutions.</p>
+  <p>Okta specializes in identity verification solutions. The company's platform is cloud-based and relies on artificial intelligence and machine learning to grow more effective over time. Whereas on-premises security solutions have their limitations, Okta can effectively be layered for ongoing monitoring and authorization of users.</p>
+  <p>The biggest catalyst moving forward is simply Okta putting its one-time integration costs from buying Auth0 in the rearview mirror. A cleaner income statement in the current fiscal year, coupled with Auth0 breaking down borders and giving Okta an opportunity to expand its revenue channels into Europe, should be a positive for existing shareholders.</p>
+  <p>With Okta generating record operating cash flow of $76 million during the fourth quarter and ending the fiscal year (Jan. 31, 2023) with just over $3 billion in subscription backlog, the arrow appears to be pointing higher for long-term investors.</p>
+    </div>
+  },
+  {
+    id: 323,
+    title: 'US Futures Rise, Bonds Slide on Solid Jobs Data: Markets Wrap',
+    category: 'Indices',
+    subCategory: ['US', 'Bonds', 'Rise'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Policy-sensitive Treasury notes fell, sending two-year yields back above 4%, as a solid hiring report bolstered bets for another Federal Reserve rate increase. US stock futures advanced before closing early as the report eased concerns the economy was headed for recession.</p>
+    </div>,
+    authorName: 'Isabelle Lee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 8:04 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-334.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Policy-sensitive Treasury notes fell, sending two-year yields back above 4%, as a solid hiring report bolstered bets for another Federal Reserve rate increase. US stock futures advanced before closing early as the report eased concerns the economy was headed for recession.</p>
+    	<p>Contracts on the S&P 500 climbed, while the two-year yield jumped 15 basis points to 4.02% after March’s hiring report showed resiliency in the labor market that could enable the Fed to make policy more restrictive. Payroll additions topped 200,000, wage-growth slowed and the unemployment rate dropped.</p>	
+    	<p>“This payrolls info is still indicating that the job market is on solid ground, but the magnitude of the payrolls gain relative to expectations is not significant enough for the Fed to dramatically shift course,” George Cipolloni, portfolio manager at Penn Mutual Asset Management, said. “Wage growth was as expected. I do not see much here that should make the Fed move off of their current path.”</p>	
+    	<p>The cash equity markets are closed in the US for the Good Friday holiday, and futures stopped trading at 9:15 a.m. in New York. Treasuries opened for a shortened session, with the recommended close at noon. European markets were mostly shuttered.</p>
+      <p>Swaps trading showed the odds for a quarter percentage point interest-rate increase at the Fed’s May meeting rose to about two in three, up from roughly 50-50 before the data landed. Investors have been aggressively pricing in rate cuts later this year as economic data falls short of estimates, suggesting the American economy is slowing.</p>
+      <p>Data Thursday indicated filings for jobless claims rose more than expected, a day after a private reading on hiring came in below estimates. Job openings also contracted more than forecast, adding to worries that the labor market was softening.</p>
+      <p>The next major data point for the Fed is a report on consumer prices, due April 12. Officials deliver their policy move on May 3.</p>
+      <p>“While this is an employment report not likely to cause alarm, there is still no evidence policy is tight enough to slow demand in a meaningful way, either,” Chris Low, chief economist at FHN Financial wrote in an email. “There are other things going on in the world, of course, including credit tightening in the aftermath of recent bank failures. It will all go into the mix.”</p>
+      <p>The two-year Treasury yield peaked above 5% just before last month’s banking stress and then plunged as worries mounted that tighter lending will constrict growth at the same time the Fed’s aggressive tightening filters through to the real economy.</p>
+      <p>Read: Bond Action Gets Crazy on Payroll Good Friday, Stocks Less So</p>
+      <p>The S&P 500 concluded its first losing week in the past four as data Thursday showed filings for jobless claims surpassed estimates last week, a day after a private payrolls report indicated hiring slowed more than forecast.</p>
+      <p>US stocks bounced back from early losses on Thursday after St. Louis Fed President James Bullard said he didn’t think tighter credit conditions stemming from the recent banking turmoil would tip the economy into recession. Meanwhile, the International Monetary Fund warned that its outlook for global economic growth over the next five years is the weakest in more than three decades, urging nations to avoid economic fragmentation caused by geopolitical tension and take steps to bolster productivity.</p>
+      <p>The yen fluctuated after declining Thursday against the dollar for the first time this week. While much of Asia including Australia, Hong Kong and Singapore was closed for holidays, financial markets in Japan and mainland China were open. Japan’s benchmark Topix edged higher, ending a two-day slump, and shares in China and South Korea advanced.</p>
+      <p>Money Markets</p>
+      <p>The cash pile parked at money-market funds hit a fresh record high in the past week, although inflows slowed from the recent breakneck pace. About $49.1 billion poured into US money-market funds in the week to April 5, bringing total assets to an unprecedented $5.25 trillion, according to data from the Investment Company Institute.</p>
+      <p>Money-market funds have been scooping up cash recently. Initially much of that flow was driven by more attractive rates, but concern about the steadiness of some smaller lenders helped turbocharge that within the past month.</p>
+      <p>Some of the main moves in markets:</p>
+      <p>Stocks</p>
+      <ul>
+        <li>S&P 500 futures rose 0.2% as of 9:15 a.m. in New York</li>
+        <li>Nasdaq 100 futures advanced 0.1%.</li>
+        <li>The Topix gained 0.3%, while the Nikkei 225 added 0.2%</li>
+        <li>The Shanghai Composite Index added 0.3% and the CSI 300 gained 0.6%</li>
+      </ul>
+      <p>Bonds</p>
+      <ul>
+        <li>The two-year Treasury yield rose 15 basis points to 4.02%</li>
+        <li>The 10-year rate added nine basis points to 3.39%</li>
+      </ul>
+      <p>Currencies</p>
+      <ul>
+        <li>The euro was slipped to $1.09</li>
+        <li>The yen was little changed at 131.70 per dollar</li>
+      </ul>
+      <p>Cryptocurrencies</p>
+      <ul>
+        <li>Bitcoin was little changed at $27,996</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Phil Serafino and Stephen Kirkland.</p>
+    </div>
+  },
+  {
+    id: 325,
+    title: 'Is the Gold Standard Coming Back in Texas? Legislators Propose Gold-Backed Digital Currency',
+    category: 'Commodities',
+    subCategory: ['Gold', 'currency', 'Texas'],
+    description: <div className="blog-desc">
+      <p>The gold standard as it existed under the Bretton Woods system until 1971 is likely never coming back. There are a myriad of reasons for this but the most important lie with the US government’s ability to control the economy. Under the gold standard, the government no longer has the tools it uses to support the economy.</p>
+    </div>,
+    authorName: 'terry',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023 - 6:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-336.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+    	<p>The gold standard as it existed under the Bretton Woods system until 1971 is likely never coming back. There are a myriad of reasons for this but the most important lie with the US government’s ability to control the economy. Under the gold standard, the government no longer has the tools it uses to support the economy.</p>
+    	<p>This mostly includes the government’s control over the USD. Under a gold standard, those with the most gold naturally control the dollar. While a large portion of gold is mined in the U.S., a majority is produced by foreign powers. Moving back to the gold standard would effectively entail surrendering the dollar to the control of those with the most stockpiles of the metal.</p>	
+    	<p>So the Bretton Woods gold standard isn’t tenable but is the current fiat system much less problematic? Many believe that the new system concentrates too much power in the Federal Reserve. For example, the Fed increased the M2 money supply (the amount of all dollars in circulation including deposits) by 27% in 2020-2021 under its aggressive Quantitative Easing (QE) program that aimed to prevent a recession. This was the largest increase in the country’s history, beating out even the second world war (18%) and the 2008 financial crisis (10%). To the surprise of (almost) no one, this heavily contributed to widespread, lasting inflation that is still affecting American citizens today.</p>	
+    	<p>Economists still argue over whether the Fed’s actions were positive or negative on the whole but many agree that QE unfairly benefits monolithic corporations over small businesses and individuals. Many detractors of the buying spree hope that a gold standard could be a good way to bring the Fed into line.</p>
+      <p>A full gold standard is probably impossible but (state) Senator Bryan Huges (R) and Representative Mark Dorazio (R) of Texas think they have found a way to bring back many of its benefits. They introduced matching bills to their respective houses that propose the introduction of a gold-backed digital currency.</p>
+      <p>The bills state that “The [state] comptroller shall establish a digital currency that is backed by gold so that each unit of the digital currency issued represents a particular fraction of a troy ounce of gold held in trust.” They would also require that “The trustee shall maintain enough gold to provide for the redemption in gold of all units of the digital currency that have been issued and are not yet redeemed for money or gold” to prevent bank runs.</p>
+      <p>The bills’ sponsors made sure to add that the funds received from purchasing the digital currency, the gold held under the trust, and any proceeds resulting from the sale of the redeemed gold are not available for legislative appropriation. This would prevent the state legislators from pillaging the trust and hopefully keeping the gold backing intact.</p>
+      <p>This bill is fascinating in many different ways. It’s an interesting attempt to return to some semblance of the gold standard as well as one of the world’s first potential experiments in central bank digital currencies (CBDCs).</p>
+      <p>The bill also raises intriguing questions about the future of federalism in the U.S. For example, would the Treasury Department allow Texas to create its own digital currency? There doesn’t seem to be a clear answer yet but it seems to be outlawed in the constitution under Clause 1 of Section 10, depending on your interpretation. The clause states that “No State shall...coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts...”</p>
+      <p>Texas isn’t the first state to attempt to create their own state currency. At least 13 other states considered it after the 2008 financial crisis. Legislators argued that the section of the clause that says “make any Thing but gold and silver Coin a Tender in Payment of Debts” allows this, despite the fact that “no state shall...coin Money” appears in the same sentence.</p>
+      <p>The Texas bills haven't been assigned to a committee yet (the next step of the legislative process after a bill is presented) so these questions may not be answered for a long time. Until then, investors will have to settle with physical gold and other precious metals to protect their portfolios. In the end, physical gold will likely still be the superior safe haven asset because you can store it yourself to avoid counterparty risk.</p>
+      <p>Investors are turning to gold and silver in droves to protect their portfolios as uncertainty rises in the economy. Check out Benzinga’s precious metals hubs for top gold and silver dealers including Advantage Gold, American Hartford Gold, Lear Capital and Red Rock Secured. With this information in hand, you can master the sector and find some of the best and most reliable precious metals dealers.</p>
+    </div>
+  },
+  {
     id: 315,
     title: 'Dow Jones Futures Rise On Jobs Report; Tesla Cuts U.S. EV Prices',
     category: 'Markets',
