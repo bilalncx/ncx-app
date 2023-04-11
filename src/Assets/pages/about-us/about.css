@@ -25,7 +25,12 @@
 #ncx_about .otc-line {
     background: rgba(0,0,0,0.3);
 }
-
+summary::marker {
+    display: none;
+}
+summary::-webkit-details-marker{
+    display: none;
+}
 
 .ncx-partnerships .partnerships.row.mobile{
     display: none;
