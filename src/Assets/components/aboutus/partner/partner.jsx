@@ -65,6 +65,48 @@ function NCXPartnerships()
                     <div className="col partner-logo"></div>
                     <div className="col partner-logo"></div>
                 </div>
+
+
+                <div className="partnerships row mobile">
+                    <div className="col partner-logo">
+                        <Partnership1 />
+                    </div>
+                    <div className="col partner-logo">
+                        <Partnership2 />
+                    </div>
+                </div>
+                <div className="partnerships row mobile">
+                    <div className="col partner-logo">
+                        <Partnership3 />
+                    </div>
+                    <div className="col partner-logo">
+                        <Partnership4 />
+                    </div>
+                </div>
+                <div className="partnerships row mobile">
+                    <div className="col partner-logo">
+                        <Partnership5 />
+                    </div>
+                    <div className="col partner-logo">
+                        <Partnership6 />
+                    </div>
+                </div>
+                <div className="partnerships row mobile">
+                    <div className="col partner-logo">
+                        <Partnership7 />
+                    </div>
+                    <div className="col partner-logo">
+                        <Partnership8 />
+                    </div>
+                </div>
+                <div className="partnerships row mobile">
+                    <div className="col partner-logo">
+                        <img src={Partnership9} alt="partnership" />
+                    </div>
+                    <div className="col partner-logo">
+                        <Partnership10 />
+                    </div>
+                </div>
             </div>
         </div>
     )

@@ -28,6 +28,10 @@
     src: url(../fonts/Hauora-Light.ttf);
 }
 @font-face {
+    font-family: 'hauora-extralight';
+    src: url(../fonts/Hauora-ExtraLight.ttf);
+}
+@font-face {
     font-family: "hauora-semibold";
     src: url(../fonts/Hauora-SemiBold.ttf);
 }

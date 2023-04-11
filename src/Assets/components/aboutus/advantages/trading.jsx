@@ -34,7 +34,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("compliance")}</h2>
-                                        <p>{t("compliance_text")}</p>
+                                        <p>{t("trading_advantages_text1")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC4 />
@@ -50,7 +50,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("risk_management")}</h2>
-                                        <p>{t("risk_management_text")}</p>
+                                        <p>{t("trading_advantages_text2")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC5 />

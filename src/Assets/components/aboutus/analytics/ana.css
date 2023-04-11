@@ -28,6 +28,7 @@
     font-size: 14px;
     line-height: 20px;
     font-family: 'hauora-light';
+    text-align: justify;
 }
 .analytics_row.fsdcc3 .col:hover{
     background: linear-gradient(113.9deg, #9F61FA 17.88%, #7055CF 100.05%);
