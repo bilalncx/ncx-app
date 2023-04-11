@@ -31,6 +31,9 @@ summary::marker {
 summary::-webkit-details-marker{
     display: none;
 }
+#market_table_body tr{
+    margin: 0px !important;
+}
 
 .ncx-partnerships .partnerships.row.mobile{
     display: none;
