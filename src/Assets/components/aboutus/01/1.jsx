@@ -1,7 +1,7 @@
 import {React} from "react";
 import '../../ambassador/first/first.css';
 import Button from "@mui/material/Button";
-import CryptoCard1 from '../../../images/crypto_card_1.png';
+import CryptoCard1 from '../../../images/crypto_card_2.png';
 import CryptoCard2 from '../../../images/ncx-derivatives-trading.png';
 import { useTranslation } from "react-i18next";
 
@@ -23,10 +23,10 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    <img src={CryptoCard2} alt="ncx_crypto_card" />
+                    <img src={CryptoCard1} alt="ncx_crypto_card" />
                 </div>
                 <div className="col card_imgb">
-                    <img src={CryptoCard1} alt="ncx_crypto_card" />
+                    <img src={CryptoCard2} alt="ncx_crypto_card" />
                 </div>
             </div>
         </div>
