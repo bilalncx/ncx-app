@@ -31,9 +31,6 @@ summary::marker {
 summary::-webkit-details-marker{
     display: none;
 }
-#market_table_body tr{
-    margin: 0px !important;
-}
 
 .ncx-partnerships .partnerships.row.mobile{
     display: none;
@@ -258,5 +255,13 @@ summary::-webkit-details-marker{
     }
     .ncx-partnerships .about_logo {
         margin-bottom: 50px;
+    }
+    #market_table_body tr{
+        margin: 0px !important;
+    }
+    body #market_table_body tr:hover {
+        margin-left: -10px !important;
+        margin-right: -10px !important;
+        background: #FFFFFF;
     }
 }

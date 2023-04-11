@@ -84,7 +84,7 @@ function NCXhomepageOTCSection()
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
                                     <h2>{t("vip_users_create_upto_1000_sub_accounts")}</h2>
-                                    <p>{t("vip_users_sub-accounts_text")}</p>
+                                    <p>{t("vip_users_sub_accounts_text")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC3 />
