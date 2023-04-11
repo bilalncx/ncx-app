@@ -7,6 +7,7 @@ import BuyCryptoSecond from '../../components/buycryptopage/secondsect/second';
 import BuyCryptoThird from '../../components/buycryptopage/thirdsect/thirdsect';
 // import BuyCryptoFourth from '../../components/buycryptopage/fourthsect/fourthsect';
 import FirstBuyCrypto from '../../components/buycryptopage/firstbuysect/buy';
+import EconomicCalendar from '../../components/buycryptopage/firssect/newwidget';
 
 
 function PrivacyPolicy(){
@@ -24,6 +25,8 @@ function PrivacyPolicy(){
             <BuyCryptoThird />
 
             {/* <BuyCryptoFourth /> */}
+
+            <EconomicCalendar />
 
             <MyFooter />
         </div>

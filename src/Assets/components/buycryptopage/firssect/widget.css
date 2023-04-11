@@ -16,3 +16,9 @@
         height: 600px;
     }
 }
+.economic_calendar {
+    padding: 0px 0px 100px 0px;
+}
+#tradingview_widget_wrapper div:nth-child(2) {
+    display: none;
+}
