@@ -454,4 +454,7 @@ div#token_video .taskdiv.two{
         min-height: 210px !important;
         width: 49% !important;
     }
+    #ncx_token_Page .feat-txt {
+        width: 100%;
+    }
 }
