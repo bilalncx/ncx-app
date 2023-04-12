@@ -66,7 +66,26 @@ function FirstVideo()
                     <div className="inns-div">
                         <h1>{t("your_crypto")}</h1>
                         <h1 className="border-bv">{t("debit_card")}</h1>
-                        <h1>{t("awaits")}</h1>
+                        <p class="cardp1">Stake NCX and get your Premium Card, perfect solution for everyday purchases. Top up with crypto and use for payments - Anytime, Anywhere!</p>
+                        <div id="mobile-butller">
+                            <div class="bullets">
+                                <span>Pay at 44 Million Merchant locations Worldwide</span>
+                            </div>
+                            <div class="bullets">
+                                <span>Powered by MasterCard</span>
+                                <span>ATM Withdrawals</span>
+                            </div>
+                            <div class="bullets">
+                                <span>Top up by Crypto</span>
+                                <span>Premium Metal Card</span>
+                            </div>
+                            <div class="bullets">
+                                <span>Online Payments</span>
+                                <span>Apple Pay</span>
+                                <span>Google Pay</span>
+                            </div>
+                        </div>
+                        <p class="cardp2">One Card Unlimited Possibilities</p>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("get_the_card")}</Button>
                             <Button href="#" className="card_learn">{t("learn_more")}</Button>

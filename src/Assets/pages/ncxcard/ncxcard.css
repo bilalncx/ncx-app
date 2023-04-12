@@ -259,7 +259,22 @@
     #mobileSlider .col.card_txt {
         position: relative;
         width: 100%;
-        height: 400px;
+        /* height: 550px; */
+        padding: 50px 0px !important;
+    }
+    #mobileSlider #mobile-butller .bullets span {
+        font-size: 15px !important;
+        padding: 5px 13px !important;
+        background: #F0F0F1;
+        color: #000000 !important;
+    }
+    #mobileSlider p.cardp2 {
+        margin: 30px 0px 20px 0px !important;
+    }
+    #mobileSlider p.cardp1 {
+        font-size: 16px !important;
+        line-height: 24px !important;
+        font-family: 'hauora-regular' !important;
     }
     #mobileSlider .carousel {
         max-height: 600px;
@@ -291,10 +306,15 @@
     }
     #mobileSlider h1.border-bv:before{
         height: 10px !important;
-        width: 63% !important;
+        width: 68% !important;
     }
     #mobileSlider .col.card_txt .inns-div{
         width: 100% !important;
+        top: 0px !important;
+        transform: unset !important;
+        padding: 0px 20px !important;
+        max-width: unset !important;
+        position: relative !important;
     }
     #mobileSlider .bbttn{
         margin-top: 20px;
@@ -303,7 +323,13 @@
         font-size: 20px !important;
         margin-bottom: 10px !important;
     }
+    #mobileSlider{
+        display: block !important;
+    }
 }
 .cardvideo-sect{
+    display: none;
+}
+#mobileSlider{
     display: none;
 }
