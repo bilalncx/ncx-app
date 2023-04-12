@@ -38,7 +38,7 @@
 }
 .carddetails .row ul li:before{
     content: '';
-    background: url(../../../images/ncx-bluetick.svg);
+    background: url(../../../images/ncx-purpletick.svg);
     background-repeat: no-repeat;
     background-size: 100%;
     width: 26px;
@@ -49,6 +49,24 @@
     top: 0px;
     border-radius: 50%;
 }
+.carddetails .row .col {
+    padding: 0px !important;
+}
+/* .carddetails .row .col:nth-child(1){
+    width: 20% !important;
+}
+.carddetails .row .col:nth-child(2){
+    width: 26.666% !important;
+    padding-left: 25px !important;
+}
+.carddetails .row .col:nth-child(3){
+    width: 26.666% !important;
+    padding-left: 25px !important;
+}
+.carddetails .row .col:nth-child(4){
+    width: 26.666% !important;
+    padding-left: 25px !important;
+} */
 .carddetails .row ul li p {
     font-size: 16px;
     line-height: 24px;

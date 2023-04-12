@@ -173,7 +173,7 @@ h2.secondtask{
         display: none;
     }
     .taskdiv {
-        width: 49%;
+        width: 49% !important;
         margin-right: 0px;
         max-height: 170px;
         gap: 40px !important;

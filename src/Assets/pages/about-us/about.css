@@ -25,6 +25,9 @@
 #ncx_about .otc-line {
     background: rgba(0,0,0,0.3);
 }
+#ncx_about .bar-grade33 .gradientbar {
+    background: linear-gradient(90deg, rgba(146,82,234,1) 7%, rgba(238,112,228,1) 36%, rgba(146,91,202,1) 77%, rgba(49,112,246,1) 100%) !important;
+}
 summary::marker {
     display: none;
 }
@@ -44,9 +47,12 @@ summary::-webkit-details-marker{
     }
     #ncx_about .col.card_imga {
         width: 100%;
+        display: none;
     }
-    #ncx_about.col.card_imgb {
+    #ncx_about .col.card_imgb {
         width: 100%;
+        display: block !important;
+        padding: 50px 0px !important;
     }
     #ncx_about .col.card_txt {
         width: 100% !important;
@@ -64,11 +70,11 @@ summary::-webkit-details-marker{
     #ncx_about .bbttn a{
         padding: 10px 30px !important;
     }
-    #ncx_about .col.card_imga img {
+    #ncx_about .col.card_imgb img {
         max-height: 300px;
         min-height: 300px;
     }
-    #ncx_about .col.card_imgb{
+    #ncx_about .col.card_imga{
         display: none !important;
     }
     .about_content{
@@ -234,7 +240,7 @@ summary::-webkit-details-marker{
         font-family: 'hauora-semibold' !important;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
-        height: 46px;
+        height: 40px;
         min-width: unset !important;
     }
     #ncx_about .market-content {
@@ -263,5 +269,11 @@ summary::-webkit-details-marker{
         margin-left: -10px !important;
         margin-right: -10px !important;
         background: #FFFFFF;
+    }
+    #ncx_about .amm_head .col p{
+        font-size: 12px !important;
+    }
+    #ncx_about .amm_markettable .amm_head {
+        padding: 10px 20px;
     }
 }
