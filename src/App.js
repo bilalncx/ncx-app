@@ -29,6 +29,7 @@ import ApplyNow from './Assets/pages/Horizontalpage/horizontalpage';
 import NCXTokenPage from './Assets/pages/ncx-token/token';
 import MarketHomePageSection from './Assets/components/our_markets/home_market';
 import NCXAboutUs from './Assets/pages/about-us/about';
+import Wallet from './Assets/pages/wallet/wallet';
 
 const App = () => {
   return (
@@ -62,6 +63,7 @@ const App = () => {
           <Route path='/ncx-token' element={<NCXTokenPage />} />
           <Route path='/home-market' element={<MarketHomePageSection />} />
           <Route path='/about-us' element={<NCXAboutUs />} />
+          <Route path='/wallet' element={<Wallet />} />
         </Routes>
       </BrowserRouter>
     // </div>

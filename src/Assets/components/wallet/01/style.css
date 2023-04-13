@@ -1,0 +1,138 @@
+.wallet-slider .container{
+    max-width: 1600px !important;
+}
+.slider__leftright {
+    position: relative;
+}
+.coin__chain__ccx{
+    column-gap: 8px;
+    display: flex;
+    justify-content: center;
+}
+.coin__chain {
+    display: flex;
+    align-items: center;
+    padding: 8px 15px 8px 8px;
+    height: 56px;
+    border-radius: 80px;
+    column-gap: 8px;
+    flex-shrink: 0;
+    position: relative;
+}
+.coin__chain img {
+    width: 40px;
+    height: auto;
+}
+.coin__chain p{
+    font-size: 18px;
+    line-height: 22px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+}
+.wallet-slider {
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000000;
+}
+.wallet-slider h1 {
+    font-size: 60px;
+    color: #FFFFFF;
+    line-height: 64px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.wallet-slider h3{
+    font-size: 18px;
+    line-height: 28px;
+    color: #A1A3A7;
+    font-family: 'urbanist-medium';
+    text-align: center;
+    margin-top: 40px;
+}
+.ethereum p{
+    color: #000000 !important;
+}
+.arbitrum{
+    background: #28A0F0;
+}
+.bnb_chain{
+    background: #F0B90B;
+}
+.aurora{
+    background: #78D64B;
+}
+.polygon{
+    background: #8248E5;
+}
+.optimism{
+    background: #F01A37;
+}
+.ethereum{
+    background: #FFFFFF;
+}
+.base{
+    background: #0151FE;
+}
+.avalanche{
+    background: #000000;
+}
+.gnosis{
+    background: #48A9A6;
+}
+.styles_gradientBase__0SEn1 {
+    width: 330px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 90%);
+    z-index: 1;
+}
+.styles_gradientFlipped__Krens {
+    left: auto;
+    right: 0;
+    transform: scaleX(-1);
+}
+
+.scroll-parent {
+    position: relative;
+    width: 100vw;
+    height: 6rem;
+    overflow-x: hidden;
+  }
+  .coin__chain__ccx  {
+    width: inherit;
+    height: inherit;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .coin__chain__ccx.primary {
+    animation: primary 15s linear infinite;
+  }
+  .coin__chain__ccx.secondary {
+    animation: secondary 15s linear infinite;
+  }
+  
+  @keyframes primary {
+    from {
+      left: 0%;
+    }
+    to {
+      left: -100%;
+    }
+  }
+  
+  @keyframes secondary {
+    from {
+      left: 100%;
+    }
+    to {
+      left: 0%;
+    }
+  }

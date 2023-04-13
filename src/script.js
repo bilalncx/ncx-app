@@ -136,6 +136,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/about-us") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/wallet") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }
