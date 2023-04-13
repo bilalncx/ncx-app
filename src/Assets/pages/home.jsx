@@ -35,10 +35,13 @@ import MarketSLider from '../components/homepage/market/flyers';
 import NCXPoweredByCrypto from '../components/homepage/sect_poweredby/powered';
 // import HorizontalWhatWeDo from '../components/homepage/horizontalscrollsection/horizontal';
 import NCXNewHomeMarketSection from '../components/our_markets/home_market';
+import { useTranslation } from "react-i18next";
 
 
 function MainHome()
 {
+    const { t } = useTranslation();
+
     // const [toggleState, setToggleState] = useState(1);
 
     // const toggleTab = (index) => {
@@ -177,8 +180,8 @@ function MainHome()
                         <div className="row">
                             <div className="faq-0 asss">
                                 <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <p>Got a Question?</p>
-                                    <h1>Frequently Asked Questions</h1>
+                                    <p>{t("got_a_question_?")}</p>
+                                    <h1>{t("frequently_asked_questions")}</h1>
                                 </AnimationOnScroll>
                             </div>
                             <div className="faq-1">

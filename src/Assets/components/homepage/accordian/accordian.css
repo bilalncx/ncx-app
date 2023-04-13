@@ -63,6 +63,37 @@ ul.faq_li li:before {
     display: none !important;
 } */
 
+#footer-faq summary {
+    color: #FFFFFF !important;
+    border-top: 1px solid rgba(255,255,255, 0.5) !important;
+}
+#footer-faq .contt{
+    color: #FFFFFF !important;
+}
+#footer-faq details[open] .contt{
+    padding-top: 0px !important;
+}
+#footer-faq span.red{
+    background: rgba(255,255,255,0.5) !important;
+}
+#footer-faq .contt ul {
+    margin-top: 20px;
+    padding-left: 0;
+}
+#footer-faq .contt ul li {
+    font-family: "urbanist-light" !important;
+    font-size: 16px!important;
+    line-height: 24px;
+    list-style-type: none!important;
+    padding: 5px 0 5px 20px;
+    position: relative;
+}
+#footer-faq .contt ul li:before {
+    content: "-";
+    left: 0;
+    position: absolute;
+}
+
 @media screen and (max-width: 800px){
     #faq.faq-sect .row:before, #faq.faq-sect .row:after{
         display: none;

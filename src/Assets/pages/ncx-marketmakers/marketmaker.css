@@ -53,6 +53,9 @@ h1.market_benefits span, .transaction_rebates .hsd13 h3 span {
 #marketmakers_page .ambassadordiv .container{
     position: absolute;
 }
+p.mkr_rebate_mbl {
+    display: none;
+}
 
 @media screen and (max-width: 800px){
     #marketmakers_page .ambassadordiv {
@@ -171,5 +174,18 @@ h1.market_benefits span, .transaction_rebates .hsd13 h3 span {
     }
     .transaction_rebates{
         margin-top: 50px;
+    }
+    p.mkr_rebate_mbl {
+        display: block !important;
+    }
+    p.rebat_mkr_dsk {
+        display: none;
+    }
+    .amm_markettable .amm_head {
+        padding: 12px 20px;
+    }
+    .amm_head p {
+        font-size: 10px !important;
+        line-height: 16px !important;
     }
 }

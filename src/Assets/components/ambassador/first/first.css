@@ -186,10 +186,26 @@ a.card_learn {
     }
 }
 @media screen and (max-width: 800px){
-    .crypto_card {
-        display: none;
+    #ncxAmbassador-page .crypto_card {
+        display: block;
     }
     #ncxAmbassador-page .ambassadordiv{
+        display: none;
+    }
+    #ncxAmbassador-page .crypto_card .ambassador_card {
+        display: none;
+    }
+    #ncxAmbassador-page .card_txt h1.border-bv{
+        font-size: 42px !important;
+        line-height: 54px !important;
+    }
+    #ncxAmbassador-page .card_txt h1.border-bv:before{
+        background: rgba(148,82,236,.6);
+        bottom: 9px;
+        content: "";
         display: block;
+        height: 10px !important;
+        position: absolute;
+        width: 95% !important;
     }
 }

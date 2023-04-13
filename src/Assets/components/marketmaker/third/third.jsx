@@ -73,7 +73,7 @@ const { t } = useTranslation();
                         <div className="amm_head">
                             <div className="col"><p>{t("Rebate_level")}</p></div>
                             <div className="col"><p>{t("ranking")}</p></div>
-                            <div className="col"><p>{t("rebate_ration")}</p></div>
+                            <div className="col"><p className='rebat_mkr_dsk'>{t("rebate_ration")}</p><p className='mkr_rebate_mbl'>{t("mkr_rebate_mbl")}</p></div>
                         </div>
                         <div className="amm_body_row">
                             <div className="col"><p>LV3</p></div>

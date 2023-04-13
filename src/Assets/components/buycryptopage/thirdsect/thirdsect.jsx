@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import '../../cardpage/card-faq/faq.css'
-import { t, useTranslation } from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 
 function Accordian() {

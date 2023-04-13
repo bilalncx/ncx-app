@@ -1,7 +1,7 @@
 div#trading_solutions {
     position: relative;
     min-height: 770px;
-    max-height: 880px;
+    max-height: 1000px;
     background: #000000;
 }
 #trading_solutions video {
@@ -27,4 +27,17 @@ div#trading_solutions {
 }
 .trading-sol-row .col{
     width: 50%;
+}
+#ncx_institution summary{
+    color: #FFFFFF !important;
+    border-top: 1px solid rgb(255,255,255, 0.5) !important;
+}
+#ncx_institution span.red{
+    background: rgba(255,255,255, 0.5) !important;
+}
+#ncx_institution .contt{
+    color: #FFFFFF !important;
+}
+#ncx_institution details[open] .contt{
+    padding-top: 0px !important;
 }

@@ -64,7 +64,7 @@ video#ncx-main-video {
     font-family: 'urbanist-medium';
     border-radius: 50px;
     text-transform: capitalize;
-    width: 115px;
+    min-width: 115px;
     height: 40px;
 }
 .buttoninfo a:hover{

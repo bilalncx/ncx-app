@@ -5,9 +5,12 @@ import { ReactComponent as NCXBarCode } from '../../../images/ncx-QRcode.svg';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
 import BuyCryptoVideo from '../../../images/ncx_poweredby.mp4';
+import { useTranslation } from "react-i18next";
 
 function NCXAPPSection()
 {
+    const { t } = useTranslation();
+
     return(
         <div id="powered_by" className="ncxapp-section">
             <div id="ncx_buycrypto_video">
@@ -28,11 +31,11 @@ function NCXAPPSection()
                 <div className="row">
                     <div className="col">
                         <div className="apps_barcod">
-                            <h1>NCX Card Premium Debit Card, Powered by Crypto</h1>
-                            <p>Top up with Crypto and use for payments - Anytime, Anywhere!</p>
+                            <h1>{t("ncx_card_premium_debit_card_powered_by_crypto")}</h1>
+                            <p>{t("top_up_with_crypto_and_use_for_payments_anytime_anywhere!")}</p>
                             <div className="barcodd">
                                 <NCXBarCode />
-                                <p>Scan to Download NCX App</p>
+                                <p>{t("scan_to_download_ncx_app")}</p>
                             </div>
                             <div className="apps-divi">
                                 <NCXApple />
@@ -43,20 +46,20 @@ function NCXAPPSection()
                     <div className="col">
                         <div className="app-texts-src">
                             <div className="apptexts">
-                                <h1>GLOBAL REACH</h1>
-                                <p>Powered by MasterCard, Pay at 44 Million Merchant locations Worldwide.</p>
+                                <h1>{t("global_reach")}</h1>
+                                <p>{t("powered_by_mastercard_pay_at_44_million_locations_worldwide")}</p>
                             </div>
                             <div className="apptexts">
-                                <h1>ATM WITHDRAWALS</h1>
-                                <p>Turn your Crypto into Cash instantly, use NCX Card across 3.2m ATMs Worldwide.</p>
+                                <h1>{t("atm_withdrawals")}</h1>
+                                <p>{t("trun_your_crypto_into_cash_instantly_use_ncx-card_across_3.2m_atms_worldwide")}</p>
                             </div>
                             <div className="apptexts">
-                                <h1>ONLINE PAYMENTS</h1>
-                                <p>Use you card for Online Payments as well as Apple Pay, Google Pay, Samsung Pay, Paypal, and many more.</p>
+                                <h1>{t("online_payments")}</h1>
+                                <p>{t("use_your_card_online_payments")}</p>
                             </div>
                             <div className="apptexts">
-                                <h1>TOP UP BY CRYPTO</h1>
-                                <p>Top Up on the go with one of 80 available Cryptocurrencies</p>
+                                <h1>{t("top_up_by_crypto")}</h1>
+                                <p>{t("top_up_on_the_go_with_one_of_80_available_cryptocurrencies")}</p>
                             </div>
                         </div>
                     </div>

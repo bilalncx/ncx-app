@@ -4,10 +4,8 @@ import Button from "@mui/material/Button";
 import CryptoCard1 from '../../../images/crypto_card_1.png';
 import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
-import { AnimationOnScroll } from 'react-animation-on-scroll';
 import { ReactComponent as AboutLogo } from '../../../images/about_logo.svg';
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
-import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
 
 
 function FirstVideo()
@@ -49,7 +47,7 @@ function FirstVideo()
                         interval={3000}
                         orientation="horizontal"
                         infinite
-                        playDirectio="forward"
+                        playDirection="forward"
                     >
                     <Slider className="slider">
                         <Slide index={0}>
@@ -66,26 +64,26 @@ function FirstVideo()
                     <div className="inns-div">
                         <h1>{t("your_crypto")}</h1>
                         <h1 className="border-bv">{t("debit_card")}</h1>
-                        <p class="cardp1">Stake NCX and get your Premium Card, perfect solution for everyday purchases. Top up with crypto and use for payments - Anytime, Anywhere!</p>
+                        <p class="cardp1">{t("crypto_debit_card_text")}</p>
                         <div id="mobile-butller">
                             <div class="bullets">
-                                <span>Pay at 44 Million Merchant locations Worldwide</span>
+                                <span>{t("pay_at_44_million_merchant")}</span>
                             </div>
                             <div class="bullets">
-                                <span>Powered by MasterCard</span>
-                                <span>ATM Withdrawals</span>
+                                <span>{t("powered_by_mastercard")}</span>
+                                <span>{t("atm_withdrawals")}</span>
                             </div>
                             <div class="bullets">
-                                <span>Top up by Crypto</span>
-                                <span>Premium Metal Card</span>
+                                <span>{t("top_up_by_crypto")}</span>
+                                <span>{t("premium_metal_card")}</span>
                             </div>
                             <div class="bullets">
-                                <span>Online Payments</span>
+                                <span>{t("online_payments")}</span>
                                 <span>Apple Pay</span>
                                 <span>Google Pay</span>
                             </div>
                         </div>
-                        <p class="cardp2">One Card Unlimited Possibilities</p>
+                        <p class="cardp2">{t("one_card_unlimited_possibilities")}</p>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("get_the_card")}</Button>
                             <Button href="#" className="card_learn">{t("learn_more")}</Button>

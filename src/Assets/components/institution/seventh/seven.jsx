@@ -15,14 +15,14 @@ function NCXAssetManagement()
 {
     const { t } = useTranslation();
 
-    const [selected, setselected] = useState(null);
-    const toggle = (i) => {
-        if(selected === i){
-            return setselected(null)
-        }
+    // const [selected, setselected] = useState(null);
+    // const toggle = (i) => {
+    //     if(selected === i){
+    //         return setselected(null)
+    //     }
 
-        setselected(i)
-    }
+    //     setselected(i)
+    // }
     return(
         <div id="trading_solutions" className="assets_management">
             <div className="backgrdound-video">
@@ -50,7 +50,31 @@ function NCXAssetManagement()
                     <div className="col">
                         <div className="accordian_maindiv">
                             <div className="accordian">
-                                {data.map((item, i) => (
+                                <details>
+                                    <summary>{t("assets_management")}
+                                        <span className='red'>
+                                            <svg width="13" height="9" viewBox="0 0 13 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M1.2657 0.850586C0.312684 0.850586 -0.19666 1.97304 0.430911 2.69023L5.33092 8.29028C5.9496 8.99735 7.04961 8.99735 7.6683 8.29028L12.5684 2.69023C13.1958 1.97304 12.6866 0.850586 11.7335 0.850586H1.2657Z" fill="white"/>
+                                            </svg>
+                                        </span>
+                                    </summary>
+                                    <div className='contt'>
+                                        {t("assets_management_text")}
+                                    </div>
+                                </details>
+                                <details>
+                                    <summary>{t("custody_count")}
+                                        <span className='red'>
+                                            <svg width="13" height="9" viewBox="0 0 13 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M1.2657 0.850586C0.312684 0.850586 -0.19666 1.97304 0.430911 2.69023L5.33092 8.29028C5.9496 8.99735 7.04961 8.99735 7.6683 8.29028L12.5684 2.69023C13.1958 1.97304 12.6866 0.850586 11.7335 0.850586H1.2657Z" fill="white"/>
+                                            </svg>
+                                        </span>
+                                    </summary>
+                                    <div className='contt'>
+                                        {t("custody_count_text")}
+                                    </div>
+                                </details>
+                                {/* {data.map((item, i) => (
                                     <div className="item">
                                         <div className='title' onClick={() => toggle(i)}>
                                             <h2>{item.question}</h2>
@@ -64,7 +88,7 @@ function NCXAssetManagement()
                                             <p>{item.answer}</p>
                                         </div>
                                     </div>
-                                ))}
+                                ))} */}
                             </div>
                         </div>
                     </div>
@@ -196,21 +220,21 @@ function NCXAssetManagement()
     )   
 }
 
-const data = [
-    {
-        question: 'Assets Management',
-        answer: 
-        <div>
-            <p>Investors can create managed subaccounts and grant access rights to your professional trading or advisory team for treasury management. The volume generated during the binding period will be allocated to the trading team's parent account and the account tier will be upgraded in accordance with the transaction volume. Your managed subaccount can enjoy the rate of the trading team's parent account VIP tier.</p>
-        </div>,
-    },
-    {
-        question: 'Custody Account',
-        answer: 
-        <div>
-            <p>Any investment funds or companies that are looking to enhance the security level of their digital assets or need to meet the compliance requirements can use NCX Custody Service. Register your interest with your account manager to apply for custody account.</p>
-        </div>,
-    },
-]
+// const data = [
+//     {
+//         question: 'Assets Management',
+//         answer: 
+//         <div>
+//             <p>Investors can create managed subaccounts and grant access rights to your professional trading or advisory team for treasury management. The volume generated during the binding period will be allocated to the trading team's parent account and the account tier will be upgraded in accordance with the transaction volume. Your managed subaccount can enjoy the rate of the trading team's parent account VIP tier.</p>
+//         </div>,
+//     },
+//     {
+//         question: 'Custody Account',
+//         answer: 
+//         <div>
+//             <p>Any investment funds or companies that are looking to enhance the security level of their digital assets or need to meet the compliance requirements can use NCX Custody Service. Register your interest with your account manager to apply for custody account.</p>
+//         </div>,
+//     },
+// ]
 
 export default NCXAssetManagement;
