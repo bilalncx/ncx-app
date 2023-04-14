@@ -19,3 +19,10 @@
 #trading_solutions #data__ana .col.first {
     min-height: 290px;
 }
+#trading_solutions #data__ana .trs h1 {
+    font-size: 22px !important;
+    line-height: 26px !important;
+    font-family: 'hauora-medium' !important;
+    color: #000000;
+    margin-bottom: 10px !important;
+}
