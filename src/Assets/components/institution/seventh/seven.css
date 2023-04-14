@@ -13,3 +13,9 @@
 .our_advantages .otc-line {
     height: 335px;
 }
+#trading_solutions #data__ana {
+    padding: 0px;
+}
+#trading_solutions #data__ana .col.first {
+    min-height: 290px;
+}

@@ -1,0 +1,103 @@
+div#wallet__mp video {
+    max-height: 100vh;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    margin-bottom: -6px;
+}
+.wallet__main {
+    margin-top: -56px;
+    position: relative;
+    background: #000000;
+    background-color: #000000;
+}
+#wallet__main__cc #header-row {
+    background: transparent;
+    background-color: transparent;
+}
+.txt__wall {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.tcc__rr {
+    display: flex;
+}
+.tcc__rr .col:nth-child(1) {
+    width: 40%;
+    flex: inherit;
+}
+.tcc__rr .col:nth-child(2) {
+    width: 60%;
+    flex: inherit !important;
+}
+.tcc__rr h3 {
+    font-size: 34px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'urbanist-light' !important;
+}
+.tcc__rr h3 span, .tcc__rr h1 span{
+    color: #78E4FF;
+}
+.tcc__rr h1 {
+    font-size: 70px;
+    font-family: 'hauora-regular';
+    line-height: 80px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.tcc__rr p {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'urbanist-light';
+    text-align: center;
+    line-height: 25px;
+    width: 90%;
+    margin: 0 auto;
+}
+.wallet__btn{
+    display: flex;
+    gap: 10px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.wallet__btn a:hover{
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+.wallet__btn a.sign__up{
+    background: linear-gradient(180deg, #5ED3F0 0%, #00AFDB 100%);
+    border-radius: 40px;
+    width: 134px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+}
+a.learn__mo{
+    width: 134px;
+    height: 48px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    border: 1px solid #5ED3F0;
+}

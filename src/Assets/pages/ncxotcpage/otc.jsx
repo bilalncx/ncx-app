@@ -2,21 +2,25 @@ import React from "react";
 import './otc.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
-import BackVideo from '../../images/ncx-firstslidervideo.mp4';
-import {ReactComponent as Icon} from '../../images/ncx-staricon.svg';
-import OTCSecrtion from '../../components/homepage/NCXOTC/otc';
-import Button from "@mui/material/Button";
-import { useTranslation } from "react-i18next";
+// import BackVideo from '../../images/ncx-firstslidervideo.mp4';
+// import {ReactComponent as Icon} from '../../images/ncx-staricon.svg';
+// import OTCSecrtion from '../../components/homepage/NCXOTC/otc';
+// import Button from "@mui/material/Button";
+// import { useTranslation } from "react-i18next";
+import NCXOTC1 from '../../components/otc/1/first';
 
 function NCXOTCPage()
 {
 
-    const { t } = useTranslation();
+    // const { t } = useTranslation();
 
     return(
         <div id="ncxotc-page">
             <MyHeader />
-            <div className="OTCwelcome">
+
+            <NCXOTC1 />
+
+            {/* <div className="OTCwelcome">
                 <div className="welcomevideo">
                     <video
                         autoPlay={true}
@@ -43,9 +47,9 @@ function NCXOTCPage()
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
-            <OTCSecrtion />
+            {/* <OTCSecrtion /> */}
 
             <MyFooter />
         </div>

@@ -3,7 +3,7 @@ import './third.css'
 import '../../homepage/accordian/accordian.css';
 import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-import NCXLogo from '../../../images/NCX-logo.svg';
+import NCXLogo from '../../../images/about_logo.svg';
 import { useTranslation } from "react-i18next";
 
 function Accordian() {

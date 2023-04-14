@@ -1,7 +1,7 @@
-#ncx_institution header#header-row {
+/* #ncx_institution header#header-row {
     background: transparent;
     background-color: transparent;
-}
+} */
 #ncx_institution .ambassadordiv .container {
     padding-top: 240px;
 }
@@ -15,6 +15,36 @@ p.insta-head {
     font-family: 'hauora-semibold';
     color: #000000;
     margin-top: 50px;
+}
+#ncx_institution .col.card_imgb {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#ncx_institution .col.card_imgb img {
+    width: 100% !important;
+    max-height: 430px;
+    min-height: 350px;
+    object-fit: contain;
+    filter: drop-shadow(0px 4px 30px rgba(0, 0, 0, 0.25));
+}
+.institutional__ser h1 {
+    font-size: 62px !important;
+    line-height: 80px !important;
+    font-family: 'hauora-medium' !important;
+}
+.institutional__ser h1:nth-child(2){
+    position: relative;
+    width: fit-content;
+}
+.institutional__ser h1:nth-child(2):before{
+    content: '';
+    height: 15px;
+    background: rgba(148, 82, 236, 0.6);
+    display: block;
+    position: absolute;
+    width: 100%;
+    bottom: 15px;
 }
 @media screen and (max-width:800px){
     #ncx_institution .ambassadordiv {
@@ -205,5 +235,19 @@ p.insta-head {
     }
     #ncx_institution .ncx-blacklogo, #ncx_institution .ncx-whitelogo{
         width: 105px !important;
+    }
+    .institutional__ser .ambassador_card.row {
+        display: none;
+    }
+    .institutional__ser #mobileSlider .carousel__slider-tray .carousel__slide:nth-child(2) img{
+        min-height: 300px !important;
+        max-height: 300px !important;
+        object-fit: contain !important;
+    }
+    .institutional__ser #mobileSlider .carousel .carousel__slider {
+        background: #DBDCDE !important;
+    }
+    .institutional__ser #mobileSlider .carousel__slider-tray .carousel__slide:nth-child(2){
+        padding: 50px 0px !important;
     }
 }

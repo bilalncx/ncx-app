@@ -1,12 +1,12 @@
-#ncxotc-page header#header-row {
+/* #ncxotc-page header#header-row {
     position: fixed !important;
     background: transparent !important;
     background-color: transparent !important;
-}
-#ncxotc-page header#header-row.darkheader{
+} */
+/* #ncxotc-page header#header-row.darkheader{
     background-color: #000000 !important;
     background: #000000 !important;
-}
+} */
 .OTCwelcome .container {
     position: absolute;
     top: 0;

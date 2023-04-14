@@ -2,6 +2,7 @@ import React from "react";
 import './second.css';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import '../../homepage/NCXOTC/otc.css';
+import {ReactComponent as NCXNewLogo } from '../../../images/about_logo.svg';
 import { ReactComponent as OTC1 } from '../../../images/ncx-otc1.svg';
 import { ReactComponent as OTC2 } from '../../../images/ncx-otc2.svg';
 import { ReactComponent as OTC3 } from '../../../images/ncx-otc3.svg';
@@ -20,7 +21,8 @@ function NCXhomepageOTCSection()
             <div className="container">
                 <div className="otclogo row">
                     <div className="ncx-otc solutions">
-                        <p>{t("solutions_institutional_clients")}</p>
+                        <NCXNewLogo />
+                        <p>{t("institutional")}</p>
                     </div>
                 </div>
                 <div className="OTCsect row">

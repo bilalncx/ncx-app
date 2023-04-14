@@ -3,13 +3,14 @@ import './seven.css';
 import '../../homepage/accordian/accordian.css';
 import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-import NCXLogo from '../../../images/NCX-logo.svg';
+import NCXLogo from '../../../images/about_logo.svg';
 import '../../homepage/NCXOTC/otc.css';
 import { ReactComponent as OTC2 } from '../../../images/ncx-otc2.svg';
 import { ReactComponent as OTC4 } from '../../../images/ncx-otc4.svg';
 import { ReactComponent as OTC5 } from '../../../images/ncx-otc5.svg';
 import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
 import { useTranslation } from "react-i18next";
+import {ReactComponent as SafeArrow} from '../../../images/safe-arrow.svg';
 
 function NCXAssetManagement()
 {
@@ -94,7 +95,45 @@ function NCXAssetManagement()
                     </div>
                 </div>
 
-                <div className="our_advantages">
+
+                <div id="data__ana" className="why__choose__Otc">
+                    <div className="container">
+                    <div className="row">
+                        <div className="col first">
+                            <div className="cho__log">
+                                <p>Corporations</p>
+                                <SafeArrow />
+                            </div>
+                            <div className="trs">
+                                <h1>Corporations</h1>
+                                <p>Corporations allocating funds into digital assets and cryptocurrencies as part of their corporate treasury strategy. NCX Custody and Asset Management Service supports corporations to safeguard their digital assets on their balance sheet to hedge against inflation.</p>
+                            </div>
+                        </div>
+                        <div className="col second">
+                            <div className="cho__log">
+                                <p>Cryptocurrency Miners</p>
+                                <SafeArrow />
+                            </div>
+                            <div className="trs">
+                                <h1>Cryptocurrency Miners</h1>
+                                <p>Custody and Asset Management Service help Cryptocurrency Miners safeguard their mining rewards and ensure the mining rewards are disseminated to their clients without any operation surprises.</p>
+                            </div>
+                        </div>
+                        <div className="col third">
+                            <div className="cho__log">
+                                <p>High Net-worth Investors</p>
+                                <SafeArrow />
+                            </div>
+                            <div className="trs">
+                                <h1>High Networth Investors</h1>
+                                <p>Custody and Asset Management service support investors to grant access to their sub-accounts to third-party professional trading or advisory team for treasury management.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+                {/* <div className="our_advantages">
                     <h1>{t("our_advantages")}</h1>
                     <div className="OTCsect row">
                         <div className="col">
@@ -214,7 +253,7 @@ function NCXAssetManagement()
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     )   

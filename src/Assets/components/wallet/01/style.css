@@ -1,9 +1,6 @@
 .wallet-slider .container{
     max-width: 1600px !important;
 }
-.slider__leftright {
-    position: relative;
-}
 .coin__chain__ccx{
     column-gap: 8px;
     display: flex;
@@ -81,7 +78,47 @@
 .gnosis{
     background: #48A9A6;
 }
-.styles_gradientBase__0SEn1 {
+
+div.highway-slider {
+	display:flex;
+	justify-content:center;
+	width:100%;
+	height:56px;
+    position: relative;
+}
+div.highway-barrier {
+    overflow:hidden;
+    position:relative;
+}
+.highway-lane {
+    display:flex;
+    height:100%;
+    gap: 8px;
+}
+@keyframes translatestf {
+	0% { 
+        transform:translateX(100%); 
+    }
+	100% {
+        transform:translateX(-500%); 
+    }
+}
+.highway-car {
+    animation:translatestf 30s linear infinite;
+}
+@keyframes translateinfinite {
+	100% { 
+        transform:translateX(calc(-180px * 12));  
+    }
+}
+.highway-lane {
+    width:calc(180px * 24);
+}
+.coin__chain  {
+    animation:translateinfinite 70s linear infinite;
+}
+div#infinite:before {
+    content: '';
     width: 330px;
     position: absolute;
     top: 0;
@@ -90,49 +127,40 @@
     background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 90%);
     z-index: 1;
 }
-.styles_gradientFlipped__Krens {
+div#infinite:after {
+    content: '';
+    width: 330px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 90%);
+    z-index: 1;
     left: auto;
-    right: 0;
+    right: -2px;
     transform: scaleX(-1);
 }
 
-.scroll-parent {
-    position: relative;
-    width: 100vw;
-    height: 6rem;
-    overflow-x: hidden;
-  }
-  .coin__chain__ccx  {
-    width: inherit;
-    height: inherit;
-    position: absolute;
-    left: 0%;
-    top: 0%;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-  }
-  .coin__chain__ccx.primary {
-    animation: primary 15s linear infinite;
-  }
-  .coin__chain__ccx.secondary {
-    animation: secondary 15s linear infinite;
-  }
-  
-  @keyframes primary {
-    from {
-      left: 0%;
+
+
+@keyframes translatestff {
+	0% { 
+        transform:translateX(-500%); 
+    }   
+    100% {
+        transform:translateX(100%); 
     }
-    to {
-      left: -100%;
+}
+#right__left .highway-car {
+    animation:translatestff 30s linear infinite;
+}
+@keyframes translateinfinites {
+	0% { 
+        transform:translateX(calc(-180px * 12));  
     }
-  }
-  
-  @keyframes secondary {
-    from {
-      left: 100%;
-    }
-    to {
-      left: 0%;
-    }
-  }
+}
+#right__left .coin__chain  {
+    animation:translateinfinites 70s linear infinite;
+}
+section#right__left {
+    margin-top: 20px;
+}

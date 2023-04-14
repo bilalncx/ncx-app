@@ -2,7 +2,7 @@ import React from "react";
 import './institution.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
-import FirstSection from '../../components/institution/first/first';
+import FirstSection from '../../components/institution/first/new';
 import SecondSection from '../../components/institution/second/second';
 import ThirdSection from '../../components/institution/third/third';
 import FourthSection from '../../components/institution/fourth/fourth';

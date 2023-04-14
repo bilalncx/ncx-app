@@ -2,10 +2,11 @@
     padding: 90px 0px;
 }
 .data_analytics h1 {
-    font-size: 34px;
-    line-height: 38px;
+    font-size: 22px;
+    line-height: 26px;
     font-family: 'hauora-medium';
     color: #000000;
+    margin-bottom: 10px !important;
 }
 .analytics_row {
     display: flex;
@@ -67,3 +68,36 @@ p.sub_heds {
     box-shadow: 0 10px 20px 0 rgb(0 0 0 / 10%);
     cursor: pointer;
 }
+#data__ana .ncx-otc p {
+    color: #000000;
+    border-color: #000000;
+}
+#data__ana .ncx-otc {
+    margin-bottom: 90px;
+}
+#data__ana .col p {
+    font-size: 16px !important;
+    color: #747989 !important;
+    font-family: 'hauora-light' !important;
+    text-align: justify;
+}
+#data__ana .cho__log p {
+    font-size: 12px !important;
+    text-transform: uppercase !important;
+    color: #A1A3A7 !important;
+    font-family: 'hauora-semibold' !important;
+    letter-spacing: 2px !important;
+}
+#data__ana.why__choose__Otc .col.third h1, #data__ana.why__choose__Otc .col.third p{
+    color: #FFFFFF !important;
+}
+#data__ana.why__choose__Otc .row .col:hover h1, #data__ana.why__choose__Otc .row .col:hover p,
+#data__ana.why__choose__Otc .col:hover svg path{
+    color: #FFFFFF !important;
+}
+#data__ana.why__choose__Otc .row .col.col.third:hover h1{
+    color: #000000 !important;
+}
+#data__ana.why__choose__Otc .row .col.third:hover p{
+    color: #A1A3A7 !important;
+}   
