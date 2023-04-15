@@ -96,4 +96,7 @@ img.buy-ss22 {
     .buycrypt-row .col.coinsect{
         padding: 0px !important;
     }
+    #buyCryptoPage #card-faqss{
+        padding-bottom: 50px !important;
+    }
 }
