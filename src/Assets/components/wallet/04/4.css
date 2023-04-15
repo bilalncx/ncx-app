@@ -1,0 +1,101 @@
+.wallet__left__sided img {
+    width: 300px;
+    height: auto;
+}
+.wallet__left__sided .row {
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+.wallet__left__sided .row .col{
+    padding: 0px;
+}
+.wallet__left__sided .row .col:nth-child(1){
+    width: 60%;
+    flex: inherit !important;
+    padding-right: 100px;
+}
+.wallet__left__sided .row .col:nth-child(2){
+    width: 40%;
+    flex: inherit !important;
+}
+.col.img__vv {
+    text-align: center;
+}
+.wsl__fdss h3 {
+    font-size: 34px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    margin-bottom: 15px;
+}
+.wsl__fdss h1 {
+    font-size: 50px;
+    font-family: 'hauora-regular';
+    color: #FFFFFF;
+    line-height: 55px;
+}
+.wsl__fdss h1 span{
+    color: #78E4FF;
+}
+.wsl__fdss p{
+    font-size: 18px;
+    font-family: 'hauora-regular';
+    color: #FFFFFF;
+    margin-top: 20px;
+    width: 80%;
+}
+.wal__btns {
+    margin-top: 30px;
+    display: flex;
+    gap: 15px;
+}
+.wal__btns a.sf__ffp{
+    width: 134px;
+    height: 48px;
+    background: linear-gradient(180deg, #5ED3F0 0%, #00AFDB 100%);
+    border-radius: 40px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+}
+.wal__btns a.ff__dsw{
+    border: 1px solid #5ED3F0;
+    width: 150px;
+    height: 48px;
+    border-radius: 40px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+}
+.wal__btns a:hover, .wal__btns a:focus, .wal__btns a:focus-visible{
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+.wallet__left__sided, .wallet__right__sided {
+    padding: 100px 0px;
+}
+
+.wallet__right__sided img {
+    width: 300px;
+    height: auto;
+}
+.wallet__right__sided .row {
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+.wallet__right__sided .row .col{
+    padding: 0px;
+}
+.wallet__right__sided .row .col:nth-child(1){
+    width: 40%;
+    flex: inherit !important;
+}
+.wallet__right__sided .row .col:nth-child(2){
+    width: 60%;
+    flex: inherit !important;
+    padding-left: 100px;
+}

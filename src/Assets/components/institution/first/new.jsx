@@ -4,6 +4,7 @@ import CryptoCard1 from '../../../images/ncx-derivatives-trading.png';
 import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
+import NCXAPPVideo from '../../../images/ncx__app_vi.mp4';
 
 function FirstVideo()
 {
@@ -24,7 +25,15 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    <img src={CryptoCard2} alt="ncx_crypto_card" />
+                    {/* <img src={CryptoCard2} alt="ncx_crypto_card" /> */}
+                    <video
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        >
+                        <source src={NCXAPPVideo} type="video/mp4" />
+                    </video>
                 </div>
                 <div className="col card_imgb">
                     <img src={CryptoCard1} alt="ncx_crypto_card" />

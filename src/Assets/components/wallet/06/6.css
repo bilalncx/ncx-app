@@ -1,0 +1,31 @@
+.wallet__defi {
+    padding: 100px 0px;
+}
+.cfd__cnt{
+    background: url(../../../images/about_defi.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    justify-content: center;
+    min-height: 800px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    background-position: center;
+    align-items: center;
+}
+.cfd__cnt .cd {
+    text-align: center;
+    width: 60%;
+}
+.cfd__cnt h1 {
+    font-size: 48px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    padding: 0px 50px;
+    margin-bottom: 20px;
+}
+.cfd__cnt p {
+    font-size: 15px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+}

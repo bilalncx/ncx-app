@@ -1,0 +1,119 @@
+.wallet__buy_crypto {
+    padding: 100px 0px;
+}
+.wallet__buy_crypto p.__pp {
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #A1A3A7;
+    font-family: 'hauora-semibold';
+    margin-bottom: 20px;
+}
+.wallet__buy_crypto h1.__ldd{
+    font-size: 60px;
+    line-height: 75px;
+    font-family: 'hauora-semibold';
+    color: #FFFFFF;
+}
+.wallet__buy_crypto h1.__ldd span:before{
+    content: '{';
+}
+.wallet__buy_crypto h1.__ldd span:after{
+    content: '}';
+}
+.ccs__cont {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 100px 0px;
+}
+.ccs__cont span.balance {
+    color: #5ED3F0;
+    font-size: 38px;
+    line-height: 44px;
+    font-family: 'urbanist-medium';
+}
+.ccs__cont p {
+    color: #A1A3A7;
+    font-size: 12px;
+    font-family: 'hauora-regular';
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.arrow__sect {
+    display: flex;
+    gap: 40px;
+}
+.arrow__sect .col{
+    padding: 20px;
+    border: 1px solid #303033;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 230px;
+    border-radius: 15px;
+}
+.arr__log{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.arr__log p{
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.1em;
+    color: #A1A3A7;
+    font-family: 'hauora-semibold';
+    text-transform: uppercase;
+}
+.arrow__sect h1 {
+    font-size: 18px;
+    font-family: 'hauora-semibold';
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.btm__tc p {
+    font-size: 12px;
+    font-family: 'urbanist-light';
+    color: #FFFFFF;
+    margin-top: 5px;
+}
+.btm__tc a {
+    text-align: end;
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: 'urbanist-regular';
+}
+.arrow__sect .col.third{
+    background: linear-gradient(105.61deg, #5ED3F0 16.11%, #20A4E4 98.14%);
+}
+.arrow__sect .col.third p{
+    color: #FFFFFF !important;
+}
+.arrow__sect .col:hover{
+    border: 1px solid #5ED3F0;
+    cursor: pointer;
+}
+.arrow__sect .col:hover svg{
+    transform: rotate(45deg);
+}
+.arrow__sect .col:hover svg path{
+    fill: #5ED3F0;
+}
+.arrow__sect .col.third:hover svg path{
+    fill: #FFFFFF !important;
+}
+.arrow__sect .col:hover a{
+    color: #5ED3F0;
+    text-decoration: underline;
+}
+.arrow__sect .col.third:hover a{
+    color: #FFFFFF !important;
+}
+a:hover{
+    text-decoration: none;
+    
+}

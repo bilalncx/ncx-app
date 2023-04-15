@@ -13,7 +13,7 @@
     top: 0;
     width: 20px;
     height: 20px;
-    background: linear-gradient(105.61deg, #5ED3F0 16.11%, #20A4E4 98.14%);
+    background: #5ED3F0;
     /* transition: background-color .1s; */
     animation-timing-function: ease-in-out;
     animation-duration: 4s;
@@ -124,7 +124,8 @@
     top: 25px;
     width: 30px;
     height: 30px;
-    background: linear-gradient(105.61deg, #5ED3F0 16.11%, #20A4E4 98.14%);
+    /* background: linear-gradient(105.61deg, #5ED3F0 16.11%, #20A4E4 98.14%); */
+    background: #5ED3F0;
     /* transition: background-color .1s; */
     animation-timing-function: ease-out;
     animation-duration: 2s;
@@ -321,7 +322,7 @@
 }
 .sxx__ttr {
     border: 1px solid #303033;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     padding: 30px;
 }
 .logo__arw {
@@ -350,7 +351,7 @@
     color: #FFFFFF;
     margin-bottom: 10px;
 }
-.sxx__ttr h1:before{
+/* .sxx__ttr h1:before{
     content: '{';
     font-size: 24px;
     font-family: 'hauora-semibold';
@@ -363,7 +364,7 @@
     font-family: 'hauora-semibold';
     text-transform: uppercase;
     color: #FFFFFF;
-}
+} */
 .sxx__ttr a:hover{
     text-decoration: none;
 }
@@ -394,5 +395,5 @@
     fill: #5ED3F0;
 }
 .buy__sdf:hover .styles_rect__XvrMy{
-    background: linear-gradient(105.61deg, #5ED3F0 16.11%, #20A4E4 98.14%);
+    background: #5ED3F0;
 }

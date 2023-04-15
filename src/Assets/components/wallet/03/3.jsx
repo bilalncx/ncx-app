@@ -1,5 +1,6 @@
 import React from "react";
 import './style.css';
+import NCXWalletVideo from '../../../images/ncx_wallet_video.mp4';
 
 function Wallet3()
 {
@@ -14,7 +15,7 @@ function Wallet3()
                     preload="auto"
                     poster="../../../images/Token_bg.jpg"
                     >
-                    <source src="https://ncx.cx/images/ncx-token-video-2.mp4" type="video/mp4" />
+                    <source src={NCXWalletVideo} type="video/mp4" />
                 </video>
             </div>
             <div className="txt__wall">
