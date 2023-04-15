@@ -143,8 +143,8 @@ function InstitutionAboutUs()
                                 </div>
                                 <div className="txtimgsect">
                                     <div className="otctxt">
-                                        <h2>{t("liquidity_program")}</h2>
-                                        <p>{t("liquidity_program_text")}</p>
+                                        <h2>{t("compliance")}</h2>
+                                        <p>{t("trading_advantages_text1")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC4 />
@@ -159,8 +159,8 @@ function InstitutionAboutUs()
                                 </div>
                                 <div className="txtimgsect">
                                     <div className="otctxt">
-                                        <h2>{t("broker_program")}</h2>
-                                        <p>{t("broker_program_text")}</p>
+                                        <h2>{t("risk_management")}</h2>
+                                        <p>{t("trading_advantages_text2")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC5 />
@@ -176,9 +176,19 @@ function InstitutionAboutUs()
                                     <div className="otc-line"></div>
                                 </div>
                                 <div className="txtimgsect">
-                                    <div className="otctxt">
-                                        <h2>{t("access_defi")}</h2>
-                                        <p>{t("access-defi_text")}</p>
+                                    <div className="otctxt extra">
+                                        <h2>{t("cross_chain_dex")}</h2>
+                                        <p>{t("trading_advantages_text3")}</p>
+                                        <p>{t("trading_advantages_text3_1")}</p>
+                                        <p>{t("trading_advantages_text3_2")}</p>
+                                        <p>{t("trading_advantages_text3_3")}</p>
+                                        <p>{t("trading_advantages_text3_4")}</p>
+                                        <p>{t("trading_advantages_text3_5")}</p>
+                                        <p>{t("trading_advantages_text3_6")}</p>
+                                        <p>{t("trading_advantages_text3_7")}</p>
+                                        <p>{t("trading_advantages_text3_8")}</p>
+                                        <p>{t("trading_advantages_text3_9")}</p>
+                                        <p>{t("trading_advantages_text3_10")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC6 />
@@ -193,11 +203,11 @@ function InstitutionAboutUs()
                                 </div>
                                 <div className="txtimgsect">
                                     <div className="otctxt">
-                                        <h2>{t("otc_execution_services")}</h2>
-                                        <p>{t("otc_execution_services_text")}</p>
+                                        <h2>{t("spot_market")}</h2>
+                                        <p>{t("trading_advantage_text5")}</p>
                                     </div>
                                     <div className="otc-image">
-                                        <OTC3 />
+                                        <OTC2 />
                                     </div>
                                 </div>
                             </AnimationOnScroll>
@@ -211,11 +221,11 @@ function InstitutionAboutUs()
                                 </div>
                                 <div className="txtimgsect">
                                     <div className="otctxt">
-                                        <h2>{t("custody_assets_management")}</h2>
-                                        <p>{t("custody_assets_management_text")}</p>
+                                        <h2>{t("derivatives_market")}</h2>
+                                        <p>{t("trading_advantage_text4")}</p>
                                     </div>
                                     <div className="otc-image">
-                                        <OTC2 />
+                                        <OTC3 />
                                     </div>
                                 </div>
                             </AnimationOnScroll>
@@ -227,8 +237,8 @@ function InstitutionAboutUs()
                                 </div>
                                 <div className="txtimgsect">
                                     <div className="otctxt">
-                                        <h2>{t("structured_product")}</h2>
-                                        <p>{t("structured_product_text")}</p>
+                                        <h2>{t("api_sdk_colo_service")}</h2>
+                                        <p>{t("api-sdk-colo-text")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC1 />

@@ -101,3 +101,26 @@ p.sub_heds {
 #data__ana.why__choose__Otc .row .col.third:hover p{
     color: #A1A3A7 !important;
 }   
+
+@media screen and (max-width: 800px) {
+    #data__ana .ncx-otc {
+        margin-bottom: 60px;
+    }
+    #data__ana.why__choose__Otc .row{
+        margin-top: 0px !important;
+    }
+    #data__ana.why__choose__Otc .row .col {
+        padding: 20px !important;
+    }
+    #data__ana .cho__log p{
+        letter-spacing: 0px !important;
+        font-size: 12px !important;
+    }
+    #data__ana .trs h1 {
+        font-size: 18px;
+        line-height: 24px !important;
+    }
+    #data__ana .col .trs p{
+        font-size: 14px !important;
+    }
+}

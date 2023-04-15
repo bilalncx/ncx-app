@@ -10,7 +10,7 @@ import { ReactComponent as OTC5 } from '../../../images/ncx-otc5.svg';
 import { ReactComponent as OTC6 } from '../../../images/ncx-otc6.svg';
 import { ReactComponent as OTC7 } from '../../../images/icon-4.svg';
 import { ReactComponent as OTC8 } from '../../../images/ncx-otc7.svg';
-import NCXLogo from '../../../images/ncx-black-logo.svg';
+import {ReactComponent as NCXLogo } from '../../../images/about_logo.svg';
 import { useTranslation } from "react-i18next";
 
 function NCXhomepageOTCSection()
@@ -20,16 +20,11 @@ function NCXhomepageOTCSection()
     return(
         <div id="solutions_institutional" className="ncxotcsection">
             <div className="container">
-                <div className="otclogo row">
-                    <AnimationOnScroll animateIn="animate__fadeIn">
-                        <div className="ncx-otc">
-                            <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo" />
-                            <p className="insta-head">{t("institutional")}</p>
-                        </div>
-                    </AnimationOnScroll>
-                    <AnimationOnScroll className="advanta_our" animateIn="animate__fadeIn">
-                        <h2>{t("our_advantages")}</h2>
-                    </AnimationOnScroll>
+            <div className="otclogo row">
+                    <div className="ncx-otc solutions">
+                        <NCXLogo />
+                        <h1>{t("trading_advantage")}</h1>
+                    </div>
                 </div>
                 <div className="OTCsect row advantages1">
                     <div className="col">

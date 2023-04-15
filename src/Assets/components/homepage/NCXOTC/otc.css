@@ -45,7 +45,7 @@
     padding-top: 60px;
 }
 .otc-line {
-    background: #515151;
+    background: rgba(0, 0, 0, 0.3);
     height: 271px;
     transform: rotate(0deg);
     width: 1px;

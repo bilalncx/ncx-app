@@ -5,10 +5,11 @@ import MyFooter from '../../components/footer/footer';
 import FirstSection from '../../components/institution/first/new';
 import SecondSection from '../../components/institution/second/second';
 import ThirdSection from '../../components/institution/third/third';
-import FourthSection from '../../components/institution/fourth/fourth';
+// import FourthSection from '../../components/institution/fourth/fourth';
 import FifthSection from '../../components/institution/fifth/fifth';
 import SixthSection from '../../components/institution/sixth/six';
 import SeventhSection from '../../components/institution/seventh/seven';
+import TradingAdvantage from '../../components/aboutus/advantages/trading'
 
 function NCXInstitution()
 {
@@ -21,11 +22,13 @@ function NCXInstitution()
 
             <SecondSection />
 
+            <FifthSection />
+
             <ThirdSection />
 
-            <FourthSection />
+            <TradingAdvantage />
 
-            <FifthSection />
+            {/* <FourthSection /> */}
 
             <SixthSection />
 

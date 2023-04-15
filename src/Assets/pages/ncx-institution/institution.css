@@ -1,7 +1,3 @@
-/* #ncx_institution header#header-row {
-    background: transparent;
-    background-color: transparent;
-} */
 #ncx_institution .ambassadordiv .container {
     padding-top: 240px;
 }
@@ -89,17 +85,17 @@ p.insta-head {
         font-size: 26px !important;
         line-height: 32px !important;
     }
-    .liquidity-row .otctxt p {
+    /* .liquidity-row .otctxt p {
         height: 110px !important;
         min-height: 110px;
-    }
-    .liquidity-row .otc-line {
+    } */
+    /* .liquidity-row .otc-line {
         height: 200px !important;
-    }
-    .access_defi .otctxt p {
+    } */
+    /* .access_defi .otctxt p {
         min-height: 220px !important;
-    }
-    .access_defi .col:nth-child(2) .otctxt p {
+    } */
+    /* .access_defi .col:nth-child(2) .otctxt p {
         min-height: 203px !important;
     }
     .access_defi .otc-line {
@@ -113,7 +109,7 @@ p.insta-head {
     }
     .structured_product .col:nth-child(1) .otctxt p {
         min-height: 155px !important;
-    }
+    } */
     .trading-sol-row {
         display: block !important;
         padding: 80px 0px !important;
@@ -136,7 +132,7 @@ p.insta-head {
         font-size: 26px !important;
         line-height: 32px !important;
     }
-    .mbl_advag1 .otctxt p {
+    /* .mbl_advag1 .otctxt p {
         min-height: 220px !important;
     }
     .mbl_advag1 .otc-line {
@@ -165,12 +161,18 @@ p.insta-head {
     }
     .mbl_advag4 .otc-line {
         height: 235px !important;
-    }
+    } */
     .OTCsect.row.mobile.four.mbl_advag4 {
         padding-top: 0px !important;
     }
+    #solutions_institutional .OTCsect.row.mobile.one.liquidity-row {
+        padding-top: 60px !important;
+    }
+    #solutions_institutional .OTCsect.row.mobile.three{
+        padding-bottom: 0px !important;
+    }
     div#exclusive_rates {
-        padding: 50px 0px !important;
+        padding: 50px 0px 100px 0px !important;
         max-height: inherit !important;
     }
     #exclusive_rates .backgrdound-video{
@@ -191,6 +193,7 @@ p.insta-head {
     }
     .exclusive_rates .col {
         width: 100% !important;
+        margin-bottom: 20px;
     }
     #ncx_institution .data_analytics{
         padding: 50px 0px;
@@ -249,5 +252,25 @@ p.insta-head {
     }
     .institutional__ser #mobileSlider .carousel__slider-tray .carousel__slide:nth-child(2){
         padding: 50px 0px !important;
+    }
+    .institutional__ser h1:nth-child(2):before{
+        height: 10px;
+        bottom: 10px;
+    }
+    #solutions_institutional .otctxt p {
+        height: unset !important;
+        min-height: unset !important;
+    }
+    #trading_solutions .trading-sol-row {
+        padding-top: 0px !important;
+    }
+    #trading_solutions.assets_management .ncx-otc p{
+        font-size: 24px !important;
+    }
+    #trading_solutions #data__ana .container {
+        padding: 0px !important;
+    }
+    #trading_solutions #data__ana .col {
+        min-height: 250px !important;
     }
 }

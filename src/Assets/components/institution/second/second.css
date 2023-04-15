@@ -8,12 +8,12 @@ div#solutions_institutional {
     padding-left: 0px;
     font-family: 'hauora-medium';
 }
-#solutions_institutional .otctxt h2, #solutions_institutional .otctxt p{
+#solutions_institutional .otctxt h2{
     color: #000000;
 }
-#solutions_institutional .OTCsect.second.row .col:last-child h2 {
+/* #solutions_institutional .OTCsect.second.row .col:last-child h2 {
     min-height: 59.4px;
-}
+} */
 #solutions_institutional .OTCsect.second.row .col .otc-line{
     height: 290px !important
 }
@@ -29,6 +29,53 @@ div#solutions_institutional {
 .OTCsect.third.row.advantages3 {
     padding-top: 100px !important;
 }
-#solutions_institutional .advantages2 .col:nth-child(2) h2, #solutions_institutional .advantages2 .col:nth-child(3) h2{
+/* #solutions_institutional .advantages2 .col:nth-child(2) h2, #solutions_institutional .advantages2 .col:nth-child(3) h2{
     min-height: 59.4px;
+} */
+#solutions_institutional .otctxt p{
+    color: #616262 !important;
+}
+.ncx-otc.solutions{
+    align-items: center;
+}
+.ncx-otc.solutions h1 {
+    font-size: 33px;
+    font-family: 'urbanist-regular';
+    color: #000;
+    padding-left: 10px;
+    border-left: 1px solid #000000;
+}
+@media screen and (max-width: 800px) {
+    .liquidity-row .otctxt {
+        min-height: 220px;
+    }
+    .otc-image img {
+        height: 26px;
+        width: auto;
+    }
+    .liquidity-row .otc-line {
+        height: 255px !important;
+    }
+    .access_defi .otctxt {
+        min-height: 270px;
+    }
+    .access_defi .otc-line {
+        height: 305px !important;
+    }
+    .structured_product .otctxt {
+        min-height: 220px;
+    }
+    .structured_product .otc-line {
+        height: 255px !important;
+    }
+    .ncx-otc.solutions svg {
+        width: 105px;
+        height: auto;
+    }
+    .ncx-otc.solutions h1{
+        font-size: 26px;
+        line-height: 32px;
+        margin-left: 0px !important;
+        font-family: 'urbanist-regular' !important;
+    }
 }

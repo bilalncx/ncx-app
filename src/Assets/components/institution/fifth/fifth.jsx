@@ -1,8 +1,8 @@
 import { React, useState } from 'react'
 import './fifth.css'
-import '../../homepage/accordian/accordian.css';
-import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
+// import '../../homepage/accordian/accordian.css';
 import { useTranslation } from "react-i18next";
+import {ReactComponent as NCXNewLogo } from '../../../images/about_logo.svg';
 
 function Accordian()
 {
@@ -10,20 +10,13 @@ function Accordian()
 
     return(
         <div id="exclusive_rates">
-            <div className="backgrdound-video">
-                <video
-                    autoPlay={true}
-                    muted={true}
-                    loop={true}
-                    playsInline={true}
-                    preload="auto"
-                    poster="https://ncx.cx/images/ncx_line_poster.png"
-                    >
-                    <source src={BackVideo} type="video/mp4" />
-                </video>
-            </div>
             <div className="container">
-                <h1 className='exclusive'>{t("exclusive_rates")}</h1>
+                <div className="otclogo row">
+                    <div className="ncx-otc solutions">
+                        <NCXNewLogo />
+                        <h1>{t("exclusive_rates")}</h1>
+                    </div>
+                </div>
                 <div className="exclusive_rates">
                     <div className="col">
                         <h3>{t("spot_fee_rate")}</h3>
@@ -51,7 +44,7 @@ function Accordian()
                             </div>
                         </div>
                     </div>
-                    <div className="col">
+                    <div className="col third">
                         <h3>{t("withdrawals")}</h3>
                         <div className="rates_div">
                             <div className="marker_lowest">
