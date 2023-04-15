@@ -29,6 +29,324 @@ const blogListdata = [
     </div>
   },
   {
+    id: 379,
+    title: 'Global Bond Markets Fear Billions Will Vanish If Japans Titans Race for Exit',
+    category: 'Markets',
+    subCategory: ['Global Bond', 'Market', 'Titans'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Investors worried about the Bank of Japan’s threat to global markets have a chance to hear from those on the front lines in coming weeks.</p>
+    </div>,
+    authorName: 'Yumi Teso, Masaki Kondo and Olivia Raimonde',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 1:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-390.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Investors worried about the Bank of Japan’s threat to global markets have a chance to hear from those on the front lines in coming weeks.</p>
+    	<p>Japan’s life insurers, with combined assets of $2.9 trillion, will lay out their investment strategies for the fiscal year which began this month. A key constituent of the country’s investor base, their plans for foreign and domestic markets this year will help shine a light on how Japanese funds are positioning for a potential BOJ policy tweak.</p>	
+    	<p>For months now, investors have bet that the central bank will start to normalize its ultra-easy monetary policy and change its yield-curve control program as inflation accelerates. That’s led to higher Japanese bond yields, making them more attractive to insurers who face expensive hedging costs and losses on foreign securities.</p>	
+    	<p>Insurers sold a record ¥14.2 trillion ($107 billion) of foreign bonds in the previous fiscal year while buying ¥4.99 trillion of local equivalents in the first 11 months, according to the latest data. That made up a big part of Japan’s record foreign bond outflows in 2022, which sent a chill through holders of everything from US government bonds to Brazilian debt, where the country’s funds are big investors.</p>
+      <p>A $3 Trillion Threat to Global Financial Markets Looms in Japan</p>
+      <p>Market watchers are bracing for volatility, should Japanese investors increase their sales of foreign securities and bring some of that cash home. Dai-ichi Life Holdings Inc., a life insurer with one of Japan’s largest institutional portfolios, said last month that it’s shifting more money to domestic bonds from US Treasuries and other foreign securities.</p>
+      <p>Some strategists expect the insurers to stay focused on domestic bonds, particularly longer-dated ones, with hedging costs for foreign investment still at elevated levels. Others see the potential for the overseas outflows to reverse, with the Federal Reserve expected to moderate the pace of its rate hikes and new BOJ governor Kazuo Ueda seen eventually tweaking policy.</p>
+      <p>Mizuho Securities Co. Chief Desk Strategist Shoki Omori expects life insurers to stay focused on domestic debt partly because they need to hold an additional ¥35 trillion of long-maturity Japanese government bonds to meet asset-liability management requirements by April 2025, when a new solvency regime will be implemented. In addition, controlling currency risk is too expensive now.</p>
+      <p>“They will continue to be cautious on overseas bonds as they see high grade bonds including sovereigns such as Treasuries being too rich on both a hedged and unhedged basis,” Tokyo-based Omori said. “Hedging costs are too high at around 5% and the dollar-yen is too high to go outright at current levels.”</p>
+      <p>While Ueda has said he doesn’t plan any immediate changes to policy, global credit investors should be particularly nervous, according to Citigroup Inc. Strategists Daniel Sorid and James Keefe see Japanese outflows spreading from Treasuries and agency bond markets, if the BOJ adjusts its curve control policy and local yields rise.</p>
+      <p>“The next wave of foreign bond reductions by Japanese life insurers could more squarely hit corporate bond demand,” they said.</p>
+      <p>Higher yields in Japan would favor the local corporate bond market, according to Tomoaki Shintani, chief fund manager of the credit research department at Fukoku Capital Management Inc.</p>
+      <p>“If domestic yields start rising, it makes sense to allocate money to domestic credit to some extent while reducing risks in foreign bonds,” he said.</p>
+      <p>Japan’s Dai-ichi Life Turns $260 Billion Portfolio to JGBs</p>
+      <p>Still, others see it differently. Investor focus has shifted to when the Fed will pause or even roll back its rate hikes if the US economy slows, adding to the allure of havens like Treasuries, especially with Japan’s yields so low on an absolute basis. The US 10-year note yields around 3 percentage points more than its Japanese counterpart.</p>
+      <p>“Should I be a fund manager at a life insurance company, there probably is no choice but to pour funds into foreign debt,” said Jun Kato, chief market analyst at Shinkin Asset Management Co. in Tokyo. “Japanese yields will eventually rise, making it hard to buy them now.”</p>
+      <p>For Ayako Sera, market strategist at Sumitomo Mitsui Trust Bank Ltd., the shift in investor sentiment also suggests equities won’t find favor with the insurers.</p>
+      <p>“As the global economy is showing signs of a slowdown, they are unlikely to aggressively add to stock holdings,” she said.</p>
+      <p>Sera suggests the level of the yen, which has slipped about 1% this year to around 132.50 per dollar, and yields on Japan’s longer-dated bonds will be key determinants of where the lifers invest their cash. The Japanese 30-year yield was around 1.3% on Friday, up from about 0.9% a year ago.</p>
+      <p>“It’s hard to aggressively construct hedged foreign-bond positions and so, they may buy foreign bonds when the yen strengthens to 120s,” she said. “Super-long JGBs where yields have gone up compared with last year seem to be attractive for them as well.”</p>
+      <p>--With assistance from Ayai Tomisawa, Masahiro Hidaka and Hideyuki Sano.</p>
+    </div>
+  },
+  {
+    id: 382,
+    title: 'Oil Posts Fourth Weekly Gain as IEA Sees Higher Price Threat',
+    category: 'Commodities',
+    subCategory: ['Oil', 'IEA', 'Price'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil rose for the fourth straight week, supported by signs of a tightening global market that have the International Energy Agency warning of higher prices ahead.</p>
+    </div>,
+    authorName: 'Julia Fanzeres',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 11:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-394.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil rose for the fourth straight week, supported by signs of a tightening global market that have the International Energy Agency warning of higher prices ahead.</p>
+    	<p>West Texas Intermediate settled above $82 a barrel, posting its longest run of weekly advances since June. Crude is hovering near five-month highs after OPEC+ surprised the market with plans to cut more than 1 million barrels of daily output. Declining US stockpiles, weaker flows from Russia and interruptions to pipeline supplies from Iraqi Kurdistan have added to the gains.</p>	
+    	<p>Markets are digesting a week of mixed projections for crude supply and demand. The latest OPEC+ cuts threaten to boost oil prices for consumers already facing high inflation, the IEA said in its monthly outlook on Friday. The cartel had forecast a day earlier that markets would be deeply undersupplied. In contrast, the US Energy Information Administration projected supplies surpassing demand both in 2023 and 2024.</p>	
+    	<p>Demand from the world’s largest crude importer is supporting prices as well. Recent data show that China imported the most oil in three years last month, underpinned by record Russian flows. On Friday, People’s Bank of China Governor Yi Gang said the nation’s economy is expected to grow about 5% this year.</p>
+      <p>Key technical measures are signaling a tighter market, too. WTI’s prompt spread — the difference between its two nearest contracts — was at 9 cents a barrel in backwardation. The bullish pattern is a stark reversal from when it was trading 16 cents in contango a month ago.</p>
+    </div>
+  },
+  {
+    id: 376,
+    title: 'Stocks slip as rate worries overshadow big bank profits',
+    category: 'Markets',
+    subCategory: ['Stocks', 'Worries', 'Profits'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (AP) — Stocks on Wall Street dipped Friday as worries about interest rates overshadowed an encouraging start to earnings reporting season for big U.S. companies.</p>
+    </div>,
+    authorName: 'STAN CHOE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 9:34 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-387.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>NEW YORK (AP) — Stocks on Wall Street dipped Friday as worries about interest rates overshadowed an encouraging start to earnings reporting season for big U.S. companies.</p>
+    	<p>The S&P 500 fell 8.58 points, or 0.2%, to 4,137.64 after giving up an early gain. The Dow Jones Industrial Average lost 143.22, or 0.4%, to 33,886.47, while the Nasdaq composite sank 42.81, or 0.4%, to 12,123.47.</p>	
+    	<p>The S&P 500 still squeezed out a fourth winning week in the last five, built in part on hopes the Federal Reserve may soon end its barrage of rate hikes as inflation cools. High interest rates can stifle inflation but only by slowing the economy, raising the risk of a recession and dragging on prices for investments.</p>	
+    	<p>A top Fed official dampened those hopes Friday after saying inflation remains far too high and more tightening may be needed. Christopher Waller, a member of the Fed’s governing board, also said that even after hikes to rates end, they will likely need to stay high for longer than markets expect.</p>
+      <p>After his comments, traders built bets that the Fed will raise rates at its next meeting in May, instead of taking its first pause in more than a year. Some also began betting the Fed may hike rates again in June, according to data from CME Group.</p>
+      <p>High-growth stocks tend to be among the most hurt by high rates, and Big Tech stocks were among the heaviest weights on the S&P 500. Microsoft fell 1.3%.</p>
+      <p>Swaths of the economy have already begun slowing under the weight of higher interest rates, raising worries that a recession may be likely. A report on Friday showed U.S. shoppers cut their spending at retailers by more last month than expected. Much of that was due to falling gasoline prices, and the drop for what economists call “core retail sales” wasn't as bad as forecast.</p>
+      <p>“The Fed’s challenge has been to cool inflation without putting the economy into a deep freeze in the process,” said Mike Loewengart, head of model portfolio construction at Morgan Stanley Global Investment Office. “The dynamic is still playing out in the markets, and we could see more choppy price action as a result.”</p>
+      <p>Potentially making things more difficult for the Fed was another report Friday that said U.S. households are girding for higher inflation. Consumers are expecting inflation over the next year of 4.6%, up from expectations for 3.6% a month earlier, according to a preliminary survey by the University of Michigan.</p>
+      <p>That could be troublesome, as the Fed has long feared entrenched expectations of high inflation could lead to a vicious cycle that keeps it high. Longer-term expectations for inflation, though, remain stable and clocked in at 2.9% for a fifth straight month, according to the survey.</p>
+      <p>All the worries helped push Treasury yields higher. The 10-year Treasury yield rose to 3.51% from 3.45% late Thursday. It helps set rates for mortgages and other important loans.</p>
+      <p>The two-year Treasury yield moves more on expectations for the Fed, and its gain was sharper, up to 4.10% from 3.97%.</p>
+      <p>Helping to offset some of the worries about rates were big gains by several of the nation's biggest banks. They reported profits for the first three months of the year that blew past expectations.</p>
+      <p>They helped kick off the reporting season for big U.S. companies, where expectations are mostly dismal. Despite such worries, JPMorgan Chase jumped 7.6% after its profit surged by more than half from a year earlier.</p>
+      <p>It benefited from the strains unearthed in the banking system last month that shook global markets. Those worries pushed some customers to pull cash from smaller banks and move it to bigger ones.</p>
+      <p>Citigroup rose 4.8% after it also reported stronger profit than expected. BlackRock, the world’s largest asset manager, rose 3.1% after its earnings likewise topped forecasts.</p>
+      <p>Boeing was one of the heaviest weights on the S&P 500. Its stock slid 5.6% after the aircraft maker said Thursday that production and delivery of a “significant number” of its 737 Max planes could be delayed because of questions about a supplier’s work on the fuselages.</p>
+      <p>Boeing said the supplier, Spirit AeroSystems, used a “non-standard manufacturing process” during installation of fittings near the rear of some 737s. Boeing said the situation is not an immediate safety issue and planes already flying “can continue operating safely.”</p>
+    </div>
+  },
+  {
+    id: 377,
+    title: 'Morgan Stanleys US stock chief sees more than 20% downside coming for the S&P 500 and warns of an earnings recession on banking sector turmoil',
+    category: 'Markets',
+    subCategory: ['Morgon', 'US', 'recession'],
+    description: <div className="blog-desc">
+      <p>Morgan Stanley forecasts a downturn coming for US stocks, with the S&P 500 dropping over 20% later this year amid a looming earnings recession and fallout in the banking sector.</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 8:31 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-388.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Morgan Stanley's Mike Wilson backed his forecast for an earnings recession amid banking sector concerns.</li>
+        <li>The equity strategist sees the S&P 500 falling more than 20% before parring losses by year-end.</li>
+        <li>JPMorgan, Citigroup, and Wells Fargo are kicking off earnings on Friday.</li>
+      </ul>
+	    <p>Morgan Stanley forecasts a downturn coming for US stocks, with the S&P 500 dropping over 20% later this year amid a looming earnings recession and fallout in the banking sector.</p>
+	    <p>Mike Wilson, the Wall Street giant's US chief equity strategist, reiterated his base-case scenario for the S&P 500 to end the year at 3,900, about 6% below current levels. His bear case is 3,600, and his bull case is 4,200.</p>	
+	    <p>But along the way, he still expects the gauge to hit a trough of 3,000-3,300 for this cycle, representing a decline of more than 20%.</p>	
+	    <p>"That path to 3,900 still goes through the low 3,000s ultimately," Wilson told Bloomberg TV on Thursday.</p>
+      <p>Despite the Federal Reserve's aggressive monetary tightening campaign, US stocks have remained fairly resilient. The S&P 500 is up 8% year-to-date, while the Nasdaq Composite has surged 17% in the same time frame.</p>
+      <p>The slew of bank failures in March and subsequent contagion fears, however, don't bode well for corporate earnings.</p>
+      <p>"We're in the earnings recession camp. So whether we have an economic recession or not it isn't as important as the earnings recession," Wilson said. "The earnings situation is way worse than what the consensus thinks... The banking stress only makes us even more confident of that."</p>
+      <p>JPMorgan, Citigroup, and Wells Fargo are kicking off earnings season on Friday. Analysts at Goldman Sachs expect US corporate profits to post their biggest decline since the beginning of the COVID-19 pandemic in 2020.</p>
+    </div>
+  },
+  {
+    id: 378,
+    title: 'Dow Jones Ends On High Note; Buffett Makes Big Bet Ahead Of Bank Earnings',
+    category: 'Markets',
+    subCategory: ['Dow jones', 'Buffett', 'Bet'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average rose throughout Thursday's session, ending 1.1% higher. Apple (AAPL) rallied 3.4%, breaking a three-day losing streak.</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 7:20 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-389.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average rose throughout Thursday's session, ending 1.1% higher. Apple (AAPL) rallied 3.4%, breaking a three-day losing streak.</p>
+    	<p>Dow Jones components Nike (NKE), Salesforce (CRM) and Microsoft (MSFT) also gained.</p>	
+    	<p>Solar stocks Enphase (ENPH) and SolarEdge (SEDG) rose in the S&P 500 index, which closed with a 1.3% advance.</p>	
+    	<p>E-commerce plays drove the Nasdaq's upside. Amazon (AMZN) mounted the 50-day line while IBD Leaderboard stock MercadoLibre (MELI) also gained. The tech index led the upside, adding 1.9%. Tesla (TSLA) rose to test its 50-day line.</p>
+      <p>NYSE volume was lighter than closing time on Wednesday, while Nasdaq volume ended higher.</p>
+      <p>Crude oil fell over 1% to $82.32 per barrel. The yield on the benchmark 10-year Treasury note rose 3 basis points to 3.45%.</p>
+      <p>Small-cap Russell 2000 rose 1.3% while the Innovator IBD50 (FFTY) gained 1.8%.</p>
+      <p>Warren Buffett's Berkshire Hathaway (BRKB) has sold certain bank stocks, according to reports.</p>
+      <p>The Oracle of Omaha summed up the recent bank run as one of mismanagement of assets and liabilities. He called it a temptation that banks frequently face, which "every now and then bites them in a big way".</p>
+      <p>BRKB held several bank stocks, as per the latest 13F filing, including a blockbuster position in Bank of America (BAC), but may have sold large stakes in banks since the banking crisis began. In an interview, the value investor also is said to have made a strong bet that bank deposits will stay safe. Bank shareholders, not depositors may feel the brunt of the recent banking crisis as earnings unfold.</p>
+      <p>Bitcoin traded near 10-month highs, changing hands for $30,365.</p>
+      <p>Shares of Apple rose. The iPhone maker plans on using recycled cobalt in all its batteries. Earlier, shares fell partly on news that too many glitches will prevent the new iPhone 15 design from featuring a haptic 3D touch feature for the premium version.</p>
+      <h3>Stocks Moving Today Outside Dow Jones</h3>
+      <p>Yum Brands (YUM) broke out of a flat base with a 133.87 entry.</p>
+      <p>Southern Copper (SCCO) broke out of a double-bottom base with a 78.75 entry, according to IBD MarketSmith chart analysis. Argentine electricity stock Pampa Energia (PAM) broke out of consolidation at 36.97.</p>
+      <p>Interpublic Group (IPG)broke out of a cup with handle and 38.06 entry.</p>
+      <p>Airlines stocks are having a tough week.</p>
+      <p>Delta Air Lines (DAL) posted mixed results, missing Q1 estimates though it raised its sales outlook for the year as it heads into the summer travel season. Shares lost the 200-day line in huge volume.</p>
+      <p>American Airlines (AAL) is largely flat after steep losses from Wednesday, while United Airlines (UAL) is testing its 200-day line. UAL earnings are due next week.</p>
+      <h3>Stocks On Watch</h3>
+      <p>Freeport McMoRan (FCX) is approaching a buy point of 43.98 in a double-bottom base.</p>
+      <p>Netflix (NFLX) is nearing a buy point of 349.90 in a cup with handle. The stock posted big gains Thursday.</p>
+      <p>Enterprise software stocks are also on watch. DocuSign (DOCU) and Atlassian (TEAM) are consolidating ahead of earnings.</p>
+      <p>Bank stocks are up next, with Dow Jones leader JP Morgan Chase (JPM), Citigroup (C) and Wells Fargo (WFC) reporting on Friday.</p>
+      <p>Weekly jobless claims rose to 239,000 vs. views of 236,000. The four-week average for initial claims rose to 240,000, the highest since November 2021. Producer prices fell 1% in March after a 0.3% fall in February. Services fell by 0.3%, the largest decline since a 0.5% downturn in April 2020.</p>
+    </div>
+  },
+  {
+    id: 362,
+    title: 'Bitcoin heads higher, Ether breaches US$2,000, U.S. equities rally on weak inflation readings',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Equities', 'US'],
+    description: <div className="blog-desc">
+      <p>Bitcoin moved higher in the US$30,000 band in Friday morning trading in Asia amid strong gains among the top 10 non-stablecoin cryptocurrencies. Ethereum led the winners following the blockchain’s Shanghai hard fork this week, jumping almost 10% and breaching the US$2,000 mark for the first time since August 2022. U.S. equities rallied overnight on softer readings in the U.S. producer price index (PPI) and jobless claims, adding to optimism the Federal Reserve could soon end its year-long cycle of raising interest rates to curb inflation.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 7:08 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-373.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin moved higher in the US$30,000 band in Friday morning trading in Asia amid strong gains among the top 10 non-stablecoin cryptocurrencies. Ethereum led the winners following the blockchain’s Shanghai hard fork this week, jumping almost 10% and breaching the US$2,000 mark for the first time since August 2022. U.S. equities rallied overnight on softer readings in the U.S. producer price index (PPI) and jobless claims, adding to optimism the Federal Reserve could soon end its year-long cycle of raising interest rates to curb inflation.</p>
+    	<p><strong>Fast facts</strong></p>	
+    	<ul>
+        <li>Bitcoin rose 2.54% to US$30,769 in the 24 hours to 09:00 a.m. in Hong Kong to post a weekly gain of 9.47%, according to CoinMarketCap data. The leading cryptocurrency has gained 83% so far this year as it seemed to rediscover a role as a hedge against inflation and recession and looks set to test US$31,000 as it moved within a couple of hundred dollars of that ceiling in later morning trading in Asia.</li>
+        <li>Bitcoin also found support after the London Stock Exchange Group plc. on Thursday said it had partnered with GFO-X – the UK’s first regulated and centrally cleared trading venue for digital asset derivatives – to provide the country’s first trading and clearing services for Bitcoin index derivatives, according to Reuters on Friday.</li>
+        <li>Ethereum jumped 9.97% to US$2,100, adding 11.66% for the week after the network’s Shanghai upgrade, which allows investors to withdraw their staked Ether for the first time. Etheruem holders have so far withdrawn around 215,000 staked Ether, while another 961,000 withdrawals are pending, according to data from Token Unlocks, which accounts for about 6% of the total staked Ether.</li>
+        <li>Earlier speculation that the Shanghai upgrade may lead to a flood of selling and depress the price of the token isn’t panning out, Chen Zhuling, co-founder and CEO of crypto staking platform RockX, said in an interview on Thursday. Even if Ether are unstaked, it doesn’t necessarily mean that people are going to sell them, because they could also use it for other DeFi investments, he said.</li>
+        <li>Dogecoin jumped 6.25% to US$0.0885 to hold a weekly gain of 2.79%, after multi asset trading platform eToro announced on Thursday a partnership with Elon Musk’s Twitter to enable cryptocurrency and stock trading on the world’s leading social media platform.</li>
+        <li>Cardano rose 4.54% to US$0.4264, moving up 11.00% for the week. Cardano Foundation launched the alpha phase of Aiken on Thursday, an open-source smart contract language and toolchain that aims to simplify smart contract developments on the Cardano blockchain, according to the company.</li>
+        <li>The total crypto market capitalization rose 3.85% in the past 24 hours to US$1.28 trillion. The total trading volume over the last 24 hours edged down 0.05% to US$48.58 billion.</li>
+        <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index added 0.82% to 4,017.62 in the 24 hours to 09:00 a.m. in Hong Kong, moving up 0.32% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by  CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</li>
+        <li>U.S. equities closed higher on Thursday after economic data pointed to a slowdown in inflation. The Dow Jones Industrial Average added 1.14%, the S&P 500 moved up 1.33%, and the Nasdaq Composite Index rose 1.99%.</li>
+        <li>U.S. PPI in March rose but at a 2.7% pace, or lower than the expected 3% to mark the smallest increase since January 2021, according to Reuters on Thursday. U.S. weekly jobless claims also pointed to a slowing economy with the figure of 239,000, higher than analysts’ expectation of 235,000, according to a Bloomberg report.</li>
+        <li>Investor sentiment also got a lift from an unexpected surge in China exports in March, which jumped 14.8% from last year, well beyond the expectation of a 7% decrease, according to Reuters.</li>
+        <li>U.S. interest rates are currently between 4.75% to 5%, the highest since June 2006, and analysts at the CME Group now see a 33.5% chance the Fed will not raise interest rates at its next meeting on May 3, while 66.5% predict a 25-basis-point rate hike, down from 70.4% on Thursday.</li>
+        <li>U.S. stock futures traded mixed as of 9:00 a.m. in Hong Kong. The Dow Jones Industrial Average dipped 0.09%. The S&P 500 futures gained 0.05%. The Nasdaq Composite Index inched 0.02% higher.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 384,
+    title: 'Oil markets could see a supply shock of 2 million barrels a day this year as OPEC and Russia slash production',
+    category: 'Commodities',
+    subCategory: ['Oil', 'market', 'Russia'],
+    description: <div className="blog-desc">
+      <p>Global oil markets will see a sizable supply deficit this year, as the production cutbacks of major exporters begin to kick in.</p>
+    </div>,
+    authorName: 'Filip De Mott',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 5:21 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-396.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Global oil markets could see a supply deficit of 2 million barrels a day in the fourth quarter.</li>
+        <li>That's after OPEC and Russia announced steep cuts to crude production.</li>
+        <li>Meanwhile, oil demand is expected to hit a fresh record high later this year.</li>
+      </ul>
+    	<p>Global oil markets will see a sizable supply deficit this year, as the production cutbacks of major exporters begin to kick in.</p>
+    	<p>The world will be short by about 2 million barrels a day in the fourth quarter, more than reversing an expected surplus of 300,000 barrels a day in the second quarter, according to OPEC data cited by Bloomberg.</p>	
+    	<p>That's after OPEC and non-member partner Russia announced steep cuts to their production. On April 2, OPEC lowered its planned output by 1 million barrels a day, citing protection against price shocks after March's bank turmoil caused a brief drop in the oil prices.</p>	
+    	<p>Soon after the OPEC news, Russia also announced that it would extend its own cutback of 500,000 barrels a day through the end of the year.</p>
+      <p>Actual reductions in oil output may not end up being as steep as the announced cuts to production quotas, given that some members of the coalition are already producing below target levels.</p>
+      <p>Still, prospects for tighter oil supplies come as demand will continue to ramp up, putting more upward pressure on crude prices, which have jumped 20% over the last month.</p>
+      <p>OPEC forecasts that oil consumption will climb by 2.3 million barrels a day this year to hit a new record 101.89 million a day.</p>
+    </div>
+  },
+  {
+    id: 363,
+    title: 'Ether’s Post-Shanghai Rally Knocks Bitcoin Dominance From 21-Month High',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Dominance', 'Shanghai'],
+    description: <div className="blog-desc">
+      <p>Ether’s (ETH) fresh rally above $2,000 after the successful Shanghai upgrade late Wednesday dropped bitcoin’s (BTC) dominance from an almost two-year record high, according to TradingView data.</p>
+    </div>,
+    authorName: 'Krisztian Sandor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 3:16 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-374.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ether’s (ETH) fresh rally above $2,000 after the successful Shanghai upgrade late Wednesday dropped bitcoin’s (BTC) dominance from an almost two-year record high, according to TradingView data.</p>
+    	<p>BTC’s dominance rate rose to as high as 49.06% early Wednesday, according to TradingView data, before retreating to 48.12% as ETH’s price rose. The last time the metric was around the 49% level happened in July 2021, some 21 months ago, TradingView shows.</p>	
+    	<p>ETH dominance, on the other hand, surged to 19.87% on Thursday, marking a one-month high.</p>	
+    	<p>The BTC dominance rate is the BTC market capitalization’s share of the total market cap of the cryptocurrency market. The metric is important to assess the relative strength of BTC, the largest cryptocurrency by market value, compared to the broader crypto market, or identify periods when altcoins outperform, also known as an altcoin season. Ether dominance similarly shows the second largest cryptocurrency’s relative value to the crypto market.</p>
+      <p>Ether’s improved performance has reduced bitcoin’s share of the crypto market. The shift has come after the Ethereum network’s long-awaited tech upgrade, called Shanghai or Shapella, was deployed without a hitch late Wednesday.</p>
+      <p>The upgrade enabled the withdrawal of more than 17.4 million of staked tokens, worth some $35 billion, from Ethereum’s proof-of-stake blockchain for the first time since its launch in December 2020. Its successful deployment eliminated a slight but concerning f risk that ETH investors might not be able to reclaim their tokens locked up in staking contracts..</p>
+      <p>ETH rose as high as $2,023 on Thursday, gaining 5% in the past 24 hours, according to CoinDesk data, leading the upswing of the broader crypto prices.</p>
+      <p>BTC, which also reacted positively to the upgrade, is only up 1.5% through the day, lagging behind altcoins.</p>
+    </div>
+  },
+  {
+    id: 380,
+    title: 'Hedge funds bought financial stocks amid banking turmoil, says S&P',
+    category: 'Markets',
+    subCategory: ['Hedge', 'Financial', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>Citigroup has avoided the headwinds that hurt smaller lenders. Shares are up 4% this year compared with a nearly 20% decline in the KBW Nasdaq Bank Index.</p>
+    </div>,
+    authorName: 'Carolina Mandl',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 1:37 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-393.jpg',
+    content: <div className="blog-content">
+    	<h3>By Carolina Mandl</h3>
+    	<p>NEW YORK (Reuters) - Hedge funds increased their exposure to stocks in the financial sector amid the banking turmoil in March, as they saw a buying opportunity at lower prices, S&P Global Market Intelligence said in a note on Thursday.</p>
+    	<p>"Hedge funds used the bank stress as an early buying opportunity, dismissing speculation that a significant crisis was at play," S&P said, adding the firms boosted their exposure to financials by 5.5%, after having reduced it by 3.9% in February. Retail investors also increased their bets by 1%.</p>	
+    	<p>Hedge funds raised their exposure to financials more than any other sector, according to S&P, which tracks assets listed in the U.S.. Hedge funds added $13.5 billion in stocks in all sectors in March.</p>	
+    	<p>Hedge funds' positioning in the banking sector came in a month when U.S. banks Silicon Valley Bank and Signature Bank failed, followed by Credit Suisse's rescue.</p>
+      <p>"The group saw an opportunity to pick up banking names at a significant decline and, in order to do so, sold down holdings in the better-performing materials and energy sectors," Christopher Blake, executive director of S&P Global Issuer Solutions wrote.</p>
+      <p>Citadel, one of the world's most profitable hedge funds, said in March in a regulatory filing it bought a 5.3% stake in Western Alliance Bancorporation, which was seen as a sign of confidence in the battered sector.</p>
+      <p>Traditional asset managers, another group of investors tracked by S&P, cut their positioning in financials by 1.1% and also slashed $20.2 billion in equities stakes across other sectors.</p>
+      <p>Overall, the financials sector has not recovered from the losses. The KBW Bank Index and the S&P 500 Banks Index are down 18.6% and 12.9% year to date, respectively, and both are roughly flat in April.</p>
+      <p>(Reporting by Carolina Mandl in New York; Editing by Sonali Paul)</p>
+    </div>
+  },
+  {
+    id: 381,
+    title: 'IMF calls risks from bank crisis contained, urges central banks focus on inflation',
+    category: 'Markets',
+    subCategory: ['IMF', 'Bank Crisis', 'Inflation'],
+    description: <div className="blog-desc">
+      <p>The IMF says banking issues appear contained for now and that inflation is the bigger risk and top concern for central bankers and attendees of the IMF/World Bank spring meetings this week in Washington.</p>
+    </div>,
+    authorName: 'Jennifer Schonberger',
+    authorurl: 'https://www.yahoo.com/author/jennifer-schonberger',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 12:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-392.jpg',
+    content: <div className="blog-content">
+    	<p>The IMF says banking issues appear contained for now and that inflation is the bigger risk and top concern for central bankers and attendees of the IMF/World Bank spring meetings this week in Washington.</p>
+    	<p>“Financial stability risks have been contained so far and hopefully that will remain the case,” Tobias Adrian, director of the monetary and capital markets department of the IMF, told Yahoo Finance in an interview. “As a result, monetary policy can focus on fighting inflation and that's a desirable outcome.”</p>	
+    	<p>Stress in financial markets has complicated the task of central banks at a time when inflationary pressures are proving to be more persistent than anticipated. Adrian says inflation remains well above target both in the Euro area and in the US right now, noting that the US consumer price index excluding volatile food and energy prices actually went up.</p>	
+    	<p>Adrian’s advice for central banks: “…stay the course in terms of tightening until there is significant progress of getting inflation back to target.”</p>
+      <p>He added, “There's certainly upside risk to the path of interest rates and there's upside risk to inflation. It remains a precarious situation.”</p>
+      <p>The second biggest topic central bankers and meeting attendees are buzzing about this week is stress in the financial system, following the failures of Silicon Valley and Signature Banks in the US and Credit Suisse in Switzerland. Adrian says overall financial stability is being tested for first time since the 2008 global financial crisis as monetary policy tightens and that after many years of low interest rates vulnerabilities have been building.</p>
+      <p>“I think that systemic risk has been contained to date and I'm confident in the crisis management toolkit that we have,” says Adrian, referring to backstops the Federal Reserve and FDIC employed to stop contagion from Silicon Valley Bank’s failure. “But I would not be surprised if there were other episodes of turmoil both in banks and nonbank financial intermediaries.”</p>
+      <p>The IMF warned in its Financial Stability report released Tuesday that the risks of tighter monetary and financial conditions could be amplified because of financial leverage, mismatches in asset and liability liquidity, and a high degree of interconnectedness between the nonbank financial intermediation sector and traditional banking institutions.</p>
+      <p>It argues this raises the specter of stress in some sectors—such as venture capital, technology, and commercial real estate sectors—that have been particularly hit by the removal of ample liquidity.</p>
+      <p>The IMF estimates any kind of tightening seen in March as a result of bank failures will ultimately shave off about 0.5% of GDP. Adrian says that in some sense makes the job of the central bankers easier because they don't have to tighten as much as a result.</p>
+      <p>The IMF warned Tuesday the risk of a recession has grown for advanced economies in the wake of bank failures in the U.S. and Europe while slightly lowering its outlook for global growth this year. The IMF projects the global economy will expand at 2.8% this year, a hair lower than its January estimate of 2.9%.</p>
+    </div>
+  },
+  {
     id: 356,
     title: 'US STOCKS-Wall St rallies to higher close as inflation data feeds Fed pause hopes',
     category: 'Indices',
@@ -128,6 +446,27 @@ const blogListdata = [
     </div>
   },
   {
+    id: 364,
+    title: 'Bitcoin Hits a 10-Month High. Ether Is Rallying, Too.',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'High', 'Ether'],
+    description: <div className="blog-desc">
+      <p>The Ethereum network successfully completed a critical upgrade late Wednesday, and has so far avoided selling pressure that could have ensued.</p>
+    </div>,
+    authorName: 'Jack Denton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 13, 2023 - 6:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-375.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Ethereum network successfully completed a critical upgrade late Wednesday, and has so far avoided selling pressure that could have ensued.</p>
+    	<p>Bitcoin BTCUSD +0.17%  and other cryptocurrencies were rising Thursday, with Ether—the second-largest digital asset—outperforming after a critical upgrade to the Ethereum blockchain network was completed.</p>	
+    	<p>The price of Bitcoin has risen 1% over the past 24 hours to near $30,250, with the largest digital asset trading around its highest level since last June after breaking through the key $30,000 level late Monday. The $30,000 level is psychologically important because it represents where Bitcoin stood last summer before a string of business failures across the crypto industry turned a selloff into a brutal bear market.</p>	
+    </div>
+  },
+  {
     id: 337,
     title: 'GBP to USD Forecast – British Pound Testing Major Figure Again',
     category: 'Forex',
@@ -217,6 +556,38 @@ const blogListdata = [
     </div>
   },
   {
+    id: 385,
+    title: 'Gold Price Expected to Rise Further as M&A Activity Heats Up',
+    category: 'Commodities',
+    subCategory: ['Gold', 'M&A', 'Price'],
+    description: <div className="blog-desc">
+      <p>After experiencing its strongest run in a decade last year, gold market M&A activity is continuing to ramp up with $40 billion in mergers and acquisitions (M&A) in the sector so far in 2022.</p>
+    </div>,
+    authorName: 'News Direct',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 13, 2023 - 5:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-397.jpg',
+    content: <div className="blog-content">
+      <p>Vancouver, BC --News Direct-- MarketJar</p>
+	    <p>After experiencing its strongest run in a decade last year, gold market M&A activity is continuing to ramp up with $40 billion in mergers and acquisitions (M&A) in the sector so far in 2022.</p>
+	    <p>Newmont Corporation, the world's largest gold miner, recently launched a US$17 billion bid for rival Newcrest Mining last week, creating expectations of more consolidation to come. But Newmont’s latest bid is just one of many major deals hitting the space as producers look to replace depleting supplies at their current operations.</p>	
+	    <p>Agnico Eagle Mines and Pan American Silver Corp just completed the acquisition of Yamana Gold for $4.8 billion. BHP Limited is acquiring Australian gold and copper producer OZ Mining for $6.61 billion, while B2Gold Corp just signed a deal to acquire Sabina Gold & Silver for $800 million.</p>	
+	    <p>If bond yields fall and interest rates rise, the gold price is anticipated to rise as the dollar's purchasing power and consumer quality of living fall. What’s more, prolonged turmoil in global financial markets in 2023 will likely fare well for gold.</p>
+      <p>Although gold M&A deals are taking place across the globe, there seems to be a focus on projects in Canada. In Q3 2022, alone there was a total of $562.8 million worth of M&A deals in Canada including Kinross Gold acquiring Great Bear Resources for $1.44 billion, and Agnico Eagle and Kirkland Lake Gold completed a $10 billion merger to become the third-largest gold producer in the world.</p>
+      <p>The Canadian gold mining industry also gained significant attention last spring, when billionaire gold investor Eric Sprott made his largest investment to date into early-stage exploration company New Found Gold, which he believes could uncover “the greatest gold discovery in the history of Canada.”</p>
+      <p>Another player in Canada’s gold exploration space is Fury Gold Mines (TSX:FURY) (NYSE-A:FURY), a well-funded gold exploration company located in two of Canada's most productive mining regions: Quebec's James Bay Region and Nunavut's Kitikmeot Region.</p>
+      <p>The company’s portfolio includes its flagship Eau Claire project in Quebec's James Bay Region, its wholly-owned Lac Clarkie project next door, and the Éléonore South joint venture project with Newmont Gold, host to a large-scale high-grade untested gold-in-till anomaly with "a tremendous amount of exploration upside."</p>
+      <p><strong>Canadian Gold Miner Is Strategically Positioned in Two Prolific Mining Regions</strong></p>
+      <p><strong>Fury Gold Mines Limited (TSX:FURY) (NYSE-A:FURY)</strong>has been focusing its efforts on its flagship Eau Claire project, which is located near James Bay. Earlier this year, a preliminary economic assessment (PEA) for the project was completed, revealing an M&I Resource of 808,000 ounces (oz) of gold at 6.65 g/t Au and an additional Inferred Resource of 458,000 oz at 7.48 g/t Au.</p>
+      <p>On April 13, Fury announced that it has commenced the 2023 drill program at Eau Claire, which will comprise 10,000-15,000 meters (m) focused on the Gap Zone, Western Hinge, and North Limb targets to build on the success of the 2021 and 2022 drill programs. The company will be focused on the Western Hinge target initially to continue to expand the Eau Claire high-grade gold deposit. Fury plans to commence drilling at the Percival Prospect later in Q2 2023.</p>
+      <p><strong>Fury</strong>'s improved geological interpretation of the Eau Claire resource focused on the fold geometry at the Hinge Target, has resulted in an over 25% increase in the mineralized footprint. The mineralized system is still open in all directions, and intercepts of 5.75 g/t gold over 4m, 21.4 g/t gold over 1m, 5.86 g/t gold over 3.5m and 9.36 g/t gold over 3m have been returned. During 2023, the Hinge Target exploration plans will focus on expanding the mineralization footprint further to the west and updip.</p>
+      <p><strong>Fury Gold Mines Limited (TSX:FURY) (NYSE-A:FURY)</strong>also recently provided an update on the Lac Clarkie project, which is located just east of Eau Claire. As a result of the conclusion of a B-horizon soil sampling study, the Company has defined eight gold anomalies. Six of the targets are located in the Cannard Deformation Zone, which contains numerous gold occurrences throughout its more than 100 km mapped length, including the Eau Claire Deposit and the Percival Prospect. Fury is attempting to prioritize these newly discovered targets for additional examination in 2023, with the objective of advancing a number of them to the drill-ready stage.</p>
+      <p><strong>Fury</strong>is well-funded for planned exploration following a recent private placement for C$8.75 million in cash, C$16.2 million in treasury securities, and 59.5 million Dolly Varden Silver shares.</p>
+    </div>
+  },
+  {
     id: 358,
     title: 'Dow Jones Futures: S&P 500 Slips As Fed Sees Recession; Buffett Concerns Hit These Stocks',
     category: 'Indices',
@@ -297,6 +668,63 @@ const blogListdata = [
     </div>
   },
   {
+    id: 365,
+    title: 'Dogecoin Surges 5.8% as Traders Anticipate Elon Musks Next Move',
+    category: 'Crypto',
+    subCategory: ['Dogecoin', 'Trade', 'Elon Musks'],
+    description: <div className="blog-desc">
+      <p>Dogecoin (DOGE) has risen from Wednesday's low of 8 cents with a 5.89% move to the upside after Twitter struck a deal with eToro to offer crypto trading.</p>
+    </div>,
+    authorName: 'Oliver Knight',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 13, 2023 - 2:39 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-376.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dogecoin (DOGE) has risen from Wednesday's low of 8 cents with a 5.89% move to the upside after Twitter struck a deal with eToro to offer crypto trading.</p>
+	    <p>Twitter CEO Elon Musk has often touted dogecoin as one of his favorite cryptocurrencies, dedicating a segment to it on an appearance on "Saturday Night Live" in 2021. Twitter also briefly changed its logo to the dogecoin logo last week to spur a rally that gained as much as 37% for some traders.</p>	
+	    <p>Before today's rise, the popular meme coin had slumped by 22.64% as the hype surrounding Twitter's logo change subsided.</p>	
+	    <p>It is currently trading at nearly 9 cents after prominent Crypto Twitter trader @TreeofAlpha tweeted a macro thesis for dogecoin.</p>
+      <p>"It is becoming increasingly harder to not accumulate doge at those prices as it fully retraced the logo change, Elon will integrate eToro trading on Twitter, market is looking healthy, 4/20 is coming and the market showed how low it was willing to go on it during the peak of bear ($0.06c)," Tree of Alpha tweeted moments before another spike to the upside.</p>
+      <p>It is worth noting that eToro currently does not offer dogecoin, so in the immediate future only the likes of bitcoin (BTC), ether (ETH), BNB and IOTA will be initially available on Twitter.</p>
+    </div>
+  },
+  {
+    id: 366,
+    title: 'Bitcoin inches up, remains above US$30,000; Ether gains after Shapella upgrade',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Shapella'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether rose during Asian trading hours on Thursday, along with all of the top 10 non-stablecoin cryptocurrencies by market capitalization. Ether rose the most, following the successful completion of the Shapella upgrade, despite initial market concerns over sell pressure caused by the enabling of staking withdrawals. Asian equity markets closed mixed despite Wall Street’s overnight rally, as investors digested cooler-than-expected U.S. inflation data. The U.S. dollar continued its decline, while the euro and gold values strengthened.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 13, 2023 - 2:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-377.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin and Ether rose during Asian trading hours on Thursday, along with all of the top 10 non-stablecoin cryptocurrencies by market capitalization. Ether rose the most, following the successful completion of the Shapella upgrade, despite initial market concerns over sell pressure caused by the enabling of staking withdrawals. Asian equity markets closed mixed despite Wall Street’s overnight rally, as investors digested cooler-than-expected U.S. inflation data. The U.S. dollar continued its decline, while the euro and gold values strengthened.</p>
+    	<h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin rose 0.33% to US$30,100 in the 24 hours to 4:30 p.m. in Hong Kong. The world’s first cryptocurrency strengthened by 7.87% during the week, after the network exceeded 1 million Ordinals inscriptions earlier this week.</li>
+        <li>Ether rose 3.02% as the biggest gainer of the day, to trade at US$1,927 while rising 2.73% during the week. It remained firmly above the US$1,900 mark after the successful completion of the Shanghai upgrade, despite initial market concerns that the enabling of staking withdrawals will create significant sell pressure.</li>
+        <li>Cardano’s ADA, the day’s second-biggest winner, rose 2.3% to US$0.40 and gained 5.11% on the week.</li>
+        <li>The global cryptocurrency market capitalization increased by 0.81% to US$1.23 trillion in the 24 hours to 4:30 p.m. in Hong Kong, while total crypto market trading volume increased by 10.13% to US$45.29 billion.</li>
+        <li>The Forkast 500 NFT index inched up 0.03% to 3,980.79 points during the day and slid 0.53% during the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day.</li>
+        <li>Asian equities were mixed following a 0.41% drop in the S&P 500, despite cooler-than-expected U.S. inflation data, showing that inflation rose 5% on the year in March, but declined from 6% in February, representing the smallest increase since May 2021. Despite persistent inflation, investors are increasingly optimistic that the Federal Reserve’s tightening cycle will end after May’s interest rate hike.</li>
+        <li>Japan’s Nikkei 225 rose 0.26%, the Shanghai Composite fell 0.27%, the Shenzhen Component lost 1.21% and Hong Kong’s Hang Seng index ended the day 0.17% higher.</li>
+        <li>European bourses strengthened to a one-month high on Thursday, as the pan-European STOXX 600 rose 0.23% to 463 points and Germany’s DAX 40 inched up 0.25% to 15,742 points. France’s benchmark CAC 40 rose 0.93% to an all-time high of 7.466 points.</li>
+        <li>Shares of LVMH, the world’s largest luxury brand, rose 4.54% during the day to a new all-time high of €875, after reporting a 17% rise in Q1 sales, doubling analyst expectations.</li>
+        <li>The U.S. dollar fell 0.24% to 101.5, trading close to its lowest levels since early February, while the euro gained 0.33% to stabilize above US$1.10.</li>
+        <li>Gold strengthened 0.67% to US$2,028 per ounce, trading close to a one-year high, as growing fears of a recession continued bolstering demand for the precious metal.</li>
+      </ul>
+    </div>
+  },
+  {
     id: 359,
     title: 'FTSE 100: Tesco profit halves to £1bn amid higher costs',
     category: 'Indices',
@@ -334,6 +762,75 @@ const blogListdata = [
       <p>“What Tesco doesn’t want to be drawn into is a race to the bottom on prices which cuts margins right to the bone for a prolonged period. For now, this is the tricky tightrope the supermarket must walk, while rewarding investors for their patience with steady dividends.”</p>
       <p>Sue Davies, Which? head of food policy, said: “These results show Tesco is doing very well during the cost of living crisis, while millions of its customers struggle to put food on the table due to soaring grocery price inflation. It’s clear that Tesco and all the major supermarkets could be working harder to make food more affordable for customers who need help.</p>
       <p>“While we want to see British businesses do well, Tesco has an important role as the UK’s largest supermarket to lead the way on making affordable ranges of healthy, nutritious food more widely available, especially in those areas most in need. The supermarket should also be making pricing clearer, more transparent and more consistent, particularly on Clubcard offers, so consumers can easily compare prices in-store and with other supermarkets.”</p>
+    </div>
+  },
+  {
+    id: 367,
+    title: 'Bitcoin fluctuates at US$30,000; Ether gains; Litecoin, XRP drop; U.S. equities fall on recession concern',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Litecoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin dipped but held above US$30,000 in Thursday morning trading in Asia that saw mixed performances among the top 10 non-stablecoin cryptocurrencies. Ethereum gained following the blockchain’s network upgrade on Wednesday, seemingly shrugging off concerns the upgrade could bring selling pressure on the Ether token. Solana continued to lead the winners as investors anticipate its first smartphone launch on Thursday. U.S. equities dropped on Wednesday after Federal Reserve minutes from March showed officials projecting a recession in the second half of 2023, while the U.S. consumer price index (CPI) in March indicated cooling but stubborn inflation.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 13, 2023 - 7:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-378.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin dipped but held above US$30,000 in Thursday morning trading in Asia that saw mixed performances among the top 10 non-stablecoin cryptocurrencies. Ethereum gained following the blockchain’s network upgrade on Wednesday, seemingly shrugging off concerns the upgrade could bring selling pressure on the Ether token. Solana continued to lead the winners as investors anticipate its first smartphone launch on Thursday. U.S. equities dropped on Wednesday after Federal Reserve minutes from March showed officials projecting a recession in the second half of 2023, while the U.S. consumer price index (CPI) in March indicated cooling but stubborn inflation.</p>
+    	<h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin dropped 0.76% to US$30,008 in the 24 hours to 09:00 a.m. in Hong Kong, but held a weekly gain of 7.26%, according to CoinMarketCap data. The world’s largest cryptocurrency has jumped over 80% since the start of the year.</li>
+        <li>Bitcoin buyers ignored renewed criticism from U.S. investor Warren Buffet in a CNBC interview on Wednesday, where he called the cryptocurrency a “gambling token” without intrinsic value.</li>
+        <li>Ethereum gained 1.10% to US$1,910, adding 0.79% for the week. The Shanghai upgrade of the Ethereum blockchain activated on Wednesday and allows investors to withdraw their staked Ether for the first time. Some analysts expect the upgrade may trigger a withdrawal of nearly US$2.3 billion worth of Ether, about 6% of the total value of staked Ether, according to a Wednesday Bloomberg report.</li>
+        <li>Litecoin led the losers in the top 10, dropping 2.45% to trade at US$92.23. The token is flat for the seven-day period.</li>
+        <li>XRP fell 2.06% to US$0.5041, but is still up 1.08% for the week. The U.S. Securities and Exchange Commission (SEC) filed a letter on Tuesday to support its case against Ripple Labs, which it has accused of offering unregistered securities in the form of XRP. The letter quoted the SEC’s case against investment adviser Commonwealth Equity Services, which involved violation of securities laws and saw the defendant’s fair notice argument rejected by the court.</li>
+        <li>Solana rose 2.49% to US$24.01, up 15.51% for the week. Solana Mobile, a subsidiary of Solana Labs, will release its first smartphone Saga on Thursday, which integrates the Solana blockchain and allows users to make on-chain transactions, manage digital assets, and access a variety of decentralized apps.</li>
+        <li>The total crypto market capitalization dipped 0.52% in the past 24 hours to US$1.23 trillion. The total trading volume over the last 24 hours rose 13.33% to US$48.60 billion.</li>
+        <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index edged up 0.32% to 3,992.64 in the 24 hours to 09:00 a.m. in Hong Kong, but was still down 0.48% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by  CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</li>
+        <li>U.S. equities closed lower on Wednesday after minutes of the Fed’s meeting in March resurfaced concerns about a recession, while Buffet in the same CNBC interview warned the U.S. banking system could face further stresses after the recent failures of a trio of lenders. The Dow Jones Industrial Average dipped 0.11%, the S&P 500 moved 0.41% lower, and the Nasdaq Composite Index dropped 0.85%.</li>
+        <li>At the meeting on March 21 and 22, the Federal Reserve raised interest rates by 25 basis points and Fed officials projected the U.S. economy could enter a “mild recession” later this year. Several Fed officials considered leaving interest rates unchanged, noting the bank failures, but decided on the rate hike due to “elevated inflation.”</li>
+        <li>U.S. gross domestic product is expected to rise 2.9% in the second quarter of 2023, but to drop by 0.3% in the third quarter and 0.1% in the fourth, according to data from Trading Economics.</li>
+        <li>U.S. CPI released Wednesday rose 5% on year in March, down from 6% in February, and the smallest increase since May 2021. The number was lower than economists’ expectation of 5.2% and pointed to a slowing of inflation, but is still well above the Fed’s target rate of around 2%, Reuters reported on Thursday. Core CPI – excluding food and energy – moved up 5.6% on year, accelerating from February.</li>
+        <li>U.S. interest rates are currently between 4.75% to 5%, the highest since June 2006. Analysts at the CME Group expect a 29.6% chance the Fed will not raise interest rates at its next meeting on May 3, while 70.4% predict a 25-basis-point rate hike, up from 66.9% on Wednesday.</li>
+        <li>U.S. stock futures traded flat to lower as of 9:00 a.m. in Hong Kong. The Dow Jones Industrial Average dropped 0.12%. The S&P 500 futures dipped 0.10%. The Nasdaq Composite Index inched 0.02% lower.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 383,
+    title: 'Oil drops 1% after scaling multi-month highs on OPECs demand warning',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC', 'High'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) -Oil prices fell a dollar a barrel on Thursday, as an OPEC report stoked summer demand worries and traders took profits after benchmarks scaled multi-month highs in the previous session.</p>
+    </div>,
+    authorName: 'Shariq Khan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 13, 2023 - 5:22 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-395.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Shariq Khan</p>
+    	<p>BENGALURU (Reuters) -Oil prices fell a dollar a barrel on Thursday, as an OPEC report stoked summer demand worries and traders took profits after benchmarks scaled multi-month highs in the previous session.</p>	
+    	<p>Brent crude fell $1.24, or 1.4%, to settle at $86.09 a barrel, only the second time this month that the global benchmark has finished lower. The U.S. West Texas Intermediate (WTI) slipped $1.10, or 1.3%, to close at $82.16 a barrel.</p>	
+    	<p>Both benchmarks had gained 2% on Wednesday to their highest in more than a month, as cooling U.S. inflation spurred hopes that the U.S. Federal Reserve will stop raising interest rates.</p>
+      <p>The Organization of the Petroleum Exporting Countries (OPEC) flagged downside risks to summer oil demand in a monthly report on Thursday, highlighting rising inventories and challenges to global growth.</p>
+      <p>The report shed light on the reasons behind a surprise production cut announced by OPEC+, which includes Russia and other OPEC allies, at the start of this month</p>
+      <p>"Generally I would say we saw builds in oil inventories this week in those countries which publish stocks data, so maybe that is what has been a realization that the market hasn't shifted into a deficit," UBS analyst Giovanni Staunovo said.</p>
+      <p>Despite Thursday's declines, the OPEC+ decision has pushed Brent futures up nearly 8% so far this month, and it continues to raise expectations of potential future tightness in the oil markets.</p>
+      <p>Oil price declines were also limited as OPEC kept its forecast for global oil demand growth in 2023 unchanged. Other economic indicators lent further support.</p>
+      <p>The U.S. dollar index fell to a two-month low on Thursday after producer prices unexpectedly declined in March, boosting expectations that the Federal Reserve is near the end of its interest rate hiking cycle.</p>
+      <p>A weaker greenback makes dollar-denominated oil cheaper for investors holding other currencies, lifting demand.</p>
+      <p>"With the dollar at its weakest in a year versus the euro, that formula kicks in with an exclamation mark," said Mizuho analyst Robert Yawger.</p>
+      <p>Signs of a demand recovery in China, the top importer of crude oil and products, provided more support for oil prices, Yawger said.</p>
+      <p>China's crude oil imports in March surged 22.5% from a year earlier to the highest since June 2020, data showed on Thursday.</p>
+      <p>(Reporting by Shariq Khan; Additional reporting by Rowena Edwards, Yuka Obayashi and Jeslyn Lerh; Editing by David Goodman, Will Dunham, Jane Merriman, Mark Heinrich and Mike Harrison)</p>
     </div>
   },
   {
@@ -471,9 +968,33 @@ const blogListdata = [
     </div>
   },
   {
+    id: 368,
+    title: 'Ether-Bitcoin Ratio Likely to See Deeper Decline After Shapella Upgrade: QCP Capital',
+    category: 'Crypto',
+    subCategory: ['Ether', 'Bitcoin', 'Shapella'],
+    description: <div className="blog-desc">
+      <p>Singapore-based crypto options trading giant QCP Capital expects a deeper decline in the ether-bitcoin (ETH/BTC) ratio following the impending Shapella hard fork, dubbed Shanghai upgrade.</p>
+    </div>,
+    authorName: 'Omkar Godbole',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 12, 2023 - 4:28 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-379.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Singapore-based crypto options trading giant QCP Capital expects a deeper decline in the ether-bitcoin (ETH/BTC) ratio following the impending Shapella hard fork, dubbed Shanghai upgrade.</p>
+    	<p>"ETH/BTC has broken through the key support level of 0.658 and can potentially head back to 0.0553, as continued and sustained spot selling pressure in thin markets for days after Shapella leads to further bearish price action on ETH," QCP Capital's market insights team told CoinDesk.</p>	
+    	<p>The ETH/BTC ratio has declined 13.7% this year amid lingering fears that investors will rush to liquidate coins after Shapella opens withdrawals of staked ether.</p>	
+    	<p>According to some analysts, the selling pressure will be distributed over several days, allowing buyers to absorb selling pressure and keep prices steady. QCP, suggests otherwise.</p>
+      <p>"We fail to see what the bullish case can be for this event as those at the front of the queue [in withdrawals] are likely to sell spot, while those further back will be hedging via perps/futures if they have not already done so," QCP noted.</p>
+      <p>Users cannot withdraw the entire stack of over 18 million staked ether immediately after the upgrade. However, just over 1 million ETH earned in staking rewards can be pulled out immediately. Troubled entities like crypto lender Celsius might sell its staked ether balance of 158,176 ETH to recover at least a portion of creditors' funds, according to K33 Research.</p>
+    </div>
+  },
+  {
     id: 343,
     title: 'EUR/USD Forecast – Euro Facing Selling Pressure Just Above',
-    category: 'Forecast',
+    category: 'Forex',
     subCategory: ['EUR', 'USD', 'Forecast'],
     description: <div className="blog-desc">
       <p>The Euro tried to rally a bit during the trading session on Wednesday but continues to see a lot of resistance just above. Keep in mind that the 1.10 level is a major barrier, and of course a large, round, psychologically significant figure. Ultimately, it looks as if there is a lot of noise between the 1.09 level and the 1.10 level, so it makes quite a bit of sense that we would see a bit of hesitation. After all, we are in the midst of forming what could be thought of as a potential “double top”, but that remains to be seen. If we were to break above the recent high, then we could go much higher, perhaps trying to get to the 1.1250 level, followed by the 1.14 level.</p>
@@ -514,6 +1035,40 @@ const blogListdata = [
       <p>The 50-Day EMA sits near the 0.6225 level and is dropping rather significantly. The market currently sees a lot of support near the 0.66 level, an area where we have bounced from. The market continues to see a lot of volatility, and that is going to continue to be the major problem. Ultimately, this is a market that recently had broken down below and uptrend line, so one would have to think there is a little bit of something to that as well, as technical analysis based traders will be paying close attention to it.</p>
       <p>If we can break above there, then it would be a very bullish sign, but ultimately, I think this is a scenario where we are going to see more noise than anything else. Because of this, position sizing will be very crucial, as the volatility could pick up quite drastically. That would be nothing new for this pair, as the Australian dollar does tend to be very noisy in general.</p>
       <p>It’s probably worth noting that the longer-term trend, at least on the monthly chart, is negative. We’ve had a nice bounce recently, followed by a significant fall. At this point, I do think it’s probably only a matter of time before we see a continuation of the downward pressure if all of the global fears of a slowdown come true. Whether or not the market buys it anytime soon remains to be seen, but it’s a story that I think a lot of people are starting to think about, thereby putting negativity in the Aussie.</p>
+    </div>
+  },
+  {
+    id: 369,
+    title: 'Bitcoin slips but remains above US$30,000 ahead of U.S. inflation data',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'US', 'Inflation'],
+    description: <div className="blog-desc">
+      <p>Bitcoin slipped in Wednesday afternoon trade in Asia but remained above the US$30,000 mark. Ether prices sank, along with all top 10 non-stablecoin cryptocurrencies by market capitalization, with Cardano and Dogecoin as the biggest losers. Asian equity markets traded mixed as investors were cautious ahead of U.S. inflation data later on Wednesday that will likely determine interest rate decisions next month.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 12, 2023 - 2:34 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-380.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin slipped in Wednesday afternoon trade in Asia but remained above the US$30,000 mark. Ether prices sank, along with all top 10 non-stablecoin cryptocurrencies by market capitalization, with Cardano and Dogecoin as the biggest losers. Asian equity markets traded mixed as investors were cautious ahead of U.S. inflation data later on Wednesday that will likely determine interest rate decisions next month.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin, the world’s biggest cryptocurrency by market capitalization, dropped 0.4% to US$30,003 in 24 hours to 4 p.m. in Hong Kong, but strengthened 5.16% on the week, according to CoinMarketCap data.</li>
+        <li>Ethereum lost 2.68% to US$1,871, while posting a weekly loss of 2.05%. Ethereum’s decline came ahead of the blockchain’s Shanghai hard fork, also called the Shapella upgrade, scheduled for Thursday morning Hong Kong time which will allow withdrawal of staked Ether for the first time.</li>
+        <li>Cardano’s ADA token was the biggest loser among top 10 cryptos, dropping 3.89% in 24 hours to US$0.395.</li>
+        <li>Dogecoin was the second-biggest loser of the day, falling 3.83% to US$0.08217 and losing 15.16% on the week. The memecoin’s supporter Elon Musk, also Twitter’s chief, tweeted “X” on Tuesday amid speculation on his plans for the social media platform after reports of its merger with a newly formed shell company called X Corp.</li>
+        <li>The global crypto market capitalization sank 1.38% to US$1.22 trillion, while the total crypto market volume declined 15.01% to US$41.29 billion in the last 24 hours.</li>
+        <li>The Forkast 500 NFT index rose 1.2% to 3,985.99 points during the day and fell 1.12% during the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day.</li>
+        <li>Asian equity markets were mixed ahead of U.S. March inflation data due for release later on Wednesday, which is expected to determine interest rates and the direction of the economy. The March Consumer Price Index is expected to slow to 5.2%, the slowest since May 2021 and a decline from 6% annual gain in February.</li>
+        <li>“Investors are increasingly concerned that the Fed’s overtightening now – when monetary policy time lags are notoriously long – could steer the U.S. economy into a recession,” said Nigel Green, chief executive of financial advisory firm deVere Group.</li>
+        <li>The Shanghai Composite rose 0.41% while the Shenzhen Component Index gained 0.05%. Hong Kong’s Hang Seng Index dipped 0.86% and Japan’s Nikkei 225 strengthened 0.57%.</li>
+        <li>European bourses hovered near one-month highs, as the benchmark STOXX 600 rose 0.25%, Germany’s DAX 40 inched up 0.43% and France’s CAC 40 gained 0.36% to an all-time high of 7,418 points, extending gains for a third consecutive day.</li>
+        <li>The U.S. dollar index slid 0.01% to remain above 102, while the euro strengthened 0.1% to US$1.09.</li>
+        <li>Gold mostly traded flat around US$2,009 per ounce, after briefly hitting US$2,021 earlier in the day. The precious metal saw upside momentum for the second consecutive day as investors were cautious ahead of the U.S. inflation report.</li>
+      </ul>
     </div>
   },
   {
@@ -606,6 +1161,38 @@ const blogListdata = [
     </div>
   },
   {
+    id: 372,
+    title: 'Bitcoin crosses $30,000 for first time in 2023',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Rise', '2023'],
+    description: <div className="blog-desc">
+      <p>Bitcoin (BTC-USD) crossed $30,000 Tuesday, reaching the highest level for the world's largest cryptocurrency in 10 months.</p>
+    </div>,
+    authorName: 'David Hollerith',
+    authorurl: 'https://www.yahoo.com/author/david-hollerith',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 11, 2023 - 4:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-383.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin (BTC-USD) crossed $30,000 Tuesday, reaching the highest level for the world's largest cryptocurrency in 10 months.</p>
+    	<p>It briefly touched $30,301 around 2:20 AM ET Tuesday before easing later in the morning. By 8:00 AM ET, bitcoin was changing hands at $30,027, up 6.2% for the last 24 hours. The last time the digital currency was this high was June 6, 2022.</p>	
+    	<p>The bitcoin rally buoyed other crypto assets and companies Tuesday, including the stock of cryptocurrency exchange Coinbase Global (COIN) and the price of the world's second-largest cryptocurrency, Ether (ETH-USD), as well as the stocks of bitcoin mining companies Marathon Digital (MARA) and Riot (RIOT).</p>	
+    	<p>Bitcoin still has a ways to go to reach the heights it scaled during its peak. It still trades 23% below where it stood one year ago.</p>
+      <p>The rapid climb of digital currencies is one of this year's big surprises in markets after a crash in 2022 that cost investors billions as higher interest rates and inflation lowered the value and appeal of risky assets. Several crypto players filed for bankruptcy, including FTX in November. FTX's former CEO Sam Bankman-Fried now faces criminal charges that he stole billions of FTX customer funds and misled investors.</p>
+      <p>"It's a bounce back from the really poor performance we saw in 2022," VettaFi research head Todd Rosenbluth told Yahoo Finance.</p>
+      <p>What gave the market added momentum this year was a banking crisis in March that took down three lenders, including two that specifically served cryptocurrency customers.</p>
+      <p>Since March 10, the day regulators seized Silicon Valley Bank in the second-largest bank failure of U.S. history, bitcoin has climbed $9,500 higher for a more than 30% rise. Ether (ETH-USD) is up more than 29%. According to Coinmarketcap, the total value for all crypto assets is up more than 24% during that period, as of Tuesday at 8:00 a.m. ET.</p>
+      <p>Some investors chose to seek out bitcoin as a safe haven from the perceived instability of banking. Others anticipated the Fed might have to cut interest rates in response to the crisis, sparking more flows into alternative risk assets.</p>
+      <p>However, the banking crisis also has significantly restrained liquidity in the crypto market according to data collected from Kaiko Research. Because investors now have less banking partners to assist in moving funds from dollars to cryptocurrencies and vice versa, analysts have argued it is much easier to manipulate bitcoin’s price with a large order.</p>
+      <p>Crypto’s 2023 comeback unfolds even as Washington regulators step up their efforts to rein in the market.</p>
+      <p>The Securities and Exchange Commission has issued 11 enforcement actions since the beginning of January against crypto firms and individuals, while serving formal letters to Paxos, DeFi exchange Sushi, and Coinbase Global warning the agency plans to bring an enforcement action. Coinbase is the largest U.S. crypto exchange.</p>
+      <p>Coinbase shares have rebounded 86% year to date but are still suppressed by two thirds below their value a year ago. Marathon Digital and Riot have both more than doubled since the beginning of 2023 but still trade 60% and 45% below their price a year ago.</p>
+      <p>Another regulator, the Commodities and Futures Trading Commission, also has sued crypto exchange Binance and its CEO Changpeng Zhao for allegedly selling derivatives backed by digital assets to U.S. customers despite not being registered to do so.</p>
+    </div>
+  },
+  {
     id: 349,
     title: 'Rupee falls past 82/USD despite dollar weakness; outflows likely',
     category: 'Forex',
@@ -635,6 +1222,63 @@ const blogListdata = [
       <p>U.S. bond yields stayed elevated, with the 2-year hovering just under 4%. [US/]</p>
       <p>USD/INR premiums dipped more, with the 1-year implied yield now at 2.37%. After the Reserve Bank of India's unexpected pause last Thursday, the 1-year is down about 20 bps.</p>
       <p>(Reporting by Anushka Trivedi; Editing by Nivedita Bhattacharjee)</p>
+    </div>
+  },
+  {
+    id: 370,
+    title: 'Tron’s TRX Drops 6% as Binance.US Delists the Token',
+    category: 'Crypto',
+    subCategory: ['Tron', 'TRX', 'Binance'],
+    description: <div className="blog-desc">
+      <p>This comes weeks after the U.S. Securities and Exchange Commission sued Tron's Justin Sun over allegations of selling and airdropping unregistered securities, fraud and market manipulation involving the TRX token.</p>
+    </div>,
+    authorName: 'Sam Reynolds',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 12, 2023 - 7:08 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-381.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+     <p>Tron’s TRX token has been delisted on Binance.US.</p>
+    	<p>This comes weeks after the U.S. Securities and Exchange Commission sued Tron's Justin Sun over allegations of selling and airdropping unregistered securities, fraud and market manipulation involving the TRX token.</p>
+    	<p>TRX dropped 6.4% on the news, according to CoinDesk market data.</p>	
+    	<p>Binance.US says trading for TRX will end on April 18.</p>	
+    	<p>"We operate in a rapidly evolving industry and our digital asset monitoring process is designed to be responsive to market and regulatory developments. When a digital asset no longer meets our high standards, or industry circumstances change, we conduct a more in-depth review of the affected asset and assess whether further action is necessary," Binance.US said on its page announcing the delisting.</p>
+      <p>A spokesperson for Tron said it is in communication with Binance.US over this and has no further comment at this time.</p>
+    </div>
+  },
+  {
+    id: 371,
+    title: 'Bitcoin maintains US$30,000, Solana jumps, U.S. equities trade mixed',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Solana', 'equities'],
+    description: <div className="blog-desc">
+      <p>Bitcoin continued trading above US$30,000 in Wednesday morning trading in Asia, while most other top 10 non-stablecoin cryptocurrencies moved higher. Ethereum dipped ahead of the Shanghai hard fork as some investors expect massive withdrawals of staked Ether as Solana led the winners ahead of its first smartphone launch on Thursday. U.S. equities closed mixed on Tuesday as investors wait for the U.S. consumer price index (CPI) in March, which will provide insight into inflation and the Federal Reserve’s next move on interest rates.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 12, 2023 - 5:51 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-382.jpg',
+    content: <div className="blog-content">
+      <p></p>
+	<h3>In this article:</h3>
+	<p>Bitcoin continued trading above US$30,000 in Wednesday morning trading in Asia, while most other top 10 non-stablecoin cryptocurrencies moved higher. Ethereum dipped ahead of the Shanghai hard fork as some investors expect massive withdrawals of staked Ether as Solana led the winners ahead of its first smartphone launch on Thursday. U.S. equities closed mixed on Tuesday as investors wait for the U.S. consumer price index (CPI) in March, which will provide insight into inflation and the Federal Reserve’s next move on interest rates.</p>
+	<h3>Fast facts</h3>
+  <ul>
+    <li>Bitcoin moved up 1.33% in the 24 hours to US$30,256 at 09:00 a.m. in Hong Kong, holding a weekly gain of 5.51%, according to CoinMarketCap data. The world’s largest cryptocurrency breached the US$30,000 mark on Tuesday and reached US$30,509 early Wednesday, the highest price since June 2022. Investors bet the U.S. CPI data on Wednesday would allow the Fed to revise its monetary tightening policies, which can hint that the end of rate hikes is around the corner, according to a Reuters report on Wednesday.</li>
+    <li>Ethereum dipped 1.37% to US$1,890, trading 1.23% lower for the week. The Shanghai hard fork of the Ethereum blockchain, also known as the Shapella upgrade, will come on Wednesday (Thursday morning in Hong Kong). The hard fork includes an upgrade that allows investors to withdraw their staked Ether for the first time.</li>
+    <li>Solana jumped 11.98% to US$23.44 and added 9.95% for the week. Solana Mobile, a subsidiary of Solana Labs, is set to release its first smartphone Saga on Thursday, which has integrated the Solana blockchain, allowing users to make on-chain transactions, manage digital assets, and access a variety of decentralized apps.</li>
+    <li>The total crypto market capitalization rose 0.70% in the past 24 hours to US$1.24 trillion. The total trading volume over the last 24 hours moved up 5.10% to US$43.63 billion.</li>
+    <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index rose 1.27% to 3992.14 in the 24 hours to 09:00 a.m. in Hong Kong, but was still down 1.04% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by Forkast Labs data branch, CryptoSlam.</li>
+    <li>U.S. equities closed mixed on Tuesday as investors waited for the U.S. March CPI on Wednesday. The Dow Jones Industrial Average added 0.29%, the S&P 500 changed little, and the Nasdaq Composite Index dropped 0.43%.</li>
+    <li>Analysts expect the U.S. CPI rose 5.1% by year in March, down from 6% in February but still well above the Fed’s goal to curb inflation below 2%, according to Bloomberg on Wednesday. Some investors are no longer eyeing the possibility of another 25-basis-point rate hike in the U.S. in May, but for indicators of lower rates in the second half of 2023, according to a Reuters report on Wednesday.</li>
+    <li>The U.S. employment situation summary released last Friday showed a mixed picture. While the employment rate dropped to 3.5% in March, lower than the 3.6% forecast by analysts, employers only added 236,000 nonfarm payrolls, the smallest increase since December 2020, indicating a slowdown in the economy.</li>
+    <li>With the mixed information, analysts at the CME Group expect a 33.1% chance the Fed will not raise interest rates at its next meeting on May 3, while 66.9% predict a 25-basis-point rate hike, down from 71.3% on Tuesday. U.S. interest rates are currently between 4.75% to 5%, the highest since June 2006.</li>
+    <li>U.S. stock futures edged higher as of 9:00 a.m. in Hong Kong. The Dow Jones Industrial Average added 0.06%. The S&P 500 futures edged up 0.05%. The Nasdaq Composite Index gained 0.06% higher.</li>
+  </ul>
     </div>
   },
   {
@@ -1113,6 +1757,77 @@ const blogListdata = [
     </div>
   },
   {
+    id: 374,
+    title: 'Cryptocurrencies continue rebound as some say crypto is through the bear market',
+    category: 'Crypto',
+    subCategory: ['Crypto Currencies', 'Bear', 'market'],
+    description: <div className="blog-desc">
+      <p>Cryptocurrencies are pushing higher in 2023 despite a banking crisis, rising interest rates, and a slew of new legal and regulatory headaches for the fledgling industry.</p>
+    </div>,
+    authorName: 'David Hollerith',
+    authorurl: 'https://www.yahoo.com/author/david-hollerith',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-385.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Cryptocurrencies are pushing higher in 2023 despite a banking crisis, rising interest rates, and a slew of new legal and regulatory headaches for the fledgling industry.</p>
+	    <p>Bitcoin, the largest and best-known digital currency, rose 69% in the three months ending March 31, while ether, the second-largest, was up 51%. Bitcoin (BTC) is currently hovering near $28,000 while ether (ETH) on Wednesday climbed above $1,900 per coin, its highest level since September of last year. Both are relatively flat over the last 24 hours.</p>	 
+	    <p>Even Dogecoin (DOGE), a cryptocurrency that began as a joke, shot 30% higher Monday after Elon Musk swapped Twitter's bird icon with the Dogecoin's Shiba Inu logo. Doge forfeited some of these gains on Thursday when Twitter's logo was swapped back.</p>	
+	    <p>SkyBridge Capital Founder and Managing Partner Anthony Scaramucci told Yahoo Finance Thursday, "I would guess right now that we're through the bear market" in cryptocurrencies. "If something happens to Binance," he said, referring to a crypto exchange experiencing new legal pressure from regulators, "I think it will be a short-term hit."</p>
+      <p>Skybridge had some challenges last year as some customers requested to withdraw their money. It also sold a 30% stake to crypto exchange FTX before the exchange collapsed. Total assets under management at Skybridge dropped to $1.8 billion at the end of 2022, down 50% from a year earlier and down 80% from a 2015 peak of $9.2 billion.</p>
+      <p>But Scaramucci remains confident in his firm's crypto investments. "Any time that you've held bitcoin in a four-year rolling interval, so you pick the day, hold it for four years, you've outperformed every other asset class," Scaramucci said.</p>
+      <p>The rapid climb of digital currencies is one of the year's big surprises in markets after a crash in 2022 cost investors billions as higher interest rates and inflation lowered the value and appeal of risky assets.</p>
+      <p>Several crypto players filed for bankruptcy, including FTX in November. FTX's former CEO Sam Bankman-Fried now faces criminal charges that he stole billions of FTX customer funds and misled investors.</p>
+      <p>"It's a bounce back from the really poor performance we saw in 2022," VettaFi research head Todd Rosenbluth told Yahoo Finance on Tuesday.</p>
+      <p>What gave the market added momentum this year, ironically, was a banking crisis in March that took down three lenders, including two that specifically served cryptocurrency customers.</p>
+      <p>Some investors chose to seek out cryptocurrencies as a safe haven from the perceived instability of banking. Others anticipated the Fed might have to cut interest rates in response to the crisis, sparking more flows into alternative risk assets.</p>
+      <p>Since March 10, the day regulators seized Silicon Valley Bank in the second-largest bank failure of U.S. history, bitcoin is up more than 33% and ether is up more than 26%. The total value for all crypto assets is up more than 22% during that period, as of Friday at 8:30 a.m. ET.</p>
+      <h3>Regulatory pressure ramps</h3>
+      <p>This year's crypto comeback is unfolding even as Washington regulators step up their efforts to rein in this market.</p>
+      <p>The Securities and Exchange Commission has issued 11 enforcement actions since the beginning of January against crypto firms and individuals, while serving formal letters to Paxos, DeFi exchange Sushi, and Coinbase Global (COIN) warning the agency plans to bring an enforcement action. Coinbase is the largest U.S. crypto exchange.</p>
+      <p>Coinbase shares have rebounded 73% year to date but are still two thirds below their value a year ago.</p>
+      <p>Another regulator, the Commodities and Futures Trading Commission, also has sued crypto exchange Binance and its CEO Changpeng Zhao for allegedly selling derivatives backed by digital assets to U.S. customers despite not being registered to do so.</p>
+      <p>"This industry is not in a good trust position right now with the public, with investors, with customers," CFTC commissioner Christy Goldsmith Romero said Wednesday at the Links NYC conference hosted by crypto firm Chainalysis.</p>
+      <p>Goldsmith Romero noted that crypto firms are still grappling with issues "learned" from the collapse of FTX last November while regulators try to move fast to understand the technology. CFTC has worked enforcement cases with other agencies, "and I think you’ll probably see more of those," she added.</p>
+      <h3>Liquidity dries up</h3>
+      <p>Another concern for some investors is that liquidity for major cryptocurrencies has fallen to record lows. Data from research firm Kaiko shows the ease of exchange between bitcoin and ether into cash has fallen a total 50% and 41% respectively since FTX filed for bankruptcy on November 11.</p>
+      <p>"It makes me weary of any recent rally although bitcoin is quite close to $30K," Christopher Newhouse, a crypto derivatives trader with GSR, told Yahoo Finance.</p>
+      <p>Newhouse said he worries everyday traders aren’t entering the market, citing recent sizable allocations to bitcoin and ether made by major corporate players Binance and MicroStrategy (MSTR). MicroStrategy disclosed Wednesday in an SEC filing that it purchased a little over a thousand bitcoins, raising its total BTC stash to roughly $3.9 billion, according to current market prices.</p>
+      <p>"It makes me wonder whether new entrants are really entering the market and from a price perspective if this rally is sustainable or organic buying has died down," Newhouse added.</p>
+      <p>But since the beginning of February, bitcoin's 50-day average has risen above the 200-day moving average, a so-called "golden cross" pattern that suggests to chart users that market sentiment has flipped from bearish to bullish.</p>
+    </div>
+  },
+  {
+    id: 373,
+    title: 'Solana introduces ‘state compression’ to lower NFT storage costs',
+    category: 'Crypto',
+    subCategory: ['Solana', 'NFT', 'Costs'],
+    description: <div className="blog-desc">
+      <p>Solana has introduced a solution that aims to reduce on-chain storage costs for non-fungible tokens (NFT).</p>
+    </div>,
+    authorName: 'Forkast.News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 7, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-384.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Solana has introduced a solution that aims to reduce on-chain storage costs for non-fungible tokens (NFT).</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>On-chain storage refers to storing data on the blockchain network, which can be a costly process. The new solution, called “state compression,” reduces the amount of on-chain storage required to store NFTs, resulting in lower costs for creators and buyers.</li>
+        <li>Solana claimed in a blog post on Thursday that state compression can reduce storage costs by up to 100 times.</li>
+        <li>State compression solution could become an important feature for NFT creators, who often face high costs when minting NFTs.</li>
+        <li>Minting refers to the process of creating and putting NFTs on the blockchain. The process requires a certain amount of digital storage space, which can be expensive. By reducing the storage space needed, state compression can make NFT minting more affordable for creators.</li>
+        <li>The Solana blockchain’s native cryptocurrency (SOL) price was little changed following the announcement and was trading at US$20.5. Meanwhile, the Forkast SOL NFT Composite, a proxy measure for the Solana NFT market, dropped 0.28%.</li>
+        <li>The state compression solution comes at a time when the Solana ecosystem has taken a hit from popular NFT projects leaving the network. Degods and Y00ts recently began migrating to Ethereum and Polygon, respectively.</li>
+      </ul>
+    </div>
+  },
+  {
     id: 323,
     title: 'US Futures Rise, Bonds Slide on Solid Jobs Data: Markets Wrap',
     category: 'Indices',
@@ -1583,6 +2298,33 @@ const blogListdata = [
       <p>Among Dow Jones stocks, Apple shares fell 1.1% Wednesday, down a second day in a row. Shares remain near their highest level since August. AAPL stock fell 0.8% Thursday.</p>
       <p>Microsoft shares remain in buy range past a flat base's 276.86 buy point amid a third-straight fall Wednesday. The stock is in the 5% buy area that goes from the buy point to 290.70. MSFT stock moved down 0.6% early Thursday.</p>
       <p>Microsoft shares surged earlier this month after the company announced that it is adding artificial intelligence tools to its popular Office productivity applications suite. That follows the company's investments in artificial intelligence startup OpenAI, the firm behind the buzzworthy ChatGPT application.</p>
+    </div>
+  },
+  {
+    id: 375,
+    title: 'Overseas crypto transfers cost 96.7% less than traditional system: Coinbase',
+    category: 'Crypto',
+    subCategory: ['Crypto', 'overseas', 'coinbase'],
+    description: <div className="blog-desc">
+      <p>Americans spend more than US$12 billion in remittance fees each year when sending money to family and friends living overseas using the traditional financial system. However, overseas remittances using Bitcoin and Ethereum cost 96.7% less, according to research by Coinbase, one of the largest crypto exchanges based in the U.S.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 5, 2023',
+    cover: 'https://ncx.cx/images/ncx-blog-386.jpg',
+    content: <div className="blog-content">
+	   <h3>In this article:</h3>
+	   <p>Americans spend more than US$12 billion in remittance fees each year when sending money to family and friends living overseas using the traditional financial system. However, overseas remittances using Bitcoin and Ethereum cost 96.7% less, according to research by Coinbase, one of the largest crypto exchanges based in the U.S.</p>
+     <h3>Fast facts</h3>
+     <ul>
+      <li>“The U.S. average fee rate of 6.18% means Americans’ average yearly spend is likely close to US$12 billion on remittance fees. You shouldn’t have to spend money to send money,” Coinbase said in a blog post on April 3.</li>
+      <li>Sending Bitcoin to another wallet costs US$1.50 per transaction on average, while an Ethereum transaction costs US$0.75, Coinbase said.</li>
+      <li>Remittance through the traditional banking system takes an average of 1-10 days as it has to go through many intermediaries and functions during fixed banking hours. The average waiting time for crypto transfers is about 10 minutes, Coinbase said.</li>
+      <li>Close to a billion people globally depend on remittances, either by sending or receiving them, and close to 800 million people depend on money sent by their family members living elsewhere for work, according to the United Nations.</li>
+      <li>“We need our American regulators to see the true value of responsible crypto products and services and their ability to update an antiquated system,” Coinbase said.</li>
+     </ul>
     </div>
   },
   {
