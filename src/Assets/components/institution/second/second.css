@@ -8,8 +8,10 @@ div#solutions_institutional {
     padding-left: 0px;
     font-family: 'hauora-medium';
 }
-#solutions_institutional .otctxt h2{
+#solutions_institutional .otctxt h2, #institutional_about .otctxt h2{
     color: #000000;
+    font-family: 'alliance-no-2-regular' !important;
+    font-size: 25px !important;
 }
 /* #solutions_institutional .OTCsect.second.row .col:last-child h2 {
     min-height: 59.4px;

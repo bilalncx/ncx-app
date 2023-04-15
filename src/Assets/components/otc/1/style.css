@@ -1,5 +1,6 @@
 .card_imga video {
     height: 80%;
+    border-radius: 37px;
 }
 #ncxotc-page .card_imga{
     display: flex;
@@ -115,7 +116,7 @@ h1.why__otc {
     font-size: 55px;
     font-family: 'hauora-regular';
     line-height: 70px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 h1.why__otc span{
     position: relative;
@@ -131,7 +132,7 @@ h1.why__otc span::before{
     left: 0;
 }
 .why__choose__Otc {
-    padding: 100px 0px;
+    padding: 100px 0px 180px 0px;
 }
 .why__choose__Otc .row .col:hover{
     background: linear-gradient(102.71deg, #A061FA 3.4%, #7356D2 96.68%);
@@ -167,6 +168,13 @@ svg.styles_icon__C_hdQ {
 #ncx_cryptoCard #institutional_about .OTCsect.row.mobile, h3.mbl__why_otc{
     display: none;
 }
+
+@media screen and (min-width: 1280px){
+    .about_logo {
+        margin-left: -40px;
+    }
+}
+
 @media screen and (max-width: 800px){
     #ncx_cryptoCard #institutional_about .OTCsect.row.mobile{
         display: flex !important;

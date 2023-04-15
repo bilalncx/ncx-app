@@ -14,6 +14,7 @@ import { ReactComponent as OTC4 } from '../../../images/about-4.svg';
 import { ReactComponent as OTC5 } from '../../../images/about-5.svg';
 import { ReactComponent as OTC6 } from '../../../images/about-6.svg';
 import {ReactComponent as SafeArrow} from '../../../images/safe-arrow.svg';
+import NCXAppvideo from '../../../images/ncx_app_vi.mp4';
 
 
 function FirstVideo()
@@ -35,15 +36,15 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    {/* <video
+                    <video
                         autoPlay={true}
                         muted={true}
                         loop={true}
                         playsInline={true}
                         >
-                        <source src="https://ncx.cx/images/otc-video2.mp4" type="video/mp4" />
-                    </video> */}
-                    <img src={CryptoCard2} alt="ncx_crypto_card" />
+                        <source src={NCXAppvideo} type="video/mp4" />
+                    </video>
+                    {/* <img src={CryptoCard2} alt="ncx_crypto_card" /> */}
                 </div>
                 <div className="col card_imgb">
                     <img src={CryptoCard1} alt="ncx_crypto_card" />
@@ -331,7 +332,7 @@ function FirstVideo()
 
             <div className="why__choose__Otc">
                 <div className="container">
-                    <h1 className="why__otc">Why choose <span>NCX OTC</span></h1>
+                    <h1 className="why__otc">Why choose NCX OTC</h1>
                     <h3 className="mbl__why_otc">Why Choose</h3>
                     <h3 className="mbl__why_otc line">NCX OTC</h3>
                     <div className="row">

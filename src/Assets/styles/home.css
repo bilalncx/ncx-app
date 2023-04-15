@@ -51,6 +51,10 @@
     font-family: "poppins-medium";
     src: url(../fonts/Poppins-Medium.otf);
 }
+@font-face {
+    font-family: "alliance-no-2-regular";
+    src: url(../fonts/Alliance-no-2-regular.otf);
+}
 /************************** Body Fonts family Ends from here *************************/
 
 .body-overflow {

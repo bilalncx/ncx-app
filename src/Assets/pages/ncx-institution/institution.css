@@ -47,6 +47,14 @@ p.insta-head {
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (min-width: 1280px){
+    #ncx_institution .ncx-otc.solutions, #ncx_institution #data__ana .ncx-otc {
+        margin-left: -40px;
+        padding: 0px;
+    }
+}
+
 @media screen and (max-width:800px){
     #ncx_institution .ambassadordiv {
         margin-top: 0px !important;
