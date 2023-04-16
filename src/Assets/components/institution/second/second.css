@@ -1,6 +1,7 @@
 div#solutions_institutional {
     background: #FFFFFF;
     background-color: #FFFFFF;
+    padding-top: 0px !important;
 }
 .solutions p {
     font-size: 34px;

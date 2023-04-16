@@ -1,8 +1,9 @@
 #ncx_cryptoCard .ambassador_card h1 {
-    font-size: 66px;
+    font-size: 60px;
     font-family: 'hauora-medium';
-    line-height: 90px;
+    line-height: 80px;
     position: relative;
+    width: fit-content;
 }
 #ncx_cryptoCard h1.border-bv:before {
     content: '';
@@ -10,7 +11,7 @@
     background: rgba(148, 82, 236, 0.6);
     display: block;
     position: absolute;
-    width: 90%;
+    width: 100%;
     bottom: 15px;
 }
 #ncx_cryptoCard .ffd23 h1 {

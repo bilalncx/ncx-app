@@ -5,9 +5,10 @@
 }
 #ncx_about .col.card_imgb img {
     width: 100% !important;
-    max-height: 430px;
+    max-height: 410px;
     min-height: 350px;
     object-fit: contain;
+    filter: drop-shadow(0px 4px 30px rgba(0, 0, 0, 0.25));
 }
 .market_maker_about .market-discount h1{
     display: none;
@@ -26,6 +27,7 @@
     background: rgba(0,0,0,0.3);
 }
 #ncx_about .bar-grade33 .gradientbar {
+    display: none;
     background: linear-gradient(90deg, rgba(146,82,234,1) 7%, rgba(238,112,228,1) 36%, rgba(146,91,202,1) 77%, rgba(49,112,246,1) 100%) !important;
 }
 summary::marker {

@@ -1,6 +1,12 @@
 #ncx_institution .ambassadordiv .container {
     padding-top: 240px;
 }
+.institutional__ser {
+    padding-bottom: 130px;
+}
+#ncx_institution .data_analytics div#data__ana {
+    padding-bottom: 0px !important;
+}
 p.insta-head {
     color: #000000;
     border-color: #000000;
@@ -19,14 +25,14 @@ p.insta-head {
 }
 #ncx_institution .col.card_imgb img {
     width: 100% !important;
-    max-height: 430px;
+    max-height: 410px;
     min-height: 350px;
     object-fit: contain;
     filter: drop-shadow(0px 4px 30px rgba(0, 0, 0, 0.25));
 }
 .institutional__ser h1 {
-    font-size: 62px !important;
-    line-height: 80px !important;
+    font-size: 55px !important;
+    line-height: 75px !important;
     font-family: 'hauora-medium' !important;
 }
 .institutional__ser h1:nth-child(2){
@@ -285,5 +291,12 @@ p.insta-head {
     }
     #trading_solutions #data__ana .col {
         min-height: 250px !important;
+    }
+    body #solutions_institutional .otctxt h2, body #institutional_about .otctxt h2{
+        font-size: 16px !important;
+        font-family: 'alliance-no-2-regular' !important;
+    }
+    .institutional__ser {
+        padding-bottom: 50px !important;
     }
 }

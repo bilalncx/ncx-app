@@ -36,6 +36,9 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
+                    <img src={CryptoCard2} alt="ncx_crypto_card" />
+                </div>
+                <div className="col card_imgb">
                     <video
                         autoPlay={true}
                         muted={true}
@@ -44,10 +47,7 @@ function FirstVideo()
                         >
                         <source src={NCXAppvideo} type="video/mp4" />
                     </video>
-                    {/* <img src={CryptoCard2} alt="ncx_crypto_card" /> */}
-                </div>
-                <div className="col card_imgb">
-                    <img src={CryptoCard1} alt="ncx_crypto_card" />
+                    {/* <img src={CryptoCard1} alt="ncx_crypto_card" /> */}
                 </div>
             </div>
 

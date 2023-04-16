@@ -2,7 +2,7 @@ import React from "react";
 import './marketmaker.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
-import FirstVideoSection from '../../components/marketmaker/first/first';
+import FirstVideoSection from '../../components/marketmaker/first/new';
 import MaketMakerDiscountTable from '../../components/marketmaker/second/second'; 
 import MarketBenefits from '../../components/marketmaker/third/third';
 
