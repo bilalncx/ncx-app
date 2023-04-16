@@ -6,7 +6,7 @@ import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { ReactComponent as AboutLogo } from '../../../images/about_logo.svg';
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
-
+import { ReactComponent as SafeArrow } from '../../../images/safe-arrow.svg';
 
 function FirstVideo()
 {
