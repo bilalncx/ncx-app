@@ -99,3 +99,11 @@
     flex: inherit !important;
     padding-left: 100px;
 }
+.wal__btns a.ff__dsw:hover{
+    background: linear-gradient(180deg, #5ED3F0 0%, #00AFDB 100%);
+    border: none;
+}
+.wal__btns a.sf__ffp:hover{
+    border: 1px solid #5ED3F0;
+    background: none;
+}

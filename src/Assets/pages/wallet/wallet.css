@@ -1,3 +1,227 @@
 div#wallet__main__cc {
     background: #000000;
 }
+#safe__protocol.wallet__right__sided .row .col:nth-child(2){
+    padding-left: 60px !important;
+}
+#safe__protocol.wallet__right__sided img {
+    width: 500px;
+    height: auto;
+}
+a.pp__fd {
+    font-size: 18px;
+    font-family: 'hauora-semibold';
+    text-transform: inherit;
+    color: #FFFFFF;
+    position: relative;
+}
+a.pp__fd:after{
+    content: '';
+    background: url(../../images/safe_icon.svg);
+    width: 6px;
+    height: 15px;
+    display: block;
+    position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    top: 16px;
+    right: -5px;
+}
+#ncxt__stake h1.__ldd {
+    margin-bottom: 100px;
+}
+div#ncxt__stake {
+    padding: 150px 0px !important;
+}
+
+@media screen and (max-width: 800px){
+    #wallet__main__cc .bss__row{
+        display: block;
+    }
+    #wallet__main__cc .bss__row .sxx__ttr {
+        margin-bottom: 20px;
+        padding: 20px !important;
+    }
+    #wallet__main__cc div#wallet__mp {
+        display: none;
+    }
+    #wallet__main__cc .txt__wall {
+        position: relative;
+        display: block;
+        padding: 100px 0px 50px 0px;
+    }
+    #wallet__main__cc .wallet__main{
+        margin-top: 0px ;
+    }
+    #wallet__main__cc .tcc__rr{
+        display: block !important;
+    }
+    #wallet__main__cc .tcc__rr .col{
+        width: 100% !important;
+    }
+    #wallet__main__cc .wallet__main .tcc__rr h3 {
+        font-size: 22px;
+    }
+    #wallet__main__cc .wallet__main .tcc__rr h1{
+        font-size: 48px;
+        line-height: 60px;
+        width: 80%;
+    }
+    #wallet__main__cc .wallet__main .tcc__rr p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #wallet__main__cc .second__sec{
+        padding: 50px 0px !important;
+    }
+    #wallet__main__cc .sxx__ttr p {
+        font-size: 14px;
+        line-height: 20px;
+        width: 100%;
+    }
+    #wallet__main__cc .sxx__ttr h1 {
+        font-size: 20px;
+    }
+    .buy__sdf .styles_rect__XvrMy{
+        width: 15px;
+        height: 15px;
+    }
+    .buy__sdf .styles_box__NE4Wm {
+        width: 60px;
+        height: 60px;
+        margin: 10px !important;
+    }
+    .buy__sdf .styles_rectCenter__hBI_M {
+        top: 20px;
+        left: 20px;
+    }
+    .wallet-slider h1{
+        font-size: 36px !important;
+        line-height: 44px !important;
+    }
+    div#infinite:after{
+        width: 100px !important;
+        right: -2px !important
+    }
+    div#infinite:before{
+        width: 100px !important;
+        left: -2px !important
+    }
+    .coin__chain img {
+        width: 30px !important;
+    }
+    .coin__chain p {
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+    .coin__chain{
+        height: 42px !important;
+    }
+    div.highway-slider{
+        height: 42px !important;
+    }
+    section#right__left {
+        margin-top: 10px !important;
+    }
+    .wallet-slider {
+        min-height: 400px !important;
+    }
+    .wallet__left__sided .row{
+        display: block !important;
+    }
+    .wallet__left__sided .row .col{
+        width: 100% !important;
+        padding: 0px !important;
+    }
+    .wsl__fdss h3 {
+        font-size: 18px !important;
+    }
+    .wsl__fdss h1{
+        font-size: 26px !important;
+        line-height: 38px !important;
+        padding-right: 50px !important;
+    }
+    .wsl__fdss p {
+        font-size: 14px !important;
+        width: 100% !important;
+        margin-top: 15px !important;
+    }
+    .wsl__fdss {
+        margin-bottom: 50px !important;
+    }
+    .wallet__left__sided, .wallet__right__sided{
+        padding: 70px 0px !important;
+    }
+    .wallet__right__sided .row {
+        flex-direction: column !important;
+    }
+    .wallet__right__sided .row .col:nth-child(1) {
+        width: 100% !important;
+        order: 2 !important;
+    }
+    .wallet__right__sided .row .col:nth-child(2) {
+        width: 100% !important;
+        flex: inherit !important;
+        padding-left: 0px !important;
+        order: 1 !important;
+    }
+    .cfd__cnt {
+        background-position: 50%!important;
+        background-size: calc(100% + 70px)!important;
+        margin-top: 40px!important;
+        min-height: 350px!important;
+    }
+    .wallet__defi .container {
+        padding: 0px !important;
+    }
+    .cfd__cnt h1{
+        font-size: 20px !important;
+        padding: 0px !important;
+        margin-bottom: 10px !important;
+    }
+    .cfd__cnt p {
+        font-size: 10px !important;
+    }
+    .wallet__defi, .wallet__buy_crypto{
+        padding: 70px 0px !important;
+    }
+    .wallet__buy_crypto h1.__ldd {
+        font-size: 26px !important;
+        line-height: 38px !important;
+    }
+    .ccs__cont {
+        display: block !important;
+        width: 100% !important;
+        padding: 50px 0px !important;
+    }
+    .ccs__cont .col {
+        width: 50% !important;
+        display: inline-block !important;
+    }
+    .arrow__sect {
+        display: block !important;
+    }
+    .arrow__sect .col{
+        margin-bottom: 20px !important;
+    }
+    #safe__protocol.wallet__right__sided .row .col:nth-child(2){
+        padding-left: 0px !important;
+    }
+    #safe__protocol.wallet__right__sided img {
+        width: 100% !important;
+    }
+    .wal__btns a.sf__ffp{
+        height: 44px !important;
+        font-size: 15px !important;
+    }
+    .wal__btns a.ff__dsw{
+        height: 44px !important;
+        font-size: 15px !important;
+    }
+    #wallet__main__cc svg.styles_icon__C_hdQ {
+        width: 10px !important;
+    }
+    #ncxt__stake h1.__ldd {
+        margin-bottom: 50px;
+    }
+}

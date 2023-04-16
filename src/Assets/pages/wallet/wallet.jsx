@@ -12,6 +12,9 @@ import Wallet7 from '../../components/wallet/07/7';
 import Wallet8 from '../../components/wallet/08/8';
 import Wallet9 from '../../components/wallet/09/9';
 import Wallet10 from '../../components/wallet/10/10';
+import Wallet11 from '../../components/wallet/11/11';
+import Wallet12 from '../../components/wallet/12/12';
+import Wallet13 from '../../components/wallet/13/13';
 
 function WalletMainPage()
 {
@@ -39,6 +42,12 @@ function WalletMainPage()
             <Wallet9 />
 
             <Wallet10 />
+
+            <Wallet11 />
+
+            <Wallet12 />
+
+            <Wallet13 />
 
             <MyFooter />
 
