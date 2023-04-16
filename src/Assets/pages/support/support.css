@@ -300,6 +300,36 @@ h1.open-ticket {
     margin-bottom: 10px;
 }
 
+/* ************************** */
+#learnfaq .accordian details {
+    border: 1px solid #efefef;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 24px;
+}
+#learnfaq .accordian summary {
+    padding: 0px !important;
+    border: none;
+    font-size: 18px !important;
+    font-family: 'urbanist-semibold' !important;
+}
+.aas__ss svg {
+    width: 10px;
+    height: auto;
+}
+.aas__ss svg path{
+    fill: #000000 !important;
+}
+#learnfaq .accordian .aas__ss{
+    transition: all .4s cubic-bezier(1,1,1,1);
+}
+#learnfaq .accordian details[open] span.aas__ss {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    transition: all .4s cubic-bezier(1,1,1,1);
+}
+
+
 
 
 /* *************************************** Details Page ********************************************* */
