@@ -1,5 +1,373 @@
 const blogListdata = [
   {
+    id: 389,
+    title: 'Dow Jones Futures Loom: Tesla, Apple Near Buy Points In Volatile Market Rally',
+    category: 'Markets',
+    subCategory: ['Dow Jones', 'Futures', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 16, 2023 - 3:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-401.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures.</p>
+    	<p>The stock market rally advanced modestly this past week, with some sizable gains and reversals. Recession fears are rising, even as inflation cools.</p>	
+    	<p>There weren't too many buying opportunities. Some stocks flashed buy signals, then quickly fell back. Investors should be cautious about adding exposure in the current environment. Amid market volatility, Apple (AAPL), Lululemon Athletica (LULU) and Regeneron Pharmaceuticals (REGN) have forged bullish tight patterns.</p>	
+    	<p>Earnings season is heating up. Tesla (TSLA), ASML (ASML), Netflix (NFLX) and DHI stock are all near buy points with earnings on tap. ASML and D.R. Horton (DHI) provided insight into their respective groups.</p>
+      <p>Meanwhile, Western Alliance Bank (WAL) is among the many banks and financials reporting this coming week. How is this Phoenix-based bank holding up? WAL stock has been among the most embattled in recent weeks.</p>
+      <p>LULU stock is on the IBD Leaderboard watchlist and the IBD 50.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures open at 6 p.m. ET, along with S&P 500 futures and Nasdaq 100 futures.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally had modest gains for the week, despite volatile action day to day.</p>
+      <p>The Dow Jones Industrial Average popped 1.2% in last week's stock market trading. The S&P 500 index gained 0.8%. The Nasdaq composite edged up 0.3%. The small-cap Russell 2000 advanced 1.5% in an inside week.</p>
+      <p>The 10-year Treasury yield rose 14 basis points to 3.52%.</p>
+      <p>U.S. crude oil futures rose 2.3% to $82.52 a barrel last week.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) gained 2.65% last week, while the Innovator IBD Breakout Opportunities ETF (BOUT) advanced 1.9%. The iShares Expanded Tech-Software Sector ETF (IGV) gained 0.5%. The VanEck Vectors Semiconductor ETF (SMH) dipped 0.1% after tumbling 4.1% in the prior week. ASML stock is a big SMH holding.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) rose 0.6% last week and ARK Genomics ETF (ARKG) gained 2%. Tesla stock is the top holding across Ark Invest's ETFs.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) advanced 2% last week. The Global X U.S. Infrastructure Development ETF (PAVE) climbed 2.7%. U.S. Global Jets ETF (JETS) sank 1.1%. SPDR S&P Homebuilders ETF (XHB) jumped 4.1%. The Energy Select SPDR ETF (XLE) rallied 2.65%. The Health Care Select Sector SPDR Fund (XLV) added 0.8%.</p>
+      <p>The Financial Select SPDR ETF (XLF) rebounded 2.8%. But the SPDR S&P Regional Banking ETF (KRE) slipped 0.75%. WAL stock is among the many KRE holdings.</p>
+      <h3>Apple Stock, Lululemon</h3>
+      <p>Apple stock, Lululemon and Regeneron have all forged tight patterns, but in different circumstances.</p>
+      <p>Apple stock rose 0.3% to 165.21 last week, rebounding from the 21-day line on Thursday. Shares edged down 0.15% in the prior week. With two straight weekly closes of 1%-1.5% within the prior week, that qualifies as a three-weeks-tight. The AAPL stock buy point is 166.94. That would be slightly extended from a flat base cleared a month ago, but could provide a place for existing holders to add a few shares.</p>
+      <p>LULU stock climbed 1.1% to 368.25, also creating a three-weeks-tight with a 371.36 buy point. The yoga apparel retailer has held fast after an earnings gap-up. Lululemon's 3-week tight is within a cup base. Indeed, on a daily chart, the tight pattern acts a handle. So investors could use a breakout as a place to start a position. Ideally, LULU stock would offer more of a shakeout first.</p>
+      <p>REGN stock nudged up 0.1% to 829.33, now boasting a four-weeks-tight pattern with an 837.65 entry. The biotech giant is still in buy range of a flat base breakout from 800.58. Investors could use a move past the tight entry as a place to start or add to a Regeneron stock position.</p>
+      <h3>Tesla Earnings</h3>
+      <p>Tesla earnings for the first quarter are due Wednesday evening. The electric vehicle giant reported record Q1 deliveries earlier this month, thanks to big price cuts and new U.S. EV credits. Even so deliveries fell short of views, with production once again exceeding sales substantially.</p>
+      <p>Now investors will see how much that affected Tesla's prized profit margins, which had already been starting to slide last year.</p>
+      <p>On Friday, Tesla cut prices in Europe, Singapore and Israel, though the European cuts largely absorbed early March discounts. A week earlier, Tesla cut U.S. prices on all its vehicles. That points to further margin pressure in the second quarter.</p>
+      <p>Tesla stock dipped 6 cents to 185 in the past week after tumbling 10.8% in the prior week. Shares hit resistance at the 21-day and 50-day lines. TSLA stock has a cup-with-handle base that formed below the 200-day moving average, which is not great. So while Tesla has a 207.89 buy point, investors might wait for a decisive move above the 200-day, which is now below 213.</p>
+      <p>Another possibility is if Tesla stock breaks above the 50-day line on earnings, offering an early entry with a little room to the 200-day.</p>
+      <h3>Netflix Earnings</h3>
+      <p>Netflix earnings are due Tuesday night. After a tough 2022, profits are expected to bounce back. Subscription gains often are more important than earnings for Netflix. The results will also be important for streaming rivals such as Disney (DIS), as well as Roku (ROKU).</p>
+      <p>After more than doubling from July to early February, Netflix stock forged a new cup-with-handle base with a 349.90 buy point. The handle has formed in scant volume and with support at the 50-day line. NFLX stock edged down 0.2% for the week to 338.63.</p>
+      <h3>ASML Earnings</h3>
+      <p>ASML stock will report early Wednesday morning, with peer Lam Research (LRCX) due after the close. ASML earnings also are bouncing back in 2023 after a difficult 2022. After nearly doubling from October to early February, ASML stock has forged a cup-with-handle base, according to MarketSmith analysis. Shares rose 1.4% to 666.20 this past week, rebounding from the 50-day line. The buy point is 683.28.</p>
+      <h3>D.R. Horton Earnings</h3>
+      <p>D.R. Horton earnings are due early Thursday, kicking off results for homebuilders, several of which are in or near buy zones. The homebuilding giant is expected to report a big EPS decline, like other rivals. Guidance will be key. DHI stock rose 2.7% to 98.25. On Tuesday, shares reclaimed a 99.50 cup-with-handle buy point, but then fell back.</p>
+      <h3>Western Alliance Bancorp Earnings</h3>
+      <p>Western Alliance reports Tuesday night. The California-based bank already provided some key Q1 metrics, including deposits and unrealized losses. But investors will want to hear about ongoing conditions. WAL stock rose 2.9% to 31.66 last week, but is still down sharply in 2023. As Warren Buffett said on Wednesday, bank deposits are probably safe, but it's not clear that bank stocks will be.</p>
+      <p>Charles Schwab (SCHW), Bank of America (BAC), Goldman Sachs (GS) and several superregional banks report this coming week.</p>
+      <p>Altogether, they'll provide a good picture about deposit and lending trends.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally didn't have big weekly moves, but there were big daily and intraday swings. The major indexes staged big rallies on Thursday, bracketed by downside reversals on Wednesday and Friday.</p>
+      <p>Indeed, the Nasdaq composite fell every day but Thursday, and still eked out a weekly gain. The S&P 500 and Dow Jones hit two-month highs Friday before retreating, with the Dow up for a fourth straight week.</p>
+      <p>The major indexes aren't far from 2023 highs, but they aren't that far from undercutting their 50-day lines either.</p>
+      <p>Meanwhile, the Invesco S&P 500 Equal Weight ETF (RSP), which doesn't give more weight to megacaps such as Apple or Tesla stock, rallied from the 200-day line, but hit resistance several times at the 50-day.</p>
+      <p>Over the past week, markets became more concerned about recession risks, especially on Wednesday news that Fed staff predicted a "mild recession" back at the March policy meeting. But despite those concerns, and generally improving inflation data, the odds of a May rate hike actually increased to 80% on Friday.</p>
+      <p>Recession and Fed rate hikes are not a great combination for stocks. So the market rally showed resilience this past week. And, despite the volatility, the Nasdaq and S&P 500 have forged de facto 3-weeks tight patterns, with their recent ranges, much like LULU stock.</p>
+      <p>Market breadth has improved somewhat in the past couple of weeks. But there weren't a lot of stocks flashing buy signals. And the market's downside reversals meant that some stocks that looked actionable quickly faded or reversed.</p>
+      <h3>What To Do Now</h3>
+      <p>How exposed should investors be? It depends on what stocks you own. Some stocks flashing buy signals in the past few weeks have fared well, while others have been mixed or reversed lower.</p>
+      <p>The volatile market swings have made it tricky to add stocks recently. So perhaps it's a good thing that buying opportunities were relatively scarce on Thursday's big rally.</p>
+      <p>The macroeconomic picture remains in flux, while earnings season will be ramping up over the next few weeks. So more volatility is likely in the cards.</p>
+      <p>If the market does show some strength, and stocks flash buy signals, add exposure gradually. Be ready to take partial profits and exit losers. Remember: If you're quick to add exposure, you have to be ready to scale out just as fast.</p>
+      <p>Finding early entries and buying close to those buy points is still a smart strategy. So spend the weekend running screens and building up your watchlists.</p>
+    </div>
+  },
+  {
+    id: 388,
+    title: 'Netflix, Tesla, Goldman Sachs, Bank of America headline earnings rush in week ahead',
+    category: 'Markets',
+    subCategory: ['Netflix', 'Tesla', 'Bank'],
+    description: <div className="blog-desc">
+      <p>After big bank earnings unofficially got the proceedings underway on Friday, results from high-profile stock market winners this year like Netflix (NFLX) and Tesla (TSLA) will highlight a busy schedule for investors tracking corporate results.</p>
+    </div>,
+    authorName: 'Myles Udland',
+    authorurl: 'https://www.yahoo.com/author/myles-udland',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 16, 2023 - 2:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-400.jpg',
+    content: <div className="blog-content">
+    	<h3></h3>
+	    <p>First quarter earnings season will ramp up rapidly in the week ahead.</p>
+	    <p>After big bank earnings unofficially got the proceedings underway on Friday, results from high-profile stock market winners this year like Netflix (NFLX) and Tesla (TSLA) will highlight a busy schedule for investors tracking corporate results.</p>	
+	    <p>The economic calendar will offer some reprieve for those more closely keeping tabs on macroeconomic developments and the impact this data could have on the Federal Reserve next month.</p>	
+	    <p>All three major indexes logged gains last week with the Dow Jones Industrial Average rising 1.1% to pace the week's gains. On Friday, JPMorgan (JPM) led a rally in bank stocks, rising more than 7% for its best day since 2020.</p>
+      <p>"This week, the initial earnings from a few very large banks suggest that the quick work of the FDIC and Federal Reserve in the wake of Silicon Valley Bank's failure [has] prevented broader damage," strategists at Bespoke Investment Group wrote in a note to clients on Friday.</p>
+      <p>"Lenders including PNC Financial, JPMorgan, Wells Fargo, and Citi reported Friday, and the sigh of relief from markets was palpable."</p>
+      <p>JPMorgan's results revealed the bank "has been a port in the storm," wrote Wells Fargo analyst Mike Mayo in a note on Friday. Mayo said the set of results released Friday left him asking — What banking crisis?</p>
+      <p>JPMorgan CEO Jamie Dimon even went so far as to tell an analyst during Friday's conference call, "I wouldn't use the word credit crunch, if I were you."</p>
+      <p>Still, Dimon cautioned the US economy will face challenges in the months ahead, writing in the company's earnings release, "the storm clouds that we have been monitoring for the past year remain on the horizon, and the banking industry turmoil adds to these risks."</p>
+      <p>Higher rates, the war in Ukraine, and geopolitical tensions are among the factors Dimon cited as posing risks to the economy.</p>
+      <p>The financial sector will remain in focus in the early part of the week ahead, with results from Charles Schwab (SCHW) on Monday providing a key look at how some firms at the center of last month's bank crisis fared during the quarter. During the peak of March's bank crisis, Charles Schwab felt compelled to come out publicly and reassure investors its liquidity remained strong.</p>
+      <p>Shares of the brokerage firm have lost nearly 40% so far this year, including a more than 30% drop in March alone. Investors have feared pressure on Schwab's deposit base as clients move money from "sweep accounts" into higher-yielding alternatives that could impact the company's immediate access to capital.</p>
+      <p>Bank of America (BAC) and Goldman Sachs (GS) results out Tuesday morning will offer another read on how larger lenders and investment banks fared during turmoil that centered on smaller, regional lenders.</p>
+      <p>Investors will face a lighter schedule on the economic data side, as the monthly run of housing data picks up with homebuilder sentiment, home prices, and housing starts data all set to cross the wires.</p>
+      <p>Wednesday's Beige Book report from the Fed will also set the table for the Fed's discussion of the economic environment at its next policy meeting, which is set to begin in just over two weeks on May 2. Data from the CME Group showed that as of the end of last week investors were placing a nearly 80% on the Fed raising rates by 0.25% in its next policy announcement.</p>
+      <p>Last week's key economic report came Wednesday morning when the Consumer Price Index (CPI) for March showed headline inflation cooled to an annual rate of 5% in March while "core" inflation — which excludes the more volatile costs of food and energy — rose 5.6% over the last year.</p>
+      <p>Retail sales and industrial production data out Friday, in addition to Thursday's initial claims reading, however, suggested the economy is softening on the margins and will likely weaken further in the coming months.</p>
+      <p>"Incoming data signal the economy ended the first quarter on a weak note, with consumers less willing to spend, labor market conditions softening, and industrial sector output on a negative track," wrote Oren Klachkin, lead US economist at Oxford Economics, in a note to clients on Friday.</p>
+      <p>"We believe Q1 will end up being the best quarter this year for the economy as tighter credit conditions and elevated interest rates slow GDP growth to a crawl in Q2 and spark a recession in the second half of the year. The weaker economy will ease price pressures, but not enough for the Fed to achieve its 2% inflation target anytime soon."</p>
+      <p>This combination of a slowing economy and stubborn inflation is likely to make investor debate about the Fed's next move even more robust in the coming months as the central bank balances risks that each call for the opposite policy response.</p>
+      <p>As Barclays economist Marc Giannoni wrote in a note to clients on Friday: "Fed communication earlier this week suggests that the debate about the course of policy is about to heat up."</p>
+    </div>
+  },
+  {
+    id: 390,
+    title: 'China Searches for Clearer Signs of Economic Momentum',
+    category: 'Markets',
+    subCategory: ['China', 'Economic', 'Momentum'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- China’s key economic data in the coming week is likely to show a pickup in growth after Beijing dropped its Covid Zero rules, though it’s not yet clear how solid or sustainable the recovery will be.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 16, 2023 - 12:43 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-402.jpg',
+    content: <div className="blog-content">
+    	<h3>China Searches for Clearer Signs of Economic Momentum</h3>
+    	<p>(Bloomberg) -- China’s key economic data in the coming week is likely to show a pickup in growth after Beijing dropped its Covid Zero rules, though it’s not yet clear how solid or sustainable the recovery will be.</p>
+    	<p>Official figures on Tuesday are expected to show gross domestic product grew 3.9% in the first quarter compared to a year prior, according to the median estimate in a Bloomberg survey of economists. While that would be an improvement on the 2.9% expansion recorded in the October to December, it’s still below the official target for full-year growth of around 5%.</p>	
+    	<p>March data is also expected to show increases in industrial output, investment and retail sales — though that’s partly due to the low base of comparison with March last year, when Shanghai, China’s largest city, was in lockdown.</p>	
+    	<p>Early indicators, meanwhile, have been mixed: while credit and export growth beat expectations last month, weak inflation suggested demand remains subdued.</p>
+      <p>Uncertainty over the strength of the data leaves open the debate of whether more stimulus is needed.</p>
+      <p>Chinaese officials have taken a pro-growth stance on the economy this year, though they’ve so far avoided aggressive easing measures such as cutting policy interest rates. Instead, the People’s Bank of China in March injected more cash into the financial system to encourage lending. Government bond sales have also been strong as infrastructure investment is ramped up through front-loaded fiscal support.</p>
+      <p>Speculation is brewing, though, over whether China would consider a rate cut or other measures, such as fiscal support. The central bank is expected to keep the rate on its one-year policy loans unchanged on Monday, but recent muted inflation figures suggest the PBOC will need to cut that rate in the second quarter by 10 basis points, David Qu of Bloomberg Economics wrote this week.</p>
+      <p>What Bloomberg Economics Says:</p>
+      <p>“China’s first-quarter GDP will likely deliver clear evidence of recovery from the Covid-driven slump, powered by consumer spending and government stimulus.”</p>
+      <p>Elsewhere, European Central Bank President Christine Lagarde is set to speak and US data will show how much the Federal Reserve’s rapid tightening is weighing on housing. Meanwhile, South Korean export figures will provide a reading on global trade momentum.</p>
+      <p>US Economy and Canada</p>
+      <p>After a week of price data that showed inflation is moderating yet still high, key reports in the US will be centered around housing.</p>
+      <p>On Tuesday, the government will issue figures on March housing starts and building permits. Existing-home sales follow on Thursday.</p>
+      <p>The Federal Reserve will also release its Beige Book that outlines recent economic conditions by region. John Williams, Raphael Bostic, Loretta Mester and Lisa Cook are among the Fed officials speaking in the coming week, prior to the central bank’s blackout period that precedes their May 2-3 policy meeting.</p>
+      <p>Further north, a fresh batch of inflation data on Tuesday will provide an early test of the Bank of Canada’s updated economic forecasts.</p>
+      <p>Asia</p>
+      <p>Japan hosts Group of Seven foreign ministers including US Secretary of State Antony Blinken through Tuesday, with officials expected to discuss economic coercion and other geopolitical issues. The group’s energy ministers this weekend reached a deal to accelerate the phase-out of unabated fossil fuels but failed to agree on a deadline to exit coal and left the door open for new natural gas investments.</p>
+      <p>Minutes from Australia’s central bank, out Tuesday, will offer more clues to the thinking behind its recent rate pause.</p>
+      <p>The Bank of Indonesia is expected to keep interest rates unchanged for a third-straight meeting later in the day, while New Zealand gives its latest quarterly price growth figures on Thursday.</p>
+      <p>Singapore, Indonesia and Japan provide trade figures during the week, although South Korea’s preliminary numbers for April will offer the freshest pulse check.</p>
+      <p>Japan’s inflation release on Friday is likely to show a further cooling of prices ahead of a Bank of Japan Governor Kazuo Ueda’s first meeting the following week.</p>
+      <p>Europe, Middle East, Africa</p>
+      <p>Lagarde takes center stage, kicking off the week with an interview Sunday on CBS’s “Face the Nation” in the US — where she was attending spring meetings of the World Bank and International Monetary Fund — before appearing at the Council on Foreign Relations in New York on Monday.</p>
+      <p>At least nine other Governing Council members, including chief economist Philip Lane and Executive Board member Isabel Schnabel, are also scheduled to speak.</p>
+      <p>The ECB publishes the account of its March rate decision, when policymakers shrugged off banking turmoil and raised rates while holding off on committing to future steps.</p>
+      <p>Flash PMIs at the end of the week will show whether sentiment in Europe continued to improve early in the second quarter despite tumult in the banking sector.</p>
+      <p>In the UK, inflation will probably tumble out of double digits for the first time in seven months when figures for March are posted on Wednesday. Wage data may show the pace of increases slowed in the latest three-month period.</p>
+      <p>Together, economists expect those two reports to build the case for the Bank of England to bring to an end its quickest series of interest rate increases in three decades. Remarks by rate setters Jon Cunliffe, Catherine Mann and Silvana Tenreyro will be watched for potential clues.</p>
+      <p>Data on Wednesday will likely show inflation in South Africa exceeded the 6% ceiling of the central bank’s target range for an 11th month. Forward-rate agreements for the next meeting on May 25 — used to speculate on South African borrowing costs — show expectations for a 25-basis-point increase in the repo rate to 8%.</p>
+      <p>On the same day, Namibian policymakers are forecast to increase borrowing costs by 50 basis points to rein in high inflation and safeguard the nation’s currency peg with neighboring South Africa’s rand.</p>
+      <p>Latin America</p>
+      <p>Weak manufacturing has weighed on Brazil’s industrial production, still below pre-pandemic levels, so look for the February print to present more downbeat data. Brazil since 2014 has averaged negative industrial output results, the worst performance among the region’s five big economies.</p>
+      <p>Banco Central do Brasil’s January GDP-proxy reading for Latin America’s biggest economy will likely show a slight expansion. Looking ahead, it may not get much better: local economists see growth of just 0.9% in 2023 and sub-par performance at least through 2026.</p>
+      <p>In Colombia, February economic activity data reported on Tuesday will likely reflect some of the slowing that has analysts marking down their 2023 forecasts.</p>
+      <p>The minutes of Banco Central de Chile’s April 4 meeting will likely find policymakers recommitting to a higher-for-longer mode with the key rate now at 11.25%. Inflation peaked at 14.1% in August but has slowed just 300 basis points since, prompting the bank to push back against speculation that monetary easing might begin any time soon.</p>
+      <p>The central banks of Uruguay and Paraguay each hold interest rate meetings in the coming week. Both banks have hit their terminal rates and inflation is slowing, while remaining above each nation’s respective targets.</p>
+      <p>--With assistance from Vince Golle, Paul Jackson, Robert Jameson, Sylvia Westall, Stephen Wicary, Nasreen Seria and Reed Landberg.</p>
+    </div>
+  },
+  {
+    id: 386,
+    title: 'China and India are buying so much Russian oil that Moscows now selling more crude than it was before invading Ukraine',
+    category: 'Commodities',
+    subCategory: ['China', 'India', 'Russia'],
+    description: <div className="blog-desc">
+      <p>Russia has been able to navigate Western sanctions well enough to push oil exports above levels reached before its war on Ukraine — and new data suggests that Moscow has China and India to thank for that.</p>
+    </div>,
+    authorName: 'Phil Rosen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 15, 2023 - 4:35 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-398.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Russia's exports of crude oil have now surpassed the volumes hit before its invasion of Ukraine.</li>
+        <li>China and India account for roughly 90% of Russia's seaborne crude exports, Kpler data shows.</li>
+        <li>With Europe largely out of the picture, the two countries are each buying 1.5 million barrels a day from Russia.</li>
+      </ul>
+    	<p>Russia has been able to navigate Western sanctions well enough to push oil exports above levels reached before its war on Ukraine — and new data suggests that Moscow has China and India to thank for that.</p>
+    	<p>In the first quarter, Russia's seaborne crude oil exports totaled 3.5 million barrels per day versus 3.35 million barrels in the year-ago quarter, the tail end of which saw the start of Russia's war on Ukraine.</p>	
+    	<p>China and India now account for roughly 90% of Russia's oil, with each country snapping up an average of 1.5 million barrels per day, according to commodities analytics firm Kpler,</p>	
+    	<p>That's enough to absorb the shipments that no longer head to European nations, which used to account for nearly two-thirds of Russia's crude exports. Europe now takes in only 8% of Russia's oil exports, per Kpler.</p>
+      <p>"Both China and Russia are taking advantage of discounted Russian crude, benefiting from the sanctions applied on Russian materials by other countries," Matt Smith, lead oil analyst at Kpler, told Insider Friday.</p>
+      <p>Behind China and India, Turkey and Bulgaria are the biggest buyers of Russian crude.</p>
+      <p>Even before Vladimir Putin launched his war on Ukraine, China was already a top buyer of Russian crude, importing 25% of its crude from the country in 2021. That's since climbed to 36%, Kpler data shows.</p>
+      <p>India, the world's third-largest oil importer, relied on Russia for about 1% of its total volumes prior to the war, but now buys 51% of its oil from Russia.</p>
+      <p>The US has led Europe and other Western nations in imposing sanctions and energy price caps on Russia, designed to maintain market flows while curtailing Moscow's export revenue.</p>
+      <p>European Central Bank calculations show trade volume between the euro area and Russia has halved since February 2022, with the bloc's imports of Russian imports seeing particularly steep declines following the bans on coal in August 2022, crude oil in December 2022, and refined oil products in February 2023.</p>
+      <p>The ECB chart below shows a similar pattern illustrated in Kpler's data, with Russian seaborne crude exports shifting toward Asian buyers and away from Europe.</p>
+      <p>To be sure, the revenue Russia generates from its energy exports has fallen along with the drop in prices, even as volumes remain elevated.</p>
+      <p>The International Energy Agency said Friday that Moscow's revenue is down about 43% compared to the same time last year.</p>
+      <p>But oil prices are heading back up as China's reopening economy drives demand while OPEC and Russia pinch supplies.</p>
+      <p>Earlier this month, OPEC+ announced a surprise production cut of over 1 million barrels a day, with Russia extending its 500,000-barrel-a-day pullback through mid-2023.</p>
+    </div>
+  },
+  {
+    id: 387,
+    title: 'Oil demand will hit a new record in 2023, driving up prices as supply declines, IEA says',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Prices', 'Supply'],
+    description: <div className="blog-desc">
+      <p>Global oil demand is expected to notch a new record this year – and that could spell trouble for crude prices, which are already facing upwards pressure from supply cuts, the International Agency said in a recent report.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 15, 2023 - 2:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-399.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Global oil demand is expected to hit a new record this year, spelling trouble for crude prices.</li>
+        <li>The IEA estimated oil demand could hit 101.9 million barrels per day in 2023.</li>
+        <li>That jump is expected to exacerbate oil-supply imbalances, likely sending prices even higher.</li>
+      </ul>
+    	<p>Global oil demand is expected to notch a new record this year – and that could spell trouble for crude prices, which are already facing upwards pressure from supply cuts, the International Agency said in a recent report.</p>
+    	<p>The energy watchdog predicted the world's crude oil demand would jump to a record 101.9 million barrels a day in 2023, up by 2 million barrels a day from last year.</p>	
+    	<p>Developing economies could account for 87% of the expected demand growth this year, the IEA said, while China alone could account for at least half as its economy continues to reopen.</p>	
+	    <p>Meanwhile, the global supply of oil is still under stress. OPEC+ announced a surprise production cut earlier this month of over 1 million barrels a day. Russia, which is a member of OPEC+, said it would extend its cut of 500,000 barrels a day cut through mid-2023.</p>
+      <p>"Our oil market balances were already set to tighten in the second half of 2023, with the potential for a substantial supply deficit to emerge. The latest cuts risk exacerbating those strains, pushing both crude and product prices higher. Consumers currently under siege from inflation will suffer even more from higher prices, especially in emerging and developing economies," the IEA said.</p>
+      <p>Oil prices briefly spiked into the triple-digits last year as Russia's invasion of Ukraine created chaos in markets. Prices have since eased, but the new cuts from OPEC+ would likely more than counteract any non-OPEC+ production increases this year, the IEA said.</p>
+      <p>West Texas Intermediate crude is up 2.4% year to date, and Brent crude, the international benchmark, is up 1.6%.</p>
+    </div>
+  },
+  {
+    id: 391,
+    title: 'USD/JPY Weekly Price Forecast – US Dollar Rallies Against the Japanese Yen for the Week',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied a bit during the trading week, in what has been very choppy and noisy behavior. We are right around the 50-Week EMA, which of course is a large technical indicator that a lot of people pay close attention to. With that being the case, the market is more likely than not to see a lot of noisy behavior, but if we can take off to the upside, the market may go looking toward the ¥136.50 level. This is an area where we’ve seen some noise in the past, and therefore it does make a lot of sense that we would see it tested.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 7:11 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-403.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The US dollar has rallied a bit during the trading week, in what has been very choppy and noisy behavior. We are right around the 50-Week EMA, which of course is a large technical indicator that a lot of people pay close attention to. With that being the case, the market is more likely than not to see a lot of noisy behavior, but if we can take off to the upside, the market may go looking toward the ¥136.50 level. This is an area where we’ve seen some noise in the past, and therefore it does make a lot of sense that we would see it tested.</p>
+    	<p>Underneath, the 50% Fibonacci level has offered a bit of support a couple of times now, so it is an area where you would expect to see the market take off again, assuming that the overall trend remains. On the other hand, if we make a move below that crucial ¥127.50 level, an area that I think defines the overall trend. You can make an argument for a little bit of negativity, due to the fact that squint you can figure out that there is a bit of a bearish flag, but that doesn’t necessarily mean that it’s going to kick off.</p>	
+    	<p>That being said, if we did break down below the ¥127.50 level, the 200-Week EMA is sitting just below the ¥121 level, and that would be the first target. After that, the market could drop all the way down to the ¥116 level. Ultimately, this is a market that continues to be very noisy, as is normally the case. Ultimately, this is a situation where I think you’ve got a lot of questions to be asked about the market, but ultimately, I think you also have to look at the market through the prism of the yield curve control policies coming out of Japan, and of course whether or not the US dollar is strengthening. All things being equal, this is a market that will continue to frustrate traders, but we are coiling up for some type of inertia to be released, and once it is released, things will be very explosive.</p>
+    </div>
+  },
+  {
+    id: 392,
+    title: 'GBP to USD Weekly Forecast – British Pound Pierces the 1.25 Level',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has been all over the place during the trading week, breaking down initially, shooting straight up in the air after that, and then struggling to get above the 1.25 level as retail sales on Friday came out very anemic in the United States, suggesting that perhaps we are going to see more economic trouble than a lot of traders had been expecting. There was a rush into treasuries on Friday, which helped the US dollar pick up a bit of strength as it is a safety currency.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 7:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-404.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	<h3>British Pound vs US Dollar Weekly Technical Analysis</h3>
+	<p>The British pound has been all over the place during the trading week, breaking down initially, shooting straight up in the air after that, and then struggling to get above the 1.25 level as retail sales on Friday came out very anemic in the United States, suggesting that perhaps we are going to see more economic trouble than a lot of traders had been expecting. There was a rush into treasuries on Friday, which helped the US dollar pick up a bit of strength as it is a safety currency.</p>
+	<p>At this point, the question is which direction do we break out, because the end of the candlestick in both directions could be a signal to go one way or the other. If we break down below the bottom of the candlestick, then we could go looking toward the 1.22 level, where the 50-Week EMA is currently sitting. All things being equal, this is a market that has a lot of inertia trying to build up, and eventually it will get released.</p>	
+	<p>If we do break above the top of the candlestick for the week, then the 1.2750 level will be the next target. Anything above there then opens up a potential move to the upside, perhaps as high as 1.30. All things being equal, this is a market that is going to continue to be very noisy, so it’ll be interesting to see how this plays out. I think given enough time; we will probably have to make a significant decision for the longer term.</p>	
+	<p>The next week or 2 should give us answers, but keep in mind that we are right in the midst of a significant amount of noise on the chart, so it does make a lot of sense that you would see volatility pick up over the next several weeks. The market will continue to be very noisy and therefore the only thing that you can do is keep your position size reasonable in order to protect your trading capital. That’s generally true with almost everything that we are dealing with at the moment, and I just don’t see how it changes anytime soon.</p>
+    </div>
+  },
+  {
+    id: 393,
+    title: 'GBP/JPY Weekly Forecast – British Pound Tests Ceiling Against Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied significantly during the course of the week to reach the ¥166 level, an area that of course is the top of the overall range we had been in for a while. Because of this, it’s very likely that we will continue to see this market bounce around, with this area just above offering quite a bit of trouble. Ultimately, the market does look very bullish, but at the same time you can make the argument that it is in fact going to be a situation where we are little overstretched, and it’s obvious that the sellers keep returning to this market every time we get here.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 6:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-405.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The British pound has rallied significantly during the course of the week to reach the ¥166 level, an area that of course is the top of the overall range we had been in for a while. Because of this, it’s very likely that we will continue to see this market bounce around, with this area just above offering quite a bit of trouble. Ultimately, the market does look very bullish, but at the same time you can make the argument that it is in fact going to be a situation where we are little overstretched, and it’s obvious that the sellers keep returning to this market every time we get here.</p>
+    	<p>On the downside, the 50-Week EMA sets right around the ¥162 level and is rising, perhaps offering a bit of potential support. In that environment, I think you’ve got a situation where the market will probably find plenty of buyers on dips, especially as the Bank of Japan continues its yield curve control policy. As long as that’s the case, the yen related repairs will continue to have a bit of a floor in them, and therefore I think you have to look at dips as an opportunity to pick up value, as the British pound has been one of the better performing currencies around the world. Ultimately, I think we got a situation where the market continues to see volatility, but it certainly looks as if it is favoring the overall upside, but that does not necessarily mean that you need to see some type of major melt up, rather more of a gradual grind.</p>
+    </div>
+  },
+  {
+    id: 394,
+    title: 'EUR/USD Weekly Forecast – Euro Starting to Get a Little Overstretched',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro initially pulled back just a bit during the trading week, breaking below the 1.09 level. However, by the end of the week we have seen the market turn right back around to show strength again, as the market participants seemingly are hell-bent on selling off the US dollar. That being said, it is probably worth noting that the retail sales number in the United States came out weaker than anticipated. Because of this, it looks like there’s been a run toward the US dollar and the relative safety of it, and Friday has been a bit of weakness. Whether or not that sticks remains to be seen, but it clearly is a situation where we have a lot of noise ahead of us.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 6:50 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-406.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The Euro initially pulled back just a bit during the trading week, breaking below the 1.09 level. However, by the end of the week we have seen the market turn right back around to show strength again, as the market participants seemingly are hell-bent on selling off the US dollar. That being said, it is probably worth noting that the retail sales number in the United States came out weaker than anticipated. Because of this, it looks like there’s been a run toward the US dollar and the relative safety of it, and Friday has been a bit of weakness. Whether or not that sticks remains to be seen, but it clearly is a situation where we have a lot of noise ahead of us.</p>
+    	<p>Breaking above the 200-Week EMA opens up the possibility of a move to the 1.1250 level, an area that has been important multiple times. In that scenario, we could very well have a move that extends all the way to the 1.15 level, but this would assume that we will continue to see the oversold conditions of the dollar remain. Things are getting a bit stretched, so it would make a certain amount of sense to see a bit of a pullback anyway. With that being the case, you would anticipate seeing a certain amount of value hunters coming into the picture and trying to get long again.</p>	
+    	<p>With this, the market is likely to continue seeing a lot of volatility, as traders wish for one thing, but seemingly the Federal Reserve is ignoring them. As long as that’s going to be the case, you could see a lot of volatility in this market, so therefore your position sizing will be crucial. That’s going to be true in this market, and just about anything else you are trading at the moment. The uncertainty out there is palpable, and therefore has created very difficult trading environments for most raters. The 50-Week EMA is just above the 1.06 level, so it might be worth paying close attention to as a potential target as well.</p>	
+    </div>
+  },
+  {
+    id: 395,
+    title: 'USD/JPY Forecast – US Dollar Stabilizes Against the Japanese Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar went back and forth during the trading session on Friday as we continue to see a lot of volatility in Forex markets around the world. That being said, the market sits just below the 50-Day EMA, which of course is an indicator that a lot of people will be paying attention to. However, the 50-Day EMA, and the 200-Day EMA for that matter, are both relatively flat so I don’t know whether or not the markets will pay a lot of attention to it. That being said, if we break above there, then it would be sign of strength.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 5:52 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-407.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar went back and forth during the trading session on Friday as we continue to see a lot of volatility in Forex markets around the world. That being said, the market sits just below the 50-Day EMA, which of course is an indicator that a lot of people will be paying attention to. However, the 50-Day EMA, and the 200-Day EMA for that matter, are both relatively flat so I don’t know whether or not the markets will pay a lot of attention to it. That being said, if we break above there, then it would be sign of strength.</p>
+	    <p>On a breakout above the 200-Day EMA, then the market could go looking toward the ¥135 level, which is an area where we had seen resistance previously and have even seen support from time to time. It’s a large, round, psychologically important figure, so that in and of itself will probably have a lot of influence on the fact that it is not only a magnet for price, but it’s also going to offer a little bit of volatility if we get to that area.</p>	
+	    <p>On the other hand, if we break down below the bottom of the candlestick for the trading session on Thursday, we could see the market dropped back down to the ¥131 level, an area that has been important previously, and therefore I think it could offer a significant support. If the market were to break down below the ¥130 level, then the very last messages of support would be near the ¥127.50 level, which was where we formed a double bottom.</p>	
+	    <p>Ultimately, this is a market that will continue to be very volatile, but at the end of the day I think we get a situation where we will have to pay attention to the bond markets and interest rates, as the market is highly influenced by the 10 year notes from both countries and the differential. Remember, the Bank of Japan continues its yield curve control policy as well, which also has a major influence on this pair.</p>
+    </div>
+  },
+  {
+    id: 396,
+    title: 'GBP to USD Forecast – British Pound Pulls Back From Crucial 1.25 Level',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound had initially tried to rally a bit during the trading session on Friday but gave back the gains almost immediately after the retail sales number came out of the United States much weaker than anticipated, therefore it looks like people are starting to run toward safety, as the Federal Reserve seems to be hell-bent on tightening into an economically weak situation. If that’s going to be the case, then it’s very likely that we will see ripples throughout the financial markets across the world, and ironically could make the US dollar stronger.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 5:46 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-408.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound had initially tried to rally a bit during the trading session on Friday but gave back the gains almost immediately after the retail sales number came out of the United States much weaker than anticipated, therefore it looks like people are starting to run toward safety, as the Federal Reserve seems to be hell-bent on tightening into an economically weak situation. If that’s going to be the case, then it’s very likely that we will see ripples throughout the financial markets across the world, and ironically could make the US dollar stronger.</p>
+    	<p>The British pound of course has been one of the better performing currencies around the world, so I think at the very least you could probably look at this as a situation where the British pound will probably outperform other currencies against the greenback regardless of how we react from here, but nonetheless it certainly looks as if we are getting a little bit overstretched. The 1.24 level underneath should be support, so if we break down below there, then it would obviously be a very negative turn of events.</p>	
+    	<p>If we were to break down below there, then it’s likely that we could go looking to the 50-Day EMA, closer to the 1.2250 level. On the other hand, if we turn around and take off to the upside and break above the highs for the session on Friday, then it’s very possible that the market could go to the 1.2650 level, followed by the 1.2750 level, both areas have seen a little bit of noise recently. At the end of the day, this is a situation where the market probably needs the pullback to find enough value to get involved in this market to the upside. Regardless, this market will probably continue to be noisy, right along with so many others as there are a lot of questions out there about where we are going next. Expect volatility, and size your positions accordingly, as the market seemed very erratic to say the least.</p>	
+    </div>
+  },
+  {
     id: 335,
     title: 'Pound stays strong against dollar as rally continues',
     category: 'Forex',
