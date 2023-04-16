@@ -127,7 +127,7 @@ export default function Header() {
                   <a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#">{t("ncx_wallet")}</a>
+                  <a href="/wallet">{t("ncx_wallet")}</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="/ncx-token">{t("ncx_token")}</a>

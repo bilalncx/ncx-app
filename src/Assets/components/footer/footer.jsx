@@ -31,7 +31,7 @@ function MyFooter()
                             <li><a href="/markets">{t("markets")}</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                             <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
-                            <li><a href="#">{t("ncx_defi_wallet")}</a></li>
+                            <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
                             <li><a href="/ncx-token">{t("ncx_token")}</a></li>
                             <li><a href="#">{t("equities_trading")}</a></li>
                             <li><a href="#">{t("forex_trading")}</a></li>
@@ -135,7 +135,7 @@ function MyFooter()
                         <li><a href="/markets">{t("markets")}</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
-                        <li><a href="#">{t("ncx_defi_wallet")}</a></li>
+                        <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
                         <li><a href="/ncx-token">{t("ncx_token")}</a></li>
                         <li><a href="#">{t("equities_trading")}</a></li>
                         <li><a href="#">{t("forex_trading")}</a></li>
