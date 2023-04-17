@@ -49,6 +49,9 @@ h1.market_benefits span, .transaction_rebates .hsd13 h3 span {
 #marketmakers_page .ambassadordiv .container{
     position: absolute;
 }
+#marketmakers_page #mkt__mkr__ndd .card_imgb video {
+    height: 100% !important;
+}
 p.mkr_rebate_mbl {
     display: none;
 }

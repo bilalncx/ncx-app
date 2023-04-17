@@ -5,8 +5,8 @@ import CryptoCard1 from '../../../images/ncx-derivatives-trading.png';
 import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
-import NCXAPPVideo from '../../../images/ncx_app_vi.mp4';
-import OTCMobileVideo from '../../../images/buy_page.mp4';
+import NCXAPPVideo from '../../../images/ncx-wallet-video.mp4';
+import OTCMobileVideo from '../../../images/ncx-wallet-video.mp4';
 
 function FirstVideo()
 {
