@@ -2,7 +2,7 @@ import React from "react";
 
 function BuyWidfet(){
     return(
-        <div className="bbuss">
+        <div id="buy_crypto" className="bbuss">
             <iframe
             src="https://buy.onramper.com/?apiKey=pk_prod_01GV5X7Q5Y8130N3WEBJA4JFAV"
             

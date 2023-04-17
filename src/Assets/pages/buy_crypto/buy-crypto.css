@@ -16,9 +16,9 @@ img.buy-ss22 {
 }
 
 @media screen and (min-width: 1300px){
-    .buycrypt-row .col.coinsect {
+    /* .buycrypt-row .col.coinsect {
         padding: 0px 170px 0px 50px !important;
-    }
+    } */
     #ncxbuycrypto-desk video{
         min-height: 650px !important;
         object-position: right bottom;
@@ -30,13 +30,13 @@ img.buy-ss22 {
         object-position: right bottom;
     }
 }
-.container990 {
+/* .container990 {
     max-width: 1450px !important;
     margin: 0 auto !important;
-}
-.col.coinsect{
+} */
+/* .col.coinsect{
     padding: 0px 0px 0px 50px !important;
-}
+} */
 @media screen and (max-width: 1100px){
     .crypto-assets.row .col.coin-details {
         width: 30% !important;
@@ -45,8 +45,10 @@ img.buy-ss22 {
         object-position: center center !important;
     }
     .col.coinsect h1{
-        font-size: 32px !important;
+        font-size: 42px !important;
         width: 100% !important;
+        line-height: 60px !important;
+
     }
     .crypto-assets.row .col.coin-details h1 {
         font-size: 14px !important;
@@ -54,6 +56,10 @@ img.buy-ss22 {
     .col.coinsect p{
         font-size: 14px !important;
         line-height: 22px !important;
+        max-width: 100% !important;
+    }
+    .inner__cc {
+        max-width: 400px !important;
     }
     .crypto-assets.row .col.coin-details p {
         font-size: 12px !important;
