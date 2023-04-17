@@ -14,6 +14,9 @@ img.buy-ss22 {
 #mobile-shoss{
     display: none;
 }
+#buy_crypto iframe {
+    width: 100%;
+}
 
 @media screen and (min-width: 1300px){
     /* .buycrypt-row .col.coinsect {

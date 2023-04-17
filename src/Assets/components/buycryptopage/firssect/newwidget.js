@@ -3,6 +3,9 @@ import { MarketData } from "react-ts-tradingview-widgets";
 import { MarketOverview } from "react-ts-tradingview-widgets";
 import { StockMarket } from "react-ts-tradingview-widgets";
 import { ForexCrossRates } from "react-ts-tradingview-widgets";
+// import TestWidget from './test';
+
+
 function NCXWidget()
 {
     return(
@@ -18,7 +21,7 @@ function NCXWidget()
                 width="100%" 
                 dateRange="12M" 
                 showChart="true" 
-                showSymbolLogo="true" 
+                // showSymbolLogo="true" 
                 showFloatingTooltip="true" 
                 plotLineColorFalling="rgba(152, 0, 255, 1)" 
                 plotLineColorGrowing="rgba(152, 0, 255, 1)" 
@@ -29,8 +32,12 @@ function NCXWidget()
                 belowLineFillColorGrowingBottom="rgba(41, 98, 255, 0)" 
                 belowLineFillColorFallingBottom="rgba(41, 98, 255, 0)" 
                 symbolActiveColor="rgba(180, 167, 214, 0.12)"
+                // tabs={"indices, futures"}
+                showSymbolLogo={"INDEX:DEU40, INDEX:NKY"}
             >
             </MarketOverview>
+
+            {/* <TestWidget /> */}
 
             {/* <StockMarket colorTheme="light" height={800} width="100%"></StockMarket>
 
