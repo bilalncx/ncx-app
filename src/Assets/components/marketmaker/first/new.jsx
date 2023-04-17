@@ -6,6 +6,7 @@ import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import NCXAPPVideo from '../../../images/ncx_app_vi.mp4';
+import OTCMobileVideo from '../../../images/buy_page.mp4';
 
 function FirstVideo()
 {
@@ -41,7 +42,15 @@ function FirstVideo()
             </div>
 
             <div id="mobileSlider">
-                <CarouselProvider
+                <video
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    >
+                    <source src={OTCMobileVideo} type="video/mp4" />
+                </video>
+                {/* <CarouselProvider
                         visibleSlides={1}
                         totalSlides={2}
                         step={1}
@@ -56,14 +65,7 @@ function FirstVideo()
                     >
                     <Slider className="slider">
                         <Slide index={0}>
-                            <video
-                                autoPlay={true}
-                                muted={true}
-                                loop={true}
-                                playsInline={true}
-                                >
-                                <source src={NCXAPPVideo} type="video/mp4" />
-                            </video>
+                            <img src={CryptoCard2} alt="ncx_crypto_card" />
                         </Slide>
                         <Slide index={1}>
                             <img src={CryptoCard1} alt="ncx_crypto_card" />
@@ -71,7 +73,7 @@ function FirstVideo()
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>
                     <ButtonNext className="pich"><div className="circle"></div></ButtonNext>
-                </CarouselProvider>
+                </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>NCX Market Maker</h1>

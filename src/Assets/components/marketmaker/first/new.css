@@ -31,8 +31,10 @@
         align-items: center;
     }
     #mkt__mkr__ndd #mobileSlider video {
+        min-height: 490px;
+        object-fit: cover;
         width: 100%;
-        max-height: 320px;
+        max-height: 700px;
     }
     #mkt__mkr__ndd #mobileSlider  .carousel__slider-tray{
         display: flex;

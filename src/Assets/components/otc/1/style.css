@@ -218,26 +218,35 @@ svg.styles_icon__C_hdQ {
     }
     .txx_grad{
         padding: 20px !important;
+        background: transparent !important;
     }
     .txx_grad h1 {
         font-size: 20px;
+        color: #000000 !important;
+    }
+    .arrow__sff{
+        margin-bottom: 40px;
     }
     .txx_grad h3{
         font-size: 12px;
-        margin-bottom: 30px;
+        color: #000000 !important;
     }
     .txx_grad p{
         font-size: 14px !important;
         line-height: 20px !important;
+        color: #000000 !important
     }
     .txx_grad:hover{
-        background: transparent !important;
+        background: linear-gradient(113.9deg, #9F61FA 17.88%, #7055CF 100.05%) !important;
     }
     .txx_grad:hover h1, .txx_grad:hover p, .txx_grad:hover h3{
-        color: #000000 !important;
+        color: #FFFFFF !important;
+    }
+    .txx_grad svg path{
+        fill:#9E61F8 !important ;
     }
     .txx_grad:hover svg path{
-        fill:#9E61F8;
+        fill:#FFFFFF !important;
     }
     .txx_grad:hover svg{
         transform: rotate(45deg);

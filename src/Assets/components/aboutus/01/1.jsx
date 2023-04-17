@@ -20,7 +20,7 @@ function FirstVideo()
                         <p>{t("about_us_text")}</p>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("sign_up")}</Button>
-                            <Button href="#" className="card_learn">{t("learn_more")}</Button>
+                            <Button href="#about_institution" className="card_learn">{t("learn_more")}</Button>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ function FirstVideo()
                         <p>{t("about_us_text")}</p>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("sign_up")}</Button>
-                            <Button href="#" className="card_learn">{t("learn_more")}</Button>
+                            <Button href="#about_institution" className="card_learn">{t("learn_more")}</Button>
                         </div>
                     </div>
                 </div>

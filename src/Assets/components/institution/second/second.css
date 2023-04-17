@@ -37,6 +37,7 @@ div#solutions_institutional {
 } */
 #solutions_institutional .otctxt p{
     color: #616262 !important;
+    min-height: unset;
 }
 .ncx-otc.solutions{
     align-items: center;
@@ -48,6 +49,14 @@ div#solutions_institutional {
     padding-left: 10px;
     border-left: 1px solid #000000;
 }
+@media screen and (min-width: 801px){
+    #ncx_institution .otctxt {
+        min-height: 235px;
+    }
+    #ncx_institution #solutions_institutional .OTCsect.second.row .col .otc-line {
+        height: 275px !important;
+    }
+}
 @media screen and (max-width: 800px) {
     .liquidity-row .otctxt {
         min-height: 220px;
@@ -55,6 +64,9 @@ div#solutions_institutional {
     .otc-image img {
         height: 26px;
         width: auto;
+    }
+    #ncx_about .liquidity-row .otc-line{
+        height: 200px !important;
     }
     .liquidity-row .otc-line {
         height: 255px !important;

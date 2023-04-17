@@ -8,6 +8,7 @@ import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg'
 import BuyCrypotVideo from '../../../images/buy_page.mp4';
 import { ReactComponent as RewardStar } from '../../../images/ncx-reward-star.svg';
 import { useTranslation } from "react-i18next";
+import MobileBuyCrypotVideo from '../../../images/ncxbuy-cryptovideo.mp4';
 
 
 function BuyCrypto(){
@@ -27,7 +28,7 @@ function BuyCrypto(){
                     </div>
                 </div>
             </div>
-            <div className="container990">
+            <div id="dek__top" className="container990">
                 <div className="buycrypt-row">
                     <div className="col coinsect">
                         <div className="inner__cc">
@@ -86,6 +87,33 @@ function BuyCrypto(){
                                     // poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
                                     <source src={BuyCrypotVideo} type="video/mp4" />
+                                </video>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="mbl_cr__sd" className="container990">
+                <div className="buycrypt-row">
+                    <div className="col coinsect">
+                        <div className="inner__cc">
+                            <h1>Buy & Sell Crypto Instantly</h1>
+                            <p>Buy & Sell Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer. Simply enter the currency & amount and chose among the available payment methods, the best available rate is displayed by default, you can easily switch between providers and payment methods and chose the one right for you.</p>
+                        </div>
+                    </div>
+                    <div className="col buysell-sect">
+                        <div id="ncxbuycrypto-desk">
+                            <div className="desktop">
+                                <video
+                                    autoPlay={true}
+                                    muted={true}
+                                    loop={true}
+                                    playsInline={true}
+                                    preload="auto"
+                                    poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
+                                    >
+                                    <source src={MobileBuyCrypotVideo} type="video/mp4" />
                                 </video>
                             </div>
                         </div>

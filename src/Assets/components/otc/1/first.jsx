@@ -362,7 +362,7 @@ function FirstVideo()
                             </div>
                             <h1>Our trading engine provides you with a custom quote instantly and securely</h1>
                         </div>
-                        <div className="col third">
+                        <div className="col">
                             <div className="cho__log">
                                 <p>Fast Settlement</p>
                                 <SafeArrow />

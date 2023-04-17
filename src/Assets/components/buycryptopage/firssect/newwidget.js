@@ -9,9 +9,9 @@ function NCXWidget()
     return(
         <div className="economic_calendar">
             <div className="container">
-            <EconomicCalendar colorTheme="light" height={800} width="100%" locale="en" currencyFilter="USD,EUR,ITL,NZD,CHF,AUD,FRF,JPY,ZAR,TRL,CAD,DEM,MXN,ESP,GBP" importanceFilter="-1,0,1"></EconomicCalendar>
+            {/* <EconomicCalendar colorTheme="light" height={800} width="100%" locale="en" currencyFilter="USD,EUR,ITL,NZD,CHF,AUD,FRF,JPY,ZAR,TRL,CAD,DEM,MXN,ESP,GBP" importanceFilter="-1,0,1"></EconomicCalendar>
 
-            <MarketData colorTheme="light" width="100%" height={800} locale="en"></MarketData>
+            <MarketData colorTheme="light" width="100%" height={800} locale="en"></MarketData> */}
 
             <MarketOverview colorTheme="light" height={800} width="100%" dateRange="12M" showChart="true" 
             showSymbolLogo="true" showFloatingTooltip="true" plotLineColorFalling="rgba(152, 0, 255, 1)" 
@@ -22,9 +22,9 @@ function NCXWidget()
                 
             </MarketOverview>
 
-            <StockMarket colorTheme="light" height={800} width="100%"></StockMarket>
+            {/* <StockMarket colorTheme="light" height={800} width="100%"></StockMarket>
 
-            <ForexCrossRates colorTheme="light" height={800} width="100%"></ForexCrossRates>
+            <ForexCrossRates colorTheme="light" height={800} width="100%"></ForexCrossRates> */}
             </div>
         </div>
     )

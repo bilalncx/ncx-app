@@ -119,7 +119,7 @@ function NCXAssetManagement()
                                 <p>Custody and Asset Management Service help Cryptocurrency Miners safeguard their mining rewards and ensure the mining rewards are disseminated to their clients without any operation surprises.</p>
                             </div>
                         </div>
-                        <div className="col third">
+                        <div className="col">
                             <div className="cho__log">
                                 <p>High Net-worth Investors</p>
                                 <SafeArrow />

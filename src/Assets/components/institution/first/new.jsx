@@ -5,6 +5,7 @@ import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import NCXAPPVideo from '../../../images/ncx_app_vi.mp4';
+import OTCMobileVideo from '../../../images/buy_page.mp4';
 
 function FirstVideo()
 {
@@ -20,7 +21,7 @@ function FirstVideo()
                         <h1>{t("services")}</h1>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("contact_us")}</Button>
-                            <Button href="#" className="card_learn">{t("learn_more")}</Button>
+                            <Button href="#solutions_institutional" className="card_learn">{t("learn_more")}</Button>
                         </div>
                     </div>
                 </div>
@@ -41,7 +42,15 @@ function FirstVideo()
             </div>
 
             <div id="mobileSlider">
-                <CarouselProvider
+                <video
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    >
+                    <source src={OTCMobileVideo} type="video/mp4" />
+                </video>
+                {/* <CarouselProvider
                         visibleSlides={1}
                         totalSlides={2}
                         step={1}
@@ -64,7 +73,7 @@ function FirstVideo()
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>
                     <ButtonNext className="pich"><div className="circle"></div></ButtonNext>
-                </CarouselProvider>
+                </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>{t("NCX")}</h1>
@@ -73,7 +82,7 @@ function FirstVideo()
 
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("apply_now")}</Button>
-                            <Button href="#" className="card_learn">{t("learn_more")}</Button>
+                            <Button href="#solutions_institutional" className="card_learn">{t("learn_more")}</Button>
                         </div>
                     </div>
                 </div>

@@ -169,6 +169,11 @@ a.mrkt {
     background: #000000;
 }
 
+
+#mbl_cr__sd{
+    display: none;
+}
+
 @media screen and (max-width: 800px){
     #buyCryptoPage .earingingcomplet-sect{
         padding: 50px 0px;
@@ -226,5 +231,32 @@ a.mrkt {
     }
     .getocodesect{
         padding-top: 30px;
+    }
+
+    #mbl_cr__sd{
+        display: block;
+        background: #000000 !important;
+        padding-bottom: 20px !important;
+    }
+    #dek__top{
+        display: none;
+    }
+    #mbl_cr__sd .buycrypt-row, #mbl_cr__sd .col.coinsect{
+        background: transparent !important;
+        filter: none !important;
+    }
+    #mbl_cr__sd .col.coinsect h1 {
+        font-size: 32px !important;
+        line-height: 32px !important;
+        margin-bottom: 10px !important;
+        color: #FFFFFF !important;
+        font-family: 'hauora-medium' !important;
+    }
+    #mbl_cr__sd .col.coinsect p {
+        font-size: 14px !important;
+        line-height: 22px !important;
+        max-width: 100% !important;
+        color: #FFFFFF !important;
+        text-align: left !important;
     }
 }

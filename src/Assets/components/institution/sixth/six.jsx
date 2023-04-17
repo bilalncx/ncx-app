@@ -71,7 +71,7 @@ function DataandAnalytics()
                                 <p>NCX arm our traders with dynamic, aggregated market data to track cryptocurrency spot and derivatives markets in real-time.</p>
                             </div>
                         </div>
-                        <div className="col third">
+                        <div className="col">
                             <div className="cho__log">
                                 <p>Tax API & Transaction history</p>
                                 <SafeArrow />

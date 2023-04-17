@@ -299,4 +299,32 @@ p.insta-head {
     .institutional__ser {
         padding-bottom: 50px !important;
     }
+    #ncx_institution #mobileSlider video {
+        min-height: 490px;
+        object-fit: cover;
+        width: 100%;
+        max-height: 700px;
+    }
+    #ncx_institution #trading_solutions summary{
+        border-top: 0.5px solid rgb(0,0,0, 0.3) !important;
+    }
+    #ncx_institution #institutional_about .structured_product .otctxt{
+        min-height: 210px !important;
+    }
+    #ncx_institution #institutional_about .structured_product .otc-line{
+        height: 245px !important;
+    }
+    #ncx_institution .why__choose__Otc .col.third{
+        background: transparent !important;
+    }
+    /* body #ncx_institution .why__choose__Otc .col.third h1, body #ncx_institution .why__choose__Otc .col.third p, 
+    body #ncx_institution .why__choose__Otc .col.third h3{
+        color: #000000 !important;
+    }
+    body #ncx_institution #data__ana .col.third .cho__log p{
+        color: #A1A3A7 !important   ;
+    }
+    body #ncx_institution #data__ana .cho__log svg path{
+        fill: #9E61F8 !important;
+    } */
 }

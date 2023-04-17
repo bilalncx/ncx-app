@@ -93,7 +93,8 @@ p.mkr_rebate_mbl {
     .market-discount h1{
         font-size: 26px !important;
         line-height: 32px !important;
-        width: 70%;
+        width: 100%;
+        display: inline-block !important;
     }
     #marketmakers_page .market-tabs-btn {
         display: flex;
