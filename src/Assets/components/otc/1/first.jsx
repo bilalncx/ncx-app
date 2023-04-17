@@ -15,6 +15,7 @@ import { ReactComponent as OTC5 } from '../../../images/about-5.svg';
 import { ReactComponent as OTC6 } from '../../../images/about-6.svg';
 import {ReactComponent as SafeArrow} from '../../../images/safe-arrow.svg';
 import NCXAppvideo from '../../../images/ncx_app_vi.mp4';
+import OTCMobileVideo from '../../../images/buy_page.mp4';
 
 
 function FirstVideo()
@@ -53,7 +54,15 @@ function FirstVideo()
 
 
             <div id="mobileSlider">
-                <CarouselProvider
+                <video
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    >
+                    <source src={OTCMobileVideo} type="video/mp4" />
+                </video>
+                {/* <CarouselProvider
                         visibleSlides={1}
                         totalSlides={2}
                         step={1}
@@ -76,7 +85,7 @@ function FirstVideo()
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>
                     <ButtonNext className="pich"><div className="circle"></div></ButtonNext>
-                </CarouselProvider>
+                </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>Large trades</h1>
@@ -108,7 +117,10 @@ function FirstVideo()
                         </div>
                         <div className="col">
                             <div className="txx_grad">
-                                <h3>Trade in large blocks with competitive rates</h3>
+                                <div className="arrow__sff">
+                                    <h3>Trade in large blocks with competitive rates</h3>
+                                    <SafeArrow />
+                                </div>
                                 <h1>NCX Over-the-Counter (OTC)</h1>
                                 <p>OTC or over-the-counter trading is a method of trading crypto typically reserved for institutions and high-volume traders.  NCX OTC Desk executes large trades for big buyers who need significant liquidity.</p>
                             </div>

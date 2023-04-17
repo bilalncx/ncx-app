@@ -68,8 +68,9 @@
 }
 .txx_grad {
     background: linear-gradient(113.9deg, #9F61FA 17.88%, #7055CF 100.05%);
-    border: 1px solid rgba(0, 0, 0, 0.2);
+    /* border: 1px solid rgba(0, 0, 0, 0.2); */
     padding: 30px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.05);
 }
 #ncx_cryptoCard div#institutional_about {
     margin-bottom: 50px;
@@ -81,7 +82,8 @@
 }
 .why__choose__Otc .row .col {
     width: 32%;
-    border: 1px solid rgba(0, 0, 0, 0.2);
+    /* border: 1px solid rgba(0, 0, 0, 0.2); */
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.05);
     padding: 20px 30px;
     flex: inherit;
     display: flex;
@@ -148,6 +150,7 @@ h1.why__otc span::before{
 }
 .why__choose__Otc .row .col:hover{
     background: linear-gradient(102.71deg, #A061FA 3.4%, #7356D2 96.68%);
+    border: none !important;
     cursor: pointer;
 }
 .why__choose__Otc .row .col:hover h1, .why__choose__Otc .row .col:hover p, .why__choose__Otc .col:hover svg path{
@@ -172,6 +175,11 @@ svg.styles_icon__C_hdQ {
 }
 .why__choose__Otc .row .col:hover svg{  
     transform: rotate(45deg);
+}
+.arrow__sff {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
 }
 
 
@@ -212,7 +220,27 @@ svg.styles_icon__C_hdQ {
         padding: 20px !important;
     }
     .txx_grad h1 {
-        font-size: 22px;
+        font-size: 20px;
+    }
+    .txx_grad h3{
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+    .txx_grad p{
+        font-size: 14px !important;
+        line-height: 20px !important;
+    }
+    .txx_grad:hover{
+        background: transparent !important;
+    }
+    .txx_grad:hover h1, .txx_grad:hover p, .txx_grad:hover h3{
+        color: #000000 !important;
+    }
+    .txx_grad:hover svg path{
+        fill:#9E61F8;
+    }
+    .txx_grad:hover svg{
+        transform: rotate(45deg);
     }
     #ncx_cryptoCard #institutional_about .otctxt p {
         height: unset !important;
@@ -275,5 +303,11 @@ svg.styles_icon__C_hdQ {
     .why__choose__Otc h1 {
         font-size: 20px;
         line-height: 30px;
+    }
+    #ncxotc-page #mobileSlider video {
+        min-height: 490px;
+        object-fit: cover;
+        width: 100%;
+        max-height: 700px;
     }
 }

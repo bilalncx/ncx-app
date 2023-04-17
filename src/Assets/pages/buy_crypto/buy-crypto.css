@@ -23,6 +23,9 @@ img.buy-ss22 {
         min-height: 650px !important;
         object-position: right bottom;
     }
+    .buycrypto-page .coinsect{
+        min-height: 650px;
+    }
 }
 @media screen and (max-width: 1399px){
     #ncxbuycrypto-desk video{
