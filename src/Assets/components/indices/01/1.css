@@ -1,0 +1,103 @@
+.trade__cfd {
+    background: #000000;
+    padding: 100px 0px;
+}
+.trade__cfd .container {
+    max-width: 1100px;
+}
+.indices__tab {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 70rem;
+}   
+button.ind__tab {
+    border: 1px solid hsla(0,0%,100%,.2);
+    color: #FFFFFF;
+    padding: 10px 0px !important;
+    background-color: #000;
+    font-weight: 400;
+    border-radius: 50px;
+    flex: 0 0 33.333%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    max-width: 32.5%;
+    margin-bottom: 15px;
+    height: 46.86px;
+}
+button.ind__tab.active {
+    border: 2px #5ed3f0 solid;
+    color: #5ed3f0;
+}
+.ind__cont_tabs {
+    margin-top: 50px;
+}
+.ind__cont table {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: #111111;
+    padding: 20px 40px 50px 40px;
+}
+.ind__cont table tr{
+    flex: 0 0 46%;
+    justify-content: space-between;
+    padding: 20px 10px !important;
+    border-bottom: 1px solid hsla(0,0%,100%,.1) !important;
+}
+.ind__cont table tr td{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'urbanist-light';
+}
+.ind__cont {
+    display: none;
+}
+.ind__cont.active {
+    display: block;
+}
+.ind__cont table tr:hover {
+    background: rgb(94,211,240,0.05);
+}
+.ind__cont table tr:hover td{
+    color: #5ed3f0;
+}
+h1.hs_dpp {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'urbanist-light';
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+@media screen and (max-width: 800px){
+    .indices__tab{
+        gap: 10px;
+    }
+    button.ind__tab{
+        padding: 10px !important;
+        font-size: 14px !important;
+        max-width: unset !important;
+        margin-bottom: 0px !important;
+        flex: auto !important;
+    }
+    .ind__cont table{
+        padding: 15px 15px 30px 15px !important;
+    }
+    .ind__cont table tr td{
+        font-size: 14px;
+    }
+    .ind__cont table tr{
+        flex: 0 0 100%;
+    }
+    h1.hs_dpp{
+        font-size: 26px;
+        line-height: 32px;
+        margin-bottom: 30px;
+    }
+    .ind__cont_tabs{
+        margin-top: 20px;
+    }
+}

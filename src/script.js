@@ -138,6 +138,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/wallet") > -1){
       $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/indices") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }
