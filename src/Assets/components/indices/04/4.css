@@ -59,3 +59,7 @@
     color: #B9B9BB;
     margin-bottom: 20px;
 }
+.global__row.row .col:hover{
+    border: 1px solid #5ed3f0;
+    box-shadow: 0 0 15px rgba(94,211,240,.75);
+}
