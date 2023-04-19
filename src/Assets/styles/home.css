@@ -55,6 +55,26 @@
     font-family: "alliance-no-2-regular";
     src: url(../fonts/Alliance-no-2-regular.otf);
 }
+@font-face {
+    font-family: 'roboto-regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'roboto-regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'roboto-light';
+    src: url(../fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: 'roboto-bold';
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: 'roboto-medium';
+    src: url(../fonts/Roboto-Medium.ttf);
+}
 /************************** Body Fonts family Ends from here *************************/
 
 .body-overflow {

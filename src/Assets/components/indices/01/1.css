@@ -34,13 +34,15 @@ button.ind__tab.active {
 .ind__cont_tabs {
     margin-top: 50px;
 }
-.ind__cont table {
+.ind__cont {
     width: 100%;
+    background: #111111;
+    padding: 20px 40px 50px 40px;
+}
+.ind__cont table{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    background: #111111;
-    padding: 20px 40px 50px 40px;
 }
 .ind__cont table tr{
     flex: 0 0 46%;
@@ -52,6 +54,7 @@ button.ind__tab.active {
     color: #FFFFFF;
     font-size: 16px;
     font-family: 'urbanist-light';
+    text-align: end;
 }
 .ind__cont {
     display: none;
@@ -72,6 +75,51 @@ h1.hs_dpp {
     font-size: 32px;
     margin-bottom: 50px;
 }
+.inner__contt .crypto__cont {
+    display: none;
+}
+.inner__contt .crypto__cont.active {
+    display: block;
+}
+.inner__crypto {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-height: 40px;
+    margin: 20px 0px 40px 0px;
+}
+button.crypto__tab {
+    border: 1px solid hsla(0,0%,100%,.2);
+    color: #FFFFFF;
+    padding: 0px 10px !important;
+    background-color: #000;
+    font-weight: 400;
+    border-radius: 50px;
+    flex: 0 0 12%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    margin-bottom: 15px;
+    height: 40px;
+}
+button.crypto__tab.active, button.stock__tab.active{
+    border: 1.5px #5ed3f0 solid;
+    color: #5ed3f0;
+}
+button.stock__tab{
+    border: 1px solid hsla(0,0%,100%,.2);
+    color: #FFFFFF;
+    padding: 0px 10px !important;
+    background-color: #000;
+    font-weight: 400;
+    border-radius: 50px;
+    flex: 0 0 22%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    margin-bottom: 15px;
+    height: 40px;
+}
 @media screen and (max-width: 800px){
     .indices__tab{
         gap: 10px;
@@ -83,7 +131,7 @@ h1.hs_dpp {
         margin-bottom: 0px !important;
         flex: auto !important;
     }
-    .ind__cont table{
+    .ind__cont{
         padding: 15px 15px 30px 15px !important;
     }
     .ind__cont table tr td{
@@ -99,5 +147,15 @@ h1.hs_dpp {
     }
     .ind__cont_tabs{
         margin-top: 20px;
+    }
+    button.crypto__tab, button.stock__tab{
+        padding: 10px !important;
+        font-size: 14px !important;
+        max-width: unset !important;
+        margin-bottom: 0px !important;
+        flex: auto !important;
+    }
+    .inner__crypto{
+        max-height: inherit;
     }
 }

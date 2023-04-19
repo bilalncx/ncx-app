@@ -1,0 +1,61 @@
+.global__mart {
+    padding: 70px 0px;
+}
+.global__row.row {
+    margin: 0px;
+    display: flex;
+    flex-flow: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.global__row.row .col {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(2px);
+    border-radius: 4px;
+    flex: 0 0 21%;
+    min-height: 324px;
+    padding: 25px 20px;
+    text-align: center;
+}
+.global__mart .container{
+    background: url(../../../images/indices_ellipse2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    padding-top: 60px;
+    position: relative;
+}
+.global__row img, .global__row svg {
+    width: 105px;
+    height: 105px;
+}
+.global__mart .container:before {
+    content: '';
+    width: 50%;
+    height: 0.5px;
+    background: rgba(255, 255, 255, 0.3);
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.global__row h2 {
+    font-size: 22px;
+    font-family: 'roboto-light';
+    color: #FFFFFF;
+    width: 90%;
+    margin: 0 auto;
+    min-height: 49px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+.global__row p{
+    font-size: 16px;
+    font-family: 'roboto-light';
+    line-height: 22px;
+    color: #B9B9BB;
+    margin-bottom: 20px;
+}
