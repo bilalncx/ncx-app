@@ -1,0 +1,39 @@
+.mrkt__cfds {
+    padding: 50px 0px;
+}
+.assets__ro h2 {
+    font-size: 16px;
+    font-family: 'roboto-medium';
+    color: #FFFFFF;
+    margin-bottom: 25px;
+    line-height: 22px;
+}
+.assets__ro p {
+    font-size: 16px;
+    font-family: 'roboto-light';
+    color: #FFFFFF;
+    padding-right: 15px;
+    line-height: 24px;
+}
+.assets__ro p strong {
+    font-family: 'roboto-medium';
+    font-weight: 500;
+    letter-spacing: 0.1px;
+}
+.assets__ro.row {
+    margin: 0px;
+    display: flex;
+    flex-flow: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.assets__ro.row .col {
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 4px;
+    flex: 0 0 21%;
+    padding: 30px 20px;
+}
+.assets__ro.row .col:hover{
+    border: 1px solid #5ED3F0;
+    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
+}

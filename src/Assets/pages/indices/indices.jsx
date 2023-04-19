@@ -6,6 +6,9 @@ import Indices1 from "../../components/indices/01/1";
 import Indices2 from "../../components/indices/02/2";
 import Indices3 from "../../components/indices/03/3";
 import Indices4 from "../../components/indices/04/4";
+import Indices5 from "../../components/indices/05/5";
+import Indices6 from "../../components/indices/06/6";
+import Indices7 from "../../components/indices/07/7";
 
 function IndicesPage()
 {
@@ -21,6 +24,12 @@ function IndicesPage()
         <Indices3 />
 
         <Indices4 />
+
+        <Indices5 />
+
+        <Indices6 />
+
+        <Indices7 />
 
         <MyFooter />
 

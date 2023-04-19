@@ -1,0 +1,6 @@
+#section__7 .txt__vvv ul{
+    margin-bottom: 0px;
+}
+#section__7 .txt__vvv ul li:last-child{
+    margin-bottom: 0px !important;
+}
