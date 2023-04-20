@@ -1,6 +1,7 @@
 import React from "react";
 import './8.css';
-import HeaderImage from '../../../images/indices_head.png';
+import HeaderImage1 from '../../../images/indices_head-1.png';
+import HeaderImage2 from '../../../images/indices_head-2.png';
 import Button from "@mui/material/Button";
 
 function Indices8(){
@@ -34,7 +35,8 @@ function Indices8(){
                         </div>
                     </div>
                     <div className="col mgg">
-                        <img src={HeaderImage} />
+                        <img src={HeaderImage1} alt="prices"/>
+                        <img src={HeaderImage2} alt="prices"/>
                     </div>
                 </div>
             </div>

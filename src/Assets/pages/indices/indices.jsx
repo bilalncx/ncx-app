@@ -10,7 +10,9 @@ import Indices5 from "../../components/indices/05/5";
 import Indices6 from "../../components/indices/06/6";
 import Indices7 from "../../components/indices/07/7";
 import Indices8 from "../../components/indices/08/8";
+import TradingSteps from "../../components/indices/09/9";
 import BannerSection from "../../components/indices/10/10";
+import IndicesFAQ from "../../components/indices/11/11";
 
 function IndicesPage()
 {
@@ -34,6 +36,10 @@ function IndicesPage()
         <Indices6 />
 
         <Indices7 />
+
+        <IndicesFAQ />
+
+        <TradingSteps />
 
         <BannerSection />
 

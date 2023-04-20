@@ -6,7 +6,7 @@ function Indices2()
     return(
         <div className="trade__derivative">
             <div className="container">
-                <h1 className="gfd__fdr">Our most traded derivatives</h1>
+                <h1 className="fg__rer">Our most traded derivatives</h1>
                 <div className="row most_deri">
                     <div className="col">
                         <div className="logo__ff">

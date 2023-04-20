@@ -18,23 +18,24 @@
     padding: 25px 20px;
     text-align: center;
 }
-.global__mart .container{
+.global__mart{
     background: url(../../../images/indices_ellipse2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
     padding-top: 60px;
     position: relative;
+    margin-top: 60px;
 }
 .global__row img, .global__row svg {
     width: 105px;
     height: 105px;
 }
-.global__mart .container:before {
+.global__mart:before {
     content: '';
-    width: 50%;
+    width: 100%;
     height: 0.5px;
-    background: rgba(255, 255, 255, 0.15);
+    background: radial-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
     display: block;
     position: absolute;
     top: 0;

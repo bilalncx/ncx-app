@@ -53,18 +53,33 @@
 .pho__img img{
     max-height: 400px;
     width: auto;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    transition: .4s ease;
 }
 .pla__img img {
     width: 100%;
     max-width: 550px;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    transition: .4s ease;
 }
 .ipad__gg img{
     width: 100%;
     max-width: 400px;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    transition: .4s ease;
 }
 .ipad__gg {
     background: url(../../../images/indice_ellipse.png);
     background-repeat: no-repeat;
     background-size: 100% 150%;
     background-position: center;
+}
+.pho__img img:hover, .pla__img img:hover, .ipad__gg img:hover{
+    cursor: pointer;
+    transform: translateY(0) scale(1.06);
+    -webkit-transform: translateY(0) scale(1.06);
+    -moz-transform: translateY(0) scale(1.06);
 }

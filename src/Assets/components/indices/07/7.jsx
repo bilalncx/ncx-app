@@ -7,7 +7,7 @@ function Indices7()
     return(
         <div id="section__7" className="trade__derivative">
             <div className="container">
-                <h1 className="gfd__fdr">Get everything you need to take on global markets</h1>
+                <h1 className="fg__rer">Get everything you need to take on global markets</h1>
                 <div className="row most_deri">
                     <div className="col">
                         <div className="logo__ff">

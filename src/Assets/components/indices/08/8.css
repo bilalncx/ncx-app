@@ -2,7 +2,7 @@
     background: url(../../../images/ind__bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 120px 0px;
+    padding: 120px 0px 140px 0px;
     background-position: center;
 }
 .indices__hdd .row {
@@ -12,10 +12,6 @@
 .indices__hdd .row .col{
     flex: 0 0 50%;
     padding: 0px;
-}
-.col.mgg img {
-    width: 100%;
-    max-width: 650px;
 }
 .col.mgg{
     text-align: center;
@@ -84,7 +80,16 @@ a.get__ap:focus, a.get__ap:focus-visible{
     text-decoration: none;
 }
 a.up_sin:hover{
-    background: #5ED3F0;
-    border: 1.5px solid #5ED3F0 !important;
+    background: #000000;
+    border: 1.5px solid #000000 !important;
     box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
+}
+.col.mgg {
+    display: flex;
+    gap: 10px;
+}
+.col.mgg img {
+    width: 100%;
+    max-width: 330px;
+    border: 1px solid rgba(255,255,255,0.14);
 }
