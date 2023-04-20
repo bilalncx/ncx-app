@@ -1,0 +1,35 @@
+.ind__banner{
+    background: url(../../../images/indices_ellipse2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ind__banner .container{
+    position: relative;
+    padding: 100px 0px;
+}
+.ind__banner .container:before {
+    content: '';
+    width: 50%;
+    height: 0.5px;
+    background: rgba(255, 255, 255, 0.15);
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.row_ban{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row_ban img {
+    width: 100%;
+    max-width: 500px;
+}
+.row_ban .col {
+    width: 50%;
+    text-align: center;
+    flex: 0 0 45%;
+}

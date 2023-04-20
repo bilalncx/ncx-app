@@ -9,6 +9,8 @@ import Indices4 from "../../components/indices/04/4";
 import Indices5 from "../../components/indices/05/5";
 import Indices6 from "../../components/indices/06/6";
 import Indices7 from "../../components/indices/07/7";
+import Indices8 from "../../components/indices/08/8";
+import BannerSection from "../../components/indices/10/10";
 
 function IndicesPage()
 {
@@ -16,6 +18,8 @@ function IndicesPage()
         <div id="indicies__page">
         
         <MyHeader />
+
+        <Indices8 />
 
         <Indices2 />
 
@@ -30,6 +34,8 @@ function IndicesPage()
         <Indices6 />
 
         <Indices7 />
+
+        <BannerSection />
 
         <MyFooter />
 
