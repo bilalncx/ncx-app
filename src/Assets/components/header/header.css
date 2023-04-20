@@ -46,15 +46,15 @@ header#header-row.darkheader{
     outline: none !important;
 }
 .signin{
-    background: #34A9FF !important;
+    background: #5ED3F0 !important;
     color: #FFFFFF !important;
     min-width: 90px !important;
     width: fit-content !important;
     height: 34px !important;
-    border: 1.5px solid #34A9FF !important;
+    border: 1.5px solid #5ED3F0 !important;
 }
 .launch-dex{
-    border: 1.5px solid #34A9FF !important;
+    border: 1.5px solid #5ED3F0 !important;
     background: #000000 !important;
     color:  #FFFFFF !important;
     width: 72px !important;
@@ -62,7 +62,7 @@ header#header-row.darkheader{
     margin-right: 0px !important;
 }
 .launch-dex:hover{
-    background: #34A9FF !important;
+    background: #5ED3F0 !important;
 }
 .signin:focus, .signin:focus-visible, .launch-dex:focus, .launch-dex:focus-visible{
     text-decoration: none !important;
@@ -75,7 +75,7 @@ ul.navlink a {
     text-transform: capitalize !important;
 }
 /* ul.navlink a:hover{
-    color: #34A9FF !important;
+    color: #5ED3F0 !important;
 } */
 ul.navlink li {
     list-style-type: none;
@@ -88,7 +88,7 @@ ul.navlink li:after {
     top: 24px;
     width: 0;
     height: 2px;
-    background-color: #34A9FF;
+    background-color: #5ED3F0;
     transition: 1s;
 }
 ul.navlink li:hover:after {
@@ -231,7 +231,7 @@ a.header-more, li.main_title.white_bg:last-child a{
     width: fit-content;
 }
 .main_service a:hover, .social_link_inner a:hover{
-    color: #34A9FF !important;
+    color: #5ED3F0 !important;
 }
 .main_service a:first-child, .social_link_inner a:first-child, .mega_menu .boxx-links a:first-child{
     padding-top: 0px !important;
@@ -365,7 +365,7 @@ a.header-more, li.main_title.white_bg:last-child a{
     height: 40px;
 }
 .mega_menu .social-icons .icons a:hover{
-    background: #34A9FF !important;
+    background: #5ED3F0 !important;
     border: none !important;
     border-radius: 8px !important;
 }
@@ -382,12 +382,12 @@ a.header-more, li.main_title.white_bg:last-child a{
 }
 .mega_menu .boxx-links a:hover{
     /* background: rgba(52, 169, 255, 0.1); */
-    /* border: 0.2px solid #34A9FF; */
+    /* border: 0.2px solid #5ED3F0; */
     /* border-radius: 5px; */
     background: none;
     border: none;
     border-radius: none;
-    color: #34A9FF !important;
+    color: #5ED3F0 !important;
 }
 .mega_menu .boxx-links{
     margin-bottom: 40px;
@@ -473,7 +473,7 @@ a.header-more, li.main_title.white_bg:last-child a{
 }
 #main-header .login-buttons a.signin:hover {
     background: #000000 !important;
-    border: 1px solid #34A9FF !important;
+    border: 1px solid #5ED3F0 !important;
 }
 #header-row .MuiToolbar-regular {
     min-height: 56px !important;
@@ -530,7 +530,7 @@ a.header-more, li.main_title.white_bg:last-child a{
     padding: 0px !important;
 }
 .language-box a:hover{
-    color: #34A9FF !important;
+    color: #5ED3F0 !important;
 }
 div#tran_lang {
     display: flex;
@@ -801,7 +801,7 @@ div#tran_lang svg path {
         margin: 0 auto;
     }
     .navigation-menu.expanded ul li a:hover{
-        color: #34A9FF !important;
+        color: #5ED3F0 !important;
     }
     #header-newmobile .navigation-menu.expanded ul li a.launching-btn{
         width: 100% !important;
@@ -815,7 +815,7 @@ div#tran_lang svg path {
         background: transparent !important;
     }
     #header-newmobile .navigation-menu.expanded ul li a.launching-btn:hover{
-        background: #34A9FF !important;
+        background: #5ED3F0 !important;
         color: #FFFFFF !important;
     }
     #header-newmobile nav.navigation {
@@ -844,7 +844,7 @@ div#tran_lang svg path {
     }
     .dropbtn {
         background-color: #000000 !important;
-        border: 1.5px solid #34A9FF;
+        border: 1.5px solid #5ED3F0;
         padding: 7px 10px 7px 14px;
         border-radius: 7px;
         background: url(./drop.svg);

@@ -5,7 +5,7 @@ import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Button from "@mui/material/Button";
 import IconButton from "@mui/material/IconButton";
-import Logo from './NCX-logo.svg';
+import Logo from '../../images/new_sitelogo.svg';
 import './header.css';
 import { ReactComponent as NCXMore } from '../../images/ncx-header-more.svg';
 import { ReactComponent as AppleIcon } from '../../images/apple-icon.svg';

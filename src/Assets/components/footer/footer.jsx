@@ -1,6 +1,6 @@
 import React from "react";
 import '../footer/footer.css';
-import Footerlogo from '../footer/NCX-logo.svg';
+import Footerlogo from '../../images/new_sitelogo.svg';
 import Telegram from '../footer/telegram.svg';
 import Twitter from '../footer/twitter.svg';
 import Instagram from '../../images/instagram.svg';
