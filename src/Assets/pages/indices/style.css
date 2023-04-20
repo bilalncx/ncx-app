@@ -35,3 +35,22 @@ div#indicies__page {
     background: #5ED3F0 !important; 
     border: 1px solid #5ED3F0 !important; 
 }
+
+
+
+
+/* ***************************************************************** */
+#indicies__page.new__d .sieze__ppp:before, #indicies__page.new__d .sieze__ppp:after,
+#indicies__page.new__d .ind__fq:before, #indicies__page.new__d .ind__fq:after,
+#indicies__page.new__d .global__mart:before, #indicies__page.new__d .global__mart:after,
+#indicies__page.new__d .ind__banner:before, #indicies__page.new__d .ind__banner:after{
+    height: 0.5px !important;
+}
+#indicies__page.new__d .ind__banner, #indicies__page.new__d .ind__fq,
+#indicies__page.new__d .sieze__ppp{
+    background: transparent !important;
+}
+#indicies__page.new__d .sieze__ppp:before, #indicies__page.new__d .ind__fq:before,
+#indicies__page.new__d .global__mart:before, #indicies__page.new__d .ind__banner:before{
+    left: 2.05% !important;
+}
