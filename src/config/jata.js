@@ -1,5 +1,939 @@
 const blogListdata = [
   {
+    id: 401,
+    title: 'Polkadot: Here’s where bulls can look to re-enter following resistance breach',
+    category: 'Crypto',
+    subCategory: ['Polkadot', 'Bulls', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>An important bearish order block lay at the $6.6 region, but it has been broken over the past week. The market structure was bullish and the RSI remained above neutral 50 as well, supporting the idea of upward momentum.</p>
+    </div>,
+    authorName: 'Akashnath S',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 20, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-415.jpg',
+    content: <div className="blog-content">
+      <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion</p>
+	    <p>An important bearish order block lay at the $6.6 region, but it has been broken over the past week. The market structure was bullish and the RSI remained above neutral 50 as well, supporting the idea of upward momentum.</p>
+	    <ul>
+        <li>Polkadot has breached an important area of resistance.</li>
+        <li>Although the reaction wasn’t strongly bullish yet, it was likely that DOT would rally toward $7.</li>
+      </ul>
+      <p>Polkadot has performed well on the price charts over the past two weeks. The token has noted gains of 15% measuring from 9 April to 18 April, and more green could follow.</p>	
+	    <p>Bitcoin was also quick to recover after a drop to the $29.2k level, which suggested buyers had some strength, but not enough to force another rally.</p>	
+	    <p>Polkadot bulls managed to drive prices above a bearish order block which acted as a stern resistance since 27 February. This move meant further gains could materialize in the coming days.</p>
+      <h3>The bullish breaker could be retested once more</h3>
+      <p>The bearish order block mentioned previously lay at the $6.6 region, but over the past week, it has been broken. A 4-hour trading session close above the order block flipped it to a bullish breaker, and so far, buyers have defended this area. It was highlighted in cyan, and it was likely to be tested once more.</p>
+      <p>This was because the most recent lower timeframe pump went from $6.57 to $7 on 18 April. This surge in prices occurred quickly and left behind an imbalance on the charts. If this fair value gap, extending from $6.72 to $6.82, was retested, it would likely give a bullish reaction.</p>
+      <p>The market structure was bullish and the RSI remained above neutral 50 as well, supporting the idea of upward momentum. The OBV has been flat over the past week, which was not an encouraging finding after the move above $6.6.</p>
+      <p>Hence, buyers can look to enter a test of the FVG, targeting the next H4 bearish order block at the $7.22 area (red box).</p>
+      <p>This idea will be invalidated if DOT closes a 4-hour session at $6.56. Such a session close will be discouraging for the bears, who have spent the past two weeks trying to force a move above the resistance. A fall beneath $6.6 will likely see $6 tested as support.</p>
+      <h3>Futures markets showed long positions were discouraged in recent hours</h3>
+      <p>Coinalyze data showed the funding rate was positive, and hadn’t changed much in the past ten days. This highlighted a bullish bias but the Open Interest told a slightly different story.</p>
+      <p>In the past 24 hours, OI dropped by $7 million after a 2.5% slide in DOT prices. This suggested some bearish sentiment on the lower timeframes. If this continued, or if the OI rose alongside falling prices, it would highlight the heightened bearish sentiment.</p>
+    </div>
+  },
+  {
+    id: 397,
+    title: 'Bitcoin falls below US$29,000, Ether slumps, U.S. equities stall on inflation concerns',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Inflation'],
+    description: <div className="blog-desc">
+      <p>Bitcoin slid below the US$29,000 mark for the first time in 10 days on Thursday morning in Asia. Ether also fell to lose hold of the US$2,000 price support in a sell off across all top 10 non-stablecoin tokens. Some commentators ascribed the declines to a repricing based on recent concerns about inflation and higher interest rates ahead. Litecoin led the losers. U.S. equity futures dipped after Wall Street closed flat to lower on Wednesday.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 20, 2023 - 7:05 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-410.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin slid below the US$29,000 mark for the first time in 10 days on Thursday morning in Asia. Ether also fell to lose hold of the US$2,000 price support in a sell off across all top 10 non-stablecoin tokens. Some commentators ascribed the declines to a repricing based on recent concerns about inflation and higher interest rates ahead. Litecoin led the losers. U.S. equity futures dipped after Wall Street closed flat to lower on Wednesday.</p>
+    	<h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin fell 4.59% to US$28,943 in the 24 hours to 09:00 a.m. in Hong Kong for a weekly loss of 3.59%, according to CoinMarketCap data. The world’s largest cryptocurrency lost about US$1,000 in an hour starting from 4:00 p.m. Hong Kong on Wednesday.</li>
+        <li>Ether slumped 7.20% to US$1,947, but remains 1.93% higher for the past seven days. The token traded below the US$2,000 mark for the first time since April 13, when the Ethereum blockchain completed its Shanghai upgrade.</li>
+        <li>Litecoin led the losers with a drop of 10.50% in the past 24 hours and traded at US$90.85, falling 1.39% for the week.</li>
+        <li>The latest selloff in cryptocurrencies is an overdue correction following the rally this year and investors taking profits as a risk-off trend emerged in global markets, according to a CNBC report on Wednesday citing Joel Kruger, market strategist at forex and crypto platform Lmax Group.</li>
+        <li>The risk-off mood follows more global inflation signals. The U.K. on Wednesday reported a 10.1% annual increase in the consumer price index for March, beating projections for a 9.8% gain. Also this week, Atlanta Federal Reserve President Raphael Bostic and St. Louis Fed President James Bullard said it’s too early to consider an interest rate cut, given the stubborn U.S. inflation rate, which stood at 5% in March, compared to the Fed’s goal of 2%.</li>
+        <li>Lmax Group tweeted on Thursday the crypto market “has been forced to have a serious rethink about how it has been pricing” with respect to monetary policies.</li>
+        <li>Another down arrow is U.S. Securities and Exchange Commission Chair Gary Gensler’s testimony before Congress on Tuesday, who said much of the business model of the cryptocurrency sector has been built around non-compliance with securities regulations.</li>
+        <li>The total crypto market capitalization fell 5.04% in the past 24 hours to US$1.21 trillion. The total trading volume over the last 24 hours rose 33.08% to US$62.36 billion.</li>
+        <li>In the NFT market, the Forkast 500 NFT index dropped 1.23% to 4,012.98 in the 24 hours to 09:00 a.m. in Hong Kong, but remained 0.74% higher for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</li>
+        <li>U.S. stock futures traded lower as of 9:00 a.m. in Hong Kong. The Dow Jones Industrial Average dipped 0.11%. The S&P 500 futures fell 0.24%. The Nasdaq Composite Index moved down 0.35%.</li>
+        <li>The three U.S. equity indexes stalled on Wednesday on softer first-quarter earning reports, while the Federal Reserve’s Beige Book survey on economic conditions published on Wednesday shows a sharp fall in lending after the failure of a trio of regional banks last month.</li>
+        <li>Negatives for crypto from the bank failures include “dwindling liquidity driven by strong risk-off sentiments and regulatory pressures impacting banking access for the sector,” Ben Ritchie, director of Digital Capital Management AU said in a report by information services platform Finder.</li>
+        <li>U.S. interest rates are currently between 4.75% to 5%, the highest since June 2006. Analysts at the CME Group now see a 16.7% chance the Fed will leave interest rates unchanged at its next meeting on May 3, while 83.3% predict a 25-basis-point increase, down from 84.8% on Wednesday.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 421,
+    title: 'Tesla stock falls after Q1 revenue and profit miss estimates while gross margin dips to 19.3% on price cuts',
+    category: 'Markets',
+    subCategory: ['Tesla', 'Stocks', 'falls'],
+    description: <div className="blog-desc">
+      <p>Tesla (TSLA) stock is slipping after the bell as the electric-vehicle maker reported slight revenue and profit misses and gross margin that dipped below 20% to 19.3% as the cost of recent price cuts hit profitability.</p>
+    </div>,
+    authorName: 'Pras Subramanian',
+    authorurl: 'https://www.yahoo.com/author/pras-subramanian',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 20, 2023 - 12:19 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-435.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Tesla (TSLA) stock is slipping after the bell as the electric-vehicle maker reported slight revenue and profit misses and gross margin that dipped below 20% to 19.3% as the cost of recent price cuts hit profitability.</p>  
+    	<p>For the quarter, Tesla reported Q1 revenue of $23.33 billion, slightly below Street estimates of $23.35 billion, with Q1 adjusted EPS coming in at $0.85, below Street estimates of $0.86. That revenue figure for Q1 represents a slight dip from the $24.32 billion Tesla reported in Q4, but still 24% higher than a year ago.</p>	
+    	<p>On the profitability end, Tesla reported adjusted net income of $2.9 billion, less than the $3.03 billion estimated by the Street, and a billion less than last quarter and $700 million less than a year ago. With revenue staying flat-ish and profit dipping, the effects of margin compression could be at play here.</p>	
+    	<p>"Although we implemented price reductions on many vehicle models across regions in the first quarter, our operating margins reduced at a manageable rate. We expect ongoing cost reduction of our vehicles, including improved production efficiency at our newest factories and lower logistics costs, and remain focused on operating leverage as we scale." the company said in a statement.</p>
+      <p>Looking ahead, Tesla still sees 2023 global production of 1.8 million vehicles, with its long-term delivery growth rate staying at 50%. Tesla also said Cybertruck production is on track to begin later this year at Giga Austin, with the company producing "Alpha," or early test versions, of the vehicle.</p>
+      <p>Tesla instituted a number of price cuts in the U.S., Asia, and some European markets in Q1 of this year. Gross margins dipping to 19.3% may reflect the costs of those price cuts.</p>
+      <p>Last night, Tesla slashed prices of its Model 3 and Model Y EVs yet again, in fact bringing one of them below $40,000.</p>
+      <p>Yesterday's price cut, the sixth one this year by Tesla in the U.S., saw each version of the Model Y SUV slashed by $3,000 each, with the Model 3 RWD (rear-wheel drive) dropping by $2,000 to $39,990. The base Model Y, known as the AWD or all-wheel drive version, now starts at $46,990.</p>
+      <p>Tesla has now cut prices of its base Model 3 by 11% this year alone, and its base Model Y prices have fallen by 20%, according to calculations done by Reuters. These latest price cuts come as the federal government limited the number of vehicles eligible for the electric vehicle tax credit, with Tesla's base Model 3 RWD seeing its tax credit fall by half to $3,500.</p>
+      <p>Wall Street banks such as Evercore ISI have attempted to quantify the price cuts. “If we assume ~$2k US [price] cut ave translates to ~$1k global and then half of that is offset by cost improvements… then $500 cut to gross profit equates to ~100bps of gross margin pressure and implies 19% Q2/Q3 Auto gross margins (rough math,” the analysts said earlier this month.</p>
+      <p>Similarly, Ryan Brinkman of JPMorgan has been wary of the price cut effect on Tesla’s profitability, as well as other EV-makers.</p>
+      <p>“We have been cautious about the profit impact of Tesla’s price cuts, writing that the lower prices are negative overall for Tesla, less negative for traditional automakers such as GM and Ford (given they are now likely to lose even more money in the interim on EVs, although they have other profit centers to offset such losses), and most negative of all for pure-play battery electric automakers competing with Tesla (such as Rivian), as they, too, are likely to lose more money on EVs although do not have profits elsewhere to offset these losses,” Brinkman wrote earlier in April.</p>
+      <p>And similar to last quarter, analysts are keying in on the word “demand” as it pertains to production and backlog. In Q1 Tesla delivered around 423K vehicles and produced 440K globally; analysts at Evercore, for instance, would like to hear any indication of how Q2 deliveries are tracking and if the order backlog is growing. Guggenheim analyst Ronald Jewsikow wrote in a note to clients that week that Tesla's most recent U.S. price cuts indicated "slowing demand" for the EV maker.</p>
+      <p>Looking further ahead to the post-earnings conference call, investors and analysts will be waiting to hear any progress on Cybertruck production which is slated to begin later this year, any new information on the gen 3 platform discussed at Tesla’s investor day, and more on the timeline ahead for construction of Tesla’s latest gigafactory in Mexico.</p>
+    </div>
+  },
+  {
+    id: 407,
+    title: 'US STOCKS-Dow dips, S&P 500 stable after medtech gains, Netflix drag',
+    category: 'Indices',
+    subCategory: ['US', 'Stocks', 'DOW-Dips'],
+    description: <div className="blog-desc">
+      <p>April 19 (Reuters) - The S&P 500 ended virtually unchanged on Wednesday while the Dow dipped as investors digested a mixed bag of corporate earnings, including upbeat reports from medical technology companies, countered by weakness in Netflix shares.</p>
+    </div>,
+    authorName: 'Lewis Krauskopf and Sruthi Shankar and Ankika Biswas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 20, 2023 - 12:28 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-421.jpg',
+    content: <div className="blog-content">
+    	<p>By Lewis Krauskopf, Sruthi Shankar and Ankika Biswas</p>
+    	<p>April 19 (Reuters) - The S&P 500 ended virtually unchanged on Wednesday while the Dow dipped as investors digested a mixed bag of corporate earnings, including upbeat reports from medical technology companies, countered by weakness in Netflix shares.</p>	
+    	<p>The Dow was weighed down by declines in Walt Disney Co and UnitedHealth Group Inc shares following results from rivals in their respective industries.</p>	
+    	<p>Major equity indexes have been largely stable during the early stages of a first-quarter earnings season that investors expect to show tepid results.</p>
+      <p>"Corporate results are being seen as being in large part company-specific news versus market news," said Art Hogan, chief market strategist at B Riley Wealth. "If that keeps us relatively calm and unchanged for now, while the sample set of reporters is still quite small, I think that's a positive."</p>
+      <p>The Dow Jones Industrial Average fell 79.62 points, or 0.23%, to 33,897.01; the S&P 500 lost 0.35 points, or 0.01%, at 4,154.52; and the Nasdaq Composite added 3.81 points, or 0.03%, at 12,157.23.</p>
+      <p>The defensive utilities group gained most among S&P 500 sectors, rising 0.8%.</p>
+      <p>The CBOE Volatility index, also known as Wall Street's fear gauge, fell to its lowest point since November 2021 during the session.</p>
+      <p>Investors are looking for signs in corporate results that inflation may be driving up costs or hurting consumer spending, amid fears the economy may be on the cusp of a downturn.</p>
+      <p>S&P 500 companies overall are expected to post a 4.8% decline in first-quarter earnings from the year-earlier period, according to Refinitiv IBES.</p>
+      <p>"We seem stuck in this range, with those people who think that there is going to be a recession coming and those people who think there is going to be a soft landing," said Rick Meckler, partner at Cherry Lane Investments.</p>
+      <p>Netflix Inc shares slid 3.2% after the video-streaming pioneer offered a lighter-than-expected forecast. Shares of streaming rival Disney slipped 2.2%.</p>
+      <p>Tesla Inc shares dropped 2% after the electric-vehicle maker's sixth U.S. price cut this year. Tesla shares slid further in initial after-market trading on Wednesday following the company's quarterly report.</p>
+      <p>Shares of Elevance Health Inc fell 5.3% after the insurer's strong quarterly profit failed to ease investor concerns over regulatory hits to the company's government-backed insurance business. UnitedHealth shares dropped 3.6%.</p>
+      <p>Elsewhere in healthcare, Abbott Laboratories shares jumped 7.8% after the medical device maker said most delayed non-urgent medical procedures had resumed globally three years into the COVID-19 pandemic. Intuitive Surgical shares soared 10.9% after its quarterly revenue and profit topped estimates.</p>
+      <p>Shares of Western Alliance Bancorp surged 24.1% after the company posted stronger-than-expected earnings, helping lift the SPDR S&P Regional Banking ETF 3.9%.</p>
+      <p>Regional banks have been in focus after the failure of Silicon Valley Bank last month prompted concerns about systemic risks.</p>
+      <p>Declining issues outnumbered advancers on the NYSE by a 1.28-to-1 ratio; on Nasdaq, a 1.11-to-1 ratio favored decliners.</p>
+      <p>The S&P 500 posted 16 new 52-week highs and one new lows; the Nasdaq Composite recorded 59 new highs and 123 new lows.</p>
+      <p>About 10 billion shares changed hands in U.S. exchanges, compared with the 10.6 billion daily average over the last 20 sessions. (Reporting by Lewis Krauskopf in New York, Sruthi Shankar and Ankika Biswas in Bengaluru Editing by Vinay Dwivedi and Richard Chang)</p>
+    </div>
+  },
+  {
+    id: 406,
+    title: 'Ethereum (ETH) Price Prediction 2025-2030: Is $3000 within reach now?',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'ETH', 'Price'],
+    description: <div className="blog-desc">
+      <p>Shanghai is finally behind us, with the hike above $2,000 evidence of ETH’s bullishness. What next though?</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-420.jpg',
+    content: <div className="blog-content">
+      <p>Shanghai is finally behind us, with the hike above $2,000 evidence of ETH’s bullishness. What next though?</p>
+    	<p>Disclaimer: The datasets shared in the following article have been compiled from a set of online resources and do not reflect AMBCrypto’s own research on the subject.</p>
+    	<p>In the four days following the launch of Ethereum’s Shanghai upgrade, crypto-exchanges noted net inflows of 179,500 ether (ETH), worth around $375 million.</p>	
+    	<p>In fact, according to CryptoQuant statistics, traders deposited 1,101,079 ETH to exchanges between 13 April and 16 April, but only removed 921,579 tokens. This was the month’s greatest four-day net inflow.</p>
+      <p>Transferring tokens to exchanges typically implies that investors are prepared to sell, which may result in a decline in its price.</p>
+      <p>For the first time since August, Ethereum, the market’s second-largest cryptocurrency, has hiked past the $2000-mark on the charts. Even though the optimism seemed to be dissipating, ETH was still valued at above $2k at press time.</p>	
+    	<p>This is interesting, especially since after bottoming out in June 2022 at about $880, the price of ETH has more than doubled. This, despite several unfavourable developments such as the demise of FTX, a rise in interest rates, and stricter U.S. regulations.</p>
+      <p>Here, it is important to note that the Consumer Price Index (CPI) calculates inflation or the rate of growth in product and service prices. As a result, traders and investors predict that the US Federal Reserve will opt to postpone or slow down its intentions to hike interest rates at its next meeting if the CPI report indicates a high level of inflation.</p>
+      <p>Ethereum (ETH), the token that powers the world’s leading smart contracts platform, was valued at over $2085, at the time of writing. Needless to say, cynicism around Shanghai seemed to be unwarranted. </p>
+      <p>As a result, ETH/USD has drawn an ascending triangle, which is supported and opposed by a rising trendline and horizontal level, respectively. As lows rise steadily and highs hover around the same level, the pattern points to aggressive purchasing at these price levels.</p>
+      <p>Speculations around Shanghai weren’t without reason, however. Especially since ETH was once valued at over $3,700, just over a year ago.</p>
+      <p>Even so, the short-term sell-off event that was expected to follow the update, one which will allow stakers to withdraw their vested tokens from Ethereum’s proof-of-stake (PoS) smart contract, has not come to pass. At least, not yet.</p>
+      <p>The Ethereum community seems to be supportive of Coinbase’s recently revealed layer-2 network, Base, which has been called a “watershed moment” and a “huge confidence vote” for the blockchain network.</p>
+      <p>Base, a layer-2 network driven by Optimism and secured on Ethereum, seeks to eventually develop into a network for creating decentralized applications (dApps) on the blockchain. According to Brian Armstrong, CEO of Coinbase, the layer-2 network is now in its testnet phase.</p>
+      <p>The move is “a massive vote of confidence for Ethereum,” according to Ryan Sean Adams, host of the Bankless Show. This could set a precedent for cryptocurrency businesses and financial institutions to use Ethereum as their preferred settlement layer.</p>
+      <p>Recently, Vitalik Buterin, the creator of Ethereum, donated $150,000 in ETH to Syrian and Turkish victims. Additionally, the native coin of the Ethereum blockchain, ETH, experienced a significant price drop after whales sold 350,000 ETH tokens.</p>
+      <p>According to Diogo Mónica, co-founder and president of Anchorage Digital, a cryptocurrency bank with a market cap of over $3 billion, the Merge’s success transformed Ethereum from “a smart contract platform lagging behind” into “something that was doing things properly.” This is accurate: After the Merge, institutional interest in ETH staking rose, according to Matt Hougan, CIO at Bitwise Asset Management.</p>
+      <p>As ETH dominance has increased compared to other cryptocurrencies over the past few years, Ether’s bullish setup vs Bitcoin is apparent. Both Bitcoin and Ethereum have consolidated over the week as the broader crypto market continues to enjoy a bullish spell.</p>
+      <p>The price of Ethereum has lately undergone a significant correction, yet the whales have been purchasing at every decline. The fifth-largest accumulation day in a year was recorded last week as ETH whale activity reached a new level. As the FTX problem developed over this month of November, Ethereum whales have been building up. According to a Santiment report,</p>
+      <p><strong>“Ethereum’s large key addresses have been growing in number since the #FTX debacle in early November. Pictured are the key moments where shark & whale addresses have accumulated & dumped. The number of 100 to 100k $ETH addresses is at a 20-month high.”</strong></p>
+      <p>It almost reached the lows during the FTX collapse-driven meltdown of the cryptocurrency market, but it rapidly bounced back and was able to maintain above those levels as well. This strengthens the argument since Ethereum has typically outperformed Bitcoin.</p>
+      <p>Given everything, buying Ethereum must be a sound investment in the long term, right? Most experts have positive predictions for ETH. Furthermore, the bulk of long-term Ethereum price projections are upbeat.</p>
+      <h3>Why are projections important?</h3>
+      <p>Since Ethereum has seen phenomenal growth in recent years, it is not surprising that investors are placing significant bets on this cryptocurrency. Ethereum gained traction after the price of Bitcoin dropped in 2020, following a protracted period of stagnation in 2018 and 2019.</p>
+      <p>Interestingly, much of the altcoin market remained idle even after the halving. One of the few that picked up the momentum quickly is Ethereum. Ethereum had increased by 200% from its 2017 highs by the end of 2021.</p>
+      <p>Ethereum may experience such a spike thanks to several crucial factors. One of these is an upgrade to the Ethereum network, specifically a move to Ethereum 2.0. Another reason is the Ethereum tokenomics debate. With the switch to Ethereum 2.0, ether tokenomics will become even more deflationary. As a result, there won’t be as many tokens on the market to meet increasing demand. The outcome might increase Ethereum’s rising momentum in the future.</p>
+      <p>In this article, we’ll take a quick look at the cryptocurrency market’s recent performance, paying particular attention to market cap and volume. The most well-known analysts’ and platforms’ predictions will be summarized at the end, along with a look at the Fear & Greed Index to gauge market sentiment.</p>
+      <h3>Ethereum’s price, volume, and everything in between</h3>
+      <p>At press time, ETH was trading at $2085 with a market capitalization of $241.6 billion. Over the last 7 days, ETH had appreciated by 10% on the charts.</p>
+      <p>Even though it’s difficult to forecast the price of a volatile cryptocurrency, most experts concur that ETH may once again cross the $4,000 barrier in 2023. And, according to a recent forecast by Bloomberg intelligence analyst Mike McGlone, the price of Ethereum will conclude the year between $4,000 and $4,500.</p>
+      <p>Additionally, according to a report by Kaiko last year, ETH’s market share of trading volume will reach 50% parity with Bitcoin’s for the first time in 2023.</p>
+      <p>According to Kaiko, ETH outpaced Bitcoin in July last year as a result of significant inflows into the spot and derivative markets. Most exchanges have seen this surge, which can be an indication of returning investors. Additionally, a rise in average trade size is the exact reverse of what has been seen so far in 2022’s downturn.</p>
+      <p>In fact, a majority of cryptocurrency influencers are bullish on Ethereum and anticipate it to reach incredible highs.</p>
+      <p>While the broader Ethereum community was looking forward to the environment-friendly PoS update, a faction emerged in favor of a fork that will retain the energy-intensive PoW model.</p>
+      <p>The faction was mostly made up of miners who risk losing their investment in expensive mining equipment since the update would render their business model useless. Prominent Chinese miner Chandler Guo stated on Twitter that an ETHPoW is “coming soon”.</p>
+      <p>At the time, Binance clarified that in the event of a fork which creates a new token, the ETH ticker will be reserved for the Ethereum PoS chain, adding that “withdrawals for the forked token will be supported”. Stablecoin projects Tether and Circle both reiterated their exclusive support for the Ethereum PoS chain after the Merge.</p>
+      <p>TradingView expressed the same opinion at the time this article was written, and their technical analysis of the Ethereum price indicated that it was a “Buy” signal for ETH.</p>
+      <p>In fact, PwC’s Crypto-head Henri Arslanian claimed in an edition of First Mover that “Ethereum is the only show in town.” However, investors will need to witness increased demand and functioning for Ether’s price to keep climbing.</p>
+      <p>According to investor and creator of the cryptocurrency research and media organization Token Metrics Ian Balina, “I think Ethereum can go to $8,000.”</p>
+      <h3>ETH Whale Activity</h3>
+      <p>On 27 March, blockchain analytics firm Santiment revealed that almost 90% of Ethereum’s supply was stored in self-custody addresses. The last time the figure was so high was nearly eight years ago in 2015, shortly after the protocol’s native token saw the light of day. This was happening as users are withdrawing their assets from Binance that is facing CFTC’s investigation.</p>
+      <p>This essential all-time low ratio of ETH on exchanges (10.31%) indicated confidence from hodlers.</p>
+      <p>Data from blockchain analytics firm Santiment shows ETH supply held by the top addresses on crypto exchanges has been on the rise since early June. On the other hand, ETH supply held by the top non-exchange addresses i.e. ETH held in hardware wallets, digital wallets etc. has been declining since early June. But why June? Because it was around that time that a tentative timeline for the Merge was disclosed to the community.</p>
+      <p>Also, Santiment had tweeted that over the past 3 months, whales had beefed up their exchange holdings by 78%.</p>
+      <p>So what does this mean? It means that Ethereum whales are moving their ETH onto exchanges. Top ETH hodlers are taking their supply out of cold storage and moving it to exchanges, most likely to facilitate a quick transaction if needed.</p>
+      <p>In the run up to the merge, a number of exchanges like Coinbase and Binance announced that they will be suspending all ETH and ERC-20 token deposits and withdrawals, in order to ensure a seamless transition.</p>
+      <p>It is possible that the whales moved their holdings onto exchanges to either preemptively dump their holdings in anticipation of a price slump after the Merge. The other possibility is them waiting till well after the Merge to act on ETH’s price action.</p>
+      <p>Let’s now look at what well-known platforms and analysts have to say about where they believe Ethereum will be in 2025 and 2030.</p>
+      <h3>Ethereum Price Prediction 2025</h3>
+      <p>According to Changelly, the least expected price of ETH in 2025 is $4,204.12, while the maximum possible price is $5,063.95. The average expected trading cost is $4,355.45.</p>
+      <p>DigitalCoinPrice is even more bullish in its assessment of ETH’s future performance. It predicts that ETH will trade as low as $5,380.03 and as high as $6,601.51, with its average price being $5,918.92.</p>
+      <p>However, you have to remember that the year is 2025, and a lot of these projections are based on Ethereum 2.0 launching and performing successfully. And by that, it means Ethereum has to solve its high-cost gas fees issues as well. Also, global regulatory and legislative frameworks have not yet consistently backed cryptocurrencies.</p>
+      <p>However, even though newer and more environmentally friendly technologies have been developed, analysts frequently claim that Ethereum’s “first mover advantage” has positioned it for long-term success, despite new competition. The price predictions seem conceivable because, in addition to its projected update, Ethereum is anticipated to be used more frequently than ever before in the development of DApps.</p>
+      <h3>Ethereum Price Prediction 2030</h3>
+      <p>Changelly also argued that the price of ETH in 2030 has been estimated by cryptocurrency specialists after years of price monitoring. It will be traded for a minimum of $24,867.82 and a maximum of $30,483.23. So, on average, you can anticipate that in 2030, the price of ETH will be roughly $25,593.23.</p>
+      <p>DigitalCoinPrice is, however, not as bullish in its 2030 prediction for ETH. It predicts that the minimum and maximum prices of ETH in 2030 will be $17,805.72 and $19,116.90. On average, it will be traded at $18,729.30.</p>
+      <p>Long-term Ethereum price estimates can be a useful tool for analyzing the market and learning how key platforms anticipate that future developments like the Ethereum 2.0 upgrade will affect pricing.</p>
+      <p>Crypto-Rating, for instance, predicts that by 2030, Ethereum’s value will likely exceed $100,000.</p>
+      <p>Both Pantera Capital CEO Dan Morehead and deVEre Group founder Nigel Green also predict that during the next ten years, the price of ETH will hit $100,000.</p>
+      <p>Sounds like too much? Well, the functional capabilities of the network, such as interoperability, security, and transaction speed, will radically change as a result of Ethereum 2.0. Should these and other related reforms be successfully implemented, opinion on ETH will change from being slightly favorable to strongly bullish. This will provide Ethereum the chance to entirely rewrite the rules of the cryptocurrency game.</p>
+      <h3>Conclusion</h3>
+      <p>A potential concern is the prospect of a price impact when Ether’s short-term and long-term trends appear to be biassed in favor of the bulls from an on-chain viewpoint.</p>
+      <p>According to the most current data from Santiment, the majority of Ethereum whale cohorts have increased their ETH accumulation in recent weeks. For instance, in March, the amount of Ether owned by addresses with a balance of 1,000 to 10,000 ETH</p>
+      <p>Another potential worry on investors’ concerns is the prospect of a price impact when validators are finally free to return their 32 ETH deposits following the conclusion of the Shapella hard fork. How many of the 16 million ETH that is currently staked on the Beacon Chain will be sold on the open market is unknown.</p>
+      <p>A compelling argument in favor of transitioning to liquid staking platforms is the capability to use liquid staking derivatives on other decentralized finance networks without sacrificing staking reward.</p>
+      <p>While some of these investors have invested in rival tokens in order to profit, others are doing it out of precaution in order to hedge their portfolios. This has been corroborated by the volatility witnessed in metrics like daily active users and price action of so-called Ethereum killers like Avalanche, Solana, Cardano etc. in the run up to the merge event which is less than a month away.</p>
+      <p>The majority of investors anticipated that Ethereum would bottom out at $3500 early this year, but the currency moved lower to show them incorrect. In fact, ETH briefly fell below the terrifying $1000 threshold.</p>
+      <p>However, the coin has always rebounded when it appeared that it was poised to strike the target once more, restoring confidence in its future. This includes the incident in November 2022 when an FTX hacker allegedly dumped over 30,000 ETH. Hope is offered by the token’s persistence in the wake of the FTX bankruptcy and the protracted crypto cold.</p>
+      <p>There is broad hope that the first smart contract blockchain will survive this period of trials, despite Ethereum’s rivalries and other factors contributing to its continuous instability.</p>
+      <p>As far as the Merge is concerned, it is being hailed as a major success story by the Ethereum community. Buterin cited a research study by an Ethereum researcher, Justin Drake, that suggests that the “merge will reduce worldwide electricity consumption by 0.2%.”</p>
+      <p>It also reduces the time to mine one block of ETH from 13 seconds to 12 seconds. The Merge marks 55% completion of Ethereum’s journey toward greater scalability and sustainability.</p>
+      <p>The likelihood that Ether will experience a price surge of 50% in the future is increased by its superior interim fundamentals to those of Bitcoin. To begin with, Ether’s annual supply rate plummeted in October 2022, in part because of a fee-burning mechanism known as EIP-1559 that takes a certain amount of ETH out of perpetual circulation anytime an on-chain transaction takes place.</p>
+      <p>Concerns about censorship on the Ethereum ecosystem have also emerged post the Merge. Around half of the Ethereum blocks are Office of Foreign Assets Control (OFAC)-compliant as MEV-Boost got implemented. As Ethereum has upgraded to a PoS consensus, MEV-Boost has been enabled to a more representative distribution of block proposers, rather than a small group of miners under PoW. This development raises a concern about censorship under the force of OFAC.</p>
+      <p>It is interesting to note that while many eagerly waited for Ethereum’s Merge and beefed up their holdings in anticipation of a price surge, there was a group of investors who weren’t confident in the Merge’s successful rollout. These investors were betting on a glitch in the rollout process, hoping that the update runs into trouble. While some of these investors have started investing in rival tokens in order to profit, others are doing it out of precaution in order to hedge their portfolios. This was corroborated by the volatility witnessed in metrics like daily active users and price action of so-called Ethereum killers like Avalanche, Solana, Cardano etc. in the run up to the Merge.</p>
+      <p>The majority of Ethereum price forecasts indicate that ETH can anticipate tremendous growth over the ensuing years.</p>
+      <p>As per Santiment, Ethereum’s active addresses have sunk to 4-month lows with weak hands continuing to drop post-Merge and disinterest at a high as prices have stagnated.</p>
+      <p>What about the flippening then? Is it possible that the altcoin might pass Bitcoin on the charts in the future? Well, that is possible. In fact, according to BlockchainCenter, ETH has already surpassed BTC on a few key metrics.</p>
+      <p>Consider Transaction Counts and Total Transaction Fees, for instance. On both counts, ETH is ahead of BTC.</p>
+      <p>On the contrary, the traditional definition of a ‘flippening’ relates to the market cap of cryptos flipping.</p>
+      <p>However, remember that a lot can change over these years, especially in a highly volatile market like cryptocurrency. Leading analysts’ projections may vary, but even the most conservative one’s might cause respectable profits for anyone choosing to invest in Ethereum. As far as the F&G Index is concerned, ETH shows ‘neutral’ market sentiment for the moment.</p>
+    </div>
+  },
+  {
+    id: 405,
+    title: 'Chainlink (LINK) Price Prediction 2025-2030: Is sky the limit for LINK?',
+    category: 'Crypto',
+    subCategory: ['Chainlink', 'Link', 'Price'],
+    description: <div className="blog-desc">
+      <p>The last 7 days saw LINK hike by over 15%. Does this mean its uptrend is finally here to stay?</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-419.jpg',
+    content: <div className="blog-content">
+    	<p>The last 7 days saw LINK hike by over 15%. Does this mean its uptrend is finally here to stay?</p>
+    	<p>Chainlink (LINK) is a decentralized oracle network that connects smart contracts on blockchain platforms to real-world data. The network enables smart contracts to access off-chain resources, such as data from APIs and web pages, which makes it possible for them to interact with the real world. </p>	
+    	<p>Chainlink is used by a wide range of decentralized applications and platforms, including decentralized finance (DeFi) platforms, prediction markets, and gaming dApps. LINK’s popularity has been driven by its use case as a decentralized oracle solution, providing reliable and tamper-proof external data feeds to smart contracts.</p>	
+    	<p>The value of LINK is largely determined by the use cases of the decentralized oracle network. The more nodes that secure the network, the higher the demand for LINK tokens. With a maximum supply of 1 billion tokens, the token has seen tremendous growth since its launch in 2017. In fact, it rose from an average of $0.50 to its all-time high of $52.88 on May 10, 2021.</p>
+      <p>In late 2020, LINK’s price noted a significant bull run, hitting an all-time high of over $20 in December of that year. This was driven in part by the overall bull market in the cryptocurrency space, as well as a strong demand for LINK as a utility token on the Chainlink network. Since then, the price of LINK has come down somewhat, but it has remained relatively stable and continues to be a popular investment asset.</p>
+      <p>One reason for LINK’s relatively strong performance may be its strong adoption in the cryptocurrency space. The Chainlink network has gained significant traction among developers and users, and it has a number of high-profile partnerships and collaborations. Additionally, LINK has a strong development team and is backed by a number of well-respected investors, which adds to its credibility and appeal.</p>
+      <p>On 10 November, Chainlink started offering proof of reserve services for troubled crypto exchanges. This feature was launched back in 2020 but has started to gain popularity in the wake of the current unrest in the industry.</p>
+      <p>Apart from the staking upgrade, Chainlink announced various partnerships over the last week that will increase its adoption. The company announced on 24 October that prices in the Bitizen wallet will be powered by Chainlink price feeds following its integration into Polygon mainnet.</p>
+      <p>Chainlink also revealed a channel partnership with Tokenomia.pro, a web3 consultancy firm catering to token engineering and smart contract design, among other things.</p>
+      <p>Chainlink also announced a partnership with international banking network SWIFT, which came as much-needed positive news for its stakeholders.</p>
+      <p>Speaking at SmartCon22, Chainlink Co-founder Sergey Nazarov unveiled plans to launch staking at the end of 2022, in addition to a new economic model for the Web3 services platform.</p>
+      <p>On 29 September, SWIFT, the international banking network, announced a collaboration with Chainlink in order to develop a cross-chain interoperability protocol (CCIP) in an initial proof-of-concept (PoC). This move will pave the way for the institutional adoption of Distributed Ledger Technology (DLT).</p>
+      <p>According to Chainlink’s official website, the transaction value enabled by the network so far is a whopping $7.2 trillion.</p>
+      <p>Back in 2014, SmartContract.com set out to develop a bridge between external data sources and public blockchains. Ironically, this led to the creation of a centralized oracle system called Chainlink. In 2017, this product was reshaped into what we now know as the Chainlink Network.</p>
+      <p>Chainlink is the largest oracle project in terms of market cap and total value secured, and a number of crypto-projects associated with it. An oracle is basically software that acts as an intermediary between the on-chain and the real world.</p>
+      <p>Moreover, Chainlink provides a lot of use cases. Users of Chainlink can operate nodes and make money by managing the blockchain’s infrastructure. The Price Feed Oracle Networks are powered by a number of node operators. The platform integrates more than 100 projects with 700 Oracle networks, giving it access to over a billion data points and protecting over $75 billion.</p>
+      <p>So, what does this movement mean, and is now a good time to get into LINK? This article will talk about the altcoin ranked twenty-fourth by market capitalization. In fact, it will also touch upon what are the key factors to consider when making a decision on buying into LINK.</p>
+      <p>Here’s a fun fact from Defi Llama – Chainlink is securing more value than all of its competitors combined. The network has secured more than $14 billion from protocols that rely on its data feeds.</p>
+      <p>In May 2021, Sergey Nazarov, Co-founder, and CEO of Chainlink disclosed in a podcast that Chainlink is estimated to have 60% of the market share.</p>
+      <p>A monopoly like this has its cons. For instance, during the Terra collapse, Chainlink caused an $11.2 million loss to the Venus protocol. This was when the latter was unable to access accurate data from Chainlink’s price feed.</p>
+      <p>In fact, the Chainlink ecosystem boasts some big names like VISA, SWIFT, Google Cloud, etc.</p>
+      <p>It’s important to note that most of the LINK in circulation is being used for speculation rather than rewarding node operators. This, as expected, raises eyebrows among value investors.</p>
+      <p>Some believe that Chainlink is creating economic value in the industry by catering to a number of crypto-projects. Alas, that value doesn’t seem to reflect on their native token’s price.</p>
+      <p>Even so, following Chainlink’s 7 June proposal of the staking update, LINK surged by nearly 20% from $7 all the way up to $9.</p>
+      <p>The proposed staking update is much anticipated in the crypto space. The update will be beneficial for the token’s value as oracles will be required to stake LINK. This update will also enable community participation, leading to enhanced overall security.</p>
+      <p>Nazarov clarified that Chainlink does not produce blocks, but “make consensus on hundreds of oracle networks about price data.” He further added that the developer’s team is finally satisfied with the security and scalability of the consensus mechanism and ready to launch staking this year.</p>
+      <p>The update will also bring additional utility to LINK, beyond facilitating payments to node operators.</p>
+      <p>Chainlink developers estimate that the proposed staking will yield 5% annually thanks to proceeds from Chainlink’s data feed users and emissions from the treasury reserve. The goal is for treasury emissions to end once Chainlink’s usage grows, leaving all staking rewards to come from fees paid by oracle users.</p>
+      <p>While speaking at NFT.NYC 2022, Lauren Halstead from Chainlink Labs outlined the spectrum of Chainlink’s use cases using the example of dynamic NFTs. Halstead demonstrated how dynamic NFTs can be updated in real-time with the help of off-chain data gathered by Chainlink.</p>
+      <p>Interest Protocol, the first fractional reserve banking protocol on the Ethereum blockchain, announced earlier this month that it had entered into a strategic partnership with Chainlink. Chainlink will help Interest Protocol integrate two of its features, namely Chainlink Keepers and Chainlink Proof of Reserve.</p>
+      <p>On 15 August, Floki Inu announced that they had integrated two products from Chainlink’s suite with their newly launched FlokiFi Locker on BNB Chain and the Ethereum mainnet. In an interview with BSC news, a core team member of Floki said,</p>
+      <p><strong>“We feel excited to be working with Chainlink to enhance the integrity of the FlokiFi Locker protocol. Chainlink is by far the biggest decentralized oracle solution in the world as well as the best and most reliable.”</strong></p>
+      <p>On 28 August, Chainlink informed its community on Reddit that the Chainlink Verifiable Random Function (VRF) was being used by more than 350 projects across Avalanche, Ethereum, Fantom, and Polygon, as a source of provably fair randomness for their NFTS, dApps etc. Chainlink VRF is the industry-leading random number generator (RNG) solution for an off-chain solution and smart contracts.</p>
+      <p>Data from whalestats revealed that LINK is the most widely held token among top Ethereum whales. This information is derived from the data collected from the wallets of the top 5000 Ethereum whales.</p>
+      <p>According to a report published by Fortune Business Insights, the global Internet of Things (IoT) market is projected to grow at a CAGR of 26.4% annually between 2022 and 2029. Given the rising adoption of blockchain technology in mainstream businesses like banking, logistics ets, we can expect a similar growth rate in cryptocurrencies that enhance IoT-based businesses. Chainlink would be an appropriate example of this.</p>
+      <h3>LINK Price Analysis</h3>
+      <p>At press time, LINK was trading at $8.57, hiking by 16.5% in the last 7 days. Moreover, LINK had a market capitalization of $4.4 billion, with the crypto ranked 21st on the crypto-rankings chart.</p>
+      <p>The month of August 2022 saw Chainlink closing in on double-digit territory when it set a two-month high of $9.52, before falling to prices that rendered the monthly return negative. This is pretty volatile, compared to the rather calm sideways movement witnessed by LINK’s price in July.</p>
+      <p>Even with all the volatility, the overall theme for August can be summed up with one word: Bearish.</p>
+      <p>September, however, was bullish, with October seeing bits of both. As far as November and December are concerned, the less said, the better.</p>
+      <p>While 2023 began on a positive note, its fortunes were reversed in mid-February. LINK’s most recent downtrend has been fueled by the macroeconomic headwinds faced by the crypto-market at large. It has recovered since, however, and this has been fueled by how ETH and BTC have been doing.</p>
+      <h3>Chainlink’s critics</h3>
+      <p>Eric Wall from Arcane Assets has been rather critical of Chainlink’s activities. In May 2021, he stated that the network is not “crypto-economically secure,” citing the developer’s state and the fact that the model relies on a trusted system.</p>
+      <p>Zeus Capital has been a vocal critic of Chainlink since 2020 when they published a fifty-nine-page investigative report. One outlining how the network is a fraud, going as far as calling it the “wirecard of crypto.”</p>
+      <p>CryptoWhale turned up the heat on Chainlink developers in a series of tweets too. It accused the team of running a pump-and-dump scheme. These allegations came following a $1.5 billion LINK sell-off allegedly by Chainlink insiders and developers in June 2021.</p>
+      <h3>LINK Tokenomics</h3>
+      <p>One billion LINK tokens were pre-mined in 2017, following which Chainlink raised $32 million through an initial coin offering (ICO). Thirty percent went to the founders and the project. Thirty-five percent accounted for airdrops and rewards for node operators. The remaining thirty-five percent went towards issuing to investors.</p>
+      <p>According to Etherscan, the top hundred wallets hold roughly 75% of LINK supply. This doesn’t look so good for a token that’s supposed to be decentralized. Chainlink’s supporters have, however, argued that a certain degree of centralization will help developers to effectively respond to network-threatening events.</p>
+      <p>Data from Etherscan also revealed Chainlink developers’ addresses consistently dumping their holdings on Binance, something that hasn’t been received well by the community.</p>
+      <p>One would think that this works out well in favor of decentralization, but most of those tokens have been bought up by whales.</p>
+      <p>A number of analysts believe that the performance of LINK and ETH is correlated to some extent.</p>
+      <p>Chainlink’s growth is inherently tied to the growth of smart contracts and blockchain services. Increased adoption of smart contracts translates to an increase in demand for data feeds from oracles.</p>
+      <p>Chainlink’s utility has attracted cross-chain ventures. Non-Ethereum-based protocols like Polkadot and Solana are building integrations with Chainlink for access to its oracle network.</p>
+      <h3>Chainlink (LINK) Price Prediction 2025</h3>
+      <p>Experts at Changelly concluded from their analysis of LINK’s previous price action that in 2025, the crypto should be worth at least $26.64. The maximum price for LINK, according to them, would be $32.01. Considering its press time price, that would yield a whopping 312% profit.</p>
+      <p>On the contrary, Finder’s panel of experts has projected a median value of $40 for LINK by December 2025.</p>
+      <p>Ethereum merging its mainnet and Beacon Chain is expected to affect LINK’s price action, too. In fact, it has also been demonstrated that there’s some correlation between ETH and LINK. ETH rose above $4000 and LINK broke the $50-mark to reach its all-time high last year.</p>
+      <p>Talking in the context of the Mainnet merge, if ETH should break the $ 10,000 level, then it is likely that LINK will follow suit and touch $100.</p>
+      <p>In light of new business partnerships, API connection improvements, and Chainlink’s customized services, there are also projections that place a maximum price of $45.75 on LINK by 2025.</p>
+      <h3>Chainlink (LINK) Price Prediction 2030</h3>
+      <p>Changelly’s crypto experts have estimated that in 2030, LINK will be trading for at least $182.88, possibly peaking out at $221.4. That would mean a return of 2650%.</p>
+      <p>Joseph Raczynski, the technologist, and futurist at Thomson Reuters and one of the panelists for Finder, has a rather positive outlook on LINK’s future. He sees the coin worth $100 in 2025 and $500 by 2030.</p>
+      <p><strong>“Link is pushing the boundary on one of the most important aspects of blockchain technology — connections to other blockchains, databases and ecosystems. Chainlink could be the highway among blockchains, which is a huge key for the industry.”</strong></p>
+      <p>Justin Chuh, the Senior Trader at Wave Financial, made his own projections for the future of LINK too. He sees the coin at $50 in 2025 and $100 in 2030.</p>
+      <p>Forrest Przybysz, the Senior Cryptocurrency Investment Analyst at Token Metrics, shared his immensely bullish stance on the token’s future value and projected LINK to be worth $500 by 2025 and $2500 by the end of 2030.</p>
+      <p>He added,</p>
+      <p><strong>“LINK has one of the fastest, smoothest growth curves of any cryptocurrency and has a major lead in terms of its competition.”</strong></p>
+      <h3>Conclusion</h3>
+      <p>Chainlink had previously clarified that it would continue operating on the Ethereum blockchain following the Merge to the proof-of-stake (PoS) consensus layer scheduled for next month, rubbishing claims of any association with forked versions of the Ethereum blockchain, including proof-of-work forks.</p>
+      <p>The major factors that will influence LINK’s price in the coming years are,</p>
+      <ul>
+        <li>Timely implementation of Staking update</li>
+        <li>Increased Adoption of WEB 3.0</li>
+        <li>Partnerships with established businesses.</li>
+      </ul>
+      <p>Launched in 2017, Chainlink is fairly new to the industry and its full potential is yet to be determined. On-chain metrics suggest that users are confident about the future of LINK.</p>
+      <p>While it is true that the service provided by Chainlink pertains to a specific niche, one cannot deny the relevance of said niche and its importance in the future. Oracles essentially cater to all blockchains that utilize smart contracts, making the services of platforms like Chainlink vital for their operations. Companies from both traditional backgrounds and from the crypto space agree that smart contracts hold considerable significance, significance that will only grow in the future.</p>
+      <p>From an investment point of view, one might compare Chainlink and its token to how a traditional company and its shares function. If the company has a healthy balance sheet and has a meaningful contribution to the economy, then its shares are bound to perform well. The same can be said for Chainlink, because they are the leaders of their sector and their services are essential to several projects, both now and in the future.</p>
+      <p>The above analogy would not hold true for even a third of the thousands of crypto projects that exist today.</p>
+      <p>As far as the Fear and Greed Index is concerned, it flashed signs of ‘Neutral.’</p>
+    </div>
+  },
+  {
+    id: 404,
+    title: 'Shiba Inu (SHIB) Price Prediction 2025-2030: Is SHIB stuck in a loop again?',
+    category: 'Crypto',
+    subCategory: ['Shiba', 'SHIB', 'Price'],
+    description: <div className="blog-desc">
+      <p>After a promising start, SHIB is stuck within a price range. Here’s what can spur its fortunes…</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-418.jpg',
+    content: <div className="blog-content">
+    	<p>After a promising start, SHIB is stuck within a price range. Here’s what can spur its fortunes…</p>
+    	<p>The crypto-markets began trading on a gloomy note on 18 April as Bitcoin was unable to break through its resistance level of $30,400. When Bitcoin’s price dropped to $29,700, briefly, several altcoins and meme tokens followed. Shiba Inu (SHIB), like many others, dropped on the charts too, before recovering somewhat and falling again finally.</p>	
+      <p>Shiba Inu project’s lead developer Shytoshi Kusama recently updated his Twitter location to “in the Lab,” prompting the crypto-community to speculate about Shibarium’s progress.</p>	
+      <p>The recent release of Shibarium beta’s public documentation and ongoing project developments demonstrate Shiba Inu’s strong commitment to expanding their ecosystem and improving the platform’s capabilities. The price of SHIB, on the other hand, remains sideways as market sentiment remains uncertain.</p>	
+      <p>There is mild but consistent growth in the total number of Shiba Inu (SHIB) tokens being burnt as the price of the meme coin takes a breather. Over 5.2 million SHIB tokens have been burnt over the last 24 hours. In fact, Shiba Inu has been on a rampage for the better part of the week.</p>	
+      <p>Consider this – Shiba Inu (SHIB) reportedly noted its highest daily surge in active addresses in 2023 at the end of March, when nearly 36,000 SHIB addresses transacted on the network. Citing Santiment data, crypto-analyst Ali Martinez made the claim on Twitter that the network activity has set a record high since the beginning of the year.</p>	
+      <p>Despite the launch of the much-awaited Shibarium L2,  however, whale trading activity has continued to decline.</p>	
+      <p>Shytoshi Kusama had previously promised that Shibarium would not only serve as a Layer 2 platform for Shiba Inu ecosystem members, but would also attract members of the broader crypto-community. Built on the Ethereum blockchain, Shibarium is expected to bring a lot of attention to meme coins.</p>	
+      <p>SHIB took a massive hit in the wake of the Silicon Valley Bank collapse. The token tumbled down the price chart but has been trying to recover.</p>	
+      <p>That being said, the arrival of Shibarium might potentially mark a new era for Shiba Inu. One in which it moves from being just a meme cryptocurrency to being a platform that offered genuine utility. Just last week, the project announced the public beta launch of Shibarium, a launch that is expected to push SHIB’s price in the future.</p>	
+      <p>Shiba Inu was founded in 2020 by an anonymous techpreneur. Elon Musk and Vitalik Buterin, both tech billionaires, have praised the project. Shiba Inu has been successful in attracting people who missed the Dogecoin craze previously.</p>	
+      <p>Investors seeking to join the joke have increased the popularity of memecoins, which are not supposed to be taken seriously.</p>	
+      <p>Shiba Inu has been known to be a disrupter when it comes to management and operations. The enterprise began with a supply of one quadrillion; its founder Ryoshi first locked 50% in Uniswap and then burned another 50% to Vitalik Buterin, the founder of Ethereum. We are yet to know why this step was taken.</p>	
+      <p>Later in 2021, Buterin burned 90% of his Shiba Inu holdings and donate the rest to charities. He had earlier donated SHIB tokens worth $1 billion to a COVID-19 relief fund for India, CryptoRelief. He said that this was the only way he could avoid his transactions in Shiba Inu being read as actions.</p>	
+      <p>Buterin’s decision to burn his holdings, nearly 50% of the Shiba Inu coins in circulation, effectively put them outside the purview of the market since these coins are now stored on an inaccessible public address. Ryoshi thanked Buterin for his contribution to creating a decentralized financial system.</p>
+      <p>Buterin has also praised the Shiba Inu community for supporting different initiatives such as the Fellows in AI Existential Safety.</p>	
+      <p>The platform also supports the Shiba Inu Incubator, facilitating a large group of creative digital artists who bring forth an experience of what feels like a decentralized movement. The NFT project gives support to artists in the creation, exhibition, promotion and auction of their artworks, besides providing them with other streams of income.</p>	
+      <p>In August 2022, the Shiba Inu Ecosystem announced on Twitter the name of the Shib CCG game, Shiba Eternity. It also revealed that the game would be available on both Google PlayStore and Apple AppStore. On 17 September, the game was launched in Australia and plans to venture into other countries.</p>	
+      <p>The community is also involved in rescuing real Shiba Inu dogs through its association with the NGO named Shiba Inu Rescue Association.</p>	
+      <p>Skeptics are unsure of the future of cryptocurrency and memecoins in particular. While the mainstream cryptocurrencies projected themselves to be the alternatives to fiat currencies, memestream cryptocurrencies such as Shiba Inu were only poking fun at the former’s claims.</p>	
+      <p>But as these memecoins got popular, they didn’t go in the direction of developing use cases of the currency. That wasn’t the intention either, neither did the community expect such a popularity in the growth of memecoins. There are, however, a number of merchants today in the US accepting Shiba Inu as a payment method.</p>	
+      <p>Another factor affecting the growth of the Shiba Inu currency is the huge number of crypto whales selling the memecoins. As per a report, whales at one point of time held $1 billion worth of SHIB coins. However, they keep selling and burning the currency from time to time, and now they hold barely a fraction of that amount.</p>	
+      <p>The second quarter of 2022 proved to be a bloodbath for the entire cryptocurrency industry as Terra Luna, FTX and several crypto projects failed in the year. The banking crisis following the collapse of the crypto-friendly Silicon Valley Bank (SVB) also impacted SHIB’s performance.</p>	
+      <h3>Why these projections matter </h3>
+      <p>As is evident, a sense of community is crucial to the growth of SHIB. Whether it is their demand to get it listed on Robinhood or asking McDonald’s to accept it as a mode of payment, the community has always rallied around the growth of SHIB.</p>	
+      <p>It has also become home to a huge community of NFT artists who focus on the Shiba Inu breed of dogs in their artworks.</p>	
+      <p>“Rather than simply dismissing the hype outright, it’s important to realize that what we’re seeing is the mass movement of traders new to crypto moving into the space,” said Ben Caselin, Head of Research and Strategy at AAX. He added, “SHIB coin is a meme coin and embraces that.”</p>	
+      <p>In this article, we will give an overview of the key performance indicators of SHIB such as price and market cap. We will then share with you what most popular crypto-analysts have to say about the future of this meme coin. This information will be complemented by data charts for a better understanding of the trajectory of SHIB so far and later.</p>	
+      <h3>Shiba Inu’s Price, Market Cap, and everything in between</h3>
+      <p>During the crypto-bloom of 2021, SHIB’s price continued to soar and hit 0.00003503 in mid-May. Its price further rose by over 34% when it got listed on the crypto-exchange Coinbase in September 2021.</p>	
+      <p>When the Shiba Inu community clamoured to get the cryptocurrency listed on Robinhood Markets Inc., its price soared to an ATH of $0.00008845 in late October 2021. The altcoin, however, was not listed on the exchange before April 2022. At that point in time, it even dislodged Dogecoin to become the most-valued meme coin by market capitalization. The surge also led to its mass adoption by many cryptocurrency enthusiasts.</p>	
+      <p>As the cryptocurrency market crashed during Q2 of 2022, SHIB’s market price also continued to fall. From its April 2022 price of 0.000026, it fell to a little below $0.000008 by mid-June 2022. Since then, it hasn’t performed much better.</p>	
+      <p>SHIB, at press time, was trading at $0.00001122 with a market cap of $6.7 billion and a 24-hour trading volume of $377 million.</p>	
+      <p>However, one cannot disregard the fact that along with DOGE, SHIB has been responsible for a flood of meme-coins in the cryptocurrency market such as Bit Shiba, King Shiba and Baby Doge.</p>	
+      <h3>Shiba Inu Coin’s 2025 Predictions </h3>
+      <p>Before reading further, we must understand that market predictions of different analysts widely vary. A good number of times, these predictions will prove to be wrong as analysts cannot always foresee events such as political or environmental crises. It is wise that an investor conducts their own research before investing in a cryptocurrency, especially in something as volatile as SHIB.</p>	
+      <p>A Changelly blogpost says that after studying the SHIB prices and market fluctuations, experts predict that SHIB could hit as high as $0.0000440756 and as low as $0.0000366063 in 2025. Its average price is expected to remain at $0.0000376362.</p>	
+      <p>Telegaon writes that according to some crypto experts, the Shiba Inu Coin price can hit a new ATH in 2025. They predict the minimum and maximum prices of SHIB this year to be $0.00009839 and $0.0001928, respectively. Its average price is predicted to be around $0.0001152.</p>	
+      <p>As per DigitalCoinPrice, the minimum and maximum prices of SHIB in 2025 will be $0.0000312 and $0.0000381, with its average price remaining at $0.0000356.</p>	
+      <p>Shiba Inu’s 2030 Predictions</p>	
+      <p>The aforementioned Chanelly blogpost writes that SHIB could hit as high as $0.0002908409 and as low as $0.0002463454 in 2030. Its average price is expected to remain at $0.0002532547</p>	
+      <p>Telegaon writes that SHIB’s price can hit as high as $0.00112 and as low as $0.0009354 in 2030. Its average price in the said year however will be $0.0009915.</p>	
+      <p>The post adds that if users burn enough tokens, a cryptocurrency’s acceptance is bound to increase. But we should understand that for this purpose, it has to have different use cases.</p>	
+    	<p>The aforementioned DigitalCoinPrice article predicts that SHIB’s average price in 2030 will be $0.000108. Its minimum and maximum prices for the year will be $0.000103 and $0.000111.</p>	
+    	<p>At the time of writing, SHIB’s Fear and Greed Index was in the ‘neutral’ position.</p>
+      <h3>Conclusion</h3>
+      <p>Shiba Inu Coin has continued to grow, hand in hand with the token burns. However, as its supply decreases and demand increases, its price should rise. Ideally. In fact, many investors have become millionaires by investing in this meme coin.</p>
+      <p>Shiba Inu has a lot of promising possibilities that will keep pushing the market. What also works in its favor is its extremely low price, which is why a lot of people keep buying it.</p>
+      <p>Shibarium, the platform’s Layer 2 protocol, has been launched. It will allow users to move assets with minor gas fees, facilitating micro transactions over Shiba Inu-based dApps. The team has deployed a host of new and innovative developers to build the UX/UI of its platform and web portals as a part of the same process.</p>
+      <p>The launch of Shibarium was accompanied by the launch of the TREAT token. It will be used as a reward token on Shiba Inu-based metaverse and games such as the Shiba Collectible Card Game. A limited supply of these coins is reserved for its most loyal Breed members who have been working for years to build public confidence in the entity. The team has also been contemplating launching SHI, a stablecoin; but no concrete information about this coin is there so far.</p>
+      <p>In January 2022, Shiba Inu Ecosystem announced the arrival of Shiberse, the native metaverse of the Shiba Inu community. As digital coins, games, virtual land and memes populate the Shiberse, it is bound to get popular among an audience that is keen to explore a brave new world beyond the confines of time and space. </p>
+      <p>The same month, the group tweeted the news about Shiba Eternity, a collectible card game. The game has been developed in close collaboration with the legendary AAA game development studio PlaySide Studios.</p>
+      <p>What the enterprise is certain to face is a challenge in this space from Big Tech metaverse ventures such as Yuga Labs’ Otherside and Zuckerberg’s Meta. It is difficult for an independent community such as the Shiba Inu Ecosystem to sustain the might of Big Money and Big Tech. The only way it can gain an edge in this segment is by introducing revolutionary ideas in the metaverse, gaming and NFT segments. So far, we haven’t seen anything new.</p>
+      <p>In October 2022, Elon Musk announced the launch of a fragrance that can be bought with SHIB, besides PayPal, Google Pay, DOGE and regular bank cards. As cryptocurrency is accepted in collaboration with BitPay payment processor, payments in SHIB are also possible.</p>
+      <p>The same month, Google Cloud and Coinbase made an announcement about their relationship for Web 3.0 development initiatives. A select group of clients will also be able to pay for these services using SHIB and other cryptocurrencies. We’ll have to wait and see if the decision is implemented and if other businesses decide to follow suit.</p>
+      <p>Shibarium’s launch suggests that the Shiba Inu team looks serious about being more than another memecoin, something also indicated by its long-awaited metaverse. As such, SHIB really could be one of the major coins to watch this year, with significant rallies potentially in sight.</p>
+      <p>Furthermore, its upcoming Metaverse project improves this project’s allure from a tokenomics perspective. As a memecoin, the value of SHIB is driven by how bullish (and large) the Shiba Inu community is at a given point in time.</p>
+      <p>Analysts speculate that SHIB cryptocurrency might retrace its recovery path as soon as it gets support from the level. However, volume change can be seen declining and under the influence of sellers. Buyers need to come forward to rescue the SHIB token from the seller’s grip.</p>
+      <p>Early last month, Shiba Inu announced that it will debut its Wagmi Temple at the upcoming SXSW festival. Here, WAGMI stands for “We’re all gonna make it,” a popular phrase among fans of Shiba Inu. Meanwhile, the broader crypto community is representing their belief in the potential of Shiba Inu for growth and success.</p>
+    </div>
+  },
+  {
+    id: 403,
+    title: 'Stellar (XLM) Price Prediction 2025-30: What XLM must do for a clear uptrend',
+    category: 'Crypto',
+    subCategory: ['Stellar', 'XLM', 'Price'],
+    description: <div className="blog-desc">
+      <p>At press time, a significant correction seemed to be underway. What does this mean for XLM now?</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-417.jpg',
+    content: <div className="blog-content">
+      <p>At press time, a significant correction seemed to be underway. What does this mean for XLM now?</p>
+    	<p>Stellar Lumens [XLM] gained somewhat over the last seven days, on the back of the larger market’s uptrend on the charts. In fact, following the aforementioned price hike, XLM’s volume rose too, hitting a weekly high of 223.7 million recently. Even so, at the time of writing, the altcoin was on its way down, losing over 4% of its value in 2 hours alone. </p>
+      <p>Curiously, it was only last week that XLM’s price surpassed $0.1 for the first time in nearly a year. Coincidentally, the additional increase last week coincided with the project’s ninth anniversary.</p>
+      <p>Early this month, Brazil’s central bank launched the pilot for its experimental central bank digital currency (CBDC). The test for Brazilian CBDC, Digital Real, is taking place on the Stellar blockchain network.</p>
+      <p>Soon thereafter, Pendulum announced the release of the Spacewalk bridge that connects the Polkadot infrastructure to Stellar’s blockchain so Polkadot can access fiat and stablecoin currencies. The Spacewalk bridge will allow Polkadot to access the entire infrastructure created by Stellar, especially that related to cross-border payments.</p>
+      <p>The trust of large institutions in the Stellar network is a primary reason for its strong market presence.  </p>
+      <p>Stellar is today one of the best platforms for facilitating faster and easier international financial transactions. It is based on a decentralized on-chain protocol. Stellar users trade in Lumens (XLM) which is the platform’s native cryptocurrency.</p>
+      <p>Another important feature of Stellar is that individuals are more interested in Stellar than organizations, as it is a platform for small-amount payments. It is gaining popularity due to its simple user interface.</p>
+      <p>Stellar enables real-time transactions to occur anywhere in the world in as little as five seconds. A new smart contracts platform called Soroban has released its second preview. The upgrade intends to increase platform developer friendliness, scalability, and sensibility.</p>
+      <p>Last year, Ethereum transitioned from the proof-of-work (PoS) to proof-of-stake (PoS) consensus mechanism following the Merge. A major reason for this step was claimed to be the adoption of eco-friendly processes. In this regard, Stellar is very promising, as it has a smaller carbon footprint. Its authentication cycle is also fast, keeping energy use to a minimum.</p>
+      <p>Acting as a decentralized currency exchange, Stellar helps you track all of your assets with an order book. You can sell, buy and manage all of your assets here, with XLM acting as an intermediate currency for paying transaction fees. The currency is very useful for the users because it helps you reduce transaction costs.</p>
+      <p>Transactions on the Stellar platform are performed swiftly due to the ease of Lumens. The currency not only makes transactions seamless for the sender and the recipient but also ensures that transactions are secure.</p>
+      <p>Jed McCaleb, Co-founder, and CTO of Stellar said in an interview with CoinMarketCap that XLM is used in a fundamental way for the network.</p>
+      <p><strong>“Maybe that affects the price, maybe price is a secondary indicator of how useful the underlying protocol is in some way… But I think that the trend is there: that where price and utility can come into play.”</strong></p>
+      <p>XLM is listed on a number of crypto exchanges including Binance, eToro, Huobi Global, CoinTiger, FTX, and OKEx. This shows that the currency is an increasingly accepted choice of investors now.</p>
+      <p>A total of 100 billion XLMs were issued when the Stellar network was launched in 2015. In 2019, the group announced that it was burning over half of the cryptocurrency’s supply. Stellar mentions on its website that currently, there are around 50 billion XLMs in existence; 20 billion XLMs are in circulation and 30 billion XLMs are retained by the Stellar Development Foundation for project development. Nothing more will be created.</p>
+      <h3>Why these projections matter</h3>
+      <p>Where Stellar trumps other financial platforms is its low transaction fees, which have drawn a huge number of cryptocurrency users to it. It is one of the few blockchain networks that has been successful in collaborating with large tech corporations, such as Deloitte and IBM. Stellar, in partnership with IBM, launched a project that enables FinTech to engage in financial transactions using assets such as stablecoins.</p>
+      <p>It must be noted that Stellar is one of the large corporations that are operating in the cryptocurrency market. It is one of the most centralized cryptocurrency networks active on the internet. While the Stellar network uses decentralized nodes, it doesn’t have that many validators. Such an infrastructure gives the group a lot of control over the operations and price movement of XLM.</p>
+      <p>In 2016, Deloitte announced a partnership with Stellar, along with four other blockchain networks, to provide new technological capabilities to its global financial institution client base.</p>
+      <p>In June 2018, Fortune reported that New York financial regulators approved Stellar Lumens to trade on the Bit exchange, the first time the state’s authorities have given it the green light.</p>
+      <p>In October 2021, IBM partnered with Stellar to facilitate cross-border payments by banks. The system uses XLM as a bridge currency for transactions and it has been successful in the South Pacific region.</p>
+      <p>The same year, Moneygram announced a partnership with Stellar. Its integration with Stellar facilitates the conversion of the USDC stablecoin into cash and vice versa. The facility aims to encourage the liquidity of cryptocurrencies and the integration of traditional and cryptocurrency markets.</p>
+      <p>In October 2021,  Flutterwave, a global payments technology company, also announced two new remittance corridors between Europe and Africa on the Stellar network. The step is a major step in Stellar’s expansion in the global market.</p>
+      <p>It also succeeded in receiving certification from the Islamic scholars of Bahrain in 2018, aiming to integrate the technology into the field of sharia-compliant financial products, reported Reuters.</p>
+      <p>“We have been looking to work with companies that facilitate remittances, including in the United Arab Emirates, Saudi Arabia, and Bahrain. It’s a huge market,” said Lisa Nestor, the then-director of partnerships at Stellar. Since the Middle East and South Asian regions are key areas of growth for the group, where a lot of countries are run on a sharia-compliant system, this is a major success for Stellar.</p>
+      <p>Developing economies are the focus of the Stellar network in the areas of remittances and loans. It primarily aims to target those who are still not part of the traditional banking system.</p>
+      <p>In June 2022, the global platform for modern money movement, Nium, and Stellar announced a partnership to enable payouts to 190 countries. “This integration truly drives home the value that blockchain-powered cross-border payment solutions bring to the current financial system,” said Denelle Dixon, CEO and Executive Director of the Stellar Development Foundation. “At SDF, we are always working to fill up the map and connect the network to more of the globe. Together with Nium, we are thrilled to expand the reach of the Stellar network so significantly.”</p>
+      <p>Another prominent feature of Stellar is that it gives power to the community to decide what project(s) the blockchain should focus on.</p>
+      <p>We will now briefly give an overview of the key performance indicators of XLM, such as price and market capitalization. We will then summarize what the world’s leading crypto-analysts have to say about the future of this currency, along with its Fear & Greed Index.</p>
+    	<h3>XLM’s Price, Market Cap, and everything in between</h3>
+      <p>XLM’s price has hiked significantly over the last few years. Back in 2018-2019, it kept falling below its previous ATH of around $0.93 (recorded in early January 2018). It was only in 2021 that its price again rose, hitting a price level of over $0.7 around mid-May. However, as the cryptocurrency market collapsed in the second quarter of 2022, XLM went into a bearish dive.</p>	
+    	<p>At press time, XLM was changing hands at $0.0985, with a market cap of $2.58 billion.</p>	
+    	<p>The market capitalization of the cryptocurrency follows its price trends throughout. In early January 2018, it was nearly $9 billion, and it skyrocketed to as high as $16.5 billion (May 2021) during the crypto-boom of 2021. In fact, it was performing fairly well in 2022 too, until the market crashed during the year’s second quarter.</p>
+      <p>Stellar has seen many growth spurts over the past few years, such as when Mercado Bitcoin announced its use of the platform. In less than a year, Stellar housed almost 3 million user accounts. Since that time, however, Stellar has built a network of partners that includes Flutterwave and MoneyGram.</p>
+      <h3>Lumens’ 2025 Predictions</h3>
+      <p>A Changelly blogpost says that many experts have observed the prices and fluctuations of Lumens over the years and concluded that the currency could hit as high as $0.309969 and as low as $0.259974 in 2025. Its average price will remain around $0.259974 in the said year.</p>
+      <p>Telegaon is very bullish in its assessment of XLM’s performance. It writes that the average price of XLM can be around $2.96 by 2025 if current growth continues. Its maximum price could be up to $3.53, while its minimum price can go down up to $1.32.</p>
+      <p>As per DigitalCoinPrice, XLM’s price could reach as high as $0.36 and as low as $0.31 in 2025. Its average price in the year is going to be $0.38.</p>
+      <h3>Lumens’ 2030 Predictions</h3>
+      <p>The aforementioned Changelly blogpost predicts the maximum and minimum prices of XLM in 2030 to be $2.12 and $1.74 respectively. Its average price in the year will be $1.79.</p>
+      <p>Telegaon remains very bullish in its assessment for 2030 as well. It writes that the currency could reach as high as $31.02 and as low as $23.31. It predicts XLM’s average price to be around $25.62.</p>
+      <p>As per DigitalCoinPrice, XLM’s average price in 2030 is going to be $1.1, with its maximum and minimum prices being $1.11 and $1.04.</p>
+      <h3>Conclusion</h3>
+      <p>Stellar has, time and again, stressed its role in increasing financial inclusion across the globe. In particular, it focuses on working towards better micro-finance management. Today, it operates in association with a number of financial institutions across the globe, shaping the future of a financial system that is welcoming to cryptocurrency.</p>
+      <p>Any financial institution can integrate with Stellar and avoid the hassle of building its own payment gateway. This integration connects these global players in such a way that interoperability and communication among different systems are seamless.</p>
+      <p>A significant accomplishment of Stellar is the integration of the global financial system while cutting fees. Stellar has a sizable user base, which is not surprising given that it has become a crucial tool for enabling economic empowerment.</p>
+      <p>The Stellar network is considered a rival to the Ripple network. While Ripple helps banks make fund transfers, Stellar helps individuals outside the banking system make fund transfers. Its simple, swift and economical process has made it very popular among users across several developed countries.</p>
+      <p>These developments are certain to boost Stellar’s credibility among the users and raise the price of Lumens. Besides, XLM is one of the most eco-friendly cryptocurrencies. Its consensus model is faster than both PoS and PoW, making it the preferred choice of many investors.</p>
+      <p>The unique features of Stellar such as strategic partnerships and convenience, make XLM one of the most reliable crypto investments. Its growth as a payments network will be the most important factor influencing the future of XLM.</p>
+      <p>Despite being embroiled in a legal dispute with the Securities and Exchange Commission (SEC), Stellar’s Lumens coin is a major cryptocurrency to wager on.</p>
+      <p>In June 2022, the system upgraded Protocol 19, building payment channels and key recovery channels. Stellar is also working on the Project Jump Cannon to facilitate a robust execution environment for smart contracts.</p>
+      <p>In 2022 itself, many crypto exchanges such as WhiteBIT, CoinMe, and Mercado Bitcoin enabled USD-backed stablecoin transactions, increasing the access to USDC on Stellar.</p>
+      <p>Coinbase Wallet announced in November 2022 that it will no longer support the XLM token, along with BCH, ETC, XRP, effective 5 December. Coinbase cited “low usage” as a reason for delisting the four coins.</p>
+      <p>The SDF has also established a $100 million fund to encourage developers to create applications for the Soroban smart contract platform. Soroban adds Turing-complete smart contracts to the Stellar blockchain, allowing developers to create new financial services rails on the network.</p>
+      <p>The Stellar Community Fund (SCF) has announced that 21 projects will receive funds as part of its 11th round. The required funding for the winning projects will be given to them in XLM tokens. The grants total more than 13 million XLM for the entire round.</p>
+      <p>South Korea’s leading cryptocurrency exchange, Upbit, announced the temporary suspension of deposits and withdrawals of the Stellar network’s native token, XLM, and other assets on the network. Upbit stated that the event was caused by the need for maintenance of the Stellar network and the wallets in it.</p>
+      <p>In March 2022, Stellar stated in its blog that it will launch Project Jump Cannon, an E&D venture to introduce native smart contracts for its blockchain. The same month, it also introduced the Starbridge project that would create bridges between Stellar and other blockchains, enabling interoperability.</p>
+      <p>Since December 2022, the Stellar network has been working with the United Nations High Commissioner for Refugees (UNHCR) to provide its blockchain payment solutions to those affected by the war in Ukraine.</p>
+      <p>In January 2023, Stellar (XLM) announced its decision to join the U.S. Commodity Futures Trading Commission (CFTC) Global Markets Advisory Committee (GMAC). It is important to note that the committee is composed of a diverse group of members with backgrounds in both traditional finance and cryptocurrency. As a result, Stellar’s (XLM) unique perspective on Layer 1 protocols may not carry the same weight as that of more established players in the space.</p>
+      <p>If Stellar continues to adopt more of such innovations and succeeds in building a larger community, it can prove to be a significant player in the crypto market.</p>
+      <p>The latest Fear & Greed Index projects a ‘neutral’ market sentiment for XLM.</p>
+    </div>
+  },
+  {
+    id: 402,
+    title: 'Dogecoin sees an ugly rejection at resistance, are the bears back?',
+    category: 'Crypto',
+    subCategory: ['Dogecoin', 'Bears', 'Rejection'],
+    description: <div className="blog-desc">
+      <p>Dogecoin had been in a steady uptrend over the past week, but the sudden drop in prices came as a surprise, and millions of dollars of long positions were caught offside.</p>
+    </div>,
+    authorName: 'Akashnath S',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-416.jpg',
+    content: <div className="blog-content">
+      <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion</p>
+    	<p>Dogecoin had been in a steady uptrend over the past week, but the sudden drop in prices came as a surprise, and millions of dollars of long positions were caught offside.</p>
+    	<ul>
+        <li>Losses of 10% within two hours shatter the bullish structure.</li>
+        <li>Capital flow was firmly directed out of the market.</li>
+      </ul>
+      <p>Dogecoin had been in a steady uptrend over the past week. From 12 April to 18 April, DOGE bulls managed to defend the $0.08 support zone and steadily drive prices higher to reach a local high at $0.095.</p>	
+    	<p>This move amounted to gains of 18.2% within a week but a good chunk of them was erased within hours on Wednesday. Bitcoin would need to defend the $28.8k support in the coming hours to shore up bullish confidence.</p>	
+    	<h3>The swift descent had a huge volume, but can bulls hope for a recovery?</h3>
+      <p>The $0.093 resistance had been a tough opponent for the buyers in recent days. Their attempts to drive the DOGE rally higher were consistently halted. The RSI hovered between the 50 and 60 values over the past three days, showing some bullish momentum.</p>
+      <p>This was swiftly undone in the hours preceding press time. The CMF had been hovering around the-0.05 mark over the past 24 hours. It slumped swiftly to -0.13 before bouncing to -0.08. Overall it showed significant capital flow out of the market.</p>
+      <p>The price fell below the $0.085 level but was quick to bounce to $0.0875 at press time. The ideal scenario for the bulls is a push above the $0.088 resistance level.</p>
+      <h3>“$6 million rekt,” says Coinglass, with bulls being the vast majority</h3>
+      <p>The sudden drop in prices came as a surprise, and millions of dollars of long positions were caught offside. Coinglass data showed $5.94 million worth of positions were long, of the $6.06 million liquidated in the four hours before press time.</p>
+      <p>The fall in prices was accompanied by a massive decline of close to $50 million in Open Interest.</p>
+      <p>This indicated short-term sentiment was firmly in favor of the sellers, which was made worse by the findings from the CVD. The spot CVD chart showed selling pressure has been dominant since 14 April.</p>
+    </div>
+  },
+  {
+    id: 418,
+    title: 'Gold Price Outlook for April 2023',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Price', 'Rise'],
+    description: <div className="blog-desc">
+      <p>The tide appears to have turned, just as it did at the crucial moment in 2008. And just like it was the case back then, it seems that most people missed it.</p>
+    </div>,
+    authorName: 'Przemyslaw Radomski, CFA',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023 - 10:43 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-432.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The tide appears to have turned, just as it did at the crucial moment in 2008. And just like it was the case back then, it seems that most people missed it.</p>
+    	<p>The thing is that people are usually concerned with very short-term news and price moves:</p>	
+    	<p>- Gold rallied by $X, yesterday!</p>	
+    	<p>- Rates were just hiked by x%!</p>
+      <p>And so on…</p>
+      <p>In reality, these events are just triggers for events that are unfolding in tune with long-term trends and analogies. Some of those triggers make perfect sense, and some don’t, as markets can act in the “buy-the-rumor-sell-the-fact” mode, thus greatly perplexing those, who expect the market moves to always be in tune with the news that was just announced.</p>
+      <p>Boy, were those folks surprised when the rates were cut by 0.75% back in 2008 and the stock market still plunged!</p>
+      <p>There are myriads of such examples, and examining them leads to one major take-away. Even though it might seem exciting and very important to focus on those immediate-term events, it is actually the analysis of trends, technicals, and analogies to the previous situations that actually brings useful insights that can then help one make profitable trades. Of course, no technique is perfect, and nobody, including yours truly, can guarantee any kind of performance, but based on two decades of my experience in the precious metals market, I see how useful this is, especially compared to any attempts to guess what the next “unexpected news” is going to be (hint: even if it happens as one had thought, it sometimes has a different effect than one had expected).</p>
+      <p>When forecasting gold prices, it’s no different. Focusing on the big picture comes first, and spotting analogies to what already happened is second. Trying to guesstimate what’s about to take place in the news is much further on the list.</p>
+      <p>The space here is limited (and so is everyone’s time), so to make a long story short, the big picture for gold is not as bullish as it might seem based on its most recent move above $2,000. No. Gold is barely above its 2011 high in nominal terms (not to mention real terms), despite loads of dollars being printed in the meantime and even despite the war outbreak in Europe.</p>
+      <p>Silver and mining stocks are much below their 2011 highs – in fact, mining stocks are even well above their 2008 highs in many cases.</p>
+      <p>This doesn’t show the strength of the market, but rather its weakness.</p>
+      <p>As far as analogies to the previous cases, gold, silver, and mining stocks appear to be repeating their performances from previous periods, and the most important of the analogies seems to be the one to what happened in 2008.</p>
+      <p>The reason is that it’s not only visible from the technical point of view, and it’s not only visible across many markets, but actually some of the fundamental news surrounding the price moves are similar.</p>
+      <p>Starting with the latter, the rates are moving up, and that was also what preceded the 2008 slide (not directly, but still). And do you remember the Lehman collapse that one of the first dominos to fall? This time, it was the Silicon Valley Bank.</p>
+      <p>Ultimately, in the aftermath of all this both: gold and silver prices plunged profoundly, but there was a huge counter-trend rally first.</p>
+      <p>And what did gold do back then? It soared for about a week, then it traded sideways and finally topped slightly higher than it did initially.</p>
+      <p>While gold soared, the USD Index declined on a short-term basis, the mining stocks moved higher, but overall followed the general stock market, and… There was a sharp upswing in crude oil prices (as seen on the bottom of the above chart), even though it’s been in a medium-term downtrend.</p>
+      <p><strong>It all happened recently, too. Even the sharp upswing in crude oil!</strong></p>
+      <p>The price of black gold just jumped, while being in a medium-term downtrend.</p>
+      <p>Stock prices are currently moving sideways on a medium-term basis, but their most recent move was to the upside.</p>
+      <p>It currently looks like the right shoulder of the head-and-shoulders formation is being formed. The RSI reading shows similarity to what happened in mid-2022 and back then a massive decline followed. Of course, not two periods are identical, but they are similar enough for the implications to be bearish at this time.</p>
+      <p>This is especially the case that the volume has been visibly decreasing during the current upswing – exactly like it’s been the case in mid-2022.</p>
+      <p>Consequently, the current short-term forecast for stock prices is bearish.</p>
+      <p>This means that the implications for mining stocks are bearish as well, since those two markets (mining stocks are stocks, after all!) are connected – and this is the case just like it was back in 2008.</p>
+      <p>The USD Index appears to have just finished its short-term decline that’s a correction within a bigger uptrend.</p>
+      <p>Again, that’s something that we’ve seen in 2008. Back then, the move lower in the USD Index took less time, but let’s keep in mind that the history tends to rhyme rather than repeat itself to the letter.</p>
+      <p>There’s a specific pattern present on the USD Index that affects quite many forex forecasts (not surprising given the USD Index is ultimately a weighted average of forex pairs).</p>
+      <p>Namely, the U.S. currency tends to reverse its directions close to the turn of the month. That’s what I marked with dashed lines on the above chart. It seems that this technique worked once again, and a local bottom was formed.</p>
+      <p>Zooming in allows us to see that the USD Index actually managed not only to break above its declining resistance line, but also verify this breakout and then rally once again.</p>
+      <p>This – combined with above-mentioned monthly seasonal tendency – makes it very likely that the bottom in the USD Index is in.</p>
+      <p>Given the negative correlation between gold and the USD Index, it seems that the top in gold is in as well.</p>
+      <p>Let’s take a look at the gold price itself.</p>
+      <p>After a sharp rally – that took place for about a week (just like in 2008!) – gold price started to move sideways and recently it moved to new intraday high.</p>
+      <p>Unless one is aware of the bearish analogy to 2008, the above might seem bullish, but given the carnage that followed in 2008, gold price’s recent behavior is not bullish at all. It’s bearish.</p>
+      <p>The fact that gold just moved back below $2,000 on an intraday basis only adds to the bearish implications of the recent price movement.</p>
+      <p>What does it all mean?</p>
+      <p>It means that despite a positive movement in gold in the last several weeks, gold price analysis actually suggests that a very bearish surprise awaits those, who are taking the price moves at their face value.</p>
+    </div>
+  },
+  {
+    id: 408,
+    title: 'Stock Market Trims Losses At Midday; This Nasdaq 100 Stock Soars On Earnings',
+    category: 'Indices',
+    subCategory: ['Stocks', 'Market', 'Losses'],
+    description: <div className="blog-desc">
+      <p>The stock market was off session lows at midday Wednesday but still modestly lower as investors keyed on earnings reports from Netflix (NFLX) and other major companies. IBD 50 company Shift4 (FOUR) plunged, hurting that index. Nasdaq 100 stock Intuitive Surgical (ISRG) soared after the company blew away earnings expectations.</p>
+    </div>,
+    authorName: 'JUAN CARLOS ARANCIBIA',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023 - 8:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-422.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The stock market was off session lows at midday Wednesday but still modestly lower as investors keyed on earnings reports from Netflix (NFLX) and other major companies. IBD 50 company Shift4 (FOUR) plunged, hurting that index. Nasdaq 100 stock Intuitive Surgical (ISRG) soared after the company blew away earnings expectations.</p>
+    	<p>Shortly before noon on Wall Street, the S&P 500 and Nasdaq reduced their losses to 0.2%. The Nasdaq composite had been down about 0.6% earlier as the 12,000 mark seems to hold.</p>	
+    	<p>The Dow Jones Industrial Average fell 0.3%. Small caps lagged as the Russell 2000 shed 0.5%. Volume rose on the NYSE and Nasdaq compared with the same time on Tuesday.</p>	
+	    <p>The Innovator IBD 50 ETF (FFTY) underperformed with a 1.5% decline at midday.</p>
+      <p>Shift4 did some damage to the IBD 50 as the payment processing firm sold off 12%, piercing the 50-day moving average in heavy volume. FOUR stock was forming an ascending base, but now has a sell signal. Short seller Blue Orca accused the company of accounting practices that inflate its performance.</p>
+      <p>The 10-year Treasury yield rose 6 basis points to 3.63%.</p>
+      <h3>Netflix, Morgan Stanley Fall On Earnings</h3>
+      <p>Netflix stock fell more than 3% in heavy volume, making it one of the worst-performing S&P 500 stocks. The video streaming service missed Wall Street's Q1 target for new subscribers and its outlook was soft. Earnings fell 18% while sales climbed 4%. Despite the loss, Netflix stock continues to work on a cup-with-handle base.</p>
+      <p><strong>Morgan Stanley (MS)</strong>trimmed its loss to about 1% after sinking as much as 3.7%. The investment bank's Q1 2023 profit fell but still beat estimates. Revenue also topped expectations but fell 2% year over year. Investment banking revenue tumbled 24% while trading revenue slid 13%.</p>
+      <p>But regional banks — an industry feared to have liquidity problems — shined in Wednesday's stock market on encouraging earnings reports. The SPDR S&P Regional Banking ETF (KRE) climbed 1.3% and is finding support around 42.</p>
+      <p><strong>Western Alliance Bancorp (WAL)</strong> soared 13% in heavy trading. UBS analyst Brody Preston gave positive comments on a $2 billion increase in deposits so far this quarter, as the report calmed concerns about liquidity and capital.</p>
+      <p>It would be the stock's largest increase since Nov. 9, 2020, when it rose 23.6%, according to Dow Jones Market Data.</p>
+      <p><strong>U.S. Bancorp (USB)</strong> reversed modestly lower, erasing a 2.5% gain, after it reported first-quarter results that topped estimates. Rising interest rates and its acquisition of MUFG Union Bank boosted the quarter for the parent company of U.S. Bank.</p>
+      <p><strong>Synchrony Financial (SYF)</strong> trimmed gains to 1% in active trading following a mixed Q1 report for  the consumer financial services firm.</p>
+      <p>Dow Jones component Travelers (TRV) climbed 6% after the insurance provider comfortably beat profit expectations. TRV stock regained its 200-day and 50-day moving averages.</p>
+      <h3>Nasdaq 100 Stock Soars As Procedures Surge</h3>
+      <p>Nasdaq 100 stock Intuitive Surgical roared higher, up 12% as shares gapped above a cup base with a 285.19 buy point. The stock is having its best day since March 24, 2020, when it jumped 17.4%.</p>
+      <p>Late Tuesday, the company beat first-quarter profit and sales expectations. Intuitive Surgical saw a  resurgence in robotic surgery procedures during the quarter. Revenue jumped 14% to $1.7 billion, as adjusted earnings rose 9% to $1.23 per share.</p>
+      <p>Semiconductor equipment maker ASML (ASML) beat Wall Street's targets for the first quarter but noted some caution among customers. Shares gapped down nearly 4% but remain in a cup with handle.</p>
+      <p>Tesla (TSLA) fell 1.5% ahead of the EV maker's earnings report after today's close.</p>
+      <p>Late Tuesday, Tesla trimmed prices in the U.S. for the second time this month. It cut Model Y prices by $3,000, to a starting price of $46,990. Model 3 prices were cut by $2,000, to $39,990. It was Tesla's sixth price cut so far this year and follows cuts in Europe, Singapore and Israel last Friday.</p>
+      <p>Tech products distributor CDW (CDW) gapped down nearly 14% in big volume. The company announced Q1 revenue that missed estimates as customers pulled back on spending. It's on pace for its worst day since the height of the pandemic.</p>
+      <h3>Stock Market: More Earnings After The Close</h3>
+      <p>After the stock market close, Dow component IBM (IBM), chip equipment maker Lam Research (LRCX) and Steel Dynamics (STLD) are among the notable earnings reports.</p>
+      <p>There's little on today's economic calendar, but the Fed's Beige Book survey will be released at 2 p.m. ET. Also, Chicago Fed President Austan Goolsbee and New York Fed President John Williams are scheduled to give speeches this evening, according to Econoday.</p>
+    </div>
+  },
+  {
+    id: 398,
+    title: 'Ethereum drops 7% amid wider crypto sell-off as traders assess rate uncertainty',
+    category: 'Crypto',
+    subCategory: ['ETH', 'Ethereum', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Ethereum dropped as much as 7% on Wednesday amid a broader crypto market sell-off as traders navigate a murky environment.</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023 - 7:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-411.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Ethereum fell as much as 7% and bitcoin fell 3% in under 30 minutes early Wednesday.</li>
+        <li>Altcoins are taking hits too, with solana and polygon down 8% and 5%, respectively.</li>
+        <li>It's unclear what led to to the sell-off, but markets have been sensitive to signs of central bank tightening.</li>
+      </ul>
+    	<p>Ethereum dropped as much as 7% on Wednesday amid a broader crypto market sell-off as traders navigate a murky environment.</p>
+    	<p>Bitcoin fell almost 3% in under 30 minutes early this morning, according to Messari. Meanwhile, altcoins are taking hits too, with solana and polygon down 8% and 5%, respectively.</p>	
+    	<p>Although it's unclear what exactly led to the downtrend in prices, markets have been sensitive to signs of central bank tightening.</p>	
+    	<p>The Federal Reserve has consistently hiked rates for over a year to combat decades-high inflation, and it is widely expected to raise rates by another 25 basis points next month.</p>
+      <p>Overseas, consumer price index data indicated that UK inflation remains above 10%, meaning the Bank of England may need to raise interest rates further.</p>
+      <p>"After last month's shock CPI reading, today's print still shows double-digit inflation," Giles Coghlan, chief market analyst at financial services firm HYCM, told Insider in a statement. "This is a sign that inflation is not yet back on track and the longed-for decline towards pre-Covid levels is not quite there."</p>
+      <p>Coghlan added: "The question investors will be asking now is, where does the Bank of England go from here?"</p>
+      <p>Other experts said recent inflation data did not play in the market downturn. Rather, it was a large crypto holder, commonly known as a "whale," offloading a massive position on an exchange.</p>
+      <p>"It may have been caused by a whale that sold about 16,000 BTC on Binance at the market," Timothy T. Shan, COO at decentralized exchange Dexalot, told Insider. "This subsequently triggered an overall derisking amongst longs (including levered longs) across the market."</p>
+      <p>Alex Altgausen, CEO at blockchain gaming startup Banksters, pointed to Binance enabling withdraws of staked ether following Ethereum's latest software upgrade.</p>
+      <p>"ETH's price decrease can be attributed to the activation of ETH unstaking on Binance. After years of waiting, people are now able to unstake and sell their profits, which is contributing to the drop in price," Altgausen told Insider.</p>
+      <p>Volatility has returned to the market after months of upside for digital assets.</p>
+      <p>Ethereum notched an 11-month high after its highly-anticipated Shanghai upgrade, also known as "Shapella," last week. Elsewhere, bitcoin hit a 10-month record and has soared 39% in the past three months.</p>
+    </div>
+  },
+  {
+    id: 412,
+    title: 'EUR/USD Forecast – Euro Finding Buyers on Dips',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro initially pulled back just a bit during the trading session on Wednesday but continues to see a lot of noise near the 1.09 level, in an area that of course is a large, round, psychologically significant figure, and an area where we’ve seen a lot of noise recently. That being said, there’s also a lot of noise above near the 1.10 level, which is eerily reminiscent of the GBP/USD pair. Ultimately, I think this is a market that is trying to decide whether or not the US dollar is going to continue to sell off, or if we have peaked.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023 - 5:42 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-426.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>The Euro initially pulled back just a bit during the trading session on Wednesday but continues to see a lot of noise near the 1.09 level, in an area that of course is a large, round, psychologically significant figure, and an area where we’ve seen a lot of noise recently. That being said, there’s also a lot of noise above near the 1.10 level, which is eerily reminiscent of the GBP/USD pair. Ultimately, I think this is a market that is trying to decide whether or not the US dollar is going to continue to sell off, or if we have peaked.</p>
+	    <p>Because of this, and the fact that we have a lot of PMI numbers coming out on Friday, I anticipate that this market is probably going to hang out in his general vicinity for a while, therefore I think it’s more or less going to be sideways chop over the next couple of days. If we do break down below the 1.09 level, then it opens up the possibility of a drop down to the 1.08 level, followed very quickly by the 50-Day EMA. On the other hand, if we turn around and rally from here, we need to take out the high to get super bullish, and at that point in time I think that the Euro will probably go looking to the 1.1250 level, possibly even as high as 1.15 level over the longer term.</p>	
+	    <p>A lot of this comes down to the fact that the European Central Bank is still in the midst of its tightening cycle, while it is generally believed that the Federal Reserve is coming to the end. Whether or not that’s actually the case remains to be seen, but at this point there are a lot of stresses in the economy, so traders are trying to jump ahead of the Federal Reserve, but quite frankly if the Federal Reserve does start cutting, that’s not going to be a bullish thing in the end so you may see the Euro spike for a bit, only to turn around and crumble as people rush toward the safety of treasuries. In other words, chop is going to continue to be the way forward.</p>
+    </div>
+  },
+  {
+    id: 413,
+    title: 'AUDUSD Forecast – Australian Dollar Choppy During Wednesday Session',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forex'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has had a very choppy trading session on Wednesday, as it looks like we are getting a bit noisy just below the 50-Day EMA. 50-Day EMA is an indicator that obviously will attract a lot of attention, as the market is also near the 0.67 level. Lately, the market has been consolidating between 0.68 level on the top and the 0.66 level on the bottom, in a relatively well-defined trading session. It is also probably worth paying attention to the fact that the 200-Day EMA is near the 0.68 level, so it does provide yet another reason to think that there is a “ceiling” at that area.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023 - 5:35 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-427.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has had a very choppy trading session on Wednesday, as it looks like we are getting a bit noisy just below the 50-Day EMA. 50-Day EMA is an indicator that obviously will attract a lot of attention, as the market is also near the 0.67 level. Lately, the market has been consolidating between 0.68 level on the top and the 0.66 level on the bottom, in a relatively well-defined trading session. It is also probably worth paying attention to the fact that the 200-Day EMA is near the 0.68 level, so it does provide yet another reason to think that there is a “ceiling” at that area.</p>
+	    <p>Keep in mind that the Australian dollar is very sensitive to the commodity markets, and of course the idea of global growth. After all, the Australian economy is essentially built upon the idea of exporting copper, aluminum, iron, and other hard metals to places like China as the world grows or shrinks. As it looks like we are heading into a global recession, it’s difficult to imagine a situation where the Australian dollar suddenly becomes very strong. That being said, you should also keep in mind that the Reserve Bank of Australia chose not to raise interest rates recently, and it does not look like they are anywhere near changing their attitude. With this, I think we will continue to see the Australian dollar someone underperform other currencies, especially the US dollar which still has hiking to go.</p>	
+	    <p>Ultimately, this is a situation where I think you stay in this range, but you probably prefer the downside over the upside. However, if you are range bound trader, you could go both ways, as long as you don’t over lever your position in what looks to be like a very noisy market to say the least. The market breaking out of this range obviously could be a significant move, but in the meantime, it doesn’t look like we have the momentum to make that move easily, so therefore you need to be very cautious with trying to get too big too quick when it comes to playing any momentum swing.</p>
+    </div>
+  },
+  {
+    id: 409,
+    title: 'US STOCKS-S&P 500 ekes out gain as tech supports, J&J, Goldman disappoint',
+    category: 'Indices',
+    subCategory: ['US', 'Stocks', 'J&J'],
+    description: <div className="blog-desc">
+      <p>April 18 (Reuters) - The S&P 500 eked out a slim gain on Tuesday after strength in some big technology stocks countered disappointing quarterly reports from Johnson & Johnson and Goldman Sachs as first-quarter earnings season kicked into gear.</p>
+    </div>,
+    authorName: 'Lewis Krauskopf and Sruthi Shankar and Ankika Biswas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 19, 2023 - 12:26 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-423.jpg',
+    content: <div className="blog-content">
+      <p>By Lewis Krauskopf, Sruthi Shankar and Ankika Biswas</p>
+    	<p>April 18 (Reuters) - The S&P 500 eked out a slim gain on Tuesday after strength in some big technology stocks countered disappointing quarterly reports from Johnson & Johnson and Goldman Sachs as first-quarter earnings season kicked into gear.</p>
+    	<p>The Dow and Nasdaq ended with fractional declines on the day.</p>	
+    	<p>J&J shares fell 2.8% after the healthcare conglomerate cautioned investors over the lingering impact of inflation-driven costs this year. Goldman shares dropped 1.7% after the Wall Street firm's profit fell 19% as dealmaking and bond trading slumped.</p>	
+    	<p>The early quarterly results from S&P 500 companies come as investors have been bracing for a gloomy reporting season, fearing the economy may be on the cusp of a downturn.</p>
+      <p>"What we are seeing here is the calm before the storm as far as earnings go," said Brad McMillan, chief investment officer of Commonwealth Financial Network. "The market is just trying to see, do we have some upside here or not, and I think it is really going to come down to earnings over the next couple of weeks."</p>
+      <p>The Dow Jones Industrial Average fell 10.55 points, or 0.03%, to 33,976.63, the S&P 500 gained 3.55 points, or 0.09%, to 4,154.87 and the Nasdaq Composite dropped 4.31 points, or 0.04%, to 12,153.41.</p>
+      <p>The CBOE Volatility index, also known as Wall Street's fear gauge, fell to its lowest point since January 2022 during the session.</p>
+      <p>The heavyweight technology sector rose 0.4%, helped by a 2.5% increase in shares of Nvidia Corp after HSBC raised its recommendation on the graphics chipmaker to "buy" from "reduce."</p>
+      <p>The healthcare sector dropped 0.7%, weighed down by J&J shares.</p>
+      <p>S&P 500 company earnings are expected to have declined 4.8% in the first quarter from a year earlier, according to Refinitiv IBES data as of Friday. Investors have zeroed in on bank results after the failure of Silicon Valley Bank last month set off concerns about potential systemic risks.</p>
+      <p>"While the big money center banks did very well as a whole, the focus I think is going to be on the regional banks because that is really where the center of the fallout was," said Paul Nolte, senior wealth advisor and market strategist at Murphy & Sylvest Wealth Management.</p>
+      <p>Shares of Netflix Inc fell in initial after-hours trading on Tuesday following the company's quarterly report.</p>
+      <p>The S&P 500 is trading near two-month highs as investors await a deluge of earnings and assess the interest rate path ahead of an expected 25 basis point increase at the Federal Reserve's meeting early next month.</p>
+      <p>St. Louis Federal Reserve President James Bullard told Reuters on Tuesday the U.S. central bank should continue raising rates on the back of recent data showing persistent inflation. Separately, Atlanta Fed President Raphael Bostic said the Fed most likely has one more rate hike ahead.</p>
+      <p>In other earnings news, Lockheed Martin Corp's shares rose 2.4% after the U.S. weapons maker's first-quarter results surpassed Wall Street targets despite parts and labor shortages.</p>
+      <p>Advancing issues outnumbered decliners on the NYSE by a 1.01-to-1 ratio; on Nasdaq, a 1.29-to-1 ratio favored decliners.</p>
+      <p>The S&P 500 posted 28 new 52-week highs and no new lows; the Nasdaq Composite recorded 66 new highs and 143 new lows.</p>
+      <p>About 9.8 billion shares changed hands in U.S. exchanges, compared with the 10.7 billion daily average over the last 20 sessions.</p>
+      <p>(Reporting by Lewis Krauskopf in New York, Sruthi Shankar, Ankika Biswas and Vansh Agarwal in Bengaluru; Editing by Sriraj Kalluvila, Vinay Dwivedi and Richard Chang)</p>
+    </div>
+  },
+  {
+    id: 411,
+    title: 'S&P 500 Faces Resistance As Bitcoin Clears New Highs; Elon Musk Starts AI Rival Company',
+    category: 'Indices',
+    subCategory: ['S&P', 'Elon musk', 'Bitcoin'],
+    description: <div className="blog-desc">
+      <p>Dow Jones Industrial Average rose off the day's lows and traded nearly flat at 1:30 p.m. ET on Tuesday. Dow stocks Salesforce (CRM), Boeing (BA), Apple (AAPL) all rose. JPMorgan (JPM) and Cisco (CSCO) also gained ground while health care stocks fell.</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 18, 2023 - 10:56 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-425.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones Industrial Average rose off the day's lows and traded nearly flat at 1:30 p.m. ET on Tuesday. Dow stocks Salesforce (CRM), Boeing (BA), Apple (AAPL) all rose. JPMorgan (JPM) and Cisco (CSCO) also gained ground while health care stocks fell.</p>
+    	<p>The S&P 500 was also flat in early afternoon trading. However, the index faces resistance at the current level. According to John Lynch, Chief Investment Officer at Comerica, a test of October's lows cannot be ruled out as the risk of an earnings recession looms.</p>	
+    	<p>The "combination of declining earnings, weakening economic growth, a steadfast Federal Reserve, and a lack of broad participation suggests the equity market is poised to struggle in the weeks and months ahead."</p>	
+    	<p>FactSet estimates expect an earnings recession, with profits declining 6.0% in the first quarter, greater than the five-year average intra-quarter decline of 2.8%. If met, it would represent a consecutive quarterly decline in corporate profits, resulting in an EPS recession.</p>
+      <p><strong>Nvidia (NVDA)</strong> gained after an analyst upgrade.</p>
+      <p>Homebuilder stocks Lennar (LEN) and D.R. Horton (DHI) rallied ahead of Thursday earnings. Both stocks are in buy zones.</p>
+      <p>The Nasdaq  fell 0.2% while the small-cap Russell 2000 saw a bigger drop of 0.6%. Travel and leisure stocks Airbnb (ABNB) and Booking (BKNG) rose.</p>
+      <p>Volume was lighter on the NYSE but higher on the Nasdaq compared to the same time Monday.</p>
+      <p>Crude oil notched a small gain to trade at $80.93 per barrel. The yield on the benchmark 10-year Treasury note fell 1 basis point to 3.58%.</p>
+      <p>Bitcoin held steady after clearing a critical level last week.</p>
+      <p>The leading crypto coin hit the $30,000 mark for the first time since June 2022, according to CoinMarketCap. It is a new high for the year after a prolonged crypto winter and black swan events like the FTX crash in November, which pummeled crypto instruments.</p>
+      <h3>Stocks Moving Today</h3>
+      <p><strong>Bank of America (BAC)</strong> gained in afternoon trading after strong earnings. Net interest income rose 25% as interest rates surged, helping the money-center bank post a strong quarter.</p>
+      <p>Weak bond trading and fewer deals undermined Goldman Sachs (GS) quarterly revenue. GS shares were testing the 50-day line after diving over 3%.</p>
+      <p><strong>Johnson & Johnson (JNJ)</strong> fell sharply despite posting a strong quarter. The Dow Jones leader raised its full-year earnings outlook to $10.60-$10.70 per share. Sales of its cancer drugs and treatment for Crohn's disease was strong. Investors may have been disappointed by the lack of clarity on baby powder class-action lawsuits.</p>
+      <p>HSBC raised its Nvidia (NVDA) price target to 355 and upgraded its rating to buy from reduce. The IBD Leaderboard stock jumped 3%. Shares are extended with no clear base or entry yet.</p>
+      <p>Lockheed Martin (LMT) broke out of a flat base after earnings. M/I Homes (MHO) broke out of a cup with handle with a buy point at 63.57. Crocs (CROX) on IBD SwingTrader broke out at an entry of 143.60, with a relative strength line at new highs.</p>
+      <h3>AI Race Takes A Turn</h3>
+      <p>Last week, the Wall Street Journal reported that Tesla (TSLA) CEO Elon Musk incorporated a new company in March that will develop artificial-intelligence technologies. Musk helped found OpenAI in 2015 but left it in 2018.</p>
+      <p>The new company, called X.ai, has 100 million shares on offer in a private sale. X.ai has plans of developing 'TruthGPT' that will rival Google parent Alphabet (GOOGL), Microsoft (MSFT), C3.ai (AI), OpenAI and DeepMind.</p>
+      <p>AI plays had mixed price action after the news.</p>
+      <p>C3.ai (AI) gained 4% and held most of its gains on Tuesday.</p>
+      <p>Shares of Google parent Alphabet (GOOGL) continued to slip after falling on Monday. Shares also fell on news that Samsung might use Bing rather than Google on its phones. Dow Jones component Microsoft (MSFT) also slipped slightly. GOOGL is back below its buy point of 106.69, while Microsoft is in a buy zone above a base.</p>
+      <h3>Earnings Deck Outside Dow Jones</h3>
+      <p><strong>Netflix (NFLX)</strong> rose slightly in the afternoon. The streaming giant reports earnings after the close. Analysts are looking for a profit of $2.87 per share. NFLX stock has added more than 12% this year and has doubled in price since bottoming out in May 2022.</p>
+      <p>Shares are in a cup with handle with a potential entry at 349.90. United Airlines (UAL) is on tap as well this evening. Shares are clearing the 200-day line.</p>
+      <p>Tesla's earnings are due Wednesday. Morgan Stanley (MS) earnings are also on deck.</p>
+      <p>Housing starts and building permits declined in March. On Tuesday, the Commerce Department showed that single-family housing starts rose 2.7% on a seasonally adjusted basis. Single-family building permits rose 4.1%, but multifamily homes fell.</p>
+    </div>
+  },
+  {
+    id: 410,
+    title: 'US STOCKS-S&P 500 flat as Goldman earnings disappoint, tech supports',
+    category: 'Indices',
+    subCategory: ['US', 'Stocks', 'GoldMan'],
+    description: <div className="blog-desc">
+      <p>April 18 (Reuters) - The S&P 500 index was little changed on Tuesday as a drop in Goldman Sachs' profit dampened optimism about resilience in the banking sector, with gains in technology stocks helping keep the index afloat.</p>
+    </div>,
+    authorName: 'Sruthi Shankar and Ankika Biswas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 18, 2023 - 6:55 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-424.jpg',
+    content: <div className="blog-content">
+    	<p>By Sruthi Shankar and Ankika Biswas</p>
+    	<p>April 18 (Reuters) - The S&P 500 index was little changed on Tuesday as a drop in Goldman Sachs' profit dampened optimism about resilience in the banking sector, with gains in technology stocks helping keep the index afloat.</p>	
+    	<p>Goldman Sachs Group Inc dropped 2.5% after its quarterly profit fell 19%, hit by sluggish dealmaking and losses from the sale of some loans from its consumer unit Marcus.</p>	
+    	<p>Bank of America Corp slipped 0.6% in choppy trade even as its first-quarter profit beat analysts' estimate. The wider banking index was down 0.2%.</p>
+      <p>Johnson & Johnson fell 2.6% as the healthcare conglomerate's 2023 profit forecast was seen as cautious by several analysts.</p>
+      <p>"We expect earnings to really be stressed. It's all kind of this slow motion fall into a recession and that earnings recession is really kind of the next shoe to drop," said Brandon Pizzurro, director of public investments at Guidestone Capital Management.</p>
+      <p>Investor expectations were buoyed by strong results from big banks including JPMorgan Chase & Co last week in the backdrop of the recent banking turmoil sparked by the collapse of some mid-sized U.S. lenders.</p>
+      <p>The CBOE Volatility index, also known as Wall Street's fear gauge, edged up to 17.15 after hitting an over one-year low earlier.</p>
+      <p>The main Wall Street indexes have traded in a tight range since earnings season kicked off but remain close to two-month highs on expectations that the Fed is nearing the end of its monetary tightening cycle.</p>
+      <p>Mixed economic data recently has supported bets the Fed will hike interest rates by 25 basis points in May and hit pause before cutting rates in the second half of the year.</p>
+      <p>St. Louis President James Bullard said that the Fed should continue raising rates as recent data has indicated sticky inflation, while the broader economy seems poised to continue growing, even if slowly.</p>
+      <p>At 10:12 a.m. ET, the Dow Jones Industrial Average was down 121.20 points, or 0.36%, at 33,865.98, the S&P 500 was up 1.79 points, or 0.04%, at 4,153.11, and the Nasdaq Composite was up 16.03 points, or 0.13%, at 12,173.75.</p>
+      <p>Nvidia Corp jumped 4% after HSBC upgraded the chipmaker's stock to "buy" from "reduce", surprised by its pricing power on artificial intelligence (AI) chips.</p>
+      <p>Investors will monitor quarterly earnings from Netflix Inc after market hours.</p>
+      <p>Lockheed Martin Corp rose 2.9% after quarterly results of the U.S. weapons maker's surpassed Wall Street targets as simmering geopolitical tensions fueled demand from both domestic and international customers.</p>
+      <p>Advancing issues outnumbered decliners by a 1.07-to-1 ratio on the NYSE, while decliners outnumbered advancers by a 1.18-to-1 ratio on the Nasdaq.</p>
+      <p>The S&P index recorded 23 new 52-week highs and no new low, while the Nasdaq recorded 41 new highs and 36 new lows.</p>
+      <p>(Reporting by Sruthi Shankar and Ankika Biswas in Bengaluru; Editing by Sriraj Kalluvila and Vinay Dwivedi)</p>
+    </div>
+  },
+  {
+    id: 414,
+    title: 'USD/JPY Forecast – US Dollar Pulls Back Against the Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar pulled back to reach toward the 200-Day EMA, which of course is an indicator that a lot of people pay attention to. Because of this, it’s probably worth noting that there should be a lot of noise in this area and of course support. I do think that the market is trying to turn around and rally over the longer term, but right now it’s more likely than not going to be a scenario where we will eventually find buyers, but the question will be when do they show up?</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 18, 2023 - 5:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-428.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar pulled back to reach toward the 200-Day EMA, which of course is an indicator that a lot of people pay attention to. Because of this, it’s probably worth noting that there should be a lot of noise in this area and of course support. I do think that the market is trying to turn around and rally over the longer term, but right now it’s more likely than not going to be a scenario where we will eventually find buyers, but the question will be when do they show up?</p>
+	    <p>Ultimately, the 50-Day EMA sits underneath and is starting to rise, so that does offer the ability to see a bit of support in that area as well. Ultimately, this is a market that could go reaching toward the ¥135 level. The market breaking above the ¥135 level opens up the possibility of the ¥137.50 level, which is where the market has seen a lot of selling pressure previously. Because of this, I think it’s likely that we would see that area as a potential ceiling in the market, and therefore you would have to be cautious trying to get long in that area. However, if we were to break above there then it would obviously be a very bullish sign and could send the market racing higher. In that environment, I would fully anticipate that the market is looking to reach the ¥140 level.</p>	
+	    <p>Keep an eye on the bond markets of both countries, as the interest rate differential has a huge part to play in this market. You should also keep in mind that the Bank of Japan continues to have a major yield curve control policy and effect, and therefore will have to print currency if rates start to rise again, devaluing the Japanese yen itself. In that scenario, we could see the US dollar, and most other currencies, take off against the Japanese yen if yield start to rise again. Underneath, I would anticipate that the ¥130 level should be rather supportive, and to break down below there could open up the possibility of a move to the ¥127.50 level.</p>	
+	    <p></p>
+    </div>
+  },
+  {
+    id: 415,
+    title: 'GBP to USD Forecast – British Pound Rallies Back Into Same Region',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit during the trading session on Tuesday, as we have broken back above the 1.24 level to begin looking toward the same range that we had been in previously. There does seem to be a lot of noise between 1.24 and 1.25, so I think it is worth paying close attention to what is going on. If we were to break above the 1.25 level, then it’s possible that the market really could take off to the upside, perhaps trying to get to the 1.2750 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 18, 2023 - 5:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-429.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+      <h3>British Pound vs US Dollar Technical Analysis</h3>
+      <p>The British pound has rallied a bit during the trading session on Tuesday, as we have broken back above the 1.24 level to begin looking toward the same range that we had been in previously. There does seem to be a lot of noise between 1.24 and 1.25, so I think it is worth paying close attention to what is going on. If we were to break above the 1.25 level, then it’s possible that the market really could take off to the upside, perhaps trying to get to the 1.2750 level.</p>
+      <p>That being said, the market is more likely than not going to continue to see a lot of resistance just above, so I don’t necessarily think that we break out quite easily. The fact that there is not a lot of economic announcements until the end of the week probably keeps this market somewhat quiet over the next couple of days, so therefore it’s likely that we could see a lot of back and forth in this general vicinity. Ultimately, this is a situation where I think we are trying to determine whether or not we can finally break out for a bigger move.</p>	
+      <p>There are a lot of different reasons to believe that we are on the precipice of something big, not the least of which would be technical analysis. However, a lot of traders out there are trying to bet on whether or not the Federal Reserve will have to loosen its monetary policy. If they do, that obviously would be negative for the US dollar, and it seems as if a lot of people are betting on that being the case. Whether or not that’s actually true might be a completely different argument, but right now it looks as if we are trying to sort things out. If we were to break down below the lows of the last couple of weeks, then the market is likely to go down to the 50-Day EMA, or perhaps down to the 200-Day EMA.</p>
+    </div>
+  },
+  {
+    id: 416,
+    title: 'EUR/USD Forecast – Euro Bounces Back Into Familiar Area',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 18, 2023 - 4:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-430.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The euro rallied a bit during the trading session on Tuesday as the market continues to probe the ability to go higher. The 1.10 level above is a large, round, psychologically significant figure, and therefore it will attract a certain amount of attention. If we were to break above that level, then it’s possible that the market could start to take off again, perhaps going to the 1.1250 level.</p>
+	    <p>On the other hand, if we were to turn around and break down below the 1.09 level, then it’s possible that we could go down to the 50-Day EMA, which is sitting right around the 1.08 level. The 1.08 level is an area that has been important multiple times, and of course a lot of headlines will be made if we test that area. If we were to break down below there, then I think you have a real shot at falling down toward the 200-Day EMA, which is currently sitting just around the 1.06 level.</p>	
+    	<p>Keep in mind that there are a lot of questions as to whether or not the Federal Reserve will start to loosen monetary policy, and that is part of why the euro has seen so much in the way of strength recently. However, there are a lot of economic concerns out there right now, and you need to be cautious about the economic performance of most major economies. After all, it looks as if we are heading into a recession, and that typically bodes well for the US dollar eventually.</p>	
+	    <p>We are essentially working with 2 major themes here, the idea that the Federal Reserve is going to slow down, and the idea that we are going to see a slowing global economy. Typically, what will happen from a historical point of view is that the US dollar takes it on the chin initially, but then starts to strengthen as people race toward safety. Regardless, I think the thing that you can probably count on in this market is going to be a lot of choppy behavior in the short term going forward, with a lot of concerns with both economies going forward, and therefore a lot of money will be flowing into the bond markets.</p>
+    </div>
+  },
+  {
+    id: 417,
+    title: 'AUDUSD Forecast – Australian Dollar Continues to Consolidate',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has rallied a bit during the trading session on Tuesday to reach the 50-Day EMA, but it’s probably worth noting that we also have the significant amount of resistance above that could come into the picture. After all, the market has been bouncing around between the 0.66 level underneath, and the 0.68 level above. Ultimately, this is a situation where we will continue to see a lot of choppy behavior, and therefore it’ll be interesting to see where we kick off from.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 18, 2023 - 4:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-431.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has rallied a bit during the trading session on Tuesday to reach the 50-Day EMA, but it’s probably worth noting that we also have the significant amount of resistance above that could come into the picture. After all, the market has been bouncing around between the 0.66 level underneath, and the 0.68 level above. Ultimately, this is a situation where we will continue to see a lot of choppy behavior, and therefore it’ll be interesting to see where we kick off from.</p>
+	    <p>You can make a bit of an argument for a bearish flag, although I do think that it is stretching it a bit to say the least. The market breaking down below the consolidation area could then send this market down to the 0.65 level. If we break down below there, then the market goes down from there. Ultimately, this is a market that I think is more likely than not going to be in a situation where overall traders will wish to fade rallies but in the short term it looks like it’s probably more consolidation than anything else.</p>	
+	    <p>Keep in mind that the Australian dollar is highly sensitive to the commodities markets, and of course global growth of economies. After all, if the economy starts to slow down, then it’s likely that we would see the Australian dollar suffer as a result. Keep in mind that the Australian economy is highly levered to the export of hard commodities such as aluminum, copper, gold, and the like. It’s also highly levered to the Chinese mainland economy, which does seem to be doing better, so that’s probably the one thing that is working out for Australia at the moment.</p>	
+	    <p>Either way, I think you get a situation where you continue to see a lot of volatility and choppiness, so I will be using those 2 levels as a bit of a guide as to where the market may go in the short term, but it still looks a bit heavy, and that the downside may eventually prevail. If it does, we could see a flush lower and a move down to the 0.65 level, perhaps even followed by the 0.64 level.</p>
+    </div>
+  },
+  {
+    id: 420,
+    title: 'Oil Dips as Demand Signs, Strong Dollar Leave Traders ‘Cautious’',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Demand', 'Dips'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil lost ground amid signs of tepid demand, with a stronger dollar and key technical measures also putting a lid on the commodity’s recent rally.</p>
+    </div>,
+    authorName: 'Julia Fanzeres',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 17, 2023 - 11:02 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-434.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>(Bloomberg) -- Oil lost ground amid signs of tepid demand, with a stronger dollar and key technical measures also putting a lid on the commodity’s recent rally.</p>
+	    <p>Some Asian refiners are considering cuts to crude-processing volumes as profit margins shrink, signaling softer oil demand in the region, while weakness in the global diesel market added to the concerns. The stronger dollar and lingering inflation also weighed on prices, with broader markets waiting to hear from Federal Reserve speakers this week.</p>	
+	    <p>“Worries about stuttering economic growth and untamable inflation are capping efforts to push prices higher,” said Tamas Varga, an analyst at PVM Oil Associates Ltd. “Breaking above the $90 barrier on Brent will be a tall order in the very near future.”</p>	
+	    <p>Technicals are also providing headwinds for the commodity as the four-week rally has left crude in overbought territory, signaling a correction is possible in the short term. The US benchmark failed to break through its 200-day moving average last week and has been trading lower ever since.</p>
+      <p>“Prices need a breath from the latest four-week rally,” said Dennis Kissler, senior vice president of trading at BOK Financial Securities. Futures are mostly in overbought territory, causing traders this week to be in a “cautious mode.”</p>
+      <p>Oil has rebounded from the banking shock that rippled across markets in March and drove futures to a 15-month low. Shrinking crude stockpiles at the key US storage hub of Cushing, Oklahoma, and interruptions to supplies from Iraqi Kurdistan have added to the tightening of global markets.</p>
+      <p>Energy Daily, Bloomberg’s daily energy and commodities newsletter, is now available. Sign up here.</p>
+    </div>
+  },
+  {
     id: 389,
     title: 'Dow Jones Futures Loom: Tesla, Apple Near Buy Points In Volatile Market Rally',
     category: 'Markets',
@@ -257,6 +1191,48 @@ const blogListdata = [
     </div>
   },
   {
+    id: 419,
+    title: 'Gold ETFs Hit New 52-Week Highs',
+    category: 'Commodities',
+    subCategory: ['Gold', 'ETDs', 'High'],
+    description: <div className="blog-desc">
+      <p>Gold has been shining in recent months, buoyed by safe-haven demand amid recession fears and the banking turmoil. The Fed rate hike pause bets, lower Treasury yields and a weaker dollar also added to the strength.</p>
+    </div>,
+    authorName: 'Sweta Killa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 7:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-433.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Gold has been shining in recent months, buoyed by safe-haven demand amid recession fears and the banking turmoil. The Fed rate hike pause bets, lower Treasury yields and a weaker dollar also added to the strength.</p>
+    	<p>The most actively traded gold-futures contract rose to $2,055.30 an ounce, up about 13% year-to-date. That has put the bullion within striking distance of its record high reached in the summer of 2020. After logging the best monthly performance since July 2020, gold is on track for the second consecutive gain in April (read: Gold Shines in March: 5 ETFs That Gained the Most).</p>	
+    	<p>With the rise in prices, almost all gold ETFs hit a new 52-week high in the last trading session. We have highlighted the most popular ones that are flying high. These include SPDR Gold Trust ETF GLD, iShares Gold Trust IAU, SPDR Gold MiniShares Trust GLDM, Aberdeen Standard Physical Swiss Gold Shares ETF SGOL and iShares Gold Trust Micro IAUM. Each of these funds gained 10.4% from a year-to-date look.</p>	
+    	<h3>Behind the Rise in Gold Price</h3>
+      <p>The latest batch of economic data points to a slowdown in the economy, prompting bets that the Federal Reserve is nearing the end of its rate-hike cycle. The yellow metal is highly sensitive to rising U.S. interest rates, as these increase the opportunity cost of holding a non-yielding bullion. A pause or slowdown in the pace of rate hikes will lift gold price higher. The CME FedWatch tool shows markets are pricing in a 66.8% chance of a 25 basis-point hike in May, with rate cuts seen in the back half of the year.</p>
+      <p>Additionally, the recent collapse of several U.S. banks led to worries about financial instability across the globe, thus raising the appeal for the yellow metal as a safe haven and a store of value. Growing recession fears and intensifying geopolitical tensions compelled investors to flock to gold. The International Monetary Fund warned that the risk of a recession has grown for advanced economies in the wake of bank failures in the United States and Europe and slashed its outlook for global growth this year.</p>
+      <p>Notably, gold is often used as a means of preserving wealth during times of financial and political uncertainty. It usually does well when other asset classes struggle (read: 4 ETF Areas to Benefit as Geopolitical Concerns Intensifying).</p>
+      <p>The dollar index slid to a one-year low, supporting the rally in the gold price as a weak dollar makes bullion cheaper for overseas buyers. Further, a boost in gold buying by central banks this year has added fuel to the rally.</p>
+      <p>Here’s a detailed discussion on the five ETFs mentioned earlier:</p>
+      <h3>SPDR Gold Trust ETF (GLD)</h3>
+      <p>SPDR Gold Trust ETF tracks the price of gold bullion measured in U.S. dollars and kept in London under the custody of HSBC Bank USA. It is an ultra-popular gold ETF, with AUM of $60 billion and a heavy volume of about 7.6 million shares a day.</p>
+      <p>SPDR Gold Trust ETF charges 40 bps in fees per year from investors and has a Zacks ETF Rank #3 (Hold) with a Medium risk outlook (read: 5 ETFs to Play as Inflation Cools Down to 5%).</p>
+      <h3>iShares Gold Trust (IAU)</h3>
+      <p>iShares Gold Trust offers exposure to the day-to-day movement of the price of gold bullion. It is backed by physical gold under the custody of JP Morgan Chase Bank in London.</p>
+      <p>iShares Gold Trust charges 25 bps in annual fees. It is liquid and popular, trading in average daily volumes of 5 million shares and has AUM of $29 billion.</p>
+      <h3>SPDR Gold MiniShares Trust (GLDM)</h3>
+      <p>SPDR Gold MiniShares Trust seeks to reflect the performance of the price of gold bullion. It is a slightly modified alternative to the State Street behemoth gold fund SPDR Gold Trust ETF.</p>
+      <p>SPDR Gold MiniShares Trust is the low-cost choice in the U.S. listed physically gold-backed ETF space, charging investors 10 bps in annual fees. It has $6.2 billion in AUM and trades in a solid average daily volume of 1.2 million shares.</p>
+      <h3>Aberdeen Standard Physical Swiss Gold Shares ETF (SGOL)</h3>
+      <p>Aberdeen Standard Physical Swiss Gold Shares ETF tracks the price of gold bullion. The Trust holds allocated physical gold bullion bars stored in secure vaults in Zurich, Switzerland and London, the United Kingdom.</p>
+      <p>Aberdeen Standard Physical Swiss Gold Shares ETF has amassed $2.7 billion in its asset base and trades in a solid volume of 2.5 million shares per day. It charges 17 bps in annual fees per year.</p>
+      <h3>iShares Gold Trust Micro (IAUM)</h3>
+      <p>iShares Gold Trust Micro offers exposure to the day-to-day movement of the price of gold bullion. It is the lowest-cost gold ETF on the market, having an expense ratio of 0.09% (read: Can Gold ETFs Continue Their Winning Run?).</p>
+      <p>iShares Gold Trust Micro has amassed $1 billion in its asset base while trading in an average daily volume of 428,000 shares.</p>
+    </div>
+  },
+  {
     id: 392,
     title: 'GBP to USD Weekly Forecast – British Pound Pierces the 1.25 Level',
     category: 'Forex',
@@ -365,6 +1341,41 @@ const blogListdata = [
     	<p>The British pound had initially tried to rally a bit during the trading session on Friday but gave back the gains almost immediately after the retail sales number came out of the United States much weaker than anticipated, therefore it looks like people are starting to run toward safety, as the Federal Reserve seems to be hell-bent on tightening into an economically weak situation. If that’s going to be the case, then it’s very likely that we will see ripples throughout the financial markets across the world, and ironically could make the US dollar stronger.</p>
     	<p>The British pound of course has been one of the better performing currencies around the world, so I think at the very least you could probably look at this as a situation where the British pound will probably outperform other currencies against the greenback regardless of how we react from here, but nonetheless it certainly looks as if we are getting a little bit overstretched. The 1.24 level underneath should be support, so if we break down below there, then it would obviously be a very negative turn of events.</p>	
     	<p>If we were to break down below there, then it’s likely that we could go looking to the 50-Day EMA, closer to the 1.2250 level. On the other hand, if we turn around and take off to the upside and break above the highs for the session on Friday, then it’s very possible that the market could go to the 1.2650 level, followed by the 1.2750 level, both areas have seen a little bit of noise recently. At the end of the day, this is a situation where the market probably needs the pullback to find enough value to get involved in this market to the upside. Regardless, this market will probably continue to be noisy, right along with so many others as there are a lot of questions out there about where we are going next. Expect volatility, and size your positions accordingly, as the market seemed very erratic to say the least.</p>	
+    </div>
+  },
+  {
+    id: 399,
+    title: 'Bitcoin rises to near US$31,000, Ether leads gains across top 10 cryptos',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Rises'],
+    description: <div className="blog-desc">
+      <p>Bitcoin continued its rally to near the US$31,000 mark in Friday afternoon trading in Asia. All other top 10 non-stablecoin cryptocurrencies also gained, led by Ethereum following the successful launch of the blockchain’s Shanghai hard fork on Wednesday. Asian equity markets moved higher following a rally in Wall Street on Thursday, on signs of cooling inflation in the U.S. and on strong Chinese exports data.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 14, 2023 - 1:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-412.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin continued its rally to near the US$31,000 mark in Friday afternoon trading in Asia. All other top 10 non-stablecoin cryptocurrencies also gained, led by Ethereum following the successful launch of the blockchain’s Shanghai hard fork on Wednesday. Asian equity markets moved higher following a rally in Wall Street on Thursday, on signs of cooling inflation in the U.S. and on strong Chinese exports data.</p>
+    	<h3>Fast facts</h3>	
+      <ul>
+        <li>Bitcoin moved up 2.13% in the 24 hours to US$30,756 at 4:30 p.m. in Hong Kong, posting a weekly gain of 10.18%, according to CoinMarketCap data. The world’s largest cryptocurrency exceeded US$30,000 on Tuesday for the first time since June 2022, and is pushing US$31,000.</li>
+        <li>Ethereum strengthened 8.62% to US$2,109, trading 13.64% higher for the week, shrugging off market concern that the Shanghai hard fork of the Ethereum blockchain – which allows investors to withdraw their staked Ether for the first time – could trigger a massive withdrawal of the token and lower prices.</li>
+        <li>The upgrade might make Ether staking more appealing to investors, according to Chen Zhuling, co-founder and CEO of crypto staking platform RockX, in an interview with Forkast.News on Thursday.</li>
+        <li>“This upgrade actually eliminates the biggest counterparty risk. In the past, you’re basically sending your ETH into a black hole and you’re hoping that indefinite time you can get your ETH back together with the rewards.” Chen said.</li>
+        <li>Cardano gained 8.12% on the day to US$0.437, and added 15.27% for the week, after Cardano Foundation launched the alpha phase of Aiken on Thursday, an open-source smart contract language and toolchain to simplify smart contract developments on the Cardano blockchain</li>
+        <li>The total crypto market capitalization rose 3.98% in the past 24 hours to US$1.28 trillion and total trading volume over the last 24 hours moved up 30.12% to US$58.95 billion.</li>
+        <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index edged up 0.76% to 4,009.92 points in the 24 hours to 4:45 p.m. in Hong Kong, adding 0.64% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by Forkast Labs data branch, CryptoSlam.</li>
+        <li>Asian equities moved higher after a strong rally in the U.S. equity markets on Thursday, as Thursday’s soft readings in the U.S. producer price index and jobless claims indicated a slowdown in inflation. China on Thursday reported a 14.8% increase in its March exports, well beyond economist projections of a 7% decline, boosting investor sentiment.</li>
+        <li>China’s Shanghai Composite Index moved up 0.6% and the Shenzhen Component Index rose 0.51%. Hong Kong’s Hang Seng Index gained 0.46% and Japan’s Nikkei 225 added 1.2%.</li>
+        <li>European bourses also gained on Friday on the rally in equities. The STOXX 600 rose 0.46% as of 4:30 p.m. in Hong Kong, and Germany’s DAX 40 gained 0.33%.</li>
+        <li>Investors are awaiting a series of U.S. economic data to be released on Friday, including U.S. retail sales that dipped 0.4% in February, with some analysts projecting a 0.5% decline in March, according to financial information provider MarketWatch.</li>
+        <li>The U.S. dollar index fell 0.07% to 100.94 points following soft economic readings on Thursday. The euro inched up 0.15% to US$1.10.</li>
+        <li>Gold price dipped 0.27% to US$2,034.36 per ounce on Friday, as fears of an U.S. inflation eased.</li>
+      </ul>
     </div>
   },
   {
@@ -746,6 +1757,42 @@ const blogListdata = [
       <p>Groupon Inc jumped following the company's appointment of Jiri Ponrt to succeed Damien Schmitz as chief financial officer.</p>
       <p>Netflix Inc advanced after Wedbush said the streaming platform's revenue growth of new subscribers could drive up profitability.</p>
       <p>(Reporting by Stephen Culp; Additional reporting by Sruthi Shankar and Ankika Biswas in Bengaluru; Editing by Richard Chang)</p>
+    </div>
+  },
+  {
+    id: 400,
+    title: 'Bitcoin fluctuates at US$30,000; Ether gains; Litecoin, XRP drop; U.S. equities fall on recession concern',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ehter', 'litecoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin dipped but held above US$30,000 in Thursday morning trading in Asia that saw mixed performances among the top 10 non-stablecoin cryptocurrencies. Ethereum gained following the blockchain’s network upgrade on Wednesday, seemingly shrugging off concerns the upgrade could bring selling pressure on the Ether token. Solana continued to lead the winners as investors anticipate its first smartphone launch on Thursday. U.S. equities dropped on Wednesday after Federal Reserve minutes from March showed officials projecting a recession in the second half of 2023, while the U.S. consumer price index (CPI) in March indicated cooling but stubborn inflation.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 13, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-413.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin dipped but held above US$30,000 in Thursday morning trading in Asia that saw mixed performances among the top 10 non-stablecoin cryptocurrencies. Ethereum gained following the blockchain’s network upgrade on Wednesday, seemingly shrugging off concerns the upgrade could bring selling pressure on the Ether token. Solana continued to lead the winners as investors anticipate its first smartphone launch on Thursday. U.S. equities dropped on Wednesday after Federal Reserve minutes from March showed officials projecting a recession in the second half of 2023, while the U.S. consumer price index (CPI) in March indicated cooling but stubborn inflation.</p>
+    	<h3>Fast facts</h3>	
+      <ul>
+        <li>Bitcoin dropped 0.76% to US$30,008 in the 24 hours to 09:00 a.m. in Hong Kong, but held a weekly gain of 7.26%, according to CoinMarketCap data. The world’s largest cryptocurrency has jumped over 80% since the start of the year.</li>
+        <li>Bitcoin buyers ignored renewed criticism from U.S. investor Warren Buffet in a CNBC interview on Wednesday, where he called the cryptocurrency a “gambling token” without intrinsic value.</li>
+        <li>Ethereum gained 1.10% to US$1,910, adding 0.79% for the week. The Shanghai upgrade of the Ethereum blockchain activated on Wednesday and allows investors to withdraw their staked Ether for the first time. Some analysts expect the upgrade may trigger a withdrawal of nearly US$2.3 billion worth of Ether, about 6% of the total value of staked Ether, according to a Wednesday Bloomberg report.</li>
+        <li>Litecoin led the losers in the top 10, dropping 2.45% to trade at US$92.23. The token is flat for the seven-day period.</li>
+        <li>XRP fell 2.06% to US$0.5041, but is still up 1.08% for the week. The U.S. Securities and Exchange Commission (SEC) filed a letter on Tuesday to support its case against Ripple Labs, which it has accused of offering unregistered securities in the form of XRP. The letter quoted the SEC’s case against investment adviser Commonwealth Equity Services, which involved violation of securities laws and saw the defendant’s fair notice argument rejected by the court.</li>
+        <li>Solana rose 2.49% to US$24.01, up 15.51% for the week. Solana Mobile, a subsidiary of Solana Labs, will release its first smartphone Saga on Thursday, which integrates the Solana blockchain and allows users to make on-chain transactions, manage digital assets, and access a variety of decentralized apps.</li>
+        <li>The total crypto market capitalization dipped 0.52% in the past 24 hours to US$1.23 trillion. The total trading volume over the last 24 hours rose 13.33% to US$48.60 billion.</li>
+        <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index edged up 0.32% to 3,992.64 in the 24 hours to 09:00 a.m. in Hong Kong, but was still down 0.48% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by  CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</li>
+        <li>U.S. equities closed lower on Wednesday after minutes of the Fed’s meeting in March resurfaced concerns about a recession, while Buffet in the same CNBC interview warned the U.S. banking system could face further stresses after the recent failures of a trio of lenders. The Dow Jones Industrial Average dipped 0.11%, the S&P 500 moved 0.41% lower, and the Nasdaq Composite Index dropped 0.85%.</li>
+        <li>At the meeting on March 21 and 22, the Federal Reserve raised interest rates by 25 basis points and Fed officials projected the U.S. economy could enter a “mild recession” later this year. Several Fed officials considered leaving interest rates unchanged, noting the bank failures, but decided on the rate hike due to “elevated inflation.”</li>
+        <li>U.S. gross domestic product is expected to rise 2.9% in the second quarter of 2023, but to drop by 0.3% in the third quarter and 0.1% in the fourth, according to data from Trading Economics.</li>
+        <li>U.S. CPI released Wednesday rose 5% on year in March, down from 6% in February, and the smallest increase since May 2021. The number was lower than economists’ expectation of 5.2% and pointed to a slowing of inflation, but is still well above the Fed’s target rate of around 2%, Reuters reported on Thursday. Core CPI – excluding food and energy – moved up 5.6% on year, accelerating from February.</li>
+        <li>U.S. interest rates are currently between 4.75% to 5%, the highest since June 2006. Analysts at the CME Group expect a 29.6% chance the Fed will not raise interest rates at its next meeting on May 3, while 70.4% predict a 25-basis-point rate hike, up from 66.9% on Wednesday.</li>
+        <li>U.S. stock futures traded flat to lower as of 9:00 a.m. in Hong Kong. The Dow Jones Industrial Average dropped 0.12%. The S&P 500 futures dipped 0.10%. The Nasdaq Composite Index inched 0.02% lower.</li>
+      </ul>
     </div>
   },
   {
