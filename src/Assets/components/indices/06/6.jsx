@@ -6,7 +6,7 @@ function Indices6()
     return(
         <div className="mrkt__cfds">
             <div className="container">
-                <h1 className="fg__rer">NCX Innovative Trading Platforms</h1>
+                <h1 className="fg__rer">NCX Derivatives Trading Markets</h1>
                 <div className="assets__ro row">
                     <div className="col">
                         <h2>Commodities</h2>

@@ -1,7 +1,7 @@
 import React from "react";
 import './style.css';
-import MyHeader from '../../components/header/header';
-import MyFooter from '../../components/footer/footer';
+import MyHeader from '../../components/header/indheader';
+import MyFooter from '../../components/footer/indfooter';
 import Indices1 from "../../components/indices/01/1";
 import Indices2 from "../../components/indices/02/2";
 import Indices3 from "../../components/indices/03/3";
@@ -13,6 +13,7 @@ import Indices8 from "../../components/indices/08/8";
 import TradingSteps from "../../components/indices/09/9";
 import BannerSection from "../../components/indices/10/10";
 import IndicesFAQ from "../../components/indices/11/11";
+import '../../components/indices/fsfds';
 
 function IndicesPage()
 {

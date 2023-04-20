@@ -2,3 +2,36 @@ div#indicies__page {
     background: #000000;
     background-color: #000000;
 }
+#indicies__page a.signin{
+    background: #5ED3F0 !important;
+    border-color: #5ED3F0 !important; 
+}
+#indicies__page .launch-dex{
+    border-color: #5ED3F0 !important; 
+}
+#indicies__page ul.navlink li:after{
+    background: #5ED3F0 !important;;
+}
+#indicies__page .main_service a:hover, #indicies__page .social_link_inner a:hover{
+    color: #5ED3F0 !important;;
+}
+#indicies__page .mega_menu .social-icons .icons a:hover{
+    background: #5ED3F0 !important;
+}
+#indicies__page #main-header .login-buttons a.signin:hover{
+    background: transparent !important;
+    border: 1px solid #5ED3F0 !important; 
+}
+#indicies__page .launch-dex:hover{
+    background: #5ED3F0 !important; 
+}
+#indicies__page  .footer-row ul li a:after{
+    background-color: #5ED3F0 !important;
+}
+#indicies__page  .social-icons .icons a:hover{
+    background-color: #5ED3F0 !important;
+}
+#indicies__page .fot-newsleter form button{
+    background: #5ED3F0 !important; 
+    border: 1px solid #5ED3F0 !important; 
+}

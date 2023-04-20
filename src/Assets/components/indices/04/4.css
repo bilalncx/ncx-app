@@ -31,16 +31,26 @@
     width: 105px;
     height: 105px;
 }
-.global__mart:before {
+.global__mart:before{
     content: '';
-    width: 100%;
-    height: 0.5px;
-    background: radial-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+    width: 48%;
+    height: 0.75px;
+    background: linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
     display: block;
     position: absolute;
     top: 0;
-    left: 0;
-    right: 0;
+    left: 2%;
+    margin: 0 auto;
+}
+.global__mart:after{
+    content: '';
+    width: 48%;
+    height: 0.75px;
+    background: linear-gradient(90deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 2%;
     margin: 0 auto;
 }
 .global__row h2 {

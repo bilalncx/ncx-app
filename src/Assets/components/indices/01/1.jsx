@@ -21,13 +21,13 @@ function Indices1()
     return(
         <div className="trade__cfd">
             <div className="container">
-                <h1 className="fg__rer">Trade with super tight CFD spreads</h1>
+                <h1 className="fg__rer">Trade Derivatives with low Spreads</h1>
                 <div className="indices__tab">
                     <button
                         className={toggleState === 1 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(1)}
                     >
-                    Crypto CFDs
+                    Crypto
                     </button>
                     <button
                         className={toggleState === 2 ? "ind__tab active" : "ind__tab"}
@@ -39,13 +39,13 @@ function Indices1()
                         className={toggleState === 3 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(3)}
                     >
-                    Forex CFDs
+                    Forex
                     </button>
                     <button
                         className={toggleState === 4 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(4)}
                     >
-                    Commodities CFDs
+                    Commodities
                     </button>
                     <button
                         className={toggleState === 5 ? "ind__tab active" : "ind__tab"}

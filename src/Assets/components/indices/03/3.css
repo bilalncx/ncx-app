@@ -11,16 +11,26 @@ video#video-scss {
     background-position: top;
     position: relative;
 }
-.sieze__ppp:before {
+.sieze__ppp:before{
     content: '';
-    width: 100%;
-    height: 0.5px;
-    background: radial-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+    width: 48%;
+    height: 0.75px;
+    background: linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
     display: block;
     position: absolute;
     top: 0;
-    left: 0;
-    right: 0;
+    left: 2%;
+    margin: 0 auto;
+}
+.sieze__ppp:after{
+    content: '';
+    width: 48%;
+    height: 0.75px;
+    background: linear-gradient(90deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 2%;
     margin: 0 auto;
 }
 h1.fg__rer {
@@ -110,7 +120,7 @@ h1.fg__rer {
 }
 .tiy__bd a.download:hover{
     background: #000000;
-    border-color: #000000;
+    border: 1px solid #5ED3F0;
 }
 .tiy__bd a.download:focus, .tiy__bd a.download:focus-visible,
 .tiy__bd a.sign__up:focus, .tiy__bd a.sign__up:focus-visible{
@@ -119,6 +129,7 @@ h1.fg__rer {
 }
 .tiy__bd a.sign__up:hover{
     box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+    border: 1px solid #5ED3F0;
     /* border: 1px solid #5ED3F0; */
 }
 .tiy__bd a.sign__up {
