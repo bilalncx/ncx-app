@@ -54,3 +54,8 @@ div#indicies__page {
 #indicies__page.new__d .global__mart:before, #indicies__page.new__d .ind__banner:before{
     left: 2.05% !important;
 }
+#indicies__page.new__d .ind__fq{
+    background: url(../../images/indices_ellipse2.png) !important;
+    background-size: 100% 100% !important;
+    background-position: center top !important;
+}
