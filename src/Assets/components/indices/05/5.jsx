@@ -39,7 +39,7 @@ function Indices5()
                         <p>Elevate your trading with innovation. Advanced tools for serious traders.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="#" className="sign__up">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pla__img">
                             <img src={Device2} alt="ncx_platform" />
@@ -56,7 +56,7 @@ function Indices5()
                         <p>Automate your trading on the world’s most popular platform for Derivatives trading.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="#" className="sign__up">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pla__img">
                             <img src={Device1} alt="ncx_platform" />
@@ -70,7 +70,7 @@ function Indices5()
                         <p>Discover the next generation platform for Crypto Derivatives, Commodities, Forex and Stock markets.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="#" className="sign__up">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="ipad__gg">
                             <img src={Device3} alt="ncx_platform" />
