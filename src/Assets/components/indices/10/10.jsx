@@ -13,13 +13,13 @@ function BannerSection()
                     <div className="col banner_1">
                         <div className="ccc_tt">
                             <p>Trade Metals on NCX with spreads as low as 0.9 on Gold</p>
-                            <Button href="#">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</Button>
                         </div>
                     </div>
                     <div className="col banner_2">
                         <div className="ccc_tt">
                             <p>Trade Stocks, World Indices and ETFs across core and emerging markets</p>
-                            <Button href="#">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</Button>
                         </div>
                     </div>
                 </div>

@@ -32,7 +32,7 @@ function Indices3()
                             <li><strong>Diversify your exposure.</strong> Thanks to a large choice of assets, you can trade in multiple markets at once while diversifying your risk.</li>
                         </ul>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
                             <Button href="#" className="sign__up">Get the App</Button>
                         </div>
                     </div>

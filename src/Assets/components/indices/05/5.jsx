@@ -24,7 +24,7 @@ function Indices5()
                         <p>Your mobile trading experience. Everything you need to trade on the go.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="#" className="sign__up">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img">
                             <img src={Device4} alt="ncx_platform" />

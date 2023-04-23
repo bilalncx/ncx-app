@@ -56,7 +56,7 @@ function Indices8(){
                             <span>Trade World Markets with NCX Superior Execution</span>
                         </div>
                         <div className="hh__btn">
-                            <Button href="#" className="up_sin">Sign Up</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">Sign Up</Button>
                             <Button href="#" className="get__ap">Get the App</Button>
                         </div>
                     </div>

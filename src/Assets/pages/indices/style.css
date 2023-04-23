@@ -271,4 +271,10 @@ div#indicies__page {
         font-size: 14px !important;
         line-height: 20px !important;
     }
+    #indicies__page .row_ban{
+        padding: 50px 0px !important;
+    }
+    #indicies__page .ind__banner{
+        padding: 0px !important;
+    }
 }
