@@ -19,7 +19,7 @@ function Indices3()
                             loop={true}
                             playsInline={true}
                             preload="auto"
-                            poster="https://ncx.cx/images/ncx_card_poster.png"
+                            // poster="https://ncx.cx/images/ncx_card_poster.png"
                             >
                             <source src={IndicesVideo} type="video/mp4" />
                         </video>
