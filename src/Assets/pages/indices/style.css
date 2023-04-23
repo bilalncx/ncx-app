@@ -277,4 +277,17 @@ div#indicies__page {
     #indicies__page .ind__banner{
         padding: 0px !important;
     }
+    .indices__hdd{
+        background: #000000 !important;
+    }
+    #indicies__page .mbl__stng strong {
+        font-family: 'roboto-light' !important;
+        font-weight: 100 !important;
+    }
+    .ind__cont{
+        background: transparent !important;
+    }
+    .most_deri .col{
+        padding: 20px 17px !important;
+    }
 }

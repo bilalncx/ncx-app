@@ -15,7 +15,7 @@ function Indices2()
                         </div>
                         <p className="llp_dd">Trade 200 Stocks, World Indices & ETFs across core and emerging markets.</p>
                         <p className="io_od"><strong>Spreads as low as 0.5 on the US 500.</strong></p>
-                        <p><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
+                        <p className="mbl__stng"><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
                     </div>
                     <div className="col">
                         <div className="logo__ff">
@@ -24,7 +24,7 @@ function Indices2()
                         </div>
                         <p className="llp_dd">Go long or short on over 150 pairs, take advantage of any market conditions</p>
                         <p className="io_od"><strong>Trade Crypto Derivatives with up to 100x Leverage.</strong></p>
-                        <p><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
+                        <p className="mbl__stng"><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
                     </div>
                     <div className="col">
                         <div className="logo__ff">
@@ -33,7 +33,7 @@ function Indices2()
                         </div>
                         <p className="llp_dd">Trade 170 Foreign Exchange Market pairs across majors, minors, and exotics</p>
                         <p className="io_od"><strong>Tight spreads from 0.1 pips on EUR/USD.</strong></p>
-                        <p><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
+                        <p className="mbl__stng"><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
                     </div>
                     <div className="col">
                         <div className="logo__ff">
@@ -42,7 +42,7 @@ function Indices2()
                         </div>
                         <p className="llp_dd">Trade most popular commodities including energies and metals</p>
                         <p className="io_od"><strong>Spreads as low as 0.04 on Brent Crude.</strong></p>
-                        <p><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
+                        <p className="mbl__stng"><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
                     </div>
                 </div>
             </div>

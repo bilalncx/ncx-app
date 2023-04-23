@@ -479,19 +479,19 @@ function Indices1()
                                 className={toggleStateequity === 1 ? "stock__tab active" : "stock__tab"}
                                 onClick={() => toggleTabequity(1)}
                             >
-                            US Stock Market
+                            US Market
                             </button>
                             <button
                                 className={toggleStateequity === 2 ? "stock__tab active" : "stock__tab"}
                                 onClick={() => toggleTabequity(2)}
                             >
-                            EU Stock Market
+                            EU Market
                             </button>
                             <button
                                 className={toggleStateequity === 3 ? "stock__tab active" : "stock__tab"}
                                 onClick={() => toggleTabequity(3)}
                             >
-                            Asia Stock Market
+                            Asia Market
                             </button>
                         </div>
                         <div className="inner__contt">
@@ -986,12 +986,6 @@ function Indices1()
                             Bitcoin
                             </button>
                             <button
-                                className={toggleStatecontent === 2 ? "crypto__tab active" : "crypto__tab"}
-                                onClick={() => toggleTabcontent(2)}
-                            >
-                            Bitcoin Cash
-                            </button>
-                            <button
                                 className={toggleStatecontent === 3 ? "crypto__tab active" : "crypto__tab"}
                                 onClick={() => toggleTabcontent(3)}
                             >
@@ -1008,6 +1002,12 @@ function Indices1()
                                 onClick={() => toggleTabcontent(5)}
                             >
                             Ripple
+                            </button>
+                            <button
+                                className={toggleStatecontent === 2 ? "crypto__tab active" : "crypto__tab"}
+                                onClick={() => toggleTabcontent(2)}
+                            >
+                            Bitcoin Cash
                             </button>
                             <button
                                 className={toggleStatecontent === 6 ? "crypto__tab active" : "crypto__tab"}
