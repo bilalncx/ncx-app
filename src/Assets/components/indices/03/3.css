@@ -157,7 +157,7 @@ h1.fg__rer {
 
 @media screen and (max-width: 800px){
     .trade__cfd{
-        padding-bottom: 50px;
+        padding: 70px 0px 50px 0px !important;
     }
     .col.txt__vvv {
         padding-right: 50px !important;
@@ -170,6 +170,7 @@ h1.fg__rer {
         margin-bottom: 30px !important;
         font-size: 26px !important;
         line-height: 34px !important;
+        text-align: left !important;
     }
     .col.bg__vdo {
         order: 2;
@@ -183,22 +184,23 @@ h1.fg__rer {
         flex: 0 0 100% !important;
     }
     .row.der__vido{
-        padding: 20px 0px 0px 0px !important;
+        padding: 0px 0px 0px 0px !important;
     }
     .txt__vvv h2 {
-        font-size: 20px;
-        line-height: 25px;
+        font-size: 18px;
+        line-height: 24px;
         padding-right: 50px;
         margin-bottom: 30px;
     }
     .txt__vvv li:before{
-        width: 14px !important;
-        height: 14px !important;
+        width: 10px !important;
+        height: 10px !important;
     }
     .txt__vvv li {
         font-size: 14px !important;
         line-height: 20px !important;
-        padding-left: 25px !important;
+        padding-left: 20px !important;
+        margin-bottom: 10px !important;
     }
     .col.bg__vdo {
         padding: 50px 0px 0px 0px !important;
@@ -207,5 +209,44 @@ h1.fg__rer {
         width: 100%;
         max-width: 200px;
         border-radius: 32px;
+    }
+    #indicies__page .ind__fq{
+        padding: 50px 0px 50px 0px !important;
+    }
+    #indicies__page .ind__fq h1.fg__rer {
+        text-align: center !important;
+    }
+    #indicies__page .ind__fq .blue svg {
+        width: 14px !important;
+    }
+    #indicies__page .ind__fq summary {
+        font-size: 14px !important;
+        line-height: 20px !important;
+        column-gap: 20px !important;
+    }
+    #indicies__page .steps__tr {
+        padding: 0px 0px 50px 0px;
+    }
+    #indicies__page .fyu {
+        flex: 0 0 100%;
+    }
+    #indicies__page .steps__ff{
+        gap: 20px;
+        padding-bottom: 0px;
+    }
+    #indicies__page .fyu h1 {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+    #indicies__page .trading__platform {
+        padding: 0px 0px 30px 0px !important;
+    }
+    #indicies__page .fyu p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .row_ban {
+        flex-direction: column;
     }
 }

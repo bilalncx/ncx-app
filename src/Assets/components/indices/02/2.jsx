@@ -23,7 +23,7 @@ function Indices2()
                             <h1>Crypto Derivatives</h1>
                         </div>
                         <p className="llp_dd">Go long or short on over 150 pairs, take advantage of any market conditions</p>
-                        <p className="io_od"><strong>0% commission on Swiss stocks. US stocks from 0.10%.</strong></p>
+                        <p className="io_od"><strong>Trade Crypto Derivatives with up to 100x Leverage.</strong></p>
                         <p><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
                     </div>
                     <div className="col">
@@ -41,7 +41,7 @@ function Indices2()
                             <h1>Metals & Commodities</h1>
                         </div>
                         <p className="llp_dd">Trade most popular commodities including energies and metals</p>
-                        <p className="io_od"><strong>0% commission on Swiss stocks. US stocks from 0.10%.</strong></p>
+                        <p className="io_od"><strong>Spreads as low as 0.04 on Brent Crude.</strong></p>
                         <p><strong>Stake NCXT</strong> and get Trading Fees rebates of <strong>up to 90%</strong></p>
                     </div>
                 </div>

@@ -67,7 +67,7 @@ const App = () => {
           <Route path='/about-us' element={<NCXAboutUs />} />
           <Route path='/wallet' element={<Wallet />} />
           <Route path='/indices' element={<IndicesPage />} />
-          <Route path='/indices-1' element={<IndicesPage1 />} />
+          <Route path='/derivatives' element={<IndicesPage1 />} />
         </Routes>
       </BrowserRouter>
     // </div>

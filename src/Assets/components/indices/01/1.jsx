@@ -21,7 +21,7 @@ function Indices1()
     return(
         <div className="trade__cfd">
             <div className="container">
-                <h1 className="fg__rer">Trade Derivatives with low Spreads</h1>
+                <h1 className="fg__rer">Trade Derivatives with low Spreads</h1>
                 <div className="indices__tab">
                     <button
                         className={toggleState === 1 ? "ind__tab active" : "ind__tab"}
