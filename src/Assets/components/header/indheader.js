@@ -115,7 +115,7 @@ export default function Header() {
                   <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="#">{t("derivatives")}</a>
+                  <a href="/derivatives">{t("derivatives")}</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="/markets">{t("markets")}</a>
@@ -210,7 +210,7 @@ export default function Header() {
                         <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
                       </li>
                       <li>
-                        <a href="#">{t("derivatives")}</a>
+                        <a href="/derivatives">{t("derivatives")}</a>
                       </li>
                       <li>
                         <a href="/markets">{t("markets")}</a>

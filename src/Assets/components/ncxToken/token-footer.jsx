@@ -26,7 +26,7 @@ function MyFooter()
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                             <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
-                            <li><a href="https://trade.ncx.cx/">{t("crypto_derivatives")}</a></li>
+                            <li><a href="/derivatives">{t("crypto_derivatives")}</a></li>
                             <li><a href="/markets">{t("markets")}</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                             <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
@@ -130,7 +130,7 @@ function MyFooter()
                         <h1>{t("products")}</h1>
                         <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                         <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
-                        <li><a href="#">{t("crypto_derivatives")}</a></li>
+                        <li><a href="/derivatives">{t("crypto_derivatives")}</a></li>
                         <li><a href="/markets">{t("markets")}</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
