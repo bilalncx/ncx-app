@@ -13,7 +13,6 @@ import Indices8 from "../../components/indices/08/8";
 import TradingSteps from "../../components/indices/09/9";
 import BannerSection from "../../components/indices/10/10";
 import IndicesFAQ from "../../components/indices/11/11";
-import '../../components/indices/fsfds';
 
 function IndicesPage()
 {

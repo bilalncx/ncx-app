@@ -22,7 +22,7 @@ function TradingSteps()
                     </div>
                     <div className="fyu">
                         <h1>4</h1>
-                        <p>Download one of Platforms</p>
+                        <p>Download one of the Platforms</p>
                     </div>
                 </div>
             </div>

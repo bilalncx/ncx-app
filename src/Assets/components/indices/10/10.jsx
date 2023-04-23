@@ -1,7 +1,5 @@
 import React from "react";
 import './10.css';
-import Banner1 from '../../../images/ind_baner1.png';
-import Banner2 from '../../../images/ind_baner2.png';
 import Button from "@mui/material/Button";
 
 function BannerSection()
