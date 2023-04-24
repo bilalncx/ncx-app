@@ -31,7 +31,7 @@ $(document).ready(function(){
     $('.loadingbar').delay(4500).animate({left: '0'}, 5500);
     $('.loadingBox').delay(500).animate({opacity: '1'}, 1000);
     $('.splashupperscreen').delay(9000).animate({top: '-100%'}, 2000);
-    $('.splashlowerscreen').delay(9000).animate({bottom: '-100%', opacity: '0'}, 3000);
+    $('.splashlowerscreen').delay(9000).animate({bottom: '-100%', opacity: '0', height: '0vh'}, 3000);
 
     $('.splashScreen').delay(8300).queue(function(){
       $('.splashScreen').addClass("visibleSplash");

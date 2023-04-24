@@ -165,7 +165,7 @@
 #hme__gg__ff.trade__derivative{
     padding: 100px 0px !important;
     position: relative;
-    z-index: 11;
+    /* z-index: 11; */
 }
 #hme__gg__ff h1.fg__rer {
     font-family: 'urbanist-regular' !important;
