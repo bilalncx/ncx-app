@@ -66,7 +66,6 @@ function MarketPage(){
                             <h3>${price}</h3>
                             <p>≈${price}</p>
                         </div>
-                        <img src="https://ncx.cx/images/market-graph.png" alt="graph_ncx" />
                     </div>
                     </div>
                 </div>
@@ -85,7 +84,6 @@ function MarketPage(){
                     <h3>${price}</h3>
                     <p>≈$${price}</p>
                 </div>
-                <img src="https://ncx.cx/images/market-graph.png" alt="graph_ncx" />
             </div>
             </div>
         </div>

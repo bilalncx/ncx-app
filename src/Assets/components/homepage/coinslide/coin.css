@@ -1,0 +1,54 @@
+#home_coins.wallet-slider h1 span {
+    display: block;
+}
+#home_coins.wallet-slider h1{
+    font-size: 55px;
+    line-height: 60px;
+    font-family: 'urbanist-light';
+}
+#home_coins.wallet-slider h1 span strong{
+    font-family: 'urbanist-medium';
+    font-weight: 500;
+}
+#home_coins p.gjg_gf {
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 40px 0px;
+}
+#home_coins .coin__tb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+#home_coins .coin__tb a.lnch_dx{
+    width: 140px;
+    height: 44px;
+    background: #5ED3F0;
+    border: 1px solid #5ED3F0;
+    box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'urbanist-light';
+    text-transform: capitalize;
+}
+#home_coins .coin__tb a.dx_drp{
+    width: 140px;
+    height: 44px;
+    background: none;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'urbanist-light';
+    text-transform: capitalize;
+}
+#home_coins .coin__tb a.dx_drp:hover{
+    border: 1px solid #5ED3F0;
+    box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+}
+#home_coins.wallet-slider {
+    min-height: unset;
+    padding: 120px 0px;
+}

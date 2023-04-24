@@ -51,6 +51,7 @@
     margin-bottom: 10px;
     font-size: 43px;
     line-height: 50px;
+    color: #FFFFFF;
 }
 .hero-section{
     position: relative;
@@ -157,4 +158,30 @@
     #cex .hh_row {
         padding-top: 50px;
     }
+}
+
+
+/* New CSS */
+#hme__gg__ff.trade__derivative{
+    padding: 100px 0px !important;
+    position: relative;
+    z-index: 11;
+}
+#hme__gg__ff h1.fg__rer {
+    font-family: 'urbanist-regular' !important;
+}
+#hme__gg__ff p{
+    font-family: 'urbanist-light' !important;
+}
+#hme__gg__ff .logo__ff h1{
+    font-family: 'urbanist-semibold' !important;
+}
+#hme__gg__ff .mbl__stng span {
+    display: inline-block;
+}
+#hme__gg__ff .io_od span {
+    display: inline-block;
+}
+#hme__gg__ff .most_deri .col:nth-child(4) .io_od{
+    margin-bottom: 23px !important;
 }

@@ -1,5 +1,5 @@
 .wallet-slider .container{
-    max-width: 1600px !important;
+    max-width: 1440px !important;
 }
 .coin__chain__ccx{
     column-gap: 8px;
@@ -115,7 +115,7 @@ div.highway-barrier {
     width:calc(180px * 24);
 }
 .coin__chain  {
-    animation:translateinfinite 70s linear infinite;
+    animation:translateinfinite 55s linear infinite;
 }
 div#infinite:before {
     content: '';

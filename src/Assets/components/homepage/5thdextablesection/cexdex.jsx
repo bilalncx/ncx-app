@@ -8,46 +8,27 @@ import { ReactComponent as OptionalBox } from '../../../images/optionalbox.svg';
 import { useTranslation } from "react-i18next";
 function HomeCEXDEXTableSection()
 {
-    const lngs = [
-        { code: "en", native: "English" },
-        { code: "in", native: "हिन्दी"},
-        { code: "es", native: "Español" },
-        { code: "zh", native: "中文" },
-    ];
-
-    const { t, i18n } = useTranslation();
-  
-    const handleTrans = (code) => {
-      i18n.changeLanguage(code);
-    };
+    const { t } = useTranslation();
 
     return(
         <div className="dex-table">
                 <div className="container">
                     <div className="text-table">
-                        <AnimationOnScroll animateIn="animate__fadeIn">
-                            <h1>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem")}</h1>
-                            <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph1")}</p>
-                            <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph2")}</p>
-                        </AnimationOnScroll>
+                        <h1>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem")}</h1>
+                        <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph1")}</p>
+                        <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph2")}</p>
                     </div>
                     <div className="tabledex">
                         <div className="row head">
                             <div className="col one"></div>
                             <div className="col two">
-                                <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>{t("ncx")}</h2>
-                                </AnimationOnScroll>
+                                <h2>{t("ncx")}</h2>
                             </div>
                             <div className="col three">
-                                <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>{t("cex")}</h2>
-                                </AnimationOnScroll>
+                                <h2>{t("cex")}</h2>
                             </div>
                             <div className="col four">
-                                <AnimationOnScroll animateIn="animate__fadeIn">
-                                    <h2>{t("dex")}</h2>
-                                </AnimationOnScroll>
+                                <h2>{t("dex")}</h2>
                             </div>
                         </div>
                         <div className="row body">

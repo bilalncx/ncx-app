@@ -15,7 +15,7 @@ function HomeEarnNCXSection()
 
     return(
         <div className="earnncx">
-            <div className="container">
+            <div className="container inner_d">
                 <div className="earnheading">
                     <AnimationOnScroll animateIn="animate__fadeIn">
                         <h1>{t("earn_ncx_every_time_you_complete_level!")}</h1>
@@ -97,7 +97,10 @@ function HomeEarnNCXSection()
                     </div>
                 </div>
             </div>
-            <NCXTask />
+
+            <div id="hh__task">
+                <NCXTask />
+            </div>
         </div>
     )
 }

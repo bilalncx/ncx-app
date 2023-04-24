@@ -138,9 +138,9 @@ section.bg-dark {
 h1, h2, h3, h4, h5, p{
     margin: 0px;
 }
-.apps-divi svg:nth-child(1) {
+/* .apps-divi svg:nth-child(1) {
     display: none;
-}
+} */
 .appsttore svg:nth-child(3) {
     display: none;
 }
@@ -162,10 +162,73 @@ h1, h2, h3, h4, h5, p{
 div#market .container {
     max-width: 1200px !important;
 }
-.market-exchange {
-    background: #FFFFFF;
-    padding: 50px 0px 50px 0px;
+#market.market-exchange {
+    background: url(../images/ind__bg.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-color: #000000 !important;
+    background-position: center top -200px !important;
+    padding: 60px 0px 0px 0px !important;
 }
+#market .trending_markets {
+    background: transparent !important;
+    padding: 0px !important;
+}
+#market table#ncx_markets{
+    background: #000000 !important;
+}
+#market #ncx_markets .hed th{
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+#market #market_table_body tr td h1{
+    color: #FFFFFF;
+}
+#market #market_table_body tr td p{
+    color: rgba(255, 255, 255, 0.7);
+}
+#market #market_table_body tr{
+    border-bottom: 1px solid rgba(255,255,255,0.2) !important;
+    padding-top: 2px;
+}
+#market #market_table_body tr:hover{
+    background: #000000;
+    box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
+}
+#market .featured_market {
+    background: #000000 !important;
+}
+#market p.fet_tag{
+    background: #5ED3F0;
+}
+#market .trend_pairs h1, .prix h3{
+    color: #FFFFFF;
+}
+#market .trend_pairs p{
+    color: #FFFFFF;
+}
+#market .prix p{
+    color: rgba(255, 255, 255, 0.7);
+}
+#market #featured_slider, #market #featured_slider_mobile{
+    background: transparent !important;
+}
+#market #featured_slider:before, #market #featured_slider_mobile:before, #market #featured_slider:after, #market #featured_slider_mobile:after{
+    display: none;
+}
+#market #featured_slider .slider_market .slide, #market #featured_slider_mobile .slider_market .slide{
+    margin: 0px 5px;
+    border: 0px !important;
+}
+#market .slider_market {
+    text-align: left !important;
+    justify-content: flex-start;
+}
+#market .more_bt a{
+    color: rgba(255, 255, 255, 0.7);
+}
+/* #market #featured_slider .slider_market .slide, #market #featured_slider_mobile .slider_market .slide{
+    border-color: #000000 !important;
+} */
 .marketimg .col img {
     width: 100%;
     max-width: 320px;
@@ -289,6 +352,164 @@ details[open] .contt {
     content: "-";
     left: 0;
     position: absolute;
+}
+
+
+/* NCX HOMEPAGE NCXCARD NEW SECTION */
+/* ******************************************************** */
+#card__new .pho__img img, #card__new .pla__img img{
+    width: 100%;
+    max-height: unset !important;
+    max-width: 370px;
+    border-radius: 27px;
+}
+#card__new .pla__img, #card__new .pho__img, #card__new .ipad__gg{
+    min-height: 300px;
+    max-height: 300px;
+}
+#card__new .trg__ff__fe p {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    min-height: 38px;
+}
+#card__new .pho__img img:hover, #card__new .pla__img img:hover, #card__new .ipad__gg img:hover{
+    box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+}
+
+
+/* NCX HOMEPAGE NCX VIDEO SECTION GENERATION */
+/* ******************************************************** */
+#hgff .new-generation {
+    background: #000000 !important;
+}
+#hgff .new-generation h1, #hgff .new-generation p, #hgff .new-generation .text212 h4, #hgff .new-generation .taskdiv h3 {
+    color: #FFFFFF;
+}
+#hgff .new-generation .taskdiv{
+    background: #151515 !important;
+}
+#hgff .new-generation .text212 p{
+    color: rgba(255,255,255, 0.5);
+}
+#hgff .new-generation .buttoninfo svg path{
+    fill:rgba(255,255,255, 0.5);
+}
+#hgff .new-generation .taskdiv:hover{
+    box-shadow: 0 0 16px rgb(255 255 255 / 30%);
+}
+#hgff .new-generation  .buttoninfo a{
+    background: #5ED3F0;
+}
+.earnncx .inner_d {
+    display: none;
+}
+#hh__task .ncxtasksection {
+    padding-top: 0px;
+}
+#hyres .earnncx {
+    background: #000000;
+    padding: 80px 0px;
+}
+#hyres .ncxtasksection h1{
+    color: #FFFFFF;
+}
+#hyres p.task, #hyres .tasktext h3{
+    color: #FFFFFF;
+}
+#hyres p.task svg path{
+    fill: #FFFFFF;
+}
+#hyres .taskbtn a{
+    background: #5ED3F0;
+}
+#hyres .taskbtn svg path, #hyres .tasktext-div svg path{
+    fill: rgba(255, 255, 255, 0.5);
+}
+#hyres .tasktext p{
+    color: rgba(255, 255, 255, 0.5);
+}
+#hyres .tasktext{
+    background: #151515;
+}
+#hyres .ncxtasksection button.btn-primary{
+    color: #5ED3F0;
+}
+#hyres .ncxtasksection button.btn-primary svg path{
+    fill: #5ED3F0;
+}
+#hyres .tasktext:hover{
+    box-shadow: 0 0 16px rgb(255 255 255 / 30%);
+}
+
+.bg-dark .colstake .color {
+    background: rgba(31, 31, 31, 0.6);
+    padding: 10px 10px;
+    display: flex;
+    column-gap: 8px;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-right: 0px;
+}
+
+
+
+
+
+
+
+#home__ffgrr.ncxapp-section {
+    padding: 0px !important;
+    position: relative;
+}
+#home__ffgrr.ncxapp-section .col.hidden_col {
+    display: none;
+}
+#home__ffgrr.ncxapp-section .row .col:first-child h1{
+    padding-right: 0px;
+}
+#home__ffgrr.ncxapp-section .barcodd {
+    padding-top: 20px;
+}
+#home__ffgrr.ncxapp-section .home__btnff {
+    padding-top: 20px;
+    display: flex;
+    column-gap: 15px;
+}
+#home__ffgrr.ncxapp-section #ncx_buycrypto_video video{
+    max-height: 816px !important;
+}
+a.sin__op {
+    background: #5ED3F0;
+    border: 1px solid #5ED3F0;
+    border-radius: 50px;
+    min-width: 135px;
+    height: 44px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'urbanist-light';
+    text-transform: capitalize;
+    box-shadow: 0 0 15px rgba(94,211,240,.75);
+}
+a.cl__drp {
+    border: 1px solid #5ED3F0;
+    border-radius: 50px;
+    min-width: 150px;
+    height: 44px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'urbanist-light';
+    text-transform: capitalize;
+}
+a.cl__drp:hover{
+    background: #5ED3F0;
+    box-shadow: 0 0 15px rgba(94,211,240,.75);
+}
+#home__ffgrr.ncxapp-section .apps_barcod{
+    min-width: 270px;
+}
+#home__ffgrr.ncxapp-section .apps-divi svg{
+    display: block !important;
 }
 
 @media screen and (max-width: 800px){

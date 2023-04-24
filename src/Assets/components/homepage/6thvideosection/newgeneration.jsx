@@ -13,16 +13,9 @@ function Home6thVideoSection(){
         <div className="new-generation">
             <div className="container">
                 <div className="generate-div">
-                    <AnimationOnScroll animateIn="animate__fadeIn">
                         <h1>{t("complete_tasks")}</h1>
-                    </AnimationOnScroll>
-                    <AnimationOnScroll animateIn="animate__fadeIn">
                         <h1>{t("earn_ncx_tokens")}</h1>
-                    </AnimationOnScroll>
-                    <AnimationOnScroll animateIn="animate__fadeIn">
                         <p>{t("tasks_complete_paragraph")}</p>
-                    </AnimationOnScroll>
-                    
                     <div className="ncxtask row">
                         <div className="taskdiv one">
                             <h3>4,000 <span>NCXT</span></h3>

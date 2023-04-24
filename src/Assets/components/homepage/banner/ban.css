@@ -1,0 +1,57 @@
+#bannss.ind__banner h1 {
+    font-size: 44px;
+    line-height: 53px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    text-align: center;
+}
+#bannss.ind__banner p{
+    font-size: 18px;
+    line-height: 25px;
+    font-family: 'urbanist-light';
+    color: #FFFFFF;
+    text-align: center;
+}
+.btn__dtr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px 80px 0px;
+    gap: 20px;
+}
+a.byyy {
+    width: 140px;
+    height: 44px;
+    background: #5ED3F0;
+    box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-family: 'urbanist-light';
+    font-size: 16px;
+    text-transform: capitalize;
+}
+a.marr {
+    width: 140px;
+    height: 44px;
+    border: 1px solid #5ED3F0;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-family: 'urbanist-light';
+    font-size: 16px;
+    text-transform: capitalize; 
+}
+a.byyy:hover{
+    background: transparent !important;
+    border: 1px solid #5ED3F0;
+}
+a.byyy:focus, a.byyy:focus-visible, a.byyy:active{
+    outline: none;
+    text-decoration: none;
+}
+a.marr:hover{
+    background: #5ED3F0;
+}
+a.marr:focus, a.marr:focus-visible, a.marr:active{
+    text-decoration: none;
+    outline: none;
+}

@@ -19,15 +19,15 @@ import {ReactComponent as NCXLogo} from '../images/NCX-logo.svg';
 // import HomepageTrade from '../components/homepage/home-trade/trade';
 // import HomeNCXToken from '../components/homepage/homencxtoken/ncxtoken';
 import HomeCEXDEXTableSection from '../components/homepage/5thdextablesection/cexdex';
-import HomeFirstSection from '../components/homepage/1stsection/firstsection';
-import Home2ndSection from '../components/homepage/2ndsection/2ndsection';
+import HomeFirstSection from '../components/homepage/1stsection/bb_video';
+import Home2ndSection from '../components/homepage/2ndsection/new';
 import Home6thVideoSection from '../components/homepage/6thvideosection/newgeneration';
 import Home8thGradientsection from '../components/homepage/8thgradientsection/gradient';
 import Home9thDownloadSection from '../components/homepage/9thdownloadsection/download';
 // import NCXDebitCard from '../components/homepage/ncxdebitcardsection/ncxcard';
 import NCXEarn from '../components/homepage/EarnNCX/earnncx';
 import NCXEquities from '../components/homepage/ncxequities/equities';
-import NCXCardSlider from '../components/homepage/NCXCardsection/card';
+import NCXCardSlider from '../components/homepage/NCXCardsection/new_card';
 import NCXOTCSection from '../components/homepage/NCXOTC/otc';
 import NCXHomeTrends from '../components/homepage/ncxtrends/trends';
 import WhatWeDoSection from '../components/homepage/whatwedo/whatwe';
@@ -36,6 +36,14 @@ import NCXPoweredByCrypto from '../components/homepage/sect_poweredby/powered';
 // import HorizontalWhatWeDo from '../components/homepage/horizontalscrollsection/horizontal';
 import NCXNewHomeMarketSection from '../components/our_markets/home_market';
 import { useTranslation } from "react-i18next";
+import HomeAssets from '../components/indices/01/1';
+import FeaturedMarkets from '../components/our_markets/featured_market';
+import Home5thSection from '../components/homepage/5thdextablesection/new__set';
+import HomeTrdingDerivatives from '../components/indices/06/6';
+import HomeWallet from '../components/homepage/coinslide/coin';
+import HomeGlobalMarkets from '../components/indices/04/4';
+import HomeWalletStakes from '../components/ncxToken/section-2/staking_ncxt';
+import HomeBannerSection from "../components/homepage/banner/ban";
 
 
 function MainHome()
@@ -58,6 +66,8 @@ function MainHome()
             <Home2ndSection />
 
             <div id="market" className="market-exchange">
+
+                <FeaturedMarkets />
                 {/* <div className="row marketimg">
                     <div className="col">
                         <AnimationOnScroll animateIn="animate__fadeIn">
@@ -80,26 +90,37 @@ function MainHome()
                         </AnimationOnScroll>
                     </div>
                 </div> */}
-                <div className="row marketing">
+                {/* <div className="row marketing">
                     <MarketSLider />
-                </div>
-                <div className="mbl-heading">
+                </div> */}
+                {/* <div className="mbl-heading">
                     <AnimationOnScroll animateIn="animate__fadeIn">
                         <div className="ncx-trends">
                             <img className="ncx-blacklogo" src={NCXBlackLogo} alt="ncx-blacklogo"/>
                             <p>Exchange</p>
                         </div>
                     </AnimationOnScroll>
-                    {/* <AnimationOnScroll animateIn="animate__fadeIn">
-                        <h3>Crypto Assets</h3>
-                    </AnimationOnScroll> */}
-                </div>
+                </div> */}
                 <div className="container">
                     <NCXNewHomeMarketSection />
                 </div>
             </div>
 
-            <WhatWeDoSection />
+            <HomeAssets />
+
+            <Home5thSection />
+
+            <HomeTrdingDerivatives />
+
+            <HomeWallet />
+
+            <HomeCEXDEXTableSection />
+
+            <NCXCardSlider />
+
+            <HomeGlobalMarkets />
+
+            {/* <WhatWeDoSection /> */}
 
             {/* <HorizontalWhatWeDo /> */}
 
@@ -107,11 +128,17 @@ function MainHome()
                 <SliderSection />
             </div> */}
             
-            <HomeCEXDEXTableSection />
-            
-            <Home6thVideoSection />
+            <div id="hgff">
+                <Home6thVideoSection />
+            </div>
 
-            <NCXEarn />
+            <div id="hyres">
+                <NCXEarn />
+            </div>
+
+            <HomeWalletStakes />
+
+            <HomeBannerSection />
 
             {/* <div className="hometrade">
                 <div className="container">
@@ -137,7 +164,7 @@ function MainHome()
                 </div>
             </div> */}
 
-            <Home8thGradientsection />
+            {/* <Home8thGradientsection /> */}
 
             {/* <div id="homePBS">
                 <div className="container">
@@ -161,20 +188,18 @@ function MainHome()
                     </div>
                 </div>
             </div> */}
-            
-            <NCXCardSlider />
 
-            <NCXPoweredByCrypto />
+            {/* <NCXPoweredByCrypto /> */}
 
             {/* <NCXDebitCard /> */}
 
             {/* <HomeNCXToken /> */}
             
-            <NCXEquities />
+            {/* <NCXEquities /> */}
 
             {/* <Home9thDownloadSection /> */}
 
-            <div id="footer-faq">
+            {/* <div id="footer-faq">
                 <div id="faq" className="faq-sect">
                     <div className="container">
                         <div className="row">
@@ -192,15 +217,15 @@ function MainHome()
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
             {/* <NCXOTCSection /> */}
 
-            <NCXHomeTrends />
+            {/* <NCXHomeTrends /> */}
 
-            <div className="mobiledownload">
+            {/* <div className="mobiledownload">
                 <Home9thDownloadSection />
-            </div> 
+            </div>  */}
             
             <MyFooter />
 
