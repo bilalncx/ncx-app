@@ -32,6 +32,9 @@ button.ind__tab.active {
     color: #FFFFFF;
     box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
 }
+button.ind__tab:hover{
+    border: 2px #5ed3f0 solid;
+}
 .ind__cont_tabs {
     margin-top: 50px;
 }
@@ -102,6 +105,9 @@ button.crypto__tab {
     font-family: 'urbanist-regular';
     margin-bottom: 15px;
     height: 40px;
+}
+button.crypto__tab:hover{
+    border: 1.5px #5ed3f0 solid;
 }
 button.crypto__tab.active, button.stock__tab.active{
     border: 1.5px #5ed3f0 solid;

@@ -5,6 +5,7 @@ import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
 import BuyCryptoVideo from '../../../images/home__newvideo.mp4';
 import Button from "@mui/material/Button";
+import './firstsection.css';
 
 function NCXAPPSection()
 {

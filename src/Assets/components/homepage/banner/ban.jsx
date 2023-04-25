@@ -10,8 +10,8 @@ function HomeBannerSection()
                 <h1>Buy & Sell Crypto Instantly</h1>
                 <p>Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer</p>
                 <div className="btn__dtr">
-                    <Button href="#" className="byyy">Buy Crypto</Button>
-                    <Button href="#" className="marr">Markets</Button>
+                    <Button href="/buy-crypto" className="byyy">Buy Crypto</Button>
+                    <Button href="/markets" className="marr">Markets</Button>
                 </div>
                 <div className="row_ban">
                     <div className="col banner_1">
