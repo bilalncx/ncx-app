@@ -17,6 +17,7 @@ import AppBarCode from '../../images/ncx-QRcode.svg';
 import {ReactComponent as DropdownICon} from '../../images/menu-dropdown.svg';
 import { useTranslation } from "react-i18next";
 import ChangeButtons from '../../../selectlanguage';
+import { ReactComponent as CloseIcon } from '../../images/clos.svg';
   
 export default function Header() {   
 
@@ -194,9 +195,14 @@ export default function Header() {
                     onClick={() => {
                       setIsNavExpanded(!isNavExpanded)
                     }}>
-                    <svg width="19" height="16" viewBox="0 0 19 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M0.875 0.5H18.125V1.49902H0.875V0.5ZM1 7.50098L18.125 7.5V8.49902L1 8.5V7.50098ZM0.875 14.5H18.125V15.499H0.875V14.5Z" fill="white"/>
-                    </svg>
+                    <div className="mplo">
+                      <svg width="19" height="16" viewBox="0 0 19 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M0.875 0.5H18.125V1.49902H0.875V0.5ZM1 7.50098L18.125 7.5V8.49902L1 8.5V7.50098ZM0.875 14.5H18.125V15.499H0.875V14.5Z" fill="white"/>
+                      </svg>
+                    </div>
+                    <div className="clols">
+                      <CloseIcon />
+                    </div>
                   </button>
                   <div
                     className={
@@ -255,15 +261,25 @@ export default function Header() {
                 </IconButton>
                 </div>
               </div>
-              <div className="mobile-launch">
-              <div class="dropdown">
-                <button class="dropbtn">{t("launch_dex")}</button>
-                <div class="dropdown-content">
-                  <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("launch_dex")}</a>
-                  <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
-                  {/* <a href="#" target="_blank" rel="noreferrer">Sign Up</a> */}
+              {/* <div className="mobile-launch">
+                <div class="dropdown">
+                  <button class="dropbtn">{t("launch_dex")}</button>
+                  <div class="dropdown-content">
+                    <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("launch_dex")}</a>
+                    <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
+                  </div>
                 </div>
-              </div>
+              </div> */}
+              <div className="translate_lng">
+                <div id="tran_lang">
+                  <h1>{t("english")}</h1>
+                  <DropdownICon />
+                </div>
+                <div id="language_trans">
+                  <div class="language-box">
+                    <ChangeButtons />
+                  </div>
+                </div>
               </div>
             </nav>
           </div>
