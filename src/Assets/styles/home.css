@@ -284,14 +284,14 @@ div#market:before {
     display: flex;
     justify-content: center;
     align-items: baseline;
-    background-position: center top -140px;
-    padding-top: 10px;
+    background-position: center top -100px;
+    padding-top: 40px;
 }
 #bannss .col.banner_1:hover {
-    filter: drop-shadow(0 0 40px rgba(94,211,240,.3));
+    box-shadow: 0 0 16px rgb(255 255 255 / 30%);
 }
 #bannss .col.banner_2:hover {
-    filter: drop-shadow(0 0 40px rgba(94,211,240,.3));
+    box-shadow: 0 0 16px rgb(255 255 255 / 30%);
 }
 #bannss .row_ban p {
     text-align: left !important;
@@ -439,7 +439,7 @@ details[open] .contt {
     display: block;
 }
 #card__new .pho__img img:hover, #card__new .pla__img img:hover, #card__new .ipad__gg img:hover{
-    box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+    box-shadow: 0 0 16px rgb(255 255 255 / 30%);
 }
 
 
@@ -463,8 +463,13 @@ details[open] .contt {
 #hgff .new-generation .taskdiv:hover{
     box-shadow: 0 0 16px rgb(255 255 255 / 30%);
 }
-#hgff .new-generation  .buttoninfo a{
+#hgff .new-generation .buttoninfo a{
     background: #5ED3F0;
+}
+#hgff .new-generation .buttoninfo a:hover{
+    border: 1px solid #5ED3F0 !important;
+    background: transparent !important;
+    color: #FFFFFF !important;
 }
 .earnncx .inner_d {
     display: none;
@@ -642,7 +647,7 @@ a.cl__drp:hover{
     }
     .yy__tr{
         display: flex;
-        gap: 10px;
+        gap: 5px;
         margin-bottom: 10px;
     }
     .mbl__lpl .home__btnff {

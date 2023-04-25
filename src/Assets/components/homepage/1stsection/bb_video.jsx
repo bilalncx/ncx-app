@@ -78,22 +78,24 @@ function NCXAPPSection()
                     <span>Trading Platfrom</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Swap >500k Tokens Across 10 Chains</span>
-                    <span>Derivatives</span>
+                    <span>Crypto Derivatives</span>
+                    <span>Swap 500k+ Tokens Across 10 Chains</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Trade Stocks</span>
-                    <span>ETF’s</span>
-                    <span>Forex</span>
+                    <span>Trade 500+ Derivatives Markets</span>
+                    <span>Stocks</span>
                     <span>Commodities</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Staking & LP’s</span>
-                    <span>Swap >500k Tokens Across 10 Chains</span>
+                    <span>Indices</span>
+                    <span>Forex</span>
+                    <span>ETF’s</span>
+                    <span>200+ Cryptocurrencies</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Buy Crypto with >16 Payment Methods </span>
-                    <span>24/7 Support</span>
+                    <span>Crypto Debit Card</span>
+                    <span>DeFi Wallet</span>
+                    <span>Buy Crypto</span>
                 </div>
                 <div className="home__btnff">
                     <Button href="#" className="sin__op">Sign Up</Button>

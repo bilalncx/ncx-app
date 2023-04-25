@@ -53,18 +53,20 @@ p.task {
 }
 .taskbtn a {
     background: #925BCA;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'urbanist-semibold';
     text-transform: capitalize;
     color: #FFFFFF;
     width: fit-content;
-    height: 44px;
+    height: 40px;
+    min-width: 115px;
     border-radius: 50px;
     padding: 6px 15px !important;
 }
-.taskbtn a:hover{
-    background: rgba(25, 118, 210, 0.04);
-    color: #000;
+#hyres .taskbtn a:hover{
+    background: transparent;
+    color: #FFFFFF;
+    border: 1px solid #5ED3F0 !important;
 }
 .taskbtn a:focus, .taskbtn a:focus-visible{
     outline: none !important;
