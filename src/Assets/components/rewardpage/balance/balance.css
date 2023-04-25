@@ -134,9 +134,9 @@ p.complete-tsks {
 }
 
 @media screen and (max-width: 800px){
-    .reward-row{
+    /* .reward-row{
         margin-top: 7px;
-    }
+    } */
     .rewardheadrow{
         padding: 0px;
         align-items: center;
