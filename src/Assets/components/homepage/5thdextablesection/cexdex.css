@@ -101,7 +101,7 @@
 }
 .row.head:before {
     content: '';
-    background: #FFFFFF;
+    background: rgba(255,255,255,0.25);
     width: 100%;
     height: 1px;
     position: absolute;
@@ -296,7 +296,7 @@ div#mobile-tabsection {
         align-items: center;
         text-align: center;
         color: #FFFFFF;
-        background: #008AEF;
+        background: #5ED3F0;
         margin: 2.5px;
         margin-bottom: 5px;
     }
@@ -305,12 +305,12 @@ div#mobile-tabsection {
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: #008AEF;
+        background-color: #5ED3F0;
         margin: 2.5px;
         margin-bottom: 5px;
     }
     .purple{
-        background-color: #7650FF !important;
+        background-color: #5ED3F0 !important;
     }
     #mobile-tabsection .optionalbox {
         padding: 0px;

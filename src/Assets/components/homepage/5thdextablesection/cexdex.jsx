@@ -1,8 +1,8 @@
 import  React from "react";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import './cexdex.css';
-import { ReactComponent as BlueTick } from '../../../images/blue-dex-checkmark.svg';
-import { ReactComponent as PurpleTick } from '../../../images/purple-dex-checkmark.svg';
+import { ReactComponent as Whitetick } from '../../../images/check-icon.svg';
+// import { ReactComponent as PurpleTick } from '../../../images/check-icon.svg';
 import { ReactComponent as BlackTick } from '../../../images/black-tickmark.svg';
 import { ReactComponent as OptionalBox } from '../../../images/optionalbox.svg';
 import { useTranslation } from "react-i18next";
@@ -14,7 +14,7 @@ function HomeCEXDEXTableSection()
         <div className="dex-table">
                 <div className="container">
                     <div className="text-table">
-                        <h1>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem")}</h1>
+                        <h1>{t("Advanced CEX, DEX & Trading features on one platform")}</h1>
                         <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph1")}</p>
                         <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph2")}</p>
                     </div>
@@ -665,7 +665,7 @@ function HomeCEXDEXTableSection()
                             <div className="mbl-dexcont1">
                                 <h3>{t("high")}</h3>
                                 <div className="tickbox">
-                                    <BlueTick />
+                                    <Whitetick />
                                 </div>
                                 <h3>{t("low")}</h3>
                                 <h3>{t("user_friendly")}</h3>
@@ -674,43 +674,43 @@ function HomeCEXDEXTableSection()
                                 <h3>{t("low")}</h3>
                                 <h3>{t("decentalised")}</h3>
                                 <div className="tickbox">
-                                    <BlueTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox sas">
-                                    <BlueTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple sas">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple sas">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox purple">
-                                    <PurpleTick />
+                                    <Whitetick />
                                 </div>
                                 <h3 className="purple">{t("global**")}</h3>
                             </div>
@@ -732,7 +732,7 @@ function HomeCEXDEXTableSection()
                                     <OptionalBox />
                                 </div>
                                 <div className="tickbox">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="optionalbox">
                                     <OptionalBox />
@@ -741,10 +741,10 @@ function HomeCEXDEXTableSection()
                                     <OptionalBox />
                                 </div>
                                 <div className="tickbox sas">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox sas">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="optionalbox">
                                     <OptionalBox />
@@ -756,13 +756,13 @@ function HomeCEXDEXTableSection()
                                     <OptionalBox />
                                 </div>
                                 <div className="tickbox">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="tickbox">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <h3>{t("regional")}</h3>
                             </div>
@@ -781,7 +781,7 @@ function HomeCEXDEXTableSection()
                                     <OptionalBox />
                                 </div>
                                 <div className="tickbox sas">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <div className="optionalbox">
                                     <OptionalBox />

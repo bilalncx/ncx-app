@@ -25,7 +25,7 @@ function Indices4()
                     <div className="col">
                         <img src={GlobalMarket3} alt="global"/>
                         <h2>24/7 Support in multiple languages</h2>
-                        <p>Take advantage of our digital and live customer support team, fully based in Switzerland.</p>
+                        <p>Take advantage of our live Customer Support team, 24/7/365 at your service</p>
                     </div>
                     <div className="col">
                         <img src={GlobalMarket4} alt="global"/>

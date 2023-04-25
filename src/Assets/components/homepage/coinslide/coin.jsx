@@ -263,7 +263,7 @@ function Wallet1()
 
                 <p className="gjg_gf">Including Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora</p>
                 <div className="coin__tb">
-                    <Button href="#" className="lnch_dx">Launch DEX</Button>
+                    <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="lnch_dx">Launch DEX</Button>
                     <Button href="#" className="dx_drp"> Claim Airdrop</Button>
                 </div>
             </div>

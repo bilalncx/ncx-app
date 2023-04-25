@@ -163,12 +163,35 @@ div#market .container {
     max-width: 1200px !important;
 }
 #market.market-exchange {
-    background: url(../images/ind__bg.png) !important;
+    background: url(../images/indices_ellipse2.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-color: #000000 !important;
-    background-position: center top -200px !important;
+    background-position: center top 0px !important;
     padding: 60px 0px 0px 0px !important;
+    position: relative;
+}
+div#market:before {
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(270deg,#fff,hsla(0,0%,100%,0));
+    left: 2.1%;
+}
+#market:after{
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(90deg,#fff,hsla(0,0%,100%,0));
+    right: 2.1%;
 }
 #market .trending_markets {
     background: transparent !important;
@@ -195,7 +218,7 @@ div#market .container {
     box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
 }
 #market .featured_market {
-    background: #000000 !important;
+    background: #101010 !important;
 }
 #market p.fet_tag{
     background: #5ED3F0;
@@ -212,16 +235,15 @@ div#market .container {
 #market #featured_slider, #market #featured_slider_mobile{
     background: transparent !important;
 }
-#market #featured_slider:before, #market #featured_slider_mobile:before, #market #featured_slider:after, #market #featured_slider_mobile:after{
-    display: none;
-}
-#market #featured_slider .slider_market .slide, #market #featured_slider_mobile .slider_market .slide{
-    margin: 0px 5px;
-    border: 0px !important;
+#market #featured_slider:before, #market #featured_slider:after{
+    background: #101010;
 }
 #market .slider_market {
     text-align: left !important;
     justify-content: flex-start;
+}
+#market #featured_slider .slider_market .slide, #market #featured_slider_mobile .slider_market .slide{
+    border-right: 10px solid #0E1F23 !important;
 }
 #market .more_bt a{
     color: rgba(255, 255, 255, 0.7);
@@ -241,6 +263,42 @@ div#market .container {
     padding: 0px 50px 30px 50px;
     display: flex;
     justify-content: center;
+}
+.viso__ff {
+    min-height: 450px !important;
+    max-height: 450px !important;
+}
+.gf__grthbh{
+    min-height: 450px !important;
+    max-height: 450px !important;
+}
+.viso__ff video {
+    width: 100%;
+    max-height: 450px;
+}
+.gf__grthbh video{
+    max-height: 457px;
+}
+.bg-dark .trading__platform .ipad__gg {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    background-position: center top -140px;
+    padding-top: 10px;
+}
+#bannss .col.banner_1:hover {
+    filter: drop-shadow(0 0 40px rgba(94,211,240,.3));
+}
+#bannss .col.banner_2:hover {
+    filter: drop-shadow(0 0 40px rgba(94,211,240,.3));
+}
+#bannss .row_ban p {
+    text-align: left !important;
+    font-size: 22px !important;
+    line-height: 30px !important;
+}
+#bannss.ind__banner {
+    background: #000000;
 }
 
 
@@ -354,6 +412,9 @@ details[open] .contt {
     position: absolute;
 }
 
+.bg-dark .trading__platform .trg__ff__fe p{
+    min-height: 38px !important;
+}
 
 /* NCX HOMEPAGE NCXCARD NEW SECTION */
 /* ******************************************************** */
@@ -372,6 +433,9 @@ details[open] .contt {
     margin: 0 auto;
     margin-bottom: 30px;
     min-height: 38px;
+}
+#card__new .trg__ff__fe p span{
+    display: block;
 }
 #card__new .pho__img img:hover, #card__new .pla__img img:hover, #card__new .ipad__gg img:hover{
     box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
@@ -441,7 +505,6 @@ details[open] .contt {
 #hyres .tasktext:hover{
     box-shadow: 0 0 16px rgb(255 255 255 / 30%);
 }
-
 .bg-dark .colstake .color {
     background: rgba(31, 31, 31, 0.6);
     padding: 10px 10px;
@@ -512,11 +575,209 @@ a.cl__drp:hover{
     display: block !important;
 }
 
+.mbl__lpl{
+    display: none;
+}
 @media screen and (max-width: 800px){
     #card-faqss summary {
         font-size: 16px!important;
         line-height: 20px!important;
         padding-right: 20px;
         font-family: "urbanist-regular" !important;
+    }
+    #market.market-exchange{
+        background: #000000 !important;
+        padding-top: 50px !important;
+    }
+    #market .featured_market {
+        background: #101010 !important;
+    }
+    #market #featured_slider .slider_market .slide, #market #featured_slider_mobile .slider_market .slide{
+        margin: 0px !important;
+        border-right: 10px solid #000000 !important;
+    }
+    #market table#ncx_markets {
+        background: #101010 !important;
+        margin-top: 20px;
+    }
+    #market #featured_slider_mobile:before, #market #featured_slider_mobile:after{
+        min-height: 93px !important;
+        max-height: 93px !important;
+        background: #101010 !important;
+    }
+    .mbl__lpl{
+        display: block;
+    }
+    #home__ffgrr{
+        display: none;
+    }
+    .mbl__lpl video {
+        width: 100%;
+        min-height: 300px;
+    }
+    .mbl__lpl {
+        padding: 50px 20px 0px 20px;
+    }
+    .mbl__lpl h1 {
+        font-size: 30px;
+        line-height: 34px;
+        font-family: 'urbanist-light';
+        color: #FFFFFF;
+        margin-bottom: 3px;
+    }
+    .mbl__lpl p {
+        font-size: 13px;
+        line-height: 18px;
+        font-family: 'urbanist-light';
+        color: #FFFFFF;
+        margin-bottom: 20px;
+    }
+    .yy__tr span {
+        background: rgba(33, 33, 33, 0.8);
+        border-radius: 50px;
+        padding: 5px 10px;
+        font-size: 12px;
+        color: #FFFFFF;
+        font-family: 'urbanist-light';
+    }
+    .yy__tr{
+        display: flex;
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+    .mbl__lpl .home__btnff {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin: 30px 0px;
+    }
+    #hme__gg__ff h1.fg__rer {
+        display: none;
+    }
+    .bg-dark #hme__gg__ff.trade__derivative{
+        padding: 50px 0px !important;
+    }
+    .bg-dark .trading__platform .plat__ggre.row .col{
+        padding-top: 70px !important;
+    }
+    .bg-dark .trading__platform .ipad__gg{
+        background: transparent !important;
+    }
+    .bg-dark .trading__platform .ipad__gg img{
+        max-width: 250px !important;
+    }
+    #home_coins.wallet-slider h1 {
+        font-size: 20px !important;
+        line-height: 26px !important;
+    }
+    #home_coins p.gjg_gf {
+        font-size: 12px !important;
+    }
+    #home_coins .coin__tb a.lnch_dx, #home_coins .coin__tb a.dx_drp{
+        width: 120px !important;
+        height: 36px !important;
+        font-size: 14px !important;
+    }
+    .mbl__lpl .home__btnff a.sin__op{
+        width: 110px !important;
+        height: 36px !important;
+        font-size: 14px !important;
+        min-width: 110px !important;
+    }
+    .mbl__lpl .home__btnff a.cl__drp{
+        width: 130px !important;
+        height: 36px !important;
+        font-size: 14px !important;
+        min-width: 130px !important;
+    }
+    .trade__cfd .ind__cont table tr {
+        padding: 15px 10px !important;
+    }
+    #home_coins.wallet-slider{
+        padding: 50px 0px !important;
+    }
+    #card__new .trg__ff__fe p{
+        width: 100% !important;
+    }
+    #card__new .pho__img img, #card__new .pla__img img{
+        max-width: 280px !important;
+    }
+    #card__new .trg__ff__fe p span {
+        display: initial;
+    }
+    .bg-dark .global__mart .global__row.row {
+        flex-flow: column;
+    }
+    .bg-dark .global__row img {
+        height: 70px;
+        width: 70px;
+    }
+    .bg-dark .global__row h2 {
+        font-size: 18px!important;
+        line-height: 28px!important;
+        margin-bottom: 10px;
+        margin-top: 30px;
+        min-height: 0!important;
+        min-height: auto!important;
+    }
+    .bg-dark .global__row p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .bg-dark .global__row.row .col {
+        min-height: 0;
+        min-height: auto;
+    }
+    #bannss.ind__banner h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    #bannss.ind__banner p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 5px;
+    }
+    #bannss a.byyy, #bannss a.marr {
+        width: 120px;
+        height: 36px;
+        font-size: 14px;
+    }
+    #bannss .btn__dtr{
+        gap: 10px;
+    }
+    #bannss .row_ban .col{
+        flex: 0 0 100%;
+        max-height: 200px;
+        min-height: 200px;
+        width: 100%;
+    }
+    #bannss .col.banner_1 {
+        margin-bottom: 30px;
+    }
+    #bannss .ccc_tt {
+        height: 200px!important;
+        padding: 25px 0 25px 25px!important;
+    }
+    #bannss .ccc_tt p {
+        font-size: 16px !important;
+        line-height: 22px !important;
+    }
+    #bannss .ccc_tt a {
+        font-size: 14px !important;
+        height: 36px !important;
+        width: 110px !important;
+    }
+    .bg-dark .trading__platform{
+        padding: 0px 0px 50px 0px !important;
+    }
+    #home_coins .coin__tb{
+        gap: 10px !important;
+    }
+    .bg-dark #card__new.trading__platform {
+        padding: 50px 0px 50px 0px !important;
+    }
+    .dex-table svg {
+        width: 12px;
     }
 }

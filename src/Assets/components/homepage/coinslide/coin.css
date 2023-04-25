@@ -34,6 +34,14 @@
     font-family: 'urbanist-light';
     text-transform: capitalize;
 }
+#home_coins .coin__tb a.lnch_dx:hover{
+    background: transparent !important;
+    text-decoration: none;
+}
+#home_coins .coin__tb a.lnch_dx:focus, #home_coins .coin__tb a.lnch_dx:focus-visible{
+    outline: none;
+    text-decoration: none;
+}
 #home_coins .coin__tb a.dx_drp{
     width: 140px;
     height: 44px;
@@ -46,6 +54,7 @@
 }
 #home_coins .coin__tb a.dx_drp:hover{
     border: 1px solid #5ED3F0;
+    outline: none !important;
     box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
 }
 #home_coins.wallet-slider {

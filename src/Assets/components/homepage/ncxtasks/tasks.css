@@ -111,7 +111,7 @@ p.task {
     border: none;
     padding: 0px;
     color: #925bca;
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'urbanist-medium';
     width: 100%;
     text-align: center;
@@ -131,17 +131,17 @@ p.task {
 }
 svg.straight {
     transform: rotate(90deg);
-    width: 12px;
+    width: 9px;
     height: auto;
     margin-bottom: 4px;
-    margin-left: 20px !important;
+    margin-left: 12px !important;
     transition: all 0.4s cubic-bezier(1,1,1,1);
 }
 svg.turn {
-    width: 12px;
+    width: 9px;
     height: auto;
     margin-bottom: 4px;
-    margin-left: 20px !important;
+    margin-left: 12px !important;
     transform: rotate(-270deg);
     transition: all 0.4s cubic-bezier(1,1,1,1);
 }

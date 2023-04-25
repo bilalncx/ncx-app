@@ -16,7 +16,12 @@ function Indices5()
                         <div className="tra__go">
                             <h2>NCX Select <span>Card</span></h2>
                         </div>
-                        <p>Monthly Limit $10,000 | ATM Withdrawals  $2,500 Monthly Free Premium Metal Card | 24/7 Support</p>
+                        <p>
+                            <span>Monthly Limit $10,000 | ATM Withdrawals  $2,500 Monthly</span>
+                            <span>Trading Fee Discount 0%</span>
+                            <span>Free Premium Metal Card | Virtual Card</span>
+                            <span>Apple Pay, Google Pay, Samsung Pay</span>
+                        </p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
@@ -29,7 +34,12 @@ function Indices5()
                         <div className="tra__go">
                             <h2>NCX Platinum <span>Card</span></h2>
                         </div>
-                        <p>Elevate your trading with innovation. Advanced tools for serious traders.</p>
+                        <p>
+                            <span>Monthly Limit $25,000 | ATM Withdrawals  $5,000 Monthly</span>
+                            <span>Trading Fee Discount 10%</span>
+                            <span>Free Premium Metal Card | Virtual Card</span>
+                            <span>Apple Pay, Google Pay, Samsung Pay</span>
+                        </p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
@@ -44,7 +54,12 @@ function Indices5()
                         <div className="tra__go">
                             <h2>NCX Black <span>Card</span></h2>
                         </div>
-                        <p>Automate your trading on the world’s most popular platform for Derivatives trading.</p>
+                        <p>
+                            <span>Monthly Limit $100,000 | ATM Withdrawals  $15,000 Monthly</span>
+                            <span>Trading Fee Discount 20% | 10% Discount on Booking.com</span>
+                            <span>Free Premium Metal Card | 10% Discount on Expedia.com</span>
+                            <span>Virtual Card  | Apple Pay, Google Pay, Samsung Pay</span>
+                        </p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
@@ -57,7 +72,12 @@ function Indices5()
                         <div className="tra__go">
                             <h2>NCX Gold <span>Card</span></h2>
                         </div>
-                        <p>Discover the next generation platform for Crypto Derivatives, Commodities, Forex and Stock markets.</p>
+                        <p>
+                            <span>Monthly Limit $50,000 | ATM Withdrawals  $10,000 Monthly</span>
+                            <span>Trading Fee Discount 15% | 10% Discount on Booking.com</span>
+                            <span>Free Premium Metal Card | Virtual Card </span>
+                            <span>Apple Pay, Google Pay, Samsung Pay</span>
+                        </p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
