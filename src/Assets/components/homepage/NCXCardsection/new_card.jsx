@@ -23,7 +23,7 @@ function Indices5()
                             <span>Apple Pay, Google Pay, Samsung Pay</span>
                         </p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
+                            <Button href="/ncx-card" className="download">View Card</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img">
@@ -41,7 +41,7 @@ function Indices5()
                             <span>Apple Pay, Google Pay, Samsung Pay</span>
                         </p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
+                            <Button href="/ncx-card" className="download">View Card</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pla__img">
@@ -50,7 +50,7 @@ function Indices5()
                     </div>
                 </div>
                 <div className="plat__ggre row">
-                    <div className="col trg__ff__fe">
+                    <div className="col trg__ff__fe black__card">
                         <div className="tra__go">
                             <h2>NCX Black <span>Card</span></h2>
                         </div>
@@ -61,14 +61,14 @@ function Indices5()
                             <span>Virtual Card  | Apple Pay, Google Pay, Samsung Pay</span>
                         </p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
+                            <Button href="/ncx-card" className="download">View Card</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img">
                             <img src={Device3} alt="ncx_platform" />
                         </div>
                     </div>
-                    <div className="col trg__ff__fe">
+                    <div className="col trg__ff__fe gold__card">
                         <div className="tra__go">
                             <h2>NCX Gold <span>Card</span></h2>
                         </div>
@@ -79,7 +79,7 @@ function Indices5()
                             <span>Apple Pay, Google Pay, Samsung Pay</span>
                         </p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
+                            <Button href="/ncx-card" className="download">View Card</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pla__img">

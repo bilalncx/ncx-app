@@ -210,12 +210,13 @@ div#market:before {
     color: rgba(255, 255, 255, 0.7);
 }
 #market #market_table_body tr{
-    border-bottom: 1px solid rgba(255,255,255,0.2) !important;
+    border-bottom: 1px solid hsla(0,0%,100%,.1) !important;
     padding-top: 2px;
 }
 #market #market_table_body tr:hover{
     background: #000000;
     box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
+    padding: 0px 5px !important;
 }
 #market .featured_market {
     background: #101010 !important;
@@ -425,8 +426,8 @@ details[open] .contt {
     border-radius: 27px;
 }
 #card__new .pla__img, #card__new .pho__img, #card__new .ipad__gg{
-    min-height: 300px;
-    max-height: 300px;
+    min-height: 235px;
+    max-height: 235px;
 }
 #card__new .trg__ff__fe p {
     width: 70%;
@@ -597,8 +598,7 @@ a.cl__drp:hover{
         border-right: 10px solid #000000 !important;
     }
     #market table#ncx_markets {
-        background: #101010 !important;
-        margin-top: 20px;
+        margin-top: 0px;
     }
     #market #featured_slider_mobile:before, #market #featured_slider_mobile:after{
         min-height: 93px !important;
@@ -638,7 +638,7 @@ a.cl__drp:hover{
         padding: 5px 10px;
         font-size: 12px;
         color: #FFFFFF;
-        font-family: 'urbanist-light';
+        font-family: 'urbanist-regular';
     }
     .yy__tr{
         display: flex;
@@ -730,13 +730,13 @@ a.cl__drp:hover{
         min-height: auto;
     }
     #bannss.ind__banner h1 {
-        font-size: 26px;
-        line-height: 32px;
+        font-size: 26px !important;
+        line-height: 32px !important;
     }
     #bannss.ind__banner p {
-        font-size: 14px;
-        line-height: 20px;
-        padding-top: 5px;
+        font-size: 14px !important;
+        line-height: 20px !important;
+        padding-top: 5px !important;
     }
     #bannss a.byyy, #bannss a.marr {
         width: 120px;
@@ -779,5 +779,11 @@ a.cl__drp:hover{
     }
     .dex-table svg {
         width: 12px;
+    }
+    .black__card {
+        order: 2;
+    }
+    .gold__card {
+        order: 1;
     }
 }
