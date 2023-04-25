@@ -223,7 +223,7 @@ div#market:before {
 #market p.fet_tag{
     background: #5ED3F0;
 }
-#market .trend_pairs h1, .prix h3{
+#market .trend_pairs h1, #market .prix h3{
     color: #FFFFFF;
 }
 #market .trend_pairs p{

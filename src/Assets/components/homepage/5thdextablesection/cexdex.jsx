@@ -717,7 +717,7 @@ function HomeCEXDEXTableSection()
                             <div className="mbl-dexcont2">
                                 <h3>{t("low")}</h3>
                                 <div className="tickbox">
-                                    <BlackTick />
+                                    <Whitetick />
                                 </div>
                                 <h3>{t("low")}</h3>
                                 <h3>{t("user_friendly")}</h3>
