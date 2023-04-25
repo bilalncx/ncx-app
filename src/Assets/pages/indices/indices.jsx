@@ -1,7 +1,7 @@
 import React from "react";
 import './style.css';
-import MyHeader from '../../components/header/indheader';
-import MyFooter from '../../components/footer/indfooter';
+import MyHeader from '../../components/header/header';
+import MyFooter from '../../components/footer/footer';
 import Indices1 from "../../components/indices/01/1";
 import Indices2 from "../../components/indices/02/2";
 import Indices3 from "../../components/indices/03/3";

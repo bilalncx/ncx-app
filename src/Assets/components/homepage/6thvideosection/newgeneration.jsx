@@ -25,7 +25,7 @@ function Home6thVideoSection(){
                                     <p>{t("for_new_users_only")}</p>
                                 </div>
                                 <div className="buttoninfo">
-                                    <Button href="https://ncx.cx/task-rewards" alt="NCX Task Start">{t("start_task")}</Button>
+                                    <Button href="/rewards" alt="NCX Task Start">{t("start_task")}</Button>
                                     <NCXInfoIcon />
                                 </div>
                             </div>

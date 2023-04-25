@@ -27,7 +27,7 @@ function NCXTaskSection()
                             <h3>{t("sign_up_verify")}</h3>
                             <p>{t("new_user_only")}</p>
                             <div className="taskbtn">
-                                <Button href="./task-rewards">{t("start_task")}</Button>
+                                <Button href="/rewards">{t("start_task")}</Button>
                                 <NCXQuestionmark />
                             </div>
                         </div>
@@ -82,7 +82,7 @@ function NCXTaskSection()
                             <h3>{t("sign_up_verify")}</h3>
                             <p>{t("new_user_only")}</p>
                             <div className="taskbtn">
-                                <Button href="./task-rewards">{t("start_task")}</Button>
+                                <Button href="/rewards">{t("start_task")}</Button>
                                 <NCXQuestionmark />
                             </div>
                         </div>

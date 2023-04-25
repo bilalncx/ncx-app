@@ -22,7 +22,7 @@ function BuyCrypto(){
                     <div className="rewardheadrow">
                         <p className="complete-tsks">{t("buy_crypto_earn_ncxt")}</p>
                         <div className="reward-center">
-                            <p><a href="https://ncx.cx/task-rewards">{t("visit_rewards_center")}</a></p>
+                            <p><a href="/rewards">{t("visit_rewards_center")}</a></p>
                             <p className="star-res"><RewardStar />{t("ncx_rewards")}</p>
                         </div>
                     </div>

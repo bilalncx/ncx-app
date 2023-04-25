@@ -2,7 +2,7 @@ div#indicies__page {
     background: #000000;
     background-color: #000000;
 }
-#indicies__page a.signin{
+/* #indicies__page a.signin{
     background: #5ED3F0 !important;
     border-color: #5ED3F0 !important; 
 }
@@ -34,7 +34,7 @@ div#indicies__page {
 #indicies__page .fot-newsleter form button{
     background: #5ED3F0 !important; 
     border: 1px solid #5ED3F0 !important; 
-}
+} */
 
 /* ***************************************************************** */
 #indicies__page.new__d .sieze__ppp:before, #indicies__page.new__d .sieze__ppp:after,

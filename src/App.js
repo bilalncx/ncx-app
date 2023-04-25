@@ -47,7 +47,7 @@ const App = () => {
           <Route path='/cookie-policy' element={<CookiePolicy />}/>
           <Route path='/api-agreement' element={<APIDocumentation />}/>
           <Route path='/buy-crypto' element={<BuyCrypto />}/>
-          <Route path='/task-rewards' element={<TaskReward />} />
+          <Route path='/rewards' element={<TaskReward />} />
           <Route path='/ncx-card' element={<NCXCard />}/>
           <Route path='/ncx-otc' element={<NCXOTC />} />
           <Route path='/ncx-ambassador' element={<NCXAmbassador />} />

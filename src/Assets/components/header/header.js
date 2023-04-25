@@ -5,7 +5,7 @@ import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Button from "@mui/material/Button";
 import IconButton from "@mui/material/IconButton";
-import Logo from './NCX-logo.svg';
+import Logo from '../../images/new_sitelogo.svg';
 import './header.css';
 import { ReactComponent as NCXMore } from '../../images/ncx-header-more.svg';
 import { ReactComponent as AppleIcon } from '../../images/apple-icon.svg';
@@ -53,7 +53,7 @@ export default function Header() {
                           <div className="main_service_wrapper">
                             <div className="community_inner">
                               <div className="main_service">
-                                <a href="https://ncx.cx/task-rewards">{t("rewards_program")}</a>
+                                <a href="/rewards">{t("rewards_program")}</a>
                                 <a href="https://ncx.cx/insights">{t("news_insights")}</a>
                                 <a href="https://ncx.cx/market-makers">{t("market_makers")}</a>
                                 <a href="https://ncx.cx/institutional">{t("institutional_services")}</a>
@@ -133,7 +133,7 @@ export default function Header() {
                   <a href="/ncx-token">{t("ncx_token")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://ncx.cx/task-rewards">{t("rewards")}</a>
+                  <a href="/rewards">{t("rewards")}</a>
                 </li>
               </ul>
             </div>
@@ -225,7 +225,7 @@ export default function Header() {
                         <a href="/ncx-token">{t("ncx_token")}</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/task-rewards">{t("rewards")}</a>
+                        <a href="/rewards">{t("rewards")}</a>
                       </li>
                       <li>
                         <a href="https://ncx.cx/insights">{t("news_insights")}</a>
