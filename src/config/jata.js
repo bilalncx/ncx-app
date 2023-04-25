@@ -1,5 +1,590 @@
 const blogListdata = [
   {
+    id: 434,
+    title: 'Stocks Fall With US Futures as Earnings Roll In: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['Stocks', 'US', 'Futures'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- European stocks declined as investors parsed a flood of earnings reports from some of the region’s biggest companies.</p>
+    </div>,
+    authorName: 'Robert Brand',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 12:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-449.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- European stocks declined as investors parsed a flood of earnings reports from some of the region’s biggest companies.</p>
+    	<p>The Stoxx Europe 600 index dropped about 0.5%, with Swiss lender UBS Group AG dragging banks lower after results that fell short of analysts’ expectations. Spain’s Banco Santander SA slid as concern over outflows outweighed a first-quarter earnings beat. US equity futures declined after First Republic Bank’s results reignited concerns about prospects for its business after weeks of calm in the banking sector.</p>	
+    	<p>In other earnings news:</p>	
+      <ul>
+        <li>Swiss food producer Nestle SA advanced after posting healthy revenue growth</li>
+        <li>Freight operator Kuehne + Nagel International AG jumped after a strong sea-logistics performance</li>
+        <li>Drugmaker Novartis AG rose after first-quarter earnings exceeded analysts’ expectations</li>
+        <li>Engineering firm ABB Ltd. climbed after raising revenue guidance for the year</li>
+        <li>Swedish miner and smelter Boliden AB slumped, pulling the basic resources sub-index lower, after disruptions and rising costs at its mines unit weighed on earnings</li>
+      </ul>
+    	<p>Contracts on the S&P 500 and the Nasdaq 100 traded about 0.5% lower. The S&P 500 closed just 0.1% higher on Monday and the tech-heavy Nasdaq 100 slipped 0.2%. That extended to seven the number of trading days when the two indexes have both moved less than 1%. Heavyweights including Microsoft Corp. and Alphabet Inc. will report results later Tuesday.</p>
+      <p>A Bloomberg gauge of the dollar erased an earlier decline and Treasuries extended gains after 10-year yields slid eight basis points Monday, the biggest one-day decline since March. Government bonds across Europe rallied, with the German 10-year yield falling as much as eight basis points.</p>
+      <p>Shares in China and Hong Kong tumbled, with the Shanghai Shenzhen CSI 300 Index falling for a fifth day and the Hang Seng China Enterprises Index headed for its lowest close in five weeks. Traders cite geopolitical tensions such as the US plans last week to limit investments in key parts of China’s economy, while Chinese President Xi Jinping and other top leaders have highlighted risks the economy still faces.</p>
+      <p>Meanwhile, markets are now pricing in the peak for US interest rates in June, and then a decline to end the year below 4.5%.</p>
+      <p>The small shifts in Fed projections underscore the lack of direction at the start of a busy week for economic data and corporate earnings. Data published Monday showed US manufacturing data was weaker than economists forecast, while uncertainty over the debt ceiling persisted. Later this week, US GDP data is forecast to reveal slower growth, and the so-called core PCE deflator, the Fed’s preferred inflation gauge, is expected to show price growth cooled.</p>
+      <p>“The data justifies a 25 basis-point hike,” said Erick Muller, head of product and investment strategy at Muzinich & Co. in London. “But it’s going to be difficult for central banks to raise rates and then quickly within a few months to start reversing that.”</p>
+      <p>The CBOE VIX index of equity volatility remained near the 17-month low reached last week, but JPMorgan Chase & Co. strategist Marko Kolanovic said that may spell trouble for stock investors as it gives a false sense of calm.</p>
+      <p>Investors should remain stay defensive despite the current low volatility, according to Altaf Kassam, head of investment strategy & research EMEA at State Street Global Advisors. “Over the medium to long term, inverted yield curves, slowing consumer spending and tightening in credit standards will all take their toll,” he said on Bloomberg Television.</p>
+      <p>Some better-than-expected Chinese data in recent days haven’t been enough to bolster investor sentiment in the equity market.</p>
+      <p>“People question the accuracy of the macro data, as bottom-up corporate earnings and guidance remain soft,” Bank of America Corp. strategists including Winnie Wu wrote in a research note. “We expect the debate on the bull/bear case to continue, and market may only get more clarity by June/July.”</p>
+      <p>Elsewhere, oil steadied and gold rose. Bitcoin slid for a third day.</p>
+      <p>Key events this week:</p>
+      <ul>
+        <li>US new home sales, consumer confidence, Tuesday</li>
+        <li>Australia CPI, Wednesday</li>
+        <li>Sweden rate decision, Wednesday</li>
+        <li>Eurozone economic, consumer confidence, Thursday</li>
+        <li>US initial jobless claims, GDP, Thursday</li>
+        <li>Bank of Japan meets on interest rates, Friday</li>
+        <li>Euro-area GDP, Friday</li>
+        <li>US personal income, Friday</li>
+      </ul>
+      <p>Earnings highlights:</p>
+      <ul>
+        <li>Tuesday: Pepsi, General Motors, General Electric, McDonalds, Microsoft, UPS</li>
+        <li>Wednesday: Boeing, Meta, Hilton</li>
+        <li>Thursday: Amazon, American Airlines, Intel, Mastercard, Southwest Airlines, Hershey, Honeywell, Barclays</li>
+      </ul>
+      <p>Some of the main moves in markets:</p>
+      <p>Stocks</p>
+      <ul>
+        <li>The Stoxx Europe 600 fell 0.5% as of 8:55 a.m. London time</li>
+        <li>S&P 500 futures fell 0.5%</li>
+        <li>Nasdaq 100 futures fell 0.5%</li>
+        <li>Futures on the Dow Jones Industrial Average fell 0.4%</li>
+        <li>The MSCI Asia Pacific Index fell 0.6%</li>
+        <li>The MSCI Emerging Markets Index fell 1%</li>
+      </ul>
+      <p>Currencies</p>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index rose 0.1%</li>
+        <li>The euro fell 0.2% to $1.1029</li>
+        <li>The Japanese yen was little changed at 134.21 per dollar</li>
+        <li>The offshore yuan fell 0.3% to 6.9271 per dollar</li>
+        <li>The British pound fell 0.2% to $1.2462</li>
+      </ul>
+      <p>Cryptocurrencies</p>
+      <ul>
+        <li>Bitcoin fell 0.7% to $27,277.21</li>
+        <li>Ether fell 1.3% to $1,816.08</li>
+      </ul>
+      <p>Bonds</p>
+      <ul>
+        <li>The yield on 10-year Treasuries declined four basis points to 3.45%</li>
+        <li>Germany’s 10-year yield declined six basis points to 2.45%</li>
+        <li>Britain’s 10-year yield declined five basis points to 3.73%</li>
+      </ul>
+      <p>Commodities</p>
+      <ul>
+        <li>Brent crude rose 0.2% to $82.92 a barrel</li>
+        <li>Spot gold was little changed</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Michael Msika, Tassia Sipahutar and Sujata Rao.</p>
+    </div>
+  },
+  {
+    id: 435,
+    title: 'UK banks: Here’s what to expect from Q1 results',
+    category: 'Markets',
+    subCategory: ['US', 'Bank', 'Results'],
+    description: <div className="blog-desc">
+      <p>Banks on the FTSE 100 (^FTSE) are set to report their first quarter (Q1) results this week and next — starting with Standard Chartered (STAN.L) on Wednesday.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 10:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-450.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Banks on the FTSE 100 (^FTSE) are set to report their first quarter (Q1) results this week and next — starting with Standard Chartered (STAN.L) on Wednesday.</p>
+    	<p>Investors will be keeping an eye on the inflows and outflows of deposits from each bank to help determine confidence.</p>	
+    	<p>It follows recent turmoil in the banking sector, which started in the US in March with the failures of Silicon Valley Bank and Signature Bank. Concerned about the safety of their money, customers withdrew funds en masse.</p>	
+	    <p>Separately, Credit Suisse (CS) was recently rescued by its Swiss rival UBS (UBS), following its own set of challenges.</p>
+      <p>Despite the recent deposit withdrawal crisis in the US, the impact is not expected to be the same in the UK. The Bank of England also said at the time that there was no reason to worry about a knock-on effect.</p>
+      <p>“Due to the sheer size of high street banks like Barclays, NatWest and Lloyds, they are seen as a much safer place to deposit cash,” Giles Coghlan, chief market analyst, consulting for HYCM, said.</p>
+      <p>“The recent uncertainty in the banking sector has probably encouraged people to move their money into more reliable institutions in the last few months, which would lead to surprisingly positive earnings data in the next week or so.”</p>
+      <p>Barclays (BARC.L) is set to release Q1 results on Thursday, followed by NatWest (NWG.L) on Friday.</p>
+      <p>Next week, the focus will then turn to results from HSBC (HSBA.L) on Tuesday, and Lloyds (LLOY.L) on Wednesday.</p>
+      <p>Here’s what the analysts had to say in advance of the earnings due this week.</p>
+      <p><strong>Standard Chartered (STAN.L)</strong></p>
+      <p>Susannah Streeter, head of money and markets at Hargreaves Lansdown, noted that the excitement around a potential takeover has ebbed away and said worries about the risks ahead for Standard Chartered have weighed on its share price.</p>
+      <p>“Its pre-tax profit for Q1 is expected to be down slightly compared to the same period last year,” she said.</p>
+      <p>“Although net interest income has been rising, helped by higher interest rates, it won’t have moved the dial as much as with some of its peers, given the bank is much more reliant on revenues from fee earning businesses like wealth management which have been facing headwinds in the higher interest rate environment.”</p>
+      <p>The group has large exposure to some riskier commercial real estate debt in China, with related impairment charges chipping away at its full profit potential.</p>
+      <p>“Investment in the sector disappointed at the last snapshot despite Chinese authorities’ stimulus efforts to this niggling worry is set to linger,” Streeter said.</p>
+      <p><strong>Barclays (BARC.L)</strong></p>
+      <p>Streeter said Barclays is less reliant on traditional interest income for its profits and won’t have enjoyed as much of the benefit of higher base rates compared to some of its peers.</p>
+      <p>“Nonetheless, the ramping up of rates, with yet more hikes expected, will have benefited the bottom line,” she said.</p>
+      <p>“Although its model based on fees, commission and trading should offer greater potential growth over the long term, there may be evidence in this update that management is bracing for more short-term volatility, particularly with the world’s largest economy expected to tip into recession.”</p>
+      <p>Streeter also highlighted that as volatility has hit financial markets, fees for Barclays’ large investment division have been weaker than forecast, and said it has already been anticipating a higher number of loan defaults.</p>
+      <p>“Although indices have crept back upwards in recent months, uncertainty has been the order of the day and the slowdown in dealmaking which its investment arm relies on, is likely to have continued,” she added.</p>
+      <p><strong>NatWest (NWG.L)</strong></p>
+      <p>Meanwhile, NatWest has generated most of its income from interest payments on loans it makes to consumers and companies.</p>
+      <p>“It’s had a spring in its step as interest rate hikes have boosted its incomes,” according to Streeter.</p>
+      <p>Moreover, with the Bank of England expected to announce another rate hike in May to tame inflation, Streeter said this more positive environment will hang around for longer.</p>
+      <p>“However, weakness is being sniffed out further ahead, given the expectation that rates will start to come back down as inflation falls back in the second half of the year and NatWest doesn’t have as many diversified income streams to rely on as some of its peers,” she said.</p>
+      <p>“The banking scare may have put another spanner in the works as some banks are expected to take defensive action and try and attract more deposits by offering higher rates to savers which could eat further into net income margins.”</p>
+      <p>However, NatWest is well capitalised, running on a Common Equity Tier ratio of over 14%, which is a comfortable position to be in.</p>
+      <p><strong>Other factors to watch</strong></p>
+      <p>Naeem Aslam, chief investment officer at Zaye Capital Markets, said another important factor to watch out for in earnings reports will be the default ratio that banks are experiencing due to the higher interest rates and what they anticipate in the coming months.</p>
+      <p>“Remember, over a million mortgages are only due for renewal in London, and these people will be paying double the interest rate they paid before. This means higher default rates,” he said.</p>
+      <p>Jameel Ahmad, chief market analyst at CompareBroker.io, said the higher interest rate environment is likely to lead to UK banks repeating the same narrative as their Wall Street peers.</p>
+      <p>“Which is that the higher interest rate environment is lifting profitability prospects higher,” he said.</p>
+    </div>
+  },
+  {
+    id: 422,
+    title: 'CoinShares says weekly investment in Ethereum-linked products rebounds after hard fork',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ethereum', 'investment'],
+    description: <div className="blog-desc">
+      <p>Ethereum-linked digital asset investment products saw inflows of around US$17 million in the week ending April 21, up from US$300,000 in the previous week, appearing to show investor confidence following the blockchain’s milestone upgrade on April 12, according to a report from European cryptocurrency investment firm CoinShares.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 8:16 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-437.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ethereum-linked digital asset investment products saw inflows of around US$17 million in the week ending April 21, up from US$300,000 in the previous week, appearing to show investor confidence following the blockchain’s milestone upgrade on April 12, according to a report from European cryptocurrency investment firm CoinShares.</p>
+    	<h3>Fast facts</h3>	
+    <ul>
+      <li>However, total investments in digital asset products saw outflows of around US$30 million last week, ending a six-week run of inflows, the report said. Bitcoin had seen inflows of US$310 million in the prior four weeks but last week saw outflows of US$53 million.</li>
+      <li>“The outflows began the prior Friday [April 14] when Bitcoin reached the very psychological level of US$30,000, suggesting the most recent sell-off was a result of profit-taking, particularly in the absence of any macro-economic triggers,” the CoinShares report says.</li>
+      <li>Developers of the Ethereum blockchain on April 12 updated the network with new features including allowing the withdrawal of staked Ether. Such tokens were deposited to support the operations of the Ethereum blockchain, the world’s second-biggest, in return for a passive income, usually in the form of more tokens.</li>
+      <li>As of 11 a.m. on Tuesday in Hong Kong, around 1.66 million staked Ether (US$3.04 billion) have been withdrawn since the April 12 upgrade, with another 1.07 million Ether deposited for staking, according to data from Token Unlocks. About 616,500 Ether are awaiting withdrawal.</li>
+      <li>Ether dipped 1.76% in the past 24 hours to trade at US$1,834, and lost 11.93% in the past seven days, according to data from CoinMarketCap. Bitcoin fell 1.22% in the last 24 hours to change hands at US$27,399, logging a 7.06% weekly drop.</li>
+    </ul>
+    </div>
+  },
+  {
+    id: 423,
+    title: 'Bitcoin loses ground, Ether dips even as inflows rise; Litecoin edges up, with halving cited',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'litecoin', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin fell on Tuesday morning in Asia to trade below the US$27,500 support line, with the slide ascribed to more profit-taking after this year’s strong gains. Ether and most other top 10 non-stablecoin cryptocurrencies traded lower amid a broader correction in the crypto market. XRP led the losers, while Litecoin stood out as the only gainer in the top 10. U.S. equity futures edged lower in Asia ahead of a bunch of economic readings and first-quarter earning reports from major U.S. companies this week. Wall Street closed mixed on Monday.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 7:16 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-438.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin fell on Tuesday morning in Asia to trade below the US$27,500 support line, with the slide ascribed to more profit-taking after this year’s strong gains. Ether and most other top 10 non-stablecoin cryptocurrencies traded lower amid a broader correction in the crypto market. XRP led the losers, while Litecoin stood out as the only gainer in the top 10. U.S. equity futures edged lower in Asia ahead of a bunch of economic readings and first-quarter earning reports from major U.S. companies this week. Wall Street closed mixed on Monday.</p> 
+      <h3>Fast facts</h3>
+      <ul>
+        <li>Bitcoin fell 1.22% to US$27,461 in the 24 hours to 9:00 a.m. in Hong Kong for a loss of 6.51% for the week, according to CoinMarketCap data. The world’s largest cryptocurrency retreated to US$27,070 at one stage on Tuesday morning, the lowest price since March 28.</li>
+        <li>Ether dropped 1.88% to US$1,841, losing 11.25% for the week and wiping out its gains since April 12 from the Shanghai upgrade of the Ethereum blockchain.</li>
+        <li>XRP led the losers, dropping 4.75% to US$0.4596 for a seven-day loss of 10.27%.</li>
+        <li>Bitcoin’s slide over the past week is investors taking profit following the token’s surge so far this year, according to a Monday blog post by digital asset investment firm CoinShares, noting an outflow of US$30 million from digital asset investment products in the week ending April 21, interrupting a 6 week run of inflows.</li>
+        <li>However, Ether saw an inflow of US$17 million in the past week, which suggests some confidence among Ether investors after the Shanghai upgrade.</li>
+        <li>Despite the widespread profit-taking, the U.K.-based Standard Chartered Bank on Monday said Bitcoin could reach US$100,000 by the end of 2023 on the back of recent failures of traditional banks, a rebound in profits in crypto mining, and the potential end of the U.S. monetary tightening cycle, according to Reuters.</li>
+        <li>Litecoin managed to log gains despite the overall downtrend, rising 0.76% to US$87.99. This followed a tweet from Litecoin noting the token’s third halving event is in 100 days, which will make the coin more scarce. Still, it has some ground to make up as it’s lost 11.09% for the past seven days.</li>
+        <li>The total crypto market capitalization dipped 1.20% in the past 24 hours to US$1.16 trillion. The total trading volume over the last 24 hours rose 28.71% to US$38.23 billion.</li>
+        <li>In the non-fungible token (NFT) market, the Forkast 500 NFT index dipped 0.57% to 3,755.63 in the 24 hours to 9:00 a.m. in Hong Kong, down 7.23% for the week. The index is a proxy measure of the performance of the global NFT market and includes 500 eligible smart contracts on any given day. It is managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</li>
+        <li>The underperformance of the NFT market could be attributed to a surge in gas fees on the Ethereum blockchain, following the recent rise of memecoin PEPE. However, the memecoin, launched on April 14, fell 18.81% to US$0.0000002626 in the 24 hours to 7 p.m. on Monday in Hong Kong. The coin is still up over 392% on the weekly chart and has a market capitalization of around US$116 million, according to DEXTools.</li>
+        <li>U.S. stock futures traded flat to lower as of 9:00 a.m. in Hong Kong. The Dow Jones Industrial Average futures inched 0.04% lower. The S&P 500 dipped 0.10% and the Nasdaq Composite Index edged down 0.09%. The three indexes closed mixed in regular Monday trading on Wall Street, with investors facing a week busy with inflation gauges and earnings from U.S. corporations.</li>
+        <li>178 of the S&P 500 companies will release first-quarter earnings this week, including Alphabet, Amazon, Microsoft and Meta.</li>
+        <li>On the inflation front, investors are also facing U.S. first-quarter gross domestic product (GDP) on Thursday and personal consumer expenditures on Friday, which will provide an insight into the broader U.S. economy and the Federal Reserve’s possible next move on interest rates. Analysts project annual growth of 2.5% in U.S. real GDP, down from 2.6% in the previous quarter.</li>
+        <li>U.S. interest rates are currently between 4.75% to 5%, the highest since June 2006. Analysts at the CME Group now see a 16% chance the Fed will leave interest rates unchanged at its next meeting on May 3, while 84% predict a 25-basis-point increase, down from 89.1% on Monday.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 433,
+    title: 'Stocks waver, dollar flat as investors weigh earnings, data',
+    category: 'Markets',
+    subCategory: ['stocks', 'waver', 'dollar'],
+    description: <div className="blog-desc">
+      <p>HONG KONG (Reuters) - Stocks fell broadly and the U.S. dollar also weakened early on Tuesday, reflecting investors' uncertainty in a busy week for corporate earnings and economic data.</p>
+    </div>,
+    authorName: 'Xie Yu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 6:31 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-448.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Xie Yu</p>
+    	<p>HONG KONG (Reuters) - Stocks fell broadly and the U.S. dollar also weakened early on Tuesday, reflecting investors' uncertainty in a busy week for corporate earnings and economic data.</p>	
+    	<p>MSCI's broadest index of Asia-Pacific shares outside Japan was down 1.2% by 0510 GMT.</p>	
+    	<p>Markets in Australia and New Zealand are shut for a holiday.</p>
+      <p>U.S. stock futures, the S&P 500 e-minis lost 0.3%.</p>
+      <p>In early European trades, the pan-region Euro Stoxx 50 futures were down 0.3%. German DAX futures and FTSE futures fell 0.2% and 0.3% respectively.</p>
+      <p>Japan bucked the overall stock weakness, as its benchmark Nikkei average gained 0.4%, touching 8-month high as strong chip investment lifted tech shares.</p>
+      <p>On Monday, the Nasdaq closed lower, underperforming the S&P 500 and the Dow, with pressure from high-profile megacaps as investors awaited results from companies including Microsoft, while Tesla shares fell on concerns about its spending plans.</p>
+      <p>"There's a lot of uncertainty. People still don't know how much bank lending has been impacted by recent developments ... (or) when inflation will durably peak," said Prashant Bhayani, chief investment officer Asia, BNP Paribas Wealth Management.</p>
+      <p>Bhayani also pointed to anxiety about other weak spots that might be exposed by the recent turmoil in U.S. and Swiss banks.</p>
+      <p>Troubled U.S. bank First Republic Bank shares sank more than 20% after the closing bell on Monday as it said deposits plunged by more than $100 billion in the first quarter and it was exploring options such as restructuring its balance sheet.</p>
+      <p>Meanwhile, Swiss banking giant UBS Group reported a 52% slide in quarterly profit, as it prepares to integrate fallen rival Credit Suisse. The drop in profit was largely due to UBS setting aside a further $665 million to cover the costs of toxic mortgages that played a central role in the global financial crisis some 15 years ago.</p>
+      <p>Market participants are waiting for corporate earnings and a mix of economic data from the U.S., Europe and China for cues on the growth momentum and when a recession in the U.S. economy might start, he added.</p>
+      <p>Over in China, Hong Kong's benchmark fell 1.9%, while mainland stocks lost 0.9%.</p>
+      <p>Despite a recent string of strong macro data including China's 4.5% GDP growth for the first quarter and retail sales that beat expectations, the economic recovery there is still uneven and has yet to trickle down to corporate earnings, said Carlos Casanova, senior economist for Asia at UBP.</p>
+      <p>"With the reopening stories clearly behind us, we don't yet have clear visibility as to where we are going to see priorities in policymaking," he said.</p>
+      <p>In the U.S. treasury market, yields fell as participants looked for less risky places to park cash amid concerns over the approaching U.S. debt ceiling deadline, with the House of Representatives expected to vote on a Republican-led debt and spending bill this week.</p>
+      <p>Benchmark 10-year notes edged down to 3.4749% by 0511 GMT, after strengthening on Monday to 3.5034%.</p>
+      <p>One-month Treasury yields rose from their lowest levels since October on Monday on concerns about a potential standoff over the debt ceiling.</p>
+      <p>, with the House of Representatives expected to vote on a Republican-led debt and spending bill this week.</p>
+      <p>The dollar index was almost flat by 0510 GMT, paring some earlier losses. Gold gave up some gains. Spot gold was traded at $1991.39 per ounce.</p>
+      <p>Oil prices were steady. Brent crude edged up 4 cents $82.70 a barrel by 0506 GMT, while U.S. West Texas Intermediate crude edged up to $78.73 a barrel.</p>
+    </div>
+  },
+  {
+    id: 432,
+    title: 'Dow Jones Futures: First Republic Bank Crashes 20% On Unprecedented Deposit Flight',
+    category: 'Markets',
+    subCategory: ['Dow jones', 'Republic Bank', 'Futures'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures were little changed ahead of Tuesday's open, with a busy week of earnings results ahead that includes tech titans Google-parent Alphabet (GOOGL), Amazon (AMZN), Facebook-owner Meta Platforms (META) and Microsoft (MSFT). Late Monday, First Republic Bank (FRC) crashed after the company's earnings results late.</p>
+    </div>,
+    authorName: 'Jacob Sonenshine',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 5:24 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-447.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures were little changed ahead of Tuesday's open, with a busy week of earnings results ahead that includes tech titans Google-parent Alphabet (GOOGL), Amazon (AMZN), Facebook-owner Meta Platforms (META) and Microsoft (MSFT). Late Monday, First Republic Bank (FRC) crashed after the company's earnings results late.</p>
+    	<p>Also late Monday, Cadence Design Systems (CDNS) and First Republic Bank were on the move after earnings. Cadence shares lost nearly 4% in extended trade.</p>	
+    	<p>First Republic crashed more than 20% after total deposits cratered 35.5% from last year to $104.5 billion as of March 31, even with the $30 billion injected from the biggest banks. Deposits declined by $72 billion during the quarter, down 40.8% from year-end. FactSet analysts projected deposits dropping to $145 billion.</p>	
+    	<p>"With the closure of several banks in March, we experienced unprecedented deposit outflows," commented CFO Neal Holland in a statement.</p>
+      <p>Early Tuesday, 3M (MMM), Dow (DOW), General Electric (GE), General Motors (GM), Halliburton (HAL), McDonald's (MCD), PepsiCo (PEP), PulteGroup (PHM), Spotify (SPOT), UPS (UPS) and Verizon Communications (VZ) will be key earnings reporters.</p>
+      <p>Google-parent Alphabet and Microsoft will report late Tuesday. Meta earnings are scheduled for Wednesday after the market close. And Amazon earnings are due late Thursday.</p>
+      <h3>Stock Market Today</h3>
+      <p>On Monday, the Dow Jones Industrial Average rose 0.2%, with Chevron (CVX) one of the big winners. CVX stock rallied 1.4%. The S&P 500 rose 0.1%, while the tech-heavy Nasdaq composite lost 0.3%.</p>
+      <p>EV leader Tesla traded down 1.5% Monday. Among Dow Jones stocks, Apple (AAPL) rose 0.2% and Microsoft (MSFT) lost 1.4% in today's stock market action.</p>
+      <p>Crocs (CROX), DraftKings (DKNG), IBD Leaderboard stock Las Vegas Sands (LVS) and IBD SwingTrader stock Lululemon Athletica (LULU) — as well as Dow Jones stocks JPMorgan Chase (JPM), Nike (NKE) and Visa (V) — are among the top stocks to buy and watch with the ongoing market rally.</p>
+      <p>Nike and DraftKings were featured in this week's Stocks Near A Buy Zone column.</p>
+      <h3>Dow Jones Futures Today: Oil Prices, Treasury Yields</h3>
+      <p>Ahead of Tuesday's opening bell, Dow Jones futures, S&P 500 futures and Nasdaq 100 futures were little changed vs. fair value in overnight trading. Remember that overnight action in Dow Jones futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <p>The 10-year U.S. Treasury yield fell to 3.51% Monday. Over the last two weeks, the 10-year yield rebounded from its lowest level since mid-September. U.S. oil prices rose Monday, as West Texas Intermediate futures settled just below $79 a barrel.</p>
+      <h3>What To Do In The Stock Market Rally</h3>
+      <p>Now is an important time to read IBD's The Big Picture column with the stock market trend in a "confirmed uptrend" after continued gains.</p>
+      <p>Amid Monday's quiet action, the market outlook remains in a confirmed uptrend, which means investors continue to have the green light to buy breakout stocks. IBD's recommended exposure currently sits at 40% to 60%.</p>
+      <p>Two useful IBD MarketSmith lists to check right now are "Breaking Out Today" and "Near Pivot." The latter shows stocks nearing buy points in bases, and the other flags stocks rising past buy points during the session.</p>
+      <p>To find more stock ideas, check IBD Stock Lists, like IBD 50, Big Cap 20 and Stocks Near A Buy Zone. These features identify bullish patterns and buy points and should be checked every day.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: JPMorgan, Nike, Visa</h3>
+      <p>JPMorgan shares inched higher Monday, holding steady near a flat base's 144.44 buy point and above the 50-day moving average, according to IBD MarketSmith pattern recognition.</p>
+      <p>Nike shares rose 1.2% Monday, still above their 50-day line and approaching a cup-with-handle's 127.59 buy point.</p>
+      <p>Visa shares remain in buy range above a 230.15 cup-with-handle buy point. The buy range goes up to 241.66. Visa reports fiscal second-quarter results late Tuesday.</p>
+      <h3>Top Stocks To Buy And Watch: Crocs, DraftKings</h3>
+      <p>Crocs shares climbed 2.7% Monday, extending a win streak to seven sessions and finishing extended past a cup base's 143.60 buy point, according to IBD MarketSmith. The 5% buy range went up to 150.78. The company plans to report first-quarter earnings on Thursday.</p>
+      <p>Backstory: Broomfield, Colo.-based Crocs is best known for its rubbery, casual-wear shoes. The company in recent years expanded its Crocs brand portfolio from the classic slip-on clogs to include boots, sandals, wedges and sneakers. The Crocs brand makes up around 75% of sales.</p>
+      <p>DraftKings broke out above a cup base's 21.72 buy point last week, but gave up the entry during Monday's 2.55% drop. The 5% buy zone tops out at 22.81.</p>
+      <p>Backstory: Boston's DraftKings is an online sports platform that allows users to play daily fantasy games and win cash prizes. Sports-betting prospects look strong, with around 20% of U.S. adults saying they bet money on sports in some way in the last 12 months, according to a 2022 Pew Research Center survey. DraftKings reports Q1 results on May 4.</p>
+      <h3>Las Vegas Sands, Lululemon</h3>
+      <p>IBD Leaderboard stock Las Vegas Sands moved out of the 5% buy range above a 60.40 buy point in a cup with handle during Monday's 1.4% rally. The buy zone topped out at 63.42.</p>
+      <p>Backstory: Last week, Las Vegas Sands smashed earnings expectations for the first quarter and signaled a "robust recovery" in China's Macau gaming hub. The casino stock posted earnings of 28 cents per share, up from a net loss of 40 cents a year ago. Revenue vaulted nearly 125% to $2.12 billion.</p>
+      <p>IBD SwingTrader stock Lululemon moved further past a 371.36 entry in a cup with handle, with a near-1% rise Monday.</p>
+      <p>Backstory: On March 28, Lululemon hiked 2023 guidance after topping earnings and revenue estimates for the holiday fourth quarter, sparking a 12.7% surge on March 29. The yogawear and athleisure apparel retailer's final fourth-quarter results also exceeded its own preliminary announcement, issued in early January.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock slid 1.5% Monday, hitting its lowest level since Jan. 26. In recent weeks, shares triggered the 7%-8% loss rule from a buy point at 200.76 in a cup with handle. And they are trading sharply below their 50-day line, a key level.</p>
+      <p>The stock closed Monday 55% off its 52-week high.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares gained 0.2% Monday. They remain solidly above a 157.48 buy point and at the top of the buy range that runs up to 165.35.</p>
+      <p>Microsoft shares are still above a flat base's 276.86 buy point despite a three-day losing streak, as they dropped 1.4% Monday. The 5% buy area goes up from the buy point to 290.70. Earnings are due out late Tuesday.</p>
+    </div>
+  },
+  {
+    id: 424,
+    title: 'Ethereum Shanghai Upgrade Brings Record Inflow of 572k ETH Staked in a Week',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Shanghai', 'staked'],
+    description: <div className="blog-desc">
+      <p>Ethereum’s Shanghai upgrade brought a record-breaking weekly inflow of ether (ETH) deposits for staking last week, mainly driven by institutional staking service providers and investors reinvesting rewards after withdrawal, crypto analysts said.</p>
+    </div>,
+    authorName: 'Krisztian Sandor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 3:50 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-439.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ethereum’s Shanghai upgrade brought a record-breaking weekly inflow of ether (ETH) deposits for staking last week, mainly driven by institutional staking service providers and investors reinvesting rewards after withdrawal, crypto analysts said.</p>
+    	<p>Investors deposited some 571,950 ETH tokens into staking contracts, worth more than $1 billion, according to a Dune Analytics data dashboard created by Tom Wan, an analyst of digital asset investment firm 21Shares.</p>	
+    	<p>This was the largest weekly token inflow in ether staking’s almost two-and-a-half-year history, per blockchain data provided by 21Shares.</p>	
+    	<p>The Ethereum blockchain completed its highly anticipated tech upgrade, often called Shanghai or Shapella, on April 12. The initiative enabled the withdrawal of tokens previously locked-up in staking contracts for the first time. It was the last key step after last year’s Merge to complete the network’s transition to validating transactions through staking from a mining-based system.</p>
+      <p>ETH, the network’s native token and the second largest cryptocurrency by market capitalization after bitcoin (BTC), surged following the successful implementation of the upgrade, but relinquished all its gains last week in a broader crypto market sell-off, caused mostly by macroeconomic concerns about inflation and a looming recession.</p>
+      <p><strong>Institutional ETH staking</strong></p>
+      <p>Institutional staking services drove the deposit surge in ETH staking, Wan tweeted.</p>
+      <p>Since the Shanghai upgrade went live, the top five institutional-grade staking service providers – Bitcoin Suisse, Figment, Kiln, Staked.us and Stakefish – staked a total of 235,330 ETH combined, worth some $450 million, according to 21Shares’ Dune dashboard.</p>
+      <p>CoinDesk reported last week that the Shanghai upgrade boosted demand for ETH staking among institutional investors, including traditional finance firms.</p>
+      <p>The increased interest also highlights that enabling withdrawals from Ethereum’s proof-of-stake chain has significantly reduced the liquidity risk associated with locking up tokens, Wan added in a separate tweet.</p>
+      <p><strong>Restaking rewards</strong></p>
+      <p>Another likely catalyst for the record inflow has been investors choosing to reinvest their previously earned and withdrawn rewards from staking, Anders Helseth, vice president of digital asset market research firm K33 Research, explained in an emailed note.</p>
+      <p>Through the first eight days after the upgrade, investors withdrew some 900,000 ETH in staking rewards. Meanwhile, staking deposits totaled some 667,000 tokens, which was six times larger than the amount deposited during the last eight days before allowing withdrawals.</p>
+      <p>The dynamic indicates that investors decided to restake a large part of the withdrawn rewards, Helseth wrote.</p>
+      <p><strong>Reduced selling pressure</strong></p>
+      <p>The Shanghai upgrade was a “net positive” in terms of total staking inflows, Noelle Achison, a market analyst and former head of research at Genesis Trading and CoinDesk (both subsidiaries of Digital Currency Group), wrote in a newsletter Monday.</p>
+      <p>“So far, the rhythm of new deposits has exceeded the amount leaving the network, if rewards can be excluded,” she said.</p>
+      <p>The reason for differentiating reward withdrawals from full exits comes from how Ethereum’s staking system works. Individual stakers or staking services have to lock up exactly 32 ETH to open a node and earn rewards for securing the network. Keeping the accrued rewards in the validator node does not improve the node’s return. Acheson explained that it’s logical for stakers to withdraw rewards, bundle the tokens and establish new nodes to increase potential returns.</p>
+      <p>“It seems this is what is happening,” she said. “Overall net inflow has been positive, which suggests that a significant portion of these rewards are being restaked.”</p>
+      <p>The trend of reinvesting rewards is also potentially a positive sign for ETH price as it reduces sell pressure, according to Acheson, “which is likely to end up being much less than many feared.“</p>
+    </div>
+  },
+  {
+    id: 431,
+    title: 'Nvidia (NVDA) Stock Sinks As Market Gains: What You Should Know',
+    category: 'Markets',
+    subCategory: ['NVDA', 'Stocks', 'Gains'],
+    description: <div className="blog-desc">
+      <p>Nvidia (NVDA) closed at $270.42 in the latest trading session, marking a -0.28% move from the prior day. This change lagged the S&P 500's 0.09% gain on the day. Meanwhile, the Dow gained 0.2%, and the Nasdaq, a tech-heavy index, lost 4.87%.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 1:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-446.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Nvidia (NVDA) closed at $270.42 in the latest trading session, marking a -0.28% move from the prior day. This change lagged the S&P 500's 0.09% gain on the day. Meanwhile, the Dow gained 0.2%, and the Nasdaq, a tech-heavy index, lost 4.87%.</p>
+    	<p>Prior to today's trading, shares of the maker of graphics chips for gaming and artificial intelligence had gained 1.27% over the past month. This has outpaced the Computer and Technology sector's gain of 0.98% and lagged the S&P 500's gain of 3.31% in that time.</p>	
+    	<p>Wall Street will be looking for positivity from Nvidia as it approaches its next earnings report date. On that day, Nvidia is projected to report earnings of $0.92 per share, which would represent a year-over-year decline of 32.35%. Meanwhile, the Zacks Consensus Estimate for revenue is projecting net sales of $6.5 billion, down 21.59% from the year-ago period.</p>	
+    	<p>NVDA's full-year Zacks Consensus Estimates are calling for earnings of $4.50 per share and revenue of $29.68 billion. These results would represent year-over-year changes of +34.73% and +10.03%, respectively.</p>
+      <p>It is also important to note the recent changes to analyst estimates for Nvidia. These recent revisions tend to reflect the evolving nature of short-term business trends. As a result, we can interpret positive estimate revisions as a good sign for the company's business outlook.</p>
+      <p>Based on our research, we believe these estimate revisions are directly related to near-team stock moves. To benefit from this, we have developed the Zacks Rank, a proprietary model which takes these estimate changes into account and provides an actionable rating system.</p>
+      <p>Ranging from #1 (Strong Buy) to #5 (Strong Sell), the Zacks Rank system has a proven, outside-audited track record of outperformance, with #1 stocks returning an average of +25% annually since 1988. Within the past 30 days, our consensus EPS projection has moved 0.83% higher. Nvidia currently has a Zacks Rank of #3 (Hold).</p>
+      <p>In terms of valuation, Nvidia is currently trading at a Forward P/E ratio of 60.23. For comparison, its industry has an average Forward P/E of 17.84, which means Nvidia is trading at a premium to the group.</p>
+      <p>Meanwhile, NVDA's PEG ratio is currently 3.44. The PEG ratio is similar to the widely-used P/E ratio, but this metric also takes the company's expected earnings growth rate into account. The Semiconductor - General industry currently had an average PEG ratio of 2.98 as of yesterday's close.</p>
+      <p>The Semiconductor - General industry is part of the Computer and Technology sector. This industry currently has a Zacks Industry Rank of 167, which puts it in the bottom 34% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  },
+  {
+    id: 429,
+    title: 'Dow Rallies to Start a Big Week for Corporate Earnings',
+    category: 'Indices',
+    subCategory: ['Dow', 'Rallies', 'Week'],
+    description: <div className="blog-desc">
+      <p>Dow stocks rallied in the final hours of Monday’s session to close out a mixed trading day, while Nasdaq slipped. Investors are still holding their collective breath as the heart of big tech earnings season approaches.</p>
+    </div>,
+    authorName: 'Connor Smith',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 12:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-444.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow stocks rallied in the final hours of Monday’s session to close out a mixed trading day, while Nasdaq slipped. Investors are still holding their collective breath as the heart of big tech earnings season approaches.</p>
+    	<p>The Dow Jones Industrial Average rose about 0.2%. The S&P 500 rose about 0.1%. The Nasdaq Composite fell 0.3%.</p>	
+	    <p>“It's been a slow start to the week in the markets as investors have an eye on what's to come with earnings season getting into full flow and major economic releases on the agenda,” Oanda analyst Craig Erlam writes.</p>	
+	    <p>The global economy has mostly held up against tighter monetary policy so far, leading to expectations of another hike from the Fed and the European Central Bank next month. The prospect of rates staying higher for longer is one reason why the International Monetary Fund is predicting a substantial slowdown this year.</p>
+      <p>“A forecast deterioration in the health of the global economy is weighing on minds,” said Susannah Streeter, head of money and markets at Hargreaves Lansdown. “With more interest rate rises forecast, and a contraction in lending expected, the worry is that the world’s largest economy will start shrinking.”</p>
+      <p>Chris Larkin, managing director, trading and investing, at E*TRADE from Morgan Stanley writes that last week’s earnings reports were surprisingly quiet, in terms of how little the U.S. indexes moved.</p>
+      <p>“But this week and next may have the potential to push the market out of its congestion phase, one way or the other,” he wrote. “In addition to big tech earnings, over the next 10 days, GDP, the PCE Price Index (the Fed’s preferred inflation gauge), the monthly jobs report, and a Fed rate decision will all hit the Street.”</p>
+      <p>Coca-Cola (ticker: KO) kicked this week’s earnings off with a beat on earnings and revenue for the first quarter, but stock dropped about 0.3%. The bigger test for markets will be results from tech stalwarts like Alphabet (GOOGL) and Microsoft (MSFT) after the market closes on Tuesday. They’re followed by Meta Platforms (META) on Wednesday and Amazon.com (AMZN) on Thursday.</p>
+      <p>“While the macro is clearly not roses and champagne, we believe March earnings season will show better than feared results in the tech space with all investor eyes on the results from Microsoft, Meta, Amazon, and Google this week,” Wedbush analyst Dan Ives writes.</p>
+      <p>Erlam adds that investors are still trying to figure out the real economic consequences of the banking panic earlier this year that followed the collapse of Silicon Valley Bank, and how such outcomes could steer the Fed’s ongoing fight with inflation.</p>
+      <p>“Earnings season is obviously giving us plenty of food for thought in the interim but the first day of the week isn't typically the most thrilling and we're seeing another example of that today,” Erlam writes.</p>
+    </div>
+  },
+  {
+    id: 436,
+    title: 'Oil Kicks Off Higher After Biggest Weekly Loss Since Bank Scare',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Kicks Off', 'Loss'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil recouped some of last week’s slump in lower-volume trading as many investors took a pause while awaiting further clues to demand.</p>
+    </div>,
+    authorName: 'Julia Fanzeres and Sri Taylor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 24, 2023 - 11:32 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-451.jpg',
+    content: <div className="blog-content">1
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil recouped some of last week’s slump in lower-volume trading as many investors took a pause while awaiting further clues to demand.</p>
+    	<p>West Texas Intermediate rose to trade near $79 a barrel, swinging in a $2.50 range during a volatile session throughout the day. Last week, the commodity experienced the biggest weekly drop since the banking crisis in March amid signs of shrinking refining margins in Asia.</p>	
+    	<p>“There are a lot of traders sitting on the sidelines trying to figure out a direction,” said Carley Garner a Commodity Broker and Strategist at DeCarley Trading. “Traders are looking for a dip to get into; if we hold $75, we can start making a way higher.”</p>	
+    	<p>Crude has wiped out nearly all of the rally seen earlier this month after the Organization of Petroleum Exporting Countries and its allies announced surprise new production cuts. Citigroup Inc. said it was taken aback by the magnitude of the pullback in Asian refining margins, which is partly attributable to the ramp up of new Middle Eastern refineries.</p>
+      <p>Later this week, the Federal Reserve will release the last of its major reports on US jobs, inflation and consumer spending before its May policy meeting. Additionally, some of the world’s biggest oil majors, including Chevron and Exxon, will report their first-quarter earnings on Friday.</p>
+    </div>
+  },
+  {
+    id: 428,
+    title: 'Dow Jones Rises Ahead Of Big Earnings Week; Super Micro Plunges On Revenue Warning',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Earnings', 'Week'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average turned higher Monday ahead of a busy week of earnings results that includes tech titans Alphabet (GOOGL), Amazon (AMZN), Intel (INTC) and Microsoft (MSFT). C3.ai (AI) dived on an analyst downgrade, while Super Micro Computer (SMCI) plunged after issuing a revenue warning.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 24, 2023 - 5:58 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-443.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average turned higher Monday ahead of a busy week of earnings results that includes tech titans Alphabet (GOOGL), Amazon (AMZN), Intel (INTC) and Microsoft (MSFT). C3.ai (AI) dived on an analyst downgrade, while Super Micro Computer (SMCI) plunged after issuing a revenue warning.</p>
+    	<p>On the economic front, Friday is the big day for data, led by the Commerce Department personal income and outlays report for March, which focuses on the Fed's favorite inflation gauge, the personal consumption expenditures price index.</p>	
+    	<p>Weekly initial claims for jobless benefits come out Thursday at 8:30 a.m. ET. Both new claims and continuing claims have been on the rise, so weaker employment reports are likely to follow. Also due for release on Thursday, first-quarter GDP growth is expected to show a 2% rise. New home sales, out Tuesday at 10 a.m., are seen dipping to an annualized pace of 632,000 units.</p>	
+      <p>Key earnings reports this week include Boeing (BA), General Motors (GM), Halliburton (HAL), McDonald's (MCD), PepsiCo (PEP) and Verizon Communications (VZ).</p>
+      <p>On Monday morning, Coca Cola (KO) rallied 1.1% after reporting better-than-expected first-quarter earnings and sales results.</p>
+      <h3>Stock Market Today</h3>
+      <p>Artificial-intelligence play C3.ai plunged more than 9% Monday after Wolfe Research downgraded the stock from peer perform to underperform, with a 14 price target. Super Micro Computer dived as much as 11% after the company warned that its March-quarter revenue would miss its prior forecast. Super Micro now expects revenue of $1.28 billion, below the $1.47 billion midpoint of its earlier forecast.</p>
+      <p>Electric-vehicle giant Tesla (TSLA) dropped 1.1% Monday morning, while Dow Jones tech giants Apple (AAPL) and Microsoft were mixed after today's stock market open.</p>
+      <p>Crocs (CROX), DraftKings (DKNG), IBD Leaderboard idea Floor & Decor (FND) and IBD SwingTrader stock Lululemon Athletica (LULU) — as well as Dow Jones stocks JPMorgan Chase (JPM), Nike (NKE) and Visa (V) — are among the top stocks to buy and watch with the ongoing market rally.</p>
+      <p>JPMorgan and Lululemon were featured in last week's Stocks Near A Buy Zone column. Floor & Decor was a recent IBD Stock Of The Day.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Monday's opening bell, the Dow Jones Industrial Average rose 0.1%, and the S&P 500 gained 0.15%. The tech-heavy Nasdaq composite inched higher in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) moved up less than 0.1%, while the SPDR S&P 500 ETF (SPY) traded up 0.15% early Monday.</p>
+      <p>The 10-year U.S. Treasury yield on Monday traded down to 3.53%. Over the last two weeks, the 10-year yield rebounded from its lowest level since mid-September.</p>
+      <p>U.S. oil prices edged lower Monday morning. West Texas Intermediate futures continued to bob between $77 and $78 a barrel, after pulling back from an April 12 high above $83 a barrel.</p>
+      <h3>Stock Market Rally</h3>
+      <p>On Friday, the Dow Jones Industrial Average rose 0.1%, narrowly ending a three-day losing streak. Procter & Gamble (PG) was the benchmark's big winner, up 3.5%. The S&P 500 and Nasdaq both added 0.1% as well.</p>
+      <p>Friday's Big Picture column commented, "Big Tech stocks have played a key role in the stock market rally so far in 2023, so (the coming week's list of big-tech earnings reports) could be crunchtime. META is a member of the Leaderboard list of top stocks while MSFT has also shown impressive relative strength."</p>
+      <p>Now is an important time to read IBD's The Big Picture column with the stock market in an uptrend.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: JPMorgan, Nike, Visa</h3>
+      <p>JPMorgan shares dipped 0.2% Friday, holding steady near a flat base's 144.44 buy point and above the 50-day moving average, according to IBD MarketSmith pattern recognition. JPM stock inched higher early Monday.</p>
+      <p>Nike shares rose 0.9% Friday, still above their 50-day line. The stock is just below a 126.16 early entry and nearing a 131.41 flat-base buy point. NKE stock moved up 0.5% in early trade Monday.</p>
+      <p>Visa shares remain in buy range above a 230.15 cup-with-handle buy point. The buy range goes up to 241.66. V stock rose 0.2% in early morning trade. Visa reports fiscal second-quarter results on Tuesday.</p>
+      <h3>Best Stocks To Buy And Watch: Crocs, DraftKings</h3>
+      <p>Crocs shares climbed 1% Friday, extending a win streak to six sessions and finishing higher in the buy range past a cup base's 143.60 buy point, according to IBD MarketSmith. The 5% buy range goes up to 150.78. CROX stock inched higher early Monday. The company plans to report first-quarter earnings on Thursday.</p>
+      <p>Backstory: Broomfield, Colo.-based Crocs is best known for its rubbery, casual-wear shoes. The company in recent years expanded its Crocs brand portfolio from the classic slip-on clogs to include boots, sandals, wedges and sneakers. The Crocs brand makes up around 75% of sales.</p>
+      <p>DraftKings broke out above a cup base's 21.72 buy point during Friday's 2.8% advance. The 5% buy zone tops out at 22.81. DKNG stock fell 0.6% Monday morning.</p>
+      <p>Backstory: Boston's DraftKings is an online sports betting platform that allows users to play daily fantasy games and win cash prizes. Sports-betting prospects look strong, with around 20% of U.S. adults saying they bet money on sports in some way in the last 12 months, according to a 2022 Pew Research Center survey. DraftKings reports first-quarter results on May 4.</p>
+      <h3>Floor & Decor, Lululemon</h3>
+      <p>Floor & Decor is treading water just below a cup-with-handle's 99.47 buy point. Look for a decisive retake of the entry as a signal to buy shares. FND shares were up 0.6% early Monday. Floor & Decor's first-quarter earnings are due May 4.</p>
+      <p>Backstory: Floor & Decor operates 191 warehouse-format stores and six design studios across 36 states. It sells tile, wood, laminate, vinyl, and natural stone flooring products. It also sells decorative accessories. Earnings are seen slipping 2% this year before rising to 27% in 2024 and 24% in 2025.</p>
+      <p>IBD SwingTrader stock Lululemon moved further past a 371.36 entry in a cup with handle, with a 0.3% rise Friday. Shares gained 0.7% Monday morning.</p>
+      <p>Backstory: On March 28, Lululemon hiked 2023 guidance after topping earnings and revenue estimates for the holiday fourth quarter, sparking a 12.7% surge on March 29. The yogawear and athleisure apparel retailer's final fourth-quarter results also exceeded its own preliminary announcement, issued in early January.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock rebounded 1.3% Friday, recovering a small part of Thursday's 9.75% earnings-fueled dive. Last week, shares hit their lowest level since Jan. 26. In recent weeks, shares triggered the 7%-8% loss rule from a buy point at 200.76 in a cup with handle. And they are trading sharply below their 50-day line, a key level. The stock closed Friday 55% off its 52-week high.</p>
+      <p>TSLA stock threatened to give up Friday's gains, down 1.1% in early Monday trade.</p>
+    	<h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares dropped 1% Friday. They closed just in the 5% buy range beyond a 157.48 buy point. AAPL stock rose 0.1% Monday. Apple reports its fiscal second-quarter results on May 4.</p>
+      <p>Microsoft shares are still in buy range past a flat base's 276.86 buy point, with a 0.1% loss Friday. The 5% buy area goes up from the buy point to 290.70. And on Monday, MSFT stock lost 0.6%. The company plans to report its fiscal second-quarter results late Tuesday.</p>
+    </div>
+  },
+  {
+    id: 430,
+    title: 'US STOCKS-Wall St muted ahead of tech earnings, economic data',
+    category: 'Markets',
+    subCategory: ['US', 'Stocks', 'Wall-st'],
+    description: <div className="blog-desc">
+      <p>April 24 (Reuters) - Wall Street's main indexes struggled for direction on Monday as investors awaited results from megacap companies and key data that could shed light on the U.S. economy and shape the Federal Reserve's monetary policy.</p>
+    </div>,
+    authorName: 'Sruthi Shankar and Ankika Biswas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 24, 2023 - 5:55 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-445.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Sruthi Shankar and Ankika Biswas</p>
+    	<p>April 24 (Reuters) - Wall Street's main indexes struggled for direction on Monday as investors awaited results from megacap companies and key data that could shed light on the U.S. economy and shape the Federal Reserve's monetary policy.</p>	
+    	<p>Major technology and growth companies Alphabet Inc , Microsoft Corp, Amazon.com Inc and Meta Platforms Inc, which constitute more than 14% of the value of the benchmark S&P 500, are scheduled to report results this week.</p>	
+    	<p>A rally in these stocks has supported Wall Street this year, and investors are waiting to see if the gains can continue amid a gloomy economic outlook.</p>
+      <p>"Not only must these companies beat, but they must also guide to a re-acceleration of EPS growth in the second quarter and beyond ... that's what the Street is looking for," said Nicholas Colas, co-founder of DataTrek Research.</p>
+      <p>U.S. stocks have largely held steady through the start of the earnings season on stronger-than-expected results from big banks, allaying concerns about a contagion from the banking crisis in March.</p>
+      <p>Coca-Cola Co gained 1% after the beverage giant beat estimates for quarterly results on resilient demand for its sodas despite multiple price increases.</p>
+      <p>Of the 90 S&P 500 companies that have reported first-quarter results so far, nearly 77% have topped analysts' profit estimates, as per Refinitiv IBES data. The long-term average beat rate stands at 66%.</p>
+      <p>Forecasts for earnings have also improved marginally, with analysts expecting a quarterly profit contraction of 4.7% versus a 5.1% decline estimated at the start of April.</p>
+      <p>Early readings of first-quarter U.S. GDP, personal consumer expenditure index (PCE) for March, consumer confidence numbers for April are among the data scheduled for release this week.</p>
+      <p>Mixed economic numbers last week cemented bets of another 25-basis-point rate hike by the Fed in May, with money market traders pricing in a 92% chance of such a move, as per CME Group's Fedwatch tool.</p>
+      <p>Meanwhile, U.S. House of Representatives Speaker Kevin McCarthy said the House would vote on his spending and debt bill this week amid lingering concerns that the U.S. government could hit its debt ceiling sooner than expected.</p>
+      <p>"Based mostly on history, we seem to resolve this before we have a real crisis," said Hugh Johnson, chief economist of Hugh Johnson Economics. "But it's not clear that the House Speaker has a good plan out there and that it's going to be acceptable."</p>
+      <p>At 9:37 a.m. ET, the Dow Jones Industrial Average was up 7.80 points, or 0.02%, at 33,816.76, the S&P 500 was up 3.84 points, or 0.09%, at 4,137.36, and the Nasdaq Composite was up 12.43 points, or 0.10%, at 12,084.89.</p>
+      <p>Bed Bath & Beyond Inc's shares tumbled 26% as the home goods retailer filed for Chapter 11 bankruptcy protection after it failed to secure funds to stay afloat.</p>
+      <p>First Republic Bank gained 4.7% ahead of its quarterly report.</p>
+      <p>Advancing issues outnumbered decliners by a 1.12-to-1 ratio on the NYSE and a 1.24-to-1 ratio on the Nasdaq.</p>
+      <p>The S&P index recorded 13 new 52-week highs and no new low, while the Nasdaq recorded 31 new highs and 51 new lows.</p>
+    </div>
+  },
+  {
+    id: 425,
+    title: 'USD/JPY Forecast – US Dollar Rallies Against Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JYP', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied a bit during the trading session on Monday, as it continues its upward pressure against the Japanese yen. Ultimately, this is a pair that is trying to determine whether the longer-term trend will continue or if the recent pullback is something a bit bigger. Keep in mind that the Bank of Japan continues its yield curve control policy, and of course, rates in the United States continue to climb. In other words, it does make quite a bit of sense that we would see upward pressure, but at the same time, it’s probably worth paying attention to the fact that the US dollar is struggling a bit against most currencies.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 24, 2023 - 4:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-440.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>US Dollar vs Japanese Yen Technical Analysis</strong></p>
+    	<p>The US dollar has rallied a bit during the trading session on Monday, as it continues its upward pressure against the Japanese yen. Ultimately, this is a pair that is trying to determine whether the longer-term trend will continue or if the recent pullback is something a bit bigger. Keep in mind that the Bank of Japan continues its yield curve control policy, and of course, rates in the United States continue to climb. In other words, it does make quite a bit of sense that we would see upward pressure, but at the same time, it’s probably worth paying attention to the fact that the US dollar is struggling a bit against most currencies.</p>	
+    	<p>It does not take a lot of imagination to notice that the market is forming something along the lines of a “higher level,” or you could even make an argument for someone with a longer-term double bottom. All things being equal, this is a market that I think eventually has to make a bigger decision, and it does look like the Japanese yen is going to continue to struggle. However, it is worth noting that the market may continue to show a lot of noise more than anything else, as the entire global economy is in a bit of flux at the moment.</p>	
+    	<p>From a technical analysis standpoint, you can see that the 200-Day EMA sets just below, right along with the 50-Day EMA just below there. With this being the case, the market is likely to continue to see plenty of support and noisy behavior, so pullbacks will more likely than not be buying opportunities for most traders. In fact, it’s not until the market breaks down below the ¥130 level that I would be concerned about a potential bounce.</p>
+      <p>On the upside, the ¥137.50 level could very well be the target, and if we break above there, then it’s likely that this market becomes more “buy-and-hold”, and therefore it could really start to take off to the upside. I’m not expecting massive moves like we saw last year, but more of a general uptrend to form makes quite a bit of sense in this situation.</p>
+    </div>
+  },
+  {
+    id: 426,
+    title: 'GBP to USD Forecast – British Pound Continues to Grind Sideways',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has gone back and forth during the trading session on Monday, as we continue to look at the market between the 1.24 level and the 1.25 level as trying to fight through a barrier. That being said, the market is likely to continue to break above there, then it’s likely that we could continue to go much higher. The initial target would be the 1.2750 level, an area that had been significant resistance previously.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 24, 2023 - 4:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-441.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>British Pound vs US Dollar Technical Analysis</strong></p>
+    	<p>The British pound has gone back and forth during the trading session on Monday, as we continue to look at the market between the 1.24 level and the 1.25 level as trying to fight through a barrier. That being said, the market is likely to continue to break above there, then it’s likely that we could continue to go much higher. The initial target would be the 1.2750 level, an area that had been significant resistance previously.</p>	
+    	<p>At the same time, we also have support underneath near the 1.2350 level and of course, the 50-Day EMA which sits just below there. The 50-Day EMA has a nice slope to it, so it does suggest that there will be buyers in this market if we pull back. In general, I think the market will continue to try to go higher, perhaps more of a grind than anything else. However, whether or not we can actually break out as a completely different story. There are a couple of candles near the 1.2350 level underneath it suggest there are buyers in that area, so if we were to break down below there then I think the British pound could start to pull back.</p>	
+    	<p>For what it is worth, it is probably worth mentioning that the British pound seems to be struggling quite a bit more than the euro at the moment against the US dollar, so perhaps the real trade would be in the EUR/GBP pair. While both currencies have been bullish against the US dollar, it appears that the British pound has had a bit of a brick wall in this area, so it’s possible that it’s trying to tell us something as it slows down momentum.</p>
+      <p>That being said, if you choose to short the dollar, it’s probably easier to do it against other currencies than the British pound, which has already been one of the best-performing currencies this year, but has obviously run into a significant amount of resistance, and perhaps even exhaustion after such a big move against the greenback. The volatility will probably only pick up at this point, so that’s probably something worth paying attention to as well, which can be worked against via position sizing.</p>
+    </div>
+  },
+  {
+    id: 427,
+    title: 'EUR/USD Forecast – Euro Continues Upward Grind',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro initially pulled back a bit during the Monday trading session, only to turn around and rally again as we continue to fight with the 1.10 level. This is obviously a psychologically important level that a lot of people will pay close attention to, as people like big figures. That being said, we have sliced through here before so it’s not exactly ironclad. If we can break above the recent high, then we could continue to grind upward and go looking toward the 1.1250 level. The 1.15 level would then be next, but all of this will take quite a bit of effort.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 24, 2023 - 4:09 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-442.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>Euro vs US Dollar Technical Analysis</strong></p>
+    	<p>The euro initially pulled back a bit during the Monday trading session, only to turn around and rally again as we continue to fight with the 1.10 level. This is obviously a psychologically important level that a lot of people will pay close attention to, as people like big figures. That being said, we have sliced through here before so it’s not exactly ironclad. If we can break above the recent high, then we could continue to grind upward and go looking toward the 1.1250 level. The 1.15 level would then be next, but all of this will take quite a bit of effort.</p>	
+    	<p>If we do pull back from here, and quite frankly would not be overly surprising, I do think that there is a lot of support near the 1.09 level and of course at the 1.08 level where we have the 50-Day EMA. The 50-Day EMA is rising quite steadily, so a lot of traders will look at this as a sign that we are in an uptrend.</p>	
+    	<p>In general, this is a market that I think will continue to be very noisy and choppy, especially as we are in the midst of earnings season, meaning that Wall Street will be throwing money around in various directions. Furthermore, we also have a lot of confusion as to what the Federal Reserve is going to do, because quite frankly the market has been fighting the Federal Reserve the entire way through the rate hiking cycle. That being said, the question now will probably be whether or not the European Central Bank will continue to be hawkish.</p>
+      <p>At this point, they claim that they are going to continue to fight inflation, but that’s the same thing that the Federal Reserve says as well. In other words, it looks like people are paying more attention to and believing the ECB more than the Federal Reserve, and that’s probably the biggest driver of this pair at the moment. Regardless, keeping your position size reasonable is going to be crucial at this point, as we are getting a bit stretched, and of course there is so much noise out there that the market is trying to sort through at the moment.</p>
+    </div>
+  },
+  {
     id: 401,
     title: 'Polkadot: Here’s where bulls can look to re-enter following resistance breach',
     category: 'Crypto',
