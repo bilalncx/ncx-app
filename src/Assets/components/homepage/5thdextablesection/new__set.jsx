@@ -8,6 +8,8 @@ import {ReactComponent as CTrader1} from '../../../images/ctrader_logo.svg';
 import {ReactComponent as CTrader2} from '../../../images/ctrader_logoB.svg';
 import WalletMobileVideo from '../../../images/wallet_mbl.mp4';
 import WalletMobileVideo2 from '../../../images/wallet_mbl2.mp4';
+import {ReactComponent as NCXBadge1} from '../../../images/ncx-badge.svg';
+import {ReactComponent as NCXBadge2} from '../../../images/ncx-badge2.svg';
 
 function Indices5()
 {
@@ -19,7 +21,7 @@ function Indices5()
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
                             <h2>NCX App</h2>
-                            <CTrader2 />
+                            <NCXBadge1 />
                         </div>
                         <p>Your mobile trading experience. Everything you need to trade on the go.</p>
                         <div className="tiy__bd">
@@ -42,7 +44,7 @@ function Indices5()
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
                             <h2>NCX DeFi Wallet App</h2>
-                            <CTrader2 />
+                            <NCXBadge2 />
                         </div>
                         <p>Hold the private keys to your assets - Store, Swap, Send, Receive, Buy Crypto in NCX non Custodial DeFi Wallet, built on 12 Blockchain Networks</p>
                         <div className="tiy__bd">

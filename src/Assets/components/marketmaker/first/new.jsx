@@ -35,6 +35,7 @@ function FirstVideo()
                         muted={true}
                         loop={true}
                         playsInline={true}
+                        preload="auto"
                         >
                         <source src={NCXAPPVideo} type="video/mp4" />
                     </video>
@@ -47,6 +48,7 @@ function FirstVideo()
                     muted={true}
                     loop={true}
                     playsInline={true}
+                    preload="auto"
                     >
                     <source src={OTCMobileVideo} type="video/mp4" />
                 </video>
