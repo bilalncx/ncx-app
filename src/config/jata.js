@@ -1,5 +1,298 @@
 const blogListdata = [
   {
+    id: 442,
+    title: 'Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival',
+    category: 'Indices',
+    subCategory: ['Dow jones', 'Microsoft', 'Boeing'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 26, 2023 - 4:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-457.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+    	<p>The stock market rally fell sharply Tuesday, with investors wary heading into major earnings Tuesday night and beyond. First Republic Bank (FRC) crashed on deposit flight reviving banking fears. FRC stock kept tumbling Wednesday amid desperate attempts to avoid a collapse.</p>	
+	    <p>Concerns about China growth, exacerbated by reports of a new Covid wave there, also weighed on stocks, as well as Treasury yields and commodity prices on Tuesday. U.S. government default risks are looming over the horizon.</p>	
+	    <p>Microsoft stock jumped overnight on strong results and guidance, signaling a move back into a buy zone. Visa (V) and Chipotle Mexican Grill (CMG) also rose. Google stock turned slightly lower early Wednesday. Enphase Energy (ENPH) dived on mixed results and guidance.</p>
+      <p>Boeing (BA) rose solidly Wednesday after reporting mixed results before the open.</p>
+      <p>Microsoft stock is on IBD Long-Term Leaders.</p>
+      <p>The video embedded in this article discussed Tuesday's market action and analyzed Rambus (RMBS), ServiceNow (NOW) and BJ's Wholesale (BJ).</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures were 0.1% above fair value, with Microsoft stock, Boeing and Visa all Dow Jones components. S&P 500 futures rose 0.1%. Nasdaq 100 futures popped 0.85%, well off overnight highs.</p>
+      <p>The 10-year Treasury yield rose 2 basis points to 3.42%.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Microsoft, Google Earnings</h3>
+      <p>Microsoft earnings topped fiscal Q3 views comfortably as Azure cloud-computing growth slowed but was perhaps better than feared. The Dow Jones tech titan also guided slightly higher on Q4 revenue.</p>
+      <p>MSFT stock leapt 8% early Wednesday. Shares fell 2.25% to 275.42 in Tuesday's regular session. Microsoft closed back below a 276.86 flat-base buy point, according to MarketSmith analysis, but is signaling a move above that level on Wednesday.</p>
+      <p>In fact, MSFT stock could clear the April 6 high of 292.08. Investors could view the recent action as a handle to a consolidation going back to August or even late 2021.</p>
+      <p>Meanwhile, a U.K. regulator on Wednesday blocked the Microsoft takeover of video game publisher Activision (ATVI) on competition grounds. The $69 billion Microsoft-Activision deal faces FTC opposition as well. ATVI stock dived in premarket trade.</p>
+      <p>Google earnings topped views with the internet giant also authorizing up to $70 billion in share buybacks. Google Cloud revenue climbed 28%.</p>
+      <p>GOOGL stock fell a fraction in overnight action, reversing from strong Tuesday evening gains. Shares closed down 2% to 103.85 on Tuesday. Google stock has a 106.69 cup-with-handle buy point.</p>
+      <p>Microsoft and Google earnings and guidance, along with Meta Platforms (META) and Amazon.com (AMZN) later in the week, have big implications for cloud software, networking, artificial intelligence and many other tech plays. Meta, Amazon, Nvidia (NVDA) and many cloud software names also rose modestly to solidly overnight.</p>
+      <h3>Other Key Earnings</h3>
+      <p>Boeing reported a wider-than-expected loss, but a 28% revenue gain topped. The aerospace giant stuck to full-year 737 Max jet delivery targets and plans to boost monthly output soon, despite a recent production halt. BA stock stock rose 4% in premarket trade, signaling a possible test of its 50-day line. Shares are working on a 221.43 flat-base buy point.</p>
+      <p>Visa earnings exceeded forecasts, boosted by strong cross-border payments. Shares edged higher in extended action. Visa stock sank 1.4% to 229.59 on Tuesday, holding in range of 230.15 cup-with-handle buy point.</p>
+      <p>Chipotle earnings topped views with strong same-store sales growth and profit margins. CMG stock spiked 8% in premarket trade. Shares slipped 0.9% to 1,780, at the edge of a buy zone from a cup base.</p>
+      <p>Enphase earnings topped but revenue slightly missed and the solar power inverter maker guided low on Q2 revenue. ENPH stock plunged 17% overnight. Shares fell 1.8% on Tuesday to 220.60, pausing in recent days after retaking the 50-day line. Enphase stock is well below its 200-day line and its December all-time highs. Group leader First Solar (FSLR) reports Thursday.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally suffered significant damage Tuesday, with the underlying action even worse than the major indexes.</p>
+      <p>The Dow Jones Industrial Average sank 1% in Tuesday's stock market trading. The S&P 500 index lost 1.6%, with FRC stock far and away its worst performer. The Nasdaq composite tumbled 2%. The small-cap Russell 2000, with a heavy exposure to regional banks, plunged 2.4%.</p>
+      <p>U.S. crude oil prices slid 2.15% to $77.07 a barrel, a new low for April.</p>
+      <p>Copper futures sank 2.7% to the lowest close since Jan. 5. The key industrial metal is down nearly 6% in a five-session losing streak. China demand for metals hasn't recovered as much as hoped, with Covid outbreak fears adding to the downside pressure.</p>
+      <p>The 10-year Treasury yield gapped down 12 basis points to 3.4%. The 2-year Treasury yield tumbled 19 basis points to 3.95%. The odds of another Fed rate hike on May 3 fell modestly on Tuesday but remain high. Markets are growing more confident a May rate hike would be the last one.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) gave up 2.7%, while the Innovator IBD Breakout Opportunities ETF (BOUT) fell 1.2%. The iShares Expanded Tech-Software Sector ETF (IGV) slid 3%, with MSFT stock a major holding. The VanEck Vectors Semiconductor ETF (SMH) slumped 3.2%.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) tumbled 3.3% and ARK Genomics ETF (ARKG) 3.35%.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) skidded 3% and the Global X U.S. Infrastructure Development ETF (PAVE) 1.7%. U.S. Global Jets ETF (JETS) descended 2.3%. SPDR S&P Homebuilders ETF (XHB) gave back 1.5%. The Energy Select SPDR ETF (XLE) gave up 1.9% and the Health Care Select Sector SPDR Fund (XLV) sank 1.1%</p>
+      <h3>Bank Stocks</h3>
+      <p>FRC stock crashed 49% to a record low. First Republic Bank late Monday reported deposits plunged 41%, or $72 billion, in Q1. That's more than $100 billion excluding bank giants depositing $30 billion in March. Deposits were far worse than expected, and much worse than other regional banks that have reported Q1 results.</p>
+      <p>First Republic will cut up to 25% of staff and pursue strategic alternatives. It's exploring a sale of up to $100 billion in assets in a desperate effort to avoid an FDIC seizure. That might require extra incentives, perhaps even government guarantees, to find buyers to pay above market value and closer to book value. A solution needs to come soon.</p>
+      <p>First Republic's woes could spur fresh deposit flight from other regional banks, even though regulators have sent strong signals that they'll protect all deposits. But bank stocks won't get a bailout. More broadly, regional bank woes could chill lending with recession fears rising. Longer term, regional banks may face significantly higher funding costs, squeezing profitability.</p>
+      <p>The SPDR S&P Regional Banking ETF (KRE) tumbled 4.2% on Tuesday, hitting their lowest levels since late 2020. FRC stock and PacWest are KRE components.</p>
+      <p>The Financial Select SPDR ETF (XLF) retreated 1.7%. XLF, dominated by financial giants including Visa, is well off its March bottom.</p>
+      <p>FRC stock sold off more than 10% early Wednesday but off morning lows.</p>
+      <p>PacWest Bancorp (PACW), among the hardest hit in March, jumped more than 10% in premarket trade after saying deposits stabilized at the end of March. PACW stock fell 8.9% on Tuesday.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally showed more strains Tuesday.</p>
+      <p>The Nasdaq composite fell below the 21-day line and 12,000 level, undercutting the past few weeks of trading. It's now just above its 50-day line. Notably, the Nasdaq closed below the low of its March 29 follow-through day, a very bearish sign for the market rally.</p>
+      <p>The S&P 500 undercut its 21-day moving average, not far from its 50-day either. But the S&P 500 is above the low of its March 29 FTD.</p>
+      <p>The Dow Jones has come down to its 21-day line.</p>
+      <p>Damage was worse below the surface. The First Trust Nasdaq-100 Equal Weighted Index ETF (QQEW) skidded 2.1%, below the 50-day line. The Invesco S&P 500 Equal Weight ETF (RSP) slid 1.7%, back below its 50-day line and right at the 200-day.</p>
+      <p>Chip stocks are looking weak, with many big recent winners fading or selling off. The SMH ETF is decisively below the 50-day line, erasing all of its late March gains.</p>
+      <p>Software is struggling once again. The IGV ETF is also below its 50-day line, with the technical action far worse in many cloud software plays.</p>
+      <p>Homebuilders are looking strong, as well as many medicals and some footwear plays, discounters and restaurants such as CMG stock. But many of those are now extended, and even some of these names took hits on Tuesday. Overall leadership has narrowed considerably</p>
+      <p>Losers overwhelmingly beat winners on Tuesday.</p>
+      <p>The market rally could revive over the next several days if earnings are strong and there's a positive reaction to economic data and the Fed meeting.</p>
+      <p>Even Nasdaq futures are only recouping a portion of Tuesday's losses. Even if that holds on Wednesday, a rebound wouldn't be that meaningful if it's largely a few megacaps rebounding.</p>
+      <p>But it wouldn't take much for the indexes to break decisively lower. Whipsaw action is quite possible, with earnings and other news spurring big gains or losses one day followed by a reversal in the next session.</p>
+      <h3>What To Do Now</h3>
+      <p>Investors should have been cutting exposure somewhat in recent days, if only because of individual holdings' performance. The recent market pullback has trigged sell signals in some recent buys, while cutting cushions for bigger winners heading into earnings season.</p>
+      <p>If the market rally bounces back in the coming days, buying opportunities will return, but perhaps not right away. Many stocks remain near buy points, though most have backed off somewhat in recent days.</p>
+      <p>In this scenario, investors could try to add exposure gradually once again. But don't get excited by overnight action or a bounce at the market open.</p>
+      <p>But you also have to be ready for the market to keep deteriorating, spurring a big move into cash.</p>
+      <p>Staying engaged, flexible and prepared is always important, but especially in the current environment.</p>
+    </div>
+  },
+  {
+    id: 439,
+    title: 'US Futures Rise as Big-Tech Earnings Bolster Mood: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['US', 'Futures', 'Big-tech'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- US equity futures gained as strong earnings from tech majors Alphabet Inc. and Microsoft Corp. after the Wall Street close offered investors some reassurance amid continued concerns over the health of the economy.</p>
+    </div>,
+    authorName: 'Robert Brand',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 26, 2023 - 2:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-454.jpg',
+    content: <div className="blog-content">
+    	<h3></h3>
+    	<p>(Bloomberg) -- US equity futures gained as strong earnings from tech majors Alphabet Inc. and Microsoft Corp. after the Wall Street close offered investors some reassurance amid continued concerns over the health of the economy.</p>
+    	<p>Contracts on the S&P 500 climbed about 0.4% after the index fell the most in a month Tuesday, driven in part by First Republic Bank’s 49% plunge. Nasdaq 100 futures were up more than 1%. Google parent Alphabet and Microsoft both rose in premarket trading after providing an auspicious start to the Big Tech earnings season, with Meta Platforms Inc. due to report after the bell today.</p>	
+    	<p>In Europe, the regional stock benchmark declined amid disappointing earnings. Software producer Dassault Systemes sank more than 8% after missing revenue estimates. Dutch chip-tool maker ASM International slumped more than 10% after offering a tepid outlook for the rest of the year. Roche Holding AG retreated even as its first-quarter sales exceeded expectations. Beats from Standard Chartered Plc and Sweden’s SEB AB failed to bolster sentiment.</p>	
+    	<p>“The markets are very much focused on some of the earnings story, but possibly overlooking the weight of economic deceleration that is playing through right now, particularly in the United States,” John Woods, Asia Pacific chief investment officer at Credit Suisse Group AG, said on Bloomberg Television. “I’m looking at a whole range of technical signals, which seem to be suggesting a risk-off environment.”</p>
+      <p>Treasuries were little changed after the benchmark 10-year yield fell nine basis points Tuesday and the policy-sensitive two-year yield dropped 13 basis points. A gauge of the dollar declined. Bonds in Europe gained, with Sweden’s 10-year yield falling about 7 basis points after a much-anticipated Riksbank rate increase.</p>
+      <p>Regional Banks Rally</p>
+      <p>Worries over US regional banks, sparked by $100 billion of outflows reported by First Republic, eased somewhat after PacWest Bancorp said its deposits rebounded in April, sending shares of the California-based lender up more than 20%. Other mid-sized banks including Western Alliance Bancorp also rallied.</p>
+      <p>First Republic rebounded about 5% after Bloomberg reported the lender is exploring an sale of up to $100 billion of long-dated mortgages and securities as part of a rescue plan. The fresh bout of banking turmoil has raised questions about the effect of the Federal Reserve’s aggressive tightening on the economy broadly and lenders in particular.</p>
+      <p>“The question is to what extent central banks and regulators can contain market sentiment and make clear to investors they need to keep a cool head, to give depositors confidence that there is no need to run to other banks,” said Tatjana Puhan, deputy chief investment officer at Tobam SAS. “So far the Fed has been very clear that they will continue to hike rates as long as needed to contain inflation.”</p>
+      <p>Elsewhere in markets, oil edged higher, clawing back some of a drop on Tuesday. Gold was little changed. Iron ore rose after a brief dip below $100 a ton for the first time since December. Bitcoin climbed for a second day.</p>
+      <p>Key events this week:</p>
+      <ul>
+        <li>Eurozone economic, consumer confidence, Thursday</li>
+        <li>US initial jobless claims, GDP, Thursday</li>
+        <li>Bank of Japan meets on interest rates, Friday</li>
+        <li>Euro-area GDP, Friday</li>
+        <li>US personal income, Friday</li>
+      </ul>
+      <p>Earnings highlights:</p>
+      <ul>
+        <li>Wednesday: Boeing, Meta, Hilton</li>
+        <li>Thursday: Amazon, American Airlines, Intel, Mastercard, Southwest Airlines, Hershey, Honeywell, Barclays</li>
+      </ul>
+      <p>Some of the main moves in markets:</p>
+      <p>Stocks</p>
+      <ul>
+        <li>S&P 500 futures rose 0.4% as of 6:10 a.m. New York time</li>
+        <li>Nasdaq 100 futures rose 1.3%</li>
+        <li>Futures on the Dow Jones Industrial Average were little changed</li>
+        <li>The Stoxx Europe 600 fell 0.7%</li>
+        <li>The MSCI World index was little changed</li>
+      </ul>
+      <p>Currencies</p>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index fell 0.4%</li>
+        <li>The euro rose 0.7% to $1.1050</li>
+        <li>The British pound rose 0.6% to $1.2480</li>
+        <li>The Japanese yen rose 0.3% to 133.41 per dollar</li>
+      </ul>
+      <p>Cryptocurrencies</p>
+      <ul>
+        <li>Bitcoin rose 3.1% to $28,845.64</li>
+        <li>Ether rose 1.9% to $1,896.77</li>
+      </ul>
+      <p>Bonds</p>
+      <ul>
+        <li>The yield on 10-year Treasuries was little changed at 3.41%</li>
+        <li>Germany’s 10-year yield declined four basis points to 2.35%</li>
+        <li>Britain’s 10-year yield was little changed at 3.69%</li>
+      </ul>
+      <p>Commodities</p>
+      <ul>
+        <li>West Texas Intermediate crude rose 0.4% to $77.40 a barrel</li>
+        <li>Gold futures rose 0.2% to $2,009.10 an ounce</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Michael Msika and Tassia Sipahutar.</p>
+    </div>
+  },
+  {
+    id: 438,
+    title: 'Microsoft Sees AI Reshaping Search as Google Calms Investors',
+    category: 'Markets',
+    subCategory: ['Microsoft', 'AI', 'Google'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence.</p>
+    </div>,
+    authorName: 'Julia Love, Dina Bass and Davey Alba',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 26, 2023 - 12:38 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-453.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Alphabet Inc.’s Google and Microsoft Corp., whose quarterly earnings each got a boost from their established search and cloud-computing businesses, used their time with investors to emphasize what’s next: artificial intelligence.</p>
+    	<p>In their respective earnings calls on Tuesday, the tech giants, which are becoming rivals in the competition for the future of search, offered up starkly different assessments of just how much disruption is in store for the market. Google executives encouraged investors to trust in the company’s long track record as the world’s leading search engine, and framed AI as just another shift in its constantly evolving business. Microsoft suggested that something much more dramatic is underway.</p>	
+    	<p>Investors seemed to like Microsoft’s thesis better, sending its shares up as much as 7.7% in premarket trading before New York exchanges opened, while Alphabet increased less than 2%.</p>	
+    	<p>Read More: Microsoft Soars as Robust Cloud Growth Drives Beat: Street Wrap</p>
+      <p>Until recently, Google was viewed as all but invincible in the market for online search, which it dominates worldwide. That changed with the debut of OpenAI’s wildly popular chatbot, ChatGPT. Microsoft has begun weaving OpenAI’s technology into its Bing search engine, and the partnership has ratcheted up pressure on Google to reinvent its core search business to allow for more of the conversational exchanges that generative AI makes possible.</p>
+      <p>Speaking to analysts, Alphabet Chief Executive Officer Sundar Pichai stressed that Google is investing heavily in AI, yet he downplayed what the technology would mean for the search advertising business, which remains the company’s lifeblood. He expressed optimism that users will continue to value online advertising even if their searches yield a summary composed by a large language model, rather than the familiar list of links that Google has long delivered.</p>
+      <p>“Throughout the years, we have gone through many, many shifts in search,” Pichai said. “And as we have evolved search, I think we’ve always had a strong, grounded approach in terms of how we evolve ads as well.”</p>
+      <p>Yet Microsoft CEO Satya Nadella suggested his company is a formidable challenger. He said app installations have quadrupled since the launch of the AI-powered Bing in February. He added that Bing took share in the US market in the quarter, without offering specific metrics.</p>
+      <p>Read more: Microsoft Profit, Sales Top Estimates on Strong Cloud Demand</p>
+      <p>“We look forward to continuing this journey in what is a generational shift in the largest software category — search,” Nadella said on the company’s earnings call.</p>
+      <p>Billions of dollars in revenue could be up for grabs with even relatively small changes in market share. But in the past quarter, at least, Google’s search business appeared to be weathering the heightened competitive threats and a broader downturn in the digital advertising market. The company’s revenue from search and related businesses rose to almost $40.4 billion in the period ended March 31, besting analysts’ estimates.</p>
+      <p>As Google moves to incorporate generative AI into search, Pichai said the company would draw on its institutional knowledge. “We’ll be guided by data and years of experience about what people want and our high standards for quality,” Pichai said. “And we’ll test and iterate as we go because we know that billions of people trust Google to provide the right information.”</p>
+      <p>Yet the company has ample reason to be worried, said Max Willens, an analyst at Insider Intelligence.</p>
+      <p>“Google’s core business is facing the most serious challenges it has encountered in quite some time,” Willens wrote in a note.</p>
+      <p>Read more: Alphabet Shares Rise on Revenue Beat as Ad Sales Recover</p>
+      <p>Google’s partnerships with manufacturers of Android phones present another opportunity for Microsoft to gain ground. Yet there, too, Pichai suggested that Google’s long track record will win the day.</p>
+      <p>“When we work with our partners, we work hard to create a win-win experience,” Pichai said. “And ultimately, partners end up choosing us because that’s what their users want.”</p>
+    </div>
+  },
+  {
+    id: 437,
+    title: 'Alphabet first quarter earnings top estimates, announces $70B stock buyback',
+    category: 'Markets',
+    subCategory: ['Alphabet', 'GOOGL', 'GOOG'],
+    description: <div className="blog-desc">
+      <p>Alphabet (GOOG, GOOGL) reported first quarter earnings on Tuesday that beat expectations on the top- and bottom-lines, while also authorizing a massive $70 billion stock buyback. Alphabet stock rose as much as 5% in after hours trading on the news.</p>
+    </div>,
+    authorName: 'Alexandra Garfinkle',
+    authorurl: 'https://www.yahoo.com/author/allie-garfinkle',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 26, 2023 - 12:09 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-452.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Alphabet (GOOG, GOOGL) reported first quarter earnings on Tuesday that beat expectations on the top- and bottom-lines, while also authorizing a massive $70 billion stock buyback. Alphabet stock rose as much as 5% in after hours trading on the news.</p>
+    	<p>The Google and YouTube parent company reported revenues that beat expectations in its advertising segments, even amid an industry-wide digital ad slowdown. YouTube's ad revenue came in at $6.69 billion, a small, but important, beat after several tough quarters.</p>	
+	    <p>Alphabet's Google Cloud unit also turned a profit for the first time while revenue in this segment grew by 28%, the fastest of any of the company's main business segments.</p>	
+	    <p>Here are the key numbers from Alphabet's earnings, compared to analysts' estimates compiled by Bloomberg:</p>
+      <ul>
+        <li><strong>Revenue:</strong> $69.7 billion actual versus $68.96 billion expected</li>
+        <li><strong>EPS:</strong> $1.17 actual versus $1.08 expected</li>
+        <li><strong>Google Ad Revenue:</strong> $54.55 billion actual versus $53.75 billion expected</li>
+        <li><strong>YouTube Ad Revenue:</strong> $6.69 billion actual versus $6.64 billion expected</li>
+      </ul>
+      <p>"We are pleased with our business performance in the first quarter, with Search performing well and momentum in Cloud," said Alphabet and Google CEO Sundar Pichai in a statement.</p>
+      <p>"We introduced important product updates anchored in deep computer science and AI. Our North Star is providing the most helpful answers for our users, and we see huge opportunities ahead, continuing our long track record of innovation."</p>
+      <p>The company also revealed a number of charges related to its efforts to rein in costs, including $2.6 billion in charges linked to the Alphabet's layoffs and office space cutbacks.</p>
+      <p>Like much of the tech industry, Alphabet has been cutting costs aggressively this year and announced plans to cut 12,000 jobs in January.</p>
+      <p>Google has also been at the center of the industry's AI competition that kicked off when ChatGPT's rise mad this technology the tech world's new growth catalyst. Over the last few months, Google's AI capabilities have been questioned by some as the company's AI chatbot, Bard, has failed to impress.</p>
+      <p>Meanwhile, Microsoft (MSFT) and its mega-investment in Open AI — which developed ChatGPT — has gained substantial public attention.</p>
+      <p>To reflect the company's shifting strategy, a number of changes are being made to its AI strategy, including the merging of two AI teams, Google Research's Brain unit and DeepMind.</p>
+      <p>This change was reflected in Tuesday's results, which saw AI costs broken out of Alphabet's Other Bets segment for the first time.</p>
+      <p>Losses related to the company's AI efforts totaled $3.3 billion during the first quarter while its Other Bets segment lost $1.23 billion. Operating income for Alphabet totaled $17.4 billion during the quarter.</p>
+    </div>
+  },
+  {
+    id: 443,
+    title: 'Stocks sink, Nasdaq slumps as all eyes on tech earnings: Stock market news today',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Stocks', 'Sink'],
+    description: <div className="blog-desc">
+      <p>U.S. stocks sank on Tuesday, led by the Nasdaq as tech conglomerates were set to highlight a busy earnings week.</p>
+    </div>,
+    authorName: 'Dani Romero',
+    authorurl: 'https://www.yahoo.com/author/dani-romero',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 26, 2023 - 12:01 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-458.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>U.S. stocks sank on Tuesday, led by the Nasdaq as tech conglomerates were set to highlight a busy earnings week.</p>
+    	<p>At the close, the S&P 500 (^GSPC) sank by 1.58%, while the Dow Jones Industrial Average (^DJI) fell by 1.01% or more than 300 points. The technology-heavy Nasdaq Composite (^IXIC) dropped by 1.98%.</p>	
+    	<p>Bond yields slipped after the release of fresh housing and consumer confidence data. The yield on the 10-year note slid to 3.38%, while rate-sensitive two-year note yields also declined to 3.98% Tuesday, a further dip from this morning where it stood above 4%.</p>	
+    	<p>Wall Street is focused on results from big tech, especially given the sector’s outsized influence on broader market gains so far this year. Alphabet (GOOGL) and Microsoft (MSFT) are scheduled to report after the bell. Alphabet stock is up 20.1% this year while Microsoft has gained more than 17.5%.</p>
+      <p>Amazon (AMZN) and Meta (META) earnings are on deck for later this week.</p>
+      <p>Positive earnings surprises have largely been in line with Wall Street expectations, with about 60% of companies beating sales and 70% topping earnings estimates, a bit below their longer-term averages, according to UBS.</p>
+      <p>Another focal point for Wall Street will be the energy market, as some of the largest players post earnings at the end of the week, including Exxon (XOM), Chevron (CVX), Valero (VLO), and TotalEnergies SE (TTE).</p>
+      <p>WTI crude oil dropped 2% to $77.11 as it was set to mark the lowest settle value since March 31.</p>
+      <p>Separately, home prices climbed in February for the first time since June, ending seven consecutive months of price declines, as buyers came back into the market, according to the S&P CoreLogic Case-Shiller National Home Price Index. Still, on the housing front, new home sales surged 9.6% in March, topping economists' expectations of a 1.3% drop for the month.</p>
+      <p>Meanwhile, consumer confidence dipped again in April as worry over a slowing economy and possible recession weighed on American households. The Conference Board reported Tuesday that its consumer confidence index fell to 101.3 in April from 104 in March.</p>
+      <p>A selloff of First Republic Bank (FRC) shares continues, sinking more than 40% Tuesday after the regional lender reported on Monday that it had a net loss of $72 billion in deposits during the first three months of this year.</p>
+      <p><strong>Here are the trending tickers on Yahoo Finance:</strong></p>
+      <ul>
+        <li><strong>PepsiCo, Inc. (PEP):</strong> The global goods consumer giant raised its full-year profit guidance following its earnings beat in the first three months of this year, which was boosted by resilient demand and higher prices.</li>
+        <li><strong>General Electric Company (GE):</strong> The manufacturer posted first-quarter revenue that jumped 25% in their aerospace business.</li>
+        <li><strong>General Motors Company (GM):</strong> The automaker reported an upbeat forecast signaling that the industry’s pricing power will run out of steam.</li>
+        <li><strong>3M Company (MMM):</strong> The company announced its restructuring plan that would impact 6,000 positions globally.</li>
+        <li><strong>United Parcel Service, Inc. (UPS):</strong> Delivery giant fell short on revenue as consumer demand pulls back hurting quarterly sales.</li>
+        <li><strong>Spotify (SPOT):</strong> Streaming music leader smashed expectations for new subscribers and total listeners in the first quarter.</li>
+        <li><strong>McDonald's Corporation (MCD):</strong> The fast-food restaurant reported quarterly earnings that beat expectations as customers remain loyal even as the restaurant raised its prices.</li>
+      </ul>
+      <p>Elsewhere, bitcoin's (BTC-USD) rebound has been notable for the past six months, with its price almost doubling from its lows last year but as Bespoke Investment Group notes that over the past few days, bitcoin has been testing its 50-day moving average, which has held for now at roughly $27,200.</p>
+    </div>
+  },
+  {
+    id: 440,
+    title: 'Bitcoin-Tether Pair Is Most Liquid on Binance Even as TUSD Pair Sees Higher Volume',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Tether', 'PAIR'],
+    description: <div className="blog-desc">
+      <p>Trading volume on Binance of bitcoin (BTC) denominated in ArchBlock's dollar-pegged stablecoin trueUSD (TUSD) has surged over the past four weeks after the crypto exchange introduced zero trading fees in the pair on March 23 while simultaneously reintroducing fees for all other pairs.</p>
+    </div>,
+    authorName: 'Omkar Godbole',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 25, 2023 - 4:05 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-455.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Trading volume on Binance of bitcoin (BTC) denominated in ArchBlock's dollar-pegged stablecoin trueUSD (TUSD) has surged over the past four weeks after the crypto exchange introduced zero trading fees in the pair on March 23 while simultaneously reintroducing fees for all other pairs.</p>
+    	<p>Still, the trade denominated in tether (USDT), the largest dollar-pegged stablecoin by market value, remains the most liquid, allowing large orders to execute with relatively less impact on the cryptocurrency's price than the TUSD trade.</p>	
+    	<p>"Market depth data on Binance shows us that BTC-USDT is still king from a liquidity standpoint, with market makers evidently more comfortable with exposure to Tether over TUSD," Conor Ryder, a research analyst at Paris-based crypto data provider Kaiko, said in a market update last week.</p>	
+    	<p>Liquidity conditions are commonly assessed with the help of a metric called market depth – a collection of buy and sell offers within 1% or 2% of the mid-price or the average of the bid and the ask/offer prices.</p>
+      <p>The more significant the depth, the more liquid an asset is said to be and the less the slippage. Slippage is the difference between the expected price at which a trade is placed and the actual price at which the transaction is executed. Slippage usually occurs when there is low market liquidity or high volatility.</p>
+      <p>The chart shows liquidity in BTC/USDT was $30 million at the 1% depth last week or 200% greater than $10 million in BTC/TUSD. In other words, traders might be better off executing large orders in the BTC/USDT pairs than the BTC/TUSD pair.</p>
+      <p>TUSD's market depth has improved sharply from practically zero to $10 million in a month, surpassing BUSD to become the second-most liquid pair on Binance.</p>
+      <p>The BTC-TUSD pair accounted for 50% of the total bitcoin market volume on Binance last week.</p>
+      <p>"For as long as zero-fee trading lasts on BTC-TUSD, TUSD needs to be considered a top stablecoin in crypto, whether people like it or not. Similar to how Binance favored BUSD, TUSD is the benefactor of increased volumes now, even if the reasons why Binance granted TUSD this gift are unclear," Ryder said.</p>
+    </div>
+  },
+  {
     id: 434,
     title: 'Stocks Fall With US Futures as Earnings Roll In: Markets Wrap',
     category: 'Markets',
@@ -397,6 +690,43 @@ const blogListdata = [
       <p>“While the macro is clearly not roses and champagne, we believe March earnings season will show better than feared results in the tech space with all investor eyes on the results from Microsoft, Meta, Amazon, and Google this week,” Wedbush analyst Dan Ives writes.</p>
       <p>Erlam adds that investors are still trying to figure out the real economic consequences of the banking panic earlier this year that followed the collapse of Silicon Valley Bank, and how such outcomes could steer the Fed’s ongoing fight with inflation.</p>
       <p>“Earnings season is obviously giving us plenty of food for thought in the interim but the first day of the week isn't typically the most thrilling and we're seeing another example of that today,” Erlam writes.</p>
+    </div>
+  },
+  {
+    id: 441,
+    title: 'Bitcoin could soar 268% to $100,000 as crypto winter is finally over, Standard Chartered says',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'BTC', 'Standard Chartered'],
+    description: <div className="blog-desc">
+      <p>The crypto winter has melted away, and bitcoin is set to flourish, a Standard Chartered note forecasted on Monday.</p>
+    </div>,
+    authorName: 'Filip De Mott',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 24, 2023 - 9:43 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-456.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Bitcoin could surge to $100,000 by the end of 2024, according to a Standard Chartered note.</li>
+        <li>That's due to bank turmoil, bitcoin halving, and the expected end of Fed rate hikes, among other things.</li>
+        <li>"While sources of uncertainty remain, we think the pathway to the USD 100,000 level is becoming clearer."</li>
+      </ul>
+    	<p>The crypto winter has melted away, and bitcoin is set to flourish, a Standard Chartered note forecasted on Monday.</p>
+    	<p>The world's biggest digital currency by market cap could surge to $100,000 by the end of 2024, the bank said, representing a 268% increase from current levels.</p>	
+    	<p>"We see potential for Bitcoin to reach the USD 100,000 level by end-2024, as we believe the much-touted 'crypto winter' is finally over," wrote Standard Chartered's Geoff Kendrick.</p>	
+    	<p>One of the reasons for the bullish outlook is the turmoil caused by Silicon Valley Bank's collapse last month. As worries of a banking contagion spread, bitcoin re-established its use case as a "decentralized, trustless and scarce digital asset," according to the note.</p>
+      <p>At the same time, key rivals to bitcoin lost ground, especially stablecoins, some of which lost their peg to the US dollar. In fact, some of the assets that backed their value were held in SVB.</p>
+      <p>"Against this backdrop, Bitcoin has benefited from its status as a branded safe haven, a perceived relative store of value and a means of remittance," Kendrick added.</p>
+      <p>Standard Chartered now sees bitcoin's share of the total crypto market cap rising to the 50%-60% range, up from 45% today and from 40% before the SVB collapse.</p>
+      <p>In addition, the note said bitcoin's recent rebound back above $30,000 also represented a turnaround for crypto miners, who previously had seen mining margins get squeezed.</p>
+      <p>Bitcoin has since dipped below $30,000, but Kendrick said if prices remain well above mining costs ($15,000), miners will likely hold onto what they mine instead of selling.</p>
+      <p>"This creates price upside, in our view. In addition, with energy prices likely having peaked, the structural profitability backdrop for miners should improve, adding further upside," he wrote.</p>
+      <p>Bitcoin is also set to trade better in the future as the Federal Reserve is nearing the end of its tightening cycle, Kendrick said, noting that its correlation with the Nasdaq suggests the crypto should trade better if risk-on assets improve broadly.</p>
+      <p>Another tailwind is the coin's upcoming halving in 2024, which is when the reward given to miners is cut in half. This is to cap the supply of bitcoins, and has historically led to price increases.</p>
+      <p>Bitcoin could also see upswings thanks to regulatory changes that promote investor access to the market — such as the creation of digital asset ETFs and stablecoin regulation. Already, some proposals that have been passed in Europe hold positive implications on crypto volatility.</p>
+      <p>"While sources of uncertainty remain, we think the pathway to the USD 100,000 level is becoming clearer," Kendrick said.</p>
     </div>
   },
   {
