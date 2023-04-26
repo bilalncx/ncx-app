@@ -36,6 +36,9 @@
         width: 100% !important;
         max-height: 700px !important;
         background: #DBDCDE !important;
+        display: block !important;
+        z-index: 1 !important;
+        position: relative;
     }
     #mkt__mkr__ndd #mobileSlider  .carousel__slider-tray{
         display: flex;
