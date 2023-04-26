@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'urbanist-medium';
-    src: url(C:\Projects\ncx-app\src\Assets\fonts\Urbanist-Medium.ttf);
+    src: url(../../fonts/Urbanist-Medium.ttf);
 }
 @font-face {
     font-family: 'urbanist-regular';
-    src: url(C:\Projects\ncx-app\src\Assets\fonts\Urbanist-Regular.ttf);
+    src: url(../../fonts/Urbanist-Regular.ttf);
 }
 header#header-row {
     background: #000000;
