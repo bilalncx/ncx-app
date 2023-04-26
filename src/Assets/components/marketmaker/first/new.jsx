@@ -44,15 +44,17 @@ function FirstVideo()
             </div>
 
             <div id="mobileSlider">
-                <video
-                    autoPlay={true}
-                    muted={true}
-                    loop={true}
-                    playsInline={true}
-                    preload="auto"
-                    >
-                    <source src={NCXMarketMvideo} type="video/mp4" />
-                </video>
+                <div className="mark__makr__video">
+                    <video
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        >
+                        <source src={NCXMarketMvideo} type="video/mp4" />
+                    </video>
+                </div>
                 {/* <CarouselProvider
                         visibleSlides={1}
                         totalSlides={2}

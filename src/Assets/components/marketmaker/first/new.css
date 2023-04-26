@@ -23,6 +23,9 @@
     #mkt__mkr__ndd .ambassador_card.row{
         display: none;
     }
+    .mark__makr__video {
+        background: #DBDCDE !important;
+    }
     #mkt__mkr__ndd #mobileSlider .carousel .carousel__slider {
         max-height: 400px;
         background: #DBDCDE !important;
@@ -38,7 +41,6 @@
         object-fit: cover !important;
         width: 100% !important;
         max-height: 700px !important;
-        background: #DBDCDE !important;
     }
     #mkt__mkr__ndd #mobileSlider  .carousel__slider-tray{
         display: flex;
