@@ -44,7 +44,7 @@ function FirstVideo()
             </div>
 
             <div id="mobileSlider">
-                <div className="mark__makr__video">
+                {/* <div className="mark__makr__video">
                     <video
                         autoPlay={true}
                         muted={true}
@@ -54,8 +54,8 @@ function FirstVideo()
                         >
                         <source src={NCXMarketMvideo} type="video/mp4" />
                     </video>
-                </div>
-                {/* <CarouselProvider
+                </div> */}
+                <CarouselProvider
                         visibleSlides={1}
                         totalSlides={2}
                         step={1}
@@ -78,7 +78,7 @@ function FirstVideo()
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>
                     <ButtonNext className="pich"><div className="circle"></div></ButtonNext>
-                </CarouselProvider> */}
+                </CarouselProvider>
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>NCX Market Maker</h1>
