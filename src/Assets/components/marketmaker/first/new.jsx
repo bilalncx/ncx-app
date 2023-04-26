@@ -7,6 +7,7 @@ import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import NCXAPPVideo from '../../../images/ncx-wallet-video.mp4';
 import OTCMobileVideo from '../../../images/ncx-wallet-video.mp4';
+import NCXMarketMvideo from '../../../images/ncx-wallet-video-mbl.mp4';
 
 function FirstVideo()
 {
@@ -50,7 +51,7 @@ function FirstVideo()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src={OTCMobileVideo} type="video/mp4" />
+                    <source src={NCXMarketMvideo} type="video/mp4" />
                 </video>
                 {/* <CarouselProvider
                         visibleSlides={1}

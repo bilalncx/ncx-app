@@ -318,5 +318,6 @@ svg.styles_icon__C_hdQ {
         object-fit: cover;
         width: 100%;
         max-height: 700px;
+        background: #DBDCDE !important;
     }
 }

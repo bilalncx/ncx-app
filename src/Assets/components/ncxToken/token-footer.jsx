@@ -32,9 +32,9 @@ function MyFooter()
                             <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
                             <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
                             <li><a href="/ncx-token">{t("ncx_token")}</a></li>
-                            <li><a href="#">{t("equities_trading")}</a></li>
-                            <li><a href="#">{t("forex_trading")}</a></li>
-                            <li><a href="#">{t("commodities_trading")}</a></li>
+                            <li><a href="/derivatives">{t("stocks_trading")}</a></li>
+                            <li><a href="/derivatives">{t("forex_trading")}</a></li>
+                            <li><a href="/derivatives">{t("commodities_trading")}</a></li>
                         </ul>
                         {/* <h1>Derivatives Trading</h1>
                         <ul className="ul-two">
@@ -136,9 +136,9 @@ function MyFooter()
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
                         <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
                         <li><a href="/ncx-token">{t("ncx_token")}</a></li>
-                        <li><a href="#">{t("equities_trading")}</a></li>
-                        <li><a href="#">{t("forex_trading")}</a></li>
-                        <li><a href="#">{t("commodities_trading")}</a></li>
+                        <li><a href="/derivatives">{t("stocks_trading")}</a></li>
+                        <li><a href="/derivatives">{t("forex_trading")}</a></li>
+                        <li><a href="/derivatives">{t("commodities_trading")}</a></li>
                     </ul>
                     <ul>
                         <h1>{t("services")}</h1>

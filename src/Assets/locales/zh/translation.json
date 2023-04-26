@@ -136,6 +136,7 @@
   "fiat_deposits_withdrawal": "法币存取款s",
   "crypto_fiat_trading_pairs": "加密法币交易对",
   "commodities_trading": "大宗商品交易",
+  "stocks_trading": "股票交易",
   "forex_trading": "外汇交易",
   "etfs_trading": "ETF交易",
   "otc_trading": "场外交易",

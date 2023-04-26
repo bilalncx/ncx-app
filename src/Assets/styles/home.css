@@ -791,4 +791,7 @@ a.cl__drp:hover{
     .gold__card {
         order: 1;
     }
+    #marketmakers_page .market-discount {
+        padding-top: 0px !important;
+    }
 }

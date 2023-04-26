@@ -304,6 +304,7 @@ p.insta-head {
         object-fit: cover;
         width: 100%;
         max-height: 700px;
+        background: #DBDCDE !important;
     }
     #ncx_institution #trading_solutions summary{
         border-top: 0.5px solid rgb(0,0,0, 0.3) !important;

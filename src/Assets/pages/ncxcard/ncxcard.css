@@ -282,6 +282,7 @@
     }
     #mobileSlider .carousel .carousel__slider {
         max-height: 400px;
+        background: #DBDCDE !important;
     }
     #mobileSlider .carousel button:disabled{
         display: block;
