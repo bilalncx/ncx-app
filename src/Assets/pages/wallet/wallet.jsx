@@ -2,9 +2,10 @@ import React from "react";
 import './wallet.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
+import Wallet1New from '../../components/wallet/01/new';
 import Wallet1 from '../../components/wallet/01/1';
 import Wallet2 from "../../components/wallet/02/2";
-import Wallet3 from "../../components/wallet/03/3";
+import Wallet3 from "../../components/wallet/03/new";
 import Wallet4 from "../../components/wallet/04/4";
 import Wallet5 from '../../components/wallet/05/5';
 import Wallet6 from '../../components/wallet/06/6';
@@ -24,17 +25,19 @@ function WalletMainPage()
 
             <MyHeader />
 
-            <Wallet3 />
-            
-            <Wallet2 />
-            
+            <Wallet1New />
+
             <Wallet1 />
 
-            <Wallet4 />
-
-            <Wallet5 />
+            <Wallet3 />
 
             <Wallet6 />
+            
+            <Wallet2 />
+
+            {/* <Wallet4 />
+
+            <Wallet5 />
 
             <Wallet7 />
 
@@ -50,7 +53,7 @@ function WalletMainPage()
 
             <Wallet13 />
 
-            <MobileWallet />
+            <MobileWallet /> */}
 
             <MyFooter />
 

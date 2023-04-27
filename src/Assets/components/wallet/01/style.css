@@ -164,3 +164,7 @@ div#infinite:after {
 section#right__left {
     margin-top: 20px;
 }
+
+#wallet_main_screen #home__ffgrr.ncxapp-section #ncx_buycrypto_video video{
+    max-height: 920px !important;
+}

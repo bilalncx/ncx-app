@@ -33,6 +33,54 @@ a.pp__fd:after{
 div#ncxt__stake {
     padding: 150px 0px !important;
 }
+#Wallet_Main .plat__ggre.one .trg__ff__fe p {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#Wallet_Main .plat__ggre.two .trg__ff__fe p {
+    width: 65%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#Wallet_Main .plat__ggre.three .trg__ff__fe:nth-child(1) p {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#Wallet_Main .plat__ggre.three .trg__ff__fe:nth-child(2) p {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#Wallet_Main .plat__ggre.four .trg__ff__fe p {
+    width: 65%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#Wallet_Main .trg__ff__fe p span {
+    display: block;
+}
+#Wallet_Main .trg__ff__fe .tiy__bd{
+    margin-bottom: 55px !important;
+}
+#Wallet_Main .viso__ff video{
+    max-height: 500px;
+}
+#Wallet_Main .gf__grthbh video{
+    max-height: 510px !important;
+}
+#Wallet_Main .gf__grthbh, #Wallet_Main .viso__ff {
+    min-height: 500px !important;
+    max-height: 500px !important;
+}
+
+
+
+
+
+
+
 
 @media screen and (max-width: 800px){
     #wallet__main__cc .bss__row{
@@ -223,5 +271,24 @@ div#ncxt__stake {
     }
     #ncxt__stake h1.__ldd {
         margin-bottom: 50px;
+    }
+    #Wallet_Main .trg__ff__fe .tiy__bd{
+        margin-bottom: 30px !important;
+    }
+    #Wallet_Main .gf__grthbh, #Wallet_Main .viso__ff {
+        min-height: 400px !important;
+        max-height: 400px !important;
+    }
+    #Wallet_Main .viso__ff video {
+        max-height: 400px;
+    }
+    #Wallet_Main .gf__grthbh video{
+        max-height: 390px !important;
+    }
+    #Wallet_Main .col.trg__ff__fe {
+        padding-top: 50px !important;
+    }
+    #Wallet_Main .plat__ggre .trg__ff__fe p {
+        width: 90% !important;
     }
 }
