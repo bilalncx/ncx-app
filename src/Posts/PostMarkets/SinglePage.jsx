@@ -6,6 +6,7 @@ import Empty from './Empty/empty';
 import MyHeader from '../../Assets/components/header/header';
 import MyFooter from '../../Assets/components/footer/footer';
 import { ReactComponent as BackIcon } from '../../Assets/images/back.svg';
+import {useNavigate} from 'react-router-dom';
 
 const BlogArticle = () => {
   const { id } = useParams();
@@ -18,26 +19,31 @@ const BlogArticle = () => {
     }
   }, []);
 
+  const navigate = useNavigate();
+  const goBack = () => {
+		navigate(-1);
+	}
+
   return (
     <>
     <div id="articledetailsHeader">
       <MyHeader />
       <div className='single__page'>
             <div className="container">
-              <div className="blg__btn">
-                  <Button href="#">Latest Articles</Button>
-                  <Button href="/market-insights/crypto">Crypto</Button>
-                  <Button href="#">Markets</Button>
-                  <Button href="#">Forex</Button>
-                  <Button href="#">Commodities</Button>
-                  <Button href="#">Indices</Button>
-              </div>
+                <div className="blg__btn">
+                  <Button href="/market-insights">Latest Articles</Button>
+                  <Button href="/post-crypto">Crypto</Button>
+                  <Button href="/post-markets">Markets</Button>
+                  <Button href="/post-forex">Forex</Button>
+                  <Button href="/post-commodities">Commodities</Button>
+                  <Button href="/post-indices">Indices</Button>
+                </div>
 
               {article ? (
                 <div className='article-wrap'>
                   <div className="back_ff">
                     <BackIcon />
-                    <a href="market-insights" className='bakc_sig'>Market Insights</a>
+                    <a onClick={goBack} className='bakc_sig'>Go Back</a>
                   </div>
                   <h1 className='article-title'>{article.title}</h1>
                   <div className="meta_g">

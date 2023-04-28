@@ -79,10 +79,8 @@
 .art_grf.row a:hover img{-webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
-.bardd {
-    width: 100%;
-    height: 100%;
-    background: #333;
+.col.rght_br {
+    background: #2c2e39;
 }
 .art_grf.row a.col p.dat {
     font-size: 14px;
@@ -142,7 +140,10 @@ a.red__mor:focus, a.red__mor:focus-visible{
     box-shadow: none;
 }
 .category_se {
-    margin-bottom: 50px;
+    margin-bottom: 60px;
+}
+.full__blog {
+    padding: 0px;
 }
 .full__blog .art_grf.row a.col {
     flex: 0 0 31% !important;
@@ -154,4 +155,61 @@ a.red__mor:focus, a.red__mor:focus-visible{
     text-align: center;
     justify-content: center;
     display: flex;
+}
+
+@media screen and (max-width: 800px){
+    .blg__btn{
+        display: none;
+    }
+    .blo__btns h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .blo__btns{
+        padding: 100px 0px 50px 0px;
+    }
+    .nsghts.row {
+        display: block;
+    }
+    .nsghts.row .rght_br{
+        display: none;
+    }
+    .art_grf.row{
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+    a.red__mor{
+        margin: 40px 0px 0px 0px;
+        min-width: 130px;
+        width: 100%;
+    }
+    h1.tile_hed{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .articles__gg .wrap{
+        flex-direction: column !important;
+        margin: 0px !important;
+    }
+    .articles__gg .wrap .article{
+        width: 100% !important;
+    }
+    .article-page .pagination{
+        margin-top: 0px !important;
+        margin-bottom: 50px !important;
+    }
+    .article-wrap{
+        width: 100% !important; 
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .single__page{
+        padding: 50px 0px !important;
+    }
+    h1.article-title{
+        font-size: 26px !important;
+        line-height: 32px !important;
+        margin-bottom: 20px !important;
+    }
 }

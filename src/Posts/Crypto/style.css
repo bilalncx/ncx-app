@@ -62,21 +62,25 @@ h1.article-title {
     margin: 20px 0px;
 }
 a.bakc_sig {
-    color: #5ED3F0;
-    font-size: 22px;
+    color: #000000;
+    font-size: 18px;
     display: block;
     width: fit-content;
     position: relative;
+    font-family: 'roboto-regular';
 }
 .back_ff{
     display: flex;
     align-items: center;
     gap: 10px;
     margin-bottom: 20px;
+    width: fit-content;
+    cursor: pointer;
 }
 .back_ff svg{
     transform: translateX(0px);
     transition: all .5s ease;
+    width: 14px;
 }
 .back_ff:hover svg{
     transform: translateX(-5px);

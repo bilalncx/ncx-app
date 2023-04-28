@@ -11,11 +11,15 @@ const ArticleItem = ({
         cover,
     },
     }) => {
+    
+        function  handleWindow() {
+        window.scrollTo(0, 0);
+    }
 
     return (
         <div className='article'>
             <div className='art__ff'>
-                <Link to={`/post-commodities/${id}`}>
+                <Link onClick={handleWindow} to={`/post-commodities/${id}`}>
                     <img className='cvr_art' src={cover} alt='cover' />
                 </Link>
             </div>

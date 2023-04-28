@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 
+
 const ArticleItem = ({
     article: {
         id,
@@ -11,11 +12,15 @@ const ArticleItem = ({
         cover,
     },
     }) => {
-
+    
+    
+    function  handleWindow() {
+        window.scrollTo(0, 0);
+    }
     return (
         <div className='article'>
             <div className='art__ff'>
-                <Link to={`/post-crypto/${id}`}>
+                <Link onClick={handleWindow} to={`/post-crypto/${id}`}>
                     <img className='cvr_art' src={cover} alt='cover' />
                 </Link>
             </div>
