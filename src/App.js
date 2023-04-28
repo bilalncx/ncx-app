@@ -32,6 +32,7 @@ import NCXAboutUs from './Assets/pages/about-us/about';
 import Wallet from './Assets/pages/wallet/wallet';
 import IndicesPage from './Assets/pages/indices/indices';
 import IndicesPage1 from './Assets/pages/indices/indices1';
+import BlogNews from './Posts/main';
 
 const App = () => {
   return (
@@ -68,6 +69,7 @@ const App = () => {
           <Route path='/wallet' element={<Wallet />} />
           <Route path='/indices' element={<IndicesPage />} />
           <Route path='/derivatives' element={<IndicesPage1 />} />
+          <Route path='/posts' element={<BlogNews />} />
         </Routes>
       </BrowserRouter>
     // </div>
