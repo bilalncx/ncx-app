@@ -14,7 +14,7 @@ function HomeCEXDEXTableSection()
         <div className="dex-table">
                 <div className="container">
                     <div className="text-table">
-                        <h1>{t("Advanced CEX, DEX & Trading features on one platform")}</h1>
+                        <h1>{t("advanced_cex_dex_trading_features_on_one_platform")}</h1>
                         <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph1")}</p>
                         <p>{t("all_in_one_cex_dex_trading_platform_defi_ecosystem_paragraph2")}</p>
                     </div>

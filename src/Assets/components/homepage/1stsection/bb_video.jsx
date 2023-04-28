@@ -7,9 +7,11 @@ import BuyCryptoVideo from '../../../images/home__newvideo.mp4';
 import BuyCryptoVideombl from '../../../images/home__mblvdo.mp4';
 import Button from "@mui/material/Button";
 import './firstsection.css';
+import { useTranslation } from "react-i18next";
 
 function NCXAPPSection()
 {
+    const { t } = useTranslation();
     return(
         <div className="hom__ppo">
             <div id="home__ffgrr" className="ncxapp-section">
@@ -31,38 +33,38 @@ function NCXAPPSection()
                     <div className="row">
                         <div className="col">
                             <div className="apps_barcod">
-                                <h1>NCX Exchange The power of Crypto, DeFi & FinTech in your hands.</h1>
+                                <h1>{t("ncx_exchange_the_power_of_crypto_defi_finTech_in_your_hands")}</h1>
                                 <div className="barcodd">
                                     <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
-                                    <p>Scan to Download NCX App</p>
+                                    <p>{t("scan_to_download_ncx_app")}</p>
                                 </div>
                                 <div className="apps-divi">
                                     <NCXApple />
                                     <NCXGoogle />
                                 </div>
                                 <div className="home__btnff">
-                                    <Button href="#" className="sin__op">Sign Up</Button>
-                                    <Button href="#" className="cl__drp">Claim Airdrop</Button>
+                                    <Button href="#" className="sin__op">{t("sign_up")}</Button>
+                                    <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
                                 </div>
                             </div>
                         </div>
                         <div className="col hidden_col">
                             <div className="app-texts-src">
                                 <div className="apptexts">
-                                    <h1>GLOBAL REACH</h1>
-                                    <p>Powered by MasterCard, Pay at 44 Million Merchant locations Worldwide.</p>
+                                    <h1>{t("global_reach")}</h1>
+                                    <p>{t("powered_by_mastercard_pay_at_44_million_locations_worldwide")}</p>
                                 </div>
                                 <div className="apptexts">
-                                    <h1>ATM WITHDRAWALS</h1>
-                                    <p>Turn your Crypto into Cash instantly, use NCX Card across 3.2m ATMs Worldwide.</p>
+                                    <h1>{t("atm_withdrawals")}</h1>
+                                    <p>{t("trun_your_crypto_into_cash_instantly_use_ncx_card_across_3.2m_atms_worldwide")}</p>
                                 </div>
                                 <div className="apptexts">
-                                    <h1>ONLINE PAYMENTS</h1>
-                                    <p>Use you card for Online Payments as well as Apple Pay, Google Pay, Samsung Pay, Paypal, and many more.</p>
+                                    <h1>{t("online_payments")}</h1>
+                                    <p>{t("use_your_card_online_payments")}</p>
                                 </div>
                                 <div className="apptexts">
-                                    <h1>TOP UP BY CRYPTO</h1>
-                                    <p>Top Up on the go with one of 80 available Cryptocurrencies</p>
+                                    <h1>{t("top_up_by_crypto")}</h1>
+                                    <p>{t("top_up_on_the_go_with_one_of_80_available_cryptocurrencies")}</p>
                                 </div>
                             </div>
                         </div>
@@ -70,36 +72,36 @@ function NCXAPPSection()
                 </div>
             </div>
             <div className="mbl__lpl">
-                <h1>NCX Exchange</h1>
-                <p>Hybrid CEX | DEX | Trading Platform & DeFi Ecosystem</p>
+                <h1>{t("ncx_exchange")}</h1>
+                <p>{t("hybrid_cex_dex_tarding_platform_defi_ecosystem")}</p>
                 <div className="yy__tr">
-                    <span>Advanced CEX</span>
-                    <span>Cross-Chain DEX</span>
-                    <span>Trading Platfrom</span>
+                    <span>{t("advanced_cex")}</span>
+                    <span>{t("cross_chain_dex")}</span>
+                    <span>{t("trading_platform")}</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Crypto Derivatives</span>
-                    <span>Swap 500k+ Tokens Across 10 Chains</span>
+                    <span>{t("crypto_derivatives")}</span>
+                    <span>{t("swap_500k_tokens_across_10_chains")}</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Trade 500+ Derivatives Markets</span>
-                    <span>Stocks</span>
-                    <span>Commodities</span>
+                    <span>{t("trade_500_derivatives_markets")}</span>
+                    <span>{t("stocks")}</span>
+                    <span>{t("commodities")}</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Indices</span>
-                    <span>Forex</span>
-                    <span>ETF’s</span>
-                    <span>200+ Cryptocurrencies</span>
+                    <span>{t("indices")}</span>
+                    <span>{t("forex")}</span>
+                    <span>{t("efts")}</span>
+                    <span>{t("200_cryptocurrencies")}</span>
                 </div>
                 <div className="yy__tr">
-                    <span>Crypto Debit Card</span>
-                    <span>DeFi Wallet</span>
-                    <span>Buy Crypto</span>
+                    <span>{t("crypto_debit_card")}</span>
+                    <span>{t("defi_wallet")}</span>
+                    <span>{t("buy_crypto")}</span>
                 </div>
                 <div className="home__btnff">
-                    <Button href="#" className="sin__op">Sign Up</Button>
-                    <Button href="#" className="cl__drp">Claim Airdrop</Button>
+                    <Button href="#" className="sin__op">{t("sign_up")}</Button>
+                    <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
                 </div>
                 <video 
                     autoPlay={true}
