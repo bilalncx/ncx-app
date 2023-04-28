@@ -33,6 +33,16 @@ import Wallet from './Assets/pages/wallet/wallet';
 import IndicesPage from './Assets/pages/indices/indices';
 import IndicesPage1 from './Assets/pages/indices/indices1';
 import BlogNews from './Posts/main';
+import CryptoDetails from './Posts/Crypto/SinglePage';
+import CryptoListing from './Posts/Crypto/ArticlesList';
+import PostForexDetails from './Posts/PostForex/SinglePage';
+import PostForexList from './Posts/PostForex/ArticlesList';
+import PostMarketDetails from './Posts/PostMarkets/SinglePage';
+import PostMarketList from './Posts/PostMarkets/ArticlesList';
+import PostCommoditiesDetails from './Posts/PostCommodities/SinglePage';
+import PostCommoditiesList from './Posts/PostCommodities/ArticlesList';
+import PostIndicesDetails from './Posts/PostIndices/SinglePage';
+import PostIndicesList from './Posts/PostIndices/ArticlesList';
 
 const App = () => {
   return (
@@ -69,7 +79,17 @@ const App = () => {
           <Route path='/wallet' element={<Wallet />} />
           <Route path='/indices' element={<IndicesPage />} />
           <Route path='/derivatives' element={<IndicesPage1 />} />
-          <Route path='/posts' element={<BlogNews />} />
+          <Route path='/market-insights' element={<BlogNews />} />
+          <Route path='/post-crypto' element={<CryptoListing />}/>
+          <Route path='/post-crypto/:id' element={<CryptoDetails />} />
+          <Route path='/post-forex' element={<PostForexList />}/>
+          <Route path='/post-forex/:id' element={<PostForexDetails />} />
+          <Route path='/post-indices' element={<PostIndicesList />}/>
+          <Route path='/post-indices/:id' element={<PostIndicesDetails />} />
+          <Route path='/post-commodities' element={<PostCommoditiesList />}/>
+          <Route path='/post-commodities/:id' element={<PostCommoditiesDetails />} />
+          <Route path='/post-markets' element={<PostMarketList />}/>
+          <Route path='/post-markets/:id' element={<PostMarketDetails />} />
         </Routes>
       </BrowserRouter>
     // </div>

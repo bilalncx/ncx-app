@@ -1,6 +1,6 @@
 const blogListdata = [
   {
-    id: 442,
+    id: 'dow-jones-futures-rise-on-microsoft-boeing-first-republic-fights-for-survival',
     title: 'Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival',
     category: 'Indices',
     subCategory: ['Dow jones', 'Microsoft', 'Boeing'],

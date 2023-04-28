@@ -156,7 +156,17 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/derivatives") > -1){
       $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("/posts") > -1){
+    } else if (window.location.href.indexOf("/market-insights") > -1){
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/post-crypto") > -1){
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/post-forex") > -1){
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/post-markets") > -1){
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/post-indices") > -1){
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/post-commodities") > -1){
       $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");

@@ -1,0 +1,119 @@
+.articles__gg .wrap {
+    display: flex;
+    flex-flow: wrap;
+    width: 100%;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+.articles__gg .wrap .article {
+    width: 30%;
+    margin-bottom: 50px;
+}
+.articles__gg .wrap .article img{
+    width: 100%;
+}
+.articles__gg {
+    position: relative;
+    display: flex;
+}
+.blg__cnt .date{
+    font-size: 14px;
+    font-family: 'roboto-light';
+    padding: 20px 0px 10px 0px;
+    color: #666666;
+}
+.blg__cnt h3{
+    font-size: 22px;
+    font-family: 'roboto-light';
+    color: #000000;
+    line-height: 28px;
+    /* min-height: 60px; */
+    margin-bottom: 10px;
+}
+.blg__cnt p{
+    font-size: 14px;
+    font-family: 'roboto-light';
+    color: #000000;
+    line-height: 22px;
+    letter-spacing: 0px;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.article-wrap {
+    width: 60%;
+    margin: 0 auto;
+    padding: 50px 0px;
+}
+h1.article-title {
+    font-size: 36px;
+    font-family: 'roboto-light';
+    margin-bottom: 30px;
+    line-height: 44px;
+}
+.single__page {
+    padding: 70px 0px 50px 0px;
+}
+.cover-image img {
+    width: 100%;
+    margin: 20px 0px;
+}
+a.bakc_sig {
+    color: #5ED3F0;
+    font-size: 22px;
+    display: block;
+    width: fit-content;
+    position: relative;
+}
+.back_ff{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.back_ff svg{
+    transform: translateX(0px);
+    transition: all .5s ease;
+}
+.back_ff:hover svg{
+    transform: translateX(-5px);
+}
+.meta_g {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.meta_g p, .meta_g p a{
+    font-size: 16px !important;
+    font-family: 'roboto-light';
+    line-height: 24px;
+    color: #000000;
+}
+.meta_g p a{
+    padding-left: 5px;
+    font-family: 'roboto-regular';
+}
+.article-wrap .blog-content ul li{
+    padding-bottom: 10px;
+}
+.art__ff a {
+    min-height: 250px;
+    max-height: 250px;
+    overflow: hidden;
+    display: block;
+}
+.articles__gg .wrap .article:hover img {
+    transform: scale(1.1);
+}
+.articles__gg .wrap .article img {
+    width: 100%;
+    object-fit: cover;
+    transition: .3s;
+    height: 250px;
+}
+.blog__articles {
+    padding-bottom: 50px;
+}

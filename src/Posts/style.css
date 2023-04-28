@@ -149,3 +149,9 @@ a.red__mor:focus, a.red__mor:focus-visible{
     padding: 0px !important;
     text-decoration: none;
 }
+.article-page .pagination {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}

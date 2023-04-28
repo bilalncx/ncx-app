@@ -25,7 +25,7 @@ function PostListingSection()
                                     <p>(Bloomberg) -- US equity futures gained as strong earnings from tech majors Alphabet Inc. and Microsoft Corp. after the Wall Street close offered investors some reassurance amid continued concerns over the health of the economy.</p>
                                 </a>
                             </div>
-                            <Button href="#" className="red__mor">Read More</Button>
+                            <Button href="/post-crypto" className="red__mor">Read More</Button>
                         </div>
 
 
@@ -45,7 +45,7 @@ function PostListingSection()
                                     <p>Alphabet (GOOG, GOOGL) reported first quarter earnings on Tuesday that beat expectations on the top- and bottom-lines, while also authorizing a massive $70 billion stock buyback. Alphabet stock rose as much as 5% in after hours trading on</p>
                                 </a>
                             </div>
-                            <Button href="#" className="red__mor">Read More</Button>
+                            <Button href="/post-crypto" className="red__mor">Read More</Button>
                         </div>
 
                         <div className="category_se">
@@ -64,7 +64,7 @@ function PostListingSection()
                                     <p>Dow Jones futures were little changed ahead of Tuesday's open, with a busy week of earnings results ahead that includes tech titans Google-parent Alphabet (GOOGL), Amazon (AMZN), Facebook-owner Meta Platforms (META) and</p>
                                 </a>
                             </div>
-                            <Button href="#" className="red__mor">Read More</Button>
+                            <Button href="/post-markets" className="red__mor">Read More</Button>
                         </div>
                     </div>
                     <div className="col rght_br">
@@ -93,7 +93,7 @@ function PostListingSection()
                                     <p>Dow Jones futures were little changed ahead of Tuesday's open, with a busy week of earnings results ahead that includes tech titans Google-parent Alphabet (GOOGL), Amazon (AMZN), Facebook-owner Meta Platforms (META) and</p>
                                 </a>
                             </div>
-                            <Button href="#" className="red__mor">Read More</Button>
+                            <Button href="/post-forex" className="red__mor">Read More</Button>
                         </div>
                     </div>
 
@@ -120,7 +120,7 @@ function PostListingSection()
                                     <p>Dow Jones futures were little changed ahead of Tuesday's open, with a busy week of earnings results ahead that includes tech titans Google-parent Alphabet (GOOGL), Amazon (AMZN), Facebook-owner Meta Platforms (META) and</p>
                                 </a>
                             </div>
-                            <Button href="#" className="red__mor">Read More</Button>
+                            <Button href="/post-commodities" className="red__mor">Read More</Button>
                         </div>
                     </div>
 
@@ -147,7 +147,7 @@ function PostListingSection()
                                     <p>Dow Jones futures were little changed ahead of Tuesday's open, with a busy week of earnings results ahead that includes tech titans Google-parent Alphabet (GOOGL), Amazon (AMZN), Facebook-owner Meta Platforms (META) and</p>
                                 </a>
                             </div>
-                            <Button href="#" className="red__mor">Read More</Button>
+                            <Button href="/post-indices" className="red__mor">Read More</Button>
                         </div>
                     </div>
                 </div>

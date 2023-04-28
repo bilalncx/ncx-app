@@ -16,12 +16,12 @@ function NCXNewBlogs()
                 <div className="container">
                     <h1>Market Insights</h1>
                     <div className="blg__btn">
-                        <Button href="#">Latest Articles</Button>
-                        <Button href="#">Crypto</Button>
-                        <Button href="#">Markets</Button>
-                        <Button href="#">Forex</Button>
-                        <Button href="#">Commodities</Button>
-                        <Button href="#">Indices</Button>
+                        <Button href="/latest-articles">Latest Articles</Button>
+                        <Button href="/post-crypto">Crypto</Button>
+                        <Button href="/post-markets">Markets</Button>
+                        <Button href="/post-forex">Forex</Button>
+                        <Button href="/post-commodities">Commodities</Button>
+                        <Button href="/post-indices">Indices</Button>
                     </div>
                 </div>
             </div>
