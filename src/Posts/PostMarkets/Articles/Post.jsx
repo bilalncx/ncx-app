@@ -15,7 +15,7 @@ const ArticleItem = ({
     return (
         <div className='article'>
             <div className='art__ff'>
-                <Link to={`/market-insights/crypto/${id}`}>
+                <Link to={`/post-markets/${id}`}>
                     <img className='cvr_art' src={cover} alt='cover' />
                 </Link>
             </div>
