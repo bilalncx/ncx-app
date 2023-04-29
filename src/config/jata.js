@@ -14648,39 +14648,6 @@ const blogListdata = [
     </div>,
   },
   {
-    id: 34,
-    title: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
-    slug: 'Spotlight: Insurance ETF Beats Market as Rates Jump',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
-    </div>,
-    authorName: 'Heather Bell',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Dec 13, 2022 - 4:43 AM',
-    cover: 'https://ncx.cx/images/ncx-blog-34.webp',
-    content: <div className="blog-content">
-      <p>While actuarial tables and claims adjustments sound boring, market-beating returns are always a good time.</p>
-      <p>This year, the iShares U.S. Insurance ETF (IAK) has been one of the few stock exchange-traded funds outside of energy that handily topped broader markets like the S&P 500.</p>
-      <p>The fund is up about 12% and recently hit its all-time high. It did this in one of the worst equity market environments in years, and without exposure to energy stocks. Energy is the only major sector with positive returns year to date, while the SPDR S&P 500 ETF Trust (SPY) has dropped 16%.</p>
-      <p>Three ETFs trading on U.S. exchanges provide exposure to insurance stocks. With 58 holdings, IAK is the broadest that covers this category in addition to being the top performer year to date. With $558 million in assets under management, it’s also the largest compared with the $525 million SPDR S&P Insurance ETF (KIE) and the $347 million Invesco KBW Property & Casualty Insurance ETF (KBWP). Those two funds are up 4.3% and 11.2%, respectively.</p>
-      <p>All but one of IAK’s top 10 holdings—including names like Chubb Corp., Progressive Corp. and MetLife Inc.—have notched positive returns during 2022, the majority of them in the double digits. The top firms in the fund have mostly reported strong earnings and revenues this year, boosting their performance in a tough market, and spurring the ETFs gains.</p>
-      <p>IAK is probably doing well for a number of reasons, one being that insurance companies do well in unstable economic times because as more or less steady companies, they aren’t affected by the downturn in the economy like other industries. They also provide essential services whose demand profile doesn’t fluctuate with economic cycles.</p>
-      <p>Rising interest rates also boost insurance companies’ “float,” the pool of money, collected as premiums, which they invest conservatively and use to make claims payments. The Federal Reserve boosting rates from around zero to 4% Monday has helped IAK’s companies, and with more hikes expected this year and next, the insurance industry may be positioned well for strong profits for some time.</p>
-      <p>So far this year, IAK has seen strong inflows, gaining $422.3 million year to date, while KBWP pulled in $248.5 million, and KIE—a broadly based insurance fund like IAK—gained just $62.8 million. With more room to run, those funds could pull in even more.</p>
-      <h3>An Analyst’s View</h3>
-      <p>The Deloitte Center for Financial Services’ report on its 2023 outlook the insurance industry in September 2022 noted that while insurers are “facing a host of macroeconomic and geopolitical challenges,” they exhibited agility during the pandemic in terms of adopting remote work and adapting to customer needs.</p>
-      <p>They should continue to maintain that momentum, Deloitte advises, by investing in technology and their workforce while focusing on innovation and their customers.</p>
-      <p>The report also notes that ESG considerations will become increasingly important to stakeholders, and that those could be major differentiators in competing within the insurance peer group. The firm declined to comment further when contacted.</p>
-      <p>Deloitte U.S. Insurance Leader Karl Hersch said in a video in its outlook that the sector is at a “post-pandemic inflection point” during which it could “reset the narrative” around it.</p>
-      <p>While the report cites inflation as cutting into profitability, it notes several opportunities for growth. Those include small businesses, in particular when it comes to cybersecurity-related mishaps.</p>
-      <p>The push toward green energy could result in $125 billion in spending on such matters projected by 2030. In the digital realm, including cryptocurrency, NFTs and the metaverse, the report notes that only 17% of related assets are insured.</p>
-    </div>
-  },
-  {
     id: 4,
     title: 'What does Aave’s growth on Arbitrum mean for the current state of L2s',
     slug: 'what-does-aaves-growth-on-arbitrum-mean-for-the-current-state-of-l2s',
@@ -14844,31 +14811,6 @@ const blogListdata = [
       <p>The obvious increase in these DEXes’ trading volumes is evidence of how recently that area has come to receive a lot more attention. The increased interest could lead to a more balanced crypto economy and encourage participation outside of centralized exchanges.</p>
       <p>This is not meant to minimize or overlook the significance of centralized exchanges within the ecosystem; rather, DEXes provide investors with different options.</p>
     </div>,
-  },
-  {
-    id: 35,
-    title: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
-    slug: 'Semiconductor ETFs Jump After Warren Buffett’s Purchase',
-    category: 'Crypto',
-    subCategory: ['Bitcoin', 'ETFs', 'Morning Star'],
-    description: <div className="blog-desc">
-      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. disclosed Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
-    </div>,
-    authorName: 'Ron Day',
-    authorurl: '',
-    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
-    authorContent: '',
-    createdAt: 'Nov 15, 2022 - 7:43 PM',
-    cover: 'https://ncx.cx/images/ncx-blog-35.webp',
-    content: <div className="blog-content">
-      <p>Semiconductor exchange-traded funds surged after Warren Buffett’s Berkshire Hathaway Inc. disclosed Monday it bought more than $4 billion worth of Taiwan Semiconductor Manufacturing Co. in the previous quarter.</p>
-      <p>ETFs including the SPDR S&P Semiconductor ETF (XSD), the VanEck Semiconductor ETF (SMH) and the Invesco Dynamic Semiconductors ETF (PSI) gained more than 4% and were among the five biggest ETF movers on Tuesday. A handful of Taiwan and semiconductor funds rounded out the top 10 ETF movers.</p>
-      <p>Berkshire’s Securities and Exchange Commission filing disclosed 4.12 million shares of Taiwan Semiconductor, the world’s biggest contract chipmaker and supplier to Apple Inc., purchased in the third calendar quarter. Apple is the top holding in Berkshire’s portfolio.</p>
-      <p>The company’s shares have been among the most beaten-down in what has been a declining tech market this year. Even with today’s more than 12% gain, TSMC—as it’s also known—has dropped 32% this year, more than the 27% decline in the tech-heavy Invesco QQQ Trust (QQQ).</p>
-      <p>That decline may have been seen as a buying opportunity for Buffett, who, along with business partner Charlie Munger, are the world’s most famous value investors. Semiconductors are generally priced low at present: XSD’s price-to-earnings ratio of 17 times earnings falls beneath QQQ’s 22 times.</p>
-      <p>In addition to the Berkshire purchases, geopolitical tensions in the region may have taken a breather after President Joe Biden met with Chinese leader Xi Jinping in Indonesia Monday and committed to working together to solve economic and security issues.</p>
-      <p>China has promised to reunify Taiwan with the Chinese mainland, which the U.S. opposes. House Speaker Nancy Pelosi’s July trip to Taiwan in support of the country infuriated China and led the country to cut off some diplomatic channels with the U.S.</p>
-    </div>
   },
 ];
 

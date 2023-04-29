@@ -10,16 +10,18 @@ import Polygon from '../../../images/PolygonLogo.png';
 import Aurora from '../../../images/AuroraLogo.png';
 import Optimism from '../../../images/OptimismLogo.png';
 import Button from "@mui/material/Button";
+import { useTranslation } from "react-i18next";
 
 function Wallet1()
 {
+    const { t } = useTranslation();
     return(
         <div id="home_coins" className="wallet-slider">
             <div className="container">
                 <h1>
-                    <span>Swap 500k+ Tokens across</span>
-                    <span>10 Chains with <strong>NCX Cross-Chain DEX.</strong></span>
-                    <span>Migrate assets between different chains</span>
+                    <span>{t("swap_500k_tokens_across")}</span>
+                    <span>{t("10_chains_with")} <strong>{t("ncx_cross_chain_dex")}</strong></span>
+                    <span>{t("migrate_assets_between_different_chains")}</span>
                 </h1>
                 <section class="slide-option">
                     <div id="infinite" class="highway-slider">
@@ -263,8 +265,8 @@ function Wallet1()
 
                 <p className="gjg_gf">Including Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora</p>
                 <div className="coin__tb">
-                    <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="lnch_dx">Launch DEX</Button>
-                    <Button href="#" className="dx_drp"> Claim Airdrop</Button>
+                    <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="lnch_dx">{t("launch_dex")}</Button>
+                    <Button href="#" className="dx_drp"> {t("claim_airdrop")}</Button>
                 </div>
             </div>
         </div>

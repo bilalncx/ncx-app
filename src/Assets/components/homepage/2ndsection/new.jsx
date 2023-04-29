@@ -1,54 +1,56 @@
 import React from "react";
 import './2ndsection.css';
+import { useTranslation } from "react-i18next";
 
 function Indices2()
 {
+    const { t } = useTranslation();
     return(
         <div id="hme__gg__ff" className="trade__derivative">
             <div className="container">
-                <h1 className="fg__rer">Hybrid CEX | DEX | Trading Platform & DeFi Ecosystem</h1>
+                <h1 className="fg__rer">{t("hybrid_cex_dex_tarding_platform_defi_ecosystem")}</h1>
                 <div className="row most_deri">
                     <div className="col">
                         <div className="logo__ff">
                             <h3 className="pp__oo">C</h3>
-                            <h1>Crypto Exchange</h1>
+                            <h1>{t("crypto_exchange")}</h1>
                         </div>
-                        <p className="llp_dd">Buy over 200 Crypto assets with over 90 Fiat currencies, 16 payment methods</p>
-                        <p className="io_od">Trade most popular Crypto assets on Spot</p>
-                        <p className="mbl__stng">Variety of Crypto-Crypto and Crypto-Fiat Trading Pairs</p>
+                        <p className="llp_dd">{t("buy_over_200_crypto_assets_with_over_90_fiat_currencies_16_payment_methods")}</p>
+                        <p className="io_od">{t("trade_most_popular_crypto_assets_on_spot")}</p>
+                        <p className="mbl__stng">{t("crypto_exchange_text")}</p>
                     </div>
                     <div className="col">
                         <div className="logo__ff">
                             <h3 className="oo__ii">T</h3>
-                            <h1>Derivatives Trading</h1>
+                            <h1>{t("derivatives_trading")}</h1>
                         </div>
-                        <p className="llp_dd">Go long or short on over 150 Crypto Derivatives pairs with up to 200x Leverage</p>
-                        <p className="io_od">Trade Global Financial Markets including Stocks, Indices, ETF’s</p>
-                        <p className="mbl__stng">Trade 500 Commodities, Metals, Foreign Exchange Market pairs</p>
+                        <p className="llp_dd">{t("derivatives_trading_text_1")}</p>
+                        <p className="io_od">{t("derivatives_trading_text_2")}</p>
+                        <p className="mbl__stng">{t("derivatives_trading_text_3")}</p>
                     </div>
                     <div className="col">
                         <div className="logo__ff">
                             <h3 className="tnn__we">D</h3>
-                            <h1>DeFi</h1>
+                            <h1>{t("defi")}</h1>
                         </div>
-                        <p className="llp_dd">Swap  500k+ Tokens across 10 Chains on NCX Cross Chain Decentralised Exchange</p>
-                        <p className="io_od">NCX DeFi Wallet Mobile App and Google Chrome Extension</p>
-                        <p className="mbl__stng">DeFi Staking and Yield Farms on NCX Multi Chain DEX</p>
+                        <p className="llp_dd">{t("test_defi_1")}</p>
+                        <p className="io_od">{t("test_defi_2")}</p>
+                        <p className="mbl__stng">{t("test_defi_3")}</p>
                     </div>
                     <div className="col">
                         <div className="logo__ff">
                             <h3 className="tt__ff">P</h3>
-                            <h1>Products & Services</h1>
+                            <h1>{t("products_services")}</h1>
                         </div>
-                        <p className="llp_dd">Pay with Crypto at 44 million merchants Worldwide with NCX Crypto Debit Card</p>
+                        <p className="llp_dd">{t("products_services_text_1")}</p>
                         <p className="io_od">
-                            <span>3 Desktop Platforms</span>
-                            <span>3 Mobile Applications</span>
-                            <span>Google Chrome Extension</span>
+                            <span>{t("products_services_text_2")}</span>
+                            <span>{t("products_services_text_3")}</span>
+                            <span>{t("products_services_text_4")}</span>
                         </p>
                         <p className="mbl__stng">
-                            <span>Institutional Services</span> 
-                            <span>Block trades with NCX OTC</span>
+                            <span>{t("products_services_text_5")}</span> 
+                            <span>{t("products_services_text_6")}</span>
                         </p>
                     </div>
                 </div>
