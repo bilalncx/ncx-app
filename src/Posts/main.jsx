@@ -16,7 +16,7 @@ function NCXNewBlogs()
                 <div className="container">
                     <h1>Market Insights</h1>
                     <div className="blg__btn">
-                        <Button href="/latest-articles">Latest Articles</Button>
+                        <Button href="/market-insights">Latest Articles</Button>
                         <Button href="/post-crypto">Crypto</Button>
                         <Button href="/post-markets">Markets</Button>
                         <Button href="/post-forex">Forex</Button>
