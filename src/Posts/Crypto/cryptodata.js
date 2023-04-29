@@ -1,4 +1,75 @@
 const data = [
+  {
+    id: 501,
+    title: 'ETH short-term calls explode amid bullish relief across the market. Assessing…',
+    category: 'Crypto',
+    subCategory: ['ETH', 'market', 'bitcoin'],
+    description: <div className="blog-desc">
+      <p>ETH and most of the crypto market gained bullish momentum following reports of that another bank was at risk of collapse. More so, the price surge was backed by a wave of short-term calls.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 27, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-460.jpg',
+    content: <div className="blog-content">
+    	<p>ETH and most of the crypto market gained bullish momentum following reports of that another bank was at risk of collapse. More so, the price surge was backed by a wave of short-term calls.</p>
+      <ul>
+        <li>ETH bulls make a splash after whales ease up on their sell pressure.</li>
+        <li>Short-term focus as the market eases off recent FUD.</li>
+      </ul>
+    	<p>Ethereum [ETH] bulls are back on top in a surprise move after interfering with a pullback that had the markets concerned about weak demand.</p>	
+    	<p>However, current market data suggested that the ongoing upside might be limited. Understanding the reasons for the rally could help gauge the strength of the current bull run.</p>	
+    	<p>ETH and most of the crypto market gained bullish momentum following reports that another bank was at risk of collapse. More so, the price surge was backed by a wave of short-term calls which may offer some insights into what to expect.</p>
+      <p>The above findings suggested a high probability that the rally might be short-lived since the short-term calls were focused on short-term profits. But this does not necessarily guarantee that prices will not extend their upside in the short-to-mid-term.</p>
+      <p><strong>Assessing the likelihood of a strong ETH rally</strong></p>
+      <p>ETH’s upside will largely depend on whale activity. So what are ETH whales currently up to?</p>
+      <p>Supply distribution showed a slowdown in sell pressure, especially from some whale categories. This included addresses holding between 10,000 and 100,000 ETH.</p>
+      <p>This could be considered noteworthy because the aforementioned category controls most of the circulating supply hence it has the biggest impact on price movements.</p>
+      <p>The potential upside may also be limited by some whales that have been taking profits in the last 24 hours. In addition, ETH exchange flows indicated that exchange inflows maintained a dominant position over exchange outflows.</p>
+      <p>The surge in short-term calls reflected the spike in funding rates in the last 24 hours. This confirmed that there was strong demand for ETH in the derivatives segment.</p>
+      <p>We also saw a drop in leverage in the last few days due to liquidations and market uncertainty. However, the demand for leverage registered a small bounce back in the last 24 hours indicating a return of confidence.</p>
+      <p><strong>A quick look at the price action…</strong></p>
+      <p>ETH exchanged hands at $1,953 at press time, which represented an 8.29% upside in the last two days. The bullish wave facilitated a healthy bounce after a brief interaction with the 50-day moving average.</p>
+      <p>ETH’s MFI maintained a downward trend in the last two days despite the sharp bounce back in the last two days. This lends credence to the expectations of a limited upside.</p>
+      <p>However, investors should also note that the unexpected may also happen just as has been the case with the sudden pivot. ETH and other top cryptos may continue rallying higher if another banking contagion ensues.</p>
+    </div>
+  },
+  {
+    id: 500,
+    title: 'Bitcoin leveraged longs liquidated after brief mid-week recovery above $30,000',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'recovery', '$30,000'],
+    description: <div className="blog-desc">
+      <p>Bitcoin’s long liquidations on 26 April soared to their highest level so far in April. The liquidations also triggered a sharp drop in the estimated leverage ratio as leverage traders quickly shifted to the side of caution.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 27, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-459.jpg',
+    content: <div className="blog-content">
+    	<p>Bitcoin’s long liquidations on 26 April soared to their highest level so far in April. The liquidations also triggered a sharp drop in the estimated leverage ratio as leverage traders quickly shifted to the side of caution.</p>
+    	<ul>
+        <li>Bitcoin leverage traders felt the heat as unexpected crash triggers heavy liquidations.</li>
+        <li>Bulls still in charge despite the liquidation shock.</li>
+      </ul>
+      <p>Bitcoin [BTC] traders were in for a rollercoaster of price performance during 26 April’s trading session. Bitcoin briefly managed to rally back above $30,000, leading to euphoria about its bullish prospects but another crash sent it below $28,000.</p>	
+    	<p>To put things into perspective, Bitcoin’s market cap fell by roughly $49.13 billion from its highest point on that day. This officially makes 26 April the most volatile day in the last seven days. Note that, despite the sharp crash the market cap recovered slightly.</p>	
+	    <p><strong>Leveraged long liquidations fueled the Bitcoin volatility</strong></p>
+      <p>The $30,000 retest attracted an unusual amount of volatility. One major reason for this is that the price was previously on a bearish trend, followed by a brief period of uncertainty regarding market direction.</p>
+      <p>However, the midweek outcome demonstrated a return of bullish volumes, hence the uptick and retest of the $30,000 range which previously demonstrated resistance.</p>
+      <p>Many traders saw the recovery as a sign of demand and a possible push past the resistance range. As such, many traders in the derivatives segment were convinced that Bitcoin would offer a good rally, hence they embraced leverage. This explains why Bitcoin’s recent slap-down resulted in heavy liquidations.</p>
+      <p>Bitcoin’s long liquidations on 26 April soared to their highest level so far in the month. The liquidations also triggered a sharp drop in the estimated leverage ratio as leverage traders quickly shifted to the side of caution.</p>
+      <p>The Bitcoin long liquidations highlight some of the risks in the market. Some analysts believe that the recent rally was a setup for whales to secure exit liquidity.</p>
+      <p>Bitcoin’s brief rally presented the perfect opportunity for a leverage shakedown. Traders were high on hopium given that the market previously struggled to find enough momentum.</p>
+      <p>The news that another major bank was in trouble further supported the bullish expectations. Investors should also note that there might also be a bear trap ahead.</p>
+      <p>Bitcoin has already recovered slightly in the last few hours to its $28,995 press time price. The timing is particularly noteworthy because most investors will be sitting on the sidelines after the mid-week events.</p>
+      <p>There is still some uncertainty regarding BTC’s next move, especially as the market rolls into a new month.</p>
+    </div>
+  },
     {
         id: 440,
         title: 'Bitcoin-Tether Pair Is Most Liquid on Binance Even as TUSD Pair Sees Higher Volume',
@@ -125,6 +196,39 @@ const data = [
           <p>The reason for differentiating reward withdrawals from full exits comes from how Ethereum’s staking system works. Individual stakers or staking services have to lock up exactly 32 ETH to open a node and earn rewards for securing the network. Keeping the accrued rewards in the validator node does not improve the node’s return. Acheson explained that it’s logical for stakers to withdraw rewards, bundle the tokens and establish new nodes to increase potential returns.</p>
           <p>“It seems this is what is happening,” she said. “Overall net inflow has been positive, which suggests that a significant portion of these rewards are being restaked.”</p>
           <p>The trend of reinvesting rewards is also potentially a positive sign for ETH price as it reduces sell pressure, according to Acheson, “which is likely to end up being much less than many feared.“</p>
+        </div>
+      },
+      {
+        id: 502,
+        title: 'Filecoin bulls show signs of weakness and April can see FIL drop below…',
+        category: 'Crypto',
+        subCategory: ['Filecoin', 'bulls', 'FTL'],
+        description: <div className="blog-desc">
+          <p>The retest of the bullish order block at $5.2 saw the bulls come up with only a meek response. The market structure of Filecoin also pointed toward a downtrend.</p>
+        </div>,
+        authorName: 'Akashnath S',
+        authorurl: 'https://ambcrypto.com/author/akashnath-sumukar/',
+        authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+        authorContent: '',
+        createdAt: 'Apr 24, 2023', 
+        cover: 'https://ncx.cx/images/ncx-blog-461.jpg',
+        content: <div className="blog-content">
+          <p>The retest of the bullish order block at $5.2 saw the bulls come up with only a meek response. The market structure of Filecoin also pointed toward a downtrend.</p>
+          <ul>
+            <li>The daily market structure flipped bearish after the drop beneath $5.6.</li>
+            <li>The swift losses left an imbalance that could be filled in the coming days.</li>
+          </ul>
+          <p>The rejection at $6.43 on 15 April was an alarming development for Filecoin. A recent report highlighted how the fall below $6 reinforced bearish pressure. At the time of writing, an imbalance on the charts could offer sellers an opportunity to short FIL upon a bounce.</p>	
+          <p>The metrics were not encouraging for Filecoin either. There were many issues that the network faced, and the selling pressure across the market did not help FIL bulls. The $5 support would likely not withstand a bearish assault.</p>	
+          <p><strong>The retest of a bullish order block noted underwhelming buying pressure</strong></p>
+          <p>A bullish order block on the daily timeframe was highlighted in cyan. It saw a sharp break in the previous market structure and flipped it to bullish on 13 March. The buyers were unable to sustain that pressure in the weeks since.</p>
+          <p>Instead, when the price ventured into the order block and as deep as the $5.2 support, the bulls were able to come up with only a meek response. They were unable to drive the rally past $6.4, and the market structure was bearish once more.</p>
+          <p>The RSI was at 40 showing downward momentum, and the 21 and 55-period moving averages showed bearishness as well. Surprisingly the CMF revealed strong capital inflow to FIL markets over the past ten days. It remained uncertain if this can fuel a rally.</p>
+          <p>A fair value gap was spotted in the $5.87 area. A retest of this region could see the downtrend continue. Therefore short sellers can look to re-enter after a bearish reaction from the $5.82-$6.02 area.</p>
+          <p><strong>Liquidation data showed bulls severely hurt, short-term sentiment in bearish favor</strong></p>
+          <p>According to Coinglass data, long positions worth $3.85 million were liquidated within a 4-hour timespan on 19 April. Since then, long positions continued to suffer much more than the sellers. Over the past 24 hours, the long/short ratio showed 51% of market participants were shorting the asset.</p>
+          <p>The Open Interest data showed discouraged bulls as well. The OI had been falling almost as rapidly as the price. FIL saw a bounce from $5.1 to $5.35 in the past 36 hours.</p>
+          <p>The OI continued to stay at the $120 million mark during this time, therefore we can conclude that bullish speculators remained sidelined.</p>
         </div>
       },
       {

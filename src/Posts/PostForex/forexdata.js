@@ -1,4 +1,49 @@
 const data = [
+  {
+    id: 502,
+    title: 'EUR/USD Forecast – Euro Continues to Threaten Upside Breakout',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro initially rallied during the trading session on Thursday but still sees a lot of noise just above that could cause some headaches. Ultimately, the market does look a little stretched, but if we do take off and break above the 1.11 level, the market could open up and move to the 1.1250 level, perhaps even further than that. Looking at this chart, the market is likely to continue to see a lot of upward pressure, but if we were to turn around and break down below the 1.09 level, the market could drop significantly. At that point, we would be threatening the 50-Day EMA and of course, a plethora of areas where we’ve seen some buying in the past.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 27, 2023 - 4:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-465.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The Euro initially rallied during the trading session on Thursday but still sees a lot of noise just above that could cause some headaches. Ultimately, the market does look a little stretched, but if we do take off and break above the 1.11 level, the market could open up and move to the 1.1250 level, perhaps even further than that. Looking at this chart, the market is likely to continue to see a lot of upward pressure, but if we were to turn around and break down below the 1.09 level, the market could drop significantly. At that point, we would be threatening the 50-Day EMA and of course, a plethora of areas where we’ve seen some buying in the past.</p>
+	    <p>All things being equal, I think this is a situation where the market certainly favors the upside, but it’s also a bit of a misunderstanding because even if the US does go into recession, it’s never happened that the US goes into a recession without the rest of the world following. In other words, sooner or later, we are going to see a flush lower, but right now it looks like we continue to see a lot of back-and-forth. In fact, I would not be surprised at all to see the market simply grind sideways for a while as we try to figure things out between now and the next Federal Reserve meeting.</p>	
+	    <p>The market will continue to be noisy, as we have seen in FX markets worldwide. With this being the case, the market is likely to see a lot of choppy behavior, and therefore a lot of confusion. I think at this point in time we probably have a situation where you are more likely than not going to see a lot of short-term opportunities in a range-bound type of system going forward. Ultimately, I do favor the upside in the short-term, but longer term I do think that the Euro is going to start to have to deal with the idea of gravity. With that, it will take a lot of patience to wait and get the opportunity to short, so the market is one that you will be playing at “2 speeds.”</p>
+    </div>
+  },
+  {
+    id: 501,
+    title: 'AUDUSD Forecast – Australian Dollar Bounces',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has bounced a bit during the trading session on Thursday, as the 0.66 level has offered support previously. At this point, we are trying to determine whether or not we are going to break down below that level and continue to go further down. That being said, the market initially tries to rally during the session, but is starting to struggle a bit with hanging onto the gain. The market continues to see a lot of noise, but it’s also worth pointing out not only do we have a bearish flag, but we also have a bit of a “H pattern” forming as well.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 27, 2023 - 4:32 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-464.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has bounced a bit during the trading session on Thursday, as the 0.66 level has offered support previously. At this point, we are trying to determine whether or not we are going to break down below that level and continue to go further down. That being said, the market initially tries to rally during the session, but is starting to struggle a bit with hanging onto the gain. The market continues to see a lot of noise, but it’s also worth pointing out not only do we have a bearish flag, but we also have a bit of a “H pattern” forming as well.</p>
+	    <p>The 0.67 level above features the 50-Day EMA, which of course could offer quite a bit of resistance as well. All things being equal, this is a market that I think eventually sees sellers come back into the market to drop yet again. That being said, if the market were to take off to the upside, then clearing the 50-Day EMA could open up the possibility of a move to the 0.68 level, which is currently where the 200-Day EMA resides.</p>	
+	    <p>I do believe this point in time, we will see a “fade the rally” type of market, and therefore it’s likely it’s probably a scenario where it’s difficult to get overly bullish on the Australian dollar, especially as we have a lot of economic headwinds out there. Remember, the Australian dollar is very sensitive to economic news, and of course global trade. It’s a commodity currency, and that is probably going to be one of its weaknesses going forward.</p>	
+	    <p>The Federal Reserve comes into focus as well, due to the fact that the central bank will more likely than not continue to stay “tighter for longer”, despite the fact that a lot of traders out there wish differently. It’s been a bit of a standoff between the trading community and the Federal Reserve, and eventually something has to give way. I believe we are going to see that happen rather soon, so therefore I’ll be paying close attention to a potential breakdown as it certainly looks as if that’s the direction we will be heading eventually.</p>
+    </div>
+  },
 {
     id: 425,
     title: 'USD/JPY Forecast – US Dollar Rallies Against Yen',
