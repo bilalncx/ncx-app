@@ -3,61 +3,64 @@ import './8.css';
 import HeaderImage1 from '../../../images/indices_head-1.png';
 import HeaderImage2 from '../../../images/indices_head-2.png';
 import Button from "@mui/material/Button";
+import { useTranslation } from "react-i18next";
+
 
 function Indices8(){
+    const { t } = useTranslation();
     return(
         <div className="indices__hdd">
             <div className="container">
                 <div className="row">
                     <div className="col tvt__f">
-                        <h1>Trade Derivatives with up to 200x Leverage</h1>
+                        <h1>{t("trade_derivatives_with_up_to_200k_leverage")}</h1>
                         <div className="points__ff">
-                            <span>Crypto Derivatives</span>
-                            <span>Equities (US, EU, Asia Stock Markets)</span>
+                            <span>{t("Crypto_derivatives")}</span>
+                            <span>{t("equities_us_eu_asia_stock_market")}</span>
                         </div>
                         <div className="points__ff">
-                            <span>Over 500 Trading Pairs</span>
-                            <span>Oil & Gas Trading</span>
-                            <span>Forex Trading</span>
+                            <span>{t("over_500_trading_pairs")}</span>
+                            <span>{t("oil_gas_trading")}</span>
+                            <span>{t("forex_trading")}</span>
                         </div>
                         <div className="points__ff">
-                            <span>Metals Trading</span>
-                            <span>ETFs Trading</span>
-                            <span>Trade with up to 100x Leverage</span>
+                            <span>{t("metals_trading")}</span>
+                            <span>{t("etfs_trading")}</span>
+                            <span>{t("trade_with_up_100x_leverage")}</span>
                         </div>
                         <div className="points__ff">
-                            <span>Metals Trading</span>
-                            <span>Trade World Markets with NCX Superior Execution</span>
+                            <span>{t("metals_trading")}</span>
+                            <span>{t("trade_world_markets_ncx_superior_execution")}</span>
                         </div>
                         <div className="hh__btn">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">Sign Up</Button>
-                            <Button href="#" className="get__ap">Get the App</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
+                            <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
                     </div>
                     <div className="col tvt__f mobile">
-                        <h1>Trade Derivatives with up to 200x Leverage</h1>
+                        <h1>{t("trade_derivatives_with_up_to_200k_leverage")}</h1>
                         <div className="points__ff">
-                            <span>Crypto Derivatives</span>
-                            <span>Oil & Gas Trading</span>
+                            <span>{t("Crypto_derivatives")}</span>
+                            <span>{t("oil_gas_trading")}</span>
                         </div>
                         <div className="points__ff">
-                            <span>Equities (US, EU, Asia Stock Markets)</span>
-                            <span>Metals Trading</span>
+                            <span>{t("equities_us_eu_asia_stock_market")}</span>
+                            <span>{t("metals_trading")}</span>
                         </div>
                         <div className="points__ff">
-                            <span>Forex Trading</span>
-                            <span>Over 500 Trading Pairs</span>
+                            <span>{t("forex_trading")}</span>
+                            <span>{t("over_500_trading_pairs")}</span>
                         </div>
                         <div className="points__ff">
-                            <span>ETFs Trading</span>
-                            <span>Trade with up to 100x Leverage</span>
+                            <span>{t("etfs_trading")}</span>
+                            <span>{t("trade_with_up_100x_leverage")}</span>
                         </div>
                         <div className="points__ff">
-                            <span>Trade World Markets with NCX Superior Execution</span>
+                            <span>{t("trade_world_markets_ncx_superior_execution")}</span>
                         </div>
                         <div className="hh__btn">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">Sign Up</Button>
-                            <Button href="#" className="get__ap">Get the App</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
+                            <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
                     </div>
                     <div className="col mgg">

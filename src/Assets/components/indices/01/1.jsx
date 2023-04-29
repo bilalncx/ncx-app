@@ -1,8 +1,10 @@
 import { React, useState } from "react";
 import './1.css';
+import { useTranslation } from "react-i18next";
 
 function Indices1()
 {
+    const { t } = useTranslation();
     const [toggleState, setToggleState] = useState(1);
     const toggleTab = (index) => {
         setToggleState(index);
@@ -21,43 +23,43 @@ function Indices1()
     return(
         <div className="trade__cfd">
             <div className="container">
-                <h1 className="fg__rer">Trade Derivatives with low Spreads</h1>
+                <h1 className="fg__rer">{t("trade_derivatives_with_low_spreads")}</h1>
                 <div className="indices__tab">
                     <button
                         className={toggleState === 1 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(1)}
                     >
-                    Crypto
+                    {t("crypto")}
                     </button>
                     <button
                         className={toggleState === 2 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(2)}
                     >
-                    Stocks
+                    {t("stocks")}
                     </button>
                     <button
                         className={toggleState === 3 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(3)}
                     >
-                    Forex
+                    {t("forex")}
                     </button>
                     <button
                         className={toggleState === 4 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(4)}
                     >
-                    Commodities
+                    {t("commodities")}
                     </button>
                     <button
                         className={toggleState === 5 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(5)}
                     >
-                    EFTs
+                    {t("efts")}
                     </button>
                     <button
                         className={toggleState === 6 ? "ind__tab active" : "ind__tab"}
                         onClick={() => toggleTab(6)}
                     >
-                    Indices
+                    {t("indices")}
                     </button>
                 </div>
                 <div className="ind__cont_tabs">
@@ -479,19 +481,19 @@ function Indices1()
                                 className={toggleStateequity === 1 ? "stock__tab active" : "stock__tab"}
                                 onClick={() => toggleTabequity(1)}
                             >
-                            US Market
+                            {t("us_market")}
                             </button>
                             <button
                                 className={toggleStateequity === 2 ? "stock__tab active" : "stock__tab"}
                                 onClick={() => toggleTabequity(2)}
                             >
-                            EU Market
+                            {t("eu_market")}
                             </button>
                             <button
                                 className={toggleStateequity === 3 ? "stock__tab active" : "stock__tab"}
                                 onClick={() => toggleTabequity(3)}
                             >
-                            Asia Market
+                            {t("asia_market")}
                             </button>
                         </div>
                         <div className="inner__contt">
@@ -1019,7 +1021,7 @@ function Indices1()
                                 className={toggleStatecontent === 7 ? "crypto__tab active" : "crypto__tab"}
                                 onClick={() => toggleTabcontent(7)}
                             >
-                            Others
+                            {t("others")}
                             </button>
                         </div>
                         <div className="inner__contt">

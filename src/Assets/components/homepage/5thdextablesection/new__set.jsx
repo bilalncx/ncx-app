@@ -10,23 +10,25 @@ import WalletMobileVideo from '../../../images/wallet_mbl.mp4';
 import WalletMobileVideo2 from '../../../images/wallet_mbl2.mp4';
 import {ReactComponent as NCXBadge1} from '../../../images/ncx-badge.svg';
 import {ReactComponent as NCXBadge2} from '../../../images/ncx-badge2.svg';
+import { useTranslation } from "react-i18next";
 
 function Indices5()
 {
+    const { t } = useTranslation();
     return(
         <div className="trading__platform">
             <div className="container">
-                <h1 className="fg__rer">NCX Innovative Platforms, Products and Applications</h1>
+                <h1 className="fg__rer">{t("ncx_innovative_platforms_products_and_spplications")}</h1>
                 <div className="plat__ggre row">
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>NCX App</h2>
+                            <h2>{t("ncx_app")}</h2>
                             <NCXBadge1 />
                         </div>
-                        <p>Your mobile trading experience. Everything you need to trade on the go.</p>
+                        <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             <video 
@@ -43,13 +45,13 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>NCX DeFi Wallet App</h2>
+                            <h2>{t("ncx_defi_wallet_app")}</h2>
                             <NCXBadge2 />
                         </div>
-                        <p>Hold the private keys to your assets - Store, Swap, Send, Receive, Buy Crypto in NCX non Custodial DeFi Wallet, built on 12 Blockchain Networks</p>
+                        <p>{t("ncx_defi_wallet_app_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img gf__grthbh">
                             <video 
@@ -68,13 +70,13 @@ function Indices5()
                 <div className="plat__ggre row">
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>NCX cTrader App</h2>
+                            <h2>{t("ncx_c_trader_app")}</h2>
                             <CTrader2 />
                         </div>
-                        <p>Your mobile trading experience. Everything you need to trade on the go.</p>
+                        <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
                             <img src={Device4} alt="ncx_platform" />
@@ -82,13 +84,13 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>NCX cTrader Web</h2>
+                            <h2>{t("ncx_c_trader_web")}</h2>
                             <CTrader1 />
                         </div>
-                        <p>Elevate your trading with innovation. Advanced tools for serious traders.</p>
+                        <p>{t("ncx_c_trader_web_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
                             <img src={Device2} alt="ncx_platform" />
@@ -98,13 +100,13 @@ function Indices5()
                 <div className="plat__ggre row">
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>NCX cTrader Windows</h2>
+                            <h2>{t("ncx_c_trader_windows")}</h2>
                             <CTrader1 />
                         </div>
-                        <p>Automate your trading on the most advanced platform for Derivatives trading.</p>
+                        <p>{t("home_c_trade_window_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
                             <img src={Device1} alt="ncx_platform" />
@@ -112,13 +114,13 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>NCX cTrader iOS</h2>
+                            <h2>{t("ncx_c_trader_ios")}</h2>
                             <CTrader1 />
                         </div>
-                        <p>Discover the next generation platform for Crypto Derivatives, Commodities, Forex and Stock markets.</p>
+                        <p>{t("ncx_c_trader_ios_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="ipad__gg">
                             <img src={Device3} alt="ncx_platform" />
