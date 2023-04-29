@@ -7,8 +7,8 @@ const ArticleItem = ({
     article: {
         id,
         title,
-        description,
-        createdAt,
+        excerpt,
+        date,
         cover,
     },
     }) => {
@@ -25,9 +25,9 @@ const ArticleItem = ({
                 </Link>
             </div>
             <div className="blg__cnt">
-                <p className='date'>{createdAt}</p>
+                <p className='date'>{date}</p>
                 <h3>{title}</h3>
-                <p>{description}</p>
+                <p>{excerpt}</p>
             </div>
         </div>
     );

@@ -1,6 +1,7 @@
 const data = [
     {
         id: 440,
+        name: 'blog-post-title',
         title: 'Bitcoin-Tether Pair Is Most Liquid on Binance Even as TUSD Pair Sees Higher Volume',
         category: 'Crypto',
         subCategory: ['Bitcoin', 'Tether', 'PAIR'],

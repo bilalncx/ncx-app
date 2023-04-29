@@ -69,7 +69,38 @@ function PostListingSection()
 
                     <div className="col rght_br">
                         <div className="bardd">
-                            
+                            <h1 className="ma__rere">Trending Articles</h1>
+                            <a href="https://ncx.cx/insights/442" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
+                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
+                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            </a>
+                            <a href="https://ncx.cx/insights/442" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
+                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
+                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            </a>
+                            <a href="https://ncx.cx/insights/442" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
+                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
+                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            </a>
+                            <a href="https://ncx.cx/insights/442" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
+                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
+                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            </a>
+                            <a href="https://ncx.cx/insights/442" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
+                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
+                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            </a>
+
                         </div>
                     </div>
 
