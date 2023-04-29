@@ -50,8 +50,9 @@
     flex: 0 0 68% !important;
 }
 .nsghts.row .rght_br{
-    padding: 0px;
+    padding: 0px 0px 30px 0px;
     flex: 0 0 28% !important;
+    height: fit-content;
 }
 .art_grf.row {
     margin: 0px;

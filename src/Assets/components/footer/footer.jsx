@@ -51,7 +51,7 @@ function MyFooter()
                     <div class="second-column ftr-col">
                         <h1>{t("services")}</h1>
                         <ul className="ul-one">
-                        <li><a href="https://ncx.cx/insights">{t("ncx_insights")}</a></li>
+                        <li><a href="/market-insights">{t("ncx_insights")}</a></li>
                             <li><a href="/rewards">{t("rewards_program")}</a></li>
                             <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
                             <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
@@ -59,7 +59,7 @@ function MyFooter()
                             <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                             <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
                             <li><a href="#">{t("support")}</a></li>
-                            <li><a href="https://ncx.cx/insights">{t("media_press")}</a></li>
+                            <li><a href="/market-insights">{t("media_press")}</a></li>
                         </ul>
                         {/* <h1>Company</h1>
                         <ul className="ul-two">
@@ -143,7 +143,7 @@ function MyFooter()
                     </ul>
                     <ul>
                         <h1>{t("services")}</h1>
-                        <li><a href="https://ncx.cx/insights">{t("ncx_insights")}</a></li>
+                        <li><a href="/market-insights">{t("ncx_insights")}</a></li>
                         <li><a href="/rewards">{t("rewards_program")}</a></li>
                         <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
                         <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
@@ -151,7 +151,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                         <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
                         <li><a href="#">{t("support")}</a></li>
-                        <li><a href="https://ncx.cx/insights">{t("media_press")}</a></li>
+                        <li><a href="/market-insights">{t("media_press")}</a></li>
                     </ul>
                 </div>
                 {/* <div className="mob-foot-ul">

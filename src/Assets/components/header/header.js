@@ -55,7 +55,7 @@ export default function Header() {
                             <div className="community_inner">
                               <div className="main_service">
                                 <a href="/rewards">{t("rewards_program")}</a>
-                                <a href="https://ncx.cx/insights">{t("news_insights")}</a>
+                                <a href="/market-insights">{t("news_insights")}</a>
                                 <a href="https://ncx.cx/market-makers">{t("market_makers")}</a>
                                 <a href="https://ncx.cx/institutional">{t("institutional_services")}</a>
                                 <a href="https://ncx.cx/ncx-otc">{t("otc")}</a>
@@ -74,7 +74,7 @@ export default function Header() {
                             <div className="social_links">
                               <div className="social_link_inner">
                                 <a href="/about-us">About Us</a>
-                                <a href="https://ncx.cx/insights">{t("media_press")}</a>
+                                <a href="/market-insights">{t("media_press")}</a>
                                 <a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a>
                                 <a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a>
                                 <a href="https://ncx.cx/privacy-policy">{t("privacy_policy")}</a>
@@ -234,7 +234,7 @@ export default function Header() {
                         <a href="/rewards">{t("rewards")}</a>
                       </li>
                       <li>
-                        <a href="https://ncx.cx/insights">{t("news_insights")}</a>
+                        <a href="/market-insights">{t("news_insights")}</a>
                       </li>
                       {/* <li>
                         <a className="btn01 signup launching-btn">Sign Up</a>

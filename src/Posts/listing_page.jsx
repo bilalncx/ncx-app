@@ -70,37 +70,36 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
-                            <a href="https://ncx.cx/insights/442" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
-                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
-                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
-                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            <a href="/post-indices/501" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-463.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 28, 2023 - 6:03 PM</p>
+                                <h1>Dow Jones Reverses After Key Inflation Data. Amazon Dives, While First Solar Plunges 12% On Earnings Miss</h1>
+                                <p>The Dow Jones Industrial Average reversed higher Friday as a pair of closely watched inflation gauges were released. Amazon.com (AMZN) stock sold off after its Q1 earnings, while First Solar (FSLR) plunged on an earnings miss.</p>
                             </a>
-                            <a href="https://ncx.cx/insights/442" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
-                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
-                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
-                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            <a href="/post-markets/439" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-454.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 26, 2023 - 2:10 PM</p>
+                                <h1>US Futures Rise as Big-Tech Earnings Bolster Mood: Markets Wrap</h1>
+                                <p>(Bloomberg) -- US equity futures gained as strong earnings from tech majors Alphabet Inc. and Microsoft Corp. after the Wall Street close offered investors some reassurance amid continued concerns over the health of the economy.</p>
                             </a>
-                            <a href="https://ncx.cx/insights/442" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
-                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
-                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
-                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            <a href="/post-crypto/422" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-437.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 25, 2023 - 8:16 AM</p>
+                                <h1>CoinShares says weekly investment in Ethereum-linked products rebounds after hard fork</h1>
+                                <p>Ethereum-linked digital asset investment products saw inflows of around US$17 million in the week ending April 21, up from US$300,000 in the previous week, appearing to show investor confidence following the blockchain’s milestone upgrade on April 12, according to a report from European cryptocurrency investment firm CoinShares.</p>
                             </a>
-                            <a href="https://ncx.cx/insights/442" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
-                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
-                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
-                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
+                            <a href="/post-crypto/423" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-438.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 25, 2023 - 7:16 AM</p>
+                                <h1>Bitcoin loses ground, Ether dips even as inflows rise; Litecoin edges up, with halving cited</h1>
+                                <p>Bitcoin fell on Tuesday morning in Asia to trade below the US$27,500 support line, with the slide ascribed to more profit-taking after this year’s strong gains. Ether and most other top 10 non-stablecoin cryptocurrencies traded lower amid a broader correction in the crypto market.</p>
                             </a>
-                            <a href="https://ncx.cx/insights/442" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-457.jpg" alt="art_pic"/></div>
-                                <p className="dat">Apr 26, 2023 - 4:06 PM</p>
-                                <h1>Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival</h1>
-                                <p>Dow Jones futures and S&P 500 futures rose slightly Wednesday morning while Nasdaq futures climbed solidly as Microsoft (MSFT), Google parent Alphabet (GOOGL) and Boeing headlined big earnings.</p>
-                            </a>
-
+                            {/* <a href="/post-crypto/441" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
+                                <p className="dat">Apr 24, 2023 - 9:43 PM</p>
+                                <h1>Bitcoin could soar 268% to $100,000 as crypto winter is finally over, Standard Chartered says</h1>
+                                <p>The crypto winter has melted away, and bitcoin is set to flourish, a Standard Chartered note forecasted on Monday.</p>
+                            </a> */}
                         </div>
                     </div>
 
