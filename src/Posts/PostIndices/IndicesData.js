@@ -1,5 +1,103 @@
 const data = [
   {
+    id: 501,
+    title: 'Dow Jones Reverses After Key Inflation Data. Amazon Dives, While First Solar Plunges 12% On Earnings Miss',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Inflation', 'Amazon'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average reversed higher Friday as a pair of closely watched inflation gauges were released. Amazon.com (AMZN) stock sold off after its Q1 earnings, while First Solar (FSLR) plunged on an earnings miss.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 28, 2023 - 6:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-463.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average reversed higher Friday as a pair of closely watched inflation gauges were released. Amazon.com (AMZN) stock sold off after its Q1 earnings, while First Solar (FSLR) plunged on an earnings miss.</p>
+    	<p>The Personal Consumption Expenditures Price Index matched expectations, rising 0.1% for the month of March, with an annual increase of 4.2%, which also met estimates. The Core PCE price index climbed 0.3% on the month, with an annual increase of 4.6%. The monthly rate matched Wall Street's estimates, while the annual increase came in slightly higher than expected.</p>	
+    	<p>Personal income climbed 0.3%, more than the expected 0.2% rise for March. The Federal Reserve will be particularly focused on prices for nonhousing services, which have remained firm as food and energy prices have eased.</p>	
+    	<p>Further, the Employment Cost Index, the Fed's preferred measure of wage growth, rose 1.2%, slightly higher than estimates. Seen as a key to services inflation, the hope is it will show that wage growth easing to the 3.5% annual rate that the Fed sees as consistent with its inflation target.</p>
+      <h3>Earnings Movers: Amazon, First Solar</h3>
+      <p>Amazon stock lost 5% Friday morning after the e-commerce giant reported first-quarter earnings that topped Wall Street targets amid cost-cutting. Management's earnings call commentary raised questions over how long a slowdown in cloud computing growth will persist.</p>
+      <p>Other key earnings movers include Chevron (CVX), Cloudflare (NET), First Solar (FSLR), Intel (INTC) and Snap (SNAP).</p>
+      <p>Dow Jones energy giant Chevron fell 1% despite beating Q1 earnings and sales targets.</p>
+      <p>Cloudflare reported first-quarter earnings that topped estimates while revenue roughly met expectations. But Cloudflare stock plunged 25% early Friday on a weak June-quarter and full-year 2023 revenue outlook.</p>
+      <p>First Solar badly missed expectations for the first quarter. FSLR stock dived 12% in early trade.</p>
+      <p>Chipmaker Intel beat Wall Street's targets for the first quarter but offered a mixed outlook for the second quarter. Intel stock jumped 7.7% in morning trade.</p>
+      <p>Finally, Snapchat parent Snap tumbled 18% after missing revenue targets.</p>
+      <h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) traded down 1% Friday morning. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were mixed after today's stock market open.</p>
+      <p>InMode (INMD), IBD Leaderboard stock Las Vegas Sands (LVS), Lululemon Athletica (LULU) and Paccar (PCAR) — as well as Dow Jones stocks JPMorgan Chase (JPM), Nike (NKE) and Visa (V) — are among the top stocks to watch in the now-struggling stock market.</p>
+      <p>Nike was featured in this week's Stocks Near A Buy Zone column. InMode was a recent IBD Stock Of The Day. Paccar received an IBD Stock Analysis close up on Thursday.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Friday's opening bell, the Dow Jones Industrial Average rose 0.1%, and the S&P 500 edged higher. The tech-heavy Nasdaq composite dipped 0.1% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) moved down 0.1%, while the SPDR S&P 500 ETF (SPY) traded up 0.1% early Friday.</p>
+      <p>The 10-year U.S. Treasury yield on Friday traded down to 3.44%. The 10-year yield is set for solid losses this week, on pace to end a two-week rebound though it is still squarely off its early-April lows.</p>
+      <p>U.S. oil prices moved modestly higher Friday morning, but remained down a bit more than 3% for the week. West Texas Intermediate futures are just above $75 a barrel, after pulling back from an April 12 high above $83 a barrel and trading near what has been a mean level of support since December.</p>
+      <h3>Stock Market Rally Struggles</h3>
+      <p>The Dow Jones Industrial Average rallied 1.6% and the S&P 500 advanced 2% Thursday. Both ended two-day skids and found support around their 50-day lines. The tech-heavy Nasdaq composite surged 2.4%, closing at its highest level since April 19. Again, the small-cap Russell 2000 was the laggard, climbing 1.2%, just off its late-March lows.</p>
+      <p>Thursday's Big Picture column commented, "Despite Thursday's big gain, the stock market outlook remains in an 'uptrend under pressure.' IBD recommends an exposure level 20% to 40% due to the volatile daily market action. Weak breadth is another concern lately."</p>
+      <p>Now is an important time to read IBD's The Big Picture column with the stock market now struggling to maintain its uptrend.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: JPMorgan, Nike, Visa</h3>
+      <p>JPMorgan shares rose more than 1.3% Thursday, finding support around their 50-day line. Shares are tracing a cup-with-handle buy point at 141.88, according to IBD MarketSmith pattern recognition. JPM stock fell 0.6% early Friday.</p>
+      <p>Nike shares rebounded 1.5% Thursday, holding above their 50-day line and about 2% away from a cup-with-handle's 127.59 buy point. NKE stock moved down 0.4% in early trade.</p>
+      <p>Visa shares are still below a 230.15 cup-with-handle buy point; they rose 0.4% Thursday. And V stock dropped around 0.4% in early morning trade.</p>
+      <h3>Best Stocks To Buy And Watch: InMode, Paccar</h3>
+      <p>InMode finished Thursday just shy of a cup-with-handle's 38.48 buy point, with a 0.1% loss, according to IBD MarketSmith. INMD stock rose 0.7% Friday morning.</p>
+      <p>Backstory: The company makes noninvasive platforms that tighten skin and obliterate fat cells. It's also moving into the women's health realm with gynecological offerings. UBS analyst Danielle Antalffy says InMode provides a lower-cost alternative to traditional plastic surgery.</p>
+      <p>Paccar is trying to find support around its 50-day line, as it continues to build a flat base with a 76.82 buy point. An early entry at 75.83 is also in play. PCAR stock was unchanged Friday.</p>
+      <p>Backstory: The producer of heavy-duty semi-trucks topped Q1 estimates on Tuesday, reporting a 96% earnings spike. At CES 2022, Paccar exhibited connected and autonomous trucks. The company behind the Kenworth, Peterbilt and DAF nameplates showcased three vehicles.</p>
+      <h3>Las Vegas Sands, Lululemon</h3>
+      <p>IBD Leaderboard stock Las Vegas Sands remains in the 5% buy range above a 60.40 buy point in a cup with handle amid Thursday's 0.7% gain. The buy zone tops out at 63.42. LVS stock was down 0.4% Friday morning.</p>
+      <p>Backstory: Last week, Las Vegas Sands smashed earnings expectations for the first quarter and signaled a "robust recovery" in China's Macau gaming hub. The casino stock posted earnings of 28 cents per share, up from a loss of 40 cents a year ago. Revenue vaulted nearly 125% to $2.12 billion.</p>
+      <p>Lululemon is rebounding from its 371.36 entry in a cup with handle, with a 1.4% rise Thursday. Shares were down 0.3% Friday morning.</p>
+      <p>Backstory: On March 28, Lululemon hiked 2023 guidance after topping earnings and revenue estimates for the holiday fourth quarter, sparking a 12.7% surge on March 29. The yogawear and athleisure apparel retailer's final fourth-quarter results also exceeded its own preliminary announcement, issued in early January.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock bounced 4.2% Thursday, still near its lowest level since late January. In recent weeks, shares triggered the 7%-8% loss rule from a buy point at 200.76 in a cup with handle. And they are trading sharply below their 50-day line. The stock closed Thursday 52% off its 52-week high.</p>
+      <p>TSLA stock threatened to give up Thursday's gains, trading down 1% early Friday.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares rallied 2.8% Thursday, closing at their highest level since late August. They remain above a 157.48 buy point and out of the buy range that runs up to 165.35. AAPL stock rose 0.1% early. Apple reports its fiscal second-quarter results on Thursday.</p>
+      <p>Microsoft shares jumped another 3.2% Thursday, set for weekly gains of nearly 7%. Shares are out of buy range past a flat base's 276.86 buy point. The 5% buy area went up to 290.70. On Friday morning, MSFT stock lost 0.3%.</p>
+    </div>
+  },
+  {
+    id: 500,
+    title: 'FTSE 100: NatWest profits surge on the back of higher interest rates',
+    category: 'Indices',
+    subCategory: ['FTSE', 'NatWest', 'Profits'],
+    description: <div className="blog-desc">
+      <p>NatWest’s (NWG.L) pre-tax operating profit rose 49% year on year to £1.8bn ($2.2bn) thanks to higher interest rates but tumbling customer deposits disappointed investors and analysts.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 28, 2023 - 1:50 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-462.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>NatWest’s (NWG.L) pre-tax operating profit rose 49% year on year to £1.8bn ($2.2bn) thanks to higher interest rates but tumbling customer deposits disappointed investors and analysts.</p>
+    	<p>The group reported an operating profit before tax of £1.8bn for the first three months of the year.</p>	
+    	<p>NatWest Group, which includes Royal Bank of Scotland and Ulster Bank, also saw its total income surge by more than a third over the period, helped by higher interest rates which makes it more expensive to borrow.</p>	
+    	<p>Revenue increased by 29% to £3.9bn — just above analysts’ estimates of £3.8bn.</p>
+      <p>Natwest shares slid 5.8% on Friday.</p>
+      <p>NatWest Group chief executive Alison Rose said: “Through a period of significant disruption and uncertainty, we continue to stand alongside the people, families and businesses we serve, providing targeted support and growing our lending responsibly.</p>
+      <p>“Our disciplined and consistent approach to risk management means that arrears and impairments remain low.</p>
+      <p>“By monitoring customer behaviour and looking closely for signs of financial distress, we are able to put in place proactive measures to help those who are struggling right now and those who are worried about the future.”</p>
+      <p>NatWest and the other high street lenders have been criticised over how slowly they passed on the benefits of higher rates to customers and earning disproportionate profits by increasing rates on mortgages quicker than rates on savings products.</p>
+      <p>Chief executive Rose originally refused to attend a parliamentary hearing with the Treasury select committee but U-turned following public pressure.</p>
+      <p>Richard Hunter, head of markets at Interactive Investor, said: “Set against the wider banking turmoil of recent months the solid and dependable, if a little unexciting, performance which NatWest has delivered is just what the doctor ordered for more risk-averse investors.”</p>
+      <p>Personal current account balances decreased by £2.6bn and personal savings decreased by £1.8bn in the first quarter.</p>
+      <p>AJ Bell investment director Russ Mould, said: “A drop in customer deposits, while nothing like on the scale seen at other crisis-ridden banks, has helped put the wind up investors in NatWest.</p>
+      <p>“The gap between the amount NatWest charges for loans compared to what it pays out for deposits, also known as the net interest margin, is also tighter than many had hoped.</p>
+      <p>“This runs counter to Barclays’ (BARC.L) own first quarter numbers which showed higher base interest rates were feeding into a strong net interest margin.</p>
+      <p>“The disappointing news elsewhere overshadowed NatWest’s better than expected earnings for the first quarter — driven by higher non-interest income and lower impairments on bad debts."</p>
+      <p>NatWest chair Howard Davies this week said that "poor risk management" was largely behind recent bank failures and that NatWest remains resilient.</p>
+    </div>
+  },
+  {
       id: 442,
       title: 'Dow Jones Futures Rise On Microsoft, Boeing; First Republic Fights For Survival',
       category: 'Indices',
