@@ -188,13 +188,13 @@
     color: #65E4A1;
 }
 .row.body-text .txt-blue:nth-child(2):before{
-    border: 1px solid #55C8E4;
-    filter: drop-shadow(0px 0px 25px rgba(94, 211, 240, 0.6));
+    border: 1px solid #5ED3F0;
+    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
     background: #000;
 }
 .row.body-text.second .txt-blue:nth-child(2):before{
-    border: 1px solid #55C8E4;
-    filter: drop-shadow(0px 0px 25px rgba(94, 211, 240, 0.6));
+    border: 1px solid #5ED3F0;
+    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
     background: #000;
 }
 
