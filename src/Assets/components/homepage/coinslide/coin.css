@@ -43,7 +43,6 @@
     text-decoration: none;
 }
 #home_coins .coin__tb a.dx_drp{
-    width: 140px;
     height: 44px;
     background: none;
     border-radius: 50px;
@@ -51,6 +50,8 @@
     font-size: 16px;
     font-family: 'urbanist-light';
     text-transform: capitalize;
+    min-width: fit-content;
+    padding: 0 2rem;
 }
 #home_coins .coin__tb a.dx_drp:hover{
     border: 1px solid #5ED3F0;

@@ -563,12 +563,13 @@ a.sin__op {
 a.cl__drp {
     border: 1px solid #5ED3F0;
     border-radius: 50px;
-    min-width: 150px;
     height: 44px;
     color: #FFFFFF;
     font-size: 16px;
     font-family: 'urbanist-light';
     text-transform: capitalize;
+    min-width: fit-content;
+    padding: 0 2rem;
 }
 a.cl__drp:hover{
     background: #5ED3F0;
