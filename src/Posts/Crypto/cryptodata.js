@@ -1,5 +1,41 @@
 const data = [
   {
+    id: 503,
+    title: 'Bitcoin could jump nearly 70% if the US defaults on its debt, Standard Chartered analyst says',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Jump', 'US'],
+    description: <div className="blog-desc">
+      <p>Bitcoin could climb by $20,000 if a US default happens, Standard Chartered's Geoff Kendrick said.</p>
+    </div>,
+    authorName: 'Filip De Mott',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 29, 2023 - 4:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-468.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Bitcoin could climb by $20,000 if a US default happens, Standard Chartered's Geoff Kendrick said.</li>
+        <li>Not every crypto would act similarly, with some behaving more like equities, he told Insider.</li>
+        <li>"So actually, the optimal trade would probably be long bitcoin, short ethereum."</li>
+      </ul>
+    	<p>With the looming debt ceiling crisis showing no signs of a resolution, both bond and equity markets have become jittery.</p>
+    	<p>But while some investors are fearful of a historic default, one asset could potentially rise through such a situation: Bitcoin.</p>	
+    	<p>Describing a US default as a "low-probability, high-impact event," Geoff Kendrick, head of FX research at Standard Chartered, said it may cause the bitcoin to jump by about $20,000, representing an increase of 68% from current levels.</p>	
+    	<p>He told Insider that's because the top cryptocurrency by market cap has a reputation for performing well in periods of stress and is often seen as a safe haven, especially as it is a decentralized asset.</p>
+      <p>But Kendrick doesn't think bitcoin would rally in a straight line in the event of a US default, saying "it probably comes a bit lower on day one or day two or week." In that case, bitcoin could dip by $5,000 initially, then jump by $25,000, he estimated.</p>
+      <p>And not every cryptocurrency would follow bitcoin's behavior, he added, with others like ethereum trading more like stocks, which would likely fall in a default.</p>
+      <p>"So actually, the optimal trade would probably be long bitcoin, short ethereum. That sort of mix would probably be a good expression of this," Kendrick said.</p>
+      <p>If Congress fails to lift the $31.4 trillion federal debt limit, a default could come sometime in the summer — an event that could cause seismic ruptures global markets. On Tuesday, Treasury Secretary Janet Yellen warned a default would be catastrophic for the US economy, sparking mass unemployment, payment failures, and higher rates "into perpetuity."</p>
+      <p>With House Republicans and the White House still far from a deal to raise the debt ceiling, yields on three-month Treasurys recently jumped to a 22-year high, as they would mature around a potential default date.</p>
+      <p>Meanwhile, bitcoin is still recovering from a massive sell-off that began in late 2021 and continued through much of 2022 as the Federal Reserve embarked on an aggressive tightening cycle.</p>
+      <p>But bitcoin has rallied nearly 80% so far in 2023 and recently neared $30,000 as First Republic Bank's woes reignited fears over the financial sector.</p>
+      <p>For his part, Kendrick is already bullish on bitcoin, saying in a note on Monday that it could surge to $100,000 by the end of 2024 due to bank turmoil, bitcoin halving, and the expected end of Fed rate hikes, among other things, though it didn't mention the risk of a US default.</p>
+      <p>"While sources of uncertainty remain, we think the pathway to the USD 100,000 level is becoming clearer," he wrote.</p>
+    </div>
+  },
+  {
     id: 501,
     title: 'ETH short-term calls explode amid bullish relief across the market. Assessing…',
     category: 'Crypto',

@@ -1,5 +1,57 @@
 const data = [
   {
+    id: 502,
+    title: 'Global stocks mostly up as yen tumbles after Bank of Japan decision',
+    category: 'Indices',
+    subCategory: ['YEN', 'Japan', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>Global stock markets mostly rose Friday following modestly positive economic data in Europe and the United States, while the yen tumbled after the Bank of Japan maintained its easing policies.</p>
+    </div>,
+    authorName: 'AFP',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 29, 2023 - 1:23 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-470.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Global stock markets mostly rose Friday following modestly positive economic data in Europe and the United States, while the yen tumbled after the Bank of Japan maintained its easing policies.</p>
+    	<p>European equities ended the session in positive territory after a morning in the red, shrugging off official data confirming that the eurozone economy only just eked out growth in the first three months of the year.</p>	
+    	<p>Wall Street followed a similar pattern, getting past early weakness to push higher for a second straight day.</p>	
+      <p>"It's a little bit of a relief trade," said Briefing.com analyst Patrick O'Hare, adding that investors remain "a little guarded."</p>
+      <p>The week's economic data was "okay," said O'Hare, who noted that earnings from influential technology US companies largely met expectations and in some cases exceeded them.</p>
+      <p>The Federal Reserve's favored measure, the annual personal consumption expenditures price index, eased to 4.2 percent in March from a revised 5.1 percent a month earlier, with a sharp decline recorded in energy prices, according to data released by the Bureau of Economic Analysis.</p>
+      <p>"Today's PCE data was pretty much as expected but is trending in a good direction for those hoping for inflation to moderate," analysts for Charles Schwab said in a note.</p>
+      <p>Most analysts expect the Fed to again lift interest rates by a quarter-point on Wednesday in response to inflation.</p>
+      <p>The United States on Thursday revealed that the economy had slowed more than expected in the first quarter.</p>
+      <p>Hard on its heels were Friday's official data showing the eurozone economy expanded just 0.1 percent in the first quarter over the previous three months, as high inflation and interest rates weigh on activity.</p>
+      <p>"The very small increase in (eurozone) GDP... means a technical recession has been avoided by a whisker," noted Capital Economics' chief Europe economist Andrew Kenningham.</p>
+      <p>"However, the economy has essentially stalled as domestic demand has been hit hard by the energy shock followed by monetary tightening."</p>
+      <p>Germany, the EU's biggest economy, saw growth stagnate at zero percent over the previous quarter.</p>
+      <p>The yen, meanwhile, fell sharply after the Bank of Japan announced a review of its longstanding monetary easing measures, but said it would maintain them for the time being in the first policy decision under new governor Kazuo Ueda.</p>
+      <p>Ueda has previously called the BoJ's current stance "appropriate" and warned of the risk of sudden moves, given global economic uncertainty.</p>
+      <p>Ryutaro Kono, chief economist at BNP Paribas, predicted that the central bank could drop its negative interest-rate policy towards the end of 2024 or later, when the global economy is expected to see clear recovery.</p>
+      <p>"Because long-term yields are stable globally, the BoJ under Ueda does not have to rush to make policy adjustments," he said.</p>
+      <p>- Key figures around 2050 GMT -</p>
+      <p>New York - Dow: UP 0.8 percent at 34,098.16 (close)</p>
+      <p>New York - S&P 500: UP 0.8 percent at 4,169.48 (close)</p>
+      <p>New York - Nasdaq: UP 0.7 percent at 12,226.58 (close)</p>
+      <p>London - FTSE 100: UP 0.5 percent at 7,870.57 (close)</p>
+      <p>Frankfurt - DAX 40: UP 0.8 percent at 15,922.38 (close)</p>
+      <p>Paris - CAC 40: UP 0.1 percent at 7,491.50 (close)</p>
+    	<p>EURO STOXX 50: FLAT at 4,359.31 (close)</p>
+      <p>Hong Kong - Hang Seng Index: UP 0.3 percent at 19,894.57 (close)</p>
+      <p>Shanghai - Composite: UP 1.1 percent at 3,323.27 (close)</p>
+      <p>Tokyo - Nikkei 225: UP 1.4 percent at 28,856.44 (close)</p>
+      <p>Euro/dollar: DOWN at $1.1020 from $1.1026 on Thursday</p>
+      <p>Pound/dollar: UP at $1.2567 from $1.2498</p>
+      <p>Dollar/yen: UP at 136.28 yen from 133.97 yen</p>
+      <p>Euro/pound: DOWN at 87.64 pence from 88.24 pence</p>
+      <p>Brent North Sea crude: UP 1.5 percent at $79.54 per barrel</p>
+      <p>West Texas Intermediate: UP 2.6 percent at $76.78 per barrel</p>
+    </div>
+  },
+  {
     id: 501,
     title: 'Dow Jones Reverses After Key Inflation Data. Amazon Dives, While First Solar Plunges 12% On Earnings Miss',
     category: 'Indices',

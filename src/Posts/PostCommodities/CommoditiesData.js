@@ -1,5 +1,34 @@
 const data = [
   {
+    id: 501,
+    title: 'Oil drops as economic growth concerns offset OPEC+ cuts',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC', 'Economic'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil fell on Monday as concern over the economic impact of the U.S. Federal Reserve potentially raising interest rates and weaker Chinese manufacturing data outweighed support from OPEC+ supply cuts taking effect this month.</p>
+    </div>,
+    authorName: 'Alex Lawler',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 1, 2023 - 4:43 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-471.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <p>By Alex Lawler</p>
+    	<p>LONDON (Reuters) -Oil fell on Monday as concern over the economic impact of the U.S. Federal Reserve potentially raising interest rates and weaker Chinese manufacturing data outweighed support from OPEC+ supply cuts taking effect this month.</p>
+    	<p>The Fed, which meets on May 2-3, is expected to increase interest rates by another 25 basis points. The U.S. dollar rose against a basket of currencies on Monday, making oil more expensive for other currency holders.</p>	
+    	<p>Brent crude fell 97 cents, or 1.2%, to $79.36 a barrel by 1342 GMT, while U.S. West Texas Intermediate (WTI) crude slid $1.44, or 1.9%, to trade at $75.34.</p>	
+    	<p>"The failure to reach more solid ground above $80.50 in Brent points to continued selling interest amid the well known growth/demand concerns," said Ole Hansen, head of commodity Strategy at Saxo Bank.</p>
+      <p>Banking fears have weighed on oil in recent weeks and in what is the third major U.S. institution to fail in two months, United States regulators said on Monday First Republic Bank has been seized and a deal agreed to sell the bank to JPMorgan.</p>
+      <p>"Investors are afraid that if the Fed continues to raise interest rates as expected, what will happen to the U.S. financial system's other problem children?," said Naeem Aslam of Zaye Capital Markets, who added a hike of at least 25 basis points this week was still expected.</p>
+      <p>Weak economic data from China was also in focus. China's manufacturing purchasing managers' index (PMI) declined to 49.2 from 51.9 in March, slipping below the 50-point mark that separates expansion and contraction in activity on a monthly basis.</p>
+      <p>Some support came from voluntary output cuts of around 1.16 million barrels per day by members of the Organization of the Petroleum Exporting Countries and allies including Russia, a group known as OPEC+, which take effect from May.</p>
+      <p>"We believe the oil market will be in deficit through the remainder of the second quarter" following the OPEC+ cuts, said Baden Moore, head of commodity and carbon strategy at National Australia Bank.</p>
+      <p>(Reporting by Katya Golubkova and Alex Lawler; Editing by Susan Fenton, Kirsten Donovan and Sharon Singleton)</p>
+    </div>
+  },
+  {
       id: 436,
       title: 'Oil Kicks Off Higher After Biggest Weekly Loss Since Bank Scare',
       category: 'Commodities',
