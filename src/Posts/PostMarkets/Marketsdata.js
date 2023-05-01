@@ -1,4 +1,97 @@
 const data = [
+  {
+    id: 502,
+    title: 'Fed decision, Apple earnings, April jobs report: What to know this week',
+    category: 'Markets',
+    subCategory: ['Fed', 'Apple', 'Jobs'],
+    description: <div className="blog-desc">
+      <p>Another jam-packed week awaits investors as May gets underway with key announcements from the Federal Reserve, Apple (AAPL), and the April jobs report all on the docket.</p>
+    </div>,
+    authorName: 'Josh Schafer',
+    authorurl: 'https://www.yahoo.com/author/josh-schafer/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 1, 2023 - 4:29 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-467.jpg',
+    content: <div className="blog-content"> 
+    	<h3>In this article:</h3>
+    	<p>Another jam-packed week awaits investors as May gets underway with key announcements from the Federal Reserve, Apple (AAPL), and the April jobs report all on the docket.</p>
+    	<p>Early Monday morning, investors learned that regulators seized First Republic (FRC) and sold the troubled bank's operations to JPMorgan Chase (JPM).</p>	
+    	<p>On Wednesday afternoon, the Fed is set to announce its latest policy decision, which investors expect will see the central bank raise interest rates by another 0.25%, as it continues to fight stubborn inflation well above its 2% goal. On Thursday after the closing bell, Apple will release its latest quarterly earnings. And before the market open on Friday, the US government will release the April jobs report.</p>	
+    	<p>Elsewhere on the schedule, key updates on activity in the manufacturing and services sectors of the economy, as well as the latest data on job openings, highlight the economic side of things.</p>
+      <p>On the earnings front, results from AMD (AMD), Starbucks (SBUX), Ford (F), Pfizer (PFE), and Uber (UBER) will highlight the schedule.</p>
+      <p>Also, Yahoo Finance will be live this week at the Milken Institute's Global Conference, where insights and reaction from CEOs and top minds will proliferate throughout the week.</p>
+      <p>Markets begin the new month after a resilient close to April's trading. GDP data out Thursday disappointed and results from Amazon (AMZN) late Thursday cast some doubt over the tech sector's rebound. Still, all three major averages pushed higher for the week with the tech-heavy Nasdaq rising 1.3%.</p>
+      <p>Year-to-date, the Nasdaq is up nearly 17% while the S&P 500 is up closer to 8.5% and the Dow Jones Industrial Average has gained just less than 3%.</p>
+      <p>The next major test for markets awaits Wednesday afternoon.</p>
+      <p>The Fed will announce its latest policy decision at 2 p.m. ET, with Fed Chair Jay Powell set to hold a press conference a half hour later.</p>
+      <p>According to data from the CME Group, markets are placing an 85% chance on the Fed raising rates by 0.25% on Wednesday.</p>
+      <p>A 0.25% hike in interest rates would push the Fed’s benchmark rate to a range of 5%-5.25%. The benchmark rate hasn’t breached 5% since July 2007. With no new economic projections set for release, Powell's comments will be in focus for investors.</p>
+      <p>"We believe the Committee will try to convey that while a June rate hike isn’t the incumbent scenario, the next move is more likely up than down," economists at JPMorgan wrote in a note to clients last week.</p>
+      <p>"Odds are rising that the May hike will be the final hike of this tightening cycle," wrote Ryan Sweet, chief US economist at Oxford Economics, in a note to clients Friday. "When the Fed increases interest rates, it exposes any fissures in either the financial markets or the economy. For instance, the tightening in monetary policy has contributed to the recent stress in the banking system."</p>
+      <p>Elsewhere on the economic data front, the April jobs report is expected to show 180,000 nonfarm payroll jobs were added to the US economy last month with the unemployment rate ticking slightly higher to 3.6%, according to data from Bloomberg. In March, the U.S. economy added 236,000 jobs while the unemployment rate fell.</p>
+      <p>The report will be closely watched for any signs of a softening labor market, which might influence the Fed's June decision on rate hikes.</p>
+      <p>The Fed's aggressive rate hike path has tightened credit markets and raised concern over the health of the regional banking sector in the wake of the Silicon Valley Bank collapse.</p>
+      <p>First Republic shares sank nearly 75% last week as the lender revealed it lost $100 billion in deposits during the March banking turmoil.</p>
+      <p>On the earnings side, Apple's quarterly results out Thursday will provide another look into how big tech is holding up amid fears of an economic slowdown.</p>
+      <p>Investors will focus on whether Apple is seeing slowdown in spending similar to what was called out by Amazon last week. And, of course, with Apple set to release new VR headsets later this year, investors will inquire — what’s the AI strategy?</p>
+      <p>Earnings season has broadly offered investors an upside surprise compared to Wall Street expectation.</p>
+      <p>S&P 500 companies are beating analysts estimates at the highest rate since the fourth quarter of 2021, according to FactSet. With just more than half of S&P 500 companies already reporting results, 79% of companies have reported earnings above estimates. That’s above both the five- and ten-year averages.</p>
+      <p>But as SoFi’s head of investment Liz Young pointed out to Yahoo Finance Live, those beats come against "unimpressive" expectations that have been revised downward this year.</p>
+      <p>"Margins are contracting," Young said. "And a lot of the story coming into this [earnings season] was that margins were so fat, that they could absorb some of these cost pressures. But now we're seeing, over time, a lowering of those margins and narrowing of those margins. So there's not going to be as much breathing room for companies."</p>
+      <p>Last week, big tech earnings from Microsoft (MSFT), Alphabet (GOOGL), and Meta Platforms (META) catalyzed a market rally as results showed resilience despite a looming slowdown. That sentiment ultimately outweighed the gloomier outlook Amazon offered relative to its fellow tech titans.</p>
+      <p>Still, analysts argue this better-than-feared picture poses a significant challenge to those remaining bearish on the sector that punished most harshly amid 2022's aggressive rate hikes.</p>
+      <p>"Tech investors went into this week with some white knuckles and heartburn anticipating Big Tech stalwart earnings of Microsoft, Alphabet, Meta, Intel, and Amazon and now instead head into the weekend drinking a relaxing cappuccino with much better than feared tech earnings," wrote Wedbush's Dan Ives in a note published Saturday.</p>
+      <p>"The narrative for the tech sector is becoming clearer and clearer despite many tech haters yelling fire in a crowded theater heading into [first quarter] earnings."</p>
+    </div>
+  },
+  {
+    id: 501,
+    title: 'US regulators seize First Republic and sell substantially all assets to JPMorgan in largest bank failure since 2008 crisis',
+    category: 'Markets',
+    subCategory: ['US', 'First Republic', 'Bank'],
+    description: <div className="blog-desc">
+      <p>Regulators seized First Republic (FRC) early on Monday and sold the bulk of the bank's operations to JPMorgan Chase (JPM) in the largest bank failure since the 2008 financial crisis.</p>
+    </div>,
+    authorName: 'David Hollerith',
+    authorurl: 'https://www.yahoo.com/author/david-hollerith/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 1, 2023 - 1:46 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-466.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Regulators seized First Republic (FRC) early on Monday and sold the bulk of the bank's operations to JPMorgan Chase (JPM) in the largest bank failure since the 2008 financial crisis.</p>
+    	<p>JPMorgan, the nation's largest bank, agreed to assume $173 billion in assets, $30 billion in securities and all of First Republic's $92 billion in deposits. The Federal Deposit Insurance Corporation sweetened the deal by agreeing to share losses on certain residential and commercial loans, giving JPMorgan some protection if the assets go bad.</p>	
+    	<p>The fall of the $229 billion First Republic makes it the biggest casualty yet of the banking system turmoil that began in March, larger than either Silicon Valley Bank or Signature Bank. Seattle's Washington Mutual, which went under with $307 billion in assets in September 2008, is still the largest bank failure in US history.</p>	
+    	<p>Even though JPMorgan agreed to protect all of First Republic's depositors, the seizure does add more of a burden to the FDIC's Deposit Insurance Fund, which is used to absorb losses when banks go down.</p>
+      <p>The FDIC estimates the First Republic failure will cost it $13 billion, on top of more than $22 billion from the two other failures in March. Taxpayer money does not support the fund; instead the FDIC recoups its costs with an assessment paid for by banks.</p>
+      <p>As part of the First Republic agreement JPMorgan will make a cash payment of $10.6 billion to the FDIC, and the FDIC will also provide the bank with $50 billion in loans. JPMorgan said it will recognize a one-time, post-tax gain of roughly $2.6 billion. It anticipates $2 billion in post-tax restructuring costs over the next 18 months.</p>
+      <p>The announcement followed a bidding war among various banks. The FDIC invited several big banks to make bids, including JPMorgan, Bank of America (BAC), and PNC Financial Services Group (PNC), according to people familiar with the matter. Citizens Financial Group (CFG) and US Bancorp (USB) were also reportedly invited.</p>
+      <p>Some of the same banks came to First Republic's aid in March with $30 billion in uninsured deposits, including $5 billion from JPMorgan. They were reluctant last week to provide a second rescue on their own, fearing First Republic would be seized anyway. JPMorgan will repay the $25 billion to the 10 other banks that provided them.</p>
+      <h3>Dimon as rescuer</h3>
+      <p>The deal to buy First Republic places CEO Jamie Dimon at the center of a national banking crisis for the second time in 15 years and further solidifies his status as a rescuer of weaker institutions.</p>
+      <p>“Our government invited us and others to step up, and we did,” Dimon said in a statement.</p>
+      <p>In 2008, Dimon acted twice to help stabilize the financial system. JPMorgan purchased New York investment bank Bear Stearns in March of that year, getting a $29 billion backstop from the federal government, and then Seattle’s Washington Mutual in September of 2008.</p>
+      <p>In the case of Washington Mutual, JPMorgan purchased its operations after regulators seized the Seattle thrift, just as JPMorgan did Monday with First Republic after it was seized by the California Department of Financial Protection and Innovation.</p>
+      <p>First Republic's 84 branches will open as JPMorgan offices this morning.</p>
+      <p>The US government decided to make a critical exception in handing First Republic to JPMorgan. There is an existing rule preventing any bank from making an acquisition providing it with more than 10% of all US deposits, and JPMorgan is already above that cap. Regulators waived those deposit concentration restrictions and blessed the deal anyway.</p>
+      <h3>Rise and fall</h3>
+      <p>First Republic became the subject of a government bidding war after a fight for its survival that began in March when panic about the stability of regional lenders cascaded across the country. It tried to weather the turmoil by borrowing from the Federal Reserve and the Federal Home Loan Bank while also taking in $30 billion in uninsured deposits from 11 of the country's largest banks.</p>
+      <p>But First Republic's situation turned more serious Monday after it disclosed a loss of more than $100 billion in deposits. The drop was greater than expected and raised new concerns about the company's chances for survival.</p>
+      <p>Investors punished the stock, sending it down nearly 50% in one day and then nearly 30% on Wednesday. On Thursday it rose nearly 9%, before plunging again Friday by 43%.</p>
+      <p>First Republic was founded in 1985 by Jim Herbert, and over the decades expanded rapidly as it attracted wealthy customers clustered on either coast by offering them large single-family mortgages at ultra-low rates along with personalized service.</p>
+      <p>It went from $88 billion in assets at the end of 2017 to more than $200 billion at the end of 2022. It was the nation's 14th-largest lender as of Dec. 31.</p>
+      <p>Then it, like many banks of its size, struggled to adapt to an aggressive campaign by the Federal Reserve to raise interest rates as a way of slowing inflation.</p>
+      <p>The hikes lowered the value of the interest-rate sensitive assets on its balance sheet and helped create billions in unrealized losses, a hole that ultimately attracted the attention of investors and depositors following the fall of Silicon Valley Bank.</p>
+      <p>The bank also had lots of uninsured depositors, making them a greater flight risk during the chaos that unfolded in March.</p>
+      <p>When customers began pulling more than $100 billion, First Republic had to replace its deposit funding with more expensive borrowing from the Fed and the Federal Home Loan Bank system. Those borrowings, which peaked on March 15 at $138 billion, created another problem by placing more pressure on its profitability.</p>
+      <p>First Republic developed a turnaround plan. It said Monday while releasing its first-quarter results that it planned to increase its amount of insured deposits, trim its borrowings, decrease its loan balances and reduce its workforce by 20-25%. Borrowings had dropped to $104 billion as of April 21 and the deposit outflows had slowed.</p>
+      <p>But its disclosure about the amount of deposits lost in March, and the fact that the company decided not to take any questions from analysts, spooked investors.</p>
+      <p>Short sellers also applied more pressure. Those with bets against First Republic have earned $1.37 billion year to date on a mark-to-market basis, according to S3 Partners. It is the most profitable short position among stocks thus far in 2023, according to S3.</p>
+      <p>By Friday, First Republic's stock had dropped to $3.50, down 97% for the year. The bank's market value, once $40 billion, was just $640 million.</p>
+    </div>
+  },
     {
         id: 439,
         title: 'US Futures Rise as Big-Tech Earnings Bolster Mood: Markets Wrap',

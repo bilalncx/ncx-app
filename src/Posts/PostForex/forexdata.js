@@ -1,5 +1,42 @@
 const data = [
   {
+    id: 503,
+    title: 'Dollar dominance could give way to a tripolar currency system as Chinas yuan and the euro rise on the world stage',
+    category: 'Forex',
+    subCategory: ['Dollar', 'Yuan', 'China'],
+    description: <div className="blog-desc">
+      <p>The dollar has been king for decades but its slippage as a reserve currency has raised concerns as to whether a rival currency will dethrone it.</p>
+    </div>,
+    authorName: 'Phil Rosen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 29, 2023 - 10:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-469.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>The dollar's status isn't under threat anytime soon, but the yuan and euro look most likely to cut into its lead.</li>
+        <li>A "tripolar" reserve currency system is plausible, economist Stephen Jen told Insider.</li>
+        <li>The greenback saw a dramatic erosion as a global reserve currency in 2022, but it's still dominant in international trade.</li>
+      </ul>
+    	<p>The dollar has been king for decades but its slippage as a reserve currency has raised concerns as to whether a rival currency will dethrone it.</p>
+    	<p>But to economist Stephen Jen, the CEO of Eurizon SLJ, a more plausible outcome would be multiple currencies cutting into the dollar's dominance.</p>	
+    	<p>He recently pointed out that the greenback's nominal share in global reserves eroded at 10 times the pace seen in the last two decades.</p>	
+    	<p>"Our best guess is that this trend will likely continue, but probably not to a point where a non-dollar currency commands a bigger market share than the dollar," Jen wrote in emailed comments to Insider. "More likely, we will evolve from a unipolar reserve currency world to a multi-polar world."</p>
+      <p>To be sure, its role in international trade looks to remain dominant, but that won't necessarily prevent its decline as a reserve currency.</p>
+      <p>When asked which currencies stand the best chance as a challenger, Jen noted that all others have flaws, especially as international currencies.</p>
+      <p>"But if I have to guess," he said, "it should be the [euro] and the [yuan] having roughly equal presence. Such a 'tripolar' reserve currency configuration would also make sense and be more aligned with the economic heft of the three blocs."</p>
+      <p>For China in particular, Jen said that the country's financial sector would first have to improve in quality for the yuan to make headway.</p>
+      <p>Foreign investors, he explained, remain wary of buying into Chinese equities and bonds.</p>
+      <p>"Without foreign demand for Chinese assets, Chinese savers and households cannot be allowed to invest overseas, and thus the capital controls would need to remain in place," the economist said. "With capital controls, it would be difficult for the [yuan] to become a viable international currency."</p>
+      <p>And while there have been some announcements of bilateral trade being settled with China's currency, those volumes are small, and don't compare to volumes seen across larger financial flows, according to Eurizon.</p>
+      <p>Talk of de-dollarization has surged of late amid growing signs of a tilt away from the US currency. For the first time ever, the yuan eclipsed the US dollar last month as the most used currency for Chinese cross-border transactions.</p>
+      <p>Meanwhile, central banks are ditching the US dollar and shifting to gold, Rockefeller International Chairman Ruchir Sharma said. Central banks account for a record 33% of monthly global demand for gold and are buying more gold than at any time since data began in 1950, he wrote in the Financial Times earlier this month.</p>
+      <p>Still, the dollar's share of global currency transactions for trade finance was 83.7%, compared to 4.5% for the yuan, with analysts saying the yuan is too tightly controlled by the Chinese government.</p>
+    </div>
+  },
+  {
     id: 502,
     title: 'EUR/USD Forecast – Euro Continues to Threaten Upside Breakout',
     category: 'Forex',
