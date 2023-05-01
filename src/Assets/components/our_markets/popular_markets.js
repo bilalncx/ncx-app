@@ -115,130 +115,130 @@ function MarketPage(){
                     <tbody id="ncx_market_table">
                     <div className='graphing'>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/lrc_usdt.png" alt="lrc_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/lrc_usdt.png" alt="lrc_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/eth_usd.png" alt="eth_usd"/>
+                            <img src="https://ncx.cx/images/new-graphs/mana_usdt.png" alt="mana_usdt"/>
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/usdp_usdt.png" alt="usdp_usdt"/>
+                            <img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="doge_usdt"/>
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/zrx_usdt.png" alt="zrx_usdt"/>
+                            <img src="https://ncx.cx/images/new-graphs/busd_usdt.png" alt="busd_usdt"/>
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/doge_usdt.png" alt="doge_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="doge_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/usdt_usd.png" alt="usdt_usd" />
+                            <img src="https://ncx.cx/images/new-graphs/ltc_usdt.png" alt="ltc_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/xrp_btc.png" alt="xrp_btc" />
+                            <img src="https://ncx.cx/images/new-graphs/yfi_usdt.png" alt="xrp_btc" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/zec_usdt.png" alt="zec_usdt "/>
+                            <img src="https://ncx.cx/images/new-graphs/zec_usdt.png" alt="zec_usdt "/>
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/btc_usdt.png" alt="btc_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/btc_usdt.png" alt="btc_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/grt_usdt.png" alt="grt_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/grt_usdt.png" alt="grt_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/usdt_usdc.png" alt="usdt_usdc" />
+                            <img src="https://ncx.cx/images/new-graphs/dai_usd.png" alt="usdt_usdc" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/trx_usdt.png" alt="trx_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/trx_usdt.png" alt="trx_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/sushi_usdt.png" alt="sushi_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/sushi_usdt.png" alt="sushi_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/uni_usdt.png" alt="uni_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/uni_usdt.png" alt="uni_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/btc_usd.png" alt="btc_usd" />
+                            <img src="https://ncx.cx/images/new-graphs/btc_usd.png" alt="btc_usd" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/dash_usdt.png" alt="dash_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/dash_usdt.png" alt="dash_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/eth_btc.png" alt="eth_btc" />
+                            <img src="https://ncx.cx/images/new-graphs/usdc_usd.png" alt="eth_btc" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/usdc_usd.png" alt="usdc_usd" />
+                            <img src="https://ncx.cx/images/new-graphs/btc_usd.png" alt="btc_usd" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/zrx_usdt.png" alt="yfi_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/bch_btc.png" alt="bch_btc" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/bat_usdt.png" alt="bat_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/bat_usdt.png" alt="bat_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/link_usdt.png" alt="link_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/link_usdt.png" alt="link_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/mkr_usdt.png" alt="mkr_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/mkr_usdt.png" alt="mkr_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/bnb_usdt.png" alt="bnb_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/bnb_usdt.png" alt="bnb_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/ltc_usdt.png" alt="ltc_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/ltc_usdt.png" alt="ltc_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/comp_usdt.png" alt="comp_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/comp_usdt.png" alt="comp_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/busd_usdt.png" alt="busd_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/zec_usdt.png" alt="zec_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/xmr_usdt.png" alt="xmr_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/xmr_usdt.png" alt="xmr_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/dai_usdt.png" alt="dai_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/snx_usdt.png" alt="snx_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/xrp_usdt.png" alt="xrp_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/xrp_usdt.png" alt="xrp_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/xlm_usdt.png" alt="xlm_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/xlm_usdt.png" alt="xlm_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/bch_btc.png" alt="bch_btc" />
+                            <img src="https://ncx.cx/images/new-graphs/sushi_usdt.png" alt="sushi_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/ren_usdt.png" alt="ren_usdt " />
+                            <img src="https://ncx.cx/images/new-graphs/ren_usdt.png" alt="ren_usdt " />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/matic_usdt.png" alt="matic_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/matic_usdt.png" alt="matic_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/eth_usdt.png" alt="eth_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/eth_usdt.png" alt="eth_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/mana_usdt.png" alt="mana_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/mana_usdt.png" alt="mana_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/xrp_usdt.png" alt="xrp_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/xrp_usdt.png" alt="xrp_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/btc_usdc.png" alt="btc_usdc" />
+                            <img src="https://ncx.cx/images/new-graphs/usdp_usdt.png" alt="usdp_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/tusd_usdt.png" alt="tusd_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/grt_usdt.png" alt="grt_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/band_usdt.png" alt="band_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/trx_usdt.png" alt="trx_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/snx_usdt.png" alt="snx_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/snx_usdt.png" alt="snx_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/bch_usdt.png" alt="bch_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/bch_usdt.png" alt="bch_usdt" />
                         </div>
                         <div className='price_trend_graph'>
-                            <img src="https://ncx.cx/images/graphs/aave_usdt.png" alt="aave_usdt" />
+                            <img src="https://ncx.cx/images/new-graphs/aave_usdt.png" alt="aave_usdt" />
                         </div>
                     </div>
                     </tbody>

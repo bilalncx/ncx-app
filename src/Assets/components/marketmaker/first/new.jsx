@@ -8,6 +8,7 @@ import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-re
 import NCXAPPVideo from '../../../images/ncx-wallet-video.mp4';
 import OTCMobileVideo from '../../../images/ncx-wallet-video.mp4';
 import NCXMarketMvideo from '../../../images/ncx-wallet-video-mbl.mp4';
+import VideSection from '../../../images/home__newvideo.mp4';
 
 function FirstVideo()
 {
@@ -15,7 +16,7 @@ function FirstVideo()
 
     return(
         <div id="mkt__mkr__ndd">
-            <div className="ambassador_card row">
+            {/* <div className="ambassador_card row">
                 <div className="col card_txt">
                 <div className="inns-div">
                         <h1>NCX Market Maker</h1>
@@ -27,7 +28,6 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    {/* <img src={CryptoCard2} alt="ncx_crypto_card" /> */}
                     <img src={CryptoCard1} alt="ncx_crypto_card" />
                 </div>
                 <div className="col card_imgb">
@@ -40,6 +40,26 @@ function FirstVideo()
                         >
                         <source src={NCXAPPVideo} type="video/mp4" />
                     </video>
+                </div>
+            </div> */}
+            <div className="new__ambass">
+                <div className="desktop">
+                    <video 
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                        >
+                        <source src={VideSection} type="video/mp4" />
+                    </video>
+                </div>
+                <div className="container">
+                    <div className="insse">
+                        <h1><span>NCX</span> Market Maker Program. For professional  high volume trading entities</h1>
+                        <Button href="#">Apply</Button>
+                    </div>
                 </div>
             </div>
 

@@ -5,6 +5,7 @@ import CryptoCard1 from '../../../images/crypto_card_1.png';
 import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
+import VideSection from '../../../images/home__newvideo.mp4';
 
 function FirstVideo()
 {
@@ -12,7 +13,7 @@ function FirstVideo()
 
     return(
         <div className="crypto_card">
-            <div className="ambassador_card row">
+            {/* <div className="ambassador_card row">
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>{t("ncx_ambassador")}</h1>
@@ -29,6 +30,27 @@ function FirstVideo()
                 </div>
                 <div className="col card_imgb">
                     <img src={CryptoCard1} alt="ncx_crypto_card" />
+                </div>
+            </div> */}
+
+            <div className="new__ambass">
+                <div className="desktop">
+                    <video 
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                        >
+                        <source src={VideSection} type="video/mp4" />
+                    </video>
+                </div>
+                <div className="container">
+                    <div className="insse">
+                        <h1><span>NCX</span> Ambassador Program Earn 40-60% commission on affiliates</h1>
+                        <Button href="#">Apply</Button>
+                    </div>
                 </div>
             </div>
 

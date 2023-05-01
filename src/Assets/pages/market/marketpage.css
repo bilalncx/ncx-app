@@ -223,3 +223,69 @@ button.reverses svg{
     font-family: 'urbanist-medium';
     color: #2c2236;
 }
+
+
+
+
+/****************************** New Market Styling *********************************8*/
+.trending_markets, section.market_pag, .market_pag .container, .table_search_tabs, table#table_divddd{
+    background: #000000 !important;
+}
+.table_search_tabs button, .featured_market{
+    background: #181818 !important;
+}
+.table_search_tabs .active_all, .table_search_tabs .active_usdc, .table_search_tabs .active_usdt, .table_search_tabs .active_usd,
+.table_search_tabs .active_btc{
+    background: #5ED3F0 !important;
+    color: #FFFFFF !important;
+}
+#ncx_market_table tr, .table_search_tabs{
+    border-bottom: 1px solid hsla(0,0%,100%,.1) !important;
+}
+#table_divddd th, tbody#ncx_market_table tr td p, .table_search_tabs button, .trend_pairs p, .prix p{
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+#market_table_body tr td h1, tbody#ncx_market_table tr td h2{
+    color: #FFFFFF !important;
+}
+/* table#table_divddd{
+    padding: 0px !important;
+} */
+/* .table_search_tabs{
+    margin: 0px 10px 0px 0px !important;
+} */
+#ncx_market_table tr:hover {
+    background: #000000 !important;
+    box-shadow: 0 0px 30px 0 rgba(255,255,255,.25) !important;
+}
+#ncx_market_table tr{
+    transition: all .3s !important;
+}
+.table_search_tabs .searchinput input{
+    background: #181818 !important;
+    border: 1px solid hsla(0,0%,100%,.1) !important;
+}
+#featured_slider .slider_market .slide, #featured_slider_mobile .slider_market .slide{
+    border-color: #000000 !important;
+}
+#featured_slider:after, #featured_slider_mobile:after, #featured_slider:before, #featured_slider_mobile:before{
+    background: #000000 !important;
+}
+.trend_pairs h1, .prix h3{
+    color: #FFFFFF !important;
+}
+tbody#ncx_market_table tr:hover .star-svg svg path{
+    fill: #5ED3F0 !important;
+}
+p.fet_tag{
+    background: #5ED3F0 !important;
+}
+#ncx_market_table tr:nth-child(9) td.quote_volume h2:before, #ncx_market_table tr:nth-child(20) td.quote_volume h2:before, #ncx_market_table tr:nth-child(35) td.quote_volume h2:before{
+    background: #000000 !important;
+}
+#featured_slider, #featured_slider_mobile{
+    background: #000000 !important;
+}
+.spinner-border{
+    color: #5ED3F0 !important;
+}

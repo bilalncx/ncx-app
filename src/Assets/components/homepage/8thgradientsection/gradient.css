@@ -6,7 +6,7 @@
     position: relative;
 }
 .gradientbar {
-    background: linear-gradient(90deg, rgba(146,82,234,1) 7%, rgba(238,112,228,1) 36%, rgba(146,91,202,1) 77%, rgba(49,112,246,1) 100%) !important;
+    background: linear-gradient(90deg, rgba(55,171,255,1) 7%, rgba(238,112,228,1) 36%, rgba(146,91,202,1) 77%, rgba(49,112,246,1) 100%) !important;
     /* transform: rotate(90deg); */
     flex: none;
     order: 0;
