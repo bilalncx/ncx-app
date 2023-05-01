@@ -33,7 +33,7 @@ function WalletMainPage()
 
             <Wallet6 />
             
-            <Wallet2 />
+            {/* <Wallet2 /> */}
 
             {/* <Wallet4 />
 
