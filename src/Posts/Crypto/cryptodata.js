@@ -1,5 +1,181 @@
 const data = [
   {
+    id: 508,
+    title: 'Assessing Bitcoin’s [BTC] state as Ordinals hit a new record',
+    category: 'Crypto',
+    subCategory: ['BTC', 'Record', 'Ordinals'],
+    description: <div className="blog-desc">
+      <p>Ordinals hit a new all-time high in terms of both daily inscriptions and fees paid. During the episode, BTC’s hashrate also increased, as did miners’ revenue </p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 3, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-481.jpg',
+    content: <div className="blog-content">
+    	<h3>in this article</h3>
+    	<p>Ordinals hit a new all-time high in terms of both daily inscriptions and fees paid. During the episode, BTC’s hashrate also increased, as did miners’ revenue </p>
+    	<ul>
+        <li>Ordinals’ block size decreased as the text type of ordinals grabbed the largest share of total inscriptions.</li>
+        <li>BTC’s price might witness a correction soon, as suggested by a few metrics.</li>
+      </ul>
+      <p>Bitcoin [BTC] Ordinals again made it to the limelight by registering massive growth in terms of the number of inscriptions. Daily inscriptions reached an all-time high of more than 300,000 on 1 May, pushing the total number of inscriptions to over 3 million. </p>	
+    	<h3>key stats look encouraging</h3>
+      <p>A look at the share of different types of Ordinals inscribed suggested that the majority of them were text type, which accounted for 79%. As per Dune’s data, text type Ordinals were followed by image type and others.</p>	
+    	<p>Additionally, the increase in number of inscriptions was also accompanied by a massive surge in Ordinals fees paid, which also reached a new ATH on 2 May 2023.</p>
+      <p>Tom Wan, a research analyst, pointed out an interesting development. Despite the massive increase in the number of inscriptions, the average block size decreased.</p>
+      <p>The reason behind this decline was the dominance of text type Ordinals. As text type Ordinals’ size is less than that of image-type Ordinals, the average block size declined from its ATH of 2.5 MB to 1.57 MB.</p>
+      <h3>Miners enjoyed the episode</h3>
+      <p>Ordinals’ latest achievement also brought good news for miners. While Ordinals hit a new ATH, a hike in BTC’s hashrate was also seen, suggesting an influx of new miners in the network.</p>
+      <p>Moreover, thanks to the increase in fees of Ordinals, miners also generated more revenue. As evident from Glassnode’s chart, miners’ total revenue in BTC registered a spike on 1 May, 2023.</p>
+      <h3>Bitcoin investors should consider this</h3>
+      <p>Though things looked good for the miners, the same can’t be said for investors. A look at BTC’s hash ribbon displayed the possibility of the 60-day moving average (MA) flipping the 30-day MA.</p>
+      <p>Such a flip suggests that the market is not appropriate for more accumulation. Therefore, if the flip happens, BTC might be subjected to a price correction.</p>
+      <h3>The trouble is for real</h3>
+      <p>CryptoQuant’s data revealed that at the time of writing, Bitcoin’s exchange reserve was increasing, suggesting higher selling pressure. The increased sell pressure was also proven by BTC’s red aSORP, which indicated that more investors were selling at a profit.</p>
+      <p>In addition to that, BTC’s taker buy/sell ratio pointed out that selling sentiment was dominant in the derivatives market, which was also a negative signal. According to CoinMarketCap, Bitcoin’s price increased by nearly 2% in the last 24 hours and at press time, it was trading at $28,481.10 with a market capitalization of over $551 billion.</p>
+    </div>
+  },
+  {
+    id: 507,
+    title: 'BTC traders could be in soup as Bitcoin oscillates between red and green',
+    category: 'Crypto',
+    subCategory: ['BTC', 'Red', 'Green'],
+    description: <div className="blog-desc">
+      <p>As of 1 May, BTC’s hashrate reached a new all-time high of 473.87 EH/s. The spike in hashrate could be attributed to the rising Bitcoin ordinal inscriptions. However, despite this, BTC traded in the red at the time of writing.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 3, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-480.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article</h3>
+    	<p>As of 1 May, BTC’s hashrate reached a new all-time high of 473.87 EH/s. The spike in hashrate could be attributed to the rising Bitcoin ordinal inscriptions. However, despite this, BTC traded in the red at the time of writing.</p>
+    	<ul>
+        <li>Transactions on the Bitcoin network soar to new highs attracting more mining revenue.</li>
+        <li>Miner revenue also soared to a six-month high as of 1 May.</li>
+      </ul>
+      <p>As the world waits for the crypto market to regain some price excitement, something interesting is happening on the Bitcoin [BTC] blockchain. Its hash rate experienced a noteworthy surge that may have something to do with the Bitcoin ordinals.</p>	
+    	<p>At press time, Bitcoin’s hash rate stood at 473.87 EH/s and witnessed a rise in the last 24 hours. This observation was significant because it wasn’t only the highest weekly hash rate level, but also the highest ever. The main significance of this observation was that it highlighted a surge in miner participation in the market.</p>	
+    	<p>The hash rate spike was likely due to the rising Bitcoin ordinals inscriptions. They have been a key driving factor for organic transactions on the network other than BTC trading activities. This reflected a recent surge in Bitcoin daily transactions which also reached a new ATH on 1 May.</p>
+      <p>More daily transactions translate to higher miner revenue. This explains why Bitcoin’s hash rate increased as miners added more hash rate to take advantage of the revenue-generating opportunities. Glassnode’s miner revenue metric confirmed the same.</p>
+      <h3>Assessing the potential impact on Bitcoin’s price performance</h3>
+      <p>Miner revenue soared to a new six-month high on 1 May. If you are like most, you are probably wondering whether the Bitcoin ordinals will have an impact on BTC’s price action. First, the ordinal inscriptions do not have a direct impact on Bitcoin demand even though transactions are on the rise. However, they would likely have an impact if Bitcoin miner reserves were up.</p>
+      <p>A closer look at Bitcoin’s on-chain data confirmed that the transaction count has been on the rise for the last few days. However, the situation is different for miner reserves, which, at press time were down to their lowest level in the last three months.</p>
+      <p>Dwindling miner reserves are usually not considered a healthy sign for the market. This is because it shows a lack of incentives for miners to hold, which aligns with the prevailing market sentiment. The declining miner reserves explain the disconnect in the surging demand for Bitcoin ordinals and Bitcoin’s price performance.</p>
+      <p>BTC crashed by over 3% on 1 May, the same day that transaction count and hash rate soared to new ATHs. Bitcoin exchanged hands at $28,592 at press time after securing some bullish volumes. The price action did not share the same level of enthusiasm as the hash rate or transactions on the network.</p>
+    </div>
+  },
+  {
+    id: 506,
+    title: 'Bitcoin [BTC] staring at an uncertain future in the U.S? New data affirms…',
+    category: 'Crypto',
+    subCategory: ['BTC', 'Bitcoin', 'US'],
+    description: <div className="blog-desc">
+      <p>According to data provided by blockchain analytics firm CryptoQuant, BTC reserves at U.S.-based exchanges declined sharply since the beginning of 2023.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 3, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-474.jpg',
+    content: <div className="blog-content">
+    	<h3>in this article</h3>
+	    <p>According to data provided by blockchain analytics firm CryptoQuant, BTC reserves at U.S.-based exchanges declined sharply since the beginning of 2023.</p>
+	    <ul>
+        <li>Despite a decline across all exchanges, the fall in reserves appears to be more significant on U.S. exchanges.</li>
+        <li>With macro uncertainty looming, investors shied away from taking bullish bets on BTC.</li>
+      </ul>
+      <p>Bitcoin [BTC] extended its decline for the second consecutive day as its price dipped below the important $28,000 level on 1 May. However, the king coin reversed the losses to an extent by reaching $28,006 at press time, data from CoinMarketCap revealed.</p>	
+    	<p>While this reflected a drop of over 2% in the last 24 hours, on a weekly basis BTC surged 2.40%. With the collapse of another big banking institution, First Republic Bank, it remains to be seen if BTC can go unscathed like it did during the banking turmoil of March.</p>	
+      <h3>Trust erodes in U.S. exchanges</h3>    	
+      <p>While sentiment around Bitcoin has been bullish since the start of 2023, it faced hurdles in one of the biggest financial and crypto markets of the world, U.S. According to data provided by blockchain analytics firm CryptoQuant, BTC reserves at U.S.-based exchanges declined sharply since the beginning of 2023.</p>
+      <p>The analysis highlighted that despite a long-term decline across all exchanges, the fall in reserves appears to be more significant on American exchanges. A strong reason behind the drop could be increased scrutiny by U.S. regulators on the way crypto assets are handled on centralized exchanges. Earlier this year, Kraken, the second-largest exchange in the U.S., had to cease its staking services after the SEC charged Kraken with a $30 million penalty over irregularities in the staking program.</p>
+      <p>As a result, investors started to prefer self-custody and offshore exchanges to move their BTC holdings.</p>
+      <p>Moreover, data from DeFiLlama highlighted the stark contrast between BTC holdings on U.S. based trading platforms and offshore platforms. The share of BTC tokens on Binance was more than 25% of the total, while on Binance.US, the entity which operates solely for U.S. customers, the share was drastically low.</p>
+      <p>Similarly, BTC occupied a 31% share of all assets on the Seychelles-based exchange, OKX[OKB] while reserves of Bitfinex, based in Hong Kong, consisted of nearly 60% of BTC tokens.</p>
+      <h3>BTC: Bullish sentiment wanes?</h3>
+      <p>With macro uncertainty looming, investors shied away from taking bullish bets on BTC. Data from Coinglass pointed towards a sharp increase in the number of short positions vis-à-vis long positions.</p>
+    </div>
+  },
+  {
+    id: 504,
+    title: 'ADA bears could have an extended stay amid Cardano’s efforts to lure the bulls',
+    category: 'Crypto',
+    subCategory: ['ADA', 'Bears', 'cardano'],
+    description: <div className="blog-desc">
+      <p>ADA road to recovery may be filled with more bears than expected. At the time of writing, ADA didn’t see any buying pressure from traders despite a satisfactory roundup presented by the Cardano community.</p>
+    </div>,
+    authorName: 'Aashna Dunwani',
+    authorurl: 'https://ambcrypto.com/author/aashna-dunwani/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 2, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-472.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article</h3>
+    	<p>ADA road to recovery may be filled with more bears than expected. At the time of writing, ADA didn’t see any buying pressure from traders despite a satisfactory roundup presented by the Cardano community.</p>
+    	<ul>
+        <li>Cardano’s daily digest shared a number of developments that could act in favor of ADA’s growth.</li>
+        <li>However, at the time of writing, ADA was exchanging hands at a loss.</li>
+      </ul>
+      <p>Cardano’s [ADA] efforts with the Voltaire era helped the altcoin see some recovery on its Total Value Locked (TVL) and Long/Short Ratio front. However, as we step into a new month, the ecosystem had something more to offer to the community.</p>	
+    	<p>The Twitter handle, Cardano Feed, published Cardano’s daily digest on 1 May and stated some important updates about the ecosystem. Adding to the Voltaire development, the roadmap presented other important updates related to the ecosystem.</p>	
+    	<h3>Some high expectations doing the rounds</h3>
+      <p>The Twitter thread highlighted Cardano’s collaboration with a next-gen Web3 gaming platform DEADPXLZ to develop its initial game on the Paima Engine. This would be integrated with Cardano.</p>
+      <p>Additionally, the roundup also stated that the SummonsPlatform was launched on the Cardano mainnet. This would enable users to create and manage DAOs in a better way.</p>
+      <p>With so much to offer, Cardano could be on a winning spree. However, was that the case with ADA’s price and its metrics? Let’s find out.</p>
+      <h3>All about the bears</h3>
+      <p>At the time of writing, Cardano’s native token ADA didn’t exactly step up its game. This was because the token was exchanging hands at $0.3842 and stood in the red. The Relative Strength Index (RSI) also stood at 44.28 and didn’t show any signs of making a recovery in the days to come.</p>
+      <p>ADA’s Moving Average Convergence Divergence (MACD) indicator too witnessed a bearish crossover. Although, at press time, the signal and MACD line stayed above the zero line, it was only a matter of time before the two lines make their way past to the other side of zero.</p>
+      <p>Data from the intelligence platform Santiment also seemed to be in support of the bears at the time of writing. Although ADA’s development activity did witness an uptrend over the last few days, at press time, it slipped. ADA’s development activity stood at 83.83, which was a drop from the chain’s development activity over the last few days.</p>
+      <p>Furthermore, a look at the number of holders also didn’t make a significant recovery at the time of writing and moved in a sideways direction. However, ADA did manage to maintain its social dominance despite a bearish outlook on most fronts.</p>
+      <p>Furthermore, as per data from CoinMarketCap, ADA was trading 0.18% lower in the last 24 hours and 3.46% lower over the last seven days. Thus, ADA traders would have to tread slowly at least over the next few days.</p>
+      <p>However, despite ADA being controlled by the bears, the Cardano Foundation shared some good news with the community. As of 1 May, Cardano’s on-chain stats managed to show some growth.</p>
+      <p>This could, thus, change the state of ADA but only if investors managed to garner some bullish momentum.</p>
+    </div>
+  },
+  {
+    id: 505,
+    title: 'Assessing Shiba Inu’s [SHIB] status after the whales’ latest buying spree',
+    category: 'Crypto',
+    subCategory: ['SHIB', 'Shiba', 'Whales'],
+    description: <div className="blog-desc">
+      <p>Over the last 10 days, most large addresses stepped up their game in accumulating SHIB. As of this writing, 615.19 trillion SHIBs were sitting in whales’ wallets.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'Apr 30, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-473.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article</h3>
+    	<p>Over the last 10 days, most large addresses stepped up their game in accumulating SHIB. As of this writing, 615.19 trillion SHIBs were sitting in whales’ wallets.</p>
+    	<ul>
+        <li>Technical indicators sounded a bearish alarm for SHIB at press time.</li>
+        <li>SHIB’s burn rate surged 36% in the last 24 hours but dropped 93% on a weekly basis.</li>
+      </ul>
+      <p>In what was a clear indication of growing demand for Shiba Inu [SHIB], a major whale snapped up more than 168 billion tokens in the last two days of trading, as per information from Etherscan. With the press time price of SHIB, the transactions were worth more than $1.72 million.</p>	
+    	<p>As a result of the buying spree, SHIB became the most traded token among top Ethereum [ETH] whales over the last 24 hours, as per crypto whale tracking website Whalestats.</p>	
+    	<h3>SHIB accumulation on the rise</h3>
+      <p>The data from Etherscan revealed that the whale in question started with modest quantities, but quickly escalated to amass a whopping 108 billion SHIBs in a transaction executed a day and 14 hours before press time.</p>
+      <p>However, it was interesting to note that the whale offloaded more than 49 billion tokens, indicating that an intense to-and-fro movement of SHIB was happening in the market.</p>
+      <p>A staggering 5.15 trillion SHIB, worth more than $52 million, was held by the whale at the time of writing.</p>
+      <p>Over the last 10 days, most large addresses stepped up their game in accumulating SHIB. As of this writing, 615.19 trillion SHIBs were sitting pretty in whales’ wallets, as per Santiment data.</p>
+      <p>As large addresses started to hodl SHIB tokens, supply on exchanges dipped. Over the last 10 days, SHIB’s balance on centralized exchanges dropped from over 90 trillion to 89.2 trillion at press time.</p>
+      <h3>The burn is real</h3>
+      <p>Data from Shibburn revealed that SHIB’s burn rate surged by 36.97% in the last 24 hours, with more than 3.37 million tokens removed out of circulation.</p>
+      <p>However, on a weekly basis, there was a significant decline of 93% from the previous week. As of this writing, SHIB had a circulating supply of 589.54 trillion, according to CoinMarketCap.</p>
+      <p>SHIB exchanged hands at $0.00001029 at press time, up 0.33% in the last 24-hour period. The token was yet to embark on an upward momentum since the 19 April decline. The price kept moving sideways over the last few days of trading.</p>
+      <p>The Relative Strength Index (RSI) continued to move below the neutral level, implying that bearish sentiments were strong. The Moving Average Convergence Divergence (MACD) was below the signal line, reinforcing the strong selling pressure narrative.</p>
+    </div>
+  },
+  {
     id: 503,
     title: 'Bitcoin could jump nearly 70% if the US defaults on its debt, Standard Chartered analyst says',
     category: 'Crypto',
