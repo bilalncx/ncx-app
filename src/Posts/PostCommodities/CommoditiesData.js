@@ -1,5 +1,39 @@
 const data = [
   {
+    id: 502,
+    title: 'Why Oil and Gas Majors Chevron, ExxonMobil, and Petrobras Were Plunging Today',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Gas', 'Chevron'],
+    description: <div className="blog-desc">
+      <p>A combination of negative economic data and thin trading in oil markets led to a sharp drop in crude prices Tuesday.</p>
+    </div>,
+    authorName: 'Billy Duberstein, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 2, 2023 - 11:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-475.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>A combination of negative economic data and thin trading in oil markets led to a sharp drop in crude prices Tuesday.</p>
+    	<h3>What happened</h3>
+      <p>Shares of oil and natural gas majors Chevron (CVX -4.30%), ExxonMobil (XOM -3.98%), and Petrobras (PBR -3.71%) were falling Tuesday, dropping significantly before recovering somewhat to declines of 4.6%, 3.8%, and 3.4%, respectively, as of 2:30 p.m. ET.</p>	
+    	<p>Oil and natural gas businesses are quite sensitive to economic data, and several reports released Tuesday and earlier this week pointed to the likelihood of a global economic slowdown. In addition, the ongoing turmoil in U.S. regional banks threatens to slow lending and economic activity. Finally, holidays in Asia and the United Kingdom on Tuesday resulted in thinner-than-usual trading, which may have exacerbated the downward moves in crude prices.</p>	
+    	<h3>So what</h3>
+      <p>On Tuesday morning, the Labor Department's March Job Openings and Labor Turnover Survey (JOLTS) came in weaker than expected, following on the heels of a manufacturing data report Monday that was similarly below expectations.</p>
+      <p>Job openings came in at 9.59 million in March, down from 9.97 million in February and below the consensus estimate of 9.64 million. The number of layoffs and discharges also grew more than expected to a figure equal to 1.2% of the labor force, up from 1% in February. Of note, there were still about 1.6 job openings for every unemployed person. That's a tight labor market, but not as tight as in February, when there were 1.9 openings per unemployed person. And for much of 2021 and 2022, there were around 2 openings per unemployed person.</p>
+      <p>Also, the Commerce Department reported that U.S. orders for manufactured goods rose 0.9% month-over-month in March after two straight months of declines, but that was lower than the 1.1% gain expected. In addition, the February manufacturing result was revised down from a 0.8% decline to a 1.1% decline.</p>
+      <p>Weak economic data are running up against another event that could tighten financial conditions even further. The Federal Open Market Committee started its two-day meeting Tuesday, and it's expected that it will raise the federal funds rate by another 25 basis points Wednesday, although that's not a certainty. Last week, rate futures suggested about a 90% chance of another 25-basis-point hike.</p>
+      <p>The potential for the Federal Reserve to hike interest rates into a weakening economic picture caused oil prices to plunge Tuesday. That followed a decline on Monday, when Chinese manufacturing data came in weaker than expected. Meanwhile, Iran announced it had actually grown its production to over 3 million barrels per day, which added incremental supply in a market dominated by demand fears.</p>
+      <p>Finally, exacerbating the decline in oil prices Tuesday was a lack of trading activity in the U.K. and Asia due to holidays. Thin volume and a lack of liquidity can enhance price moves in either direction.</p>
+      <p>Basically, the messy macroeconomic picture pushed oil prices down by about 5% to their lowest levels since December. In that light, it's no surprise that even diversified majors fell too. Smaller oil and natural gas companies slid even more.</p>
+      <h3>Now what</h3>
+      <p>Both ExxonMobil and Chevron recently reported first-quarter numbers that beat analysts' consensus estimates, but as huge global oil and gas companies, they can't really escape the macroeconomic situation.</p>
+      <p>Meanwhile, Petrobras has been performing well, but it has been under pressure for other reasons. The partially state-owned oil company just elected a new board of directors that will likely pivot it toward a more liberal policy stance favored by Brazil's new president, Lula da Silva, who backs price controls, environmental preservation, and investments in renewable energy. On Monday, a Brazilian environmental agency recommended against approving Petrobras' plans to drill near the mouth of the Amazon River. Perhaps because Petrobras' stock price had already declined significantly since Brazil's presidential election in the fall, it didn't fall by as much Tuesday.</p>
+      <p>Oil and natural gas companies would no doubt come under pressure in a recession, but they do trade at low multiples today. Investors who hold these stocks not only benefit from their dividends, but also can profit during supply shocks like those that occurred last year. However, it appears as though demand worries are the problem of the day now, and likely will be in the months ahead.</p>
+    </div>
+  },
+  {
     id: 501,
     title: 'Oil drops as economic growth concerns offset OPEC+ cuts',
     category: 'Commodities',

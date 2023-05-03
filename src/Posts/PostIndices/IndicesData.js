@@ -1,5 +1,142 @@
 const data = [
   {
+    id: 503,
+    title: 'FTSE 100 Live: ‘Investors are extremely anxious’ ahead of US rates call; oil price falls',
+    category: 'Indices',
+    subCategory: ['FTSE', 'US', 'Oil'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 index today regained lost ground during a busy session for blue-chip updates.</p>
+    </div>,
+    authorName: 'City Staff',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 3, 2023 - 3:02 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-476.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 index today regained lost ground during a busy session for blue-chip updates.</p>
+    	<p>Alongside the latest developments at Lloyds Banking Group, Flutter Entertainment and Barratt Developments, markets have reacted to the FCA’s decision last night to reform listing rules in order to make it easier for companies to list in London.</p>	
+    	<p>In the US, meanwhile, investors are awaiting the Federal Reserve’s latest interest rate decision amid hopes that tonight’s quarter point increase will be the last in the cycle.</p>	
+    	<h3>FTSE 100 Live Wednesday</h3>
+      <ul>
+        <li>Federal Reserve to hike rates again</li>
+        <li>Lloyds profit ahead of hopes at £2.3bn</li>
+        <li>Barratt Developments sees signs of recovery</li>
+      </ul>
+      <h3>Price of fish and chips jumps a fifth</h3>
+      <p>12:24 , Daniel O'Boyle</p>
+      <p>The cost of fish and chips has shot up by almost a fifth and the price of children’s clothes has rocketed, according to a new interactive tool showing Britons how much their shopping bills have surged over the past year.</p>
+      <p>The Office for National Statistics (ONS) has launched a comparison tool to show how much everyday items have increased during the cost-of-living crisis.</p>
+      <h3>Sharp fall in oil prices</h3>
+      <p>11:54 , Daniel O'Boyle</p>
+      <p>Oil prices plunged toward $70 a barrell, hitting the share prices of London’s supermajors.</p>
+      <p>Brent Crude fell by 2.4% to $71.82, the lowest since March, amid wider concerns about the economy.</p>
+      <p>“Oil prices have been crushed again over the last 24 hours as US regional bank shares sold off heavily and fuelled fears of a more significant economic downturn this year,” Craig Erlam, senior market analyst for the UK and EMEA at OANDA, said.</p>
+      <p>He added that he believed the decline should be a warning to the Federal Reserve to pause its rate hikes: “The warning signs are there that investors are extremely anxious about the global economic prospects, particularly the US, and the data is slowly catching up which should deter the Fed from hiking today but it in all likelihood won't.”</p>
+      <h3>Lloyds beats profit forecasts as lenders now look toward BOE rate hike</h3>
+      <p>11:39 , Michael Hunter</p>
+      <p>Lloyds Banking Group became the latest big-name high street lender to beat profit forecasts today, in the finale of a strong reporting season for UK financial companies, which have shrugged off the crisis seen in the sector in the US and Europe.</p>
+      <p>The country’s biggest single mortgage lender, which has 26 million customers in total, reported profit before tax of £2.3 billon for the first quarter, up from £1.5 billion in the same period a year ago. It was higher than the £1.95 billion forecast by City experts.</p>
+      <h3>Card Factory sales boosted as shoppers embrace High Street</h3>
+      <p>10:50 , Daniel O'Boyle</p>
+      <p>Card Factory has recorded a 27.1% full-year sales jump, with physical shops performing better than online for the retailer.</p>
+      <p>The company saw annual revenue reach £463.4 million in the year to January 31. Comparable sales growth was 6.7%.</p>
+      <p>Chief executive Darcy Willson-Rymer said: “These strong results reflect positive momentum across the business, including notable progress on our strategic growth initiatives, buoyed by the marked shift of customer spend back towards the high street.”</p>
+      <h3>BP down again but FTSE 100 higher, Pearson rebounds 6%</h3>
+      <p>10:24 , Graeme Evans</p>
+      <p>Lufthansa’s forecast of a summer “travel boom” failed to lift airline stocks today as investors focused on the outlook for cargo earnings.</p>
+      <p>Shares in IAG, which trades as British Airways, Iberia and Aer Lingus, faded 3% or 4.55p to 147.5p despite Lufthansa reporting a 73% jump in passenger revenues as demand returns to above pre-pandemic levels on short and medium haul leisure routes.</p>
+      <p>Chief executive Carsten Spohr added: “After a good first quarter in which we were able to significantly improve our result, we now expect a travel boom in the summer as well as a new record in our traffic revenue for the year as a whole.”</p>
+      <p>In contrast to passenger routes, Lufthansa said cargo earnings fell sharply as air freight rates stabilised after their boost from Covid supply chain disruption. Lufthansa shares dropped 5%, offsetting an otherwise positive session for European markets.</p>
+      <p>The FTSE 100 index put back some of Tuesday’s 1% loss by adding 24.23 points to 7,797.26, helped by a rise of 6% or 49p to 803p for education publisher Pearson.</p>
+      <p>The recovery from yesterday’s 14.5% slide came as Deutsche Bank reiterated a 1140p target price and said there was limited read-across to Monday’s warning by US-based Chegg over the impact of AI chatbots on its homework-help services.</p>
+      <p>There was no such bounceback for BP as shares fell another 6.9p to 481.45p, adding to yesterday’s 8% slide when concerns over the outlook trumped forecast-beating profits.</p>
+      <p>It was a similar story for Sensodyne-to-Panadol consumer health firm Haleon after it posted revenues growth of 13.7%. The performance was overshadowed by Pfizer’s plans to sell down its 32% stake, causing Haleon to fall 4% or 13.3p to 339.7p.</p>
+      <p>The FTSE 250 index improved 65.12 points to 19,379.35, led by TI Fluid Systems as a surge in vehicle production boosted first quarter revenues. The shares jumped 15% or 16.2p to 124.2p.</p>
+      <h3>Nisa announces plans to open another 400 shops</h3>
+      <p>10:11 , Daniel O'Boyle</p>
+      <p>Nisa has announced plans to open a further 400 shops this year as part of a continuing recruitment drive.</p>
+      <p>The group has already opened 130 new stores this year and increased links with wholesale partners, including Greens Retail and MPK.</p>
+      <p>Some 473 new shops were opened last year.</p>
+      <h3>RS Group CFO quits amid ‘relationship with colleague’</h3>
+      <p>09:38 , Daniel O'Boyle</p>
+      <p>The CFO of electrical parts distributor RS Group quit with immediate effect today after admitting to a “personal relationship with a colleague”.</p>
+      <p>David Egan said he would resign as “there have been some shortcomings of judgment” and his actions have “fallen short of the high standards expected of RS leadership”.</p>
+      <p>RS chair Rona Fairhead said: “Following a thorough review, the board has accepted David’s resignation and in stepping down he recognises the importance of leaders setting and abiding by exemplary standards”.</p>
+      <p>Fairhead also praised Egan’s work in “driving transformation” as CFO. Egan became CFO in 2016 with RS Group’s shares below 250p and left with them at 913p.</p>
+      <p>Today, shares are down 2.6% to 889.4p.</p>
+      <p>Egan made £1.8 million last year. He was set to earn up to £8.4 million this year, depending on performance.</p>
+      <h3>British Land secures planning consent for urban logistics hub serving central London</h3>
+      <p>09:36 , Joanna Bourke</p>
+      <p>Paddington is set to get a new ultra-low carbon logistics development that could help satisfy post-pandemic demand for very speedy deliveries, after property giant British Land got the green light for its first “microhub”.</p>
+      <p>The FTSE 100 developer has secured planning permission for a 121,000 square feet scheme called ‘The Box’ underneath its 5 Kingdom Street office tower. Construction is expected to complete by 2026.</p>
+      <p>Flutter UK revenue soars as sector braces for safer gambling reforms</p>
+      <p>08:32 , Daniel O'Boyle</p>
+      <p>Sky Bet and Paddy Power owner Flutter Entertainment saw UK revenue grow 17% in the final quarter before the Government announced safer gambling reforms that could cost the business £100 million a year.</p>
+      <p>However, CEO Peter Jackson said that the reforms in question couldn’t yet be implemented in the way the Government has proposed without changes to technology or data rules.</p>
+      <p>“It will be very difficult for us to implement these measures now,” he said. “It’s not clear what those will be and there will have to be technical reforms for those to be in place.</p>
+      <p>The reform expected to have the largest  impact on revenue is the introduction of new ‘financial risk checks’, where gambling firms must perform ‘passive’ checks for credit black marks like county court judgements on customers depositing more than £125 in a day. Customers depositing £1,000 per day of £2,000 in 90 days will face closer scrutiny, which the Government likened to credit checks for borrowers.</p>
+      <p>The Government has put out a consultation on the reforms. Jackson said it remained to be seen how the Government would simultaneously deliver its promises of protecting those at risk and not introducing too much friction for gamblers.</p>
+      <p>“That’s the whole point of the consultation,” he said.</p>
+      <h3>Pearson leads FTSE 100 recovery, Haleon falls 3%</h3>
+      <p>08:31 , Graeme Evans</p>
+      <p>The FTSE 100 index has recovered some of yesterday’s lost ground after adding 31.06 points to 7804.09 in today’s early dealings.</p>
+      <p>Education coursework publisher Pearson led the way, having fallen 14% yesterday after US-based Chegg highlighted the impact of AI chatbots on the growth of its homework-help services.</p>
+      <p>Pearson shares rallied 4% or 27.6p to 781.6p as Deutsche Bank analysts reiterated a 1140p target price and said the read-across from Chegg’s warning appeared to be limited.</p>
+      <p>There was no such bounceback for BP shares, however, as the oil giant remained close to its opening mark at 488.25p. Concerns over the outlook sent shares more than 8% lower yesterday, even though the heavyweight stock beat expectations with first quarter profits.</p>
+      <p>Among the blue-chips reporting today, Lloyds Banking Group edged up 0.2p to 47.88p and Flutter Entertainment improved 10p to 15,800p. Shares in consumer healthcare business Haleon dropped 3% or 11.45p to 341.55p, even though its first quarter results were in line with the guidance given alongside its AGM last month.</p>
+      <h3>Barratt Developments points to signs of recovery in UK housing market</h3>
+      <p>08:10 , Joanna Bourke</p>
+      <p>Barratt Developments today said sales have picked up and it will meet City profit expectations, with the UK’s largest housebuilder adding to signs of a recovery in the residential market.</p>
+      <p>Like rivals, the FTSE 100 company saw trading impacted after the aftermath of September’s mini Budget sent mortgage bills jumping, and on top of that a cost of living crisis has hit demand.</p>
+      <p>In February Barratt reported early signs of recovery in reservation rates, and chief executive David Thomas has now said: “Whilst the economic backdrop remains difficult, we are pleased that more positive sales rates have been maintained through this period and we are now fully forward sold for FY23.”</p>
+      <h3>US bank shares hit by more turbulence</h3>
+      <p>07:46 , Graeme Evans</p>
+      <p>The KBW Nasdaq Bank index fell 4.5% yesterday and is now below where it was at the time of turmoil involving Silicon Valley Bank and Credit Suisse at the end of March. The industry benchmark has lost about a quarter of its value in the year to date.</p>
+      <p>With the crisis far from over after the weekend collapse of First Republic and the subsequent purchase of its assets by JP Morgan Chase, shares in US regional banks dropped sharply yesterday before steadying later in the session.</p>
+      <p>PacWest Bancorp still ended the day 28% lower and Metropolitan Bank down by more than 20%, while heavyweight stocks also came under pressure as Citigroup and Bank of America both lost around 3% of their value.</p>
+      <p>Concerns over the US debt ceiling have added to the jitters after Treasury Secretary Janet Yellen said the government could run out of money within a month unless Congress agrees to lift the statutory borrowing limit.</p>
+      <h3>Aston Martin sales accelerate but net debt goes up a gear too</h3>
+      <p>07:37 , Simon Hunt</p>
+      <p>Aston Martin Lagonda posted a 27% jump in sales to just under £300 million for the first quarter of 2023 but saw its net debt increase by more than £100 million on the previous quarter to £868 million.</p>
+      <p>The supercar maker said its DBS 770 Ultimate, the most powerful production Aston Martin ever, was unveiled in January 2023, with all 499 examples having already sold out.</p>
+      <p>Canadian billionaire Lawrence Stroll, boss of Aston Martin, said: “Since the start of the year, we have continued to see strong demand across our product range, with our current range of sports cars essentially sold out for the year.</p>
+      <p>“The DBX707, the first car developed under my leadership, continues to receive broad media acclaim and, with a growing number incredibly satisfied customers, is strengthening the DBX orderbook in our all major markets, as well as our overall financial performance.”</p>
+      <h3>Metro Bank reports first unadjusted profit</h3>
+      <p>07:28 , Daniel O'Boyle</p>
+      <p>In a quarter marked by banking turmoil, Metro Bank reported an unadjusted profit for the first time.</p>
+      <p>The high street bank founded in 2010 reported an underlying profit in the final quarter of last year, but achieved profit on a statutory basis for the first time in Q1 as new current account openings rose by 18%.</p>
+      <p>“Metro Bank has delivered a second consecutive quarter of underlying profitability and March has been our strongest month of performance since the turnaround commenced,” Boss Daniel Frumkin said. “We continued to attract more personal and business accounts, demonstrating the strong appeal of our service-led, community-based model.</p>
+      <p>“Whilst we remain watchful of macroeconomic headwinds, we continue to optimise the business for improved risk-adjusted returns and are confident in our plan to become a sustainably profitable growth engine.”</p>
+      <h3>Lloyds profit hits £2.3 billion in the first quarter beating City forecasts</h3>
+      <p>07:25 , Michael Hunter</p>
+      <p>Lloyds Banking Group has reported profit before tax of £2.3 billon for the first quarter, up from £1.5 billion in the same period a year ago.</p>
+      <p>That was higher than the £1.95 billion forecast by City experts.</p>
+      <p>Loans and advances to customers dropped by £2.6 billion to £452.3 billion. Customers pulled £2.2 billion out of accounts in the period, taking them to £473.1 billion. Retail current account balances dropped by £3.5 billion, partly due to “seasonal outflows” including tax bills due in January. Commercial banking deposits rose £2.7 billion, offsetting the decline in retail accounts.</p>
+      <p>Its forecast-beating profits, from a period where the global banking sector was hit by crisis, were another sign that the turbulence from the collapse of Credit Suisse and Silicon Valley Bank in the US left the UK sector untouched.</p>
+      <p>Charlie Nunn, Lloyds chief executive, called the performance “solid”, but added: “The macroeconomic outlook remains uncertain. We know that this is challenging for many people. Our purpose driven strategy, alongside our financial strength, means we can continue to support our customers across the country.”</p>
+      <p>The update from the high street lender brings the curtain down on reporting season for banks.</p>
+      <h3>US shares under pressure, FTSE 100 steadies</h3>
+      <p>07:20 , Graeme Evans</p>
+      <p>US stock markets were sharply lower last night amid ongoing concerns over the health of the country’s regional banking sector.</p>
+      <p>The prospect of tonight’s Federal Reserve interest rates decision and press conference also kept investors on the sidelines as the S&P 500 index fell 1.2%.</p>
+      <p>The selling hit almost all sectors, with financial stocks among the worst affected after the collapse of First Republic and subsequent takeover by JP Morgan Chase.</p>
+      <p>The impact of rising interest rates on financial stability will remain in focus today as US policymakers are widely expected to announce another quarter point hike in borrowing costs.</p>
+      <p>However, traders will also be looking for any indication from Fed chairman Jerome Powell that a funds range of 5%-5.25% represents the peak of the cycle.</p>
+      <p>The US jitters impacted trading in London yesterday, leaving the FTSE 100 index down by more than 1%. CMC Markets expects a calmer session this morning and is forecasting a rise of 25 points to 7798 at the opening bell.</p>
+      <p>Recap: Yesterday’s top stories</p>
+      <p>06:53 , Simon Hunt</p>
+      <p>Good morning. Here’s a summary of our top stories from yesterday.</p>
+      <ul>
+        <li>The Financial Conduct Authority has unveiled a fresh set of reforms to London’s listing rules to make it a more attractive destination for a wider range of businesses.</li>
+        <li>The boss of HSBC laid out a fresh vision for Silicon Valley Bank UK, which it bought for £1 in March, after it posted a surge in profits.</li>
+        <li>BP unveiled blockbuster profits but said it was not on course to beat last year’s earnings record.</li>
+        <li>Shareholders in Ocado have revolted against huge pay awards for its senior management.</li>
+      </ul>
+    </div>
+  },
+  {
     id: 502,
     title: 'Global stocks mostly up as yen tumbles after Bank of Japan decision',
     category: 'Indices',

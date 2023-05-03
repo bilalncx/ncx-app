@@ -1,5 +1,124 @@
 const data = [
   {
+    id: 503,
+    title: 'Chinas AI industry barely slowed by US chip export rules',
+    category: 'Markets',
+    subCategory: ['China', 'AI', 'US'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - U.S. microchip export controls imposed last year to freeze China's development of supercomputers used to develop nuclear weapons and artificial-intelligence systems like ChatGPT are having only minimal effects on China's tech sector.</p>
+    </div>,
+    authorName: 'Stephen Nellis, Josh Ye and Jane Lanhee Lee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 3, 2023 - 12:07 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-477.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Stephen Nellis, Josh Ye and Jane Lanhee Lee</p>
+    	<p>(Reuters) - U.S. microchip export controls imposed last year to freeze China's development of supercomputers used to develop nuclear weapons and artificial-intelligence systems like ChatGPT are having only minimal effects on China's tech sector.</p>	
+    	<p>The rules restricted shipments of Nvidia Corp and Advanced Micro Devices Inc chips that have become the global technology industry's standard for developing chatbots and other AI systems.</p>	
+    	<p>But Nvidia has created variants of its chips for the Chinese market that are slowed down to meet U.S. rules. Industry experts told Reuters the newest one - the Nvidia H800, announced in March - will likely take 10% to 30% longer to carry out some AI tasks and could double some costs compared with Nvidia's fastest U.S. chips.</p>
+      <p>Even the slowed Nvidia chips represent an improvement for Chinese firms. Tencent Holdings, one of China's largest tech companies, in April estimated that systems using Nvidia's H800 will cut the time it takes to train its largest AI system by more than half, from 11 days to four days.</p>
+      <p>"The AI companies that we talk to seem to see the handicap as relatively small and manageable," said Charlie Chai, a Shanghai-based analyst with 86Research.</p>
+      <p>The back-and-forth between government and industry exposes the U.S. challenge of slowing China's progress in high tech without hurting U.S. companies.</p>
+      <p>Part of the U.S. strategy in setting the rules was to avoid such a shock that the Chinese would ditch U.S. chips altogether and redouble their own chip-development efforts.</p>
+      <p>"They had to draw the line somewhere, and wherever they drew it, they were going to run into the challenge of how to not be immediately disruptive, but how to also over time degrade China's capability," said one chip industry executive who requested anonymity to talk about private discussions with regulators.</p>
+      <p>The export restrictions have two parts. The first puts a ceiling on a chip's ability to calculate extremely precise numbers, a measure designed to limit supercomputers that can be used in military research. Chip industry sources said that was an effective action.</p>
+      <p>But calculating extremely precise numbers is less relevant in AI work like large language models where the amount of data the chip can chew through is more important.</p>
+      <p>Nvidia is selling the H800 to China's largest technology firms, including Tencent, Alibaba Group Holding Ltd and Baidu Inc for use in such work, though it has not yet started shipping the chips in high volumes.</p>
+      <p>"The government isn’t seeking to harm competition or U.S. industry, and allows U.S. firms to supply products for commercial activities, such as providing cloud services for consumers," Nvidia said in a statement last week.</p>
+      <p>China is an important customer for U.S. technology, it added.</p>
+      <p>"The October export controls require that we create products with an expanding gap between the two markets," Nvidia said last week. We comply with the regulation while offering as-competitive-as-possible products in each market."</p>
+      <p>Bill Dally, Nvidia's chief scientist, said in a separate statement this week that “this gap will grow quickly over time as training requirements continue to double every six to 12 months."</p>
+      <p>A spokesperson for the Bureau of Industry and Security, the arm of the U.S. Commerce Department that oversees the rules, did not return a request for comment.</p>
+      <p>SLOWED BUT NOT STOPPED</p>
+      <p>The second U.S. limit is on chip-to-chip transfer speeds, which does affect AI. The models behind technologies such as ChatGPT are too large to fit onto a single chip. Instead, they must be spread over many chips - often thousands at a time - which all need to communicate with one another.</p>
+      <p>Nvidia has not disclosed the China-only H800 chip's performance details, but a specification sheet seen by Reuters shows a chip-to-chip speed of 400 gigabytes per second, less than half the peak speed of 900 gigabytes per second for Nvidia's flagship H100 chip available outside China.</p>
+      <p>Some in the AI industry believe that is still plenty of speed. Naveen Rao, chief executive of a startup called MosaicML that specializes in helping AI models to run better on limited hardware, estimated a 10-30% system slowdown.</p>
+      <p>"There are ways to get around all this algorithmically," he said. "I don't see this being a boundary for a very long time - like 10 years."</p>
+      <p>Money helps. A chip in China that takes twice as long to finish an AI training task than a faster U.S. chip can still get the work done. "At that point, you've got to spend $20 million instead of $10 million to train it," said one industry source who requested anonymity because of agreements with partners. "Does that suck? Yes it does. But does that mean this is impossible for Alibaba or Baidu? No, that's not a problem."</p>
+      <p>Moreover, AI researchers are trying to slim down the massive systems they have built to cut the cost of training products similar to ChatGPT and other processes. Those will require fewer chips, reducing chip-to-chip communications and lessening the impact of the U.S. speed limits.</p>
+      <p>Two years ago the industry was thinking AI models would get bigger and bigger, said Cade Daniel, a software engineer at Anyscale, a San Francisco startup that provides software to help companies perform AI work.</p>
+      <p>"If that were still true today, this export restriction would have a lot more impact," Daniel said. "This export restriction is noticeable, but it's not quite as devastating as it could have been."</p>
+      <p>(Reporting by Stephen Nellis and Jane Lee in San Francisco and Josh Ye in Hong Kong; Editing by Peter Henderson and Matthew Lewis)</p>
+    </div>
+  },
+  {
+    id: 504,
+    title: 'UBS weighed Credit Suisse deal as early as December - SEC filing',
+    category: 'Markets',
+    subCategory: ['UBS', 'Credit Suisse', 'SEC'],
+    description: <div className="blog-desc">
+      <p>ZURICH (Reuters) -UBS was considering the potential impact of buying struggling rival Credit Suisse as early as December, months before the takeover was hastily arranged by Swiss authorities in March, according to a regulatory filing.</p>
+    </div>,
+    authorName: 'Noele Illien',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 3, 2023 - 11:54 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-478.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Noele Illien</p>
+    	<p>ZURICH (Reuters) -UBS was considering the potential impact of buying struggling rival Credit Suisse as early as December, months before the takeover was hastily arranged by Swiss authorities in March, according to a regulatory filing.</p>	
+    	<p>The filing with the U.S. Securities and Exchange Commission (SEC) also showed UBS concluded in February that buying Credit Suisse was not desirable, but that it should prepare in case its rival encountered "serious financial difficulties".</p>	
+    	<p>The disclosure, dated April 26, provides the clearest insight yet into UBS's thinking and shows it had been looking at its struggling competitor months before the rescue deal orchestrated by Swiss authorities was put together.</p>
+      <p>In March, UBS agreed to take over Credit Suisse for 3 billion Swiss francs ($3.4 billion) and said it would assume up to 5 billion francs in losses, as part of a rescue that is backed by as much as 250 billion francs of state support.</p>
+      <p>In February, Switzerland's financial regulator FINMA said it was closely monitoring Credit Suisse given it was experiencing "significant" outflows, but noted the stabilising effect of its liquidity buffers. Only days before the rescue, the regulator and the central bank, while pledging funding if necessary, still judged Credit Suisse remained sound.</p>
+      <p>They stepped in after clients, unsettled by market turmoil unleashed by the collapse of two mid-sized U.S. lenders, kept pulling money from the scandal-plagued 167-year-old institution.</p>
+      <p>The regulator later defended its actions, saying it had been quick to respond and called for more powers to call banks to account.</p>
+      <p>Since then, the Swiss authorities and UBS have been racing to close the takeover as soon as possible in an effort to retain Credit Suisse's clients and employees, Reuters has reported.</p>
+      <p>Addressing a financial conference in Zurich on Wednesday, UBS Chief Executive Sergio Ermotti said the bank aimed to close the deal by the end of May or early June.</p>
+      <p>UBS said in the filing that the merger still required approval from regulators in the European Union, India, Japan, Mexico and South Korea.</p>
+      <p>Last month, UBS secured temporary approval from European Union antitrust regulators, while the U.S. Federal Reserve approved the UBS Group's acquisition of Credit Suisse's U.S. subsidiaries.</p>
+      <p>The filing also said the merger could be terminated if its "closing conditions have not been satisfied" by December, but that any missing regulatory approvals would not be treated as a breach of those conditions by UBS.</p>
+      <p>(Reporting by Noele IllienAdditional reporting by Stefania SpezatiWriting by Matthias Williams and Tomasz Janowski Editing by Sharon Singleton and Mark Potter)</p>
+    </div>
+  },
+  {
+    id: 505,
+    title: 'Stocks climb out of the red as traders wait on the Fed',
+    category: 'Markets',
+    subCategory: ['Stocks', 'FED', 'Markets'],
+    description: <div className="blog-desc">
+      <p>LONDON/ SINGAPORE (Reuters) -U.S. stock futures rose on Wednesday in fragile markets with traders on tenterhooks for any clues from the U.S. Federal Reserve statement today that rate hikes might peak and the soft landing that central banks have been angling for is in sight.</p>
+    </div>,
+    authorName: 'Nell Mackenzie and Tom Westbrook',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 3, 2023 - 6:24 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-479.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Nell Mackenzie and Tom Westbrook</p>
+    	<p>LONDON/ SINGAPORE (Reuters) -U.S. stock futures rose on Wednesday in fragile markets with traders on tenterhooks for any clues from the U.S. Federal Reserve statement today that rate hikes might peak and the soft landing that central banks have been angling for is in sight.</p>	
+    	<p>Yields on 2-month U.S. Treasury bills jumped on rising concerns that the U.S. Treasury Department could hit its debt limit earlier than anticipated.</p>	
+    	<p>Brent crude, which dropped 5% overnight, fell further and was last down about 3% at $73.04 a barrel.</p>
+      <p>Tuesday saw a hammering of shares of U.S. regional banks. PacWest Bancorp dropped 27.8%, while Western Alliance Bancorp tumbled 15.1% and Comerica Inc fell 12.4%.</p>
+      <p>Markets are all but certain the Federal Reserve will announce a 25-basis-point rate hike when it announces its policy decision at 1800 GMT. If that happens, the focus will be on whether or how hard Fed Chair Jerome Powell pushes back on investors' expectations for rate cuts by year's end.</p>
+      <p>The pan-European STOXX 600 index was up almost 0.5% after Tuesday's sharp selloff. S&P 500 futures edged up 0.1% but the mood was cautious, with banks in the crosshairs.</p>
+      <p>"It's not clear today whether markets are driven by the debt ceiling, the rout in regional banks or anxiety about the FOMC determinations," said Vijay Modhvadia, managing director of Deuterium Capital Management.</p>
+      <p>Traders will be combing the Fed's statement for any indication of a rate hike pause, or looking to see if the wording keeps options open for another hike in June, said Modhvadia.</p>
+      <p>U.S. central bankers will have had an early look at the Senior Loan Officer Opinion Survey, which has not yet been released publicly, he added.</p>
+      <p>In Europe, where the crisis of confidence in banks forced Credit Suisse into the arms of larger rival UBS six weeks ago, similar data was already public with lenders sharply turning off the credit taps, a report on Tuesday showed, perhaps making a case for a smaller European Central Bank rate hike this week.</p>
+      <p>"The market consensus is for a soft landing and every hint in that direction, if you trust the Fed and the ECB, should be a source of good news for equities and credit," said Florian Ielpo, head of macro at Lombard Odier Investment Managers.</p>
+      <p>Markets face a "macro heavy week" said Ielpo, with investors looking back at a strong first quarter earnings season but anticipating that Friday's U.S. jobs report might reveal a deteriorating macro economic situation.</p>
+      <p>Markets in China and Japan were shut for a holiday. Hong Kong's shares fell, dragging MSCI's broadest index of Asia-Pacific shares, ex-Japan, down about 0.6%.</p>
+      <p>Bonds and gold held gains. The dollar, slipping, was caught in the crosswinds of falling yields and rising nerves.</p>
+      <p>EYES ON THE FED</p>
+      <p>Currency markets were steady and also awaiting direction from the Fed. The euro was last up 0.3% at $1.1030.</p>
+      <p>Elsewhere, the Australian dollar was flat after the previous day's 0.5% gain following a surprise rate increase from the Reserve Bank of Australia.</p>
+      <p>Gold hovered above $2,016 an ounce, little changed on the day.</p>
+      <p>Two-year U.S. treasury yields fell 2 bps to around 3.96% and 10-year yields fell 3 bps to around 3.40%.</p>
+      <p>Investors have a wary eye on the looming U.S. debt ceiling, with lawmakers squabbling and Treasury Secretary Janet Yellen warning the government might run out of money as soon as June 1.</p>
+      <p>Top U.S. Senate Republicans on Tuesday called on President Joe Biden to accept their package or make a counter-offer, while a top Democrat said the Senate might try to advance a "clean" debt-ceiling hike next week.</p>
+      <p>"Either this game is over within a few weeks or we are going to see a suspension of the debt limit until later this year," said Rabobank strategist Philip Marey. "In both cases, we are not likely to see any solution until financial markets start to panic."</p>
+      <p>(Editing by Lincoln Feast and Kim Coghill; Editing by Emelia Sithole-Matarise)</p>
+    </div>
+  },
+  {
     id: 502,
     title: 'Fed decision, Apple earnings, April jobs report: What to know this week',
     category: 'Markets',
