@@ -11,6 +11,7 @@ import WalletMobileVideo2 from '../../../images/wallet_mbl2.mp4';
 import {ReactComponent as NCXBadge1} from '../../../images/ncx-badge.svg';
 import {ReactComponent as NCXBadge2} from '../../../images/ncx-badge2.svg';
 import { useTranslation } from "react-i18next";
+import SExchange from '../../../images/s-exchange.mp4';
 
 function Indices5()
 {
@@ -67,7 +68,7 @@ function Indices5()
                         </div>
                     </div>
                 </div>
-                <div className="plat__ggre row">
+                <div id="ghrthf-we" className="plat__ggre row">
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
                             <h2>{t("ncx_c_trader_app")}</h2>
@@ -79,7 +80,18 @@ function Indices5()
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
-                            <img src={Device4} alt="ncx_platform" />
+                            {/* <img src={Device4} alt="ncx_platform" /> */}
+                            <video 
+                                id="phomsdf"
+                                autoPlay={true}
+                                muted={true}
+                                loop={true}
+                                playsInline={true}
+                                preload="auto"
+                                // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                                >
+                                <source src={SExchange} type="video/mp4" />
+                            </video>
                         </div>
                     </div>
                     <div className="col trg__ff__fe">

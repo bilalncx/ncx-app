@@ -239,21 +239,15 @@ button.reverses svg{
     background: #5ED3F0 !important;
     color: #FFFFFF !important;
 }
-#ncx_market_table tr, .table_search_tabs{
+/* #ncx_market_table tr, .table_search_tabs{
     border-bottom: 1px solid hsla(0,0%,100%,.1) !important;
-}
+} */
 #table_divddd th, tbody#ncx_market_table tr td p, .table_search_tabs button, .trend_pairs p, .prix p{
     color: rgba(255, 255, 255, 0.7) !important;
 }
 #market_table_body tr td h1, tbody#ncx_market_table tr td h2{
     color: #FFFFFF !important;
 }
-/* table#table_divddd{
-    padding: 0px !important;
-} */
-/* .table_search_tabs{
-    margin: 0px 10px 0px 0px !important;
-} */
 #ncx_market_table tr:hover {
     background: #000000 !important;
     box-shadow: 0 0px 30px 0 rgba(255,255,255,.25) !important;

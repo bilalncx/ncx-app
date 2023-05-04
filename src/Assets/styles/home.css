@@ -216,7 +216,7 @@ div#market:before {
 #market #market_table_body tr:hover{
     background: #000000;
     box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
-    padding: 0px 5px !important;
+    /* padding: 0px 5px !important; */
 }
 #market .featured_market {
     background: #101010 !important;

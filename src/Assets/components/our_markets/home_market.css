@@ -79,11 +79,11 @@ td.mark-graph {
     box-shadow: 0 10px 30px 0 rgba(109,114,152,.25);
     -webkit-box-shadow: 0 10px 30px 0 rgb(109 114 6.08%);
     box-shadow: 0 10px 30px 0 rgb(109 114 6.08%);
-    margin-left: -30px;
-    margin-right: -30px;
+    margin-left: -10px;
+    margin-right: -10px;
     margin-top: -1px;
-    padding-left: 30px !important;
-    padding-right: 30px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
     border-radius: 6px;
 }
 tr.hed {

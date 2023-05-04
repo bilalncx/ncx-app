@@ -50,6 +50,16 @@
     align-items: center;
     justify-content: center;
 }
+.pho__img{
+    position: relative;
+}
+#ghrthf-we .pho__img {
+    max-height: 450px;
+    min-height: 450px;
+}
+video#phomsdf{
+    max-height: 450px;
+}
 .pho__img img{
     max-height: 400px;
     width: auto;

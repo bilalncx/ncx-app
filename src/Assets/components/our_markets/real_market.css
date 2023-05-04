@@ -32,7 +32,7 @@ section.market_pag {
     min-height: 60px;
     position: relative;
 }
-#table_divddd thead th:nth-child(1), tbody#ncx_market_table tr td:nth-child(1) {
+/* #table_divddd thead th:nth-child(1), tbody#ncx_market_table tr td:nth-child(1){
     width: 20%;
 }
 #table_divddd thead th:nth-child(2), tbody#ncx_market_table tr td:nth-child(2) {
@@ -54,7 +54,7 @@ section.market_pag {
 #table_divddd thead th:nth-child(7), tbody#ncx_market_table tr td:nth-child(7) {
     width: 15%;
     text-align: end;
-}
+} */
 .star-svg svg {
     width: 17px;
     height: auto;
