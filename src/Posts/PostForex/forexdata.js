@@ -1,5 +1,54 @@
 const data = [
   {
+    id: 504,
+    title: 'FOREX-Dollar gains, euro dips after cautious ECB',
+    category: 'Forex',
+    subCategory: ['Dollar', 'Euro', 'ECB'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - The dollar rose on Thursday against the euro after the European Central Bank eased its pace of rate hikes, a day after the Federal Reserve hiked rates by 25 basis points and indicated that it may pause further increases.</p>
+    </div>,
+    authorName: 'Karen Brettell',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 4, 2023 - 11:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-489.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) - The dollar rose on Thursday against the euro after the European Central Bank eased its pace of rate hikes, a day after the Federal Reserve hiked rates by 25 basis points and indicated that it may pause further increases.</p>
+    	<p>The ECB’s 25-basis-point increase was the smallest since it started lifting them last summer, but the bank also signalled that more tightening would be needed to tame inflation.</p>	
+    	<p>The Fed on Wednesday dropped from its policy statement language saying that it "anticipates" further rate increases would be needed. Market reaction was relatively subdued, however, with the euro and yen failing to break out of recent ranges against the greenback.</p>	
+    	<p>The single currency has gained against the dollar in recent months as investors bet the dollar’s interest rate advantage over the single currency would continue to decline.</p>
+      <p>But analysts said that much of that expected move may already be priced in, with the next focus likely to be when the U.S. central bank will start cutting rates.</p>
+      <p>“The monetary policy dynamics are more or less fully priced in here at this point in terms of the tightening cycle, now it’s going to be a focus on the bets on when the Fed starts to ease, how much it eases and how that relates to what (other) central banks are doing,” said Shaun Osborne, chief FX strategist at Scotiabank in Toronto.</p>
+      <p>The dollar index was last up 0.15% on the day at 101.36. The index is holding just above a one-year low of 100.78 reached on April 14, and has fallen from a 20-year high of 114.78 on Sept. 28. The euro fell 0.41% to $1.1018. It reached a 13-month high of $1.1096 last week. The dollar also fell 0.34% to 134.17 Japanese yen.</p>
+      <p>Fed funds futures traders are now pricing in a roughly 62% chance the Fed will begin cutting rates by July, according to the CME Group’s FedWatch.</p>
+      <p>Adding to the argument that the Fed will soon begin easing monetary conditions were lingering fears of banking sector turmoil.</p>
+      <p>Analysts at Morgan Stanley said that "we think the Fed is done hiking rates. But we expect the US dollar to gain," noting that "falling Treasury yields may herald a risk-off trading environment, implying US dollar strength to come."</p>
+      <p>Shorter-dated rates are likely to fall on growing concern about the U.S. banking sector, the analysts said in a report, as money market fund assets continue to grow and banks see more deposit outflows.</p>
+      <p>Shares of PacWest Bancorp and Western Alliance Bancorp shares plunged on Thursday, dragging other regional lenders down, as reports of both banks exploring strategic options sparked investor worries of a widening financial crisis.</p>
+      <p>The greenback got a brief boost on Thursday after data showed that U.S. Unit labor costs - the price of labor per single unit of output - surged at a 6.3% rate in the first quarter, after increasing at a 3.3% pace in the fourth quarter.</p>
+      <p>"That gave the dollar a bit of a push up because it came in quite a bit higher than expected and it’s not really commensurate with the Fed on hold story," said Osborne. This week’s main U.S. economic focus will be Friday’s jobs report for April, which is expected to show that employers added 180,000 jobs during the month, while average earnings are expected to have increased at an annual rate of 4.2%. Sterling was last up 0.10% at $1.2580 after hitting $1.2593 earlier on Thursday, the highest since June 2022.</p>
+      <p>The greenback was last down 0.87% against the Norwegian crown at 10.76 after Norway's central bank raised interest rates by 25 basis points as expected.</p>
+      <p>Currency bid prices at 3:05PM (1905 GMT) Description RIC Last U.S. Close Pct Change YTD Pct High Bid Low Bid Previous Change Session Dollar index 101.3600 101.2300 +0.15% -2.058% +101.6400 +101.0200</p>
+      <p>Euro/Dollar $1.1018 $1.1063 -0.41% +2.82% +$1.1091 +$1.0986</p>
+      <p>Dollar/Yen 134.1700 134.6450 -0.34% +2.35% +134.8700 +133.5000</p>
+      <p>Euro/Yen 147.83 149.06 -0.83% +5.37% +149.2000 +147.1400</p>
+      <p>Dollar/Swiss 0.8856 0.8843 +0.16% -4.21% +0.8891 +0.8822</p>
+      <p>Sterling/Dollar $1.2580 $1.2566 +0.10% +4.01% +$1.2598 +$1.2550</p>
+      <p>Dollar/Canadian 1.3536 1.3616 -0.58% -0.09% +1.3632 +1.3520</p>
+      <p>Aussie/Dollar $0.6696 $0.6671 +0.37% -1.78% +$0.6706 +$0.6641</p>
+      <p>Euro/Swiss 0.9758 0.9777 -0.19% -1.38% +0.9812 +0.9746</p>
+      <p>Euro/Sterling 0.8756 0.8803 -0.53% -1.00% +0.8815 +0.8747</p>
+      <p>NZ Dollar/Dollar $0.6286 $0.6230 +0.90% -1.00% +$0.6298 +$0.6208</p>
+      <p>Dollar/Norway 10.6810 10.7580 -0.87% +8.66% +10.7680 +10.6580</p>
+      <p>Euro/Norway 11.7703 11.8869 -0.98% +12.17% +11.9252 +11.7590</p>
+      <p>Dollar/Sweden 10.2402 10.2576 -0.60% -1.61% +10.2910 +10.2213</p>
+      <p>Euro/Sweden 11.2837 11.3514 -0.60% +1.20% +11.3750 +11.2790</p>
+      <p>(Reporting by Karen Brettell; Additional reporting by John Alun in London; Editing by Christina Fincher and Lisa Shumaker)</p>
+    </div>
+  },
+  {
     id: 503,
     title: 'Dollar dominance could give way to a tripolar currency system as Chinas yuan and the euro rise on the world stage',
     category: 'Forex',

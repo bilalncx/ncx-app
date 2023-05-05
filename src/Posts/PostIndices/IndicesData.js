@@ -1,5 +1,104 @@
 const data = [
   {
+    id: 504,
+    title: '3 Nasdaq 100 Stocks That Are Surefire Buys in May',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Stocks', 'Buys'],
+    description: <div className="blog-desc">
+      <p>These growth-driven innovators are attractively priced and begging to be bought.</p>
+    </div>,
+    authorName: 'Sean Williams, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 1:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-487.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>These growth-driven innovators are attractively priced and begging to be bought.</p>
+	    <p>Things can change pretty quickly on Wall Street. In 2021, stocks could seemingly do no wrong, with all three major indexes cresting to new highs. In 2022, these same indexes all plunged into respective bear markets, with the growth-driven Nasdaq Composite and Nasdaq 100 -- an index comprised of the 100 largest nonfinancial stocks listed on the Nasdaq exchange -- losing a third of their value.</p>	
+	    <p>However, big declines often yield big opportunity for investors. No matter how painful a decline has been for a major stock index throughout history, that loss was eventually (key word!) fully recouped during a bull market. It means the short-term pain the Nasdaq 100 has endured is the ideal time for long-term investors to pounce.</p>	
+	    <p>What follows are three Nasdaq 100 stocks that stand out as surefire buys in May.</p>
+      <h3>Datadog</h3>
+      <p>The first Nasdaq 100 stock that makes for a phenomenal buy in May following a miserable 2022 is cloud-based observability company Datadog (DDOG 14.52%).</p>
+      <p>Probably the biggest knock against Datadog is the growing expectation the U.S. economy will fall into a recession in the not-too-distant future. With the Federal Reserve now modeling a "mild recession" into its outlook for later this year, there's the concern that demand for anything involving software-as-a-service (SaaS) solutions, including monitoring, could taper.</p>
+      <p>Thankfully for Datadog, it's benefiting from macro and company-specific catalysts, which should help it successfully navigate a potential economic downturn.</p>
+      <p>In terms of the former, the COVID-19 pandemic has reshaped the labor force. Despite some people returning to the office, more folks than ever are working remotely. This historically large remote workforce has increased the importance of application monitoring in a very short time. Gartner expects Datadog's addressable market for observability will catapult by roughly 50% to $62 billion between 2022 and 2026.</p>
+      <p>On a company-specific level, Datadog pointed out in February that its key growth driver is still in its very early stages. Corporate cloud spending as a percentage of global infrastructure technology spend is expected to grow from around 8% in 2021 to an estimated 20% by 2026.  Datadog's observability opportunity is still in its early innings.</p>
+      <p>But what's been particularly impressive is Datadog's ability to score big clients. The number of customers generating at least $1 million in annual recurring revenue (ARR) skyrocketed from 11 in 2017 to 317 in 2022. Further, 85% of the company's total ARR now derives from the 12% of customers (approximately 2,780) with at least $100,000 in ARR (note, this write-up was done prior to Datadog's first-quarter earnings release on May 4). Add-on sales from these big fish should help Datadog sustain a sales growth rate of 25%, if not higher.</p>
+      <p>Despite a seemingly frothy valuation based on the traditional price-to-earnings ratio, Datadog's price-to-earnings-growth ratio (PEG ratio) of 1.5 suggests it's an attractive deal.</p>
+      <h3>JD.com</h3>
+      <p>A second magnificent Nasdaq 100 growth stock that's a surefire buy in May is China-based e-commerce company JD.com (JD 3.17%).</p>
+      <p>China stocks have had a rough go in numerous respects since the COVID-19 pandemic began. The zero-COVID mitigation strategy in that country led to three years of stringent, unpredictable lockdowns that hurt supply chains in most sectors and industries. Thankfully, things have changed.</p>
+      <p>Following domestic protests, China's regulators ended the controversial zero-COVID strategy in December. Though it could take some time for China's citizens to build up some degree of vaccine-based or natural immunity to the SARS-CoV-2 virus that causes COVID-19, this was a necessary move by regulators to jump-start the world's No. 2 economy. This removes a big overhang for a growth stalwart like JD.com.</p>
+      <p>There's also been some concern about JD getting into a price war with China's other key e-commerce players, such as Alibaba (BABA 1.24%). However, these skeptics are overlooking a sizable difference in the operating models between Alibaba and JD.</p>
+      <p>The former generates the majority of its sales from third-party marketplaces, whereas JD predominantly operates as a direct-to-consumer retailer. In other words, it's handling the inventory and logistics necessary for order-to-doorstep delivery. JD's operating model gives it greater control over its expenses than Alibaba, which I expect will lead to better operating margin and a higher sustained organic growth rate.</p>
+      <p>JD.com also has an opportunity to unlock shareholder value by following in Alibaba's footsteps and spinning off key assets. In late March, JD announced plans to spin off its property and industrial segments and list them on the Hong Kong stock exchange. Doing so should make future operating results even easier for investors to understand.</p>
+      <p>Lastly, JD.com is cheaper than it's ever been as a publicly traded company. Shares can be purchased for just over 10 times Wall Street's consensus earnings for 2024. Even taking into account the added risks associated with China stocks, JD's superior growth rate makes its stock a steal.</p>
+      <h3>PayPal Holdings</h3>
+      <p>The third Nasdaq 100 stock that's a surefire buy in May is none other than fintech stock PayPal Holdings (PYPL 0.53%).</p>
+      <p>Arguably the biggest issue for PayPal is the historically high inflation consumers and businesses have been dealing with over the past year. Rapidly rising prices for goods and services threatens to reduce the purchasing power of low-earning workers. It could also lower the number of transactions completed on PayPal or Venmo, the company's two core digital transaction networks.</p>
+      <p>Interestingly, though, PayPal has struggled far less than you'd imagine. Total payment volume (TPV) reached $1.36 trillion in 2022, which represents a 13% increase from the prior-year period, excluding currency movements. Keep in mind that this 13% growth rate occurred with inflation at a four-decade high and U.S. gross domestic product shrinking in the first half of 2022. It's a testament to the growth potential of digital transactions and suggests a return to 20%-plus annual TPV growth is possible once the U.S. economy is firing on all cylinders again.</p>
+      <p>But as I've previously pointed out, PayPal's greatest strength is its user engagement. At the end of 2020, active accounts were completing an average of 40.9 transactions over the trailing-12-month (ttm) period. That compares to the 51.4 average transactions per active account over the ttm at the end of 2022. Since PayPal is primarily a fee-driven business, more transactions will almost certainly mean higher gross profit for the company.</p>
+      <p>Although PayPal is a growth company, CEO Dan Schulman isn't oblivious to his company's near-term challenges. That's why Schulman outlined plans to reduce annual expenditures by at least $1.3 billion in 2023. Further, PayPal's board approved buying back up to $15 billion worth of common stock. Fewer shares outstanding should result in a boost to earnings per share, which would make PayPal's stock appear even more attractive.</p>
+      <p>Like JD.com, PayPal is as cheap as it's ever been as a publicly traded company. Investors can scoop up shares right now for 13 times Wall Street's consensus earnings for 2024. For context, PayPal has averaged a forward price-to-earnings ratio of 35 over the past five years. This makes it nothing short of a screaming bargain.</p>
+    </div>
+  },
+  {
+    id: 505,
+    title: 'FTSE 100 and European stocks rise with interest rates still in focus',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Europen', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European markets opened higher on Friday as investors continued to assess the impact of rate hikes by the European Central Bank (ECB) and US Federal Reserve.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 11:41 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-488.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 and European markets opened higher on Friday as investors continued to assess the impact of rate hikes by the European Central Bank (ECB) and US Federal Reserve.</p>
+    	<p>Traders are also digesting European Central Bank (ECB) inflation projections and April construction purchasing managers' index (PMI) figures – which showed the UK sector growing, despite the weakest housebuilding activity in almost two years.</p>	
+    	<h3>FTSE 100 and European stocks</h3>
+      <p>The FTSE 100 (^FTSE) rose 0.64% to 7,751.70. The CAC 40 (^FCHI) in Paris climbed 0.56% to 7,381.68 points – and in Germany, the DAX (^GDAXI) went up 0.66% to 15,837.98.</p>	
+    	<p>“After slumping to a one-month low on Thursday, the FTSE 100 is trading higher lifted by British Airways’ parent company IAG which has taken to the skies following first quarter earnings,” Victoria Scholar, head of investment at Interactive Investor, said.</p>
+      <p>BP was also at the top of the FTSE 100 basket after the energy giant reported a first-quarter profit of $4.96bn this week, which beat analysts’ expectations of $4.3bn.</p>
+      <h3>US and Asia markets</h3>
+      <p>In Asia, the major markets were mixed overnight with mainland Chinese markets slipping after a weak Caixin services PMI reading for April.</p>
+      <p>Tokyo’s Nikkei 225 (^N225) gained 0.12% to 29,157.95 points, while the Hang Seng (^HSI) in Hong Kong rose 0.49% to 20,046.91. In mainland China, the Shanghai Composite (000001.SS) was in the red, down 0.61% to 3,329.51 points.</p>
+      <p>In the US, all three indexes closed the session lower as investors fretted over more turmoil ahead in the banking sector – and digested the impact of the Federal Reserve raising interest rates again.</p>
+      <p>The Dow Jones (^DJI) dropped 0.86% to 33,127.74 points, while the S&P 500 (^GSPC) fell 0.72% to 4,061.22 points. The tech-heavy NASDAQ (^IXIC) also declined - by 0.49% to 11,966.40.</p>
+      <p>Shares of PacWest (PACW) dropped 50%, while Western Alliance (WAL) stock dropped nearly 40% after the lender denied that executives are exploring a possible sale.</p>
+      <h3>Pound</h3>
+      <p>The pound (GBPUSD=X) gained against the US dollar by 0.50% to 1.26 as traders opted for the currency amid fresh concern in the US banking sector. Against the euro, the sterling (GBPEUR=X) also rose, by 0.18% to 1.14.</p>
+      <h3>Oil prices</h3>
+      <p>In commodities, crude prices edged higher on Friday after losing ground this week.</p>
+      <p>US crude oil, or West Texas Intermediate (CL=F), rose 1.14% to $69.34 a barrel, while Brent crude (BZ=F) gained 1.19% to $73.36 a barrel.</p>
+      <p>“However, oil is still on track for its third week of losses reflecting uncertainty about the global economic outlook and the threat of weaker demand, particularly from China,” Victoria Scholar, head of investment at Interactive Investor, said.</p>
+      <h3>Economic data</h3>
+      <p>The monthly US employment report, or non-farm payrolls, is due out later showing how many jobs the country’s economy created in April.</p>
+      <p>“Expectations for a strong headline number have risen following the ADP employment report on Wednesday indicating that 296,000 jobs were added to the private sector last month. This has encouraged optimism that the monthly employment report might even show that more than 300,000 jobs were added to the US economy in April,” Jameel Ahmad, chief analyst at CompareBroker.io, said.</p>
+      <p>Ahmad also noted that global markets could decline, even if the latest employment report presents a blockbuster number, as a resilient jobs report validates the narrative of the Federal Reserve to continue not giving too much away when it comes to the future monetary policy outlook.</p>
+      <p>Meanwhile, investors were also taking in the latest activity data in Britain's construction sector, which increased in April.</p>
+      <p>The S&P Global/CIPS UK Purchasing Managers' Index for the construction industry came in at 51.1 in April, up from 50.7 in March.</p>
+      <p>However, growth was lopsided as residential house-building suffered its steepest decline since May 2020 as a result of weaker demand and higher mortgage rates.</p>
+      <p>Also on Friday, the European Central Bank released its quarterly Survey of Professional Forecasters, a key input in policy deliberations.</p>
+      <p>It revealed the ECB now sees 2023 inflation at 5.6%, down from the 5.9% expected three months ago, while the 2024 projection was cut to 2.6% from 2.7%.</p>
+      <p>The 2025 figure was lifted to 2.2% from 2.1% and the "longer term" figure, which refers to 2027, was kept at 2.1%.</p>
+      <p>Furthermore, retail sales in the eurozone have also been released by Eurostat.</p>
+      <p>The data showed retail sales volumes in the 20 nations sharing the euro currency fell by 1.2% in March from the previous month, outpacing the 0.1% drop seen in a Reuters poll of economists.</p>
+      <h3>Adidas earnings</h3>
+      <p>The sports retail giant reported first quarter sales of €5.27bn on Friday, beating analysts’ expectations. Adidas (ADS.DE) put it down to strong demand for the Terrace shoe as well as the Samba and Gazelle.</p>
+      <p>Meanwhile, its operating profit hit €60m, quadrupling consensus forecasts for €15m. However, it reported a net loss from continuing operations of €24m – and gross margins declined.</p>
+      <p>“There appears to be green shoots of optimism for the sportswear giant which is still reeling from the Yeezy / Kanye West crisis after its partnership with Ye ended last year. This resulted in a €400m dash to sales, hitting North America hardest and leaving Adidas with a huge pile of unsold shoe inventory,” Scholar commented.</p>
+      <p>Adidas also said it has been struggling with cost inflation and the softening consumer backdrop, which has led to greater discounting.</p>
+      <p>“Although shares fell sharply in October after its Yeezy deal terminated, shares have been rebounding over the last six months. Investors are also optimistic about new CEO Bjørn Gulden thanks to his impressive CV including his recent nine-year term at Puma at which he helped spearhead the brand’s revival,” Scholar added.</p>
+    </div>
+  },
+  {
     id: 503,
     title: 'FTSE 100 Live: ‘Investors are extremely anxious’ ahead of US rates call; oil price falls',
     category: 'Indices',
