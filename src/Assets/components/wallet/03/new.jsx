@@ -15,6 +15,7 @@ import SNFTS from '../../../images/s-nfts.mp4';
 import SReceive from '../../../images/s-receive.mp4';
 import SStore from '../../../images/s-store.mp4'; 
 import SSwap from '../../../images/s-swap.mp4';
+import SBrowser from '../../../images/s-browser.mp4';
 
 function Indices5()
 {
@@ -94,7 +95,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo2} type="video/mp4" />
+                                <source src={WalletMobileVideo} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -171,7 +172,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src={WalletMobileVideo2} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -198,7 +199,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src={SBrowser} type="video/mp4" />
                             </video>
                         </div>
                     </div>
