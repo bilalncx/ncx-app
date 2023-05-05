@@ -29,16 +29,16 @@
 .tx__ff {
     display: flex;
     gap: 50px;
-    margin-top: 50px;
 }
 .tx__ff .col:nth-child(1){
-    width: 68%;
+    width: 100%;
     flex: inherit !important;
-    padding-right: 50px;
+    padding-right: 0px;
 }
 .tx__ff .col:nth-child(2){
     width: 32%;
     flex: inherit !important;
+    display: none;
 }
 .tx__ff p {
     color: #616262;
@@ -188,6 +188,9 @@ svg.styles_icon__C_hdQ {
 #ncx_cryptoCard #institutional_about .OTCsect.row.mobile, h3.mbl__why_otc{
     display: none;
 }
+.otc__tx .trading_col{
+    display: none;
+}
 
 @media screen and (min-width: 1280px){
     .about_logo {
@@ -203,7 +206,7 @@ svg.styles_icon__C_hdQ {
         display: none;
     }
     .otc__tx {
-        padding: 30px 0px;
+        padding: 0px 0px;
     }
     .otc__tx .trading_col {
         width: 100% !important;

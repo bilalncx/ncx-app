@@ -6,6 +6,7 @@ import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import NCXAPPVideo from '../../../images/ncx_app_vi.mp4';
 import OTCMobileVideo from '../../../images/buy_page.mp4';
+import VideSection from '../../../images/home__newvideo.mp4';
 
 function FirstVideo()
 {
@@ -13,7 +14,7 @@ function FirstVideo()
 
     return(
         <div className="institutional__ser">
-            <div className="ambassador_card row">
+            {/* <div className="ambassador_card row">
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>{t("NCX")}</h1>
@@ -26,7 +27,6 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    {/* <img src={CryptoCard2} alt="ncx_crypto_card" /> */}
                     <video
                         autoPlay={true}
                         muted={true}
@@ -38,6 +38,27 @@ function FirstVideo()
                 </div>
                 <div className="col card_imgb">
                     <img src={CryptoCard1} alt="ncx_crypto_card" />
+                </div>
+            </div> */}
+
+            <div className="new__ambass">
+                <div className="desktop">
+                    <video 
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                        >
+                        <source src={VideSection} type="video/mp4" />
+                    </video>
+                </div>
+                <div className="container">
+                    <div className="insse">
+                        <h1>NCX Institutional Services for Commercial Entities, Funds, Brokerages, Exchanges and HNWI</h1>
+                        <Button href="#">Apply</Button>
+                    </div>
                 </div>
             </div>
 
