@@ -777,7 +777,7 @@ div#tran_lang svg path {
         position: fixed;
         top: 0px;
         width: 100% !important;
-        padding: 80px 40px 0px 40px ;
+        padding: 70px 40px 0px 40px ;
         background: #000000;
         height: 100vh;
         z-index: -1;
@@ -788,7 +788,7 @@ div#tran_lang svg path {
         padding: 0px;
     }
     .navigation-menu.expanded ul li {
-        padding: 15px 10px;
+        padding: 13px 10px;
         margin: 0px !important;
     }
     .navigation-menu.expanded ul li a {
