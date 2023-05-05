@@ -468,21 +468,21 @@ function show(data) {
     const ZECChanged = parseFloat(ZEC5).toFixed(4);
 
 	// BTC / USDC
-	const BTCUSD1 = data.BTC_USDC.id;
-	const BTCUSD_ID = BTCUSD1.replace(/_/g, " / ");  
+	const BTCUSDC1 = data.BTC_USDC.id;
+	const BTCUSDC_ID = BTCUSDC1.replace(/_/g, " / ");  
 	
-	const BTCUSD2 = data.BTC_USDC.last;
-	const BTCUSD_Price = parseFloat(BTCUSD2);
-	const BTCUSD_Pricenew = parseFloat(BTCUSD2).toFixed(2);
+	const BTCUSDC2 = data.BTC_USDC.last;
+	const BTCUSDC_Price = parseFloat(BTCUSDC2);
+	const BTCUSDC_Pricenew = parseFloat(BTCUSDC2).toFixed(2);
 	
-	const BTCUSD3 = data.BTC_USDC.high24hr;
-	const BTCUSD_High = parseFloat(BTCUSD3).toFixed(4);
+	const BTCUSDC3 = data.BTC_USDC.high24hr;
+	const BTCUSDC_High = parseFloat(BTCUSDC3).toFixed(4);
 	
-	const BTCUSD4 = data.BTC_USDC.low24hr;
-	const BTCUSD_Low = parseFloat(BTCUSD4).toFixed(4);
+	const BTCUSDC4 = data.BTC_USDC.low24hr;
+	const BTCUSDC_Low = parseFloat(BTCUSDC4).toFixed(4);
 
-	const BTCUSD5 = data.BTC_USDC.percentChange * 100;
-    const BTCUSDChanged = parseFloat(BTCUSD5).toFixed(4);
+	const BTCUSDC5 = data.BTC_USDC.percentChange * 100;
+    const BTCUSDCChanged = parseFloat(BTCUSDC5).toFixed(4);
 
 	// SNX / USDT
 	const SNX1 = data.SNX_USDT.id;
@@ -603,22 +603,22 @@ function show(data) {
 	const XRPBTC5 = data.XRP_BTC.percentChange * 100;
     const XRPBTCChanged = parseFloat(XRPBTC5).toFixed(4);
 
-	// BTC / USDT
-	const BTCUSDT1 = data.BTC_USD.id;
-	const BTCUSDT_ID = BTCUSDT1.replace(/_/g, " / ");  
+	// BTC / USD
+	const BTCUSD1 = data.BTC_USD.id;
+	const BTCUSD_ID = BTCUSD1.replace(/_/g, " / ");  
 	
-	const BTCUSDT2 = data.BTC_USD.last;
-	const BTCUSDT_Price = parseFloat(BTCUSDT2);
-	const BTCUSDT_Pricenew = parseFloat(BTCUSDT2).toFixed(2);
+	const BTCUSD2 = data.BTC_USD.last;
+	const BTCUSD_Price = parseFloat(BTCUSD2);
+	const BTCUSD_Pricenew = parseFloat(BTCUSD2).toFixed(2);
 	
-	const BTCUSDT3 = data.BTC_USD.high24hr;
-	const BTCUSDT_High = parseFloat(BTCUSDT3).toFixed(4);
+	const BTCUSD3 = data.BTC_USD.high24hr;
+	const BTCUSD_High = parseFloat(BTCUSD3).toFixed(4);
 	
-	const BTCUSDT4 = data.BTC_USD.low24hr;
-	const BTCUSDT_Low = parseFloat(BTCUSDT4).toFixed(4);
+	const BTCUSD4 = data.BTC_USD.low24hr;
+	const BTCUSD_Low = parseFloat(BTCUSD4).toFixed(4);
 
-	const BTCUSDT5 = data.BTC_USD.percentChange * 100;
-    const BTCUSDTChanged = parseFloat(BTCUSDT5).toFixed(4);
+	const BTCUSD5 = data.BTC_USD.percentChange * 100;
+    const BTCUSDChanged = parseFloat(BTCUSD5).toFixed(4);
 
 	// USDT / USD
 	const USDTUSD1 = data.USDT_USD.id;
@@ -738,6 +738,23 @@ function show(data) {
 
 	const UNI5 = data.UNI_USDT.percentChange * 100;
     const UNIChanged = parseFloat(UNI5).toFixed(4);
+
+	// BTC / USDT
+	const BTCUSDT1 = data.BTC_USDT.id;
+	const BTCUSDT_ID = BTCUSDT1.replace(/_/g, " / ");  
+	
+	const BTCUSDT2 = data.BTC_USDT.last;
+	const BTCUSDT_Price = parseFloat(BTCUSDT2);
+	const BTCUSDT_Pricenew = parseFloat(BTCUSDT2).toFixed(2);
+	
+	const BTCUSDT3 = data.BTC_USDT.high24hr;
+	const BTCUSDT_High = parseFloat(BTCUSDT3).toFixed(4);
+	
+	const BTCUSDT4 = data.BTC_USDT.low24hr;
+	const BTCUSDT_Low = parseFloat(BTCUSDT4).toFixed(4);
+
+	const BTCUSDT5 = data.BTC_USDT.percentChange * 100;
+    const BTCUSDTChanged = parseFloat(BTCUSDT5).toFixed(4);
 
 
 	let tab =
@@ -1603,6 +1620,38 @@ function show(data) {
 			</td>
 			<td>
 				<h1>$1,310,484.00</h1>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<span class="star-svg">
+					<svg width="18" height="17" viewBox="0 0 18 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M8.28912 0.446631C8.48263 -0.148878 9.3251 -0.148876 9.51861 0.446631L11.1774 5.55189C11.2639 5.81822 11.5121 5.99851 11.7921 5.99851H17.1601C17.7863 5.99851 18.0466 6.79977 17.54 7.16781L13.1973 10.323C12.9707 10.4876 12.8759 10.7794 12.9624 11.0457L14.6212 16.151C14.8147 16.7465 14.1332 17.2417 13.6266 16.8736L9.2838 13.7184C9.05725 13.5538 8.75048 13.5538 8.52393 13.7184L4.18114 16.8736C3.67458 17.2417 2.993 16.7465 3.18648 16.151L4.84528 11.0457C4.93181 10.7794 4.83701 10.4876 4.61048 10.323L0.267682 7.16781C-0.238887 6.79977 0.0214564 5.99851 0.64761 5.99851H6.0156C6.29563 5.99851 6.5438 5.81822 6.63032 5.55189L8.28912 0.446631Z" fill="#C6C6D3"/>
+					</svg>
+				</span>
+				<h1>${BTCUSDC_ID}</h1>
+			</td>
+			<td>
+				<h1>${BTCUSDC_Price}</h1>
+				<p>≈$${BTCUSDC_Pricenew}</p>
+			</td>
+			<td>
+				<h1>${BTCUSDCChanged}%</h1>
+			</td>
+			<td>
+				<h1>${BTCUSDC_High}</h1>
+				<p>≈$${BTCUSDC_High}</p>
+			</td>
+			<td>
+				<h1>${BTCUSDC_Low}</h1>
+				<p>≈$${BTCUSDC_Low}</p>
+			</td>
+			<td>
+				<img src="https://ncx.cx/images/new-graphs/xmr_usdt.png" alt="graph" />
+			</td>
+			<td>
+				<h1>$864,539.00</h1>
 			</td>
 		</tr>
 

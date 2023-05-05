@@ -68,7 +68,7 @@ function FirstVideo()
                 <div className="container">
                     <div className="insse">
                         <h1>NCX Over-the-Counter (OTC) Trade in large blocks with competitive rates</h1>
-                        <Button href="#">Apply</Button>
+                        <Button href="mailto: support@ncx.cx">Apply</Button>
                     </div>
                 </div>
             </div>

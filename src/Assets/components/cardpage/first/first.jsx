@@ -22,7 +22,7 @@ function FirstVideo()
                         <h1>{t("awaits")}</h1>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("get_the_card")}</Button>
-                            <Button href="#" className="card_learn">{t("learn_more")}</Button>
+                            <Button href="#card-details" className="card_learn">{t("learn_more")}</Button>
                         </div>
                     </div>
                 </div>

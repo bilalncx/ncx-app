@@ -12,7 +12,7 @@ function NCXAllCards()
     const { t } = useTranslation();
 
     return(
-        <div className="ncxallcarddiv">
+        <div id="card-details" className="ncxallcarddiv">
             <div className="container">
                 <div className="carddetails">
                     <div className="carddetailsimg">

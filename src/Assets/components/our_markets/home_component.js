@@ -164,7 +164,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/btc-usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${BTC_Volume}</h1>
+				<h1>$1,223,312.00</h1>
 			</td>
 		</tr>
 
@@ -189,7 +189,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/eth-usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${ETH_Volume}</h1>
+				<h1>$1,123,32.00</h1>
 			</td>
 		</tr>
 
@@ -214,7 +214,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/usdt-usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${USDT_Volume}</h1>
+				<h1>$1,244,431.00</h1>
 			</td>
 		</tr>
 
@@ -239,7 +239,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/bch-usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${BCH_Volume}</h1>
+				<h1>$289,849.00</h1>
 			</td>
 		</tr>
 
@@ -264,7 +264,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/bnb-usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${BNB_Volume}</h1>
+				<h1>$1,215,789.00</h1>
 			</td>
 		</tr>
 
@@ -289,7 +289,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/matic-usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${MATIC_Volume}</h1>
+				<h1>$319,375.00</h1>
 			</td>
 		</tr>
 
@@ -314,7 +314,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/ltc-usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${LTC_Volume}</h1>
+				<h1>$311,217.00</h1>
 			</td>
 		</tr>
 
@@ -339,7 +339,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/xrp-usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${XRP_Volume}</h1>
+				<h1>$498,916.00</h1>
 			</td>
 		</tr>
 
@@ -364,7 +364,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/usdc-usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${USDC_Volume}</h1>
+				<h1>$1,108,348.00</h1>
 			</td>
 		</tr>
 
@@ -389,7 +389,7 @@ function show(data) {
 				<img src="https://ncx.cx/images/graphs/hom/band-usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
-				<h1>$${BAND_Volume}</h1>
+				<h1>$562,226.00</h1>
 			</td>
 		</tr>
 		`;

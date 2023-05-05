@@ -57,7 +57,7 @@ function FirstVideo()
                 <div className="container">
                     <div className="insse">
                         <h1>NCX Institutional Services for Commercial Entities, Funds, Brokerages, Exchanges and HNWI</h1>
-                        <Button href="#">Apply</Button>
+                        <Button href="mailto: support@ncx.cx">Apply</Button>
                     </div>
                 </div>
             </div>

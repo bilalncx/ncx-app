@@ -49,7 +49,7 @@ function FirstVideo()
                 <div className="container">
                     <div className="insse">
                         <h1><span>NCX</span> Ambassador Program Earn 40-60% commission on affiliates</h1>
-                        <Button href="#">Apply</Button>
+                        <Button href="mailto: support@ncx.cx">Apply</Button>
                     </div>
                 </div>
             </div>
