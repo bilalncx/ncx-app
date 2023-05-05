@@ -1,5 +1,45 @@
 const data = [
   {
+    id: 503,
+    title: 'The Real Oil Market Shows $20-a-Barrel Price Collapse Is Excessive',
+    category: 'Commodities',
+    subCategory: ['oil', 'Market', 'Price'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Crude markets have suffered a disastrous few weeks, dragged down by alarm over the wider economy. But real oil demand still looks strong enough to foster a rebound in prices.</p>
+    </div>,
+    authorName: 'Alex Longley, Grant Smith and Sharon Cho',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 12:23 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-484.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Crude markets have suffered a disastrous few weeks, dragged down by alarm over the wider economy. But real oil demand still looks strong enough to foster a rebound in prices.</p>
+    	<p>International benchmark Brent almost dropped to $70 a barrel on Thursday after losing 17% since mid-April on fears of a US recession and signs of a disappointing recovery in China. Crude in New York plunged at the open to take the decline over the past three weeks to $20, before recovering.</p>	
+    	<p>Nonetheless, there are signs the underlying oil market is resilient. China is sucking in a flood of cargoes as domestic travel rebounds, and traders expect the country’s crude purchases to remain high in the next few months. Inventories are tightening around the world, and should deplete even faster as Saudi Arabia and its OPEC+ allies implement new supply cutbacks.</p>	
+      <p>That’s reassuring even some of the industry’s most bearish forecasters a supply deficit is coming which will trigger a recovery in prices.</p>
+      <p>“The selloff was far greater than what market balances are showing — namely lower inventories with the prospect of inventory draws as the northern hemisphere’s summer unfolds,” said Ed Morse at Citigroup Inc. The bank has held one of the most cautious price outlooks on Wall Street this year.</p>
+      <p>Crude’s retreat offers some respite for consumers after the inflationary shock inflicted by Russia’s invasion of Ukraine. It also brings pain for bullish oil traders, and puts in peril the windfall being reaped by major oil companies and producing nations like Saudi Arabia and Iraq.</p>
+      <p>Refinery Demand</p>
+      <p>The pullback in crude markets began with fundamentals.</p>
+      <p>Buying by refineries in Asia was subdued in April as margins for making fuels dipped. In a nod to some of that weakness, Saudi Arabia cut its oil prices for Asian processors for June on Thursday.</p>
+      <p>Meanwhile, supplies from top exporter Russia have remained stubbornly high despite Moscow’s threats to slash output in retaliation for sanctions over its invasion of Ukraine.</p>
+      <p>The market was faltering and Morgan Stanley — once at the forefront of calls for $100-a-barrel — on Tuesday abandoned projections for any substantial rally this year.</p>
+      <p>The big drop-off came with worries over the economy and persistent trouble with banks that rippled through markets everywhere. Short-sellers have crept back into the market for the first time since the Saudi-led OPEC+ alliance unveiled new production curbs in early April.</p>
+      <p>But oil consumption continues to appear healthy and may even rise further over the coming months, according to UBS Group AG, which advised clients in a note on Thursday to add long positions in Brent. The physical market, where actual oil is traded, remains strong and supply is “pretty tight,” Shell Plc Chief Executive Officer Wael Sawan said Thursday.</p>
+      <p>Brent futures have started to retrace some of their losses, gaining as much as 1.9% on Friday to trade above $73 a barrel in London. The market’s strength is reflected across the pricing structure, with Brent futures for immediate delivery commanding a premium over later months in a curve known as backwardation.</p>
+      <p>“I don’t think anything has changed fundamentally,” said Paul Horsnell, head of commodities research at Standard Chartered Bank. Instead, these are “perfect conditions to be driven by top-down macro and momentum trading.”</p>
+      <p>China Indicators</p>
+      <p>While traders are still waiting to see how much crude Asia buys this month for further clues on demand, China is attracting cargoes as it emerges from its restrictive Covid rules. Flights in the country surged over the five-day Labor Day holidays with 9.42 million air passenger trips — an increase of 4.2% over the same period in 2019.</p>
+      <p>World oil use too remains on track to climb by a healthy 2 million barrels a day this year to a record 101.9 million barrels a day, according to the International Energy Agency in Paris.</p>
+    	<p>World oil use too remains on track to climb by a healthy 2 million barrels a day this year to a record 101.9 million barrels a day, according to the International Energy Agency in Paris.</p>
+      <p>“For now, the oil market remains mired in a wall of recessionary worry,” Helima Croft, chief commodity strategist at RBC Capital Markets. But “OPEC remains fully committed to trying to midwife a recovery.”</p>
+      <p>The latest slump in crude, coming just days into the output cuts by the Organization of Petroleum Exporting Countries, has been a warning light for the group and its partners. They will gather in person for their next monthly meeting for a detailed review of market trends.</p>
+      <p>“The OPEC cuts should help mitigate” the bearish market backdrop, said Christyan Malek, head of energy strategy at JPMorgan Chase & Co. “OPEC’s role as central bank for energy couldn’t come at a more critical time.”</p>
+    </div>
+  },
+  {
     id: 502,
     title: 'Why Oil and Gas Majors Chevron, ExxonMobil, and Petrobras Were Plunging Today',
     category: 'Commodities',

@@ -1,5 +1,129 @@
 const data = [
   {
+    id: 506,
+    title: 'US banking crisis: Close to 190 banks could collapse, according to study',
+    category: 'Markets',
+    subCategory: ['US', 'Banking', 'Crisis'],
+    description: <div className="blog-desc">
+      <p>With the failure of three regional banks since March, and another one teetering on the brink, will America soon see a cascade of bank failures?</p>
+    </div>,
+    authorName: 'Swapna Venugopal Ramaswamy, USA TODAY',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 2:56 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-482.jpg',
+    content: <div className="blog-content">
+    	<p>With the failure of three regional banks since March, and another one teetering on the brink, will America soon see a cascade of bank failures?</p>
+    	<p>Bloomberg reported Wednesday that San Francisco-based PacWest Bancorp is mulling a sale.</p>	
+    	<p>Last week, First Republic Bank became the third bank to collapse, the second-largest bank failure in U.S. history after Washington Mutual, which collapsed in 2008 amid the financial crisis.</p>	
+    	<p>After the demise of Silicon Valley Bank and Signature Bank in March, a study on the fragility of the U.S. banking system found that 186 more banks are at risk of failure even if only half of their uninsured depositors (uninsured depositors stand to lose a part of their deposits if the bank fails, potentially giving them incentives to run) decide to withdraw their funds.</p>
+      <p>Uninsured deposits are customer deposits greater than the $250,000 FDIC deposit insurance limit.</p>
+      <p><strong>Why are regional banks failing?</strong></p>
+      <p>Regional banks are failing because the Federal Reserve’s aggressive interest rate hikes to tamp down inflation have eroded the value of bank assets such as government bonds and mortgage-backed securities.</p>
+      <p>Most bonds pay a fixed interest rate that becomes attractive when interest rates fall, driving up demand and the price of the bond. On the other hand, if interest rates rise, investors will no longer prefer the lower fixed interest rate paid by a bond, thus driving down its price.</p>
+      <p>Many banks increased their holdings of bonds during the pandemic, when deposits were plentiful but loan demand and yields were weak. For many banks, these unrealized losses will stay on paper. But others may face actual losses if they have to sell securities for liquidity or other reasons, according to the Federal Reserve Bank of St. Louis.</p>
+      <p>“The recent declines in bank asset values very significantly increased the fragility of the U.S. banking system to uninsured depositor runs,” economists wrote in a recent paper published on the Social Science Research Network</p>
+      <p>Of course, this scenario would play out only if the government did nothing.</p>
+      <p>“So, our calculations suggest these banks are certainly at a potential risk of a run, absent other government intervention or recapitalization,” the economists wrote.</p>
+      <p><strong>How did Silicon Valley Bank collapse?</strong></p>
+      <p>In the case of the Santa Clara-based Silicon Valley Bank, which held most of its assets in U.S. government bonds, the market value of its bonds fell when interest rates started going up.</p>
+      <p>That’s because most bonds pay a fixed interest rate that becomes more attractive if interest rates fall, driving up demand and the price of the bond. But when interest rates rise, the lower fixed interest rate paid by a bond is no longer attractive to investors.</p>
+      <p>The timing coincided with the financial difficulties many of the banks’ customers – largely tech startups – were dealing with, forcing them to withdraw their deposits.</p>
+      <p>In addition, Silicon Valley Bank had a disproportional share of uninsured funding, with only 1% of banks having higher uninsured leverage, the paper notes. "Combined, losses and uninsured leverage provide incentives for an SVB uninsured depositor run."</p>
+      <p>A run on these banks could pose a risk to even insured depositors − those with $250,000 or less in the bank − as the FDIC’s deposit insurance fund starts incurring losses, the economists wrote.</p>
+    </div>
+  },
+  {
+    id: 507,
+    title: 'What JPMorgan’s First Republic takeover means for the crypto industry',
+    category: 'Markets',
+    subCategory: ['JP Morgan', 'NFTs', 'Bitget'],
+    description: <div className="blog-desc">
+      <p>In the midst of every crisis lies great opportunity. That’s certainly true in the case of cryptocurrency, the most influential financial innovation of our age, whose very origins are often attributed to the global financial crisis that engulfed banks, economies and livelihoods some 15 years ago.</p>
+    </div>,
+    authorName: 'Forkast.News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 4, 2023 - 3:34 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-483.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>In this issue</p>
+      <ol>
+          <li>First Republic: Reading tea leaves</li>
+          <li>NFTs: Competition stiffens</li>
+          <li>Bitget: Hong Kong hopes</li>
+      </ol>
+    	<h3>From the editor’s desk</h3>
+      <p>Dear Reader,</p>
+    	<p>In the midst of every crisis lies great opportunity. That’s certainly true in the case of cryptocurrency, the most influential financial innovation of our age, whose very origins are often attributed to the global financial crisis that engulfed banks, economies and livelihoods some 15 years ago.</p>
+    	<p>Case in point: the series of U.S. bank implosions that have set people on edge amid talk of a full-blown crisis in the industry whose echoes of 2008 are unmistakable.</p>	
+    	<p>The opportunity lies in the way in which First Republic Bank has been snapped up by JPMorgan Chase following an auction that lasted into Sunday night. First Republic is not a crypto-focused bank, but neither is it crypto-averse. That fact won’t have been lost on its new owner, whose chief executive, Jamie Dimon, has been one of crypto’s most vocal critics. Despite Dimon’s dogmatic public pronouncements on cryptocurrencies, his staff has been quietly courting crypto companies that are seeking new friends in the banking industry following the implosions of Signature and Silvergate.</p>	
+    	<p>Given JPMorgan’s increased engagement with the crypto industry, it appears unlikely that First Republic, as a new part of the banking giant’s empire, will depart from its own openness to crypto or that of its new owner.</p>
+      <p>And although it’s true that the prices of the three biggest cryptocurrencies by market cap fell following the news of First Republic’s collapse, they’re currently trading above or around the levels at which they were changing hands three months ago.</p>
+      <p>Crypto’s attractiveness as an alternative to equity investment (especially investment in smaller banks) has ticked up amid the recent bank implosions, which have also had the effect of opening up opportunities for big, established finance sector players to engage with the industry.</p>
+      <p>All one needs to do is look beyond U.S. shores and see the momentum building in other jurisdictions. From Hong Kong ramping up its plans to regain a place at the top table in Web3 innovation, with a virtual asset service provider policy set to come into effect next month, to Dubai’s Virtual Assets Regulatory Authority providing clear direction, including a clampdown on the embattled Three Arrows Capital founders hoping to do business there. The contrast with what’s taking place in America, where crypto-related firms are still wondering whether they can continue receiving banking services, is dramatic.</p>
+      <p>It’ll be interesting to compare the industry’s mood from the Consensus conference in Austin, Texas last week, where I led some key conversations with founders of major protocols sharing a stage (look out for our new 30-minute show, Forkast IQ, which launches this week) with the vibe of where I’m headed next week.</p>
+      <p>I’ll be in Dubai and Abu Dhabi to share ideas and host roundtable discussions with industry leaders and officials. I expect the gathering not to be dominated by challenges, but rather by encouragement and opportunity. I’ll report back.</p>
+      <p>Until the next time,</p>
+      <p>Angie Lau,</p>
+      <p>Founder and Editor-in-Chief</p>
+      <p>Forkast</p>
+      <p><strong>1. Deal sealed</strong></p>
+      <p>Investment banking giant JPMorgan Chase has announced its purchase of a “substantial majority of assets” of collapsed First Republic Bank after California regulators seized the failed lender and placed it under the receivership of the Federal Deposit Insurance Corporation.</p>
+      <ul>
+        <li>The acquisition included US$173 billion of loans, approximately US$30 billion of securities and the assumption of US$92 billion of deposits, including US$30 billion of large bank deposits, which will be repaid following the closure of the deal or eliminated in consolidation.</li>
+        <li>JPMorgan is assuming all insured and uninsured deposits as part of the agreement.</li>
+        <li>“Our government invited us and others to step up, and we did,” said JPMorgan Chase Chairman and Chief Executive Jamie Dimon. “Our financial strength, capabilities and business model allowed us to develop a bid to execute the transaction in a way to minimize costs to the deposit insurance fund.”</li>
+        <li>The takeover follows the second-largest banking failure in U.S. history and the fourth big banking failure this year after the implosions of Silvergate Bank, Silicon Valley Bank and Signature Bank.</li>
+        <li>Regulators took control of First Republic after it reported around US$100 billion of withdrawals last month, accounting for more than 40% of its total deposits. First Republic’s stock price plunged 45.4% last week following the announcement.</li>
+        <li>As part of the deal, JPMorgan expects to recognize an upfront post-tax gain of approximately US$2.6 billion and anticipates US$2 billion of restructuring costs through 2023 and 2024. The deal is expected to generate more than US$500 million of incremental net income annually.</li>
+        <li>Bitcoin fell as low as US$27,691 after JPMorgan’s announcement but had recovered to trade at US$29,227 by press time, according to CoinMarketCap data.</li>
+        <li>Issues with the banking system could stoke increased demand for safe-haven assets such as Bitcoin and gold. Bitcoin’s price has risen almost 50% from its US$19,669 level on March 10, when Silicon Valley Bank collapsed.</li>
+      </ul>
+      <p><strong>Forkast.Insights | What does it mean?</strong></p>
+      <p>JPMorgan’s rescue of First Republic Bank has prompted mixed reactions across the finance sector. Although it was touted by the White House as depositors having dodged a bullet, others have been less sanguine about the deal.</p>
+      <p>Markets, already spooked by uncertainty over further interest rate increases, have slid, with U.S. regional banks taking a big hit as some of their stocks suffered double-digit declines amid lingering questions about their long-term viability.</p>
+      <p>Crypto prices reacted similarly negatively, with Bitcoin trading below US$27,700 before recovering to top US$29,000. Bitcoin liquidations also ticked up.</p>
+      <p>Critics argue that JPMorgan’s acquisition was sweetened thanks to the U.S. government offering indemnity protection for buying the bank. They’re not wrong. Analysts believe the bank was bought with protections in place and that JPMorgan will profit immediately from the sale.</p>
+      <p>The bigger question for the crypto industry is whether First Republic’s new owner will stick with its positive stance on crypto. The bank had offered guidance for investing in cryptocurrencies before its collapse.</p>
+      <p>JPMorgan meanwhile, has made overtures to crypto firms looking for a secure base in the U.S. market, suggesting that whatever is left of First Republic will remain open to crypto. Historically the crypto industry has relied on smaller banks for its fiat on- and off-ramps. Having America’s biggest bank as the U.S. industry’s main off-ramp would offer a welcome form of respectability against a backdrop of stricter regulatory scrutiny.</p>
+      <p><strong>2. Token tussle</strong></p>
+      <p>Rivalry between non-fungible token (NFT) platforms is intensifying after NFT marketplace Tensor briefly overtook peer Magic Eden’s 24-hour sales volume on the Solana blockchain while Sotheby’s launched its own on-chain NFT marketplace.</p>
+      <ul>
+        <li>Tensor’s sales surge followed the launch of the Mad Ladz NFT collection on Solana, which generated more than US$16.8 million in secondary sales in its first week.</li>
+        <li>To entice traders back to the NFT market, Magic Eden sent all trading fees received within the first 72 hours of Mad Ladz’s launch back to the community, the platform announced on Sunday.</li>
+        <li>“What the market needs now is for a deep, renewed focus on Solana, and we intend to show the Solana community that we have still got their backs,” Tiffany Huang, head of marketing and content at Magic Eden, told The Block, adding that the company was excited to refocus on Solana.</li>
+        <li>Competition between NFT platforms heated up further this week when auction house Sotheby’s announced the launch of its fully on-chain, peer-to-peer NFT marketplace for the Ethereum and Polygon blockchains.</li>
+        <li>OpenSea rival Blur also announced the launch of Blend, a peer-to-peer perpetual lending protocol for NFTs. Blend purports to offer new yield generation opportunities and higher liquidity for NFT holders. It launched with zero fees for lenders and borrowers.</li>
+        <li>The Forkast 500 NFT index fell 0.81% to 3,655.20 points in the 24 hours prior to press time and is down by 1.83% over the past week.</li>
+      </ul>
+      <p><strong>Forkast.Insights | What does it mean?</strong></p>
+      <p>The NFT marketplace war has mostly been a race to the bottom. Fees have been slashed to zero, royalties scrapped and market-distorting wash trading broadly tolerated, leaving many NFT creators with an even more meager slice of the pie. But the entry of prestige auction house Sotheby’s into the NFT marketplace promises a reversal of these trends.</p>
+      <p>Sotheby’s, a hallowed institution in the fine art world better known for selling Picasso paintings and Jeff Koons sculptures, is luring NFT artists with promises of creator royalty fees between 5% and 10% of sale prices. Sotheby’s acknowledged that its decision comes amid a broader discussion on resale royalties in relation to NFTs and the market trend away from it.</p>
+      <p>With NFT sales in a new downward spiral since their resurgence in January and February, Sotheby’s presence in this market provides assurances for deep-pocketed buyers. Since its entrance into the NFT space, it has sold US$120 million of NFTs, chalking up a series of records for some of the highest prices fetched for digital artworks.</p>
+      <p>Those record-breaking fees came during the NFT boom years of 2021 and 2022, and it remains to be seen whether the 279-year-old auction house can continue to draw moneyed crowds to digital art. However things pan out, for the NFT artists picked by Sotheby’s, the chance to capture more royalties is at least a long-overdue realization of crypto’s early promise to creators.</p>
+      <p><strong>3. License to build</strong></p>
+      <p>Seychelles-based cryptocurrency exchange Bitget is applying for a cryptocurrency exchange operating license in Hong Kong as part of the city’s new crypto licensing regime, which is set to take effect in June.</p>
+      <ul>
+        <li>“Bitget is applying for a crypto exchange operation license in Hong Kong,” its managing director, Gracy Chen, told Forkast in an interview. “We are in the process already. We have hired a compliance team.”</li>
+        <li>Chen said she expected Hong Kong to provide more regulatory clarity around the issuance of crypto exchange licenses next month.</li>
+        <li>Bitget — the 7th largest crypto exchange by trading volume, according to CoinGecko — is one of many crypto firms looking to establish a presence in Hong Kong after authorities announced a plan to remake the city into a global digital asset hub.</li>
+        <li>As a lack of regulatory clarity clouds the outlook for crypto firms in the U.S., Ripple Labs President Monica Long told Forkast that crypto innovators could leave to seek greener pastures in Asian countries with more regulatory certainty.</li>
+        <li>Chen said that Bitget was hiring staff for around 100 positions and that the exchange had doubled its workforce since last June.</li>
+        <li>The Hong Kong Monetary Authority’s deputy chief executive, Arthur Yuen, last week urged banks to offer services to regulated virtual asset-related firms in a bid to attract more crypto companies to the city.</li>
+      </ul>
+      <p><strong>Forkast.Insights | What does it mean?</strong></p>
+      <p>Just a year and a half ago, facing regulatory uncertainty in the aftermath of China’s ban on crypto, digital asset companies were fleeing Hong Kong. Bitget’s crypto exchange license application and plans to staff up operations in Hong Kong is a sign that city’s policy turnaround regarding Web3 is already paying off. As local authorities work to lay the foundations for the sector ― including urging banks to offer services to crypto firms ― Hong Kong seems poised to regain its primacy as a global digital assets hub.</p>
+      <p>Only a month remains until Hong Kong’s new licensing regime for crypto trading platforms becomes operational, and many crypto firms have shown interest in obtaining such licenses. Experts have warned that there may be a backlog of license applications as demand grows.</p>
+      <p>Angelina Kwan, chief executive officer of financial services firm Stratford Finance and a former member of Hong Kong’s Securities and Futures Commission, recently told Forkast that the regulator would require that potential licensees use external firms that can help sign off on controls as part of the licensing process.</p>
+      <p>In this new dawn for crypto in Hong Kong, whose new crypto-friendly policy stance reportedly enjoys Beijing’s support, even Chinese state-owned enterprises are making crypto-related investments in the city. For example, the Hong Kong unit of Chinese insurer China Pacific Insurance last month launched two cryptocurrency funds in partnership with investment firm Waterdrip Capital.</p>
+      <p>Hong Kong is emblematic of the big difference that regulatory clarity can make in a nascent industry such as crypto. Within a predictable regulatory framework, crypto companies in the territory can now formulate business strategies and do long-term planning. In contrast, crypto companies in the U.S. find themselves increasingly at loggerheads with regulators, and industry pillars like Coinbase are having to go to court to obtain regulatory guidance. Hong Kong’s new legal framework for digital assets may serve as an example of not only what government oversight of the industry can accomplish but also a model of what regulations should be.</p>
+    </div>
+  },
+  {
     id: 503,
     title: 'Chinas AI industry barely slowed by US chip export rules',
     category: 'Markets',

@@ -1,5 +1,62 @@
 const data = [
   {
+    id: 509,
+    title: 'Cryptocurrency Prices And News: Bitcoin Rises Near $29,000. Coinbase Beats Earnings.',
+    category: 'Crypto',
+    subCategory: ['Cryptocurrency', 'BTC', 'Prices'],
+    description: <div className="blog-desc">
+      <p>Cryptocurrency News: Bitcoin and ethereum led cryptocurrency prices higher Thursday as bank worries deepened.  Meanwhile, ARK Invest CEO Cathie Wood loaded up on COIN stock this week ahead Coinbase's earnings beat late Thursday.</p>
+    </div>,
+    authorName: 'HARRISON MILLER',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 12:50 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-485.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Cryptocurrency News: Bitcoin and ethereum led cryptocurrency prices higher Thursday as bank worries deepened.  Meanwhile, ARK Invest CEO Cathie Wood loaded up on COIN stock this week ahead Coinbase's earnings beat late Thursday.</p>
+    	<h3>Cryptocurrency Price Action</h3>
+      <p>Bitcoin traded around $28,900 Thursday afternoon, after peaking at $29,366 in the morning. BTC surged to a week-high of $30,008 last Wednesday on renewed banking fears but reversed below $28,000 by the afternoon. Bitcoin spiked above $30,000 for the first time in 10 months on April 10 and vaulted to $31,019 late April 14 to mark its highest level since last June. BTC rallied 20% in March to record its best month since January when it gained 38.7% The world's largest cryptocurrency bolted roughly 74% so far this year.</p>	  
+    	<p>Ethereum hovered below $1,880 Thursday and rose as high as $1,917 in the morning. ETH traded around $1,900 over the weekend. Ethereum peaked at $2,139 on April 16 -  its highest level since last May and shot above $2,000 for the first time in nearly a year on April 13 following its Shanghai upgrade to a proof-of-stake network. The No. 2 crypto rose 10.6% in March and soared nearly 57% year-to-date.</p>	
+    	<h3>Most Popular Cryptocurrencies</h3>
+      <p>Digital asset investments are extremely volatile. While cryptocurrency's fundamentals and technical indicators may differ, investors should focus on the same key objectives. First, stay protected by learning when it's time to sell, cut losses or capture profits. Second, prepare to profit if the cryptocurrency starts to rebound.</p>
+      <p>Despite their original promise, cryptocurrencies haven't acted as hedges against inflation. Instead, they've trended with the broader indexes. Read The Big Picture and Market Pulse to track daily market trends.</p>
+      <p>View IBD's Best Cryptocurrencies And Crypto Stocks To Buy And Watch page to help navigate the world of digital asset investments.</p>
+    </div>
+  },
+  {
+    id: 510,
+    title: 'Bitcoins huge rally is masking a drop in liquidity as smaller trades move the market',
+    category: 'Crypto',
+    subCategory: ['BTC', 'Market', 'liquidity'],
+    description: <div className="blog-desc">
+      <p>Bitcoin's huge price rally this year is masking a decline in market liquidity.</p>
+    </div>,
+    authorName: 'Filip De Mott,Zinya Salfiti',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 4, 2023 - 7:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-486.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Bitcoin's huge price rally this year is masking a decline in market liquidity.</li>
+        <li>That means smaller bitcoin trades can have a bigger impact on the world's top cryptocurrency.</li>
+        <li>A trade of 462 bitcoins can move the price by 1% versus more than 1,400 bitcoins in January, according to CCData.</li>
+      </ul>
+    	<p>Bitcoin has surged 70% so far this year, but market liquidity for the world's top cryptocurrency is drying up.</p>
+    	<p>That means smaller trades can increasingly move bitcoin prices. For example, a purchase of 462 bitcoins ($13 million) at the end of last month was able to move the price by 1% versus more than 1,400 bitcoins ($23 million) in January, according to CCData, cited by the Financial Times.</p>	
+    	<p>That's the lowest point of market depth for bitcoin trades via the stablecoin tether since May 2022, when the crypto market was reeling from price crashes and the failure of key industry players.</p>
+      <p>Overall liquidity in the market has been declining since the start of the year, CCData research analyst Jacob Joseph told Insider over email.</p>
+      <p>"It's worth noting that the decline in Binance's market share in April may have also contributed to the decline in liquidity for the above BTC-USDT pair," he added.</p>	
+      <p>Binance's woes may be related to a crackdown by regulators on the crypto exchange firm. Meanwhile, last year's collapse of FTX and sister firm Alameda created a gap in liquidity that other crypto firms have been unable to fill, traders told the FT.</p>
+      <p>And while bitcoin's price has been on the up, especially as banking turbulence caused renewed confidence in the currency, it has stagnated lately.</p>
+    	<p>In recent weeks, bitcoin has languished in the $28,000-$29,000 range. That has coincided with outflows of $72 million in digital asset investments over the last two weeks after six consecutive weeks of inflows, according to CoinShares data cited by the FT.</p>
+    </div>
+  },
+  {
     id: 508,
     title: 'Assessing Bitcoin’s [BTC] state as Ordinals hit a new record',
     category: 'Crypto',
