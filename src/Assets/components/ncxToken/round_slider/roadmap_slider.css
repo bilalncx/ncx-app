@@ -19,7 +19,7 @@
 .single_map p{
     font-size: 14px !important;
     font-family: 'urbanist-light' !important;
-    line-height: 22px !important;
+    line-height: 19px !important;
     text-align: center;
     color: #FFFFFF;
     width: 80%;
@@ -88,6 +88,12 @@
     .single_map p{
         width: 100%;
         padding: 0px 10px;
+        font-size: 12px !important;
+        line-height: 16px !important;
+        padding-top: 5px !important;
+    }
+    .single_map h3{
+        font-size: 14px !important;
     }
     .roadMap_slider .carousel button{
         margin-top: 40px;

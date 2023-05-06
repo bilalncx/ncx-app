@@ -80,7 +80,7 @@ function MyFooter()
                         <h1>{t("apps")}</h1>
                         <ul className="ul-two">
                             <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
-                            <li><a href="#">{t("ncx_app_on_google_play_store")}</a></li>
+                            <li><a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
                             <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
                             <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                         </ul>
@@ -91,7 +91,7 @@ function MyFooter()
                             <div className="app-barcode-row">
                                 <div className="appsttore">
                                     <p>{t("mobile_app")}</p>
-                                    <NCXGoogle />
+                                    <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer"><NCXGoogle /></a>
                                     <NCXApple />
                                 </div>
                                 <div className="bardcodd">
@@ -102,9 +102,9 @@ function MyFooter()
                             <div class="social-media">
                                 <p>{t("follow_us")}</p>
                                 <div className="social-icons">
-                                    <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                                    <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                                     <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                                 </div>
                             </div>
                             <div className="fot-newsleter">
@@ -183,7 +183,7 @@ function MyFooter()
                     <ul>
                         <h1>{t("apps")}</h1>
                         <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
-                        <li><a href="#">{t("ncx_app_on_google_play_store")}</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
                         <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
                         <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                     </ul>
@@ -191,9 +191,9 @@ function MyFooter()
                 <div class="social-media">
                     <p>{t("follow_us")}</p>
                     <div className="social-icons">
-                        <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                        <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                        <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                         <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                        <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                     </div>
                 </div>
                 <div className="fot-newsleter">
@@ -207,7 +207,7 @@ function MyFooter()
                 <div className="app-barcode-row">
                     <div className="appsttore">
                         <p>{t("mobile_app")}</p>
-                        <img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" />
+                        <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer"><img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" /></a>
                         <img src={MBLNCXAppStore} alt="ncx-app-on-appstore" />
                     </div>
                     <div className="bardcodd">

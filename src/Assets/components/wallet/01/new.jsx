@@ -30,7 +30,7 @@ function NCXAPPSection()
                     <div className="row">
                         <div className="col">
                             <div className="apps_barcod">
-                                <h1>NCX Exchange The power of Crypto, DeFi & FinTech in your hands.</h1>
+                                <h1>NCX DeFi Wallet Your Keys, Your Crypto.</h1>
                                 <p>A non-custodial wallet that gives you access to a full suite of DeFi services in one place.</p>
                                 <div className="barcodd">
                                     <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
@@ -38,10 +38,10 @@ function NCXAPPSection()
                                 </div>
                                 <div className="apps-divi">
                                     <NCXApple />
-                                    <NCXGoogle />
+                                    <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer"><NCXGoogle /></a>
                                 </div>
                                 <div className="home__btnff">
-                                    <Button href="#" className="sin__op">Sign Up</Button>
+                                    <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">Sign Up</Button>
                                     <Button href="#" className="cl__drp">Claim Airdrop</Button>
                                 </div>
                             </div>

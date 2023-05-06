@@ -28,7 +28,7 @@ function Indices5()
                         </div>
                         <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img viso__ff">
@@ -51,7 +51,7 @@ function Indices5()
                         </div>
                         <p>{t("ncx_defi_wallet_app_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="#" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img gf__grthbh">
@@ -76,7 +76,7 @@ function Indices5()
                         </div>
                         <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="#" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
@@ -101,7 +101,7 @@ function Indices5()
                         </div>
                         <p>{t("ncx_c_trader_web_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="#" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
@@ -117,7 +117,7 @@ function Indices5()
                         </div>
                         <p>{t("home_c_trade_window_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="#" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
@@ -131,7 +131,7 @@ function Indices5()
                         </div>
                         <p>{t("ncx_c_trader_ios_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="#" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="ipad__gg">

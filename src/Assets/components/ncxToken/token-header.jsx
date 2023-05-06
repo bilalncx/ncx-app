@@ -54,8 +54,8 @@ export default function Header() {
                           <div className="main_service_wrapper">
                             <div className="community_inner">
                               <div className="main_service">
-                                <a href="/rewards">{t("rewards_program")}</a>
-                                <a href="/market-insights">{t("news_insights")}</a>
+                                <a href="https://ncx.cx/rewards">{t("rewards_program")}</a>
+                                <a href="https://ncx.cx/market-insights">{t("news_insights")}</a>
                                 <a href="https://ncx.cx/market-makers">{t("market_makers")}</a>
                                 <a href="https://ncx.cx/institutional">{t("institutional_services")}</a>
                                 <a href="https://ncx.cx/ncx-otc">{t("otc")}</a>
@@ -68,13 +68,13 @@ export default function Header() {
                                 <a href="#">{t("claim_airdrop")}</a>
                                 <a href="#">{t("presale_dashboard")}</a>
                                 <a href="#">{t("referral_program")}</a>
-                                <a href="#">{t("official_telegram")}</a>
+                                <a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer">{t("official_telegram")}</a>
                               </div>
                             </div>
                             <div className="social_links">
                               <div className="social_link_inner">
-                                <a href="/about-us">About Us</a>
-                                <a href="/market-insights">{t("media_press")}</a>
+                                <a href="https://ncx.cx/about-us">{t("about-us")}</a>
+                                <a href="https://ncx.cx/market-insights">{t("media_press")}</a>
                                 <a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a>
                                 <a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a>
                                 <a href="https://ncx.cx/privacy-policy">{t("privacy_policy")}</a>
@@ -94,13 +94,13 @@ export default function Header() {
                             <div className="boxx-links">
                               <a href="https://ncx.cx/faq">{t("faq")}</a>
                               <a href="#">{t("open_support_ticket")}</a>
-                              <a href="#">{t("support_via_telegram")}</a>
+                              <a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer">{t("support_via_telegram")}</a>
                             </div>
                             <h4>{t("social_media")}</h4>
                             <div className="social-icons">
-                              <div class="icons"><a href="https://ncx.cx"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                              <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                              <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                               <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                              <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                             </div>
                           </div>
                         </div>
