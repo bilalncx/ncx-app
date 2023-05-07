@@ -1,5 +1,49 @@
 const data = [
   {
+    id: 506,
+    title: 'GBP/JPY Weekly Forecast – The British Pound Pulls Back From Crucial Highs',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has been very active during the trading week, as we have seen it reach to a fresh, new high, only to turn around and plunge later in the week. By the time Friday came around, we started to see strength again, as it looks like the overall trend is going to continue. With this being the case, I anticipate that eventually we break above the highs of the week, and continue to go higher, perhaps reaching toward the ¥175 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 7:04 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-492.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Weekly Technical Analysis</h3>
+	    <p>The British pound has been very active during the trading week, as we have seen it reach to a fresh, new high, only to turn around and plunge later in the week. By the time Friday came around, we started to see strength again, as it looks like the overall trend is going to continue. With this being the case, I anticipate that eventually we break above the highs of the week, and continue to go higher, perhaps reaching toward the ¥175 level.</p>
+	    <p>On the other hand, if we turn around and break down below the bottom of the candlestick, then it opens up the possibility of a move down to the ¥165 level, which is an area that has been an important multiple times in the past, therefore I think we have a situation where the market may have seen quite a bit of noise in that area, but I don’t necessarily think that it is reason enough to be overly concerned about reaching that area. If we do, then I would anticipate seeing a lot of value hunters coming back into the market as interest rates are obviously climbing around the world.</p>	
+    	<p>Furthermore, the British economy is going to continue to see a lot of inflation, therefore it makes quite a bit of sense that we would continue to see the British pound strengthen against other currencies such as the Japanese yen. Keep in mind that the Bank of Japan continues to do everything it can to keep its interest rates down, so therefore it will have to print currency, driving down the value as they flood the market with more currency.</p>	
+    </div>
+  },
+  {
+    id: 505,
+    title: 'EUR/USD Forecast – Euro Falls After Jobs Number',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro initially tried to rally during the trading session on Friday but found enough resistance above to turn things around and started selling off. Alternatively, this is a market that I think continues to see a lot of noisy behavior, because quite frankly the markets have no idea what to do with the idea of inflation.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 5:56 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-493.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>The Euro initially tried to rally during the trading session on Friday but found enough resistance above to turn things around and started selling off. Alternatively, this is a market that I think continues to see a lot of noisy behavior, because quite frankly the markets have no idea what to do with the idea of inflation. After all, the Federal Reserve continues to reiterate its desire to stay tight for longer, and the jobs number gives it yet another reason to think so. That being said, the market seems to be arguing with the Federal Reserve and doesn’t seem to believe them.</p>
+    	<p>Looking at this chart, it’s obvious that we have been consolidating for a while so it’s not a huge surprise if we get some type of buyer coming into the picture, with a 50-Day EMA reaching the 1.09 level. At this point, the euro continues to see a lot of noisy behavior, and I think a lot of questions asked about whether or not the Federal Reserve can actually stay tight for as long as they claim to. That being said, on the 1.11 level above is a significant resistance barrier, and therefore I think a break above there would really open up the floodgates. That being said, I could probably say the same thing about the 50-Day EMA underneath, as it would bring in a lot of sellers.</p>	
+	    <p>All things being equal, you can only read so much into the Non-Farm Payroll number, because it does cause quite a bit of noise under the best of circumstances, and it’s not rare at all to see the market lunge in one direction, only to turn right back around later. Ultimately, the volatility is probably something that we continue to stick with, and therefore you have to be very cautious with the idea of the market suddenly changing its stripes. After all, we have seen quite a few attempts by the dollar to strengthen again, only to see it fail yet again. Ultimately, this is a market that continues to stick to the short term movement, and therefore the noisy behavior should continue.</p>	
+    </div>
+  },
+  {
     id: 504,
     title: 'FOREX-Dollar gains, euro dips after cautious ECB',
     category: 'Forex',
