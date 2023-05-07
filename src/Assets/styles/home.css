@@ -627,7 +627,7 @@ a.cl__drp:hover{
         min-height: 300px;
     }
     .mbl__lpl {
-        padding: 0px;
+        padding: 50px 20px 0px 20px;
     }
     .mbl__lpl h1 {
         font-size: 30px;
@@ -635,7 +635,6 @@ a.cl__drp:hover{
         font-family: 'urbanist-light';
         color: #FFFFFF;
         margin-bottom: 10px;
-        padding: 0px 20px !important;
     }
     .mbl__lpl p {
         font-size: 13px;
@@ -643,7 +642,6 @@ a.cl__drp:hover{
         font-family: 'urbanist-light';
         color: #FFFFFF;
         margin-bottom: 20px;
-        padding: 0px 20px !important;
     }
     .yy__tr span {
         background: rgba(33, 33, 33, 0.8);
@@ -660,12 +658,21 @@ a.cl__drp:hover{
     }
     .mbl__lpl .home__btnff {
         display: flex;
-        justify-content: flex-start;
+        justify-content: center;
         align-items: center;
         gap: 10px;
         margin: 30px 0px;
         padding: 0px 20px !important;
     }
+    #wallet__main__cc .mbl__lpl{
+        padding-top: 0px !important;
+    }
+   #wallet__main__cc .mbl__lpl h1{
+        text-align: center !important;
+   }
+   #wallet__main__cc .mbl__lpl p{
+        text-align: center !important;
+   }
     #hme__gg__ff h1.fg__rer {
         display: none;
     }
