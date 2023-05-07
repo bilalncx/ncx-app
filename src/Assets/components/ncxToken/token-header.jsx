@@ -73,7 +73,7 @@ export default function Header() {
                             </div>
                             <div className="social_links">
                               <div className="social_link_inner">
-                                <a href="https://ncx.cx/about-us">{t("about-us")}</a>
+                                <a href="https://ncx.cx/about-us">{t("about_us")}</a>
                                 <a href="https://ncx.cx/market-insights">{t("media_press")}</a>
                                 <a href="https://ncx.cx/user-agreement">{t("user_agreement")}</a>
                                 <a href="https://ncx.cx/kyc-aml-policy">{t("aml_kyc_policy")}</a>
@@ -93,7 +93,7 @@ export default function Header() {
                           <div className="box">
                             <div className="boxx-links">
                               <a href="https://ncx.cx/faq">{t("faq")}</a>
-                              <a href="#">{t("open_support_ticket")}</a>
+                              <a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("open_support_ticket")}</a>
                               <a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer">{t("support_via_telegram")}</a>
                             </div>
                             <h4>{t("social_media")}</h4>

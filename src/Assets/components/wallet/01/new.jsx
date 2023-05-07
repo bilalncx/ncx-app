@@ -2,7 +2,7 @@ import React from "react";
 import NCXBarCode from '../../../images/ncx-barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
-import BuyCryptoVideo from '../../../images/home__newvideo.mp4';
+import WalletVideo from '../../../images/wallet-video.mp4';
 import BuyCryptoVideombl from '../../../images/home__mblvdo.mp4';
 import Button from "@mui/material/Button";
 import './style.css';
@@ -22,7 +22,7 @@ function NCXAPPSection()
                             preload="auto"
                             // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                             >
-                            <source src={BuyCryptoVideo} type="video/mp4" />
+                            <source src={WalletVideo} type="video/mp4" />
                         </video>
                     </div>
                 </div>
@@ -30,8 +30,17 @@ function NCXAPPSection()
                     <div className="row">
                         <div className="col">
                             <div className="apps_barcod">
-                                <h1>NCX DeFi Wallet Your Keys, Your Crypto.</h1>
-                                <p>A non-custodial wallet that gives you access to a full suite of DeFi services in one place.</p>
+                                <h1>
+                                    <span>NCX DeFi Wallet</span>
+                                    <span>Your Keys,</span>
+                                    <span>Your Crypto.</span>
+                                </h1>
+                                <p>
+                                    <span>Store, Send, Swap, Buy Crypto</span>
+                                    <span>Assets across 12 Chains NCX</span>
+                                    <span>non-custodial wallet, hold</span>
+                                    <span>your own Private Keys</span>
+                                </p>
                                 <div className="barcodd">
                                     <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
                                     <p>Scan to Download NCX App</p>

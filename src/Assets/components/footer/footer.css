@@ -48,6 +48,7 @@ div#footerdiv {
 .bardcodd img {
     width: 100px;
     height: auto;
+    padding-bottom: 10px;
 }
 .bardcodd p {
     font-size: 12px;

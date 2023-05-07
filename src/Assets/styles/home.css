@@ -560,6 +560,11 @@ a.sin__op {
     text-transform: capitalize;
     box-shadow: 0 0 15px rgba(94,211,240,.75);
 }
+a.sin__op:focus, a.sin__op:focus-visible, a.sin__op:active,
+a.cl__drp:focus, a.cl__drp:focus-visible, a.cl__drp:active{
+    outline: none;
+    text-decoration: none;
+}
 a.cl__drp {
     border: 1px solid #5ED3F0;
     border-radius: 50px;

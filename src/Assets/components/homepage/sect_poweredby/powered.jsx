@@ -1,7 +1,7 @@
 import React from "react";
 import './powered.css';
 import NCXApp from '../../../images/ncx-slide1.png';
-import { ReactComponent as NCXBarCode } from '../../../images/ncx-QRcode.svg';
+import NCXBarCode from '../../../images/ncx-QRcode.svg';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
 import BuyCryptoVideo from '../../../images/ncx_poweredby.mp4';
@@ -34,7 +34,7 @@ function NCXAPPSection()
                             <h1>{t("ncx_card_premium_debit_card_powered_by_crypto")}</h1>
                             <p>{t("top_up_with_crypto_and_use_for_payments_anytime_anywhere!")}</p>
                             <div className="barcodd">
-                                <NCXBarCode />
+                                <img src={NCXBarCode}  alt="ncx-barcode"/>
                                 <p>{t("scan_to_download_ncx_app")}</p>
                             </div>
                             <div className="apps-divi">

@@ -27,15 +27,15 @@ function MyFooter()
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                             <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
-                            <li><a href="/derivatives">{t("crypto_derivatives")}</a></li>
-                            <li><a href="/markets">{t("markets")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
+                            <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                             <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
-                            <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
-                            <li><a href="/ncx-token">{t("ncx_token")}</a></li>
-                            <li><a href="/derivatives">{t("stocks_trading")}</a></li>
-                            <li><a href="/derivatives">{t("forex_trading")}</a></li>
-                            <li><a href="/derivatives">{t("commodities_trading")}</a></li>
+                            <li><a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a></li>
+                            <li><a href="https://ncx.cx/ncx-token">{t("ncx_token")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("stocks_trading")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("forex_trading")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("commodities_trading")}</a></li>
                         </ul>
                         {/* <h1>Derivatives Trading</h1>
                         <ul className="ul-two">
@@ -51,15 +51,16 @@ function MyFooter()
                     <div class="second-column ftr-col">
                         <h1>{t("services")}</h1>
                         <ul className="ul-one">
-                        <li><a href="/market-insights">{t("ncx_insights")}</a></li>
-                            <li><a href="/rewards">{t("rewards_program")}</a></li>
+                            <li><a href="https://ncx.cx/market-insights">{t("ncx_insights")}</a></li>
+                            <li><a href="https://ncx.cx/rewards">{t("rewards_program")}</a></li>
                             <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
                             <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
                             <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
                             <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                             <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
-                            <li><a href="#">{t("support")}</a></li>
-                            <li><a href="/market-insights">{t("media_press")}</a></li>
+                            <li><a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("support")}</a></li>
+                            <li><a href="https://ncx.cx/about-us">{t("about_us")}</a></li>
+                            <li><a href="https://ncx.cx/market-insights">{t("media_press")}</a></li>
                         </ul>
                         {/* <h1>Company</h1>
                         <ul className="ul-two">
@@ -131,27 +132,28 @@ function MyFooter()
                         <h1>{t("products")}</h1>
                         <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                         <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
-                        <li><a href="/derivatives">{t("crypto_derivatives")}</a></li>
-                        <li><a href="/markets">{t("markets")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
+                        <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
-                        <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
-                        <li><a href="/ncx-token">{t("ncx_token")}</a></li>
-                        <li><a href="/derivatives">{t("stocks_trading")}</a></li>
-                        <li><a href="/derivatives">{t("forex_trading")}</a></li>
-                        <li><a href="/derivatives">{t("commodities_trading")}</a></li>
+                        <li><a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("ncx_token")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("stocks_trading")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("forex_trading")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("commodities_trading")}</a></li>
                     </ul>
                     <ul>
                         <h1>{t("services")}</h1>
-                        <li><a href="/market-insights">{t("ncx_insights")}</a></li>
-                        <li><a href="/rewards">{t("rewards_program")}</a></li>
+                        <li><a href="https://ncx.cx/market-insights">{t("ncx_insights")}</a></li>
+                        <li><a href="https://ncx.cx/rewards">{t("rewards_program")}</a></li>
                         <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
                         <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
                         <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
                         <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                         <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
-                        <li><a href="#">{t("support")}</a></li>
-                        <li><a href="/market-insights">{t("media_press")}</a></li>
+                        <li><a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("support")}</a></li>
+                        <li><a href="https://ncx.cx/about-us">{t("about_us")}</a></li>
+                        <li><a href="https://ncx.cx/market-insights">{t("media_press")}</a></li>
                     </ul>
                 </div>
                 {/* <div className="mob-foot-ul">

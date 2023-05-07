@@ -92,8 +92,8 @@ export default function Header() {
                         <div className="connect_links">
                           <div className="box">
                             <div className="boxx-links">
-                            <a href="https://ncx.cx/faq">{t("faq")}</a>
-                              <a href="#">{t("open_support_ticket")}</a>
+                              <a href="https://ncx.cx/faq">{t("faq")}</a>
+                              <a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("open_support_ticket")}</a>
                               <a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer">{t("support_via_telegram")}</a>
                             </div>
                             <h4>{t("social_media")}</h4>
