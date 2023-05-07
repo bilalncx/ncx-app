@@ -1,6 +1,6 @@
 import React from "react";
 import { ReactSearchAutocomplete } from "react-search-autocomplete";
-import BackVideo from '../../images/ncx-firstslidervideo.mp4';
+import BackVideo from '../../images/wallet-video.mp4';
 
 
 function App() {
@@ -59,7 +59,7 @@ function App() {
                 loop={true}
                 playsInline={true}
                 preload="auto"
-                poster="https://ncx.cx/images/ncx_line_poster.png"
+                // poster="https://ncx.cx/images/ncx_line_poster.png"
                 >
                 <source src={BackVideo} type="video/mp4" />
             </video>
@@ -67,16 +67,16 @@ function App() {
         <div id="search_container">
             <h1>Frequently Asked Questions</h1>
             <div className="search_bar">
-                <ReactSearchAutocomplete
-                    items={items}
-                    onSearch={handleOnSearch}
-                    onHover={handleOnHover}
-                    onSelect={handleOnSelect}
-                    onFocus={handleOnFocus}
-                    onClear={handleOnClear}
-                    autoFocus
-                    placeholder="Search help articles"
-                />
+              <ReactSearchAutocomplete
+                items={items}
+                onSearch={handleOnSearch}
+                onHover={handleOnHover}
+                onSelect={handleOnSelect}
+                onFocus={handleOnFocus}
+                onClear={handleOnClear}
+                autoFocus
+                placeholder="Search help articles"
+              />
             </div>
         </div>
       </div>  

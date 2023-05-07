@@ -5,6 +5,8 @@ import Device2 from '../../../images/device_2.png';
 import Device3 from '../.././../images/device_3.png';
 import Device4 from '../../../images/device_4.png';
 import {ReactComponent as CTrader1} from '../../../images/ctrader_logo.svg';
+import {ReactComponent as NCXWeb} from '../../../images/ncxweb.svg';
+import Laptop3 from '../../../images/laptop3.png';
 import {ReactComponent as CTrader2} from '../../../images/ctrader_logoB.svg';
 import WalletMobileVideo from '../../../images/wallet_mbl.mp4';
 import WalletMobileVideo2 from '../../../images/wallet_mbl2.mp4';
@@ -96,8 +98,8 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>{t("ncx_c_trader_web")}</h2>
-                            <CTrader1 />
+                            <h2>{t("NCX Web")}</h2>
+                            <NCXWeb />
                         </div>
                         <p>{t("ncx_c_trader_web_text")}</p>
                         <div className="tiy__bd">
@@ -105,7 +107,7 @@ function Indices5()
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
-                            <img src={Device2} alt="ncx_platform" />
+                            <img src={Laptop3} alt="ncx_platform" />
                         </div>
                     </div>
                 </div>

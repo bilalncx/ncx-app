@@ -627,14 +627,15 @@ a.cl__drp:hover{
         min-height: 300px;
     }
     .mbl__lpl {
-        padding: 50px 20px 0px 20px;
+        padding: 0px;
     }
     .mbl__lpl h1 {
         font-size: 30px;
         line-height: 34px;
         font-family: 'urbanist-light';
         color: #FFFFFF;
-        margin-bottom: 3px;
+        margin-bottom: 10px;
+        padding: 0px 20px !important;
     }
     .mbl__lpl p {
         font-size: 13px;
@@ -642,6 +643,7 @@ a.cl__drp:hover{
         font-family: 'urbanist-light';
         color: #FFFFFF;
         margin-bottom: 20px;
+        padding: 0px 20px !important;
     }
     .yy__tr span {
         background: rgba(33, 33, 33, 0.8);
@@ -658,10 +660,11 @@ a.cl__drp:hover{
     }
     .mbl__lpl .home__btnff {
         display: flex;
-        justify-content: center;
+        justify-content: flex-start;
         align-items: center;
         gap: 10px;
         margin: 30px 0px;
+        padding: 0px 20px !important;
     }
     #hme__gg__ff h1.fg__rer {
         display: none;

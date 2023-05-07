@@ -15,7 +15,7 @@ import { ReactComponent as OTC5 } from '../../../images/about-5.svg';
 import { ReactComponent as OTC6 } from '../../../images/about-6.svg';
 import {ReactComponent as SafeArrow} from '../../../images/safe-arrow.svg';
 import NCXAppvideo from '../../../images/ncx_app_vi.mp4';
-import OTCMobileVideo from '../../../images/buy_page.mp4';
+import OTCMobileVideo from '../../../images/qwqwqw.mp4';
 import VideSection from '../../../images/home__newvideo.mp4';
 
 
@@ -109,13 +109,13 @@ function FirstVideo()
                 </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
-                        <h1>Large trades</h1>
-                        <h1 className="border-bv">with NCX</h1>
-                        <h1>OTC Desk</h1>
-                        <div className="bbttn">
+                        <h1>Large trades with NCX OTC Desk</h1>
+                        {/* <h1 className="border-bv">with NCX</h1>
+                        <h1></h1> */}
+                        {/* <div className="bbttn">
                             <Button href="#" className="card_apply">{t("contact_us")}</Button>
                             <Button href="#" className="card_learn">{t("learn_more")}</Button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
@@ -366,8 +366,8 @@ function FirstVideo()
             <div className="why__choose__Otc">
                 <div className="container">
                     <h1 className="why__otc">Why choose NCX OTC</h1>
-                    <h3 className="mbl__why_otc">Why Choose</h3>
-                    <h3 className="mbl__why_otc line">NCX OTC</h3>
+                    {/* <h3 className="mbl__why_otc">Why Choose</h3>
+                    <h3 className="mbl__why_otc line">NCX OTC</h3> */}
                     <div className="row">
                         <div className="col first">
                             <div className="cho__log">

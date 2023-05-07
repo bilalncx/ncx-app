@@ -8,7 +8,7 @@ import blogListdata from '../../../config/jata';
 // import MyFooter from '../components/footer/footer';
 import Button from "@mui/material/Button";
 import SliderBlog from '../../../blogcomponents/homeblog/BlogSlider/blogslider';
-import { ReactComponent as NCXLogo } from '../../images/NCX-logo.svg';
+import { ReactComponent as NCXLogo } from '../../images/new_sitelogo.svg';
 import { ReactComponent as Telegram } from '../../components/footer/telegram.svg';
 import { ReactComponent as Twitter } from '../../components/footer/twitter.svg';
 import { ReactComponent as Instagram } from '../../images/instagram.svg';
@@ -45,8 +45,8 @@ function QuestionTabs()
                     <Button className='support_singbtn' href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</Button>
                     <div className="social-links">
                         <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
-                        <a href="https://ncx.cx/" target="_blank" rel="noreferrer"><Telegram /></a>
-                        <a  href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
+                        <a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
+                        <a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><Telegram /></a>
                     </div>
                     {/* <SliderBlog /> */}
                 </div>

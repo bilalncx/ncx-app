@@ -1,5 +1,6 @@
 import React from "react";
 import './buy.css';
+import Button from "@mui/material/Button";
 import { ReactComponent as TrendingGraph } from '../../../images/ncx-trendinggraph.svg';
 import { ReactComponent as Ethereum } from '../../../images/ncx-ethereum.svg';
 import { ReactComponent as Bitcoin } from '../../../images/ncx-bitcoin.svg';
@@ -9,6 +10,7 @@ import BuyCrypotVideo from '../../../images/buy_page.mp4';
 import { ReactComponent as RewardStar } from '../../../images/ncx-reward-star.svg';
 import { useTranslation } from "react-i18next";
 import MobileBuyCrypotVideo from '../../../images/ncxbuy-cryptovideo.mp4';
+import VideSection from '../../../images/home__newvideo.mp4';
 
 
 function BuyCrypto(){
@@ -28,7 +30,27 @@ function BuyCrypto(){
                     </div>
                 </div>
             </div>
-            <div id="dek__top" className="container990">
+            <div className="new__ambass">
+                <div className="desktop">
+                    <video 
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                        >
+                        <source src={VideSection} type="video/mp4" />
+                    </video>
+                </div>
+                <div className="container">
+                    <div className="insse">
+                        <h1>Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay or Wire Transfer</h1>
+                        <Button href="#buy_crypto">Buy Crypto</Button>
+                    </div>
+                </div>
+            </div>
+            {/* <div id="dek__top" className="container990">
                 <div className="buycrypt-row">
                     <div className="col coinsect">
                         <div className="inner__cc">
@@ -39,41 +61,6 @@ function BuyCrypto(){
                                 <a className="mrkt" href="/markets">Markets</a>
                             </div>
                         </div>
-                        {/* <div className="crypto-assets row">
-                            <div className="col coin-details">
-                                <div className="coin-graph">
-                                    <Bitcoin />
-                                    <TrendingGraph />
-                                </div>
-                                <h1>Bitcoin</h1>
-                                <p>24,565.91 USD</p>
-                                <p className="change">
-                                    <ChangeValue />
-                                    3.46%</p>
-                            </div>
-                            <div className="col coin-details">
-                                <div className="coin-graph">
-                                    <Ethereum />
-                                    <TrendingGraph />
-                                </div>
-                                <h1>Ethereum</h1>
-                                <p>1,693.26 USD</p>
-                                <p className="change">
-                                    <ChangeValue />
-                                    1.90%</p>
-                            </div>
-                            <div className="col coin-details">
-                                <div className="coin-graph">
-                                    <BinanceCoinBNB />
-                                    <TrendingGraph />
-                                </div>
-                                <h1>BNB</h1>
-                                <p>316.04 USD</p>
-                                <p className="change">
-                                    <ChangeValue />
-                                    2.09%</p>
-                            </div>
-                        </div> */}
                     </div>
                     <div className="col buysell-sect">
                         <div id="ncxbuycrypto-desk">
@@ -84,7 +71,6 @@ function BuyCrypto(){
                                     loop={true}
                                     playsInline={true}
                                     preload="auto"
-                                    // poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
                                     <source src={BuyCrypotVideo} type="video/mp4" />
                                 </video>
@@ -92,7 +78,7 @@ function BuyCrypto(){
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
             <div id="mbl_cr__sd" className="container990">
                 <div className="buycrypt-row">

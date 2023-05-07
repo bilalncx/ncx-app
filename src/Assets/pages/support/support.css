@@ -1,18 +1,18 @@
 .Support_Searchbar video {
     margin-bottom: -5px;
-    max-height: 440px!important;
+    max-height: 490px!important;
     object-fit: cover;
     width: 100%;
 }
 .Support_Searchbar {
     background: #000;
     margin-top: -65px;
-    max-height: 440px;
+    max-height: 490px;
     position: relative;
 }
-#supportPage header#header-row {
+/* #supportPage header#header-row {
     background: transparent;
-}
+} */
 .Support_Searchbar div#search_container {
     left: 0;
     padding: 150px 0 0px 0px;
@@ -153,7 +153,7 @@ p.ticker_pass a{
     text-decoration: underline;
 }
 a.support_singbtn {
-    background: #34A9FF;
+    background: #5ED3F0 ;
     border: none;
     color: #FFFFFF;
     height: 44px;
@@ -165,7 +165,7 @@ a.support_singbtn {
     margin-top: 20px;
 }
 a.support_singbtn:hover{
-    background: #34A9FF;
+    background: #5ED3F0 ;
 }
 a.support_singbtn:hover, a.support_singbtn:focus, a.support_singbtn:focus-visible{
     outline: none;
@@ -202,10 +202,10 @@ h1.open-ticket {
     animation-duration: 1s;
     animation-fill-mode: both;
 }
-#support_faqdetails header#header-row {
+/* #support_faqdetails header#header-row {
     background: transparent;
     background-color: transparent;
-}
+} */
 @keyframes fadeInUp {
     from {
         opacity: 0;
@@ -237,7 +237,7 @@ h1.open-ticket {
     color: #000000;
 }
 .support_leftbar ul li a:hover, .support_leftbar ul li a:focus, .support_leftbar ul li a:focus-visible{
-    color: #34A9FF;
+    color: #5ED3F0 ;
     text-decoration: none;
 }
 .sub_title_ss{
@@ -392,7 +392,7 @@ div#artiles_faq {
 .faq-mod a {
     font-size: 18px;
     font-family: 'urbanist-regular';
-    color: #34A9FF;
+    color: #5ED3F0 ;
     line-height: 24px;
     width: 100%;
     position: relative;
@@ -440,7 +440,7 @@ div#artiles_faq {
 .faq_nav p {
     font-size: 16px;
     font-family: 'urbanist-medium';
-    color: #34A9FF;
+    color: #5ED3F0 ;
     line-height: 24px;
 }
 .arr_sv svg {
@@ -475,13 +475,30 @@ ul.details_faqul li button{
 }
 ul.details_faqul li button:hover{
     text-decoration: none;
-    color: #34A9FF;
+    color: #5ED3F0 ;
+}
+.blog_heading ul li{
+    position: relative;
+    width: fit-content;
+}
+.blog_heading ul li:after{
+    content: "";
+    position: absolute;
+    display: block;
+    top: 31px;
+    width: 0;
+    height: 2px;
+    background-color: #5ED3F0;
+    transition: 1s;
+}
+.blog_heading ul li:hover:after {
+    width: 100%;
 }
 ul.details_faqul li button:focus, ul.details_faqul li button:focus-visible{
     text-decoration: none;
 }
 ul.details_faqul li button.active {
-    color: #34A9FF;
+    color: #5ED3F0 ;
 }
 h1.support_ticket {
     font-size: 24px;
@@ -501,7 +518,7 @@ p.support_txt a {
 }
 a.support_signin {
     color: #FFFFFF;
-    background: #34A9FF;
+    background: #5ED3F0 ;
     width: 170px;
     height: 44px;
     text-align: center;
@@ -522,7 +539,7 @@ a.support_signin {
     height: 44px;
 }
 .details_faqs .col.fest .social-icons a:hover{
-    background: #34A9FF;
+    background: #5ED3F0 ;
 }
 .sprt-content{
     display: none;
@@ -608,7 +625,7 @@ tr.coin-row td.logo-title img {
 }
 tr.coin-row td a{
     font-size: 16px;
-    color: #34A9FF;
+    color: #5ED3F0 ;
     font-family: 'urbanist-regular';
 }
 tr.coin-row td a:hover{

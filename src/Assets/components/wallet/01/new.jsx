@@ -79,9 +79,19 @@ function NCXAPPSection()
                 </div>
             </div>
             <div className="mbl__lpl">
-                <h1>NCX Exchange</h1>
-                <p>Hybrid CEX | DEX | Trading Platform & DeFi Ecosystem</p>
-                <div className="yy__tr">
+                <video 
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    preload="auto"
+                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                    >
+                    <source src={WalletVideo} type="video/mp4" />
+                </video>
+                <h1>NCX DeFi Wallet</h1>
+                <p>Store, Send, Swap, Buy Crypto Assets across 12 Chains NCX non-custodial wallet, hold your own Private Keys</p>
+                {/* <div className="yy__tr">
                     <span>Advanced CEX</span>
                     <span>Cross-Chain DEX</span>
                     <span>Trading Platfrom</span>
@@ -105,21 +115,11 @@ function NCXAPPSection()
                     <span>Crypto Debit Card</span>
                     <span>DeFi Wallet</span>
                     <span>Buy Crypto</span>
-                </div>
+                </div> */}
                 <div className="home__btnff">
                     <Button href="#" className="sin__op">Sign Up</Button>
                     <Button href="#" className="cl__drp">Claim Airdrop</Button>
                 </div>
-                <video 
-                    autoPlay={true}
-                    muted={true}
-                    loop={true}
-                    playsInline={true}
-                    preload="auto"
-                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
-                    >
-                    <source src={BuyCryptoVideombl} type="video/mp4" />
-                </video>
             </div>
         </div>
     )
