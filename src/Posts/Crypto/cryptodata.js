@@ -1,5 +1,83 @@
 const data = [
   {
+    id: 511,
+    title: 'Bitcoin could rally 40% by the end of the year, according to a top blockchain founder',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'rally', 'blockchain'],
+    description: <div className="blog-desc">
+      <p>I'm somewhat of a skeptic when it comes to digital assets, but so far this year bitcoin's been the top performing asset by a landslide — it's up more than 73%.</p>
+    </div>,
+    authorName: 'Phil Rosen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 6, 2023 - 3:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-490.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>Welcome to the weekend.</strong> Phil Rosen here, writing to you from Manhattan.</p>
+    	<p>I'm somewhat of a skeptic when it comes to digital assets, but so far this year bitcoin's been the top performing asset by a landslide — it's up more than 73%.</p>	
+    	<p>I caught up with a blockchain executive to get the scoop on why that rally could see more upside as the economy slows down.</p>	
+    	<p>Bob Ras is the cofounder of blockchain firm Sologenic. This conversation has been lightly edited for length and clarity.</p>
+      <p><strong>Phil Rosen: What's the impact of the banking crisis and the Fed on the outlook for bitcoin?</strong></p>
+      <p><strong>Bob Ras:</strong>As big banks have been collapsing, it seems clearer by the day that these investors see bitcoin as a hedge because of its decentralized censorship resistance and lack of counterparty risk.</p>
+      <p>There are growing expectations that the Fed will loosen monetary policy and effectively inject a lot more liquidity into the market to shore up the financial system. And bitcoin is front-running this scenario, pointing to a future that is effectively a return to relatively low rates.</p>
+      <p>I wouldn't be surprised if $40,000 could be reached by the end of this year.</p>
+      <p><strong>What's been fueling bitcoin's sharp rally to start 2023 so far?</strong></p>
+      <p>A big reason why bitcoin has performed so well was that it was just really oversold during the collapse of FTX.</p>
+      <p>Plus, there's on-chain evidence that more and more people and institutions have been accumulating bitcoin during the lows, which essentially translated into a supply shock.</p>
+      <p>With so few sellers left, any uptick in demand has an outsize impact on price.</p>
+      <p><strong>What's a downside risk ahead that could weigh on bitcoin prices?</strong></p>
+      <p>The biggest risk would be a sharp credit crisis that causes a rapid contraction.</p>
+      <p>In such a scenario, all assets would have a correlation of one with each other, including bitcoin and even gold. I'm not sure such a scenario would happen, but it's possible and would unleash a tremendous amount of volatility not only for bitcoin but all markets.</p>
+      <h3>And here are the top stories from markets this week: </h3>
+      <p><strong>1. A stock portfolio created by ChatGPT is outperforming the top investment funds across the UK.</strong> The theoretical portfolio created by Finder.com includes 38 stocks, and it's generated 4.9% returns over eight weeks.</p>
+      <p><strong>2. Top economist Mohamed El-Erian warned of potential collateral damage from the First Republic-JPMorgan deal.</strong> The Wall Street giant agreed on Monday to acquire most of the battered firm's assets — but El-Erian sees four critical, unintended consequences that could materialize as a result.</p>
+      <p><strong>3. UBS analysts just named 40 cheap stocks that they expect to outperform in a recession.</strong> Weaker economic growth will help defensives dominate over cyclicals, and this collection of relatively inexpensive picks look poised to fare well in a weaker landscape.</p>
+      <p><strong>4. Russian gold is now flooding the United Arab Emirates, Hong Kong, and Turkey.</strong> Sellers have had to find new buyers for the key metal now in light of wartime sanctions from the West. Big gold buyers like HSBC and JPMorgan have shunned business with Moscow — leaving billions of dollars worth of gold in need of new landing spots.</p>
+      <p><strong>5. Nobel economist Paul Krugman doesn't think dollar dominance is worth much to the US.</strong> The notion is overrated, in his view, and he thinks it's best just to ignore all the dollar doomers out there: "Or better yet, consider what their hyping of a nonissue says about their own judgment."</p>
+      <p><strong>6. Apple attracted $1 billion to its new high-yield savings account in four days.</strong> The iPhone marker debuted the account last month, with a yield of 4.15%. And the number of people that have signed up so far represents just a fraction of total iPhone users.</p>
+      <p><strong>7. The nation's leading market-watchers and policy pros are concerned about a credit crunch and a spiraling commercial real estate sector.</strong> It's an uncertain time for the US economy, with growth slowing down and inflation staying stubbornly high. Here's what three experts expect to come down the pipeline.</p>
+      <p><strong>8. Yankees legend A-Rod learned two key rules about investing from Warren Buffett.</strong> Alex Rodriguez told Bloomberg he became business partners with the billionaire after the Berkshire chief insured his multi-million dollar playing contract. The pair made a habit of meeting up in Omaha — and Rodriguez still carries the lessons with him today.</p>
+      <p><strong>9. These 20 defensive stocks could help your portfolio weather a downturn.</strong> Morgan Stanley's top strategists cautioned that a strong earnings season could convey a false sense of security. But they see this batch of names as one potential corner of opportunity.</p>
+      <p><strong>10. BlackRock bond chief Rick Rieder manages $2.7 trillion.</strong> He told us how he's positioning cash for a fading economy and the portfolio strategy he's employing to avoid losses right now.</p>
+    </div>
+  },
+  {
+    id: 512,
+    title: 'Bitcoin rises, Solana leads losses across top 10 cryptos, U.S. dollar slides amid banking sector concerns',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Solana', 'US'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose while Ether fell in Thursday afternoon trade in Asia, with declines across most of the other top 10 non-stablecoin cryptocurrencies by market capitalization. Solana’s SOL token was the biggest loser of the day. Asian equities were mixed, while U.S. stock futures strengthened in anticipation of April’s nonfarm payroll report. The U.S. dollar index fell, as woes at regional U.S. lenders PacWest and Western Alliance fueled market concerns of a banking crisis.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 2:12 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-491.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose while Ether fell in Thursday afternoon trade in Asia, with declines across most of the other top 10 non-stablecoin cryptocurrencies by market capitalization. Solana’s SOL token was the biggest loser of the day. Asian equities were mixed, while U.S. stock futures strengthened in anticipation of April’s nonfarm payroll report. The U.S. dollar index fell, as woes at regional U.S. lenders PacWest and Western Alliance fueled market concerns of a banking crisis.</p>
+    	<p><strong>Crypto</strong></p>	
+    	<p>Bitcoin, the world’s largest cryptocurrency, rose 0.11% to US$29,124 in the 24 hours to 4:30 p.m. in Hong Kong. Ether fell 0.19% to US$1,899.</p>	
+    	<p>“Bitcoin needs to close above US$32,000 to confirm an upward trend,” Tom Wan, a research analyst at 21.co, the parent company of 21Shares, an issuer of crypto exchange-traded products, wrote in an email to Forkast.</p>
+      <p>Solana’s SOL token fell 0.98% to US$21.93 as the day’s biggest loser, followed by Dogecoin that slipped 0.77% to US$0.0787.</p>
+      <p>The global crypto market capitalization decreased by 0.07% to US$1.19 trillion, while total crypto market volume fell 20.02% to US$34.25 billion. </p>
+      <p><strong>NFT</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index fell 0.4% to 3,645.72 points in the 24 hours to 4:30 p.m. in Hong Kong and declined 1.85% during the week.</p>
+      <p>24-hour NFT sales on the Ethereum network declined for a third consecutive day, falling 23.64% to US$13.9 million, despite a 47.40% surge in 24-hour sales for Azuki, the leading NFT collection on Ethereum. 24-hour sales for the Bored Ape Yacht Club declined 58.7% to US$872,793, according to CryptoSlam data.</p>
+      <p><strong>Equities</strong></p>
+      <p>Asian equities were mixed on Friday. The Shenzhen Component Index fell 0.82%, the Shanghai Composite lost 0.48%, while Japan’s Nikkei 225 inched up 0.12% and Hong Kong’s Hang Seng Index increased 0.5%.</p>
+      <p>Investors continued to assess the global monetary policy outlook after the U.S. Federal Reserve and the European Central Bank raised interest rates by 25 basis points this week.</p>
+      <p>U.S. stock futures strengthened as of 4:30 p.m. in Hong Kong. The tech-heavy Nasdaq-100 futures rose 0.43%, the Dow Jones Industrial Average futures strengthened 0.25% and the S&P 500 futures index gained 0.40%.</p>
+      <p>U.S. nonfarm payroll data will be released later Friday. The world’s largest economy is expected to have added 180,000 jobs in April, which would be the smallest gain since December 2020, but well above the 70,000-100,000 monthly job gain needed to sustain the growth of the working-age demographic.</p>
+      <p>The U.S. dollar fell 0.12% to 101.2 points, weighed down by recession fears and banking woes after shares of Los Angeles-based PacWest fell over 50% yesterday following a Bloomberg report that the lender was exploring a sale or other capital-raising moves in the wake of the recent collapse of other banks.</p>
+      <p>Shares of Western Alliance bank holding company also plummeted over 60% on Thursday after a report alleged that it is exploring a potential sale. The company’s shares started recovering today after Western Alliance denied the report.</p>
+    </div>
+  },
+  {
     id: 509,
     title: 'Cryptocurrency Prices And News: Bitcoin Rises Near $29,000. Coinbase Beats Earnings.',
     category: 'Crypto',

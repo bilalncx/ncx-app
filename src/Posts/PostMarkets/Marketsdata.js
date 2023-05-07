@@ -1,5 +1,46 @@
 const data = [
   {
+    id: 508,
+    title: 'Wall Street Is in No Mood to Celebrate the Fed’s Last Rate Hike',
+    category: 'Markets',
+    subCategory: ['wall street', 'Fed', 'Hike'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Markets may have just survived the last of the most aggressive rate hikes in four decades. Few on Wall Street are celebrating.</p>
+    </div>,
+    authorName: 'Denitsa Tsekova',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 6, 2023 - 9:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-494.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Markets may have just survived the last of the most aggressive rate hikes in four decades. Few on Wall Street are celebrating.</p>
+    	<p>If Wednesday’s quarter-point hike marked the peak of the cycle in the US, as market-implied odds suggest, the prospects for risk assets look glum. That’s in sharp contrast to the prior seven tightening cycles, where the final hike has almost always driven rallies in stocks and riskier credit. The one exception came at the end of the dot-com era in 2000 when recession pressures were beginning to build in the economy.</p>	
+    	<p>What’s different now is that swaps traders expect the Federal Reserve’s next move will not be an extended pause, but instead a rate cut, perhaps as soon as July. Such a U-turn to easy policy suggests a recession that will force the central bank’s hand. Add beaten-down US regional bank stocks and tepid profit forecasts from Corporate America into the mix, and the outlook is grim.</p>	
+    	<p>Even if the US can avoid a downturn, strategists at Goldman Sachs Group Inc. and Morgan Stanley are having a difficult time envisioning what will drive share prices higher. The tech-heavy Nasdaq 100 has surged 21% this year and trades at around 25 times earnings. High-risk corporate credit is also up, adding 3.9%.</p>
+      <p>“Historically what you’d do is buy the last hike, because normally you see the market rally from there,” said Nadia Lovell, a senior equity strategist at UBS Global Wealth Management. But now “you have inflation that is still high, you have concerns within the banking system and some fragility around there. We think that the outcome is going to be just different this time.”</p>
+      <p>Strategists at Wall Street’s largest banks are similarly pessimistic:</p>
+      <ul>
+        <li>Morgan Stanley predicts the S&P 500 will decline to 3,900 by the end of the year as the economy slows</li>
+        <li>Goldman Sachs sees no post-pause gains for US stocks in the second half, forecasting the S&P 500 will end the year at 4,000</li>
+        <li>Bank of America Corp. strategists urge investors to “sell the last rate hike” and also see the S&P 500 rounding out the year at 4,000</li>
+      </ul>
+      <p>Many risk assets have already priced in a turn in Fed policy — but not the economic damage that may come along with such a pivot.</p>
+      <p>“Markets are usually pricing the cuts before the recession is happening, but there are often false signals and current priced cuts appear too large,” said Christian Mueller-Glissmann, head of asset allocation research at Goldman Sachs.</p>
+      <p>Still, it’s easy to understand why some investors have remained upbeat. US stocks have rallied following the end of six out of the past seven rate-hiking cycles and have delivered an average return of 13% over the next six months as fixed income has reaped gains.</p>
+      <p>“Poor performance after the last hike, when the curve is inverted, is often driven by a sharp deceleration in growth and earnings,” said Andrew Sheets, chief cross-asset strategist at Morgan Stanley. “We think those risks exist today.”</p>
+      <p>In 2000, even after the Fed began cutting rates, risk assets in that cycle took years to recover as companies worked down their leverage and excess investments from the late 1990s.</p>
+      <p>Corporate balance sheets are in better shape this time, but the bond market is signaling impending recession. Virtually the entire Treasury curve is inverted, a reliable harbinger of an economic slide.</p>
+      <p>Morgan Stanley strategists recommend investment-grade fixed income. High-grade credit has posted gains after every Fed pause since 1984 and delivered an average return of 9.6%.</p>
+      <p>But inflation remains stubbornly high and that will pressure profits.</p>
+      <p>“We have almost three rate cuts priced in for the second half and at the same time our forecasts point to higher headline inflation and stickier core inflation in in the second half,” said Max Kettner, chief multi-asset strategist at HSBC. “This is a dilemma that is virtually unsolvable — one of these will very likely prove wrong.”</p>
+      <p>Meanwhile, expectations for steep rate cuts are building. Swap contracts linked to Fed meeting dates have been tumbling as markets are pricing in around 70 basis points of cuts by the end of the year.</p>
+      <p>“We can’t see how the Fed would be cutting rates in the absence of a meaningful slowdown in the US economy,” said Johanna Kyrklund, chief investment officer at Schroder Investment Management Ltd., who is bearishly positioned on US equities. “Something has to give.”</p>
+      <p>--With assistance from Christopher Anstey.</p>
+    </div>
+  },
+  {
     id: 506,
     title: 'US banking crisis: Close to 190 banks could collapse, according to study',
     category: 'Markets',
