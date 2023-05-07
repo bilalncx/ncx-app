@@ -1,5 +1,45 @@
 const data = [
   {
+    id: 506,
+    title: 'Dow Jones Bounces Off Key Level After Stunning Jobs Report. Warren Buffetts Berkshire Hathaway Reports Saturday.',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'level', 'job'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average closed near session highs and bounced off its 50-day moving average on Friday. Apple (AAPL) rose after strong earnings late Thursday along with other blue chip leaders, pushing the index up by over 1.5%.</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 6, 2023 - 12:22 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-495.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average closed near session highs and bounced off its 50-day moving average on Friday. Apple (AAPL) rose after strong earnings late Thursday along with other blue chip leaders, pushing the index up by over 1.5%.</p>
+    	<p>Bank stocks helped lift the S&P 500 — which sank near its 50-day line earlier this week  — by 1.9%. But the tech-dominated Nasdaq was the biggest gainer at the closing bell, rising nearly 2.3%. The Dow climbed 1.7%.</p>	
+    	<p>Volume on the NYSE and the Nasdaq was lower compared with the same time on Thursday, which dampened the significance of Friday's rally.</p>	
+    	<p>Crude oil rose over 4% to trade at $71.51 a barrel. The yield on the benchmark 10-year Treasury note rose 10 basis points to 3.44%. The energy sector was the best performing in the S&P 500 Friday.</p>
+      <p>The small-cap Russell 2000 showed a hefty gain of 2.4% while the Innovator IBD 50 (FFTY) ETF outperformed, rising over 2.5%.</p>
+      <p>The economy added 253,000 jobs in April, much higher than views for 178,000. An unemployment rate of 3.4% in April was lower than estimates of 3.6%, the U.S. Labor Department reported early Friday.</p>
+      <h3>Stocks Moving Today</h3>
+      <p>Regional banks rose after falling sharply on Thursday. PacWest Bancorp (PACW) rebounded over 80%. Western Alliance Bancorp (WAL) showed a 50% gain at closing time. Zion Bancorp (ZION) also surged and made up all of Thursday's plunge, and more.</p>
+      <p>InterDigital (IDCC) broke out of a flat base with a 75.84 entry, according to IBD MarketSmith chart analysis. The wireless technology company blew past Q1 estimates. Sales grew a whopping 100% while earnings outpaced sales growth with a 325% increase. The relative strength line is also at a new high. The stock is now extended.</p>
+      <p>Coinbase (COIN) jumped 18% after earnings came out late Thursday. But the stock has some work to do before it can clear its 50-day line.</p>
+      <p>Fintech stock Block (SQ) fell 2%, despite strong earnings and outlook thanks to its popular Cash App.</p>
+      <p>Carvana (CVNA) surged 25% in strong volume after earnings and cleared its 50-day line after the used car retail chain showed smaller losses than a year ago. Lyft (LYFT) plunged 20%, falling below its 50-day line after earnings were announced and management lowered guidance for the second quarter.</p>
+      <p>Strong results sent IBD 50 stock DraftKings (DKNG) surging to a 52-week high Friday. The stock had broken out of a cup base with a buy point of 21.72 ahead of earnings and is now extended.</p>
+      <p>Atlassian (TEAM) indicated slowing cloud computing growth despite a strong quarterly report. TEAM fell 10% in heavy volume.</p>
+      <h3>Dow Jones Stock In Focus</h3>
+      <p>Dow Jones tech leader Apple rose on strong iPhone sales in the first quarter. The tech titan is hitting highs seen last in August 2022.</p>
+      <p>Outside Dow Jones, Dynatrace (DT) is building a cup base with a buy point of 48.10 with earnings due on May 17. The recent Stock of the Day and IBD SwingTrader stock cleared a potential early entry at 43.42 as it breaks a trendline.</p>
+      <p>Starbucks (SBUX) is rebounding from the 50-day after diving on earnings Wednesday. It is trading below the 110.93 buy point of last week's breakout but may be trying to climb back to it.</p>
+      <p>Berkshire Hathaway (BRKB) will report Q1 earnings and hold a shareholder meeting Saturday as the stock builds a base with a buy point of 362.20. The Warren Buffett portfolio sold several bank holdings ahead of the banking crisis, according to reports. Analysts polled by FactSet expect 12.5% growth in earnings per share to $3.58.</p>
+      <p>Shockwave Medical (SWAV) is approaching a 300.10 entry in a cup with handle with earnings due on Monday.</p>
+      <p>Wynn Resorts (WYNN) is also on watch as it holds the 50-day line ahead of earnings Wednesday. Axon (AXON) has earnings on Tuesday and is testing the 50-day moving average.</p>
+      <p>Dow Jones component Walt Disney (DIS) is rebounding from the 50-day line ahead of earnings Wednesday.</p>
+    </div>
+  },
+  {
     id: 504,
     title: '3 Nasdaq 100 Stocks That Are Surefire Buys in May',
     category: 'Indices',

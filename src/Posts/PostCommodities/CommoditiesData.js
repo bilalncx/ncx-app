@@ -1,5 +1,34 @@
 const data = [
   {
+    id: 504,
+    title: 'A debacle in the financial markets ... will definitely have collateral damage in oil, says analyst',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Financial', 'markets'],
+    description: <div className="blog-desc">
+      <p>It's been brutal week for oil prices, despite a Friday rebound. Slides in earlier sessions led crude futures to close out their third straight week of losses.</p>
+    </div>,
+    authorName: 'Ines Ferré',
+    authorurl: 'https://www.yahoo.com/author/ines-ferre/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 6, 2023 - 12:21 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-496.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>It's been brutal week for oil prices, despite a Friday rebound. Slides in earlier sessions led crude futures to close out their third straight week of losses.</p>
+    	<p>The S&P 500 Energy Select Sector ETF (XLE) also rebounded during Friday's trading day, yet it ended the week down 5.7%.</p>	
+    	<p>Recession fears drove much of the the downward movement in prior sessions. On Wednesday, the Federal Reserve raised interest rates by 25 basis points. The move is expected to further press the brakes on the economy.</p>	
+    	<p>This week's slide played out in tandem with the regional banking turmoil. As regional banks came under pressure, oil prices tanked.</p>
+      <p>"If we get a debacle in the financial markets, it will definitely have collateral damage in oil," OPIS global head of energy analysis Tom Kloza recently told Yahoo Finance Live.</p>
+      <p>"Energy price movements are consistent with rising market expectations for a recession," Will Compernolle, FHN Macro Strategist wrote in a note to investors this week.</p>
+      <p>The EIA’s recently released Weekly petroleum Status Report showed declining demand for gasoline and jet fuel in the week ending April 28th.</p>
+      <p>While China reopening is expected to be a positive for oil, the demand hasn't been linear. China factory activity unexpectedly cooled in April, reducing demand expectations.</p>
+      <p>"I think from a demand side perspective, the Chinese story from an industrial capacity perspective is still to play out throughout the year," Murray Auchincloss, chief financial officer of BP (BP), said during the energy giant's earnings call earlier this week.</p>
+      <p>"It's why we are constructive on oil prices looking out through the rest of the year," he added.</p>
+      <p>On Friday, West Texas Intermediate (CL=F) rose 4.1% while Brent (BZ=F) crude gained 3.9%. WTI and Brent closed out the week with a decline of 7.1% and 5.3% respectively.</p>
+    </div>
+  },
+  {
     id: 503,
     title: 'The Real Oil Market Shows $20-a-Barrel Price Collapse Is Excessive',
     category: 'Commodities',
