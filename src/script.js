@@ -61,10 +61,18 @@ $(document).ready(function(){
         matches.slideDown();    
     });
 
-    $("#all_btn").click(function () {
-      $("#ncx_market_table").find("tr").show();
-      $("#all_btn").addClass("active_all");
-      $(".table_search_tabs button").removeClass("active_usdc active_btc active_usd active_usdt");
+    // $("#all_btn").click(function () {
+    //   $("#ncx_market_table").find("tr").show();
+    //   $("#all_btn").addClass("active_all");
+    //   $(".table_search_tabs button").removeClass("active_usdc active_btc active_usd active_usdt");
+    // });
+
+    $('#all_btn').css('cursor','pointer');
+    $(document).on('click', '#all_btn',  function(event) {
+        event.preventDefault();
+        $("#ncx_market_table").find("tr").show();
+        $("#all_btn").addClass("active_all");
+        $(".table_search_tabs button").removeClass("active_usdc active_btc active_usd active_usdt");
     });
 
     $("#usdt_btn").click(function () {
