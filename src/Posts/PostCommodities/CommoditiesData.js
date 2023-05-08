@@ -1,5 +1,69 @@
 const data = [
   {
+    id: 506,
+    title: 'Oil Rebounds on US Jobs Data and Canadian Output Disruption',
+    category: 'Commodities',
+    subCategory: ['Oil', 'US', 'Canadian'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil futures advanced on stronger-than-expected jobs data in the US and disruption to oil production in Alberta because of wildfires.</p>
+    </div>,
+    authorName: 'Yongchang Chin and Verity Ratcliffe',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023 - 5:35 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-505.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil futures advanced on stronger-than-expected jobs data in the US and disruption to oil production in Alberta because of wildfires.</p>
+    	<p>West Texas Intermediate rose as much as 3% on Monday, adding to a 4% gain on Friday when futures pared a steep weekly loss. Better-than-expected US employment data on Friday eased recession fears and raised expectations for oil demand in the world’s biggest consuming nation.</p>	
+    	<p>On the supply side, several oil producers in the Canadian province of Alberta have shut down production because of wildfires. At least 145,000 barrels per day of oil production have been halted.</p>	
+      <p>The gains have pared back some of the losses of the previous three weeks when fears of a US recession and bank failures rattled markets, pushing crude to the lowest intraday level since late 2021.</p>
+      <p>Physical demand signals suggest at least some of the weakness in prices may have been overdone. The amount of crude held around the world on stationary tankers dropped to the lowest since mid-February, Vortexa data show.</p>
+      <p>“The crude oil market remains exposed to high level of volatility, partly driven by extreme and regular positioning changes as funds struggle to find the right direction,” said Ole Hansen, head of commodity strategy at Saxo Bank A/S.</p>
+      <p>Brent crude has dropped by about 10% this year as the Federal Reserve’s most aggressive tightening campaign in a generation spurred concerns of a US slowdown or recession. The decline has come despite a surprise production cut by OPEC and its allies including Russia. Still, there’s little evidence that Moscow has so far reduced its supply despite a vow to do so.</p>
+      <p>There are now risks of a further “OPEC supply response, or at least jawboning from the group, in an attempt to backstop or shore up prices,” said Vishnu Varathan, Asia head of economics and strategy at Mizuho Bank Ltd.</p>
+      <p>Speculators sharply ramped up bets against oil markets last week, data showed. Money managers posted the largest increase on record in short positions on Europe’s diesel market, while also lifting them by the most since last March on Brent. US crude and diesel markets also saw increases just weeks after the OPEC+ cut designed to stem bearishness.</p>
+      <p>Goldman Sachs Group Inc. laid the blame for oil’s drop over the past three weeks on a “mostly macro-financial selloff,” according to a note from analysts including Daan Struyven. The bank expects the global market to swing to “large deficits” in the second half, supporting its case for higher prices.</p>
+      <p>The prompt spread for global benchmark Brent — the gap between its two nearest contracts — was 25 cents a barrel in backwardation. The figure has been fluctuating recently, swinging between 37 cents and 15 cents a barrel in backwardation over the previous week.</p>
+    	<p>Traders will get a brace of outlooks this week on how the second half of the year may shape up. The Organization of Petroleum Exporting Countries issues its monthly snapshot on Thursday and, ahead of that, the US Energy Information Administration delivers its short-term outlook on Tuesday. The world’s largest oil producer, Saudi Aramco, will also disclose earnings.</p>
+      <p>--With assistance from Alex Longley.</p>
+    </div>
+  },
+  {
+    id: 505,
+    title: 'Warren Buffett Isnt Acquiring Occidental Petroleum. Time to Sell?',
+    category: 'Commodities',
+    subCategory: ['Warren', 'Occidental', 'Petroleum'],
+    description: <div className="blog-desc">
+      <p>Warren Buffett doesn't plan to buy the rest of the oil company's outstanding shares.</p>
+    </div>,
+    authorName: 'Matt DiLallo, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023 - 3:08 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-506.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Warren Buffett doused cold water on the speculation that Berkshire Hathaway (BRK.A 1.36%) (BRK.B 1.18%) had set its sights on its next elephant. At Berkshire's annual meeting, he emphatically told investors that the conglomerate wouldn't be buying the rest of oil giant Occidental Petroleum (OXY -1.49%) that it doesn't currently own. His company had amassed a 23.5% stake in the oil producer and had received regulatory approval to boost it to as much as 50%. </p>
+    	<p>Those comments might have investors who followed Buffett into the oil stock wondering if it's time to sell. Here's a look at what Buffett said about Occidental and the thesis for owning the oil producer now that a buyout is seemingly off the table.</p>	
+    	<h3>Drilling down into Buffett's comments about Occidental Petroleum</h3>
+      <p>Berkshire has been buying shares of the oil company hand-over-fist in the past year. Occidental has grown into the seventh-largest position in Berkshire Hathaway's portfolio. Shares are worth nearly $13 billion and are 3.8% of the portfolio's total value.</p>	
+      <p>With Buffett's company holding over a quarter of Occidental's outstanding shares and getting regulatory approval to purchase up to half the company, many investors speculated that Berkshire would eventually acquire Occidental Petroleum. The investment seemed to mirror Berkshire's path to acquiring BNSF. Berkshire built up a 22.6% stake in the railway before acquiring the entire company in a $26.4 billion deal in 2010.</p>
+    	<p>Buffett addressed the idea Berkshire would buy Occidental at its recent annual meeting. He told investors, "There's speculation about us buying control; we're not going to buy control." Buffett then quipped, "We wouldn't know what to do with it." Berkshire's CEO also said that while "we will not be making any offer for control of Occidental," his company "love[s] the shares we have." He further stated: "We may or may not own more in the future but we certainly have warrants on what we got on the original deal on a very substantial amount of stock around $59 a share, and warrants last a long time, and I'm glad we have them."</p>
+      <p>Berkshire got those warrants when it made a $10 billion preferred stock investment in Occidental in 2019. That deal helped fund its purchase of Anadarko Petroleum. The warrants enable Berkshire to buy up to $5 billion of Occidental's stock at around $59 a share (which happens to be right around the recent price). Occidental Petroleum recently started buying back those preferred shares (which yield 8%).</p>
+      <h3>With a buyout off the table, what's the Occidental Petroleum bull thesis?</h3>
+      <p>Speculation that Buffett might buy Occidental had fueled a big rally in its stock last year. Shares of the oil company more than doubled in 2022, -- leading the S&P 500 -- driven by Buffett's purchases and higher oil prices. They've lost some steam in recent months as oil prices cooled off. Meanwhile, with Buffett ending the acquisition speculation, shares could lose more ground as investors who hoped he'd offer a premium to acquire the entire company bail on their position.</p>
+      <p>However, an acquisition by Buffett never seemed to be the driving factor behind the purchases. His company has also been gobbling up shares of Chevron (CVX 0.64%). Berkshire owns 7% of the oil giant's outstanding shares, which are currently worth over $21 billion. That makes Chevron Berkshire's 5th largest holding.</p>
+      <p>With sizable positions in two oil stocks, it seemed more like Buffett and his team were making a bold bet on higher oil prices following Russia's invasion of Ukraine. While that thesis hasn't held up as well as expected due to concerns about a slowing global economy, Buffett has ample reasons to remain bullish on oil prices.</p>
+      <p>The International Energy Agency (IEA) expects resurgent jet fuel and Chinese oil demand to drive record oil demand this year. Meanwhile, supplies will remain tight, especially after OPEC+ announced a surprise production cut last month. That could cause a wide gap between supply and demand later this year, potentially driving up oil prices.</p>
+      <p>In addition to its upside to oil prices, Occidental is an emerging leader in carbon capture and storage (CCS) technology. That could be an enormous business for the company. It sees CCS growing to a $3 trillion-$5 trillion global industry. Occidental believes it could one day make as much money from CCS as it currently produces from its oil and gas business.</p>
+      <h3>Buffett's bull thesis remains intact</h3>
+      <p>Investors who bought Occidental Petroleum hoping for a Buffett buyout were likely disappointed to learn that won't happen. While they might opt to sell, the reasons Buffett has been buying shares of the oil giant remain. Several catalysts could send oil prices higher. In addition, the company has lots of upside to the emerging carbon capture and storage sector. Continuing to hold the shares could pay big dividends over the longer term.</p>
+    </div>
+  },
+  {
     id: 504,
     title: 'A debacle in the financial markets ... will definitely have collateral damage in oil, says analyst',
     category: 'Commodities',
