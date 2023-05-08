@@ -1,5 +1,110 @@
 const data = [
   {
+    id: 510,
+    title: 'Dow Jones Futures Rise As PacWest Soars On Dividend Cut. Occidental Drops On Warren Buffett Comments.',
+    category: 'Markets',
+    subCategory: ['Dow Jones', 'Pacwest', 'Rise'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures rose modestly in a tightly mixed overall market early Monday. Key inflation data and Disney earnings are on tap for this week. Embattled regional bank PacWest (PACW) soared after cutting its dividend.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023 - 4:47 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-501.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures rose modestly in a tightly mixed overall market early Monday. Key inflation data and Disney earnings are on tap for this week. Embattled regional bank PacWest (PACW) soared after cutting its dividend. Meanwhile, Occidental Petroleum (OXY) cut its losses after Warren Buffett said Berkshire Hathaway (BRKB) is not seeking full control of the energy group.</p>
+    	<p>Regional banks looked to add to Friday's gains, as the SPDR S&P Regional Bank ETF (KRE) climbed 2.2% early Monday. Late Friday, PacWest announced it was cutting its dividend in order to protect its balance sheet. Shares surged more than 35% Monday. Western Alliance (WAL) rallied 11% in morning trade.</p>	
+    	<p>On the economic front this week, the consumer price index for April is out at 8:30 a.m. ET on Wednesday. Inflation data will be keenly watched throughout May, after the Federal Reserve last week hinted at a possible pause, in June, to the rate-hike regimen that is slowing inflation but aggravating financial sector instability. Regulators said they "will closely monitor incoming information and assess the implications for monetary policy."</p>	
+    	<p>Key earnings reporters this week include Skyworks Solutions (SWKS), Trade Desk (TTD), Walt Disney (DIS) and Wynn Resorts (WYNN).</p>
+      <p>Lam Research (LRCX), IBD Leaderboard stock HubSpot (HUBS), Nvidia (NVDA) and Paccar (PCAR) — as well as Dow Jones stocks Nike (NKE) and Visa (V) — are among the best stocks to watch in the struggling stock market uptrend.</p>
+      <p>Nvidia was a recent IBD Stock Of The Day topic. Nike received an IBD Stock Analysis last week, while Paccar also got an IBD Stock Analysis treatment recently.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>Ahead of Monday's opening bell, Dow Jones futures rose 0.2% vs. fair value, and S&P 500 futures moved up 0.2%. The tech-heavy Nasdaq 100 futures fell 0.2% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) rose less than 0.1%, while the SPDR S&P 500 ETF (SPY) traded up 0.2% early Monday.</p>
+      <p>The 10-year U.S. Treasury yield on Monday traded up to 3.48%, looking to add to Friday's gains.</p>
+      <p>U.S. oil prices rebounded another 3% Monday morning, as West Texas Intermediate futures moved back above $73 a barrel. Last week, WTI futures briefly dived below $64 a barrel on Thursday before bouncing.</p>
+      <h3>Stock Market Rally Still Under Pressure</h3>
+      <p>On Friday, the Dow Jones Industrial Average rallied 1.65%, while the S&P 500 advanced 1.85%. The tech-heavy Nasdaq composite surged 2.25%.</p>
+      <p>Friday's Big Picture column commented, "It is important to stay defensive after one impressive session, especially amid a flurry of distribution days. For now at least, the stock market uptrend remains under pressure and exposure should still be limited to 20% to 40%."</p>
+      <p>Now is an important time to read IBD's The Big Picture column with the stock market still struggling to maintain its uptrend.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: Nike, Visa</h3>
+      <p>Nike shares rallied 2.4% Friday, just below a cup-with-handle's 127.59 buy point, according to IBD MarketSmith pattern recognition. NKE stock gained 0.1% early Monday.</p>
+      <p>Visa shares bullishly reclaimed a 230.15 cup-with-handle buy point during Friday's 2.7% gain. The buy range goes up to 241.66. V stock was up 0.2% Monday.</p>
+      <h3>Best Stocks To Buy And Watch: Nvidia, Paccar</h3>
+      <p>Nvidia shares finished Friday back above a 280.10 buy point in a short consolidation after the session's 4.1% jump, according to IBD MarketSmith. NVDA stock was down 0.3% Monday morning.</p>
+      <p>Backstory: Last week,, Rosenblatt Securities analyst Hans Mosesmann named Nvidia one of seven semiconductor stocks likely to benefit from the surge in spending by tech companies around artificial intelligence. Nvidia sells graphics processing units, accelerators, software tools and other offerings for AI projects.</p>
+      <p>Paccar snapped a three-day day skid Friday, rising 2.45%. Shares are back above their 50-day line and continue to build a flat base with a 76.82 buy point, with an early entry at 75.83. Paccar shares rose 0.2% Monday morning.</p>
+      <p>Backstory: The producer of heavy-duty semi-trucks topped first-quarter estimates on April 25, reporting a 96% earnings spike. At CES 2022, Paccar exhibited connected and autonomous trucks. The company behind the Kenworth, Peterbilt and DAF nameplates showcased three vehicles.</p>
+      <h3>HubSpot, Lam Research</h3>
+      <p>Lam Research remains close to an early entry at 533.19, while forming a flat base with a 548.95 buy point. LRCX stock edged lower Monday morning.</p>
+      <p>Backstory: Lam Research supplies wafer fabrication equipment to the semiconductor industry. It is one of just three companies involved in etching and deposition for chip production. Lam also makes equipment used in NAND flash memory modules. These account for roughly half of total sales.</p>
+      <p>IBD Leaderboard stock HubSpot advanced 5.5% last week amid strong first-quarter earnings results. The earnings gap up on Thursday displays an alternate entry near 455.68, the high of the first 5-minute bar during the session's action. HUBS stock was flat in Monday morning trade.</p>
+      <p>Backstory: The Cambridge, Mass., firm specializes in helping businesses automate marketing and sales operations. Its cloud-based platform also assists clients in social media, search engine optimization and website content management. Earnings and sales have grown sharply over most of the past eight quarters. In the first quarter, profit growth accelerated for the third straight period, up 122%. Revenue increased 27% to $501.6 million.</p>
+      <p><strong>Tesla Stock</strong></p>
+      <p>Tesla stock raced 5.5% higher Friday, rebounding from its recent lows. Shares remain below their 50-day line, as they look to build a new base. The stock closed Friday 47% off its 52-week high.</p>
+      <p>TSLA stock looked to add to Friday's gains, trading up 2.5% early Monday.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares surged 4.7% Friday after the company's strong earnings report. They closed just off their 52-week highs, which were set back in mid-August. The stock continues to add to gains above a 157.48 buy point and it is out of the buy range that ran up to 165.35. AAPL stock fell 0.2% premarket Monday</p>
+      <p>Microsoft shares are sharply above a flat base's 276.86 buy point, as they hit a new 52-week high Friday with a 1.7% gain. The 5% buy area went up from the buy point to 290.70. On Monday morning, MSFT stock lost 0.4%.</p>
+    </div>
+  },
+  {
+    id: 509,
+    title: 'Is Netflix Stock A Buy After Video Streamers First-Quarter Report?',
+    category: 'Markets',
+    subCategory: ['Netflix', 'Stocks', 'market'],
+    description: <div className="blog-desc">
+      <p>Internet television network Netflix (NFLX) has a commanding lead in the streaming video market but its growth has slowed.</p>
+    </div>,
+    authorName: 'PATRICK SEITZ',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023 - 4:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-502.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Internet television network Netflix (NFLX) has a commanding lead in the streaming video market but its growth has slowed. NFLX stock cratered in 2022 after the company reported two straight quarters of subscriber declines. However, after a corporate course correction, some people might be wondering: Is Netflix stock a buy right now?</p>
+    	<p>Los Gatos, Calif.-based Netflix started in 1997 as a subscription DVD-by-mail service in the U.S. That innovative service ultimately drove movie rental giant Blockbuster out of business. But Netflix announced April 18 that it is ending the legacy DVD service this fall.</p>	
+    	<p>In 2007, Netflix began offering a streaming video service with licensed movies and TV series. It later entered the content production business and released its first major original series, "House of Cards," in February 2013.</p>	
+    	<p>Netflix offers its subscription video-on-demand service in over 190 countries.</p>
+      <h3>Subscriber Growth Drives Netflix Story</h3>
+      <p>Netflix stock has benefited from the cord-cutting trend as people quit traditional pay-TV services.</p>
+      <p>Over the last several years, Netflix has been laser-focused on growing its global subscriber base. It wants to build a competitive moat with scale. It has been investing heavily in local-language original content production worldwide. Netflix stock performance is linked to its net subscriber additions.</p>
+      <p>In the first quarter, Netflix added 1.75 million new subscribers worldwide, vs. forecasts for 2.2 million. It ended the first quarter with 232.5 million total subscribers worldwide.</p>
+      <p>Netflix stock dropped 3.2% on the first trading day after it posted first-quarter results late April 18.</p>
+      <h3>Netflix Stock Fundamental Analysis</h3>
+      <p>In the March quarter, Netflix earned $2.88 a share on sales of $8.16 billion. Analysts polled by FactSet had expected Netflix to earn $2.86 a share on sales of $8.18 billion. On a year-over-year basis, Netflix earnings fell 18% while sales climbed 4%.</p>
+      <p>For the second quarter, Netflix predicted earnings of $2.84 a share on sales of $8.24 billion. But Wall Street had been projecting earnings of $3.07 a share on sales of $8.47 billion for the June quarter. In the year-earlier period, Netflix earned $3.20 a share on sales of $7.97 billion.</p>
+      <p>After a humbling performance in 2022, Netflix says it is focused on profitability. It also hopes to increase its revenue with a lower-priced, advertising-supported service tier. Plus, it is looking to monetize rampant account sharing on the service and turn freeloaders into paying customers.</p>
+      <p>The next catalyst for Netflix stock could be the company's second-quarter earnings report, due in late July.</p>
+      <h3>Netflix Content Draws Subscribers</h3>
+      <p>Since it started its original content push, Netflix has launched quite a few hit shows. They include "Stranger Things," "Squid Game," "Ozark," "Outer Banks" and "Bridgerton."</p>
+      <p>It also has premiered popular original movies such as "Bird Box," "Extraction," "Murder Mystery," "The Old Guard" and "The Gray Man."</p>
+      <p>Recent buzzworthy shows on Netflix include TV series "Wednesday," "The Night Agent" and "The Diplomat." Popular new original movies include "Don't Look Up," "Red Notice" and "Glass Onion."</p>
+      <p>Meanwhile, Netflix is facing competition from traditional media companies. HBO Max from Warner Bros. Discovery (WBD) launched in May 2020. Comcast (CMCSA)-owned NBCUniversal followed in July 2020 with Peacock. Paramount Global (PARA) launched Paramount+ in March 2021.</p>
+      <p>Other services include Amazon (AMZN) Prime Video, Apple's (AAPL) Apple TV+, Walt Disney's (DIS) Disney+, Hulu and more.</p>
+      <h3>Netflix Enters Video Game Market</h3>
+      <p>To create a stickier service, Netflix added mobile video games as part of its subscription offering in November 2021. Subscribers can play the games on Android and Apple iOS smartphones and tablets.</p>
+      <p>Since September 2021, Netflix has purchased four game studios. It bought Night School Studio, Next Games, Boss Fight Entertainment and Spry Fox. It also has opened two new game studios.</p>
+      <p>Netflix currently offers more than 50 games to subscribers. They include action, arcade, puzzle, racing, sports and casino games.</p>
+      <h3>Netflix Stock Technical Analysis</h3>
+      <p>On Oct. 19, Netflix stock broke out of a nine-week consolidation period at a buy point of 252.09, according to IBD MarketSmith charts. NFLX stock ended the regular session on May 5 at 322.76.</p>
+      <p>Netflix hit its record high of 700.99 in November 2021.</p>
+      <p>Netflix stock has an IBD Relative Strength Rating of 93 out of 99. The rating shows how a stock's price performance stacks up against all other stocks over the last 52 weeks.</p>
+      <p>It has an IBD Composite Rating of 88 out of 99. IBD's Composite Rating combines five separate proprietary ratings into one easy-to-use rating. The best growth stocks have a Composite Rating of 90 or better.</p>
+      <h3>Is Netflix Stock A Buy Right Now?</h3>
+      <p>Netflix stock is not a buy right now, but it soon could be. It has formed a cup-with-handle base with a buy point of 349.90, MarketSmith charts show.</p>
+      <p>In a positive sign, NFLX stock has found support at its 50-day moving average line.</p>
+      <p>Netflix stock ranks second out of 21 stocks in IBD's Leisure-Movies & Related industry group, according to IBD Stock Checkup. The group ranks No. 37 out of 197 industry groups that IBD tracks. Growth stock investors should focus on leading stocks in top 40 industry groups.</p>
+      <p>Be sure to keep an eye on the overall stock market. If it turns negative, don't try to fight the general stock market direction. Check out IBD's Big Picture column for the current market direction.</p>
+      <p>To find the best stocks to buy and watch, check out IBD's Stock Lists page. More stock ideas can be found on IBD's Leaderboard, MarketSmith  and SwingTrader platforms.</p>
+    </div>
+  },
+  {
     id: 508,
     title: 'Wall Street Is in No Mood to Celebrate the Fed’s Last Rate Hike',
     category: 'Markets',
