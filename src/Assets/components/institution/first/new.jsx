@@ -69,7 +69,7 @@ function FirstVideo()
                     loop={true}
                     playsInline={true}
                     >
-                    <source src={OTCMobileVideo} type="video/mp4" />
+                    <source src={VideSection} type="video/mp4" />
                 </video>
                 {/* <CarouselProvider
                         visibleSlides={1}
@@ -97,14 +97,11 @@ function FirstVideo()
                 </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
-                        <h1>{t("NCX")}</h1>
-                        <h1>{t("institutional")}</h1>
-                        <h1>{t("services")}</h1>
-
-                        <div className="bbttn">
+                        <h1>NCX Institutional Services for Commercial Entities, Funds, Brokerages, Exchanges and HNWI</h1>
+                        {/* <div className="bbttn">
                             <Button href="#" className="card_apply">{t("apply_now")}</Button>
                             <Button href="#solutions_institutional" className="card_learn">{t("learn_more")}</Button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

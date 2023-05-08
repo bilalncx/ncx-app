@@ -40,7 +40,7 @@ function NCXAPPSection()
                                 </div>
                                 <div className="apps-divi">
                                     <NCXApple />
-                                    <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" rel="noreferrer" target="_blank"><NCXGoogle /></a>
+                                    <a href="#" rel="noreferrer" target="_blank"><NCXGoogle /></a>
                                 </div>
                                 <div className="home__btnff">
                                     <Button href="https://ncx.cx/register" rel="noreferrer" target="_blank" className="sin__op">{t("sign_up")}</Button>

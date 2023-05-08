@@ -58,7 +58,21 @@ summary::-webkit-details-marker{
     }
     #ncx_about .col.card_txt {
         width: 100% !important;
-        padding: 80px 0px 50px 0px !important;
+        padding: 30px 0px 0px 0px !important;
+    }
+    #ncx_about .col.card_txt p{
+        font-family: 'hauora-extralight' !important;
+        margin-bottom: 0px !important;
+    }
+    #ncx_about #mobileSlider .col.card_txt h1{
+        font-size: 36px !important;
+        line-height: 44px !important;
+    }
+    #ncx_about #mobileSlider video {
+        min-height: 360px;
+        object-fit: cover;
+        width: 100%;
+        background: #000000;
     }
     #ncx_about .col.card_txt .inns-div{
         width: 100% !important;
