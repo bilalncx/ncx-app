@@ -2,7 +2,9 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import './script';
+import InsightDetails from './Assets/pages/blog/blog';
 import Home from './Assets/pages/home';
+import Insights from './Assets/pages/bloglisting';
 import PrivacyPolicy from './Assets/pages/privacy-policy/privacy-policy';
 import KYCAMLPolicy from './Assets/pages/kyc-aml-policy/kyc-aml-policy';
 import UserAgreement from './Assets/pages/user-agreement/user-agreement';
@@ -23,6 +25,7 @@ import FAQDesposits from './Assets/components/support/deposits/deposit';
 import FAQWithdrawal from './Assets/components/support/withdrawal/withdrawal';
 import FAQSpotTrading from './Assets/components/support/spottrading/sporttrading';
 import FAQLearn from './Assets/components/support/learn/learn';
+import ApplyNow from './Assets/pages/Horizontalpage/horizontalpage';
 import NCXTokenPage from './Assets/pages/ncx-token/token';
 import MarketHomePageSection from './Assets/components/our_markets/home_market';
 import NCXAboutUs from './Assets/pages/about-us/about';
@@ -47,6 +50,8 @@ const App = () => {
       <BrowserRouter>
         <Routes>
           <Route path='/' exact element={<Home />} />
+          <Route path='/insights' element={<Insights />}/>
+          <Route path='/insights/:id' element={<InsightDetails />} />
           <Route path='/privacy-policy' element={<PrivacyPolicy />}/>
           <Route path='/kyc-aml-policy' element={<KYCAMLPolicy />}/>
           <Route path='/user-agreement' element={<UserAgreement />}/>
@@ -67,6 +72,7 @@ const App = () => {
           <Route path='/faq_withdrawal' element={<FAQWithdrawal />}/>
           <Route path='/faq_spot_trading' element={<FAQSpotTrading />} />
           <Route path='/faq_learn' element={<FAQLearn />} />
+          <Route path='/apply-now' element={<ApplyNow />} />
           <Route path='/ncx-token' element={<NCXTokenPage />} />
           <Route path='/home-market' element={<MarketHomePageSection />} />
           <Route path='/about-us' element={<NCXAboutUs />} />

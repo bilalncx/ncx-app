@@ -5,24 +5,26 @@ $(document).ready(function(){
   var height = movementStrength / $(window).height();
   var width = movementStrength / $(window).width();
   $("#defi_content").mousemove(function(e){
-    var pageX = e.pageX - ($(window).width() / 3);
-    var pageY = e.pageY - ($(window).height() / 3);
-    var newvalueX = width * pageX * -1 - 0;
-    var newvalueY = height * pageY * -1 - 5;
-    $('#defi_content').css("background-position", newvalueX+"px     "+newvalueY+"px");
+            var pageX = e.pageX - ($(window).width() / 3);
+            var pageY = e.pageY - ($(window).height() / 3);
+            var newvalueX = width * pageX * -1 - 0;
+            var newvalueY = height * pageY * -1 - 5;
+            $('#defi_content').css("background-position", newvalueX+"px     "+newvalueY+"px");
   });
 
   const details = document.querySelectorAll("details");
 
-  details.forEach((targetDetail) => {
-    targetDetail.addEventListener("click", () => {
-      details.forEach((detail) => {
-        if (detail !== targetDetail) {
-          detail.removeAttribute("open");
-        }
-      });
+// Add the onclick listeners.
+details.forEach((targetDetail) => {
+  targetDetail.addEventListener("click", () => {
+    // Close all the details that are not targetDetail.
+    details.forEach((detail) => {
+      if (detail !== targetDetail) {
+        detail.removeAttribute("open");
+      }
     });
   });
+});
 });
 
 $(document).ready(function(){
@@ -42,8 +44,14 @@ $(document).ready(function(){
       $(this).scrollTop(0);
     });
 
+    // $('.trend_pairs p').each(function() {
+    //   var val = parseFloat($(this).text());
+    //   $(this).addClass(val < 0.0 ? 'negative' : 'positive');
+    // });
+
     $(".pair_name").click(function () {
         $(".pair_name").removeClass("active");
+        // $(".tab").addClass("active"); // instead of this do the below 
         $(this).addClass("active");   
     });
 
@@ -92,11 +100,17 @@ $(document).ready(function(){
 
 
 $(document).ready(function() {
-    if (window.location.href.indexOf("privacy-policy") > -1) {
+    if (window.location.href.indexOf("insights") > -1) {
+      // alert("your url contains the name franky");
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("privacy-policy") > -1) {
+      // alert("your url contains the name franky");
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("kyc-aml-policy") > -1) {
+      // alert("your url contains the name franky");
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("user-agreement") > -1) {
+      // alert("your url contains the name franky");
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("cookie-policy") > -1){
       $("body").addClass("body-overflow");
@@ -189,3 +203,63 @@ $(document).ready(function() {
     }
     window.onscroll = function() {myFunction()};
 });
+
+// $(".trend_pairs p").each(function() {
+//   var val = parseFloat($(this).text());
+//   $(this).addClass(val < 0.0 ? "negative" : "positive");
+// });
+
+// $(".latest_change h2").each(function() {
+//   var val = parseFloat($(this).text());
+//   $(this).addClass(val < 0.0 ? "negative" : "positive");
+// });
+
+// $(document).ready(function(){
+//   window.onscroll = function() {myFunctionB()};
+//     var header = document.getElementById("insight_detail");
+//     var sticky = header.offsetTop+100;
+//     function myFunctionB() {
+//       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) {
+//         header.classList.add("sticky-bar");
+//         $("#insight_detail .leftsidebar").addClass("sticky-bar");
+//         $("#insight_detail .rightsidebar").addClass("sticky-bar");
+//       } else {
+//         header.classList.remove("sticky-bar");
+//         $("#insight_detail .leftsidebar").removeClass("sticky-bar");
+//         $("#insight_detail .rightsidebar").removeClass("sticky-bar");
+//       }
+//     }
+// });
+
+// $(document).ready(function(){
+//   window.onscroll = function() {myFunction()};
+//     var header = document.getElementById("support_faq_details");
+//     var sticky = header.offsetTop+100;
+//     function myFunction() {
+//       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) { // <--here
+//         header.classList.add("sticky-bar");
+//         $("#support_faq_details .support_leftbar").addClass("sticky-bar");
+//         $("#support_faq_details .support_articles").addClass("sticky-bar");
+//       } else {
+//         header.classList.remove("sticky-bar");
+//         $("#support_faq_details .support_leftbar").removeClass("sticky-bar");
+//         $("#support_faq_details .support_articles").removeClass("sticky-bar");
+//       }
+//     }
+// });
+
+
+// ****************************************************************************
+// $(document).ready(function($){
+//   $(window).on('scroll', function(){
+//       if($(window).scrollTop() >= $('.widerangencxproducts').offset().top){
+//           $('.widerangencxproducts').addClass('stickyrow');
+//           $('#btn-1').addClass('active-one');
+//           $('#content-1').addClass('active-one');
+//       } else if($(window).scrollTop() <= $('.widerangencxproducts').offset().top){
+//         $('.widerangencxproducts').removeClass('stickyrow');
+//         $('.pro-tabs').removeClass('active-one');
+//         $('.pro-content').removeClass('active-one');
+//       }
+//   });
+// });
