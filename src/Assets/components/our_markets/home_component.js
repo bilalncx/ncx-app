@@ -161,7 +161,7 @@ function show(data) {
 				<p>≈$${BTC_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/btc-usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/btc_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$1,223,312.00</h1>
@@ -186,7 +186,7 @@ function show(data) {
 				<p>≈$${ETH_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/eth-usd.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$1,123,32.00</h1>
@@ -211,7 +211,7 @@ function show(data) {
 				<p>≈$${USDT_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/usdt-usd.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/usdt_usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$1,244,431.00</h1>
@@ -236,7 +236,7 @@ function show(data) {
 				<p>≈$${BCH_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/bch-usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/bch_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$289,849.00</h1>
@@ -261,7 +261,7 @@ function show(data) {
 				<p>≈$${BNB_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/bnb-usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/bnb_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$1,215,789.00</h1>
@@ -286,7 +286,7 @@ function show(data) {
 				<p>≈$${MATIC_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/matic-usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/matic_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$319,375.00</h1>
@@ -311,7 +311,7 @@ function show(data) {
 				<p>≈$${LTC_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/ltc-usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/ltc_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$311,217.00</h1>
@@ -336,7 +336,7 @@ function show(data) {
 				<p>≈$${XRP_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/xrp-usd.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/xrp_usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$498,916.00</h1>
@@ -361,7 +361,7 @@ function show(data) {
 				<p>≈$${USDC_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/usdc-usd.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/usdc_usd.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$1,108,348.00</h1>
@@ -386,7 +386,7 @@ function show(data) {
 				<p>≈$${BAND_Low}</p>
 			</td>
 			<td class="mark-graph">
-				<img src="https://ncx.cx/images/graphs/hom/band-usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/band_usdt.png" alt="graph" />
 			</td>
 			<td class="mark-volume">
 				<h1>$562,226.00</h1>

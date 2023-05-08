@@ -784,7 +784,7 @@ function show(data) {
 				<p>≈$${ETH_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/lrc_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,123,32.00</h1>
@@ -805,18 +805,18 @@ function show(data) {
 				<p>≈$${MANA_Pricenew}</p>
 			</td>
 			<td>
-				<h1>${DOGEChanged}%</h1>
+				<h1>${MANAChanged}%</h1>
 			</td>
 			<td>
-				<h1>${DOGE_High}</h1>
-				<p>≈$${DOGE_High}</p>
+				<h1>${MANA_High}</h1>
+				<p>≈$${MANA_High}</p>
 			</td>
 			<td>
-				<h1>${DOGE_Low}</h1>
-				<p>≈$${DOGE_Low}</p>
+				<h1>${MANA_Low}</h1>
+				<p>≈$${MANA_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/mana_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$484,313.00</h1>
@@ -837,18 +837,18 @@ function show(data) {
 				<p>≈$${DOGE_Pricenew}</p>
 			</td>
 			<td>
-				<h1>${MANAChanged}%</h1>
+				<h1>${DOGEChanged}%</h1>
 			</td>
 			<td>
-				<h1>${MANA_High}</h1>
-				<p>≈$${MANA_High}</p>
+				<h1>${DOGE_High}</h1>
+				<p>≈$${DOGE_High}</p>
 			</td>
 			<td>
-				<h1>${MANA_Low}</h1>
-				<p>≈$${MANA_Low}</p>
+				<h1>${DOGE_Low}</h1>
+				<p>≈$${DOGE_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/mana_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$557,839.00</h1>
@@ -912,7 +912,7 @@ function show(data) {
 				<p>≈$${XRP_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/xrp_usd.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$498,916.00</h1>
@@ -1008,7 +1008,7 @@ function show(data) {
 				<p>≈$${EBTC_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/zec_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/eth_btc.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,263,853.00</h1>
@@ -1040,7 +1040,7 @@ function show(data) {
 				<p>≈$${LINK_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/btc_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/link_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$284,971.00</h1>
@@ -1072,7 +1072,7 @@ function show(data) {
 				<p>≈$${XMR_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/grt_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/xmr_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$424,431.00</h1>
@@ -1136,7 +1136,7 @@ function show(data) {
 				<p>≈$${BAT_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/trx_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/bat_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$458,299.00</h1>
@@ -1168,7 +1168,7 @@ function show(data) {
 				<p>≈$${BNB_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/sushi_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/bnb_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,215,789.00</h1>
@@ -1200,7 +1200,7 @@ function show(data) {
 				<p>≈$${USDT_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/uni_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/usdt_usdc.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$983,842.00</h1>
@@ -1232,7 +1232,7 @@ function show(data) {
 				<p>≈$${XRPUSDT_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/btc_usd.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/xrp_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$498,916.00</h1>
@@ -1264,7 +1264,7 @@ function show(data) {
 				<p>≈$${BAND_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/dash_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/band_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$562,226.00</h1>
@@ -1296,7 +1296,7 @@ function show(data) {
 				<p>≈$${USDCUSD_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/dash_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/usdc_usd.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,108,348.00</h1>
@@ -1392,7 +1392,7 @@ function show(data) {
 				<p>≈$${TUSD_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/bat_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/tusd_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$587,982.00</h1>
@@ -1424,7 +1424,7 @@ function show(data) {
 				<p>≈$${REN_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/link_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/ren_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$343,235.00</h1>
@@ -1456,7 +1456,7 @@ function show(data) {
 				<p>≈$${LRC_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/mkr_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/lrc_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$363,673.00</h1>
@@ -1488,7 +1488,7 @@ function show(data) {
 				<p>≈$${BCHUSDT_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/bnb_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/bch_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$289,849.00</h1>
@@ -1520,7 +1520,7 @@ function show(data) {
 				<p>≈$${AAVE_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/ltc_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/aave_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$261,470.00</h1>
@@ -1552,7 +1552,7 @@ function show(data) {
 				<p>≈$${MKR_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/comp_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/mkr_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$455,250.00</h1>
@@ -1616,7 +1616,7 @@ function show(data) {
 				<p>≈$${BTCUSD_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/xmr_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/btc_usd.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,310,484.00</h1>
@@ -1648,7 +1648,7 @@ function show(data) {
 				<p>≈$${BTCUSDC_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/xmr_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/btc_usdc.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$864,539.00</h1>
@@ -1712,7 +1712,7 @@ function show(data) {
 				<p>≈$${MATIC_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/xrp_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/matic_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$319,375.00</h1>
@@ -1744,7 +1744,7 @@ function show(data) {
 				<p>≈$${DASH_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/xlm_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/dash_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$280,910.00</h1>
@@ -1808,7 +1808,7 @@ function show(data) {
 				<p>≈$${XLM_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/ren_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/xlm_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$376,938.00</h1>
@@ -1840,7 +1840,7 @@ function show(data) {
 				<p>≈$${COMP_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/matic_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/comp_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$377,931.00</h1>
@@ -1872,7 +1872,7 @@ function show(data) {
 				<p>≈$${XRPBTC_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/eth_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/xrp_btc.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$458,321.00</h1>
@@ -1904,7 +1904,7 @@ function show(data) {
 				<p>≈$${BTCUSDT_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/mana_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/btc_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,223,312.00</h1>
@@ -1936,7 +1936,7 @@ function show(data) {
 				<p>≈$${USDTUSD_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/xrp_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/usdt_usd.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,244,431.00</h1>
@@ -2064,7 +2064,7 @@ function show(data) {
 				<p>≈$${ZRX_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/snx_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/zrx_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$367,983.00</h1>
@@ -2096,7 +2096,7 @@ function show(data) {
 				<p>≈$${ETHUSDT_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/bch_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/eth_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$1,123,32.00</h1>
@@ -2128,7 +2128,7 @@ function show(data) {
 				<p>≈$${UNI_Low}</p>
 			</td>
 			<td>
-				<img src="https://ncx.cx/images/new-graphs/aave_usdt.png" alt="graph" />
+				<img src="https://ncx.cx/images/new-graphs/uni_usdt.png" alt="graph" />
 			</td>
 			<td>
 				<h1>$574,994.00</h1>
