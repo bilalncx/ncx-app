@@ -1,5 +1,58 @@
 const data = [
   {
+    id: 508,
+    title: 'Rupee ends little changed on likely dollar buying by RBI',
+    category: 'Forex',
+    subCategory: ['Rupee', 'dollar', 'RBI'],
+    description: <div className="blog-desc">
+      <p>MUMBAI (Reuters) - The Indian rupee held in a tight range on Monday with intermittent dollar buying intervention by the Reserve Bank of India (RBI) limiting any upside in the domestic currency against a broadly weaker greenback.</p>
+    </div>,
+    authorName: 'Sethuraman N R',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023 - 2:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-504.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>MUMBAI (Reuters) - The Indian rupee held in a tight range on Monday with intermittent dollar buying intervention by the Reserve Bank of India (RBI) limiting any upside in the domestic currency against a broadly weaker greenback.</p>
+    	<p>The rupee closed at 81.7950 per U.S. dollar compared with 81.80 in the previous session.</p>	
+    	<p>"The RBI is still there in the market... otherwise there is no bidder (for dollars) in the market," a trader with a state-run bank said, adding that exporters were also hedging their dollar receivables at these levels.</p>	
+    	<p>The central bank has been absorbing a large part of the dollar inflows seen in the market over the past week, traders and analysts said.</p>
+      <p>"The RBI continued buying... thus protecting the dollar and exporters from a fall in value," said Anil Kumar Bhansali</p>
+      <p>head of treasury at Finrex Treasury Advisors LLP.</p>
+      <p>The RBI's forex reserves surged to a 10-month high of $588.8 billion in the week ending April 28, latest data showed. Though the data also accounts for valuation changes, analysts said a large part of it could also be due to dollar buying intervention.</p>
+      <p>Foreign institutional investors bought shares worth 116.31 bln rupees ($1.42 bln) in April on a net basis; $1.7 bln over the last six sessions alone.</p>
+      <p>The dollar began the week under pressure on Monday, with traders betting it might have peaked along with U.S. interest rates while keeping a wary eye on looming inflation and loans data. [USD/]</p>
+      <p>The focus now shifts to U.S. inflation data due Wednesday, with economists expecting a 0.4% month-on-month increase in the core inflation rate.</p>
+      <p>The data will draw scrutiny in the wake of increasing confidence that the Federal Reserve will opt to pause its rate.</p>
+      <p>Traders will also watch out for India's inflation data, due later in the week, which will provide cues on the RBI's next rate hike moves.</p>
+      <p>(Reporting by Nallur Sethuraman in Mumbai; Editing by Janane Venkatraman)</p>
+    </div>
+  },
+  {
+    id: 507,
+    title: 'USD/JPY Weekly Forecast – US Dollar Continues to See Volatility Against Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has gone back and forth during trading this week, as we continue to see a lot of noisy behavior in general. We are in a larger ascending triangle that should be paid close attention to, but I think it does make a certain amount of sense that one would have to assume there are buyers underneath willing to get involved.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 5, 2023 - 7:15 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-503.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The US dollar has gone back and forth during trading this week, as we continue to see a lot of noisy behavior in general. We are in a larger ascending triangle that should be paid close attention to, but I think it does make a certain amount of sense that one would have to assume there are buyers underneath willing to get involved. Having said that, we have seen a lot of erratic movement in the market as the jobs number on Friday came out much stronger than anticipated.</p>
+    	<p>With that being said, there are a lot of questions as to what the Federal Reserve will have to do, and there has been a lot of panic behavior on multiple fronts. Nonetheless, we are still very much in this triangle, and I think the compression is still a very real thing. Because of this, it’s more likely than not going to be a scenario where the market will have to figure out what it’s going to do longer-term, and that might mean more volatility. The 50-Week EMA sits at roughly ¥132.50, an area that has been important multiple times on daily charts. On the upside, we have the ¥138 level offering a significant amount of resistance, so it will be interesting to see if we can get above there.</p>	
+    	<p>Ultimately, this is all going to come down to the bond market, which of course is currently acting more like the equity market as far as volatility is concerned. It is because of this that you will need to be very cautious, recognizing that the currency markets are very dangerous place to be at the moment.</p>
+    </div>
+  },
+  {
     id: 506,
     title: 'GBP/JPY Weekly Forecast – The British Pound Pulls Back From Crucial Highs',
     category: 'Forex',

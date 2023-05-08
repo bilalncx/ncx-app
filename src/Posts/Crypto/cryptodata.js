@@ -1,5 +1,144 @@
 const data = [
   {
+    id: 516,
+    title: 'Polygon [MATIC] approaches range lows – what traders can expect next',
+    category: 'Crypto',
+    subCategory: ['Polygon', 'MATIC', 'Traders'],
+    description: <div className="blog-desc">
+      <p>MATIC’s bullish order block at key support level continues to slow down bearish momentum.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-500.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article</h3>
+    	<p>MATIC’s bullish order block at key support level continues to slow down bearish momentum.</p>
+      <ul>
+        <li>MATIC’s market structure on the daily timeframe remained bearish.</li>
+        <li>Indecision between buyers and sellers kept prices stuck in a range. </li>
+      </ul>
+    	<p>Polygon [MATIC] began the year as one of the best-performing cryptocurrencies. It posted a 108.9% gain between 1 January and 18 February. However, a huge correction flipped its market structure from bullish to bearish.</p>	
+    	<p>Prices traded sideways between mid-March to mid-April before BTC’s correction sent MATIC on another downward spiral.</p>	
+    	<p><strong>MATIC stuck in a tight spot</strong></p>
+      <p>The indecision between buyers and sellers has confined MATIC to a tight range for the past three weeks. It has traded between the $0.950 support level and $1.028 resistance level on the four-hour timeframe.</p>
+      <p>The bullish order block’s confluence with the $0.950 support level just below it has served as a rallying point for bulls. Price has bounced off the support level four times in quick succession to stem the selling pressure.</p>
+      <p>However, the RSI and CMF both pointed to weakening buying pressure at that level. The RSI has stayed under neutral 50 over a two-day period while the CMF was at -0.15 as of press time.</p>
+      <p>A four-hour candle close below the $0.950 support level could lead to a bearish breakout for MATIC with $0.835 as the target for bears.</p>
+      <p><strong>Could a bullish reversal be on the horizon?</strong></p>
+      <p>A look at key on-chain metrics suggested MATIC buyers might not be giving up yet. Data from Santiment showed a decline in active addresses and an increase in the total number of holders. This showed that an accumulation could be ongoing for Polygon’s native currency.</p>
+      <p>Funding rates have been consistently positive over the past 14 days, which showed that demand existed for MATIC, even at press time. The spot CVD also experienced an uptick.</p>
+      <p>A bullish reversal will be hugely dependent on the confluence of the bullish order block and support level at $0.950 holding out once again.</p>
+    </div>
+  },
+  {
+    id: 515,
+    title: 'Crypto market in flux: ETH, PEPE contribute to $50 million liquidation; short positions suffer',
+    category: 'Crypto',
+    subCategory: ['ETH', 'PEPE', 'Market'],
+    description: <div className="blog-desc">
+      <p>The crypto market was awash with fear and uncertainty as liquidations reached over $50 million, leaving investors reeling and short positions crushed under losses.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-499.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article</h3>
+	    <p>The crypto market was awash with fear and uncertainty as liquidations reached over $50 million, leaving investors reeling and short positions crushed under losses.</p>
+    	<ul>
+        <li>The crypto market witnesses a $50 million liquidation event, with Ethereum and memecoins at the forefront.</li>
+        <li>Short positions take a hit as investors face substantial liquidations.</li>
+      </ul>
+      <p>7 May witnessed a dramatic event in the crypto market as over $50 million worth of investments got liquidated. Ethereum [ETH] took the lead in this wave of liquidation. However, hot on its heels was a memecoin that had been capturing the attention of enthusiasts worldwide.</p>	
+    	<p><strong>Crypto market witness over $50 million in liquidations</strong></p>	
+    	<p>According to the latest data from Coinglass, the crypto market experienced an extraordinary 24-hour liquidation surpassing the $50 million mark. At the time of writing, the liquidation amount stood at approximately $52 million, having previously surged past $100 million. Ethereum took the lead in liquidation volume, with over $2 million currently liquidated.</p>
+      <p>Adding to the liquidation statistics was memecoin Pepe [PEPE], which ranked second, with a staggering liquidation of over 640 billion PEPE. The tokens were equivalent to a value exceeding $1 million. Other affected cryptocurrencies included king coin Bitcoin [BTC], with over 1 million coins.</p>
+      <p><strong>Short positions see more liquidations</strong></p>
+      <p>Coinglass’ data further revealed that the liquidations primarily targeted short positions in the market. The data indicated that a substantial portion of investors holding short positions faced liquidation. Also, over 70% of liquidations were witnessed across various major exchanges.</p>
+      <p>In certain instances, the liquidation rate reached a staggering 100%, leaving no room for short investors to escape unscathed.</p>
+      <p>At the time of writing, a detailed breakdown of Bitcoin’s liquidation data demonstrated that shorts accounted for over $16 million. Whereas, long positions experienced liquidations totaling over $12 million.</p>
+      <p>Considering Bitcoin’s significant share of the total cryptocurrency market capitalization, these liquidations bear significant implications for affected investors.</p>
+      <p><strong>Crypto market maintains $1 trillion mark</strong></p>
+      <p>According to an evaluation of the crypto market’s capitalization on CoinMarketCap, it remained at an impressive value exceeding $1 trillion. Also, Bitcoin maintained its dominance at nearly 50%.</p>
+      <p>At the time of writing, the 24-hour trading volume had surpassed $42 billion. Although a widespread chain reaction of liquidations had not unfolded at that point, the prevailing market conditions warranted a cautious approach from investors.</p>
+      <p>Furthermore, the rise in exchange withdrawals and notable instances of high-value cash-outs underscored the need for market participants to remain vigilant and adequately prepared for unforeseen fluctuations in market sentiment.</p>
+    </div>
+  },
+  {
+    id: 514,
+    title: 'Tron [TRX] retracement on the way? Memecoin mania lends support to price rally',
+    category: 'Crypto',
+    subCategory: ['Tron', 'TRX', 'Memecoin'],
+    description: <div className="blog-desc">
+      <p>Tron’s development activity metric recently showed signs that activity is regaining after the previous downside seen since the last week of April. A stronger recovery backed by memecoin-related hype might be enough to also inject some investor excitement into TRX.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-498.jpg',
+    content: <div className="blog-content">
+    	<h3>In thsi article</h3>
+    	<p>Tron’s development activity metric recently showed signs that activity is regaining after the previous downside seen since the last week of April. A stronger recovery backed by memecoin-related hype might be enough to also inject some investor excitement into TRX.</p> 
+    	<ul>
+        <li>Tron founder outlines a plan to take advantage of prevailing memecoin excitement.</li>
+        <li>TRX on a retracement path after a bullish performance in the first week of May.</li>
+      </ul>
+      <p>The Tron [TRX] network is looking to capitalize on the recent memecoin hype. There was a lot of excitement in the memecoin segment as the rest of the market continued to slow down.</p>	
+    	<p>Tron’s founder, Justin Sun, recently made an announcement revealing his company’s strategy to secure a bigger piece of the memecoin pie. The statement revealed that the network aims to incentivize the creation of more memecoins by offering funding to developers.</p>	
+    	<p>Tron will also collaborate with major exchanges, including Poloniex and Huobi. Tron’s goal is to facilitate easy and early access to memecoins. Timely development addresses one of the most common recent problems, which is the availability of multiple scam memecoins alongside legitimate ones. Tron will be addressing such challenges with this memecoin program.</p>
+      <p><strong>Can TRX benefit from budding memecoin optimism?</strong></p>
+      <p>TRX is among the few cryptocurrencies that pulled off a significant upside since the start of May. However, it experienced some sell pressure over the weekend after briefly crossing into overbought territory.</p>
+      <p>TRX exchanged hands at $0.069 after a bit of a weekend slide, although it had fallen by less than 3%. A sizable market reaction may curtain the potential downside and perhaps allow the bulls to regain control. But some of Tron’s metrics point to a different potential outcome.</p>
+      <p>A look at TRX’s market cap confirmed recent significant outflows. Meanwhile, on-chain volume continued to drop, as has been the case since the start of May.</p>
+      <p>The lack of a volume spike in the last few hours confirms the market’s response or lack there of, to Tron’s memecoin pursuits. In addition, investor sentiment remains low according to the weighted sentiment.</p>
+      <p>Despite the above findings, there is one noteworthy upside. Tron’s development activity metric showed signs that activity was rebounding after the previous downside seen since the last week of April. A stronger recovery backed by memecoin-related hype might be enough to also inject some investor excitement into TRX.</p>
+      <p>The memecoin hype may only come into play if Tron’s plan attracts more participation from developers. As such, the subsequent impact might only be evident in the mid to long term.</p>
+    </div>
+  },
+  {
+    id: 513,
+    title: 'Bitcoin Ordinals: Miner fees breaks new record, assessing the effects on BTC',
+    category: 'Crypto',
+    subCategory: ['BTC', 'Fees', 'bitcoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin Ordinals reaches unprecedented heights, breaking fee records and surging in popularity, while BTC price cautiously recovers with modest gains, charting its course.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-497.jpg',
+    content: <div className="blog-content">
+    	<h3>in this article</h3>
+    	<p>Bitcoin Ordinals reaches unprecedented heights, breaking fee records and surging in popularity, while BTC price cautiously recovers with modest gains, charting its course.</p>
+    	<ul>
+        <li>Bitcoin Ordinals breaks records with daily fees paid to miners reaching over $1.4 million.</li>
+        <li>BTC price shows a different trajectory with modest gains of less than 1%.</li>
+      </ul>
+      <p>The Bitcoin [BTC] phenomenon continued to surge at press time, breaking new ground with each passing moment. A similar surge in popularity has propelled Bitcoin Ordinals to unprecedented heights.</p>	
+    	<p>Ordinals’ latest data showcased a remarkable milestone for Bitcoin’s Non-Fungible Tokens [NFTs]. Riding this exhilarating wave, miners are reaping the rewards of their labor on the network, embracing the winds of change with open arms.</p>	
+    	<p><strong>Bitcoin Ordinals breaks records</strong></p>
+      <p>Leonidas’ post on 6 May delivered astonishing news regarding the soaring heights reached by Ordinals. The daily fees paid to miners broke all previous records, surpassing even the grand sum of $1.4 million.</p>
+      <p>Per Dune Analytics, this remarkable achievement effortlessly outshined the last all-time high of over $800,000. The surge in value was not limited to fees alone, as the volume of Ordinals‘ trade surged to an unprecedented pinnacle, surpassing an astounding $9.2 million.</p>
+      <p>The number of daily active users also experienced a surge, surpassing the remarkable milestone of 6,000. This exponential fee growth had a ripple effect on Bitcoin’s overall fee accumulation. Crypto fees revealed a staggering daily fee of over $5 million, indicating a promising upward trend in the daily fee chart. This surge in fees hinted at the potential for further growth.</p>
+      <p><strong>Bitcoin miners feast as fees spike</strong></p>
+      <p>The impact of Ordinals and BRC-20 transactions has left a significant imprint on miners’ fees, sparking a remarkable surge recently. As of this writing, the miner fees have skyrocketed by a staggering 11%, catapulting them to a level reminiscent of over two years ago.</p>
+      <p>Before this impressive surge, the fees had experienced a decline around June 2021, reaching a peak of approximately 3%.</p>
+      <p>The surge in Ordinals transactions, coupled with the heightened demand for mining blocks, naturally increased miners’ activities and subsequent fees. However, the sustainability of this remarkable spike remains uncertain, leaving room for speculation and anticipation.</p>
+      <p><strong>BTC price sees a different trajectory</strong></p>
+      <p>While the Ordinals brought excitement to miners, the price of BTC has yet to mirror this enthusiasm. At the time of writing, Bitcoin was recovering from a recent decline in value experienced during the previous trading period. It was traded at approximately 28,900, showcasing a modest gain of less than 1%.</p>
+      <p>Despite the optimism surrounding Ordinals and its impact on miners, the price of Bitcoin appeared to be navigating a different trajectory, displaying a more cautious and subdued movement.</p>
+    </div>
+  },
+  {
     id: 511,
     title: 'Bitcoin could rally 40% by the end of the year, according to a top blockchain founder',
     category: 'Crypto',
@@ -3677,7 +3816,7 @@ const data = [
         category: 'Crypto',
         subCategory: ['Circle', 'USDC', 'Sillicon valley Bank'],
         description: <div className="blog-desc">
-          <p></p>
+          <p>Predictions that things will get worse before they get better are commonplace among the punditocracy in their comments on virtually any subject one cares to name. But they’ve arguably become even more common in crypto than in other fields following the industry’s travails during the past year. So far, so unsurprising.</p>
         </div>,
         authorName: 'Forkast.News',
         authorurl: '',
