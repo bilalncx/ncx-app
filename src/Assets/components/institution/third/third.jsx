@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './third.css'
 import '../../homepage/accordian/accordian.css';
-import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
+// import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import NCXLogo from '../../../images/about_logo.svg';
 import { useTranslation } from "react-i18next";
@@ -21,7 +21,7 @@ function Accordian() {
     return(
         <div id="trading_solutions">
             <div className="backgrdound-video">
-                <video
+                {/* <video
                     autoPlay={true}
                     muted={true}
                     loop={true}
@@ -30,7 +30,7 @@ function Accordian() {
                     poster="https://ncx.cx/images/ncx_line_poster.png"
                     >
                     <source src={BackVideo} type="video/mp4" />
-                </video>
+                </video> */}
             </div>
             <div className="container">
                 <div className="trading-sol-row">

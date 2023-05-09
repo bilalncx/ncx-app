@@ -4,7 +4,7 @@ import NCXLogo from '../../../images/ncx-black-logo.svg';
 import DownloadGoogle from '../../../images/googleplay.png';
 import Barcode from '../../../images/barcode.png';
 import Applestore from '../../../images/appstore.png';
-import NCXExchange from '../../../images/ncx-exchange.png';
+// import NCXExchange from '../../../images/ncx-exchange.png';
 import './download.css';
 // import DownloadBackgroundVideo from '../../../images/ncx-mountain.mp4';
 
@@ -47,7 +47,7 @@ function Home9thDownloadSection(){
                             </div>
                         </div>
                         <div className="bsss">
-                                <img src={NCXExchange} alt="NCX Exchange" />
+                                {/* <img src={NCXExchange} alt="NCX Exchange" /> */}
                         </div>
                     </div>
                 </div>

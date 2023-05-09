@@ -1,7 +1,7 @@
 import { React, useState } from "react";
 import './seven.css';
 import '../../homepage/accordian/accordian.css';
-import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
+// import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import NCXLogo from '../../../images/about_logo.svg';
 import '../../homepage/NCXOTC/otc.css';
@@ -27,7 +27,7 @@ function NCXAssetManagement()
     return(
         <div id="trading_solutions" className="assets_management">
             <div className="backgrdound-video">
-                <video
+                {/* <video
                     autoPlay={true}
                     muted={true}
                     loop={true}
@@ -36,7 +36,7 @@ function NCXAssetManagement()
                     poster="https://ncx.cx/images/ncx_line_poster.png"
                     >
                     <source src={BackVideo} type="video/mp4" />
-                </video>
+                </video> */}
             </div>
             <div className="container">
                 <div className="trading-sol-row">
