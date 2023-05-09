@@ -24,7 +24,7 @@ function FirstSect()
                     loop={true}
                     playsInline={true}
                     preload="auto"
-                    poster="../../../images/Token_bg.jpg"
+                    poster="../../../images/Token_bg.jpeg"
                     >
                     <source src="https://ncx.cx/images/ncx-token-video-2.mp4" type="video/mp4" />
                 </video>

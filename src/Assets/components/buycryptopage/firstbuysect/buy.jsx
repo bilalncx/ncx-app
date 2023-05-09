@@ -45,8 +45,8 @@ function BuyCrypto(){
                 </div>
                 <div className="container">
                     <div className="insse">
-                        <h1>Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay or Wire Transfer</h1>
-                        <Button href="#buy_crypto">Buy Crypto</Button>
+                        <h1>{t("by_crypto_text")}</h1>
+                        <Button href="#buy_crypto">{t("buy_crypto")}</Button>
                     </div>
                 </div>
             </div>
@@ -84,8 +84,8 @@ function BuyCrypto(){
                 <div className="buycrypt-row">
                     <div className="col coinsect">
                         <div className="inner__cc">
-                            <h1>Buy & Sell Crypto Instantly</h1>
-                            <p>Buy & Sell Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer. Simply enter the currency & amount and chose among the available payment methods, the best available rate is displayed by default, you can easily switch between providers and payment methods and chose the one right for you.</p>
+                            <h1>{t("buy_sell_crypto_instantly")}</h1>
+                            <p>{t("buy_sell_crypto_instantly_text")}</p>
                         </div>
                     </div>
                     <div className="col buysell-sect">

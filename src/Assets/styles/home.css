@@ -416,6 +416,9 @@ details[open] .contt {
 .bg-dark .trading__platform .trg__ff__fe p{
     min-height: 38px !important;
 }
+.bg-dark .trading__platform .trg__ff__fe p span{
+    display: block;
+}
 
 /* NCX HOMEPAGE NCXCARD NEW SECTION */
 /* ******************************************************** */

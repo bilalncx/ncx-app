@@ -111,7 +111,7 @@ function NCXAPPSection()
                     preload="auto"
                     // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                     >
-                    <source src={BuyCryptoVideombl} type="video/mp4" />
+                    <source src={BuyCryptoVideo} type="video/mp4" />
                 </video>
             </div>
         </div>

@@ -135,7 +135,7 @@
     margin-top: 40px;
 }
 a.card_apply {
-    font-size: 14px;
+    font-size: 13px;
     font-family: 'urbanist-regular';
     background: linear-gradient(180deg, #9452EC 0%, #6552C7 100%);
     border-radius: 40px;
@@ -154,7 +154,7 @@ a.card_learn:hover, a.card_learn:focus, a.card_learn:focus-visible{
     text-decoration: none;
 }
 a.card_learn {
-    font-size: 14px;
+    font-size: 13px;
     font-family: 'urbanist-regular';
     background: #F0F0F1;
     border-radius: 40px;
