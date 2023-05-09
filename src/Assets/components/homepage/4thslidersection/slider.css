@@ -31,7 +31,7 @@ img.perspon-img {
 .tet-img{
     width: 70% !important;
     background-color: #2460FF;
-    background: url(../../../images/ncx-mobile-sldierbg.png);
+    /* background: url(../../../images/ncx-mobile-sldierbg.png); */
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
