@@ -1,5 +1,114 @@
 const data = [
   {
+    id: 520,
+    title: 'Bitcoin, Ether edge up; Litecoin leads winners, Matic the losers; U.S. equity futures flat',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Litecoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin edged higher on Wednesday morning in Asia to hold above the US$27,500 mark as the hype for Bitcoin-based memecoins that had clogged the network seemed to cool off.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 10, 2023 - 6:24 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-507.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin edged higher on Wednesday morning in Asia to hold above the US$27,500 mark as the hype for Bitcoin-based memecoins that had clogged the network seemed to cool off. Ether also gained, while other top 10 non-stablecoin cryptocurrencies traded mixed. Litecoin led the winners as high transaction fees on Bitcoin drove users to alternatives, with the Litecoin network logging a record-high in daily transactions. Polygon’s Matic led the losers. U.S. equity futures traded flat on concern about U.S. debt ceiling negotiations and ahead of inflation numbers on Wednesday.</p>
+    	<p><strong>Bitcoin, Ether stabilize after dip</strong></p>	
+    	<p>Bitcoin edged up 0.60% to US$27,754 in the 24 hours to 09:00 a.m. in Hong Kong, according to CoinMarketCap data, but was still holding a weekly loss of 2.64%.</p>	
+    	<p>“Bitcoin prices have been impacted by significant congestion and skyrocketing transaction fees,” Denys Peleshok, head of Asia at London-based financial institute CPT Markets, said in an email. “Such network issues and infrastructure disruptions could limit institutional investors’ confidence in the asset.”</p>
+      <p>The congestion on the Bitcoin network is attributed to the hype around BRC-20, a token standard introduced on March 9 that enables the minting of fungible tokens on the Bitcoin blockchain. The total market cap of BRC-20 tokens has dropped from around US$961 million on Monday to US$688 million at 9:00 a.m. on Wednesday in Hong Kong, according to blockchain data tracker BRC-20.io.</p>
+      <p>Ether gained 0.49% to US$1,852. It’s down 0.44% for the week.</p>
+      <p>Other top 10 non-stablecoin cryptocurrencies traded mixed, with Polygon’s Matic leading the losers, falling 2.40% to US$0.8782 and posting a weekly loss of 9.47%.</p>
+      <p>Litecoin led the winners, gaining 3.45% to US$80.33. However, it’s down 8.56% for the week. The Litecoin blockchain has logged record-high daily transactions this week as high transaction fees on the Bitcoin network drove users to other platforms. Transactions on the Litecoin blockchain totaled over 525,000 on Monday, more than five times higher than the start of the month, according to blockchain data platform BitInfoCharts.</p>
+      <p>The total crypto market capitalization edged up 0.46% in the past 24 hours to US$1.14 trillion. The total trading volume dropped 29.34% to US$32.02 billion.</p>
+      <h3>NFTs fall</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dipped 0.91% to 3,462.33 in the 24 hours to 09:00 a.m. in Hong Kong, losing 6.64% for the week.</p>
+      <p>Azuki, an Ethereum-based NFT collection, saw the largest sales across the market in the past 24 hours, surging 388.12% to US$2.47 million to surpass US$1.51 million for DMarket and US$880,000 for Bored Ape Yacht Club, according to data by CryptoSlam.</p>
+      <p>Binance, the world’s biggest crypto exchange, said Tuesday its NFT marketplace would soon add support for Bitcoin Ordinals inscriptions – the Bitcoin blockchain’s iteration of NFTs. The platform currently supports NFTs on BNB Chain, Ethereum and Polygon.</p>
+      <p>Equities futures flat</p>
+      <p>U.S. stock futures were flat to slightly higher as of 9:00 a.m. in Hong Kong. The Dow Jones Industrial Average futures edged up 0.06%. The S&P 500 futures gained 0.10%. And the Nasdaq Composite futures added 0.08%.</p>
+      <p>The three U.S. indexes closed lower on Tuesday amid concerns about the U.S. government’s potential default in June. U.S. President Joe Biden met with congressional Republicans on Tuesday to discuss raising the government’s debt ceiling, but made little progress, according to Bloomberg on Wednesday. Another meeting is set for Friday.</p>
+      <p>The U.S. April consumer price index report on Wednesday will give a peek into the pace of inflation and provide insights into the Federal Reserve’s next move on interest rates after a year-long round of hikes. Economists predict the inflation rate rose 5% in April on year, or the same pace as March and still far from the Fed’s goal of 2%, according to a Wednesday Bloomberg report.</p>
+      <p>New York Federal Reserve President John Williams said on Tuesday it was still premature to say whether the Fed had done with its rate hikes, adding there is “a need to keep a restrictive stance of policy in place for quite some time to make sure” the inflation rate falls to 2%, according to Reuters on Wednesday.</p>
+      <p>The Fed is set to meet on June 14 to decide on interest rates, which are now between 5 and 5.25%, the highest since 2006. The CME FedWatch Tool predicts a 78.8% chance the Fed will keep rates unchanged in June, while it gives a 21.2% chance for another 25 basis-point rate hike, up from 14.3% on Tuesday.</p>
+    </div>
+  },
+  {
+    id: 519,
+    title: 'Ether Staking Deposits Top Withdrawals for First Time Since Shapella Upgrade',
+    category: 'Crypto',
+    subCategory: ['Ether', 'shapella', 'withdrawals'],
+    description: <div className="blog-desc">
+      <p>Ether (ETH) holders are rushing to stake their tokens with network validators, pushing deposit activity to the highest level since the Shapella upgrade earlier this year.</p>
+    </div>,
+    authorName: 'Shaurya Malwa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 9, 2023 - 2:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-509.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ether (ETH) holders are rushing to stake their tokens with network validators, pushing deposit activity to the highest level since the Shapella upgrade earlier this year.</p>
+	    <p>More than 200,000 ether have been deposited to the network since the start of the week, data from the on-chain analytics tool Nansen show, marking the first time deposits have outpaced withdrawals since Shapella went live last month. The additions bring the number of ether locked for staking purposes to over 19 million tokens – about 15% of the total circulating supply.</p>	
+	    <p>The influx comes as traders flock to meme coins such as pepecoin (PEPE), which has strained the Ethereum network and sent transaction fees to a 12-month high.</p>	
+	    <p>Over 6 million staked ethers are held on Lido Finance, a protocol that issues depositors with alternative tokens representing the amount they've locked up. Those alternatives can then be used as liquidity in the broader decentralized finance (DeFi) ecosystem.</p>
+      <p>Shappella – a portmanteau of Shanghai and Capella, two major Ethereum network upgrades that occurred simultaneously on April 12 – gave investors the ability to withdraw their staked ether at will for the first time.</p>
+      <p>In a proof-of-stake blockchain such as Ethereum, users stake, or lock, cryptocurrency – ether in this case – to help secure and confirm new data blocks. These stakers receive network rewards in the form of tokens, creating a form of passive investing strategy.</p>
+      <p>Platforms such as Lido pay out 6.6% in annualized yield rewards to stakers. More complex strategies involving staked ether and other tokens can yield up to 21%, data from Defillama shows.</p>
+    </div>
+  },
+  {
+    id: 518,
+    title: 'Binance’s NFT Marketplace Adds Support for Bitcoin NFTs',
+    category: 'Crypto',
+    subCategory: ['Binance', 'NFT', 'Marketplace'],
+    description: <div className="blog-desc">
+      <p>Leading cryptocurrency exchange Binance’s non-fungible token (NFT) marketplace said Tuesday it’s planning to add support for Ordinals, or Bitcoin NFTs later in May, though an exact date was not announced.</p>
+    </div>,
+    authorName: 'Cam Thompson',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 9, 2023 - 1:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-510.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Leading cryptocurrency exchange Binance’s non-fungible token (NFT) marketplace said Tuesday it’s planning to add support for Ordinals, or Bitcoin NFTs later in May, though an exact date was not announced.</p>
+    	<p>Binance NFT, which already supports NFTs on Ethereum, Polygon and its native BNB Chain, plans to expand its offerings by allowing traders to purchase Ordinals on the Bitcoin network. Collectors can soon buy and sell inscriptions, or NFTs created on the Bitcoin network, expanding the reach of the nascent Ordinals ecosystem.</p>	
+    	<p>Additionally, in order to help onboard users to Bitcoin NFTs, Binance will allow traders to purchase Bitcoin-based NFTs with their Binance accounts, simplifying the process for users. Instead of having to set up a taproot-compatible Bitcoin wallet to purchase Ordinals, as collectors wanting to mint NFT giant Yuga Labs’ TwelveFold Ordinals needed to do, Binance aims to make the process simple and secure for new buyers to enter the growing market.</p>	
+    	<p>Binance Head of Product Mayur Kamat said in a press release that he sees Bitcoin as “the broadest choice” for NFT collectors as well as a growing market for the exchange to tap into.</p>
+      <p>“Bitcoin is the OG of crypto,” said Kamat. “We believe things are just getting started here and can’t wait to see what the future holds in this space.”</p>
+      <p>However, Binance’s relationship with Bitcoin hasn’t all been positive in recent days. On Sunday, the exchange paused Bitcoin withdrawals twice, citing network congestion as the catalyst.</p>
+      <p>As Ordinals reached 3 million inscriptions last week, the demand for marketplaces to embrace Bitcoin NFTs is only intensifying. In March, NFT marketplace Magic Eden added support for Ordinals, integrating Bitcoin wallets Hiro and Xverse to do so. In April, the marketplace rolled out a creator launchpad to help artists mint their inscriptions before listing on the secondary marketplace.</p>
+    </div>
+  },
+  {
+    id: 517,
+    title: 'Binance Resumes Bitcoin Withdrawals, Looks at Lightning Network Integration',
+    category: 'Crypto',
+    subCategory: ['Binance', 'Bitcoin', 'withdrawals'],
+    description: <div className="blog-desc">
+      <p>Binance, one of the largest cryptocurrency exchanges in the world, temporarily halted Bitcoin withdrawals twice in 24 hours over the weekend.</p>
+    </div>,
+    authorName: 'Kyle Torpey',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 9, 2023 - 6:29 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-508.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Binance, one of the largest cryptocurrency exchanges in the world, temporarily halted Bitcoin withdrawals twice in 24 hours over the weekend. The exchange cited "network congestion" as the reason for the suspension, which lasted for about an hour on Sunday. The move came after Binance faced a similar issue on Saturday, when it paused Bitcoin withdrawals for about 20 minutes due to a "minor technical issue". The exchange assured its users that their funds were safe and that it was working to resolve the problem as soon as possible.</p>
+    	<p>Bitcoin withdrawals are a crucial function for cryptocurrency exchanges, as they allow users to move their coins from the platform to their own wallets or other services. Any disruption or delay in this process can cause frustration and suspicion among customers, especially in a volatile market.</p>	
+    	<p>Binance said they have increased the fees on withdrawals and are working to integrate the Lightning Network, a layer-two payments protocol for Bitcoin.</p>	
+    </div>
+  },
+  {
     id: 516,
     title: 'Polygon [MATIC] approaches range lows – what traders can expect next',
     category: 'Crypto',
