@@ -24,7 +24,7 @@ function FirstSect()
                     loop={true}
                     playsInline={true}
                     preload="auto"
-                    poster="../../../images/Token_bg.jpeg"
+                    poster="https://ncx.cx/images/Token_bg.jpeg"
                     >
                     <source src="https://ncx.cx/images/ncx-token-video-2.mp4" type="video/mp4" />
                 </video>
@@ -68,7 +68,7 @@ function FirstSect()
                         </div>
                         <div className="social-col">
                             <a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>
-                            <a href="#"><Telegram /></a>
+                            <a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><Telegram /></a>
                             <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
                         </div>
                     </div>

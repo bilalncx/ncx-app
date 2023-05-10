@@ -4,3 +4,17 @@
 .taskrewardpage-sect .taskbtn a:hover{
     color: #000000;
 }
+.taskrewardpage-sect .tasktext.signup h1{
+    margin-bottom: 0px !important;
+}
+.taskrewardpage-sect .tasktext h1{
+    margin-bottom: 0px !important;
+}
+.taskrewardpage-sect .tasktext {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.taskrewardpage-sect .tasktext.signup {
+    min-height: 200px;
+}

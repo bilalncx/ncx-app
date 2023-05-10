@@ -21,7 +21,7 @@ function Home6thVideoSection(){
                             <div className="taskdiv11">
                                 <div className="text212">
                                     <h4>{t("sign_up_verify")}</h4>
-                                    <p>{t("for_new_users_only")}</p>
+                                    <p>New User must complete at least one Purchase Transaction on NCXT Presale in Order to Receive 4,000 NCXT Bonus</p>
                                 </div>
                                 <div className="buttoninfo">
                                     <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" alt="NCX Task Start">{t("sign_up")}</Button>

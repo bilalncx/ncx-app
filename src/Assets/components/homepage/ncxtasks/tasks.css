@@ -76,7 +76,7 @@ p.task {
     display: flex;
     justify-content: space-between;
     align-items: end;
-    margin-top: 24px;
+    margin-top: 10px;
 }
 .tasktext h3 {
     font-size: 15px;
@@ -89,6 +89,7 @@ p.task {
     font-size: 12px;
     font-family: 'urbanist-regular';
     color: #565672;
+    line-height: 14px;
 }
 .tasktext-div {
     display: flex;
@@ -105,7 +106,7 @@ p.task {
     flex: inherit;
 }
 .tasktext.signup h1 {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .ncxtasksection button.btn-primary{
@@ -150,6 +151,17 @@ svg.turn {
 .tasksrow.mobile{
     display: none;
 }
+.tasktext.popop h1 {
+    margin-bottom: 72px;
+}
+@media screen and (min-width: 801px) and (max-width: 1100px){
+    .tasktext.signup h1 {
+        margin-bottom: 20px;
+    }
+    .tasktext.popop h1 {
+        margin-bottom: 58px !important;
+    }
+}
 
 @media screen and (max-width: 800px){
     .ncxtasksection{
@@ -159,7 +171,7 @@ svg.turn {
         font-size: 26px;
         line-height: 32px;
         text-align: left;
-        margin-bottom: 30px;
+        margin-bottom: 0px;
     }
     .tasksrow{
         display: block;
@@ -172,8 +184,12 @@ svg.turn {
     }
     .tasktext{
         width: 100%;
-        height: 170px;
+        min-height: 170px;
+        height: 100%;
         padding: 15px 10px 15px 15px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
     }
     .taskbtn{
         margin-top: 10px;
@@ -198,19 +214,19 @@ svg.turn {
     .tasktext.signup h1{
         font-size: 28px;
         line-height: 32px;
-        margin-bottom: 50px;
+        margin-bottom: 0px;
     }
     .tasktext.signup h1 span{
         font-size: 12px;
         font-family: 'urbanist-medium';
     }
+    .tasktext.signup.mobilpopop {
+        min-height: 200px;
+    }
     .taskbtn a{
         width: fit-content;
         height: 30px;
         font-size: 12px;
-    }
-    .tasktext.signup h1{
-        margin-bottom: 34px !important;
     }
     .tasktext-div .col:first-child{
         width: 90% !important;
