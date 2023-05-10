@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                                <a href="/post-crypto/514" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-498.jpg" alt="art_pic"/></div>
-                                    <p className="dat">May 8, 2023</p>
-                                    <h1>Tron [TRX] retracement on the way? Memecoin mania lends support to price rally</h1>
-                                    <p>Tron’s development activity metric recently showed signs that activity is regaining after the previous downside seen since the last week of April. </p>
+                                <a href="/post-crypto/520" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-507.jpg" alt="art_pic"/></div>
+                                    <p className="dat">May 10, 2023 - 6:24 AM</p>
+                                    <h1>Bitcoin, Ether edge up; Litecoin leads winners, Matic the losers; U.S. equity futures flat</h1>
+                                    <p>Bitcoin edged higher on Wednesday morning in Asia to hold above the US$27,500 mark as the hype for Bitcoin-based memecoins that had clogged the network seemed to cool off.</p>
                                 </a>
-                                <a href="/post-crypto/516" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-500.jpg" alt="art_pic"/></div>
-                                    <p className="dat">May 8, 2023</p>
-                                    <h1>Polygon [MATIC] approaches range lows – what traders can expect next</h1>
-                                    <p>MATIC’s bullish order block at key support level continues to slow down bearish momentum.</p>
+                                <a href="/post-crypto/519" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-509.jpg" alt="art_pic"/></div>
+                                    <p className="dat">May 9, 2023 - 2:21 PM</p>
+                                    <h1>Ether Staking Deposits Top Withdrawals for First Time Since Shapella Upgrade</h1>
+                                    <p>Ether (ETH) holders are rushing to stake their tokens with network validators, pushing deposit activity to the highest level since the Shapella upgrade earlier this year.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row">
-                            <a href="/post-crypto/515" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-499.jpg" alt="art_pic"/></div>
-                                    <p className="dat">May 8, 2023 </p>
-                                    <h1>Crypto market in flux: ETH, PEPE contribute to $50 million liquidation; short positions suffer</h1>
-                                    <p>The crypto market was awash with fear and uncertainty as liquidations reached over $50 million, leaving investors reeling and short positions crushed under losses.</p>
+                            <a href="/post-crypto/518" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-510.jpg" alt="art_pic"/></div>
+                                    <p className="dat">May 9, 2023 - 1:00 PM</p>
+                                    <h1>Binance’s NFT Marketplace Adds Support for Bitcoin NFTs</h1>
+                                    <p>Leading cryptocurrency exchange Binance’s non-fungible token (NFT) marketplace said Tuesday it’s planning to add support for Ordinals, or Bitcoin NFTs later in May, though an exact date was not announced.</p>
                                 </a>
-                            <a href="/post-crypto/513" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-497.jpg" alt="art_pic"/></div>
-                                    <p className="dat">May 8, 2023</p>
-                                    <h1>Bitcoin Ordinals: Miner fees breaks new record, assessing the effects on BTC</h1>
-                                    <p>Bitcoin Ordinals reaches unprecedented heights, breaking fee records and surging in popularity, while BTC price cautiously recovers with modest gains, charting its course.</p>
+                            <a href="/post-crypto/517" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-508.jpg" alt="art_pic"/></div>
+                                    <p className="dat">May 9, 2023 - 6:29 AM</p>
+                                    <h1>Binance Resumes Bitcoin Withdrawals, Looks at Lightning Network Integration</h1>
+                                    <p>Binance, one of the largest cryptocurrency exchanges in the world, temporarily halted Bitcoin withdrawals twice in 24 hours over the weekend.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
