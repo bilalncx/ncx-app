@@ -74,6 +74,9 @@
 .carousel.mobile {
     display: none;
 }
+.single_map p span {
+    display: block;
+}
 @media screen and (max-width: 800px){
     .carousel.mobile {
         display: block;

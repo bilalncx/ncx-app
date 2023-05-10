@@ -2,6 +2,7 @@ import React from "react";
 import './first.css';
 import Timer from "../../ncxToken/countdown/TimeStart";
 import RoundSlider from '../../ncxToken/round_slider/round';
+import NewTimer from '../../ncxToken//countdown/Minutes';
 import { ReactComponent as HowWork } from '../../../images/how-it-work.svg';
 import { ReactComponent as WhyBuyToken } from '../../../images/why-buy-token.svg';
 import { Telegram } from "@mui/icons-material";
@@ -52,7 +53,8 @@ function FirstSect()
                                 <h1>5-25%</h1>
                                 <p className="contributors">{t("contributor_can_receive")}</p>
                             </div>
-                            <Timer />
+                            {/* <Timer /> */}
+                            <NewTimer />
                         </div>
                     </div>
                     <div className="how_and_why22">

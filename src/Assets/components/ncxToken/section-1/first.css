@@ -239,3 +239,36 @@ p.contributors {
         background-position: right;
     }
 }
+.countdown_timerjs{
+    color: #FFFFFF;
+    display: flex;
+}
+.countdown_timerjs span{
+    display: block;
+    text-align: center;
+}
+.timer {
+    display: flex;
+}
+span.colon {
+    padding: 0px 20px;
+    font-size: 32px;
+    height: fit-content;
+}
+.countdown_timerjs .timer:last-child span.colon{
+    display: none;
+}
+.countdown_timerjs span.time {
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'urbanist-regular';
+}
+.countdown_timerjs span.tct {
+    font-size: 11px;
+    font-family: 'urbanist-regular';
+}
+.token_timer h1 {
+    font-size: 14px;
+    font-family: 'urbanist-medium';
+    margin-bottom: 5px;
+}

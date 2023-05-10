@@ -399,6 +399,7 @@ div#token_video .taskdiv.two{
         width: 100% !important;
         margin-top: 20px;
         margin-bottom: 30px;
+        justify-content: center !important;
     }
     .work a svg {
         width: 20px !important;
@@ -409,6 +410,10 @@ div#token_video .taskdiv.two{
     }
     .social-col{
         column-gap: 10px !important;
+    }
+    .single_map p span {
+        display: unset !important;
+        padding-left: 5px;
     }
     
 
