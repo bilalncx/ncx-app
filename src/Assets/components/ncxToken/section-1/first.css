@@ -271,3 +271,10 @@ p.contributors {
     font-family: 'urbanist-medium';
     margin-bottom: 5px;
 }
+.times__up #end{
+    color: red;
+    font-size: 26px;
+    font-family: 'urbanist-regular';
+    text-align: center;
+    line-height: 32px;
+}
