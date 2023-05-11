@@ -1,6 +1,5 @@
 import React from "react";
 import './first.css';
-import Timer from "../../ncxToken/countdown/TimeStart";
 import RoundSlider from '../../ncxToken/round_slider/round';
 import '../../ncxToken//countdown/Minutes';
 import { ReactComponent as HowWork } from '../../../images/how-it-work.svg';
