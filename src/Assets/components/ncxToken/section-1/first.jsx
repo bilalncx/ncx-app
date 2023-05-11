@@ -2,7 +2,7 @@ import React from "react";
 import './first.css';
 import Timer from "../../ncxToken/countdown/TimeStart";
 import RoundSlider from '../../ncxToken/round_slider/round';
-import NewTimer from '../../ncxToken//countdown/Minutes';
+import '../../ncxToken//countdown/Minutes';
 import { ReactComponent as HowWork } from '../../../images/how-it-work.svg';
 import { ReactComponent as WhyBuyToken } from '../../../images/why-buy-token.svg';
 import { Telegram } from "@mui/icons-material";
@@ -54,7 +54,13 @@ function FirstSect()
                                 <p className="contributors">{t("contributor_can_receive")}</p>
                             </div>
                             {/* <Timer /> */}
-                            <NewTimer />
+                            <div className="new__timer">
+                            <p id="days"></p>
+                            <p id="hours"></p>
+                            <p id="mins"></p>
+                            <p id="secs"></p>
+                            <h2 id="end"></h2>
+                            </div>
                         </div>
                     </div>
                     <div className="how_and_why22">

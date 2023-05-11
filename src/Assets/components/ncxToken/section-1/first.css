@@ -272,3 +272,7 @@ span.colon {
     font-family: 'urbanist-medium';
     margin-bottom: 5px;
 }
+
+#days, #hours, #mins, #secs, #end{
+    color: #FFFFFF;
+}
