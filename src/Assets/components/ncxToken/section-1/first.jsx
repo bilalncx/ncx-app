@@ -54,12 +54,32 @@ function FirstSect()
                                 <p className="contributors">{t("contributor_can_receive")}</p>
                             </div>
                             {/* <Timer /> */}
-                            <div className="new__timer">
-                            <p id="days"></p>
-                            <p id="hours"></p>
-                            <p id="mins"></p>
-                            <p id="secs"></p>
-                            <h2 id="end"></h2>
+                            <div className="custom__timer">
+                                <h1>Round 1 Starts in</h1>
+                                <div className="new__timer">
+                                    <div className="time">
+                                        <p id="days"></p>
+                                        <span>Days</span>
+                                    </div>
+                                    <div className="colon">:</div>
+                                    <div className="time">
+                                        <p id="hours"></p>
+                                        <span>Hours</span>
+                                    </div>
+                                    <div className="colon">:</div>
+                                    <div className="time">
+                                        <p id="mins"></p>
+                                        <span>Mins</span>
+                                    </div>
+                                    <div className="colon">:</div>
+                                    <div className="time">
+                                        <p id="secs"></p>
+                                        <span>Seconds</span>
+                                    </div>
+                                    <div className="times__up">
+                                        <p id="end"></p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

@@ -239,40 +239,35 @@ p.contributors {
         background-position: right;
     }
 }
-.countdown_timerjs{
-    color: #FFFFFF;
+
+.time {
     display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-.countdown_timerjs span{
-    display: block;
-    text-align: center;
-}
-.timer {
-    display: flex;
-}
-span.colon {
-    padding: 0px 20px;
-    font-size: 32px;
-    height: fit-content;
-}
-.countdown_timerjs .timer:last-child span.colon{
-    display: none;
-}
-.countdown_timerjs span.time {
+.new__timer .time p{
     font-size: 30px;
     line-height: 40px;
-    font-family: 'urbanist-regular';
+    color: #FFFFFF;
 }
-.countdown_timerjs span.tct {
+
+.new__timer .time span{
     font-size: 11px;
     font-family: 'urbanist-regular';
+    color: #FFFFFF;
 }
-.token_timer h1 {
+.new__timer {
+    display: flex;
+}
+.colon {
+    height: fit-content;
+    font-size: 32px;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    line-height: 32px;
+}
+.custom__timer h1{
     font-size: 14px;
     font-family: 'urbanist-medium';
     margin-bottom: 5px;
-}
-
-#days, #hours, #mins, #secs, #end{
-    color: #FFFFFF;
 }
