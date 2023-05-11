@@ -1,4 +1,5 @@
 import React from "react";
+import 'jquery';
 
 function calculateTimeLeft() {
   const year = new Date().getFullYear();
