@@ -1,7 +1,6 @@
 import React from "react";
 import './third.css';
 import '../../homepage/sect_poweredby/powered.css';
-import NCXApp from '../../../images/ncx-slide1.png';
 import NCXBarCode from '../../../images/barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';

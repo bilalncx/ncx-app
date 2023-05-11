@@ -1,6 +1,6 @@
 import React from "react";
 import './cardpage.css';
-import NCXHomeSliderVideo from '../../../images/ncx_card_bgvideo.mp4';
+// import NCXHomeSliderVideo from '../../../images/ncx_card_bgvideo.mp4';
 import NCXCardTrade from '../../../images/ncx-card-trade.png';
 import GradientSect from '../cardgradient/gradcard';
 import MobileVideo from '../../../images/ncx_poweredby.mp4';
@@ -14,7 +14,7 @@ function CardfirstSection()
         <div className="cardvideo-sect">
             <div id="ncxcardvideo-desk">
                 <div className="desktop">
-                    <video 
+                    {/* <video 
                         id='video-scss'
                         autoPlay={true}
                         muted={true}
@@ -24,7 +24,7 @@ function CardfirstSection()
                         poster="https://ncx.cx/images/ncx_card_poster.png"
                         >
                         <source src={NCXHomeSliderVideo} type="video/mp4" />
-                    </video>
+                    </video> */}
                 </div>
             </div>
             <div className="container">
