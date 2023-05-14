@@ -1,5 +1,90 @@
 const data = [
   {
+    id: 509,
+    title: 'Oil market will flip to being undersupplied in coming months, says strategist',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Market', 'flip'],
+    description: <div className="blog-desc">
+      <p>The imbalance between oil supply and demand is likely to reverse going into the summer, says one analyst.</p>
+    </div>,
+    authorName: 'Ines Ferré·Markets Reporter',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 7:47 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-517.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The imbalance between oil supply and demand is likely to reverse going into the summer, says one analyst.</p>
+    	<p>"Currently, the global oil market is probably slightly oversupplied. It's going to flip to being undersupplied sometime in the late second quarter or early third quarter," Tortoise portfolio manager Rob Thummel told Yahoo Finance Live.</p>	
+    	<p>"When the oil market is undersupplied, typically you see a positive price response. So we would expect oil prices to rise a bit," said Thummel.</p>	
+	    <p>Crude prices have been under pressure recently, despite a production cut announced by OPEC+ last month. West Texas Intermediate (CL=F) and Brent (BZ=F) initially surged on the news but have since lost those gains.</p>
+      <p>WTI closed at $70.04 per barrel on Friday. Brent futures settled at $74.17.</p>
+      <p>Oil analysts anticipate a rise in demand as China's economy reopens following strict Covid lockdowns last year.</p>
+      <p>"The whole world is waiting on when does the Chinese economy reopen. And it's gradually reopening," said Thummel. "We expect the demand for oil globally in China to grow and accelerate throughout the rest of this year."</p>
+      <p>Thummel expects gas and oil related stock prices to rise in tandem with crude. Year-to-date, they the S&P Energy Select Sector (XLE) is down 10%, underperforming the broader markets.</p>
+      <p>"We think at Tortoise it's an attractive time to be looking at the energy sector because prices are probably low. They're probably going higher. And that will just result in an uplift of all energy stocks," said Thummel.</p>
+    </div>
+  },
+  {
+    id: 508,
+    title: 'Europes new energy problem: it now has too much gas',
+    category: 'Commodities',
+    subCategory: ['Europe', 'Energy', 'Gas'],
+    description: <div className="blog-desc">
+      <p>Europe has come a long way from the frenzied stockpiling driving up natural gas prices a year ago.</p>
+    </div>,
+    authorName: 'Aurora Almendral',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 7:11 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-518.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Europe has come a long way from the frenzied stockpiling driving up natural gas prices a year ago. As of May 9, Europe’s gas storage was full to 62%, and at the current pace of refilling, storage is expected to hit its capacity of about 1,138 terawatt-hours (TWh) by late August, according to estimates by Morgan Stanley. And it is driving down gas prices.</p>
+    	<p>In August 2022, Dutch TFF gas futures, the benchmark European contract, hit €243.72 ($265.94) per megawatt-hour (MWh), buttressed by the energy disruptions of Russia’s war in Ukraine and the prospect of a punishing winter without enough heating fuel. By November, a few dozen LNG tankers were idling off the coast of Spain, waiting for another rise in prices before selling their cargo.</p>	
+    	<p>But a harsh winter didn’t materialize, demand stayed low, and Europe ended the winter with record-high natural gas stocks for March, according to data from Gas Infrastructure Europe.</p>	
+    	<p>Prices dropped through January and into spring, hitting €34.78 ($37.95) by May 12, a 150% drop from August 2022.</p>
+      <p>That doesn’t ensure European consumers will get a break from high energy bills in the coming months. Since very little gas is being piped in from Russia (pdf), several factors could cause a swing in prices. A cold winter, heightened competition for LNG from Asia, or increased use of gas by Europeans, could strain even fully-stocked gas reserves, potentially pushing prices back up.</p>
+      <p>In a paper published on Monday (May 8), Goldman Sachs estimated that average prices for the coming winter to be above €90 ($97.7)/MWh, and over €100 for a particularly harsh winter.</p>
+    </div>
+  },
+  {
+    id: 507,
+    title: 'Oil prices fall on stronger dollar, demand fears',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Prices', 'Fall'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) - Oil prices settled more than 1% lower on Friday, falling for the third consecutive week, as the market balanced supply fears against renewed economic concerns in the United States and China.</p>
+    </div>,
+    authorName: 'Laura Sanicola',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 5:08 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-519.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>NEW YORK (Reuters) - Oil prices settled more than 1% lower on Friday, falling for the third consecutive week, as the market balanced supply fears against renewed economic concerns in the United States and China.</p>
+    	<p>Brent crude futures settled down 81 cents, or 1.1%, to $74.17 while West Texas Intermediate (WTI) U.S. crude futures fell 83 cents, or 1.2%, to $70.04.</p>	
+    	<p>Both benchmarks settled about 1.5% lower week on week.</p>	
+    	<p>The U.S. dollar clung to modest gains against the euro on Friday and was headed for its biggest weekly gain since February, as uncertainty around the U.S. debt ceiling and monetary policy prompted a shift to safe havens. [=EUR]</p>
+      <p>A stronger greenback makes dollar-priced oil more expensive for holders of other currencies.</p>
+      <p>"Lack of confidence in the economy is translating to a retreat to the safer dollar, and is also causing pessimism about oil demand," said John Kilduff, partner at Again Capital LLC in New York.</p>
+      <p>Concern mounted that the United States - the world's biggest oil consumer - will enter recession, with talks over the U.S. government's debt ceiling postponed and concern growing over another crisis-hit regional bank.</p>
+      <p>The U.S. Federal Reserve will probably need to raise interest rates further if inflation stays high, Fed Governor Michelle Bowman said on Friday, adding that data this month has not convinced her that price pressures are receding.</p>
+      <p>Meanwhile, China's April consumer price data rose at a slower pace than in March, missing expectations, while deepening factory gate deflation refocused doubts about its recovery from COVID restrictions driving oil demand growth.</p>
+      <p>The U.S. oil and natural gas rig count fell this week to its lowest in nearly a year, as gas rigs slumped by the most in a week since February 2016, energy services firm Baker Hughes Co said in its closely followed report on Friday.</p>
+      <p>U.S. oil rigs fell by two to 586 this week, their lowest since June 2022, while gas rigs plunged by 16 to 141, their lowest April last year.</p>
+      <p>The market drew some support from the forecast emerging supply deficit for the second half of the year, even as Iraq's oil minister Hayan Abdel-Ghani told Reuters on Friday he does not expect OPEC+ to decide on further production cuts when it next meets in Vienna on June 4.</p>
+      <p>An OPEC report on Thursday said the producer group expects July-December demand for its own crude to be 90,000 barrels per day (bpd) higher than previously projected.</p>
+      <p>The Organization of the Petroleum Exporting Countries (OPEC) kept its global oil demand forecast for 2023 unchanged on Thursday, expecting economic risks to be offset by higher Chinese demand growth.</p>
+      <p>The market also drew support after U.S. energy secretary Jennifer Granholm signalled that the country could repurchase oil for the Strategic Petroleum Reserve (SPR) after completing a congressionally mandated sale next month.</p>
+      <p>(Additional reporting Rowena Edwards in London, Yuka Obayashi in Tokyo and Andrew Hayley in Beijing; Editing by David Goodman, Kirsten Donovan, Nick Macfie and Daniel Wallis)</p>
+    </div>
+  },
+  {
     id: 506,
     title: 'Oil Rebounds on US Jobs Data and Canadian Output Disruption',
     category: 'Commodities',
