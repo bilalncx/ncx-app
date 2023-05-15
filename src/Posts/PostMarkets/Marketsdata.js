@@ -1,5 +1,148 @@
 const data = [
   {
+    id: 513,
+    title: 'Nvidia Stock Nearly Doubles In 2023 Amid AI Frenzy — Is It A Buy?',
+    category: 'Markets',
+    subCategory: ['Nvidia', 'Stocks', 'AI'],
+    description: <div className="blog-desc">
+      <p>Nvidia (NVDA) is a giant in data centers and gaming, with AI chips a growth opportunity. Is Nvidia stock a buy after nearly doubling so far this year?</p>
+    </div>,
+    authorName: 'APARNA NARAYANAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 9:04 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-514.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Nvidia (NVDA) is a giant in data centers and gaming, with AI chips a growth opportunity. Is Nvidia stock a buy after nearly doubling so far this year?</p>
+    	<p><strong>Semiconductor, AI News</strong></p>	
+    	<p>On May 1, Evercore analysts called Nvidia a "top pick" in a note to clients. Rosenblatt Securities analysts also named NVDA among seven chip stocks that could benefit from higher tech spending around artificial intelligence (AI).</p>	
+    	<p>In March, chipmaker Nvidia announced various initiatives to broaden its reach in AI, including partnerships and new products.</p>
+      <p>In February, Nvidia delivered a beat-and-raise report driven by its data center segment, which includes AI chips.</p>
+      <p>In the tech industry's fierce battle for AI dominance, the advanced chips needed for "generative AI" such as the ChatGPT chatbot are key.</p>
+      <p>For those looking for top large-cap stocks to buy now, here's a deep dive into NVDA stock.</p>
+      <p><strong>Nvidia Stock Technical Analysis</strong></p>
+      <p>On May 1, Nvidia stock topped a 281.20 buy point from a three-weeks-tight pattern. The buy range goes to 295.26. Shares have moved sideways since the latest breakout, trading just above the entry on May 12.</p>
+      <p>Investors could use the follow-on entry to start a small position or to grow an existing stake. However, the current market trend suggests a cautious approach to investing.</p>
+      <p>IBD named Nvidia its Stock of the Day on May 1 as the chipmaker broke out.</p>
+      <p>The chip stock earns a spot on the prestigious IBD Leaderboard. In April, NVDA stock hit the 20% profit-taking goal from a previous breakout.</p>
+      <p>Year to date, Nvidia shares are up 92.4% after crashing in 2022.</p>
+      <p>NVDA earns an IBD Composite Rating of 97. In other words, Nvidia stock has outperformed 97% of all other stocks in IBD's database in terms of combined technical and fundamental metrics.</p>
+      <p>Investors generally should focus on stocks with Comp Ratings of 90 or even 95 and above. Nvidia stock often earns a spot on the IBD 50, Big Cap 20 and Sector Leaders lists.</p>
+      <p>The relative strength line made a new high May 1 as the semiconductor stock broke out.</p>
+      <p>The RS line is almost back near November 2021 highs, the IBD MarketSmith charts show. A rising RS line means that a stock is outperforming the S&P 500. It is the blue line in the chart shown.</p>
+      <p>The IBD Stock Checkup tool shows that NVDA carries a Relative Strength Rating of 97. That means it has outperformed 97% of all stocks in IBD's database over the past year.</p>
+      <p>The iShares PHLX Semiconductor ETF (SOXX) holds both Nvidia stock and AMD stock.</p>
+      <p><strong>Nvidia Earnings</strong></p>
+      <p>Nvidia's EPS Rating is 63 out of 99 and its SMR Rating is a B, on a scale of A to a worst E. The EPS rating compares a company's earnings growth to other stocks. Its SMR Rating gauges sales growth, profit margins and return on equity.</p>
+      <p>On Feb. 22, Nvidia beat Wall Street's earnings target for its fiscal fourth quarter and guided higher for the current period.</p>
+      <p>The Santa Clara, Calif.-based company earned 88 cents a share on sales of $6.05 billion. Year over year, Nvidia earnings dropped 33% while sales sank 21%.</p>
+      <p>Data center revenue rose 11% to $3.62 billion, fueled by demand for AI chips. However, gaming chip sales remained weak, falling 46% to $1.83 billion.</p>
+      <p>For the full year, Nvidia earnings fell 25% per share on basically flat revenue.</p>
+      <p>The chip firm next reports earnings on May 24, for its fiscal first quarter. Analysts expect another weak quarter, but they then see Nvidia earnings rebounding 37% for the entire year, on an 11.6% sales gain.</p>
+      <p>Out of 46 analysts covering NVDA stock, 34 rate it a buy. Twelve have a hold and no one has a sell, according to FactSet.</p>
+      <p><strong>NVDA Backstory, Rivals</strong></p>
+      <p>The fabless chipmaker pioneered graphics processing units, or GPUs, to make video games more realistic. It's expanding in AI chips, used in supercomputers, data centers and drug development.</p>
+      <p>Nvidia's GPUs act as accelerators for central processing units, or CPUs, made by other companies.</p>
+      <p>In addition, Nvidia chips are used for Bitcoin mining and self-driving electric cars.</p>
+      <p>Nvidia has made a big push into metaverse applications.</p>
+      <p>Fabless chip stocks include Qualcomm (QCOM), Broadcom (AVGO) and Monolithic Power Systems (MPWR).</p>
+      <p>Currently, the fabless group ranks No. 45 out of 197 industry groups.</p>
+      <p>For the best returns, investors should focus on companies that are leading the market and their own industry group.</p>
+      <p><strong>Is Nvidia Stock A Buy?</strong></p>
+      <p>On a fundamental level, Nvidia earnings and sales are expected to rebound this year.</p>
+      <p>The chipmaker is expanding in growth areas such as data centers, including artificial intelligence, or AI; automated electric cars, and cloud gaming. The adoption of the metaverse and cryptocurrencies could further stoke demand for Nvidia chips.</p>
+      <p>However, macroeconomic uncertainties and risk of global recession linger.</p>
+      <p>NVDA stock has staged a strong comeback in 2023. Shares are within buy range following their latest breakout on May 1. The chip giant has raced higher this year amid investor enthusiasm about its AI leadership.</p>
+      <p>Bottom line: Nvidia stock is a buy. As a leading chipmaker with exposure to top end-markets, Nvidia is always one to watch.</p>
+    </div>
+  },
+  {
+    id: 512,
+    title: 'US stocks trade mostly lower as fresh economic data spurs new recession fears',
+    category: 'Markets',
+    subCategory: ['US', 'economic', 'trade'],
+    description: <div className="blog-desc">
+      <p>US stocks traded mostly lower on Thursday after fresh economic data reignited fears of a potential recession.</p>
+    </div>,
+    authorName: 'Matthew Fox',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 8:08 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-515.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li><strong>US stocks were mostly lower on Thursday after weekly jobless claims jumped to the highest level since October 2021.</strong></li>
+        <li><strong>Initial jobless claims surged by 22,000 to 264,000, which was ahead of estimates for 245,000.</strong></li>
+        <li><strong>Fears of a banking crisis were reignited after PacWest said its deposits fell by nearly 10% last week.</strong></li>
+      </ul>
+    	<p>US stocks traded mostly lower on Thursday after fresh economic data reignited fears of a potential recession.</p>
+    	<p>Weekly jobless claims surged by 22,000 to 264,000, hitting the highest level since October 2021 and topping economists' estimates for 245,000. It continues a recent trend of the unemployment claims ticking higher as more companies reduce their headcounts or slow down hiring.</p>	
+    	<p>In an interview on CNBC Thursday, top economist David Rosenberg warned that a recession could sneak up on the economy in the coming months. "Recessions are like this odorless gas. They catch up on you," he warned.</p>	
+    	<p>Banking fears were renewed after PacWest said its deposit base shrank by nearly 10% last week, following a report that said it was considering a sale. The troubled bank stock plunged by more than 20% and helped drag down the Regional Banking sector ETF by 2%.</p>
+      <p>Investors remain focused on earnings after Disney reported a decline in streaming subscriptions to its Disney+ platform. The stock fell about 6%. So far, 90% of S&P 500 companies have reported first-quarter results, with 77% of those companies beating profit estimates by a median of 8%.</p>
+      <p><strong>Here's where US indexes stood at the 4:00 p.m. ET close on Thursday:</strong></p>
+      <ul>
+        <li>S&P 500: 4,130.62, down 0.17%</li>
+        <li>Dow Jones Industrial Average: 33,309.51, down 0.66% (221.82 points)</li>
+        <li>Nasdaq Composite: 12,328.51, up 0.18%</li>
+      </ul>
+      <p><strong>Here's what else happened today:</strong></p>
+      <ul>
+        <li>Egg prices have declined by 32% since their January peak, which has helped limit the rise of inflation in recent months.</li>
+        <li>Top economist David Rosenberg said Microsoft's decision to not raise salaries for its full-time employees signaled that US inflation should continue to fall.</li>
+        <li>Bitcoin has slumped nearly 10% over the past month, putting the 2023 crypto rally in jeopardy after a strong start to the year.</li>
+        <li>Alphabet gained more than $130 billion in market value over a two-day period after the company unveiled its artificial intelligence ambitions.</li>
+        <li>Robinhood said that it will launch 24-hour trading to let its customers buy and sell popular stocks like Tesla and Apple.</li>
+      </ul>
+      <p><strong>In commodities, bonds and crypto:</strong></p>
+      <ul>
+        <li>West Texas Intermediate crude oil fell 1.65% to $71.36 per barrel. Brent crude, oil's international benchmark, dropped 1.28% to $75.43.</li>
+        <li>Gold slipped 0.74% to $2,022.00 per ounce.</li>
+        <li>The yield on the 10-year Treasury dropped 4 basis point to 3.39%.</li>
+        <li>Bitcoin dropped 2.84% to $26,844, while ether fell 3.14% to $1,784.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 511,
+    title: 'U.S. Treasury yields to rise amid debt ceiling standoff: Reuters poll',
+    category: 'Markets',
+    subCategory: ['US', 'Treasury', 'debt'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) - U.S. Treasury yields will rise significantly over the coming month, according to analysts polled by Reuters who were split over whether the risk of a U.S. default was higher or the same as prior stand-offs over the debt ceiling.</p>
+    </div>,
+    authorName: 'Sarupya Ganguly',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 4:13 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-516.jpg',
+    content: <div className="blog-content">
+    	<h3>By Sarupya Ganguly</h3>
+    	<p>BENGALURU (Reuters) - U.S. Treasury yields will rise significantly over the coming month, according to analysts polled by Reuters who were split over whether the risk of a U.S. default was higher or the same as prior stand-offs over the debt ceiling.</p>
+    	<p>President Joe Biden and top lawmakers in Congress have about three weeks to strike a deal over raising the $31.4 trillion U.S. debt limit, which has sharply increased volatility in bond markets.</p>	
+    	<p>Half of the 28 respondents in the May 5-11 Reuters poll said the risk of a default was higher this time compared to prior episodes of debt ceiling brinkmanship. The rest said the risk was the same.</p>	
+    	<p>Previous stand-offs have typically resulted in last-minute arrangements, but in 2011 the top-notch U.S. credit rating was downgraded for the first time. Analysts, however, warned that the current situation may be riskier owing to widening political divides.</p>
+      <p>In the meantime, elevated worries about a default are set to push Treasury yields higher. U.S. 2-year and 10-year yields are forecast to rise over the coming month by around 20 and 10 basis points, respectively, the poll showed.</p>
+      <p>Asked in what range the 10-year yield, currently at 3.38%, would trade over the coming month, the median response from strategists who were polled was 3.30%-3.60%. Individual responses ranged from as low as 3.0% to as high as 4.0%.</p>
+      <p>"The balance of risks has moved decisively in a negative direction this week, with the Treasury Secretary providing a June 1 deadline for the debt ceiling, while stresses in the regional banking sector continue to weigh on markets," noted Phoebe White, U.S. rates strategist at J.P. Morgan.</p>
+      <p>"While a short-term solution to buy time until the fall could be an option, it's hard to know whether even this type of stop-gap measure could get enough votes."</p>
+      <p>Uncertainty over whether the debt ceiling will be raised on time, along with lingering worries around small to mid-sized U.S. banks, has added pressure to an already-turbulent Treasury market this year.</p>
+      <p>Yields on short-dated Treasury bills, the most sensitive to debt ceiling jitters, and the cost of insuring against a U.S. sovereign default have both surged in recent weeks.</p>
+      <p>The most widely-followed indicator of bond market volatility, the MOVE index, is currently roughly 45% higher than its long-term average.</p>
+      <p>Looking further ahead, the U.S. 2-year note yield was expected to fall sharply to 3.30% from the current 3.86% by April 2024, still just slightly higher than the 10-year note yield.</p>
+      <p>Financial markets are pricing in at least 50 basis points of interest rate cuts from the U.S. Federal Reserve by the end of 2023, suggesting a resilient economy and a strong labor market will give in to recession this year.</p>
+      <p>But the Fed, which last week signaled a pause to one of its most aggressive tightening campaigns in history, pushed back on speculation that will soon consider cutting rates as inflation still runs more than twice the 2% target.</p>
+      <p>"The key question ... for the second half of this year is whether the bond market is correct in its assumption the Fed will be forced to reverse policy and cut several times by early 2024," said Steven Ricchiuto at Mizuho Securities.</p>
+      <p>"In contrast, our analysis suggests the Fed's 'higher for longer' strategy is more realistic."</p>
+      <p>(Reporting by Sarupya Ganguly and Indradip Ghosh; Polling by Milounee Purohit and Mumal Rathore; Editing by Hari Kishan and Paul Simao)</p>
+    </div>
+  },
+  {
     id: 510,
     title: 'Dow Jones Futures Rise As PacWest Soars On Dividend Cut. Occidental Drops On Warren Buffett Comments.',
     category: 'Markets',

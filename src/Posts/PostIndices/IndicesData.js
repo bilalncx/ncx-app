@@ -1,5 +1,92 @@
 const data = [
   {
+    id: 508,
+    title: 'Nasdaq Bear Market: 5 Exceptional Growth Stocks Youll Regret Not Buying on the Dip',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Market', 'Growth'],
+    description: <div className="blog-desc">
+      <p>A sizable dip in the innovation-driven Nasdaq Composite is the perfect excuse for investors to pounce on some phenomenal deals.</p>
+    </div>,
+    authorName: 'Sean Williams, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 13, 2023 - 1:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-526.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>A sizable dip in the innovation-driven Nasdaq Composite is the perfect excuse for investors to pounce on some phenomenal deals.</p>
+    	<p>If there's a lesson to be learned from 2022, it's that Wall Street is anything but predictable in the short term. All three major U.S. stock indexes fell into a bear market last year, with the growth-fueled Nasdaq Composite (^IXIC -0.35%) performing the worst (a loss of 33%).</p>	
+    	<p>The good news is that the stock market becomes quite predictable when you step back and pan out. Despite stock market corrections being somewhat common throughout history, every previous significant downturn in the major U.S. indexes, including the Nasdaq Composite, has eventually been cleared away by a bull market. As long as you're willing to use time as an ally, corrections and bear market dips can be golden opportunities.</p>	
+    	<p>With growth stocks getting clobbered in 2022, they're a genius place to consider putting your money to work. What follows are five exceptional growth stocks you'll regret not buying on the Nasdaq bear market dip.</p>
+      <h3>Pinterest</h3>
+      <p>The first incredible growth stock you'll be kicking yourself for not buying during the Nasdaq bear market drop is social media company Pinterest (PINS -0.37%). Although recessionary fears are currently weighing on Pinterest's ad-driven operating model, this is a company with well-defined competitive edges.</p>
+      <p>The first thing you'll note about Pinterest is the company's steady monthly active user (MAU) growth. Though MAUs rose quickly during the initial stages of the COVID-19 pandemic and declined into early 2022 as vaccines hit pharmacy shelves, Pinterest's user growth has been relatively steady when examined over a five-year period. User growth isn't everything for social media companies, but it's a number Wall Street and investors are closely monitoring.</p>
+      <p>What's arguably even more important is that Pinterest hasn't struggled to monetize its active users. Putting aside the 1% decline in average revenue per user (ARPU) during the first quarter, ARPU jumped by a reasonably healthy 10% in 2022 despite it being a challenging year for advertising. Multiple years of ARPU data has shown that advertisers are willing to pay a premium to get their message in front of Pinterest's growing user base.</p>
+      <p>Additionally, Pinterest's operating model ensures it won't be hurt by data-tracking software changes from app developers. Whereas many social media platforms rely on data-tracking tools to help advertisers target users, the entire point of Pinterest's site is for users to willingly and freely share the things, places, and services that interest them. This is invaluable information the company can pass along to advertisers.</p>
+      <p>With over $2.7 billion in cash, cash equivalents, and marketable securities on its balance sheet and a buyback program in place, Pinterest is ripe for the picking.</p>
+      <h3>Exelixis</h3>
+      <p>A second jaw-dropping growth stock you'll regret not scooping up with the Nasdaq falling is biotech stock Exelixis (EXEL -0.88%). Though lead drug Cabometyx failed to meet its primary endpoint in combination with Roche's Tecentriq in a recent kidney cancer trial, Exelixis has shown it has an abundance of catalysts for patient investors.</p>
+      <p>As you can rightly imagine, Cabometyx is the superstar of this drug portfolio. U.S. Food and Drug Administration approvals in first- and second-line renal cell carcinoma (RCC) and advanced previously treated hepatocellular carcinoma are more than enough to generate in excess of $1 billion in annual sales.</p>
+      <p>Exelixis is also currently examining Cabometyx in around six dozen studies as a monotherapy or combination therapy. While some of these trials won't pan out, as referenced above, a handful will. A previous trial combining Cabometyx with Bristol Myers Squibb's cancer immunotherapy Opdivo led to the combination therapy gaining first-line RCC approval. Just a handful of wins is all it might take for Cabometyx to generate $2 billion or more in peak annual sales.</p>
+      <p>Another exciting aspect of Exelixis is that its phenomenal cash flow and cash-rich balance sheet have allowed it to reignite its research engine. The company is developing a handful of novel cancer therapies, as well as forging collaborative/licensing partnerships with other drug developers to expand its future sales channels.</p>
+      <p>A sustained double-digit growth rate and a forward price-to-earnings ratio below 20 make Exelixis an attractive buy.</p>
+      <h3>Redfin</h3>
+      <p>The third exceptional growth stock you'll regret not buying during the Nasdaq bear market dip is technology-driven real estate company Redfin (RDFN -4.14%). While anything involving real estate is bound to face challenges in the near term, given that interest rates are rising at their fastest pace in decades, Redfin offers clear advantages over traditional real estate firms.</p>
+      <p>The most front-and-center differentiator between Redfin and other real estate companies is cost. Whereas a traditional real estate agent takes between 2% and 3% in commission fees, Redfin charges its members either 1% or 1.5% depending on how much business was previously done with the company. With the average price of homes sold coming in at $516,500 in the first quarter of 2023, this up-to-2-percentage-point difference could save sellers over $10,000!</p>
+      <p>Redfin also provides unparalleled personalization in the real estate space. For instance, Redfin's Concierge service works with homeowners to recommend upgrades and with vendors to make those renovations. This service helps owners maximize the sale price of their homes. Although Redfin closed its iBuying program, RedfinNow, it now has more time to focus on these higher-margin personalized services.</p>
+      <p>Investors should also be excited about Redfin's acquisition of RentPath in April 2021. While homebuying was all the rage in 2021, renting is regaining its luster as mortgage rates rise. RentPath, the parent company of Rent.com and ApartmentGuides.com, has seen rising revenue early in 2023, according to Redfin.</p>
+      <p>After accounting for 0.78% of first-quarter U.S. existing home sales, Redfin has plenty of room for market share expansion.</p>
+      <h3>Innovative Industrial Properties</h3>
+      <p>A fourth shockingly solid growth stock you'll regret not scooping up on the Nasdaq bear market decline is cannabis-focused real estate investment trust (REIT) Innovative Industrial Properties (IIPR -2.03%), more commonly known as IIP. Though there have been recent concerns about rent delinquencies for IIP, the company appears to be navigating these challenges relatively easily.</p>
+      <p>What investors are going to love about IIP is the relative predictability of the business. As of March 31, the company's portfolio consisted of 103 operating properties and an additional five under development. Combined, that's around 8.8 million square feet of rentable space, with a weighted-average lease length of 15.1 years.</p>
+      <p>In January and February, there had been some concern with IIP collecting just 92% of its rents on time. But as of March 31, the company announced it had collected 98% of its contractually due base rent for the quarter. Divesting certain assets, reworking master-lease agreements, and possibly even shifting existing leases to new multi-state operators (MSOs) are tools available to IIP to keep its consistent cash flow rolling in.</p>
+      <p>The company's lease structure also makes it special. Innovative Industrial Properties' entire portfolio is triple net leased (NNN leased). Triple net leased properties require tenants to cover the cost of utilities, maintenance, taxes, and insurance. While NNN leases result in lower rents for IIP, it also removes any sticker shocks from unexpected costs.</p>
+      <p>Sporting a yield of greater than 10%, IIP is an income seeker's dream come true.</p>
+      <h3>Baidu</h3>
+      <p>The fifth exceptional growth stock you'll regret not buying on the Nasdaq bear market dip is China-based internet search giant Baidu (BIDU -3.30%). Although China stocks come with added investment risks, Baidu's search engine dominance and innovation easily snuff out these concerns.</p>
+      <p>For much of the past three years, Baidu has been held back by China's handling of the COVID-19 pandemic. The country's zero-COVID mitigation strategy led to stringent lockdowns that continually crippled supply chains. But with China ending this controversial strategy in December, the world's No. 2 economy by gross domestic product is free to, once again, spread its wings. While the rebound could be a bit bumpy, it favors industry-leading growth stocks like Baidu over the long term.</p>
+      <p>Baidu's biggest cash-flow generator continues to be its internet search engine. As of April 2023, Baidu accounted for approximately 40% of all internet searches in China, based on data provided by GlobalStats. Doubling up its next-closest competitor in market share makes it likely that Baidu will possess strong ad-pricing power more often than not.</p>
+      <p>But there's more to like over the long run than just Baidu's moneymaking search engine. Baidu has invested heavily in artificial intelligence (AI), and those investments are beginning to pay off. The company's AI Cloud and AI-driven autonomous robotaxi company (Apollo Go) helped non-marketing revenue jump 11% in a challenging 2022 for China. Look for Baidu's AI segments to drive its organic growth in the years to come.</p>
+      <p>With a number of headwinds now put into the rearview mirror, Baidu looks like a steal at just 11 times consensus earnings for 2024.</p>
+    </div>
+  },
+  {
+    id: 507,
+    title: 'Dow Jones Drifts Lower, But Buyers Lift Chevron, Cisco Systems. First Solar Surges On Acquisition News.',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Cisco', 'Solar'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average was down modestly near midday Friday, along with other major stock indexes.</p>
+    </div>,
+    authorName: 'KEN SHREVE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 8:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-527.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average was down modestly near midday Friday, along with other major stock indexes. Chevron (CVX) was an early leader in the Dow Jones, along with Cisco Systems[ticker symb=CSCO]. But Salesforce (CRM), JPMorgan Chase (JPM) and Nike (NKE) lagged with losses of at least 1%.</p>
+    	<p>The Nasdaq composite also lost ground, dropping around 0.5%.</p>	
+    	<p>Small caps outperformed early, lifting the iShares Russell 2000 ETF (IWM) to a gain of nearly 0.7%. But the small-cap ETF faded to a loss of around 0.4% at midday. The financial services group, which includes regional banks, is the fourth highest-weighted sector in IWM, at just over 13%.</p>	
+    	<p>Meta Platforms (META) was an early gainer but it faded off highs. Late Thursday, the large-cap technology leader released new artificial intelligence tools to help advertisers build ad campaigns.</p>
+      <p>In the stock market today, Tesla (TSLA) rallied 3% and reversed lower after CEO Elon Musk said a new CEO will take over at Twitter in six weeks. Musk didn't name the person, but CNBC reported that NBCUniversal's advertising chief Linda Yaccarino is in advanced talks for the position. TSLA stock is bumping up against its 50-day moving average, a potential resistance level to watch.</p>
+      <p>The 10-year Treasury yield was up 3 basis points to around 3.43%. After key inflation data this week, federal funds futures traders widely expect the Fed to stand pat at the June and July meetings, leaving the interest rate unchanged at 5% to 5.25%. At the September meeting, traders think there's a 75% chance that the Fed will cut by 25 basis points to 4.75% to 5%.</p>
+      <p>Gold edged lower to around $2,015 an ounce. Franco-Nevada (FNV) is holding near its 21-day exponential moving average as it sits just below a 158.98 buy point.</p>
+      <h3>Inside the Dow Jones</h3>
+      <p>American Express (AXP) was an early gainer in the Dow Jones, but the stock remains on a sharp downtrend. Sellers have hit AXP stock hard after its April 20 earnings report.</p>
+      <p>JPMorgan reversed slightly lower, continuing recently-volatile price swings. JPM stock showed bullish action when it rallied above its 50-day line last month. But sellers hit the May 1 gap-up hard, triggering a series of down days.</p>
+      <p>Outside the Dow Jones, several growth stocks made solid gains.</p>
+      <p>Inside the MarketSmith Growth 250, First Solar (FSLR) soared more than 20% after announcing the acquisition of Europe's Evolar. The small deal, worth up to $80 million, will strengthen First Solar's position in thin film photovoltaics used in solar panels. The buy will also give FSLR its first research and development facility in Europe.</p>
+      <p>Other top gainers included TriNet Group (TNET), Sprouts Farmers Market (SFM), Penumbra (PEN) and Insulet (PODD).</p>
+      <p>Heavy-volume decliners in the MarketSmith Growth 250 included AngloGold Ashanti (AU), TG Therapeutics (TGTX) and fitness chain Life Time Holdings (LTH).</p>
+      <p>Fluence Energy (FLNC) was a top gainer in the IBD 50, but the stock fell off highs. FLNC's weekly gain now stands at 25%. Earlier in the week, the provider of energy storage products reported $698.2 million in revenue, up 104% from a year ago.</p>
+      <p>Celsius (CELH) was poised for its eighth straight gain after gapping up on earnings Wednesday. Adjusted profit surged 344%, while its revenue growth rate accelerated from Q4, rising 95% year over year to $259.9 million.</p>
+      <p>Chip firm Rambus (RMBS) also gained in the IBD 50. After a bullish accumulation week, Rambus will have a six-week base in place by Friday's close. RMBS stock is less than 5% off its high.</p>
+    </div>
+  },
+  {
     id: 506,
     title: 'Dow Jones Bounces Off Key Level After Stunning Jobs Report. Warren Buffetts Berkshire Hathaway Reports Saturday.',
     category: 'Indices',

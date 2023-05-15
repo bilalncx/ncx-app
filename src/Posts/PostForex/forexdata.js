@@ -1,4 +1,137 @@
 const data = [
+  {   
+    id: 514,
+    title: 'USD/JPY Weekly Forecast – US Dollar Bounces for the Week',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar initially fell against the Japanese yen during the week but has turned right back around, showing signs of life again.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 6:07 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-520.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The US dollar initially fell against the Japanese yen during the week but has turned right back around, showing signs of life again. This makes perfect sense, considering that the Federal Reserve continues to be very tight, while the Bank of Japan continues to do everything it can to keep interest rates low. By doing so, they have to print Japanese yen in order to buy those bonds, keeping the JGB down to 50 basis points or less. With this, I think the situation continues to see a lot of Japanese yen being printed, and that of course works against the value of the Japanese yen. Because of this, there is a bit of upward pressure in this market.</p>
+    	<p>If the market was to break above the top of the weekly hammer, then it’s likely that we go looking toward the ¥138 level above, which has been like a brick wall. If we were to break above that, then we would clear the top of the triangle, and open up a bigger move to the upside. In that environment, we could be looking at the ¥147 level before it’s all said and done, which is my target eventually. I don’t expect to get there anytime soon, but I think a retest of the high that we made last year is probably on tap unless of course the Japanese change their monetary policy quickly, or if the Federal Reserve steps away from its tight policy, something that I don’t expect to see from either one.</p>	
+    	<p>The 50-Week EMA is sitting right around the 133.50 again level and is rising, and of course we have the trend line just below there. In other words, this is more likely than not going to end up being a “buy on the dips” type of market, just as it has been for some time. Expect choppiness, but eventually I would anticipate that the buyers will overwhelm the sellers, offering a bit of momentum above that ¥138 level. As far as selling is concerned, I don’t have any interest in doing so at the moment, but would reevaluate things if we were to break down below the ¥132 level.</p>	
+    </div>
+  },
+  {
+    id: 513,
+    title: 'GBP to USD Weekly Forecast – British Pound Pulls Back for the Week',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially tried to rally during the trading week but gave back quite a bit of the gain to show signs of negativity.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 5:59 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-521.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	<h3>British Pound vs US Dollar Weekly Technical Analysis</h3>
+	<p>The British pound initially tried to rally during the trading week but gave back quite a bit of the gain to show signs of negativity. The market has been in a strong uptrend for several weeks in a row, and therefore printing a negative candlestick is a reasonable thing to do. After all, markets cannot go in one direction forever. That being said, a lot of traders will look at this as an opportunity to find a bit of value. A lot of traders will be out there looking for a “buy on the dips” situation, and they may get one if they are willing to wait for a candlestick or 2 to form.</p>
+	<p>The 1.2350 level is an area where I would expect to see support based upon the fact that it was previous resistance, so with that in mind I’m looking for supportive candlesticks underneath to take advantage of. Even if we were to break down below there, the 50-Week EMA will certainly offer a bit of support as well. Alternatively, I think it’s only a matter of time before the buyers return, and I don’t necessarily think this is the end of the overall uptrend, at least for now.</p>	
+	<p>That being said, the market will continue to be very noisy, and therefore I think you need to pay close attention to monetary policy because both of these banks are going to be very tight. The British pound has been one of the better performers over the last year or 2, so, therefore, it’s difficult to fight this trend, but if we do see some type of change in tone from the Bank of England, that might be a reason to send this market lower, or perhaps if we get some type of negative economic news that sends people running toward safety in the form of the US dollar. However, this one negative candlestick is not enough to change the overall attitude at this point.</p>	
+    </div>
+  },
+  {
+    id: 512,
+    title: 'EUR/USD Weekly Forecast – Euro Plunges for the Week',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro initially tried to rally during the trading week but then fell apart. At this point, the euro has turned around quite drastically, breaking down below the 1.09 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 5:50 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-522.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The euro initially tried to rally during the trading week but then fell apart. At this point, the euro has turned around quite drastically, breaking down below the 1.09 level. The 1.09 level is an area that had been supported previously, and the fact that we are plunging so quickly, it’s likely that we could go down to the 1.07 level, maybe even a little bit lower, to reach the 50-Week EMA. The 200-Week EMA has offered significant resistance, so it’ll be interesting to see whether or not the market will look at that as a ceiling.</p>
+	    <p>In general, this is a market that is squeezing between the 2 major moving averages, and that typically causes a lot of volatility. Furthermore, you need to keep in mind that the European Union is probably going to be facing some major issues, and with concerns about the global economy and banking sector, it does make a certain amount of sense that the US dollar could attract inflows. Furthermore, the tight monetary policy coming out of the Federal Reserve also makes the US dollar potentially attractive.</p>	
+	    <p>It might be worth noting that on Friday, both the US dollar and gold were showing signs of strength, so it does suggest that there is a certain amount of fear in the market, and that could offer quite a bit of demand for the greenback and perhaps traders trying to run away from riskier currencies, although admittedly the euro is not necessarily like a commodity currency or an emerging market currency, it is considered 2nd to the US dollar when it comes to protecting wealth. At this point, it’s likely that we continue to see volatility and choppiness going forward.</p>	
+    </div>
+  },
+  {
+    id: 511,
+    title: 'AUDUSD Weekly Forecast – Australian Dollar Gives Up Early Gains This Week',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar initially tried to rally and break above the 0.68 level. That being said, the market is likely to continue to look at this range as something that</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 5:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-523.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	<h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+	<p>The Australian dollar initially tried to rally and break above the 0.68 level. That being said, the market is likely to continue to look at this range as something that we are going to stick in, with the 0.68 level offering a significant amount of resistance, not only due to the recent price action but the fact that the 50-Week EMA sits right there as well. On the downside, we have the 0.66 level offered significant support multiple times, so we probably have a strong possibility of continuation.</p>
+	<p>However, if we were to break down below the 0.66 level, then it’s likely that the market could go down to the 0.64 level, based on the “measured move” of the consolidation area. The 0.64 level is an area where we have seen buying pressure previously, and therefore it’s likely that we would see a bit of a target, and of course, buyers jumping back into the market. On the other hand, if we were to break above the 50-Week EMA, then it’s likely that the market could go all the way to the 0.70 level, based upon that same measured move as well.</p>	
+	<p>Ultimately, this is a market that continues to be noisy, and I think it’s more likely than not going to continue to focus on the short term. However, if we break out of this range, you can start thinking about longer-term trades. Keep in mind that the RBA has recently had a bit of a surprise interest rate hike, but at the same time the Federal Reserve remains very tight with monetary policy. Furthermore, if there is a lot of concern out there when it comes to the global economy, that also has people running to the greenback for safety.</p>
+    </div>
+  },
+  {
+    id: 510,
+    title: 'USD/JPY Forecast – US Dollar Continues to Recover',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar bounced a bit during the trading session on Friday as we continued the recovery we had seen on Thursday.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 4:29 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-524.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar bounced a bit during the trading session on Friday as we continued the recovery we had seen on Thursday. On Thursday, the market tested both the 50-Day EMA and 200-Day EMA indicators, both of which have attracted some support. Furthermore, it’s probably worth noting that the market is in an ascending triangle, which of course a lot of traders will be paying close attention to. On the top of this triangle, we see a lot of resistance near the ¥138 level. If we were to break that level, it would be a very bullish sign, and the “measured move” would suggest that the market could go as high as ¥147.</p>
+    	<p>On pullbacks, plenty of buyers should be waiting to get involved because we have seen so much interest every time we have dipped. Furthermore, we have that uptrend line from the triangle that will continue to act as support, so in this environment, it’s difficult to get overly negative of this currency pair. Furthermore, the market is also cognizant that the Bank of Japan continues its yield curve control policy, meaning they are not allowing 10-year JGB markets to offer more than 50 basis points. To do so, they need to purchase those bonds and to purchase those bonds; they have to print more currency. This lets the market with the Japanese yen, causing moves like we had seen most of last year.</p>	
+    	<p>On the other side of the equation, you have the Federal Reserve. Although they may be getting close to or even be done raising interest rates, they are far from loosening them. Because of this, the interest rate differential alone will make this an attractive investment for traders in what is known as the “carry trade.” That being said, if we were to break down below the ¥132 level, it would break the pattern of the triangle, perhaps sending the market into a bit of a messier consolidation play. Either way, at this point, there seems to be no real interest in trying to sell this market off, so therefore I continue to look at dips as buying opportunities, waiting for the inevitable breakout to the upside.</p>
+    </div>
+  },
+  {
+    id: 509,
+    title: 'GBP to USD Forecast – British Pound Attempts Stabilization',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has been slightly positive during the trading session on Friday, trying to stabilize after the nasty selloff on Thursday.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 4:24 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-525.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has been slightly positive during the trading session on Friday, trying to stabilize after the nasty selloff on Thursday. That being said, even though the Thursday candlestick was rather negative, it did not change the trend, nor do I think that we are ready to make some attempt to do so. Rather, buyers will continue to come in and pick up dips as potential value; therefore, this remains the same as it has been.</p>
+	    <p>It’s probably worth mentioning that the 50-Day EMA sits near the 1.24 level and is rising. It will eventually enter the picture and offer technical support on a pullback or when it reaches the price. However, it’s probably worth noting that the 1.27 area offered some resistance the last time we got close to it, so it will likely do it again if the price gets to that handle. However, that doesn’t necessarily mean that it will not be able to break above there.</p>	
+    	<p>Great Britain has much more inflation than a lot of other nations right now, and therefore the Bank of England will possibly remain tighter for longer than many other ones. The British pound has been one of the better-performing currencies of the year, and even though Thursday was a very nasty candlestick, one day doesn’t necessarily change the trend in a currency pair without some extraordinarily disruptive news attached to it.</p>	
+    	<p>With this in mind, I believe this pair remains “buy on the dips,” at least as far as I can see. It is not until we break down below the 1.2350 level that you question whether the uptrend is running out of steam. Even then, some areas underneath it will almost certainly attract buyers. If you are looking to buy the US dollar, you probably will have better luck against other currencies as the British pound itself has been such a juggernaut for most of the last several months. If we can break above the 1.27 level, it’s possible that the British pound could go as high as 1.30 over the next several weeks. That said, it will probably be choppy behavior on the way up.</p>
+    </div>
+  },
   {
     id: 508,
     title: 'Rupee ends little changed on likely dollar buying by RBI',
