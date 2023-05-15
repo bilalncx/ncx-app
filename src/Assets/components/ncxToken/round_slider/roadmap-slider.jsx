@@ -127,7 +127,7 @@ function RoadmapSlider()
                         <Slide index={12}>
                             <div className="single_map">
                                 <h3>Q1 2023</h3>
-                                <div className="border-map"></div>
+                                <div className="active border-map"></div>
                                 <h3>February 2022</h3>
                                 <p>
                                     <span>Launch of Institutional</span>
@@ -138,7 +138,7 @@ function RoadmapSlider()
                         <Slide index={13}>
                             <div className="single_map">
                                 <h3>Q2 2023</h3>
-                                <div className="border-map"></div>
+                                <div className="active border-map"></div>
                                 <h3>March 2023</h3>
                                 <p>
                                     <span>NCX DeFi Wallet</span>
@@ -474,7 +474,7 @@ function RoadmapSlider()
                         <Slide index={12}>
                             <div className="single_map">
                                 <h3>Q1 2023</h3>
-                                <div className="border-map"></div>
+                                <div className="active border-map"></div>
                                 <h3>February 2022</h3>
                                 <p>
                                     <span>Launch of Institutional</span>
@@ -485,7 +485,7 @@ function RoadmapSlider()
                         <Slide index={13}>
                             <div className="single_map">
                                 <h3>Q2 2023</h3>
-                                <div className="border-map"></div>
+                                <div className="active border-map"></div>
                                 <h3>March 2023</h3>
                                 <p>
                                     <span>NCX DeFi Wallet</span>
