@@ -198,16 +198,10 @@ $(document).ready(function() {
     function myFunction() {
       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 18000) { // <--here
         headera.classList.add("sticky");
-        $("#fixed_sticky_insights").addClass("blog-stick");
-        $("#insight_page .col.first .leftsidebar").addClass("blog-stick");
-        $("#insight_page .col.third .rightsidebar").addClass("blog-stick");
         $("#insight_page .support_leftbar").addClass("blog-stick");
         $("#insight_page .support_articles").addClass("blog-stick");
       } else {
         headera.classList.remove("sticky");
-        $("#fixed_sticky_insights").removeClass("blog-stick");
-        $("#insight_page .col.first .leftsidebar").removeClass("blog-stick");
-        $("#insight_page .col.third .rightsidebar").removeClass("blog-stick");
         $("#insight_page .support_leftbar").removeClass("blog-stick");
         $("#insight_page .support_articles").removeClass("blog-stick");
       }
