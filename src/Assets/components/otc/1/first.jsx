@@ -366,9 +366,6 @@ function FirstVideo()
             <div className="why__choose__Otc">
                 <div className="container">
                     <h1 className="why__otc">{t("why_choose_otc")}</h1>
-                    <h3 className="mbl__why_otc">Why Choose</h3>
-                    <h3 className="mbl__why_otc line">NCX OTC</h3>
-                    <h1 className="why__otc">Why choose NCX OTC</h1>
                     {/* <h3 className="mbl__why_otc">Why Choose</h3>
                     <h3 className="mbl__why_otc line">NCX OTC</h3> */}
                     <div className="row">
