@@ -33,14 +33,16 @@ video#ncx-main-video {
 .taskdiv {
     background: #F7F9FE;
     border-radius: 2px;
-    width: 240px;
+    width: 250px;
     height: 245px;
     padding: 25px 20px;
     display: grid;
-    gap: 65px;
     margin-right: 20px;
     transform: translateY(0%);
     transition: .4s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .taskdiv:hover{
     background: #FFFFFF;
@@ -101,8 +103,9 @@ video#ncx-main-video {
 .text212 p {
     width: 100%;
     margin-top: 5px;
-    font-size: 13px;
+    font-size: 12px;
     color: #565672;
+    line-height: 15px;
 }
 h2.secondtask{
     margin-bottom: 20px;
@@ -114,9 +117,6 @@ h2.secondtask{
 }
 .ncxtask.row:before, .ncxtask.row:after{
     display: none;
-}
-.taskdiv.one{
-    gap: 55px;
 }
 
 #ncx-main-video-mobile{
@@ -175,9 +175,12 @@ h2.secondtask{
     .taskdiv {
         width: 49% !important;
         margin-right: 0px;
-        max-height: 170px;
-        gap: 40px !important;
+        max-height: 200px;
+        gap: 70px !important;
         padding: 15px 10px 15px 15px !important;
+    }
+    .buttoninfo svg{
+        padding-bottom: 0px !important;
     }
     .taskdiv.one{
         gap: 29px !important;
@@ -207,6 +210,9 @@ h2.secondtask{
         height: auto !important;   
         max-width: inherit !important;
         object-fit: inherit !important;
-        
+    }
+    .text212 p{
+        font-size: 10px !important;
+        line-height: 12px !important;
     }
 }

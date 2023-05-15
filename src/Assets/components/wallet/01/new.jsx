@@ -2,7 +2,7 @@ import React from "react";
 import NCXBarCode from '../../../images/ncx-barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
-import BuyCryptoVideo from '../../../images/home__newvideo.mp4';
+import WalletVideo from '../../../images/wallet-video.mp4';
 import BuyCryptoVideombl from '../../../images/home__mblvdo.mp4';
 import Button from "@mui/material/Button";
 import './style.css';
@@ -22,7 +22,7 @@ function NCXAPPSection()
                             preload="auto"
                             // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                             >
-                            <source src={BuyCryptoVideo} type="video/mp4" />
+                            <source src={WalletVideo} type="video/mp4" />
                         </video>
                     </div>
                 </div>
@@ -30,18 +30,27 @@ function NCXAPPSection()
                     <div className="row">
                         <div className="col">
                             <div className="apps_barcod">
-                                <h1>NCX Exchange The power of Crypto, DeFi & FinTech in your hands.</h1>
-                                <p>A non-custodial wallet that gives you access to a full suite of DeFi services in one place.</p>
+                                <h1>
+                                    <span>NCX DeFi Wallet</span>
+                                    <span>Your Keys,</span>
+                                    <span>Your Crypto.</span>
+                                </h1>
+                                <p>
+                                    <span>Store, Send, Swap, Buy Crypto</span>
+                                    <span>Assets across 12 Chains NCX</span>
+                                    <span>non-custodial wallet, hold</span>
+                                    <span>your own Private Keys</span>
+                                </p>
                                 <div className="barcodd">
                                     <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
                                     <p>Scan to Download NCX App</p>
                                 </div>
                                 <div className="apps-divi">
                                     <NCXApple />
-                                    <NCXGoogle />
+                                    <a><NCXGoogle /></a>
                                 </div>
                                 <div className="home__btnff">
-                                    <Button href="#" className="sin__op">Sign Up</Button>
+                                    <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">Sign Up</Button>
                                     <Button href="#" className="cl__drp">Claim Airdrop</Button>
                                 </div>
                             </div>
@@ -70,9 +79,19 @@ function NCXAPPSection()
                 </div>
             </div>
             <div className="mbl__lpl">
-                <h1>NCX Exchange</h1>
-                <p>Hybrid CEX | DEX | Trading Platform & DeFi Ecosystem</p>
-                <div className="yy__tr">
+                <video 
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    preload="auto"
+                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                    >
+                    <source src={WalletVideo} type="video/mp4" />
+                </video>
+                <h1>NCX DeFi Wallet</h1>
+                <p>Store, Send, Swap, Buy Crypto Assets across 12 Chains NCX non-custodial wallet, hold your own Private Keys</p>
+                {/* <div className="yy__tr">
                     <span>Advanced CEX</span>
                     <span>Cross-Chain DEX</span>
                     <span>Trading Platfrom</span>
@@ -96,21 +115,11 @@ function NCXAPPSection()
                     <span>Crypto Debit Card</span>
                     <span>DeFi Wallet</span>
                     <span>Buy Crypto</span>
-                </div>
+                </div> */}
                 <div className="home__btnff">
                     <Button href="#" className="sin__op">Sign Up</Button>
                     <Button href="#" className="cl__drp">Claim Airdrop</Button>
                 </div>
-                <video 
-                    autoPlay={true}
-                    muted={true}
-                    loop={true}
-                    playsInline={true}
-                    preload="auto"
-                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
-                    >
-                    <source src={BuyCryptoVideombl} type="video/mp4" />
-                </video>
             </div>
         </div>
     )

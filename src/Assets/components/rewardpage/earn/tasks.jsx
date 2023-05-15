@@ -22,11 +22,13 @@ function NCXTaskSection()
                     <div className="col">
                         <div className="tasktext signup">
                             <h1>4,000<span>NCXT</span></h1>
-                            <h3>{t("sign_up_verify")}</h3>
-                            <p>{t("new_user_only")}</p>
-                            <div className="taskbtn">
-                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
-                                <NCXQuestionmark />
+                            <div className="gsdfssd">
+                                <h3>{t("sign_up_verify")}</h3>
+                                <p>New User must complete at least one Purchase Transaction on NCXT Presale in Order to Receive 4,000 NCXT Bonus</p>
+                                <div className="taskbtn">
+                                    <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
+                                    <NCXQuestionmark />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -36,7 +38,7 @@ function NCXTaskSection()
                             <div className="tasktext-div">
                                 <div className="col">
                                     <h3>{t("refer_a_friend")}</h3>
-                                    <p>{t("new_user_only")}</p>
+                                    <p>Referred User must complete at least one Purchase Transaction on NCXT Presale in Order to Receive 1,000 NCXT Referral Bonus</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />
@@ -78,11 +80,13 @@ function NCXTaskSection()
                     <div className="col">
                         <div className="tasktext signup">
                             <h1>4,000<span>NCXT</span></h1>
-                            <h3>{t("sign_up_verify")}</h3>
-                            <p>{t("new_user_only")}</p>
-                            <div className="taskbtn">
-                                <Button href="#">{t("sign_up")}</Button>
-                                <NCXQuestionmark />
+                            <div className="dadasr">
+                                <h3>{t("sign_up_verify")}</h3>
+                                <p>New User must complete at least one Purchase Transaction on NCXT Presale in Order to Receive 4,000 NCXT Bonus</p>
+                                <div className="taskbtn">
+                                    <Button href="#">{t("sign_up")}</Button>
+                                    <NCXQuestionmark />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -92,7 +96,7 @@ function NCXTaskSection()
                             <div className="tasktext-div">
                                 <div className="col">
                                     <h3>{t("refer_a_friend")}</h3>
-                                    <p>{t("new_user_only")}</p>
+                                    <p>Referred User must complete at least one Purchase Transaction on NCXT Presale in Order to Receive 1,000 NCXT Referral Bonus</p>
                                 </div>
                                 <div className="col">
                                     <NCXQuestionmark />

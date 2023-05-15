@@ -26,15 +26,15 @@ function MyFooter()
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                             <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
-                            <li><a href="/derivatives">{t("crypto_derivatives")}</a></li>
-                            <li><a href="/markets">{t("markets")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
+                            <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                             <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
-                            <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
-                            <li><a href="/ncx-token">{t("ncx_token")}</a></li>
-                            <li><a href="/derivatives">{t("stocks_trading")}</a></li>
-                            <li><a href="/derivatives">{t("forex_trading")}</a></li>
-                            <li><a href="/derivatives">{t("commodities_trading")}</a></li>
+                            <li><a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a></li>
+                            <li><a href="https://ncx.cx/ncx-token">{t("ncx_token")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("stocks_trading")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("forex_trading")}</a></li>
+                            <li><a href="https://ncx.cx/derivatives">{t("commodities_trading")}</a></li>
                         </ul>
                         {/* <h1>Derivatives Trading</h1>
                         <ul className="ul-two">
@@ -50,15 +50,16 @@ function MyFooter()
                     <div class="second-column ftr-col">
                         <h1>{t("services")}</h1>
                         <ul className="ul-one">
-                            <li><a href="/market-insights">{t("ncx_insights")}</a></li>
-                            <li><a href="/rewards">{t("rewards_program")}</a></li>
+                            <li><a href="https://ncx.cx/market-insights">{t("ncx_insights")}</a></li>
+                            <li><a href="https://ncx.cx/rewards">{t("rewards_program")}</a></li>
                             <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
                             <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
                             <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
                             <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                             <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
-                            <li><a href="#">{t("support")}</a></li>
-                            <li><a href="/market-insights">{t("media_press")}</a></li>
+                            <li><a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("support")}</a></li>
+                            <li><a href="https://ncx.cx/about-us">{t("about_us")}</a></li>
+                            <li><a href="https://ncx.cx/market-insights">{t("media_press")}</a></li>
                         </ul>
                         {/* <h1>Company</h1>
                         <ul className="ul-two">
@@ -80,7 +81,7 @@ function MyFooter()
                         <h1>{t("apps")}</h1>
                         <ul className="ul-two">
                             <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
-                            <li><a href="#">{t("ncx_app_on_google_play_store")}</a></li>
+                            <li><a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
                             <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
                             <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                         </ul>
@@ -91,7 +92,7 @@ function MyFooter()
                             <div className="app-barcode-row">
                                 <div className="appsttore">
                                     <p>{t("mobile_app")}</p>
-                                    <NCXGoogle />
+                                    <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer"><NCXGoogle /></a>
                                     <NCXApple />
                                 </div>
                                 <div className="bardcodd">
@@ -102,9 +103,9 @@ function MyFooter()
                             <div class="social-media">
                                 <p>{t("follow_us")}</p>
                                 <div className="social-icons">
-                                    <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                                    <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                                     <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                                 </div>
                             </div>
                             <div className="fot-newsleter">
@@ -130,27 +131,28 @@ function MyFooter()
                         <h1>{t("products")}</h1>
                         <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                         <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
-                        <li><a href="/derivatives">{t("crypto_derivatives")}</a></li>
-                        <li><a href="/markets">{t("markets")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
+                        <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
-                        <li><a href="/wallet">{t("ncx_defi_wallet")}</a></li>
-                        <li><a href="/ncx-token">{t("ncx_token")}</a></li>
-                        <li><a href="/derivatives">{t("stocks_trading")}</a></li>
-                        <li><a href="/derivatives">{t("forex_trading")}</a></li>
-                        <li><a href="/derivatives">{t("commodities_trading")}</a></li>
+                        <li><a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a></li>
+                        <li><a href="https://ncx.cx/ncx-token">{t("ncx_token")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("stocks_trading")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("forex_trading")}</a></li>
+                        <li><a href="https://ncx.cx/derivatives">{t("commodities_trading")}</a></li>
                     </ul>
                     <ul>
                         <h1>{t("services")}</h1>
-                        <li><a href="/market-insights">{t("ncx_insights")}</a></li>
-                        <li><a href="/rewards">{t("rewards_program")}</a></li>
+                        <li><a href="https://ncx.cx/market-insights">{t("ncx_insights")}</a></li>
+                        <li><a href="https://ncx.cx/rewards">{t("rewards_program")}</a></li>
                         <li><a href="https://ncx.cx/market-makers">{t("market_makers")}</a></li>
                         <li><a href="https://ncx.cx/institutional">{t("institutional_services")}</a></li>
                         <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
                         <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                         <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
-                        <li><a href="#">{t("support")}</a></li>
-                        <li><a href="/market-insights">{t("media_press")}</a></li>
+                        <li><a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("support")}</a></li>
+                        <li><a href="https://ncx.cx/about-us">{t("about_us")}</a></li>
+                        <li><a href="https://ncx.cx/market-insights">{t("media_press")}</a></li>
                     </ul>
                 </div>
                 {/* <div className="mob-foot-ul">
@@ -183,7 +185,7 @@ function MyFooter()
                     <ul>
                         <h1>{t("apps")}</h1>
                         <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
-                        <li><a href="#">{t("ncx_app_on_google_play_store")}</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
                         <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
                         <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                     </ul>
@@ -191,9 +193,9 @@ function MyFooter()
                 <div class="social-media">
                     <p>{t("follow_us")}</p>
                     <div className="social-icons">
-                        <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                        <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                        <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                         <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                        <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                     </div>
                 </div>
                 <div className="fot-newsleter">
@@ -207,7 +209,7 @@ function MyFooter()
                 <div className="app-barcode-row">
                     <div className="appsttore">
                         <p>{t("mobile_app")}</p>
-                        <img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" />
+                        <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer"><img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" /></a>
                         <img src={MBLNCXAppStore} alt="ncx-app-on-appstore" />
                     </div>
                     <div className="bardcodd">

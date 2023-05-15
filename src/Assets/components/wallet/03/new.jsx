@@ -10,6 +10,12 @@ import WalletMobileVideo from '../../../images/wallet_mbl.mp4';
 import WalletMobileVideo2 from '../../../images/wallet_mbl2.mp4';
 import {ReactComponent as NCXBadge1} from '../../../images/ncx-badge.svg';
 import {ReactComponent as NCXBadge2} from '../../../images/ncx-badge2.svg';
+import SImport from '../../../images/s-import.mp4';
+import SNFTS from '../../../images/s-nfts.mp4';
+import SReceive from '../../../images/s-receive.mp4';
+import SStore from '../../../images/s-store.mp4'; 
+import SSwap from '../../../images/s-swap.mp4';
+import SBrowser from '../../../images/s-browser.mp4';
 
 function Indices5()
 {
@@ -38,7 +44,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo2} type="video/mp4" />
+                                <source src={SStore} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -62,7 +68,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src={SSwap} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -89,7 +95,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo2} type="video/mp4" />
+                                <source src={WalletMobileVideo} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -114,7 +120,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo2} type="video/mp4" />
+                                <source src={SReceive} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -141,7 +147,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src={SNFTS} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -166,7 +172,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src={WalletMobileVideo2} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -193,7 +199,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src={SBrowser} type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -218,7 +224,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src={SImport} type="video/mp4" />
                             </video>
                         </div>
                     </div>

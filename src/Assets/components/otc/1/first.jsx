@@ -15,7 +15,8 @@ import { ReactComponent as OTC5 } from '../../../images/about-5.svg';
 import { ReactComponent as OTC6 } from '../../../images/about-6.svg';
 import {ReactComponent as SafeArrow} from '../../../images/safe-arrow.svg';
 import NCXAppvideo from '../../../images/ncx_app_vi.mp4';
-import OTCMobileVideo from '../../../images/buy_page.mp4';
+import OTCMobileVideo from '../../../images/qwqwqw.mp4';
+import VideSection from '../../../images/home__newvideo.mp4';
 
 
 function FirstVideo()
@@ -24,7 +25,7 @@ function FirstVideo()
 
     return(
         <div id="ncx_cryptoCard" className="crypto_card">
-            <div className="ambassador_card row">
+            {/* <div className="ambassador_card row">
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>Large trades</h1>
@@ -48,7 +49,27 @@ function FirstVideo()
                         >
                         <source src={NCXAppvideo} type="video/mp4" />
                     </video>
-                    {/* <img src={CryptoCard1} alt="ncx_crypto_card" /> */}
+                </div>
+            </div> */}
+
+            <div className="new__ambass">
+                <div className="desktop">
+                    <video 
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                        >
+                        <source src={VideSection} type="video/mp4" />
+                    </video>
+                </div>
+                <div className="container">
+                    <div className="insse">
+                        <h1>NCX Over-the-Counter (OTC) Trade in large blocks with competitive rates</h1>
+                        <Button href="mailto: support@ncx.cx">Apply</Button>
+                    </div>
                 </div>
             </div>
 
@@ -88,13 +109,13 @@ function FirstVideo()
                 </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
-                        <h1>Large trades</h1>
-                        <h1 className="border-bv">with NCX</h1>
-                        <h1>OTC Desk</h1>
-                        <div className="bbttn">
+                        <h1>Large trades with NCX OTC Desk</h1>
+                        {/* <h1 className="border-bv">with NCX</h1>
+                        <h1></h1> */}
+                        {/* <div className="bbttn">
                             <Button href="#" className="card_apply">{t("contact_us")}</Button>
                             <Button href="#" className="card_learn">{t("learn_more")}</Button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
@@ -347,6 +368,9 @@ function FirstVideo()
                     <h1 className="why__otc">{t("why_choose_otc")}</h1>
                     <h3 className="mbl__why_otc">Why Choose</h3>
                     <h3 className="mbl__why_otc line">NCX OTC</h3>
+                    <h1 className="why__otc">Why choose NCX OTC</h1>
+                    {/* <h3 className="mbl__why_otc">Why Choose</h3>
+                    <h3 className="mbl__why_otc line">NCX OTC</h3> */}
                     <div className="row">
                         <div className="col first">
                             <div className="cho__log">

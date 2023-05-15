@@ -2,7 +2,7 @@ import React from "react";
 import './third.css';
 import '../../homepage/sect_poweredby/powered.css';
 import NCXApp from '../../../images/ncx-slide1.png';
-import { ReactComponent as NCXBarCode } from '../../../images/ncx-QRcode.svg';
+import NCXBarCode from '../../../images/barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
 import BuyCryptoVideo from '../../../images/ncx_poweredby.mp4';
@@ -41,7 +41,7 @@ function NCXAPPSection()
                                 <NCXGooglePay />
                             </div>
                             <div className="barcodd">
-                                <NCXBarCode />
+                                <img src={NCXBarCode} alt="ncx-barcode" />
                                 <p>{t("scan_to_download_ncx_app")}</p>
                             </div>
                             {/* <div className="apps-divi">

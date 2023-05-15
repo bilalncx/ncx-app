@@ -8,6 +8,7 @@ import Device4 from '../../../images/device_4.png';
 import {ReactComponent as CTrader1} from '../../../images/ctrader_logo.svg';
 import {ReactComponent as CTrader2} from '../../../images/ctrader_logoB.svg';
 import { useTranslation } from "react-i18next";
+import SExchange from '../../../images/s-exchange.mp4';
 
 function Indices5()
 {
@@ -16,7 +17,7 @@ function Indices5()
         <div className="trading__platform">
             <div className="container">
                 <h1 className="fg__rer">{t("ncx_innovative_trading_platforms")}</h1>
-                <div className="plat__ggre row">
+                <div id="ghrthf-we" className="plat__ggre row">
 
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
@@ -29,7 +30,18 @@ function Indices5()
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
-                            <img src={Device4} alt="ncx_platform" />
+                            {/* <img src={Device4} alt="ncx_platform" /> */}
+                            <video 
+                                id="phomsdf"
+                                autoPlay={true}
+                                muted={true}
+                                loop={true}
+                                playsInline={true}
+                                preload="auto"
+                                // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                                >
+                                <source src={SExchange} type="video/mp4" />
+                            </video>
                         </div>
                     </div>
 

@@ -29,16 +29,16 @@
 .tx__ff {
     display: flex;
     gap: 50px;
-    margin-top: 50px;
 }
 .tx__ff .col:nth-child(1){
-    width: 68%;
+    width: 100%;
     flex: inherit !important;
-    padding-right: 50px;
+    padding-right: 0px;
 }
 .tx__ff .col:nth-child(2){
     width: 32%;
     flex: inherit !important;
+    display: none;
 }
 .tx__ff p {
     color: #616262;
@@ -188,6 +188,9 @@ svg.styles_icon__C_hdQ {
 #ncx_cryptoCard #institutional_about .OTCsect.row.mobile, h3.mbl__why_otc{
     display: none;
 }
+.otc__tx .trading_col{
+    display: none;
+}
 
 @media screen and (min-width: 1280px){
     .about_logo {
@@ -203,7 +206,7 @@ svg.styles_icon__C_hdQ {
         display: none;
     }
     .otc__tx {
-        padding: 30px 0px;
+        padding: 0px 0px;
     }
     .otc__tx .trading_col {
         width: 100% !important;
@@ -284,7 +287,9 @@ svg.styles_icon__C_hdQ {
         display: none;
     }
     h1.why__otc{
-        display: none;
+        font-size: 30px !important;
+        line-height: 38px !important;
+        margin-bottom: 20px !important;
     }
     h3.mbl__why_otc.line {
         position: relative;
@@ -302,7 +307,7 @@ svg.styles_icon__C_hdQ {
     }
     .why__choose__Otc .row{
         display: block !important;
-        margin-top: 50px !important;
+        margin-top: 40px !important;
     }
     .why__choose__Otc .row .col{
         width: 100% !important;
@@ -314,10 +319,18 @@ svg.styles_icon__C_hdQ {
         line-height: 30px;
     }
     #ncxotc-page #mobileSlider video {
-        min-height: 490px;
+        min-height: 360px;
         object-fit: cover;
         width: 100%;
         max-height: 700px;
-        background: #DBDCDE !important;
+        background: #000000 !important;
+    }
+    #ncxotc-page #mobileSlider .col.card_txt h1{
+        font-size: 30px !important;
+        line-height: 40px !important;
+    }
+    #ncxotc-page #mobileSlider .col.card_txt{
+        padding-bottom: 0px !important;
+        padding-top: 30px !important;
     }
 }

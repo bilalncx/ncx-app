@@ -23,24 +23,28 @@
     #mkt__mkr__ndd .ambassador_card.row{
         display: none;
     }
-    .mark__makr__video {
-        background: #DBDCDE !important;
-    }
-    #mkt__mkr__ndd #mobileSlider .carousel .carousel__slider {
+    /* #mkt__mkr__ndd #mobileSlider .carousel .carousel__slider {
         max-height: 400px;
         background: #DBDCDE !important;
         min-height: 400px;
         display: flex;
         align-items: center;
-    }
+    } */
     #mkt__mkr__ndd #mobileSlider{
         display: block !important;
     }
     #mkt__mkr__ndd #mobileSlider video {
-        min-height: 490px !important;
+        min-height: 360px !important;
         object-fit: cover !important;
         width: 100% !important;
-        max-height: 700px !important;
+        background: #000000;
+    }
+    #mkt__mkr__ndd #mobileSlider .col.card_txt{
+        padding: 30px 0px 50px 0px !important;
+    }
+    #mkt__mkr__ndd .col.card_txt p{
+        text-align: justify;
+        font-family: 'hauora-extralight';
     }
     #mkt__mkr__ndd #mobileSlider  .carousel__slider-tray{
         display: flex;

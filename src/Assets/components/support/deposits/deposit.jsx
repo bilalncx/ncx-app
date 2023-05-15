@@ -4,7 +4,7 @@ import MyHeader from '../../../components/header/header';
 import MyFooter from '../../../components/footer/footer';
 import SearchModal from '../../../components/support/autosearch';
 import ArticleSlider from '../article_slide';
-import NCXLogo from '../../../images/ncx-black-logo.svg';
+import NCXLogo from '../../../images/new_sitelogo_black.svg';
 import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
@@ -82,9 +82,9 @@ function SupportPageSet()
                                 <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
 
                                 <div className="social-icons">
-                                    <div class="icons"><a href="#"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
-                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
+                                    <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                                     <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>
+                                    <div class="icons"><a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><img src={Twitter} alt="NCX" title="Twitter" /></a></div>
                                 </div>
                             </div>
                         </div>

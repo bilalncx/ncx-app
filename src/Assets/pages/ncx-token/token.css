@@ -340,8 +340,10 @@ div#token_video .buttoninfo a:hover{
 div#token_video .taskdiv:hover{
     box-shadow: 0 0 40px 5px rgb(255 255 255 / 25%) !important;
 }
-div#token_video .taskdiv.one{
-    gap: 55px !important;
+div#token_video .taskdiv{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }
 div#token_video .taskdiv.two{
     gap: 36px !important;
@@ -450,11 +452,14 @@ div#token_video .taskdiv.two{
         font-family: 'urbanist-light' !important;
     }
     div#token_video .taskdiv {
-        gap: 55px !important;
-        min-height: 210px !important;
+        min-height: 200px !important;
         width: 49% !important;
     }
     #ncx_token_Page .feat-txt {
         width: 100%;
+    }
+    div#token_video .text212 p{
+        font-size: 10px !important;
+        font-family: 12px !important;
     }
 }

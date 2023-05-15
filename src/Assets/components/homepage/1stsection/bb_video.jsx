@@ -33,17 +33,17 @@ function NCXAPPSection()
                     <div className="row">
                         <div className="col">
                             <div className="apps_barcod">
-                                <h1>{t("ncx_exchange_the_power_of_crypto_defi_finTech_in_your_hands")}</h1>
+                                <h1>NCX Exchange All-in-One Crypto Exchange, Trading Platform & DeFi Ecosystem</h1>
                                 <div className="barcodd">
                                     <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
                                     <p>{t("scan_to_download_ncx_app")}</p>
                                 </div>
                                 <div className="apps-divi">
                                     <NCXApple />
-                                    <NCXGoogle />
+                                    <a href="#" rel="noreferrer" target="_blank"><NCXGoogle /></a>
                                 </div>
                                 <div className="home__btnff">
-                                    <Button href="#" className="sin__op">{t("sign_up")}</Button>
+                                    <Button href="https://ncx.cx/register" rel="noreferrer" target="_blank" className="sin__op">{t("sign_up")}</Button>
                                     <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
                                 </div>
                             </div>
@@ -72,9 +72,25 @@ function NCXAPPSection()
                 </div>
             </div>
             <div className="mbl__lpl">
-                <h1>{t("ncx_exchange")}</h1>
-                <p>{t("hybrid_cex_dex_tarding_platform_defi_ecosystem")}</p>
-                <div className="yy__tr">
+                <video 
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    preload="auto"
+                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                    >
+                    <source src={BuyCryptoVideo} type="video/mp4" />
+                </video>
+                <div className="gsfersdsd">
+                    <h1>NCX Exchange All-in-One Crypto Exchange, Trading Platform & DeFi Ecosystem</h1>
+                    <div className="home__btnff">
+                        <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
+                        <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
+                    </div>
+                </div>
+                {/* <p>{t("hybrid_cex_dex_tarding_platform_defi_ecosystem")}</p> */}
+                {/* <div className="yy__tr">
                     <span>{t("advanced_cex")}</span>
                     <span>{t("cross_chain_dex")}</span>
                     <span>{t("trading_platform")}</span>
@@ -98,21 +114,7 @@ function NCXAPPSection()
                     <span>{t("crypto_debit_card")}</span>
                     <span>{t("defi_wallet")}</span>
                     <span>{t("buy_crypto")}</span>
-                </div>
-                <div className="home__btnff">
-                    <Button href="#" className="sin__op">{t("sign_up")}</Button>
-                    <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
-                </div>
-                <video 
-                    autoPlay={true}
-                    muted={true}
-                    loop={true}
-                    playsInline={true}
-                    preload="auto"
-                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
-                    >
-                    <source src={BuyCryptoVideombl} type="video/mp4" />
-                </video>
+                </div> */}
             </div>
         </div>
     )

@@ -216,7 +216,7 @@ div#market:before {
 #market #market_table_body tr:hover{
     background: #000000;
     box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
-    padding: 0px 5px !important;
+    /* padding: 0px 5px !important; */
 }
 #market .featured_market {
     background: #101010 !important;
@@ -416,6 +416,9 @@ details[open] .contt {
 .bg-dark .trading__platform .trg__ff__fe p{
     min-height: 38px !important;
 }
+.bg-dark .trading__platform .trg__ff__fe p span{
+    display: block;
+}
 
 /* NCX HOMEPAGE NCXCARD NEW SECTION */
 /* ******************************************************** */
@@ -560,22 +563,28 @@ a.sin__op {
     text-transform: capitalize;
     box-shadow: 0 0 15px rgba(94,211,240,.75);
 }
+a.sin__op:focus, a.sin__op:focus-visible, a.sin__op:active,
+a.cl__drp:focus, a.cl__drp:focus-visible, a.cl__drp:active{
+    outline: none;
+    text-decoration: none;
+}
 a.cl__drp {
     border: 1px solid #5ED3F0;
     border-radius: 50px;
-    min-width: 150px;
     height: 44px;
     color: #FFFFFF;
     font-size: 16px;
     font-family: 'urbanist-light';
     text-transform: capitalize;
+    min-width: fit-content;
+    padding: 0 2rem;
 }
 a.cl__drp:hover{
     background: #5ED3F0;
     box-shadow: 0 0 15px rgba(94,211,240,.75);
 }
 #home__ffgrr.ncxapp-section .apps_barcod{
-    min-width: 270px;
+    min-width: 310px;
 }
 #home__ffgrr.ncxapp-section .apps-divi svg{
     display: block !important;
@@ -583,6 +592,21 @@ a.cl__drp:hover{
 
 .mbl__lpl{
     display: none;
+}
+@media screen and (min-width: 801px) and (max-width: 1100px){
+    .bg-dark .hom__ppo .apps_barcod h1 {
+        font-size: 30px !important;
+        line-height: 36px !important;
+    }
+    .bg-dark #home__ffgrr.ncxapp-section .apps_barcod {
+        min-width: 280px;
+    }
+    .bg-dark .ncxapp-section .row .col:first-child{
+        padding-top: 80px
+    }
+    .bg-dark #home__ffgrr.ncxapp-section #ncx_buycrypto_video video{
+        min-height: 650px;
+    }
 }
 @media screen and (max-width: 800px){
     #card-faqss summary {
@@ -610,6 +634,13 @@ a.cl__drp:hover{
         max-height: 93px !important;
         background: #101010 !important;
     }
+    .bg-dark .hom__ppo .mbl__lpl{
+        padding: 0px !important;
+    }
+    .gsfersdsd {
+        padding: 0px 20px;
+        text-align: center;
+    }
     .mbl__lpl{
         display: block;
     }
@@ -628,7 +659,7 @@ a.cl__drp:hover{
         line-height: 34px;
         font-family: 'urbanist-light';
         color: #FFFFFF;
-        margin-bottom: 3px;
+        margin-bottom: 10px;
     }
     .mbl__lpl p {
         font-size: 13px;
@@ -656,7 +687,17 @@ a.cl__drp:hover{
         align-items: center;
         gap: 10px;
         margin: 30px 0px;
+        padding: 0px 20px !important;
     }
+    #wallet__main__cc .mbl__lpl{
+        padding-top: 0px !important;
+    }
+   #wallet__main__cc .mbl__lpl h1{
+        text-align: center !important;
+   }
+   #wallet__main__cc .mbl__lpl p{
+        text-align: center !important;
+   }
     #hme__gg__ff h1.fg__rer {
         display: none;
     }
@@ -691,10 +732,8 @@ a.cl__drp:hover{
         min-width: 110px !important;
     }
     .mbl__lpl .home__btnff a.cl__drp{
-        width: 130px !important;
         height: 36px !important;
         font-size: 14px !important;
-        min-width: 130px !important;
     }
     .trade__cfd .ind__cont table tr {
         padding: 15px 10px !important;
@@ -793,5 +832,9 @@ a.cl__drp:hover{
     }
     #marketmakers_page .market-discount {
         padding-top: 0px !important;
+    }
+    .bg-dark .trading__platform .tiy__bd a.sign__up{
+        min-width: 110px !important;
+        width: unset !important;
     }
 }

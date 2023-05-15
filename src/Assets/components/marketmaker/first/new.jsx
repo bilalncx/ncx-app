@@ -8,6 +8,7 @@ import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-re
 import NCXAPPVideo from '../../../images/ncx-wallet-video.mp4';
 import OTCMobileVideo from '../../../images/ncx-wallet-video.mp4';
 import NCXMarketMvideo from '../../../images/ncx-wallet-video-mbl.mp4';
+import VideSection from '../../../images/home__newvideo.mp4';
 
 function FirstVideo()
 {
@@ -15,7 +16,7 @@ function FirstVideo()
 
     return(
         <div id="mkt__mkr__ndd">
-            <div className="ambassador_card row">
+            {/* <div className="ambassador_card row">
                 <div className="col card_txt">
                 <div className="inns-div">
                         <h1>{t("ncx_marekt_maker")}</h1>
@@ -27,7 +28,6 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    {/* <img src={CryptoCard2} alt="ncx_crypto_card" /> */}
                     <img src={CryptoCard1} alt="ncx_crypto_card" />
                 </div>
                 <div className="col card_imgb">
@@ -41,10 +41,30 @@ function FirstVideo()
                         <source src={NCXAPPVideo} type="video/mp4" />
                     </video>
                 </div>
+            </div> */}
+            <div className="new__ambass">
+                <div className="desktop">
+                    <video 
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                        >
+                        <source src={VideSection} type="video/mp4" />
+                    </video>
+                </div>
+                <div className="container">
+                    <div className="insse">
+                        <h1><span>NCX</span> Market Maker Program. For professional  high volume trading entities</h1>
+                        <Button href="mailto: support@ncx.cx">Apply</Button>
+                    </div>
+                </div>
             </div>
 
             <div id="mobileSlider">
-                {/* <div className="mark__makr__video">
+                <div className="mark__makr__video">
                     <video
                         autoPlay={true}
                         muted={true}
@@ -52,16 +72,15 @@ function FirstVideo()
                         playsInline={true}
                         preload="auto"
                         >
-                        <source src={NCXMarketMvideo} type="video/mp4" />
+                        <source src={VideSection} type="video/mp4" />
                     </video>
-                </div> */}
-                <CarouselProvider
+                </div>
+                {/* <CarouselProvider
                         visibleSlides={1}
                         totalSlides={2}
                         step={1}
                         naturalSlideWidth={300}
                         naturalSlideHeight={400}
-                        // hasMasterSpinner
                         isPlaying={true}
                         interval={3000}
                         orientation="horizontal"
@@ -78,16 +97,15 @@ function FirstVideo()
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>
                     <ButtonNext className="pich"><div className="circle"></div></ButtonNext>
-                </CarouselProvider>
+                </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>{t("ncx_marekt_maker")}</h1>
                         <p>Professional entities who trade with API services and reach a monthly trading volume of 5,000,000 USD in spot/derivatives markets are welcome to apply and become NCX Market Maker.</p>
-
-                        <div className="bbttn">
+                        {/* <div className="bbttn">
                             <Button href="#" className="card_apply">{t("apply_now")}</Button>
                             <Button href="#" className="card_learn">{t("learn_more")}</Button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

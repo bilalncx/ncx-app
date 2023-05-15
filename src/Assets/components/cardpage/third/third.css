@@ -1,0 +1,3 @@
+.ncxdebitcreditcardpage .barcodd svg rect:nth-child(2){
+    fill: unset !important
+}

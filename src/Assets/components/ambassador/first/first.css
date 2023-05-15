@@ -135,7 +135,7 @@
     margin-top: 40px;
 }
 a.card_apply {
-    font-size: 14px;
+    font-size: 13px;
     font-family: 'urbanist-regular';
     background: linear-gradient(180deg, #9452EC 0%, #6552C7 100%);
     border-radius: 40px;
@@ -154,7 +154,7 @@ a.card_learn:hover, a.card_learn:focus, a.card_learn:focus-visible{
     text-decoration: none;
 }
 a.card_learn {
-    font-size: 14px;
+    font-size: 13px;
     font-family: 'urbanist-regular';
     background: #F0F0F1;
     border-radius: 40px;
@@ -167,6 +167,55 @@ a.card_learn {
     padding: 0px 10px;
     text-transform: capitalize;
 }
+
+/* New Styling */
+.new__ambass video {
+    width: 100%;
+    max-height: 600px;
+    object-fit: cover;
+}
+.new__ambass{
+    position: relative;
+    background: #000000;
+}
+.new__ambass .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.insse {
+    max-width: 330px;
+}
+.insse h1 {
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+}
+.insse a {
+    font-size: 16px;
+    width: 150px;
+    height: 44px;
+    border: 1px solid #5ED3F0;
+    border-radius: 50px;
+    margin-top: 30px;
+    color: #FFFF;
+    text-transform: capitalize;
+    font-family: 'urbanist-regular';
+}
+.insse a:hover{
+    background: #5ED3F0;
+}
+.insse a:focus, .insse a:focus-visible, .insse a:active{
+    outline: none;
+    text-decoration: none;
+}
+
 
 #ncxAmbassador-page .ambassadordiv{
     display: none;
@@ -204,9 +253,20 @@ a.card_learn {
     #ncxAmbassador-page .crypto_card .ambassador_card {
         display: none;
     }
-    #ncxAmbassador-page .card_txt h1.border-bv{
-        font-size: 42px !important;
-        line-height: 54px !important;
+    .new__ambass {
+        display: none;
+    }
+    #ncxAmbassador-page #mobileSlider .col.card_txt h1{
+        font-size: 36px !important;
+        line-height: 44px !important;
+    }
+    #ncxAmbassador-page #mobileSlider video {
+        min-height: 360px;
+        object-fit: cover;
+        width: 100%;
+    }
+    #ncxAmbassador-page #mobileSlider .col.card_txt{
+        padding: 30px 0px 0px 0px !important;
     }
     #ncxAmbassador-page .card_txt h1.border-bv:before{
         background: rgba(148,82,236,.6);

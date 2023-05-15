@@ -218,15 +218,27 @@ h1.ma__rere {
 
 
 @media screen and (max-width: 800px){
-    .blg__btn{
+    .article-page .blg__btn, .single__page .blg__btn{
         display: none;
     }
     .blo__btns h1 {
         font-size: 36px;
         line-height: 42px;
+        margin-bottom: 0px;
     }
     .blo__btns{
-        padding: 100px 0px 50px 0px;
+        padding: 50px 0px 50px 0px;
+    }
+    #ncx__blgg .blo__btns h1{
+        margin-bottom: 30px;
+    }
+    .blg__btn{
+        gap: 10px;
+    }
+    .blg__btn a {
+        font-size: 12px;
+        padding: 5px 15px;
+        min-width: 110px;
     }
     .nsghts.row {
         display: block;
@@ -243,6 +255,7 @@ h1.ma__rere {
         margin: 40px 0px 0px 0px;
         min-width: 130px;
         width: 100%;
+        height: 44px;
     }
     h1.tile_hed{
         font-size: 26px;

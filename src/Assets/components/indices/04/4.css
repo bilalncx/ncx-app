@@ -74,3 +74,8 @@
     border: 1px solid #5ed3f0;
     box-shadow: 0 0 15px rgba(94,211,240,.75);
 }
+@media screen and (max-width: 800px){
+    .global__mart{
+        background: #000000;
+    }
+}

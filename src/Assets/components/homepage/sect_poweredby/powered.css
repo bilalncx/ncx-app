@@ -48,6 +48,7 @@
 }
 .barcodd img {
     max-width: 110px;
+    padding-bottom: 10px;
 }
 .barcodd p {
     font-size: 12px !important;

@@ -1,6 +1,6 @@
 import {React} from "react";
 import './first.css';
-import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
+// import BackVideo from '../../../images/ncx-firstslidervideo.mp4';
 import {ReactComponent as Icon} from '../../../images/ncx-staricon.svg';
 import Button from "@mui/material/Button";
 // import ApplyNowModal from '../../applynowmodal/apply';
@@ -10,7 +10,7 @@ function FirstVideo()
     return(
         <div className="ambassadordiv">
             <div className="backgrdound-video">
-                <video
+                {/* <video
                     autoPlay={true}
                     muted={true}
                     loop={true}
@@ -19,7 +19,7 @@ function FirstVideo()
                     poster="https://ncx.cx/images/ncx_line_poster.png"
                     >
                     <source src={BackVideo} type="video/mp4" />
-                </video>
+                </video> */}
             </div>
             <div className="container">
                 <div className="ambassador row">

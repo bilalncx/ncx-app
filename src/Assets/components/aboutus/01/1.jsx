@@ -5,6 +5,8 @@ import CryptoCard1 from '../../../images/crypto_card_2.png';
 import CryptoCard2 from '../../../images/ncx-derivatives-trading.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
+import VideSection from '../../../images/home__newvideo.mp4';
+
 
 
 function FirstVideo()
@@ -13,7 +15,7 @@ function FirstVideo()
 
     return(
         <div className="crypto_card">
-            <div className="ambassador_card row">
+            {/* <div className="ambassador_card row">
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>{t("about_us")}</h1>
@@ -30,26 +32,55 @@ function FirstVideo()
                 <div className="col card_imgb">
                     <img src={CryptoCard2} alt="ncx_crypto_card" />
                 </div>
+            </div> */}
+            <div className="new__ambass">
+                <div className="desktop">
+                    <video 
+                        autoPlay={true}
+                        muted={true}
+                        loop={true}
+                        playsInline={true}
+                        preload="auto"
+                        // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                        >
+                        <source src={VideSection} type="video/mp4" />
+                    </video>
+                </div>
+                <div className="container">
+                    <div className="insse">
+                        <h1>About NCX Hybrid CEX | DEX Trading Platform & DeFi Ecosystem</h1>
+                        <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer">Sign Up</Button>
+                    </div>
+                </div>
             </div>
 
             <div id="mobileSlider">
+                <video 
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    preload="auto"
+                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
+                    >
+                    <source src={VideSection} type="video/mp4" />
+                </video>
                 <div className="col card_txt">
                     <div className="inns-div">
                         <h1>{t("about_us")}</h1>
                         <p>{t("about_us_text")}</p>
-                        <div className="bbttn">
+                        {/* <div className="bbttn">
                             <Button href="#" className="card_apply">{t("sign_up")}</Button>
                             <Button href="#about_institution" className="card_learn">{t("learn_more")}</Button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
-                <CarouselProvider
+                {/* <CarouselProvider
                         visibleSlides={1}
                         totalSlides={2}
                         step={1}
                         naturalSlideWidth={300}
                         naturalSlideHeight={400}
-                        // hasMasterSpinner
                         isPlaying={true}
                         interval={3000}
                         orientation="horizontal"
@@ -66,7 +97,7 @@ function FirstVideo()
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>
                     <ButtonNext className="pich"><div className="circle"></div></ButtonNext>
-                </CarouselProvider>
+                </CarouselProvider> */}
             </div>
         </div>
     )

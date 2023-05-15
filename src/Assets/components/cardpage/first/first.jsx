@@ -22,7 +22,7 @@ function FirstVideo()
                         <h1>{t("awaits")}</h1>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("get_the_card")}</Button>
-                            <Button href="#" className="card_learn">{t("learn_more")}</Button>
+                            <Button href="#card-details" className="card_learn">{t("learn_more")}</Button>
                         </div>
                     </div>
                 </div>
@@ -62,8 +62,8 @@ function FirstVideo()
                 </CarouselProvider>
                 <div className="col card_txt">
                     <div className="inns-div">
-                        <h1>{t("your_crypto")}</h1>
-                        <h1 className="border-bv">{t("debit_card")}</h1>
+                        <h1>{t("your_crypto")} {t("debit_card")}</h1>
+                        {/* <h1 className="border-bv">{t("debit_card")}</h1> */}
                         <p class="cardp1">{t("crypto_debit_card_text")}</p>
                         <div id="mobile-butller">
                             <div class="bullets">
@@ -84,10 +84,10 @@ function FirstVideo()
                             </div>
                         </div>
                         <p class="cardp2">{t("one_card_unlimited_possibilities")}</p>
-                        <div className="bbttn">
+                        {/* <div className="bbttn">
                             <Button href="#" className="card_apply">{t("get_the_card")}</Button>
                             <Button href="#" className="card_learn">{t("learn_more")}</Button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
