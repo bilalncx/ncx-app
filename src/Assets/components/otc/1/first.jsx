@@ -132,9 +132,9 @@ function FirstVideo()
 
                     <div className="tx__ff">
                         <div className="col">
-                            <p>In order to meet the specific needs of financial institutions and high net worth individuals, NCX OTC launches block trading service, providing deep liquidity and personalized service. We communicate with major global liquidity pools to provide the most competitive quotations, while ensuring transaction privacy and security.</p>
-                            <p>NCX OTC avoids the impact of large orders on the price fluctuations in the open market, and provides more professional, personalized, private and secure services for institutions or individuals with professional trading needs.</p>
-                            <p>The current minimum amount for a single transaction is USD 100,000.</p>
+                            <p>{t("why_choose_otc_text_1")}</p>
+                            <p>{t("why_choose_otc_text_2")}</p>
+                            <p>{t("why_choose_otc_text_3")}</p>
                         </div>
                         <div className="col">
                             <div className="txx_grad">
@@ -365,6 +365,9 @@ function FirstVideo()
 
             <div className="why__choose__Otc">
                 <div className="container">
+                    <h1 className="why__otc">{t("why_choose_otc")}</h1>
+                    <h3 className="mbl__why_otc">Why Choose</h3>
+                    <h3 className="mbl__why_otc line">NCX OTC</h3>
                     <h1 className="why__otc">Why choose NCX OTC</h1>
                     {/* <h3 className="mbl__why_otc">Why Choose</h3>
                     <h3 className="mbl__why_otc line">NCX OTC</h3> */}
@@ -385,7 +388,7 @@ function FirstVideo()
                         </div>
                         <div className="col">
                             <div className="cho__log">
-                                <p>Fast Settlement</p>
+                                <p>{t("fast_settlement")}</p>
                                 <SafeArrow />
                             </div>
                             <h1>Execute your trades in seconds without the involvement of a third-party</h1>

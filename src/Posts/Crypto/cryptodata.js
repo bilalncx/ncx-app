@@ -1,5 +1,101 @@
 const data = [
   {
+    id: 523,
+    title: 'Bitcoin, Ether fall along with most top 10 cryptos; U.S. futures rise ahead of debt ceiling negotiations',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'ETH', 'Rise'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether fell during Friday afternoon trading in Asia, along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization, apart from the XRP token.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 2:33 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-511.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin and Ether fell during Friday afternoon trading in Asia, along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization, apart from the XRP token. Most Asian equities declined despite data reflecting an economic recovery in Hong Kong U.S. stock futures strengthened for a second consecutive session, as negotiations over raising the debt ceiling are set to resume in the world’s largest economy.</p>
+    	<p><strong>Crypto market declines as Bitcoin falls below US$27,000</strong></p>	
+    	<p>Bitcoin dropped 4.14% to US$26,293 in 24 hours to 4:30 p.m. in Hong Kong, according to CoinMarketCap data. The daily decline by the world’s first cryptocurrency was the biggest daily drop in the top 10 coins by market cap.</p>	
+    	<p>“Bitcoin has to hold [US$26,111] for continued bullish momentum,” Nilesh Verma, crypto market analyst and founder of Crypto Granth consultancy, told Forkast. “We believe that we will see strong buying near US$25,000-26,000,” he added.</p>
+      <p>Ether fell 3.48% in the past 24 hours to trade at US$1,757, falling below US$1,800 for the second time this week.</p>
+      <p>The Beacon Chain of the Ethereum Network briefly stopped validating transactions on early Friday morning, with Ethereum developers tweeting later that the outage had been resolved and the cause still under investigation.</p>
+      <p>The XRP token was the only one in the green, inching up 0.75% to US$0.4271.</p>
+      <p>The global crypto market capitalization fell 2.81% to US$1.1 trillion, while the total crypto market volume decreased 9.30% to US$42.22 billion in the last 24 hours.</p>
+      <p><strong>NFTs sales on Ethereum fall</strong></p>
+      <p>In the NFT market, the Forkast 500 NFT index decreased 2.21% to 3,363.89 points in the 24 hours to 4:30 p.m. in Hong Kong and declined 7.77% during the week.</p>
+      <p>NFT trading is slowing due to the recent memecoin hype, with very few new users entering the space, according to Eric Dettman, NFT advisor at CryptoSlam. NFT buyers on the Ethereum blockchain totaled 45,298 in the past seven days, a drop of 72.97%.</p>
+      <p>24-hour NFT sales on Ethereum dropped 51.7% to US$16.3 million, after yesterday’s strong session. Sales for the Bored Ape Yacht Club, the largest Ethereum-native NFT collection, fell 60.02% to US$2.4 million, while sales for the Mutant Ape Yacht Club also decreased 61.78% to US$1.4 million. 24-hour sales for Milady Maker dropped 88.83% to US$864,000, after generating over US$9.6 million of sales for the network on Thursday.</p>
+      <p>As for the day’s most notable NFT transactions, Bored Ape #6805 sold for US$349,967 3 hours ago and CryptoPunk #1232 sold for US$148,324 8 hours ago, according to CryptoSlam data.</p>
+      <p><strong>Most Asian equities fall; U.S. futures rise for second consecutive session</strong></p>
+      <p>Asian equities declined on Friday, tracking losses on Wall Street, except for Japan’s Nikkei 225 that rose 0.9%. The Shanghai Composite dropped 1.12%, Hong Kong’s Hang Seng Index fell 0.59% and the Shenzhen Component Index declined 1.23%</p>
+      <p>Investors reacted negatively to government data showing that Hong Kong’s economy grew 2.7% year-on-year in the first quarter, recovering from a 4.1% contraction in the previous quarter, accounting for a lower Hang Seng Index on the day. The expansion was Hong Kong’s first economic upturn since the fourth quarter of 2022, mainly supported by a recovery in the tourism sector and domestic demand</p>
+      <p>U.S. stock futures strengthened for a second consecutive trading session, after consumer prices eased more than expected in April and bolstered expectations that the Federal Reserve will pause interest rate hikes.</p>
+      <p>Overnight, U.S. jobless claims increased, adding to market concern of a potential recession, with the job market as one of the pillars that prop up the economy.</p>
+      <p>The S&P 500 futures index rose 0.39%, the tech-heavy Nasdaq-100 futures gained 0.22% and the Dow Jones Industrial Average futures increased 0.41%.</p>
+      <p>The U.S. dollar index inched up 0.06% to 102.1 points, set for its first weekly gain in three weeks. The euro inched down 0.07% to US$1.09, the lowest value in three weeks.</p>
+      <p>President Joe Biden is set to continue negotiations to raise the debt ceiling later today, to keep the U.S. government solvent. Wednesday’s talks over the matter ended with no deal in sight.</p>
+      <p>The Bank of England raised interest rates by 25 basis points on Thursday, marking its 12th consecutive hike, increasing borrowing costs to 4.5% – the highest since October 2008.</p>
+      <p>London’s benchmark FTSE 100 rose 0.47% on Friday, after three consecutive sessions of losses, after data showed that the UK’s economy expanded 0.1% in the first quarter of the year, in line with market expectations.</p>
+    </div>
+  },
+  {
+    id: 522,
+    title: 'Binance pulls out of Canada amid new crypto regulations',
+    category: 'Crypto',
+    subCategory: ['Binance', 'Canada', 'crypto'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Binance said on Friday it was withdrawing from Canada, weeks after the country issued a series of new guidelines for cryptocurrency exchanges including investor limits and mandatory registrations.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 11:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-512.jpg',
+    content: <div className="blog-content">
+    	<h3>In thi article:</h3>
+    	<p>(Reuters) -Binance said on Friday it was withdrawing from Canada, weeks after the country issued a series of new guidelines for cryptocurrency exchanges including investor limits and mandatory registrations.</p>
+    	<p>Canada has tightened regulations for crypto asset trading platforms in recent months, with the introduction of a pre-registration process. The companies that do not adhere to the rules will face potential enforcement action, according to the website of the Ontario Securities Commission.</p>	
+    	<p>"Unfortunately, (the) new guidance related to stablecoins and investor limits provided to crypto exchanges makes the Canada market no longer tenable for Binance at this time," crypto exchange Binance said in a tweet.</p>	
+    	<p>Binance said it does not agree with the latest guidance and hopes to engage with the Canadian regulators to create a comprehensive framework for crypto operations in the country.</p>
+      <p>"We are confident that we will someday return to the market when Canadian users once again have the freedom to access a broader suite of digital assets," said the crypto exchange, founded by Canadian national Changpeng Zhao.</p>
+      <p>The digital assets industry has been in the crosshairs of regulators around the world, especially since the collapse of Binance-rival FTX in November, which triggered a market rout in the prices of the biggest digital coins.</p>
+      <p>Following the onset of the crypto winter of 2022, which wiped out more than a trillion dollars from the industry's market value, lawmakers and securities regulators demanded tighter guidelines for disclosures on how the crypto companies operate and hold customer funds.</p>
+      <p>In March, Binance and its CEO Zhao were sued by the U.S. Commodity Futures Trading Commission for operating what the regulator alleged was an "illegal" exchange and a "sham" compliance program.</p>
+      <p>(Reporting by Manya Saini in Bengaluru; Editing by Shinjini Ganguli)</p>
+    </div>
+  },
+  {
+    id: 521,
+    title: 'Bitcoin Prices Slip to 2-Month Lows as CoinDesk’s Bitcoin Trend Indicator Turns Neutral From Bullish',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Prices', 'CoinDesk'],
+    description: <div className="blog-desc">
+      <p>Bitcoin (BTC) continues to lose ground in the wake of CoinDesk's Bitcoin Trend Indicator shedding the bullish bias for the first time in three weeks.</p>
+    </div>,
+    authorName: 'Omkar Godbole',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 12, 2023 - 11:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-513.jpg',
+    content: <div className="blog-content">
+    	<h3>In this atricle:</h3>
+    	<p>Bitcoin (BTC) continues to lose ground in the wake of CoinDesk's Bitcoin Trend Indicator shedding the bullish bias for the first time in three weeks.</p>
+    	<p>The top cryptocurrency by market value fell to $26,160 before press time, reaching the lowest since March 17, according to CoinDesk data. Prices have declined by over 12% since May 6, decoupling from the uptick in traditional risk assets like Nasdaq.</p>	
+    	<p>The BTI indicator, which measures the directional momentum and strength in bitcoin's price, flipped from bullish to neutral on Thursday. The indicator consistently signaled an uptrend since Jan. 13, barring the brief red flash (downtrend signal) in mid-March and the neutral reading on April 24.</p>	
+    	<p>According to Matthew Dibb, chief investment officer at Astronaut Capital, low liquidity seems to have helped few sellers drive prices lower.</p>
+      <p>"There seems to be 'paper thin' liquidity right now, even across majors such as BTC. While we can't point at a direct reason for the weakness, any medium to large offers are driving the market down," Dibb said.</p>
+      <p>Liquidity or market depth has recently worsened on major exchanges, including Binance, making it difficult for traders to execute large orders without influencing prices.</p>
+      <p>According to Dick Lo, the founder and CEO of quant-driven crypto trading firm TDX Strategies, the downside move may gather pace if traditional risk assets turn lower.</p>
+      <p>"We could get an acceleration on the downside IF U.S. equities also start to roll over," Lo told CoinDesk. "$25,200 is key support for BTC followed by $23,100 on potential downside acceleration."</p>
+      <p>Lo added that the bearish bias would be invalidated if prices rise above $28,500.</p>
+      <p>As analysts warned last week, bitcoin's drop to two-month lows has confirmed a head-and-shoulders bearish reversal pattern on technical charts. The breakdown has opened doors for a deeper slide toward support around $25,000.</p>
+    </div>
+  },
+  {
     id: 520,
     title: 'Bitcoin, Ether edge up; Litecoin leads winners, Matic the losers; U.S. equity futures flat',
     category: 'Crypto',

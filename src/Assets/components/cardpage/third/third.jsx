@@ -57,7 +57,7 @@ function NCXAPPSection()
                             </div>
                             <div className="apptexts">
                                 <h1>{t("atm_withdrawals")}</h1>
-                                <p>{t("trun_your_crypto_into_cash_instantly_use_ncx-card_across_3.2m_atms_worldwide")}</p>
+                                <p>{t("turn_your_crypto_into_cash_instantly_use_ncx_card_across_3.2m_atms_worldwide")}</p>
                             </div>
                             <div className="apptexts">
                                 <h1>{t("online_payments")}</h1>

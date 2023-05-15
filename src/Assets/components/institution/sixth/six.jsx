@@ -48,37 +48,37 @@ function DataandAnalytics()
                 <div className="container">
                     <div className="ncx-otc">
                         <img className="ncx-whitelogo" src={NCXLogo} alt="ncx-whitelogo" />
-                        <p>{t("Data & Analytics")}</p>
+                        <p>{t("data_and_analytics")}</p>
                     </div>
                     <div className="row">
                         <div className="col first">
                             <div className="cho__log">
-                                <p>Historical Data</p>
+                                <p>{t("historical_data")}</p>
                                 <SafeArrow />
                             </div>
                             <div className="trs">
-                                <h1>Backtest Strategy Optimisation</h1>
-                                <p>NCX supports traders to backtest and strategy optimization based on historical spot & margin, futures contracts and delivery contract data.</p>
+                                <h1>{t("backtest_strategy_optimization")}</h1>
+                                <p>{t("backtest_strategy_optimization_text")}</p>
                             </div>
                         </div>
                         <div className="col second">
                             <div className="cho__log">
-                                <p>Analytics</p>
+                                <p>{t("analytics")}</p>
                                 <SafeArrow />
                             </div>
                             <div className="trs">
-                                <h1>Wide Range of Analytics</h1>
-                                <p>NCX arm our traders with dynamic, aggregated market data to track cryptocurrency spot and derivatives markets in real-time.</p>
+                                <h1>{t("wide_range_analytics")}</h1>
+                                <p>{t("wide_range_analytics_text")}</p>
                             </div>
                         </div>
                         <div className="col">
                             <div className="cho__log">
-                                <p>Tax API & Transaction history</p>
+                                <p>{t("tax_api_Transaction_history")}</p>
                                 <SafeArrow />
                             </div>
                             <div className="trs">
-                                <h1>Export Data Function</h1>
-                                <p>Equipped with tax reporting tools, API to help keep track & export your activities to ensure you're fulfilling local tax reporting requirements.</p>
+                                <h1>{t("export_data_function")}</h1>
+                                <p>{t("")}Equipped with tax reporting tools, API to help keep track & export your activities to ensure you're fulfilling local tax reporting requirements.</p>
                             </div>
                         </div>
                     </div>
