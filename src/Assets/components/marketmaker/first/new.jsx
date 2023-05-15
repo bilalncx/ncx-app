@@ -18,8 +18,8 @@ function FirstVideo()
             <div className="ambassador_card row">
                 <div className="col card_txt">
                 <div className="inns-div">
-                        <h1>NCX Market Maker</h1>
-                        <p>Professional entities who trade with API services and reach a monthly trading volume of 5,000,000 USD in spot/derivatives markets are welcome to apply and become NCX Market Maker.</p>
+                        <h1>{t("ncx_marekt_maker")}</h1>
+                        <p>{t("")}Professional entities who trade with API services and reach a monthly trading volume of 5,000,000 USD in spot/derivatives markets are welcome to apply and become NCX Market Maker.</p>
                         <div className="bbttn">
                             <Button href="#" className="card_apply">{t("apply_now")}</Button>
                             <Button href="#" className="card_learn">{t("learn_more")}</Button>
@@ -81,7 +81,7 @@ function FirstVideo()
                 </CarouselProvider>
                 <div className="col card_txt">
                     <div className="inns-div">
-                        <h1>NCX Market Maker</h1>
+                        <h1>{t("ncx_marekt_maker")}</h1>
                         <p>Professional entities who trade with API services and reach a monthly trading volume of 5,000,000 USD in spot/derivatives markets are welcome to apply and become NCX Market Maker.</p>
 
                         <div className="bbttn">

@@ -101,22 +101,22 @@ function NCXAssetManagement()
                     <div className="row">
                         <div className="col first">
                             <div className="cho__log">
-                                <p>Corporations</p>
+                                <p>{t("corporations")}</p>
                                 <SafeArrow />
                             </div>
                             <div className="trs">
-                                <h1>Corporations</h1>
+                                <h1>{t("corporations")}</h1>
                                 <p>Corporations allocating funds into digital assets and cryptocurrencies as part of their corporate treasury strategy. NCX Custody and Asset Management Service supports corporations to safeguard their digital assets on their balance sheet to hedge against inflation.</p>
                             </div>
                         </div>
                         <div className="col second">
                             <div className="cho__log">
-                                <p>Cryptocurrency Miners</p>
+                                <p>{t("cryptocurrency_miners")}</p>
                                 <SafeArrow />
                             </div>
                             <div className="trs">
-                                <h1>Cryptocurrency Miners</h1>
-                                <p>Custody and Asset Management Service help Cryptocurrency Miners safeguard their mining rewards and ensure the mining rewards are disseminated to their clients without any operation surprises.</p>
+                                <h1>{t("cryptocurrency_miners")}</h1>
+                                <p>{t("cryptocurrency_miners_text")}</p>
                             </div>
                         </div>
                         <div className="col">
