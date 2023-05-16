@@ -16,7 +16,6 @@ import Deposit4 from '../../../images/deposit4.png';
 import Deposit5 from '../../../images/deposit5.png';
 import CoinData from '.././deposit-payout-table';
 import { useTranslation } from "react-i18next";
-import $ from 'jquery';
 
 
 function SupportPageSet()
@@ -146,24 +145,3 @@ function SupportPageSet()
 }
 
 export default SupportPageSet;
-
-
-function sticky_relocate() {
-    var window_top = $(window).scrollTop();
-    var div_top = $('#insight_page').offset().top;
-    var stop_top = $('#footerdiv').offset().top;
-    if (window_top > div_top && window_top < stop_top) {
-        $("#insight_page .support_leftbar").addClass("blog-stick");
-        $("#insight_page .support_articles").addClass("blog-stick");
-        // console.log("Blog Stick class added");
-    }
-    else {
-        $("#insight_page .support_leftbar").removeClass("blog-stick");
-        $("#insight_page .support_articles").removeClass("blog-stick");
-        // console.log("Blog Stick class removed");
-    }
-  }
-  
-  $(document).ready(function () {
-      $(window).scroll(sticky_relocate);
-  });
