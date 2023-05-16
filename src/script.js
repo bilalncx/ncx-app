@@ -193,20 +193,40 @@ $(document).ready(function() {
     });
 
 
-    var headera = document.querySelector("#insight_page");
-    var sticky = headera.offsetTop+0;
-    function myFunction() {
-      if (window.pageYOffset > sticky && window.pageYOffset < sticky + 18000) { // <--here
-        headera.classList.add("sticky");
-        $("#insight_page .support_leftbar").addClass("blog-stick");
-        $("#insight_page .support_articles").addClass("blog-stick");
-      } else {
-        headera.classList.remove("sticky");
-        $("#insight_page .support_leftbar").removeClass("blog-stick");
-        $("#insight_page .support_articles").removeClass("blog-stick");
-      }
-    }
-    window.onscroll = function() {myFunction()};
+    // var headera = document.querySelector("#insight_page");
+    // var sticky = headera.offsetTop+0;
+    // function myFunction() {
+    //   if (window.pageYOffset > sticky && window.pageYOffset < sticky + 18000) { // <--here
+    //     headera.classList.add("sticky");
+    //     $("#insight_page .support_leftbar").addClass("blog-stick");
+    //     $("#insight_page .support_articles").addClass("blog-stick");
+    //   } else {
+    //     headera.classList.remove("sticky");
+    //     $("#insight_page .support_leftbar").removeClass("blog-stick");
+    //     $("#insight_page .support_articles").removeClass("blog-stick");
+    //   }
+    // }
+    // window.onscroll = function() {myFunction()};
+});
+
+function sticky_relocate() {
+  var window_top = $(window).scrollTop();
+  var div_top = $('#insight_page').offset().top;
+  var stop_top = $('#footerdiv').offset().top;
+  if (window_top > div_top && window_top < stop_top) {
+      $("#insight_page .support_leftbar").addClass("blog-stick");
+      $("#insight_page .support_articles").addClass("blog-stick");
+      // console.log("Blog Stick class added");
+  }
+  else {
+      $("#insight_page .support_leftbar").removeClass("blog-stick");
+      $("#insight_page .support_articles").removeClass("blog-stick");
+      // console.log("Blog Stick class removed");
+  }
+}
+
+$(document).ready(function () {
+    $(window).scroll(sticky_relocate);
 });
 
 // $(".trend_pairs p").each(function() {
