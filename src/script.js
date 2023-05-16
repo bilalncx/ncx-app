@@ -5,11 +5,11 @@ $(document).ready(function(){
   var height = movementStrength / $(window).height();
   var width = movementStrength / $(window).width();
   $("#defi_content").mousemove(function(e){
-            var pageX = e.pageX - ($(window).width() / 3);
-            var pageY = e.pageY - ($(window).height() / 3);
-            var newvalueX = width * pageX * -1 - 0;
-            var newvalueY = height * pageY * -1 - 5;
-            $('#defi_content').css("background-position", newvalueX+"px     "+newvalueY+"px");
+    var pageX = e.pageX - ($(window).width() / 3);
+    var pageY = e.pageY - ($(window).height() / 3);
+    var newvalueX = width * pageX * -1 - 0;
+    var newvalueY = height * pageY * -1 - 5;
+    $('#defi_content').css("background-position", newvalueX+"px     "+newvalueY+"px");
   });
 
   const details = document.querySelectorAll("details");
@@ -191,22 +191,6 @@ $(document).ready(function() {
             $("#header-row").removeClass("darkheader");
         }
     });
-
-
-    // var headera = document.querySelector("#insight_page");
-    // var sticky = headera.offsetTop+0;
-    // function myFunction() {
-    //   if (window.pageYOffset > sticky && window.pageYOffset < sticky + 18000) { // <--here
-    //     headera.classList.add("sticky");
-    //     $("#insight_page .support_leftbar").addClass("blog-stick");
-    //     $("#insight_page .support_articles").addClass("blog-stick");
-    //   } else {
-    //     headera.classList.remove("sticky");
-    //     $("#insight_page .support_leftbar").removeClass("blog-stick");
-    //     $("#insight_page .support_articles").removeClass("blog-stick");
-    //   }
-    // }
-    // window.onscroll = function() {myFunction()};
 });
 
 function sticky_relocate() {
@@ -216,14 +200,12 @@ function sticky_relocate() {
       var div_top = $('#insight_page').offset().top;
       var stop_top = $('#footerdiv').offset().top;
       if (contentNav > div_top && contentNav < stop_top) {
-          $("#insight_page .support_leftbar").addClass("blog-stick");
-          $("#insight_page .support_articles").addClass("blog-stick");
-          console.log("Blog Stick class added");
+        $("#insight_page .support_leftbar").addClass("blog-stick");
+        $("#insight_page .support_articles").addClass("blog-stick");
       }
       else {
-          $("#insight_page .support_leftbar").removeClass("blog-stick");
-          $("#insight_page .support_articles").removeClass("blog-stick");
-          console.log("Blog Stick class removed");
+        $("#insight_page .support_leftbar").removeClass("blog-stick");
+        $("#insight_page .support_articles").removeClass("blog-stick");
       }
   }
 }
@@ -231,63 +213,3 @@ function sticky_relocate() {
 $(document).ready(function () {
     $(window).scroll(sticky_relocate);
 });
-
-// $(".trend_pairs p").each(function() {
-//   var val = parseFloat($(this).text());
-//   $(this).addClass(val < 0.0 ? "negative" : "positive");
-// });
-
-// $(".latest_change h2").each(function() {
-//   var val = parseFloat($(this).text());
-//   $(this).addClass(val < 0.0 ? "negative" : "positive");
-// });
-
-// $(document).ready(function(){
-//   window.onscroll = function() {myFunctionB()};
-//     var header = document.getElementById("insight_detail");
-//     var sticky = header.offsetTop+100;
-//     function myFunctionB() {
-//       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) {
-//         header.classList.add("sticky-bar");
-//         $("#insight_detail .leftsidebar").addClass("sticky-bar");
-//         $("#insight_detail .rightsidebar").addClass("sticky-bar");
-//       } else {
-//         header.classList.remove("sticky-bar");
-//         $("#insight_detail .leftsidebar").removeClass("sticky-bar");
-//         $("#insight_detail .rightsidebar").removeClass("sticky-bar");
-//       }
-//     }
-// });
-
-// $(document).ready(function(){
-//   window.onscroll = function() {myFunction()};
-//     var header = document.getElementById("support_faq_details");
-//     var sticky = header.offsetTop+100;
-//     function myFunction() {
-//       if (window.pageYOffset > sticky && window.pageYOffset < sticky + 3000) { // <--here
-//         header.classList.add("sticky-bar");
-//         $("#support_faq_details .support_leftbar").addClass("sticky-bar");
-//         $("#support_faq_details .support_articles").addClass("sticky-bar");
-//       } else {
-//         header.classList.remove("sticky-bar");
-//         $("#support_faq_details .support_leftbar").removeClass("sticky-bar");
-//         $("#support_faq_details .support_articles").removeClass("sticky-bar");
-//       }
-//     }
-// });
-
-
-// ****************************************************************************
-// $(document).ready(function($){
-//   $(window).on('scroll', function(){
-//       if($(window).scrollTop() >= $('.widerangencxproducts').offset().top){
-//           $('.widerangencxproducts').addClass('stickyrow');
-//           $('#btn-1').addClass('active-one');
-//           $('#content-1').addClass('active-one');
-//       } else if($(window).scrollTop() <= $('.widerangencxproducts').offset().top){
-//         $('.widerangencxproducts').removeClass('stickyrow');
-//         $('.pro-tabs').removeClass('active-one');
-//         $('.pro-content').removeClass('active-one');
-//       }
-//   });
-// });
