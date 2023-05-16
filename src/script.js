@@ -209,26 +209,6 @@ $(document).ready(function() {
     // window.onscroll = function() {myFunction()};
 });
 
-function sticky_relocate() {
-  var window_top = $(window).scrollTop();
-  var div_top = $('#insight_page').offset().top;
-  var stop_top = $('#footerdiv').offset().top;
-  if (window_top > div_top && window_top < stop_top) {
-      $("#insight_page .support_leftbar").addClass("blog-stick");
-      $("#insight_page .support_articles").addClass("blog-stick");
-      // console.log("Blog Stick class added");
-  }
-  else {
-      $("#insight_page .support_leftbar").removeClass("blog-stick");
-      $("#insight_page .support_articles").removeClass("blog-stick");
-      // console.log("Blog Stick class removed");
-  }
-}
-
-$(document).ready(function () {
-    $(window).scroll(sticky_relocate);
-});
-
 // $(".trend_pairs p").each(function() {
 //   var val = parseFloat($(this).text());
 //   $(this).addClass(val < 0.0 ? "negative" : "positive");
