@@ -1325,7 +1325,7 @@
   "multilingul_support": "Multilingual Support & Customer Service",
   "available_in_countries": "Available in 180 Countries Worldwide",
   "spot_trading_pairs": "Spot & Derivatives Trading Pairs",
-  "about_text1": "NCX is a Hybrid of Centralised and Decentralized Cryptocurrency Exchange and Trading Platform, pioneering a new era of trust and transparency into the crypto market bridging the gap between traditional finance and DeFi through an cutting edge and break through platform advanced and scalable ecosystem.  NCX made its mission to help onboard billions of people into web3 with a simple, trusted & intuitive platform. NCX aims to be the all-in-one platform that allows users to easily navigate between Web2 & Web3 features.",
+  "about_text1": "NCX is a Hybrid of Centralised and Decentralized Cryptocurrency Exchange and Trading Platform, pioneering a new era of trust and transparency into the crypto market bridging the gap between traditional finance and DeFi through an cutting edge and break through platform advanced and scalable ecosystem. NCX made its mission to help onboard billions of people into web3 with a simple, trusted & intuitive platform. NCX aims to be the all-in-one platform that allows users to easily navigate between Web2 & Web3 features.",
   "about_text2": "Combining the true ownership, high grade security, on-chain transparency of Decentralised Finance with the easy fiat onramp payment options, institutional grade liquidity, low fees, versatile asset management & trading, dedicated support & accessibility and the other most advanced features of Centralised Exchange & Trading Platform.",
   "about_text3": "We strongly believe that a hybrid approach is essential in building a better future for everyone, we are helping the world move in this direction. We will achieve this by building on one side, a network of cryptocurrency projects, and on the other side, focus on developing merchants’ ability to accept crypto as a form of payment.",
   "trading_advantage": "Trading Advantages",
@@ -1600,5 +1600,23 @@
   "trade_stocks_world_indices_and_etfs_across_core_and_emerging_markets": "Trade Stocks, World Indices and ETFs across core and emerging markets",
   "efts": "EFTs",
 
-  "by_crypto_text": "Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay or Wire Transfer"
+  "by_crypto_text": "Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay or Wire Transfer",
+  "view": "View",
+  "ncx_exchange_all_in_one_crypto_exchange": "NCX Exchange All-in-One Crypto Exchange, Trading Platform & DeFi Ecosystem",
+  "launch": "Launch",
+  "ncx_web": "NCX Web",
+  "10_chains_with_ncx_cross_chain_dex": "10 Chains with NCX Cross-Chain DEX.",
+  "new_user_must_complete_at_least_one_purchase": "New User must complete at least one Purchase Transaction on NCXT Presale in Order to Receive 4,000 NCXT Bonus",
+  "referred_user_must_complete_at_least_one_purchase_transaction": "Referred User must complete at least one Purchase Transaction on NCXT Presale in Order to Receive 1,000 NCXT Referral Bonus", 
+  "ncx_ambassador_program_earn_comission_on_affiliates": "NCX Ambassador Program Earn 40-60% commission on affiliates",
+  "ncx_market_maker_program_for_professional_volume_trading_equities": "NCX Market Maker Program. For professional high volume trading entities",
+  "ncx_over_the_counter_otc_trade_in_large_blocks_with_competitive_rates": "NCX Over-the-Counter (OTC) Trade in large blocks with competitive rates",
+  "block_trades": "Block Trades",
+  "block_trades_text": "Place large orders with a minimum amount of $100,000",
+  "competitive_rates": "Competitive Rates",
+  "competitive_rates_text": "Our trading engine provides you with a custom quote instantly and securely",
+  "otc_fast_settlement_text": "Execute your trades in seconds without the involvement of a third-party",
+  "ncx_institutional_services_for_commercial_entities_funds_brokerages_xchange_hnwi": "NCX Institutional Services for Commercial Entities, Funds, Brokerages, Exchanges and HNWI",
+  "about_ncx_hybrid_cex_dex_ecosystem": "About NCX Hybrid CEX | DEX Trading Platform & DeFi Ecosystem"
+
 }

@@ -67,7 +67,7 @@ function FirstVideo()
                 </div>
                 <div className="container">
                     <div className="insse">
-                        <h1>NCX Over-the-Counter (OTC) Trade in large blocks with competitive rates</h1>
+                        <h1>{t("ncx_over_the_counter_otc_trade_in_large_blocks_with_competitive_rates")}</h1>
                         <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                     </div>
                 </div>
@@ -372,24 +372,24 @@ function FirstVideo()
                     <div className="row">
                         <div className="col first">
                             <div className="cho__log">
-                                <p>Block Trades</p>
+                                <p>{t("block_trades")}</p>
                                 <SafeArrow />
                             </div>
-                            <h1>Place large orders with a minimum amount of $100,000</h1>
+                            <h1>{t("block_trades_text")}</h1>
                         </div>
                         <div className="col second">
                             <div className="cho__log">
-                                <p>Competitive Rates</p>
+                                <p>{t("competitive_rates")}</p>
                                 <SafeArrow />
                             </div>
-                            <h1>Our trading engine provides you with a custom quote instantly and securely</h1>
+                            <h1>{t("competitive_rates_text")}</h1>
                         </div>
                         <div className="col">
                             <div className="cho__log">
                                 <p>{t("fast_settlement")}</p>
                                 <SafeArrow />
                             </div>
-                            <h1>Execute your trades in seconds without the involvement of a third-party</h1>
+                            <h1>{t("otc_fast_settlement_text")}</h1>
                         </div>
                     </div>
                 </div>

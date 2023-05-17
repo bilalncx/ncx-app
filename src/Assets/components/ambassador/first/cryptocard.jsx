@@ -48,8 +48,8 @@ function FirstVideo()
                 </div>
                 <div className="container">
                     <div className="insse">
-                        <h1><span>NCX</span> Ambassador Program Earn 40-60% commission on affiliates</h1>
-                        <Button href="mailto: support@ncx.cx">Apply</Button>
+                        <h1>{t("ncx_ambassador_program_earn_comission_on_affiliates")}</h1>
+                        <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                     </div>
                 </div>
             </div>

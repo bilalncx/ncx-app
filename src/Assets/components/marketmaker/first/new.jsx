@@ -57,8 +57,8 @@ function FirstVideo()
                 </div>
                 <div className="container">
                     <div className="insse">
-                        <h1><span>NCX</span> Market Maker Program. For professional  high volume trading entities</h1>
-                        <Button href="mailto: support@ncx.cx">Apply</Button>
+                        <h1>{t("ncx_market_maker_program_for_professional_volume_trading_equities")}</h1>
+                        <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                     </div>
                 </div>
             </div>

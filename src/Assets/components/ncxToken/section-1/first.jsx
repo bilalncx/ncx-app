@@ -83,26 +83,26 @@ function FirstSect()
                             </div>
                             {/* <Timer /> */}
                             <div className="custom__timer">
-                                <h1>Round 1 Starts in</h1>
+                                <h1>{t("round_1_starts_in")}</h1>
                                 <div className="new__timer">
                                     <div className="time">
                                         <p id="days"></p>
-                                        <span>Days</span>
+                                        <span>{t("days")}</span>
                                     </div>
                                     <div className="colon">:</div>
                                     <div className="time">
                                         <p id="hours"></p>
-                                        <span>Hours</span>
+                                        <span>{t("hours")}</span>
                                     </div>
                                     <div className="colon">:</div>
                                     <div className="time">
                                         <p id="mins"></p>
-                                        <span>Mins</span>
+                                        <span>{t("mins")}</span>
                                     </div>
                                     <div className="colon">:</div>
                                     <div className="time">
                                         <p id="secs"></p>
-                                        <span>Seconds</span>
+                                        <span>{t("seconds")}</span>
                                     </div>
                                     <div className="times__up">
                                         <p id="end"></p>

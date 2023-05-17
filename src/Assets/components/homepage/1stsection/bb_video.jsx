@@ -33,7 +33,7 @@ function NCXAPPSection()
                     <div className="row">
                         <div className="col">
                             <div className="apps_barcod">
-                                <h1>NCX Exchange All-in-One Crypto Exchange, Trading Platform & DeFi Ecosystem</h1>
+                                <h1>{t("ncx_exchange_all_in_one_crypto_exchange")}</h1>
                                 <div className="barcodd">
                                     <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
                                     <p>{t("scan_to_download_ncx_app")}</p>

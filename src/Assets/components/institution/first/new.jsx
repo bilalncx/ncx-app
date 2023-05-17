@@ -56,8 +56,8 @@ function FirstVideo()
                 </div>
                 <div className="container">
                     <div className="insse">
-                        <h1>NCX Institutional Services for Commercial Entities, Funds, Brokerages, Exchanges and HNWI</h1>
-                        <Button href="mailto: support@ncx.cx">Apply</Button>
+                        <h1>{t("ncx_institutional_services_for_commercial_entities_funds_brokerages_xchange_hnwi")}</h1>
+                        <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@ function FirstVideo()
                 </CarouselProvider> */}
                 <div className="col card_txt">
                     <div className="inns-div">
-                        <h1>NCX Institutional Services for Commercial Entities, Funds, Brokerages, Exchanges and HNWI</h1>
+                        <h1>{t("ncx_institutional_services_for_commercial_entities_funds_brokerages_xchange_hnwi")}</h1>
                         {/* <div className="bbttn">
                             <Button href="#" className="card_apply">{t("apply_now")}</Button>
                             <Button href="#solutions_institutional" className="card_learn">{t("learn_more")}</Button>
