@@ -68,7 +68,7 @@ function FirstVideo()
                 <div className="container">
                     <div className="insse">
                         <h1>NCX Over-the-Counter (OTC) Trade in large blocks with competitive rates</h1>
-                        <Button href="mailto: support@ncx.cx">Apply</Button>
+                        <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                     </div>
                 </div>
             </div>
@@ -368,6 +368,7 @@ function FirstVideo()
                     <h1 className="why__otc">{t("why_choose_otc")}</h1>
                     {/* <h3 className="mbl__why_otc">Why Choose</h3>
                     <h3 className="mbl__why_otc line">NCX OTC</h3> */}
+                    {/* <h1 className="why__otc">Why choose NCX OTC</h1> */}
                     <div className="row">
                         <div className="col first">
                             <div className="cho__log">
