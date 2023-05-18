@@ -1,4 +1,73 @@
 const data = [
+  {
+    id: 517,
+    title: 'USD/JPY Forecast – US Dollar Continues to Stabilize After Move Higher',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has pulled back just a bit against the Japanese yen during the session Tuesday, as we continue to see the uptrend play out, and traders come in to try to stabilize the move higher.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 16, 2023 - 5:19 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-534.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar has pulled back just a bit against the Japanese yen during the session Tuesday, as we continue to see the uptrend play out, and traders come in to try to stabilize the move higher. Ultimately, this comes down to interest-rate differential between the Federal Reserve and the Bank of Japan, which of course is currently working with each yield curve control policy. In this environment, it’s difficult to imagine a scenario where the pair changes its overall attitude, which has been building and ascending triangle, showing signs of building even further upward pressure. If we could break above the ¥138 level, it will kick off a much bigger move.</p>
+    	<p>The 50-Day EMA sits underneath, with the 200-Day EMA just underneath there. This all revolves around the ¥134 level, so at this point as long as we can stay above there, we should see plenty of bullish behavior. If we were to break down below this moving averages, then we would test the bottom of the ascending triangle, which of course should have plenty of support. Anything breaking that triangle would completely change the picture in this pair.</p>	
+    	<p>If the market were to break above the ¥138 level on a daily close, I believe that the market could go much higher, perhaps to the ¥148 level before it is all said and done. As the Bank of Japan looks like it is going to stay ultra-loose with its monetary policy and has to flood the market with Japanese yen occasionally to buy bonds, it’s likely that we will continue to see more upward pressure than anything else.</p>	
+    	<p>However, a lot of noisy behavior would be expected along the way, as is pair is very sensitive to interest-rate differential and all economic announcements that give us a bit of a heads-up as to where interest rates may go. It’s also worth noting that the market is doing everything it can to convince himself that the Federal Reserve is going to have to loosen monetary policy sooner rather than later. Although this is probably not true, it certainly has a major influence on this pair.</p>
+    </div>
+  },
+  {
+    id: 516,
+    title: 'GBP to USD Forecast – Pound Continues to Reach for the Upside',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has gone back and forth during the trading session on Tuesday, as the 50-Day EMA underneath continues to offer a little bit of support, but at the end of the day, there’s probably even more support at the 1.2350 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 16, 2023 - 5:12 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-535.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has gone back and forth during the trading session on Tuesday, as the 50-Day EMA underneath continues to offer a little bit of support, but at the end of the day, there’s probably even more support at the 1.2350 level. The 1.2550 level above offers a little bit of resistance, and the market seems as if it is happy to chop back and forth in this area. With that being the case, the market is likely to continue seeing a lot of volatility and uncertainty, and that does make a certain amount of sense considering everything that’s going on with the debt ceiling situation in the United States and of course, the overall economic uncertainty around the world.</p>
+	    <p>Looking at this chart, it’s obvious that we have been very noisy for a while, and I don’t think that changes anytime soon. Ultimately, this is a situation where remains “buy on the dips”, but if we were to break down below the 1.2350 level, it could change quite a few things. In that scenario, the 200-Day EMA would almost certainly be tested, sitting near the 1.2250 level, and then after that we could drop as far as the 1.1850 level.</p>	
+	    <p>Either way, this is going to be an interesting market to follow, because there is a huge inflation battle in the United Kingdom, while at the same time there are questions out there about whether or not the Federal Reserve can stay tight forever. I doubt they can, but at this point in time it’s very likely that they will stay tight for much longer than the market give them credit for.</p>	
+	    <p>Ultimately, if we do eventually break out to the upside, clearing the 1.27 level would be the first major hurdle to get beyond. If we do, then it opens up the possibility of the British pound trading at 1.30 eventually, which of course is a large, round, psychologically significant number that would attract a lot of headlines. If that happens, it’s probably going to be in an environment where the US dollar sells off in general.</p>
+    </div>
+  },
+  {
+    id: 515,
+    title: 'EUR/USD Forecast – Euro Testing 50 Day EMA',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro initially tried to rally during the session on Tuesday but gave back gains as we continue to see a lot of noisy behavior around the 50-Day EMA.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 16, 2023 - 5:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-536.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The euro initially tried to rally during the session on Tuesday but gave back gains as we continue to see a lot of noisy behavior around the 50-Day EMA. The 1.09 level has been important previously, so it should not be a huge surprise to see it act as a bit of a barrier, especially considering that the 50-Day EMA sits right there as well.</p>
+	    <p>Ultimately, this is a market that I think given enough time will have to make a bigger decision, but it’s obvious that we are in an area that is going to be hotly contested. This makes sense, considering that there is so much in the way of confusion economically, and of course traders around the world continue to build their own narrative as to what the central banks are going to do.</p>	
+    	<p>Underneath, the 1.08 level does offer a certain amount of support, and if we were to break down below there it’s likely that the market could drop down to the 200-Day EMA, which sits near the 1.07 level. The 200-Day EMA attracts a lot of attention as a trend defining indicator, so it does make a certain amount of sense that we would expect to see volatility if we do drop to that area. We have seen a lot of negativity in the euro recently, but at the end of the day, the US dollar has been oversold for a while so this should not be a huge surprise.</p>	
+	    <p>Ultimately, choppy volatility will probably continue to be the way forward, especially as we head into the summer time, and volumes may drop a bit. Either way, it does look like we probably have more downward pressure than up in the short time, so therefore I lean toward fading rallies, but I would not get too heavy in a position, regardless of the direction you choose. With this, short-term charges will probably be favored, with a shorter-term bias of “fade the rally” as the markets continue to see a lot of uncertainty, perhaps driving more money back into the US dollar. Keep in mind, you cannot get married to anyone position in this environment.</p>
+    </div>
+  },
   {   
     id: 514,
     title: 'USD/JPY Weekly Forecast – US Dollar Bounces for the Week',

@@ -1,5 +1,96 @@
 const data = [
   {
+    id: 525,
+    title: 'XRP gains as SEC motion denied; NFT index down; US investors anticipate debt ceiling deal',
+    category: 'Crypto',
+    subCategory: ['XRP', 'SEC', 'US'],
+    description: <div className="blog-desc">
+      <p>Bitcoin prices fell on Wednesday morning in Asia but remained above the US$27,000 line. Ether gained but still posted a weekly drop.</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 17, 2023 - 5:25 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-528.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin prices fell on Wednesday morning in Asia but remained above the US$27,000 line. Ether gained but still posted a weekly drop. XRP led gainers among other top 10 non-stablecoin cryptocurrencies on the back of a favorable ruling for Ripple Labs in its lawsuit with the Securities and Exchange Commission (SEC). U.S. equity futures gained as U.S. President Joe Biden and Congress reportedly made progress on raising the debt ceiling.</p>
+    	<p><strong>Ripple gains after positive ruling</strong></p>	
+    	<p>Bitcoin fell 0.87% to US$27,036.75 in the 24 hours to 7:35 a.m. in Hong Kong, but lost 2.05% over the last seven days according to CoinMarketCap data.</p>	
+    	<p>Ether edged up 0.28% to US$1,825.91, while posting a 1.10% weekly loss.</p>
+      <p>Other top 10 non-stablecoin cryptocurrencies traded mixed on Wednesday morning. XRP led the gains, adding 2.68% to US$0.4399.</p>
+      <p>The gain follows positive news for Ripple Labs, a payments firm that depends on XRP technology, as Judge Analisa Torres for the U.S. District Court for the Southern District of New York denied the SEC’s motion to seal the controversial Hinman Speech documents from the public.</p>
+      <p>The document refers to a speech given by former SEC official William Hinman on June 14, 2018. In the speech, Hinman stated that the agency did not view Bitcoin or Ethereum as securities. This statement is a major point of focus in the long-running legal battle between Ripple and the SEC. The regulator accuses Ripple of providing unregistered securities.</p>
+      <p>Meanwhile, Polygon’s Matic led losses among the top 10 non-stablecoins. It registered a loss of 2.21% to US$0.8442, with a 3.56% drop over the past seven days.</p>
+      <p>The total crypto market capitalization fell 0.93% in the past 24 hours to US$1.13 trillion. The total trading volume also lost 7% to US$28.74 billion.</p>
+      <p><strong>Bitcoin to challenge Ethereum’s NFT supremacy?</strong></p>
+      <h3>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</h3>
+      <p>In the non-fungible token market, the Forkast 500 NFT index recorded a loss of 0.13% to 3,378.53 points in the 24 hours to 7:30 a.m. in Hong Kong, down 2.32% during the week.</p>
+      <p>This, said CryptoSlam NFT analyst Yehudah Petscher, can again be attributed to “low volume and high transacting fees from crypto trading.”</p>
+      <p>24-hour NFT sales on Ethereum, the leading blockchain for NFTs, rose 2.16% to US$18.6 million. Sales on the Bitcoin blockchain took second place on Cryptoslam’s blockchain ranking by gaining 32.11% to US$4.6 million.</p>
+      <p>“Bitcoin NFTs are just getting started and in the long run, I expect Bitcoin to compete head-to-head with Ethereum’s all-time sales. It may actually exceed them too,” Yehudah said.</p>
+      <p>The Bored Ape Yacht Club NFT collection recorded the highest sales volume in the last 24 hours. It rose 8% to US$2.48 million. All 24 highest individual NFT sales in the past day were Bored Ape Yacht Club NFTs according to Cryptoslam. BAYC #466 sold for 98 ETH (US$178,751).</p>
+      <p>Milady Maker was second in terms of NFT collection rankings by sales volume on Cryptoslam. It recorded a surge of 207.61% over the past 24 hours to US$1.3 million. The collection took the market by storm last week after Twitter and Tesla chief Elon Musk tweeted an image containing the Milady NFT.</p>
+      <p>Traders can expect a slow week ahead in the NFT market as many in the NFT community attend the VeeCon Web3 conference in Indianapolis on May 18-20.</p>
+      <p>“Those who believe NFTs can function as access passes, art, and collectibles all in one are in for a treat,” said Cryptoslam’s Yehudah. “I’m expecting markets to be slow while many are off networking, but we also know that degens are going to degen.”</p>
+      <p><strong>U.S. stock futures gain after positive debt ceiling talks</strong></p>
+      <p>U.S. stock futures traded higher as of 9:30 a.m. in Hong Kong, while the Dow Jones Industrial Average futures rose 0.15%. The S&P 500 futures added 0.19%. The Nasdaq Composite futures also gained 0.24% as investors anticipate a solution to the U.S. debt crisis.</p>
+      <p>U.S. President Joe Biden met with leaders of Congress Tuesday to hash out an agreement that would allow a rise in the debt ceiling..</p>
+      <p>On May 1, U.S. Treasury Secretary Janet Yellen warned Congress that the country will start to fail to meet debt payment obligations as early as June 1. That would result in a debt default and wider economic repercussions in the U.S. and globally.</p>
+      <p>After the one-hour talk at the White House Tuesday, Biden told reporters that the discussion was productive. House Representative Kevin McCarthy appeared to agree. He said it is possible to reach an agreement on raising the debt ceiling by the end of this week.</p>
+      <p>Yellen warned again Tuesday that a debt default would result in an income shock that could lead to a recession. This would destroy jobs and businesses in the country, she said. The Treasury leader called for faster action on raising the debt ceiling. She added that the country is already seeing a heavier debt burden as the stalemate drives borrowing costs higher.</p>
+      <p>The Dow Jones, S&P 500 and Nasdaq Composite each posted losses during regular trading on Tuesday following earnings report releases earlier in the day. Major retailer Home Depot’s revenue dropped 4.2% year on year in the first quarter. Company executives warned investors it may see its first annual sales decline since 2009.</p>
+      <p>Investors now await more earnings reports from Tencent Holdings, Cisco Inc., Siemens AG, Target Corp. and more on Wednesday.</p>
+      <p>Federal Reserve Chair Jerome Powell is expected to share his views on interest hikes Friday ahead of the Fed’s next interest rate decision on June 14. The rate of between 5 and 5.25% is the highest since 2006. The CME FedWatch Tool predicts a 77.5% chance the Fed will keep rates unchanged in June. However, it also predicts a 22.5% chance for another 25 basis-point rate hike.</p>
+    </div>
+  },
+  {
+    id: 524,
+    title: 'Bitcoin, Ether fall, Solana leads declines; U.S. stock futures trade flat; Asian equities mixed',
+    category: 'Crypto',
+    subCategory: ['BTC', 'ETH', 'Salona'],
+    description: <div className="blog-desc">
+      <p>Bitcoin, Ether fell in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies traded mixed.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 16, 2023 - 3:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-529.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin, Ether fell in Tuesday afternoon trade in Asia, while all other top 10 non-stablecoin cryptocurrencies traded mixed. Solana was the biggest loser in 24 hours while Litecoin rose the most. European bourses were mixed while U.S. stock futures mostly traded flat. Asian equities were mixed after industrial output in China fell short of expectations, raising doubts over its economic recovery after three years of pandemic-induced disruptions.</p>
+	    <p><strong>Top 10 cryptos trade mixed</strong></p>
+      <p>Bitcoin fell 0.58% to US$27,261 in 24 hours to 4 p.m. in Hong Kong, after losing 1.51% on the week, according to CoinMarketCap. The world’s biggest cryptocurrency has been experiencing network congestion and upward pressure on transaction costs due to the popularity of Bitcoin Ordinals and the increased interest in BRC-20 memecoins like Pepe.</p>	
+	    <p>Ether, the second-biggest cryptocurrency in the world, dropped 0.36% to US$1,822 and declined 1.48% on the week.</p>	
+	    <p>Solana was the biggest loser of the day, dropping 1.67% to US$21.05, but gained 1.65% in the last seven days. Cardano’s ADA token was the second-biggest loser in 24 hours, falling 1.59% to US$0.3683, but is still up 0.91% on the week.</p>
+      <p>Litecoin rose the most, gaining 1.65% to US$88.70, bringing its weekly gains to 12.6%. Like Bitcoin, Litecoin has a finite supply and works on a proof-of-work model. It faced a surge in interest due to the higher transaction fees affecting Bitcoin.</p>
+      <p>The cryptocurrency is having its quadrennial block halving event on Aug. 3. Halving refers to a pre-programmed reduction of the rate at which new tokens are created, which reduces supply and can drive prices higher.</p>
+      <p>The global crypto market capitalization dropped 0.91% to US$1.13 trillion, while the total crypto market volume rose 1.81% to US$28.36 billion in 24 hours.</p>
+      <p><strong>Bored Apes boost Ethereum NFT sales</strong></p>
+      <h3>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</h3>
+      <p>In the NFT market, the Forkast 500 NFT index increased 0.82% to 3,377.81 points in the 24 hours to 4:30 p.m. in Hong Kong, but declined 3.15% during the week.</p>
+      <p>24-hour NFT sales on Ethereum increased by 18.74% to US$18 million, boosted by a 390.38% sales surge for the Bored Ape Yacht Club, which generated US$2.9 million in sales for the network. 24-hour sales for the Mutant Ape Yacht Club were also up 401.44% to US$1.9 million, while sales for The Captainz collection rose 163.09% to US$1.4 million.</p>
+      <p>As for the day’s largest NFT sales, Bored Ape #4980 sold for US$969,903 and DeGod #3251 sold for US$180,799, according to CryptoSlam data.</p>
+      <p>“The weather in NFTs has been perfect, with good news from established projects, hot tech, a bit of money in traders’ pockets from trading meme coins, and a well-timed tweet from none other than the current (and soon-to-be former) chief executive officer of Twitter, Elon Musk,” according to Yehudah Petscher, an NFT strategist at Forkast Labs.</p>
+      <p><strong>Asian equities mixed after China’s industrial output disappoints</strong></p>
+      <p>Asian equity markets were mixed on Tuesday after China’s industrial production expanded by 5.6% year-on-year in April, missing market forecasts of about 10.9%, indicating that the economy is yet to fully recover after the removal of pandemic restrictions.</p>
+      <p>Unemployment for 16-to-24-year-olds in the world’s second-biggest economy hit a record high of 20.4% in April, nearly four times higher than unemployment across all age groups, signaling that the health of the economy is not strong enough to absorb new entrants into the labor market.</p>
+      <p>“Rising demand from China as its economy reopens could cause oil prices to climb and energy inflation to pick up again as we head into 2024. This would be against a backdrop of OPEC+ production cuts and geo-political tensions,” said David Rees, senior emerging markets economist at Schroders, said in an emailed statement.</p>
+      <p>“Core inflation is still well above target in most major emerging markets, particularly in Latin America and Central Eastern Europe, but it has at least stopped rising, and slower economic growth as higher interest rates bite ought to gradually bring down core inflation,” Rees added.</p>
+      <p>The Shanghai Composite dropped 0.6%, the Shenzhen Component Index slipped 0.71% while Hong Kong’s Hang Seng Index gained 0.04%. Japan’s Nikkei 225 strengthened 0.73% on Tuesday to close at an 18-month high, extending a climb towards its highest since the early 1990s, aided by strong corporate earnings and signs of easing inflationary pressure.</p>
+      <p>U.S. stock futures were mostly trading flat as of 4:30 p.m. in Hong Kong. The S&P 500 futures index inched down 0.078%, the tech-heavy Nasdaq-100 futures inched up 0.0093% and the Dow Jones Industrial Average futures decreased 0.084%.</p>
+      <p>Investors were optimistic about Atlanta Fed President Raphael Bostic and Chicago Fed boss Austan Goolsbee signaling their intent to pause interest rate hikes in the world’s largest economy.</p>
+      <p>Goolsbee hopes to await the effects of increases aimed at lowering inflation from multi-decade highs. While Bostic also favors a pause on rate hikes for now, he suggested that the next move is likely to raise rates instead of lowering it, in light of persistent price pressures.</p>
+      <p>Investors are now looking ahead at President Joe Biden’s negotiations with congressional leaders on raising the U.S. debt ceiling to keep the government solvent. The negotiations are set to resume on Tuesday. The U.S. treasury reiterated on Monday that it expects to default by June 1, without a debt limit increase.</p>
+      <p>Pressured by the prospect of a government default, the U.S. dollar fell 0.17% to 102.2 points on Tuesday. The euro gained ground, increasing 0.22% to US$1.08, remaining close to its 12-month high of US$1.10.</p>
+      <p>European bourses were mixed, despite data showing that Europe’s economy grew by a modest 0.1% in the first quarter while employment grew 0.4%, according to Eurostat. The pan-European STOXX 600 fell 0.11% while Germany’s DAX 40 inched up 0.095%.</p>
+      <p>Markets were also weighed down by the release of the ZEW Indicator of Economic Sentiment amid already unfavorable economic sentiment over the next six months. ZEW’s measure of investor morale fell to -10.7 in May, the first negative since December 2022. The indicator declined from 4.1 in April and fell more than analyst expectations that predicted a decline to -5.</p>
+    </div>
+  },
+  {
     id: 523,
     title: 'Bitcoin, Ether fall along with most top 10 cryptos; U.S. futures rise ahead of debt ceiling negotiations',
     category: 'Crypto',
