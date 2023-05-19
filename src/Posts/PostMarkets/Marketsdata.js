@@ -1,5 +1,143 @@
 const data = [
   {
+    id: 516,
+    title: 'Dow Jones Futures: S&P 500 Hits 2023 High As Nvidia, Netflix, Palantir Soar, But Dont Do This',
+    category: 'Markets',
+    subCategory: ['Dow Jones', 'S&P', 'Nnvidia'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures rose slightly early Friday, along with S&P 500 futures and Nasdaq futures.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 19, 2023 - 3:46 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-544.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Dow Jones futures rose slightly early Friday, along with S&P 500 futures and Nasdaq futures.</p>
+	    <p>Applied Materials (AMAT) headlined earnings reports Thursday night.</p>	
+	    <p>The stock market rally continued to advance Thursday amid debt-ceiling deal hopes. Big techs dominated. The Nasdaq composite led, with the Nasdaq 100 powering to a 52-week high. The S&P 500 hit its best levels of the year. Thursday's gains were top heavy, but the Dow Jones and market breadth were mildly positive.</p>	
+	    <p>Netflix (NFLX) and  Synopsys (SNPS) each leapt 9% Thursday and Palantir Technologies (PLTR) rocketed nearly 15%, all surging out of bases and past buy zones. Cadence Design Systems (CDNS) made a powerful move and Dynatrace (DT) broke out.</p>
+      <p>Nvidia (NVDA) spiked 5%, starting to go vertical ahead of earnings next week. ServiceNow (NOW) kept rising to just beyond a buy zone and is up 12% so far this week.</p>
+      <p>There are buying opportunities, but resist FOMO.</p>
+      <p>Don't chase stocks if they getting extended. A pullback in the broader market or in techs wouldn't be a surprise.</p>
+      <p>More Federal Reserve speakers are on tap Friday, including Fed chief Jerome Powell.</p>
+      <h3>Applied Materials Earnings</h3>
+      <p>AMAT stock fell slightly in premarket trading after Applied Materials earnings topped fiscal Q2 views. The chip gear maker gave Q3 guidance with midpoints that topped consensus. Applied Materials stock rose 3.4% in Thursday's session to 129.92, moving above a 125.72 cup-base buy point. On Monday, AMAT stock cleared an early entry as it broke above the 50-day line. But the looming earnings made those entries risky.</p>
+      <p>Fellow semiconductor equipment giants KLA Corp. (KLAC) and Lam Research (LRCX) lost a fraction while ASML (ASML) edged higher. ASML stock broke out Thursday while LRCX stock is now extended. KLAC stock, which flashed an early entry on Monday, ran up toward an official buy point but is extended from its 50-day line.</p>
+      <p>Separately, Foot Locker (FL) plunged after the athletic shoe and apparel retailer missed Q1 views and slashed full-year guidance. Nike (NKE) and Dick's Sporting Goods (DKS) fell modestly.</p>
+      <p>ASML stock and Nvidia are on IBD Leaderboard. LRCX stock and Cadence Design are on SwingTrader. KLAC stock, Cadence Design and Synopsys are IBD Long-Term Leaders. NOW stock is on the IBD 50. ServiceNow and CDNS stock are on the IBD Big Cap 20.</p>
+      <p>The video embedded in the article highlighted Thursday's tech-led market rally and analyzed Cadence Design, ASML and NFLX stock.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.3% vs. fair value. S&P 500 futures climbed 0.3% and Nasdaq 100 futures climbed 0.1%.</p>
+      <p>Crude oil futures rose more than 1%. So did copper futures.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>Large tech stocks dominated Thursday's stock market rally, but the major indexes all advanced.</p>
+      <p>The Dow Jones Industrial Average rose 0.3% in Thursday's stock market trading. The S&P 500 index popped 0.9%. The Nasdaq composite jumped 1.5%. The small-cap Russell 2000 climbed 0.6%.</p>
+      <p>U.S. crude oil prices fell 1.3% to $71.86 a barrel.</p>
+      <p>The 10-year Treasury yield popped 7 basis points to 3.65%, a two-month high. The U.S. dollar continued its big run over the past couple of weeks, hitting a two-month high.</p>
+      <p>Stronger economic data, along with easing banking and U.S. debt-ceiling fears, is reviving the possibility of further Fed rate hikes. Fed policymakers continued to signal they're not ready to declare a halt. The odds of a June 14 rate hike have climbed to 36% on Thursday from 28% on Wednesday and 11% a week earlier. The odds kept rising early Friday.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) rose 1.3%. The iShares Expanded Tech-Software Sector ETF (IGV) jumped 2.4%. ServiceNow stock is a big IGV component. The VanEck Vectors Semiconductor ETF (SMH) leapt 3.5%. AMAT stock and Nvidia are big SMH holdings, along with ASML, LRCX and KLAC.</p>
+      <p>Cadence Design Systems and SNPS stock are in IGV and SMH.</p>
+      <p>Reflecting stocks with more speculative stories, the ARK Innovation ETF (ARKK) climbed 1.4% and ARK Genomics (ARKG) advanced 0.7%. Ark Invest disclosed it bought 1.26 million PLTR shares on Wednesday.</p>
+      <p>The SPDR S&P Metals & Mining ETF (XME) dipped 0.2%. U.S. Global Jets (JETS) ascended 0.3%. SPDR S&P Homebuilders (XHB) climbed 1.7%. The Energy Select SPDR ETF (XLE) advanced 0.7%, and the Health Care Select Sector SPDR Fund (XLV) dipped 0.2%.</p>
+      <p>The Financial Select SPDR ETF (XLF) rose 0.7%. The SPDR S&P Regional Banking ETF (KRE) climbed 0.6%.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally advanced Thursday but remains reliant on big-cap tech. The Nasdaq composite ran to nine-month highs. The Nasdaq 100, which includes the 100 largest nonfinancial Nasdaq components, shot up past its August peak to hit a 52-week high.</p>
+      <p>The S&P 500 ran up to clear its February and May peaks, hitting its best levels since last August.</p>
+      <p>The Dow Jones retreated for much of the session, but rallied late to top its 21-day line.</p>
+      <p>Winning stocks outpaced losers Thursday, though not by much, especially on the Nasdaq. New highs outpaced new lows, in the best showing in weeks.</p>
+      <p>The equal-weight ETFs were encouraging. The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) jumped 1.6%, following Wednesday's 1.2% move from near the 50-day line. That reflects strength in big-cap chip and software names beyond the megacaps.</p>
+      <p>The Invesco S&P 500 Equal Weight ETF (RSP) climbed 0.8%, closing above its 50-day and 200-day lines for the first time since May 1. But RSP is a long way from its 2023 highs.</p>
+      <p>The Nasdaq and Nasdaq 100 by some measures may be due for a pullback, though that doesn't have to happen overnight. Many tech stocks, including Nvidia, look extended and could use a breather. Others — such as ServiceNow, Synopsys and Palantir — appear extended from a buying perspective.</p>
+      <p>A stronger dollar and higher Treasury yields should be a negative, especially for highly valued growth stocks, but that hasn't hit techs recently.</p>
+      <p>Can the Nasdaq 100 pull the rest of the market higher, with gains broadening out? That's what happened on Thursday.  Or will the broad market drag down big-cap techs?</p>
+      <p>Adding to the uncertainty, the market faces rotation in macro concerns. For months, Wall Street was obsessed with inflation and Fed rate hikes. Then it switched to banking fears and recession risk, with maybe some debt-ceiling concerns recently. Now there's a bit of a shift back to Fed worries, as well as a stronger dollar.</p>
+      <h3>What To Do Now</h3>
+      <p>If you're in Nvidia, Palantir, ServiceNow and other big winners, you may be getting exuberant. Have a strategy for taking profits, either on the way up or down.</p>
+      <p>If you're watching big winners fly by, you'll feel the pull of FOMO. Keep your emotions in check and stick to your rules.</p>
+      <p>Whatever you do, don't chase extended stocks, especially now.</p>
+      <p>Have your watchlists ready, paying special attention to a select group of names that are close to breakouts. Set alerts. Doing this work ahead of time means you'll be ready to act when stocks do flash buy signals.</p>
+    </div>
+  },
+  {
+    id: 515,
+    title: 'Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus',
+    category: 'Markets',
+    subCategory: ['Nnvidia', 'AMD', 'Micron'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Shares in Nvdia Corp, Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 19, 2023 - 1:57 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-543.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>(Reuters) - Shares in Nvdia Corp, Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan.</p>
+	    <p>Shares in chip design software company Synopsys shares ended up 8.7% after it forecast better-than-expected third-quarter profit estimates, saying increased use of AI and automation boosted its business.</p>	
+	    <p>Nvidia shares were up 5.0%, while the Philadelphia semiconductor index gained 3.2%.</p>	
+     	<p>Micron's shares climbed 4.1% after announcing it would invest up to 500 billion yen ($3.70 billion) in extreme ultraviolet (EUV) technology in Japan in the next few years with Japanese government support.</p>
+      <p>Japan's President Fumio Kishida asked executives from companies, such as Micron, Intel Corp and Taiwan Semiconductor (TSMC), to invest in Japan ahead of a three-day Group of Seven (G7) summit in Hiroshima, where member countries will discuss what they see as China's economically coercive policies and its accumulation of sensitive technology.</p>
+      <p>Kim Forrest, chief investment officer at Bokeh Capital Partners in Pittsburgh put Thursday's rally down to continued investor interest in the emergence of artificial intelligence as the hottest new technology, more so than the news from Japan.</p>
+      <p>"While it's encouraging that companies and countries are working together to expand capacity, for investors when companies are building new plants, it's generally not rewarding in the short term because that's where all the free cash flow goes," said Forrest.</p>
+      <p>The money manager, who also cited Synopsys results as a positive sign for the chip sector, however, noted that investors see chips as the part of the AI story they can buy into today as "there's no one company you can buy that's the lynchpin" for AI.</p>
+      <p>AMD shares were up 4.0% while Intel added 2.8%. Nvidia, which is up 116% so far in 2023, is due to report quarterly results on May 24.</p>
+      <p>Nvidia shares hit highest level since December 2021 while Micron shares touched highest point since June 2022.</p>
+      <p>Trailing behind the chip sector, the S&P 500 technology index was up 2.1% and the S&P 500 growth index rose at a slower 1.0% pace.</p>
+      <p>(Reporting By Sinéad Carew; Editing by Marguerita Choy)</p> 
+    </div>
+  },
+  {
+    id: 514,
+    title: 'Wall Streets Biggest Banks Face a Harsh Reality Check in China',
+    category: 'Markets',
+    subCategory: ['Wall street', 'Banks', 'China'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- More than three years after China’s grand financial opening, it’s becoming clear to Wall Street giants that their dreams of windfall profits from the $60 trillion market are more elusive than ever.</p>
+    </div>,
+    authorName: 'Cathy Chan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 17, 2023 - 3:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-531.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- More than three years after China’s grand financial opening, it’s becoming clear to Wall Street giants that their dreams of windfall profits from the $60 trillion market are more elusive than ever.</p>
+    	<p>Goldman Sachs Group Inc. and Morgan Stanley are among banks scaling back ambitious expansion plans and profit goals as a deteriorating geopolitical climate and the increasingly authoritarian direction of President Xi Jinping rock the private sector and throttle dealmaking. More drastic jobs cuts are being eyed at the biggest banks, according to senior executives who asked not to be identified discussing private matters.</p>	
+    	<p>Goldman Sachs, which was ahead of targets in 2021 after revenue surged, has revised projections on its five-year plan after the country’s business environment drastically changed. Morgan Stanley is opting not to build an onshore brokerage for now, making a smaller bet of about $150 million on derivatives and futures businesses. The firm is planning another round of job cuts affecting 7% of its Asia-Pacific investment bankers as soon as this week, people familiar said, joining JPMorgan Chase & Co. and rivals in reducing China-dedicated headcount earlier this year.</p>	
+    	<p>The moves mark an about face for many of the Wall Street giants, which as recently as 18 months ago were sticking to plans to take on China’s massive banks on their home turf and were more concerned about finding enough local talent to drive the expansion. For many firms, there’s now a realization that they need a fundamental rethink on the world’s No. 2 economy because the business climate has weakened significantly and the best opportunities for making outsized profits in the country are over, according to the senior executives.</p>
+      <p>``This changing calculus makes the cost of doing business in China higher and the rewards much lower,’’ said finance professor Mark Williams at Boston University. ``These global banks are vulnerable to political actions that could inflict material financial harm to their franchises and to shareholders.’’</p>
+      <p>While many banks are eliminating jobs globally, the cuts in China are the biggest in years and in many cases are relatively deeper than the rest of the world, the people said. China’s economy is struggling to get back on its feet after years of Covid restrictions and crackdowns on everything from financial technology to private education and real estate. In all, at least 100 China-focused jobs were lost since September. Goldman alone let go of more than a 10th of its workforce on the mainland after doubling headcount to over 600 to build up its business, the people said.Representatives at Goldman Sachs, JPMorgan and Morgan Stanley declined to comment.</p>
+      <p>More Pessimism</p>
+      <p>China has enacted the most sweeping changes in decades for its financial services, allowing foreign firms full ownership of insurers, banks, brokers and asset managers as President Xi seeks to cushion the economy from the steepest slowdown since the early 1990s amid a trade dispute with the US. Yet the country’s state-owned players are well-entrenched across all these segments after learning from their joint venture partners for years, making it hard for global firms to compete.</p>
+      <p>“The Chinese banks totally dominate the market,” said Dick Bove, a long-time bank analyst and chief financial strategist at Odeon Capital Group in New York, adding the domestic firms now have “little need for American expertise.”</p>
+      <p>The stakes are high for the international banks in a market long viewed as the final frontier for big fees on everything from mergers to stocks sales and trading. JPMorgan, Citigroup Inc., Bank of America Corp. and Morgan Stanley had combined China exposure of $48 billion in 2022, though that’s down 16% from the previous year. The banks have spent more than $4 billion in recent years upping or acquiring controlling stakes in their securities and asset management joint ventures, banking on future growth, according to Bloomberg calculations.</p>
+      <p>The backdrop of a more fractured geopolitical landscape means Wall Street firms have to strike an increasingly delicate balance. Publicly, everyone’s saying the same thing: China is still a massive opportunity and they have no plans to pull out, especially since so much money has already been spent. Privately, Wall Street executives are saying it’s difficult to maintain good standing with both sides as tensions repeatedly flare. That could get tougher as the US election cycle approaches — China policy is poised to be a major topic on both sides of the political aisle, all but guaranteeing more drama.</p>
+      <p>As a result, bank executives are increasing scrutiny of credit and market risks, peppering senior managers in Asia with questions on their liquidity and the potential for clients to be ensnared by US sanctions, the people said. The further away bankers sit from China, the more pessimistic they are, they added.</p>
+      <p>"Wall Street banks should have factored in geopolitical risks a long time ago," said Chen Zhiwu, a professor of finance at the University of Hong Kong Business School. “Over the next five years, the best case scenario for them is that China reverses direction and goes back to real open-door policy and market reforms, revitalizing the business environment. This is an extremely unlikely scenario but not impossible.”</p>
+      <p>The uncertain outlook has prompted Morgan Stanley to pursue China business out of Hong Kong for years and the financial hub will continue to be the main beachhead even as it builds out some onshore bank and asset management units and applies for research and market-making licenses, the people said. China accounted for less than half of the bank’s investment-banking revenue from Asia-Pacific last year, compared with about 60% in previous years, a person familiar said.</p>
+      <p>The Wall Street firms face headwinds on several fronts. The biggest revenue driver over the past decades — taking Chinese firms public in New York — has all but dried up. Xi has tightened listing rules to keep companies at home while the US has cracked down on Chinese firms over accounting. That’s put initial public offerings on hold and prompted some bellwether stocks such as PetroChina Co. and the two largest airlines to seek delistings in New York.</p>
+      <p>Overseas Chinese equity deals slumped to just $19 billion in 2022, a far cry from more than $120 billion in 2020 and 2021, when banks including UBS Group AG, Morgan Stanley and Goldman topped the rankings. While deals are starting to pick up again, bankers said many listings can’t be executed because investors are reluctant to pay up while Chinese firms are unwilling to sell low, according to senior staff handling the offerings.</p>
+      <p>Global banks have also made few inroads into the highly competitive domestic market. Goldman ranked 13th for arranging stock sales in China last year, trailing 12 local banks. The offshore bond market, once a key driver of fees for underwriters like HSBC Holdings Plc and Goldman, has cratered after defaults by many China property firms.</p>
+      <p>Chinese investment abroad, another source of advisory fees, has also slowed. Chinese companies announced just $44 billion in deals last year, the lowest since 2008 and a fraction of the $233 billion peak in 2016, according to Bloomberg data.</p>
+      <p>Meanwhile, foreign companies are facing increased scrutiny with authorities — concerned over the flow of sensitive information — raiding consultancies that conduct due diligence for global investors. Beijing has also urged its state-owned enterprises to gradually sever relationships with the Big Four accounting firms over data security concerns. Most recently, investors have been spooked as a number of financial data companies, including Wind Information Co., stopped providing detailed information on Chinese companies to overseas clients.</p>
+      <p>Not Priority</p>
+      <p>Given the tensions, China is no longer a top-three investment priority for a majority of US firms, according to an American Chamber of Commerce business climate survey published this year. Investors including Warburg Pincus have trimmed China dealmaking teams while private equity stalwarts such as Carlyle Group Inc. and PAG are finding it hard to raise new funds in the region. Two Canadian pension funds recently paused direct investments in China due to the geopolitical risks.On the asset management side, firms like BlackRock Inc. and Fidelity International are pressing ahead to expand their fledgling onshore operations, though rival Vanguard Group Inc. plans to shutter its remaining business in China, and Van Eck Associates Corp. has pulled back.</p>
+      <p>The deteriorating environment comes even as officials in Beijing have talked up the need for foreign investment as the economy struggles to regain traction after the lengthy Covid disruptions. Premier Li Qiang — the No. 2 behind Xi — vowed in March to establish a “broad space” for international companies to develop, while a top securities regulator reaffirmed the country’s commitment to opening its capital markets in a meeting with leaders of 10 international firms including Goldman Sachs and Bridgewater Associates.</p>
+      <p>JPMorgan meanwhile is gearing up to host three conferences in Shanghai this month, including the China New Economy Forum and the Global China Summit, with Chief Executive Officer Jamie Dimon scheduled to attend, according to a person familiar with the matter.</p>
+      <p>At a March gala dinner in Shanghai, JPMorgan’s Asia CEO Filippo Gori told more than 1,000 staff that “the business may slow down this year, but please ignore the noise and stories, and stay focused on what we are looking to achieve in China over the long term."</p>
+      <p>For Williams at Boston University, the best case for Wall Street is for China and the US to tone down the rhetoric and allow for a more friendly environment.</p>
+      <p>``This is not a likely scenario,’’ he said. ``Both sides are sitting tight with banks caught in an untenable vice grip.’’</p>
+    </div>
+  },
+  {
     id: 513,
     title: 'Nvidia Stock Nearly Doubles In 2023 Amid AI Frenzy — Is It A Buy?',
     category: 'Markets',

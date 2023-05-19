@@ -1,5 +1,36 @@
 const data = [
   {
+    id: 510,
+    title: 'Oil steady as demand worries face tight supply outlook',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Supply', 'Demand'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices were steady on Wednesday after a surprise rise in U.S. crude inventories stoked demand concerns as economic worries competed with a tighter supply outlook for later in the year.</p>
+    </div>,
+    authorName: 'Noah Browning',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 17, 2023 - 4:37 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-530.jpg',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>By Noah Browning</p>
+	    <p>LONDON (Reuters) -Oil prices were steady on Wednesday after a surprise rise in U.S. crude inventories stoked demand concerns as economic worries competed with a tighter supply outlook for later in the year.</p>
+	    <p>Brent crude futures rose 2 cents, or 0.7%, to $74.42 a barrel. West Texas Intermediate U.S. crude was down 5 cents to $70.81 at 0921 GMT.</p>	
+    	<p>The International Energy Agency on Tuesday predicted demand would outpace supply by 2 million barrels per day (bpd) in the second half of the year, with China making up 60% of oil demand growth in 2023.</p>	
+    	<p>"Crude prices remain heavy as energy traders just can't shake off global demand concerns. It doesn't matter how upbeat everyone is for China's second half of the year, the current situation is too disappointing," said Edward Moya, an analyst at OANDA.</p>
+      <p>U.S. crude stockpiles rose by about 3.6 million barrels in the week ended May 12, according to market sources citing American Petroleum Institute figures. Seven analysts polled by Reuters, had expected a 900,000 barrel drawdown.</p>
+      <p>U.S. government data on crude and product stockpiles is due at 1430 GMT. [EIA/S]</p>
+      <p>The crude inventory build added to concerns about U.S. growth after data showed retail sales rose 0.4% in April, short of estimates for an increase of 0.8%.</p>
+      <p>Talks on raising the U.S. debt ceiling continue to weigh on the market. The U.S. Treasury Department has estimated that the United States will go into a crippling default as early as June 1 if Congress does not lift the ceiling.</p>
+      <p>In China, April industrial output and retail sales growth undershot forecasts, suggesting the economy lost momentum at the beginning of the second quarter.</p>
+      <p>"Markets were in a wait-and-watch mode over the outcome of crucial negotiations to raise the U.S. government's debt ceiling," said Vandana Hari, founder of oil market analysis provider Vanda Insights.</p>
+      <p>"A bunch of Chinese macro-economic data for April released on Tuesday confirmed the narrative of a patchy and slow recovery in the country and continue to weigh on oil market sentiment."</p>
+      <p>(Additional reporting by Katya Golubkova; editing by Mark Potter and Jason Neely)</p>
+    </div>
+  },
+  {
     id: 509,
     title: 'Oil market will flip to being undersupplied in coming months, says strategist',
     category: 'Commodities',

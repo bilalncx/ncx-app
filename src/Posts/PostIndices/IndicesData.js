@@ -1,5 +1,175 @@
 const data = [
   {
+    id: 512,
+    title: 'FTSE 100 rises amid strong consumer confidence',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Rises', 'Consumer'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks opened higher, extending rallies on Wall Street fuelled by optimism over talks to avert a catastrophic US debt default.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 19, 2023 - 12:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-538.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 and European stocks opened higher, extending rallies on Wall Street fuelled by optimism over talks to avert a catastrophic US debt default.</p>
+    	<p>The FTSE 100 (^FTSE) gained 0.39% to 7,883 points at the open, while the CAC 40 (^FCHI) in Paris slipped 0.22% to 7,560 points. In Germany, the DAX (^GDAXI) fell 0.10% to 15,866.</p>	
+    	<p>The FTSE 100 rose as data showed British consumer confidence hit a 15-month high, adding to the optimism that a deal over the US debt ceiling was imminent.</p>	
+    	<p>Traders will be keeping an eye on the Group of Seven summit in Hiroshima, which starts on Friday, where world leaders are expected to discuss international trade and security. China and Russia relations and sanctions are on the agenda for discussions between Canada, France, Germany, Italy, Japan, the United Kingdom and United States.</p>
+      <h3>FTSE</h3>
+      <p>London stocks edged higher in early trade on Friday following a positive close on Wall Street, amid hopes a deal will be reached to avert a US debt default and improved consumer confidence.</p>
+      <p>Richard Hunter, head of markets at Interactive Investor, said: "Growing optimism for a resolution to the debt ceiling negotiations lifted sentiment, although the mood was slightly tempered by question marks over the Federal Reserve’s next move on interest rates.</p>
+      <p>"The mood music from the politicians involved in brokering a deal to raise the debt ceiling and avoid an unthinkable US default was more positive, with investors reacting with cautious optimism until such time as a deal is finalised."</p>
+      <p>Miners led the gains across the UK's blue chip index, with Anglo American (AAL.L), Rio Tinto (RIO.L), Glencore (GLEN.L) and Antofagasta (ANTO.L) all up.</p>
+      <p>Smiths Group (SMIN.L) rallied as it lifted revenue guidance after a strong third quarter, driven by volume and price growth. Organic revenue was up 13.4% for the nine months to 30 April, leading Smiths to increase 2023 guidance to around 10% organic revenue growth with "moderate" margin improvement.</p>
+      <p>BT Group (BT-A.L) steadied at 140p after Thursday’s results-day hammering, while Burberry (BRBY.L) slipped 2.51%.</p>
+      <p>Also driving sentiments across the markets was data suggesting that consumer confidence in the year ahead is continuing to recover despite persistent cost of living pressures.</p>
+      <p>GfK’s Consumer Confidence Index rose by three points in May to minus 27, the fourth monthly increase in a row from January’s minus 45.</p>
+      <p>Confidence in personal finances over the coming 12 months saw a “robust” five-point jump to minus 8 — 17 points higher than this time last year.</p>
+      <h3>US and Asia</h3>
+      <p>Across the pond, S&P 500 futures (ES=F), Dow futures (YM=F) and Nasdaq futures (NQ=F) were mixed as trading began in Europe.</p>
+      <p>Wall Street closed higher on Thursday as investors await updates to the ongoing debt ceiling debate and quarterly results from Walmart (WMT) flashed resilience from the American consumer.</p>
+      <p>The Dow Jones (^DJI) rose 0.34% to close at 33,535 points. The S&P 500 (^GSPC) gained 0.94% to 4,198 points and the tech-heavy NASDAQ (^IXIC) jumped 1.51% to 12,688.</p>
+      <p>“We are starting to see enough common themes in their views to feel confident that a deal is going to be announced in relatively short order,” Jefferies US economist Thomas Simmons wrote in a note.</p>
+      <p>“Given the 1 June X-date warnings from Treasury and the time it takes for the legislative process to play out, we could see an announcement of a framework as soon as Sunday when Biden returns from his trip to Japan for the G-7 meetings.”</p>
+      <p>Meanwhile, Walmart (WMT) stock rose more than 1% as America's largest big box retailer reported higher same-store sales growth than Wall Street had anticipated. Walmart also boosted its full-year adjusted earnings per share forecast from a range of $5.90-$6.05 to a range of $6.10-$6.20.</p>
+      <p>In Asia, shares nudged lower, weighed down by China and Hong Kong stocks due to concerns over the stuttering recovery in the world's second-biggest economy, although Japan's Nikkei clocked a near 33-year peak.</p>
+      <p>Tokyo’s Nikkei 225 (^N225) gained 0.77% to 30,808 points, while the Hang Seng (^HSI) in Hong Kong lost 1.31% to 19,468. The Shanghai Composite (000001.SS) slipped 0.41% to 3,283 points.</p>
+      <p>So far this year, the Nikkei has gained around 19%, outpacing other major markets. But despite the recent rally, the Nikkei is still below its all-time peak over 36,000 set in 1989.</p>
+      <p>Japan’s core inflation nationwide rose 3.4% year-on-year in April, in line with forecasts by economists polled by Reuters.</p>
+      <h3>Pound</h3>
+      <p>The pound (GBPUSD=X) has not managed to pounce on US debt ceiling optimism as with many G10 currencies as investors remain in the cautious’ camp, with sterling trading at $1.2414.</p>
+      <p>Sterling (GBPEUR=X) was muted against the euro, trading at €1.1512.</p>
+      <h3>Oil markets</h3>
+      <p>Meanwhile, Brent crude (BZ=F) gained ground and was trading at around $76 per barrel with oil prices set to record their first weekly gain since mid-April as sentiment about future demand improves amid signs there may be progress on the debt ceiling negotiations in Congress.</p>
+      <p>“I think markets have been pricing out the risks of a US debt default, which translates to a more risk-on environment and some dip-buying in Brent crude from previous oversold conditions,” said Yeap Jun Rong, market strategist at IG.</p>
+    </div>
+  },
+  {
+    id: 511,
+    title: 'Nasdaq Hits Highs As McCarthy Eyes House Vote; Tech Stocks Lead As Fed Officials See Rate Hike To 5.5%',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'McCarthy', 'Tech Stock'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average pared early losses, rising 0.3% at closing bell. The index built support at the 50-day moving average, but health leaders in the Dow lagged.</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 19, 2023 - 12:15 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-539.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average pared early losses, rising 0.3% at closing bell. The index built support at the 50-day moving average, but health leaders in the Dow lagged.</p>
+    	<p>On Thursday, House Speaker Kevin McCarthy said he sees the path to "come to an agreement" on the debt ceiling. Experts have stated that the U.S. could default as early as June 1 without a budget agreement. McCarthy sees the vote taking place as early as next week.</p>	
+    	<p>The S&P 500 eyed February's high of 4195 as it rose 1%. The Nasdaq gained 1.5% and hit a high for the year to date. NYSE and Nasdaq volume rose vs. Wednesday, according to preliminary data. The small-cap Russell 2000 index gained 0.6%.</p>
+      <p>Crude oil continued its fall and traded at $72 per barrel. The yield on the benchmark 10-year Treasury note rose 6 basis points to 3.64%.</p>	
+      <p>Tech leaders Nvidia (NVDA), Lam Research (LRCX), Cadence (CDNS) and ASML (ASML) rose. Nvidia and ASML are IBD Leaderboard stocks, while Lam and Cadence are IBD SwingTrader names.</p>
+      <p>Fed officials weighed in on a possible rate hike in June.</p>
+      <p>Dallas Fed President Lori Logan said she does not find enough data to warrant pausing hikes yet. Cleveland Fed President Loretta Mester maintained her stance that the economy is not at a point where holding rates steady would be justified.</p>
+      <p>The CME FedWatch Tool sees a 40.2% chance of a 25-basis-point hike in June, taking the effective rate to 5.25%-5.5%.</p>
+      <h3>Dow Jones Leaders In Focus</h3>
+      <p>Dow Jones component Walmart (WMT) rose after same-store sales growth beat expectations and the company raised its full-year earnings forecast. Shares are in a buy zone that goes up to 155.75, according to IBD MarketSmith.</p>
+      <p>Tech leader Cisco Systems (CSCO) pared early losses and gained over 1% into the close after strong earnings. Weaker orders in the fiscal third quarter raised concerns. Shares cleared the 200-day moving average late Thursday.</p>
+      <p>Outside the Dow Jones, Alibaba (BABA) fell below converged 50- and 200-day lines after earnings disappointed. The Chinese e-commerce platform approved a spinoff of its cloud segment, Cloud Intelligence Group, through a stock dividend distribution to shareholders. Public listings of its logistics and retail operations are also pending.</p>
+      <p>Take-Two Interactive Software (TTWO) broke out at 137.53 after earnings. The video game publisher sees strong growth, with net bookings hitting $8 billion in fiscal 2025.</p>
+      <p>Also outside the Dow, Synopsys (SNPS) broke out from a flat base at 392.89 after earnings. The chip design software maker raised its full-year guidance.</p>
+      <p>Netflix (NFLX) broke out of a cup with handle at 349.90 after the streaming giant said its ad-supported platform grew to 5 million monthly users.</p>
+      <p>Software automation leader and options play on IBD Leaderboard Dynatrace (DT) broke out of a cup base at 48.10 after strong earnings on Wednesday.</p>
+      <p>Initial unemployment claims came in lower at 242,000 for the week ended May 13 vs. the prior week's 264,000.</p>
+	<p></p>
+    </div>
+  },
+  {
+    id: 510,
+    title: 'Tokyos Nikkei 225 Hits 33-Year High',
+    category: 'Indices',
+    subCategory: ['Tokyo', 'Nikkei', 'high'],
+    description: <div className="blog-desc">
+      <p>Global stocks traded mixed Wednesday as investors mulled U.S. debt ceiling negotiations and wider economic growth worries.</p>
+    </div>,
+    authorName: 'Jack Denton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 17, 2023 - 1:29 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-533.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Global stocks traded mixed Wednesday as investors mulled U.S. debt ceiling negotiations and wider economic growth worries.</p>
+    	<p>It was a different story in Japan, where economic data proved to be the final catalysts that pushed Tokyo’s benchmark Nikkei 225 above 30,000 for the first time since September 2021, with the index closing up 0.8% at its highest level in 33 years.</p>	
+    	<p>Data showed that the Japanese economy, measured by gross domestic product (GDP), grew 1.6% in the first quarter of 2023 on an annualized basis, beating expectations of 1.1% growth and marking the first increase in three quarters.</p>	
+    	<p>“The Nikkei wasn’t blown off course by American worries, with investors gaining a big spring in their step,” said Susannah Streeter, an analyst at broker Hargreaves Lansdown. “The economy has bounced back from pandemic woes … as consumers freed from restrictions splashed the cash and tourists returned.”</p>
+      <p>It was a cloudier picture across global stocks more broadly, with Hong Kong’s Hang Seng Index sagging 2.1% and the Shanghai Composite losing 0.2%. In Europe, London’s FTSE 100 was trading just above flat, with the Paris CAC 40 slipping 0.1% into the red and Frankfurt’s DAX gaining 0.3%.</p>
+      <p>Investors have continued to monitor the state of talks over the looming U.S. debt ceiling, which has ramifications for worldwide markets. Global growth concerns also continued to simmer in the background, with data out of China over the past two weeks showing a weakening domestic picture in the world’s second-largest economy and signs of slowing global demand for goods.</p>
+    </div>
+  },
+  {
+    id: 509,
+    title: 'Dow Jones Losses Worsen As McCarthy Jabs Biden Over Debt Ceiling; Warren Buffett Buys This Bank Stock',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Biden', 'Warren'],
+    description: <div className="blog-desc">
+      <p>Losses grew in late trading for the Dow Jones Industrial Average as component Home Depot (HD) disappointed investors with its latest report.</p>
+    </div>,
+    authorName: 'MICHAEL LARKIN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 17, 2023 - 12:37 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-532.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Losses grew in late trading for the Dow Jones Industrial Average as component Home Depot (HD) disappointed investors with its latest report. Warren Buffett-led Berkshire Hathaway (BRKB) bought shares in a financial stock despite the banking crisis. House Speaker Kevin McCarthy blasted President Joe Biden ahead of their debt ceiling meeting.</p>
+    	<p>Some stocks tried to break out despite the mixed action. Rambus (RMBS), GMS (GMS) and Advanced Micro Devices (AMD) all tested entries.</p>	
+	    <p>Treasury yields moved higher. The 10-year yield rose three basis point to 3.54% while the two-year yield spiked seven basis points to 4.08%, making the yield curve more inverted.</p>
+      <h3>Biden Changes Plan After McCarthy Debt Ceiling Jibe</h3>	
+	    <p>The long-awaited debt ceiling meeting between congressional leaders and President Joe Biden took place this afternoon.</p>
+      <p>McCarthy went on the offensive ahead of the powwow, taking a shot at the president's schedule. Biden is getting set to leave the country on Wednesday for a three-day G-7 meeting in Japan.</p>
+      <p>"We've got 16 more days to go," McCarthy told reporters. "I don't think I would spend eight days somewhere out of the country."</p>
+      <p>Biden responded by cutting short his overseas engagements. He will now return to the U.S. on Sunday instead of heading to other planned visits to Papua New Guinea and Australia, a source told NBC News.</p>
+      <p>Democrats want the debt ceiling raised unconditionally, while Republicans are looking to secure government spending cuts before agreeing. After the meeting McCarthy said there is "a lot of work to do in a short amount of time." He also said they will "work hard to make this come to fruition."</p>
+      <p>He also said a member of the Biden administration will be working with a member of his team to hammer out a deal.</p>
+      <p>Treasury Secretary Janet Yellen warned Monday the U.S. could become unable to pay its bills as soon as June 1 if Congress doesn't act.</p>
+      <p>Oanda senior market analyst Edward Moya said the debt ceiling issue is raising anxiety among investors.</p>
+      <p>"Wall Street is bracing for something bad to happen, but no one has an idea on what will be that catalyst," he said in a note to clients. "It could be a debt ceiling impasse, persistent banking fears, or a much weaker consumer as sticky inflation becomes more noticeable."</p>
+      <h3>Nasdaq Reverses Lower As Small Caps Slump</h3>
+      <p>The Nasdaq fared better than the other major indexes but still fell 0.2% as indexes faded in late trading. Baidu (BIDU) impressed with a gain of 4% following its earnings report.</p>
+      <p>The benchmark S&P 500 fell 0.6%. Caesars Entertainment (CZR) lagged with a dip of 6.9%.</p>
+      <p>The S&P 500 sectors were mixed with a bias to the negative. Communication services and technology were the top performers. Real estate and energy lagged the most.</p>
+      <p>Small caps were mauled by the bears, with the Russell 2000 plunging 1.4%. Growth stocks also lagged, with the Innovator IBD 50 ETF (FFTY) losing 1.1%.</p>
+      <h3>Dow Jones Today: Home Depot Disappoints, Nike Lags</h3>
+      <p>The Dow Jones lagged the other major indexes. It ended the day down 336 points, or 1%.</p>
+      <p>Home Depot fell 2.1% following its latest quarterly report, though earnings were not actually the issue.</p>
+      <p>Home Depot reported a better-than-expected EPS drop of 6.6% to $3.82 as sales fell 4% to $37.26 billion. It was the retailer's worst sales miss in decades.</p>
+      <p>The home improvement retailer expects revenue and same-store sales to decrease 2% and 5%, respectively, compared with fiscal 2022. This was worse than its previous guidance.</p>
+      <p>Despite this, it was Nike (NKE) that was the worst performer on the Dow Jones today, falling 2.8%.</p>
+      <p>Microsoft (MSFT) led the upside as it rose 0.7%. It is currently extended, MarketSmith analysis shows.</p>
+      <h3>Warren Buffett Buys This Finance Stock</h3>
+      <p>Many investors like to keep track of 13F filings for stock ideas. And it has emerged that Berkshire Hathaway has taken out a new stake in Capital One Financial (COF).</p>
+      <p>Berkshire Hathaway has reported a purchase of over 9.9 million shares in a regulatory filing.</p>
+      <p>The latest Warren Buffett stock is one of the largest issuers of credit cards in the U.S., and also provides consumer and commercial banking products.</p>
+      <p>COF stock closed off highs for the day but still gained 2.1%. Nevertheless, it holds a poor IBD Composite Rating of 32 out of 99.</p>
+      <p>In addition to its new holding, Berkshire Hathaway also increased positions in Bank of America (BAC) and Apple (AAPL) by 2% each. It also boosted its Occidental Petroleum (OXY) position by 8%.</p>
+      <h3>RH Stock Plummets On Buffett Axing</h3>
+      <p>But it was not all good news for stocks following the latest changes to the Berkshire Hathaway portfolio.</p>
+      <p>RH (RH), formerly Restoration Hardware, plunged on news that Buffett dumped the stock in the last quarter. It seems the Oracle of Omaha is not enamored with the luxury furniture retailer's prospects with a possible recession looming.</p>
+      <p>At the end of 2022, Berkshire owned 2.36 million shares in the company, which is led by Chairman and CEO Gary Friedman.</p>
+      <p>RH stock ended the day down 8.8%. It flashed a sell signal as it plummeted below the 50-day moving average.</p>
+      <p>The stock holds an RS Rating of 31. It is down a moderate 4.7% so far in 2023.</p>
+      <h3>Outside Dow Jones: AMD Stock Among Breakouts</h3>
+      <p>Advanced Micro Devices cleared a 102.53 cup-base entry and closed below that level. It is actionable as high as 107.66.</p>
+      <p>AMD stock popped after a regulatory filing showed hedge fund Third Point, which is run by activist investor Daniel Loeb, has taken a 1 million-share stake.</p>
+      <p>Overall strong performance is reflected in AMD's IBD Composite Rating of 92.</p>
+      <p>Rambus saw its relative strength line reach a fresh high after it cleared a buy point of 51.98. RMBS has a perfect Composite Rating of 99. Big Money has also been buying of late, as evidenced by the stock's B Accumulation/Distribution Rating.</p>
+      <p>Construction supplies play GMS is just below its 62.29 entry. Institutional ownership is very high: 76% of its stock is owned by funds, according to MarketSmith data.</p>
+    </div>
+  },
+  {
     id: 508,
     title: 'Nasdaq Bear Market: 5 Exceptional Growth Stocks Youll Regret Not Buying on the Dip',
     category: 'Indices',
