@@ -1,5 +1,105 @@
 const data = [
   {
+    id: 527,
+    title: 'XRP gains; Lift-off for Space Pepe NFTs; US investor sentiment up on positive debt talks',
+    category: 'Crypto',
+    subCategory: ['XRP', 'NFTs', 'US'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether prices fell on Friday morning in Asia. After a bullish run, Litecoin joined most other top 10 non-stablecoin cryptocurrencies in recording losses.</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 19, 2023 - 7:32 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-542.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin and Ether prices fell on Friday morning in Asia. After a bullish run, Litecoin joined most other top 10 non-stablecoin cryptocurrencies in recording losses. XRP was the sole winner. It recorded gains following the launch of its new central bank digital currency (CBDC) platform by its issuer Ripple. U.S. equity futures moved higher after a strong rally in regular trading Thursday. Positive earnings reports, debt ceiling talks both played a role.</p>
+      <h3>XRP makes standout gain</h3>
+    	<p>Bitcoin fell 1.97% to US$26,852.75 in the 24 hours to 7:45 a.m. Friday in Hong Kong, down 0.67% over the last seven days according to CoinMarketCap data.</p>	
+    	<p>The dip back below the $27,000 threshold indicated a return to a bearish trend following gains Thursday. That trend should be short lived, however, said financial analyst Tone Vays during an interview.</p>	
+    	<p>“I do believe that we have bottomed. We are now in a halving cycle which tends to have Bitcoin go up with less than one year to the halving event.”</p>
+      <p>Halving refers to a pre-programmed reduction of the rate at which new tokens are created, which reduces supply and can drive prices higher.</p>
+      <p>“We have had an extended bear market and it’s just time for Bitcoin to rise again,” Vays added.</p>
+      <p>Like Bitcoin, Ether fell 0.92% to US$1,804.6. However, it posted gains of 0.29% for the week.</p>
+      <p>XRP was the sole gainer among the top 10 non-stablecoin cryptocurrencies. It gained 2.68% to US$0.4607 while adding 9.13% in the last seven days.</p>
+      <p>Those gains followed an announcement Thursday by Ripple Labs. The payment protocol and exchange network said it is launching a platform for a CBDC as part of Hong Kong’s inaugural e-HKD (electronic Hong Kong dollar) pilot program.</p>
+      <p>The Ripple platform will offer a “frictionless end-to-end solution for central banks, governments, and financial institutions to issue their own central bank digital currency,” according to a company press release.</p>
+      <p>Ripple will partner with Taiwan-based Fubon Bank on the project.</p>
+      <p>The announcement followed further Ripple-related news earlier this week. On Wednesday, a U.S. federal judge denied a motion filed by the Securities and Exchange Commission (SEC) to prevent public access to the so-called Hinman document.</p>
+      <p>These internal documents relate to former SEC director William Hinman’s comments that Bitcoin and Ether are not financial securities. The decision is considered a win for Ripple Labs in its ongoing legal dispute with the SEC. The regulator accuses them of providing unregistered securities.</p>
+      <p>Elsewhere, most other top 10 non-stablecoin cryptocurrencies traded lower. Solana led the losers. It fell 3.4% to US$20.36, but was up 0.37% over the past seven days.</p>
+      <p>Litecoin lost ground after a bullish week. It was down 3.37% to US$90.77.</p>
+      <p>The Bitcoin-like cryptocurrency had seen a surge in recent interest. This was mainly due to congestion and higher transaction fees on the Bitcoin network associated with the current popularity of ordinals. The Litecoin network has also now seen its own surge in ordinal inscriptions.</p>
+      <p>On the recent popularity of ordinals on the Bitcoin network in particular, Vays identified a solution to the operational issues it raises.</p>
+      <p>“The Bitcoin main chain was not really designed for this kind of purpose,” he said. “Yes, the Bitcoin blockchain can be used for these kinds of projects. I just wish they were done on the Liquid sidechain.”</p>
+      <p>The layer 2 solution Liquid offers ways to incorporate ordinals and other initiatives on the Bitcoin blockchain without raising transactions fees, he added.</p>
+      <p>The total crypto market capitalization fell 1.44% in the past 24 hours to US$1.12 trillion. Total trading volume lost 6.46% to US$32.07 billion.</p>
+      <h3>Space Pepe NFTs soar 28270%</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token market, the Forkast 500 NFT index rose 0.1% to 3,387.40 points in the 24 hours to 9:30 a.m. in Hong Kong. It was up 0.1% over the last seven days.</p>
+      <p>Daily NFT sales on Ethereum, the leading blockchain for NFTs, fell 17.31% to US$14.4 million. Sales on the Bitcoin blockchain also lost 11.45% according to CryptoSlam! data to US$6.9 million.</p>
+      <p>Space Pepes, a Bitcoin NFT collection based on the Pepe the Frog meme, skyrocketed 28270% to US$7.3 million in the last 24 hours leading up to 11:30 a.m. in Hong Kong. The collection topped Cryptoslam’s NFT collection ranking by sales volume.</p>
+      <p>Uncategorized Ordinals — Cryptoslam’s category of Bitcoin Ordinals that are not part of one established collection — rose 140.12% to US$1.9 million over the past 24 hours.</p>
+      <p>The Mythos blockchain-based DMarket NFT collection ranked second. DMarket consists of online gaming NFTs traded on the game-item marketplace of the same name. It was acquired by blockchain game maker Mythical Games in January this year.</p>
+      <p>In individual NFT sales, Bored Ape Yacht Club’s #5042 registered the highest price. It sold for US$172,135.</p>
+      <h3>U.S. equities rally; hawkish noises from the Fed</h3>
+      <p>U.S. stock futures traded higher as of 10:45 a.m. in Hong Kong, adding momentum to Thursday’s rally. The Dow Jones Industrial Average futures edged up 0.074%, while the S&P 500 futures gained 0.17%. The Nasdaq Composite futures added 0.28% after it gained 1.51% during market trading on Thursday.</p>
+      <p>The three Wall Street stock indexes rose after U.S. House of Representatives Speaker Kevin McCarthy said a bill to raise the country’s debt ceiling could be put to a vote next week. The comments followed positive talks with U.S. President Joe Biden,  easing investor concerns that the U.S. could default on its debt.</p>
+      <p>That scenario, which would have major repercussions for U.S. and global markets, can be avoided if the White House and congress can agree to raise the debt ceiling.</p>
+      <p>Biden and McCarthy have been actively discussing a solution to the ongoing standoff  throughout this week.Biden too has expressed optimism that an agreement can be reached.</p>
+      <p>Democratic negotiators informed the president Friday that they are making “steady progress” on debt ceiling talks ahead of his attendance in Japan for the weekend’s Group of Seven summit.</p>
+      <p>Treasury Secretary Janet Yellen warned earlier this month that the U.S. will start to fail to make its debt payments as early as June 1. Yellen called for fast action on raising the debt ceiling, as she said a debt default would devastate jobs and businesses in the country.</p>
+      <p>On the relationship between the crisis and crypto markets, Clara Medalie, Head of Research at crypto market data provider Kaiko, told Forkast via email that there was so far little sign of any impact based on recent price movements.This is “in large part because the event hasn’t yet played out and there remains hope that a deal will be reached before June 1,” she added.</p>
+      <p>Elsewhere, U.S. investors saw positive Q1 earnings results from major U.S. companies.</p>
+      <p>Walmart, the world’s largest company by revenue, reported 7.6% total revenue growth for the quarter. “We had a strong quarter. Comp sales were strong globally with eCommerce up 26%.  We leveraged expenses, expanded operating margin, and grew profit ahead of sales,” said Walmart President Doug McMillion in the company’s earnings report.</p>
+      <p>California-based tech manufacturer Nvidia stocks jumped nearly 5% on Thursday after the company announced that it partnered with another California-based cloud software company ServiceNow to build AI for enterprises.</p>
+      <p>On interest rates, Federal Reserve Chair Jerome Powell is due to speak publicly on Friday. He is expected to signpost the central bank’s latest policy views on inflation and rates.</p>
+      <p>Other members of the Fed made hawkish comments Thursday. Fed governor Philip Jefferson said the U.S. should wait to assess the full effect of higher interest rates on inflation so far before deciding to rule out further hikes.</p>
+      <p>Dallas Fed President Lorie Logan also said that it is not yet time to pause interest rate hikes.</p>
+      <p>U.S. interest rates are now between 5% and 5.25%, the highest since 2006. The Fed meets again on June 14 to decide if another rate hike is necessary. Inflation was at 4.9% in April, lower than expected but still ahead of the Fed’s 2% target.</p>
+      <p>The CME FedWatch Tool predicts a 66.7% chance the Fed will leave rates unchanged in June, down from 76.2% a day prior. It predicts a 33.3% chance for another 25 basis-point rate increase.</p>
+    </div>
+  },
+  {
+    id: 526,
+    title: 'Matic leads crypto rise despite Ledger security concerns',
+    category: 'Crypto',
+    subCategory: ['Matic', 'Crypto', 'rise'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether rose during afternoon trading in Asia, along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Polygon’s Matic token led the gains.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 18, 2023 - 1:36 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-540.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin and Ether rose during afternoon trading in Asia, along with most of the top 10 non-stablecoin cryptocurrencies by market capitalization. Polygon’s Matic token led the gains.</p>
+    	<h3>Crypto market bounces back</h3>
+      <p>Bitcoin rose 2.23% to US$27,387  in the 24 hours to 4:30 p.m. in Hong Kong. The world’s first cryptocurrency fell as low as US$26,601 yesterday, before reclaiming the US$27,000 level. Ether fell 1.13% to US$1,827.</p>	
+    	<p>“Bitcoin failed to reclaim the US$28,800 level on the weekly, and then Bitcoin weekly closed below US$27,600, failing to hold it as support… Turn US$27,600 into resistance and this could enable further downside into the low US$20,000s,” said pseudonymous crypto analyst Rekt Capital on Twitter. “</p>	
+    	<p>Polygon’s Matic saw the biggest daily gain, rising 3.77% to US$0.8813, followed by Cardano’s ADA, up 3.32% to US$0.378.</p>
+      <p>XRP token was the only coin in the red, as it fell 0.26% to US$0.4463, after leading the gains in yesterday’s trading session.</p>
+      <p>A new security concern was raised after crypto wallet firm Ledger recently announced the launch of Ledger Recover, an optional recovery service for users’ seed phrase.</p>
+      <p>The announcement caused widespread community distress about Ledger’s potential backdoor into their devices, putting users’ secret seed phrases at risk. Ledger Chief Technology Officer Charles Guillemet attempted to quell the fire by saying, “There is no backdoor for anyone, neither us, a provider or even a very gifted hacker to access it.”</p>
+      <h3>Ethereum NFT sales down for a second day</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the NFT market, the Forkast 500 NFT index rose 0.24% to 3,390.51 points in the 24 hours to 4:30 p.m. in Hong Kong but declined 1.23% during the week.</p>
+      <p>Ethereum’s 24-hour NFT sales decreased for the second consecutive day, dropping 19.17% to US$15.6 million. Bored Ape Yacht Club sales, the largest Ethereum-based NFT collection, fell 63.18% to US$811,464, while its spin-off collection Mutant Ape Yacht Club sales fell 21.22% to US$734,727.</p>
+      <h3>Asian and U.S. equities strengthen</h3>
+      <p>Most Asian equity markets were up on Thursday, with the Shanghai Composite rising 0.40%, Hong Kong’s Hang Seng Index 0.85% and Japan’s Nikkei 225 1.60%. The Shenzhen Component Index fell 0.12%.</p>
+      <p>Investor concerns over China’s post-pandemic economic recovery persisted after data showed that China’s industrial production expanded by 5.6% year-on-year in April, missing market expectations of 10.9%.</p>
+      <p>Major U.S. stock futures rose as of 4:30 p.m. in Hong Kong. The S&P 500 futures index inched up 0.090%, the tech-heavy Nasdaq-100 futures gained 0.12%, and the Dow Jones Industrial Average futures increased 0.015%.</p>
+      <p>Investor sentiment was lifted by the prospect of the debt ceiling crisis being resolved after President Joe Biden and House Speaker Kevin McCarthy indicated on Wednesday that the government would not default on its debt.</p>
+      <p>The optimism surrounding the U.S. debt ceiling talks inspired European bourses on Thursday. Germany’s DAX 40 rose 1.41% to 16,176 points, its highest level since Jan. 2022, while the benchmark STOXX 600 rose 0.51%.</p>
+      <p>Eurozone inflation accelerated to 7.0% in April from 6.9% a month earlier, mainly driven by rising services and energy costs. Core inflation excluding food and fuel prices slowed to 7.3% from 7.5%, according to Eurostat.</p>
+    </div>
+  },
+  {
     id: 525,
     title: 'XRP gains as SEC motion denied; NFT index down; US investors anticipate debt ceiling deal',
     category: 'Crypto',

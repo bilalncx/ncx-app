@@ -1,5 +1,29 @@
 const data = [
   {
+    id: 518,
+    title: 'USD/JPY Forecast – US Dollar Threatening to Break Out Against Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar initially pulled back just a bit during the trading session on Thursday but then turned around to show signs of life again.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 18, 2023 - 4:59 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-537.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar initially pulled back just a bit during the trading session on Thursday but then turned around to show signs of life again. At this point, the ¥138 level is being threatened, and a breakout above that level could open up the possibility of a much bigger move, something that, more likely than not, will be a lot like a “beach ball being held under water,” only to be released and shoot straight up.</p>
+    	<p>This is a lot of selling pressure in this area that the market will have taken out. In that scenario, you would anticipate that there should be a certain amount of “FOMO” trading coming into the market.</p>	
+    	<p>On the downside, the ¥135 level should be pretty significant support, especially considering that the 50-Day EMA is starting to race toward it, and thereby offers a bit of support. The market more likely than not will continue to be noisy, as interest rates have a major influence on where we go next. Ultimately, this is a situation where a lot of people will be looking to buy the dip, as it offers value.</p>	
+    	<p>The interest-rate differential will continue to favor the US dollar, so at this point in time I just don’t see how this changes. This will be especially true if there are a lot of traders jumping into the market to buy dollars in order to look for safety. Ultimately, this certainly looks as if the market is doing everything it can to break out, and once it does it should be a pretty significant one.</p>
+      <p>I have no interest in selling this market anytime soon, and I believe that most participants feel the same way. The Bank of Japan remained steadfast in its need to do quantitative easing, and as long as that’s going to be the case and of course the Federal Reserve remains tight, it does make a lot of sense that this market continues to grind to the upside. Once the resistance gets broken though, the floodgates could open and the Japanese yen could be sold off across the board.</p>
+    </div>
+  },
+  {
     id: 517,
     title: 'USD/JPY Forecast – US Dollar Continues to Stabilize After Move Higher',
     category: 'Forex',
@@ -23,7 +47,7 @@ const data = [
     </div>
   },
   {
-    id: 516,
+    id: 516, 
     title: 'GBP to USD Forecast – Pound Continues to Reach for the Upside',
     category: 'Forex',
     subCategory: ['GBP', 'USD', 'Forecast'],
