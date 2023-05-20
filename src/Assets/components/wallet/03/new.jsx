@@ -159,7 +159,7 @@ function Indices5()
                         <p>Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer.</p>
                         <p>Choose from over 200 Cryptocurrencies and 95 Fiat Currencies, choose between 16 Payment Providers for the Best Rate and Payment Method</p>
                         <div className="tiy__bd">
-                            <Button href="#" className="download">Download</Button>
+                            <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">

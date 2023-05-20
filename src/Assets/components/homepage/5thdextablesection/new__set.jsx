@@ -32,7 +32,7 @@ function Indices5()
                         </div>
                         <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
-                            <Button href="#" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
+                            <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img viso__ff">
