@@ -1,5 +1,51 @@
 const data = [
   {
+    id: 520,
+    title: 'USD/JPY Weekly Forecast – US Dollar Breaks Above Resistance',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>During the week, the US dollar rallied again, breaking out from a major resistance level at the ¥138 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 19, 2023 - 6:07 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-548.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+	    <p>During the week, the US dollar rallied again, breaking out from a major resistance level at the ¥138 level. With that being the case, the market will continue to see plenty of noise above, but it certainly looks as if the interest rate differential between the 2 currencies will continue to play the main part of what happens in this market right now. It’s worth noting that the major breakdown that we saw late last year was a pullback to the 50% Fibonacci level, and therefore it’s likely that the market could go looking to the ¥140 level.</p>
+	    <p>The size of the candlestick certainly suggests that there is a lot of noise out there, and with that being the case, it looks as if you will probably have to ride out through a lot of volatility, and therefore it does make a certain amount of sense that the trading community will continue to be somewhat schizophrenic.</p>	
+	    <p>All things being equal, I am a buyer of dips, and it does make a certain amount of sense that we would see a lot of back-and-forth trading. If you are a longer-term trader, you are going to have to deal with that, perhaps with a reasonable position size.</p>	
+	    <p>On the downside, the ¥134 level should be massive support, right along with the 50-Week EMA which sits just underneath it. All things being equal, the ascending triangle has been broken to the upside, so that obviously is very bullish as well. All things being equal, this is a market that I am looking for value on, and I do like the occasional short-term pullback to offer that opportunity.</p>
+    </div>
+  },
+  {
+    id: 519,
+    title: 'EUR/USD Weekly Forecast – Euro Has Had a Tough Week in Volatile Trading',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro has gone back and forth during the trading week as we are trying to figure out what’s going on with markets in general.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 19, 2023 - 5:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-547.jpg',
+    content: <div className="blog-content">
+      <p>n this article:</p>
+	    <h3>Euro vs US Dollar Weekly Technical Analysis</h3>
+	    <p>The euro has gone back and forth during the trading week as we are trying to figure out what’s going on with markets in general. We are between the 50-Week EMA underneath, and the 200-Week EMA above. This typically means that you’ll see some choppy volatility, which in this environment makes quite a bit of sense as we have so many questions to be asked.</p>
+	    <p>With this, the market has a lot of questions to ask of itself, and of course, the risk appetite of the market will continue to have a major influence attached to it. The risk appetite is all over the place, but quite frankly I think this is a situation where you need to be very cautious of putting on too big of a position in one direction or the other. That being said, Friday did show some signs of life for the euro again, suggesting that perhaps we are not ready to fall apart quite yet.</p>	
+	    <p>I would anticipate a lot of back and forth in what could end up being a summer range, and therefore a range bound market trading strategy might come into the picture, but as things stand right now it’s obvious that there is quite a bit of buying pressure over the longer term. That being said, it’s probably worth noting that we are near the 50% Fibonacci or to level, and that of course has its own ramifications.</p>	
+	    <p>The markets still have to deal with the volatility and noise going forward and therefore you will have to exercise caution more than anything else at this point.</p>
+    </div>
+  },
+  {
     id: 518,
     title: 'USD/JPY Forecast – US Dollar Threatening to Break Out Against Yen',
     category: 'Forex',

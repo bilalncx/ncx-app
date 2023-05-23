@@ -1,5 +1,82 @@
 const data = [
   {
+    id: 529,
+    title: 'Solana’s ‘secret’ behind overtaking Tron despite low users is…',
+    category: 'Crypto',
+    subCategory: ['Solana', 'Tron', 'crypto'],
+    description: <div className="blog-desc">
+      <p>The Solana network continued to see improvements and outperformed Tron in various areas. What was driving SOL’s growth?</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-546.jpg',
+    content: <div className="blog-content">
+      <p>The Solana network continued to see improvements and outperformed Tron in various areas. What was driving SOL’s growth?</p>
+    	<ul>
+        <li>Solana outperforms Tron in various sectors, despite having fewer active addresses.</li>
+        <li>A booming NFT market and high activity on dApps helped the network’s rise.</li>
+      </ul>
+      <p>Tron [TRX] has been exceeding expectations as the number of daily active users continued to surge. This caused the protocol to generate large amounts of revenue.</p>
+	    <p>However, despite these factors, Solana [SOL] outperformed Tron in various areas.</p>	
+      <h3>Tron cannot catch up</h3>
+	    <p>Artemis’ data showcased that the daily active addresses on the Tron network were high compared to Solana at press time. However, the latter still outperformed Tron in terms of daily transactions by a huge margin.</p>	
+	    <p>This indicated that even though Tron had a large user base, Solana’s users were more engaged with the network. One reason for the same would be the popularity of Solana NFTs. Popular Solana NFT collections, such as Solana Monkey Business and DeGods, have been doing relatively over the last week.</p>
+      <p>According to SolanaFloor’s data, the number of owners holding the Solana Monkey Business collection has grown materially over the last few days. Coupled with that, the floor price of this NFT collection also grew significantly in the same period.</p>
+      <p>Until press time, no Tron NFT collection could garner the same level of interest as Solana Blue Chip NFT collections.</p>
+      <h3>The dApp angle</h3>
+      <p>Another factor that has aided Solana in retaining such a loyal and engaged user base is because of the dApps on its protocol. One of its dApps, called Raydium, has seen a massive uptick in the number of users on its protocol. Over the last month, the unique active addresses on the protocol surged by a whopping 163.5%.</p>
+      <p>Subsequently, the number of transactions being made on the network also grew.</p>
+      <p>Stakers were optimistic about the state of the network as well. Staking Reward’s data indicated that the number of stakers increased by 4.81% in the last month, standing at 621,060 at press time.</p>
+    </div>
+  },
+  {
+    id: 528,
+    title: 'Bitcoin, Ether fall; Tron trades higher; Investors digest G7, U.S. debt ceiling implications',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Tron'],
+    description: <div className="blog-desc">
+      <p>Bitcoin fell below US$27,000 on Sunday, dipping further Monday morning in Asia as wider macro developments continue to weigh.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023 - 6:39 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-545.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin fell below US$27,000 on Sunday, dipping further Monday morning in Asia as wider macro developments continue to weigh. With the exception of Tron, which traded higher Monday morning, all other top 10 non-stablecoin cryptocurrencies fell. As the Group of Seven summit in Japan concluded Sunday, investors continue to weigh the implications of U.S. debt ceiling negotiations.</p>
+    	<h3>The rise of Tron as Bitcoin, Ether fall</h3>
+      <p>Bitcoin fell 1.95% over the last 24 hours to US$26,669 at 9:30 a.m. in Hong Kong. That decline contributed to a loss of 1.27% over the past seven days, according to data from CoinMarketCap.</p>	
+    	<p>Bitcoin has so far failed to react positively to lower than expected U.S. consumer price index (CPI) data and to ongoing efforts to raise the U.S. debt ceiling, said Markus Thielen, head of research and strategy at Singapore-based crypto lender Matrixport, in a note.</p>	
+    	<p>“The world’s largest cryptocurrency by market cap has been trading sideways since March, and bar any significant macro news, is unlikely to break US$30,000 anytime soon,” Jeff Mei, chief operating officer of crypto exchange BTSE, said. “Plus, the ongoing macro uncertainty is dampening retail investors’ enthusiasm for ‘YOLOing’ into risk assets right now, while institutional investors are cautiously hedging their bets too.”</p>
+      <p>Ether dropped 1.14% in the past 24 hours to US$1,800, down 0.49% over the past week.</p>
+      <p>Solana was the biggest loser among the top 10 non-stablecoin cryptocurrencies. It recorded a 4.22% decline over the past 24 hours and a 6.92% loss for the week.</p>
+      <p>Tron, however, climbed 2.73% over the past 24 hours to US$0.07464, up 7.47% over the past week. Matrixport’s Thielen suggested this may be related to the announcement on May 11 by Tron founder Justin Sun that he would begin trading in memecoins.</p>
+      <p>Meanwhile, Tornado Cash rose 23.38% in the past 24 hours to US$4.62. The coin had plummeted to as low as US$3.859 on Sunday before recovering.</p>
+      <p>The drop came as the token’s issuer — the Tornado Cash decentralized autonomous organization (DAO) — fell victim to what appeared to be voter fraud over the weekend. Binance, the world’s largest crypto exchange, said on Sunday that it had temporarily halted trading of the token.</p>
+      <h3>Bitcoin Ordinals continue to rise</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index remained flat at 3,399.6 points in the 24 hours to 10:30 a.m. in Hong Kong. The index was up 1.77% over the past seven days.</p>
+      <p>NFT sales on Ethereum, the most-used blockchain for NFTs, shrank 3.96% in the last 24 hours to US$15.1 million. Sales on the Bitcoin blockchain dropped 18.5% to US$3.54 million, according to Cryptoslam data.</p>
+      <p>The Mutant Ape Yacht Club collection recorded the most sales on Ethereum over the past 24 hours. Its daily sales rose 1.1% to US$1.9 million.</p>
+      <p>With the growing popularity of Bitcoin Ordinals, so-called uncategorized Ordinals – Ordinals that are not part of an established collection – saw a 29% rise to US$960,597 in sales value over the past 24 hours.</p>
+      <h3>US stock futures mixed as talks resume</h3>
+      <p>U.S. stock futures were trading mixed as of 11:50 a.m. in Hong Kong, as investors continued to assess uncertainties surrounding the U.S. debt ceiling talks, alongside the outcomes of the weekend’s G7 summit.</p>
+      <p>The Dow Jones Industrial Average was down 0.1%, while the S&P 500 edged down 0.036%. The Nasdaq Composite futures added 0.088%.</p>
+      <p>Market watchers are expecting U.S. President Joe Biden to meet with House of Representatives Speaker Kevin McCarthy on Monday to carry on negotiations related to raising the debt ceiling. A deal would help the nation avoid a  potential default on its debt — an outcome that would likely prove devastating for U.S. and global markets.</p>
+      <p>During a speech at the G7 summit in the Japanese city of Hiroshima Sunday, Biden unexpectedly drew crypto into the debt ceiling conversation.</p>
+      <p>The president would not, he said, agree to “a deal that protects wealthy tax cheats and crypto traders while putting food assistance at risk for nearly a hundred – excuse me – nearly 1 million Americans.”</p>
+      <p>The president’s words offered some indication of the bipartisan nature of ongoing debt discussions between the White House and Congress.</p>
+      <p>Meanwhile, U.S. Treasury Secretary Janet Yellen reaffirmed in an NBC interview Sunday that June 1 remains a “hard deadline” to raise the debt limit. Failure to do so would undermine global trust in U.S. securities as a safe haven for investment, Yellen added.</p>
+      <p>“It’s not an acceptable situation for us to be unable to pay our bills,” she said.</p>
+      <p>Elsewhere, the People’s Bank of China on Monday morning said that it maintained its key lending rates steady for the ninth straight month, leaving its one-year loan prime rate unchanged at 3.65% and the five-year rate at 4.3%.</p>
+    </div>
+  },
+  {
     id: 527,
     title: 'XRP gains; Lift-off for Space Pepe NFTs; US investor sentiment up on positive debt talks',
     category: 'Crypto',
