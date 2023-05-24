@@ -1,5 +1,120 @@
 const data = [
   {
+    id: 532,
+    title: 'Bitcoin, Ether rise; Dogecoin falls despite record high transaction volume',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Dogecoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin edged up and continued trading above the US$27,000 threshold on Wednesday morning in Asia, with other top 10 non-stablecoin cryptocurrencies trading mixed.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 24, 2023 - 6:48 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-556.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Bitcoin edged up and continued trading above the US$27,000 threshold on Wednesday morning in Asia, with other top 10 non-stablecoin cryptocurrencies trading mixed. Investors continue to eye U.S. debt ceiling talks.</p>
+	    <h3>Bitcoin, Ether rise</h3>
+      <p>Bitcoin rose 0.39% over the last 24 hours to US$27,172 at 9:45 a.m. in Hong Kong, according to data from CoinMarketCap. Hong Kong’s securities regulator announced Tuesday that it will allow trading of certain crypto assets from June 1, contributing to the rise.</p>	
+	    <p>The world’s largest cryptocurrency by market capitalization was, however, down 0.14% over the past seven days.</p>	
+	    <p>Ether climbed 0.43% in the past 24 hours to US$1,848, up 0.82% over the past week.</p>
+      <p>Dogecoin was down 1% over the last 24 hours to US$0.07267. It also logged a 1% weekly decline.</p>
+      <p>Conversely, daily transaction volume on the Dogecoin network reached an all-time high of 1.42 million transactions on Monday. That figure surpasses Ethereum’s 1.11 million, Bitcoin’s 519,716 and Litecoin’s 258,222 transactions, according to data from BitInfoCharts.</p>
+      <p>The rise followed the launch on May 9 of a new Dogecoin mechanism. This allows the  issuance of so-called DRC-20 tokens. Some social media commentators have attributed the gains to the hype caused by the release.</p>
+      <p>Meanwhile, BNB added 0.58% over the past 24 hours to US$312. That rise came despite a Reuters report published Tuesday alleging that Binance, the token’s issuer, had failed to properly separate client and company funds.</p>
+      <p>“The report is definitely not bullish for Binance or BNB but, ultimately, that’s still one piece of news within a broader market,” said Justin d’Anethan, head of APAC business development at Belgium-based crypto market maker Keyrock.</p>
+      <p>“It’s worth noting that BNB as a blockchain recorded a massive amount of transactions, which seems to hint at a lot of enthusiasm, building and utility for the chain, regardless of allegations on Binance’s business.”</p>
+      <h3>Bitcoin-based NFT daily sales rise</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index edged up 0.01% at 3,389.10 in the 24 hours to 11:00 a.m. in Hong Kong. The index was up 0.12% over the past seven days.</p>
+      <p>NFT sales on Ethereum fell 5.34% in the last 24 hours to US$13.49 million, according to CryptoSlam data. Whereas, sales on the Bitcoin blockchain expanded 49.67% to US$4.03 million.</p>
+      <p>AssetDash Vanta, a Solana-based NFT collection that started minting on Tuesday, recorded the most sales across the NFT market in the past 24 hours. It recorded a daily sales value of US$1.54 million.</p>
+      <p>Bitamigos, a Bitcoin Ordinals collection, is currently second in terms of daily sales value. Its daily sales rose 30.4% over the past 24 hours to US$1.05 million.</p>
+      <p>According to Yehudah Petscher, NFT Strategist at Forkast Labs, “the past seven days in NFTs have been all about Bitcoin Ordinals, which now represent three of the top 10 collections.”</p>
+      <p>He added that Bored Ape Yacht Club “has been dethroned for now, with two Ordinals projects and Mythos Chain’s DMarket all outselling the NFT community’s favorite apes.”</p>
+      <p>Regardless, BAYC still saw the most sales on Ethereum in the last 24 hours. It recorded a daily sales value of US$950,020.</p>
+      <h3>U.S. futures rise; New Zealand raises rates</h3>
+      <p>Major U.S. stock futures rose as of noon in Hong Kong. The Dow Jones Industrial Average futures edged up 0.09%, while the tech-heavy Nasdaq 100 futures rose 0.1%. The S&P 500 futures added 0.11%.</p>
+      <p>U.S. debt ceiling negotiations continue to drag on. A group of House Republicans raised questions Tuesday regarding the June 1 debt default deadline suggested by Treasury Secretary Janet Yellen.</p>
+      <p>Yellen has repeatedly stated that the U.S. will fail to pay its debts from that date. The resulting default would lead to devastating consequences for U.S. and global markets. It would also, Yellen warns, erode global trust in U.S. treasuries as a safe haven for investment.</p>
+      <p>House Majority Leader Steve Scalise told reporters on Tuesday that they would like to see “more transparency” on how the Treasury Department arrived at June 1 as the so-called “X-date” for the default.</p>
+      <p>“It looks like they’re hedging now and opening the door to move that date back,” he said.</p>
+      <p>Meanwhile, New Zealand’s central bank hiked interest rates by 25 basis points Wednesday to 5.5%. That is its highest rate in over 14 years. The move is in line with the expectations of economists polled by Reuters.</p>
+      <p>Elsewhere, in Japan, business sentiment among domestic manufacturers turned positive for the first time this year, according to a Reuters Tankan poll for May.</p>
+    </div>
+  },
+  {
+    id: 531,
+    title: 'Things look up for MATIC as zkEVM witnesses decline in…',
+    category: 'Crypto',
+    subCategory: ['Matic', 'zkEVM', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Users should keep an eye on Ethereum’s price and network activity to take advantage of less transaction fees. MATIC’s price action after a long wait turned green.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 23, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-554.jpg',
+    content: <div className="blog-content">
+      <p>Users should keep an eye on Ethereum’s price and network activity to take advantage of less transaction fees. MATIC’s price action after a long wait turned green.</p>
+      <ul>
+        <li>Optimizations to Polygon zkEVM are expected to reduce fees by roughly 20%.</li>
+        <li>MATIC’s price increased by 2% in the last 24 hours, and metrics looked bullish.</li>
+      </ul>
+    	<p>In its latest tweet, Polygon [MATIC] announced that over the next few weeks, optimizations to zkEVM are expected to reduce fees by roughly 20%. The decline in fees can be a game changer for zkEVM, as it will help attract new users.</p>
+    	<h3>How will users benefit?</h3>
+      <p>Though the fee reduction will take some time, Polygon revealed a few methods of which users can take advantage even now. As per the tweet, Ethereum’s [ETH] trading price can be tracked in order to make transactions with lower fees.</p>	
+    	<p>Because most of the transaction fee is for interactions with L1, users should wait for the times of day when Ethereum is cheapest. Additionally, keeping a close eye on network activity will also help. This is because transaction fees usually go down when network activity increases.</p>	
+    	<h3>A look at Polygon zkEVM’s performance </h3>
+      <p>After quite a few weeks of sluggish performance, zkEVM’s metrics showed immense gains. For instance, Polygonscan’s data revealed that zkEVM’s daily transactions skyrocketed. In addition to that, zkEVM’s daily gas use also increased considerably, which reflected increased usage of the roll-up.</p>
+      <p>Though Polygon zkEVM’s stats looked encouraging, it still had a long way to go before catching up with its competitor, zkSync Era. According to Artemis’ data, zkSync’s daily active addresses were considerably higher than those of zkEVM.</p>
+      <p>The same trend remained true for daily transactions, as zkEVM’s figure was substantially lower than zkSync.</p>
+      <h3>MATIC has finally responded positively </h3>
+      <p>After a long wait, Polygon’s daily chart finally turned green. According to CoinMarketCap, Polygon’s price increased by 2% in the last 24 hours. At the time of writing, MATIC was trading at $0.8822, with a market capitalization of over $8.1 billion.</p>
+      <p>A reason behind the surge might be MATIC’s declining exchange reserve, which suggests that the token was not under selling pressure. Whales seemed to have increased their holdings as the supply held by top addresses went up.</p>
+      <p>MATIC’s supply on exchanges declined while its supply outside of exchanges increased slightly. Moreover, the token also remained in demand in the futures market, as evident from its green Binance funding rate.</p>
+    </div>
+  },
+  {
+    id: 530,
+    title: 'What next after Bitcoin’s latest plateau',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'plateau', 'BTC'],
+    description: <div className="blog-desc">
+      <p>Bitcoin consolidates near key support with a bearish overhead stronghold and neutral futures market.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-555.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin consolidates near key support with a bearish overhead stronghold and neutral futures market.</p>
+      <ul>
+        <li>BTC oscillated between 50-EMA and 100-EMA since 9 May.</li>
+        <li>Open interest rates remained unchanged; longs discouraged.</li>
+      </ul>
+    	<p>Bitcoin [BTC] continued consolidating near $26.6k support, with volumes remaining low since late March. While the current level could be an accumulation zone, BTC is yet to register a strong rebound, highlighting the tussle between bulls and bears at $26.6k.</p>
+    	<p>A recent report highlighted that self-custody for both BTC and ETH has been on the rise, suggesting investors’ huge bets on a likely uptrend move.</p>	
+    	<p>But key price resistance levels await, and here is a strong bearish stronghold for BTC bulls to watch out for on the daily chart.</p>	
+    	<h3>Will $26.6k and 100-EMA check further drop?</h3>
+      <p>The drop from 6 May, left behind an FVG (fair value gap) zone between $27,826 – $28,396 (white). Just below the FVG zone lay the 50-EMA of $27.57k (blue line). Above it lays the $28.5k resistance, a key obstacle back in the second half of March.</p>
+      <p>This makes the area a strong bearish stronghold, and bulls must clear it to gain leverage and dent any prevailing bearish sentiment.</p>
+      <p>A negative price reaction from the above bearish zone and subsequent breach of the $26.6k support could further weaken BTC’s market structure. The next support levels to the south are the dynamic 100-EMA (yellow) and $25.26k.</p>
+      <p>However, a daily session close above the bearish stronghold ($28.5k) could set BTC to rally and retest recent highs of $29k or $31k. Above these resistance levels, the next resistance level lay at $32.4k.</p>
+      <p>Meanwhile, the RSI was below the mid-range, highlighting limited buying pressure. However, the CMF (Chaikin Money Flow) was above the zero mark, indicating substantial capital inflows.</p>
+      <h3>BTC’s open interest rates stagnate</h3>
+      <p>According to Coinglass data, BTC’s futures open interest rates hovered around $11 billion since the second half of April. This shows a neutral position in the futures market in the same period, meaning prices can go in either direction.</p>
+      <p>However, Coinglass’s total liquidation data showed longs were discouraged, with over $5 million worth of positions, out of $9.7 million, wrecked in the past 24 hours as of press time. This reinforces a mild bearish sentiment in the futures market.</p>
+      <p>A more nuanced direction could be clear from Monday (22 May). The U.S. debt ceiling negotiation is a major development worth tracking over the coming days as it may affect BTC’s movements.</p>
+    </div>
+  },
+  {
     id: 529,
     title: 'Solana’s ‘secret’ behind overtaking Tron despite low users is…',
     category: 'Crypto',
