@@ -1,5 +1,197 @@
 const data = [
   {
+    id: 532,
+    title: 'Bitcoin, Ether rise; Dogecoin falls despite record high transaction volume',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Dogecoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin edged up and continued trading above the US$27,000 threshold on Wednesday morning in Asia, with other top 10 non-stablecoin cryptocurrencies trading mixed.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 24, 2023 - 6:48 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-556.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Bitcoin edged up and continued trading above the US$27,000 threshold on Wednesday morning in Asia, with other top 10 non-stablecoin cryptocurrencies trading mixed. Investors continue to eye U.S. debt ceiling talks.</p>
+	    <h3>Bitcoin, Ether rise</h3>
+      <p>Bitcoin rose 0.39% over the last 24 hours to US$27,172 at 9:45 a.m. in Hong Kong, according to data from CoinMarketCap. Hong Kong’s securities regulator announced Tuesday that it will allow trading of certain crypto assets from June 1, contributing to the rise.</p>	
+	    <p>The world’s largest cryptocurrency by market capitalization was, however, down 0.14% over the past seven days.</p>	
+	    <p>Ether climbed 0.43% in the past 24 hours to US$1,848, up 0.82% over the past week.</p>
+      <p>Dogecoin was down 1% over the last 24 hours to US$0.07267. It also logged a 1% weekly decline.</p>
+      <p>Conversely, daily transaction volume on the Dogecoin network reached an all-time high of 1.42 million transactions on Monday. That figure surpasses Ethereum’s 1.11 million, Bitcoin’s 519,716 and Litecoin’s 258,222 transactions, according to data from BitInfoCharts.</p>
+      <p>The rise followed the launch on May 9 of a new Dogecoin mechanism. This allows the  issuance of so-called DRC-20 tokens. Some social media commentators have attributed the gains to the hype caused by the release.</p>
+      <p>Meanwhile, BNB added 0.58% over the past 24 hours to US$312. That rise came despite a Reuters report published Tuesday alleging that Binance, the token’s issuer, had failed to properly separate client and company funds.</p>
+      <p>“The report is definitely not bullish for Binance or BNB but, ultimately, that’s still one piece of news within a broader market,” said Justin d’Anethan, head of APAC business development at Belgium-based crypto market maker Keyrock.</p>
+      <p>“It’s worth noting that BNB as a blockchain recorded a massive amount of transactions, which seems to hint at a lot of enthusiasm, building and utility for the chain, regardless of allegations on Binance’s business.”</p>
+      <h3>Bitcoin-based NFT daily sales rise</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index edged up 0.01% at 3,389.10 in the 24 hours to 11:00 a.m. in Hong Kong. The index was up 0.12% over the past seven days.</p>
+      <p>NFT sales on Ethereum fell 5.34% in the last 24 hours to US$13.49 million, according to CryptoSlam data. Whereas, sales on the Bitcoin blockchain expanded 49.67% to US$4.03 million.</p>
+      <p>AssetDash Vanta, a Solana-based NFT collection that started minting on Tuesday, recorded the most sales across the NFT market in the past 24 hours. It recorded a daily sales value of US$1.54 million.</p>
+      <p>Bitamigos, a Bitcoin Ordinals collection, is currently second in terms of daily sales value. Its daily sales rose 30.4% over the past 24 hours to US$1.05 million.</p>
+      <p>According to Yehudah Petscher, NFT Strategist at Forkast Labs, “the past seven days in NFTs have been all about Bitcoin Ordinals, which now represent three of the top 10 collections.”</p>
+      <p>He added that Bored Ape Yacht Club “has been dethroned for now, with two Ordinals projects and Mythos Chain’s DMarket all outselling the NFT community’s favorite apes.”</p>
+      <p>Regardless, BAYC still saw the most sales on Ethereum in the last 24 hours. It recorded a daily sales value of US$950,020.</p>
+      <h3>U.S. futures rise; New Zealand raises rates</h3>
+      <p>Major U.S. stock futures rose as of noon in Hong Kong. The Dow Jones Industrial Average futures edged up 0.09%, while the tech-heavy Nasdaq 100 futures rose 0.1%. The S&P 500 futures added 0.11%.</p>
+      <p>U.S. debt ceiling negotiations continue to drag on. A group of House Republicans raised questions Tuesday regarding the June 1 debt default deadline suggested by Treasury Secretary Janet Yellen.</p>
+      <p>Yellen has repeatedly stated that the U.S. will fail to pay its debts from that date. The resulting default would lead to devastating consequences for U.S. and global markets. It would also, Yellen warns, erode global trust in U.S. treasuries as a safe haven for investment.</p>
+      <p>House Majority Leader Steve Scalise told reporters on Tuesday that they would like to see “more transparency” on how the Treasury Department arrived at June 1 as the so-called “X-date” for the default.</p>
+      <p>“It looks like they’re hedging now and opening the door to move that date back,” he said.</p>
+      <p>Meanwhile, New Zealand’s central bank hiked interest rates by 25 basis points Wednesday to 5.5%. That is its highest rate in over 14 years. The move is in line with the expectations of economists polled by Reuters.</p>
+      <p>Elsewhere, in Japan, business sentiment among domestic manufacturers turned positive for the first time this year, according to a Reuters Tankan poll for May.</p>
+    </div>
+  },
+  {
+    id: 531,
+    title: 'Things look up for MATIC as zkEVM witnesses decline in…',
+    category: 'Crypto',
+    subCategory: ['Matic', 'zkEVM', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Users should keep an eye on Ethereum’s price and network activity to take advantage of less transaction fees. MATIC’s price action after a long wait turned green.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 23, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-554.jpg',
+    content: <div className="blog-content">
+      <p>Users should keep an eye on Ethereum’s price and network activity to take advantage of less transaction fees. MATIC’s price action after a long wait turned green.</p>
+      <ul>
+        <li>Optimizations to Polygon zkEVM are expected to reduce fees by roughly 20%.</li>
+        <li>MATIC’s price increased by 2% in the last 24 hours, and metrics looked bullish.</li>
+      </ul>
+    	<p>In its latest tweet, Polygon [MATIC] announced that over the next few weeks, optimizations to zkEVM are expected to reduce fees by roughly 20%. The decline in fees can be a game changer for zkEVM, as it will help attract new users.</p>
+    	<h3>How will users benefit?</h3>
+      <p>Though the fee reduction will take some time, Polygon revealed a few methods of which users can take advantage even now. As per the tweet, Ethereum’s [ETH] trading price can be tracked in order to make transactions with lower fees.</p>	
+    	<p>Because most of the transaction fee is for interactions with L1, users should wait for the times of day when Ethereum is cheapest. Additionally, keeping a close eye on network activity will also help. This is because transaction fees usually go down when network activity increases.</p>	
+    	<h3>A look at Polygon zkEVM’s performance </h3>
+      <p>After quite a few weeks of sluggish performance, zkEVM’s metrics showed immense gains. For instance, Polygonscan’s data revealed that zkEVM’s daily transactions skyrocketed. In addition to that, zkEVM’s daily gas use also increased considerably, which reflected increased usage of the roll-up.</p>
+      <p>Though Polygon zkEVM’s stats looked encouraging, it still had a long way to go before catching up with its competitor, zkSync Era. According to Artemis’ data, zkSync’s daily active addresses were considerably higher than those of zkEVM.</p>
+      <p>The same trend remained true for daily transactions, as zkEVM’s figure was substantially lower than zkSync.</p>
+      <h3>MATIC has finally responded positively </h3>
+      <p>After a long wait, Polygon’s daily chart finally turned green. According to CoinMarketCap, Polygon’s price increased by 2% in the last 24 hours. At the time of writing, MATIC was trading at $0.8822, with a market capitalization of over $8.1 billion.</p>
+      <p>A reason behind the surge might be MATIC’s declining exchange reserve, which suggests that the token was not under selling pressure. Whales seemed to have increased their holdings as the supply held by top addresses went up.</p>
+      <p>MATIC’s supply on exchanges declined while its supply outside of exchanges increased slightly. Moreover, the token also remained in demand in the futures market, as evident from its green Binance funding rate.</p>
+    </div>
+  },
+  {
+    id: 530,
+    title: 'What next after Bitcoin’s latest plateau',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'plateau', 'BTC'],
+    description: <div className="blog-desc">
+      <p>Bitcoin consolidates near key support with a bearish overhead stronghold and neutral futures market.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-555.jpg',
+    content: <div className="blog-content">
+      <p>Bitcoin consolidates near key support with a bearish overhead stronghold and neutral futures market.</p>
+      <ul>
+        <li>BTC oscillated between 50-EMA and 100-EMA since 9 May.</li>
+        <li>Open interest rates remained unchanged; longs discouraged.</li>
+      </ul>
+    	<p>Bitcoin [BTC] continued consolidating near $26.6k support, with volumes remaining low since late March. While the current level could be an accumulation zone, BTC is yet to register a strong rebound, highlighting the tussle between bulls and bears at $26.6k.</p>
+    	<p>A recent report highlighted that self-custody for both BTC and ETH has been on the rise, suggesting investors’ huge bets on a likely uptrend move.</p>	
+    	<p>But key price resistance levels await, and here is a strong bearish stronghold for BTC bulls to watch out for on the daily chart.</p>	
+    	<h3>Will $26.6k and 100-EMA check further drop?</h3>
+      <p>The drop from 6 May, left behind an FVG (fair value gap) zone between $27,826 – $28,396 (white). Just below the FVG zone lay the 50-EMA of $27.57k (blue line). Above it lays the $28.5k resistance, a key obstacle back in the second half of March.</p>
+      <p>This makes the area a strong bearish stronghold, and bulls must clear it to gain leverage and dent any prevailing bearish sentiment.</p>
+      <p>A negative price reaction from the above bearish zone and subsequent breach of the $26.6k support could further weaken BTC’s market structure. The next support levels to the south are the dynamic 100-EMA (yellow) and $25.26k.</p>
+      <p>However, a daily session close above the bearish stronghold ($28.5k) could set BTC to rally and retest recent highs of $29k or $31k. Above these resistance levels, the next resistance level lay at $32.4k.</p>
+      <p>Meanwhile, the RSI was below the mid-range, highlighting limited buying pressure. However, the CMF (Chaikin Money Flow) was above the zero mark, indicating substantial capital inflows.</p>
+      <h3>BTC’s open interest rates stagnate</h3>
+      <p>According to Coinglass data, BTC’s futures open interest rates hovered around $11 billion since the second half of April. This shows a neutral position in the futures market in the same period, meaning prices can go in either direction.</p>
+      <p>However, Coinglass’s total liquidation data showed longs were discouraged, with over $5 million worth of positions, out of $9.7 million, wrecked in the past 24 hours as of press time. This reinforces a mild bearish sentiment in the futures market.</p>
+      <p>A more nuanced direction could be clear from Monday (22 May). The U.S. debt ceiling negotiation is a major development worth tracking over the coming days as it may affect BTC’s movements.</p>
+    </div>
+  },
+  {
+    id: 529,
+    title: 'Solana’s ‘secret’ behind overtaking Tron despite low users is…',
+    category: 'Crypto',
+    subCategory: ['Solana', 'Tron', 'crypto'],
+    description: <div className="blog-desc">
+      <p>The Solana network continued to see improvements and outperformed Tron in various areas. What was driving SOL’s growth?</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-546.jpg',
+    content: <div className="blog-content">
+      <p>The Solana network continued to see improvements and outperformed Tron in various areas. What was driving SOL’s growth?</p>
+    	<ul>
+        <li>Solana outperforms Tron in various sectors, despite having fewer active addresses.</li>
+        <li>A booming NFT market and high activity on dApps helped the network’s rise.</li>
+      </ul>
+      <p>Tron [TRX] has been exceeding expectations as the number of daily active users continued to surge. This caused the protocol to generate large amounts of revenue.</p>
+	    <p>However, despite these factors, Solana [SOL] outperformed Tron in various areas.</p>	
+      <h3>Tron cannot catch up</h3>
+	    <p>Artemis’ data showcased that the daily active addresses on the Tron network were high compared to Solana at press time. However, the latter still outperformed Tron in terms of daily transactions by a huge margin.</p>	
+	    <p>This indicated that even though Tron had a large user base, Solana’s users were more engaged with the network. One reason for the same would be the popularity of Solana NFTs. Popular Solana NFT collections, such as Solana Monkey Business and DeGods, have been doing relatively over the last week.</p>
+      <p>According to SolanaFloor’s data, the number of owners holding the Solana Monkey Business collection has grown materially over the last few days. Coupled with that, the floor price of this NFT collection also grew significantly in the same period.</p>
+      <p>Until press time, no Tron NFT collection could garner the same level of interest as Solana Blue Chip NFT collections.</p>
+      <h3>The dApp angle</h3>
+      <p>Another factor that has aided Solana in retaining such a loyal and engaged user base is because of the dApps on its protocol. One of its dApps, called Raydium, has seen a massive uptick in the number of users on its protocol. Over the last month, the unique active addresses on the protocol surged by a whopping 163.5%.</p>
+      <p>Subsequently, the number of transactions being made on the network also grew.</p>
+      <p>Stakers were optimistic about the state of the network as well. Staking Reward’s data indicated that the number of stakers increased by 4.81% in the last month, standing at 621,060 at press time.</p>
+    </div>
+  },
+  {
+    id: 528,
+    title: 'Bitcoin, Ether fall; Tron trades higher; Investors digest G7, U.S. debt ceiling implications',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Tron'],
+    description: <div className="blog-desc">
+      <p>Bitcoin fell below US$27,000 on Sunday, dipping further Monday morning in Asia as wider macro developments continue to weigh.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023 - 6:39 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-545.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin fell below US$27,000 on Sunday, dipping further Monday morning in Asia as wider macro developments continue to weigh. With the exception of Tron, which traded higher Monday morning, all other top 10 non-stablecoin cryptocurrencies fell. As the Group of Seven summit in Japan concluded Sunday, investors continue to weigh the implications of U.S. debt ceiling negotiations.</p>
+    	<h3>The rise of Tron as Bitcoin, Ether fall</h3>
+      <p>Bitcoin fell 1.95% over the last 24 hours to US$26,669 at 9:30 a.m. in Hong Kong. That decline contributed to a loss of 1.27% over the past seven days, according to data from CoinMarketCap.</p>	
+    	<p>Bitcoin has so far failed to react positively to lower than expected U.S. consumer price index (CPI) data and to ongoing efforts to raise the U.S. debt ceiling, said Markus Thielen, head of research and strategy at Singapore-based crypto lender Matrixport, in a note.</p>	
+    	<p>“The world’s largest cryptocurrency by market cap has been trading sideways since March, and bar any significant macro news, is unlikely to break US$30,000 anytime soon,” Jeff Mei, chief operating officer of crypto exchange BTSE, said. “Plus, the ongoing macro uncertainty is dampening retail investors’ enthusiasm for ‘YOLOing’ into risk assets right now, while institutional investors are cautiously hedging their bets too.”</p>
+      <p>Ether dropped 1.14% in the past 24 hours to US$1,800, down 0.49% over the past week.</p>
+      <p>Solana was the biggest loser among the top 10 non-stablecoin cryptocurrencies. It recorded a 4.22% decline over the past 24 hours and a 6.92% loss for the week.</p>
+      <p>Tron, however, climbed 2.73% over the past 24 hours to US$0.07464, up 7.47% over the past week. Matrixport’s Thielen suggested this may be related to the announcement on May 11 by Tron founder Justin Sun that he would begin trading in memecoins.</p>
+      <p>Meanwhile, Tornado Cash rose 23.38% in the past 24 hours to US$4.62. The coin had plummeted to as low as US$3.859 on Sunday before recovering.</p>
+      <p>The drop came as the token’s issuer — the Tornado Cash decentralized autonomous organization (DAO) — fell victim to what appeared to be voter fraud over the weekend. Binance, the world’s largest crypto exchange, said on Sunday that it had temporarily halted trading of the token.</p>
+      <h3>Bitcoin Ordinals continue to rise</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index remained flat at 3,399.6 points in the 24 hours to 10:30 a.m. in Hong Kong. The index was up 1.77% over the past seven days.</p>
+      <p>NFT sales on Ethereum, the most-used blockchain for NFTs, shrank 3.96% in the last 24 hours to US$15.1 million. Sales on the Bitcoin blockchain dropped 18.5% to US$3.54 million, according to Cryptoslam data.</p>
+      <p>The Mutant Ape Yacht Club collection recorded the most sales on Ethereum over the past 24 hours. Its daily sales rose 1.1% to US$1.9 million.</p>
+      <p>With the growing popularity of Bitcoin Ordinals, so-called uncategorized Ordinals – Ordinals that are not part of an established collection – saw a 29% rise to US$960,597 in sales value over the past 24 hours.</p>
+      <h3>US stock futures mixed as talks resume</h3>
+      <p>U.S. stock futures were trading mixed as of 11:50 a.m. in Hong Kong, as investors continued to assess uncertainties surrounding the U.S. debt ceiling talks, alongside the outcomes of the weekend’s G7 summit.</p>
+      <p>The Dow Jones Industrial Average was down 0.1%, while the S&P 500 edged down 0.036%. The Nasdaq Composite futures added 0.088%.</p>
+      <p>Market watchers are expecting U.S. President Joe Biden to meet with House of Representatives Speaker Kevin McCarthy on Monday to carry on negotiations related to raising the debt ceiling. A deal would help the nation avoid a  potential default on its debt — an outcome that would likely prove devastating for U.S. and global markets.</p>
+      <p>During a speech at the G7 summit in the Japanese city of Hiroshima Sunday, Biden unexpectedly drew crypto into the debt ceiling conversation.</p>
+      <p>The president would not, he said, agree to “a deal that protects wealthy tax cheats and crypto traders while putting food assistance at risk for nearly a hundred – excuse me – nearly 1 million Americans.”</p>
+      <p>The president’s words offered some indication of the bipartisan nature of ongoing debt discussions between the White House and Congress.</p>
+      <p>Meanwhile, U.S. Treasury Secretary Janet Yellen reaffirmed in an NBC interview Sunday that June 1 remains a “hard deadline” to raise the debt limit. Failure to do so would undermine global trust in U.S. securities as a safe haven for investment, Yellen added.</p>
+      <p>“It’s not an acceptable situation for us to be unable to pay our bills,” she said.</p>
+      <p>Elsewhere, the People’s Bank of China on Monday morning said that it maintained its key lending rates steady for the ninth straight month, leaving its one-year loan prime rate unchanged at 3.65% and the five-year rate at 4.3%.</p>
+    </div>
+  },
+  {
     id: 527,
     title: 'XRP gains; Lift-off for Space Pepe NFTs; US investor sentiment up on positive debt talks',
     category: 'Crypto',

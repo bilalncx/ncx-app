@@ -1,5 +1,99 @@
 const data = [
   {
+    id: 518,
+    title: 'Top 5 China Stocks To Buy And Watch: EV Leaders Show Spark',
+    category: 'Markets',
+    subCategory: ['China', 'Stocks', 'EV'],
+    description: <div className="blog-desc">
+      <p>China is the world's No. 2 economy and home to dozens of companies that trade in the U.S. Right now, Trip.com (TCOM),  Tesla (TSLA) rival BYD (BYDDF), Li Auto (LI) Vipshop (VIPS) and NetEase (NTES) are China stocks worth watching or potentially buying.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023 - 5:46 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-552.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>China is the world's No. 2 economy and home to dozens of companies that trade in the U.S. Right now, Trip.com (TCOM),  Tesla (TSLA) rival BYD (BYDDF), Li Auto (LI) Vipshop (VIPS) and NetEase (NTES) are China stocks worth watching or potentially buying.</p>
+    	<p>It's been a tough couple of years for Chinese stocks. The Covid pandemic, and Beijing's zero-Covid policy, have slammed the economy. Meanwhile, regulatory crackdowns vs. technology and data-centric firms such as Alibaba (BABA), Tencent (TCEHY) and NetEase (NTES) have been a major headwind. The tech crackdown seems to have eased. But Covid restrictions have largely been rolled back, raising hopes for stronger growth as 2023 goes on.</p>	
+    	<p>U.S. tensions are a concern. In recent months, the White House has barred shipments of key chip technology to China, adding to tariffs and other curbs on Chinese goods.</p>	
+    	<p>But after a long stretch where it was difficult to find five top China stocks to buy or watch, a growing number of Chinese companies are setting up. Alibaba, Tencent, ZTO Express (ZTO) and Baidu (BIDU) are among others close to buy points.</p>
+      <h3>BYD Stock</h3>
+      <p>BYD is China's largest EV maker, and has recently become the country's biggest automaker period. It's also the largest maker of electric vehicles, including its high-mileage plug-in hybrids. It still lags Tesla in battery electric vehicles, or BEVs, but has narrowed the gap considerably.</p>
+      <p>BYD reported Q1 net profit surged 411% vs. a year earlier, while revenue jumped nearly 80%. But actual earnings and sales were down substantially vs. Q4 2022. Some of that reflects a seasonally slow first quarter, with China New Year. Some of it reflects higher R&D spending. But it also reflects the impact of a fierce China EV price war.</p>	
+    	<p>BYD didn't rush into the price war, though discounts and price cuts have picking up in recent weeks.</p>	
+    	<p>BYD's April sales of 210,295 vehicles, were up slightly from March's 207,080, but still down substantially vs. December.</p>
+      <p>Of the 209,467 personal vehicles, BYD sold 104,364 BEVs and 105,103 plug-in hybrid vehicles (PHEVs).</p>
+      <p>The automaker also likely is pinning its hopes on strong demand for new models, including the compact Seagull that will start at around $10,700.</p>	
+    	<p>BYD now has EVs ranging from  just under $11,000 to $160,000.</p>	
+    	<p>The EV giant is massively expanding its vehicle and battery production capacity. It's building a factory in Thailand. It's also going to build a plant in Vietnam, with speculation that plants in Brazil, Europe and Indonesia could follow.</p>
+      <p>BYD stock cleared a 31.17 cup-with-handle base buy point and is moving higher in the 5% chase zone.</p>
+      <p>BYD stock is listed in Hong Kong and trades over the counter in the U.S.</p>	
+    	<p>Bottom line: BYDDF stock is a buy.</p>	
+      <h3>Trip.com Stock</h3>
+    	<p>Trip.com is a Chinese online travel firm, with operations in various countries.</p>
+      <p>It's one of the biggest beneficiaries of China's reopening, with millions of people eager to travel within China and beyond.</p>
+      <p>Trip.com's Q4 earnings rose 38% vs. a year earlier, defying views for a loss. Revenue fell 1%, also topping views. The company was bullish on travel, with analysts expected hot growth in 2023-2024.</p>	
+    	<p>Q1 results are due May 24.</p>	
+    	<p>Trip.com stock more than doubled from the October low of 19.25 to the Jan. 27 peak of 40.17.</p>
+      <p>A base has formed with a 40.27 buy point. But shares have fallen below 50-day lines. The stock did recently find support near their 200-day and is trying to rebound.</p>
+      <p>Bottom line: TCOM stock isn't a buy.</p>	
+      <h3>Vipshop Stock</h3>
+    	<p>Vipshop is a Chinese e-commerce site, specializing in discount, limited sales. Earnings have rebounded for the past three quarters but revenue has continued to fall.</p>	
+    	<p>One issue for VIPS stock is that shares of its larger rivals, namely Alibaba, JD.com and PDD Holdings, are not acting well.</p>
+      <p>VIPS stock briefly rallied above a 16.08 handle buy point in a three-month base, hitting a 52-week high. But shares tumbled back after Alibaba earnings, moving below the 50-day line.</p>
+      <p>Vipshop earnings are due May 23.</p>	
+    	<p>Bottom line: VIPS stock is not a buy.</p>	
+      <h3>Li Auto Stock</h3>
+    	<p>Li Auto makes premium hybrid SUVs, though it's moving down the price scale as it expands its lineup, with a non-SUV on the horizon.</p>
+      <p>Li Auto is expanding rapidly and is already profitable. Consistent profits have been tricky, but with the end of Covid restrictions and production ramping up, Li Auto is set to see booming earnings in 2023 and 2024.</p>
+      <p>On May 10, Li Auto reported first-quarter earnings surged 186% vs. a year earlier, far above views. Revenue spiked 96.5% to $2.74 billion. Already reported deliveries were 52,584, up 66%.</p>	
+    	<p>For the second quarter, Li sees deliveries of 76,000-81,000. It's already reported a record 25,681 deliveries for April, up 23% vs. March.</p>	
+    	<p>China's EV price war is a concern. While the price war is most intense at the 200,000-300,000 RMB segment, the premium segment is getting increasingly crowded. And Li Auto's move toward the mainstream market, while greatly expanding its target audience, also exposes itself to fierce competition.</p>
+      <p>Li Auto unveiled its EV-only plans on April 18 at the Shanghai Auto show.</p>
+      <p>From the Oct. 24 low of 12.52, LI stock more than doubled to 27.48 on Feb. 2. Shares then consolidated.</p>	
+    	<p>Li briefly broke out of a double-bottom base in April, but that quickly failed. But on May 10, shares blasted past a new 26.37 early entry and 27.58 official buy point.</p>	
+    	<p>Shares are now extended from the base. After surging in its breakout week, LI stock traded tightly the following week, showing some elements of a short-stroke pattern.</p>
+      <p>Bottom line: LI stock is not a buy.</p>
+      <h3>NetEase Stock</h3>
+      <p>NetEase is a China mobile gaming giant.</p>	
+    	<p>Q4 EPS fell 32% vs. a year earlier, while revenue dipped 4%.</p>	
+    	<p>Q1 results are due on May 25.</p>
+      <p>After running from 53.09 in late October to 93.19 in late January,</p>
+      <p>After a consolidation, NTES stock briefly broke out on April 17, but that quickly failed. Shares have now forged a flat base next to that prior consolidation, with a new 95.09 buy point.</p>	
+    	<p>Shares are above the 50-day line. Arguably there's an early entry from clearing a trendline and the May 15 high of 90.06, but the upcoming earnings report substantially raises the risks.</p>	
+    	<p>Bottom line: NTES stock is not a buy.</p>
+    </div>
+  },
+  {
+    id: 517,
+    title: 'Morgan Stanley Says US Rally Isn’t Start of Bull Market',
+    category: 'Markets',
+    subCategory: ['Morgan', 'Bull', 'Market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Major US stock-market strategists are starting a bull-bear debate, with pessimist Michael Wilson of Morgan Stanley warning that the latest rally is a head fake, while Bank of America’s Savita Subramanian raises her 2023 target for the S&P 500 Index.</p>
+    </div>,
+    authorName: 'Sagarika Jaisinghani',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023 - 4:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-551.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Major US stock-market strategists are starting a bull-bear debate, with pessimist Michael Wilson of Morgan Stanley warning that the latest rally is a head fake, while Bank of America’s Savita Subramanian raises her 2023 target for the S&P 500 Index.</p>
+	    <p>Wilson was one of the few Wall Street strategists to see the 2022 meltdown coming, earning him the top spot in last year’s Institutional Investor magazine survey, and has remained one of the most bearish voices in the market even as the S&P rallied 9% to start 2023. At this point, he sees too many troubling triggers to believe the gains will stick.</p>	
+	    <p>“Is this finally the breakout to confirm a new bull market?” Wilson wrote in a note to clients Monday. “The short answer is no.” In particular, he sees risks in lofty valuations, a narrow breadth of stocks driving the gains and the outperformance of defensive stocks.</p>	
+	    <p>But where Wilson is looking at a half-empty glass, Subramanian says she sees a “half-full” one. She raised her 2023 year-end price target for the S&P 500 to 4,300 from 4,000. The equities benchmark topped 4,200 on Friday before drifting lower.</p>
+      <p>“The era of easy money is behind us, but that might be a good thing,” she wrote in a note to clients on Sunday. “Corporate America has shifted focus to structural benefits — efficiency/automation/AI — and have bought themselves time to adapt via long-dated fixed-rate debt. Old economy cyclicals, capital-starved since 2008, have become disciplined and self-sufficient, evidenced by lower betas and more stable earnings.”</p>
+      <p>History appears to be on Subramanian’s side, as a strong first 100 days in the S&P 500 typically means significant upside for the rest of the year.</p>
+      <p>One short-term risk for the market is the ongoing debate in Washington over raising the US debt ceiling. Wilson said a resolution in the negotiations may briefly drive stocks higher, but “we would view that as a false breakout/bull trap.”</p>
+      <p>Others, including JPMorgan Chase & Co. strategists led by Dubravko Lakos-Bujas are also warning about more market volatility as the talks drag on. President Joe Biden and Republican House Speaker Kevin McCarthy are set to meet Monday.</p>
+      <p>--With assistance from Michael Msika and Jan-Patrick Barnert.</p>
+    </div>
+  },
+  {
     id: 516,
     title: 'Dow Jones Futures: S&P 500 Hits 2023 High As Nvidia, Netflix, Palantir Soar, But Dont Do This',
     category: 'Markets',

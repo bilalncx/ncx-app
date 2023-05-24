@@ -1,5 +1,131 @@
 const data = [
   {
+    id: 514,
+    title: 'Dow Jones Futures Rise: Biden-McCarthy Debt-Ceiling Talks Loom; China Move Hits Micron',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Micron', 'China'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures tilted higher Monday morning, along with S&P 500 futures and Nasdaq futures.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023 - 4:16 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-549.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures tilted higher Monday morning, along with S&P 500 futures and Nasdaq futures. President Joe Biden and House Speaker Kevin McCarthy will meet today for face-to-face debt-ceiling talks. China sanctions vs. Micron Technology (MU) weighed on chip stocks.</p>
+    	<p>Nvidia earnings loom large this week.</p>	
+    	<p>The stock market rally strengthened last week on debt-ceiling deal optimism and easing bank fears, with gains led by AI-infused tech leaders such as Nvidia (NVDA), Advanced Micro Devices (AMD), ServiceNow (NOW), Google parent Alphabet (GOOGL), Snowflake (SNOW) and Palantir Technologies (PLTR).</p>	
+    	<p>The Nasdaq composite and S&P 500 hit 2023 highs, with the Nasdaq 100 setting its best levels in more than a year. For much of the week, the White House and congressional leaders appeared to be moving toward a debt-ceiling deal while concerns about regional banks waned.</p>
+      <p>On Friday, GOP negotiators suspended debt-ceiling talks, saying President Biden's White House was being unreasonable. At around the same time, a report came out stating that Treasury Secretary Janet Yellen told bank execs that more bank mergers may be needed. That hit regional bank stocks Friday, though they rose strongly for the week.</p>
+      <p>The major indexes took the debt-ceiling setback and Yellen's comments in stride Friday. That's in part because around the same time Fed chief Jerome Powell signaled he favors a rate pause next month.</p>
+      <p>The stock market rally remains somewhat split, with narrow leadership. Still, investors can be adding exposure carefully, though not a lot of stocks are offering buying opportunities at the moment.</p>
+      <p>Tesla (TSLA) made a bullish move this past week amid its shareholder event, clearing some key levels. But TSLA stock faces further resistance.</p>
+      <h3>Debt Ceiling Talks</h3>
+      <p>Investors have remained confident in a debt-limit deal, but doubts may be growing.</p>
+      <p>President Biden had a phone call with Speaker McCarthy Sunday morning as he flew back from the Group of Seven meeting in Japan. McCarthy said it was a "productive" call, but "there's no agreement. We're still apart."</p>
+      <p>White House and House GOP negotiators met Sunday. Biden and McCarthy will meet Monday.</p>
+      <p>Earlier Sunday, President Biden said that he's "looking at the 14th Amendment" to declare debt limits invalid, saying "I think we have the authority." That's much further than the president has gone before. But he worries that the U.S. could default amid court challenges to that untested legal option. "The question is could it be done and invoked in time."</p>
+      <p>The U.S. is likely to hit the debt ceiling in early June.</p>
+      <h3>Micron, Meta Face Overseas Sanction</h3>
+      <p>China warned key Chinese information infrastructure operators against buying Micron Technology (MU) chips, saying it found "relatively serious" cybersecurity risks. Beijing is targeting the U.S. memory-chip maker as it begins to retaliate vs. U.S. chip export bans to China.</p>
+      <p>MU stock fell modestly, off initial premarket lowers. A number of other chip stocks, including Nvidia and AMD, edged lower.</p>
+      <p>The European Union on Monday fined Meta Platforms (META) a record $1.3 billion for sending user information to the U.S.. META stock fell slightly.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.1% vs. fair value. S&P 500 futures climbed 0.1% and Nasdaq 100 futures edged higher.</p>
+      <p>PacWest Bancorp (PACW) will sell 74 real estate loans to Kennedy-Wilson (KW) worth $2.6 billion for $2.4 billion. PACW stock rose solidly while KW advanced slightly.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Nvidia Earnings</h3>
+      <p>Nvidia earnings Wednesday night will be a big deal. NVDA stock is everything that's going right with the market rally. It's the leading megacap and AI stock in a market rally dominated by megacaps and AI plays. Nvidia shares leapt 10% last week and it's significantly extended.</p>
+      <p>Nvidia stock pausing or pulling back modestly over several weeks would be healthy. But if Nvidia earnings or guidance disappoint, NVDA could be punished severely. That also could have repercussions for rival AMD as well as Google and a slew of "AI" plays that have been driving the market higher.</p>
+      <p>ServiceNow stock took off last week amid AI-related alliances with Nvidia and Microsoft (MSFT). SNOW stock gained on a report that it could buy an AI search firm. PLTR stock, long an AI play, vaulted 23% for the week after the prior week's 28% spike on earnings. Google stock has leapt 14% so far in May.</p>
+      <h3>Other Key Earnings</h3>
+      <p>Snowflake, Elf Beauty (ELF), Palo Alto Networks (PANW) and Deckers Outdoor (DECK) also have earnings this week.</p>
+      <p>SNOW stock is in a 10-month consolidation. ELF stock is consolidating at its 21-day line after a huge run. PANW stock is trying to hold its 50-day line within a new, volatile flat base. DECK stock had been a big winner but tumbled this past week below its 50-day line as On Holding (ONON) and Foot Locker (FL) dived on their results.</p>
+      <p>Nvidia stock is on IBD Leaderboard, with ELF stock on the Leaderboard watchlist. SNOW stock is on the IBD 50. NOW stock is on the IBD Big Cap 20.</p>
+      <p>The video embedded in the article discussed the weekly market action and reviewed three non-AI plays setting up: Life Time Group (LTH), Meritage Homes (MTH) and MercadoLibre (MELI).</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally advanced last week, with a big gap between leaders and laggards.</p>
+      <p>The Dow Jones Industrial Average climbed 0.4% in last week's stock market trading. The S&P 500 index advanced 1.65%. The Nasdaq composite jumped 3%. The small-cap Russell 2000 bounced 1.9%.</p>
+      <p>The 10-year Treasury yield leapt 23 basis points to 3.69%, hitting a two-month high.</p>
+      <p>The odds of a Fed rate hike next month briefly topped 40% during the week amid strong economic data and some hawkish comments from Fed officials. But with Powell saying "we can afford to look at the data," the chance slipped back to about 20% on Friday.</p>
+      <p>U.S. crude oil futures climbed 2.2% to $71.55 a barrel for the week.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the iShares Expanded Tech-Software Sector ETF (IGV) surged 5.25% last week. NOW stock is a big IGV component. The VanEck Vectors Semiconductor ETF (SMH) soared 8.5%. Nvidia stock is a major SMH holding, along with AMD stock. Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) rose 2.7% last week and ARK Genomics ETF (ARKG) gained 3%. Tesla stock is the No. 1 holding across Ark Invest ETFs. Cathie Wood's Ark also owns some PLTR stock.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) slipped 0.5%, its fifth straight weekly loss. U.S. Global Jets ETF (JETS) ascended 4.1%. SPDR S&P Homebuilders ETF (XHB) stepped up 1.2%. The Energy Select SPDR ETF (XLE) gained 1.4%. The Health Care Select Sector SPDR Fund (XLV) slipped 0.7%.</p>
+      <p>The Financial Select SPDR ETF (XLF) rose 2.2% The SPDR S&P Regional Banking ETF (KRE) rebounded 7.8%, even with Friday's 1.8% retreat.</p>
+      <h3>Tesla Stock A Buy?</h3>
+      <p>Tesla stock rallied 7.2% last week to 180.14, rebounding from near the 21-day line and retaking the 50-day line for the first time since early April.</p>
+      <p>Investors responded well to Tuesday's Tesla shareholder day. CEO Elon Musk reiterated that the Cybertruck will begin deliveries this year, while again hinting at a next-generation vehicle. Musk also said Tesla will "try" some advertising. Like any savvy CEO in 2023, he made sure to mention "AI" several times.</p>
+      <p>Meanwhile, Tesla quietly offered some new inventory discounts on U.S. Model 3 vehicles, following recent discounts on Model 3 and Y vehicles in Europe. Inventory discounts don't get the headlines that official price cuts do, but they hit profit margins all the same. The balance between production, deliveries and prices is the key Tesla story in 2023.</p>
+      <p>Investors could view Friday's move above the 50-day moving average as an early entry for Tesla stock. But it would be extremely aggressive. Tesla still faces the 200-day line, which is coming down toward 200. Just above that is a 207.89 buy point, just above the March 31 high. That's either from a seven-week consolidation or a three-month double-bottom buy point.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally showed strength last week, but the advance remains narrow. The Nasdaq boomed, hitting a 2023 high, with the S&P 500 also doing so late in the week.</p>
+      <p>The Russell 2000, buoyed by bank stocks, also had a solid week, but is well off 2023 highs. The Dow Jones eked out a small weekly gain after undercutting its 50-day line on Tuesday.</p>
+      <p>The tech rally has expanded from megacap stocks such as Google and Nvidia to big-cap chip and software names such as AMD, ServiceNow and AI plays such as Palantir. But most are extended now.</p>
+      <p>The Nasdaq 100 hit a 52-week high, up 3.5% for the week. The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW), which had been struggling, popped 2.45%. It's close to 2023 highs.</p>
+      <p>But overall breadth remains lackluster. The Invesco S&P 500 Equal Weight ETF (RSP) climbed nearly 1%, but slipped back below its 200-day line on Friday. RSP isn't much closer to its 2023 highs than its October bear market lows.</p>
+      <p>Losers led advancers on Friday after modestly positive breadth on Thursday. But new highs outpaced losers for a second straight session.</p>
+      <p>Beyond chips, software and megacap stocks, homebuilders, building materials, medical products and biopharma names are acting well. So are travel plays and some payment stocks.</p>
+      <p>Shoe-related stocks were heels this past week due to ONON and Foot Locker. Deckers Outdoor, as well as Dick's Sporting Goods (DKS), will try to put their best foot forward.</p>
+      <p>Debt-ceiling talks, banking concerns and recession risks remain big issues for the market rally. While Wall Street and political analysts still see a debt-limit deal as highly likely, various headlines could swing markets up and down over the next several days.</p>
+      <h3>What To Do Now</h3>
+      <p>The stock market rally is trending higher, but leadership is narrow and market breadth suspect. Many of the leading stocks are extended.</p>
+      <p>Investors who took advantage of techs clearing buy signals in the past week or so generally have been rewarded, some hugely. But overall exposure should remain modest. Consider taking partial profits on big winners. Definitely have a game plan in place.</p>
+      <p>A healthy number of stocks are setting up from a variety of sectors, and could get going if the market rally broadens out. So you'll want to be ready.</p>
+    </div>
+  },
+  {
+    id: 513,
+    title: 'Wall Street and FTSE 100 mixed as traders monitor US debt talks',
+    category: 'Indices',
+    subCategory: ['Wall Street', 'FTSE', 'traders'],
+    description: <div className="blog-desc">
+      <p>Wall Street, European stocks and the FTSE 100 were mixed on Monday as investors continue to worry about the US defaulting on its debt amid ongoing talks.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 22, 2023 - 11:47 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-550.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Wall Street, European stocks and the FTSE 100 were mixed on Monday as investors continue to worry about the US defaulting on its debt amid ongoing talks.</p>
+    	<p>President Joe Biden and House Republican speaker Kevin McCarthy are expected to hold further talks on Monday.</p>	
+    	<p>The FTSE 100 (^FTSE) gained 0.15% to open at 7,768.32 points, while the CAC 40 (^FCHI) in Paris lost 0.16% to 7,479.70 points. In Germany, the DAX (^GDAXI) fell 0.15% to 16,252.26 points.</p>	
+    	<h3>FTSE</h3>
+      <p>“China-linked stocks like Burberry (BRBY.L) and Standard Chartered (STAN.L) are at the top of the large-cap index following positive price action overnight from the Shanghai Composite and the Hang Seng,” Victoria Scholar, head of investment at Interactive Investor, said.</p>
+      <p>JD Sports Fashion (JD.L) also moved up the FTSE 100 basket after the retailer said it was on course to make £1bn in annual profit. Halma and ConvaTec were at the bottom of the index in afternoon London trade.</p>
+      <p>Meanwhile, traders were also watching NatWest (NWG.L) stock as the bank agreed to buy £1.3bn ($1.6bn) of its shares back from the government, which reduces the government's stake to 38.69%.</p>
+      <p>“The Treasury is aiming to return NatWest to private ownership by 2025-2026 while attempting to ‘achieve the best value for the taxpayer’. In April, the government’s shareholding stood at 42%, down from a peak of 84%, falling further again this week,” Scholar added.</p>
+      <p>Shares in NatWest have struggled this year, caught up in the banking sector turmoil with the collapse of Silicon Valley Bank and the rescue deal for Credit Suisse (CS).</p>
+      <p>However, with shares up almost 15% year-on-year to Friday’s close, the government decided it was a good moment to sell some shares, Scholar noted.</p> 
+      <p>Meanwhile, Ireland’s low budget airline Ryanair (RYA.IR) has reported a full-year profit of €1.43bn, closing in on its 2018 record of €1.45bn.</p>
+      <p>It said it flew 168.6 million passengers, up 74% to an all-time high, breaking its pre-pandemic record of 149 million. The group said it is aiming to get to 225 million passengers by 2026 and also highlighted it wants to be debt free in the next three to four years.</p>
+      <p>The airline said it is also expecting a strong summer for bookings but thinks winter could be more challenging with consumer spending under strain.</p>
+      <h3>US and Asia markets</h3>
+      <p>In the US, two of the three major indices opened in the green as traders waited for a deal to be struck to avert a debt default ahead of the 1 June deadline. President Joe Biden and House Republican speaker Kevin McCarthy are expected to hold further talks later following a phone call on Sunday.</p>
+      <p>The Dow Jones (^DJI) fell 0.02% to 33,421.12 points, while the S&P 500 (^GSPC) edged up 0.03% to 4,193.22 points. The tech-heavy NASDAQ (^IXIC) also rose slightly, by 0.06% to 12,664.90.</p>
+      <p>Meta (META) was among the biggest gainers, up nearly 3%, despite reports of a £1bn fine from EU data regulators, while shares in US chip giant Micron (MU) were down nearly 4% on the NASDAQ.</p>
+      <p>“US-Sino trade tensions are escalating after Beijing banned Micron Technologies from selling semiconductors to key industries in China, a move strongly opposed by Washington,” Scholar said.</p>
+      <p>In Asia, markets rose. Tokyo’s Nikkei 225 (^N225) went up 0.90% to 31,086.82 points, lifting stocks to the highest level since the 1990s, while the Hang Seng (^HSI) in Hong Kong gained 1.54% to 19,750.18. In mainland China, the Shanghai Composite (000001.SS) was also in the green, up 0.36% to 3,294.92 points.</p>
+      <p>The People’s Bank of China kept its loan prime rate unchanged for a ninth consecutive month in May.</p>
+      <p>“Central bank policymakers clearly judged that loosening monetary policy would exacerbate the yuan’s weakness and interest rate differentials, despite China’s shaky path to recovery out of the pandemic,” Scholar added.</p>
+      <h3>Pound</h3>
+      <p>The pound (GBPUSD=X) declined against the US dollar by 0.09% to 1.24.</p>
+      <p>Against the euro, sterling (GBPEUR=X) was also down, by 0.09% to 1.15.</p>
+      <h3>Oil markets</h3>
+      <p>In commodities, US crude oil, or West Texas Intermediate (CL=F), fell 1.22% to $70.68 per barrel, while Brent crude (BZ=F) dropped 0.78% to $74.99 per barrel.</p>
+      <h3>Economic data</h3>
+      <p>Investors will also be looking for some clarity on the future outlook of US interest rate policy when the latest US Federal Minutes from the May meeting are released on Wednesday.</p>
+      <p>“Any comments indicating that the Fed is either concerned about the aggressive pace of US interest rate increases impacting the United States economy over the longer-term or confirmation that no more US interest rate hikes are likely can lead to a pause in the recent USD revival,” Jameel Ahmad, chief analyst at CompareBroker.io, said.</p>
+      <p>The latest US consumer spending data, the Personal Consumption Expenditures (PCE) price index, is also set to be released this week — another gauge for inflation pressures.</p>
+    </div>
+  },
+  {
     id: 512,
     title: 'FTSE 100 rises amid strong consumer confidence',
     category: 'Indices',

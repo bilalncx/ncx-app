@@ -1,5 +1,36 @@
 const data = [
   {
+  id: 511,
+  title: 'Oil rises as US gasoline supplies tighten, Saudi says: watch out',
+  category: 'Commodities',
+  subCategory: ['Oil', 'gasoline', 'US'],
+  description: <div className="blog-desc">
+    <p>BENGALURU (Reuters) -Oil prices rose on Tuesday on forecasts for a tighter gasoline market and a warning from the Saudi energy minister to speculators that raised the prospect of further OPEC+ output cuts.</p>
+  </div>,
+  authorName: 'Shariq Khan',
+  authorurl: '',
+  authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+  authorContent: '',
+  createdAt: 'May 23, 2023 - 5:38 PM', 
+  cover: 'https://ncx.cx/images/ncx-blog-553.jpg',
+  content: <div className="blog-content">
+    <h3>In this article:</h3>
+    <p>By Shariq Khan</p>
+    <p>BENGALURU (Reuters) -Oil prices rose on Tuesday on forecasts for a tighter gasoline market and a warning from the Saudi energy minister to speculators that raised the prospect of further OPEC+ output cuts.</p>	
+    <p>Brent crude futures rose 85 cents, or 1.1%, to settle at $76.84 a barrel, while the U.S. West Texas Intermediate crude (WTI) ended at $72.91 a barrel, up 86 cents, or 1.2%.</p>	
+    <p>Both benchmarks extended gains to about 2% in post-settlement trade, after figures from the American Petroleum Institute (API) showed a large draw in crude and gasoline last week, according to market sources. [API/S]</p>
+    <p>If official inventories data from the Energy Information Administration, due on Wednesday, confirm the industry body's figures, U.S. gasoline inventories would have declined for the third straight week to their lowest pre-Memorial Day levels since 2014.</p>
+    <p>The Memorial day holiday, this year on May 29, traditionally marks the beginning of U.S. peak summer travel. U.S. gasoline futures rose 2% on Tuesday after the API data.</p>
+    <p>Production cuts by some OPEC+ members take effect this month. Fears of a supply squeeze mounted after Saudi Arabia's energy minister said he would keep short sellers - those betting that prices will fall - "ouching" and told them to "watch out".</p>
+    <p>The comments could mean the Organization of Petroleum Exporting Countries and allies including Russia will consider further output cuts at a meeting on June 4, said OANDA analyst Craig Erlam.</p>
+    <p>Erlam added Brent crude prices need to rise above $77.50 a barrel to signal a sentiment shift.</p>
+    <p>"Of course, actions speak louder than words and traders haven't been overly deterred by his words, despite the group having announced two sizeable cuts in the last year that briefly shook the markets," Erlam said.</p>
+    <p>Some felt oil's upside was limited by U.S. debt ceiling jitters. Another round of debt ceiling talks ended on Tuesday with no signs of progress as the deadline to raise the government's $31.4 trillion borrowing limit or risk default ticked closer.</p>
+    <p>"(Oil) prices are likely to remain within their broad year to date trading range as the economy continues to slow while the refill of the Strategic Petroleum Reserve and OPEC manages prices relative to global demand needs," said Rob Haworth,, senior investment strategist at U.S. Bank Wealth Management.</p>
+    <p>(Additional reporting by Alex Lawler, Yuka Obayashi in Tokyo and Andrew Hayley in Beijing; Editing by Marguerita Choy and Emelia Sithole-Matarise)</p>
+  </div>
+ },
+  {
     id: 510,
     title: 'Oil steady as demand worries face tight supply outlook',
     category: 'Commodities',
