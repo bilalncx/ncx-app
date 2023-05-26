@@ -1,5 +1,69 @@
 const data = [
   {
+    id: 534,
+    title: 'An ‘Optimism’ outperformance – Will OP join in?',
+    category: 'Crypto',
+    subCategory: ['Optimism', 'OP', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Optimism outperforms other chains and ranks number one in terms of net flows on the network. User retention remains high however there has been no positive impact on OP’s price.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-558.jpg',
+    content: <div className="blog-content">
+      <p>Optimism outperforms other chains and ranks number one in terms of net flows on the network. User retention remains high however there has been no positive impact on OP’s price.</p>
+      <ul>
+        <li>Optimism does better than other layer 2 chains in terms of net flow. Protocol manages to retain a higher number of users.</li>
+        <li>OP’s price continues to decline, however, whales show sudden interest.</li>
+      </ul>
+    	<p>Optimism has been having a tough time competing in the L2 space as competitors such as Arbitrum and Polygon have been dominating the market over the last few months. However, it appears that Optimism started to gain its footing in the L2 space yet again and has been outperforming other L2 solutions in some areas.</p>
+	    <h3>On the brighter side</h3>
+      <p>According to data provided by analyst Dynamo Patrick, Optimism ranked number 1 in terms of net bridge flow. For context, net bridge flow in crypto refers to the movement of digital assets between different blockchain networks or bridges.</p>	
+	    <p>In the last week, Optimism’s net flow reached a total of $57.1 million.</p>	
+	    <p>The spike in net flow on the Optimism protocol could be attributed to the growing number of users on the network. Not only were new users being onboarded to Optimism, but they were choosing to stay as well.</p>
+      <p>This was showcased by Dune Analytics’ data which indicated that Optimism’s user retention began to surge over the last few days. At press time, the weekly retention for new users on Optimism was around 17.3%.</p>
+      <p>However, the OP token didn’t see the same growth as its protocol. Since 15 April, the price of OP declined by 43.64%. At press time, OP was trading at $1.596 after fluctuating between the $1.867 and $.494 resistance and support.</p>
+      <p>The Relative Strength Index (RSI) of OP experienced a significant and consistent decline over the past few days. It reached a value of 40.72 at the time of writing. Conversely, the Chaikin Money Flow (CMF) displayed a contrasting pattern by continuously increasing, with a recorded value of 0.13.</p>
+      <p>This suggested that despite the weakening momentum indicated by the RSI, there was still a demand for OP, possibly from new buyers or institutional investors.</p>
+      <p>The volume with which OP was being traded, also declined during this month. However, there was a spike in the number of whale transactions for the OP token. If whales continue to show interest and accumulate more OP, it could have a positive impact on the OP token going forward.</p>
+    </div>
+  },
+  {
+    id: 533,
+    title: 'BNB drops below this key support level as Binance halts…',
+    category: 'Crypto',
+    subCategory: ['BNB', 'binance', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Binance, on 25 May, decided to suspend transactions for some assets. This impact BNB’s price action which wasn’t doing well either given the sell pressure in the last two days. BNB also managed to drop below a key ascending support line.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-557.jpg',
+    content: <div className="blog-content">
+      <p>Binance, on 25 May, decided to suspend transactions for some assets. This impact BNB’s price action which wasn’t doing well either given the sell pressure in the last two days. BNB also managed to drop below a key ascending support line.</p>
+    	<ul>
+        <li>Binance halts deposits from 10 networks albeit temporarily.</li>
+        <li>Assessing BNB’s fate after crashing through the ascending support line.</li>
+      </ul>
+      <p>The Binance Smart Chain’s native cryptocurrency has been on a bearish trajectory for six weeks. Its performance in the last two days has been particularly noteworthy because of its ascending support line. Should investors anticipate more BNB price weakness after failing to secure bullish momentum?</p>
+    	<p>Let’s take a look at some of the most noteworthy observations regarding Binance before assessing BNB’s prospects. According to the latest Binance announcement, the BSC temporarily suspended deposits from multiple networks in the last 24 hours at the time of writing.</p>	
+    	<p>Binance did not disclose whether the decision was based on a threat to its operations or whether it was due to routine maintenance. However, it did reveal later that it resumed deposits from Ethereum and FTM.</p>	
+    	<p>We observed a significant dip in the number of active addresses in the last 24 hours in hours after Binance made the announcement. This was followed by a sharp bounce back presumably due to the reactivation of deposits.</p>
+      <p><strong>Is there still hope for BNB bulls in the short run?</strong></p>
+      <p>The likelihood that the halting of deposits may have had an impact on BNB’s price action was quite low. This was because the cryptocurrency maintained the same bearish momentum it was on 24 hours prior to the announcement about the temporary suspension of deposits.</p>
+      <p>BNB’s price action was particularly notable because the selling pressure in the last two days broke through a key ascending support line. It traded at $304 at press time which is slightly above its 200-day moving average.</p>
+      <p>The 200-day MA will likely act as the next support range to bear the $300 price level. This was largely because the MA may act as a psychological buy zone and the fact that the same price is within a zone of short-term support. Also, what was worth noting was that the MFI indicated that buying momentum was already building up.</p>
+      <p>Some on-chain data also backed the bullish expectations. For example, the mean coin age has been on a steady upward trajectory for the last seven days. This confirmed that most investors were still holding their tokens. Additionally, investor consensus expectations have been on the rise for the last seven days indicating bullish expectations.</p>
+      <p>Based on the above analysis, buying pressure was slowly building up and might soon lend favor to the bulls. However, this outcome was still subject to overall market conditions which may pull a surprising instance of capitulation if BNB fails to secure enough bullish momentum.</p>
+    </div>
+  },
+  {
     id: 532,
     title: 'Bitcoin, Ether rise; Dogecoin falls despite record high transaction volume',
     category: 'Crypto',

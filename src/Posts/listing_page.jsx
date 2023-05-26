@@ -12,11 +12,11 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                                <a href="/post-crypto/532" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-556.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> May 24, 2023 - 6:48 AM</p>
-                                    <h1>Bitcoin, Ether rise; Dogecoin falls despite record high transaction volume</h1>
-                                    <p>Bitcoin edged up and continued trading above the US$27,000 threshold on Wednesday morning in Asia, with other top 10 non-stablecoin cryptocurrencies trading mixed.</p>
+                                <a href="/post-crypto/534" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-558.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> May 26, 2023</p>
+                                    <h1>An ‘Optimism’ outperformance – Will OP join in?</h1>
+                                    <p>Optimism outperforms other chains and ranks number one in terms of net flows on the network. User retention remains high however there has been no positive impact on OP’s price.</p>
                                 </a>
                                 <a href="/post-commodities/511" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-553.jpg" alt="art_pic"/></div>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row">
+                            <a href="/post-crypto/533" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-557.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> May 26, 2023</p>
+                                    <h1>BNB drops below this key support level as Binance halts…</h1>
+                                    <p>Binance, on 25 May, decided to suspend transactions for some assets. This impact BNB’s price action which wasn’t doing well either given the sell pressure in the last two days. BNB also managed to drop below a key ascending support line.</p>
+                                </a>
                             <a href="/post-crypto/531" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-554.jpg" alt="art_pic"/></div>
                                     <p className="dat">May 23, 2023</p>
                                     <h1>Things look up for MATIC as zkEVM witnesses decline in…</h1>
                                     <p>Users should keep an eye on Ethereum’s price and network activity to take advantage of less transaction fees.</p>
-                                </a>
-                            <a href="/post-crypto/530" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-555.jpg" alt="art_pic"/></div>
-                                    <p className="dat">May 22, 2023</p>
-                                    <h1>What next after Bitcoin’s latest plateau</h1>
-                                    <p>Bitcoin consolidates near key support with a bearish overhead stronghold and neutral futures market.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
