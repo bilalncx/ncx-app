@@ -1,5 +1,35 @@
 const data = [
   {
+    id: 512,
+    title: 'Oil ticks up amid OPEC+ supply cut uncertainty',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC+', 'Supply'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices ticked up on Friday, as the market weighed conflicting messages on supply from Russia and Saudi Arabia ahead of the next OPEC+ policy meeting.</p>
+    </div>,
+    authorName: 'Shadia Nasralla',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023 - 4:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-563.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<p>By Shadia Nasralla</p>
+    	<p>LONDON (Reuters) -Oil prices ticked up on Friday, as the market weighed conflicting messages on supply from Russia and Saudi Arabia ahead of the next OPEC+ policy meeting.</p>	
+    	<p>Brent crude was up 54 cents at $76.80 a barrel at 1159 GMT, while U.S. West Texas Intermediate rose 67 cents to $72.50 a barrel.</p>	
+    	<p>Benchmarks had settled more than $2 per barrel lower on Thursday, after Russian Deputy Prime Minister Alexander Novak played down the prospect of further OPEC+ production cuts at its meeting in Vienna on June 4.</p>
+      <p>Both prices were still poised to post a second week of gains. A deal to raise the U.S. debt ceiling, which appears in sight, would likely boost oil prices.</p>
+      <p>Russian President Vladimir Putin said on Wednesday that energy prices were approaching "economically justified" levels, also indicating there could be no immediate change to the group's production policy.</p>
+      <p>Their remarks contrasted with comments this week from Saudi Arabian Energy Minister Prince Abdulaziz bin Salman, the de-facto leader of the Organization of Petroleum Exporting Countries (OPEC), warning short sellers to "watch out".</p>
+      <p>Some investors interpreted that as a signal OPEC+ could consider further output cuts.</p>
+      <p>Worries of weaker-than-expected demand growth globally capped gains ahead of an expected rise in oil demand in the second half of the year, especially from China.</p>
+      <p>Meanwhile, bets on falling oil prices are on the rise.</p>
+      <p>The dollar has strengthened this month against a basket of major peers, making dollar-denominated commodities such as oil more expensive for those holding other currencies.</p>
+      <p>(Additional reporting by Arathy Somasekhar and Trixie Yap; editing by Jason Neely and Sharon Singleton)</p>
+    </div>
+  },
+  {
   id: 511,
   title: 'Oil rises as US gasoline supplies tighten, Saudi says: watch out',
   category: 'Commodities',

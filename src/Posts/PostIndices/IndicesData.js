@@ -1,5 +1,55 @@
 const data = [
   {
+    id: 515,
+    title: 'Dow Jones Rallies 275 Points After Hot Inflation Data; Ulta Beauty Dives On Sales Miss',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Inflation', 'Ulta'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average rallied 275 points Friday after hot inflation data, with the release of critical consumer pricing data.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023 - 6:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-562.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average rallied 275 points Friday after hot inflation data, with the release of critical consumer pricing data. Meanwhile, Ulta Beauty (ULTA) dived after missing Wall Street's sales estimates in its latest quarter.</p>
+    	<p>The Commerce Department's April Personal Consumption Expenditures Price Index, or PCE, rose 0.4% on the month, with a 4.4% annual increase, hotter than Wall Street's estimates. The core PCE index climbed 0.4% on the month, with a 4.7% annual rise, also above forecasts.</p>	
+    	<p>Ulta Beauty shares dived nearly 12% Friday morning after missing sales estimates in the first quarter.</p>	
+    	<p>Other key earnings movers include Autodesk (ADSK), Costco (COST), Deckers Outdoor (DECK), Gap (GPS), Marvell Technology (MRVL), Ulta Beauty (ULTA) and Workday (WDAY).</p>
+      <p>Autodesk shares rose 1.8% in morning trade, while Costco dropped 0.2%. DECK stock declined more than 5%, as Gap shares jumped 10%. Marvell stock surged 22%, while Workday shares rallied 10%.</p>
+      <h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) traded nearly 3% higher Friday morning. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were higher after today's stock market open.</p>
+      <p>Advanced Micro Devices (AMD), IBD Leaderboard stock ASML (ASML) and Taiwan Semiconductor (TSM) — as well as Dow Jones stocks Boeing (BA) and Salesforce (CRM) — are among the best stocks to buy and watch in the stock market uptrend.</p>
+      <p>ASML and Salesforce are IBD Leaderboard stocks, and Boeing was featured in this week's Stocks Near A Buy Zone column.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Friday's opening bell, the Dow Jones Industrial Average rose 0.9%, while the S&P 500 gained 0.8%. The tech-heavy Nasdaq composite climbed 1.1% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded up 0.7%, while the SPDR S&P 500 ETF (SPY) rose 0.6% early Friday.</p>
+      <p>The 10-year U.S. Treasury yield on Friday traded up to 3.83%. The 10-year yield is at its highest level since mid-March.</p>
+      <p>U.S. oil prices looked to rebound Friday morning after Thursday's sharp losses. West Texas Intermediate futures rose 1% Friday, sending WTI futures near $73 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Thursday, the Dow Jones Industrial Average fell 0.1%, extending a losing streak to five sessions and falling further below its 50-day line. It is now testing the 200-day line.</p>
+      <p>The S&P 500 rebounded 0.9%, snapping a two-day slide and finding support around its own 50-day line. The tech-heavy Nasdaq composite jumped 1.7%, nearly erasing the past two days of losses. Finally, the small-cap Russell 2000 dropped 0.7%, closing at its lowest level since May 17.</p>
+      <p>Thursday's Big Picture column cautioned, "There was narrow participation in Thursday's advance. (The) Invesco S&P 500 Equal Weight ETF (RSP) inched lower and (the) First Trust Nasdaq 100 Equal Weight (QQEW) moved up just 0.5%. Despite the Nasdaq's surge, more than twice as many Nasdaq stocks fell than rose on Thursday."</p>
+      <p>Now is an important time to read IBD's The Big Picture column after the recent bullish change in the market's outlook.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: Boeing, Salesforce</h3>
+      <p>Dow Jones aerospace giant Boeing climbed 0.8% Thursday, still below its 50-day line. Shares are still forming a flat base with a 221.43 buy point, according to IBD MarketSmith pattern recognition. BA stock moved up 0.5% early Friday.</p>
+      <p>Salesforce rallied past alternative entries at 194.01 and 200.10 in recent weeks, according to Leaderboard analysis. Meanwhile, its relative strength line hit a new high this week, a bullish signal. Salesforce reports first-quarter results after the market close on May 31. CRM stock jumped 1.4% Friday morning after Citigroup raised its price target from 210 to 229.</p>
+      <h3>Best Stocks To Buy And Watch: AMD, ASML, TSMC</h3>
+      <p>Chip leader Advanced Micro Devices moved further out of buy range above a cup base's 102.53 buy point, according to IBD MarketSmith pattern recognition, with an 11.2% surge Thursday. The 5% buy area went up to 107.66. AMD shares rallied 1.3% Friday.</p>
+      <p>IBD Leaderboard stock ASML bullishly reclaimed its 683.28 buy point in a cup with handle during Thursday's 6.25% advance. ASML added 1.2% Friday morning.</p>
+      <p>Chip foundry Taiwan Semiconductor soared 12% Thursday, breaking out past a 95.92 double-bottom entry. The 5% buy area runs up to 100.72, so the stock is slightly extended. TSM stock rose another 1% Friday morning.</p>
+      <p>Tesla Stock</p>
+      <p>Tesla stock moved up 0.9% Thursday, ending a two-day skid. So far, shares are finding support around their 50-day line, as they build a cup base with a 207.89 buy point for now. Keep an eye out for a handle to offer a lower entry. Shares closed Thursday 41% off their 52-week high.</p>
+      <p>TSLA stock looked to add to Thursday's gains, moving up 2.8% Friday morning.</p>
+      <h3>Dow Jines Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares climbed 0.7% Thursday, rising for a second straight day. Shares remain just off their recent 52-week high at 176.39. The stock continues to hold sharply above a 157.48 buy point and is out of the buy range that ran up to 165.35. AAPL stock rose 1.2% Friday.</p>
+      <p>Microsoft shares jumped 3.85% Thursday, hitting a new 52-week high at 326.90. Shares are significantly above a 276.86 flat-base buy point. On Friday morning, MSFT stock was up 0.8%.</p>
+    </div>
+  },
+  {
     id: 514,
     title: 'Dow Jones Futures Rise: Biden-McCarthy Debt-Ceiling Talks Loom; China Move Hits Micron',
     category: 'Indices',

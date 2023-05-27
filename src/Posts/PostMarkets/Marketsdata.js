@@ -1,5 +1,122 @@
 const data = [
   {
+    id: 521,
+    title: 'Nvidia Just Left Warren Buffett In The Dust Again',
+    category: 'Markets',
+    subCategory: ['Nvidia', 'Warren', 'buffett'],
+    description: <div className="blog-desc">
+      <p>Nvidia's insane stock rally Thursday put $184 billion into investors' pockets in one day. More notably: It pushed Nvidia stature in the S&P 500 past Warren Buffett's Berkshire Hathaway — again.</p>
+    </div>,
+    authorName: 'MATT KRANTZ',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023 - 4:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-564.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Nvidia's insane stock rally Thursday put $184 billion into investors' pockets in one day. More notably: It pushed Nvidia stature in the S&P 500 past Warren Buffett's Berkshire Hathaway — again.</p>
+    	<p>hares of Nvidia (NVDA) surged more than 26% in a day following blowout earnings. That made the chip designer worth $939.3 billion overnight — a remarkably sized gain for a giant S&P 500 stock of this size. And Nvidia's value blasted past Berkshire Hathaway (BRKB) as the fifth most-valuable stock in the S&P 500. Buffett's investment company is worth $702 billion.</p>	
+    	<p>Nvidia is just one example of how big-cap technology stocks are absolutely carrying the S&P 500 this year. Just this one stock accounts for 23% of the $2.6 trillion gained by S&P 500 investors this year. Berkshire Hathaway's gain this year only accounts for 0.8%.</p>	
+    	<p>"Big Tech is back, and not a moment too soon for U.S. equity investors," said Nicholas Colas of DataTrek Research.</p>
+      <h3>You'd Be Losing Money If Not For Big S&P 500 Tech</h3>
+      <p>You can thank megacap techs for the S&P 500's impressive gains this year. It's not just hyperbole.</p>
+      <p>If you excluded the top eight S&P 500 stocks this year, the S&P 500 would be down 0.3% instead of being up nearly 8%, says Howard Silverblatt, index analyst at S&P Dow Jones Indices. And the S&P 500 would be down 0.4% if you omitted the information technology and communication services sectors.</p>
+      <p>Being in the wrong place in the S&P 500 this year is costly. More stocks in the S&P 500 (271) are down this year than are up. And some are total wipeouts. So far, 43 S&P 500 stocks are down 20% this year, while only three more than that are up 20% or more, Silverblatt found.</p>
+      <p>Shares of Nvidia are up nearly 160% in 2023 so far.</p>
+      <h3>Nvidia Is Pushing Others Aside, Including Warren Buffett</h3>
+      <p>Nvidia is more than pulling its weight in this year's tech-driven rally.</p>
+      <p>It's the third-largest contributor to the S&P 500's gain this year. That's impressive if you consider it's still only the fifth most valuable company in the index. But thanks to its key position in the AI revolution, Nvidia is rising fast. This is the second time Nvidia pulled ahead of Berkshire Hathaway in terms of market value. It did it before in November 2021 until sinking back below in early 2022.</p>
+      <p>But Nvidia is back. It's now only 23% behind Amazon.com's (AMZN) $1.2 trillion valuation. And it only needs to gain 64% to catch up with Alphabet (GOOGL). It might seem odd to call a 64% rally small, but Nvidia's business has a mountain of gusto behind it. Analysts think demand for chips to power AI systems will push Nvidia's earnings up 132% just this fiscal year.</p>
+      <p>That's a stock Buffett probably wishes he owned right now.</p> 
+    </div>
+  },
+  {
+    id: 520,
+    title: 'Stocks Slip Lower, Inflation In Focus, Costco Earnings, Fed Bank Lending, Debt Ceiling Deal - 5 Things To Know',
+    category: 'Markets',
+    subCategory: ['Stocks', 'Costco', 'Fed'],
+    description: <div className="blog-desc">
+      <p>Stock futures edge lower as traders eye debt deal reports; Fed inflation gauge in focus as rate hike bets quicken; Costco lower after Q3 earnings miss on muted big ticket spending; U.S. Banks cut Fed borrowing, balance sheet shrinks and Debt ceiling deal nears as Biden, McCarthy focus on spending freeze.</p>
+    </div>,
+    authorName: 'TheStreet.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023 - 1:39 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-565.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stock futures edge lower as traders eye debt deal reports; Fed inflation gauge in focus as rate hike bets quicken; Costco lower after Q3 earnings miss on muted big ticket spending; U.S. Banks cut Fed borrowing, balance sheet shrinks and Debt ceiling deal nears as Biden, McCarthy focus on spending freeze.</p>
+    	<p>Five things you need to know before the market opens on Friday May 26:</p>	
+      <h3>1. -- Stock Futures Edge Lower As Traders Eye Debt Deal Reports</h3>
+    	<p>Wall Street futures slipped lower Friday, while the dollar gave back gains against its global peers and Treasury bond yields nudged higher, as investors looked to a key inflation reading prior to the opening bell while tracking reports of a potential agreement on raising the debt ceiling.</p>	
+    	<p>Bond yields have been marching higher for much of the week, with 2-year Treasury note yields touching at a two-and-a-half year peak of 4.522% in overnight trading, as investors price in a final Federal Reserve rate hike while looking to a conclusion on debt ceiling talks in Washington.</p>
+      <p>Reports suggest that President Joe Biden and House Speaker Kevin McCarthy are close to agreeing a deal that would raise the $31.4 trillion debt ceiling for two years, while freezing most government spending at 2023 levels.</p>
+      <p>A rush of funding from the Treasury to rebuild its depleted reserves -- estimated at around $500 billion -- which would likely follow a debt ceiling deal is expected to add further upward pressure to Treasury yields and potentially 'crowd out' demand for riskier assets as the new paper is taken down by domestic and international investors.</p>
+      <p>Stronger-than-expected job market data, a firmer reading of first quarter GDP growth and positive signals from the housing market all point to solid near-term growth prospects, as well, even as the broader Treasury complex continues to price in the chances of a near-term recession, with 10-year note yields trading at 3.796%, some 76 basis points south of 2-year paper.</p>
+      <p>The could put today's PCE Price Index data in sharp focus, as investors gauge the level of inflation pressures that linger in the domestic economy and assess their impact on the Fed's next policy decision.</p>
+      <p>The CME Group's FedWatch is currently pricing in a 43.5% chance of a 25 basis point rate hike in June, up from just 17.4% a week ago, with bets on a move higher in July pegged at around 66.4% should the Fed decide to pause.</p>
+      <p>The U.S. dollar index, which tracks the greenback against a basket of six global currencies, was marked 0.15% lower in overnight trading at 104.098 ahead of the PCE inflation data at 8:30 am eastern time.</p>
+      <p>Heading into the start of the trading day on Wall Street, futures tied to the S&P 500 were indicating a 7 point opening bell decline while those linked to the Dow Jones Industrial Average were priced for a 57 point move to the downside. The tech-focused Nasdaq was looking at a 1 point bump.</p>
+      <p>European stocks edged higher, with the region-wide Stoxx 600 rising 0.3% in early Frankfurt trading while Britain's FTSE 100 slipped 0.09% as the pound rose to 1.2353 against the U.S. dollar.</p>
+      <p>Overnight in Asia, the region-wide MSCI ex-Japan index was marked 0.66% higher into the close of trading while chip stocks helped Japan's Nikkei 225 to a 0.37% gain to close at a fresh 1990 high 30,8916.31 points following a softer-than-expected May inflation reading.</p>
+      <h3>2. -- Fed Inflation Gauge In Focus As Rate Hike Bets Quicken</h3>
+      <p>The Federal Reserve's preferred inflation gauge, the PCE Price Index, is expected to ease only modestly in April, underscoring the central bank's concern that consumer price pressures will remain elevated even as the economic growth slows into the summer months.</p>
+      <p>The Bureau of Economic Analysis will publish both headline and core readings of the PCE index, with the form likely to slow to an annualized rate of 3.9% from the 4.2% recorded in March.</p>
+      <p>The closely-tracked core reading, which strips out volatile components such as food and energy, is expected to hold at 4.6%, with prices rising 0.3% on the month, according to the Street consensus forecast.</p>
+      <p>The Commerce Department's headline consumer price index, published earlier this month, showed inflation easing to 4.9%, the lowest in 2 years, but rising 0.4% on the month thanks in part to a 3% surge in national gasoline prices.</p>
+      <h3>3. -- Costco Lower After Q3 Earnings Miss on Muted Big Ticket Spending</h3>
+      <p>Costco Wholesale  (COST) - Get Free Report shares edged lower in pre-market trading as spending on big-ticket items slowed in the face of elevated inflation and an uncertain job market.</p>
+      <p>Costco said diluted earnings for the three months ending on May 7 fell 7.6% from last year to $2.93 per share, with revenues rising 1.9% to $52.6 billion and membership fees up 6.1% to $1.04 billion. Overall sales of $53.65 billion were shy of analysts' forecasts of a $54.57 billion tally.</p>
+      <p>Average daily transaction were down 3.5% in the U.S., and 4.2% worldwide over the quarter, Costco said, thanks in part to weakness in sales in bigger-ticker, non-discretionary food items.</p>
+      <p>"This is the second quarter that we've seen that discussion of lower sales of big-ticket discretionary items," CFO Richard Galanti told investors on a conference call late Thursday. "So, all things being equal, we'll be comparing against easier compares six months from now."</p>
+      <p>Costco shares were marked 0.3% lower in pre-market trading to indicate an opening bell price of $485.00 each.</p>
+      <h3>4. -- U.S. Banks Cut Fed Borrowing, Balance Sheet Shrinks</h3>
+      <p>U.S. banks slashed their borrowing from the Federal Reserve's various lending programs this week, suggesting stresses from the failures of Silicon Valley Bank and the sale of First Republic are beginning to unwind for regional lenders</p>
+      <p>Banks borrowed just $4.2 billion from the Fed's main discount window over the seven-day period ending on May 17, according to Fed data, down from the $9 billion handed-out over the prior period and the lowest since early March.</p>
+      <p>The Fed's "other credit" account, which has been used to allocate borrowing from First Republic Bank, which was sold to JPMorgan Chase  (JPM) - Get Free Report last month, and well as the cost of winding down other failed lenders, fell $15.9 billion to $192.6 billion.</p>
+      <p>Borrowing from the Fed's new Bank Term Funding Program, which allows banks to exchange high-quality assets for one-year loans, was up $3.9 billion to $87 billion. The Fed's overall balance sheet, meanwhile, shrunk by around $21 billion to $8.486 trillion.</p>
+      <h3>5. -- Debt Ceiling Deal Nears As Biden, McCarthy Focus On Spending Freeze</h3>
+      <p>President Joe Biden and House Speaker Kevin McCarthy are on the verge of agreeing to a two-year deal that would raise the $31.4 trillion debt ceiling just days before the Treasury will be unable to spend cash to cover debt payments and government expenses.</p>
+      <p>Multiple media reports suggest Biden and McCarthy are close to agreeing terms that would effectively freeze most currenting government spending at 2023 levels, although spending on military and veterans programs would be modestly increased.</p>
+      <p>If agreed, the deal would have to find its way through a Republican-controlled Congress, which has broken for the Memorial Day weekend and won't return to Washington until late next week. The Senate, meanwhile, is not in session at all, and the Treasury has said it will run out of money on the so-called June 1 'x-date'.</p>
+      <p>"We knew this would not be easy," McCarthy told reporters in Washington. "I don't think everybody's going to be happy at the end of the day. That's not how the system works."</p>
+      <p>Earlier this week, Fitch Ratings placed the U.S.'s triple-A rating on 'negative watch', indicating the potential for a downgrade if Congress is unable to authorize the Treasury to continue spending -- and servicing debt payments -- after the so-called x-date.</p>
+    </div>
+  },
+  {
+    id: 519,
+    title: 'Stock market today: Tech leads more gains in early trading on Wall Street',
+    category: 'Markets',
+    subCategory: ['Stock', 'Tech', 'Wall Street'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (AP) — Stocks rose in morning trading on Wall Street Friday, led by more gains in technology stocks as another chipmaker reported strong demand related to artificial intelligence.</p>
+    </div>,
+    authorName: 'DAMIAN J. TROISE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023 - 11:29 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-566.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>NEW YORK (AP) — Stocks rose in morning trading on Wall Street Friday, led by more gains in technology stocks as another chipmaker reported strong demand related to artificial intelligence.</p>
+	    <p>The S&P 500 rose 0.7%. The Dow Jones Industrial Average rose 240 points, or 0.7%, at 33,003 as of 10:08 a.m. Eastern and the Nasdaq rose 1%.</p>	
+	    <p>Technology stocks were the doing much of the heavy lifting for the benchmark S&P 500. Marvell Technology surged 25% after the chipmaker said it expects AI revenue in fiscal 2024 to at least double from the prior year. That follows Thursday’s report from fellow chipmaker Nvidia, which gave a big forecast for upcoming sales related to AI.</p>	
+	    <p>Wall Street remains focused on Washington and ongoing negotiations for a deal to lift the U.S. government’s debt ceiling and avert a potentially calamitous default.</p>
+      <p>Officials said President Joe Biden and House Speaker Kevin McCarthy were narrowing in on a two-year budget deal that could open the door to lifting the nation’s debt ceiling. The Democratic president and Republican speaker hope to strike a budget compromise this weekend.</p>
+      <p>The threat of the U.S. defaulting on its debt comes amid lingering concerns about a recession on the horizon amid inflation's grip on businesses and consumers. A key measure of inflation that is closely watched by the Federal Reserve ticked higher than economists expected in April. The report also showed that consumer spending remains strong.</p>
+      <p>The persistent pressure from inflation complicates the Fed's fight against high prices. The central bank has been aggressively raising interest rates since 2022, but recently signaled it will likely forgo a rate hike when it meets in mid-June. The latest government report on inflation is raising concerns about the Fed's next move.</p>
+      <p>Wall Street is now leaning slightly toward the potential for another quarter-point rate hike in June, according to CME's Fedwatch tool.</p>
+      <p>Bond yields had been slipping just prior to the latest inflation data, but rose following the report. The yield on the 10-year Treasury, which helps set rates for mortgages and other important loans, rose to 3.82% from 3.78% just before the report was released.</p>
+      <p>Movement for the two-year Treasury yield, which tends to track expectations for Fed action, was more extreme. It jumped to 4.58% from 4.49% prior to the report.</p>
+      <p>Markets in Europe and Asia gained ground.</p>
+      <p>——-</p>
+      <p>Elaine Kurtenbach and Matt Ott contributed to this report.</p>
+    </div>
+  },
+  {
     id: 518,
     title: 'Top 5 China Stocks To Buy And Watch: EV Leaders Show Spark',
     category: 'Markets',
