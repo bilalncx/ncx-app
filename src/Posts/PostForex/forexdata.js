@@ -1,5 +1,74 @@
 const data = [
   {
+    id: 523,
+    title: 'GBP to USD Forecast – British Pound Tests Support Level',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has gone back and forth during the trading session on Thursday as we continue to dance around the 1.2350 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 25, 2023 - 4:18 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-561.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has gone back and forth during the trading session on Thursday as we continue to dance around the 1.2350 level. The 1.2350 level has been supported a couple of times in the past, and therefore the market reacting to this level is not a huge surprise. The market is trading between the 50-Day EMA above and the 200-Day EMA underneath. This typically is an area that will be very choppy on a chart, because the market is trying to determine whether or not it is going to stick with what has been an uptrend, or if we are going to turn around.</p>
+	    <p>There are certainly enough reasons out there to be concerned about the uptrend, not the least of which would be the fact that there are a lot of economic concerns around the world. While it is not necessarily the United Kingdom that traders are concerned about, the reality is that a lot of traders will run toward the US dollar in times of economic uncertainty, and therefore it has a bit of a “knock on effect” in this currency pair. If we were to break down below the 200-Day EMA, then we could make a move down to the 1.1850 level. The 1.1850 level has been a major swing low, so breaking that could open up the floodgates to the downside.</p>	
+	    <p>On the other hand, if we turn around and break above the highs from the Wednesday session, we could make a move toward the 1.2750 level, which is an area that has been resistance in the past.</p>	
+	    <p>The market should continue to be noisy to say the least, but if we were to reach toward that area you would have to start to question whether or not the British pound could finally make it to the 1.30 level. Looking at this chart, it’s easy to see that we are at an area of potential inflection point, and that typically means that you are going to see some type of volatility, right along with the possibility of some type of impulsive candlestick that could get the market moving rather quickly.</p>
+    </div>
+  },
+  {
+    id: 522,
+    title: 'GBP/JPY Forecast – British Pound Continues to Find Buyers on Dips Against Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has fallen initially against the Japanese yen during the trading session on Thursday,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 25, 2023 - 4:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-560.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>The British pound has fallen initially against the Japanese yen during the trading session on Thursday, and it looks as if we are going to continue to see pressure to the upside and it looks like if we can break above the area here at the ¥172.50 level, it’s likely that we go looking for the ¥175 level after that. The ¥175 level of course is a large, round, psychologically significant figure, and therefore one would assume that there is going to be a certain amount of reaction to that region.</p>
+	    <p>On the downside, I believe that the ¥170 level offers a lot of support, as it is a large, round, psychologically significant figure and an area that we see some action at in the past. For the short term trading situation, I believe that the ¥170 level underneath is a significant short-term “floor in the market.” The market will continue to see more of this “buy on the dip” mentality, therefore I think we’ve got a situation where you can only be long of this market, and shorting it is all but impossible.</p>	
+	    <p>Keep in mind that the interest rate differential between the 2 currencies is rather drastic, and that of course will drive a lot of money toward the British pound for the “carry trade” that is now back in vogue. It’s worth noting that we broke through the top of the most recent significant pullback, so now we are just simply building up the pressure to go to the outside.</p>	
+	    <p>Expect a lot of volatility, but that’s nothing new for this pair. The pair does tend to be very noisy and therefore you have to be cautious with your position sizing and recognize that you may have to ride out a significant amount of volatility. Nonetheless, I do think that we get to the ¥175 level sooner rather than later, therefore I look at this market as a lot like a beach ball being held under water, in the sense that once it breaks above the resistance, it will pop straight up in the air.</p>
+    </div>
+  },
+  {
+    id: 521,
+    title: 'EUR/USD Forecast – Euro Continues to Fall',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro has fallen again during the trading session on Thursday, as it looks like we’re going to head down to the 200-Day EMA.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 25, 2023 - 4:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-559.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The euro has fallen again during the trading session on Thursday, as it looks like we’re going to head down to the 200-Day EMA. The 200-Day EMA of course is a longer-term indicator that a lot of people use to determine the overall trend. Ultimately, the market will probably find a little bit of support in that area, but if we were to break down below the 200-Day EMA, then it opens up the possibility of a move down to the 1.05 level.</p>
+	    <p>One thing is for sure, this correction in the euro has been a bit deeper than I think a lot of the bulls are comfortable with. Now we ask ourselves whether or not this is going to be a bigger turnaround, or if the market is going to bounce from here and try to go toward the 50-Day EMA above. The 1.09 level of course would be an area that could be resistance, especially as the 50-Day EMA is right around the same area. Breaking that opens up the possibility of a move to the 1.11 level, which is where the market had pulled back from.</p>	
+	    <p>All things being equal, this is a pretty deep correction and we have not necessarily broken down to a bearish trend yet, but we certainly are getting relatively close to doing so. I suspect that the next few days will probably be crucial in determining whether or not the euro can continue to go higher over the longer term. If we were to somehow break down below the 1.05 level, that would be lights out for the euro, meaning that it would almost certainly fall apart at that point.</p>	
+	    <p>There are a lot of concerns out there about the global economy, and that money flowing toward the US dollar for safety. While the euro is not necessarily a “risky currency”, it is not as much of a safety currency as the greenback is. With that being said, I think the next couple of days will be crucial and we should see some type of bigger move start to formulate.</p>
+    </div>
+  },
+  {
     id: 520,
     title: 'USD/JPY Weekly Forecast – US Dollar Breaks Above Resistance',
     category: 'Forex',

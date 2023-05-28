@@ -1,5 +1,75 @@
 const data = [
   {
+    id: 513,
+    title: 'Saudi Arabia, Russia Ties Under Strain Over Oil-Production Cuts',
+    category: 'Commodities',
+    subCategory: ['Saudi', 'Russia', 'Oil'],
+    description: <div className="blog-desc">
+      <p>Tensions are rising between Saudi Arabia and Russia as Moscow keeps pumping huge volumes of cheaper crude into the market</p>
+    </div>,
+    authorName: 'Summer Said',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 27, 2023 - 6:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-567.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Tensions are rising between Saudi Arabia and Russia as Moscow keeps pumping huge volumes of cheaper crude into the market that is undermining Riyadh’s efforts to bolster energy prices, people familiar with the matter say. </p>
+    	<p>Saudi Arabia, the de facto leader of the Organization of the Petroleum Exporting Countries, has expressed its anger to Russia for not following through fully on its pledge to throttle production in response to Western sanctions, the people said.</p>	
+    	<p>Saudi officials have complained to senior Russian officials and asked them to respect the agreed cuts, the people said.</p>	
+    	<p>The friction is very apparent between the world’s two biggest oil producers ahead of a crucial meeting between members of OPEC and a group of Russia-led oil producers, collectively known as OPEC+, in Vienna on June 4, the people said. The cartel is set to decide on a production plan for the second half of the year amid growing concerns about a slowing global economy crimping energy demand.</p>
+      <p>Earlier this week, the Saudi energy minister issued a warning to oil speculators, signaling to the market that a further production cut was on the table amid worries over the latest buildup in short positions and Russia’s failure to meet its promised voluntary cuts. Meanwhile, Russian President Vladimir Putin said oil prices were approaching “economically justified” levels, indicating that there might not be a need for an immediate change to the group’s production policy.</p>
+      <p>The OPEC+ meeting comes after Saudi Arabia, Russia and other OPEC+ members in early April said they would reduce output in a move that was expected to prop up oil prices. Riyadh started cutting production this month. Moscow at the time said it would extend unilateral curbs that took effect in March to the end of the year.</p>
+      <p>Now, the latest available data indicates that Russia continues to pump large volumes of oil into the market, which has helped maximize income for its beleaguered economy but added to a global surplus, industry officials and traders say.</p>
+      <p>Oil prices are down about 10% from where they stood in early April despite the Saudi-led intervention and sharply down from the highs they hit following Russia’s invasion of Ukraine early last year. Friday, Brent, the international oil contract, rose 0.9% to $76.95 a barrel.</p>
+      <p>It remains unclear if Saudi Arabia will take any immediate action that would affect the energy alliance with Russia. Frictions between Riyadh and Moscow aren’t new to OPEC+. In March 2020, oil prices collapsed after Saudi Arabia and Russia failed to agree on an emergency plan to address a supply glut. After the disagreement, Saudi Arabia embarked on a price war in an attempt to grab market share from Russia.</p>
+      <p>Saudi Arabia and Russia are allies in a broad effort by oil producers to prop up energy prices. It has drawn rebuke from the White House, which called the decision shortsighted and suggested OPEC+ was actively supporting Russia pay for its war in Ukraine. Yet beyond oil, their partnership has yielded little so far when it comes to security cooperation, trade or investment.</p>
+      <p>Last week, Saudi Arabia invited Ukrainian President Volodymyr Zelensky to attend the annual Arab League summit as a special guest. The kingdom is one of the many countries offering to mediate an end to the war. It helped negotiate a high-profile prisoner swap last year between Russia and Ukraine and announced $400 million in humanitarian aid for Kyiv.</p>
+      <p>The energy ministries of Saudi Arabia and Russia didn’t respond to requests for comment.</p>
+      <p>Russian Deputy Prime Minister Alexander Novak issued a statement earlier this month saying Moscow was abiding by its voluntary pledge to cut oil output by 500,000 barrels a day from March until the end of the year. Moscow has said it would cut its oil output by around 5% after the Group of Seven imposed price caps on Russian oil and oil products.</p>
+      <p>“Taking into account the unfounded speculation in the press regarding oil production levels, Russia reaffirms its full commitment to and implementation of voluntary oil production cut levels,” Novak said.</p>
+      <p>Russia’s Energy Ministry in recent weeks has also reached out to trade publications to explain it had to delay shutting down some oil wells due to exceptionally freezing weather in parts of the country. The ministry said the country had still managed to cut 400,000 barrels a day in early May—close to the level it had pledged to curb, say people familiar with the matter.</p>
+      <p>Last week, it also pressed secondary sources to alter their estimates of its oil production, but the agencies rebuffed the requests, these people said.</p>
+      <p>There is no specific requirement that Russia accurately report its production but the discrepancy adds to tensions within OPEC+ over whether to cut output further.</p>
+      <p>Western sanctions on Russian fossil fuels are accelerating the shift in global energy flows, with China and India increasingly taking advantage of Russian oil discounts and Middle Eastern suppliers redirecting their crude to Europe.</p>
+      <p>In March, Russia surpassed Saudi Arabia as China’s top oil supplier, while last month India’s imports of Russian oil exceeded combined flows from Saudi Arabia and Iraq for the first time ever, according to data from Vortexa, a data-commodity company.</p>
+      <p>Saudi officials and other people familiar with Saudi oil policy say Riyadh is under pressure to maintain higher oil prices with its budget requiring an estimated $81 a barrel—about $5 more than current levels. The kingdom needs to pay for massive development projects at home, some of which are so big that the Saudis call them gigaprojects. These include a Red Sea resort the size of Belgium with Maldives-style hotels hovering above the water and a $500 billion futuristic, high-tech city in the desert that is 33 times bigger than New York City.</p>
+      <p>Saudi Crown Prince Mohammed bin Salman, the de facto Saudi ruler, is halfway through an ambitious plan to use his country’s gusher of oil revenue to transform its economy, rework its physical landscape and upend its conservative culture. As prices hit $100 a barrel last year following the Russian invasion of Ukraine, the kingdom accelerated those efforts, which are financed largely by the $650 billion sovereign-wealth fund chaired by Mohammed.</p>
+      <p>In recent months, Saudi economic advisers have privately warned senior policy makers that the kingdom needs elevated oil prices for the next five years to keep spending billions of dollars on projects that have so far attracted meager investment from abroad.</p>
+    </div>
+  },
+  {
+    id: 512,
+    title: 'Oil ticks up amid OPEC+ supply cut uncertainty',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC+', 'Supply'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices ticked up on Friday, as the market weighed conflicting messages on supply from Russia and Saudi Arabia ahead of the next OPEC+ policy meeting.</p>
+    </div>,
+    authorName: 'Shadia Nasralla',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023 - 4:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-563.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<p>By Shadia Nasralla</p>
+    	<p>LONDON (Reuters) -Oil prices ticked up on Friday, as the market weighed conflicting messages on supply from Russia and Saudi Arabia ahead of the next OPEC+ policy meeting.</p>	
+    	<p>Brent crude was up 54 cents at $76.80 a barrel at 1159 GMT, while U.S. West Texas Intermediate rose 67 cents to $72.50 a barrel.</p>	
+    	<p>Benchmarks had settled more than $2 per barrel lower on Thursday, after Russian Deputy Prime Minister Alexander Novak played down the prospect of further OPEC+ production cuts at its meeting in Vienna on June 4.</p>
+      <p>Both prices were still poised to post a second week of gains. A deal to raise the U.S. debt ceiling, which appears in sight, would likely boost oil prices.</p>
+      <p>Russian President Vladimir Putin said on Wednesday that energy prices were approaching "economically justified" levels, also indicating there could be no immediate change to the group's production policy.</p>
+      <p>Their remarks contrasted with comments this week from Saudi Arabian Energy Minister Prince Abdulaziz bin Salman, the de-facto leader of the Organization of Petroleum Exporting Countries (OPEC), warning short sellers to "watch out".</p>
+      <p>Some investors interpreted that as a signal OPEC+ could consider further output cuts.</p>
+      <p>Worries of weaker-than-expected demand growth globally capped gains ahead of an expected rise in oil demand in the second half of the year, especially from China.</p>
+      <p>Meanwhile, bets on falling oil prices are on the rise.</p>
+      <p>The dollar has strengthened this month against a basket of major peers, making dollar-denominated commodities such as oil more expensive for those holding other currencies.</p>
+      <p>(Additional reporting by Arathy Somasekhar and Trixie Yap; editing by Jason Neely and Sharon Singleton)</p>
+    </div>
+  },
+  {
   id: 511,
   title: 'Oil rises as US gasoline supplies tighten, Saudi says: watch out',
   category: 'Commodities',

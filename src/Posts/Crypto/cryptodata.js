@@ -1,5 +1,136 @@
 const data = [
   {
+    id: 536,
+    title: 'This Week in Coins: Bitcoin and Ethereum See Fourth Flat Week as TRON and Tether Surge',
+    category: 'Crypto',
+    subCategory: ['TRON', 'Tether', 'bitcoin'],
+    description: <div className="blog-desc">
+      <p>It was the fourth consecutive week of flat prices. A generally slow news cycle meant that market leaders Bitcoin and Ethereum remained where they were last weekend.</p>
+    </div>,
+    authorName: 'Tim Hakki',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 27, 2023 - 10:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-570.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>It was the fourth consecutive week of flat prices. A generally slow news cycle meant that market leaders Bitcoin and Ethereum remained where they were last weekend.</p>
+    	<p>Bitcoin depreciated a nominal 0.5% and currently trades at $26,815, while Ethereum rose 1% over the seven days and now enters the weekend at $1,829.</p>	
+    	<p>On Monday, an AI-generated photo depicting a fabricated explosion at the Pentagon briefly caused a selloff in stocks and Bitcoin.</p>	
+	    <p>Markets were decidedly flat across the board, with no top thirty cryptocurrency posting significant gains except TRON, which rallied 8% to $0.076778.</p>
+      <p>TRON’s rally this week appears to have been driven by the climbing market capitalization of the U.S. dollar-pegged stablecoin Tether (USTD), as the latter inches towards overtaking its all-time high of $83.2 billion, set in May last year.</p>
+      <p>According to CoinGecko, Tether may set a new high watermark any day now.</p>
+      <p>TRON and USDT’s joint rally appears to be linked to the fact that the majority of USDT, approximately $46 billion, is issued on Tron, surpassing the $36 billion on Ethereum. Recent data shows a steep rise in USDT on the TRON network throughout 2023 so far.</p>
+      <p>The biggest losses among cryptocurrencies this week were posted by Internet Computer (ICP), which fell 6% to $4.88, and Lido DAO (LDO), which dropped 7.1% to $1.96.</p>
+      <h3>Coin politics</h3>
+      <p>Crypto is already a major talking point in Bitcoin-friendly Florida Governor Ron DeSantis’s campaign as he gets ready to run as the GOP’s candidate in next year’s U.S. presidential elections.</p>
+      <p>DeSantis headlined an otherwise disastrous Twitter Spaces the day he announced his candidacy and told his host, Twitter/Tesla CEO Elon Musk, that Biden’s administration “[has] it out for Bitcoin, and if it continues for another four years, they’ll probably end up killing it.”</p>
+      <p>On Tuesday, The International Organization of Securities Commissions (IOSCO) released a report outlining policy recommendations for global crypto regulation as part of the public consultation process.</p>
+      <p>In a nod to the fall of FTX, the IOSCO recommendations warn regulators about crypto companies "combining certain functions in a single legal entity or group of affiliated entities,” such as one entity running exchanges, trading firms, and custody businesses under one roof.</p>
+      <p>On Thursday, watchdog the European Systemic Risk Board (ESRB) released a report concluding that the industry’s economic impact is minimal, but advising vigilance and policymaking that monitors leveraged trading and the industry’s financial contagion risks.</p>
+      <p>That same day, the European Securities and Markets Authority (ESMA) and National Competent Authorities (NCAs) issued a statement saying that cryptocurrencies must be clearly labeled as unregulated and both investors and investment firms should understand the financial risks involved in trading them.</p>
+    </div>
+  },
+  {
+    id: 535,
+    title: 'Bitcoin and Ethereum: Two titans battle for NFT supremacy',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ethereum', 'NFT'],
+    description: <div className="blog-desc">
+      <p>This past weekend, two major cryptocurrency/non-fungible tokens events happened, Veecon Indianapolis 2023 and the BTC Miami/Ordinals Conference 2023.</p>
+    </div>,
+    authorName: 'Yohann Calpu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 27, 2023 - 8:40 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-569.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>This past weekend, two major cryptocurrency/non-fungible tokens events happened, Veecon Indianapolis 2023 and the BTC Miami/Ordinals Conference 2023.</p>
+    	<p>I chose to go to Indianapolis to meet my colleagues whom I’ve worked with for almost three years without meeting them in real life.</p>	
+    	<p>At one point, as I was walking back to the hotel on the streets of Indianapolis, it became apparent to me that there was a split in the NFT community. One was the “status quo” ETH-based community that’s in the pre-teen stage meeting up at Veecon, and the other was a newly birthed baby in Miami at BTC Miami/Ordinals 2023.</p>	
+	    <p>At Forkast Labs, we work on CryptoSlam.io to “unite the NFT community.” Ever since our co-founder Randy Wasinger added Loom (Sorare), Flow and WAX chains, alongside Ethereum in early 2021, we have always strived to include all new and relevant chains that we can.</p>
+      <p>I also met loads of NFT industry celebs, including Richerd Chan from Manifold.xyz, who has created some of the most used Ethereum smart contracts in the NFT industry. He had actually reached out to me in 2020 through a client at the time and we had only talked online, but never met in person, and now he had so many folks around him that I could only briefly speak with him.</p>
+      <p>As an epic Ethereum NFT celebrity and developer, I decided to ask him a very telling question: “Are you developing for Bitcoin?”</p>
+      <p>His response made it clear that he wasn’t and had no intention of doing so at the moment. He posed a great question in return: “Is the BTC community even supporting Ordinals?”</p>
+      <p>It’s a great question, to be honest.</p>
+      <p>In Miami, it seems that the main theme revolves around the “laser-eyed maxis” who view Bitcoin as having a single use case: being “better money” and a store of value that shouldn’t be tampered with.</p>
+      <p>On the other hand, the new Ordinal crew, represented by individuals like @rodarmor, @TO, @LeonidasNFT and @udiwertheimer, are leading the charge on alternative use cases such as digital artifacts (NFTs) and BRC-20s, which are the bitcoin equivalent of fungible tokens like ETH and BTC.</p>
+      <p>The latest rankings on CryptoSlam.io show that $OXBT and $ORDI are in the top 10, indicating the rapid rise of Bitcoin in the scene.</p>
+      <p>Personally, I have never seen an ecosystem boot up this fast, except for NFTs in 2020-2021, and I would argue that it’s even moving faster this time around.</p>
+      <p>The Bitcoin market cap of over US$500 billion is more than double the Ethereum currency market cap of over US$200 billion. The Bitcoin protocol may be better suited to certain types of NFTs, ones that see immutability and scarcity as features instead of weaknesses.</p>
+      <p>Fundamentally, there is a big difference forming between what we are seeing on ETH and what we are seeing on BTC. The community is splitting into people who value UX, and corporate partners and one who values ultimate security/scarcity and immutability. While I think there are strengths to each, there IS a place for both.</p>
+      <p>Net new people are coming into the “NFT” ecosystem, even if they will only trade Ordinals on BTC or BRC-20s, and they are really small in numbers, they are net new people. What will happen when the Michael Saylors of the world see the value in Ordinal theory, and its burgeoning use cases on BTC?</p>
+      <p>The NFT ecosystem, while can be seen as splitting, is actually growing and innovating, and while Taylor Swift fans are not coming in en masse, the core set of people who see the future of this technology is more excited about the growth of this industry than ever before.</p>
+    </div>
+  },
+  {
+    id: 534,
+    title: 'An ‘Optimism’ outperformance – Will OP join in?',
+    category: 'Crypto',
+    subCategory: ['Optimism', 'OP', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Optimism outperforms other chains and ranks number one in terms of net flows on the network. User retention remains high however there has been no positive impact on OP’s price.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-558.jpg',
+    content: <div className="blog-content">
+      <p>Optimism outperforms other chains and ranks number one in terms of net flows on the network. User retention remains high however there has been no positive impact on OP’s price.</p>
+      <ul>
+        <li>Optimism does better than other layer 2 chains in terms of net flow. Protocol manages to retain a higher number of users.</li>
+        <li>OP’s price continues to decline, however, whales show sudden interest.</li>
+      </ul>
+    	<p>Optimism has been having a tough time competing in the L2 space as competitors such as Arbitrum and Polygon have been dominating the market over the last few months. However, it appears that Optimism started to gain its footing in the L2 space yet again and has been outperforming other L2 solutions in some areas.</p>
+	    <h3>On the brighter side</h3>
+      <p>According to data provided by analyst Dynamo Patrick, Optimism ranked number 1 in terms of net bridge flow. For context, net bridge flow in crypto refers to the movement of digital assets between different blockchain networks or bridges.</p>	
+	    <p>In the last week, Optimism’s net flow reached a total of $57.1 million.</p>	
+	    <p>The spike in net flow on the Optimism protocol could be attributed to the growing number of users on the network. Not only were new users being onboarded to Optimism, but they were choosing to stay as well.</p>
+      <p>This was showcased by Dune Analytics’ data which indicated that Optimism’s user retention began to surge over the last few days. At press time, the weekly retention for new users on Optimism was around 17.3%.</p>
+      <p>However, the OP token didn’t see the same growth as its protocol. Since 15 April, the price of OP declined by 43.64%. At press time, OP was trading at $1.596 after fluctuating between the $1.867 and $.494 resistance and support.</p>
+      <p>The Relative Strength Index (RSI) of OP experienced a significant and consistent decline over the past few days. It reached a value of 40.72 at the time of writing. Conversely, the Chaikin Money Flow (CMF) displayed a contrasting pattern by continuously increasing, with a recorded value of 0.13.</p>
+      <p>This suggested that despite the weakening momentum indicated by the RSI, there was still a demand for OP, possibly from new buyers or institutional investors.</p>
+      <p>The volume with which OP was being traded, also declined during this month. However, there was a spike in the number of whale transactions for the OP token. If whales continue to show interest and accumulate more OP, it could have a positive impact on the OP token going forward.</p>
+    </div>
+  },
+  {
+    id: 533,
+    title: 'BNB drops below this key support level as Binance halts…',
+    category: 'Crypto',
+    subCategory: ['BNB', 'binance', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Binance, on 25 May, decided to suspend transactions for some assets. This impact BNB’s price action which wasn’t doing well either given the sell pressure in the last two days. BNB also managed to drop below a key ascending support line.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-557.jpg',
+    content: <div className="blog-content">
+      <p>Binance, on 25 May, decided to suspend transactions for some assets. This impact BNB’s price action which wasn’t doing well either given the sell pressure in the last two days. BNB also managed to drop below a key ascending support line.</p>
+    	<ul>
+        <li>Binance halts deposits from 10 networks albeit temporarily.</li>
+        <li>Assessing BNB’s fate after crashing through the ascending support line.</li>
+      </ul>
+      <p>The Binance Smart Chain’s native cryptocurrency has been on a bearish trajectory for six weeks. Its performance in the last two days has been particularly noteworthy because of its ascending support line. Should investors anticipate more BNB price weakness after failing to secure bullish momentum?</p>
+    	<p>Let’s take a look at some of the most noteworthy observations regarding Binance before assessing BNB’s prospects. According to the latest Binance announcement, the BSC temporarily suspended deposits from multiple networks in the last 24 hours at the time of writing.</p>	
+    	<p>Binance did not disclose whether the decision was based on a threat to its operations or whether it was due to routine maintenance. However, it did reveal later that it resumed deposits from Ethereum and FTM.</p>	
+    	<p>We observed a significant dip in the number of active addresses in the last 24 hours in hours after Binance made the announcement. This was followed by a sharp bounce back presumably due to the reactivation of deposits.</p>
+      <p><strong>Is there still hope for BNB bulls in the short run?</strong></p>
+      <p>The likelihood that the halting of deposits may have had an impact on BNB’s price action was quite low. This was because the cryptocurrency maintained the same bearish momentum it was on 24 hours prior to the announcement about the temporary suspension of deposits.</p>
+      <p>BNB’s price action was particularly notable because the selling pressure in the last two days broke through a key ascending support line. It traded at $304 at press time which is slightly above its 200-day moving average.</p>
+      <p>The 200-day MA will likely act as the next support range to bear the $300 price level. This was largely because the MA may act as a psychological buy zone and the fact that the same price is within a zone of short-term support. Also, what was worth noting was that the MFI indicated that buying momentum was already building up.</p>
+      <p>Some on-chain data also backed the bullish expectations. For example, the mean coin age has been on a steady upward trajectory for the last seven days. This confirmed that most investors were still holding their tokens. Additionally, investor consensus expectations have been on the rise for the last seven days indicating bullish expectations.</p>
+      <p>Based on the above analysis, buying pressure was slowly building up and might soon lend favor to the bulls. However, this outcome was still subject to overall market conditions which may pull a surprising instance of capitulation if BNB fails to secure enough bullish momentum.</p>
+    </div>
+  },
+  {
     id: 532,
     title: 'Bitcoin, Ether rise; Dogecoin falls despite record high transaction volume',
     category: 'Crypto',
