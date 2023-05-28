@@ -34,7 +34,7 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>NCX {t("platinum")} <span>{t("card")}</span></h2>
+                            <h2>NCX {t("gold")} <span>{t("card")}</span></h2>
                         </div>
                         <p>
                             <span>{t("monthly_limit")} $25,000 | {t("atm_withdrawals")}  $5,000 Monthly</span>
@@ -47,11 +47,29 @@ function Indices5()
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
-                            <img src={Device2} alt="ncx_platform" />
+                            <img src={Device4} alt="ncx_platform" />
                         </div>
                     </div>
                 </div>
                 <div className="plat__ggre row">
+                    <div className="col trg__ff__fe gold__card">
+                        <div className="tra__go">
+                            <h2>NCX {t("platinum")} <span>{t("card")}</span></h2>
+                        </div>
+                        <p>
+                            <span>{t("monthly_limit")} $50,000 | {t("atm_withdrawals")}  $10,000 Monthly</span>
+                            <span>{t("trading_fee_discount")} 15% | {t("10%_discount_on")} Booking.com</span>
+                            <span>{t("free_premium_metal_card")} | {t("virtual_card")} </span>
+                            <span>Apple Pay, Google Pay, Samsung Pay</span>
+                        </p>
+                        <div className="tiy__bd">
+                            <Button href="/ncx-card" className="download">{t("view_card")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                        </div>
+                        <div className="pla__img">
+                            <img src={Device2} alt="ncx_platform" />
+                        </div>
+                    </div>
                     <div className="col trg__ff__fe black__card">
                         <div className="tra__go">
                             <h2>NCX {t("black")} <span>{t("card")}</span></h2>
@@ -68,24 +86,6 @@ function Indices5()
                         </div>
                         <div className="pho__img">
                             <img src={Device3} alt="ncx_platform" />
-                        </div>
-                    </div>
-                    <div className="col trg__ff__fe gold__card">
-                        <div className="tra__go">
-                            <h2>NCX {t("gold")} <span>{t("card")}</span></h2>
-                        </div>
-                        <p>
-                            <span>{t("monthly_limit")} $50,000 | {t("atm_withdrawals")}  $10,000 Monthly</span>
-                            <span>{t("trading_fee_discount")} 15% | {t("10%_discount_on")} Booking.com</span>
-                            <span>{t("free_premium_metal_card")} | {t("virtual_card")} </span>
-                            <span>Apple Pay, Google Pay, Samsung Pay</span>
-                        </p>
-                        <div className="tiy__bd">
-                            <Button href="/ncx-card" className="download">{t("view_card")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
-                        </div>
-                        <div className="pla__img">
-                            <img src={Device4} alt="ncx_platform" />
                         </div>
                     </div>
                 </div>
