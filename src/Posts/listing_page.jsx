@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                                <a href="/post-crypto/534" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-558.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> May 26, 2023</p>
-                                    <h1>An ‘Optimism’ outperformance – Will OP join in?</h1>
-                                    <p>Optimism outperforms other chains and ranks number one in terms of net flows on the network. User retention remains high however there has been no positive impact on OP’s price.</p>
+                                <a href="/post-markets/522" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-568.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> May 28, 2023 - 7:16 AM</p>
+                                    <h1>Investors react to tentative US debt ceiling deal</h1>
+                                    <p>NEW YORK (Reuters) - U.S. President Joe Biden and top congressional Republican Kevin McCarthy have reached a tentative deal to raise the federal government's $31.4 trillion</p>
                                 </a>
-                                <a href="/post-markets/521" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-564.jpg" alt="art_pic"/></div>
-                                    <p className="dat">May 26, 2023 - 4:00 PM</p>
-                                    <h1>Nvidia Just Left Warren Buffett In The Dust Again</h1>
-                                    <p>Nvidia's insane stock rally Thursday put $184 billion into investors' pockets in one day. More notably: It pushed Nvidia stature in the S&P 500 past Warren Buffett's Berkshire Hathaway — again.</p>
+                                <a href="/post-commodities/513" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-567.jpg" alt="art_pic"/></div>
+                                    <p className="dat">May 27, 2023 - 6:00 PM</p>
+                                    <h1>Saudi Arabia, Russia Ties Under Strain Over Oil-Production Cuts</h1>
+                                    <p>Tensions are rising between Saudi Arabia and Russia as Moscow keeps pumping huge volumes of cheaper crude into the market</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row">
-                            <a href="/post-crypto/533" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-557.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> May 26, 2023</p>
-                                    <h1>BNB drops below this key support level as Binance halts…</h1>
-                                    <p>Binance, on 25 May, decided to suspend transactions for some assets. This impact BNB’s price action which wasn’t doing well either given the sell pressure in the last two days. BNB also managed to drop below a key ascending support line.</p>
+                            <a href="/post-crypto/536" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-570.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> May 27, 2023 - 10:51 PM</p>
+                                    <h1>This Week in Coins: Bitcoin and Ethereum See Fourth Flat Week as TRON and Tether Surge</h1>
+                                    <p>It was the fourth consecutive week of flat prices. A generally slow news cycle meant that market leaders Bitcoin and Ethereum remained where they were last weekend.</p>
                                 </a>
-                            <a href="/post-crypto/532" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-556.jpg" alt="art_pic"/></div>
-                                    <p className="dat">May 24, 2023 - 6:48 AM</p>
-                                    <h1>Bitcoin, Ether rise; Dogecoin falls despite record high transaction volume</h1>
-                                    <p>Bitcoin edged up and continued trading above the US$27,000 threshold on Wednesday morning in Asia, with other top 10 non-stablecoin cryptocurrencies</p>
+                            <a href="/post-crypto/535" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-569.jpg" alt="art_pic"/></div>
+                                    <p className="dat">May 27, 2023 - 8:40 PM</p>
+                                    <h1>Bitcoin and Ethereum: Two titans battle for NFT supremacy</h1>
+                                    <p>This past weekend, two major cryptocurrency/non-fungible tokens events happened, Veecon Indianapolis 2023 and the BTC Miami/Ordinals Conference 2023.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -70,23 +70,23 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
+                            <a href="/post-crypto/533" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-557.jpg" alt="art_pic"/></div>
+                                <p className="dat">May 26, 2023</p>
+                                <h1>BNB drops below this key support level as Binance halts…</h1>
+                                <p>Binance, on 25 May, decided to suspend transactions for some assets. This impact BNB’s price action which wasn’t doing well either given the sell pressure in the last two days.</p>
+                            </a>
+                            <a href="/post-markets/521" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-564.jpg" alt="art_pic"/></div>
+                                <p className="dat"> May 26, 2023 - 4:00 PM</p>
+                                <h1>Nvidia Just Left Warren Buffett In The Dust Again</h1>
+                                <p>Nvidia's insane stock rally Thursday put $184 billion into investors' pockets in one day. More notably: It pushed Nvidia stature in the S&P 500 past Warren Buffett's Berkshire Hathaway — again.</p>
+                            </a>
                             <a href="/post-forex/521" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-559.jpg" alt="art_pic"/></div>
                                 <p className="dat"> May 25, 2023 - 4:06 PM</p>
                                 <h1>EUR/USD Forecast – Euro Continues to Fall</h1>
                                 <p>The euro has fallen again during the trading session on Thursday, as it looks like we’re going to head down to the 200-Day EMA.</p>
-                            </a>
-                            <a href="/post-crypto/531" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-554.jpg" alt="art_pic"/></div>
-                                <p className="dat">May 23, 2023</p>
-                                <h1>Things look up for MATIC as zkEVM witnesses decline in…</h1>
-                                <p>Users should keep an eye on Ethereum’s price and network activity to take advantage of less transaction fees.</p>
-                            </a>
-                            <a href="/post-commodities/511" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-553.jpg" alt="art_pic"/></div>
-                                <p className="dat"> May 23, 2023 - 5:38 PM</p>
-                                <h1>Oil rises as US gasoline supplies tighten, Saudi says: watch out</h1>
-                                <p>BENGALURU (Reuters) -Oil prices rose on Tuesday on forecasts for a tighter gasoline market and a warning from the Saudi energy minister to speculators that raised the prospect of further OPEC+ output cuts.</p>
                             </a>
                             <a href="/post-indices/514" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-549.jpg" alt="art_pic"/></div>

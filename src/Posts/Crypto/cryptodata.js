@@ -1,5 +1,72 @@
 const data = [
   {
+    id: 536,
+    title: 'This Week in Coins: Bitcoin and Ethereum See Fourth Flat Week as TRON and Tether Surge',
+    category: 'Crypto',
+    subCategory: ['TRON', 'Tether', 'bitcoin'],
+    description: <div className="blog-desc">
+      <p>It was the fourth consecutive week of flat prices. A generally slow news cycle meant that market leaders Bitcoin and Ethereum remained where they were last weekend.</p>
+    </div>,
+    authorName: 'Tim Hakki',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 27, 2023 - 10:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-570.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>It was the fourth consecutive week of flat prices. A generally slow news cycle meant that market leaders Bitcoin and Ethereum remained where they were last weekend.</p>
+    	<p>Bitcoin depreciated a nominal 0.5% and currently trades at $26,815, while Ethereum rose 1% over the seven days and now enters the weekend at $1,829.</p>	
+    	<p>On Monday, an AI-generated photo depicting a fabricated explosion at the Pentagon briefly caused a selloff in stocks and Bitcoin.</p>	
+	    <p>Markets were decidedly flat across the board, with no top thirty cryptocurrency posting significant gains except TRON, which rallied 8% to $0.076778.</p>
+      <p>TRON’s rally this week appears to have been driven by the climbing market capitalization of the U.S. dollar-pegged stablecoin Tether (USTD), as the latter inches towards overtaking its all-time high of $83.2 billion, set in May last year.</p>
+      <p>According to CoinGecko, Tether may set a new high watermark any day now.</p>
+      <p>TRON and USDT’s joint rally appears to be linked to the fact that the majority of USDT, approximately $46 billion, is issued on Tron, surpassing the $36 billion on Ethereum. Recent data shows a steep rise in USDT on the TRON network throughout 2023 so far.</p>
+      <p>The biggest losses among cryptocurrencies this week were posted by Internet Computer (ICP), which fell 6% to $4.88, and Lido DAO (LDO), which dropped 7.1% to $1.96.</p>
+      <h3>Coin politics</h3>
+      <p>Crypto is already a major talking point in Bitcoin-friendly Florida Governor Ron DeSantis’s campaign as he gets ready to run as the GOP’s candidate in next year’s U.S. presidential elections.</p>
+      <p>DeSantis headlined an otherwise disastrous Twitter Spaces the day he announced his candidacy and told his host, Twitter/Tesla CEO Elon Musk, that Biden’s administration “[has] it out for Bitcoin, and if it continues for another four years, they’ll probably end up killing it.”</p>
+      <p>On Tuesday, The International Organization of Securities Commissions (IOSCO) released a report outlining policy recommendations for global crypto regulation as part of the public consultation process.</p>
+      <p>In a nod to the fall of FTX, the IOSCO recommendations warn regulators about crypto companies "combining certain functions in a single legal entity or group of affiliated entities,” such as one entity running exchanges, trading firms, and custody businesses under one roof.</p>
+      <p>On Thursday, watchdog the European Systemic Risk Board (ESRB) released a report concluding that the industry’s economic impact is minimal, but advising vigilance and policymaking that monitors leveraged trading and the industry’s financial contagion risks.</p>
+      <p>That same day, the European Securities and Markets Authority (ESMA) and National Competent Authorities (NCAs) issued a statement saying that cryptocurrencies must be clearly labeled as unregulated and both investors and investment firms should understand the financial risks involved in trading them.</p>
+    </div>
+  },
+  {
+    id: 535,
+    title: 'Bitcoin and Ethereum: Two titans battle for NFT supremacy',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ethereum', 'NFT'],
+    description: <div className="blog-desc">
+      <p>This past weekend, two major cryptocurrency/non-fungible tokens events happened, Veecon Indianapolis 2023 and the BTC Miami/Ordinals Conference 2023.</p>
+    </div>,
+    authorName: 'Yohann Calpu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 27, 2023 - 8:40 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-569.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>This past weekend, two major cryptocurrency/non-fungible tokens events happened, Veecon Indianapolis 2023 and the BTC Miami/Ordinals Conference 2023.</p>
+    	<p>I chose to go to Indianapolis to meet my colleagues whom I’ve worked with for almost three years without meeting them in real life.</p>	
+    	<p>At one point, as I was walking back to the hotel on the streets of Indianapolis, it became apparent to me that there was a split in the NFT community. One was the “status quo” ETH-based community that’s in the pre-teen stage meeting up at Veecon, and the other was a newly birthed baby in Miami at BTC Miami/Ordinals 2023.</p>	
+	    <p>At Forkast Labs, we work on CryptoSlam.io to “unite the NFT community.” Ever since our co-founder Randy Wasinger added Loom (Sorare), Flow and WAX chains, alongside Ethereum in early 2021, we have always strived to include all new and relevant chains that we can.</p>
+      <p>I also met loads of NFT industry celebs, including Richerd Chan from Manifold.xyz, who has created some of the most used Ethereum smart contracts in the NFT industry. He had actually reached out to me in 2020 through a client at the time and we had only talked online, but never met in person, and now he had so many folks around him that I could only briefly speak with him.</p>
+      <p>As an epic Ethereum NFT celebrity and developer, I decided to ask him a very telling question: “Are you developing for Bitcoin?”</p>
+      <p>His response made it clear that he wasn’t and had no intention of doing so at the moment. He posed a great question in return: “Is the BTC community even supporting Ordinals?”</p>
+      <p>It’s a great question, to be honest.</p>
+      <p>In Miami, it seems that the main theme revolves around the “laser-eyed maxis” who view Bitcoin as having a single use case: being “better money” and a store of value that shouldn’t be tampered with.</p>
+      <p>On the other hand, the new Ordinal crew, represented by individuals like @rodarmor, @TO, @LeonidasNFT and @udiwertheimer, are leading the charge on alternative use cases such as digital artifacts (NFTs) and BRC-20s, which are the bitcoin equivalent of fungible tokens like ETH and BTC.</p>
+      <p>The latest rankings on CryptoSlam.io show that $OXBT and $ORDI are in the top 10, indicating the rapid rise of Bitcoin in the scene.</p>
+      <p>Personally, I have never seen an ecosystem boot up this fast, except for NFTs in 2020-2021, and I would argue that it’s even moving faster this time around.</p>
+      <p>The Bitcoin market cap of over US$500 billion is more than double the Ethereum currency market cap of over US$200 billion. The Bitcoin protocol may be better suited to certain types of NFTs, ones that see immutability and scarcity as features instead of weaknesses.</p>
+      <p>Fundamentally, there is a big difference forming between what we are seeing on ETH and what we are seeing on BTC. The community is splitting into people who value UX, and corporate partners and one who values ultimate security/scarcity and immutability. While I think there are strengths to each, there IS a place for both.</p>
+      <p>Net new people are coming into the “NFT” ecosystem, even if they will only trade Ordinals on BTC or BRC-20s, and they are really small in numbers, they are net new people. What will happen when the Michael Saylors of the world see the value in Ordinal theory, and its burgeoning use cases on BTC?</p>
+      <p>The NFT ecosystem, while can be seen as splitting, is actually growing and innovating, and while Taylor Swift fans are not coming in en masse, the core set of people who see the future of this technology is more excited about the growth of this industry than ever before.</p>
+    </div>
+  },
+  {
     id: 534,
     title: 'An ‘Optimism’ outperformance – Will OP join in?',
     category: 'Crypto',

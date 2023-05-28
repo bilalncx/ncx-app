@@ -1,5 +1,37 @@
 const data = [
   {
+    id: 522,
+    title: 'Investors react to tentative US debt ceiling deal',
+    category: 'Markets',
+    subCategory: ['Investor', 'US', 'debt'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) - U.S. President Joe Biden and top congressional Republican Kevin McCarthy have reached a tentative deal to raise the federal government's $31.4 trillion</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 28, 2023 - 7:16 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-568.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>NEW YORK (Reuters) - U.S. President Joe Biden and top congressional Republican Kevin McCarthy have reached a tentative deal to raise the federal government's $31.4 trillion debt ceiling, ending a months-long stalemate, two sources familiar with the negotiations said on Saturday.</p>
+	    <p>But the deal still faces a difficult path to pass through Congress before the United States runs out of money to pay its debts in early June.</p>	
+	    <p>COMMENTS:</p>	
+	    <p>THIERRY WIZMAN, GLOBAL FX AND INTEREST RATES STRATEGIST, MACQUARIE GROUP, NEW YORK</p>
+      <p>"There is certainly going to be a relief in the fixed income markets. Where there were the most distortions from the uncertainty was in the credit markets and in the Treasury bill market... I think on Tuesday, when the market reopens in the U.S., we should see those two distortions fixed.</p>
+      <p>"But what this doesn't solve, is that along the whole Treasury curve yields have gone up recently. And I think they went up in anticipation that there will be a lot of issuance of Treasury bonds and notes and bills in the next few weeks because the U.S. Treasury has to replenish its cash. And so, I think Treasury bond yields will stay high for a while that supply is absorbed.</p>
+      <p>"And I think stocks can do okay, here. This was certainly one overhang over the stock market.</p>
+      <p>"As far as the dollar goes, I'm inclined to think that it could strengthen the dollar a little bit because it will weaken the argument for de-dollarization. But not by much just a little bit more, because the dollar has already strengthened in the last few weeks quite a bit."</p>
+      <p>AMO SAHOTA, DIRECTOR, KLARITYFX, SAN FRANCISCO</p>
+      <p>"This will be pretty good for the market. I think it will keep the expectations still pretty red hot with how the Nasdaq has been performing. It will be good for equities.</p>
+      <p>"I think it may also give more reason for the Fed to feel confident about trying to lift up rates again. I think the market may actually seize the opportunity to price in a little bit more tightening in June, if they think that all else being equal, the economy is still running pretty hot - we can see that. The lift up in tech sector in particular. Spending has been pretty robust as well.</p>
+      <p>"I think this just holds the dollar up pretty well as well. I think, generally, everybody should be pretty happy with this, although we want to see what the what the color of the deal looks like. Initially, it looks like this is coming more from cuts right, which is really what the Republicans were pushing for.</p>
+      <p>"And it’ll be important to see how long the deal is for, whether ... we're going to face these same issues again. Or whether those matters are going also going to be resolved with a long-term deal. I very, very much doubt it's a long term deal."</p>
+      <p>(Reporting by Laura Matthews; Compiled by the Global Finance & Markets Breaking News team; Editing by Kim Coghill)</p>
+    </div>
+  },
+  {
     id: 521,
     title: 'Nvidia Just Left Warren Buffett In The Dust Again',
     category: 'Markets',
