@@ -1,5 +1,74 @@
 const data = [
   {
+    id: 526,
+    title: 'USD/JPY Forecast – US Dollar Continues to Find Support',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has gone back and forth during the course of the trading session on Thursday, as we continue to see a lot of noisy behavior.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 4:53 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-580.jpg',
+    content: <div className="blog-content">
+    	<p>In this article:</p>
+      <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar has gone back and forth during the course of the trading session on Thursday, as we continue to see a lot of noisy behavior. With this being the case, the market is likely to looking toward the ¥140 level above, which of course is a large, round, psychologically significant figure and an area where we’ve seen a little bit of selling pressure.</p>
+    	<p>That being said, I do think it is probably only a matter of time before we see this market breakout above there, especially as the interest rate differential between the United States and Japan is so wide.</p>	
+    	<p>The ¥138 level underneath is the top of an ascending triangle, which of course is a pattern that almost everybody is paying close attention to. With this being the case, I think it’s probably only a matter of time before we find plenty of buyers, due to the market memory, and of course the fact that most people will understand that technical traders will be chasing this move. Because of this, I think it’s probably only a matter of time before we get a bit of a move. If we do break above the ¥140 level, that opens up the possibility of fulfilling the entire measured move, which is all the way to the ¥148 level.</p>	
+    	<p>The 50-Day EMA sits right around the ¥136 level and is rising quite drastically, and therefore I think it’s probably only a matter of time before that would come into the picture to show signs of support as well, assuming that we even drop down that level. In general, I think this is a scenario where we continue to see a lot of noisy volatility, but clearly we have a lot of questions to ask, and clearly have a lot of upward pressure on the US dollar. Furthermore, the market also has to keep in mind that the Federal Reserve is likely to remain tight for the foreseeable future, while the Bank of Japan continues to insist on a very loose monetary policy, making the Japanese yen much less appealing.</p>
+    </div>
+  },
+  {
+    id: 525,
+    title: 'GBP to USD Forecast – British Pound Continues to Show Strength',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has pulled back initially during the trading session on Thursday, to test the 50-Day EMA. However, we have turned around to show signs of life again, and it now looks as if we are going to go looking toward the 1.2550 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 4:48 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-581.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound has pulled back initially during the trading session on Thursday, to test the 50-Day EMA. However, we have turned around to show signs of life again, and it now looks as if we are going to go looking toward the 1.2550 level.</p>
+    	<p>If we get there, it does have a significant amount of resistance built into it, despite the fact that we have broken above there previously. Short-term pullbacks should continue to offer buying opportunities, but I don’t necessarily think that we are breaking out anytime soon.</p>	
+    	<p>Underneath, the 1.2350 level should offer a significant amount of support, especially as there is an uptrend line right around the same area, and of course it is the area between the 200-Day EMA underneath, and the 50-Day EMA above. In this area, we will see a lot of noisy behavior, and I do think that eventually buyers would come back into that area. However, if we were to break down below the 200-Day EMA, the market is likely to drop down to the 1.1850 level underneath, which is a significant support level.</p>	
+    	<p>In general, this is a market that I think will continue to be very noisy, but you can probably say the same about most currency pairs right now, and with that being the case I think it’s probably only a matter of time before we would see both buyers and sellers get aggressive. At the end of the day, I do think that we have more buying pressure than selling pressure at the moment, as the Bank of England continues to be fighting major inflation. With this, it’s unlikely that we will continue to see the British pound fall significantly, unless of course we see a huge run into the US dollar overall. That being said, the British pound has been one of the better performers against the greenback this last year, so I think it’s probably only a matter of time before the buyers will come back on short-term debts. Whether or not we break out is a completely different question.</p>
+    </div>
+  },
+  {
+    id: 524,
+    title: 'GBP/JPY Forecast – British Pound Continues to Pressure the Upside Against the Japanese Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has initially pulled back just a bit during the trading session on Thursday but has turned around to show signs of life again.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 4:38 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-582.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>The British pound has initially pulled back just a bit during the trading session on Thursday but has turned around to show signs of life again. Ultimately, it looks as if the market is trying to do everything he can to break out to the upside, and if we can break out above the ¥174 level, then it’s possible that the market could go much higher, perhaps reaching toward the ¥175 level. Ultimately, I think this is a market that will eventually break out to the upside, and it’s more of a “buy on the dips” type of situation.</p>
+    	<p>When you look at the chart, the ¥170 level is a major support level that we will have to pay close attention to as support, especially with the 50-Day EMA running toward it. Because of this, it’s probably only a matter of time before we see buyers coming back into the market and start picking up value along the way. I don’t necessarily think that it’s going to be a straight shot higher, but I certainly believe that the buyers have most of the control at the moment.</p>	
+    	<p>Furthermore, keep in mind that the interest-rate differential between Great Britain and Japan continues to be huge, therefore it does make quite a bit of sense that we continue to see the pair go higher based on the interest-rate differential, and of course the so-called “carry trade.” Ultimately, I do think that we go much higher, but we may get the occasional short-term pullback which you should look at as a potential value play, that traders will take advantage of going forward.</p>	
+    	<p>I have no interest in shorting this market, as I believe the Japanese yen has quite a bit of pain ahead just waiting to happen. Because of this, I do think that it’s impossible to short this market anytime soon, at least until the Bank of Japan changes its overall attitude and monetary policy, something that I just don’t see happening very easily anytime soon.</p>
+    </div>
+  },
+  {
     id: 523,
     title: 'GBP to USD Forecast – British Pound Tests Support Level',
     category: 'Forex',

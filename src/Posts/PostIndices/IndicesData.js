@@ -1,5 +1,159 @@
 const data = [
   {
+    id: 518,
+    title: 'Dow Jones Futures Rise: Jobs Report Looms As Tesla Breaks Out',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Futures', 'Rise'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 4:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-593.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures. Broadcom (AVGO) and Lululemon Athletica (LULU) headlined earnings late Thursday with the jobs report on tap before the open. Tesla is looking to continue Thursday's breakout attempt.</p>
+    	<p>The Senate passed debt-ceiling legislation Thursday night, sending it to President Biden for his signature. That will avoid a first-ever U.S. default.</p>	
+    	<p>The stock market rally had a solid session Thursday. After starting off mixed, the major indexes should rebounded and moved higher, though they pared gains near the close. Market breadth was strong. Several stocks made bullish moves while some early earnings losers roared back. Falling Treasury yields and a weaker dollar provided a boost.</p>	
+    	<p>Tesla (TSLA) stock is trying to break out, while archrival BYD (BYDDF) is just below a buy point. Wingstop (WING), Fluence (FLNC) and Uber Technologies (UBER) are all near entries.</p>
+      <p>In addition to Broadcom and LULU stock, Zscaler (ZS), Asana (ASAN), Samsara (IOT), SentinelOne (S), MongoDB (MDB) reported late.</p>
+      <p>Lululemon. Samsara and especially MDB stock were big overnight earnings winners. ASAN stock and Zscaler rose as well, with AVGO stock edging higher. SentinelOne stock crashed overnight. ZS stock, Asana and Samara all closed near buy points or early entries.</p>
+      <p>WING stock was added to IBD Leaderboard on Thursday. MDB stock, Fluence, Wingstop and Uber are on the IBD 50. Wingstop was Thursday's IBD Stock Of The Day. FLNC stock was Tuesday's selection.</p>
+      <h3>Jobs Report</h3>
+      <p>Economists expect the May jobs report to show nonfarm payrolls up 190,000, down from 253,000. The jobless rate should tick up from a long-term low to 3.5%. Average hourly earnings should climb 4.4% vs. a year earlier, steady with April.</p>
+      <p>Other labor data this week have been robust, including April job openings and the May ADP Employment Report. But there are other indications that the labor markets haven't been as tight as previously thought.</p>
+      <p>The jobs report will influence expectations for the June Fed meeting. Rate hike odds plunged Wednesday as two Fed officials signaled they favored a pause this month. Markets now see a 77% chance of a pause.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.5% vs. fair value. S&P 500 futures advanced 0.5% and Nasdaq 100 futures climbed 0.5%. AVGO stock is a notable S&P 500 and Nasdaq 100 holding. So is Tesla.</p>
+      <p>Crude oil rose 2%. Copper futures climbed nearly 2%.</p>
+      <p>China's State Council is meeting Friday to discuss ways to boost the flagging economy. One option, according to a Bloomberg report, is to extend the purchase tax exemption for electric vehicles that cost less than 300,000 yuan ($42,400). The purchase tax exemption for all new energy vehicles was set to expire this year. That would be good news for many EV makers, including Tesla and BYD.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally strengthened for most of the session, before backing off in the final 45 minutes.</p>
+      <p>The Dow Jones Industrial Average rose 0.4% in Thursday's stock market trading. The S&P 500 index climbed 1%. The Nasdaq composite popped 1.3%. The small-cap Russell 2000 climbed 1.05%.</p>
+      <p>U.S. crude oil prices rebounded nearly 3% to $70.10 a barrel. Copper prices bounced 2.1%. Commodity prices were helped by a stronger Chinese economic data and a weaker U.S. dollar.</p>
+      <p>The 10-year Treasury yield fell 3 basis points to 3.61%, down 21 basis points so far this week.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) rose 1.3%. The iShares Expanded Tech-Software Sector ETF (IGV) lost a fraction. Sentinel One, Asana and ZS stock are in IGV. The VanEck Vectors Semiconductor ETF (SMH) gained 1.5%. AVGO stock is a big SMH component.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) climbed 1.5% and ARK Genomics ETF (ARKG) popped 2.9%. Tesla stock is the No. 1 holding across Ark Invest's ETFs. Cathie Wood's Ark also owns some BYD stock.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock rose 1.8% to 207.52. Intraday, shares hit 209.80, briefly clearing a 207.89 buy point from what's either a cup or double-bottom base. Notably, TSLA stock has advanced on above-average volume for four straight sessions, after few such days in the prior three months.</p>
+      <p>Shares rose slightly early Friday, signaling a continuation of the breakout attempt.</p>
+      <p>There had been speculation that Elon Musk would unveil a revamped Model 3 at the Shanghai plant on Thursday, but he did not. Meanwhile, Tesla is increasing discounts on U.S. inventory, choosing not to cut official prices for now.</p>
+      <p>Meanwhile, BYD stock climbed 2% to 30.80 on Thursday, getting back toward a 31.17 cup-with-handle buy point initially cleared on May 10. On Thursday, BYD reported record deliveries in May, exceeding its late 2022 peak after a Tesla-led China EV price war took a toll earlier in 2023.</p>
+      <h3>Other Stocks Near Buy Points</h3>
+      <p>FLNC stock fell 2.4% to 24.20. Shares are slightly below a 24.87 handle buy point, but have been trading this week above an early entry from breaking the downtrend of the handle. Fluence Energy is in utility-scale storage. Much like Tesla's Megapack business, Fluence uses CATL batteries. Not yet profitable, but revenue growth is booming.</p>
+      <p>WING stock dipped 0.3% to 198.44. Wingstop found support at its 10-week line this week, just above a prior buy point. Shares would be actionable above Wednesday's high of 202.43. That would also get WING stock above its 21-day line and break a downtrend in a short consolidation. Wingstop stock is on track to have a flat base by Friday's close.</p>
+      <p>UBER stock rose 1.45% to 38.48, rebounding from the 21-day line. Technically, the ride-hailing giant is in range from a cup base with a 37.68 buy point, according to MarketSmith analysis. Investors could buy Uber stock here, or wait for a little more strength to break a short downtrend. Uber is an example of a stock that ran up straight from the bottom of its base. The pause over the past month has been constructive.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>Big-cap techs led Thursday's stock market rally, but it was a broad advance. The Nasdaq rose to just below Tuesday's nine-month high, and closed at its best level since mid-August. The S&P 500 set a fresh 2023 high.</p>
+      <p>The Dow Jones tested its 200-day line but rebounded higher. It's still below its 50-day line. The Russell 2000 reclaimed its 50-day but must work back to its 200-day average.</p>
+      <p>Market breadth was strongly positive on Thursday, with winners leading losers by more than 2-to-1. However, new lows comfortably exceeded new highs.</p>
+      <p>The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) advanced 0.7%, lagging the Nasdaq 100's 1.2% gain but match a 52-week closing high.</p>
+      <p>The Invesco S&P 500 Equal Weight ETF (RSP) rallied 0.75%, but is still below key moving averages. RSP, along with the Russell 2000, reflects Thursday's broad advance but also the longer-term weak breadth.</p>
+      <p>A few stocks broke out, but aside from Tesla they were extended from moving averages. There were a few add-on buys or swing trades such as Celsius (CELH), but you had to be quick.</p>
+      <p>A lot of the AI, chip and software names that have been leading the market could use a rest. Some are greatly extended, while others have run straight up from the bottom of bases, but could use some tight action around buy points.</p>
+      <p>Hopefully, other sectors can rejoin and expand market leadership, such as biotechs, medical products, travel and homebuilders. For that to happen, the market rally needs to see a steady diet of broad advances.</p>
+      <h3>What To Do Now</h3>
+      <p>Thursday's market action was positive, but it was just one day. Leadership remains narrow and breadth weak.</p>
+      <p>There weren't a lot of buying opportunities Thursday. Some stocks need to rest, while others need to push higher. Let those setups develop. Don't try to force your way into higher exposure by buying extended stocks or others that are not yet in position.</p>
+      <p>Instead, you should be tracking these leaders and potential leaders. Keep your watchlists up to date, focusing in on stocks that are close to being actionable and have high potential.</p>
+      <p>Market exposure should still be modest. If a broad market rally takes hold, there will be plenty of opportunities to gradually bulk up your portfolio. On the flip side, be ready to scale out if individual holdings or the broader market weaken.</p>
+    </div>
+  },
+  {
+    id: 517,
+    title: 'Dow Jones Falls After Strong Jobs Data; Hot AI Stock C3.ai Crashes 24% On Earnings',
+    category: 'Indices',
+    subCategory: ['Dow jones', 'AI stock', 'C3'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average fell Thursday after key economic data, with the release of ADP's employment report and the Labor Department's weekly jobless claims.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 6:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-592.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average fell Thursday after key economic data, with the release of ADP's employment report and the Labor Department's weekly jobless claims. Meanwhile, hot AI stock C3.ai (AI) crashed as much as 24% after its first-quarter earnings report.</p>
+    	<p>ADP's employment report showed May jobs growth of 278,000, much stronger than the expected 160,000 figure, but still down slightly from April's 296,000 number. ADP's report is a precursor to Friday's jobs data from the Labor Department.</p>	
+    	<p>Meanwhile, initial jobless claims rose to 232,000, slightly below the 235,000 forecast vs. 229,000 in the previous week. (For the latest coverage of the market, visit our Stock Market Today page.)</p>	
+    	<p>Further, the PMI manufacturing index came in at 48.4, slightly below the 48.5 estimate. Finally, the May ISM manufacturing index fell to 46.9, below the 47.0 estimate compared to April's 47.1 reading,</p>
+      <p>C3.ai, which preannounced some fiscal fourth-quarter results in mid-May, issued a full-year fiscal 2024 revenue outlook that missed analyst estimates. The stock had rallied more than 20% this week, but is poised to lose most of it.</p>
+      <p>Other key earnings movers include Chewy (CHWY), CrowdStrike (CRWD), NetApp (NTAP), Nordstrom (JWN), Okta (OKTA), Salesforce (CRM) and Veeva Systems (VEEV).</p>
+      <p>Chewy shares jumped 20%, while CrowdStrike reported April-quarter profit and revenue that topped analyst estimates. CRWD stock tumbled 8.5% as growth in a key metric, annual recurring revenue, slowed.</p>
+      <p>NetApp rallied more than 6% in early trade, as Nordstrom stock moved up 9.3%.</p>
+      <p>CRM stock sold off almost 8%, while Veeva shares surged 13%. Also, Okta plunged 19% in early morning trade.</p>
+      <h3>Stock Market Today</h3>
+      <p>Lucid Motors (LCID) skidded 13% after announcing a $3 billion stock offering and a separate private placement. Electric-vehicle giant Tesla (TSLA) traded almost 2% lower Thursday morning. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were lower after today's stock market open.</p>
+      <p>Arista Networks (ANET), IBD Leaderboard stock ASML (ASML), Cloudflare (NET) and Taiwan Semiconductor (TSM) — as well as Dow Jones stocks Boeing (BA), Cisco Systems (CSCO) and Salesforce (CRM) — are among the best stocks to buy and watch in the stock market uptrend.</p>
+      <p>Arista was a recent IBD Stock Of The Day, while ASML and Salesforce are IBD Leaderboard stocks. And Cisco was featured in this week's Stocks Near A Buy Zone column.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Thursday's opening bell, the Dow Jones Industrial Average fell 0.25%, while the S&P 500 rose 0.1%. The tech-heavy Nasdaq composite gained 0.1% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded down 0.1%, while the SPDR S&P 500 ETF (SPY) fell 0.15% early Thursday.</p>
+      <p>The 10-year U.S. Treasury yield on Thursday traded down to 3.58%. On Wednesday, the 10-year yield fell sharply for a second straight day.</p>
+      <p>U.S. oil prices dropped Thursday morning, extending this week's losses. West Texas Intermediate futures lost 0.5% Thursday, sending West Texas intermediate futures below $68 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Wednesday, the Dow Jones Industrial Average lost 0.4%, while the S&P 500 dropped 0.6%. The Nasdaq composite also lost 0.6%, easing from its 2023 highs.</p>
+      <p>Wednesday's Big Picture column commented, "So, for tech investors, after a tawdry 2022, the first five months ought to feel a whole lot nicer. But in this tale of two equity markets, blue chips outside the tech realm have truly been mixed."</p>
+      <p>Now is an important time to read IBD's The Big Picture column after the recent bullish change in the market's outlook.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: Cisco, Boeing, Salesforce</h3>
+      <p>Dow Jones networking giant Cisco Systems is building a cup base with a 52.66 buy point. Keep an eye out for a potential handle, which would show an earlier entry. CSCO stock declined 1% Wednesday, snapping a three-day win streak. CSCO stock fell 0.4% Thursday.</p>
+      <p>Dow Jones aerospace giant Boeing climbed 0.5% Wednesday, closing back above its 50-day line. Shares are still forming a flat base with a 221.43 buy point, according to IBD MarketSmith pattern recognition. BA stock moved up 0.6% early Thursday.</p>
+      <p>Salesforce rallied past alternative entries at 194.01 and 200.10 in recent weeks, according to Leaderboard analysis. Meanwhile, its relative strength line hit a new high Wednesday, a bullish signal. Shares reached the 20% profit zone from a 178.94 cup-with-handle entry, so investors would be justified to take some profits ahead of the company's first-quarter results late Wednesday.</p>
+      <p>CRM stock tumbled more than 6% Thursday morning. Late Wednesday, Salesforce reported April-quarter earnings and revenue that topped analyst estimates as operating margins improved amid cost-cutting spurred by activist investors. Its revenue outlook only edged by views.</p>
+      <h3>Best Stocks To Buy And Watch: Arista, ASML, Cloudflare, TSMC</h3>
+      <p>Networking giant Arista Networks fell sharply below its 171.54 buy point during Wednesday's 4.6% drop, according to IBD MarketSmith pattern recognition. ANET stock gained 0.5% Thursday morning.</p>
+      <p>IBD Leaderboard stock ASML remains just out of buy range past a 683.28 buy point in a cup with handle despite Wednesday's 0.7% fall. ASML rose 0.6% Thursday.</p>
+      <p>Cybersecurity leader Cloudflare broke out Wednesday past a 66.30 buy point in a double bottom. Shares closed in the 5% buy area, which runs up to 69.62. NET stock moved down 1.7% Thursday, heading lower in sync after earnings from CrowdStrike and Okta.</p>
+      <p>Chip foundry Taiwan Semiconductor dropped 3.3% Wednesday, falling back into buy range past a double-bottom's 95.92 buy point. The 5% buy area runs up to 100.72. TSM stock climbed 1% Thursday morning.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock rallied 1.4% Wednesday, moving closer to a cup base's 207.89 buy point. The stock is above its long-term 200-day line for the first time since Sept. 21. Shares closed Wednesday 35% off their 52-week high.</p>
+      <p>TSLA stock looked to add Wednesday's gains, but turned lower Thursday morning, falling 1.7%.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple shares edged lower Wednesday, snapping a four-day win streak after hitting a new 52-week high at 179.35. The stock continues to hold sharply above a 157.48 buy point and is out of the buy range that ran up to 165.35. AAPL stock fell 0.1% in morning trade Thursday.</p>
+      <p>Microsoft shares reversed from new highs, falling nearly 0.9% Wednesday. They traded as high as 335.94. Shares have reached the 20%-25% profit zone from a 276.86 flat-base buy point, so investors could take at least some profits here. On Thursday morning, MSFT stock was down 0.8%.</p>
+    </div>
+  },
+  {
+    id: 516,
+    title: 'Mega-cap tech dominance in the S&P 500 is obscuring investor bets that the US may already be in a recession',
+    category: 'Indices',
+    subCategory: ['Mega-cap', 'S&P', 'US'],
+    description: <div className="blog-desc">
+      <p>Nvidia stock is crushing it this year along with other mega-cap tech shares in the S&P 500, but BlackRock says stripping out those big movers</p>
+    </div>,
+    authorName: 'Carla Mozée',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 6:38 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-591.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>The jump in S&P 500's big tech stocks is masking concerns among investors that the US is already in recession, BlackRock Investment Institute says.</li>
+        <li>The index on an equal-weighted basis is down so far in 2023.</li>
+        <li>The US has logged back-to-back quarters of contraction in gross domestic income.</li>
+      </ul>
+    	<p>Nvidia stock is crushing it this year along with other mega-cap tech shares in the S&P 500, but BlackRock says stripping out those big movers reveals that investors may believe that the US economy is already contracting.</p>
+    	<p>Apple, Nvidia, Alphabet, Amazon, and Microsoft are the S&P 500's five largest stocks by market capitalization, and they've largely held sway over its direction this year. Nvidia's stock has rocketed up 170% on the buzz about AI technology, and the chipmaker on Tuesday was briefly thrust beyond a $1 trillion valuation.</p>	
+    	<p>But for the S&P 500, a "deeper look reveals stocks reflect worsening growth," Jean Boivin, head of BlackRock Investment Institute, said in a note published this week.</p>	
+    	<p>The S&P 500 has tacked on about 9% this year. But the group said after applying equal weighting to all of the index's constituents regardless of size, it's down by more than 1%.</p>
+      <p>BlackRock's reference to growth stems from its view that the effect of rate hikes by global central banks to tame inflation is starting to kick in. Recent data from Germany, Europe's largest economy, indicates that the country has entered a recession despite experiencing an energy shock that was less severe than widely anticipated.</p>
+      <p>"In the U.S., GDP has held up but it has arguably entered recession based on gross domestic income, which assesses the economy's performance on an income rather than spending basis," said Boivin.</p>
+      <p>Last week, the government said gross domestic income declined 2.3% in the first quarter of 2023 on a seasonally adjusted annual basis. That followed a 3.3% contraction in the fourth quarter of 2002, with the back-to-back quarterly shrinkage indicating a recession. Gross domestic income measures incomes earned and costs incurred in production.</p>
+      <p>And with inflation still running above the Federal Reserve's 2% target, policymakers may deliver another increase in interest rates.</p>
+      <p>"Markets are no longer pricing in repeated Fed rate cuts, a sign they're grasping inflation's persistence, in our view," said BlackRock.</p>
+      <p>The Fed in May issued its 10th consecutive rate hike. Its aggressive series of hikes last year contributed to driving the S&P 500 down more than 18% last year. The benchmark Fed funds rate stood at 5%-5.25%.</p>
+    </div>
+  },
+  {
     id: 515,
     title: 'Dow Jones Rallies 275 Points After Hot Inflation Data; Ulta Beauty Dives On Sales Miss',
     category: 'Indices',
