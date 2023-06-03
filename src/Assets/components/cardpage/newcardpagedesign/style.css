@@ -1,4 +1,4 @@
-/* .row.vsds {
+.row.vsds {
     margin: 0px;
     display: flex;
 }
@@ -189,7 +189,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     width: fit-content;
     max-width: 140px;
 }
-.carousel__slide {
+.slvs .carousel__slide {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -397,4 +397,4 @@ h1.rnag_gg {
 .col.btge img {
     width: auto;
     height: 220px;
-} */
+}

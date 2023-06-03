@@ -10,15 +10,6 @@ import NCXEarnSection from '../../components/homepage/EarnNCX/earnncx';
 import NCXCardFAQ from '../../components/cardpage/card-faq/faq';
 import NCXCardFirstSection from "../../components/cardpage/first/first";
 import NCXPoweredBy from '../../components/cardpage/third/third';
-import CardBoxSection from '../../components/cardpage/newcardpagedesign/cardbox';
-import NCXContact from "../../components/cardpage/newcardpagedesign/contact";
-import CardNewFaqSection from "../../components/cardpage/newcardpagedesign/faq";
-import CardLogoSlider from "../../components/cardpage/newcardpagedesign/scroll_set";
-import PremiumProtectionCard from "../../components/cardpage/newcardpagedesign/protection";
-import CryptoCardSecondSection from "../../components/cardpage/newcardpagedesign/CryptoCardSet";
-import NCXCardRanges from "../../components/cardpage/newcardpagedesign/card_ranges";
-import CardNewPageFirst from "../../components/cardpage/newcardpagedesign/main_section";
-import PremiumExperience from "../../components/cardpage/newcardpagedesign/third_sect";
 
 function NCXDebitCreditCardPage()
 {
@@ -41,24 +32,6 @@ function NCXDebitCreditCardPage()
             <CompleteTaskVidoSection />
 
             <NCXEarnSection />
-
-            {/* <CardNewPageFirst />
-
-            <CryptoCardSecondSection />
-
-            <PremiumExperience />
-
-            <NCXCardRanges />
-
-            <PremiumProtectionCard />
-
-            <CardLogoSlider />
-
-            <CardBoxSection />
-
-            <NCXContact />
-
-            <CardNewFaqSection /> */}
 
             <MyFooter />
         </div>
