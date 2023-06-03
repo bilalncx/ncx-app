@@ -1,5 +1,266 @@
 const data = [
   {
+    id: 541,
+    title: 'Bitcoin rises above US$27,000, Litecoin leads gains among top 10 cryptos',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Rises', 'Litecoin'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether gained in Friday afternoon trade in Asia along with all other top 10 non-stablecoin cryptocurrencies, following successful negotiations on raising the U.S. debt</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 1:50 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-575.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin and Ether gained in Friday afternoon trade in Asia along with all other top 10 non-stablecoin cryptocurrencies, following successful negotiations on raising the U.S. debt ceiling that injected some optimism into markets. Litecoin was the biggest gainer in 24 hours.</p>
+    	<h3>Bitcoin gains, First Digital issues new stablecoin</h3>
+      <p>Bitcoin, world’s largest cryptocurrency, rose 1.08% to US$27,076 in 24 hours to 4 p.m. in Hong Kong, bringing its weekly gains to 2.08%, according to CoinMarketCap data.</p>	
+    	<p>Ether, the second biggest cryptocurrency in the world, gained 1.78% to US$1,886 in 24 hours, after rising 3.85% in the last seven days.</p>	
+    	<p>Litecoin was the biggest gainer among top 10 cryptos, climbing 2.25% to US$94.48 in 24 hours, and strengthening 8.35% on the week. It rose on stronger buying support from its third halving event that is set for Aug. 2, which would reduce supply of the token.</p>
+      <p>Litecoin’s on-chain activities increased in May, according to blockchain data tracker IntoTheBlock on Tuesday, which noted almost 8.5 million Litecoin addresses with a balance by the end of May, compared to 7.09 million addresses by the end of March.</p>
+      <p>The global crypto market capitalization strengthened 1.21% to US$1.14 trillion, while the total crypto market volume lost 5.75% to US$29.94 billion in the last 24 hours.</p>
+      <p>Hong Kong-based consultancy First Digital, has introduced a new stablecoin pegged to the U.S. dollar, First Digital USD (FDUSD), it said in a statement on June 1, the same day that Hong Kong’s new licensing regime for virtual asset service providers took effect.</p>
+      <p>Issued by FD121 Limited, a subsidiary of the trust company and under the brand name First Digital Labs, the stablecoin is intended to be backed on a 1:1 basis by one U.S. dollar or asset of equivalent fair value, held in accounts of regulated financial institutions in Asia, the statement said.</p>
+    </div>
+  },
+  {
+    id: 544,
+    title: 'Solana’s key metrics grow, but there’s a catch',
+    category: 'Crypto',
+    subCategory: ['Solana', 'metrics', 'grow'],
+    description: <div className="blog-desc">
+      <p>Solana’s NFT trade count and trade volume in USD both spiked in the last seven days.</p>
+    </div>, 
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-596.jpg',
+    content: <div className="blog-content">
+      <p>Solana’s NFT trade count and trade volume in USD both spiked in the last seven days.</p>
+    	<ul>
+        <li>SOL’s TVL and DEX volumes registered upticks, which looked encouraging.</li>
+        <li>Despite a green weekly chart, SOL’s market indicators remained bearish.</li>
+      </ul>
+      <p>Solana’s [SOL] Magic Eden has become the top performing NFT player in its ecosystem. The network’s NFT metrics also went green last week, as evident from CRYPTOSLAM’s charts.</p>
+    	<p>As per the data, the number of NFT sellers and buyers both went up by more than 20% in the last seven days. Not only that, but the number of transactions also increased marginally.</p>	
+    	<p>The same growth was also noted on Santiment’s chart as SOL’s NFT trade counts registered an uptick. Its NFT trade volume in USD also spiked, further reflecting growth in the NFT ecosystem.</p>	
+    	<h3>Solana NFT ecosystem is growing along</h3>
+      <p>Solana noted growth on other fronts as well. For instance, after a dip, SOL’s daily transactions gained upward momentum.</p>
+      <p>Additionally, its DEX volume also spiked, reflecting its popularity among traders. Artemis’ data revealed that Solana’s TVL also increased in the last few days, which by and large is a positive signal for a blockchain.</p>
+      <h3>Investors’ confidence improved</h3>
+      <p>The improvement in the metrics might also have played a role in improving sentiment around SOL in the market. After a dip, Solana’s weighted sentiments registered an uptick, which is a positive signal.</p>
+      <p>Moreover, its social volume also increased, again reflecting the token’s popularity in the crypto space. Interestingly, SOL’s development activity was also high, which indicated that the developers were pouring in more effort to improve the network.</p>
+      <h3>Solana’s weekly chart is bullish</h3>
+      <p>As per CoinMarketCap, SOL’s price increased by more than 6% in the last seven days, which was bullish. At the time of writing, SOL was trading at $20.68 with a market capitalization of over $8 billion, making Solana the 10th largest crypto by market cap.</p>
+      <p>SOL’s MACD gave hope for a further increase in price as it showed a bullish upper hand in the market. </p>
+      <p>However, the rest of the indicators were bearish on SOL. For instance, the Relative Strength Index was resting at the neutral mark. SOL’s Money Flow Index was also below the neutral zone.</p>
+      <p>The Chaikin Money Flow registered a downtick, further increasing the chances of a price dip. In addition to that SOL’s Exponential Moving Average (EMA) Ribbon also supported the bears as the 20-day EMA was below the 55-day EMA.</p>
+    </div>
+  },
+  {
+    id: 540,
+    title: 'Bitcoin prices fall 7% in May, on pace for first monthly loss of 2023',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'prices', 'fall'],
+    description: <div className="blog-desc">
+      <p>Bitcoin is on track to post its first monthly loss of 2023, as the cryptocurrency hovers above $27,000.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 12:26 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-576.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin is on track to post its first monthly loss of 2023, as the cryptocurrency hovers above $27,000. Yahoo Finance crypto reporter David Hollerith takes a look at how the cryptocurrency has traded over the last year and how other digital assets are faring so far in 2023.</p>
+    	<p>- All right. Let's take a look at crypto. Bitcoin sliding over 7% in May. Headed for its first in negative month in just about a year here. David Hollerith-- of the year. Excuse me. David Hollerith is here with a closer look at the declines that we're seeing in that space. David.</p>	
+	    <p>DAVID HOLLERITH: Hey, Seana. Yeah. After four months in the green, Bitcoin is closing down about 7%. It's hit a peak in mid-April of around $31,000. And since then, it's fluctuated in this range between $30,000 and $26,000. More recently, since that peak, it's lost about $66 billion in its market cap value. And so this total rise year to date has actually still been 63%. So that's since the beginning of the year. And that has far outpaced the S&P and NASDAQ but has fallen short of those major stock indexes, with a 15% loss from a year ago today.</p>	
+	    <p>So excluding this past day which we've seen, the volatility for Bitcoin and other cryptocurrencies has dropped significantly in the past 30 days. And that signals a lack of selling or buying conviction amongst investors. Obviously, the hot labor data and Fed official talk has not been kind to Bitcoin either. Edward Moya, who is with OANDA, was telling us that Wall Street is appearing not to take as much interest into crypto as it has in past years. I say crypto. He said Bitcoin specifically.</p>
+      <p>And it's important to point out that this time last year, Bitcoin was at the beginning of what was a very long sell off. It was pretty rough. And we saw a lot of company failures and potentially some fraud. So even though it's a down month and things seem to be quiet, that might be interpreted as a better thing. Bitcoin and cryptocurrencies in general are still sort of trying to get past the hype from 2021 and are kind of looking for more application or utility for adoption.</p>
+      <p>So that's the month of May. In June, it's about a toss up historically in terms of what prices have done. We've seen gains in the month of June for about 5 of the 10 past years. And July is usually better. It's the third best month historically for Bitcoin and crypto assets more broadly. I also do want to point out the stablecoin Tether has been on a tear. Since around the time of regional bank turmoil, which started in March, Tether has gained about $11 billion in market cap value. Its second competitor, Circle's USD coin, has lost about $14 billion for the same period. Diane.</p>
+    </div>
+  },
+  {
+    id: 539,
+    title: 'USDT Issuer Tether Ventures Into Payment Processing With Georgia Investment',
+    category: 'Crypto',
+    subCategory: ['USDT', 'Tether', 'Georgia'],
+    description: <div className="blog-desc">
+      <p>Tether, issuer of the $83 billion USDT stablecoin, has invested an undisclosed amount in payment processor firm CityPay.io, according to a Wednesday press release.</p>
+    </div>,
+    authorName: 'Krisztian Sandor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 31, 2023 - 7:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-577.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Tether, issuer of the $83 billion USDT stablecoin, has invested an undisclosed amount in payment processor firm CityPay.io, according to a Wednesday press release.</p>
+    	<p>CityPay.io added USDT as payment option for users in over 600 locations including restaurants, shops and hotels in the Caucasian country of Georgia, Tether tweeted. CityPay.io linked to Binance Pay, the payment arm of the world’s largest crypto exchange, allowing purchases with cryptocurrencies earlier this year, Binance tweeted.</p>	
+    	<p>Tether’s investment is in line with a new plan to allocate a part of its excess profits to purchase bitcoin (BTC) and venture into infrastructure, payments and communication projects.</p>	
+    	<p>The company reported almost $1.5 billion in net profit for the first quarter. Earlier this week, Tether also announced an investment in sustainable energy production and bitcoin mining in Uruguay.</p>
+      <p>Stablecoins are a key piece of plumbing in the crypto ecosystem, bridging government-issued currencies and facilitating trading. Issuers are increasingly boosting stablecoins as a means for payments and remittances, especially in the developing world.</p>
+      <p>Recently, Bitcoin-based payments app Strike integrated USDT as part of its global expansion to 65 countries. Earlier, rival stablecoin issuer Circle teamed up with payment firm Block’s (SQ) subsidiary TBD to offer remittance payments using its own stablecoin, USDC.</p>
+      <p>Paolo Ardoino, Tether’s chief technology officer, said in a podcast episode with The Block that USDT is increasingly used for value transfers, making up about 40% of all token usage, compared to 60% of crypto trading.</p>
+    </div>
+  },
+  {
+    id: 538,
+    title: 'Bitcoin, Ether flat; XRP jumps; U.S. equity futures mixed ahead of debt ceiling vote',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'XRP'],
+    description: <div className="blog-desc">
+      <p>Bitcoin traded flat on Wednesday morning in Asia, after briefly breaching the US$28,000 level on Tuesday night. Ether dipped below the US$1,900 mark, while other top 10 non-stablecoin cryptocurrencies traded mixed.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 31, 2023 - 7:55 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-578.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Bitcoin traded flat on Wednesday morning in Asia, after briefly breaching the US$28,000 level on Tuesday night. Ether dipped below the US$1,900 mark, while other top 10 non-stablecoin cryptocurrencies traded mixed.</p>
+	    <p>XRP led the winners following crypto-related legal developments involving the U.S. Securities and Exchange Commission (SEC). Stock futures in the U.S. traded mixed, as investors wait to see if the U.S. debt ceiling deal passes through Congress. The deal faces opposition from some House Republicans. Meanwhile, concerns over further U.S. interest rate hikes and debt issuance continue to limit investor appetite for risk assets.</p>	
+	    <h3>Bitcoin, Ether flat; XRP surges</h3>
+      <p>Bitcoin dipped 0.35% over the last 24 hours to US$27,666 at 10:00 a.m. in Hong Kong, but was trading 1.92% higher for the week, according to data from CoinMarketCap. The world’s most dominant cryptocurrency reached a high of US$28,044 on Tuesday evening in Asia. However, it soon fell back down below the US$28,000 resistance level.</p>	
+	    <p>Digital asset investment products saw outflows totalling US$39m in the week ending May 26, according to a Tuesday report from European cryptocurrency investment firm CoinShares. Bitcoin-linked products accounted for almost a third of those outflows. The six-week run of outflows totals US$272 million — an indication that bearish sentiment continues to weigh heavily on the crypto market.</p>
+      <p>Ether inched down 0.13% to US$1,895, but gained 2.66% over the past seven days. The token has been trading around the US$1,900 resistance level since the start of the week.</p>
+      <p>Most other top 10 non-stablecoin cryptocurrencies traded flat to lower in the past 24 hours, with the exception of XRP, Solana and Litecoin.</p>
+      <p>XRP led the winners, jumping 6.15% in the past 24 hours to US$0.5209. That rise expanded its weekly gain to 12.75%.</p>
+      <p>Markus Thielen, Head of Crypto Research at digital asset service platform Matrixport, suggested in a note that the token’s surge could be linked to the announcement of a settlement reached Monday between the SEC and a former manager at cryptocurrency exchange Coinbase. The former Coinbase employee agreed to SEC charges that he had engaged in insider trading.</p>
+      <p>That resolution could, Thielen suggests, benefit Ripple — the issuer of XRP — in its own legal dispute with the SEC, leading to gains for XRP.</p>
+      <p>Elsewhere, Dogecoin led the losers. The memecoin dropped 1.03% to US$0.07242, dipping 0.06% for the week.</p>
+      <p>The total market cap of cryptocurrencies edged up 0.32% in the past 24 hours to US$1.16 trillion, while the 24-hour market volume inched 2.02% higher to US$30.06 billion.</p>
+      <h3>Excitement returns to NFT market</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dipped 0.22% to 3,403.49 in the 24 hours to 10:50 a.m. in Hong Kong, but edged up 0.32% for the week.</p>
+      <p>NFT sales on Ethereum rose 22.00% in the past 24 hours to US$18.23 million. That rise was spearheaded by Bored Ape Yacht Club (BAYC) transactions, according to CryptoSlam data. Meanwhile, NFT sales on Bitcoin fell 18.77% to US$3.52 million.</p>
+      <p>BAYC sales totaled US$2.86 million on Tuesday, almost three times higher than sales of the collection throughout Monday.</p>
+      <p>“The rise in BAYC volume is interesting as some of the larger transactions price doesn’t match the traits/rarity,” said Eric Dettman, NFT advisor at CryptoSlam.</p>
+      <p>“They aren’t washes on paper but there may be some behind the scenes dealing going on.”</p>
+      <p>BRC-721E token standard was launched on Monday. The initiative allows traders to move their Ethereum-based NFTs to the Bitcoin network. That process is irreversible as it permanently burns the NFT on the Ethereum network before transfer.</p>
+      <p>“Now we’ll get to see traders’ convictions on the Bitcoin ecosystem play out in real time,” said Yehudah Petscher, NFT Strategist at Forkast Labs. “At this point, no one can deny that Bitcoin’s NFTs are here to stay, but the question of ‘Will Bitcoin NFTs flip Ethereum NFTs?’ is another story. I think they will.”</p>
+      <p>NFT trader sentiment is also seeing a boost from Web3 developments in China and Russia.</p>
+      <p>On May 23, China’s national broadcaster CCTV reported on Hong Kong’s recent crypto regulation drive. That unexpected move preceded the release of a Web 3.0 white paper by the municipal government of Beijing. The wide-reaching paper covers sectors including NFTs and the metaverse.</p>
+      <p>“China is coming into NFTs and crypto, and Russia will use crypto to settle payments across borders,” said Petscher. “These two major announcements are bringing excitement back to the NFT and crypto markets and lead many to believe that these alone can turn the market around.”</p>
+      <h3>U.S. futures dip before debt ceiling vote</h3>     
+      <p>U.S. stock futures fell as of 12:00 p.m. in Hong Kong, with Dow Jones Industrial Average futures dipping 0.34%, S&P 500 futures down 0.25%, and the Nasdaq futures losing 0.15%.</p>
+      <p>Investors are jittery ahead of the U.S. Congress’ vote on the debt ceiling deal to avoid a default in the world’s biggest economy. The House vote is on Wednesday and could face objections, according to the Associated Press.</p>
+      <p>An additional concern for investors is interest rate policy at the Federal Reserve. Loretta Mester, president of the Federal Reserve Bank of Cleveland, told the Financial Times there was no “compelling reason to pause” rate hikes in June, citing “embedded, stubborn inflationary pressure,” according to a report on Wednesday.</p>
+      <p>The Federal Reserve meets on June 14 to decide on rates, which are now between 5 and 5.25%, the highest since 2006. The CME FedWatch Tool predicts a 37.0% chance the Fed will keep rates unchanged in June, and a 63.0% chance for another 25 basis-point rate hike, up from 59.6% on Tuesday.</p>
+      <p>The U.S. employment report will be released on Friday, giving another insight into the state of the economy and inflation pressure.</p>
+    </div>
+  },
+  {
+    id: 543,
+    title: 'Bitcoin: Is 2023 the best time to ‘buy the dip’',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'buy', 'dip'],
+    description: <div className="blog-desc">
+      <p>Buy the dip is an investment strategy that revolves around acquiring a token when its trading price declines. Does that apply to BTC in 2023?</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 30, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-595.jpg',
+    content: <div className="blog-content">
+    	<p>Buy the dip is an investment strategy that revolves around acquiring a token when its trading price declines. Does that apply to BTC in 2023?</p>
+    	<p>The crypto-market is infamous for being highly volatile, with the same often fueling a shift in market sentiment. When the market witnesses a price correction, several investors tend to dump their assets in order to minimize their losses. However, many others follow the “buy the dip” strategy as it often bears fruit. History suggests that the market always bounces back when fear among investors is at its peak, giving investors the opportunity to maximize profits.</p>	
+    	<h3>Never miss an opening</h3>
+      <p>For starters, buy the dip is a popular investing strategy that revolves around acquiring an asset at a lower price, hoping that the market will bounce back. Opting for this strategy has been useful when a crypto’s price declines due to the doings of a third party and not based on the asset’s real-world use or performance. Therefore, buying at such a time gives investors the opportunity to increase profits as the market will most likely rise.</p>	
+    	<h3>The 2021 crypto market dip</h3>
+      <p>The crypto-market recorded a fall in early 2021 due to several reasons, including the Russia-Ukraine war. At that time, Bitcoin’s [BTC] price declined from $60,000 and drifted below $30,000, a nearly 50% depreciation. The market was quick to recover though as just in a few months, BTC’s price soared on the charts.</p>
+      <p>In November 2021, the crypto’s price hit an all-time high of over $64,000. However, the crypto-winter followed, once again causing the market to decline. Ethereum [ETH] also saw a similar trend in its price during that period, when its price touched an ATH of $4,700.</p>
+      <h3>Did investors buy the dip? </h3>
+      <p>During the 2021 episode, a look at BTC’s on-chain metrics clearly revealed that investors were buying the dip. As per Santiment’s chart, after November, when BTC’s price plummeted, its supply on exchanges declined.</p>
+      <p>This happened while BTC’s supply outside of exchanges rose – A sign of increased accumulation.</p>
+      <p>Not only BTC, but ETH metrics also conveyed a similar story.</p>
+      <p>Ethereum’s supply on exchanges declined, with the same accompanied by a hike in supply outside of exchanges. Moreover, the chart also revealed that ETH’s supply held by top addresses was also on the rise, reflecting investors’ trust in the token. However, ETH’s network growth declined over that period, indicating fewer new addresses were created to transfer the token.</p>
+      <h3>2022 was no better</h3>
+      <p>The series of mishaps did not come to an end in 2021. The following year began on a sour note, and it was further worsened by the Terra LUNA collapse. It severely affected the prices of all the cryptos, the effects of which are visible to date.</p>
+      <p>However, it was interesting to see that a similar “buy the dip” trend was also seen during that period as investors remained confident for a change in the market’s fate over the coming years.</p>
+      <h3>Will the market revive itself anytime soon?</h3>
+      <p>Though 2023’s opening quarter was better as the market gained bullish momentum, the good days were short-lived.</p>
+      <p>Right now, BTC seems to have settled under the $28,000-level – A concern for investors. However, this might be a good opening for investors to accumulate or rather “buy the dip”, before BTC’s price action once again turns bullish.</p>
+      <h3>BTC halving is less than a year away</h3>
+      <p>Bitcoin is scheduled to undergo its fourth halving next year in the month of April. If history is to be believed, Bitcoin’s price can skyrocket after its halving.</p>
+      <p>For instance, during 2020’s Bitcoin halving, it was valued at $8,500, but it took a few months to climb over $27,000. A similar trend was seen during the first Bitcoin halving. The value of Bitcoin surged considerably in November 2013, after its first halving in November 2012. Therefore, this might be an appropriate opportunity for investors to accumulate BTC.</p>
+      <h3>Investors are still in accumulation mode</h3>
+      <p>A similar hike in the amount of supply outside of exchanges was also plotted on last month’s graph, indicating that investors were still buying. Not only that, but BTC’s Binance funding rate has been substantially high too.</p>
+      <p>A high funding rate is a sign of demand in the derivatives market. Positive sentiment around Bitcoin is also high – A sign of investors’ confidence in the king coin.</p>
+    </div>
+  },
+  {
+    id: 537,
+    title: 'Bitcoin Trades at a 20% Discount on Binance Australia Following Banking Issues in the Country',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Binance', 'Australia'],
+    description: <div className="blog-desc">
+      <p>Bitcoin was trading at about 20% discount on Binance’s Australia arm on Tuesday, compared with rival exchanges, according to data from CCData.</p>
+    </div>,
+    authorName: 'Lyllah Ledesma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 30, 2023 - 10:08 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-579.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin was trading at about 20% discount on Binance’s Australia arm on Tuesday, compared with rival exchanges, according to data from CCData.</p>
+    	<p>This comes after Binance Australia halted Australian dollar bank transfers earlier this month, citing its third-party payment service provider as the issue and said that it's working to find an alternative. Binance Australia will allow AUD withdrawals until June 1.</p>	  
+    	<p>“The announcement from Binance prompted traders to sell their BTC/AUD pairs, resulting in the price reaching a historically high discount,” said Hosam Mahmoud, Research Analyst at CCData in a conversation with CoinDesk.</p>	
+    	<p>Bitcoin was trading at around $33,400 AUD ($21,700) on Binance compared to other exchanges such as Kraken, Coinjar and BTCMarkets, where it was trading at around $42,500 AUD ($27,700), according to CCData.</p>
+      <p>Binance Australia also had its derivatives license canceled in April, after the exchange made the request for it to be shut down.</p>
+      <p>Although the exchange assured customers that it will continue to operate in Australia, the effort hasn't successfully addressed the issue, according to Mahmoud. “This is evidenced by record-low trading volumes for the BTC/AUD pairs,” he said.</p>
+      <p>Daily trading volumes on Binance for the BTC/AUD pair were at 12,293,856.55 on May 18 prior to the announcement, and dropped to a low of 912,297.20 on May 20, according to CCData.</p>
+      <p>“According to our data, despite the significant discount, arbitrageurs are taking advantage of the lower prices, suggesting that the problem may be resolved once the funds are transferred to USDT.”</p>
+    </div>
+  },
+  {
+    id: 542,
+    title: 'Ethereum: Investors, know this before FOMO kicks in!',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Investors', 'FOMO'],
+    description: <div className="blog-desc">
+      <p>Ethereum’s recent upside has not managed to push out of the narrow 2-week price range, hence underscoring weak prevailing demand.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 29, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-594.jpg',
+    content: <div className="blog-content">
+      <p>Ethereum’s recent upside has not managed to push out of the narrow 2-week price range, hence underscoring weak prevailing demand.</p>
+	    <ul>
+        <li>ETH bulls are in control but it might not be enough to support a strong breakout.</li>
+        <li>The demand for derivatives seemed to be gradually recovering.</li>
+      </ul>
+      <p>Ethereum [ETH] is off to a promising start this week after delivering a bullish performance for four consecutive days. While this may usher in some excitement related to weekend accumulation, there are a few things that investors should consider before going all in.</p>
+	    <p>ETH’s bullish performance in the last four days marks the first time that the price has favored a particular direction for over three days. Many analysts may translate this as a sign that demand is growing and outpacing sell pressure. However, a look at more data points is important to establish whether ETH is building towards potentially breaking out of its 2-week limbo.</p>	
+	    <p>According to the latest Glassnode data, the amount of ETH supply last active in the last 3 – 6 months just reached a 10-month low. A confirmation that most ETH holders are not moving their coins. This suggests that there is still a long-term focus. On-chain exchange flow data reveals that more ETH has been flowing out of exchanges than the amount flowing in.</p>	
+	    <p>A keen look at ETH total exchange inflows and outflows confirms that demand is currently outweighing sell pressure. However, there is something far more notable about the current exchange flows. Exchange flow volumes are now down to levels where we have previously seen a surge in on-chain volumes.</p>
+      <p>The above observation is important because it means ETH may see a resurgence of volumes soon. If that happens, then it will likely break out of its narrow range where the cryptocurrency has been stuck for the last two weeks.</p>
+      <h3>Are ETH whales buying?</h3>
+      <p>The probability of a breakout or break below the recent range is largely dependent on strong demand from whales and institutions. Addresses holding at least 1000 ETH have been on a downward trajectory for the last two weeks. This is an indication that whales have been gradually offloading some of their coins.</p>
+      <p>The same applies for ETH’s futures open interest which slid in the last five days. This is despite the 5% upside that the cryptocurrency has achieved during the same 5-day period. There are a few notables, such as the recent dip in the estimated leverage ratio, which suggests that the current upside is not supported by a lot of speculation.</p>
+      <p>Also, exchange reserves are at monthly lows while funding rates are on the rise.</p>
+      <p>The above underscores a cautious but optimistic outlook in the derivatives market, thus the absence of strong leverage.</p>
+      <p>Nevertheless, the recent upside has not pushed out of the narrow 2-week price range, hence underscoring weak prevailing demand. As such, it might be too early to determine if the current upside represents a breakout.</p>
+      <p>ETH exchanged hands at $1,842 at the time of writing. It is still trading within the narrow band in which it traded within the last two weeks.</p>
+    </div>
+  },
+  {
     id: 536,
     title: 'This Week in Coins: Bitcoin and Ethereum See Fourth Flat Week as TRON and Tether Surge',
     category: 'Crypto',
