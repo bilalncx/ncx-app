@@ -1,5 +1,279 @@
 const data = [
   {
+    id: 529,
+    title: 'Sharp Rally in Chinese Stocks Falls Short of Dispelling Gloom',
+    category: 'Markets',
+    subCategory: ['Rally', 'Chinese', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The sharpest rally for Chinese stocks in three months is doing little to convince money managers that the market is set for a sustained turnaround.</p>
+    </div>,
+    authorName: 'Jeanny Yu and Charlotte Yang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 2:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-584.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The sharpest rally for Chinese stocks in three months is doing little to convince money managers that the market is set for a sustained turnaround.</p>
+    	<p>After a punishing selloff that sent a gauge of Chinese equities in Hong Kong into a bear market earlier this week, hopes were lifted Friday thanks to Federal Reserve officials signaling they plan to keep interest rates steady at the upcoming meeting. The optimism boosted local and regional shares, particularly growth companies that closely track rates.</p>	
+    	<p>The Hang Seng China Enterprises Index rose 4.5%, the most since early March, with the gauge capping its first weekly gain in a month. An index of Chinese technology shares surged 5.3%. Key Chinese indexes had been hovering near oversold levels, suggesting it was time for some dip-buying.</p>	
+    	<p>But even with the quick sentiment rebound, some investors warned caution about the broader woes that have plagued stocks in recent weeks — from a stalling economic recovery to rising Sino-American tensions. Until those issues are addressed, the outlook looks hazy at best.</p>
+      <p>“There are so many macro concerns in China, and I would be cautious to chase any rally at the moment,” said Paul Pong, managing director at Pegasus Fund Managers Ltd. Given the uncertainty over the Fed’s rate hike cycle and stubborn US inflation, “the yuan will remain weak and that’s not going to encourage flows into Chinese assets,” he added.</p>
+      <p>Pessimism has been running deep among China investors since the reopening rally faltered at the end of January. Bets that stocks will soon rebound have proven elusive, prompting bulls to pare back their allocations. The latest data on manufacturing and services showed the economy is on a wobbly footing, while the yuan’s weakness have accelerated outflows.</p>
+      <p>In a bid to support the economy, authorities are working on new stimulus measures for the ailing property sector, according to people familiar with the matter.</p>
+      <p>Longer term, geopolitical tensions with the West will likely continue to weigh on investors amid growing evidence that foreign firms are starting to align their business away from China.</p>
+      <p>Morgan Stanley is letting go of at least six managing directors, including some key China bankers, as part of broader job cuts in Asia. Microsoft Corp.’s LinkedIn plans to shut its jobs app in China and cut hundreds of jobs while Ford Motor Co. is also reportedly planning to reduce more than a thousand jobs.</p>
+      <p>Alexander Redman, chief strategist at CLSA, who saw about 70 investors in Europe and Singapore in the past month, described their consensus on Chinese equities as “utter despair, disillusionment and disappointment.”</p>
+      <p>Strategists at Goldman Sachs Group Inc. slashed the target for the MSCI China Index to 70 from 80 as they reduced earnings estimates and saw a stronger forecast for the greenback versus the yuan. But they retained an overweight recommendation, adding that investors’ concerns have been priced in.</p>
+      <p>Some forecast relief rallies over the short term as hopes for Fed’s rate pause trigger gains across emerging markets. Low allocation by investors can provide a good backdrop for gains, according to Redmond Wong, strategist at Saxo Capital Markets HK Ltd.</p>
+      <p>Valuation is also supportive. The Hang Seng China gauge is now trading at 7.6 times forward earnings, below the five-year average of 8.4. On the mainland, the CSI 300 benchmark advanced 1.4% on Friday as foreigners added 8.5 billion yuan ($1.2 billion) of onshore shares via trading links with Hong Kong. That was the largest daily net inflow since February.</p>
+      <p>Focus is now on new data releases in the coming weeks on inflation and credit to gauge the health of the economy.</p>
+      <p>“I do think there is some room for the Hong Kong market to rebound,” though they will still lag the peers in the US and EU, said Dickie Wong, director of research at Kingston Securities Ltd. “There are a lot of concerns over China’s economic recovery and the youth unemployment rate is very high. The 5% GDP target looks increasingly unattainable.”</p>
+      <p>--With assistance from Hideyuki Sano.</p>
+    </div>
+  },
+  {
+    id: 528,
+    title: 'Nvidia Is Still a ‘Buy’ on Wall Street as Analysts Race to Boost Price Targets',
+    category: 'Markets',
+    subCategory: ['nnvidia', 'Wall Street', 'Price'],
+    description: <div className="blog-desc">
+      <p>Graphics chip maker has gained more than $650 billion in market value since October</p>
+    </div>,
+    authorName: 'Charley Grant',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 1:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-587.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Graphics chip maker has gained more than $650 billion in market value since October</p>
+    	<p>An investor craze for artificial intelligence has powered Nvidia’s dizzying rise and pushed the stock to lofty valuations. Wall Street analysts are predicting it has more room to run.</p>	
+    	<p>Nvidia NVDA 5.12%increase; green up pointing triangle shares have nearly tripled in 2023, making them the best performers by far in the S&P 500. The graphics chip maker has gained more than $650 billion in market value since hitting a two-year low in October and briefly crossed the $1 trillion mark earlier this week.</p>	
+    	<p>Enthusiasm for Nvidia among stock pickers has only grown as investors have piled in. Of the 49 analysts surveyed by FactSet, 41 have a buy rating on the stock. That is up from 30 in October.</p>
+      <p>Their average 12-month price target on the stock falls just below $432, which implies gains of about 9% from Thursday’s close of $397.70. Price targets typically shift as analysts update their business forecasts.</p>
+      <p>Nvidia’s surge picked up steam after the chip maker unveiled a blockbuster revenue target on May 24 for the quarter ending in July. The company expects to book $11 billion in sales, while the consensus forecast had called for roughly $7 billion.</p>
+      <p>The company “just did something that a lot of people, reflexively, don’t know how to explain,” said Hans Mosesmann, managing director at Rosenblatt Securities. He rates the stock “buy” and has a $600 price target, the highest on Wall Street.</p>
+      <p>That has helped spark a rally throughout the chip industry. The PHLX Semiconductor Sector Index, home to 30 stocks, has advanced 38% in 2023.</p>
+      <p>Nvidia’s rise contrasts with much of the broader market. Eight of the 11 sectors of the S&P 500 are down this year. Yet the benchmark is up 9.9%, largely powered by the gains in a handful of big technology stocks. That raises the question of whether the rally will fizzle out or kick off a new bull market.</p>
+      <p>The AI craze has been building since Microsoft announced a $10 billion investment in ChatGPT developer OpenAI in January. Other large technology companies are also spending large sums to develop their own artificial intelligence programs. Nvidia, which sells graphics processing units, or GPUs, needed to power such programs, is currently the only viable supplier, analysts said.</p>
+      <p>The result has been an arms race that has propelled Nvidia’s business more quickly than even bulls had expected. Nvidia has been able to double prices because of overwhelming demand, Mosesmann said.</p>
+      <p>Skeptics on the stock are questioning its current valuation, even as they agree Nvidia is in a strong competitive position. The stock now trades at 49 times forward earnings, up from 27 times last fall. The S&P 500, in comparison, is trading at 18.2 times earnings.</p>
+      <p>“We absolutely think Nvidia’s the best-positioned semiconductor company,” said Ruben Roy, managing director at investment bank Stifel. “What do you pay for that? That’s where we have a bit of an issue.” Roy has a hold rating on the stock and a price target of $370.</p>
+      <p>Nvidia still scores highly compared with other semiconductor stocks. About 85% of analysts surveyed by FactSet recommend shares of Broadcom, while 64% of analysts recommend shares of Advanced Micro Devices. About one-fifth have a favorable opinion of Intel, which is in the midst of a turnaround effort.</p>
+      <p>Yet Nvidia has only provided an outlook for the second quarter, leaving some uncertainty that the blowout quarter truly represents the new normal.</p>
+      <p>“The question is to what extent is the guidance a pull-in effect or a reset higher?” said Angelo Zino, senior analyst at CFRA, with a $415 price target on the stock.</p>
+      <p>Wall Street forecasts assume Nvidia’s business will keep growing. Analysts have penciled in $12 billion in quarterly revenue on average, by the fiscal fourth quarter, which ends in January. That sum is projected to reach $14 billion by the fall of 2024.</p>
+      <p>Some analysts said a high backlog of demand for chips makes revenue growth in the coming quarters easier to forecast, despite the lack of guidance beyond July.</p>
+      <p>“If you order a GPU today, you’re not getting it for a year,” said C.J. Muse, senior managing director at Evercore ISI, who has a $500 price target on the stock. “It’s a really shrewd strategy to own the moat.”</p>
+    </div>
+  },
+  {
+    id: 527,
+    title: 'Short sellers have lost more than $13 billion betting against these 5 AI stocks this year',
+    category: 'Markets',
+    subCategory: ['Short', 'Seller', 'AI Stocks'],
+    description: <div className="blog-desc">
+      <p>The frenzy for stocks with exposure to artificial intelligence have created dizzying gains for investors this year, as well as painful losses for short sellers.</p>
+    </div>,
+    authorName: 'Matthew Fox',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 5:50 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-585.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li><strong>Short sellers have lost more than $13 billion betting against a handful of artificial intelligence stocks this year.</strong></li>
+        <li><strong>Shares of Nvidia have soared more than 150% in 2023 and sparked an AI frenzy after its bullish forecast.</strong></li>
+        <li><strong>These are the five AI stocks that have caused a world of pain for bearish investors.</strong></li>
+      </ul>
+	    <p>The frenzy for stocks with exposure to artificial intelligence have created dizzying gains for investors this year, as well as painful losses for short sellers.</p>
+	    <p>According to data from S3 Partners Research, just five AI-related stocks have sparked more than $13 billion in mark-to-market losses for short sellers this year.</p>	
+	    <p>The losses are big when you consider that the short interest as a percentage of share float is in the low single digits for these stocks, meaning that much of the losses were triggered not by so many people being caught on the wrong side of the trade, but instead by such massive rallies in the stock prices.</p>	
+	    <p>These are the five AI stocks that have caused more than $13 billion in losses for short sellers this year, according to S3 Partners.</p>
+      <h3>5. Taiwan Semiconductor</h3>
+      <p><strong>Ticker:</strong> TSM</p>
+      <p><strong>Year-to-date gain:</strong> 33.7%</p>
+      <p><strong>Short seller losses:</strong> $690.7 million</p>
+      <h3>4. Marvell Technology</h3>
+      <p><strong>Ticker:</strong> MRVL</p>
+      <p><strong>Year-to-date gain:</strong> 64.7%</p>
+      <p><strong>Short seller losses:</strong> $723.4 million</p>
+      <h3>3. Broadcom</h3>
+      <p><strong>Ticker:</strong> AVGO</p>
+      <p><strong>Year-to-date gain:</strong> 42.4%</p>
+      <p><strong>Short seller losses:</strong> $1.5 billion</p>
+      <h3>2. Advanced Micro Devices</h3>
+      <p><strong>Ticker:</strong> AMD</p>
+      <p><strong>Year-to-date gain:</strong> 83.6%</p>
+      <p><strong>Short seller losses:</strong> $2.0 billion</p>
+      <h3>1. Nvidia</h3>
+      <p><strong>Ticker:</strong> NVDA</p>
+      <p><strong>Year-to-date gain:</strong> 167.2%</p>
+      <p><strong>Short seller losses:</strong> $8.6 billion</p>
+    </div>
+  },
+  {
+    id: 526,
+    title: 'Tech stocks are booming in 2023 - but there are 3 specific names that investors should be paying attention to, analyst says',
+    category: 'Markets',
+    subCategory: ['Tech', 'Stocks', 'investors'],
+    description: <div className="blog-desc">
+      <p>It's been a great year for the technology sector, with the Nasdaq Composite up nearly 25% since the start of 2023.</p>
+    </div>,
+    authorName: 'Morgan Chittum',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 12:27 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-586.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>The tech sector has been on a roll in 2023, with the Nasdaq up nearly 25% year-to-date.</li>
+        <li>Evercore's Mark Mahaney says Meta, Uber, and Amazon present key buying opportunities.</li>
+        <li>"Meta's the cheapest high-quality tech stock out there, period," Mahaney said of his top pick.</li>
+      </ul>
+	    <p>It's been a great year for the technology sector, with the Nasdaq Composite up nearly 25% since the start of 2023.</p>
+	    <p>As the sector pushes higher, Mark Mahaney, Evercore ISI head of internet research, said there are three names in particular that investors should be paying attention to.</p>	
+    	<p>First on his list is Facebook parent Meta, which Mahaney says will have a "nice recovery in revenue growth" throughout 2023 due to three key offerings.</p>	
+    	<p>"Meta's the cheapest high-quality tech stock out there, period. 14 times GAAP earnings and it's got three product cycles that it's going through. First is this Reel's monetization [program that] they successfully borrowed from or stole from TikTok. Second is that Click-to-Message product that's out in the market that's doing well," he told CNBC on Wednesday. "Third is I think they've just been able to recapture a lot of the advertising signal that they lost when Apple went through its privacy changes."</p>
+      <p>Amazon stock, meanwhile, has underperformed for the past three years, Mahaney says, adding that he expects the share price to shoot up this year.</p>
+      <p>"It's the triple trough thesis. We think the stock right here [has had] trough multiples, trough margins, and trough revenue growth. If we're right on that, you could have a material rewriting of the stock."</p>
+      <p>Finally, Mahaney sees Uber as rounding out his top picks. He has a price target of $75 per share for the ride hailing company, around 98% upside from its current levels. He says Uber has three "value catalysts" that could propel its stock higher.</p>
+      <p>"First catalyst is they're going to reach finally GAAP earnings status. We're going to start actually generating positive GAAP earnings," Mahaney said. "Secondly, we think they'll start buying back stock. And third is that we think they'll finally reach the metrics needed to be included in the S&P 500."</p>
+    </div>
+  },
+  {
+    id: 525,
+    title: 'Banking giant JPMorgan advertised more than 3,600 AI-related jobs, report says, as Wall Street starts to embrace the revolutionary tech',
+    category: 'Markets',
+    subCategory: ['JPMorgan', 'AI', 'Wall Street'],
+    description: <div className="blog-desc">
+      <p>JPMorgan is leading the way in Wall Street's shift towards AI, according to data reported by Bloomberg.</p>
+    </div>,
+    authorName: 'Pete Syme',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 11:18 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-583.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>JPMorgan is leading the way in Wall Street's shift to AI, Bloomberg reported.</li>
+        <li>Data from Evident shows it advertised 3,651 AI-related jobs in three months.</li>
+        <li>Insider understands the bank recently filed a patent application for its own AI software.</li>
+      </ul>
+	    <p>JPMorgan is leading the way in Wall Street's shift towards AI, according to data reported by Bloomberg.</p>
+	    <p>The bank advertised 3,651 jobs globally from February through April with roles related to AI, per Bloomberg.</p>	
+	    <p>The data comes from the consultancy Evident, with AI-related hires defined as data engineers and quants, as well as ethics and governance roles.</p>	
+	    <p>JPMorgan's job adverts are nearly double that of its closest competitor, Citigroup, which advertised around 2,100 AI-related roles across the same time period, Bloomberg reported.</p>
+      <p>Only Deutsche Bank and BNP Paribas also advertised more than 1,000 AI-related jobs, according to the report.</p>
+      <p>And the data reportedly shows that at the most enthusiastic banks, 40% of all open roles are related to the booming technology.</p>
+      <p>It comes after JPMorgan filed a patent application for an AI software called IndexGPT, as CNBC first reported.</p>
+      <p>Insider understands that the technology would help equities traders choose securities, but that it is still very early in development.</p>
+      <p>Goldman Sachs and Morgan Stanley have also been experimenting with generative AI, with the former using it to generate code and the latter for financial advice, according to CNBC.</p>
+      <p>On Wednesday, BlackRock CEO Larry Fink said the world's largest asset manager is spending a "huge amount of time on AI" as it expects it to boost productivity 30%, Insider's Rebecca Ungarino reported.</p>
+      <p>According to a Goldman Sachs report from March, generative AI could expose 300 million jobs around the world to becoming automated.</p>
+      <p>JPMorgan declined to comment when contacted by Insider.</p>
+    </div>
+  },
+  {
+    id: 524,
+    title: 'Apple Plans Major Retail Push With New Stores Across China, US',
+    category: 'Markets',
+    subCategory: ['Apple', 'Retail', 'US'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Apple Inc. is working on plans to expand and revitalize its retail chain, aiming to push deeper into China and other parts of Asia while overhauling established locations in the US and Europe.</p>
+    </div>,
+    authorName: 'Mark Gurman',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 1, 2023 - 10:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-588.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- Apple Inc. is working on plans to expand and revitalize its retail chain, aiming to push deeper into China and other parts of Asia while overhauling established locations in the US and Europe.</p>
+	    <p>Through 2027, the iPhone maker is discussing opening 15 new stores across the Asia-Pacific region, five locations in Europe and the Middle East, and four additional outlets in the US and Canada, according to people with knowledge of the deliberations. The company is also aiming for six revamped or relocated stores in Asia, nine in Europe and 13 in North America, said the people, who asked not to be identified because the matter is private. In total, the company is proposing 53 new, relocated or remodeled stores over the next four years.</p>	
+	    <p>Apple looks to bring fresh luster to its 22-year-old retail operation, which is one of the world’s most venerated chains but also has contended with pandemic woes, customer service problems and labor unrest in recent years. The idea is to build Apple’s brand in growth markets, such as India, while also giving consumers in the US and Europe a better experience.</p>	
+	    <p>The most notable new stores under discussion or in development include three sites in India, the company’s first outpost in Malaysia and an upgrade to Apple’s historic location in the Opera shopping area of Paris, according to the people. It’s also soon opening a store at the Battersea Power Station in London by its new local headquarters and is planning an additional location in Miami. And there’s a flagship store slated for the Jing’an Temple Plaza in Shanghai.</p>
+      <p>Some of the future locations and their timing remain either internal projections or proposals, meaning they could either be delayed or canceled altogether. Still, many of the stores are already in development, with Apple having agreed to leases with landowners. A spokesman for the Cupertino, California-based company declined to comment.</p>
+      <p>Apple currently has more than 520 stores in 26 countries, with roughly half of them located in the US. The chain is famously lucrative on a square-footage basis, but the stores are often more about building Apple’s brand than selling goods. The company gets most of its revenue from other channels, including its e-commerce site. Still, the brick-and-mortar locations serve as a key place for customers to buy products on release days, get technical support and take classes.</p>
+      <p>The company’s retail operations are overseen by Deirdre O’Brien, one of Apple’s longest-serving executives, who took over the duties when Burberry Group Plc veteran Angela Ahrendts left the role in 2019. Construction and upkeep of the stores themselves is managed by Kristina Raspe, Apple’s executive in charge of global real estate and facilities. That group reports to the company’s chief financial officer rather than O’Brien.</p>
+      <p>Apple operates four types of retail outlets, according to internal specifications: a standard store within indoor malls, “Apple Store+” locations that can be in outdoor malls or on city streets, “flagships” in key areas with unique designs, and “flagship+” stores, which are the largest and most expensive to operate. Regular stores typically generate more than $40 million annually, while Apple Store+ locations bring in over $45 million, according to internal data. The flagships generate more than $75 million, while the flagship+ sites make over $100 million annually.</p>
+      <p>The main focus of the expansion is the Asia-Pacific region, with 21 new or revamped sites planned through 2027. The market generated about $130 billion of Apple’s revenue last year — roughly a third of its total — and countries like India have emerged as a critical growth engine. Apple opened its first two stores in India in April.</p>
+      <p>Later this year, the company is opening a new mall store in Wenzhou, China, upgrading its Nanjing East flagship in Shanghai and adding a pair of new outlets in South Korea. That expansion in South Korea, the home turf of chief rival Samsung Electronics Co., will bring the total number of outposts in the country to seven. Apple opened its Gangnam store in Seoul in March and its Myeongdong location a year ago.</p>
+      <p>For next year, the company is planning its first store in Malaysia, located in Kuala Lumpur; the new Jing An Temple Plaza location; a remodel of its Pudong site in Shanghai; and potentially its first outpost in Foshan, China. It’s also planning a new store at the Grand Front Plaza mall in Osaka and a remodel of its Shinsaibashi location in the region.</p>
+      <p>Even with US-China relations China souring, Apple remains highly dependent on the Asian nation — both as a manufacturing partner and a market for its goods. Chief Executive Officer Tim Cook celebrated that relationship during a trip to China earlier this year, calling it “symbiotic,” and the retail growth underscores Apple’s commitment to the country.</p>
+      <p>For 2025, Apple is discussing opening its third store in India — in the Borivali suburb of Mumbai — and may relocate its site in Perth, Australia. Four new China stores are proposed for that year as well, in addition to a remodel of Apple’s Ginza shop in Japan, which was the company’s first in the country when it opened in 2003. The store was relocated to a temporary space last year after its original building was demolished.</p>
+      <p>Apple is proposing opening its fourth India location in 2026. It would be the second one in New Delhi, situated at the DLF Promenade mall. That store could become the second-largest for Apple in India, after the Bandra Kurla Complex site that debuted in Mumbai in April. The company is also laying the groundwork for a new store in Yokohama, Japan, and a relocated outlet in Shibuya Marui, Japan. In 2027, Apple aims to add a fifth Indian outpost, a location in the seaside Worli area in Mumbai.</p>
+      <p>In Europe, Apple looks to open the London store in the Battersea location as soon as this month. The company is also planning a new store in Madrid at the La Vaguada shopping center, as well as a relocation for its Milton Keynes store in the UK. Europe generated more than $95 billion for Apple last year, or about a fourth of sales. The UK is Apple’s third-biggest retail market, home to about 40 stores.</p>
+      <p>The locations that Apple is rebuilding or moving are mostly aging or outdated stores. In some cases, they’re smaller than most modern locations or they lack features like a product pickup area or seating for classes. Apple’s aesthetic also has changed over the years. The company has transitioned away from metal walls and accents to wooden shelves.</p>
+      <p>More broadly, O’Brien is seeking to improve the experience in Apple stores. Complaints from both customers and employees have stacked up in recent years, and the chain has lost some of the cachet it enjoyed when Apple’s gleaming logo first began popping up in shopping centers two decades ago. The company also been dealing with a unionization push both in the US and abroad.</p>
+      <p>For next year, Apple is discussing relocating four UK stores, as well as a location in Le Chesnay, France, and will open its fourth site in Sweden. A year later, it’s planning to relocate one more UK site, potentially remodel the Opera location in France and open a new location in Abu Dhabi’s Al Ain. That will mark its fifth store in the United Arab Emirates.</p>
+      <p>Apple is also proposing a new store in Dortmund, Germany. That country is Apple’s eighth-largest retail region, featuring over a dozen sites. For 2027, it’s discussing a relocation in Munich.</p>
+      <p>Apple’s retail plans in North America also are focused more on overhauling existing operations than spreading to new cities. First up is a revamp of the Tice’s Corner store in Woodcliff Lake, New Jersey, slated for next month. That location was Apple’s last with an original black front, dating from the chain’s debut in 2001. The company is planning three other US relocations and one Canada store move during the remainder of 2023.</p>
+      <p>For next year, Apple is considering a few new US sites, including a mall store in the Southern California city of Torrance and a large new location at the $4 billion Worldcenter development in Miami. It is also discussing eventually opening a major new store in Detroit and a relocated store in Ann Arbor, Michigan.</p>
+      <p>Apple is planning a store at the Birkdale Village mall in North Carolina as well, replacing a Charlotte location that abruptly shuttered in March following a rash of shootings in the area. An additional five other relocations are being eyed for the US in 2024.</p>
+      <p>In 2025, Apple is proposing opening its second outlet in Kansas, a large store in Wichita, and is planning three other US relocations. It’s also considering moving its Sainte-Catherine Street store in Montreal.</p>
+      <p>©2023 Bloomberg L.P.</p>
+    </div>
+  },
+  {
+    id: 523,
+    title: 'Apple, Alphabet, Meta, and Microsoft Have All Done Major Share Buybacks This Year -- Should You Join Them?',
+    category: 'Markets',
+    subCategory: ['Apple', 'Meta', 'Microsoft'],
+    description: <div className="blog-desc">
+      <p>Share repurchase programs are very popular with investors -- especially one of the world's best.</p>
+    </div>,
+    authorName: 'Anthony Di Pizio, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 31, 2023 - 1:15 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-589.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Share repurchase programs are very popular with investors -- especially one of the world's best.</p>
+    	<p>When a company is highly profitable, it sometimes accumulates a pile of cash so large that it can't effectively reinvest it in the business. Therefore, it chooses to return money to shareholders instead.</p>	
+    	<p>It can do so by paying a cash dividend or initiating a share repurchase (buyback) program. A buyback involves the company taking a sum of money (usually approved by its board of directors) and buying its own shares in the open market, just like any other investor. This shrinks the number of shares in circulation, organically increasing its price per share.</p>	
+    	<h3>Here's how it works</h3>
+      <p>If a company has 1 billion shares in circulation and trades at a price of $100 per share, it is worth $100 billion. If it spends $10 billion repurchasing its own stock, it could buy 100 million shares, reducing its share count to 900 million.</p>
+      <p>But that doesn't change the underlying value of its business. Therefore, to maintain a $100 billion market capitalization, its stock price must organically rise to $111.11 to compensate for the smaller number of shares in circulation.</p>
+      <p>Every remaining investor is now better off because of the higher stock price.</p>
+      <h3>The largest technology companies in the world have done buybacks in 2023</h3>
+      <p>Apple (AAPL 1.60%), Microsoft (MSFT 1.28%), Meta Platforms (META 2.98%), and Google parent Alphabet (GOOGL 0.69%) (GOOG 0.81%) are all highly profitable companies, and they've each spent billions of dollars buying back their own shares this year.</p>
+      <p>Here's how much they allocated to buybacks in the recent quarter alone:</p>
+      <ul>
+        <li>Apple spent $19.6 billion on buybacks in its fiscal 2023 third quarter (ended April 1), equivalent to about 0.7% of its outstanding shares. Apple's board of directors also authorized a brand-new $90 billion buyback program.</li>
+        <li>Microsoft spent $4.9 billion on buybacks in its fiscal 2023 third quarter (ended March 31), which was equivalent to about 0.2% of its outstanding shares. The company refreshes its buyback program every three years; it last authorized $60 billion in fiscal 2022, so this current program will end in fiscal 2025.</li>
+        <li>Meta Platforms spent $9.2 billion on buybacks in the first quarter of 2023 (ended March 31), equivalent to about 1.7% of its outstanding shares. It has $41.3 billion remaining under its existing program.</li>
+        <li>Alphabet spent $14.5 billion on buybacks in the first quarter of 2023 (ended March 31), equivalent to about 1.1% of its outstanding shares. The company also authorized a brand-new program worth $70 billion.</li>
+      </ul>
+      <p>Buybacks alone aren't a reason for investors to rush into a particular stock, but they are an added bonus. Famed investor Warren Buffett is a big fan of them; his Berkshire Hathaway investment company holds nearly 50 stocks and financial securities worth $333 billion, yet just one stock -- Apple -- makes up a whopping 47.5% of the entire portfolio.</p>
+      <p>Buybacks are one of his favorite reasons to own Apple. In Berkshire's 2020 shareholder letter, Buffett commented that despite selling $11 billion worth of Apple stock that year, the firm's stake in the company had grown to 5.4% over time -- higher than it was (5.2%) when it originally accumulated the position from 2016 to 2018.</p>
+      <p>How? Because every time Apple repurchases its stock, the remaining investors are left with a larger share of a shrinking pie (the pie being the number of shares in circulation).</p>
+      <h3>Here's why you should buy Apple, Microsoft, Meta, and Alphabet</h3>
+      <p>Apple is the world's largest company today, with a value of $2.7 trillion. It has a strong product portfolio featuring the iPhone, iPad, AirPods wireless headphones, and the Mac line of computers and notebooks. But its services segment, which earns subscription-based revenue from platforms like Apple Music and Apple News, continues to be its main growth driver. When the broader economy bounces back from this difficult period, its hardware sales should find renewed strength.</p>
+      <p>Microsoft, Meta, and Alphabet are also rapidly progressing in a brand-new area: artificial intelligence (AI).</p>
+      <p>Microsoft has invested in ChatGPT creator OpenAI this year and is integrating the chatbot into its product portfolio. It now powers Microsoft's Bing search engine, which could revolutionize how consumers access information on the internet. And customers of Microsoft's Azure cloud services platform can access the latest GPT-4 large language model, meaning the company could soon be a primary distributor of the most advanced AI tools to millions of businesses worldwide.</p>
+      <p>Alphabet is building its own large language models for its Google search engine to fend off the growing threat from Microsoft Bing. Additionally, it's delivering proprietary AI solutions to its customers via the cloud.</p>
+      <p>Finally, Meta is rapidly developing AI algorithms to more accurately feed content to users on its Instagram and Facebook social media platforms. Thanks to those efforts, the company saw a 24% year-over-year increase in the time users spent on Instagram in Q1 and much higher monetization efficiency.</p>
+      <p>Overall, buybacks are just one reason to own a stake in these four companies -- and investors should certainly consider doing so.</p>
+      <h3>Should you invest $1,000 in Apple right now?</h3>
+      <p>Before you consider Apple, you'll want to hear this.</p>
+      <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Apple wasn't one of them.</p>
+      <p>Stock Advisor is the online investing service that has beaten the stock market by 3x since 2002*. And right now, they think there are 10 stocks that are better buys.</p>
+    </div>
+  },
+  {
     id: 522,
     title: 'Investors react to tentative US debt ceiling deal',
     category: 'Markets',

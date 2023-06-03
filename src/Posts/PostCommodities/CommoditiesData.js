@@ -1,5 +1,173 @@
 const data = [
   {
+    id: 518,
+    title: 'Exxon, Chevron Near Deals to Drill in Gas-Rich Algeria',
+    category: 'Commodities',
+    subCategory: ['Exxon', 'Chevron', 'Gas'],
+    description: <div className="blog-desc">
+      <p>North African nation’s vast reserves, proximity to Europe make it attractive to the U.S. drillers that have cash to invest</p>
+    </div>,
+    authorName: 'Matthew Dalton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 1:47 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-572.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>ALGIERS, Algeria—Exxon XOM 1.15%increase; green up pointing triangle Mobil and Chevron CVX 1.02%increase; green up pointing triangle are in advanced negotiations with Algeria on a deal that would allow the U.S. energy giants to drill for the first time in the gas-rich North African nation, according to the Algerian energy minister and people familiar with the discussions.</p>
+    	<p>The deals, which the energy minister said could be complete by the end of the year, would give the companies a foothold in a country that is an increasingly important supplier of natural gas to Europe following Russia’s invasion of Ukraine.</p>	
+    	<p>Sonatrach, the Algerian state oil-and-gas company, is negotiating agreements with the two companies that would focus on conventional gas and Algeria’s enormous reserves of shale gas, believed to be the third largest in the world.</p>	
+    	<p>“I am pushing Sonatrach,” said Energy Minister Mohamed Arkab, “because we need to increase our volumes.”</p>
+      <p>Europe has sharply cut its purchases of Russian gas over the past year, and the sabotage of the Nord Stream pipelines in September means the continent may never again buy large volumes from Russia. Algeria, one of the world’s largest producers of natural gas, has three pipeline connections to Europe that give it a competitive advantage over distant suppliers, such as the U.S. and Qatar, that ship liquefied natural gas to Europe.</p>
+      <p>Exxon and Chevron are looking to put huge cash piles to work, after reaping record profits last year as they rode surging oil prices. The companies have mostly heeded shareholders’ calls for austerity and investor payouts through buybacks and dividends, but are once more on the hunt for new sources of production.</p>
+      <p>The industry’s investment options have narrowed, heightening Algeria’s attractiveness. The U.S. shale patch has begun to show growth limitations, and some costly frontier-drilling projects haven’t panned out, including in Brazil, where Exxon ended a multibillion-dollar drilling campaign after a series of disappointing wells.</p>
+      <p>Energy companies are also betting that demand for natural gas will continue to rise in the coming years as nations use it rather than coal to generate electricity as part of their plans to cut greenhouse-gas emissions.</p>
+      <p>Arkab met with Chevron Chief Executive Mike Wirth at a global energy conference in Houston earlier this year, while executives from Sonatrach met with counterparts from Exxon, Arkab said.</p>
+      <p>“We have many basins, we’re not going to put them in the same one,” he said.</p>
+      <p>A spokeswoman for Exxon said the company has been in talks with Sonatrach and declined to discuss additional details. Chevron said it has signed an agreement with Algerian authorities that allows it to access data about three oil-and-gas basins: Ahnet in the south, Gourara in the center of the country and Berkine in the east next to the borders with Libya and Tunisia.</p>
+      <p>Energy companies have been hunting for gas production with easy access to European markets since the war began. Italian oil-and-gas company Eni has been investing in Algeria and fields offshore Egypt and Cyprus to produce gas that can be delivered to Europe; in January, it announced an $8 billion deal with Libya’s national oil company to produce gas from offshore fields in the Mediterranean.</p>
+      <p>Chevron has partnered with Eni in Egypt and is working to start up the Leviathan project in the Mediterranean near Israel. It has teamed up with Shell to develop the Aphrodite gas field offshore Cyprus.</p>
+      <p>Algeria’s territory with proven oil and gas reserves stretches across 1.5 million square kilometers, Arkab said, an area roughly the size of Alaska. The heart of the country’s gas industry is Hassi R’Mel, a field around 340 miles south of Algiers that is one of the largest in the world.</p>
+      <p>That field, however, has been producing since the early 1960s, and analysts question whether it can increase output significantly. Algeria needs to start producing in large areas of the country that haven’t been exploited and increase recovery rates on fields that are currently in production, Algerian officials say. There are plenty of opportunities: Only 47% of the 1.5 million square kilometers are being exploited, Arkab said.</p>
+      <p>“We still have 53% to develop in conventional gas,” he said. “That will dramatically increase our production.”</p>
+    </div>
+  },
+  {
+    id: 517,
+    title: 'Gold heads for best week since April on Fed pause bets',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Fed', 'commodities'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices were on track on Friday for their biggest weekly rise since early April, buoyed by hopes the U.S. Federal Reserve would not raise interest rates at its policy meeting this month, which also weighed on the dollar and bond yields.</p>
+    </div>,
+    authorName: 'Deep Kaushik Vakil',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 7:16 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-573.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Deep Kaushik Vakil</p>
+    	<p>(Reuters) - Gold prices were on track on Friday for their biggest weekly rise since early April, buoyed by hopes the U.S. Federal Reserve would not raise interest rates at its policy meeting this month, which also weighed on the dollar and bond yields.</p>	
+    	<p>Spot gold was up 0.1% to $1,980.49 per ounce at 1005 GMT. U.S. gold futures were up 0.1% to $1,997.40.</p>	
+    	<p>Bullion has gained 1.7% so far this week, heading for its best week since the one ended April 7.</p>
+      <p>With the resolution of uncertainty around the U.S. debt ceiling, "investors are now taking a pause to see what's going to happen with the non-farm payrolls" which are due at 1230 GMT, said ActivTrades senior analyst Ricardo Evangelista.</p>
+      <p>The U.S. dollar index and 10-year Treasury yields were both headed for their worst weeks since mid-March, making dollar-priced, zero interest-bearing bullion more attractive. [USD/] [US/]</p>
+      <p>Gold prices could move a little higher from here as the Fed is expected to keep policy on hold in June, said Edward Meir, a metals analyst at Marex.</p>
+      <p>Philadelphia Fed chief Patrick Harker said on Thursday that U.S. central bankers should not raise interest rates at their next meeting.</p>
+      <p>Gold, which suffers when rates are higher, found support as markets scaled back expectations to a 27% chance for the Fed to hike rates in June, compared to a 64% chance seen one week ago.</p>
+      <p>Markets now see a 73% chance for the Fed to keep rates unchanged this month.</p>
+      <p>But, "if the jobs report today surprises to the upside, we should expect some losses in gold prices," Evangelista said.</p>
+      <p>Spot silver ticked up 0.1% to $23.93 per ounce, also headed for a weekly gain.</p>
+      <p>Platinum rose 0.7% to $1,013.28, and palladium advanced 1% to $1,408.19, with both set for weekly losses.</p>
+      <p>(Reporting by Deep Vakil and Arundhati Sarkar in Bengaluru; Editing by Mark Potter)</p>
+    </div>
+  },
+  {
+    id: 516,
+    title: 'India snaps up record amount Russian oil while flows from Saudi Arabia plunge to 28-month low',
+    category: 'Commodities',
+    subCategory: ['India', 'Russian Oil', 'Saudi Arabia'],
+    description: <div className="blog-desc">
+      <p>India snapped up a record volume of Russian oil last month, while flows from Saudi Arabia have fallen to their lowest level since 2021.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 1:48 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-571.jpg',
+    content: <div className="blog-content">
+	    <h3>In this aticle:</h3>
+      <ul>
+        <li>Russia sold 1.96 million barrels of oil to India a day in May, notching a new record.</li>
+        <li>Meanwhile, oil flows from Saudi Arabia to India have plunged to a 28-month low.</li>
+        <li>Russia has surpassed Saudi Arabia as India's largest crude supplier, thanks to hefty discounts on its oil.</li>
+      </ul>
+	    <p>India snapped up a record volume of Russian oil last month, while flows from Saudi Arabia have fallen to their lowest level since 2021.</p>
+	    <p>Russia, which surpassed Saudi Arabia as India's top oil supplier in October last year, sold 1.96 million barrels of crude a day to India during the month of May, according to Vortexa data cited by Bloomberg. That's around 15% higher than the 1.67 million barrels a day sold to India in April.</p>	
+	    <p>Saudi Arabian oil shipments, meanwhile, fell to their lowest level since February 2021, marking a 28-month low.</p>	
+	    <p>That's largely due to ever-steeper discounts on Russian crude, which has led allies like China and India to ramp up Russian oil purchases tremendously. The average cost of Russian crude shipments was $68.21 a barrel in April, according to data from India's Ministry of Commerce, marking the lowest price tag on Russia's crude since the nation first invaded Ukraine.</p>
+      <p>Saudi Arabia has bemoaned the amounts of cheap Russian oil making their way to market, as it pushes oil prices lower for all suppliers. Saudi officials complained to Russia as oil prices dipped below $81 a barrel, a key break-even level for sellers, the Wall Street Journal reported.</p>
+      <p>Some estimates show that Russia's economy is also struggling as it sells energy commodities at a discount, with cheap crude sales driving energy revenues lower and deepening its budget deficit. The nation's oil and gas revenue crashed nearly 50% at the start of 2023, Russia's finance ministry reported, largely attributing the decline to lower prices for its main oil product as well as falling natural gas exports.</p>
+    </div>
+  },
+  {
+    id: 515,
+    title: 'Europes biggest gas supplier says all clear from pipeline security checks',
+    category: 'Commodities',
+    subCategory: ['Europe', 'Gas', 'Supplier'],
+    description: <div className="blog-desc">
+      <p>BERGEN, Norway (Reuters) - Inspections of Norway's offshore gas pipelines after the Nord Stream blasts found nothing suspicious, an executive at energy major Equinor told Reuters, in the first official word on the security sweep.</p>
+    </div>,
+    authorName: 'Nerijus Adomaitis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 31, 2023 - 1:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-590.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Nerijus Adomaitis</p>
+    	<p>BERGEN, Norway (Reuters) - Inspections of Norway's offshore gas pipelines after the Nord Stream blasts found nothing suspicious, an executive at energy major Equinor told Reuters, in the first official word on the security sweep.</p>	
+    	<p>However, risks remain after last year's still-unexplained explosions at the Nord Stream pipelines built to carry Russian gas to Germany via the Baltic Sea, warned Jannicke Nilsson, who manages security for Equinor.</p>	
+    	<p>Europe's largest gas supplier after a drop in Russian flows last year, Equinor also acts as technical service provider for offshore pipelines operator Gassco. It launched the inspections shortly after the explosions on Sept. 26.</p>
+      <p>"We did find the things that we wanted to check, and when we checked it, it was OK," Jannicke Nilsson, Equinor's executive in charge of security, safety and sustainability, said in an interview.</p>
+      <p>The company said inspections had been conducted to identify anything out of the ordinary, like damages, foreign objects or any changes to how the pipelines are covered on the seabed.</p>
+      <p>Nilsson, who rarely gives interviews, spoke about how the war in Ukraine and the Nord Stream explosions have changed the operations of Norway's largest oil and gas producer.</p>
+      <p>Despite underwater inspections not finding any suspicious objects along Norway's key pipelines, the threat of an attack was still present.</p>
+      <p>"It's not gone. What happened with Nord Stream 1 and Nord Stream 2 is a very clear reminder of how far some people are willing to go," she said.</p>
+      <p>NATO HELP</p>
+      <p>Equinor was working with authorities in Norway, the European Union, Britain and military alliance NATO on what the company can do to prevent such an attack, she added.</p>
+      <p>Norway is a member of NATO but not of the European Union.</p>
+      <p>Last summer, Norway designated Equinor and Gassco as companies critical to national security, allowing security services to share relevant classified information.</p>
+      <p>After the Feb. 24 invasion, some Equinor executives including Nilsson received security clearances from Norwegian authorities, allowing them to read intelligence reports.</p>
+      <p>In January, Equinor CEO Anders Opedal went to NATO's headquarters in Brussels to speak about protection of the West's offshore infrastructure, such as pipelines and cables.</p>
+      <p>After the Nord Stream blasts, the Norwegian Navy and NATO allies patrolled around offshore oil and gas platforms. In February, NATO established a Critical Undersea Infrastructure Protection Cell to improve cooperation with the industry.</p>
+      <p>"If we need assistance, the Norwegian military and NATO would provide resources... they would be here quickly," Nilsson said.</p>
+      <p>Onshore, Norway's military posted soldiers to guard major oil and gas processing plants and help police, though their work there has now ended.</p>
+      <p>In a show of NATO's and the EU's focus on protecting Europe's gas supplies, their chiefs Jens Stoltenberg and Ursula von der Leyen visited Norway's largest gas producing platform, Troll A, in March.</p>
+      <p>"I don't think this could have happened two years ago... because back then we were not seen as that important for European energy security," Nilsson said. "Now they see that gas from Norway and gas from Equinor is key."</p>
+      <p>(Reporting by Nerijus Adomaitis, Editing by Gwladys Fouche and Andrew Cawthorne)</p>
+    </div>
+  },
+  {
+    id: 514,
+    title: 'Gold prices slide as dollar rises on Fed rate hike expectations',
+    category: 'Commodities',
+    subCategory: ['gold', 'prices', 'Fed'],
+    description: <div className="blog-desc">
+      <p>Traders consider impact of US debt deal and outcome of next Fed meeting on gold prices</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'May 30, 2023 - 4:29 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-574.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Traders consider impact of US debt deal and outcome of next Fed meeting on gold prices</p>
+    	<p>Gold prices fell on Tuesday while the dollar strengthened as traders anticipate another interest rate hike by the US Federal Reserve (Fed).</p>	
+    	<p>Gold (CG=F) was trading around $1,973 (£1,586), after dropping to its lowest level since 17 March earlier in the session.</p>	
+    	<p>It comes as markets are pricing in a 60% chance of a 25 basis-point hike when the Fed next meets in June, compared with a 26% chance a week earlier, according to trading data from the CME Group’s FedWatch tool.</p>
+      <p>The Fed’s favourite inflation measure raised the rate hike odds after US consumer spending rose 4.4% from April 2022, data from the Bureau of Economic Analysis showed on 26 May.</p>
+      <p>Moreover, core inflation, which excludes prices for food and energy, ticked up 4.7% year-over-year.</p>
+      <h3>Further downside for gold?</h3>
+      <p>Piero Cingari, independent macro analyst, said: “The market implied probability of a June rate hike has risen to 60% now which has led to a strengthening of the dollar. As traders further raise their Fed rate hike bets, the dollar gets a boost and gold retraces.</p>
+      <p>“I wouldn’t rule out further downside in gold prices towards the $1,900-$1,850 region, where buyers could then reappear.</p>
+      <p>“Silver (SL=F) I think is more at risk of downside, because it has an even higher inverse correlation with the dollar and Fed interest rates relative to gold.”</p>
+      <h3>Traders back riskier assets</h3>
+      <p>Optimism over a US-debt deal agreement has also weighed on gold prices as investors once again gravitate towards riskier assets, after lawmakers said they had reached a tentative agreement to raise the $31.4tn debt ceiling and avert a default.</p>
+      <p>Naeem Aslam, chief investment officer at Zaye Capital Markets, said: “In the commodity space, the shining metal is feeling further pressure today as traders continue to back riskier assets, which is taking some shine away from the precious metal.</p>
+      <p>“Gold traders also know that the Fed is very much itching to increase rates further, and the yield on the two-year Treasury yield is clearly indicating that another rate hike is more than likely to happen. So the dollar index continues to pick up momentum,” he said.</p>
+      <p>Doug Turner at Kinesis Money also noted how the stability of gold has been further exacerbated by the ripple effects of the US regional banking crisis, which initially impacted the gold price, and the inclination of investors to explore “superior-performing assets” following gold's surge to the $2080 mark in early May.</p>
+      <p>“However, it is crucial to note that the current decline in gold prices doesn't necessarily signify a longer-term downtrend, but is more likely a temporary consolidation period driven by the aforementioned macroeconomic influences,” Turner added.</p>
+    </div>
+  },
+  {
     id: 513,
     title: 'Saudi Arabia, Russia Ties Under Strain Over Oil-Production Cuts',
     category: 'Commodities',
