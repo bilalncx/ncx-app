@@ -20,6 +20,10 @@ function NCXCardPage()
 
             <CardNewPageFirst />
 
+            <div className="mbl_vevrf">
+                <CardLogoSlider />
+            </div>
+
             <CryptoCardSecondSection />
 
             <PremiumExperience />
@@ -35,6 +39,10 @@ function NCXCardPage()
             <NCXContact />
 
             <IntegrationPlay />
+
+            <div className="mbdx_v">
+                <NCXContact />
+            </div>
 
             <CardNewFaqSection />
 

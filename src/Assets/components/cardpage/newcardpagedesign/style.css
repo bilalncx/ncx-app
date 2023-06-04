@@ -471,6 +471,12 @@ img.mbL_fwc{
 .card_rnag_mbl{
     display: none;
 }
+.mbdx_v {
+    display: none;
+}
+.mbl_vevrf{
+    display: none;
+}
 @media screen and (max-width: 1300px){
     .col.vedc h1, .vwed h1{
         width: 100%;
@@ -693,6 +699,7 @@ img.mbL_fwc{
     .yuio .qwrc img {
         height: 160px;
         margin-bottom: 10px;
+        width: auto !important;
     }
     button.ertgb, button.mht {
         background: none;
@@ -793,4 +800,23 @@ img.mbL_fwc{
     .row.vsdvs .col.btge h3{
         margin-top: 0px !important;
     }
+    .mbdx_v {
+        display: block;
+    }
+    .card_exprnc, .slvs{
+        display: none;
+    }
+    .mbdx_v .card_exprnc{
+        display: block !important;
+    }
+    .mbl_vevrf, .mbl_vevrf .slvs{
+        display: block !important;
+    }
+}
+
+
+
+/* Homepage CSSS */
+section.bg-dark .range_cards .container:after {
+    display: none;
 }

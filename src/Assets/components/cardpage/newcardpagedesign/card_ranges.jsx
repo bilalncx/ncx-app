@@ -15,7 +15,7 @@ function NCXCardRanges()
     return(
         <div id="compare-cards" className="range_cards">
             <div className="container">
-                <h1 className="rnag_gg">NCX Card Ranges</h1>
+                <h1 className="rnag_gg">NCX Card Range</h1>
                 <div className="card_bt">
                     <div className="vwexx">
                         <div className="qwrc"></div>
