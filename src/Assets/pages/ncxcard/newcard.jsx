@@ -1,5 +1,4 @@
 import React from "react";
-import './ncxcard.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
 import CardBoxSection from '../../components/cardpage/newcardpagedesign/cardbox';
@@ -11,11 +10,12 @@ import CryptoCardSecondSection from "../../components/cardpage/newcardpagedesign
 import NCXCardRanges from "../../components/cardpage/newcardpagedesign/card_ranges";
 import CardNewPageFirst from "../../components/cardpage/newcardpagedesign/main_section";
 import PremiumExperience from "../../components/cardpage/newcardpagedesign/third_sect";
+import IntegrationPlay from "../../components/cardpage/newcardpagedesign/AppleGoogleplay";
 
 function NCXCardPage()
 {
     return(
-        <div className="ncxdebitcreditcardpage">
+        <div className="new_cverd">
             <MyHeader />
 
             <CardNewPageFirst />
@@ -33,6 +33,8 @@ function NCXCardPage()
             <CardBoxSection />
 
             <NCXContact />
+
+            <IntegrationPlay />
 
             <CardNewFaqSection />
 

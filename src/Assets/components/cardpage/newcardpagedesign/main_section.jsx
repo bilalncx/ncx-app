@@ -25,7 +25,7 @@ function CardNewPageFirst()
                             <p>NCX Crypto Card pushes your payment limits higher and your options wider. Enjoy the premium experience and pay for every day purchases using card, funded by your Crypto assets 24/7/365, Globally.</p>
                             <div className="bewec">
                                 <Button href="#" className="wec">Open an Account</Button>
-                                <Button href="#" className="dwc">Compare Cards</Button>
+                                <Button href="#compare-cards" className="dwc">Compare Cards</Button>
                             </div>
                         </div>
                     </div>

@@ -11,15 +11,16 @@ function PremiumCardBox()
                 <div className="row vsds">
                     <div className="col vedc">
                         <h1>A premium card. And so much more.</h1>
+                        <img className="mbL_fwc" src={CardImage} alt="ncx"/>
                         <ul>
-                            <li>Automate your account reconciliation by connecting Qonto to your accounting tool.</li>
-                            <li>Scan all your receipts and proofs of purchase; they’ll have the same legal value as the original paper versions.</li>
-                            <li>Forget manual entry of your expense report data thanks to automatic VAT detection.</li>
-                            <li>Keep control of your spend, in real time. By yourself or as a team.</li>
+                            <li>Set max Transaction Amount to prevent Fraud.</li>
+                            <li>Freeze/Unfreeze your NCX Card in just one click. </li>
+                            <li>Add to Apple Pay / Google Pay</li>
+                            <li>Keep control of your spend in real time. Track your Transactions. Enable push Notifications</li>
                         </ul>
-                        <Button className="vea_vv" href="#">Discover our Business accounts</Button>
+                        <Button className="vea_vv" href="#">Stake NCXT and get your card for free</Button>
                     </div>
-                    <div className="col vedc">
+                    <div className="col vedc bmld_we">
                         <img src={CardImage} alt="ncx"/>
                     </div>
                 </div>

@@ -18,9 +18,58 @@ function CardLogoSlider()
 {
     return(
         <div className="slvs">
-            <div className="inservv">
+            <div className="inservv desktop">
                 <CarouselProvider
                     visibleSlides={7}
+                    totalSlides={10}
+                    step={1}
+                    // naturalSlideWidth={300}
+                    // naturalSlideHeight={500}
+                    // hasMasterSpinner
+                    isPlaying={true}
+                    interval={3000}
+                    orientation="horizontal"
+                    infinite
+                    playDirection="forward"
+                >
+                    <Slider className="csver">
+                        <Slide index={0}>
+                            <img src={Promo1} alt="ncx"/>
+                        </Slide>
+                        <Slide index={1}>
+                            <img src={Promo2} alt="ncx"/>
+                        </Slide>
+                        <Slide index={2}>
+                            <img src={Promo3} alt="ncx"/>
+                        </Slide>
+                        <Slide index={3}>
+                            <img src={Promo4} alt="ncx"/>
+                        </Slide>
+                        <Slide index={4}>
+                            <img src={Promo5} alt="ncx"/>
+                        </Slide>
+                        <Slide index={5}>
+                            <img src={Promo6} alt="ncx"/>
+                        </Slide>
+                        <Slide index={6}>
+                            <img src={Promo7} alt="ncx"/>
+                        </Slide>
+                        <Slide index={7}>
+                            <img src={Promo8} alt="ncx"/>
+                        </Slide>
+                        <Slide index={8}>
+                            <img src={Promo9} alt="ncx"/>
+                        </Slide>
+                        <Slide index={9}>
+                            <img src={Promo10} alt="ncx"/>
+                        </Slide>
+                    </Slider>
+                </CarouselProvider>
+            </div>
+
+            <div className="inservv mobile">
+                <CarouselProvider
+                    visibleSlides={3}
                     totalSlides={10}
                     step={1}
                     // naturalSlideWidth={300}

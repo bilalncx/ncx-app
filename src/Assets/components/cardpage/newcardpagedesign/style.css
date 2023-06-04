@@ -21,7 +21,7 @@
     color: #FFFFFF;
     width: 70%;
 }
-.card_box, .card_exprnc, .aerv, .slvs, .berfvc, .range_cards{
+.card_box, .card_exprnc, .aerv, .slvs, .berfvc, .range_cards, .integr__pla{
     background: #000000;
     padding: 100px 0px;
     position: relative;
@@ -43,7 +43,7 @@
     padding-left: 36px;
 }
 a.vea_vv{
-    width: 290px;
+    width: 320px;
     height: 50px;
     background: #F9F9F7;
     border-radius: 6px;
@@ -133,7 +133,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     margin-top: 40px;
 }
 .card_box .container:after, .card_exprnc .container:after, .aerv .container:after, .slvs .inservv:after,
-.berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after{
+.berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after, .integr__pla .container:after{
     content: '';
     background: rgba(255,255,255,0.25);
     width: -webkit-fill-available;
@@ -397,4 +397,389 @@ h1.rnag_gg {
 .col.btge img {
     width: auto;
     height: 220px;
+}
+.nhy__tr {
+    display: flex;
+}
+.mujh {
+    width: 35%;
+}
+.tjmnh{
+    width: 65%;
+    padding-left: 60px
+}
+.mujh img {
+    width: 100%;
+}
+.tjmnh h1 {
+    font-size: 40px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 48px;
+    margin-bottom: 20px;
+}
+.hyf__gg {
+    display: flex;
+    flex-flow: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    margin: 0;
+}
+.hyf__gg .fvdd {
+    flex: 0 0 48%;
+    padding: 0px 30px;
+    border-left: 1px solid rgba(255,255,255,0.25);
+    margin-top: 40px;
+}
+.hyf__gg .fvdd h3 {
+    font-size: 24px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    line-height: 32px;
+}
+.hyf__gg .fvdd p {
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    line-height: 24px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+/* Responsiveness Starts from here */
+.new_cverd {
+    background: #000000;
+}
+.inservv.mobile{
+    display: none;
+}
+img.mbL_fwc{
+    display: none;
+}
+.card_rnag_mbl{
+    display: none;
+}
+@media screen and (max-width: 1300px){
+    .col.vedc h1, .vwed h1{
+        width: 100%;
+    }
+    .col.vedc ul{
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 1180px){
+    .col.btge img {
+        width: 100%;
+        height: 200px;
+    }
+    .row.vsdvs .col.btge:nth-child(2){
+        padding: 0px 30px;
+    }
+    .card_box.csdvw__vew .col.vedc:nth-child(2) {
+        padding-left: 50px;
+    }
+    .bve p, .bve h1{
+        padding-right: 0px;
+    }
+    .col.vedc h1, .vwed h1{
+        width: 100%;
+    }
+    .row.vsdvs .col.btge:nth-child(1){
+        padding-right: 30px;
+    }
+    .row.vsdvs .col.btge:nth-child(3){
+        padding-left: 30px;
+    }
+    .slvs .carousel .csver .carousel__inner-slide img{
+        max-width: 90px;
+    }
+    .col.vedc ul{
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 800px){
+    .bf_vdo{
+        max-height: 350px;
+    }
+    .cont_vwef{
+        max-height: inherit;
+        position: relative;
+        padding: 50px 0px;
+        height: unset !important;
+    }
+    .bve{
+        width: 100%;
+    }
+    .bve h1{
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .bve p{
+        margin-top: 15px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .cont_vwef .vcsd .bewec a {
+        width: 150px !important;
+        font-size: 14px !important;
+        height: 40px !important;
+    }
+    .bve .bewec{
+        justify-content: center;
+        gap: 15px !important;
+    }
+    .card_box .container:after, .card_exprnc .container:after, .aerv .container:after, .slvs .inservv:after,
+    .berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after{
+        margin: 0px 20px !important;
+    }
+    .card_box, .card_exprnc, .aerv, .slvs, .berfvc, .range_cards, .integr__pla{
+        padding: 50px 0px;
+    }
+    .row.vsds{
+        flex-direction: column;
+    }
+    .col.vedc{
+        width: 100%;
+        flex: 0 0 100%;
+    }
+    .card_box.csdvw__vew .col.vedc:nth-child(2){
+        padding-left: 0px;
+        margin-top: 40px;
+    }
+    .col.vedc h1, .vwed h1, .tvscc h1, h1.rnag_gg, .col.verhnb h1, .tjmnh h1{
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .col.vedc ul li:before{
+        width: 15px;
+        height: 11px;
+        background-size: 100% 100%;
+    }
+    .col.vedc ul li{
+        font-size: 15px;
+        line-height: 20px;
+        padding-left: 25px;
+    }
+    .vwecx a.vea_vv{
+        font-size: 14px !important;
+        width: 150px !important;
+        height: 40px !important;
+    }
+    a.evc{
+        font-size: 14px !important;
+        width: 170px !important;
+        height: 40px !important;
+    }
+    .vwecx{
+        justify-content: center;
+        gap: 15px !important;
+    }
+    .row.vsdvs{
+        flex-direction: column;
+    }
+    .row.vsdvs .col.btge{
+        width: 100% !important;
+        padding: 0px !important;
+    }
+    .col.btge img{
+        height: unset !important;
+        width: 80%;
+        margin: 0 auto;
+        display: block;
+    }
+    .row.vsdvs .col.btge h3{
+        font-size: 22px !important;
+        line-height: 26px !important;
+        margin-bottom: 10px !important;
+    }
+    .row.vsdvs .col.btge p{
+        font-size: 15px !important;
+        font-family: 'urbanist-regular';
+        line-height: 22px;
+    }
+    .row.vsdvs .col.btge:nth-child(2){
+        border-left: none;
+        border-right: none;
+        margin: 50px 0px;
+        padding: 50px 0px !important;
+        border-top: 1px solid rgba(255,255,255,0.25);
+        border-bottom: 1px solid rgba(255,255,255,0.25);
+    }
+    .card_bt{
+        display: none;
+    }
+    .tvscc p{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .tvscc h1{
+        margin-bottom: 10px;
+    }
+    a.vea_vv{
+        width: 100%;
+        height: 40px;
+        font-size: 14px;
+    }
+    .vwed p{
+        width: 100%;
+        font-size: 15px;
+        line-height: 22px;
+        margin-top: 10px;
+    }
+    .bewec a.wec{
+        width: 170px;
+        height: 40px;
+        font-size: 14px;
+    }
+    .bewec a.dwc{
+        width: 150px;
+        height: 40px;
+        font-size: 14px;
+    }
+    .bewec{
+        gap: 15px !important;
+    }
+    .row.aeewf{
+        flex-direction: column;
+    }
+    .col.vwev .accordian details summary {
+        font-size: 16px;
+        line-height: 24px !important;
+    }
+    .col.vwev details .contt p{
+        font-size: 14px !important;
+        line-height: 20px !important;
+    }
+    .col.vwev details[open] .contt{
+        margin-bottom: 0px !important;
+    }
+    .row.aeewf .col.vwev .accordian {
+        margin-top: 40px;
+    }
+    .col.vwev .accordian details:last-child{
+        border-bottom: none;
+    }
+    .inservv.desktop{
+        display: none;
+    }
+    .inservv.mobile{
+        display: block;
+    }
+    img.mbL_fwc{
+        display: block;
+    }
+    .bmld_we{
+        display: none !important;
+    }
+    .card_rnag_mbl{
+        display: block;
+        position: relative;
+    }
+    .yuio .qwrc {
+        width: 100%;
+    }
+    .yuio .qwrc img {
+        height: 160px;
+        margin-bottom: 10px;
+    }
+    button.ertgb, button.mht {
+        background: none;
+        border: none;
+        padding: 0px;
+    }
+    button.mht:disabled, button.ertgb:disabled {
+        opacity: 0.5;
+    }
+    .cscs__bt {
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        width: 100%;
+        top: 50px;
+        z-index: 1;
+    }
+    .ytrew {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 30px 0px 0px 0px;
+    }
+    .vyth p {
+        font-size: 16px;
+        font-family: 'urbanist-semibold';
+        text-align: left;
+        color: #FFF;
+        margin-bottom: 10px;
+        line-height: 20px;
+    }
+    .vyth span {
+        font-size: 14px;
+        color: rgba(255,255,255,0.6);
+        font-family: 'urbanist-regular';
+    }
+    .tujhg p {
+        text-align: end;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-family: 'urbanist-semibold';
+        line-height: 20px !important;
+    }
+    .tujhg span.cwee {
+        color: #FFFFFF;
+        margin-top: 10px;
+        display: block;
+        font-size: 14px;
+        font-family: 'urbanist-regular';
+    }
+    .vyth {
+        width: 60%;
+    }
+    .tujhg {
+        width: 40%;
+        text-align: end;
+    }
+    .nhy__tr{
+        flex-direction: column;
+    }
+    .mujh, .tjmnh{
+        width: 100%;
+    }
+    .tjmnh{
+        padding: 0px;
+        margin-top: 40px;
+    }
+    .hyf__gg .fvdd{
+        flex: 0 0 100%;
+        border-left: none;
+        padding: 0px;
+        border-bottom: 1px solid rgba(255,255,255,0.25);
+        padding-bottom: 40px !important;
+        margin-bottom: 40px !important;
+        margin-top: 0px;
+    }
+    .hyf__gg .fvdd h3{
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .hyf__gg .fvdd p{
+        font-size: 15px;
+        line-height: 22px;
+        margin-top: 10px;
+    }
+    .hyf__gg{
+        gap: 0px;
+        margin-top: 40px;
+    }
+    .hyf__gg .fvdd:last-child{
+        padding: 0px !important;
+        border: none !important;
+        margin: 0px !important;
+    }
 }

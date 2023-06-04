@@ -23,7 +23,7 @@ function CryptoCardSecondSection()
                             <li>Concierge Service and VIP lounge access included.</li>
                         </ul>
                         <div className="vwecx">
-                            <Button className="vea_vv" href="#">Compare Plans</Button>
+                            <Button className="vea_vv" href="#compare-cards">Compare Cards</Button>
                             <Button className="evc" href="#">See Insurance Benefits</Button>
                         </div>
                     </div>
