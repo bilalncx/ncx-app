@@ -1,5 +1,6 @@
 import React from "react";
 import AppleGoogleImage from '../../../images/apple-google-pay.png';
+import CardTrimmed from '../../../images/card_short.mp4';
 
 function IntegrationPlay()
 {
@@ -8,7 +9,16 @@ function IntegrationPlay()
             <div className="container">
                 <div className="nhy__tr">
                     <div className="mujh">
-                        <img src={AppleGoogleImage} alt="ncx"/>
+                        {/* <img src={AppleGoogleImage} alt="ncx"/> */}
+                        <video 
+                            autoPlay={true}
+                            muted={true}
+                            loop={true}
+                            playsInline={true}
+                            preload="auto"
+                            >
+                            <source src={CardTrimmed} type="video/mp4" />
+                        </video>
                     </div>
                     <div className="tjmnh">
                         <h1>Integrated Apple Pay and Google Pay</h1>

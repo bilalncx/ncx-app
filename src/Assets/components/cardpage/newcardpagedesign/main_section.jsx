@@ -1,5 +1,5 @@
 import React from "react";
-import CardMainVideo from '../../../images/home__newvideo.mp4';
+import CardMainVideo from '../../../images/card_full.mp4';
 import Button from "@mui/material/Button";
 
 function CardNewPageFirst()
