@@ -1,5 +1,37 @@
 const data = [
   {
+    id: 531,
+    title: 'Teslas China-made EV sales rose 2.4% in May from April - CPCA',
+    category: 'Markets',
+    subCategory: ['Tesla', 'China', 'EV sales'],
+    description: <div className="blog-desc">
+      <p>BEIJING (Reuters) - U.S. automaker Tesla Inc delivered 77,695 China-made electric vehicles (EVs) in May, a 2.4% jump from April, data from the China Passenger Car Association (CPCA) showed on Monday.</p>
+    </div>,
+    authorName: 'Qiaoyi Li and Brenda Goh',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 12:31 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-601.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Qiaoyi Li and Brenda Goh</p>
+    	<p>BEIJING (Reuters) - U.S. automaker Tesla Inc delivered 77,695 China-made electric vehicles (EVs) in May, a 2.4% jump from April, data from the China Passenger Car Association (CPCA) showed on Monday.</p>	
+    	<p>On a yearly basis, sales rose 142% in May from 32,165 vehicles in the same month of 2022 when Shanghai, where its factory is located, was still subject to COVID-19 containment measures that impacted production.</p>	
+    	<p>Chinese rival BYD Co Ltd, with its Dynasty and Ocean series of EVs and petrol-electric hybrid vehicles, logged sales of 239,092 vehicle in May, up 14% from April, CPCA data showed.</p>
+      <p>CPCA is scheduled to release more detailed car sales figures for May later this month.</p>	
+    	<p>Tesla has been under intense focus in China in recent weeks, amid an unannounced, high-stakes visit from boss Elon Musk.</p>
+      <p>Musk wrapped up a two-day trip on Thursday that included talks with Chinese Vice Premier Ding Xuexiang on Wednesday in Beijing, a source told Reuters.</p>	
+    	<p>The latest trip, Musk's first in three years after Beijing reopened its borders, came as Tesla faces intensifying competition from Chinese-made EV makers and uncertainty about expanding the Shanghai plant, its largest production hub.</p>
+      <p>He also met with foreign, commerce and industry ministers, and dined with Zeng Yuqun, chairman of battery supplier Contemporary Amperex Technology Co Ltd (CATL).</p>	
+    	<p>Musk visited Tesla's Shanghai factory late on Wednesday and met with Chen Jining, the ruling party's Shanghai secretary, on Thursday. Chen welcomed Tesla to increase investment and expand business in the city, according to a statement from the municipal government.</p>
+      <p>In an action described as a product recall, Tesla is distributing over-the-air software updates for more than 1.1 million vehicles for a braking issue from May 29, China's market regulator said mid-May.</p>	
+    	<p>Since May, Tesla has raised prices in countries including China, after earlier price cuts triggered a price war, with many international and local brands following suit.</p>
+      <p>(This story has been corrected to clarify the BYD sales growth comparison is a monthly rise, not annual, in paragraph 3)</p>	
+    	<p>(Reporting by Qiaoyi Li, Zhang Yan and Brenda Goh, Editing by Louise Heavens and Bernadette Baum)</p>
+    </div>
+  },
+  {
     id: 530,
     title: 'Biden signs debt ceiling bill that pulls US back from brink of unprecedented default',
     category: 'Markets',

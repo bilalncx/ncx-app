@@ -1,5 +1,53 @@
 const data = [
   {
+    id: 548,
+    title: 'Bitcoin little-changed around US$27,000, Ether treads water; Solana, XRP gain',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Solana', 'XRP'],
+    description: <div className="blog-desc">
+      <p>Bitcoin traded little changed on Monday morning in Asia to hold above the US$27,000 threshold. Ether also traded flat, along with most other top 10 non-stablecoin cryptocurrencies.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 4:28 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-603.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin traded little changed on Monday morning in Asia to hold above the US$27,000 threshold. Ether also traded flat, along with most other top 10 non-stablecoin cryptocurrencies.</p>
+    	<p>However, Solana and XRP both gained more than 4%. U.S. stocks jumped Friday as a deal was approved to raise the debt ceiling, with the bill signed by U.S. President Joe Biden on Saturday to avoid a government default. U.S. Stock futures were trading flat on Monday morning in Asia. Investor focus has shifted to what will be the next move on interest rates by the Federal Reserve when it meets on June 14.</p>	
+    	<h3>Bitcoin, Ether trade flat; Solana, XRP gain</h3>
+      <p>Bitcoin edged up 0.87% over the last 24 hours to US$27,309 at 7:00 a.m. in Hong Kong, but is down 2.84% in the past seven days, according to data from CoinMarketCap. The world’s largest cryptocurrency fell to as low as $26,574 on Friday.</p>	
+    	<p>Ether traded 0.67% higher in the past 24 hours to US$1,904, little changed for the week.</p>
+      <p>Most other top 10 non-stablecoin cryptocurrencies traded flat. The exceptions were a 4.69% price jump for Solana, and a 4.19% gain for XRP.</p>	
+    	<p>Solana’s move comes just as non-fungible token (NFT) secondary sales on the Solana network rose 21.62% over the last 24 hours, according to data from CryptoSlam.</p>
+      <p>XRP is up 12.06% over the past week, gaining momentum after the XRP community reacted to the draft bill Digital Asset Market Structure Proposal released Friday by Republicans that seeks clarity in regulating cryptocurrencies as securities or commodities. Pro-XRP lawyer Jeremy Hogan tweeted that the discussion draft could be known as an “XRP holder protecting” act.</p>	
+    	<p>“Investor sentiment across both digital assets as well as traditional finance appears to be in a holding pattern waiting for further indications from the U.S. Federal Reserve and other central banks as to anticipated interest rate movements in the third quarter of this year,” Nathan Simmons, chief compliance officer of Hong Kong-based digital asset platform VDX, said late Friday.</p>
+      <h3>NFT 500 index falls, May transaction volume surges</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dropped 1.58% to 3,281.22 in the 24 hours to 9:30 a.m. in Hong Kong, adding to a 2.38% weekly loss.</p>	
+    	<p>The Forkast ETH NFT Composite index was down 1.17% in the same period, logging a 1.38% weekly decline.</p>
+      <p>NFT sales on Ethereum fell 10% over the last 24 hours to US$23.65 million, but gained 83.97% in the past week. Sales on the Bitcoin network dropped 31.9% to US$3.82 million, but still recorded a 30% weekly increase.</p>	
+    	<p>Bored Ape Yacht Club (BAYC) and Azuki remained the two most-sold Ethereum collections. BAYC had the biggest sales in the past 24 hours of US$5.1 million, followed by Azuki’s US$3.4 million and Mutant Ape Yacht Club’s US$1.7 million.</p>
+      <p>Uncategorized Ordinals – recently popular Bitcoin Ordinals that are not part of an established collection – recorded a 45.24% drop to US$1.4 million in sales over the past 24 hours, but its seven-day sales gained 7.85%.</p>	
+    	<p>DMarket, a Mythos blockchain-based collection of gaming NFTs, continued gaining momentum with a 18.34% rise in sales to US$1.35 million in the last 24 hours.</p>
+      <p>Notably, the number of NFT transactions reached 8.9 million in May, the largest since February 2022, according to CryptoSlam data.</p>	
+    	<p>“Before we get too excited we need to understand that the NFT landscape is vastly different from last year,” Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News, wrote in a commentary on Sunday.</p>
+      <p>“Today, we have projects like DMarket’s gaming skins on Mythos Chain, which did over 2 million transactions in the past 30 days alone. Still, growth isn’t measured in just sales, and the May turnaround just might indicate that mass adoption is happening right under our noses,” Petscher added.</p>	
+    	<h3>Biden signs debt bill; China, Japan services sectors expand in May</h3>
+      <p>U.S. stock futures traded mixed as of 10:20 a.m. in Hong Kong. Dow Jones Industrial Average futures edged up 0.02%, while S&P 500 futures dipped 0.1%. Nasdaq Futures fell 0.32%.</p>
+      <p>Crude oil prices rose after the OPEC+ group of oil-producing countries on Sunday decided to extend output cuts through next year, which could be an inflationary factor.</p>	
+    	<p>On Saturday, U.S. President Joe Biden signed into law a bill to avoid a government default. The bill, passed by the U.S. Senate on Thursday, would suspend the U.S.’ debt limit through January 1, 2025.</p>
+      <p>“I just signed into law a bipartisan budget agreement that prevents a first-ever default while reducing the deficit, safeguarding Social Security, Medicare, and Medicaid,” Biden tweeted on Saturday.</p>	
+    	<p>In Asia, China’s services sector extended its recovery in May, with Caixin China General Services Purchasing Managers’ index (PMI) climbing to 57.1 from April’s 56.4.</p>
+      <p>“Both services supply and demand expanded further in May,” Wang Zhe, senior economist of Caixin Insight Group, said in the PMI report. “Services activity continued to rebound after China scrapped its ‘zero-Covid’ policy in December.”</p>	
+    	<p>Japan’s service sector also expanded in May, according to surveys by au Jibun Bank. Its Japan Services PMI for May came in at 55.9, or higher than 55.4 in April.</p>
+      <p>“The Japanese service sector continued on its upward trend that began at the end of last year during May, with latest PMI data pointing to back-to-back record increases in business activity, new orders and exports,” Usamah Bhatti, an economist at S&P Global Market Intelligence, said in the report.</p>
+      <p>“Firms were buoyed by the easing of the few remaining pandemic restrictions and have noted strong increases in demand, notably from overseas and inbound tourism,” Bhatti added.</p>
+    </div>
+  },
+  {
     id: 547,
     title: 'Ripple locks 700M tokens as XRP turns 11',
     category: 'Crypto',
