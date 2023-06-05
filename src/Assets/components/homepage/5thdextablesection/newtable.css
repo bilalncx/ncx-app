@@ -1,0 +1,109 @@
+.feature__dx {
+    padding: 100px 0px;
+    position: relative;
+}
+.lkj {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+}
+.uiop {
+    width: 16%;
+    padding: 35px 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lkj .uiop:nth-child(1) {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.uiop.clr {
+    background: #1A1A1A;
+}
+.lkj .uiop h3 {
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: 'urbanist-semibold';
+}
+a.open_acnt {
+    font-size: 14px;
+    font-family: 'urbanist-medium';
+    text-transform: initial;
+    letter-spacing: 0;
+    color: #000000;
+    background: #FFFFFF;
+    padding: 10px 15px;
+    width: fit-content;
+    line-height: 17px;
+    border-radius: 5px;
+    border: 1px solid #FFFFFF;
+}
+a.open_acnt:hover{
+    background: transparent;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+.lkj.head{
+    border: none !important;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.sticky_pos{
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+    background: #000000;
+}
+.lkj.head .uiop {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+    padding: 35px 0px 20px 0px;
+}
+.bynt p {
+    font-size: 16px !important;
+    line-height: 20px !important;
+}
+.bynt span {
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+    font-size: 12px;
+    line-height: 14px;
+}
+p.nhgt {
+    color: rgba(255,255,255,0.8) !important;
+    font-size: 18px !important;
+    font-family: 'urbanist-medium' !important;
+    padding-right: 20px !important;
+    display: flex;
+    flex-direction: column;
+}
+p.nhgt span{
+    font-size: 12px;
+}
+.uiop p {
+    color: #FFFFFF;
+    font-family: 'urbanist-semibold';
+    font-size: 18px;
+}
+.bf__pok {
+    max-width: 1300px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+.bf__pok h1 {
+    font-size: 48px;
+    line-height: 58px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+    font-family: 'urbanist-regular';
+}
+.bf__pok p {
+    color: #FFFFFF;
+    font-size: 14px;
+}
