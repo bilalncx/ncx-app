@@ -7,13 +7,13 @@ function NewFeatureSection()
 {
     return(
         <div className="feature__dx">
-            <div className="bf__pok">
+            <div className="bf__pok container">
                 <h1>Advanced CEX, DEX & Trading features on one platform</h1>
                 <p>Utilising the power of Decentralised Finance with the ease of use & advantages of a traditional Cryptocurrency Exchange</p>
                 <p>and advanced Trading Platform in a single, cutting-edge, all-in-one platform and scalable ecosystem</p>
             </div>
            <div className="sticky_pos">
-                <div className="lkj head">
+                <div className="lkj head container">
                     <div className="uiop"></div>
                     <div className="uiop clr">
                         <h3>NCX</h3>

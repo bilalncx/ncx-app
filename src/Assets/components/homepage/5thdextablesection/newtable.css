@@ -49,8 +49,6 @@ a.open_acnt:hover{
 }
 .lkj.head{
     border: none !important;
-    max-width: 1300px;
-    margin: 0 auto;
 }
 .sticky_pos{
     position: sticky;
@@ -92,8 +90,6 @@ p.nhgt span{
     font-size: 18px;
 }
 .bf__pok {
-    max-width: 1300px;
-    margin: 0 auto;
     margin-bottom: 60px;
 }
 .bf__pok h1 {
