@@ -7,7 +7,7 @@ import { ReactComponent as FraudProtection } from '../../../images/fraud-protect
 function PremiumProtectionCard()
 {
     return(
-        <div className="berfvc">
+        <div id="insurance-benefits" className="berfvc">
             <div className="container">
                 <div className="tvscc">
                     <h1>Premium Protection for all your needs</h1>

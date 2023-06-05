@@ -24,7 +24,7 @@ function CryptoCardSecondSection()
                             <li>Payment and Fraud Protection.</li>
                         </ul>
                         <div className="vwecx">
-                            <Button className="bgb_bf" href="https://ncx.cx/new-card">View Cards</Button>
+                            <Button className="bgb_bf" href="https://ncx.cx/ncx-card">View Cards</Button>
                             <Button className="bgfgb" href="https://my.ncx.cx/en/register">Sign Up</Button>
                         </div>
                     </div>

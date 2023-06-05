@@ -24,7 +24,7 @@ function CryptoCardSecondSection()
                         </ul>
                         <div className="vwecx">
                             <Button className="vea_vv" href="#compare-cards">Compare Cards</Button>
-                            <Button className="evc" href="#">See Insurance Benefits</Button>
+                            <Button className="evc" href="#insurance-benefits">See Insurance Benefits</Button>
                         </div>
                     </div>
                 </div>
