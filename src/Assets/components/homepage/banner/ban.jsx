@@ -2,6 +2,7 @@ import React from "react";
 import './ban.css';
 import Button from "@mui/material/Button";
 import { useTranslation } from "react-i18next";
+import CardLogoSlider from "../../cardpage/newcardpagedesign/scroll_set";
 
 function HomeBannerSection()
 {
@@ -15,7 +16,8 @@ function HomeBannerSection()
                     <Button href="/buy-crypto" className="byyy">{t("buy_crypto")}</Button>
                     <Button href="/markets" className="marr">{t("markets")}</Button>
                 </div>
-                <div className="row_ban">
+
+                {/* <div className="row_ban">
                     <div className="col banner_1">
                         <div className="ccc_tt">
                             <p>{t("trade_metals_on_ncx_with_spreads")}</p>
@@ -28,8 +30,9 @@ function HomeBannerSection()
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
+            <CardLogoSlider />
         </div>
     )
 }

@@ -52,7 +52,7 @@ a.open_acnt:hover{
 }
 .sticky_pos{
     position: sticky;
-    top: 0px;
+    top: -10px;
     z-index: 999;
     background: #000000;
 }
@@ -61,7 +61,7 @@ a.open_acnt:hover{
     flex-direction: column;
     gap: 18px;
     align-items: center;
-    padding: 35px 0px 20px 0px;
+    padding: 30px 0px 20px 0px;
 }
 .bynt p {
     font-size: 16px !important;
@@ -102,4 +102,21 @@ p.nhgt span{
 .bf__pok p {
     color: #FFFFFF;
     font-size: 14px;
+}
+#ngbv.lkj.head .uiop {
+    padding-top: 0px;
+}
+.lkj:last-child{
+    border: none !important;
+}
+
+@media screen and (min-width: 800px){
+    .dex-table{
+        display: none;
+    }
+}
+@media screen and (max-width: 800px){
+    .feature__dx{
+        display: none;
+    }
 }

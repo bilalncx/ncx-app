@@ -42,6 +42,7 @@ import HomeWalletStakes from '../components/ncxToken/section-2/staking_ncxt';
 import HomeBannerSection from "../components/homepage/banner/ban";
 import NCXCardRanges from "../components/cardpage/newcardpagedesign/card_ranges";
 import NewFeatureSection from "../components/homepage/5thdextablesection/newtable";
+import HomeNCXCardBox from "../components/homepage/HomeCardBox/cardbox";
 
 
 function MainHome()
@@ -112,9 +113,11 @@ function MainHome()
 
             <HomeWallet />
 
-            {/* <HomeCEXDEXTableSection /> */}
+            <HomeCEXDEXTableSection />
 
             <NewFeatureSection />
+
+            <HomeNCXCardBox />
 
             <NCXCardRanges />
 

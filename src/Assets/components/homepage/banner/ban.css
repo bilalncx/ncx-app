@@ -55,3 +55,18 @@ a.marr:focus, a.marr:focus-visible, a.marr:active{
     text-decoration: none;
     outline: none;
 }
+#bannss.ind__banner .slvs {
+    padding-top: 0px;
+}
+#bannss.ind__banner{
+    padding-bottom: 0px !important
+}
+
+@media screen and (max-width: 800px){
+    #bannss.ind__banner .slvs{
+        display: block !important;
+    }
+    #bannss.ind__banner .btn__dtr{
+        margin-bottom: 50px;
+    }
+}

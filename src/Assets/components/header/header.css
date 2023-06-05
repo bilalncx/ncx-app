@@ -17,6 +17,7 @@ header#header-row {
 header#header-row.darkheader{
     background: #000000 !important;
     z-index: 999;
+    box-shadow: 0 0 30px 0 hsla(0,0%,100%,.25) !important;
 }
 #BlogdetailsHeader header#header-row {
     background: #000000;

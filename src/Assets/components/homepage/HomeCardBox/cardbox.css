@@ -1,0 +1,85 @@
+.card_box.nrtbv__gerg{
+    position: relative !important;
+}
+.card_box.nrtbv__gerg .col.vedc:nth-child(2) {
+    padding-left: 100px;
+}
+.card_box.nrtbv__gerg ul {
+    padding: 0px !important;
+}
+.card_box.nrtbv__gerg h1 {
+    width: 100% !important;
+}
+.card_box.nrtbv__gerg .container:after{
+    display: none;
+}
+.card_box.nrtbv__gerg:before, .bg-dark #compare-cards:before{
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(270deg,#fff,hsla(0,0%,100%,0));
+    left: 2.1%;
+}
+.card_box.nrtbv__gerg:after, .bg-dark #compare-cards:after{
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(90deg,#fff,hsla(0,0%,100%,0));
+    right: 2.1%;
+}
+a.bgb_bf {
+    background: #5ED3F0;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    text-transform: inherit;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    width: 144px;
+    height: 44px;
+    border-radius: 70px;
+    border: 1px solid #5ED3F0
+}
+a.bgb_bf:hover, a.bgb_bf:focus, a.bgb_bf:focus-visible, a.bgfgb:hover, a.bgfgb:focus, a.bgfgb:focus-visible{
+    text-decoration: none;
+    box-shadow: none;
+    outline: none;
+}
+a.bgb_bf:hover{
+    background: transparent;
+}
+a.bgfgb {
+    background: transparent;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    text-transform: inherit;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    width: 130px;
+    height: 44px;
+    border-radius: 70px;
+    border: 1px solid #000000
+}
+a.bgfgb:hover{
+    border-color: #5ED3F0;
+}
+.card_box.nrtbv__gerg .vwecx{
+    gap: 10px
+}
+.slvs .inservv:after{
+    display: none;
+}
+
+@media screen and (max-width: 800px){
+    .card_box.nrtbv__gerg .col.vedc:nth-child(2) {
+        padding-left: 0px;
+        margin-top: 40px;
+    }
+}

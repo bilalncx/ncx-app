@@ -17,40 +17,70 @@ function NewFeatureSection()
                     <div className="uiop"></div>
                     <div className="uiop clr">
                         <h3>NCX</h3>
-                        <Button href="#" className="open_acnt">Open an Account</Button>
+                        {/* <Button href="#" className="open_acnt">Open an Account</Button> */}
                     </div>
                     <div className="uiop">
                         <h3>Binance</h3>
-                        <div className="bynt">
+                        {/* <div className="bynt">
                             <p>$5bn </p>
                             <span>Daily Trading Volume</span>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="uiop">
                         <h3>Uniswap</h3>
-                        <div className="bynt">
+                        {/* <div className="bynt">
                             <p>$500m </p>
                             <span>Daily Trading Volume</span>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="uiop">
                         <h3>Bitfinex</h3>
-                        <div className="bynt">
+                        {/* <div className="bynt">
                             <p>$200m </p>
                             <span>Daily Trading Volume</span>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="uiop">
                         <h3>Pancakeswap</h3>
-                        <div className="bynt">
+                        {/* <div className="bynt">
                             <p>$250m </p>
                             <span>Daily Trading Volume</span>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
            </div>
             <div className="container">
                 <div className="tlbe__bb">
+                    <div id="ngbv" className="lkj head">
+                        <div className="uiop"></div>
+                        <div className="uiop clr">
+                            <Button href="#" className="open_acnt">Open an Account</Button>
+                        </div>
+                        <div className="uiop">
+                            <div className="bynt">
+                                <p>$5bn </p>
+                                <span>Daily Trading Volume</span>
+                            </div>
+                        </div>
+                        <div className="uiop">
+                            <div className="bynt">
+                                <p>$500m </p>
+                                <span>Daily Trading Volume</span>
+                            </div>
+                        </div>
+                        <div className="uiop">
+                            <div className="bynt">
+                                <p>$200m </p>
+                                <span>Daily Trading Volume</span>
+                            </div>
+                        </div>
+                        <div className="uiop">
+                            <div className="bynt">
+                                <p>$250m </p>
+                                <span>Daily Trading Volume</span>
+                            </div>
+                        </div>
+                    </div>
                     <div className="lkj">
                         <div className="uiop"><p className="nhgt">Fees</p></div>
                         <div className="uiop clr"><p>0.12%</p></div>
