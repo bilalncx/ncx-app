@@ -1,5 +1,45 @@
 const data = [
   {
+    id: 530,
+    title: 'Biden signs debt ceiling bill that pulls US back from brink of unprecedented default',
+    category: 'Markets',
+    subCategory: ['Biden', 'debt', 'default'],
+    description: <div className="blog-desc">
+      <p>WASHINGTON (AP) — With just two days to spare, President Joe Biden signed legislation on Saturday that lifts the nation’s debt ceiling, averting an unprecedented default on the federal government’s debt.</p>
+    </div>,
+    authorName: 'CHRIS MEGERIAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 3, 2023 - 8:09 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-597.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>WASHINGTON (AP) — With just two days to spare, President Joe Biden signed legislation on Saturday that lifts the nation’s debt ceiling, averting an unprecedented default on the federal government’s debt.</p>
+    	<p>It was a decidedly low-key denouement to a monthslong drama that unnerved financial markets at home and abroad and caused anxious retirees and social service organizations to make contingency plans in case the country was unable to pay all its bills.</p>	
+    	<p>Instead of holding a public ceremony with lawmakers from both parties — showcasing the bipartisanship that Biden had cited in an Oval Office address on Friday evening — the president signed the legislation in private in a reflection of the tight deadline facing the nation's leaders.</p>	
+    	<p>The Treasury Department had warned that the country would start running short of cash on Monday, which would have sent shockwaves through the U.S. and global economies.</p>
+      <p>The White House released a picture of the president signing the legislation at the Resolute Desk. In a brief statement, Biden thanked Democratic and Republican congressional leaders for their partnership, a cordial message that contrasted with the rancor that initially characterized the debt debate.</p>
+      <p>“No matter how tough our politics gets, we need to see each not as adversaries, but as fellow Americans,” Biden said in a video message released after the signing. He said it was important to “stop shouting, lower the temperature, and work together to pursue progress, secure prosperity and keep the promise of America for everybody.”</p>
+      <p>The standoff began when Republicans refused to raise the country’s borrowing limit unless Democrats agreed to cut spending. Eventually, the White House began weeks of intense negotiations with House Speaker Kevin McCarthy, R-Calif., to reach a deal.</p>
+      <p>The final agreement, passed by the House on Wednesday and the Senate on Thursday, suspends the debt limit until 2025 — after the next presidential election — and restricts government spending. It gives lawmakers budget targets for the next two years in hopes of assuring fiscal stability as the political season heats up.</p>
+      <p>Raising the nation’s debt limit, now at $31.4 trillion, will ensure that the government can borrow to pay debts already incurred.</p>
+      <p>After Congress passed the legislation, Biden used the occasion to deliver his first speech from the Oval Office as president on Friday.</p>
+      <p>“No one got everything they wanted but the American people got what they needed,” he said, highlighting the “compromise and consensus” in the deal. “We averted an economic crisis and an economic collapse.”</p>
+      <p>Biden touted the achievements of his first term as he runs for reelection, including support for high-tech manufacturing, infrastructure investments and financial incentives for fighting climate change. He also highlighted ways he blunted Republican efforts to roll back his agenda and achieve deeper cuts.</p>
+      <p>“We’re cutting spending and bringing deficits down at the same time,” Biden said. “We're protecting important priorities from Social Security to Medicare to Medicaid to veterans to our transformational investments in infrastructure and clean energy.”</p>
+      <p>Biden's remarks were the most detailed comments from the Democratic president on the compromise he and his staff negotiated. He largely remained quiet publicly during the high-stakes talks, a decision that frustrated some members of his party but was intended to give space for both sides to reach a deal and for lawmakers to vote it to his desk.</p>
+      <p>Biden praised McCarthy and his negotiators for operating in good faith, and all congressional leaders for ensuring swift passage of the legislation. “They acted responsibly, and put the good of the country ahead of politics,” he said.</p>
+      <p>In addition to restrictions on spending, the 99-page bill changes some policies, including imposing new work requirements for older Americans receiving food aid and greenlighting an Appalachian natural gas pipeline that many Democrats oppose. Some environmental rules were modified to help streamline approvals for infrastructure and energy projects — a move long sought by moderates in Congress.</p>
+      <p>The Congressional Budget Office estimates the legislation could actually expand total eligibility for federal food assistance, with the elimination of work requirements for veterans, homeless people and young people leaving foster care.</p>
+      <p>The legislation also bolsters funds for defense and veterans, cuts back some new money for the Internal Revenue Service and rejects Biden’s call to roll back Trump-era tax breaks on corporations and the wealthy to help cover the nation’s deficits. But the White House said the IRS' plans to step up enforcement of tax laws for high-income earners and corporations would continue.</p>
+      <p>The agreement imposes an automatic overall 1% cut to spending programs if Congress fails to approve its annual spending bills — a measure designed to pressure lawmakers of both parties to reach consensus before the end of the fiscal year in September.</p>
+      <p>In both chambers, more Democrats backed the legislation than Republicans, but both parties were critical to its passage. In the Senate the tally was 63-36 including 46 Democrats and independents and 17 Republicans in favor, 31 Republicans along with four Democrats and one independent who caucuses with the Democrats opposed.</p>
+      <p>The vote in the House was 314-117.</p>
+      <p>AP Congressional Correspondent Lisa Mascaro contributed to this report.</p>
+    </div>
+  },
+  {
     id: 529,
     title: 'Sharp Rally in Chinese Stocks Falls Short of Dispelling Gloom',
     category: 'Markets',

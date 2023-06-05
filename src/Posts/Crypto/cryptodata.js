@@ -1,5 +1,125 @@
 const data = [
   {
+    id: 547,
+    title: 'Ripple locks 700M tokens as XRP turns 11',
+    category: 'Crypto',
+    subCategory: ['Ripple', 'tokens', 'XRP'],
+    description: <div className="blog-desc">
+      <p>XPR has now existed for eleven years, bringing its all-time performance to an impressive number.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 3, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-600.jpg',
+    content: <div className="blog-content">
+    	<h3>In this articel:</h3>
+    	<p>XPR has now existed for eleven years, bringing its all-time performance to an impressive number.</p>
+      <ul>
+        <li>The blockchain firm locked millions of XPR as part of its usual monthly procedure.</li>
+        <li>XRP circulation increased in the last seven days.</li>
+      </ul>
+    	<p>The Ripple [XRP] token marked the 11th anniversary of its creation since the founding team developed it back on 2 June 2012. With the aim to create a better Bitcoin [BTC] version, David Schwarts, alongside Arthur Brito and Jed McCaleb, decided to create XPR on its own ledger— the XRP Ledger (XRPL).</p>	
+    	<h3>Bolt-on the process</h3>
+      <p>At press time, XRP’s value was $0.51. This represented an 8,679.89% hike in the price since it began trading live in the market.</p>	
+    	<p>Prior to the commemoration, Ripple, the company behind the digital asset locked 700 million XRP tokens into a series of escrows.</p>
+      <p>This move was part of Ripple’s ongoing efforts to manage the supply and distribution of XRP. The XRP escrow mechanism was designed to ensure a steady and predictable release of XRP into the market.</p>	
+    	<p>Each month, a portion of the escrowed XRP is released, while the remaining amount is returned to a new escrow for future release.</p>
+      <p>Although introduced in 2017, this process helps prevent large amounts of XRP from flooding the market at once, which could potentially impact its price and market stability. By locking 700 million XRP, Ripple demonstrated its commitment to responsible token management and reducing any potential concerns of market manipulation.</p>	
+    	<h3>Decreasing issuance rising participation</h3>
+      <p>Despite the action, the daily net amount of XRPL trust lines remained in the negative region at -2700. Trust lines are structures in the XRP ledger dedicated to holding XRP tokens. This decrease means that the momentum of  XRP issuance slowed down.</p>
+      <p>Concerning its development activity, Ripple has not held back despite facing regulatory challenges. The metric served as a measure of the public GitHub contribution to the Ripple network.</p>	
+    	<p>As of this writing, the metric was 5.17, as shown above. Hence, this suggested increased deduction toward polishing the Ripple blockchain.</p>
+      <p>In addition, XRP’s seven-day circulation increased to 2.93 billion. Circulation reflected the number of unique tokens transacted within a day.</p>	
+    	<p>Oftentimes, an increase in this metric means increased trading activity. However, its increase implies a hesitation in market participation. However, this has failed to show in the transaction which has severely decreased since 28 May.</p>
+      <p>In conclusion, Ripple’s decision to lock a significant amount of XRP in escrow aligns with its long-term strategy. One such happens to be its aim to foster confidence and trust in the XRP ecosystem.</p>	
+    	<p>As for the token, short to long-term performance might depend on the final judgment in its case with the SEC. For now, the community is optimistic about the outcome.</p>
+    </div>
+  },
+  {
+    id: 546,
+    title: 'These Bitcoin metrics signal potential bull run as…',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'metrics', 'bull'],
+    description: <div className="blog-desc">
+      <p>Amidst the wild price swings, Bitcoin’s Realized Cap finds stability, hinting at a potential bull run. Miners profit as price falters in recent trades.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 3, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-599.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Amidst the wild price swings, Bitcoin’s Realized Cap finds stability, hinting at a potential bull run. Miners profit as price falters in recent trades.</p>
+      <ul>
+        <li>Bitcoin’s Realized Cap stabilizes and shows positive signs, potentially driving a bull run.</li>
+        <li>BTC miners enjoy profitable returns while the cryptocurrency’s price experiences a slight loss in recent trading.</li>
+      </ul>
+    	<p>Bitcoin’s price has been on a rollercoaster ride lately, showing signs of volatility over the past few months. However, amidst these fluctuations, there were some encouraging developments to note.</p>	
+    	<p>Recent data suggested that BTC was experiencing a positive shift in one of its crucial metrics. This improvement could potentially play a significant role in driving its bull run.</p>	
+    	<h3>Bitcoin Realized Cap flashes positive</h3>
+      <p>The Bitcoin Realized Cap, an essential metric in on-chain analysis, holds significant importance as it serves as the on-chain counterpart to Market Cap. It evaluates the value of each coin in circulation based on its last on-chain movement.</p>
+      <p>After experiencing a notable outflow of capital, the Bitcoin Realized Cap has now stabilized and is starting to witness a net inflow of capital once again.</p>
+      <p>However, compared to previous bull market conditions, this trend was still in its early stages, both in terms of duration and magnitude, as indicated by the recent Glassnode chart. Examining the Net Position Change of the realized BTC market cap revealed that it was currently positive but fading.</p>
+      <p>As of this writing, the Relative Net Position change stood at approximately 1.19%. Moreover, the Realized Cap remained consistent at over $391.7 million for the past month.</p>
+      <h3>Percent Supply in profit sees an uptrend</h3>
+      <p>As the Realized Cap showed positive developments after over a year of being below it, the Bitcoin Percent Supply in Profit also experienced some upward movement.</p>
+      <p>Analyzing the chart based on Glassnode data, this metric initiated an upward trend at the beginning of the year, reversing the decline observed in the previous year.</p>
+      <p>As of this writing, the Percent Supply in Profit stood at over 68.4% based on the current spot price.</p>
+      <p>While this signified a substantial profit level, it was still lower than the levels reached during the previous year before the decline occurred.</p>
+      <h3>BTC miners enjoy profitable returns</h3>
+      <p>Bitcoin miners have been experiencing a favorable trend in recent weeks, enjoying positive momentum. Despite the prevailing market conditions, Bitcoin miners have managed to maintain profitability.</p>
+      <p>According to a recent Glassnode chart, they collectively generated a noteworthy revenue of $24.1 million, which included earnings from the Block Subsidy and Transaction Fees. Considering an estimated production cost of $19.1 million, this translated to a net profit exceeding $5 million.</p>
+      <p>Given the sustained growth in transactions on the Bitcoin network and an upward trajectory in price, there was potential for the profit margin to expand further.</p>
+      <h3>Bitcoin Daily timeframe chart</h3>
+      <p>Following a modest upward movement in Bitcoin’s price towards the end of trading on June 2nd, the cryptocurrency began the current trading period with a slight loss. As of this writing, it was trading at approximately $27,220, reflecting a minor decrease of less than 1%.</p>
+      <p>The volume indicator indicated a lack of significant activity in BTC’s movement, suggesting a relatively quiet market.</p>
+      <p>Additionally, BTC was trapped in a bearish trend, as indicated by its Relative Strength Index (RSI) line, which remained below the neutral line.</p>
+    </div>
+  },
+  {
+    id: 545,
+    title: 'Shiba Inu in liquidity squeeze – End of the road for SHIB?',
+    category: 'Crypto',
+    subCategory: ['Shiba', 'liquidity', 'SHIB'],
+    description: <div className="blog-desc">
+      <p>As a tier-1 memecoin, Shiba Inu has struggled with attracting the kind of liquidity it had in 2021. The path ahead is limited for SHIB, so where can it head next?</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 3, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-598.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>As a tier-1 memecoin, Shiba Inu has struggled with attracting the kind of liquidity it had in 2021. The path ahead is limited for SHIB, so where can it head next?</p>
+    	<ul>
+        <li>Investors overlooked contributing to ShibaSwap’s TVL.</li>
+        <li>SHIB’s volume remains unimpressive while its price shredded significant numbers in the last 90 days.</li>
+      </ul>
+      <p>At the height of the 2021 bull market, Shiba Inu [SHIB] was at the forefront of leading price rallies. This performance, and the attention it gained, led ShibaSwap’s Total Value Locked (TVL) to hit as high as $1.75 billion.</p>	
+    	<p>For the unfamiliar, ShibaSwap is the native Decentralized Exchange (DEX) of the Shiba Inu ecosystem. The TVL measures the way users provide liquidity to stake and swap tokens on the exchange.</p>	
+    	<p>Unfortunately, the same TVL, which was in the billion-dollar range, had decreased massively. According to DefiLlama, ShibaSwap’s TVL was now $25.16 million.</p>
+      <h3>No longer enticing to the big guns?</h3>
+      <p>This depicts a situation where investors were no longer interested in adding volume to the smart contracts projects under the ecosystem. This affected ShibaSwap’s revenue and fees generated, all the while sparking speculation about a liquidity squeeze.</p>
+      <p>In crypto, a liquidity squeeze occurs when there is a lack of deposits and conversion in transactions in a cryptocurrency. Sometimes, this results from the lack of contribution by whales.</p>
+      <p>On evaluating on-chain data, Santiment revealed that investors who hold between 1-1,000,000 SHIB tokens have been increasing their balance. This implies that the retail cohort somewhat believes in the long-term performance of the meme.</p>
+      <p>However, it was a different situation with addresses that hold between 1,000,000-1,000,000,000 tokens. In this division, there were mostly cuts from the balances.</p>
+      <p>This signifies profit-taking and a possible belief that SHIB may no longer produce the sort of performance when it came into the spotlight.</p>
+      <h3>Shrink in volume and wakening holders</h3>
+      <p>As for the volume, it was only occasionally that the metric reached impressive levels. At press time, SHIB’s volume was down to 78.14 million.</p>
+      <p>This metric measures the level of trading activity of a cryptocurrency in the entire market. And when the volume increases, it signifies a high demand for the asset in question. But in SHIB’s case, it was the opposite.</p>
+      <p>Furthermore, the dormant circulation, although minimal in the last 365 days, has been relatively frequent in the last 90 days.</p>
+      <p>The metric shows the number of unique tokens transacted daily that have not moved in a long while. When blockchain data shows a notable spike in the metric, it means that long-term holders have moved a considerable number of tokens.</p>
+      <p>And according to Santiment’s data above, SHIB’s 90-day dormant circulation hit trillions several times between March and the time of writing. Thus, there was a possibility that these tokens were moved into exchanges.</p>
+      <p>At press time, SHIB exchanged hands at $0.000009. This represented a 23.09% decrease in value in the last three months.</p>
+    </div>
+  },
+  {
     id: 541,
     title: 'Bitcoin rises above US$27,000, Litecoin leads gains among top 10 cryptos',
     category: 'Crypto',
