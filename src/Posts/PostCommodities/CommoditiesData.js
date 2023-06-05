@@ -1,5 +1,39 @@
 const data = [
   {
+    id: 519,
+    title: 'Oil rises on Saudi plan to deepen output cuts from July',
+    category: 'Commodities',
+    subCategory: ['oil', 'Saudi', 'rises'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices rose by more than $1 a barrel on Monday after top crude exporter Saudi Arabia pledged to cut production by a further 1 million barrels per day (bpd) from July to counter macroeconomic headwinds that have depressed markets.</p>
+    </div>,
+    authorName: 'Noah Browning',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 2:33 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-602.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Noah Browning</p>
+    	<p>LONDON (Reuters) -Oil prices rose by more than $1 a barrel on Monday after top crude exporter Saudi Arabia pledged to cut production by a further 1 million barrels per day (bpd) from July to counter macroeconomic headwinds that have depressed markets.</p>	
+    	<p>Brent crude futures were up $1.37, or 1.8%, at $77.50 a barrel by 1100 GMT after touching a session high of $78.73.</p>	
+    	<p>U.S. West Texas Intermediate crude climbed by $1.39, or 1.9%, to $73.13 after hitting an intraday high of $75.06.</p>
+      <p>Both contracts extended gains of more than 2% on Friday after the Saudi energy ministry said the kingdom's output would drop to 9 million bpd in July from about 10 million bpd in May. The cut is Saudi Arabia's biggest in years.</p>	
+    	<p>The voluntary cut is on top of a broader deal by the Organization of the Petroleum Exporting Countries (OPEC) and allies including Russia to limit supply into 2024 as the OPEC+ producer group seeks to boost flagging oil prices.</p>
+      <p>OPEC+ pumps about 40% of the world's crude and has cut its output target by a total of 3.66 million bpd, amounting to 3.6% of global demand.</p>	
+    	<p>"Saudi remains keener than most other members in terms of ensuring oil prices above $80 per barrel, which is essential for balancing its own fiscal budget for the year," said Suvro Sarkar, leader of the energy sector team at DBS Bank.</p>
+      <p>SEB analyst Bjarne Schieldrop said the market reaction on Monday was relatively muted after the previous cut by OPEC+ failed to prop up prices for long.</p>	
+    	<p>"The oil price is ticking carefully upwards today as investors are cautious after having burned their fingers in the (previous) production cut-induced rally to (almost) $90 a barrel, which later faltered."</p>
+      <p>Consultancy Rystad Energy said the additional Saudi cut is likely to deepen the market deficit to more than 3 million bpd in July, which could push prices higher in the coming weeks.</p>	
+    	<p>Goldman Sachs analysts said the meeting was "moderately bullish" for oil markets and could boost December 2023 Brent prices by between $1 and $6 a barrel depending on how long Saudi Arabia maintains output at 9 million bpd over the next six months.</p>
+      <p>"The immediate market impact of this Saudi cut is likely lower, as drawing inventories takes time, and the market likely already put some meaningful probability on a cut today," the bank's analysts added.</p>	
+    	<p>Many of the OPEC+ reductions will have little real impact, however, as the lower targets for Russia, Nigeria and Angola bring them into line with their actual production levels.</p>
+      <p>In contrast, the United Arab Emirates (UAE) was allowed to raise output targets by 200,000 bpd to 3.22 million bpd to reflect its larger production capacity.</p>	
+    	<p>(Reporting by Noah BrowningAdditional reporting by Florence Tan and Emily ChowEditing by David Goodman)</p>
+    </div>
+  },
+  {
     id: 518,
     title: 'Exxon, Chevron Near Deals to Drill in Gas-Rich Algeria',
     category: 'Commodities',
