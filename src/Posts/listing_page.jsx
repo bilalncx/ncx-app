@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
+                            <a href="/post-commodities/519" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-602.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 5, 2023 - 2:33 AM</p>
+                                <h1>Oil rises on Saudi plan to deepen output cuts from July</h1>
+                                <p>LONDON (Reuters) -Oil prices rose by more than $1 a barrel on Monday after top crude exporter Saudi Arabia pledged to cut production by a further 1 million barrels per day (bpd) from July</p>
+                            </a>
+                            <a href="/post-crypto/548" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-603.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 5, 2023 - 4:28 AM</p>
+                                <h1>Bitcoin little-changed around US$27,000, Ether treads water; Solana, XRP gain</h1>
+                                <p>Bitcoin traded little changed on Monday morning in Asia to hold above the US$27,000 threshold. Ether also traded flat, along with most other top 10 non-stablecoin cryptocurrencies.</p>
+                            </a>
+                            <a href="/post-markets/531" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-601.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 5, 2023 - 12:31 PM</p>
+                                <h1>Teslas China-made EV sales rose 2.4% in May from April - CPCA</h1>
+                                <p>BEIJING (Reuters) - U.S. automaker Tesla Inc delivered 77,695 China-made electric vehicles (EVs) in May, a 2.4% jump from April, data from the China Passenger Car Association (CPCA) showed on Monday.</p>
+                            </a>
                             <a href="/post-markets/526" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-586.jpg" alt="art_pic"/></div>
                                 <p className="dat"> June 2, 2023 - 12:27 AM</p>
                                 <h1>Tech stocks are booming in 2023 - but there are 3 specific names that investors should be paying attention to, analyst says</h1>
                                 <p>It's been a great year for the technology sector, with the Nasdaq Composite up nearly 25% since the start of 2023.</p>
-                            </a>
-                            <a href="/post-markets/524" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-588.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 1, 2023 - 10:21 PM</p>
-                                <h1>Apple Plans Major Retail Push With New Stores Across China, US</h1>
-                                <p>(Bloomberg) -- Apple Inc. is working on plans to expand and revitalize its retail chain, aiming to push deeper into China and other parts of Asia while overhauling established locations in the US and Europe.</p>
-                            </a>
-                            <a href="/post-crypto/540" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-576.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 1, 2023 - 12:26 AM</p>
-                                <h1>Bitcoin prices fall 7% in May, on pace for first monthly loss of 2023</h1>
-                                <p>Bitcoin is on track to post its first monthly loss of 2023, as the cryptocurrency hovers above $27,000. Yahoo Finance crypto reporter David Hollerith takes a look at how the cryptocurrency</p>
-                            </a>
-                            <a href="/post-commodities/515" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-590.jpg" alt="art_pic"/></div>
-                                <p className="dat"> May 31, 2023 - 1:37 PM</p>
-                                <h1>Europes biggest gas supplier says all clear from pipeline security checks</h1>
-                                <p>BERGEN, Norway (Reuters) - Inspections of Norway's offshore gas pipelines after the Nord Stream blasts found nothing suspicious,</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
