@@ -11,7 +11,7 @@ function CardNewFaqSection()
             <div className="container">
                 <div className="row aeewf">
                     <div className="col verhnb">
-                        <h1>Learn more about the metal <br/> NCX Debit Card</h1>
+                        <h1>Learn more about NCX <br/>Crypto Card</h1>
                     </div>
                     <div className="col vwev">
                         <div className="accordian">

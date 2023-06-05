@@ -4,7 +4,7 @@ div#pagenot_found {
 }
 .contfound img {
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
 }
 .contfound {
     height: 100%;
@@ -43,7 +43,7 @@ div#pagenot_found {
 
 @media screen and (max-width: 800px){
     .contfound img{
-        max-width: 250px;
+        max-width: 200px;
     }
     .contfound h1{
         font-size: 26px;

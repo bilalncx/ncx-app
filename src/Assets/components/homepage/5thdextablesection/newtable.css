@@ -34,17 +34,22 @@ a.open_acnt {
     font-family: 'urbanist-medium';
     text-transform: initial;
     letter-spacing: 0;
-    color: #000000;
-    background: #FFFFFF;
+    color: #FFFFFF;
+    background: transparent;
     padding: 10px 15px;
     width: fit-content;
     line-height: 17px;
     border-radius: 5px;
     border: 1px solid #FFFFFF;
 }
+a.open_acnt:hover, a.open_acnt:focus, a.open_acnt:focus-visible{
+    outline: none;
+    text-decoration: none;
+    box-shadow: none;
+}
 a.open_acnt:hover{
-    background: transparent;
-    color: #FFFFFF;
+    background: #FFFFFF;
+    color: #000000;
     border: 1px solid #FFFFFF;
 }
 .lkj.head{
@@ -93,11 +98,11 @@ p.nhgt span{
     margin-bottom: 60px;
 }
 .bf__pok h1 {
-    font-size: 48px;
-    line-height: 58px;
-    margin-bottom: 10px;
+    font-size: 40px;
+    line-height: 50px;
     color: #FFFFFF;
     font-family: 'urbanist-regular';
+    text-align: center;
 }
 .bf__pok p {
     color: #FFFFFF;

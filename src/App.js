@@ -12,7 +12,7 @@ import CookiePolicy from './Assets/pages/cookie-policy/cookie-policy';
 import APIDocumentation from './Assets/pages/api-documentation/api-documentation';
 import BuyCrypto from './Assets/pages/buy_crypto/buy-crypto';
 import TaskReward from './Assets/pages/taskrewards/taskreward';
-import NCXCard from './Assets/pages/ncxcard/ncxcard';
+// import NCXCard from './Assets/pages/ncxcard/ncxcard';
 import NCXOTC from './Assets/pages/ncxotcpage/otc';
 import NCXAmbassador from './Assets/pages/ncx-ambassador/ambassador';
 import NCXMarketMaker from './Assets/pages/ncx-marketmakers/marketmaker';
@@ -60,7 +60,7 @@ const App = () => {
           <Route path='/api-agreement' element={<APIDocumentation />}/>
           <Route path='/buy-crypto' element={<BuyCrypto />}/>
           <Route path='/rewards' element={<TaskReward />} />
-          <Route path='/ncx-card' element={<NCXCard />}/>
+          <Route path='/ncx-card' element={<NCXCardPage />}/>
           <Route path='/ncx-otc' element={<NCXOTC />} />
           <Route path='/ncx-ambassador' element={<NCXAmbassador />} />
           <Route path='/market-makers' element={<NCXMarketMaker />} />
@@ -91,7 +91,7 @@ const App = () => {
           <Route path='/post-commodities/:id' element={<PostCommoditiesDetails />} />
           <Route path='/post-markets' element={<PostMarketList />}/>
           <Route path='/post-markets/:id' element={<PostMarketDetails />} />
-          <Route path='/new-card' element={<NCXCardPage />} />
+          {/* <Route path='/new-card' element={<NCXCard />} /> */}
         </Routes>
       </BrowserRouter>
     // </div>
