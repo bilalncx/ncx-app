@@ -133,7 +133,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     margin-top: 40px;
 }
 .card_box .container:after, .card_exprnc .container:after, .aerv .container:after, .slvs .inservv:after,
-.berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after, .integr__pla .container:after{
+.berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after, .integr__pla .container:after, .bvc_mnb .container:after{
     content: '';
     background: rgba(255,255,255,0.25);
     width: -webkit-fill-available;
@@ -452,6 +452,80 @@ h1.rnag_gg {
 }
 
 
+/* CardPage First New Section */
+.new_cverd header#header-row {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+.new__crf {
+    margin-top: -56px;
+    max-height: 922px;
+    position: relative;
+}
+.bgt_hyn{
+    max-height: 922px;
+}
+.bgt_hyn video {
+    width: 100%;
+    max-height: 922px;
+    object-fit: cover;
+    object-position: center center;
+}
+.bvc_mnb {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    height: -webkit-fill-available;
+}
+.bvc_mnb .container {
+    width: 100% !important;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+}
+.bvc_mnb .container h1 {
+    font-size: 46px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    font-weight: 400;
+}
+a.bnb_mki {
+    width: 160px;
+    height: 52px;
+    background: rgba(255, 255, 255, 0.01);
+    border: 1px solid #F9F9F7;
+    backdrop-filter: blur(10px);
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-transform: initial;
+    font-family: 'urbanist-medium';
+}
+a.mki__lo {
+    width: 140px;
+    height: 52px;
+    background: rgba(255, 255, 255, 0.01);
+    border: 1px solid #F9F9F7;
+    backdrop-filter: blur(10px);
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    text-transform: inherit;
+    letter-spacing: 0;
+    border-radius: 6px;
+}
+.hyng {
+    gap: 16px;
+    display: flex;
+}
+
 
 
 
@@ -547,7 +621,7 @@ img.mbL_fwc{
         gap: 15px !important;
     }
     .card_box .container:after, .card_exprnc .container:after, .aerv .container:after, .slvs .inservv:after,
-    .berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after{
+    .berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after, .bvc_mnb .container:after{
         margin: 0px 20px !important;
     }
     .card_box, .card_exprnc, .aerv, .slvs, .berfvc, .range_cards, .integr__pla{

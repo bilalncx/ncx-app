@@ -1,6 +1,7 @@
 import React from "react";
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
+import CardFirstNew from "../../components/cardpage/newcardpagedesign/new_firstsection";
 import CardBoxSection from '../../components/cardpage/newcardpagedesign/cardbox';
 import NCXContact from "../../components/cardpage/newcardpagedesign/contact";
 import CardNewFaqSection from "../../components/cardpage/newcardpagedesign/faq";
@@ -18,7 +19,9 @@ function NCXCardPage()
         <div className="new_cverd">
             <MyHeader />
 
-            <CardNewPageFirst />
+            <CardFirstNew />
+
+            {/* <CardNewPageFirst /> */}
 
             <div className="mbl_vevrf">
                 <CardLogoSlider />
