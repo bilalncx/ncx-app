@@ -86,7 +86,7 @@ a.bgfgb:hover{
         display: block;
         margin-top: 0px;
     }
-    #bgf__qas .bgt_hyn video {
+    #bgf__qas .bgt_hyn video, #bgf__qas .bgt_hyn, #bgf__qas .new__crf {
         width: 100% !important;
         min-height: 350px;
     }
@@ -103,6 +103,10 @@ a.bgfgb:hover{
         height: 36px;
         font-size: 12px;
         line-height: 20px;
+    }
+    #bgf__qas .bvc_mnb .container {
+        padding-bottom: 0px !important;
+        gap: 15px;
     }
 }
 
@@ -139,4 +143,7 @@ a.bgfgb:hover{
     width: 48%;
     background: linear-gradient(90deg,#fff,hsla(0,0%,100%,0));
     right: 2.1%;
+}
+#bgf__qas .bvc_mnb .container{
+    padding-bottom: 30px !important;
 }
