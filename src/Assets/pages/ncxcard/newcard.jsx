@@ -1,4 +1,5 @@
 import React from "react";
+import './ncxcard.css';
 import MyHeader from '../../components/header/header';
 import MyFooter from '../../components/footer/footer';
 import CardFirstNew from "../../components/cardpage/newcardpagedesign/new_firstsection";
