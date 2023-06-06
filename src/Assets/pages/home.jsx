@@ -43,7 +43,7 @@ import HomeBannerSection from "../components/homepage/banner/ban";
 import NCXCardRanges from "../components/cardpage/newcardpagedesign/card_ranges";
 import NewFeatureSection from "../components/homepage/5thdextablesection/newtable";
 import HomeNCXCardBox from "../components/homepage/HomeCardBox/cardbox";
-import CardFirstNew from "../components/cardpage/newcardpagedesign/new_firstsection";
+import HomeCardVideo from "../components/homepage/HomeCardBox/homecardvideo";
 
 
 function MainHome()
@@ -118,9 +118,7 @@ function MainHome()
 
             <NewFeatureSection />
 
-            <div id="bgf__qas">
-                <CardFirstNew />
-            </div>
+            <HomeCardVideo />
 
             <HomeNCXCardBox />
 

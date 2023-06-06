@@ -957,39 +957,11 @@ img.mbL_fwc{
     .new__crf{
         display: none;
     }
-    #bgf__qas .new__crf{
-        display: block;
-        margin-top: 0px;
-    }
-    #bgf__qas .bgt_hyn video {
-        width: 100% !important;
-        min-height: 350px;
-    }
-    #bgf__qas .new__crf .bvc_mnb h1 {
-        font-size: 24px;
-    }
-    #bgf__qas .new__crf .bvc_mnb a.bnb_mki {
-        width: 110px;
-        height: 36px;
-        font-size: 12px;
-    }
-    #bgf__qas .new__crf .bvc_mnb a.mki__lo {
-        width: 90px;
-        height: 36px;
-        font-size: 12px;
-        line-height: 20px;
-    }
 }
 
 
 
 /* Homepage CSSS */
 section.bg-dark .range_cards .container:after {
-    display: none;
-}
-#bgf__qas .new__crfm, #bgf__qas .bgt_hyn, #bgf__qas .bgt_hyn video {
-    max-height: 800px;
-}
-#bgf__qas .bvc_mnb .container:after{
     display: none;
 }
