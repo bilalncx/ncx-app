@@ -145,7 +145,7 @@ ul.navlink li {
     border: 1px solid #FFFFFF;
     border-radius: 7px;
 }
-a.header-more, li.main_title.white_bg:last-child a{
+a.header-more{
     padding: 16px 0px;
 }
 /* ************************************************************************** */
@@ -583,6 +583,10 @@ div#tran_lang svg path {
         width: fit-content !important;
         padding: 6px 5px !important;
     }
+    #header-row .MuiToolbar-regular {
+        min-height: -webkit-fill-available !important;
+        padding: 0px 20px !important;
+    }
 }
 @media screen and (min-width: 801px) and (max-width: 1170px){
     .logo-nav{
@@ -602,8 +606,20 @@ div#tran_lang svg path {
         padding: 6px 10px !important;
     }
     #main-header .login-buttons a{
-        font-size: 13px !important;
-        height: 30px !important;
+        font-size: 11px !important;
+        height: 24px !important;
+        min-width: max-content !important;
+        padding: 5px 13px !important;
+    }
+    ul.navlink li{
+        display: flex;
+    }
+    a.header-more{
+        display: flex;
+        padding: 11px 0px;
+    }
+    .translate_lng {
+        padding: 16px 0px;
     }
     .storeicons{
         column-gap: 12px;
@@ -611,7 +627,7 @@ div#tran_lang svg path {
         height: 30px;
     }
     #tran_lang h1{
-        font-size: 13px !important;
+        font-size: 11px !important;
     }
     div#tran_lang svg {
         width: 7px;
@@ -619,6 +635,18 @@ div#tran_lang svg path {
     }
     .downloadQRCode{
         display: none !important;
+    }
+    .login-buttons{
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        height: 35px;
+    }
+    .login-buttons a{
+        margin: 0px !important;
+    }
+    div#tran_lang{
+        align-items: center;
     }
 }
 @media screen and (min-width: 801px) and (max-width: 1010px){
@@ -682,6 +710,9 @@ div#tran_lang svg path {
     }
     .storeicons svg {
         width: 12px;
+    }
+    ul.navlink{
+        column-gap: 10px !important;
     }
 }
 /* @media screen and (min-width: 801px) and (max-width: 1000px){

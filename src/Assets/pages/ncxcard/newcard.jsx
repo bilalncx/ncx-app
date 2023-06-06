@@ -21,7 +21,7 @@ function NCXCardPage()
 
             <CardFirstNew />
 
-            {/* <CardNewPageFirst /> */}
+            <CardNewPageFirst />
 
             <div className="mbl_vevrf">
                 <CardLogoSlider />
