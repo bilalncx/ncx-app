@@ -1,5 +1,277 @@
 const data = [
   {
+    id: 550,
+    title: 'Investors race to withdraw deposits from Binance amid web of deception claims - latest updates',
+    category: 'Crypto',
+    subCategory: ['deposits', 'withdraw', 'Binance'],
+    description: <div className="blog-desc">
+      <p>Investors have pulled around $780m (£628.4m) from crypto exchange Binance in the last 24 hours, data company Nansen has said, as US regulators accused the trading platform and its founder of a “web of deception”.</p>
+    </div>,
+    authorName: 'Chris Price',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 6, 2023 - 1:58 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-607.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Investors have pulled around $780m (£628.4m) from crypto exchange Binance in the last 24 hours, data company Nansen has said, as US regulators accused the trading platform and its founder of a “web of deception”.</p>
+    	<p>The price of bitcoin has plunged by about 5pc since Monday to fall below £21,000 as the world’s largest crypto exchange and its chief executive Changpeng Zhao faced allegations of misusing investor funds, operating as an unregistered exchange and violating a slew of US securities laws.</p>	
+    	<p>The lawsuit filed by the SEC lists thirteen charges against the crypto trading platform — including mingling and diverting customer assets to an entity Mr Zhao owned called Sigma Chain.</p>	
+    	<p>The charges echo accusations levelled at the second largest cryptocurrency exchange, FTX, and its founder Sam Bankman-Fried after its collapse last year.</p>
+      <p>SEC chairman Gary Gensler in a written statement that Zhao and Binance “engaged in an extensive web of deception, conflicts of interest, lack of disclosure, and calculated evasion of the law”.</p>
+    	<p>He added: “The public should beware of investing any of their hard-earned assets with or on these unlawful platforms.”</p>	
+    	<p>In a social media post, Binance said that it has been cooperating with the SEC’s investigation but said that the agency “chose to act unilaterally and litigate.”</p>	
+    	<p>12:06 PM</p>
+      <h3>US markets on track to edge downward</h3>
+      <p>Wall Street is expected to slip at the opening bell as investors assess chances of the Federal Reserve holding interest rates at its meeting next week.</p>
+    	<p>The US services sector barely grew in May as new orders slowed, data on Monday showed, clouding the outlook for the Fed’s next move after strong jobs data on Friday.</p>	
+    	<p>Investors are now focused on inflation data due next week ahead of the Fed meet. Consumer prices are likely to have cooled slightly on a month-over-month basis in May but core prices are expected to have remained sticky.</p>	
+    	<p>US stocks have advanced in recent weeks, with a rally in megacap stocks, a stronger-than-expected earnings season and hopes of a pause in interest rate hikes pushing the benchmark S&P 500 and the tech-heavy Nasdaq to fresh 2023 highs on Friday.</p>
+      <p>In pre-market trading, the Dow Jones Industrial Average, S&P 500 and Nasdaq 100 were all down 0.1pc.</p>
+    	<p>11:47 AM</p>
+      <h3>Shell to sell UK home retail energy business</h3>
+    	<p>Shell has decided to exit its home retail energy businesses in Britain, Germany and the Netherlands due to their poor returns.</p>	
+    	<p>Shell launched a strategic review of its European retail businesses in January amid “tough market conditions,” shortly after chief executive Wael Sawan took office.</p>
+      <p>The company said:</p>
+    	<p>That review has now concluded and as a consequence, we intend to exit those businesses.</p>	
+    	<p>A sales process is already underway, with the intent to reach an agreement with a potential buyer in the coming months.</p>	
+    	<p>Three of Britain’s largest power providers have expressed interest in acquiring Shell’s UK retail business, Reuters reported last month.</p>
+      <p>11:20 AM</p>
+      <h3>Ryanair cancels 400 flights amid French strikes</h3>
+    	<p>Ryanair has blamed the cancellation of 400 flights today on strikes at French air traffic control, as it called for laws to protect flights which are travelling over countries.</p>	
+    	<p>It tweeted that the vast majority of services affected were to or from Ireland, the UK, Germany, Italy and Spain - not ones landing in France.</p>	
+    	<p>Last week, it submitted a petition signed by over 1.1m passengers “who are sick and tired of having their holidays destroyed because overflights are being unnecessarily cancelled” during French strikes.</p>
+      <p>The company said:</p>
+    	<p>While we respect the right of the French ATC unions to strike, it should be French domestic flights that get cancelled, not EU overflights.</p>	
+    	<p>France (and all other EU states) should use minimum service laws to protect overflights during air traffic control strikes as they already do in Greece, Italy and Spain.</p>	
+    	<p>We are calling on the EU Commission today to take action and protect overflights and stop the scandal of families having their holidays destroyed because their overflights are being unnecessarily cancelled at short notice due to repeated French ATC strikes.</p>
+      <p>11:05 AM</p>
+      <h3>CBI 'determined to learn from this crisis,' says new boss</h3>
+    	<p>The CBI’s new director-general has said the business group is “determined to learn from the crisis that has unfolded in our organisation” ahead of a crunch vote today for remaining members.</p>	
+    	<p>Rain Newton-Smith told BBC Radio 4’s Today programme:</p>	
+    	<p>Even throughout this crisis, the vast majority of the CBI members have stayed with us.</p>
+      <p>They’ve been very generous with their help, support and advice about the programme of change that we need to do, which is partly about our people and culture and putting that front and centre of the work we do.</p>
+    	<p>Ms Newton-Smith said the CBI has already implemented three-quarters of recommendations following a series of investigations.</p>	
+    	<p>I am coming back into this organisation as a female leader because I really believe in the power of having workplaces that are very inclusive and I’ve seen how the CBI has been able to do that in the past, but we clearly have work to do to improve our governance to also think about how we make it easy for people to speak up.</p>	
+    	<p>We could have just gone behind closed doors and not shared some of the learnings that we’re making.</p>
+      <p>So we’re being open about the journey we’re on, and I think that is what establishes trust from business, from government and from policymakers.</p>
+    	<p>10:48 AM</p>	
+      <h3>Pound loses momentum as dollar steadies</h3>
+    	<p>The pound has slipped 0.2pc against the dollar, trading at around $1.24, as a rebound stalled overnight.</p>	
+    	<p>The dollar has steadied after unexpectedly soft US services data on Monday firmed up expectations for a pause at the Federal Reserve’s meeting next week, but clouded the policy outlook for the months ahead.</p>
+      <p>Sterling has fallen 0.1pc against the euro, which is worth 86p.</p>
+    	<p>Meanwhile, gilts were up slightly, following gains on German bunds after a European Central Bank survey showed consumer expectations for euro-zone inflation decreased “significantly”.</p>	
+    	<p>Yields on 10-year UK gilts have slipped three basis points, while two-year bonds have dropped two points.</p>	
+    	<p>10:24 AM</p>
+      <h3>Investors 'pull £628m from crypto exchange Binance'</h3>
+      <p>Investors have pulled around $780m (£628.4m) from crypto exchange Binance in the last 24 hours, data company Nansen has said.</p>
+    	<p>The withdrawals come a day after the world’s biggest crypto trading platform and its founder Changpeng Zhao were sued by the US Securities and Exchange Commission.</p>	
+    	<p>Binance’s US affiliate exchange registered net outflows of $13m in the same period, Nansen said.</p>	
+    	<p>10:10 AM</p>
+      <h3>Oil prices slump despite Saudi Arabia's planned cuts</h3>
+      <p>Oil prices have declined as traders weighed up the outlook for demand after Saudi Arabia’s surprise pledge for extra supply cuts.</p>
+      <p>International benchmark Brent crude has fallen 2pc toward $75 a barrel, while US-produced West Texas Intermediate slumped 2.2pc below $71 a barrel.</p>
+    	<p>Prices had surged early on Monday following the Saudi announcement after a tense Opec+ meeting, before giving up most of the gains during the session. The kingdom also raised its crude prices to Asia for July.</p>	
+    	<p>Saudi Arabia pledged to do “whatever is necessary” to stabilise the market, revealing plans to cut production by a million barrels a day in July as concerns over the demand outlook, especially from China, weighed on prices.</p>	
+    	<p>Oil tumbled 11pc last month, in part due to resilient Russian output, despite the Opec+ producer saying earlier this year it would reduce supply.</p>
+      <p>09:56 AM</p>
+      <h3>HS2 and other public projects 'provide stability' to construction sector</h3>
+    	<p>Lloyds Bank’s infrastructure and construction team director Max Jones is optimistic about the UK construction industry, after the latest survey data showed the sector expanded in May. He said:</p>	
+    	<p>Contractors are generally optimistic as HS2 and other publicly funded projects provide stability to order books.</p>	
+    	<p>The industry has also been buoyed by demand for commercial projects in city centres, with London reaching a 20-year high.</p>
+      <p>Welcome regulatory changes post-Grenfell mean contractors will be making substantial investments in the coming months to ensure their safety measures meet new requirements.</p>
+      <p>While inflation has eased for most of the industry from last year’s highs, contractors will be hoping the latest official figures mean prices for materials will continue to fall and provide businesses with confidence to invest in projects.</p>
+    	<p>09:39 AM</p>	
+      <h3>Weaker housebuilding fails to dampen construction growth</h3>
+    	<p>The construction industry was boosted by the fastest increase in activity in three months in May, even as house building declined at its steepest pace for three years, according to a closely-watched survey.</p>	
+    	<p>The S&P Global/CIPS UK Construction Purchasing Managers’ Index picked up slightly to 51.6 in May, up from 51.1 in April and above the neutral 50 mark separating growth from contraction for the fourth successive month.</p>
+      <p>Commercial building was the best-performing segment but worries about the impact of higher interest rates and subdued market conditions continued to dampen housing activity.</p>
+    	<p>Residential work underperformed the rest of the construction sector by the greatest margin since October 2008.</p>	
+    	<p>Tim Moore, economics director at S&P Global Market Intelligence, said:</p>	
+    	<p>May data highlighted a mixed picture across the UK construction sector as solid growth rates in commercial and civil engineering activity contrasted with a steeper downturn in house building.</p>
+      <p>Rising demand among corporate clients and contract awards on infrastructure projects meanwhile underpinned the fastest rise in new orders since April 2022.</p>
+      <p>09:21 AM</p>
+      <h3>Russian-linked cyber gang claims responsibility for massive data theft</h3>
+    	<p>A Russian-speaking ransomware gang has claimed responsibility for the cyber attack in which thousands of British Airways, BBC and Boots employees may have had data stolen.</p>	
+    	<p>Cybercrime group Clop said it was behind the theft of information including bank account details and national security numbers.</p>	
+    	<p>The attack focused on Zellis, a company used to process payroll payments by a large number of major organisations including the NHS and Jaguar Land Rover. The hack is understood to have affected eight Zellis customers.</p>
+      <p>Hackers exploited a backdoor in a piece of software used by Zellis called MOVEit, which is used to transfer files.</p>
+    	<p>Progress Software, the maker of MOVEit, first identified the vulnerability last week. It told customers to “take immediate action” and delete any unauthorised user accounts added by hackers.</p>	
+    	<p>The Clop gang told BleepingComputer they started exploiting the vulnerability on May 27, during the long US Memorial Day holiday.</p>	
+    	<p>The ransomware gang added that they had deleted any data stolen from governments, the military, and children’s hospitals during these attacks.</p>
+      <p>09:04 AM</p>
+      <h3>China 'asks banks to cut deposit rates'</h3>
+    	<p>Chinese authorities have reportedly asked the nation’s biggest banks to lower their deposit rates for at least the second time in less than a year, marking an escalated effort to boost the world’s second-largest economy.</p>	
+    	<p>State-owned lenders including Bank of China, Industrial & Commercial Bank of China and Bank of Communications were last week advised to cut rates on a range of products, according to Bloomberg.</p>	
+    	<p>This included cutting on-demand deposits by five basis points and three-year and five-year time deposits by at least 10 basis points.</p>
+      <p>Banks are thought to be assessing the request and may adjust rates as early as this week.</p>
+    	<p>Beijing has rolled out a raft of measures to prop up the economy after a series of crackdowns on multiple industries and lengthy lockdowns due to its zero-Covid approach.</p>	
+    	<p>The authorities are seeking to boost lending to bolster a recovery after recent data showed a slowdown.</p>	
+    	<p>08:49 AM</p>
+      <h3>FTSE 100 dragged down by energy stocks</h3>
+      <p>Shares in London were subdued in early trading as markets were dragged down by energy stocks, while investors awaited a crucial inflation data as they assessed the prospect of a global economic slowdown.</p>
+      <p>The resource-heavy FTSE 100 slipped 0.2pc with energy stocks shedding 0.6pc tracking lower crude oil prices.</p>
+    	<p>Domestically-focused FTSE 250 midcap index was flat.</p>	
+    	<p>Markets are focused on the Purchasing Managers Index (PMI) for May, due out within the hour, after British retail sales growth slowed to a seven-month low during the same month.</p>	
+    	<p>Car and personal goods stocks were the top gainers, while shares of beverages were the worst hit.</p>
+      <p>British American Tobacco led gains on the FTSE 100, up 1.1pc, after the company maintained its annual revenue and profit forecasts.</p>
+    	<p>08:43 AM</p>	
+      <h3>CBI faces crunch vote on future</h3>
+    	<p>Scandal-hit business lobby group the CBI faces a vote crucial on its survival later today with members urged to back reform under new leadership following allegations of sexual harassment by staff.</p>	
+    	<p>The future of the Confederation of British Industry is at stake after claims that more than a dozen women were sexually harassed at the organisation and two others had been raped.</p>
+      <p>Police have launched an investigation following the allegations reported this year by the Guardian, triggering a shake-up at the organisation and an extraordinary vote on its future.</p>
+      <p>The allegations, described as “absolutely devastating” by new CBI director general Rain Newton-Smith, caused an exodus of member companies - and the launch of a rival body by the British Chambers of Commerce (BCC) on Monday.</p>
+    	<p>Ms Rain-Smith, who has described the situation as a “really deep and painful crisis” for the CBI, will tell delegates she is “confident and determined this will be a turning point for us, the start of a new chapter, for a renewed CBI”.</p>	
+    	<p>The resolution at the extraordinary general meeting, which begins at noon, calls on remaining member companies to put their confidence in CBI proposals to reform its “governance, culture, and purpose”.</p>	
+    	<p>The result of the vote is expected at around 4pm.</p>
+      <p>08:22 AM</p>
+      <h3>Crypto miner Argo Blockchain's losses widen</h3>
+    	<p>The UK’s only listed cryptocurrency miner has slumped to a first quarter loss even as the value of bitcoin surged and it reduced its operating expenses by 70pc.</p>	
+    	<p>Revenues at Argo Blockchain plunged by 41pc to $11.4m (£9.2m) during a volatile time for crypto amid global regulatory crackdowns.</p>	
+    	<p>The company mined a total of 491 bitcoin during the quarter, or 5.3 bitcoin per day, during a period when the value of the world’s largest cryptocurrency increased by 40pc.</p>
+      <p>Mining is the process of creating new bitcoins by solving extremely complicated math problems that verify transactions in the currency. It requires vast levels of computing power and energy costs.</p>
+      <p>Interim chief executive Seif El-Bakly said:</p>
+    	<p>The Argo team is moving ahead with a focus on financial discipline, operational excellence, and growth and strategic partnerships.</p>	
+    	<p>To support these initiatives, we recently strengthened our finance team and appointed Jim MacCallum as chief financial officer.</p>	
+    	<p>In terms of financial discipline, we are taking a much more critical view of all operating expenses, and we’ve implemented a robust internal process aimed at reducing non-mining operating expenses.</p>
+      <p>Compared to 2022, we’ve reduced our expenses by 70pc. We are also evaluating options to strengthen our balance sheet.</p>
+    	<p>08:05 AM</p>	
+      <h3>Markets fall at the open</h3>
+    	<p>The FTSE 100 has nudged lower as it still reels from poor data on US services growth last month, raising concerns about the state of the world’s largest economy.</p>	
+    	<p>The internationally-focused index slipped 0.2pc after the open to 7,595.60 while the midcap FTSE 250 lost 0.1pc to 19,100.88.</p>
+      <p>07:56 AM</p>	
+      <h3>SSE to pay £9.8m fine over excessive payments from National Grid</h3>
+    	<p>Energy giant SSE’s power generation arm will pay a £9.8m penalty after breaching its licence, the industry regulator has announced.</p>	
+    	<p>Ofgem said a detailed investigation found that SSE Generation secured excessive payments from the National Grid Electricity System Operator during a time of so-called transmission constraint.</p>
+      <p>Cathryn Scott, director of enforcement and emerging issues at Ofgem, said:</p>	
+    	<p>Protecting consumers is a priority for Ofgem, and we will continue to monitor the wholesale energy markets in Great Britain and ensure their integrity on behalf of energy users.</p>	
+    	<p>This enforcement action sends another strong signal to all generators that they must put in place controls to ensure that their bid prices are set in a way that ensures that they do not obtain excessive benefits during transmission constraint periods.</p>
+      <p>If they fail to do so, they will face significant consequences.</p>	
+    	<p>07:48 AM</p>	
+      <h3>Vapes and e-cigarettes lure customers to British American Tobacco</h3>
+    	<p>British American Tobacco has said it gained 900,000 customers smoking new tobacco products like vapes and e-cigarettes in the first financial quarter, amid plans to encourage smokers away from traditional cigarettes.</p>
+      <p>The tobacco giant said it is on track for tobacco alternatives to hit £5bn in revenue by 2025 and to be profitable by 2024.</p>	
+    	<p>It comes as new chief executive Tadeu Marroco said “smokers must have access to better choices”, as he pledged to reduce the health impact of the business.</p>	
+    	<p>The group expects organic revenue growth of between 3pc and 5pc in the year ahead, with sales impacted by the sale of its Russian and Belarusian businesses set to close in 2023.</p>
+      <p>It stuck by its guidance for the full financial year.</p>	
+    	<p>07:42 AM</p>
+      <h3>Soaring number of public sector workers on benefits, says GMB</h3>	
+    	<p>The number of public sector workers on Universal Credit has increased by more than 100,000 over the past few years, new research suggests.</p>
+      <p>A study by the GMB union found that, between the end of 2019 and the end of 2022, the number of public sector workers in receipt of Universal Credit jumped by 119,000.</p>	
+    	<p>The union said its analysis of official figures showed that, in the fourth quarter of 2019, 76,803 public sector workers were in receipt of Universal Credit.</p>	
+    	<p>By the fourth quarter of 2022, that number had shot up to 195,772, said the union in a report to be published at its annual conference in Brighton today.</p>
+      <p>GMB national secretary Rachel Harrison said: “It’s a stain on the honour of our nation so many public sector staff have to rely on working benefits to get by - NHS staff, care workers, school staff, and the council workers who keep our towns and cities alive.”</p>	
+    	<p>07:37 AM</p>	
+      <h3>The 33 articles Prince Harry claims Mirror newspapers obtained unlawfully</h3>
+    	<p>The Duke of Sussex is due to give evidence at the High Court today in his case against the Daily Mirror’s publisher over alleged unlawful information gathering.</p>
+      <p>On Monday, Harry’s individual case against Mirror Group Newspapers (MGN) got under way.</p>	
+    	<p>Barrister David Sherborne claimed the Duke was subjected to unlawful information-gathering activity “right from when he was a young boy at school” into adulthood, adding: “Nothing was sacrosanct or out of bounds.”</p>	
+    	<p>Harry is suing the publisher, claiming journalists at its titles - which also include the Sunday Mirror and Sunday People - were linked to methods including phone hacking, so-called “blagging” or gaining information by deception, and use of private investigators for unlawful activities.</p>
+      <p>MGN is contesting the claims and has either denied or not admitted each of them. The publisher also argues that some of the claimants have brought their legal action too late.</p>	
+    	<p>07:30 AM</p>	
+      <h3>Bank Holidays fail to boost shop sales</h3>
+    	<p>May’s trio of bank holidays failed to get shoppers spending as sales growth slowed to its lowest level in six months, latest figures show.</p>
+      <p>Total UK retail sales increased by 3.9pc last month, against a decline of 1.1pc in May 2022 and below the three-month average growth of 4.7pc, according to the BRC-KPMG Retail Sales Monitor.</p>	
+    	<p>Food sales were up 9.6pc on a year ago, boosted by the Coronation but still not sustained across the month.</p>	
+    	<p>Meanwhile, growth in discretionary spending continued to tumble as the high cost of living squeezed households.</p>
+      <p>The gloom continued for online retailers with just four categories registering positive sales figures and total sales down by 3pc.</p>	
+    	<p>There was cause for some optimism, however, as brighter weather at the end of the month led to a much-needed pick-up in summer fashion sales, as well as gardening and DIY products.</p>	
+    	<p>British Retail Consortium chief executive Helen Dickinson said: “With consumer confidence still recovering from record depths, and continued tightening of household incomes, we are unlikely to see substantial sales growth in the coming months.”</p>
+      <p>07:23 AM</p>
+      <h3>Primark owner buys dairy data business</h3>
+      <p>Primark owner Associated British Foods has revealed it will buy a diary data company which helps farmers get maximum milk production from their cows.</p>
+      <p>AB Foods will pay 215p a share in cash for National Milk Records (NMR), representing an 87pc premium on the company’s closing price on Monday.</p>
+      <p>The £48m deal, which will take effect during the third quarter of this year, will support its AB Agri business, which supplies a wide range of animal feed, supplements and specialist ingredients in more than 80 countries, employing over 3,000 people internationally.</p>
+      <p>José Nobre, chief executive of AB Agri, said:</p>
+      <p>NMR is a high-quality business which is extremely complementary and additive to our dairy strategy and offering to the dairy industry.</p>
+      <p>We have supported dairy farmers for more than 30 years with nutrition and specialty feed products, and more recently with data and technology platforms which deliver insights that create continuous improvement in agricultural supply chains.</p>
+      <p>Acquiring NMR is an extension of this strategy and will enable us to service the industry better, offering products that deliver increased value, efficiency and ultimately profitability for dairy farmers.</p>
+      <p>07:06 AM</p>
+      <h3>US regulator takes aim at £92bn of crypto</h3>
+      <p>The list of digital tokens deemed as unregistered securities by the Securities and Exchange Commission (SEC) now spans over $115bn (£92.4bn) of crypto after the US agency’s lawsuit against Binance.</p>
+      <p>The regulator in the complaint on Monday cited a dozen coins as assets that fall under its purview.</p>
+      <p>Such a designation comes with strict investor protection rules and could make the tokens harder to trade if exchanges shy away from listing them for fear of falling foul of the SEC.</p>
+      <p>Binance’s BNB — which has a market value of $44bn — stablecoin BUSD, Cardano’s ADA, Solana’s SOL, Polygon’s MATIC, Filecoin’s FIL and Algorand’s ALGO were among those mentioned in the lawsuit.</p>
+      <p>When added to other tokens like XRP separately targeted by the SEC, the agency has now categorised over $115 billion of coins specifically as unregistered securities.</p>
+      <p>SEC Chair Gary Gensler has long said most tokens are subject to the agency’s investor-protection laws and that trading platforms should register with the regulator.</p>
+      <p>However, labelling specific tokens represents a tougher approach. US officials have cracked down on digital assets this year following a rout in 2022 and a series of collapses, including the bankruptcy of the FTX exchange.</p>
+      <p>07:00 AM</p>
+      <h3>Good morning</h3>
+      <p>Bitcoin plunged 3pc to below £21,000 as US regulators filed a lawsuit against the world’s largest cryptocurrency exchange and its founder.</p>
+      <p>The SEC accused Binance and Changpeng Zhao of misusing investor funds, operating as an unregistered exchange and violating a slew of US securities laws.</p>
+      <p>SEC chairman Gary Gensler in a written statement that Zhao and Binance “engaged in an extensive web of deception, conflicts of interest, lack of disclosure, and calculated evasion of the law”.</p>
+      <h3>5 things to start your day</h3>
+      <ol>
+        <li>Russian hackers raid British Airways and BBC in cyber attack | Personal details of staff stolen following payroll provider hack</li>
+        <li>Tim Cook unveils $3,500 Vision Pro headset in Apple’s most significant launch since iPhone | Apple said the Vision Pro, which will cost $3,499 (£2,814), will be “the most advanced personal electronics device ever” when it is released next year.</li>
+        <li>Hunt plans biggest shake-up of employee ownership schemes in 23 years | Government aims to make it easier for workers to own shares in companies they work for</li>
+        <li>House selling times soar to pandemic levels as mortgage rates climb | Four-bedroom homes worst hit as buyers opt for smaller properties</li>
+        <li>BCC wins the ear of government in a blow to scandal-hit CBI | Lobbying group faces uncertain future as crucial vote looms</li>
+      </ol>   
+      <h3>What happened overnight</h3>  
+      <p>Asian stock markets rose after Wall Street fell on concern the US economy may be weakening following a report that showed growth in service industries slowing.</p>
+      <p>The Shanghai Composite Index rose 0.2pc to 3,237.89 and the Hang Seng in Hong Kong advanced 1.1pc to 19,310.53.</p>
+      <p>The Nikkei 225 in Tokyo gained 0.4pc to 32,350.58 after government data showed Japanese wages rose 1pc over a year earlier in April but growth decelerated from the previous month’s 1.3pc.</p>
+      <p>The S&P ASX 200 in Sydney shed 0.5pc to 7,181.90. South Korean markets were closed for a holiday.</p>
+      <p>Wall Street stocks dipped Monday after the Institute for Supply Management’s closely-watched overall gauge of services unexpectedly fell to the lowest level of the year, conflicting with optimistic readings of the US economy.</p>
+      <p>The Dow Jones Industrial Average dropped 0.6pc to 33,562.86. The broad-based S&P 500 shed 0.2pc to 4,273.79, while the tech-rich Nasdaq Composite Index declined 0.1pc to 13,229.43.</p>
+      <p>The yield on 10-year Treasuries declined two basis points to 3.67pc amid speculation the Federal Reserve plans to keep interest rates steady in June with the possibility of increasing in later months.</p>
+    </div>
+  },
+  {
+    id: 549,
+    title: 'Bitcoin, Ether skid; BNB drops more than 10% after U.S. securities regulator sues Binance',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'BNB'],
+    description: <div className="blog-desc">
+      <p>Bitcoin fell almost 6% and Ether lost 5% in a broad market fall by all top 10 non-stablecoin cryptocurrencies on Tuesday morning in Asia after the U.S. Securities and Exchange Commission (SEC) sued cryptocurrency exchange Binance and its founder Changpeng Zhao on charges of securities violations.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 6, 2023 - 4:23 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-606.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin fell almost 6% and Ether lost 5% in a broad market fall by all top 10 non-stablecoin cryptocurrencies on Tuesday morning in Asia after the U.S. Securities and Exchange Commission (SEC) sued cryptocurrency exchange Binance and its founder Changpeng Zhao on charges of securities violations. The BNB token issued by Binance was the biggest loser with a drop of more than 10% in the past 24 hours.</p>
+    	<h3>Top 10 cryptos slide</h3>
+      <p>Bitcoin dropped 5.66% over the last 24 hours to US$25,730 at 7:10 a.m. in Hong Kong, bringing losses over the past seven days to 7.23%, according to data from CoinMarketCap.</p>	
+    	<p>Ether fell 4.91% in the same period to US$1,808, and logged a 4.56% weekly loss.</p>	
+    	<p>BNB skidded 10.21% to US$275.17 in the last 24 hours, losing 11.61% over the past week.</p>
+      <p>The SEC on Monday filed 13 charges against Binance, alleging the exchange made unregistered and unlawful offers and sales of its BNB and BUSD tokens. The SEC also alleged that Binance did not register Binance.com as an exchange or a broker-dealer clearing agency.</p>
+    	<p>In response to the SEC lawsuit, Binance said in a Tuesday statement that it intends to defend its platform “vigorously.”</p>	
+    	<p>“The SEC’s refusal to productively engage with us is just another example of the Commission’s misguided and conscious refusal to provide much-needed clarity and guidance to the digital asset industry,” Binance said.</p>	
+    	<p>Cryptocurrencies traded on the Binance exchange, including BNB, BUSD, Solana, Cardano’s ADA, Polygon’s MATIC, are securities and require registration and regulation, according to the SEC suit.</p>
+      <p>Solana dropped 9.52% over the past 24 hours, with ADA falling 7.73% and MATIC losing 7.64%.</p>
+    	<p>“The total crypto market cap is down,” Justin d’Anethan, head of APAC business development at Belgium-based crypto market maker Keyrock, told Forkast on Tuesday morning in Asia. “The fact that the news doesn’t come as a shock doesn’t mean that it was priced in, apparently.”</p>	
+    	<p>In a Monday tweet, SEC Chair Gary Gensler said that Zhao and Binance entities engaged in “an extensive web of deception, conflicts of interest, lack of disclosure and calculated evasion of the law.”</p>	
+    	<p>In response, Zhao tweeted: “Wonder if he ever reads the comments under his post, from the consumers he is [supposed] to protect.”</p>
+      <p>According to d’Anethan, the SEC’s legal action is not a surprise considering the U.S. Commodity Futures Trading Commission had earlier filed a lawsuit against Binance for alleged violations of trading rules for derivatives.</p>
+    	<p>However, traders see the lawsuit as extremely bearish and it’s shaking up the market, he said.</p>	
+    	<p>The total cryptocurrency market cap fell 4.6% to US$1.09 trillion in the 24 hours through to 8:30am Hong Kong, while trading volume surged 118% to more than US$48 billion.</p>	
+    	<h3>Apple headset bumps Binance in NFT market</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index edged down 0.17% to 3,295.91 in the 24 hours to 9:20 a.m. in Hong Kong.</p>
+    	<p>The SEC’s lawsuit against Binance “hasn’t had an impact on NFTs yet, but it likely will,” Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News, said on Tuesday. “It has already impacted crypto, and usually NFTs lag behind just a bit.”</p>	
+    	<p>In the U.S. overnight, Apple Inc. unveiled its highly-anticipated mixed-reality headset Vision Pro. While priced at a hefty US$3,499, the headset has got the NFT industry excited about its potential application in metaverse developments.</p>	
+    	<p>“Apple’s headset is really all the NFT spaces was talking about today and rightfully so,” Petscher said. “Really, it’s the single most important thing to happen to NFTs since CryptoPunks, even though Apple didn’t mention NFTs or the metaverse once in their reveal of the Vision Pro.”</p>
+      <p>Sébastien Borget, co-founder and chief operating officer of decentralized gaming giant The Sandbox, said in a Tuesday interview with Forkast that Apple’s headset is “opening a big field of opportunity” for metaverse developments.</p>
+    	<p>“This has the highest chance of becoming a game changer versus everything we’ve seen so far over the past five years in this field … allowing people to interact with their virtual assets in the physical world.”</p>	
+    	<p>NFT sales on Ethereum rose 5.64% over the last 24 hours to US$25.75 million, and gained 90.84% in the past week. Sales on the Bitcoin network climbed 4.17% to US$3.16 million, but recorded a 11.87% weekly decline.</p>	
+    	<p>Bored Ape Yacht Club (BAYC) and Azuki remained the two most-sold Ethereum collections. BAYC had the biggest sales in the past 24 hours of US$7.26 million, followed by Azuki’s US$2.65 million.</p>
+      <p>DMarket, a Mythos blockchain-based collection of gaming NFTs, was the third most-sold collection over the past 24 hours with an 11.49% rise in sales to US$1.52 million.</p>
+    	<h3>Coinbase shares hit by Binance</h3>
+      <p>Shares of Coinbase, the largest crypto trading platform in the U.S., dropped 9.05% on Monday following the SEC’s lawsuit against Binance. Shares of MicroStrategy, the world’s largest corporate holder of Bitcoin, fell 8.53%.</p>	
+    	<p>U.S. stock futures also moved marginally lower as of 10:00 a.m. in Hong Kong. Dow Jones Industrial Average futures dipped 0.05%, S&P 500 futures fell 0.04%. Nasdaq Futures fell 0.09%.</p>	
+    	<p>Coinbase has its own legal battle with the SEC. In March, the SEC alleged Coinbase violated investor protection laws and threatened enforcement action against the exchange. Coinbase argued back in April that the SEC’s move appeared to be undermining its own role as the monitor of companies registering to sell shares to the public.</p>
+      <p>Coinbase has also requested a court to compel the SEC to publicly respond to the exchange’s July 2022 petition asking for clearer crypto regulation guidelines.</p>	
+    	<p>On the regulation front, Paul Grewal, chief legal officer of Coinbase, tweeted on Monday that he will testify on Tuesday before the House Committee on Agriculture on the need for clear crypto rules and on the Digital Asset Market Structure discussion draft released Friday.</p>	
+    	<p>“The US is falling behind,” Grewal tweeted. “We cannot afford to ignore crypto while other markets take advantage of our absence, developing rules and regulations that enable the industry to thrive and risk sending jobs, investment, and technological leadership overseas.”</p>
+    </div>
+  },
+  {
     id: 548,
     title: 'Bitcoin little-changed around US$27,000, Ether treads water; Solana, XRP gain',
     category: 'Crypto',
