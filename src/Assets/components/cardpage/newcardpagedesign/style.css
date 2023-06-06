@@ -33,7 +33,7 @@
 }
 .col.vedc ul li {
     font-size: 18px;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-regular';
     color: #FFFFFF;
     line-height: 24px;
     font-weight: 400;
@@ -53,6 +53,7 @@ a.vea_vv{
     text-transform: initial;
     margin-top: 16px;
     letter-spacing: 0px;
+    font-family: 'urbanist-medium';
 }
 .col.vedc ul li:before{
     content: '';
@@ -80,7 +81,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 }
 .vwed p {
     font-size: 18px;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-light';
     color: #FFFFFF;
     width: 50%;
     margin: 0 auto;
@@ -161,8 +162,11 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 .col.vwev summary {
     color: #FFFFFF;
     font-size: 24px;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-regular' !important;
     line-height: 32px;
+}
+.col.vwev details .contt p{
+    font-family: 'urbanist-light' !important;
 }
 .col.vwev details:nth-child(1) summary{
     padding-top: 10px !important;
@@ -207,7 +211,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     color: #FFFFFF;
     text-align: center;
     font-size: 18px;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-light';
     line-height: 26px;
     margin-bottom: 30px;
 }
@@ -233,7 +237,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 }
 .row.vsdvs .col.btge p {
     color: #FFFFFF;
-    font-family: 'urbanist-regular';
+    font-family: 'urbanist-light';
     font-size: 18px;
     line-height: 24px;
     text-align: left;
@@ -328,7 +332,7 @@ a.evc:hover{
 .qwrc span{
     color: rgba(255,255,255,0.60);
     font-family: 'urbanist-regular';
-    margin-top: 20px;
+    margin-top: 10px;
     display: block;
 }
 p.cwee {
@@ -380,7 +384,7 @@ h1.rnag_gg {
 .bve p {
     font-size: 18px;
     color: #FFFFFF;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-light';
     line-height: 24px;
     padding-right: 200px;
     margin-top: 30px;
@@ -441,7 +445,7 @@ h1.rnag_gg {
 .hyf__gg .fvdd p {
     font-size: 16px;
     color: #FFFFFF;
-    font-family: 'urbanist-regular';
+    font-family: 'urbanist-light';
     line-height: 24px;
     margin-top: 15px;
 }
@@ -751,7 +755,7 @@ img.mbL_fwc{
     }
     .row.vsdvs .col.btge p{
         font-size: 15px !important;
-        font-family: 'urbanist-regular';
+        font-family: 'urbanist-light';
         line-height: 22px;
     }
     .row.vsdvs .col.btge:nth-child(2){
