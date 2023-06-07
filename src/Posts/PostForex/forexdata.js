@@ -1,6 +1,76 @@
 const data = [
   {
-    id: 526,
+    id: 529,
+    title: 'USD/JPY Forecast – US Dollar Threatens Another Breakout',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied a bit during the trading session early on Monday, as the Japanese yen continues to lose value. That being said, there is a little bit of pushback, so it is worth paying close attention to the fact that the ¥140 level has caused a little bit of a headache for the bulls.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 6:02 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-610.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar has rallied a bit during the trading session early on Monday, as the Japanese yen continues to lose value. That being said, there is a little bit of pushback, so it is worth paying close attention to the fact that the ¥140 level has caused a little bit of a headache for the bulls.</p>
+	    <p>However, we have sliced through here previously, so now it’s just a matter of time before we have to determine whether or not we can breakout above the recent high. If we can, then the market is more likely than not going to continue to go much higher, with a potential move all the way to the ¥148 level based on the previous ascending triangle that I have marked on the chart.</p>	
+	    <p>That does not mean that we get there overnight, nor should you jump in with both feet. However, I still believe in the bullish narrative here, and I think that it is probably only a matter of time before the rest of the market moves right along with it. That being said, the choppiness that comes along with this pair is something that you need to keep in mind when you put on a position. Position sizing will be crucial, but eventually you should get some type of clarity. Once we get a breakout above the recent high, then I think the next target will probably be ¥142.50.</p>	
+    	<p>Underneath, the top of that previous consolidation triangle sits right out the ¥138 level, so it is with paying close attention to that area as a potential value buy. I don’t even think we get there, but if we do I’d be very interested in anything that looks a lot like a supportive candlestick or a possible bounce. The 50-Day EMA is starting to race toward that area as well, so it all ties together quite nicely and I think it is probably only a matter of time before the 2 meet, but the question at this point is whether or not they be closer to the ¥138 level, or if it is later down the road.</p>
+    </div>
+  },
+  {
+    id: 528,
+    title: 'GBP/JPY Forecast – British Pound Pulls Back Significantly Against Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has fallen a bit during the trading session on Monday, as we may have gotten a little too close to the ¥175 level in short order for people to feel comfortable.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 5:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-609.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs Japanese Yen Technical Analysis</h3>
+    	<p>The British pound has fallen a bit during the trading session on Monday, as we may have gotten a little too close to the ¥175 level in short order for people to feel comfortable. That being said, the market will more likely than not offer a bit of a pullback that we can take advantage of, in order to pick up a bit of value. </p>
+    	<p>The ¥170 level underneath would obviously be a great candidate for value, but there are support levels between here and there. The main reason for the ¥170 level being mentioned of course is the large, round, psychological importance of the number, and the 50-Day EMA racing toward that level.</p>	
+    	<p>Between here and there, the ¥171.50 level has been supportive multiple times a little over a week ago, and I think that could be where you start to see buyers jump into the mix. It’ll be interesting to see if that plays out, but right now I think you got a situation where it would be an area to start “scaling into a position.” Keep in mind that the interest rate differential between the British pound and the Japanese yen will continue to make this market bullish given enough time, but ultimately, I do think this is a situation where we will have to see some type of resolution to the overall attitude.</p>	
+    	<p>When you look at the chart, if we were to break above the ¥175 level, it would obviously be a major breakout, and it’s likely that we could go all the way to the ¥177.50 level, and then eventually the ¥180 level. Until we get some type of change from the Bank of Japan or the Bank of England, there’s no real interest in shorting this pair, but it’s probably worth noting that again, we are a bit overstretched. There are plenty of people willing to go long in this market, and I do think that will continue to be the case given enough time. In general, I think this market continues to be noisy, but I do look at it as a positive one.</p>
+    </div>
+  },
+  {
+    id: 527,
+    title: 'GBP to USD Forecast – British Pound Has a Rough Start to the Week',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has fallen hard during the trading session on Monday, as we have seen the market selloff from the 1.2550 level above yet again.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 5:26 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-608.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has fallen hard during the trading session on Monday, as we have seen the market selloff from the 1.2550 level above yet again. Ultimately, this is a market that looks as if it is going to continue to struggle, but with the 200-Day EMA underneath offering a potential target and of course support, it’ll be interesting to see how that plays out.</p>
+    	<p>Ultimately, this is a market that I think continues to see a lot of noise in this general vicinity, as we have seen the 1.2350 level offer support, while the 1.2550 level has been resistance. Ultimately, this is an area where we have seen a lot of noisy behavior and therefore, I think it’s likely that we will continue to see choppiness.</p>	
+	    <p>If we do break down below the 200-Day EMA, then it’s possible that the market could drop down to the 1.1850 level, an area that we have seen a lot of support at previously, and of course it’s very likely that we continue to see a lot of interest in that area. If we were to break down below there, obviously would open up the trapdoors and we could go much lower.</p>	
+	    <p>In general, this is a market that I think probably finds a little bit of support underneath, and therefore it could be very noisy, and therefore you need to be very cautious with getting too aggressive at this point. Ultimately, this is a market that I think will probably move back and forth along with risk appetite, which of course is going to be all over the place. With this, I would be very cautious but I also recognize that it looks like the US dollar is starting to pick up a little bit of steam.</p>
+      <p>On the other hand, if the market were to turn around and break above the recent high near the 1.2680 level, then we could go to the 1.30 level above, as it is a large, round, psychologically significant figure, and an area where a lot of people will be paying close attention to, and therefore I think it could cause a lot of noise.</p>
+    </div>
+  },
+  {
+    id: 526, 
     title: 'USD/JPY Forecast – US Dollar Continues to Find Support',
     category: 'Forex',
     subCategory: ['USD', 'JPY', 'Forecast'],

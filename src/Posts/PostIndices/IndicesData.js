@@ -1,5 +1,29 @@
 const data = [
   {
+    id: 519,
+    title: 'U.S. Stock Futures Slip Amid Recession Worries',
+    category: 'Indices',
+    subCategory: ['US', 'Stocks', 'Futures'],
+    description: <div className="blog-desc">
+      <p>S&P 500 futures were down 0.2%, with contracts tracking the tech-heavy Nasdaq 0.1% in the red. Optimism that gripped markets and sent stocks higher after a stronger-than-expected U.S. jobs report last Friday has come undone—largely as a result of the release of ISM services data</p>
+    </div>,
+    authorName: 'Jack Denton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 6, 2023 - 1:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-604.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>S&P 500 futures were down 0.2%, with contracts tracking the tech-heavy Nasdaq 0.1% in the red. Optimism that gripped markets and sent stocks higher after a stronger-than-expected U.S. jobs report last Friday has come undone—largely as a result of the release of ISM services data that held grim signs for the health of the U.S. economy. “The week’s early optimism has been clouded by renewed concerns about a looming recession in America,” said Susannah Streeter, an analyst at broker Hargreaves Lansdown.</p>
+    	<p>U.S. stock futures slipped on Tuesday amid worries of an economic slowdown after gloomy data released on Monday. Against that backdrop, investors are shifting their expectations for the Federal Reserve’s next move on interest rates, due in a week.</p>	
+    	<p>Futures for the Dow Jones Industrial Average retreated 30 points, or 0.1%, after the index tumbled 199 points last Friday to close at 33,562. S&P 500 futures were down 0.2%, with contracts tracking the tech-heavy Nasdaq 0.1% in the red.</p>	
+    	<p>Optimism that gripped markets and sent stocks higher after a stronger-than-expected U.S. jobs report last Friday has come undone—largely as a result of the release of ISM services data that held grim signs for the health of the U.S. economy.</p>
+      <p>“The week’s early optimism has been clouded by renewed concerns about a looming recession in America,” said Susannah Streeter, an analyst at broker Hargreaves Lansdown. “As the world’s largest economy shows more signs of heading for a contraction, with growth in the mighty services sector slowing more quickly than expected last month, worries are rising about the knock-on effect.”</p>
+      <p>Investor attention is squarely on the next decision from the Fed, due after the June 13-14 meeting of its policy-setting committee, with markets responsive to economic data that could shift the needle in the interim. For now, that means mulling the ISM services print, but June 13’s consumer-price index (CPI) inflation data likely remains the most important release ahead of the Fed decision.</p>
+    </div>
+  },
+  {
     id: 518,
     title: 'Dow Jones Futures Rise: Jobs Report Looms As Tesla Breaks Out',
     category: 'Indices',

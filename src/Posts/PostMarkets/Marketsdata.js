@@ -1,5 +1,35 @@
 const data = [
   {
+    id: 532,
+    title: 'How Apples stock reacted to Vision Pro announcement',
+    category: 'Markets',
+    subCategory: ['Apple', 'Vision Pro', 'Stock'],
+    description: <div className="blog-desc">
+      <p>Apple's stock fell after it unveiled its new Vision Pro mixed reality headset. Yahoo Finance markets reporter Jared Blikre breaks down the charts.</p>
+    </div>,
+    authorName: 'Yahoo Finance',
+    authorurl: 'https://www.yahoo.com/author/yahoo--finance/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 11:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-605.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Apple's stock fell after it unveiled its new Vision Pro mixed reality headset. Yahoo Finance markets reporter Jared Blikre breaks down the charts.</p>
+    	<p>- We're also keeping an eye on markets and Apple shares with ongoing events. Yahoo Finance's Jared Blikre is on the floor of the New York Stock Exchange. Jared, what else are you watching?</p>	
+    	<p>JARED BLIKRE: Yes, well, let me just stick with Apple for a second because some pretty interesting developments. I was watching the presentation-- by the way, this was a long one today. If you look at the YFI Interactive, I have the intraday price action mapped out, and there was a bit of a decline coming into the opening remarks here.</p>	
+    	<p>And then we really saw a big selloff, that big down red candle. That came off on the announcement of the headset. Is that ominous? I think it's a little bit too early to tell you, but I think it's notable too that, as you said, Akiko, Apple had climbed to a record high just before that announcement. And if we take a look at a two-year let me see if I can bring this up.</p>
+      <p>Here's a two-year chart. You can see Apple has been on just a tear, really earning its weight within the S&P 500, and the NASDAQ 100 helping the NASDAQ to outperform the way it has. And Apple's not even really an AI stock. It does-- there's a ton of AI embedded in Apple products, but not to the degree that Microsoft and Alphabet have really pivoted there.</p>	
+    	<p>So enough about Apple. Let me just get to our heat map through the day because as I was talking about, Friday was a really-- with that non-farm payroll was really a pivotal day in terms of the price action. We saw this huge spike up in the Dow as opposed to the NASDAQ. The Dow basically doubled or tripled the NASDAQ's performance, and that's something we haven't seen quite a bit.</p>	
+    	<p>Now here, you can see today is kind of the flip of that. We have the Dow down the most. That's down about half a percent. NASDAQ down about a quarter of a percent. We'll have to see how this plays out, but it looked for a second on Friday like-- almost like November of 2020 with the new infrastructure play coming out.</p>
+      <p>So not seeing any hints of that right now, so maybe it was just a one-day price action. But I think traders are going to be looking ahead, especially towards next week's CPI and the big Fed announcement, are we going to see any hiccups around those reports? Because remember, it's about jobs and it's about inflation, and anything else is just kind of not getting as much attention nowadays.</p>	
+    	<p>Finally, here's the sector action on the S&P 500. Going to check out some heat maps here. Health care in the lead, followed by materials, communication services, it looks like utilities as well. But really not seeing a lot of outperformers here. Industrials, which was one of the big cyclical moves that we saw Friday, that is getting reversed. Industrials, XLI, down about 7/10 of a percent.</p>	
+    	<p>Also saw some weakness today earlier on Bitcoin. Let me see if I can get some charts out on that. But even if those charts-- there we go. Bitcoin down on the news that Binance getting sued by the SEC in Washington DC Civil Court. Binance is a big one, guys. Globally, they are the biggest, and so you've got to think if Binance tumbles, you're going to see a lot more spillover.</p>
+      <p>But look at this reaction here. This is not an absolute disaster. I'm looking at Bitcoin here. $25,000 is doable. If that's the end of this, fine. But I read the complaint, and there's probably a lot more that's going to come out of it.</p>	
+    	<p>- Yeah, not an absolute disaster. I wonder if that-- that feels like that's kind of the bar we're looking at right now. But, Jared Blikre, from the floor of the New York Stock Exchange, thanks so much for that.</p>	
+    </div>
+  },
+  {
     id: 531,
     title: 'Teslas China-made EV sales rose 2.4% in May from April - CPCA',
     category: 'Markets',
