@@ -1,5 +1,78 @@
 const data = [
   {
+    id: 534,
+    title: 'China Stocks Too Cheap to Ignore for JPMorgan Asset, Invesco',
+    category: 'Markets',
+    subCategory: ['China', 'Stocks', 'JPMorgan'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The bearish tide against Chinese equities is growing but for some money managers, the stocks are value for money.</p>
+    </div>,
+    authorName: 'Abhishek Vishnoi and Aya Wagatsuma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 1:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-621.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Bloomberg) -- The bearish tide against Chinese equities is growing but for some money managers, the stocks are value for money.</p>
+    	<p>JPMorgan Asset Management is adding more Chinese shares to its portfolio on bets that the market’s inexpensive valuation and the government’s support for the economy will bolster returns. Invesco Asset Management Ltd. is overweight the stocks, and favors top tech names such as Alibaba Group Holding Ltd. and Tencent Holdings Ltd.</p>	
+    	<p>The optimism shows some market veterans are wagering on a revival even as Wall Street banks from Morgan Stanley to Goldman Sachs Group Inc. cut their forecasts for key Chinese equity indexes. Hopes are mounting that policy makers will deliver more stimulus to shore up growth, after authorities asked the nation’s biggest banks to lower deposit rates.</p>	
+    	<p>Looking at “where the valuations are today, it is probably good to go a bit overweight,” Ayaz Ebrahim, JPMorgan’s emerging market and Asia Pacific equities portfolio manager, said in a Bloomberg TV interview. “From a more neutral position we have been adding again.”</p>
+      <p>Geopolitical risks and an underwhelming economic recovery have turned Chinese equity gauges into global underperformers, with the MSCI China and the Hang Seng China Enterprises indexes both falling into bear markets in recent weeks.</p>
+      <p>While pessimism remains dominant, some are sensing a bottom. Authorities were said to have asked the nation’s biggest banks to lower their deposit rates for at least the second time in less than a year, marking an escalated effort to boost the world’s second-largest economy. The government is also mulling a new property support package, according to an earlier report.</p>
+      <p>Ebrahim stressed that the market is inexpensive, given the government has taken steps to improve business and consumer confidence. On earnings-based valuations, the HSCEI index is trading below its five-year average, and is at a 6% discount to its one-year forward projected book value, according to data compiled by Bloomberg.</p>
+      <p>While there has been some delay in the economic recovery, the market is “looking at 18%-19% earnings this year and about 15%-16% next year and is cheap,” Ebrahim said. “It is basically trading low, near book, and earnings are still coming through.”</p>
+      <p>For Invesco, Chinese firms offer “pretty good value and earnings in some areas,” with companies such as Alibaba and Tencent focused on delivering shareholder returns, said Tony Roberts, who manages the Invesco Pacific Fund (UK).</p>
+      <p>‘Too Cheap’</p>
+      <p>The Invesco fund has been overweight Chinese equities since January 2022, with the stance reflecting its position in both China and Hong Kong shares, according to Roberts. The vehicle increased its holdings in Alibaba this year as the shares weakened, and the stock accounts for around 2.3% of its total holdings, he said.</p>
+      <p>“You have just a general discount because US-China tensions are very high at the moment, so I think that also gives us an opportunity in China,” Roberts said in an interview. China’s big tech companies such as Alibaba and Tencent are “just too cheap.”</p>
+      <p>The Invesco fund has returned 8.9% over the past three years to beat 93% of its peers, according to data compiled by Bloomberg. It had £240.7 million ($299 million) of assets as of end-April, its factsheet showed.</p>
+      <p>JPMorgan Asset, according to Ebrahim, went overweight on China after the lows of the third quarter last year and subsequently booked some profits to turn neutral as economic indicators continued to disappoint.</p>
+      <p>Ebrahim is hopeful about Chinese consumption even though recent data show the recovery has weakened. Manufacturing activity contracted again in May, while home price growth slowed after a pickup earlier in the year. In the latest sign of economic gloom, China’s exports fell for the first time in three months in May.</p>
+      <p>He added that his firm is looking at shares of component manufacturers and those tied to domestic spending. He prefers smaller stocks over larger peers.</p>
+      <p>--With assistance from Shen Hong, Yvonne Man and David Ingles.</p>
+    </div>
+  },
+  {
+    id: 533,
+    title: 'Chinas exports tumble in May as global demand falters',
+    category: 'Markets',
+    subCategory: ['China', 'Exports', 'Global'],
+    description: <div className="blog-desc">
+      <p>BEIJING (Reuters) -China's exports shrank much faster than expected in May while imports extended declines with a grim outlook for global demand</p>
+    </div>,
+    authorName: 'Joe Cash',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 7:17 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-620.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Joe Cash</p>
+    	<p>BEIJING (Reuters) -China's exports shrank much faster than expected in May while imports extended declines with a grim outlook for global demand, especially from developed markets, raising doubts about the fragile economic recovery.</p>	
+    	<p>The world's second-largest economy grew faster than expected in the first quarter thanks to robust services consumption and a backlog of orders following years of COVID disruptions, but factory output has slowed as rising interest rates and inflation squeeze demand in the United States and Europe.</p>	
+    	<p>Exports slumped 7.5% year-on-year in May, data from China's Customs Bureau showed on Wednesday, much larger than the forecast 0.4% fall and the biggest decline since January. Imports contracted 4.5%, slower than an expected 8.0% decline and April's 7.9% fall.</p>
+      <p>"The weak exports confirm that China needs to rely on domestic demand as the global economy slows," said Zhiwei Zhang, chief economist at Pinpoint Asset Management. "There is more pressure for the government to boost domestic consumption in the rest of the year, as global demand will likely weaken further in the second half."</p>
+      <p>Highlighting the extent of the weakness, the data shows trade was worse even than when the port of Shanghai, China's busiest, was shut down due to strict COVID curbs a year earlier.</p>
+      <p>The figures also add to a growing list of indicators that suggest China's post-COVID economic recovery is quickly losing steam, bolstering the case for more policy stimulus.</p>
+      <h3>DEMAND SQUEEZE</h3>
+      <p>Asian stocks fell into the red after the data as did the yuan and the Australian dollar, a commodity currency that is highly sensitive to swings in Chinese demand.</p>
+      <p>China's post-pandemic stock rally has faded as small-time investors turn bearish on equities and double down instead on safer assets amid a stuttering economic recovery.</p>
+      <p>The economy has been hit by a double whammy of faltering demand at home and abroad with the ripple effects felt across the region.</p>
+      <p>South Korean data showed shipments to China slid 20.8% in May, marking a full year of monthly declines, with Korean semiconductor exports dropping 36.2%, suggesting weak demand for components for final manufacture.</p>
+      <p>Chinese imports of semiconductors fell 15.3%, as the market for the consumer electronics exports that include such parts softened.</p>
+      <p>Demand for raw materials broadly weakened with coal imports pulling back from the 15-month high hit in March, amid soft appetite from the power and steel sectors. Copper imports slid 4.6% in May from a year ago.</p>
+      <p>China's official purchasing managers' index (PMI) released last week showed factory activity shrank faster than expected in May.</p>
+      <p>The PMI's subindexes also showed factory output swung to contraction from expansion while new orders, including new exports, fell for a second month.</p>
+      <p>While economic growth beat expectations in the first quarter, analysts are now downgrading their forecasts for the rest of the year, as factory output slows.</p>
+      <p>The government has set a modest GDP growth target of around 5% for this year, after badly missing the 2022 goal.</p>
+      <p>"Looking forward, we think exports will fall further before bottoming out later this year," said Julian Evans-Pritchard, head of China economics at Capital Economics. "Although interest rates outside of China are near a peak, the lagged impact from the sharp rate hikes is set to weaken activity in developed economies later this year, triggering mild recessions in most cases."</p>
+      <p>(Reporting by Joe Cash; Editing by Sam Holmes)</p>
+    </div>
+  },
+  {
     id: 532,
     title: 'How Apples stock reacted to Vision Pro announcement',
     category: 'Markets',
