@@ -1,5 +1,166 @@
 const data = [
   {
+    id: 521,
+    title: 'Gold dips on firm dollar, markets look for Fed cues',
+    category: 'Commodities',
+    subCategory: ['Gold', 'dollar', 'fed'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices eased in a narrow range on Wednesday as the dollar held firm and traders refrained from taking big bets as they looked for clear signals on the U.S. Federal Reserve's rate path.</p>
+    </div>,
+    authorName: 'Arundhati Sarkar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 7:01 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-612.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Arundhati Sarkar</p>
+    	<p>(Reuters) - Gold prices eased in a narrow range on Wednesday as the dollar held firm and traders refrained from taking big bets as they looked for clear signals on the U.S. Federal Reserve's rate path.</p>	
+    	<p>Spot gold ticked lower 0.2% to $1,959.19 per ounce by 06:37 GMT but held a $8 range. U.S. gold futures fell 0.3% to $1,975.00.</p>	
+    	<p>"Gold traders are waiting for clear signals on the economy that will warrant either a pause or a continuation of the tightening cycle," Craig Erlam, senior markets analyst at OANDA said.</p>
+      <p>Pockets of weakness, combined with resilient labour market figures and stubborn inflation, "don't help gold one way or another," he added.</p>
+      <p>Non-interest-bearing bullion tends to become less attractive in a high interest rate environment.</p>
+      <p>Supply gain pressures continued to abate in May, the New York Fed said in a report on Tuesday, further reducing what had been one of the key forces driving up inflation pressures around the world.</p>
+      <p>The U.S. consumer price report for May, due on June 13, ahead of the Fed meeting, will provide investors more clarity about the health of the world's largest economy.</p>
+      <p>"If the Fed ends up looking more hawkish because inflation is more durable, now that headwinds like the debt ceiling are out of the way... the risk is significant," said Ilya Spivak, head of global macro at Tastylive.</p>
+      <p>Fed fund futures indicate traders have priced in an 81.7% chance that the U.S central bank will hold interest rates in the 5%-5.25% range, according to CMEGroup's Fedwatch tool. However, they see nearly 53% odds of another hike in July.</p>
+      <p>Meanwhile, exports from top bullion consumer China shrank much faster than expected in May and imports fell, albeit at a slower pace, as manufacturers struggled to find demand abroad and domestic consumption remained sluggish.</p>
+      <p>Spot silver fell 0.5% to $23.4639 per ounce, platinum steadied at $1,031.40. Palladium flat at $1,412.22.</p>
+      <p>(Reporting by Arundhati Sarkar in Bengaluru; Editing by Rashmi Aich, Subhranshu Sahu, Janane Venkatraman and Sohini Goswami)</p>
+    </div>
+  },
+  {
+    id: 520,
+    title: 'Oil extends losses as economic slowdown concerns return',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Losses', 'economic'],
+    description: <div className="blog-desc">
+      <p>TOKYO/SINGAPORE (Reuters) -Oil fell for a second day on Wednesday as concerns over global economic headwinds deepened, erasing the price gains booked after top crude exporter Saudi Arabia's surprise weekend pledge to deepen output cuts.</p>
+    </div>,
+    authorName: 'Yuka Obayashi and Muyu Xu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 5:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-611.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Yuka Obayashi and Muyu Xu</p>
+    	<p>TOKYO/SINGAPORE (Reuters) -Oil fell for a second day on Wednesday as concerns over global economic headwinds deepened, erasing the price gains booked after top crude exporter Saudi Arabia's surprise weekend pledge to deepen output cuts.</p>	
+    	<p>Brent crude futures were down 56 cents, or 0.7%, at $75.73 a barrel at 0705 GMT. The U.S. West Texas Intermediate crude futures fell 52 cents, also 0.7%, to $71.22 a barrel.</p>	
+    	<p>Both benchmarks jumped more than $1 on Monday after Saudi Arabia's decision over the weekend to reduce output by 1 million barrels per day (bpd) to 9 million bpd in July.</p>
+      <p>"The fears of recession, as more and more sombre economic readings point towards a slowdown, have kept a lid on oil prices, eroding all OPEC+'s efforts to keep prices afloat," Priyanka Sachdeva, an analyst at Phillip Nova, said in a note.</p>
+      <p>U.S. gasoline inventories rose by about 2.4 million barrels and distillates inventories were up by about 4.5 million barrels in the week ended June 2, market sources said on Tuesday, citing American Petroleum Institute figures.</p>
+      <p>The unexpected buildup of fuel stockpiles raised concerns over consumption by the world's top oil user, especially as travel demand grew during the Memorial Day weekend.</p>
+      <p>Meanwhile, the U.S. Energy Information Administration (EIA) said on Tuesday that U.S crude oil production this year would rise faster and demand increases would cool compared to prior expectations.</p>
+      <p>"The market has digested the news of Saudi's production cut and investors are now reluctant to take a large position because of mixed economic forecasts and indicators in the United States and China," said Hiroyuki Kikukawa, president of NS Trading, a unit of Nissan Securities.</p>
+      <p>China's official data showed on Wednesday that its exports shrank much faster than expected in May and imports fell, albeit at a slower pace, as manufacturers struggled to find demand abroad and domestic consumption remained sluggish.</p>
+      <p>The data also showed crude oil imports into China, the world's largest oil importer, in May rose to their third-highest monthly level ever as refiners built up inventories.</p>
+      <p>A JP Morgan note showed forward crude cover in the country has climbed, indicating refiners have not increased processing rates but are instead storing oil.</p>
+      <p>Nonetheless, some analysts expected Saudi Arabia's voluntary cut, the biggest in the kingdom in years, would put a floor under oil prices, although it was unlikely to underpin a sustainable price increase into the high $80s-low $90s per barrel range.</p>
+      <p>"We expect oil prices to test upside as we enter the summer driving season in the United States," Kikukawa said, adding that tighter global supply and U.S. plans to buy crude to refill the Strategic Petroleum Reserve would limit the downside.</p>
+      <p>(Reporting by Yuka Obayashi and Muyu Xu; Editing by Shri Navaratnam, Jamie Freed and Christian Schmollinger)</p>
+    </div>
+  },
+  {
+    id: 522,
+    title: '10 Best Copper Stocks to Buy',
+    category: 'Commodities',
+    subCategory: ['copper', 'stocks', 'buy'],
+    description: <div className="blog-desc">
+      <p>The copper mining industry is experiencing significant market trends that have far-reaching implications for the global landscape.</p>
+    </div>,
+    authorName: 'Usman Kabir',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 8:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-613.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>In this article, we discuss the 10 best copper stocks to buy. If you want to read about some more copper stocks, go directly to 5 Best Copper Stocks to Buy.</p>
+    	<p>The copper mining industry is experiencing significant market trends that have far-reaching implications for the global landscape. These trends are crucial for understanding the current dynamics and future prospects of the industry. The demand for copper has been steadily rising, driven by various factors. Rapid urbanization and industrialization in emerging economies, such as China and India, have fueled the need for copper in infrastructure development, construction projects, and electrical wiring. Additionally, the growing adoption of electric vehicles (EVs), renewable energy systems, and advancements in technology, including 5G networks, are driving the demand for copper as a vital component in these applications.</p>	
+    	<p>However, the copper mining industry is facing supply constraints due to several factors. Aging mines, declining ore grades, and operational challenges in existing mining operations have led to a slowdown in production growth. Furthermore, geopolitical factors, including trade tensions, labor strikes, and regulatory changes, can disrupt the supply chain and affect the availability of copper in the market. In addition, environmental sustainability has become a significant focus in the mining industry, including copper mining. Companies are under increasing pressure to adopt sustainable practices, reduce greenhouse gas emissions, and minimize water usage.</p>	
+    	<p>The copper mining industry is also embracing technological advancements to improve efficiency, productivity, and sustainability. Automation, artificial intelligence, and data analytics are being utilized to optimize mining operations, reduce costs, and enhance safety. Furthermore, innovations in mineral exploration techniques are helping identify new copper deposits and improve the efficiency of resource estimation. The emphasis on responsible sourcing and ethical supply chains is gaining momentum in the copper mining industry. Companies are increasingly expected to adhere to strict social and environmental standards, ensuring the ethical extraction and processing of copper.</p>
+      <p>Consumers and investors are demanding transparency and accountability throughout the supply chain, prompting mining companies to adopt responsible sourcing practices and certifications. Understanding these market trends is vital for stakeholders in the copper mining industry. Mining companies need to anticipate and adapt to changing market dynamics to ensure long-term sustainability and profitability. Governments and regulatory bodies play a crucial role in setting policies that balance environmental concerns with the industry's economic significance.</p>
+      <p>The global market for copper is projected to experience significant growth, with an expected increase from $160.7 billion in 2022 to $176.74 billion in 2023, at a compound annual growth rate (CAGR) of 10.0%. However, the recent Russia-Ukraine war has had disruptive effects on the global economy, particularly in the short term.</p>
+      <p>This conflict has led to economic sanctions, commodity price surges, and supply chain disruptions, resulting in inflation and impacting various markets worldwide. Nonetheless, the copper market is anticipated to continue expanding, reaching $254.33 billion by 2027, with a CAGR of 9.5%.</p>
+      <p>Within the copper industry, ore mining is a lucrative business. It involves a complex process that begins with extracting ore containing less than 1% copper and concludes with the production of cathodes. These cathodes are sheets of copper that are 99.99% pure and are eventually transformed into everyday items.</p>
+      <p>Copper oxide and copper sulfide are the two main types of ores found in the mining process. The copper ore mining market encompasses several countries, including Australia, Brazil, China, France, Germany, India, Indonesia, Japan, Russia, South Korea, the UK, and the USA. These countries are involved in the extraction and production of copper ore.</p>
+      <p>In 2022, the Asia-Pacific region emerged as the largest market for copper ore mining. The copper ore mining industry encompasses different types, such as the refining industry, metal processing industry, chemical industry, and other related sectors.</p>
+      <p>The refining industry involves the production and delivery of oil and oil products. The global copper market is expected to witness substantial growth despite the short-term disruptions caused by the Russia-Ukraine war. The market is driven by the demand for copper in various industries, including construction, transportation, and electronics.</p>
+      <p>While the ongoing conflict poses challenges, the overall outlook for the copper market remains positive, with the industry continuing to evolve and meet the demand for this versatile metal. Some of the companies that are at the forefront of copper production and could cash in on the expected boom for the metal in the long-term include Freeport-McMoRan Inc. (NYSE:FCX), Rio Tinto Group (NYSE:RIO), and Newmont Corporation (NYSE:NEM).</p>
+      <h3>Our Methodology</h3>
+      <p>For this article, we selected mining stocks that have interests in the copper business based on overall hedge fund sentiment. We have assessed the hedge fund sentiment from Insider Monkey’s database of 943 elite hedge funds tracked as of the end of the first quarter of 2023. The list is arranged in ascending order of the number of hedge fund holders in each firm.</p>
+      <h3>Best Copper Stocks to Buy</h3>
+      <h4>10. Ero Copper Corp. (NYSE:ERO)</h4>
+      <h3>Number of Hedge Fund Holders: 9 </h3>
+      <p>Ero Copper Corp. (NYSE:ERO) is a Canadian company that engages in the exploration, development, and production of mining projects in Brazil. It has a wide range of interests in the copper business.</p>
+      <p>In early April, the company announced that it anticipated consolidated copper production rising by 125% from 2022 levels to 100K-110K metric tons in 2025. The new outlook, which is a 15% increase over the previous 2025 production forecast of 92K-102K tons, was due primarily to higher anticipated mined grades in 2024-26 based on recent infill drilling.</p>
+      <p>On May 10, investment advisory Canaccord maintained a Buy rating on Ero Copper Corp. (NYSE:ERO) stock and lowered the price target to C$31.50 from C$32. Analyst Dalton Baretto issued the target update.</p>
+      <p>At the end of the first quarter of 2023, 9 hedge funds in the database of Insider Monkey held stakes worth $223 million in Ero Copper Corp. (NYSE:ERO), compared to 8 in the previous quarter worth $159 million.</p>
+      <p>Just like Freeport-McMoRan Inc. (NYSE:FCX), Rio Tinto Group (NYSE:RIO), and Newmont Corporation (NYSE: NEM), Ero Copper Corp. (NYSE:ERO) is one of the most attractive copper stocks to buy.</p>
+      <h3>9. Southern Copper Corporation (NYSE:SCCO)</h3>
+      <h3>Number of Hedge Fund Holders: 19</h3>
+      <p>Southern Copper Corporation (NYSE:SCCO) is a Mexico-based mining company that focuses on the production of copper. In late April, the company announced that Q1 copper production gained 4% year-on-year to 223,573 tons.</p>
+      <p>The copper company attributed the increase to a 48.5% boost in output at the Cuajone mine in Peru due to higher ore grades and a return to full operating capacity. The firm also said that gold production was on track to grow by 40% from 2022 levels to 55K-60K oz/year beginning in 2024.</p>
+      <p>On April 21, investment advisory Barclayes maintained an Equal Weight rating on Southern Copper Corporation (NYSE:SCCO) stock and raised the price target to $64 from $53, maintaining a preference for gold over other base equities in the macro environment.</p>
+      <p>Among the hedge funds being tracked by Insider Monkey, Chicago-based investment firm Citadel Investment Group is a leading shareholder in Southern Copper Corporation (NYSE:SCCO) with 723,894 shares worth more than $55 million.</p>
+      <h3>8. BHP Group (NYSE:BHP)</h3>
+      <h3>Number of Hedge Fund Holders: 24 </h3>
+      <p>BHP Group (NYSE:BHP) is an Australian natural resources firm with interests in petroleum, copper, iron, and coal. The firm owns a copper mine in Chile, as well as other copper-related assets elsewhere. On May 30, the firm announced that it had partnered with Microsoft to leverage artificial intelligence (AI) technology to enhance the recovery process at a large copper mine.</p>
+      <p>By utilizing AI and machine learning algorithms, BHP aims to optimize the copper extraction and processing operations, thereby increasing productivity and efficiency. The collaboration with Microsoft will involve utilizing their Azure cloud computing platform to analyze vast amounts of geological and operational data in real-time.</p>
+      <p>On May 3, investment advisory Goldman Sachs upgraded BHP Group (NYSE:BHP) stock to Buy from Neutral with a price target of A$49.90, noting that the stock was attractively valued given the price drop since January.</p>
+      <p>Among the hedge funds being tracked by Insider Monkey, Chicago-based investment firm Citadel Investment Group is a leading shareholder in BHP Group (NYSE:BHP) with 863,916 shares worth more than $54 million.</p>
+      <p>In its Q1 2021 investor letter, Harding Loevner, an asset management firm, highlighted a few stocks and BHP Group Ltd. (NYSE:BHP) was one of them. Here is what the fund said:</p>
+      <p>“Our purchase of Australian mining company BHP Group Ltd. (NYSE:BHP) is an example of a quality company at a moderate valuation that should deliver attractive long-term returns. We believe the market has undervalued its enduring competitive advantage due to its low cost iron and copper mining operations which has allowed the company to deliver consistent profits and cash flows across the inevitable ups and downs of the global metals cycle. While the variability of commodity prices prevents BHP from scoring in the top ranks of measured quality, we are willing to bear some of that uncertainty in return for a more attractive valuation given the company’s strong business fundamentals.”</p>
+      <h3>7. Hudbay Minerals Inc. (NYSE:HBM)</h3>
+      <h3>Number of Hedge Fund Holders: 25 </h3>
+      <p>Hudbay Minerals Inc. (NYSE:HBM) operates in North and South America. The company has mined for precious metals in the Flin Flon area of Manitoba for over nine decades. The area has reserves of copper, zinc, gold, and silver. In mid-April, the firm announced that it was purchasing Copper Mountain Mining in a deal worth $439 million.</p>
+      <p>The acquisition is expected to strengthen the position of the former in the copper mining sector and expand a portfolio of copper assets. The deal includes the acquisition of the Copper Mountain mine in British Columbia, Canada. The move is part of a wider strategy by Hudbay to enhance copper production and leverage the increasing demand for copper in various industries, including clean energy.</p>
+      <p>On May 18, Stifel analyst Alex Terentiew resumed coverage of Hudbay Minerals Inc. (NYSE:HBM) stock with a Buy rating and a price target of C$10.70, predicting upside driven by higher copper and gold grades at Constancia over the next three years.</p>
+      <p>Among the hedge funds being tracked by Insider Monkey, Atlanta-based investment firm GMT Capital is a leading shareholder in Hudbay Minerals Inc. (NYSE:HBM) with 30 million shares worth more than $161 million.</p>
+      <h3>6. Vale S.A. (NYSE:VALE)</h3>
+      <h3>Number of Hedge Fund Holders: 29</h3>
+      <p>Vale S.A. (NYSE:VALE) is a metals mining company that concentrates on the production of iron ore, nickel, and other metals. The firm is one of the largest ones in Brazil and markets logistical services related to these metals in addition to mining and development.</p>
+      <p>The firm has been actively searching for copper deposits in Peru to meet the increasing demand for this metal in the global transition towards clean energy. Despite abandoning one project in a copper-rich area in southern Peru, Vale has two other early-stage exploration projects underway. These greenfield projects require a total investment of $7 million, per reports.</p>
+      <p>On April 28, Morgan Stanley analyst Carlos De Alba maintained an Overweight rating on Vale S.A. (NYSE:VALE) stock and lowered the price target to $18 from $19, updating 2023-26 estimates to account for Q1 results and marking-to-market the forex and commodity price assumptions.</p>
+      <p>Among the hedge funds being tracked by Insider Monkey, Florida-based investment firm GQG Partners is a leading shareholder in Vale S.A. (NYSE:VALE) with 22 million shares worth more than $351 million.</p>
+      <p>Just like Freeport-McMoRan Inc. (NYSE:FCX), Rio Tinto Group (NYSE:RIO), and Newmont Corporation (NYSE:NEM), Vale S.A. (NYSE:VALE) is one of the elite copper stocks to buy.</p>
+    </div>
+  },
+  {
+    id: 523,
+    title: 'Gold holds ground on softer dollar, rate-hike pause bets',
+    category: 'Commodities',
+    subCategory: ['Gold', 'dollar', 'hike'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices steadied in a tight range on Tuesday as optimism that the U.S. central bank will not hike interest rates this month kept the dollar under pressure.</p>
+    </div>,
+    authorName: 'Arundhati Sarkar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 5, 2023 - 7:36 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-614.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Arundhati Sarkar</p>
+    	<p>(Reuters) - Gold prices steadied in a tight range on Tuesday as optimism that the U.S. central bank will not hike interest rates this month kept the dollar under pressure.</p>	
+    	<p>Spot gold held its ground at $1,960.89 per ounce by 0239 GMT. U.S. gold futures edged 0.1% higher to $1,976.80.</p>	
+    	<p>The dollar index eased 0.1%, making gold a more favourable bet among overseas investors. The yield on 10-year Treasuries also retreated after weaker U.S. services sector data on Monday.</p>
+      <p>"(However,) the Fed's data-dependent stance will mean that rate expectations may continue to see huge swings due to its higher sensitivity to incoming economic data, with a key look-ahead being the U.S. May CPI report next week," said Yeap Jun Rong, a market analyst at IG.</p>
+      <p>A survey from the Institute for Supply Management showed the U.S. services sector barely grew in May as new orders slowed, pushing a measure of prices paid by businesses for inputs to a three-year low, which could aid the Fed's fight against inflation.</p>
+      <p>Lower interest rates tend to lift gold as it reduces the opportunity cost of holding the non-yielding asset.</p>
+      <p>"(But) the constantly-shifting narrative around how high the terminal rate will have to be and the timeline for rate cuts could challenge gold prices' upside for now, until greater clarity is being presented on that front," Jun Rong said.</p>
+      <p>Traders have priced in an 76% chance that the Fed will hold interest rates at its June 13-14 policy meeting, according to CME Group's FedWatch tool.</p>
+      <p>Indicative of sentiment, SPDR Gold Trust GLD, the world's largest gold-backed exchange-traded fund, said its holdings rose 0.15% to 939.56 tonnes on Monday from 938.11 tonnes on Friday.</p>
+      <p>Spot silver fell 0.1% to $23.5632 per ounce, platinum steadied at $1,030.64, and palladium rose 0.3% to $1,418.24.</p>
+      <p>(Reporting by Arundhati Sarkar in Bengaluru; Editing by Rashmi Aich and Sherry Jacob-Phillips)</p>
+    </div>
+  },
+  {
     id: 519,
     title: 'Oil rises on Saudi plan to deepen output cuts from July',
     category: 'Commodities',
@@ -65,6 +226,39 @@ const data = [
       <p>Algeria’s territory with proven oil and gas reserves stretches across 1.5 million square kilometers, Arkab said, an area roughly the size of Alaska. The heart of the country’s gas industry is Hassi R’Mel, a field around 340 miles south of Algiers that is one of the largest in the world.</p>
       <p>That field, however, has been producing since the early 1960s, and analysts question whether it can increase output significantly. Algeria needs to start producing in large areas of the country that haven’t been exploited and increase recovery rates on fields that are currently in production, Algerian officials say. There are plenty of opportunities: Only 47% of the 1.5 million square kilometers are being exploited, Arkab said.</p>
       <p>“We still have 53% to develop in conventional gas,” he said. “That will dramatically increase our production.”</p>
+    </div>
+  },
+  {
+    id: 524,
+    title: 'Gold slips as yields gain after US payrolls rise',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Yields', 'US'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold slipped on Friday as hotter-than-expected U.S. jobs data lifted Treasury yields, but was on track for a weekly gain as a higher unemployment reading kept alive hopes that the Federal Reserve would pause interest rate hikes.</p>
+    </div>,
+    authorName: 'Deep Kaushik Vakil',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 2, 2023 - 7:16 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-615.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Deep Kaushik Vakil</p>
+    	<p>(Reuters) - Gold slipped on Friday as hotter-than-expected U.S. jobs data lifted Treasury yields, but was on track for a weekly gain as a higher unemployment reading kept alive hopes that the Federal Reserve would pause interest rate hikes.</p>	
+    	<p>Spot gold was down 1.4% at $1,951.13 per ounce by 14:17 EDT (1817 GMT), after hitting a seven-session high earlier. U.S. gold futures settled 1.3% higher at $1,969.6.</p>	
+    	<p>Bullion has gained 0.2% so far this week, and is set to break a three-week losing streak.</p>
+      <p>U.S. nonfarm payrolls grew by 339,000 in May, beating expectations for an increase of 190,000, but the unemployment rate rose to 3.7% from a 53-year low of 3.4% in April.</p>
+      <p>Benchmark 10-year Treasury yields rose, and the dollar ticked up, making the greenback-priced, zero-interest-bearing bullion less attractive. [US/]</p>
+      <p>"The fact that the data is a little mixed is going to cancel itself out where the Fed most likely will look through that data and follow through with whatever they were planning on doing, which right now seems to be a pause," said Everett Millman, chief market analyst at Gainesville Coins.</p>
+      <p>Traders priced in a 70% chance that Fed policymakers will leave rates unchanged later this month.</p>
+      <p>Philadelphia Fed chief Patrick Harker said on Thursday U.S. central bankers should not raise interest rates at their next meeting.</p>
+      <p>Higher rates increase the opportunity cost of holding bullion.</p>
+      <p>"This optimism around interest rates has offset any potential losses for gold now that the U.S. has reached agreement on its debt ceiling and avoided defaulting," Kinesis Money analyst Rupert Rowling wrote in a note.</p>
+      <p>The U.S. Senate on Thursday passed a bipartisan legislation backed by President Joe Biden to lift the country's debt ceiling.</p>
+      <p>Spot silver, also set to gain for the week, fell 1.2% to $23.62 per ounce.</p>
+      <p>Platinum fell 0.7% to $999.15 and palladium advanced 0.8% to $1,405.90, both set for weekly losses.</p>
+      <p>(Reporting by Deep Vakil in Bengaluru; Editing by Vinay Dwivedi and Shilpi Majumdar)</p>
     </div>
   },
   {

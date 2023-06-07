@@ -1,5 +1,114 @@
 const data = [
   {
+    id: 552,
+    title: 'Bitcoin, Ether most other top crypto bounce back even as Coinbase joins Binance as SEC lawsuit target',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Coinbase', 'Binance'],
+    description: <div className="blog-desc">
+      <p>Bitcoin recovered to above US$27,000 on Wednesday morning in Asia, with nearly all other top 10 non-stablecoin cryptocurrencies rebounding even as U.S.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 4:32 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-618.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin recovered to above US$27,000 on Wednesday morning in Asia, with nearly all other top 10 non-stablecoin cryptocurrencies rebounding even as U.S. regulators this week launched a series of lawsuits against Binance and Coinbase, two of the world’s biggest crypto exchanges, alleging most tokens are unregistered securities. Polygon’s Matic token was the exception, dipping 1.7% in the past 24 hours.</p>
+    	<h3>Bitcoin, Ether bounce</h3>
+      <p>Bitcoin rose 5.36% over the last 24 hours to US$27,118 at 6:50 a.m. in Hong Kong, bouncing back to the same price range before the U.S. Securities and Exchange Commission (SEC) filed the lawsuits this week. The world’s largest crypto by market capitalization was still down 2.32% over the past seven days, according to data from CoinMarketCap.</p>	
+    	<p>Ether climbed 4.01% in the past 24 hours to US$1,881, but logged a 1.32% weekly loss.</p>	
+    	<p>The meme coin Dogecoin led the winners this morning with a gain of 6.43%, edging out Bitcoin for the top spot. Polygon’s Matic missed out on the rebound, sliding 1.7% in the last 24 hours, and lost 9.39% over the past week.</p>
+      <p>Nick Ruck, chief operating officer of non-fungible token (NFT) intellectual property licensing firm ContentFi, told Forkast that while the flurry of lawsuits by SEC chair Gary Gensler hit hard, the crypto market has largely held steady.</p>	
+    	<p>“The initial panic quickly wore off as many traders not only expected the lawsuits, but apparently dismissed them entirely,” Ruck said. “A lawsuit may work against the SEC’s expectations when these cases are determined by court judges rather than Gary Gensler’s opinion.”</p>	
+    	<h3>Bloodbath</h3>
+      <p>While prices came back among leading tokens, Jeff Mei, the chief operating officer of the BTSE crypto exchange in the British Virgin Islands, said “we’ve seen something of a bloodbath for altcoins.”</p>
+      <p>He said this is likely due to the SEC lawsuits naming a “basket of altcoins as securities, while not categorizing BTC and ETH in the same class.”</p>	
+    	<p>This creates volatility opportunities for savvy investors, but requires care to navigate, he added.</p>	
+    	<p>On Tuesday, just a day after the SEC sued Binance for alleged securities violations, the same regulator filed suit against Coinbase, the largest crypto exchange in the U.S., for allegedly breaching securities rules.</p>
+      <p>The SEC alleges San Francisco-based Coinbase made billions of dollars unlawfully facilitating the buying and selling of crypto asset securities since at least 2019, according to its statement released Tuesday.</p>	
+    	<p>SEC Chair Gary Gensler tweeted Tuesday that Coinbase’s alleged failures “deprive investors of critical protections, including rulebooks that prevent fraud and manipulation, proper disclosure, safeguards against conflicts of interest, and routine inspection by the SEC.”</p>	
+    	<p>In a related development showing coordination among financial regulators across the U.S., the Alabama Securities Commission on Tuesday filed a so-called show cause order to Coinbase, backed by regulators in many other states.</p>
+      <p>“The Order gives Coinbase 28 days to show cause why they should not be directed to cease and desist from selling unregistered securities in Alabama,” according to the notice. It adds that nine other state regulators, including California where Coinbase is based, were part of a multi-state task force involved in the order.</p>	
+    	<h3>Back and forth</h3>
+      <p>In response, Brian Armstrong, chief executive officer of Coinbase, tweeted that the company was “proud to represent the industry in court to finally get some clarity around crypto rules.”</p>	
+    	<p>Armstrong noted that the SEC reviewed Coinbase’s business and approved it to sell shares to the public in 2021. He added that the SEC and the Commodity Futures Trading Commission have made conflicting statements on crypto assets don’t agree on what is a security and what is a commodity.</p>
+      <p>Coinbase had argued back in April that the SEC’s attacks against Coinbase appeared to be undermining its own role as the approver of companies registering to sell shares to the public.</p>	
+    	<p>Coinbase shares dropped 12.09% at the close of U.S. trading on Tuesday, but rose 2.48% in after-hours trading.</p>	
+    	<p>In an additional action against Binance, the SEC on Tuesday asked a federal judge to freeze the assets of Binance.US, the crypto trading platform set up by Binance chief Changpeng Zhao to serve U.S. clients.</p>
+      <p>In response, Binance.US tweeted on Tuesday that user assets “remain safe and secure” and “the platform continues to be fully operational with deposits and withdrawals functioning as normal.”</p>	
+    	<p>Denys Peleshok, head of Asia at London-based multi-asset brokerage CPT Markets, said: “The SEC has had a very aggressive approach toward crypto companies for some time now and could be increasingly creating an unwelcoming environment for such firms and for the crypto industry as a whole in the country.”</p>	
+    	<p>Republican Senator Cynthia Lummis followed up on this theme in criticism of the SEC actions in a tweet on Tuesday.</p>
+      <p>“Real consumer protection requires creating a robust legal framework that exchanges can comply with, not pushing the industry offshore into the shadows.”</p>	
+    	<h3>Different view</h3>
+      <p>“Tech start-ups are encouraged to ‘run fast and break things’ and to ‘ask for forgiveness, not permission,’ however when the sector the start-up is operating in is finance and investments, there can be real consequences to this approach,” said Bradley Duke, founder and Co-CEO at ETC Group that specializes in exchange traded crypto products.</p>	
+    	<p>“This is especially true in the US, where there is an absence of a regulatory framework for crypto, coupled with a regulator that has taken a very aggressive stance towards companies operating in the space,” Duke said in email comments.</p>
+      <p>Not everyone in the blockchain world agrees that the SEC is out of order.</p>	
+    	<p>“What we’ve seen with crypto exchanges is they have created a market where they act as the Exchange, Broker Dealer, Depository, the Transfer Agent, and even as the Regulator in some cases,” said Jai Waterman, the chief executive officer of Canada-based Blockstation.</p>	
+    	<p>“In this case, Binance operates as all of the above. It is no surprise to us that regulatory action would be taken, and that the SEC is going after Binance and Coinbase, we expected it to happen sooner,” said Waterman at Blockstation, which describes itself as a blockchain-driven platform for tokenizing, listing, trading, clearing and settlement of digital assets and securities.</p>
+      <p>“A lot of what’s listed on Binance and Coinbase, I would argue, are securities and whereas in the traditional securities market you have decentralization of duties, crypto exchanges are adding significant risks by playing all parts,” he said.</p>	
+    	<h3>NFT sales rise</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>	
+    	<p>In the NFT market, the Forkast 500 NFT index edged down 0.08% to 3,284.07 in the 24 hours to 9:40 a.m. in Hong Kong.</p>
+      <p>NFT sales on Ethereum rose 22.81% over the last 24 hours to US$30.06 million, and sales on the Bitcoin network jumped 159.38% to US$8.5 million, according to CryptoSlam data.</p>	
+    	<p>“NFT traders are rather bullish still on the space in the short term, though watching carefully,” Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News, said on Wednesday.</p>	
+    	<p>Petscher added that NFTs generally trade in cycles between art and profile picture (PFP) NFTs. “Though, with news about the SEC filing lawsuits against Coinbase and Binance, all bets are off.”</p>
+      <p>The NFT market saw a large art sale on Tuesday. Digital artist Tyler Hobbs’ Fidenza #545 was sold for around US$1.1 million in a reserved sale, according to NFT marketplace OpenSea.</p>	
+    	<p>“High art sales are an indicator that NFTs may be primed for some action, but the SEC trying to freeze Binance’s U.S. assets and potentially Coinbase’s does have people considering what their best moves are,” Petscher added.</p>	
+    	<p>Ruck of Singapore-based ContentFi said that Binance is “placing bets on their involvement in the future of the NFT industry,” as the world’s largest crypto exchange launched support for Bitcoin NFTs on Tuesday even after being sued by the SEC.</p>
+      <p>Bored Ape Yacht Club had the biggest sales in the past 24 hours with a 1.36% rise to US$14.27 million.</p>	
+    	<p>Uncategorized Ordinals – recently popular Bitcoin Ordinals that are not part of an established collection – recorded a 5.11% increase to US$6.49 million in sales over the past 24 hours.</p>	
+    	<h3>Coinbase shares drop amid broader stock rally</h3>
+      <p>Shares of Coinbase dropped 12.09% at the close on Tuesday following a 9.05% fall on Monday, while shares of Microstrategy, the world’s largest corporate holder of Bitcoin, rose 8.13% on Tuesday, recovering from its 8.53% decline on Monday.</p>
+      <p>Mei at BTSE said the sharp difference in stock performance shows the outsize impact of the SEC’s actions on market sentiment for altcoins as opposed to Bitcoin.</p>	
+    	<p>The S&P 500 closed up 12.02% on Tuesday, reaching its highest level since August 2022.</p>	
+    	<p>U.S. stock futures were mixed as of 11:50 a.m. in Hong Kong. Dow Jones Industrial Average futures edged up 0.02%, and S&P 500 futures gained 0.08%. Nasdaq Futures fell 0.03%.</p>
+      <p>In macroeconomic developments, the U.S. Federal Reserve will meet on June 14 to make its next move on interest rates, which are now between 5% and 5.25%, the highest since 2006.</p>	
+    	<p>The CME FedWatch Tool now predicts a 80.6% chance the Fed will leave rates unchanged in June, and a 19.4% chance for another 25-basis-point rate hike.</p>
+      <p>(Updates with comment from ETC group under Different View section.)</p>	
+    </div>
+  },
+  {
+    id: 551,
+    title: 'Crypto industry reacts to SEC’s lawsuit against Binance',
+    category: 'Crypto',
+    subCategory: ['Crypto', 'SEC', 'Binance'],
+    description: <div className="blog-desc">
+      <p>The cryptocurrency industry faced another jolt as the U.S. Securities and Exchange Commission (SEC) launched its latest enforcement action against Binance, the world’s largest cryptocurrency exchange.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 6, 2023 - 5:07 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-619.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The cryptocurrency industry faced another jolt as the U.S. Securities and Exchange Commission (SEC) launched its latest enforcement action against Binance, the world’s largest cryptocurrency exchange.</p>
+    	<p>On Monday, the SEC filed a lawsuit in the District Court for the District of Columbia targeting Binance, its U.S. branch, and Chief Executive Officer Changpeng Zhao with charges related to securities violations. Forkast asked industry experts to weigh in on what this means for the crypto industry.</p>	
+    	<p>Binance faces 13 charges in the lawsuit, including the unregistered offer and sale of the BNB and BUSD tokens and unregistered activity related to its Simple Earn and BNB Vault products and its staking program. The SEC also alleged that Binance failed to register Binance.com and BAM Trading, the operator of Binance.US, as an exchange or a broker-dealer clearing agency.</p>	
+    	<p>Binance has denied the SEC’s allegations.</p>
+      <p>“The SEC’s actions here appear to be part of a rushed effort to claim jurisdictional ground from other regulators — and investors do not appear to be the SEC’s priority,” said a Binance spokesperson.</p>	
+    	<p>The lawsuit comes amidst increased scrutiny for crypto exchanges in the U.S., three months after the Commodity Futures Trading Commission sued Binance and Zhao for allegedly violating derivatives rules.</p>	
+    	<h3>SEC’s bear call</h3>
+      <p><strong>Ben Caselin, Vice President, MaskEX:</strong> “The effects on the markets can be severe and result in a decrease in trade volume and added unpredictably. U.S. institutions such as the SEC are bearish on the crypto sector; as such, this sector is bearish on the USA. While investor protection is important and oft-cited as the primary motivation driving the SEC, the ongoing refusal to provide clarity coupled with regulation-through-enforcement actions are arguably attempts to maintain order.”</p>	
+    	<p><strong>Rajagopal Menon, Vice President, WazirX:</strong> “These regulatory actions can have both short-term challenges and long-term effects on the industry. While they could create uncertainty and potentially impact market sentiment in the short term, they are aimed at protecting investors and ensuring compliance with existing financial regulations. The ultimate impact on the crypto sector in the U.S. will depend on the specific outcomes of the lawsuit and any subsequent regulatory actions.”</p>	
+    	<p><strong>Mikkel Morch, Chairman and Non-Executive Director, ARK36:</strong> “The SEC is giving an extremely clear signal of strict financial regulatory oversight in the cryptocurrency industry similar to what is happening in the European Union. It is very clear that the SEC insists that all actors in the U.S. market ensure proper investor protection. In this case, Binance is accused of misleading investors, engaging in manipulative trading, and commingling customer assets. The consequence, if Binance is found guilty, may be further erosion of investor confidence in the market, potentially leading to a decrease in participation and investments.”</p>
+      <h3>The American conundrum</h3>
+      <p><strong>Vincent Chok, Chief Executive Officer, First Digital Trust:</strong> “[The SEC’s lawsuit] seems like the next in a series of steps to implement Operation Chokepoint 2.0… They have decided that concepts like self-sovereign identity, and owning your own economic agency should not be given to the masses. This will absolutely set the crypto sector in the U.S. back by many years, the migration of capital and innovation is already filtering out and pivoting to other jurisdictions like Hong Kong and UAE and will continue to do so. The pendulum has swung back the other way.”</p>	
+    	<p><strong>Alex Reinhardt, Founder, Smart Blockchain:</strong> “I don’t believe the SEC’s objective is to destroy the crypto market or Binance. Rather, the goal of the U.S. regulator is to establish control over the crypto industry. And what better way to demonstrate authority than by gaining control over the world’s largest crypto exchange? Ultimately, the litigation is unlikely to result in the collapse of Binance, and that is not the intention. Let’s consider the investigations against BitFinex and Tether as examples. Their purpose was to compel these companies to comply with U.S. legal requirements. Similarly, I anticipate a similar outcome in this case: both parties will reach some form of agreement. Binance will likely pay a significant fine, discontinue certain services such as staking, and demonstrate a greater willingness to cooperate with law enforcement from the United States, among other measures.”</p>	
+    	<p><strong>Urszula McCormack, Partner, King & Wood Mallesons:</strong> “In fairness to the U.S., any market with multiple policymakers and regulators, federal and state levels of government, and a complex legislative environment would struggle to build a cohesive strategy for crypto and Web3, because the overlap between policy areas is colossal. Enforcement and de-banking are the dominant U.S. themes. For other markets, enforcement is arguably often lackluster, but they are forging regulatory pathways focussing on market certainty and scaling regulation grounded in the risk-based approach.”</p>
+      <h3>Greener grass in Hong Kong and UAE</h3>     
+      <p><strong>Mikkel Morch, Chairman and Non-Executive Director, ARK36</strong></p>	
+    	<p>“[The charges against Binance] may encourage other regulatory bodies worldwide to review and strengthen their oversight of cryptocurrency platforms and activities. However, other more so-called crypto-friendly jurisdictions with less stringent or more ‘pro crypto’ regulations will certainly also gain a lot of business as is already visibly seen in the UAE, Hong Kong or Singapore. Long-term, if the EU and U.S. are perceived as hostile to the cryptocurrency asset class then most likely more innovation and business will transition to those jurisdictions.”</p>	
+    	<p><strong>Vincent Chok, Chief Executive Officer, First Digital Trust:</strong>  “Hong Kong and Dubai are already looking to foster a collaborative relationship to bridge the Middle East with Asia in this respect. This comes after the HKMA allowed retail participation in trading crypto, which democratizes access to the crypto marketplace, a progressive approach,” wrote Chok.</p>
+      <p><strong>Urszula McCormack, Partner, King & Wood Mallesons:</strong> “Markets like Hong Kong and Dubai are pulling away (in a positive way) for two key reasons – first, they are sending strong signals from all levels that they support Web3 innovation; secondly, they are crafting sensible regulation across the strategic policy areas that matter – AML/CTF, consumer protection and market integrity.  However, they are at risk – expectations of a positive regulatory environment have been dashed before and some markets have suffered where they failed to meet those expectations by industry participants simply leaving.”</p>	
+    	<p><strong>Ben Caselin, Vice President, MaskEX:</strong> “Amidst the ongoing regulatory stalemate in the US, both [Hong Kong and Dubai] will be capable of capturing additional market share and attract more foreign investment and talent to their shores. Most overseas platforms do not service the US and while the SEC’s actions might negatively impact global crypto markets, the SEC’s power over these markets is limited. This opens up more opportunity for other jurisdictions and regulatory bodies to lead the way.”</p>	
+    	<p><strong>Denys Peleshok, Head of Asia, CPT Markets:</strong> “The SEC has had a very aggressive approach toward crypto companies for some time now and could be increasingly creating an unwelcoming environment for such firms and for the crypto industry as a whole in the country. Lately, some notable crypto firms have expressed their desire to move part of their operations away from the U.S. and to more crypto-friendly jurisdictions. This trend could be beneficial for other countries such as the UAE or Hong Kong which are putting in the efforts to attract crypto companies and to grow the industry locally. These destinations are becoming a magnet for companies operating in and around crypto, thanks to the crypto-friendly legal frameworks they have put in place and the warmer attitude of regulators. As a result, the U.S. could see an exodus of companies in the field of crypto and could sideline itself from the rapid developments of the crypto and Web3 industries.”</p>
+    </div>
+  },
+  {
     id: 550,
     title: 'Investors race to withdraw deposits from Binance amid web of deception claims - latest updates',
     category: 'Crypto',

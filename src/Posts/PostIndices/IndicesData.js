@@ -1,5 +1,121 @@
 const data = [
   {
+    id: 521,
+    title: 'Dow Jones Futures: Indexes Mask Broad Market Rally; Cathie Wood Loads Up Coinbase',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Coinbase', 'indexes'],
+    description: <div className="blog-desc">
+      <p>The stock market rally had a slightly positive session on big-cap indexes Tuesday. But small-cap and midcap stocks had a big day.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 3:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-622.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>Dow Jones futures tilted higher Wednesday morning, along with S&P 500 futures and Nasdaq futures.</p>
+	    <p>The stock market rally had a slightly positive session on big-cap indexes Tuesday. But small-cap and midcap stocks had a big day.</p>	
+	    <p>Two big Cathie Wood holdings, Shopify (SHOP) and Coinbase Global (COIN), went in opposite directions Tuesday.</p>	
+	    <p>SHOP stock rose solidly, extending Monday's advance and flashing an early entry.  TransMedics Group (TMDX), Taiwan Semiconductor Manufacturing (TSM), Life Time Group (LTH) and Marriott International (MAR) made bullish moves.</p>
+      <p>Meanwhile, the SEC charged Coinbase with being an unlicensed broker and violating other securities rules. COIN stock tumbled 12%, though it did come off intraday lows. Coinbase stock fell just over 9% on Monday, below its 50-day and 200-day lines, after the SEC sued Binance, the world's largest cryptocurrency exchange. Cathie Wood's Ark Invest bought the dip, adding more than 300,000 shares of COIN stock on Tuesday.</p>
+	    <p>SHOP stock was added to IBD Leaderboard and SwingTrader on Tuesday. TMDX stock is on the IBD 50. Shopify also was Tuesday's IBD Stock Of The Day.</p>	
+	    <p>Early Wednesday, Ollie's Bargain Outlet (OLLI) slightly beat fiscal first-quarter earnings views and nudged full-year estimates higher. OLLI stock rose in premarket trade, moving toward a cup-with-handle buy point. Ollie's has run back above the 200-day and 50-day line over the past three sessions.</p>	
+	    <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures edged higher vs. fair value. S&P 500 futures climbed 0.15% and Nasdaq 100 futures rose 0.2%. Netflix (NFLX) and Tesla stock helped prop up the S&P 500 and Nasdaq 100, extending their recent runs.</p>
+      <p>Crude oil prices climbed 1% and copper futures rose slightly.</p>
+	    <p>China's exports fell 7.5% in May vs. a year earlier, far worse than expected. However, that does raise hopes for new economic stimulus. Hong Kong's Hang Seng index rose 0.8%.</p>	
+	    <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>	
+	    <h3>Stock Market Rally</h3>
+      <p>The stock market rally showed strong market breadth even as the major indexes traded in a tight range.</p>
+      <p>The Dow Jones Industrial Average eked out a fractional gain in Tuesday's stock market trading. The S&P 500 index rose 0.2%. The Nasdaq composite climbed 0.4%. The small-cap Russell 2000 jumped 2.7%.</p>
+	    <p>U.S. crude oil prices fell 0.6% to $71.74 a barrel. The 10-year Treasury yield edged up 1 basis point to 3.7%.</p>	
+	    <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) rose 1.5% to a 2023 high. The iShares Expanded Tech-Software Sector ETF (IGV) edged up 0.2%. The VanEck Vectors Semiconductor ETF (SMH) climbed 0.7%. TSM stock is a major SMH component.</p>	
+	    <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) gained 1.5% and ARK Genomics ETF (ARKG) popped 2.3%. As stated above, COIN stock and Shopify are major holdings for Ark Invest's ETFs. Tesla (TSLA), Roku (ROKU) and DraftKings (DKNG) were other big components that had solid gains Tuesday.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) rose 2.4% and the Global X U.S. Infrastructure Development ETF (PAVE) 1.5%. U.S. Global Jets ETF (JETS) ascended 1.7%. SPDR S&P Homebuilders ETF (XHB) stepped up 2.9%. The Energy Select SPDR ETF (XLE) advanced 0.8% and the Health Care Select Sector SPDR Fund (XLV) retreated 0.8%.</p>
+	    <p>The Financial Select SPDR ETF (XLF) climbed 1.3%. The SPDR S&P Regional Banking ETF (KRE) soared nearly 5%, hitting its best levels since late April.</p>	
+      <h3>Stocks In Buy Zones</h3>
+      <p>Shopify stock jumped 6.2% to 63.66, clearly breaking a trendline in a short consolidation. Volume was the heaviest since the huge three-day run following Q1 earnings. SHOP stock already was actionable Monday as it bounced from its 21-day line. It's starting to look extended. It's possible the e-commerce giant will forge a new base, but not until the end of next week.</p>	
+	    <p>TransMedics stock leapt 6.2% to 79.40, rebounding from the 50-day line in strong volume. TMDX stock has a 90.15 buy point, but is actionable here.</p>
+      <p>Taiwan Semiconductor stock climbed 1.8% to 99.82, moving back above the 98.99 consolidation buy point in above-average trade, according to MarketSmith analysis. The chip foundry giant sees stronger performance in the second half of 2023, and also guided capital spending to the low end of prior guidance. TSM stock gapped out of its base on May 25, following the blowout results and guidance from key customer Nvidia (NVDA), but soon pulled back. On Monday, shares retreated to just above their 21-day line before rebounding.</p>
+	    <p>Life Time stock popped 4.2% to 20.94, reclaiming a 20.35 cup-base buy point in strong volume. Investors could view the past few weeks as a flat base with a 21.39 entry. LTH stock did get to an 18-month high of 21.75 intraday.</p>	
+	    <p>Marriott stock rose 2.1% to 180.90, offering an early entry in an emerging flat base next to a yearlong cup-with-handle base. The MAR stock flat base won't be forged until Friday, but would have a 183.27 buy point. A move above the old buy point of 181.55 would be another entry and mark a 52-week closing high.</p>	
+	    <h3>Market Rally Analysis</h3>
+      <p>The stock market rally had a dull day according to the major indexes, but there was underlying strength.</p>
+      <p>The Nasdaq rose but isn't getting significantly more extended. The S&P 500 continues to hold just below August 2022 highs. The Dow Jones pulled back to its 50-day line before reversing higher.</p>
+	    <p>Meanwhile, the Russell 2000 and S&P 500 MidCap 400 both jumped to their best levels since March 9.</p>	
+	    <p>The Invesco S&P 500 Equal Weight ETF (RSP) rose 0.7%, hitting a one-month high after reclaiming the 50-day and 200-day lines last Friday.</p>	
+	    <p>The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) edged up 0.2%, right at 52-week highs.</p>
+      <p>Overall, winners beat losers by more than 3-to-1 on the NYSE and by 5-to-2 on the Nasdaq. The number of stocks hitting new highs easily beat those setting new lows.</p>
+	    <p>The market rally has been led by a smaller number of tech titans and AI plays. Many of those names are pausing or at least not outpacing the field. That's probably healthy for those stocks and the broader market. That could help keep the Nasdaq from getting overheated as, hopefully, more groups join leadership.</p>	
+	    <p>Homebuilders, building products, medical products and travel names are showing some strength.</p>	
+	    <h3>What To Do Now</h3>
+      <p>With the major indexes holding steady, market breadth showing a positive, tentative trend and a small number of buying opportunities, investors could keep adding buys gradually. It's an opportunity for lightly invested traders to bulk up exposure, while those who rode the AI wave can diversify their portfolio.</p>
+      <p>Shakeouts remain common, while many stocks with deep bases look extended at traditional buy points. So look for early entries, and try to buy stocks as close to buy points as possible. This is where building your watchlists and setting alerts pays off. If you've done your homework, the real tests are a lot easier.</p>
+    </div>
+  },
+  {
+    id: 520,
+    title: 'Nasdaq Inches Up, Lags Boom In Banks, Small Caps; Fluence Energy Leads As These 3 Growth Stocks Break Out',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Breakout', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>The stock market traded mildly higher amid a relatively quiet day of news on Tuesday. Perhaps the most interesting feature of the day's market action</p>
+    </div>,
+    authorName: 'DAVID SAITO-CHUNG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 1:55 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-623.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The stock market traded mildly higher amid a relatively quiet day of news on Tuesday. Perhaps the most interesting feature of the day's market action: Small caps took the reins amid a roughly 0.4% lift by the Nasdaq composite. Meanwhile, growth stocks in the IBD 50 and other key Investors.com stock lists continued to reward astute traders looking for breakouts.</p>
+      <h3>Beating The Nasdaq</h3>    	
+      <p>The Russell 2000 dominated the upside with a 2.7% gain. Midcap stocks nearly mirrored the bullish action, with SPDR S&P Mid Cap 400 (MDY) rising almost 2.1%.</p>	
+    	<p>At 1855, the small-cap Russell index is recouping even more losses caused by the downfall of regional banks SVB Financial and Signature Bank of New York in March. However, its year-to-date performance continues to lag.</p>	
+    	<p>The Russell 2000 finished Tuesday with a 5.3% gain year to date, vs. advances of 26.8% by the Nasdaq composite and 11.6% by the S&P 500.</p>
+      <p>Indeed, banks thrived on Tuesday, as SPDR S&P Regional Banking ETF (KRE) leapt 4.9%, its fourth largest single-session gain in the current quarter. KRE continued to make headway above its 50-day line, which is trying to flatten out.</p>
+    	<p>Notice on a daily chart how the Russell 2000 index's 50-day line is now tilting a bit higher, a promising sign. (Note: the Russell 2000 chart updates once per day on Investors.com and MarketSmith; please use IWM for intraday action.)</p>	
+    	<p>Meanwhile, the large-cap S&P 500 lagged with a gain of around 0.2%. The Dow Jones Industrial Average traded slightly lower. Volume was running sharply higher vs. the same time on Monday.</p>	
+    	<p>The yield on the key U.S. Treasury 10-year bond edged up less than 1 basis point to 3.69%.</p>
+      <p>The last time the Russell 2000 gained more than 2.5% and the Dow finished lower was Oct. 10, 2008, according to Dow Jones Market Data. It's on track to be only the third such occurrence since the inception of the Russell 2000.</p>
+    	<p>Elsewhere, the IBD 50 hosted no fewer than 14 issues that climbed 3% or more for the day.</p>	
+    	<p>The IBD 50's top dog on Tuesday: Fluence Energy (FLNC), which is getting further past a cup with handle and the proper entry point just above 24.77.</p>	
+    	<p>Notice on the weekly chart how Fluence also saw its relative strength line vault into new high ground since the base began forming near 26 in early February.</p>
+      <p>The base has a lot of wide weekly swings, however, so beware of potential sharp pullbacks. Fluence Energy got some airplay in Tuesday's IBD Live show.</p>
+    	<p>The midcap growth stock has a market value of $4.7 billion and 176 million shares outstanding. Over the past three fiscal reporting years through September 2022, Fluence piled a cumulative net loss of $3.12 a share. In FY 2023, analysts expect the provider of energy storage products and services to lose 64 cents a share, then turn a profit of 11 cents in FY 2024.</p>	
+    	<p>Sales fell 14% vs. a year earlier in the June-ended fiscal third quarter last year to $239 million. But since then, the top line has roared higher, up 135%, 78% and 104% in the three most recent quarters through March.</p>	
+    	<p>According to MarketSmith, 283 mutual funds owned shares in Fluence Energy as of the end of the first quarter, up from 254 in the year-ago period. Top-rated funds owning a piece of the stock include ClearBridge Value Trust (LGVAX).</p>
+      <p>Fluence management owns 1% of the company.</p>
+    	<p>On June 1, Fluence announced that it sealed contracts to supply its Nispera asset performance management software to seven solar power plants under the management of MPC Energy Solutions in El Salvador, Colombia and Mexico. The deal represents the company's entrance into the former two markets and business expansion in the latter.</p>	
+    	<h3>Outside the Nasdaq: IOT Rockets</h3>
+      <p>Samsara (IOT), which is now extended past a breakout point at 22.59, gushed higher in heavy volume for a third straight session. Shares rose as much as 6.7% and entered the 20% profit zone from its buy point.</p>	
+    	<p>A new holder could consider holding the stock a minimum eight weeks and see if the specialist in harnessing data from the IoT (Internet of Things) realm and related markets can extend its gains.</p>
+      <p>Samsara has yet to turn a profit. But the Street sees a profit of 3 cents a share in fiscal 2025, ending in January that year. Net losses continue to shrink as the top line expands.</p>
+    	<p>Sales grew 52%, 49%, 48% and 43% vs. year-ago levels in the past four quarters.</p>	
+    	<p>According to IBD Stock Checkup, Samsara gets a seriously good 96 Composite Rating on a scale of 1 to 99. The Composite rating combines key fundamental, technical and institutional ownership metrics into a single easy-to-use number.</p>	
+    	<p>Use the Composite Rating as a screening tool, not for timing your buys and sells.</p>
+      <h3>Breakout In This Nasdaq Stock</h3>
+      <p>Monday.com (MNDY) remains in the 5% buy zone after clearing a cup base at 171.89. Shares rose 1.4% to 179.31 in dull turnover on Tuesday and briefly notched a 52-week high.</p>
+    	<p>The cup-like pattern also featured the contours of a double bottom base, another bullish chart pattern found among many of the greatest stock market winners, per decades of IBD research. This pattern yielded a lower buy point above 145.46.</p>	
+    	<p>As the daily chart shows, MNDY had two key sell-offs in February to March and in April to early May. These declines produced a pair of lows at 126.05 and 108.34.</p>	
+    	<p>The middle peak of 145.46 in between the two lows produced a new buy point. Monday.com raced past this new entry on strong first-quarter results issued on May 15. The bottom line jumped from a net loss of 96 cents a share a year earlier to a profit of 14 cents a share.</p>
+      <p>The cloud-based platform helps workers more efficiently operate across multiple software applications. It hosts an 81 Earnings Per Share Rating that cloaks strong earnings in the past three quarters.</p>
+    	<p>Sales have exceeded $600 million on a trailing 12-month basis and jumped 75%, 65%, 57% and 50% in the past four quarters.</p>	
+    	<p>Monday.com's Composite Rating is also excellent at 98, according to IBD Stock Checkup. The midcap stock has a market value of $8.6 billion, 47.9 million shares outstanding and a float of 22 million.</p>	
+    	<p>Keep in mind this significant gap between the float of freely traded shares and the total shares outstanding. According to MarketSmith, management owns 22% of the company, or roughly 10.5 million shares. The stock debuted on the Nasdaq in June 2021 at $155 a share.</p>
+      <p>Two More Breakouts To Watch</p>
+    	<p>Kinsale Capital (KNSL) is actionable as it clears a 345.75 buy point in a five-week base that carries the elements of a flat base. The stock rose 2.9% as volume jumped above average on an up day for the fourth straight session.</p>	
+    	<p>The specialty property and casualty insurer traded on average 142,000 shares a day. On Tuesday, more than 204,000 shares exchanged hands, or 43% above its 50-day average.</p>	
+    	<p>Outside the Nasdaq, Copa (CPA) is now extended. Shares in the Panama-based airline rolled 2.7% higher and are exiting the 5% buy zone from a breakout at 98.11. Watch for a potential pullback into the proper buy zone.</p>
+      <p>Meanwhile, NYSE-listed tech stock Dynatrace (DT) briefly reentered the 5% buy range after recently jetting past a 48 buy point in a three-month-plus cup without handle. It is now extended.</p>
+    	<p>From 48, the 5% buy zone goes up to 50.40. The expert in automation of IT operations fell briefly near 50 but cut its losses to less than 0.3%. Volume ran 27% above average.</p>	
+    </div>
+  },
+  {
     id: 519,
     title: 'U.S. Stock Futures Slip Amid Recession Worries',
     category: 'Indices',

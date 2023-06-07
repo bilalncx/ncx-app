@@ -1,5 +1,51 @@
 const data = [
   {
+    id: 531,
+    title: 'USD/JPY Forecast – US Dollar Finds Buyers on the Dip',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar initially tried to fall against the Japanese yen during the trading session on Tuesday, but then turned around to show signs of life again.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 6, 2023 - 6:15 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-616.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar initially tried to fall against the Japanese yen during the trading session on Tuesday, but then turned around to show signs of life again. By doing so, the market ended up showing more of a “buy on the dip” mentality, therefore allowing the market to go looking to the ¥141 level above, which was where we pulled back from a couple of weeks ago. Breaking above that level then opens up the possibility of a move to go much higher.</p>
+	    <p>Ultimately, I do think that happens and therefore this recent pullback to test the top of the ascending triangle that had been so important in this market for so long. I do think that we do see plenty of upward momentum over the longer term, so I remain very bullish of this pair.</p>	
+	    <p>This will be especially true if next week the Federal Reserve decides to raise rates again or sounds hawkish in general. If they do, then we could see this market go much higher. Ultimately, if we do break above the ¥141 level, I think it becomes more or less a “buy-and-hold” market. Ultimately, at that juncture it’s likely that we could go looking to the ¥148 level. The ¥148 level is the “measured move” of the ascending triangle so that then becomes my target.</p>	
+    	<p>On the other hand, if we were to break down below the ¥130 level, then we could test the 50-Day EMA. The 50-Day EMA of course is a technical indicator that a lot of people pay close attention to, so therefore it does make a lot of sense that it could offer a little bit of a moving floor. Breaking down below that would of course be very negative, but I just don’t see that happening unless of course the Federal Reserve surprises with its interest-rate statement or perhaps its future outlook. If that’s the case, then just about anything can happen obviously, but right now it seems as if we are more likely than not going to see a lot of choppy behavior more than anything else.</p>
+    </div>
+  },
+  {
+    id: 530,
+    title: 'GBP to USD Forecast – British Pound Gives Up Early Gain',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially tried to rally during the trading session on Tuesday but gave back gain rather quickly.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 6, 2023 - 6:08 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-617.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound initially tried to rally during the trading session on Tuesday but gave back gain rather quickly. At this point, the market is likely to see the 50-Day EMA is an area of interest, as we are testing it yet again. Underneath, we have the 1.2350 level, an area that had previously been supported. Breaking down below that then opens up the possibility of a move to the 200-Day EMA, and therefore dropping down toward the 1.2250 level.</p>
+    	<p>Ultimately, the market turning back around and showing signs of life could open up the possibility of a move toward the 1.2550 level above, which is an area that has been significant resistance previously. Because of this, I think we’ve got a situation where the market is more likely than not going to continue being noisy, and therefore will be worth paying close attention to when we approach some of these levels mentioned. I think we continue to see a lot of back and forth more than anything else, so keep your position size reasonable and recognize that the market has a lot to chew through in order to get moving for any significant move.</p>	
+    	<p>Ultimately, this is a market that I think will be paying close attention to the idea of whether or not the Federal Reserve is going to continue hiking, of course what the deal is going to be when it comes to economic growth or perhaps even the lack of it around the world. If there are a lot of economic concerns, this does drive money into the US dollar historically.</p>	
+    	<p>That being said, this is a market that I think eventually will have to figure out which direction to focus on, and I think the next couple of weeks could be important to determining the overall directionality of this market given enough time. With that in mind, I suspect we will see a lot of sideways action in the short term, but eventually should give it a bigger break that we can follow. With this, be cautious with your position sizing but once we do break out of this overall range, it’s time to get much bigger.</p>
+    </div>
+  },
+  {
     id: 529,
     title: 'USD/JPY Forecast – US Dollar Threatens Another Breakout',
     category: 'Forex',
