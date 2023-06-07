@@ -291,4 +291,10 @@ div#ncxt__stake {
     #Wallet_Main .plat__ggre .trg__ff__fe p {
         width: 90% !important;
     }
+    #wallet__main__cc .mbl__lpl video {
+        display: none;
+    }
+    #wallet__main__cc .mbl__lpl {
+        padding: 70px 20px 0px 20px !important;
+    }
 }

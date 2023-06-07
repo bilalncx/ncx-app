@@ -23,8 +23,8 @@ function HomeCardVideo()
                     <div className="container">
                         <h1>NCX Crypto Debit Card</h1>
                         <div className="hyng">
-                            <Button href="#compare-cards" className="bnb_mki">Compare Cards</Button>
-                            <Button href="#" className="mki__lo">Sign Up</Button>
+                            <Button href="https://ncx.cx/ncx-card" className="bnb_mki">Compare Cards</Button>
+                            <Button href="https://my.ncx.cx/register" className="mki__lo">Sign Up</Button>
                         </div>
                     </div>
                 </div>

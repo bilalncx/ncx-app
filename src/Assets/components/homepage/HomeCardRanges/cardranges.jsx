@@ -125,10 +125,10 @@ function NCXCardRanges()
                             <p>Unlimited</p>
                         </div>
                     </div>
-                    {/* <div className="vwexx">
+                    <div className="vwexx">
                         <div className="qwrc fcisc">
                             <p>Free Netflix Subscription</p>
-                            <span><InfoIcon /></span>
+                            {/* <span><InfoIcon /></span> */}
                         </div>
                         <div className="qwrc">
                             <p>-</p>
@@ -146,7 +146,7 @@ function NCXCardRanges()
                     <div className="vwexx">
                         <div className="qwrc fcisc">
                             <p>Free Spotify Subscription</p>
-                            <span><InfoIcon /></span>
+                            {/* <span><InfoIcon /></span> */}
                         </div>
                         <div className="qwrc">
                             <p>-</p>
@@ -164,7 +164,7 @@ function NCXCardRanges()
                     <div className="vwexx">
                         <div className="qwrc fcisc">
                             <p>Concierge Service & Lounge Access</p>
-                            <span><InfoIcon /></span>
+                            {/* <span><InfoIcon /></span> */}
                         </div>
                         <div className="qwrc">
                             <p>-</p>
@@ -178,7 +178,7 @@ function NCXCardRanges()
                         <div className="qwrc">
                             <WhiteTick />
                         </div>
-                    </div> */}
+                    </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
                             <p>Compatible with Apple Pay, Google Pay </p>
