@@ -137,7 +137,7 @@ function MyFooter()
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
                         <li><a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a></li>
-                        <li><a href="https://ncx.cx/derivatives">{t("ncx_token")}</a></li>
+                        <li><a href="https://ncx.cx/ncx-token">{t("ncx_token")}</a></li>
                         <li><a href="https://ncx.cx/derivatives">{t("stocks_trading")}</a></li>
                         <li><a href="https://ncx.cx/derivatives">{t("forex_trading")}</a></li>
                         <li><a href="https://ncx.cx/derivatives">{t("commodities_trading")}</a></li>
