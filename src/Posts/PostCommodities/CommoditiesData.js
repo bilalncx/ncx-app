@@ -1,5 +1,143 @@
 const data = [
   {
+    id: 528,
+    title: 'Natural Gas ETF Buying Spree Has Traders Fearing Wild Swings',
+    category: 'Commodities',
+    subCategory: ['Natural', 'Gas', 'ETF'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- A buying spree in ETFs tied to natural gas is spurring concern that the securities risk destabilizing a market that up until now has been the province of energy pros.</p>
+    </div>,
+    authorName: 'Gerson Freitas Jr.',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 9, 2023 - 2:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-638.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>(Bloomberg) -- A buying spree in ETFs tied to natural gas is spurring concern that the securities risk destabilizing a market that up until now has been the province of energy pros.</p>
+    	<p>Hedge funds and other investors have piled into the exchange-traded funds, known by their tickers BOIL and UNG, seeking to profit off fluctuations in prices for the fuel used for cooking, heating and generating electricity. The funds’ combined net assets are now $2.1 billion, twice the level of just six months ago.</p>	
+    	<p>The eye-popping growth for the two funds left them owning about 30% of the front-month futures contracts for gas earlier this week, a ratio many multiples of what’s typical for ETFs tied to commodities futures.</p>	
+    	<p>While that isn’t a problem when holdings and prices are stable, any abrupt buying or selling by those ETFs could lead to wild swings for the fuel, exacerbating volatility in a market already beset by more stomach-churning ups and downs than most.</p>
+      <p>“It’s become dangerously big,” said Gary Cunningham, a director at Tradition Energy, an independent energy risk management and procurement adviser. “If something significant were to happen to it, its positions are so large that they can literally move the market.”</p>
+      <p>ETFs aren’t supposed to move the market, just trade in line with the underlying asset. They’re designed to be highly liquid securities similar to stocks, ideal for giving investors exposure to commodities like natural gas that usually are traded by industry professionals using more complex futures and options contracts.</p>
+      <p>But if they get too big, they can start influencing the underlying market instead of just reflecting it. In fact, that’s what happened with natural gas in 2009 when speculators trying to profit from UNG’s need to roll over contracts helped boost volatility to a three-year high as prices surged. The fund was temporarily forced to stop creating new shares because it could no longer expand its holdings in futures markets.</p>
+      <p>A similar occurrence came in 2020 when oil prices briefly went negative. The United States Oil Fund, a major ETF in the sector, was accused of contributing to market mayhem as it tried to roll over futures contracts amid volatile prices. Regulators eventually ordered the fund to change strategy in the wake of the turmoil.</p>
+      <p>In the gas market this year, investors put nearly $1.9 billion into BOIL, the ProShares Ultra Bloomberg Natural Gas fund, more than any other US commodity-focused ETF. Its assets jumped almost five-fold from a year ago.</p>
+      <p>In early June, it held more than a fifth of New York Mercantile Exchange gas futures for July delivery, along with over-the-counter swap gas contracts. On June 7, BOIL started rolling its contracts into September, reducing its position in the front-month futures.</p>
+      <p>The fund is particularly volatile because it uses leverage to double the daily moves in the underlying gas contracts, a tactic that active traders love because of the opportunity to profit from the swings but which can be dangerous for mom-and-pop buyers unaware of the implications. An investor who bought the fund at last year’s peak in June would have lost 98% of their money if they held it until now.</p>
+      <p>UNG, formally United States Natural Gas Fund LP, has seen inflows of almost $1.2 billion this year. The fund holds almost 10% of July gas contracts.</p>
+      <p>Neither ETF is designed for buy-and-hold investors because they’re structured in a way that will almost always lose money. They must roll their contracts forward as the front-month expires, and since longer-term deliveries are typically pricier, that erodes returns.</p>
+      <p>Flows into gas ETFs surged during the US winter months as predominantly mild temperatures curbed heating demand, sending prices for the fuel plunging from August’s 14-year highs. While the buying appetite has since diminished, flows have remained positive for six straight months.</p>
+      <p>On a daily basis, BOIL flows have tended to move in an inverse direction to prices, meaning investors are net buyers when prices are down and net sellers when prices are up. That’s because some traders seem to be using BOIL as a hedging tool, so they need to add more shares when prices fall as a way to maintain their hedge’s value, according to James Seyffart, a Bloomberg Intelligence analyst.</p>
+      <p>“You also have traders and people trying to time the market that will pour in as the price collapses, trying to hit a jackpot moment when it flies higher,” Seyffart said. “So if natural gas turns around you will see outflows from this product, which will be traders taking profits and hedgers taking off some of the hedge they no longer need.”</p>
+      <p>There’s limited transparency into who exactly or even what kinds of investors hold the ETFs, and their issuers declined to comment on ownership.</p>
+      <p>UNG’s issuer, United States Commodity Funds, said the inflows to the fund are consistent with historical patterns. “When prices are volatile and/or low, we believe traders see potential opportunities,” Chief Marketing Officer Katie Rooney said in an email.</p>
+      <p>John Hyland, a former executive who oversaw commodity-linked products including USO and UNG as chief investment officer at the firm, estimates that more than 80% of gas ETFs are held by hedge funds and other professionals, with retail investors almost certainly a “small minority of the shareholder base.”</p>
+      <p>“I always joked that 80% of our shares are held by firms having a mailing address in Connecticut, a tax domicile in the Cayman Islands, and a Greek or Roman god in their name,” Hyland said in an email. “But I am not exactly sure what they do for a living.”</p>
+      <p>Investors in gas ETFs risk making the commodity, already the “king of volatility,” even more prone to swings that exacerbate the trends dictated by supply and demand fundamentals, according to Robert Yawger, director of the futures division at Mizuho Securities USA.</p>
+      <p>“It’s a herd mentality,” Yawger said.</p>
+      <p>--With assistance from Isabelle Lee.</p>
+    </div>
+  },
+  {
+    id: 527,
+    title: 'Gold heads for best week in five on Fed rate pause bets',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Fed', 'rate'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold eased on Friday on a stronger dollar and higher yields but was set for its best week since early May after weaker jobs data bolstered bets for the Federal Reserve to hold pat on interest rates next week.</p>
+    </div>,
+    authorName: 'Deep Kaushik Vakil',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 9, 2023 - 7:31 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-639.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Deep Kaushik Vakil</p>
+    	<p>(Reuters) - Gold eased on Friday on a stronger dollar and higher yields but was set for its best week since early May after weaker jobs data bolstered bets for the Federal Reserve to hold pat on interest rates next week.</p>	
+    	<p>Spot gold fell 0.3% to $1,961.39 per ounce by 3:15 p.m. EDT (1915 GMT). But it is headed for a 0.7% weekly climb, helped by a 1.5% jump on Thursday after a surge in U.S. weekly jobless claims.</p>	
+    	<p>U.S. gold futures settled down 0.1% to $1,977.20.</p>
+      <p>"Gold is oscillating in a $1,940-$1,990 range and is likely to remain so until inflation data and the Fed result next week," said Tai Wong, a New York-based independent metals trader, adding that bullion remains "more sensitive to weak or dovish economic data."</p>
+      <p>The dollar index bounced off two-week lows, making gold expensive for overseas buyers, while higher 10-year Treasury yields made zero-yield bullion less attractive.</p>
+      <p>Markets now priced in a 72% chance of the Fed standing pat next week, but odds of a hike in July were 67%, the CME Fedwatch tool showed.</p>
+      <p>Traders braced for the U.S. inflation report for May due on Tuesday, a day before the Fed announces its policy decision.</p>
+      <p>China raised its gold reserves for a seventh straight month to 67.27 million fine troy ounces by May-end.</p>
+      <p>Standard Chartered analyst Suki Cooper noted "a sharp increase in the number of central banks looking to add gold in the next five years."</p>
+      <p>Palladium, used in emissions-controlling devices in cars, plunged to its lowest since May 2019, hovering at $1,324.</p>
+      <p>"Palladium has slumped to four-year lows after weak U.S. and Chinese data and appears to be headed for a new, lower range," Wong said.</p>
+      <p>Silver rose 0.1% to $24.26 per ounce and eyed its best week since early April, while platinum fell 0.1% to $1,009.30.</p>
+      <p>(Reporting by Deep Vakil in Bengaluru; Editing by Nick Zieminski, Richard Chang and Mark Porter)</p>
+    </div>
+  },
+  {
+    id: 526,
+    title: 'Oil posts second weekly decline as demand concerns overshadow Saudi cut',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Demand', 'Saudi'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) - Oil prices fell more than a dollar a barrel on Friday to record a second straight weekly decline, as disappointing Chinese data added to doubts about demand growth after Saudi Arabia's weekend decision to cut output.</p>
+    </div>,
+    authorName: 'Shariq Khan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 9, 2023 - 5:36 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-637.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Shariq Khan</p>
+    	<p>BENGALURU (Reuters) - Oil prices fell more than a dollar a barrel on Friday to record a second straight weekly decline, as disappointing Chinese data added to doubts about demand growth after Saudi Arabia's weekend decision to cut output.</p>	
+    	<p>Brent crude futures fell $1.17, or 1.5%, to settle at $74.79 a barrel, while the U.S. West Texas Intermediate crude fell $1.12, or 1.6%, to $70.17 a barrel.</p>	
+    	<p>Both benchmarks lost more than $3 on Thursday after a media report that a U.S.-Iran nuclear deal was imminent and would result in more supply. Prices pared losses after both countries denied the report, ending about a dollar a barrel lower.</p>
+      <p>"Thursday's price moves show how fragile oil is," said UBS analyst Giovanni Staunovo.</p>
+      <p>"The Saudi cut lifted prices slightly, and then the chatter of the potential return of Iranian barrels saw a large drop. Long investors are likely on the sidelines until larger oil inventory declines become visible," he said.</p>
+      <p>Oil prices had risen early in the week, buoyed by Saudi Arabia's pledge over the weekend to cut more output on top of the cuts agreed earlier with the Organization of the Petroleum Exporting Countries and its allies.</p>
+      <p>However, a rise in U.S. fuel stocks and weak Chinese export data have weighed on the markets.</p>
+      <p>"As we move deeper into the summer driving season in the Northern Hemisphere, demand will be a key factor in determining whether limited inventories must drive prices higher, or soft demand leads to lower prices," said Rob Haworth, senior investment strategist at U.S. Bank Asset Management.</p>
+      <p>China's factory gate prices fell at the fastest pace in seven years in May and quicker than forecasts, as faltering demand weighed on a slowing manufacturing sector and cast a cloud over the fragile economic recovery.</p>
+      <p>Some analysts expect oil prices to rise if the U.S. Federal Reserve pauses hiking interest rates at its next meeting over June 13-14. The Fed's decision may also influence Saudi Arabia's next move, analysts said.</p>
+      <p>"The important thing is that despite those changes (Saudi, US-Iran) to output, oil remains below $80, no doubt much to the disappointment of the Saudis," said OANDA analyst Craig Erlam.</p>
+      <p>"What comes next may well depend on the inflation data and interest rate decisions over the coming weeks," he said.</p>
+      <p>(Reporting by Shariq Khan; Additional reporting by Shadia Nasralla, Yuka Obayashi and Sudarshan Varadhan; Editing by Marguerita Choy and Richard Chang)</p>
+    </div>
+  },
+  {
+    id: 525,
+    title: 'Gold jumps as US dollar, yields dip after jobless claims data',
+    category: 'Commodities',
+    subCategory: ['Gold', 'US', 'dollar'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices climbed more than 1% on Thursday as the dollar and bond yields slipped after data showed U.S. weekly jobless claims surged last week,</p>
+    </div>,
+    authorName: 'Brijesh Patel and Ashitha Shivaprasad',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 8, 2023 - 7:25 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-640.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Brijesh Patel and Ashitha Shivaprasad</p>
+    	<p>(Reuters) - Gold prices climbed more than 1% on Thursday as the dollar and bond yields slipped after data showed U.S. weekly jobless claims surged last week, cementing expectations that the Federal Reserve will pause its interest rate hiking cycle.</p>	
+    	<p>Spot gold rose 1.2% to $1,962.49 per ounce by 01:42 p.m. EDT (1742 GMT).</p>	
+    	<p>U.S. gold futures settled up 1% at $1,978.60.</p>
+      <p>The number of Americans filing new claims for unemployment benefits surged last week, suggesting that the labour market was slowing amid mounting risks of a recession.</p>
+      <p>"This data shows a further weakness in the U.S. economy, which is good news for gold as it will allow the Fed to be on hold," said Edward Moya, senior market analyst at OANDA.</p>
+      <p>"If we get further softness in inflation, if the Fed holds and they really don't signal a strong likelihood of a hike for the next meeting, then there is a good case for gold to edge higher."</p>
+      <p>Following the jobs data, the dollar slipped 0.7% to a two-week low against its rivals, making gold less expensive for other currency holders, while benchmark U.S. 10-year Treasury yields tumbled.</p>
+      <p>Money market participants now see a 71% chance that the U.S. central bank will skip raising interest rates at its policy meeting next week, according to the CME's Fedwatch tool.</p>
+      <p>Lower U.S. interest rates put pressure on the dollar and bond yields, increasing the appeal of non-yielding bullion.</p>
+      <p>The U.S. consumer inflation report for May, due on June 13, could provide more clarity about the health of the world's largest economy.</p>
+      <p>"There's a lot of uncertainty and you could see it in gold prices, if yields really start to back off here, then gold could move much higher," said Daniel Pavilonis, senior market strategist, RJO Futures.</p>
+      <p>Elsewhere, silver jumped 3.4% to $24.24 per ounce, while platinum fell 0.7% to $1,010.93.</p>
+      <p>Palladium dipped 2.7% to $1,351.90, after falling to its lowest since June 2019 at $1,348.74 earlier in the session.</p>
+      <p>(Reporting by Brijesh Patel, Ashitha Shivaprasad and Seher Dareen in Bengaluru; Editing by Elaine Hardcastle, Emelia Sithole-Matarise and Krishna Chandra Eluri)</p>
+    </div>
+  },
+  {
     id: 521,
     title: 'Gold dips on firm dollar, markets look for Fed cues',
     category: 'Commodities',

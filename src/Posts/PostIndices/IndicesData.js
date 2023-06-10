@@ -1,5 +1,136 @@
 const data = [
   {
+    id: 524,
+    title: 'Dow Jones Futures: Bullish Market Trend, But Fed Meeting Looms; Watch Tesla, Nvidia, Biogen',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Tesla', 'Nvidia'],
+    description: <div className="blog-desc">
+      <p>A broader market rally is a reason to be bullish long term, but the Fed meeting is one reason to be cautious now. Biogen jumped late Friday. Watch Tesla and Nvidia.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 10, 2023 - 3:58 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-632.jpg',
+    content: <div className="blog-content">
+    	<h3>n this article:</h3>
+    	<p>A broader market rally is a reason to be bullish long term, but the Fed meeting is one reason to be cautious now. Biogen jumped late Friday. Watch Tesla and Nvidia.</p>
+    	<p>Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Tesla, Nvidia, On Holding, Biogen (BIIB), Oracle (ORCL), Boeing (BA) and Caterpillar (CAT) are stocks to watch. But the focus will be on the Federal Reserve meeting amid two big inflation reports.</p>
+    	<p>The stock market rally broadened last week, though that faded somewhat after Wednesday. The major indexes rose slightly for the week, with the Nasdaq and S&P 500 right at 2023 highs. But small caps and midcaps had another solid gain, with market breadth trending higher, despite losers leading Friday.</p>	
+    	<p>With the Fed meeting on tap and the Nasdaq still close to being extended, investors have reasons to be cautious right now about new buys, especially in hot tech sectors. But some stocks continue to flash buy signals.</p>	
+    	<p>On Holding (ON) made a bullish move Friday. Nvidia (NVDA) has forged a new buy point. Can Tesla (TSLA) continue its win streak? A pause or pullback would be normal for Tesla stock, and perhaps help the Nasdaq cool off.</p>
+      <p>ORCL stock is extended, but Oracle earnings late Monday could offer a gauge into business software and AI. Red-hot Adobe (ADBE) reports later in the week.</p>
+      <h3>Biogen's Alzheimer's Drug Wins Key Vote</h3>
+      <p>Late Friday, an FDA advisory panel unanimously recommended approval for Biogen's Alzheimer's drug Leqembi.</p>
+      <p>BIIB stock jumped 6.2% to 328 in late trading after being halted during Friday's regular session. That signals a breakout from a brand-new flat base, which is part of a base-on-base formation. The buy point is 319.74,</p>
+      <p>Shares rose 2.9% to 308.88 in the week through Thursday, rebounding from the 50-day line and breaking a downtrend on hopeful signs for the advisory panel's vote. That offered an early entry.</p>
+      <p>Eli Lilly stock rose 0.1% on Friday, not moving much on the FDA advisory panel vote just before the close. FDA approval of Biogen's Leqembi should be good news for Lilly's experimental Alzheimer's treatment donanemab. LLY stock has been consolidating near highs in the past few weeks.</p>
+      <p>Meanwhile, investors should keep their eyes on industrial stocks. Many are setting up or in buy areas, including Dow giants Boeing and Caterpillar stock.</p>
+      <p>Tesla stock and Nvidia are on IBD Leaderboard, with ONON stock added to the Leaderboard watchlist on Friday. BA stock was added to SwingTrader. Tesla and ORCL stock are on the IBD Big Cap 20. On Holding was Friday's IBD Stock Of The Day.</p>
+      <p>The video embedded in this article reviews the market action over the past week and analyzed On Holding, Boeing and Nvidia stock.</p>
+      <h3>Fed Meeting</h3>
+      <p>Markets expects policymakers to leave interest rates unchanged at the end of its June 13-14 Fed meeting, but it's not a sure thing. The May CPI inflation report is due Tuesday morning, with the producer price out early Wednesday. Those could tip the scales just before the Fed meeting announcement.</p>
+      <p>Assuming the Fed stands pat, it may be a "hawkish" pause. The Fed meeting statement and Fed chief Jerome Powell would likely stress the possibility of renewed rate hikes at a subsequent meeting. Indeed, markets are leaning toward a Fed rate hike in late July.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures open at 6 p.m. ET on Sunday, along with S&P 500 futures and Nasdaq 100 futures.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally showed a broad advance for the week, though the indexes and various sectors didn't move in lockstep during the week.</p>
+      <p>The Dow Jones Industrial Average rose 0.3% in last week's stock market trading. The S&P 500 index climbed 0.4%. The Nasdaq composite edged up 0.1%. The small-cap Russell 2000 popped 1.65%.</p>
+      <p>The 10-year Treasury yield rose 5 basis points to 3.74%.</p>
+      <p>U.S. crude oil futures fell 2.2% to $70.17 a barrel last week. Copper futures climbed 1.8%.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) rose 1.1% last week, while the Innovator IBD Breakout Opportunities ETF (BOUT) popped 1.9%. The iShares Expanded Tech-Software Sector ETF (IGV) closed a fraction higher, with Oracle stock a notable component. The VanEck Vectors Semiconductor ETF (SMH) advanced 0.5%, with Nvidia stock a major holding.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) rose 1.7% last week. The Global X U.S. Infrastructure Development ETF (PAVE) rallied 2.4%. U.S. Global Jets ETF (JETS) ascended 3.6%. SPDR S&P Homebuilders ETF (XHB) popped 2.8% to the highest point since January 2022. The Energy Select SPDR ETF (XLE) advanced 1.8%. The Health Care Select Sector SPDR Fund (XLV) edged up 0.1%. Industrial Select Sector SPDR Fund (XLI) climbed 1.45%, hitting a three-month high. Boeing and CAT stock are both big XLI holdings.</p>
+      <p>The Financial Select SPDR ETF (XLF) rose 1.% The SPDR S&P Regional Banking ETF (KRE) rallied 3%.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) gained 2.1% last week and ARK Genomics ETF (ARKG) edged up 0.2%. Tesla stock is the top holding across Ark Invest's ETFs.</p>
+      <h3>ONON Stock</h3>
+      <p>ONON stock climbed 5.4% to 30.24 on Friday. Shares got as high as 31.45, above its 50-day moving average, but closed just below that key level. Intraday, On Holding offered an early entry, but investors should now wait for a decisive move above the 50-day line, such as clearing Friday's peak. On Holding skyrocketed in late March on strong Q4 2022 earnings, continuing to rise into early May. Shares of the Swiss athletic shoe maker sold off hard in late May despite booming Q1 earnings, amid concerns about slowing growth later this year.</p>
+      <h3>Nvidia Stock</h3>
+      <p>NVDA stock fell 1.4% to 387.70 last week, continuing to consolidate after gapping higher on May 25 following strong earnings and blowout guidance on AI-fueled chip demand. The graphics-chip maker now has a three-weeks tight, which offers the opportunity to add a few more shares. The official buy point is 419.38, at the top of the tight pattern, but a move above Friday's high of 397.11 could provide an entry. Even better, a pause for another week or two would let the 21-day line catch up.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock surged 14% to 244.40 last week, an eight-month high, extending its win streak to 11 sessions. Even more impressive, TSLA stock is up 10 straight days in higher volume. A deal to let General Motors (GM) use Tesla charging stations, and the entry Model 3 once again being eligible for the full $7,500 IRA tax credit in the U.S., were key drivers. Yes, bears can point to rising U.S. and European inventories despite various discounts, but the market isn't listening to that now. TSLA stock is now greatly extended from a 207.79 buy point, according to MarketSmith analysis. After such a strong run, at least a short-term pause seems likely, but it doesn't have to happen right away.</p>
+      <h3>Dow Stocks Boeing, Caterpillar</h3>
+      <p>Boeing stock rose 1.9% to 217.31 last week, rebounding from the 50-day line on Wednesday and clearing a trendline on Thursday, offering an early entry. BA stock is just below a 221.33 buy point from a flat base.</p>
+      <p>CAT stock popped 3.7% to 235.03 last week and is up 14% so far in June. The heavy equipment giant broke a trendline going back to late January, offering an early entry. Caterpillar stock has an official buy point of 227.04.</p>
+      <p>Terex (TEX), Parker-Hannifin (PH), Rockwell Automation (ROK) and W.W. Grainger (GWW) are among the many other industrial names showing some strength.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally offered reasons to be bullish longer term, but also reasons to be cautious in the short run.</p>
+      <p>Market breadth has improved significantly over the past couple of weeks, though losers led winners on Friday. The small-cap Russell 2000 and the S&P MidCap 400 had solid gains to three-month highs, though they did pull back late in the week. The Invesco S&P 500 Equal Weight ETF (RSP) climbed 1%.</p>
+      <p>The major indexes ended with slim weekly gains. The S&P 500 is right at 2023 highs, backing off Friday from just 3 points below the August peak during the week The Dow Jones found support at the 50-day line during the week and is moving toward 2023 highs.</p>
+      <p>The Nasdaq has now rallied for seven straight weeks, right at 52-week highs. The Nasdaq is 5.9% above its 10-week line with the Nasdaq 100 6.8% above that key level. Those are not extreme levels, but suggest that techs may have limited room to run before becoming stretched. So Friday's pullback from morning highs wasn't really a surprise. A pause would offer time for moving averages to catch up with the Nasdaq, and perhaps let some leaders forge new buying opportunities.</p>
+      <p>Ideally, the rest of the market would pick up the slack. That appears to be happening, though not on Friday.</p>
+      <p>Chips and software remain market leaders, generally holding recent gains. Industrials are joining building materials, homebuilders, medical products, travel plays as well as some biotechs and various restaurants as other leading groups.</p>
+      <h3>What To Do Now</h3>
+      <p>This may be a time to be cautious about new purchases, especially on techs, with the Nasdaq close to stretched and the Fed meeting on tap. If you do make new buys, be sure to have your exit strategies ready.</p>
+      <p>But the outlook appears bullish for the stock market rally. Improving market breadth is helping a wider array of stocks set up. Some have been flashing buy signals while others are moving into position.</p>
+      <p>Will this trend last? Don't try to predict where this market will go. Pay attention to what the market is doing right now.</p>
+      <p>So definitely get your watchlists ready. Make sure to cast a wide net, so you catch industrial stocks and other reemerging areas of strength.</p>
+    </div>
+  },
+  {
+    id: 523,
+    title: 'Dow Jones Today: Index Inches Up Ahead of Fed Meeting',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Index', 'Fed'],
+    description: <div className="blog-desc">
+      <p>Dow ended the week in the grain following four straight sessions of gains.</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 10, 2023 - 12:55 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-631.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Dow ended the week in the grain following four straight sessions of gains.</li>
+        <li>Salesforce led the Dow higher, while tech stocks Microsoft and Apple also moved up.</li>
+        <li>Amgen shares fell after CMS said it owes Medicare rebates on its drugs that increased in price faster than inflation.</li>
+      </ul>
+    	<p>The Dow Jones Industrial Average (DJIA) ticked up about 0.1%, or 44 points, on below-average volume as investors await next week's inflation reading and an interest rate decision from the Federal Reserve.</p>
+    	<p>The Dow closed in the green for the fourth straight session, finishing the week up about 0.4%. The S&P 500 continued to rise, climbing 0.1%, after officially entering a bull market yesterday. The Nasdaq closed up about 0.2%.</p>	
+    	<p>Still riding on news of an executive shakeup, Salesforce (CRM) led the Dow higher, moving up 2.8%. Other Dow tech stocks also performed well, with International Business Machines (IBM) and Microsoft (MSFT) rising 0.7% and 0.5%, respectively. Apple (AAPL) shares gained 0.3%.</p>	
+    	<p>UnitedHealth Group (UNH), which yesterday announced a 14% dividend hike, continued to climb, rising 0.7%. Merck & Co. (MRK) gained about 0.4%.</p>
+      <p>For the second straight session, Dow Chemical (DOW) was the worst-performing stock of the Dow 30, dropping 2%. Intel (INTC) shares lost about 1.5%, while retailers Walgreens Boots Alliance (WBA) and Home Depot (HD) sank 1.4% and 1.3%, respectively.</p>
+      <p>Shares of Amgen (AMGN) fell 0.9% after the Center for Medicare & Medicaid Services said the drugmaker owed Medicare for drugs that increased in price faster than inflation.</p>
+    </div>
+  },
+  {
+    id: 522,
+    title: 'S&P 500 finishes week at highest level since August, as Nasdaq logs 7th-straight winning week: Stock market news today',
+    category: 'Indices',
+    subCategory: ['S&P', 'Nasdaq', 'Stock'],
+    description: <div className="blog-desc">
+      <p>Stocks rose on Friday as investors digested a pairing between two of the largest American automakers and prepared for the Federal Reserve's next decision on rate hikes.</p>
+    </div>,
+    authorName: 'Josh Schafer',
+    authorurl: 'https://www.yahoo.com/author/josh-schafer/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 10, 2023 - 12:02 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-630.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stocks rose on Friday as investors digested a pairing between two of the largest American automakers and prepared for the Federal Reserve's next decision on rate hikes.</p>
+    	<p>The S&P 500 (^GSPC) rose 0.12% while the Nasdaq Composite (^IXIC) increased 0.16% and the Dow Jones Industrial Average (^DJI) added 0.13% or 44 points.</p>	
+    	<p>The Nasdaq has risen for seven straight weeks while the S&P 500 is at its highest levels since August 2022.</p>	
+    	<p>The S&P 500 finished Thursday's trading sessions up more than 20% from its October 2022 lows, officially marking the start of a bull market. The stock rally to start 2023 comes as strong economic data continues to outweigh incessant recession fears.</p>
+      <p>"I do believe that the worst is behind us," BMO Capital Markets Chief Investment Strategist Brian Belski, who recently boosted his S&P year-end price target from 4,300 to 4,550, told Yahoo Finance Live. "The Fed, maybe, has one more interest rate increase between now and the end of the year, and that's OK, but I think most of that has been already priced into the market."</p>
+      <p>Shares of Tesla (TSLA) and General Motors (GM) both traded higher at the market open after GM announced Thursday it is joining forces with Tesla to leverage the electric-vehicle maker's Supercharger Network. The announcement comes two weeks after Ford (F) announced a similar partnership with Tesla to enable access for Ford vehicles to Tesla's charging network.</p>
+      <p>"This collaboration is a key part of our strategy and an important next step in quickly expanding access to fast chargers for our customers," GM CEO Mary Barra said in a press release.</p>
+      <p>Tesla shares rose 4% on the news, extending an 11 day rally. The recent surge in Tesla shares is tied for the most consecutive days of gains ever.</p>
+      <p>Shares of Docusign (DOCU) turned negative as the company beat analyst estimates for both revenue and earnings per share in the most recent quarter. Several Wall Street analysts reiterated sell ratings on the stock.</p>
+      <p>"DocuSign attributed the out-performance to renewal timing, only passed a portion of the 1Q beat to the full year guide and sounded somber about the state of the demand backdrop," UBS analyst Karl Keirstead wrote in a note to clients after the earnings release.</p>
+      <p>Meanwhile, Netflix (NFLX) stock gained 2.6% on Friday after new data from analytics platform Antenna showed US sign-ups for the streaming service jumped by the most in at least four and a half years following the streamer's password sharing crackdown launching last month.</p>
+      <p>On the economic front, Friday is expected to be quiet. Markets projecting the Fed's next move are currently pricing in a 78% chance the Federal Reserve pauses its interest rate hike cycle at its meeting next week.</p>
+      <p>"The FOMC is likely to pause at its June meeting next week to let the haze clear before it considers another rate hike," a Goldman Sachs team of economists led by Jan Hatzius wrote in a note to clients Thursday night.</p>
+      <p>The economists added: "The Fed leadership has signaled that it sees pausing as the prudent course because uncertainty about both the lagged effects of the rate hikes it has already delivered and the impact of tighter bank credit increases the risk of accidentally overtightening." </p>
+    </div>
+  },
+  {
     id: 521,
     title: 'Dow Jones Futures: Indexes Mask Broad Market Rally; Cathie Wood Loads Up Coinbase',
     category: 'Indices',

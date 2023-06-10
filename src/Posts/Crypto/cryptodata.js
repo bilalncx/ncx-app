@@ -1,5 +1,218 @@
 const data = [
   {
+    id: 556,
+    title: 'Why Bitcoin’s transactions are soaring today',
+    category: 'Crypto',
+    subCategory: ['bitcoin', 'transactions', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin transactions hit the highest point in almost two months amid regulatory heat. Yet, money flowed out of the market.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 9, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-626.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article</h3>
+    	<p>Bitcoin transactions hit the highest point in almost two months amid regulatory heat. Yet, money flowed out of the market.</p>
+    	<ul>
+        <li>Active addresses hit the one million mark on 6 and 7 June.</li>
+        <li>Traders’ positions suggested optimism for BTC’s price.</li>
+      </ul>
+      <p>The number of active addresses transacting with Bitcoin [BTC] reached one million for two consecutive days, on 6 June and 7 June, according to Santiment.</p>	
+    	<h3>Skepticism drives the act</h3>
+      <p>Although active addresses showed the number of unique senders and receivers, the hike did not entirely imply that these participants were buying BTC.</p>	
+    	<p>While this suggested significant activity for Bitcoin, it tilted more toward investors’ action to move assets away from exchanges and into self-custody.</p>
+      <p>Lately, Binance and Coinbase, two of the world’s largest exchanges with high trading volumes, were served court papers by the U.S. SEC. This resulted in a high rate of outflows from both platforms.</p>
+      <p>Despite the challenges and an initial downturn, BTC did not fall below the $25,000 mark. Also, the regulatory issues and hike in transactions propelled an increase in Bitcoin’s social dominance.</p>
+      <p>Social dominance shows the share of discussions in the crypto community that is connected to an asset. So, the increase means that attention toward the BTC spiked. While the metric had fallen at press time, the weighted sentiment also followed the same route.</p>
+      <p>Used as a measure of the investors’ perception toward an asset, the Bitcoin-weighted sentiment increased to 1.45 on 6 June. However, it had decreased to -0.91 at the time of this writing, insinuating a backpedal in optimism around the coin.</p>
+      <h3>Open Interest falls</h3>
+      <p>In the derivatives arm of the market, Bitcoin’s Open Interest (OI) decreased. The OI serves as an indicator of the interest in opening futures or options contracts for an underlying asset.</p>
+      <p>If the OI increases over time, then it means that traders are opening more positions. But since its decrease, it indicated how traders were exiting postins and taking liquidity out of the market.</p>
+      <p>Regardless of the exits, most traders still in search of potential gains have opted to go long. This inference was indicated by the funding rate. Usually, a positive funding rate indicates that long-positioned traders are willing to keep open their contracts by paying short.</p>
+      <p>But when the funding rate is negative, it means that more short positions were open, and outpacing their long counterparts.</p>
+      <p>In another development, ArkInvest CEO Cathie Wood maintained her optimistic BTC position in a recent Bloomberg interview. This was after her company accumulated more of the Coinbase stock after the SEC served the company.</p>
+      <p>While she said the crackdown on the firms is healthy for competition, she also answered another question about her $1 million prediction. In backing her stance, Wood said:</p>
+      <p><strong>“The more uncertainty and volatility there is in the global economies, the more confidence increases in Bitcoin.”</strong></p>
+    </div>
+  },
+  {
+    id: 555,
+    title: 'Weekly Market Wrap: SEC crackdown on Binance, Coinbase ‘can’t stop’ Bitcoin as it trades above US$26,000',
+    category: 'Crypto',
+    subCategory: ['SEC', 'Binance', 'Coinbase'],
+    description: <div className="blog-desc">
+      <p>Bitcoin fell 2% from June 2 to June 9 to trade at US$26,598 at 7:45 p.m. Friday in Hong Kong.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 9, 2023 - 5:14 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-627.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin fell 2% from June 2 to June 9 to trade at US$26,598 at 7:45 p.m. Friday in Hong Kong. The world’s largest cryptocurrency by market capitalization has traded below US$30,000 since April 19. Ether fell 2.83% over the week to US$1,842.</p>
+    	<p>It was a tumultuous week for the crypto industry after the U.S. Securities and Exchange Commission sued Binance’s U.S. wing for 13 charges related to securities violations, including the unregistered offers and sales of the BNB and BUSD tokens and activity related to its Simple Earn and staking programs.</p>	
+    	<p>The SEC sued Coinbase exchange on Tuesday, a day after initiating its lawsuit against Binance. The regulator alleged that Coinbase made billions of dollars unlawfully facilitating the buying and selling of crypto asset securities since at least 2019.</p>	
+    	<p>“It is obvious that the SEC is currently on the hunt for crypto companies. This goes back to the collapse of FTX in 2022, as U.S. regulators would embarrass themselves if a similar scenario were to repeat itself without intervention,” Jonas Betz, crypto market analyst and founder of consultancy firm Betz Crypto, told Forkast in a LinkedIn response.</p>
+      <p>“It is very likely that more exchanges will be targeted in the coming months. However, going for the big dogs like Binance and Coinbase first seems strategically clever as smaller companies will automatically adapt their activities to the new rules indicated by the outcome of the lawsuits.”</p>
+      <p>Following the lawsuits, Bitcoin briefly dipped to a weekly low of US$25,493 on Tuesday but recovered above US$26,000 the same day.</p>
+      <p>“The rapid recovery of crypto prices is due to two reasons. First, lawsuits can’t stop decentralized systems like Bitcoin and Ethereum and therefore do not pose a direct threat to cryptocurrencies. Second, even though the U.S. is an influential global player, these lawsuits should have little impact on other jurisdictions around the world. While holders of U.S. cryptocurrencies sold their shares in a short-lived market panic, many took the opportunity to buy cryptocurrencies at a discount, thus the market quickly recovered,” wrote Betz.</p>
+      <p>James Wo, the founder and chief executive officer of crypto investment firm DFG, said that market confidence did not take a significant hit from the lawsuits, unlike the panic selling caused by FTX’s collapse.</p>
+      <p>“If it falls below US$26,000 again this week, it could be considered a short-term downtrend. Another price to watch is the previous high of US$28,000-28,500. Its break-through can be seen as a short-term bullish signal,” wrote Wo to Forkast.</p>
+      <p>Lucas Kiely, the chief investment officer of digital asset platform Yield App, said that the SEC’s crackdown occurred given its failure to prevent the FTX collapse and warned of the potential of a more aggressive approach by the regulator.</p>
+      <p>“It remains unclear if more exchanges will be targeted in this crackdown. However, it is evident that the SEC is taking a more aggressive approach towards regulating the crypto industry, which may result in more legal actions against other exchanges that fail to comply with securities laws,” Kiely told Forkast.</p>
+      <p>Kiely added that the market’s quick recovery occurred as buyers saw an opportunity to buy the dip.</p>
+      <p>“Some analysts believe that this is a sign of growing maturity in the cryptocurrency market. In previous years, negative news from regulatory bodies would have caused more significant price drops.”</p>
+      <p>Adding to global investor concerns, the Eurozone economy officially entered recession as it shrank 0.1% in the first quarter of 2023, compared to preliminary estimates of a 0.1% growth, pressured by high inflation and borrowing costs.</p>
+      <p>Mike Ermolaev, founder of blockchain PR firm Outset PR and the author of the interview series ‘Crypto Opinion with Mike Ermolaev,’ said that a bull run could occur if the SEC loses the lawsuits.</p>
+      <p>“[The SEC’s actions] appear to be an attempt to cripple the sector, especially in light of the new lawsuit against Coinbase. While cryptocurrency will undoubtedly recover, the road to redemption will be more challenging than ever. Moreover, we must not discount the possibility that unfair regulations could drive crypto into the shadows, taking a significant step backward,” wrote Ermolaev to Forkast.</p>
+      <p>The global crypto market capitalization stood at US$1.1 trillion on Friday at 7:45 p.m. in Hong Kong, down 3.5% from US$1.14 trillion a week ago, according to CoinMarketCap data. With a market cap of US$515 billion, Bitcoin represented 46.7% of the market while Ether, valued at US$221 billion, accounted for 20%.</p>
+      <h3>Notable Movers: LUNC, XRP</h3>
+      <p>Terra’s Luna Classic (LUNC) token was this week’s second-biggest gainer in the top 100. LUNC rose 15.27% to US$0.00009811. The token started picking up momentum on Sunday, a day before proposal #11548 passed, which will provide a test environment for the price re-pegging of USTC.</p>
+      <p>XRP, the cryptocurrency powering the XRP Ledger’s real-time gross settlements, was the week’s second-biggest gainer. XRP rose 2.3% to US$0.5274, as investors became less concerned with Ripple’s ongoing lawsuit with the SEC after the regulator filed two similar lawsuits against Binance and Coinbase.</p>
+      <h3>Next Week: Can Bitcoin stay above US$25,350?</h3>
+      <p>Investors await the release of May’s core Consumer Price Index in the U.S., scheduled for next Tuesday. The inflation data will be published a day before the Federal Reserve’s next interest rate decision on Wednesday, where the Fed is expected to pause its interest rate hikes for the first time in over a year, according to over 90% of economists polled by Reuters.</p>
+      <p>European investors are anticipating the European Central Bank’s next monetary decision, set for next Thursday. Following seven consecutive rate hikes, the bank is expected to hike its key lending rate by 25 basis points, even as higher borrowing costs start to take a toll on the European economy.</p>
+      <p>A weekly close above US$27,600 in Bitcoin would signal more uptrend, while a close below US$25,350 means more bearish momentum, Johnny Louey, a crypto research analyst at trading platform LiquidityTech Protocol told Forkast in a Telegram message.</p>
+      <p>Yield App’s Kiely said that he only expects significant upward momentum after a close above US$30,500.</p>
+      <p>“Multiple closes above this number and we could be at the onset of a new bull market. It could trade in the mid-term as low as US$24,000. If it breaks that level, it could continue to trade downwards,“ wrote Kiely.</p>
+    </div>
+  },
+  {
+    id: 554,
+    title: 'Bitcoin rises, Ether slips, most top 10 cryptos begin to pick up after SEC crackdown',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'SEC'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose and Ether fell during Friday afternoon trading hours in Hong Kong, while most of the top 10 non-stablecoin cryptocurrencies</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 9, 2023 - 1:35 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-624.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose and Ether fell during Friday afternoon trading hours in Hong Kong, while most of the top 10 non-stablecoin cryptocurrencies by market capitalization saw a small rally following the U.S. Securities and Exchange Commission’s (SEC) lawsuits against Binance and Coinbase.</p>
+    	<h3>Bitcoin inches up, SEC crackdown weighs on top cryptos</h3>
+      <p>Bitcoin rose 0.15% from 7 a.m. to 4:30 p.m. in Hong Kong to US$26,593. Ether inched down 0.48% in the same timeframe, to US$1,840.</p>	
+    	<p>Cardano’s ADA token was the day’s biggest loser, falling 3.21% in the past 24 hours to US$0.3155, followed by the BNB token that fell 0.97% to US$258. BNB has traded below US$300 since Monday when the lawsuit against Binance broke the headlines.</p>	
+    	<p>Despite a small market recovery, crypto investor sentiment remains cautious after the SEC initiated legal action against Binance and Coinbase within 24 hours.</p>
+      <p>“In what seems like a premeditated, doubling down on regulation, the SEC’s actions have once again brought liquidity concerns to light, encouraging users to withdraw their funds from two of the largest platforms in the world. But it’s not all doom and gloom,”  Lucas Kiely, the chief investment officer of digital asset platform Yield App, told Forkast.</p>	
+    	<p>“Both Binance and Coinbase have solid track records, which should be just enough to overcome this. So, despite prices getting a bit of an initial hit, the long-term fundamentals of BTC and ETH still appear bright.”</p>	
+    	<p>The total crypto market capitalization over the past 24 hours rose 0.19% to US$1.1 trillion and market volumes decreased 30.18% to US$25.81 billion, according to CoinMarketCap.</p>
+      <h3>Ethereum NFT sales fall for second consecutive day, while Polygon NFT sales gain</h3>
+      <p>The Forkast 500 NFT index fell 0.95% to 3,223.02 points in the 24 hours to 4:30 p.m. in Hong Kong and declined 4.39% during the week.</p>	
+    	<p>Ethereum’s 24-hour NFT sales fell 12.30% to US$13.85 million, boosted by sales for the Captains collection, which rose 91.01% to US$1.1 million. Sales of the Mutant Ape Yacht Club rose 23.70% to US$628,637 while sales of Bored Ape Yacht Club NFTs inched up 1.48% to US$517,208.</p>	
+    	<p>Polygon’s 24-hour NFT sales strengthened 17.32% to over US$2.7 million, for a second consecutive day, as sales for Weee Did It Palz NFTs rose 40.10% to US$392,025. The Forkast POL NFT Composite fell 0.8% to 978.75 points, along with all other Forkast Labs indexes.</p>
+      <h3>Asian equities up; U.S. equities fall; S&P 500 futures near highest levels year to date</h3>
+      <p>Asian equities strengthened during Friday afternoon trading, as investors became cautiously optimistic amid signs that China’s central bank may cut interest rates over a weakening economy. May’s inflation data showed that the world’s second-largest economy slowed further, adding to concerns around China’s post-pandemic recovery.</p>	
+    	<p>Japan’s Nikkei 225 rose 1.97% and Hong Kong’s Hang Seng Index rose for the third consecutive day, up by 0.47%. The Shanghai Composite increased 0.55% and the Shenzhen Component Index inched up 0.66%.</p>	
+    	<p>Upside momentum was limited by concerns that the U.S. Federal Reserve could continue its monetary tightening next week after several central banks raised interest rates this week.</p>
+      <p>Most U.S. stock futures fell on the day, as of 4:30 p.m. in Hong Kong, except the tech-heavy Nasdaq-100 futures that rose 0.081%. The Dow Jones Industrial Average futures fell 0.11% and the S&P 500 futures index inched down 0.029% to remain near its highest level for 2023.</p>	
+    	<p>European bourses were muted as investors await the European Central Bank’s monetary decision next week, expecting the eighth consecutive interest rate hike. The pan-European STOXX 600 inched down 0.033% and Germany’s DAX 40 fell 0.074%.</p>	
+    </div>
+  },
+  {
+    id: 558,
+    title: 'Kraken NFT Marketplace Launches With Support for Ethereum, Solana and Polygon Collections',
+    category: 'Crypto',
+    subCategory: ['NFT', 'Ethereum', 'Solana'],
+    description: <div className="blog-desc">
+      <p>Cryptocurrency exchange Kraken has officially launched its NFT marketplace out of beta testing, supporting over 250 non-fungible tokens (NFTs) across the Ethereum, Solana and Polygon blockchains.</p>
+    </div>,
+    authorName: 'Rosie Perper',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 8, 2023 - 9:26 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-629.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Cryptocurrency exchange Kraken has officially launched its NFT marketplace out of beta testing, supporting over 250 non-fungible tokens (NFTs) across the Ethereum, Solana and Polygon blockchains.</p>
+    	<p>The company launched a public beta version of its NFT platform in November. Initially, it offered support for a curated selection of 70 NFT collections on Ethereum and Solana.</p>	
+    	<p>As part of its public launch, the platform has pledged to include not only blue-chip projects like CryptoPunks and Bored Ape Yacht Club, but also more affordable collections that can be bought for under $100.</p>	
+    	<p>Kraken NFT marketplace says it will not charge gas fees to customers who buy and sell NFTs on the platform. However, it specifies that "gas fees will be incurred when transferring NFTs and other cryptoassets on and off the Kraken platform."</p>
+      <p>Users have the choice to pay in fiat or cryptocurrency and listings will have built-in rarity rankings. Kraken says MetaMask and Solana's Phantom wallet are currently supported and WalletConnect will be added in the future.</p>
+      <p>Kraken's latest release comes amid a broader regulatory crackdown against the crypto industry. While U.S. exchanges are facing lawsuits from the U.S. Securities and Exchange Commission (SEC), Canada recently tightened its regulatory framework for digital asset trading.</p>
+      <p>Kraken has remained in Canada despite its crypto crackdown while competitors like Binance and OKX have announced their departures, allowing it to usurp the market and grow its customer deposits by 25% in the weeks following the exits. Kraken remains available to U.S. customers with some state-by-state trading restrictions.</p>    
+    </div>
+  },
+  {
+    id: 553,
+    title: 'Binance Moved Billions Through US Bank Accounts Controlled by CZ, Says SEC',
+    category: 'Crypto',
+    subCategory: ['Binance', 'US', 'SEC'],
+    description: <div className="blog-desc">
+      <p>Billions of dollars of Binance-related funds routinely flowed through Signature Bank and Silvergate Bank for years, according to court documents filed Wednesday on behalf of the Securities and Exchange Commission (SEC).</p>
+    </div>,
+    authorName: 'André Beganski',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 8, 2023 - 5:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-625.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Billions of dollars of Binance-related funds routinely flowed through Signature Bank and Silvergate Bank for years, according to court documents filed Wednesday on behalf of the Securities and Exchange Commission (SEC).</p>
+    	<p>The two institutions catered heavily to crypto clients before they shuttered in March. And each bank operated its own round-the-clock payments network, which allowed customers to settle digital asset transactions.</p>	
+    	<p>An SEC review of financial records, including bank statements and wire transfers, found Binance, CEO Changpeng Zhao, and BAM Trading Services—the operator of Binance.US—held numerous accounts at Signature and Silvergate banks.</p>	
+	    <p>While Binance has said that it and Binance.US are separate entities, the SEC’s lawsuit unveiled on Monday calls that into question. And to bolster its emergency motion seeking to freeze Binance.US’s corporate assets, the SEC’s account of financial records indicates BAM Trading Services and Binance entities deposited billions of dollars into a single account that belonged to Merit Peak, of which Zhao is the beneficial owner.</p>
+      <h3>Binance’s Silvergate Bank Accounts</h3>
+      <p>Attached to an email address identified as “Solutions@Binance.com,” Merit Peak’s Silvergate Bank accounts received $22.2 billion in deposits between 2019 and 2021, the SEC claims. Of that, $21.9 billion was paid to a foreign affiliate of Paxos, the former issuer of BUSD. The New York firm stopped minting the Binance-branded stablecoin in February at the direction of regulators.</p>
+    	<p>Merit Peak is described as an over-the-counter trading desk and a proprietary trader of digital assets, according to the filing, which notes Silvergate closed the company’s accounts in mid-2022. But the accounts contained commingled assets, the SEC claims.</p>	
+    	<p>“Millions of dollars from Binance-related accounts were commingled in Merit Peak’s accounts,” the documents state. “Merit Peak transferred all of that money as part of its transfers of almost $20 billion to a foreign affiliate of Paxos in 2021.”</p>	
+	    <p>Another company beneficially owned by Zhao called Sigma Chain received funds from Binance and BAM Trading Services, the SEC claims. Between 2019 and 2023, Sigma Chain received $184 million and $145 million from Binance and BAM Trading Services, respectively.</p>
+      <p>The company’s business was described as a “market maker providing liquidity to fiat exchanges,” according to the filing. The SEC claims that Sigma Chain “engaged in manipulative trading that artificially inflated [...] trading volume” on Binance.US.</p>
+    	<p>BAM Trading Services received deposits from other players in the digital assets industry between 2019 and 2013: Cryptocurrency exchange Coinbase ($424 million), the trading firm Wintermute ($2.4 billion), and Alameda Research ($318 million), the trading firm of FTX founder and former CEO Sam Bankman-Fried.</p>	
+    	<p>BAM Trading Services sent $1.5 billion to Alameda Research and $3.3 billion to Wintermute during that period, the SEC claims.</p>	
+	    <p>Neither Wintermute nor Coinbase immediately responded to a request for comment from Decrypt.</p>
+      <p>In total, eight Binance-affiliated companies held accounts at Silvergate Bank, which were incorporated in Seychelles, the British Virgin Islands, Switzerland, and the state of Delaware. According to the filing, Guangying Chen, a senior executive at Binance, controlled accounts belonging to both BAM Trading Services and Binance.</p>	
+    	<p>As of March 31, all of the bank accounts tied to Binance, BAM Trading Services, and Zhao were empty, the SEC allegedly found. The bank had signaled it would voluntarily wind down operations earlier that month.</p>	
+	    <h3>Binance’s Signature Bank Accounts</h3>
+      <p>Numerous bank accounts associated with the aforementioned entities were also opened at Signature Bank, the crypto-friendly bank that was seized by regulators in March alongside Silicon Valley Bank. Other foreign companies where Zhao was also a beneficial owner had accounts as well, the documents state.</p>
+      <p>“Zhao was also the beneficial owner of numerous other foreign companies with accounts at Signature Bank,” the court documents state. “These companies are foreign domiciled, including in Canada, UAE, Seychelles, Singapore, Lithuania, Kazakhstan, among others.”</p>	
+    	<p>Between Binance-linked bank accounts at Silvergate Bank and Signature Bank, “large amounts of money [flowed] in and out,” where incoming funds were followed by debits within days, the SEC claims. “At times the amounts being credited and debited during a single month amounts to the movement of more than a billion dollars,” it adds.</p>	
+	    <p>When this year began, the SEC found that eight companies owned by Binance and Zhao had a total of $58 million on deposit. The filing states, “During that same time frame, $840 million was deposited into, and $899 million was withdrawn, from those accounts.”</p>
+      <p>By the end of March, the eight accounts were empty, except for one that had $180,000. And as of May 27, long after Signature and Silvergate had closed up shop, the SEC claims all of the accounts were either empty or closed.</p>	
+    	<p>On Tuesday, the SEC filed an emergency motion, seeking a temporary restraining order against Binance.US that would freeze the company’s corporate assets. It also requested that funds, both crypto and cash, be repatriated to the United States.</p>	
+	    <p>A Binance spokesperson told Decrypt the measure is “unwarranted and based more on the SEC Staff obtaining an advantage in litigation versus genuine concern about the safety of customer assets.”</p>
+      <p>“While we are disappointed by this action, we look forward to defending ourselves in court,” the spokesperson added.</p>	
+    </div>
+  },
+  {
+    id: 557,
+    title: 'USDC stablecoin issuer Circle obtains Singapore license for digital payments, others',
+    category: 'Crypto',
+    subCategory: ['USDC', 'Circle', 'Singapore'],
+    description: <div className="blog-desc">
+      <p>Circle Internet Singapore Pte. Ltd. said Wednesday it has received a Major Payment Institution license from the Monetary Authority of Singapore</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 7, 2023 - 8:22 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-628.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Circle Internet Singapore Pte. Ltd. said Wednesday it has received a Major Payment Institution license from the Monetary Authority of Singapore, which allows it to offer digital payment token services, cross-border money transfer services, and domestic money transfer services in the city-state.</p>
+    	<h3>Fast facts</h3>
+      <ul>
+        <li>Circle Singapore is an affiliate of Circle Internet Financial, LLC, the Boston-based issuer of the world’s second largest stablecoin, USD Coin (USDC).</li>
+        <li>“This is a significant step forward for Circle and the future of financial infrastructure and dollar digital currencies in the region,” Dante Disparte, Circle’s Chief Strategy Officer and Head of Global Policy, said in the press release.</li>
+        <li>Circle Singapore officially opened its office last month, after receiving an in-principle approval as a major payment institution from local authorities in November 2022.</li>
+        <li>In February, the Singapore entity collaborated with the region’s first government-supported blockchain ecosystem builder Tribe to launch a training program for blockchain developers.</li>
+        <li>The dollar-pegged USDC currently holds a market capitalization of US$28.6 billion, placing it fifth largest on CoinMarketCap’s list of all cryptocurrencies.</li>
+      </ul>
+    </div>
+  },
+  {
     id: 552,
     title: 'Bitcoin, Ether most other top crypto bounce back even as Coinbase joins Binance as SEC lawsuit target',
     category: 'Crypto',
