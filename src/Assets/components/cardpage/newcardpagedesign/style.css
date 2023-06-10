@@ -961,6 +961,13 @@ img.mbL_fwc{
     .new__crf{
         display: none;
     }
+    .card_rnag_mbl .carousel__slider {
+        min-height: 800px !important;
+    }
+    .card_rnag_mbl .carousel__slider .carousel__slide {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
 }
 
 
