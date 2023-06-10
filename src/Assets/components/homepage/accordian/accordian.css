@@ -59,9 +59,6 @@ ul.faq_li li:before {
     left: 0px;
     position: absolute;
 }
-/* .accordian .item:nth-child(3) .content {
-    display: none !important;
-} */
 
 #footer-faq summary {
     color: #FFFFFF !important;

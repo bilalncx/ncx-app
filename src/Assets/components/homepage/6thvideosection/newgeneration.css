@@ -47,9 +47,6 @@ video#ncx-main-video {
 .taskdiv:hover{
     background: #FFFFFF;
     box-shadow: 0 0 16px rgb(184 201 255 / 30%);
-    /* transform: translateY(0%) scale(1.06);
-    -webkit-transform: translateY(0%) scale(1.06);
-    -moz-transform: translateY(0%) scale(1.06); */
     cursor: pointer;
 }
 .taskdiv h3 {

@@ -1,9 +1,6 @@
 import React from "react";
 import Button from "@mui/material/Button";
 import Device1 from '../../../images/device_1.png';
-import Device2 from '../../../images/device_2.png';
-import Device3 from '../.././../images/device_3.png';
-import Device4 from '../../../images/device_4.png';
 import {ReactComponent as CTrader1} from '../../../images/ctrader_logo.svg';
 import {ReactComponent as NCXWeb} from '../../../images/ncxweb.svg';
 import Laptop3 from '../../../images/laptop3.png';
@@ -42,7 +39,6 @@ function Indices5()
                                 loop={true}
                                 playsInline={true}
                                 preload="auto"
-                                // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
                                 <source src={WalletMobileVideo2} type="video/mp4" />
                             </video>
@@ -65,7 +61,6 @@ function Indices5()
                                 loop={true}
                                 playsInline={true}
                                 preload="auto"
-                                // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
                                 <source src={WalletMobileVideo} type="video/mp4" />
                             </video>
@@ -117,7 +112,6 @@ function Indices5()
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
-                            {/* <img src={Device4} alt="ncx_platform" /> */}
                             <video 
                                 id="phomsdf"
                                 autoPlay={true}
@@ -125,7 +119,6 @@ function Indices5()
                                 loop={true}
                                 playsInline={true}
                                 preload="auto"
-                                // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
                                 <source src={SExchange} type="video/mp4" />
                             </video>

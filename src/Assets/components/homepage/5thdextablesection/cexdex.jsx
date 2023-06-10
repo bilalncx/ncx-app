@@ -1,9 +1,6 @@
 import  React from "react";
-import { AnimationOnScroll } from 'react-animation-on-scroll';
 import './cexdex.css';
 import { ReactComponent as Whitetick } from '../../../images/check-icon.svg';
-// import { ReactComponent as PurpleTick } from '../../../images/check-icon.svg';
-import { ReactComponent as BlackTick } from '../../../images/black-tickmark.svg';
 import { ReactComponent as OptionalBox } from '../../../images/optionalbox.svg';
 import { useTranslation } from "react-i18next";
 function HomeCEXDEXTableSection()

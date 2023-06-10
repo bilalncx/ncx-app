@@ -16,21 +16,6 @@ function HomeBannerSection()
                     <Button href="/buy-crypto" className="byyy">{t("buy_crypto")}</Button>
                     <Button href="/markets" className="marr">{t("markets")}</Button>
                 </div>
-
-                {/* <div className="row_ban">
-                    <div className="col banner_1">
-                        <div className="ccc_tt">
-                            <p>{t("trade_metals_on_ncx_with_spreads")}</p>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
-                        </div>
-                    </div>
-                    <div className="col banner_2">
-                        <div className="ccc_tt">
-                            <p>{t("trade_stocks_world_indices_and_etfs_across_core_and_emerging_markets")}</p>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
-                        </div>
-                    </div>
-                </div> */}
             </div>
             <CardLogoSlider />
         </div>

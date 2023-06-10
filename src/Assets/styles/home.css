@@ -138,9 +138,6 @@ section.bg-dark {
 h1, h2, h3, h4, h5, p{
     margin: 0px;
 }
-/* .apps-divi svg:nth-child(1) {
-    display: none;
-} */
 .appsttore svg:nth-child(3) {
     display: none;
 }
@@ -552,11 +549,19 @@ details[open] .contt {
     padding: 0px !important;
     position: relative;
 }
-#home__ffgrr.ncxapp-section .col.hidden_col {
-    display: none;
-}
 #home__ffgrr.ncxapp-section .row .col:first-child h1{
-    padding-right: 0px;
+    color: #fff;
+    font-size: 40px;
+    line-height: 46px;
+}
+.ncxapp-section .row .col:first-child p {
+    color: #fff;
+    font-family: urbanist-light;
+}
+.apps-divi svg {
+    height: auto;
+    margin-bottom: 5px!important;
+    width: 135px;
 }
 #home__ffgrr.ncxapp-section .barcodd {
     padding-top: 20px;

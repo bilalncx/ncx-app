@@ -81,11 +81,9 @@ video#phomsdf{
     transform: translateY(0);
     transition: .4s ease;
 }
-.ipad__gg {
-    background: url(../../../images/indice_ellipse.png);
-    background-repeat: no-repeat;
-    background-size: 100% 150%;
-    background-position: center;
+.ipad__gg{
+    align-items: flex-start !important;
+    padding-top: 20px !important;
 }
 .pho__img img:hover, .pla__img img:hover, .ipad__gg img:hover{
     cursor: pointer;

@@ -79,36 +79,6 @@
     font-family: 'urbanist-regular' !important;
     text-transform: capitalize !important;
 }
-/* .hero-section button.btn01 {
-    width: fit-content !important;
-    padding: 0px 20px;
-    margin-top: 10px;
-} */
-/* .hero-section button.hero-btn{
-    border-radius: 2px !important;
-}
-.hero-section button.hero-btn.signin {
-    background: none !important;
-    border: 1.5px solid #65E4A1 !important;
-    border-radius: 7px !important;
-    color: #FFFFFF !important;
-    color: #FFFFFF !important;
-    font-size: 16px !important;
-    font-family: 'urbanist-regular' !important;
-    width: 120px !important;
-    height: 38px !important;
-}
-.hero-section button.hero-btn.singup {
-    background: none !important;
-    border: 1.5px solid #2460FF !important;
-    box-shadow: 0px 0px 12px 8px rgba(36, 96, 255, 0.4) !important;
-    border-radius: 7px !important;
-    color: #FFFFFF !important;
-    font-size: 16px !important;
-    font-family: 'urbanist-regular' !important;
-    width: 150px !important;
-    height: 38px !important;
-} */
 
 /************************** HomePage Second Nnumbering Section Starts from here *************************/
 /* Number Update Section */
@@ -293,9 +263,6 @@ img.mbl-pic {
 
 
 /* ********************************** */
-.col.hidden_col {
-    display: none !important;
-}
 #homecarouselslides div#powered_by {
     background: none !important;
 }
@@ -313,9 +280,6 @@ img.mbl-pic {
 #homecarouselslides #powered_by.ncxapp-section .row .col:first-child p{
     color: #FFFFFF !important;
 }
-/* div#homecarouselslides {
-    padding-bottom: 50px !important;
-} */
 #NCX_poweredby div#buy_ssd_dd {
     margin: 0px !important;
 }
