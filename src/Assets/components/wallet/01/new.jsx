@@ -20,7 +20,6 @@ function NCXAPPSection()
                             loop={true}
                             playsInline={true}
                             preload="auto"
-                            // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                             >
                             <source src={WalletVideo} type="video/mp4" />
                         </video>
@@ -55,26 +54,7 @@ function NCXAPPSection()
                                 </div>
                             </div>
                         </div>
-                        <div className="col hidden_col">
-                            <div className="app-texts-src">
-                                <div className="apptexts">
-                                    <h1>GLOBAL REACH</h1>
-                                    <p>Powered by MasterCard, Pay at 44 Million Merchant locations Worldwide.</p>
-                                </div>
-                                <div className="apptexts">
-                                    <h1>ATM WITHDRAWALS</h1>
-                                    <p>Turn your Crypto into Cash instantly, use NCX Card across 3.2m ATMs Worldwide.</p>
-                                </div>
-                                <div className="apptexts">
-                                    <h1>ONLINE PAYMENTS</h1>
-                                    <p>Use you card for Online Payments as well as Apple Pay, Google Pay, Samsung Pay, Paypal, and many more.</p>
-                                </div>
-                                <div className="apptexts">
-                                    <h1>TOP UP BY CRYPTO</h1>
-                                    <p>Top Up on the go with one of 80 available Cryptocurrencies</p>
-                                </div>
-                            </div>
-                        </div>
+                        <div className="col"></div>
                     </div>
                 </div>
             </div>
@@ -85,37 +65,11 @@ function NCXAPPSection()
                     loop={true}
                     playsInline={true}
                     preload="auto"
-                    // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                     >
                     <source src={WalletVideo} type="video/mp4" />
                 </video>
                 <h1>NCX DeFi Wallet</h1>
                 <p>Store, Send, Swap, Buy Crypto Assets across 12 Chains NCX non-custodial wallet, hold your own Private Keys</p>
-                {/* <div className="yy__tr">
-                    <span>Advanced CEX</span>
-                    <span>Cross-Chain DEX</span>
-                    <span>Trading Platfrom</span>
-                </div>
-                <div className="yy__tr">
-                    <span>Crypto Derivatives</span>
-                    <span>Swap 500k+ Tokens Across 10 Chains</span>
-                </div>
-                <div className="yy__tr">
-                    <span>Trade 500+ Derivatives Markets</span>
-                    <span>Stocks</span>
-                    <span>Commodities</span>
-                </div>
-                <div className="yy__tr">
-                    <span>Indices</span>
-                    <span>Forex</span>
-                    <span>ETF’s</span>
-                    <span>200+ Cryptocurrencies</span>
-                </div>
-                <div className="yy__tr">
-                    <span>Crypto Debit Card</span>
-                    <span>DeFi Wallet</span>
-                    <span>Buy Crypto</span>
-                </div> */}
                 <div className="home__btnff">
                     <Button href="#" className="sin__op">Sign Up</Button>
                     <Button href="#" className="cl__drp">Claim Airdrop</Button>
