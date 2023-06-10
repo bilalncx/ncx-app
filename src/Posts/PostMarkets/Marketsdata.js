@@ -1,5 +1,134 @@
 const data = [
   {
+    id: 538,
+    title: 'The bull market in stocks wont last long - and theres a 99% chance of a US recession, top economist David Rosenberg says',
+    category: 'Markets',
+    subCategory: ['Bull market', 'US', 'Recession'],
+    description: <div className="blog-desc">
+      <p>The stock market's powerful rally is unfounded, and the US economy is virtually guaranteed to sink into recession, David Rosenberg has warned.</p>
+    </div>,
+    authorName: 'Theron Mohamed',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 10, 2023 - 4:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-636.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>David Rosenberg says the bull market in stocks won't last, and a recession seems assured.</li>
+        <li>The veteran economist noted that jobless claims just hit their highest level since October 2021.</li>
+        <li>Rosenberg pointed to a slew of indicators suggesting stocks are overvalued and destined to tumble.</li>
+      </ul>
+    	<p>The stock market's powerful rally is unfounded, and the US economy is virtually guaranteed to sink into recession, David Rosenberg has warned.</p>
+    	<p>The S&P 500 officially entered a bull market on Thursday, as it notched a 20% gain from its October lows. Meanwhile, unemployment data released the same day showed initial jobless claims rose to 261,000 last week, the highest level since October 2021.</p>	
+    	<p>"This market continues to be nothing more than a short-term momentum play," the veteran economist and Rosenberg Research president said in a morning note.</p>	
+	    <p>Rosenberg underscored the disconnect between the stock-market milestone and softening labor market. He questioned whether current equity valuations are justified given the darkening economic backdrop.</p>
+      <p>"You can believe the press headlines or you can believe the leading indicators — which suggest that we do indeed have a 99.15% chance of an official NBER-defined recession," he said. "And if that is the case, then it is the first time in recorded history that a fundamental bear market ended before the downturn even arrived."</p>
+      <p>Rosenberg suggested that aggressive federal spending last year may have pushed back the recession. He described the fiscal support as "the Energizer Bunny gift that just kept on giving."</p>
+      <p>Moreover, the former chief North American economist at Merrill Lynch underlined the immense optimism priced into stocks. He noted the S&P 500's forward price-to-earnings multiple is 25% above its long-term average, and the index is heavily concentrated, as it was during the dot-com bubble.</p>
+      <p>He also pointed to low volatility expectations as evidence of deep complacency among investors, and cautioned that sentiment is "quickly hitting uber-bullish levels as FOMO stages a resurrection."</p>
+      <p>Rosenberg has been sounding the alarm for several months. In late April, he predicted a recession by September, a 20% plunge in the S&P 500, and a credit crunch as banking fears strangled lending. He also told Insider in February that house prices could tumble by 15%-20%.</p>
+      <p>Numerous market commentators have warned that asset prices will fall and the economy will contract. They've pointed to the Federal Reserve hiking interest rates from nearly zero to upwards of 5% since last spring, which has encouraged saving and made borrowing far more costly.</p>
+      <p>Higher rates help to combat inflation, but they're typically bad news for consumer spending, debt-reliant industries such as commercial real estate, and riskier assets such as stocks.</p>
+    </div>
+  },
+  {
+    id: 537,
+    title: 'MasterCard (MA) Outpaces Stock Market Gains: What You Should Know',
+    category: 'Markets',
+    subCategory: ['Mastercard', 'MA', 'Market'],
+    description: <div className="blog-desc">
+      <p>MasterCard (MA) closed the most recent trading day at $369.22, moving +0.44% from the previous trading session.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 10, 2023 - 1:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-635.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>MasterCard (MA) closed the most recent trading day at $369.22, moving +0.44% from the previous trading session. The stock outpaced the S&P 500's daily gain of 0.12%. Elsewhere, the Dow gained 0.13%, while the tech-heavy Nasdaq lost 4.09%.</p>
+    	<p>Coming into today, shares of the processor of debit and credit card payments had lost 4.12% in the past month. In that same time, the Business Services sector gained 2.4%, while the S&P 500 gained 3.98%.</p>	
+    	<p>MasterCard will be looking to display strength as it nears its next earnings release. On that day, MasterCard is projected to report earnings of $2.98 per share, which would represent year-over-year growth of 16.41%. Our most recent consensus estimate is calling for quarterly revenue of $6.18 billion, up 12.48% from the year-ago period.</p>	
+    	<p>For the full year, our Zacks Consensus Estimates are projecting earnings of $12.25 per share and revenue of $25.15 billion, which would represent changes of +15.02% and +13.11%, respectively, from the prior year.</p>
+      <p>Investors should also note any recent changes to analyst estimates for MasterCard. These recent revisions tend to reflect the evolving nature of short-term business trends. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Research indicates that these estimate revisions are directly correlated with near-term share price momentum. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
+      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Over the past month, the Zacks Consensus EPS estimate has moved 0.05% lower. MasterCard is currently a Zacks Rank #3 (Hold).</p>
+      <p>Valuation is also important, so investors should note that MasterCard has a Forward P/E ratio of 30 right now. For comparison, its industry has an average Forward P/E of 14.25, which means MasterCard is trading at a premium to the group.</p>
+      <p>We can also see that MA currently has a PEG ratio of 1.72. The PEG ratio is similar to the widely-used P/E ratio, but this metric also takes the company's expected earnings growth rate into account. MA's industry had an average PEG ratio of 1.1 as of yesterday's close.</p>
+      <p>The Financial Transaction Services industry is part of the Business Services sector. This industry currently has a Zacks Industry Rank of 161, which puts it in the bottom 37% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank includes is listed in order from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  },
+  {
+    id: 536,
+    title: 'Amazon (AMZN) Stock Sinks As Market Gains: What You Should Know',
+    category: 'Markets',
+    subCategory: ['Amazon', 'Market', 'Gains'],
+    description: <div className="blog-desc">
+      <p>Amazon (AMZN) closed the most recent trading day at $123.43, moving -0.66% from the previous trading session.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 10, 2023 - 1:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-634.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Amazon (AMZN) closed the most recent trading day at $123.43, moving -0.66% from the previous trading session. This change lagged the S&P 500's daily gain of 0.12%. Elsewhere, the Dow gained 0.13%, while the tech-heavy Nasdaq lost 4.09%.</p>
+    	<p>Coming into today, shares of the online retailer had gained 10.76% in the past month. In that same time, the Retail-Wholesale sector gained 4.5%, while the S&P 500 gained 3.98%.</p>	
+    	<p>Amazon will be looking to display strength as it nears its next earnings release. On that day, Amazon is projected to report earnings of $0.34 per share, which would represent year-over-year growth of 240%. Our most recent consensus estimate is calling for quarterly revenue of $131.51 billion, up 8.47% from the year-ago period.</p>	
+    	<p>For the full year, our Zacks Consensus Estimates are projecting earnings of $1.56 per share and revenue of $560.37 billion, which would represent changes of +119.72% and +9.02%, respectively, from the prior year.</p>
+      <p>Investors should also note any recent changes to analyst estimates for Amazon. These recent revisions tend to reflect the evolving nature of short-term business trends. With this in mind, we can consider positive estimate revisions a sign of optimism about the company's business outlook.</p>
+      <p>Research indicates that these estimate revisions are directly correlated with near-term share price momentum. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.</p>
+      <p>The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. Over the past month, the Zacks Consensus EPS estimate has moved 1.3% higher. Amazon is currently a Zacks Rank #3 (Hold).</p>
+      <p>Valuation is also important, so investors should note that Amazon has a Forward P/E ratio of 79.47 right now. For comparison, its industry has an average Forward P/E of 19.3, which means Amazon is trading at a premium to the group.</p>
+      <p>We can also see that AMZN currently has a PEG ratio of 2.42. The PEG ratio is similar to the widely-used P/E ratio, but this metric also takes the company's expected earnings growth rate into account. AMZN's industry had an average PEG ratio of 0.99 as of yesterday's close.</p>
+      <p>The Internet - Commerce industry is part of the Retail-Wholesale sector. This industry currently has a Zacks Industry Rank of 68, which puts it in the top 27% of all 250+ industries.</p>
+      <p>The Zacks Industry Rank includes is listed in order from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.</p>
+    </div>
+  },
+  {
+    id: 535,
+    title: 'Stock Market Action Plan June 12-16: Fed Meeting, Earnings From Lennar, Oracle Adobe',
+    category: 'Markets',
+    subCategory: ['Fed', 'Lennar', 'Oracle Adobe'],
+    description: <div className="blog-desc">
+      <p>The Fed's Wednesday policy news will be the market's focal point for the week, along with earnings from Adobe, Oracle and Lennar.</p>
+    </div>,
+    authorName: 'IBD STAFF',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 10, 2023 - 1:09 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-633.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Fed's Wednesday policy news will be the market's focal point for the week, along with earnings from Adobe, Oracle and Lennar.</p>
+    	<p>A four-day rally gave the Dow industrials a better-than-3% gain so far for June. The S&P 500 and Nasdaq are up almost that much. While early gains on the stock market this year relied primarily on a narrow roster of tech names, the past week showed increasing breadth. The Federal Open Market Committee's rate policy decision on Wednesday will be the coming week's centerpiece. But earnings from Lennar (LEN), Oracle (ORCL) and Adobe (ADBE) will also update segments with some fast-moving stocks.</p>	
+    	<h3>Stocks To Watch: 5 Dow Giants Near Buy Points</h3>
+      <p>Boeing (BA), JPMorgan Chase (JPM), Cisco Systems (CSCO), McDonald's (MCD) and Walmart (WMT) are five Dow Jones industrials stocks near buy points as the stock market rally shows signs of broadening out. All five hail from different sectors, hinting at widening market leadership. Boeing and Walmart are already actionable as they retake support within consolidations. JPMorgan is near a breakout in a six-week flat base, as the banking giant stands out among financials. Cisco is not the leader in its industry, but is trying to make a move and may be shaping a handle on its 10-week cup pattern. McDonald's has done well in a strong sector, eyeing a possible early entry in a new flat base.</p>	
+      <h3>Fed Meeting Could Mark A Change</h3>
+    	<p>The Federal Reserve is expected to skip a rate hike at its two-day policy meeting that wraps up on Wednesday at 2 p.m. ET. But Wall Street's reaction may be shaped by perceptions of what happens next. As of Friday morning, markets were still pricing in 66% odds of a quarter-point rate hike on July 26. Those odds could shift on Wednesday when policymakers lay their cards on the table.</p>
+      <p>New quarterly economic projections released with the 2 p.m. policy announcement, including the expected year-end level for the Fed's key interest rate, will reveal the breadth of support for further tightening. Investors also will hang on every word of chair Jerome Powell's 2:30 p.m. news conference, which will sketch out the Fed's latest thinking on the impact of the bank crisis, the tight labor market and, quite possibly, the recent stock market rally.</p>
+      <h3>Stock Market Perspective: Stocks Rally Out Of Solid Q1 Season</h3>
+      <p>A second straight up week propelled the Dow industrials toward the 34,000 mark for the first time since early May. The S&P 500 sits on a four-week gain, and now back above 4,300. And the Nasdaq composite's seven -week rally put it at its highest mark in 14 months. S&P Capital IQ reported, as of Tuesday, 51% of S&P 500 stocks were in positive territory for the year. S&P 500 Q1 2023 EPS came in better than expected, falling 1.2% year-over-year, versus the March 31 forecast for a 6.5% decline. Estimates now point to a 7.5% drop in Q2, a 0.5% dip in Q3, and an 8.3% increase in Q4. For all of 2023, S&P Capital IQ sees the S&P 500 turning in a 0.4% decline, followed by an 11.7% advance in 2024.</p>
+      <h3>Earnings Season: A Look At AI, Cloud Momentum</h3>
+      <p>Oracle (ORCL) shares ride a four-month advance, up almost 35% year-to-date heading into the software heavyweight's fiscal Q4 earnings report late Monday. Four analysts on Friday raised their price targets to between 106 and 130. Deutsche Bank says Oracle's momentum appears durable in the cloud and software-as-a-service businesses. License revenue, "the greatest swing factor," will be closely watched. Citi also notes strong cloud momentum across "corporate and generative artificial intelligence." Oracle earnings turned higher in Q3, after three quarters of no growth. Analysts see a modest 2.5% advance in Q4, according to FactSet, before accelerating in the coming fiscal year.</p>
+      <h3>Homebuilders: Lennar Rallies Into Q2 Report</h3>
+      <p><strong>Lennar (LEN)</strong>   reports Q2 results late Wednesday, with homebuilder stocks charging higher amid a tight U.S. housing market. Wall Street expects Lennar's earnings per share to sink 49% to $2.31, with revenue sliding 14% to $7.19 billion. Analysts see full-year EPS dropping 36% to $10.01 and sales falling 13% to $29.35 billion. Lennar's earnings have decelerated over the past four quarters. Revenue growth slowed from 30% in Q2 of last year.</p>
+      <p>The Building-Residential/Commercial industry group ranks No. 5 out of 197 tracked by IBD with homebuilder stocks collectively advancing 29% year to date. Lennar has gained 24%. Fellow homebuilder KB Home (KBH) is expected to report its fiscal Q2 earnings on June 21. PulteGroup (PHM) and Taylor Morrison Home (TMHC) will announce financials in July, which could give a lift to homebuilder stocks. All three stocks are trading at fresh highs.</p>
+      <h3>Econ Calendar: Inflation, Regional Fed Surveys, Consumer Confidence</h3>
+      <p>The batch of economic data on tap in the coming week, including a big inflation report on Tuesday, could shift Fed rate-hike expectations, but probably for July's meeting, not this week's. The consumer price index for May, out Tuesday at 8:30 a.m., is seen rising 0.3% on the month, with the annual inflation rate easing to 4.1% from 4.9%. The core CPI, excluding food and energy, is forecast to rise 0.4%, lowering the core inflation rate to 5.3% from 5.5%. The producer price index, out Wednesday at 8:30, is expected to show wholesale inflation slowing to 1.1% from 2.3%. Core PPI inflation is forecast to ease to 2.9% from 3.2%. Retail sales for May, out Thursday at 8:30 a.m., are expected to be flat vs. April levels, with a modest 0.1% rise excluding autos. Industrial production, out Thursday at 9:15 a.m., should show overall May output rising 0.1%, but with a solid 0.4% rise in manufacturing output.</p>
+      <p><strong>Jabil (JBL)</strong> plans to release its fiscal third-quarter results early Thursday. Wall Street predicts the contract electronics manufacturer will earn $1.88 a share, up 12% year over year, on sales of $8.19 billion, down 2%. Jabil stock is in record-high territory after breaking out of a cup base.</p>
+      <p><strong>Kroger (KR)</strong> reports Q1 results early Thursday after three quarters of decelerating sales growth. FactSet analysts expect earnings to slide 1.4% to $1.43 per share on a 1.3% drop in sales to $45.19 billion. Kroger is attempting to acquire privately held grocer Albertsons in a $24.6 billion deal.</p>
+      <p><strong>Adobe (ADBE)</strong> will report its Q2 results late Thursday. Analysts expect the design software maker to earn $3.79 a share, up 13% year over year, on sales of $4.77 billion, up 9%. Adobe stock is in a cup base with a 451.15 buy point.</p>
+    </div>
+  },
+  {
     id: 534,
     title: 'China Stocks Too Cheap to Ignore for JPMorgan Asset, Invesco',
     category: 'Markets',
