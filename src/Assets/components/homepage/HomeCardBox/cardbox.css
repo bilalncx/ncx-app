@@ -111,6 +111,17 @@ a.bgfgb:hover{
         padding-bottom: 0px !important;
         gap: 15px;
     }
+    .bvc_mnb {
+        position: relative !important;
+        height: 100% !important;
+        min-height: 230px !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        top: unset !important;
+        left: unset !important;
+        right: unset !important
+    }
 }
 
 #bgf__qas .new__crfm, #bgf__qas .bgt_hyn, #bgf__qas .bgt_hyn video {
