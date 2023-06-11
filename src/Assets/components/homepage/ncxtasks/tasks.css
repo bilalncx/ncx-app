@@ -53,8 +53,8 @@ p.task {
 }
 .taskbtn a {
     background: #925BCA;
-    font-size: 16px;
-    font-family: 'urbanist-semibold';
+    font-size: 15px;
+    font-family: 'urbanist-regular';
     text-transform: capitalize;
     color: #FFFFFF;
     width: fit-content;

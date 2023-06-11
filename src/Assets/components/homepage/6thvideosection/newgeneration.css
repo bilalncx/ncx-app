@@ -59,8 +59,8 @@ video#ncx-main-video {
 .buttoninfo a {
     background: #925BCA;
     color: #FFF;
-    font-size: 16px;
-    font-family: 'urbanist-medium';
+    font-size: 15px;
+    font-family: 'urbanist-regular';
     border-radius: 50px;
     text-transform: capitalize;
     min-width: 115px;
@@ -160,7 +160,7 @@ h2.secondtask{
         width: 100%;
         font-size: 14px;
         line-height: 20px;
-        font-family: 'urbanist-regular';
+        font-family: 'urbanist-light';
     }
     .ncxtask.row{
         margin-top: 30px !important;
