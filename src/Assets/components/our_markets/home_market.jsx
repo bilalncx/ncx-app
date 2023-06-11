@@ -148,6 +148,90 @@ function HomePageMarketSection()
         const BNB5 = data.BNB_USDT.quoteVolume;
         const BNB_Volume = parseFloat(BNB5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
+        // DOGE / USDT
+        const DOGE1 = data.DOGE_USDT.id;
+        const DOGE_ID = DOGE1.replace(/_/g, " / ");  
+        const DOGE2 = data.DOGE_USDT.last;
+        const DOGE_Price = parseFloat(DOGE2).toFixed(2);
+        const DOGE3 = data.DOGE_USDT.high24hr;
+        const DOGE_High = parseFloat(DOGE3).toFixed(4);
+        const DOGE4 = data.DOGE_USDT.low24hr;
+        const DOGE_Low = parseFloat(DOGE4).toFixed(4);
+        const DOGE5 = data.DOGE_USDT.quoteVolume;
+        const DOGE_Volume = parseFloat(DOGE5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
+        // YFI / USDT
+        const YFI1 = data.YFI_USDT.id;
+        const YFI_ID = YFI1.replace(/_/g, " / ");  
+        const YFI2 = data.YFI_USDT.last;
+        const YFI_Price = parseFloat(YFI2).toFixed(2);
+        const YFI3 = data.YFI_USDT.high24hr;
+        const YFI_High = parseFloat(YFI3).toFixed(4);
+        const YFI4 = data.YFI_USDT.low24hr;
+        const YFI_Low = parseFloat(YFI4).toFixed(4);
+        const YFI5 = data.YFI_USDT.quoteVolume;
+        const YFI_Volume = parseFloat(YFI5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
+        // LINK / USDT
+        const LINK1 = data.LINK_USDT.id;
+        const LINK_ID = LINK1.replace(/_/g, " / ");  
+        const LINK2 = data.LINK_USDT.last;
+        const LINK_Price = parseFloat(LINK2).toFixed(2);
+        const LINK3 = data.LINK_USDT.high24hr;
+        const LINK_High = parseFloat(LINK3).toFixed(4);
+        const LINK4 = data.LINK_USDT.low24hr;
+        const LINK_Low = parseFloat(LINK4).toFixed(4);
+        const LINK5 = data.LINK_USDT.quoteVolume;
+        const LINK_Volume = parseFloat(LINK5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
+        // XMR / USDT
+        const XMR1 = data.XMR_USDT.id;
+        const XMR_ID = XMR1.replace(/_/g, " / ");  
+        const XMR2 = data.XMR_USDT.last;
+        const XMR_Price = parseFloat(XMR2).toFixed(2);
+        const XMR3 = data.XMR_USDT.high24hr;
+        const XMR_High = parseFloat(XMR3).toFixed(4);
+        const XMR4 = data.XMR_USDT.low24hr;
+        const XMR_Low = parseFloat(XMR4).toFixed(4);
+        const XMR5 = data.XMR_USDT.quoteVolume;
+        const XMR_Volume = parseFloat(XMR5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
+        // DAI / USD
+        const DAI1 = data.DAI_USD.id;
+        const DAI_ID = DAI1.replace(/_/g, " / ");  
+        const DAI2 = data.DAI_USD.last;
+        const DAI_Price = parseFloat(DAI2).toFixed(2);
+        const DAI3 = data.DAI_USD.high24hr;
+        const DAI_High = parseFloat(DAI3).toFixed(4);
+        const DAI4 = data.DAI_USD.low24hr;
+        const DAI_Low = parseFloat(DAI4).toFixed(4);
+        const DAI5 = data.DAI_USD.quoteVolume;
+        const DAI_Volume = parseFloat(DAI5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
+        // BAT / USDT
+        const BAT1 = data.BAT_USDT.id;
+        const BAT_ID = BAT1.replace(/_/g, " / ");  
+        const BAT2 = data.BAT_USDT.last;
+        const BAT_Price = parseFloat(BAT2).toFixed(2);
+        const BAT3 = data.BAT_USDT.high24hr;
+        const BAT_High = parseFloat(BAT3).toFixed(4);
+        const BAT4 = data.BAT_USDT.low24hr;
+        const BAT_Low = parseFloat(BAT4).toFixed(4);
+        const BAT5 = data.BAT_USDT.quoteVolume;
+        const BAT_Volume = parseFloat(BAT5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
+        // TUSD / USDT
+        const TUSD1 = data.TUSD_USDT.id;
+        const TUSD_ID = TUSD1.replace(/_/g, " / ");  
+        const TUSD2 = data.TUSD_USDT.last;
+        const TUSD_Price = parseFloat(TUSD2).toFixed(2);
+        const TUSD3 = data.TUSD_USDT.high24hr;
+        const TUSD_High = parseFloat(TUSD3).toFixed(4);
+        const TUSD4 = data.TUSD_USDT.low24hr;
+        const TUSD_Low = parseFloat(TUSD4).toFixed(4);
+        const TUSD5 = data.TUSD_USDT.quoteVolume;
+        const TUSD_Volume = parseFloat(TUSD5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+
         let tab =
             `
             <tr>
@@ -397,6 +481,181 @@ function HomePageMarketSection()
                 </td>
                 <td class="mark-volume">
                     <h1>$562,226.00</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="mark-pair">
+                    <img src="https://ncx.cx/images/doge.svg" alt="coin-logo" />
+                    <h1>${DOGE_ID}</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${DOGE_Price}</h1>
+                    <p>≈$${DOGE_Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${DOGE_High}</h1>
+                    <p>≈$${DOGE_High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${DOGE_Low}</h1>
+                    <p>≈$${DOGE_Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$557,839.00</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="mark-pair">
+                    <img src="https://ncx.cx/images/yfi.svg" alt="coin-logo" />
+                    <h1>${YFI_ID}</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${YFI_Price}</h1>
+                    <p>≈$${YFI_Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${YFI_High}</h1>
+                    <p>≈$${YFI_High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${YFI_Low}</h1>
+                    <p>≈$${YFI_Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/yfi_usdt.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$354,382.00</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="mark-pair">
+                    <img src="https://ncx.cx/images/link.svg" alt="coin-logo" />
+                    <h1>${LINK_ID}</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${LINK_Price}</h1>
+                    <p>≈$${LINK_Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${LINK_High}</h1>
+                    <p>≈$${LINK_High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${LINK_Low}</h1>
+                    <p>≈$${LINK_Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/link_usdt.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$284,971.00</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="mark-pair">
+                    <img src="https://ncx.cx/images/xmr.svg" alt="coin-logo" />
+                    <h1>${XMR_ID}</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${XMR_Price}</h1>
+                    <p>≈$${XMR_Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${XMR_High}</h1>
+                    <p>≈$${XMR_High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${XMR_Low}</h1>
+                    <p>≈$${XMR_Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/xmr_usdt.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$424,431.00</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="mark-pair">
+                    <img src="https://ncx.cx/images/dai.svg" alt="coin-logo" />
+                    <h1>${DAI_ID}</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${DAI_Price}</h1>
+                    <p>≈$${DAI_Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${DAI_High}</h1>
+                    <p>≈$${DAI_High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${DAI_Low}</h1>
+                    <p>≈$${DAI_Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/dai_usd.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$367,392.00</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="mark-pair">
+                    <img src="https://ncx.cx/images/bat.svg" alt="coin-logo" />
+                    <h1>${BAT_ID}</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${BAT_Price}</h1>
+                    <p>≈$${BAT_Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${BAT_High}</h1>
+                    <p>≈$${BAT_High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${BAT_Low}</h1>
+                    <p>≈$${BAT_Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/bat_usdt.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$458,299.00</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="mark-pair">
+                    <img src="https://ncx.cx/images/tusd.svg" alt="coin-logo" />
+                    <h1>${TUSD_ID}</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${TUSD_Price}</h1>
+                    <p>≈$${TUSD_Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${TUSD_High}</h1>
+                    <p>≈$${TUSD_High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${TUSD_Low}</h1>
+                    <p>≈$${TUSD_Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/tusd_usdt.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$587,982.00</h1>
                 </td>
             </tr>
             `;

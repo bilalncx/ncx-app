@@ -1,5 +1,4 @@
 import React from "react";
-// import './market_ff';
 import { ReactComponent as SearchIcon } from '../../images/market_searchicon.svg';
 import { useTranslation } from "react-i18next";
 

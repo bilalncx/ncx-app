@@ -33,9 +33,9 @@ function WalletMainPage()
 
             <Wallet6 />
             
-            {/* <Wallet2 /> */}
+            {/* <Wallet2 />
 
-            {/* <Wallet4 />
+            <Wallet4 />
 
             <Wallet5 />
 
@@ -51,9 +51,9 @@ function WalletMainPage()
 
             <Wallet12 />
 
-            <Wallet13 />
+            <Wallet13 /> */}
 
-            <MobileWallet /> */}
+            <MobileWallet />
 
             <MyFooter />
 

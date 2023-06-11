@@ -28,8 +28,8 @@
     margin-top: 60px;
 }
 .global__row img, .global__row svg {
-    width: 105px;
-    height: 105px;
+    width: 80px;
+    height: 80px;
 }
 .global__mart:before{
     content: '';

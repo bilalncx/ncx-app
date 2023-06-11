@@ -160,11 +160,11 @@ div#market .container {
     max-width: 1200px !important;
 }
 #market.market-exchange {
-    background: url(../images/indices_ellipse2.png) !important;
+    /* background: url(../images/indices_ellipse2.png) !important;
     background-repeat: no-repeat !important;
-    background-size: cover !important;
+    background-size: cover !important; */
     background-color: #000000 !important;
-    background-position: center top 0px !important;
+    /* background-position: center top 0px !important; */
     padding: 60px 0px 0px 0px !important;
     position: relative;
 }
@@ -241,7 +241,8 @@ div#market:before {
     justify-content: flex-start;
 }
 #market #featured_slider .slider_market .slide, #market #featured_slider_mobile .slider_market .slide{
-    border-right: 10px solid #0E1F23 !important;
+    /* border-right: 10px solid #0E1F23 !important; */
+    border-right: 10px solid #000000 !important;
 }
 #market .more_bt a{
     color: rgba(255, 255, 255, 0.7);
@@ -539,7 +540,33 @@ details[open] .contt {
     z-index: 999;
     background: #000000;
 }
-
+/* NCX HOMEPAGE TOP DERIVATIVES ASSETS SECTION */
+/* ******************************************************** */
+.bg-dark .ind__cont {
+    background: transparent !important;
+    padding: 0px !important;
+}
+.bg-dark .inner__crypto{
+    justify-content: center;
+}
+.bg-dark .ind__cont table tr{
+    transition: all .3s;
+    position: relative !important;
+    min-height: 60px;
+    border-bottom: 1px solid hsla(0,0%,100%,.1) !important;
+    width: 100% !important;
+    display: flex;
+}
+.bg-dark .ind__cont table tr:hover{
+    background: #000000 !important;
+    margin-top: -1px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
+}
+.bg-dark .ind__cont table tr:hover td{
+    color: #FFFFFF !important;
+}
 
 
 
@@ -612,7 +639,6 @@ a.cl__drp:hover{
 #home__ffgrr.ncxapp-section .apps-divi svg{
     display: block !important;
 }
-
 .mbl__lpl{
     display: none;
 }
@@ -632,6 +658,9 @@ a.cl__drp:hover{
     }
 }
 @media screen and (max-width: 800px){
+    .bg-dark .ind__cont{
+        padding: 20px 0px 40px 0px !important;
+    }
     #card-faqss summary {
         font-size: 16px!important;
         line-height: 20px!important;
