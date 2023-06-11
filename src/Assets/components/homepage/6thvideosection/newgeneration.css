@@ -173,7 +173,8 @@ h2.secondtask{
         width: 49% !important;
         margin-right: 0px;
         max-height: 200px;
-        gap: 70px !important;
+        gap: 0px !important;
+        justify-content: space-between;
         padding: 15px 10px 15px 15px !important;
     }
     .buttoninfo svg{
@@ -198,9 +199,10 @@ h2.secondtask{
         font-family: 'urbanist-medium';
     }
     .buttoninfo a{
-        width: 95px;
+        width: 85px;
         height: 30px;
         font-size: 12px !important;
+        min-width: unset;
     }
     video#ncx-main-video{
         width: 100% !important;

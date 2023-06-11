@@ -48,7 +48,7 @@
     text-align: center;
     margin-top: 40px;
 }
-.ethereum p{
+/* .ethereum p{
     color: #000000 !important;
 }
 .arbitrum{
@@ -77,7 +77,7 @@
 }
 .gnosis{
     background: #48A9A6;
-}
+} */
 
 div.highway-slider {
 	display:flex;
@@ -115,6 +115,8 @@ div.highway-barrier {
     width:calc(180px * 24);
 }
 .coin__chain  {
+    background: rgba(28, 28, 28, 0.01);
+    border: 1px solid rgba(255, 255, 255, 0.15);
     animation:translateinfinite 55s linear infinite;
 }
 div#infinite:before {
@@ -159,7 +161,7 @@ div#infinite:after {
     }
 }
 #right__left .coin__chain  {
-    animation:translateinfinites 70s linear infinite;
+    animation:translateinfinites 90s linear infinite;
 }
 section#right__left {
     margin-top: 20px;

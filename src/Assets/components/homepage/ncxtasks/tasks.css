@@ -225,8 +225,15 @@ svg.turn {
     }
     .taskbtn a{
         width: fit-content;
-        height: 30px;
-        font-size: 12px;
+        min-width: unset !important;
+        height: 30px !important;
+        font-size: 12px !important;
+    }
+    #hyres .taskbtn a{
+        width: fit-content;
+        min-width: unset !important;
+        height: 30px !important;
+        font-size: 12px  !important;
     }
     .tasktext-div .col:first-child{
         width: 90% !important;

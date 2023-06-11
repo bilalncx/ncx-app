@@ -266,7 +266,7 @@ function Wallet1()
                 <p className="gjg_gf">{t("about_defi_text")}</p>
                 <div className="coin__tb">
                     <Button href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="lnch_dx">{t("launch_dex")}</Button>
-                    <Button href="#" className="dx_drp"> {t("claim_airdrop")}</Button>
+                    {/* <Button href="#" className="dx_drp"> {t("claim_airdrop")}</Button> */}
                 </div>
             </div>
         </div>

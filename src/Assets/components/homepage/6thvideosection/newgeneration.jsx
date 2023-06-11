@@ -25,17 +25,27 @@ function Home6thVideoSection(){
                                     <p>{t("new_user_must_complete_at_least_one_purchase")}</p>
                                 </div>
                                 <div className="buttoninfo">
-                                    <Button href="/rewards" alt="NCX Task Start">{t("start_task")}</Button>
+                                    <Button href="https://ncx.cx/rewards" alt="NCX Task Start">{t("start_task")}</Button>
                                     <NCXInfoIcon />
                                 </div>
                             </div>
                         </div>
                         <div className="taskdiv">
                             <h3 className="secondtask">1,250 <span>NCXT</span></h3>
-                            <div className="text212">
+                            {/* <div className="text212">
                                 <h4>{t("reach_derivatives_trading_volume")}</h4>
                                 <div className="buttoninfo">
                                     <p>{t("for_new_users_only")}</p>
+                                    <NCXInfoIcon />
+                                </div>
+                            </div> */}
+                            <div className="taskdiv11">
+                                <div className="text212">
+                                    <h4>{t("reach_derivatives_trading_volume")}</h4>
+                                    <p>{t("for_new_users_only")}</p>
+                                </div>
+                                <div className="buttoninfo">
+                                    <Button href="https://ncx.cx/rewards" alt="NCX Task Start">{t("view_all")}</Button>
                                     <NCXInfoIcon />
                                 </div>
                             </div>
