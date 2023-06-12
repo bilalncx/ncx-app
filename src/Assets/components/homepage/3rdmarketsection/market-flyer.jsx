@@ -59,6 +59,7 @@ function MartFlyer()
                             // naturalSlideHeight={250}
                             isIntrinsicHeight={true}
                             // hasMasterSpinner
+                            loop
                             isPlaying={true}
                             interval={2000}
                             orientation="horizontal"

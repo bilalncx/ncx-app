@@ -88,6 +88,7 @@ p.nhgt {
     font-family: 'urbanist-regular' !important;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 p.nhgt span{
     font-size: 12px;
@@ -148,14 +149,48 @@ p.nhgt span{
     margin: 50px 0px !important;
 }
 
-
+#newDexMobile{
+    display: none;
+}
 @media screen and (min-width: 800px){
     .dex-table{
         display: none;
     }
 }
 @media screen and (max-width: 800px){
-    .feature__dx{
+    #newDexMobile{
+        display: block;
+    }
+    .feat__gg{
         display: none;
+    }
+    #newDexMobile .text-table{
+        display: none;
+    }
+    #newDexMobile #mobile-tabsection h3 {
+        background: rgba(31, 31, 31, 0.7) !important;
+    }
+    #newDexMobile #mobile-tabsection .mbl-dexcont1 h3{
+        background: #1F1F1F !important;
+    }
+    #newDexMobile #mobile-tabsection .mbl-dexcont1 .tickbox {
+        background: #1F1f1F !important;
+    }
+    #newDexMobile #mobile-tabsection .mbl-dexcont2 .tickbox, #newDexMobile #mobile-tabsection .mbl-dexcont3 .tickbox {
+        background: rgba(31, 31, 31, 0.7) !important;
+    }
+    #newDexMobile #mobile-tabsection .mbl-dexcont2 .optionalbox, #newDexMobile #mobile-tabsection .mbl-dexcont3 .optionalbox {
+        background: rgba(31, 31, 31, 0.7) !important;
+    }
+    .bf__pok button {
+        width: 158px !important;
+        font-size: 14px !important;
+        height: 36px;
+    }
+    .bf__pok{
+        margin-bottom: 20px;
+    }
+    #newDexMobile div#mobile-tabsection{
+        padding-top: 0px !important;
     }
 }

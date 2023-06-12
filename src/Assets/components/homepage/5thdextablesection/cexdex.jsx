@@ -1,7 +1,7 @@
 import  React from "react";
 import './cexdex.css';
-import { ReactComponent as Whitetick } from '../../../images/check-icon.svg';
-import { ReactComponent as OptionalBox } from '../../../images/optionalbox.svg';
+import { ReactComponent as Whitetick } from '../../../images/tickvector.svg';
+import { ReactComponent as OptionalBox } from '../../../images/dashvector.svg';
 import { useTranslation } from "react-i18next";
 function HomeCEXDEXTableSection()
 {
