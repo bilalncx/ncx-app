@@ -10,13 +10,6 @@ function NewFeatureSection()
 
     return(
         <div className="feature__dx">
-            <div className="bf__pok container">
-                <button 
-                    onClick={() => setToggle(!toggle)} 
-                    class="btn btn-primary mb-5">
-                    {toggle ? "Hide Features" : "View Features"}
-                </button>
-            </div>
             {toggle && (
                 <div className="feat__gg">
                     <div className="sticky_pos">
@@ -260,6 +253,13 @@ function NewFeatureSection()
                     </div>
                 </div>  
             )}
+            <div className="bf__pok container">
+                <button 
+                    onClick={() => setToggle(!toggle)} 
+                    class="btn btn-primary mb-5">
+                    {toggle ? "Hide Features" : "View Features"}
+                </button>
+            </div>
         </div>
     )
 }
