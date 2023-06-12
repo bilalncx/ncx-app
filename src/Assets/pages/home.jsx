@@ -27,6 +27,8 @@ import NCXCardRanges from "../components/homepage/HomeCardRanges/cardranges";
 import NewFeatureSection from "../components/homepage/5thdextablesection/newtable";
 import HomeNCXCardBox from "../components/homepage/HomeCardBox/cardbox";
 import HomeCardVideo from "../components/homepage/HomeCardBox/homecardvideo";
+import ImageScrollHome from "../components/homepage/Imagescroll/scroll";
+import MartFlyer from "../components/homepage/3rdmarketsection/market-flyer";
 
 
 function MainHome()
@@ -43,7 +45,9 @@ function MainHome()
 
             <div id="market" className="market-exchange">
 
-                <FeaturedMarkets />
+                {/* <FeaturedMarkets /> */}
+
+                <MartFlyer />
 
                 <div className="container">
                     <NCXNewHomeMarketSection />
@@ -59,6 +63,8 @@ function MainHome()
             <HomeWallet />
 
             <HomeCEXDEXTableSection />
+
+            <ImageScrollHome />
 
             <NewFeatureSection />
 

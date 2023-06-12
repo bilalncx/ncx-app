@@ -9,6 +9,7 @@ function NewFeatureSection()
         <div className="feature__dx">
             <div className="bf__pok container">
                 <h1>Features</h1>
+                <Button className="feat_btn" href="#">Features</Button>
             </div>
            <div className="sticky_pos">
                 <div className="lkj head container">
@@ -144,14 +145,6 @@ function NewFeatureSection()
                         <div className="uiop"><p>1</p></div>
                     </div>
                     <div className="lkj">
-                        <div className="uiop"><p className="nhgt">Leverage Trading</p></div>
-                        <div className="uiop clr"><WhiteTick /></div>
-                        <div className="uiop"><WhiteTick /></div>
-                        <div className="uiop"><p>-</p></div>
-                        <div className="uiop"><WhiteTick /></div>
-                        <div className="uiop"><p>-</p></div>
-                    </div>
-                    <div className="lkj">
                         <div className="uiop"><p className="nhgt">Crypto Debit Card</p></div>
                         <div className="uiop clr"><WhiteTick /></div>
                         <div className="uiop"><WhiteTick /></div>
@@ -169,14 +162,6 @@ function NewFeatureSection()
                     </div>
                     <div className="lkj">
                         <div className="uiop"><p className="nhgt">Fiat Deposits / Withdrawals</p></div>
-                        <div className="uiop clr"><WhiteTick /></div>
-                        <div className="uiop"><WhiteTick /></div>
-                        <div className="uiop"><p>-</p></div>
-                        <div className="uiop"><WhiteTick /></div>
-                        <div className="uiop"><p>-</p></div>
-                    </div>
-                    <div className="lkj">
-                        <div className="uiop"><p className="nhgt">Crypto-Fiat Trading Pairs</p></div>
                         <div className="uiop clr"><WhiteTick /></div>
                         <div className="uiop"><WhiteTick /></div>
                         <div className="uiop"><p>-</p></div>

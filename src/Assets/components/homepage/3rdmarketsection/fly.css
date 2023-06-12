@@ -1,0 +1,175 @@
+.mart_row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mkij {
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 142px;
+    background-color: #000000 !important;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+p.tag_lst {
+    font-size: 12px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    background: #5ED3F0;
+    width: fit-content;
+    padding: 2px 8px;
+    border-radius: 0px 0px 10px 0px;
+}
+h1.title_lst {
+    font-size: 16px;
+    font-family: 'urbanist-medium';
+    color: #FFFFFF;
+    width: 60%;
+    line-height: 20px;
+}
+a.trd_btn {
+    background: transparent;
+    border: 1px solid;
+    border-color: #5ED3F0;
+    border-radius: 50px;
+    color: #FFFFFF;
+    height: 25px;
+    font-size: 12px;
+    font-family: 'urbanist-regular';
+    text-transform: capitalize;
+    width: fit-content;
+    min-width: unset;
+    padding: 0px 13px;
+    transition: all 0.3s;
+}
+a.trd_btn:hover{
+    background: #5ED3F0;
+}
+.mart1{
+    background: url(../../../images/mart-1.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart2{
+    background: url(../../../images/mart-2.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart3{
+    background: url(../../../images/mart-3.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart4{
+    background: url(../../../images/mart-4.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.nhqwe {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 20px;
+}
+@media screen and (max-width: 1300px){
+    h1.title_lst{
+        width: 70%;
+    }
+}
+@media screen and (max-width: 1080px){
+    .mart3, .mart4{
+        background-size: 45%;
+    }
+    h1.title_lst{
+        font-size: 13px;
+        width: 60%;
+    }
+}
+@media screen and (max-width: 1020px){
+    h1.title_lst{
+        font-size: 12px;
+        width: 70%;
+    }
+}
+
+div#market__flyes {
+    display: none;
+}
+@media screen and (max-width: 800px){
+    .mart_row{
+        display: none;
+    }
+    div#market__flyes {
+        display: block;
+    }
+    #market__flyes .mkij{
+        width: 100% !important;
+        min-height: 120px;
+        background-position: right bottom !important;
+        background-size: 55% !important;
+    }
+    #market__flyes .carousel__dot-group {
+        text-align: center;
+    }
+    #market__flyes button.carousel__dot--selected {
+        width: 40px !important;
+        background: #FFFFFF !important;
+        border: 2px solid #FFFFFF !important;
+        border-radius: 50px !important;
+    }
+    #market__flyes button.carousel__dot--selected span{
+        background: #FFFFFF;
+    }
+    #market__flyes .carousel__dot-group {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        margin-top: 20px;
+    }
+    #market__flyes button.carousel__dot {
+        width: 7px;
+        border: none;
+        background: rgba(255,255,255,0.5);
+        border-radius: 50px;
+        padding: 0px;
+        height: 4px;
+    }
+    #market__flyes button.carousel__dot:hover{
+        width: 20px;
+        background: rgba(255,255,255,0.5);
+        transition: all 0.3s;
+    }
+    #market__flyes .carousel__slider-tray {
+        gap: 0px;
+        align-items: flex-start !important;
+        max-width: 1245px !important;
+    }
+    #market__flyes p.tag_lst {
+        font-size: 10px;
+    }
+    .nhqwe{
+        padding-left: 10px;
+    }
+    h1.title_lst{
+        width: 50% !important;
+    }
+    #market__flyes .carousel__slider-tray .carousel__slide .carousel__inner-slide{
+        width: 300px !important;
+    }
+    #market__flyes .carousel__slider-tray .carousel__slide{
+        width: 300px !important;
+        margin-right: 15px !important;
+    }
+    .mkij.mart1 h1.title_lst {
+        width: 30% !important;
+    }
+    .mkij.mart2 h1.title_lst {
+        width: 30% !important;
+    }
+}

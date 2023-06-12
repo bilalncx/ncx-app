@@ -1,0 +1,16 @@
+.scroll_mg img {
+    width: 100% !important;
+}
+.scroll_mg {
+    position: relative;
+}
+.image-container {
+    width: 100%;
+    max-width: 1200px;
+    position: relative;
+    margin: 0 auto;
+}
+.bgfv {
+    max-width: 1200px;
+    margin: 0 auto;
+}
