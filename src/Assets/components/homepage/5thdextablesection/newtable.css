@@ -1,5 +1,5 @@
 .feature__dx {
-    padding: 100px 0px;
+    padding: 0px 0px 50px 0px;
     position: relative;
 }
 .lkj {
@@ -99,6 +99,7 @@ p.nhgt span{
 }
 .bf__pok {
     margin-bottom: 60px;
+    text-align: center;
 }
 .bf__pok h1 {
     font-size: 40px;
@@ -123,6 +124,30 @@ p.nhgt span{
 #ngbv.lkj.head .uiop:first-child {
     background: transparent;
 }
+.bf__pok button {
+    width: 167px;
+    height: 44px;
+    background: #000000;
+    border: 1px solid #5ED3F0;
+    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.5);
+    border-radius: 50px;
+    font-size: 16px;
+    font-family: 'urbanist-regular';
+    margin-bottom: 0px !important;
+}
+.bf__pok button:hover{
+    background: #5ED3F0;
+}
+.bf__pok button:focus, .bf__pok button:focus-visible, .bf__pok button:active{
+    outline: none !important;
+    background: transparent !important;
+    border: 1px solid #5ED3F0 !important;
+    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.5) !important;
+}
+.feat__gg {
+    margin-bottom: 50px !important;
+}
+
 
 @media screen and (min-width: 800px){
     .dex-table{
