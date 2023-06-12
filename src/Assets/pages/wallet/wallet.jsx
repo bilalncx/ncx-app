@@ -53,7 +53,7 @@ function WalletMainPage()
 
             <Wallet13 /> */}
 
-            <MobileWallet />
+            {/* <MobileWallet /> */}
 
             <MyFooter />
 
