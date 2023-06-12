@@ -529,7 +529,11 @@ details[open] .contt {
     margin-right: 0px;
 }
 .bg-dark #compare-cards .vwexx{
-    padding: 25px 0px !important;
+    padding: 22px 0px !important;
+}
+.uiop svg {
+    width: 12px !important;
+    height: auto !important;
 }
 .bg-dark #compare-cards .vwexx .qwrc span{
     margin-top: 0px !important;

@@ -76,6 +76,13 @@ a.trd_btn:hover{
     gap: 10px;
     padding-left: 20px;
 }
+#market .mart_fly .container {
+    max-width: 1340px !important;
+}
+.mkij:hover {
+    box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
+}
+
 @media screen and (max-width: 1300px){
     h1.title_lst{
         width: 70%;

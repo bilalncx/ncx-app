@@ -54,13 +54,13 @@ function MainHome()
                 </div>
             </div>
 
+            <HomeWallet />
+
             <HomeAssets />
 
             <Home5thSection />
 
             <HomeTrdingDerivatives />
-
-            <HomeWallet />
 
             {/* <HomeCEXDEXTableSection /> */}
 

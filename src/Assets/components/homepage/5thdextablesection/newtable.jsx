@@ -16,7 +16,9 @@ function NewFeatureSection()
                     <div className="feat__gg">
                         <div className="sticky_pos">
                             <div className="lkj head container">
-                                <div className="uiop"></div>
+                                <div className="uiop">
+                                    <h3>Features</h3>
+                                </div>
                                 <div className="uiop clr">
                                     <h3>NCX</h3>
                                 </div>
