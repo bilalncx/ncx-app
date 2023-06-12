@@ -9,7 +9,7 @@ function NewFeatureSection()
         <div className="feature__dx">
             <div className="bf__pok container">
                 <h1>Features</h1>
-                <Button className="feat_btn" href="#">Features</Button>
+                {/* <Button className="feat_btn" href="#">Features</Button> */}
             </div>
            <div className="sticky_pos">
                 <div className="lkj head container">
