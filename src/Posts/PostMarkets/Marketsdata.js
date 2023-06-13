@@ -1,5 +1,88 @@
 const data = [
   {
+    id: 540,
+    title: 'Morgan Stanley’s investment chief called 2022’s bear market, and he says stocks are still hibernating—he sees a 14% drop ahead',
+    category: 'Markets',
+    subCategory: ['Morgan', 'bear market', 'drop'],
+    description: <div className="blog-desc">
+      <p>Mike Wilson isn’t afraid to stand out from the crowd in an industry that doesn’t often reward that type of behavior. In late 2021, the Wall Street veteran,</p>
+    </div>,
+    authorName: 'Will Daniel',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 13, 2023 - 12:20 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-647.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Mike Wilson isn’t afraid to stand out from the crowd in an industry that doesn’t often reward that type of behavior. In late 2021, the Wall Street veteran, who is now Morgan Stanley’s chief investment officer and chief U.S. equity strategist, argued that a bear market was on the way amid the toxic combination of Federal Reserve interest rate hikes and slowing economic growth—which he labeled “fire” and “ice.”</p>
+    	<p>At the time, the consensus forecast on Wall Street was for the S&P 500 to rise roughly 1% to 4,825 by the end of 2022, but Wilson’s price target was the lowest of his peers at 4,400, with a bear case of below 4,000. The pessimistic prediction turned out to be correct, as the S&P 500 slipped roughly 20% last year to 3,839, earning Wilson top stock strategist honors in an October 2022 survey by Institutional Investor.</p>	
+    	<p>But 2023 has been a different story.</p>	
+    	<p>In January, the Morgan Stanley CIO argued that the S&P 500 could drop as low as 3,000 in the first half of the year as corporate earnings growth slowed, before mounting a second half recovery to 3,900. But the index has done pretty much the opposite, rising more than 12% year to date to over 4,300 on the back of slowly fading inflation and enthusiasm for artificial intelligence as a potential driver of future corporate growth.</p>
+      <p>Still, even as other investment banks have begun to increase their price targets for the blue-chip index—Goldman Sachs, for example, now sees the S&P 500 ending the year at 4,500, up from 4,000 at the start of the year—Wilson isn’t backing down from his bear market thesis.</p>
+      <p>“With the S&P 500 rally now crossing the 20% threshold, more are declaring the bear market officially over. We respectfully disagree due to our 2023 earnings forecast,” he wrote in a Monday note. “The bear is still alive.”</p>
+      <p>Wilson’s base case is for the S&P 500 to drop roughly 3% over the next 12 months to 4,200, but in a bear case scenario, he believes the index could fall to 3,700, or around 14% from current levels. He argues that stocks are in the midst of an “earnings recession” that hasn’t been priced in, and Wall Street’s profit expectations are too robust.</p>
+      <p>More than 70% of S&P 500 sectors have forward earnings expectations from Wall Street that are “at least 20% above pre-COVID levels,” Wilson wrote Monday, noting that even Morgan Stanley’s earnings forecast for the overall index, which is seen as bearish on the Street, is “10% above the long-term earnings trend line.”</p>
+      <p>The key to Wilson’s bearish theory is the idea that falling inflation will lower corporate profits, just as rising inflation helped to increase them in 2021. As Fortune previously reported, businesses were able to pass on rising costs during the pandemic and increase profit margins. But now, with inflation falling and economic growth slowing, we’re entering a natural period of “margin compression.”</p>
+      <p>“That’s driven by the same things that made the profits go up, coming down,” explained John Leer, chief economist at business intelligence firm Morning Consult. “You’ve got weaker demand, realized and expected; you’ve got slower inflation, realized and expected; and less ability for businesses to pass along elevated costs to consumers.”</p>
+      <p>Wilson also argued on Monday that higher interest rates are leading the economy into a “boom/bust regime” like what was seen after World War II. He explained that during both WWII and the pandemic, consumers built up excess savings during a period when the supply of goods and services was constrained, causing inflation and the stock market to surge when the economy reopened.</p>
+      <p>Then a period of higher interest rates followed, which ultimately sparked a bear market and a recession in 1948. But before the economy entered that recession, there was a sizable bear market rally that lured in many investors. Wilson fears modern investors are falling into this same trap again.</p>
+      <p>“After the boom in 1946 following the end of the war, the S&P 500 corrected by 28%, followed by a 24% choppy bear market rally that lasted almost 18 months before succumbing to new lows a year later. Thus far, this appears similar to the current bear market, which corrected 27.5% last year and has now rallied 24% from the intraday lows,” he wrote, arguing more pain is likely ahead for stock market investors.</p>
+    </div>
+  },
+  {
+    id: 539,
+    title: 'Stock Market Holds Gains Ahead Of CPI, Fed Decision; Cruise Line Stocks Sail Higher',
+    category: 'Markets',
+    subCategory: ['CPI', 'Fed', 'Curise stocks'],
+    description: <div className="blog-desc">
+      <p>The stock market started the week in the green ahead of the Fed meeting this week. Tesla rallied for 12th day in row.</p>
+    </div>,
+    authorName: 'KIMBERLEY KOENIG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 8:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-648.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The stock market started the week in the green ahead of the Fed meeting this week. Tesla rallied for 12th day in row.</p>
+    	<p>The major stock market indexes improved at midday Monday, with the S&P 500 maintaining a key level. Two key economic reports could affect the Fed's next policy move, which in turn could move markets this week.</p>	
+    	<p>The May consumer price index report is due Tuesday morning. According to Econoday, May's CPI is expected to rise 0.2% on the month, with the annual inflation rate easing to 4.1% from 4.9%.</p>	
+      <p>The core CPI, excluding food and energy, is forecast to rise 0.4%, lowering the core inflation rate to 5.3% from 5.5%.</p>
+      <p>The May producer price index (PPI) is out Wednesday morning and is forecast to slow to 2.9% from 3.2% on a year-over-year basis.</p>
+      <p>These two reports could sway the Fed's policy decision. The Federal Reserve Open Market Committee meets Tuesday and Wednesday.</p>
+      <p>The 10-year U.S. Treasury yield added 4 basis points to 3.78%. The CME FedWatch tool now shows analyst consensus of over 70% odds for no rate hike at this week's meeting, and the remainder expect a quarter-point hike.</p>
+      <h3>Index Moves</h3>
+    	<p>The Nasdaq strengthened its gain to 0.8%. The Dow Jones Industrial Average edged up 0.1%. The S&P 500 pulled ahead 0.3% and was just above the 4,300 level. The index met resistance there last August, which makes it an important level to watch.</p>
+      <p>The Russell 2000 was in line with the S&P 500 Index, adding 0.3%.</p>
+      <p>The Nasdaq 100-tracking Invesco QQQ Trust ETF (QQQ) added 0.8% as some major techs showed strength. The First Trust Nasdaq 100 Equal Weighted ETF (QQEW) crept up 0.6%.</p>
+      <p>The Innovator IBD 50 ETF (FFTY) outperformed with a 1% increase.</p>
+      <p>NYSE volume was relatively flat and Nasdaq volume rose from Friday's levels at the same time.</p>
+      <p>Crude oil fell 3.2% to $67.92 per barrel. Gold futures edged 0.4% lower.</p>
+      <p>The price of Bitcoin shed 2.2% to $25,885 in sympathy with the smaller cryptocurrency coins that sold off on Saturday amid the SEC crackdown. Coinbase (COIN) tumbled 5.1%.</p>
+      <p>European stocks closed higher, with the German DAX adding 0.9% and Paris CAC rising 0.5%. The London FTSE was the weakest, with only a 0.1% gain.</p>
+      <h3>Stock Market Movers: Tesla Up Again</h3>
+      <p>Leaderboard stock Tesla (TSLA) added another 1% in heavier-than-average daily volume, and is on track for its 12th consecutive gain. That would be its longest winning streak since June 2010.</p>
+      <p>Akero Therapeutics (AKRO) popped 6.6% and broke out of a saucer base. The buy zone from the 54.88 buy point goes to 57.62. The move came after Morgan Stanley raised its price target to 70 from 65 and maintained its overweight rating.</p>
+      <p>Biogen (BIIB) rose 1.9% and is rising from support in a pullback to the 50-day moving average. Late Friday, the company said a Food and Drug Administration (FDA) committee supported its Alzheimer's drug.</p>
+      <p>Chinook Therapeutics (KDNY) rocketed 57% in heavy volume on news it agreed to be acquired by Novartis (NVS) for $3.2 billion in cash. Shares gapped out of a cup-with-handle base. NVS dipped 1.3% on the news.</p>
+      <p>Oracle (ORCL) rallied 6.6% ahead of its quarterly results after today's market close. A Wolfe Research analyst raised his rating to outperform from peer perform, with a price target of 130. Shares have reached the 20% profit target from a breakout at 91.22 in late March. With earnings due, investors have the option to lock in profits.</p>
+      <p>The Zacks consensus estimate is for adjusted profit of $1.58 a share, up 3% from a year ago. Revenue is seen rising 16% to $3.74 billion.</p>
+      <p>Adobe (ADBE) added another 3.1% on top of Friday's 3.4% rally. Shares are above a 451.15 buy point. The relative strength line hit a 52-week high. Adobe reports its May-ended quarterly results Thursday after the market close.</p>
+      <h3>Cruise Line Stocks Take Off</h3>
+      <p>Cloud-based software stock Integration Appliance (INTA), commonly known as Intapp, soared 8.6% in heavy volume and broke out of a base. The buy zone from the 47.04 buy point goes to 49.39.</p>
+      <p>Its relative strength line hit a new 52-week high on the weekly chart as shown by the blue dot, according to MarketSmith pattern recognition. Intapp was the IPO Stock of the Week. It has gained 90% this year so far.</p>
+      <p>Carnival (CCL) jumped 13% after JPMorgan Chase upgraded the cruise line stock to overweight from neutral and raised its price target to 16 from 11. Shares are above the 5% buy zone from the 12.62 buy point. Carnival is the S&P 500's biggest gainer today.</p>
+      <p>IBD 50 stock Norwegian Cruise Line (NCLH) spiked 7.7% after JPMorgan Chase and BofA Securities raised their price targets on the stock.</p>
+      <p>The stock rose past a cup-base buy point of 18.12 and is in a buy zone to 19.03. Volume is heavy.</p>
+      <h3>Nasdaq Slides On Acquisition</h3>
+      <p>Nasdaq (NDAQ) fell 13.2% on news it will buy bank and brokerage software company Adenza for $10.5 billion in cash and stock from private-equity firm Thoma Bravo. The acquisition is expected to close in the next six to nine months. NDAQ is the S&P 500's biggest loser today.</p>
+      <p>Advanced Micro Devices (AMD) climbed 1.9% after KeyBanc raised its price target to 150 from 110 and maintained its overweight rating on the semiconductor company.</p>
+      <p>Bill (BILL) shed 0.5% after Morgan Stanley downgraded the stock to equal weight from overweight and kept its price target at 105.</p>
+    </div>
+  },
+  {
     id: 538,
     title: 'The bull market in stocks wont last long - and theres a 99% chance of a US recession, top economist David Rosenberg says',
     category: 'Markets',
