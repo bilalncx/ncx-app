@@ -1,0 +1,113 @@
+.mb__partner{
+    display: none;
+}
+@media screen and (max-width: 800px){
+    .mb__partner{
+        display: block;
+        overflow: hidden;
+        padding-bottom: 35px;
+        position: relative;
+        padding-top: 50px;
+    }
+    .mb__partner:before {
+        content: '';
+        width: 48%;
+        height: 0.75px;
+        background: linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 2%;
+        margin: 0 auto;
+    }
+    .mb__partner:after {
+        content: '';
+        width: 48%;
+        height: 0.75px;
+        background: linear-gradient(90deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 2%;
+        margin: 0 auto;
+    }
+    h2.partnership {
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 24px;
+        font-family: 'urbanist-regular';
+        margin-bottom: 50px;
+    }
+    .mb__partner .rooted {
+        width: 100%;
+    }
+    
+    .mb__partner .root-reverse {
+        transform: rotate(-180deg);
+    }
+    
+    .mb__partner .root-reverse .part {
+        transform: rotate(180deg);
+    }
+    
+    .mb__partner .scroll {
+        width: 100%;
+        display: flex;
+        animation-name: scroll;
+        animation-duration: 30s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        will-change: transform;
+        gap: 15px;
+    }
+    
+    .mb__partner .scroll:hover {
+        animation-play-state: paused;
+    }
+    
+    .mb__partner .part {
+        display: flex;
+        position: relative;
+    }
+    
+    .mb__partner .box-slide {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 15px;
+        gap: 15px;
+    }
+    
+    .mb__partner .slider-card {
+        width: 130px;
+        min-height: 130px;
+        padding: 24px;
+        background-color: #151515;
+        border-radius: 8px;
+        box-shadow: 0px 0px 10px #000;
+        transform: scale(1);
+        transition: transform .2s ease;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .mb__partner .slider-card:hover {
+        transform: scale(1.05);
+    }
+    
+    .mb__partner .slider-card img {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    @keyframes scroll {
+        0% {
+            transform: translateX(0);
+        }
+    
+        100% {
+            transform: translateX(-100%);
+        }
+    }
+}

@@ -29,6 +29,7 @@ import HomeNCXCardBox from "../components/homepage/HomeCardBox/cardbox";
 import HomeCardVideo from "../components/homepage/HomeCardBox/homecardvideo";
 import ImageScrollHome from "../components/homepage/Imagescroll/scroll";
 import MartFlyer from "../components/homepage/3rdmarketsection/market-flyer";
+import HomeMobilePartner from "../components/homepage/banner/partner";
 
 
 function MainHome()
@@ -87,6 +88,8 @@ function MainHome()
             <HomeWalletStakes />
 
             <HomeBannerSection />
+
+            <HomeMobilePartner />
             
             <MyFooter />
 

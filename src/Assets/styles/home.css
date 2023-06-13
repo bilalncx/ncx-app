@@ -802,7 +802,7 @@ a.cl__drp:hover{
         padding: 15px 10px !important;
     }
     #home_coins.wallet-slider{
-        padding: 0px 0px 50px 0px !important;
+        padding: 50px 0px 0px 0px !important;
     }
     #card__new .trg__ff__fe p{
         width: 100% !important;
@@ -837,8 +837,9 @@ a.cl__drp:hover{
         min-height: auto;
     }
     #bannss.ind__banner h1 {
-        font-size: 26px !important;
-        line-height: 32px !important;
+        font-size: 24px !important;
+        line-height: 30px !important;
+        font-family: 'urbanist-regular' !important;
     }
     #bannss.ind__banner p {
         font-size: 14px !important;

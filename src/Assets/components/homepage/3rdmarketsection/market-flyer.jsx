@@ -61,7 +61,7 @@ function MartFlyer()
                             // hasMasterSpinner
                             loop
                             isPlaying={true}
-                            interval={2000}
+                            interval={3000}
                             orientation="horizontal"
                             infinite
                             playDirection="forward"

@@ -126,6 +126,9 @@ div#indicies__page {
     display: none;
 }
 @media screen and (max-width: 800px){
+    #indicies__page .trade__derivative .row.most_deri{
+        display: flex !important;
+    }
     .indices__hdd .tvt__f h1{
         font-size: 26px !important;
         line-height: 32px !important;

@@ -131,4 +131,7 @@ h1.gfd__fdr {
         font-size: 24px;
         margin-bottom: 30px;
     }
+    #indicies__page .trade__derivative .row.most_deri{
+        display: flex !important;
+    }
 }
