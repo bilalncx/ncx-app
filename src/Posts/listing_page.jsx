@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                                <a href="/post-markets/535" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-633.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 10, 2023 - 1:09 AM</p>
-                                    <h1>Stock Market Action Plan June 12-16: Fed Meeting, Earnings From Lennar, Oracle Adobe</h1>
-                                    <p>The Fed's Wednesday policy news will be the market's focal point for the week, along with earnings from Adobe, Oracle and Lennar.</p>
+                                <a href="/post-markets/540" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-647.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 13, 2023 - 12:20 AM</p>
+                                    <h1>Morgan Stanley’s investment chief called 2022’s bear market, and he says stocks are still hibernating—he sees a 14% drop ahead</h1>
+                                    <p>Mike Wilson isn’t afraid to stand out from the crowd in an industry that doesn’t often reward that type of behavior.</p>
                                 </a>
-                                <a href="/post-indices/524" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-632.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 10, 2023 - 3:58 AM</p>
-                                    <h1>Dow Jones Futures: Bullish Market Trend, But Fed Meeting Looms; Watch Tesla, Nvidia, Biogen</h1>
-                                    <p>A broader market rally is a reason to be bullish long term, but the Fed meeting is one reason to be cautious now. Biogen jumped late Friday. Watch Tesla and Nvidia.</p>
+                                <a href="/post-crypto/561" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-641.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 9:08 PM</p>
+                                    <h1>Hong Kong Lawmaker Invites Coinbase to Apply to Operate in Region Amid U.S. SEC Crackdown</h1>
+                                    <p>A Hong Kong lawmaker invited global virtual asset trading operators, including crypto exchange Coinbase, to come and register in the region.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row">
-                            <a href="/post-crypto/555" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-627.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 9, 2023 - 5:14 PM</p>
-                                    <h1>Weekly Market Wrap: SEC crackdown on Binance, Coinbase ‘can’t stop’ Bitcoin as it trades above US$26,000</h1>
-                                    <p>Bitcoin fell 2% from June 2 to June 9 to trade at US$26,598 at 7:45 p.m. Friday in Hong Kong.</p>
+                            <a href="/post-crypto/560" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-642.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 5:30 PM</p>
+                                    <h1>Binance plans to swap 750 million of token pairs to ensure liquidity</h1>
+                                    <p>(Reuters) - Binance said in a tweet on Monday it would swap 750 million tether-tron token pairs for tether-ether in an attempt to maintain the stablecoin's liquidity.</p>
                                 </a>
-                            <a href="/post-crypto/554" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-624.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 9, 2023 - 1:35 PM</p>
-                                    <h1>Bitcoin rises, Ether slips, most top 10 cryptos begin to pick up after SEC crackdown</h1>
-                                    <p>Bitcoin rose and Ether fell during Friday afternoon trading hours in Hong Kong, while most of the top 10 non-stablecoin cryptocurrencies by market</p>
+                            <a href="/post-crypto/559" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-643.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 12, 2023 - 2:37 PM</p>
+                                    <h1>Bitcoin stays below US$26,000 in mixed market, Binance’s BNB biggest loser in 24 hours</h1>
+                                    <p>Bitcoin inched up but continued to trade below US$26,000 on Monday afternoon in Asia, while all other top 10 non-stablecoin cryptocurrencies traded mixed,</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
+                            <a href="/post-markets/539" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-648.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 8:21 PM</p>
+                                    <h1>Stock Market Holds Gains Ahead Of CPI, Fed Decision; Cruise Line Stocks Sail Higher</h1>
+                                    <p>The stock market started the week in the green ahead of the Fed meeting this week. Tesla rallied for 12th day in row.</p>
+                                </a>
                             <a href="/post-markets/538" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-636.jpg" alt="art_pic"/></div>
                                     <p className="dat"> June 10, 2023 - 4:54 PM</p>
                                     <h1>The bull market in stocks wont last long - and theres a 99% chance of a US recession, top economist David Rosenberg says</h1>
                                     <p>The stock market's powerful rally is unfounded, and the US economy is virtually guaranteed to sink into recession, David Rosenberg has warned.</p>
-                                </a>
-                            <a href="/post-markets/537" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-635.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 10, 2023 - 1:45 AM</p>
-                                    <h1>MasterCard (MA) Outpaces Stock Market Gains: What You Should Know</h1>
-                                    <p>MasterCard (MA) closed the most recent trading day at $369.22, moving +0.44% from the previous trading session.</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
-                            <a href="/post-markets/536" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-634.jpg" alt="art_pic"/></div>
+                            <a href="/post-indices/527" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-646.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 13, 2023 - 4:43 AM</p>
+                                <h1>Dow Jones Futures: Nasdaq Hits 2023 High; Inflation Data, Fed Meeting Loom; Tesla Extends Win Streak</h1>
+                                <p>Dow Jones futures: The Nasdaq hit a fresh 2023 high ahead of key inflation data and the Fed meeting. Tesla stock extended its win streak.</p>
+                            </a>
+                            <a href="/post-forex/533" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-652.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 12, 2023 - 5:42 PM</p>
+                                <h1>GBP to USD Forecast – Sterling Gives Up a Certain Amount of Strength</h1>
+                                <p>The British pound initially tried to rally during the trading session on Monday but gave back gains to show hesitation yet again.</p>
+                            </a>
+                            <a href="/post-forex/532" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-651.jpg" alt="art_pic"/></div>
+                                <p className="dat">  June 12, 2023 - 5:36 PM</p>
+                                <h1>EUR/USD Forecast – Euro Tests Top of Short-term Range</h1>
+                                <p>The euro rallied a bit during the trading session on Monday, as we continue to test a short-term range.</p>
+                            </a>
+                            <a href="/post-markets/537" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-635.jpg" alt="art_pic"/></div>
                                 <p className="dat"> June 10, 2023 - 1:45 AM</p>
-                                <h1>Amazon (AMZN) Stock Sinks As Market Gains: What You Should Know</h1>
-                                <p>Amazon (AMZN) closed the most recent trading day at $123.43, moving -0.66% from the previous trading session.</p>
-                            </a>
-                            <a href="/post-crypto/556" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-626.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 9, 2023</p>
-                                <h1>Why Bitcoin’s transactions are soaring today</h1>
-                                <p>Bitcoin transactions hit the highest point in almost two months amid regulatory heat. Yet, money flowed out of the market.</p>
-                            </a>
-                            <a href="/post-crypto/558" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-629.jpg" alt="art_pic"/></div>
-                                <p className="dat">  June 8, 2023 - 9:26 PM</p>
-                                <h1>Kraken NFT Marketplace Launches With Support for Ethereum, Solana and Polygon Collections</h1>
-                                <p>Cryptocurrency exchange Kraken has officially launched its NFT marketplace out of beta testing, supporting over 250 non-fungible tokens (NFTs) across the Ethereum, Solana and Polygon blockchains.</p>
-                            </a>
-                            <a href="/post-commodities/525" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-640.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 8, 2023 - 7:25 AM</p>
-                                <h1>Gold jumps as US dollar, yields dip after jobless claims data</h1>
-                                <p>(Reuters) - Gold prices climbed more than 1% on Thursday as the dollar and bond yields slipped after data showed U.S. weekly jobless claims surged last week,</p>
+                                <h1>MasterCard (MA) Outpaces Stock Market Gains: What You Should Know</h1>
+                                <p>MasterCard (MA) closed the most recent trading day at $369.22, moving +0.44% from the previous trading session.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
@@ -107,23 +107,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Forex</h1>
                             <div className="art_grf row">
-                            <a href="/post-forex/531" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-616.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 6, 2023 - 6:15 PM</p>
-                                    <h1>USD/JPY Forecast – US Dollar Finds Buyers on the Dip</h1>
-                                    <p>The US dollar initially tried to fall against the Japanese yen during the trading session on Tuesday, but then turned around to show signs of life again.</p>
+                            <a href="/post-forex/536" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-655.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 6:03 PM</p>
+                                    <h1>GBP/JPY Forecast – Pound Looks Tired Against the Yen</h1>
+                                    <p>The British pound has rallied a bit during the early hours on Monday, to continue the move above the ¥175 level.</p>
                                 </a>
-                            <a href="/post-forex/530" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-617.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 6, 2023 - 6:08 PM</p>
-                                    <h1>GBP to USD Forecast – British Pound Gives Up Early Gain</h1>
-                                    <p>The British pound initially tried to rally during the trading session on Tuesday but gave back gain rather quickly. At this point, the market is likely to see the 50-Day</p>
+                            <a href="/post-forex/535" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-654.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 5:54 PM</p>
+                                    <h1>AUDUSD Forecast – Australian Dollar Pierces 200-Day EMA</h1>
+                                    <p>The Australian dollar has rallied significantly during the trading session on Monday, as we continue to reach toward the 0.68 level.</p>
                                 </a>
-                            <a href="/post-forex/529" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-610.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 5, 2023 - 6:02 PM</p>
-                                    <h1>USD/JPY Forecast – US Dollar Threatens Another Breakout</h1>
-                                    <p>The US dollar has rallied a bit during the trading session early on Monday, as the Japanese yen continues to lose value. That being said, there is a little bit of pushback,</p>
+                            <a href="/post-forex/534" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-653.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 5:48 PM</p>
+                                    <h1>USD/JPY Forecast – US Dollar Sees Noisy Behavior</h1>
+                                    <p>The US dollar continues to see a lot of noisy sideways action against the Japanese yen, as we are in the midst of forming something along the lines of a bullish flag.</p>
                                 </a>
                             </div>
                             <Button href="/post-forex" className="red__mor">View All</Button>
@@ -134,23 +134,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Commodities</h1>
                             <div className="art_grf row">
+                            <a href="/post-commodities/530" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-650.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 6:18 PM</p>
+                                    <h1>Five Key Charts to Watch in Global Commodities This Week</h1>
+                                    <p>(Bloomberg) -- Biodiesel fans will be keenly awaiting an announcement this week by the US Environmental Protection Agency on how much of the renewable product must be blended into the nation’s fuel supply.</p>
+                                </a>
+                            <a href="/post-commodities/529" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-649.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 4:58 AM</p>
+                                    <h1>Gold eases as dollar firms at start of busy Fed week</h1>
+                                    <p>(Reuters) - Gold prices dipped on Monday as the dollar and bond yields firmed, while traders braced for a busy week of key U.S. inflation prints and major central bank policy meetings,</p>
+                                </a>
                                 <a href="/post-commodities/528" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-638.jpg" alt="art_pic"/></div>
                                     <p className="dat"> June 9, 2023 - 2:30 PM</p>
                                     <h1>Natural Gas ETF Buying Spree Has Traders Fearing Wild Swings</h1>
                                     <p>(Bloomberg) -- A buying spree in ETFs tied to natural gas is spurring concern that the securities risk destabilizing a market that up until now has been the province of energy pros.</p>
-                                </a>
-                                <a href="/post-commodities/527" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-639.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 9, 2023 - 7:31 AM</p>
-                                    <h1>Gold heads for best week in five on Fed rate pause bets</h1>
-                                    <p>(Reuters) - Gold eased on Friday on a stronger dollar and higher yields but was set for its best week since early May after weaker jobs data</p>
-                                </a>
-                            <a href="/post-commodities/526" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-637.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 9, 2023 - 5:36 AM</p>
-                                    <h1>Oil posts second weekly decline as demand concerns overshadow Saudi cut</h1>
-                                    <p>BENGALURU (Reuters) - Oil prices fell more than a dollar a barrel on Friday to record a second straight weekly decline, as disappointing Chinese data</p>
                                 </a>
                             </div>
                             <Button href="/post-commodities" className="red__mor">View All</Button>
@@ -161,23 +161,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Indices</h1>
                             <div className="art_grf row">
-                            <a href="/post-indices/523" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-631.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 10, 2023 - 12:55 AM</p>
-                                    <h1>Dow Jones Today: Index Inches Up Ahead of Fed Meeting</h1>
-                                    <p>The Dow Jones Industrial Average (DJIA) ticked up about 0.1%, or 44 points, on below-average volume as investors await next week's inflation reading and an interest rate decision from the Federal Reserve.</p>
+                            <a href="/post-indices/527" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-646.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 13, 2023 - 4:43 AM</p>
+                                    <h1>Dow Jones Futures: Nasdaq Hits 2023 High; Inflation Data, Fed Meeting Loom; Tesla Extends Win Streak</h1>
+                                    <p>Dow Jones futures: The Nasdaq hit a fresh 2023 high ahead of key inflation data and the Fed meeting. Tesla stock extended its win streak.</p>
                                 </a>  
-                            <a href="/post-indices/522" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-630.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 10, 2023 - 12:02 AM</p>
-                                    <h1>S&P 500 finishes week at highest level since August, as Nasdaq logs 7th-straight winning week: Stock market news today</h1>
-                                    <p>Stocks rose on Friday as investors digested a pairing between two of the largest American automakers and prepared for the Federal Reserve's next decision on rate hikes.</p>
+                            <a href="/post-indices/526" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-645.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 5:31 PM</p>
+                                    <h1>Dow Jones Rises Ahead Of Inflation Data, Fed Meeting; AMD, Amazon Rally On Price-Target Hikes</h1>
+                                    <p>The Dow Jones rose Monday ahead of this week's inflation data and two-day Fed meeting. AMD and Amazon rallied on price-target hikes.</p>
                                 </a>  
-                            <a href="/post-indices/521" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-622.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 7, 2023 - 3:54 PM</p>
-                                    <h1>Dow Jones Futures: Indexes Mask Broad Market Rally; Cathie Wood Loads Up Coinbase</h1>
-                                    <p>The stock market rally had a slightly positive session on big-cap indexes Tuesday. But small-cap and midcap stocks had a big day.</p>
+                            <a href="/post-indices/525" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-644.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 12, 2023 - 2:28 PM</p>
+                                    <h1>S&P 500 and Nasdaq close at highest since April 2022</h1>
+                                    <p>(Reuters) - The S&P 500 and the Nasdaq rallied on Monday to their highest closing levels since April 2022, while Oracle hit a record high ahead of quarterly results as investors awaited inflation data</p>
                                 </a>
                             </div>
                             <Button href="/post-indices" className="red__mor">View All</Button>

@@ -1,6 +1,108 @@
 const data = [
   {
-    id: 596,
+    id: 561,
+    title: 'Hong Kong Lawmaker Invites Coinbase to Apply to Operate in Region Amid U.S. SEC Crackdown',
+    category: 'Crypto',
+    subCategory: ['HongKong', 'Coinbase', 'SEC'],
+    description: <div className="blog-desc">
+      <p>A Hong Kong lawmaker invited global virtual asset trading operators, including crypto exchange Coinbase, to come and register in the region.</p>
+    </div>,
+    authorName: 'Camomile Shumba',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 9:08 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-641.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>A Hong Kong lawmaker invited global virtual asset trading operators, including crypto exchange Coinbase, to come and register in the region.</p>
+    	<p>Hong Kong's Securities and Futures Commission (SFC) began accepting applications for crypto trading platform licenses on June 1. Crypto firms which get registered under this license will be able to serve retail customers in the country and will need to comply with rules that prohibit crypto incentives like airdrops.</p>	
+    	<p>“I hereby offer an invitation to welcome all global virtual asset trading operators including @coinbase to come to HK for application of official trading platforms and further development plans,” Hong Kong legislative council member Johnny Ng said in a tweet on Saturday.</p>	
+    	<p>“Coinbase is dedicated to partnering with high-bar regulators across U.S. and non-U.S. jurisdictions,” a Coinbase spokesperson told CoinDesk, responding to the tweet.</p>
+      <p>Ng’s invite comes amid a U.S. crackdown on crypto exchanges like Binance and Coinbase, which have both been sued recently by the U.S. Securities and Exchange Commission (SEC) for allegedly violating federal securities laws.</p>
+      <p>Brian Armstrong, Coinbase’s CEO, said in April that his company would consider moving out of the U.S. if there continues to be no regulatory clarity around how crypto is treated, something which the company has been pushing for.</p>
+      <p>Coinbase is now looking to expand globally, Tom Duff-Gordon, Vice President of International Policy at Coinbase, said in an interview.</p>
+      <p>“Coinbase is really excited to be expanding overseas,” Duff-Gordon said.</p>
+      <p>The company is trying to build in Abu Dhabi, Canada and is waiting for approval to register in Singapore, Duff-Gordon added.</p>
+      <p>While the company has been operating in the U.K. through CB Payments Limited, which has been authorized and regulated by the Financial Conduct Authority as an electronic money institution, the company hopes to apply for authorization under the U.K.’s new crypto regime once that is finalized, Duff-Gordon said.</p>
+      <p>While international expansion is a key focus, Coinbase is not ready to give up on the U.S., according to Duff-Gordon.</p>
+      <p>“The easiest thing for us to do would be to cut and run but that's not what we're doing,” Duff-Gordon said. “We want to represent the industry to stand up and to fight for regulatory clarity in the U.S.”</p>
+    </div>
+  },
+  {
+    id: 560,
+    title: 'Binance plans to swap 750 million of token pairs to ensure liquidity',
+    category: 'Crypto',
+    subCategory: ['Binance', 'Token', 'liquidity'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Binance said in a tweet on Monday it would swap 750 million tether-tron token pairs for tether-ether in an attempt to maintain the stablecoin's liquidity.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 5:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-642.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) - Binance said in a tweet on Monday it would swap 750 million tether-tron token pairs for tether-ether in an attempt to maintain the stablecoin's liquidity.</p>
+    	<p>The move comes amid renewed regulatory scrutiny at the world's largest cryptocurrency exchange and will help cushion some of the fallout from recent blows, including Binance being sued by the U.S. Securities and Exchange Commission.</p>	
+    	<p>The swap, set to start after 12 p.m. UTC on Monday, will be held directly with the tether team, the tweet said.</p>	
+    	<p>Tether is the largest stablecoin that aims to maintain a 1:1 peg with the U.S. dollar. Tron is the ninth largest cryptocurrency with a $6.3 billion market value, while ether is the largest after bitcoin, with its $210 billion market capitalization.</p>
+      <p>Last week, the SEC sued Binance, its CEO and founder Changpeng Zhao, and Binance.US's operation alleging in 13 charges that Binance had engaged in a "web of deception," artificially inflated trading volumes and diverted customer funds, and that Binance and Zhao were secretly controlling the U.S. entity while publicly claiming that it was independent.</p>
+      <p>It will also halt dollar withdrawal channels as early as June 13 after the SEC asked a court to freeze its assets. Binance said on Thursday.</p>
+      <p>Trading platform Robinhood Markets said the next day that it was delisting three cryptocurrency tokens from its platform that the SEC identified as securities in its lawsuit against Binance.</p>
+      <p>The SEC charged the Tron Foundation and its founder Justin Sun with fraud in March. A month later the U.S. arm of Binance said it would remove digital asset token tron from its trading platform.</p>
+      <p>(Reporting by Mehnaz Yasmin and Medha Singh in Bengaluru)</p>
+    </div>
+  },
+  {
+    id: 559,
+    title: 'Bitcoin stays below US$26,000 in mixed market, Binance’s BNB biggest loser in 24 hours',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Binance', 'market'],
+    description: <div className="blog-desc">
+      <p>Bitcoin inched up but continued to trade below US$26,000 on Monday afternoon in Asia, while all other top 10 non-stablecoin cryptocurrencies traded mixed</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 2:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-643.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin inched up but continued to trade below US$26,000 on Monday afternoon in Asia, while all other top 10 non-stablecoin cryptocurrencies traded mixed, as investors brace for the U.S. Securities and Exchange Commission’s (SEC) clampdown on cryptocurrency exchanges.</p>
+    	<h3>Cryptos trade mixed</h3>
+      <p>Bitcoin rose 0.21% to US$25,812 in 24 hours to 4 p.m. in Hong Kong, according to CoinMarketCap data. The world’s largest cryptocurrency by market capitalization has lost 3.82% in the last seven days following the U.S. SEC’s lawsuits against two of the biggest crypto exchanges, Binance and Coinbase.</p>	
+    	<p>Ether, the second biggest cryptocurrency, fell 0.97% to US$1,736, after losing 7.31% over the past week.</p>	
+    	<p>BNB, the native token of world’s biggest crypto exchange Binance, was the biggest loser in the last 24 hours, dropping 5.5% to US$224, and losing 25.59% on the week. Last week, the SEC filed a lawsuit against Binance, its U.S. branch, and Zhao with charges related to securities violations. Binance faces 13 charges in the lawsuit, including the unregistered offer and sale of the BNB and BUSD tokens and unregistered activity related to its Simple Earn and BNB Vault products and its staking program.</p>
+      <p>“The SEC appears to have given no consideration to the drastic and cascading negative impact its actions may have on users and the industry,” a Binance spokesperson said last week. “We now join a number of other crypto projects facing similarly misguided actions from the SEC and we will vigorously defend our business and the industry.”</p>
+      <p>The SEC has also sued Coinbase, the largest crypto exchange in the U.S., on similar charges.</p>
+      <p>“We are in this environment of regulation by enforcement. I don’t feel like there is a clear rulebook. The only high-level statement they have made is that everything other than Bitcoin is a security, [and] that’s just not what it says in the law, and by the way, that would also kind of mean like the end of the crypto industry in the U.S…we have to go to court to challenge that and we are proud to do it for the industry and for America,” Coinbase’s co-founder and chief executive Brian Armstrong told The Wall Street Journal.</p>
+      <p>Cardano’s ADA and Polygon’s Matic were the biggest gainers in the last 24 hours. Cardano rose 6.11% to US$0.2788, although it lost 25.72% on the week. Polygon increased 4.59% to US$0.6292 but declined 29.13% in the last seven days.</p>
+      <p>The total crypto market capitalization dropped 0.25% to US$1.05 trillion and the total market volume fell 21.12% to US$27.29 billion in the last 24 hours.</p>
+      <h3>NFT sales on Bitcoin network surge</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dropped 1.71% to 2,999.94 in the 24 hours to 6.40 p.m. in Hong Kong, bringing its weekly losses to 9.16%.</p>
+      <p>The Forkast ETH NFT Composite lost 1.34% to 1,056.57 and declined 5.19% on the week.</p>
+      <p>Ethereum NFT sales dropped 11.75% to US$13.04 million in 24 hours, according to CryptoSlam data. Bored Ape Yacht Club recorded the highest sales volume among NFTs in the Ethereum blockchain, rising 3.57% to US$1.46 million in 24 hours.</p>
+      <p>“This has been an extremely rough week for crypto and NFTs due to the U.S. SEC filing lawsuits against Binance and Coinbase,” according to Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News. “During this new phase of scrutiny on, well, everything on the blockchain, the NFT community has really banded together to support the builders.”</p>
+      <p>NFT sales on the Bitcoin network gained 42.14% to US$6.73 million. The Derps gained the most sales volume among NFTs on the Bitcoin blockchain, climbing 52.67% to US$4.61 million in 24 hours.</p>
+      <p>“Bitcoin still holds onto number two and seems to be on auto-pilot. More traders are being onboarded into the Ordinals ecosystem as the appeal of taking part in the early days of the historic chain’s NFT scene becomes too big to miss,” Petscher added.</p>
+      <h3>Asian, European markets gain; U.S. futures rise</h3>
+      <p>Asian equity markets mostly gained on Monday as investors await policy decisions this week from major central banks, including the U.S. Federal Reserve, the European Central Bank and the Bank of Japan.</p>
+      <p>The Shanghai Composite dropped 0.08% and the Shenzhen Component Index rose 0.74%. Hong Kong’s Hang Seng Index gained 0.07% and Japan’s Nikkei 225 strengthened 0.52%.</p>
+      <p>U.S. stock futures rose as of 7.30 p.m. in Hong Kong. The Dow Jones Industrial Average futures added 0.09% and S&P 500 futures rose 0.28%. Nasdaq 100 Futures also gained 0.52%.</p>
+      <p>The U.S. is scheduled to release its latest consumer price index (CPI) data on Tuesday, a key inflation indicator. Annual inflation in the world’s biggest economy is expected to fall to 4.1% in May, from 4.9% in April and 5% in March, mainly due to lower energy prices, according to Trading Economics.</p>
+      <p>The U.S. central bank is expected to hold any increase in interest rates at its next meeting on June 13 and 14. Current interest rates in the U.S. are between 5% and 5.25%, the highest since 2006, after 10 consecutive hikes that started in March 2022.</p>
+      <p>European bourses also strengthened on Monday. The benchmark STOXX 600 rose 0.31% and Germany’s DAX 40 gained 0.73%.</p>
+      <p>The European Central Bank is expected to raise its key interest rates by 25 basis points on June 15 and again in July, due to lingering inflation, according to a poll of 59 economists by Reuters.</p>
+      <p>“Fixed income investors have experienced a period of very low interest rates over the past decade. Going forward, we are likely to see higher interest rates kept in place by central banks to control lingering inflation. In this new environment, corporate bonds can play a useful role in portfolios because different types of credit can be used at different stages of the economic cycle,” Elizabeth Murphy, investment director of credit at Schroders, said in a note on Monday.</p>
+    </div>
+  },
+  {
+    id: 556,
     title: 'Why Bitcoin’s transactions are soaring today',
     category: 'Crypto',
     subCategory: ['bitcoin', 'transactions', 'crypto'],
