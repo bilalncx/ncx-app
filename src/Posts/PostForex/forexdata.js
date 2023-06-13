@@ -1,5 +1,129 @@
 const data = [
   {
+    id: 536,
+    title: 'GBP/JPY Forecast – Pound Looks Tired Against the Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit during the early hours on Monday, to continue the move above the ¥175 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 6:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-655.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs Japanese Yen Technical Analysis</h3>
+    	<p>The British pound has rallied a bit during the early hours on Monday, to continue the move above the ¥175 level. That being said, the market does look like it’s running into a lot of resistance, and perhaps the British pound is a little bit tired against the Japanese yen. Nonetheless, there is a lot of support underneath, so I do think that this will only open up the likelihood of buyers jumping into this market based on value.</p>
+    	<p>The ¥175 level of course is a significant round figure that a lot of people will pay attention to, and an area where we had seen a lot of resistance previously. If we were to break above the top of the candlestick for the Monday session, that would obviously be a very bullish sign.</p>	
+    	<p>Underneath, I see the ¥172.50 level as potential support, so if we were to break down significantly, then that will be our first major buying area. Underneath there, then you have the ¥170 level, where the 50-Day EMA has just crossed. It is probably worth mentioning that there is a minor support level near the ¥171.50 level, so that could also come into the picture as well.</p>	
+    	<p>At this point, the pair does continue to be very noisy, but overall it does end up being a lot of upward momentum over the longer term. Quite frankly, this is just simply a matter of trying to find “cheap pounds” and take advantage of the overall structural weakness of the Japanese yen.</p>
+      <p>Furthermore, the Bank of Japan does have a meeting on Friday, and therefore that could come into the picture as well, although they have already somewhat signaled that that it is very unlikely that they are going to be doing anything to change monetary policy.</p>
+      <p>In other words, you continue to get paid to hang on to this currency pair via swap, so I just don’t see why traders would suddenly run away from that interest-rate differential situation. Ultimately, I do think that we will try to get to the ¥177.50 level, but you don’t want to be overly exposed to any particular one currency pair at the moment right now, due to the fact that we have so many central banks meeting this week.</p>
+    </div>
+  },
+  {
+    id: 535,
+    title: 'AUDUSD Forecast – Australian Dollar Pierces 200-Day EMA',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has rallied significantly during the trading session on Monday, as we continue to reach toward the 0.68 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 5:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-654.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has rallied significantly during the trading session on Monday, as we continue to reach toward the 0.68 level. That being said, we are getting overstretched, and one would have to assume that sooner or later, we get some type of pullback.</p>
+    	<p>This is especially true due to the fact that the market has been straight up in the air for the last couple of weeks, and of course we have the Federal Reserve meeting coming up on Wednesday, which will obviously have a major influence on the US dollar.</p>	
+    	<p>Pay special attention to risk appetite in general, as that’s a major driver on the Australian dollar, and therefore I think at this point in time it’s likely that the overdone attitude in this market could cause a lot of headaches. After all, the 0.68 level above has been a major barrier that has been difficult to take out previously, and therefore I think the fact that we’ve shot straight up in the air to get here makes it even less likely to be taken out.</p>	
+    	<p>Underneath, we have the 50-Day EMA near the 0.6675 level, and that should offer a certain amount of support. If we were to break down below there, then it’s likely that we could go to the 0.66 level underneath, which was the previous support level for the overall consolidation range.</p>
+      <p>The question now isn’t so much as to whether or not the Australian dollar is bullish, but whether or not we have just simply entered that previous consolidation area that we spent so much time in previously.</p>
+      <p>That being said, if we were to take out the 0.68 level, then it does open up the possibility of a move to the 0.70 level. The one wildcard that could make that happen easily is the Federal Reserve meeting on Wednesday, if for some reason they sound extraordinarily dovish.</p>
+      <p>Keep in mind that the RBA recently did a surprise interest rate hike, but at this point almost all central banks are tight, perhaps with the exception of the Bank of Japan, so I don’t know how drastically the market would change unless they did something truly shocking.</p>
+    </div>
+  },
+  {
+    id: 534,
+    title: 'USD/JPY Forecast – US Dollar Sees Noisy Behavior',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar continues to see a lot of noisy sideways action against the Japanese yen, as we are in the midst of forming something along the lines of a bullish flag</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 5:48 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-653.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar continues to see a lot of noisy sideways action against the Japanese yen, as we are in the midst of forming something along the lines of a bullish flag. Furthermore, we just broke out of a major ascending triangle a couple of weeks ago, and therefore it looks like the market is trying to find its footing.</p>
+    	<p>Now that we have the Federal Reserve meeting on Wednesday, there’s a lot that could come out of that as well, not to mention the fact that the Bank of Japan has a meeting on Friday, although they have already stepped in front of that and suggested that not much was going to change.</p>	
+    	<p>If the Federal Reserve were to raise rates yet again, that might shock the market a bit, sending the pair higher. Ultimately, I do think that’s what happens anyway, due to the fact that the Bank of Japan is showing absolutely no proclivity to change its monetary policy anytime soon. With that being the case, the interest rate differential alone will be interesting for people out there to take advantage of.</p>	
+    	<p>Underneath, the ¥138 level seems to be a major support level, with the 50-Day EMA racing toward it to offer a bit of support. It’s not until we break through all of that that I would be somewhat concerned with the uptrend. This does not mean that it will be easy to go higher right away, but what it does suggest is that there are plenty of buyers willing to take advantage of “cheap US dollars” along the way.</p>
+      <p>On the upside, the ¥141 level is a barrier that a lot of people will be paying attention to, as it is previous resistance and it does make quite a bit of sense that we would see the market trying to break it. If we do break above there, then you kick off the next leg higher which could be a measured move all the way up to the ¥148 level, based upon not only the potential bullish flag, but also the ascending triangle that was such a huge part of this market previously.</p>
+    </div>
+  },
+  {
+    id: 533,
+    title: 'GBP to USD Forecast – Sterling Gives Up a Certain Amount of Strength',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially tried to rally during the trading session on Monday but gave back gains to show hesitation yet again.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 5:42 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-652.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound initially tried to rally during the trading session on Monday but gave back gains to show hesitation yet again. Quite frankly, the British pound has been a little overly noisy, as the area above the 1.2550 level seems to be very noisy.</p>
+    	<p>Anything above there does attract a lot of pressure, but quite frankly, the market is likely to see a lot of noisy behavior above that level. If we do break down below there, the market then opens up the possibility of a move back down to the 50-Day EMA underneath.</p>	
+    	<p>The 50-Day EMA of course is an area that people will be paying close attention to from a technical standpoint, and it could be a short-term target, possibly short-term support. On the other hand, if we turn around and take off to the upside, we could see an attempt to break above the 1.2680 level, an area that has been massive resistance.</p>	
+    	<p>All things being equal, this week will be very noisy for this pair and many others as the Federal Reserve has an interest rate meeting on Wednesday that comes into the picture. This of course could cause a lot of volatility for the US dollar, and therefore you could see a lot of noise right around Wednesday.</p>
+      <p>That being said, the Thursday session also features the ECB meeting, and while it won’t directly affect the British pound itself, it will have a knock on effect on the US dollar also. In other words, there will be more volatility that day if we see a sudden move in the greenback.</p>
+      <p>All things being equal, this looks like a buy on the dip type of situation, but a certain amount of caution will be needed to keep this market easily traded, as the volatility is going to be very extreme in the middle of the week, thereby keeping your position size reasonable allows you to move through the volatility that we are certainly going to see, and therefore gives your trade a bit of room to breathe going forward.</p>
+    </div>
+  },
+  {
+    id: 532,
+    title: 'EUR/USD Forecast – Euro Tests Top of Short-term Range',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro rallied a bit during the trading session on Monday, as we continue to test a short-term range.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 5:36 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-651.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>The euro rallied a bit during the trading session on Monday, as we continue to test a short-term range. The 1.08 level above seems to be offering resistance, while the 1,07 level underneath offers a little bit of support due to the 200-Day EMA coming into the picture.</p>
+    	<p>There’s also an uptrend line underneath, and therefore I think there is plenty of support to keep this market afloat. However, this week is going to be extraordinarily dangerous in this pair once we get going, as the Federal Reserve has an interest rate meeting on Tuesday, and the European Central Bank has its meeting the very next day. In other words, we are about to get a resolution to all of this choppiness.</p>	
+    	<p>The 50-Day EMA is sitting just above as well, so that’s also worth something as far as resistance is concerned. Ultimately, this is a market that I think over the next 2 days might be somewhat quiet, but once we get to that Federal Reserve meeting and statement, things are about to get really wild. Another thing you need to keep in mind is that the reaction on Wednesday could very well be counteracted by the one on Thursday, meaning that the initial reaction might be the wrong one.</p>	
+    	<p>All things being equal, this is a market that is in an uptrend, and you would have to assume that we will eventually see that takeover, but things could change rapidly due to the events over the next couple of days, so caution is the better part of valor, and quite frankly you might even be better off staying away from this pair until we get some type of resolution.</p>
+      <p>That being said, if the market makes a move ahead of the announcements, it’s possible that we could see the market trying to “front run the central banks”, but again, that would be extraordinarily difficult, and therefore you need to be cautious, as this will be the epicenter of most of the volatility for the next week or so, and therefore a situation that needs to be taken using caution and experience.</p>
+    </div>
+  },
+  {
     id: 531,
     title: 'USD/JPY Forecast – US Dollar Finds Buyers on the Dip',
     category: 'Forex',

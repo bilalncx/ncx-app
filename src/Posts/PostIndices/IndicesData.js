@@ -1,5 +1,151 @@
 const data = [
   {
+    id: 527,
+    title: 'Dow Jones Futures: Nasdaq Hits 2023 High; Inflation Data, Fed Meeting Loom; Tesla Extends Win Streak',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Nasdaq', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures: The Nasdaq hit a fresh 2023 high ahead of key inflation data and the Fed meeting. Tesla stock extended its win streak.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 13, 2023 - 4:43 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-646.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures: The Nasdaq hit a fresh 2023 high ahead of key inflation data and the Fed meeting. Tesla stock extended its win streak.</p>
+    	<p>Dow Jones futures, along with S&P futures and Nasdaq futures, were little changed ahead of Tuesday's open after the Dow Jones Industrial Average rose 189 points Monday. Tesla stock extended a win streak to 12 sessions, closing at its highest level since September 2022.</p>	
+    	<p>Ahead of Wednesday's Federal Reserve interest-rate hike decision, the consumer price index is due out Tuesday morning. May's CPI is seen rising 0.3% on the month, with the annual inflation rate easing to 4.1% from 4.9%. The core CPI, excluding food and energy, is forecast to rise 0.4%, lowering the core inflation rate to 5.3% from 5.5%.</p>	
+    	<p>On Wednesday, the Fed is widely expected to skip a rate hike at its two-day policy meeting. The move would pause the 10 consecutive rate increases begun in March last year.</p>
+      <p>Meanwhile, Oracle (ORCL) earnings came out late Monday, topping Wall Street's estimates. ORCL stock jumped 3% in extended trade. Shares are in the 20%-25% profit area from a 91.22 cup-with-handle buy point following a late-March breakout move.</p>
+      <h3>Stock Market Today</h3>
+      <p>On Monday, the Dow Jones Industrial Average rose 0.6%. The S&P 500 gained 0.9%, while the tech-heavy Nasdaq composite climbed 1.5%, hitting a new 2023 high.</p>
+      <p>EV leader Tesla traded up 2.2% Monday. Among Dow Jones stocks, Apple (AAPL) rose 1.6% and Microsoft (MSFT) gained 1.55% in today's stock market action.</p>
+      <p>Dexcom (DXCM), Floor & Decor (FND), Fortinet (FTNT) and Kinsale Capital (KNSL) — as well as Dow Jones stocks Cisco Systems (CSCO), JPMorgan Chase (JPM) and Salesforce (CRM) — are among the best stocks to buy or watch in the stock market uptrend.</p>
+      <p>Tesla is an IBD Leaderboard stock, while Floor & Decor is an IBD SwingTrader stock and was IBD's Stock Of The Day on Thursday.</p>
+      <h3>Dow Jones Stock Futures Today: Oil Prices, Treasury Yields</h3>
+      <p>Ahead of Tuesday's opening bell, Dow Jones futures, along with S&P 500 futures and Nasdaq 100 futures, were little changed vs. fair value in overnight trading. Remember that overnight action in Dow Jones futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <p>The 10-year U.S. Treasury yield rose to 3.76% Monday, closing just off its late-May highs. Meanwhile, U.S. oil prices moved down more than 4% Monday, as West Texas Intermediate futures settled just above $67 a barrel.</p>
+      <h3>What To Do In The Stock Market Rally</h3>
+      <p>Now is an important time to read IBD's The Big Picture column with the stock market trend in a "confirmed uptrend."</p>
+      <p>A confirmed uptrend gives IBD readers the green light to purchase top stocks breaking out past new buy points. Due to the bullish action in recent sessions, IBD's recommended exposure in stocks is at 60% to 80% of your portfolio, with the Nasdaq and S&P 500 reached fresh 2023 closing highs.</p>
+      <p>Two useful IBD MarketSmith lists to check right now are "Breaking Out Today" and "Near Pivot." The latter shows stocks nearing buy points in bases, and the other flags stocks rising past buy points during the session.</p>
+      <p>To find more stock ideas, check IBD Stock Lists, like IBD 50, Big Cap 20 and Stocks Near A Buy Zone. These features identify bullish patterns and buy points and should be checked every day.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: Cisco, JPMorgan, Salesforce</h3>
+      <p>Dow Jones networking giant Cisco Systems added a handle to a cup base last week, now showing a buy point at 50.58. CSCO stock rose 1.65% Monday, just off its latest entry.</p>
+      <p>Dow Jones banking leader JPMorgan is nearing a 143.37 flat-base buy point after a five-day win streak. Shares are just 2% away from their latest buy point.</p>
+      <p>Salesforce rallied past alternative entries at 193.91 and 200 in recent weeks, according to IBD Leaderboard analysis. In recent weeks, shares reached the 20% profit zone from a 178.94 cup-with-handle entry, and are now bouncing from support at the 10-week line.</p>
+      <h3>Best Stocks To Buy And Watch: Dexcom, Floor & Decor, Fortinet, Kinsale</h3>
+      <p>Dexcom broke out past a flat base's 126.44 buy point, with a 2.1% rally Monday, according to IBD MarketSmith pattern recognition. The 5% buy area goes up to 132.76.</p>
+      <p>IBD SwingTrader stock Floor & Decor decisively regained its 50-day line during Wednesday's 5.1% advance, placing the flooring retailer in a new buy area. FND stock is just 4% away from a conventional buy point at 101.39.</p>
+      <p>Insurance leader Kinsale Capital closed Monday in the 5% buy area past a 345.75 buy point despite a 2.1% drop in the session. The buy zone runs up to 363.04.</p>
+      <p>Recent IBD Stock Of The Day Fortinet moved back above its flat base's 69.07 buy point during Monday's 2.7% advance. The buy area goes up to 72.52.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla rallied 2.2% Monday, moving further out of buy range beyond a double-bottom base's 207.79 buy point. Shares closed Monday 21% off their 52-week high.</p>
+      <p>Last week, shares advanced for a fourth-straight week, racing 14% higher.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock rose for a third day, with a 1.6% gain Monday. Shares hit an all-time high at 184.95 last week and are just off that level. The stock continues to hold sharply above a 157.38 buy point.</p>
+      <p>Microsoft shares rose 1.55% Monday, rebounding for a third-straight session and nearly recovering from Wednesday's 3.1% sell-off. MSFT stock continues to hover around the 20%-25% profit-taking zone from a 276.76 flat-base buy point, so investors could have taken at least some profits.</p>
+    </div>
+  },
+  {
+    id: 526,
+    title: 'Dow Jones Rises Ahead Of Inflation Data, Fed Meeting; AMD, Amazon Rally On Price-Target Hikes',
+    category: 'Indices',
+    subCategory: ['Dow jones', 'Fed', 'AMD'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones rose Monday ahead of this week's inflation data and two-day Fed meeting. AMD and Amazon rallied on price-target hikes.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 5:31 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-645.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones rose Monday ahead of this week's inflation data and two-day Fed meeting. AMD and Amazon rallied on price-target hikes.</p>
+    	<p>The Dow Jones Industrial Average rose Monday ahead of a big week for the stock market, including key inflation data and the Federal Reserve's two-day meeting. Advanced Micro Devices (AMD) and Amazon (AMZN) rallied on analyst price-target hikes.</p>	
+    	<p>On the economic front this week, the Federal Reserve is widely expected to skip a rate hike at its two-day policy meeting that wraps up on Wednesday at 2 p.m. ET. The move would pause the 10 consecutive rate increases begun in March last year.</p>	
+      <p>Ahead of that crucial decision, the consumer price index — an inflation report that could potentially influence the Fed's decision on Wednesday, is due out Tuesday morning. May's CPI is seen rising 0.3% on the month, with the annual inflation rate easing to 4.1% from 4.9%. The core CPI, excluding food and energy, is forecast to rise 0.4%, lowering the core inflation rate to 5.3% from 5.5%.</p>
+      <p>Further, the producer price index, out Wednesday at 8:30 a.m., is expected to show wholesale inflation slowing to 1.1% from 2.3%. Core PPI inflation is forecast to ease to 2.9% from 3.2%.</p>
+      <p>Meanwhile, Oracle (ORCL) earnings are due out after Monday's close. Shares are at the 20%-25% profit area from a 91.22 cup-with-handle buy point following a late-March breakout move.</p>
+      <h3>Stock Market Today: AMD, Amazon Rally</h3>
+      <p>AMD stock rose nearly 3% after Keybanc raised its price target from 110 to 150, while keeping its overweight rating. Amazon shares climbed almost 1% after BofA upped its target from 139 to 154, with a buy rating.</p>
+      <p>EV giant Tesla, up 11 days in a row, rose another 1.7% Monday morning. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) traded higher after today's stock market open.</p>
+      <p>Dexcom (DXCM), Floor & Decor (FND), Fortinet (FTNT) and Kinsale Capital (KNSL) — as well as Dow Jones stocks Cisco Systems (CSCO), JPMorgan Chase (JPM) and Salesforce (CRM) — are among the best stocks to buy or watch in the stock market uptrend.</p>
+      <p>Tesla is an IBD Leaderboard stock, while Floor & Decor was IBD's Stock Of The Day on Thursday.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Monday's opening bell, the Dow Jones Industrial Average rose 0.2%, while the S&P 500 added 0.3%. The tech-heavy Nasdaq composite traded 0.5% higher in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded up 0.5%, while the SPDR S&P 500 ETF (SPY) rose 0.3% early Monday.</p>
+      <p>With the Federal Reserve's June meeting this week, the 10-year U.S. Treasury yield on Monday ticked lower to 3.73%. On Friday, the 10-year yield edged higher, still near its late-May highs.</p>
+      <p>Oil prices suffered another round of losses Monday morning, after Goldman Sachs cut its price outlook for the year by 10%. West Texas Intermediate futures dropped more than 3% Monday, moving below $68 a barrel — the low end of what has been their trading range since early May.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Friday, the Dow Jones Industrial Average and S&P 500 both rose 0.1%, while the Nasdaq composite gained 0.2%.</p>
+      <p>Friday's Big Picture column commented, "the fact that decliners outnumbered advancers by almost 2-to-1 on both the NYSE and the Nasdaq could be a sign of some underlying weakness, though volume was mixed. The way indexes faded from early gains also indicated selling into strength."</p>
+      <p>Now is an important time to read IBD's The Big Picture column after the recent bullish change in the market's outlook.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: Cisco, JPMorgan, Salesforce</h3>
+      <p>Dow Jones networking giant Cisco Systems added a handle to a cup base last week, now showing a buy point at 50.58. CSCO stock rose 0.2% Monday.</p>
+      <p>Dow Jones banking leader JPMorgan is nearing a 143.37 flat-base buy point after a four-day win streak. Shares are just 2% away from their latest buy point. JPM stock lost 0.1% early Monday.</p>
+      <p>Salesforce rallied past alternative entries at 193.91 and 200.00 in recent weeks, according to Leaderboard analysis.</p>
+      <p>In recent weeks, shares reached the 20% profit zone from a 178.94 cup-with-handle entry, and are now bouncing from support at the 10-week line. CRM stock added 0.7% Monday morning.</p>
+      <h3>Best Stocks To Buy And Watch: Dexcom, Floor & Decor, Fortinet, Kinsale</h3>
+      <p>Dexcom continues to form a flat base with a 126.44 buy point, as the stock gained 2.65% Friday, according to IBD MarketSmith pattern recognition. DXCM shares were up 1.2% Monday.</p>
+      <p>IBD SwingTrader stock Floor & Decor decisively regained its 50-day line during Wednesday's 5.1% advance, placing the flooring retailer in a new buy area. FND stock is just 5% away from a conventional buy point at 101.39. FND stock lost 1.3% early Monday.</p>
+      <p>Insurance leader Kinsale Capital closed Friday in the 5% buy area past a 345.75 buy point. The buy zone runs up to 363.04. KNSL stock was down 0.1% Monday.</p>
+      <p>Recent IBD Stock Of The Day, Fortinet, remains below its flat base's 69.07 buy point amid Friday's 1.4% drop. Shares were up 0.8% Monday.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla rallied 4.1% Friday, moving further out of buy range beyond a double-bottom base's 207.79 buy point. Shares closed Friday 22% off their 52-week high.</p>
+    	<p>TSLA stock looked to add to its extended win streak, rallying nearly 2% Monday morning. Last week, shares advanced for a fourth-straight week, racing 14% higher.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock rose for a second day, with a 0.2% gain Friday, Shares hit an all-time high at 184.95 last week. The stock continues to hold sharply above a 157.38 buy point and is out of the buy range that ran up to 165.35. AAPL stock rose 0.3% in morning trade Monday.</p>
+      <p>Microsoft shares rose 0.5% Friday, recovering another small part of Wednesday's 3.1% selloff. Last week, MSFT stock reached the 20%-25% profit zone from a 276.76 flat-base buy point, so investors could have taken at least some profits there. On Monday morning, MSFT stock was up 0.5%.</p>
+    </div>
+  },
+  {
+    id: 525,
+    title: 'S&P 500 and Nasdaq close at highest since April 2022',
+    category: 'Indices',
+    subCategory: ['S&P', 'Nasdaq', 'highest'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - The S&P 500 and the Nasdaq rallied on Monday to their highest closing levels since April 2022, while Oracle hit a record high ahead of quarterly results as</p>
+    </div>,
+    authorName: 'Noel Randewich and Shristi Achar A',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 2:28 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-644.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Noel Randewich and Shristi Achar A</p>
+    	<p>(Reuters) - The S&P 500 and the Nasdaq rallied on Monday to their highest closing levels since April 2022, while Oracle hit a record high ahead of quarterly results as investors awaited inflation data and the Federal Reserve's interest rate decision this week.</p>	
+    	<p>Lifted by gains in market heavyweights Amazon, Apple and Tesla, the S&P 500 has now recovered 21% from its October 2022 lows. Some investors say Wall Street is the midst of a bull market.</p>	
+    	<p>"The further out the October lows get in the rear view mirror, the more confident investors become. Have investors become more complacent? They probably have, and that's actually a good sign," said Jake Dollarhide, chief executive officer of Longbow Asset Management in Tulsa, Oklahoma.,</p>
+      <p>Tesla rose 2.2% and has now climbed for 12 straight trading sessions, a record for the electric car maker.</p>
+      <p>Apple and Microsoft each rose about 1.5%, with year-to-date gains in the two technology companies' shares reaching 41% and 38%, respectively.</p>
+      <p>The S&P 500 climbed 0.93% to end the session at 4,338.93 points.</p>
+      <p>The Nasdaq gained 1.53% to 13,461.92 points, while Dow Jones Industrial Average rose 0.56% to 34,066.33 points.</p>
+      <p>The U.S. Labor Department's consumer price index reading on Tuesday is expected to show inflation cooled slightly in May, with core prices likely remaining sticky. Tuesday is also first day of the Fed's two-day meeting.</p>
+      <p>Traders see a 76% chance of the central bank holding rates at the 5%-5.25% range on Wednesday, while pricing in a 71% chance of a rate hike in July, according to the CME Fedwatch tool.</p>
+      <p>"There's a chance that the Fed will stay data dependent. So we don't necessarily think that a rate hike is off the table in the future, but for the near term we just see them staying steady," said Dylan Kremer, co-chief investment officer of Certuity.</p>
+      <p>Gains in megacap stocks, better-than-expected quarterly earnings and hopes that the Fed might be nearing the end of its monetary tightening cycle have lifted indexes in recent weeks.</p>
+      <p>The rally has recently widened to include more economically sensitive sectors such as energy and industrials, as well as small-cap stocks, as data continues to show a resilient U.S. economy despite higher interest rates.</p>
+      <p>Goldman Sachs on Friday raised its year-end price target for the benchmark S&P 500 to 4,500 from 4,000, citing the broadening of the market rally.</p>
+      <p>The CBOE volatility index edged up to about 14.8, its highest since last Tuesday.</p>
+      <p>After the bell, Oracle climbed 3.5% following its quarterly report. In Monday's trading session it rose as much as 7% to an all-time high after J.P. Morgan hiked its price target.</p>
+      <p>Nasdaq Inc slumped almost 12% after the exchange operator said it would buy software firm Adenza for $10.5 billion, which analysts called an expensive bet.</p>
+      <p>Biogen rose 1.5% after a U.S. FDA panel of advisers unanimously backed its Alzheimer's drug, Leqembi, raising expectations that a traditional approval for the treatment might not come with major new safety warnings.</p>
+      <p>Broadcom Inc jumped 6.3% after Reuters reportedthe chipmaker was set to gain conditional EU antitrust approval for its $61 billion proposed acquisition of cloud computing firm VMware. That helped lift the Philadelphia semiconductor index 3.3%, bringing its recovery in 2023 to over 44%.</p>
+      <p>Advancing issues outnumbered falling ones within the S&P 500 by a two-to-one ratio.</p>
+      <p>The S&P 500 posted 24 new highs and three new lows; the Nasdaq recorded 107 new highs and 68 new lows.</p>
+      <p>Volume on U.S. exchanges was relatively light, with 10.2 billion shares traded, compared to an average of 10.6 billion shares over the previous 20 sessions.</p>
+      <p>(Reporting by Shristi Achar A and Sruthi Shankar in Bengaluru and by Noel Randewich in Oakland, Calif.; Editing by Vinay Dwivedi, Sriraj Kalluvila and David Gregorio)</p>
+    </div>
+  },
+  {
     id: 524,
     title: 'Dow Jones Futures: Bullish Market Trend, But Fed Meeting Looms; Watch Tesla, Nvidia, Biogen',
     category: 'Indices',

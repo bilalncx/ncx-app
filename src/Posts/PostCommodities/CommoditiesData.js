@@ -1,5 +1,71 @@
 const data = [
   {
+    id: 530,
+    title: 'Five Key Charts to Watch in Global Commodities This Week',
+    category: 'Commodities',
+    subCategory: ['Global', 'Commodities', 'Charts'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Biodiesel fans will be keenly awaiting an announcement this week by the US Environmental Protection Agency on how much of the renewable product</p>
+    </div>,
+    authorName: 'Sophie Caronello',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 6:18 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-650.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Biodiesel fans will be keenly awaiting an announcement this week by the US Environmental Protection Agency on how much of the renewable product must be blended into the nation’s fuel supply. Meanwhile, European natural gas futures retreated after posting the biggest weekly surge since August. Here are five charts to consider in global commodity markets.</p>
+    	<h3>Natural Gas</h3>
+      <p>Gas prices in Europe plunged on Monday, giving back some of last week’s advance and highlighting ongoing volatility in the market. Benchmark Dutch front-month gas’s 35% surge last week — the most since August — came as hotter weather forecasts signaled stronger demand than previously expected amid signs of budding competition from Asia for the heating and power-generation fuel.</p>	
+    	<p>That pushed the US dollar equivalent futures contract to a premium over the Japan-Korea Marker, the Asian benchmark, for the first time since mid-May. Both Europe and Asia compete for liquefied natural gas shipments from the US and the Middle East.</p>	
+    	<h3>Renewables</h3>
+      <p>Renewable diesel production is taking off in the US — with capacity on track to reach about 385,000 barrels per day by 2025 — more than double where things stood at the end of 2022, according to Energy Information Administration data. Generous federal incentives have helped drive the surge in production of the green fuel made from crops and animal fat that can be substituted for petroleum-based diesel.</p>
+      <p>The EPA is set to decide this week how much biomass-based diesel it should mandate be mixed into the country’s fuel supply in 2023, 2024 and 2025, amid concern that proposed targets lowballed potential production.</p>
+      <h3>Agriculture</h3>
+      <p>The US corn belt will be a major focus for markets with the release of crop conditions on Monday and the weekly drought report on Thursday. Corn crops experiencing moderate to intense drought have been steadily increasing to 45% of the total.</p>
+      <p>That compares with just 19% for the same time a year ago. The US Department of Agriculture last week refrained from changing its estimates for domestic corn yields, despite the dry weather. That will leave traders guessing about the state of the harvest until the next estimate is published in July. Corn for December delivery is down 11% this year in Chicago.</p>
+      <h3>Metals</h3>
+      <p>Cobalt will surely be in focus this week as the Democratic Republic of Congo — the world’s largest producer of the key battery ingredient — hosts a mining conference. The price of the metal used in electric-car batteries and electronics has fallen almost 30% this year to $13.90 a pound, according to Fastmarkets data, amid lackluster global demand and rising supply from new No. 2 producer Indonesia. Goldman Sachs Group Inc. is forecasting softness for battery metals including cobalt, lithium and nickel in the second half of 2023 amid an oversupply.</p>
+      <h3>Oil</h3>
+      <p>The slump in oil continued into a third week amid ongoing concerns over demand as Goldman Sachs Group Inc. lowered its price forecast again. Despite shocks from surprise production cuts by both OPEC+ and Saudi Arabia, futures have slumped about 15% this year in a constant struggle for momentum amid a slower-than-expected recovery in China.</p>
+      <p>Oil traders will be closely watching monthly reports this week from the Organization of Petroleum Exporting Countries on Tuesday and the International Energy Agency on Wednesday for clues on the trajectory for supply and demand, which may weigh further on prices.</p>
+      <p>--With assistance from Gerson Freitas Jr., Mark Burton, Michael Hirtzer, Dominic Carey, Jennifer A. Dlouhy, Kim Chipman and Liezel Hill.</p>
+    </div>
+  },
+  {
+    id: 529,
+    title: 'Gold eases as dollar firms at start of busy Fed week',
+    category: 'Commodities',
+    subCategory: ['Gold', 'dollar', 'Fed'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices dipped on Monday as the dollar and bond yields firmed, while traders braced for a busy week of key U.S. inflation prints and major central bank policy meetings, with all eyes on the Federal Reserve.</p>
+    </div>,
+    authorName: 'Deep Kaushik Vakil',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 12, 2023 - 4:58 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-649.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Deep Kaushik Vakil</p>
+    	<p>(Reuters) - Gold prices dipped on Monday as the dollar and bond yields firmed, while traders braced for a busy week of key U.S. inflation prints and major central bank policy meetings, with all eyes on the Federal Reserve.</p>	
+    	<p>Spot gold fell 0.4% to $1,953.77 per ounce by 1:40 p.m. EDT (1740 GMT). U.S. gold futures settled 0.4% lower at $1,969.70.</p>	
+    	<p>The dollar index edged up 0.2%, making gold more expensive for overseas buyers, while a rise in U.S. Treasury yields made zero-yielding bullion less attractive. [USD/] [US/]</p>
+      <p>"Going into this week with gold is almost like a coin flip," said Bob Haberkorn, senior market strategist at RJO Futures.</p>
+      <p>The U.S. consumer price index for May is due at 8:30 a.m. EDT on Tuesday, with the producer price index reading due on Wednesday morning ahead of the Fed's interest rate decision later that day.</p>
+      <p>"The fact that if we get a halt on rate hikes would push gold up pretty big despite a hawkish (Fed) statement," Haberkorn said.</p>
+      <p>Markets priced in a 76% chance of the Fed keeping rates unchanged, and a 71% chance of a hike in July, according to CME's Fedwatch tool.</p>
+      <p>The European Central Bank and the Bank of Japan will deliver their rate decisions on Thursday and Friday, respectively.</p>
+      <p>"Gold is trading on the assumption that U.S. interest rates will stay where they are with any hike likely to send the precious metal crashing down towards $1,900 an ounce," Kinesis Money analyst Rupert Rowling said in a note.</p>
+      <p>Silver fell 1.3% to $23.95 per ounce, while platinum dipped 1.92% to a two-month low at $989.67.</p>
+      <p>Palladium, used in emissions-controlling devices in cars, gained 1.4% to $1,342.27, after hitting its lowest since May 2019 on Friday.</p>
+      <p>"Palladium could head back above $1,500 in the fourth quarter of this year owing to improving automotive production, however this is currently under pressure from destocking by the automakers," said Metals Focus analyst Jacob Smith.</p>
+      <p>(Reporting by Deep Vakil and Seher Dareen in Bengaluru; Editing by Conor Humphries and Shailesh Kuber)</p>
+    </div>
+  },
+  {
     id: 528,
     title: 'Natural Gas ETF Buying Spree Has Traders Fearing Wild Swings',
     category: 'Commodities',
