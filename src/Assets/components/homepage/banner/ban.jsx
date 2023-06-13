@@ -12,12 +12,17 @@ function HomeBannerSection()
             <div className="container">
                 <h1>{t("buy_sell_crypto_instantly")}</h1>
                 <p>{t("home_buy_sell_crypto_using_debit_credit")}</p>
-                <div className="btn__dtr">
-                    <Button href="/buy-crypto" className="byyy">{t("buy_crypto")}</Button>
-                    <Button href="/markets" className="marr">{t("markets")}</Button>
-                </div>
+
+                {/* <CardLogoSlider /> */}
             </div>
+
             <CardLogoSlider />
+
+            <div className="btn__dtr">
+                <Button href="/buy-crypto" className="byyy">{t("buy_crypto")}</Button>
+                <Button href="/markets" className="marr">{t("markets")}</Button>
+            </div>
+
         </div>
     )
 }

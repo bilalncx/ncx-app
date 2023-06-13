@@ -23,7 +23,7 @@ function HomeMobilePartner()
     return(
         <div className="mb__partner">
             <div className="inner__vv">
-                <h2 className="partnership">Partnership</h2>
+                <h2 className="partnership">Partnerships</h2>
                 <div className="sliders-wrap">
                     <div className="rooted">
                         <div className="scroll">
