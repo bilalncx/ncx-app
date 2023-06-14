@@ -13,7 +13,7 @@ import { useTranslation } from "react-i18next";
 import SExchange from '../../../images/s-exchange.mp4';
 import NCXCrossDex from '../../../images/ncx-cross-dex.png';
 import { ReactComponent as NCXDEXBadge } from '../../../images/dex-badge.svg';
-import { CarouselProvider, Slider, Slide, Dot, DotGroup } from 'pure-react-carousel';
+import { CarouselProvider, Slider, Slide, DotGroup } from 'pure-react-carousel';
 
 function Indices5()
 {

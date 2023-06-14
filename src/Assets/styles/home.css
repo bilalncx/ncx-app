@@ -916,4 +916,19 @@ a.cl__drp:hover{
     .bbn__bm #bannss.ind__banner, .bbn__bm{
         display: block !important;
     }
+    #hgff .new-generation .container {
+        display: flex;
+        flex-direction: column;
+    }
+    #hgff .new-generation .container .generate-div{
+        order: 2;
+        margin-top: 30px;
+    }
+    #hgff .new-generation .container .generate-video{
+        order: 1;
+        margin-top: 0px !important;
+    }
+    #hgff .new-generation{
+        padding: 30px 0px !important;
+    }
 }

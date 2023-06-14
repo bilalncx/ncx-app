@@ -3,6 +3,7 @@
 }
 .scroll_mg {
     position: relative;
+    padding: 50px 0px 0px 0px;
 }
 .image-container {
     width: 100%;
@@ -13,4 +14,14 @@
 .bgfv {
     max-width: 1200px;
     margin: 0 auto;
+}
+@media screen and (min-width: 800px){
+    .mbl__xx{
+        display: none;
+    }
+}
+@media screen and (max-width: 800px){
+    .scroll-section{
+        display: none;
+    }
 }

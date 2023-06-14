@@ -6,7 +6,7 @@ import '../components/homepage/3rdmarketsection/market.css';
 import MyFooter from '../components/footer/footer';
 import MyHeader from '../components/header/header';
 import SplashPage from '../components/splash/splash';
-// import HomeCEXDEXTableSection from '../components/homepage/5thdextablesection/cexdex';
+import HomeCEXDEXTableSection from '../components/homepage/5thdextablesection/cexdex';
 import HomeFirstSection from '../components/homepage/1stsection/bb_video';
 import Home2ndSection from '../components/homepage/2ndsection/new';
 import Home6thVideoSection from '../components/homepage/6thvideosection/newgeneration';

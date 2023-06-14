@@ -239,10 +239,6 @@ function NewFeatureSection()
                             </div>
                         </div>
                     </div> 
-                
-                    <div id="newDexMobile">
-                        <OldDEXTable />
-                    </div>
                 </div>
             )}
             <div className="bf__pok container">
@@ -251,6 +247,196 @@ function NewFeatureSection()
                     class="btn btn-primary mb-5">
                     {toggle ? "Hide Features" : "View Features"}
                 </button>
+            </div>
+
+            <div id="mb__feat">
+                <div className="container">
+                    <h1>Features</h1>
+                    <div className="m33C__v">
+                        <h2>Features</h2>
+                        <h2>NCX</h2>
+                        <h2>CEX</h2>
+                        <h2>DEX</h2>
+                    </div>
+                    <div className="row">
+                        <div className="rtt__rr">
+                            <h3>Security</h3>
+                            <h3>Margin Trading</h3>
+                            <h3>Fees</h3>
+                            <h3>User Interface</h3>
+                            <h3>Transaction Congestion</h3>
+                            <h3>Trading Fees & Volume</h3>
+                            <h3>Transaction Confirmation Latency</h3>
+                            <h3>Staking</h3>
+                            <h3>Cross Chain Swap</h3>
+                            <h3>Crypto Debit Card</h3>
+                            <h3>DeFi Wallet</h3>
+                            <h3>Derivatives Trading</h3>
+                            <h3>Fiat Deposits / Withdrawals</h3>
+                            <h3>Equities Trading<span>(USA, EU, ASIA Stock Market)</span></h3>
+                            <h3>Metals Trading</h3>
+                            <h3>Energies Trading</h3>
+                            <h3>Forex Trading</h3>
+                            <h3>ETF’s Trading</h3>
+                            <h3>OTC Trading</h3>
+                            <h3>Institutional Services</h3>
+                            <h3>24/7 Support</h3>
+                        </div>
+                        <div className="ww__ncx">
+                            <h3>High</h3>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <h3>Low</h3>
+                            <h3>User Friendly</h3>
+                            <h3>Low</h3>
+                            <h3>High</h3>
+                            <h3>Low</h3>
+                            <h3>Decentalised</h3>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                        </div>
+                        <div className="ww__cex">
+                            <h3>Low</h3>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <h3>Low</h3>
+                            <h3>User Friendly</h3>
+                            <h3>Low</h3>
+                            <h3>High</h3>
+                            <h3>Low</h3>
+                            <h3>Centalised</h3>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                        </div>
+                        <div className="ww__dex">
+                            <h3>High</h3>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <h3>High</h3>
+                            <h3>Complex</h3>
+                            <h3>High</h3>
+                            <h3>Low</h3>
+                            <h3>High</h3>
+                            <h3>Decentralised</h3>
+                            <div className="ww__cc">
+                                <WhiteTick />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                            <div className="ww__xx">
+                                <Blankvector />
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     )

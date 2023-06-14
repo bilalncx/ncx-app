@@ -4,7 +4,6 @@
     justify-content: space-between;
 }
 .mkij {
-    width: 24%;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -25,8 +24,10 @@ h1.title_lst {
     font-size: 16px;
     font-family: 'urbanist-medium';
     color: #FFFFFF;
-    width: 60%;
     line-height: 20px;
+}
+h1.title_lst span{
+    display: block;
 }
 a.trd_btn {
     background: transparent;
@@ -70,6 +71,57 @@ a.trd_btn:hover{
     background-size: 50%;
     background-position: right;
 }
+.mart5{
+    background: url(../../../images/algo-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart6{
+    background: url(../../../images/pepe-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart7{
+    background: url(../../../images/apt-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart8{
+    background: url(../../../images/ksm-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart9{
+    background: url(../../../images/floki-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart10{
+    background: url(../../../images/one-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart11{
+    background: url(../../../images/shib-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart12{
+    background: url(../../../images/yfi-img.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.mart_row .carousel .carousel__slider-tray .carousel__slide {
+    padding: 0px 7.5px;
+}
 .nhqwe {
     display: flex;
     flex-direction: column;
@@ -82,25 +134,55 @@ a.trd_btn:hover{
 .mkij:hover {
     box-shadow: 0 0px 30px 0 rgba(255,255,255,.25);
 }
-
-@media screen and (max-width: 1300px){
-    h1.title_lst{
-        width: 70%;
-    }
+.mart_row .carousel .carousel__dot-group {
+    text-align: center;
 }
+.mart_row .carousel button.carousel__dot--selected{
+    width: 40px !important;
+    background: #FFFFFF !important;
+    border: 2px solid #FFFFFF !important;
+    border-radius: 50px !important;
+}
+.mart_row .carousel button.carousel__dot--selected span{
+    background: #FFFFFF;
+}
+.mart_row .carousel .carousel__dot-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 20px;
+}
+.mart_row .carousel button.carousel__dot {
+    width: 7px;
+    border: none;
+    background: rgba(255,255,255,0.5);
+    border-radius: 50px;
+    padding: 0px;
+    height: 4px;
+}
+.mart_row .carousel button.carousel__dot:hover{
+    width: 20px;
+    background: rgba(255,255,255,0.5);
+    transition: all 0.3s;
+}
+
+
+
+
+
+
 @media screen and (max-width: 1080px){
     .mart3, .mart4{
         background-size: 45%;
     }
     h1.title_lst{
         font-size: 13px;
-        width: 60%;
     }
 }
 @media screen and (max-width: 1020px){
     h1.title_lst{
         font-size: 12px;
-        width: 70%;
     }
 }
 
@@ -115,7 +197,6 @@ div#market__flyes {
         display: block;
     }
     #market__flyes .mkij{
-        width: 100% !important;
         height: 150px;
         background-position: right bottom !important;
         background-size: contain !important;
@@ -152,12 +233,10 @@ div#market__flyes {
         background: rgba(255,255,255,0.5);
         transition: all 0.3s;
     }
-    /* #market__flyes .carousel__slider-tray {
-        gap: 10px;
-        align-items: center !important;
-        justify-content: center !important;
-        max-width: 1245px !important;
-    } */
+    #market__flyes .carousel__slider-tray {
+        align-items: flex-start !important;
+        justify-content: flex-start !important;
+    }
     #market__flyes p.tag_lst {
         font-size: 10px;
     }
@@ -165,15 +244,15 @@ div#market__flyes {
         padding-left: 20px;
     }
     .mkij .nhqwe h1.title_lst{
-        width: 50% !important;
+        /* width: 50% !important; */
         font-size: 16px !important;
         line-height: 22px !important;
     }
-    /* #market__flyes .carousel__slider-tray .carousel__slide .carousel__inner-slide{
+    #market__flyes .carousel__slider-tray .carousel__slide .carousel__inner-slide{
         width: 100% !important;
-    } */
+    }
     #market__flyes .carousel__slider-tray .carousel__slide{
         width: 100% !important;
-        padding: 0px 5px;
+        padding: 0px;
     }
 }
