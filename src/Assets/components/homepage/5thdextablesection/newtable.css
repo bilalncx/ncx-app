@@ -174,4 +174,89 @@ p.nhgt span{
         text-align: center;
         margin-bottom: 20px;
     }
+    .m33C__v {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+    .m33C__v h2 {
+        font-size: 16px;
+        color: #FFFFFF;
+        font-family: 'urbanist-medium';
+        border-bottom: 1px solid #FFFFFF;
+        padding-bottom: 10px !important;
+        text-align: center;
+    }
+    .m33C__v h2:nth-child(1), .rtt__rr{
+        width: 33%;
+        padding: 0px;
+    }
+    .m33C__v h2:nth-child(2), .ww__ncx{
+        width: 21%;
+        padding: 0px;
+    }
+    .m33C__v h2:nth-child(3), .ww__cex{
+        width: 21%;
+        padding: 0px;
+    }
+    .m33C__v h2:nth-child(4), .ww__dex{
+        width: 21%;
+        padding: 0px;
+    }
+    #mb__feat .row {
+        display: flex;
+        justify-content: space-between;
+    }
+    .rtt__rr h3, .ww__cex h3, .ww__dex h3 {
+        background: rgba(31, 31, 31, 0.7);
+        font-size: 11px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #FFFFFF;
+        padding: 10px 5px;
+        text-align: center;
+        margin-bottom: 5px;
+        line-height: 16px;
+        flex-direction: column;
+    }
+    .rtt__rr h3 span {
+        font-size: 8px;
+        line-height: 12px;
+        font-family: 'urbanist-light';
+    }
+    .ww__ncx h3{
+        background: #1F1F1F;
+        font-size: 11px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #FFFFFF;
+        padding: 10px 10px;
+        text-align: center;
+        margin-bottom: 5px;
+        line-height: 16px;
+    }
+    .ww__cc {
+        background: rgba(31, 31, 31, 0.7);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 36px;
+        margin-bottom: 5px;
+    }
+    .ww__ncx .ww__cc {
+        background: #1f1f1f;
+    }
+    .ww__xx{
+        background: rgba(31, 31, 31, 0.7);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 36px;
+        margin-bottom: 5px;
+    }
+    .hh__qa {
+        min-height: 52px;
+    }
 }

@@ -263,17 +263,17 @@ function NewFeatureSection()
                             <h3>Security</h3>
                             <h3>Margin Trading</h3>
                             <h3>Fees</h3>
-                            <h3>User Interface</h3>
-                            <h3>Transaction Congestion</h3>
-                            <h3>Trading Fees & Volume</h3>
-                            <h3>Transaction Confirmation Latency</h3>
+                            <h3 className="hh__qa">User Interface</h3>
+                            <h3 className="hh__qa">Transaction Congestion</h3>
+                            <h3 className="hh__qa">Trading Fees & Volume</h3>
+                            <h3 className="hh__qa">Transaction Confirmation Latency</h3>
                             <h3>Staking</h3>
                             <h3>Cross Chain Swap</h3>
                             <h3>Crypto Debit Card</h3>
                             <h3>DeFi Wallet</h3>
                             <h3>Derivatives Trading</h3>
-                            <h3>Fiat Deposits / Withdrawals</h3>
-                            <h3>Equities Trading<span>(USA, EU, ASIA Stock Market)</span></h3>
+                            <h3 className="hh__qa">Fiat Deposits / Withdrawals</h3>
+                            <h3 className="hh__qa">Equities Trading<span>(USA, EU, ASIA Stock Market)</span></h3>
                             <h3>Metals Trading</h3>
                             <h3>Energies Trading</h3>
                             <h3>Forex Trading</h3>
@@ -288,10 +288,10 @@ function NewFeatureSection()
                                 <WhiteTick />
                             </div>
                             <h3>Low</h3>
-                            <h3>User Friendly</h3>
-                            <h3>Low</h3>
-                            <h3>High</h3>
-                            <h3>Low</h3>
+                            <h3 className="hh__qa">User Friendly</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3 className="hh__qa">High</h3>
+                            <h3 className="hh__qa">Low</h3>
                             <h3>Decentalised</h3>
                             <div className="ww__cc">
                                 <WhiteTick />
@@ -305,10 +305,10 @@ function NewFeatureSection()
                             <div className="ww__cc">
                                 <WhiteTick />
                             </div>
-                            <div className="ww__cc">
+                            <div className="ww__cc hh__qa">
                                 <WhiteTick />
                             </div>
-                            <div className="ww__cc">
+                            <div className="ww__cc hh__qa">
                                 <WhiteTick />
                             </div>
                             <div className="ww__cc">
@@ -339,10 +339,10 @@ function NewFeatureSection()
                                 <WhiteTick />
                             </div>
                             <h3>Low</h3>
-                            <h3>User Friendly</h3>
-                            <h3>Low</h3>
-                            <h3>High</h3>
-                            <h3>Low</h3>
+                            <h3 className="hh__qa">User Friendly</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3 className="hh__qa">High</h3>
+                            <h3 className="hh__qa">Low</h3>
                             <h3>Centalised</h3>
                             <div className="ww__xx">
                                 <Blankvector />
@@ -356,10 +356,10 @@ function NewFeatureSection()
                             <div className="ww__xx">
                                 <Blankvector />
                             </div>
-                            <div className="ww__cc">
+                            <div className="ww__cc hh__qa">
                                 <WhiteTick />
                             </div>
-                            <div className="ww__xx">
+                            <div className="ww__xx hh__qa">
                                 <Blankvector />
                             </div>
                             <div className="ww__xx">
@@ -390,10 +390,10 @@ function NewFeatureSection()
                                 <Blankvector />
                             </div>
                             <h3>High</h3>
-                            <h3>Complex</h3>
-                            <h3>High</h3>
-                            <h3>Low</h3>
-                            <h3>High</h3>
+                            <h3 className="hh__qa">Complex</h3>
+                            <h3 className="hh__qa">High</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3 className="hh__qa">High</h3>
                             <h3>Decentralised</h3>
                             <div className="ww__cc">
                                 <WhiteTick />
@@ -407,10 +407,10 @@ function NewFeatureSection()
                             <div className="ww__xx">
                                 <Blankvector />
                             </div>
-                            <div className="ww__xx">
+                            <div className="ww__xx hh__qa">
                                 <Blankvector />
                             </div>
-                            <div className="ww__xx">
+                            <div className="ww__xx hh__qa">
                                 <Blankvector />
                             </div>
                             <div className="ww__xx">
