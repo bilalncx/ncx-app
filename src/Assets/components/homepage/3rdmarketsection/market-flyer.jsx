@@ -59,12 +59,12 @@ function MartFlyer()
                             // naturalSlideHeight={250}
                             isIntrinsicHeight={true}
                             // hasMasterSpinner
-                            loop
-                            isPlaying={true}
-                            interval={3000}
-                            orientation="horizontal"
-                            infinite
-                            playDirection="forward"
+                            // loop
+                            // isPlaying={true}
+                            // interval={3000}
+                            // orientation="horizontal"
+                            // infinite
+                            // playDirection="forward"
                         >
                         
                         <Slider>

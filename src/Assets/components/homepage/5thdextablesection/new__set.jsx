@@ -150,11 +150,11 @@ function Indices5()
                         // naturalSlideHeight={250}
                         isIntrinsicHeight={true}
                         // hasMasterSpinner
-                        isPlaying={true}
-                        interval={5000}
-                        orientation="horizontal"
-                        infinite
-                        playDirection="forward"
+                        // isPlaying={true}
+                        // interval={5000}
+                        // orientation="horizontal"
+                        // infinite
+                        // playDirection="forward"
                     >
                         <Slider>
                             <Slide idex={0} className="platform__slide">
@@ -245,11 +245,11 @@ function Indices5()
                         // naturalSlideHeight={250}
                         isIntrinsicHeight={true}
                         // hasMasterSpinner
-                        isPlaying={true}
-                        interval={5000}
-                        orientation="horizontal"
-                        infinite
-                        playDirection="forward"
+                        // isPlaying={true}
+                        // interval={5000}
+                        // orientation="horizontal"
+                        // infinite
+                        // playDirection="forward"
                     >
                         <Slider>
                             <Slide index={0} className="platform__slide">

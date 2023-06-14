@@ -214,4 +214,10 @@ h2.secondtask{
         font-size: 10px !important;
         line-height: 12px !important;
     }
+    #hgff .ncxtask.row, #hyres .ncxtasksection h1, #hyres .ncxtasksection p.task{
+        display: none;
+    }
+    #hyres .ncxtasksection .tasktext h1{
+        display: block;
+    }
 }

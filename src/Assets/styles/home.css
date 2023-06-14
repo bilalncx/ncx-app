@@ -653,6 +653,9 @@ a.cl__drp:hover{
 .mbl__lpl{
     display: none;
 }
+.bbn__bm{
+    display: none;
+}
 @media screen and (min-width: 801px) and (max-width: 1100px){
     .bg-dark .hom__ppo .apps_barcod h1 {
         font-size: 30px !important;
@@ -903,5 +906,14 @@ a.cl__drp:hover{
     }
     .brtgh {
         display: none;
+    }
+    .bg-dark .global__mart{
+        margin-top: 0px;
+    }
+    #bannss.ind__banner{
+        display: none;
+    }
+    .bbn__bm #bannss.ind__banner, .bbn__bm{
+        display: block !important;
     }
 }

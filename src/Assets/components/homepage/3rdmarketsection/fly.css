@@ -116,9 +116,9 @@ div#market__flyes {
     }
     #market__flyes .mkij{
         width: 100% !important;
-        min-height: 120px;
+        height: 150px;
         background-position: right bottom !important;
-        background-size: 55% !important;
+        background-size: contain !important;
     }
     #market__flyes .carousel__dot-group {
         text-align: center;
@@ -162,7 +162,7 @@ div#market__flyes {
         font-size: 10px;
     }
     .nhqwe{
-        padding-left: 10px;
+        padding-left: 20px;
     }
     .mkij .nhqwe h1.title_lst{
         width: 50% !important;

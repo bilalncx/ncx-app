@@ -75,6 +75,10 @@ function MainHome()
 
             <NCXCardRanges />
 
+            <div className="bbn__bm">
+                <HomeBannerSection />
+            </div>
+
             <HomeGlobalMarkets />
             
             <div id="hgff">
