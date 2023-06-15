@@ -1,5 +1,109 @@
 const data = [
   {
+    id: 542,
+    title: 'China Leads Stock Gains as PBOC Cuts, Fed Holds: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['China', 'Stock', 'PBOC'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Chinese equities led gains in Asian shares Thursday after the Federal Reserve paused monetary tightening and the People’s Bank of China cut a key lending rate amid speculation that more stimulus is on the way.</p>
+    </div>,
+    authorName: 'Richard Henderson',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 10:07 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-658.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Chinese equities led gains in Asian shares Thursday after the Federal Reserve paused monetary tightening and the People’s Bank of China cut a key lending rate amid speculation that more stimulus is on the way.</p>
+    	<p>Hong Kong’s benchmark index advanced as much as 1.8%, with notable strength in tech stocks. Japanese equities fluctuated after a four-day rally. Australian stocks recovered after initially paring gains on strong jobs data that bolstered the case for further interest rate hikes from the central bank.</p>	
+    	<p>The dollar rose while the offshore yuan strengthened after weakening earlier Thursday. Selling in the yen pushed the currency to the lowest level since November. The yen weakness prompted a warning from Chief Cabinet Secretary Hirokazu Matsuno that excessive movements weren’t desirable.</p>	
+    	<p>Treasury yields climbed with the 10-year adding four basis points and the two year rising six basis points. Australia’s sovereign yield curve inverted for the first time since the global financial crisis as policy-sensitive three-year rates surged on the nation’s employment figures.</p>
+      <p>European futures fell ahead of the ECB’s expected hike while contracts for US benchmarks were flat. The S&P 500 had gained just 0.1% on Wednesday after Fed chief Jerome Powell said nearly all Fed officials expected it would be appropriate to raise interest rates “somewhat further” in 2023. The Nasdaq 100 rose 0.7%, bringing its gain since the start of the year to 37%.</p>
+      <p>With a pause and hawkish outlook from the Fed widely anticipated, much of the focus in the Asian trading session was on China. The PBOC cutting of its medium-term lending facility rate has paved the way for banks to lower lending rates next week.</p>
+      <p>The PBOC’s move also forms part of broader stimulus efforts to support real estate and domestic demand. Data showing retail sales moderated more than expected in May added to worries about further slowing in China. Industrial production was also lower but met consensus forecasts.</p>
+      <p>“They need a larger package, not just about the monetary policy or mortgage rate cut but also to restore the confidence of the private sector,” Raymond Yeung, Greater China Economist at ANZ Group Holdings Ltd., said in an interview with Bloomberg Television.</p>
+      <p>Economic troubles in New Zealand were also rippling through markets Thursday, with the nation’s sovereign bond yields falling after gross domestic product data showed the country fell into a recession in the first quarter following an aggressive run of policy tightening.</p>
+      <p>Elsewhere in markets, oil rose after a drop driven by a surprise jump in US crude stockpiles and the Fed’s hawkish outlook.</p>
+      <h3>Key events this week:</h3>
+      <ul>
+        <li>European Central Bank President Christine Lagarde holds press conference following the rate decision, Thursday</li>
+        <li>US initial jobless claims, retail sales, empire manufacturing, business inventories, industrial production, Thursday</li>
+        <li>Bank of Japan rate decision, Friday</li>
+        <li>US University of Michigan consumer sentiment, Friday</li>
+      </ul>
+      <p>Some of the main moves in markets:</p>
+      <h3>Stocks</h3>
+      <ul>
+        <li>S&P 500 futures were little changed as of 7:04 a.m. London time. The S&P 500 rose 0.1%</li>
+        <li>Nasdaq 100 futures fell 0.2%. The Nasdaq 100 rose 0.7%</li>
+        <li>Japan’s Topix was little changed</li>
+        <li>Australia’s S&P/ASX 200 rose 0.2%</li>
+        <li>Hong Kong’s Hang Seng rose 1.3%</li>
+        <li>The Shanghai Composite rose 0.5%</li>
+        <li>Euro Stoxx 50 futures fell 0.4%</li>
+      </ul>
+      <h3>Currencies</h3>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index rose 0.1%</li>
+        <li>The euro fell 0.1% to $1.0819</li>
+        <li>The Japanese yen fell 0.8% to 141.22 per dollar</li>
+        <li>The offshore yuan rose 0.1% to 7.1637 per dollar</li>
+        <li>The Australian dollar rose 0.4% to $0.6820</li>
+        <li>The British pound was little changed at $1.2653</li>
+      </ul>
+      <h3>Cryptocurrencies</h3>
+      <ul>
+        <li>Bitcoin was little changed at $24,952.88</li>
+        <li>Ether rose 0.2% to $1,641.94</li>
+      </ul>
+      <h3>Bonds</h3>
+      <ul>
+        <li>The yield on 10-year Treasuries advanced five basis points to 3.83%</li>
+        <li>Japan’s 10-year yield was unchanged at 0.420%</li>
+        <li>Australia’s 10-year yield advanced four basis points to 4.02%</li>
+      </ul>
+      <h3>Commodities</h3>
+      <ul>
+        <li>West Texas Intermediate crude rose 0.5% to $68.59 a barrel</li>
+        <li>Spot gold fell 0.3% to $1,937.03 an ounce</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+    </div>
+  },
+  {
+    id: 541,
+    title: 'Goldman cutting more than 30 Asia investment banking jobs - sources',
+    category: 'Markets',
+    subCategory: ['Goldman', 'Asia', 'Banking'],
+    description: <div className="blog-desc">
+      <p>HONG KONG (Reuters) -Goldman Sachs Group is cutting more than 30 banking jobs in Asia, two sources with knowledge of the matter said,</p>
+    </div>,
+    authorName: 'Julie Zhu, Kane Wu and Selena Li',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 6:25 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-659.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Julie Zhu, Kane Wu and Selena Li</p>
+    	<p>HONG KONG (Reuters) -Goldman Sachs Group is cutting more than 30 banking jobs in Asia, two sources with knowledge of the matter said, as a challenging markets environment weighs on Wall Street banks' dealmaking and trading revenues.</p>	
+    	<p>The reduction in regional jobs, most of which are in the global banking & markets division, started on Wednesday, said the sources.</p>	
+    	<p>China-focused bankers were hit hardest, with nine equities capital markets bankers who are based in Beijing and Hong Kong being laid off, including a managing director, according to another two sources.</p>
+      <p>Goldman Sachs declined to comment.</p>
+      <p>The fresh cuts in Asia are part of Goldman's new round of layoffs globally that will see fewer than 250 jobs go in the coming weeks, according to a fifth person with knowledge of the situation.</p>
+      <p>Wall Street banks have been reducing headcounts since late last year as a slump in dealmaking weighed on their revenues.</p>
+      <p>Rival Morgan Stanley planned to eliminate about 3,000 jobs in the second quarter, in its second round of layoffs in six months, Reuters reported last month.</p>
+      <p>Citigroup is letting go 20 to 25 investment bankers in Asia, mostly junior and based in China and Hong Kong, according to a separate source familiar with the bank's plans.</p>
+      <p>Citi's chief financial officer said Wednesday it would book severance costs associated with around 1,600 job cuts. Since the start of the year, the bank has incurred costs related to a 5,000 headcount reduction taking place across the firm, largely in banking, markets and functions.</p>
+      <p>In Asia however the bank has hired several hundred people since the start of 2022 in its wealth management division based in Singapore and Hong Kong, the person said.</p>
+      <p>A Citi spokesperson declined to comment. Bloomberg first reported about the Asia cuts on Thursday.</p>
+      <p>All sources declined to be identified as they were not authorised to speak to the media.</p>
+      <p>(Reporting by Julie Zhu, Kane Wu and Selena Li in Hong Kong; Editing by Sumeet Chatterjee, Muralikumar Anantharaman and Simon Cameron-Moore)</p>
+    </div>
+  },
+  {
     id: 540,
     title: 'Morgan Stanley’s investment chief called 2022’s bear market, and he says stocks are still hibernating—he sees a 14% drop ahead',
     category: 'Markets',

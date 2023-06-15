@@ -1,5 +1,127 @@
 const data = [
   {
+    id: 529,
+    title: 'Goldman Sachs Lifts S&P 500 Price Target; Here Are 2 High-Upside Stocks to Play the Bounce',
+    category: 'Indices',
+    subCategory: ['Goldman', 'S&P', 'stocks'],
+    description: <div className="blog-desc">
+      <p>Year-to-date, the S&P 500 has delivered an impressive return of 14%. However, those gains are a bit deceiving as the bulk of the upside has been driven by only a few selected stocks,</p>
+    </div>,
+    authorName: 'TipRanks',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 2:34 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-660.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Year-to-date, the S&P 500 has delivered an impressive return of 14%. However, those gains are a bit deceiving as the bulk of the upside has been driven by only a few selected stocks, namely the tech Mega Caps (AAPL, MSFT, NVDA, META, AMZN). If we exclude those five stocks, the index has only advanced by 5%.</p>
+    	<p>While one could argue that the market is due for a cooling down period after such a rally, Goldman Sachs Chief U.S. Equity Strategist David Kostin suggests otherwise, citing past evidence. “Prior episodes of sharply narrowing breadth have been followed by a ‘catch-up’ from a broader valuation re-rating,” Kostin explained.</p>	
+    	<p>As such, Kostin not only increased Goldman’s year-end price target for the S&P 500 from 4000 to 4500 (a 12.5% lift), but there’s also the prospect of stocks yet to reap the benefits of the rally closing the gap as the year progresses.</p>	
+    	<p>Against this backdrop, Goldman Sachs analysts have been seeking out those equities and have turned their focus to two that have plenty of upside, according to their calculations – in the order of 90%, or more.</p>
+      <p>Running the tickers through the TipRanks database, it’s clear Goldman is not alone in thinking these stocks have plenty to offer investors; both are also rated as Strong Buys by the analyst consensus.</p>
+      <h3>Rent the Runway (RENT)</h3>
+      <p>Our first Goldman-backed stock is a disruptor in the fashion industry. Rent the Runway lives up to its moniker by accurately describing its activities, which involve offering clients the opportunity to rent high-end fashion items. This concept of temporary ownership allows customers to browse a diverse range of styles, sizes, and brands on the Rent the Runway website or mobile app.</p>
+      <p>They can then choose items to rent for specific occasions or timeframes. The platform provides options for both one-time rentals and subscription plans. In line with the trends of 2023, the company utilizes AI algorithms and machine learning techniques to enhance various aspects of its business, including inventory management and personalization.</p>
+      <p>It’s a formula that helped the company deliver a strong set of results in its most recent readout – for the fiscal first quarter of 2023 (April quarter). Revenue rose by 10.6% year-over-year to $74.2 million, beating the Street’s expectations by $0.99 million. Likewise, EPS of -$0.46 came in better than the -$0.49 the prognosticators were looking for.</p>
+      <p>That said, concerns about the outlook blotted the performance. The company sees FQ2 revenue hitting the range between $77 million to $79 million. Consensus was looking for 81 million.</p>
+      <p>Shares pulled back consequently and have generally lagged the market this year – declining by 24% so far. For Goldman Sachs analyst Eric Sheridan, however, the present valuation represents an opportunity for investors.</p>
+      <p>“In our view, RENT shares (at current levels) are not pricing-in the multi-year scenario of 25% topline growth and scaling margins that mgmt. outlined last quarter,” said the 5-star analyst. “Longer term, we still see RENT as the leader in the subscription-based effort to drive the adoption of the sharing economy theme in the apparel sector.</p>
+      <p>In particular, we would flag RENT mgmt’s comments on AI as a potential positive for their platform and a broader disruptive force for the industry which warrants further attention in coming quarters.”</p>
+      <p>These comments underpin Sheridan’s Buy rating on RENT, while his $6 price target suggests the stock will run up by a bountiful 150% over the coming year.</p>
+      <p>Sheridan’s upbeat thesis gets support on the Street. The stock’s Strong Buy consensus rating is based on 6 Buys vs. 1 Hold. Additionally, the $4.93 average target leaves room for one-year gains of 105%. (See RENT stock forecast)</p>
+      <h3>Arrowhead Pharmaceuticals (ARWR)</h3>
+      <p>For our next Goldman-backed name we’ll switch gears and head to the biotech space. Arrowhead Pharmaceuticals is at the forefront of RNA interference (RNAi) therapeutics, developing innovative medicines that target and silence specific disease-causing genes.</p>
+      <p>The company’s cutting-edge technology, known as the Targeted RNAi Molecule (TRiM) platform, enables the precise delivery of RNAi drugs to specific tissues and organs, opening up new possibilities for the treatment of various diseases.</p>
+      <p>The company has a lengthy and diverse clinical pipeline and some eye-catching industry collaborations including Takeda, Amgen, and Horizon Therapeutics. Looking forward, Arrowhead expects to have 18 drug candidates in clinical studies by the end of 2023, ​addressing a broad range of cell types, such as liver, solid tumor, pulmonary, CNS, and skeletal muscle. It also already has candidates in Phase 3 studies.</p>
+      <p>Further back in development, but making some promising progress, the company is also developing ARO-RAGE, currently in a Phase 1/2 study for the treatment of patients with asthma. This drug has been showing some positive results.</p>
+      <p>At Arrowhead’s recent R&D Day, the firm presented data that showed that a single inhaled dose of 184 mg knocked down the RAGE protein – which is correlated with lung diseases such as asthma – by an average of 90% and up to a maximum of 95%.</p>
+      <p>This drug’s potential has caught the eye of Goldman Sachs analyst Madhu Kumar, who lays down the bullish thesis for the therapy.</p>
+      <p>“There is significant market potential for ARO-RAGE in the broader asthma therapeutic landscape,” said the 5-star analyst. “Specifically, we estimate the biologics market for eosinophilic asthma to reach over $4B in 2023 and grow to about $7B over the next five years. This estimate takes into account sales estimates for Tezspire from AMGN and JNJ, Nucala from GSK, Fasenra from AZN, and Dupixent from REGN and SNY.”</p>
+      <p>“While many of these biologics share the same dosing regimen as ARO-RAGE of once every four weeks (although ARO-RAGE could potentially be dosed less frequently), we see potential for differentiation with respect to efficacy, including rate of exacerbation, forced expiratory volume in 1 second (FEV1), and fractional exhaled nitric oxide (FeNO),” Kumar went on to add.</p>
+      <p>How does this all translate to investors? Kumar rates the shares as Buy, backed by a $68 price target. Should the figure be met, investors will be pocketing returns of 92% a year from now.</p>
+      <p>Elsewhere on the Street, ARWR receives an additional 8 Buys and 3 Holds, all coalescing to a Strong Buy consensus rating. Going by the $61.45 average target, the shares will climb ~74% higher over the 12-month timeframe. (See ARWR stock forecast)</p>
+    </div>
+  },
+  {
+    id: 528,
+    title: 'Dow Jones Futures Fall: Fed Decision Due As Nasdaq Looks Extended; What Investors Need Now',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Fed', 'Nasdaq'],
+    description: <div className="blog-desc">
+      <p>The Nasdaq and S&P 500 are at 2023 highs with breadth expanding heading into the Fed decision. Here's what investors need. now.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 14, 2023 - 4:19 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-661.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Nasdaq and S&P 500 are at 2023 highs with breadth expanding heading into the Fed decision. Here's what investors need. now.</p>
+    	<p>Dow Jones futures fell slightly early Wednesday, while S&P 500 futures and Nasdaq futures were modestly higher. The Federal Reserve will announce its policy decision Wednesday afternoon, with markets expecting a "hawkish pause."</p>	
+    	<p>The stock market rally continued as CPI inflation data reinforced bets that the Fed will take no action on Wednesday. Meanwhile, hopes for China stimulus also buoyed commodities, industrials and many Chinese stocks.</p>	
+    	<p>Tesla (TSLA) continued its record-breaking run. Nvidia (NVDA) cleared a buy point for existing investors, though it was an aggressive entry.</p>
+      <p>The major indexes rose modestly with the Nasdaq and S&P 500 at 52-week highs and the Dow Jones moving to a four-month high. Small and midcap stocks led amid strong market breadth. But the Nasdaq is getting close to being extended — and so are many leaders.</p>
+      <p>Lattice Semiconductor (LSCC) made a bullish move while Cloudflare (NET) rebounded back above a buy point. Unity Software (U) topped an early entry in its handle. Vertex Pharmaceuticals (VRTX) is flashing an early entry. Freeport-McMoRan (FCX) gapped above its 50-day line.</p>
+      <p>Still, investors should be cautious about adding exposure, especially in tech stocks, in the current environment.</p>
+      <p>Tesla and Nvidia stock are on IBD Leaderboard. NET stock is on the IBD 50. TSLA stock is on the IBD Big Cap 20.</p>
+      <p>The video embedded in this article highlighted the market action and analyzed LSCC stock, Vertex and Freeport-McMoRan.</p>
+      <p>In other news, UnitedHealth (UNH) said seniors are finally catching up on non-emergency surgeries that had been subdued since the pandemic. UNH stock fell nearly 6% on expectations for significantly higher medical costs. That also hit other managed-care firms such as Humana (HUM). But it's good news for hospitals and perhaps some medical product firms.</p>
+      <p>The European Union said Google has abused its ad-tech dominance and may seek to force the Alphabet (GOOGL)unit to sell part of that business. Google stock edged lower.</p>
+      <h3>Fed Meeting Decision</h3>
+      <p>The Consumer Price Index inflation rate fell to a two-year low of 4% in May, slightly cooler than expected. Core CPI dipped to a still-high 5.3%, in line with estimates.</p>
+      <p>With no negative surprises, the CPI inflation report essentially locked in expectations that the Fed will leave its target rate at 5%-5.25%. The key will be the Fed rate-hike outlook, including from Fed chief Jerome Powell. Markets are pricing in a 65% chance of a Fed rate hike in late July.</p>
+      <p>The Fed meeting announcement is at 2 p.m. ET Wednesday, with Fed chief Powell due at 2:30 p.m.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures fell 0.2% vs. fair value, with UNH stock pushing blue chips into the red. S&P 500 futures climbed 0.2% and Nasdaq 100 futures rose 0.2%.</p>
+      <p>The 10-year Treasury yield edged down to 3.81%.</p>
+      <p>Crude oil futures rose slightly.</p>
+      <p>At 8:30 a.m. ET, the Labor Department will release the May producer price index.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <p>Stock Market Rally</p>
+      <p>The stock market rally showed a broad advance on Tuesday, shrugging off the upside reversal in Treasury yields.</p>
+      <p>The 10-year Treasury yield rose 7 basis points to 3.84% after initially falling to 3.68%. That's the highest since May 26 and the strongest close in three months.</p>
+      <p>The U.S. tame inflation report eased concerns heading into the Fed meeting decision. Meanwhile, China's central bank trimmed a short-term rate with optimism growing that Beijing will adopt new fiscal stimulus amid disappointing economic data.</p>
+      <p>The Dow Jones Industrial Average rose 0.4% in Tuesday's stock market trading, to the highest point in four months. The S&P 500 index climbed 0.7% and the Nasdaq composite advanced 0.8%, both at fresh 52-week highs. The small-cap Russell 200 jumped 1.2%, a three-month best.</p>
+      <p>U.S. crude oil prices jumped 3.4% to $69.42 a barrel. Copper futures popped 2.1%. Commodities rallied on China stimulus talk and a weaker dollar.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) climbed 1.4% to a six-month high. The Innovator IBD Breakout Opportunities ETF (BOUT) popped 1.6%. The iShares Expanded Tech-Software Sector ETF (IGV) rose 0.7%, with Unity stock an IGV holding. The VanEck Vectors Semiconductor ETF (SMH) gained 1.4%, with NVDA stock the No. 1 component.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) rallied 2.3% and ARK Genomics ETF (ARKG) jumped 3.3%. Tesla stock is the biggest holding across Ark Invest's ETFs. Cathie Wood trimmed her TSLA stock stake on Monday.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) bounced 2.75%, with FCX stock a notable component. The Global X U.S. Infrastructure Development ETF (PAVE) climbed 1.7%. U.S. Global Jets ETF (JETS) ascended 2.1%. SPDR S&P Homebuilders ETF (XHB) stepped up 1.3%. The Energy Select SPDR ETF (XLE) edged up 0.5% and the Health Care Select Sector SPDR Fund (XLV) nudged 0.5% higher, with VRTX stock a holding. The Industrial Select Sector SPDR Fund (XLI) gained 1.15%, setting a 52-week high.</p>
+      <p>The Financial Select SPDR ETF (XLF) rose 0.6%. The SPDR S&P Regional Banking ETF (KRE) rebounded 2.25%.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock jumped 3.55% to 258.71. It's now advanced for 13 straight sessions, with the last 12 in above average-average volume, both records.</p>
+      <p>Overnight, Tesla raised the U.S. price of the Model Y by $250. After slashing prices to start the year, Tesla has tweaked them higher where it can.</p>
+      <h3>Nvidia Stock</h3>
+      <p>Nvidia rose 3.9% to 410.22, clearing the bulk of a three-weeks-tight pattern to a record close — and closing above a $1 trillion market cap for the first time. Existing investors could have added a tiny amount to their NVDA stock here, but definitely would have wanted some quick stops to exit the position. Nvidia stock is 13% above its 21-day line and 97% above its 200-day line. With the risks of a Nasdaq pullback rising, NVDA could easily fall back.</p>
+      <h3>LSCC Stock</h3>
+      <p>Lattice Semi stock popped 4.1% to 90.81, a day after retaking the 50-day line, both in higher volume. Investors could have used Tuesday's move as an early entry, though it backed off an intraday high of 94.25. At this point, investors could wait to see if LSCC stock forges a handle on its consolidation, which currently has a 96.82 buy point, according to MarketSmith analysis.</p>
+      <h3>Unity Stock</h3>
+      <p>Unity Software stock leapt 7.2% to 38.58 in heavy volume yet again. Shares stopped just short of a 39.45 cup-with-handle buy point intraday, but did break the downtrend of the handle, offering an early entry.</p>
+      <h3>VRTX Stock</h3>
+      <p>Vertex stock edged up 0.4% to 342.10. On Monday, shares rose 1.9% in strong trade, bouncing above the 21-day line and the 50-day. That offered an early entry in a flat base within a base-on-base formation. The official buy point is 354.46.</p>
+      <h3>FCX Stock</h3>
+      <p>Copper mining giant Freeport-McMoRan stock jumped 5.3% to 39.82, rebounding from the 50-day line and breaking a downtrend going back to the late January peak. Investors could have used that move as an early entry into FCX stock.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally is showing increasing strength and breadth, though techs are starting to look extended.</p>
+      <p>The Nasdaq is now 9% above its 50-day moving average, with the Nasdaq 100 up 10.1% over the key level. At 10%, the risks of a pullback rise, with a growing chance of a more-significant pullback.</p>
+      <p>Advancers led declines by 2-to-1, with new highs crushing new lows. The Invesco S&P 500 Equal Weight ETF (RSP) climbed 0.8%, also hitting a three-month high like the Russell 2000.</p>
+      <p>The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) ran up 1%. That outpaced the Nasdaq 100's 0.8% gain, even with megacaps Tesla and Nvidia charging higher.</p>
+      <p>Chips, software and homebuilders have been leaders for some time. Now industrials, airlines, miners and China names are making moves, though many are already extended.</p>
+      <p>Some medical products firms and biotechs are near buy points without being extended, along with some casino and gaming plays. But that also means that many haven't taken part in the market's advance over the past few weeks.</p>
+      <p>A Nasdaq-led pullback would not be a surprise, and would probably be healthy. The wider breadth and leadership suggests that the market rally is in better condition to handle a tech pause or modest retreat.</p>
+      <p>The Fed announcement and Powell's comments are sure to swing markets Wednesday afternoon. That could continue in a second-day reaction Thursday.</p>
+      <h3>What To Do Now</h3>
+      <p>The stock market rally continues to power higher, with a wider array of leaders.</p>
+      <p>But a lot of leading stocks, even newer ones such as industrials and travel plays, look extended, even from their moving average. Many growth plays are highly extended.</p>
+      <p>What investors need now is patience. If you haven't jumped on board many of these names, you probably need to wait for new entries to develop. For, say, industrials that have run up to or near buy points, handles or brief consolidations could create new buying chances. For many techs, a longer pullback or pause may be needed to let moving averages catch up or new bases form.</p>
+      <p>If you do own some big winners, make sure you have an exit strategy.</p>
+      <p>With the market rally's breadth and leadership expanding, investors have to keep up. Keep updating your watchlists, which should have expanded significantly in the past few weeks.</p>
+    </div>
+  },
+  {
     id: 527,
     title: 'Dow Jones Futures: Nasdaq Hits 2023 High; Inflation Data, Fed Meeting Loom; Tesla Extends Win Streak',
     category: 'Indices',
