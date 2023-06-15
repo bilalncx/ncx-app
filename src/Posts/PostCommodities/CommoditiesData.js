@@ -1,5 +1,135 @@
 const data = [
   {
+    id: 534,
+    title: 'Shell Changes Course on Oil Production Cut Promises',
+    category: 'Commodities',
+    subCategory: ['Shell', 'Oil', 'Production'],
+    description: <div className="blog-desc">
+      <p>Peak Oil will be very kind to Shell. The British oil and gas giant announced on Wednesday that it's going to keep oil production steady this...</p>
+    </div>,
+    authorName: 'The Daily Upside, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 4:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-669.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Peak Oil will be very kind to Shell. The British oil and gas giant announced on Wednesday that it's going to keep oil production steady this...</p>
+    	<p>The British oil and gas giant announced on Wednesday that it’s going to keep oil production steady this decade after all. That marks a gear-change from two years ago, when the company said it would cut oil production by 1-2% every year until 2030 — although Shell did some incredible logical acrobatics to argue otherwise. This comes just as the International Energy Agency announced a prediction that peak oil demand is now in sight.</p>	
+    	<h3>Get It While It’s Hot</h3>
+      <p>Shell’s 2021 promise to reduce oil production was made by former CEO Ben van Beurden, who also promised to get Shell to net zero by 2050. Van Beurden was replaced in January by Wael Sawan, who placed investor rewards front and foremost on Wednesday.</p>	
+    	<p>Sawan promised to cut back on spending, boost the company’s dividend, and launch share buybacks later this year, saying: “We will invest in the models that work—those with the highest returns that play to our strengths.”</p>
+      <p>There may be a little bit of time pressure playing into Sawan’s decision as well. In a report published on Wednesday, the IEA said it expects global oil demand to peak in 2028:</p>
+      <ul>
+        <li>The IEA expects demand for oil as a transport fuel to peak even earlier, in 2026. “The shift to a clean energy economy is picking up pace, with a peak in global oil demand in sight before the end of this decade as electric vehicles, energy efficiency and other technologies advance,” IEA Executive Director Fatih Birol said in a statement.</li>
+        <li>Right now, however, companies are all in on gas and oil according to the IEA, with global investment into exploration, extraction, and production on track to hit its highest level since 2015.</li>
+      </ul>
+      <p>“Oil producers need to pay careful attention to the gathering pace of change and calibrate their investment decisions to ensure an orderly transition,” Birol said. In other words, that peak has a sharp ledge.</p>
+      <p><strong>Drilling Your Cake and Eating It:</strong> While Sawan aggressively courts Wall Street, Shell maintains it’s staying true to its climate pledges. Shell claimed that it has in fact already fulfilled its 2021 oil production reduction promise, because seven months after making that promise it sold off a $9.5 billion stake in a Texas oil project. “Our target of a reduction in oil production by 2030 has not changed. We’ve just met it eight years early,” a spokesperson said. If they sell the whole company, does that count as achieving net zero?</p>
+    </div>
+  },
+  {
+    id: 533,
+    title: 'Its not just gasoline: Other energy prices are finally falling, too',
+    category: 'Commodities',
+    subCategory: ['gasoline', 'energy', 'prices'],
+    description: <div className="blog-desc">
+      <p>Some types of inflation are highly visible. Gasoline prices, in giant numbers at every filling station, are probably the most-seen inflation gauge.</p>
+    </div>,
+    authorName: 'Rick Newman',
+    authorurl: 'https://www.yahoo.com/author/rick-newman/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 12:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-666.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Some types of inflation are highly visible. Gasoline prices, in giant numbers at every filling station, are probably the most-seen inflation gauge.</p>
+    	<p>Other types of inflation are hidden, such as the indecipherable charges for electricity detailed in most people’s utility bills. Household energy has been a significant driver of inflation during the last two years, but there’s now a good chance power prices will drop for the foreseeable future. “Summer 2023 looks less painful for consumers and businesses,” Citi Research energy analysts wrote in a June 14 report.</p>	
+    	<p>Most types of energy surged in price starting in 2021, with oil and gasoline prices peaking last June, when gas hit $5 per gallon. Pump prices are now down to about $3.60, close enough to the trendline of the last 10 years to call normal.</p>	
+    	<p>Prices have fallen for a few reasons: Russia’s war in Ukraine hasn’t produced the oil shock some people expected. Supply has picked up. More refining capacity has come online. And demand from China, a huge energy customer, has been weak amid a sputtering economy there.</p>
+      <p>Nearly every driver knows the price of gasoline. Hardly anybody knows the price of natural gas. Yet many Americans spend more on natural gas than on gasoline, via their electricity, heat, and hot-water bills. Natural gas powers 40% of electricity in the United States and provides 50% of winter heat, the biggest source of both. And eye-popping utility bills during the last two years have largely been due to elevated natural gas prices.</p>
+      <p>The hydro-fracturing or “fracking” revolution in the United States generated record levels of domestic oil and natural gas production, starting around 2012. Since gas is harder to ship than oil, regions with abundant gas tend to enjoy sharply lower prices than regions that have to import it. During the five years before the COVID pandemic erupted in 2020, US natural gas prices averaged around $2.75 per 1 million BTU, the standard pricing measure. That was at the low range of pricing data going back to 1998.</p>
+      <p>In 2021, as the economy began to recover from the COVID downturn and demand for energy picked up, US natural gas prices averaged $3.90. In 2022, with global energy markets heavily stressed, they averaged, $6.40, more than double pre-COVID levels.</p>
+      <p>Unlike gasoline, utility bills are regulated in many areas, and providers can’t always pass on the full amount of higher costs to consumers. But average household spending on electricity jumped from $115 to $134 per month, on average, from 2020 to 2022, or about $250 more per year.</p>
+      <p>A family spending $100 per month on gas for heat and hot water in 2020 would have been paying about $135 two years later, or an extra $420 per year. Higher natural gas and electricity prices contributed to the rising cost of many other things as well, given that manufacturers, shippers, and retailers were all paying higher energy costs, as well, and passing whatever they could get away with on to consumers.</p>
+      <p>The fever is now breaking. High natural gas prices and the need for new sources of gas in Europe, which has stopped most Russian supplies, have pushed US natural gas production to new record highs. A glut now seems to be forming, with prices falling.</p>
+      <p>Citi analysts predict natural gas prices could fall to the range of $1 per million BTU later this year, and maybe even lower. The lowest monthly average for gas prices was $1.63 in June 2020, right after the COVID outbreak. So if Citi’s right, gas prices are headed toward new record lows.</p>
+      <p>Household energy costs, including electricity, are finally in retreat. The Consumer Price Index for household energy jumped 37% from the low in 2020 to the peak in January of this year. Household energy costs have fallen 7% since then. Electricity is following a similar trend, with costs up 27% from 2020 to the beginning of 2023. Electricity prices are down just 2% since then, but should fall further as basic energy prices decline.</p>
+      <p>Other types of energy are getting cheaper as well, including coal, diesel fuel (which is similar to heating oil), propane, and renewables. All fossil fuels shot up in 2022, for similar reasons, as Russia’s war in Ukraine and a recovering global economy scrambled markets. Prices are falling now for similar reasons: strong supply and tepid demand. So most consumers are likely to benefit, however they heat and power their homes. Cool.</p>
+    </div>
+  },
+  {
+    id: 532,
+    title: 'Russias Yamal LNG to resume LNG supplies to Indias GAIL - Kommersant',
+    category: 'Commodities',
+    subCategory: ['Russia', 'LNG', 'GAIL'],
+    description: <div className="blog-desc">
+      <p>MOSCOW (Reuters) - Russia's Yamal LNG plant is set to resume liquefied natural gas (LNG) supplies to India's GAIL under a long-term contract involving a Gazprom unit, Kommersant daily reported on Wednesday citing Russian government sources.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 14, 2023 - 6:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-667.jpg',
+    content: <div className="blog-content">
+  	  <h3>In this article:</h3>
+	    <p>MOSCOW (Reuters) - Russia's Yamal LNG plant is set to resume liquefied natural gas (LNG) supplies to India's GAIL under a long-term contract involving a Gazprom unit, Kommersant daily reported on Wednesday citing Russian government sources.</p>
+	    <p>Novatek, Yamal LNG's main shareholder, has not replied to a request for comment.</p>	
+	    <p>Kommersant said that supplies under the deal were suspended in 2022 when Germany seized assets of Russian energy giant Gazprom.</p>	
+	    <p>GAIL agreed to a 20-year deal with Gazprom Marketing and Trading Singapore (GMTS) in 2012 for annual purchases of an average of 2.5 million tonnes of LNG on a delivered basis.</p>
+      <p>At the time, GMTS was a unit of Gazprom Germania, now called SEFE, but the Russian parent gave up ownership of SEFE after Western sanctions.</p>
+      <p>The initial contract with GMTS was also for supplies from the Yamal project in the Arctic, but the former Russian entity was arranging supplies from elsewhere to cut freight costs as the deal was done on delivered basis, industry sources said earlier this year.</p>
+      <p>Kommersant said on Wednesday that the issue of LNG supplies to India has been resolved. It said, citing a source, that the deliveries are set to resume in the previous volumes in nearest future.</p>
+      <p>(Reporting by Vladimir Soldatkin; editing by Jonathan Oatis)</p>
+    </div>
+  },
+  {
+    id: 531,
+    title: 'Shell boosts dividend, steadies oil output under new CEOs plan',
+    category: 'Commodities',
+    subCategory: ['Shell', 'oil', 'dividend'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Shell said it will ramp up its dividend and share buybacks while keeping oil output steady into 2030, as CEO Wael Sawan moved to regain investor confidence that wavered over its energy transition plan.</p>
+    </div>,
+    authorName: 'Ron Bousso and Shadia Nasralla',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 14, 2023 - 10:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-668.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Ron Bousso and Shadia Nasralla</p>
+    	<p>LONDON (Reuters) -Shell said it will ramp up its dividend and share buybacks while keeping oil output steady into 2030, as CEO Wael Sawan moved to regain investor confidence that wavered over its energy transition plan.</p>	
+    	<p>Shell will increase its overall shareholder distribution to 30% to 40% of cash flow from operations, from 20% to 30% previously, it said in a new financial framework announced on Wednesday as part of an investor conference in New York.</p>	
+    	<p>That includes a 15% dividend boost and an increase in the rate of its share buyback programme from the second quarter, spending $5 billion rather than $4 billion in recent quarters.</p>
+      <p>The plan is the linchpin of Sawan's effort to boost Shell's share performance relative to its U.S. peers, which has suffered despite a record $40 billion profit last year.</p>
+      <p>The British company has faced concerns that it was shifting away from oil and gas at a time of booming energy prices while returns from its growing renewables and low-carbon businesses remained poor.</p>
+      <p>Its shares closed up 0.4%, against a flat index of European oil and gas companies on Wednesday.</p>
+      <p>"Performance, discipline, and simplification will be our guiding principles," said Sawan, who took office in January.</p>
+      <p>"We will invest in the models that work – those with the highest returns that play to our strengths," he added in a statement.</p>
+      <p>The dividend increase, to around 33 cents per share, is the sixth since Shell slashed its then 47 cent dividend in April 2020 in the wake of the COVID-19 pandemic, the first cut since the Second World War.</p>
+      <p>The higher payout ratio will keep Shell "competitive with peers", RBC analyst Biraj Borkhataria said in a note.</p>
+      <h3>OIL STEADY</h3>
+      <p>Shell scrapped its previous target to cut oil output by 20% by 2030 after largely reaching the goal. It produced around 1.5 million barrels per day of oil in the first quarter of 2023.</p>
+      <p>It said it will now keep its oil production steady to 2030 and will grow its natural gas business to defend its position as the world's biggest liquefied natural gas (LNG) player.</p>
+      <p>Capital spending will be in a range of $22 billion to $25 billion per year for 2024 and 2025, after a planned $23 billion to $27 billion range for 2023.</p>
+      <p>Shell plans to spend around $40 billion on oil and gas production and trading between 2023-2025, compared with $35 billion on its downstream, renewables and low-energy solutions businesses. Shell's shift follows a similar move by rival BP earlier this year when CEO Bernard Looney rowed back from plans to cut its oil and gas output by 40% by 2030.</p>
+      <p>Sawan, a 48-year-old Canadian-Lebanese national who previously headed Shell's oil, gas and renewables divisions, has in recent months scrapped several projects, including offshore wind, hydrogen and biofuels, due to weak return forecasts.</p>
+      <p>On Wednesday it said it is also conducting a strategic review of energy and chemicals assets on Bukom and Jurong Island in Singapore and is seeking to sell its stake in the Miro refinery in Germany.</p>
+      <p>NET ZERO Speculation that Sawan was set to slow Shell's plans to reduce greenhouse gas emission and shift to renewables have angered climate-focused investors.</p>
+      <p>Shell has said it remains committed to slashing emissions to net zero by 2050.</p>
+      <p>Shell's climate pledges are based on emissions intensity reductions per unit of energy produced, which means absolute emissions can rise even if the headline intensity metric falls.</p>
+      <p>It currently has a target to cut its 2030 emissions intensity, including from the combustion of the fuels it sells, by 20%.</p>
+      <p>Scientists say the world needs to cut greenhouse gas emissions by around 43% by 2030 from 2019 levels to stand any chance of realising the 2015 Paris Agreement.</p>
+      <p>Shell also faces a Dutch court ruling ordering the company to drastically cut emissions. It has appealed against the decision.</p>
+      <p>(Reporting by Ron Bousso and Shadia Nasralla; Editing by Jan Harvey, Alexander Smith, Elaine Hardcastle)</p>
+    </div>
+  },
+  {
     id: 530,
     title: 'Five Key Charts to Watch in Global Commodities This Week',
     category: 'Commodities',

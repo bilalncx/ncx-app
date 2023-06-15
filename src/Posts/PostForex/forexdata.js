@@ -1,5 +1,56 @@
 const data = [
   {
+    id: 538,
+    title: 'Yen Falls to 7-Month Low as Traders Shift Focus From Fed to BOJ',
+    category: 'Forex',
+    subCategory: ['Yen', 'Fed', 'BOJ'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The yen weakened to its lowest since November as traders shifted their focus from a hawkish Federal Reserve to Friday’s Bank of Japan policy decision.</p>
+    </div>,
+    authorName: 'Yumi Teso',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 6:57 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-656.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The yen weakened to its lowest since November as traders shifted their focus from a hawkish Federal Reserve to Friday’s Bank of Japan policy decision.</p>
+    	<p>The Japanese currency fell as much as 0.7% to 141.08 per dollar, triggering comments from Chief Cabinet Secretary Hirokazu Matsuno that excessive movements weren’t desirable. Last month when the yen weakened to similar levels, top currency official Masato Kanda said that the government would take action if needed, after an unscheduled meeting between the BOJ, Ministry of Finance and Financial Services Agency.</p>	
+    	<p>A hawkish stance from Fed officials on Wednesday stands in sharp contrast to BOJ policymakers who have stuck with monetary easing, a disparity that favors the dollar over the yen. The Fed projected borrowing costs will go higher than previously seen, while almost all of the economists surveyed by Bloomberg see the BOJ leaving its ultra loose policy unchanged Friday.</p>	
+    	<p>“Given the market movements and the Fed’s policy outlook, there is growing possibility that the three-way meeting will be held and such concern will probably grow in the market,” said Takeshi Ishida, currency strategist at Resona Bank Ltd. “However, the upside of the dollar-yen may be limited as the US Treasury yields haven’t risen that much.”</p>
+      <p>Demand for the dollar was also likely influenced Thursday by Japanese importers, who typically buy the greenback on trading days that are a multiple of five such as the 10th, 15th and 20th of any month.</p>
+      <p>Looking ahead to Friday, BOJ officials likely see little need to adjust their yield curve control program given some improvement in the functioning of the bond market, according to people familiar with the matter. Governor Kazuo Ueda said earlier this month that the BOJ has consistently stated it will maintain easing until its price goal is achieved in a stable manner, feeding further into speculation the central bank will stay pat in coming months.</p>
+      <p>BOJ’s Ueda Likely to Hold With Bond Market on His Side for Now</p>
+      <p>Last year, the yen weakening toward 146 per dollar triggered Japan’s first intervention to prop up the currency since 1998, though in the build up to that there were repeated official warnings about direct action. The Japanese currency has fallen about 7% this year.</p>
+      <p>“A sustained break above 141 opens the door for levels above 142 to be tested and potentially quite quickly,” said Rodrigo Catril, strategist at National Australia Bank Ltd. in Sydney. “Intervention is unlikely to do much to arrest yen weakness, it merely offers an opportunity to reset shorts.”</p>
+      <p>(Updates with additional context. A previous version corrected the date of Fed comments.)</p>
+    </div>
+  },
+  {
+    id: 537,
+    title: 'GBP to USD Forecast – British Pound Continues to See Bullish Pressure',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit during the trading session on Tuesday as we wait for the Federal Reserve announcement.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 14, 2023 - 5:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-657.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound has rallied a bit during the trading session on Tuesday as we wait for the Federal Reserve announcement. That being said, the market is likely to continue to see a lot of noisy behavior, and therefore I think we will have to wait to see what the Federal Reserve does, and then of course what happens in England, although it’s probably worth noting that the British are dealing with very hot wage gains, which will continue to fuel inflation. In other words, it’s very likely that the Bank of England will have to remain tight for quite some time, and I think a lot of people are looking at it through the prism of this fact.</p>
+    	<p>Currently, it looks as if we are trying to form a little bit of a double top, or breakout. I suspect that within the next day or 2, we should have a resolution to this question. With that being the case, I think a little bit of patience probably goes a long way. If we were to turn around and break down below the 1.2550 level, then it’s possible that we could go down to the 1.2350 level underneath, to continue the overall consolidation area.</p>	
+    	<p>The 50-Day EMA underneath offers plenty of support, and therefore it’s likely that a lot of people will pay close attention to that level. Underneath there, then we have the 200-Day EMA near the 1.2250 level, where the overall trend will be dictated. Ultimately, this is a situation where the market will have to make a lot of decisions if we get anywhere near that indicator.</p>	
+    	<p>As things stand right now, I think there will be plenty of buyers willing to take advantage of dips in this market, but whether or not we break out right away remains to be seen. There is the possibility of a “double top” foreman, but I think it’s probably a little early to try to start shorting this market anytime soon. Ultimately, I think the only thing you can count on is a lot of volatility over the next couple of days as we have the Federal Reserve and of course the European Central Bank influencing the dollar with their rate decisions.</p>
+    </div>
+  },
+  {
     id: 536,
     title: 'GBP/JPY Forecast – Pound Looks Tired Against the Yen',
     category: 'Forex',

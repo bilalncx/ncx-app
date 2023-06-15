@@ -1,5 +1,98 @@
 const data = [
   {
+    id: 564,
+    title: 'Bitcoin: Expecting BTC to rally after FOMC’s latest update? Well…',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'BTC', 'FOMC'],
+    description: <div className="blog-desc">
+      <p>Bitcoin [BTC] didn’t exactly see any significant price pump after the FOMC meeting. In fact, BTC’s fear and greed index indicated a sentiment of fear around the cryptocurrency which could delay a rally in the coming days.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-664.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin [BTC] didn’t exactly see any significant price pump after the FOMC meeting. In fact, BTC’s fear and greed index indicated a sentiment of fear around the cryptocurrency which could delay a rally in the coming days.</p>
+    	<ul>
+        <li>Bitcoin was up by 0.37% before the FOMC meeting results.</li>
+        <li>The U.S. Federal Reserve held its federal funds interest rate at 5.25%, following an extended period of consecutive rate hikes.</li>
+      </ul>
+      <p>The eyes of the market were on the Fed rate decision announcement from the Federal Open Market Committee (FOMC) meeting. The cryptocurrency market on the whole has experienced a turbulent few weeks. As such all eyes were fixed on the decision that would lead to price pump or dump.</p>	
+    	<p>Bitcoin [BTC] was seen to top the charts in social engagement ahead of the looming FOMC decision. A look at the 24-hour price action prior to the announcement revealed a price surge of 0.37%. </p>	
+    	<p>In the aftermath of the FOMC meeting with no hike in interest rates, BTC didn’t stay in the green for long. The king of cryptocurrencies slipped to trading in the red and was exchanging hands 3.34% lower in the last hour of the time of writing.</p>
+      <h3>Bitcoin price reaction: Before meets after</h3>
+      <p>Following the announcement, BTC didn’t exactly witness a significant price pump or dump. The cryptocurrency hovered between $25,800 and $26,000. It traded for $26,000 minutes before the Fed’s announcement, before falling to $25,756 moments afterward. BTC exchanged hands at $25,909 at press time according to TradingView.</p>
+      <p>The Relative Strength Index (RSI) oscillated below the neutral 50 level. This was a sign of limited buying pressure and pointed towards a slightly bearish momentum. However, it could also be taken as a sign that buyers and sellers were battling at a key area. Furthermore, a look at the Moving Average Convergence Divergence (MACD) highlighted a bearish stance for BTC.</p>
+      <p>At press time, the signal line (red) was above the MACD line (line), an indication of the ongoing bearish bias. Furthermore, the price move did nothing to recover the losses incurred last week. Recall that the SEC sued two of the crypto industry’s largest players (Binance and Coinbase) for securities law violations.</p>
+      <p>Furthermore, a look at the Bitcoin Fear and Greed Index didn’t exactly favor the sentiment around the cryptocurrency. As of 14 June, the BTC fear and greed index stood at 46, which indicated fear. This meant that investors witnessed some market skepticism at the time of writing.</p>
+      <h3>Time to buy?</h3>
+      <p>The news from the FOMC meeting was met with more questions than answers, as some attested to the ongoing price instability in the market. The lingering question remained: to buy or sell?</p>
+      <p>To which crypto educator, Budhil Vyas tweeted that the outcome of the FOMC meeting could be bullish and may favor market growth. However, the same may happen over a period of time and sudden movements may not be on the cards.</p>
+      <p><strong>It should be a Positive as #FOMC didn’t raise it. NO HIKE But due to market negative situation it might take some time to show a MOVE💯 https://t.co/mgTgVV1Wa</strong></p>
+      <p>Budhil Vyas (@BudhilVyas) June 14, 2023</p>
+    </div>
+  },
+  {
+    id: 563,
+    title: 'Bitcoin mining difficulty rises 2.18% to record amid increasing competition among miners',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'mining', 'rises'],
+    description: <div className="blog-desc">
+      <p>Bitcoin’s mining difficulty level rose 2.18% on Wednesday to an all-time high. The level changes every two weeks and measures the additional computing power</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 7:57 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-665.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin’s mining difficulty level rose 2.18% on Wednesday to an all-time high. The level changes every two weeks and measures the additional computing power a miner has to use to verify transactions on a block. A higher difficulty indicates it is more competitive to mine Bitcoin, reducing profit. The network’s hashrate also increased to a record high.</p>
+      <h3>Fast facts</h3>
+      <ul>
+        <li>The mining difficulty reading came in at 52.35 trillion at block height 794,304 in Wednesday’s adjustment. That follows a 3.4% rise in the previous adjustment on June 1, according to data from BTC.com.</li>
+        <li>The difficulty of mining Bitcoin typically rises when more miners are active, which increases the competition for rewards in Bitcoin in return for validating transactions on the network. The higher the difficulty, the less chance a miner has to secure an entire block on the chain, which in turn can reduce a miner’s profitability.</li>
+        <li>Mining difficulty adjustments are correlated to changes in hashrate, the level of computing power used for mining.</li>
+        <li>“In short, difficulty follows hashrate up or down, and hashrate is driven by the overall profitability of building and operating bitcoin data centers,” Andrew Webber, chief of Digital Power Optimization that works with power producers to deploy Bitcoin mining operations, told Forkast in an emailed response earlier this month. “If Bitcoin spot price goes higher, it means larger profits for miners.”</li>
+        <li>Bitcoin’s hashrate was at around 392.6 exahashes per second on Wednesday, an increase from the 375.4 exahashes recorded during the previous adjustment on June 1, data from Blockchain.com shows.</li>
+        <li>Bitcoin fell 3.63% to US$25,045 in the last 24 hours to 11:10 a.m. in Hong Kong, but it was up about 51% so far this year, according to data from CoinMarketCap. The world’s largest cryptocurrency by market capitalization lost 5.01% in value over the past seven days.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 562,
+    title: 'Ethereum Survives AWS Outage Unscathed But Analysts Warn Of Future Incidents',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'AWS', 'future'],
+    description: <div className="blog-desc">
+      <p>Ethereum’s reliance on centralized infrastructure is under scrutiny after some U.S. users of Amazon Web Services, the world’s largest cloud hosting provider, suffered a roughly three-hour outage on Tuesday.</p>
+    </div>,
+    authorName: 'Samuel Haig',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 15, 2023 - 7:47 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-662.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ethereum’s reliance on centralized infrastructure is under scrutiny after some U.S. users of Amazon Web Services, the world’s largest cloud hosting provider, suffered a roughly three-hour outage on Tuesday.</p>
+    	<p>While Ethereum continued to operate normally despite nearly two-thirds of Ethereum validators relying on cloud hosting services, researchers fear that a similar incident in Europe could have a far greater impact on the network, as many Lido validators could have been affected. Lido is the top liquid staking provider, having amassed more than 35% of staked Ethereum.</p>	
+    	<p>“I imagine there would [be] some effect if AWS went down in Europe given how much Lido is in the cloud,” tweeted Evan Van Ness, an Ethereum developer. “Don’t stake with pools who run in the cloud!”</p>	
+    	<p>Van Ness said the outage had “zero effect” on Ethereum as it was limited to its US-EAST-1 region. The websites and point-of-sale systems of many traditional businesses were impacted, including United Airlines, Associated Press, and Toast.</p>
+      <h3>Centralized Points Of Failure</h3>
+      <p>The news comes as concerns regarding the centralization risks posed by some of the infrastructure underpinning the Ethereum network and its staking ecosystem have reached a fever pitch.</p>
+      <p>Researchers are desperately calling on Ethereum stakers to either solo stake or use alternative providers after Lido’s share of staked ETH surpassed one-third in recent weeks. Vitalik Buterin, Ethereum’s co-founder and chief scientist, recently prescribed that no single staking pool should control more than 15% of staked Ether.</p>
+      <p>Infura, the centralized Ethereum node provider, has also copped flak for emerging as a possible point of failure for the network. Infura responded last September by announcing plans to develop a decentralized version of its service this year. The company said its infrastructure has frequently processed more than 50% of daily Ethereum transactions.</p>
+      <p>While Ethereum proved resilient, the outage disrupted the operations of many web3 dApps and services.</p>
+      <p>Phantom, a popular Solana wallet, assured its users their assets were safe despite being unable to load the wallet. Players of the web3 game, Illuvium, complained they could not log in amid the outage. Users of Manifold, an NFT minting platform, said they could no longer access its website.</p>
+      <p>In December 2021, an AWS outage affecting the same region disrupted the services of top centralized exchanges Binance and Coinbase, and even the decentralized exchange dYdX.</p>
+    </div>
+  },
+  {
     id: 561,
     title: 'Hong Kong Lawmaker Invites Coinbase to Apply to Operate in Region Amid U.S. SEC Crackdown',
     category: 'Crypto',
