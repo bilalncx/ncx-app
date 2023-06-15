@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "@mui/material/Button";
 import './fly.css';
-import { CarouselProvider, Slider, Slide, DotGroup, Dot } from 'pure-react-carousel';
+import { CarouselProvider, Slider, Slide, DotGroup } from 'pure-react-carousel';
 import MblMartBan1 from '../../../images/mban1.png';
 import MblMartBan2 from '../../../images/mban2.png';
 import MblMartBan3 from '../../../images/mban3.png';
