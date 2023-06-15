@@ -13,7 +13,7 @@ function CryptoCardSecondSection()
                         <img src={CardImage} alt="ncx"/>
                     </div>
                     <div className="col vedc">
-                        <h1>The Crypto card that gives you extra</h1>
+                        <h1>The Crypto card that <span>gives you extra</span></h1>
                         <ul>
                             <li>Pay with Crypto converted into currency at 44 million merchant locations Worldwide.</li>
                             <li>Spending Limits up to $150,000 per month.</li>

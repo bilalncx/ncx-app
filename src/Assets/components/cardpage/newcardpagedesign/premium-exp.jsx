@@ -11,7 +11,7 @@ function NCXCardExperience()
     return(
         <div className="global__mart ncx__card__page">
             <div className="container">
-                <h1 className="az__ml__mm">A premium experience you can touch</h1>
+                <h1 className="az__ml__mm">A premium experience <span>you can touch</span></h1>
                 <div className="global__row row">
                     <div className="col">
                         <img src={GlobalMarket1} alt="global"/>

@@ -193,18 +193,21 @@ function NCXCardRanges()
                         naturalSlideWidth={300}
                         naturalSlideHeight={500}
                         // hasMasterSpinner
-                        // isPlaying={true}
-                        // interval={3000}
-                        // orientation="horizontal"
-                        // infinite
-                        // playDirection="forward"
+                        isPlaying={true}
+                        interval={3000}
+                        orientation="horizontal"
+                        infinite
+                        playDirection="forward"
                     >
                         <div className="cscs__bt">
                             <ButtonBack className="mht"><CardLeftArrow /></ButtonBack>
                             <ButtonNext className="ertgb"><CardRightArrow /></ButtonNext>
                         </div>
 
-                        <Slider className="pjiur">
+                        <Slider 
+                        className="pjiur"
+                        classNameAnimation="scroll"
+                        >
                             <Slide index={0} className="yuio">
                                 <div className="qwrc">
                                     <img src={CardSelect} alt="ncx-card"/>
