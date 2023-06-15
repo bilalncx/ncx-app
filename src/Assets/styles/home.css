@@ -931,4 +931,7 @@ a.cl__drp:hover{
     #hgff .new-generation{
         padding: 30px 0px !important;
     }
+    .hide_mbl{
+        display: none;
+    }
 }

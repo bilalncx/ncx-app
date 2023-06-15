@@ -434,7 +434,7 @@ function HomePageMarketSection()
                 </td>
             </tr>
 
-            <tr>
+            <tr class="hide_mbl">
                 <td class="mark-pair">
                     <img src="https://ncx.cx/images/usdc.svg" alt="coin-logo" />
                     <h1>${USDC_ID}</h1>
@@ -584,7 +584,7 @@ function HomePageMarketSection()
                 </td>
             </tr>
 
-            <tr>
+            <tr class="hide_mbl">
                 <td class="mark-pair">
                     <img src="https://ncx.cx/images/dai.svg" alt="coin-logo" />
                     <h1>${DAI_ID}</h1>
@@ -634,7 +634,7 @@ function HomePageMarketSection()
                 </td>
             </tr>
 
-            <tr>
+            <tr class="hide_mbl">
                 <td class="mark-pair">
                     <img src="https://ncx.cx/images/tusd.svg" alt="coin-logo" />
                     <h1>${TUSD_ID}</h1>

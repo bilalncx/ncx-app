@@ -196,11 +196,11 @@ div#market__flyes {
     div#market__flyes {
         display: block;
     }
-    #market__flyes .mkij{
+    /* #market__flyes .mkij{
         height: 150px;
         background-position: right bottom !important;
         background-size: contain !important;
-    }
+    } */
     #market__flyes .carousel__dot-group {
         text-align: center;
     }
@@ -233,7 +233,7 @@ div#market__flyes {
         background: rgba(255,255,255,0.5);
         transition: all 0.3s;
     }
-    #market__flyes .carousel__slider-tray {
+    /* #market__flyes .carousel__slider-tray {
         align-items: flex-start !important;
         justify-content: flex-start !important;
     }
@@ -244,7 +244,6 @@ div#market__flyes {
         padding-left: 20px;
     }
     .mkij .nhqwe h1.title_lst{
-        /* width: 50% !important; */
         font-size: 16px !important;
         line-height: 22px !important;
     }
@@ -254,5 +253,5 @@ div#market__flyes {
     #market__flyes .carousel__slider-tray .carousel__slide{
         width: 100% !important;
         padding: 0px;
-    }
+    } */
 }
