@@ -21,9 +21,14 @@
     color: #FFFFFF;
     width: 70%;
 }
-.card_box, .card_exprnc, .aerv, .slvs, .berfvc, .range_cards, .integr__pla{
+.card_box, .card_exprnc, .aerv, .berfvc, .range_cards, .integr__pla{
     background: #000000;
     padding: 100px 0px;
+    position: relative;
+}
+.slvs{
+    background: #000000;
+    padding: 100px 0px 100px 0px;
     position: relative;
 }
 .col.vedc ul{
@@ -33,7 +38,7 @@
 }
 .col.vedc ul li {
     font-size: 18px;
-    font-family: 'urbanist-regular';
+    font-family: 'urbanist-light';
     color: #FFFFFF;
     line-height: 24px;
     font-weight: 400;
@@ -92,7 +97,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     width: 200px;
     height: 50px;
     background: #F9F9F7;
-    border-radius: 6px;
+    border-radius: 50px;
     font-size: 16px;
     line-height: 24px;
     color: #1D1D1B;
@@ -109,7 +114,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 .bewec a.dwc {
     width: 200px;
     height: 50px;
-    border-radius: 6px;
+    border-radius: 50px;
     font-size: 16px;
     line-height: 24px;
     color: #F9F9F7;
@@ -133,9 +138,12 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     justify-content: center;
     margin-top: 40px;
 }
-.card_box .container:after, .card_exprnc .container:after, .aerv .container:after, .slvs .inservv:after,
-.berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after, .integr__pla .container:after, .bvc_mnb .container:after{
-    content: '';
+.card_exprnc, .aerv, .slvs, .berfvc, .range_cards, .cont_vwef, .integr__pla, .bvc_mnb{
+    position: relative;
+}
+.card_exprnc:after, .aerv:after, .slvs:after, .berfvc:after, .range_cards:after, .cont_vwef:after, .integr__pla:after, 
+.bvc_mnb:after, .card_box:after{
+    /* content: '';
     background: rgba(255,255,255,0.25);
     width: -webkit-fill-available;
     height: 1px;
@@ -145,7 +153,28 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     bottom: 0;
     left: 0;
     right: 0;
-    margin: auto;
+    margin: auto; */
+    content: '';
+    width: 48.05%;
+    height: 0.75px;
+    background: linear-gradient(90deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 2%;
+    margin: 0 auto;
+}
+.card_exprnc:before, .aerv:before, .slvs:before, .berfvc:before, .range_cards:before, .cont_vwef:before,
+.integr__pla:before, .bvc_mnb:before, .card_box:before{
+    content: '';
+    width: 48.05%;
+    height: 0.75px;
+    background: linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 2%;
+    margin: 0 auto;
 }
 .row.aeewf {
     margin: 0px;
@@ -162,7 +191,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 .col.vwev summary {
     color: #FFFFFF;
     font-size: 24px;
-    font-family: 'urbanist-regular' !important;
+    font-family: 'urbanist-light' !important;
     line-height: 32px;
 }
 .col.vwev details .contt p{
@@ -184,6 +213,13 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 }
 .col.vwev .accordian details[open] {
     border: none;
+}
+.col.vwev .accordian details svg {
+    transition: all 0.5s;
+}
+.col.vwev details[open] svg {
+    transform: rotate(180deg);
+    transition: all 0.7s;
 }
 .col.vwev .accordian details summary{
     padding: 32px 0px;
@@ -231,7 +267,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     margin-top: 30px;
     margin-bottom: 16px;
     color: #FFFFFF;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-regular';
     font-size: 24px;
     line-height: 32px;
 }
@@ -263,6 +299,9 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 }
 .card_box.csdvw__vew .col.vedc:nth-child(2) ul {
     padding: 0px;
+}
+.card_box .col.vedc h1 span {
+    display: block;
 }
 .vwecx {
     display: flex;
@@ -325,7 +364,7 @@ a.evc:hover{
 }
 .qwrc p {
     font-size: 16px;
-    font-family: 'urbanist-semibold';
+    font-family: 'urbanist-medium';
     color: #FFFFFF;
     font-weight: 400;
 }
@@ -506,7 +545,7 @@ a.bnb_mki {
     background: rgba(255, 255, 255, 0.01);
     border: 1px solid #F9F9F7;
     backdrop-filter: blur(10px);
-    border-radius: 6px;
+    border-radius: 50px;
     color: #FFFFFF;
     font-size: 16px;
     line-height: 24px;
@@ -520,8 +559,9 @@ a.bnb_mki:hover, a.bnb_mki:focus, a.bnb_mki:focus-visible, a.mki__lo:hover, a.mk
     text-decoration: none;
 }
 a.bnb_mki:hover, a.mki__lo:hover{
-    background: #5ED3F0;
-    border-color: #5ED3F0;
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+    color: #000000;
 }
 a.mki__lo {
     width: 140px;
@@ -535,12 +575,39 @@ a.mki__lo {
     color: #FFFFFF;
     text-transform: inherit;
     letter-spacing: 0;
-    border-radius: 6px;
+    border-radius: 50px;
 }
 .hyng {
     gap: 16px;
     display: flex;
 }
+
+/* Premium Experience Section styling */
+.ncx__card__page .global__row h2 {
+    min-height: unset;
+}
+.ncx__card__page .global__row.row .col:hover {
+    border: 1px solid #FFFFFF;
+    box-shadow: 0 0 15px rgba(255,255,255,.75);
+}
+h1.az__ml__mm {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'roboto-light';
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+.global__mart.ncx__card__page {
+    margin-top: 0px;
+    padding: 100px 0px !important;
+}
+.mbl__sec__cr{
+    display: none;
+}
+
+
+
+
 @media screen and (max-width: 1550px){
     .bvc_mnb .container h1{
         font-size: 40px;
@@ -672,8 +739,8 @@ img.mbL_fwc{
         width: 100%;
     }
     .bve h1{
-        font-size: 30px;
-        line-height: 36px;
+        font-size: 26px;
+        line-height: 34px;
     }
     .bve p{
         margin-top: 15px;
@@ -689,7 +756,7 @@ img.mbL_fwc{
         justify-content: center;
         gap: 15px !important;
     }
-    .card_box .container:after, .card_exprnc .container:after, .aerv .container:after, .slvs .inservv:after,
+    .card_exprnc .container:after, .aerv .container:after, .slvs .inservv:after,
     .berfvc .container:after, .range_cards .container:after, .cont_vwef .container:after, .bvc_mnb .container:after{
         margin: 0px 20px !important;
     }
@@ -708,7 +775,7 @@ img.mbL_fwc{
         margin-top: 40px;
     }
     .col.vedc h1, .vwed h1, .tvscc h1, h1.rnag_gg, .col.verhnb h1, .tjmnh h1{
-        font-size: 26px;
+        font-size: 24px;
         line-height: 32px;
     }
     .col.vedc ul li:before{
@@ -868,7 +935,7 @@ img.mbL_fwc{
     }
     .vyth p {
         font-size: 16px;
-        font-family: 'urbanist-semibold';
+        font-family: 'urbanist-medium';
         text-align: left;
         color: #FFF;
         margin-bottom: 10px;
@@ -946,8 +1013,11 @@ img.mbL_fwc{
     .mbdx_v {
         display: block;
     }
-    .card_exprnc, .slvs{
+    .card_exprnc{
         display: none;
+    }
+    .slvs {
+        margin: 2px 0px;
     }
     .mbdx_v .card_exprnc{
         display: block !important;
@@ -967,6 +1037,89 @@ img.mbL_fwc{
     .card_rnag_mbl .carousel__slider .carousel__slide {
         padding-left: 5px !important;
         padding-right: 5px !important;
+    }
+    h1.az__ml__mm {
+        font-size: 24px;
+        line-height: 30px;
+        padding: 0px 30px;
+    }
+    .mbl__sec__cr{
+        display: block;
+    }
+    .global__mart.ncx__card__page .global__row.row {
+        display: none;
+    }
+    .azx img {
+        width: 80px !important;
+        height: 80px !important;
+        margin-bottom: 25px;
+    }
+    .azx {
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        -webkit-backdrop-filter: blur(2px);
+        backdrop-filter: blur(2px);
+        border-radius: 4px;
+        padding: 25px 25px 30px 25px;
+        text-align: center;
+    }
+    .azx:hover{
+        border: 1px solid #FFFFFF;
+        box-shadow: 0 0 15px rgba(255,255,255,.75);
+    }
+    .global__mart.ncx__card__page .carousel__slide{
+        padding: 15px;
+    }
+    .azx h2{
+        font-size: 22px;
+        font-family: 'roboto-light';
+        color: #FFFFFF;
+        margin-bottom: 20px;
+    }
+    .azx p{
+        color: #B9B9BB;
+        font-size: 16px;
+        line-height: 22px;
+        font-family: 'roboto-light';
+        min-height: 110px;
+    }
+    .global__mart.ncx__card__page{
+        padding: 50px 0px !important;
+    }
+    .global__mart.ncx__card__page .carousel__dot-group {
+        text-align: center;
+    }
+    .global__mart.ncx__card__page button.carousel__dot--selected {
+        width: 40px !important;
+        background: #FFFFFF !important;
+        border: 2px solid #FFFFFF !important;
+        border-radius: 50px !important;
+    }
+    .global__mart.ncx__card__page button.carousel__dot--selected span{
+        background: #FFFFFF;
+    }
+    .global__mart.ncx__card__page .carousel__dot-group {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        margin-top: 20px;
+    }
+    .global__mart.ncx__card__page button.carousel__dot {
+        width: 7px;
+        border: none;
+        background: rgba(255,255,255,0.5);
+        border-radius: 50px;
+        padding: 0px;
+        height: 4px;
+    }
+    .global__mart.ncx__card__page button.carousel__dot:hover{
+        width: 20px;
+        background: rgba(255,255,255,0.5);
+        transition: all 0.3s;
+    }
+    .card_box .col.vedc h1 {
+        text-align: center;
     }
 }
 

@@ -210,7 +210,7 @@ function NCXCardRanges()
                         naturalSlideHeight={500}
                         // hasMasterSpinner
                         isPlaying={true}
-                        interval={4000}
+                        interval={3000}
                         orientation="horizontal"
                         infinite
                         playDirection="forward"

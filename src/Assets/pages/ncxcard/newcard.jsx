@@ -13,6 +13,8 @@ import NCXCardRanges from "../../components/cardpage/newcardpagedesign/card_rang
 import CardNewPageFirst from "../../components/cardpage/newcardpagedesign/main_section";
 import PremiumExperience from "../../components/cardpage/newcardpagedesign/third_sect";
 import IntegrationPlay from "../../components/cardpage/newcardpagedesign/AppleGoogleplay";
+import NCXCardExperience from "../../components/cardpage/newcardpagedesign/premium-exp";
+import AllOfNeeds from "../../components/cardpage/newcardpagedesign/allofneeds";
 
 function NCXCardPage()
 {
@@ -24,17 +26,21 @@ function NCXCardPage()
 
             <CardNewPageFirst />
 
-            <div className="mbl_vevrf">
-                <CardLogoSlider />
-            </div>
-
             <CryptoCardSecondSection />
 
-            <PremiumExperience />
+            <NCXCardExperience />
+
+            {/* <PremiumExperience /> */}
 
             <NCXCardRanges />
 
-            <PremiumProtectionCard />
+            <AllOfNeeds />
+
+            {/* <div className="mbl_vevrf">
+                <CardLogoSlider />
+            </div> */}
+
+            {/* <PremiumProtectionCard /> */}
 
             <CardLogoSlider />
 

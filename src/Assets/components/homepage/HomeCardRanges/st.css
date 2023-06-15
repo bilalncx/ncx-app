@@ -3,14 +3,14 @@
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
-@keyframes fadeInAnimation {
+/* @keyframes fadeInAnimation {
     0% {
         opacity: 0;
     }
     100% {
         opacity: 1;
      }
-}
+} */
 
 #home__card_slide.card_rnag_mbl .mjhgf{
     margin-top: 30px;
