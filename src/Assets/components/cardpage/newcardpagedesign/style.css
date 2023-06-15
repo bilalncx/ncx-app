@@ -216,6 +216,8 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 }
 .col.vwev .accordian details svg {
     transition: all 0.5s;
+    width: 13px;
+    height: auto;
 }
 .col.vwev details[open] svg {
     transform: rotate(180deg);
@@ -1049,6 +1051,7 @@ img.mbL_fwc{
         line-height: 32px;
         padding: 0px 30px;
         font-family: 'urbanist-regular' !important;
+        margin-bottom: 20px !important;
     }
     h1.az__ml__mm span{
         display: block;
