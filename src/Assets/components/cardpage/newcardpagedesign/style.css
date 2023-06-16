@@ -732,7 +732,7 @@ img.mbL_fwc{
 }
 @media screen and (max-width: 800px){
     .bf_vdo{
-        max-height: 450px;
+        max-height: 220px;
     }
     .cont_vwef{
         max-height: inherit;
@@ -1144,6 +1144,10 @@ img.mbL_fwc{
     }
     a.wec {
         display: none;
+    }
+    .bf_vdo video{
+        height: 220px;
+        object-fit: cover;
     }
 }
 
