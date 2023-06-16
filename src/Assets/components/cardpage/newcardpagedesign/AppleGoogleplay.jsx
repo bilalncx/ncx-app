@@ -1,6 +1,6 @@
 import React from "react";
 import AppleGoogleImage from '../../../images/apple-google-pay.png';
-import CardTrimmed from '../../../images/card_short.mp4';
+import CardTrimmed from '../../../images/card_full.mp4';
 
 function IntegrationPlay()
 {

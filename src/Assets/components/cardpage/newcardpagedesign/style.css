@@ -511,11 +511,11 @@ h1.rnag_gg {
     position: relative;
 }
 .bgt_hyn{
-    max-height: 922px;
+    max-height: 860px;
 }
 .bgt_hyn video {
     width: 100%;
-    max-height: 922px;
+    max-height: 860px;
     object-fit: cover;
     object-position: center center;
 }

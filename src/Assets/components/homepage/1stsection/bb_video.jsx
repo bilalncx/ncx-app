@@ -7,6 +7,7 @@ import BuyCryptoVideo from '../../../images/home__newvideo.mp4';
 import Button from "@mui/material/Button";
 import './firstsection.css';
 import { useTranslation } from "react-i18next";
+import NewCardVideo from '../../../images/new-cardvideo.mp4';
 
 function NCXAPPSection()
 {
@@ -58,7 +59,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src={BuyCryptoVideo} type="video/mp4" />
+                    <source src={NewCardVideo} type="video/mp4" />
                 </video>
                 <div className="gsfersdsd">
                     <h1>NCX Exchange</h1>

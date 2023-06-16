@@ -765,7 +765,8 @@ a.cl__drp:hover{
     }
     .mbl__lpl video {
         width: 100%;
-        min-height: 300px;
+        min-height: 240px;
+        object-position: top;
     }
     .mbl__lpl {
         padding: 50px 20px 0px 20px;
@@ -836,11 +837,13 @@ a.cl__drp:hover{
     }
     #home_coins p.gjg_gf {
         font-size: 12px !important;
+        margin: 30px 0px 20px 0px !important;
     }
     #home_coins .coin__tb a.lnch_dx, #home_coins .coin__tb a.dx_drp{
         width: 120px !important;
         height: 36px !important;
         font-size: 14px !important;
+        padding: unset !important;
     }
     .mbl__lpl .home__btnff a.sin__op{
         width: 110px !important;

@@ -20,7 +20,7 @@ import FeaturedMarkets from '../components/our_markets/featured_market';
 import Home5thSection from '../components/homepage/5thdextablesection/new__set';
 import HomeTrdingDerivatives from '../components/indices/06/6';
 import HomeWallet from '../components/homepage/coinslide/coin';
-import HomeGlobalMarkets from '../components/indices/04/4';
+import HomeGlobalMarkets from '../components/homepage/Global/global';
 import HomeWalletStakes from '../components/ncxToken/section-2/staking_ncxt';
 import HomeBannerSection from "../components/homepage/banner/ban";
 import NCXCardRanges from "../components/homepage/HomeCardRanges/cardranges";
