@@ -141,6 +141,124 @@ function Indices5()
                     </div>
                 </div>
 
+
+                <div className="mbL__all__device">
+                    <div className="plat__ggre row">
+                        <div className="col trg__ff__fe">
+                            <div className="tra__go">
+                                <h2>{t("ncx_app")}</h2>
+                                <NCXBadge1 />
+                            </div>
+                            <p>{t("ncx_c_trader_app_text")}</p>
+                            <div className="tiy__bd">
+                                <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
+                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            </div>
+                            <div className="pho__img viso__ff">
+                                <video 
+                                    autoPlay={true}
+                                    muted={true}
+                                    loop={true}
+                                    playsInline={true}
+                                    preload="auto"
+                                    >
+                                    <source src={WalletMobileVideo2} type="video/mp4" />
+                                </video>
+                            </div>
+                        </div>
+                        <div className="col trg__ff__fe">
+                            <div className="tra__go">
+                                <h2>{t("ncx_defi_wallet_app")}</h2>
+                                <NCXBadge2 />
+                            </div>
+                            <p>{t("ncx_defi_wallet_app_text")}</p>
+                            <div className="tiy__bd">
+                                <Button href="https://ncx.cx/wallet" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
+                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            </div>
+                            <div className="pla__img gf__grthbh">
+                                <video 
+                                    autoPlay={true}
+                                    muted={true}
+                                    loop={true}
+                                    playsInline={true}
+                                    preload="auto"
+                                    >
+                                    <source src={WalletMobileVideo} type="video/mp4" />
+                                </video>
+                            </div>
+                        </div>
+                        <div className="col trg__ff__fe">
+                            <div className="tra__go">
+                                <h2>{t("ncx_c_trader_app")}</h2>
+                                <CTrader2 />
+                            </div>
+                            <p>{t("ncx_c_trader_app_text")}</p>
+                            <div className="tiy__bd">
+                                <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
+                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            </div>
+                            <div className="pho__img">
+                                <video 
+                                    id="phomsdf"
+                                    autoPlay={true}
+                                    muted={true}
+                                    loop={true}
+                                    playsInline={true}
+                                    preload="auto"
+                                    >
+                                    <source src={SExchange} type="video/mp4" />
+                                </video>
+                            </div>
+                        </div>
+                        <div className="col trg__ff__fe">
+                            <div className="tra__go">
+                                <h2>{t("ncx_cross_chain_dex")}</h2>
+                                <NCXDEXBadge />
+                            </div>
+                            <p>
+                                <span>{t("swap_500k_tokens_across")}</span>
+                                <span>{t("10_chains_with_ncx_cross_chain_dex")}</span>
+                            </p>
+                            <div className="tiy__bd">
+                                <Button href="https://dex.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
+                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            </div>
+                            <div className="pla__img">
+                                <img src={NCXCrossDex} alt="ncx_platform" />
+                            </div>
+                        </div>
+                        <div className="col trg__ff__fe">
+                            <div className="tra__go">
+                                <h2>{t("ncx_web")}</h2>
+                                <NCXWeb />
+                            </div>
+                            <p>{t("ncx_c_trader_web_text")}</p>
+                            <div className="tiy__bd">
+                                <Button href="https://trade.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
+                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            </div>
+                            <div className="pla__img">
+                                <img src={Laptop3} alt="ncx_platform" />
+                            </div>
+                        </div>
+                        <div className="col trg__ff__fe">
+                            <div className="tra__go">
+                                <h2>{t("ncx_c_trader_windows")}</h2>
+                                <CTrader1 />
+                            </div>
+                            <p>{t("home_c_trade_window_text")}</p>
+                            <div className="tiy__bd">
+                                <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
+                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            </div>
+                            <div className="pla__img">
+                                <img src={Device1} alt="ncx_platform" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+{/* 
                 <div id="mbl__slida">
                     <CarouselProvider
                         visibleSlides={1}
@@ -307,7 +425,7 @@ function Indices5()
 
                         <DotGroup />
                     </CarouselProvider>
-                </div>
+                </div> */}
             </div>
         </div>
     )

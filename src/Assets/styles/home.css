@@ -494,12 +494,16 @@ details[open] .contt {
 }
 #hyres .taskbtn a{
     background: transparent;
-    border: 1px solid #5ED3F0 !important;
+    border: 1px solid #FFFFFF !important;
     font-size: 16px !important;
+    color: #FFFFFF;
     font-family: 'urbanist-regular' !important;
 }
-#hyres .taskbtn a:hover{
-    background: #5ED3F0 !important;
+.bg-dark #hyres .taskbtn a:hover{
+    background: #FFFFFF !important;
+    color: #000000 !important;
+    border: 1px solid #FFFFFF !important;
+    box-shadow: 0 0 10px rgba(255,255,255,0.5);
 }
 #hyres .taskbtn svg path, #hyres .tasktext-div svg path{
     fill: rgba(255, 255, 255, 0.5);
@@ -511,10 +515,10 @@ details[open] .contt {
     background: #151515;
 }
 #hyres .ncxtasksection button.btn-primary{
-    color: #5ED3F0;
+    color: #FFFFFF;
 }
 #hyres .ncxtasksection button.btn-primary svg path{
-    fill: #5ED3F0;
+    fill: #FFFFFF;
 }
 #hyres .tasktext:hover{
     box-shadow: 0 0 16px rgb(255 255 255 / 30%);
@@ -613,24 +617,27 @@ details[open] .contt {
     max-height: 816px !important;
 }
 a.sin__op {
-    background: #5ED3F0;
-    border: 1px solid #5ED3F0;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
     border-radius: 50px;
     min-width: 135px;
     height: 44px;
-    color: #FFFFFF;
+    color: #000000;
     font-size: 16px;
     font-family: 'urbanist-light';
     text-transform: capitalize;
-    box-shadow: 0 0 15px rgba(94,211,240,.75);
+    box-shadow: 0 0 15px rgba(255,255,255,.5);
 }
 a.sin__op:focus, a.sin__op:focus-visible, a.sin__op:active,
 a.cl__drp:focus, a.cl__drp:focus-visible, a.cl__drp:active{
     outline: none;
     text-decoration: none;
 }
+a.sin__op:hover{
+    color: #FFFFFF;
+}
 a.cl__drp {
-    border: 1px solid #5ED3F0;
+    border: 1px solid #FFFFFF;
     border-radius: 50px;
     height: 44px;
     color: #FFFFFF;
@@ -641,14 +648,57 @@ a.cl__drp {
     padding: 0 2rem;
 }
 a.cl__drp:hover{
-    background: #5ED3F0;
-    box-shadow: 0 0 15px rgba(94,211,240,.75);
+    background: #FFFFFF;
+    color: #000000;
+    box-shadow: 0 0 15px rgba(255,255,255,.5);
 }
 #home__ffgrr.ncxapp-section .apps_barcod{
     min-width: 310px;
 }
 #home__ffgrr.ncxapp-section .apps-divi svg{
     display: block !important;
+}
+.bg-dark button.ind__tab.active{
+    border: 1px solid #FFFFFF !important;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+}
+.bg-dark button.ind__tab:hover{
+    border: 1px solid #FFFFFF !important;
+}
+.bg-dark button.crypto__tab.active, .bg-dark button.stock__tab.active{
+    border: 1px solid #FFFFFF !important;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+}
+.bg-dark button.crypto__tab:hover, .bg-dark button.stock__tab:hover{
+    border: 1px solid #FFFFFF !important;
+}
+.bg-dark .trading__platform .tiy__bd a.download{
+    background: transparent;
+    color: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+    border: 1px solid #FFFFFF;
+}
+.bg-dark .trading__platform .tiy__bd a.download:hover{
+    background: #FFFFFF;
+    color: #000000;
+}
+.bg-dark .trading__platform .tiy__bd a.sign__up:hover{
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+}
+.bg-dark .assets__ro.row .col:hover, .bg-dark .global__row.row .col:hover, .bg-dark .most_deri .col:hover{
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+}
+.bg-dark #hgff .new-generation .buttoninfo a{
+    border: 1px solid #FFFFFF !important;
+    color: #FFFFFF !important;
+}
+.bg-dark #hgff .new-generation .buttoninfo a:hover{
+    border: 1px solid #FFFFFF !important;
+    color: #000000 !important;
+    background: #FFFFFF !important;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
 }
 .mbl__lpl{
     display: none;
@@ -721,14 +771,14 @@ a.cl__drp:hover{
         padding: 50px 20px 0px 20px;
     }
     .mbl__lpl h1 {
-        font-size: 30px;
-        line-height: 34px;
-        font-family: 'urbanist-light';
+        font-size: 24px;
+        line-height: 32px;
+        font-family: 'urbanist-regular';
         color: #FFFFFF;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
     .mbl__lpl p {
-        font-size: 13px;
+        font-size: 14px;
         line-height: 18px;
         font-family: 'urbanist-light';
         color: #FFFFFF;
@@ -769,6 +819,7 @@ a.cl__drp:hover{
     }
     .bg-dark #hme__gg__ff.trade__derivative{
         padding: 50px 0px !important;
+        display: none !important;
     }
     .bg-dark .trading__platform .plat__ggre.row .col{
         padding-top: 70px !important;
@@ -796,10 +847,27 @@ a.cl__drp:hover{
         height: 36px !important;
         font-size: 14px !important;
         min-width: 110px !important;
+        background: transparent !important;
+        color: #FFFFFF !important;
     }
+    .mbl__lpl .home__btnff a.sin__op:hover{
+        background: #FFFFFF !important;
+        color: #000000 !important;
+    }
+    /* .bg-dark .trading__platform .tiy__bd a.download{
+        background: transparent;
+        color: #FFFFFF;
+        border: 1px solid #FFFFFF;
+    }
+    .bg-dark .trading__platform .tiy__bd a.download:hover{
+        background: #FFFFFF;
+        color: #000000;
+        border: 1px solid #FFFFFF;
+    } */
     .mbl__lpl .home__btnff a.cl__drp{
         height: 36px !important;
         font-size: 14px !important;
+        display: none;
     }
     .trade__cfd .ind__cont table tr {
         padding: 15px 10px !important;
@@ -934,4 +1002,13 @@ a.cl__drp:hover{
     .hide_mbl{
         display: none;
     }
+    #bannss a.byyy{
+        background: transparent;
+        color: #FFFFFF;
+        border: 1px solid #FFFFFF;
+    }
+    #bannss a.byyy:hover{
+        background: #FFFFFF !important;
+        color: #000000;
+    }    
 }

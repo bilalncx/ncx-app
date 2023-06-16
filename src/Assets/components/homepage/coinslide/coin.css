@@ -24,7 +24,7 @@
 }
 #home_coins .coin__tb a.lnch_dx{
     height: 44px;
-    border: 1px solid #5ED3F0;
+    border: 1px solid #FFFFFF;
     border-radius: 50px;
     color: #FFFFFF;
     font-size: 16px;
@@ -34,9 +34,10 @@
     padding: 0 4rem;
 }
 #home_coins .coin__tb a.lnch_dx:hover{
-    background: #5ED3F0;
-    box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
     text-decoration: none;
+    color: #000000;
 }
 #home_coins .coin__tb a.lnch_dx:focus, #home_coins .coin__tb a.lnch_dx:focus-visible{
     outline: none;

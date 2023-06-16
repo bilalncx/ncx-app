@@ -61,7 +61,8 @@ function NCXAPPSection()
                     <source src={BuyCryptoVideo} type="video/mp4" />
                 </video>
                 <div className="gsfersdsd">
-                    <h1>NCX Exchange All-in-One Crypto Exchange, Trading Platform & DeFi Ecosystem</h1>
+                    <h1>NCX Exchange</h1>
+                    <p>All-in-one Hybrid CEX | DEX Crypto Exchange, Trading Platform & DeFi Ecosystem</p>
                     <div className="home__btnff">
                         <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
                         <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>

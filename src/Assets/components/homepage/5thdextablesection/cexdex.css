@@ -150,7 +150,9 @@
     background: #000;
 }
 
-
+.mbL__all__device{
+    display: none;
+}
 #mbl__slida{
     display: none;
 }
@@ -361,6 +363,12 @@ div#mobile-tabsection {
         width: 20px;
         background: rgba(255,255,255,0.5);
         transition: all 0.3s;
+    }
+    .mbL__all__device{
+        display: block;
+    }
+    .bg-dark .mbL__all__device .plat__ggre.row{
+        display: block;
     }
     .bg-dark .plat__ggre.row{
         display: none;
