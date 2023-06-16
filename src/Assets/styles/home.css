@@ -614,7 +614,7 @@ details[open] .contt {
     column-gap: 15px;
 }
 #home__ffgrr.ncxapp-section #ncx_buycrypto_video video{
-    max-height: 816px !important;
+    max-height: unset !important;
 }
 a.sin__op {
     background: #FFFFFF;

@@ -24,7 +24,7 @@ function NCXAPPSection()
                             playsInline={true}
                             preload="auto"
                             >
-                            <source src={BuyCryptoVideo} type="video/mp4" />
+                            <source src={NewCardVideo} type="video/mp4" />
                         </video>
                     </div>
                 </div>
