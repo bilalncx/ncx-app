@@ -171,82 +171,98 @@
 
 
 /* New CSS */
-#hme__gg__ff.trade__derivative{
+#hme__gg__ff{
     padding: 100px 0px !important;
     position: relative;
-    /* z-index: 11; */
 }
-/* #hme__gg__ff h1.fg__rer {
-    font-family: 'urbanist-regular' !important;
-} */
-#hme__gg__ff p{
-    font-family: 'urbanist-light' !important;
+.rf__aab.row {
+    display: flex;
+    flex-flow: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 0;
 }
-#hme__gg__ff .logo__ff h1{
-    font-family: 'urbanist-semibold' !important;
+.rf__aab.row .col {
+    backdrop-filter: blur(2px);
+    background: hsla(0,0%,100%,.05);
+    border: 1px solid hsla(0,0%,100%,.15);
+    border-radius: 4px;
+    flex: 0 0 21%;
+    min-height: 324px;
+    padding: 25px 20px;
+    text-align: center;
 }
-#hme__gg__ff .mbl__stng span {
-    display: inline-block;
+.rf__aab.row img {
+    height: 80px;
+    width: 80px;
 }
-#hme__gg__ff .io_od span {
-    display: inline-block;
+.rf__aab.row h3{
+    color: #fff;
+    font-family: roboto-light;
+    font-size: 22px;
+    margin: 25px auto 20px
 }
-#hme__gg__ff .most_deri .col:nth-child(4) .io_od{
-    margin-bottom: 23px !important;
+.rf__aab.row p{
+    color: #b9b9bb;
+    font-family: roboto-light;
+    font-size: 16px;
+    line-height: 22px;
 }
+.rf__aab.row .col:hover {
+    border: 1px solid #fff;
+    box-shadow: 0 0 15px hsla(0,0%,100%,.75);
+}
+
 
 
 
 /* Mobile Slier Srt */
-.mobils_bs {
-    padding: 20px 0px 30px 0px;
-}
-.mobils_bs .carousel__dot-group {
-    text-align: center;
-}
-.mobils_bs button.carousel__dot--selected {
-    width: 40px !important;
-    background: #FFFFFF !important;
-    border: 2px solid #FFFFFF !important;
-    border-radius: 50px !important;
-}
-.mobils_bs button.carousel__dot--selected span{
-    background: #FFFFFF;
-}
-.mobils_bs .carousel__dot-group {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 5px;
-    margin-top: 20px;
-}
-.mobils_bs button.carousel__dot {
-    width: 7px;
-    border: none;
-    background: rgba(255,255,255,0.5);
-    border-radius: 50px;
-    padding: 0px;
-    height: 4px;
-}
-.mobils_bs button.carousel__dot:hover{
-    width: 20px;
-    background: rgba(255,255,255,0.5);
-    transition: all 0.3s;
-}
-.mobils_bs p.mbl__stng {
-    margin-top: 20px;
-}
-.mobils_bs .carousel__slider-tray {
-    gap: 20px;
-    align-items: flex-start !important;
-}
-.mobils_bs .carousel__slider-tray-wrapper.carousel__slider-tray-wrap--horizontal {
-    display: flex !important;
-    justify-content: left !important;
-}
-.mobils_bs .carousel__slide{
-    width: 300px !important;
-}
-.mart_fly{
-    padding-bottom: 20px;
+@media screen and (max-width: 800px){
+    .rf__aab.row {
+        display: none;
+    }
+    #hme__gg__ff .mbl__sec__cr .global__row.row .col{
+        min-height: unset !important
+    }
+    #hme__gg__ff{
+        padding: 50px 0px !important;
+        margin-top: 5px;
+    }
+    .mbl__sec__cr h3{
+        font-size: 18px;
+        color: #FFFFFF;
+        line-height: 26px;
+        margin: 20px 0px 10px 0px;
+    }
+    #hme__gg__ff .mbl__sec__cr p{
+        min-height: 100px !important;
+    }
+    #hme__gg__ff .mbl__sec__cr .global__row .carousel__slide{
+        padding-bottom: 10px !important;
+    }
+    #hme__gg__ff .mbl__sec__cr .carousel__dot-group{
+        margin-top: 10px !important;
+    }
+    div#hme__gg__ff:before {
+        content: "";
+        display: block;
+        height: 0.75px;
+        margin: 0 auto;
+        position: absolute;
+        top: 0;
+        width: 48%;
+        background: linear-gradient(270deg,#fff,hsla(0,0%,100%,0));
+        left: 2.1%;
+    }
+    #hme__gg__ff:after {
+        content: "";
+        display: block;
+        height: 0.75px;
+        margin: 0 auto;
+        position: absolute;
+        top: 0;
+        width: 48%;
+        background: linear-gradient(90deg,#fff,hsla(0,0%,100%,0));
+        right: 2.1%;
+    }
 }
