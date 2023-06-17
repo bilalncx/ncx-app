@@ -874,12 +874,14 @@ a.cl__drp:hover{
     .mbl__lpl .home__btnff a.cl__drp{
         height: 36px !important;
         font-size: 14px !important;
+        border: 1px solid #000000 !important;
+        box-shadow: none !important;
     }
     .mbl__lpl .home__btnff a.cl__drp:hover{
         border: 1px solid #FFFFFF !important;
         background: transparent !important;
         color: #FFFFFF !important;
-        box-shadow: 0 0 15px rgba(255,255,255,.5);
+        box-shadow: 0 0 15px rgba(255,255,255,.5) !important;
     }
     .trade__cfd .ind__cont table tr {
         padding: 15px 10px !important;
