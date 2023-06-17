@@ -20,15 +20,16 @@ video#ncx-main-video {
     display: flex;
 }
 .generate-div h1{
-    font-size: 38px;
-    line-height: 46px;
-    font-family: 'urbanist-medium';
+    font-size: 32px;
+    line-height: 40px;
+    font-family: 'urbanist-regular';
 }
 .generate-div p{
     font-size: 16px;
     line-height: 22px;
     width: 60%;
     margin-top: 15px;
+    font-family: 'urbanist-light';
 }
 .taskdiv {
     background: #F7F9FE;

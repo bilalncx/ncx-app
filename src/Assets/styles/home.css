@@ -481,7 +481,7 @@ details[open] .contt {
 }
 #hyres .earnncx {
     background: #000000;
-    padding: 80px 0px;
+    padding: 80px 0px 40px 0px;
 }
 #hyres .ncxtasksection h1{
     color: #FFFFFF;
@@ -646,6 +646,7 @@ a.cl__drp {
     text-transform: capitalize;
     min-width: fit-content;
     padding: 0 2rem;
+    box-shadow: 0 0 15px rgba(255,255,255,.5);
 }
 a.cl__drp:hover{
     background: #FFFFFF;
@@ -698,7 +699,7 @@ a.cl__drp:hover{
     border: 1px solid #FFFFFF !important;
     color: #000000 !important;
     background: #FFFFFF !important;
-    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
 }
 .mbl__lpl{
     display: none;
@@ -754,7 +755,7 @@ a.cl__drp:hover{
         padding: 0px !important;
     }
     .gsfersdsd {
-        padding: 20px 20px 0px 20px;
+        padding: 20px 20px 10px 20px;
         text-align: center;
     }
     .mbl__lpl{
@@ -779,11 +780,14 @@ a.cl__drp:hover{
         margin-bottom: 5px;
     }
     .mbl__lpl p {
-        font-size: 14px;
-        line-height: 18px;
+        font-size: 16px;
+        line-height: 22px;
         font-family: 'urbanist-light';
         color: #FFFFFF;
         margin-bottom: 20px;
+    }
+    .mbl__lpl p span{
+        display: block;
     }
     .yy__tr span {
         background: rgba(33, 33, 33, 0.8);
@@ -870,7 +874,12 @@ a.cl__drp:hover{
     .mbl__lpl .home__btnff a.cl__drp{
         height: 36px !important;
         font-size: 14px !important;
-        display: none;
+    }
+    .mbl__lpl .home__btnff a.cl__drp:hover{
+        border: 1px solid #FFFFFF !important;
+        background: transparent !important;
+        color: #FFFFFF !important;
+        box-shadow: 0 0 15px rgba(255,255,255,.5);
     }
     .trade__cfd .ind__cont table tr {
         padding: 15px 10px !important;

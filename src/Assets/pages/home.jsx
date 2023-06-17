@@ -65,7 +65,7 @@ function MainHome()
 
             {/* <HomeCEXDEXTableSection /> */}
 
-            <ImageScrollHome />
+            {/* <ImageScrollHome /> */}
 
             <NewFeatureSection />
 
@@ -74,6 +74,8 @@ function MainHome()
             <HomeNCXCardBox />
 
             <NCXCardRanges />
+
+            <HomeBannerSection />
 
             <div className="bbn__bm">
                 <HomeBannerSection />
@@ -90,8 +92,6 @@ function MainHome()
             </div>
 
             <HomeWalletStakes />
-
-            <HomeBannerSection />
 
             <HomeMobilePartner />
             

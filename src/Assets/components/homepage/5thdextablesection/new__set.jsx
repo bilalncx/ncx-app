@@ -105,7 +105,7 @@ function Indices5()
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
                             <h2>{t("ncx_c_trader_app")}</h2>
-                            <CTrader2 />
+                            <CTrader1 />
                         </div>
                         <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">

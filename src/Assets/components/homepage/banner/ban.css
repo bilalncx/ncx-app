@@ -1,7 +1,7 @@
 #bannss.ind__banner h1 {
-    font-size: 44px;
+    font-size: 32px;
     line-height: 53px;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-regular';
     color: #FFFFFF;
     text-align: center;
 }
@@ -16,42 +16,45 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 30px 0px 120px 0px;
+    margin: 30px 0px 0px 0px;
     gap: 20px;
 }
 a.byyy {
     width: 140px;
     height: 44px;
-    background: #FFFFFF;
-    box-shadow: 0px 0px 20px (255,255,255,0.5);
+    background: transparent;
+    box-shadow: 0px 0px 15px (255,255,255,0.5) !important;
     border-radius: 50px;
-    color: #000000;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
     font-family: 'urbanist-light';
     font-size: 16px;
     text-transform: capitalize;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5) !important;
 }
 a.marr {
     width: 140px;
     height: 44px;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #000000;
     border-radius: 50px;
     color: #FFFFFF;
     font-family: 'urbanist-light';
     font-size: 16px;
-    text-transform: capitalize; 
+    text-transform: capitalize;
 }
 a.byyy:hover{
-    background: transparent !important;
+    background: #FFFFFF !important;
     border: 1px solid #FFFFFF;
-    color: #FFFFFF;
+    color: #000000;
 }
 a.byyy:focus, a.byyy:focus-visible, a.byyy:active{
     outline: none;
     text-decoration: none;
 }
 a.marr:hover{
-    background: #FFFFFF;
-    color: #000000;
+    border: 1px solid #fFFFFF;
+    color: #FFFFFF;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5) !important;
 }
 a.marr:focus, a.marr:focus-visible, a.marr:active{
     text-decoration: none;
@@ -60,9 +63,9 @@ a.marr:focus, a.marr:focus-visible, a.marr:active{
 #bannss.ind__banner .slvs {
     padding: 50px 0px 30px 0px;
 }
-#bannss.ind__banner{
+/* #bannss.ind__banner{
     padding-bottom: 0px !important
-}
+} */
 #bannss.ind__banner .slvs:before, #bannss.ind__banner .slvs:after{
     display: none !important;
 }

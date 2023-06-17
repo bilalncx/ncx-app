@@ -260,4 +260,7 @@ p.nhgt span{
     .hh__qa {
         min-height: 52px;
     }
+    .mki__bh{
+        display: none;
+    }
 }

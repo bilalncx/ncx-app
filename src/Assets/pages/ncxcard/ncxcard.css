@@ -37,6 +37,9 @@
 #mobile-showcard{
     display: none;
 }
+.new_cverd .card_box.csdvw__vew:before, .new_cverd .card_box.csdvw__vew:after{
+    display: none !important;
+}
 @media screen and (max-width: 800px){
     #mobile-showcard{
         display: block;
