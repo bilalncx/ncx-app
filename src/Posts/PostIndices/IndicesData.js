@@ -1,5 +1,208 @@
 const data = [
   {
+    id: 532,
+    title: 'S&P 500 Halts Winning Run With Big Options Test: Markets Wrap',
+    category: 'Indices',
+    subCategory: ['S&P', 'Halts', 'market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- A seemingly unstoppable stock rally fueled by Wall Street’s obsession over anything related to artificial intelligence faltered on Friday, with the market facing the test of a massive options expiration.</p>
+    </div>,
+    authorName: 'Rita Nazareth',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 17, 2023 - 2:20 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-679.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- A seemingly unstoppable stock rally fueled by Wall Street’s obsession over anything related to artificial intelligence faltered on Friday, with the market facing the test of a massive options expiration.</p>
+    	<p>Traders also took some chips off the table ahead of Monday’s US holiday. The Nasdaq 100 underperformed, led by losses in giants like Microsoft Corp. and Apple Inc. — which had recently closed at all-time highs.</p>	
+    	<p>A worrisome warning from Micron Technology Inc. weighed on chipmakers, while Adobe Inc. climbed on a bullish forecast. The S&P 500 halted a six-day winning streak, but still notched its best week since March.</p>	
+    	<p>Stock traders caught between the fear of missing out on this year’s rally and mounting concerns about an overbought market had something else to cope with this week: positioning.</p>
+      <p>With an estimated $4.2 trillion in options contracts tied to stocks and indexes scheduled to mature, traders would typically need to either roll over existing positions or start new ones. The impact of derivatives on trading this week was so significant that, at one point, the market’s favorite volatility gauge was climbing alongside the S&P 500.</p>
+      <p>The so-called VIX finally gave in, and with Friday’s plunge, it ended up erasing this week’s advance.</p>
+      <p>“The market could see some wild swings in either direction for no fundamental (or even technical) reason at all,” on a day like today, wrote Matt Maley, chief market strategist Miller Tabak + Co. “So nobody should read anything into today’s movement.”</p>
+      <h3>Inflation, Putin, Fed</h3>
+      <p>Indeed, the market seemed to have ignored to a certain extent some developments that would otherwise be considered catalysts for trading.</p>
+      <p>That was the case with data showing a slump in consumer year-ahead inflation expectations and the latest geopolitical news. President Vladimir Putin said Russia has delivered its first tactical nuclear weapons to Belarus, three months after announcing the plan that threatens to ratchet up tensions with the US and its allies over the war in Ukraine.</p>
+      <p>Not even hawkish Fedspeak had much of an impact or any impact at all on trading.</p>
+      <p>“The market caught a renewed bid from traders suffering from FOMO and ‘chasing’ the market higher,” said Tom Essaye, a former Merrill Lynch trader who founded The Sevens Report newsletter. “We are not bearish stocks right now, but we are growing cautious on the very near-term direction of the market given how quickly the market priced in a very Goldilocks macroeconomic environment based on only limited evidence of improvement in the current major market influences.”</p>
+      <p>The rally in US stocks is about to run out of steam, according to Citigroup Inc.</p>
+      <p>Strategists at the bank led by Scott Chronert this week reiterated their call for the S&P 500 to drop to 4,000 by year-end, and initiated a new target of 4,400 by mid-2024, or just below Friday’s 4,410 close.</p>
+      <p>Bank of America Corp.’s Michael Hartnett said Friday he’s not convinced this is the start of a “brand, new shiny bull market.” The current market looks more like 2000 or 2008, with a “big rally before big collapse,” Hartnett wrote.</p>
+      <p>Equities had about $22 billion inflows in the week through June 14, while bonds had $6.7 billion of additions, BofA said in a note, citing EPFR Global data.</p>
+      <p>In other corporate news, iRobot Corp. soared after Amazon.com Inc.’s proposed $1.7 billion deal to buy the robot vacuum firm was given the all-clear by the UK’s antitrust agency.</p>
+      <p>Virgin Galactic Holdings Inc., Richard Branson’s space-tourism venture, surged after announcing that its long-awaited first commercial passenger mission will take off as soon as June 27.</p>
+      <p>Some of the main moves in markets:</p>
+      <h3>Stocks</h3>
+      <ul>
+        <li>The S&P 500 fell 0.4% as of 4 p.m. New York time</li>
+        <li>The Nasdaq 100 fell 0.7%</li>
+        <li>The Dow Jones Industrial Average fell 0.3%</li>
+        <li>The MSCI World index was little changed</li>
+      </ul>
+      <h3>Currencies</h3>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index rose 0.1%</li>
+        <li>The euro was little changed at $1.0936</li>
+        <li>The British pound rose 0.3% to $1.2822</li>
+        <li>The Japanese yen fell 1.1% to 141.84 per dollar</li>
+      </ul>
+      <h3>Cryptocurrencies</h3>
+      <ul>
+        <li>Bitcoin rose 3.3% to $26,393.75</li>
+        <li>Ether rose 3.2% to $1,721.52</li>
+      </ul>
+      <h3>Bonds</h3>
+      <ul>
+      <li>The yield on 10-year Treasuries advanced five basis points to 3.76%</li>
+      <li>Germany’s 10-year yield declined three basis points to 2.47%</li>
+      <li>Britain’s 10-year yield advanced three basis points to 4.41%</li>
+      </ul>
+      <h3>Commodities</h3>
+      <ul>
+        <li>West Texas Intermediate crude rose 1.5% to $71.66 a barrel</li>
+        <li>Gold futures fell 0.1% to $1,968.50 an ounce</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Vildana Hajric and Isabelle Lee.</p>
+    </div>
+  },
+  {
+    id: 531,
+    title: 'Dow Jones Today: Index Drops as Market Rally Fizzles',
+    category: 'Indices',
+    subCategory: ['Dow jones', 'Index', 'market'],
+    description: <div className="blog-desc">
+      <p>Investors couldn’t keep up the momentum from this week’s Fed rates news, but the Dow Jones Industrial Average still moved higher for the third-straight week</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 17, 2023 - 12:37 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-678.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Investors couldn’t keep up the momentum from this week’s Fed rates news, but the Dow Jones Industrial Average still moved higher for the third-straight week</p>
+      <p>Investors weren’t able to keep up the excitement over Federal interest rates and more positive economic data today, but it wasn't enough to derail a positive week for the Dow Jones Industrial Average (DJIA).</p>
+      <h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>The Dow fell about 0.2% to finish a week where the Index moved higher by 1.3%.</li>
+        <li>Apple reaches an intraday all-time high before falling back 0.6%.</li>
+        <li>After announcing a new chip plant in Poland, Intel was the Dow’s best-performing stock.</li>
+        <li>Disney falls lower after a top executive leaves amid rumbles about the company’s restructuring.</li>
+      </ul>
+    	<p>The Dow gained about 1.3% over the week, the third straight the index has moved higher. Lower by 0.5% today, the Nasdaq finished the week higher by 2.8%, while the S&P 500’s 0.3% drop today didn’t stop it from gaining 2.4% on the week.</p>	
+    	<p>With the Federal Reserve rate hike decision in the rear-view mirror, investors got more signals that consumers were confident about the economy through the University of Michigan Consumer Sentiment Index (MCSI), which came in higher than expected.</p>	
+    	<p>Intel (INTC) shares moved higher by 2% after it announced it would build a $4.6 billion chip manufacturing plant in Poland, its third in Europe, as it expands to meet the continent’s growing demand for semiconductor chips.</p>
+      <p>Walgreens Boots Alliance (WBA) shares moved higher by 1.5% after it announced it signed a deal with a biotech startup to expand its space in the clinical trials business, a market that competitor CVS (CVS) recently exited.CVS dropped 2.5%.</p>
+      <p>Walt Disney (DIS) shares were the worst performing of the Dow 30 after news of a top executive's departure. The Wall Street Journal reported that Disney Chief Financial Officer Christine McCarthy clashed with CEO Bob Iger and other executives, particularly over a restructuring of the entertainment division that she didn’t believe went far enough.</p>
+      <p>Shares of Microsoft (MSFT) fell 1.2% though it still managed to eclipse its all-time high, trading above $344, higher than its previous high of $343.11 from November 2021.UnitedHealth Group (UNH) continued its slide, falling 1.2% after earlier in the week reporting that surgical procedures were rising, threatening the insurer's profits.</p>
+      <p>After reaching its all-time high price in intraday trading, Apple (AAPL) shares fell 0.6% to trade below $185, but not before reaching $186.99 earlier in the session.</p>
+    </div>
+  },
+  {
+    id: 530,
+    title: 'Stock rally takes breather, but S&P 500, Nasdaq have best week since March: Stock market news today',
+    category: 'Indices',
+    subCategory: ['S&P', 'Stock', 'Nasdaq'],
+    description: <div className="blog-desc">
+      <p>US stocks lost steam on Friday as a recent rally took a pause amid signs of a resilient economy that boosted hopes the Federal Reserve could end its rate-hike campaign soon.</p>
+    </div>,
+    authorName: 'Karen Friar and Alexandra Canal',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 17, 2023 - 12:05 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-677.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>US stocks lost steam on Friday as a recent rally took a pause amid signs of a resilient economy that boosted hopes the Federal Reserve could end its rate-hike campaign soon.</p>
+    	<p>The S&P 500 (^GSPC) and Dow Jones Industrial Average (^DJI) finished down about 0.3% on Friday, while the technology-heavy Nasdaq Composite (^IXIC) was down 0.7%. The S&P 500 and Nasdaq still finished the week with their best gains since March.</p>	
+    	<p>In economic data, the University of Michigan Consumer Sentiment Index showed consumers are slightly more confident about the state of the economy, which could help tilt a "hawkish" Fed closer to a July rate hike.</p>	
+    	<p>The June preliminary number came in at 63.9, compared to expectations of 60.5, according to estimates from Bloomberg. The index had dipped to 59.2 last month in its first fall since February.</p>
+      <p>Global stocks got a lift from growing expectations that China will have to bump up stimulus as its recovery stutters.</p>
+      <h3>Stocks close lower to end busy trading week</h3>
+      <p>US stocks ended Friday's trading session lower after the three major indices saw fresh year-to-date highs the previous day following Wednesday's "hawkish hold" from the Federal Reserve.</p>
+      <p>The S&P 500 (^GSPC) and technology-heavy Nasdaq Composite (^IXIC) snapped a 6-day winning streak to close down 0.4% and 0.7%, respectively, but still notched their best weeks since March. The Dow Jones Industrial Average (^DJI) dropped more than 105 points, or 0.3%.</p>
+      <p>The yield on the benchmark 10-year U.S. Treasury (^TNX) rose 4 basis points to trade at roughly 3.77%. Crude oil (CL=F) climbed about 1.5% to settle at around $71.69 a barrel.</p>
+      <h3>Another busy week of earnings, econ data ahead</h3>
+      <p>Via Yahoo Finance's Brent Sanchez, here's a look at what to expect on the earnings docket and economic calendar in the week ahead.</p>
+      <h3>Spotify parts ways with Prince Harry and Meghan Markle</h3>
+      <p>Spotify (SPOT) won't be renewing its podcast deal with the production company founded by Prince Harry and Meghan Markle, Archewell Audio. The news comes less than a year after the debut of Markle's first podcast, "Archetypes."</p>
+      <p>"Spotify and Archewell Audio have mutually agreed to part ways and are proud of the series we made together," Spotify and Archewell Audio announced in a joint statement on Thursday. No reason was given for the split.</p>
+      <p>Spotify shares were up more than 3% on Friday following the news. The stock is up more than 85% year-to-date.</p>
+      <p>Earlier this month, the audio giant announced it'd be eliminating 200 jobs, or 2% of its workforce, within its podcast division, citing "a strategic realignment."</p>
+      <p>Spotify cut 6% of its workforce, or about 600 employees, earlier this year. At that time, Spotify also announced a business restructuring that led to the departure of chief content officer and advertising business officer, Dawn Ostroff.</p>
+      <h3>Nasdaq set for 8th-straight winning week, typically a bullish signal</h3>
+      <p>The Nasdaq Composite (^IXIC) is set to extend its winning streak to 8 straight weeks, which is somewhat rare.</p>
+      <p>This has occurred only four times this century and 23 times since the Nasdaq's inception five decades ago.</p>
+      <p>Looking at subsequent returns, the pattern is increasingly bullish as the length of time is increased. One week later, 57% of the returns are positive. This increases to 87% a year later, with an average gain of 16%.</p>
+      <p>One standout to the downside is the April 2010 streak, which was followed two weeks later by the original Flash Crash on May 6, 2010, which saw the Dow fall 1,000 points intraday. At the time, QE1 had completed, and the Treasury was busy refilling its Supplementary Financing Program account at the Federal Reserve back up to $200 billion.</p>
+      <p>There's a modern parallel, as the Treasury is now about to refill its Treasury General Account (TGA) at the Fed to the tune of $1 trillion (potentially, though there's no explicit target).</p>
+      <p>The 1981 bull streak reversed ahead of a 14-month bear market, egged on at the time by Fed Chair Paul Volcker's battle against inflation.</p>
+      <p>In 1999, the Nasdaq's rally break spelled trouble for investors over the long term.</p>
+      <p>But as history shows, extended rallies in the market typically lead to further gains in the months ahead.</p>
+      <h3>Michael Jordan's meme sale</h3>
+      <p>Michael Jordan has agreed to sell his majority stake in the Charlotte Hornets to a group led by Gabe Plotkin and Rick Schnall, the league announced on Friday.</p>
+      <p>Jordan will retain a minority ownership share as part of the deal, which is reportedly valued at about $3 billion, according to ESPN.</p>
+      <p>Plotkin, who acquired a minority stake in the Hornets in 2019, founded hedge fund Melvin Capital, which lost billions in the meme stock fiasco of 2021 after the investor bet against meme darling GameStop (GME). The firm shut down last year after having taken heavy losses.</p>
+      <p>Melvin Capital lost 39% in 2021 and another 23% in the first quarter of last year, Reuters reported in April 2022.</p>
+      <h3>Fed officials 'comfortable doing more'</h3>
+      <p>Richmond Federal Reserve President Tom Barkin said Friday if inflation doesn’t fall closer to the Fed's target of 2%, he’s comfortable raising interest rates higher, as reported by Yahoo Finance's Jennifer Schonberger.</p>
+      <p>"I am still looking to be convinced of the plausible story that slowing demand returns inflation relatively quickly to that target," Barkin said while speaking at the Maryland Government Finance Officer Association. "If coming data doesn’t support that story, I’m comfortable doing more."</p>
+      <p>In the week ahead, Fedspeak will be a big part of the conversation for investors with Fed Chair Jay Powell set to testify before lawmakers Wednesday and Thursday as part of his semi-annual testimony before the House and Senate.</p>
+      <p>Ahead of Powell's testimony, the Fed released its semi-annual monetary policy report, which reiterated the central bank is "strongly committed to returning inflation to its 2 percent objective."</p>
+      <p>Still, that might take some time, according to updated economic forecasts in the Fed's Summary of Economic Projections (SEP.) The SEP indicated the Federal Reserve sees core inflation peaking at 3.9% this year — higher than March's projection of 3.6% — before cooling to 2.6% next year and 2.2% in 2025.</p>
+      <p>Additionally, latest Fed "dot plot," which maps out policymakers' expectations for where interest rates could be headed in the future, suggests rates will continue to tick higher in 2023.</p>
+      <p>Fed officials now see the fed funds rate peaking at 5.6% this year, higher than the Fed's previous March projection of 5.1%.This suggests the Fed will likely raise rates by 0.25% two more times this year.</p>
+      <h3>Stocks lose steam</h3>
+      <p>Stocks lost some steam in late morning trading on Friday.</p>
+      <p>The S&P 500 (^GSPC) and Dow Jones Industrial Average (^DJI) traded near the flatline, while the technology-heavy Nasdaq Composite (^IXIC) flipped into the red.</p>
+      <p>The moves came after The University of Michigan Consumer Sentiment Index showed consumers are slightly more confident about the state of the economy, which could help tilt a "hawkish" Fed closer to a July rate hike.</p>
+      <p>The yield on the benchmark 10-year U.S. Treasury (^TNX) rose 3 basis points to trade at roughly 3.76%.</p>
+      <h3>Disney CFO exit 'yet another wrinkle' to Bob Iger's restructuring</h3>
+      <p>In another surprise executive shakeup, Disney (DIS) announced Thursday its CFO Christine McCarthy will step down from her longstanding role due to a family medical leave of absence.</p>
+      <p>McCarthy, a close confidant of Iger who had served as Disney's financial chief for eight years, will be replaced by Kevin Lansberry, executive vice president and CFO of Disney Parks, Experiences and Products, effective July 1.</p>
+      <p>Lansberry will serve as interim CFO until a full-time replacement is found. McCarthy will stay on the leadership team as a strategic advisor and will assist with the process of identifying and onboarding a long-term successor "to ensure a smooth and successful transition," Disney said.</p>
+      <p>Wells Fargo analyst Steve Cahall said Lansberry will face a slew of uphill battles heading into the back half of 2023, including a softening of parks growth due to inflation, a murky timeline for direct-to-consumer (DTC) margin improvements — the biggest issue, in Cahall's view — in addition to the purchase of Hulu's minority stake and the impact of taking ESPN fully over-the-top.</p>
+      <p>"Separately these are speed bumps to the stock. Together they're obstacles," he wrote in a new note to clients on Friday.</p>
+      <p>Disney shares were down about 1% on Friday following the news.</p>
+      <h3>US consumer confidence ticks up</h3>
+      <p>The University of Michigan Consumer Sentiment Index showed consumers are feeling a bit better about the state of the economy, a data point that could help tilt a "hawkish" Fed closer to a July rate hike.</p>
+      <p>The June preliminary number came in at 63.9, compared to expectations of 60.5, according to estimates from Bloomberg. The index had dipped to 59.2 last month in its first dip since February.</p>
+      <p>Also, the survey found consumers' expectations of inflation in the year ahead fell significantly. Survey respondents expect inflation at 3.3% by this time next year, compared to a 4.2% reading last month. That is the lowest reading since March 2021.</p>
+      <h3>Stocks open higher</h3>
+      <p>Stocks opened higher on Friday as markets look to close out another week of gains following the the Federal Reserve's 'hawkish' pause on Wednesday.</p>
+      <p>The S&P 500 (^GSPC), Dow Jones Industrial Average (^DJI), and Nasdaq Composite (^IXIC) were each up about 0.3% shortly after the opening bell.</p>
+      <p>The University of Michigan Consumer Sentiment Index is due out at 10 a.m. ET, offering the final piece of economic data for the week. Economists expect the June preliminary number to come in at 60.5, compared to 59.2 last month, according to estimates from Bloomberg.</p>
+      <h3>The most enthusiastic market rally in 19 years</h3>
+      <p>In case you haven't heard — the stock market has been going up.</p>
+      <p>After entering a new bull market last week, stock bulls continue to remain in control with the major averages again poised for weekly gains.</p>
+      <p>And though the initial knock on this bull run is that it was only a few stocks doing the leading, Yahoo Finance's Jared Blikre noted in Friday's Morning Brief that the other 493 members of the S&P 500 are now getting in on the action.</p>
+      <p>Amid this broadening of the market rally, the S&P 500 has also become overextended, at least compared to market history.</p>
+      <p>Here's Bespoke Investment Group on the superlative: "For the last ten trading days now, the S&P 500 has closed more than two standard deviations above its 50-day moving average (what we call short-term 'extreme' overbought levels), and yesterday almost closed three standard deviations above its 50-DMA (+2.97). That was its most overbought close since November 2004 which was right after George W Bush won re-election over John Kerry."</p>
+      <p>In plain English, think of the 50-day moving average as the best indicator of the market's short-term direction. How much the market trades above or below that level, then, can be thought of as a proxy for whether investors are more or less excited about the market's prevailing trend than the 50-day suggests.</p>
+      <p>Bespoke also notes that the current streak of 10 days in "extreme overbought" territory hasn't exactly been common over the last 70-odd years of market history, with just 35 such streaks having occurred since 1952. This is also the first time we've seen the index at "extreme overbought" levels since April 2021.</p>
+      <p>The longest streak on record? 17 trading days back in December 1995.</p>
+      <h3>Virgin Galactic rises 40% on commercial flight announcement</h3>
+      <p>Shares of Virgin Galactic (SPCE) were... taking off... lifting off... reaching terminal velocity, etc. after the company announced late Thursday plans to begin commercial space operations later this month.</p>
+      <p>In a release, the company said — "The first commercial spaceflight, 'Galactic 01,' is planned to fly between June 27 – June 30, 2023. The second commercial spaceflight, 'Galactic 02,' will follow in early August 2023, with monthly spaceflights expected thereafter."</p>
+      <p>Virgin Galactic stock was up as much as 42% in pre-market trade on Friday.</p>
+      <p>Over the last year, shares of the company are down about 30% as investors shied away from more speculative plays amid the Fed's rate hikes. Since its peak in early June 2021, the stock is off more than 80%.</p>
+      <h3>Global stocks rise to highest levels in 14 months</h3>
+      <p>The upbeat mood was playing out in global equities on Friday, amid hopes for more Chinese stimulus and for an end to Fed rate hikes.</p>
+      <p>The MSCI All-World index advanced about 0.2% on Friday, to its highest level since mid-April 2022.</p>
+      <p>The gains came as Japan's Nikkei 225 rose for the 10th week in a row, to log its longest win streak since February 2013. On Friday, the Bank of Japan decided to leave its negative interest rate unchanged.</p>
+      <h3>Stock futures flat as upbeat mood fades</h3>
+      <p>US stock futures lost hold of earlier gains to trade around the flatline Friday, as investors looked to economic data for cues to when and whether the Fed will hike rates again.</p>
+      <p>Futures on the Dow Jones Industrial Average (^DJI) were down 15 points, less than 0.1%, while those on the S&P 500 (^GSPC) showed a similar loss. Contracts on the technology-heavy Nasdaq Composite (^IXIC) we up just less than 0.1%.</p>
+      <p>The major benchmarks rallied Thursday, after data showed retail sales in May were stronger than expected in the US.</p>
+      <p>The University of Michigan's consumer sentiment report is due later Friday, and will be watched for clues to the economic outlook.</p>
+    </div>
+  },
+  {
     id: 529,
     title: 'Goldman Sachs Lifts S&P 500 Price Target; Here Are 2 High-Upside Stocks to Play the Bounce',
     category: 'Indices',

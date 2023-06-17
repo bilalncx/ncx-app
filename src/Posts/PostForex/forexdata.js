@@ -1,5 +1,101 @@
 const data = [
   {
+    id: 542,
+    title: 'GBP/JPY Weekly Forecast – British Pound Continues to Skyrocket',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound rallied rather significantly during the course of the week, using the ¥175 level as a launching pad. Looking at the size of the candlestick,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 6:09 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-680.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Weekly Technical Analysis</h3>
+	    <p>The British pound rallied rather significantly during the course of the week, using the ¥175 level as a launching pad. Looking at the size of the candlestick, it’s obviously a very bullish move, and we have broken through a ton of massive resistance. At this point, we’re even above the ¥180 level, which is a large, round, psychologically significant figure. That being said, we need some type of pullback in order to get involved. Chasing the trade all the way up at this level is very dangerous.</p>
+    	<p>Markets can’t go straight up in the air forever, and you need to be very cautious with that type of attitude. I think at this point you need to find value, and that value may look kind of scary at one point. We might see some type of massive move lower in the short term, that is what gets people bailing.</p>	
+    	<p>You need lower prices, even if I do think that given enough time, we will reach the ¥200 level. Obviously, that is a longer-term target, and even though we got to the ¥180 level much quicker than anticipated, I don’t envision a market where we take off straight up in the air to the ¥200 level.</p>	
+    	<p>If we were to turn out and break down below the ¥165 level, then it’s possible that we could go down to the ¥172.50 level, an area that had been supported during the previous week. Below there, then we have the ¥170 level. All things being equal, this is a market that I think eventually find buyers on dips, and you need to be one of them if you plan on getting involved. If you are already long of this market, then it’s about trade management.</p>
+    </div>
+  },
+  {
+    id: 541,
+    title: 'AUDUSD Weekly Forecast – Aussie Dollar Breaks Through Resistance',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has broken above the 0.68 level, showing a massive amount of bullish pressure. The market continues to look very bullish,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 6:05 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-681.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The Australian dollar has broken above the 0.68 level, showing a massive amount of bullish pressure. The market continues to look very bullish, despite the fact that there are a lot of concerns about the overall global economy.</p>
+	    <p>This is mainly due to the fact that the Reserve Bank of Australia has recently had a surprise interest rate hike, while the Federal Reserve has stood still. While the Federal Reserve is expected to raise interest rates later, it seems like the markets are not worried about it at the moment.</p>	
+	    <p>That being said, the market is also above the 50-Week EMA, so that does suggest a certain amount of bullish pressure as well. The market will continue to see buyers on dips, but if we were to turn around and take out the bottom of the weekly candlestick, that could send this market back down to the 0.66 level.</p>	
+	    <p>Keep in mind that the Australian dollar is considered to be a major risk appetite based currency, and therefore we need to see more animal spirits in the markets overall. That being said, it looks like we are trying to get to the 0.70 level, although it may not necessarily be in a straight line like we seen over the last 3 weeks.</p>
+      <p>If the Aussie is going to continue to go higher, that will not only be a sign of Australian dollar strength, but more likely than not be more indicative of US dollar weakness. While I do believe that the markets continue to look higher, keep in mind that if there are signs of trouble, this market will turn around and break down.</p>
+    </div>
+  },
+  {
+    id: 540,
+    title: 'GBP/JPY Forecast – British Pound Continues to Launch Into the Stratosphere',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied rather significantly during the course of the Friday trading session as we continue to see a parabolic move.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 5:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-682.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs Japanese Yen Technical Analysis</h3>
+    	<p>The British pound has rallied rather significantly during the course of the Friday trading session as we continue to see a parabolic move. The Bank of Japan continues to see the desire to keep monetary policy loose, and therefore it does make a certain amount of sense that the Japanese yen continues to get pummeled.</p>
+    	<p>On the other side of the equation, the Bank of England has to deal with hot inflation, and therefore it does make quite a bit of sense that we would continue to see a lot of upward pressure on the British pound. Keep in mind that the market saw several massive candlesticks in a row, so we are without a doubt very impulsive at this point.</p>	
+    	<p>But that type of impulsivity, it’s almost impossible to start shorting this market, due to the fact that the Bank of Japan is not changing its attitude anytime soon. This is a market that is overstretched, but I think at this point in time it’s only a matter of time before buyers stepped back into this market and take advantage of “cheap British pounds.” The ¥175 level underneath will be a major support level, but that’s also a drop of over 600 pips as I record this.</p>	
+    	<p>On the upside, I think the market eventually goes looking to the ¥185 level, and longer-term it’s possible that we even go as high as ¥200. However, I don’t think you can chase the market as things stand right now, due to the fact that we have ripped 600 pips this week alone. With this, I think you’ve got to be very patient and wait for an opportunity to get long of the market again at a lower level.</p>
+      <p>Selling is all but impossible at this point, due to the fact that it is such a bullish market. With this being the case, the market is likely to continue seeing plenty of people try to chase this market, but the smarter trader will simply wait for some type of value to get involved. Chasing all the way up at this level is a great way to lose money.</p>
+    </div>
+  },
+  {
+    id: 539,
+    title: 'AUDUSD Forecast – Australian Dollar Gives Up Early Gains',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', ''],
+    description: <div className="blog-desc">
+      <p>The Australian dollar initially tried to rally during the trading session on Friday, as we threatened to the crucial 0.69 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 5:39 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-683.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar initially tried to rally during the trading session on Friday, as we threatened to the crucial 0.69 level. By doing so, it looks like we are finally going to see a little bit of gravity in this pair, but I don’t necessarily think it is going to turn the market around completely.</p>
+	    <p>The market has gotten a bit parabolic, in several different markets, not just this one, and I do think that a correction needs to happen. After all, markets do not go in the same direction forever.</p>	
+	    <p>The currency market looks at the Australian dollar as a “risk on currency”, and therefore I think you need to look at it through the prism of whether or not everybody is buying risk at this point. It’s probably worth noting that we have only had one negative date leading to this one over the last couple of weeks, so I think a pullback toward the 0.68 level makes quite a bit of sense, especially as it was the previous resistant barrier, and therefore a certain amount of “market memory” could come into play here.</p>	
+	    <p>It was the top of a major consolidation area, but we have now ripped right back through it and shown quite a bit of volatility. Underneath there, we have the 200-Day EMA that offers support near the 0.6754 level, and therefore if we break down below that, I think it would really start to have this market selling off.</p>
+      <p>The Reserve Bank of Australia had a surprise interest rate hike recently, while the Federal Reserve chose to pause its interest rate hiking cycle, so therefore it does make sense that the Aussie has been bullish recently. However, the Federal Reserve swears up and down that they will be raising rates later in the year, so it’s possible that not only did we rally quite drastically, but we may be trying to carve out an even bigger range.</p>
+      <p>A short-term pullback is the most likely outcome at the moment, and therefore I think we need to pay close attention to how the market behaves near the 0.68 level. The buyers will be trying to get to the 0.70 level.</p>
+    </div>
+  },
+  {
     id: 538,
     title: 'Yen Falls to 7-Month Low as Traders Shift Focus From Fed to BOJ',
     category: 'Forex',
