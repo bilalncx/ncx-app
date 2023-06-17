@@ -1,5 +1,192 @@
 const data = [
   {
+    id: 568,
+    title: 'Newly Released Documents Detail Tether’s Exposure to Chinese Securities',
+    category: 'Crypto',
+    subCategory: ['Tether', 'Chinese', 'Securities'],
+    description: <div className="blog-desc">
+      <p>Financial documents released by New York’s Attorney General show that Tether was backing its USDT stablecoin in part with Chinese commercial paper as of 2021.</p>
+    </div>,
+    authorName: 'Samuel Haig',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 17, 2023 - 3:09 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-670.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Financial documents released by New York’s Attorney General show that Tether was backing its USDT stablecoin in part with Chinese commercial paper as of 2021.</p>
+    	<p>The documents, which were obtained by a Freedom of Information Law request made by CoinDesk and Bloomberg, also provide details on Tether’s banking partners and on a $5.1B loan program.</p>	
+    	<p>The disclosed information helps understand the composition of reserves backing the world’s largest stablecoin. Concerns that USDT, which is pegged at $1 to the dollar, isn’t fully backed have long loomed over Tether.</p>	
+    	<p>In February 2021 Tether reached a settlement with the NY AG over allegations that it didn’t hold enough reserves to back USDT at one-to-one, while stating it did, It reported its financials as part of that settlement.</p>
+      <p>Tether dropped its initial opposition to news organizations’ FOIL request.</p>
+      <p>Investigations by Bloomberg and CoinDesk found that Tether’s 2021 reserves included securities issued by Deutsche Bank, Barclays Bank, and several prominent state-owned Chinese companies, including China Construction Bank Corp. and Agricultural Bank of China Ltd. It also held billions in BTC and USD on its sister exchange Bitfinex and in cold storage.</p>
+      <p>The documents also show Tether operated a $5.1B USDT lending program as of March 31, 2021.</p>
+      <h3>Different Position</h3>
+      <p>“Tether is in a completely different position compared to 2 years ago,” the company said in a blog post. “It demonstrated, leading the industry during the biggest black swan events in 2020 and 2022, that its reserves are extremely liquid, of high quality and ready to be made available to support any size of redemption.”</p>
+      <p>Tether also said it reduced commercial paper from its reserves in mid-2022, and cut its secured loans portfolio. The company said it aims to eliminate loans from its balance sheet in the coming months, and that its commercial papers always maintained a rating of at least A2.</p>
+      <p>The company added that its attestation report from last quarter showed a record net profit of $1.5B and surplus reserves of $2.4B. The report also said $53B or 64% of its reserves comprised U.S. treasury holdings at the end of Q1 2023.</p>
+      <h3>Tether Backstory</h3>
+      <p>Tether emerged in November 2014 after rebranding from Realcoin, which launched four months earlier.</p>
+      <p>Realcoin was initially launched by Brock Pierce, but Giancarlo Devasini and J.L Van Der Velde, the CFO and CEO of the centralized exchange Bitfinex respectively, took over as the directors of Tether Limited in September.</p>
+      <p>Bitfinex became mired in controversy after losing $72M worth of BTC to hackers in 2016 and socializing losses in the form of a 36% haircut to all user balances. Bitfinex issued BFX tokens representing the balance of users’ losses, which Bitfinex progressively refunded for USD at random intervals.</p>
+      <p>In 2017, Bitfinex, then the leading crypto exchange by trade volume, was cut off from its U.S. banking partners after Wells Fargo stopped processing transfers from Taiwanese partners on behalf of the exchange. The events left Bitfinex and Tether scrambling for banking partners, reportedly working with small banks in Europe and Panama.</p>
+      <p>In April 2018, local media reported that Polish law enforcement seized 400M EUR from a small bank associated with Bitfinex. The funds were seized from Crypto Capital, a mysterious firm providing shadow banking services to several centralized exchanges including Bitfinex, Binance, and QuadrigaCX.</p>
+      <p>Bitfinex went on to suffer persistent liquidity issues through 2018 and 2019, attributing its woes to Crypto Capital’s mishandling of its funds.</p>
+      <p>In April 2019, New York Attorney General Letitia James obtained a court order against IFinex, the parent company of Bitfinex and Tether. The order alleged Bitfinex commingled Tether’s and its assets to cover the $850M shortfall caused by law enforcement freezing Crypto Capital’s assets.</p>
+    </div>
+  },
+  {
+    id: 567,
+    title: 'Bitcoin remains above US$25,000; NFT sales down; Asian, European markets gain with U.S. futures mixed',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'NFT', 'Markets'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose in Friday afternoon trading in Asia, a day after asset management firm BlackRock provided a timely fillip to the digital asset industry by filing to launch an exchange-traded fund (ETF) for the cryptocurrency.</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 3:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-671.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose in Friday afternoon trading in Asia, a day after asset management firm BlackRock provided a timely fillip to the digital asset industry by filing to launch an exchange-traded fund (ETF) for the cryptocurrency.</p>
+    	<p>Ether and most other top 10 non-stablecoin cryptos rose, with the exception of Polygon and Tron. Meanwhile, global markets are seeing some upside after the U.S. Federal Reserve’s decision to pause interest rate hikes.</p>
+      <h3>Bitcoin receives timely boost</h3>	
+    	<p>Bitcoin rose 2.43% to US$25,515 in the 24 hours to 4 p.m. in Hong Kong, but lost 3.70% over the last seven days, according to CoinMarketCap data. The world’s biggest cryptocurrency also saw its market capitalization rise 2.40% to US$495.71 billion in the last 24 hours.</p>	
+    	<p>Some of that positive movement came on the back of the announcement late Thursday that the world’s biggest asset manager, BlackRock, intends to launch the first publicly traded U.S.-based Bitcoin exchange-traded fund (ETF). Coinbase Custody Trust Co. will act as the custodian for the company’s Bitcoin.</p>
+      <p>The ETF, if approved, will be listed on the Nasdaq stock exchange.</p>
+      <p>Bitcoin dropped to US$24,909 on Thursday afternoon in Asia for the first time since March 17 this year. It then rallied to a high of US$25,700 in the hour after the BlackRrock announcement, before reverting back to the US$25,500 mark.</p>
+      <p>Ether, the second-biggest cryptocurrency by market capitalization, also rose 2.12% to US$1,669 over the past 24 hours, but is down 9.09% for the week.</p>
+      <p>Litecoin was the biggest gainer in the last 24 hours, rising 3.62% to US$75.22, although it is down 14.09% on the week.</p>
+      <p>Polygon and Tron were the only losers among top 10 non-stablecoin cryptos. Polygon’s Matic token dropped 4.07% to US$0.5896, bringing its weekly losses to 23.85%.</p>
+      <p>Tron lost 1.95% to US$0.06986 in 24 hours and 9.81% over the last week.</p>
+      <p>BNB, the native token of world’s biggest crypto exchange Binance, rose 1.43% to US$239.19,  but its weekly losses stood at 7.36%.</p>
+      <p>“Binance Coin (BNB) is testing the critical US$220/200 level and IF this level breaks, there could be severe consequences on sentiment,” said Markus Thielen, Head of Research & Strategy at digital asset service platform Matrixport, in an emailed statement.</p>
+      <p>The U.S. SEC filed lawsuits against crypto exchanges Binance.US and Coinbase in the week of June 5. Doing so, it named several altcoins as financial securities, including Solana, Cardano, Polygon and BNB.</p>
+      <p>“There is now a real possibility that the altcoins from the 2020/21 bull market will never reach new all-time highs again,” Thielen said.</p>
+      <p>“Unless the investor is a trader with risk management skills, parking their crypto exposure in Bitcoin might be the only sensible option until a new bull market emerges that carries more weight than simply favorable macro tailwinds, and until the regulatory overhang diminishes,” he added.</p>
+      <p>U.S.-based trading platform Robinhood will delist Cardano, Polygon and Solana from June 27, after the SEC labeled them as unregistered securities. This has caused their prices and market capitalization to take a beating.</p>
+      <p>The three tokens combined had a market capitalization of US$20.6 billion as of Friday afternoon in Asia. That figure is a drop of 29.4% from the US$29.18 billion prior to the SEC’s lawsuits. The severe drop is a sign of  liquidity leaving the industry.</p>
+      <p>“Early in the week, there was hope that the back-to-back U.S. CPI (consumer price index) and Fed rate pause would boost the markets, but that did not happen,” said Le Shi, Head of Trading at crypto trading firm Auros.</p>
+      <p>“A clear divergence in the fortunes of U.S. equities compared to the crypto market after these events made it clear that traders were more concerned with regulatory risk than any expected macro tailwinds arising from the Fed rate pause or softening CPI,” Shi added.</p>
+      <p>The global crypto market capitalization rose 1.96% to US$1.04 trillion, while total market volume dropped 14.98% to US$32.52 billion in the last 24 hours.</p>
+      <h3>NFTs stay down</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dropped 0.84% to 2,883.08 in the past 24 hours, bringing its weekly losses to 10.48%.</p>
+      <p>The Forkast ETH NFT Composite also dropped 0.96% to 1,019.86 in 24 hours, and lost 7.30% over the last week. Transactions on Ethereum, the leading NFT blockchain, dropped 10.10% to US$13.25 million in the last 24 hours. In the same period, transactions on the Bitcoin network, the second largest NFT blockchain, plunged 10.52% to US$1.42 million.</p>
+      <p>On Thursday, global auction house Sotheby’s finished its second round of sales of NFTs from the “Grails” collection. The auction saw US$10.9 million in sales, over half of which was from Dmitri Cherniak’s Ringers #879 – often referred to as “The Goose” – which sold for US$6.2 million.</p>
+      <p>“Sentiment is rather high following the success of Sotheby’s auction of historic NFTs yesterday, and combined with news that BlackRock is filing for a Bitcoin ETF, there’s hope this can inject life back into NFTs,” said Yehudah Petscher, NFT Strategist at Forkast Labs.</p>
+      <p>“It’s worth noting that the supposed buyer was already a major NFT trader, so this auction didn’t seem to draw attention from the traditional art world,” Petscher said about the auction.</p>
+      <p>“Is it bullish still for NFT art? Yes, but there’s still always concern that the NFT ecosystem is largely an echochamber,” he added.</p>
+      <p>Elsewhere, despite the latest round of legal charges leveled against former U.S. President Donald Trump, the Trump Digital Trading Cards project is gaining momentum. It has begun redeeming prize NFTs in exchange for physical prizes.</p>
+      <p>The prizes include signed books, gift cards, golf tickets, zoom calls with the former president and even a gala dinner at Trump’s Florida home Mar-a-Lago.</p>
+      <h3>Asian, European equities rise; U.S. stock futures mixed</h3>
+      <p>Asian equity markets rallied on Friday with sense that U.S. interest rates could be reaching their peak. Markets were also optimistic after China’s central bank lowered medium term lending rates on Thursday.</p>
+      <p>The Bank of Japan (BOJ) on Friday decided to maintain its ultra-loose monetary policy. As widely anticipated, the central bank will leave its short-term interest rate unchanged at -0.1% and 10-year bond yields at around 0%.</p>
+      <p>“With extremely high uncertainties surrounding economies and financial markets at home and abroad, the Bank will patiently continue with monetary easing while nimbly responding to developments in economic activity and prices as well as financial conditions,” the BOJ said in its statement on monetary policy released Friday.</p>
+      <p>By the close of afternoon trading, the Shanghai Composite had gained 0.63% while the Shenzhen Component Index rose 1.11%. Hong Kong’s Hang Seng Index climbed 1.07% and Japan’s Nikkei 225 strengthened 0.66%.</p>
+      <p>European equity markets gained on Friday as investors digested the recent interest rate decisions from major central banks. The European Central Bank (ECB) raised interest rates by 25 basis points on Thursday to 3.5%, while both the ECB and the U.S. central bank suggested more rate hikes are on the way later in the year.</p>
+      <p>The benchmark STOXX 600 gained 0.45% and Germany’s DAX 40 climbed 0.16% during afternoon trading hours in Europe.</p>
+      <p>U.S. stock futures were trading flat as of 6.30 p.m. in Hong Kong. The Dow Jones Industrial Average futures gained 0.01%, and S&P 500 futures dropped 0.01%. Nasdaq 100 Futures gained 0.03%.</p>
+      <p>Interest rates in the world’s biggest economy remain at 5% to 5.25% after the U.S. Federal Reserve decided against a further raise at its June meeting earlier this week. The rate is at its highest since 2006 after ten consecutive hikes that started in March 2022. The hikes were made to combat persistent inflation, which had pushed to a 40-year high at one point last year.</p>
+      <p>“The Fed’s primary goal is price stability. With that goal in mind and inflation where it currently stands, a rate hike would have been the more appropriate choice,” Michiel Janssen, trader and analyst at crypto hedge fund AltTab Capital, said in an email statement.</p>
+      <p>“But the Fed is also taking into account the time the market needs to adjust to the higher rates. The banking failures are proof that the fastest ever increase in the Fed rates are causing stresses in the financial system,” Janssen said.</p>
+      <p>The next Federal Open Market Committee meeting is scheduled for July 25 to 26. The U.S. central bank has signaled two more rate hikes by the end of 2023, to bring inflation down to its target level of 2%.</p>
+      <p>“The Fed will indeed raise rates in July, with the obvious caveat that a deterioration in inflation or employment data could make the Fed more inclined to hold rates steady for another meeting,” said Frances Donald, Chief Economist at wealth management firm Manulife Investment Management, in an emailed statement.</p>
+      <p>“We have fairly high conviction that U.S. headline inflation will fall to around 3% by year end… we think the more important question for investors is how and when the central bank will respond to the expected slowdown in U.S. growth,” Donald added.</p>
+    </div>
+  },
+  {
+    id: 566,
+    title: 'BlackRock files for spot Bitcoin ETF, taps Coinbase as custodian',
+    category: 'Crypto',
+    subCategory: ['BlackRock', 'Coinbase', 'Bitcoin'],
+    description: <div className="blog-desc">
+      <p>BlackRock, which manages about US$10 trillion as the world’s biggest asset manager, has filed to launch the first publicly traded spot Bitcoin exchange-traded fund (ETF) in the U.S.,</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 9:24 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-673.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BlackRock, which manages about US$10 trillion as the world’s biggest asset manager, has filed to launch the first publicly traded spot Bitcoin exchange-traded fund (ETF) in the U.S., even as regulators in the country file lawsuits against cryptocurrency platforms for alleged violations of securities laws.</p>
+    	<p>BlackRock said in a Thursday filing to the Securities and Exchange Commission (SEC) it intends to launch the “iShares Bitcoin Trust” with Coinbase Custody Trust Co. as the custodian for the Bitcoin. The ETF, if approved, will be listed on Nasdaq.</p>	
+    	<p>The application comes after the SEC last week sued Coinbase and Binance.US., two of the industry’s biggest crypto exchanges, for allegedly breaching securities rules. That adds to uncertainties the SEC will approve the ETF, given that a Coinbase unit would act as custodian for the product.</p>	
+    	<p>Eric Balchunas, a senior ETF analyst at Bloomberg, tweeted Thursday that the BlackRock filing is a “shocker.”</p>
+      <p>“There’s been no signs at all SEC willing to approve, but BlackRock is very connected so maybe they know something?” Balchunas said.</p>
+      <p>Approval of a spot-traded Bitcoin ETF in the world’s biggest economy and largest financial market is seen by many investors as a stamp of approval for the digital currency and would likely unlock significant amounts of institutional investment in Bitcoin.</p>
+      <h3>Chokepoint?</h3>
+      <p>However, some in the crypto industry reacted negatively to the BlackRock development, raising “Operation Chokepoint” theories that suggest governments and traditional finance aim to derail the industry because it poses a threat to their interests.</p>
+      <p>“If BlackRock’s spot ETF application gets approved, it is undeniable that Operation Chokepoint 2.0 was orchestrated to drive out crypto native companies and bring in large traditional firms that are buddy-buddy with the U.S. [government] to try and control Bitcoin [and] crypto,” Will Clemente, co-founder of digital asset research firm Reflexivity Research, said Thursday on Twitter to his 683,700 followers.</p>
+      <p>In the SEC filing, BlackRock said: “The Shares are intended to constitute a simple means of making an investment similar to an investment in bitcoin rather than by acquiring, holding and trading bitcoin directly on a peer-to-peer or other basis or via a digital asset exchange,”</p>
+      <p>The SEC has previously rejected similar applications for spot Bitcoin ETFs filed by Grayscale, WisdomTree and VanEck. In June 2022, Grayscale sued the SEC for rejecting its application, saying the regulator failed to apply consistent treatment to similar investment vehicles.</p>
+      <p>The securities regulator, however, has approved a number of Bitcoin futures-based ETFs.</p>
+      <h3>Complex</h3>
+      <p>Traditional retail exchanges and brokers, such as Robinhood and eToro, are “navigating complex terrain when venturing into crypto,” Jeff Feng, co-founder of Sei Labs, the company behind the Sei trading blockchain, told Forkast via email.</p>
+      <p>“The absence of explicit regulatory guidelines has caused setbacks, leading to some tokens being delisted resulting in crypto market volatility,” said Feng, a former Goldman Sachs analyst. “Nonetheless, these teething issues are part of the broader industry’s evolutionary process.”</p>
+      <p>Balchunas at Bloomberg added that the BlackRock filing lists the factors that could adversely affect the price of Bitcoin, and “they list the exchanges, which ‘are largely unregulated and may be subject to manipulation’ which is the SEC’s issue with approving ETF.”</p>
+      <p>Bitcoin gained 1.89% over the past 24 hours to trade at US$25,541 at 11:50 a.m. in Hong Kong, according to data from CoinMarketCap. The world’s largest cryptocurrency by market capitalization has risen 54.5% so far this year, but is still far below its peak at around US$64,000 recorded in November 2021.</p>
+    </div>
+  },
+  {
+    id: 565,
+    title: 'Bitcoin edges up after slump, Ether little-changed, other top 10 tokens continue bumpy ride',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'tokens'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose in Friday morning trading in Asia, after falling below US$25,000 overnight and overall posting a losing week, a trend mirrored by Ether.</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 5:24 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-672.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose in Friday morning trading in Asia, after falling below US$25,000 overnight and overall posting a losing week, a trend mirrored by Ether. The rest of the top 10 non-stablecoin cryptocurrencies were mixed after finding little impetus from the U.S. Fed decision in the week to leave interest rates unchanged. Polygon’s Matic token had the biggest decline in the top 10 amid sharp falls in altcoins since the U.S. regulator last week labeled many of them illegally issued financial securities.</p>
+      <h3>Bumpy week</h3>
+    	<p>Bitcoin added 2.05% over the last 24 hours to US$25,573.56 at 6:30 a.m. in Hong Kong, but lost 3.83% in the last seven days, according to CoinMarketCap data. The world’s largest cryptocurrency, with a market capitalization of about US$497 billion, slipped to US$24,797.17 at around 8:00 p.m. on Thursday, the lowest since March 16.</p>	
+    	<p>Ether traded little changed at US$1,665.73, up a slight 0.78%, but posting a weekly loss of 10.06%.</p>	
+    	<p>Solana led gains among the top 10 tokens by market capitalization, rising 3% to US$14.88, but still down 21.58% for the past seven days. The Solana community on Twitter is throwing around the idea of a hard fork to avoid further scrutiny from U.S. regulators, but such an idea is not being discussed among Solana developers, according to Decrypt.</p>
+      <p>Polygon’s Matic was the biggest loser out of the top 10, dropping 4.06% to US$0.5952 to bring the week’s loss to 24.06%.</p>
+      <p>Most of the top 10 have been on a roller-coaster ride since the U.S. Securities and Exchange Commission’s (SEC) filed lawsuits against crypto exchanges Binance.US and Coinbase in the week of June 5. The SEC also named dozens of altcoins as financial securities, including Solana, Cardano, Polygon and BNB.</p>
+       <p>Those four tokens combined had a market capitalization of US$57.5 billion as of Friday morning in Asia, which is a sharp 26.5% slump from the US$78.27 billion prior to the SEC’s lawsuits.</p>
+       <p>“Many notable altcoins, such as Matic, were listed as securities in recent SEC lawsuits, so venture capital firms have been selling their altcoin holdings to capture the little liquidity left and lessen the blow to their portfolios,” said Nick Ruck, the chief operating officer of blockchain venture studio ContentFi Lab, in a Telegram message to Forkast.</p>
+       <p>“Institutions are managing portfolio risk and preparing for a continued downtrend amid less market liquidity and tighter regulations,” he said.</p>
+       <p>In related moves, U.S.-based trading platform Robinhood delisted Cardano, Polygon and Solana, while the eToro platform halted user purchases of Polygon, Decentraland, Algorand and Dash — which were all named in the SEC’s legal filings.</p>
+       <p>The crypto market seemed to find little relief in the move this week by the Federal Reserve to pause interest rate increases.</p>
+       <p>“This pause, or skip seems to be a more tactical move, but the fight against inflation is not over yet,” said Michiel Janssen, trader and analyst at crypto hedge fund AltTab Capital, in an email statement shared with Forkast.</p>
+       <p>“For crypto this means in the short term that there is less money flowing into the crypto markets. In the longer run, higher inflation and further problems in the banking sector can be a positive for crypto.”</p>
+       <p>The total cryptocurrency market cap increased 1.21% to US$1.04 trillion in the last 24 hours, while crypto trading volume fell 18.55% to US$37.82 billion, according to CoinMarketCap data.</p>
+       <h3>“Grails” sales hit US$17 million</h3>
+       <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+       <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index lost 1.39% to 2,884.87 in the 24 hours to 7:30 a.m. in Hong Kong. The index is down 10.46% for the week.</p>
+       <p>Total NFT transactions fell 25.96% to US$18.58 million. Transaction on Ethereum, the leading NFT blockchain, dropped 10.50% to US$13.2 million.</p>
+       <p>Transactions on the Bitcoin network, the second largest NFT blockchain, plunged 72.91% to US$1.12 million.</p>
+       <p>On Thursday, global auction house Sotheby’s finished its second round of sales of NFTs from the “Grails” collection. “Grails” consists of non-fungible token (NFT) artwork that belongs to the bankrupt crypto hedge fund Three Arrows Capital and its NFT-purchasing fund Starry Night Capital.</p>
+       <p>Singapore-based Three Arrows Capital, a crypto hedge fund that once managed as much as US$10 billion, filed for Chapter 15 bankruptcy in July 2022, which protects assets of insolvent foreign debtors from U.S. creditors.</p>
+       <p>In February this year, Three Arrows Capital’s U.S.-based liquidator Teneo said that it plans to sell NFTs owned by the company with an estimated value of US$22 million at the time of the bankruptcy filing.</p>
+       <p>The second auction brought in nearly US$11 million in sales, including Dmitri Cherniak’s “The Goose” or Ringers #879, which was sold for US$6.2 million alone. The collection has raised a running total of US$17 million in Sotheby’s sales.</p>
+       <p>“While the NFT community is excited by today’s major art sales from the Sotheby’s auction, that isn’t money that will flow back into NFTs,” said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News. “These were seized NFTs from 3AC and that money will go to recouping losses.”</p>
+       <p>In other transactions, the NFT staple Bored Ape Yacht Club topped sales by collection, selling US$1.11 million in the last 24 hours.</p>
+       <p>Mythos chain-powered DMarket game NFTs came second with US$899,694 in sales, with over 51,000 transactions in the past day.</p>
+       <h3>U.S. stock futures drop after Thursday rally</h3>
+       <p>U.S. stock futures fell as of 10:00 a.m. in Hong Kong after rallying during the regular trading day on Thursday. Dow Jones Industrial Average futures fell 0.15%, S&P 500 futures edged 0.21% lower and Nasdaq Futures lost 0.33%.</p>
+       <p>The Dow rose 1.26% on Thursday, S&P gained 1.22% and the Nasdaq Composite added 1.15% as optimism grew that the Federal Reserve’s interest rate hikes are near the peak, according to Trading Economics.</p>
+       <p>The U.S. central bank left interest rates unchanged at 5% to 5.25% after its meeting on Wednesday. The rate is at its highest since 2006 after ten consecutive hikes that started in March 2022 to slow the pace of inflation that surged to 40-year highs at one stage last year. The central bank warned of two more rate hikes by the end of 2023.</p>
+       <p>The European Central Bank raised its interest rates for the eighth consecutive time on Thursday, adding 25 basis points.</p>
+       <p>The next Federal Open Market Committee meeting is scheduled for July 25 to 26.</p>
+       <p>The CME FedWatch Tool predicts a 28.1% chance the Fed will leave rates as is at July’s meeting, while 71.9% says the Fed will raise by 25 basis points.</p>
+    </div>
+  },
+  {
     id: 564,
     title: 'Bitcoin: Expecting BTC to rally after FOMC’s latest update? Well…',
     category: 'Crypto',
