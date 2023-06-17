@@ -1,5 +1,75 @@
 const data = [
   {
+    id: 536,
+    title: 'European gas prices are soaring again. Full tanks should avert a new energy crisis',
+    category: 'Commodities',
+    subCategory: ['European', 'gas', 'energy'],
+    description: <div className="blog-desc">
+      <p>Europe’s natural gas prices have shot up by more than half so far in June following months of declines, in a troubling reminder of last year’s energy crisis.</p>
+    </div>,
+    authorName: 'Anna Cooban',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 7:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-674.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Europe’s natural gas prices have shot up by more than half so far in June following months of declines, in a troubling reminder of last year’s energy crisis.</p>
+    	<p>Benchmark gas futures prices have risen 52% since the start of this month to hit €35 ($38) per megawatt hour, according to data from the Independent Commodity Intelligence Service (ICIS).</p>	
+    	<p>Prices reversed course mainly because of longer-than-expected maintenance outages at key gas plants in Norway, analysts told CNN.</p>	
+    	<p>“The recent price rally shows just how sensitive the European market is to disruption,” said Bill Weatherburn, a commodities economist at Capital Economics.</p>
+      <p>European natural gas prices are still far below their levels last summer, when the continent found itself locked in an energy standoff with Russia following Moscow’s invasion of Ukraine. But the rapid run-up in prices this month shows just how vulnerable the region remains to any supply disruption following the slump in imports from Russia.</p>
+      <p>Norway’s gas network operator, Gassco, said on its website Tuesday that a planned shutdown at one of its gas processing plants had been extended until July 15. It had been due to come back online on June 21. Two other gas plants will remain offline indefinitely, due to “process problems.”</p>
+      <p>Last year, Norway replaced Russia as the biggest source of natural gas imports in the European Union, with more than 24% of the market, while Moscow piped 15%.</p>
+      <p>Europe could be about to lose another source of gas. Prices spiked Thursday following reports that the Netherlands plans to permanently shut its Groningen gas field in October, rather than a year later, which had been an option.</p>
+      <p>Gas futures reached an intra-day high of almost €50 ($55) per megawatt hour before falling back. That was more than double their level at the start of the month.</p>
+      <p>A spokesperson for the Dutch government told CNN Friday that it hadn’t yet made a decision about when to close Groningnen.</p>
+      <p>Once a major supplier of natural gas for Europe, the Netherlands has been winding down production at the onshore field over the past decade because of the risk of earthquakes. The field is one of the biggest in the world but now accounts for just a fraction of Europe’s gas supply. Still, reports that it might close in October appear to have rattled traders.</p>
+      <p>“The European gas market — and by extension the global gas market — [is] certainly not out of the woods in terms of adequately matching supply with demand,” Tom Marzec-Manser, head of gas analytics at ICIS, told CNN.</p>
+      <p>He added that an uptick in prices “was always expected” given that futures prices for natural gas deliveries for the next two winters had remained elevated compared with historical norms.</p>
+      <h3>Stronger position</h3>
+      <p>Prices soared to an all-time high of €340 ($372) per megawatt hour in late August as European countries raced to fill their stores ahead of the winter months.</p>
+      <p>Those storage facilities are now 73% full — a much higher level than the 56% the bloc averaged at the same time of the year over the past five years, according to data from Gas Infrastructure Europe.</p>
+      <p>“The panic period that we saw last summer… [is] very unlikely to happen again,” Massimo Di Odoardo, a senior gas researcher at consultancy Wood Mackenzie, told CNN.</p>
+      <p>Record levels of stored gas in Japan and South Korea, combined with a weaker-than-expected recovery in the Chinese economy, also reduce the chance of Europe being forced into another expensive scramble with Asia for imports of liquefied natural gas this year, he said.</p>
+      <p>Still, it hasn’t taken much to shake traders’ confidence.</p>
+      <p>“Europe still has to cope with the fact that there’s [little] Russian gas in Europe,” Henning Gloystein, director of energy, climate and resources at Eurasia Group, told CNN. “Unplanned disruptions can still lead to price spikes.”</p>
+      <p>According to Di Odoardo, the extended shutdown of key gas plants in Norway “could easily shave off another [billion cubic meters] of supply over the next few months.”</p>
+      <p>“It only really takes 5 bcm less… to make the market a lot tighter.”</p>
+    </div>
+  },
+  {
+    id: 535,
+    title: 'AGL Will Spend A$10 billion in Shift to Renewables From Coal',
+    category: 'Commodities',
+    subCategory: ['AGL', 'Coal', 'billion'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- AGL Energy Ltd. said it would massively expand its production of clean energy as it abandons coal-fired power plants.</p>
+    </div>,
+    authorName: 'James Fernyhough',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 9:48 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-675.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- AGL Energy Ltd. said it would massively expand its production of clean energy as it abandons coal-fired power plants.</p>
+    	<p>The company will spend as much as A$10 billion ($6.9 billion) of its own money to build new facilities, including with debt-financing, Chief Financial Officer Gary Brown said at an investor day in Melbourne on Friday.</p>	
+    	<p>The Australian coal giant, which came under attack from billionaire climate activist Mike Cannon-Brookes last year, plans to shut all its coal plants by 2035 and replace them with 12 gigawatts of additional renewable capacity and storage.</p>
+      <p>That new energy — the equivalent of five large coal plants — will include wind and solar farms, grid-scale batteries and other storage infrastructure, and could also include some back-up gas plants.</p>
+      <p>“Coal is leaving the market. That means we have to replace those assets,” said AGL CEO Damien Nicks. “The system is tight,” he said, “but I do not believe the lights will go out.”</p>
+      <p>Shares jumped 11% to A$10.74 as of 3:08 p.m. in Sydney as the company also raised its underlying profit guidance for the full year.</p>
+    	<p>The A$10 billion will fund about half of the planned 12 gigawatts. The rest — which the company did not put a dollar figure on — will come from third parties, including joint ventures with “renowned renewable asset developers” and power purchase agreements, Brown said.</p>
+      <p>Australia is undergoing one of the world’s most rapid shifts from coal to renewables. The nation currently relies on the fuel for well over 50% of its electricity, but could be almost entirely powered by wind, solar and zero carbon storage by the end of next decade, according to official estimates.</p>
+      <p>There are fears investment is not happening fast enough to replace aging coal plants, which have struggled to compete with cheap wind and solar but continue to supply vital baseload power particularly at times of peak demand when the sun isn’t shining.</p>
+      <p>AGL’s shift to renewables is a turnaround for the company, which until last year had intended to keep its coal plants running until well into the 2040s. Coal and gas make up the biggest chunk of AGL’s earnings, but Brown said he was confident the new low carbon business would fill the earnings gap by 2035.</p>
+      <p>AGL made global headlines last year when it became the target of a takeover by Canadian private equity giant Brookfield Asset Management and Cannon-Brookes, who wanted to shut its coal plants early and replace them with renewables. That bid failed, but Cannon-Brookes, founder of software company Atlassian Corp., subsequently built an 11% stake in the company and drove a board and executive shake-up that led to a more ambitious emissions-reduction strategy.</p>
+      <p>Cannon-Brookes’s family office Grok Ventures did not immediately respond to a request for comment on Friday. But the plan can be seen as a success for the Sydney-based billionaire, whose key objectives of coal closures and renewable investments are now company policy.</p>
+    </div>
+  },
+  {
     id: 534,
     title: 'Shell Changes Course on Oil Production Cut Promises',
     category: 'Commodities',
