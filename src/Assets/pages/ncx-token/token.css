@@ -448,7 +448,7 @@ div#token_video .taskdiv.two{
 
     /* Mobile NCXT Video Generation */
     div#token_video{
-        padding: 30px 0px 100px 0px !important;
+        padding: 50px 0px 50px 0px !important;
     }
     div#token_video .text212 h4{
         font-size: 14px !important;
@@ -467,5 +467,8 @@ div#token_video .taskdiv.two{
     div#token_video .text212 p{
         font-size: 10px !important;
         font-family: 12px !important;
+    }
+    .roadMap_slider{
+        padding: 50px 0px !important;
     }
 }

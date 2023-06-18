@@ -1,5 +1,29 @@
 .token_features{
-    padding: 0px 0px 100px 0px;
+    padding: 100px 0px 100px 0px;
+    position: relative;
+    margin-top: 1px;
+}
+.token_features:before{
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(270deg,#fff,hsla(0,0%,100%,0));
+    left: 2.1%;
+}
+.token_features:after{
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(90deg,#fff,hsla(0,0%,100%,0));
+    right: 2.1%;
 }
 h1.toke_feat{
     font-size: 34px;
@@ -97,11 +121,11 @@ h1.toke_feat span{
         font-size: 26px;
     }
     .token_features .feat-row.row.mobile.one .feat-line {
-        height: 280px;
+        height: 300px;
     }
     .token_features .feat-row.row.mobile.one .fftxt {
-        min-height: 250px;
-        max-height: 250px;
+        min-height: 270px;
+        max-height: 270px;
     }
     .token_features .feat-row.row.mobile.two .feat-line {
         height: 320px !important;
@@ -111,11 +135,11 @@ h1.toke_feat span{
         min-height: 290px;
     }
     .token_features .feat-row.row.mobile.three .feat-line {
-        height: 380px;
+        height: 400px;
     }
     .token_features .feat-row.row.mobile.three .fftxt {
-        max-height: 350px;
-        min-height: 350px;
+        max-height: 370px;
+        min-height: 370px;
     }
     .token_features .feat-row.row.mobile.four .feat-line {
         height: 280px;
@@ -132,14 +156,14 @@ h1.toke_feat span{
         max-height: 270px;
     }
     .token_features .feat-row.row.mobile.six .feat-line {
-        height: 410px;
+        height: 260px;
     }
     .token_features .feat-row.row.mobile.six .fftxt {
-        min-height: 380px;
-        max-height: 380px;
+        min-height: 230px;
+        max-height: 230px;
     }
     .token_features{
-        padding: 0px 0px 60px 0px !important;
+        padding: 50px 0px 50px 0px !important;
     }
     #presale_ncxT .stake_ncx h1{
         font-size: 20px !important;
@@ -160,24 +184,24 @@ h1.toke_feat span{
         max-height: 250px;
     }
     #token_allocation .feat-row.row.mobile.two .feat-line {
-        height: 350px !important;
+        height: 370px !important;
     }
     #token_allocation .feat-row.row.mobile.two .fftxt {
-        max-height: 320px;
-        min-height: 320px;
+        max-height: 340px;
+        min-height: 340px;
     }
     #token_allocation .feat-row.row.mobile.three .feat-line {
-        height: 360px;
+        height: 300px;
     }
     #token_allocation .feat-row.row.mobile.three .fftxt {
-        max-height: 330px;
-        min-height: 330px;
+        max-height: 270px;
+        min-height: 270px;
     }
     #token_allocation .feat-row.row.mobile.four .feat-line {
-        height: 260px;
+        height: 210px;
     }
     #token_allocation .feat-row.row.mobile.four .fftxt {
-        min-height: 230px;
-        max-height: 230px;
+        min-height: 180px;
+        max-height: 180px;
     }
 }

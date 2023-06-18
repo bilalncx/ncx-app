@@ -199,11 +199,11 @@ function NCXhomepageOTCSection(){
                         <div className="feat-line"></div>
                         <div className="feat-txt">
                             <div className="fftxt">
-                                <h2>{t("ncxt_token_allocation_heading4")}</h2>
-                                <p>{t("ncxt_token_allocation_paragraph4")}</p>
+                                <h2>{t("ncxt_token_allocation_heading6")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph6")}</p>
                             </div>
                             <div className="featicon">
-                                <Feature6 />
+                                <Feature4 />
                             </div>
                         </div>
                     </div>
@@ -225,11 +225,11 @@ function NCXhomepageOTCSection(){
                         <div className="feat-line"></div>
                         <div className="feat-txt">
                             <div className="fftxt">
-                                <h2>{t("ncxt_token_allocation_heading6")}</h2>
-                                <p>{t("ncxt_token_allocation_paragraph6")}</p>
+                                <h2>{t("ncxt_token_allocation_heading8")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph8")}</p>
                             </div>
                             <div className="featicon">
-                                <Feature4 />
+                                <Feature11 />
                             </div>
                         </div>
                     </div>
@@ -251,11 +251,11 @@ function NCXhomepageOTCSection(){
                         <div className="feat-line"></div>
                         <div className="feat-txt">
                             <div className="fftxt">
-                                <h2>{t("ncxt_token_allocation_heading8")}</h2>
-                                <p>{t("ncxt_token_allocation_paragraph8")}</p>
+                                <h2>{t("ncxt_token_allocation_heading4")}</h2>
+                                <p>{t("ncxt_token_allocation_paragraph4")}</p>
                             </div>
                             <div className="featicon">
-                                <Feature11 />
+                                <Feature6 />
                             </div>
                         </div>
                     </div>

@@ -1,12 +1,36 @@
 .roadMap_slider {
-    padding: 50px 0px 100px 0px;
+    padding: 100px 0px 100px 0px;
+    position: relative;
+    margin-top: 1px;
+}
+.roadMap_slider:before{
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(270deg,#fff,hsla(0,0%,100%,0));
+    left: 2.1%;
+}
+.roadMap_slider:after{
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(90deg,#fff,hsla(0,0%,100%,0));
+    right: 2.1%;
 }
 .road-head {
-    font-size: 48px;
+    font-size: 40px;
     color: #FFFFFF;
-    font-family: 'urbanist-medium';
+    font-family: 'urbanist-regular';
     text-align: center;
-    margin-bottom: 120px;
+    margin-bottom: 80px;
 }
 .single_map h3 {
     font-size: 16px !important;
