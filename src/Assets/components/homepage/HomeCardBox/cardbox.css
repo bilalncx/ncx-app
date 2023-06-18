@@ -36,16 +36,18 @@
     right: 2.1%;
 }
 a.bgb_bf {
-    background: #5ED3F0;
+    background: transparent;
     font-size: 16px;
     font-family: 'urbanist-regular';
     text-transform: inherit;
     color: #FFFFFF;
     letter-spacing: 0;
-    width: 144px;
+    text-align: center;
+    width: 160px;
     height: 44px;
     border-radius: 70px;
-    border: 1px solid #5ED3F0
+    border: 1px solid #FFFFFF;
+    box-shadow: 0 0 15px rgba(255,255,255,0.5);
 }
 a.bgb_bf:hover, a.bgb_bf:focus, a.bgb_bf:focus-visible, a.bgfgb:hover, a.bgfgb:focus, a.bgfgb:focus-visible{
     text-decoration: none;
@@ -53,7 +55,8 @@ a.bgb_bf:hover, a.bgb_bf:focus, a.bgb_bf:focus-visible, a.bgfgb:hover, a.bgfgb:f
     outline: none;
 }
 a.bgb_bf:hover{
-    background: transparent;
+    background: #FFFFFF;
+    color: #000000;
 }
 a.bgfgb {
     background: transparent;

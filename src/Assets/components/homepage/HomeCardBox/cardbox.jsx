@@ -13,7 +13,7 @@ function CryptoCardSecondSection()
                         <img src={CardImage} alt="ncx"/>
                     </div>
                     <div className="col vedc">
-                        <h1>The Crypto Card that gives you extra</h1>
+                        <h1>NCX Crypto Debit Card</h1>
                         <ul>
                             <li>Pay with Crypto converted into currency at 44 million merchant locations Worldwide.</li>
                             <li>Spending Limits up to $150,000 per month.</li>
@@ -23,10 +23,10 @@ function CryptoCardSecondSection()
                             <li>Global Coverage, Online Payments, Virtual Card</li>
                             <li>Payment and Fraud Protection.</li>
                         </ul>
-                        {/* <div className="vwecx">
-                            <Button className="bgb_bf" href="https://ncx.cx/ncx-card">View Cards</Button>
-                            <Button className="bgfgb" href="https://my.ncx.cx/en/register">Sign Up</Button>
-                        </div> */}
+                        <div className="vwecx">
+                            <Button className="bgb_bf" href="https://ncx.cx/ncx-card">Compare Cards</Button>
+                            {/* <Button className="bgfgb" href="https://my.ncx.cx/en/register">Sign Up</Button> */}
+                        </div>
                     </div>
                 </div>
             </div>

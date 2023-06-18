@@ -78,10 +78,10 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Margin Trading</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick clr"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
@@ -110,15 +110,15 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">DEX</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Cross-Chain Swap</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -134,31 +134,31 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Crypto Debit Card</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">DeFi Wallet</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Fiat Deposits / Withdrawals</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick clr"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Equities Trading <span>(USA, EU, ASIA Stock Market)</span></p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -166,7 +166,7 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Forex Trading</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -174,7 +174,7 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Indices Trading</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -182,7 +182,7 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">ETFs Trading</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -190,7 +190,7 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Metals Trading</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -198,7 +198,7 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Energies Trading</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -206,34 +206,34 @@ function NewFeatureSection()
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">OTC Trading</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Institutional Services</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">24/7 Support</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">Account Recovery</p></div>
-                                <div className="uiop clr"><WhiteTick /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
-                                <div className="uiop"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                         </div>

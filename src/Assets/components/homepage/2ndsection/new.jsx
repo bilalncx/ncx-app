@@ -2,7 +2,7 @@ import React from "react";
 import './2ndsection.css';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, Dot, DotGroup } from 'pure-react-carousel';
-import ExchangeIcon from '../../../images/exchange_icon.png';
+import ExchangeIcon from '../../../images/orders-min.png';
 import DerivativeIcon from '../../../images/deri_icon.png';
 import WalletIcon from '../../../images/wallet_icon.png';
 import DebitIcon from '../../../images/debit_icon.png';

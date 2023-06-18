@@ -698,10 +698,6 @@ a.cl__drp:hover{
     background: #FFFFFF !important;
     box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
 }
-.bg-dark header#header-row {
-    background: transparent;
-    background-color: transparent;
-}
 #home_coins, .trade__cfd{
     position: relative;
 }
@@ -779,6 +775,11 @@ a.cl__drp:hover{
         min-height: 650px;
     }
 }
+
+    div#bgf__qas{
+        display: none;
+    }
+
 @media screen and (max-width: 800px){
     .bg-dark .ind__cont{
         padding: 20px 0px 0px 0px !important;
@@ -1090,5 +1091,12 @@ a.cl__drp:hover{
     #bannss a.byyy:hover{
         background: #FFFFFF !important;
         color: #000000;
-    }    
+    }
+    .card_box.nrtbv__gerg{
+        margin-top: 1px;
+    }
+}
+.uiop.tick svg{
+    width: 18px !important;
+    height: 18px !important;
 }
