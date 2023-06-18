@@ -12,11 +12,11 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                                <a href="/post-crypto/568" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-670.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 17, 2023 - 3:09 AM</p>
-                                    <h1>Newly Released Documents Detail Tether’s Exposure to Chinese Securities</h1>
-                                    <p>Financial documents released by New York’s Attorney General show that Tether was backing its USDT stablecoin in part with Chinese commercial paper as of 2021.</p>
+                                <a href="/post-crypto/572" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-693.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 18, 2023</p>
+                                    <h1>BNB Chain’s NFT landscape witnesses a rebound in June aided by…</h1>
+                                    <p>After stagnating in May, BNB Chain’s NFT sales volume and trade count witnessed an impressive rebound in June.</p>
                                 </a>
                                 <a href="/post-indices/532" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-679.jpg" alt="art_pic"/></div>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row">
-                            <a href="/post-crypto/567" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-671.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 16, 2023 - 3:21 PM</p>
-                                    <h1>Bitcoin remains above US$25,000; NFT sales down; Asian, European markets gain with U.S. futures mixed</h1>
-                                    <p>Bitcoin rose in Friday afternoon trading in Asia, a day after asset management firm BlackRock provided a timely fillip to the digital asset industry by filing to launch an</p>
+                            <a href="/post-crypto/571" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-692.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 18, 2023</p>
+                                    <h1>Solana brings some good news to investors as…</h1>
+                                    <p>Solana’s activity surged with an increase in new contracts on the network.</p>
                                 </a>
-                            <a href="/post-crypto/566" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-673.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 16, 2023 - 9:24 AM</p>
-                                    <h1>BlackRock files for spot Bitcoin ETF, taps Coinbase as custodian</h1>
-                                    <p>BlackRock, which manages about US$10 trillion as the world’s biggest asset manager, has filed to launch the first publicly traded spot Bitcoin exchange-traded fund (ETF) </p>
+                            <a href="/post-crypto/570" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-691.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 17, 2023</p>
+                                    <h1>Fall in Shiba Inu’s burn rate fuels these burning Qs</h1>
+                                    <p>Shiba Inu’s burn rate dwindles as trading volume declines, raising concerns. However, amidst it all, active addresses soar, and prices climb.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -70,6 +70,18 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
+                            <a href="/post-crypto/569" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-689.jpg" alt="art_pic"/></div>
+                                <p className="dat">  June 17, 2023</p>
+                                <h1>What does the future of Bitcoin depend on</h1>
+                                <p>Bitcoin’s sluggish journey and bearish trend might give way to a bullish surge, depending on the actions of key holders and critical metrics, says a CryptoQuant report.</p>
+                            </a>
+                            <a href="/post-crypto/568" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-670.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 17, 2023 - 3:09 AM</p>
+                                <h1>Newly Released Documents Detail Tether’s Exposure to Chinese Securities</h1>
+                                <p>Financial documents released by New York’s Attorney General show that Tether was backing its USDT stablecoin in part with Chinese commercial paper as of 2021.</p>
+                            </a>
                             <a href="/post-markets/545" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-687.jpg" alt="art_pic"/></div>
                                 <p className="dat"> June 16, 2023 - 8:37 PM</p>
@@ -81,18 +93,6 @@ function PostListingSection()
                                 <p className="dat"> June 16, 2023 - 5:39 PM</p>
                                 <h1>AUDUSD Forecast – Australian Dollar Gives Up Early Gains</h1>
                                 <p>The Australian dollar initially tried to rally during the trading session on Friday, as we threatened to the crucial 0.69 level.</p>
-                            </a>
-                            <a href="/post-markets/544" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-686.jpg" alt="art_pic"/></div>
-                                <p className="dat">  June 16, 2023 - 1:37 PM</p>
-                                <h1>China takes next step in currency globalization, with some HK stocks priced in yuan</h1>
-                                <p>SHANGHAI/HONG KONG (Reuters) - China's gradual internationalisation of its currency will shift to its next leg on Monday when about two dozen Chinese companies start trading in their home currency in Hong Kong's stock market.</p>
-                            </a>
-                            <a href="/post-crypto/565" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-672.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 16, 2023 - 5:24 AM</p>
-                                <h1>Bitcoin edges up after slump, Ether little-changed, other top 10 tokens continue bumpy ride</h1>
-                                <p>Bitcoin rose in Friday morning trading in Asia, after falling below US$25,000 overnight and overall posting a losing week, a trend mirrored by Ether.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
