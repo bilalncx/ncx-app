@@ -216,7 +216,7 @@ div#ncxt__stake {
     .cfd__cnt {
         background-position: 50%!important;
         background-size: calc(100% + 70px)!important;
-        margin-top: 40px!important;
+        margin-top: 20px!important;
         min-height: 350px!important;
     }
     .wallet__defi .container {
@@ -230,8 +230,11 @@ div#ncxt__stake {
     .cfd__cnt p {
         font-size: 10px !important;
     }
-    .wallet__defi, .wallet__buy_crypto{
+    .wallet__buy_crypto{
         padding: 70px 0px !important;
+    }
+    .wallet__defi{
+        padding: 0px 0px 50px 0px !important;
     }
     .wallet__buy_crypto h1.__ldd {
         font-size: 26px !important;
@@ -296,5 +299,8 @@ div#ncxt__stake {
     }
     #wallet__main__cc .mbl__lpl {
         padding: 70px 20px 0px 20px !important;
+    }
+    #Wallet_Main.trading__platform {
+        padding: 50px 0px;
     }
 }
