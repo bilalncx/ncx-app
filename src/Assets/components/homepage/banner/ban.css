@@ -66,7 +66,7 @@ a.marr:focus, a.marr:focus-visible, a.marr:active{
 /* #bannss.ind__banner{
     padding-bottom: 0px !important
 } */
-#bannss.ind__banner .slvs:before, #bannss.ind__banner .slvs:after{
+#bannss #single__part__row:before, #bannss #single__part__row:after{
     display: none !important;
 }
 
@@ -75,9 +75,9 @@ a.marr:focus, a.marr:focus-visible, a.marr:active{
         padding: 20px 0px 0px 0px !important;
         display: none !important;
     }
-    #bannss.ind__banner .btn__dtr{
+    /* #bannss.ind__banner .btn__dtr{
         margin-bottom: 50px;
-    }
+    } */
     div#single__part__row {
         padding: 40px 0px 0px 0px !important;
     }

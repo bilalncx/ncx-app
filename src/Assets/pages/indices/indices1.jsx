@@ -27,7 +27,7 @@ function IndicesPage()
 
         <Indices1 />
 
-        <Indices3 />
+        {/* <Indices3 /> */}
 
         <Indices4 />
 
@@ -35,13 +35,13 @@ function IndicesPage()
 
         <Indices6 />
 
-        <Indices7 />
+        {/* <Indices7 /> */}
 
         <IndicesFAQ />
 
         <TradingSteps />
 
-        <BannerSection />
+        {/* <BannerSection /> */}
 
         <MyFooter />
 

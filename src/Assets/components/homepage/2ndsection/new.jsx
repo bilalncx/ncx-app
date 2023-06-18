@@ -6,6 +6,7 @@ import ExchangeIcon from '../../../images/exchange_icon.png';
 import DerivativeIcon from '../../../images/deri_icon.png';
 import WalletIcon from '../../../images/wallet_icon.png';
 import DebitIcon from '../../../images/debit_icon.png';
+import GlobalMarket2 from '../../../images/purchase-icon.png';
 import { Wallet } from "@mui/icons-material";
 
 function Indices2()
@@ -32,7 +33,7 @@ function Indices2()
                         <p>Safely Store, Send, Swap 500k+ Tokens across 10 Chains on NCX DeFi Wallet. Safeguard your assets holding your own private keys, import existing wallets or create new.</p>
                     </div>
                     <div className="col">
-                        <img src={DebitIcon} alt="ncx" />
+                        <img src={GlobalMarket2} alt="ncx" />
                         <h3>Crypto Debit Card</h3>
                         <p>Pay with Crypto converted into currency at 44 million merchant locations Worldwide. ATM Withdrawals up to $20,000 per month. Apple Pay, Google Pay Integrated.</p>
                     </div>

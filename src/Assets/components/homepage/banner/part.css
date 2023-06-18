@@ -1,6 +1,6 @@
-.mb__partner{
+/* .mb__partner{
     display: none;
-}
+} */
 .mb__partner:before {
     content: '';
     width: 48%;
@@ -23,7 +23,7 @@
     right: 2%;
     margin: 0 auto;
 }
-@media screen and (max-width: 800px){
+/* @media screen and (max-width: 800px){ */
     .mb__partner{
         display: block;
         overflow: hidden;
@@ -109,5 +109,15 @@
         100% {
             transform: translateX(-100%);
         }
+    }
+/* } */
+
+@media screen and (min-width: 900px){
+    .mb__partner .slider-card{
+        width: 170px;
+        min-height: 160px;
+    }
+    h2.partnership{
+        font-size: 32px;
     }
 }

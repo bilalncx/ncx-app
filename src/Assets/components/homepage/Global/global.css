@@ -38,7 +38,7 @@
         display: block !important;
     }
     .mbl__sec__cr .global__row .carousel__slide {
-        padding: 15px 30px;
+        padding: 10px 30px !important;
     }
     .mbl__sec__cr .global__row.row .col{
         min-height: 280px;

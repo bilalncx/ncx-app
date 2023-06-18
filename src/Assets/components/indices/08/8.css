@@ -1,9 +1,9 @@
 .indices__hdd{
-    background: url(../../../images/ind__bg.png);
+    /* background: url(../../../images/ind__bg.png);
     background-repeat: no-repeat;
-    background-size: 100% 140%;
+    background-size: 100% 140%; */
     padding: 120px 0px 140px 0px;
-    background-position: center top;
+    /* background-position: center top; */
 }
 .indices__hdd .row {
     margin: 0px;
@@ -46,9 +46,9 @@
 a.up_sin {
     width: 135px;
     height: 44px;
-    background: #5ED3F0;
-    border: 1.5px solid #5ED3F0 !important;
-    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
+    /* background: #5ED3F0; */
+    border: 1px solid #FFFFFF !important;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
     border-radius: 40px !important;
     color: #FFFFFF !important;
     font-size: 16px !important;
@@ -58,8 +58,8 @@ a.up_sin {
 a.get__ap {
     min-width: 150px;
     height: 44px;
-    background: rgba(33, 33, 33, 0.7);
-    border: 1px solid #5ED3F0;
+    /* background: rgba(33, 33, 33, 0.7); */
+    /* border: 1px solid #5ED3F0; */
     border-radius: 25px;
     color: #FFF;
     font-family: 'urbanist-regular';
@@ -71,17 +71,18 @@ a.up_sin:hover, a.up_sin:focus, a.up_sin:focus-visible{
     outline: none !important;
 }
 a.get__ap:hover{
-    background: #5ED3F0;
-    border: 1.5px solid #5ED3F0 !important;
-    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
+    border: 1px solid #FFFFFF !important;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
 }
 a.get__ap:focus, a.get__ap:focus-visible{
     outline: none !important;
     text-decoration: none;
 }
 a.up_sin:hover{
-    border: 1.5px solid #5ED3F0 !important;
-    box-shadow: 0px 0px 15px rgba(94, 211, 240, 0.75);
+    border: 1px solid #FFFFFF !important;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+    color: #000000 !important;
+    background: #FFFFFF;
 }
 .col.mgg {
     display: flex;

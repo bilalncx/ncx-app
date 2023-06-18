@@ -27,7 +27,7 @@ function HomeBannerSection()
                 {/* <CardLogoSlider /> */}
             </div>
 
-            <CardLogoSlider />
+            {/* <CardLogoSlider /> */}
 
             <div id="single__part__row" className="mb__partner">
                 <div className="sliders-wrap">
