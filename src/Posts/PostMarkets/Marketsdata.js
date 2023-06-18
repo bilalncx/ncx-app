@@ -1,5 +1,180 @@
 const data = [
   {
+    id: 547,
+    title: 'U.S. Apartment Values Will Plunge A Further 20% Economists Say, But Wall Street Still Sees Major Upside In These REITs — Be Greedy When Others Are Fearful?',
+    category: 'Markets',
+    subCategory: ['US', 'economists', 'Wall Street'],
+    description: <div className="blog-desc">
+      <p>After falling for seven straight months, the Case-Shiller U.S. National Home Price Index finally showed upticks in February and March.</p>
+    </div>,
+    authorName: 'Jing Pan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 17, 2023 - 12:42 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-688.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>After falling for seven straight months, the Case-Shiller U.S. National Home Price Index finally showed upticks in February and March. But according to economics research firm Capital Economics, the decline in the housing market is far from over.</p>
+      <p>In their latest report, Capital Economics researchers point out that the increase in home prices in February and March was because of higher demand as a result of declining mortgage rates at the start of this year. But that will prove to be short-lived.</p>
+    	<p>“Rates have since returned close to the double-decade highs set in October, which has caused demand to fall to its lowest levels in almost 30 years,” the report stated.</p>
+      <p>The economists suggest that because of high mortgage rates and a weakening economy, home prices will start declining again later this year.</p>
+      <p>“We expect apartment capital values will plunge a further 20% in 2023 and 2024, resulting in a peak-to-trough fall of around 25%.”</p>
+    	<p>It’s a scary picture. But not everyone shares the same outlook.</p>	
+      <h3>‘A Big Beneficiary On The Way Out’</h3>
+	    <p>Billionaire investor Stanley Druckenmiller recently said that housing “has obviously gone down dramatically given the 500 basis-point increase in interest rates.”</p>
+      <p>But this is not doom and gloom, as the investing legend noted that there’s now a “structural shortage in single-family homes.”</p>
+      <p>“So if things got bad enough, I could actually see housing — which is about the last thing you would think of intuitively — could be a big beneficiary on the way out,” Druckenmiller said.</p>
+      <p>The reality is, no matter what happens, people will always need a place to live. Meanwhile, elevated mortgage rates mean owning a home is less feasible. And when people can’t afford to buy a home, renting becomes the only option. This creates a stable rental income stream for landlords.</p>
+      <p>But you don’t actually need to buy a house to start collecting rental income.</p>
+      <h3>Be Greedy When Others Are Fearful</h3>
+      <p>Publicly traded real estate investment trusts (REITs) own income-producing properties and pay dividends to shareholders. While the housing market faces uncertainty, Wall Street still sees a big upside in these residential REITs.</p>
+      <p><strong>Mid-America Apartment Communities Inc. (NYSE: MAA):</strong> Mid-America Apartment Communities is a REIT primarily focusing on apartment communities in the high-growth Sun Belt region of the U.S. At the end of the first quarter, it had ownership interest in 101,986 apartment units, including communities currently under development. With a quarterly dividend rate of $1.40 per share, the REIT offers an annual yield of 3.6%. Goldman Sachs analyst Chandni Luthra has a Buy rating on Mid-America and a price target of $180. Because shares trade at $153.25 today, the price target implies a potential upside of 17%.</p>
+      <p><strong>AvalonBay Communities Inc. (NYSE: AVB):</strong> AvalonBay Communities is an apartment REIT that focuses on metropolitan areas in regions it believes are characterized by growing employment in high-wage sectors and lower housing affordability. These regions include New England, the New York/New Jersey metro area, the Mid Atlantic, the Pacific Northwest and Northern and Southern California. The stock has surged 17% year to date and Truist Securities analyst Michael Lewis sees more upside on the horizon. The analyst has a Buy rating on AvalonBay and a price target of $211 — around 11% above where the stock sits today. AvalonBay offers an annual dividend yield of 3.5%.</p>
+      <p><strong>Camden Property Trust (NYSE: CPT):</strong> Camden Property Trust owns, manages, develops and acquires multifamily apartment communities. As of April 30, its portfolio consisted of 172 properties totaling 58,702 apartment homes. The REIT pays quarterly dividends of $1 per share, translating to an annual yield of 3.6%. Barclays analyst Anthony Powell has an Overweight rating on Camden and a price target of $137, implying a potential upside of 22%.</p>
+      <p>Income investors are drawn to REITs because they are some of the higher-yielding names in the stock market. But remember, publicly traded REITs — including those that focus on apartment buildings — are still subject to the stock market’s ups and downs. If you don’t like the volatility associated with publicly traded REITs, there are options to invest in rental properties with as little as $100 through the private market.</p>
+    </div>
+  },
+  {
+    id: 546,
+    title: 'A recession is ‘at our doorstep,’ but investors are falling for a goldilocks scenario, Wells Fargo says. It ‘isn’t going to end all that well’',
+    category: 'Markets',
+    subCategory: ['goldilocks', 'Investors', 'market'],
+    description: <div className="blog-desc">
+      <p>Wall Street’s repeated recession warnings are beginning to lose their bite. After more than a year of consistent doomsday forecasts, the U.S. economy</p>
+    </div>,
+    authorName: 'Will Daniel',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 9:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-685.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Wall Street’s repeated recession warnings are beginning to lose their bite. After more than a year of consistent doomsday forecasts, the U.S. economy has remained resilient in the face of stubborn inflation, with the unemployment rate sticking near pre-pandemic lows and GDP growth continuing. The stock market has also rebounded after a bleak 2022, with the S&P surging nearly 16% year to date</p>
+    	<p>Still, Darrell Cronk, president of Wells Fargo Investment Institute, argues the evidence remains overwhelming that a “recession is at our doorstep.”</p>
+      <p>“Much of the manufacturing sector of the economy is already in recessionary territory,” Cronk told reporters at a midyear outlook presentation this week, pointing to the ISM manufacturing index, which showed that the sector contracted for the seventh consecutive month in May.</p>	
+      <p>He noted that leading economic indicators have also consistently declined for over a year and are “at levels consistent with past recessionary cycles.” To his point, the Conference Board’s Leading Economic Index, which looks at data like building permits, average weekly hours worked, and manufacturers’ new orders to get a sense of the health of the economy, dropped for 13 consecutive months through April. Justyna Zabinska-LaMonica, senior manager of business cycle indicators at the Conference Board, said the data signals “a worsening economic outlook,” noting that “weaknesses among underlying components were widespread.”</p>
+    	<p>Cronk did admit that the labor market has held up this year, and the services sector of the economy has remained “somewhat strong” owing to savings consumers built up during the pandemic, but he said he still fears the worst is yet to come for the economy. And Sameer Samana, Wells Fargo Investment Institute’s senior equity strategist, argued that investors aren’t properly pricing in this still gloomy economic outlook amid enthusiasm over the latest developments in artificial intelligence and fading inflation.</p>	
+    	<p>“That’s the real dichotomy right now,” he explained at the midyear outlook presentation. “The market seems to be pricing in a very rosy scenario…and we just don’t think that’s going to end all that well.”</p>
+      <h3>Priced for perfection</h3>
+      <p>Inflation remains well above the Federal Reserve’s 2% target; Fed Chair Jerome Powell has warned that more interest rate hikes are on the way this year; and corporate profits have been falling since the second quarter of 2022. But despite the warning signs, investors are still willing to pay a pretty penny for stocks, lapping up shares at valuations well above historical norms throughout the year. Samana believes that might be a mistake owing to the ongoing “earnings recession.”</p>
+      <p>The strategist noted that corporate revenues have been falling for a few quarters because “parts of the economy are already in recession,” and on top of that, the stronger than expected labor market has left many firms with “sticky” costs.</p>
+      <p>“So what we’re noticing is margins are deteriorating—basically the top line is coming down faster than those sticky labor costs are going down,” he said. As a recession hits the economy later this year, slowing corporate revenue growth, along with higher labor costs, will hurt earnings; Samana believes the S&P 500 will therefore fall roughly 7% from its current level to 4,100.</p>
+      <p>Still, there’s a reason so many investors have become increasingly bullish of late. With year-over-year inflation falling from a four-decade high of 9.1% in June 2022 to just 4% in May, consumers are becoming more optimistic.</p>
+      <p>The University of Michigan’s Consumer Sentiment index rose to 63.9 in June from 59.2 last month, topping economists’ consensus expectations and pushing the index to its highest level since February.  And long-term inflation expectations also dropped slightly, from 3.1% to 3.0%, in a positive sign for economists who feared inflation expectations would become “entrenched” and keep prices elevated.</p>
+      <p>Some analysts also believe A.I. is an $800 billion opportunity for tech firms alone this decade. Wedbush’s Dan Ives has repeatedly argued that the A.I. “gold rush” has just begun, comparing it to the start of the dotcom bubble that started inflating in 1995. And Tom Lee, cofounder of equity research firm Fundstrat Global Advisors, who is known as the biggest bull on Wall Street, said earlier this week that he believes the economy is slipping into an “expansion” rather than a recession as inflation fades and the Federal Reserve ends its interest rate hiking cycle.</p>
+      <p>For Samana, though, the risk might not be worth the reward. The strategist noted that the S&P 500 is currently trading at 20 times its peak earnings from last year, despite a recent earnings contraction.</p>
+      <p>“We’re going to be in a highly volatile, higher inflation, elevated rate environment where the Fed may or may not be done [with interest rate hikes], and there’s a healthy dose of uncertainty to go alongside it. You probably don’t want to pay earnings multiples that are all that high in that environment,” he said. “I don’t think that we’re going to take off to the upside.”</p>
+    </div>
+  },
+  {
+    id: 545,
+    title: 'The Case for Selling Highflying Tech Stocks Like Nvidia and Microsoft',
+    category: 'Markets',
+    subCategory: ['Tech', 'Stocks', 'Microsoft'],
+    description: <div className="blog-desc">
+      <p>After Big Tech's parabolic run, the debate now is whether to hold the shares or fold them. Strategists at Citi argue that they look more like sells than buys.</p>
+    </div>,
+    authorName: 'Jacob Sonenshine',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 8:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-687.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>After Big Tech's parabolic run, the debate now is whether to hold the shares or fold them. Strategists at Citi argue that they look more like sells than buys.</p>
+    	<p>The question comes up because Nvidia NVDA +0.09%  (ticker: NVDA), Microsoft MSFT –1.66%  (MSFT), Meta Platforms META –0.29%  (META) and Alphabet GOOGL –1.25%  (GOOGL) have seen their stocks soar between 40% and about 200% this year. That has catapulted the Nasdaq 100 NDX –0.67%  Index to a gain of almost 40%.</p>	
+	    <p>For Nvidia, fueling the surge have been expectations that advances in artificial intelligence will expand demand for the company’s semiconductors. Microsoft, an investor in OpenAI, the creator of ChatGPT, is expected to benefit not only from incorporating the technology into its Bing search engine, but also from layering AI into its cloud offering, helping to expand the market for it. For the internet, AI enhances Google and Meta’s advertising offerings, making them more compelling to brands.</p>	
+	    <p>All that optimism has lifted valuations—the stocks’ prices relative to the per-share earnings they are expected to deliver over the near term. Investors are paying up because they expect profits to grow for many years.</p>
+      <p>Valuations are a key part of the argument for selling now. Barron’s recently argued that tech multiples aren’t so expensive when adjusting them for the earnings growth Wall Street expects. But a look at history and a comparison of tech valuations to those in other sectors tells a different story.</p>
+      <p>Citi compared the Nasdaq 100’s forward price/earnings ratio, at just over 27 times, according to FactSet, with the roughly 18 times for the S&P 1500, a metric the bank selected because it encapsulates many stocks across sectors. The Nasdaq 100 rarely trades at a premium much higher than this, according to Citi, and when it does, the average move the following year is a loss of 20%.</p>
+      <p>Other data imply that investors are indeed overpaying for tech’s earnings growth potential. Many tech groups within the S&P 1500 are expected to see EPS growth outpace the broader index’s growth by about three to six percentage points. But some of those stocks’ valuations are far higher than for the index.</p>
+      <p>Premiums vary, but one group of companies has traded at an average multiple five points higher than the S&P 1500 over the past five years, while valuations for a second group have been some 10 points higher. Those are big gaps: Premiums have averaged only one to three points in the past 20 years.</p>
+      <p>This isn’t to say tech is necessarily in a bubble, or that these stocks are absolutely certain to see the double-digits drops they have faced in the past. Earnings growth could potentially take the stock prices higher over the years if investors remain willing to pay up now for future profits.</p>
+      <p>And there is a case that they will. AI seems to be real, as shown by how much Nvidia’s sales guidance surpassed analysts’ estimates in its latest quarter. Brian Macauley, portfolio manager at Broad Run Investments, said he is looking for many years of earnings growth at Alphabet, a stock the firm owns.</p>
+      <p>The real point is that there is some possibility that tech stumbles, or that it won’t be able to sustain its recent performance. Other opportunities in the market might look better, such as economically sensitive stocks outside of tech, which are positioned to thrive as the Fed eventually stops raising rates, allowing demand for goods and services to take off.</p>
+      <p>“Sell tech” isn’t a wild idea by any stretch.</p>
+    </div>
+  },
+  {
+    id: 544,
+    title: 'China takes next step in currency globalization, with some HK stocks priced in yuan',
+    category: 'Markets',
+    subCategory: ['China', 'HK', 'Yuan'],
+    description: <div className="blog-desc">
+      <p>SHANGHAI/HONG KONG (Reuters) - China's gradual internationalisation of its currency will shift to its next leg on Monday when about two dozen Chinese companies</p>
+    </div>,
+    authorName: 'Samuel Shen and Georgina Lee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 1:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-686.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Samuel Shen and Georgina Lee</p>
+	    <p>SHANGHAI/HONG KONG (Reuters) - China's gradual internationalisation of its currency will shift to its next leg on Monday when about two dozen Chinese companies start trading in their home currency in Hong Kong's stock market.</p>	
+	    <p>Hong Kong stocks such as Alibaba and Tencent are among the 24 stocks which will be priced and traded in both yuan and the Hong Kong dollar under the Dual Counter Model on the Hong Kong stock exchange (HKEX) from Monday.</p>	
+	    <p>The scheme is targeting overseas investors with yuan holdings initially, but will later include mainland investors via the Hong Kong-China Stock Connect link-up later. Offshore yuan deposits in Hong Kong alone are estimated at some 833 billion yuan ($117 billion).</p>
+      <p>Fund managers say the step reflects Beijing's desire to expand the use of yuan outside China and provide another avenue for yuan-denominated investment, thus reducing the risk of capital outflows chasing higher yielding currencies such as the U.S. dollar.</p>
+      <p>"China is pushing yuan internationalisation to avert geopolitical risks and reduce reliance on the dollar, and for that purpose, you need wider use of the Chinese currency," said Ding Wenjie, strategist of Global Capital Investment at China Asset Management Co (ChinaAMC).</p>
+      <p>Ding said the scheme is a major milestone and expects the model to be expanded in future, beyond stocks to bonds and even alternative assets, boosting overseas asset pools denominated in yuan.</p>
+      <p>The initiative comes amid a steady stream of bilateral yuan-denominated deals China has struck with trading partners, from Chinese oil purchases in the Middle East, to commodities trade with partners from Brazil to Russia. Beijing has retained close ties with Moscow despite the invasion of Ukraine.</p>
+      <p>The U.S. dollar remains the dominant global currency, accounting for 42% of global payments. The yuan's share is just 2.29%, but is up from 1.95% two years ago.</p>
+      <p>A significant breakthrough in China's efforts to promote use of the yuan came this month, when Pakistan paid for its first government-to-government import of discounted Russian crude oil in yuan.</p>
+      <p>"When a currency is internationalised, it's not only used in trade, physical goods, or services. It also has to be parked in investment vehicles," said Dong Chen, Head of Asia Macroeconomic Research at Pictet Wealth Management.</p>
+      <p>For foreign investors with yuan holdings, "buying shares in Hong Kong without really going into mainland China will be a much, much easier way to park your holdings of this currency," he said.</p>
+      <h3>YUAN INCENTIVES</h3>
+      <p>Under the dual counter arrangement, investors can choose to trade a stock either using Hong Kong dollars via the HKD counter, or yuan via the RMB counter, with market makers providing liquidity and minimizing price discrepancies.</p>
+      <p>Most of the first batch of stocks eligible for yuan trading - which include AIA Group, Sun Hung Kai Properties and Hang Seng Bank Ltd - are not listed in China.</p>
+      <p>Fund managers expect a lukewarm interest in the yuan counters initially, given near-term risks including a weakening yuan and wobbly stocks as China's economy struggles. But they expect demand to pick up over time.</p>
+      <p>"Mainland investors, including mutual fund companies like us, have genuine incentives to trade Hong Kong stocks in yuan," said Ding of ChinaAMC.</p>
+      <p>"Our fund returns and dividends are priced in yuan, so using the RMB counter can remove forex exchange costs, and shield us from currency volatility."</p>
+      <p>There are many other reasons to trade in yuan, said David Friedland, Asia Pacific managing director at Interactive Brokers, which offers yuan-trading services.</p>
+      <p>"There's lot of political uncertainty these days so you may want to hold yuan rather than U.S. dollars, or the Hong Kong dollar, which is pegged to the U.S. dollar."</p>
+      <p>($1 = 7.8217 Hong Kong dollars)</p>
+      <p>(Reporting by Samuel Shen and Georgina Lee; Editing by Vidya Ranganathan and Kim Coghill)</p>
+    </div>
+  },
+  {
+    id: 543,
+    title: 'World stocks gauge pauses after big run, heavy central bank week',
+    category: 'Markets',
+    subCategory: ['Stocks', 'Central', 'Bank'],
+    description: <div className="blog-desc">
+      <p>NEW YORK/LONDON (Reuters) - A gauge of global stock markets took a breather on Friday after a run to 14-month highs, while the U.S. dollar headed for its biggest</p>
+    </div>,
+    authorName: 'Lewis Krauskopf and Amanda Cooper',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 16, 2023 - 6:22 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-684.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Lewis Krauskopf and Amanda Cooper</p>
+    	<p>NEW YORK/LONDON (Reuters) - A gauge of global stock markets took a breather on Friday after a run to 14-month highs, while the U.S. dollar headed for its biggest weekly slide since January following a heavy week of central bank meetings around the world.</p>	
+    	<p>The MSCI All-World index edged down 0.06% but remained near its highest level since mid-April 2022. Wall Street's main equity indexes ended lower but tallied solid weekly gains.</p>	
+	    <p>Ending an intense week of central bank actions, the Bank of Japan maintained its ultra-easy monetary policy on Friday despite stronger-than-expected inflation. Earlier in the week the Federal Reserve kept rates unchanged, while suggesting more hikes could come later in the year, and the European Central Bank hiked by a quarter-point.</p>
+      <p>"We have had a pretty constructive week,” said Art Hogan, chief market strategist at B Riley Wealth.</p>
+      <p>“The ECB and the UK likely are still in the process of being in the throes of tightening, where the U.S. is certainly knocking on the door of being through with the rate hiking cycle and I think that has been driving some divergences.”</p>
+      <p>On Wall Street, the Dow Jones Industrial Average fell 108.94 points, or 0.32%, to 34,299.12, the S&P 500 lost 16.24 points, or 0.37%, to 4,409.6 and the Nasdaq Composite dropped 93.25 points, or 0.68%, to 13,689.57.</p>
+      <p>The pan-European STOXX 600 index rose 0.5%, while Japan's Nikkei rose 0.7% for a 10th straight week of gains.</p>
+      <p>In currency markets, the dollar index, which measures the greenback against a basket of currencies, rose 0.18%, with the euro down 0.09% to $1.09.</p>
+      <p>Still, the dollar was set to log its biggest weekly percentage drop since mid-January.</p>
+      <p>Meanwhile, the yen fell to its lowest point against the euro in 15 years after the BOJ's decision. The Japanese currency also weakened 1.07% versus the greenback at 141.84 per dollar, dropping to a six-month trough.</p>
+      <p>"The yen is suffering from a big negative yield gap versus other G10 currencies," said Vassili Serebriakov, FX strategist at UBS in New York.</p>
+      <p>U.S. Treasury yields rose, with the benchmark 10-year yield rising after two straight days of declines as comments from Fed officials indicated the central bank was not yet done with its interest rate hikes.</p>
+      <p>Fed Governor Christopher Waller said at an economics conference that core inflation "is not coming down like I thought it would," which probably would require more tightening.</p>
+      <p>Benchmark 10-year notes were up 4 basis points to 3.77% from 3.73% late on Thursday.</p>
+      <p>Oil prices rose and posted a weekly gain, as higher Chinese demand and OPEC+ supply cuts lifted prices.</p>
+      <p>U.S. crude settled up 1.6% at $71.78 per barrel and Brent settled at $76.61, up 1.2% on the day.</p>
+      <p>(Reporting by Lewis Krauskopf in New York and Amanda Cooper in London; Additional reporting by Ankur Banerjee in Singapore and Chuck Mikolajczak, Gertrude Chavez-Dreyfuss in New York, Sruthi Shankar and Shristi Achar A in Bengaluru; Editing by Nick Zieminski and Matthew Lewis)</p>
+    </div>
+  },
+  {
     id: 542,
     title: 'China Leads Stock Gains as PBOC Cuts, Fed Holds: Markets Wrap',
     category: 'Markets',
