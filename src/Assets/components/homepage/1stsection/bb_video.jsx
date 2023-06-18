@@ -68,8 +68,8 @@ function NCXAPPSection()
                 <div className="container">
                     <h1>NCX Hybrid Exchange</h1>
                     <div className="hyng">
-                        <Button href="https://my.ncx.cx/register/" target="__blank" rel="noreferrer" className="bnb_mki">Sign Up</Button>
-                        <Button href="#features" className="mki__lo">view Features</Button>
+                        <Button href="https://my.ncx.cx/register/" target="__blank" rel="noreferrer" className="mki__lo">Sign Up</Button>
+                        <Button href="#features" className="bnb_mki">View Features</Button>
                     </div>
                 </div>
             </div>
