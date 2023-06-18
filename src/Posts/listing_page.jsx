@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/542" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-658.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 15, 2023 - 10:07 AM</p>
-                                    <h1>China Leads Stock Gains as PBOC Cuts, Fed Holds: Markets Wrap</h1>
-                                    <p>(Bloomberg) -- Chinese equities led gains in Asian shares Thursday after the Federal Reserve paused monetary tightening and the People’s Bank of China cut a key </p>
+                            <a href="/post-markets/547" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-688.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 17, 2023 - 12:42 AM</p>
+                                    <h1>U.S. Apartment Values Will Plunge A Further 20% Economists Say, But Wall Street Still Sees Major Upside In These REITs — Be Greedy When Others Are Fearful?</h1>
+                                    <p>After falling for seven straight months, the Case-Shiller U.S. National Home Price Index finally showed upticks in February and March.</p>
                                 </a>
-                            <a href="/post-markets/541" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-659.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 15, 2023 - 6:25 AM</p>
-                                    <h1>Goldman cutting more than 30 Asia investment banking jobs - sources</h1>
-                                    <p>HONG KONG (Reuters) -Goldman Sachs Group is cutting more than 30 banking jobs in Asia, two sources with knowledge of the matter said,</p>
+                            <a href="/post-markets/546" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-685.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 16, 2023 - 9:00 PM</p>
+                                    <h1>A recession is ‘at our doorstep,’ but investors are falling for a goldilocks scenario, Wells Fargo says. It ‘isn’t going to end all that well’</h1>
+                                    <p>Wall Street’s repeated recession warnings are beginning to lose their bite. After more than a year of consistent doomsday forecasts, the U.S. economy has remained resilient in the face of stubborn inflation,</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
+                            <a href="/post-markets/545" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-687.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 16, 2023 - 8:37 PM</p>
+                                <h1>The Case for Selling Highflying Tech Stocks Like Nvidia and Microsoft</h1>
+                                <p>After Big Tech's parabolic run, the debate now is whether to hold the shares or fold them. Strategists at Citi argue that they look more like sells than buys.</p>
+                            </a>
                             <a href="/post-forex/539" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-683.jpg" alt="art_pic"/></div>
                                 <p className="dat"> June 16, 2023 - 5:39 PM</p>
                                 <h1>AUDUSD Forecast – Australian Dollar Gives Up Early Gains</h1>
                                 <p>The Australian dollar initially tried to rally during the trading session on Friday, as we threatened to the crucial 0.69 level.</p>
                             </a>
+                            <a href="/post-markets/544" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-686.jpg" alt="art_pic"/></div>
+                                <p className="dat">  June 16, 2023 - 1:37 PM</p>
+                                <h1>China takes next step in currency globalization, with some HK stocks priced in yuan</h1>
+                                <p>SHANGHAI/HONG KONG (Reuters) - China's gradual internationalisation of its currency will shift to its next leg on Monday when about two dozen Chinese companies start trading in their home currency in Hong Kong's stock market.</p>
+                            </a>
                             <a href="/post-crypto/565" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-672.jpg" alt="art_pic"/></div>
                                 <p className="dat"> June 16, 2023 - 5:24 AM</p>
                                 <h1>Bitcoin edges up after slump, Ether little-changed, other top 10 tokens continue bumpy ride</h1>
                                 <p>Bitcoin rose in Friday morning trading in Asia, after falling below US$25,000 overnight and overall posting a losing week, a trend mirrored by Ether.</p>
-                            </a>
-                            <a href="/post-crypto/562" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-662.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 15, 2023 - 7:47 AM</p>
-                                <h1>Ethereum Survives AWS Outage Unscathed But Analysts Warn Of Future Incidents</h1>
-                                <p>Ethereum’s reliance on centralized infrastructure is under scrutiny after some U.S. users of Amazon Web Services, the world’s largest cloud hosting provider,</p>
-                            </a>
-                            <a href="/post-commodities/533" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-666.jpg" alt="art_pic"/></div>
-                                <p className="dat">  June 15, 2023 - 12:04 AM</p>
-                                <h1>Its not just gasoline: Other energy prices are finally falling, too</h1>
-                                <p>Some types of inflation are highly visible. Gasoline prices, in giant numbers at every filling station, are probably the most-seen inflation gauge.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
