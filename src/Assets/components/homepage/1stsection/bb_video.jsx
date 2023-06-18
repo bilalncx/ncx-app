@@ -14,7 +14,7 @@ function NCXAPPSection()
     const { t } = useTranslation();
     return(
         <div className="hom__ppo">
-            <div id="home__ffgrr" className="ncxapp-section">
+            {/* <div id="home__ffgrr" className="ncxapp-section">
                 <div id="ncx_buycrypto_video">
                     <div className="desktop">
                         <video 
@@ -50,7 +50,31 @@ function NCXAPPSection()
                         <div className="col"></div>
                     </div>
                 </div>
+            </div> */}
+            
+            <div className="new__crf">
+            <div className="bgt_hyn">
+                <video 
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    preload="auto"
+                    >
+                    <source src={NewCardVideo} type="video/mp4" />
+                </video>
             </div>
+            <div className="bvc_mnb">
+                <div className="container">
+                    <h1>NCX Hybrid Exchange</h1>
+                    <div className="hyng">
+                        <Button href="https://my.ncx.cx/register/" target="__blank" rel="noreferrer" className="bnb_mki">Sign Up</Button>
+                        <Button href="#features" className="mki__lo">view Features</Button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
             <div className="mbl__lpl">
                 <video 
                     autoPlay={true}

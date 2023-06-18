@@ -10,11 +10,9 @@ function NewFeatureSection()
     const [toggle, setToggle] = useState(false);
 
     return(
-        <div className="feature__dx">
-            {/* {toggle && (
-                
-            )} */}
+        <div id="features" className="feature__dx">
             <div className="mki__bh">
+                <h1 className="feature__dd">Features</h1>
                 <div className="feat__gg">
                     <div className="sticky_pos">
                         <div className="lkj head container">
@@ -242,13 +240,6 @@ function NewFeatureSection()
                     </div>
                 </div> 
             </div>
-            {/* <div className="bf__pok container">
-                <button 
-                    onClick={() => setToggle(!toggle)} 
-                    class="btn btn-primary mb-5">
-                    {toggle ? "Hide Features" : "View Features"}
-                </button>
-            </div> */}
 
             <div id="mb__feat">
                 <div className="container">

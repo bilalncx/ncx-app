@@ -160,13 +160,10 @@ div#market .container {
     max-width: 1200px !important;
 }
 #market.market-exchange {
-    /* background: url(../images/indices_ellipse2.png) !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important; */
     background-color: #000000 !important;
-    /* background-position: center top 0px !important; */
-    padding: 60px 0px 0px 0px !important;
+    padding: 100px 0px 0px 0px !important;
     position: relative;
+    margin-top: 1px;
 }
 div#market:before {
     content: "";
@@ -479,10 +476,10 @@ details[open] .contt {
 #hh__task .ncxtasksection {
     padding-top: 0px;
 }
-#hyres .earnncx {
+/* #hyres .earnncx {
     background: #000000;
     padding: 80px 0px 40px 0px;
-}
+} */
 #hyres .ncxtasksection h1{
     color: #FFFFFF;
 }
@@ -701,12 +698,72 @@ a.cl__drp:hover{
     background: #FFFFFF !important;
     box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
 }
+.bg-dark header#header-row {
+    background: transparent;
+    background-color: transparent;
+}
+#home_coins, .trade__cfd{
+    position: relative;
+}
+#home_coins:before, .trade__cfd:before, .trading__platform:before, .mrkt__cfds:before, .feature__dx:before,
+.new-generation:before, .earnncx:before, .bg-dark #stake_ncxT:before, .trad__detiv:before {
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(270deg,#fff,hsla(0,0%,100%,0));
+    left: 2.1%;
+}
+#home_coins:after, .trade__cfd:after, .trading__platform:after, .mrkt__cfds:after, .feature__dx:after,
+.new-generation:after, .earnncx:after, .bg-dark #stake_ncxT:after, .trad__detiv:after {
+    content: "";
+    display: block;
+    height: 0.75px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    width: 48%;
+    background: linear-gradient(90deg,#fff,hsla(0,0%,100%,0));
+    right: 2.1%;
+}
+.bg-dark .tokentable-stake{
+    padding-bottom: 0px !important;
+}
+#bannss.ind__banner div#single__part__row {
+    margin: 0px;
+    padding: 50px 0px 20px 0px;
+}
+
+
+
+
+
+
+
+
+
 .mbl__lpl{
     display: none;
 }
 .bbn__bm{
     display: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (min-width: 801px) and (max-width: 1100px){
     .bg-dark .hom__ppo .apps_barcod h1 {
         font-size: 30px !important;
@@ -724,7 +781,7 @@ a.cl__drp:hover{
 }
 @media screen and (max-width: 800px){
     .bg-dark .ind__cont{
-        padding: 20px 0px 40px 0px !important;
+        padding: 20px 0px 0px 0px !important;
     }
     #card-faqss summary {
         font-size: 16px!important;
@@ -734,7 +791,7 @@ a.cl__drp:hover{
     }
     #market.market-exchange{
         background: #000000 !important;
-        padding-top: 50px !important;
+        padding: 50px 0px 30px 0px !important;
     }
     #market .featured_market {
         background: #101010 !important;
@@ -827,7 +884,10 @@ a.cl__drp:hover{
         display: none !important;
     }
     .bg-dark .trading__platform .plat__ggre.row .col{
-        padding-top: 70px !important;
+        padding-top: 40px !important;
+    }
+    .mrkt__cfds, .feature__dx{
+        padding: 50px 0px !important;
     }
     .bg-dark .trading__platform .ipad__gg{
         background: transparent !important;
@@ -887,7 +947,8 @@ a.cl__drp:hover{
         padding: 15px 10px !important;
     }
     #home_coins.wallet-slider{
-        padding: 50px 0px 0px 0px !important;
+        padding: 50px 0px 50px 0px !important;
+        margin-top: 0px !important;
     }
     #card__new .trg__ff__fe p{
         width: 100% !important;
@@ -962,7 +1023,7 @@ a.cl__drp:hover{
         width: 110px !important;
     }
     .bg-dark .trading__platform{
-        padding: 0px 0px 50px 0px !important;
+        padding: 50px 0px 50px 0px !important;
     }
     #home_coins .coin__tb{
         gap: 10px !important;
@@ -991,9 +1052,11 @@ a.cl__drp:hover{
     }
     .bg-dark .global__mart{
         margin-top: 0px;
+        padding: 50px 0px !important;
     }
     #bannss.ind__banner{
         display: none;
+        padding: 50px 0px !important;
     }
     .bbn__bm #bannss.ind__banner, .bbn__bm{
         display: block !important;
@@ -1011,7 +1074,10 @@ a.cl__drp:hover{
         margin-top: 0px !important;
     }
     #hgff .new-generation{
-        padding: 30px 0px !important;
+        padding: 50px 0px !important;
+    }
+    .mb__partner{
+        padding-top: 50px !important;
     }
     .hide_mbl{
         display: none;

@@ -29,7 +29,8 @@
         overflow: hidden;
         padding-bottom: 35px;
         position: relative;
-        padding-top: 50px;
+        padding-top: 100px;
+        margin-top: 3px;
     }
     h2.partnership {
         color: #FFFFFF;
@@ -119,5 +120,8 @@
     }
     h2.partnership{
         font-size: 32px;
+    }
+    .mb__partner .scroll{
+        animation-duration: 140s;
     }
 }

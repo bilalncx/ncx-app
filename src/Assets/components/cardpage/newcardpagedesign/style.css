@@ -141,8 +141,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 .card_exprnc, .aerv, .slvs, .berfvc, .range_cards, .cont_vwef, .integr__pla, .bvc_mnb{
     position: relative;
 }
-.card_exprnc:after, .aerv:after, .slvs:after, .berfvc:after, .range_cards:after, .cont_vwef:after, .integr__pla:after, 
-.bvc_mnb:after, .card_box:after{
+.card_exprnc:after, .aerv:after, .slvs:after, .berfvc:after, .range_cards:after, .cont_vwef:after, .integr__pla:after, .card_box:after{
     /* content: '';
     background: rgba(255,255,255,0.25);
     width: -webkit-fill-available;
@@ -165,7 +164,7 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
     margin: 0 auto;
 }
 .card_exprnc:before, .aerv:before, .slvs:before, .berfvc:before, .range_cards:before, .cont_vwef:before,
-.integr__pla:before, .bvc_mnb:before, .card_box:before{
+.integr__pla:before, .card_box:before{
     content: '';
     width: 48.05%;
     height: 0.75px;
@@ -554,7 +553,7 @@ a.bnb_mki {
     letter-spacing: 0px;
     text-transform: initial;
     font-family: 'urbanist-medium';
-    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+    /* box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5); */
 }
 a.bnb_mki:hover, a.bnb_mki:focus, a.bnb_mki:focus-visible, a.mki__lo:hover, a.mki__lo:focus, a.mki__lo:focus-visible{
     outline: none;
@@ -579,7 +578,7 @@ a.mki__lo {
     text-transform: inherit;
     letter-spacing: 0;
     border-radius: 50px;
-    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5);
+    /* box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5); */
 }
 .hyng {
     gap: 16px;

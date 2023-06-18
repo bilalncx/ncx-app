@@ -35,7 +35,7 @@ function IndicesPage()
 
         <Indices6 />
 
-        {/* <Indices7 /> */}
+        <Indices7 />
 
         <IndicesFAQ />
 

@@ -1,6 +1,7 @@
 .feature__dx {
-    padding: 0px 0px 50px 0px;
+    padding: 100px 0px 100px 0px;
     position: relative;
+    margin-top: 2px;
 }
 .lkj {
     display: flex;
@@ -34,7 +35,7 @@
     font-family: 'urbanist-medium';
 }
 .lkj.head.container {
-    border-bottom: 0.5px solid rgba(255,255,255,1) !important;
+    border-bottom: 0.5px solid rgba(255,255,255,0.5) !important;
     margin-bottom: 10px;
 }
 a.open_acnt {
@@ -151,8 +152,13 @@ p.nhgt span{
     border: 1px solid #FFFFFF !important;
     box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.5) !important;
 }
-.feat__gg {
-    margin: 50px 0px !important;
+.feature__dd{
+    font-size: 32px;
+    line-height: 36px;
+    font-family: 'urbanist-regular';
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 @media screen and (min-width: 800px){
@@ -163,7 +169,7 @@ p.nhgt span{
 @media screen and (max-width: 800px){
     #mb__feat{
         display: block;
-        padding: 50px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
     }
     .bf__pok.container {
         display: none;

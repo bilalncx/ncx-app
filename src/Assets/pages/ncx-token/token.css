@@ -4,6 +4,7 @@ div#ncx_token_Page {
 }
 #ncx_token_Page .dex-table {
     padding: 30px 0px 120px 0px;
+    display: none;
 }
 
 
@@ -314,7 +315,7 @@ div#token_countdown .show-counter p{
 /************************************ Token Generation Video Styling ************************************** */
 div#token_video {
     background: #000000 !important;
-    padding: 50px 0px 150px 0px ;
+    padding: 100px 0px 150px 0px ;
 }
 div#token_video .generate-div h1{
     color: #FFFFFF !important;

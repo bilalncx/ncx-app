@@ -62,7 +62,8 @@
 }
 #home_coins.wallet-slider {
     min-height: unset;
-    padding: 120px 0px 50px 0px;
+    padding: 100px 0px 100px 0px;
+    margin-top: 100px;
 }
 #home_coins .coin__chain{
     background: #151515 !important;

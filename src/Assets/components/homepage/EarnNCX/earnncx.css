@@ -1,7 +1,8 @@
 .earnncx {
-    background: #FFFFFF;
-    padding: 80px 0px 0px 0px;
+    background: #000000;
+    padding: 100px 0px 100px 0px;
     position: relative;
+    margin-top: 2px;
 }
 .earnheading{
     margin-bottom: 50px;
@@ -101,8 +102,11 @@
         width: 49% !important;
     }
     .earnncx{
-        padding: 0px 0px 0px 0px !important;
-        margin-top: -1px;
+        padding: 0px 0px 50px 0px !important;
+        margin-top: 0px;
+    }
+    .earnncx:after, .earnncx:before{
+        display: none;
     }
     .earnheading{
         margin-bottom: 30px !important;

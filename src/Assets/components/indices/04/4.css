@@ -1,5 +1,7 @@
 .global__mart {
-    padding: 70px 0px;
+    padding: 100px 0px;
+    position: relative;
+    margin-top: 1px;
 }
 .global__row.row {
     margin: 0px;
@@ -23,9 +25,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center; */
-    padding-top: 60px;
-    position: relative;
-    margin-top: 60px;
+    /* padding-top: 60px; */
+    /* position: relative; */
+    /* margin-top: 60px; */
 }
 .global__row img, .global__row svg {
     width: 80px;
