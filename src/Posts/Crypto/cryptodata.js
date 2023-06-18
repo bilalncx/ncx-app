@@ -1,5 +1,152 @@
 const data = [
   {
+    id: 572,
+    title: 'BNB Chain’s NFT landscape witnesses a rebound in June aided by…',
+    category: 'Crypto',
+    subCategory: ['BNB', 'NFT', 'crypto'],
+    description: <div className="blog-desc">
+      <p>After stagnating in May, BNB Chain’s NFT sales volume and trade count witnessed an impressive rebound in June.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 18, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-693.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>After stagnating in May, BNB Chain’s NFT sales volume and trade count witnessed an impressive rebound in June.</p>
+      <ul>
+        <li>BNB Chain’s daily NFT sales volume touched the $1 million mark on 14 June after nearly two months.</li>
+        <li>BNB was trading green at the time of publication, showing signs of recovery.</li>
+      </ul>
+    	<p>The BNB Chain [BNB] added yet another non-fungible token (NFT) collection to its arsenal, solidifying its position as one of the largest NFT ecosystems.</p>	
+    	<p>BNB Chain took to Twitter to announce the release of Hyena Warriors, the sequel collection to Tiger Warriors and the second in a series of hand drawn NFT collections from the Planet ZUUD brand.</p>	
+    	<p>According to data from CryptoSlam, the collection recorded a total sales volume of $65,296 until press time, with 378 users already owning several of its collectibles.</p>
+      <h3>A rebound in NFT activity</h3>
+      <p>Pretty much like the rangebound price action of several top crypto assets in the market, BNB’s NFT trading activity stagnated in May.</p>
+      <p>However, activity increased in June, with the daily sales volume breaking the $1 million mark for the first time in nearly two months on 14 June. This also marked a 26% increase in weekly sales volume.</p>
+      <p>The weekly trade count also jumped by 48%. This was a clear indicator that the trading activity was driven by an increase in overall transactions rather than a few high-value transactions driving up the volume.</p>
+      <p>At the time of writing, BNB Chain was the fourth-largest layer-1 (L1) blockchain in terms of NFT sales volume, trailing by market leader Ethereum [ETH], Bitcoin [BTC] and Solana [SOL].</p>
+      <p>The Binance ecosystem has been taking proactive steps in making the network appealing to NFT trading. It recently announced support for Bitcoin NFT on its dedicated NFT marketplace platform.</p>
+      <h3>Network traffic slows down</h3>
+      <p>The jump in NFT sales volume came despite a marked fall in the BNB Chain’s user base. As per Token Terminal, the weekly active user count dropped by more than 5% from the previous week.</p>
+      <p>As users stayed away, the network traffic declined considerably. The network’s weekly transaction fees have been progressively declining since the last week of May, and registered a negative growth rate of nearly 17% from the previous period.</p>
+      <h3>BNB sees hope</h3>
+      <p>The native token of the ecosystem, BNB, was trading the green at the time of publication, gaining 4.88% in the 24-hour period, according to Santiment. The beleaguered token was trying to gain some ground after the U.S. Securities and Exchange Commission’s (SEC) legal salvo fired towards parent company Binance saw its value plummet 18%.</p>
+      <p>The coin’s weighted sentiment dipped in the negative territory, reflecting the pessimism of investors.</p>
+    </div>
+  },
+  {
+    id: 571,
+    title: 'Solana brings some good news to investors as…',
+    category: 'Crypto',
+    subCategory: ['Solana', 'Investors', 'news'],
+    description: <div className="blog-desc">
+      <p>Solana’s activity surged with an increase in new contracts on the network.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 18, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-692.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Solana’s activity surged with an increase in new contracts on the network.</p>
+      <ul>
+        <li>Solana experiences surge in new contracts, indicating growing adoption and utilization of the network.</li>
+        <li>NFT trading volume decreases, but stakers show continued interest as Solana’s price sees recovery.</li>
+      </ul>
+    	<p>Despite facing multiple network outages and witnessing prominent NFTs bridging to other networks, Solana has demonstrated remarkable resilience and managed to attract a significant number of users to its platform.</p>
+      <h3>Solana continues to show growth</h3>
+    	<p>According to the latest data from Artemis, new contracts deployed to Solana have reached a year-to-date high.</p>	
+    	<p>This signifies substantial growth and heightened activity within the Solana ecosystem, showcasing the increased adoption and utilization of the Solana blockchain for various decentralized applications (dApps) and smart contract development. Such a trend suggests a vibrant developer community and a growing interest in building on the Solana network.</p>
+      <p>However, while the number of contracts being deployed on Solana is on the rise, the DeFi sector has not witnessed equivalent growth. Artemis’ data highlights a noticeable decline in the Total Value Locked (TVL) of Solana over the past few days.</p>
+      <p>Additionally, the volumes of decentralized exchanges (DEXs) on Solana have also experienced a significant decrease, indicating a waning interest in Solana’s DEXs.</p>
+      <p>In the NFT sector, the volume of Solana NFTs being traded has seen a drastic fall. Despite this decline, the total floor value of Solana NFTs has remained relatively stable, with no substantial depreciation observed.</p>
+      <h3>Court of the law and public opinion</h3>
+      <p>The reduction in NFT trading volume could be attributed to the prevailing negative sentiment surrounding Solana within the crypto community. Santiment’s data reveals a significant decrease in the weighted sentiment, suggesting that negative comments currently outweigh positive ones.</p>
+      <p>One potential factor contributing to the declining sentiment might be the SEC lawsuit against Binance. Furthermore, the recent delisting of SOL from the Bakkt exchange has added to the negative sentiment, potentially leading to further price impact if more exchanges follow suit.</p>
+      <p>Despite these challenges, stakers have continued to show interest in SOL.</p>
+      <p>According to data provided by Staking Rewards, over the last month, the number of users staking SOL has increased by 2.84%. Nevertheless, Solana’s price showed signs of recovery.</p>
+      <p>At present, SOL is trading at $15.89, representing a 24-hour price appreciation of 7.89% according to CoinMarketCap.</p>
+    </div>
+  },
+  {
+    id: 570,
+    title: 'Fall in Shiba Inu’s burn rate fuels these burning Qs',
+    category: 'Crypto',
+    subCategory: ['Shiba', 'Inus', 'Fules'],
+    description: <div className="blog-desc">
+      <p>Shiba Inu’s burn rate dwindles as trading volume declines, raising concerns. However, amidst it all, active addresses soar, and prices climb.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 17, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-691.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Shiba Inu’s burn rate dwindles as trading volume declines, raising concerns. However, amidst it all, active addresses soar, and prices climb.</p>
+    	<ul>
+        <li>Shiba Inu’s 7-day burn rate declined to -84%.</li>
+        <li>SHIB’s price has seen consecutive increases in value in the past three days.</li>
+      </ul>
+      <p>Shiba Inu (SHIB) has been experiencing notable progress in various important areas, especially its price. As the price of SHIB has been on the rise, it reflected positive movement in several key metrics. However, amidst these upward trends, one particular metric has witnessed negative returns over the past few days. A cause for worry?</p>	
+    	<h3>Shiba Inu’s burn rate declines</h3>
+      <p>Recent data revealed a noticeable decline in the burn rate of Shiba Inu. Information shared by Shibburn, a SHIB burn rate tracker, indicated that the burn rate decreased by more than 85% within the past seven days.</p>	
+    	<p>Additionally, according to the Shibburn site, only 360,222 SHIB tokens were burned in the past 24 hours, resulting in an almost -84% burn rate. Also, over 22 hours have lapsed since the last burn. This current burn rate departs from the consistent millions of SHIB tokens burned in previous instances.</p>
+      <p>Furthermore, a closer examination of the volume metric on Santiment sheds light on a potential cause of the burn rate decline. Analysis of the volume chart indicated a decline in SHIB trading volume.</p>
+      <p>As of this writing, the volume stood at approximately 64.6 million. It represented a significant decrease from the over 100 million volumes recorded around 11 June. This decline in volume implied a decrease in the number of SHIB transactions, thus contributing to the decrease in the burn rate.</p>
+      <h3>Active addresses surge</h3>
+      <p>Despite the decline in burn rate and trading volume, Shiba Inu experienced a notable increase in active addresses. According to the seven-day active addresses metric, SHIB active addresses began trending upward around 6 June, reaching the highest level in the past two months. As of this writing, there were over 77,000 active addresses.</p>
+      <p>Furthermore, there was a significant surge in daily active addresses on 15 June, surpassing 42,000. Before that, the daily active addresses hovered around 3,000. As of this writing, it decreased to approximately 8,200, which still exceeded the levels observed in April and May.</p>
+      <h3>Shiba Inu sees consecutive price rise</h3>
+      <p>Shiba Inu has recently experienced a series of positive price movements on its daily timeframe chart. As of this writing, it gained nearly 1% in value, marking the third consecutive day of price increase.</p>
+      <p>However, it was still in a bearish trend, as indicated by the Moving Average Convergence Divergence (MACD). As of this writing, the MACD remained below 0, signaling a persistent bearish trend despite the ongoing uptrend in price.</p>
+    </div>
+  },
+  {
+    id: 569,
+    title: 'What does the future of Bitcoin depend on',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Future', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin’s sluggish journey and bearish trend might give way to a bullish surge, depending on the actions of key holders and critical metrics, says a CryptoQuant report.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 17, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-689.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin’s sluggish journey and bearish trend might give way to a bullish surge, depending on the actions of key holders and critical metrics, says a CryptoQuant report.</p>
+    	<ul>
+        <li>Investors holding 1,000-10,000 BTC and US institutional holders declined in recent months.</li>
+        <li>BTC’s price remained below SMA as the bear trend persisted.</li>
+      </ul>
+      <p>Bitcoin’s [BTC] price has been crawling at a snail’s pace, and the dominant direction remained bearish over an extended period. Nevertheless, a potential surge towards a bullish trend could potentially materialize, but it hinges on the actions of two distinct groups of holders, as highlighted in a recent report by CryptoQuant.</p>
+      <h3>Bitcoin holders stall the bull trend</h3>	
+    	<p>A recent report by CryptoQuant suggested that the current Bitcoin trend could potentially transition into a bullish phase, contingent upon the upturn of two key metrics.</p>	
+    	<p>The first metric, known as the UTXO value bands, indicated a decrease in BTC holdings for certain groups of investors. These bands provide insights into the distribution of BTC holdings among different categories.</p>
+      <p>Historically, BTC prices have surged when large investors, often called whales, have accumulated substantial amounts of BTC.</p>
+      <p>Notably, the rise in the 1,000–10,000 BTC holding group has significantly triggered price increases. However, the latest data reveals a deviation from the previous pattern, as the quantity of BTC held by this group has not been increasing as of this writing.</p>
+      <p>Furthermore, another metric, the Geographical Supply Distribution by Entities, sheds light on the holdings of Bitcoin by institutions in the United States.</p>
+      <p>Since April 2021, there has been a decline in BTC holdings among US institutions. Interestingly, this decrease persists despite the 100% rise in BTC prices this year, implying a lack of capital inflow from US institutions.</p>
+      <h3>Bitcoin’s poor run continues</h3>
+      <p>Examining the daily timeframe chart of Bitcoin indicated that the press time downtrend would continue. As of this writing, Bitcoin was trading at approximately $25,600, experiencing a marginal loss of less than 1%.</p>
+      <p>The price had descended below its short Moving Average (yellow line), which acted as a resistance level at around $27,000.</p>
+      <p>Additionally, the Relative Strength Index (RSI) indicated a persistent bearish trend. The RSI stood at 40, indicating a move away from the oversold zone but still maintaining a strong bearish momentum.</p>
+      <h3>MVRV presents mixed opportunities</h3>
+      <p>Following a period of profitability observed in March and April, Bitcoin holders have encountered a phase of undervaluation concerning their holdings. This is reflected in the 30-day BTC Market Value to Realized Value (MVRV) ratio, which indicated that the asset was undervalued.</p>
+      <p>As of this writing, the MVRV ratio stood at -2.87%, signifying the extent of loss experienced by BTC holders. However, this metric also suggested that there existed an opportunity for accumulation and the potential for a subsequent price increase.</p>
+    </div>
+  },
+  {
     id: 568,
     title: 'Newly Released Documents Detail Tether’s Exposure to Chinese Securities',
     category: 'Crypto',
