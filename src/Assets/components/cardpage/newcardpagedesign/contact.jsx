@@ -11,7 +11,7 @@ function NCXContact()
                     <h1>Ready for the Premium Crypto Card Experience?</h1>
                     <p>Open your account in 2 minutes. Join the NCX Card Waiting List.</p>
                     <div className="bewec">
-                        <Button href="#" className="wec">Open an Account</Button>
+                        {/* <Button href="#" className="wec">Open an Account</Button> */}
                         <Button href="#" className="dwc">Apply</Button>
                     </div>
                 </div>

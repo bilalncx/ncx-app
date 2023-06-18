@@ -59,11 +59,11 @@
     font-size: 22px;
     font-family: 'roboto-light';
     color: #FFFFFF;
-    /* width: 90%;
-    margin: 0 auto;
-    min-height: 49px; */
     margin-bottom: 20px;
     margin-top: 25px;
+}
+.global__row h2 span {
+    display: block;
 }
 .global__row p{
     font-size: 16px;
@@ -82,7 +82,8 @@
 @media screen and (max-width: 800px){
     .global__mart{
         background: #000000;
-        margin-top: 0px;
+        margin-top: 1px;
+        padding: 50px 0px !important;
     }
     .global__mart .global__row.row{
         display: none;

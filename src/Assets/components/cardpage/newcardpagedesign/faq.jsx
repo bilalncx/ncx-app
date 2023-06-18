@@ -15,7 +15,7 @@ function CardNewFaqSection()
                     </div>
                     <div className="col vwev">
                         <div className="accordian">
-                            <details>
+                            <details open>
                                 <summary>{t("what-are_the_benfits_of_using_ncx_card_?")}
                                 <svg width="16" height="11" viewBox="0 0 16 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0.311311 0.418754C0.622234 0.0619783 1.12633 0.0619783 1.43725 0.418754L8.03968 7.99547L14.6421 0.418754C14.953 0.0619783 15.4571 0.0619783 15.768 0.418754C16.0789 0.77553 16.0789 1.35405 15.768 1.71082L8.60264 9.93358C8.29174 10.2904 7.78762 10.2904 7.47672 9.93358L0.311311 1.71082C0.000396326 1.35405 0.000396326 0.77553 0.311311 0.418754Z" fill="#FAFAFA"/>

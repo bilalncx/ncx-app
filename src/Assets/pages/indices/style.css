@@ -228,7 +228,7 @@ div#indicies__page {
         margin-bottom: 40px !important;
     }
     #indicies__page .trading__platform .col.trg__ff__fe {
-        padding-top: 70px !important;
+        padding-top: 30px !important;
     }
     .pla__img, .pho__img, .ipad__gg{
         max-height: unset !important;
@@ -284,9 +284,11 @@ div#indicies__page {
     }
     #indicies__page .ind__banner{
         padding: 0px !important;
+        display: none;
     }
     .indices__hdd{
         background: #000000 !important;
+        padding-bottom: 50px !important;
     }
     #indicies__page .mbl__stng strong {
         font-family: 'roboto-light' !important;

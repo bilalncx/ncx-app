@@ -41,7 +41,7 @@ function IndicesPage()
 
         <TradingSteps />
 
-        {/* <BannerSection /> */}
+        <BannerSection />
 
         <MyFooter />
 

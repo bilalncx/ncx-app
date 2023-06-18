@@ -70,14 +70,18 @@
 .ccc_tt a {
     width: 135px;
     height: 44px;
-    background: #5ED3F0;
-    border: 1.5px solid #5ED3F0;
+    background: transparent;
+    border: 1px solid #FFFFFF;
     border-radius: 40px;
-    box-shadow: 0px 0px 20px rgba(94, 211, 240, 0.7);
+    box-shadow: 0px 0px 15px rgba(255,255,255,0.5);
     color: #FFFFFF;
     font-size: 16px;
     text-transform: capitalize;
     font-family: 'urbanist-light';
+}
+.ccc_tt a:hover{
+    background: #FFFFFF;
+    color: #000;
 }
 #indicies__page .row_ban .col:hover{
     filter: drop-shadow(0px 0px 40px rgba(94, 211, 240, 0.3));

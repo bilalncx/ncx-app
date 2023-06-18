@@ -214,6 +214,7 @@ h1.fg__rer {
     }
     #indicies__page .ind__fq{
         padding: 50px 0px 50px 0px !important;
+        margin-top: 2px;
     }
     #indicies__page .ind__fq h1.fg__rer {
         text-align: center !important;
@@ -227,7 +228,7 @@ h1.fg__rer {
         column-gap: 20px !important;
     }
     #indicies__page .steps__tr {
-        padding: 0px 0px 50px 0px;
+        padding: 50px 0px 50px 0px;
     }
     #indicies__page .fyu {
         flex: 0 0 100%;
@@ -242,7 +243,7 @@ h1.fg__rer {
         font-size: 16px;
     }
     #indicies__page .trading__platform {
-        padding: 0px 0px 30px 0px !important;
+        padding: 50px 0px 50px 0px !important;
     }
     #indicies__page .fyu p{
         font-size: 16px;
