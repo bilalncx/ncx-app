@@ -20,7 +20,7 @@ function Wallet1()
             <div className="container">
                 <h1>
                     <span>{t("swap_500k_tokens_across")}</span>
-                    <span>{t("10_chains_with")} <strong>{t("ncx_cross_chain_dex")}</strong></span>
+                    <span> {t("10_chains_with")} <strong>{t("ncx_cross_chain_dex")}</strong></span>
                     <span>{t("migrate_assets_between_different_chains")}</span>
                 </h1>
                 <section class="slide-option">
