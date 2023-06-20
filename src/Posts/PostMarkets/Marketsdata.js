@@ -1,5 +1,145 @@
 const data = [
   {
+    id: 551,
+    title: 'Treasury Yields Rise as Global Bond Slide Extends Before Powell',
+    category: 'Markets',
+    subCategory: ['Treasury', 'Global', 'Bond'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Treasuries dropped in Asia as they reopened following a US long weekend, extending a global slide that began in the UK where investors grew concerned stubborn</p>
+    </div>,
+    authorName: 'Garfield Reynolds',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 7:36 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-702.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Treasuries dropped in Asia as they reopened following a US long weekend, extending a global slide that began in the UK where investors grew concerned stubborn inflation will lead to more aggressive monetary tightening.</p>
+    	<p>US 10-year yields rose three basis points, after similar-maturity UK yields jumped eight basis points to their highest since September.</p>	
+    	<p>Traders are betting the average central bank rate in developed markets will rise to 3.82% in a year, the highest forecast since early March. That means they have effectively priced out bets the financial-market stress that erupted with the collapse of Silicon Valley Bank will persuade policymakers to stop tightening.</p>
+      <p>Gilts led declines in government debt Monday before UK inflation data due Wednesday and a Bank of England policy decision the following day. Federal Reserve Chairman Jerome Powell is due to testify to Congress Wednesday, and his comments may put further weight on global bonds after the latest central bank decisions in Australia, Canada and the US were all more hawkish than anticipated.</p>
+      <p>“There is no question the momentum has shifted, with US yields climbing even after the Fed paused and University of Michigan inflation expectations dropped,” said Prashant Newnaha, a rates strategist at TD Securities Inc. in Singapore. “The prospect that the BOE and ECB will need to do more to get on top of inflation puts pressure on bonds globally.”</p>
+      <h3>Buying on Dips</h3>
+    	<p>Even as markets price in higher global central bank rates, some investors are looking to buy bonds on a bet most of the policy tightening is already over.</p>
+      <p>“I have been adding,” said Amy Xie Patrick, head of income strategies at Pendal Group Ltd. in Sydney. “Bonds put in their best innings in the pause after the hiking cycle. It doesn’t matter much whether we’re zero or three hikes away from the end, the bulk of the hiking cycle is behind us, and the lagged effect of previous hikes will bite down harder with the passing of time.”</p>
+      <p>Australia’s bonds pared losses after minutes of this month’s central-bank meeting showed the surprise rate hike was a “finely balanced decision.” The nation’s 10-year yield was two basis points higher at 3.99%, after rising to a year-to-date high of 4.05% before the minutes were published.</p>
+      <p>Global government bonds have lost about 2% over the past three months, paring this year’s gain to about 1%, according to a Bloomberg index. Markets had expected central banks would respond to signs price pressures are easing by softening their stance, whereas policymakers instead remained aggressive on concerns inflation remain is in danger of remaining above their targets for too long.</p>
+    </div>
+  },
+  {
+    id: 550,
+    title: 'Stocks Lower as Investors Face Gut Check on Rally: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['Stocks', 'markets', 'investors'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Stocks declined Tuesday as the second-quarter rally met resistance from economic headwinds and signs that positioning is overbought.</p>
+    </div>,
+    authorName: 'Cecile Gutscher',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 11:21 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-700.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Stocks declined Tuesday as the second-quarter rally met resistance from economic headwinds and signs that positioning is overbought.</p>
+    	<p>European stocks slipped for a second day as worries about the Chinese economy curbed risk appetite. Specialty chemicals company Lanxess AG fell 11% on a profit warning. US contracts declined after Wall Street was shut for a holiday Monday.</p>	
+    	<p>Investors caught between fear of missing out on the second-quarter rally and concerns it has run too far, too fast are contending with overblown valuations and economic headwinds.</p>	
+    	<p>Bullish positioning in US equity futures grew last week, taking it to the most extended levels for the S&P 500 and Nasdaq 100 in data going back to 2010, according to Citigroup strategists.</p>
+      <p>“Given our fundamental view on growth, we find it hard to get on board with the current excitement and narrative” according to Morgan Stanley strategists led by Michael Wilson.</p>
+      <p>The path of US monetary policy is another wildcard. Federal Reserve Chair Jerome Powell will give his semi-annual report to Congress on Wednesday. Policymakers at the Fed kept interest rates unchanged at their latest meeting but warned of more tightening ahead.</p>
+      <p>The Fed decision last week came with forecasts for higher borrowing costs of 5.6% in 2023, implying two additional quarter-point rate hikes or one half-point increase before the end of the year.</p>
+      <p>Elsewhere in markets, US Treasury yields rose after the break from trading Monday. Oil fell as China’s plans to support its economy were seen as insufficient to reignite demand.</p>
+      <p>Alibaba Group Holding Ltd. whipsawed before trading about 1.5% lower Tuesday following the surprise replacement of its chief executive and chairman.</p>
+      <h3>Key events this week:</h3>
+      <ul>
+        <li>US housing starts, Tuesday</li>
+        <li>Federal Reserve Bank of St. Louis President James Bullard speaks, Tuesday</li>
+        <li>New York Fed President John Williams speaks, Tuesday</li>
+        <li>Federal Reserve Chair Jerome Powell delivers semi-annual congressional testimony before the House Financial Services Committee, Wednesday</li>
+        <li>Federal Reserve Bank of Chicago President Austan Goolsbee speaks, Wednesday</li>
+        <li>Eurozone consumer confidence, Thursday</li>
+        <li>Rate decisions in UK, Switzerland, Indonesia, Norway, Mexico, Philippines, Turkey, Thursday</li>
+        <li>US Conference Board leading index, initial jobless claims, current account, existing home sales, Thursday</li>
+        <li>Federal Reserve Chair Jerome Powell delivers semi-annual testimony to Congress before the Senate Banking Committee, Thursday</li>
+        <li>Cleveland Fed’s Loretta Mester speaks, Thursday</li>
+        <li>Eurozone S&P Global Eurozone Manufacturing PMI, S&P Global Eurozone Services PMI, Friday</li>
+        <li>Japan CPI, Friday</li>
+        <li>US S&P Global Manufacturing PMI, Friday</li>
+        <li>Federal Reserve Bank of St. Louis President James Bullard speaks, Friday</li>
+      </ul>
+      <p>--With assistance from Sagarika Jaisinghani, Brett Miller and Joe Easton.</p>
+    </div>
+  },
+  {
+    id: 549,
+    title: 'Bitcoin Reclaims Over 50% Market Dominance Following BlackRock ETF Filing',
+    category: 'Markets',
+    subCategory: ['Bitcoin', 'Market', 'ETF'],
+    description: <div className="blog-desc">
+      <p>Bitcoin’s market capitalization is once again larger than that of all other cryptocurrencies combined, according to data from TradingView.</p>
+    </div>,
+    authorName: 'Andrew Throuvalas',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 12:33 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-701.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin’s market capitalization is once again larger than that of all other cryptocurrencies combined, according to data from TradingView.</p>
+    	<p>The site’s BTC dominance metric rose above 50% on Monday for the first time since May 2021, when Bitcoin’s price plummeted after China announced a total ban on crypto mining, and Tesla partly distanced itself from the asset over environmental concerns.</p>	
+    	<p>Bitcoin dominance last neared the 50% mark in June 2022 as the entire crypto market cratered on news of persistently high inflation in the United States, leading to aggressive monetary tightening from the Federal Reserve.</p>	
+    	<p>While Bitcoin dropped dramatically at the time, coins like Ethereum (ETH) dropped harder, with the ETH/BTC pair falling to a ratio of just 0.05.</p>
+      <p>A similar decline took place this month as ETH/BTC fell from 0.07 on June 6 to 0.064 at writing time.</p>
+      <p>Other top altcoins—including Cardano (ADA), Solana (SOL), and Polygon (MATIC)—also suffered substantially relative to Bitcoin following a US regulator’s lawsuit against Coinbase alleging that all three coins are unregistered securities. Meanwhile, SEC chairman Gary Gensler has again clarified that he views Bitcoin as a commodity.</p>
+      <p>In a lawsuit against Binance, the US Securities and Exchange Commission (SEC) called the exchange’s native token BNB a security. The token—the fourth largest crypto by market cap—has plummeted 20% since the start of the month.</p>
+      <p>The Bitcoin dominance metric has often been criticized for under-representing Bitcoin’s true market share by including stablecoins within its calculations, which are effectively dollars trading on the blockchain. However, even the stablecoin market has receded this year after Paxos was forced by the SEC to start winding down BUSD in February, erasing billions of dollars in tokens from circulation.</p>
+      <p>Last Tuesday, MicroStrategy’s executive chairman Michael Saylor predicted that Bitcoin dominance will rise above 80% as regulators continue clamping down on other digital assets.</p>
+      <p>Bitcoin is up 6% since last week after BlackRock filed for a Bitcoin Spot ETF, for which investors are optimistic may receive unique approval from the SEC.</p>
+    </div>
+  },
+  {
+    id: 548,
+    title: 'Hong Kong stock exchange debuts yuan-denominated shares as China speeds up push to internationalize its currency and replace the U.S. dollar',
+    category: 'Markets',
+    subCategory: ['Hong Kong', 'China', 'US'],
+    description: <div className="blog-desc">
+      <p>International investors in Hong Kong are now able to buy shares denominated in the Chinese renminbi, as part of a new scheme launched by the city’s stock exchange on Monday.</p>
+    </div>,
+    authorName: 'Nicholas Gordon',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 1:15 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-703.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>International investors in Hong Kong are now able to buy shares denominated in the Chinese renminbi, as part of a new scheme launched by the city’s stock exchange on Monday.</p>
+    	<p>Two dozen major Hong Kong and Chinese companies, including Tencent, Alibaba, Meituan and AIA Group, can now be traded in both the Hong Kong dollar (the city’s local currency) and the yuan. Shares denominated in one currency can be freely interchanged with shares denominated in the other.</p>	
+    	<p>In total, the firms taking part in the “HKD-RMB Dual Counter Model” are worth about $1.5 trillion in value, or over a third of the entire Hong Kong stock market.</p>	
+    	<p>Hong Kong Exchanges and Clearing (HKEx), which runs the city’s stock market, hopes an influx of yuan-denominated trading will bolster the city’s sluggish trading volumes. (While the scheme is currently only available to local and international investors, HKEX hopes to expand the scheme to mainland China later this year.)</p>
+      <p>In a Monday interview with CNBC, Nicolas Aguzin, CEO of HKEx, suggested that the ability to “transact in an instant basis in renminbi” would be a “huge difference” for mainland retail investors.</p>
+      <p>(Hong Kong, unlike China, has an open financial market with a freely-convertible local currency.)</p>
+      <p>Yet Aguzin shared another benefit to HKEx’s new program: That it would “continue helping on the internationalization of the renminbi.”</p>
+      <p>Hong Kong’s Hang Seng Index fell just over 0.6% on Monday. The index has fallen 1.2% so far this year, after a brief rally following China’s reopening fizzled out as the country’s recovery lost steam.</p>
+      <h3>The global yuan</h3>
+      <p>China has tried to encourage more global use of the renminbi as an alternative to the U.S. dollar for over a decade.</p>
+      <p>Yet Russia’s invasion of Ukraine has boosted the yuan’s international status. U.S. sanctions on Russia–including freezing the country’s reserves of U.S. dollars–have forced Moscow to turn to other currencies to conduct international trade.</p>
+      <p>The yuan surpassed the U.S. dollar as Russia’s most traded foreign currency earlier this year, according to Bloomberg, as more Russian companies bought and sold goods in the Chinese market.</p>
+      <p>Even other countries, like Bangladesh and Pakistan, are turning to the yuan to do business with Russia. Hong Kong hopes that some of these countries might now invest their holdings of Chinese currency in the city's new yuan-denominated shares.</p>
+      <p>The share of trade conducted in China’s currency rose to 4.5% in February, compared to less than 2% a year earlier. That’s close to the share of trade conducted in the euro.</p>
+      <p>Recent problems in the U.S.—such as the tense debate over raising the U.S.’s borrowing limit, which risked the country’s first-ever default—may also be sullying the safe reputation of the U.S. dollar.</p>
+      <p>"The U.S. banking industry's turmoil, government debt problems, and huge deficits being monetised have damaged international confidence in the US dollar,” wrote Paul Chan, Hong Kong’s financial secretary, in a blog post last week tied to the launch of the “HKD-RMB Dual Counter Model.”</p>
+      <p>(Hong Kong’s local currency is pegged to the U.S. dollar. Chan has firmly dismissed calls to unpeg the two currencies in the past.)</p>
+      <p>Central banks are also considering the yuan to diversify their reserves. Eighty-five percent of central bank managers either invested in or were interested in investing in the Chinese currency last year, according to a survey from UBS.</p>
+      <p>Still, the yuan has a long way to go until it erodes the dominance of the U.S. dollar. Beijing maintains strict limits on cross-border transactions and foreign exchange.</p>
+      <p>At the end of 2022, 54% of foreign exchange reserves were held in U.S. dollars—a proportion largely unchanged from the end of 2021, according to data from the International Monetary Fund.</p>
+      <p>This story was originally featured on Fortune.com</p>
+    </div>
+  },
+  {
     id: 547,
     title: 'U.S. Apartment Values Will Plunge A Further 20% Economists Say, But Wall Street Still Sees Major Upside In These REITs — Be Greedy When Others Are Fearful?',
     category: 'Markets',
