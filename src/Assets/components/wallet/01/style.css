@@ -115,8 +115,8 @@ div.highway-barrier {
     width:calc(180px * 24);
 }
 .coin__chain  {
-    background: rgba(28, 28, 28, 0.01);
-    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: #151515 !important;
+    border: none !important;
     animation:translateinfinite 55s linear infinite;
 }
 div#infinite:before {

@@ -43,6 +43,9 @@ div#ncxt__stake {
     margin: 0 auto;
     margin-bottom: 30px;
 }
+#Wallet_Main .plat__ggre .trg__ff__fe p{
+    padding: 0px;
+}
 #Wallet_Main .plat__ggre.three .trg__ff__fe:nth-child(1) p {
     width: 60%;
     margin: 0 auto;
