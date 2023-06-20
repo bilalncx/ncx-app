@@ -89,7 +89,7 @@ function Indices5()
                             <h2>{t("ncx_web")}</h2>
                             <NCXWeb />
                         </div>
-                        <p>{t("ncx_c_trader_web_text")}</p>
+                        <p>Trade over 200 Cryptocurrency Pairs with NCX Cutting-Edge Trading Tools.</p>
                         <div className="tiy__bd">
                             <Button href="https://trade.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>

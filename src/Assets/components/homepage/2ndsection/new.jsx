@@ -15,7 +15,7 @@ function Indices2()
     return(
         <div id="hme__gg__ff">
             <div className="container">
-                <h1 className="fg__rer">{t("hybrid_cex_dex_tarding_platform_defi_ecosystem")}</h1>
+                <h1 className="fg__rer">First all-in-one Hybrid CEX | DEX Crypto Exchange, Trading Platform & DeFi Ecosystem</h1>
                 <div className="rf__aab row">
                     <div className="col">
                         <img src={ExchangeIcon} alt="ncx"/>
