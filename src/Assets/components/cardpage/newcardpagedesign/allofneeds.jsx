@@ -16,7 +16,7 @@ function AllOfNeeds()
                     <div className="col">
                         <img src={GlobalMarket1} alt="global"/>
                         <h2>Travel Protection</h2>
-                        <p>World class Travel Protection with NCX. Get compensated up to $800 per flight if your flight is delayed or cancelled.</p>
+                        <p>World-class Travel Protection with NCX. Get compensated up to $800 per flight if your flight is delayed or cancelled.</p>
                     </div>
                     <div className="col">
                         <img src={GlobalMarket2} alt="global"/>

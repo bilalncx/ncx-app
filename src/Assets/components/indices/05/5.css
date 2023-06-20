@@ -93,3 +93,8 @@ video#phomsdf{
     -webkit-transform: translateY(0) scale(1.06);
     -moz-transform: translateY(0) scale(1.06);
 }
+@media screen and (min-width: 1200px){
+    .trg__ff__fe p{
+        padding: 0px 50px;
+    }
+}

@@ -12,7 +12,7 @@ function TextLeftSide()
                     <div className="col wsl__fdss">
                         <h3>Store</h3>
                         <h1>Gain <span>full control</span> over your crypto assets and private keys. Easily manage tokens across 12+ <span>Blockchains.</span></h1>
-                        <p>Including Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora, xDai Chain, Harmony, Heco Chain, OKEx Chain</p>
+                        <p>Including Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora, xDai Chain, Harmony, Heco Chain, OKEx Chain.</p>
                         <div className="wal__btns">
                             <Button className="sf__ffp" href="#"> Sign Up</Button>
                             <Button className="ff__dsw" href="#">Learn More</Button>

@@ -15,7 +15,7 @@ function PremiumCardBox()
                         <ul>
                             <li>Set max Transaction Amount to prevent Fraud.</li>
                             <li>Freeze/Unfreeze your NCX Card in just one click.</li>
-                            <li>Add to Apple Pay / Google Pay</li>
+                            <li>Add to Apple Pay / Google Pay.</li>
                             <li>Payment and Fraud Protection.</li>
                             <li>Track your Transactions. Enable push Notifications.</li>
                             <li>Keep control of your spend in real time. </li>

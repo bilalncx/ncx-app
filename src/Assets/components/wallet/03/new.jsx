@@ -30,7 +30,7 @@ function Indices5()
                             <Walletbadge />
                         </div>
                         <p>Gain full control over your crypto assets and private keys. Easily manage tokens across 12+ Blockchains.</p>
-                        <p>Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora, xDai, Harmony, Heco, OKEx Chain</p>
+                        <p>Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora, xDai, Harmony, Heco, OKEx Chain.</p>
                         <div className="tiy__bd">
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
                             <Button href="#" className="sign__up">Claim Airdrop</Button>
@@ -53,8 +53,8 @@ function Indices5()
                             <h2>Swap</h2>
                             <Walletbadge />
                         </div>
-                        <p>Swap 500k+ Tokens across 10 Chains with NCX Cross-Chain Swap. Migrate assets between different chains</p>
-                        <p><span>With built-in Cross-Chain</span><span>Swap get the best price on every swap</span></p>
+                        <p>Swap 500k+ Tokens across 10 Chains with NCX Cross-Chain Swap. Migrate assets between different chains.</p>
+                        <p><span>With built-in Cross-Chain</span><span>Swap get the best price on every swap.</span></p>
                         <div className="tiy__bd">
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
                             <Button href="#" className="sign__up">Claim Airdrop</Button>
@@ -104,8 +104,8 @@ function Indices5()
                             <h2>Receive</h2>
                             <Walletbadge />
                         </div>
-                        <p>Swap 500k+ Tokens across 10 Chains with NCX Cross-Chain Swap. Migrate assets between different chains</p>
-                        <p><span>With built-in Cross-Chain</span><span>Swap get the best price on every swap</span></p>
+                        <p>Receiving crypto in your DeFi Wallet has never been easier. Select the Token on any of the 12 Networks and share the QR or copy the Wallet Address.</p>
+                        <p>Import custom Tokens easily with just 2 clicks.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
@@ -131,8 +131,8 @@ function Indices5()
                             <h2>NFT</h2>
                             <Walletbadge />
                         </div>
-                        <p>Store, Send, Import NFTs across various Blockchains Import directly into NCX Wallet </p>
-                        <p>View your NFTs Collection and share with friends, all your favorite NFTs in one place</p>
+                        <p>Store, Send, Import NFTs across various Blockchains Import directly into NCX Wallet.</p>
+                        <p>View your NFTs Collection and share with friends, all your favorite NFTs in one place.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
@@ -157,7 +157,7 @@ function Indices5()
                             <Walletbadge />
                         </div>
                         <p>Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer.</p>
-                        <p>Choose from over 200 Cryptocurrencies and 95 Fiat Currencies, choose between 16 Payment Providers for the Best Rate and Payment Method</p>
+                        <p>Choose from over 200 Cryptocurrencies and 95 Fiat Currencies, choose between 16 Payment Providers for the Best Rate and Payment Method.</p>
                         <div className="tiy__bd">
                             <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
@@ -183,8 +183,8 @@ function Indices5()
                             <h2>Browser</h2>
                             <Walletbadge />
                         </div>
-                        <p>Explore the most popular dApps in browser without leaving NCX DeFi Wallet App</p>
-                        <p>Seamlessly connect to swap, farm, and mine on the hottest DeFi protocols</p>
+                        <p>Explore the most popular dApps in browser without leaving NCX DeFi Wallet App.</p>
+                        <p>Seamlessly connect to swap, farm, and mine on the hottest DeFi protocols.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
@@ -209,7 +209,7 @@ function Indices5()
                             <Walletbadge />
                         </div>
                         <p>Import your existing Wallet seamlessly with a 12/18/24-word recovery phrase.</p>
-                        <p>Import unlimited wallets into NCX DeFi Wallet, keep full custody of your assets with all added benefits of</p>
+                        <p>Import unlimited wallets into NCX DeFi Wallet, keep full custody of your assets with all added benefits of.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>

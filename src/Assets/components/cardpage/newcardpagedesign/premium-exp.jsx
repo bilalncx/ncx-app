@@ -26,7 +26,7 @@ function NCXCardExperience()
                     <div className="col">
                         <img src={GlobalMarket3} alt="global"/>
                         <h2>Top Up By Crypto</h2>
-                        <p>Stake NCXT, top up your card by one of the supported Cryptocurrencies and use your card Worldwide, no Credit Check or Bank Account required.</p>
+                        <p>Stake NCXT, top up your card with one of the supported Cryptocurrencies and use your card Worldwide, no Credit Check or Bank Account is required.</p>
                     </div>
                     <div className="col">
                         <img src={GlobalMarket4} alt="global"/>
