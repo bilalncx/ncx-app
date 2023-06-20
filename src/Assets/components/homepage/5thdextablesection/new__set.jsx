@@ -28,7 +28,7 @@ function Indices5()
                             <h2>{t("ncx_app")}</h2>
                             <NCXBadge1 />
                         </div>
-                        <p>{t("ncx_c_trader_app_text")}</p>
+                        <p>Enhance your mobile trading experience with our advanced trading application. Access all the essential tools and features to trade seamlessly anytime, anywhere.</p>
                         <div className="tiy__bd">
                             <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
@@ -50,7 +50,7 @@ function Indices5()
                             <h2>{t("ncx_defi_wallet_app")}</h2>
                             <NCXBadge2 />
                         </div>
-                        <p>{t("ncx_defi_wallet_app_text")}</p>
+                        <p>Take control of your Digital Assets by securely managing the private keys through our cutting-edge crypto wallet. Effortlessly Store, Swap, Send, and Receive Cryptocurrencies across 12 Networks.</p>
                         <div className="tiy__bd">
                             <Button href="https://ncx.cx/wallet" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
@@ -89,7 +89,7 @@ function Indices5()
                             <h2>{t("ncx_web")}</h2>
                             <NCXWeb />
                         </div>
-                        <p>Trade over 200 Cryptocurrency Pairs with NCX Cutting-Edge Trading Tools.</p>
+                        <p>Trade of over 200 cryptocurrency pairs using NCX's cutting-edge trading tools. Navigate the dynamic crypto market with precision and confidence with our state-of-the-art trading platform.</p>
                         <div className="tiy__bd">
                             <Button href="https://trade.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
@@ -128,7 +128,7 @@ function Indices5()
                             <h2>{t("ncx_c_trader_windows")}</h2>
                             <CTrader1 />
                         </div>
-                        <p>{t("home_c_trade_window_text")}</p>
+                        <p>{t("ncx_c_trader_windows_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
                             <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>

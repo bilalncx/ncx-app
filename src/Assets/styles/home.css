@@ -408,13 +408,15 @@ details[open] .contt {
     position: absolute;
 }
 
-/* .bg-dark .trading__platform .trg__ff__fe p{
-    min-height: 38px !important;
-} */
+.bg-dark .trading__platform .trg__ff__fe p{
+    min-height: 63px !important;
+}
 .bg-dark .trading__platform .trg__ff__fe p span{
     display: block;
 }
-
+.bg-dark .trg__ff__fe .tiy__bd{
+    margin-bottom: 40px !important;
+}
 /* NCX HOMEPAGE NCXCARD NEW SECTION */
 /* ******************************************************** */
 #card__new .pho__img img, #card__new .pla__img img{
@@ -1094,6 +1096,9 @@ a.cl__drp:hover{
     }
     .card_box.nrtbv__gerg{
         margin-top: 1px;
+    }
+    .bg-dark .trading__platform .trg__ff__fe p{
+        min-height: unset !important;
     }
 }
 .uiop.tick svg{
