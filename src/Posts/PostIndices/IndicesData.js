@@ -1,5 +1,223 @@
 const data = [
   {
+    id: 536,
+    title: 'Dow Jones Futures Fall: Market Strong, But Heres What To Do; AMD, Boeing Lead Stocks To Watch',
+    category: 'Indices',
+    subCategory: ['Dow jones', 'AMD', 'Boeing'],
+    description: <div className="blog-desc">
+      <p>The market rally has shown bullish action, but be prepared for a pullback in the near term. AMD and Boeing are among stocks to watch.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 8:46 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-704.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The market rally has shown bullish action, but be prepared for a pullback in the near term. AMD and Boeing are among stocks to watch.</p>
+    	<p>Dow Jones futures fell slightly early Tuesday morning, along with S&P 500 futures and Nasdaq futures.</p>	
+    	<p>The stock market rally showed strong, broad action last week, running past a surprisingly hawkish Federal Reserve. That raises confidence in the uptrend's longer-term prospects. But with the Nasdaq extended, the odds of a market pullback are elevated in the short term. Friday may have reflected the start of a slide, but it wasn't much of one.</p>
+      <p>A pullback could create new buying opportunities in leading stocks, many of which are currently far extended from any entry. But in the short run, investors should be cautious about making new purchases, especially in hot tech areas.</p>
+      <p>BA stock is trading right around a buy point. Boeing (BA) and rival Airbus (EADSY) will likely announce a bevy of new orders at the Paris Air Show, which kicked off Sunday. McKesson (MCK) broke out of a consolidation while Smith & Nephew (SNN) is above a trendline entry. Marriott International (MAR), Chipotle Mexican Grill (CMG), Boyd Gaming (BYD) and Floor & Decor (FND) are near buy points. All seven stocks are from nontech areas of market leadership.</p>
+      <p>Meanwhile, Advanced Micro Devices (AMD), Samsara (IOT) and Rambus (RMBS) are three hot stocks that are starting to pull back.</p>
+    	<p>But many leaders are not retreating. Nvidia (NVDA) hit a fresh record high Friday, surging 10% for the week. Meta Platforms (META) marked a 16-month best before closing a fraction lower on Friday. Tesla (TSLA), after two tiny losses ended a record 13-day win streak, rose to a fresh eight-month high Friday.</p>
+      <p>Tesla, META stock and Nvidia are on IBD Leaderboard. CMG stock is on the Leaderboard watchlist. MCK stock was added to SwingTrader on Friday, joining Boeing and FND stock. Chipotle and IOT stock are on the IBD 50. Chipotle and Tesla stock are on the IBD Big Cap 20. McKesson was Friday's IBD Stock Of The Day.</p>
+      <p>The video embedded in the article reviews the market action over the past week and analyzes McKesson, Chipotle and AMD stock.</p>
+      <h3>Weekend News</h3>
+      <p>U.S.-China tensions appear to ease somewhat with Secretary of State Anthony Blinken's trip, meeting Chinese President Xi Jinping and other top officials.</p>
+      <p>The NAHB Housing Market Index rose 5 points in June to 55 vs. views for an unchanged 50. It was the sixth straight monthly gain and the first time in 11 months that builder confidence has been above the break-even 50 level. The Commerce Department will release May housing starts data at 8:30 a.m. ET on Tuesday.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures fell 0.35% vs. fair value. S&P 500 futures declined 0.25% and Nasdaq 100 futures dipped 0.25%.</p>
+      <p>The 10-year Treasury yield climbed 3 basis points to 3.8%.</p>
+      <p>China's central bank cut two more key lending rates by 10 basis points overnight, after reducing two other rates by the same amount last week. But Hong Kong's Hang Seng fell solidly, as investors may have wanted bigger cuts.</p>
+      <p>Crude oil futures fell more than 1%.</p>
+      <p>U.S. stock markets were closed Monday for the Juneteenth holiday, but other exchanges around the world were open.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally had a strong week, especially on the Nasdaq, despite generally modest losses Friday.</p>
+      <p>The Dow Jones Industrial Average rose 1.25% in last week's stock market trading, reaching its best levels of the year. The S&P 500 index jumped 2.6%, its best weekly gain since March. The Nasdaq composite leapt 3.25%, its eighth straight weekly advance. The small-cap Russell 2000 climbed 0.5%, well off weekly highs.</p>
+      <p>The 10-year Treasury yield rose 2 basis points to 3.77%.</p>
+      <p>U.S. crude oil futures rose 2.3% to $71.78 a barrel last week. Copper prices climbed 2.5%.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) advanced 2.1% last week. The iShares Expanded Tech-Software Sector ETF (IGV) leapt 5.2%. The VanEck Vectors Semiconductor ETF (SMH) ran 4.45% higher, with Nvidia and AMD stock major holdings.</p>
+      <p>The SPDR S&P Metals & Mining ETF (XME) popped 2.9% last week. The Global X U.S. Infrastructure Development ETF (PAVE)  rallied 2.6%. U.S. Global Jets (JETS) ascended 5.65%. The SPDR S&P Homebuilders ETF (XHB) stepped up 2.4%. The Energy Select SPDR ETF (XLE) dipped 0.6%. The Health Care Select Sector SPDR Fund (XLV) was up 1.4%. MCK stock is in XLV.</p>
+      <p>The Industrial Select Sector SPDR Fund (XLI) jumped 3%. BA stock is a major XLI holding.</p>
+      <p>The Financial Select SPDR ETF (XLF) rose 1.3%. The SPDR S&P Regional Banking ETF (KRE) fell 0.9% after big gains since early May.</p>
+      <p>Reflecting stocks with more speculative stories, the ARK Innovation ETF (ARKK) rallied 4.2% last week and ARK Genomics (ARKG) leapt 3.9%. Tesla stock is the No. 1 holding across Ark Invest's ETFs.</p>
+      <h3>Stocks To Watch</h3>
+      <p>BA stock rose 1.2% to 219.99 this past week, just below a 221.43 flat-base buy point. Many other industrial plays look extended from their 50-day lines, but not Boeing.</p>
+      <p>MCK stock climbed 3.1% to 406.20, breaking out past a 401.53 handle buy point Friday.</p>
+      <p>SNN stock jumped 6.9% to 32.16 last week, clearing a trendline in a flat base that's part of a base-on-base formation.</p>
+      <p>CMG stock dipped 0.4% to 2,032.92 in low volume, trading at its 21-day line with the 10-week line catching up. Chipotle has a four-weeks-tight pattern with a 2,139.88 official buy point. That pattern could turn into a flat base in another week.</p>
+      <p>MAR stock fell 1.5% to 176.36, finding support at the 21-day and 10-week lines. Marriott stock has a 183.37 buy point from a flat base next to several bases, according to MarketSmith analysis.</p>
+      <p>BYD stock edged down 0.6% to 68 last week, just above its 10-week line. Boyd Gaming has a 71.69 buy point from a flat base next to two long cup-with-handle consolidations. Investors could use 70.04 as an early entry.</p>
+      <p>FND stock nudged 0.3% higher to 96.26, just above the 50-day line. Floor & Decor stock has a 101.39 buy point from a cup-with-handle base, though investors could use 99.50 as aggressive entry.</p>
+      <p>AMD stock fell 3.9% to 120.08 last week, reversing in heavy volume from a 52-week high of 132.83 on Tuesday. Shares are falling back toward their 21-day line and the lows of their recent mini-consolidation. AMD released new AI chips to take on Nvidia, but the market reaction wasn't great. Is AMD a potential buy if it finds support? Or do investors wait for, say, NVDA stock to take a rest?</p>
+      <p>IOT stock dipped 0.3% to 28.90, pulling back reluctantly late in the week after nearly topping its late-2021 all-time high of 31.41. Shares are trading around the 10-day line, with Samara stock still well above the 21-day.</p>
+      <p>RMBS stock declined 5.2% in the last week to 60.38, sliding just below the 21-day line. It's the third straight weekly decline for Rambus stock.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The market rally continues to show impressive strength. On Wednesday, the major indexes showed resilience in the face of a surprisingly hawkish Fed, then powered higher Thursday.  The S&P 500 and Nasdaq hit fresh 52-week bests while the Dow Jones set new 2023 highs.</p>
+      <p>Even on Friday, with the Nasdaq clearly extended and the S&P 500 also getting stretched, the uptrend resisted a pullback.</p>
+      <p>Market breadth was weak Friday, but has improved significantly in the past few weeks.</p>
+      <p>The Invesco S&P 500 Equal Weight ETF (RSP) popped 2.5% to 148.83, barely falling on Friday. It's a huge change from just a few weeks ago. The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) advanced 3.2% last week.</p>
+      <p>The Nasdaq is now 9.1% above its 50-day line, while the Nasdaq 100 is up 10.6%. The S&P 500 is 5.5%. That all signals a market pullback is likely, with rising odds that any such retreat will be large. But stocks could continue to get even more extended for a time.</p>
+      <p>Ideally, the Nasdaq would pause or give ground grudgingly in light volume, letting moving averages catch up. That would let leading stocks take a break, perhaps retreating to the 21-day or 10-week lines or even forging new bases. Of course, a pullback could be more intense, and even in a mild market retreat many individual names will suffer outsize losses.</p>
+      <p>Depending on how mild or widespread the pullback is, quality stocks from outside the tech sphere could break out or at least hold up. Medical products, industrials, restaurants, travel and various housing-related plays are doing well, including Boeing, SNN, CMG, MAR and FND.</p>
+      <p>Stocks rallied last week in no small part because investors simply don't believe that the Fed will raise rates two more times. Fed chief Jerome Powell could take a more hawkish tone before Congress this week after his relatively dovish comments last Wednesday.</p>
+      <h3>What To Do Now</h3>
+      <p>With the Nasdaq and so many chip, software and AI leaders extended, it's not a good time to be buying techs. Investors could look to add exposure elsewhere. Still, a Nasdaq-led pullback could hit everyone. Investors also may want to save their powder for post-pullback buying opportunities in big tech winners.</p>
+      <p>You can consider taking partial profits in big winners, either on the way up or as they cross below their 10-day lines. That will depend on the size of your individual positions and overall exposure, your conviction in various holdings and your own investing style. But have an exit strategy in place.</p>
+      <p>When a market pause or pullback takes hold, you'll want to keep a close eye on stocks finding key support or consolidating around buy points. So run your screens this long weekend to keep track of the wide array of leaders and potential leaders.</p>
+      <p>The market rally has been impressive. Despite some near-term caution, the overall trend is bullish. Act accordingly.</p>
+    </div>
+  },
+  {
+    id: 535,
+    title: 'LIVE: FTSE 100 closes lower as pound hits 10-month high ahead of BoE rate decision',
+    category: 'Indices',
+    subCategory: ['FTSE', 'BoE', 'pound'],
+    description: <div className="blog-desc">
+      <p>European stocks and the FTSE 100 finished lower on Monday afternoon as the pound hit a 10-month high versus the euro (GBPEUR=X) with investors anticipating</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 7:54 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-706.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>European stocks and the FTSE 100 finished lower on Monday afternoon as the pound hit a 10-month high versus the euro (GBPEUR=X) with investors anticipating the performance of the currency ahead of UK inflation data and a Bank of England decision on interest rates this week.</p>
+	    <p>At the close, the FTSE 100 (^FTSE) lost 0.71% to 7,588.48 points. The CAC 40 (^FCHI) in Paris declined 1.11% to 7,306.35 points, while in Germany, the DAX (^GDAXI) also fell, by 0.99% to 16,195.25 points.</p>
+      <h3>FTSE 100 stocks</h3>	
+      <p>Rolls Royce Holdings (RR.L) and Entain (ENT.L) were top of the FTSE 100 basket while Ocado Group (OCDO.L) and Spirax-Sarco Engineering (SPX) were at the bottom of the index.</p>
+      <p>Victoria Scholar, head of investment at Interactive Investor, said: "Following a weaker session overnight in Asia, European markets have followed suit, opening in the red as last week’s bullishness appears to be fading at least for now. Rolls-Royce has opened at the top of the FTSE 100 after it announced plans to begin testing a new small gas turbine specifically developed to power hybrid-electric flight.</p>
+      <h3>US and Asia markets</h3>
+	    <p>It is a quieter than normal session for global stocks with US markets closed today due to a federal holiday.</p>	
+	    <p>On Friday, the main US indexes closed in the red after Federal Reserve officials dampened optimism that the US central bank is nearing the end of its interest rate hikes.</p>
+      <p>The Dow Jones (^DJI) fell 0.32% to 34,299.12 points, while the S&P 500 (^GSPC) lost 0.37% to 4,409.59 points. The tech-heavy NASDAQ (^IXIC) also closed lower, by 0.68% to 13,689.57.</p>
+      <p>In Asia, the markets were mixed overnight. Tokyo’s Nikkei 225 (^N225) fell 1.00% to 33,370.42 points, while the Hang Seng (^HSI) in Hong Kong lost 1.16% to 19,807.50. In mainland China, the Shanghai Composite (000001.SS) also declined, by 0.49% to 3,257.25 points.</p>
+      <p>The FTSE 100 closed at 7,588.48 this Monday, down 0.7%, as investors fear interest rates could rise as high as 6%.</p>
+      <p>Michael Hewson chief Market Analyst at CMC Markets UK, said: “It’s been a weak and subdued session for markets in Europe, with today’s losses predominantly on the back of the late Friday sell-off in the US which saw markets there close off their highs of the week”.</p>
+      <p>He noted: “Mining stocks are weaker on the back of disappointment that Chinese authorities haven’t weighed in on any new stimulus measures yet, with the likes of Rio Tinto and Glencore slightly lower.</p>
+      <p>This markets blog is now closed but tune in tomorrow for the latest moving stocks in the UK and overseas.</p>
+      <h3>FTSE 100 and European stocks</h3>
+      <p>Just before markets closed in the UK and Europe, the The FTSE 100 (^FTSE) was down 0.78% to 7,583.19 points. The CAC 40 (^FCHI) in Paris declined 1.16% to 7,303.30 points, while in Germany, the DAX (^GDAXI) also fell, by 1.00% to 16,195.58 points as investors look ahead now to UK inflation data on Wednesday and a decision on interest rates from the BoE on Thursday.</p>
+      <h3>FTSE 100 top risers and fallers</h3>
+      <p>As of 16:00 BST, the top risers on the FTSE 100 index included Next (NXT.L) and Frasers Group (FRAS.L).</p>
+      <p>Next stock was up nearly 5% after the company raised its sales and profit guidance for the year on Monday.</p>
+      <p>Meanwhile, Frasers Group stock was up nearly 3% in afternoon trade as the retailer continued its stake-building in ASOS.</p>
+      <p>Spirax-Sarco Engineering (SPX.L) and Ocado (OCDO.L) were at the bottom of the index. Ocado shares fell after reports that a robotics start-up backed by the online retailer was on the brink of collapse.</p>
+      <h3>US markets closed</h3>
+      <p>A reminder, US markets are closed today due to the Juneteenth federal holiday.</p>
+      <h3>M&S (MKS.L) cuts food prices</h3>
+      <p>Following Morrison's announcement to cut food prices, food retailer Marks & Spencer is set to do the same, according to Reuters.</p>
+      <p>It said M&S has cut the price of 70 staple products, such as beef mince, Greek-style yoghurt, salmon fillets, chickpeas and tortilla wraps, by between 3% and 25%.</p>
+      <p>The group is also locking the prices of 150 products until the autumn, including pork sausages, Cheddar cheese and coleslaw.</p>
+      <p>The move provides further optimism that rampant food inflation may be on the decline.</p>
+      <h3>British American Tobacco (BATS.L) shake-up</h3>
+      <p>The new boss of British American Tobacco has created a host of new board positions, including chief operating officer, chief strategy & growth officer, and director of business development.</p>
+      <p>Tadeu Marroco, who joined in mid-May, is aiming to "sharpen the focus on improved execution and operational excellence".</p>
+      <p>Shares in the company edged slightly lower in afternoon trade.</p>
+      <h3>Next (NXT.L) shares up nearly 5%</h3>
+      <p>The British retailer's shares were up nearly 5%, as of 14:43 BST, after the company raised its sales and profit guidance for the year on Monday.</p>
+      <p>Next put the positive outlook down to trading exceeding expectations on the back of warmer weather - and consumers getting a wage boost in April.</p>
+      <p>The company said full price sales in the first seven weeks of its fiscal second quarter were up 9.3% versus the previous year, above expectations - and also highlighted that it beat its full price sales estimates by £93m in the period.</p>
+      <h3>UK mortgage crisis: Key updates</h3>
+      <p>What's happening? The average two-year fixed mortgage deal now has an interest rate of more than 6% for the first time this year, Ross McGuinness summarises for Yahoo Finance.</p>
+      <p>And it could get worse with the Bank of England widely expected to raise its base rate, currently at 4.5%, to 4.75% on Thursday. It would be the 13th time in a row it has increased.</p>
+      <p>On Saturday, the Resolution Foundation think tank predicted that annual mortgage payments will rise by nearly £3,000 for the average household remortgaging next year.</p>
+      <p>However, today, prime minister Rishi Sunak appeared to rule out further aid for mortgage holders as the interest rates crisis deepens.</p>
+      <p>Samuel Mather-Holgate, an independent financial adviser at Mather and Murray Financial said: “The quickest, easiest and most sensible thing the Government can do is to stop the Bank of England raising interest rates.”</p>
+      <h3>Pound hits 10-month high</h3>
+      <p>In afternoon trade in the UK, the pound sterling hit a 10-month high against the euro (GBPEUR=X) ahead of inflation data on Wednesday and a Bank of England decision on interest rates on Thursday.</p>
+      <p>Against sterling, the euro fell to 85.20 pence, the lowest since August 2022. It was last down less than 0.1% at 85.25 pence.</p>
+      <p>Meanwhile, the pound was down 0.13% against the dollar (GBPUSD=X) at $1.281.</p>
+      <p>Goldman Sachs said that, according to its trade-weighted measure of sterling, the pound is at its highest since mid-2016, just after the Brexit referendum, Reuters reported.</p>
+      <p>"Potentially there is more room to go," Pushkar Jha, head of UK inflation trading at Goldman, said in a note to clients.</p>
+      <p>"If the market continues to believe that the central bank will deliver on its mandate of achieving 2% CPI (consumer price index inflation) by its forecast horizon, then there is no reason why GBP can't continue being supported."</p>
+      <p>It comes as Bank of America and Barclays have both backed sterling to keep rising against the dollar, for now.</p>
+      <h3>China's growth outlook</h3>
+      <p>Goldman Sachs is the latest bank to downgrade its growth forecast for China as the world's second largest economy struggles to pick up the pace since reopening from its Covid-19 lockdown.</p>
+      <p>The Wall Street bank cut its full-year gross domestic product forecast for this year from 6% to 5.4%.</p>
+      <p>“With continued challenges from the property market, pervasive pessimism among consumers and private entrepreneurs, and only moderate policy easing to partially offset the strong growth headwinds, we mark down our 2023 real GDP forecast,” economists led by Chief China Economist Hui Shan said in research note, according to CNBC.</p>
+      <p>UBS, Bank of America and JPMorgan have also downgraded their China full-year GDP estimates.</p>
+    </div>
+  },
+  {
+    id: 534,
+    title: 'Is USAA NASDAQ-100 Index Fund (USNQX) a Strong Mutual Fund Pick Right Now?',
+    category: 'Indices',
+    subCategory: ['USAA', 'NASDAQ', 'USNQX'],
+    description: <div className="blog-desc">
+      <p>Any investors who are searching for Mutual Fund Equity Report funds should take a look at USAA NASDAQ-100 Index Fund (USNQX).</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 3:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-705.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Any investors who are searching for Mutual Fund Equity Report funds should take a look at USAA NASDAQ-100 Index Fund (USNQX). While this fund is not tracked by the Zacks Mutual Fund Rank, we were able to examine other factors like performance, volatility, and cost.</p>
+    	<h3>History of Fund/Manager</h3>
+      <p>Victory is based in Columbus, OH, and is the manager of USNQX. Since USAA NASDAQ-100 Index Fund made its debut in October of 2000, USNQX has garnered more than $3.80 billion in assets. The fund is currently managed by Mannik Dhillon who has been in charge of the fund since July of 2019.</p>
+      <h3>Performance</h3>	
+    	<p>Investors naturally seek funds with strong performance. This fund has delivered a 5-year annualized total return of 15.94%, and it sits in the top third among its category peers. But if you are looking for a shorter time frame, it is also worth looking at its 3-year annualized total return of 14.66%, which places it in the top third during this time-frame.</p>
+      <p>When looking at a fund's performance, it is also important to note the standard deviation of the returns. The lower the standard deviation, the less volatility the fund experiences.</p>
+      <p>USNQX's standard deviation over the past three years is 23.45% compared to the category average of 20.57%. Over the past 5 years, the standard deviation of the fund is 22.28% compared to the category average of 18.14%. This makes the fund more volatile than its peers over the past half-decade.</p>
+      <h3>Risk Factors</h3>
+      <p>Investors should note that the fund has a 5-year beta of 1.11, so it is likely going to be more volatile than the market at large. Because alpha represents a portfolio's performance on a risk-adjusted basis relative to a benchmark, which is the S&P 500 in this case, one should pay attention to this metric as well.</p>
+      <p>The fund has produced a positive alpha over the past 5 years of 4.09, which shows that managers in this portfolio are skilled in picking securities that generate better-than-benchmark returns.</p>
+      <h3>Expenses</h3>
+      <p>Costs are increasingly important for mutual fund investing, and particularly as competition heats up in this market. And all things being equal, a lower cost product will outperform its otherwise identical counterpart, so taking a closer look at these metrics is key for investors.</p>
+      <p>In terms of fees, USNQX is a no load fund. It has an expense ratio of 0.44% compared to the category average of 0.79%. So, USNQX is actually cheaper than its peers from a cost perspective.</p>
+      <p>While the minimum initial investment for the product is $3,000, investors should also note that each subsequent investment needs to be at least $50.</p>
+      <h3>Bottom Line</h3>
+    	<p>Your research on the Mutual Fund Equity Report segment doesn't have to stop here. You can check out all the great mutual fund tools we have to offer by going to www.zacks.com/funds/mutual-funds to see the additional features we offer as well for additional information.</p>
+      <p>Want to learn even more? We have a full suite of tools on stocks that you can use to find the best choices for your portfolio too, no matter what kind of investor you are.</p>
+    </div>
+  },
+  {
+    id: 533,
+    title: 'Hong Kong’s $1.9 Trillion Stocks Await Boost From Yuan Trading',
+    category: 'Indices',
+    subCategory: ['Hong Kong', 'stocks', 'Yuan'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Hong Kong is betting that a new program allowing investors to trade equities in the yuan on top of its local currency will help revive its flagging stock</p>
+    </div>,
+    authorName: 'Jeanny Yu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 6:09 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-707.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+    	<p>(Bloomberg) -- Hong Kong is betting that a new program allowing investors to trade equities in the yuan on top of its local currency will help revive its flagging stock market and boost turnover that’s hovering at a four-year low.</p>
+      <p>The stock exchange is rolling out the so-called HKD-RMB Dual Counter Model on Monday to give traders the option to buy and sell some of the financial hub’s biggest-listed stocks using the yuan, including Tencent Holdings Ltd., Alibaba Group Holding Ltd. and China Mobile Ltd. There are 24 companies on the list with a combined market value equivalent to $1.9 trillion, or more than a third of the city’s total.</p>
+      <p>The initiative holds a lot of promise: it can draw more buyers by minimizing exchange-rate risk and solidify the yuan’s growing status as an international currency. The influx of capital may also provide the next catalyst for Hong Kong shares, helping extend a rally this month thanks to hopes of new stimulus measures.</p>
+    	<p>“As investors, we don’t like our portfolios to be exposed to foreign-exchange risks,” said Ding Wenjie, investment strategist at China Asset Management Co., one of the nation’s largest fund houses. “Chinese investors will have the incentive to buy yuan-denominated shares in Hong Kong to get rid of that. To some extent, it will attract more investors and will boost turnover in the Hong Kong market.”</p>	
+    	<p>The scheme will only be available to offshore funds during the initial phase, and authorities plan to extend it to mainland investors through the southbound trading link at a later stage.</p>	
+    	<p>If successful, the dual counter will unleash a new wave of mainland cash onto Hong Kong shares. Onshore investors have a growing presence in the city’s stock market, with their turnover on the trading links accounting for more than 26% of Hong Kong’s daily total, data compiled by Bloomberg show.</p>
+      <p>On Monday, the most actively traded stocks on the yuan counter by turnover included China Mobile, BOC Hong Kong Holdings Ltd. and Tencent, data compiled by Bloomberg show. Trading in China Mobile accounted for about 13% of the stock’s overall volume.</p>
+      <p>“The move reflects China’s efforts to continue to broaden and deepen its capital markets, as part of capital market reform,” said Elizabeth Kwik, investment director of Asian equities at abrdn. “While we think it is likely to boost Hong Kong market liquidity, market sentiment is a different thing altogether and most likely still captive to macro and policy concerns.”</p>
+      <p>Some investors hope the counter will help to revive the longer term prospects of the benchmark Hang Seng Index, which despite its recent rally is still trailing most stock gauges worldwide this quarter. Investors have retreated from Hong Kong equities as Chinese economic growth lost momentum and geopolitical risks damped sentiment.</p>
+      <p>The city’s average daily stock turnover has fallen to HK$116 billion so far this year, the lowest since 2019.</p>
+      <p>The dual counter’s launch comes as Beijing is stepping up efforts to shore up growth. Authorities are said to be considering a broad package of stimulus measures after lowering a short-term policy interest rate last week. China must adopt “more forceful” measures to support the economic recovery, state television reported Friday, citing a State Council meeting chaired by Premier Li Qiang.</p>
+      <h3>Weak Reception</h3>
+      <p>But, there’s reason to be cautious given the city’s experiment with a similar model in 2012 failed to take off. Back then, the “dual tranche, dual counter” system was introduced to give an issuer the option to offer and list shares in both the Hong Kong dollar and the yuan. Only one company adopted the scheme: Shenzhen Investment Holdings Bay Area Development Co.</p>
+      <p>“Progress was not satisfactory due to inactive cross-border transactions and a not-fully-developed market mechanism at that time,” HSBC Holdings Plc analysts including Raymond Liu wrote in a June 7 report, referring to the old model. “Turnover was lackluster and the performance of the RMB counter was poor.”</p>
+      <p>Hong Kong Studies Boosting Yuan-Denominated Stocks on Bourse (2)</p>
+      <p>Some investors say the initiative may fare better this time, helping fuel a recovery in the broader market.</p>
+      <p>“As it becomes more convenient to invest in Hong Kong stocks, more Chinese capital are expected to join the market to improve both the turnover and volatility,” said Xiancheng Zhao, portfolio manager at Bosera Asset Management Co. “That’s going to help the valuation recovery and narrow the gap between shares trading in China and the city.”</p>
+      <p>--With assistance from Kiuyan Wong and Mengchen Lu.</p>
+      <p>(Updates with trading performance in the seventh paragraph)</p>
+    </div>
+  },
+  {
     id: 532,
     title: 'S&P 500 Halts Winning Run With Big Options Test: Markets Wrap',
     category: 'Indices',
