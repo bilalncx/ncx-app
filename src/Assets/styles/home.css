@@ -408,9 +408,9 @@ details[open] .contt {
     position: absolute;
 }
 
-.bg-dark .trading__platform .trg__ff__fe p{
+/* .bg-dark .trading__platform .trg__ff__fe p{
     min-height: 38px !important;
-}
+} */
 .bg-dark .trading__platform .trg__ff__fe p span{
     display: block;
 }

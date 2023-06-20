@@ -74,9 +74,7 @@ function Indices5()
                             <h2>{t("ncx_cross_chain_dex")}</h2>
                             <NCXDEXBadge />
                         </div>
-                        <p>
-                            <span>{t("swap_500k_tokens_across")}</span>
-                            <span>{t("10_chains_with_ncx_cross_chain_dex")}</span>
+                        <p>{t("swap_500k_tokens_across")} {t("10_chains_with_ncx_cross_chain_dex")}
                         </p>
                         <div className="tiy__bd">
                             <Button href="https://dex.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
@@ -216,9 +214,7 @@ function Indices5()
                                 <h2>{t("ncx_cross_chain_dex")}</h2>
                                 <NCXDEXBadge />
                             </div>
-                            <p>
-                                <span>{t("swap_500k_tokens_across")}</span>
-                                <span>{t("10_chains_with_ncx_cross_chain_dex")}</span>
+                            <p>{t("swap_500k_tokens_across")} {t("10_chains_with_ncx_cross_chain_dex")}
                             </p>
                             <div className="tiy__bd">
                                 <Button href="https://dex.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>

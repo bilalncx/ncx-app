@@ -20,12 +20,12 @@ function Indices2()
                     <div className="col">
                         <img src={ExchangeIcon} alt="ncx"/>
                         <h3>Crypto Exchange</h3>
-                        <p>Trade over 200 Cryptocurrency pairs on Spot Exchange. Swap  500k+ Tokens across 10 Chains on NCX Cross Chain Decentralised Exchange</p>
+                        <p>Trade over 200 Cryptocurrency pairs on Spot Exchange. Swap  500k+ Tokens across 10 Chains on NCX Cross Chain Decentralised Exchange.</p>
                     </div>
                     <div className="col">
                         <img src={DerivativeIcon} alt="ncx" />
                         <h3>Derivatives Trading</h3>
-                        <p>Trade over 500 Markets: Crypto Derivatives, Global Financial Markets including Stocks, Indices, ETF’s, Metals, Energies, Forex with up to 200x Leverage.</p>
+                        <p>Trade over 500 Markets: Crypto Derivatives, Global Financial Markets including Stocks, Indices, ETFs, Metals, Energies, Forex with up to 200x Leverage.</p>
                     </div>
                     <div className="col">
                         <img src={WalletIcon} alt="ncx" />
