@@ -1,5 +1,110 @@
 const data = [
   {
+    id: 546,
+    title: 'Yen Pressure Mounts With Trade-Weighted Gauge at Two-Decade Low',
+    category: 'Forex',
+    subCategory: ['Yen', 'trade', 'Gauge'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Weakness in the yen is broadening with a trade-weighted gauge of the currency falling to the lowest in more than two decades as officials in Tokyo</p>
+    </div>,
+    authorName: 'Yumi Teso',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 8:10 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-711.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Weakness in the yen is broadening with a trade-weighted gauge of the currency falling to the lowest in more than two decades as officials in Tokyo issue more warnings about sharp moves.</p>
+    	<p>Deutsche Bank AG’s measure of the yen’s strength versus its global trading peers closed at a record low Monday, according to data going back to 2000. The currency has found itself caught once more in the widening gap between the Bank of Japan’s super-easy monetary policy and the hawkish shift seen in counterparts in Europe and the US.</p>	
+    	<p>The move will add to expectations of at least more verbal intervention to help stabilize the currency, which has fallen by more than 7% this year against the dollar and 9% against the euro.</p>	
+    	<p>Japan’s finance minister Shunichi Suzuki said Tuesday he continues to closely watch moves and will take appropriate action on foreign-exchange policy as necessary. Later, economy minister Yasutoshi Nishimura warned that officials were watching out for any excessive or speculative moves in the market.</p>
+      <p>The yen pared a modest decline to edge higher to around the 141.70 per dollar level in Tokyo trading, just off a seven-month low against the greenback.</p>
+      <p>“Actual intervention is unlikely now but risks may become more real when it drops beyond 145 and 150 at a fast pace,” said Tsutomu Soma, a bond and currency trader at Monex Inc. in Tokyo. “The European currency crosses look most bullish versus the yen.”</p>
+      <p>The yen is down against every G-10 peer so far in June, thanks to the stark contrast between the BOJ and peers. Last week, the Federal Reserve signaled it may resume tightening after a June pause, the European Central Bank hiked and suggested more is likely in July, while traders expect the Bank of England to lift rates on Thursday.</p>
+      <p>In contrast, the BOJ kept a dovish tone, a move strategists said opened up the door for a further slide in the currency.</p>
+      <p>Last year, the yen weakening toward 146 per dollar triggered Japan’s first intervention to prop up the currency since 1998, though in the build up to that there were repeated official warnings about direct action.</p>
+      <p>--With assistance from Erica Yokoyama and Yoshiaki Nohara.</p>
+    </div>
+  },
+  {
+    id: 545,
+    title: 'EU Legislation for Digital Euro Is Put on Hold: Source',
+    category: 'Forex',
+    subCategory: ['EU', 'Euro', 'legislation'],
+    description: <div className="blog-desc">
+      <p>European Union legislation needed to underpin a digital euro, originally due to be published June 28, has been put on hold, CoinDesk has been told.</p>
+    </div>,
+    authorName: 'Jack Schickler',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 5:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-710.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>European Union legislation needed to underpin a digital euro, originally due to be published June 28, has been put on hold, CoinDesk has been told.</p>
+    	<p>The move follows the leaking of the draft bill, which covers privacy and technical issues for the central bank digital currency (CBDC), and a statement by finance ministers that appeared to question the motivation for the plan last week.</p>	
+    	<p>The timeline for the draft bill, intended to be published ahead of a firm European Central Bank decision on whether to issue the currency in a digital form, has shifted several times. It was at one stage planned for May.</p>	
+    	<p>The bill was most recently been scheduled for discussion and publication at a June 28 meeting of the European Commission’s decision-making body, according to a tentative forward agenda published last week. The commission did not provide a reason for the delay, nor did it give a new date for publication.</p>
+      <p>The plans were also discussed by finance ministers from the euro area at a regular Thursday meeting.</p>
+      <p>Ministers stressed the “importance of developing a compelling and clear narrative regarding what would be the added value of this development” in terms of a difference to the economy and citizens’ lives, Irish Finance Minister Paschal Donohoe in a statement after he chaired the talks, adding that “within our institutions ministers want to support this work but also look at how we can further develop that narrative.”</p>
+      <p>The legislative text seen by CoinDesk last week sought to bar banks paying interest on digital euros and merchants charging for using it.</p>
+      <p>CoinDesk has reached out to the European Commission for comment.</p>
+    </div>
+  },
+  {
+    id: 544,
+    title: 'USD/JPY Forecast – US Dollar Continues to Show Strength Against Japanese Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has tried to rally a bit during the trading session on Monday, but it’s worth noting that it was Juneteenth in the United States, so a certain amount of liquidity would be missing.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 5:16 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-709.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar has tried to rally a bit during the trading session on Monday, but it’s worth noting that it was Juneteenth in the United States, so a certain amount of liquidity would be missing.</p>
+    	<p>Furthermore, the market looks as if it is facing resistance near the ¥142.50 level. If we can break above there, then the market is likely to continue going much higher. On the other hand, if we pull back from here, I think that the ¥140 level is an area of significant support.</p>	
+    	<p>We have recently broken out of a bullish flag, which of course makes a lot of technical traders interested in this pair. I think you have to be a buyer of dips in this market, and I do think that eventually we break above the ¥142.50 level.</p>	
+    	<p>After all, the market has a massive interest rate differential between the 2 central banks, and it’s obvious that the Federal Reserve is still relatively tight. Despite the fact that they chose to skip the latest meeting for an interest rate hike, the Bank of Japan has made it clear that they are going to keep that loose monetary policy.</p>
+      <p>Measuring the potential move based on the bullish flag, it looks like this pair will eventually go looking to the ¥148 level above. That being said, the ascending triangle that the market broke out of previously before breaking out of the bullish flag measures for a move closer to the ¥150 level.</p>
+      <p>Pullbacks will more likely than not see the ¥138 level offer a significant amount of support as it was the top of the ascending triangle. Furthermore, the 50-Day EMA sits right around that level as well, so it all comes together for a nice potential floor in the market.</p>
+      <p>At this point, I have no interest whatsoever in trying to buy the Japanese yen, so this is a one-way trade as far as I can see, which is the same thing I can say about multiple Japanese yen related pairs, not just this one. Ultimately, this is a market that I think continues to see plenty of interest to the upside.</p>
+    </div>
+  },
+  {
+    id: 543,
+    title: 'GBP to USD Forecast – British Pound Looks Heavy',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has shown itself to be a little bit hesitant during the trading session on Monday, as we have been overdone for the last few days.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 5:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-708.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound has shown itself to be a little bit hesitant during the trading session on Monday, as we have been overdone for the last few days.</p>
+    	<p>Ultimately, the market has broken out and now it’s going to more likely than not try to pull back and find support. If the market can pull back toward the 1.2650 level, that’s an area where the market could find support based upon previously resistive action.</p>	
+    	<p>Ultimately, this is a market that I think continues to see a lot of volatility and upward momentum, but given enough time I do think that we will have to have a bit of a pullback in order to bring in more buyers. It’s worth noting that the United States is closed for the Juneteenth holiday, so this is not a normal trading session. The 1.2650 level should offer support, but even if we were to break down below there, then the 50-Day EMA comes into the picture as well.</p>
+      <p>If we turn around and break above the candlestick from Friday, then it’s possible that we could go looking to the 1.30 level. The 1.30 level is a large, round, psychologically significant figure that I think is the target recently.</p>	
+    	<p>All things being equal, this is a market that I think sees a lot of upward pressure given enough time, but I do recognize that there will be a significant amount of volatility on short-term charts. I have no interest in shorting this market, at least not unless something fundamentally changes with the overall economic situation. Yes, I do recognize that the global economy is going to be sluggish, and therefore the US dollar will probably attract a certain amount of attention when economic issues appear.</p>
+      <p>As things stand right now though, there’s no point in shorting this market, and I do think that it’s only a matter of time before value hunters come back into the market based on some type of supportive action. Ultimately, it’s not until we break down below the 200-Day EMA that I would be interested in shorting, which is closer to the 1.2350 region.</p>
+    </div>
+  },
+  {
     id: 542,
     title: 'GBP/JPY Weekly Forecast – British Pound Continues to Skyrocket',
     category: 'Forex',

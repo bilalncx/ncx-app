@@ -1,5 +1,255 @@
 const data = [
   {
+    id: 542,
+    title: 'Surge in China’s Demand for Gold Is Slowing as Economy Stumbles',
+    category: 'Commodities',
+    subCategory: ['China', 'gold', 'demand'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The jitters affecting the world’s second-biggest economy are starting to feed through into China’s gold market.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 6:26 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-717.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The jitters affecting the world’s second-biggest economy are starting to feed through into China’s gold market.</p>
+    	<p>A surge in purchases by Chinese residents, driven by pent-up demand after three years of pandemic restrictions and optimism that the economy would quickly rebound, is starting to slow — yet another sign that the recovery is losing momentum.</p>	
+    	<p>China vies with India as the world’s biggest consumer of gold bars, coins and jewelry. Its central bank has also been a recent buyer, adding to its reserves for seven straight months after a three-year pause.</p>	
+    	<p>Although most gold trades as a financial asset — notably as a haven for investors during risky times or as a hedge against inflation — China’s physical demand for the precious metal has helped underpin its ascent this year to over $2,000 an ounce.</p>
+      <p>The rapid expansion in retail sales of gold and silver jewelry looks to have topped out, rising 24% year-on-year in May to 26.6 billion yuan ($3.7 billion). That’s slower than the 44% and 37% growth recorded in the previous two months. The same period last year included the extended lockdown of Shanghai, when demand for goods and services cratered across the economy.</p>
+      <p>A key demand indicator for the precious metal suggests a further weakening in June. From a premium of $44.20 an ounce in March, the Shanghai gold price is now trading at a discount to the international market, according to the World Gold Council.</p>
+      <p>“Residents are pretty cautious in spending cash right now amid various uncertainties,” said Jiang Shu, general manager of the precious metals department at Shanghai Shandong Gold Industrial Development Co. “We may not see a rapid surge in purchases again without a slump in gold prices.”</p>
+      <p>The issues that have kept international prices close to record levels are still in play: the war in Ukraine, tensions between Washington and Beijing, and inflation and recession fears across the globe. At the same time, domestic factors such as weak markets for other investments like stocks and property could help support demand.</p>
+      <p>Although China’s buying spree has slowed, retail sales should stay elevated in the near term as gold remains a sound investment while inflation concerns persist, particularly in the US, said Zhang Ting, an analyst with Sichuan Tianfu Bank Co. Further purchases from the People’s Bank of China could also offset declines in retail sales, said Shanghai Shandong’s Jiang.</p>
+      <p>The Week’s Diary</p>
+      <p>(All times Beijing unless noted otherwise.)</p>
+      <p>Tuesday, June 20</p>
+      <ul>
+        <li>China sets monthly loan prime rates, 09:15</li>
+        <li>China’s 3rd batch of May trade data, including country breakdowns for energy and commodities</li>
+      </ul>
+      <p>Wednesday, June 21</p>
+      <ul>
+        <li>CCTD’s weekly online briefing on Chinese coal, 15:00</li>
+        <li>Shanghai exchange weekly commodities inventory, ~15:30</li>
+      </ul>
+      <p>Thursday, June 22</p>
+      <ul>
+        <li>Holiday in China, Hong Kong</li>
+      </ul>
+      <p>Friday, June 23</p>
+      <ul>
+        <li>Holiday in China</li>
+      </ul>
+      <p>On the Wire</p>
+      <p>Oil edged lower on concern that stimulus to revive China’s flagging economic recovery may fall short of expectations.</p>
+      <p>Chinese banks lowered their benchmark lending rates for the first time in 10 months following a reduction in policy rates by the central bank to bolster a slowing economy.</p>
+      <p>This year’s much-anticipated rebound in air travel is sputtering, with profound implications for the global oil market.</p>
+      <p>--With assistance from Sybilla Gross.</p>
+    </div>
+  },
+  {
+    id: 541,
+    title: 'Oil rises as Chinese economic indicators offer mixed picture',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Chinese', 'economic'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices rose on Tuesday after China cut benchmark lending rates in a potential boost to growth but oil demand was seen rising less than</p>
+    </div>,
+    authorName: 'Noah Browning',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 5:13 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-716.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Noah Browning</p>
+    	<p>LONDON (Reuters) -Oil prices rose on Tuesday after China cut benchmark lending rates in a potential boost to growth but oil demand was seen rising less than expected this year, in a mixed picture for consumption by the world's largest crude importer.</p>	
+    	<p>Brent crude was up 69 cents, or 0.9%, at $76.78 a barrel at 1226 GMT. U.S. West Texas Intermediate (WTI) crude for July was down 3 cents from Friday's close at $71.75. The July contract expires at the end of trade on Tuesday.</p>	
+    	<p>The more active WTI crude contract for August delivery was up 10 cents from Friday at $72.03 per barrel. There was no settlement in the WTI contract on Monday due to a public holiday in the United States.</p>
+      <p>China on Tuesday cut two benchmark lending rates by 10 basis points each. The cuts, the first in 10 months, were less aggressive than some forecasts.</p>
+      <p>"Oil traders may need to see a materialised strong economic rebound in China to improve their outlook on oil demand," said Tina Teng, a markets analyst at CMC Markets in Auckland.</p>
+      <p>The rate reductions follow recent economic data that showed China's retail and factory sectors are struggling to sustain the momentum seen earlier this year.</p>
+      <p>While China's 2023 crude oil demand is expected to rise 3.5% on last year, a researcher at China National Petroleum Corporation's (CNPC) research arm said on Tuesday, down around 1% from a previous estimate in March.</p>
+      <p>Meanwhile China's fuel oil imports eased slightly in May after hitting a decade-high in April.</p>
+      <p>The Chinese government met last week to discuss measures to spur growth in the economy, and several major banks have cut their 2023 economic growth forecasts for China amid concerns its post-COVID recovery is faltering.</p>
+      <p>Higher interest rates reduce appetite for spending and can drive down oil demand.</p>
+      <p>On the supply side, Iran's crude exports and oil output have hit new highs in 2023 despite U.S. sanctions.</p>
+      <p>Russia is also set to increase seaborne diesel and gasoil exports this month, outweighing cuts by the Organization of the Petroleum Exporting Countries (OPEC) and its allies, including Moscow itself.</p>
+      <p>(Additional reporting by Katya Golubkova in Tokyo and Andrew Hayley in Beijing; editing by Kim Coghill, Jason Neely and Louise Heavens)</p>
+    </div>
+  },
+  {
+    id: 540,
+    title: 'Insider Q&A: Lithium batteries have a 4-hour limit. Mateo Jaramillo hopes to solve that',
+    category: 'Commodities',
+    subCategory: ['Lithium', 'batteries', 'Mateo Jaramillo'],
+    description: <div className="blog-desc">
+      <p>Wind and solar power are sometimes dinged for not producing electricity 24 hours a day, but one of the most abundant minerals on the planet, iron, could be key to changing that.</p>
+    </div>,
+    authorName: 'ISABELLA O MALLEY',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 4:23 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-715.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Wind and solar power are sometimes dinged for not producing electricity 24 hours a day, but one of the most abundant minerals on the planet, iron, could be key to changing that.</p>
+    	<p>Form Energy, founded in 2017, recently broke ground in West Virginia on its first commercial-scale factory to make iron-air batteries — totally different from lithium ion. The company's goal is to one day help supply the electrical grid across the United States with renewable energy 24 hours a day and slash the need for burning coal and natural gas, polluting energy sources we currently rely on</p>	
+    	<p>CEO Mateo Jaramillo spoke with The Associated Press about progress toward achieving this vision. The interview has been edited for clarity and length.</p>	
+    	<p>Q: Why do you consider batteries a climate solution?</p>
+      <p>A: When I left divinity school in 2004 I made a sector bet and figured at some point, society will want effective energy storage. I grew up in Salinas, California, which is an agricultural town, and my parents worked for the farmer community. I’ve seen how many enjoy the benefits of traditional energy, but only some communities carry the burdens. I was compelled to figure a way to make a difference and felt that innovation was needed.</p>
+      <p>Q: Lithium ion batteries have some limitations and can only pump out power for four hours max. Why are iron-air batteries a good choice?</p>
+      <p>A: Lithium ion is an established, accepted technology being deployed at great volumes. But there isn’t a clear alternative on the market yet. We’re doing something different, storing energy for 100 hours at dramatically lower costs, to solve a multi-day storage problem as opposed to single-digit hours. Multi-day storage does not crowd out something like lithium ion, they complement each other very nicely. We see this over and over and over again in the modeling we do: Our lowest cost, most reliable, most decarbonized system has multiple types of energy storage.</p>
+      <p>Q: How much iron will you need?</p>
+      <p>A: About 2 billion tons of iron are mined globally every year — we would be in the single digital percentage of that total. Iron is available pretty much wherever you want to find it, there are massive deposits on every continent.</p>
+      <p>Q: Why did you choose West Virginia for the battery manufacturing facility?</p>
+      <p>A: The Mississippi River and Ohio River are essential for moving several million tons of material in a cost effective way. There are rail lines and a highway system nearby, so from a logistics perspective, it is a compelling site. Many people in the area also had great experience working in industrial environments given the community's history of producing steel, iron, and mining.</p>
+      <p>Q: How did you build trust with the local community?</p>
+      <p>A: Being transparent and committed to the region. We held a meeting at the local community center and a few hundred people came by. We had team members there just to say hello, answer questions, and to start to talk. There is excitement about the new jobs and work that is happening very actively. Early next year we will start to turn on the factory, so this is not a long wait and see process, this is moving immediately.</p>
+      <p>Q: Are batteries necessary for the U.S. to achieve net zero emissions?</p>
+      <p>A: The right kinds of energy are a core part of net zero, but there is no panacea or silver bullet. A lot of work over the next 20-30 years is needed across all industries that touch the power sector. It's not just technology, much less one company, showing up and saying, “We’ve got the whole thing fixed.” It’s going to take everybody.</p>
+      <p>Q: Have you had any moments of doubt since Form Energy was founded in 2017?</p>
+      <p>A: Whenever you embark on a deep technical challenge, you never know if the universe works the way you hope it does. There were moments of uncertainty, but very few, if any, moments of doubt. I was sure we had characterized the problem correctly, and that there was a big market need, and the solution would show up at the right time. It’s been a fairly linear pathway, which speaks volumes to the capabilities of our technical team.</p>
+      <p>Q: What does Form Energy need to accomplish for you to feel that the company’s mission has been achieved?</p>
+      <p>A: We won’t begin talking about our achievements until we are delivering to customers successfully because that’s what distinguishes a venture from a business. Right now we are a well-funded venture and have raised more than $800 million in venture capital funding. A business requires producing and selling to customers for value, so we won’t do that until close to the end of 2024. That’s when we can say, what else? Where do we go from here?</p>
+      <p>But to me, that’s the very beginning of what we hope to accomplish. The goal is to have a big impact for a very, very long time by building a category-defining company that positively impacts the economy and people who rely on electricity.</p>
+      <p>Q: What would you say to someone that is anxious about climate change?</p>
+      <p>A: I am a techno optimist, but there are a lot of good approaches in policy and business pointing to the solutions we need. Everybody has a role to play and all voices have to be part of technology, policy, and individual actions.</p>
+    </div>
+  },
+  {
+    id: 539,
+    title: 'EU countries fail to agree energy reforms after coal subsidy clash',
+    category: 'Commodities',
+    subCategory: ['EU', 'Coal', 'energy'],
+    description: <div className="blog-desc">
+      <p>LUXEMBOURG (Reuters) -European Union countries failed on Monday to agree on planned new rules for the bloc's power market, having clashed over a proposal to</p>
+    </div>,
+    authorName: 'Kate Abnett',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 8:03 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-712.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Kate Abnett</p>
+    	<p>LUXEMBOURG (Reuters) -European Union countries failed on Monday to agree on planned new rules for the bloc's power market, having clashed over a proposal to extend subsidies for coal plants under the reform, and a push to expand state aid for other power plants.</p>	
+    	<p>EU energy ministers meeting in Luxembourg ended talks without a joint stance on the reforms that seek to avoid a repeat of last year's energy crisis, when record-high gas prices left consumers with soaring energy bills.</p>
+      <p>The talks had been complicated by a late proposal by Sweden, which holds the EU's rotating presidency, to allow countries to prolong capacity mechanism subsidies for coal power plants that pay generators to keep capacity on standby to avoid blackouts.</p>
+      <p>EU countries' ambassadors will take up the negotiations, aiming for a deal this month.</p>
+      <p>Asked about the coal proposal, Swedish Energy Minister Ebba Busch said ensuring Poland, which borders Ukraine, had stable power generation could help it support Ukraine with back-up power.</p>
+      <p>Poland, which gets around 70% of its power from coal, could prolong its support scheme for coal plants, potentially until 2028, under the proposal.</p>
+      <p>Countries including Austria, Belgium, Germany and Luxembourg had objected, saying the move would undermine Europe's goals to fight climate change.</p>
+      <p>The draft proposal, seen by Reuters, would allow existing capacity mechanisms to temporarily waive a CO2 emissions limit - enabling coal plants to participate - if they fail to attract enough lower-carbon generators, and if the European Commission approved the exemption.</p>
+    	<p>"For some of us, security means capacity markets," Polish Climate Minister Anna Moskwa said earlier on Monday.</p>
+      <p>Coal is the most CO2-emitting fossil fuel. Scientists say its use must plummet this decade if the world is to avoid the most severe impacts of climate change.</p>
+      <h3>STATE AID</h3>
+      <p>Ministers also struggled to agree rules governing state support for renewable and nuclear power plants, with Germany and France at odds over the issue.</p>
+      <p>Germany, Austria and the Netherlands had said letting countries offer fixed-price power contracts with the state to existing power plants, as well as new ones, could distort the EU's single market.</p>
+      <p>"This could lead to market distortions as large parts of the markets could become inflexible, and also to a distortion of a level playing field concerning the prices in Europe," German Economy and Climate Minister Robert Habeck said in the meeting.</p>
+      <p>EU diplomats said the concerns centred around the potential use of these subsidies for French nuclear plants.</p>
+      <p>French Energy Minister Agnes Pannier-Runacher opposed the call to restrict the use of such contracts, which she said "endangers the objective of security of supply and of protecting consumers".</p>
+      <p>The proposed EU power market reform aims to make power prices more stable. Once they agree a common position, countries must negotiate the final law with the EU Parliament.</p>
+      <p>The latest proposal would also let countries introduce national schemes, until mid-2024, to recoup windfall revenues from some power plants if power prices spike - a move backed by countries including Greece and Spain.</p>
+      <p>(Reporting by Kate Abnett; additional reporting by Tassilo Hummel, Sudip Kar-Gupta; Editing by Giles Elgood, Emelia Sithole-Matarise, Barbara Lewis, Marguerita Choy and Jonathan Oatis)</p>
+    </div>
+  },
+  {
+    id: 538,
+    title: 'Coal Trains Bound for Giant Australia Port Halted by Protester',
+    category: 'Commodities',
+    subCategory: ['Coal', 'Bound', 'Australia'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- A total of 19 trains carrying coal to Australia’s flagship export hub for the fuel were disrupted after a protester suspended themselves from two poles over rail tracks.</p>
+    </div>,
+    authorName: 'David Stringer',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 7:09 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-713.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- A total of 19 trains carrying coal to Australia’s flagship export hub for the fuel were disrupted after a protester suspended themselves from two poles over rail tracks.</p>
+    	<p>Part of a rail line in Kooragang, close to the Port of Newcastle in New South Wales state, was halted for more than four hours from 7 a.m. local time Monday, according to the Australian Rail Track Corp., which manages the network.</p>	
+    	<p>A 22-year-old woman was arrested at the scene after law enforcement removed the structure from the tracks, New South Wales police said in a statement.</p>	
+    	<p>Australia’s status as the world’s No. 2 coal exporter has long been a focus for activists who argue the nation’s sales of the fossil fuel are a key contributor to global emissions.</p>
+      <p>While Prime Minister Anthony Albanese has legislated more ambitious national climate targets, his government has also shown support for a coal sector forecast to generate about A$128 billion ($88 billion) in export earnings this fiscal year.</p>
+      <p>Blockade Australia’s demonstration at Kooragang was “a response to Australia’s destruction of the climate,” the campaign group said in a message posted to Twitter. Two separate protests also took place Monday near the Port of Melbourne and Port of Brisbane, the organization said.</p>
+      <p>Newcastle Coal Infrastructure Group, which handles coal exports for producers including BHP Group Ltd., Yancoal Australia Ltd. and Whitehaven Coal Ltd., didn’t immediately respond to a request for comment.</p>
+      <p>BHP declined as much as 1.1% in Sydney by 1:08 p.m., as Whitehaven fell as much as 3.9% and Yancoal by as much as 2.8%.</p>
+    </div>
+  },
+  {
+    id: 537,
+    title: 'Top Gold ETFs for 2023',
+    category: 'Commodities',
+    subCategory: ['Gold', 'ETFs', '2023'],
+    description: <div className="blog-desc">
+      <p>iShares Gold Trust Micro offers the lowest fees, Invesco DB Precious Metals Fund has the best return, and SPDR Gold Trust is the most liquid.</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 18, 2023 - 4:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-714.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>iShares Gold Trust Micro offers the lowest fees, Invesco DB Precious Metals Fund has the best return, and SPDR Gold Trust is the most liquid.</p>
+    	<p>For investors looking to hedge their bets on the unpredictable economy, gold exchange-traded funds can be a more manageable and cheaper way to invest in the commodity.</p>	
+    	<p>Gold prices are currently hovering around an all-time high and certain ETFs may be able to help investors capitalize on the hot market.</p>
+      <h3>Key Takeaways</h3>	
+      <ul>
+        <li>Gold prices are hovering around all-time highs.</li>
+        <li>iShares Gold Micro ETF has the lowest expense ratio. Invesco DB Precious Metals Fund has the best 1-year performance. And SPDR Gold Trust offers traders the best liquidity.</li>
+        <li>The holdings of these ETFs are represented by gold bullion and precious metals futures.</li>
+      </ul>
+    	<p>Some 10 gold-focused ETFs trade in the U.S., excluding leveraged and inverse funds as well as those with less than $50 million in assets under management (AUM).They invest directly in either gold bullion or gold futures contracts as opposed to companies that mine for the metal.</p>
+      <p>Below, we look at three gold ETFs with the lowest fees, the best 12-month return, and the most liquidity. We have excluded leveraged ETFs, which provide outsized returns but come with extra risk. All data below are as of June 14.</p>
+      <p><strong>Gold ETF with the Lowest Fess: iShares Gold Trust Micro ETF (IAUM)</strong></p>
+      <ul>
+        <li>Performance Over One Year: 7.51%</li>
+        <li>Expense Ratio: 0.09%</li>
+        <li>Annual Dividend Yield: N/A</li>
+        <li>30-Day Average Daily Volume: 494,889</li>
+        <li>Assets Under Management: $993.4 million</li>
+        <li>Inception Date: June 15, 2021</li>
+        <li>Issuer: BlackRock Financial Management </li>
+      </ul>
+      <p>Unlike many other gold exchange-traded products, IAUM is structured as a true ETF. It trades on the NYSE Arca and also uses the LBMA Gold Price as a benchmark. IAUM can be utilized as a way to diversify a portfolio of securities and to protect against inflation. The sole holding of IAUM is gold bullion.</p>
+      <p><strong>Gold ETF with the Best 1-Year Return: Invesco DB Precious Metals Fund (DBP)</strong></p>
+      <ul>
+        <li>Performance Over One Year: 7.54%</li>
+        <li>Expense Ratio: 0.77%</li>
+        <li>Annual Dividend Yield: 0.43%</li>
+        <li>Three-Month Average Daily Volume: 27,844</li>
+        <li>Assets Under Management: $181.1 million</li>
+        <li>Inception Date: Jan. 5, 2007</li>
+        <li>Issuer: Invesco</li>
+      </ul>
+      <p>Invesco DB Precious Metals Fund tracks the DBIQ Optimum Yield Precious Metals Index. This fund is geared towards investors who want to invest in commodities futures. 80% of the funds holding comprises gold futures; the other 20% is silver futures.</p>
+      <p><strong>Most Liquid Gold ETF: SPDR Gold Trust (GLD)</strong></p>
+      <ul>
+        <li>Performance Over One Year: 7.16%</li>
+        <li>Expense Ratio: 0.40%</li>
+        <li>Annual Dividend Yield: N/A</li>
+        <li>Three-Month Average Daily Volume: 8,654,929</li>
+        <li>Assets Under Management: $58.5 billion</li>
+        <li>Inception Date: Nov. 18, 2004</li>
+        <li>Issuer: World Gold Trust Services</li>
+      </ul>
+      <p>SPDR Gold Trust tracks the LBMA Gold Price as a benchmark. The goal of this fund is to reflect the price of gold bullion. It is the most popular and oldest gold ETF trading on the U.S. market.</p>
+    </div>
+  },
+  {
     id: 536,
     title: 'European gas prices are soaring again. Full tanks should avert a new energy crisis',
     category: 'Commodities',

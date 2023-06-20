@@ -1,5 +1,195 @@
 const data = [
   {
+    id: 578,
+    title: 'Bitcoin gains ground, Ether rises, Solana leads winners, BNB little-changed to lower',
+    category: 'Crypto',
+    subCategory: ['BNB', 'Solana', 'Ether'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose in Tuesday morning trading in Asia to hold above support at US$26,000. Ether also logged gains along with most other top 10 non-stablecoin cryptocurrencies.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 5:02 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-694.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose in Tuesday morning trading in Asia to hold above support at US$26,000. Ether also logged gains along with most other top 10 non-stablecoin cryptocurrencies.</p>
+    	<p>Binance’s BNB token was little changed to lower on signs the world’s largest crypto exchange may be winding down its expansion in Europe amid widespread regulatory woes.</p>	
+    	<p>Equity futures in the U.S. edged lower after the long weekend break, recent mixed signals on the state of inflation, and speculation about more interest rate hikes by the Federal Reserve.</p>
+      <h3>Crypto</h3>	
+    	<p>Bitcoin rose 1.41% over the last 24 hours to US$26,765 at 07:00 a.m. in Hong Kong, moving up 3.21% for the past seven days, according to data from CoinMarketCap. The world’s largest cryptocurrency reached a weekly high of US$26,984 early Tuesday to test resistance at US$27,000.</p>
+      <p>Ether gained 0.86% to US$1,734, but has flatlined over the past seven days to log a weekly loss of 0.48%. Solana led the winners in the top 10, rising 3.76% to US$15.95 and up 4.95% for the week.</p>
+      <p>Most other top 10 non-stablecoin tokens moved higher in early morning trade. However, Binance’s BNB posted a dip of 0.25% to US$242.87, though the token is still holding onto a weekly gain of 5.38%. The Binance exchange seems to be reining in its global expansion plans amid growing regulation challenges.</p>
+      <p>Binance Markets Ltd, the U.K. subsidiary of Binance, can no longer “provide regulated activities and products” for non crypto-related activities in the country, according to a Monday posting on the website of the country’s Financial Conduct Authority (FCA). According to reports, Binance had permission to provide such services in the U.K. but had requested to the FCA it be withdrawn as they were unlikely to be used.</p>
+      <p>Apart from the ongoing lawsuit with U.S. regulators, Binance is also facing challenges in Europe. The company on Friday said it will withdraw from the Netherlands after being unable to secure a virtual asset service provider registration in the country. The crypto exchange is also reportedly under an anti-money laundering probe in France.</p>
+      <p>Digital asset investment products saw an outflow of US$5.1 million last week, according to data tracked by Europe-based cryptocurrency investment firm CoinShares on Monday. The data marks the ninth consecutive week of outflows, while the number is smaller than US$88 million in the previous week after the world’s biggest asset manager BlackRock filed for a spot Bitcoin ETF.</p>
+      <p>“(BlackRock’s) move also conveys a compelling message to the SEC, implying a firm stand on the importance and role of cryptocurrencies in future financial innovation in the U.S,” Rachel Lin, the co-founder and chief executive officer of crypto derivatives exchange SynFutures, said in an emailed comment.</p>
+      <p>BlackRock’s Bitcoin ETF efforts could be a sign of a major crypto trader migration, according to Markus Thielen, Head of Crypto Research & Strategy at digital asset service platform Matrixport.</p>
+      <p>“There are now 420 million cryptocurrency holders; migrating them to regulated entities might be the most significant task in 2023 mainly because fighting those crypto companies with deep pockets is also very time-consuming for regulators,” said Thielen in an emailed comment. “Ripple Labs has spent $200m on its lawsuit with the SEC, while Coinbase, especially Binance, could spend billions. So why not approve the Blackrock ETF and let nature play is part?”</p>
+      <p>CoinShares indicated the slump in prices of many tokens had brought in some bargain-hunting. “The prior week crash in altcoin prices prompted investors to add to positions (in altcoin-linked investment products),” wrote CoinShares in its Monday report, “with XRP, Cardano and Polygon being the focus.”</p>
+      <p>The total cryptocurrency market cap rose 0.86% to US$1.07 trillion in the last 24 hours, while crypto trading volume rose 35.69% to US$26.74 billion, according to CoinMarketCap data.</p>
+      <h3>NFT transactions rise</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dipped 0.17% to 2,868.69 in the 24 hours to 09:20 a.m. in Hong Kong. The index is down 3.36% for the seven days.</p>
+      <p>NFT transactions on Ethereum rose 6.74% in the past 24 hours to US$13.16 million, according to CryptoSlam data. Transactions on the Bitcoin blockchain surged 135.38% to US$3.43 million, while the Polygon and Cardano networks also logged two-digit gains in NFT transactions.</p>
+      <p>“Forkast 500 NFT Index along with Ethereum, Solana, Polygon, and Cardano are all close to even, which may be a sign that the market has finished reacting to the SEC’s lawsuits against Binance and Coinbase,” said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News.</p>
+      <p>“Sneakerhunt”, a teased collaboration between Nike’s NFT platform .SWOOSH and online video game Fortnite is set to be unveiled on Tuesday, which might bring more public exposure to NFTs.</p>
+      <p>“This may be a huge week for NFTs after Nike’s tease about an incoming in-game sneaker event in Fortnite,” said Petscher. “Many speculate that it’s Nike’s .SWOOSH shoes that may be the prize at the end of the hunt, titled Airphoria. With Fornite’s 242+ million strong userbase, this could end up being another mass onboarding event for NFTs.”</p>
+      <p>Elsewhere, CryptoPunk #8611 of the Ethereum-based CryptoPunk NFT collection was sold for around US$95,000 on Saturday and immediately burned and “revived” as an Ordinal inscription on the Bitcoin network, with the process directed by NFT enthusiast NatanStein.</p>
+      <p>“(The action) may be a vote of confidence in the value of assets existing on Bitcoin, but this asset now loses any potential benefits it would have received from Yuga Labs if they were to incorporate it in their Otherside Universe,” said Petscher. “Yuga Labs famously had thousands of $APE Coin claimable for each BAYC NFT, along with land in their Otherside game, and some have speculated that CryptoPunks may one day see their own rewards.”</p>
+      <h3>U.S. futures lower</h3>
+      <p>U.S. stock futures traded lower as of 11.00 a.m. in Hong Kong. Dow Jones Industrial Average futures fell 0.37%, while the S&P 500 and Nasdaq futures both lost 0.22%.</p>
+      <p>All the three major U.S. stock indexes logged gains last week as the Federal Reserve left interest rates unchanged at the June 14 meeting, but this was tempered by Fed Chair Jerome Powell, noting “nearly all Committee participants expect that it will be appropriate to raise interest rates somewhat further by the end of the year.”</p>
+      <p>The Fed projects the interest rate to reach 5.6% in 2023, indicating two more rate hikes within the year. New York Fed President John Williams will be speaking on Tuesday in the U.S. and may make further comments on the Fed’s fight with inflation.</p>
+      <p>On the economic data front, the U.S. housing market index, a measurement of homebuilder sentiment, reached an 11-month high of 55 in June to beat analysts’ expectations, according to Bloomberg on Monday. Readings above 50 indicate more housebuilders see the market condition good than bad.</p>
+      <p>U.S. interest rates are now between 5% and 5.25%, the highest since 2006, and the Federal Reserve’s next meeting on rates is July 26. The CME FedWatch Tool predicts a 25.6% chance the Fed will keep rates unchanged in July, and a 74.4% chance for another 25-basis-point rate hike, up from 71.9% on Monday.</p>
+      <p>China’s central bank lowered its one-year and five-year loan prime rates to 3.55% and 4.2% on Tuesday as economists expected, as the country seeks to boost its slow post-Covid recovery, according to the Financial Times on Tuesday.</p>
+    </div>
+  },
+  {
+    id: 577,
+    title: 'Grayscale Bitcoin Trust Gets a Bullish Bump After BlackRock ETF Filing',
+    category: 'Crypto',
+    subCategory: ['Grayscale', 'Bitcoin', 'ETF'],
+    description: <div className="blog-desc">
+      <p>Last week, $9.5 trillion asset manager BlackRock made a seismic move by applying to the U.S. Securities and Exchange Commission (SEC) for a Bitcoin exchange-traded fund (ETF).</p>
+    </div>,
+    authorName: 'Pedro Solimano',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 20, 2023 - 12:06 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-699.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Last week, $9.5 trillion asset manager BlackRock made a seismic move by applying to the U.S. Securities and Exchange Commission (SEC) for a Bitcoin exchange-traded fund (ETF). The ripple effects of the traditional finance titan have, apparently, propped up investor sentiment and sent Grayscale’s Bitcoin Trust (GBTC) flying.</p>
+    	<p>GBTC jumped more than 12% on the news before markets closed on Friday, with share prices reaching $15.12, according to Yahoo Finance. U.S. markets were closed on Monday in observance of Juneteenth, a federal holiday commemorating the day word reached Texas that enslaved people had been emancipated.</p>	
+    	<p>Grayscale’s flagship product, GBTC, enables investors to trade shares in trusts that hold pools of Bitcoin, with each share meant to track the current price of Bitcoin; the idea is that investors can gain exposure to Bitcoin without having to actually buy and hold the asset itself.</p>	
+    	<p>The so-called “GBTC Discount,” hit a monthly low of -36.61% according to YCharts, with bitcoin trading at $26,436, as per information from Coingecko. The discount refers to the difference between the price fo the shares and the net asset value (NAV) of GBTC’s Bitcoin holdings.</p>
+      <p>Grayscale, a subsidiary of Digital Currency Group (DCG), has been filing for a spot Bitcoin ETF for years–as have several other companies. The company first filed an application back in 2016, withdrawing it a year later.</p>
+      <p>“We believed the regulatory environment for digital assets had not advanced to the point where such a product could successfully be brought to market,” Grayscale said at the time.</p>
+      <p>They applied again in 2021, only to be turned down by regulators due to what authorities deemed “a market prone to manipulation.” The repeated rejection of its ETF application led Grayscale to initiate legal actions against the SEC last year. The court case reached a pivotal moment in March this year, after judges questioned the agency’s decision-making.</p>
+      <p>Investors seem to be feeling bullish today, however. Although the long and extenuating legal battle with the SEC seems endless, BlackRock’s impeccable track record for ETF applications (currently at 575-1) has injected a breath of fresh air into GBTC.</p>
+      <p>The SEC has been relentless in its “anti-crypto” stance, suing several big name industry players in the past weeks. SEC Chair Gary Gensler, known for having taught a Bitcoin and Blockchain course at MIT, has been a staunch adversary for the cryptocurrency space.</p>
+    </div>
+  },
+  {
+    id: 576,
+    title: 'Curve Looks To Expand crvUSD Collateral Assets',
+    category: 'Crypto',
+    subCategory: ['Curve', 'Expand', 'USD'],
+    description: <div className="blog-desc">
+      <p>Curve, a popular stablecoin-focused decentralized exchange (DEX), is seeking to expand the set of collateral assets supported by its crvUSD stablecoin</p>
+    </div>,
+    authorName: 'Samuel Haig',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 10:46 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-695.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Curve, a popular stablecoin-focused decentralized exchange (DEX), is seeking to expand the set of collateral assets supported by its crvUSD stablecoin beyond Ethereum liquid staking tokens, starting with wrapped Bitcoin.</p>
+    	<p>Should the proposal pass, Curve would launch a wBTC vault with a $200M debt ceiling and a maximum loan-to-value ratio of 89%. Voting began yesterday and will end on June 25.</p>	
+    	<p>On Sunday, Curve also launched a proposal to onboard native Ether as crvUSD collateral with a $200M debt limit on Sunday. Voting is currently underway. Curve is DeFi’s second-largest DEX with nearly $4B in total value locked. Its CRV token has shed a quarter of its value in the past month.</p>	
+    	<p>Curve launched crvUSD on mainnet in early May. Users could initially mint the stablecoin against Frax’s liquid staking token (LST), sfrxETH. Curve then rolled out support for the leading LST, Lido’s stETH, two weeks ago.</p>
+      <p>However, it remains to be seen whether crvUSD will be able to compete with other money market protocols. crvUSD borrowers are currently paying interest rates of more than 5% (which can be offset by the staking rewards accrued by LSTs), twice the current interest rate for wBTC on Aave.</p>
+      <h3>Stablecoin Shakeup</h3>
+      <p>The proposals come as Curve sees opportunities in the stablecoin sector.</p>
+      <p>The centralized stablecoin landscape was shaken up in February when the New York Department of Financial Services ordered Paxos to cease issuing new Binance USD tokens.</p>
+      <p>The following month, USDC, the second largest stablecoin, depegged amid fears regarding its exposure to the failure of Silvergate and Silicon Valley Bank. USDC’s market capitalization is down 36% since the start of the year.</p>
+      <p>MakerDAO’s DAI stablecoin also depegged due to its heavy reliance on USDC.</p>
+      <p> MakerDAO is currently restructuring per its Endgame roadmap, with founder Rune Christensen recently advocating for DAI to freely float against the dollar, creating possible openings in the decentralized stablecoin sector.</p>
+      <h3>Peg Maintenance</h3>
+      <p>CrvUSD maintains its peg by combining overcollateralization requirements with Stability Pools and PegKeepers.</p>
+      <p>Stability Pools take inspiration from MakerDAO'sPeg Stability Module, comprising liquidity pools that enable low-slippage swaps between crvUSD and top centralized stablecoins USDC, USDT, USDP, and TUSD.</p>
+      <p>Curve ties each Stability Pool to a PegKeepers smart contract, which mints or burns crvUSD when the token trades above or below its peg to push the stablecoin’s price back toward $1. This mechanism underpins many algorithmic stablecoins.</p>
+      <p>The system has been very effective at maintaining the stablecoin’s price so far, despite crvUSD’s collateral comprising volatile crypto assets. On Saturday, Curve shared data indicating the token has traded within a 0.3% price range since mid-May.</p>
+      <h3>Aave Nixes Proposal To Freeze CRV Market</h3>
+      <p>In other Curve news, the Aave community has unanimously voted down a proposal from Gauntlet, a risk management firm, to freeze the CRV lending market on Aave V2.</p>
+      <p>Gauntlet had flagged the potential risks posed by Curve founder Michael Egorov’s outsized CRV position on Aave, which is too large to be efficiently liquidated on-chain should the need arise.</p>
+    </div>
+  },
+  {
+    id: 575,
+    title: 'Ethereum Scanner Etherscan Adds OpenAI-Based Tool to Analyze Smart Contract Source Code',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Etherscan', 'AI'],
+    description: <div className="blog-desc">
+      <p>Etherscan, one of the most commonly used Ethereum blockchain scanning websites, introduced a tool that uses artificial intelligence (AI) to help users</p>
+    </div>,
+    authorName: 'Eliza Gkritsi',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 7:34 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-696.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Etherscan, one of the most commonly used Ethereum blockchain scanning websites, introduced a tool that uses artificial intelligence (AI) to help users interpret the source code of smart contracts, according to a post on its website.</p>
+    	<p>The tool, based on AI technology developed by OpenAI, allows users to ask for an explanation of the entirety or parts of the source code of a smart contract, Etherscan said.</p>	
+	    <p>Users can also retrieve the "read" and "write" functions of a smart contract such that they can "make informed decisions" on how to interact with them as well as explore possible ways of using them in decentralized applications, the post said.</p>	
+	    <p>Following the explosion of interest in AI spurred by the popularity of OpenAI's ChatGPT chatbot, blockchain and crypto companies have rushed to support traders and developers with tools based on the technology. Last week, crypto exchange Bybit integrated ChatGPT into its trading platform.</p>
+      <p>Etherscan said the tool is meant for informational purposes only and encouraged users to verify its answers instead of relying on them solely for evidence or bug bounty submissions.</p>
+      <p>In order to use Code Reader, as the Etherscan tool is called, users need to connect to OpenAI's API and have sufficient usage limits. An API, or application programming interface, allows two computer programs to communicate and share information.</p>
+      <p>Etherscan's tool currently doesn't allow for conversation threads with the chatbot and can be queried only through one-off prompts.</p>
+    </div>
+  },
+  {
+    id: 574,
+    title: 'Ethereum Developers Propose Raising Validator Limit to 2,048 Ether From 32 Ether',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Developers', 'ether'],
+    description: <div className="blog-desc">
+      <p>A bump in waiting times and the sheer amount of interest in spinning up Ethereum validator nodes is making developers consider increasing the current limits drastically.</p>
+    </div>,
+    authorName: 'Shaurya Malwa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 4:19 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-697.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>A bump in waiting times and the sheer amount of interest in spinning up Ethereum validator nodes is making developers consider increasing the current limits drastically.</p>
+    	<p>Developers have proposed raising the validator limit from 32 ether (ETH) to 2,048 ether – a 6,300% rise. This has forced large entities, such as Lido or staking services offered by crypto exchanges, to spin up multiple validator nodes to offer staking yield services to users.</p>	
+    	<p>Developers said on an Ethereum core developer call on Thursday that the current limit led to a brisk expansion of the network’s validator set, albeit with a large increase in the number of validators running the network.</p>	
+    	<p>The proposal was first floated in early June by Ethereum developers Mike Neuder, Francesco D’Amato, Aditya Asgaonkar and Justin Drake. The proposal is still under debate and isn’t actively being worked on as of Monday.</p>
+      <p>Validators are entities in a proof-of-stake blockchain, such as Ethereum, that process transactions and help maintain the overall security of such networks.</p>
+      <p>Data shows the current waiting time for a user to run a validator node on Ethereum is 44 days, up from nearly a month in May. Exiting the network is possible within a few minutes, and no entity is in the “exit queue” as of Monday, the data shows.</p>
+      <p>The data indicates the demand for validators to enter the network and earn a nearly 5% annual yield. Such strong demand is likely stemming from large ether holders, who do not want to cash out and instead just want to earn some passive income on their holdings.</p>
+    </div>
+  },
+  {
+    id: 573 ,
+    title: 'Ethereum Layer 2 Network zkSync Eras Locked Value Surpasses $500M',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Network', 'surpasses'],
+    description: <div className="blog-desc">
+      <p>Matter Labs' zkSync Era, a zero-knowledge (ZK) rollup aimed at scaling Ethereum, continues to attract capital at a brisk pace.</p>
+    </div>,
+    authorName: 'Omkar Godbole',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 19, 2023 - 11:54 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-698.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Matter Labs' zkSync Era, a zero-knowledge (ZK) rollup aimed at scaling Ethereum, continues to attract capital at a brisk pace.</p>
+    	<p>The total value locked (TVL) on zkSync Era rose above $500 million early Monday, marking a 12% increase in one week, according to data source L2Beat. The TVL is a metric widely used to track the total value of digital assets locked or staked on a decentralized finance platform.</p>	
+    	<p>The scaling solution, which retains Ethereum Virtual Machine (EVM) compatibility while ensuring native account abstraction, is already the third-largest rollup by total value locked next to Arbitrum and Optimism.</p>	
+    	<p>At press time, more than 220,000 ether (ETH), or around $378.3 million, about 121 million USDC (a dollar-pegged stablecoin) and 14.43 million MUTE, worth $7.53 million, were locked on zkSync. MUTE is the native cryptocurrency of a zkRollup-based decentralized exchange, Mute.</p>
+      <p>The daily active addresses have steadily increased since May, averaging 175,000 in the past four weeks. zkSync was launched in March 2023.</p>
+      <p>Recently, liquid staking solution Rocketpool went live on zkSync Era, joining the list of decentralized applications moving to layer 2 platforms. The increased user demand for rollups is likely driven by Ethereum core developers' focus on implementing the ethereum Improvement Proposal (EIP) 4844, according to Galaxy Digital.</p>
+      <p>The EIP 4844 will introduce a new transaction type to Ethereum, which accepts "blobs" of data and reduce transaction fees on rollups.</p>
+      <p>"The prioritization of EIP 4844 as the next major code change in Ethereum’s forthcoming Cancun/Deneb upgrade slated to activate sometime this Fall or Winter next year affirms the importance of rollups for the long-term scalability of Ethereum and the need for dapps built on Ethereum to eventually migrate the majority of their operations to a more cost-effective rollup," Alex Thorn, head of research at Galaxy Digital, said in a newsletter dated June 2.</p>
+      <p>Note that activity on other ZK rollups like Starknet and Polygon zkEVM also remains brisk. That has some observers calling a Zk season ahead – a crypto market slang for a period where ZK rollups outperform other market sectors by a significant margin.</p>
+    </div>
+  },
+  {
     id: 572,
     title: 'BNB Chain’s NFT landscape witnesses a rebound in June aided by…',
     category: 'Crypto',
