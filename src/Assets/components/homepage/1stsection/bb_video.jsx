@@ -83,7 +83,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src="https://ncx.cx/images/ncx-cardvideo.mp4" type="video/mp4" />
+                    <source src="https://ncx.cx/images/new-cardvideombl.mp4" type="video/mp4" />
                 </video>
                 <div className="gsfersdsd">
                     <h1>NCX Exchange</h1>
