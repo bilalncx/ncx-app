@@ -3,11 +3,11 @@ import '../sect_poweredby/powered.css';
 import NCXBarCode from '../../../images/ncx-barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
-import BuyCryptoVideo from '../../../images/home__newvideo.mp4';
+// import BuyCryptoVideo from '../../../images/home__newvideo.mp4';
 import Button from "@mui/material/Button";
 import './firstsection.css';
 import { useTranslation } from "react-i18next";
-import NewCardVideo from '../../../images/new-cardvideo.mp4';
+// import NewCardVideo from '../../../images/new-cardvideo.mp4';
 
 function NCXAPPSection()
 {
@@ -61,7 +61,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src={NewCardVideo} type="video/mp4" />
+                    <source src="https://ncx.cx/images/ncx-cardvideo.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="bvc_mnb">
@@ -83,7 +83,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src={NewCardVideo} type="video/mp4" />
+                    <source src="https://ncx.cx/images/ncx-cardvideo.mp4" type="video/mp4" />
                 </video>
                 <div className="gsfersdsd">
                     <h1>NCX Exchange</h1>

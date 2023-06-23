@@ -1,5 +1,5 @@
 import React from "react";
-import CardMainVideo from '../../../images/new-cardvideo.mp4';
+// import CardMainVideo from '../../../images/new-cardvideo.mp4';
 import Button from "@mui/material/Button";
 import './style.css';
 
@@ -15,7 +15,7 @@ function CardFirstNew()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src={CardMainVideo} type="video/mp4" />
+                    <source src="https://ncx.cx/images/ncx-cardvideo.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="bvc_mnb">
