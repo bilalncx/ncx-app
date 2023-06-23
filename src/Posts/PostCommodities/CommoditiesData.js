@@ -1,5 +1,130 @@
 const data = [
   {
+    id: 546,
+    title: 'Gold set for weekly drop as traders assess US rate outlook',
+    category: 'Commodities',
+    subCategory: ['Gold', 'traders', 'US'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices hovered near a three-month low on Friday and were set for their biggest weekly drop since February, as the dollar strengthened after U.S.</p>
+    </div>,
+    authorName: 'Gold set for weekly drop as traders assess US rate outlook',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 7:18 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-726.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Arundhati Sarkar</p>
+    	<p>(Reuters) - Gold prices hovered near a three-month low on Friday and were set for their biggest weekly drop since February, as the dollar strengthened after U.S. Federal Reserve Chief Jerome Powell hinted more interest rate hikes.</p>
+      <p>Spot gold was flat at $1,914.09 per ounce by 0644 GMT and stayed close to a three-month low hit earlier in the session. Prices are down 2.3% for the week.</p>
+    	<p>U.S. gold futures were flat at $1,923.60.</p>	
+    	<p>The dollar index drew support from risk aversion globally, making bullion less attractive for overseas investors. [USD/] [MKTS/GLOB]</p>
+      <p>"Gold has extended lower out of the range that it was occupying for a few weeks, suggesting there is more weakness ahead. The decline matches up with the rise in yields, reflecting hawkish comments from Powell and Fed officials more generally," said Ilya Spivak, head of global macro at Tastylive.</p>
+      <p>Powell, in his second day of testimony, said the U.S. central bank would move interest rates at a "careful pace" from here as policymakers edge towards a stopping point for their historic round of monetary policy tightening.</p>
+      <p>While gold is struggling to find any impetus amid the higher interest rate outlook, it has shown an ability to stage a recovery after recent price dips, said Tim Waterer, chief market analyst at KCM Trade.</p>
+      <p>Asian stocks, meanwhile, slumped toward their worst week of the year as a string of hawkish central bank surprises made investors nervous about the economic cost of taming inflation.</p>
+      <p>Spot silver edged 0.2% higher to $22.2775 per ounce, but was set for its biggest weekly drop since October 2022. Platinum fell 0.2% to $921.55.</p>
+      <p>Palladium advanced 0.5% to $1,289.78 after hitting its lowest since May 2019 in the previous session.</p>
+      <p>"Palladium has a little bit more of an industrial profile than gold, so expectations for a global downturn engineered by hawkish central banks might add to downside pressure," Tastylive's Spivak added.</p>
+      <p>(Reporting by Arundhati Sarkar in Bengaluru; Editing by Sherry Jacob-Phillips and Rashmi Aich)</p>
+    </div>
+  },
+  {
+    id: 545,
+    title: 'Oil resumes slide on demand worries after UK rate hike',
+    category: 'Commodities',
+    subCategory: ['Oil', 'UK', 'demand'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Oil prices fell for a second straight session and were headed for a weekly decline of more than 3% on Friday, as a higher-than-expected interest rate hike</p>
+    </div>,
+    authorName: 'Arathy Somasekhar and Sudarshan Varadhan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 5:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-724.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Arathy Somasekhar and Sudarshan Varadhan</p>
+    	<p>(Reuters) -Oil prices fell for a second straight session and were headed for a weekly decline of more than 3% on Friday, as a higher-than-expected interest rate hike in Britain and warnings about looming rate rises in the U.S. ignited concerns over demand.</p>	
+    	<p>Brent futures slipped 51 cents, or 0.4%, to $73.76 a barrel, while U.S. West Texas Intermediate (WTI) crude futures were down 42 cents, or 0.6%, at $69.09 at 0240 GMT.</p>	
+    	<p>"Recession fears mount again following central banks' rate hikes and a hawkish Fed," said Tina Teng, an analyst at CMC Markets, adding that a stronger dollar was also weighing on prices.</p>
+      <p>An increase in the value of the dollar, which has risen 0.3% this week, can weigh on oil demand by making the fuel more expensive for holders of other currencies.</p>
+      <p>Both crude benchmarks had dropped about $3 in the previous session after the Bank of England raised interest rates by half a percentage point, sparking fears of an economic slowdown denting fuel demand.</p>
+      <p>The market is now waiting for the release of Purchasing Managers Indexes (PMIs) from around the world on Friday for a view on manufacturing activity and demand trends.</p>
+      <p>In the U.S., crude stocks posted a surprise drawdown in the last week, helped by strong export demand and low imports, the Energy Information Administration said on Thursday. However, gasoline and distillate inventories rose. [EIA/S]</p>
+      <p>Federal Reserve Chair Jerome Powell said the central bank would move interest rates at a "careful pace" from here as policymakers edge towards ending their historic round of monetary policy tightening.</p>
+      <p>Higher interest rates increase borrowing costs for businesses and consumers, which could slow economic growth and reduce oil demand. Fears of hikes by major central banks have clouded the fuel demand outlook for the rest of the year.</p>
+      <p>"Energy traders are worried that the Fed and friends might cripple economic growth in the second half of the year," said Edward Moya, an analyst at OANDA.</p>
+      <p>(Reporting by Arathy Somasekhar and Sudarshan Varadhan; Editing by Sonali Paul and Jamie Freed)</p>
+    </div>
+  },
+  {
+    id: 544,
+    title: 'Oil, copper prices flash signs of recession',
+    category: 'Commodities',
+    subCategory: ['Oil', 'copper', 'prices'],
+    description: <div className="blog-desc">
+      <p>If you're watching for signs of a looming recession, pay attention to commodity prices.</p>
+    </div>,
+    authorName: 'Ines Ferré',
+    authorurl: 'https://www.yahoo.com/author/ines-ferre/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 21, 2023 - 11:04 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-725.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>If you're watching for signs of a looming recession, pay attention to commodity prices.</p>
+    	<p>Copper (HG=F) futures are down about 8% in the last six months despite a recent rebound. The price of the metal, used for everything from wiring to construction, is 17% lower from March 2022 levels.</p>	
+    	<p>"Copper is this profoundly important raw material for all of these electrical vehicles and how we're going to transform energy and remove carbon," Hugh Hendry, investor and former global fund manager told Yahoo Finance.</p>	
+    	<p>"The price is falling and falling. It's very weak. These are very large, very global, very liquid markets. And, and they're suggesting caution," he added.</p>
+      <p>China's lackluster recovery following its strict Covid lockdowns in 2022 has put pressure on crude, despite the world's largest exporters announcing output cuts in hopes of keeping a floor on prices.</p>
+      <p>The recent banking turmoil in March intensified a market sell-off in commodities amid fears of a recession due to a credit reduction.</p>
+      <p>Hendry says the bank failures of Silicon Valley Bank and Credit Suisse point to an ominous sign for the economy.</p>
+      <p>"You typically get bankruptcies when credit costs escalate and it reveals the folly that is yet to happen," he said.</p>
+      <p>"A recession is brewing onshore in the US. It's certainly there in Europe, it's there in in Germany," added Hendry.</p>
+      <p>Some sectors of the economy, like commercial real estate are contracting. Others, like travel and leisure, are still going strong.</p>
+      <p>Some strategists are waiting for more signs to determine when the US will enter a recession. Many Wall Street economists have dialed back expectations that one will occur this year.</p>
+      <p>"We do not believe that we will enter a recession in the US in the short run as the US housing sector is resilient due to a shortage of homes for sale. Every prior recession has been precipitated by a major decline in the housing sector," Jay Hatfield, CEO at Infrastructure Capital Management told Yahoo Finance.</p>
+      <p>Hatfield forecasts "oil is likely to rally in the second half of 2023 as US growth remains solid and the China economy recovers as the government provides monetary stimulus."</p>
+      <p>West Texas Intermediate (CL=F) and Brent (BZ-F) futures are down about 8% since the beginning of January. Both are roughly 20% lower compared to last year.</p>
+    </div>
+  },
+  {
+    id: 543,
+    title: 'Chinas gold-buying boom is slowing sharply as economic woes hit retail demand',
+    category: 'Commodities',
+    subCategory: ['economic', 'china', 'gold'],
+    description: <div className="blog-desc">
+      <p>China's gold demand is starting to ease as the country's economic sluggishness ripples into the sector, Bloomberg reported.</p>
+    </div>,
+    authorName: 'Filip De Mott',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 21, 2023 - 4:01 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-727.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Retail demand for physical gold has slowed in China, Bloomberg reports.</li>
+        <li>Sales fell from an April peak of 44% year-over-year, to 24% in May.</li>
+        <li>But gold should maintain an elevated level due to its safe haven and reserve asset reputation.</li>
+      </ul>
+    	<p>China's gold demand is starting to ease as the country's economic sluggishness ripples into the sector, Bloomberg reported.</p>
+    	<p>Where sales of gold and silver jewelry rose rapidly in early 2023, they expanded only 24% year-on-year in May, the first sign of a slowdown this year.</p>	
+    	<p>Alongside India, the nation leads as the largest consumer of physical gold bars, jewelry and coins, the outlet said. After the country lifted pandemic restrictions at the end of last year, pent-up demand led to a surge in the sales, climbing 37% and 44% in March and April.</p>
+      <p>May's cooldown runs alongside similar trends throughout China, as its economic growth has been fizzling out after a strong first-quarter performance. That month saw industrial output, retail and investment decelerate sharply from April, while unemployment among those age 16 to 24 reached record highs.</p>
+      <p>Beijing has responded to slowing economic activity with plans for direct stimulus, while the country's central bank introduced the first interest rate cuts since August, as a way to encourage spending.</p>
+      <p>Still, demand for the commodity is expected to weaken further in June. The Shanghai gold price now trades at a discount to the international rate, Bloomberg reported, citing data from the World Gold Council.</p>	
+    	<p>While earlier Chinese demand for the yellow metal helped support a record high of over $2,000 an ounce, gold still stands at around $1,935. Despite slowing retail sales, the safe-haven asset is likely to maintain an elevated level thanks to geopolitical tensions and recessionary fears.</p>
+      <p>Meanwhile, foreign central banks are also likely to support the higher price, as they have been stockpiling the reserve asset at significantly high levels over the past few quarters. This follows as countries are looking to ease their dollar dependence, having seen the effect of dollar sanctions on Russia.</p>
+      <p>China is no exception. Its central bank holds 2,092 tons of gold, having amassed 160 tons in the past seven months.</p>
+    </div>
+  },
+  {
     id: 542,
     title: 'Surge in China’s Demand for Gold Is Slowing as Economy Stumbles',
     category: 'Commodities',
