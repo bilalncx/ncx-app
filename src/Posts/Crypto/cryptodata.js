@@ -1,5 +1,125 @@
 const data = [
   {
+    id: 581,
+    title: 'Bitcoin: Why $34k is the next target for bulls',
+    category: 'Crypto',
+    subCategory: ['bitcoin', 'target', 'bulls'],
+    description: <div className="blog-desc">
+      <p>The mean coin age of Bitcoin has been rising since late May to suggest network wide accumulation.</p>
+    </div>,
+    authorName: 'Akashnath S',
+    authorurl: 'https://ambcrypto.com/author/akashnath-sumukar/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-720.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The mean coin age of Bitcoin has been rising since late May to suggest network wide accumulation.</p>
+    	<p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>
+      <ul>
+        <li>The market structure shifted firmly in bullish favor amidst rising demand.</li>
+        <li>The $30k area was an enormously important region stretching back to January 2021.</li>
+      </ul>
+     	<p>The price action of Bitcoin [BTC] from earlier this year showed that Bitcoin could climb to $34k later this year. Trading volume and market sentiment could impede progress, but the tides have already begun to shift.</p>	
+    	<p>The US Federal Reserve’s decision to pause interest rate hikes was received well in traditional markets. Furthermore, Bitcoin spot ETF applications boosted sentiment, although the SEC’s lawsuits against some of the largest players in the market gave investors some cause for concern.</p>
+      <h3>Are we in for another Bitcoin bull run?</h3>
+      <p>The 2020/2021 bull run saw BTC prices rise by more than 500%. A 13% move higher from $30k to $34k can’t be termed a bull run, but it would certainly establish the $16k area as a long-term bottom.</p>
+      <p>Before we get ahead of ourselves it must be noted that trading volume has been underwhelming since April. The $30k area is a significant psychological and technical resistance.</p>
+      <p>But, if the recent strength continues, such a move upward might be possible. The daily timeframe structure break was seen on 20 June. Bitcoin exploded higher on 21 June to break past another lower high at $28.5k.</p>
+      <p>This established a strong bullish structure, and a higher low in the coming weeks would indicate an uptrend. This higher low could happen at the bullish breaker block in the $27k-$28k area after a pullback. To the north, the 100% Fibonacci extension level (yellow) at $34.2k was the next target.</p>
+      <p>The Fibonacci extension levels from the early 2023 rally climbed just past the 61.8% extension level at $30.7k before a drop. The current rally retested the $25k region before pushing higher. To the north, $32.8k, $34.5k, and $37.8k are the important resistance levels to watch out for.</p>
+      <h3>The rise in MVRV meant selling pressure could mount soon</h3>
+      <p>The 90-day MVRV ratio climbed the April highs and bulls would be concerned that profit taking could hamper the progress that BTC has made. However, this could present a buying opportunity upon a pullback as well. The dormant circulation also posted the highs for June so far, which meant selling pressure could follow.</p>
+      <p>The mean coin age has been rising since late May to suggest network wide accumulation. Combined with the price action, the overall picture showed bullish strength.</p>
+      <p>A pullback and another move back above $30k in the next week or two would be a hopeful development for BTC bulls.</p>
+    </div>
+  },
+  {
+    id: 580,
+    title: 'Bitcoin gains to hold above US$30,000; Ether little changed with top 10 crypto mixed',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Gain', 'Ether'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose and held above US$30,000 in Friday morning trading in Asia, holding onto the strong gains made this week on the back of growing institutional interest in the world’s largest cryptocurrency by market capitalization.</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 4:36 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-718.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose and held above US$30,000 in Friday morning trading in Asia, holding onto the strong gains made this week on the back of growing institutional interest in the world’s largest cryptocurrency by market capitalization.</p>
+    	<p>Ether was little changed. Other top 10 non-stablecoin cryptocurrencies traded mixed, with Cardano’s ADA token gaining and Binance’s BNB losing ground. Overall, most tokens were holding weekly gains spurred by Bitcoin’s rally.</p>	
+    	<h3>Crypto</h3>
+      <p>Bitcoin rose 0.33% over the last 24 hours to US$30,056.27 at 6:30 a.m. in Hong Kong, up 17.52% for the past week, according to CoinMarketCap data. The world’s largest cryptocurrency broke through resistance at US$30,000 early morning on Thursday for the first time since April, reaching a high of US$30,737.33.</p>	
+    	<p>Ether was little changed, rising 0.02% to US$1,879.66 to gain 12.87% for the week.</p>
+      <p>BlackRock Inc.,the world’s largest asset manager with US$8.59 trillion under management at the end of 2022, filed an application on June 15 for a Bitcoin exchange-traded fund (ETF). Two more U.S.-based asset managers — WisdomTree and Invesco — also filed Bitcoin ETF applications this week.</p>
+      <p>“Major cryptocurrencies were seeing strong performances this week — Traders reacted positively to the possibility of seeing a Bitcoin ETF come to market,” Denys Peleshok, head of Asia at Belize-based financial brokerage CPT Markets, in email comments.</p>
+      <p>“A successful launch of a bitcoin ETF could open the way for more inflows from individuals and professional investors alike,” Peleshok added. “The investment vehicle could lower the barrier of entry into the market and attract significant volumes of investment into bitcoin in particular.”</p>
+      <p>Boston-based Fidelity Investments, another major financial services company that managed US$4.2 trillion as of the first quarter of 2023, is also said to be preparing to file a Bitcoin ETF application.</p>
+      <p>In another encouraging move for institutional adoption of crypto, EDX Markets opened for business on Tuesday as a New Jersey-based digital asset exchange backed by Wall Street firms such as Citadel Securities, Fidelity Investments and Charles Schwab Corp. EDX said U.S. regulatory compliance is a core feature of its operations.</p>
+      <p>These moves by traditional finance follow the crackdown on the U.S. crypto sector this month by the Securities and Exchange Commission (SEC), which filed lawsuits against the Binance.US and Coinbase exchanges. The SEC alleges they illegally traded cryptocurrencies that should have been registered as financial securities, among other charges.</p>
+      <p>“[Bitcoin could] continue benefiting from its status as a quasi-commodity when most other digital assets are considered securities by regulators. As a result, Bitcoin could emerge as a winner from the SEC’s legal efforts,” said Peleshok of CPT Markets.</p>
+      <p>U.S. Federal Reserve Chairman Jerome Powell commented on Bitcoin during a monetary policy hearing on Capitol Hill this week, describing the token as having “staying power” as an asset class.</p>
+      <p>Meanwhile, Mastercard Inc., the world’s second largest payment processor, announced Thursday that it will expand its Engage network to embrace more blockchain and digital asset partners. Mastercard Engage connects businesses with qualified technology partners.</p>
+      <p>Other top 10 non-stablecoin cryptocurrencies were mixed, although making weekly gains spearheaded by Bitcoin. Binance’s BNB token lost 2.53% to US$242.49 while gaining 2.36% in the past seven days.</p>
+      <p>Cardano’s ADA rose 2.21% to US$0.2922, adding 10.90% in the last week.</p>
+      <p>The total cryptocurrency market capitalization rose 0.14% to US$1.17 trillion in the last 24 hours, while trading volume fell 25.24% to US$45.06 billion, according to CoinMarketCap data.</p>
+      <h3>NFT looking up</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index rose 0.78% to 2,930.17 in the 24 hours to 8:30 a.m. in Hong Kong. The index gained 1.3% for the week.</p>
+      <p>Total NFT transactions rose 0.64% to US$23.9 million, while transactions on Ethereum dipped 3.70% to US$15.56 million. Bitcoin was the second largest blockchain by NFT transactions, rising 8.56% to US$2.74 million.</p>
+      <p>Yuga Labs’ Bored and Mutant Ape Yacht Club NFTs were the top selling collections in the last 24 hours. Bored Ape trades rose 1.12% to US$3.07 million, while Mutant Ape surged 23.92% to US$1.05 million.</p>
+      <p>“NFT traders are optimistic about the future, and clearly willing to spend as we see from multiple $145k Bored Ape Yacht Club sales, along with a $286k sale, but still the index is just above its all-time low point,” said Yehudah Petscher, NFT strategist at Forkast Labs, the parent company of Forkast.News.</p>
+      <p>That indicates investors remain hesitant as a whole, apart from some whales, said Petscher, adding that may be because of a lack of a track record for some projects holding value over time.</p>
+      <p>The Gods Unchained Cards NFT collection from ImmutableX was the third most traded collection, even as transactions fell 8.75% to US$754,805. Immutable announced Wednesday that its NFT trading card game Gods Unchained is now listed on game distribution platform Epic Games Store, which has over 230 million customers.</p>
+      <p>“Lots of eyes on Azuki tomorrow as they have a big event in Las Vegas,” Petscher said. Azuki, the Japanese anime-inspired NFT collection of 10,000 generative avatars, became one of the most popular collections since its debut in January 2022 and still holds an active community.</p>
+      <p>Azuki is the eighth most traded collection according to Cryptoslam data, with US$537,366 worth of transactions over the past day. “We’re watching to see what big announcements they may have – a new token, or possibly a game? Azuki has a track record of delivering on hype,” Petscher said.</p>
+      <p>Elsewhere, Swiss-based multinational food manufacturer Nestlé S.A. and U.S.-based snack brand Slim Jim both announced the launch of NFT collections, signaling continued mainstream interest in the blockchain-powered technology.</p>
+      <h3>Equity futures edge down</h3>
+      <p>U.S. stock futures traded lower as of 9:30 a.m. in Hong Kong, following a mixed regular trading session on Thursday.</p>
+      <p>Dow Jones Industrial Average futures slipped 0.06%, S&P 500 futures lost 0.11%, while Nasdaq futures inched down 0.084%.</p>
+      <p>Tech stocks gained in the Thursday session performed well with Apple Inc. setting a new record high of US$187, while Amazon.com Inc. and Tesla Inc. also rising.</p>
+      <p>On the U.S. battlefront against inflation, Federal Reserve Chairman Jerome Powell told the U.S. Congress on Tuesday and Thursday this week that the central bank is in consensus that more interest rate increases are likely this year to control high price pressure. The U.S. inflation rate is currently at around 4.05%, down from last month’s 4.93% but still far from Fed’s target of 2%.</p>
+      <p>U.S. interest rates are now between 5% and 5.25%, the highest since 2006. The Fed paused rate hikes at the last meeting on June 14, but indicated two more hikes this year to bring rates to around 5.6%.</p>
+      <p>The Federal Reserve’s next meeting on interest rates is July 26 and the majority view is they will raise. The CME FedWatch Tool predicts a 76.9% chance for another 25-basis-point rate hike, up from 71.9% on Thursday, and a 23.1% chance the Fed will leave rates unchanged.</p>
+    </div>
+  },
+  {
+    id: 579,
+    title: 'Pepecoin Becomes Biggest Meme Coin Gainer With 70% Weekly Jump',
+    category: 'Crypto',
+    subCategory: ['Pepecoin', 'Meme coin', 'Gainer'],
+    description: <div className="blog-desc">
+      <p>Pepecoin (PEPE) has seen a huge gain this week amid a broader crypto rally, outperforming other meme coins like SHIB, FLOKI and DOGE.</p>
+    </div>,
+    authorName: 'Shaurya Malwa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'june 22, 2023 - 8:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-719.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>Takeaways:</strong></p>
+      <ul>
+        <li>Pepecoin (PEPE) has seen a huge gain this week amid a broader crypto rally, outperforming other meme coins like SHIB, FLOKI and DOGE.</li>
+        <li>Futures products tied to PEPE saw unusually large liquidations, suggesting short covering – or traders exiting bearish bets on the meme coin's price – might be exaggerating the size of the gain.</li>
+      </ul>
+    	<p>Pepecoin (PEPE) surged as much as 40% in the past 24 hours to extend weekly gains to over 70% amid a market-wide rally led by bitcoin (BTC).</p>	
+    	<p>Trading volumes for the frog-themed tokens jumped to over $800 million, CoinGecko data shows, as a risk-on environment likely fueled outsized bets on riskier assets, such as altcoins and meme coins.</p>	
+    	<p>PEPE gains were significantly higher than meme tokens shiba inu (SHIB), floki (FLOKI) and dogecoin (DOGE) – even as developers of some of these tokens introduced ecosystem upgrades – suggesting high buying interest for pepecoin.</p>
+      <p>Futures contracts tracking PEPE had more than $13 million of liquidations. Potentially, this may have contributed to the price spike as short positions – or bets that the price of PEPE would fall – were settled. Only bitcoin (BTC) and ether (ETH) futures liquidations have been greater.</p>
+      <p>Liquidation refers to when an exchange forcefully closes a trader’s leveraged position due to a partial or total loss of the trader’s initial margin. It happens when a trader is unable to meet the margin requirements for a leveraged position (fails to have sufficient funds to keep the trade open).</p>
+      <p>Large liquidations can signal a top or bottom of a steep price move, which may allow traders to position themselves accordingly.</p>
+      <p>As such, funding rates in perpetual futures tied to PEPE futures remain negative, indicating the dominance of bearish positions in the derivatives market. A negative funding rate indicates that shorts are dominant and are willing to pay longs to keep their bearish bets open.</p>
+      <p>Bitcoin crossed the $30,000 mark on Wednesday amid a flurry of Bitcoin ETF filings by traditional finance players in the U.S., which likely spurred bullish sentiment among traders and led to a market-wide rally.</p>
+    </div>
+  },
+  {
     id: 578,
     title: 'Bitcoin gains ground, Ether rises, Solana leads winners, BNB little-changed to lower',
     category: 'Crypto',

@@ -1,5 +1,125 @@
 const data = [
   {
+    id: 550,
+    title: 'Indian rupee drops, but clings to 82/$ on portfolio inflows',
+    category: 'Forex',
+    subCategory: ['indian', 'rupee', 'portfolio'],
+    description: <div className="blog-desc">
+      <p>MUMBAI (Reuters) - The Indian rupee declined on Friday, but performed better than the other Asian currencies, thanks to persistent foreign inflows into domestic equities, traders said.</p>
+    </div>,
+    authorName: 'Nimesh Vora',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 6:52 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-735.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Nimesh Vora</p>
+    	<p>MUMBAI (Reuters) - The Indian rupee declined on Friday, but performed better than the other Asian currencies, thanks to persistent foreign inflows into domestic equities, traders said.</p>	
+    	<p>The rupee was at 82.0250 to the U.S. dollar by 11:28 a.m. IST, down from 81.95 in the previous session. The losses in the domestic unit paled in comparison to its Asian peers.</p>	
+    	<p>The Korean won was down 0.7%, the offshore Chinese declined to a new year-to-date low and the Indonesian rupiah and the Malaysian ringgit were both down 0.4%.</p>
+      <p>"Similar to how it has played out most of this week, rupee is an outperformer in the Asia space," a forex sales person at a private bank said.</p>
+      <p>"Equity flows and lack of speculative interest in the face of low volatility, I assume, are the main reasons for this."</p>
+      <p>Foreign investors have poured $2.5 billion into Indian equities in the last seven sessions, according to data from NSDL. Due to this, the BSE Sensex reached a record high this week.</p>
+      <p>Worries over China's faltering post-pandemic recovery and hawkish central banks weighed on Asia equities and currencies.</p>
+      <p>The Bank of England on Thursday raised rates by a bigger-than-expected half a percentage point to rein in inflation that is the highest among major economies.</p>
+      <p>Norway's central bank, too, raised its key policy rate by 50 basis points, a larger-than-expected increase. Meanwhile, U.S. Federal Reserve Chair Jerome Powell reiterated that more rate hikes were needed to tame sticky inflation.</p>
+      <p>The dollar index climbed to 102.66, helped by the weak risk appetite.</p>
+      <p>Bigger-than-expected tightening across European central banks is affecting global growth outlook and this could trigger a safe-haven move back into the dollar, Ed Moya, senior market analyst at broker OANDA said.</p>
+      <p>(Reporting by Nimesh Vora; Editing by Sonia Cheema)</p>
+    </div>
+  },
+  {
+    id: 549,
+    title: 'Bank of England interest rate hike sparks pound and gilts volatility',
+    category: 'Forex',
+    subCategory: ['Bank', 'England', 'pound'],
+    description: <div className="blog-desc">
+      <p>The pound suffered trading volatility on Thursday as investors weighed up news that the Bank of England (BoE) had hiked interest rates by 0.5%, and what this could mean for the British economy.</p>
+    </div>,
+    authorName: 'LaToya Harding',
+    authorurl: 'https://www.yahoo.com/author/latoya-harding/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 22, 2023 - 7:18 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-734.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The pound suffered trading volatility on Thursday as investors weighed up news that the Bank of England (BoE) had hiked interest rates by 0.5%, and what this could mean for the British economy.</p>
+    	<p>After the noon announcement it made a knee-jerk spike of 0.4% against the dollar (GBPUSD=X), to more than $1.28, as higher interest rates mean the pound is worth more abroad. However, the currency pared back its gains amid recession fears.</p>	
+    	<p>“Rather than sending sterling soaring, today’s bigger than expected jump in interest rates has left the pound like a rabbit in the headlights,” Simon Phillips, managing director at travel money firm No1 Currency, said.</p>	
+    	<p>“Sterling has been fluctuating wildly as global investors decide whether buying pounds is still a good bet with so much uncertainty surrounding the UK’s economic prospects.</p>
+      <p>“Nevertheless the pound is still hovering close to a 14-month high against the US dollar, and this week it hit its highest level against the euro since last August.”</p>
+      <p>He added: “But exchange rates can fluctuate a lot at times like these. So if you are planning a trip abroad in the coming weeks or months, it could make sense to pick up some foreign currency now rather than leave it all to the last minute.”</p>
+      <p>Meanwhile, Fiona Cincotta, senior financial markets analyst at City Index, warned that looking ahead to the end of the year the pound would be weaker</p>
+      <p>“The outlook for sterling is weaker across the year. As the likelihood of a recession rises, the pound is likely to come under pressure,” she said.</p>
+      <p>Sterling was also flat against the euro (GBPEUR=X), which is worth 86p.</p>
+      <p>The volatility came as members of the Monetary Policy Committee (MPC) voted 7-2 to increase the bank rate to 5%, its highest level in 15 years, in a bid to combat rising inflation and the ongoing cost-of-living crisis.</p>
+      <p>Financial markets are now betting on at least another four 25bps hikes still to come, making for a terminal rate of 6% by the end of the year.</p>
+      <p>"We’ve raised rates to 5% following recent data which showed that further action was needed to get inflation back down," Andrew Bailey said on Thursday.</p>
+      <p>"The economy is doing better than expected, but inflation is still too high and we’ve got to deal with it.</p>
+      <p>"We know this is hard – many people with mortgages or loans will be understandably worried about what this means for them. But if we don’t raise rates now, it could be worse later.”</p>
+      <p>Shorter-maturity UK gilt yields also rose on the back of the news, while rates on longer bonds such as 10-year gilts fell due to bets that the tightening cycle would slow the economy.</p>
+      <p>The yield on two-year UK bonds, which is the rate the government promises to pay holders of its debt, increased two basis points to 5.05%, while the coupon on 10-year gilts dipped almost five basis points to 4.35%.</p>
+      <p>“Although the Bank warned of further tightening ahead, it shied away from using language that would signal a repeat of today’s bold move and confirmed data dependency,” Andy Burgess, fixed income investment specialist at Insight Investment, said.</p>
+      <p>“The markets’ initial reaction was that more now means less later, with UK gilt yields rallying on the announcement.”</p>
+      <p>Muhammed Demir, head of capital markets at Swiss Finance Corporation, added: “The Bank of England needs to face up to the fact that the UK is drifting aimlessly into emerging market territory.</p>
+      <p>“If there are no structural improvements to the UK economy, we will continue to see rates rising, inflation sticky and anaemic economic growth. This will inevitably lead to a weaker pound in the long run.”</p>
+    </div>
+  },
+  {
+    id: 548,
+    title: 'USD/JPY Forecast – US Dollar Continues to Probe Higher Against the Japanese Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar rallied a bit during the trading session on Wednesday as we continue to see upward pressure. All things being equal, the market is trying to get to the ¥142.50 level, </p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 21, 2023 - 5:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-733.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar rallied a bit during the trading session on Wednesday as we continue to see upward pressure. All things being equal, the market is trying to get to the ¥142.50 level, an area that was a previous swing high.</p>
+	    <p>Because of this, the market looks as if it is trying to build up enough momentum to make a bigger move, perhaps finally breaking through a lot of resistance and going much higher. When you look at the overall market picture, the bullish flag that was recently broken measures for a potential move to the ¥148 level, perhaps even higher than that.</p>	
+	    <p>Furthermore, we also had an ascending triangle previously that measured for something similar.</p>	
+	    <p>Looking at this chart, we also had that ascending triangle shows a lot of resistance at the ¥138 level, which due to “market memory,” could offer a lot of support as it was so resistive previously.</p>
+      <p>With that being the case, I think it also is interesting that it lines up as the bottom of the bullish flag, so it does suggest that we have a lot of support in that area just waiting to come into the market if necessary.</p>
+      <p>Because of this, if we were to break down below that level, then I think it opens up a massive amount of selling. This would also make sense because the 50-Day EMA is hanging around as well.</p>
+      <p>In general, this is a market that I think still looks higher, and therefore I am a buyer of dips. I do believe that longer term you will be rewarded with a bigger move, and of course you get paid a positive swap, depending on your broker, for holding onto it.</p>
+      <p>The Bank of Japan has recently reiterated its desire to stay loose for longer, therefore I think this all lines up in a one way trade. After all, even at the Federal Reserve doesn’t raise interest rates next meeting, the interest rate differential is still wide enough to drive a truck through, and I think that is going to be the biggest driver of this market going forward.</p>
+    </div>
+  },
+  {
+    id: 547,
+    title: 'GBP/USD Forecast – British Pound Pulls Back After Initial Rally on Wednesday',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has initially tried to rally during the trading session on Wednesday but then gave back gain rather significantly.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 21, 2023 - 5:33 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-732.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has initially tried to rally during the trading session on Wednesday but then gave back gain rather significantly. At this point, the British pound may try to reach down toward the 1.2650 level, an area that has been important previously. This is previous resistance, and the fact that we have broken above there suggests that we should see a certain amount of support if we pull back to that level.</p>
+    	<p>It’s also worth noting that the 50-Day EMA is racing toward the same area, so it does make a certain sense that we would see that perhaps offer a bit of support also. All things being equal, I think we are looking for support underneath, and the fact that the Bank of England has an interest rate decision on Thursday also has a lot to do with what we are seeing. If they sound very hawkish, that could be the catalyst to send this market higher. While the Federal Reserve remains tight, the Bank of England seems to be believed to be even more hawkish.</p>	
+    	<p>All things being equal, this is a market that is going to be difficult to start shorting anytime soon, so I think you have to look at this pullback as either buying opportunity or just something you get away from.</p>	
+    	<p>The British pound has been one of the better performers against the greenback all year, and I don’t necessarily think that’s going to change anytime soon, but if we get a huge run toward the US dollar, then we might see quite a bit of damage to this pair.</p>
+      <p>That being said, you are probably better off shorting other currencies against the greenback, just due to the fact that the British pound has been so strong for so long. All things being equal, this is a pair that I think is simply looking for support at a lower level, and that might happen once we get through the Bank of England announcement and statement. Expect volatility, but don’t get too aggressive until we get through that issue.</p>
+    </div>
+  },
+  {
     id: 546,
     title: 'Yen Pressure Mounts With Trade-Weighted Gauge at Two-Decade Low',
     category: 'Forex',

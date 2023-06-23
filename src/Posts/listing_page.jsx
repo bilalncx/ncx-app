@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                                <a href="/post-markets/551" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-702.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 7:36 AM</p>
-                                    <h1>Treasury Yields Rise as Global Bond Slide Extends Before Powell</h1>
-                                    <p>(Bloomberg) -- Treasuries dropped in Asia as they reopened following a US long weekend, extending a global slide that began in the UK where investors grew concerned stubborn inflation will lead to more aggressive monetary tightening.</p>
+                                <a href="/post-indices/540" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-729.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 23, 2023 - 12:45 AM</p>
+                                    <h1>Dow Jones Today: Index Flat as Investors Mull Global Rate Decisions</h1>
+                                    <p>Tech stocks soar, sending other indexes higher, but the Dow ends the day unchanged as officials digest rate hikes</p>
                                 </a>
-                                <a href="/post-crypto/578" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-694.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 5:02 AM</p>
-                                    <h1>Bitcoin gains ground, Ether rises, Solana leads winners, BNB little-changed to lower</h1>
-                                    <p>Bitcoin rose in Tuesday morning trading in Asia to hold above support at US$26,000. Ether also logged gains along with most other top 10 non-stablecoin cryptocurrencies.</p>
+                                <a href="/post-crypto/581" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-720.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 23, 2023</p>
+                                    <h1>Bitcoin: Why $34k is the next target for bulls</h1>
+                                    <p>The mean coin age of Bitcoin has been rising since late May to suggest network wide accumulation.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row">
-                            <a href="/post-crypto/577" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-699.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 12:06 AM</p>
-                                    <h1>Grayscale Bitcoin Trust Gets a Bullish Bump After BlackRock ETF Filing</h1>
-                                    <p>Last week, $9.5 trillion asset manager BlackRock made a seismic move by applying to the U.S. Securities and Exchange Commission (SEC) for a Bitcoin exchange-traded fund (ETF).</p>
+                            <a href="/post-crypto/580" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-718.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 23, 2023 - 4:36 AM</p>
+                                    <h1>Bitcoin gains to hold above US$30,000; Ether little changed with top 10 crypto mixed</h1>
+                                    <p>Bitcoin rose and held above US$30,000 in Friday morning trading in Asia, holding onto the strong gains made this week on the back of growing institutional interest in the</p>
                                 </a>
-                            <a href="/post-crypto/576" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-695.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 19, 2023 - 10:46 PM</p>
-                                    <h1>Curve Looks To Expand crvUSD Collateral Assets</h1>
-                                    <p>Curve, a popular stablecoin-focused decentralized exchange (DEX), is seeking to expand the set of collateral assets supported by its crvUSD stablecoin beyond Ethereum liquid staking tokens,</p>
+                            <a href="/post-crypto/579" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-719.jpg" alt="art_pic"/></div>
+                                    <p className="dat">   June 22, 2023 - 8:25 PM</p>
+                                    <h1>Pepecoin Becomes Biggest Meme Coin Gainer With 70% Weekly Jump</h1>
+                                    <p>Pepecoin (PEPE) has seen a huge gain this week amid a broader crypto rally, outperforming other meme coins like SHIB, FLOKI and DOGE.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/550" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-700.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 11:21 AM</p>
-                                    <h1>Stocks Lower as Investors Face Gut Check on Rally: Markets Wrap</h1>
-                                    <p>(Bloomberg) -- Stocks declined Tuesday as the second-quarter rally met resistance from economic headwinds and signs that positioning is overbought.</p>
+                            <a href="/post-markets/554" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-723.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 23, 2023 - 12:02 AM</p>
+                                    <h1>Tesla Stock Downgraded For Second Time In Two Days. Is Teslas 140% Run Ending?</h1>
+                                    <p>Tesla stock was downgraded by Morgan Stanley Thursday. This comes after Barclays did the same Wednesday morning, giving TSLA an equal weight rating.</p>
                                 </a>
-                            <a href="/post-markets/549" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-701.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 12:33 AM</p>
-                                    <h1>Bitcoin Reclaims Over 50% Market Dominance Following BlackRock ETF Filing</h1>
-                                    <p>Bitcoin’s market capitalization is once again larger than that of all other cryptocurrencies combined, according to data from TradingView.</p>
+                            <a href="/post-markets/553" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-722.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 22, 2023 - 2:14 PM</p>
+                                    <h1>Wall Street ends higher as Powell wraps up testimony</h1>
+                                    <p>(Reuters) - The S&P 500 and the Nasdaq closed higher on Thursday as U.S. Federal Reserve Chairman Jerome Powell continued to beat a hawkish drum and suggested the central bank</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
-                            <a href="/post-crypto/575" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-696.jpg" alt="art_pic"/></div>
-                                <p className="dat">  June 19, 2023 - 7:34 PM</p>
-                                <h1>Ethereum Scanner Etherscan Adds OpenAI-Based Tool to Analyze Smart Contract Source Code</h1>
-                                <p>Etherscan, one of the most commonly used Ethereum blockchain scanning websites, introduced a tool that uses artificial intelligence (AI) to help users interpret the source code of smart contracts,</p>
+                            <a href="/post-markets/552" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-721.jpg" alt="art_pic"/></div>
+                                <p className="dat">  June 22, 2023 - 11:40 AM</p>
+                                <h1>Stock market today: Asian shares sink as central banks crank interest rates still higher</h1>
+                                <p>BANGKOK (AP) — Asian shares sank sharply Friday after several central banks around the world cranked interest rates higher in their fight against inflation.</p>
                             </a>
-                            <a href="/post-markets/548" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-703.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 19, 2023 - 1:15 PM</p>
-                                <h1>Hong Kong stock exchange debuts yuan-denominated shares as China speeds up push to internationalize its currency and replace the U.S. dollar</h1>
-                                <p>International investors in Hong Kong are now able to buy shares denominated in the Chinese renminbi, as part of a new scheme launched by the city’s stock exchange on Monday.</p>
+                            <a href="/post-forex/547" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-732.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 21, 2023 - 5:33 PM</p>
+                                <h1>GBP/USD Forecast – British Pound Pulls Back After Initial Rally on Wednesday</h1>
+                                <p>The British pound has initially tried to rally during the trading session on Wednesday but then gave back gain rather significantly. </p>
                             </a>
-                            <a href="/post-commodities/539" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-712.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 19, 2023 - 8:03 AM</p>
-                                <h1>EU countries fail to agree energy reforms after coal subsidy clash</h1>
-                                <p>LUXEMBOURG (Reuters) -European Union countries failed on Monday to agree on planned new rules for the bloc's power market, having clashed over a proposal to extend subsidies for coal plants under the reform,</p>
+                            <a href="/post-commodities/543" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-727.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 21, 2023 - 4:01 AM</p>
+                                <h1>Chinas gold-buying boom is slowing sharply as economic woes hit retail demand</h1>
+                                <p>China's gold demand is starting to ease as the country's economic sluggishness ripples into the sector, Bloomberg reported.</p>
                             </a>
-                            <a href="/post-indices/533" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-707.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 19, 2023 - 6:09 AM</p>
-                                <h1>Hong Kong’s $1.9 Trillion Stocks Await Boost From Yuan Trading</h1>
-                                <p>(Bloomberg) -- Hong Kong is betting that a new program allowing investors to trade equities in the yuan on top of its local currency will help revive its flagging stock market and boost turnover that’s hovering at a four-year low.</p>
+                            <a href="/post-indices/536" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-704.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 20, 2023 - 8:46 AM</p>
+                                <h1>Dow Jones Futures Fall: Market Strong, But Heres What To Do; AMD, Boeing Lead Stocks To Watch</h1>
+                                <p>The market rally has shown bullish action, but be prepared for a pullback in the near term. AMD and Boeing are among stocks to watch.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
@@ -107,23 +107,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Forex</h1>
                             <div className="art_grf row">
-                            <a href="/post-forex/546" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-711.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 8:10 AM</p>
-                                    <h1>Yen Pressure Mounts With Trade-Weighted Gauge at Two-Decade Low</h1>
-                                    <p>(Bloomberg) -- Weakness in the yen is broadening with a trade-weighted gauge of the currency falling to the lowest in more than two decades as officials in Tokyo issue more warnings about sharp moves.</p>
+                            <a href="/post-forex/550" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-735.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 23, 2023 - 6:52 AM</p>
+                                    <h1>Indian rupee drops, but clings to 82/$ on portfolio inflows</h1>
+                                    <p>MUMBAI (Reuters) - The Indian rupee declined on Friday, but performed better than the other Asian currencies, thanks to persistent foreign inflows into domestic equities, traders said.</p>
                                 </a>
-                            <a href="/post-forex/545" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-710.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 19, 2023 - 5:45 PM</p>
-                                    <h1>EU Legislation for Digital Euro Is Put on Hold: Source</h1>
-                                    <p>European Union legislation needed to underpin a digital euro, originally due to be published June 28, has been put on hold, CoinDesk has been told.</p>
+                            <a href="/post-forex/549" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-734.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 22, 2023 - 7:18 PM</p>
+                                    <h1>Bank of England interest rate hike sparks pound and gilts volatility</h1>
+                                    <p>The pound suffered trading volatility on Thursday as investors weighed up news that the Bank of England (BoE) had hiked interest rates by 0.5%, and what this could mean for the British economy.</p>
                                 </a>
-                            <a href="/post-forex/544" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-709.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 19, 2023 - 5:16 PM</p>
-                                    <h1>USD/JPY Forecast – US Dollar Continues to Show Strength Against Japanese Yen</h1>
-                                    <p>The US dollar has tried to rally a bit during the trading session on Monday, but it’s worth noting that it was Juneteenth in the United States, so a certain amount of liquidity would be missing.</p>
+                            <a href="/post-forex/548" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-733.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 21, 2023 - 5:41 PM</p>
+                                    <h1>USD/JPY Forecast – US Dollar Continues to Probe Higher Against the Japanese Yen</h1>
+                                    <p>The US dollar rallied a bit during the trading session on Wednesday as we continue to see upward pressure. All things being equal, the market is trying to get to the</p>
                                 </a>
                             </div>
                             <Button href="/post-forex" className="red__mor">View All</Button>
@@ -134,23 +134,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Commodities</h1>
                             <div className="art_grf row">
-                            <a href="/post-commodities/542" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-717.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 6:26 AM</p>
-                                    <h1>Surge in China’s Demand for Gold Is Slowing as Economy Stumbles</h1>
-                                    <p>(Bloomberg) -- The jitters affecting the world’s second-biggest economy are starting to feed through into China’s gold market.</p>
+                            <a href="/post-commodities/546" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-726.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 23, 2023 - 7:18 AM</p>
+                                    <h1>Gold set for weekly drop as traders assess US rate outlook</h1>
+                                    <p>(Reuters) - Gold prices hovered near a three-month low on Friday and were set for their biggest weekly drop since February, as the dollar strengthened after U.S. Federal Reserve Chief Jerome Powell hinted more interest rate</p>
                                 </a>
-                                <a href="/post-commodities/541" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-716.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 20, 2023 - 5:13 AM</p>
-                                    <h1>Oil rises as Chinese economic indicators offer mixed picture</h1>
-                                    <p>LONDON (Reuters) -Oil prices rose on Tuesday after China cut benchmark lending rates in a potential boost to growth but oil demand was seen rising less than expected this year, in a mixed picture for consumption</p>
+                                <a href="/post-commodities/545" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-724.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 23, 2023 - 5:04 AM</p>
+                                    <h1>Oil resumes slide on demand worries after UK rate hike</h1>
+                                    <p>(Reuters) -Oil prices fell for a second straight session and were headed for a weekly decline of more than 3% on Friday, as a higher-than-expected interest rate hike in Britain and warnings about looming rate rises in the U.S.</p>
                                 </a>
-                            <a href="/post-commodities/540" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-715.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 19, 2023 - 4:23 PM</p>
-                                    <h1>Insider Q&A: Lithium batteries have a 4-hour limit. Mateo Jaramillo hopes to solve that</h1>
-                                    <p>Wind and solar power are sometimes dinged for not producing electricity 24 hours a day, but one of the most abundant minerals on the planet, iron, could be key to changing that.</p>
+                            <a href="/post-commodities/544" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-725.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 21, 2023 - 11:04 PM</p>
+                                    <h1>Oil, copper prices flash signs of recession</h1>
+                                    <p>Copper (HG=F) futures are down about 8% in the last six months despite a recent rebound. The price of the metal, used for everything from wiring to construction, is 17% lower from March 2022 levels.</p>
                                 </a>
                             </div>
                             <Button href="/post-commodities" className="red__mor">View All</Button>
@@ -161,23 +161,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Indices</h1>
                             <div className="art_grf row">
-                            <a href="/post-indices/536" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-704.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 20, 2023 - 8:46 AM</p>
-                                    <h1>Dow Jones Futures Fall: Market Strong, But Heres What To Do; AMD, Boeing Lead Stocks To Watch</h1>
-                                    <p>The market rally has shown bullish action, but be prepared for a pullback in the near term. AMD and Boeing are among stocks to watch.</p>
+                            <a href="/post-indices/539" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-730.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 23, 2023 - 12:04 AM</p>
+                                    <h1>S&P 500, Nasdaq Snap 3-Day Losing Streak</h1>
+                                    <p>The S&P 500 and Nasdaq snapped three-day losing streaks on Thursday as investors parsed through further commentary from Federal Reserve Chairman Jerome Powell.</p>
                                 </a>
-                            <a href="/post-indices/535" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-706.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 19, 2023 - 7:54 PM</p>
-                                    <h1>LIVE: FTSE 100 closes lower as pound hits 10-month high ahead of BoE rate decision</h1>
-                                    <p>European stocks and the FTSE 100 finished lower on Monday afternoon as the pound hit a 10-month high versus the euro (GBPEUR=X) with investors anticipating the performance of the currency ahead of UK inflation </p>
+                            <a href="/post-indices/538" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-728.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 22, 2023 - 7:53 PM</p>
+                                    <h1>Wall Street mixed as FTSE 100 closes lower on Fed and BoE hawkish tone</h1>
+                                    <p>The FTSE 100 and European stocks plunged this Thursday following of the Bank of England’s decision to hike interest rates to 5% amid persistent inflation.</p>
                                 </a>
-                            <a href="/post-indices/534" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-705.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 19, 2023 - 3:00 PM</p>
-                                    <h1>Is USAA NASDAQ-100 Index Fund (USNQX) a Strong Mutual Fund Pick Right Now?</h1>
-                                    <p>Any investors who are searching for Mutual Fund Equity Report funds should take a look at USAA NASDAQ-100 Index Fund (USNQX). While this fund is not tracked by the Zacks Mutual Fund Rank,</p>
+                            <a href="/post-indices/537" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-731.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 21, 2023 - 8:20 PM</p>
+                                    <h1>Dow Jones Reverses As Feds Powell Hints 5.25% Rate Soon; Tesla, Amazon Move On Analyst Ratings</h1>
+                                    <p>The Dow Jones Industrial Average pared back early losses and traded flat at noon Wednesday. Fed Chair Jerome Powell affirmed that interest rates will continue to increase in his testimony in Congress.</p>
                                 </a>  
                             </div> 
                             <Button href="/post-indices" className="red__mor">View All</Button>

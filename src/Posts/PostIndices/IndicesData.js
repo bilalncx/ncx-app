@@ -1,5 +1,178 @@
 const data = [
   {
+    id: 540,
+    title: 'Dow Jones Today: Index Flat as Investors Mull Global Rate Decisions',
+    category: 'Indices',
+    subCategory: ['dow jones', 'index', 'investors'],
+    description: <div className="blog-desc">
+      <p>Tech stocks soar, sending other indexes higher, but the Dow ends the day unchanged as officials digest rate hikes</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 12:45 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-729.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <p>Tech stocks soar, sending other indexes higher, but the Dow ends the day unchanged as officials digest rate hikes</p>
+    	<p>The Dow Jones Industrial Average closed down 0.01%, or 4 points, spending most of the day in the red as investors digested the latest moves by central banks around the world.Boeing (BA) led the Dow lower while drug maker Merck (MRK) gained.</p>
+    	<p>Tech stocks popped, helping lead the Nasdaq 0.8% higher, while the S&P 500 rose 0.25%.</p>	
+      <h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>The Dow Jones ended the day essentially unchanged, falling 0.01% while tech stocks led other indexes higher.</li>
+        <li>Merck, Amgen, and Johnson & Johnson shares moved higher after an industry group sued to block new Medicare pricing laws.</li>
+        <li>Boeing dropped after a worker's strike forced a key supplier to temporarily shutter a factory.</li>
+      </ul>
+    	<p>Central bank action was the focus for investors today. Federal Reserve Chair Jerome Powell told Senators the Fed would likely resume hiking interest rate later this year, after pausing at its June meeting. The Bank of England surprised analysts with a higher-than-expected 50 basis point hike. And Federal Reserve Board Governor Michelle Bowman echoed Powell, saying interest rates would need to go higher to fight inflation.</p>	
+    	<p>Boeing shares fell 3% after workers at Spirit AeroSystems, a key supplier, voted to strike, shutting down its Kansas factory.</p>
+      <p>Goldman Sachs (GS) dropped 1.8% after one of its investment bankers was convicted of insider trading after a week-long trial.</p>
+      <p>Merck was the Dow's best-performing stock, climbing 2.3% after a leading pharmaceutical lobby filed suit against the Biden Administration over new Medicare drug rules. The suit is similar to one filed by Merck earlier this month that seeks to block Medicare from negotiating drug prices. Amgen (AMGN) and Johnson & Johnson (JNJ) also rose more than 1%.</p>
+      <p>Microsoft (MSFT) and Salesforce (CRM) both gained 1.8%, while Apple (AAPL) rose 1.6% as investors snapped up Big Tech stocks.</p>
+      <p>Shares of Walgreens Boots Alliance (WBA) rose 1.3% after analysts at Deutsche Bank said the company’s risk/reward profile would skew to the upside, especially following next week’s earning report.</p>
+    </div>
+  },
+  {
+    id: 539,
+    title: 'S&P 500, Nasdaq Snap 3-Day Losing Streak',
+    category: 'Indices',
+    subCategory: ['S&P', '500', 'Nasdaq'],
+    description: <div className="blog-desc">
+      <p>The S&P 500 and Nasdaq snapped three-day losing streaks on Thursday as investors parsed through further commentary from Federal Reserve Chairman Jerome Powell.</p>
+    </div>,
+    authorName: 'Emily Dattilo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 12:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-730.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The S&P 500 and Nasdaq snapped three-day losing streaks on Thursday as investors parsed through further commentary from Federal Reserve Chairman Jerome Powell.</p>
+    	<p>The Dow Jones Industrial Average lost 5 points, or less than 0.1%, while the S&P 500 gained 0.4%, and the tech-heavy Nasdaq Composite rose 1%.</p>	
+    	<p>“The point of our meeting, last meeting, was really to moderate the pace of our decision making,” Powell told the Senate Banking Committee on Thursday. Now, “the data will tell us what to do.”</p>	
+    	<p>Earlier in the day, the U.S. Department of Labor said weekly jobless claims stayed flat from a week ago.</p>
+      <p>“While the labor market remains strong following the better than expected May employment report, we’ve seen initial claims tick up in June,” wrote Sam Millette, fixed income strategist for Commonwealth Financial Network.</p>
+      <p>“Initial claims can be quite volatile on a week-to-week basis, however the recent rise in claims is worth monitoring as it could be a signal that the labor market is starting to soften,” Millette added.</p>
+    </div>
+  },
+  {
+    id: 538,
+    title: 'Wall Street mixed as FTSE 100 closes lower on Fed and BoE hawkish tone',
+    category: 'Indices',
+    subCategory: ['Wall street', 'FTSE', 'Fed'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and European stocks plunged this Thursday following of the Bank of England’s decision to hike interest rates to 5% amid persistent inflation.</p>
+    </div>,
+    authorName: 'Pedro Goncalves',
+    authorurl: 'https://www.yahoo.com/author/pedro-goncalves/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 22, 2023 - 7:53 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-728.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 and European stocks plunged this Thursday following of the Bank of England’s decision to hike interest rates to 5% amid persistent inflation.</p>
+	    <p>The FTSE 100 (^FTSE) lost 0.76% to close at 7,502 points, while the CAC 40 (^FCHI) in Paris slipped 0.90% to 7,195 points. In Germany, the DAX (^GDAXI) fell 0.24% to 15,984.</p>	
+    	<p>US stocks were mixed as a wave of hawkish central-bank hikes dampened spirits ahead of Federal Reserve Chair Jerome Powell's second day of testimony to Congress.</p>	
+    	<p>The Dow Jones (^DJI) lost 0.13% to 33,907 points. The S&P 500 (^GSPC) was muted at 4,365 points and the tech-heavy NASDAQ (^IXIC) rose 0.43% to 13,560.</p>
+      <p>Back in London, the Bank’s monetary policy committee decided to raise its benchmark rate from 4.5% to 5%, an increase of half a percentage point.</p>
+      <p>This is the 13th increase in UK interest rates in a row, going back to December 2021.</p>
+      <p>Financial markets are now pricing in that UK interest rates will soar as high as 6% by December after inflation stuck at 8.7% in the year to May. This is up from current levels of 4.5%.</p>
+      <p>The decision comes with stock markets already under pressure after Federal Reserve chair Jerome Powell yesterday signalled more rate hikes to come in the United States.</p>
+      <p>The FTSE lost 0.76% to close at 7,502 points following the Bank of England’s decision to hike interest rates to 5% amid persistent inflation.</p>
+      <p>We are now closing off our coverage of this big day for the UK economy but as investors turn their eyes across the pond, our US team will keep you updated with everything you need to know as Federal Reserve Chair Jerome Powell testifies before the Senate Banking Committee.</p>
+      <h3>Sunak backs BoE decision as he stands by inflation pledge</h3>
+      <p>Rishi Sunak has admitted his promise to halve inflation this year will now be “harder” to achieve after the Bank of England was forced to hike interest rates 50bps to 5%. </p>
+      <p>Sunak said that his promise to halve inflation would be “hard” to achieve but “not impossible” and that he does not regret making that pledge.</p>
+      <p>The prime minister said:</p>
+      <p><strong>I absolutely don’t think it was a mistake to set as my number one priority halving inflation. I am ambitious for our country and I want to deliver on the things that are going to make the most difference to all of you and your families.</strong></p>
+      <p><strong>“We have got to get inflation down and at the time I set that target actually lots of people said it wasn’t ambitious enough, that it was too easy, and I knew that wasn’t true.”</strong></p>
+      <p>Speaking at the Times CEO Summit, Sunak said inflation was a “global challenge” and it remained high in other countries such as Australia, Canada and New Zealand.</p>
+      <p><strong>There is, I think, a global concern about the persistence and stickiness of inflation, and the need for central banks to take strong action to take inflation down.</strong></p>
+      <p><strong>“The Bank of England has my support and the Government’s support to bring inflation back down to target.</strong></p>
+      <h3>Wall Street opens lower</h3>
+      <p>US Stocks opened lower on Thursday as investors awaited a second day of testimony on Capitol Hill from Federal Reserve Chair Jerome Powell and digested weekly jobless claims data that suggested some further softening in the US labour market.</p>
+      <p>At the market open the S&P 500 (^GSPC) fell 0.26%, while the Dow Jones Industrial Average (^DJI) dropped 55 points, or 0.16%. The tech-heavy Nasdaq Composite (^IXIC) slipped 0.21%.</p>
+      <h3>More hikes on the horizon, says Janus Henderson</h3>
+      <p>Following the Bank of England interest rate decision, Andrew Jones, portfolio manager at Janus Henderson Investors, said:</p>
+      <p><strong>Today’s interest rate increase by the Monetary Policy Committee (MPC) of the Bank of England of 0.5% to 5% was greater than most commentators had forecast. While yesterday’s higher-than-expected headline and core inflation numbers amplified the debate about the rate of further increases, most expected a more gradual 0.25% rise.</strong></p>
+      <p><stropng>With inflation expected to remain high over the next few months, further rises remain highly likely. However, the MPC will be hoping that the lagged effect of the interest rate rises that started at the end of 2021 and a fall in energy prices should lead to a reduction in the inflation rate in the autumn.”</stropng></p>
+      <h3>0.5% hike is 'embarrassing' for Bank of England, says Ebury</h3>
+      <p>Matthew Ryan, head of market strategy at Ebury, said the 50bps hike was “embarrassing admission” that it had underestimated inflation. He said:</p>
+      <p><strong>While the two doves somewhat bizarrely opted in favour of no change, all seven remaining MPC members unexpectedly voted for a ‘jumbo hike’. In our view, this marks yet another rather embarrassing admission that the BoE has continued to grossly underestimate the extent of the inflation overshoot, and the degree of tightening required in order to anchor inflation expectations.</strong></p>
+      <p><strong>“There appears to be more misery ahead for mortgage holders, as the bank maintained the line in its statement that further hikes would be required should price pressures persist. We see this as a clear signal that at least another 25bp hike is on the way in August, and expect the base rate to top out at 6%, or perhaps even higher, by the end of the year.</strong></p>
+      <h3>UK headed towards recession, warns HSBC AM</h3>
+      <p>The UK is headed towards a recession amid a looming ‘mortgage squeeze’ and a turn in the credit cycle, according to Joseph Little, global chief strategist at HSBC Asset Management. He said:</p>
+      <p><strong>The UK finds itself in the worst position of major western economies. A cost of living crisis, brought about by rising energy and food prices, has been amplified by structural labour shortages, and has now metastasised into ratcheting wages. Inflation pressures show more persistency and more momentum than other western economies, and that forces the Bank into a hawkish corner. Today’s statement has increased concerns of a much-higher terminal policy rate, perhaps as high as 6%.</strong></p>
+      <p><strong>But after the fastest rate tightening cycle since the 1980s, getting more hawkish now is not without risk. A looming ‘mortgage squeeze’ and a turn in the credit cycle means that the economy now faces a recession as we head toward 2024.</strong></p>
+      <h3>Bailey: 'If we don’t raise rates now, it could be worse later'</h3>
+      <p>Following the interest rate decision, governor of the Bank of England, Andrew Bailey, said:</p>
+      <p><strong>We’ve raised rates to 5% following recent data which showed that further action was needed to get inflation back down.</strong></p>
+      <p><strong>The economy is doing better than expected, but inflation is still too high and we’ve got to deal with it.</strong></p>
+      <p><strong>We know this is hard - many people with mortgages or loans will be understandably worried about what this means for them. But if we don’t raise rates now, it could be worse later.</strong></p>
+      <p><strong>We are committed to returning inflation to the 2% target and will make the decisions necessary to achieve that.</strong></p>
+      <h3>Unions criticise rate hike</h3>
+      <p>TUC General Secretary Paul Nowak has condemned today’s decision by the Bank of England to raise the base rate.</p>
+      <p>He said:</p>
+      <p><strong>This interest rate hike is the result of dangerous groupthink in the Bank of England and Downing Street. Pushing interest rates so high that the economy is driven into recession will only make the current crisis worse, costing people their jobs and their homes.</strong></p>
+      <p><strong>“Inflation was caused by global energy shocks and government should be doing more to ensure households and businesses benefit as prices fall.</strong></p>
+      <p><strong>"Instead of scapegoating workers who are desperate for their pay to keep up with prices, ministers should focus on a credible plan for sustainable economic growth and rising living standards."</strong></p>
+      <h3>PM 'burying head in the sand' as rates rise, says Labour's Reeves</h3>
+      <p>Shadow chancellor Rachel Reeves accused Jeremy Hunt and Rishi Sunak of “burying their heads in the sand” about the mortgage misery facing householders. She said:</p>
+      <p><strong>Families across Britain will be desperately worried about what today’s interest rate rise might mean for them.</strong></p>
+      <p><strong>They want to know that support will be there if they need it.</strong></p>
+      <p><strong>Instead, the chancellor and prime minister are burying their heads in the sand and failing to clean up the mess this Tory government has made.</strong></p>
+      <h3>Hunt backs Bank of England after latest rate hike</h3>
+      <p>Responding to the interest rate rise, Chancellor Jeremy Hunt said:</p>
+      <p><strong>High inflation is a destabilising force eating into pay cheques and slowing growth.</strong></p>
+      <p><strong>Core inflation is higher in 14 EU countries and interest rates are rising around the world, but the lesson from other countries is that if you stick to your guns, you bring inflation down.</strong></p>
+      <p><strong>Our resolve to do this is watertight because it is the only long-term way to relieve pressure on families with mortgages. If we don’t act now, it will be worse later.</strong></p>
+    </div>
+  },
+  {
+    id: 537,
+    title: 'Dow Jones Reverses As Feds Powell Hints 5.25% Rate Soon; Tesla, Amazon Move On Analyst Ratings',
+    category: 'Indices',
+    subCategory: ['powell', 'Tesla', 'Amazon'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average pared back early losses and traded flat at noon Wednesday. Fed Chair Jerome Powell affirmed that interest rates will continue to increase in his testimony</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 21, 2023 - 8:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-731.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average pared back early losses and traded flat at noon Wednesday. Fed Chair Jerome Powell affirmed that interest rates will continue to increase in his testimony in Congress. Powell observed that "inflation pressures continue to run high, and the process of getting inflation back down to 2% has a long way to go."</p>
+    	<p>The Fed chair said in remarks prepared for his address before a House Financial Services Committee meeting that "nearly all FOMC participants expect that it will be appropriate to raise interest rates somewhat further by the end of the year."</p>	
+    	<p>The rate pause last week was a "prudent" step, he said, to allow the committee to assess the effects of its tightening. The Fed chair will address the Senate Banking Committee on Thursday.</p>	
+    	<p>Last week, the Fed paused tightening and let interest rates stay unchanged while indicating that two more rate hikes may be needed to curb inflation. A hike following the July meeting would take the rate to 5.25%.</p>
+      <p>The S&P 500 fell 0.4% while the Nasdaq lagged, falling 1.3% at noon ET.</p>
+      <p>The small-cap Russell 2000 slipped 0.5% and Innovator IBD 50 ETF (FFTY) fell 1.3%.</p>
+      <p>Volume on the NYSE fell but rose on the Nasdaq compared with the same time on Tuesday.</p>
+      <p>Crude oil prices rose over 1% to trade at $72.19 a barrel.</p>
+      <p>The yield on the benchmark 10-year Treasury note rose 4 basis points to 3.77%.</p>
+      <h3>Dow Jones Stocks In Focus</h3>
+      <p>Apple (AAPL) continued to tread along a rising 10-day moving average, according to IBD MarketSmith. Shares pulled back slightly in light volume at the hour. Walgreens (WBA) is trying to reclaim its 50-day line ahead of earnings next week.</p>
+      <p>Shares of Adobe (ADBE) rose at the opening bell but reversed lower at noon. Earlier, BMO Capital Markets analyst Keith Bachman raised his price target to 570 with an upgraded outperform rating due to a boost from AI technologies.</p>
+      <p><h3>Exact Sciences (EXAS)</h3>fell despite positive results from its study to evaluate its next generation Cologuard treatment for colon cancer. The original Cologuard was approved in 2014.</p>
+      <h3>Homebuilders And Medical Stocks On Watch</h3>
+      <p>Outside Dow Jones, Meritage Homes (MTH) is in a buy zone after clearing a buy point of 130.68 on Tuesday. It was also Tuesday's Stock of the Day. KB Home (KBH) is on deck to report earnings Wednesday while Olive Garden restaurants parent Darden (DRI) and Accenture (ACN) report on Thursday. KBH and DRI rose while ACN is testing its 10-day line.</p>
+      <p>On the IBD 50, growth stock TransMedics (TMDX) is above its 50-day line in a cup base with a buy point of 90.15. Lantheus Holdings (LNTH) retook its 50-day line on Tuesday. The medical products stock pared some gains Wednesday. Generac (GNRC), on the IBD Leaderboard, is in a cup base with a 141.54 entry.</p>
+      <h3>Outside Dow Jones: Tesla, Amazon</h3>
+      <p>Elsewhere, Tesla (TSLA) fell after Barclays analyst Dan Levy downgraded the stock to hold from buy but raised his price target to 260 from 220.</p>
+      <p><strong>Spotify (SPOT)</strong>fell as well though Wolfe Research analysts gave it a price target of 190 with an outperform rating.</p>
+      <p><strong>Amazon (AMZN)</strong>slipped slightly after Jefferies raised its price target to 150 from 135. Shares are tracking above the 10-day line.</p>
+      <p>Dow Jones stock<strong>Nike (NKE)</strong>got a price target cut to 135 from 140 from Telsey Advisory Group. Analysts maintained an outperform rating for the stock. Shares rose slightly at midday Wednesday.</p>
+      <p>Oppenheimer analysts raised their price target for Uber (UBER) to 65 from 55. UBER stock pared early gains, however. It is on the IBD Leaderboard and IBD 50.</p>
+      <p>Shares of FedEx (FDX) fell below the 50-day line after the shipping company gave a disappointing profit outlook for 2024. Weak demand is expected to offset a $4 billion cost-cutting effort. United Parcel Service (UPS) fell in sympathy.</p>
+      <p><strong>PayPal (PYPL)</strong>fell Wednesday midday after Tuesday's significant gain as investment firm KKR agreed to buy $44 billion in loans on PayPal's balance sheet. The stock cleared its 50-day line Tuesday and is testing it Wednesday.</p>
+    </div>
+  },
+  {
     id: 536,
     title: 'Dow Jones Futures Fall: Market Strong, But Heres What To Do; AMD, Boeing Lead Stocks To Watch',
     category: 'Indices',

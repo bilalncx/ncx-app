@@ -1,5 +1,122 @@
 const data = [
   {
+    id: 554,
+    title: 'Tesla Stock Downgraded For Second Time In Two Days. Is Teslas 140% Run Ending?',
+    category: 'Markets',
+    subCategory: ['Tesla', 'Stock', 'downgraded'],
+    description: <div className="blog-desc">
+      <p>Tesla stock was downgraded by Morgan Stanley Thursday. This comes after Barclays did the same Wednesday morning, giving TSLA an equal weight rating.</p>
+    </div>,
+    authorName: 'KIT NORTON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 12:02 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-723.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Tesla stock was downgraded by Morgan Stanley Thursday. This comes after Barclays did the same Wednesday morning, giving TSLA an equal weight rating.</p>
+    	<p>For the second time in as many days, Tesla (TSLA) stock received a downgrade Thursday, as analysts expect waning consumer demand and increased competition in China to cut into Tesla's value. The stock edged up Thursday after swooning around 5.5% Wednesday.</p>	
+    	<p>Morgan Stanley downgraded Tesla to equal weight, from overweight, Thursday and hiked its share price target to 250, up from 200 and about 3% below where shares closed on Wednesday. This comes after a Barclays downgrade on Wednesday.</p>	
+    	<p>The Barclay's note wrote cited Tesla as an artificial intelligence (A.I.) beneficiary as well as an auto company. Morgan Stanley's view is that high expectations on A.I. have brought Tesla stock to a fair valuation.</p>
+      <p>"We're not trying to call 'the end' to the Tesla rally," Morgan Stanley analyst Adam Jonas made clear on Thursday. "And from our discussions (we) continue to find a significant degree of investor skepticism/lack of exposure around the name."</p>
+      <p>Jonas added that despite the downgrade, Morgan Stanley views Tesla as a "must own" in an EV portfolio and as an industrial "standard-bearer" for electric transport and renewable energy economy.</p>
+      <p>"Despite the recent rally, we expect material negative revisions for Tesla consensus earnings forecasts," Jonas told investors.</p>
+      <p>Morgan Stanley forecasts "intensifying competition" from China's EV players and slowing auto demand from consumers both present growing risks for Tesla stock. Jonas sees Tesla stock in a bull case hitting 450 and in a bear case 90, over the next 12 months.</p>
+      <h3>Tesla (TSLA)</h3>
+      <p>Tesla stock dropped nearly before edging up around 2% to 264.46 Thursday during market trade. Tesla stock slumped 5.4% to 259.46 Wednesday. On Tuesday, shares jumped 5.3% to 274.31.</p>
+      <p>Wednesday morning, Barclays analyst Dan Levy also downgraded Tesla stock to equal weight, down from overweight. Levy hiked the firm's TSLA price target to 260, up from the previous 220.</p>
+      <p>The Barclays analyst wrote the stock's recent rally has been "too sharp relative to challenging near-term fundamentals." Levy told investors questions about margins and demand for Tesla vehicles remain concerns.</p>
+      <h3>Tesla Stock</h3>
+      <p>TSLA has advanced around 30% in June. Last week, the stock jumped more than 6% despite two straight consecutive sessions with losses.</p>
+      <p>Before shares slipped last Wednesday, Tesla enjoyed a run of 13 straight gains. Shares are up around 140% since Jan. 3. However, Tesla is down around 36% from the all-time high 414 it hit in November 2021.</p>
+      <p>Tesla is well extended past a 207.79 buy point from what's either a cup or a double-bottom base.</p>
+      <p>Shares are more than 30% above their 200-day/40-week moving average. That's the most extended they've been since the stock marked its peak in November 2021.</p>
+      <p>Tesla stock ranks third in IBD's automaker industry group. It has a 99 Composite Rating out of 99. Tesla has a 90 Relative Strength Rating and its EPS Rating is 93 out of 99.</p>
+    </div>
+  },
+  {
+    id: 553,
+    title: 'Wall Street ends higher as Powell wraps up testimony',
+    category: 'Markets',
+    subCategory: ['wall street', 'powell', 'testimony'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - The S&P 500 and the Nasdaq closed higher on Thursday as U.S. Federal Reserve Chairman Jerome Powell continued to beat a hawkish drum and suggested the central bank</p>
+    </div>,
+    authorName: 'Stephen Culp',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 22, 2023 - 2:14 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-722.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>By Stephen Culp</p>
+	    <p>(Reuters) - The S&P 500 and the Nasdaq closed higher on Thursday as U.S. Federal Reserve Chairman Jerome Powell continued to beat a hawkish drum and suggested the central bank has not reached the end of its tightening cycle, but provided reassurance that the Fed would proceed with caution.</p>	
+	    <p>The tech-heavy Nasdaq's robust gain got a boost from momentum stocks led by Amazon.com Apple Inc, and Microsoft Corp, while the S&P 500's advance was more modest.</p>	
+	    <p>Industrials and financials held the blue-chip Dow essentially flat.</p>
+      <p>"Investors are playing tug of war, as if they're pulling petals from a daisy saying 'bull market, not a bull market,'" said Sam Stovall, chief investment strategist of CFRA Research in New York. "We don’t have much to trade on, second-quarter earnings don’t start in a couple weeks yet."</p>
+      <p>Powell, appearing before the Senate Banking Committee for his semi-annual monetary policy testimony reiterated his view that more interest rate hikes are likely in the months ahead, a sentiment echoed by Fed Governor Michelle Bowman earlier in the session.</p>
+      <p>"The market believes the Fed will raise rates one more time, not two more times as implied by the post FOMC meeting summary," Stovall added. "In addition, yesterday and today’s, Powell reiterated that they will be data dependent and Wall Street expects inflation to cool faster, and unemployment will start to creep higher which is what the Fed has intended with its rate increases."</p>
+      <p>Investors were taken by surprise when the Bank of England implemented a larger-than-expected 50 basis point rate hike to tackle Britain's stubborn inflation, further evidence that hot price growth remains a global economic headwind.</p>
+      <p>At last glance, financial markets have priced in a 77% probability of another 25 basis point rate hike at the conclusion of the Fed's July meeting, according to CME's FedWatch tool.</p>
+      <p>On the economic front, jobless claims held steady at a 20-month high and the Conference Board's Leading Economic index posted its 14th consecutive monthly decline, suggesting that the Fed's efforts to dampen the economy are beginning to have their intended effect.</p>
+      <p>The Dow Jones Industrial Average fell 4.81 points, or 0.01%, to 33,946.71, the S&P 500 gained 16.2 points, or 0.37%, to 4,381.89 and the Nasdaq Composite added 128.41 points, or 0.95%, to 13,630.61.</p>
+      <p>Of the 11 major sectors of the S&P 500, five ended the session higher, with consumer discretionary enjoying the largest percentage advance.</p>
+      <p>Real estate and energy posted the biggest declines.</p>
+      <p>Spirit AeroSystems tumbled 9.4% after the aircraft parts supplier announced it would suspend production at its plant in Wichita, Kansas, after workers announced a strike from June 24.</p>
+      <p>Boeing shares dropped 3.1%.</p>
+      <p>U.S.-listed shares of Accenture fell 1.9% after the IT consulting firm forecast weaker-than-expected fourth-quarter revenue.</p>
+      <p>Olive Garden parent Darden Restaurants issued a disappointing annual profit outlook due to ballooning commodities prices. Its shares slid 2.6%.</p>
+      <p>Declining issues outnumbered advancing ones on the NYSE by a 2.17-to-1 ratio; on Nasdaq, a 1.62-to-1 ratio favored decliners.</p>
+      <p>The S&P 500 posted 16 new 52-week highs and 5 new lows; the Nasdaq Composite recorded 55 new highs and 118 new lows.</p>
+      <p>Volume on U.S. exchanges was 9.60 billion shares, compared with the 11.37 billion average for the full session over the last 20 trading days.</p>
+      <p>(Reporting by Stephen Culp; Additional reporting by Shubham Batra, Shristi Achar A and Medha Singh in Bengaluru; Editing by Aurora Ellis)</p>
+    </div>
+  },
+  {
+    id: 552,
+    title: 'Stock market today: Asian shares sink as central banks crank interest rates still higher',
+    category: 'Markets',
+    subCategory: ['Asian', 'Stock', 'market'],
+    description: <div className="blog-desc">
+      <p>BANGKOK (AP) — Asian shares sank sharply Friday after several central banks around the world cranked interest rates higher in their fight against inflation.</p>
+    </div>,
+    authorName: 'ELAINE KURTENBACH',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 22, 2023 - 11:40 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-721.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BANGKOK (AP) — Asian shares sank sharply Friday after several central banks around the world cranked interest rates higher in their fight against inflation.</p>
+    	<p>Hong Kong and Tokyo shed nearly 2% and most other regional markets declined. U.S. futures and oil prices also were lower.</p>	
+    	<p>Japan reported its inflation rate was higher than expected, adding to expectations the central bank might adjust its policies to reflect upward price pressures, which have pushed the dollar's value against the yen sharply higher.</p>	
+    	<p>The Bank of Japan has kept its benchmark interest rate at minus 0.1% for a decade as policymakers keep credit cheap to encourage more investment and spending.</p>
+      <p>The core inflation rate, excluding volatile energy and food prices, was 3.2% in May, above the official 2% target, the government reported.</p>
+      <p>“We think there are signs of inflationary pressure building up on the supply side, but it is certainly not strong enough for the BOJ to bring about immediate tightening,” ING Economics said in a commentary.</p>
+      <p>The dollar was trading at 143.11 yen up from 143.10 yen, near its highest level since November. A weaker Japanese yen raises costs for Japanese businesses and consumers given the country's heavy reliance on imports.</p>
+      <p>Tokyo's Nikkei 225 was down 1.8% at 32,654.37 by midday and the Hang Seng in Hong Kong fell 1.9% to 18,845.04.</p>
+      <p>In Seoul, the Kospi fell 0.8% to 2,572.33, while Australia's S&P/ASX 200 gave up 1.2% to 7,110.40. Markets in mainland China were closed for a holiday. Shares also fell in Mumbai and Bangkok.</p>
+      <p>On Thursday, the S&P 500 rose 0.4% to 4,381.89, even though the majority of stocks fell. A rebound for technology stocks helped to overshadow losses elsewhere in the market and keep the benchmark index afloat.</p>
+      <p>Gains for high-growth stocks also drove the Nasdaq composite to a market-leading gain of 1%, to 13,630.61. The Dow Jones Industrial Average fell less than 0.1% to 33,946.71.</p>
+      <p>The Bank of England hiked its main interest rate by a bigger margin than expected to a 15-year high. Central banks in Norway, Switzerland and Turkey also raised borrowing rates.</p>
+      <p>Stock indexes in Europe fell following the most recent rate increases. Britain’s FTSE 100 slipped 0.8%. The latest interest rate increase from the Bank of England marked its 13th hike in a row in its effort to combat stubbornly high inflation.</p>
+      <p>In the United States, meanwhile, Federal Reserve Chair Jerome Powell reiterated his belief that inflation is still too high and that further increases to rates may be necessary. Powell testified before a Senate committee Thursday, a day after appearing before a House of Representatives committee.</p>
+      <p>The Fed held interest rates steady at its last meeting after raising rates aggressively throughout 2022 and into 2023 to tame painfully high inflation. Inflation has cooled somewhat since last summer, but the Fed has signaled it may raise rates two more times this year as it tries to push inflation down to its stated goal of 2%.</p>
+      <p>Central banks worldwide have been raising interest rates to make borrowing more costly and slow economic growth to stifle inflation. But the strategy risks going too far in stalling growth and dragging economies into a recession.</p>
+      <p>In Asia, central banks have begun to keep interest rates steady, or in the case of Vietnam, cut them, as their economies have slowed.</p>
+      <p>High interest rates have already slowed manufacturing and other parts of the U.S. economy. They've also helped cause three high-profile failures in the U.S. banking system. The banking industry remains under pressure, even after the federal government acted quickly to provide support.</p>
+      <p>The Labor Department reported Thursday that the number of Americans applying for unemployment benefits remained elevated last week, a possible sign that the Fed’s rate hikes are beginning to cool a surprisingly resilient labor market.</p>
+      <p>In the housing industry, sales of previously occupied homes strengthened last month to top economists’ expectations for a slide.</p>
+      <p>In other trading Friday, U.S. benchmark crude oil shed 96 cents to $68.55 per barrel in electronic trading on the New York Mercantile Exchange. It gave up $3.02 to $69.51 on Thursday.</p>
+      <p>Brent crude, the international standard, lost 96 cents to $73.39 per barrel.</p>
+      <p>The euro was trading at $1.0933, down from $1.0960.</p>
+      <p>AP Business Writer Damian J. Troise contributed.</p>
+    </div>
+  },
+  {
     id: 551,
     title: 'Treasury Yields Rise as Global Bond Slide Extends Before Powell',
     category: 'Markets',
