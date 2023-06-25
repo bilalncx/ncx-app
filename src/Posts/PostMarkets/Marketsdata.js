@@ -1,5 +1,104 @@
 const data = [
   {
+    id: 556,
+    title: 'Top India ETFs for 2023',
+    category: 'Markets',
+    subCategory: ['ETF', 'India', '2023'],
+    description: <div className="blog-desc">
+      <p>FLIN, INCO, and INDA are the India ETS with the lowest fees, highest 1-year return, and most liquidity, respectively</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 24, 2023 - 2:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-739.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>FLIN, INCO, and INDA are the India ETS with the lowest fees, highest 1-year return, and most liquidity, respectively</p>
+    	<p>India's economy has roared back to life after contracting sharply in the first year of the Covid-19 pandemic. The International Monetary Fund predicts that India's GDP will climb by 5.9% in 2023.</p>	
+	    <p>India's growth prospects are underpinned by a booming population and international investment. In April, the United Nations projected that India was on track to surpass China this year as the world's most populous country, with more than 1.4 billion inhabitants.</p>	
+	    <p>And several major technology companies, including Apple, have announced plans in the last year to expand manufacturing operations there.</p>
+      <h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>Indian equities have underperformed the S&P 500 in the past year.</li>
+        <li>The International Monetary Fund projects India's GDP to grow by 5.9% in 2023.</li>
+        <li>Franklin FTSE India ETF has the lowest expense ratio. Columbia India Consumer ETF has the best 1-year performance. The iShares MSCI India ETF offers traders the best liquidity.</li>
+      </ul>
+      <p>India exchange-traded funds (ETFs) offer a way for investors to geographically diversify their global portfolios by owning a range of companies trading on the National Stock Exchange of India Ltd. (NSE) and Bombay Stock Exchange (BSE).</p>
+      <p>India-based equities, as measured by the MSCI India Index, have underperformed U.S. equities over the past 12 months, with a total return of 15% compared with the S&P 500’s total return of 21%.</p>
+      <p>There are nine India ETFs that trade in the U.S., excluding inverse and leveraged ETFs, as well as funds with less than $50 million in assets under management (AUM). Note that these funds target Indian stocks rather than bonds.</p>
+      <p>Below, we look at three India ETFs with the lowest fees, the best 12-month return, and the most liquidity. All data below are as of June 22.</p>
+      <h3>India ETF with the Lowest Fees: Franklin FTSE India ETF (FLIN)</h3>
+      <ul>
+        <li>Performance Over One Year: 13.13%</li>
+        <li>Expense Ratio: 0.19%</li>
+        <li>Annual Dividend Yield: 0.7%</li>
+        <li>30-Day Average Daily Volume: 170,341</li>
+        <li>Assets Under Management: $204.46 million</li>
+        <li>Inception Date: Feb. 6, 2018</li>
+        <li>Issuer: Franklin Templeton</li>
+      </ul>
+      <p>FLIN tracks the FTSE India RIC Capped Index, a benchmark measuring the performance of Indian large- and mid-capitalization stocks. Financials make up the largest portion of the portfolio, at nearly 21%, followed by technology and energy companies.</p>
+      <p>The top holdings of FLIN include Reliance Industries Ltd. (RIGD), a manufacturer of petrochemicals, synthetic fibers, textiles, and more; Housing Development Finance Corporation Ltd. (HDB), a provider of housing finance to individuals and corporate customers in India; and Infosys Ltd. (INFY), a provider of IT consulting and software services.</p>
+      <h3>India ETF with the Best 1-Year Return: Columbia India Consumer ETF (INCO)</h3>
+      <ul>
+        <li>Performance Over One Year: 19.12%</li>
+        <li>Expense Ratio: 0.75%</li>
+        <li>Annual Dividend Yield: 0.21%</li>
+        <li>30-Day Average Daily Volume: 12,757</li>
+        <li>Assets Under Management: $90.49 million</li>
+        <li>Inception Date: Aug. 10, 2011</li>
+        <li>Issuer: Columbia Management Investment Advisers, LLC</li>
+      </ul>
+      <p>INCO targets the Indxx India Consumer Index, which is a free-float adjusted market capitalization-weighted index of no more than 30 companies in the consumer industry in India. Companies included in the index focus on autos, food products, beverages, media, household products, and other consumer segments. Consumer discretionary stocks make up 54.6% of holdings with consumer staples making up the remainder.</p>
+      <p>The top holdings of INCO include Tata Motors Ltd., an automotive manufacturing company; Titan Company Ltd. (TITAN.NS), a manufacturer of watches, jewelry, and eyewear; and Nestle India Ltd. (NESTLEIND.BO), a food products manufacturing company.</p>
+      <h3>Most Liquid India ETF: iShares MSCI India ETF (INDA)</h3>
+      <ul>
+        <li>Performance Over One-Year: 10.8%</li>
+        <li>Expense Ratio: 0.64%</li>
+        <li>Annual Dividend Yield: 0.38%</li>
+        <li>30-Day Average Daily Volume: 2,042,496</li>
+        <li>Assets Under Management: $4.94 billion</li>
+        <li>Inception Date: Feb. 2, 2012</li>
+        <li>Issuer: Blackrock</li>
+      </ul>
+      <p>INDA tracks the MSCI India Index, a benchmark that primarily consists of large- and mid-cap companies trading on the NSE and BSE.</p>
+      <p>INDA's top three holdings include Reliance Industries Ltd.; ICICI Bank Ltd. (IBN), a multinational financial services company; and Housing Development Finance Corporation Ltd.</p>
+    </div>
+  },
+  {
+    id: 555,
+    title: 'Apple stock could soar 37% to a $4 trillion market valuation by the end of 2024 after confirming a key breakout to all-time highs',
+    category: 'Markets',
+    subCategory: ['Apple', 'stocks', 'market'],
+    description: <div className="blog-desc">
+      <p>Apple stock could see big upside ahead after it confirmed its breakout above the prior record high of $183, according to Fairlead Strategies.</p>
+    </div>,
+    authorName: 'Matthew Fox',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 24, 2023 - 6:52 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-738.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Apple stock could see big upside ahead after it confirmed its breakout above the prior record high of $183, according to Fairlead Strategies.</li>
+        <li>Shares could jump 37% from current levels to $254 by the end of 2024.</li>
+        <li>"The uptrend [in Apple] shows no counter-trend signals yet," Fairlead Strategies said.</li>
+      </ul>
+	    <p>Apple stock decisively confirmed its breakout to new record highs on Friday, and that could pave the way for more upside into 2024, according to a Friday note from Fairlead Strategies.</p>
+	    <p>The firm highlighted that with Apple stock trading at $187 Friday afternoon, the stock is poised to close above its prior resistance level of $183 for the second week in a row, confirming a decisive breakout.</p>	
+	    <p>This "bullish long-term development" generates a new price objective of $254 per share for Apple, representing potential upside of 37% from current levels. A rise to that level would give the iPhone maker a market valuation of about $4 trillion based on today's current shares outstanding of 15.79 billion.</p>	
+	    <p>"The breakout yields a measured move objective of about $254 using the Covid/2020 corrective low as a point of reference," Fairlead Strategies' founder Katie Stockton told Insider on Friday. "The 'measured move' assumes that the uptrend that preceded the 2021-2022 trading range has resumed."</p>
+      <p>Stockton identified the end of 2024 as the timeframe for the technical price objective to be reached, and noted that the stock's uptrend looks poised to continue in the short term.</p>
+      <p>"The uptrend shows no counter-trend signals yet. When a pullback develops, initial support is at the rising 20-day moving average... although a pullback does not appear imminent," she said. The 20-day moving average for Apple stock is currently around $181 per share.</p>
+      <p>Apple stock has surged 44% so far in 2023 and has driven the bulk of the S&P 500's year-to-date gain of about 14%. The company recently announced its first product in the AR/VR market, the Apple Vision headset, which will sell for $3,499 when it is released early next year.</p>
+      <p>Apple's current valuation is about $2.96 trillion, and it's set to cross the $3 trillion threshold if the stock price hits $190.73, which is just over $3 away from current levels.</p>
+    </div>
+  },
+  {
     id: 554,
     title: 'Tesla Stock Downgraded For Second Time In Two Days. Is Teslas 140% Run Ending?',
     category: 'Markets',

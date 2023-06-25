@@ -1,5 +1,66 @@
 const data = [
   {
+    id: 583,
+    title: 'Brazilian Central Bank Adds Crypto Exchange Mercado Bitcoin in CBDC Pilot Including Mastercard',
+    category: 'Crypto',
+    subCategory: ['Brazilian', 'CBDC', 'Master card'],
+    description: <div className="blog-desc">
+      <p>Brazil’s central bank authorized on Thursday the largest local crypto exchange, Mercado Bitcoin, to participate in the pilot of the digital real, the South American country’s central bank digital currency (CBDC).</p>
+    </div>,
+    authorName: 'Andrés Engler',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 24, 2023 - 12:27 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-737.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Brazil’s central bank authorized on Thursday the largest local crypto exchange, Mercado Bitcoin, to participate in the pilot of the digital real, the South American country’s central bank digital currency (CBDC).</p>
+    	<p>The consortium led by Mercado Bitcoin counts Mastercard, broker Genial, registrar Cerc and financial software fintech Sinqia as partners, local newspaper Valor reported.</p>	
+    	<p>Also on Thursday, the central bank gave its green light to state-owned Brazilian bank Caixa to participate in its CBDC pilot, along with card provider Elo and Microsoft.</p>	
+    	<p>Mercado Bitcoin had been left out of the central bank’s choice of 14 participants in late May because the consortium lacked at least one regulated financial or payment institution with direct access to Brazil's national financial network. That changed after Mercado Bitcoin received the payment institution license from the central bank, on 2 June.</p>
+      <p>“Our participation validates the Central Bank's intention to bring innovation to the financial system with those who have already been working with this technology and not just with the incumbents who have appropriated it,” said Fabricio Tota, director of new business at Mercado Bitcoin, Valor added.</p>
+      <p>“We are pleased to be part of the consortium selected to join the Real Digital pilot in Brazil. Mastercard continues to engage in a series of partnerships to build trust and compliance in the digital assets ecosystem, while also solving real-world problems,” Walter Pimenta, executive vice president of Products and Engineering at Mastercard Latin America and the Caribbean, told CoinDesk in a statement.</p>
+      <p>The central bank will begin incorporating participants into the Real Digital Pilot platform in mid-June 2023. According to Glovo, the consortium intends to participate in testing the issuance of the CBDC and treasury bills, and will seek to test technical aspects of the network and the governance model of the distributed ledger technology.</p>
+      <p>The CBDC is slated to be rolled out by 2024 by the central bank, which sees a digital currency as a way of increasing participation in the financial system.</p>
+    </div>
+  },
+  {
+    id: 582,
+    title: 'Bitcoin Hits One-Year High, Soars Past $31.3K',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'high', 'soars'],
+    description: <div className="blog-desc">
+      <p>Bitcoin continued its mid-June surge Friday morning (ET), soaring to a one-year high above $31,000, before retreating below this threshold later in the day.</p>
+    </div>,
+    authorName: 'James Rubin',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 8:24 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-736.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Bitcoin continued its mid-June surge Friday morning (ET), soaring to a one-year high above $31,000, before retreating below this threshold later in the day.</p>
+	    <p>The largest cryptocurrency by market capitalization was recently trading at $30,894, up about 2.1% over the past 24 hours, according to CoinDesk Indices. It is up roughly 20% over the past week.</p>	
+	    <p>BTC last changed hands over $31,050 in June 2022. It crossed $31,000 briefly on April 10.</p>	
+	    <p>Bitcoin began spurting earlier this week, a few days after BlackRock, the world's largest asset manager, applied for a spot ETF, and as two other financial services powerhouses, Invesco and WisdomTree, refiled their applications for similar products.</p>
+      <p>Investors who were shaken earlier this month by Securities and Exchange Commission (SEC) lawsuits against crypto exchanges Binance and Coinbase, were heartened by the ETF filings that underscored the ongoing commitment of large institutional investors to enlarge their presence in the digital asset space.</p>
+      <p>"A sustained move above USD $31,000 would signal us entering a new phase where market participants are starting to reprice some of the previous regulatory anxiety," Strahinja Savic, head of data and analytics at Toronto-based crypto platform FRNT Financial, wrote in a Telegram note. "Despite what comes across as antagonistic rhetoric from some regulators, the bitcoin spot ETF applications have amplified the view that institutions remain interested in crypto."</p>
+      <p>Savic added: "Despite regulatory complexity, there are serious actors looking at growing their involvement in the digital asset space, and bitcoin’s move above USD 30,000 seems to be acknowledging that."</p>
+      <p>In its weekly newsletter on Friday, K33 Research noted similarly that "Blackrock's Bitcoin spot ETF filing has raised expectations of an institutionally driven price rally being on the horizon."</p>
+      <p>Most other major cryptos joined bitcoin's upswing. Ether, the second largest crypto in market value, was recently up 0.5% from Thursday, same time, to change hands at $1,901. Earlier this week, ETH regained the $1,900 threshold for the first time since early June. Litecoin and DOT, the token of smart contracts platform Polkadot, were recently up more than 5% and 6%, respectively. AVAX, the native crypto of the Avalanche blockchain, rose nearly 4%.</p>
+      <p>The CoinDesk Market Index, a measure of crypto markets performance, recently jumped more than 2%.</p>
+      <p>Cryptos continued their decoupling ways from equity markets, which sagged on Friday and suffered their first losing week after more than a month of gains. The tech-heavy Nasdaq Composite, S&P 500 and Dow Jones Industrial Average (DJIA) declined 0.9%, 0.6% and 0.5%, amid investor concerns about additional interest rate hikes later in 2023 and the prospect of a global recession.</p>
+      <p>Earlier in the week, the Bank of England raised its rate a hawkish 50 basis points (bps) in its ongoing effort to tame inflation, which remains a stubbornly high 8.7% in the U.K. The U.S. Federal Reserve and other central bank have taken more dovish turns in recent weeks, although Fed Chair Jerome Powell and other bank officials have reiterated their intent to resume rate increases, which have tended to weigh heavily on digital assets.</p>
+      <p>In a text message to CoinDesk, Mark Connors, head of research at Canadian digital asset manager 3iQ, struck a cautiously optimistic note about the potential, long-term impact of the ETF applications.</p>
+      <p>"Sentiment has clearly shifted in the digital space, as markets look through the Binance and SEC complaints, instead, betting the slew of BTC ETF filings drives future demand….sooner than later," Connors wrote.</p>
+      <p>Connors wrote that BTC's "punch through $31K" to a year-long high underscored cryptos' exit from "2022's fire swamp that burned many," but that BlackRock and the other firms' ETF initiatives would not drive "a sustained bid for BTC."</p>
+      <p>"Mounting cross currents that limit near term visibility, not the least is the entrenched battle by the SEC against the digital asset universe of players and protocols," Connors wrote, reiterating a theory that BlackRock timed its filing on June 8, just two days after the SEC complaint against Coinbase, "to support their partner in a strategic effort."</p>
+      <p>BlackRock named Coinbase (COIN) as custodian of assets – primarily bitcoin – in the proposed ETF, called the iShares Bitcoin Trust.</p>
+    </div>
+  },
+  {
     id: 581,
     title: 'Bitcoin: Why $34k is the next target for bulls',
     category: 'Crypto',

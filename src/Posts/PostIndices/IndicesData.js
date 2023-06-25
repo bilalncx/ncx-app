@@ -1,5 +1,120 @@
 const data = [
   {
+    id: 542,
+    title: 'S&P 500 Giants Lead Stocks Near Buy Points; Can They Hold Up Amid The Market Pullback?',
+    category: 'Indices',
+    subCategory: ['S&P', 'Stocks', 'Market'],
+    description: <div className="blog-desc">
+      <p>S&P 500 stocks Paccar (PCAR) and Parker Hannifin (PH) are in focus, along with Monday.com (MNDY), Shopify (SHOP) and HubSpot (HUBS).</p>
+    </div>,
+    authorName: 'KIT NORTON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 24, 2023 - 4:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-741.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>S&P 500 stocks Paccar (PCAR) and Parker Hannifin (PH) are in focus, along with Monday.com (MNDY), Shopify (SHOP) and HubSpot (HUBS).</p>
+    	<p>The stock market rally saw generally modest losses last week after several weekly gains. So far, the pullback has been relatively calm. But until there are clear signs that it's winding down, investors generally should be cautious about making new purchases in the short run. But it's a good time to be watching stocks that are holding up relatively well.</p>	
+    	<p>With the current market pullback, investors should be ready to cut losses quickly and move to take partial profits. However, stocks could also power ahead next week, which investors should also watch out for.</p>	
+    	<p>S&P 500 stocks Paccar and Parker Hannifin are trading right around traditional buy points, along with Monday.com. Shopify and HubSpot are close to actionable entries as well. Some of them are extended from their 50-day moving averages and it remains to be seen if they will hold up in a buy zone if the market continues to slide.</p>
+      <p>SHOP stock and HubSpot are on the IBD Leaderboard.</p>
+      <h3>S&P 500: Parker Hannifin Stock</h3>
+      <p>PH edged down 0.2% to 370.12 Friday during market trade. The stock edged up 0.3% for the week and has jumped 15.5% in June. Since March, the S&P 500 stock has formed a cup base and is just above an official 364.57 buy point, according to MarketSmith.</p>
+      <p>Parker Hannifin stock has advanced 27% in 2023, hitting fresh highs. On June 2, the S&P 500 stock made a decisive move above its 50-day moving average and then cleared short-term levels on June 6. PH stock kept racing up to the buy point, but looked extended from moving averages. The 21-day line is catching up, but the 50-day line is still well below Parkin Hannifin stock.</p>
+      <p>Parker Hannifin, a manufacturer of motion and control technologies and systems, provides engineered solutions for a plethora of mobile, industrial and aerospace markets. The company has operations in 50 countries around the world.</p>
+      <p>Earnings per share and sales have grown solidly on a year-over-year basis, with an acceleration in the most recent quarter. The Cleveland-based firm posted earnings growth of 11%, 7% and 23%, respectively, in the past three quarters. Meanwhile, revenue growth is accelerating, from 12% to 22% to 24% in the latest quarter.</p>
+      <p>The S&P 500 stock reports fiscal fourth-quarter financials in early August. Analysts expect profits to grow 5% to $5.44 per share with revenue jumping 19% to $4.99 billion.</p>
+      <p>For the full fiscal year, Wall Street forecasts EPS climbing 11% to $22.87 and sales increasing 20% to $18.96 billion.</p>
+      <p>Parker Hannifin stock ranks third in IBD's Machinery-General Industrial group. It has a 99 Composite Rating out of 99. The S&P 500 stock has a 90 Relative Strength Rating. The EPS Rating for the S&P 500 stock is 93 out of 99.</p>
+      <h3>Shopify Stock</h3>
+      <p>SHOP shares rose 0.5% to 63.79 on Friday, finding support at the 21-day line. The stock fell 1.4% on the week but is up 11.5% in June. Shopify stock has pulled back from a 65.54 buy point from a short consolidation, modestly above a cup-with-handle base.</p>
+      <p>The Canada-based e-commerce software and services provider has seen its stock leap in June. SHOP shares also are trading around 14-month highs, surging nearly 24% on May 4 following first-quarter earnings and the announced sale of its fulfillment business to privately held Flexport.</p>
+      <p>There's also speculation over a possible Shopify deal with e-commerce giant Amazon.com (AMZN).</p>
+      <p>Shopify sets up e-commerce websites for businesses. It partners with companies such as Stripe to handle digital payments. Well-funded and fast-growing Stripe has put off an initial public offering.</p>
+      <p>Among its merchants services is Shop Pay. It's an accelerated checkout option for stores on the Shopify platform. Shopify Capital provides loans to merchants. The new Shop Cash rewards program provides consumers with incentives, aiming to boost GMV through higher orders.</p>
+      <p>Analysts predict 2023 profits will soar 750% to 34 cents per share, up from 4 cents per share last year. Wall Street also forecasts sales increasing 20% to $6.73 billion in 2023. Those consensus forecasts have risen sharply.</p>
+      <p>Shopify stock ranks 11th in IBD's Computer Software-Enterprise industry group. It has a 98 Composite Rating out of 99. SHOP has a 97 Relative Strength Rating. The EPS Rating is 59 out of 99.</p>
+      <h3>HubSpot Stock</h3>
+      <p>HUBS shares slipped 1.2% to 512.21 on Friday. HubSpot stock on the week gained 0.5% and has dipped 1.1% in June. The stock has formed a four-weeks-tight pattern with a 535.12 buy point.</p>
+      <p>The stock has ballooned 80% in 2023. HUBS, which has been trading tightly, has found support at the 21-day line in the past several sessions.</p>
+      <p>HubSpot, headquartered in Cambridge, Mass., develops cloud-based platforms designed to help businesses develop processes for sales, marketing and customer service.</p>
+      <p>On May 3, the company announced better-than expected Q1 financials. HubSpot reported first-quarter earnings at $1.20 a share, up 122% from a year earlier. Revenue climbed 27% to $501.6 million.</p>
+      <p>The rapid improvements in artificial intelligence (AI) have driven increased potential in the tech and software spaces for growth. HubSpot's software could particularly benefit from advancements in AI.</p>
+      <p>Analysts forecast 2023 profits surging 74% to $4.84 per share and sales growing 21% to $2.09 billion.</p>
+      <p>HUBS stock ranks second in IBD's Computer Software-Special Enterprises group. It has a 99 Composite Rating out of 99. The stock has a 96 Relative Strength Rating. The EPS Rating is 99 out of 99.</p>
+      <h3>S&P 500: Paccar Stock</h3>
+      <p>PCAR shares edged up 0.4% to 78.44 Friday. Shares dipped 0.2% this week but have gained 14% in June. The S&P 500 stock is just above a flat base with an official 76.72 buy point. It's in buy range now, with a little more strength also breaking a short, high-handle downtrend. But the current market pullback raises the risks of any new buys.</p>
+      <p>Paccar stock has advanced more than 18% since January. The S&P 500 stock hit an all-time high 80.15 on Thursday. Between March and early June, PCAR was trading tightly around its 50-day moving average. However, on June 2 the S&P 500 stock moved above that key level of resistance. PCAR is currently around 5% above its 50-day line.</p>
+      <p>The commercial truck manufacturer operates under brands Kenworth, Peterbilt and DAF. The company also designs and manufactures advanced diesel engines, provides financial services and distributes truck parts related to its core business.</p>
+      <p>Paccar is also working on electric truck and autonomous long haul trucking options, with nine EV models in production.</p>
+      <p>The S&P 500 stock generated $28.8 billion in revenue in 2022. In Q1 2023, Paccar delivered 32% sales growth to just over $8 billion.</p>
+      <p>Wall Street expects full-year EPS to grow 37% to $7.91 with sales vaulting 16% to $31.66 billion.</p>
+      <p>Paccar stock is first in IBD's Trucks & Parts-Heavy Duty industry group. The S&P 500 stock has a 92 Composite Rating out of 99. The stock has an 87 Relative Strength Rating. The EPS Rating for the S&P 500 stock is 91 out of 99.</p>
+      <h3>Monday.com Stock</h3>
+      <p>MNDY shares slumped 4.1% to 169.52 Friday, closing below the 21-day line for the first time since early May 8, but only slightly. On the week, the stock slid 5.2%. Shares are down 5.9% in June after skyrocketing 48% in May. Monday.com stock has formed a cup base with a 171.89 buy point, dropping below that key level on Friday.</p>
+      <p>MNDY is up more than 43% in 2023 with shares on June 16 at their highest since March 2022. Shares gapped above the 50-day line on May 15, offering an early entry. After a brief pause, Monday.com raced higher again on May 23, offering another entry. Shares officially broke out on May 31, but it was greatly extended from the 50-day line. Even now, MNDY stock is 13% above that level.</p>
+      <p>Israel-based Monday.com is a cloud-based platform that allows users to create their own applications and project management software. The company went public in June 2021.</p>
+      <p>Monday.com first turned a profit in Q3 2022. MNDY is currently riding a string of three straight profitable quarters.</p>
+      <p>In fiscal Q1 2023, Monday.com reported a surprise profit, topping earnings and revenue estimates. The company saw EPS of 14 cents, up from a 96-cent loss a year ago. Meanwhile, revenue jumped 49% to $162.3 million.</p>
+      <p>Analysts expect MNDY to turn a yearly profit in fiscal 2023. Wall Street predicts full-year EPS of 63 cents and sales of $704.7 million.</p>
+      <p>MNDY stock is 14th in IBD's Computer Software-Enterprise group. It has a 99 Composite Rating out of 99. The stock has a 90 Relative Strength Rating. The EPS Rating is 93 out of 99.</p>
+    </div>
+  },
+  {
+    id: 541,
+    title: 'Dow Jones Falls 250 Points After Key Economic Data, Set For Losing Week; Tesla Stock Downgraded To Sell',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Economic', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average briefly dropped more than 250 points Friday after key economic data, with the major stock indexes eyeing a losing week as investors</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 6:27 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-740.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average briefly dropped more than 250 points Friday after key economic data, with the major stock indexes eyeing a losing week as investors brace for future rate hikes from the Federal Reserve. Tesla stock was downgraded to sell at DZ Bank.</p>
+    	<p>On the economic front, S&P Global's preliminary June Purchasing Managers' Index (PMI) for the manufacturing and services indexes came out Friday morning. The manufacturing index fell to 46.3, below estimates for a 48.5 reading. The services index eased to 54.1, above estimates for a 53.5 reading.</p>	
+    	<p>This week, Fed Chair Jerome Powell set the stage for higher interest rates in the coming months. On Wednesday, Powell reiterated that more interest rate increases are likely needed to bring down inflation, saying "Nearly all FOMC participants expect that it will be appropriate to raise interest rates somewhat further by the end of the year."</p>	
+    	<p>Investors now see a more-than-74% chance of a quarter-point hike at the Fed's July meeting, per CME FedWatch Tool. That's up from 67% one week ago.</p>
+      <p>CarMax (KMX) raced 7% higher Friday after the company reported better-than-expected Q1 earnings and sales results.</p>
+      <h3>Stock Market Today</h3>
+      <p>EV giant Tesla (TSLA) dropped more than 4% Friday. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were lower after today's stock market open.</p>
+      <p>Chipotle Mexican Grill (CMG), McKesson (MCK), MongoDB  (MDB) and Roku (ROKU) — as well as Dow Jones stocks JPMorgan Chase (JPM) and Salesforce (CRM) — are among the best stocks to buy or watch in the ongoing stock market pullback.</p>
+      <p>Tesla is an IBD Leaderboard stock. McKesson is an IBD SwingTrader stock, while Chipotle featured as Wednesday's Stock Of The Day as well as in this week's Stocks Near A Buy Zone column.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Friday's opening bell, the Dow Jones Industrial Average fell 0.5%, while the S&P 500 lost 0.7%. And the tech-heavy Nasdaq composite dropped 1% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded down 1%, while the SPDR S&P 500 ETF (SPY) moved down 0.8% early Friday.</p>
+      <p>On Friday, the 10-year U.S. Treasury yield ticked lower to 3.69%. The yield has recently been bobbing in a range between 3.57% and 3.85%, settling higher Thursday at 3.79%.</p>
+      <p>Oil prices continued to back off Friday morning. West Texas Intermediate futures fell nearly 3%, to below $68 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Thursday, The Dow Jones Industrial Average cut back its early losses to close essentially flat. In the Dow 30, Boeing (BA) triggered the 7% loss rule from a 221.33 buy point. BA stock fell more than 3% to extend a losing streak to three sessions.</p>
+      <p>Market performance varied by index. The S&P 500 climbed 0.4%, and the Nasdaq composite advanced nearly 1%. But the small-cap Russell 2000 moved down 0.8%.</p>
+      <p>Thursday's Big Picture column cautioned, "Despite the stock market pullback, IBD's recommended market exposure still sits at 60%-80%. So far, the market pullback is normal, but keep an eye out for more signs of institutional selling. If distribution days start to pile up, then it would be prudent to methodically reduce exposure."</p>
+      <p>Now is an important time to read IBD's The Big Picture column amid the ongoing stock market uptrend.</p>
+      <h3>Dow Jones Stocks To Buy And Watch: JPMorgan, Salesforce</h3>
+      <p>Dow Jones banking leader JPMorgan is just below a 143.37 flat-base buy point after Thursday's 1.9% drop. JPM stock fell 0.9% early Friday.</p>
+      <p>Salesforce managed to steady itself after slumping following earnings. It is now testing support at the 21-day exponential moving average. The megacap tech previously moved past a pair of new alternative entries at 194.01 and at 200.10, according to IBD Leaderboard analysis.</p>
+      <p>In recent weeks, shares reached the 20% profit zone from a 178.94 cup-with-handle entry, and are now trying to bounce from support at the 10-week line. CRM stock dropped 1.6% Friday morning.</p>
+      <h3>Best Stocks To Buy And Watch: Chipotle, McKesson, MongoDB, Roku</h3>
+      <p>IBD Leaderboard watchlist stock Chipotle is rebounding from its 10-week line and approaching a flat base's 2,139.88 buy point, according to IBD MarketSmith pattern recognition. Chipotle was Wednesday's IBD Stock Of The Day. CMG stock fell 0.6% Friday morning.</p>
+      <p>IBD SwingTrader stock McKesson is in buy range past a 401.53 cup-with-handle entry. The 5% buy zone goes up to 421.61. Shares were up 0.3% Friday.</p>
+      <p>MongoDB is trading tightly after its recent earnings-fueled gap up, offering a new entry. The three-weeks-tight formation shows a buy point at 398.89, while aggressive investors could use a trendline-entry around 386. MDB stock lost 1.7% Friday morning.</p>
+      <p>Streaming giant Roku is building a cup-with-handle base with a 75.45 buy point, according to IBD MarketSmith pattern recognition, even as the stock extended a losing streak to six sessions Thursday. Roku stock fell 0.8% early Friday.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla rose 2% Thursday despite a Morgan Stanley downgrade, reversing higher after early losses. Shares remains sharply extended above a double-bottom base's 207.79 buy point. They closed Thursday 16% off their 52-week high.</p>
+      <p>TSLA stock threatened to give up all of Thursday's gains, falling 4.1% Friday. Early Friday, DZ Bank double-downgraded the stock from buy to sell, skipping the hold rating.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock hit an all-time highs Thursday, moving 1.65% higher in the session. On Thursday, shares traded as high as 187.04. The stock continues to hold sharply above a 157.38 buy point. Early Friday, AAPL stock was down 0.7%.</p>
+      <p>Microsoft shares rebounded 1.8% Thursday, snapping a three-day losing streak. Last week, the stock hit a record high at 351.47. Despite the recent losses, MSFT stock remains in the 20%-25% profit-taking zone from a 276.76 flat-base buy point, so investors take at least some profits. And on Friday morning, Microsoft shares were off 1.5%.</p>
+    </div>
+  },
+  {
     id: 540,
     title: 'Dow Jones Today: Index Flat as Investors Mull Global Rate Decisions',
     category: 'Indices',

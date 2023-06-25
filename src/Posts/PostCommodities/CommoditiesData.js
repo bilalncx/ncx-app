@@ -1,5 +1,46 @@
 const data = [
   {
+    id: 547,
+    title: 'Iran’s Oil Supplies Are One More Challenge for OPEC+',
+    category: 'Commodities',
+    subCategory: ['Iran', 'Oil', 'OPEC+'],
+    description: <div className="blog-desc">
+      <p>Oil markets have been buzzing over a potential return of Iranian oil to the market amid press reports of renewed U.S.-Iranian talks.</p>
+    </div>,
+    authorName: 'Mark Finley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 24, 2023 - 12:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-742.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Oil markets have been buzzing over a potential return of Iranian oil to the market amid press reports of renewed U.S.-Iranian talks.</p>
+    	<p>For the OPEC+ group that’s already cutting crude oil production to support prices, Iran’s potential return is just one challenge among many.</p>	
+    	<p>Since 2016, OPEC has been cooperating with 10 non-OPEC countries, including Russia, to manage production. Or at least, most OPEC members have been cooperating: Iran, Libya, Venezuela have been exempt from production targets in recent years.</p>	
+    	<p>In Iran’s case the exemption dates to 2019 following the reimposition of U.S. sanctions, which caused production and exports to decline sharply. (Libyan and Venezuelan production has also declined in recent years.)</p>
+      <p>Iranian production has been recovering gradually for a while now. The U.S. withdrew from the nuclear-weapons deal in 2018 and reimposed sanctions that had been relaxed under the agreement.</p>
+      <p>Iranian production fell by roughly two million barrels a day and hit bottom in mid-2020. Since then, output has increased by about one million barrels a day, with Iran claiming to have produced just over three million barrels a day of crude oil in May.</p>
+      <p>Even with U.S. sanctions in place, Iran has worked with countries including China to evade U.S. sanctions (using techniques now employed by Russia to evade Group of Seven sanctions) and sometimes amid allegations that the U.S. was turning a blind eye amid concerns about spiking oil prices.</p>
+      <p>If Iranian production and export facilities have been maintained over the past five years—a significant question mark—the historical data suggests Iran could raise output by as much as an additional one million barrels a day if sanctions were lifted, or if enforcement faltered.</p>
+      <p>(One thought-provoking wrinkle: A substantial recovery of Iranian supply could create pressure for the OPEC+ to once again assign a production target to Iran—a tension that makes the recent, Chinese-brokered restoration of Iranian diplomatic relations with Saudi Arabia even more interesting.)</p>
+      <p>At the same time that Iranian supply is rising, other positive surprises have further bolstered world oil supplies.</p>
+      <p>Most important, Russian supply has remained robust, despite the imposition of a European Union embargo and a G7 price cap on both Russian crude oil and refined products.</p>
+      <p>In January, the International Energy Agency expected Russian production to fall by over 1.3 million barrels a day this year after the imposition of sanctions; it now expects a decline of just 0.3 million barrels a day, though Russian follow-through on its promises to cut production in response to Western sanctions remains uncertain.</p>
+      <p>And that’s not all. Even with U.S. shale producers under pressure to limit their investment after a decade of poor returns, the U.S. Energy Department has increased its forecast for domestic supply. The department now expects U.S. production to grow by over one million barrels a day this year, finally returning to prepandemic levels.</p>
+      <p>With additional growth from other sources including Brazil, Mexico, and Guyana (as well as global biofuels), the IEA now expects production outside of OPEC to rise by roughly 1.7 million barrels a day this year.</p>
+      <p>Moreover, Iran and Russia aren’t the only sanctions-impacted countries where supply is surprising to the upside. Venezuelan output has begun to recover after the U.S. eased some sanctions, rising by nearly 0.5 million barrels a day since bottoming out in mid-2020 to now stand near 0.9 million barrels a day.</p>
+      <p>State-owned PDVSA hopes to increase production beyond one million barrels a day later this year, but the poor state of the industry after many years of neglect and sanctions probably limits the near-term upside.</p>
+      <p>With all this new supply, it’s not surprising that the OPEC+ group has returned to cutting production in an effort to support prices. Indeed, Saudi Arabia is so concerned about risks to the market that it recently pledged an additional cut of one million barrels a day for July—with the potential to extend the cut beyond July if necessary.</p>
+      <p>The saving grace may be strong demand growth—maybe. Many forecasters expect robust demand growth this year, driven by China’s reopening after last year’s zero-Covid shut-downs. The IEA and OPEC both expect global demand to rise by about 2.4 million barrels a day this year.</p>
+      <p>With robust demand growth, the IEA says that the latest OPEC+ production cuts could push the oil market into a large deficit over the second half of the year, resulting in large inventory withdrawals—and, by extension, the risk of significantly higher prices.</p>
+      <p>But that’s where the “maybe” comes in. The recovery of Chinese demand has been slower and weaker than expected, with the national company CNPC recently lowering its Chinese oil demand forecast.</p>
+      <p>Furthermore, many analysts believe that the risks of a recession in the U.S. and elsewhere are significant—with related downside risks for oil demand.</p>
+      <p>So maybe OPEC+ is overreacting to supply threats including Iran, and maybe it isn’t. Certainly from a producer’s perspective, the group’s caution—and Saudi Arabia’s proactive voluntary cuts—would seem appropriate.</p>
+      <p>And if they’re wrong—well, what producer ever complained about high prices?</p>
+    </div>
+  },
+  {
     id: 546,
     title: 'Gold set for weekly drop as traders assess US rate outlook',
     category: 'Commodities',
