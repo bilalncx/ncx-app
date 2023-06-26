@@ -1,5 +1,78 @@
 const data = [
   {
+    id: 553,
+    title: 'GBP/USD Weekly Forecast – British Pound Pulls Back From 200-Week EMA',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has pulled back during the course of the week, after initially touching the 200-Week EMA.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 7:26 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-745.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The British pound has pulled back during the course of the week, after initially touching the 200-Week EMA. This is interesting, considering that the Bank of England raised interest rates by 50 basis points this past week, instead of the expected 25.</p>
+	    <p>In other words, you would have thought that the market was going to take off to the upside, but clearly had not. With this, we now start to focus on the 1.2650 level, which was an area of significant resistance previously, and now is significant support. With this, I think it’s probably only a matter of time before you get some type of reaction.</p>	
+	    <p>Even if we don’t, there is another support level near the 1.2350 level, which is also where the 50-Week EMA hangs about. That obviously would be an area of support as well, and therefore I think you would have to think that the market would eventually find buyers in that region. However, if we were to break down below that level, then there’s a real chance that the market breaks down for a longer-term move.</p>	
+	    <p>That being said, if we turn around and take out the highs of the last couple of days, then it’s likely that we go looking to the 1.30 level, which is my target longer-term, unless things change.</p>
+      <p>That being said, the fact that we broke down after the surprise interest rate does perhaps give me a lot of concerns, due to the fact that the market did the exact opposite of what you would expect. In general, this is a situation where we have to be very cautious, but we do have these levels of pay close attention to.</p>
+    </div>
+  },
+  {
+    id: 552,
+    title: 'EUR/USD Weekly Forecast – Euro Continues to See a Lot of Noisy Behavior',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro has been noisy as of late, and it does make a certain amount of sense that we continue to see a lot of volatility as we are between the crucial 200-Week EMA above and the 50-Week EMA below.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 7:17 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-744.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Weekly Technical Analysis</h3>
+	    <p>The euro has been noisy as of late, and it does make a certain amount of sense that we continue to see a lot of volatility as we are between the crucial 200-Week EMA above and the 50-Week EMA below.</p>
+    	<p>The candlestick itself shows quite a bit hesitation, as the previous week was so bullish, we are now trying to figure out what to do going forward. After all, the European Union seems to be entering some type of recession, while at the same time we have the inflationary concerns worldwide.</p>	
+    	<p>When you look at this chart, you can see just how noisy things have been as of late, and it does look like we are trying to form some type of “rising wedge.” Because of this, we could get a correction, but the 200-Week EMA above is a major resistance barrier.</p>	
+    	<p>All things being equal, I think we are trying to figure out whether or not the Federal Reserve will continue to tighten, and the fact that Jerome Powell continues to reiterate that argument is something that traders should be paying attention to.</p>
+      <p>With this, I do think that there is some downside risk, but whether or not we can truly break down remains to be seen. I think there are so many different people out there pushing so many different narratives that the market is going to continue to struggle.</p>
+      <p>Ultimately, position sizing will be crucial, but I think this is more or less going to be a scenario where you’re probably better off trading more of a range bound short-term chart than anything else.</p>
+    </div>
+  },
+  {
+    id: 551,
+    title: 'AUD/USD Weekly Forecast – Australian Dollar Plunges',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has plunged during the course of the week as we continue to worry about the overall growth of the global economy.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 23, 2023 - 7:07 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-743.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The Australian dollar has plunged during the course of the week as we continue to worry about the overall growth of the global economy. All things being equal, this is a market that I think will continue to move back and forth with the idea of whether or not we can strengthen economically. The 0.66 level being broken to the downside opens up the possibility of a move down to the 0.65 level, and then eventually the 0.64 level.</p>
+    	<p>Looking at the weekly chart and most certainly the daily chart, you can see just how crazy the volatility has become, therefore I don’t have any interest in trying to get too cute with this market.</p>	
+    	<p>We are still very much in a downtrend, but it’s also worth noting the recent reversal due to the Reserve Bank of Australia doing a surprise interest rate hike, shocking the market to say the least.</p>	
+    	<p>With this, I think it’s probably only a matter of time before the market turns things back around, and if Jerome Powell continues to be very hawkish, that obviously could be a major influence.</p>
+      <p>However, I think the only thing you can count on at this point in time is going to be a lot of noisy behavior, so be aware of that and understand the fact that we have a lot of confusion out there and it’s difficult to imagine a scenario where longer-term traders are going to have an easy go at this. It is because of this that I look at this more or less from a consolidation range on the daily chart.</p>
+    </div>
+  },
+  {
     id: 550,
     title: 'Indian rupee drops, but clings to 82/$ on portfolio inflows',
     category: 'Forex',

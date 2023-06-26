@@ -1,5 +1,126 @@
 const data = [
   {
+    id: 544,
+    title: 'LIVE: FTSE 100 and European stocks mixed as Primark-owner ABF lifts profit outlook',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Primark', 'APF'],
+    description: <div className="blog-desc">
+      <p>European stocks and the FTSE 100 were mainly lower on Monday as Primark-owner Associated British Foods (ABF.L) raised its profit outlook after lifting prices.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 1:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-746.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>European stocks and the FTSE 100 were mainly lower on Monday as Primark-owner Associated British Foods (ABF.L) raised its profit outlook after lifting prices.</p>
+    	<p>Sales across the group have grown 17% so far this year, and were up 16% in the third quarter. ABF reported a 13% rise in Primark sales in its latest quarter.</p>	
+    	<p>Meanwhile, the uncertain economic outlook continues to weigh on investors after the Bank of England raised interest rates by half a point last week, following the Fed and other central banks in increasing borrowing costs.</p>	
+    	<h3>FTSE 100 and European stocks</h3>
+      <p>The FTSE 100 (^FTSE) was down 0.05% to 7,458.43 points. The CAC 40 (^FCHI) in Paris fell 0.06% to 7,158.98 points, while in Germany, the DAX (^GDAXI) edged up 0.01% to 7,158.98 points.</p>
+      <h3>US and Asia markets</h3>
+      <p>The main US indices closed in the red on Friday after disappointing data added to hesitance in the markets following more interest rate hikes by central banks.</p>
+      <p>The Dow Jones (^DJI) fell 0.65% to 33,727.43 points, the S&P 500 (^GSPC) lost 0.77% to close at 4,348.33 points, while the tech-heavy NASDAQ (^IXIC) dipped by 1.01% to 13,492.52.</p>
+      <p>In Asia, the markets were lower overnight. Tokyo’s Nikkei 225 (^N225) fell 0.25% to 32,698.81 points, while the Hang Seng (^HSI) in Hong Kong lost 0.41% to 18,811.65. In mainland China, the Shanghai Composite (000001.SS) declined by 1.50% to 3,149.80 points.</p>
+      <h3>Pound</h3>
+      <p>The pound to dollar exchange rate (GBPUSD=X) rose to 1.27 in early trade, meaning £1 will get you $1.27. Meanwhile the pound to euro exchange rate (GBPEUR=X) fell to 1.16.</p>
+      <h3>Oil markets</h3>
+      <p>Oil prices rose in early trade on Monday as output cuts offset demand concerns stemming from weak Chinese export data.</p>
+      <p>US crude oil, or West Texas Intermediate (CL=F), gained 0.85% to trade at $69.75 a barrel, while Brent crude (BZ=F) rose 0.97% to $74.57 a barrel.</p>
+      <h3>Trending tickers</h3>
+      <p>AB Foods (ABF.L), Cineworld (CINE.L), Aston Martin Lagonda (AML.L) and BAE Systems (BA.L) are among the stocks investors are watching today, as Yahoo Finance's Pedro Goncalves reports.</p>
+      <p>Primark owner AB Foods said its sales jumped over the latest quarter amid higher prices, and was now upgrading its full-year profit expectations.</p>
+      <p>Primark posted a 13% increase in sales to £1.99bn ($2.5bn) for the 12 weeks to 27 May 2023, while like-for-like sales were up 7%, which it credited to “higher average selling prices”.</p>
+      <p>Troubled cinema chain Cineworld has said it will file for administration in the UK as part of a restructuring plan that is set to wipe out shareholders.</p>
+      <p>The world’s second largest cinema chain said it will apply for administration for the London-listed company in July, which will see shares in the firm suspended.</p>
+      <p>Luxury carmaker Aston Martin has struck an electric vehicle (EV) supply deal to create “industry-leading ultra-luxury high performance electric vehicles.”</p>
+      <p>As part of the agreement, US-based EV maker Lucid will supply Aston Martin with select powertrain components for initial and some future battery-electric models. Shares jumped 10%.</p>
+      <p>While BAE Systems was the biggest faller on the FTSE 100 (^FTSE) index in London, down 3% as shares in European defence companies fell after the apparent Wagner 'mutiny' in Russia.</p>
+      <h3>Asia economic outlook</h3>
+      <p>ANZ Research has trimmed its GDP growth forecasts for 2023 to reflect the ongoing weakness in economic activity in China.</p>
+      <p>“We have trimmed our GDP growth forecast for the region to 4.6 % in 2023, from 4.9% previously. The downgrade primarily resides in China’s economy, whose growth we have marked down to 4.9%, from 5.4% previously. The economic data from China spanning PMI, private sector investment and youth employment have been unusually weak, confirming a short-lived post-pandemic re-opening bounce.</p>
+      <p>“The changes to growth forecasts in Asia ex-China are minimal. In fact, GDP growth in some economies surpassed expectations in Q1 2023 owing to sustained strength in household consumption and an improving contribution from ‘net exports’. India’s growth deviated slightly from this pattern in that household consumption remained sub-par,” ANZ said in a report sent to clients on Monday.</p>
+      <h3>ECB Forum on Central Banking 2023</h3>
+      <p>Traders will also be keeping across the European Central Bank (ECB) Forum on Central Banking which starts in Portugal this evening for any suggestions on where interest rates may go next.</p>
+      <p>European Central Bank president, Christine Lagarde, will be delivering the opening remarks and there will be a speech by Gita Gopinath, the first deputy managing director at the International Monetary Fund (IMF).</p>
+      <p>The ECB lifted interest rates by another quarter-point on 15 June and Lagarde described a further hike in July as “very likely.”</p>
+      <p>The forum will end on 28 June.</p>
+      <h3>Lidl injunction allowed against Tesco</h3>
+      <p>London's High Court has granted Lidl permission to have an injunction to stop Tesco copying its logo.</p>
+      <p>In April, Tesco lost a trademark lawsuit brought by its supermarket rival after adopting a yellow circle against a blue background to promote its "Clubcard Prices" discount scheme.</p>
+      <p>The judge said Tesco would have nine weeks to remove all Clubcard Prices logos once the proceedings are over, if Tesco is unsuccessful on appeal.</p>
+      <h3>Average mortgage rates rise</h3>
+      <p>The average two-year fixed residential mortgage rate is 6.23% - up from 6.01% this time last week, while the average five-year fixed residential mortgage is 5.86%, from 5.67% a week ago, according to new data from Moneyfacts.</p>
+      <p>It comes after the Bank of England (BoE) increased UK interest rates for a thirteenth consecutive time last week, announcing a 0.5% hike to 5%. Rates are now at a 15-year high as the Bank looks to combat high inflation and cool the cost of living crisis.</p>
+      <h3>'Fed on track for July rate hike'</h3>
+      <p>Federal Reserve Chair Jerome Powell speaks during a news conference to discuss an announcement from the Federal Open Market Committee, in Washington. Photo: AP.</p>
+      <p>US Federal Reserve chair Jerome Powell struck a hawkish chord with lawmakers last week telling them the central bank will do what it takes to get inflation down to 2%, which will likely require two more 25bp rate hikes.</p>
+      <p>Powell said he hadn’t seen much tightening in credit conditions flowing on from recent bank failures, but he will be watching matters closely.</p>
+      <p>"This latest instalment of the Dallas Fed’s Banking Conditions Survey, out this week, will test his thesis," an ANZ Research note said on Monday.</p>
+      <p>ANZ also highlighted that US PCE inflation data will be in focus this week.</p>
+      <p>"Headline PCE inflation is expected to ease to 0.1% m/m in May from 0.4% in April. Core services ex-housing has been sticky at an elevated level for some time. Nominal personal income and spending are likely to increase by 0.4% and 0.2% respectively.</p>
+      <p>"Durable goods orders are expected to decline by 1% m/m in May after a 1.1% rise in April mainly driven by a jump in defence aircraft orders. New home sales are expected to decline in May after two consecutive months of gains in month-on-month terms," ANZ said.</p>
+      <h3>"Stock markets undented by Russia 'mutiny'"</h3>
+      <p>Yevgeny Prigozhin, the owner of the Wagner Group military company, pictured in Moscow, Russia, on April 8, 2023. Photo: AP.</p>
+      <p>Some media outlets reported at the weekend that Wagner boss Yevgeny Prigozhin had turned on Russian president Vladimir Putin and attempted a mutiny. However, numerous experts highlighted that the 'mutiny' may have all been orchestrated and part of Putin's plan.</p>
+      <p>Michael Bociurkiw, a senior fellow at the Atlantic Council, told Sky News that the exile of Prigozhin to Belarus may mask future "lethal" events.</p>
+      <p>He said: "We cannot dismiss the possibility that this was actually an orchestrated event by the Kremlin — perhaps to do some house cleaning of top officials, but also to test the loyalty of people in the military, of other officials."</p>
+      <p>Meanwhile, Russ Mould, investment director at AJ Bell, said the 'uprising' in Russia could have sent shockwaves across equity and commodity markets but the apparent U-turn has meant only marginal volatility rather than a full-blown correction.</p>
+      <p>“Brent Crude had fallen by more than 4% over the past five days on fears about global economic weakness and how that would negatively impact demand. However, the oil price jumped 0.8% to $74.41 per barrel on Monday as markets contemplated a new period of uncertainty for supply," he said.</p>
+      <h3>Aston Martin shares climb</h3>
+      <p>Shares in Aston Martin rose nearly 11% on Monday after the luxury carmaker confirmed it is entering into a strategic supply agreement with Lucid Group to manufacture high performance electric vehicles.</p>
+      <p>Russ Mould, investment director at AJ Bell, said: “Aston Martin shares continued their strong run, now up more than 130% year-to-date. Driving the latest rally is a deal with US group Lucid to make high performance electric vehicles. Lucid is to supply powertrain components in exchange for $232m cash and 28.4 million shares, making it a 3.7% shareholder in Aston Martin.</p>
+      <p>“It’s the latest in a string of strategic initiatives designed to make the iconic British car maker more relevant in the modern age, having recently struck a partnership with Geely to access technologies and components and have a bigger foot in the door in China.”</p>
+      <h3>Mortgage help for home owners</h3>
+      <p>The UK chancellor held crisis talks with mortgage lenders on Friday to help manage the spiralling costs for home owners.</p>
+      <p>Among other measures, he said that lenders had agreed to allow borrowers to extend the term of their mortgages or move to an interest-only plan temporarily.</p>
+      <p>On Sunday, prime minister Rishi Sunak said Britons should "hold our nerve" on high interest rates. He added there is "no alternative" to quelling inflation.</p>
+      <h3>Hunt meeting regulators</h3>
+      <p>UK chancellor Jeremy Hunt is set to meet a group of regulators this week to examine what they are doing about companies exploiting rapid inflation.</p>
+      <p>As Lucy Harley-McKeown reports, he will meet the Competition and Markets Authority (CMA), alongside Ofgem, Ofwat and Ofcom on Wednesday, to combat both existing and future price rises for consumers in response to claims that companies are profiteering at a time when consumers are struggling.</p>
+      <p>The news comes as the rate of inflation in the UK remains at 8.7%.</p>
+      <p>Last week, the Bank of England raised interest rates again to a 15-year high, from 4.5% to 5%, to try to bring it under control.</p>
+      <h3>Economic data</h3>
+      <p>The German IFO business Climate number, which measures the state of Germany's business environment on a monthly basis, confirmed more weakness this morning.</p>
+      <p>It fell to 88.4 in June from 91.5 in May (revised from 91.7), weaker than the market expectation of 90.7.</p>
+      <p>"Traders were already worried about the slowdown in the economic activity in the Eurozone and the hawkish monetary policy adopted by the ECB. The fact that today’s number has confirmed that the economic engine of the Eurozone is running out of gas is a matter of grave concern for investors," Naeem Aslam, chief investment officer at Zaye Capital Markets, said.</p>
+    </div>
+  },
+  {
+    id: 543,
+    title: 'Stock market today: Global shares decline after armed rebellion quelled in Russia',
+    category: 'Indices',
+    subCategory: ['Stock Market', 'Global', 'Russia'],
+    description: <div className="blog-desc">
+      <p>TOKYO (AP) — Global shares mostly fell Monday after a short-lived armed rebellion in Russia added to uncertainties over the war in Ukraine.</p>
+    </div>,
+    authorName: 'YURI KAGEYAMA',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 8:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-747.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>TOKYO (AP) — Global shares mostly fell Monday after a short-lived armed rebellion in Russia added to uncertainties over the war in Ukraine.</p>
+    	<p>France's CAC 40 dipped 0.4% in early trading to 7,135.23. Germany's DAX slipped 0.2% to 15,797.27. Britain's FTSE 100 fell 0.8% to 7,403.10. The futures for the Dow Jones Industrial Average and S&P 500 futures were down 0.2%.</p>	
+    	<p>The rebellion by mercenary soldiers who briefly took over a Russian military headquarters on an ominous march toward Moscow was over. But the brief weakened President Vladimir Putin just as his forces were facing a fierce counteroffensive in Ukraine.</p>	
+    	<p>Yevgeny Prigozhin and his Wagner troops were some of Russia’s most effective fighters in Ukraine. Their aborted takeover of the capital also left their fate uncertain.</p>
+      <p>Tim Waterer, chief market analyst at KCM Trade, said such geopolitical uncertainties have set off a cautious mood.</p>
+      <p>“On the back of recent hawkish central bank moves amid high inflation and low growth environments, investors are now also having to factor in the chance of escalation on the geopolitical side of things, which is adding another layer of uncertainty to the equation,” he said.</p>
+      <p>Investors have been rattled, also by signs that Europe’s economy appears to be weaker than expected and by still more interest rates by central banks as they try to get inflation under control. High rates drive down inflation by slowing economic activity, which raises risks of recession.</p>
+      <p>In Asian trading, Japan's benchmark Nikkei 225 lost nearly 0.3% to finish at 32,698.81. South Korea's Kospi rose 0.5% to 2,582.20. Hong Kong's Hang Seng was down 0.5% to 18,794.13, while the Shanghai Composite, reopening after a holiday, dropped 1.5% to 3,150.62. Australia’s S&P/ASX 200 shed 0.3% to 7,078.70.</p>
+      <p>“We have a slowing U.S. economy, a slowing global economy, all with on-going extreme inflation and high and going higher interest rate levels. There is no bullish stock market scenario here,” said Clifford Bennett, chief economist at ACY Securities.</p>
+      <p>High interest rates in the United States have already dragged manufacturing and other industries into contraction, while also helping to cause several failures in the banking system that rattled confidence.</p>
+      <p>Federal Reserve Chair Jerome Powell said last week that even though his central bank didn’t raise rates last week, it could still push through a couple more hikes by the end of this year.</p>
+      <p>A preliminary report last week indicated the overall U.S. economy continues to grow, even though manufacturing is shrinking and its output fell to a five-month low.</p>
+      <p>In energy trading, benchmark U.S. crude rose 11 cents to $69.27 per barrel in electronic trading on the New York Mercantile Exchange. It fell 35 cents to $69.16 on Friday. Brent crude, the international standard, gained 15 cents to $74.16 a barrel.</p>
+      <p>In currency trading, the U.S. dollar fell to 143.14 Japanese yen from 143.58 yen. The euro cost $1.0898, inching down from $1.0903.</p>
+    </div>
+  },
+  {
     id: 542,
     title: 'S&P 500 Giants Lead Stocks Near Buy Points; Can They Hold Up Amid The Market Pullback?',
     category: 'Indices',
