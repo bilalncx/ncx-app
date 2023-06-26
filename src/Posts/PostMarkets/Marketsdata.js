@@ -1,5 +1,157 @@
 const data = [
   {
+    id: 560,
+    title: 'Dow Jones Reverses After Last Weeks Losses; Tesla Stock Slides On Another Downgrade',
+    category: 'Markets',
+    subCategory: ['Dow Jones', 'tesla', 'stock'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average again moved lower Monday, falling after last week's stock market losses. Google-parent Alphabet (GOOGL) and Tesla stock dropped on analyst downgrades.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 6:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-752.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average again moved lower Monday, falling after last week's stock market losses. Google-parent Alphabet (GOOGL) and Tesla stock dropped on analyst downgrades.</p>
+    	<p>On the economic front this week, new home sales are due Tuesday. Pending home sales are expected Thursday, along with first-time unemployment claims.</p>	
+    	<p>Friday's personal income and outlays report for May will shed some light on how consumer spending is holding up, and it will update the Federal Reserve's favorite inflation indicator: the personal consumption expenditures price index.</p>	
+    	<p>Cruise-ship operator Carnival (CCL) declined 7% after reporting earnings Monday morning. CCL stock closed Friday sharply above a 12.62 cup-base buy point.</p>
+      <p>Later this week, Dow Jones stocks Nike (NKE) and Walgreens (WBA) will report their quarterly results. Nike earnings are out Thursday, while Walgreens will report Tuesday.</p>
+      <h3>Stock Market Today: Alphabet, Tesla Downgraded</h3>
+      <p>Alphabet shares traded down 1.1% early Monday after UBS downgraded the stock from buy to neutral. The firm raised its price target from 123 to 132. Meanwhile, electric-vehicle giant Tesla (TSLA) skidded more than 2% Monday after Goldman Sachs downgraded the stock from buy to neutral, upping the price target to 248 from 185.</p>
+      <p>Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were mixed after today's stock market open.</p>
+      <p>Chipotle Mexican Grill (CMG), McKesson (MCK), MongoDB (MDB) and Roku (ROKU) — as well as Dow Jones stocks JPMorgan Chase (JPM) and Salesforce (CRM) — are among the best stocks to watch in the ongoing stock market pullback.</p>
+      <p>Tesla is an IBD Leaderboard stock. McKesson is an IBD SwingTrader stock, while Chipotle featured as Wednesday's Stock Of The Day as well as in the latest Stocks Near A Buy Zone column.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Monday's opening bell, the Dow Jones Industrial Average fell 0.2%, while the S&P gained 0.2%. And the tech-heavy Nasdaq composite climbed 0.5% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded up 0.5%, while the SPDR S&P 500 ETF (SPY) moved up 0.2% early Monday.</p>
+      <p>The 10-year U.S. Treasury yield ticked lower to 3.71%. The yield recently has been bobbing in a range between 3.57% and 3.85%, settling lower Friday at 3.73%.</p>
+      <p>Oil prices bounced modestly Monday morning, rebounding after last week's losses, but remain near their recent lows. West Texas Intermediate futures rose nearly 1%, to around $69.50 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Friday, the Dow Jones Industrial Average dropped nearly 0.7%, while the S&P 500 lost 0.8%. The tech-heavy Nasdaq composite fared the worst, down 1%.</p>
+      <p>Friday's Big Picture column commented, "While the market is pulling back, action remains constructive. Taking a breather now means the indexes can gather strength for further advances. Due to this, IBD continues to recommend 60% to 80% exposure. But this is a good opportunity to look over your portfolio and perhaps lock in some profits in your big winners."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market remains in an uptrend but is pulling back.</p>
+      <h3>Dow Jones Stocks To Watch: JPMorgan, Salesforce</h3>
+      <p>Dow Jones banking leader JPMorgan is about 3% below a 143.37 flat-base buy point after Friday's 0.5% drop. Shares are right at their 50-day line. JPM stock rose 0.3% early Monday.</p>
+      <p>Salesforce managed to steady itself after a post-earnings slump. It is now testing support at the 21-day exponential moving average. The megacap tech previously moved past a pair of alternative entries at 194.01 and at 200.10, according to IBD Leaderboard analysis.</p>
+      <p>In recent weeks, shares reached the 20% profit zone from a 178.94 cup-with-handle entry, and are now trying to bounce from support at the 10-week line. CRM stock moved down 0.4% Monday morning.</p>
+      <h3>Best Stocks To Buy And Watch: Chipotle, McKesson, MongoDB, Roku</h3>
+      <p>IBD Leaderboard watchlist stock Chipotle is rebounding from its 10-week line and building a flat base with a 2,139.88 buy point, according to IBD MarketSmith pattern recognition. Chipotle was Wednesday's IBD Stock Of The Day. CMG stock rose 0.2% Monday morning.</p>
+      <p>IBD SwingTrader stock McKesson is in buy range past a 401.53 cup-with-handle entry. The 5% buy zone goes up to 421.61. Shares were up 0.3% Monday.</p>
+      <p>MongoDB is trading tightly after its recent earnings-fueled gap up, offering a new entry. The three-weeks-tight formation shows a buy point at 398.89, while aggressive investors could use a trendline entry around 386. MDB stock fell 1.6% Monday morning.</p>
+      <p>Streaming giant Roku is building a cup-with-handle base with a 75.45 buy point, according to IBD MarketSmith pattern recognition, even as the stock extended a losing streak to seven sessions Friday. Roku shares are trying to halt their slide around their 50-day line, a key support level to watch. The stock fell 1% early Monday.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla skidded 3% Friday after a third analyst downgrade in as many days. Shares remains sharply extended above a double-bottom base's 207.79 buy point. They closed Friday 18% off their 52-week high.</p>
+      <p>TSLA stock threatened to add to Friday's losses, paring losses to just 0.1% Monday. Last week, shares snapped a five-week win streak, declining 1.5% on the week.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock hit an all-time high Friday before reversing 0.2% lower. Last week, shares traded as high as 187.56. The stock continues to hold well above a 157.38 buy point. Early Monday, AAPL stock was up 0.4%.</p>
+      <p>Microsoft shares slid 1.4% Friday, continuing a recent pullback. Last week, the stock hit a record high at 351.47. Despite the recent losses, MSFT stock remains in the 20% to 25% profit-taking zone from a 276.76 flat-base buy point, so investors can take at least some profits. And on Monday morning, Microsoft shares were off 0.2%.</p>
+    </div>
+  },
+  {
+    id: 559,
+    title: 'Siemens Energy share sell-off deepens, takes market value loss to $8 billion',
+    category: 'Markets',
+    subCategory: ['Siemens', 'energy', 'market'],
+    description: <div className="blog-desc">
+      <p>FRANKFURT (Reuters) -Siemens Energy shares fell for a second consecutive session on Monday, hit by a raft of target price cuts and rating downgrades in the wake</p>
+    </div>,
+    authorName: 'Christoph Steitz',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 4:31 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-753.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Christoph Steitz</p>
+    	<p>FRANKFURT (Reuters) -Siemens Energy shares fell for a second consecutive session on Monday, hit by a raft of target price cuts and rating downgrades in the wake of deeper-than-expected problems at its wind turbine division that emerged last week.</p>	
+    	<p>It share price was down 3.3% at 1252 GMT, at the bottom of Germany's blue-chip DAX index, taking the group's loss in market valuation to 7.4 billion euros ($8.1 billion) since it scrapped its profit outlook late on Thursday.</p>	
+    	<p>"We are now waiting for the full results of the analysis before drawing any further conclusions," a spokesperson for the company said in response to a query from Reuters.</p>
+      <p>Citi cut the company to "neutral" from "buy" while Jefferies downgraded to "hold" from "buy", following the group's withdrawal of its 2023 profit guidance and the more than 1 billion euros it says it will cost to fix the issues.</p>
+      <p>"After the warning, while the stock is now over one-third cheaper, investor confidence in the turnaround has been severely impacted, not just because of difficult-to-quantify risks around fixing past deliveries, but also because of the lack of visibility at (Siemens Gamesa)," Citi analysts wrote.</p>
+      <p>They said depending on whether reliability issues could be contained or not, a price per share of anywhere between 11 and 34 euros was possible, adding it was key what Siemens Energy would say during third-quarter results on Aug. 7.</p>
+      <p>Its shares on Monday traded around 14 euros apiece, the lowest level in seven and a half months.</p>
+      <p>Siemens Energy was forced to publish a brief ad hoc statement late on Thursday based on limited information, withdrawing its profit outlook after it became apparent that the issues would incur costs of more than 1 billion euros.</p>
+      <p>($1 = 0.9162 euros)</p>
+      <p>(Reporting by Christoph Steitz; editing by Matthias Williams and Emelia Sithole-Matarise)</p>
+    </div>
+  },
+  {
+    id: 558,
+    title: 'German central bank risks bailout after money printing spree',
+    category: 'Markets',
+    subCategory: ['German', 'Central', 'Bank'],
+    description: <div className="blog-desc">
+      <p>Germany’s central bank may need a bailout to cover losses on the debt it hoovered up as part of the European Central Bank’s (ECB) massive bond-buying programme,</p>
+    </div>,
+    authorName: 'Szu Ping Chan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 2:56 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-754.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Germany’s central bank may need a bailout to cover losses on the debt it hoovered up as part of the European Central Bank’s (ECB) massive bond-buying programme, the country’s federal auditor has warned.</p>
+    	<p>The Bundesrechnungshof said losses faced by the Bundesbank on more than €650bn (£570bn) of bond purchases were “substantial” and “could necessitate a recapitalisation with budgetary funds”.</p>	
+    	<p>The critical report of the ECB’s so-called public sector purchase programme (PSPP) – akin to quantitative easing in the UK and US – throws future bond-buying sprees to prop up the single currency bloc in doubt.</p>	
+    	<p>Economists have blamed bond-buying programmes for stoking inflation amid a series of negative supply shocks that have increased the risk of economies overheating.</p>
+      <p>Steep rate hikes by the ECB meant that the Bundesbank suffered a €1bn hit to its bond holdings last year alone.</p>
+      <p>This is because the central bank is now paying more in interest to commercial banks on deposits at the Bundesbank than the interest it earns on its stockpile of bonds. The ECB started reducing the size of its balance sheet this spring.</p>
+      <p>The losses are similar to those seen in the UK, where the Bank of England has estimated that transfers between the Treasury and the Bank will amount to around £30bn annually over the next three years alone.</p>
+      <p>Unlike in Germany, losses on the Bank’s stockpile of bonds are automatically covered by the taxpayer under a deal struck by former Chancellor Alistair Darling to indemnify the Bank when bond-buying during the financial crisis.</p>
+      <p>Joachim Nagel, president of Germany’s central bank, warned back in March that the “burdens on the Bundesbank’s profit and loss account are likely to increase considerably in the years to come”.</p>
+      <p>He noted that the Bundesbank’s €19.2bn war chest of provisions was likely to be wiped out in future years. The Bundesbank also has a separate emergency fund of €2.5bn it can tap into if needed.</p>
+      <p>Mr Nagel said that while its buffers would be sufficient to cover losses this year, he warned that in subsequent years, “the burdens will probably exceed our financial buffers”.</p>
+      <p>In a statement to the Financial Times, which first reported the auditor’s warning, the German finance ministry said it had a “different assessment” to the federal auditor of the risks to the budget arising from the Bundesbank’s actions. It insisted that it was “highly unlikely” that losses from the Bundesbank’s monetary policy operations would “put a strain on the federal budget”.</p>
+      <p>Mr Nagel has also noted that he expects losses to be carried forward on the Bundesbank’s balance sheet, and covered by future profits over “the course of time – as was already done in the 1970s”.</p>
+      <p>He added: “The Bundesbank’s balance sheet is sound.”</p>
+      <p>It came as a separate survey suggested Germany risks staying mired in recession this year after a closely-watched barometer of business activity slumped in June.</p>
+      <p>The closely-watched Ifo business climate index fell to 88.5 in June following May’s reading of 91.5, led by a “substantial” decline in manufacturing. This is the lowest reading since November 2022, coming in the wake of a surge in energy costs, and is well below analysts’ expectations for a fall to 90.7.</p>
+      <p>All sectors of the German economy suffered a decline, according to the survey, which noted that in manufacturing “the business climate deteriorated substantially”. It added: “Hardly any industry has been left untouched by this development.”</p>
+      <p>Carsten Brzeski at ING said the collapse in activity suggested that “the rebound of the German economy has ended before it ever really began”.</p>
+      <p>He added: “Today’s disappointing Ifo index reading suggests that the hoped-for rebound of the German economy is nothing more than hope. Optimism is fading and the economy faces new growth concerns.</p>
+      <p>We are not saying that the economy will be stuck in recession for the next couple of years, but with several short and long-term challenges, growth will remain subdued at best.”</p>
+    </div>
+  },
+  {
+    id: 557,
+    title: 'Amazon may be the largest US retailer in 2024, according to JPMorgan analysts',
+    category: 'Markets',
+    subCategory: ['Amazon', 'US', 'JPMorgan'],
+    description: <div className="blog-desc">
+      <p>Amazon (AMZN) is set to hit a major milestone in 2024: Becoming the largest retailer in the US, according to JPMorgan analysts Doug Anmuth and Bryan M. Smilek.</p>
+    </div>,
+    authorName: 'Alexandra Garfinkle',
+    authorurl: 'https://www.yahoo.com/author/allie-garfinkle/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 25, 2023 - 6:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-755.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Amazon (AMZN) is set to hit a major milestone in 2024: Becoming the largest retailer in the US, according to JPMorgan analysts Doug Anmuth and Bryan M. Smilek.</p>
+    	<p>If this comes to pass, Amazon will be unseating Walmart (WMT) as the country's largest retailer. It would be a seismic shift, one driven by increased e-commerce penetration, faster delivery times, and the stickiness of Amazon Prime.</p>	
+    	<p>JPMorgan estimates show that, in 2023, Amazon's gross merchandise volume, or GMV, will grow 11.6% year-over-over to $477 billion.</p>	
+    	<p>This kind of growth shows the sort of resilience that Wall Street has been hoping to see out of e-commerce businesses, which had a tough 2022. Though e-commerce businesses like Amazon saw major booms during the pandemic, last year saw a pullback.</p>
+      <p>It was the first year since 2009 that US e-commerce grew less than 10%, the analysts noted, adding just 8.5% year-over-year, "likely driven by macro pressures, the resurgence of [brick-and-mortar] retailers, and the shift toward omnichannel retail following the pandemic," Anmuth and Smilek wrote on June 20.</p>
+      <p>This year, Amazon's GMV is growing due to "solid growth in under-penetrated categories" like grocery and apparel, "faster delivery speeds, with 2023 tracking toward Amazon’s fastest delivery speeds ever," and the "Prime flywheel," the idea that the company's much-discussed subscription service builds momentum at every step in the experience, the analysts wrote.</p>
+      <p>Amazon's e-commerce business will also benefit from increased business-to-business capabilities, new fintech offerings like Buy With Prime, and estimated growth in the number of third-party sellers operating in the company's marketplace, they added.</p>
+      <p>JPMorgan estimates that there will be about 300 million Prime members globally by the end of this year. In 2021, then-CEO Jeff Bezos said the company had "more than 200 million Prime members worldwide."</p>
+      <p>Amazon also has a massive grip on the e-commerce marketplace and, at the end of 2023, JPMorgan analysts expect the company's e-commerce market share to be 42.2%, an increase of 106 basis points year-over-year.</p>
+      <p>JPMorgan's bullishness on Amazon also ties back to the belief that the company will leverage generative AI in its e-commerce operations, suggesting that a "ChatGPT-style product search would create an interactive conversational experience" which the analysts believe would "enable Amazon other retailers to provide a more personalized customer experience" and that AI could also "could enable Amazon and other retailers to leverage a breadth of customer purchase history and data and enhance personalized recommendations."</p>
+      <h3>Big tech government scrutiny</h3>
+      <p>There's a catch, however: in recent months, so-called "big tech" companies, Amazon included, are seeing increased scrutiny from the federal government. Vermont Sen. Bernie Sanders said he is investigating what he called Amazon's "abysmal safety record" and, though it's far from the first time Sanders has gone after Amazon, it's certainly one of the most formal, and is unlikely to be the last.</p>
+      <p>Additionally, last week the Federal Trade Commission (FTC) sued Amazon, alleging that the company has been tricking customers into signing up for Amazon Prime and making it harder to cancel those subscriptions.</p>
+      <p>The lawsuit is the byproduct of an FTC investigation that began back in 2021. For Amazon, it's a gut-punch of a lawsuit, alleging that the company violated several consumer protection laws and that the court should issue an injunction to stop Amazon's Prime subscription practices.</p>
+      <p>This new Amazon lawsuit comes on the heels of FTC actions against many of tech's biggest names, including Alphabet (GOOG), Microsoft (MSFT), Meta (META), and Apple (APPL).</p>
+    </div>
+  },
+  {
     id: 556,
     title: 'Top India ETFs for 2023',
     category: 'Markets',

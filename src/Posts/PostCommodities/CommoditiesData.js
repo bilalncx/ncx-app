@@ -1,5 +1,62 @@
 const data = [
   {
+    id: 549,
+    title: 'Gold Nudges Higher as Investors React to Russia Turmoil',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Investors', 'Russia'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Gold edged higher as investors assessed increasing geopolitical uncertainty and recessionary signals.</p>
+    </div>,
+    authorName: 'Yvonne Yue Li and Mark Burton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 6:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-757.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Gold edged higher as investors assessed increasing geopolitical uncertainty and recessionary signals.</p>
+    	<p>Bullion rose as much as 0.6% on Monday after Russian mercenary leader Yevgeny Prigozhin’s extraordinary mutiny. Still, the upside for the haven was limited after Prigozhin suddenly halted his dramatic advance toward Moscow over the weekend.</p>	
+    	<p>Bullion is more likely to be influenced by real rates and the dollar, and history suggests that rallies fueled by geopolitical risks tend to be short-lived.</p>	
+    	<p>“Gold seems to be trying to price a wide range of possible outcomes all at once, with downside from higher rates and upside from inflation/growth risks,” Morgan Stanley analysts led by Amy Sergeant said in an emailed note. “Although gold has been coming off from the highs, it still looks very strong relative to where yields are.”</p>
+      <p>Gold prices are still trading under the 100-day moving average, a key support level breached earlier this month as prospects for further monetary tightening by US and European central banks remained at the fore.</p>
+      <p>The “sluggish technicals” could see bullion sink to anywhere between $1,875 and $1,880, Citigroup Inc. strategists led by Aakash Doshi said in a note, adding that losses are unlikely to push gold below $1,800.</p>
+      <p>Money managers have been turning positive on gold again, increasing net-long positions by 1.4% in the week ending June 20 after bullish bets plunged nearly 20% in the previous session.</p>
+      <p>Spot gold rose 0.1% to $1,923.62 an ounce as of 10:06 a.m. in New York. Copper was 0.1% higher at $8,397.50 a ton on the London Metal Exchange.</p>
+      <p>--With assistance from Sybilla Gross.</p>
+    </div>
+  },
+  {
+    id: 548,
+    title: 'Oil Climbs As Russia Crisis Rattles Global Energy Markets',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Russia', 'energy'],
+    description: <div className="blog-desc">
+      <p>The short-lived threat to Vladimir Putin's leadership in Russia has oil markets on the move Monday, but demand concerns have limited early gains.</p>
+    </div>,
+    authorName: 'TheStreet.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 3:19 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-756.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The short-lived threat to Vladimir Putin's leadership in Russia has oil markets on the move Monday, but demand concerns have limited early gains.</p>
+    	<p>Global oil prices moved higher Monday, lifting U.S. crude back to near $70 per barrel, as markets reacted to weekend developments in Russia and the threat to President Vladimir Putin's leadership that could disrupt supplies over the coming months.</p>	
+    	<p>A short-lived insurrection by troops under the command of Yevgeny Prigozhin, a long-time Putin ally, ended late Saturday with the Wagner Group leader brokering a move to neighboring Belarus via President Alexander Lukashenko and Russia agreeing not to prosecute any of the soldiers involved in the weekend convoy that was once heading towards Mocsow.</p>	
+    	<p>However, while Putin appears to have maintained his grip on power, questions as to the fate of the nation's army in Ukraine without Wagner support, and the outcome of next month's NATO summit in Vilnius, have added a notable tenor of uncertainty to global markets.</p>
+      <p>"While the immediate supply risks have disappeared, the market will likely have to start pricing in a larger risk premium for oil given the growing instability in Russia," said ING's head of commodity strategy Warren Patterson. "How much of a risk premium will really depend on how the aftermath of the failed insurrection is dealt with."</p>
+      <p>Oil prices, which initially jumped on fears of supply constraints as traders took advantage of last week's 4% decline to add to long positions, pared some of those gains amid focus on demand weakness from China and the ongoing implications from central bank rate hikes around the world.</p>
+      <p>Russia' rouble, meanwhile, fell 3% against the U.S. dollar on Monday, the biggest single-day decline of the year, before rebounding to around 84.59 in late-morning trading in Europe</p>
+      <p>Brent contracts for August delivery, the global pricing benchmark, added 43 cents to trade at $74.28 per barrel while WTI future for the same month, which are tightly-linked to U.S. gasoline prices, rose 34 cents to $69.50 per barrel.</p>
+      <p>U.S. drillers pared the number of active rigs by another 6 units last week, according to late Friday data from oil services group Baker Hughes, taking the overall total to 546, the lowest since April of last year, amid softening demand from China and elsewhere that underscores OPEC's move to extended their collective production cuts until at least the end of the year.</p>
+      <p>Saudi Arabia, the cartel's most influential member, said earlier this month that it will its output by another 1 million barrels per day, starting in July, the Kingdom said following OPEC's weekend meeting in Vienna. Other OPEC members will keep their current cuts of 3.66 million barrels per day, equivalent to around 3.6% of global demand, in place until early 2024.</p>
+      <p>The group will also lower its overall production targets from January 2024 by another 1.4 million barrels per day, lead by efforts from Russia, Nigeria and Angola.</p>
+      <p>While a deterioration in Russia may raise concerns about stability and supply, the short-term outlook continues to focus on the risk of lower-than-expected demand in China, hawkish surprises with larger-than-expected rate hikes from some central banks, and the stronger dollar," Saxo Bank strategists wrote. "But with Russia likely to remain a key focus this week, the downside risks should be limited."</p>
+    </div>
+  },
+  {
     id: 547,
     title: 'Iran’s Oil Supplies Are One More Challenge for OPEC+',
     category: 'Commodities',
