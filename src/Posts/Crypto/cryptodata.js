@@ -1,5 +1,167 @@
 const data = [
   {
+    id: 587,
+    title: 'Binance market share at 1-year low: Kaiko',
+    category: 'Crypto',
+    subCategory: ['Binance', 'Market', 'Kaiko'],
+    description: <div className="blog-desc">
+      <p>Binance’s market share hits near a one-year low as it reels under the pressure of regulatory scrutiny across countries. </p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-749.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Binance’s market share hits near a one-year low as it reels under the pressure of regulatory scrutiny across countries. </p>
+      <ul>
+        <li>Binance’s spot trading market share stood at 55.9% in June 2023, hitting a nearly one-year low.</li>
+        <li>The exchange was facing regulatory action not only in the U.S. but in countries such as France and Belgium as well.</li>
+      </ul>
+    	<p>The market share of the world’s leading cryptocurrency platform, Binance [BNB], was reeling under the pressure of increased regulatory scrutiny not only in the United States, but across several countries.</p>	
+    	<p>According to data from research firm Kaiko, Binance’s spot trading market share stood at 55.9% in June 2023, hitting near a one-year low. The figure is nearly the same as the last two months.</p>	
+    	<p>But the slight dip this month made it hit the lowest point since August 2022, when it was at 53.7%.</p>
+      <p>The trading platform was facing enforcement action at the hands of the U.S. Securities and Exchange Commission (SEC) as the agency filed a lawsuit against the firm and its founder Changpeng “CZ” Zhao early this month.</p>
+      <p>In late March, another U.S. agency, the Commodity Futures Trading Commission (CFTC), also filed a lawsuit against the firm.</p>
+      <p>Binance’s U.S. division lost almost all its market share after the lawsuits from the CFTC and the SEC, Kaiko’s data shows.</p>
+      <h3>Regulatory troubles across countries</h3>
+      <p>Binance is also facing regulatory scrutiny in other countries, such as France and Belgium. While the former is investigating the exchange, the latter has asked Binance to stop its operations in the jurisdiction.</p>
+      <p>Meanwhile, established TradFi institutions such as BlackRock and Wisdomtree have also applied to offer spot Bitcoin exchange-traded funds (BTC ETFs).</p>
+      <p>Binance’s market share hit low also when it stopped a zero-fee promotion in March. It has recently launched a new promotion offer for stablecoins, including True USD [TUSD], Binance USD [BUSD], Tether [USDT] and USD Coin [USDC], beginning 30 June.</p>
+      <p>Despite its declining market share, Binance remained larger than all other cryptocurrency exchanges combined. It was the largest holder of customer tokens at press time, with $59.2 billion in reserves.</p>
+      <p>Another major exchange Coinbase, against which the SEC filed a lawsuit just after it charged Binance, has seen its market share fall to 6.8% in June from 7.6% in January.</p>
+    </div>
+  },
+  {
+    id: 586,
+    title: 'Bitcoin treads water above US$30,000; SEC approves first leveraged Bitcoin futures ETF',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'SEC', 'ETF'],
+    description: <div className="blog-desc">
+      <p>Bitcoin dipped but held above the US$30,000 threshold on Monday morning in Asia, with nearly all other top 10 non-stablecoin cryptocurrencies rising.</p>
+    </div>,
+    authorName: 'Timmy Shen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 26, 2023 - 4:33 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-748.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Bitcoin dipped but held above the US$30,000 threshold on Monday morning in Asia, with nearly all other top 10 non-stablecoin cryptocurrencies rising.</p>
+	    <p>The gains follow a number of traditional financial institutions showing interest in launching crypto-related exchange-traded funds (ETFs), and the U.S. securities regulator approved the first leveraged Bitcoin futures ETFs in the country on Friday. In the NFT market, a whale has been selling off Bored Ape Yacht Clubs.</p>	
+	    <h3>Bitcoin little changed</h3>
+      <p>Bitcoin edged down 0.35% to US$30,444 over the last 24 hours to 7:30 a.m. in Hong Kong, according to data from CoinMarketCap. The world’s largest cryptocurrency by market capitalization rose 15.44% in the past seven days.</p>
+      <p>Ether gained 1.18% to US$1,898, with a 10.32% weekly gain.</p>	
+      <p>Polkadot led gains among the top 10 non-stablecoin cryptocurrencies with a 3.28% 24-hour rise to post a weekly gain of 14.28%. Beside Bitcoin, Litecoin was the only token on the list edging lower, dropping 1.48% over the past 24 hours but up 14.24% for the week.</p>
+	    <p>On Friday, the U.S. Securities and Exchange Commission (SEC) approved the nation’s first leveraged Bitcoin futures ETF offered by Florida-based Volatility Shares, CoinDesk reported. The “2x Bitcoin Strategy ETF” is set to start trading on June 27 on CBOE BZX Exchange, according to the fund’s website.</p>
+      <p>The ETF will not invest directly in Bitcoin but seek to benefit from increases in the price of Bitcoin futures contracts for a single day, according to its prospectus. The fund will correspond to two times the return of the S&P CME Bitcoin Futures Daily Roll index.</p>
+      <p>This comes after BlackRock and WisdomTree recently filed applications with the SEC to launch spot Bitcoin ETFs. The regulator has given a greenlight to a number of futures-based crypto ETFs but has not approved spot products.</p>
+      <p>“The turbulences of 2022 have led to a decline in confidence in crypto-native institutions, presenting traditional financial institutions with a prime opportunity to enter the crypto market,” Jonas Betz, crypto market analyst and founder of consultancy firm Betz Crypto, told Forkast last week.</p>
+      <p>Additionally, New York-headquartered investment bank JPMorgan Chase & Co. launched euro-denominated transactions on its blockchain-based payment system, JPM Coin, Bloomberg reported on Friday.</p>
+      <p>JPM Coin allows clients to transfer euros or dollars held with their JPMorgan accounts immediately and at any time of the day, unlike traditional banking transactions that usually operate during business hours.</p>
+      <h3>Bored Ape Yacht Club dump</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dipped 0.25% to 2,905.28 in the 24 hours to 9:40 a.m. in Hong Kong. The index, however, is up 1.08% for the week.</p>
+      <p>NFT transactions on Ethereum fell 2.49% over the past 24 hours to US$18.38 million, while transactions on the Bitcoin network surged 138% to US$3.6 million, according to CryptoSlam data.</p>
+      <p>“Ethereum is still struggling with tumbling prices, especially in Bored Ape Yacht Club (BAYC) whose average sales price remains in the low- to mid-US$70,000 range,” said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News.</p>
+      <p>Over the past few days, NFT whale Jeffrey Huang, also known as Machi, has dumped dozens of his BAYC holdings. On Saturday, Machi sold 19 BAYC NFTs in one transaction on marketplace Blur for 651.56 Ether, or roughly US$1.22 million.</p>
+      <p>The floor price of BAYC stood at 37.4 Ether on Blur on Monday morning in Asia, gaining 4.18% over the past day but losing 13.52% over the past week.</p>
+      <p>Sales of BAYC jumped 26.11% over the past 24 hours to US$3.43 million, adding to weekly sales of US$13.11 million. BAYC was the most-sold collection for the past day and week in terms of transaction value.</p>
+      <p>Ethereum-based Azuki NFT transactions rose 25.68% in the past 24 hours to US$3.07 million, the highest after BAYC.</p>
+      <p>Azuki’s floor price on Blur rose 1.78% in the past day but was down 9.21% for the week.</p>
+      <h3>U.S. stock futures rise</h3>
+      <p>U.S. stock futures edged higher as of 10:40 a.m. in Hong Kong. Dow Jones Industrial Average futures rose 0.19%, and S&P 500 futures added 0.24%. Nasdaq Futures rose 0.32%.</p>
+      <p>Equity markets across Asia were mostly mixed with investors unsettled by events in Russia over the weekend when Wagner Group mercenaries marched toward Moscow in what appeared to be a rebellion against the military leadership.</p>
+      <p>The group later halted the advance, but it raised concern about instability in Russia as it may undermine the leadership of President Vladimir Putin. Oil prices rose on concern about supply disruptions from Russia, the world’s third-largest producer of crude oil.</p>
+      <p>In macroeconomic developments, Japan’s services producer price index rose 1.6% year-on-year in May, according to official data released Monday.</p>
+      <p>“Japan’s economy, despite being affected by factors such as past high commodity prices, has picked up as private consumption, for example, has increased moderately,” the Bank of Japan said Monday in the summary of opinions of June 15-16 monetary policy meetings.</p>
+      <p>On U.S. inflation and interest rates, Federal Reserve Chairman Jerome Powell said last week that the central bank is in consensus on the need for more interest rate hikes this year.</p>
+      <p>U.S. interest rates are now between 5% and 5.25%, the highest since 2006. The CME FedWatch Tool predicts a 71.9% chance for another 25-basis-point rate hike, and a 28.1% chance the Fed will leave rates unchanged at the next meeting on July 26.</p>
+    </div>
+  },
+  {
+    id: 585,
+    title: 'Ethereum: Here’s the silver lining to its declining trends',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Silver', 'Trends'],
+    description: <div className="blog-desc">
+      <p>Ethereum’s triumphant ascent breathes new life into the market, yet the dwindling exchange supply adds intrigue. Long-term holders seek profitability amidst challenges.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-751.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ethereum’s triumphant ascent breathes new life into the market, yet the dwindling exchange supply adds intrigue. Long-term holders seek profitability amidst challenges.</p>
+    	<ul>
+        <li>ETH price hovered around $1,890, inching closer to the $1,900 price zone.</li>
+        <li>ETH supply on exchanges continued to decline, reaching a record low.</li>
+      </ul>
+      <p>Ethereum [ETH] trended sideways for weeks and eventually slid. However, it has embarked on an upward trajectory, breathing new life into the market.</p>	
+    	<p>Nevertheless, amidst this surge, the available supply of Ethereum on exchanges has been steadily dwindling, adding an intriguing twist to the unfolding narrative.</p>	
+      <h3>Ethereum maintains a bull trend</h3>
+    	<p>Looking at the daily timeframe chart of Ethereum revealed an intriguing journey that began around 15 June when it initiated its upward surge. Since then, it has accumulated growth of over 16% in value.</p>
+      <p>As of this writing, Ethereum hovered around the $1,890 mark, exhibiting a slight dip in value.</p>
+      <p>However, on 23 June, it concluded the trading session with a noteworthy addition of 1.10%. While it has yet to reclaim the $2,000 price range, an exciting development unfolded as it successfully shattered the resistance posed by its short Moving Average (yellow line) around the $1,820 price zone.</p>
+      <p>This breakthrough indicated a positive shift in the prevailing trend.</p>
+      <p>The press time price trajectory has also propelled Ethereum into a bull run, as evidenced by its Relative Strength Index (RSI). As of this writing, the RSI line stood above 60, signifying a strong bullish trend.</p>
+      <h3>Ethereum on exchanges declines</h3>
+      <p>Despite Ethereum’s valiant efforts toward recovery, a fascinating phenomenon persists—the dwindling supply of ETH on exchanges. Santiment’s data revealed that the supply on exchanges, as a percentage of the total supply, had reached an all-time low.</p>
+      <p>As of this writing, this supply had declined to approximately 9.1%, marking its lowest level since Ethereum’s inception.</p>
+      <p>The decline in supply commenced back in January, but it was during May that a sharp downturn became apparent. This downward trajectory has persisted until now, further deepening the scarcity of Ethereum available on exchanges.</p>
+      <h3>ETH profitability for long-term holders</h3>
+      <p>Examining the profitability of Ethereum for long-term holders revealed that, despite the recent uptrends, they have yet to translate into profitability for these holders.</p>
+      <p>As of this writing, the two-year Market Value to Realized Value ratio (MVRV) had dipped below zero, standing at -10% at press time. This indicated that individuals who have held onto ETH during this specific held at a loss.</p>
+      <p>However, there remained a glimmer of hope. A sustained increase in value could potentially propel these holders into a more profitable zone, alleviating their loss position at press time.</p>
+      <p>Furthermore, traders, as per data provided by CoinGlass, held optimistic expectations for an impending price surge. As of this writing, the funding rate on CoinGlass stood in positive territory.</p>
+      <p>This was a significant indicator of positive sentiment among traders actively taking long positions.</p>
+      <p>It is worth noting that a price rise could further enhance the positivity of the funding rate, potentially attracting more traders to take long positions. Conversely, a price decline would cause a substantial number of positions to be liquidated.</p>
+    </div>
+  },
+  {
+    id: 584,
+    title: 'Polygon zkEVM fails to impress, what does the future hold?',
+    category: 'Crypto',
+    subCategory: ['Polygon', 'zkEVM', 'future'],
+    description: <div className="blog-desc">
+      <p>Competition intensifies as zkSync Era outperforms Polygon zkEVM. MATIC surges, but network growth decline suggests challenges in retaining interest.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 25, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-750.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Competition intensifies as zkSync Era outperforms Polygon zkEVM. MATIC surges, but network growth decline suggests challenges in retaining interest.</p>
+    	<ul>
+        <li>Transaction activity on zkSync Era surpassed Polygon zkEVM.</li>
+        <li>MATIC surged, but network growth declined, pointing to challenges in sustaining interest.</li>
+      </ul>
+      <p>The zkEVM sector has continued to get crowded as competition increased between Polygon [MATIC], StarkNet, and zkSync Era. Notably, transaction activity on these protocols has surged since May for all three protocols.</p>	
+    	<p>However, Polygon has not been able to make a significant mark in this sector.</p>	
+      <h3>The zkEVM race intensifies</h3>
+    	<p>According to Dune Analytics’ data, transactions on zkSync Era have far exceeded those on Polygon zkEVM, indicating a higher level of adoption and usage for zkSync.</p>
+      <p>Due to these factors, zkSync has achieved a Total Value Locked (TVL) of $602 million in assets locked in the bridge. Alongside, there was an impressive milestone of 1 million unique addresses, highlighting growing popularity and user engagement.</p>
+      <p>A breakdown of the TVL revealed that 75.7% of the locked value consisted of assets in the form of Ethereum [ETH], indicating a strong presence of Ethereum-based assets within zkSync.</p>
+      <p>Among the total number of depositing addresses, 36% have not utilized Arbitrum [ARB] or Optimism [OP], indicating that a substantial portion of users have yet to leverage these specific Layer 2 scaling solutions.</p>
+      <h3>Looking at Polygon</h3>
+      <p>In contrast, when considering Polygon DeFi’s zkEVM, a different set of statistics emerged, which suggested lower adoption and engagement compared to the zkSync Era.</p>
+      <p>In terms of depositing addresses, 11.9% have not utilized Arbitrum or Optimism, suggesting a portion of users who have not yet engaged with these specific Layer 2 scaling solutions.</p>
+      <p>Additionally, 31.9% of the depositing addresses were created after the launch of the zkSync Era, demonstrating a notable increase in user activity following its introduction.</p>
+      <p>Compared to the zkSync era, 42.3% of these addresses on Polygon’s zkEVM do not actively participate in DEX’s or NFT activities, indicating a diverse user base with varying interests within this ecosystem.</p>
+      <p>Despite Polygon’s zkEVM not being able to perform as well as its competitors. MATIC had a good week in terms of price, trading at $0.673 at press time. This can be attributed to an increase in the number of holders of MATIC.</p>
+      <p>However, during the same period, the network growth for MATIC declined. This implied that new addresses were losing interest in MATIC over time.</p>
+    </div>
+  },
+  {
     id: 583,
     title: 'Brazilian Central Bank Adds Crypto Exchange Mercado Bitcoin in CBDC Pilot Including Mastercard',
     category: 'Crypto',
