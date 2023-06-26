@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/556" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-739.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 24, 2023 - 2:00 PM</p>
-                                    <h1>Top India ETFs for 2023</h1>
-                                    <p>FLIN, INCO, and INDA are the India ETS with the lowest fees, highest 1-year return, and most liquidity, respectively.</p>
+                            <a href="/post-markets/560" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-752.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 26, 2023 - 6:13 PM</p>
+                                    <h1>Dow Jones Reverses After Last Weeks Losses; Tesla Stock Slides On Another Downgrade</h1>
+                                    <p>The Dow Jones Industrial Average again moved lower Monday, falling after last week's stock market losses. Google-parent Alphabet (GOOGL) and Tesla stock dropped on analyst downgrades.</p>
                                 </a>
-                            <a href="/post-markets/555" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-738.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 24, 2023 - 6:52 AM</p>
-                                    <h1>Apple stock could soar 37% to a $4 trillion market valuation by the end of 2024 after confirming a key breakout to all-time highs</h1>
-                                    <p>Apple stock could see big upside ahead after it confirmed its breakout above the prior record high of $183, according to Fairlead Strategies.</p>
+                            <a href="/post-markets/559" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-753.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 26, 2023 - 4:31 PM</p>
+                                    <h1>Siemens Energy share sell-off deepens, takes market value loss to $8 billion</h1>
+                                    <p>FRANKFURT (Reuters) -Siemens Energy shares fell for a second consecutive session on Monday, hit by a raft of target price cuts and rating downgrades in the wake of deeper-than-expected problems at its wind</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,6 +70,18 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
+                            <a href="/post-markets/558" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-754.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 26, 2023 - 2:56 PM</p>
+                                <h1>German central bank risks bailout after money printing spree</h1>
+                                <p>Germany’s central bank may need a bailout to cover losses on the debt it hoovered up as part of the European Central Bank’s (ECB) massive bond-buying programme, the country’s federal auditor has warned.</p>
+                            </a>
+                            <a href="/post-forex/557" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-755.jpg" alt="art_pic"/></div>
+                                <p className="dat"> June 25, 2023 - 6:01 PM</p>
+                                <h1>Amazon may be the largest US retailer in 2024, according to JPMorgan analysts</h1>
+                                <p>Amazon (AMZN) is set to hit a major milestone in 2024: Becoming the largest retailer in the US, according to JPMorgan analysts Doug Anmuth and Bryan M. Smilek.</p>
+                            </a>
                             <a href="/post-crypto/584" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-750.jpg" alt="art_pic"/></div>
                                 <p className="dat">  June 25, 2023</p>
@@ -81,18 +93,6 @@ function PostListingSection()
                                 <p className="dat"> June 24, 2023 - 12:27 AM</p>
                                 <h1>Brazilian Central Bank Adds Crypto Exchange Mercado Bitcoin in CBDC Pilot Including Mastercard</h1>
                                 <p>Brazil’s central bank authorized on Thursday the largest local crypto exchange, Mercado Bitcoin, to participate in the pilot of the digital real, the South American country’s central bank digital currency (CBDC).</p>
-                            </a>
-                            <a href="/post-indices/541" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-740.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 23, 2023 - 6:27 PM</p>
-                                <h1>Dow Jones Falls 250 Points After Key Economic Data, Set For Losing Week; Tesla Stock Downgraded To Sell</h1>
-                                <p>The Dow Jones Industrial Average briefly dropped more than 250 points Friday after key economic data, with the major stock indexes eyeing a losing week as investors brace for future rate hikes from the Federal Reserve.</p>
-                            </a>
-                            <a href="/post-forex/550" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-735.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 23, 2023 - 6:52 AM</p>
-                                <h1>Indian rupee drops, but clings to 82/$ on portfolio inflows</h1>
-                                <p>MUMBAI (Reuters) - The Indian rupee declined on Friday, but performed better than the other Asian currencies, thanks to persistent foreign inflows into domestic equities, traders said.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
@@ -134,23 +134,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Commodities</h1>
                             <div className="art_grf row">
+                            <a href="/post-commodities/549" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-757.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> June 26, 2023 - 6:10 PM</p>
+                                    <h1>Gold Nudges Higher as Investors React to Russia Turmoil</h1>
+                                    <p>(Bloomberg) -- Gold edged higher as investors assessed increasing geopolitical uncertainty and recessionary signals.</p>
+                                </a>
+                                <a href="/post-commodities/548" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-756.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  June 26, 2023 - 3:19 PM</p>
+                                    <h1>Oil Climbs As Russia Crisis Rattles Global Energy Markets</h1>
+                                    <p>The short-lived threat to Vladimir Putin's leadership in Russia has oil markets on the move Monday, but demand concerns have limited early gains.</p>
+                                </a>
                             <a href="/post-commodities/547" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-742.jpg" alt="art_pic"/></div>
                                     <p className="dat"> June 24, 2023 - 12:00 PM</p>
                                     <h1>Iran’s Oil Supplies Are One More Challenge for OPEC+</h1>
                                     <p>Oil markets have been buzzing over a potential return of Iranian oil to the market amid press reports of renewed U.S.-Iranian talks.</p>
-                                </a>
-                            <a href="/post-commodities/546" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-726.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 23, 2023 - 7:18 AM</p>
-                                    <h1>Gold set for weekly drop as traders assess US rate outlook</h1>
-                                    <p>(Reuters) - Gold prices hovered near a three-month low on Friday and were set for their biggest weekly drop since February, as the dollar strengthened after U.S. Federal Reserve Chief Jerome Powell hinted more interest rate</p>
-                                </a>
-                                <a href="/post-commodities/545" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-724.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 23, 2023 - 5:04 AM</p>
-                                    <h1>Oil resumes slide on demand worries after UK rate hike</h1>
-                                    <p>(Reuters) -Oil prices fell for a second straight session and were headed for a weekly decline of more than 3% on Friday, as a higher-than-expected interest rate hike in Britain and warnings about looming rate rises in the U.S.</p>
                                 </a>
                             </div>
                             <Button href="/post-commodities" className="red__mor">View All</Button>
