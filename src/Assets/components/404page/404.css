@@ -8,7 +8,7 @@ div#pagenot_found {
 }
 .contfound {
     height: 100%;
-    padding: 100px 0px;
+    padding: 100px 0px !important;
 }
 .contfound h1 {
     font-size: 38px;
