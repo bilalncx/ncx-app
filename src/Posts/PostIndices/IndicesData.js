@@ -1,5 +1,262 @@
 const data = [
   {
+    id: 548,
+    title: 'LIVE: FTSE and Wall Street surge as UK avoids recession and eurozone inflation falls',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Wall Street', 'UK'],
+    description: <div className="blog-desc">
+      <p>The FTSE (^FTSE), European stock markets, and Wall Street spent the final day of the week, month, quarter, and half year in positive territory, as new data confirmed</p>
+    </div>,
+    authorName: 'LaToya Harding',
+    authorurl: 'https://www.yahoo.com/author/latoya-harding/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 7:35 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-773.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE (^FTSE), European stock markets, and Wall Street spent the final day of the week, month, quarter, and half year in positive territory, as new data confirmed that the UK avoided recession over the winter, while eurozone inflation fell to 5.5%.</p>
+    	<p>London's benchmark index rose 0.8% during the session, while the CAC (^FCHI) gained 1.4% in Paris, and the Frankfurt DAX (^GDAXI) was also 1.4% higher.</p>	
+    	<p>Across the pond, the S&P 500 (^GSPC) rose 1% and the tech-heavy Nasdaq (^IXIC) surged 1.3% thanks to Apple (AAPL) crossing the $3trn market cap mark again. The Dow Jones (^DJI) edged almost 0.7% higher by the time of the European close.</p>	
+    	<p>According to the Office for National Statistics (ONS) on Friday morning, the British economy grew by 0.1% in the first three months of this year, as well as in the final quarter of 2022.</p>
+      <p>“Any growth is good but remember this growth still leaves the UK economy struggling to make up the ground it lost during the pandemic, and although we are in the same boat as Germany, the failure to have properly capitalised on the reopening momentum is cause for concern," said Danni Hewson, head of financial analysis at AJ Bell.</p>
+      <p>It came as Nationwide reported that UK property prices are down 3.5% on an annual basis on the back of sharp increases in borrowing costs.</p>
+      <p>Compared with June last year, house prices were down 3.5%, largely unchanged from the 3.4% in the previous month, however prices did rise 0.1% between May and June.</p>
+      <p>The average house price was £262,239 in June, with London having the second-sharpest year-on-year decline, at 4.3%.</p>
+      <p>Nationwide’s chief economist Robert Gardner said: “Longer term interest rates, which underpin mortgage pricing, have increased sharply in recent months, in response to data indicating that underlying inflation in the UK economy is not moderating as fast as expected.</p>
+      <p>The average two-year fixed residential mortgage rate on Friday is 6.39%, up from 6.37% on Thursday, according to financial information website Moneyfacts.</p>
+      <p>The average five-year fixed residential mortgage rate is 5.96%, up from 5.94% on Thursday, as it approaches the 6% mark.</p>
+      <h3>Markets sign off</h3>
+      <p>Well that's all from us today, thanks for following along! Join us again next week as we bring you all the latest market and economic news.</p>
+      <p>Here's what to expect next week:</p>
+      <p>Manufacturing PMIs (Jun) – 03/07</p>
+      <p>Sainsbury Q1 24 – 04/07</p>
+      <p>RBA rate decision – 04/07</p>
+      <p>Fed minutes – 05/07</p>
+      <p>AO World FY 23 – 05/07</p>
+      <p>Levi Strauss Q2 23 – 06/07</p>
+      <p>US non-farm payrolls (Jun) – 07/07</p>
+      <p>Have a good weekend all.</p>
+      <h3>Aldi joins Tesco in price drops</h3>
+      <p>Aldi has reduced the price of milk after Tesco announced a string of price cuts earlier today.</p>
+      <p>The German grocer said it was lowering a four-pint bottle of milk by 10p, from £1.55 to £1.45. Its two-pint bottles will also fall to £1.20, down from £1.25, and its six-pint bottles will reduce from £2.30 to £2.15.</p>
+      <h3>US PCE inflation rate eases</h3>
+      <p>The latest from across the pond shows us that price pressures in America have eased...</p>
+      <p>The PCE price index rose by a marginal 0.1% in May - 3.8% higher on an annual basis and down from 4.3% in the year to April.</p>
+      <p>This could encourage Federal Reserve policymakers not to hike interest rates in the coming months, after keeping them steady in June.</p>
+      <p>Core PCE, which excludes food and energy, rose by 0.3% during the period, however, the annual rate fell from 4.7% to 4.6%.</p>
+      <h3>Apple hits $3trn market cap</h3>
+      <p>Apple’s market capitalisation has surpassed $3trn again on Friday, thanks to growing optimism around its virtual reality headsets.</p>
+      <p>Shares rose as much as 1.6% in New York to 192.61, taking its total valuation to $3.03 trillion.</p>
+      <p>Apple was the first company to hit a $3 trillion market cap during intraday trading in January 2022.</p>
+      <p>The stock is up around 54% year-to-date, at the time of writing.</p>
+      <h3>Tesco announces price cuts</h3>
+      <p>Tesco has said it will cut the prices of more than 500 household essentials, including packs of own-brand pasta, tinned tuna, milk, grapes, cheese and other goods by an average of 13%.</p>
+      <p>Britain’s biggest supermarket said it was working with suppliers to pass on reductions where possible.</p>
+      <p><strong>Tesco chief product officer, Ashwin Prasad, said: “We know that more than ever our customers are looking for great value, and this huge round of price cuts on 500 key household essentials will help their budgets go a little further.</strong></p>
+      <p><strong>“With price cuts on products like grapes, peppers, rice and tuna, customers will find it’s even cheaper to eat healthily with Tesco this summer.</strong></p>
+      <p><strong>“And we’ll continue to work closely with our suppliers to pass on price cuts to our customers whenever we can.”</strong></p>
+      <h3>The UK banks offering best saving rates...</h3>
+      <p>Surging interest rates bring misery to mortgage holders but for savers it means higher returns as banks are starting to pass on increases through saving rates.</p>
+      <p>Some savings accounts are now paying out some of the highest interest rates seen in decades and there are a number of different savings accounts available and suitable for a variety of circumstances.</p>
+      <p>Major lenders are now offering some of the UK’s top interest rates on savings accounts.</p>
+      <p>Lloyds (LLOY.L) and NatWest (NWG.L) have begun offering 6.25% and 6.17% interest respectively on regular savings accounts, after HSBC (HSBA.L) online arm First Direct launched a 7% deal.</p>
+      <h3>Wall Street set to open higher</h3>
+      <p>US stocks are going to open in an hour. Here's how things are looking...</p>
+      <p>S&P 500 futures (ES=F) are up 0.4%, Dow futures (YM=F) have gained 0.3%, and Nasdaq futures (NQ=F) are 0.5% higher an hour before the bell in New York.</p>
+      <p>Traders will be looking ahead to core PCE Deflator and personal spending numbers for May. Core PCE Deflator is forecast to remain unchanged at 4.7%, while personal spending is expected to slow from 0.8% to 0.2%</p>
+      <h3>Speaking on the Adobe-Figma deal, Ben Barringer, equity research analyst at Quilter Cheviot, says:</h3>
+      <p>“The news that the CMA wants to refer this deal to a deeper probe should not come as a surprise. You just have to look at their actions over the past year, and in particular with the Microsoft and Activision deal to see that the CMA is carving itself out a role as a regulator with the highest standards of consumer protection anywhere in the world.</p>
+      <p>As the tech industry has matured, regulators are responding by being a lot pickier with the deals they will approve. If the Facebook purchase of Instagram happened today then it likely would have been blocked, and it is this environment that the likes of Adobe may find themselves struggling to navigate.</p>
+      <p>“This deal, as important as it is for Adobe, was always going to struggle to meet the high bar set by the CMA. Strategically it makes sense that they wish to buy Figma as collaboration has become so critical in the post-COVID world, and where remote working has become the norm. It will be difficult to satisfy the CMA and as such structural remedies will be required to get it through.</p>
+      <p>This may mean that the deal no longer becomes as attractive for Adobe, but we will need to see their response first to see what avenues they believe they have. For investors in Adobe, this will be a cloud hanging over the company for a considerable period of time and if they were not to end up buying Figma it would leave the company deficient in this fast growing product area.”</p>
+      <h3>Adobe-Figma tie-up could harm UK digital economy</h3>
+      <p>The proposed merger of software giant Adobe (ADBE) and design tools provider Figma may harm Britain's digital economy and mean less choice for designers of digital apps, websites and other products, the UK's Competitions and Markets Authority has warned.</p>
+      <p>Adobe, creator of Photoshop and Illustrator, said it would buy Figma for $20 billion ($15.8 billion) in September last year.</p>
+      <p>The regulator said it had "identified concerns" about the deal and found that Figma has established a substantial share of the market for screen design software and that Adobe has been continuously investing in and competing in this segment.</p>
+      <p>As such, the CMA argues that competition between Figma and Adobe has driven investment in updating and developing screen design software. The rivalry could be lost if the deal goes ahead.</p>
+      <h3>HMRC: Residential transactions decline</h3>
+      <p>UK residential transactions in May came in at 80,020, 27% lower than May 2022 and 3% lower than April 2023.</p>
+      <p>The provisional seasonally adjusted estimate of the number of UK non-residential transactions in May 2023 was 9,460, 16% lower than May 2022 and less than 1% lower than April 2023.</p>
+      <p>HMRC said the annual fall “is partly due to higher number of bank holidays in May 2023, but also represents the decline in general market conditions in recent months”.</p>
+      <p>Nick Leeming, chairman of Jackson-Stops, commented:</p>
+      <p>“We find ourselves in a committed market, one where transactions will continue to complete and is dominated by buyers that have clear intentions of moving. As stamp duty relief and low interest rates stoked the fire of the property boom during lockdown, creating a frenzied sellers’ market unlike anything seen before, today we find ourselves in very different circumstances.</p>
+      <p>A more subdued economic environment has meant that while transactions are continuing to take place, those not forced to move are waiting for the dust to settle, keeping the pace much more balanced between the volume of buyers and sellers.</p>
+      <h3>Centrica rises after doubling gas storage capacity</h3>
+      <p>Sticking with company news... Centrica (CNA.L) shares rose today after it announced a near doubling in gas storage capacity at its Rough facility.</p>
+      <p>The British Gas owner has increased storage capacity at Rough, the UK's largest gas storage facility, to 54 billion cubic ft (bcf) in a bid to boost resilience in the coming winter.</p>
+      <p>Closed in 2017, the site was partially reopened last year, when it was able to store around 30 bcf of gas.</p>
+      <p>The facility will now provide the equivalent volume of gas to heat 2.4 million homes over winter, the company said.</p>
+      <p>Centrica group chief executive Chris O’Shea said: “The resilience of the UK’s energy system needs to be substantially improved.</p>
+      <p>“Rough is not a silver bullet for energy security, but it plays a critical role in increasing capacity and supply confidence over the winter months.”</p>
+      <h3>WH Smith says it won't open more high street stores</h3>
+      <p>WH Smith (SMWH.L) has said it is not planning to open any more high street stores, saying doing so would risk “duplication” in many city centres.</p>
+      <p>Instead, chief executive Carl Cowling told the BBC that the historic chain would be concentrating on airports and train stations.</p>
+      <p>WH Smith has about 550 high street stores in the UK with all the main cities in England, Wales and Scotland having shops.</p>
+      <p>In its latest trading update, it said that, in the 13 weeks to the end of May, total revenue from UK travel locations was up 24% on last year.</p>
+      <h3>Heathrow Airport names new boss</h3>
+      <p>Heathrow has announced it has taken on the boss of Copenhagen Airport as its new chief executive.</p>
+      <p>Thomas Woldbye is set to replace John Holland-Kaye when he steps down later this year.</p>
+      <p>The UK's busiest airport said his “ability to navigate complex stakeholder relationships has been a key factor in his success” at Copenhagen.</p>
+      <p>Lord Paul Deighton, Heathrow chairman, said: “Thomas’s achievements at Copenhagen not only mirror Heathrow’s long-term strategy, but his track record in successfully running a major airport and working closely with stakeholders to secure consensus and deliver positive results stood out in the selection process.”</p>
+      <h3>Eurozone inflation falls to 5.5%</h3>
+      <p>News just in from the Eurozone... and inflation has fallen by more than expected again thanks to a drop in energy prices.</p>
+      <p>Consumer prices across the euro area increased by 5.5% in the year to June, down from 6.1% in May. This was lower than the 5.6% expected.</p>
+      <p>Eurostat revealed that food, alcohol and tobacco is expected to have the highest annual rate in June – at 11.7%, down from 12.5% in May.</p>
+      <p>Industrial goods inflation eased 5.8% to 5.5% while the service sector inflation rose to 5.4%, up from 5.0% the previous month.</p>
+      <p>Energy prices also fell at a faster rate than last month, with energy inflation dropping to -5.6% from -1.8% in May.</p>
+      <h3>UK energy bills warning</h3>
+      <p>Energy prices for the typical UK home are likely to remain high for the foreseeable future with supplies vulnerable to external shocks, Centrica CEO Chris O'Shea has said.</p>
+      <p>My colleague Lucy Harley-McKeown writes...</p>
+      <p>As Ofgem's new price cap comes into effect this weekend, the average UK home's bills will be £2,074 — below the £2,500 level which was subsidised by the government under the energy price guarantee scheme.</p>
+      <p>Even under the price cap, household energy bills will remain £800 more expensive than two years ago.</p>
+      <h3>Brits pulling out of savings accounts</h3>
+      <p>UK households raced to pull cash from their savings accounts at a record level as they shop around for options with better returns, the ONS said on Friday.</p>
+      <p>The household saving ratio stood at 8.7% in the latest quarter, down from 9.3% in Q4 2022, while the amount of new mortgage and re-mortgage borrowing fell.</p>
+      <p>“Households are making record withdrawals from interest-bearing sight deposits held with UK banks and building societies, instead moving their money to higher interest, time deposit accounts, such as with National Savings and Investments," it said.</p>
+      <h3>UK 0.5% smaller than before pandemic</h3>
+      <p>The UK economy is still 0.5% smaller than it was at the end of 2019. Here is a brief rundown of how the G7 is looking after Q1:</p>
+      <p>Canada: grew by 0.8%</p>
+      <p>France: grew by 0.2%</p>
+      <p>Germany: contracted by 0.3%</p>
+      <p>Italy: grew by 0.6%</p>
+      <p>Japan: grew by 0.7%</p>
+      <p>United Kingdom: grew by 0.1%</p>
+      <p>United States: grew by 0.3%</p>
+      <h3>UK economy avoids recession in Q1</h3>
+      <p>The Office for National Statistics (ONS) confirmed this morning that the British economy grew by 0.1% in the first quarter of the year, as well as the final quarter of 2022.</p>
+      <p>The latest account matches the initial estimate, and means that the UK avoided recession in the cost of living crisis last winter.</p>
+      <p>"In output terms, the services sector grew by 0.1% on the quarter driven by increases in information and communication, and administrative and support service activities; elsewhere, the construction sector grew by a revised 0.4% (previously 0.7%), while the production sector grew by 0.1%, with a revised 0.6% growth in manufacturing (previously 0.5%)," the ONS said.</p>
+      <p>But analysts are still warning that a recession may still be on the cards.</p>
+      <p>Ashley Webb at Capital Economics said: "...With around 60% of the drag from higher interest rates yet to be felt, we still think the economy will tip into one in the second half of this year involving a peak-to-trough fall of around 0.5%."</p>
+    </div>
+  },
+  {
+    id: 547,
+    title: 'Dow Jones Rallies 275 Points On Cool Inflation Data; Nike Stock Slides On Earnings Miss',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Nike', 'Inflation'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average rallied 275 points Friday after the Federal Reserve's favorite inflation indicator, the PCE price index, came out before the market open.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 6:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-770.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average rallied 275 points Friday after the Federal Reserve's favorite inflation indicator, the PCE price index, came out before the market open.</p>
+    	<p>Meanwhile, Nike stock fell sharply after missing earnings views. And the 10-year U.S. Treasury yield is trying to break out above its recent trading range during the second quarter's final session.</p>	
+    	<p>Early Friday, the Commerce Department's personal income and outlays report for May was released. Personal income rose 0.4%, in line with estimates. The PCE price index rose 0.1% on the month, with an annual increase of 3.8%. Both numbers met estimates. Further, the core PCE price index rose 0.3% on the month, with a 4.6% annual increase, both slightly cooler than expected.</p>	
+    	<p>Dow Jones giant Nike (NKE) wrapped up its 2023 fiscal year with mixed fiscal fourth-quarter results late Thursday. Nike stock received multiple price target downgrades last week as inventory issues remain the Achilles heel for the Dow Jones athletic shoe and apparel giant. Shares declined more than 2% in early trade Friday.</p>
+      <p>Meanwhile, Constellation Brands (STZ) was down around 1.4% after its fiscal first-quarter results.</p>
+      <h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) added 2% Friday morning. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were higher after today's stock market open.</p>
+      <p>Other leaders in the stock market rally include Google-parent Alphabet (GOOGL) and Facebook-parent Meta Platforms (META). Alphabet shares and Meta stock both rose sharply in morning trade.</p>
+      <p>Chipotle Mexican Grill (CMG), MongoDB (MDB) and Lam Research (LRCX) — as well as Dow Jones stocks JPMorgan Chase (JPM), Merck (MRK) and Salesforce (CRM) — are among the best stocks to watch in the ongoing stock market pullback.</p>
+      <p>Tesla is an IBD Leaderboard stock, Lam Research remains an IBD SwingTrader stock, while MongoDB is featured in this week's Stocks Near A Buy Zone column.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Friday's opening bell, ahead of the holiday-interrupted July 4 week, the Dow Jones Industrial Average rose 0.8%, while the S&P 500 futures climbed 1.2%. The Nasdaq moved up 1.6% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded up 1.6%, while the SPDR S&P 500 ETF (SPY) rose 1.2% early Friday.</p>
+      <p>The 10-year U.S. Treasury yield briefly ticked higher to 3.87%, trying to break out above its recent trading range ahead of the final session of the second quarter. The yield settled higher Thursday at 3.85%, its highest closing level since early March.</p>
+      <p>Oil prices rose modestly Friday morning, continuing to hold near recent lows. West Texas Intermediate futures traded just above $70 a barrel, effectively flat for the week and down not quite 4% from a June 21 high.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Thursday, the Dow Jones Industrial Average led the stock market higher, rallying 0.8%. In the Dow 30, Intel (INTC) slid 2%, falling further below its 33.84 buy point. So far, however, there is no sell signal.</p>
+      <p>On the upside, Goldman Sachs (GS) and JPMorgan Chase were big gainers, rallying on Fed stress test news. Goldman shares rallied 3% but remain below their 50-day line. JPM stock advanced 3.5%, bouncing off the 50-day line and again topping a flat base's 143.37 entry.</p>
+      <p>Elsewhere, the S&P 500 climbed nearly 0.5%, and the Nasdaq composite ended slightly lower. The small-cap Russell 2000 moved up 1.2%, with help from rising regional banks.</p>
+      <p>Thursday's Big Picture column commented, "This week, the Nasdaq successfully defended support at the 21-day exponential moving average, which should offer a shot of confidence to investors. With the ongoing stock market pullback still in normal shape, IBD's recommended market exposure still sits at 60%-80%."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market remains in an uptrend but is pulling back.</p>
+      <h3>Dow Jones Stocks To Watch: JPMorgan, Merck, Salesforce</h3>
+      <p>Dow Jones banking leader JPMorgan regained a 143.37 flat-base buy point during Thursday's big gains. The 5% buy zone goes up to 150.54. JPM stock rose 0.4% Friday morning.</p>
+      <p>Drug giant Merck is forming a flat base with a 119.65 buy point, as the stock climbed 1% Thursday. An early entry at 114.91 is also in play. MRK stock inched lower Friday.</p>
+      <p>Salesforce managed to steady itself after slumping following earnings. It is now testing support at the 50-day line. The megacap tech previously moved past a pair of alternative entries at 194.01 and at 200.10, according to IBD Leaderboard analysis.</p>
+      <p>In recent weeks, shares reached the 20% profit zone from a 178.94 cup-with-handle entry. CRM stock rose 0.8% Friday morning.</p>
+      <h3>Best Stocks To Buy And Watch: Chipotle, MongoDB, Lam Research</h3>
+      <p>IBD Leaderboard watchlist stock Chipotle rebounded from support at its 10-week line and is building a flat base with a 2,139.88 buy point, according to IBD MarketSmith pattern recognition.</p>
+      <p>An early entry at 2,092.51 was also available due to a trendline. Chipotle was a recent IBD Stock Of The Day. CMG stock gained 0.6% Friday morning.</p>
+      <p>IBD SwingTrader stock Lam Research moved above a 615.80 early buy point and a three-weeks-tight pattern with a 630.72 entry during this week's gains. LRCX stock climbed 0.7% early Friday.</p>
+      <p>MongoDB is trading tightly after its recent earnings-fueled jump, offering a new entry. The three-weeks-tight formation shows a buy point at 398.89, while aggressive investors could have used a trendline entry around 386. MDB stock moved up 2.9% Friday morning.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla extended a win streak to three sessions Thursday, rising 0.5%. Amid the recent rebound, Tesla shares remain sharply out of buy range beyond a double-bottom's 207.79 buy point.</p>
+      <p>TSLA stock looked to add to Thursday's gains, rising more than 2% Friday.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock hit another record high Thursday, trading as high as 190.07. Shares continue to hold sharply above a 157.38 buy point. Early Friday, shares climbed 1.4% after Citi started coverage on AAPL stock with a buy rating and a 240 price target.</p>
+      <p>Microsoft shares slipped 0.2% Thursday, ending a two-day rebound. On June 16, MSFT stock hit an all-time high at 351.47.</p>
+      <p>In recent weeks, the stock reached the 20% to 25% profit zone from a 276.76 flat-base buy point, so investors could have taken at least some profits there. And on Friday morning, Microsoft shares were up 1.7%.</p>
+    </div>
+  },
+  {
+    id: 546,
+    title: 'Nasdaq finds a new way to confound both bulls and bears: Morning Brief',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'bulls', 'bears'],
+    description: <div className="blog-desc">
+      <p>The Nasdaq Composite (^IXIC) closed in the red Wednesday, giving back a small portion of its near-30% gains so far this year. And as we approach the end of the second quarter, 2023</p>
+    </div>,
+    authorName: 'Jared Blikre',
+    authorurl: 'https://www.yahoo.com/author/jared-blikre/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 2:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-771.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:</strong></p>
+      <ul>
+        <li>The chart of the day</li>
+        <li>What we're watching</li>
+        <li>What we're reading</li>
+        <li>Economic data releases and earnings</li>
+      </ul>
+    	<p>The Nasdaq Composite (^IXIC) closed in the red Wednesday, giving back a small portion of its near-30% gains so far this year. And as we approach the end of the second quarter, 2023 is shaping up to be a year for the record books.</p>	
+    	<p>Double-digit gains alone would be something to tweet home about, given concerns over the Federal Reserve's inflation-fighting hawkishness at the beginning of the year (concerns that persist, by the way).</p>	
+    	<p>But it's the way in which the market delivered these returns that yields an unexpected historical analysis — one that suggests the tech-heavy Nasdaq may add to its impressive six-month tally in the back half of this year.</p>
+      <p>The above chart plots the returns of the Nasdaq Composite for the first half of the year (purple) versus the second-half performance (orange). The first half of 2023 is posting the third-highest return after 1975 (45%) and 1983 (37%).</p>
+      <p>What immediately stands out are the big declines after each of the top two years (-11% and -13%, respectively). The fifth-best year (1986) also had a large decline of 14% in the second half after a 25% run in the first half.</p>
+      <p>Might a similar bearish fate await investors in the third and fourth quarters of this year?</p>
+      <p>Peering into the price action of those "big up, big down" years reveals a decidedly different picture than what has evolved this year.</p>
+      <p>In 1986, price largely ticked smoothly upwards over the first two quarters, closely hugging the 10-day moving average (a technical indicator used to smooth jagged price action). Might the run-up have been too perfect?</p>
+      <p>Climbing the wall of worry as in the chart above is usually fraught with increasing risk the longer price advances with nary a material pullback.</p>
+      <p>Back to the present, the price action this year has been a bit choppier, with price moving largely sideways to down from the February peak until the break to the upside in May.</p>
+      <p>If a one-sided market is prone to reversal. Perhaps a more balanced market that both waxes and wanes is the fuel that the bulls need.</p>
+      <p>Bespoke Investment Group published a similar finding Monday with their Chart of the Day. They found that if you add up the number of winning days over the first six months of the year, a higher winning percentage counterintuitively signals a lower likelihood of positive returns in the second half of the year.</p>
+      <p>Bespoke concludes, "Based on the Nasdaq’s prior history, the less routine positive days were during strong first halves, the more likely it was to continue rallying in the second half."</p>
+      <p>This jives with our general theory of markets that too much of a good thing doesn't last. At the very least, this year's impressive gains aren't necessarily the headwind that some claim.</p>
+    </div>
+  },
+  {
+    id: 545,
+    title: 'China bulls backload stock targets as post-pandemic optimism deflates, stimulus floodgates remain closed',
+    category: 'Indices',
+    subCategory: ['China', 'bulls', 'Stock'],
+    description: <div className="blog-desc">
+      <p>China bulls are pushing back their expectations for a rally in stock prices as the economy struggles and global funds turn away as policymakers avoid opening the stimulus floodgates.</p>
+    </div>,
+    authorName: 'South China Morning Post',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 1:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-772.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>China bulls are pushing back their expectations for a rally in stock prices as the economy struggles and global funds turn away as policymakers avoid opening the stimulus floodgates.</p>
+    	<p>HSBC this week trimmed its year-end index target for the CSI 300 Index by 6.5 per cent to 4,300 and lowered its target for the Shanghai Composite Index by 2.8 per cent to 3,500. Citigroup dialled back its optimism on the Hang Seng Index, scaling back its target to 22,000, versus a forecast of 24,000 in February.</p>
+      <p>That further narrowed the upside potential for investors, as money managers have already shifted their focus to India and Japan in search of higher returns. The MSCI China Index tracking over 700 companies listed at home and abroad has tumbled 9.4 per cent during the past three months, set for the worst quarter since Beijing's zero-Covid pivot in October. Local stock benchmarks have both fallen more than 5 per cent during the same period, ranking among the worst performers in Asia.</p>
+      <p>Do you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge, our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.</p>	
+    	<p>"We have previously argued the market will be driven by fundamentals," HSBC analysts including Steven Sun said in a note to clients on Wednesday. "That has not played out yet, and the economic backdrop has gotten tougher."</p>
+      <p>China's post-pandemic recovery continues to disappoint, with manufacturing set to contract for a third month in June, according to economists before a government report on Friday. Policymakers are reluctant to roll out a larger stimulus package, prompting Wall Street brokers from Morgan Stanley and Goldman Sachs to rein in their bullish forecasts.</p>
+	    <p>Foreign investors only bought 1.2 billion yuan (US$170 million) worth of mainland stocks this quarter through June 27, according to Stock Connect data. Global hedge funds have taken back about 70 per cent of the money they ploughed into Chinese stocks since November, according to Goldman.</p>
+      <p>China's markets reversed course from early gains and fell over 20 per cent in the first half on concerns over the sputtering cyclical recovery, Goldman said, while Asian markets are likely to face subdued third-quarter returns before a recovery in the final quarter.</p>
+      <p>Parts of the Asian markets that have underperformed, including China, could see a "catch-up" rally, especially if policy eases further in China, it added.</p>
+      <p>There is still a chance for the market to run up as bad news is mostly priced in and the valuation is now cheap, according to Timothy Moe, a Singapore-based strategist at Goldman. The MSCI China's price-to-earnings ratio now stands at 10.43, lower than the bank's fair value estimate.</p>
+      <p>HSBC's Sun said a re-rating for Chinese stocks is possible in the last quarter. The disappointing fundamentals and tight liquidity caused by fund outflows will be major hurdles for the market to overcome before making any significant breakthrough, he added.</p>
+      <p>This article originally appeared in the South China Morning Post (SCMP), the most authoritative voice reporting on China and Asia for more than a century. For more SCMP stories, please explore the SCMP app or visit the SCMP's Facebook and Twitter pages. Copyright © 2023 South China Morning Post Publishers Ltd. All rights reserved.</p>
+    </div>
+  },
+  {
     id: 544,
     title: 'LIVE: FTSE 100 and European stocks mixed as Primark-owner ABF lifts profit outlook',
     category: 'Indices',

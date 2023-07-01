@@ -1,5 +1,217 @@
 const data = [
   {
+    id: 591,
+    title: 'Bitcoin, Ether rise along with all other top 10 cryptos',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'cryptos'],
+    description: <div className="blog-desc">
+      <p>Bitcoin, Ether, and all other top 10 non-stablecoin cryptocurrencies gained in Friday afternoon trading in Asia, on general market positivity as a number of traditional</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 2:26 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-758.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin, Ether, and all other top 10 non-stablecoin cryptocurrencies gained in Friday afternoon trading in Asia, on general market positivity as a number of traditional financial institutions recently filed spot Bitcoin exchange-traded fund (ETF) applications, indicating demand and institutions’ confidence in the profit potential of digital assets.</p>
+    	<p>Markets are also reacting positively to data showing U.S. gross domestic product grew faster than expected in the first quarter and initial jobless claims came in at less than expected.</p>	
+    	<h3>Solana, Litecoin biggest gainers</h3>
+      <p>Bitcoin rose 1.34% to US$30,756 in 24 hours to 4 p.m. in Hong Kong, according to CoinMarketCap data. The world’s biggest cryptocurrency by market capitalization has risen 2.66% in the past seven days after a number of traditional financial institutions showed interest in spot Bitcoin ETFs.</p>	
+    	<p>“Bitcoin prices tend to rally during the month of July,” Markus Thielen, head of research and strategy at digital asset service platform Matrixport, said in an emailed statement on Friday.</p>
+      <p>Thielen has set a year-end target of US$45,000 for Bitcoin prices, supported by macroeconomic tailwinds that are likely to continue. “Interesting to note that Bitcoin experiences its strongest rallies during U.S. trading hours, a sign that U.S. institutions are buying Bitcoin while other regions are less active,” Thielen said.</p>
+      <p>Despite Federal Reserve Chair Jerome Powell’s stating earlier this week that the central bank could raise interest rates further, Thielen believes that inflation will continue to decline and the macro tailwind for risk assets would continue, supporting higher prices for stocks and crypto.</p>
+      <p>Asset managers, including BlackRock, WisdomTree, Invesco and Bitwise, have filed for spot Bitcoin ETF applications this month, with Fidelity refiling an application for a spot Bitcoin ETF. The Thursday filing with the Securities and Exchange Commission shows that the Cboe exchange has proposed to list and trade shares of the Wise Origin Bitcoin Trust.</p>
+      <p>Ether, the second biggest cryptocurrency, rose 2.07% to US$1,887 in 24 hours, and has risen 0.28% on the week.</p>
+      <p>Solana and Litecoin posted the day’s biggest gains. Solana jumped 15.44% in the past 24 hours to US$18.78, bringing its weekly gains to 11.91%. Litecoin climbed 13.34% to US$95.22, and has risen 10.14% in the past seven days.</p>
+      <p>“Litecoin’s halving event, expected August 2, 2023, historically serves as a bullish price catalyst,” Thielen said. “Given that the halving event is just five weeks away, we might see a more substantial rally into the event.</p>
+      <p>At current prices, Litecoin still appears a good bet for a trade into the halving event and has high odds to participate in any future crypto bull market(s),” he added.</p>
+      <p>Litecoin is a cryptocurrency based on Bitcoin’s source code. Like its predecessor, it uses a proof-of-work consensus mechanism and its mining rewards are halved roughly every four years.</p>
+      <p>The total crypto market capitalization rose 1.89% to US$1.19 trillion, while market volume gained 31.82% to US$39.73 billion.</p>
+      <h3>NFT trading on Ethereum, Bitcoin rise</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index gained 0.42% to 2,859.38 in 24 hours to 5.55 p.m. in Hong Kong, but is down 2.18% % on the week.</p>
+      <p>At the same time, the Forkast ETH NFT Composite lost 0.61% to 968.12, losing 2.78% in the past seven days.</p>
+      <p>NFT trading volume on Ethereum rose 22% in 24 hours to 21.80 million, while that on the Bitcoin network gained 390.70% to US$13.80 million, according to CryptoSlam data.</p>
+      <p>The rise in sales volume on Bitcoin blockchain was supported by Uncategorized Ordinals – CryptoSlam’s category of Bitcoin Ordinals that are not part of one established collection – which rose 7.06% to US$9.80 million. This was followed by BTC Survival Gear collection which rose 585.06% to US$3.04 million.</p>
+      <p>Sales volume of the original Azuki collection on Ethereum rose 27.46% to US$3 million while that of Azuki Elementals dropped 18.15% to US$2.5 million.</p>
+      <p>While the new Azuki Elementals sold out its 20,000 NFTs within 15 minutes when it began minting on Tuesday, collectors were “angry” as the new NFTs looked almost identical to the original Azuki collection, according to Yehudah Petscher, NFT strategist at Forkast Labs, the parent company of Forkast.News. That could potentially devalue the NFT collection as a whole, he said.</p>
+      <h3>Asian markets mixed; U.S. stock futures, European bourses rise</h3>
+      <p>Asian equity markets were mixed on the last day of June as investors assessed economic data from the U.S. and China.</p>
+      <p>China’s factory activity declined in June for a third straight month, as the manufacturing purchasing managers’ index moved up to 49.0, compared to 48.8 in May. A reading below 50 indicates contraction. Chinese Premier Li Qiang said on Tuesday that China was still on track to meet its 5% annual growth target.</p>
+      <p>The Shanghai Composite gained 0.62% and the Shenzhen Component rose 1.02%. Hong Kong’s Hang Seng Index dropped 0.09% and Japan’s Nikkei 225 lost 0.14%.</p>
+      <p>“Inflation, a slowing global economy, and high stock valuations present the three major challenges for investors in the second half of 2023,” Nigel Green, chief executive of financial advisory firm deVere Group, said in an emailed statement on Thursday.</p>
+      <p>“By focusing on quality stocks and implementing a diversified investment strategy, investors can position themselves to navigate through uncertainty and capitalize on the inevitable rewards that lie ahead,” Green added.</p>
+      <p>European bourses strengthened on Friday after data showed that inflationary pressures in the Euro Zone had cooled in June. The latest consumer price index revealed that headline inflation eased to a more than expected 5.5% in June, and lowest since January 2022, before the war in Ukraine started. However, core inflation – excluding energy and food – rose to 5.4% in June.</p>
+      <p>The benchmark STOXX 600 gained 1.07% and Germany’s DAX 40 rose 1.18% during Tuesday afternoon trading hours in Europe.</p>
+      <p>U.S. stock futures strengthened as of 7 p.m. in Hong Kong, as the Dow Jones Industrial Average futures gained 0.32%, and the S&P 500 futures rose 0.41%. The Nasdaq 100 Futures climbed 0.50%.</p>
+      <p>U.S. economic growth expanded faster than expected in the first quarter, as the country’s gross domestic product climbed by an annualized rate of 2%, up from a previous estimate of 1.3%.</p>
+      <p>The amount of initial jobless claims in the U.S. dropped by 26,000 to 239,000 for the week ended June 24, the largest decrease since October 2021.</p>
+      <p>India’s Sensex index at the Bombay Stock Exchange gained 1.26% at the close of trading hours on Friday.</p>
+      <p>Earlier this week, credit rating agency S&P Global kept India’s economic growth outlook unchanged at 6% for the current financial year, and has called the world’s most populous nation the fastest growing economy in the Asia Pacific.</p>
+    </div>
+  },
+  {
+    id: 590,
+    title: 'Polygon 2.0 Roadmap Calls for ‘Unified Liquidity,’ Restaking, New Chains on Demand',
+    category: 'Crypto',
+    subCategory: ['Polygon', '2.0', 'Chains'],
+    description: <div className="blog-desc">
+      <p>Polygon, a scaling solution to the Ethereum blockchain, aims to “unify liquidity” of the various networks in its ecosystem as part of a new architecture under its rebrand as Polygon 2.0.</p>
+    </div>,
+    authorName: 'Margaux Nijkerk',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 8:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-760.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Polygon, a scaling solution to the Ethereum blockchain, aims to “unify liquidity” of the various networks in its ecosystem as part of a new architecture under its rebrand as Polygon 2.0.</p>
+    	<p>The plan also provide for restaking tokens, allowing investors to simultaneously stake the same tokens on multiple projects. And Polygon plans to give developers the ability to "add new decentralized chains on demand," according to a statement – joining competitors including Arbitrum, Optimism and zkSync's Matter Labs that have made their networks easier to copy, in the pursuit of fostering broader ecosystems of specialized but compatible blockchains.</p>	
+    	<p>Under the new tech stack, Polygon says it will link the various Polygon chains through a shared crypto bridge powered by zero-knowledge (ZK) proofs, one of this year’s hottest blockchain technologies. CoinDesk reported exclusively earlier this year that Polygon would emphasize ZK technology in its future project roadmap.</p>	
+    	<p>"Unified liquidity is the key to everything in Polygon 2.0,” said Brendan Farmer, the co-founder of Polygon in a press release. “We need to support unlimited scalability, but the entire Polygon 2.0 ecosystem must still feel like using a single chain. The validity of cross-chain transactions is guaranteed by ZK proofs posted to Ethereum, but we want bridging to feel seamless. We can’t make users wait for a chain to generate a proof or settle on Ethereum.”</p>
+      <p>With the new architecture, a coordination layer would come to exist to confirm cross-chain transactions, while the shared bridge will be powered by ZK proofs.</p>
+      <p>“With zero knowledge proofs, we can basically bridge or initiate cross-chain transactions in a way that's safe, and in a way that is instant,” Farmer told CoinDesk in an interview.</p>
+      <p>“And so what we want is this coordination layer for the shared bridge that allows for like an unlimited number of chains, but for those chains to sort of behave in a unified way,” Farmer said. ”For a user, it feels like you're using a single chain.”</p>
+      <p>Polygon provided this technical description of how it works: "Native Ethereum tokens will be deposited into a single contract on Ethereum, so when a user transacts across Polygon chains, the corresponding assets will be mapped to the tokens deposited on Ethereum. No need for wrapped tokens and the corresponding UX difficulties." UX stands for user experience.</p>
+      <p>The proposal also calls for an emphasis on restaking, which allows users to repurpose their staked crypto to ensure the security of other applications on a blockchain. Many protocols, like Eigenlayer, have recently embraced restaking.</p>
+      <p>Vitalik Buterin, the co-founder behind the Ethereum blockchain, has expressed reservations about restaking, fearing that it could create systemic risks for blockchains.</p>
+      <p>“I think restaking is a really nice answer to that question where there will be validators that stake the token in order to validate chains on Polygon,” Farmer said. “They'll be able to not only validate one chain, but they'll be able to restake their tokens to actually serve as decentralized validators.”</p>
+      <p>The announcement about Polygon’s new architecture and tech stack comes just a few days after it shared a proposal to upgrade its Polygon PoS chain to a zkEVM validium. Polygon has shared that it will also be releasing announcements over the next few weeks on its token, $MATIC, and its governance process.</p>
+      <p>“I think one of the guiding principles behind Polygon 2.0 is we want to build this sort of foundational piece of the internet, the value layer for the internet,” Farmer said.</p>
+      <p>Despite Polygon’s series of announcements, its MATIC token is down 30% over the past 30 days, the second worst performance among digital tokens tracked by the analysis firm Messari with a reported market cap of at least $500 million.</p>
+      <p>A major overhang is the U.S. Securities and Exchange Commission’s labeling the MATIC token earlier this month as security – a designation that could bring added regulatory scrutiny. Tokens from other layer 2 projects are also down over the past 30 days, but not as much: Optimism has lost 13%, and Arbitrum is down 6%.</p>
+    </div>
+  },
+  {
+    id: 589,
+    title: 'Crypto gets a boost following reports of Fidelity’s imminent Bitcoin spot ETF filing',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Fiedelity', 'ETF'],
+    description: <div className="blog-desc">
+      <p>There’s a saying in gambling circles that the house always wins. It’s not an unreasonable supposition, given the fact that if casino operators didn’t bring in more cash than they paid out, they’d be forced to shut up shop.</p>
+    </div>,
+    authorName: 'Forkast.News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 3:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-759.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <h3>In this issue</h3>
+      <ol>
+        <li>Fidelity: Close to filing its own Bitcoin ETF</li>
+        <li>Forkast 500 NFT Index: Azuki disappoints</li>
+        <li>Asset tokenization in Singapore: One step closer</li>
+      </ol>
+      <h3>From the Editor’s Desk</h3>
+    	<p>Dear Reader,</p>
+    	<p>There’s a saying in gambling circles that the house always wins. It’s not an unreasonable supposition, given the fact that if casino operators didn’t bring in more cash than they paid out, they’d be forced to shut up shop.</p>	
+    	<p>Some in the crypto community might be applying that same saying to the bastions of traditional finance this week as Wall Street appears to be putting another move on cryptocurrencies in which the ultimate winner seems set to be itself.</p>	
+	    <p>Fidelity, one of the world’s biggest asset managers, is reportedly preparing to file an application to establish a spot Bitcoin exchange-traded fund. That would be a big bet on crypto — or at least on the coin that started it all.</p>
+      <p>Almost by definition, it would also be a bet against the hostility to crypto shown by the U.S. Securities and Exchange Commission since the collapse of the FTX exchange last year.</p>
+      <p>The regulator’s apparent distaste for crypto has made casualties of many companies in the sector that have bet against it in recent times. Binance, Coinbase, Kraken, Genesis and Gemini have all been on the receiving end of enforcement action, and the commission has set its sights on cryptocurrencies.</p>
+      <p>Traditional finance firms have also bet against the SEC and lost, although only in terms of commercial opportunities that have gone untapped rather than actual penalties, losses and business closures.</p>
+      <p>As we note in this week’s edition of The Current Forkast, Fidelity’s application for a spot Bitcoin ETF isn’t the company’s first. Indeed, the SEC has turned down every application for such a fund to date.</p>
+      <p>But traditional finance sector players such as Fidelity and BlackRock, which lodged a spot Bitcoin ETF application a fortnight ago, are now showing increased confidence about their prospects of gaining the regulator’s favor.</p>
+      <p>Perhaps it’s because they’re buoyed by judicial skepticism about the SEC’s reasoning in denying a spot Bitcoin ETF license to crypto asset manager Grayscale. Perhaps it’s also because they sense the pendulum might have swung too far against crypto and that the regulator may be minded to offer the industry a concession in the form of a vanilla financial product.</p>
+      <p>Overall, the house needs to win to keep the tables open. Yet the original question posed by crypto was: Who runs the house? Given that the SEC appears unilaterally to have made up its mind, it feels like high time others started asking that question once again.</p>
+      <p>Until the next time,</p>
+      <p>Angie Lau,</p>
+      <p>Founder and Editor-in-Chief</p>
+      <p>Forkast.News</p>
+      <h3>1. Bull run</h3>
+      <p>Cryptocurrencies are receiving a significant push as Fidelity Investments is reportedly nearing the filing of its own spot Bitcoin exchange-traded fund (ETF), the Block reported Tuesday, citing people familiar with the matter.</p>
+      <ul>
+        <li>The move would not be Fidelity’s first attempt to file for a Bitcoin-backed ETF. In March 2021, the Wall Street giant filed for a spot Bitcoin ETF named the Wise Origin Bitcoin Trust, which was rejected by the U.S. Securities and Exchange Commission in January 2022. But it launched the Fidelity Advantage Bitcoin ETF in Canada in December 2021, which has risen 75% since the beginning of this year.</li>
+        <li>According to the Block, Fidelity’s application will join the list of financial institutions that have recently submitted or updated their applications to issue spot Bitcoin ETFs, including BlackRock, WisdomTree, Invesco, Valkyrie and Bitwise.</li>
+        <li>A spot Bitcoin ETF is a publicly traded investment vehicle tracking Bitcoin price, which allows investors to have Bitcoin exposure without directly handling the underlying cryptocurrency.</li>
+        <li>“Bitcoin ETF applications have supported investors’ sentiment as institutional and retail investors could show increasing interest in the market through such investment vehicles,” said Denys Peleshok, head of Asia at Belize-based financial brokerage CPT Markets, in email comments.</li>
+        <li>“If the SEC approves new applications, the market could record a surge in demand and in the number of buyers,” said Peleshok. “Due to the SEC’s legal stance over cryptocurrencies, the market could further concentrate on Bitcoin and Ethereum, the two largest assets in the market.”</li>
+        <li>Since BlackRock filed for its Bitcoin ETF on June 15, Bitcoin is up by more than 22%, peaking at US$31,389 on June 23, the highest since June 2022. Bitcoin traded at US$30,433, at press time, according to data from CoinMarketCap.</li>
+      </ul>
+      <h3>Forkast.Insights | What does it mean?</h3>
+      <p>The potential foray of Fidelity, globally recognized as the third largest asset manager, into the ETF domain hardly raises eyebrows among those tuned in to the vibrant buzz of Twitter’s rumor universe.</p>
+      <p>In the wake of the ETF application of the world’s largest asset manager, BlackRock, industry watchers projected that Fidelity, the Bostonian investment giant with US$4.2 trillion in assets under management, would be the subsequent contender to lodge and apply for a spot Bitcoin ETF.</p>
+      <p>This topic also fuelled speculation that Fidelity might put in a bid for Grayscale, the digital asset manager responsible for the US$13.5 billion Grayscale Bitcoin Trust, the world’s biggest Bitcoin fund. So far, there has been no substantial evidence for the buyout.</p>
+      <p>Fidelity has taken a proactive stance in embracing Bitcoin and other digital assets, eclipsing many of its traditional finance contemporaries. The firm claims that its research on the asset class dates back to 2014.</p>
+      <p>In 2018, the firm launched an institutional trading platform for Bitcoin and Ethereum. A year later, in 2019, it expanded its venture into the Bitcoin mining business through Bitcoin technology firm Blockstream’s institutional mining service.</p>
+      <p>Last year, it even joined the lengthy list of firms whose Bitcoin ETF applications got rejected by the SEC. And last week, EDX Markets, a non-custodial crypto exchange backed by Fidelity and other Wall Street titans, went live.</p>
+      <p>In addition, Fidelity has shown an assertive drive in obtaining indirect exposure to Bitcoin via Microstrategy, the preeminent corporate Bitcoin holder globally. Fidelity has secured its position as Microstrategy’s third largest shareholder, possessing 6.7% of the stock, valued at over US$225 million. BlackRock follows as the fourth largest owner with 5.58%, approximating around US$185 million.</p>
+      <p>Despite the entrance of these behemoth asset managers into the U.S. ETF race, the waiting list is long. ARK Invest Chief Executive Officer Cathy Wood claims that her firm is in position to launch the first spot-Bitcoin ETF in the world’s largest economy.</p>
+      <h3>2. Liquid dreams</h3>
+      <p>The NFT markets saw another week of decline, and again, Ethereum’s NFT ecosystem is dragging the broader market down. The Forkast 500 NFT Index is down 1.32%, as Ethereum’s decline of 1.51% stands in stark contrast to Solana, Polygon, and Cardano’s gains in value of 1.7%, 1.23% and 5.75%, respectively.</p>
+      <ul>
+        <li>Ethereum sales volume rose 318% on Thursday following Azuki’s Elementals mint, which brought in US$38 million to the Azuki team in just 15 minutes.</li>
+        <li>Azuki’s floor price decreased 45% to 9 Ether following the Elementals mint, and the average sales price declined to US$23,000, down from US$39,000 the previous seven days.</li>
+        <li>Bored Ape Yacht Club’s average sales price is up in the past seven days to US$79,214. However large BAYC holders like Machi Big Brother and Franklin have combined to sell over 60 Bored Apes, applying downward pressure on the collection.</li>
+        <li>Solana’s 98,917 transactions on June 25 were its single highest daily total of NFT transactions in over eight months. September 2022 was the last time the blockchain had this level of activity, when the Y00ts were still surging on Solana.</li>
+        <li>Seven-day sales volume was up across several blockchains with Ethereum up 105%, Bitcoin 22%, Solana 24%, and Polygon 10%. Mythos Chain, BNB, and Flow were down 18%, 20% and 23%, respectively.</li>
+        <li>DeGods is now the third most expensive PFP based on floor price following Azuki’s falling prices. Azuki’s cheapest NFTs are selling for as low as 8.5 ETH, while DeGods is nearly 1 ETH higher at 9.5 ETH.</li>
+      </ul>
+      <h3>Forkast.Insights | What does it mean?</h3>
+      <p>This year’s biggest new NFT mint took place on Tuesday, as one of the top NFT projects, Azuki, delivered a new collection called Elementals. While some were hopeful the new collection would breathe life into the NFT markets, it instead drained liquidity from traders who sold assets across projects to afford the hefty 2 ETH mint price. The impact was visible on the Forkast 500 NFT Index even in the midst of Ethereum NFTs having its single highest day of sales volume this year with US$58 million.</p>
+      <p>Azuki’s Elementals did provide some lucky traders with rare Elementals NFTs that were flipped for over 30 ETH, but most secondary sales are taking place well below the collection’s 2 ETH mint price. Instead of Azuki’s Elementals helping the broader NFT ecosystem, it instead sucked liquidity from holders, and almost across the board, brought other collections’ sales prices down with it.</p>
+      <p>What went wrong with Azuki’s mint is a familiar story, and shows that the NFT space may not be as mature as some would like to believe. Starting from the initial sale that left many Azuki and Beanz holders stuck on a loading page, and ultimately unable to mint, to the massively underwhelming art reveal that almost looks like duplicates of the main Azuki collection, NFT projects talk about innovation, yet time after time, fail to deliver it.</p>
+      <p>For all the talk of innovation, we have witnessed few examples of it, and other than functioning as ‘meme coins’, traders shouldn’t expect another NFT boom until we see actual innovation.</p>
+      <p>If the Azuki team can turn around the current negative sentiment in their project and help foster the higher floor prices that their holders have come to expect, we may then see sales with profits that roll into existing collections floors. We’ll be watching.</p>
+      <h3>3. Singapore calling</h3>
+      <p>The Monetary Authority of Singapore (MAS), the city state’s central bank, has proposed a framework to design open and interoperable networks for digital assets, as the country seeks to harness the power of asset tokenization to improve its traditional financial services.</p>
+      <ul>
+        <li>“The real value in the digital asset ecosystem” lies in the tokenization of real-world and financial assets through distributed ledger technologies and smart contracts,  which could “enhance the efficiency, accessibility, and affordability of financial services,” MAS wrote in its report.</li>
+        <li>“Unless digital asset networks are interoperable, both with each other and with traditional financial market infrastructures, fragmentation would reduce the network benefits and can create frictions such as inaccessibility, increased liquidity requirements due to separation of liquidity pools, and pricing arbitrage,” noted MAS.</li>
+        <li>MAS’ proposal – jointly developed with the Bank for International Settlements and other financial institutions – is part of Singapore’s Project Guardian initiatives announced in May 2022 to explore the adoption of asset tokenization and decentralized finance in the city state’s financial industry.</li>
+        <li>MAS also announced an expansion of Project Guardian to test the potential of asset tokenization across more financial asset classes, enlisting 11 financial institutions — including banking giants Citi, HSBC, DBS and Standard Chartered — to form the Project Guardian Industry Group to lead industry pilots in asset and wealth management, foreign exchange and fixed income.</li>
+        <li>Japan Financial Services Agency, the first overseas financial regulator to join Project Guardian, will work with MAS on digital asset innovation while safeguarding against risks to financial stability and integrity.</li>
+        <li>MAS’ move comes as Singapore seeks to utilize the power of blockchains in its financial system, while minimizing risks of crypto assets. Last Thursday, The Asia-Pacific branch of technology firm Ripple Labs said it would start offering crypto-enabled digital payment services in Singapore after receiving in-principle approval from the MAS.</li>
+        <li>Also on Thursday, MAS released a whitepaper – jointly developed by the International Monetary Fund, Amazon, DBS Bank, and multiple other industry players.– for “purpose-bound” money, detailing a technical overview of digital currencies designed for specific purposes.</li>
+      </ul>
+      <h3>Forkast.Insights | What does it mean?</h3>
+      <p>The Monetary Authority of Singapore’s announcement of a framework for interoperable digital asset networks stands out as an example of Singapore doing what it does best: high-tech, innovative efficiency — shepherded, of course, by the state.</p>
+      <p>The fact that the country’s de facto central bank is developing its framework jointly with the Bank for International Settlements and the International Organization of Securities Commissions simply emphasizes the establishment credentials of the initiative.</p>
+      <p>Coming less than a month after Hong Kong unveiled its virtual asset licensing framework — a cornerstone of city authorities’ plan to welcome crypto back after imposing tough restrictions on it — Singapore’s framework may have the feel of a riposte to Hong Kong’s recent punt on digital assets, even though it has long been in the works. But to view it in such a way would be mistaken.</p>
+      <p>On the contrary, Hong Kong’s rollout of digital asset licensing rules might be interpreted by cynics as a roll of the dice by the rulers of a city suffering hard times. After all, Hong Kong’s star has waned in recent years following the authorities’ crushing of its once-celebrated first-world freedoms and their handling of the Covid pandemic, both of which have prompted an exodus of talent and a collapse of foreign business confidence.</p>
+      <p>Hong Kong’s attitude to crypto has see-sawed over the years, as has Singapore’s, to a lesser extent. But overall, the Southeast Asian nation has been honing its approach to digital assets fairly steadily and for a long time, and its latest plan to develop the industry marks merely one more milestone along that road.</p>
+      <p>The MAS’s initiative has less of an air of opportunism about it than Hong Kong’s recent embrace of digital assets. In fact, the authority’s plan is so measured, technocratic, centralizing and heavy on the involvement of TradFi heavyweights that it feels more like fintech than frontier finance of the sort imagined by crypto and digital asset purists.</p>
+      <p>As a development spawned by the disruptive phenomenon of digital assets, Project Guardian, as the initiative is named — and as its name suggests —  appears to represent the very opposite of disruption. It will likely be seamless, safe and secure — and not a little dull. Right on brand for Singapore. What’s more interesting, however, is whether it will join previous initiatives implemented by the city-state as another of its successful exports.</p>
+    </div>
+  },
+  {
+    id: 588,
+    title: 'Michael Saylor touts a new massive bitcoin haul as MicroStrategy now hodls $4.6 billion worth of tokens',
+    category: 'Crypto',
+    subCategory: ['Michael Saylor', 'bitcoin', 'tokens'],
+    description: <div className="blog-desc">
+      <p>MicroStrategy just added 12,333 bitcoins to its coffers at an average purchase price of $28,136 per token, according to a new regulatory filing.</p>
+    </div>,
+    authorName: 'Phil Rosen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 28, 2023 - 5:09 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-761.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Michael Saylor's MicroStrategy bought an additional 12,333 bitcoin, for about $347 million.</li>
+        <li>That brings the company's total holdings to 152,333 bitcoin, worth roughly $4.6 billion at current prices.</li>
+        <li>Bitcoin's strong rally in 2023 helped MicroStrategy notch its first profitable quarter in over two years.</li>
+      </ul>
+    	<p>MicroStrategy just added 12,333 bitcoins to its coffers at an average purchase price of $28,136 per token, according to a new regulatory filing.</p>
+    	<p>Founder and Executive Chairman Michael Saylor, a prominent bitcoin bull, tweeted the announcement Wednesday, adding that the company now "hodls" — an acronym for "hold on for dear life" — 152,333 bitcoins in total, acquired for roughly $4.52 billion and purchased at an average price of $29,668 per token.</p>	
+    	<p>At current bitcoin prices, the enterprise software company's bitcoin stockpile is worth about $4.6 billion.</p>	
+    	<p>MicroStrategy's latest bitcoin purchase comes after Saylor predicted earlier this month that the US regulatory crackdown on cryptocurrencies will help bitcoin nearly double its market share.</p>
+      <p>In this year alone, bitcoin's share of the crypto industry's overall market capitalization has gone from 40% to 48%, he told Bloomberg TV. But with regulators targeting other tokens, bitcoin's dominance will to grow to 80%, he added.</p>
+      <p>"Now I think that the public is beginning to realize that bitcoin is the next bitcoin," Saylor said. "The next logical step is for bitcoin to 10x from here and then 10x again."</p>
+      <p>In 2023, the world's largest cryptocurrency has rallied about 82%. Thanks to its strong performance, MicroStrategy in the first three months of the year notched its first profitable quarter in more than two years.</p>
+      <p>"The conviction in our bitcoin strategy remains strong as the digital asset environment continues to mature," CFO Andrew Kang said in a statement in May, after the company had snapped up 7,500 tokens that quarter.</p>
+      <p>Saylor, an active market commentator via Twitter, has made other predictions recently, including how the next president will be pro-bitcoin, how the token is more attractive than the traditional safe haven asset gold, and even calling the crypto "immortal."</p>
+    </div>
+  },
+  {
     id: 587,
     title: 'Binance market share at 1-year low: Kaiko',
     category: 'Crypto',
