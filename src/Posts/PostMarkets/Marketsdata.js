@@ -1,5 +1,356 @@
 const data = [
   {
+    id: 567,
+    title: 'GE Stock Rallies 68% Ahead Of Its Huge Aerospace Play. Whats In Store For Investors.',
+    category: 'Markets',
+    subCategory: ['GE', 'Stocks', 'Aerospace'],
+    description: <div className="blog-desc">
+      <p>General Electric (GE) is fast approaching the end of the runway as an iconic American conglomerate. A more svelte and focused GE is preparing to take off in a new direction</p>
+    </div>,
+    authorName: 'APARNA NARAYANAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July  1, 2023 - 12:25 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-782.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>General Electric (GE) is fast approaching the end of the runway as an iconic American conglomerate. A more svelte and focused GE is preparing to take off in a new direction — as GE Aerospace, a pure-play aviation and defense stock.</p>
+    	<p>Investors are so far cheering the change. GE stock hit a new high June 30 and has soared 68% in 2023 so far, after spinning out its GE Healthcare Technologies (GEHC) unit as a separate company late last year. And GEHC stock has climbed 45% since its Jan. 4 debut.</p>	
+    	<p>The split-off of GE's power-generation unit, Vernova, is set for early 2024. It will leave a free-standing GE Aerospace and bring the industrial giant's long and intricate restructuring to a close.</p>	
+    	<p>Once GE was known as the ultimate conglomerate, with its fingers in everything from light bulbs, refrigerators and washing machines to media, entertainment, financial services, energy systems and jet engines. But in the 2000s, the onetime star stock hit several slides, including an 83% slump from 2016 to 2020. It jettisoned businesses.</p>
+      <p>On Wall Street, at least for now, the GE bears have fled. Investors have hoisted GE stock to its best level in five years.</p>
+      <p>But with the big GE breakup nearing its home stretch, what should investors expect? Will the run-up of GE stock hold its ground? And can the emergence of GE Aerospace make this American icon relevant again after a decadeslong plunge from grace?</p>
+      <h3>GE Aerospace Joins Blue Chip Stocks</h3>
+      <p>Years of aerospace industry challenges are easing, turning into significant tailwinds for aviation companies. Hurdles remain, however. The soon-to-be GE Aerospace boasts robust growth estimates. And among blue chip stocks, it gives investors a megacap alternative to Boeing (BA) to play defense stocks and the aerospace sector recovery.</p>
+      <p>GE Aerospace could also fan industry momentum. There has been speculation of a GE merger with the aerospace unit of Honeywell International (HON). That suggests a combination that could challenge the dominance of Raytheon Technologies (RTX), now branded RTX.</p>
+      <p>Several factors have helped lift shares of General Electric and its aerospace peers. China's reopening has been disappointing overall but has stirred an uptick in international travel.</p>
+      <p>And, overall, commercial aviation continues to gain steam after taking a big hit early in the Covid-19 pandemic. Global air traffic rose 21% in 2022 and now stands at roughly 90% of pre-pandemic levels, GE says. That means more need for aircraft repair and services, replacement parts and components.</p>
+      <p>At the Paris Air Show in June, GE Aerospace revealed an order for more than 100 commercial jet engines from China Airlines and Riyadh Air for their Boeing Dreamliner fleets. Also during the event, both GE and Raytheon signaled improvements in key engine programs and aerospace supply chains.</p>
+      <p>On the military side, GE Aerospace revealed it may produce engines for fighter jets locally in India for the first time, as that country and the U.S. expand efforts to counter China's growing diplomatic might.</p>
+      <p>"The best days are ahead for this aerospace business because of all the longer-term drivers" of growth, said RBC Capital Markets analyst Deane Dray.</p>
+      <h3>Clarifying The GE Aerospace Picture</h3>
+      <p>Underpinning Wall Street's bullish view on GE stock is General Electric's massive installed base of aircraft engines. The GE aerospace business boasts 67,000 engines in service across the commercial and defense markets.</p>
+      <p>But for many years, other businesses clouded the GE aerospace narrative. Cleaving off health care, power generation and other smaller units clarifies the picture. That makes the line of sight into what makes the jet-engine maker successful and "even more attractive," Dray said.</p>
+      <p>The analyst has covered GE stock since 2001, or as Dray likes to say, "since the last year of (legendary GE CEO) Jack Welch." In his view, aerospace was "always the jewel" in a sprawling portfolio of businesses, through all of GE's ups and downs.</p>
+      <p>One strength of the GE aerospace unit is that each engine sold produces a steady — and highly profitable — revenue stream for decades to come, due to the need for sophisticated upkeep.</p>
+      <p>The GE aerospace business generated $26.1 billion in revenue in 2022, up 22% from 2021. A full 70% of that total came from services. The other 30% was equipment sales. Segment profits totaled $4.78 billion, up 66%, led by the parts and services business and offset by rising shipments of newer and therefore less profitable jet engines.</p>
+      <h3>General Electric Separation Of GE Aerospace</h3>
+      <p>General Electric plans early next year to separate aerospace from the sole other remaining business — the energy unit that manufactures gas and wind turbines. Since 2009, GE has sold or spun off other assets, from lighting to locomotives, keeping with the larger global trend to demerge corporate conglomerates.</p>
+      <p>"The timing has been perfect because investors want this aerospace exposure," Dray said. They're buying the stock although it includes the low-growth energy piece for now.</p>
+      <p>Boeing plans to boost production of its bestselling 737 Max and the 787 Dreamliner by the end of this year, on surging demand from airline customers. GE makes engines for both those jets, and also supplies Airbus (EADSY). The company expects commercial air travel to grow 25% annually through 2025, surpassing pre-pandemic levels next year.</p>
+      <p>All that points to rising demand for jet engines, as well as components and systems for commercial aircraft. GE also supplies engines and other products for military aircraft, along with a range of services needed to maintain and repair them.</p>
+      <h3>GE Stock Hits Highest Stock Price Since 2018</h3>
+      <p>Shares of GE stock briefly surged in late 2021. That's when General Electric announced it would spin out its energy and health care units. But at that point, the promise of a stand-alone aerospace and defense stock in 2024 couldn't sustain the shares. The stock stalled for more than a year.</p>
+      <p>GE stock swung into a sharp recovery beginning in October. It has since climbed about 127% to 109.85 on June 30, its highest level since early 2018.</p>
+      <p>The January spinoff of GE HealthCare Technologies boosted hopes of GE shares coming out of deal purgatory.</p>
+      <p>Another big boost for GE stock came March 9 during an investor event in Cincinnati. Management forecast earnings would more than double in 2023. For aerospace, they guided revenue growth in the mid- to high teens, with margins reaching 20% by 2025 and expanding further in the long term.</p>
+      <p>"We think we're going to have a very good year," GE CEO Larry Culp said.</p>
+      <p>"Not unmindful of the fact that a lot of people are talking about recession, but we're talking about a high-growth year at GE, right?" he added.</p>
+      <p>GE stock jumped 5% March 9. Shares turned actionable for growth investors over the past week, as the stock rebounded from its 10-week moving average. The rebound was weak, but a rise in volume would put GE squarely in the target zone.</p>
+      <h3>Transformation Amid Catastrophe</h3>
+      <p>In the first quarter, the GE aerospace business saw double-digit growth in orders, revenue and profits. Production of the new, fuel-efficient Leap engines leapt 53%. Shop visits climbed 32%. Air India selected 800 Leap engines to power its entire narrow-body fleet, the largest Leap order ever, GE said.</p>
+      <p>Among blue chip stocks, GE's 68% rally year to date far outpaces those of other aerospace and defense stocks. Boeing stock is up roughly 11% over the same period, while Raytheon stock is down about 3%.</p>
+      <p>Shares of GE had cratered in 2017-18 amid an earnings collapse, and analysts declared the industrial bellwether in crisis mode.</p>
+      <p>Since Culp took over as CEO in 2018, GE has simplified its portfolio, continuing to shed businesses while working to slash the company's considerable debt. General Electric reported $134.6 billion in total borrowings at the end of 2018. By December 2022, that had been cut to $32.4 billion.</p>
+      <p>Over this time, its prized aerospace business fought various fires: the Boeing 737 Max groundings, the 787 delivery halts, the sharp downturn in commercial air travel and severe supply disruptions due to the coronavirus outbreak.</p>
+      <p>General Electric's transformation under these circumstances struck many as audacious. Especially since it still had earnings to deliver and expectations to meet as a public company.</p>
+      <p>"It's like trying to change a car tire while the car is going down the highway at 55 miles an hour," RBC Capital's Dray told IBD.</p>
+      <h3>China Flies On GE Aerospace Power</h3>
+      <p>Now GE's aerospace business is poised for prime time.</p>
+      <p>On the commercial side, the forthcoming GE Aerospace has seen travelers return to the skies, pushing global airlines to renew and expand their fleets.</p>
+      <p>On the military side, aerospace is benefiting from rising U.S. and EU defense budgets amid the Russia-Ukraine war and China-Taiwan threat.</p>
+      <p>Jet engines are extremely complex pieces of engineering. Few companies are better at producing this intricate equipment at scale than GE, said Morningstar analyst Joshua Aguilar.</p>
+      <p>To put things in context, Aguilar noted that Chinese companies like Comac have built aircraft "but they haven't been able to successfully build a commercial engine." A Leap engine powers the new Comac C919, China's first domestically made passenger plane.</p>
+      <h3>Challenges Faced By GE Aerospace</h3>
+      <p>Yet investors awaiting the arrival of GE Aerospace should expect some turbulence. Top among concerns, GE must meet the approaching deadline to separate its aerospace business from its energy business, GE Vernova.</p>
+      <p>Analysts see a bit of deal limbo still in GE stock as investors worry about hitches in the early 2024 decoupling, Aguilar says. (General Electric says the separation remains on track.)</p>
+      <p>Another concern is that industrial supply chains are still recovering from disruptions caused by the Covid-19 pandemic.</p>
+      <p>Jet-engine makers face persistent shortages of labor, parts and raw materials. In just one example, General Electric sent 12 of its machinists from Vermont to Arizona to help out a supplier.</p>
+      <p>And while Culp has successfully refocused on aviation, that move is not without risk. The business is highly cyclical. Higher interest rates and an economic slowdown could force airline customers to delay or cancel orders.</p>
+      <p>One concern, Morningstar analyst Aguilar says, is that the new GE won't have the medium-cycle businesses it once did "to offset long exposure in aviation." In addition, the company will still hold some legacy insurance liabilities.</p>
+      <p>Meanwhile, manufacturing, safety and other issues have delayed jet deliveries to end-users despite strong demand. Those issues have included durability issues with General Electric's Leap and RTX's geared-turbofan engines, which power Boeing and Airbus jets.</p>
+      <p>While the companies signal progress on those issues, analysts are focused on actual deliveries. One analyst dismissed rising jet and jet-engine orders during the recent Paris Air Show as "all but irrelevant" given delays in delivering jets already sold.</p>
+      <p>More broadly, aviation companies face risk from the spread of disease, as the coronavirus pandemic sharply brought home to investors. They are also vulnerable to geopolitical tensions, including the growing hostility between China and Taiwan. And all commercial U.S. and Western European flights were barred from Russian destinations or airspace shortly after Russia's attack on Ukraine.</p>
+      <h3>Other Blue Chip Aerospace & Defense Stocks</h3>
+      <p>How does the GE aerospace business stack up against competitors?</p>
+      <p>GE's commercial aviation franchise is especially strong, competing in several markets that are virtual duopolies.</p>
+      <p>It goes up against Pratt & Whitney, a division of Raytheon, in the market for narrow-body jets — the fuel-efficient designs that led the pandemic recovery. The Leap engine, made by a GE joint venture, powers the Boeing 737 Max and Airbus A320/A321neo narrowbodies.</p>
+      <p>In the widebody market, GE challenges the U.K.'s Rolls-Royce. Its GEnx engine powers the Boeing 787 Dreamliner, and its next-gen GE9X is powering the Boeing 777X.</p>
+      <p>For investors, the looming GE Aerospace promises focused exposure to the commercial aviation recovery.</p>
+      <p>"Compared to Boeing and Raytheon, GE Aerospace is arguably the highest-quality asset," analysts at Melius Research said in an April note.</p>
+      <p>GE Aerospace gets a higher (71%) share of its sales from the commercial end market than Raytheon (41%) and Boeing (53%), the analysts said, while enjoying the highest profit margins. RTX also has little exposure to the widebody market, which is expected to drive the next phase of commercial recovery.</p>
+      <p>Jet engines are often sold for a loss. But a company like GE "would make eight times the revenue servicing that jet engine at significantly higher profitability over its 30- or 40-year economic life, tied to takeoffs and landings," Dray said.</p>
+      <p>On the defense side as well, GE competes with Raytheon and Rolls-Royce to make engines for military jets.</p>
+      <p>General Electric also has a smaller avionics business, involving things like control and display units. Rivals include Honeywell and RTX's Collins Aerospace unit.</p>
+      <h3>Mergers, Other Opportunities For GE Stock</h3>
+      <p>Opportunities for GE Aerospace include a merger with Honeywell's aerospace business, analysts say.</p>
+      <p>Honeywell is a leading player in avionics and auxiliary power units. GE focuses mainly on jet engines. Their combined assets would span multiple offerings and "compete really well with the Raytheons of the world," Aguilar told IBD.</p>
+      <p>The companies previously tried, and failed, to merge in 2001. Speculation about their merger continues, with antitrust regulators likely to remain a hurdle.</p>
+      <p>Other opportunities reside in the technologies being developed for next-generation jets.</p>
+      <p>Those include the CFM RISE, which uses "open fan" architecture (meaning no engine covering) and aims to be 20% more fuel efficient than current-gen Leap engines.</p>
+      <p>Hybrid-electric powertrains and alternative fuels, like hydrogen, are also in the works.</p>
+      <p>In the defense market, the battle to build the next-gen engines for F-35 jets could be a huge opportunity. The F-35 is called the most expensive U.S. weapons systems program ever. It is expected to cost nearly $1.7 trillion over its lifetime, so the stakes are high.</p>
+      <p>The U.S. Air Force is exploring options. GE Aerospace has put forth its XA100 technology. Pratt, the incumbent engine supplier, is pushing for an upgrade program to the existing engines, while also offering a new power plant design.</p>
+      <p>The XA100 could make it on the next, sixth-gen F-35s, some analysts say. Its "adaptive cycle" engine allows stealth fighters to switch between high thrust mode for maximum performance and high efficiency mode for maximum range, GE says.</p>
+      <p>Aguilar called the XA100 a "phenomenal" piece of technology.</p>
+      <p>Last summer, GE Aviation changed its name to GE Aerospace, a move designed to highlight its role beyond commercial engines. It may also hint at ambitions up in space, the Morningstar analyst said.</p>
+      <h3>GE Vernova: A Tougher Spinoff</h3>
+      <p>In the countdown to GE Aerospace, a big watch item is the energy business.</p>
+      <p>General Electric boasts an installed base of 61,000 wind and gas turbines. But its energy business must try to get in the black before standing up on its own as GE Vernova. Profitability could affect the spinout timing.</p>
+      <p>In Q1, GE's renewable energy unit lost $414 million on revenue of $2.8 billion, down 1%. The gas power unit managed a $75 million profit on revenue of $3.8 billion, up 9%. Margins slightly improved in both segments, though still a double-digit negative in renewables.</p>
+      <p>Even General Electric CEO Culp expects the looming energy separation to be "a little tougher" vs. the GEHC health-care technologies spinoff in January.</p>
+      <p>As management tries to put the energy business on the path to profitability, it faces more scrutiny around project selection and profit margins.</p>
+      <p>"That is going to be the biggest story in GE stock over the next 12 months," Aguilar said.</p>
+      <p>On June 23, rival Siemens Energy warned of a "substantial increase in failure rates of wind turbine components" and withdrew 2023 guidance. The read-through for GE Vernova is not yet clear.</p>
+    </div>
+  },
+  {
+    id: 566,
+    title: 'US stocks rise after fresh batch of positive economic data and bank stress tests',
+    category: 'Markets',
+    subCategory: ['US', 'Stocks', 'rise'],
+    description: <div className="blog-desc">
+      <p>Stocks ended mostly higher on Thursday on upbeat economic news and positive results of the latest bank stress tests from the Federal Reserve.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 8:02 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-786.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Stocks rose on Thursday after second quarter GDP was revised upward.</li>
+        <li>Big banks on Wall Street passed their annual stress tests, dialing back fears of more banking turmoil.</li>
+        <li>The Dow gained more than 200 points. The S&P 500 edged higher while the Nasdaq was nearly flat.</li>
+      </ul>
+    	<p>Stocks ended mostly higher on Thursday on upbeat economic news and positive results of the latest bank stress tests from the Federal Reserve.</p>
+    	<p>The Dow Jones Industrial Average gained more than 200 points, while whe S&P 500 and Nasdaq Composite traded nearly flat.</p>	
+    	<p>Traders were encouraged by a revision to second quarter US GDP, which came in at 2%, up from original estimates of 1.4%. The latest figures have bolstered investors' confidence in the economy, which has held up despite the Fed's aggressive monetary policy over the past year.</p>	
+    	<p>Meanwhile, big lenders on Wall Street passed their annual stress tests from the Federal Reserve, leading to a rally in bank stocks. Shares of Bank of America and JPMorgan rose about 3% through the course of the day. Wells Fargo shares ended the day nearly 5% higher.</p>
+      <h3>Here's where US indexes stood at the 4:00 p.m. ET close on Thursday:</h3>
+      <ul>
+        <li>S&P 500: 4,396.56, up 0.45%</li>
+        <li>Dow Jones Industrial Average: 34,122.45, up 0.8% (269.79 points)</li>
+        <li>Nasdaq Composite: 13,591.33, down 0.01%</li>
+      </ul>
+      <h3>Here's what else is going on:</h3>
+      <ul>
+        <li>Costco is cracking down on sharing membership cards, and Wall Street is thrilled.</li>
+        <li>Here's the real reason why Americans feel so lousy about the economy despite a roaring job market.</li>
+        <li>The US is headed for a more serious recession than Powell thinks, according to Evercore's Roger Altman.</li>
+        <li>Housing inventory is now so tight that prices are barely off their all-time-highs, according to Redfin data.</li>
+        <li>China's economic recovery may be "doomed to fail,".</li>
+        <li>Foreign borrowers are issuing a record $10.4 billion of yuan debt to help internationalize China's currency.</li>
+        <li>The Fed is the only thing standing in a sustained bull market in stocks, Ned Davis Research said.</li>
+      </ul>
+      <h3>In commodities, bonds, and crypto: </h3>
+      <ul>
+        <li>Oil prices rose, with West Texas Intermediate up 0.22% to $69.71 a barrel. Brent crude, the international benchmark, edged up 0.3% to $74.25 a barrel.</li>
+        <li>Gold slipped 0.3% to $1,916.30 per ounce.</li>
+        <li>The 10-year Treasury yield ticked higher 13 basis points to 3.842%</li>
+        <li>Bitcoin moved higher 1.77% to $30,549.04</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 565,
+    title: 'The Fed is the only thing standing in the way of a sustained bull market in stocks',
+    category: 'Markets',
+    subCategory: ['Fed', 'Bull', 'market'],
+    description: <div className="blog-desc">
+      <p>A policy mistake from the Federal Reserve is the biggest risk that could cut short the current bull market in stocks, according to a Wednesday note from Ned Davis Research.</p>
+    </div>,
+    authorName: 'Matthew Fox',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 5:18 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-783.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>The current bull market in stocks looks sustainable as long as the Federal Reserve doesn't mess things up.</li>
+        <li>Ned Davis Research said on Wednesday that a Fed-induced recession is the most likely risk that could derail stocks.</li>
+        <li>"If the Fed panics and cuts rates, a blow-off bubble peak would be possible," NDR said.</li>
+      </ul>
+    	<p>A policy mistake from the Federal Reserve is the biggest risk that could cut short the current bull market in stocks, according to a Wednesday note from Ned Davis Research.</p>
+    	<p>The firm highlighted that the S&P 500's 25% rally from its mid-October low has all the hallmarks of a long-term secular bull market rather than a short-term cyclical bull market. But that can change pretty quickly if the Fed misfires on its interest rate policy.</p>	
+    	<p>"Short cyclical bulls tend to occur during secular bear markets and coming out of recessions. Neither describe the current backdrop. Brief bulls have also been caused by extraordinary events like an inflation resurgence or bubble blow-off top. This cycle's catalyst is more likely to be a Fed-induced recession," NDR said.</p>	
+    	<p>The firm said what's helping sustain the current bull rally is the fact that stocks have been in a secular bull market since 2009, and while it might be closer to the end than the beginning, it's too soon to say that a secular bear market has begun.</p>
+      <p>"The secular backdrop does not support the brief cyclical bull case," NDR said.</p>
+      <p>Additionally, the resilient economy since the COVID-19 pandemic means that 2022's bear market decline in stocks occurred absent a recession. That fact favors the idea that the current bull market in stocks is more secular in nature than cyclical, according to the note.</p>
+      <p>As a result, the Fed represents the biggest risk to the stock market, which is the case whether the Fed cuts or continues to raise interest rates.</p>
+      <p>Highlighting an example of how a policy mistake can come regardless of the direction of rates, NDR pointed out that the implosion of Long-Term Capital Management in 1998 sparked a brief bear market in stocks and led Fed Chairman Alan Greenspan to cut interest rates three times. Stocks took off after that, leading to a bubble.</p>
+      <p>"The current surge in FANMAG and AI stocks has not been nearly as great as [technology, media, and telecom] stocks in 1999. But if the Fed panics and cuts rates, a blow-off bubble peak would be possible," NDR said.</p>
+      <p>On the flip side, if inflation lingers and Fed Chairman Jerome Powell aggressively hikes interest rates again, he could plunge the economy into a recession and effectively end the bull market.</p>
+      <p>"A Volcker-type early 1980s recession would seem more likely than a Burns/Miller policy mistake, but an external shock could trigger a resurgence in inflation beyond the Fed's control," NDR said.</p>
+      <p>Ultimately, a lot has to go right for the bull market to be sustainable and long-lasting, and much of that hinges on the Fed finding the sweet spot for interest rates that enables continued economic growth but also keeps inflation at bay.</p>
+      <p>With interest rates sitting at more than 5%, all eyes will be on the Fed's next interest rate decision at its July FOMC meeting.</p>
+    </div>
+  },
+  {
+    id: 564,
+    title: 'Fidelity Converting $13.5B in Mutual Funds to ETFs',
+    category: 'Markets',
+    subCategory: ['Fidelity', 'Funds', 'ETFs'],
+    description: <div className="blog-desc">
+      <p>Fidelity Investments is converting six mutual funds holding $13.5 billion in assets into exchange-traded funds, a quantum leap from its previous transition, as the move toward the more flexible exchange-traded format accelerates.</p>
+    </div>,
+    authorName: 'Ron Day',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 12:15 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-787.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Fidelity Investments is converting six mutual funds holding $13.5 billion in assets into exchange-traded funds, a quantum leap from its previous transition, as the move toward the more flexible exchange-traded format accelerates.</p>
+    	<p>Boston-based Fidelity, which manages $4.2 trillion and is the world’s fourth biggest asset manager, is converting a batch of actively managed funds, which charge higher fees and are growing in popularity as investors seek returns that beat broad markets.</p>	
+    	<p>Fidelity converted $427 million into ETFs this month under a plan announced in November, and this latest $13.5 billion batch represents a massive expansion of its strategy. ETFs are widely seen as having liquidity, tradability and tax advantages over mutual funds, and have been adding assets while mutual funds are shedding them.</p>	
+    	<p>“Conversions represent one option for traditional mutual fund managers to enter the faster growing ETF space,” CFRA’s Head of ETF Data and Analytics Aniket Ullal told etf.com in an email. “While conversions will accelerate the growth of ETFs at the expense of traditional mutual funds, the latter will continue to be important in areas such as defined contribution plans, where traditional funds are still dominant.”</p>
+      <p>Around $71 billion in mutual funds have switched over into exchange-traded funds since the first was done in 2021, Ullal said. That total may swell to $1 trillion over the next decade or so, Bloomberg ETF analyst Eric Balchunas has estimated. Asset managers including JPMorgan Chase & Co. and Dimensional ETFs are among companies that have swapped mutual funds into ETFs.</p>
+      <h3>Active Management</h3>
+      <p>Fidelity, with $35.9 billion held in 58 U.S.-traded ETFs, is also aiming at the rapidly growing actively managed field. Actively managed ETF inflows surged 45% in May to $8.4 billion, according to Morningstar. Flows into active funds made up about a quarter of all May ETF inflows, despite the category comprising about 5% of total exchange-traded fund assets.</p>
+      <p>Fidelity will convert the following mutual funds, according to a filing:</p>
+      <ul>
+        <li>International Enhanced Index Fund (FIENX) will become Enhanced International ETF</li>
+        <li>Large Cap Core Enhanced Index Fund (FLCEX) will become Enhanced Large Cap Core ETF</li>
+        <li>Large Cap Growth Enhanced Index Fund (FLGEX) will become Enhanced Large Cap Growth ETF</li>
+        <li>Large Cap Value Enhanced Index Fund (FLVEX) will become Enhanced Large Cap Value ETF</li>
+        <li>Mid Cap Enhanced Index Fund (FMEIX) will become Enhanced Mid Cap ETF</li>
+        <li>Small Cap Enhanced Index Fund (FCPEX) will become Enhanced Small Cap ETF.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 563,
+    title: 'Ark Invests Cathie Wood Is Betting Big On AI With These 4 Stocks — Including One That Could Skyrocket 670%',
+    category: 'Markets',
+    subCategory: ['ARk', 'Cathie Wood', 'AI'],
+    description: <div className="blog-desc">
+      <p>Ark Invest's Cathie Wood is known for investing in disruptive innovation. The super investor has placed big bets on artificial intelligence (AI),</p>
+    </div>,
+    authorName: 'Jing Pan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 11:58 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-781.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ark Invest's Cathie Wood is known for investing in disruptive innovation. The super investor has placed big bets on artificial intelligence (AI), which is widely regarded as one of the most disruptive and transformative technologies today.</p>
+    	<p>Speaking of AI stocks, it's hard to ignore what Nvidia Corp. (NASDAQ:NVDA) has been doing. Shares of the chipmaking giant have surged 187% so far this year, and the company crossed $1 trillion in valuation.</p>	
+    	<p>Ark Invest's flagship fund Ark Innovation ETF (NYSE:ARKK) exited its position in Nvidia in January, but some of its other exchange-traded funds (ETFs) still have positions in the chipmaker.</p>	
+    	<p>In a recent interview with Bloomberg Television, Wood said that Nvidia "will do well over time." But she sees a new group of stocks that will "benefit from the foundation that Nvidia has laid."</p>
+      <p>The keyword is software.</p>
+      <p>"In our view, for every dollar of hardware that Nvidia sells, software providers, SaaS [software as a service] providers will generate $8 in revenue," she said. "So we are looking to the software providers who are actually right now where Nvidia was when we first bought it."</p>
+      <p>The super investor then named three software companies she believes will thrive because of AI. Here's a look at the trio and another company she calls "the biggest artificial intelligence play."</p>
+      <h3>Check out:</h3>
+      <ul>
+        <li>Investing in real estate just got a whole lot simpler. With as little as $100, average investors are becoming landlords thanks to this Jeff Bezos-backed startup.</li>
+        <li>Blackstone made a $13 billion bet on the growth in student housing. Here's how you can carve out your own piece of the student housing market with just $500.</li>
+      </ul>
+      <h3>UiPath Inc. (NYSE:PATH)</h3>
+      <p>UiPath is a robotic process automation software company that provides automation solutions for businesses. Its AI-powered UiPath Business Automation Platform is capable of understanding, automating and operating end-to-end processes.</p>
+      <p>In the first quarter of 2023, the company's revenue grew 18% year over year to $289.6 million. Notably, its dollar-based net retention rate was 122%.</p>
+      <p>The stock has surged 36% year to date, but it hasn't always been a hot commodity: In 2022, UiPath shares plunged 70%.</p>
+      <p>Wood's Ark Innovation ETF owns 28,363,938 shares of UiPath. With the position valued at  $486.73 million, UiPath is the fifth-largest holding at Ark.</p>
+      <h3>Twilio Inc. (NYSE:TWLO)</h3>
+      <p>Twilio's cloud communications platform allows businesses to develop and integrate various communication channels into their applications. Its application programming interfaces enable developers to incorporate voice, messaging and video seamlessly, helping companies enhance customer engagement.</p>
+      <p>In the first quarter, Twilio surpassed 300,000 active customer accounts. Meanwhile, revenue rose 15% year over year to $1.01 billion.</p>
+      <p>In its latest earnings conference call, Twilio Co-Founder and CEO Jeff Lawson said he believes that artificial intelligence "will be a material accelerant over time for Twilio's business."</p>
+      <p>Ark Innovation ETF holds 4,771,968 shares of Twilio, a stake with a market value of $304.50 million.</p>
+      <h3>Teladoc Health Inc. (NYSE:TDOC)</h3>
+      <p>Wood's flagship fund also owns $300.43 million worth of telemedicine company Teladoc Health.</p>
+      <p>The company's platform connects patients with healthcare professionals through video, phone and messaging.</p>
+      <p>At the peak of the COVID-19 pandemic, when in-person nonemergency medical care was temporarily halted, the demand for telehealth services skyrocketed.</p>
+      <p>In 2020, Teladoc attracted a lot of investor attention as its revenue shot up 98%.</p>
+      <p>While the pandemic is largely in the rearview mirror, the company continues to expand its business. Teladoc's first-quarter revenue showed an 11% increase year over year.</p>
+      <p>The stock, however, wasn't able to maintain the upward momentum. Trading at $25.80 per share, Teladoc is down more than 90% from its all-time high reached in February 2021.</p>
+      <h3>‘The Biggest Artificial Intelligence Play'</h3>
+      <p>Wood's biggest bet in the AI arena is a company that isn't known for being an AI stock — Tesla Inc. (NASDAQ:TSLA).</p>
+      <p>"We talk about Tesla all the time, it actually is the biggest artificial intelligence play," she said.</p>
+      <p>The reason has to do with the electric car company's autonomous driving technology.</p>
+      <p>Tesla is ARKK's largest holding with an 11.59% weighting.</p>
+      <p>Wood expects autonomous taxi platforms to deliver $8 trillion to $10 trillion in revenue globally in 2030 "from almost zero right now."</p>
+      <p>And because of Tesla's capabilities on that front, the booming autonomous taxi market could take its share price to a whole new level.</p>
+      <p>"We believe that in five years, 2027, it will be a $2,000 stock if our research is correct," she said.</p>
+      <p>Considering that Tesla shares trade at around $257 right now, Wood's price target implies a potential upside of over 670%.</p>
+      <p>Investing in disruptive innovation can be very lucrative — but sometimes it can feel like a roller coaster. For instance, while Tesla shares have more than doubled year to date, they are still down over 30% from their peak in November 2021.</p>
+      <p>If you don't like that kind of uncertainty, you might want to look into slow-changing industries that provide considerable cash returns to investors — such as those catering to basic human needs like food and shelter. For those seeking to generate passive income without the volatility associated with publicly traded stocks, there are avenues to invest in these essential service businesses through the private market.</p>
+    </div>
+  },
+  {
+    id: 562,
+    title: 'Stock Market News for Jun 28, 2023',
+    category: 'Markets',
+    subCategory: ['Stock', 'Market', 'News'],
+    description: <div className="blog-desc">
+      <p>Wall Street ended sharply higher on Tuesday, pulled up by tech stocks. Investor mood was upbeat on the release of a slew of economic data, reflecting a strong economy</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 28, 2023 - 5:58 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-785.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Wall Street ended sharply higher on Tuesday, pulled up by tech stocks. Investor mood was upbeat on the release of a slew of economic data, reflecting a strong economy and allaying fears of a recession. All three major indexes ended in the green.</p>
+      <h3>How Did the Benchmarks Perform?</h3>
+    	<p>The Dow Jones Industrial Average (DJI) rose 0.6% or 212.03 points to close at 33,926.74. Twenty-three components of the 30-stock index ended in positive territory, while seven ended in negative.</p>	
+    	<p>The S&P 500 gained 1.2%, or 49.59 points to close at 4,378.41. Ten of the 11 broad sectors of the benchmark index ended in positive territory. The Consumer Discretionary Select Sector SPDR (XLY), the Technology Select Sector SPDR (XLK) and the Communication Services Select Sector SPDR (XLC) advanced 2.2%, 2% and 1.7%, respectively, while the Health Care Select Sector SPDR (XLV) slid 0.2%.</p>	
+    	<p>The tech-heavy Nasdaq advanced 219.90 points, or 1.7%, to finish at 13,555.67.</p>
+      <p>The fear-gauge CBOE Volatility Index (VIX) was down 3.6% at 13.74. A total of 10.2 billion shares were traded on Tuesday, lower than the last 20-session average of 11.6 billion. Advancers outnumbered decliners on the NYSE by a 2.55-to-1 ratio. On the Nasdaq, a 1.54-1 ratio favored the advancing issues.</p>
+      <h3>Economic Data Lifts Investor Mood</h3>
+      <p>The U.S. benchmark stock indexes rebounded from their recent losing trend and had a winning Tuesday, mainly driven by economic data. Numbers showed that the economy remains reslilient. Investor activity reflected that there was too much talk about an impending recession even as various sectors continued to return robust numbers.</p>
+      <p>Risk remains, however, that if these numbers persist, the Fed would re-emabark on its policy-tightening path. According to CME Group's Fedwatch tool, market participants were pricing in a 77% chance that the central bank will raise interest rates by 25 bps to the 5.25-5.50% range in its July meeting. Nonetheless, this slew of economic data comes in an apt time to lift investor mood.</p>
+      <p>The Conference Board reported that the consumer confidence index rose to 109.7 in June, its highest level since January 2022, from 102.5 in May. The May number was revised from 102.3.</p>
+      <p>The U.S. Census Bureau and the U.S. Department of Housing and Urban Development jointly reported that new home sales had come in at 763,000 for May, 12.2% up from the revised April figure of 680,000. The April number was revised down from 683,000.</p>
+      <p>Case-Shiller Home Prices showed a 1% month-over-month increase for the 10-City Composite, and a 0.9% increase for the 20-City Composite for the month of April.</p>
+      <p>Per a government report, durable orders for May increased 1.7% after increasing 1.2% in April. The April figure was revised up from 1.1%.</p>
+      <p>Riding on these, the Dow Jones Industrial Average turned green for the first time in seven sessions. The biggest impact this slew of robust economic data had in the session, however, was on mega-cap growth and tech stocks, which drove the spoils of the day.</p>
+      <p>Consequently, shares of Microsoft Corporation MSFT and Apple Inc. AAPL increased 1.8% and 1.5%, respectively. Each carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.</p>
+    </div>
+  },
+  {
+    id: 561,
+    title: 'Stock market today: Asian shares are lower after central bankers say interest rates must stay high',
+    category: 'Markets',
+    subCategory: ['Asian', 'Market', 'Central bank'],
+    description: <div className="blog-desc">
+      <p>BEIJING (AP) — Asian stock markets were mixed Thursday after leaders of major central banks said they need to keep interest rates high to fight persistent inflation despite fears that might tip the global economy into recession.</p>
+    </div>,
+    authorName: 'JOE McDONALD',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 28, 2023 - 9:30 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-784.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BEIJING (AP) — Asian stock markets were mixed Thursday after leaders of major central banks said they need to keep interest rates high to fight persistent inflation despite fears that might tip the global economy into recession.</p>
+    	<p>Shanghai, Hong Kong and Seoul retreated while Tokyo and Sydney advanced. Oil prices declined.</p>	
+    	<p>U.S., European and Japanese central bankers meeting in Portugal said Wednesday that with hiring still strong in major economies, they have yet to extinguish upward pressure on prices. “Policy hasn’t been restrictive enough for long enough,” said Federal Reserve Chair Jerome Powell.</p>	
+    	<p>“The end of hiking interest rates is not in sight yet,” said Carl B. Weinberg of High-Frequency Economics in a report.</p>
+      <p>The Shanghai Composite Index lost 0.1% to 3,185.56 while the Nikkei 225 in Tokyo gained 0.4% to 33,340.66. The Hang Seng in Hong Kong sank 0.9% to 18,995.31.</p>
+      <p>The Kospi in Seoul gave up 0.1% to 2,560.67 while Sydney's S&P-ASX 200 advanced less than 0.1% to 7,203.30. New Zealand advanced while Bangkok declined.</p>
+      <p>On Wall Street, the benchmark S&P 500 edged down less than 0.1% to 4,376.86.</p>
+      <p>The Dow Jones Industrial Average slipped 0.2% to 33,852.66. The Nasdaq composite rose 0.3% to 13,591.75.</p>
+      <p>General Mills sank 5.2% after the maker of Cheerios and Haagen-Dazs reported weaker revenue for the latest quarter than analysts expected.</p>
+      <p>Other food companies also fell, including drops of 4% for Hershey, 3.7% for J.M. Smucker and 3.5% for Conagra Brands.</p>
+      <p>AeroVironment, maker of unmanned aircraft, tactical missile systems and other equipment used by the U.S. military and in Ukraine, rose 4.9% after reporting stronger profit and revenue than expected.</p>
+      <p>Investors expect at least a brief recession this year after the Fed and central banks in Europe and Asia raised interest rates. But hiring and consumer spending have stayed unexpectedly strong, prompting suggestions a recession might be avoided.</p>
+      <p>The Fed has said it expects to raise rates one or two more times this year, while the European Central Bank and others have sounded even more aggressive.</p>
+      <p>Strong reports on U.S. consumer confidence, sales of new homes and other areas of the economy on Tuesday helped lead to a 1.1% rally for the S&P 500. This month, the S&P 500 reached its highest level since April 2022.</p>
+      <p>In energy markets, benchmark U.S. crude lost 18 cents to $69.38 per barrel in electronic trading on the New York Mercantile Exchange. The contract rose $1.86 on Wednesday to $69.56. Brent crude, the price basis for international oil trading, shed 26 cents to $73.98 per barrel in London. It gained $1.77 the previous session to $74.03.</p>
+      <p>The dollar edged up to 144.35 yen from Wednesday's 144.32 yen. The euro fell to $1.0896 from $1.0922.</p>
+    </div>
+  },
+  {
     id: 560,
     title: 'Dow Jones Reverses After Last Weeks Losses; Tesla Stock Slides On Another Downgrade',
     category: 'Markets',

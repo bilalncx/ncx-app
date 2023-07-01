@@ -1,5 +1,315 @@
 const data = [
   {
+    id: 557,
+    title: 'Oil settles higher but posts fourth straight quarterly decline',
+    category: 'Commodities',
+    subCategory: ['Oil', 'settles', 'commodities'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Oil prices settled higher on Friday but posted their fourth straight quarterly loss as investors worried that sluggish global economic activity could crimp fuel demand.</p>
+    </div>,
+    authorName: 'Laura Sanicola',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 4:28 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-767.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Laura Sanicola</p>
+    	<p>(Reuters) -Oil prices settled higher on Friday but posted their fourth straight quarterly loss as investors worried that sluggish global economic activity could crimp fuel demand.</p>	
+    	<p>Benchmark Brent crude futures for August delivery which expires on Friday, settled up 56 cents, or 0.8%, at $74.90. In the three months to the end of June, the contract finished down 6%.</p>	
+    	<p>U.S. West Texas Intermediate crude (WTI) settled up 78 cents, or 1.1% at $70.64 a barrel. It posted its second straight quarterly drop, down about 6.5% in the latest three months.</p>
+      <p>Prices have been under pressure from rising interest rates in key economies and a slower than expected recovery in Chinese manufacturing and consumption.</p>
+      <p>Signs of strengthening U.S. economic activity and sharp declines in U.S. oil inventories last week offered some support.</p>
+      <p>For the day, crude was bolstered by a U.S. Commerce Department report showing annual inflation rising last month at its slowest pace in two years.</p>
+      <p>Signs of moderating inflation "could hold the Federal Reserve off rising interest rates again," said John Kilduff, partner at Again Capital LLC in New York.</p>
+      <p>The market was also supported by upward revisions in demand for crude oil and refined products in the United States.</p>
+      <p>Demand for crude and petroleum products fell slightly to 20.446 million bpd in April but remained seasonally strong, EIA data showed.</p>
+      <p>Prices also drew support from Saudi Arabia's plans to cut output by a further 1 million barrels per day in July in addition to a broader OPEC+ deal to limit supply into 2024.</p>
+      <p>"Despite the announcements of two fresh rounds of cuts from OPEC+/Saudi Arabia, crude prices have largely remained below $80 a barrel as the market has been driven less by fundamentals and more by macroeconomic concerns," HSBC analysts said in a note.</p>
+      <p>"We think this will continue to be the case for part of the summer, although the deep deficit of around 2.3 million barrels forecast for 2H23 should help to spur some upwards price momentum."</p>
+      <p>A Reuters survey of 37 economists and analysts showed oil prices will struggle for traction this year as global economic headwinds linger.</p>
+      <p>U.S. energy firms this week cut the number of oil and natural gas rigs operating for a ninth week in a row for the first time since July 2020, energy services firm Baker Hughes said on Friday.</p>
+      <p>(Additional reporting by Ron Bousso in London, Arathy Somasekhar in Houston and Muyu Xu in Singapore; editing by Robert Birsel, Jason Neely, David Evans, Louise Heavens and David Gregorio)</p>
+    </div>
+  },
+  {
+    id: 556,
+    title: 'How to Trade Gold in Times of Market Volatility',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Trade', 'Market'],
+    description: <div className="blog-desc">
+      <p>Traditionally regarded as a safe haven asset, gold often sees a surge in demand during periods of economic uncertainty. This is because the yellow metal’s value is not directly tied to any single economy,</p>
+    </div>,
+    authorName: 'Nikola Grozdanovic',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 5:06 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-765.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Traditionally regarded as a safe haven asset, gold often sees a surge in demand during periods of economic uncertainty. This is because the yellow metal’s value is not directly tied to any single economy, so it’s relatively immune to country-specific volatility. With its universal appeal and limited supply, gold tends to hold its value and even appreciate when other markets falter.</p>
+    	<p>However, as is the case with every financial instrument, trading gold in volatile times requires a well-thought-out strategy and a keen understanding of the market’s inner workings.</p>	
+    	<p>Consequently, this article will dive into five key strategies for gold traders to consider during times of turbulence, providing insights into navigating the complexities of one of the most popular markets amid heightened volatility.</p>	
+    	<p>Before we jump in, though, a brief note. This article will be most useful for traders who trade the price of gold, rather than invest in gold bullions, so all the strategies are written with that in mind.</p>
+      <h3>Strategy 1: Trend Following</h3>
+      <p>Trend following is the most basic strategy for trading gold during volatile market conditions, so it serves as a perfect starting point. This approach uses technical analysis, such as moving averages, to align trades with the current market momentum.</p>
+      <p>For instance, in a scenario where XAUUSD has been consistently rising from a level of $1800 to $1850 due to heightened market uncertainty, a trend follower would identify this as an uptrend and initiate a long position, aiming to profit from the continued rise. This strategy requires traders to regularly review and adjust their positions to reflect evolving market trends.</p>
+      <h3>Strategy 2: Hedging</h3>
+      <p>Hedging is a defensive strategy often employed by traders to shield their portfolios from potential losses during periods of market volatility. Gold, typically inversely correlated with equities, serves as an ideal hedge.</p>
+      <p>For example, if a trader holds a substantial position in a stock index like the S&P 500 and anticipates a downturn, they might decide to open some gold positions as a protective measure.</p>
+      <p>Suppose the S&P 500 drops by 2%, causing a trader’s portfolio to lose value. Simultaneously, let’s imagine heightened market anxiety drives investors to safe-haven assets, pushing XAUUSD up from $1800 to $1840.</p>
+      <p>Potential profits from gold positions can help offset the losses from the declining stock market, stabilizing the overall portfolio value.</p>
+      <h3>Strategy 3: Dollar-Cost Averaging</h3>
+      <p>Dollar-cost averaging is a measured investment strategy in which a trader commits a fixed amount of money to open positions on gold at set intervals.</p>
+      <p>Suppose a trader decides to allocate $1000 to trade XAUUSD every month. If XAUUSD is at $1800 at the start of the month, and the trader predicts a price surge, they would open a long position. If they’re correct, and the price increases to $1850 by the end of the month, they gain a significant profit.</p>
+      <p>If in the next month the price drops to $1750, they would use the same $1000 to open a short position, expecting the price to decrease further. If that prediction turns out to be true, they profit from the downturn.</p>
+      <p>This approach averages out the investment cost over time and reduces the impact of short-term volatility. Essentially, it’s a disciplined, long-term strategy that mitigates the risks associated with timing the market, particularly during volatile periods.</p>
+      <h3>Strategy 4: Breakout Trading</h3>
+      <p>Breakout trading strategy is a proactive approach that enables traders to leverage sudden price swings in gold. This strategy involves closely monitoring predefined support or resistance levels and initiating a trade when the price of gold “breaks out” from this range.</p>
+      <p>Consider a scenario where XAUUSD has been trading in a range between $1,800 and $1,820, with $1,800 acting as the support level and $1,820 as the resistance.</p>
+      <p>Amid market volatility, if the price suddenly jumps to $1,825, it represents a breakout above the resistance level, indicating a potential new uptrend. A breakout trader would then enter a long position, hoping to profit from the anticipated further rise in price.</p>
+      <h3>Strategy 5: Safe Haven Strategy</h3>
+      <p>As the archetypal safe haven asset, gold often holds or even gains value amidst market volatility or economic downturns, making it a popular safety net for risk management. Traders looking to buffer their portfolios against possible losses in riskier assets often increase their gold holdings during tumultuous times.</p>
+      <p>Consider a geopolitical scenario where tensions are rising, creating uncertainty in global markets. Stock markets may react negatively to the news, triggering a sell-off of riskier assets. In response, a trader, noticing these geopolitical events, might decide to increase their position in gold. If XAUUSD is trading at $1,800, the trader could buy additional gold, expecting its value to rise amidst the instability.</p>
+      <p>As investors flock to safe-haven assets like gold, the increased demand could drive XAUUSD up to $1,850 or higher. In essence, this strategy requires staying attuned to world events and understanding their potential impact on market sentiment.</p>
+      <h3>The Bottom Line</h3>
+      <p>Trading gold during times of market volatility can be a profitable pursuit if handled with strategic finesse. The strategies outlined above—trend following, hedging, dollar-cost averaging, breakout trading, and the safe haven strategy—offer distinct approaches for navigating market turbulence. It’s important, however, to remember that there’s no such thing as a guarantee in the financial markets.</p>
+      <p>This goes for gold too. Even if it has been a reliable safe haven asset historically, effective gold trading involves a comprehensive understanding of market dynamics, the ability to adapt to rapidly changing market conditions, and robust risk management practices.</p>
+      <p>It’s all one big balancing act. By deploying the above strategies wisely and maintaining a well-diversified portfolio, gold traders put themselves in the best position to achieve consistent results.</p>
+    </div>
+  },
+  {
+    id: 555,
+    title: 'Zacks Industry Outlook Highlights Warrior Met Coal, SunCoke Energy and Hallador Energy',
+    category: 'Commodities',
+    subCategory: ['Zack', 'industry', 'coal'],
+    description: <div className="blog-desc">
+      <p>The Zacks Coal industry stocks staged a rebound in 2022, courtesy of global demand and surging natural gas prices. In 2023, the demand for coal will suffer due to lesser coal utilization in the United States to produce electricity, planned retirement of coal units and the utilization of more renewable sources for electricity generation.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 1:00 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-766.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>For Immediate Release</p>
+    	<p>Chicago, IL – June 29, 2023 – Today, Zacks Equity Research discusses Warrior Met Coal HCC, SunCoke Energy SXC and Hallador Energy Company HNRG.</p>	
+    	<p>Industry: Coal</p>	
+    	<p>The Zacks Coal industry stocks staged a rebound in 2022, courtesy of global demand and surging natural gas prices. In 2023, the demand for coal will suffer due to lesser coal utilization in the United States to produce electricity, planned retirement of coal units and the utilization of more renewable sources for electricity generation.</p>
+      <p>The ongoing energy transition, with utility operators steadily phasing out coal units, will adversely impact the coal industry. Then again, the persisting conflict between Russia and Ukraine is creating fresh demand from coal-importing countries. Hence, coal export from the United States is expected to improve in 2023 from the year-ago level.</p>
+      <p>Despite a drop in coal production, improving cost export volumes and low-cost coal production assets are likely to boost the prospects of Warrior Met Coal. Other coal stocks, SunCoke Energy and Hallador Energy Company, are expected to gain during this difficult phase of the coal industry.</p>
+      <h3>About the Industry</h3>
+      <p>The Zacks Coal industry comprises companies involved in the discovery and mining of coal. Coal is mined through the opencast or the underground method. The commodity is valued for its energy content and used worldwide to generate electricity and manufacture steel and cement. Per the U.S. Energy Information Administration (“EIA”) report, the current U.S. estimated recoverable coal reserves are about 252 billion short tons, of which, about 58% is underground mineable coal. Given the current production rates, coal resources are likely to last many more years.</p>
+      <p>Five states in the United States contribute nearly 70% of the yearly production and 60% of the coal production from surface mining. Per EIA, the demand for coal will decline due to the usage of more renewable assets and a gradual shutdown of coal-powered generation units, hurting the prospects of the coal industry.</p>
+      <h3>3 Trends Likely to Impact the Coal Industry</h3>
+      <p><strong>Despite Reliability Emission Policy to Hurt Coal Industry:</strong> The improvement in demand for coal is short-lived as the new environmental policy will target 100% carbon pollution-free electricity by 2035, which will significantly lower the demand for coal from the U.S. electricity space. Per EIA, coal-fired electricity generation would drop from 20% in 2022 to 16% in 2023 and remain the same in 2024. Unless utility operators invest heavily in pollution-control measures to reduce emissions from power plants, domestic coal usage will fall drastically.</p>
+      <p>Coal industry operators should brace themselves for challenges as several electric utilities have decided to become carbon neutral by 2050 and completely cut down coal usage. Despite the emission, coal stocks are still relevant as the commodity is a reliable source of energy and ensures 24x7 electricity production from the generation units.</p>
+      <p><strong>U.S. Coal Production Drops:</strong> Per EIA projection, coal production in the United States is expected to drop in 2023 and 2024 after showcasing an improvement in production volumes in the previous two years. EIA projects U.S. coal production to decline by 6% to about 560 million short tons (MMst) in 2023 and a further 14% to 480 MMst in 2024 due to the expected reduction in coal usage in electricity production in the the United States. This would hurt coal operators as they fight a tough battle against other sources of energy.</p>
+      <p><strong>Coal to Benefit From Rising Exports:</strong> Despite an expected drop in the coal production volumes, coal operators in the United States can benefit from the expected rise in coal export volumes. Coal demand is expected to improve due to its economical pricing compared with other energy sources. Higher demand from the Asian market and an expected improvement in steel production should drive U.S. export volumes.</p>
+      <p>Coal is still a viable energy option for many crucial industries across the globe. Per EIA, coal export volume may increase by 18.9% in 2023 to 100.8 MMst and by 2.6% more to 103.4 MMst in 2024. The World Steel Association forecasts a rebound in global steel volume production, rising 2.3% in 2023 to touch 1,822.3 Mt and up 1.7% in 2024 to touch 1,854 Mt.</p>
+      <p>Steel production requires a lot of high-quality coal and nearly 70% of global steel production depends on coal. With the continued recovery in steel production, coal exports are expected to pick up and improve in the long run.</p>
+      <h3>Zacks Industry Rank Indicates Dull Prospects</h3>
+      <p>The Zacks Coal industry is an 9-stock group within the broader Zacks Oil and Energy sector. The industry currently carries a Zacks Industry Rank #246, which places it in the bottom 2% out of 251 Zacks industries.</p>
+      <p>The group’s Zacks Industry Rank, which is basically the average of the Zacks Rank of all the member stocks, indicates lackluster performance in the near term. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than 2 to 1.</p>
+      <p>The industry’s position in the bottom 50% of the Zacks-ranked industries is a result of the negative earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are losing confidence in this group’s earnings growth potential. Since January 2023, the industry’s earnings estimates for 2023 have gone down by 22.2%.</p>
+      <p>Before we present a few coal stocks that you may want to keep track of, let’s take a look at the industry’s recent stock market performance and valuation picture.</p>
+      <h3>Industry Underperforms S&P 500 & Sector</h3>
+      <p>The Zacks Coal industry has underperformed the Zacks S&P 500 composite and the Zacks Oil and Gas sector over the past 12 months.</p>
+      <p>The stocks in the coal industry have gained 1.2% compared with the Zacks Oil-Energy sector’s growth of 3.5%. The Zacks S&P 500 composite has rallied 14.6% in the same time frame.</p>
+      <h3>Coal Industry's Current Valuation</h3>
+      <p>Since coal companies have a lot of debt on their balance sheet, it makes sense to value them based on the EV/EBITDA (Enterprise Value/ Earnings before Interest Tax Depreciation and Amortization) ratio.</p>
+      <p>The industry is currently trading at a trailing 12-month EV/EBITDA of 2.29X compared with the Zacks S&P 500 composite’s 13.3X and the sector’s 2.77X.</p>
+      <p>In the past five years, the industry has traded as high as 7.6X, as low as 2.01X and at the median of 4.8X.</p>
+      <h3>3 Coal Industry Stocks to Keep a Close Watch On</h3>
+      <p><strong>Warrior Met Coal, Inc.:</strong> Brookwood, AL-based  Warrior Met produces and exports metallurgical coal for the steel industry. The company will benefit from the end of the labor strike and resulting incremental production volume as eligible employees return to work. Warrior Met plans to invest $420-$440 million in 2023 to further strengthen its coal operation.</p>
+      <p>The Zacks Consensus Estimate for second-quarter 2023 earnings has moved up by 17.3% to $2.10 per share in the past 60 days. Current dividend yield of the company is 0.75%, on par with industry’s yield of 0.75%. The stock has gained 7.9% in the past three months against its industry’s decline of 13.2%.</p>
+      <p>Warrior Met Coal currently carries a Zacks Rank of 3 (Hold).  You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.</p>
+      <p><strong>SunCoke Energy:</strong> Lisle, IL-based SunCoke Energy is a raw material processing and handling company serving steel and power customers, with principal businesses in cokemaking and logistics. With an annual 5.9 million tons of coke-making capacity, it is poised to benefit from rising met coal export and increasing demand for met coal from the steel industry. The company plans to invest $95 million in 2023 to expand its operations.</p>
+      <p>SunCoke Energy currently carries a Zacks Rank of 3. The Zacks Consensus Estimate for 2023 earnings has moved up by 1.3% in the past 60 days. The current dividend yield of the company is 4.12%. The stock has lost 11.6% in the past three months.</p>
+      <p><strong>Hallador Energy Company:</strong> Terre Haute, IN-based Hallador Energy carries a Zacks Rank of 3. The company, through its subsidiaries, engages in the production of coal in Indiana for the electric utilities. Hallador Energy continues to acquire and develop new mines and explore opportunities in the coal space. The company plans to invest $69 million in 2023 to broaden and maintain its coal operations.</p>
+      <p>The Zacks Consensus Estimate for Hallador Energy 2023 and 2024 earnings suggests a year-over-year growth of 149.1% and 133.6%, respectively. The stock has lost 11.7% in the past three months.</p>
+      <h3>Why Haven’t You Looked at Zacks' Top Stocks?</h3>
+      <p>Since 2000, our top stock-picking strategies have blown away the S&P's +6.2 average gain per year. Amazingly, they soared with average gains of +46.4%, +49.5% and +55.2% per year. Today you can access their live picks without cost or obligation.</p>
+      <p>Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates.</p>
+      <p>Past performance is no guarantee of future results. Inherent in any investment is the potential for loss. This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security. No recommendation or advice is being given as to whether any investment is suitable for a particular investor.</p>
+      <p>It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable. All information is current as of the date of herein and is subject to change without notice. Any views or opinions expressed may not reflect those of the firm as a whole. Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities.</p>
+      <p>These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs. These are not the returns of actual portfolios of stocks. The S&P 500 is an unmanaged index. Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.</p>
+    </div>
+  },
+  {
+    id: 554,
+    title: 'Big Oil Mulls a Slippery Future',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Mulls', 'Future'],
+    description: <div className="blog-desc">
+      <p>Ask energy executives how much oil the world will need by 2050 and you will get very different opinions</p>
+    </div>,
+    authorName: 'Carol Ryan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 8:01 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-768.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ask energy executives how much oil the world will need by 2050 and you will get very different opinions</p>
+    	<p>When is it game over for oil? Don’t expect a clear answer from the people with the most to lose from a shift to cleaner fuels.</p>	
+    	<p>Within energy circles, estimates of how much oil will be needed in 2050 range anywhere from 80% less than today to business as usual. Investors have the difficult job of betting which companies are on the wrong side of the most important trend for the sector in decades.</p>	
+    	<p>At an energy conference this week, Haitham al-Ghais, secretary-general of the Organization of the Petroleum Exporting Countries, repeated the cartel’s view that global demand for oil will hit 110 million barrels a day by 2045—as far out as OPEC currently projects. This is roughly a 10% increase from current rates. Natural gas, renewable power and hydrogen will all play bigger roles, but oil will remain center stage.</p>
+      <p>If OPEC is right, it is bad news for efforts to limit climate change. For the world to reach its net-zero target and restrict global warming to 1.5 degrees Celsius above preindustrial levels, demand must fall below 30 million barrels a day by 2050, according to the International Energy Agency.</p>
+      <p>Most U.S. majors are also in the “high demand” camp, according to Alexander Schay, managing director at the energy consulting firm WK Associates and co-author of a Securities and Exchange Commission comment that compiled 2050 oil forecasts.</p>
+      <p>Exxon Mobil said in a recent filing that the chances of the world getting to net zero are low because of the drop in living standards it would cause. The company expects global oil demand to still be roughly 100 million barrels a day by 2050 and is betting that technologies such as carbon capture and storage, as well as methane abatement, will allow the world to use fossil fuels for decades to come.</p>
+      <p>European oil producers are considering the possibility that events move faster. Shell’s latest energy security report looks at two scenarios. Even with no new climate policies, it thinks demand for oil will fall around 10% by the middle of the century. And it sees a plunge if the world gets really serious about reducing emissions.</p>
+      <p>BP has looked at two “what if” scenarios in addition to the most aggressive net-zero one. It estimates that oil production will decline by roughly 25% based on trends it is already seeing in the market, or close to 60% in its “accelerated” scenario in which climate regulations get tighter.</p>
+      <p>But neither European company is seriously preparing for these challenging outcomes yet. Both Shell and BP recently reversed plans to cut oil production aggressively this decade, indicating that they will reduce supply once demand from customers tails off.</p>
+      <p>With demand for oil still growing, higher projections do look more realistic right now. The risk for executives hoping this won’t change is that they are wrong-footed by harsher regulations, wild-card technologies or a surge in destructive weather events that hammers home the need to cut emissions fast.</p>
+      <p>All of this underlines the intense uncertainty that energy bosses face, even looking a few years ahead. At Shell’s investor day this month, Chief Executive Wael Sawan told shareholders, “I would be lying to you if I pretended to know where various markets that we’re looking at are going to go in the 2026, 2027, 2028 period.”</p>
+      <p>One important swing factor that investors can watch is how fast oil demand for road transportation falls. This will depend on how fuel-efficient gas-engined cars become and how many drivers buy electric vehicles. EVs currently make up 16% of passenger-car sales globally. The data provider EV-volumes.com expects this share to rise rapidly to 68% by 2035.</p>
+      <p>Adoption will take longer if electric cars remain unaffordable for many consumers, which depends in part on supplies of battery materials such as lithium. It is also unclear whether creaking electricity infrastructure can cope with the level of electrification needed to wean the world off fossil fuels. Bottlenecks in supply chains and permitting are delaying installments of new wind and solar power capacity, especially in Europe.</p>
+      <p>Another trend to watch is whether rising demand for energy in emerging markets can be offset with efficiency measures, such as LED lighting or more efficient air conditioners. And it isn’t just energy: As the middle classes swell, consumers are likely to spend more on packaged goods. That will send demand for oil-based inputs to make virgin plastic soaring, barring better recycling rates or bans on single-use plastic.</p>
+      <p>Shareholders don’t look convinced by arguments that oil still has a long road ahead. According to the investment research firm New Constructs, the share prices of Shell, BP, Exxon Mobil and Chevron all imply that the companies’ profits will permanently decline from today’s levels.</p>
+      <p>The overall impression is of an oil industry in limbo, waiting to see what happens next.</p>
+    </div>
+  },
+  {
+    id: 553,
+    title: 'Gold stabilizes after strong US data drags bullion below $1,900/oz',
+    category: 'Commodities',
+    subCategory: ['Gold', 'US', 'Stabilizes'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Gold regained some ground on Thursday as traders took advantage of a brief dip below the key psychological $1,900 level that was driven by a volley of robust U.S. economic readings.</p>
+    </div>,
+    authorName: 'Deep Kaushik Vakil',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 -  5:46 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-764.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Deep Kaushik Vakil</p>
+    	<p>(Reuters) -Gold regained some ground on Thursday as traders took advantage of a brief dip below the key psychological $1,900 level that was driven by a volley of robust U.S. economic readings.</p>	
+    	<p>Spot gold edged up 0.1% at $1,908.4 per ounce by 1:52 p.m. EDT (1752 GMT). U.S. gold futures settled 0.2% lower at $1,917.90.</p>	
+    	<p>Prices fell under $1,900 for the first time since mid-March after the data as the dollar index firmed 0.4%, making bullion less attractive for overseas buyers. Benchmark 10-year Treasury yields rose. [USD/] [US/]</p>
+      <p>"We've seen prices move down from $2,000 to $1,900 and that in itself is going to bring about some bargain hunting," said David Meger, director of metals trading at High Ridge Futures.</p>
+      <p>U.S. jobless claims fell last week by the most in 20 months, pointing to labor market strength that also helped prop up gross domestic product in the first quarter.</p>
+      <p>"It was a one-two punch taking gold another leg lower ... and then the hawkish central banks haven't helped out at all," said Phillip Streible, chief market strategist at Blue Line Futures in Chicago.</p>
+      <p>Federal Reserve Chair Jerome Powell said most of the central bank's policymakers expect they would need to raise interest rates at least twice more by year-end with U.S. inflation well above the 2% goal and a labor market that's still very tight.</p>
+      <p>While gold is considered an inflation hedge, rising rates dull non-yielding bullion's appeal, with current rate expectations putting it on course to end the quarter in negative territory for the first time since September 2022.</p>
+      <p>Traders awaited May's personal consumption expenditure data, the Fed's favored inflation gauge, on Friday.</p>
+      <p>Silver fell 0.6% to $22.59 per ounce, while platinum dropped 1.6% to $896.55, an eight-month low.</p>
+      <p>Palladium dipped 1.6% to $1,228.50, hovering near its lowest since December 2018.</p>
+      <p>(Reporting by Deep Vakil in Bengaluru; Editing by Conor Humphries, Shilpi Majumdar and Maju Samuel)</p>
+    </div>
+  },
+  {
+    id: 552,
+    title: 'Commodities round-up: Here’s what the markets are focused on this week',
+    category: 'Commodities',
+    subCategory: ['Commodities', 'markets', 'week'],
+    description: <div className="blog-desc">
+      <p>Political instability in Russia at the weekend marginally impacted commodities at the beginning of the week but China’s economy and the monetary policy</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'june 28, 2023 - 1:38 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-763.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Political instability in Russia at the weekend marginally impacted commodities at the beginning of the week but China’s economy and the monetary policy path of the US Federal Reserve will be the main focus for investors in the coming days.</p>
+    	<p>Yahoo Finance UK takes a look at some of the key macro events moving markets within energy and precious metals, including oil, natural gas, gold and copper.</p>	
+      <h3>Oil</h3>
+    	<p>Oil opened strongly on Monday, but fell into the red on Tuesday. As a result, Brent crude (BZ=F) settled just 0.45% higher on the day.</p>	
+    	<p>“The more hawkish tone from the US Fed appears to be capping oil prices and the broader commodities complex, while there remain broader concerns over China’s economic recovery. Up until now, oil demand indicators for China have been good, with stronger crude oil imports and higher apparent domestic demand,” Warren Paterson and Eva Manthey at ING said.</p>
+      <p>“The concern is whether this can continue as there are clearly still some weak spots within the Chinese economy – specifically with industrial production and the property sector,” the analysts also noted in a report.</p>
+      <h3>Natural gas</h3>
+      <p>Gas markets also reacted to the political uncertainty in Russia with Europe’s Dutch TTF (TTF=F) enduring a volatile trading session to start the week due to concerns over the remaining Russian pipeline supply flows to Europe.</p>
+      <p>However, Paterson and Manthey pointed out that fundamentals for the European gas market are still bearish in the short term.</p>
+      <p>“EU gas storage continues to fill up and is now more than 76% full, well above the 57% seen at the same stage last year and also higher than the five-year average of 60%. In the absence of any significant supply shocks, EU gas storage will hit the European Commission’s target of 90% full well before 1 November,” the analysts noted.</p>
+      <h3>Gold</h3>
+      <p>Meanwhile, the price of gold (GC=F) extended gains again on Tuesday as the turmoil in Russia, gold’s second largest producer, prompted investors to opt for the safe-haven appeal of the precious metal.</p>
+      <p>For gold, the current uncertainty in Russia appears to be outweighing risks surrounding interest rates following hawkish comments from the US Federal Reserve. This is important to note because higher rates subsequently discourage investing in non-yielding gold.</p>
+      <p>“How long-lasting this boost to the gold price proves will be determined by how widespread the butterfly effect of the aborted rebellion by Yevgeny Prigozhin’s Wagner Group turns out to be,” Rupert Rowling, market analyst at Kinesis Money, said in a company report.</p>
+      <p>“If this proves to be the beginning of the end for president Vladimir Putin’s totalitarian control on Russia, then the resultant uncertainty is likely to keep gold supported in the medium-term with investors wanting to keep some risk off the table.”</p>
+      <h3>Copper</h3>
+      <p>ING noted on Tuesday that LME copper (HG=F) prices remained under pressure given concerns over Chinese demand and a more hawkish Federal Reserve outlook but said LME copper spreads continue to strengthen, reflecting some tightness in the prompt market.</p>
+      <p>“The cash/3m spread rallied by more than $12/t (£9.44/t) on Monday to a backwardation of $31/t – the strongest we have seen this spread since November last year. Available inventories in LME warehouses continue to fall with on-warrant stocks yesterday falling by 4,400 tonnes to just 25,725 tonnes, the lowest since October 2021.”</p>
+      <p>A report by Paterson and Manthey highlighted recent data from the China Iron and Steel Association (CISA) showing that steel inventories at major Chinese steel mills climbed for a second consecutive week to 16.2mt in mid-June, up 2.64% compared to early June.</p>
+      <p>“Meanwhile, crude steel production at major mills rose by 1.4% from the above mentioned period to 2.26mt/d in mid-June,” the report said.</p>
+      <h3>Data points this week</h3>
+      <p>Firstly, the latest US Personal Consumption Expenditures (PCE) data, the Fed's preferred inflation indicator, will be released on Friday.</p>
+      <p>It is expected to show "core" PCE – which strips out the costs of food and energy – rose 4.7% over the prior year in May, unchanged from April. The Fed targets 2% inflation, on average. Over the prior month, "core" PCE is expected to rise 0.4% in May.</p>
+      <p>The markets have priced in one more 25bps increase by the Fed before the end of 2023 as it battles to bring down inflation and this latest update may provide further indicators for investors on what the Fed might do next.</p>
+      <p>Secondly, PMI data from China will be closely watched on Friday as the world’s second-largest economy continues to struggle as momentum following its reopening from zero- tolerance COVID lockdowns in December has hit demand.</p>
+      <p>The incoming PMI data is expected to show the manufacturing sector contracted for the third consecutive month while the services side grew at the slowest pace in six months.</p>
+      <p>Osama Rizvi, energy analyst at Primary Vision Network, told Yahoo Finance UK what he is watching this week.</p>
+      <p>“The first and most important thing that I’d be looking at is Russia and the Wagner mutiny as it has the potential to turn the oil markets topsy turvy.</p>
+      <p>“IFO indices in Germany will be one of the most important statistics to look at in the coming week along with economic data from the US with the most significant being Weekly jobless claims. I’ll also be looking at PMIs coming out of China as it is really important to the story of recession,” he said.</p>
+    </div>
+  },
+  {
+    id: 551,
+    title: 'Norway approves 19 oil and gas projects, saying the resulting investments are worth over $19 billion',
+    category: 'Commodities',
+    subCategory: ['Norway', 'Oil & gas', 'investment'],
+    description: <div className="blog-desc">
+      <p>COPENHAGEN, Denmark (AP) — Norway announced Wednesday it approved 19 oil and gas projects on the Norwegian continental shelf, saying the total investments are worth over 200 billion kroner ($19 billion).</p>
+    </div>,
+    authorName: 'AP Finance',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 28, 2023 - 12:30 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-769.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>COPENHAGEN, Denmark (AP) — Norway announced Wednesday it approved 19 oil and gas projects on the Norwegian continental shelf, saying the total investments are worth over 200 billion kroner ($19 billion).</p>
+    	<p>"The projects are also an important contribution to Europe’s energy security,” said Terje Aasland, Norway’s minister for petroleum and energy.</p>	
+    	<p>Norway was the only net exporter of oil and gas in Europe, he said, adding, “By carrying out these projects we ensure new production from the latter half of the 2020s, so that we can maintain high Norwegian deliveries.”</p>	
+    	<p>The projects consist of new developments, further development of existing fields, and investments in projects for increased extraction at existing fields.</p>
+      <p>Norway, one of the world’s wealthiest countries due to its vast oil and gas reserves, said earlier this month that it wants to open parts of its continental shelf for commercial deep-sea mining in line with the country’s strategy to seek new economic opportunities and reduce its reliance on the oil and gas industry.</p>
+      <p>The conflict in Ukraine has boosted Norway's revenues as European countries previously reliant on Russia seek alternative energy sources. However, Norway has fended off accusations that it’s profiting from the war in Ukraine.</p>
+      <p>In February, the Storting, the Norwegian parliament, announced that the Scandinavian country is donating 75 billion kroner ($7.4 billion) to Kyiv as part of a five-year support package, making Norway one of the world’s biggest donors to war-torn Ukraine. The money was from oil income, and the donation should not affect the Norwegian economy.</p>
+    </div>
+  },
+  {
+    id: 550,
+    title: 'Gold hits near 4-month low on bets for hawkish Fed strategy',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Fed', 'hawkish'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices on Wednesday fell to their lowest in nearly 4 months on bets for interest rates remaining higher for longer, while U.S. Federal Reserve Chair Jerome Powell reiterated a hawkish stance.</p>
+    </div>,
+    authorName: 'Deep Kaushik Vakil',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 28, 2023 - 5:46 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-762.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Deep Kaushik Vakil</p>
+    	<p>(Reuters) - Gold prices on Wednesday fell to their lowest in nearly 4 months on bets for interest rates remaining higher for longer, while U.S. Federal Reserve Chair Jerome Powell reiterated a hawkish stance.</p>	
+    	<p>Spot gold fell 0.1% to $1,912.49 per ounce by 1:43 p.m. EDT (1743 GMT), after hitting its lowest since mid-March. U.S. gold futures settled 0.1% lower at $1,922.20.</p>	
+    	<p>Powell reiterated that more rate rises likely lie ahead for the central bank, and did not rule out a boost in the cost of borrowing at a policy meeting scheduled for the end of July.</p>
+      <p>"Although the market is pricing in a decent chance the Fed is going to hike in July, the more relevant factor for gold is that the market has been simultaneously pricing out the number of cuts we could expect over the next year," said Daniel Ghali, commodity strategist at TD Securities.</p>
+      <p>Markets were pricing in a 82% chance of a rate hike at the Fed's next meeting in July, seeing little odds of any easing in monetary policy by the end of this year, according to the CME FedWatch tool.</p>
+      <p>The dollar index firmed 0.4%, making gold less attractive for overseas buyers. A drop in benchmark 10-year Treasury yields limited further downside.</p>
+      <p>"Good U.S. economic data remains a headwind for the yellow metal, as it likely keeps Fed officials reiterating a hawkish tone," UBS analyst Giovanni Staunovo said.</p>
+      <p>Sales of new U.S. single-family homes surged to the highest in nearly 1-1/2 years in May, while U.S. consumer confidence also jumped in June.</p>
+      <p>"We still expect at some point the aggressive monetary policy tightening to weaken U.S. economic data and result in a change of tone by the Fed," Staunovo added.</p>
+      <p>High interest rates discourage traders from investing in non-yielding gold.</p>
+      <p>Silver fell 0.3% to $22.81 per ounce, platinum shed 1.4% at $912.20 after falling to an eight-month low, and palladium plunged 3.7% to $1,248.06, its lowest in 4-1/2 years.</p>
+      <p>(Reporting by Deep Vakil, Arundhati Sarkar and Ashitha Shivaprasad in Bengaluru; Editing by Emelia Sithole-Matarise and Krishna Chandra Eluri)</p>
+    </div>
+  },
+  {
     id: 549,
     title: 'Gold Nudges Higher as Investors React to Russia Turmoil',
     category: 'Commodities',

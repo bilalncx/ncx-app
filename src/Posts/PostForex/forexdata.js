@@ -1,5 +1,180 @@
 const data = [
   {
+    id: 560,
+    title: 'US dollar share of global reserves edges up in Q1, euros share dips - IMF',
+    category: 'Forex',
+    subCategory: ['US', 'IMF', 'Euros'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) - The U.S. dollar's share of currency reserves reported to the International Monetary Fund rose in the first quarter of the year,</p>
+    </div>,
+    authorName: 'Gertrude Chavez-Dreyfuss',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 30, 2023 - 6:32 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-780.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+    	<p>By Gertrude Chavez-Dreyfuss</p>
+	    <p>NEW YORK (Reuters) - The U.S. dollar's share of currency reserves reported to the International Monetary Fund rose in the first quarter of the year, in the midst of a still aggressive rate-hike cycle from the Federal Reserve aimed at curbing uncomfortably high inflation.</p>	
+    	<p>The greenback's share of reserves rose to 59% in the first quarter of the year, from 58.6% in the last three months of 2022.</p>	
+	    <p>The euro's share, however slipped to 19.8% in the first quarter, down from 20.4% in the previous three months.</p>
+      <p>Global reserves, which are reported in U.S. dollars, are central bank assets held in different currencies used in part to support their liabilities. Central banks sometimes use reserves to help support their respective currencies.</p>
+      <p>"The dollar remains an attractive destination for those seeking yield or a safe place to hide given the wobbly outlook for global growth," said Joe Manimbo, senior market analyst, at Convera in Washington.</p>
+      <p>The dollar index was down about 0.9% in the first quarter after falling as much as 7.7% in the last three months of last year. In the second quarter though, the dollar index recovered a bit, rising 0.4%.</p>
+      <p>The euro, on the other hand, rose about 1.2% in the first quarter, after surging 9.3% in the fourth quarter of 2022.</p>
+      <p>The Fed, which has raised U.S. borrowing costs last year and in 2023 than at any time since the 1980s, has raised interest rates to a range of 5.0%-5.25%, from 0% in March of 2022. U.S. rate futures have priced in on Friday an 84% chance of a 25 basis-point rate increase in the July meeting.</p>
+      <p>The U.S. central bank though is near the end of its tightening cycle.</p>
+      <p>That said, market participants believe that while the dollar will remain the dominant currency, its influence will eventually wane.</p>
+      <p>A survey by the Official Monetary and Financial Institutions Forum (OMFIF), a think tank, showed that 75 central bank reserve managers surveyed only anticipate a slight decrease in the dollar's share of total reserves to 53% in the next decade, from just under 60% now.</p>
+      <p>This shift, OMFIF, said, will be in line with the slow, decades-long trend of de-dollarization.</p>
+      <p>(Reporting by Gertrude Chavez-Dreyfuss; editing by David Evans)</p>
+    </div>
+  },
+  {
+    id: 559,
+    title: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against Japanese Counterpart',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar initially pulled back just a bit during the trading session but then started to grind higher again. Ultimately, we are in a massive uptrend,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 5:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-774.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar initially pulled back just a bit during the trading session but then started to grind higher again. Ultimately, we are in a massive uptrend, and therefore I think we got a situation where we eventually make the target of the ¥148 level, an area that is the “measured move” of the bullish flag underneath, and then of course, the ascending triangle underneath there that suggest somewhere around the same area as well. In other words, this remains a “buy on the dip” type of market, as we have such a huge interest rate differential between the United States and Japan.</p>
+    	<p>As long as the Federal Reserve remains very tight with its monetary policy, which it looks like it may even raise interest rates 2 more times this summer, and the Japanese continue to keep a loose monetary policy, there’s no real reason why this pair won’t go higher over the longer term. With that being the case, I think we continue to see more of the same, and I look at any pullback as an opportunity to pick up a little bit of value. The ¥142.50 level underneath is the short-term “floor in the market”, with the 50-Day EMA digging into the bullish flag that I mentioned previously.</p>	
+    	<p>Until the central banks change their monetary policies, it’s almost impossible for this market to drop from here, as you get paid to hold onto the US dollar, while you have to pay to hold onto the Japanese yen. Whether or not we get there quickly or not remains to be seen, but it certainly looks as if the market is going to continue to have plenty of upward pressure over the longer term, so there is no scenario in which I’m willing to start selling this market. Granted, it will change eventually, but we are probably several months away from that actually being the case. We are a little stretched, so any dip at this point in time will almost certainly be thought of as a buying opportunity by many traders around the world, which is something that I do not expect to change anytime soon.</p>	
+    </div>
+  },
+  {
+    id: 558,
+    title: 'GBP/USD Forecast – British Pound Continues to Pull Back',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has initially tried to rally during the trading session on Thursday, but then gave back gains rather quickly as it looks like we continue to see a lot of volatility.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 5:45 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-775.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound has initially tried to rally during the trading session on Thursday, but then gave back gains rather quickly as it looks like we continue to see a lot of volatility. With that being the case, the market is likely to continue to see a drop toward the 50-Day EMA, which is closer to the 1.25 level. In general, I think we’ve got a situation where the market will be very noisy, but I also recognize that we are very much in an uptrend.</p>
+    	<p>Because of this, and the fact that the Bank of England is so tight, I think it’s likely that we see a scenario that traders will still be attracted to the British pound in general. However, with the unemployment claims number being lower than anticipated, it has thrown a little bit of money back toward the US dollar as the Federal Reserve will have to remain tight for quite some time.</p>	
+	    <p>If we were to turn around and break above the top of the candlestick for the Thursday session, then it would open up the possibility of a move to the 1.2750 level, which was the top of the Wednesday candlestick. Above there, then we test the highs again, as we have seen quite a bit of upward pressure over the longer term.</p>	
+    	<p>Whether or not that continues remains to be seen, but I do think that we have a situation where you still have to look at this through the prism of an uptrend. In fact, it’s not until we break down below the 200-Day EMA, closer to the 1.2350 level that I would consider this as a potential trend change.</p>
+      <p>In the meantime, I suspect a lot of people will simply be stepping to the side and waiting to find some type of value that they can take advantage of. With that in mind, a supportive daily candlestick will attract quite a bit of attention from me, and I would probably be a buyer. However, if we break down below the 200-Day EMA, it’s very possible that we could plunge toward the 1.1850 level next.</p>
+    </div>
+  },
+  {
+    id: 557,
+    title: 'GBP/JPY Forecast – British Pound Stabilizes',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has stabilized a bit during the trading session on Thursday, as it looks like we are going to continue the overall uptrend.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 5:38 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-776.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+    	<p>The British pound has stabilized a bit during the trading session on Thursday, as it looks like we are going to continue the overall uptrend. That being said, we probably have a bit of choppy trading ahead of us, due to the fact that we are so overextended. Markets have a couple of choices when they get a bit parabolic like this, they can either spend time grinding sideways, or pull back. It looks at this point that the British pound may spend more time going sideways than anything else, despite the fact that Wednesday was a very negative session.</p>
+    	<p>Underneath, the ¥180 level of course is a large, round, psychologically significant figure, and an area where a lot of people will be paying attention to. Any pullback to that area probably attracts a certain amount of support that people will be willing to take a look at, but even if we were to break down below there is very likely that the 50-Day EMA, near the ¥175 level, should continue to be a major influence as well. With that being said, I think that is the “floor of the market” at the moment, and therefore I would be surprised to see the market breakdown below there. If it did, then we can start to rethink the entire situation.</p>	
+    	<p>That being said, just above we have the ¥185 level offering resistance, from a psychological standpoint. As far as longer-term trading is concerned, I assume that this pair will eventually try to get to the ¥200 level, over the longer-term. I don’t necessarily think that happens easily or right away, but in the meantime, I look at pullbacks as a potential buying opportunity, as the market has proven itself to be so resilient, and of course, the Bank of England has to worry about quite a bit of inflation, while the Bank of Japan is seemingly worried about trying to create more inflation, keeping its monetary policy very loose while its counterpart in London is very tight.</p>	
+    	<p>Because of this, the swap in this pair continues to be a major driver of this pair going higher. With this, the market continues to see upward pressure in the longer-term, with perhaps the occasional value offering on the dips.</p>
+    </div>
+  },
+  {
+    id: 556,
+    title: 'EUR/USD Forecast – Euro Gives Up an Early Gain',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro initially tried to rally during the trading session on Thursday but has since seen quite a bit of negative pressure. The unemployment claims number in the United States was better than anticipated,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 29, 2023 - 5:31 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-777.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>The euro initially tried to rally during the trading session on Thursday but has since seen quite a bit of negative pressure. The unemployment claims number in the United States was better than anticipated, so people are worried about whether the Federal Reserve will have to continue tightening, which of course, they do.</p>
+	    <p>Some people will not listen to Jerome Powell, even though he has already said there are 2 more interest rate hikes coming. With that, there is a certain amount of disbelief in the markets when it comes to the Federal Reserve, so when you see moves like this, it’s normally those people being slightly convinced a bit further.</p>	
+	    <p>In general, this is a market that is facing the 50-Day EMA just below, and I think it probably could offer a little bit of support, just as it did last week. If we slice through that 50-Day EMA, then it’s possible that we could go down to the 200-Day EMA underneath. All things being equal, the market breaking through all of that opens up the possibility of a much deeper correction, perhaps even a trend change.</p>	
+	    <p>It certainly looks as if the market is going to continue to be very noisy, and of course, the US dollar has the very tight Federal Reserve behind it. However, the European Central Bank has already stated that they are more likely than not going to raise interest rates next month as well.</p>
+      <p>In other words, I think you continue to see a lot of noisy behavior, and therefore we have to be very cautious about position sizing. I would not go “all in” into this market, and quite frankly I expect to see further choppiness going forward. With this, the market is likely to be more noisy than anything else, so with that in mind, I think we have to look at this more or less as a consolidation area. Expect a lot of choppiness, and therefore you will probably have to trade this market from a very short-term perspective.</p>
+    </div>
+  },
+  {
+    id: 555,
+    title: 'EUR/USD Forecast – Euro Continues to Consolidate',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Euro pulled back just a bit during the trading session on Wednesday, as we continue to hang around the 1.09 level the market recently has fallen down to the 50-Day EMA,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 28, 2023 - 5:11 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-778.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The Euro pulled back just a bit during the trading session on Wednesday, as we continue to hang around the 1.09 level the market recently has fallen down to the 50-Day EMA, only to turn around and show signs of strength.</p>
+    	<p>All things being equal, this is a market that continues to look at the 1.09 level as a bit of a fulcrum for price. Ultimately, this is a market that has been very noisy for quite some time, mainly due to the fact that both central banks are essentially in the same boat.</p>	
+	    <p>All things being equal, this is a market that I think continues to see a lot of noisy behavior, but ultimately, I think we have to figure out whether or not the ECB or the Federal Reserve is going to be more aggressive.</p>	
+	    <p>I think at this point, the market is likely to be very noisy and choppy in this area, and I believe that this is more or less going to remain a situation where short-term traders will continue to push things back and forth and therefore, I think we’ve got a situation where you will have to look at this through the prism of neutrality. If you are a short-term trader, then a range-bound system probably continues to work out quite well for you.</p>
+      <p>The 50-Day EMA underneath could offer a bit of support near the 1.0850 level, and then of course the 200-Day EMA underneath there would as well. That being said, I think the 1.10 level above is going to continue to be a bit of a short-term ceiling in the market, as traders try to determine whether or not they have the momentum to continue breaking above all of these levels.</p>
+      <p>If we do, then the 1.11 level will offer the next ceiling. If we were to get above there, then the market could very well go much higher, as it frees the market from all of the short-term overhead resistance. I don’t see that happening easily though, so more likely than not you will have to focus on small movements, perhaps on the 15 minute chart.</p>
+    </div>
+  },
+  {
+    id: 554,
+    title: 'USD/JPY Price Forecast – US Dollar Continues to Consolidate Against the Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has gone back and forth against the Japanese yen during trading on Tuesday as we are trying to work off some of the excess profit from the last couple of weeks.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'June 27, 2023 - 5:59 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-779.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar has gone back and forth against the Japanese yen during trading on Tuesday as we are trying to work off some of the excess profit from the last couple of weeks.</p>
+    	<p>Ultimately, this is a market that I think is just simply starting to kill time to build up enough momentum to go higher finally. The ¥145 level is likely the next target, while the ¥142.50 region should be the short-term support.</p>	
+    	<p>Looking at the chart, you can also see that there is a bullish flag that we broke out of, and this bullish flag measures for a move to the ¥148 level. Underneath there, we had previously been in an ascending triangle, which measured a move closer to the ¥149 level.</p>	
+    	<p>In other words, this market eventually gets to go much higher, but in the short term, we must work off some of that momentum. This is typical because, in an uptrend, you get sideways action or some pullback after a burst higher like we had just seen.</p>
+      <p>Ultimately, even if we do pull back rather significantly, the 50-Day EMA is sitting right in the middle of the bullish flag, and I think it shows that the market is probably going to continue to respect that previous area as a bit of a floor in the market, assuming that we even pull back that far. I recognize that the interest rate differential between the Federal Reserve and the Bank of Japan continues to be very wide.</p>
+      <p>Therefore, we should continue to see the US dollar gain at the expense of the Japanese yen. For that matter, the Bank of Japan is still very much in its quantitative easing program, so one of the best trades this year has been to go short of the Japanese yen, not only with the US dollar but multiple other currencies such as the British pound, Australian dollar, New Zealand dollar, etc. I think that continues to be the case as we advance, so the US dollar will continue to be the winner in this market by default, as the Japanese continue to keep their rates so low.</p>
+    </div>
+  },
+  {
     id: 553,
     title: 'GBP/USD Weekly Forecast – British Pound Pulls Back From 200-Week EMA',
     category: 'Forex',
