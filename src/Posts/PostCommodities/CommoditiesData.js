@@ -1,5 +1,45 @@
 const data = [
   {
+    id: 558,
+    title: 'China Is Buying Natural Gas Like There’s Still an Energy Crisis',
+    category: 'Commodities',
+    subCategory: ['China', 'Gas', 'Energy'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- China is on a natural gas shopping spree, and officials are happy for importers to keep striking deals even after a global energy crisis has eased.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 2, 2023 - 5:00 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-793.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- China is on a natural gas shopping spree, and officials are happy for importers to keep striking deals even after a global energy crisis has eased.</p>
+    	<p>The government continues to back efforts by state-owned buyers to sign long-term contracts and even invest in export facilities, in order to bolster energy security through the middle of the century, according to people who have had meetings with policymakers.</p>	  
+    	<p>The nation is on track to be the world’s top importer of liquefied natural gas in 2023. And for the third straight year, Chinese companies are agreeing to buy more of it on a long-term basis than any single nation, according to data compiled by Bloomberg News.</p>	
+    	<p>China is looking well into the future to avoid a repeat of energy shortages, while also seeking to fuel economic growth. Long-term LNG contracts are attractive because shipments are promised at a relatively steady price compared to the spot market, where gas surged to an all-time after Russia’s invasion of Ukraine.</p>
+      <p>“Energy security has always been a priority for China,” said Toby Copson, global head of trading and advisory at Trident LNG in Shanghai. “Having ample supply in their portfolio allows them to manage future volatility. I would expect to see more.”</p>
+      <p>The dealmaking efforts will help underpin global export projects, strengthening the role the seaborne fuel will play in the energy mix. And as suppliers move to woo Chinese importers, Beijing’s influence in the market is set to increase.</p>
+      <p>China began its push for long-term contracts in 2021, after relations with the US improved. While imports dipped last year partly due to weaker demand amid Covid restrictions, Chinese buyers renewed the drive after the invasion of Ukraine cut pipeline gas to Europe.</p>
+      <p>The resulting high prices and global competition for the super-chilled fuel provided a quick lesson in the need for stable supplies. Part of China’s push for energy security is to diversify imports among various countries as a cushion against further geopolitical disruptions.</p>
+      <p>Several other importers, including India, are also looking to sign more deals to avoid future shortages and curb dependence on spot deliveries, yet China is locking in contracts at a much faster pace. So far this year, 33% of long-term LNG volumes signed went to China, according to Bloomberg calculations.</p>
+      <p>In the last month, state-owned China National Petroleum Corp. sealed a 27-year deal with Qatar and took a stake in the exporter’s massive expansion project, while ENN Energy Holdings Ltd. inked a decades-spanning contract with US developer Cheniere Energy Inc. Supplies from both contracts are slated to begin as soon as 2026.</p>
+      <p>More deals are in the offing as negotiations span boardrooms from Singapore to Houston. State-owned giants including Cnooc Ltd. and Sinopec are in discussions with the US, while smaller firms such as Zhejiang Provincial Energy Group Co. and Beijing Gas Group Co. are also searching for deals, according to traders. Qatar is in talks with several Chinese buyers for sales contracts that could last more than 20 years, the traders said.</p>
+      <p>The deals will help feed the roughly dozen new import terminals that are slated to start construction across China’s coastal cities in this decade. The nation’s LNG imports could rise to as high as 138 million tons by 2033, about double current levels, according to Norwegian consultant Rystad Energy.</p>
+      <p>“Currently, over half of China’s LNG demand from 2030 to 2050 remains uncontracted,” said Xi Nan, a Rystad analyst.</p>
+      <p>The government isn’t forcing companies to sign deals, and traders will only ink agreements that have attractive prices, the traders said. Chinese buyers are also using the new LNG contracts to expand portfolios and unlock lucrative trading opportunities.</p>
+      <p>The bullish demand outlook isn’t certain, however, especially as China boosts gas production at home, while overland shipments from Russia could rise if new pipelines are constructed. An excess of supply increases the risk that LNG import terminals are likely to sit idle more frequently, Cnooc senior analyst Xie Xuguang warned last month.</p>
+      <p>Nevertheless, power outages and shortages over the last few years have changed the thinking of China’s policymakers, who now favor energy security over fuel importers facing a possible oversupply, according to traders who are briefed on the government’s strategy.</p>
+      <p>A lack of coal — China’s mainstay fuel for power generation — triggered widespread electricity curtailments to factories for brief periods in 2021 and 2022, slowing economic growth. In response, the country vowed to increase mining capacity, and production has risen to record levels, keeping storage sites well stocked and reducing imports.</p>
+      <p>Now, policymakers want to do the same with gas. Beijing is pushing the energy giants to also lift gas production at home, cutting drilling costs to increase self-sufficiency, according to people close to the government.</p>
+      <p>“Given that new pipelines are being discussed but have yet to be finalized, Chinese buyers are still looking to secure supplies” from the LNG market, said Michal Meidan, head of China Energy Research at the Oxford Institute for Energy Studies.</p>
+      <p>Plus, the more deals China signs, the more control the nation has over global LNG supply. China is already playing a key role in balancing the market, reselling its contracted shipment to the neediest buyers when demand at home is weak, with that trend set to expand as the new deals start this decade.</p>
+      <p>“Larger and more established buyers typically possess greater negotiation power compared to smaller or emerging players,” said Rystad’s Xi. “Continuing to sign long-term contracts is a logical decision.”</p>
+      <p>--With assistance from Ruth Liao, Anna Shiryaevskaya and Dan Murtaugh.</p>
+    </div>
+  },
+  {
     id: 557,
     title: 'Oil settles higher but posts fourth straight quarterly decline',
     category: 'Commodities',

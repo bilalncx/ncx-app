@@ -1,6 +1,47 @@
 const data = [
   {
-    id: 567,
+    id: 569,
+    title: 'Stock Market Rally That Shocked Everyone Is Broadening Beyond Tech',
+    category: 'Markets',
+    subCategory: ['Stock', 'Tech', 'market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The big knock on the 2023 stock rally is that it rests on half-a-dozen companies thriving on hype. That criticism just took a hit.</p>
+    </div>,
+    authorName: 'Carly Wanna and Lu Wang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 1, 2023 - 12:34 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-788.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The big knock on the 2023 stock rally is that it rests on half-a-dozen companies thriving on hype. That criticism just took a hit.</p>
+    	<p>Beneath another rousing advance this week were signs of an increasingly equitable division of rewards, including the best week for small-caps since March and a trouncing of the S&P 500 by a version of the same index that strips out market-value biases. Industries that had previously trailed — from transports to real estate and energy — this time led the way.</p>	
+    	<p>The idea that gains would broaden out after being confined to an oligarchy of artificial-intelligence megacaps has been a prong in bull cases all year, and got a boost this week from a clutch of economic reports that again suggested a recession is still a way’s away.</p>	
+    	<p>Stocks of all stripes benefited, with nine of ten S&P 500 members climbing. The index’s equal-weighted version beat the traditional one by 1 percentage point for the best week since January.</p>
+      <p>“Everybody talks about the Big Seven or whatever number they like about big-cap tech and AI and all that stuff, but they’re not the only ones that are really seeing strength right now,” said Jeff Muhlenkamp, whose Muhlenkamp Fund has cut cash holdings to 15% from 35% in February, scooping up shares in homebuilders, one financial firm and a media company.</p>
+      <p>“Certainly six months ago I expected a recession, but now that’s looking a little bit less likely,” he added. “We’re a little bit more optimistic about the economy than we were three and four months ago. We’ve put a little bit of money to work.”</p>
+      <p>The tech-heavy Nasdaq 100 surged close to 40% in the first half of the year, recouping much of its 2022 losses. A handful of its biggest stocks — contenders in the artificial intelligence race — pushed the benchmark S&P 500 Index up roughly 16%. The Russell 2000, often seen as a proxy for small-cap health, posted a more modest advance of 7.2%.</p>
+      <p>Muhlenkamp isn’t the only one buying. Invesco S&P 500 Equal Weight ETF (ticker RSP) is on course for a record inflow of nearly $5 billion for the month of June, according to data compiled by Bloomberg.</p>
+      <p>The ETF tracking the Russell 2000 (IWM) attracted about $1.8 billion of fresh money over the same stretch, poised for the largest addition since February 2021. The optimism helped the Russell 2000 outpace the Nasdaq for the first month this year.</p>
+      <p>A $6 trillion rally was not what Wall Street predicted in 2023. Back in January, strategists tracked by Bloomberg called for the S&P 500 to end the year at 4,050. While there is still time for their forecasts to prove correct, it’s worth noting the index now sits 400 points above that target.</p>
+      <p>While a report on Friday showed stagnant consumer spending and cooling inflation, earlier data on everything from gross domestic product to new home sales and durable goods orders beat forecasts.</p>
+      <p>All told, a Bloomberg index tracking economic surprises has risen in all but two weeks since early April and reached the highest level in more than two years.</p>
+      <p>The steadfastness, along with signals from Federal Reserve Chair Jerome Powell for two more rate hikes in 2023, sparked a spike in Treasury yields. Yet unlike in 2022, when the sight of higher borrowing costs sent stocks reeling, now this is perceived as an endorsement of the idea that a widely feared recession is not an imminent threat.</p>
+      <p>“It’s contributing to the narrative,” said Lauren Goodwin, economist and portfolio strategist at New York Life Investments. “Broadening of economic performance can fuel optimism around broader equity market performance.”</p>
+      <p>One consequence of a buoyant economy has been a diminishing of volatility, and not just in stocks. A measure of cross-asset risk kept by Bank of America has steadily declined in 2023, aside from a spike during the banking turmoil in March. The muted implied volatility fuels the bullish narrative, according to John Kolovos, chief technical strategist at Macro Risk Advisors.</p>
+      <p>“That whole macro worry that we’ve had: it’s dissipated,” he said. “When an indicator that shows that macro uncertainty is very low, that’s a huge tailwind for stocks.”</p>
+      <p>FAANG euphoria may get all the hype, but earnings prospects for small-caps are expected to improve later this year. While income growth from Russell 2000 firms is expected to trail their larger counterparts for the third quarter, it will rebound over the next four periods, with profits expanding at a rate more than triple the S&P 500’s by the middle of 2024, data compiled by Bloomberg Intelligence show.</p>
+      <p>Performance in factor-based indexes — quant tools that target stocks based on specific characteristics — signals improving market breadth as well. In June, the Dow Jones U.S. Thematic Market Neutral Momentum Index, which buys the market’s winners against losers based on recent returns, underperformed other popular strategies including value, which targets cheap stocks. Year-to-date, the opposite has been true, although neither factor has performed particularly well.</p>
+      <p>“The more we see that momentum starts to get flat, to start to underperform the rest of the factors, that means that the breadth of the market starts to get better,” said Omar Aguilar, chief executive officer and chief investment officer of Schwab Asset Management.</p>
+      <p>Of course, how investors feel at the end of the first half of 2023 depends on what they choose to pay attention to: an inverted yield curve, the Nasdaq’s surge, central bank policy, or something else entirely. And a solid month for smaller companies does not ensure that markets are in the clear, that a recession will be avoided, or that the S&P 500 might reclaim its 2022 highs.</p>
+      <p>But it’s still a trend worth noting, Macro Risk Advisors’ Kolovos said.</p>
+      <p>“Things are a lot less bad in terms of market breadth,” he said. “I wouldn’t go so far as saying that they’re great yet, but they’re building.”</p>
+      <p>--With assistance from Peyton Forte.</p>
+    </div>
+  },
+  {
+    id: 568,
     title: 'GE Stock Rallies 68% Ahead Of Its Huge Aerospace Play. Whats In Store For Investors.',
     category: 'Markets',
     subCategory: ['GE', 'Stocks', 'Aerospace'],
@@ -103,6 +144,31 @@ const data = [
       <p>As management tries to put the energy business on the path to profitability, it faces more scrutiny around project selection and profit margins.</p>
       <p>"That is going to be the biggest story in GE stock over the next 12 months," Aguilar said.</p>
       <p>On June 23, rival Siemens Energy warned of a "substantial increase in failure rates of wind turbine components" and withdrew 2023 guidance. The read-through for GE Vernova is not yet clear.</p>
+    </div>
+  },
+  {
+    id: 567,
+    title: 'Goldman Sachs may exit partnership with Apple - WSJ',
+    category: 'Markets',
+    subCategory: ['Goldman', 'Sachs', 'Apple'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Goldman Sachs is considering exiting its partnership with Apple, the Wall Street Journal reported on Friday, citing sources familiar with the matter.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 1, 2023 - 12:18 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-789.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) -Goldman Sachs is considering exiting its partnership with Apple, the Wall Street Journal reported on Friday, citing sources familiar with the matter.</p>
+    	<p>The iPhone-maker and Goldman Sachs started rolling out a virtual credit card in 2019.</p>	
+    	<p>The bank is in talks with American Express to take over its Apple credit card and other ventures with the tech giant, the report added.</p>	
+    	<p>Apple in March launched its "buy now, pay later" service in the United States enabled through the Mastercard Installments program, with Goldman Sachs as the issuer of the Mastercard payment credential.</p>
+      <p>Apple credit card, which is made out of titanium and no visible number, currently offers 3% daily cash back to spend or save, Apple's website said. It also offers interest-free monthly installments on purchases of Apple devices.</p>
+      <p>American Express did not immediately respond to a Reuters request for comment, while Apple and Goldman Sachs declined to comment.</p>
+      <p>(Reporting by Arshreet Singh and Akash Sriram in Bengaluru; Editing by Shweta Agarwal)</p>
     </div>
   },
   {

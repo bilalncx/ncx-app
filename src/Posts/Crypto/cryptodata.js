@@ -1,5 +1,63 @@
 const data = [
   {
+    id: 593,
+    title: 'South Korea approves crypto bill to protect investors, goes into effect in one year',
+    category: 'Crypto',
+    subCategory: ['south Korea', 'Crypto', 'Investors'],
+    description: <div className="blog-desc">
+      <p>South Korea’s National Assembly on Friday approved a bill that focuses on protecting the interests of cryptocurrency investors in the country’s first step to build a legal framework</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 1, 2023 - 7:47 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-794.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>South Korea’s National Assembly on Friday approved a bill that focuses on protecting the interests of cryptocurrency investors in the country’s first step to build a legal framework devoted to such digital assets, according to the Assembly’s official website. The legislation, which translates as the Virtual Asset User Protection Act, is expected to come into law in a year.</p>
+    	<h3>Fast facts</h3>
+      <ul>
+        <li>The bill, an amalgamation of 19 proposals from lawmakers, requires crypto service providers to ring-fence user’s assets and deposits, to have insurance, to hold a portion of reserves in offline cold wallets in case of hacks or system failures, and to maintain records of all transactions.</li>
+        <li>The legislation includes penalties for price manipulation, false promotion of crypto assets, and failing to provide required information on investors. Penalties for those convicted include a minimum of one year in prison, or a fine of three to five times the amount of profits earned from such violations.</li>
+        <li>The bill defines “virtual assets” as an “electronic representation of an economic value that can be traded or transferred electronically.” The bill excludes the central bank digital currency (CBDC) under the Bank of Korea, the country’s central bank.</li>
+        <li>The legislation, however, does give the Bank of Korea the right to request data from cryptocurrency platforms, a right it had been arguing for with the country’s financial regulators. The bank has stated the cryptocurrency market could have a significant impact on financial and monetary stability and hence it needs some oversight.</li>
+        <li>In an interview with Forkast in May, Hwang Suk-jin, a Ruling People Power Party’s Digital Asset Special Committee member said the proposed bill will establish the legal rights for virtual asset users and create a safer and more reliable market for cryptocurrencies.</li>
+        <li>As of 2020, South Korea had one of the most active cryptocurrency economies in the world, ranking 7th worldwide on the Global Crypto Adoption Index compiled by  blockchain data platform Chainalysis.</li>
+        <li>However, the country fell to 23 on the index in 2022, the same year as the US$40 billion collapse of the Terra-Luna cryptocurrency and stablecoin that was launched in the country and caused massive losses to hundreds of thousands of investors. Regardless, the Upbit crypto exchange in South Korea remains the world’s third largest by trading volume, according to CoinMarketCap data.</li>
+        <li>The Terra-Luna debacle helped drive legislation in South Korea to establish a legal framework to cover cryptocurrencies, focusing first on investor protection. The next stage of crypto legislation is expected to focus on rules for local companies in token issuance and information disclosure.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 592,
+    title: 'Cryptocurrency Prices And News: Bitcoin Price Holds $30,000 Level For The Week; Cryptos Rise',
+    category: 'Crypto',
+    subCategory: ['Cryptocurrency', 'Bitcoin', 'Prices'],
+    description: <div className="blog-desc">
+      <p>Cryptocurrency News: Cryptocurrency prices rise Friday. Bitcoin price holds $30,000 level this past week on institutional ETF applications.</p>
+    </div>,
+    authorName: 'HARRISON MILLER',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 1, 2023 - 12:30 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-795.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Cryptocurrency News: Cryptocurrency prices rise Friday. Bitcoin price holds $30,000 level this past week on institutional ETF applications.</p>
+    	<p>Cryptocurrency News: Cryptocurrency prices were largely in the green late Friday while bitcoin eased after eclipsing its $31,000 level.</p>	
+    	<h3>Cryptocurrency Price Action</h3>
+      <p>Bitcoin climbed as high as $31,258 Friday and traded around $30,500 in the evening. Bitcoin rocketed to $31,411 June 23 — its highest level since last May. BTC held above its $30,000 level the past week after diving below $25,000 on June 15 for the first time since mid-March. The world's largest cryptocurrency bolted 84% so far this year.</p>	
+    	<p>Ethereum surged near $1,930 Friday and peaked at $1,945 intraday to mark a new month high. ETH tumbled below $1,700 on June 15 for the first time since March and traded around $1,900 prior to the recent SEC lawsuits against Binance and Coinbase (COIN).</p>
+      <p>Ethereum peaked at $2,139 on April 16 -  its highest level since last May, and shot above $2,000 for the first time in nearly a year on April 13 following its Shanghai upgrade to a proof-of-stake network. The No. 2 crypto soared 61% year-to-date.</p>
+      <h3>Cryptocurrency Prices Heatmap:</h3>
+      <p>Digital asset investments are extremely volatile. While cryptocurrency's fundamentals and technical indicators may differ, investors should focus on the same key objectives. First, stay protected by learning when it's time to sell, cut losses or capture profits. Second, prepare to profit if the cryptocurrency starts to rebound.</p>
+      <p>Despite their original promise, cryptocurrencies haven't acted as hedges against inflation. Instead, they've trended with the broader indexes. Read The Big Picture and Market Pulse to track daily market trends.</p>
+      <p>View IBD's Best Cryptocurrencies And Crypto Stocks To Buy And Watch page to help navigate the world of digital asset investments.</p>
+    </div>
+  },
+  {
     id: 591,
     title: 'Bitcoin, Ether rise along with all other top 10 cryptos',
     category: 'Crypto',

@@ -1,5 +1,156 @@
 const data = [
   {
+    id: 551,
+    title: 'S&P 500 Rallies Back To Highs, But Watch For This; Tesla Deliveries Due',
+    category: 'Indices',
+    subCategory: ['S&P', '500', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>The S&P 500 index hit a 14-month high as the stock market rally roared back this past week. The Dow Jones and Nasdaq composite are back near 2023 highs, </p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 2, 2023 - 6:22 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-790.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The S&P 500 index hit a 14-month high as the stock market rally roared back this past week. The Dow Jones and Nasdaq composite are back near 2023 highs, as Apple (AAPL) closed Friday with a $3 trillion market cap for the first time.</p>
+    	<p>Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Tesla (TSLA) will be in focus, reporting second-quarter deliveries this weekend, along with EV and battery giant BYD (BYDDF). China EV startups Li Auto (LI) Nio (NIO) and XPeng (XPEV) reported June deliveries on Saturday.</p>	
+    	<p>Nvidia (NVDA), HubSpot (HUBS), Marriott International (MAR), General Electric (GE) and JPMorgan Chase (JPM) are all flashing buy signals.</p>	
+    	<p>The only concern is that the Nasdaq is already extended again, raising the risk of another market pullback in the near future.</p>
+      <p>Tesla stock, Nvidia and HubsSpot are on IBD Leaderboard. HubSpot is on the IBD 50. HubSpot and Tesla stock are on the IBD Big Cap 20.</p>
+      <p>In other news, Elon Musk imposed Twitter "rate limit" curbs, restricting how many tweets that users can read in a day.</p>
+      <p>The video embedded in this article discussed the big market moves and analyzed Nvidia, HubSpot and JPM stock.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures open at 6 p.m. ET on Sunday, along with S&P 500 futures and Nasdaq 100 futures.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally extended a brief pullback on Monday, but then rebounded strongly.</p>
+      <p>The Dow Jones Industrial Average gained 2% in last week's stock market trading. The S&P 500 index climbed 2.35%. The Nasdaq composite advanced 2.2%. The small-cap Russell 2000 leapt 3.7%</p>
+      <p>In the first half of 2023, the S&P 500 has jumped 15.9%, its best six-month start since 2019. The Nasdaq surged 31.7%, its best since 1983.</p>
+      <p>The Dow is up a modest 3.8% and the Russell 2000 7.4%.</p>
+      <p>AAPL stock rose 3.9% last week and 49% so far this year, giving it a $3.05 trillion market cap. It's the first time that Apple or any company has closed with a $3 trillion valuation.</p>
+      <p>The 10-year Treasury yield rose 8 basis points to 3.82%, hitting a three-month high Friday morning.</p>
+      <p>U.S. crude oil futures rose 2.1% to $70.64 a barrel last week, though it tumbled 6.65% for the quarter. Copper futures slumped 1.6% for the week, but snapped a six-day losing streak on Friday.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) bolted 5.3% last week to a seven-month high while the Innovator IBD Breakout Opportunities ETF (BOUT) leapt 5.25%. The iShares Expanded Tech-Software Sector ETF (IGV) bounced 2.7%, with HUBS stock an IGV holding. The VanEck Vectors Semiconductor ETF (SMH) rallied 3.2%. Nvidia stock is the No. 1 holding in SMH.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) ran up 4.75% last week and ARK Genomics ETF (ARKG) 4%. Tesla stock is the No. 1 holding across Ark Invest's ETFs. Cathie Wood's Ark also owns a small amount of BYD stock.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) climbed 4.4% last week, regaining its 200-day line for the first time in two months. The Global X U.S. Infrastructure Development ETF (PAVE) popped 4.6% to a fresh high. U.S. Global Jets ETF (JETS) soared 6% to a 52-week best. SPDR S&P Homebuilders ETF (XHB) stepped up 4.5% for its fifth straight weekly gain. The Energy Select SPDR ETF (XLE) bounced 4.9% and the Health Care Select Sector SPDR Fund (XLV) edged up 0.55%. The Industrial Select Sector SPDR Fund (XLI) revved up 3.9% to just below record highs. GE stock is a key XLI component.</p>
+      <p>The Financial Select SPDR ETF (XLF) rose 3%, closing above its 200-day line for the first time since early March. JPM stock is a major holding. The SPDR S&P Regional Banking ETF (KRE) gained 3.2% after tumbling 8.1% in the prior week.</p>
+      <h3>Stocks In Buy Zones</h3>
+      <p>Nvidia stock edged up 0.2% to 423.02 last week, but rebounded 3.6% on Friday, moving from near the 21-day line and breaking a short downtrend. That offered a place to start a position or perhaps add a few shares to an existing position. During the week, Nvidia shrugged off reports that the Biden administration will expand its chip export curbs to China, adding more Nvidia products.</p>
+      <p>HUBS stock popped 3.9% to 532.09 last week, rebounding from the 21-day line and clearing the bulk of a four-weeks-tight pattern. Intraday Friday, HubSpot briefly topped the 535.12 buy point.</p>
+      <p>MAR stock leapt 7.1% to 18.69, staging a big upside week, retaking the 50-day line and clearing buy points just above 183 to hit a 52-week high. Marriott's volume was below average throughout the week.</p>
+      <p>GE stock jumped 5.85% to 109.85, rebounding from the 10-week line and clearing a three-weeks-tight buy point of 108.90, according to a weekly MarketSmith chart.</p>
+      <p>JPM stock rallied 4.75% to 145.44 last week, with all of the gains coming on Thursday-Friday. That cleared a 143.37 flat-base buy point and set a 16-month high. JPMorgan and other big banks passed Fed stress tests late Wednesday, as expected. Banking giants, and especially JPMorgan, may have a long-term competitive edge over regional banks following the recent crisis.</p>
+      <h3>China EV Sales</h3>
+      <p>Li Auto reported June sales of 32,575, topping 30,000 for the first time. That's up 150% from a year earlier and 15.2% vs. May. Second-quarter sales were 86,533, up 201.65% vs. Q2 2022, when Covid shutdowns crippled China production and consumption. That easily exceeded a prior target of 76,000-81,000</p>
+      <p>Li Auto CEO Li Xiang said Friday that June sales topped 32,000.</p>
+      <p>For Q3, the hybrid SUV maker aims for monthly deliveries for the L8 and L9 of more than 10,000, and hoping to reach 15,000 monthly sales of the L7. For Q4, Li is looking for monthly deliveries of 40,000. It'll also roll out its first all-electric model in Q4.</p>
+      <p>Nio delivered 10,707 vehicles in June, up 74% from May's 6,155, off 17.4% vs. a year earlier. Sales are picking up with deliveries of the revamped ES6 SUV, as well as the ET5 Touring and overhauled ES8 began to be delivered. Nio also has made some price cuts in the past few weeks.</p>
+      <p>Nio delivered 23,520 vehicles in Q2, in the lower half of its target for 23,000 to 25,000.</p>
+      <p>Xpeng delivered 8,620 vehicles in June, up 14.8% vs. May. That's the fifth straight month-to-month gain, though sales tumbled 44% vs. a year earlier. Q2 deliveries of 23,205 vehicles sank nearly one-third vs. a year earlier. But they were above XPeng's guidance range for 21,000 to 22,000 vehicles.</p>
+      <p>The EV maker has high hopes for its G6 crossover, which will begin deliveries in July. It's priced to sell, significantly cheaper than its direct rival, the Tesla Model Y.</p>
+      <p>Meanwhile, EV giant BYD is expected to report record monthly and quarterly sales, perhaps around 250,000 EVs in June.</p>
+      <p>Li Auto stock rose 5.7% to 35.10 last week, at its best levels in nearly 10 months. Nio stock surged almost 15% to 9.69, nearing its 200-day line. Xpeng stock vaulted 36% to 13.42, clearing a seven-month consolidation.</p>
+      <p>BYD stock fell 1.7% to 32 last week, but did bounce from its 50-day line on Friday. Shares are in range from a 31.07 buy point.</p>
+      <h3>Tesla Deliveries</h3>
+      <p>Tesla deliveries for the second quarter are expected to rise to roughly 445,000, according to FactSet. That would be up from 422,875 in Q1 and 405,278 in Q4.</p>
+      <p>After huge price cuts worldwide in Q1, Tesla made some official price cuts and a few modest price hikes in Q2. But it offered substantial discounts on inventory, along with other incentives that could further pressure gross margins. But that won't be clear until the second-quarter earnings report in late July.</p>
+      <p>Production likely exceeded deliveries once again, even with Tesla curbing output well below capacity. That suggests Tesla will need to keep cutting prices, especially if it wants to increase deliveries. An updated Model 3 and the Cybertruck are coming, but not quite yet.</p>
+      <p>Tesla stock rose 2% to 261.77 this past week, even after tumbling 6.1% on Monday. Shares have more than doubled in 2023 and are well extended from recent buy points.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally staged an almost-textbook bullish rebound this past week. The Dow Jones, S&P 500 and Nasdaq composite all staged upside, outside weeks after testing or undercutting their 21-day moving averages. The S&P 500 hit a 14-month high while the Nasdaq reached a 14-month closing high. The Dow is just below its 2023 highs.</p>
+      <p>The Russell 2000 didn't quite have an outside week, but roared toward recent highs.</p>
+      <p>The Invesco S&P 500 Equal Weight ETF (RSP) jumped 3.4%, hitting its best levels in nearly four months and outpacing the S&P 500.</p>
+      <p>The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) gained 2.8%, outpacing the Nasdaq 100's 1.9% advance.</p>
+      <p>The Advance/decline lines, after weakening during the recent pullback, improved this past few days, especially on the NYSE.</p>
+      <p>A large number of leading stocks from a variety of groups — chips, software, travel, housing, industrial, retail/restaurants and even some financials — broke out or flashed various buy signals.</p>
+      <p>The only yellow flag is that the strong market rally is too strong.</p>
+      <p>When the Nasdaq gets 6%-7% above its 50-day line, the risks of a pullback mount. In the past couple of years, the Nasdaq has sometimes stretched to 10% or more, as it did at its mid-June top. Because the market pullback was so shallow and brief, the Nasdaq is already 7.6% above its 50-day line. The Nasdaq 100, which includes Apple stock, Nvidia, Tesla and other big-cap players, is 8.3% above the 50-day line.</p>
+      <p>The S&P 500, at 5.3% above the 50-day line, is close to being extended as well.</p>
+      <h3>What To Do Now</h3>
+      <p>The short-lived stock market pullback created a slew of buying opportunities from a variety of sectors.</p>
+      <p>Investors could have added some exposure in the past few days. You can still do so, but do so gradually, and be ready to cut losses quickly. There is already an elevated risk of another market pullback.</p>
+      <p>In Mike Webster's return to IBD Live on Friday, he discussed the importance of grading your stocks or potential buys via a variety of fundamental and technical factors. Review your portfolio to see which stocks you may want to cut loose and which you'd like to add to.</p>
+      <p>Run your screens and beef up your watchlists. Pay close attention to stocks near or in buy zones that merit an A grade.</p>
+    </div>
+  },
+  {
+    id: 550,
+    title: 'Dow Jones Today: Index Finishes First Half Higher, Led by Tech Stocks',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Tech', 'Index'],
+    description: <div className="blog-desc">
+      <p>The Dow finished the week up about 2%, and the index was up 3.8% for the first half of the year. Apple (AAPL) shares rose more than 2%, bringing the company's market capitalization to over $3 trillion, making it the only publicly listed U.S. company to reach that level so far. Other tech stocks also gained, with shares of Microsoft (MSFT), Intel (INTC),</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 1, 2023 - 12:52 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-792.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow finished the week up about 2%, and the index was up 3.8% for the first half of the year. Apple (AAPL) shares rose more than 2%, bringing the company's market capitalization to over $3 trillion, making it the only publicly listed U.S. company to reach that level so far. Other tech stocks also gained, with shares of Microsoft (MSFT), Intel (INTC), and Cisco Systems (CSCO) advancing more than 1%.</p>
+      <h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>The Dow finished 0.8% higher on Friday, recording a 3.8% gain for the first half of the year.</li>
+        <li>Tech stocks led Friday's gains, with Apple shares rising over 2% to crack the $3 trillion market capitalization level.</li>
+        <li>Nike was down 2.7% after reporting its first earnings miss in three years.</li>
+      </ul>
+    	<p>In the last trading day of the week, month, quarter, and first half, the Dow Jones Industrial Average (DJIA) surged up nearly 0.9% or 315 points, led by Apple and other tech stocks.</p>
+      <p>The Dow finished the week up about 2%, and the index was up 3.8% for the first half of the year. By contrast, the Nasdaq gained 2.2% for the week and 31.7% for the first half, while the S&P 500 was up 2.4% for the week and 15.9% year-to-date.</p>
+    	<p>Apple (AAPL) shares rose more than 2%, bringing the company's market capitalization to over $3 trillion, making it the only publicly listed U.S. company to reach that level so far. Other tech stocks also gained, with shares of Microsoft (MSFT), Intel (INTC), and Cisco Systems (CSCO) advancing more than 1%.</p>	
+    	<p>Shares of Walt Disney (DIS) moved 0.6% higher after its ESPN network announced it cut 20 of its on-air personalities as part of cost-cutting measures.</p>
+      <p>Nike (NKE) was the worst performer in the index, with shares falling 2.7% after reporting its first earnings miss in three years, as higher costs and markdowns squeezed its margins.</p>
+    </div>
+  },
+  {
+    id: 549,
+    title: 'Stock Market Indexes All Post Gains For First Half 2023; Nasdaq Rallies More Than 31%',
+    category: 'Indices',
+    subCategory: ['Indexes', 'Nasdaq', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>The major stock market indexes closed strong, with all major indexes holding steady or picking up steam in the final hour of the second quarter.</p>
+    </div>,
+    authorName: 'KIMBERLEY KOENIG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 1, 2023 - 12:40 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-791.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The major stock market indexes closed strong, with all major indexes holding steady or picking up steam in the final hour of the second quarter.</p>
+    	<p>The day started on a firm footing after inflation data came out mostly in line with expectations and showed signs of slowing down.</p>	
+    	<p>The Nasdaq rose 1.5% to close out the trading day, as Big Tech stocks saw strength. The Dow Jones Industrial Average lagged with a 0.8% gain, and was pulled down by Nike (NKE).</p>	
+    	<p>The S&P 500 rallied 1.2%. The Russell 2000 climbed 0.6%.</p>
+      <p>The Nasdaq finished the first half of 2023 up an impressive 31.7%, and the best first half since 1983.</p>
+      <p>The S&P 500 posted a 16% six-month gain. Over 72% of S&P 500 stocks are above their 50-day moving averages, in preliminary numbers.</p>
+      <p>The Dow Jones lagged with a modest 3.9% six-month increase while the small-cap Russell 2000 rose 7.6%.</p>
+      <p>The Nasdaq 100-tracking Invesco QQQ Trust ETF (QQQ) gained 1.5%. It jumped 38.8% in the first half, the biggest gain on record since 1986. The First Trust Nasdaq 100 Equal Weighted ETF (QQEW) popped 1.2%, indicating broad participation in today's rally.</p>
+      <p>The Innovator IBD 50 ETF (FFTY) gained 1.8%, outperforming the market indexes. NYSE volume was lower and Nasdaq volume was higher, compared with the same time on Thursday, in preliminary numbers.</p>
+      <p>The May personal consumption expenditures, or PCE, price index rose 0.1% vs. the 0.2% expected. That dropped the annual inflation rate to 3.8%, meeting expectations and down from a revised 4.3% in April. That's the lowest rate since April 2021.</p>
+      <p>The 10-year U.S. Treasury yield shed 4 basis points to 3.82%. The CME FedWatch Tool showed over 80% odds for a quarter-point hike at the July Fed meeting.</p>
+      <h3>Stock Market Action: Aircraft Stock Flies To A High</h3>
+      <p>IBD 50 company FTAI Aviation (FTAI) soared 2.9% and hit a 52-week high. Shares are in the 5% buy zone of a flat base with a buy point of 30.26, which reaches to 31.77.</p>
+      <p>The relative strength line also hit a new high as shown by the blue dot on the weekly chart, according to MarketSmith pattern recognition.</p>
+      <p>Analysts expect the company to earn $1.45 a share this year vs. a loss of $2.24 in 2022. The company leases aircraft and jet engines, making it a complement to the hot airline industry.</p>
+      <p>Nike fell 2.7% in heavy volume, after reporting worse-than-expected fiscal fourth-quarter earnings late Thursday. Several analysts cut their price targets on the stock. Shares dropped below the 200-day moving average.</p>
+      <p><strong>Visa (V) </strong>rose 1.4% as the stock broke out of a flat base, hitting the 235.57 buy point. The stock is in the buy zone, which reaches to 247.35. Shares retook the 50-day moving average on Thursday.</p>
+      <p>The move came after the company reported on Wednesday it will acquire cloud-based processing and banking platform Pismo for $1 billion in cash.</p>
+      <h3>Stock Market Movers: Cruise Line Stocks Sail Onward</h3>
+      <p><strong>Carnival (CCL) </strong>surged 9.7% in heavy volume, after Jefferies upgraded the cruise line stock to a buy from a hold rating and raised its price target to 25 from 9.</p>
+      <p>Shares are well extended from a cup base with a 12.62 buy point. The IBD 50 stock is up more than 130% this year so far.</p>
+      <p><strong>Royal Caribbean Group (RCL), </strong>also in the IBD 50, jumped on board Carnival's rally, and rose 2.2%.</p>
+      <p><strong>Nvidia (NVDA) </strong>gained another 3.6% after Daiwa Capital upgraded the stock to outperform from neutral and raised its price target to 475 from 408.</p>
+      <p>Chinese EV maker <strong>XPeng (XPEV) </strong>gapped up 13.4% in heavy volume after launching its G6 Ultra Smart Coupe SUV Thursday.</p>
+      <p><strong>Tidewater (TDW)</strong> jumped past the 51.88 buy point of an undefined base in heavy trading. A handle entry at 51.13 is another viable buy point. The provider of support vessels for offshore drillers is expected to continue expanding its bottom line. Analysts expect the company to earn $3.18 a share this year vs. 22 cents in 2022.</p>
+    </div>
+  },
+  {
     id: 548,
     title: 'LIVE: FTSE and Wall Street surge as UK avoids recession and eurozone inflation falls',
     category: 'Indices',
