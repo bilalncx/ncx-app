@@ -1,5 +1,5 @@
 .blo__btns {
-    padding: 100px 0px;
+    padding: 100px 0px !important;
 }
 .blg__btn {
     display: flex;
