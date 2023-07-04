@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
+                            <a href="/post-commodities/562" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-809.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  July 4, 2023 - 7:12 AM</p>
+                                    <h1>Gold firms as traders hunker down for Fed cues</h1>
+                                    <p>(Reuters) - Gold firmed on Tuesday as some traders bet that recent weak U.S. economic data may prompt the Federal Reserve to rethink its rate hike trajectory,</p>
+                                </a>
                                 <a href="/post-indices/553" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-800.jpg" alt="art_pic"/></div>
                                     <p className="dat"> July 4, 2023 - 12:24 AM</p>
                                     <h1>Nasdaq refiles BlackRocks bitcoin ETF application with SEC</h1>
                                     <p>(Reuters) - Nasdaq refiled an application with the U.S. securities regulator to list an exchange-traded fund by BlackRock Inc that will reflect the price of bitcoin to add</p>
-                                </a>
-                                <a href="/post-markets/574" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-801.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  July 3, 2023 - 10:50 PM</p>
-                                    <h1>S&P 500: Tesla Stock Leads Top Performers Monday</h1>
-                                    <p>Tesla (TSLA), Fidelity National Information Services (FIS) and Zions Bancorp (ZION) were the top three S&P 500 index gainers on the stock market today.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -107,23 +107,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Forex</h1>
                             <div className="art_grf row">
-                            <a href="/post-forex/560" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-780.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 30, 2023 - 6:32 PM</p>
-                                    <h1>US dollar share of global reserves edges up in Q1, euros share dips - IMF</h1>
-                                    <p>NEW YORK (Reuters) - The U.S. dollar's share of currency reserves reported to the International Monetary Fund rose in the first quarter of the year,</p>
+                            <a href="/post-forex/565" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-815.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 3, 2023 - 6:09 PM</p>
+                                    <h1>USD/JPY Forecast – US Dollar Consolidates Against the Japanese Yen</h1>
+                                    <p>The US dollar has initially tried to rally during the session on Monday, but it looks as if we are struggling just a bit to continue going higher. That does make a certain amount of sense,</p>
                                 </a>
-                            <a href="/post-forex/559" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-774.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 29, 2023 - 5:51 PM</p>
-                                    <h1>USD/JPY Forecast – US Dollar Continues to Power Higher Against Japanese Counterpart</h1>
-                                    <p>The US dollar initially pulled back just a bit during the trading session but then started to grind higher again. Ultimately, we are in a massive uptrend,</p>
+                            <a href="/post-forex/564" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-814.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 3, 2023 - 6:01 PM</p>
+                                    <h1>GBP/USD Forecast – The British Pound Does Little on Monday</h1>
+                                    <p>The British pound initially pulled back during the trading session on Monday, but then turned around to show signs of life again. By doing so, it looks as if the market</p>
                                 </a>
-                            <a href="/post-forex/558" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-775.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 29, 2023 - 5:45 PM</p>
-                                    <h1>GBP/USD Forecast – British Pound Continues to Pull Back</h1>
-                                    <p>The British pound has initially tried to rally during the trading session on Thursday, but then gave back gains rather quickly as it looks like we continue to see a lot of</p>
+                            <a href="/post-forex/563" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-813.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  July 3, 2023 - 5:56 PM</p>
+                                    <h1>GBP/JPY Forecast – British Pound Threatening a Breakout</h1>
+                                    <p>The British pound has shown itself to be rather bullish to kick off the trading week on Monday, as we are trying to do everything we can to break out to the upside.</p>
                                 </a>
                             </div>
                             <Button href="/post-forex" className="red__mor">View All</Button>
@@ -134,23 +134,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Commodities</h1>
                             <div className="art_grf row">
-                            <a href="/post-commodities/558" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-793.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> July 2, 2023 - 5:00 AM</p>
-                                    <h1>China Is Buying Natural Gas Like There’s Still an Energy Crisis</h1>
-                                    <p>(Bloomberg) -- China is on a natural gas shopping spree, and officials are happy for importers to keep striking deals even after a global energy crisis has eased.</p>
+                            <a href="/post-commodities/561" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-807.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 4, 2023 - 4:38 AM</p>
+                                    <h1>Oil rises as market weighs supply cuts against gloomy economic outlook</h1>
+                                    <p>LONDON (Reuters) -Oil prices rose on Tuesday as markets weighed supply cuts for August by top exporters Saudi Arabia and Russia against the backdrop of an uncertain global economic outlook.</p>
                                 </a>
-                            <a href="/post-commodities/557" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-767.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> June 30, 2023 - 4:28 AM</p>
-                                    <h1>Oil settles higher but posts fourth straight quarterly decline</h1>
-                                    <p>(Reuters) -Oil prices settled higher on Friday but posted their fourth straight quarterly loss as investors worried that sluggish global economic activity could crimp fuel demand.</p>
+                            <a href="/post-commodities/560" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-808.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 4, 2023 - 1:58 AM</p>
+                                    <h1>Russia and Saudi Arabia vow to keep cutting oil production this summer</h1>
+                                    <p>Russia and Saudi Arabia have vowed to extend their oil production cuts through the summer, leading crude prices to inch higher as energy markets braced for tighter supply.</p>
                                 </a>
-                                <a href="/post-commodities/556" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-765.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  June 29, 2023 - 5:06 PM</p>
-                                    <h1>How to Trade Gold in Times of Market Volatility</h1>
-                                    <p>Traditionally regarded as a safe haven asset, gold often sees a surge in demand during periods of economic uncertainty. This is because the yellow metal’s value is no</p>
+                                <a href="/post-commodities/559" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-810.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  July 3, 2023 - 8:12 AM</p>
+                                    <h1>China’s Importing So Much Coal That Local Miners Are Suffering</h1>
+                                    <p>(Bloomberg) -- China’s coal buyers should slow purchases from abroad to avoid hurting domestic suppliers, the China Coal Transport and Distribution Association has recommended.</p>
                                 </a>
                             </div>
                             <Button href="/post-commodities" className="red__mor">View All</Button>
