@@ -1,5 +1,152 @@
 const data = [
   {
+    id: 562,
+    title: 'Gold firms as traders hunker down for Fed cues',
+    category: 'Commodities',
+    subCategory: ['gold', 'trader', 'Fed'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold firmed on Tuesday as some traders bet that recent weak U.S. economic data may prompt the Federal Reserve to rethink its rate hike trajectory,</p>
+    </div>,
+    authorName: 'Arundhati Sarkar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 4, 2023 - 7:12 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-809.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Arundhati Sarkar</p>
+    	<p>(Reuters) - Gold firmed on Tuesday as some traders bet that recent weak U.S. economic data may prompt the Federal Reserve to rethink its rate hike trajectory, while also positioning for further cues from the minutes of the central bank's last meeting.</p>
+      <p>Spot gold rose 0.4% to $1,929.54 per ounce by 0954 GMT, with trading volume likely thinned by a U.S. holiday.</p>
+    	<p>U.S. gold futures gained 0.4% to $1,937.20.</p>	
+    	<p>"Weaker than expected U.S. economic data released on Monday, including PMIs, have supported gold. Market participants will closely track upcoming U.S. job market data, watching if previous U.S. interest rate hikes will slow down the U.S. economy," UBS analyst Giovanni Staunovo said.</p>
+      <p>But the minutes of the Fed's June meeting on Wednesday could "sound hawkish in line with the recent testimony of Jerome Powell," Staunovo added.</p>
+      <p>Investors see a nearly 90% chance of a 25-basis-point hike in July, according to CME's Fedwatch tool. High rates discourage investment in zero-yield gold.</p>
+      <p>Focus this week will also be on non-farm payrolls data, after U.S. manufacturing slumped in June.</p>
+      <p>"Right now, headwinds for gold are expectations of a further 50 bps tightening, more liquidity withdrawal and rates remaining relatively elevated for some time," said Nicholas Frappell, global head of institutional markets, ABC Refinery.</p>
+      <p>Also on the radar were fresh developments in the U.S.-China trade war, with Beijing restricting exports of some metals used in semiconductors, electric vehicles and high-tech industries.</p>
+      <p>Previous flare-ups also benefited the U.S. dollar, reducing demand for gold. [USD/]</p>
+      <p>Spot silver rose 0.6% to $23.0094 per ounce, and palladium jumped 1.5% to $1,247.14. Platinum climbed 1.5% to $919.79, set for a third consecutive session of rise if gains hold.</p>
+      <p>"The white metals remain linked to the performance of gold. That said, economic growth concerns have a bigger impact as those metals (which) have a higher industrial usage than gold," Staunovo said.</p>
+      <p>(Reporting by Arundhati Sarkar and Seher Dareen in Bengaluru; Editing by Alexander Smith and Louise Heavens)</p>
+    </div>
+  },
+  {
+    id: 561,
+    title: 'Oil rises as market weighs supply cuts against gloomy economic outlook',
+    category: 'Commodities',
+    subCategory: ['oil', 'market', 'rise'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices rose on Tuesday as markets weighed supply cuts for August by top exporters Saudi Arabia and Russia against the backdrop of an uncertain global economic outlook.</p>
+    </div>,
+    authorName: 'Natalie Grover',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 4, 2023 - 4:38 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-807.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Natalie Grover</p>
+    	<p>LONDON (Reuters) -Oil prices rose on Tuesday as markets weighed supply cuts for August by top exporters Saudi Arabia and Russia against the backdrop of an uncertain global economic outlook.</p>	
+    	<p>Brent crude futures climbed 32 cents, or 0.42%, to $75.73 a barrel by 0805 GMT. U.S. West Texas Intermediate crude was at $70.96 a barrel, up 32 cents, or 0.45%.</p>	
+    	<p>On Monday, Saudi Arabia said it would extend its voluntary output cut of 1 million barrels per day (bpd) to August, while Russia and Algeria volunteered to lower their output and export levels for August by 500,000 bpd and 20,000 bpd respectively.</p>
+      <p>If fully implemented, that will lead to a combined reduction of 5.36 million bpd versus August 2022 levels - possibly even more as several member countries are unable to fulfil their quotas, said PVM analyst Tamas Varga.</p>
+      <p>However, oil benchmarks settled down about 1% in the previous session, after an initial rally, on the back of a gloomy macroeconomic outlook.</p>
+      <p>Business surveys have shown a slump in global factory activity because of sluggish demand in China and Europe and U.S. manufacturing also fell further in June - reaching levels last seen in the initial wave of the COVID-19 pandemic.</p>
+      <p>This broader uncertainty will likely overshadow the OPEC+ effort to tighten supply, some analysts said.</p>
+      <p>Combined with expectations of higher U.S. interest rates and fears that the U.S. will join the EU in recession, this will continue to weigh on markets, Eurasia Group analysts said.</p>
+      <p>Despite the best efforts of Saudi Arabia and Russia, said Naeem Aslam, chief investment officer at Zaye Capital Markets, "the days may be over for oil prices to jump back above the 90 price mark, and the prices are more likely to consolidate between the 65 and 70 price ranges."</p>
+      <p>U.S. markets will be closed on Tuesday for the Independence Day holiday.</p>
+      <p>(Reporting by Natalie Grover in London; Additional Reporting by Arathy Somasekhar in Houston and Trixie Yap in Singapore; Editing by Tom Hogue, Gerry Doyle and Alexander Smith)</p>
+    </div>
+  },
+  {
+    id: 560,
+    title: 'Russia and Saudi Arabia vow to keep cutting oil production this summer',
+    category: 'Commodities',
+    subCategory: ['Russia', 'Saudia', 'Oil'],
+    description: <div className="blog-desc">
+      <p>Russia and Saudi Arabia have vowed to extend their oil production cuts through the summer, leading crude prices to inch higher as energy markets braced for tighter supply.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 4, 2023 - 1:58 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-808.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Russia and Saudi Arabia vowed to keep slashing oil production through the summer.</li>
+        <li>Russia will cut production 500,000 barrels a day starting August. Saudi Arabia will extend its cut of 1.4 million barrels.</li>
+        <li>Both nations doubled-down on their resolve to boost crude prices in a meeting last month.</li>
+      </ul>
+    	<p>Russia and Saudi Arabia have vowed to extend their oil production cuts through the summer, leading crude prices to inch higher as energy markets braced for tighter supply.</p>
+    	<p>Russia will voluntarily slash its oil production by half a million barrels a day starting in August, deputy prime minister Alexander Novak said on Monday.</p>	
+    	<p>Meanwhile, Saudi Arabia, which already slashed production by a million barrels a day in July, has said it would extend its production cut through August, according to a statement from the nation's press agency.</p>	
+    	<p>Oil prices inched higher on Monday as markets assessed the supply outlook. Brent crude, the international benchmark, rose 1% to trade at $76.03 a barrel.</p>
+      <p>Saudi Arabia has worked to push crude prices higher for months, with the nation's energy chief citing market "distortions" that have sent prices to artificially low levels. OPEC+, the oil cartel which Saudi Arabia is the de facto leader of, slashed its crude production aggressively through last year, before Saudi Arabia began its own voluntary production cuts this summer to further tighten supply and raise prices.</p>
+      <p>The country has also aired its displeasure with Russia, which has worked to keep its energy revenue afloat under Western sanctions by selling vast amounts of cheap crude to mostly Asian customers.</p>
+      <p>In May, Saudi officials accused Russia of not following through with promised OPEC+ production cuts, the Wall Street Journal reported. That caused oil prices to fall under $81 a barrel, a key break-even level that's needed to fund large swaths of Saudi Arabia's economy.</p>
+      <p>But both nations recently doubled-down on their resolve to boost oil prices together, with Novak stating in a June meeting that Russia would adhere to the 1.4 million barrel-a-day cut imposed on OPEC+ members in April. Russia will carry those production cuts through the end of 2024, Novak added</p>
+    </div>
+  },
+  {
+    id: 559,
+    title: 'China’s Importing So Much Coal That Local Miners Are Suffering',
+    category: 'Commodities',
+    subCategory: ['China', 'Import', 'Coal'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- China’s coal buyers should slow purchases from abroad to avoid hurting domestic suppliers, the China Coal Transport and Distribution Association has recommended.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 8:12 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-810.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- China’s coal buyers should slow purchases from abroad to avoid hurting domestic suppliers, the China Coal Transport and Distribution Association has recommended.</p>
+    	<p>Asia’s largest economy imported 182 million tons of the fuel in the first five months of the year, almost 90% more than the same period in 2022, customs data show. The purchases were driven by the prospect of a hotter-than-usual summer, Beijing’s determination to minimize blackouts, and a drop in seaborne coal prices.</p>	
+    	<p>Profits at local coal miners, meanwhile, fell by almost a fifth in the first five months from a year earlier, data from the National Bureau of Statistics show. That could worsen in coming months, given that Chinese prices peaked in early September last year amid global energy shortages following Russia’s invasion of Ukraine.</p>	
+    	<p>The CCTD is concerned about the growing impact on domestic coal miners, suggesting in a statement on the weekend that companies “control the scale and pace” of imports after an industry summit last week. Power plants, sitting on high inventories, have turned down some term volumes from local miners, suggesting that overall supply may remain ample in the second half, the association said.</p>
+      <p>The price of coal at Newcastle in Australia, the benchmark for seaborne supplies, is now about a third of what it was in early September. While prices of Chinese coal have also fallen, the premium buyers must pay for seaborne fuel dropped to around $13.50 a ton a month ago, making the imports more attractive. It can take up to a month for coal to be shipped to China, depending on where it’s coming from.</p>
+      <p>The jump in imports has also been driven by geopolitical factors. China is taking more of the fuel from Russia, and also from Australia after an informal ban on buying was lifted earlier in the year following an easing of diplomatic tensions.</p>
+      <p>And, while sweltering temperatures will boost demand from electricity generators, that may be partially offset by less industrial consumption as the post-virus recovery continues to disappoint. Heavy rain in southern China is also boosting hydropower output.</p>
+      <p>The Week’s Diary</p>
+      <h3>Monday, July 3</h3>
+      <ul>
+        <li>Caixin’s China factory PMI for June, 9:45am</li>
+      </ul>
+      <h3>Tuesday, July 4</h3>
+      <ul>
+        <li>Nothing major scheduled</li>
+      </ul>
+      <h3>Wednesday, July 5</h3>
+      <ul>
+        <li>CCTD’s weekly online briefing on Chinese coal, 3pm</li>
+        <li>Caixin China PMI Composite, 9:45am</li>
+        <li>Caixin China PMI Services, 9:45am</li>
+      </ul>
+      <h3>Thursday, July 6</h3>
+      <ul>
+        <li>Nothing major scheduled</li>
+      </ul>
+      <h3>Friday, July 7</h3>
+      <ul>
+        <li>China foreign reserves for June, incl. gold</li>
+        <li>China weekly iron ore port stockpiles</li>
+        <li>Shanghai exchange weekly commodities inventory, ~3:30pm</li>
+      </ul>
+      <h3>On the Wire</h3>
+      <p>China’s manufacturing activity expanded at a slower pace in June as companies turned more cautious about their output outlook, according to a private survey.</p>
+      <p>Chinese President Xi Jinping’s elevation of a long-serving technocrat as the central bank’s top Communist Party official signals policy makers will avoid any drastic shifts for now as the world’s second-biggest economy struggles to regain momentum.</p>
+      <p>China is on a natural gas shopping spree, and officials are happy for importers to keep striking deals even after a global energy crisis has eased.</p>
+    </div>
+  },
+  {
     id: 558,
     title: 'China Is Buying Natural Gas Like There’s Still an Energy Crisis',
     category: 'Commodities',

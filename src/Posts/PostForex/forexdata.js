@@ -1,5 +1,130 @@
 const data = [
   {
+    id: 565,
+    title: 'USD/JPY Forecast – US Dollar Consolidates Against the Japanese Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has initially tried to rally during the session on Monday, but it looks as if we are struggling just a bit to continue going higher. That does make a certain amount of sense,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 6:09 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-815.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar has initially tried to rally during the session on Monday, but it looks as if we are struggling just a bit to continue going higher. That does make a certain amount of sense, due to the fact that we are overstretched, and it could pull back toward the ¥142.50 level.</p>
+	    <p>This is an area that has a lot of market memory attached to it, so I think at this point it’s likely that we will continue to see that area attract a lot of inflow. Furthermore, we recently had a bullish flag kickoff, and therefore it makes quite a bit of sense since we continue to see upward pressure.</p>	
+    	<p>The 50-Day EMA sits at the top of the flag, and is rising quite rapidly. The ascending triangle before there was also a strong sign of bullish pressure, with the ¥138 level being massive support. Both of them have a “measured move” toward the ¥148 level, and I do think that it makes quite a bit of sense that we eventually get there.</p>	
+    	<p>After all, the interest rate differential between the United States and Japan remains very wide, and that will continue to attract a lot of attention. With that being the case, I think you need to look at this from a prism of trying to find support and value occasionally, as we have gotten a little overdone, therefore we need to see a bit of value offered in order to put money to work. If you are patient enough, then you can find nice entries occasionally.</p>
+      <p>As far as selling is concerned, it doesn’t look like you can do so anytime soon, and therefore I think you get a situation where it’s very unlikely that the trend changes unless of course the Bank of Japan changes its overall tone, something that I don’t see happening easily.</p>
+      <p>With this, I think the market eventually continues to go higher, but keep in mind that Tuesday is July 4, meaning that it is Independence Day in the United States. This means that there will be a serious lack of liquidity during the day in North America, so I’m not expecting a big move in the short term.</p>
+    </div>
+  },
+  {
+    id: 564,
+    title: 'GBP/USD Forecast – The British Pound Does Little on Monday',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially pulled back during the trading session on Monday, but then turned around to show signs of life again. By doing so, it looks as if the market</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 6:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-814.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound initially pulled back during the trading session on Monday, but then turned around to show signs of life again. By doing so, it looks as if the market is doing everything it can to continue going higher, which would be a simple continuation of everything that we had seen up to this point.</p>
+    	<p>After initially pulling back, the market then broke above the top of an inverted hammer late last week, which is one of my favorite long signals.</p>	
+    	<p>The 50-Day EMA sits just below, and it should offer a certain amount of support for this market. Given enough time, I fully believe that this is a market that will do everything it can to continue going higher, as the US dollar is taking it on the chin in various pairs during the day.</p>	
+    	<p>That being said, keep in mind that the Tuesday session is Independence Day in the United States, so there will be a certain lack of liquidity that you have to deal with. Nonetheless, this is a market that I think you will eventually continue to see upward pressure, and therefore by the end of the week I anticipate that the market will be higher than it is right now.</p>
+      <p>Underneath, we have the 50-Day EMA coming into the picture also, and therefore I think we’ve got a situation where that could offer a bit of dynamic support. After all, it is a widely followed technical analysis indicator, and I think a lot of people will be looking to find “cheap British pounds” if they get the opportunity.</p>
+      <p>Whether or not they get that opportunity remains to be seen, but I certainly think that given enough time they will. With this, I’m looking at more of a “buy on the dips” strategy, as we move forward.</p>
+      <p>The market is one that I have no interest in shorting, because it has been one of the better performers even in times when the US dollar picks up a bit of strength. With that, I’m waiting for an opportunity and will be pulling the trigger on each dip to add to a bigger position.</p>
+    </div>
+  },
+  {
+    id: 563,
+    title: 'GBP/JPY Forecast – British Pound Threatening a Breakout',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has shown itself to be rather bullish to kick off the trading week on Monday, as we are trying to do everything we can to break out to the upside.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 5:56 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-813.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs Japanese Yen Technical Analysis</h3>
+    	<p>The British pound has shown itself to be rather bullish to kick off the trading week on Monday, as we are trying to do everything we can to break out to the upside.</p>
+    	<p>Keep in mind that the Bank of Japan continues its loose monetary policy, and that will be a major driver of where this pair goes in the future. With that being the case, I like the idea of buying dips going forward, offering a bit of value that you can take advantage of.</p>	
+    	<p>All things being equal, I think this market breaks toward the ¥185 level given enough time by the interest rate differential between the United Kingdom and Japan, which is extraordinarily wide. Underneath, I think there is a significant amount of support near the ¥180 level, which is a large, round, psychologically significant figure and an area where we’ve previously seen a little bit of support.</p>	
+    	<p>If we were to break down below there, then the market could go down to the ¥175 level, which is where the 50-Day EMA currently resides. All things being equal, the market will continue to see a lot of noisy behavior, and we are a little bit stretched at this point, so I think a little pullback does make sense. On the other hand, if we were to simply shoot through the ¥185 level, then the market could go much higher. Kicking off the next “leg higher.”</p>
+      <p>That being said, I think the market is stretched and sets up a bit of a pullback that we can take advantage of “cheap British pounds.” The 200-Day EMA is all the way down at the ¥168 level, so the fact that we are this far ahead of the 200-Day EMA does suggest that we are overdone.</p>
+      <p>Regardless, it also tells me that it’s not a market that you need to be shorting under any circumstances. Be patient, and wait for some type of opportunity to get long again. Chasing this trade is not going to be the way forward, and therefore I think you need to understand just how to wait for an optimal entry.</p>
+    </div>
+  },
+  {
+    id: 562,
+    title: 'EUR/USD Forecast – Euro Continues to Find Buyers on Dips',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro has initially pulled back just a bit during the trading session on Monday, testing the 50-Day EMA again. The 50-Day EMA is an area that I think you see a lot of noise at</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 5:49 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-812.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The euro has initially pulled back just a bit during the trading session on Monday, testing the 50-Day EMA again. The 50-Day EMA is an area that I think you see a lot of noise at, and therefore I think we will continue to see buyers jump into the market in this general vicinity, as it offers a little bit of value.</p>
+    	<p>With that being the case, it’s probably only a matter of time before we continue to try to reach toward the 1.11 level, which is a psychologically important figure, and an area that recently had been a bit of trouble. With that, given enough time I think you probably continue to have plenty of interest in this market, but I don’t like the idea of chasing it every time it drops.</p>	
+    	<p>In general, we could find ourselves very choppy, and confused. That’s been the overall attitude of markets for a while, and I just don’t see how that changes with the ECB and the Federal Reserve essentially being on the same path.</p>	
+	    <p>The 1.10 level has a certain amount of psychology attached to it, so I think that there might be a big fight just waiting to happen in the general vicinity, but we will have to wait and see. I have no interest in selling this pair until we break down below the 200-Day EMA, although I do think that the US dollar will probably start to strengthen again, it just might not be against the euro itself.</p>
+      <p>With that being the case, I like the idea of buying dips, but on short-term charts only. Whether or not we can truly break out remains to be seen, but I certainly think that in the short term we have the high probability of the market going nowhere and essentially treading water.</p>
+      <p>This will be especially true on Tuesday, as it is Independence Day in the United States, and we don’t have a lot going on. With the lack of liquidity and lack of economic news, I anticipate that we continue to see this market stay in this overall range for the time being. If you are short-term trader with a range bound system, this might be the market for you.</p>
+    </div>
+  },
+  {
+    id: 561,
+    title: 'AUD/USD Forecast – Aussie Quiet to Kick Off the Week',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has been very quiet on Monday, as we continue to see a lot of noisy behavior. The 50-Day EMA sits just above, showing signs of resistance.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 5:44 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-811.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has been very quiet on Monday, as we continue to see a lot of noisy behavior. The 50-Day EMA sits just above, showing signs of resistance. Ultimately, this is a market that I think given enough time will probably have to squeeze out of this little range we are in, but currently it looks as if the 0.66 level underneath could be a major support level.</p>
+	    <p>If we were to break down below the 0.66 level, then it opens up the possibility of a move down to the 0.64 level. That would be the so-called “measured move” from the previous consolidation range.</p>	
+	    <p>If we were to turn around and break above the 50-Day EMA, then we could go look into the 200-Day EMA after that. Above there, then we have the 0.68 level, which was the top of the previous consolidation area before. That being said, this is a market that is going to continue to be very noisy, especially as we have a lot of questions as to what the global economy is going to be doing in the future.</p>	
+	    <p>All things being equal, this is a market that continues to be very noisy, and therefore I think you have to assume that the Australian dollar will continue to be noisy as well. I need to see some type of impulsive candlestick in order to put money to work, so it can give us an idea as to where we are going to go for a bigger move. In the meantime, I think you need to be very cautious with your position sizing and recognize that we probably get a lot of back and forth more than anything else.</p>
+      <p>Keep in mind that Tuesday is Independence Day in the United States, so that will also keep the market somewhat choppy and noisy as well, so with that being the case, I think you have to look at this through the prism of a lot of hesitation and uncertainty, but given enough time, I do think that we will have to make that bigger decision. A little bit of patience probably goes a long way, to keep that in mind.</p>
+    </div>
+  },
+  {
     id: 560,
     title: 'US dollar share of global reserves edges up in Q1, euros share dips - IMF',
     category: 'Forex',
