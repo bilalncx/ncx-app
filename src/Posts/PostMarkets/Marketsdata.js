@@ -1,5 +1,216 @@
 const data = [
   {
+    id: 575,
+    title: 'Stocks drift as investors balance peak rate hopes with oil price rise',
+    category: 'Markets',
+    subCategory: ['Investors', 'Oil', 'Prices'],
+    description: <div className="blog-desc">
+      <p>LONDON/HONG KONG (Reuters) - Global stocks held steady on Tuesday, as investors balanced the inflationary force of rising oil prices with hopes that central banks</p>
+    </div>,
+    authorName: 'Naomi Rovnick and Xie Yu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 4, 2023 - 6:51 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-806.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Naomi Rovnick and Xie Yu</p>
+    	<p>LONDON/HONG KONG (Reuters) - Global stocks held steady on Tuesday, as investors balanced the inflationary force of rising oil prices with hopes that central banks would not over-tighten monetary policy into a potential recession.</p>	
+    	<p>MSCI's broadest index of world stocks, which rose almost 6% last month as the U.S. Federal Reserve paused its cycle of aggressive rate hikes, was flat in light trading, with Wall Street closed for the July 4 holiday.</p>	
+    	<p>Europe's Stoxx 600 share index was flat in early dealings.</p>
+      <p>Earlier in the session, Australia's central bank held interest rates steady at 4.1%, saying it needed time to assess the economic impact of its rate hikes so far.</p>
+      <p>Complicating the outlook for inflation, oil prices rose on Tuesday as markets weighed supply cuts for August by top producers Saudi Arabia and Russia.</p>
+      <p>Brent crude futures climbed 0.6% to $75.09 a barrel, with West Texas Intermediate crude adding the same amount to $70.23.</p>
+      <p>This followed data on Monday from the Institute of Supply Management that showed U.S. manufacturing activity slumped in June to levels last seen during the initial wave of the COVID-19 pandemic in May 2020. Purchasing managers surveys showed a similar factory downturn in the euro zone.</p>
+      <p>"At least the improved supply-demand imbalance seems to be having an effect on price pressures," Capital Economics global economist Ariane Curtis said.</p>
+      <p>Curtis cautioned that despite evidence that goods inflation was easing off, central bankers might keep policy tight to battle service-sector inflation, "which has proven stickier".</p>
+      <p>MIXED BAG OF DATA</p>
+      <p>Investors are now watching out for a mixed bag of economic data ahead of second-quarter earnings for more trading cues, while uncertainty remains over the outlook for Fed monetary policy, said Manishi Raychaudhuri, head of Asia Pacific equity research at BNP Paribas.</p>
+      <p>The minutes from the central bank's last meeting are due later this week and could provide additional clues on policy direction, but also inject some volatility, he said.</p>
+      <p>"If the Fed overtightens and decides to do more rate hikes than twice, as the market widely expected, then there's a concern that the recession may turn out to be deeper than what is being factored in," Raychaudhuri said.</p>
+      <p>Geopolitical tensions also persist, he noted, with China's export controls on minerals adding more uncertainty around global trade relations.</p>
+      <p>In the currency market, the dollar index, which tracks the greenback against six major peers, was flat. The euro dipped 0.3% lower against the dollar to $1.09115.</p>
+      <p>Euro zone government debt was steady, with Germany's two-year Schatz yield, which tracks interest rate expectations, drifting around the 3.32% level, around its highest since early March, right before a U.S. regional banking crisis drove a flight into safe havens. Bond yields rise as prices fall.</p>
+      <p>The Treasury market was shut on Tuesday for Independence Day. On Monday, a widely watched section of the U.S. Treasury yield curve hit its deepest inversion since the high inflation era of Fed Chairman Paul Volcker in the early 1980s, reflecting financial markets' concerns that an extended hiking cycle will tip the U.S. into recession.</p>
+      <p>Gold was slightly higher, with spot gold traded at $1926.45 per ounce.</p>
+      <p>(additional reporting by Ankur Banerjee in Singapore, Editing by Sam Holmes, Himani Sarkar and Alex Richardson)</p>
+    </div>
+  },
+  {
+    id: 574,
+    title: 'S&P 500: Tesla Stock Leads Top Performers Monday',
+    category: 'Markets',
+    subCategory: ['S&P', 'Tesla', 'Stock'],
+    description: <div className="blog-desc">
+      <p>Tesla (TSLA), Fidelity National Information Services (FIS) and  Zions Bancorp (ZION) were the top three S&P 500 index gainers on the stock market today.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 10:50 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-801.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Tesla (TSLA), Fidelity National Information Services (FIS) and  Zions Bancorp (ZION) were the top three S&P 500 index gainers on the stock market today.</p>
+    	<p>The S&P 500 edged up 0.1% in a half-day market session ahead of the Fourth of July holiday.</p>	
+    	<p>TSLA stock leapt 6.9% to 279.82, clearing a brief pause to hit a nine-month high. Tesla deliveries jumped to 466,140 in the second quarter, sprinting past Q1's record 422,875 and Q4's 405,278. That easily beat Q2 estimates of around 445,000, according to FactSet. Tesla stock is on IBD Leaderboard.</p>	
+    	<p>Tesla headlined a strong day for EV stocks.</p>
+      <p>FIS stock jumped 6% to 58, vaulting above its 50-day line. Fidelity National, a payment and processing giant, is still well below a long-sliding 200-day line. Shares rallied on a Financial Times report that two private-equity groups have emerged as potential buyers for its payments provider business, Worldpay Group.</p>
+      <p>ZION stock jumped 4.6% to 28.09, back above the 50-day line but well below the 200-day. Many regional banks were strong performers Monday.</p>
+    </div>
+  },
+  {
+    id: 573,
+    title: 'JPMorgan Macro Fund Sticks to ‘Painful’ Bet Against Stock Rally',
+    category: 'Markets',
+    subCategory: ['JP', 'Morgan', 'Macro'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The narrative propelling the global stock rally since mid-March goes like this: The US economy will hold up fine in the face of higher interest rates,</p>
+    </div>,
+    authorName: 'Julien Ponthus',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 6:24 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-802.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The narrative propelling the global stock rally since mid-March goes like this: The US economy will hold up fine in the face of higher interest rates, and China’s stimulus efforts will help keep that nation’s post-pandemic recovery chugging along.</p>
+    	<p>Shrenick Shah, co-manager of the €3.5 billion ($3.9 billion) JPMorgan Global Macro Opportunities Fund, isn’t buying it. Weakness in manufacturing, tightening liquidity and tougher credit conditions all point to a contracting US economy, and optimism about China is unwarranted, he said in an interview last week.</p>	
+    	<p>Over the past six weeks, the fund has put on bets that US and European stocks will fall, including a derivatives position that pays off if technology stocks decline. It’s also loaded up on government bonds, he said. For now, his pessimism is costly.</p>	
+    	<p>“We think the US is in a contraction,” Shah said. “We see a clear weak industrial or manufacturing cycle that is also clear across the rest of the world. Those views led us towards being short riskier assets and long sovereign bonds.”</p>
+      <p>Shah’s take reflects the view among some investors that stocks and the economy can’t possibly hold up in the face of the campaign by central banks to rein in inflation by raising interest rates. One major red flag: Yields on short-term US government debt are well above those on longer-dated bonds, a so-called inverted yield curve that has a long record of correctly predicting recessions.</p>
+      <p>Yet the market has defied the skeptics. The MSCI World Index has returned 14% this year, while the frenzy surrounding artificial intelligence has pushed the Nasdaq 100 Index up by 39%.</p>
+      <p>JPMorgan Global Macro Opportunities has lost 7.3% over the past month, while an index that tracks short-term cash has returned 0.3%.</p>
+      <p>“It’s a bit painful to sit in that right now,” said Nicola Rawlinson, lead investment specialist for macro strategies at JPMorgan Asset Management, but the team is convinced that the reality of the economic picture will eventually kick in.</p>
+      <p>The fund has wide latitude to invest in stocks, bonds and derivatives based on its analysis of global economic trends, with a goal of beating the return that an investor can achieve by holding cash. It’s returned 3.6% annually over the past decade through May 31, outpacing the annualized 0.2% drop in its benchmark.</p>
+      <p>Shah says clients are comfortable with the fund’s positioning, and his team is looking at the situation with an open mind.</p>
+      <p>“If the fundamentals shift then, then we’ll shift our views clearly,” Shah said, adding that he will keep a close eye on liquidity and second-quarter results, particularly in tech, industrials and banking.</p>
+      <p>--With assistance from Jan-Patrick Barnert.</p>
+    </div>
+  },
+  {
+    id: 572,
+    title: 'UBS goes on hiring spree for wealth managers catering to rich Americans',
+    category: 'Markets',
+    subCategory: ['UBS', 'Wealth', 'Americans'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) -UBS has gone on a U.S. recruiting drive for wealth managers catering to rich Americans even as it considers culling 30% of its combined global workforce after the takeover of Credit Suisse.</p>
+    </div>,
+    authorName: 'Tatiana Bautzer',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 2:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-805.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Tatiana Bautzer</p>
+    	<p>NEW YORK (Reuters) -UBS has gone on a U.S. recruiting drive for wealth managers catering to rich Americans even as it considers culling 30% of its combined global workforce after the takeover of Credit Suisse.</p>	
+    	<p>UBS recruited 50 financial advisers, including from Bank of America's Merrill Lynch unit, JPMorgan Chase's recently acquired First Republic Bank, Citigroup and Wells Fargo, in the first half of the year. Of those, 30 came after the Credit Suisse deal was announced in March. The largest was BG Group, a 13-person team that managed $2.5 billion at Merrill.</p>
+      <p>With the Credit Suisse deal, UBS became the world's second-largest wealth manager. While it has a leading position in Europe and Asia, it is only the fourth-biggest wealth manager in the U.S., where the business of managing the finances of the ultra-rich is dominated by American banks.</p>
+      <p>"The U.S. is the largest wealth market globally, and in recent years there has been unprecedented growth," Iqbal Khan, UBS' president of global wealth management, told Reuters. "Investing in and building our business here is a top priority," said Khan, who serves on the bank's executive board.</p>
+    	<p>Underscoring the importance of the business, Khan met with high-net-worth clients in southern California on June 12, the day UBS closed its historic deal with Credit Suisse. He also led an internal event with its best-performing financial advisers.</p>
+      <p>In the U.S., the acquisition did not change UBS' wealth business because Credit Suisse had exited U.S. private banking in 2015 and transferred about 275 financial advisers to Wells Fargo.</p>
+      <p>UBS' ranks of private wealth advisers in the U.S. catering to ultra-high-net-worth clients have swelled by more than 25% in the last three years. The bank had 6,147 advisers in the Americas region in late March, but it declined to specify how many of those were based in the U.S.</p>
+      <p>Global banks are investing more in wealth businesses that bring in stable fees, providing a counterweight to volatile operations like investment banking and trading. Most are focusing on ultra-high-net-worth clients, the fastest-growing group.</p>
+      <p>That cohort of people with more than $30 million in investable assets is expected to grow 10% over the next five years as they amass more wealth, said John Mathews, UBS head of private wealth management in the Americas.</p>
+      <p>"We've been focused on attracting and retaining advisers who are skilled in serving this population," he said.</p>
+      <p>The number of millionaires worldwide with net worths above $50 million grew more than 50% between 2019 and 2021, reaching 264,200, according to a Credit Suisse report published last year. More than half of them live in the U.S.</p>
+      <p>Wealth is central to UBS' bottom line. The bank is expected to earn 63% of its profits from wealth management within four years, according to Morningstar analyst Johann Scholtz. UBS shares have gained 6.5% this year and 17.5% over the past 12 months.</p>
+      <p>To strengthen its U.S. position, UBS is focused on the transfer of wealth between baby boomers to their heirs in the coming years. The bank is diversifying its adviser workforce, in terms of age and race, and organizing events for multiple generations of wealthy families.</p>
+      <p>About $18 trillion will be passed to younger generations in the U.S. over the next seven years, and as much as $84 trillion over the next two decades, UBS estimates.</p>
+      <p>"Over the next 20 years, we'll see the greatest transfer of wealth in history," said Khan, who joined UBS from Credit Suisse in 2019. "That presents a huge opportunity for us to serve a whole new generation of clients."</p>
+      <p>(Reporting by Tatiana Bautzer in New York, additional reporting by Paritosh Bansal; Editing by Lananh Nguyen)</p>
+    </div>
+  },
+  {
+    id: 571,
+    title: 'Analysis-Bond markets reckon a central bank policy error is on the cards',
+    category: 'Markets',
+    subCategory: ['Bond', 'markets', 'bank'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Bond investors could be in luck for the rest of 2023 if market indicators signalling central banks will take policy tightening too far and tip their economies into recession prove accurate.</p>
+    </div>,
+    authorName: 'Yoruk Bahceli',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 9:16 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-803.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Yoruk Bahceli</p>
+    	<p>(Reuters) - Bond investors could be in luck for the rest of 2023 if market indicators signalling central banks will take policy tightening too far and tip their economies into recession prove accurate.</p>	
+    	<p>Headline inflation has eased but underlying pressures remain high, keeping central banks hawkish. Canada resumed tightening and Britain and Norway made big moves in June, while U.S. Federal Reserve and European Central Bank officials at last week's Sintra forum signalled more rate hikes.</p>	
+    	<p>Markets now anticipate a 25 basis point Fed hike, probably in July, and see a 30% chance of another by November, and have reduced the number of cuts they expect next year.</p>
+      <p>They are pricing in two more ECB hikes to 4%, a change from the single hike to 3.75% they foresaw earlier in June, while the Bank of England is expected to raise its main rate near to 6.25%, much more than the 5.5% previously expected.</p>
+      <p>Along with those bets, yield curve inversion - where shorter-dated bonds offer higher yields than longer-dated ones, seen as a good sign that investors expect a recession - has deepened as yields on shorter maturities surge.</p>
+      <p>U.S. 10-year Treasuries are yielding 104 bps less than two-year peers, the most since March's banking sector mayhem and almost their deepest inversion since the 1980s.</p>
+      <p>Similar patterns can be seen in German and British debt.</p>
+      <p>"What the yield curve is telling you is that this is extremely tight monetary policy," said Mike Riddell, senior fixed income portfolio manager at Allianz Global Investors, which manages 514 billion euros ($558.31 billion) in assets.</p>
+      <p>"We are positioned for a very big bond rally, and we think that risky assets are completely underestimating the risk of a recession or something nasty happening," he added.</p>
+      <p>"I am essentially positioned for this being a policy error."</p>
+      <p>BETTER YEAR</p>
+      <p>A policy overstep that central bankers had to reverse would be good news for investors in global government bonds, who CFTC data shows have piled up bets that U.S. bond prices will fall.</p>
+      <p>That means any turn in sentiment could lead to a big rally, boosting returns that have been less than 2% year-to-date after a 13% loss last year.</p>
+      <p>An early sign that the bond outlook is improving came last week with data showing euro zone business growth stalled in June. In response, German bond yields, which move inversely to prices, posted their second biggest daily drop since March.</p>
+      <p>But highlighting how hard economic data has become to read, higher-than-expected U.S. first quarter growth and German inflation sent yields surging on Thursday.</p>
+      <p>Investors on alert for a policy mistake fear that central bankers are basing their decisions on inflation and other backward-looking data that aren't yet showing the full impact of previous hikes, and overlooking signs of pending disinflation.</p>
+      <p>One indicator in focus is producer price inflation, seen as a harbinger of broader inflation. It dropped to 1% annually in Germany and 2.9% Britain in May, the lowest in over two years, and has dropped similarly in the United States.</p>
+      <p>"We all made a big deal this time last year when (producer price inflation) was on the way up. But it seems like it's being ignored on the way down," said Vanda Research global macro strategist Viraj Patel.</p>
+      <p>Deutsche Bank says the Fed may be "overcompensating" for starting rate hikes too late, pointing to improvements in the labour market, signs of a pending fall in rent inflation and tightening bank lending standards.</p>
+      <p>Such forward-looking figures suggest economic data could turn quite sharply, Vanda's Patel said, adding that across big economies, every hike now raised the chance of a policy error.</p>
+      <p>Major central banks fighting a surge in inflation have collectively raised borrowing costs by over 3,750 bps since September 2021.</p>
+      <p>TRICKY</p>
+      <p>Josefine Urban, portfolio manager at Britain's biggest investor, Legal and General Investment Management, said she favoured bets that British government bonds would outperform U.S. and German peers.</p>
+      <p>The 10-year yield on UK Gilts has surged 75 bps to 4.43% this year, while yields on U.S. and German equivalents hardly moved.</p>
+      <p>"We do think that given (the BoE) are ... mainly focused on lagging data, so they're looking at inflation data, wage data, the labour market, there's quite a big risk that they do over-tighten and that we will then get the recession," Urban said.</p>
+      <p>Forecasts aren't always right: late in 2022, 60% of economists polled by Reuters expected a U.S. recession this year, but none has yet materialised and risk assets that would be hit by one have barely blinked.</p>
+      <p>But even those not betting on a contraction are cautious.</p>
+      <p>"Our base case is not that we're going to get a recession but the risks are definitely growing," said Jill Hirzel, senior investment specialist at Insight Investment.</p>
+      <p>Central bankers' "priorities have been made very clear that if the risk is a recession, they're okay with that to bring inflation down," said Hirzel, adding she favoured investing in defensive sectors and higher-rated corporate bonds.</p>
+      <p>($1 = 0.9206 euros)</p>
+      <p>(Additional reporting by Dhara Ranasinghe and Harry Robertson; Editing by Dhara Ranasinghe and Catherine Evans)</p>
+    </div>
+  },
+  {
+    id: 570,
+    title: 'Marketmind: Tesla delivers surprise, China goes slow',
+    category: 'Markets',
+    subCategory: ['China', 'Market', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - A look at the day ahead in European and global markets from Wayne Cole.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 8:34 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-804.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) - A look at the day ahead in European and global markets from Wayne Cole.</p>
+    	<p>The big question for the day is how will investors greet Tesla's announcement on Sunday that it delivered a record 466,000 vehicles in the second quarter, topping market estimates of around 445,000.</p>
+      <p>The outperformance may have been due to discounting, which is not good for margins, but analysts have still been gushing over the numbers and tipping ever-higher stock prices.</p>
+      <p>Back in the real world, China's Caixin/S&P Global survey of manufacturing showed a slowdown to 50.5 in June, but that was not as bad as the 50.2 feared. Chinese blue chips are a touch firmer, perhaps in the hope a new chief at the central bank will bring stronger stimulus.</p>
+      <p>The People's Bank of China again pushed back on a weaker yuan by fixing the currency well above expectations, but these official fixings are having less and less of an impact in the market and offshore dealers are testing to see if Chinese banks actually sell dollars to support the yuan.</p>
+      <p>News that U.S. Treasury Secretary Janet Yellen will visit China from July 6-9 was taken as another sign the two powers were trying to defrost their relationship, though expectations are far from high.</p>
+      <p>Some of the recent hefty gains in the Nikkei seem due to speculation Japanese industry will benefit from a U.S. decoupling with China, particularly in tech. It was notable last week that Japanese chip shares surged amid reports Washington would restrict sales of AI equipment to China.</p>
+      <p>The European Union is also acting to deepen cooperation with Japan on semiconductors, as countries move to strengthen control over a technology vital for defence, electronics and autos.</p>	
+    	<p>The Bank of Japan's latest Tankan survey of large firms saw an improvement in sentiment to plus 5, from plus 1, which is promising for a country where pessimism had become baked in.</p>	
+    	<p>The service index hit its highest since mid 2019 at plus 23, suggesting upbeat domestic demand perhaps in part thanks to the influx of tourists to the country.</p>
+      <p>Yet firms still expected inflation to cool to 2.6% in a year's time, from 2.8% in the previous survey, supporting the BOJ's reluctance to move away from super-easy stimulus.</p>
+      <p>The U.S. ISM survey of manufacturing due later is expected to have stayed sluggish around 47.0 in June, but more important will be the services survey given May's surprising slowdown. The median forecast is for a rebound to 51.0 and anything weaker will fuel talk of downside risk to payrolls on Friday.</p>
+      <p>Key developments that could influence markets on Monday:</p>
+      <p>- European Central Bank policymaker Joachim Nagel speaks at a financial conference</p>
+      <p>- June U.S. ISM manufacturing survey, PMI and auto sales. Equity and bond markets close early</p>
+      <p>(By Wayne Cole; Editing by Christopher Cushing)</p>
+    </div>
+  },
+  {
     id: 569,
     title: 'Stock Market Rally That Shocked Everyone Is Broadening Beyond Tech',
     category: 'Markets',
