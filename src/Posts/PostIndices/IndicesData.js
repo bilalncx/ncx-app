@@ -1,5 +1,87 @@
 const data = [
   {
+    id: 553,
+    title: 'Nasdaq refiles BlackRocks bitcoin ETF application with SEC',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Bitcoin', 'SEC'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Nasdaq refiled an application with the U.S. securities regulator to list an exchange-traded fund by BlackRock Inc that will reflect the price of bitcoin to add additional details, according to a filing made public on Monday.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 4, 2023 - 12:24 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-800.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Reuters) - Nasdaq refiled an application with the U.S. securities regulator to list an exchange-traded fund by BlackRock Inc that will reflect the price of bitcoin to add additional details, according to a filing made public on Monday.</p>
+	    <p>The refreshed filing, submitted to the U.S. Securities and Exchange Commission (SEC) on Thursday, said that Coinbase Global Inc will provide market surveillance in support of the proposed ETF from the world's largest asset manager.</p>	
+	    <p>The move comes after the regulator reportedly had concerns over the initial filings by Nasdaq as being unclear and incomplete. It had flagged similar concerns to Cboe related to a filing from Fidelity.</p>	
+	    <p>The digital asset space is looking to regain popularity after a bruising 2022 that saw several crypto ventures collapse, including the spectacular implosion of Sam Bankman-Fried's FTX.</p>
+      <p>The SEC last month sued Coinbase for failing to register as an exchange. According to Cboe's Fidelity bitcoin ETF filing, the company's platform represented roughly half of U.S. dollar-bitcoin trading in May.</p>
+      <p>Coinbase said in a letter filed last month in Manhattan federal court that it will ask a judge to toss the SEC lawsuit, arguing the regulator lacks authority to pursue civil claims because the crypto assets trading on its platform are not "investment contracts", and thus not securities.</p>
+      <p>The SEC has rejected dozens of spot bitcoin ETF applications in recent years, including one from Fidelity in January 2022.</p>
+      <p>In all the cases, it said the filings did not meet the standards designed to prevent fraudulent and manipulative practices and protect investors and the public interest.</p>
+      <p>(Reporting by Jaiveer Singh Shekhawat in Bengaluru and John Mcrank in New York; Editing by Shailesh Kuber)</p>
+    </div>
+  },
+  {
+    id: 552,
+    title: 'Dow Jones Falls After Key Economic Data; Tesla Stock Surges On Record Deliveries',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Ecnomic', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average dropped Monday, with the stock market set to close early for the July 4 holiday.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 6:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-799.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average dropped Monday, with the stock market set to close early for the July 4 holiday. Tesla stock raced higher after the electric-vehicle giant led by Elon Musk reported an 83% surge in deliveries during the second quarter.</p>
+    	<p>On the economic front this week, the Labor Department's jobs report on Friday takes the spotlight. Economists are forecasting a gain of around 200,000 jobs and a dip in the jobless rate to 3.6%.</p>	
+    	<p>On Monday, the S&P Global Purchasing Manager's Manufacturing Index, or PMI, came in at 46.3, in line with estimates and unchanged from the mid-month estimate.</p>	
+    	<p>Meanwhile, the Institute for Supply Management manufacturing index for June unexpectedly fell to 46.0. It was expected to rise to 47.3 vs. May's 46.9 reading, per Econoday estimates.</p>
+      <p>The stock market will close early on Monday at 1 p.m. ET. And financial markets will be closed Tuesday for the July 4 holiday. Further, there are few earnings results this week, but Levi Strauss (LEVI) reports late Thursday.</p>
+      <h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) surged more than 8% Monday morning. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were slightly lower after today's stock market open.</p>
+      <p>Other leaders in the stock market rally include Google-parent Alphabet (GOOGL) and Facebook-parent Meta Platforms (META). Alphabet shares dipped 0.5%, while Meta stock lost 0.4% in morning trade.</p>
+      <p>Chipotle Mexican Grill (CMG), Dynatrace (DT), MongoDB (MDB) and Lam Research (LRCX) — as well as Dow Jones stocks JPMorgan Chase (JPM), Visa (V) and Salesforce (CRM) — are among the best stocks to watch in the ongoing stock market advance.</p>
+      <p>Tesla is an IBD Leaderboard stock, Lam Research remains an IBD SwingTrader stock, while MongoDB was featured in last week's Stocks Near A Buy Zone column. Dynatrace was a recent IBD Stock Of The Day.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Monday's opening bell, the Dow Jones Industrial Average fell 0.2%, while the S&P 500 lost 0.1%. The tech-heavy Nasdaq composite moved up 0.15% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded up 0.1%, while the SPDR S&P 500 ETF (SPY) edged lower early Monday.</p>
+      <p>The 10-year U.S. Treasury yield ticked lower to 3.81%. The 10-year yield has been testing the highs of its recent trading range heading into the third quarter. The yield settled lower Friday at 3.81%, just off its recent highs.</p>
+      <p>Oil prices looked to extend a win streak to four sessions Monday morning, climbing off recent lows. West Texas Intermediate futures traded up nearly 1%, to just above $71 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Friday, the tech-heavy Nasdaq composite led the stock market higher, rallying 1.45% and closing just shy of its 2023 highs. The S&P 500 climbed 1.2%, and the Dow Jones Industrial Average rose 0.8%.</p>
+      <p>Friday's Big Picture column commented, "With indexes looking bullish and the market in a confirmed uptrend, IBD is raising recommended exposure levels to 80% to 100%. However, investors should take care when adding exposure, taking stock of current market levels and increasing at a measured pace. It is also key to remain nimble in case there is a pullback."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market approaches this year's highs.</p>
+      <h3>Dow Jones Stocks To Watch: JPMorgan, Salesforce, Visa</h3>
+      <p>Dow Jones banking leader JPMorgan moved further above a 143.37 flat-base buy point during Friday's gains. The 5% buy zone goes up to 150.54. JPM stock rose 0.5% Monday morning.</p>
+      <p>Salesforce managed to steady itself after slumping following earnings. It is now testing support at the 50-day line. The megacap tech previously moved past a pair of alternative entries at 194.01 and at 200.10, according to IBD Leaderboard analysis.</p>
+      <p>In recent weeks, shares reached the 20% profit zone from a 178.94 cup-with-handle entry. CRM stock fell 0.3% Monday morning.</p>
+      <p>Payments leader Visa topped a flat base's 235.57 buy point Friday, with a 1.35% rally. The buy range tops out at 247.35. V stock dipped 0.25% early Monday.</p>
+      <h3>Best Stocks To Buy And Watch: Chipotle, Dynatrace, MongoDB, Lam Research</h3>
+      <p>IBD Leaderboard watchlist stock Chipotle is breaking out past a flat base's 2,139.88 buy point, according to IBD MarketSmith pattern recognition. An early entry at 2,092.51 was also available due to a trendline. Chipotle was a recent IBD Stock Of The Day. CMG stock rose a fraction Monday morning.</p>
+      <p>Software maker Dynatrace has formed a three-weeks-tight chart pattern, representing a brief consolidation in which institutional investors pause their buying. Shares are about 3% away from their latest entry at 52.99. DT stock was down 0.2% Monday morning.</p>
+      <p>IBD SwingTrader stock Lam Research moved above a 615.80 early buy point and a three-weeks-tight pattern with a 630.72 entry during last week's gains. LRCX stock traded 0.2% higher early Monday.</p>
+      <p>MongoDB traded tightly after its recent earnings-fueled jump, which offered a new entry. Shares are above the three-weeks-tight formation that showed a buy point at 398.89, while aggressive investors could have used a trendline entry around 386. MDB stock moved down 1% Monday morning.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla extended a win streak to four sessions Friday, rising 1.7%. Amid the recent rebound, Tesla shares remain sharply out of buy range beyond a double-bottom's 207.79 buy point.</p>
+      <p>TSLA stock looked to add to Friday's gains, surging 8.3% Monday.</p>
+      <p>On Sunday, Tesla said it delivered more than 466,000 vehicles to customers worldwide in the April-to-June period, a record quarter for sales. Price cuts and discounts propelled demand well above Wall Street forecasts.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock hit another record high Friday, trading as high as 194.48. Shares continue to hold sharply above a 157.38 buy point. Early Monday, shares lost 0.1% in morning action.</p>
+      <p>Microsoft shares added 1.6% Friday, ending last week on a high note. On June 16, MSFT stock hit an all-time high at 351.47.</p>
+      <p>In recent weeks, the stock reached the 20% to 25% profit zone from a 276.76 flat-base buy point, so investors could have taken at least some profits there. And on Monday morning, Microsoft shares were down 0.3%.</p>
+    </div>
+  },
+  {
     id: 551,
     title: 'S&P 500 Rallies Back To Highs, But Watch For This; Tesla Deliveries Due',
     category: 'Indices',

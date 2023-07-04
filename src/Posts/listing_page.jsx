@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                                <a href="/post-indices/551" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-790.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> July 2, 2023 - 6:22 AM</p>
-                                    <h1>S&P 500 Rallies Back To Highs, But Watch For This; Tesla Deliveries Due</h1>
-                                    <p>The S&P 500 index hit a 14-month high as the stock market rally roared back this past week. The Dow Jones and Nasdaq composite are back near 2023 highs, as Apple (AAPL) closed Friday with a $3 trillion market</p>
+                                <a href="/post-indices/553" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-800.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 4, 2023 - 12:24 AM</p>
+                                    <h1>Nasdaq refiles BlackRocks bitcoin ETF application with SEC</h1>
+                                    <p>(Reuters) - Nasdaq refiled an application with the U.S. securities regulator to list an exchange-traded fund by BlackRock Inc that will reflect the price of bitcoin to add</p>
                                 </a>
-                                <a href="/post-markets/569" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-788.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  July 1, 2023 - 12:34 AM</p>
-                                    <h1>Stock Market Rally That Shocked Everyone Is Broadening Beyond Tech</h1>
-                                    <p>(Bloomberg) -- The big knock on the 2023 stock rally is that it rests on half-a-dozen companies thriving on hype. That criticism just took a hit.</p>
+                                <a href="/post-markets/574" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-801.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  July 3, 2023 - 10:50 PM</p>
+                                    <h1>S&P 500: Tesla Stock Leads Top Performers Monday</h1>
+                                    <p>Tesla (TSLA), Fidelity National Information Services (FIS) and Zions Bancorp (ZION) were the top three S&P 500 index gainers on the stock market today.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row"> 
-                            <a href="/post-crypto/593" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-794.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> July 1, 2023 - 7:47 AM</p>
-                                    <h1>South Korea approves crypto bill to protect investors, goes into effect in one year</h1>
-                                    <p>South Korea’s National Assembly on Friday approved a bill that focuses on protecting the interests of cryptocurrency investors in the country’s first step to build a legal</p>
+                            <a href="/post-crypto/596" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-796.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 4, 2023 - 5:28 AM</p>
+                                    <h1>Bitcoin breaches US$31,000 on BlackRock’s updated ETF; Ether gains, Polygon leads winners</h1>
+                                    <p>Bitcoin climbed above US$31,000 in Tuesday morning trading in Asia after Blackrock refiled a Bitcoin exchange-traded fund (ETF) application in the U.S. after the regulator</p>
                                 </a>
-                            <a href="/post-crypto/592" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-795.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  July 1, 2023 - 12:30 AM</p>
-                                    <h1>Cryptocurrency Prices And News: Bitcoin Price Holds $30,000 Level For The Week; Cryptos Rise</h1>
-                                    <p>Cryptocurrency News: Cryptocurrency prices rise Friday. Bitcoin price holds $30,000 level this past week on institutional ETF applications.</p>
+                            <a href="/post-crypto/595" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-797.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  July 3, 2023 - 10:01 PM</p>
+                                    <h1>Poly Network Hacker Mints Billions Of Tokens From Thin Air</h1>
+                                    <p>Poly Network, a cross-chain bridging protocol notorious for suffering the second-largest DeFi exploit on record, was hacked again on Sunday.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/568" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-782.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  July 1, 2023 - 12:25 AM</p>
-                                    <h1>GE Stock Rallies 68% Ahead Of Its Huge Aerospace Play. Whats In Store For Investors.</h1>
-                                    <p>General Electric (GE) is fast approaching the end of the runway as an iconic American conglomerate. A more svelte and focused GE is preparing to take off in a new direction — as GE Aerospace,</p>
+                            <a href="/post-markets/575" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-806.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  July 4, 2023 - 6:51 AM</p>
+                                    <h1>Stocks drift as investors balance peak rate hopes with oil price rise</h1>
+                                    <p>LONDON/HONG KONG (Reuters) - Global stocks held steady on Tuesday, as investors balanced the inflationary force of rising oil prices with hopes that central banks would not over-tighten monetary policy into a potential recession.</p>
                                 </a>
-                            <a href="/post-markets/567" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-789.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> July 1, 2023 - 12:18 AM</p>
-                                    <h1>Goldman Sachs may exit partnership with Apple - WSJ</h1>
-                                    <p>(Reuters) -Goldman Sachs is considering exiting its partnership with Apple, the Wall Street Journal reported on Friday, citing sources familiar with the matter.</p>
+                            <a href="/post-markets/573" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-802.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 3, 2023 - 6:24 PM</p>
+                                    <h1>JPMorgan Macro Fund Sticks to ‘Painful’ Bet Against Stock Rally</h1>
+                                    <p>(Bloomberg) -- The narrative propelling the global stock rally since mid-March goes like this: The US economy will hold up fine in the face of higher interest rates,</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
-                            <a href="/post-indices/548" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-773.jpg" alt="art_pic"/></div>
-                                <p className="dat">  June 30, 2023 - 7:35 PM</p>
-                                <h1>LIVE: FTSE and Wall Street surge as UK avoids recession and eurozone inflation falls</h1>
-                                <p>The FTSE (^FTSE), European stock markets, and Wall Street spent the final day of the week, month, quarter, and half year in positive territory, as new data confirmed that the UK avoided recession over the winter,</p>
+                            <a href="/post-crypto/594" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-798.jpg" alt="art_pic"/></div>
+                                <p className="dat"> July 3, 2023 - 7:21 PM</p>
+                                <h1>Crypto Gains More Than Double Traditional Assets’ in First Half of 2023</h1>
+                                <p>The two largest cryptocurrencies gained by more than twice as much in the first half of the year versus traditional assets, spurring hope that the worst of the bear market is over.</p>
                             </a>
-                            <a href="/post-indices/547" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-770.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 30, 2023 - 6:20 PM</p>
-                                <h1>Dow Jones Rallies 275 Points On Cool Inflation Data; Nike Stock Slides On Earnings Miss</h1>
-                                <p>The Dow Jones Industrial Average rallied 275 points Friday after the Federal Reserve's favorite inflation indicator, the PCE price index, came out before the market open.</p>
+                            <a href="/post-markets/572" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-805.jpg" alt="art_pic"/></div>
+                                <p className="dat">  July 3, 2023 - 2:03 PM</p>
+                                <h1>UBS goes on hiring spree for wealth managers catering to rich Americans</h1>
+                                <p>NEW YORK (Reuters) -UBS has gone on a U.S. recruiting drive for wealth managers catering to rich Americans even as it considers culling 30% of its combined global workforce after the takeover of Credit Suisse.</p>
                             </a>
-                            <a href="/post-crypto/591" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-758.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 30, 2023 - 2:26 PM</p>
-                                <h1>Bitcoin, Ether rise along with all other top 10 cryptos</h1>
-                                <p>Bitcoin, Ether, and all other top 10 non-stablecoin cryptocurrencies gained in Friday afternoon trading in Asia, on general market positivity as a number of traditional financial institutions recently filed spot Bitcoin exchange</p>
+                            <a href="/post-markets/571" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-803.jpg" alt="art_pic"/></div>
+                                <p className="dat"> July 3, 2023 - 9:16 AM</p>
+                                <h1>Analysis-Bond markets reckon a central bank policy error is on the cards</h1>
+                                <p>(Reuters) - Bond investors could be in luck for the rest of 2023 if market indicators signalling central banks will take policy tightening too far and tip their economies into recession prove accurate.</p>
                             </a>
-                            <a href="/post-markets/566" className="col">
-                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-786.jpg" alt="art_pic"/></div>
-                                <p className="dat"> June 30, 2023 - 8:02 AM</p>
-                                <h1>US stocks rise after fresh batch of positive economic data and bank stress tests</h1>
-                                <p>Stocks ended mostly higher on Thursday on upbeat economic news and positive results of the latest bank stress tests from the Federal Reserve.</p>
+                            <a href="/post-markets/570" className="col">
+                                <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-804.jpg" alt="art_pic"/></div>
+                                <p className="dat"> July 3, 2023 - 8:34 AM</p>
+                                <h1>Marketmind: Tesla delivers surprise, China goes slow</h1>
+                                <p>(Reuters) - A look at the day ahead in European and global markets from Wayne Cole.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
@@ -161,23 +161,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Indices</h1>
                             <div className="art_grf row">
+                            <a href="/post-indices/553" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-800.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 4, 2023 - 12:24 AM</p>
+                                    <h1>Nasdaq refiles BlackRocks bitcoin ETF application with SEC</h1>
+                                    <p>(Reuters) - Nasdaq refiled an application with the U.S. securities regulator to list an exchange-traded fund by BlackRock Inc that will reflect the price of bitcoin to add</p>
+                                </a>
+                            <a href="/post-indices/552" className="col">
+                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-799.jpg" alt="art_pic"/></div>
+                                    <p className="dat"> July 3, 2023 - 6:22 PM</p>
+                                    <h1>Dow Jones Falls After Key Economic Data; Tesla Stock Surges On Record Deliveries</h1>
+                                    <p>The Dow Jones Industrial Average dropped Monday, with the stock market set to close early for the July 4 holiday.</p>
+                                </a>
                             <a href="/post-indices/551" className="col">
                                     <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-790.jpg" alt="art_pic"/></div>
                                     <p className="dat"> July 2, 2023 - 6:22 AM</p>
                                     <h1>S&P 500 Rallies Back To Highs, But Watch For This; Tesla Deliveries Due</h1>
-                                    <p>The S&P 500 index hit a 14-month high as the stock market rally roared back this past week. The Dow Jones and Nasdaq composite are back near 2023 highs, as Apple (AAPL) closed Friday with a $3 trillion market cap</p>
-                                </a>
-                            <a href="/post-indices/550" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-792.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> July 1, 2023 - 12:52 AM</p>
-                                    <h1>Dow Jones Today: Index Finishes First Half Higher, Led by Tech Stocks</h1>
-                                    <p>The Dow finished the week up about 2%, and the index was up 3.8% for the first half of the year. Apple (AAPL) shares rose more than 2%, bringing the company's market capitalization to over $3 trillion,</p>
-                                </a>
-                            <a href="/post-indices/549" className="col">
-                                    <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-791.jpg" alt="art_pic"/></div>
-                                    <p className="dat"> July 1, 2023 - 12:40 AM</p>
-                                    <h1>Stock Market Indexes All Post Gains For First Half 2023; Nasdaq Rallies More Than 31%</h1>
-                                    <p>The major stock market indexes closed strong, with all major indexes holding steady or picking up steam in the final hour of the second quarter.</p>
+                                    <p>The S&P 500 index hit a 14-month high as the stock market rally roared back this past week. The Dow Jones and Nasdaq composite are back near 2023 highs,</p>
                                 </a>  
                             </div> 
                             <Button href="/post-indices" className="red__mor">View All</Button>

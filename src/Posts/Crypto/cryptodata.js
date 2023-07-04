@@ -1,5 +1,123 @@
 const data = [
   {
+    id: 596,
+    title: 'Bitcoin breaches US$31,000 on BlackRock’s updated ETF; Ether gains, Polygon leads winners',
+    category: 'Crypto',
+    subCategory: ['BTC', 'ETF', 'Polygon'],
+    description: <div className="blog-desc">
+      <p>Bitcoin climbed above US$31,000 in Tuesday morning trading in Asia after Blackrock refiled a Bitcoin exchange-traded fund (ETF) application in the U.S. after the regulator criticised an earlier filing,</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 4, 2023 - 5:28 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-796.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin climbed above US$31,000 in Tuesday morning trading in Asia after Blackrock refiled a Bitcoin exchange-traded fund (ETF) application in the U.S. after the regulator criticised an earlier filing, suggesting the world’s biggest money manager is determined to take a lead in cryptocurrency markets.</p>
+    	<p>Ethereum also logged gains amid institutional interest, while other top 10 non-stablecoin cryptocurrencies traded mixed. Polygon led the winners and Litecoin the losers.</p>	
+    	<h3>Crypto</h3>
+      <p>Bitcoin rose 1.83% over the last 24 hours to US$31,142 at 07:50 a.m. in Hong Kong, moving up 2.85% for the past seven days, according to data from CoinMarketCap. The world’s largest cryptocurrency reached a high of US$31,371 early Tuesday morning, the highest since June 2022.</p>	
+    	<p>BlackRock submitted an amended application for a spot Bitcoin ETF on Monday, after the U.S. Securities and Exchange Commission (SEC) said BlackRock’s original filing was inadequate. BlackRock indicated in the new filing that Coinbase, the custodian of the proposed ETF’s Bitcoin holdings, will provide market surveillance to support the ETF, according to a Bloomberg report on Tuesday.</p>
+      <p>Several other financial institutions have filed Bitcoin ETF applications despite a crackdown last month by the SEC, which filed lawsuits against Binance.US and Coinbase last month for allegedly violating securities laws in trading cryptocurrencies.</p>
+      <p>In emailed comments, Jeff Mei, chief operating officer of digital asset exchange BTSE, said the SEC criticism of the application caused some selling last week, but “investors remain quietly optimistic about future approvals.”</p>
+      <p>Ether gained 1.18% to US$1,954.24, and added 5.23% for the week.</p>
+      <p>Bitcoin and Ether have both seen increased interest from financial institutions in the past week, according to a Monday report from European cryptocurrency investment firm CoinShares.</p>
+      <p>Bitcoin-linked digital asset investment products saw net inflows of around US$123 million in the week ending June 30, while Ethereum-linked products had net inflows of around US$2.7 million. Digital asset investment products have seen two weeks of net inflows since June 19, after logging 9 weeks of consecutive outflows.</p>
+      <p>Most other top 10 non-stablecoin tokens traded higher in the past 24 hours, with Polygon’s Matic token spearheading the rally with a gain of 4.60% to US$0.7119. It’s up 10.18% for the week despite the U.K.-based fintech neobank and crypto exchange Revolut plans to delist Polygon, Solana and Cardano tokens for its U.S. users in September, according to a report by the Block on Monday.</p>
+      <p>Litecoin led the losers in a potential price correction, falling 5.83% to US$106.69. It still logged weekly gains of 22.47% driven higher by the token’s upcoming third halving event on August 2, which will make the token scarcer.</p>
+      <p>Litecoin investors also received a boost after the token was selected to trade on the newly established EDX Markets exchange, which opened on June 20 and is backed by Wall Street heavyweights, including Citadel Securities, Fidelity Investments and Charles Schwab.</p>
+      <p>The total cryptocurrency market cap rose 1.28% to US$1.22 trillion in the last 24 hours, while crypto trading volume rose 26.34% to US$37.86 billion, according to CoinMarketCap data.</p>
+      <h3>NFT volumes gain</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the main Forkast 500 NFT index fell 1.08% in the 24 hours to 09:40 a.m. in Hong Kong to 2,750, down 5.06% for the week. The two Forkast indexes measuring the performance of Ethereum and Polygon NFT markets logged moderate increases.</p>
+      <p>NFT trading volume on Ethereum rose 18.72% in the past 24 hours to US$27.29 million, according to CryptoSlam data, while Polygon’s volumes surged 121.63% to more than US$1.89 million. Trading volumes also rose on the Bitcoin, Solana and BNB Chain networks.</p>
+      <p>Bored Ape Yacht Club (BAYC), the second largest NFT collection by market cap, saw trading volume jump 52.56% to US$4.98 million, with Ethereum-based NFT collections Azuki and Mutant Ape Yacht Club (MAYC) ranking the second and the third.</p>
+      <p>“A bit of a rebound today on the ETH side, which is in the green for the first time in days. Top collections like Bean, Azuki, and MAYC have had increases in their floor prices 7-20% and even BAYC has slowed its decline,” said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News.</p>
+      <p>However, the floor prices of some major NFT collections are still holding considerable losses for the past week, with BAYC floor price falling over 20% in the past seven days and Azuki sliding more than 50% over the same period, according to data from CoinGecko.</p>
+      <p>Azuki Elementals are a collection of 20,000 NFTs launched on June 27 as a spin-off of the original Azuki collection. While the Elementals sold out within 15 minutes, collectors started to complain that the supposed new NFTs looked almost identical to the original Azuki collection.</p>
+      <p>Azuki DAO, a community of dissatisfied Azuki holders, was formed last week and passed a vote on Monday to launch a lawsuit against Azuki creator Chiru Labs, claiming the 20,000 ETH (US$39 million) the company holds should be returned to the DAO to “promote the growth of the entire Azuki community.”</p>
+      <p>“NFT platforms have experienced an increase in trading volume in recent days, while the prices of blue-chip NFTs have declined,” said Gracy Chen, managing director at digital asset trading platform Bitget, in an emailed comment.</p>
+      <p>“The NFT market is undergoing a major adjustment, but a decline does not necessarily indicate the decline of the entire industry,” said Chen. “As NFT derivatives, including lending, indexes, perpetual contracts, and other products, are gaining traction, price fluctuations become more pronounced in the short term.”</p>
+      <h3>U.S. futures dip</h3>
+      <p>U.S. stock futures traded flat to lower as of 11:20 a.m. in Hong Kong. Dow Jones Industrial Average futures inched down 0.01%, S&P 500 futures dipped 0.04%, and Nasdaq futures fell 0.12%. The three major U.S. indexes closed higher in the regular Monday session, shortened ahead of the July 4 public holiday when the market is closed.</p>
+      <p>In Asia, mainland China’s Shanghai Composite Index closed 1.31% higher on Monday, despite the country’s softening manufacturing recovery. South Korea’s Kospi rose 1.49%, while Japan’s Nikkei led the gainers in the region with a 1.7% increase, according to CNBC on Monday.</p>
+      <p>The U.S. manufacturing purchasing managers’ index (PMI) dropped to 46.0 in June, the lowest since May 2020, according to a Monday report by the Institute of Supply Management (ISM). A reading above 50 indicates an expansion in manufacturing and below 50 a contraction.</p>
+      <p>“Companies reduced production and began using layoffs to manage head counts, to a greater extent than in prior months, amid mixed sentiment about when significant growth will return,” wrote ISM Manufacturing Business Survey Committee Chair Timothy Fiore in the report.</p>
+      <p>The June PMI is the eighth consecutive month of contraction and is lower than the projection of 47.0, raising concerns about a recession, according to Reuters on Tuesday.</p>
+      <p>New York Federal Reserve President John Williams’ speaks on Wednesday and may provide an update on the Fed’s view of inflation. The Fed releases its June meeting minutes on Wednesday, where it decided to leave interest rates unchanged between 5% and 5.25%.</p>
+      <p>The Federal Reserve’s next meeting on rates is July 26. The CME FedWatch Tool predicts a 89.9% chance for a 25-basis-point rate increase, up from 87.4% on Monday. The likelihood the Fed won’t increase is now at just 10.1%.  </p>
+    </div>
+  },
+  {
+    id: 595,
+    title: 'Poly Network Hacker Mints Billions Of Tokens From Thin Air',
+    category: 'Crypto',
+    subCategory: ['Poly', 'Network', 'Tokens'],
+    description: <div className="blog-desc">
+      <p>Poly Network, a cross-chain bridging protocol notorious for suffering the second-largest DeFi exploit on record, was hacked again on Sunday.</p>
+    </div>,
+    authorName: 'Samuel Haig',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 10:01 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-797.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Poly Network, a cross-chain bridging protocol notorious for suffering the second-largest DeFi exploit on record, was hacked again on Sunday.</p>
+    	<p>A hacker identified a flaw in Poly Network’s contract allowing them to issue a seemingly unlimited number of tokens into existence, including 10M BUSD and nearly 10M BNB tokens on Metis, almost 100T SHIB on Heco, and various tokens on Polygon, Avalanche, and BNB Chain.</p>	
+    	<p>The hacker’s gains may be sharply limited by low liquidity, preventing most of the tokens from being tradable. Metis tweeted there is “no sell liquidity available” for the tokens minted on its network.</p>	
+    	<p>Yet blockchain security firms Beosin Alert and SlowMist both estimate the hacker has realized 10.1M in ill-gotten gains so far.</p>
+      <h3>Bridging Risks</h3>
+      <p>The incident is a reminder of the security risks associated with cross-chain bridging protocols. According to Rekt, four of the five largest DeFi exploits targeted bridges, with Ronin, Poly Network, BNB Bridge, and Wormhole losing more than $2.1B in assets combined.</p>
+      <p>Poly Network lost $611M to hackers in August 2021, comprising the largest DeFi hack on record at the time. The hacker later returned the majority of the stolen funds.</p>
+      <h3>Multisig Compromised</h3>
+      <p>Poly Network suspended its services and said it was in communication with both law enforcement and the centralized exchanges used by the hacker to cash out funds. “We hope that the attacker will cooperate and return the user assets to avoid any potential legal consequences,” the team said.</p>
+      <p>Poly Network also urged liquidity providers and project teams for all affected tokens to withdraw liquidity from decentralized exchanges.Dedaub, a web3 security team, attributed the latest incident to a compromised 3 of 4 multisig wallet. The team chastised Poly Network for maintaining poor security practices and taking seven hours to pause the protocol after the attack.</p>
+      <h3>Exploits Proliferate</h3>
+      <p>According to a report from De.Fi, hackers have made off with $667M in 2023 so far, $204M of which was lost in Q2. Last quarter hosted 117 exploits or rug-pulls, 11 times that of Q1 2022 and a 150% increase compared to the previous quarter.</p>
+      <p>BNB Chain hosted more than half of the incidents with 65 hacks totaling $57.8M in losses, followed by Ethereum with 25 exploits worth $82.5M, and Arbitrum, with 10 cases amounting to $21m.</p>
+    </div>
+  },
+  {
+    id: 594,
+    title: 'Crypto Gains More Than Double Traditional Assets’ in First Half of 2023',
+    category: 'Crypto',
+    subCategory: ['crypto', 'gains', 'Traditional'],
+    description: <div className="blog-desc">
+      <p>The two largest cryptocurrencies gained by more than twice as much in the first half of the year versus traditional assets, spurring hope that the worst of the bear market is over.</p>
+    </div>,
+    authorName: 'Samuel Haig',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 3, 2023 - 7:21 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-798.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The two largest cryptocurrencies gained by more than twice as much in the first half of the year versus traditional assets, spurring hope that the worst of the bear market is over.</p>
+    	<p>Bitcoin and Ethereum posted year-to-date gains of 85% and 63% respectively, compared with gains of 32% for the Nasdaq, 16% for the S&P 500 and a loss of 4% for the Hang Seng Index. Commodities also underperformed digital assets, with raw sugar up 14%, gold climbing 5%, and gasoline rising 1.5%.</p>	
+    	<p>The combined market capitalization for crypto now sits at $1.2T after gaining 24% since the start of January, according to CoinMarketCap. Crypto’s outperformance so far in 2023 follows the 2022 bear market, which wiped $2T from the combined cryptocurrency market cap in 12 months.</p>	
+    	<p>The 2022 downturn was accelerated by the abrupt collapse of Terra network and its algorithmic UST stablecoin in May 2022, which sent contagion risk reverberating across the web3 industry and deleted billions of dollars in value from the DeFi sector.</p>
+      <p>The collapse of Three Arrows Capital followed. Failures of centralized crypto lenders like Celsius and BlockFi came next, and the unraveling of FTX ended what may have been the worst year for crypto’s history.</p>
+      <h3>Halving Hype Propels Bitcoin</h3>
+      <p>BTC now boasts a nearly $596M market cap and last traded hands for $30,700. The bullish price action propelled Bitcoin’s market dominance to its highest level since April 2021.</p>
+      <p>Surging on-chain activity and early anticipation for Bitcoin’s next halving have helped propel BTC as the second-best performing asset among the top 30 cryptocurrencies by market cap for the year. The next halving event will take place around early May next year, reducing the rate of new Bitcoin issuance by 50% to 3.125 BTC per block.</p>
+      <p>The creation of the ordinals inscription method and BRC-20 token standard pushed Bitcoin’s on-chain activity to new all-time highs. The inscription methods introduced fungible and nonfungible tokens on Bitcoin for the first time, giving rise to new use cases for the network.</p>
+      <h3>LSTfi Drives Gains For DeFi</h3>
+      <p>The DeFi sector produced modest gains in 2023 so far, with the total value locked in DeFi protocols growing 20% from $37.9B to $45.5B since January, according to DeFi Llama.</p>
+      <p>The majority of growth took place on Ethereum and its Layer 2 ecosystem, with Ethereum’s TVL up 23% at $27M and Layer 2s up 140% to $10B, according to L2beat. Tron’s TVL also increased 36% to $5.6B.Mixin emerged as a top 10 chain after its TVL grew 73% to $445. Solana also hosted a notable rebound, gaining 32% to $271M from $205M.</p>
+      <p>However, with Ethereum’s Layer 2 ecosystem undermining the value proposition of low-cost alternative Layer 1 networks by reducing the costs of transacting on Ethereum, many networks have stagnated or shed TVL this year.</p>
+      <p>BNB Chain hosted the largest TVL decline, currently sitting at $3.4B after starting the year with $4.7B in locked assets. Fantom also suffered a significant loss of 42%, with its TVL sliding to $203M from $351M.The market cap of DeFi assets also showed strength YTD, increasing by almost 50% to $50B from $34B, according to CoinGecko.</p>
+      <p>Liquid staking projects drove the lion’s share of DeFi’s market cap growth, with Lido’s stETH staking derivative up $9B, Lido’s governance token LDO gaining $1.1B, and Rocket Pool’s RPL governance token adding $400M to the sector’s capitalization this year.</p>
+      <h3>Deflationary Ethereum</h3>
+      <p>Ethereum realized its deflationary promise this year, with ETH’s circulating supply falling by 286,827 coins YTD worth $559.3M at current prices.Half of all Ether destroyed since Ethereum switched to Proof of Stake last September were burned during May amid a sharp resurgence in memecoin trading, with the network’s burn rate remaining relatively low during other months.</p>
+      <p>The combined transaction volume on Layer 2 extended its lead over Ethereum this year, with L2s beating mainnet by 335% with nearly 36 transactions per second.Arbitrum is the most popular L2 with 25M transactions over the past 30 days, followed by zkSync Era with 22.3M, and Optimism with 14.6M. For comparison, Ethereum processed 31.4M transactions over the same period.</p>
+    </div>
+  },
+  {
     id: 593,
     title: 'South Korea approves crypto bill to protect investors, goes into effect in one year',
     category: 'Crypto',
