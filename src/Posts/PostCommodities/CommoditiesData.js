@@ -1,5 +1,101 @@
 const data = [
   {
+    id: 565,
+    title: 'Iran Floods Global Markets With Cheap Oil as Saudi Arabia Cuts Output',
+    category: 'Commodities',
+    subCategory: ['Iran', 'Saudia', 'Oil'],
+    description: <div className="blog-desc">
+      <p>Iranian crude exports have hit a five-year high in recent months as the country ships more oil to China and other buyers</p>
+    </div>,
+    authorName: 'Benoit Faucon',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 6, 2023 - 1:56 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-819.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Iranian crude exports have hit a five-year high in recent months as the country ships more oil to China and other buyers</p>
+    	<p>Iran’s oil exports have hit a five-year high in recent months as the country sells more to China and other countries, adding large volumes of discounted crude to a global energy market already struggling amid concerns over demand.</p>	
+    	<p>The surge in Iran’s oil supply threatens to upend efforts by Saudi Arabia and other major crude producers to prop up prices by cutting output. Oil’s value has fallen by about a fifth since late last year on expectations of a slowing global economy and a glut of cheap Russian cargoes.</p>	
+    	<p>It also shows how Iran is increasingly circumventing U.S. sanctions as the Biden administration quietly resumes talks with Tehran in a bid to win the release of American prisoners held by the Islamic Republic and curb its growing nuclear program.</p>
+      <p>Iran’s oil shipments amounted to about 1.6 million barrels a day on average in June and May, according to commodity-data providers Kpler and Petro-Logistics, more than double the level of about a year ago and the highest since 2018, when the reimposition of U.S. sanctions caused a slump.</p>
+      <p>While the scale and final destination of Iran’s oil sales are difficult to gauge, given their often covert nature, data from several firms monitoring the global energy trade indicate that China remains its top customer.</p>
+      <p>Beijing directly imported 359,000 barrels a day of Iranian oil in May, up from about 266,000 barrels in the same month last year, according to Kpler. Industry watchers say Iran’s actual sales to China are likely much higher and include oil transshipped through other Asian and Middle Eastern countries.</p>
+      <p>China has long said it doesn’t follow U.S. sanctions on Iran but has rarely disclosed data on oil imports from the Islamic Republic since Washington reimposed sanctions on the country.</p>
+      <p>Among the other top buyers of Iranian crude are Syria and Venezuela, both of which are under American sanctions. Iran is also seeing growing interest for its oil from other buyers in Latin America and Africa, Iranian traders say.</p>
+      <p>Iranian oil officials say the country is offering a discount of about $30 a barrel compared with its Persian Gulf rivals, including Saudi Arabia, allowing it to compete with cheap Russian oil.</p>
+      <p>For China, the supply of crude from Iran and Russia has allowed Beijing to hoard cheap oil as insurance in case the economy kicks into a higher gear and crude prices rise. Beijing added about 1.77 million barrels a day to its inventories in May, the most since July 2020, according to oil-data-analytics firm Refinitiv Eikon.</p>
+      <p>Iran is a member of the Saudi-led Organization of the Petroleum Exporting Countries but its output quota within the cartel is suspended due to the U.S. sanctions. As it ships more oil, Tehran is undermining Riyadh’s attempts to keep prices higher by limiting production.</p>
+      <p>Brent crude, the international oil benchmark, has fallen about 20% since OPEC and its Russia-led allies, called OPEC+, first jolted the market in October by slashing output by 2 million barrels a day. In April, some of the group’s largest members, including Saudi Arabia and Russia, cut a further 1.6 million barrels a day.</p>
+      <p>Last month, Saudi Arabia said it would cut 1 million barrels of oil a day from its July output after other OPEC+ members agreed to stick to current production targets until the end of the year. Earlier this week, Riyadh extended that cut to August. Saudi Arabia needs oil above $80 a barrel, by some analysts’ estimates, to fund its expansive economic program.</p>
+      <p>Meanwhile, Iran in May said it had boosted its crude output to more than 3 million barrels a day, up from around 2.5 million barrels before the U.S. withdrew from the Iran nuclear accord in 2018 and reimposed sanctions.</p>
+      <p>Iranian officials say the country, which re-established diplomatic relations with regional rival Saudi Arabia in a deal mediated by China earlier this year, is taking advantage of Riyadh’s output cut by filling that gap and feeding Beijing’s increasing appetite for cheap oil.</p>
+      <p>Iran, for which oil is the biggest source of foreign currency, earned $28 billion from crude sales in the Persian calendar year, which ended in March 2023, almost four times more than in 2021, according to former Iranian central banker Abdolnaser Hemmati. The cash is providing Iran a lifeline for its economy, which has been battered by high inflation and a tumbling currency.</p>
+      <p>Iran’s growing oil exports potentially give it more leverage amid the latest attempt at diplomacy between Washington and Tehran. While the Biden administration appears focused on cooling tensions, which have soared this year, it is unlikely to make substantial concessions as the presidential campaign approaches.</p>
+      <p>Besides oil, Iran is also selling other hydrocarbon products. For instance, India and Kenya have been scooping up dozens of cargoes of Iranian asphalt, according to Kpler and Iranian oil traders. India’s Petroleum Ministry and the Kenyan Ministry of Trade didn’t return requests for comment.</p>
+    </div>
+  },
+  {
+    id: 564,
+    title: 'Oil Rises With Inventory Draws Expected in Wake of OPEC+ Cuts',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC+', 'Rises'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil rose as traders weighed Saudi Arabian and Russian production cuts after a slew of low-volume trading sessions.</p>
+    </div>,
+    authorName: 'Julia Fanzeres',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 5, 2023 - 11:20 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-820.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil rose as traders weighed Saudi Arabian and Russian production cuts after a slew of low-volume trading sessions.</p>
+    	<p>The two OPEC+ linchpins announced their latest batch of curbs on Monday, with a supply-cut extension by Riyadh and a fresh pledge to reduce production from Moscow. Brent settled above $76 a barrel while WTI rallied, catching up with the global benchmark after a US holiday on Tuesday.</p>	
+    	<p>Brent’s prompt spread — the gap between the two nearest contracts — is back in a bullish, backwardated structure. The move is in line with traders repricing their expectations for near-term inventory draws on the horizon, said Daniel Ghali, a commodity strategist at TD Securities.</p>	
+    	<p>“Speculative short covering has likely provided some support to prices, but fundamentally our gauge of supply risk is printing its highest levels year-to-date,” Ghali said. “Saudi Arabia’s decision to rollover its voluntary production cuts and Russia’s decision to curtail exports, as opposed to production, are the fundamental factors contributing to recent gains.”</p>
+      <p>The UAE won’t be joining voluntary oil cuts at this time, the country’s energy minister said. Saudi Energy Minister Prince Abdulaziz bin Salman said Russia’s latest oil cut is meaningful as it will affect exports.</p>
+      <p>Crude has slumped this year amid China’s stuttering economic recovery and after central banks in the US and Europe raised rates to quell inflation, jeopardizing energy demand.</p>
+      <p>There have also been pockets of fundamental strength in recent days. Kazakhstan’s CPC crude has faced disruption as a result of power outages in the country. Separately, one refiner in Germany is limiting diesel supplies, a sign of regional supply tightness.</p>
+    </div>
+  },
+  {
+    id: 563,
+    title: 'Silver Elephant Mining (TSE:ELEF) shareholders have earned a 88% CAGR over the last three years',
+    category: 'Commodities',
+    subCategory: ['Silver', 'Elephant', 'CAGR'],
+    description: <div className="blog-desc">
+      <p>Investors are understandably disappointed when a stock they own declines in value. But it's hard to avoid some disappointing investments when the overall market is down.</p>
+    </div>,
+    authorName: 'Simply Wall St',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 5, 2023 - 3:51 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-821.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Investors are understandably disappointed when a stock they own declines in value. But it's hard to avoid some disappointing investments when the overall market is down.</p>
+    	<p>The Silver Elephant Mining Corp. (TSE:ELEF) is down 90% over three years, but the total shareholder return is 560% once you include the dividend. And that total return actually beats the market return of 48%. And more recent buyers are having a tough time too, with a drop of 46% in the last year.</p>	
+    	<p>Shareholders have had an even rougher run lately, with the share price down 30% in the last 90 days. We really hope anyone holding through that price crash has a diversified portfolio. Even when you lose money, you don't have to lose the lesson.</p>	
+    	<p>So let's have a look and see if the longer term performance of the company has been in line with the underlying business' progress.</p>
+      <p>Silver Elephant Mining hasn't yet reported any revenue, so it's as much a business idea as an actual business. This state of affairs suggests that venture capitalists won't provide funds on attractive terms. So it seems shareholders are too busy dreaming about the progress to come than dwelling on the current (lack of) revenue. For example, they may be hoping that Silver Elephant Mining finds fossil fuels with an exploration program, before it runs out of money.</p>
+      <p>We think companies that have neither significant revenues nor profits are pretty high risk. There was already a significant chance that they would need more money for business development, and indeed they recently put themselves at the mercy of capital markets and raised equity.</p>
+      <p>So the share price itself impacts the value of the shares (as it determines the cost of capital). While some such companies go on to make revenue, profits, and generate value, others get hyped up by hopeful naifs before eventually going bankrupt. Silver Elephant Mining has already given some investors a taste of the bitter losses that high risk investing can cause.</p>
+      <p>Silver Elephant Mining had liabilities exceeding cash when it last reported, according to our data. That made it extremely high risk, in our view. But with the share price diving 24% per year, over 3 years , it's probably fair to say that some shareholders no longer believe the company will succeed or they are worried about dilution with the recent cash injection.</p>
+      <p>It can be extremely risky to invest in a company that doesn't even have revenue. There's no way to know its value easily. Would it bother you if insiders were selling the stock? I would feel more nervous about the company if that were so. It costs nothing but a moment of your time to see if we are picking up on any insider selling.</p>
+      <h3>What About The Total Shareholder Return (TSR)?</h3>
+      <p>We'd be remiss not to mention the difference between Silver Elephant Mining's total shareholder return (TSR) and its share price return. Arguably the TSR is a more complete return calculation because it accounts for the value of dividends (as if they were reinvested), along with the hypothetical value of any discounted capital that have been offered to shareholders.</p>
+      <p>Silver Elephant Mining hasn't been paying dividends, but its TSR of 560% exceeds its share price return of -90%, implying it has either spun-off a business, or raised capital at a discount; thereby providing additional value to shareholders.</p>
+      <h3>A Different Perspective</h3>
+      <p>Investors in Silver Elephant Mining had a tough year, with a total loss of 46%, against a market gain of about 8.8%. Even the share prices of good stocks drop sometimes, but we want to see improvements in the fundamental metrics of a business, before getting too interested. Longer term investors wouldn't be so upset, since they would have made 61%, each year, over five years.</p>
+      <p>If the fundamental data continues to indicate long term sustainable growth, the current sell-off could be an opportunity worth considering. I find it very interesting to look at share price over the long term as a proxy for business performance. But to truly gain insight, we need to consider other information, too. For example, we've discovered 3 warning signs for Silver Elephant Mining (2 make us uncomfortable!) that you should be aware of before investing here.</p>
+      <p>Silver Elephant Mining is not the only stock that insiders are buying. For those who like to find winning investments this free list of growing companies with recent insider purchasing, could be just the ticket.</p>
+    </div>
+  },
+  {
     id: 562,
     title: 'Gold firms as traders hunker down for Fed cues',
     category: 'Commodities',
