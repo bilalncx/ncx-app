@@ -1,5 +1,128 @@
 const data = [
   {
+    id: 599,
+    title: 'ETH derivatives demand suggests this about its performance in Q3 and Q4',
+    category: 'Crypto',
+    subCategory: ['ETH', 'Demand', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>According to a recent CCData report, both spot and derivatives demand on centralized exchanges surged by 14.2% to $2.71 trillion. The derivatives segment contributed most of that demand at $2.13 trillion which is equivalent to a 13.7% upside.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 6, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-818.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Ethereum demand in the derivatives segment outweighed spot demand in June.</li>
+        <li>ETH’s funding rate also witnessed a rise, especially in the last week of June.</li>
+      </ul>
+    	<p>According to a recent CCData report, both spot and derivatives demand on centralized exchanges surged by 14.2% to $2.71 trillion. The derivatives segment contributed most of that demand at $2.13 trillion which is equivalent to a 13.7% upside.</p>
+    	<p>Recent data analyzing the state of demand for crypto reveals that the derivatives segment grew significantly in June. Ethereum [ETH] was among the cryptocurrencies that have been tapping into that demand.</p>	
+    	<p>June turned out to be quite an interesting month not only for ETH but the crypto market in general. This is because there was a significant surge in demand during the month.</p>	
+    	<p>According to a recent CCData report, both spot and derivatives demand on centralized exchanges surged by 14.2% to $2.71 trillion. The derivatives segment contributed most of that demand at $2.13 trillion which is equivalent to a 13.7% upside.</p>
+      <p>ETH was one of the cryptocurrencies that benefited from the surge in derivatives demand. For perspective, this was reflected in its open interest metric which registered a significant upside from its lowest point in the last 2 months (in May). It recently peaked at a new high at the start of July, confirming strong activity in the derivatives market.</p>
+      <p>Ethereum’s funding rate has also been on the rise, especially in the last week of June. This further confirmed the influx of liquidity into ETH derivatives. But why has derivatives demand been higher than spot demand? Perhaps one of the reasons was the ease of investing in the derivatives segment. But one of the major reasons could also be that it offers leverage opportunities.</p>
+      <h3>Is the prevailing leverage enough for a substantial impact?</h3>
+      <p>The level of confidence in the market tends to impact the demand for leverage. As such, the last week of June attracted a surge in the demand for leverage as many traders anticipated higher prices.</p>
+      <p>Higher leverage often confirms some directional confidence in the market. However, it also lends the underlying asset to potential liquidations which may trigger a pivot.</p>
+      <p>ETH’s latest upside failed to rally back above the $2,000 price range despite an attempt. It exchanged hands at $1,913 at press time. Furthermore, the level of liquidations surged slightly in the last two days.</p>
+      <p>ETH long liquidations peaked at $8.44 million in the last 24 hours compared to $522,000 short liquidations. However, these liquidations are too low to have an impact on the price.</p>
+      <p>Nevertheless, the observed growth in derivatives demand and appetite for leverage is already a healthy sign. It suggests that the market recovery that was seen in the first half of 2023 might continue into the second half of the year.</p>
+    </div>
+  },
+  {
+    id: 598,
+    title: 'Bitcoin ETF could democratize crypto: BlackRock CEO',
+    category: 'Crypto',
+    subCategory: ['BTC', 'ETF', 'BlackRock'],
+    description: <div className="blog-desc">
+      <p>BlackRock CEO Larry Fink believes that Bitcoin is an international asset. The asset management company recently filed for a Bitcoin ETF.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 6, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-817.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Larry Fink is of the belief that BTC ETFs could make crypto democratized.</li>
+        <li>Spot ETFs have led to a rise in BTC’s prices.</li>
+      </ul>
+	    <p>BlackRock CEO Larry Fink believes that Bitcoin is an international asset. The asset management company recently filed for a Bitcoin ETF.</p>
+	    <p>BlackRock CEO Larry Fink says that its spot Bitcoin [BTC] exchange-traded fund (ETFs) will make crypto more democratized. He said that the role of cryptocurrency was largely “digitizing gold.”</p>
+      <p>Fink made these remarks while speaking on Fox Business on 5 July.</p>
+	    <p>The BlackRock CEO suggested that U.S. regulators should consider how an ETF directly linked to BTC could democratize finance. He believed that Bitcoin is an international asset, saying:</p>	
+    	<p><strong>“It’s not based on any one currency, and so it can represent an asset that people can play as an alternative.”</strong></p>
+      <p>However, Gabor Gurbacs, Director, Digital Assets Strategy of VanEck, was quick to remind the Twitter community about Fink’s earlier views regarding Bitcoin. Back in 2017, Fink had referred to Bitcoin as an “index of money laundering.”</p>
+      <p>Microstrategy founder Michael Saylor approvingly quoted Link’s recent remarks on Twitter.</p>
+      <p>Fink also proposed that investors may use Bitcoin as a hedge against inflation or currency depreciation.</p>
+      <p>The CEO had earlier batted for the decentralized nature of the crypto industry. When FTX collapsed in November 2022, he reasoned that FTX failed because it created its native centralized token. This, according to him, was in complete contrast with the “whole foundation of what crypto is.”</p>
+      <p>He had made these remarks at the New York Times’ 2022 Dealbook Summit.</p>
+      <h3>Will the SEC approve BlackRock’s Bitcoin ETF application?</h3>
+      <p>Under Fink’s leadership, BlackRock tried to begin a spot Bitcoin ETF with cryptocurrency exchange Coinbase acting as a surveillance partner. We do not know if the U.S. Securities and Exchange Commission (SEC) will approve it as of the time of writing, given that the regulatory body has rejected all previously filed applications so far.</p>
+      <p>BlackRock is the world’s leading asset management company. It had more than $9 trillion in assets under management, Bloomberg reported in April.</p>
+      <p>BlackRock and other asset management firms filing for spot Bitcoin ETFs have led to a BTC price rally. At press time, BTC was trading above $31K, reflecting a modest rise of 1.5% in the previous 24 hours.</p>
+    </div>
+  },
+  {
+    id: 597,
+    title: 'Bitcoin trades flat after losing US$31,000 peg; Solana gains; Polygon, BNB lead losers',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Solana', 'Polygon'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether traded little changed on Wednesday morning in Asia, while the rest of the top 10 non-stablecoin cryptocurrencies were mixed. Bitcoin fell back under US$31,000,</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 5, 2023 - 5:03 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-816.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin and Ether traded little changed on Wednesday morning in Asia, while the rest of the top 10 non-stablecoin cryptocurrencies were mixed. Bitcoin fell back under US$31,000, but its dominance in total crypto market cap is gaining, a sign of market recovery.</p>
+    	<p>Solana added to its gains this week, while Polygon’s Matic and the BNB tokens led the daily losers list. Bitcoin Cash has taken the number 12 spot in the list of top tokens by market cap after its listing on the new EDX Markets exchange.</p>	
+    	<h3>Crypto price pause</h3>
+      <p>Bitcoin fell 1.0% over the last 24 hours to US$30,801 at 07:20 a.m. in Hong Kong, shaving its weekly gain down to 0.39%, according to data from CoinMarketCap. On Tuesday, the price of the world’s largest cryptocurrency reached US$31,371, its highest since June 2022, on the back of optimism about spot Bitcoin exchange-traded fund applications by a raft of Wall Street heavyweights, including Blackrock.</p>
+      <p>The level of Bitcoin dominance sits near 50%, which is the highest since April 2021. Alex Kuptsikevich, senior market analyst at FxPro, says this price uptrend in Bitcoin is a typical market recovery pattern in which the most significant asset in the sector attracts buyers first.</p>
+    	<p>“It will probably take about a year of Bitcoin price recovery before crypto enthusiasts start looking for one with higher risk, pushing altcoins higher and leading to a new wave of capitalisation swell,” said Kuptsikevich, in an email statement. He said he doesn’t see altcoins rallying before November.</p>
+      <p>Bitcoin’s recent price recovery was sparked by Blackrock, the world’s biggest asset manager, filing an application last month to launch a Bitcoin ETF and refiling it again after the U.S. Securities and Exchange Commission (SEC) indicated it lacked details.</p>
+      <p>Several other U.S.-based asset managers, such as Fidelity Investments and WisdomTree, have filed their own Bitcoin ETFs, suggesting mainstream finance recognizes the Bitcoin opportunity and wants to offer clients the access to its price movements without actually owning the token.</p>
+      <p>Ether, the second-largest cryptocurrency by market cap, looked to be on a run to break US$2,000 this week, but fell back 0.81% to US$1,941 today after a gain of 2.64% for the past seven days.</p>
+      <p>The other top 10 cryptocurrencies by market capitalization traded mixed to flat, with Solana leading gainers with a 2.0% rise to US$19.45. The token has surged 15.35% in the past week.</p>
+      <p>Polygon’s Matic and Binance’s BNB token were amongst the losers — Matic lost 1.99% to US$0.6981, though it’s still up 4.29% for the week. BNB lost 1.68% to US$242.83, cutting its weekly gain to 1.81%.</p>
+      <p>Altcoins have suffered from the SEC’s crackdown on tokens that they deem financial securities. Solana, Cardano, Polygon and BNB were among those that the regulator named as unregistered securities in its lawsuits filed against the Coinbase and Binance.US exchanges in early June.</p>
+      <p>While these altcoins have partially recovered after an initial plunge following the SEC suits, several trading platforms including California-based Robinhood Markets Inc., Israel-based eToro and UK’s Revolut ceased support or limited access to some of these tokens for their U.S.-based customers.</p>
+      <p>Bitcoin Cash climbed to become the twelfth largest non-stablecoin cryptocurrency by market capitalization on CoinMarketCap at US$53.8 billion. The Bitcoin spin-off is one of the four cryptocurrencies listed on EDX Markets, the Wall Street-backed, compliance-focused crypto exchange that launched on June 20 in the U.S.</p>
+      <p>Bitcoin Cash had a market capitalization of US$20.6 billion and was valued at US$106.34 on June 19. It has since surged 160% to US$276.87. It dipped 1.70% in the last 24 hours.</p>
+      <p>The total cryptocurrency market cap fell 0.80% to US$1.21 trillion in the last 24 hours, while crypto trading volume fell 22.22% to US$31.14 billion, according to CoinMarketCap data.</p>
+      <h3>Azuki dents NFT sentiment</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>The Forkast 500 NFT index rose 1.28% in the 24 hours to 07:45 a.m. in Hong Kong to 2,783.58, but logged a loss of 3.17% for the week. The two Forkast indexes measuring the performance of Ethereum and Polygon NFT markets rose.</p>
+      <p>However, despite moderate gains in the indexes on Wednesday morning, the NFT market overall remains in a downtrend, said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News.</p>
+      <p>“The Forkast 500 NFT Index reflects declining sales prices across collections on all chains, but it’s Ethereum that’s really dragging the market down with it,” said Petscher, pointing to the recent problems with the Azuki NFT collection.</p>
+      <p>“Azuki’s struggles exasperated the already struggling market … Azuki’s new Elementals mint was supposed to be a boom for NFTs and instead was a bust, becoming a catalyst that drove NFT collections down to all-time lows.”</p>
+      <p>Azuki NFT creator Chiru Labs debuted its latest Elementals collection last Tuesday, to much negative response from the community, who deemed it almost identical to the original Azuki collection.</p>
+      <p>While the team behind Azuki posted an public apology to buyers on Twitter, dissatisfied Azuki holders formed the Azuki DAO last week and passed a vote on Monday to launch a lawsuit against Chiru Labs, claiming the 20,000 ETH (US$39 million) the company holds should be returned to the DAO.</p>
+      <p>LegalDAO, the decentralized autonomous organization formed in 2020 by a group of legal professionals, said Tuesday that it will help Azuki DAO in the effort to claim the 20,000 ETH.</p>
+      <p>By NFT collections, Bored Ape Yacht Club topped the trading volume rankings on Cryptoslam with US$3 million, but the volume was down 18.97% on the day. Mutant Ape Yacht Club, another Yuga Labs’ Ethereum-based collection, saw its volume grow 11.94% to US$2.39 million to place second in the rankings.</p>
+      <p>Total NFT trading volume dropped 9.24% to US$31.5 million. Volume on Ethereum fell 9.17% to US$22.7 million according to Cryptoslam data. Volume on the Bitcoin network gained 3.73% to US$3.19 million, while volumes on Polygon, Solana and BNB all plunged.</p>
+      <h3>U.S. equity futures drop during holiday</h3>
+      <p>U.S. stock futures dipped as of 10:45 a.m. in Hong Kong ahead of the restart of trading in the U.S. following the July 4 public holiday.</p>
+      <p>Futures on all three indexes – Dow Jones Industrial Average, S&P 500 futures and Nasdaq – declined but by less than 1%.</p>
+      <p>Asian equities opened lower Wednesday morning. The Shanghai Composite fell 0.5%, Hong Kong’s Hang Seng dipped 1.3%, Japan’s Nikkei 225 index edged down 0.3%. South Korea’s Kospi also lost 0.08%.</p>
+      <p>The Caixin China General Composite purchasing managers’ index (PMI) — a measure of the performance of both the manufacturing and services sectors in China — dropped to 52.5 in June from 55.6 the previous month. This marks the sixth consecutive month of expansion for China’s private sector. However, the growth rate was the slowest since January.</p>
+      <p>Employment in China also returned to growth, as the service sector created more jobs following a drop in manufacturing payrolls, according to Trading Economics.</p>
+      <p>In the U.S., New York Federal Reserve President John Williams’ speaks on Wednesday and may provide an update on the Fed’s view of inflation. The Fed will also release its June meeting minutes on Wednesday, where it decided to leave interest rates unchanged between 5% and 5.25%.</p>
+      <p>The Federal Reserve’s next meeting on rates is July 26. The CME FedWatch Tool predicts a 87.4% chance for a 25-basis-point rate increase, down from 89.9% on Tuesday. The likelihood the Fed won’t increase is now at just 12.6%.</p>
+    </div>
+  },
+  {
     id: 596,
     title: 'Bitcoin breaches US$31,000 on BlackRock’s updated ETF; Ether gains, Polygon leads winners',
     category: 'Crypto',

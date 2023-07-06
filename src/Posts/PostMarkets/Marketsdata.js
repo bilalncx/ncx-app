@@ -1,5 +1,34 @@
 const data = [
   {
+    id: 576,
+    title: 'US layoffs halve in June as tech job cuts ease - report',
+    category: 'Markets',
+    subCategory: ['US', 'layoffs', 'Tech job'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Layoffs in the United States nearly halved in June from a month earlier as job cuts in the technology sector fell, according to data from employment firm Challenger, Gray & Christmas Inc.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 6, 2023 - 4:35 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-823.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) - Layoffs in the United States nearly halved in June from a month earlier as job cuts in the technology sector fell, according to data from employment firm Challenger, Gray & Christmas Inc.</p>
+    	<p>Corporate America has taken to laying off a large number of their workforce, as aggressive interest rate hikes by the Federal Reserve to tame inflation have besmirched the United States' economic outlook, stoking fears of a potential recession.</p>	
+    	<p>Despite the drop in job cuts in the month, layoffs in June were higher than the corresponding month a year earlier, the report said.</p>	
+    	<p>Technology companies continue to lead job cut announcements with 141,516 layoffs in the first half of the year, compared with about 6,000 in the same period last year.</p>
+      <p>The sector laid off nearly 5,000 employees last month, the report said.</p>
+      <p>"In fact, June is historically the slowest month on average for announcements. It is also possible that the deep job losses predicted due to inflation and interest rates will not come to pass, particularly as the Fed holds rates," said Andrew Challenger, senior vice president at the employment firm.</p>
+      <p>Meta Platforms had slashed jobs in May, part of a plan announced in March to eliminate 10,000 roles.</p>
+      <p>Like its peers, Amazon.com in March had said it would axe another 9,000 roles as a part of its second retrenchment drive, as investors also persuaded the firms to cut costs.</p>
+      <p>After a round of multiple rate hikes, the Fed unanimously kept its interest rates steady at the central bank's June meeting that could freeze layoffs and allay fears of employees.</p>
+      <p>"Probably we have already seen the tech sector shed the bulk of its 'at risk' workers, and as such I would expect further Fed tightening to now impact more heavily on other sectors of the US economy," said Stuart Cole, chief macro economist at Equiti Capital.</p>
+      <p>(Reporting by Akash Sriram and Jaspreet Singh in Bengaluru; Editing by Maju Samuel)</p>
+    </div>
+  },
+  {
     id: 575,
     title: 'Stocks drift as investors balance peak rate hopes with oil price rise',
     category: 'Markets',

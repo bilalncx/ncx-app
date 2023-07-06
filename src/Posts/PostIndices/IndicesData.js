@@ -1,5 +1,73 @@
 const data = [
   {
+    id: 554,
+    title: 'Dow Jones Futures Fall: Google, CRM Flash Buy Signals; Meta Threads Gets 10 Million Signups',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Google', 'Meta'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures fell modestly early Thursday, along with S&P 500 futures and Nasdaq futures. The stock market rally fell slightly Wednesday, amid rising Treasury yields and a stronger dollar.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 6, 2023 - 4:08 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-822.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures fell modestly early Thursday, along with S&P 500 futures and Nasdaq futures. The stock market rally fell slightly Wednesday, amid rising Treasury yields and a stronger dollar. Meta launched its Twitter rival Wednesday evening, with a rush of signups to start.</p>
+    	<p>The major indexes just edged lower. It was another quiet session on the major indexes, with Fed minutes having little impact. META stock, Google parent Alphabet (GOOGL) and Salesforce.com (CRM) offset generally weak breadth.</p>	
+    	<p><strong>Meta Platforms (META)</strong> launched Instagram's Twitter rival Wednesday evening, quickly getting more than 10 million sign-ups, according to Meta CEO Mark Zuckerberg. The Instagram Threads app debuts amid ongoing issues for Twitter, now owned by Tesla (TSLA) CEO Elon Musk. Meta shares rose in extended trading.</p>	
+    	<p>GOOGL stock and Salesforce flashed buy signals Wednesday. Meanwhile, MercadoLibre (MELI) is on the cusp of an early entry.</p>
+      <p>META stock is on IBD Leaderboard. Google stock is on SwingTrader. Google was Wednesday's IBD Stock Of The Day.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures were 0.65% below fair value. S&P 500 futures fell 0.6% and Nasdaq 100 futures declined 0.55%, even with META stock giving modest lift.</p>
+      <p>The 10-year Treasury yield rose to 3.97%.</p>
+      <p>Hong Kong's Hang Seng tumbled 3%, amid real estate developer woes and bank stock downgrades.</p>
+      <p>At 8:15 a.m. ET, investors will get the ADP Employment report for June. The Labor Department will release weekly jobless claims at 8:30 a.m. ET and the May JOLTS survey, including job openings, at 10 a.m. The June ISM services index also is due at 10 a.m. Friday morning, the Labor Dept. will reveal its June jobs report.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>What Is Meta's Instagram Threads?</h3>
+      <p>Meta's new text-based Threads is touted as a place where you can "follow and connect directly with your favorite creators and others who love the same things," according to an App Store description. The Threads app shares many features with Twitter. It lets users "like" a post, reply or repost it. Search capabilities are limited.</p>
+      <p>Meta Platforms launched its text-based Threads app at 7 p.m. PT Wednesday, moved up 12 hours from a planned 7 a.m. PT Thursday debut.</p>
+      <p>Meta CEO Mark Zuckerberg launched Instagram Stories in 2016 to take on Snapchat, owned by Snap (SNAP). Instagram Reels, unveiled in 2020, targets after TikTok.</p>
+      <p>Other would-be Twitter rivals, such as Mastodon and Bluesky, have gained users, but have not yet become major threats.  After seven hours, Threads had over 10 million sign-ups, Zuckerberg said Thursday.</p>
+      <p>It joins an ecosystem with more than three billion daily users of at least one of Meta's apps — Facebook, Instagram and WhatsApp.</p>
+      <p>Since Musk took over Twitter for $44 billion last year, the social site has alienated advertisers and many users over a variety of issues. In the past week, Twitter has imposed limits over how many tweets that users can read. This "rate limit," which allegedly is to crack down on unauthorized data scraping and bots, affects non-verified users more.</p>
+      <h3>Meta Stock</h3>
+      <p>META stock popped 2.9% on Wednesday to 294.37, hitting a 17-month high. It's well extended from any possible buy point. Meta Platforms rose more than 1% early Thursday.</p>
+      <h3>Stock Market Rally Wednesday</h3>
+      <p>The stock market rally saw slim declines on the major indexes, with small caps losing a little more. Fed minutes from the June 13-14 meeting, offered few surprises. While pausing rate hikes at that meeting, Fed officials favored more tightening. That's something Fed chief Jerome Powell and other policymakers have stressed since then.</p>
+      <p>The Dow Jones Industrial Average fell 0.4% in Wednesday's stock market trading. The S&P 500 index and Nasdaq composite lost 0.2%. The small-cap Russell 2000 slumped 1.3%, ending a six-session win streak.</p>
+      <p>U.S. crude oil prices rose 2.9% to $71.79 a barrel. Saudi Arabia signaled it'll do what it takes to prop up prices. That comes after it announced Monday that it would extend a voluntary production cut by another month, through August.</p>
+      <p>The 10-year Treasury yield jumped 9 basis points to 3.94%, a four-month high.</p>
+      <p>Amid rising U.S. Treasury yields and weak economic data in Europe and Asia, the U.S. dollar rose modestly, right around key levels.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) fell 0.8%. The iShares Expanded Tech-Software Sector ETF (IGV) closed fractionally higher with CRM stock a major component. The VanEck Vectors Semiconductor ETF (SMH) slumped 1.9%.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) slipped 0.35% and ARK Genomics ETF (ARKG) declined 0.65%. TSLA stock is the No. 1 holding across Ark Invest's ETFs.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) slumped 1.8%. U.S. Global Jets ETF (JETS) climbed 0.3%. SPDR S&P Homebuilders ETF (XHB) declined nearly 1%. The Energy Select SPDR ETF (XLE) slipped 0.55% and the Health Care Select Sector SPDR Fund (XLV) closed just below break-even.</p>
+      <p>The Industrial Select Sector SPDR Fund (XLI) fell 0.5%.</p>
+      <h3>Google Stock</h3>
+      <p>Google stock rose 1.5% to 121.75, rebounding from the 10-week moving average and breaking a downtrend in a short consolidation. Shares also cleared the 21-day line. Investors could use the 21-day line, or the June 30 high of 121.08, as a specific entry. GOOGL stock is on track to have a new base after this week.</p>
+      <h3>Salesforce Stock</h3>
+      <p>CRM stock climbed 1% to 213.82. Much like Google, Salesforce rose off its 10-week line and broke a short downtrend. The stock has a 225 buy point from a flat base, amid several weeks of tight weekly closes, according to MarketSmith analysis.</p>
+      <h3>MercadoLibre Stock</h3>
+      <p>MELI stock jumped 4.5% to 1,247.36. Volume was above average and picked up as MercadoLibre stock revved higher. Shares of the Latin American e-commerce and payments giant cleared its 21-day moving average decisively for the first time in a month and broke a short downtrend. But MELI stock stopped just short of the 50-day line. A clear move over the 50-day would offer an early entry. MercadoLibre stock is working on a 1,365.64 buy point.</p>
+      <p>Keep in mind that MELI stock suffered a number of declines in above average volume over the past several weeks.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The major indexes fell slightly Wednesday after slim gains Monday. Meta Platforms, Salesforce, Google stock and some other megacaps muted broader losses elsewhere.</p>
+      <p>Decliners outpaced advancers considerably Wednesday. Many losers showed little damage, though Generac (GNRC) and Aehr Test Systems (AEHR) tumbled 8% and 11%, respectively.</p>
+      <p>The Invesco S&P 500 Equal Weight ETF (RSP) declined 0.4%, pulling back from its best levels in more than four months.</p>
+      <p>Steelmakers, base metal miners and casinos had a tough day. Some software leaders lost ground, but many came off intraday lows. Medical products firms had another rough session.</p>
+      <p>Travel plays generally did well, or at least held up. So did industrials.</p>
+      <p>After the market rally rebounded last week, stocks are hesitating at pre-pullbacks. A longer pause or slight decline over several days or weeks could be constructive for the stock market rally. The Nasdaq composite closed 7% above its 50-day moving average, with the Nasdaq 100 7.9% above that key level. Those aren't extreme levels, but they aren't far from being so.</p>
+      <h3>What To Do Now</h3>
+      <p>The market rally is going to do what it's going to do. But investors may want to be cautious about adding much exposure in the short term, given the highs odds of sideways action or a renewed pullback.</p>
+      <p>In any case, there weren't too many stocks flashing buy signals on Wednesday, aside from Google and CRM stock.</p>
+      <p>Plenty of stocks are hovering around buy areas in a variety of sectors, even if many retreated Wednesday.</p>
+      <p>Work on those watchlists.</p>
+    </div>
+  },
+  {
     id: 553,
     title: 'Nasdaq refiles BlackRocks bitcoin ETF application with SEC',
     category: 'Indices',
