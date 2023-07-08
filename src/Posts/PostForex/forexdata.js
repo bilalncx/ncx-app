@@ -1,5 +1,78 @@
 const data = [
   {
+    id: 568,
+    title: 'USD/JPY Weekly Price Forecast – US Dollar Pulls Back Drastically',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has fallen rather hard during the course of the trading week, especially on Friday as the Non-Farm Payroll announcement came out at 209,000, as opposed to the 225,000 expected.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 8:41 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-834.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+	    <p>The US dollar has fallen rather hard during the course of the trading week, especially on Friday as the Non-Farm Payroll announcement came out at 209,000, as opposed to the 225,000 expected. Furthermore, it’s worth noting that the previous month had been revised down as well.</p>
+	    <p>Because of this, traders are starting to attempt to bet on the idea that the Federal Reserve is going to change its trajectory, which of course is complete nonsense. However, the market is a little overextended so it does make sense that we can see a bit of profit taking at the first signs of trouble.</p>	
+    	<p>Underneath, we formed a massive bullish flag on the daily chart, which means that somewhere near the ¥140 level, and therefore I think that could be the bottom of the overall pullback.</p>	
+    	<p>All things being equal, I am looking for a bit of value, and that value I will take plenty of advantage of. With that being the case, it is probably only a matter of time before you get the opportunity to start going along again, especially as the swap remains positive for owning this pair, as the Bank of Japan continues to see plenty of reasons to keep its monetary policy loose.</p>
+      <p>As long as that’s the case, and the fact that the Federal Reserve is rather tight, it is very likely that we will see more upward pressure than down, although markets don’t go in one direction forever. All things being equal, I look at any dip as a bit of an opportunity that people will be more than willing to take advantage of.</p>
+    </div>
+  },
+  {
+    id: 567,
+    title: 'GBP/USD Weekly Forecast – British Pound Continues to Rally Significant',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied significantly during the course of the trading week, breaking above the 200-Week EMA. The market looks as if it is heading toward the 1.30 level, but it’s got a lot of resistance in the 1.2850 region.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 8:37 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-833.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The British pound has rallied significantly during the course of the trading week, breaking above the 200-Week EMA. The market looks as if it is heading toward the 1.30 level, but it’s got a lot of resistance in the 1.2850 region.</p>
+	    <p>All things being equal, this is a situation where we will continue to see a lot of noisy behavior, but I do think given enough time we will have to make a bigger decision. Because of this, I think the market will continue to see this as a market that’s trying to break out, but whether or not it is mainly about the overreaction on Friday remains to be seen.</p>	
+	    <p>The Non-Farm Payroll number of course came out lighter than anticipated, so that has had a bit of an effect. If we can break out above the recent highs of the last couple of weeks, then it opens up a move to the 1.30 level.</p>
+      <p>On the other hand, if we pull back from here we could look to find support near the 1.2650 level. The market has continued to be very noisy, and therefore I think you got a situation where we are either going to try to work off some of the excess froth, or simply consolidate.</p>
+      <p>If we do break above the last couple of weeks, then it’s possible that we could have a run toward that 1.30 level, which of course is a large, round, psychologically significant figure. If we break above there, then the market could really continue to go higher.</p>
+      <p>Keep in mind that the Bank of England is very tight with its monetary policy, but at the same time the Federal Reserve seems to be going down the same path. There are enough people out there that believe the Fed will have to slow down that we see a little bit of an uptrend.</p>
+    </div>
+  },
+  {
+    id: 566,
+    title: 'EUR/USD Weekly Price Forecast – Euro Recovers for the Week',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro has initially pulled back a bit during the trading week, only to show signs of life. The candlestick ended up forming a bit of a hammer, and therefore looks like we are going to continue to trade in this overall range.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 8:33 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-832.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The euro has initially pulled back a bit during the trading week, only to show signs of life. The candlestick ended up forming a bit of a hammer, and therefore looks like we are going to continue to trade in this overall range.</p>
+    	<p>All things being equal, the 1.10 level above has offered a little bit of resistance, but if we were to break above there, then we have to deal with the 200-Week EMA, near the 1.11 level.</p>	
+    	<p>On the other hand, if we were to break down below the last couple of candlesticks, it’s possible that we could drop down to the 1.08 level, maybe even down to the 50-Week EMA. All things being equal, this is a market that is going to continue to see a lot of noise due to the fact that both central banks are relatively tight, and therefore people are trying to read what they will do in the future via statements and innuendo.</p>	
+    	<p>It is probably also worth noting that we are between the 200-Week EMA and the 50-Week EMA, so that means we more likely than not will technical traders as well. In general, this is a situation where we are trying to figure out where we are going to go for a longer-term move, and therefore I think we have quite a bit of volatility ahead of us.</p>
+      <p>I think short-term trading is probably more likely than not going to be the case, so longer-term traders will probably have to look at the market from a short-term stance, at least until we can break out of one of the moving averages for a bigger move.</p>
+    </div>
+  },
+  {
     id: 565,
     title: 'USD/JPY Forecast – US Dollar Consolidates Against the Japanese Yen',
     category: 'Forex',

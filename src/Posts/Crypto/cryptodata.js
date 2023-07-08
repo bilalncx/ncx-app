@@ -1,5 +1,214 @@
 const data = [
   {
+    id: 605,
+    title: 'Why Ethereum saw 580,000 new addresses in one week',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'ETH', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Ethereum’s groundbreaking merge introduced staking, but the quiet surge in new addresses and declining ETH on exchanges hint at a promising and confident future.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-827.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ethereum’s groundbreaking merge introduced staking, but the quiet surge in new addresses and declining ETH on exchanges hint at a promising and confident future.</p>
+    	<ul>
+        <li>Ethereum has seen over 580,000 new addresses in the past week.</li>
+        <li>ETH price recovered with less than a 1% increase in price.</li>
+      </ul>
+      <p>The Ethereum [ETH] merge revolutionized the platform by introducing staking, sparking intense discussions throughout the chain. While this groundbreaking event garnered much attention, there’s another metric steadily ascending in the background, silently shaping the future trajectory of ETH with great potential impact.</p>	
+    	<h3>Ethereum new addresses surge</h3>
+      <p>Amidst the focus on Ethereum’s staking and price trends, it’s easy to overlook other crucial metrics. However, recent Santiment data sheds light on a quietly surging aspect: the network’s remarkable growth.</p>	
+    	<p>The data indicated a consistent influx of new users joining the network, signaling potential market cap expansion.</p>
+      <p>A closer examination of the chart revealed that over 580,000 new addresses were created between 1 July and 7 July alone. This remarkable surge further highlighted the underlying strength and promising trajectory of ETH.</p>
+      <h3>ETH on exchanges decline</h3>
+      <p>According to the latest data from Coin Market Cap, Ethereum held an impressive 19% of the total cryptocurrency market cap. With this, it secured its position as the second-largest cryptocurrency, surpassed only by Bitcoin [BTC], which claimed over 49%. Despite ETH’s market dominance, ETH holders actively withdrew their holdings from exchanges.</p>
+      <p>Santiment’s chart revealed that the supply of Ethereum on exchanges, relative to the total supply, stood at a mere 9.1%. This suggested that less than 10% of all ETH remained on exchanges, while the majority had been moved to other storage methods.</p>
+      <p>Further analysis of the chart revealed that approximately 11.3 million ETH was being held on exchanges at press time, indicating a visible decline. This withdrawal trend underscored the growing preference among Ethereum holders for alternative storage solutions.</p>
+      <p>Also, it reflected their confidence in the long-term value of their holdings.</p>
+      <h3>Ethereum price declines as TVL dominates</h3>
+      <p>According to data from DefiLlama, Ethereum maintained its position as the leading blockchain in terms of Total Value Locked (TVL), compared to other chains. As of this writing, the total TVL across all chains was $44 billion, with Ethereum commanding over $26 billion.</p>
+      <p>This meant that Ethereum held more than half of the entire TVL in the market, showcasing its dominant presence in decentralized finance.</p>
+      <p>However, ETH has experienced a recent decline. Nevertheless, there were signs of a potential recovery as of this writing. Ethereum was trading at approximately $1,864, showing a modest increase of almost 1% from its previous value.</p>
+    </div>
+  },
+  {
+    id: 604,
+    title: 'Litecoin overtakes Bitcoin: Is there a new sheriff in town?',
+    category: 'Crypto',
+    subCategory: ['Litecoin', 'Bitcoin', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Litecoin surpassed Bitcoin to emerge as the most used digital asset for payments in the month of June.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-826.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Litecoin surpassed Bitcoin to emerge as the most used digital asset for payments in the month of June.</p>
+      <ul>
+        <li>LTC’s share of the global payments surged to 34.9% in June, up from 28.78% in May.</li>
+        <li>Riding on the positive sentiment, LTC stormed to a 14-month high earlier in the week.</li>
+      </ul>
+    	<p>In a massive boost for the Litecoin [LTC] ecosystem, LTC became the most used crypto for payments for the first time in June, outperforming all major assets, including Bitcoin [BTC].</p>	
+    	<p>As tracked by the world’s largest payment processor BitPay, LTC’s share of the global payments surged to 34.9% in June, a sharp uptick from 28.78% during May. In the process, the “Silver” marginally outpaced the “Gold,” as Bitcoin’s share dropped from 36.39% to 34.06%.</p>
+      <p>Reacting to this significant development, the creator of Litecoin, Charlie Lee, remarked,</p>
+      <p><strong>“Tbh, I wasn’t sure we’d see this day, but it happened! Litecoin payments on BitPay surpassed even Bitcoin.”</strong></p>	
+      <h3>LTC flexing muscles</h3>
+    	<p>LTC has been building strong momentum as its widely anticipated halving event is just round the corner. It was one of the top gainers in the last month among assets, with a market valuation of more than $2 billion. Riding on the positive sentiment, the coin stormed to a 14-month high of $113 earlier in the week, as per CoinMarketCap.</p>
+      <p>It was worth noting that LTC’s total transaction count increased significantly in June, reaching levels comparable to Bitcoin’s daily tally in several cases, as per Glassnode.</p>
+      <p>Litecoin’s demand for facilitating transactions has grown sharply since May when users who were bogged down by huge transaction fees on Bitcoin chose to shift towards less expensive alternatives.</p>
+      <h3>Big addresses offload en masse</h3>
+      <p>LTC whales succumbed to the urge to lock profits and sold a big chunk of their holdings. According to Santiment, the number of addresses holding between 1,000-10,000 coins, categorized as small whales, dropped significantly over the past week.</p>
+      <p>A similar case was encountered for the cohort holding between 100,000-1 million BTCs.</p>
+      <p>This was also demonstrated by the drop-offs in the Mean Coin Age indicator. Thus, there was increased movement of LTC between addresses.</p>
+      <p>However, with the upcoming halving event less than a month away, whales would be looking to rethink their marketing strategies. Historically, LTC prices have soared both before and in the aftermath of the halving.</p>
+      <p>Hence, it won’t be surprising if these addresses start piling up LTC coins in the run-up to the event.</p>
+    </div>
+  },
+  {
+    id: 603,
+    title: 'Cosmos’ Interchain embraces this token’s issuance through KAVA',
+    category: 'Crypto',
+    subCategory: ['Cosmos', 'Interchain', 'KAVA'],
+    description: <div className="blog-desc">
+      <p>Kava blockchain will facilitate USDT’s launch on interchain. This development will not only make it easier for DeFi users to transfer funds from one chain to another, but also make it more cost efficient.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-825.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Kava blockchain will facilitate USDT’s launch on interchain. This development will not only make it easier for DeFi users to transfer funds from one chain to another, but also make it more cost efficient.</p>
+    	<ul>
+        <li>Cosmos enlists Kava blockchain for USDT’s rollout on interchain.</li>
+        <li>USDT interchain rollout fails to yield a significant impact on KAVA.</li>
+      </ul>
+      <p>Cosmos [ATOM] is one of the blockchain networks that have held strong to the idea of an internet of blockchains. However, that vision has been met with challenges regarding interconnectedness. The network’s latest announcement underscores a move aimed at overcoming one of those challenges.</p>
+      <p>Cross-chain transfers usually require bridging and that can involve expensive swaps. But what if DeFi users could transfer one type of asset from one network to another without requiring swaps?</p>
+      <p>That is what Cosmos aims to achieve with the latest development. The network just announced that USDT is now available on Interchain.</p>
+      <p>According to the announcement, the Kava blockchain will facilitate USDT’s launch on interchain. This development will not only make it easier for DeFi users to transfer funds from one chain to another but also make it more cost-efficient.</p>
+      <p>What does this mean for USDT? From a utility point of view, having USDT easily available and transferable in the interchain ecosystem might have some advantages. For example, it translates to easier access to liquidity on more DeFi platforms. Users may also find it easier to use DeFi with native USDT easily transferable within the interchain ecosystem.</p>	
+    	<h3>Assessing KAVA’s performance</h3>
+      <p>As noted earlier, the Kava blockhain which is a Cosmos SDK chain will facilitate the USDT rollout on the interchain. But what does this mean for the Kava network and its native cryptocurrency? Perhaps this major development may unlock more visibility for the network.</p>	
+    	<p>So far Kava has seen a significant surge in market cap in the last 30 days. Kava’s marketcap bottomed out at slightly over $421 million in mid-June but peaked above $704 million on 25 June. It hovered around $578.7 million in the last 24 hours.</p>
+      <p>Kava’s volume also achieved its highest level in the last four weeks on 25 June. It has since receded back to its monthly lows. One would think that Kava would register strong development activity considering the network’s central role in the USDT’s rollout on interchain. However, that has not been the case since the development activity has been declining for the last four weeks.</p>
+      <p>But what about KAVA’s price action? It has so far been one of the most volatile cryptocurrencies. This is evident by the up-and-down movement delivered in the last few months. One KAVA token traded for $0.93 at press time which represented a healthy premium from its lowest price point on a YTD basis.</p>
+    </div>
+  },
+  {
+    id: 602,
+    title: 'LUNC faces declining volume, sloppy price action: What’s next?',
+    category: 'Crypto',
+    subCategory: ['LUNC', 'Declining', 'Sloopy price'],
+    description: <div className="blog-desc">
+      <p>Luna Classic dipped below another key support level, as all-time low trend continued.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 8, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-824.jpg',
+    content: <div className="blog-content">
+      <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>
+    	<h3>In this article:</h3>
+    	<p>Luna Classic dipped below another key support level, as all-time low trend continued.</p>
+      <ul>
+        <li>Luna Classic continued to register a series of all-time lows.</li>
+        <li>Declining Spot CVD highlighted weakening demand.</li>
+      </ul>
+    	<p>Luna Classic’s [LUNC] weakening support levels have seen prices continue to sink to all-time lows (ATLs). With bulls unable to stem the bearish slide, Luna Classic dipped below the $0.00008115 support level as of press time.</p>
+      <p>With LUNC’s price action going contrary to the bullish sentiment in the market, the selling pressure could persist for the foreseeable future.</p>
+      <h3>Can Luna Classic halt the trend of ATLs?</h3>	
+    	<p>Luna Classic has been making a series of all-time lows (ATLs) throughout June. After price rallied briefly on 4 June, the rejection at the $0.0001152 resistance led to LUNC hitting its early-May low again.</p>	
+      <p>A look at the Visible Range Volume Profile (VRVP) highlighted $0.0001234 (Value Area High), $0.0000900 (Point of Control), and $0.00008020 (Value Area Low) as key price action levels.</p>
+      <p>With price dipping below the POC on 28 June, the VAL, along with the support level at $0.00008115, has propped up LUNC in the short term. However, a continuation of the selling pressure could also see these levels cave in.</p>
+      <p>The On Balance Volume (OBV) highlighted the loss of trading volume, with a sharp decline since early June. The Relative Strength Indicator (RSI) also remained firmly under the neutral 50 and edged closer to the oversold zone.</p>
+    	<p>A bullish reversal for Luna Classic will hinge on an uptick in its trading volume. Else, the bearish momentum could last for the mid to long term.</p>
+      <h3>Steep decline of Spot CVD showed weakening demand</h3>
+      <p>A look at the Open Interest (OI) from Coinalyze on the 12-hour timeframe showed a considerable decline on 5 June and 14 June. It showed the hesitation by market speculators to open new positions, due to the ever-increasing selling pressure.</p>
+      <p>Similarly, the Spot CVD, which tracks trading volumes over time, maintained a steep decline. This hinted that the selling volume far outweighed the buying one, highlighting the lack of demand for LUNC in the futures market.</p>
+    </div>
+  },
+  {
+    id: 601,
+    title: 'Avalanche from the lens of subnets: AVAX traders should know that…',
+    category: 'Crypto',
+    subCategory: ['Avalanche', 'AVAX', 'Traders'],
+    description: <div className="blog-desc">
+      <p>Avalanche transactions fell sharply in 2022 but have been recovering on a year to date basis. They have particularly been on the rise in the last 4 months.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-829.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Avalanche transactions fell sharply in 2022 but have been recovering on a year to date basis. They have particularly been on the rise in the last 4 months.</p>
+    	<ul>
+          <li>Avalanche charges through the 500 million transaction milestone.</li>
+          <li>Avalanche subnets have been a critical aid to this achievement.</li>
+      </ul>
+      <p>Avalanche recently celebrated a significant transaction milestone. But perhaps what was even more interesting was the reason behind this transaction growth and what it means for the future of the network.</p>	
+    	<p>Avalanche subnets have been pivotal in securing the network’s growth and offering an advantage over its competition. According to recent data, Avalanche has so far achieved over 500 million transactions.</p>	
+    	<p>Subnets played an important role in achieving this milestone. This is because of the advantages they provide, such as security, scalability, and fast speeds.</p>
+      <p>While subnets have been pivotal to Avalanche’s growth, they are subject to risks, especially those associated with smart contracts. The network has been looking into overcoming such challenges and a recent announcement highlighted its efforts.</p>
+      <p>Avalanche was currently exploring verified smart contracts as a solution. These will reportedly offer more security since they will go through comprehensive verification tests and checks to assess potential vulnerabilities. The verified smart contracts could further boost user confidence and support more utility and transactions.</p>
+      <p>Avalanche transactions fell sharply in 2022 but have been recovering on a year-to-date basis. They have particularly been on the rise in the last four months. Avalanche transaction count is yet to recover to 2021 and 2022 highs despite the recent growth.</p>
+      <h3>Will the growing Avalanche transactions support AVAX recovery?</h3>
+      <p>Avalanche’s native cryptocurrency AVAX traded at $12.67 at press time. This price tag represented a 27% upside from its lowest price point in June. However, it is still near the bottom range but recently ran out of bullish momentum.</p>
+      <p>AVAX’s Money Flow Index (MFI) indicator revealed that the cryptocurrency has been experiencing some outflows since the start of July. On-chain data revealed a dip in both development activity and social dominance.</p>
+      <p>These observations suggested that we may see more price weakness in the coming weeks unless market confidence makes a comeback.</p>
+      <p>However, Avalanche’s development activity metric maintained healthy activity in June. A dip in the last week of the month followed by a rapid recovery was observed. However, the development activity recently dipped again at the start of July, possibly contributing to lower confidence.</p>
+      <p>AVAX’s price action has mostly been moving in tandem with the rest of the crypto market due to a strong correlation. This means that reports of subnets contributing to growth may not necessarily have an impact on trader sentiment in the short term.</p>
+    </div>
+  },
+  {
+    id: 600,
+    title: 'Maker [MKR] delivers a 50% weekly upside fueled by these events',
+    category: 'Crypto',
+    subCategory: ['MKR', 'Maker', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>MKR could be considered as one of the best performing cryptocurrencies especially considering its performance in the last seven days. Additionally, whales were seen buying the token too, which negated any chances of a price correction in the near future.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023', 
+    cover: 'https://ncx.cx/images/ncx-blog-828.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>MKR could be considered as one of the best performing cryptocurrencies especially considering its performance in the last seven days. Additionally, whales were seen buying the token too, which negated any chances of a price correction in the near future.</p>
+    	<ul>
+        <li>Spark protocol coming to Gnosis chain fuels positive sentiment among MKR holders.</li>
+        <li>MKR bulls demonstrate strong momentum and resilience but will sell pressure be imminent?</li>
+      </ul>
+      <p>Maker DAO’s native token MKR was seen making it to the headlines after rallying by more than 50% in the last seven days. This makes it one of the best-performing cryptocurrencies during the aforementioned period.</p>	
+    	<p>MKR owes this performance to a series of favorable events that took place in the last few days. Among those events include the expansion of the Spark protocol to the Gnosis chain. A move that could lead to more utility and demand for the DAI stablecoin. Key benefits include Gnosis chain’s high level of decentralization and lower transaction costs.</p>	
+    	<p>MKR also owes its robust bullish performance to other factors such as MKR repurchase contract deployment and fee capture growth. But just how impressive was its growth? Well, a look at its price action revealed that it traded as low as $870 in the last seven days. It bounced off its 200-day moving average and soared as high as $1080.</p>
+      <h3>Will MKR lend itself to the mercy of the bears?</h3>
+      <p>While we may not know for sure whether MKR will continue rallying or give up recent gains, some metrics offered useful insights. For example, its on-chain volume just peaked at a new monthly high in the last 24 hours. Perhaps a sign that retail buyers have been buying near the latest highs.</p>
+      <p>One of the main reasons why the volume observed is important is because of exit liquidity. Maker’s network growth also peaked at a new monthly high on 3 July. However, it has since dropped and was seen approaching the lower monthly range.</p>
+      <p>While the network growth may look bearish, it is worth noting that MKR is so far holding on to most of its recent gains. This is partly because the whales have also been buying. The latest data on the supply held by top addresses revealed a slight uptick.</p>
+      <p>The supply held by top addresses confirmed that whales were still buying at higher price levels. A sign that the short-term bullish outlook remains strong. It could also mean that strong sell pressure wasn’t anticipated. As such, the MVRV ratio pivoted back up.</p>
+      <p>MKR’s ability to resist the downside will largely depend on whether investors will be incentivized to hodl. The easiest way that can happen is if the crypto market continues with its bullish bias.</p>
+    </div>
+  },
+  {
     id: 599,
     title: 'ETH derivatives demand suggests this about its performance in Q3 and Q4',
     category: 'Crypto',
