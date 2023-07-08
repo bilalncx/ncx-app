@@ -1,5 +1,61 @@
 const data = [
   {
+    id: 567,
+    title: 'Oil Reaches Monthly High as OPEC+ Leaders Tighten Crude Exports',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC+', 'Crude'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil posted a second weekly gain as evidence mounted that the decision by OPEC+ leaders Saudi Arabia and Russia to tighten supplies was making a mark across physical markets.</p>
+    </div>,
+    authorName: 'Julia Fanzeres',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 11:19 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-830.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil posted a second weekly gain as evidence mounted that the decision by OPEC+ leaders Saudi Arabia and Russia to tighten supplies was making a mark across physical markets.</p>
+    	<p>West Texas Intermediate settled near $74, the highest in over a month, supported by risk-on sentiment on Friday. Crude posted its first back-to-back weekly increase since May, with near-term time spreads flipping into a narrow backwardated structure, a bullish pricing pattern.</p>	
+    	<p>Saudi Arabia set large price increases for its crude to Europe and the Mediterranean after announcing an extension into August of its unilateral 1-million-barrel-a-day supply cut. The costlier Saudi grades are pushing refineries across the Atlantic Basin to seek alternatives, causing the price of Norway’s North Sea crude to surge.</p>	
+    	<p>Crude remains down about 10% this year, with tighter monetary policy, China’s lackluster recovery, and resilient Russian exports pressuring futures. This week’s price rise came despite a broad move lower in other risk assets, as robust US jobs numbers reinforced bets the Federal Reserve will keep hiking interest rates.</p>
+      <p>US job gains slowed last month, according to data released Friday, but wage growth remained strong, reinforcing expectations of interest rate hikes.</p>
+    </div>
+  },
+  {
+    id: 566,
+    title: 'This Unlikely Sector Is Leading the Market Higher Friday',
+    category: 'Commodities',
+    subCategory: ['market', 'sector', 'leading'],
+    description: <div className="blog-desc">
+      <p>Technology has been a big winner this year, but this beaten-down part of the market is showing signs of life.</p>
+    </div>,
+    authorName: 'Dan Caplinger, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 10:25 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-831.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Technology has been a big winner this year, but this beaten-down part of the market is showing signs of life.</p>
+    	<p>Markets started out Friday morning with some volatility, as investors tried to parse through the latest employment report from the U.S. Bureau of Labor Statistics to figure out the implications for the economy and monetary policy going forward.</p>	
+	    <p>In particular, many market participants have appeared to be spooked by concerns that the Federal Reserve could boost interest rates higher and keep them at elevated levels longer than previously thought. Yet by early afternoon, major indexes were all higher on the day.</p>	
+    	<p>Given the market's performance, it would be natural to assume that red-hot technology stocks were helping to lead the charge higher. However, on Friday, it was the beaten-down energy sector that posted the strongest gains. Below, you'll learn more about what's happening in energy and whether now's the time to take a closer look at the sector.</p>
+      <h3>How energy rebounded on Friday</h3>
+      <p>There was a lot of interest in energy stocks across the market on Friday. The relatively broad-based Energy Select Sector SPDR (NYSEMKT: XLE) led its sector-focused counterparts with gains of nearly 3% early Friday afternoon.</p>
+      <p>The obvious catalyst for the move was a rise in crude oil prices. West Texas Intermediate climbed by almost $1.50 per barrel, or 2%, to $73.25. Brent crude saw similar percentage gains, with prices approaching the $78 per barrel mark. However, investors on the natural gas side of the sector weren't as fortunate, as August contracts for natural gas were down 2% on the day.</p>
+      <p>A big portion of the gains among stocks within the sector came from the oilfield equipment and services arena. Big players including SLB (SLB 8.61%) and Halliburton (NYSE: HAL) enjoyed gains of 7% to 8%. That was enough to outpace most of the major integrated oil giants that investors follow most closely, although smaller exploration and production companies like Tellurian (NYSEMKT: TELL) and HighPeak Energy (NASDAQ: HPK) managed to climb by 8% to 9%.</p>
+      <p>Drilling companies also did relatively well. Transocean (NYSE: RIG) climbed 7%, while Diamond Offshore Drilling (NYSE: DO) and Noble Corp. (NYSE: NE) were both up 6%. Higher oil prices support more expensive drilling operations offshore, and that's a big part of how drilling companies stay profitable.</p>
+      <h3>Moving downstream</h3>
+      <p>Also seeing gains were shares of oil refining companies. Marathon Petroleum (NYSE: MPC) led the way higher with gains of nearly 5%. However, other major players also saw reasonably strong moves higher, with HF Sinclair (NYSE: DINO) picking up 3.5% and Valero Energy (NYSE: VLO) enjoying a 2.5% rise.</p>
+      <p>Refiners have enjoyed relatively wide spreads between the cost they pay for crude oil and the prices they receive for refined energy products for quite a while now. Favorable price action continued on Friday, as unleaded gasoline futures moved higher by 1.5%, or $0.04 per gallon, to $2.584. Diesel prices climbed even more sharply, reflecting continued high demand from commercial users even amid macroeconomic pressures.</p>
+      <h3>Is energy back?</h3>
+      <p>It's unclear whether the latest move higher in energy stocks will prove fleeting or lasting. Supply cuts from Saudi Arabia and Russia have helped to build a more supportive environment for oil prices, but signs of a potential economic slowdown in the U.S. could lead to questions about demand in the short run.</p>
+      <p>Many energy stocks have largely missed out on the bullish bounce across the broader market in the first half of 2023. If oil and natural gas prices can stop falling and build a more solid foundation, then it could be the signal investors are waiting to see to start investing in energy once again.</p>
+    </div>
+  },
+  {
     id: 565,
     title: 'Iran Floods Global Markets With Cheap Oil as Saudi Arabia Cuts Output',
     category: 'Commodities',

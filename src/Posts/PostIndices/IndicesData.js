@@ -1,5 +1,169 @@
 const data = [
   {
+    id: 557,
+    title: 'Dow Jones Falls On June Jobs Report; Alibaba Jumps On $1.1 Billion Fine',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Alibaba', 'jumps'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average dropped Friday after a weaker-than-expected monthly jobs report from the U.S. Labor Department. Meanwhile, Chinese e-commerce giant Alibaba</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 6:31 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-836.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average dropped Friday after a weaker-than-expected monthly jobs report from the U.S. Labor Department. Meanwhile, Chinese e-commerce giant Alibaba (BABA) jumped as the company faces a $1.1 billion fine on its fintech affiliate, Ant Group.</p>
+    	<p>Friday's employment report for June showed that nonfarm payrolls rose 209,000, below estimates for growth of 213,000 and down from May's 339,000 growth. The unemployment rate ticked lower to 3.6%, in line with estimates.</p>	  
+    	<p>Attention on the report intensified Thursday after the surprise surge in June hiring reported in ADP's National Employment Report. That data sent bond and stock markets spiraling lower on Thursday.</p>	
+    	<p>Elsewhere, Alibaba shares rallied more than 3% Friday after Reuters reported that China's central bank is expected to fine the company's Ant Group $1.2 billion, ending the probe into Alibaba. That will allow Ant Group to revive its business growth and eventually restart plans for an initial public offering.</p>
+      <h3>Stock Market Today</h3>
+      <p>On the earnings front, Levi Strauss (LEVI) tumbled more than 7% after slashing its full-year guidance.</p>
+      <p>Electric-vehicle giant Tesla (TSLA) advanced 0.9% Friday morning. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were lower after today's stock market open.</p>
+      <p>Other stock market leaders include Alphabet (GOOGL) and Meta Platforms (META). GOOGL stock dipped 0.1%, while Meta shares edged higher.</p>
+      <p>Alphabet, Chipotle Mexican Grill (CMG), Dynatrace (DT), MongoDB (MDB) and Nvidia (NVDA) — as well as Dow Jones stocks JPMorgan Chase (JPM), Visa (V) and Salesforce (CRM) — are among the best stocks to watch in the current stock market pullback.</p>
+      <p>Tesla is an IBD Leaderboard stock, while Nvidia this week was featured in the Stocks Near A Buy Zone column. Alphabet and Dynatrace were recent IBD Stocks Of The Day.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Friday's opening bell, the Dow Jones Industrial Average dipped 0.2%, while the S&P 500 inched lower. The tech-heavy Nasdaq composite moved up 0.1% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) traded up 0.4%, while the SPDR S&P 500 ETF (SPY) gained 0.1% early Friday.</p>
+      <p>The 10-year U.S. Treasury yield ticked higher to 4.08% after the jobs report as it continues to break out above recent highs. The yield settled Thursday at 4.04%, its highest level since early March.</p>
+      <p>Oil prices continued higher Friday morning, after slight gains on Thursday. West Texas Intermediate futures traded up around 0.3%, to near $72 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Thursday, the Dow Jones Industrial Average declined 1.1%. In the Dow 30, American Express (AXP) skidded nearly 2.7%, just as it was getting close to a 177.04 buy point in a cup with handle.</p>
+      <p>The S&P 500 and Nasdaq composite both lost 0.8%, well off the session lows. The small-cap Russell 2000 sold off 1.6%.</p>
+      <p>Thursday's Big Picture column commented, "Despite Thursday's sharp losses, the stock market uptrend remains intact. So, IBD's recommended market exposure still sits at 80%-100%. Still, investors should be prepared for the market to pull back some more."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market holds near this year's highs.</p>
+      <h3>Dow Jones Stocks To Watch: JPMorgan, Salesforce, Visa</h3>
+      <p>Dow Jones banking leader JPMorgan ended trading Thursday just below a 143.37 flat-base buy point following the session's 1% decline. The 5% buy zone goes up to 150.54. JPM stock rose 0.6% Friday morning, following an upgrade to outperform from peer perform. Wolfe has its 12-month price target set at 170, about 19% above where shares closed on Thursday.</p>
+      <p>Salesforce managed to steady itself after its post-earnings slump. It is now testing support at the 50-day line and a decisive rebound would create a new buying opportunity. The megacap tech previously moved past a pair of alternative entries at 194.01 and at 200.10, according to IBD Leaderboard analysis.</p>
+      <p>In recent weeks, shares reached the 20% profit zone from a 178.94 cup-with-handle entry. CRM stock inched lower Friday morning.</p>
+      <p>Payments leader Visa closed further above a flat base's 235.57 buy point Thursday, with a gain of 0.6%. The buy range tops out at 247.35. V stock fell 0.8% early Friday.</p>
+      <h3>Best Stocks To Buy And Watch: Alphabet, Chipotle, Dynatrace, MongoDB, Nvidia</h3>
+      <p>Wednesday's IBD Stock Of The Day, Alphabet, is trying to find support around its 50-day line. This week, investors could have used the June 30 high of 121.08 as a buy point. But shares are below that buy trigger after Thursday's loss of nearly 1.4%. Plus, Alphabet shares could have a proper base in another week. GOOGL stock moved down 0.1% Friday morning.</p>
+      <p>IBD Leaderboard watchlist stock Chipotle is trying to break out past flat base's 2,139.88 buy point, according to IBD MarketSmith pattern recognition. An early entry at 2,092.51 was also available due to a trendline. Chipotle was a recent IBD Stock Of The Day. CMG stock fell 0.3% Friday morning.</p>
+      <p>Software maker Dynatrace has formed a three-weeks-tight chart pattern, representing a brief consolidation in which institutional investors pause their buying. Shares are about 3% away from their latest entry at 52.99. DT stock was down 0.4% Friday morning.</p>
+      <p>MongoDB traded tightly after its recent earnings-fueled jump, which offered a new entry. Shares are just above the three-weeks-tight formation that showed a buy point at 398.89 after two straight days of losses. Meanwhile, aggressive investors could have used a trendline entry around 386. MDB stock moved up 0.3% Friday morning.</p>
+      <p>Following its May 25 earnings-fueled gap-up, Nvidia shares have been trending consistently higher. Amid a pullback since June 20, the stock is offering another opportunity to buy shares. It formed a trendline entry at 418 after the stock found support at its 21-day exponential moving average. Nvidia is an IBD Leaderboard stock. Shares gained 0.5% Friday.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla snapped a six-day win streak Thursday, with a 2.1% skid. Still, Tesla shares remain sharply out of buy range beyond a double-bottom's 207.79 buy point.</p>
+      <p>TSLA stock looked to rebound from Thursday's losses, climbing 0.9% Friday.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock continued to hold just off last week's record high at 194.48, rising 0.25% Thursday. Shares continue to hold sharply above a 157.38 buy point. Early Friday, shares fell 0.2% in morning action.</p>
+      <p>Microsoft shares rose another 0.9% Thursday, holding about 4% away from their June 16 all-time high at 351.47. Shares are on pace to end with a modest weekly gain.</p>
+      <p>In recent weeks, the stock reached the 20% to 25% profit zone from a 276.76 flat-base buy point, so investors could have taken at least some profits there. And on Friday morning, Microsoft shares were down 0.4%.</p>
+    </div>
+  },
+  {
+    id: 556,
+    title: 'Dow Jones Futures Fall With Jobs Report Due; Meta Leads 7 Resilient Stocks',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Meta', 'stocks'],
+    description: <div className="blog-desc">
+      <p>The jobs report looms with Treasury yields soaring. Meta is among stocks holding up as Threads had record first-day downloads.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 4:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-837.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The jobs report looms with Treasury yields soaring. Meta is among stocks holding up as Threads had record first-day downloads.</p>
+    	<p>Dow Jones futures tilted lower early Friday, along with S&P 500 futures and Nasdaq futures. The June jobs report looms large.</p>
+      <p>The stock market rally retreated Thursday as strong economic data sent Treasury yields soaring, though indexes pared morning losses somewhat. The ADP Employment Report estimated private payrolls skyrocketed 497,000 in June, more than double forecasts. The ISM services sector index rose more than expected. Initial jobless claims rose modestly, but the four-week average fell while continuing claims slipped. Announced layoff plans declined significantly last month.</p>
+      <p>Meta Platforms (META) held up well as its Threads app grabbed 30 million sign-ups in less than a day for the Twitter rival, perhaps 48 million in 24 hours. It's the fastest number of downloads ever. Twitter threatened legal action vs. its new rival. Tesla (TSLA) CEO Elon Musk, who owns Twitter, said "cheating" is not OK.</p>	
+    	<p>Microsoft (MSFT) rallied amid a price target hike.</p>	
+    	<p>Looking for stocks holding up; Visa (V) and Mastercard (MA) are holding in buy zones, along with DexCom (DXCM). Nvidia (NVDA) continues to trade tightly. HubSpot (HUBS) skidded Thursday morning, but rallied off key support.</p>
+      <p>Meanwhile, the FDA approved Biogen's Alzheimer's treatment Leqembi late Thursday. Biogen (BIIB) and partner Eisai already have accelerated approval, but full FDA approval boosts their chances of getting Medicare reimbursement for Leqembi.</p>
+      <p>Biogen stock was roughly flat early Friday after being halted overnight. Shares edged down 0.3% Thursday. Eli Lilly (LLY), which has a similar Alzheimer's treatment in trial, edged higher overnight. LLY stock dipped 0.5% Thursday.</p>
+      <p>META stock, Nvidia and HubSpot are on IBD Leaderboard. Microsoft stock is on IBD Long-Term Leaders. HUBS stock is on the IBD Big Cap 20.</p>
+      <p>The video embedded in this article discussed Thursday's market action and analyzed MSFT stock, Adobe (ADBE) and HubSpot.</p>
+      <h3>Jobs Report: What To Expect</h3>
+      <p>The Labor Department will release the June jobs report at 8:30 a.m. ET.</p>
+      <p>Economists expect to see an increase of 213,000 jobs, down from May's 339,000. The unemployment rate should slip down to 3.6%. Average hourly wage growth is seen cooling to 4.2% from May's 4.3%.</p>
+      <p>The ADP doesn't have a great track record of predicting Labor's nonfarm payrolls. Still, the odds of a July 26 Fed rate hike are now a near lock at 93%. The odds of yet another quarter-point hike in November rose to roughly 46% on Thursday, up significantly from a couple weeks ago.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures lost 0.1% vs. fair value. S&P 500 futures dipped 0.1% and Nasdaq 100 futures fell 0.2%.</p>
+      <p>The 10-year Treasury yield rose 1 basis points to 4.06%, just below 2023 highs.</p>
+      <p>Copper futures rose slightly.</p>
+      <p>The jobs report is sure to swing Treasury yields and Dow futures before the open.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally Analysis</h3>
+      <p>The stock market rally sold off on soaring yields following the ADP report, though indexes did close off lows. The 10-year Treasury yield advanced 10 basis points to 4.04%, a four-month high. The 2-year yield climbed 5 basis points to 5% after spiking to a 16-year high of 5.12% intraday.</p>
+      <p>The Dow Jones Industrial Average retreated 1.1% in Thursday's stock market trading. The S&P 500 index and Nasdaq composite gave up 0.8%. The small-cap Russell 2000 slumped 1.6% after Wednesday's 1% slide.</p>
+      <p>The Nasdaq and S&P 500 found support around their 10-day moving averages. But the Dow Jones tumbled below its 10-day and 21-day lines, not far from its 50-day average.</p>
+      <p>Market breadth was terrible Thursday, with losers trouncing winners by 6-to-1 on the NYSE and by 3-to-1 on the Nasdaq. That followed negative breadth on Wednesday.</p>
+      <p>The Invesco S&P 500 Equal Weight ETF (RSP) shed 0.8% and the First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) gave up 1.3%. But both rebounded from their 21-day lines.</p>
+      <p>U.S. crude oil prices rose 1 cent to $71.80 a barrel</p>
+      <p>Leading stocks retreated further on Thursday. Many found support at key levels, but not all.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) declined 2%. The iShares Expanded Tech-Software Sector ETF (IGV) gave up just over 1%. MSFT stock is a major IGV component. The VanEck Vectors Semiconductor ETF (SMH) fell 1.2% after Wednesday's 1.9% loss. NVDA stock is the No. 1 SMH holding.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) tumbled 3.8% and ARK Genomics ETF (ARKG) 3.6%.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) shed 1.75%. U.S. Global Jets ETF (JETS) descended 2.2%. SPDR S&P Homebuilders ETF (XHB) stepped down 2%. The Energy Select SPDR ETF (XLE) receded 2.25% and the Health Care Select Sector SPDR Fund (XLV) faltered 0.8%.</p>
+      <p>The Industrial Select Sector SPDR Fund (XLI) lost 0.75%.</p>
+      <p>The Financial Select SPDR ETF (XLF) slid 0.9%, with Visa stock and MA big parts of the XLF ETF. The SPDR S&P Regional Banking ETF (KRE) slid 0.6%.</p>
+      <h3>Meta Stock</h3>
+      <p>META stock dipped 0.8% to 291.99, holding strong after climbing 2.9% to a 17-month high Wednesday in anticipation of the Threads launch.</p>
+      <p>The text-based Threads, part of Instagram, launched Wednesday night and grabbed more than 30 million sign-ups within the first 16 hours. In the first 24 hours, sign-ups topped 48 million, according to one media report, citing internal Meta data. Even the lower figure is by  far the best first-day download on record. For comparison, ChatGPT got 1 million downloads in its first five days.</p>
+      <p>With many celebrities, high-profile journalists and other power Twitter users quickly posting, Threads appears to be the biggest threat yet to Twitter. That site has struggled since Elon Musk bought Twitter for $44 billion last fall. Musk has alienated many users and especially advertisers with various restrictions.</p>
+      <p>Instagram's chief acknowledged that Threads lacks a number of basic features, with staff working hard to introduce them.</p>
+      <p>A lawyer for Twitter threatened legal action vs Meta. In a letter to Meta CEO Mark Zuckerberg, Alex Spiro accused Meta of poaching former Twitter staff and engaging in "unlawful misappropriation of Twitter's trade secrets and other intellectual property."</p>
+      <p>Musk, in a reply to a tweet about that Twitter legal threat, wrote "Competition is fine, cheating is not."</p>
+      <p>Meta, in a response to the Twitter legal threat, said "No one on the the Threads engineering team is a former Twitter employee."</p>
+      <h3>Microsoft Stock</h3>
+      <p>Microsoft stock edged up 0.9% to 341.27, bouncing from near its 21-day line. Morgan Stanley raised its MSFT stock price target to 415 from 335. Shares have consolidated for the past few weeks since hitting a record high 351.47 on June 16. Investors could view the recent pause as a high handle to a consolidation going back to late 2021. But investors should probably wait for a longer pause before seeking out a Microsoft stock entry.</p>
+      <h3>Stocks To Watch</h3>
+      <p>Visa stock slipped 0.2% to 238.88, continuing to hold above a 235.57 flat-base buy point. Mastercard stock dipped 0.3% to 393.14, just above a 392.20 flat-base buy point, according to MarketSmith analysis. The payment giants offered early entries last week, but both are still within range of the 50-day line.</p>
+      <p>Nvidia stock gave up 0.5% to 421.03, above its 10-day line. Shares aren't far from their 21-day line, but they haven't touched that short-term level in two months. NVDA stock has a three-weeks-tight pattern that could turn into a four weeks tight after Friday.</p>
+      <p>A test of the 21-day line, or possibly the 400 level, could be a nice shakeout and let the fast-rising 50-day line close the gap. The official buy point is 439.90, but Wednesday's high of 431.77 would offer an early entry.</p>
+      <p>DexCom stock shaved 0.3% to 127.70, closing above its 126.44 flat-base buy point after finding support at its 21-day line for a third straight session. DXCM stock has struggled to clear a range from the start of November. But shares have trended higher, in choppy form, since late January.</p>
+      <p>HubSpot eked out a 0.1% gain to 521.34, closing above the 21-day line. Shares skidded to an intraday low 497.03 but rebounded from the 10-week line. Investors who bought HUBS stock as it tried to clear a four-weeks-tight at the end of June may have gotten shaken out. But it could set up again.</p>
+      <h3>What To Do Now</h3>
+      <p>The new or renewed market pullback could be constructive, letting new buying opportunities emerge from pullbacks to key levels and possibly forging bases.</p>
+      <p>But investors don't know that current slide will be mild once again, or that their positions will hold up relatively well.</p>
+      <p>It's a time to consider trimming some profits and being quick to cut losses, especially on newer buys.</p>
+      <p>Meanwhile, investors should look for those constructive pullbacks and stocks holding key levels and showing relative strength, such as HUBS stock, Visa and perhaps Nvidia. Watchlists once again may need serious revision in the coming days. But that work can deliver big gains when the market rally revs higher again.</p>
+    </div>
+  },
+  {
+    id: 555,
+    title: 'European shares end higher after worst week in nearly four months',
+    category: 'Indices',
+    subCategory: ['European', 'Shares', 'higher'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -European shares eked out gains on Friday as data pointing to slowing U.S. job growth eased concerns about interest rate hikes by the Federal Reserve</p>
+    </div>,
+    authorName: 'Shreyashi Sanyal',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 11:28 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-835.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>By Shreyashi Sanyal</p>
+	    <p>(Reuters) -European shares eked out gains on Friday as data pointing to slowing U.S. job growth eased concerns about interest rate hikes by the Federal Reserve but did little to change the main STOXX 600 index's worst weekly showing in almost four months.</p>	
+    	<p>The STOXX 600 rose 0.1% by 1615 GMT, turning positive midway through the session after data showed the U.S. economy added the fewest jobs in 2-1/2 years in June.</p>	
+    	<p>However, persistently strong U.S. wage growth pointed to still tight labour market conditions that cemented bets the Fed will resume raising interest rates, later this month.</p>
+      <p>Traders stuck to bets the Fed will raise its benchmark interest rate this month to a 5.25%-5.5% range, but were sceptical of further hikes beyond that.</p>
+      <p>"This doesn't change our view that the Fed is poised to continue its hiking cycle this month," said Candice Tse, global head of strategic advisory solutions at Goldman Sachs Asset Management.</p>
+      <p>"The US economy is still growing below potential, inflation continues to decline, but still remains above the Fed's 2% target, keeping the Fed on track for another 25 bps hike."</p>
+      <p>European equities took a hit this week as hawkish messages from central banks pushed up yields and drove investors to believe rates will remain high for longer, and as bleak economic readings from the euro zone and China fed concerns of a global slowdown.</p>
+      <p>The STOXX 600 fell 3.1% for the week, its worst performance since mid-March.</p>
+      <p>For the day, the chemicals sector led gains with a 1.6% rise.</p>
+      <p>Sectors, including construction & materials, healthcare and travel & leisure, led falls with declines of over 4% each for the week, while defensive real estate remained the sole gainer with a 0.4% rise.</p>
+      <p>Earlier in the day, German industrial production fell 0.2% in May compared with the previous month. Analysts polled by Reuters had predicted that output would stagnate in May.</p>
+      <p>Coca Cola HBC AG jumped 5.1%, after it raised its 2023 profit expectation.</p>
+      <p>Clariant rose 4.9% after paring losses as the company's preliminary second-quarter results showed weaker sales and outlook for current financial year.</p>
+      <p>Top loser on the STOXX 600, OSB Group plunged 28.8%, to hit its lowest since November 2020 after the British lender flagged an up to 180 million pound ($229.4 million) hit as customers refinance their mortgages earlier than forecast.</p>
+      <p>Comments from European Central Bank President Christine Lagarde will be monitored later in the day.</p>
+      <p>(Reporting by Matteo Allievi in Gdansk, Shubham Batra, Shreyashi Sanyal and Ankika Biswas in Bangalore; Editing by Janane Venkatraman, Shinjini Ganguli and Barbara Lewis)</p>
+    </div>
+  },
+  {
     id: 554,
     title: 'Dow Jones Futures Fall: Google, CRM Flash Buy Signals; Meta Threads Gets 10 Million Signups',
     category: 'Indices',

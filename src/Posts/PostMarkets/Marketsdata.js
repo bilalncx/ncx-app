@@ -1,5 +1,314 @@
 const data = [
   {
+    id: 582,
+    title: 'Ants surprise share buyback values firm at steep 75% discount to IPO',
+    category: 'Markets',
+    subCategory: ['Ants', 'discount', 'IPO'],
+    description: <div className="blog-desc">
+      <p>HONG KONG (Reuters) -Ant Group on Saturday announced a surprise share buyback that values the fintech giant at $78.54 billion, well below the $315 billion touted in an abandoned IPO</p>
+    </div>,
+    authorName: 'Julie Zhu and Josh Ye',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 8, 2023 - 6:31 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-838.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Julie Zhu and Josh Ye</p>
+    	<p>HONG KONG (Reuters) -Ant Group on Saturday announced a surprise share buyback that values the fintech giant at $78.54 billion, well below the $315 billion touted in an abandoned IPO in 2020, in a move that may let some investors exit after a lengthy regulatory overhaul of the firm.</p>	
+    	<p>The news came one day after Ant was fined $984 million, which should end a years-long regulatory shake-up of the company and mark a key step to concluding a crackdown on the country's internet sector.</p>	
+    	<p>Ant said it had proposed to all of its shareholders to repurchase up to 7.6% of its equity interest at a price that represents a group valuation of approximately 567.1 billion yuan ($78.54 billion).</p>
+      <p>That represents a steep 75% discount to the $315 billion valuation in 2020 for what was set to be the world's largest IPO had it not been derailed at the last minute by Chinese regulators.</p>
+      <p>"The repurchased shares will be transferred into Ant Group's employee incentive plans to attract talents. The repurchase proposal will also provide a liquidity option for the company's investors," it said.</p>
+      <p>Ant's major shareholders, Hangzhou Junhan Equity Investment Partnership and Hangzhou Junao Equity Investment Partnership, have voluntarily decided not to participate in the repurchase, the company added.</p>
+      <p>Hangzhou Junhan and Hangzhou Junao are the entities that collectively hold more than 50% of Ant's shares on behalf of the company's executives and employees.</p>
+      <p>"While Ant buys back shares at a valuation much lower than the $150 billion figure in the company's last fundraising round in 2018, the plan provides some liquidity to its existing investors," said Zhang Zihua, chief investment officer at Beijing Yunyi Asset Management which is an investor of Ant's affiliate, e-commerce titan Alibaba.</p>
+      <p>"Liquidity might be more important than valuation for some investors that look to exit."</p>
+      <p>He said neither did he nor the markets expect the share buyback at this stage.</p>
+      <p>China's central bank said on Friday that financial regulators would fine Ant and its subsidiaries a total of 7.12 billion yuan.</p>
+      <p>The imposition of the penalty is seen as paving the way for the firm to secure a financial holding company license, to focus on bolstering growth, and eventually, to revive its plans for a stock market listing.</p>
+      <p>"China needs to resolve the Ant IPO to restore investor confidence," said Wang Qi, chief executive of China-focused asset manager MegaTrust Investment.</p>
+      <p>"Any progress here not only benefits Alibaba, but is also good for the internet and fintech industries as a whole."</p>
+      <p>Founded by billionaire Jack Ma, Ant operates China's ubiquitous mobile payment app Alipay as well as consumer lending and insurance products distribution businesses among others.</p>
+      <p>Ant in April 2021 embarked on a sweeping business restructuring, which included turning itself into a financial holding company that would subject it to rules and capital requirements similar to those for banks.</p>
+      <p>For the broader technology sector, Ant's fine marks a key step towards the conclusion of China's bruising crackdown on private enterprises, which began with the scrapping of Ant's IPO in late 2020 and subsequently wiped billions off the market value of several companies.</p>
+      <p>Following the IPO's cancellation and the forced restructuring, some of Ant's global investors cut their valuation of the company, with Fidelity lowering it to $68 billion in mid 2021, Reuters has reported.</p>
+      <p>"The buyback price is higher than the valuations made by many institutions internally ... so I believe that some institutions will choose to participate in the buyback," said Hanyang Wang, an analyst at 86Research.</p>
+      <p>On Friday, Chinese authorities also announced fines against two Chinese banks, an insurer, and Tencent Holdings' online payment platform Tenpay.</p>
+      <p>The People's Bank of China (PBOC) said that most of the prominent problems for platform companies' financial businesses have been rectified and that regulators would now shift from focusing on specific firms to the regular overall regulation of the industry.</p>
+      <p>($1 = 7.2205 Chinese yuan renminbi)</p>
+      <p>(Reporting by Julie Zhu, Josh Ye, Brenda Goh, Zhang Yan and Scott Murdoch; Editing by Shri Navaratnam and Kim Coghill)</p> 
+    </div>
+  },
+  {
+    id: 581,
+    title: 'Stock Market Rally Pulls Back As Yields Jump; Tesla, Meta In Focus: Weekly Review',
+    category: 'Markets',
+    subCategory: ['Tesla', 'Meta', 'Stock'],
+    description: <div className="blog-desc">
+      <p>The stock market rally retreated modestly as Treasury yields rebounded. Tesla deliveries and Meta's Threads launch were catalysts.</p>
+    </div>,
+    authorName: 'IBD STAFF',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 7:36 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-839.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The stock market rally retreated modestly as Treasury yields rebounded. Tesla deliveries and Meta's Threads launch were catalysts.</p>
+    	<p>The stock market rally retreated to start July, with Treasury yields surging on strong economic data. The S&P 500 and Nasdaq fell modestly, while the Dow Jones and Russell 2000 suffered more-serious losses. An expanding U.S.-China chip feud hit many semiconductor stocks.</p>	
+    	<p>Meta Platforms (META) rose as its new Threads app racked up huge sign-ups to kick off a battle vs. Twitter. Tesla (TSLA) and EV plays such as Rivian (RIVN) and BYD (BYDDF) rallied on strong deliveries, while General Motors (GM) and other traditional automakers saw solid Q2 sales.</p>	
+    	<h3>Market Rally Pulls Back</h3>
+      <p>The stock market rally saw losses in the latest week, with the Nasdaq and S&P 500 down modestly and the Dow Jones and Russell 2000 losing a little more. Treasury yields jumped above 4% on strong economic data, though Friday's jobs report was mixed. Tesla (TSLA) rallied on strong Q2 deliveries, along with other EV makers and traditional auto plays.</p>
+      <h3>Jobs Report Mixed</h3>
+      <p>The U.S. economy added 209,000 payroll jobs in June, roughly what was expected before Thursday's ADP blowout. However, just 149,000 of those jobs came from the private sector, 50,000 less than expected and the lowest number since December 2020. Plus, the Labor Department revisions cut a combined 110,000 jobs from the reported gains in April and May.</p>
+      <p>Meanwhile, temporary help services, which economists look to as a potential leading indicator, shed 12,600 jobs. To be sure, there were some offsetting strong points. Hours worked bounced back, suggesting pronounced weakness in prior months may have been a data quirk. Average hourly wages grew 0.4% on the month. Coming along with upward revisions to wage gains in prior months, that left 12-month wage growth at a steady 4.4%, far above the Fed's comfort level.</p>
+      <p>Lastly, the jobless rate ticked back down to 3.6%, with no obvious upward trend. While the June jobs data is clearly strong enough to merit a quarter-point rate hike on July 26, especially with other economic reports generally looking strong, odds dimmed somewhat for additional quarter-point hikes this fall.</p>
+      <h3>Meta's Threads Takes Off</h3>
+      <p>Social media giant Meta Platforms (META) debuted a microblogging service to compete with Twitter. The new service, called Threads, recorded 30 million sign-ups in its first 16 hours of availability. Instagram users can use their existing credentials to log into the Threads app, making for an easy onboarding process.</p>
+      <p>Meta hopes to capitalize on user discontent with Twitter under Elon Musk. Since Musk bought Twitter last October for $44 billion, he has instituted a number of controversial changes. Most recently he capped the number of tweets users could view in a day. Wall Street analysts see the near-term opportunity for Threads as immaterial for Meta, but that would change if it can reach CEO Mark Zuckerberg's goal of 1 billion users.</p>
+      <h3>GM Leads U.S. Auto Sales</h3>
+      <p>General Motors (GM), Toyota (TM) and Ford Motor (F) grew new vehicle sales in the U.S. more than expected during the second quarter, as supply issues continued to improve. The annualized pace of June sales reached 15.8 million units, up nearly 5% from May. GM led Q2 sales by a margin. News on the all-important shift to electric vehicles was more mixed. Both GM and Ford reported EV momentum, but the numbers told a somewhat different story.</p>
+      <p>In Q2, GM sold 15,652 electric vehicles, but mostly older Bolts. Quarterly deliveries of Lyriq and Hummer EVs, which use Ultium batteries, did top 1,000 for the first time. Ford sold 14,843 electric vehicles, not including hybrids, but sales of its newer Mach-E fell 21% amid a plant retooling that crimped the number available for sale.</p>
+      <h3>Tesla, EV Rivals Jump On Deliveries</h3>
+      <p>Tesla (TSLA) stock jumped to its best level in nearly 10 months after reporting a record 466,140 EV deliveries in Q2, well above estimates. Rivian (RIVN) soared on strong production and deliveries, as well as news that Amazon (AMZN) will start using its vans in Europe. BYD (BYDDF) sold a record 253,045 EVs in June and 703,561 in Q2, with the EV and battery giant announcing plans to build three plants in Brazil and formally launching its Denza N7 crossover.</p>
+      <p>Among China EV startups, Li Auto (LI) reported booming sales. Nio (NIO) and XPeng (XPEV) deliveries grew in June vs. May, with Nio benefiting from new and revamped models and optimism growing about XPeng's G6 crossover, which starts deliveries this month.</p>
+      <p>Tesla and China's top EV makers including BYD signed a deal pledging to maintain fair competition and avoid "abnormal pricing," signaling a possible end to a damaging price war in the world's biggest EV market</p>
+      <h3>U.S.-China Chip Feud Expands</h3>
+      <p>The Biden administration plans to restrict Chinese companies' access to U.S. cloud-computing services using advanced AI chips, The Wall Street Journal reported Tuesday, citing sources. The WSJ report comes a week after reports that the U.S. will expand AI chip export restrictions to China, affecting Nvidia (NVDA) and others. Meanwhile, China restricted two key metals used in advanced chip manufacturing. That hit Qorvo (QRVO) and some other chip plays, while lifting shares of MP Materials (MP).</p>
+      <h3>News In Brief</h3>
+      <p>AstraZeneca (AZN) and Daiichi Sankyo stocks plummeted Monday after they jointly announced mixed results for their lung cancer treatment. The treatment led to an improvement in progression-free survival — meaning patients who received the drug lived longer before their cancer worsened than patients who received a standard drug. But the results weren't yet clear for overall survival. Further, some patients died while receiving the experimental drug.</p>
+      <p>The FDA fully approved Alzheimer's treatment, Leqembi. In response, the Centers for Medicare and Medicaid Services said it would reimburse the cost of the Biogen (BIIB) drug for patients who meet certain criteria.</p>
+    </div>
+  },
+  {
+    id: 580,
+    title: 'TikToks Entry Into Music Streaming Raises Concerns For Spotify, Novo Nordisk Accuses Pharmacies Over Illegal Sale Of Obesity Drugs, ChatGPTs Popularity Takes a Hit: Todays Top Stories',
+    category: 'Markets',
+    subCategory: ['tiktok', 'Music', 'NOVO'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Vandana Singh',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 7:31 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-843.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Reuters</p>
+    	<p>TikTok's Entry into Music Streaming Sector Raises Concerns for Spotify's Market Share</p>	
+      <ul>
+        <li>Spotify Technology S.A. (NYSE: SPOT) could be up for a rough ride as ByteDance Ltd-owned short-video company TikTok shared plans to launch a new music streaming service in Brazil and Indonesia.</li>
+        <li>Previously ByteDance said it would stop its existing music streaming service Resso as of September 5 in both countries and maintain its operations only in India.</li>
+        <li>Last year reports suggested ByteDance was eyeing expansion into more countries of its music streaming service.</li>
+      </ul>
+      <h3>Altria-Backed Cannabis Producer Cronos Group Considers Sale, Stock Waivers Amid Takeover Interest</h3>
+      <ul>
+        <li>Cronos Group Inc (NASDAQ: CRON) is exploring options that could include a potential sale after attracting acquisition interest.</li>
+        <li>The Canadian cannabis producer backed by cigarette maker Altria Group Inc (NYSE: MO) has a market value of C$972 million ($727.54 million), is purportedly working with a financial adviser to handle expressions of interest in a deal from other companies, including Curaleaf Holdings Inc (OTC: CURLF).</li>
+        <li>The sale talks involving Cronos highlighted the outlet, come at a time of uncertainty for the cannabis industry "as more favorable regulatory regimes in North America have fueled fierce competition among a growing field of companies."</li>
+      </ul>
+      <h3>Dish Network's Charlie Ergen Explores Consolidation of Telecom Businesses with EchoStar</h3>
+      <ul>
+        <li>DISH Network Corp (NASDAQ: DISH) Chair Charlie Ergen is weighing the merger of the two halves of his telecom empire, Dish and EchoStar Corp (NASDAQ: SATS).</li>
+        <li>In 2008, EchoStar Communications, which Ergen founded as a satellite television equipment distributor in 1980, changed its name to Dish Network and spun off its technology arm as a new company named EchoStar.</li>
+        <li>Currently, Ergen is desperate to sell some of Dish's assets, trying to sell everything that is non-core and to finance financeable holdings as the company struggled to sell assets and battle speculation of possible bankruptcy.</li>
+      </ul>
+      <h3>After Legal Action Against Wellness Clinics, Novo Nordisk Accuses Pharmacies Over Illegal Sale Of Semaglutide-Based Products</h3>
+      <ul>
+        <li>Novo Nordisk A/S (NYSE: NVO) has reportedly filed lawsuits against TruLife Pharmacy, Brooksville Pharmaceuticals, and WellHealth Inc in Florida federal court, accusing the pharmacies of illegally selling products claiming to contain semaglutide, the active ingredient in Novo Nordisk's weight loss and diabetes drugs.</li>
+        <li>The agency said it had received reports of adverse events after patients used compounded versions of semaglutide.</li>
+        <li>Novo Nordisk sought court orders to prohibit the pharmacies from selling the products and requested monetary damages.</li>
+      </ul>
+      <h3>Alibaba Looks To End Regulatory Overhaul On Ant Group</h3>
+      <ul>
+        <li>Alibaba Group Holding Limited (NYSE: BABA) stock is trading higher Friday amid reports of China looking to end its regulatory overhaul on fintech affiliate Ant Group with a penalty of at least 8 billion yuan ($1.1 billion) by Friday.</li>
+        <li>It comes at a time Chinese authorities are keen to boost private sector confidence as the economy struggles to recover.</li>
+        <li>The record penalty will help pave the way to secure a financial holding company license, seek growth, and revive its listing plans.</li>
+        <li>The People's Bank of China (PBOC), pivotal to Ant's revamp, looks to disclose the penalty amount shortly.</li>
+      </ul>
+      <h3>Starbucks Sued By US Labor Agency For Illegal Termination In Seattle Stores</h3>
+      <ul>
+        <li>The National Labor Relations Board has sued Starbucks Corporation (NASDAQ: SBUX) for refusing to reemploy 33 workers after reorganizing stores in Seattle.</li>
+        <li>Starbucks reorganized three downtown Seattle stores, including its flagship store in Pike Place Market.</li>
+        <li>In the plea filed in Seattle federal court, NLRB said SBUX illegally forced 73 workers to reapply for jobs, going against the unionization efforts at one of the branches.</li>
+      </ul>
+      <h3>Washington Post</h3>
+      <p>ChatGPT's Popularity Takes a Hit: Website Traffic and App Downloads Dip in June</p>
+      <ul>
+        <li>Mobile and desktop traffic to ChatGPT's website worldwide declined 9.7% in June over May for the first time since its launch in November, according to Similarweb.</li>
+        <li>Downloads of the bot's Apple Inc's (NASDAQ: AAPL) iPhone app, launched in May, have also steadily fallen since the June peak, according to Sensor Tower.</li>
+        <li>ChatGPT zoomed to an estimated 100 million monthly users in its first two months.</li>
+      </ul>
+    	<p>CNBC</p>	
+      <h3>Zoom Video Expects "Doubling Down" Technology investments In Asia-Pacific Region</h3>
+      <ul>
+        <li>Zoom Video Communications Inc (NASDAQ: ZM) stock is trading higher Friday amid reports of the company "doubling down" on its technology investments in the Asia-Pacific region to boost growth.</li>
+        <li>Zoom's head of international, Abe Smith, acknowledged on CNBC's "Squawk Box Asia" a firm commitment about two years ago to turn on the speed and step on the gas.</li>
+        <li>Smith said Zoom is "extremely optimistic" about the growth of its phone product in Asia Pacific.</li>
+      </ul>
+      <p>Benzinga</p>
+      <h3>Broadcom Considers Major Investment in Spain's Semiconductor Sector Worth $1B</h3>
+      <ul>
+        <li>Broadcom Inc (NASDAQ: AVGO) proposed to invest in a European Union-funded program to develop a semiconductor industry in Spain, CEO Charlie Kawwas tweeted Thursday.</li>
+        <li>The project concerning Broadcom would be worth $1 billion. However, Broadcom is yet to divulge its actual investment in the project.</li>
+        <li>The project would include constructing "large-scale back-end semiconductors facilities unique in Europe," the ministry said.</li>
+      </ul>
+      <h3>Airbus Delivers 72 Airplanes to 48 Customers In June</h3>
+      <ul>
+        <li>Airbus SE (OTC: EADSY) (OTC: EADSF) delivered 72 airplanes to 48 customers in June, with gross orders totaling 902.</li>
+        <li>The company's year-to-date deliveries totaled 316 airplanes to 73 customers.</li>
+        <li>Airbus registered 1,044 net orders in the year's first half after 36 cancellations.</li>
+      </ul>
+      <h3>KKR Buys Stake In PangeaCo, Build Fiber Optic Network Platform</h3>
+      <ul>
+        <li>KKR & Co Inc (NYSE: KKR) disclosed a deal to acquire a majority stake in PangeaCo and existing fiber optic networks of Telefonica del Peru SAA (OTC: CPNBF) and Entel Perú.</li>
+        <li>As per the deal, KKR will buy a stake in PangeaCo, which will subsequently acquire the existing fiber optic networks of Telefónica del Perú and Entel Perú.</li>
+        <li>KKR is investing in its KKR Global Infrastructure Investors III fund. The financial terms were not disclosed.</li>
+      </ul>
+      <p>Bloomberg</p>
+      <h3>Elon Musk's Tesla Laying Off Employees At Shanghai Battery Plant Amidst Price War</h3>
+      <ul>
+        <li>In a recent development, Tesla Inc (NASDAQ: TSLA) has begun laying off some battery production workers at its Shanghai plant.</li>
+        <li>The layoffs come amidst a fierce price war in China, leading to heavy discounts on cars across manufacturers. The exact number of workers to be let go and the specific reasons behind the layoffs remain unclear. Some employees have been offered the option to transfer to other workshops such as stamping, painting, or general assembly.</li>
+      </ul>
+      <h3>LVMH-Backed Firm Considers IPO Of Birkenstock In US Market At Over $6B</h3>
+      <ul>
+        <li>The French fashion giant LVMH Moet Hennessy Louis Vuitton SE (OTC: LVMHF) backed private equity firm is exploring strategic options for Birkenstock, including an initial public offering.</li>
+        <li>Birkenstock is expected to be valued at over $6 billion at IPO.</li>
+        <li>Th firm is working with advisers for potential company listing in the U.S. stock market.</li>
+        <li>As per the report, the IPO may happen this or next year.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 579,
+    title: 'Earnings Watch: Sellers Hit JPMorgan Stock Ahead Of Q2 Results; DAL Gains Altitude Amid Rosy Fundamentals',
+    category: 'Markets',
+    subCategory: ['JP', 'Morgan', 'DAL'],
+    description: <div className="blog-desc">
+      <p>JPMorgan stock is back near a buy point ahead of the company's Q2 report. Citigroup, Wells Fargo and Delta Air Lines are also set to report.</p>
+    </div>,
+    authorName: 'KEN SHREVE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 7:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-840.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>JPMorgan stock is back near a buy point ahead of the company's Q2 report. Citigroup, Wells Fargo and Delta Air Lines are also set to report.</p>
+    	<p>Delta Air Lines (DAL) and JPMorgan (JPM) kick off second-quarter earnings season in the coming week. Delta stock hasn't looked back after soaring out of a cup base last month, while JPMorgan stock has come under selling pressure after trying to clear a flat base.</p>
+      <p>The stock market uptrend has come under some selling pressure in recent days, hurt in part by rising interest rates. After jumping 9 basis points Wednesday to around 3.95%, the yield shot up another 9.7 basis points Thursday to 4.04%. The latest jump came after the monthly private payroll report from ADP showed job growth of 497,000 in June, more than double the 235,000 consensus.</p>
+      <h3>JPMorgan Stock Tests Buy Area</h3>
+    	<p>JPMorgan has one of the better looking charts in the money center group, which ranks in the bottom quartile of IBD's 197 industry group rankings.</p>	
+	    <p>JPM stock broke out of a flat base last week in heavy volume. But two days of selling have knocked JPM just below a 143.37 entry. Support levels to watch for JPM are the 21-day exponential moving average around 141.50 and 50-day line near 139.</p>
+      <p>JPMorgan stock gapped up on April 14 when the company reported strong Q1 results. Adjusted profit rose 37% from the year-ago quarter to $4.10 a share. Revenue increased 25% to $38.3 billion, helped by a 49% jump in net interest income to $20.8 billion.</p>
+      <p>For Q2, the Zacks consensus estimate is for adjusted profit of $3.63 a share, up 31.5%, with revenue up 21% to $37.04 billion. Results are due Friday before the open, along with other financial stocks like Citigroup (C), Wells Fargo (WFC) and BlackRock (BLK).</p>
+      <p>A rising interest rate environment can be good for banks because banks earn money from the difference between the interest rates they charge on loans and the interest rates they pay on deposits. When interest rates rise, the spread between these two rates widens, increasing the banks' net interest margins and ultimately lifting profits.</p>
+      <h3>Delta Thrusts Higher</h3>
+      <p>Other strong price performers like Delta Air Lines, Cintas (CTAS) and Fastenal (FAST) are scheduled to report Thursday before the open.</p>
+      <p>Last month, Delta announced bullish guidance, forecasting full-year adjusted earnings of $6 a share. That was at the high end of a prior forecast in April.</p>
+      <p>The airline operator also forecast Q2 adjusted earnings per share of $2.25 to $2.50, up from prior guidance range of $2 to $2.25 a share. The Zacks consensus is for adjusted profit of $2.42 a share, up 68%. Revenue is expected to increase 9% to $15.01 billion.</p>
+      <p>Uniform maker Cintas, meanwhile, has an outstanding Earnings Stability Rank of 5, indicating one of the most consistent track record of annual earnings growth around.</p>
+      <p>Quarterly profit is seen rising 13.5% to $3.19 a share, with revenue up 8% to $2.25 billion.</p>
+      <p>Fastenal, a distributor of industrial and construction supplies, is still in a buy zone from a 55.34 entry as it holds support at the 21-day exponential moving average.</p>
+      <p>Quarterly profit is seen rising 4% to 52 cents a share, with revenue up 6% to $1.89 billion.</p>
+      <h3>Options Trading Strategy</h3>
+      <p>A basic options trading strategy around earnings — using call options — allows you to buy a stock at a predetermined price without taking a lot of risk. Here's how the options trading strategy works and what a call option trade recently looked like for JPMorgan stock.</p>
+      <p>First, identify top-rated stocks with a bullish chart. Some might be setting up in sound early-stage bases. Others might have already broken out and are getting support at their 10-week lines for the first time. And a few might be trading tightly near highs and refusing to give up much ground. Avoid extended stocks that are too far past proper entry points.</p>
+      <p>In options trading, a call option is a bullish bet on a stock. Put options are bearish bets. One call option contract gives the holder the right to buy 100 shares of a stock at a specified price, known as the strike price.</p>
+      <h3>Check Strike Prices</h3>
+      <p>Once you've identified an earnings setup for a call option, check strike prices with your online trading platform, or at Cboe.com. Make sure the option is liquid, with a relatively tight spread between the bid and ask.</p>
+      <p>Look for a strike price just above the underlying stock price (out of the money) and check the premium. Ideally, the premium should not exceed 4% of the underlying stock price at the time. In some cases, an in-the-money strike price is OK as long as the premium isn't too expensive.</p>
+      <p>Choose an expiration date that fits your risk objective, but keep in mind that time is money in the options market. Near-term expiration dates will have cheaper premiums than those further out. Buying time in the options market comes at a higher cost.</p>
+      <p>This options trading strategy lets you capitalize on a bullish earnings report without taking too much risk. Risk is equal to the cost of the option. If the stock gaps down on earnings, the most you can lose is the amount paid for the contract.</p>
+      <h3>JPMorgan Stock Option Trade</h3>
+      <p>Here's how a recent call option trade looked for JPMorgan, a liquid name in the options trading market.</p>
+      <p>When JPMorgan stock traded around 142.50, a slightly out-of-the-money weekly call option with 143 strike price (July 28 expiration) came with a premium of around $3 per share on that contract, or 2.1% of the underlying stock price at the time.</p>
+      <p>One contract gave the holder the right to buy 100 shares of JPMorgan stock at 143 per share. The most that could be lost was $300 — the amount paid for the 100-share contract.</p>
+      <p>When taking the premium paid into account, JPMorgan stock would have to rally past 146 for the trade to start making money (143 strike price plus $3 premium per contract).</p>
+    </div>
+  },
+  {
+    id: 578,
+    title: 'Alibaba Surges on Report China to Unshackle Ant With Fine',
+    category: 'Markets',
+    subCategory: ['Alibaba', 'China', 'Ant'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Alibaba Group Holding Ltd. soared on a report that China is preparing to announce a fine of more than $1.1 billion on its fintech affiliate, signaling a wide-ranging probe that has weighed on Jack Ma’s empire for years may finally be drawing to a close.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 7, 2023 - 1:03 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-841.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Alibaba Group Holding Ltd. soared on a report that China is preparing to announce a fine of more than $1.1 billion on its fintech affiliate, signaling a wide-ranging probe that has weighed on Jack Ma’s empire for years may finally be drawing to a close.</p>
+    	<p>China’s central bank is expected to disclose the fine against Ant Group Co. as soon as Friday, Reuters said, citing people with knowledge of the matter. That will allow Ant to seek a financial holding company license, revive growth and eventually resurrect plans for an initial public offering, it added.</p>
+      <p>Alibaba’s shares rose 3.4% in Hong Kong on Friday. The company’s American Depositary Receipts rose about 2.6% in premarket trading before New York exchanges opened.</p>
+      <p>“The market likes it because scrutiny looks likely to be over and the fine, though big in absolute terms, is very manageable for such a big company,” said Vey-Sern Ling, managing director at Union Bancaire Privee. An 8 billion yuan fine would be less than the estimated 9.6 billion yuan profit that Ant generated in the December quarter.</p>	
+    	<p>The probe into Ant marked the symbolic start of a withering crackdown on the broader Chinese internet industry, which wiped hundreds of billions of dollars off the value of sector leaders from Alibaba to Tencent Holdings Ltd. Allowing the fintech giant to resume business growth would kindle hopes that Beijing will finally unfetter its giant private sector, part of a nationwide effort to resuscitate a flagging economy.</p>
+      <p>Ant Group didn’t immediately respond to a Bloomberg request for comment.</p>
+      <p>Regulators killed Ant’s IPO in 2020 after Ma angered Beijing with a public critique of financial regulators. The government began a clampdown on the private tech sphere shortly after, accusing Alibaba of monopolistic behavior before levying a record fine for the alleged violations.</p>
+      <p>Even if Beijing lifts the clamps on Ant, the years of relentless scrutiny have reduced the billionaire’s empire to a shadow of its former self.</p>
+      <p>Ant’s bottom line has eroded since the days it was preparing for the world’s largest IPO in 2020, while Alibaba is in the process of splitting into six main businesses from cloud services to meal delivery and logistics. While investors initially cheered the potential creation of value, Alibaba’s shares have come off their 2023 highs and have shed more than $600 billion of their value since the Ant episode began.</p>
+      <p>The central bank ordered Ant to fold all financial units into a holding company in 2021. It also told the firm to open up its payments app to competitors and sever improper linking of payments with other products including its lending services.</p>
+      <p>Market watchers had since been awaiting the conclusion of the probe to gauge Beijing’s stance on China’s sprawling internet sector. Authorities had pledged to unwind crackdowns that ensnared private sectors from technology to online education, at a time when the world’s second-largest economy is struggling to get back on its feet.</p>
+    	<p>While the latest development may signal Beijing’s efforts to follow through on its pledges to support the sector, more solid actions may be required to stabilize investor confidence. Ant is still awaiting a regulatory greenlight to start reviewing its application for setting up the financial holding company and resume its IPO in the longer run.</p>
+      <p>“Ant is a very different company from before with all the restrictions in place and its valuation should be much smaller,” Ling said.</p>
+      <p>While Ant fetched a valuation of $280 billion pre-IPO, the myriad regulations imposed over the past two-plus years mean it’s now worth a fraction of that, as it’s now more “fin” than “tech.”</p>
+      <p>Ma gave up his controlling rights of Ant earlier this year, complicating its prospects for an IPO anytime soon.</p>
+      <p>Companies can’t list domestically on the country’s so-called A-share market if they have had a change in control in the past three years — or in the past two years if listing on Shanghai’s STAR market, which is geared toward new technology companies. For Hong Kong’s stock exchange, this waiting period is one year.</p>
+      <p>--With assistance from Edwin Chan, Zheng Li and Charlotte Yang.</p>
+    </div>
+  },
+  {
+    id: 577,
+    title: 'Global stocks index flat, Dollar falls on mixed U.S. jobs data',
+    category: 'Markets',
+    subCategory: ['Global', 'Stocks', 'index'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) - MSCI's global equity index ended Friday's session virtually unchanged while the dollar was lower as government data showed that U.S. jobs growth</p>
+    </div>,
+    authorName: 'Sinéad Carew',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'JUly 7, 2023 - 6:12 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-842.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Sinéad Carew</p>
+    	<p>NEW YORK (Reuters) - MSCI's global equity index ended Friday's session virtually unchanged while the dollar was lower as government data showed that U.S. jobs growth slowed more than expected in June, easing worries about the outlook for Federal Reserve rate hikes.</p>	
+    	<p>But while investors appeared to hold out hope for a less hawkish Fed, they were also looking cautiously to the week ahead, with key U.S. inflation readings due along with the start of the second-quarter earnings season.</p>	
+	    <p>Official U.S. nonfarm payrolls on Friday showed employers added 209,000 new hires in June, below forecasts, while May numbers were revised down by 33,000 to 306,000. Still, the unemployment rate fell to 3.6% in June from 3.7% in May and average hourly earnings rose 0.4%, the same as May.</p>
+      <p>On Thursday, private payroll provider ADP's strong U.S. labor market data had sparked an equities sell-off and boosted Treasury yields.</p>
+      <p>While Friday's government data was initially met with a more muted market reaction, stocks gained some ground during the session before losing ground again in afternoon trading.</p>
+      <p>"Investors are more cautious going into a very important week with the beginning of earnings season and a very important inflation reading mid week," said Quincy Krosby, chief global strategist, LPL Financial in Charlotte, North Carolina.</p>
+      <p>Earlier in the session traders appeared relieved that payrolls came in "much lower than feared, based on the ADP report," said Sam Stovall, chief investment strategist at CFRA Research, adding that investors may have concluded that they "over-reacted" on Thursday.</p>
+      <p>"Investors still have a bullish mindset and are using near-term weakness as a buying opportunity," Stovall added.</p>
+      <p>However, the Dow Jones Industrial Average fell 187.38 points, or 0.55%, to 33,734.88, the S&P 500 lost 12.64 points, or 0.29%, to end at 4,398.95 and the Nasdaq Composite dropped 18.33 points, or 0.13%, to close at 13,660.72.</p>
+      <p>MSCI's gauge of stocks across the globe shed 0.05% after rising as much as 0.6% earlier on Friday. Emerging market stocks lost 0.41%.</p>
+      <p>While traders still were still betting on a more than 90% chance that the Fed would raise rates by a quarter of a percentage point in late July, expectations for another hike in September fell slightly, according to CME Group's FedWatch tool.</p>
+      <p>The dollar slumped after the labor market data as some traders were betting that the Fed could cut rates sooner than previously expected. Also the yen jumped sharply against the dollar.</p>
+      <p>The dollar index fell 0.795%, with the euro up 0.73% to $1.0965.</p>
+      <p>The Japanese yen strengthened 1.40% versus the greenback at 142.10 per dollar, while Sterling was last trading at $1.2835, up 0.75% on the day.</p>
+      <p>Some U.S. Treasury yields dialed down on Friday, although longer-dated yields were higher, after the jobs data calmed worries the Fed could become more aggressive with rate hikes.</p>
+      <p>Benchmark 10-year notes were up 2.3 basis points to 4.064%, from 4.041% late on Thursday. The 30-year bond was last up 4.6 basis points to yield 4.0491%, from 4.003%. But the 2-year note was last was down 6 basis points to yield 4.9459%, from 5.006%.</p>
+      <p>In commodities, oil prices rose to 6-week highs as supply concerns outweighed fears about that more rate hikes could slow economic growth and reduce demand for oil.</p>
+      <p>U.S. crude settled up 2.87% to $73.86 per barrel and Brent finished at $78.47, up 2.55% on the day.</p>
+      <p>Spot gold added 0.7% to $1,924.13 an ounce. U.S. gold futures gained 0.89% to $1,925.60 an ounce.</p>
+      <p>(Reporting by Sinéad Carew, Caroline Valetkevitch in New York, additional reporting by Nell Mackenzie and Naomi Rovnick in London, Tom Westbrook in Sydney; Editing by Andrew Heavens, David Holmes, Will Dunham and David Evans)</p>
+    </div>
+  },
+  {
     id: 576,
     title: 'US layoffs halve in June as tech job cuts ease - report',
     category: 'Markets',
