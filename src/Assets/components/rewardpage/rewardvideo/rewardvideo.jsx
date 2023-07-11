@@ -24,7 +24,7 @@ function Home6thVideoSection(){
                                     <p>{t("new_user_must_complete_at_least_one_purchase")}</p>
                                 </div>
                                 <div className="buttoninfo">
-                                    <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" alt="NCX Task Start">{t("sign_up")}</Button>
+                                    <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" alt="NCX Task Start">{t("sign_up")}</Button>
                                     <NCXInfoIcon />
                                 </div>
                             </div>

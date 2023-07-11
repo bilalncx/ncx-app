@@ -27,7 +27,7 @@ function Indices5()
                         <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
                             {/* <img src={Device4} alt="ncx_platform" /> */}
@@ -53,7 +53,7 @@ function Indices5()
                         <p>{t("ncx_c_trader_web_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
                             <img src={Device2} alt="ncx_platform" />
@@ -70,7 +70,7 @@ function Indices5()
                         <p>{t("ncx_c_trader_windows_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
                             <img src={Device1} alt="ncx_platform" />
@@ -84,7 +84,7 @@ function Indices5()
                         <p>{t("ncx_c_trader_ios_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="ipad__gg">
                             <img src={Device3} alt="ncx_platform" />

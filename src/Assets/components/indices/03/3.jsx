@@ -34,7 +34,7 @@ function Indices3()
                             <li><strong>{t("diversify_your_exposure")}</strong> {t("diversify_your_exposure_text")}</li>
                         </ul>
                         <div className="tiy__bd">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="download">{t("sign_up")}</Button>
                             <Button href="#" className="sign__up">{t("get_the_app")}</Button>
                         </div>
                     </div>

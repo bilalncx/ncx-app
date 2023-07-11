@@ -68,7 +68,7 @@ function NCXAPPSection()
                 <div className="container">
                     <h1>NCX Hybrid Exchange</h1>
                     <div className="hyng">
-                        <Button href="https://my.ncx.cx/register/" target="__blank" rel="noreferrer" className="mki__lo">Sign Up</Button>
+                        <Button href="https://exchange.ncx.cx/register" target="__blank" rel="noreferrer" className="mki__lo">Sign Up</Button>
                         <Button href="#features" className="bnb_mki">View Features</Button>
                     </div>
                 </div>
@@ -89,7 +89,7 @@ function NCXAPPSection()
                     <h1>NCX Exchange</h1>
                     <p>First all-in-one Hybrid CEX | DEX Crypto Exchange, <span>Trading Platform & DeFi Ecosystem</span></p>
                     <div className="home__btnff">
-                        <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
+                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
                         <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
                     </div>
                 </div>

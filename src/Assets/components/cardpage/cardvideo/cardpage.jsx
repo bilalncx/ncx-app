@@ -73,7 +73,7 @@ function CardfirstSection()
                                 </div>
                                 <p className="cardp2">{t("one_card_unlimited_possibilities")}</p>
                                 <div className="prod-butns">
-                                    <a className="der-buttons" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_up")}</a>
+                                    <a className="der-buttons" href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">{t("sign_up")}</a>
                                     <a className="buycrypt-btn" href="#" target="_blank" rel="noreferrer">{t("get_the_app")}</a>
                                 </div>
                             </div>

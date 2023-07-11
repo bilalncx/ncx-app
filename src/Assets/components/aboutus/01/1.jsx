@@ -49,7 +49,7 @@ function FirstVideo()
                 <div className="container">
                     <div className="insse">
                         <h1>{t("about_ncx_hybrid_cex_dex_ecosystem")}</h1>
-                        <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
+                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
                     </div>
                 </div>
             </div>

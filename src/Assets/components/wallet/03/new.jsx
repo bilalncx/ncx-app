@@ -32,7 +32,7 @@ function Indices5()
                         <p>Gain full control over your crypto assets and private keys. Easily manage tokens across 12+ Blockchains.</p>
                         <p>Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora, xDai, Harmony, Heco, OKEx Chain.</p>
                         <div className="tiy__bd">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
                             <Button href="#" className="sign__up">Claim Airdrop</Button>
                         </div>
                         <div className="pho__img viso__ff">
@@ -56,7 +56,7 @@ function Indices5()
                         <p>Swap 500k+ Tokens across 10 Chains with NCX Cross-Chain Swap. Migrate assets between different chains.</p>
                         <p><span>With built-in Cross-Chain</span><span>Swap get the best price on every swap.</span></p>
                         <div className="tiy__bd">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
                             <Button href="#" className="sign__up">Claim Airdrop</Button>
                         </div>
                         <div className="pla__img gf__grthbh">
@@ -83,7 +83,7 @@ function Indices5()
                         <p>Our Gas Meter gives you real-time updates on gas fees and transaction speeds.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             {/* <img src={Device4} alt="ncx_platform" /> */}
@@ -108,7 +108,7 @@ function Indices5()
                         <p>Import custom Tokens easily with just 2 clicks.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             {/* <img src={Device2} alt="ncx_platform" /> */}
@@ -135,7 +135,7 @@ function Indices5()
                         <p>View your NFTs Collection and share with friends, all your favorite NFTs in one place.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             {/* <img src={Device1} alt="ncx_platform" /> */}
@@ -160,7 +160,7 @@ function Indices5()
                         <p>Choose from over 200 Cryptocurrencies and 95 Fiat Currencies, choose between 16 Payment Providers for the Best Rate and Payment Method.</p>
                         <div className="tiy__bd">
                             <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             {/* <img src={Device3} alt="ncx_platform" /> */}
@@ -187,7 +187,7 @@ function Indices5()
                         <p>Seamlessly connect to swap, farm, and mine on the hottest DeFi protocols.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             {/* <img src={Device1} alt="ncx_platform" /> */}
@@ -212,7 +212,7 @@ function Indices5()
                         <p>Import unlimited wallets into NCX DeFi Wallet, keep full custody of your assets with all added benefits of.</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">Download</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             {/* <img src={Device3} alt="ncx_platform" /> */}

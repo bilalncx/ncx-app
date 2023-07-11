@@ -109,7 +109,7 @@ function SupportPageSet()
                                 </ul>
                                 <h1 className="support_ticket">{t("open_support_ticket")}</h1>
                                 <p className="support_txt">{t("open_support_ticket_text")}<a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
+                                <a className="support_signin" href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
                                 <div className="social-icons">
                                     <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
                                     <div class="icons"><a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><img src={Instagram} alt="NCX" title="Instagram" /></a></div>

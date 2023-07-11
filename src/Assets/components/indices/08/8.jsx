@@ -33,7 +33,7 @@ function Indices8(){
                             <span>{t("trade_world_markets_ncx_superior_execution")}</span>
                         </div>
                         <div className="hh__btn">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
                             <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
                     </div>
@@ -59,7 +59,7 @@ function Indices8(){
                             <span>{t("trade_world_markets_ncx_superior_execution")}</span>
                         </div>
                         <div className="hh__btn">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
                             <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
                     </div>
