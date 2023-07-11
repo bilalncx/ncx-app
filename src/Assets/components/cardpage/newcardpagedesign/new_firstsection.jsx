@@ -23,7 +23,7 @@ function CardFirstNew()
                     <h1>NCX Crypto Debit Card</h1>
                     <div className="hyng">
                         <Button href="#compare-cards" className="bnb_mki">Compare Cards</Button>
-                        <Button href="https://exchange.ncx.cx/register" className="mki__lo">Sign Up</Button>
+                        <Button href="https://exchange.ncx.cx/register" target="_blank" className="mki__lo">Sign Up</Button>
                     </div>
                 </div>
             </div>
