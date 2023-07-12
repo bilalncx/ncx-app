@@ -1,5 +1,161 @@
 const data = [
   {
+    id: 609,
+    title: 'Digital assets report: Inflows rise even as crypto market stagnates',
+    category: 'Crypto',
+    subCategory: ['Digital', 'Assets', 'market'],
+    description: <div className="blog-desc">
+      <p>Inflows from digital asset investment products totaled $136 million last week, bringing the third consecutive week of inflows to $470 million, CoinShares found in a new report.</p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 ', 
+    cover: 'https://ncx.cx/images/ncx-blog-856.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Leading coins BTC and ETH logged inflows last week.</li>
+        <li>Short BTC and Short ETH, on the other hand, posted outflows.</li>
+      </ul>
+    	<p>Inflows from digital asset investment products totaled $136 million last week, bringing the third consecutive week of inflows to $470 million, CoinShares found in a new report.</p>
+    	<p>According to the digital assets investment firm, the past three weeks of consecutive inflows successfully corrected the preceding nine weeks of outflows, which totaled $423 million. This brought the year-to-date flows to a net positive $231 million.</p>	
+    	<p>Interestingly, despite the inflows logged last week, the period was marked by a decrease in trading turnover. CoinShares found:</p>	
+    	<p><strong>“Trading turnover has slowed though, with investment products totaling US$1bn for the week compared to US$2.5bn average in the prior 2 weeks. These lower volumes may be due to the seasonal effects, where lower volumes are typically seen during July and August.”</strong></p>
+      <h3>Bitcoin takes the front seat</h3>
+      <p>For the third consecutive week, Bitcoin [BTC] remained “the focus amongst investors,” as the king coin logged inflows, totaling $133 million, last week. This accounted for 98% of the total inflows recorded during that period.</p>
+      <p>Although BTC lingered within a narrow price range during that period, an 8% uptick was seen in inflows into digital assets last week.</p>
+      <p>The additional $133 million in inflows brought the leading coin’s YTD net inflows to $290 million, with its assets under management (AuM) valued at $25 billion.</p>
+      <p>This represented the second week of BTC logging a net inflow YTD, having been in a net outflow position of $171 million three weeks ago.</p>
+      <p>On the other hand, short-Bitcoin investment products saw an outflow of $1.18 million last week, representing 11 weeks of consecutive outflows. However, despite this recent bearishness for short-Bitcoin, it remained the second best-performing asset in terms of inflows YTD at $58 million, data from the report showed.</p>
+      <h3>Ethereum recorded inflows, but at what cost?</h3>
+      <p>While leading altcoin Ethereum [ETH] posted inflows that totaled $2.9 million, CoinShares noted that the coin “has only marginally benefitted from improved investor sentiment.” The report stated:</p>
+      <p><stong>“The last 3 weeks of inflows represent just 0.2% of total assets under management (AuM) compared to Bitcoin’s 1.9%, and remains in a negative net flows position year-to-date of US$63m.”</stong></p>
+      <p>As for other altcoins, Solana [SOL], Ripple [XRP], Polygon [MATIC], and Litecoin [LTC] recorded inflows of $1.2 million, $900,000, $800,000, $500,000, respectively, while Cosmos [ATOM] and Cardano [ADA] saw minor outflows.</p>
+    </div>
+  },
+  {
+    id: 608,
+    title: 'Cardano: Sinking development activity, price dips and more',
+    category: 'Crypto',
+    subCategory: ['Cardano', 'development', 'Price'],
+    description: <div className="blog-desc">
+      <p>Though Cardano’s development activity went down, its weekly report highlighted the efforts made by the developers in the last seven days.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 ', 
+    cover: 'https://ncx.cx/images/ncx-blog-855.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Though Cardano’s development activity went down, its weekly report highlighted the efforts made by the developers in the last seven days.</p>
+	    <ul>
+        <li>Cardano’s total number of transactions exceeded 70 million, while native tokens reached 8.51 million.</li>
+        <li>ADA was down by over 3% in the last 24 hours, but a key metric suggested a trend reversal.</li>
+      </ul>
+      <p>On-chain metrics revealed that Cardano [ADA] witnessed a substantial decline in development activity last week. However, Cardano’s weekly development report told a different story. While this happened, ADA’s price action continued to support the bears. However, a look at the derivatives market suggested that the scenario might soon turn in the bulls’ favor. </p>	
+	    <h3>This is what Cardano’s last week looked like</h3>
+      <p>As per Santiment’s chart, ADA’s development activity dropped considerably over the last week. This is a negative signal for a blockchain, as it means fewer efforts were made by developers to improve the network.</p>	
+    	<p>However, Cardano’s weekly development report told a different story, as it mentioned the work done by all of its different teams last week along with updated network stats. As per the report, the Hydra team implemented end-to-end functionality for external commits, and tested it on the preview environment. The Mithril team created a new distribution pre-release, 2327.0-pre, and initiated testing of the new production signer deployment model with the pioneer SPOs.</p>
+      <p>On the other hand, the Voltaire team continued conversations on CIP-1694 to establish an initial Minimum Viable Governance (MVG) framework. To clear the air, this framework is crucial for the advancement of participatory governance within the Cardano ecosystem.</p>
+      <p>Apart from these developments, the weekly report also mentioned updated statistics on the Cardano blockchain. As per the report, the blockchain’s total number of transactions reached 70.6 million. Not only that, but the number of native tokens exceeded 8.5 million. It was also mentioned that to date, 134 projects have been launched on Cardano, while over 1,200 are being built on the blockchain.</p>
+      <h3>ADA continues to struggle</h3>
+      <p>Though the development seemed robust, it could not lend a helping hand to ADA’s price performance. According to CoinMarketCap, ADA was down by more than 1.4% and 3.5% in the last 24 hours and in the previous week, respectively. At the time of writing, ADA was trading at $0.2825 with a market capitalization of over $9.8 billion.</p>
+      <p>Over the last week, ADA’s 1-week price volatility has also fallen sharply. Interestingly, despite the price decline, the token’s social dominance and transaction volume remained relatively high. ADA’s velocity also increased, meaning that ADA was used in transactions more often within a set time frame.</p>
+      <p>Investors might have a reason to rejoice as a major metric gave hope for a price uptick in the coming days. As per Coinglass, ADA’s open interest declined sharply. A drop in the metric usually meant that the on-going price trend can come to an end soon.</p>
+    </div>
+  },
+  {
+    id: 607,
+    title: 'Why SHIB could be skating on thin ice as Voyager reopens withdrawals',
+    category: 'Crypto',
+    subCategory: ['SHIB', 'Voyager', 'withdrawals'],
+    description: <div className="blog-desc">
+      <p>Huge amounts of funds get taken out by users as Voyager reactivates withdrawals on its network. Large amounts of cryptocurrencies still remain on the platform, with SHIB coming in fourth place after BTC, ETH, and USDC.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 ', 
+    cover: 'https://ncx.cx/images/ncx-blog-854.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Huge amounts of funds get taken out by users as Voyager reactivates withdrawals on its network. Large amounts of cryptocurrencies still remain on the platform, with SHIB coming in fourth place after BTC, ETH, and USDC.</p>
+    	<ul>
+        <li>Large amounts of withdrawals take place as Voyager activates them on its network.</li>
+        <li>After BTC, ETH, and USDC, SHIB becomes the largest cryptocurrency on the protocol.</li>
+      </ul>
+      <p>Voyager, a centralized exchange that failed due to the collapse of Luna and Terra left many of its depositors and users stranded. However, on 23 June, Voyager reopened withdrawals of various cryptocurrencies on its platform.</p>	
+    	<h3>On a voyage here…</h3>
+      <p>According to data provided by Dune Analytics, over $229 million has already been transferred out from the platform. At press time, Voyager’s tagged wallets still held a substantial amount of $196 million.</p>	
+    	<p>These wallets contained holdings that included 74 million BTC, $52 million worth of ETH, $32 million in USDC, $15 million of $SHIB, and 7 million of VGX.</p>
+      <p>The access gained by Voyager addresses could have varied impacts on various cryptocurrencies. Users may be more keen on HODLing blue chip coins such as ETH and BTC as sentiment and prices of both these coins have been on the rise over the last few months.</p>
+      <p>However, one may also need to consider the possibility that memecoins like SHIB may not face a smiliar intact. Memecoins are known for their highly volatile behavior and predicting the future of their price may be difficult. Users who have just gained access to their holdings may want to avoid risky holdings such as SHIB and may try to sell and invest their holdings elsewhere.</p>
+      <p>Other popular memecoins such as PEPE that took the crypto market by storm could also look appealing to these holders who may want to diversify their memecoin portfolio.</p>
+      <h3>Word on the street</h3>
+      <p>At press time,  it was observed that SHIB’s social mentions and engagements had declined significantly over the past week. According to LunarCrush’s data, the number of social mentions and engagements for SHIBA fell by 78% and 49% respectively.</p>
+      <p>Additionally, the sentiment around SHIB over the last three months had also turned significantly negative. In tandem with its falling sentiment, SHIBA’s price also dropped and traded at a press time price of $0.0000075.</p>
+    </div>
+  },
+  {
+    id: 606,
+    title: 'Bitcoin steady above US$30,000, all top 10 cryptos rise on market optimism',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Cryptos', 'Market'],
+    description: <div className="blog-desc">
+      <p>Bitcoin prices gained in Tuesday afternoon trade in Asia to remain above US$30,000. Ether and all other top 10 non-stablecoin cryptocurrencies strengthened in the past 24 hours on market expectations of a rally in Bitcoin</p>
+    </div>,
+    authorName: 'Pradipta Mukherjee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 - 1:56 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-853.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin prices gained in Tuesday afternoon trade in Asia to remain above US$30,000. Ether and all other top 10 non-stablecoin cryptocurrencies strengthened in the past 24 hours on market expectations of a rally in Bitcoin prices by end of this year. Polygon, Solana and BNB were the biggest gainers.</p>
+    	<h3>Bitcoin rises past US$31,000 before slipping</h3>
+      <p>Bitcoin rose 1.42% to US$30,540 in 24 hours to 4 p.m. in Hong Kong, but has lost 1.19% over the past seven days, according to CoinMarketCap data. The world’s biggest cryptocurrency by market capitalization fell after rising as high as US$31,026 in the last 24 hours. In the same period, Bitcoin’s market capitalization has risen 1.48% to about US$593 billion.</p>	
+    	<p>Bitcoin prices gained after Standard Chartered bank said the token is likely to reach US$50,000 by the end of 2023 and US$120,000 at the end of 2024, according to Reuters on Tuesday.</p>	
+    	<p>Optimism in Bitcoin also strengthened after several traditional finance (TradFi) companies, including BlackRock, WisdomTree, Invesco and Bitwise, filed Bitcoin exchange-traded fund (ETF) applications in the U.S. last month, indicating faith in the token and in the digital assets sector.</p>
+      <p>“Going by the historical price patterns of Bitcoin, the bull run could come in 2025 or late 2024 after the next halving in 2024,” Rajagopal Menon, Vice President of WazirX, India’s largest crypto exchange by volume, told Forkast in an emailed response.</p>
+      <p>“TradFi institutions have entered crypto in large numbers and even though they haven’t improved spot trading volume on exchanges, futures and options trading has seen an uptick,” Menon added.</p>
+      <p>According to European cryptocurrency investment firm CoinShares, cryptocurrency-linked investment products saw net inflows of US$136 million in the week ending July 7, marking the third consecutive week of inflows and fully correcting the prior nine weeks of outflows.</p>
+      <p>Ether, the second-biggest cryptocurrency, gained 1.45% to US$1,883, but lost 3.41% on the week.</p>
+      <p>“It really was about as bad as it could’ve been for the crypto market last year. And 2023 has, so, far been characterized by the U.S. Securities and Exchange Commission ramping up oversight in the digital asset space,” Nigel Green, chief executive of financial advisory firm deVere Group, said in an emailed statement on Tuesday.</p>
+      <p>“The fact, then, Bitcoin has gained 80% already in 2023, putting it on track for its best annual performance since 2020, and that Ethereum prices are also up 52% so far this year, is truly impressive,” Green added.</p>
+      <p>Polygon’s Matic token gained the most among the top 10 non-stablecoin cryptos, rising 9.43% to US$0.742 in the last 24 hours, bringing its weekly gains to 5.11%. The higher prices come as Polygon Labs announced its Polygon 2.0 roadmap on June 30, vowing to become the “Value Layer of the Internet.”</p>
+      <p>Solana and BNB also led gains, both rising over 6% in the last 24 hours. Solana rose 6.8% to US$22.11, and 15.66% on the week.</p>
+      <p>BNB, the native token of world’s largest crypto exchange Binance, added 6.22% to US$247.20, and 0.83% in the last seven days.</p>
+      <p>The total crypto market capitalization strengthened 1.64% to US$1.19 trillion, while crypto market volume gained 44.7% to US$33.02 billion in the past 24 hours.</p>
+      <h3>NFT volumes drop on Ether, Bitcoin</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index dropped 0.37% to 2,735.75 in 24 hours to 6 p.m. in Hong Kong, after losing 0.49% in the past seven days.</p>
+      <p>In the same period, the Forkast ETH NFT Composite lost 0.09% to 930.53, bringing its weekly losses to 0.98%.</p>
+      <p>Total sales volume on Ethereum dropped 1.18% to US$15.45 million, while that on the Bitcoin network fell 36.63% to US$4.53 million, according to CryptoSlam data.</p>
+      <p>“Traders seem to be out of liquidity and most are accepting the idea that the NFT market will continue to decline,” said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News.</p>
+      <p>By collection, trading volume in Ethereum-based Bored Ape Yacht Club (BAYC) NFT collection topped the list, edging up 5.41% to US$1.91 million in the past 24 hours. The Bitcoin-based $FRAM BRC-20 NFTs and uncategorized Ordinals inscriptions ranked the second and the third.</p>
+      <p>Among use cases for NFTs, a new loan was taken out on a luxury watch on Monday. A lender gave out a US$35,000 loan at 12% interest rate using a Patek Phillipe as collateral.</p>
+      <p>“For those asking ‘why does this need an NFT?’ It’s because it gives access to more liquidity across the globe,” Petscher explained.</p>
+      <p>Elsewhere, SuperRare, an NFT marketplace for digital artworks, has announced an exhibition  – A Digital Transcendence – The Intersection of Art and Tech – to be held from July 13. The exhibition will host work of digital artists Botto, Camibus, Emily Xie, Jack Kaido, Matt Kane, Osinachi, and William Mapen x Christiane Lemieux.</p>
+      <p>Founded in 2018, SuperRare NFT marketplace has clocked over US$300 million in total sales while artists have earned over US$180 million to date, the company said in an emailed statement on Monday.</p>
+      <h3>U.S. stock futures, Asian, European equities rise</h3>
+      <p>All Asian equity markets strengthened on Tuesday on hopes for a fresh round of stimulus in China. The People’s Bank of China and National Financial Regulatory Administration said in a joint statement on Monday that the nation would take measures to improve the ailing property market. These measures include encouraging financial institutions to extend property firms’ outstanding loans through negotiations.</p>
+      <p>The Shanghai Composite, Shenzhen Component, Hong Kong’s Hang Seng Index and Japan’s Nikkei 225 strengthened by the end of the trading day on Tuesday.</p>
+      <p>U.S. stock futures increased as of 7 p.m. in Hong Kong, with the Dow Jones Industrial Average futures, the S&P 500 futures, and the Nasdaq 100 Futures gaining.</p>
+      <p>Investors are looking forward to the latest U.S. consumer price index data, scheduled for release on Wednesday, as well as the June producer price index due on Thursday. The indicators will point to the current inflation situation in the world’s biggest economy as well as provide insight on what could be the Federal Reserve’s future direction on interest rates.</p>
+      <p>The U.S. central bank will meet on July 26 to decide on its next move on interest rates, which are currently between 5% and 5.25%.</p>
+      <p>PepsiCo, Delta Air, JPMorgan Chase, Wells Fargo, Citigroup, and BlackRock are set to release second quarter earnings later this week.</p>
+      <p>European bourses gained on Tuesday on hopes the Federal Reserve is coming to the end of its interest rate hiking cycle. The benchmark STOXX 600 and Germany’s DAX 40 strengthened during Tuesday afternoon trading hours in Europe.</p>
+      <p>The U.K. announced on Tuesday that its unemployment rate rose to 4% in the three months to May, while the economy struggles with persistent inflation.</p>
+      <p>The U.K. Minister for Employment, Guy Opperman, told FXStreet, “It’s encouraging to see inactivity falling, vacancies dropping, and employment on the up. To get prices down and help make mortgages manageable, we must halve inflation and grow our economy.”</p>
+    </div>
+  },
+  {
     id: 605,
     title: 'Why Ethereum saw 580,000 new addresses in one week',
     category: 'Crypto',

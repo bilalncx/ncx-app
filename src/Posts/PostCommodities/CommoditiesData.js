@@ -1,5 +1,61 @@
 const data = [
   {
+    id: 569,
+    title: 'Oil Falls as Light Summer Trading Hardens Technical Resistance',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Trading', 'Technical'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil dropped as light summer trading volumes exacerbated pressure from technical resistance levels.</p>
+    </div>,
+    authorName: 'Julia Fanzeres',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 10, 2023 - 11:19 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-852.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil dropped as light summer trading volumes exacerbated pressure from technical resistance levels.</p>
+    	<p>West Texas Intermediate settled below $73 a barrel, putting a lid on last week’s supply-driven rally. The commodity briefly rose above its 100-day moving average on Friday, but the key level has since provided resistance to further gains. Meanwhile, brokers noted that trading flows remain thin, as is typical in the summer, which has kept price moves choppy.</p>	
+    	<p>With the exception of commodity trading advisers focusing on crude, oil trading has remained “extremely quiet” resulting in a market that’s “defenseless to the flows seen on a daily basis and keeping volatility quite high despite a lack of interest,” said Scott Shelton, an energy specialist at ICAP.</p>	
+    	<p>Adding to bearish sentiment was Chinese data revealing its economy is on the brink of deflation, while miner Rio Tinto Group said it sees a host of near-term economic challenges in the nation. Treasury Secretary Janet Yellen said the risk of a US recession is “not completely off the table,” adding an element of caution to the market.</p>
+      <p>Oil has been rangebound since late April, in part as China’s lackluster economic recovery and aggressive monetary tightening by central banks counter near-term tightness. A solid US employment report is keeping the Federal Reserve on track to boost interest rates this month, maintaining headwinds for crude prices. The International Energy Agency and OPEC will provide snapshots of the market when they release monthly reports later this week.</p>
+      <p>The outlook remains mixed as the market flashes signs of strength and speculators cut their bearish bets on the global benchmark and West Texas Intermediate crude. Last week, Brent rose 4.8% following a pledge by Saudi Arabia and Russia to reduce supply.</p>
+      <p>Meanwhile, the US announced on Friday that it’s purchasing 6 million more barrels of crude for the Strategic Petroleum Reserve as the nation continues to refill its supply buffer. The purchases, scheduled for October and November, come as the reserve is at its lowest point in 40 years.</p>
+    </div>
+  },
+  {
+    id: 568,
+    title: 'Oil dips 1% on US interest rate fears but OPEC+ cuts limit fall',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC+', 'US'],
+    description: <div className="blog-desc">
+      <p>HOUSTON (Reuters) -Oil prices eased 1% on Monday on the increasing likelihood of more U.S. interest rate hikes, but crude supply cuts from top oil exporters Saudi Arabia and Russia limited the losses.</p>
+    </div>,
+    authorName: 'Arathy Somasekhar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 10, 2023 - 5:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-851.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Arathy Somasekhar</p>
+    	<p>HOUSTON (Reuters) -Oil prices eased 1% on Monday on the increasing likelihood of more U.S. interest rate hikes, but crude supply cuts from top oil exporters Saudi Arabia and Russia limited the losses.</p>	
+    	<p>Brent crude futures settled down 78 cents, or 1%, at $77.69 a barrel after touching their highest level in more than two months earlier in the session.</p>
+      <p>U.S. West Texas Intermediate crude fell 87 cents, or 1.2%, at $72.99.</p>
+      <p>"Traders are very nervous about higher interest rates, which could kill demand very quickly," said Dennis Kissler, senior vice president of trading at BOK Financial, adding that some investors were also engaging in profit-taking after last week's gains.</p>
+      <p>Both benchmarks rose more than 4.5% last week after Saudi Arabia and Russia announced fresh output cuts bringing total reductions by the OPEC+ group to around 5 million barrels per day (bpd), or about 5% of global oil demand.</p>
+      <p>San Francisco Federal Reserve President Mary Daly on Monday repeated that she believes two more rate hikes this year will likely be needed to bring down inflation that is still too high, while Cleveland Fed President Loretta Mester also signaled more rate rises.</p>
+      <p>Higher interest rates could slow economic growth and reduce oil demand.</p>
+      <p>The U.S. Labor Department reported last Friday the smallest monthly job gain in 2-1/2 years along with strong wage growth. The data strengthened the likelihood that the Fed would raise interest rates at its meeting later this month.</p>
+      <p>Meanwhile, China's factory gate prices fell at the fastest pace in more than seven years in June, according to government data, indicating a slowdown in the recovery in the world's second-largest economy.</p>
+      <p>However, oil demand from China and developing countries, combined with OPEC+ supply cuts, is likely to keep the market tight in the second half of the year despite a sluggish global economy, the head of the International Energy Agency (IEA) said.</p>
+      <p>Markets are also focusing on the release of U.S. Consumer Price Index data, a key inflation report, and a slew of economic reports from China later this week to ascertain demand.</p>	
+    	<p>(Reporting by Arathy Somasekhar; Additional reporting by Noah Browning, Florence Tan and Emily Chow; Editing by Alexander Smith, David Goodman, Peter Graff, Will Dunham and Paul Simao)</p>
+    </div>
+  },
+  {
     id: 567,
     title: 'Oil Reaches Monthly High as OPEC+ Leaders Tighten Crude Exports',
     category: 'Commodities',

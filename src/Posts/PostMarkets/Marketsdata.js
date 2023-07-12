@@ -1,5 +1,221 @@
 const data = [
   {
+    id: 587,
+    title: 'Stocks close higher in wait for inflation data: Stock market news today',
+    category: 'Markets',
+    subCategory: ['Stocks', 'Inflation', 'market'],
+    description: <div className="blog-desc">
+      <p>Stocks closed higher Tuesday in the countdown to inflation reports that could give the Federal Reserve cause to consider ending its interest rate hikes sooner.</p>
+    </div>,
+    authorName: 'Karen Friar and Alexandra Canal',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 12, 2023 - 12:39 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-858.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stocks closed higher Tuesday in the countdown to inflation reports that could give the Federal Reserve cause to consider ending its interest rate hikes sooner.</p>
+    	<p>The Dow Jones Industrial Average (^DJI) led the day's gains to close up 0.93%, or more than 315 points. The S&P 500 (^GSPC) gained 0.7%, while the tech-heavy Nasdaq Composite (^IXIC) added 0.55%.</p>	
+    	<p>Early Tuesday, the NFIB survey on US business confidence showed optimism rose to a seven-month high in June, but a still-tight labor market continued to drive concerns about price pressures.</p>	
+    	<p>At the same time, investors weighed comments from Fed officials that more rate hikes are needed as they look ahead to consumer and producer inflation reports due later this week.</p>
+      <p>Also on the radar: signs that China is gearing up to support its faltering economy, while Amazon kicks off its Prime Day promotion that will be watched for a read on retail and the American consumer.</p>
+      <h3>Stocks close higher ahead of highly anticipated inflation data</h3>
+      <p>Stocks closed Tuesday's trading session higher as investors await Wednesday's critical US inflation data.</p>
+      <p>The Dow Jones Industrial Average (^DJI) led the day's gains to close up 0.93%, or more than 315 points. The S&P 500 (^GSPC) gained 0.7%, while the tech-heavy Nasdaq Composite (^IXIC) added 0.55%.</p>
+      <h3>JetBlue sputters after fresh Wall Street downgrade</h3>
+      <p>JetBlue Airways (JBLU) stock ticked lower on Tuesday, falling as much as 3%, after Evercore ISI downgraded shares to Underweight from In-line on balance sheet concerns.</p>
+      <p>Analysts, who left the price target unchanged at $8 a share, cited the airline's pending merger with Spirit, which will cost JetBlue $3.8 billion in cash.</p>
+      <p>“While there will be twists and turns along the way, we believe the Spirit acquisition ultimately gets done while the premium JBLU is paying for Spirit continues to expand,” wrote Evercore ISI analyst Duane Pfennigwerth and his team.</p>
+      <p>The company’s “balance sheet is on a journey from average to worst,” they added.</p>
+      <p>In contrast, Delta (DAL), which kicks off airline earnings on Thursday, is a top pick at Evercore ISI. The company is expected to double its profit over the second quarter of last year on the back of lower costs and pricing power.</p>
+      <p>Calling it a “strong leadoff hitter,” the analysts noted Delta “has done a nice job expectation-setting this year, aided by lower fuel, while a recent investor day was a good reminder of Delta’s positive longer term attributes.” The company aims at prioritizing free cash flow and debt reduction.</p>
+      <p>Lower jet fuel costs are expected to balance out higher labor expenses. Earlier this year, Delta announced a new agreement with pilots that offers $7 billion in higher pay and benefits.</p>
+      <h3>JPM hires former SVB executive</h3>
+      <p>JPMorgan Chase (JPM) hired a former Silicon Valley Bank executive to help lead its commercial banking team, the company announced on Tuesday.</p>
+      <p>JPM announced the hiring of John China, who spent 27 years working for Silicon Valley Bank and its parent company SVB Financial. Most recently he was president of SVB Capital, the parent company's venture capital unit.</p>
+      <p>Silicon Valley Bank was seized by regulators on March 10. Its parent company filed for bankruptcy one week later. SVB Capital had $9.5 billion in assets under management, according to a March 19 bankruptcy court filing.</p>
+      <p>China will co-head JPMorgan's innovation economy practice, which sits inside JPMorgan's commercial bank. He will be based in San Francisco, running the practice alongside current JPMorgan executive Melissa Smith, who is based in New York City.</p>
+      <p>"John and Melissa’s industry expertise and extensive experience will provide coast-to-coast leadership during this pivotal time for our clients," John Simmons, head of JPMorgan’s middle market commercial banking business, said in a Tuesday release.</p>
+      <p>JPMorgan's innovation economy practice is seven years old and focuses on venture capital and startup lending for an array of technology businesses including life sciences, healthcare IT, and climate tech.</p>
+      <p>“The founders and investors who make up the innovation economy are tackling some of the biggest issues facing our world today. They’re creating jobs, technology, and opportunities that are uplifting communities and driving the global economy forward,” Simmons added.</p>
+      <h3>Why Prime Day will create 'halo effect' for other e-commerce giants</h3>
+      <p>Amazon (AMZN) Prime Day is currently underway – and its impact will likely benefit other e-commerce retailers amid a strong start to the summer shopping season.</p>
+      <p>The two-day sale, set to run Tuesday and Wednesday, features steep discounts for everyday products like toothbrushes and deodorant to more high-end products like blenders and noise-canceling headphones.</p>
+      <p>Amazon shares were up about 1% on Tuesday and have climbed more than 50% since the start of the year.</p>
+      <p>"Prime Day is always a major shopping event, but this year it will be a bellwether for early holiday shopping amidst high inflation and rising interest rates that have consumers more cautious of their spending," said Michael Greene, SVP of global vertical strategy at Criteo.</p>
+      <p>Amazon's Prime Day has created an ecosystem in which there are major savings opportunities for consumers, ones that they're likely to take advantage of at Amazon — and elsewhere.</p>
+      <p>"It’s not just Amazon that benefits from the summer shopping excitement," said Greene. "Other retailers have launched competing events — like Walmart+ Week and Target Circle Week — that led to a boost in traffic and sales. That, in a nutshell, is the Prime Day 'halo' effect."</p>
+      <p>This means that Prime Day hasn't just created an ecosystem in which Amazon is making money – it's created one where shopping is happening across e-commerce retailers.</p>
+      <p>"I expect Prime Day will drive adjacent sales for other retailers this year more than any other," said Kevin Dunn, VP of industry sales, retail, and consumer packaged goods at LiveRamp. "Retailers seem to believe that consumer spending will stay on the rise and reach record highs by the fall holiday season. Inflation is not slowing down consumer spending, but it does have shoppers looking for the best price. Savvy retailers will capitalize on this trend to drive consumers to their own sales events online and in-store. Some of these retailers have already lined up some of the most aggressive sales I’ve seen in a while."</p>
+      <p>In 2022, Prime Day generated a record-breaking $12 billion in sales, and customers bought more than 300 million items globally. The sale will end on July 12.</p>
+      <h3>PGA Tour-LIV Golf rivalry takes Capitol Hill</h3>
+      <p>PGA Tour officials testified on Capitol Hill on an agreement between the PGA Tour and LIV Golf to merge entities.</p>
+      <p>The officials defended their decision to make peace with Saudi-backed LIV Golf before US lawmakers on Tuesday, saying they believe a proposed deal to merge the two entities would not violate US antitrust law and would preserve the league long term.</p>
+      <p>The hearing comes after the PGA Tour reached an agreement with LIV Golf to end antitrust litigation amid growing concerns the PGA Tour wouldn't be able to keep pace with the LIV Golf tour, which is backed by the Saudi Public Investment Fund. The upstart league offered lucrative contracts to players, with multiple contracts reportedly worth more than $100 million.</p>
+      <p>"My fear is if we don't get an agreement...They are already putting billions of dollars into golf," PGA Tour board member Jimmy Dunne said. "They have an unlimited amount of money. That will make people move because [the PGA Tour] isn't that big. It's only a couple hundred players."</p>
+      <p>While much of Tuesday's hearing didn't center around antitrust law or anything pertinent to the agreement happening, previously unknown financial details were revealed. Discussions have centered around the PIF providing the new golf entity an amount "north" of $1 billion, per PGA Tour COO Ron Price.</p>
+      <p>The PIF, which has advanced investments in US companies to diversify its largely oil-centric portfolio, holds investments of over $1 billion in six publicly traded US companies, per its most recent 13F filing.</p>
+      <h3>Stocks edge higher ahead of inflation data</h3>
+      <p>Stocks edged slightly higher in midday trading on Tuesday ahead of Wednesday's key inflation data and a kickoff to earnings season later this week.</p>
+      <p>The S&P 500 (^GSPC) was up 0.2%, while the Dow Jones Industrial Average (^DJI) traded up 0.5%, or more than 175 points. The tech-heavy Nasdaq Composite (^IXIC) remained muted.</p>
+      <h3>Game on! Microsoft wins US court approval to buy Activision Blizzard</h3>
+      <p>In a major win for Microsoft (MSFT), a federal judge in California ruled on Tuesday the tech giant can complete its $69 billion purchase of video game maker Activision Blizzard (ATVI).</p>
+      <p>Shares of Activision climbed on the news, up about 6%. Microsoft shares were muted.</p>
+      <p>The decision follows five days of testimony and comes after the Federal Trade Commission (FTC) requested a preliminary injunction to derail the acquisition. The FTC can still file a motion to appeal the decision.</p>
+      <p>In her ruling, Judge Jacqueline Scott Corley wrote:</p>
+      <p><strong>This Court’s responsibility in this case is narrow. It is to decide if, notwithstanding these current circumstances, the merger should be halted—perhaps even terminated—pending resolution of the FTC administrative action. For the reasons explained, the Court finds the FTC has not shown a likelihood it will prevail on its claim this particular vertical merger in this specific industry may substantially lessen competition. To the contrary, the record evidence points to more consumer access to Call of Duty and other Activision content. The motion for a preliminary injunction is therefore DENIED.</strong></p>
+      <h3>DraftKings soars on bullish sentiment as shares hit 52-week high</h3>
+      <p>DraftKings (DKNG) stock is riding a fresh 52-week high as investors turn bullish on the sports betting company after shares plummeted nearly 60% in 2022.</p>
+      <p>For DraftKings, 2023 has brought a much-needed narrative shift as the operator has ticked away at industry leader FanDuel's market share in certain areas and has begun to win more frequently against its bettors.</p>
+      <p>Multiple Wall Street analysts have recently raised their price targets, noting the Street hadn't expected this strong of a first half of the year for DraftKings.</p>
+      <p>"The industry has been better than expected given single game parlays and reduction in promos, so I think that's good for the overall space, mainly DraftKings and FanDuel," Macquarie Securities managing director Chad Beynon told Yahoo Finance.</p>
+      <p>DraftKings surprised the Street to the upside during its first quarter earnings release in May, posting revenue of $769.65 million versus Street estimates for $705.18 million.</p>
+      <p>Most notably, the company guided for a full-year adjusted EBITDA loss of $315 million in 2023, down from prior guidance for a loss of $400 million. The path to profitability has been a central part of the investor story for DraftKings, which has yet to post positive quarterly EBITDA since its April 2020 initial public offering.</p>
+      <p>Wall Street analysts expect that to change next month, though. Consensus estimates compiled by Bloomberg currently project DraftKings to post $5.83 million in adjusted EBITDA for the second quarter when the company reports in early August. That's more than a 100% increase from its results for the same period last year.</p>
+      <p>Shares of DraftKings are up more than 150% since the start of the year.</p>
+      <h3>Inflation expected to cool further in June but that won't stop the Fed</h3>
+      <p>On Wednesday, investors will be closely monitoring one of the most important data points for the future of Federal Reserve policy — the June inflation report.</p>
+      <p>The closely watched Consumer Price Index (CPI), set for release at 8:30 a.m. ET, is expected to show consumer prices cooled even further last month, with headline inflation forecast to rise 3.1% over the prior year, in a continued slowdown from May's 4% annual gain, according to estimates from Bloomberg.</p>
+      <p>A 3.1% increase would mark the slowest annual increase in consumer prices since March 2021.</p>
+      <p>Over the prior month, consumer prices are expected to have risen 0.3% in June, up from the 0.1% monthly increase seen in May.</p>
+      <p>On a "core" basis, which strips out the more volatile costs of food and gas, prices in June are expected to have risen 0.3% over the prior month and 5% over last year, according to Bloomberg data.</p>
+      <p>According to a new note from Citi, the slowdown will be largely tied to further easing in shelter prices — which has long been widely expected — along with a decline in used car prices.</p>
+      <p>Still, inflation is expected to remain significantly above the Federal Reserve's 2% target. That, along with last week's jobs report data that showed a resilient labor market with unemployment low and wages high, suggests the Federal Reserve will continue to raise interest rates this year.</p>
+      <p>Currently, markets are pricing in a roughly 92% chance the Federal Reserve raises rates by another 0.25% later this month, according to data from the CME Group.</p>
+      <h3>Stocks open higher as investors await CPI data</h3>
+      <p>Stocks opened in slightly positive territory on Tuesday after US small business confidence hit a seven-month high in June and investors continue to await Wednesday's much-anticipated inflation report.</p>
+      <p>Shortly after the open, the S&P 500 (^GSPC) was up about 0.2%, while the Dow Jones Industrial Average (^DJI) led the morning's gains at 0.4%. The tech-heavy Nasdaq Composite (^IXIC) was little changed.</p>
+    </div>
+  },
+  {
+    id: 586,
+    title: 'JPMorgan, Wells Fargo Near Buy Points With Q2 Earnings Fuse Lit',
+    category: 'Markets',
+    subCategory: ['JP Morgan', 'Wells', 'Fargo'],
+    description: <div className="blog-desc">
+      <p>JPMorgan, Wells Fargo and Citigroup kick off bank earnings early Friday. JPM stock, WFC and C shares are near buy points.</p>
+    </div>,
+    authorName: 'HARRISON MILLER',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 12, 2023 - 12:03 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-857.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>JPMorgan, Wells Fargo and Citigroup kick off bank earnings early Friday. JPM stock, WFC and C shares are near buy points.</p>
+    	<p>JPMorgan Chase (JPM), Wells Fargo (WFC) and Citigroup (C) kick off quarterly bank earnings early Friday. JPM stock, WFC and C are all nearing buy zones ahead of the banks' respective reports.</p>	
+    	<p>The worst of the bank panic appears to have subsided following the string of failures earlier this spring. Banks posted six of the 10 worst losses among S&P 500 stocks through early July. Still, financial firms look in better shape after all 23 institutions included in the Federal Reserve's annual stress test passed a hypothetical "severe" recession scenario in late June.</p>	
+    	<p>Customer deposits stabilized in recent months, but regulators note that commercial real estate loans could be the next weak point on balance sheets as commercial real estate prices are projected to decline.</p>
+      <p>Morgan Stanley forecasts commercial property prices could fall as much as 40%, according to an April 4 research note, which was in line with the stress-test scenario. The firm did not include a timeline for the expected decline, but said new lending rates are likely to be 3.5 to 4.5 percentage points higher than current rates as commercial mortgages are scheduled for refinancing "in the next couple of years."</p>
+      <p>That burden will fall to small and midsize banks, which represent 80% of commercial real estate lending. The larger firms that passed the Fed stress test accounted for 20% of office and downtown commercial real estate loans.</p>
+      <p>Analysts expect strong net interest income growth due to sustained high interest rates. However, JPMorgan warned of slower lending and loan growth across large and regional banks later this year in an early-April research note.</p>
+      <h3>JPM Stock: Record Quarterly Revenue</h3>
+      <p>Dow Jones giant JPMorgan is coming off a strong quarter, posting record quarterly revenue of $38.35 billion for its Q1 results in mid-April.</p>
+      <p>Analysts expect the trend to continue with a fourth straight quarter of earnings and revenue growth for JPMorgan. FactSet analysts project earnings to leap 43% to $3.95 per share on 28% revenue growth to $39.36 billion.</p>
+      <p>Net interest income is seen spiking 39.8% to $21.14 billion.</p>
+      <p>JPM stock is trading in a buy zone for a flat base after surpassing the 143.37 buy point on June 14. Shares are holding above their technical moving averages and about 1.4% above their 10-day line.</p>
+      <p>JPMorgan leads the Banks-Money Center IBD industry group, according to IBD Stock Checkup. JPM stock has a 96 Composite Rating out of a best-possible 99. The Composite Rating combines various technical indicators into one easy-to-read score. Shares have a 92 EPS Rating. JPMorgan's relative strength line is off highs from the beginning of the year and has an 84 RS Rating.</p>
+      <p>JPM stock rose 1.6% to 147.41 Tuesday. Shares have advanced 10% so far this year.</p>
+      <h3>Wells Fargo</h3>
+      <p>Wells Fargo topped expectations for its Q1 results, posting a 40% jump in earnings as revenue climbed 17%. For the second quarter, analysts expect earnings to bolt 58% to $1.17 per share after two quarters of decelerating growth. Revenue growth is projected to accelerate for the second straight quarter, surging 18% to $20.12 billion. Analysts expect net interest income to vault 25% to $12.83 billion.</p>
+      <p>WFC stock is trading in a cup base with a 48.84 buy point, according to MarketSmith. Shares could form a handle Wednesday just above the 200-day moving average, which would provide an early entry opportunity around 43.</p>
+      <p>WFC stock rose 1% to 42.77 Tuesday. Shares climbed 3.5% year-to-date.</p>
+      <h3>Citigroup</h3>
+      <p>Citigroup earnings rose in Q1 after five straight quarters of declines, topping forecasts of an 18.8% drop. But analysts think it'll be a short-lived victory and see earnings plummeting 38.4% to $1.35 per share for Q2. Revenue is expected to dip 1.2% to $19.4 billion after four quarters of accelerating growth. Net interest income is seen rising 8.7% to $13 billion.</p>
+      <p>C stock is trying to find its way out of a long-term consolidation but is still trading below its major technical moving averages.</p>
+      <p>Citigroup stock swung 1.9% higher Tuesday. C shares have gained 2.9% so far in 2023.</p>
+    </div>
+  },
+  {
+    id: 585,
+    title: 'Market heavyweights dip ahead of Nasdaq 100 rebalance',
+    category: 'Markets',
+    subCategory: ['Market', 'Nasdaq', '100'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Shares of Apple, Microsoft and other heavyweight companies dipped on Monday after Nasdaq Inc said it would rebalance its Nasdaq 100 index to address the benchmark's "overconcentration."</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 - 2:12 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-859.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) - Shares of Apple, Microsoft and other heavyweight companies dipped on Monday after Nasdaq Inc said it would rebalance its Nasdaq 100 index to address the benchmark's "overconcentration."</p>
+    	<p>Apple dropped 1.1%, leaving its market capitalization at $2.967 trillion. It closed above the $3 trillion threshold for the first time on June 30. Alphabet and Amazon fell over 2%, while Microsoft and Tesla each slid more than 1%.</p>	
+    	<p>Wall Street's most valuable stocks declined after Nasdaq said late on Friday it would carry out a "Special Rebalance" of the index to "address overconcentration in the index by redistributing the weights."</p>	
+    	<p>The adjustment will be based on shares outstanding as of July 3, with changes announced on July 14 and taking effect before the market opens on July 24.</p>
+      <p>The Nasdaq 100 includes 100 of the largest companies that trade on the Nasdaq exchange, and changes to the index will force investment funds that track it to adjust their portfolios and sell shares of companies that have their weight in the index reduced.</p>
+      <p>Wall Street's most valuable companies have been among the biggest winners in the U.S. stock market's recovery this year, further increasing their weight in the Nasdaq 100, and also in the Nasdaq Composite and S&P 500.</p>
+      <p>While the S&P 500 has gained 15% year to date, Nvidia has surged 189% and Tesla has more than doubled. Microsoft, Amazon and Apple have climbed between 38% and 51% in 2023.</p>
+      <p>(Reporting by Noel Randewich; Editing by Richard Chang)</p>
+    </div>
+  },
+  {
+    id: 584,
+    title: 'Citigroup downgrades US stocks amid recession risks, upgrades Europe',
+    category: 'Markets',
+    subCategory: ['Citigroup', 'US', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Citigroup on Monday downgraded U.S. stocks in anticipation of a pullback in growth stocks and a recession in the fourth quarter of the year, while betting on beaten-down counterparts in Europe with an upgrade.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 10, 2023 - 3:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-861.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Reuters) -Citigroup on Monday downgraded U.S. stocks in anticipation of a pullback in growth stocks and a recession in the fourth quarter of the year, while betting on beaten-down counterparts in Europe with an upgrade.</p>
+	    <p>The brokerage cut its rating on U.S. stocks to "neutral" from "overweight", following a strong rally in the first half of the year. It warned that growth stocks were set for a pullback as the "euphoria" around artificial intelligence enters a more "digestive" phase.</p>	
+    	<p>Citigroup instead sees potential in "heavily discounted" European stocks, as the bank increased allocation to some cyclicals. These include the materials sector, which is seen benefiting from a potential uptick in China's economic growth.</p>	
+    	<p>The S&P 500 has gained 14.6% so far this year, while the tech-heavy Nasdaq jumped about 31%, driven mainly by a handful of tech stocks that rode high on AI potential.</p>
+      <p>Futures tracking the S&P 500 were flat by 8:00 a.m. ET.</p>
+      <p>Citigroup also downgraded the global IT sector to "neutral".</p>
+      <p>Strategists at the brokerage downgraded UK stocks on a lack of exposure to growth stocks and a stronger pound. Emerging market (EM) stocks, upgraded to an "overweight" rating, replaced the UK stocks in Citigroup's asset allocation.</p>
+      <p>"EM offers a more interesting risk/reward profile, with exposure to a combination of growth and materials. It could also benefit from USD weakness, rate cuts and potential improvement in China sentiment," the strategists said.</p>
+      <p>(Reporting by Subhadeep Chakravarty; Editing by Shilpi Majumdar)</p>
+    </div>
+  },
+  {
+    id: 583,
+    title: 'What people are saying about Ant Groups $984 million fine and share buyback',
+    category: 'Markets',
+    subCategory: ['Ant', 'Groups', 'Buyback'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - China's Ant Group has announced a surprise share buyback that values the fintech giant at $78.5 billion, well below the $315 billion touted in an abandoned IPO in 2020, in a move that may let some investors exit.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 10, 2023 - 9:43 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-860.jpg',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>(Reuters) - China's Ant Group has announced a surprise share buyback that values the fintech giant at $78.5 billion, well below the $315 billion touted in an abandoned IPO in 2020, in a move that may let some investors exit.</p>
+	    <p>The announcement came after China's financial regulator on Friday fined the Alibaba Group affiliate $984 million for violating laws and regulations, a move seen by many industry observers as a sign that a regulatory crackdown on the country's technology sector is over.</p>	
+	    <p>Here is what people are saying about the news:</p>	
+    	<p>GARY NG, ASIA PACIFIC SENIOR ECONOMIST AT NATIXIS IN HONG KONG:</p>
+      <p>"The major pressure that a lot of these companies have been facing is really this bad sentiment. There are a few things that have changed from last Friday. The first is that some companies have been fined a significant amount but I think that offers, like a certain comfort to the market that possibly this regulatory tightening is actually getting to the end or basically cannot be worse than before.</p>
+      <p>"And second, of course, we're talking about the share buyback plan. I think that also helps boosting the sentiment of the share price."</p>
+      <p>KENNY NG, SECURITIES STRATEGIST AT CHINA EVERBRIGHT SECURITIES IN HONG KONG:</p>
+      <p>"Ant Group has announced a repurchase plan, which reflects a significant decrease in the company's valuation compared to its previous preparation for IPO. However, this news did not cause a drop in Alibaba's stock price, but instead showed a clear upward trend. This is believed to be mainly due to the fact that the People's Bank of China imposed a fine of 7.123 billion renminbi on Ant Group and its subsidiaries last Friday, and investors anticipate that the regulatory crackdown on Alibaba that has lasted for several years is coming to an end.</p>
+      <p>"Looking back over the past few years, Alibaba's stock price has experienced a significant decline, mainly due to concerns in the market about the negative impact of industry regulation on the company. If investors can eliminate their concerns about this aspect of Alibaba, it will help the company's stock price rebound in the future."</p>
+      <p>DICKIE WONG, EXECUTIVE DIRECTOR AT KINGSTON SECURITIES IN HONG KONG:</p>
+      <p>"Their share prices have strongly rebound today mainly driven by the expectation that regulatory pressure from mainland government will ease. Ant Group is on the right track to achieve their final target of an IPO."</p>
+      <p>SUMEET SINGH, DIRECTOR AT AEQUITAS RESEARCH IN SINGAPORE WHO PUBLISHES ON SMARTKARMA:</p>
+      <p>"I don't think the valuation drop is going to hamper their chances of going public, it's a different company now with changed profitability and growth dynamics. In addition a lot of other tech darlings have also corrected by a lot over the past two years, so they aren't alone. With the regulatory episode now behind it investors can be a little more certain that it won't face another regulatory headwind anytime soon."</p>
+      <p>OSHADHI KUMARASIRI, ANALYST AT LIGHTSTREAM RESEARCH IN COLOMBO:</p>
+      <p>"This means IPO is essentially put on hold. According to the company, the reason for the buyback is providing liquidity to existing investors and attracting and retaining talented individuals through employee incentives. Ant could have achieved both these objectives through an IPO."</p>
+      <p>(Reporting By Xie Yu in Hong Kong, Yantoultra Ngui in Singapore and Scott Murdoch in Sydney; Compiled by Anne Marie Roantree; Editing by Jamie Freed)</p>
+    </div>
+  },
+  {
     id: 582,
     title: 'Ants surprise share buyback values firm at steep 75% discount to IPO',
     category: 'Markets',
