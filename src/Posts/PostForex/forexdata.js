@@ -1,5 +1,114 @@
 const data = [
   {
+    id: 572,
+    title: 'Pound hits 15-month high as UK wages rise',
+    category: 'Forex',
+    subCategory: ['Pound', 'UK', 'Wages'],
+    description: <div className="blog-desc">
+      <p>The pound (GBPUSD=X) hit a 15-month high against the dollar on Tuesday as UK wage growth reached a record 7.3%.</p>
+    </div>,
+    authorName: 'LaToya Harding',
+    authorurl: 'https://www.yahoo.com/author/latoya-harding/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 - 2:10 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-847.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The pound (GBPUSD=X) hit a 15-month high against the dollar on Tuesday as UK wage growth reached a record 7.3%.</p>
+    	<p>Sterling was trading at $1.2914, up 0.4% on the day, the highest level since April 2022, while it also climbed 0.4% against the euro (GBPEUR=X) to €1.1731.</p>	
+    	<p>Data from the Office for National Statistics (ONS) showed that average pay rose by 7.3% year-on-year in the quarter to May, the joint-highest reading on record.</p>
+      <p>The reading came in stronger than expected, with economists forecasting a small slowdown in pay growth to 7.1%.</p>
+      <p>It comes as workers have sought pay rises in order to help keep up with the increased cost of living. However, despite the record increase, pay rises still lag behind inflation which currently stands at 8.7%.</p>
+      <p>“With sterling at a 15-month high the value of the overseas earnings which dominate the index is relatively less. The reason for the pound’s move higher is today’s UK jobs data,” Russ Mould at AJ Bell said.</p>
+      <p>“While there are some signs the tightness in the labour market is starting to ease, wage growth remains uncomfortably high in the context of the Bank of England’s (BoE) efforts to get surging prices under control.</p>
+      <p>“If inflation is like toothpaste, to borrow the well-worn analogy, then the Bank is likely to have to make a big mess of the economy trying to get it back in the tube. Borrowers face more pain with the prospect of further rate hikes to come.”</p>
+      <p>Private sector regular pay also rose 7.7% on the same basis, a record high outside the pandemic period, and running well ahead of the BoE’s forecast for growth of 6.3% in Q2.</p>
+      <p>Meanwhile, the UK unemployment rate rose to 4% in the three months to May, up from 3.8% in the previous three months, the ONS added.</p>
+      <p>Chancellor Jeremy Hunt said: "Our jobs market is strong with unemployment low by historical standards. But we still have around one million job vacancies, pushing up inflation even further.</p>
+    	<p>"Our labour market reforms - including expanding free childcare next year — will help to build the high wage, high growth, low inflation economy we all want to see."</p>
+      <p>The news causes further concern for the BoE, which is looking to cool the economy and has already warned about a price-earnings spiral.</p>
+      <p>Financial markets are predicting that Threadneedle Street is set to hike UK interest rates at its next meeting in August.</p>
+      <p>The City is betting there is a 70% chance that rates will rise by another half-point increase from 5% to 5.5%, the highest level since late 2007, while there is a 30% possibility of a smaller, quarter-point increase to 5.25%.</p>
+      <p>The bank rate is expected to hit as much as 6% by November, and at least 6.25% by next spring.</p>
+      <p>“The pressure on the MPC to continue increasing rates in August will be intense,” Martin Beck, chief economic advisor to the EY ITEM Club, said.</p>
+    </div>
+  },
+  {
+    id: 571,
+    title: 'GBP/USD Forecast – British Pound Pulled Back',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has pulled back just a bit during the trading session on Monday, as it looks like we are trying to form a bit of a double top. The 1.2650 level is an area underneath it could offer quite a bit of support,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 10, 2023 - 5:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-848.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound has pulled back just a bit during the trading session on Monday, as it looks like we are trying to form a bit of a double top. The 1.2650 level is an area underneath it could offer quite a bit of support, and of course we can also have a little bit of support due to the 50-Day EMA at the same time.</p>
+    	<p>On the other hand, if the market were to break above the 1.2850 level, then it’s possibly a sign that we are ready to go to the 1.30 level above, which of course is a large, round, psychologically significant figure, and an area that’s been important in the past.</p>	
+    	<p>Keep in mind that the Bank of England has further to go fighting inflation, while people are starting to bet that the Federal Reserve only has 50 more basis points worth of tightening coming. All things being equal, this is a market that continues to be very noisy, and therefore it’s not a huge surprise to see a little bit of a pullback.</p>
+      <p>Ultimately, I do think that people will look for some type of value on a dip, and therefore it’s worth noting that a lot of traders will probably be looking to take advantage of cheap British pounds.</p>
+    	<p>Even if we break down below the 50-Day EMA, there is still a significant amount of noise underneath it that could come into play to offer support, extending all the way down to the 200-Day EMA, which sits at the structurally important 1.2350 level. This is an area that defines the trend, so therefore as long as we can stay above there, we should be in decent shape.</p>
+      <p>If we were to break down below there, then it’s likely that the British pound will really start to break down, perhaps opening up the possibility of a bullish run for the US dollar. Keep in mind that the risk appetite is still in a state of flux, so that will continue to cause a bit of volatility in this currency pair, as well as many others.</p>
+    </div>
+  },
+  {
+    id: 570,
+    title: 'GBP/JPY Forecast – British Pound Gives Up Early Gains Against Japanese Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially tried to rally during the trading session on Monday, but then gave back gains to show signs of hesitation. Quite frankly, I think this is a market that’s simply trying to pull back in order to find value, or perhaps support so that we can continue the overall drive higher.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 10, 2023 - 5:13 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-849.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+    	<p>The British pound initially tried to rally during the trading session on Monday, but then gave back gains to show signs of hesitation. Quite frankly, I think this is a market that’s simply trying to pull back in order to find value, or perhaps support so that we can continue the overall drive higher.</p>
+    	<p>Remember, the interest rate differential between the Bank of England and the Bank of Japan is very strong, and therefore it’s likely that we could continue to see a lot of buyers coming in to pick up and take advantage of the “swap” at the end of the day, just like the old “carry trade” days that had been so prevalent in the Forex market a few years back.</p>	
+    	<p>The ¥180 level underneath is a large, round, psychologically significant figure, and therefore I think a lot of people will be paying close attention to it. Furthermore, we had seen a bit of support in that general vicinity a couple of weeks ago, so it all ties together quite nicely. Just below there, we have the 50-Day EMA indicator, which is sitting right around the ¥177 level.</p>	
+    	<p>In general, I think this is a situation where you are looking for value, and willing to take advantage of it. Ultimately, I think the market is trying to build up enough momentum to reach the ¥185 level, perhaps even break above their for a longer-term move.</p>
+      <p>With the fundamental situation between the Bank of England and the Bank of Japan being so wide, I think it’s possible that we could see the possibility of a move to the ¥200 level. All things being equal, this is a situation where we continue to see a lot of value hunting coming into the market given enough time, but we are a little bit overstretched at this point, and therefore a pullback does make a certain amount of sense. That is in the selling anything it’s change, and I think a lot of people will be looking for “cheap British pounds” to take advantage of. All things being equal, I am bullish but I also recognize that you need to find signs of momentum shifting to the upside.</p>
+    </div>
+  },
+  {
+    id: 569,
+    title: 'EUR/USD Forecast – Euro Quiet to Open Up the Week',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro has gone back and forth during the trading session on Monday, as we continue to hang around the 1.10 level, but cannot seem to break above it. All things being equal, we are in the midst of forming a bit of a bullish flag,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 10, 2023 - 5:02 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-850.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The euro has gone back and forth during the trading session on Monday, as we continue to hang around the 1.10 level, but cannot seem to break above it. All things being equal, we are in the midst of forming a bit of a bullish flag, but we have not broken out yet therefore you can’t necessarily jump in with both feet. That being said, I think we have a situation where both of these central banks are doing essentially the same thing right now, and that’s causing a bit of stagnation.</p>
+	    <p>The European Central Bank is currently worried about inflation, but at the same time is starting to see signs of recession and concern in Germany. The Federal Reserve is expected to do 2 more quarter-point interest rate hikes, but at the same time is starting to see some signs of economic slowing.</p>	
+    	<p>In other words, we have a really messy scenario at the moment, and that shows up in the charts as traders are trying to figure out which direction they want to run.</p>	
+    	<p>In general, I think we continue to stay in a range bound type of market for a while, as we kicked around the idea of whether or not central banks can diverge. At this point, it doesn’t look that likely so I think we continue to trade this market from a short-term range bound perspective.</p>
+      <p>The shorter time frames will probably continue to be the best way to approach this market, especially if you have some type of range bound system that uses an oscillator. Ultimately, this is a market that I think continues to see a lot of noisy behavior, and therefore position sizing will be everything.</p>
+      <p>Ultimately, we will have to have some type of fundamental reason for everything to shift, and until we get that, it’s likely that we will continue to see a lot of back-and-forth. Ultimately, I think this range is what we are stuck in for the foreseeable future and therefore caution is the better part of valor, but you can take advantage of a lot of back-and-forth motion with small positions to slowly build up your account.</p>
+    </div>
+  },
+  {
     id: 568,
     title: 'USD/JPY Weekly Price Forecast – US Dollar Pulls Back Drastically',
     category: 'Forex',

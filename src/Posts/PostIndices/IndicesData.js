@@ -1,5 +1,127 @@
 const data = [
   {
+    id: 560,
+    title: 'Nasdaq 100 Plans Special Rebalance To Curb Dominance Of Magnificent Seven',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Rebalance', 'seven'],
+    description: <div className="blog-desc">
+      <p>A Nasdaq 100 special rebalance will take place July 24. Apple, Microsoft and the other "magnificent seven" stocks hold a 55% weight now.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 - 3:34 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-844.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>A Nasdaq 100 special rebalance will take place July 24. Apple, Microsoft and the other "magnificent seven" stocks hold a 55% weight now.</p>
+    	<p>The Nasdaq 100 index is set to adjust the weighting of its 100 components, with the "magnificent seven" stocks Microsoft (MSFT), Apple, Nvidia (NVDA), Tesla (TSLA), Google parent Alphabet (GOOGL), Meta Platforms (META) and Amazon.com (AMZN) currently accounting for more than half the index's weight.</p>	
+    	<p>The magnificent seven stocks largely fell Monday.</p>
+      <p>The Nasdaq 100 special rebalance will take place before the market open on Monday, July 24, to "address overconcentration in the index by redistributing the weights." The Nasdaq has only conducted a special rebalance twice in its history: in December 1998 and May 2011.</p>
+      <p>The weighting changes will be announced on Friday, July 14. No stocks will be added or removed.</p>	
+    	<p>The Nasdaq 100 includes the 100 largest non-financial Nasdaq components.</p>
+      <h3>How Is the Nasdaq 100 Weighted?</h3>
+      <p>The Nasdaq 100 index is a modified market-capitalization index. Market valuation is the largest factor, but with methodology to limit overconcentration.</p>
+      <p>The seven-largest companies in the Nasdaq 100 account for 55% of the index. This combined weighting will be reduced. It's also likely that there may be notable relative weighting shifts within these seven giants.</p>
+      <p>The current weights show that market capitalization is the dominant factor, but it's not the only one.</p>
+      <p>Microsoft stock has the largest weight, at 12.9%, as of July 7. Apple stock has a 12.5% weight, despite having a $2.999 trillion market cap vs. Microsoft's $2.51 trillion.</p>
+      <p>Google stock has a 7.4% weighting with the GOOGL and GOOG share classes combined.</p>
+      <p>Nvidia stock has vaulted to a 7% Nasdaq 100 weighting, thanks to its $1.05 trillion market cap. That's a slightly larger weight than Amazon stock (6.9%), even though the latter has a significantly higher valuation at $1.33 trillion.</p>
+      <p>Tesla stock and Meta Platforms round out the top-seven members, with weights of 4.5% and 4.3%, respectively.</p>
+      <p>Just for reference, for the entire Nasdaq composite, Apple stock had an 11.4% weighting as of July 7 while Microsoft was at 9.5%. GOOGL stock is at 5.8% while Amazon and Nvidia are at 5.1% and 4%, respectively. TSLA stock has 3.3% share and META stock is at 2.8%.</p>
+      <h3>How Much Will Nasdaq 100 Megacaps Be Cut?</h3>
+      <p>Based on Nasdaq 100 methodology, the combined weight of the five companies with the largest market caps will be set to 38.5%. The five-largest companies, Apple, Microsoft, Google, Amazon and Nvidia had a combined weight of 46.7%. That suggests some notable reduced weightings for these names.</p>
+      <p>Meanwhile, no component outside the top-five market cap companies can have a Nasdaq 100 exceeding the lesser of 4.4% or the weight of the stock with the fifth-largest market valuation. That points to at least a slight decline in TSLA stock's weight.</p>
+      <p>The official reweightings should be released on Friday, perhaps after the close. That will also include stocks that will see increased weightings.</p>
+      <h3>Magnificent Seven Soar In 2023</h3>
+      <p>The Invesco QQQ ETF (QQQ), which tracks the big-cap Nasdaq index, was up 37.5% in 2023 through July 7. The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW), which gives an equal weight to all 100 stocks, is up just 18.8%.</p>
+      <p>This largely reflects massive moves by megacaps this year. NVDA stock has nearly tripled (191%). META stock has soared 141% while TSLA stock is up 123%. AMZN stock has leapt 54.5%. AAPL stock has run up 47% and MSFT stock nearly 41%. Google stock is up a still-robust 35%.</p>
+      <p>There is some concern that this handful of names is distorting the health of the overall stock market, which is likely what's spurring the special rebalancing.</p>
+      <h3>Will Nasdaq 100 Special Rebalance Affect Stock Prices?</h3>
+      <p>The Nasdaq 100 special rebalance will spur stock allocation shifts among ETFs such as QQQ and mutual funds that track the index. So there could be some one-off gains or losses, perhaps as the planned changes are announced on July 14.</p>
+      <p>However, the impacts may be modest. For one, the big-cap Nasdaq index is going to adjust weightings, vs. a full addition or deletion. Also, far more money tracks the S&P 500, which is why S&P 500 component changes get a lot more attention than Nasdaq 100 moves.</p>
+      <p>The S&P 500 index, unlike the Nasdaq 100, is a pure market-cap weighted index.</p>
+      <p>Most of the "magnificent 7" stocks retreated Monday. Nvidia stock fell just 0.8%, while Apple slipped 1.1%. more than 1% intraday. Microsoft stock retreated 1.6%, TSLA 1.8% and Amazon 2%. GOOGL stock sank 2.5%.</p>
+      <p>The one exception: META stock climbed 1.2%, as Meta's new Threads app topped 100 million sign-ups in less than a week.</p>
+      <p>Megacaps weighed on the Nasdaq 100, which fell intraday before eked out a gain. The equal-weight QQEW jumped 1.8%.</p>
+    </div>
+  },
+  {
+    id: 559,
+    title: 'LIVE: FTSE higher as UK wage growth piles pressure on Bank of England',
+    category: 'Indices',
+    subCategory: ['FTSE', 'UK', 'BOE'],
+    description: <div className="blog-desc">
+      <p>European stocks and the FTSE 100 opened in the green on Tuesday as the latest UK wage growth figures delivered a blow to the Bank of England’s bid to bring down inflation.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 - 11:34 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-846.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>European stocks and the FTSE 100 opened in the green on Tuesday as the latest UK wage growth figures delivered a blow to the Bank of England’s bid to bring down inflation.</p>
+    	<p>It comes after the Office for National Statistics (ONS) said average weekly earnings, excluding bonuses, hit an annual rate of 7.3% during the three months to May — the highest level on record and higher than analysts had expected.</p>	
+	    <p>The FTSE 100 (^FTSE) opened up 0.05% at 7,277.55 points. The CAC 40 (^FCHI) in Paris rose 0.72% to 7,194.57 points, while in Germany, the DAX (^GDAXI) climbed 0.51% to 15,748.69 points.</p>	
+	    <h3>US and Asia</h3>
+      <p>In the US, Wall Street closed higher on Monday as traders anticipate key US inflation data out this week and second-quarter (Q2) earnings reports from JPMorgan (JPM), Wells Fargo (WFC), Citigroup (C) and BlackRock (BLK).</p>
+      <p>The Dow Jones (^DJI) rose 0.62% to 33,944.40 points, the S&P 500 (^GSPC) gained 0.24% to 4,409.53 points, while the tech-heavy NASDAQ (^IXIC) climbed 0.18% to 13,685.48.</p>
+      <p>In Asia, the markets staged a recovery overnight as the markets continued to digest the news that China's factory-gate prices in June experienced the most significant decrease in seven-and-a-half years, while consumer inflation reached its lowest point since 2021.</p>
+      <p>Tokyo’s Nikkei 225 (^N225) closed up 0.04% to 32,203.57 points, while the Hang Seng (^HSI) in Hong Kong gained 1.18% to 18,698.19. In mainland China, the Shanghai Composite (000001.SS) also rose, by 0.48% to 3,219.28 points.</p>
+      <h3>Pound</h3>
+      <p>The release of the UK wage growth data this morning sent the pound up to its strongest position against the US dollar since April 2022, as investors doubled down on bets in favour of higher Bank of England interest rates.</p>
+      <p>The pound to dollar exchange rate (GBPUSD=X) in early trade on Tuesday rose 0.28% to 1.28, meaning £1 will get you $1.28. Meanwhile the pound to euro exchange rate (GBPEUR=X) went up 0.10% to 1.16.</p>
+      <p>Matthew Ryan, head of market strategy at global financial services firm Ebury, said: "Financial markets are now pricing in a peak in UK rates of around 6.35% in the first quarter of 2024, which would surely make the BoE the most hawkish major central bank in the world between now and then.</p>
+      <p>“We think that markets are slightly ahead of themselves, although we do expect another 50 basis point hike from the MPC in August, with a real risk that the base rate tops out above 6%.”</p>
+      <h3>Oil prices</h3>
+      <p>Meanwhile, oil prices extended gains on Tuesday as OPEC+ output cuts offset demand concerns among investors.</p>
+      <p>US crude oil, or West Texas Intermediate (CL=F), gained 0.47% to trade at $73.33 a barrel, while Brent crude (BZ=F) rose 0.36% to $77.97 a barrel.</p>
+      <h3>Economic data</h3>
+      <p>Investors will also be watching key data out this week, including US CPI data for June on Wednesday with prices set to rise 3.6%year-on-year and 0.2% month-on-month, from 4% and 0.1% respectively, from 5.3% and 0.4%.</p>
+      <p>The Bank of Canada will also have its rate decision on Wednesday, which is expected to rise 22bps.</p>
+      <p>Moreover, all eyes will be on Brent and WTI crude prices when US EIA crude oil inventories are released.</p>
+      <p>On Thursday, China's trade balance figures for June will be closely watched with exports expected to fall.</p>
+      <p>UK GDP figures for May will also come out on Thursday with growth expected to be flat.</p>
+      <p>Also on Thursday, US PPI (June) data will be released showing initial jobless claims, which is also expected to fall.</p>
+    </div>
+  },
+  {
+    id: 558,
+    title: 'Dow Jones Today: Index Gains Despite Tech Drop',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Index', 'Tech'],
+    description: <div className="blog-desc">
+      <p>Members of the Federal Reserve indicated in public statements that inflation continued to be a problem that could require further interest rate hikes, and the Federal Reserve’s Vice Chair, Michael Barr,</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 - 12:21 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-845.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Members of the Federal Reserve indicated in public statements that inflation continued to be a problem that could require further interest rate hikes, and the Federal Reserve’s Vice Chair, Michael Barr, said that banks could need even tighter regulations to protect financial stability. While the Dow reacted more positively to the news, the Nasdaq and S&P 500 were up about 0.1% in the trading session as investors wait for Wednesday’s Consumer Price Index inflation data. Drugmaker Amgen (AMGN) gained 2.5% to lead the Dow Jones higher, while pharmacy chain Walgreens Boots Alliance (WBA) increased 2%.</p>
+    	<h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>Amgen gained 2.5%, while Walgreens moved up 2% and Merck rose 1.3%.</li>
+        <li>Microsoft fell as investors waited for the results of a key hearing on its merger with Activision Blizzard.</li>
+        <li>Apple moved lower after its supplier Foxconn pulled out of a deal in India.</li>
+      </ul>
+      <p>In advance of key inflation data coming later this week, the Dow Jones Industrial Average (DJIA) rebounded from last week’s 2% drop, with investors sending the index higher by 0.5%, or 175 points.</p>	
+    	<p>Members of the Federal Reserve indicated in public statements that inflation continued to be a problem that could require further interest rate hikes, and the Federal Reserve’s Vice Chair, Michael Barr, said that banks could need even tighter regulations to protect financial stability. While the Dow reacted more positively to the news, the Nasdaq and S&P 500 were up about 0.1% in the trading session as investors wait for Wednesday’s Consumer Price Index inflation data.</p>	
+    	<p>Drugmaker Amgen (AMGN) gained 2.5% to lead the Dow Jones higher, while pharmacy chain Walgreens Boots Alliance (WBA) increased 2%. Another pharmaceutical manufacturer, Merck & Co. (MRK), rose by 1.3%, as the health sector moved higher by 0.7%.</p>
+      <p>The industrials sector was the best performing, moving higher by 1.3%, with Honeywell (HON) shares were up about 1.9% after it said it would buy Scadafence, an Israel-based cybersecurity provider. Caterpillar (CAT) gained 1%.</p>
+      <p>While technology stocks have been helping lead recent market gains, today they stood on the opposite end of the trend.</p>
+      <p>Microsoft (MSFT) dropped 2.4% as investors await the outcome of a U.S. District Court hearing over whether to grant the Federal Trade Commission a temporary injunction to block its acquisition of video game maker Activision Blizzard. The judge’s ruling on the injunction is expected this week, with the companies warning that the merger is likely dead if the injunction is granted.</p>
+      <p>Shares of Apple (AAPL) dropped 1.6% after one of its key suppliers, Foxconn, said it would pull out of a deal that would have built a semiconductor chip manufacturing facility in India. Apple has been urging its affiliates to diversify its supply chain in order to reduce its reliance on mainland China amid rising political tensions.</p>
+      <p>Verizon (VZ) fell 1.4% after a report showed that several major telecom companies have left behind as many as 2,000 old telephone cables that are covered in lead, potentially creating an expensive environmental cleanup for the company. AT&T (T) shares also fell on the report, dropping 2.2%.</p>
+    </div>
+  },
+  {
     id: 557,
     title: 'Dow Jones Falls On June Jobs Report; Alibaba Jumps On $1.1 Billion Fine',
     category: 'Indices',
