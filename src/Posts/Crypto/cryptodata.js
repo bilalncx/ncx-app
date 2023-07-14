@@ -1,5 +1,129 @@
 const data = [
   {
+    id: 612,
+    title: 'Ether Pushes Past $2K as Ripple Partial Win Against SEC Invigorates Market',
+    category: 'Crypto',
+    subCategory: ['Ether', 'Ripple', 'SEC'],
+    description: <div className="blog-desc">
+      <p>Ether (ETH) is trading hands above $2,000, a three-month high, as the market picked up renewed optimism after a U.S. court found that sales of Ripple’s XRP tokens on exchanges and through algorithms did not constitute investment contracts.</p>
+    </div>,
+    authorName: 'Sam Reynolds',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 7:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-863.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ether (ETH) is trading hands above $2,000, a three-month high, as the market picked up renewed optimism after a U.S. court found that sales of Ripple’s XRP tokens on exchanges and through algorithms did not constitute investment contracts.</p>
+    	<p>The second largest cryptocurrency by market cap was up 7.4% at $2,010 during the Asian morning hours. Various layer-1 tokens, such as Solana’s SOL, which has been accused by the SEC of being a security, also recorded double digit gains following the Ripple-SEC ruling on Thursday.</p>	
+    	<p>At the time of writing, SOL jumped 33.8%, MATIC gained 19.5%, Cardano's ADA was up 25%, and Stellar’s XLM soared 52%, in the last 24 hours.</p>	
+	    <p>The governance token of Lido DAO (LDO) was also up 25% in the last 24 hours. The CoinDesk Market Index (CMI), a measure of crypto markets performance, was up 7.2%.</p>
+      <p>Bitcoin (BTC) also passed its one-year high, trading at $31,424. Ripple's XRP nearly doubled after the ruling and was trading 66% at 78 cents at the time of writing.</p>
+      <p>In the last 12 hours, $203 million worth of short positions by crypto traders was liquidated, according to Coinglass data.</p>
+    </div>
+  },
+  {
+    id: 611,
+    title: 'Bitcoin, Ether surge after Ripple notched partial win against SEC; Ripple’s XRP leads crypto rally',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'XRP', 'Ether'],
+    description: <div className="blog-desc">
+      <p>Bitcoin surged on Friday morning in Asia to breach the US$31,000 resistance level, after Ripple Labs achieved a partial victory in its three-year lawsuit against the U.S. Securities and Exchange Commission (SEC).</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 6:04 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-862.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin surged on Friday morning in Asia to breach the US$31,000 resistance level, after Ripple Labs achieved a partial victory in its three-year lawsuit against the U.S. Securities and Exchange Commission (SEC).</p>
+    	<p>The regulator  accused Ripple of offering XRP as an unregistered security. Along with Bitcoin, Ether and all other top 10 non-stablecoin cryptocurrencies logged considerable gains, with XRP spearheading the rally with a rise of over 70%. U.S. equity futures traded flat in the Asia time zone on Friday as investors await earnings reports from major U.S. banks. Thursday’s U.S. producer price index (PPI) has added to a sense that inflation is slowing in the country.</p>
+      <h3>XRP ruling provides crypto market boost</h3>	
+    	<p>Bitcoin climbed 3.45% over the last 24 hours to US$31,463 as of 07:50 a.m. in Hong Kong for a weekly gain of 4.93%, according to data from CoinMarketCap. The world’s largest cryptocurrency reached a high of US$31,814 early Friday morning, the highest price since June 2022.</p>	
+    	<p>In a summary judgement on Thursday,  New York Southern District Court Judge Analisa Torres ruled that Ripple’s programmatic sales of the XRP token on public exchanges do not constitute securities, marking a partial victory for Ripple with the SEC. The regulator first sued the San Francisco-based financial technology firm on the grounds that XRP constitutes a security in 2020.</p>
+      <p>The verdict came with a critical caveat, however.  The court ruled that Ripple’s XRP sales to institutional investors did violate securities laws.</p>
+      <p>Nonetheless, Ripple’s Chief Executive Officer Stuart Alderoty called the judgement “a huge win” in a Friday tweet.</p>
+      <p>A huge win today – as a matter of law - XRP is not a security. Also a matter of law - sales on exchanges are not securities. Sales by executives are not securities. Other XRP distributions – to developers, to charities, to employees are not securities.</p>
+      <p>Alderoty said that “the only thing the Court found constitutes an investment contract is past direct XRP sales to institutional clients.” Those transactions will now be subject to further court proceedings.</p>
+      <p>Despite the overall optimism in the crypto community evidenced by the upswing in the market, there are also a number of industry voices sounding a note of caution.</p>
+      <p>In an emailed comment, CoinShares’ Head of Product Townsend Lansing said that the aspect of the ruling that identifies Ripple’s sales to institutional customers as a violation of securities law marks “a considerable victory for the SEC.”</p>
+      <p>The ruling will now set a precedent for legal action against other cryptocurrencies by regulators, he said.</p>
+      <p>“It is important to note that institutional investors who purchased directly from Ripple may find themselves subject to class-action litigation as potential underwriters,” Lansing added. “This is an area to watch closely, especially if big-name venture capitalists were involved.”</p>
+      <p>But, while some sense of jeopardy remained for those involved, Justin d’Anethan, head of APAC business development at Belgium-based crypto market maker Keyrock, believes that the ruling had at least “shook investors in the best of ways.”</p>
+      <p>Elsewhere, Europe’s first Bitcoin exchange-traded fund (ETF) is set for a public listing this month. That follows a 12-month delay from the initially planned date, the Financial Times reported on Thursday.</p>
+      <p>Experts have identified the listing as another potential catalyst for the crypto market.</p>
+      <p>“With the talks of ETFs in the background, the idea that we could see products tracking many cryptocurrencies is not implausible and traders are naturally positioning themselves accordingly,” said Keyrock’s d’Anethan.</p>
+      <p>Like Bitcoin, Ether surged 6.99% to US$2,004, moving up 7.69% for the week. The token is trading above US$2,000 for the first time since April.</p>
+      <p>Boosted by the ruling on the SEC-Ripple case, all other top 10 non-stablecoin cryptocurrencies rose in the past 24 hours. Cardano’s ADA, Solana’s SOL and Polygon’s MATIC each logged two-digit gains.</p>
+      <p>XRP, subject of the SEC’s lawsuit against issuer Ripple, jumped 72.75% to US$0.8142 and added 74.89% for the week. In doing so, it replaced Binance’s BNB as the third largest non-stablecoin cryptocurrency by market cap.</p>
+      <p>The total crypto market capitalization rose 6.19% in the past 24 hours to US$1.26 trillion, while trading volume jumped 95.72% to US$60.3 billion.</p>
+      <h3>Forkast 500 up, Dapper Labs announces layoffs</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>The main Forkast 500 NFT index edged up 0.14% in the past 24 hours to 2,699.39 as of 09:55 a.m. in Hong Kong. Forkast’s Solana and Cardano NFT market indices also moved higher, while the Etheum and Polygon indices dropped.</p>
+      <p>Despite the overnight rise in cryptocurrency prices associated with the Ripple ruling, total NFT sales volume dipped 1.72% in the past 24 hours to US$24.45 million, according to data from CryptoSlam.</p>
+      <p>Among all NFT collections, Bitcoin-based $FRAM BRC-20 NFTs topped the 24-hour sales volume, edging up 0.31% to US$2.14 million. In doing so, it recorded over two thirds of the total volume on the Bitcoin network. Ethereum-based collections Bored Ape Yacht Club (BAYC) and the Captainz ranked second and third respectively.</p>
+      <p>BAYC #1734, part of the BAYC collection, topped collectible sales in the past 24 hours. It was sold at 600 Ether (US$1.2 million) early Friday. As exciting as this big sale is, BAYC #1734 was previously sold at 800 Ether in January 2022.</p>
+      <p>“This grail Bored Ape was sold at a huge loss, but the takeaway is that there is still a market for very high-priced NFTs, even in a bear market,” said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News.</p>
+      <p>As the bear market continues, Dapper Labs, the developer of hit NFT collections such as CryptoKitties and NBA Top Shot,  announced the layoff of 51 staff on Thursday — roughly 12% of its workforce.</p>
+      <p>“The decision was incredibly difficult” but necessary to “ensure a lean and efficient” company, said Dapper Labs Chief Executive Officer Roham Gharegozlou in a letter to employees. It is the third round of layoffs at the company in the past 12 months. Those layoffs saw its workforce cut by 22% in November 2022 and by a further 20% in February this year.</p>
+      <p>Cool Cats Group, the Web3 company behind NFT collection Cool Cats, announced a partnership with game developer nWayPlay,  a subsidiary of Hong Kong-based software and investment giant Animoca Brands. Together, the two companies will develop a Web3 game set to be released between late 2023 and early 2024.</p>
+      <h3>US equities flat amid data releases</h3>
+      <p>U.S. stock futures traded flat as of 11:50 a.m. in Hong Kong.  All three major U.S. indexes closed higher in regular Thursday trading, with the Nasdaq leading the gains with a 1.58% rise.</p>
+      <p>The U.S. producer price index (PPI) released Thursday recorded a 0.1% year-on-year rise for the month of June, down from 0.9% in May. The June figure is the smallest increase since August 2020.</p>
+      <p>The data is also well below analyst expectations of a 0.4% annual increase in PPI. Combined with weak consumer price index data released on Wednesday, the data points to a slowdown in U.S. inflation.</p>
+      <p>“The better-than-expected inflation figures for June 2023 would suggest that policy is working to ease price pressures as higher interest rates reduce demand. Key payroll figures announced in early July also came in below expectations with the economy generating less jobs than expected in June,” said Keith Wade, chief economist & strategist at asset management Schroders.</p>
+      <p>However, given lingering inflation worries, Wade still expects the Federal Reserve to make another interest rate hike in July. The tight labor market and the potential for a reversal in the Fed’s monetary policy could, Wade said, trigger a rally in the bond market that would “loosen financial conditions.”</p>
+      <p>“Given the efforts the Fed has made to convince markets they were serious about inflation and not about to pivot, this would seem to be too early,” said Wade.</p>
+      <p>Federal Reserve Governor Christopher Waller said in a Thursday speech that the Fed would need to “keep policy restrictive for some time” in order to reduce inflation below its 2% target. He said that he anticipates two more rate hikes by the end of the year.</p>
+      <p>“I am more confident that the banking turmoil is not going to result in a significant problem for the economy, and I see no reason why the first of those two hikes should not occur at our meeting later this month,” said Waller.</p>
+      <p>Meanwhile, a Wednesday report by financial comparison service company Bankrate showed that economists believe there is a 59% chance the U.S. economy will enter a recession inside the next twelve months. The report cited concern about the long-term economic impact of this year’s extended series of rate hikes.</p>
+      <p>The 59% figure is, however, a decrease on the 64% chance given in April, and the lowest level in the past 12 months.</p>
+      <p>The Federal Reserve meets on July 26 to discuss its next move on rates, which now sit between 5% and 5.25%. The CME FedWatch Tool predicts a 92.4% chance the Fed will enact a 25-basis-point rate increase this month, and a 7.6% chance it will leave the rate unchanged.</p>
+      <p>Investors are now awaiting the release of second-quarter earnings reports from major financial institutions on Friday. The releases will include reports from JPMorgan Chase, Wells Fargo, Citigroup, BlackRock and more.</p>
+      <p>Elsewhere, main stock indexes across Asia traded higher on Friday morning. China’s Shanghai Composite, Hong Kong’s Hang Seng, Japan’s Nikkei and South Korea’s Kospi all posted rises as of 12:30 p.m. in Hong Kong.</p>
+    </div>
+  },
+  {
+    id: 610,
+    title: 'XRP soars 61% after a judge says the cryptocurrency is not a security in a big win over the SEC',
+    category: 'Crypto',
+    subCategory: ['XRP', 'SEC', 'Cryptocurrency'],
+    description: <div className="blog-desc">
+      <p>XRP soared as much as 61% on Thursday after a US judge ruled that certain trades of Ripple's crypto token did not constitute the sale of a security.</p>
+    </div>,
+    authorName: 'Matthew Fox',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 10:36 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-864.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li><strong>XRP soared as much as 61% on Thursday after a US judge said certain aspects of the sale of the token did not break federal securities laws.</strong></li>
+        <li><strong>The SEC had sued Ripple for the sale of its XRP token in 2020 for the failure to register XRP as a security.</strong></li>
+        <li><strong>Crypto related stocks like Coinbase and Riot Blockchain soared more than 10% following the news.</strong></li>
+      </ul>
+    	<p>XRP soared as much as 61% on Thursday after a US judge ruled that certain trades of Ripple's crypto token did not constitute the sale of a security.</p>
+    	<p>Ripple, its CEO Brad Garlinghouse, and its co-founder Christian Larsen, were sued by the SEC in 2020 for the alleged failure to register its sale of $1.4 billion of XRP tokens as securities. Since then, the company has been entangled in a drawn out lawsuit that could have a big impact on the broader crypto industry going forward.</p>	
+    	<p>US District Judge for the Southern District of New York Analisa Torres said the XRP token is "not necessarily a security on its face."</p>	
+    	<p>"XRP, as a digital token, is not in and of itself a 'contract, transaction, or scheme' that embodies the Howey requirements of an investment contract," Torres said.</p>
+      <p>But there are multiple facets of the ruling and it gets complicated depending on the type of sale of XRP.</p>
+      <p>The key differentiator in the ruling is whether the sale of the XRP token was directly from Ripple to institutional investors, or if it was a secondary sale on a crypto exchange.</p>
+      <p>The judgement said that programmatic sales through algorithms on various crypto exchanges were not investment contracts, which was a big win for Ripple.</p>
+      <p>"There is no evidence that a reasonable Programmatic Buyer, who was generally less sophisticated as an investor, shared similar 'understandings and expectations' and could parse through the multiple documents and statements that the SEC highlights," Torres said.</p>
+      <p>A motion for summary judgement filed by the SEC in its "aiding and abetting" allegations against Garlinghouse and Larsen was denied. The court said it "is not clear whether Larsen and Garlinghouse knew or recklessly disregarded that securities laws, rather than laws under other regulatory regimes, applied to XRP."</p>
+      <p>Garlinghouse reacted to the ruling on Twitter.</p>
+      <p>"We said in Dec 2020 that we were on the right side of the law, and will be on the right side of history. Thankful to everyone who helped us get to today's decision – one that is for all crypto innovation in the US. More to come," Garlinghouse tweeted.</p>
+      <p>However, the judgement also said that the institutional sale of the tokens did break federal securities laws as the buyers likely expected to profit off of their purchase.</p>
+      <p>Ripple had sold nearly $730 million of XRP tokens directly to hedge funds and other institutional investors, and the company used the funds from the sale to develop its crypto ecosystem.</p>
+      <p>Investors are no doubt excited about the court developments. Aside from XRP, crypto-related stocks like Coinbase and Riot Blockchain soared more than 10%, while ether jumped more than 5% and bitcoin jumped about 2%.</p>
+    </div>
+  },
+  {
     id: 609,
     title: 'Digital assets report: Inflows rise even as crypto market stagnates',
     category: 'Crypto',

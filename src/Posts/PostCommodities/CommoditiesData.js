@@ -1,5 +1,145 @@
 const data = [
   {
+    id: 574,
+    title: 'Oil Heads for Third Weekly Gain as Africa, Russia Crimp Supply',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Africa', 'Russia'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil headed for a third weekly gain as supply disruptions in Africa and a reduction in shipments from Russia tightened the market.</p>
+    </div>,
+    authorName: 'Yongchang Chin and Verity Ratcliffe',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 3:35 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689339571/ncx-blog-877_tnyleu.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil headed for a third weekly gain as supply disruptions in Africa and a reduction in shipments from Russia tightened the market.</p>
+    	<p>West Texas Intermediate futures traded near $77 a barrel, up around 4% this week, even as they fluctuated Friday. Protesters shut a major Libyan oil field, Sharara, after output from the smaller El Feel field was already halted Thursday.</p>	
+    	<p>Meanwhile, flows from the Forcados oil terminal in Nigeria have been suspended to check for a possible leak. That follows signs that resilient Russian flows are finally starting to decline, four months after the country was due to slash output.</p>	
+    	<p>Crude prices remain marginally lower this year, and the International Energy Agency said Thursday that global demand won’t grow as fast as previously expected in 2023 — although it still sees record consumption. The market is expected to tighten in the second half, aided by supply cuts from Saudi Arabia and Russia.</p>
+      <p>The Organization of Petroleum Exporting Countries expects an even tighter global oil market next year, a view more bullish than those of other forecasters. World oil demand will climb by 2.2 million barrels a day to reach 104.3 million a day, OPEC said on Thursday in its first detailed assessment of 2024.</p>
+      <p>“There’s a big underlying story about lower inflationary pressure in the US and also in Europe,” which is helping to buoy prices, said Arne Lohmann Rasmussen, head of research at A/S Global Risk Management Ltd. “However, lower inflation could push up commodity prices and we might end up in a situation where inflationary pressure comes back.”</p>
+      <p>Traders will closely watch for the Federal Reserve’s next move on interest rates, as well as a potential response among G-7 policy makers after prices for Russian crude surged over their cap, said Rasmussen.</p>
+      <p>While the oil balance looks tight for the remainder of the year, “from a technical point of view the market is likely to face some strong resistance at the 200-day moving average,” said Warren Patterson, the Singapore-based head of commodities strategy at ING Groep NV.</p>
+      <p>The US benchmark has surpassed its 50- and 100-day moving averages in quick succession following recent gains, with prices near an 11-week high as physical market supply disruptions hit futures. WTI hasn’t breached the 200-day threshold since August last year, although futures came close in April.</p>
+      <p>“There’s a good chance we will break the 200-day moving average next week,” Rasmussen said.</p>
+    </div>
+  },
+  {
+    id: 573,
+    title: 'Russia is about to overtake Saudi Arabia as the top OPEC+ producer',
+    category: 'Commodities',
+    subCategory: ['Russia', 'Saudi Arabia', 'OPEC+'],
+    description: <div className="blog-desc">
+      <p>Russia is about to surpass Saudi Arabia as the top OPEC+ oil producer, according to the International Energy Agency.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 5:52 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689340901/ncx-blog-878_te7oos.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Russia is about to surpass Saudi Arabia as the top oil producer in the OPEC+ cartel, according to the IEA.</li>
+        <li>The agency estimated Saudi Arabia would produce just 9 million barrels per day of oil in July and August.</li>
+        <li>The kingdom voluntarily slashed production by 1 million bpd and extended that cut through July.</li>
+      </ul>
+    	<p>Russia is about to surpass Saudi Arabia as the top OPEC+ oil producer, according to the International Energy Agency.</p>
+    	<p>In its monthly oil market report, the agency estimated Saudi Arabia's total crude production would fall to 9 million barrels a day through the months of July and August. That would be the lowest volume of oil the kingdom has produced in two years, the report said, which would cause it to slip below the ranks of Russia as the top oil producer in the OPEC+ cartel.</p>	
+    	<p>The estimated drop largely stems from Saudi Arabia's voluntary oil production cut of 1 million barrels per day, which the nation said recently it would extend through the month of July in a bid to prop up crude prices.</p>	
+    	<p>In June, Saudi Arabia produced 9.98 million barrels a day, and Russia produced 9.45 million barrels a day, according to IEA data.</p>
+      <p>Russia also said earlier this month that it plans to curb output by 500,000 barrels per day starting in August. But its actual output has often exceeded the reduced levels it promised, setting Russia up to potentially pump more than Saudia Arabia.</p>
+      <p>In fact, Saudi officials have complained that Russia isn't following through with its promised cuts, as its weakened economy is adding pressure to keep energy revenues afloat. In May, that caused the price of oil to fall below $81 a barrel, a key breakeven level for Saudi Arabia.</p>
+      <p>Riyadh has worked to push oil prices higher for months, with the nation's energy chief citing market "distortions" that are keeping prices low. That led OPEC+ to issue a series of aggressive production cuts last year and Saudi Arabia's first voluntary cut in June.</p>
+      <p>Meanwhile, Russian oil exports slumped in June to the lowest volume since 2021, suggesting that its crude production may finally have dipped as well, after months of robust exports earlier this year.</p>
+    </div>
+  },
+  {
+    id: 572,
+    title: 'Production at Libya’s Second-Largest Oil Field Halted',
+    category: 'Commodities',
+    subCategory: ['Libya', 'Oil', 'Production'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Libya’s second-biggest oil field is in the process of shutting as protests disrupt supplies in the North African country.</p>
+    </div>,
+    authorName: 'Hatem Mohareb',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 10:59 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689341318/ncx-blog-879_zttgkr.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Libya’s second-biggest oil field is in the process of shutting as protests disrupt supplies in the North African country.</p>
+    	<p>The Sharara deposit in the southwest of the country will gradually halt production, according to a person familiar with the matter who asked not to be identified because the matter isn’t public. The shutdown follows a stoppage at Libya’s El Feel field, which was also targeted by protesters.</p>	
+    	<p>There was also disruption in Nigeria, the largest oil producer in Africa. That country’s Forcados oil terminal was stopped so that divers could inspect a possible leak, people familiar with the matter said on Thursday.</p>	
+    	<p>Brent crude settled above $81 a barrel Thursday to reach an 11-week high. Libyan oil exports generally go to Spain, Italy and France, so a prolonged disruption could mean more West African crude moving into Northwest Europe, said Rebecca Babin, a senior energy trader at CIBC Private Wealth.</p>
+      <p>The outage comes as signs emerge that supply curbs from Saudi Arabia and Russia are starting to tighten the market, jolting oil futures for their recent torpor.</p>
+      <p>Sharara and the Waha field, which is further east, pump similar amounts of oil. Before the disruption, Sharara was at about 250,000 to 260,000 barrels a day, and Waha was at about 290,000 barrels a day.</p>
+      <p>(Adds oil price and quote in fourth and fifth paragraphs. A previous version corrected the spelling of Sharara in second paragraph)</p>
+    </div>
+  },
+  {
+    id: 571,
+    title: 'India restricts imports of plain gold jewellery',
+    category: 'Commodities',
+    subCategory: ['India', 'Gold', 'jewellery'],
+    description: <div className="blog-desc">
+      <p>MUMBAI (Reuters) -India on Wednesday restricted imports on plain gold jewellery, as the world's second-largest consumer of the precious metal tries to plug loopholes in its trade policy.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 12, 2023 - 8:29 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689332878/ncx-blog-875_usmfcl.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>MUMBAI (Reuters) -India on Wednesday restricted imports on plain gold jewellery, as the world's second-largest consumer of the precious metal tries to plug loopholes in its trade policy.</p>
+    	<p>Import of articles of gold have been put under the restriction category from the free category, a government notification said, adding that import under the India-United Arab Emirates Comprehensive Economic Partnership Agreement would be allowed without any license.</p>	
+    	<p>The Ministry of Commerce and Industry did not immediately respond to a request for comment.</p>	
+    	<p>The move comes as importers over the last few months have been using a policy flaw to source plain gold jewellery from Indonesia without paying any import taxes.</p>
+      <p>"Indonesia was never a gold jewellery supplier to India, but in the last few months, bullion dealers imported 3-4 tonnes from Indonesia without paying any import taxes," said a Mumbai-based dealer with a private bullion importing bank.</p>
+      <p>India levies a 15% tax on gold imports.</p>
+      <p>"Many dealers got to know about the loophole, and they were also trying to source from Indonesia. The policy change has closed that loophole," he said.</p>
+      <p>(Reporting by Jose Joseph in Bengaluru, Shivangi Acharya in Delhi and Rajendra Jadhav in MumbaiEditing by Arun Koyyur and Matthew Lewis)</p>
+    </div>
+  },
+  {
+    id: 570,
+    title: 'Gold gains as dollar, yields slip ahead of US inflation data',
+    category: 'Commodities',
+    subCategory: ['Gold', 'dollar', 'US'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices edged higher on Tuesday as the dollar and bond yields fell ahead of U.S. inflation data that could offer more cues on the Federal Reserve's rate-hike path.</p>
+    </div>,
+    authorName: 'Brijesh Patel and Ashitha Shivaprasad',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 11, 2023 - 5:21 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689336504/ncx-blog-876_gwbixt.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Brijesh Patel and Ashitha Shivaprasad</p>
+    	<p>(Reuters) - Gold prices edged higher on Tuesday as the dollar and bond yields fell ahead of U.S. inflation data that could offer more cues on the Federal Reserve's rate-hike path.</p>	
+    	<p>Spot gold was up 0.4% at $1,931.83 per ounce by 02:11 p.m. EDT (1811 GMT), set for a third consecutive session of gains. U.S. gold futures rose 0.3% to $1,937.10.</p>	
+    	<p>Making gold cheaper for holders of other currencies, the dollar index fell 0.3% to its lowest level since May 11. Benchmark 10-year U.S. Treasury yields also slipped. [USD/] [US/]</p>
+      <p>"If we have a soft inflation reading, it will be positive for gold and prices might go up to $1,950. I think it will be tough for gold to break below $1,900 level on a hot report," said Edward Moya, senior market analyst at OANDA.</p>
+      <p>"Rate hikes are not going to break gold's back, but it might kill the economy. So there is some support for gold due to this reason."</p>
+      <p>All eyes are on U.S. consumer prices data due on Wednesday, which is expected to show prices cooled on an annual basis in June.</p>
+      <p>However, markets are pricing in a 25-basis-point rate hike from the Fed later this month after last week's jobs report pointed to a resilient U.S. economy. [FEDWATCH]</p>
+      <p>Gold is used as a safe investment during times of political and financial uncertainty, but higher interest rates increase the opportunity cost of holding non-yielding bullion.</p>
+      <p>Spot silver fell 0.1% to $23.09 per ounce, platinum eased 0.1% to $925.76, while palladium rose 0.8% to $1,249.94.</p>
+      <p>"In the very long term, silver is expected to trade significantly above the $26/oz mark and should increasingly decouple from gold," TD Securities wrote in a note.</p>
+      <p>(Reporting by Brijesh Patel and Ashitha Shivaprasad in Bengaluru. Editing by Jane Merriman, Shilpi Majumdar and Vinay Dwivedi)</p>
+    </div>
+  },
+  {
     id: 569,
     title: 'Oil Falls as Light Summer Trading Hardens Technical Resistance',
     category: 'Commodities',
