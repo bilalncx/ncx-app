@@ -1,5 +1,110 @@
 const data = [
   {
+    id: 576,
+    title: 'GBP/USD Forecast – British Pound Continues to Power Through Resistance',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied significantly during the trading session on Thursday, as we continue to see inflation in the United States cool off, and therefore it’s likely that we continue to see the US dollar drop a bit.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 6:11 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-871.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has rallied significantly during the trading session on Thursday, as we continue to see inflation in the United States cool off, and therefore it’s likely that we continue to see the US dollar drop a bit.</p>
+	    <p>This will be the case as traders anticipate that the Federal Reserve may not have to be as aggressive, and with that being the case, I do think that we will continue to go higher.</p>	
+	    <p>A short-term pullback should offer buying opportunities, and I do think that you would get those occasionally. However, this is the scenario where the market will continue to go higher given enough time and therefore I think you will eventually see value hunters coming in to pick up this market.</p>	
+	    <p>The 1.30 level will continue to be an area of intense focus, as it is a large, round, psychologically significant figure, and of course an area that just offered a significant amount of resistance. “Market memory” comes into the picture here, so with that being the case I think you’ve got a situation where the market will find itself testing the resolve of the overall bullish pressure.</p>
+      <p>Keep in mind that the US dollar might be the biggest mover, and therefore I anticipate that the market may continue to go higher, perhaps as high as the 1.3250 level, maybe even the 1.35 level. Because of this, I think that it is only a matter of time before we see value hunters come in on those pullbacks, and therefore I have no interest in shorting this pair.</p>
+      <p>I believe it is probably obvious at this point that the US dollar is on its back foot, and it’s obvious also that the British pound has been very strong. I don’t expect to see this changing anytime soon, and therefore I remain bullish of this pair. Ultimately, the market will probably continue to be bullish, but we are getting a little stretched so don’t be surprised at all if you see some type of short-term turnaround.</p>
+      <p>As far as selling is concerned, I would need to see the massive trendline broken, something that we are nowhere near doing, and therefore it’s not even a thought at this point.</p>
+    </div>
+  },
+  {
+    id: 575,
+    title: 'AUD/USD Forecast – Australian Dollar Blasts Through Resistance',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has rallied significantly during the trading session on Thursday, blasting through the 0.68 level. This is an area that previously was resistance, </p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 5:53 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-870.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+    	<p>The Australian dollar has rallied significantly during the trading session on Thursday, blasting through the 0.68 level. This is an area that previously was resistance, and the fact that we have shot through there suggests that the US dollar weakness could continue.</p>
+	    <p>This was exacerbated by the CPI numbers on Wednesday coming out lighter than anticipated and suggesting that perhaps the market is going to see slowing inflation. That being said, the market is likely to continue to be very sensitive as traders around the world worry about the central banks and what they are going to be doing. The idea that the Federal Reserve may slow down has certainly weighed upon the US dollar, so this will be interesting.</p>	
+	    <p>Just above, the 0.69 level is an area where we have seen a bit of resistance after the previous shot higher. If we can break above there, then the market is likely to open up the possibility of a move to the 0.70 level.</p>
+      <p>That being said, we are a little overextended at this point, so a pullback could be coming. Nonetheless, it is a market that has been wildly volatile, due to the fact that the Aussie is not only sensitive to the global growth situation, but it is also very sensitive to commodity markets as well.</p>
+      <p>At this point, the US dollar is probably the biggest mover of this market, as we are seeing everybody focusing on the Federal Reserve’s next move, even though everybody already seems to know that there are a couple of rate hikes ahead.</p>
+      <p>The question is whether or not traders can be convinced that the Federal Reserve will stay “higher for longer.” Furthermore, the Reserve Bank of Australia has been relatively aggressive as well, so that is another factor in this market.</p>
+    	<p>The last couple of candlesticks have been very impulsive, and therefore one would have to assume that there’s a little bit of momentum, but a short-term pullback is probably necessary. Whether or not we can continue remains to be seen, but if we were to clear that 0.69 level, then we could start to see momentum really start to pick up.</p>
+    </div>
+  },
+  {
+    id: 574,
+    title: 'EUR/USD Forecast – Euro Continues to Climb',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro initially tried to rally during the trading session on Thursday, and it looks like we may have a little bit of follow-through. At this point, the market is likely to get looking to the 1.1250 level,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 5:14 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-869.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>The euro initially tried to rally during the trading session on Thursday, and it looks like we may have a little bit of follow-through. At this point, the market is likely to get looking to the 1.1250 level, an area that of course is a large, round, psychologically significant mid-century range, and an area that in the past has been important previously. If we can break above there, then it’s likely that the market could go to the 1.15 handle.</p>
+    	<p>Underneath, the 1.11 level is an area that previously has been resistance and should be supported on any type of pullback. All things being equal, this is a market that continues to see plenty of buyers, especially as it seems like the US economy is finally going to see a little bit of relief from the inflationary headwinds.</p>	
+    	<p>Granted, we are a little overdone to the upside in the short-term, but it shows that the trend is most certainly to the upside, and it’s probably worth noting that the market had previously formed a massive ascending triangle, and therefore it’s likely that the markets will continue to see technical traders chase this market higher.</p>	
+    	<p>Underneath, the 50-Day EMA sits right around the 1.09 level, an area that would be short-term support, and perhaps a bit of a “floor in the market.” Underneath there, then the market has to look at the 200-Day EMA as support as well, near the 1.0750 level.</p>
+      <p>It’s not until we break down below that level that the trend would change, and therefore it’s likely that you would see a massive selloff if we do break down below there. I don’t expect to see that, but it is something to keep in the back of your mind for longer-term moves.</p>
+      <p>In the end, it’s very likely that the euro continues to go higher but may need to pull back a bit in order to build up enough value so the traders will jump into the market and try to take advantage of “cheap euros.” The US dollar is on his back foot against most currencies, so this should continue to be the case going forward.</p>
+    </div>
+  },
+  {
+    id: 573,
+    title: 'Rupee ends higher for fourth session on broad dollar weakness',
+    category: 'Forex',
+    subCategory: ['Rupee', 'Dollar', 'forex'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) - The Indian rupee ended higher for a fourth straight session on Thursday, driven by broad weakness in the dollar, while demand for the greenback from importers limited gains.</p>
+    </div>,
+    authorName: 'Sethuraman N R',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 6:46 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-868.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Sethuraman N R</p>
+    	<p>BENGALURU (Reuters) - The Indian rupee ended higher for a fourth straight session on Thursday, driven by broad weakness in the dollar, while demand for the greenback from importers limited gains.</p>	
+    	<p>The rupee ended at 82.0725 against the dollar, after closing at 82.2475 on Wednesday. The currency has risen 0.8% so far this week.</p>	
+    	<p>The dollar index declined to 100.22, its lowest since April 2022, after U.S. inflation cooled at a faster-than-expected pace in June with traders now pricing in an end to U.S. interest rate hikes.</p>
+      <p>The dollar's slide also helped regional currencies such as the Korean won and the Malaysian ringgit to jump more than 1%.</p>
+      <p>The bias of traders has now turned towards taking short positions in the dollar, said Dilip Parmar, research analyst at HDFC Securities, adding that the 82 level is acting as a resistance for the rupee.</p>
+      <p>A break of the dollar index below 100 can only drive the rupee above 81.80 levels, while the Reserve Bank of India will not let the currency appreciate above that, Parmar said.</p>
+      <p>Meanwhile, rupee forward premiums jumped, with the one-year implied yield jumping to a two-week high of 1.75% intraday. The yield ended at 1.73%, up 10 bps from previous close.</p>
+      <p>There may be continued volatility in the rupee market between 81.85-82.90 levels, but three to six months down the line, the rupee is expected to rise towards the 81.25 range as Indian markets have shown a lot of strength in recent times with the dollar index topping out, said, Jateen Trivedi, vice president - research at LKP Securities.</p>
+      <p>(Reporting by Sethuraman NR in Bengaluru; Editing by Sohini Goswami)</p>
+    </div>
+  },
+  {
     id: 572,
     title: 'Pound hits 15-month high as UK wages rise',
     category: 'Forex',

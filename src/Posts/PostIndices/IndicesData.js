@@ -1,5 +1,170 @@
 const data = [
   {
+    id: 563,
+    title: 'Dow Jones Gains Amid Disney TV Shock; This Cathie Wood Stock Hits Buy Zone As She Loads Up',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Disney', 'Cathie wood'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones gained as Disney CEO Bob Iger spoke about its TV business. A Cathie Wood stock hit a buy zone. Nvidia stock cleared an entry.</p>
+    </div>,
+    authorName: 'MICHAEL LARKIN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 12:25 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-873.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones gained as Disney CEO Bob Iger spoke about its TV business. A Cathie Wood stock hit a buy zone. Nvidia stock cleared an entry.</p>
+    	<p>The Dow Jones Industrial Average closed higher despite a Disney (DIS) TV bombshell from CEO Bob Iger. A Cathie Wood stock was in a buy zone after the famed investor bought shares. Red-hot AI stock Nvidia (NVDA) cleared a buy point.</p>	
+    	<p>A number of stocks passed buy points amid the ebullient action. Leaderboard stocks ASML (ASML) and On Holding (ONON) tested entries while Magellan Midstream Partners (MMP) is a buy zone.</p>
+      <p>Stocks were boosted following more positive inflation news. The Producer Price Index came in below views. This applied to both overall and the core producer prices.</p>
+      <p>Meanwhile, initial unemployment claims unexpectedly dropped to 237,000 vs. 248,000 the previous week. Economists expected claims to edge higher to 249,000. The jobs market continues to show impressive strength.</p>
+      <p>Treasury yields fell again. The 10-year yield tumbled 10 basis points to 3.76% while the two-year yield dropped 12 basis points to 4.62%. Nevertheless, the yield curve remains inverted.</p>
+      <h3>Nasdaq Rallies As IBD 50, Small Caps Jump</h3>	
+    	<p>The Nasdaq popped again, the tech-heavy index roaring 1.6% higher. IBD Sector Leaders stock Zscaler (ZS) was a top performer here, rising 5.4%.</p>
+      <p>The benchmark S&P 500 finished the session up 0.9%. Epam Systems (EPAM) was a noteworthy performer in the S&P as it jumped 4.8%.</p>
+      <p>Both indexes closed at their highest levels in 2023 so far. Volume was lower on both the NYSE and the Nasdaq, according to early data.</p>
+      <p>The S&P 500 sectors finished mostly positive. Communication services and technology were the top gainers. Health and energy were the only laggards in the stock market today.</p>
+      <p>Small caps partook in the gains, with the Russell 2000 popping 1%. Growth stocks impressed even more, with the Innovator IBD 50 ETF (FFTY) closing up 1.6%.</p>
+      <h3>Dow Jones Today: Microsoft Stock Pops, Disney TV News</h3>
+      <p>The Dow Jones Industrial Average lagged the other major indexes as closed with a meager gain of 0.1%.</p>
+      <p>Disney stock ended the day up 0.4% after Iger spoke about the challenges ahead for the troubled media giant. Disney is up less than 2% in 2023, badly lagging the S&P 500.</p>
+      <p>He told CNBC "the company is facing a lot of challenges, some of them self-inflicted" and said its TV business "may not be core to Disney."</p>
+      <p>Disney's portfolio of TV networks, which includes ABC and ESPN, had long been a key profitability engine for the company. But consumers are increasingly turning to streaming services.</p>
+      <p>There was more bad news for Disney Thursday after it emerged the Screen Actors Guild — American Federation of Television and Radio Artists had voted to go on strike. This means film and television productions will grind to a halt from midnight. They will join more than 11,000 Writers Guild of America members already on strike.</p>
+      <p>This is the first time since 1960 when two major Hollywood unions have been on strike at the same time.</p>
+      <p><strong>Microsoft (MSFT),</strong> which is benefiting from the boom in AI stocks, was the best performer on the Dow as it gained about 1.6%. The stock is trading above its main moving averages, MarketSmith analysis shows.</p>
+      <p><strong>Cisco Systems (CSCO)</strong> also made a strong gain on the Dow Jones today, rising 1.6%.</p>
+      <p><strong>Walgreens Boots Alliance (WBA)</strong> lagged with a 1.9% decline.</p>
+      <h3>Cathie Wood Buys Teradyne As It Hits Buy Zone</h3>
+      <p>Investors are always keen to follow the moves of top portfolio managers.</p>
+      <p>ARK Invest chief Wood added to her holdings of Teradyne (TER) yesterday.</p>
+      <p>She bought more than 12,000 shares for her ARK Autonomous Technology & Robotics ETF (ARKQ) and over 3,000 shares for her ARK Space Exploration & Innovation ETF (ARKX).</p>
+      <p>The move looks inspired at the moment, as TER has just moved into a buy zone above a 112.06 buy point after finding support at the 21-day exponential moving average.</p>
+      <p>TER stock is up nearly 33% so far this year. ARKQ's performance is even better, rising almost 55% in that time frame, while ARKX is up almost 26%.</p>
+      <p>Cathie Wood also sold more Tesla (TSLA), this time unloading more than 20,000 shares across her various funds.</p>
+      <h3>Nvidia Stock Clears Entry Amid AI Boom</h3>
+      <p>Chip leader Nvidia has been on a remarkable run in 2023, rising almost 220% so far.</p>
+      <p>Investors have another opportunity to clamber aboard the stock market freight train as it powers past a four-weeks-tight entry of 439.90.</p>
+      <p>These are usually used as an opportunity to buy additional shares to an existing position. Aggressive investors may also use it as a buy point in a new position.</p>
+      <p>Nvidia stock has been soaring amid a massive hunger for artificial intelligence stocks. NVDA chips are key at the moment for AI applications.</p>
+      <p>Analysts see earnings vaulting 112% in the current fiscal year ending in January 2024 to $7.09 a share and blasting 41% higher the next fiscal year.</p>
+      <h3>Outside Dow Jones: Leaderboard Stocks Test Buy Points</h3>
+      <p>With the market rally continuing to show strength, now is the time to be looking for stocks staging breakouts.</p>
+      <p>ASML is in a buy zone after earlier clearing a flat base buy point of 747.13. This is a first-stage base, a plus, although volume was middling.</p>
+      <p>All-around performance is top-notch here, which is reflected in its perfect IBD Composite Rating of 99.</p>
+      <p>Shoe stock On Holding raced past a cup-with-handle base with a 33.67 buy point but ended the session just below the entry. The sneaker play, which is backed by tennis legend Roger Federer, is up more than 100% so far this year.</p>
+      <p>Both ASML and ONON are part of the prestigious Leaderboard list of top stocks.</p>
+      <p>Magellan Midstream Partners is a buy zone. It cleared a flat base entry of 64.42 but the fact the move came in low volume is a negative.</p>
+      <p>The petroleum transportation play has been seeing its relative strength line move higher of late. The company has agreed to be acquired by Oneok (OKE).</p>
+    </div>
+  },
+  {
+    id: 562,
+    title: 'FTSE closes higher as pound soars and Wall Street holds gains',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Pound', 'Wall Street'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 (^FTSE) ticked up on Thursday as the pound (GBPUSD=X) hit a 15-month high against the dollar, rising past the $1.30 mark.</p>
+    </div>,
+    authorName: 'Lucy Harley-McKeown',
+    authorurl: 'https://www.yahoo.com/author/lucy-harley-mckeown/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 6:38 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-872.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 (^FTSE) ticked up on Thursday as the pound (GBPUSD=X) hit a 15-month high against the dollar, rising past the $1.30 mark.</p>
+    	<p>Meanwhile, figures from the Office for National Statistics showed the UK's economy in contraction for May.</p>	
+    	<p>Economists from PwC put the pullback down to multiple factors including the extra coronation bank holiday, and the fact there was industrial action. At 0.1%, it was still not as bad a drop as had been predicted, with a consensus expectation of a 0.3% fall.</p>
+      <p>The FTSE closed 0.34% higher, while the CAC (^FCHI) in Paris climbed 0.65% and Germany's DAX (^GDAXI) rose 0.82%.</p>
+      <p>Sterling continued to climb, hitting a 15-month high, as weaker-than-expected US inflation figures increased expectations that interest rates were close to peaking across the pond.</p>
+      <p>In the US, stocks kept up their rally on Thursday, after producer price data gave further evidence inflation is cooling and earnings season started to get underway.</p>
+      <p>The Dow Jones (^DJI) rose 0.1% to 34,372 points. The S&P 500 (^GSPC) advanced 0.47% to 4,493 points and the tech-heavy NASDAQ (^IXIC) climbed 0.96% to 14,050.</p>
+      <p>Elsewhere in the UK house builders signalled potential weakness in the market to come, as mortgage rates continue to cause anxiety.</p>
+      <p>An update from Barratt (BDEV.L) warned of deteriorating conditions in the market due to a collapse in sales to first-time buyers. The news drove its stock down more than 5% in early trade, settling around 2.6% lower later on in the session.</p>
+      <h3>Gas prices could halve this winter</h3>
+	    <p>Europe could see natural gas prices slump to around €15 this winter — about half the current level — on mild weather and weak demand, according to Morgan Stanley.</p>
+      <p>Prices could tumble to levels last seen before Russia invaded Ukraine “if weather is persistently warm and renewables perform strongly,” according to analysts including Martijn Rats.</p>
+      <p>That’s at least one scenario envisioned by the bank after October, which it acknowledges is a tricky period to forecast, according to Bloomberg. At the other extreme, prices could surge to €100 if Europe freezes for a prolonged period and renewables don’t provide sufficient relief. Using a weighted average, they’re more likely to be around €45, the analysts said.</p>
+      <h3>The Special Relationship in one chart</h3>
+      <p>The weaker-than-expected US CPI print has triggered large moves across global markets, including the UK. Deustche Bank has come up with a chart that shows it's far from uncommon for UK markets to be moved significantly by price prints from across the Atlantic.</p>
+      <p><strong>Delta Airlines (DAL) </strong>was pushed to an earnings record due to a takeoff (heh) in transatlantic travel. It raised full-year guidance for the second time in less than three weeks, to a range of $6 to $7 per share.</p>
+      <p>Its transatlantic capacity is now exceeding pre-pandemic levels.</p>
+      <p>Meanwhile in corporate earnings:</p>
+      <p><strong>Pepsico (PEP) </strong>upgraded its outlook for the year after it performed above expectations for Q2. Brian Sozzi in the US reports here:</p>
+      <p>Yahoo FinancePepsiCo delivers another earnings day surprise.</p>
+      <h3>The top line from the OBR: The updated long-term projection sees debt surpass 300% of GDP in 50 years’ time.</h3>
+      <p>And it would go even higher if rising debt pushes interest rates up further or shocks over the next 50 years prove to be as frequent and costly as those over the past two decades.</p>
+      <p>The OBR added, on debt and reducing the deficit:</p>
+      <p><strong>Government debt levels have tripled since the start of this century. Despite all Chancellors since 2010 aiming to get debt falling, at 100 per cent of GDP, debt is at its highest level in over 60 years</strong></p>
+      <p><strong>The UK Government has seen a larger and more rapid rise in its debt servicing costs than other advanced economies. This is due to our larger rise in interest rates, larger share of inflation-linked debt, and shorter effective maturity</strong></p>
+      <p>The latest OBR fiscal risks and sustainability report showed that the UK faces risks to public finances due to the events of the last few years.</p>
+      <p>On the costs of health it said:</p>
+      <p>The post-pandemic increase in health-related inactivity is weighing on the public finances:</p>
+      <p>-- Around £7bn added to the welfare bill</p>
+      <p>-- Around £9bn lost in foregone tax revenue</p>
+      <p>-- Extra pressures on the NHS of £900-1,800 per person, per year</p>
+      <h3>What's more:</h3>
+      <p>Since the pandemic, economic inactivity among working-age people has increased by around 350,000 people. This is more than explained by 440,000 more people citing ill-health as their reason for being outside the labour force.</p>
+      <p>Here's what the year-to-date oil chart looks like:</p>
+      <h3>Oil demand forecast cut by IEA</h3>
+      <p>The IEA cut its expectations for oil demand this year due to headwinds for the global economy.</p>
+      <p>"World oil demand is coming under pressure from the challenging economic environment, not least because of the dramatic tightening of monetary policy in many advanced and developing countries over the past twelve months," it wrote.</p>
+      <p>"Growth in 2023 has been revised down for the first time this year, to 2.2 mb/d from 2.4 mb/d expected previously, with China poised to account for 70% of the total."</p>
+      <p>Brent crude (BZ=F) futures prices seemed to shrug this off, ticking up 0.1% following the release.</p>
+      <p>Watch company Swatch's (UHR.SW) half-year results showed rebounding demand in China bringing sales back to pre-pandemic levels.</p>
+      <p>Operating profit rose 36% to around £610m for H1. Net sales rose 18% to £3.5bn. The results beat analysts expectations.</p>
+      <p>The pound (GBPUSD=X) rose to its highest levels in over a year against the dollar on Thursday morning, heading past the $1.30 mark following the US inflation read.</p>
+      <p>A stronger pound means imports of goods like food and petrol become less expensive.</p>
+      <p>The pound is also up against the euro.</p>
+      <p>Results to watch today:</p>
+      <p>Norwegian oil exploration company Aker BP (AKRBP.OL)</p>
+      <p>UK’s largest luxury timepiece retailer Watches of Switzerland (WOSG.L)</p>
+      <p>Other things to watch:</p>
+      <p>The Bank of England's credit conditions report and the Office for Budget Responsibility's annual fiscal risks and sustainability report</p>
+      <p>France inflation data</p>
+      <p>The ECB's meeting minutes</p>
+      <h3>Overnight in the US and Asia</h3>
+      <p>Good morning! Welcome to the live blog. We've already had a GDP read here in the UK for May.</p>
+      <p>Here's a recap on what happened in markets in the US and Asia overnight:</p>
+      <p>US indices finished in the green last night following the CPI read. The S&P 500 (^GSPC) rose 0.7%, the Dow (^DJI) was up 0.3% and the Nasdaq (^IXIC) rose 1.2%.</p>
+      <p>Asian indexes were also buoyant, with Hong Kong's Hang Seng (^HSI) finishing 2.5% higher, the Shanghai Composite (000001.SS) rising 1.3% and the Nikkei in Japan up 1.5%.</p>
+      <p>US CPI data was better than expected, reducing the Federal Reserve's need to implement more rate hikes.</p>
+      <p>Beijing also said it would look to support Asian tech platforms yesterday, which hints that its years-long crackdown is coming to a close.</p>
+    </div>
+  },
+  {
+    id: 561,
+    title: 'S&P 500 on Track to Hit Record High Before Year-End, Goldman Flood Says',
+    category: 'Indices',
+    subCategory: ['S&P', '500', 'Goldman'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- With the S&P 500 up 25% in nine months and sitting at its best level since April 2022, people want to know: is an all-time high next? John Flood, a partner at Goldman Sachs Group Inc., thinks so.</p>
+    </div>,
+    authorName: 'Lu Wang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 6:22 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-874.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- With the S&P 500 up 25% in nine months and sitting at its best level since April 2022, people want to know: is an all-time high next? John Flood, a partner at Goldman Sachs Group Inc., thinks so.</p>
+    	<p>“For first time in 2023 we are currently being asked by multiple clients if we think the S&P 500 is now on track to clock an ATH before year end,” Flood wrote in a note to clients Wednesday after a soft reading in the consumer price index lifted the equity benchmark as much as 1.1%. “I am going with a yes on this.”</p>	
+    	<p>Getting there would require an extension of a rally that has already shocked most on Wall Street amid better-than-expected economic growth and corporate earnings. The index made a record 4,796.56 in January 2022, about 7% above the last close.</p>
+      <p>Flood’s optimism is at odds with the majority of Wall Street strategists who keep hanging on their bearish view that the Federal Reserve’s aggressive monetary tightening will lead to an economic slowdown if not an outright recession. Their average year-end target, as compiled by Bloomberg in mid-June, shows the S&P 500 will fall about 8% by December — the worst second-half outlook since at least 1999.</p>
+      <p>Stocks have recovered all their losses since the Fed began raising interest rates 16 months ago, with the S&P 500 now trading roughly 3% above where it was at the start of the hiking cycle.</p>
+      <p>Flood is among a small but growing group of equity bulls that set eyes for new highs. Ed Yardeni, an early cheerleader of this bull run who has a year-end target of 4,600, says he will probably raise the forecast to 4,800, “depending on how things are shaping up.”</p>
+      <p>The 4,600 projection “looked delusional earlier this year, I have to admit, but it’s worked out awfully well,” the president of Yardeni Research said in an interview on Bloomberg TV.</p>
+      <p>Second-quarter reporting season, due to kick off unofficially by banks Friday, is likely to bolster equities, as the forecast 9% profit drop sets what Flood calls “another low bar” for corporate America to clear. While the period likely marks the trough of this earnings slowdown, he notes that excluding the drag from energy, growth already bottomed in the fourth quarter of last year, coinciding with the market’s nadir.</p>	
+    	<p>“The bar for this period is exceptionally low (again),” Flood wrote. It’s “a positive signal for stocks.”</p>
+      <p>--With assistance from Lisa Abramowicz and Jonathan Ferro.</p>
+    </div>
+  },
+  {
     id: 560,
     title: 'Nasdaq 100 Plans Special Rebalance To Curb Dominance Of Magnificent Seven',
     category: 'Indices',
