@@ -1,5 +1,148 @@
 const data = [
   {
+    id: 590,
+    title: 'Stocks Set for Best Week Since November; Yen Gains: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['Yen', 'Stocks', 'Gains'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Global stocks headed for their best weekly gains since November on bets that the US monetary tightening cycle is nearing an end. The yen rallied for a seventh day.</p>
+    </div>,
+    authorName: 'Tassia Sipahutar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 9:34 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-865.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Global stocks headed for their best weekly gains since November on bets that the US monetary tightening cycle is nearing an end. The yen rallied for a seventh day.</p>
+    	<p>Most stock indexes advanced in Asia, while European and US equity futures were little changed. The gains in Asia helped extend the MSCI ACWI Index’s weekly rally to above 3%. Optimism about stronger efforts to bolster the Chinese economy also buoyed sentiment.</p>	
+    	<p>“We’re going to get more fiscal stimulus, more fiscal support from the government and I think that that could potentially ignite some animal spirits in China,” David Chao, global market strategist for Asia Pacific at Invesco Asset Management, said on Bloomberg Television. “A lot of the pessimism for Chinese equities appears to be overdone at these levels.”</p>
+      <p>Stocks fluctuated in Japan as the yen headed for a seven-day winning streak, which would mark its best performance since 2018.</p>
+      <p>“When you look at the selloffs of JGBs and the yen’s recent moves — or yen’s strength, it seems speculation about the BOJ’s policy tweak is encouraging investors to unwind their positions,” said Teppei Ino, the Tokyo head of global markets research at MUFG Bank.</p>
+    	<p>The Bank of Japan will probably adjust its yield curve control program at its policy meeting this month as inflation is stronger than expected, said Hideo Hayakawa, a former executive director at the central bank, in an interview Thursday. “If they don’t, it doesn’t make sense.”</p>
+      <p>The dollar slipped for a sixth-straight session. That put an index of the currency’s strength on pace for the worst week since November. Treasuries were little changed in Asia.</p>
+      <p>The offshore yuan ticked higher. China has ample foreign exchange reserves and will “resolutely” prevent wild swings in the yuan exchange rate, People’s Bank of China Deputy Governor Liu Guoqiang said at a briefing Friday. The currency’s short-term movement cannot be predicted accurately, but it hasn’t deviated from its fundamentals, Liu added.</p>
+      <p>Easing Inflation</p>
+      <p>Wall Street and markets globally got an extra dose of encouragement to bid up riskier assets after another US inflation report highlighted the view that price pressures are easing in the world’s largest economy. Tech megacaps led gains on Thursday, with the S&P 500 topping 4,500. Yields on policy-sensitive two-year Treasuries dropped 12 basis points to 4.63%.</p>
+      <p>The producer price index for final demand rose 0.1% in June from a year earlier, the smallest advance since 2020. The figures came just a day after data showed consumer prices increased at the slowest pace since 2021.</p>
+      <p>Disinflation has become a buzzword across trading desks, even though core inflation is still running above the central bank’s 2% target. Equities gained further traction on news that Fed Bank of St. Louis President James Bullard — who called for aggressive hikes — has resigned.</p>
+      <p>“The Fed has already won the battle against inflation,” Raffaele Bertoni, head of debt capital markets at Gulf Investment Corp., said on Bloomberg Television. “If they want to be serious in maintaining inflation under control, the focus should be more on the reduction of the balance sheet or the quantitative tightening rather than increasing rates further.”</p>
+      <p>Fed Bank of San Francisco President Mary Daly, however, told CNBC Thursday that it’s too soon for policymakers to say they have done enough to return US inflation to their target. Fed Governor Christopher Waller also said he expects the US central bank will need to raise rates twice more this year to bring inflation down to its target.</p>
+      <p>Traders are also awaiting the unofficial start of the second-quarter US earnings season Friday. Goldman Sachs Group Inc. strategists expect US companies to be able to meet the low bar set by consensus. Bloomberg Intelligence strategist Gina Martin Adams said “the S&P 500 earnings season will likely reveal more of the ‘less bad than feared’ trend that emerged in 1Q.”</p>
+      <p>In commodities, oil headed for a third weekly gain as supply disruptions in Africa and a reduction in shipments from Russia tightened the market. Gold was set for the best week since April.</p>
+      <h3>Key events this week:</h3>
+      <ul>
+        <li>US University of Michigan consumer sentiment, Friday</li>
+        <li>US banks kick off earnings, Friday</li>
+      </ul>
+      <p>Some of the main moves in markets:</p>
+      <h3>Stocks</h3>
+      <ul>
+        <li>S&P 500 futures were little changed as of 6:28 a.m. London time. The S&P 500 rose 0.85%</li>
+        <li>Nasdaq 100 futures were little changed. The Nasdaq 100 rose 1.7%</li>
+        <li>Euro Stoxx 50 futures fell 0.1%</li>
+        <li>Japan’s Topix index was little changed</li>
+        <li>Hong Kong’s Hang Seng Index rose 0.3%</li>
+        <li>China’s Shanghai Composite Index rose 0.2%</li>
+        <p>Australia’s S&P/ASX 200 Index rose 0.8%</p>
+      </ul>
+      <h3>Currencies</h3>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index fell 0.1%</li>
+        <li>The euro was little changed at $1.1234</li>
+        <li>The Japanese yen rose 0.3% to 137.69 per dollar</li>
+        <li>The offshore yuan rose 0.2% to 7.1337 per dollar</li>
+        <li>The Australian dollar was unchanged at $0.6889</li>
+        <li>The British pound was little changed at $1.3127</li>
+      </ul>
+      <h3>Cryptocurrencies</h3>
+      <ul>
+        <li>Bitcoin was little changed at $31,384.78</li>
+        <li>Ether rose 1.1% to $2,007.49</li>
+      </ul>
+      <h3>Bonds</h3>
+      <ul>
+        <li>The yield on 10-year Treasuries advanced one basis point to 3.78%</li>
+        <li>Japan’s 10-year yield advanced one basis point to 0.475%</li>
+        <li>Australia’s 10-year yield declined seven basis points to 3.98%</li>
+      </ul>
+      <h3>Commodities</h3>
+      <ul>
+        <li>West Texas Intermediate crude was little changed</li>
+        <li>Spot gold was little changed</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Yumi Teso.</p>
+    </div>
+  },
+  {
+    id: 589,
+    title: 'Tech Stocks Lead Market Higher After Inflation Falls',
+    category: 'Markets',
+    subCategory: ['Tech', 'Stocks', 'Inflation'],
+    description: <div className="blog-desc">
+      <p>Stocks marched higher Thursday after investors received data—for a second consecutive day—showing that inflation is moderating to its slowest pace in years.</p>
+    </div>,
+    authorName: 'Eric Wallerstein',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 12:27 AM', 
+    cover: 'https://ncx.cx/images/ncx-blog-867.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stocks marched higher Thursday after investors received data—for a second consecutive day—showing that inflation is moderating to its slowest pace in years.</p>
+    	<p>The Labor Department reported the producer-price index rose in June at a weaker clip than economists expected. That followed Wednesday’s report that showed consumer inflation fell to multiyear lows.</p>	
+    	<p>Investors continued piling into big tech stocks, encouraged by signs that the worst of the inflation fight is over and the economy remains strong. Amazon.com jumped 2.7% on the back of its Prime Day sale, while chip-maker Nvidia added 4.7%. The 2.3% rise in the communication services segment led the S&P 500, followed by information technology.</p>
+      <p>Shares of Google parent Alphabet were among the market’s best performers, rising 4.7% after updating its Bard chatbot. That helped power the Nasdaq Composite to a 1.6% gain, while the S&P 500 added 0.8%. The blue-chip Dow industrials edged up 47.71 points, or 0.1%.</p>
+      <p>“The disinflation narrative is in full effect,” said Chris Zaccarelli, chief investment officer for Charlotte, N.C.-based Independent Advisor Alliance. For investors, that means “buying stocks and bonds is the best course of action,” he said, contrary to last year when both suffered from the Federal Reserve’s interest-rate campaign.</p>
+      <p>Wall Street is eager to see second-quarter results from the six largest banks over the next few days, with JPMorgan Chase, Citigroup and Wells Fargo slated for Friday morning. Earnings from UnitedHealth Group, a healthcare industry bellwether, are also on tap for Friday.</p>
+      <p>Shares of financial-services companies have limped along since the March banking crisis. The KBW Nasdaq Bank Index has declined 16% this year while the S&P 500 is up 17% over the same period—that is the worst bout of underperformance on record, according to a Barclays analysis that goes back to 1937. Analysts will be gleaning earnings for insight into how banks’ recovery from March’s events has progressed.</p>
+      <p>The Cboe Volatility Index, or the VIX, finished below 14, a historically low level associated with complacency. The index is commonly referred to as Wall Street’s fear gauge as it measures the price of options often used to protect against market declines. Anxiety is near record lows now that investors have grown confident that the Fed’s forthcoming rate hike could be its last.</p>
+      <p>The U.S. dollar fell to its lowest level in several months and government bond yields continued to slide. The WSJ Dollar Index dropped 0.7% and the benchmark 10-year Treasury yield declined to 3.759%, from 3.860% Wednesday. The two-year yield, which is more sensitive to expectations around Fed policy, finished at 4.611% from 4.740%.</p>
+      <p>Not everyone on Wall Street is convinced the market rally has room to run. This is prototypical late-cycle behavior, said Amanda Agati, chief investment officer of Philadelphia, Pa.-based PNC Asset Management Group. With interest rates expected to remain higher for longer, a recession is a foregone conclusion, she said.</p>
+    	<p>“I can’t think of any instances where the market has bottomed this far ahead of a potential recession,” said Agati. “Inflation still isn’t at the Fed’s target, but the market is declaring victory.”</p>
+      <p>Agati sees potential for a 10% to 15% correction in stock prices from here, airing concerns about the megacap-tech-led rally. To be sure, there is room for optimism: Any recession is likely to be shallow, she said, and markets will take off once investors feel corporate earnings are nearing a trough.</p>
+      <p>PNC is keeping clients fully invested rather than sitting in cash to avoid missing out if and when there is a rebound down the line, she said. Meanwhile, the firm is leaning into what she called quality stocks—shares of highly profitable companies with steady earnings growth and low debt—and high-grade bonds.</p>
+      <p>Global stock benchmarks were also boosted by shares of internet companies. Hong Kong’s Hang Seng surged 2.6% and Japan’s Nikkei 225 added 1.5%, catching up with Wednesday’s rally in the U.S. and Europe. The Stoxx Europe 600 rose 0.6%.</p>
+      <p>Elsewhere, oil prices continued to rise. Benchmark U.S. crude advanced 1.5% to $76.89 a barrel, its highest close since late April, according to Dow Jones Market Data.</p>
+    </div>
+  },
+  {
+    id: 588,
+    title: 'Russia economy is in shambles and its oil exports are collapsing — but its crude oil just smashed a crucial price cap',
+    category: 'Markets',
+    subCategory: ['Russia', 'Oil', 'economy'],
+    description: <div className="blog-desc">
+      <p>Russia's economy is struggling, but the commodities giant could be getting an uptick in its flagship oil price — the Urals crude oil price just breached a crucial cap for the first time since December 5.</p>
+    </div>,
+    authorName: 'Huileng Tan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 13, 2023 - 7:24 PM', 
+    cover: 'https://ncx.cx/images/ncx-blog-866.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Russia's flagship Urals crude just breached the price cap of $60 a barrel on Tuesday, per S&P Global.</li>
+        <li>The price cap came into effect on December 5 and sought to limit Moscow's energy revenues.</li>
+        <li>Russia's current-account surplus tanked by 93% in the second quarter of this year.</li>
+      </ul>
+    	<p>Russia's economy is struggling, but the commodities giant could be getting an uptick in its flagship oil price — the Urals crude oil price just breached a crucial cap for the first time since December 5.</p>
+    	<p>A $60-a-barrel price cap has been imposed on Russia by the G7 countries to achieve two goals: it would limit Moscow's energy revenues being routed into the Ukraine war, and it still allowed Russian oil to continue flowing to the world economy, thereby keeping a lid on red-hot inflation.</p>
+      <p>But Russia's flagship Urals crude oil prices have busted the price cap to reach $60.32 on Tuesday —  its highest level since mid-November 2022, according to a S&P Global commodity insights report.</p>
+      <p>An unnamed European oil trader told S&P there's strong demand for Russian oil from Indian buyers. China has also been snapping up cargoes, Insider's Phil Rosen reported in April. However, both countries have demanded huge discounts for their purchases.</p>
+      <p>The development could dent the Western-led efforts to hit Russia's war chest, which has so far proven to be quite effective.</p>
+      <p>After all, the price cap has severely hit Russia's coffers this year. The country posted a current-account surplus of $5.4 billion in the second quarter — marking a massive 93% plunge from a record $76.7 billion surplus in the same period last year, according to Russia's central bank data released Tuesday.</p>
+      <p>But Russia is an important commodity producer. It can impact the global supply — and prices — of raw materials.</p>
+      <p>The country announced an upcoming oil production cut earlier this month alongside another key oil producer Saudi Arabia.</p>
+    	<p>These production cuts prop up oil prices as demand outsizes supply, an unnamed European oil trader told S&P.</p>	
+    	<p>The benchmark US West Texas Intermediate crude oil futures were up 0.2% at $75.90 a barrel at 2.29 ET on Thursday. The global benchmark Brent crude oil prices were up 0.3% at $80.33 a barrel.</p>
+    </div>
+  },
+  {
     id: 587,
     title: 'Stocks close higher in wait for inflation data: Stock market news today',
     category: 'Markets',
