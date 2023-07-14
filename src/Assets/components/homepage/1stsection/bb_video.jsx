@@ -61,7 +61,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src="https://ncx.cx/images/ncx-cardvideo.mp4" type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689344912/ncx-cardvideo_1_onjnjb.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="bvc_mnb">
@@ -83,7 +83,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src="https://ncx.cx/images/new-cardvideombl.mp4" type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689345150/new-cardvideombl_1_m35ccz.mp4" type="video/mp4" />
                 </video>
                 <div className="gsfersdsd">
                     <h1>NCX Exchange</h1>
