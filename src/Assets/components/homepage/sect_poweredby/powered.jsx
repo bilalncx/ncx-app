@@ -3,7 +3,6 @@ import './powered.css';
 import NCXBarCode from '../../../images/ncx-QRcode.svg';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
-import BuyCryptoVideo from '../../../images/ncx_poweredby.mp4';
 import { useTranslation } from "react-i18next";
 
 function NCXAPPSection()
@@ -22,7 +21,7 @@ function NCXAPPSection()
                         preload="auto"
                         poster="https://ncx.cx/images/ncx_poweredby_poster.png"
                         >
-                        <source src={BuyCryptoVideo} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417539/ncx_poweredby_nmevv0.mp4" type="video/mp4" />
                     </video>
                 </div>
             </div>

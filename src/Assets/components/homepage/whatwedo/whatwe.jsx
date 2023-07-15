@@ -134,7 +134,7 @@ function WhatweDoSection(){
                                         preload="auto"
                                         poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
-                                    <source src={require('../../../images/ncxbuy-cryptovideo.mp4')} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416505/ncxbuy-cryptovideo_vyecpg.mp4" type="video/mp4" />
                                 </video>
                                 </div>
                             </div>
@@ -177,7 +177,7 @@ function WhatweDoSection(){
                                         preload="auto"
                                         poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
-                                        <source src={require('../../../images/ncxbuy-cryptovideo.mp4')} type="video/mp4" />
+                                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416505/ncxbuy-cryptovideo_vyecpg.mp4" type="video/mp4" />
                                     </video>
                                     {/* <img className="deri-image" src={BuyCrypto} /> */}
                                 </div>
@@ -231,7 +231,7 @@ function WhatweDoSection(){
                                         preload="auto"
                                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                                     >
-                                    <source src={require('../../../images/ncx_poweredby.mp4')} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417539/ncx_poweredby_nmevv0.mp4" type="video/mp4" />
                                 </video>
                                 </div>
                             </div>
@@ -274,7 +274,7 @@ function WhatweDoSection(){
                                             preload="auto"
                                             poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                                         >
-                                        <source src={require('../../../images/ncx_poweredby.mp4')} type="video/mp4" />
+                                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417539/ncx_poweredby_nmevv0.mp4" type="video/mp4" />
                                     </video>
                                     {/* <img className="cardtr-image" src={NCXCardTrade} /> */}
                                 </div>

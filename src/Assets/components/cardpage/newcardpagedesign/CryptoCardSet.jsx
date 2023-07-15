@@ -1,5 +1,4 @@
 import React from "react";
-import CardImage from '../../../images/ncx-card1.png';
 import Button from "@mui/material/Button";
 import './style.css';
 
@@ -10,7 +9,7 @@ function CryptoCardSecondSection()
             <div className="container">
                 <div className="row vsds">
                     <div className="col vedc">
-                        <img src={CardImage} alt="ncx"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689411496/ncx-card1_zm0n4g.png" alt="ncx"/>
                     </div>
                     <div className="col vedc">
                         <h1>The Crypto card that <span>gives you extra</span></h1>

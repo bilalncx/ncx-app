@@ -38,7 +38,7 @@ export default function Header() {
                 className="header-logo"
                 sx={{ mr: 2 }}
               >
-              <a href="https://ncx.cx"><img src={Logo} alt="NCX-Logo" /></a>
+              <a href="https://ncx.cx"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689405667/new_sitelogo_naeh1u.svg" alt="NCX-Logo" /></a>
               </IconButton>
               <div className="headermore_row">
                 <a className="header-more" href="#"><NCXMore /></a>
@@ -150,7 +150,7 @@ export default function Header() {
                   <div class="download-box">
                     <div class="qr-box">
                       <div class="img-box">
-                        <img src={AppBarCode} alt="NCX Mobile App"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689405462/ncx-QRcode_mkn2ki.svg" alt="NCX Mobile App"/>
                       </div>
                     </div>
                     <div class="pc-box">

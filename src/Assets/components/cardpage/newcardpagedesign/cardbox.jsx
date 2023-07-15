@@ -1,5 +1,4 @@
 import React from "react";
-import CardImage from '../../../images/cardbox.png';
 import Button from "@mui/material/Button";
 import './style.css';
 
@@ -11,7 +10,7 @@ function PremiumCardBox()
                 <div className="row vsds">
                     <div className="col vedc">
                         <h1>Premium card. <span>And so much more.</span></h1>
-                        <img className="mbL_fwc" src={CardImage} alt="ncx"/>
+                        <img className="mbL_fwc" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689415317/cardbox_gg7yve.png" alt="ncx"/>
                         <ul>
                             <li>Set max Transaction Amount to prevent Fraud.</li>
                             <li>Freeze/Unfreeze your NCX Card in just one click.</li>
@@ -23,7 +22,7 @@ function PremiumCardBox()
                         {/* <Button className="vea_vv" href="#">Stake NCXT and get your card for free</Button> */}
                     </div>
                     <div className="col vedc bmld_we">
-                        <img src={CardImage} alt="ncx"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689415317/cardbox_gg7yve.png" alt="ncx"/>
                     </div>
                 </div>
             </div>

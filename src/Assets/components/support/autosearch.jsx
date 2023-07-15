@@ -1,6 +1,5 @@
 import React from "react";
 import { ReactSearchAutocomplete } from "react-search-autocomplete";
-import BackVideo from '../../images/wallet-video.mp4';
 
 
 function App() {
@@ -61,7 +60,7 @@ function App() {
                 preload="auto"
                 // poster="https://ncx.cx/images/ncx_line_poster.png"
                 >
-                <source src={BackVideo} type="video/mp4" />
+                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415590/wallet-video_rq6b91.mp4" type="video/mp4" />
             </video>
         </div>
         <div id="search_container">

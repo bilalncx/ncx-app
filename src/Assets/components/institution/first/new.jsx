@@ -1,12 +1,8 @@
 import {React} from "react";
 import Button from "@mui/material/Button";
 import CryptoCard1 from '../../../images/ncx-derivatives-trading.png';
-import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
-import NCXAPPVideo from '../../../images/ncx_app_vi.mp4';
-import OTCMobileVideo from '../../../images/buy_page.mp4';
-import VideSection from '../../../images/home__newvideo.mp4';
 
 function FirstVideo()
 {
@@ -33,7 +29,7 @@ function FirstVideo()
                         loop={true}
                         playsInline={true}
                         >
-                        <source src={NCXAPPVideo} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417949/ncx_app_vi_igjdzj.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="col card_imgb">
@@ -51,7 +47,7 @@ function FirstVideo()
                         preload="auto"
                         // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                         >
-                        <source src={VideSection} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417010/home__newvideo_tan229.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="container">
@@ -69,7 +65,7 @@ function FirstVideo()
                     loop={true}
                     playsInline={true}
                     >
-                    <source src={VideSection} type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417010/home__newvideo_tan229.mp4" type="video/mp4" />
                 </video>
                 {/* <CarouselProvider
                         visibleSlides={1}
@@ -86,7 +82,7 @@ function FirstVideo()
                     >
                     <Slider className="slider">
                         <Slide index={0}>
-                            <img src={CryptoCard2} alt="ncx_crypto_card" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/crypto_card_2_odjj5j.png" alt="ncx_crypto_card" />
                         </Slide>
                         <Slide index={1}>
                             <img src={CryptoCard1} alt="ncx_crypto_card" />

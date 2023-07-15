@@ -1,21 +1,9 @@
 import React from "react";
 import Button from "@mui/material/Button";
-import Device1 from '../../../images/device_1.png';
-import Device2 from '../../../images/device_2.png';
-import Device3 from '../.././../images/device_3.png';
-import Device4 from '../../../images/device_4.png';
 import {ReactComponent as Walletbadge} from '../../../images/wallet_badge.svg';
 import {ReactComponent as CTrader2} from '../../../images/ctrader_logoB.svg';
-import WalletMobileVideo from '../../../images/wallet_mbl.mp4';
-import WalletMobileVideo2 from '../../../images/wallet_mbl2.mp4';
 import {ReactComponent as NCXBadge1} from '../../../images/ncx-badge.svg';
 import {ReactComponent as NCXBadge2} from '../../../images/ncx-badge2.svg';
-import SImport from '../../../images/s-import.mp4';
-import SNFTS from '../../../images/s-nfts.mp4';
-import SReceive from '../../../images/s-receive.mp4';
-import SStore from '../../../images/s-store.mp4'; 
-import SSwap from '../../../images/s-swap.mp4';
-import SBrowser from '../../../images/s-browser.mp4';
 
 function Indices5()
 {
@@ -44,7 +32,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={SStore} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415544/s-store_j1okjo.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -68,7 +56,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={SSwap} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415543/s-swap_bslube.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -86,7 +74,7 @@ function Indices5()
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
-                            {/* <img src={Device4} alt="ncx_platform" /> */}
+                            {/* <img src='"https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689419619/device_4_yoprds.png" alt="ncx_platform" /> */}
                             <video 
                                 autoPlay={true}
                                 muted={true}
@@ -95,7 +83,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/wallet_mbl_o7zqgs.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -111,7 +99,7 @@ function Indices5()
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
-                            {/* <img src={Device2} alt="ncx_platform" /> */}
+                            {/* <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418806/device_2_uf6ofq.png" alt="ncx_platform" /> */}
                             <video 
                                 autoPlay={true}
                                 muted={true}
@@ -120,7 +108,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={SReceive} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415543/s-receive_tfag00.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -138,7 +126,7 @@ function Indices5()
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
-                            {/* <img src={Device1} alt="ncx_platform" /> */}
+                            {/* <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/device_1_fkkwpv.png" alt="ncx_platform" /> */}
                             <video 
                                 autoPlay={true}
                                 muted={true}
@@ -147,7 +135,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={SNFTS} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415543/s-nfts_wmg2fs.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -163,7 +151,7 @@ function Indices5()
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
-                            {/* <img src={Device3} alt="ncx_platform" /> */}
+                            {/* <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/device_3_mtaeal.jpg" alt="ncx_platform" /> */}
                             <video 
                                 autoPlay={true}
                                 muted={true}
@@ -172,7 +160,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={WalletMobileVideo2} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/wallet_mbl2_xxwzpb.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -190,7 +178,7 @@ function Indices5()
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
-                            {/* <img src={Device1} alt="ncx_platform" /> */}
+                            {/* <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/device_1_fkkwpv.png" alt="ncx_platform" /> */}
                             <video 
                                 autoPlay={true}
                                 muted={true}
@@ -199,7 +187,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={SBrowser} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415542/s-browser_ep1hha.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -215,7 +203,7 @@ function Indices5()
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
                         <div className="pho__img viso__ff">
-                            {/* <img src={Device3} alt="ncx_platform" /> */}
+                            {/* <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/device_3_mtaeal.jpg" alt="ncx_platform" /> */}
                             <video 
                                 autoPlay={true}
                                 muted={true}
@@ -224,7 +212,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={SImport} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415543/s-import_px8ljp.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>

@@ -1,11 +1,9 @@
 import {React} from "react";
 import '../../ambassador/first/first.css';
 import Button from "@mui/material/Button";
-import CryptoCard1 from '../../../images/crypto_card_2.png';
 import CryptoCard2 from '../../../images/ncx-derivatives-trading.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
-import VideSection from '../../../images/home__newvideo.mp4';
 
 
 
@@ -27,7 +25,7 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    <img className="ab_mbl_ex" src={CryptoCard1} alt="ncx_crypto_card" />
+                    <img className="ab_mbl_ex" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/crypto_card_2_odjj5j.png" alt="ncx_crypto_card" />
                 </div>
                 <div className="col card_imgb">
                     <img src={CryptoCard2} alt="ncx_crypto_card" />
@@ -43,7 +41,7 @@ function FirstVideo()
                         preload="auto"
                         // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                         >
-                        <source src={VideSection} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417010/home__newvideo_tan229.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="container">
@@ -63,7 +61,7 @@ function FirstVideo()
                     preload="auto"
                     // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                     >
-                    <source src={VideSection} type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417010/home__newvideo_tan229.mp4" type="video/mp4" />
                 </video>
                 <div className="col card_txt">
                     <div className="inns-div">
@@ -92,7 +90,7 @@ function FirstVideo()
                             <img src={CryptoCard2} alt="ncx_crypto_card" />
                         </Slide>
                         <Slide index={1}>
-                            <img src={CryptoCard1} alt="ncx_crypto_card" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/crypto_card_2_odjj5j.png" alt="ncx_crypto_card" />
                         </Slide>
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>

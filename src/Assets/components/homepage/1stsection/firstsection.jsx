@@ -91,7 +91,7 @@
 //                             poster="https://ncx.cx/images/ncx_mmblvideo_poster.png"
 //                             // poster={"../src/assets/images/roadmap-bg.png"}
 //                             >
-//                             <source src={require('../../../images/ncx-mblvideo.mp4')} type="video/mp4" />
+//                             <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417949/ncx-mblvideo_pjs9uc.mp4" type="video/mp4" />
 //                         </video>
 //                     </div>
 //                 </div>

@@ -53,7 +53,7 @@ function Home6thVideoSection(){
                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                         // poster={"../src/assets/images/roadmap-bg.png"}
                         >
-                        <source src={require('../../../images/ncx-mainvideo.mp4')} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411498/ncx-mainvideo_vkjbeu.mp4" type="video/mp4" />
                     </video>
                     <video 
                         id='ncx-main-video-mobile'
@@ -64,7 +64,7 @@ function Home6thVideoSection(){
                         preload="auto"
                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                         >
-                        <source src={require('../../../images/ncx_mainvideo_mbl.mp4')} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411646/ncx_mainvideo_mbl_svpojx.mp4" type="video/mp4" />
                     </video>
                 </div>
             </div>

@@ -1,6 +1,5 @@
 import React from "react";
 import AppleGoogleImage from '../../../images/apple-google-pay.png';
-import CardTrimmed from '../../../images/card_full.mp4';
 
 function IntegrationPlay()
 {
@@ -17,7 +16,7 @@ function IntegrationPlay()
                             playsInline={true}
                             preload="auto"
                             >
-                            <source src={CardTrimmed} type="video/mp4" />
+                            <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416843/card_full_ttvban.mp4" type="video/mp4" />
                         </video>
                     </div>
                     <div className="tjmnh">

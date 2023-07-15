@@ -2,18 +2,6 @@ import React from "react";
 import Button from "@mui/material/Button";
 import './fly.css';
 import { CarouselProvider, Slider, Slide, DotGroup } from 'pure-react-carousel';
-import MblMartBan1 from '../../../images/mban1.png';
-import MblMartBan2 from '../../../images/mban2.png';
-import MblMartBan3 from '../../../images/mban3.png';
-import MblMartBan4 from '../../../images/mban4.png';
-import MblMartBan5 from '../../../images/mban5.png';
-import MblMartBan6 from '../../../images/mban6.png';
-import MblMartBan7 from '../../../images/mban7.png';
-import MblMartBan8 from '../../../images/mban8.png';
-import MblMartBan9 from '../../../images/mban9.png';
-import MblMartBan10 from '../../../images/mban10.png';
-import MblMartBan11 from '../../../images/mban11.png';
-import MblMartBan12 from '../../../images/mban12.png';
 
 function MartFlyer()
 {
@@ -194,40 +182,40 @@ function MartFlyer()
                         
                         <Slider>
                             <Slide index={0} className="bgrvs__dd">
-                                <img src={MblMartBan1} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban1_fjjzyw.png" alt="ncx"/>
                             </Slide>
                             <Slide index={1} className="bgrvs__dd">
-                                <img src={MblMartBan2} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban2_ardqbh.png" alt="ncx"/>
                             </Slide>
                             <Slide index={2} className="bgrvs__dd">
-                                <img src={MblMartBan3} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban3_ljjkym.png" alt="ncx"/>
                             </Slide>
                             <Slide index={3} className="bgrvs__dd">
-                                <img src={MblMartBan4} alt="ncx"/> 
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban4_jkslkr.png" alt="ncx"/> 
                             </Slide>
                             <Slide index={4} className="bgrvs__dd">
-                                <img src={MblMartBan5} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban5_xzfykg.png" alt="ncx"/>
                             </Slide>
                             <Slide index={5} className="bgrvs__dd">
-                                <img src={MblMartBan6} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban6_gtcnwm.png" alt="ncx"/>
                             </Slide>
                             <Slide index={6} className="bgrvs__dd">
-                                <img src={MblMartBan7} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban7_cbaew1.png" alt="ncx"/>
                             </Slide>
                             <Slide index={7} className="bgrvs__dd">
-                                <img src={MblMartBan8} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban8_due02u.png" alt="ncx"/>
                             </Slide>
                             <Slide index={8} className="bgrvs__dd">
-                                <img src={MblMartBan9} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban9_qdh3b2.png" alt="ncx"/>
                             </Slide>
                             <Slide index={9} className="bgrvs__dd">
-                                <img src={MblMartBan10} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412602/mban10_ohhwnz.png" alt="ncx"/>
                             </Slide>
                             <Slide index={10} className="bgrvs__dd">
-                                <img src={MblMartBan11} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban11_a4gb6n.png" alt="ncx"/>
                             </Slide>
                             <Slide index={11} className="bgrvs__dd">
-                                <img src={MblMartBan12} alt="ncx"/>
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689412601/mban12_qmodde.png" alt="ncx"/>
                             </Slide>
                         </Slider>
 

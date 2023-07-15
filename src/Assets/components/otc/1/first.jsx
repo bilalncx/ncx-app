@@ -2,8 +2,6 @@ import {React} from "react";
 import './style.css';
 import Button from "@mui/material/Button";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
-import CryptoCard1 from '../../../images/crypto_card_1.png';
-import CryptoCard2 from '../../../images/crypto_card_2.png';
 import { useTranslation } from "react-i18next";
 import { ReactComponent as AboutLogo } from '../../../images/about_logo.svg';
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
@@ -14,9 +12,6 @@ import { ReactComponent as OTC4 } from '../../../images/about-4.svg';
 import { ReactComponent as OTC5 } from '../../../images/about-5.svg';
 import { ReactComponent as OTC6 } from '../../../images/about-6.svg';
 import {ReactComponent as SafeArrow} from '../../../images/safe-arrow.svg';
-import NCXAppvideo from '../../../images/ncx_app_vi.mp4';
-import OTCMobileVideo from '../../../images/qwqwqw.mp4';
-import VideSection from '../../../images/home__newvideo.mp4';
 
 
 function FirstVideo()
@@ -38,7 +33,7 @@ function FirstVideo()
                     </div>
                 </div>
                 <div className="col card_imga">
-                    <img src={CryptoCard2} alt="ncx_crypto_card" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418804/crypto_card_1_ooxlql.png" alt="ncx_crypto_card" />
                 </div>
                 <div className="col card_imgb">
                     <video
@@ -47,7 +42,7 @@ function FirstVideo()
                         loop={true}
                         playsInline={true}
                         >
-                        <source src={NCXAppvideo} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417949/ncx_app_vi_igjdzj.mp4" type="video/mp4" />
                     </video>
                 </div>
             </div> */}
@@ -62,7 +57,7 @@ function FirstVideo()
                         preload="auto"
                         // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                         >
-                        <source src={VideSection} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417010/home__newvideo_tan229.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="container">
@@ -81,7 +76,7 @@ function FirstVideo()
                     loop={true}
                     playsInline={true}
                     >
-                    <source src={OTCMobileVideo} type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417432/qwqwqw_a9v80i.mp4" type="video/mp4" />
                 </video>
                 {/* <CarouselProvider
                         visibleSlides={1}
@@ -98,10 +93,10 @@ function FirstVideo()
                     >
                     <Slider className="slider">
                         <Slide index={0}>
-                            <img src={CryptoCard2} alt="ncx_crypto_card" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418804/crypto_card_1_ooxlql.png" alt="ncx_crypto_card" />
                         </Slide>
                         <Slide index={1}>
-                            <img src={CryptoCard1} alt="ncx_crypto_card" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418804/crypto_card_1_ooxlql.png" alt="ncx_crypto_card" />
                         </Slide>
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>

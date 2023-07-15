@@ -9,29 +9,29 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-import FA6 from '../../../images/2fa-6.png'; 
-import FA2 from '../../../images/2fa-2.png'; 
-import FA3 from '../../../images/2fa-3.png'; 
-import FA4 from '../../../images/2fa-4.png'; 
-import FA5 from '../../../images/2fa-5.png';
-import Phishin1 from '../../../images/antiphishing1.png';
-import Phishin2 from '../../../images/antiphishing2.png';
-import Phishin3 from '../../../images/antiphishing3.png';
-import Phishin4 from '../../../images/antiphishing4.png'; 
-import ChangePass1 from '../../../images/changepass1.png';
-import ChangePass2 from '../../../images/changepass2.png';
-import ChangePass3 from '../../../images/changepass3.png';
-import ChangePass4 from '../../../images/changepass4.png';
-import Whitelist1 from '../../../images/whitelist1.png';
-import Whitelist2 from '../../../images/whitelist2.png';
-import Whitelist3 from '../../../images/whitelist3.png';
-import Whitelist4 from '../../../images/whitelist4.png';
-import Whitelist5 from '../../../images/whitelist5.png';
-import ResetPassword1 from '../../../images/resetpass1.png';
-import ResetPassword2 from '../../../images/resetpass2.png';
-import ResetPassword3 from '../../../images/resetpass3.png';
-import ResetPassword4 from '../../../images/resetpass4.png';
-import ResetPassword5 from '../../../images/resetpass5.png';
+// import FA6 from '../../../images/2fa-6.png'; 
+// import FA2 from '../../../images/2fa-2.png'; 
+// import FA3 from '../../../images/2fa-3.png'; 
+// import FA4 from '../../../images/2fa-4.png'; 
+// import FA5 from '../../../images/2fa-5.png';
+// import Phishin1 from '../../../images/antiphishing1.png';
+// import Phishin2 from '../../../images/antiphishing2.png';
+// import Phishin3 from '../../../images/antiphishing3.png';
+// import Phishin4 from '../../../images/antiphishing4.png'; 
+// import ChangePass1 from '../../../images/changepass1.png';
+// import ChangePass2 from '../../../images/changepass2.png';
+// import ChangePass3 from '../../../images/changepass3.png';
+// import ChangePass4 from '../../../images/changepass4.png';
+// import Whitelist1 from '../../../images/whitelist1.png';
+// import Whitelist2 from '../../../images/whitelist2.png';
+// import Whitelist3 from '../../../images/whitelist3.png';
+// import Whitelist4 from '../../../images/whitelist4.png';
+// import Whitelist5 from '../../../images/whitelist5.png';
+// import ResetPassword1 from '../../../images/resetpass1.png';
+// import ResetPassword2 from '../../../images/resetpass2.png';
+// import ResetPassword3 from '../../../images/resetpass3.png';
+// import ResetPassword4 from '../../../images/resetpass4.png';
+// import ResetPassword5 from '../../../images/resetpass5.png';
 import { useTranslation } from "react-i18next";
 
 function SupportPageSet()
@@ -133,9 +133,9 @@ function SupportPageSet()
                                 <p><a href="https://play.google.com/store/search?q=google+authenticator&c=apps&hl" target="_blank" rel="noreferrer">{t("enable_step_7")}</a></p>
                                 <p>{t("enable_step_8")}</p>
                                 <p>{t("enable_step_9")}</p>
-                                <img src={FA3} alt="ncx-faq" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401599/2fa-3_dpg8g9.png" alt="ncx-faq" />
                                 <p>{t("enable_step_10")}</p>
-                                <img src={FA2} alt="ncx-faq" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401599/2fa-2_ub0c0s.png" alt="ncx-faq" />
                                 <p>{t("enable_step_11")}</p>
                                 <p>{t("enable_step_12")}</p>
                                 <p>{t("reminder")}</p>
@@ -144,39 +144,39 @@ function SupportPageSet()
                                     <li>{t("enable_step_14")}</li>
                                     <li>{t("enable_step_15")}</li>
                                 </ul>
-                                <img src={FA4} alt="ncx-faq" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/2fa-4_vvoihz.png" alt="ncx-faq" />
                                 <p>{t("enable_step_16")}</p>
-                                <img src={FA5} alt="ncx-faq" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401599/2fa-5_kanvzy.png" alt="ncx-faq" />
                                 <p>{t("enable_step_17")}</p>
-                                <img src={FA6} alt="ncx-faq" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401599/2fa-6_gvlhuq.png" alt="ncx-faq" />
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
                                 <h1>{t("change_password")}</h1>
                                 <p>{t("change_password_step_1")}</p>
                                 <p>{t("change_password_step_2")}</p>
                                 <p>{t("change_password_step_3")}</p>
-                                <img src={ChangePass1} alt="ncx-change-password" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/changepass1_xfjfqy.png" alt="ncx-change-password" />
                                 <p>{t("change_password_step_4")}</p>
-                                <img src={ChangePass2} alt="ncx-change-password" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/changepass2_t8wvpb.png" alt="ncx-change-password" />
                                 <p>{t("change_password_step_5")}</p>
-                                <img src={ChangePass3} alt="ncx-change-password" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/changepass3_xgohiu.png" alt="ncx-change-password" />
                                 <p>{t("change_password_step_6")}</p>
-                                <img src={ChangePass4} alt="ncx-change-password" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/changepass4_hkftxa.png" alt="ncx-change-password" />
                             </div>
                             <div className={toggleState === 3 ? "sprt-content active" : "sprt-content"}>
                                 <h1>{t("reset_password")}</h1>
                                 <p>{t("reset_password_step_1")}</p>
                                 <p>{t("reset_password_step_2")}</p>
                                 <p>{t("reset_password_step_3")}</p>
-                                <img src={ResetPassword1} alt="ncx-resetpassword" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403260/resetpass1_ep1aee.png" alt="ncx-resetpassword" />
                                 <p>{t("reset_password_step_4")}</p>
-                                <img src={ResetPassword2} alt="ncx-resetpassword" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403260/resetpass2_ga5rf3.png" alt="ncx-resetpassword" />
                                 <p>{t("reset_password_step_5")}</p>
-                                <img src={ResetPassword3} alt="ncx-resetpassword" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403260/resetpass3_he9xhd.png" alt="ncx-resetpassword" />
                                 <p>{t("reset_password_step_6")}</p>
-                                <img src={ResetPassword4} alt="ncx-resetpassword" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403260/resetpass4_fqjdm5.png" alt="ncx-resetpassword" />
                                 <p>{t("reset_password_step_7")}</p>
-                                <img src={ResetPassword5} alt="ncx-resetpassword" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403260/resetpass5_xacgzu.png" alt="ncx-resetpassword" />
                             </div>
                             <div className={toggleState === 4 ? "sprt-content active" : "sprt-content"}>
                                 <h1>{t("how_to_add_anti_phishing_code")}</h1>
@@ -185,16 +185,16 @@ function SupportPageSet()
                                 <p>{t("how_to_enable_anti_phishing_code")}</p>
                                 <p>{t("enable_phishing_code_1")}</p>
                                 <p>{t("enable_phishing_code_2")}</p>
-                                <img src={Phishin1} alt="ncx-phishing" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/antiphishing1_rbovwf.png" alt="ncx-phishing" />
                                 <p>{t("enable_phishing_code_3")}</p>
                                 <p>{t("enable_phishing_code_4")}</p>
-                                <img src={Phishin2} alt="ncx-phishing" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/antiphishing2_ppk9mc.png" alt="ncx-phishing" />
                                 <p>{t("enable_phishing_code_5")}</p>
                                 <p>{t("enable_phishing_code_6")}</p>
-                                <img src={Phishin3} alt="ncx-phishing" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/antiphishing3_zatfve.png" alt="ncx-phishing" />
                                 <p>{t("completed")}</p>
                                 <p>{t("enable_phishing_code_7")}</p>
-                                <img src={Phishin4} alt="ncx-phishing" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/antiphishing4_dtine3.png" alt="ncx-phishing" />
                             </div>
                             <div className={toggleState === 5 ? "sprt-content active" : "sprt-content"}>
                                 <h1>{t("how_to_add_address_whitelisting")}</h1>
@@ -202,14 +202,14 @@ function SupportPageSet()
                                 <p>{t("please_follow_simple_steps_below_to_whitelist_withdrawal_address")}</p>
                                 <p>{t("login_ncx_dashboard")}</p>
                                 <p>{t("go_to_profile_security")}</p>
-                                <img src={Whitelist1} alt="ncx-whitelist" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403509/whitelist1_kv13my.png" alt="ncx-whitelist" />
                                 <p>{t("click_on_add")}</p>
-                                <img src={Whitelist2} alt="ncx-whitelist" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403509/whitelist2_yap0vv.png" alt="ncx-whitelist" />
                                 <p>{t("choose_asset_add_wallet")}</p>
-                                <img src={Whitelist3} alt="ncx-whitelist" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403509/whitelist3_vgmc1w.png" alt="ncx-whitelist" />
                                 <p>{t("enter_the_code_sent_emails")}</p>
-                                <img src={Whitelist4} alt="ncx-whitelist" />
-                                <img src={Whitelist5} alt="ncx-whitelist" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403509/whitelist4_ojniai.png" alt="ncx-whitelist" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689403509/whitelist5_tg9z61.png" alt="ncx-whitelist" />
                             </div>
                         </div>
                         <div className="col thest">

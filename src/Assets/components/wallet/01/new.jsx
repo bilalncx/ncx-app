@@ -2,8 +2,6 @@ import React from "react";
 import NCXBarCode from '../../../images/ncx-barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
-import WalletVideo from '../../../images/wallet-video.mp4';
-import BuyCryptoVideombl from '../../../images/home__mblvdo.mp4';
 import Button from "@mui/material/Button";
 import './style.css';
 
@@ -21,7 +19,7 @@ function NCXAPPSection()
                             playsInline={true}
                             preload="auto"
                             >
-                            <source src={WalletVideo} type="video/mp4" />
+                            <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415590/wallet-video_rq6b91.mp4" type="video/mp4" />
                         </video>
                     </div>
                 </div>
@@ -66,7 +64,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src={WalletVideo} type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415590/wallet-video_rq6b91.mp4" type="video/mp4" />
                 </video>
                 <h1>NCX DeFi Wallet</h1>
                 <p>Store, Send, Swap, Buy Crypto Assets across 12 Chains NCX non-custodial wallet, hold your own Private Keys</p>

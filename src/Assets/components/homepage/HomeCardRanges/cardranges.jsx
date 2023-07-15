@@ -1,10 +1,6 @@
 import React from "react";
 import './st.css';
 import '../../cardpage/newcardpagedesign/style.css';
-import CardSelect from '../../../images/ncx-card4.png';
-import CardGold from '../../../images/ncx-card5.png';
-import CardPlatinum from '../../../images/ncx-card3.png';
-import CardBlack from '../../../images/ncx-card2.png';
 import { ReactComponent as WhiteTick } from '../../../images/white-tick.svg';
 import { ReactComponent as Mobiletick } from '../../../images/tickvector.svg';
 import { ReactComponent as BlankDash } from '../../../images/dashvector.svg';
@@ -22,16 +18,16 @@ function NCXCardRanges()
                 <div className="vwexx card__hrd container">
                     <div className="qwrc"></div>
                     <div className="qwrc">
-                        <img src={CardSelect} alt="ncx-card"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card4_keteg6.png" alt="ncx-card"/>
                     </div>
                     <div className="qwrc">
-                        <img src={CardGold} alt="ncx-card"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card5_cmrw2c.png" alt="ncx-card"/>
                     </div>
                     <div className="qwrc">
-                        <img src={CardPlatinum} alt="ncx-card"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card3_mibabk.png" alt="ncx-card"/>
                     </div>
                     <div className="qwrc">
-                        <img src={CardBlack} alt="ncx-card"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card2_zcdgg0.png" alt="ncx-card"/>
                     </div>
                 </div>
             </div>
@@ -226,7 +222,7 @@ function NCXCardRanges()
                         >
                             <Slide index={0} className="yuio">
                                 <div className="qwrc">
-                                    <img src={CardSelect} alt="ncx-card"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card4_keteg6.png" alt="ncx-card"/>
                                     <p>Select Card</p>
                                 </div>
 
@@ -338,7 +334,7 @@ function NCXCardRanges()
 
                             <Slide index={1} className="yuio">
                                 <div className="qwrc">
-                                    <img src={CardGold} alt="ncx-card"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card5_cmrw2c.png" alt="ncx-card"/>
                                     <p>Gold Card</p>
                                 </div>
                                 <div className="mjhgf gold__Card__selected">
@@ -449,7 +445,7 @@ function NCXCardRanges()
 
                             <Slide index={2} className="yuio">
                                 <div className="qwrc">
-                                    <img src={CardPlatinum} alt="ncx-card"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card3_mibabk.png" alt="ncx-card"/>
                                     <p>Platinum Card</p>
                                 </div>
                                 <div className="mjhgf platinum__Card__selected">
@@ -560,7 +556,7 @@ function NCXCardRanges()
 
                             <Slide index={3} className="yuio">
                                 <div className="qwrc">
-                                    <img src={CardBlack} alt="ncx-card"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card2_zcdgg0.png" alt="ncx-card"/>
                                     <p>Black Card</p>
                                 </div>
                                 <div className="mjhgf black__Card__selected">
