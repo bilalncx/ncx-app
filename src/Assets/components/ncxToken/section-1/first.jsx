@@ -53,7 +53,7 @@ function FirstSect()
                     loop={true}
                     playsInline={true}
                     preload="auto"
-                    poster="https://ncx.cx/images/Token_bg.jpeg"
+                    poster="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689419776/Token_bg_xoas9k.jpg"
                     >
                     <source src="https://ncx.cx/images/ncx-token-video-2.mp4" type="video/mp4" />
                 </video>
