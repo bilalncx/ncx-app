@@ -1,5 +1,151 @@
 const data = [
   {
+    id: 616,
+    title: 'Ethereum’s YTD turns profits despite price fluctuations',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'YTD', 'Price'],
+    description: <div className="blog-desc">
+      <p>From exhilarating surges to fleeting declines, Ethereum’s journey throughout the year has been a rollercoaster, yet holding strong with profitability and growth potential.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 16, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689510118/ncx-blog-886_urekx2.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>From exhilarating surges to fleeting declines, Ethereum’s journey throughout the year has been a rollercoaster, yet holding strong with profitability and growth potential.</p>
+	    <ul>
+        <li>ETH has witnessed over 7% rise in price only three times YTD.</li>
+        <li>YTD, ETH has gained over 66% in value.</li>
+      </ul>
+      <p>Ethereum [ETH] and other alternative cryptocurrencies experienced a thrilling surge not too long ago, driven by the uplifting victory of Ripple. The surge proved transient, as a decline has now set in.</p>	
+	    <p>But how has Ethereum performed throughout the year amidst the ebbs and flows of its price trends?</p>	
+      <h3>Ethereum value YTD increases</h3>
+      <p>The Ethereum price has witnessed a rollercoaster of fluctuations, and amidst recent ups and downs, it’s easy to lose sight of its overall trajectory. However, according to a recent post by Artemis, ETH has achieved a noteworthy 66.7% year-to-date (YTD) increase while not appearing overwhelmingly impressive.</p>
+      <p>This statistic revealed that those who acquired the asset at the beginning of the year and held onto it have managed to secure profitable positions.</p>
+      <h3>Examining Ethereum’s price trend</h3>
+      <p>Ethereum embarked on an upward trajectory on the daily timeframe chart, beginning around the $1,200 price level. Remarkably, it sustained this upward momentum for a remarkable stretch of nine consecutive days.</p>
+      <p>Its price surged from around $1,200 throughout this bullish phase to approximately $1,600. Notably, during this uptrend, a significant event known as a golden cross occurred, symbolized by the yellow line crossing over the blue line.</p>
+      <p>Since then, the yellow line has remained consistently above the blue line.</p>
+      <p>As of this writing, Ethereum was trading at around $1,940, displaying a slight price increase. However, on 13 July, it experienced a notable gain of over 7%, only to lose over 3%.</p>
+      <p>A broader analysis of the chart revealed that this rise on 13 July was only the third instance this year where Ethereum witnessed a surge of over 7% in value. Additionally, the Relative Strength Index indicated that Ethereum was bullish at press time.</p>
+      <h3>Long-term holders stay profitable</h3>
+	    <p>The 180-day Market Value to Realized Value (MVRV) ratio of Ethereum revealed that long-term holders have generally remained profitable. This suggested that despite the volatility witnessed by the asset year-to-date, holders have avoided being at a loss.</p>
+      <p>As of this writing, the MVRV ratio was 7.3%, indicating profitability and the potential for more growth.</p>
+      <p>Furthermore, the chart demonstrated that back in April, the MVRV ratio exceeded 39%, affirming the possibility of an increase in the value of holdings.</p>
+    </div>
+  },
+  {
+    id: 615,
+    title: 'Uniswap: Another resistance level claimed – how high can rally go?',
+    category: 'Crypto',
+    subCategory: ['UNIswap', 'Resistance', 'level'],
+    description: <div className="blog-desc">
+      <p>Uniswap continued its bullish advance by flipping another resistance level to support.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 16, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689509768/ncx-blog-885_w0keua.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Uniswap continued its bullish advance by flipping another resistance level to support.</p>
+    	<p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>	
+    	<ul>
+        <li>Uniswap jumped by 14% to flip the $5.72 price level to support.</li>
+        <li>Buyers’ dominance of long/short ratio highlighted market sentiment.</li>
+      </ul>
+      <p>A recent price report highlighted the buying opportunity available for Uniswap [UNI] bulls on the higher timeframes. This buying opportunity was utilized to the maximum by bulls, as UNI flipped the $5.72 resistance level to support.</p>
+      <p>Despite Bitcoin [BTC] experiencing a sharp correction that dropped it to $30.3k, the overall sentiment in the market remained bullish. This could be significant for altcoins such as UNI, as buyers look to achieve more gains in the long term.</p>
+      <h3>Buying pressure sees $5.72 resistance cave in</h3>
+      <p>Uniswap has been on an aggressive bullish rebound after it touched the 2023 low of $3.64 on 10 June. Since then, UNI has recorded gains of 68.2% over a month-long period. These gains have seen it flip resistance levels at $4.34, $4.87, and $5.21.</p>
+      <p>Building on this bullish resurgence, UNI claimed another resistance level over the past 48 hours with a strong bullish close on the 12-hour timeframe. While the general market correction limited any further gains after flipping the level, the signals hinted at more bullish yields.</p>
+      <p>The Relative Strength Index (RSI) remained just below the overbought zone, denoting heightened buying pressure. Similarly, the On Balance Volume (OBV) moved northwards, reinforcing an increase in demand for Uniswap.</p>
+      <p>Ambitious UNI buyers can look to ride the buying wave to $7 from the $5.72 support level. However, a potential area to watch will be the minor resistance at the $6.37 price level, as this was a key level for bearish activity in mid-April.</p>
+      <h3>Longs hold upper hand in futures market</h3>	
+    	<p>According to data from Coinglass exchange long/short ratio, UNI longs held a notable 52.5% share of the open positions. This translated to $25.02M worth of long positions which was $2.42M more than short positions.</p>
+      <p>The trend in the futures market reinforced near-term bullish sentiment, with Uniswap investors primed to take advantage of a bullish Bitcoin to rally again.</p>
+    </div>
+  },
+  {
+    id: 614,
+    title: 'SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review',
+    category: 'Crypto',
+    subCategory: ['SEC', 'BlackRock', 'ETF'],
+    description: <div className="blog-desc">
+      <p>BlackRock's application to offer a spot Bitcoin exchange-traded fund (ETF) has been added to the official docket of the Securities and Exchange Commission as part of its proposed rule change process.</p>
+    </div>,
+    authorName: 'Ryan Ozawa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 16, 2023 - 12:39 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689508909/ncx-blog-883_oev0lq.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BlackRock's application to offer a spot Bitcoin exchange-traded fund (ETF) has been added to the official docket of the Securities and Exchange Commission as part of its proposed rule change process. The move, recorded late Thursday, advances the most closely-watched Bitcoin-related proposal to the SEC to date.</p>
+    	<p>The application for the iShares Bitcoin Trust was filed nearly a month ago, prompting a new wave of optimism across the crypto market, and additional filings for spot Bitcoin ETFs from a number of other prominent players, including from firms like Invesco, Wisdom Tree, Bitwise, and Fidelity—which saw its previous application rejected last year along with those from other contenders.</p>	
+    	<p>When the SEC signaled last month that BlackRock's application was lacking, the company filed a revised application, adding a "surveillance sharing" clause that would involve the Coinbase crypto exchange monitoring and reporting possible illegal activity.</p>	
+    	<p>Soon enough, Valkyrie updated its application with the same provision, as did Fidelity and ARK Invest.</p>
+      <p>A spot Bitcoin ETF would track the value of Bitcoin without requiring the asset to be held directly. It would also be tradable on a traditional stock exchange.</p>
+      <p>BlackRock Bitcoin ETF Prospects Boost Institutional Investor Sentiment</p>
+      <p>While a Bitcoin ETF based on Bitcoin futures launched to great fanfare earlier this year, a spot ETF—which is tied to the current price of the cryptocurrency—has been described as a "holy grail" for the industry. The SEC's continued resistance to approving one over the past several years has been described as a "complete and utter disaster."</p>
+      <p>With BlackRock's application now on the SEC's official calendar, it will be published in the Federal Register and trigger a 21-day public comment period.</p>
+      <p>Meanwhile, four other applications were docketed on Friday related to the Cboe BZX Exchange, which was the first entity to apply for a Bitcoin ETF in March 2021, They include the Wise Origin Bitcoin Trust, WisdomTree Bitcoin Trust, VanEck Bitcoin Trust, and Invesco Galaxy Bitcoin ETF, which will also enter a three-week comment period.</p>
+    </div>
+  },
+  {
+    id: 613,
+    title: 'What Does The XRP Not A Security Ruling Mean For Other Cryptocurrencies?',
+    category: 'Crypto',
+    subCategory: ['XRP', 'Security', 'Cryptocurrencies'],
+    description: <div className="blog-desc">
+      <p>The recent ruling in the SEC-Ripple case doesn't quite end the lack of clarity around crypto regulation</p>
+    </div>,
+    authorName: 'Kyle Torpey',
+    authorurl: 'https://www.investopedia.com/kyle-torpey-7368504',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689509151/ncx-blog-884_bmhq4d.webp',
+    content: <div className="blog-content">
+    	<h3>The recent ruling in the SEC-Ripple case doesn't quite end the lack of clarity around crypto regulation</h3>
+      <p>The crypto industry celebrated Ripple's partial win in court on Thursday, as a judge has ruled XRP (XRPUSD) is not a security. While many crypto proponents see this as a sign these sorts of assets will be allowed to flourish in the U.S., some legal experts point out that there is still much more regulatory clarity needed.</p>
+      <h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>A Thursday court ruling in Ripple's case with the SEC indicated that the digital asset XRP is not a security.</li>
+        <li>The crypto industry has responded positively to the news, with crypto exchanges relisting XRP and many hoping this will lead to an end to the perceived war on crypto waged by the SEC.</li>
+        <li>The ruling will undoubtedly have an impact on the SEC's cases against Binance and Coinbase, and the fact that many U.S.-based exchanges have decided to relist XRP is seen as positive development for Binance and Coinbase's legal standing.</li>
+        <li>While there is reason for crypto enthusiasts to rejoice over the short term, the reality is the Ripple ruling may not be the end-all-be-all method by which crypto assets are classified.</li>
+      </ul>
+      <h3>What Does the XRP Ruling Mean for Crypto Assets?</h3>
+      <p>Bitcoin is a commodity, and that brings clarity on how it is regulated and by which agency. But that is not the case for most cryptocurrencies.</p>
+    	<p>The U.S. Securities and Exchange Commission (SEC) contends that most cryptocurrency assets are securities and therefore must fall under the purview of securities laws.</p>
+	    <p>To that effect, the regulator has brought enforcement actions against issuers of the crypto tokens and as well as crypto exchanges such as Binance and Coinbase (COIN) that provided a platform to trade those tokens.</p>	
+	    <p>With the latest court ruling that XRP is not an investment contract itself, some members of the crypto industry are hopeful that the SEC will be forced to take a more hands off approach going forward. In addition to XRP, a number of other crypto assets that had previously been deemed securities, such as Solana (SOLUSD) and Polygon (MATIC), rallied on the news of the Ripple court order.</p>
+      <p>According to Morrison Cohen Partner Jason Gottlieb, Thursday's ruling is a departure from what had previously been found in the SEC's cases against Telegram and Kik, where all initial coin offerings were part of one investment scheme. Now, it's possible that crypto assets could be traded as "unrestricted securities" in a situation where they are sufficiently decentralized or not sold directly to retail. Gottlieb also says it would be difficult to conclude that staking rewards are securities in the context of the Ripple ruling.</p>	
+	    <p>"All in all, while lots of thorny questions remain, the initial jubilation over the decision is justified," said Gottlieb. "This new judicial guidance is a boon to token creators and markets, giving them new non-violative ways to issue and trade tokens."</p>
+      <h3>Implications for SEC Cases Against Binance and Coinbase</h3>
+      <p>In addition to offering more clarity for crypto token issuers, Thursday's Ripple court order also opens up more flexibility in terms of what can be listed on exchanges, at least in the eyes of those operating the exchanges.</p>
+      <p>The XRP token "is not in and of itself a “contract, transaction[,] or scheme” that embodies the Howey requirements of an investment contract," a federal judge ruled Thursday. The order also said that XRP sold to institutional investors broke securities laws while XRP traded on exchanges by retail investors did not.</p>
+      <p>That could have some implications for the lawsuits the SEC has filed against Binance and Coinbase, which were both sued for operating unlicensed securities exchanges.</p>
+      <p>Coinbase Chief Legal Officer Paul Grewal told CNBC that the crypto exchange's legal standing has been improved by the court order in the Ripple case. "I thought we would win before this decision," said Grewal. "We think this decision has only further strengthened the case."</p>
+      <p>In an episode of The Chopping Block, Brown Rudnick Partner Stephen Palley brought up the question of whether the SEC may go after the crypto exchanges that have now decided to relist XRP. "If so, the exchanges are willing to fight," Palley said.</p>
+      <p>Palley added that he's confident Coinbase would be raising this new legal opinion in their case against the SEC to illustrate that the transactions that occur on their platform are not securities transactions. "The most important sign, at least short term, is that Coinbase and Kraken have relisted [XRP]," Palley added. "That, obviously, means something."</p>
+      <h3>This is Not a Final Decision</h3>
+      <p>While the crypto industry can take the Ripple court order as a win for now, the reality is this ruling may not end up being the final say on the matter for two key reasons.</p>
+      <p>For one, the SEC still has the ability to appeal the decision made by the judge in the Ripple case. Secondly, the final word on crypto assets' regulatory classification may come from Congress by way of new legislation, as SEC Commissioner Hester Peirce has been advocating.</p>
+      <p>In his own post on the matter, Brown Rudnick Partner Preston Byrne shared his belief that the SEC is likely to appeal this decision and see the ruling overturned.</p>
+      <p>Gottlieb also added his own caveat that this is simply one decision from one district court that other courts could adopt or not follow.</p>
+      <p>Specifically, Byrne says the court made an error when it concluded "programmatic" sales of XRP on exchanges were not investment contracts. In his view, it's "obvious to anyone active in the industry" that Ripple is the principal promoter of XRP, no matter whether the purchasers of the digital asset on exchanges were aware they were purchasing from Ripple.</p>
+      <p>"My hope is that Congress will get its act together and decide that it’s time for cryptocurrency tokens and cryptocurrency exchanges to receive their own purpose-built disclosure and supervisory frameworks which will take cryptocurrency regulation out of the slow and contradictory hands of our courts, and the politically motivated hands of the SEC," wrote Byrne. "My expectations of Congress are, however, quite low."</p>
+    </div>
+  },
+  {
     id: 612,
     title: 'Ether Pushes Past $2K as Ripple Partial Win Against SEC Invigorates Market',
     category: 'Crypto',
