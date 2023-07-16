@@ -55,7 +55,7 @@ function FirstSect()
                     preload="auto"
                     poster="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689419776/Token_bg_xoas9k.jpg"
                     >
-                    <source src="https://ncx.cx/images/ncx-token-video-2.mp4" type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689501203/ncx-token-video-2_1_wvjapl.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="token_first_sect">

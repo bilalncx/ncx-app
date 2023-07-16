@@ -1,7 +1,5 @@
 import React from "react";
 import './8.css';
-import HeaderImage1 from '../../../images/indices_head-1.png';
-import HeaderImage2 from '../../../images/indices_head-2.png';
 import Button from "@mui/material/Button";
 import { useTranslation } from "react-i18next";
 
@@ -64,8 +62,8 @@ function Indices8(){
                         </div>
                     </div>
                     <div className="col mgg">
-                        <img src={HeaderImage1} alt="prices"/>
-                        <img src={HeaderImage2} alt="prices"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-1_koiywt.png" alt="prices"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-2_pzfkhc.png" alt="prices"/>
                     </div>
                 </div>
             </div>

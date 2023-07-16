@@ -1,6 +1,5 @@
 import {React} from "react";
 import Button from "@mui/material/Button";
-import CryptoCard1 from '../../../images/ncx-derivatives-trading.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 
@@ -33,7 +32,7 @@ function FirstVideo()
                     </video>
                 </div>
                 <div className="col card_imgb">
-                    <img src={CryptoCard1} alt="ncx_crypto_card" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497422/ncx-derivatives-trading_onzc9n.png" alt="ncx_crypto_card" />
                 </div>
             </div> */}
 
@@ -85,7 +84,7 @@ function FirstVideo()
                             <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/crypto_card_2_odjj5j.png" alt="ncx_crypto_card" />
                         </Slide>
                         <Slide index={1}>
-                            <img src={CryptoCard1} alt="ncx_crypto_card" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497422/ncx-derivatives-trading_onzc9n.png" alt="ncx_crypto_card" />
                         </Slide>
                     </Slider>
                     <ButtonBack className="age"><div className="circle"></div></ButtonBack>

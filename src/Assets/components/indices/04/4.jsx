@@ -1,9 +1,5 @@
 import React from "react";
 import './4.css';
-import GlobalMarket1 from '../../../images/instruments-min.png';
-import GlobalMarket2 from '../../../images/orders-min.png';
-import GlobalMarket3 from '../../../images/chart-min.png';
-import GlobalMarket4 from '../../../images/tools-min.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, Dot, DotGroup } from 'pure-react-carousel';
 
@@ -16,7 +12,7 @@ function Indices4()
                 <h1 className="fg__rer">Professional Tools for Professional Traders</h1>
                 <div className="global__row row">
                     <div className="col">
-                        <img src={GlobalMarket1} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/instruments-min_swqnvt.png" alt="global"/>
                         <h2>Instruments</h2>
                         <p>55+ Technical Indicators 
                             <span>Level 2 DoM (Depth of Market)</span>
@@ -25,7 +21,7 @@ function Indices4()
                         </p>
                     </div>
                     <div className="col">
-                        <img src={GlobalMarket2} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/orders-min_udx0rx.png" alt="global"/>
                         <h2>Orders</h2>
                         <p>Additional pending Order Types (buy/sell stop limit)
                             <span>No restrictions on Limit Levels</span>
@@ -34,7 +30,7 @@ function Indices4()
                         </p>
                     </div>
                     <div className="col">
-                        <img src={GlobalMarket3} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/chart-min_gu4tt7.png" alt="global"/>
                         <h2>Charts</h2>
                         <p>Detachable & Linked Charts
                             <span>Fully Customisable Charts</span>
@@ -44,7 +40,7 @@ function Indices4()
                         </p>
                     </div>
                     <div className="col">
-                        <img src={GlobalMarket4} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/tools-min_irch75.png" alt="global"/>
                         <h2>Tools</h2>
                         <p>Add custom cBots & indicators
                             <span>Integrated Economic Calendar</span>
@@ -71,7 +67,7 @@ function Indices4()
                         <Slider className="global__row row">
                             <Slide index={0}>
                                 <div className="col">
-                                    <img src={GlobalMarket1} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/instruments-min_swqnvt.png" alt="global"/>
                                     <h2>Instruments</h2>
                                     <p>55+ Technical Indicators 
                                         <span>Level 2 DoM (Depth of Market)</span>
@@ -82,7 +78,7 @@ function Indices4()
                             </Slide>
                             <Slide index={1}>
                                 <div className="col">
-                                    <img src={GlobalMarket2} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/orders-min_udx0rx.png" alt="global"/>
                                     <h2>Orders</h2>
                                     <p>Additional pending Order Types (buy/sell stop limit)
                                         <span>No restrictions on Limit Levels</span>
@@ -93,7 +89,7 @@ function Indices4()
                             </Slide>
                             <Slide index={2}>
                                 <div className="col">
-                                    <img src={GlobalMarket3} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/chart-min_gu4tt7.png" alt="global"/>
                                     <h2>Charts</h2>
                                     <p>Detachable & Linked Charts
                                         <span>Fully Customisable Charts</span>
@@ -106,7 +102,7 @@ function Indices4()
 
                             <Slide index={3}>
                                 <div className="col">
-                                    <img src={GlobalMarket4} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/tools-min_irch75.png" alt="global"/>
                                     <h2>Tools</h2>
                                     <p>Add custom cBots & indicators
                                         <span>Integrated Economic Calendar</span>

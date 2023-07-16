@@ -1,7 +1,5 @@
 import { React, useState } from "react";
 import './mbl.css';
-import Wallet1 from '../../../images/wallet__sc1.png';
-import Wallet2 from '../../../images/wallet__sc2.png';
 
 function WalletMobileSection()
 {
@@ -57,21 +55,21 @@ function WalletMobileSection()
                         <div className="cont__txt">
                             <h1>Gain <span>full control</span> over your crypto assets and private keys. Easily manage tokens across 12+ <span>Blockchains.</span></h1>
                             <p>Including Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora, xDai Chain, Harmony, Heco Chain, OKEx Chain</p>
-                            <img src={Wallet1} alt="wallet_mbl" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497053/wallet__sc1_weztnb.png" alt="wallet_mbl" />
                         </div>
                     </div>
                     <div className={toggleState === 2 ? "wall__cont  active" : "wall__cont"}>
                         <div className="cont__txt">
                             <h1>Import your <span>existing Wallet</span> seamlessly with a 12/18/24-word <span>recovery phrase.</span></h1>
                             <p>Import unlimited wallets into NCX DeFi Wallet, keep full custody of your assets with all added benefits of</p>
-                            <img src={Wallet2} alt="wallet_mbl" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497126/wallet__sc2_zmlzph.png" alt="wallet_mbl" />
                         </div>
                     </div>
                     <div className={toggleState === 3 ? "wall__cont  active" : "wall__cont"}>
                         <div className="cont__txt">
                             <h1>With built-in <span>Cross-Chain Swap</span> get the best price on every swap</h1>
                             <p>Chose the best route, safe on gas fees and time</p>
-                            <img src={Wallet1} alt="wallet_mbl" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497053/wallet__sc1_weztnb.png" alt="wallet_mbl" />
                         </div>
                     </div>
                     {/* <div className={toggleState === 4 ? "wall__cont  active" : "wall__cont"}>

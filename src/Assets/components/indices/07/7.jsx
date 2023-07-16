@@ -77,10 +77,6 @@
 
 import React from "react";
 import '../04/4.css';
-import GlobalMarket1 from '../../../images/global_1.png';
-import GlobalMarket2 from '../../../images/global_2.png';
-import GlobalMarket3 from '../../../images/global_4.png';
-import GlobalMarket4 from '../../../images/global_3.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, Dot, DotGroup } from 'pure-react-carousel';
 
@@ -93,7 +89,7 @@ function Indices7()
                 <h1 className="fg__rer">Get everything you need to take on global markets</h1>
                 <div className="global__row row">
                     <div className="col">
-                        <img src={GlobalMarket1} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_1_tqlnl1.png" alt="global"/>
                         <h2>Lowest fees <span>in Industry</span></h2>
                         <p>Benefit from leading market 
                             <span>prices, Stake NCXT and get</span>
@@ -102,7 +98,7 @@ function Indices7()
                         </p>
                     </div>
                     <div className="col">
-                        <img src={GlobalMarket2} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_2_zcqait.png" alt="global"/>
                         <h2>True multi asset <span>Platform</span></h2>
                         <p>Trade Financial Markets 
                             <span>globally with access to 7</span>
@@ -111,7 +107,7 @@ function Indices7()
                         </p>
                     </div>
                     <div className="col">
-                        <img src={GlobalMarket3} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_4_sj9yvt.png" alt="global"/>
                         <h2>24/7 Support in <span>multiple languages</span></h2>
                         <p>Take advantage of our live 
                             <span>Customer Support team,</span>
@@ -119,7 +115,7 @@ function Indices7()
                         </p>
                     </div>
                     <div className="col">
-                        <img src={GlobalMarket4} alt="global"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_3_vdjico.png" alt="global"/>
                         <h2>Fast Order <span>Execution</span></h2>
                         <p>Low latency fibre optic and
                             <span>Equinix NY4 Server</span>
@@ -145,7 +141,7 @@ function Indices7()
                         <Slider className="global__row row">
                             <Slide index={0}>
                                 <div className="col">
-                                    <img src={GlobalMarket1} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_1_tqlnl1.png" alt="global"/>
                                     <h2>Lowest fees <span>in Industry</span></h2>
                                     <p>Benefit from leading market 
                                         <span>prices, Stake NCXT and get</span>
@@ -156,7 +152,7 @@ function Indices7()
                             </Slide>
                             <Slide index={1}>
                                 <div className="col">
-                                    <img src={GlobalMarket2} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_2_zcqait.png" alt="global"/>
                                     <h2>True multi asset <span>Platform</span></h2>
                                     <p>Trade Financial Markets 
                                         <span>globally with access to 7</span>
@@ -167,7 +163,7 @@ function Indices7()
                             </Slide>
                             <Slide index={2}>
                                 <div className="col">
-                                    <img src={GlobalMarket3} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_4_sj9yvt.png" alt="global"/>
                                     <h2>24/7 Support in <span>multiple languages</span></h2>
                                     <p>Take advantage of our live 
                                         <span>Customer Support team,</span>
@@ -178,7 +174,7 @@ function Indices7()
 
                             <Slide index={3}>
                                 <div className="col">
-                                    <img src={GlobalMarket4} alt="global"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_3_vdjico.png" alt="global"/>
                                     <h2>Fast Order <span>Execution</span></h2>
                                     <p>Low latency fibre optic and
                                         <span>Equinix NY4 Server</span>

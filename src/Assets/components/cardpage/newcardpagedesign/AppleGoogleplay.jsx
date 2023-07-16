@@ -1,5 +1,4 @@
 import React from "react";
-import AppleGoogleImage from '../../../images/apple-google-pay.png';
 
 function IntegrationPlay()
 {
@@ -8,7 +7,6 @@ function IntegrationPlay()
             <div className="container">
                 <div className="nhy__tr">
                     <div className="mujh">
-                        {/* <img src={AppleGoogleImage} alt="ncx"/> */}
                         <video 
                             autoPlay={true}
                             muted={true}

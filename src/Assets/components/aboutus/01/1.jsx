@@ -1,7 +1,6 @@
 import {React} from "react";
 import '../../ambassador/first/first.css';
 import Button from "@mui/material/Button";
-import CryptoCard2 from '../../../images/ncx-derivatives-trading.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 
@@ -28,7 +27,7 @@ function FirstVideo()
                     <img className="ab_mbl_ex" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/crypto_card_2_odjj5j.png" alt="ncx_crypto_card" />
                 </div>
                 <div className="col card_imgb">
-                    <img src={CryptoCard2} alt="ncx_crypto_card" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497422/ncx-derivatives-trading_onzc9n.png" alt="ncx_crypto_card" />
                 </div>
             </div> */}
             <div className="new__ambass">
@@ -87,7 +86,7 @@ function FirstVideo()
                     >
                     <Slider className="slider">
                         <Slide index={0}>
-                            <img src={CryptoCard2} alt="ncx_crypto_card" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497422/ncx-derivatives-trading_onzc9n.png" alt="ncx_crypto_card" />
                         </Slide>
                         <Slide index={1}>
                             <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/crypto_card_2_odjj5j.png" alt="ncx_crypto_card" />

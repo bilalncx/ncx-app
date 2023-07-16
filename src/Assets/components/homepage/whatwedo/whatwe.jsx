@@ -1,13 +1,5 @@
 import {React, useState} from "react";
 import './whatwe.css';
-import { AnimationOnScroll } from 'react-animation-on-scroll';
-import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
-import Button from "@mui/material/Button";
-import DerivativesTrading from '../../../images/ncx-derivatives-trading.png';
-import BuyCrypto from '../../../images/ncx-crypto-trading.png';
-import NCXDEXPhones from '../../../images/ncx-dex-phone.png';
-import NCXCardTrade from '../../../images/ncx-card-trade.png';
-import NCXCryptoTrading from '../../../images/ncx-cryptotrade.png';
 import NCXAPISearchBar from '../../../images/ncx-api-searchbar.png';
 import APIAccordian from './ncxapi-accordian';
 import NCXTradeAssets from '../../homepage/home-trade/trade';
@@ -115,7 +107,7 @@ function WhatweDoSection(){
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="deri-image" src={DerivativesTrading} />
+                                    <img className="deri-image" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497422/ncx-derivatives-trading_onzc9n.png" />
                                 </div>
                             </div>
                         </div>
@@ -179,7 +171,6 @@ function WhatweDoSection(){
                                     >
                                         <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416505/ncxbuy-cryptovideo_vyecpg.mp4" type="video/mp4" />
                                     </video>
-                                    {/* <img className="deri-image" src={BuyCrypto} /> */}
                                 </div>
                             </div>
                         </div>
@@ -212,7 +203,7 @@ function WhatweDoSection(){
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="dex-image" src={NCXDEXPhones} />
+                                    <img className="dex-image" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499918/ncx-dex-phone_zudvfx.png" />
                                 </div>
                             </div>
                         </div>
@@ -276,7 +267,6 @@ function WhatweDoSection(){
                                         >
                                         <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417539/ncx_poweredby_nmevv0.mp4" type="video/mp4" />
                                     </video>
-                                    {/* <img className="cardtr-image" src={NCXCardTrade} /> */}
                                 </div>
                             </div>
                         </div>
@@ -314,7 +304,7 @@ function WhatweDoSection(){
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="deri-image" src={NCXCryptoTrading} />
+                                    <img className="deri-image" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499286/ncx-cryptotrade_utcyzg.png" />
                                 </div>
                             </div>
                         </div>
