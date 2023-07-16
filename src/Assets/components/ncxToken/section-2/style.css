@@ -150,12 +150,24 @@ div#presale_ncxT {
 }
 #presale_ncxT .colstake:nth-child(2), #presale_ncxT .colstake:nth-child(3), #presale_ncxT .tokenhead-stake p.q1:nth-child(2),
 #presale_ncxT .tokenhead-stake p.q1:nth-child(3){
-    width: 13% !important;
+    width: 14% !important;
 }
 #presale_ncxT .colstake:nth-child(4), #presale_ncxT .tokenhead-stake p.q1:nth-child(4){
-    width: 22% !important;
+    width: 25% !important;
 }
 #presale_ncxT .colstake:nth-child(5), #presale_ncxT .colstake:nth-child(6), #presale_ncxT .colstake:nth-child(7),
 #presale_ncxT .tokenhead-stake p.q1:nth-child(5), #presale_ncxT .tokenhead-stake p.q1:nth-child(6), #presale_ncxT .tokenhead-stake p.q1:nth-child(7){
-    width: 11.5% !important;
+    width: 15% !important;
+}
+#presale_ncxT.ncx__vewd .colstake .color svg {
+    width: 30px;
+}
+
+@media screen and (max-width: 800px){
+    #presale_ncxT.ncx__vewd .mbl-tokrowitems .color{
+        width: 15.5% !important;
+    }
+    #presale_ncxT.ncx__vewd .mbl-tokrowitems.vsdc .color p {
+        padding-top: 10px !important;
+    }
 }

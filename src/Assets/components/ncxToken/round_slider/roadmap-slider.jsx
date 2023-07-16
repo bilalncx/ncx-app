@@ -16,7 +16,7 @@ function RoadmapSlider()
                 <CarouselProvider
                     className="desktop"
                     visibleSlides={4}
-                    totalSlides={33}
+                    totalSlides={34}
                     step={3}
                     naturalSlideWidth={300}
                     naturalSlideHeight={500}
@@ -139,31 +139,31 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q2 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>March 2023</h3>
+                                <h3>March 2022</h3>
+                                <p>
+                                    <span>NCX App Release </span>
+                                </p>
+                            </div>
+                        </Slide>
+                        <Slide index={14}>
+                            <div className="single_map">
+                                <h3>Q3 2023</h3>
+                                <div className="active border-map"></div>
+                                <h3>April 2023</h3>
                                 <p>
                                     <span>NCX DeFi Wallet</span>
                                     <span>Architecture & Development</span>
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={14}>
-                            <div className="single_map">
-                                <h3>Q2 2023</h3>
-                                <div className="border-map"></div>
-                                <h3>May 2023</h3>
-                                <p>
-                                    <span>NCX App Release </span>
-                                </p>
-                            </div>
-                        </Slide>
                         <Slide index={15}>
                             <div className="single_map">
-                                <h3>Q2 2023</h3>
+                                <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>May 2023</h3>
+                                <h3>July 2023</h3>
                                 <p>
-                                    <span>Launch of NCXT</span>
-                                    <span>Token Private Sale</span>
+                                    <span>NCX App 2.0</span>
+                                    <span>Release</span>
                                 </p>
                             </div>
                         </Slide>
@@ -171,21 +171,21 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>June 2023</h3>
+                                <h3>August 2023</h3>
                                 <p>
-                                    <span>Deployment of NCX</span>
-                                    <span>Derivatives Trading</span>
+                                    <span>Launch of NCXT</span>
+                                    <span>Token Private Sale</span>
                                 </p>
                             </div>
                         </Slide>
                         <Slide index={17}>
                             <div className="single_map">
-                                <h3>Q2 2023</h3>
+                                <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>June 2023</h3>
+                                <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCX Derivatives Trading</span>
-                                    <span>App on Release on iOS and Android</span>
+                                    <span>Deployment of NCX</span>
+                                    <span>Derivatives Trading</span>
                                 </p>
                             </div>
                         </Slide>
@@ -195,11 +195,22 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Growth of Platform User-base through Global Marketing Campaigns</span>
+                                    <span>NCX Derivatives Trading</span>
+                                    <span>App on Release on iOS and Android</span>
                                 </p>
                             </div>
                         </Slide>
                         <Slide index={19}>
+                            <div className="single_map">
+                                <h3>Q3 2023</h3>
+                                <div className="border-map"></div>
+                                <h3>Q3 2023</h3>
+                                <p>
+                                    <span>Growth of Platform User-base through Global Marketing Campaigns</span>
+                                </p>
+                            </div>
+                        </Slide>
+                        <Slide index={20}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -210,7 +221,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={20}>
+                        <Slide index={21}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -221,7 +232,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={21}>
+                        <Slide index={22}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -232,7 +243,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={22}>
+                        <Slide index={23}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -244,7 +255,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={23}>
+                        <Slide index={24}>
                             <div className="single_map">
                                 <h3>Q3  2023</h3>
                                 <div className="border-map"></div>
@@ -255,7 +266,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={24}>
+                        <Slide index={25}>
                             <div className="single_map">
                                 <h3>Q1 2024</h3>
                                 <div className="border-map"></div>
@@ -266,7 +277,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={25}>
+                        <Slide index={26}>
                             <div className="single_map">
                                 <h3>Q1 2024</h3>
                                 <div className="border-map"></div>
@@ -277,7 +288,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={26}>
+                        <Slide index={27}>
                             <div className="single_map">
                                 <h3>Q2 2024</h3>
                                 <div className="border-map"></div>
@@ -289,7 +300,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={27}>
+                        <Slide index={28}>
                             <div className="single_map">
                                 <h3>Q2 2024</h3>
                                 <div className="border-map"></div>
@@ -300,7 +311,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={28}>
+                        <Slide index={29}>
                             <div className="single_map">
                                 <h3>Q2 2024</h3>
                                 <div className="border-map"></div>
@@ -311,7 +322,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={29}>
+                        <Slide index={30}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="border-map"></div>
@@ -322,7 +333,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={30}>
+                        <Slide index={31}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="border-map"></div>
@@ -334,7 +345,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={31}>
+                        <Slide index={32}>
                             <div className="single_map">
                                 <h3>Q4 2024</h3>
                                 <div className="border-map"></div>
@@ -346,7 +357,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={32}>
+                        <Slide index={33}>
                             <div className="single_map">
                                 <h3>Q4 2024</h3>
                                 <div className="border-map"></div>
@@ -363,7 +374,7 @@ function RoadmapSlider()
                 <CarouselProvider
                     className="mobile"
                     visibleSlides={2}
-                    totalSlides={33}
+                    totalSlides={34}
                     step={1}
                     naturalSlideWidth={300}
                     naturalSlideHeight={500}
@@ -486,31 +497,31 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q2 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>March 2023</h3>
+                                <h3>March 2022</h3>
+                                <p>
+                                    <span>NCX App Release </span>
+                                </p>
+                            </div>
+                        </Slide>
+                        <Slide index={14}>
+                            <div className="single_map">
+                                <h3>Q3 2023</h3>
+                                <div className="active border-map"></div>
+                                <h3>April 2023</h3>
                                 <p>
                                     <span>NCX DeFi Wallet</span>
                                     <span>Architecture & Development</span>
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={14}>
-                            <div className="single_map">
-                                <h3>Q2 2023</h3>
-                                <div className="border-map"></div>
-                                <h3>May 2023</h3>
-                                <p>
-                                    <span>NCX App Release </span>
-                                </p>
-                            </div>
-                        </Slide>
                         <Slide index={15}>
                             <div className="single_map">
-                                <h3>Q2 2023</h3>
+                                <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>May 2023</h3>
+                                <h3>July 2023</h3>
                                 <p>
-                                    <span>Launch of NCXT</span>
-                                    <span>Token Private Sale</span>
+                                    <span>NCX App 2.0</span>
+                                    <span>Release</span>
                                 </p>
                             </div>
                         </Slide>
@@ -518,21 +529,21 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>June 2023</h3>
+                                <h3>August 2023</h3>
                                 <p>
-                                    <span>Deployment of NCX</span>
-                                    <span>Derivatives Trading</span>
+                                    <span>Launch of NCXT</span>
+                                    <span>Token Private Sale</span>
                                 </p>
                             </div>
                         </Slide>
                         <Slide index={17}>
                             <div className="single_map">
-                                <h3>Q2 2023</h3>
+                                <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>June 2023</h3>
+                                <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCX Derivatives Trading</span>
-                                    <span>App on Release on iOS and Android</span>
+                                    <span>Deployment of NCX</span>
+                                    <span>Derivatives Trading</span>
                                 </p>
                             </div>
                         </Slide>
@@ -542,11 +553,22 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Growth of Platform User-base through Global Marketing Campaigns</span>
+                                    <span>NCX Derivatives Trading</span>
+                                    <span>App on Release on iOS and Android</span>
                                 </p>
                             </div>
                         </Slide>
                         <Slide index={19}>
+                            <div className="single_map">
+                                <h3>Q3 2023</h3>
+                                <div className="border-map"></div>
+                                <h3>Q3 2023</h3>
+                                <p>
+                                    <span>Growth of Platform User-base through Global Marketing Campaigns</span>
+                                </p>
+                            </div>
+                        </Slide>
+                        <Slide index={20}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -557,7 +579,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={20}>
+                        <Slide index={21}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -568,7 +590,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={21}>
+                        <Slide index={22}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -579,7 +601,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={22}>
+                        <Slide index={23}>
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
@@ -591,7 +613,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={23}>
+                        <Slide index={24}>
                             <div className="single_map">
                                 <h3>Q3  2023</h3>
                                 <div className="border-map"></div>
@@ -602,7 +624,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={24}>
+                        <Slide index={25}>
                             <div className="single_map">
                                 <h3>Q1 2024</h3>
                                 <div className="border-map"></div>
@@ -613,7 +635,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={25}>
+                        <Slide index={26}>
                             <div className="single_map">
                                 <h3>Q1 2024</h3>
                                 <div className="border-map"></div>
@@ -624,7 +646,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={26}>
+                        <Slide index={27}>
                             <div className="single_map">
                                 <h3>Q2 2024</h3>
                                 <div className="border-map"></div>
@@ -636,7 +658,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={27}>
+                        <Slide index={28}>
                             <div className="single_map">
                                 <h3>Q2 2024</h3>
                                 <div className="border-map"></div>
@@ -647,7 +669,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={28}>
+                        <Slide index={29}>
                             <div className="single_map">
                                 <h3>Q2 2024</h3>
                                 <div className="border-map"></div>
@@ -658,7 +680,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={29}>
+                        <Slide index={30}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="border-map"></div>
@@ -669,7 +691,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={30}>
+                        <Slide index={31}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="border-map"></div>
@@ -681,7 +703,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={31}>
+                        <Slide index={32}>
                             <div className="single_map">
                                 <h3>Q4 2024</h3>
                                 <div className="border-map"></div>
@@ -693,7 +715,7 @@ function RoadmapSlider()
                                 </p>
                             </div>
                         </Slide>
-                        <Slide index={32}>
+                        <Slide index={33}>
                             <div className="single_map">
                                 <h3>Q4 2024</h3>
                                 <div className="border-map"></div>
