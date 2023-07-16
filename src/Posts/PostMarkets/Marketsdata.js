@@ -1,5 +1,89 @@
 const data = [
   {
+    id: 593,
+    title: 'UBS to retain EY as auditor after Credit Suisse takeover- FT',
+    category: 'Markets',
+    subCategory: ['UBS', 'EY', 'Suisse'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -UBS Group has decided to retain EY as its external auditor, enlarging its role to include Credit Suisse's accounts from 2024, the Financial Times reported</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 16, 2023 - 9:14 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689508353/ncx-blog-881_uw7bis.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) -UBS Group has decided to retain EY as its external auditor, enlarging its role to include Credit Suisse's accounts from 2024, the Financial Times reported on Sunday, citing people with knowledge of the decision.</p>
+    	<p>The size of the contract will require the Big Four accounting firm to call in staff from other countries to work on the audit, two people told the FT.</p>	
+    	<p>PricewaterhouseCoopers (PwC), which has been Credit Suisse's auditor since 2020, will audit the acquired bank's accounts for 2023, according to the newspaper.</p>	
+    	<p>UBS agreed to buy Credit Suisse for 3 billion Swiss francs ($3.48 billion) in March after panicked customers withdrew cash from their accounts at the stricken lender.</p>
+      <p>PwC in Credit Suisse's 2022 annual report had included an "adverse opinion" on the effectiveness of the bank's internal controls over its reporting but said its statements "present fairly, in all material respects" the financial position of the bank from 2020 through 2022.</p>
+      <p>UBS and EY did not immediately respond to requests for comment on the FT report while PwC said it would not be making any comment on the story.</p>
+      <p>($1 = 0.8617 Swiss francs)</p>
+      <p>(Reporting by Juby Babu in Bengaluru; Editing by Jamie Freed)</p>
+    </div>
+  },
+  {
+    id: 592,
+    title: 'FTC Loses Appeal Bid to Block Microsoft-Activision Deal',
+    category: 'Markets',
+    subCategory: ['FTC', 'Microsoft', 'Appeal'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- A US appeals court denied a Federal Trade Commission bid to pause Microsoft Corp.’s acquisition of Activision Blizzard Inc. Friday, clearing a path for the companies to close the largest gaming deal ever in the US.</p>
+    </div>,
+    authorName: 'Leah Nylen and Cecilia D Anastasio',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 - 8:10 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689508659/ncx-blog-882_xbn0me.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- A US appeals court denied a Federal Trade Commission bid to pause Microsoft Corp.’s acquisition of Activision Blizzard Inc. Friday, clearing a path for the companies to close the largest gaming deal ever in the US.</p>
+    	<p>The 9th Circuit US Court of Appeals ruling means that only UK regulators stand between the companies closing the deal before a July 18 deadline. Britain’s antitrust appeals court has scheduled a hearing July 17 to discuss the companies’ request to pause the challenge to their deal by the country’s competition agency.</p>
+      <p>“This brings us another step closer to the finish line in this marathon of global regulatory reviews,” Microsoft President Brad Smith said in a statement. Activision didn’t immediately respond to a request for comment.</p>	
+    	<p>Activision climbed as much as 4.4% in after-hours trading, rising to $94 from its close of $90.07. Microsoft gained 1.5%.</p>	
+    	<p>The ruling is a blow to the FTC and its Chair Lina Khan, who sought to block the merger over concerns that Microsoft would withhold Activision’s most popular games from rival consoles or services. The court-ordered pause on Microsoft’s Activision merger was set to expire at midnight Pacific time on Friday.</p>
+      <p>Microsoft has strong incentive to close the deal before the July 18 deadline to avoid paying a $3 billion breakup fee to Activision.</p>
+      <p>The FTC declined to comment on the ruling and whether it plans to pursue its internal case opposing the deal. Proceedings before an FTC administrative judge were scheduled to start Aug. 2.</p>
+      <p>The UK Competition and Markets Authority, which vetoed the merger in April amid concerns over the deal’s impact on the cloud gaming market, has agreed to give Microsoft an unprecedented second chance to offer a remedy. Microsoft has offered to sell off the cloud-based market rights for games in the UK, Bloomberg earlier reported.</p>
+      <p>In a procedural move separate from this week’s developments, the CMA said Friday it had extended its deadline for issuing a legally final order on the deal until Aug. 29.</p>
+      <p>--With assistance from Malathi Nayak.</p> 
+    </div>
+  },
+  {
+    id: 591,
+    title: 'Risky assets like stocks are on fire as investors pile into the market amid tumbling inflation, Bank of America says',
+    category: 'Markets',
+    subCategory: ['Bank', 'America', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>Risky assets like stocks are heating up, with investors pouring cash into the market in recent days as inflation appears to be in full retreat, according to Bank of America.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 - 4:10 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689508156/ncx-blog-880_dvi1ry.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Stocks and other risk assets are "on fire," Bank of America strategists said on Friday.</li>
+        <li>Investors poured $12 billion into stocks in the last week as the disinflation narrative deepened.</li>
+        <li>Markets are expecting the Fed to soon pull back on rate hikes, which would be a positive for equities.</li>
+      </ul>
+    	<p>Risky assets like stocks are heating up, with investors pouring cash into the market in recent days as inflation appears to be in full retreat, according to Bank of America.</p>
+    	<p>The S&P 500 perked up 2% the last week, rallying over 100 points. Meanwhile, investors pumped $11.6 billion into the stock market over the last week, Bank of America strategists said, a sign traders are growing more bullish on risk assets as inflation keeps cooling.</p>	
+	    <p>Inflation rose 3% year-over-year last month, per the June Consumer Price Index report. That's well below the 41-year-record of 9% for headline inflation notched last summer. Cooling CPI as well as a lower Producer Price Index reading on Thursday have led markets to declare "mission accomplished" in the Federal Reserve's inflation fight, the BofA strategists said.</p>	
+	    <p>"Headline 2% to 9% to 3% roundtrip is now complete," strategists said in a note on Thursday. "Risk assets en fuego as Goldilocks [inflation report] schools us bears."</p>
+      <p>Cooler inflation spells good news for equities, and has raised the odds that the US economy can avoid a bad recession. A so-called soft landing would be an impressive feat for the Fed, as it successfully threads the needle to bring down inflation without crushing economic growth and sparking high unemployment.</p>
+      <p>Still, some experts have warned inflationary pressures are still a threat, with core inflation accelerating 4.8% year-per-year over the last month. Core inflation pressures still need to be addressed, San Francisco Fed President Mary Daly said this week, suggesting before the June CPI was published that a "couple more" rate hikes may be needed.</p>
+      <p>Markets, though, are anticipating just one more rate increase before the Fed hits pause. Investors have priced in a 96% chance of a 25 basis-point hike in July, and an 81% chance the Fed keeps rates steady at that level in September, per the CME FedWatch tool.</p>
+    </div>
+  },
+  {
     id: 590,
     title: 'Stocks Set for Best Week Since November; Yen Gains: Markets Wrap',
     category: 'Markets',

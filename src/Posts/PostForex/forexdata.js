@@ -1,5 +1,75 @@
 const data = [
   {
+    id: 579,
+    title: 'USD/JPY Weekly Forecast – US Dollar Plummets Into Support',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has fallen rather hard during the course of the trading week, as inflation numbers in the United States have cooled off a bit.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 -  8:07 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689513120/ncx-blog-892_afkqw5.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+	    <p>The US dollar has fallen rather hard during the course of the trading week, as inflation numbers in the United States have cooled off a bit. As a result, we have seen the market really plunge against the Japanese yen, but at the same time you can also make an argument that the Bank of Japan has hinted that they will do some type of yield curve control adjustment, so therefore it’s likely that we had to get through this correction.</p>
+    	<p>Looking at this chart, I think you’ve got a situation where the market memory will come back into the picture, and therefore I think you have to look at the ¥138 level with a certain amount of caution. After all, it is an area that was previously resistance, and now it looks like it could offer a bit of support.</p>	
+	    <p>The fact that we have bounced from there is very important to pay attention to, and we can see buyers coming back into the market. However, it’s probably going to be a bit difficult to place a trade based on the weekly chart, but the daily candlestick suggests that we are ready to bounce from here. If we can take out the ¥139 level, that opens up the possibility of a move to the¥ 140 level, and so on.</p>	
+    	<p>On the other hand, if we do break down below the bottom of the weekly candlestick, that opens up a move down to the 50-Week EMA, which is closer to the ¥135 level, and is hugging the previous trendline from the former ascending triangle.</p>
+    </div>
+  },
+  {
+    id: 578,
+    title: 'GBP/USD Weekly Forecast – British Pound Breaks the Resistance',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has broken above the 1.30 level during the trading week, opening up the possibility of a bigger move. All things being equal, this candlestick has been</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 8:01 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689513994/ncx-blog-894_ie4w7f.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Weekly Technical Analysis</h3>
+	    <p>The British pound has broken above the 1.30 level during the trading week, opening up the possibility of a bigger move. All things being equal, this candlestick has been extraordinarily bullish and that it suggests that a pullback opens up the possibility of a value trade, so on a short-term pullback, I think there will be plenty of buyers that will come into the picture. </p>
+	    <p>The 200-Week EMA sits right around the 1.28 level, as the area should be very important. All things being equal, if we break above the top of the candlestick for the week, then it’s possible to go to the 1.3250 level, and then possibly the 1.35 level after that.</p>	
+    	<p>The size of the candlestick was rather important, as it shows just how much momentum there is into the market, and therefore I think we’ve got a situation where eventually we will continue to go higher, but I’m looking for some type of value in order to take advantage of the momentum. That being said, if we were to turn on a break down below the bottom of the candlestick for the past week, the market then goes down to the 1.2650 level. </p>	
+    	<p>The 1.2650 level is an area where we break through, sellers will jump into the market and try to push the British pound down to the 50-Week EMA which is closer to the 1.2350 level. In general, I don’t see that happening, but it is possibly a situation we could find ourselves and if the Federal Reserve shocks the market or convinces the market that it is going to keep monetary policy type.</p>
+    </div>
+  },
+  {
+    id: 577,
+    title: 'GBP/JPY Weekly Forecast – British Pound Bounces From Crucial ¥180 Level',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has fallen pretty significantly during the course of the trading week to reach the ¥180 level, which of course is a large, round, psychologically significant figure.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 7:56 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689513469/ncx-blog-893_edwyqo.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The British pound has fallen pretty significantly during the course of the trading week to reach the ¥180 level, which of course is a large, round, psychologically significant figure.</p>
+    	<p>By bouncing the way we have, it suggests that the market is probably going to go back and forth, trying to work off some of the excess froth that we have seen. After all, the market has been straight up in the air for a while, and therefore I believe that the market will continue to see a lot of hesitation, but the ¥184 level above is the beginning of a major barrier.</p>	
+    	<p>I don’t think that we can just slice through there, but it is something that you need to keep in the back of your mind. All things being equal, I think this is a market that is chasing interest rate differentials, as the Bank of England continues to be much tighter with its monetary policy than the Bank of Japan.</p>	
+    	<p>If we were to break down below the bottom of the candlestick for the trading week, then it opens up a correction down to the ¥177.50 level, and then eventually the ¥175 level after that. I do believe that there will be buyers on some type of dip, because we have seen so much in the way of upward momentum, and typically these types of moves offer a sign of strength that will continue.</p>
+      <p>Furthermore, even though the Bank of Japan has suggested that they may “tweak” yield curve control, they are nowhere near getting as tight as the British, and therefore the interest-rate differential will continue to offer a positive swap. I am a buyer.</p>
+    </div>
+  },
+  {
     id: 576,
     title: 'GBP/USD Forecast – British Pound Continues to Power Through Resistance',
     category: 'Forex',
