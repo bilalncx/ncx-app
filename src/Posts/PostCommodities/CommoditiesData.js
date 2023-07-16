@@ -1,5 +1,107 @@
 const data = [
   {
+    id: 577,
+    title: 'India JSW Steel considering bid for stake in Teck coal unit - Bloomberg News',
+    category: 'Commodities',
+    subCategory: ['India', 'JSW', 'Coal'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -India's steel producer JSW Steel is considering a bid for a stake of up to 20% in Canada's Teck Resources steelmaking coal business, Bloomberg News</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 - 9:52 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689510425/ncx-blog-887_mpwo8n.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) -India's steel producer JSW Steel is considering a bid for a stake of up to 20% in Canada's Teck Resources steelmaking coal business, Bloomberg News reported on Saturday, citing people with knowledge of the matter.</p>
+    	<p>The Indian steelmaker is in discussions with banks over potential financing for the acquisition, which may total about $2 billion, the report said, adding that the discussions are at early stage and details such as price and timing could change.</p>	
+    	<p>Teck Resources declined to comment, while JSW Steel did not immediately respond to a request for comment.</p>	
+    	<p>Previously, Japanese steel maker Nippon Steel and Swiss trading and mining firm Glencore had also shown interest in the Canadian miner's coal unit. Nippon was interested in buying a stake and Glencore offered to buy the business as a standalone unit.</p>
+      <p>Teck last month confirmed that it was engaging with Glencore on its coal proposal, in which Glencore had offered to demerge the coal units of both companies. Glencore mines and trades thermal coal, the fossil fuel used to produce electricity, as well as smaller amounts of coking coal to make steel.</p>
+      <p>Teck, before confirming the Glencore proposal, had said it received several proposals for its coal business, as it reworks a plan to split it from its copper and zinc unit. The plan failed to secure enough shareholder support in late April.</p>
+      <p>Reuters reported in May that Canadian mining entrepreneur Pierre Lassonde was forming a consortium to buy a stake in Teck's coal business.</p>
+      <p>(Reporting by Baranjot Kaur in BengaluruEditing by Matthew Lewis)</p>
+    </div>
+  },
+  {
+    id: 576,
+    title: 'China clean energy demands fuel Zimbabwe charge up the mining value chain',
+    category: 'Commodities',
+    subCategory: ['China', 'Zimbabwe', 'Energy'],
+    description: <div className="blog-desc">
+      <p>As nations seek to cut their carbon footprints, demand has surged for clean energy, fuelling the global competition to secure critical minerals for climate-friendly power</p>
+    </div>,
+    authorName: 'South China Morning Post',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 - 1:30 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689510919/ncx-blog-889_h5ylwi.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>As nations seek to cut their carbon footprints, demand has surged for clean energy, fuelling the global competition to secure critical minerals for climate-friendly power sources like batteries. China has been laser-focused on the task.</p>
+    	<p>After spending more than US$1 billion to acquire mining sites in Zimbabwe over the past two years, several Chinese-owned companies have now completed construction or upgrades of lithium processing plants. Observers said the new plants would help the country move up the mining value chain by processing - as well as mining - the metal while employing thousands of workers.</p>
+      <p>Shanghai Stock Exchange-listed Zhejiang Huayou Cobalt, China's Sinomine Resource Group, and Shenzhen-listed lithium materials producer Chengxin Lithium Group are three Chinese mining companies that have recently commissioned processing plants in Zimbabwe, which holds one of the world's largest hard-rock lithium reserves.</p>
+      <p>Do you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge, our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.</p>
+      <p>Lithium - known as "white gold" - is an essential raw material for the lithium-ion rechargeable batteries that power electric vehicles and in solar panels that store solar energy.</p>
+      <p>Last week, Prospect Lithium Zimbabwe, a unit of the Chinese mining giant Zhejiang Huayou Cobalt, formally commissioned a US$300 million lithium processing plant at the Arcadia hard-rock lithium mine.</p>
+      <p>Located in the town of Goromonzi, 80km (49 miles) southeast of Harare, the facility has a processing capacity of 4.5 million tonnes of hard-rock lithium, which translates into around 400,000 tonnes of concentrate per year for export.</p>
+      <p>While commissioning the processing facility last week, Zimbabwean President Emmerson Mnangagwa said the plant would boost the government's ambitious target of generating US$12 billion in revenue from the mining sector by the end of this year, up from about US$5.6 billion of mineral exports in 2022. Lithium mining was expected to generate about US$500 million.</p>
+      <p>"Investment will promote the value addition of lithium ore. Lithium is the mineral of the present and future. Its beneficiation [for smelting] will position our country to be a competitive player in lithium production," said Mnangagwa, who was elected president in 2018 after a military coup and is seeking a second term in office. Mnangagwa said he appreciated the investment and support from China, and was looking forward to more.</p>	
+      <p>Chinese ambassador to Zimbabwe Zhou Ding said mining cooperation between the two countries had good momentum and broad prospects. "Chinese mining companies have made better use of Zimbabwe's mineral resources, making Zimbabwe an important link in the international new energy industry chain," Zhou said at the Arcadia launch.</p>
+      <p>Huayou Cobalt bought the Arcadia operation from Australian-listed Prospect Resources and Zimbabwean minority stakes in 2021 for US$422 million. It invested US$300 million to develop the mine to expand production for the electric vehicle (EV) market. It is currently producing the lithium concentrates spodumene and petalite for export to China for further processing into lithium chemicals for making batteries.</p>
+      <p>Last year, Zimbabwe banned exports of raw lithium ore, forcing companies to set up local factories to process ore into concentrates before export.</p>
+      <p>The recent global rush to lithium has improved Zimbabwe's economic fortunes, with several Chinese companies making multimillion-dollar acquisitions to secure lithium supplies.</p>
+      <p>Zimbabwe is believed to hold Africa's largest lithium reserves, the fifth largest in the world. The resource had remained largely untapped, however, because of a lack of investment in the country, which two decades ago was slapped with Western sanctions over human rights violations and the seizure of land from white farmers.</p>
+      <p>Meanwhile, another firm, China's Sinomine Resource Group's Zimbabwe lithium unit, has just completed building a spodumene concentrate plant at its Bikita minerals site, with a total price tag of US$300 million for expansion and exploration.</p>
+      <p>Last year, Sinomine bought Bikita, the country's oldest lithium mines, for US$180 million with the aim of producing spodumene concentrate and petalite, which is used in the ceramics and glass industries.</p>
+      <p>The plant will produce 300,000 tonnes of chemical grade spodumene concentrate annually for export once the Bikita project reaches its full production capacity.</p>
+      <p>Sinomine expects to upgrade petalite production to 480,000 tonnes per year from the previous annual rate of 50,000 tonnes.</p>
+      <p>In May, another Chinese company, Chengxin Lithium Group, commissioned a 300,000 tonne per year lithium concentrator at the Sabi Star mine in eastern Zimbabwe.</p>
+      <p>Chris Berry, president of ­commodities advisory firm House Mountain Partners in New York, said for the energy transition to continue and lithium supplies to begin to approach demand in the coming years, Africa would need to become a more significant source of lithium.</p>
+      <p>"The Chinese have realised this and that's why projects in Zimbabwe and Mali are moving forward," Berry said. Ghana could join the ranks of lithium-producing countries in the next few years as well, he added.</p>
+      <p>"Lithium is not rare [in Africa or elsewhere], but producing commercial quantities of battery grade material is the challenge. As Chinese capital has a tougher time finding a home in Western projects, it would seem that African lithium projects are a natural fit."</p>
+      <p>Adam Megginson, a price analyst at Benchmark Mineral Intelligence, said there were only a handful of lithium mines operating in Zimbabwe, but announcements of new projects and project expansions continued, especially from Chinese miners, lithium converters and conglomerates.</p>
+      <p>"Overall we forecast Zimbabwe's mined supply to increase 250 per cent from limited current volumes to 2025 as more capacity comes online from the country," Megginson said.</p>
+      <p>But even if it meets those projections, he said Zimbabwe would only account for less than 3 per cent of global mined supply by then.</p>
+    	<p>Megginson said Zimbabwe's ban on unrefined lithium exports had encouraged a build in the concentration capacity of spodumene and petalite ore before export, but it had yet to spur the construction of refining capacity for carbonate and hydroxide, which are refined lithium chemicals required to make lithium-ion batteries.</p>	
+    	<p>"We don't expect Zimbabwe to have any lithium [refining] chemicals capacity by 2025. So it will continue to rely on other countries, primarily China, to process material into battery grade carbonate and hydroxide required for use in batteries," Megginson said.</p>
+      <p>This article originally appeared in the South China Morning Post (SCMP), the most authoritative voice reporting on China and Asia for more than a century. For more SCMP stories, please explore the SCMP app or visit the SCMP's Facebook and Twitter pages. Copyright © 2023 South China Morning Post Publishers Ltd. All rights reserved.</p>
+    </div>
+  },
+  {
+    id: 575,
+    title: 'Energy sector left behind as Wall Street exits bear market',
+    category: 'Commodities',
+    subCategory: ['Energy', 'Wall street', 'market'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (AP) — Falling crude oil prices and lingering worries about the global economy have been sapping power from energy stocks throughout 2023.</p>
+    </div>,
+    authorName: 'DAMIAN J. TROISE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 8:10 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689510638/ncx-blog-888_dboyll.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>NEW YORK (AP) — Falling crude oil prices and lingering worries about the global economy have been sapping power from energy stocks throughout 2023.</p>
+    	<p>The sector, which includes oil and oilfield exploration companies, is coming off of two years or rising oil prices and inflation.</p>	
+    	<p>Now the S&P 500 has broken free from the bear market, but the energy sector is among the biggest laggards with a 7.4% dip.</p>	
+    	<p>“Given that energy is one of the most cyclical sectors in the market, ongoing fears of a slowdown both here and abroad are likely weighing on the price of oil and energy stocks,” said Liz Young, head of investment strategy at SoFi, in a note to investors.</p>
+      <p>Exxon Mobil is down 5% and oilfield services company Halliburton is down 8.4% this year. Falling crude oil and natural gas prices have been among the biggest drags on the sector.</p>
+      <p>Oil prices have fallen 8% in the U.S. and natural gas prices slumped 36%. Prices have been falling as economic growth slows and that could remain the trend this year. The U.S. Energy Information Administration expects weaker energy consumption in 2023 and 2024.</p>
+      <p>That could mean energy companies will continue to struggle with earnings over the next few quarters. Analysts polled by FactSet expect profits to slip by nearly 50% for the sector in the second quarter, followed by a 34% drop in the third quarter and a 27% drop in the fourth quarter.</p>
+      <p>It marks a reversal from 2022, when some of the biggest names in the sector notched record profits amid rising oil and natural gas prices. Exxon Mobil reported $55 billion in profit in 2022, more than double what it earned in 2021. The company recently warned investors that lower gas prices and weaker demand could pinch margins and profits by billions of dollars. Shell has also warned Wall Street about weakened profits during the most recent quarter.</p>
+      <p>Energy companies are expected to notch the biggest profit declines within the S&P 500. The broader S&P 500 is expected to pull out of its profit slump in the latter half of the year.</p>
+      <p>The weak energy market has been bad for investors, but good for consumers, so far. Lower crude oil prices have eased pressure on inflation, which has been cooling for months. Gasoline costs, normally an unavoidable expense for most people, have fallen about 25% from a year ago, according to AAA.</p>
+      <p>The impact from lower gasoline prices goes beyond simply relieving pressure on inflation and could be a bulwark against a recession and benefit economic growth.</p>
+      <p>“In a time when we worry about the ability of consumer spending to drive growth, the less consumers have to spend on energy, the more they can spend on other things,” Young said.</p>
+    </div>
+  },
+  {
     id: 574,
     title: 'Oil Heads for Third Weekly Gain as Africa, Russia Crimp Supply',
     category: 'Commodities',

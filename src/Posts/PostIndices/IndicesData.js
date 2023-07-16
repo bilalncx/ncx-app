@@ -1,5 +1,157 @@
 const data = [
   {
+    id: 565,
+    title: 'S&P 500 Giant, Roger Federer Play Lead 5 Stocks Near Buy Points',
+    category: 'Indices',
+    subCategory: ['S&P', '500', 'Roger federer'],
+    description: <div className="blog-desc">
+      <p>S&P 500 stocks Advanced Micro Devices and Arista Networks along with Roger Federer-backed On Holding, Cloudflare and Shift4 Payments are in focus this week. With the market in a confirmed uptrend and S&P 500 hitting a fresh 14-month high,</p>
+    </div>,
+    authorName: 'KIT NORTON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 - 4:00 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689511498/ncx-blog-890_ga5tbw.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>S&P 500 stocks Advanced Micro Devices and Arista Networks along with Roger Federer-backed On Holding, Cloudflare and Shift4 Payments are in focus this week. With the market in a confirmed uptrend and S&P 500 hitting a fresh 14-month high, this past week was a good time for investors to add exposure. Out of these five, ONON stock is on IBD Leaderboard.</p>
+	    <p>However, with the Nasdaq looking extended, the risk of another market pullback has returned. Several of the stocks on this list fell back Friday as major indexes pared gains.</p>	
+	    <p>Meanwhile, the market is sure to get shaken up this coming week as earnings season picks up steam, with Tesla (TSLA) and Netflix (NFLX) on tap.</p>	
+	    <p>Against this backdrop, investors should keep tabs on these five stocks that are trading around buy points. Out of these five, ONON stock is on IBD Leaderboard. On Holding and ANET are on SwingTrader and the IBD 50. Cloudflare was Friday's IBD Stock Of The Day.</p>
+      <h3>S&P 500 Stocks: Advanced Micro Devices Stock</h3>
+      <p>AMD rose as high as 122.12 during Friday's market trade, bouncing from its 21-day and 10-week lines, clearing steep trendline and the July 5 high of 117.66. But shares essentially erased gains, closing up 2 cents to 115.94. For the week, AMD stock did rise 2.45%, in the middle of its range.</p>
+	    <p>Investors could still use 117.66 as a buy point, but Friday's high may ultimately be the better bet.</p>	
+	    <p>The S&P 500 chip giant is competing with Nvidia (NVDA) as the AI chip leader. Nvidia stock and AMD have tended to trade off chip leadership in recent years, and that could happen again. However, currently Nvidia is the leader with AMD lagging somewhat.</p>	
+	    <p>Last month, the chipmaker unveiled its latest semiconductor and data center products optimized for artificial intelligence. AMD's AI moves are positioning the chipmaker to take advantage of what will be a $150 billion total addressable market opportunity in the data center market by 2027.</p>
+      <p>The market will be about $30 billion in 2023, according to the company.</p>
+	    <p>On Wednesday, TD Cowen analyst Matthew Ramsay raised the firm's AMD price target on 135 from 115. Ramsay kept an outperform rating on the S&P 500 component. Ramsay wrote he believes investors are prepared for mixed Q2 and Q3 reports as the macro economic environment remains challenging.</p>	
+	    <p>Advanced Micro Devices stock has a 92 Composite Rating out of 99. The S&P 500 stock has a 95 Relative Strength Rating. The EPS Rating is for the stock 72 out of 99.</p>	
+	    <h3>Cloudflare Stock</h3>
+      <p>NET fell 1.6% to 66.54 on Friday, reversing lower near a buy point. Cloudflare has formed a flat base with a 72 buy point, according to MarketSmith analysis. The current flat base is directly next to the stock's previous valid base.</p>
+      <p>NET stock briefly cleared a trendline and moved above Wednesday's high of 69.61 intraday.</p>
+	    <p>Started in 2009, San Francisco-based Cloudflare speeds up and provides security for web applications routed through its global network.</p>	
+	    <p>The cybersecurity play took a hit Wednesday as Microsoft (MSFT) expanded its product offerings, putting pressure on Cloudflare and other cybersecurity stocks. Cloudflare stock was Friday's IBD Stock Of The Day.</p>	
+	    <p>But for the week, NET stock jumped 6.7%, rebounding from the 10-week line.</p>
+      <p>On April 28, Cloudflare plunged 21% after the company reported first-quarter earnings that topped estimates while revenue roughly met expectations. But the company also gave a weak June-quarter and full-year 2023 revenue outlook. Shares have been on the rebound since early May.</p>
+	    <p>Cloudflare reported earning 8 cents a share in Q1, up from a 1-cent profit a year earlier. Revenue climbed 37% to $290.2 million.</p>	
+	    <p>NET has a perfect 99 Composite Rating. Cloudflare stock has a 89 Relative Strength Rating. The EPS Rating for NET is 80 out of 99.</p>	
+	    <h3>Shift4 Payments Stock</h3>
+      <p>FOUR fell 3.2% to 67.13 on Friday, back below a key resistance level around 69. Shares rose in higher volume in the prior two sessions, closing above the 69 area on Thursday, but FOUR stock ended on both days. On a positive note, Friday's slide came on light trade, while FOUR stock bounced slightly from the 21-day line.</p>
+      <p>For the week, shares climbed 1.5%, but in the lower third of its range.</p>
+	    <p>At this point, investors may want to see if Shift4 Payments stock forms a handle based on Thursday's high of 71.03. The current official buy point is 86.40.</p>	
+	    <p>Shift4 Payments is an independent provider of payment acceptance and payment processing technology solutions in the U.S. It's payment processing includes credit, debit, contactless card, and QR pay among other alternative payment methods.</p>	
+	    <p>On Thursday, Goldman Sachs lowered its price target on Shift4 Payments sock to 88 from 90. Analyst Will Nance maintained a buy rating on the shares with expectations of a mixed outlook for consumer spending and payments companies for the remainder of the year.</p>
+	    <p>In May, the company reported better-than-expected Q1 financials. Shift4 Payments saw EPS skyrocket 240% to 51 cents. Revenue grew 34% to $200 million.</p>	
+	    <p>The stock has a 93 Composite Rating. FOUR has a 91 Relative Strength Rating. The EPS Rating for FOUR is 82.</p>	
+      <h3>On Holding Stock</h3>
+      <p>ONON slipped 1.2% to 33.14 Friday, just below a valid buy point. But shares jumped 5.4% for the week.</p>
+      <p>On Thursday, ONON advanced above a trendline entry but failed to close above a 33.67 cup-with-handle buy point, according to MarketSmith.</p>
+	    <p>ONON stock has regained its footing after selling off amid concern about excess inventory following its May 16 first-quarter earnings report.</p>	
+	    <p>On Wednesday, Piper Sandler analyst Abbie Zvejnieks touted ONON stock as a "top growth idea" and bumped up the firm's price target to 39, from 38.</p>	
+	    <p>The Swiss athletic footwear and apparel maker, behind the popular On running shoe brand, went public at 24 per share in September 2021 and is backed by tennis champion Roger Federer.</p>
+      <p>The company outpaced Q1 estimates in May. Profits tripled to 0.15 per share CHF (Swiss francs) adjusted on a 78.3% revenue increase to 420.2 million CHF. In U.S. dollars, earnings spiked to 17 cents on $470.6 million in sales.</p>
+	    <p>The company raised its net sales outlook to at least 1.74 billion CHF, up slightly from its March forecast of 1.7 billion CHF. In dollars, the performance shoe maker expects sales of $1.95 billion, up from $1.36 billion last year.</p>	
+	    <p>ONON was IBD Stock Of The Day on Thursday. On Holding stock has a 98 Composite Rating. ONON has a 95 Relative Strength Rating and a 80 EPS Rating.</p>
+      <h3>S&P 500 Stocks: Arista Networks Stock</h3>	
+	    <p>ANET fell 1.8% to 165.58 Friday, holding above two possible early entries. Investors could also wait to see if ANET forges a handle in the coming days.</p>
+      <p>The S&P 500 component is in consolidation is about 7% below an official 178.36 buy point, according to MarketSmith.</p>
+      <p>ANET stock rallied from the 21-day/10-week lines this week, breaking a trendline in a consolidation. On Thursday, shares cleared a short-term high of 164.20.</p>
+      <p>Volume was below average on Wednesday-Thursday but picking up from prior days. Trading was lighter on Friday.</p>
+      <p>ANET stock climbed 4.8% for the week, closing relatively high in the range.</p>
+      <p>The base had ugly action in June, but has improved.</p>
+      <p>The computer networker has been consolidating after selling off on its first-quarter earnings report and outlook.</p>
+      <p>The S&P 500 component sells computer network switches that speed up communications among racks of computer servers packed into "hyperscale" data centers. These internet data centers are designed to ratchet up computing horsepower when demand surges.</p>
+      <p>In 2022, Facebook-parent Meta Platforms (META) accounted for 26% of Arista revenue. ANET captured 16% of its sales from Microsoft (MSFT).</p>
+      <p>The S&P 500 stock has a 97 Composite Rating. ANET has a 91 Relative Strength Rating. The EPS Rating for the S&P 500 stock is 98.</p>
+    </div>
+  },
+  {
+    id: 564,
+    title: 'Dow gains after bank earnings as stocks finish winning week: Stock market news today',
+    category: 'Indices',
+    subCategory: ['Dow', 'Bank', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>Stocks finished mixed on Friday but ended the week up as upbeat results from JPMorgan (JPM) and Wells Fargo (WFC) lifted those big banks' stocks and new survey data</p>
+    </div>,
+    authorName: 'Karen Friar and Josh Schafer',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 - 12:05 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689512166/ncx-blog-891_qlf5am.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stocks finished mixed on Friday but ended the week up as upbeat results from JPMorgan (JPM) and Wells Fargo (WFC) lifted those big banks' stocks and new survey data showed Americans are becoming increasingly confident in the economy.</p>
+    	<p>Banks helped lift the Dow Jones Industrial Average (^DJI), which added about 0.3% as quarterly earnings from Wall Street names started rolling in. The S&P 500 (^GSPC) and Nasdaq (^IXIC) both finished slightly below the flatline. All of the major averages finished</p>	
+    	<p>Investors were weighing quarterly updates from the financial sector, with the focus on any signs of impact from this spring's bank failures and the subsequent draining of deposits across the system.</p>	
+    	<p>JPMorgan and Wells Fargo shares were on the rise after they both reported a surge in profits in the second quarter. Meanwhile, BlackRock (BLK) stock slipped after its revenue fell year over year.</p>
+      <p>All the major benchmarks look on track for weekly wins after signs that inflation is cooling and that the labor market is robust have lifted hopes that a strong economy can give stocks momentum to run higher after a stellar start to the year.</p>
+      <h3>Stocks close mixed, Dow leads on bank earnings</h3>
+      <p>After initially rallying to start the day, stocks closed mixed on Friday as strong bank results carried the Dow (^DJI) higher while the S&P 500 (^GSPC) and Nasdaq (^IXIC) closed in the red by about 0.1% each.</p>
+      <p>For the week, though, all three of the major averages closed higher as companies largely welcomed in earnings season with better-than-expected results and economic data showed consumers feeling more confident about easing inflation.</p>
+      <h3>Hollywood double strike is yet another headwind for media companies</h3>
+      <p>The actors strike is the latest challenge to hit media companies grappling with a consumer shift to streaming services.</p>
+      <p>As Yahoo Finance's Alexandra Canal reports, Hollywood's double strike will likely pressure major media companies as the production pipeline grinds to a complete halt. SAG-AFTRA — the union that represents approximately 160,000 actors, announcers, recording artists, and other media professionals around the world — joined writers on the picket lines early Friday after the guild failed to negotiate a deal with the Alliance of Motion Picture and Television Producers (AMPTP), which bargains on behalf of studios including Disney (DIS), Netflix (NLFX), Amazon (AMZN), Apple (AAPL), and NBCUniversal (CMCSA).</p>
+      <p>"We’ve been hearing that most streaming companies won’t feel the pain from strikes until 2024 given the pipeline of content that has already been locked in," said Third Bridge analyst Jamie Lumley.</p>
+      <p>"However, streamers could be in trouble as soon as the velocity of content slows," he warned. "Our experts emphasize that content is still king and if streamers want subscribers to keep coming back, they need to have a steady feed of new movies and shows being released on their platforms."</p>
+      <h3>Disney CEO Bob Iger suggests selling TV assets — but who will buy?</h3>
+      <p>Disney CEO Bob Iger (DIS) said Thursday he would take an "expansive" look at the entertainment giant's traditional TV assets, signaling the potential for strategic options that could include a sale.</p>
+      <p>The problem? Analysts have questioned who a potential buyer would be given the secular declines in linear television networks amid escalating cord-cutting trends.</p>
+      <p>"Every media company is facing cord-cutting, shifts of television advertising to connected TVs and other platforms," Rich Greenfield, media and technology analyst at LightShed Partners, told Yahoo Finance Live. "The linear TV business is just under a lot of pressure, and investors are already asking me, 'Well, who are they selling it to?' 'Who wants to buy a linear TV business?'"</p>
+      <p>Iger, who made the comments in a lengthy interview with CNBC on Thursday morning, a day after the company announced it will be extending his contract through 2026, admitted the current distribution model is "definitely broken."</p>
+      <p>He explained Disney's linear TV assets, which include broadcast network ABC and cable channels FX, Freeform, and National Geographic, "may not be core" to its strategy any longer.</p>
+      <p>"That's what's really challenging," Greenfield noted. "It's one thing to say you want to get rid of ABC or get rid of FX. But who exactly is the buyer of those businesses? I don't have a great answer for that."</p>
+      <p>Other industry watchers said a possible asset sale is likely necessary to protect the business' future — but only with the right buyer.</p>
+      <p>"We agree that asset sales are a good idea, but our best advice would be to sell all (or all the content assets) of DIS to AAPL, AMZN, or another company that never needs to make money from creating content," Needham analyst Laura Martin wrote in a note to clients on Friday morning. "If they don't sell, DIS will be competing against those companies in an industry with deteriorating economics (because they never need to make money from content), we believe."</p>
+      <p>Disney shares are down about 2% on the year and have fallen nearly 5% compared to this point last year.</p>
+      <h3>The 'everything rally' seems to be back</h3>
+      <p>Canvassing the week's tape, the top three US large-cap sectors are once again favoring the megacaps. Communication Services (XLC), Consumer Discretionary (XLY), and Tech (XLK) are each up more than 3% — reminiscent of the returns earlier this year from January to May.</p>
+      <p>Economic data is surprising to the upside over the last two months, showing falling inflation, an economy that's still growing (though slowly), and a surprisingly optimistic consumer.</p>
+      <p>Rates are dropping, as the 10-year (^TNX) has once again firmly rejected the ~4% level and is down the most in four weeks (23 bps). You can add a plunging dollar (DX-Y.NYB) to those tailwinds. The dropping Dixie is buoying commodities, emerging markets — and even crypto, as bitcoin (BTC-USD) attempts to launch higher from the big $30k level.</p>
+      <p>It's a recipe for higher asset prices all around. Even Consumer Staples (XLP) is getting some love this week.</p>
+      <h3>Bank earnings tell two different stories</h3>
+      <p>Some bank stocks were mixed after reporting second quarter earnings before the bell Friday. Around 12:30 on Friday, JPMorgan Chase (JPM), and Wells Fargo (WFC) were up marginally while shares of Citigroup (C) fell more than 3%.</p>
+      <p>Profits for JPMorgan Chase and Wells Fargo surged in the second quarter while falling sharply at Citigroup, demonstrating a divide in how the banking world is faring as it recovers from a period of extreme turmoil.</p>
+      <p>JPMorgan and Wells Fargo showed that some giants can continue to make lots of money from consumer loans even as industry deposit costs rise, while leaning on their sprawling franchises to generate additional revenue. What Citigroup revealed is that a number of problems continue to plague even the biggest institutions, especially those that rely heavily on dealmaking and trading.</p>
+      <p>Citigroup's profit tumbled 36% in the second quarter, largely because of weaknesses in its Wall Street unit. Other banks reporting next week, such as Goldman Sachs (GS) and Morgan Stanley (MS), could run into similar challenges.</p>
+      <p>"The long-awaited rebound in investment banking has yet to materialize, making for a disappointing quarter," said Citigroup CEO Jane Fraser.</p>
+      <h3>Stocks higher in afternoon trading</h3>
+      <p>Stocks fell from their morning session highs but maintained gains just after noon on Friday as investors digested second quarter earnings from some of the nation's largest banks and a surprisingly upbeat reading of consumer sentiment.</p>
+      <p>The Dow Jones Industrial Average (^DJI) led gains, rising 0.4%, or more than 100 points. The S&P 500 (^GSPC) ticked 0.15% higher, while Nasdaq (^IXIC) rose about 0.3%.</p>
+      <h3>Clear skies ahead for Microsoft, according to UBS</h3>
+      <p>Microsoft's cloud declines may be a thing of the past, UBS argued in a new note on Monday.</p>
+      <p>UBS upgraded the stock to Buy from Neutral and boosted its price target to $400 from $345, saying new bookings discussions around cloud are "slowly recovering."</p>
+      <p>"We downgraded Microsoft shares to start the year on a view that spending trends on Azure/AWS were deteriorating and that a faster-than-expected Azure deceleration would hold back the stock (it obviously didn’t)," UBS analyst Karl Keirstead wrote. "Our latest round of checks...suggest the backdrop remains tough but is no longer deteriorating - the worst may be behind us."</p>
+      <p>A bottom in slowing cloud demand would be a welcome sign for Microsoft investors. In April, the tech giant reported Azure and other cloud services revenue growth of 27% year-over-year for the quarter. That number has declined every quarter since at least Q3 2022, as companies trim their capital expenses amid rising interest rates.</p>
+      <p>UBS also commented that AI enthusiasm makes it "increasingly tough to be on the sidelines," ahead of earnings later this month. Shares of Microsoft were up nearly 2% on Friday.</p>
+      <h3>AT&T stock hits 20-year low on JPM downgrade</h3>
+      <p>AT&T (T) stock fell as much as 5% on Friday following a downgrade from analysts at JPMorgan.</p>
+      <p>At session lows, shares of AT&T were trading a 20-year low.</p>
+      <p>In their note, JPM analysts cited a view the company is facing "marginally more pressure" in its mobility and wireline segments. JPMorgan cut its price target on the stock to $17 from $22.</p>
+      <p>The firm also flagged potential liabilities from recent reports suggesting telecom giants like AT&T and Verizon laid a huge network of lead-covered cables across the country as a risk for the stock.</p>
+      <p>"We have discussed the copper lead sheathing situation with many industry contacts and have been unable to find a reasonable way to calculate any potential liability, but believe that AT&T will have the largest exposure given its massive LEC business (~40% of homes in the US) as well as owning the original AT&T long haul network," the firm wrote. "We see the potential liability as an unquantifiable, long- term overhang for the stock, which adds to the risk premium and drives much of our PT reduction."</p>
+      <h3>Consumer sentiment hits highest level since Sept. 2021</h3>
+      <p>US consumers haven't felt this good about the economy in almost two years, according to the University of Michigan's latest reading on consumer sentiment.</p>
+      <p>The UMich consumer sentiment index for July came in at a reading of 72.6, up from 64.4 last month and 51.5 in July 2022. This marks the highest reading for the index since September 2021.</p>
+      <p>In a statement, Joanne Hsu, director of the survey of consumers for the University of Michigan, said, "The sharp rise in sentiment was largely attributable to the continued slowdown in inflation along with stability in labor markets...sentiment is now about halfway between the all-time historic low of 50 from June 2022 and the February 2020 pre-pandemic reading of 101."</p>
+      <p>Notably, however, Friday's reading showed a slight uptick in consumer inflation expectations, a number that has been closely watched by Federal Reserve officials. Consumers now expect prices to rise 3.4% over the next year, up from 3.1% last month. Over the next 5-10 years, prices are expected to rise 3.1%, up from 3% in June's reading.</p>
+      <p>On Wednesday, the latest inflation reading showed consumer prices rose 3% on a headline basis in June, the least since March 2021. On a "core" basis, which strips out food and energy, prices rose 4.8% over the prior year.</p>
+      <h3>JPMorgan profits surge in second quarter</h3>
+      <p>JPMorgan (JPM) stock popped nearly 3% in early trading on Monday after the company reported second quarter earnings highlighted by 67% growth in profits compared to the year prior.</p>
+      <p>The largest US bank reported earnings of $14.5 billion while revenue of $41 billion was up 34%.</p>
+      <p>"The US economy continues to be resilient," said JPMorgan CEO Jamie Dimon. "Consumer balance sheets remain healthy, and consumers are spending, albeit a little more slowly."</p>
+      <p>JPMorgan’s results demonstrated that it is still able to make lots of money from its loans while leaning on its sprawling franchises to generate additional revenue. Its net interest income, which measures the difference between what it charges to make loans and pays for deposits, rose 44% from a year ago to $21.9 billion.</p>
+      <h3>Big banks send Dow higher at open</h3>
+      <p>Stocks opened in the green on Friday, extending a week-long rally as results from JPMorgan (JPM) and Wells Fargo (WFC) showed strength in the US financial system.</p>
+      <p>The Dow Jones Industrial Average (^DJI) led gains, rising 0.45%, or about 150 points. The S&P 500 (^GSPC) and Nasdaq (^IXIC) both popped about 0.25%.</p>
+      <h3>Dow futures surge after JPM, Wells Fargo earnings beat</h3>
+      <p>The rising Dow was a standout before the bell Friday, getting a lift from gains for JPMorgan and Wells Fargo, while the other major gauges were little changed.</p>
+      <p>Futures on the Dow Jones Industrial Average (^DJI) rose 0.45%, or about 150 points. S&P 500 futures (^GSPC) were broadly flat, up just 0.08%, and contracts on the tech-heavy Nasdaq 100 fell 0.07%.</p>
+      <p>JPMorgan (JPM) shares added 3% in premarket trading after the largest US bank reported Q2 earnings up 67% from a year ago, putting distance between itself and rivals. Wells Fargo's (WFC) stock also put on 3% after its earnings beat.</p>
+    </div>
+  },
+  {
     id: 563,
     title: 'Dow Jones Gains Amid Disney TV Shock; This Cathie Wood Stock Hits Buy Zone As She Loads Up',
     category: 'Indices',
