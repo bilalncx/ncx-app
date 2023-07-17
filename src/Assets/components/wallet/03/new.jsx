@@ -4,22 +4,32 @@ import {ReactComponent as Walletbadge} from '../../../images/wallet_badge.svg';
 import {ReactComponent as CTrader2} from '../../../images/ctrader_logoB.svg';
 import {ReactComponent as NCXBadge1} from '../../../images/ncx-badge.svg';
 import {ReactComponent as NCXBadge2} from '../../../images/ncx-badge2.svg';
+import SImport from '../../../images/s-import.mp4';
+import SNFTS from '../../../images/s-nfts.mp4';
+import SReceive from '../../../images/s-receive.mp4';
+import SStore from '../../../images/s-store.mp4'; 
+import SSwap from '../../../images/s-swap.mp4';
+import SBrowser from '../../../images/s-browser.mp4';
+import { useTranslation } from "react-i18next";
 
 function Indices5()
 {
+    const { t } = useTranslation();
     return(
         <div id="Wallet_Main" className="trading__platform">
             <div className="container">
-                <h1 className="fg__rer">NCX Multi Chain DeFi Wallet</h1>
+                <h1 className="fg__rer">{t("ncx_multi_chain_defi_wallet")}</h1>
                 <div className="plat__ggre row one">
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>Store</h2>
+                            <h2>{t("store")}</h2>
                             <Walletbadge />
                         </div>
-                        <p>Gain full control over your crypto assets and private keys. Easily manage tokens across 12+ Blockchains.</p>
+                        <p>{t("store_text")}</p>
                         <p>Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom, Optimism, Arbitrum, Klaytn, Aurora, xDai, Harmony, Heco, OKEx Chain.</p>
                         <div className="tiy__bd">
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">{t("sign_up")}</Button>
+                            <Button href="#" className="sign__up">{t("claim_airdrop")}</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
                             <Button href="#" className="sign__up">Claim Airdrop</Button>
                         </div>
@@ -38,12 +48,14 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>Swap</h2>
+                            <h2>{t("swap")}</h2>
                             <Walletbadge />
                         </div>
-                        <p>Swap 500k+ Tokens across 10 Chains with NCX Cross-Chain Swap. Migrate assets between different chains.</p>
-                        <p><span>With built-in Cross-Chain</span><span>Swap get the best price on every swap.</span></p>
+                        <p>{t("swap_text_1")}</p>
+                        <p><span>{t("swap_text_2")}</span><span>{t("swap_text_3")}</span></p>
                         <div className="tiy__bd">
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">{t("sign_up")}</Button>
+                            <Button href="#" className="sign__up">{t("claim_airdrop")}</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="download">Sign Up</Button>
                             <Button href="#" className="sign__up">Claim Airdrop</Button>
                         </div>
@@ -64,12 +76,14 @@ function Indices5()
                 <div className="plat__ggre row two">
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>Send</h2>
+                            <h2>{t("send")}</h2>
                             <Walletbadge />
                         </div>
-                        <p>Send crypto at your preferred confirmation speed and network fee.</p>
-                        <p>Our Gas Meter gives you real-time updates on gas fees and transaction speeds.</p>
+                        <p>{t("send_text_1")}</p>
+                        <p>{t("send_text_2")}</p>
                         <div className="tiy__bd">
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
@@ -89,12 +103,14 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>Receive</h2>
+                            <h2>{t("receive")}</h2>
                             <Walletbadge />
                         </div>
-                        <p>Receiving crypto in your DeFi Wallet has never been easier. Select the Token on any of the 12 Networks and share the QR or copy the Wallet Address.</p>
-                        <p>Import custom Tokens easily with just 2 clicks.</p>
+                        <p>{t("receive_text_1")}</p>
+                        <p>{t("receive_text_2")}</p>
                         <div className="tiy__bd">
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
@@ -119,9 +135,11 @@ function Indices5()
                             <h2>NFT</h2>
                             <Walletbadge />
                         </div>
-                        <p>Store, Send, Import NFTs across various Blockchains Import directly into NCX Wallet.</p>
-                        <p>View your NFTs Collection and share with friends, all your favorite NFTs in one place.</p>
+                        <p>{t("nft_text_1")}</p>
+                        <p>{t("nft_text_2")}</p>
                         <div className="tiy__bd">
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
@@ -141,12 +159,14 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>Buy Crypto</h2>
+                            <h2>{t("buy_crypto")}</h2>
                             <Walletbadge />
                         </div>
-                        <p>Buy Crypto in just few clicks using Credit/Debit Card, Apple Pay, Google Pay and Wire Transfer.</p>
-                        <p>Choose from over 200 Cryptocurrencies and 95 Fiat Currencies, choose between 16 Payment Providers for the Best Rate and Payment Method.</p>
+                        <p>{t("buy_crypto_text_1")}</p>
+                        <p>{t("buy_crypto_text_2")}</p>
                         <div className="tiy__bd">
+                            <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" className="download">Download</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
@@ -168,12 +188,14 @@ function Indices5()
                 <div className="plat__ggre row four">
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>Browser</h2>
+                            <h2>{t("browser")}</h2>
                             <Walletbadge />
                         </div>
-                        <p>Explore the most popular dApps in browser without leaving NCX DeFi Wallet App.</p>
-                        <p>Seamlessly connect to swap, farm, and mine on the hottest DeFi protocols.</p>
+                        <p>{t("browser_text_1")}</p>
+                        <p>{t("browser_text_2")}</p>
                         <div className="tiy__bd">
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>
@@ -193,12 +215,14 @@ function Indices5()
                     </div>
                     <div className="col trg__ff__fe">
                         <div className="tra__go">
-                            <h2>Import Wallet</h2>
+                            <h2>{t("import_wallet")}</h2>
                             <Walletbadge />
                         </div>
-                        <p>Import your existing Wallet seamlessly with a 12/18/24-word recovery phrase.</p>
-                        <p>Import unlimited wallets into NCX DeFi Wallet, keep full custody of your assets with all added benefits of.</p>
+                        <p>{t("import_wallet_text_1")}</p>
+                        <p>{t("import_wallet_text_2")}</p>
                         <div className="tiy__bd">
+                            <Button href="#" className="download">{t("download")}</Button>
+                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             <Button href="#" className="download">Download</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">Sign Up</Button>
                         </div>

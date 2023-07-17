@@ -22,7 +22,7 @@ function Indices5()
                             <h2>{t("ncx_app")}</h2>
                             <NCXBadge1 />
                         </div>
-                        <p>Enhance your mobile trading experience with our advanced trading application. Access all the essential tools and features to trade seamlessly anytime, anywhere.</p>
+                        <p>{t("enhance_your_mobile_trading_experience_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
@@ -44,7 +44,7 @@ function Indices5()
                             <h2>{t("ncx_defi_wallet_app")}</h2>
                             <NCXBadge2 />
                         </div>
-                        <p>Take control of your Digital Assets by securely managing the private keys through our cutting-edge crypto wallet. Effortlessly Store, Swap, Send, and Receive Cryptocurrencies across 12 Networks.</p>
+                        <p>{t("take_control_of_your_diggital_assetby_securely_managing_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://ncx.cx/wallet" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
@@ -83,7 +83,7 @@ function Indices5()
                             <h2>{t("ncx_web")}</h2>
                             <NCXWeb />
                         </div>
-                        <p>Trade of over 200 cryptocurrency pairs using NCX's cutting-edge trading tools. Navigate the dynamic crypto market with precision and confidence with our state-of-the-art trading platform.</p>
+                        <p>{t("trade_of_over_200_cryptocurrency_pairs_using_ncx_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://trade.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
