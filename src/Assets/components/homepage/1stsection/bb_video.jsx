@@ -66,10 +66,8 @@ function NCXAPPSection()
             </div>
             <div className="bvc_mnb">
                 <div className="container">
-                    <h1>{t("ncx_hybrid_exchange")}</h1>
+                    <h1>NCX Hybrid Exchange</h1>
                     <div className="hyng">
-                        <Button href="https://my.ncx.cx/register/" target="__blank" rel="noreferrer" className="mki__lo">{t("sign_up")}</Button>
-                        <Button href="#features" className="bnb_mki">{t("view_features")}</Button>
                         <Button href="https://exchange.ncx.cx/register" target="__blank" rel="noreferrer" className="mki__lo">Sign Up</Button>
                         <Button href="#features" className="bnb_mki">View Features</Button>
                     </div>
@@ -88,8 +86,8 @@ function NCXAPPSection()
                     <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689345150/new-cardvideombl_1_m35ccz.mp4" type="video/mp4" />
                 </video>
                 <div className="gsfersdsd">
-                    <h1>{t("ncx_exchange")}</h1>
-                    <p>{t("首个一体化的混合CEX | DEX加密交易所")} <span>{t("交易平台和DeFi生态系统")}</span></p>
+                    <h1>NCX Exchange</h1>
+                    <p>First all-in-one Hybrid CEX | DEX Crypto Exchange, <span>Trading Platform & DeFi Ecosystem</span></p>
                     <div className="home__btnff">
                         <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
                         <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>

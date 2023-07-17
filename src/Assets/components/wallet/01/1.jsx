@@ -9,15 +9,13 @@ import Polygon from '../../../images/PolygonLogo.png';
 import Aurora from '../../../images/AuroraLogo.png';
 import Optimism from '../../../images/OptimismLogo.png';
 import './style.css';
-import { useTranslation } from "react-i18next";
 
 function Wallet1()
 {
-    const { t } = useTranslation();
     return(
         <div className="wallet-slider">
             <div className="container">
-                <h1>{t("available_on_12_networks")}</h1>
+                <h1>Available on 12+ Networks</h1>
                 <section class="slide-option">
                     <div id="infinite" class="highway-slider">
                         <div class="container highway-barrier">
@@ -258,7 +256,7 @@ function Wallet1()
                     </div>
                 </section>
 
-                <h3>{t("and_more_including_testnets")}</h3>
+                <h3>and more, including testnets</h3>
             </div>
         </div>
     )

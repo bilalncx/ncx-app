@@ -4,22 +4,20 @@ import Button from "@mui/material/Button";
 import {ReactComponent as WhiteTick} from '../../../images/tickvector.svg';
 import {ReactComponent as Blankvector} from '../../../images//dashvector.svg';
 import OldDEXTable from './cexdex';
-import { useTranslation } from "react-i18next";
 
 function NewFeatureSection()
 {
-    const { t } = useTranslation();
     const [toggle, setToggle] = useState(false);
 
     return(
         <div id="features" className="feature__dx">
             <div className="mki__bh">
-                <h1 className="feature__dd">{t("features")}</h1>
+                <h1 className="feature__dd">Features</h1>
                 <div className="feat__gg">
                     <div className="sticky_pos">
                         <div className="lkj head container">
                             <div className="uiop">
-                                <h3>{t("features")}</h3>
+                                <h3>Features</h3>
                             </div>
                             <div className="uiop clr">
                                 <h3>NCX</h3>
@@ -43,35 +41,35 @@ function NewFeatureSection()
                             <div id="ngbv" className="lkj head">
                                 <div className="uiop"></div>
                                 <div className="uiop clr">
-                                    <Button href="#" className="open_acnt">{t("open_an_account")}</Button>
+                                    <Button href="#" className="open_acnt">Open an Account</Button>
                                 </div>
                                 <div className="uiop">
                                     <div className="bynt">
                                         <p>$5bn </p>
-                                        <span>{t("daily_trading_volume")}</span>
+                                        <span>Daily Trading Volume</span>
                                     </div>
                                 </div>
                                 <div className="uiop">
                                     <div className="bynt">
                                         <p>$500m </p>
-                                        <span>{t("daily_trading_volume")}</span>
+                                        <span>Daily Trading Volume</span>
                                     </div>
                                 </div>
                                 <div className="uiop">
                                     <div className="bynt">
                                         <p>$200m </p>
-                                        <span>{t("daily_trading_volume")}</span>
+                                        <span>Daily Trading Volume</span>
                                     </div>
                                 </div>
                                 <div className="uiop">
                                     <div className="bynt">
                                         <p>$250m </p>
-                                        <span>{t("daily_trading_volume")}</span>
+                                        <span>Daily Trading Volume</span>
                                     </div>
                                 </div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("fees")}</p></div>
+                                <div className="uiop"><p className="nhgt">Fees</p></div>
                                 <div className="uiop clr"><p>0.12%</p></div>
                                 <div className="uiop"><p>0.10%</p></div>
                                 <div className="uiop"><p>0.30%</p></div>
@@ -79,7 +77,7 @@ function NewFeatureSection()
                                 <div className="uiop"><p>0.25%</p></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("margin_trading")}</p></div>
+                                <div className="uiop"><p className="nhgt">Margin Trading</p></div>
                                 <div className="uiop tick clr"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -87,28 +85,28 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("transaction_congestion")}</p></div>
-                                <div className="uiop clr"><p>{t("low")}</p></div>
-                                <div className="uiop"><p>{t("low")}</p></div>
-                                <div className="uiop"><p>{t("high")}</p></div>
-                                <div className="uiop"><p>{t("low")}</p></div>
-                                <div className="uiop"><p>{t("high")}</p></div>
+                                <div className="uiop"><p className="nhgt">Transaction Congestion</p></div>
+                                <div className="uiop clr"><p>Low</p></div>
+                                <div className="uiop"><p>Low</p></div>
+                                <div className="uiop"><p>High</p></div>
+                                <div className="uiop"><p>Low</p></div>
+                                <div className="uiop"><p>High</p></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("transaction_confirmation_latency")}</p></div>
-                                <div className="uiop clr"><p>{t("low")}</p></div>
-                                <div className="uiop"><p>{t("low")}</p></div>
-                                <div className="uiop"><p>{t("high")}</p></div>
-                                <div className="uiop"><p>{t("low")}</p></div>
-                                <div className="uiop"><p>{t("high")}</p></div>
+                                <div className="uiop"><p className="nhgt">Transaction Confirmation Latency</p></div>
+                                <div className="uiop clr"><p>Low</p></div>
+                                <div className="uiop"><p>Low</p></div>
+                                <div className="uiop"><p>High</p></div>
+                                <div className="uiop"><p>Low</p></div>
+                                <div className="uiop"><p>High</p></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("staking")}</p></div>
-                                <div className="uiop clr"><p>{t("decentalised")}</p></div>
-                                <div className="uiop"><p>{t("centalised")}</p></div>
-                                <div className="uiop"><p>{t("decentalised")}</p></div>
-                                <div className="uiop"><p>{t("centalised")}</p></div>
-                                <div className="uiop"><p>{t("decentalised")}</p></div>
+                                <div className="uiop"><p className="nhgt">Staking</p></div>
+                                <div className="uiop clr"><p>Decentalised</p></div>
+                                <div className="uiop"><p>Centalised</p></div>
+                                <div className="uiop"><p>Decentalised</p></div>
+                                <div className="uiop"><p>Centalised</p></div>
+                                <div className="uiop"><p>Decentalised</p></div>
                             </div>
                             <div className="lkj">
                                 <div className="uiop"><p className="nhgt">DEX</p></div>
@@ -119,7 +117,7 @@ function NewFeatureSection()
                                 <div className="uiop tick"><WhiteTick /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("cross_chain_swap")}</p></div>
+                                <div className="uiop"><p className="nhgt">Cross-Chain Swap</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -127,7 +125,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("supported_networks_on_dex")}</p></div>
+                                <div className="uiop"><p className="nhgt">Supported Networks on DEX</p></div>
                                 <div className="uiop clr"><p>10</p></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><p>5</p></div>
@@ -135,7 +133,7 @@ function NewFeatureSection()
                                 <div className="uiop"><p>1</p></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("crypto_debit_card")}</p></div>
+                                <div className="uiop"><p className="nhgt">Crypto Debit Card</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -143,7 +141,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("defi_wallet")}</p></div>
+                                <div className="uiop"><p className="nhgt">DeFi Wallet</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
@@ -151,7 +149,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("fiat_deposits_withdrawal")}</p></div>
+                                <div className="uiop"><p className="nhgt">Fiat Deposits / Withdrawals</p></div>
                                 <div className="uiop tick clr"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -159,7 +157,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("equities_trading")} <span>(USA, EU, ASIA Stock Market)</span></p></div>
+                                <div className="uiop"><p className="nhgt">Equities Trading <span>(USA, EU, ASIA Stock Market)</span></p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -167,7 +165,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("forex_trading")}</p></div>
+                                <div className="uiop"><p className="nhgt">Forex Trading</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -175,7 +173,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("indices_trading")}</p></div>
+                                <div className="uiop"><p className="nhgt">Indices Trading</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -183,7 +181,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("etfs_trading")}</p></div>
+                                <div className="uiop"><p className="nhgt">ETFs Trading</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -191,7 +189,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("metals_trading")}</p></div>
+                                <div className="uiop"><p className="nhgt">Metals Trading</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -199,7 +197,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("energies_trading")}</p></div>
+                                <div className="uiop"><p className="nhgt">Energies Trading</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -207,15 +205,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("otc_trading")}</p></div>
-                                <div className="uiop clr tick"><WhiteTick /></div>
-                                <div className="uiop tick"><WhiteTick /></div>
-                                <div className="uiop"><Blankvector /></div>
-                                <div className="uiop tick"><WhiteTick /></div>
-                                <div className="uiop"><Blankvector /></div>
-                            </div>
-                            <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("instituional_services")}</p></div>
+                                <div className="uiop"><p className="nhgt">OTC Trading</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -223,7 +213,7 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("24_7_support")}</p></div>
+                                <div className="uiop"><p className="nhgt">Institutional Services</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -231,7 +221,15 @@ function NewFeatureSection()
                                 <div className="uiop"><Blankvector /></div>
                             </div>
                             <div className="lkj">
-                                <div className="uiop"><p className="nhgt">{t("account_recovery")}</p></div>
+                                <div className="uiop"><p className="nhgt">24/7 Support</p></div>
+                                <div className="uiop clr tick"><WhiteTick /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
+                                <div className="uiop"><Blankvector /></div>
+                                <div className="uiop tick"><WhiteTick /></div>
+                                <div className="uiop"><Blankvector /></div>
+                            </div>
+                            <div className="lkj">
+                                <div className="uiop"><p className="nhgt">Account Recovery</p></div>
                                 <div className="uiop clr tick"><WhiteTick /></div>
                                 <div className="uiop tick"><WhiteTick /></div>
                                 <div className="uiop"><Blankvector /></div>
@@ -245,48 +243,48 @@ function NewFeatureSection()
 
             <div id="mb__feat">
                 <div className="container">
-                    <h1>{t("features")}</h1>
+                    <h1>Features</h1>
                     <div className="m33C__v">
-                        <h2>{t("features")}</h2>
+                        <h2>Features</h2>
                         <h2>NCX</h2>
                         <h2>CEX</h2>
                         <h2>DEX</h2>
                     </div>
                     <div className="row">
                         <div className="rtt__rr">
-                            <h3>{t("security")}</h3>
-                            <h3>{t("margin_trading")}</h3>
-                            <h3>{t("fees")}</h3>
-                            <h3 className="hh__qa">{t("user_interface")}</h3>
-                            <h3 className="hh__qa">{t("transaction_congestion")}</h3>
-                            <h3 className="hh__qa">{t("daily_trading_volume")}</h3>
-                            <h3 className="hh__qa">{t("transaction_confirmation_latency")}</h3>
-                            <h3>{t("staking")}</h3>
-                            <h3>{t("cross_chain_swap")}</h3>
-                            <h3>{t("crypto_debit_card")}</h3>
-                            <h3>{t("defi_wallet")}</h3>
-                            <h3>{t("derivatives_trading")}</h3>
-                            <h3 className="hh__qa">{t("fiat_deposits_withdrawal")}</h3>
-                            <h3 className="hh__qa">{t("equities_trading")}<span>(USA, EU, ASIA Stock Market)</span></h3>
-                            <h3>{t("metals_trading")}</h3>
-                            <h3>{t("energies_trading")}</h3>
-                            <h3>{t("forex_trading")}</h3>
-                            <h3>{t("etfs_trading")}</h3>
-                            <h3>{t("otc_trading")}</h3>
-                            <h3>{t("instituional_services")}</h3>
-                            <h3>{t("24_7_support")}</h3>
+                            <h3>Security</h3>
+                            <h3>Margin Trading</h3>
+                            <h3>Fees</h3>
+                            <h3 className="hh__qa">User Interface</h3>
+                            <h3 className="hh__qa">Transaction Congestion</h3>
+                            <h3 className="hh__qa">Trading Fees & Volume</h3>
+                            <h3 className="hh__qa">Transaction Confirmation Latency</h3>
+                            <h3>Staking</h3>
+                            <h3>Cross Chain Swap</h3>
+                            <h3>Crypto Debit Card</h3>
+                            <h3>DeFi Wallet</h3>
+                            <h3>Derivatives Trading</h3>
+                            <h3 className="hh__qa">Fiat Deposits / Withdrawals</h3>
+                            <h3 className="hh__qa">Equities Trading<span>(USA, EU, ASIA Stock Market)</span></h3>
+                            <h3>Metals Trading</h3>
+                            <h3>Energies Trading</h3>
+                            <h3>Forex Trading</h3>
+                            <h3>ETF’s Trading</h3>
+                            <h3>OTC Trading</h3>
+                            <h3>Institutional Services</h3>
+                            <h3>24/7 Support</h3>
                         </div>
                         <div className="ww__ncx">
-                            <h3>{t("high")}</h3>
+                            <h3>High</h3>
                             <div className="ww__cc">
                                 <WhiteTick />
                             </div>
-                            <h3>{t("low")}</h3>
-                            <h3 className="hh__qa">{t("user_freindly")}</h3>
-                            <h3 className="hh__qa">{t("low")}</h3>
-                            <h3 className="hh__qa">{t("high")}</h3>
-                            <h3 className="hh__qa">{t("low")}</h3>
-                            <h3>{t("decentalised")}</h3>
+                            <h3>Low</h3>
+                            <h3 className="hh__qa">User Friendly</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3 className="hh__qa">High</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3>Decentalised</h3>
                             <div className="ww__cc">
                                 <WhiteTick />
                             </div>
@@ -328,16 +326,16 @@ function NewFeatureSection()
                             </div>
                         </div>
                         <div className="ww__cex">
-                            <h3>{t("low")}</h3>
+                            <h3>Low</h3>
                             <div className="ww__cc">
                                 <WhiteTick />
                             </div>
-                            <h3>{t("low")}</h3>
-                            <h3 className="hh__qa">{t("user_friendly")}</h3>
-                            <h3 className="hh__qa">{t("low")}</h3>
-                            <h3 className="hh__qa">{t("high")}</h3>
-                            <h3 className="hh__qa">{t("low")}</h3>
-                            <h3>{t("centalised")}</h3>
+                            <h3>Low</h3>
+                            <h3 className="hh__qa">User Friendly</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3 className="hh__qa">High</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3>Centalised</h3>
                             <div className="ww__xx">
                                 <Blankvector />
                             </div>
@@ -379,16 +377,16 @@ function NewFeatureSection()
                             </div>
                         </div>
                         <div className="ww__dex">
-                            <h3>{t("high")}</h3>
+                            <h3>High</h3>
                             <div className="ww__xx">
                                 <Blankvector />
                             </div>
-                            <h3>{t("high")}</h3>
-                            <h3 className="hh__qa">{t("complex")}</h3>
-                            <h3 className="hh__qa">{t("high")}</h3>
-                            <h3 className="hh__qa">{t("low")}</h3>
-                            <h3 className="hh__qa">{t("high")}</h3>
-                            <h3>{t("decentalised")}</h3>
+                            <h3>High</h3>
+                            <h3 className="hh__qa">Complex</h3>
+                            <h3 className="hh__qa">High</h3>
+                            <h3 className="hh__qa">Low</h3>
+                            <h3 className="hh__qa">High</h3>
+                            <h3>Decentralised</h3>
                             <div className="ww__cc">
                                 <WhiteTick />
                             </div>
