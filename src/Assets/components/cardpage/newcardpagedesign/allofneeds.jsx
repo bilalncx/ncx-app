@@ -5,33 +5,35 @@ import GlobalMarket2 from '../../../images/purchase-icon.png';
 import GlobalMarket3 from '../../../images/fraud-icon.png';
 import GlobalMarket4 from '../../../images/luggage-icon.png';
 import { CarouselProvider, Slider, Slide, DotGroup } from 'pure-react-carousel';
+import { useTranslation } from "react-i18next";
 
 function AllOfNeeds()
 {
+    const { t } = useTranslation();
     return(
         <div className="global__mart ncx__card__page">
             <div className="container">
-                <h1 className="az__ml__mm">Premium Protection for all your needs</h1>
+                <h1 className="az__ml__mm">{t("premium_protection_for_all_you_neends")}</h1>
                 <div className="global__row row">
                     <div className="col">
                         <img src={GlobalMarket1} alt="global"/>
-                        <h2>Travel Protection</h2>
-                        <p>World-class Travel Protection with NCX. Get compensated up to $800 per flight if your flight is delayed or cancelled.</p>
+                        <h2>{t("travel_protection")}</h2>
+                        <p>{t("travel_protection_text")}</p>
                     </div>
                     <div className="col">
                         <img src={GlobalMarket2} alt="global"/>
-                        <h2>Purchase Protection</h2>
-                        <p>We’ll compensate you for up to $2,500 per year (or up to $1,250 per article) in lost or damaged goods purchased with your NCX Card.</p>
+                        <h2>{t("purchase_protection")}</h2>
+                        <p>{t("purchase_protection_text")}</p>
                     </div>
                     <div className="col">
                         <img src={GlobalMarket3} alt="global"/>
-                        <h2>Fraud Protection</h2>
-                        <p>We’ll reimburse you up to $3,000 per year in the event your NCX Card is stolen or lost and used to make fraudulent purchases.</p>
+                        <h2>{t("fraud_protection")}</h2>
+                        <p>{t("fraud_protection_text")}</p>
                     </div>
                     <div className="col">
                         <img src={GlobalMarket4} alt="global"/>
-                        <h2>Luggage Protection</h2>
-                        <p>We got you covered. Get compensated up to $1,000 if ever your luggage is lost, damaged or stolen.</p>
+                        <h2>{t("luggage_protection")}</h2>
+                        <p>{t("luggage_protection_text")}</p>
                     </div>
                 </div>
 
@@ -52,29 +54,29 @@ function AllOfNeeds()
                             <Slide index={0} className="mnl__cx">
                                 <div className="azx">
                                     <img src={GlobalMarket1} alt="global"/>
-                                    <h2>Travel Protection</h2>
-                                    <p>World class Travel Protection with NCX. Get compensated up to $800 per flight if your flight is delayed or cancelled.</p>
+                                    <h2>{t("travel_protection")}</h2>
+                                    <p>{t("travel_protection_text")}</p>
                                 </div>
                             </Slide>
                             <Slide index={1} className="mnl__cx">
                                 <div className="azx">
                                     <img src={GlobalMarket2} alt="global"/>
-                                    <h2>Purchase Protection</h2>
-                                    <p>We’ll compensate you for up to $2,500 per year (or up to $1,250 per article) in lost or damaged goods purchased with your NCX Card.</p>
+                                    <h2>{t("purchase_protection")}</h2>
+                                    <p>{t("purchase_protection_text")}</p>
                                 </div>
                             </Slide>
                             <Slide index={2} className="mnl__cx">
                                 <div className="azx">
                                     <img src={GlobalMarket3} alt="global"/>
-                                    <h2>Fraud Protection</h2>
-                                    <p>We’ll reimburse you up to $3,000 per year in the event your NCX Card is stolen or lost and used to make fraudulent purchases.</p>
+                                    <h2>{t("fraud_protection")}</h2>
+                                    <p>{t("fraud_protection_text")}</p>
                                 </div>
                             </Slide>
                             <Slide index={3} className="mnl__cx">
                                 <div className="azx">
                                     <img src={GlobalMarket4} alt="global"/>
-                                    <h2>Luggage Protection</h2>
-                                    <p>We got you covered. Get compensated up to $1,000 if ever your luggage is lost, damaged or stolen.</p>
+                                    <h2>{t("luggage_protection")}</h2>
+                                    <p>{t("luggage_protection_text")}</p>
                                 </div>
                             </Slide>
                         </Slider>

@@ -6,9 +6,12 @@ import WalletVideo from '../../../images/wallet-video.mp4';
 import BuyCryptoVideombl from '../../../images/home__mblvdo.mp4';
 import Button from "@mui/material/Button";
 import './style.css';
+import { useTranslation } from "react-i18next";
+
 
 function NCXAPPSection()
 {
+    const { t } = useTranslation();
     return(
         <div id="wallet_main_screen" className="hom__ppo">
             <div id="home__ffgrr" className="ncxapp-section">
@@ -30,27 +33,27 @@ function NCXAPPSection()
                         <div className="col">
                             <div className="apps_barcod">
                                 <h1>
-                                    <span>NCX DeFi Wallet</span>
-                                    <span>Your Keys,</span>
-                                    <span>Your Crypto.</span>
+                                    <span>{t("ncx_defi_wallet")}</span>
+                                    <span>{t("your_keys")}</span>
+                                    <span>{t("your_crypto")}</span>
                                 </h1>
                                 <p>
-                                    <span>Store, Send, Swap, Buy Crypto</span>
-                                    <span>Assets across 12 Chains NCX</span>
-                                    <span>non-custodial wallet, hold</span>
-                                    <span>your own Private Keys</span>
+                                    <span>{t("store_send_swap_buy_crypto")}</span>
+                                    <span>{t("assets_across_12_chains_ncx")}</span>
+                                    <span>{t("non_custodial_wallet_hold")}</span>
+                                    <span>{t("your_own_private_keys")}</span>
                                 </p>
                                 <div className="barcodd">
                                     <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
-                                    <p>Scan to Download NCX App</p>
+                                    <p>{t("scan_to_download_ncx_app")}</p>
                                 </div>
                                 <div className="apps-divi">
                                     <NCXApple />
                                     <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer"><NCXGoogle /></a>
                                 </div>
                                 <div className="home__btnff">
-                                    <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">Sign Up</Button>
-                                    <Button href="#" className="cl__drp">Claim Airdrop</Button>
+                                    <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
+                                    <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
                                 </div>
                             </div>
                         </div>
@@ -68,11 +71,11 @@ function NCXAPPSection()
                     >
                     <source src={WalletVideo} type="video/mp4" />
                 </video>
-                <h1>NCX DeFi Wallet</h1>
-                <p>Store, Send, Swap, Buy Crypto Assets across 12 Chains NCX non-custodial wallet, hold your own Private Keys</p>
+                <h1>{t("ncx_defi_wallet")}</h1>
+                <p>{t("store_send_swap_mobile_text")}</p>
                 <div className="home__btnff">
-                    <Button href="#" className="sin__op">Sign Up</Button>
-                    <Button href="#" className="cl__drp">Claim Airdrop</Button>
+                    <Button href="#" className="sin__op">{t("sign_up")}</Button>
+                    <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
                 </div>
             </div>
         </div>
