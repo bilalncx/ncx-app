@@ -1,6 +1,5 @@
 import React from "react";
 import './part.css'
-import { useTranslation } from "react-i18next";
 // import Partner1 from '../../../images/google_cloud.png';
 import Partner2 from '../../../images/hacken.png';
 import Partner3 from '../../../images/binance.png';
@@ -21,11 +20,10 @@ import Partner15 from '../../../images/enjin.png';
 
 function HomeMobilePartner()
 {
-    const { t } = useTranslation();
     return(
         <div className="mb__partner">
             <div className="inner__vv">
-                <h2 className="partnership">{t("partnerships")}</h2>
+                <h2 className="partnership">Partnerships</h2>
                 <div className="sliders-wrap">
                     <div className="rooted">
                         <div className="scroll">
