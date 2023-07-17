@@ -14,7 +14,7 @@ function CardNewPageFirst()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src="https://ncx.cx/images/new-cardvideombl.mp4" type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689345150/new-cardvideombl_1_m35ccz.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="cont_vwef">

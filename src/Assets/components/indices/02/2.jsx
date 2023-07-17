@@ -1,9 +1,5 @@
 import React from "react";
 import './2.css';
-import FinancialMarket from '../../../images/financial-mart.png';
-import CryptoDerivatives from '../../../images/crypt_deri.png';
-import Forex from '../../../images/forex-min.png';
-import Metals from '../../../images/metals-min.png';
 import { useTranslation } from "react-i18next";
 import { CarouselProvider, Slider, Slide, Dot, DotGroup } from 'pure-react-carousel';
 
@@ -16,25 +12,25 @@ function Indices2()
                 <h1 className="fg__rer">{t("our_most_traded_derivatives")}</h1>
                 <div className="row inn__vmm__az">
                     <div className="col">
-                        <img src={FinancialMarket} alt="ncx" />
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/financial-mart_h0lauq.png" alt="ncx" />
                         <h3>Financial Market</h3>
                         <p>Trade 200 Stocks, World Indices & ETFs across core and emerging markets.</p>
                         <strong>Spreads as low as 0.5 on the US 500.</strong>
                     </div>
                     <div className="col">
-                        <img src={CryptoDerivatives} alt="ncx" />
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/crypt_deri_grloud.png" alt="ncx" />
                         <h3>Crypto Derivatives</h3>
                         <p>Go long or short on over 150 pairs, take advantage of any market conditions.</p>
                         <strong>Trade Crypto Derivatives with up to 100x Leverage.</strong>
                     </div>
                     <div className="col">
-                        <img src={Forex} alt="ncx" />
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/forex-min_bdcyds.png" alt="ncx" />
                         <h3>Forex</h3>
                         <p>Trade 170 Foreign Exchange Market pairs across majors, minors, and exotics.</p>
                         <strong>Tight spreads from 0.1 pips on EUR/USD.</strong>
                     </div>
                     <div className="col">
-                        <img src={Metals} alt="ncx"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/metals-min_q2d7oi.png" alt="ncx"/>
                         <h3>Metals & Commodities</h3>
                         <p>Trade most popular commodities including energies and metals.</p>
                         <strong>Spreads as low as 0.04 on Brent Crude.</strong>
@@ -57,7 +53,7 @@ function Indices2()
                         <Slider className="global__row row">
                             <Slide index={0}>
                                 <div className="col">
-                                    <img src={FinancialMarket} alt="ncx" />
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/financial-mart_h0lauq.png" alt="ncx" />
                                     <h3>Financial Market</h3>
                                     <p>Trade 200 Stocks, World Indices & ETFs across core and emerging markets.</p>
                                     <strong>Spreads as low as 0.5 on the US 500.</strong>
@@ -65,7 +61,7 @@ function Indices2()
                             </Slide>
                             <Slide index={1}>
                                 <div className="col">
-                                    <img src={CryptoDerivatives} alt="ncx" />
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/crypt_deri_grloud.png" alt="ncx" />
                                     <h3>Crypto Derivatives</h3>
                                     <p>Go long or short on over 150 pairs, take advantage of any market conditions.</p>
                                     <strong>Trade Crypto Derivatives with up to 100x Leverage.</strong>
@@ -73,7 +69,7 @@ function Indices2()
                             </Slide>
                             <Slide index={2}>
                                 <div className="col">
-                                    <img src={Forex} alt="ncx" />
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/forex-min_bdcyds.png" alt="ncx" />
                                     <h3>Forex</h3>
                                     <p>Trade 170 Foreign Exchange Market pairs across majors, minors, and exotics.</p>
                                     <strong>Tight spreads from 0.1 pips on EUR/USD.</strong>
@@ -82,7 +78,7 @@ function Indices2()
 
                             <Slide index={3}>
                                 <div className="col">
-                                    <img src={Metals} alt="ncx"/>
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/metals-min_q2d7oi.png" alt="ncx"/>
                                     <h3>Metals & Commodities</h3>
                                     <p>Trade most popular commodities including energies and metals.</p>
                                     <strong>Spreads as low as 0.04 on Brent Crude.</strong>

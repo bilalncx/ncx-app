@@ -24,7 +24,7 @@ function Home6thVideoSection(){
                                     <p>{t("new_user_must_complete_at_least_one_purchase")}</p>
                                 </div>
                                 <div className="buttoninfo">
-                                    <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" alt="NCX Task Start">{t("sign_up")}</Button>
+                                    <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" alt="NCX Task Start">{t("sign_up")}</Button>
                                     <NCXInfoIcon />
                                 </div>
                             </div>
@@ -53,7 +53,7 @@ function Home6thVideoSection(){
                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                         // poster={"../src/assets/images/roadmap-bg.png"}
                         >
-                        <source src={require('../../../images/ncx-mainvideo.mp4')} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411498/ncx-mainvideo_vkjbeu.mp4" type="video/mp4" />
                     </video>
                     <video 
                         id='ncx-main-video-mobile'
@@ -64,7 +64,7 @@ function Home6thVideoSection(){
                         preload="auto"
                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                         >
-                        <source src={require('../../../images/ncx_mainvideo_mbl.mp4')} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411646/ncx_mainvideo_mbl_svpojx.mp4" type="video/mp4" />
                     </video>
                 </div>
             </div>

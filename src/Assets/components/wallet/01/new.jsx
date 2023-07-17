@@ -2,8 +2,6 @@ import React from "react";
 import NCXBarCode from '../../../images/ncx-barcode.png';
 import { ReactComponent as NCXGoogle } from '../../../images/ncxgoogleplay.svg';
 import { ReactComponent as NCXApple } from '../../../images/ncxappstore.svg';
-import WalletVideo from '../../../images/wallet-video.mp4';
-import BuyCryptoVideombl from '../../../images/home__mblvdo.mp4';
 import Button from "@mui/material/Button";
 import './style.css';
 import { useTranslation } from "react-i18next";
@@ -24,7 +22,7 @@ function NCXAPPSection()
                             playsInline={true}
                             preload="auto"
                             >
-                            <source src={WalletVideo} type="video/mp4" />
+                            <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415590/wallet-video_rq6b91.mp4" type="video/mp4" />
                         </video>
                     </div>
                 </div>
@@ -54,6 +52,8 @@ function NCXAPPSection()
                                 <div className="home__btnff">
                                     <Button href="https://my.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
                                     <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
+                                    <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">Sign Up</Button>
+                                    <Button href="#" className="cl__drp">Claim Airdrop</Button>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ function NCXAPPSection()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src={WalletVideo} type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415590/wallet-video_rq6b91.mp4" type="video/mp4" />
                 </video>
                 <h1>{t("ncx_defi_wallet")}</h1>
                 <p>{t("store_send_swap_mobile_text")}</p>

@@ -42,7 +42,7 @@ function QuestionTabs()
                     /> */}
                     <h1 className='open-ticket'>Open Support Ticket</h1>
                     <p className='ticker_pass'>Open Support Ticket via Support Chat section in your NCX Dashboard or reach us at <a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                    <Button className='support_singbtn' href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">Sign In</Button>
+                    <Button className='support_singbtn' href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">Sign In</Button>
                     <div className="social-links">
                         <a href="https://twitter.com/NCX_CX" target="_blank" rel="noreferrer"><Twitter /></a>
                         <a href="https://www.instagram.com/ncx.cx/" target="_blank" rel="noreferrer"><Instagram /></a>

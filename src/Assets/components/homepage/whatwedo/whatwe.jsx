@@ -1,13 +1,5 @@
 import {React, useState} from "react";
 import './whatwe.css';
-import { AnimationOnScroll } from 'react-animation-on-scroll';
-import {ReactComponent as NCXLogo} from '../../../images/NCX-logo.svg';
-import Button from "@mui/material/Button";
-import DerivativesTrading from '../../../images/ncx-derivatives-trading.png';
-import BuyCrypto from '../../../images/ncx-crypto-trading.png';
-import NCXDEXPhones from '../../../images/ncx-dex-phone.png';
-import NCXCardTrade from '../../../images/ncx-card-trade.png';
-import NCXCryptoTrading from '../../../images/ncx-cryptotrade.png';
 import NCXAPISearchBar from '../../../images/ncx-api-searchbar.png';
 import APIAccordian from './ncxapi-accordian';
 import NCXTradeAssets from '../../homepage/home-trade/trade';
@@ -110,12 +102,12 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="deriv-p">The more you trade, the higher your level, earn NCX Tokens with every level and better trading conditions</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</a>
+                                        <a className="der-buttons" href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="get-app" href="#">Get the App</a>
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="deri-image" src={DerivativesTrading} />
+                                    <img className="deri-image" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497422/ncx-derivatives-trading_onzc9n.png" />
                                 </div>
                             </div>
                         </div>
@@ -134,7 +126,7 @@ function WhatweDoSection(){
                                         preload="auto"
                                         poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
-                                    <source src={require('../../../images/ncxbuy-cryptovideo.mp4')} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416505/ncxbuy-cryptovideo_vyecpg.mp4" type="video/mp4" />
                                 </video>
                                 </div>
                             </div>
@@ -163,7 +155,7 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="pro-desc">Buy Crypto in just a few clicks on NCX</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</a>
+                                        <a className="der-buttons" href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="buycrypt-btn" href="#">Buy Crypto</a>
                                     </div>
                                 </div>
@@ -177,9 +169,8 @@ function WhatweDoSection(){
                                         preload="auto"
                                         poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
-                                        <source src={require('../../../images/ncxbuy-cryptovideo.mp4')} type="video/mp4" />
+                                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416505/ncxbuy-cryptovideo_vyecpg.mp4" type="video/mp4" />
                                     </video>
-                                    {/* <img className="deri-image" src={BuyCrypto} /> */}
                                 </div>
                             </div>
                         </div>
@@ -207,12 +198,12 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="dexp2">Swap, Stake, Farm Yield across 5 leading Blockchains</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</a>
+                                        <a className="der-buttons" href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="get-app" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">Launch DEX</a>
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="dex-image" src={NCXDEXPhones} />
+                                    <img className="dex-image" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499918/ncx-dex-phone_zudvfx.png" />
                                 </div>
                             </div>
                         </div>
@@ -231,7 +222,7 @@ function WhatweDoSection(){
                                         preload="auto"
                                         poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                                     >
-                                    <source src={require('../../../images/ncx_poweredby.mp4')} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417539/ncx_poweredby_nmevv0.mp4" type="video/mp4" />
                                 </video>
                                 </div>
                             </div>
@@ -260,7 +251,7 @@ function WhatweDoSection(){
                                     </div>
                                     <p className="cardp2">One Card, Unlimited Possibilities!</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</a>
+                                        <a className="der-buttons" href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="buycrypt-btn" href="#">Get the App</a>
                                     </div>
                                 </div>
@@ -274,9 +265,8 @@ function WhatweDoSection(){
                                             preload="auto"
                                             poster="https://ncx.cx/images/ncx_mainvideo_poster.png"
                                         >
-                                        <source src={require('../../../images/ncx_poweredby.mp4')} type="video/mp4" />
+                                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417539/ncx_poweredby_nmevv0.mp4" type="video/mp4" />
                                     </video>
-                                    {/* <img className="cardtr-image" src={NCXCardTrade} /> */}
                                 </div>
                             </div>
                         </div>
@@ -309,12 +299,12 @@ function WhatweDoSection(){
                                     <p className="deriv-p crypttradep1">* - Get up to 100% Trading Fee Discount Staking NCX Tokens</p>
                                     <p className="deriv-p crypttradep2">** - Get up to 100% Withdrawal Fee Refund  Staking NCX Tokens</p>
                                     <div className="prod-butns">
-                                        <a className="der-buttons" href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">Sign Up</a>
+                                        <a className="der-buttons" href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">Sign Up</a>
                                         <a className="get-app" href="#">Get the App</a>
                                     </div>
                                 </div>
                                 <div className="col product-img">
-                                    <img className="deri-image" src={NCXCryptoTrading} />
+                                    <img className="deri-image" src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499286/ncx-cryptotrade_utcyzg.png" />
                                 </div>
                             </div>
                         </div>

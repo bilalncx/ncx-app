@@ -1,6 +1,5 @@
 import React from "react";
 import './3.css';
-import IndicesVideo from '../../../images/ncx_app_vi.mp4';
 import Button from "@mui/material/Button";
 import { ReactComponent as IndicesArrow } from '../../../images/indices_arrow.svg';
 import { useTranslation } from "react-i18next";
@@ -23,7 +22,7 @@ function Indices3()
                             preload="auto"
                             // poster="https://ncx.cx/images/ncx_card_poster.png"
                             >
-                            <source src={IndicesVideo} type="video/mp4" />
+                            <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417949/ncx_app_vi_igjdzj.mp4" type="video/mp4" />
                         </video>
                     </div>
                     <div className="col txt__vvv">
@@ -34,7 +33,7 @@ function Indices3()
                             <li><strong>{t("diversify_your_exposure")}</strong> {t("diversify_your_exposure_text")}</li>
                         </ul>
                         <div className="tiy__bd">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="download">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="download">{t("sign_up")}</Button>
                             <Button href="#" className="sign__up">{t("get_the_app")}</Button>
                         </div>
                     </div>

@@ -9,15 +9,15 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-import SpotTrading1 from '../../../images/spot-trading-1.png';
-import SpotTrading2 from '../../../images/spot-trading-2.png';
-import SpotTrading3 from '../../../images/spot-trading-3.png';
-import SpotWeb1 from '../../../images/spot-web1.png';
-import SpotWeb2 from '../../../images/spot-web2.png';
-import SpotWeb3 from '../../../images/spot-web3.png';
-import SpotWeb4 from '../../../images/spot-web4.png';
-import SpotWeb5 from '../../../images/spot-web5.png';
-import SpotWeb6 from '../../../images/spot-web6.png';
+// import SpotTrading1 from '../../../images/spot-trading-1.png';
+// import SpotTrading2 from '../../../images/spot-trading-2.png';
+// import SpotTrading3 from '../../../images/spot-trading-3.png';
+// import SpotWeb1 from '../../../images/spot-web1.png';
+// import SpotWeb2 from '../../../images/spot-web2.png';
+// import SpotWeb3 from '../../../images/spot-web3.png';
+// import SpotWeb4 from '../../../images/spot-web4.png';
+// import SpotWeb5 from '../../../images/spot-web5.png';
+// import SpotWeb6 from '../../../images/spot-web6.png';
 import { useTranslation } from "react-i18next";
 
 
@@ -99,7 +99,7 @@ function SupportPageSet()
 
                                 <h1 className="support_ticket">{t("open_support_ticket")}</h1>
                                 <p className="support_txt">{t("open_support_ticket_text")}<a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
+                                <a className="support_signin" href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
 
                                 <div className="social-icons">
                                     <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
@@ -115,16 +115,16 @@ function SupportPageSet()
                                 <p><strong>{t("what_is_market_order")}</strong></p>
                                 <p>{t("market_order_text_1")}</p>
                                 <p>{t("market_order_text_2")}</p>
-                                <img src={SpotTrading1} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404339/spot-trading-1_ok6yvy.png" alt="ncx-spot-trading" />
                                 <p><strong>{t("what_is_limit_order")}</strong></p>
                                 <p>{t("limit_order_text_1")}</p>
                                 <p>{t("limit_order_text_2")}</p>
                                 <p>{t("limit_order_text_3")}</p>
-                                <img src={SpotTrading2} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404339/spot-trading-2_evtmjd.png" alt="ncx-spot-trading" />
                                 <p><strong>{t("what_is_stop_limit_order_?")}</strong></p>
                                 <p>{t("stop_limit_order_text_1")}</p>
                                 <p>{t("stop_limit_order_text_2")}</p>
-                                <img src={SpotTrading3} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404339/spot-trading-3_idwysw.png" alt="ncx-spot-trading" />
                                 <p><strong>{t("what_is_an_oco")}</strong></p>
                                 <p>{t("oco_text_1")}</p>
                                 <p>{t("oco_text_2")}</p>
@@ -136,7 +136,7 @@ function SupportPageSet()
                                 <h1>{t("how_trade_spot_on_ncx")}</h1>
                                 <p>{t("trade_spot_on_ncx_text_1")}</p>
                                 <p>{t("trade_spot_on_ncx_text_2")}</p>
-                                <img src={SpotWeb1} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404340/spot-web1_g9lqjx.png" alt="ncx-spot-trading" />
                                 <h3>{t("what_is_limit_order")}</h3>
                                 <ol>
                                     <li>{t("select_trading_pair")}</li>
@@ -160,15 +160,15 @@ function SupportPageSet()
                                     <li>{t("sign_out")}</li>
                                 </ol>
                                 <p>{t("custom_workspaces")}</p>
-                                <img src={SpotWeb2} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404340/spot-web2_aqspi1.png" alt="ncx-spot-trading" />
                                 <p>{t("customise_your_trading_interface")}</p>
-                                <img src={SpotWeb3} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404340/spot-web3_ajn3vm.png" alt="ncx-spot-trading" />
                                 <p>{t("help_tips")}Help and Tips</p>
-                                <img src={SpotWeb4} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404341/spot-web4_yv2d52.png" alt="ncx-spot-trading" />
                                 <p>{t("notifications")}Notifications</p>
-                                <img src={SpotWeb5} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404341/spot-web5_udbarw.png" alt="ncx-spot-trading" />
                                 <p>{t("reset_trading_widgets")}</p>
-                                <img src={SpotWeb6} alt="ncx-spot-trading" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404340/spot-web6_sveooc.png" alt="ncx-spot-trading" />
                             </div>
                             <div className={toggleState === 3 ? "sprt-content active" : "sprt-content"}>
                                 <h2>{t("")}How to Trade Spot on NCX App</h2>

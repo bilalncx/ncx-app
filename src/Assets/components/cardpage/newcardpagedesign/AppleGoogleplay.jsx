@@ -11,7 +11,6 @@ function IntegrationPlay()
             <div className="container">
                 <div className="nhy__tr">
                     <div className="mujh">
-                        {/* <img src={AppleGoogleImage} alt="ncx"/> */}
                         <video 
                             autoPlay={true}
                             muted={true}
@@ -19,7 +18,7 @@ function IntegrationPlay()
                             playsInline={true}
                             preload="auto"
                             >
-                            <source src={CardTrimmed} type="video/mp4" />
+                            <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416843/card_full_ttvban.mp4" type="video/mp4" />
                         </video>
                     </div>
                     <div className="tjmnh">

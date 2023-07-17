@@ -6,11 +6,8 @@ import { ReactComponent as Ethereum } from '../../../images/ncx-ethereum.svg';
 import { ReactComponent as Bitcoin } from '../../../images/ncx-bitcoin.svg';
 import { ReactComponent as BinanceCoinBNB } from '../../../images/ncx-binancecoinbnb.svg';
 import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg';
-import BuyCrypotVideo from '../../../images/buy_page.mp4';
 import { ReactComponent as RewardStar } from '../../../images/ncx-reward-star.svg';
 import { useTranslation } from "react-i18next";
-import MobileBuyCrypotVideo from '../../../images/ncxbuy-cryptovideo.mp4';
-import VideSection from '../../../images/home__newvideo.mp4';
 
 
 function BuyCrypto(){
@@ -40,7 +37,7 @@ function BuyCrypto(){
                         preload="auto"
                         // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                         >
-                        <source src={VideSection} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417010/home__newvideo_tan229.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="container">
@@ -72,7 +69,7 @@ function BuyCrypto(){
                                     playsInline={true}
                                     preload="auto"
                                     >
-                                    <source src={BuyCrypotVideo} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689417720/buy_page_hnysad.mp4" type="video/mp4" />
                                 </video>
                             </div>
                         </div>
@@ -99,7 +96,7 @@ function BuyCrypto(){
                                     preload="auto"
                                     poster="https://ncx.cx/images/ncx_buycrypto_poster.png"
                                     >
-                                    <source src={MobileBuyCrypotVideo} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416505/ncxbuy-cryptovideo_vyecpg.mp4" type="video/mp4" />
                                 </video>
                             </div>
                         </div>

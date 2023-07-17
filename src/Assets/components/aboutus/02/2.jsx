@@ -3,8 +3,6 @@ import './2.css';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import CountUp from 'react-countup';
 import { useTranslation } from "react-i18next";
-import Office1 from '../../../images/ncx_office1.png';
-import Office2 from '../../../images/ncx_office2.png';
 
 
 function AboutSectionSection()
@@ -127,8 +125,8 @@ function AboutSectionSection()
                 </div>
                 <div className="ncx-office">
                     <AnimationOnScroll className="img12" animateIn="animate__fadeIn">
-                        <img src={Office1} alt="ncx-office" />
-                        <img src={Office2} alt="ncx-office" />
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492438/ncx_office1_dwvyrg.png" alt="ncx-office" />
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492437/ncx_office2_vxlphn.png" alt="ncx-office" />
                     </AnimationOnScroll>
                 </div>
             </div>

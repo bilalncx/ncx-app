@@ -38,7 +38,7 @@ export default function Header() {
                 className="header-logo"
                 sx={{ mr: 2 }}
               >
-              <a href="https://ncx.cx"><img src={Logo} alt="NCX-Logo" /></a>
+              <a href="https://ncx.cx"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689405667/new_sitelogo_naeh1u.svg" alt="NCX-Logo" /></a>
               </IconButton>
               <div className="headermore_row">
                 <a className="header-more" href="#"><NCXMore /></a>
@@ -93,7 +93,7 @@ export default function Header() {
                           <div className="box">
                             <div className="boxx-links">
                               <a href="https://ncx.cx/faq">{t("faq")}</a>
-                              <a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("open_support_ticket")}</a>
+                              <a href="https://exchange.ncx.cx/support" target="_blank" rel="noreferrer">{t("open_support_ticket")}</a>
                               <a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer">{t("support_via_telegram")}</a>
                             </div>
                             <h4>{t("social_media")}</h4>
@@ -113,7 +113,7 @@ export default function Header() {
                   <a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
+                  <a href="https://exchange.ncx.cx/trade" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="/derivatives">{t("derivatives")}</a>
@@ -139,7 +139,7 @@ export default function Header() {
               </ul>
             </div>
             <div className="login-buttons">
-              <Button href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer" className="signin">{t("sign_in")}</Button>
+              <Button href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer" className="signin">{t("sign_in")}</Button>
               <Button className="launch-dex" href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("defi")}</Button>
               <div className="downloadQRCode">
                 <div id="downloadlink" className="storeicons">
@@ -150,7 +150,7 @@ export default function Header() {
                   <div class="download-box">
                     <div class="qr-box">
                       <div class="img-box">
-                        <img src={AppBarCode} alt="NCX Mobile App"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689405462/ncx-QRcode_mkn2ki.svg" alt="NCX Mobile App"/>
                       </div>
                     </div>
                     <div class="pc-box">
@@ -213,7 +213,7 @@ export default function Header() {
                         <a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a>
                       </li>
                       <li>
-                        <a href="https://trade.ncx.cx/" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
+                        <a href="https://exchange.ncx.cx/trade" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
                       </li>
                       <li>
                         <a href="/derivatives">{t("derivatives")}</a>
@@ -243,7 +243,7 @@ export default function Header() {
                         <a className="btn01 signup launching-btn">Sign Up</a>
                       </li> */}
                       <li>
-                        <a className="signin launching-btn" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in_sign_up")}</a>
+                        <a className="signin launching-btn" href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">{t("sign_in_sign_up")}</a>
                       </li>
                       {/* <li>
                         <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer" className="launch-dex launching-btn">Launch DEX</a>
@@ -269,7 +269,7 @@ export default function Header() {
                   <button class="dropbtn">{t("launch_dex")}</button>
                   <div class="dropdown-content">
                     <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("launch_dex")}</a>
-                    <a href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
+                    <a href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
                   </div>
                 </div>
               </div> */}

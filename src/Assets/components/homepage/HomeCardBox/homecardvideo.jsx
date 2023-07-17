@@ -1,5 +1,4 @@
 import React from "react";
-import CardMainVideo from '../../../images/home-cardvideo2.mp4';
 import Button from "@mui/material/Button";
 import './cardbox.css';
 import { t } from "i18next";
@@ -19,7 +18,7 @@ function HomeCardVideo()
                         playsInline={true}
                         preload="auto"
                         >
-                        <source src={CardMainVideo} type="video/mp4" />
+                        <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689416745/home-cardvideo2_kvifim.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="bvc_mnb">

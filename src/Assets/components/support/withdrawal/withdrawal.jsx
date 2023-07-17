@@ -9,14 +9,14 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-import Withdrawal1 from '../../../images/withdrwal1.png';
-import Withdrawal2 from '../../../images/withdrwal2.png';
-import Withdrawal3 from '../../../images/withdrwal3.png';
-import Withdrawal4 from '../../../images/withdrwal4.png';
-import Withdrawal5 from '../../../images/withdrwal5.png';
-import Withdrawal6 from '../../../images/withdrwal6.png';
-import Withdrawal7 from '../../../images/withdrwal7.png';
-import Withdrawal8 from '../../../images/withdrwal8.png';
+// import Withdrawal1 from '../../../images/withdrwal1.png';
+// import Withdrawal2 from '../../../images/withdrwal2.png';
+// import Withdrawal3 from '../../../images/withdrwal3.png';
+// import Withdrawal4 from '../../../images/withdrwal4.png';
+// import Withdrawal5 from '../../../images/withdrwal5.png';
+// import Withdrawal6 from '../../../images/withdrwal6.png';
+// import Withdrawal7 from '../../../images/withdrwal7.png';
+// import Withdrawal8 from '../../../images/withdrwal8.png';
 import CoinData from '.././deposit-payout-table';
 import { useTranslation } from "react-i18next";
 
@@ -82,7 +82,7 @@ function SupportPageSet()
 
                                 <h1 className="support_ticket">{t("open_support_ticket")}</h1>
                                 <p className="support_txt">{t("open_support_ticket_text")}<a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
+                                <a className="support_signin" href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
 
                                 <div className="social-icons">
                                     <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
@@ -96,20 +96,20 @@ function SupportPageSet()
                                 <h1>{t("make_a_withdrawal")}</h1>
                                 <p>{t("follow_step_to_withdrawal")}</p>
                                 <p>{t("withdrawal_step_1")}</p>
-                                <img src={Withdrawal1} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404031/withdrwal1_xyylf8.png" alt="ncx-deposits" />
                                 <p>{t("withdrawal_step_2")}</p>
-                                <img src={Withdrawal2} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404031/withdrwal2_xfvtgp.png" alt="ncx-deposits" />
                                 <p>{t("withdrawal_step_3")}</p>
-                                <img src={Withdrawal3} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404030/withdrwal3_wyagzt.png" alt="ncx-deposits" />
                                 <p>{t("withdrawal_step_4")}</p>
-                                <img src={Withdrawal4} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404030/withdrwal4_eguxgf.png" alt="ncx-deposits" />
                                 <p>{t("withdrawal_step_5")}</p>
-                                <img src={Withdrawal5} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404030/withdrwal5_yz0qhk.png" alt="ncx-deposits" />
                                 <p>{t("withdrawal_step_6")}</p>
-                                <img src={Withdrawal6} alt="ncx-deposits" />
-                                <img src={Withdrawal7} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404030/withdrwal6_likfhm.png" alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404031/withdrwal7_av3gfr.png" alt="ncx-deposits" />
                                 <p>{t("withdrawal_step_7")}</p>
-                                <img src={Withdrawal8} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689404031/withdrwal8_guniwb.png" alt="ncx-deposits" />
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
                                 <h2>{t("how_make_withdrawal_on_mobile")}</h2>

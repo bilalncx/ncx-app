@@ -1,7 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
 import './scroll.css';
-import HeroImage from '../../../images/hero_scroll.png';
-import mobilepic from '../../../images/mbl_features.png';
 
 function App() {
   const [rotationAngle, setRotationAngle] = useState(0);
@@ -37,12 +35,12 @@ function App() {
               transition: 'transform 2s',
             }}
           >
-             <img src={HeroImage} alt="ncx"/>
+             <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499765/hero_scroll_yykopp.png" alt="ncx"/>
           </div>
         </section>
         {/* More sections */}
         <div className='mbl__xx'>
-          <img src={mobilepic} alt="ncx"/>
+          <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499839/mbl_features_zmt9dt.png" alt="ncx"/>
         </div>
       </div>
     </div>

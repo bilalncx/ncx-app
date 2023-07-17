@@ -17,7 +17,7 @@ function CardFirstNew()
                     playsInline={true}
                     preload="auto"
                     >
-                    <source src="https://ncx.cx/images/ncx-cardvideo.mp4" type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689344912/ncx-cardvideo_1_onjnjb.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="bvc_mnb">
@@ -26,6 +26,8 @@ function CardFirstNew()
                     <div className="hyng">
                         <Button href="#compare-cards" className="bnb_mki">{t("compare_card")}</Button>
                         <Button href="#" className="mki__lo">{t("sign_up")}</Button>
+                        <Button href="#compare-cards" className="bnb_mki">Compare Cards</Button>
+                        <Button href="https://exchange.ncx.cx/register" target="_blank" className="mki__lo">Sign Up</Button>
                     </div>
                 </div>
             </div>

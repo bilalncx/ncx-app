@@ -1,5 +1,4 @@
 import React from "react";
-import WalletImage from '../../../images/wallet__sc2.png';
 import Button from "@mui/material/Button";
 
 function TextLeftSide()
@@ -9,7 +8,7 @@ function TextLeftSide()
             <div className="container">
                 <div className="row">
                     <div className="col img__vv">
-                        <img src={WalletImage} alt="ncx-wallet" />
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689497126/wallet__sc2_zmlzph.png" alt="ncx-wallet" />
                     </div>
                     <div className="col wsl__fdss">
                         <h3>Send</h3>

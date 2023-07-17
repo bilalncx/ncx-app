@@ -1,14 +1,9 @@
 import React from "react";
 import './5.css';
 import Button from "@mui/material/Button";
-import Device1 from '../../../images/device_1.png';
-import Device2 from '../../../images/device_2.png';
-import Device3 from '../.././../images/device_3.png';
-import Device4 from '../../../images/device_4.png';
 import {ReactComponent as CTrader1} from '../../../images/ctrader_logo.svg';
 import {ReactComponent as CTrader2} from '../../../images/ctrader_logoB.svg';
 import { useTranslation } from "react-i18next";
-import SExchange from '../../../images/s-exchange.mp4';
 
 function Indices5()
 {
@@ -27,7 +22,7 @@ function Indices5()
                         <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
                             {/* <img src={Device4} alt="ncx_platform" /> */}
@@ -40,7 +35,7 @@ function Indices5()
                                 preload="auto"
                                 // poster="https://ncx.cx/images/ncx_redrok_poster.png"
                                 >
-                                <source src={SExchange} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689415543/s-exchange_vu8ugv.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -53,10 +48,10 @@ function Indices5()
                         <p>{t("ncx_c_trader_web_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
-                            <img src={Device2} alt="ncx_platform" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418806/device_2_uf6ofq.png" alt="ncx_platform" />
                         </div>
                     </div>
                 </div>
@@ -70,10 +65,10 @@ function Indices5()
                         <p>{t("ncx_c_trader_windows_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
-                            <img src={Device1} alt="ncx_platform" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/device_1_fkkwpv.png" alt="ncx_platform" />
                         </div>
                     </div>
                     <div className="col trg__ff__fe">
@@ -84,10 +79,10 @@ function Indices5()
                         <p>{t("ncx_c_trader_ios_text")}</p>
                         <div className="tiy__bd">
                             <Button href="#" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="ipad__gg">
-                            <img src={Device3} alt="ncx_platform" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689418805/device_3_mtaeal.jpg" alt="ncx_platform" />
                         </div>
                     </div>
                 </div>

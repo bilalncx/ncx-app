@@ -171,7 +171,7 @@ a.get-app:hover{
     text-decoration: none !important;
 }
 .crypto-trade{
-    background: url(../../../images/ncx-api-bg.jpg);
+    background: url(https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499591/ncx-api-bg_bczp4l.jpg);
     background-color: #ADB9D1;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -412,7 +412,7 @@ p.deriv-p.crypttradep2 {
     right: -30px;
 }
 .ncx-apisect{
-    background: url(../../../images/ncx-api-bg.jpg);
+    background: url(https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499591/ncx-api-bg_bczp4l.jpg);
     background-color: #ACBAD2;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -436,7 +436,7 @@ p.deriv-p.crypttradep2 {
 .api-monitoring{
     max-width: 350px;
     height: 400px;
-    background: url(../../../images/ncx-api-img.jpg);
+    background: url(https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499591/ncx-api-img_t39ypz.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 30px 20px;
@@ -560,7 +560,7 @@ span.apisvg {
     border-color: #34A9FF !important;
 }
 .TradeNCXToken{
-    background: url(../../../images/ncx-api-bg.jpg);
+    background: url(https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689499591/ncx-api-bg_bczp4l.jpg);
     background-color: #acbad2;
     background-repeat: no-repeat;
     background-size: 100% 100%;

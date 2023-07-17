@@ -9,11 +9,11 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-import Deposit1 from '../../../images/deposit1.png';
-import Deposit2 from '../../../images/deposit2.png';
-import Deposit3 from '../../../images/deposit3.png';
-import Deposit4 from '../../../images/deposit4.png';
-import Deposit5 from '../../../images/deposit5.png';
+// import Deposit1 from '../../../images/deposit1.png';
+// import Deposit2 from '../../../images/deposit2.png';
+// import Deposit3 from '../../../images/deposit3.png';
+// import Deposit4 from '../../../images/deposit4.png';
+// import Deposit5 from '../../../images/deposit5.png';
 import CoinData from '.././deposit-payout-table';
 import { useTranslation } from "react-i18next";
 
@@ -79,7 +79,7 @@ function SupportPageSet()
 
                                 <h1 className="support_ticket">{t("open_support_ticket")}</h1>
                                 <p className="support_txt">{t("open_support_ticket_text")}<a href="mailto:support@ncx.cx">support@ncx.cx</a></p>
-                                <a className="support_signin" href="https://my.ncx.cx/en/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
+                                <a className="support_signin" href="https://exchange.ncx.cx/login" target="_blank" rel="noreferrer">{t("sign_in")}</a>
 
                                 <div className="social-icons">
                                     <div class="icons"><a href="https://t.me/NCX_Official" target="_blank" rel="noreferrer"><img src={Telegram} alt="NCX" title="Telegram"/></a></div>
@@ -93,15 +93,15 @@ function SupportPageSet()
                                 <h1>{t("make_a_deposit")}</h1>
                                 <p>{t("follow_steps_to_deposit")}</p>
                                 <p>{t("deposit_step_1")}</p>
-                                <img src={Deposit1} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401601/deposit1_unlnar.png" alt="ncx-deposits" />
                                 <p>{t("deposit_step_2")}</p>
-                                <img src={Deposit2} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401600/deposit2_mgwtlx.png" alt="ncx-deposits" />
                                 <p>{t("deposit_step_3")}</p>
-                                <img src={Deposit3} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401601/deposit3_spw94z.png" alt="ncx-deposits" />
                                 <p>{t("deposit_step_4")}</p>
-                                <img src={Deposit4} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401601/deposit4_slt5cp.png" alt="ncx-deposits" />
                                 <p>{t("deposit_step_5")}</p>
-                                <img src={Deposit5} alt="ncx-deposits" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689401601/deposit5_bvggvb.png" alt="ncx-deposits" />
                             </div>
                             <div className={toggleState === 2 ? "sprt-content active" : "sprt-content"}>
                                 <h2>{t("how_to_make_deposit_on_mobile")}</h2>

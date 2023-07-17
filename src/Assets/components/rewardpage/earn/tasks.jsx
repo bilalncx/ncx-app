@@ -26,7 +26,7 @@ function NCXTaskSection()
                                 <h3>{t("sign_up_verify")}</h3>
                                 <p>{t("new_user_must_complete_at_least_one_purchase")}</p>
                                 <div className="taskbtn">
-                                    <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
+                                    <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
                                     <NCXQuestionmark />
                                 </div>
                             </div>

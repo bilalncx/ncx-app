@@ -12,7 +12,7 @@ function FirstSect()
 {
     const { t } = useTranslation();
     // The data/time we want to countdown to
-    var countDownDate = new Date("June 30 2023 00:00:00").getTime();
+    var countDownDate = new Date("July 30 2023 00:00:00").getTime();
 
     // Run myfunc every second
     var myfunc = setInterval(function() {
@@ -53,9 +53,9 @@ function FirstSect()
                     loop={true}
                     playsInline={true}
                     preload="auto"
-                    poster="https://ncx.cx/images/Token_bg.jpeg"
+                    poster="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689419776/Token_bg_xoas9k.jpg"
                     >
-                    <source src="https://ncx.cx/images/ncx-token-video-2.mp4" type="video/mp4" />
+                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689501203/ncx-token-video-2_1_wvjapl.mp4" type="video/mp4" />
                 </video>
             </div>
             <div className="token_first_sect">

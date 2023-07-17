@@ -8,7 +8,7 @@ import ThirdSectionTokenFeatures from '../../components/ncxToken/features/featur
 import FourthSectionTokenAllocation from '../../components/ncxToken/features/token-allocation';
 import CEXDEXTable from '../../components/homepage/5thdextablesection/newtable';
 import SixthVideoSection from '../../components/ncxToken/token_video/video';
-// import NCXTPresale from '../../components/ncxToken/section-2/private_sale';
+import NCXTPresale from '../../components/ncxToken/section-2/private_sale';
 import RoadmapSlider from "../../components/ncxToken/round_slider/roadmap-slider";
 
 function NCXTokenPage(){
@@ -22,7 +22,7 @@ function NCXTokenPage(){
             <SecondSection />
             <ThirdSectionTokenFeatures />
             <CEXDEXTable />
-            {/* <NCXTPresale /> */}
+            <NCXTPresale />
             <SixthVideoSection />
             <FourthSectionTokenAllocation />
             <RoadmapSlider />

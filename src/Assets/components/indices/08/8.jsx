@@ -1,7 +1,5 @@
 import React from "react";
 import './8.css';
-import HeaderImage1 from '../../../images/indices_head-1.png';
-import HeaderImage2 from '../../../images/indices_head-2.png';
 import Button from "@mui/material/Button";
 import { useTranslation } from "react-i18next";
 
@@ -33,7 +31,7 @@ function Indices8(){
                             <span>{t("trade_world_markets_ncx_superior_execution")}</span>
                         </div>
                         <div className="hh__btn">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
                             <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
                     </div>
@@ -59,13 +57,13 @@ function Indices8(){
                             <span>{t("trade_world_markets_ncx_superior_execution")}</span>
                         </div>
                         <div className="hh__btn">
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
                             <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
                     </div>
                     <div className="col mgg">
-                        <img src={HeaderImage1} alt="prices"/>
-                        <img src={HeaderImage2} alt="prices"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-1_koiywt.png" alt="prices"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-2_pzfkhc.png" alt="prices"/>
                     </div>
                 </div>
             </div>

@@ -1,19 +1,13 @@
 import React from "react";
 import Button from "@mui/material/Button";
-import Device1 from '../../../images/device_1.png';
 import {ReactComponent as CTrader1} from '../../../images/ctrader_logo.svg';
 import {ReactComponent as NCXWeb} from '../../../images/ncxweb.svg';
-import Laptop3 from '../../../images/laptop3.png';
 import {ReactComponent as CTrader2} from '../../../images/ctrader_logoB.svg';
-import WalletMobileVideo from '../../../images/wallet_mbl.mp4';
-import WalletMobileVideo2 from '../../../images/wallet_mbl2.mp4';
 import {ReactComponent as NCXBadge1} from '../../../images/ncx-badge.svg';
 import {ReactComponent as NCXBadge2} from '../../../images/ncx-badge2.svg';
 import { useTranslation } from "react-i18next";
-import SExchange from '../../../images/s-exchange.mp4';
-import NCXCrossDex from '../../../images/ncx-cross-dex.png';
 import { ReactComponent as NCXDEXBadge } from '../../../images/dex-badge.svg';
-import { CarouselProvider, Slider, Slide, DotGroup } from 'pure-react-carousel';
+// import { CarouselProvider, Slider, Slide, DotGroup } from 'pure-react-carousel';
 
 function Indices5()
 {
@@ -31,7 +25,7 @@ function Indices5()
                         <p>{t("enhance_your_mobile_trading_experience_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img viso__ff">
                             <video 
@@ -41,7 +35,7 @@ function Indices5()
                                 playsInline={true}
                                 preload="auto"
                                 >
-                                <source src={WalletMobileVideo2} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/wallet_mbl2_xxwzpb.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -53,7 +47,7 @@ function Indices5()
                         <p>{t("take_control_of_your_diggital_assetby_securely_managing_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://ncx.cx/wallet" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img gf__grthbh">
                             <video 
@@ -63,7 +57,7 @@ function Indices5()
                                 playsInline={true}
                                 preload="auto"
                                 >
-                                <source src={WalletMobileVideo} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/wallet_mbl_o7zqgs.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -78,10 +72,10 @@ function Indices5()
                         </p>
                         <div className="tiy__bd">
                             <Button href="https://dex.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
-                            <img src={NCXCrossDex} alt="ncx_platform" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689411496/ncx-cross-dex_fkkmwg.png" alt="ncx_platform" />
                         </div>
                     </div>
                     <div className="col trg__ff__fe">
@@ -92,10 +86,10 @@ function Indices5()
                         <p>{t("trade_of_over_200_cryptocurrency_pairs_using_ncx_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://trade.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
-                            <img src={Laptop3} alt="ncx_platform" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689411498/laptop3_snmlop.png" alt="ncx_platform" />
                         </div>
                     </div>
                 </div>
@@ -108,7 +102,7 @@ function Indices5()
                         <p>{t("ncx_c_trader_app_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pho__img">
                             <video 
@@ -119,7 +113,7 @@ function Indices5()
                                 playsInline={true}
                                 preload="auto"
                                 >
-                                <source src={SExchange} type="video/mp4" />
+                                <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/s-exchange_jeqs0i.mp4" type="video/mp4" />
                             </video>
                         </div>
                     </div>
@@ -131,10 +125,10 @@ function Indices5()
                         <p>{t("ncx_c_trader_windows_text")}</p>
                         <div className="tiy__bd">
                             <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                            <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                         </div>
                         <div className="pla__img">
-                            <img src={Device1} alt="ncx_platform" />
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689411497/device_1_duo5ff.png" alt="ncx_platform" />
                         </div>
                     </div>
                 </div>
@@ -150,7 +144,7 @@ function Indices5()
                             <p>{t("ncx_c_trader_app_text")}</p>
                             <div className="tiy__bd">
                                 <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
-                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             </div>
                             <div className="pho__img viso__ff">
                                 <video 
@@ -160,7 +154,7 @@ function Indices5()
                                     playsInline={true}
                                     preload="auto"
                                     >
-                                    <source src={WalletMobileVideo2} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/wallet_mbl2_xxwzpb.mp4" type="video/mp4" />
                                 </video>
                             </div>
                         </div>
@@ -172,7 +166,7 @@ function Indices5()
                             <p>{t("ncx_defi_wallet_app_text")}</p>
                             <div className="tiy__bd">
                                 <Button href="https://ncx.cx/wallet" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             </div>
                             <div className="pla__img gf__grthbh">
                                 <video 
@@ -182,7 +176,7 @@ function Indices5()
                                     playsInline={true}
                                     preload="auto"
                                     >
-                                    <source src={WalletMobileVideo} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/wallet_mbl_o7zqgs.mp4" type="video/mp4" />
                                 </video>
                             </div>
                         </div>
@@ -194,7 +188,7 @@ function Indices5()
                             <p>{t("ncx_c_trader_app_text")}</p>
                             <div className="tiy__bd">
                                 <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             </div>
                             <div className="pho__img">
                                 <video 
@@ -205,7 +199,7 @@ function Indices5()
                                     playsInline={true}
                                     preload="auto"
                                     >
-                                    <source src={SExchange} type="video/mp4" />
+                                    <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1689411497/s-exchange_jeqs0i.mp4" type="video/mp4" />
                                 </video>
                             </div>
                         </div>
@@ -218,10 +212,10 @@ function Indices5()
                             </p>
                             <div className="tiy__bd">
                                 <Button href="https://dex.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
-                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             </div>
                             <div className="pla__img">
-                                <img src={NCXCrossDex} alt="ncx_platform" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689411496/ncx-cross-dex_fkkmwg.png" alt="ncx_platform" />
                             </div>
                         </div>
                         <div className="col trg__ff__fe">
@@ -232,10 +226,10 @@ function Indices5()
                             <p>{t("ncx_c_trader_web_text")}</p>
                             <div className="tiy__bd">
                                 <Button href="https://trade.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
-                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             </div>
                             <div className="pla__img">
-                                <img src={Laptop3} alt="ncx_platform" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689411498/laptop3_snmlop.png" alt="ncx_platform" />
                             </div>
                         </div>
                         <div className="col trg__ff__fe">
@@ -246,10 +240,10 @@ function Indices5()
                             <p>{t("home_c_trade_window_text")}</p>
                             <div className="tiy__bd">
                                 <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                                <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                             </div>
                             <div className="pla__img">
-                                <img src={Device1} alt="ncx_platform" />
+                                <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689411497/device_1_duo5ff.png" alt="ncx_platform" />
                             </div>
                         </div>
                     </div>
@@ -280,7 +274,7 @@ function Indices5()
                                     <p>{t("ncx_c_trader_app_text")}</p>
                                     <div className="tiy__bd">
                                         <Button href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer" className="download">{t("download")}</Button>
-                                        <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                                     </div>
                                     <div className="pho__img viso__ff">
                                         <video 
@@ -304,7 +298,7 @@ function Indices5()
                                     <p>{t("ncx_defi_wallet_app_text")}</p>
                                     <div className="tiy__bd">
                                         <Button href="https://ncx.cx/wallet" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                                        <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                                     </div>
                                     <div className="pla__img gf__grthbh">
                                         <video 
@@ -328,7 +322,7 @@ function Indices5()
                                     <p>{t("ncx_c_trader_app_text")}</p>
                                     <div className="tiy__bd">
                                         <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                                        <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                                     </div>
                                     <div className="pho__img">
                                         <video 
@@ -378,7 +372,7 @@ function Indices5()
                                     </p>
                                     <div className="tiy__bd">
                                         <Button href="https://dex.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
-                                        <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                                     </div>
                                     <div className="pla__img">
                                         <img src={NCXCrossDex} alt="ncx_platform" />
@@ -394,7 +388,7 @@ function Indices5()
                                     <p>{t("ncx_c_trader_web_text")}</p>
                                     <div className="tiy__bd">
                                         <Button href="https://trade.ncx.cx/" target="_blank" rel="noreferrer" className="download">{t("launch")}</Button>
-                                        <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                                     </div>
                                     <div className="pla__img">
                                         <img src={Laptop3} alt="ncx_platform" />
@@ -410,7 +404,7 @@ function Indices5()
                                     <p>{t("home_c_trade_window_text")}</p>
                                     <div className="tiy__bd">
                                         <Button href="https://ncx.cx/derivatives" target="_blank" rel="noreferrer" className="download">{t("view")}</Button>
-                                        <Button href="https://my.ncx.cx/en/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
+                                        <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sign__up">{t("sign_up")}</Button>
                                     </div>
                                     <div className="pla__img">
                                         <img src={Device1} alt="ncx_platform" />

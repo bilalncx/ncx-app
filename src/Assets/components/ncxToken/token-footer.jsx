@@ -25,7 +25,7 @@ function MyFooter()
                         <h1>{t("products")}</h1>
                         <ul className="ul-one">
                             <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
-                            <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
+                            <li><a href="https://exchange.ncx.cx/trade">{t("spot_trading")}</a></li>
                             <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
                             <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
@@ -57,7 +57,7 @@ function MyFooter()
                             <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
                             <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                             <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
-                            <li><a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("support")}</a></li>
+                            <li><a href="https://exchange.ncx.cx/support" target="_blank" rel="noreferrer">{t("support")}</a></li>
                             <li><a href="https://ncx.cx/about-us">{t("about_us")}</a></li>
                             <li><a href="https://ncx.cx/market-insights">{t("media_press")}</a></li>
                         </ul>
@@ -130,7 +130,7 @@ function MyFooter()
                     <ul>
                         <h1>{t("products")}</h1>
                         <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
-                        <li><a href="https://trade.ncx.cx/">{t("spot_trading")}</a></li>
+                        <li><a href="https://exchange.ncx.cx/trade">{t("spot_trading")}</a></li>
                         <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
                         <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
@@ -150,7 +150,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx/ncx-otc">{t("otc")}</a></li>
                         <li><a href="https://ncx.cx/ncx-ambassador">{t("ncx_ambassador")}</a></li>
                         <li><a href="https://ncx.cx/faq">{t("faq")}</a></li>
-                        <li><a href="https://my.ncx.cx/en/helpdesk/chat" target="_blank" rel="noreferrer">{t("support")}</a></li>
+                        <li><a href="https://exchange.ncx.cx/support" target="_blank" rel="noreferrer">{t("support")}</a></li>
                         <li><a href="https://ncx.cx/about-us">{t("about_us")}</a></li>
                         <li><a href="https://ncx.cx/market-insights">{t("media_press")}</a></li>
                     </ul>
