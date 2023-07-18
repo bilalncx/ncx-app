@@ -146,12 +146,12 @@ function WhatweDoSection(){
                                         <span>Ali Pay</span>
                                     </div>
                                     <div className="bullets">
-                                        <span>>16 Payment Methods</span>
-                                        <span>>200 Cryptocurrencies</span>
+                                        <span>16 Payment Methods</span>
+                                        <span>200 Cryptocurrencies</span>
                                     </div>
                                     <div className="bullets">
-                                        <span>>95 Fiat Currencies</span>
-                                        <span>>180 Countries</span>
+                                        <span>95 Fiat Currencies</span>
+                                        <span>180 Countries</span>
                                     </div>
                                     <p className="pro-desc">Buy Crypto in just a few clicks on NCX</p>
                                     <div className="prod-butns">

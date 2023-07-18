@@ -86,41 +86,41 @@ function Indices7()
     return(
         <div className="global__mart">
             <div className="container">
-                <h1 className="fg__rer">Get everything you need to take on global markets</h1>
+                <h1 className="fg__rer">{t("get_everything_you_need_to_take_on_global_markets")}</h1>
                 <div className="global__row row">
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_1_tqlnl1.png" alt="global"/>
-                        <h2>Lowest fees <span>in Industry</span></h2>
-                        <p>Benefit from leading market 
-                            <span>prices, Stake NCXT and get</span>
-                            <span>Trading Fees rebates of up to</span>
-                            <span>90% across all asset classes.</span>
+                        <h2>{t("lowest_fees")} <span>{t("in_industry")}</span></h2>
+                        <p>{t("benefit_from_leading_market")} 
+                            <span>{t("prices_stake_ncxt_and_get")}</span>
+                            <span>{t("trading_fees_rebate_of_up_to")}</span>
+                            <span>{t("90_across_all_asset_classes")}</span>
                         </p>
                     </div>
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_2_zcqait.png" alt="global"/>
-                        <h2>True multi asset <span>Platform</span></h2>
-                        <p>Trade Financial Markets 
-                            <span>globally with access to 7</span>
-                            <span>asset classes at the most</span>
-                            <span>favourable conditions.</span>
+                        <h2>{t("true_multi_asset")} <span>{t("platform")}</span></h2>
+                        <p>{t("trade_financial_markets")} 
+                            <span>{t("globally_with_access_to")}</span>
+                            <span>{t("asset_classes_at_the_most")}</span>
+                            <span>{t("favourable_conditions")}</span>
                         </p>
                     </div>
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_4_sj9yvt.png" alt="global"/>
-                        <h2>24/7 Support in <span>multiple languages</span></h2>
-                        <p>Take advantage of our live 
-                            <span>Customer Support team,</span>
-                            <span>24/7/365 at your service</span>
+                        <h2>{t("24_7_support_in")} <span>{t("multiple_languages")}</span></h2>
+                        <p>{t("take_advantage_of_our_live")} 
+                            <span>{t("customer_support_team")}</span>
+                            <span>{t("24_7_365_at_your_service")}</span>
                         </p>
                     </div>
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_3_vdjico.png" alt="global"/>
-                        <h2>Fast Order <span>Execution</span></h2>
-                        <p>Low latency fibre optic and
-                            <span>Equinix NY4 Server</span>
-                            <span>Average execution speeds of</span>
-                            <span>under 40ms</span>
+                        <h2>{t("fast_order")} <span>{t("execution")}</span></h2>
+                        <p>{t("low_latency_fibre_optic_and")}
+                            <span>{t("equinix_ny4_server")}</span>
+                            <span>{t("average_execution_speeds_of")}</span>
+                            <span>{t("under_40ms")}</span>
                         </p>
                     </div>
                 </div>
@@ -142,32 +142,32 @@ function Indices7()
                             <Slide index={0}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_1_tqlnl1.png" alt="global"/>
-                                    <h2>Lowest fees <span>in Industry</span></h2>
-                                    <p>Benefit from leading market 
-                                        <span>prices, Stake NCXT and get</span>
-                                        <span>Trading Fees rebates of up to</span>
-                                        <span>90% across all asset classes.</span>
+                                    <h2>{t("lowest_fees")} <span>{t("in_industry")}</span></h2>
+                                    <p>{t("benefit_from_leading_market")} 
+                                         <span>{t("prices_stake_ncxt_and_get")}</span>
+                                        <span>{t("trading_fees_rebate_of_up_to")}</span>
+                                        <span>{t("90_across_all_asset_classes")}</span>
                                     </p>
                                 </div>
                             </Slide>
                             <Slide index={1}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_2_zcqait.png" alt="global"/>
-                                    <h2>True multi asset <span>Platform</span></h2>
-                                    <p>Trade Financial Markets 
-                                        <span>globally with access to 7</span>
-                                        <span>asset classes at the most</span>
-                                        <span>favourable conditions.</span>
+                                    <h2>{t("true_multi_asset")} <span>{t("platform")}</span></h2>
+                                  <p>{t("trade_financial_markets")} 
+                                           <span>{t("globally_with_access_to")}</span>
+                                           <span>{t("asset_classes_at_the_most")}</span>
+                                           <span>{t("favourable_conditions")}</span>
                                     </p>
                                 </div>
                             </Slide>
                             <Slide index={2}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_4_sj9yvt.png" alt="global"/>
-                                    <h2>24/7 Support in <span>multiple languages</span></h2>
-                                    <p>Take advantage of our live 
-                                        <span>Customer Support team,</span>
-                                        <span>24/7/365 at your service</span>
+                                    <h2>{t("24_7_support_in")} <span>{t("multiple_languages")}</span></h2>
+                                       <p>{t("take_advantage_of_our_live")} 
+                                             <span>{t("customer_support_team")}</span>
+                                             <span>{t("24_7_365_at_your_service")}</span>
                                     </p>
                                 </div>
                             </Slide>
@@ -175,11 +175,11 @@ function Indices7()
                             <Slide index={3}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/global_3_vdjico.png" alt="global"/>
-                                    <h2>Fast Order <span>Execution</span></h2>
-                                    <p>Low latency fibre optic and
-                                        <span>Equinix NY4 Server</span>
-                                        <span>Average execution speeds of</span>
-                                        <span>under 40ms</span>
+                                    <h2>{t("fast_order")} <span>{t("execution")}</span></h2>
+                                     <p>{t("low_latency_fibre_optic_and")}
+                                          <span>{t("equinix_ny4_server")}</span>
+                                          <span>{t("average_execution_speeds_of")}</span>
+                                          <span>{t("under_40ms")}</span>
                                     </p>
                                 </div>
                             </Slide>
