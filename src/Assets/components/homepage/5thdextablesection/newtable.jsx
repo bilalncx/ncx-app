@@ -282,7 +282,7 @@ function NewFeatureSection()
                                 <WhiteTick />
                             </div>
                             <h3>{t("low")}</h3>
-                            <h3 className="hh__qa">{t("user_freindly")}</h3>
+                            <h3 className="hh__qa">{t("user_friendly")}</h3>
                             <h3 className="hh__qa">{t("low")}</h3>
                             <h3 className="hh__qa">{t("high")}</h3>
                             <h3 className="hh__qa">{t("low")}</h3>
