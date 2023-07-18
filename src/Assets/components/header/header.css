@@ -504,7 +504,7 @@ a.header-more{
     bottom: auto;
     border-radius: 8px;
     cursor: pointer;
-    min-width: 180px;
+    min-width: 120px;
 }
 .language-box {
     padding: 16px 0 0px 0px;
