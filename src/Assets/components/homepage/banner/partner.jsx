@@ -15,15 +15,17 @@ import Partner12 from '../../../images/thegraph.png';
 import Partner13 from '../../../images/master_card.png';
 import Partner14 from '../../../images/fantom.png';
 import Partner15 from '../../../images/enjin.png';
+import { useTranslation } from "react-i18next";
 // import Partner16 from '../../../images/aws_partner.png';
 
 
 function HomeMobilePartner()
 {
+    const { t } = useTranslation();
     return(
         <div className="mb__partner">
             <div className="inner__vv">
-                <h2 className="partnership">Partnerships</h2>
+                <h2 className="partnership">{t("partnerships")}</h2>
                 <div className="sliders-wrap">
                     <div className="rooted">
                         <div className="scroll">

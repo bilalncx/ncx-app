@@ -5,59 +5,61 @@ import { ReactComponent as InfoIcon } from '../../../images/info-circle-grey.svg
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import { ReactComponent as CardLeftArrow } from '../../../images/card_leftarrow.svg';
 import { ReactComponent as CardRightArrow } from '../../../images/card_rightarrow.svg';
+import { useTranslation } from "react-i18next";
 
 function NCXCardRanges()
 {
+    const { t } = useTranslation();
     return(
         <div id="compare-cards" className="range_cards">
             <div className="container">
-                <h1 className="rnag_gg">NCX Card Range</h1>
+            <h1 className="rnag_gg">{t("ncx_card_range")}</h1>
                 <div className="card_bt">
                     <div className="vwexx">
                         <div className="qwrc"></div>
                         <div className="qwrc">
                             <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card4_keteg6.png" alt="ncx-card"/>
-                            <p>Select Card</p>
+                            <p>{t("select_card")}</p>
                         </div>
                         <div className="qwrc">
                             <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card5_cmrw2c.png" alt="ncx-card"/>
-                            <p>Gold Card</p>
+                            <p>{t("gold_card")}</p>
                         </div>
                         <div className="qwrc">
                             <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card3_mibabk.png" alt="ncx-card"/>
-                            <p>Platinum Card</p>
+                            <p>{t("plantinum_card")}</p>
                         </div>
                         <div className="qwrc">
                             <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card2_zcdgg0.png" alt="ncx-card"/>
-                            <p>Black Card</p>
+                            <p>{t("black_card")}</p>
                         </div>
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Price</p>
-                            <span>Staked NCXT Required</span>
+                            <p>{t("price")}</p>
+                            <span>{t("staked_ncxt_required")}</span>
                         </div>
                         <div className="qwrc">
-                            <p>Free</p>
+                            <p>{t("free")}</p>
                             <p className="cwee">100,000 NCXT</p>
                         </div>
                         <div className="qwrc">
-                            <p>Free</p>
+                            <p>{t("free")}</p>
                             <p className="cwee">400,000 NCXT</p>
                         </div>
                         <div className="qwrc">
-                            <p>Free</p>
+                            <p>{t("free")}</p>
                             <p className="cwee">1,000,000 NCXT</p>
                         </div>
                         <div className="qwrc">
-                            <p>Free</p>
+                            <p>{t("free")}</p>
                             <p className="cwee">5,000,000 NCXT</p>
                         </div>
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Card Payment Limits</p>
-                            <span>Per calendar month</span>
+                            <p>{t("card_payment_limits")}</p>
+                            <span>{t("per_calendar_month")}</span>
                         </div>
                         <div className="qwrc">
                             <p>$15,000</p>
@@ -74,8 +76,8 @@ function NCXCardRanges()
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Cash Withdrawal Limits</p>
-                            <span>Per calendar month</span>
+                        <p>{t("cash_withdrawal_limits")}</p>
+                            <span>{t("per_calendar_month")}</span>
                         </div>
                         <div className="qwrc">
                             <p>$2,500</p>
@@ -92,8 +94,8 @@ function NCXCardRanges()
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Cash Withdrawals Included</p>
-                            <span>Then $2 excl. VAT per withdrawal</span>
+                        <p>{t("cash_withdrawals_included")}</p>
+                            <span>{t("then_$2_excl_vat_per_withdrawal")}</span>
                         </div>
                         <div className="qwrc">
                             <p>0</p>
@@ -110,7 +112,7 @@ function NCXCardRanges()
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Free Netflix Subscription</p>
+                        <p>{t("free_netflix_subscription")}</p>
                             <span><InfoIcon /></span>
                         </div>
                         <div className="qwrc">
@@ -128,7 +130,7 @@ function NCXCardRanges()
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Free Spotify Subscription</p>
+                        <p>{t("free_spotify_subscription")}</p>
                             <span><InfoIcon /></span>
                         </div>
                         <div className="qwrc">
@@ -146,7 +148,7 @@ function NCXCardRanges()
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Concierge Service & Lounge Access</p>
+                        <p>{t("concierge_service_lounge_access")}</p>
                             <span><InfoIcon /></span>
                         </div>
                         <div className="qwrc">
@@ -164,7 +166,7 @@ function NCXCardRanges()
                     </div>
                     <div className="vwexx">
                         <div className="qwrc fcisc">
-                            <p>Compatible with Apple Pay, Google Pay </p>
+                        <p>{t("compatible_with_apple_pay_google_pay")} </p>
                         </div>
                         <div className="qwrc">
                             <WhiteTick />
@@ -207,25 +209,25 @@ function NCXCardRanges()
                             <Slide index={0} className="yuio">
                                 <div className="qwrc">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card4_keteg6.png" alt="ncx-card"/>
-                                    <p>Select Card</p>
+                                    <p>{t("select_card")}</p>
                                 </div>
 
                                 <div className="mjhgf">
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Price</p>
-                                            <span>Staked NCXT Required</span>
+                                           <p>{t("price")}</p>
+                                            <span>{t("staked_ncxt_required")}</span>
                                         </div>
                                         <div className="tujhg">
-                                            <p>Free</p>
+                                            <p>{t("free")}</p>
                                             <span className="cwee">100,000 NCXT</span>
                                         </div>
                                     </div>
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Card Payment Limits</p>
-                                            <span>Per calendar month</span>
+                                            <p>{t("card_payment_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$15,000</p>
@@ -234,8 +236,8 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawal Limits</p>
-                                            <span>Per calendar month</span>
+                                           <p>{t("cash_withdrawal_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$2,500</p>
@@ -244,8 +246,8 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawals Included</p>
-                                            <span>Then $2 excl. VAT per withdrawal</span>
+                                          <p>{t("cash_withdrawals_included")}</p>
+                                            <span>{t("then_$2_excl_vat_per_withdrawal")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>0</p>
@@ -254,7 +256,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Netflix Subscription</p>
+                                        <p>{t("free_netflix_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -264,7 +266,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Spotify Subscription</p>
+                                        <p>{t("free_spotify_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -274,7 +276,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Concierge Service & Lounge Access</p>
+                                        <p>{t("concierge_service_lounge_access")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -284,7 +286,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Compatible with Apple Pay, Google Pay </p>
+                                        <p>{t("compatible_with_apple_pay_google_pay")} </p>
                                         </div>
                                         <div className="tujhg">
                                             <WhiteTick />
@@ -296,24 +298,24 @@ function NCXCardRanges()
                             <Slide index={1} className="yuio">
                                 <div className="qwrc">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card5_cmrw2c.png" alt="ncx-card"/>
-                                    <p>Gold Card</p>
+                                    <p>{t("gold_card")}</p>
                                 </div>
                                 <div className="mjhgf">
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Price</p>
-                                            <span>Staked NCXT Required</span>
+                                        <p>{t("price")}</p>
+                                            <span>{t("staked_ncxt_required")}</span>
                                         </div>
                                         <div className="tujhg">
-                                            <p>Free</p>
+                                        <p>{t("free")}</p>
                                             <span className="cwee">400,000 NCXT</span>
                                         </div>
                                     </div>
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Card Payment Limits</p>
-                                            <span>Per calendar month</span>
+                                        <p>{t("card_payment_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$35,000</p>
@@ -322,8 +324,8 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawal Limits</p>
-                                            <span>Per calendar month</span>
+                                        <p>{t("cash_withdrawal_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$5,000</p>
@@ -332,8 +334,8 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawals Included</p>
-                                            <span>Then $2 excl. VAT per withdrawal</span>
+                                        <p>{t("cash_withdrawals_include")}</p>
+                                            <span>{t("then_$2_excl_vat_per_withdrawal")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>5</p>
@@ -342,7 +344,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Netflix Subscription</p>
+                                        <p>{t("free_netflix_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -352,7 +354,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Spotify Subscription</p>
+                                        <p>{t("free_spotify_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -362,7 +364,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Concierge Service & Lounge Access</p>
+                                        <p>{t("concierge_service_lounge_access")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -372,7 +374,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Compatible with Apple Pay, Google Pay </p>
+                                        <p>{t("compatible_with_apple_pay_google_pay")} </p>
                                         </div>
                                         <div className="tujhg">
                                             <WhiteTick />
@@ -384,24 +386,24 @@ function NCXCardRanges()
                             <Slide index={2} className="yuio">
                                 <div className="qwrc">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card3_mibabk.png" alt="ncx-card"/>
-                                    <p>Platinum Card</p>
+                                    <p>{t("plantinum_card")}</p>
                                 </div>
                                 <div className="mjhgf">
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Price</p>
-                                            <span>Staked NCXT Required</span>
+                                        <p>{t("price")}</p>
+                                            <span>{t("staked_ncxt_required")}</span>
                                         </div>
                                         <div className="tujhg">
-                                            <p>Free</p>
+                                        <p>{t("free")}</p>
                                             <span className="cwee">1,000,000 NCXT</span>
                                         </div>
                                     </div>
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Card Payment Limits</p>
-                                            <span>Per calendar month</span>
+                                        <p>{t("card_payment_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$75,000</p>
@@ -410,8 +412,8 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawal Limits</p>
-                                            <span>Per calendar month</span>
+                                        <p>{t("cash_withdrawal_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$10,000</p>
@@ -420,8 +422,8 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawals Included</p>
-                                            <span>Then $2 excl. VAT per withdrawal</span>
+                                        <p>{t("cash_withdrawals_included")}</p>
+                                            <span>{t("then_$2_excl_vat_per_withdrawal")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>10</p>
@@ -430,7 +432,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Netflix Subscription</p>
+                                        <p>{t("free_netflix_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -440,7 +442,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Spotify Subscription</p>
+                                        <p>{t("free_spotify_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -450,7 +452,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Concierge Service & Lounge Access</p>
+                                        <p>{t("concierge_service_lounge_access")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -460,7 +462,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Compatible with Apple Pay, Google Pay </p>
+                                        <p>{t("compatible_with_apple_pay_google_pay")}</p>
                                         </div>
                                         <div className="tujhg">
                                             <WhiteTick />
@@ -472,24 +474,24 @@ function NCXCardRanges()
                             <Slide index={3} className="yuio">
                                 <div className="qwrc">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689414941/ncx-card2_zcdgg0.png" alt="ncx-card"/>
-                                    <p>Black Card</p>
+                                    <p>{t("black_card")}</p>
                                 </div>
                                 <div className="mjhgf">
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Price</p>
-                                            <span>Staked NCXT Required</span>
+                                            <p>{t("price")}</p>
+                                            <span>{t("staked_ncxt_required")}</span>
                                         </div>
                                         <div className="tujhg">
-                                            <p>Free</p>
+                                        <p>{t("free")}</p>
                                             <span className="cwee">5,000,000 NCXT</span>
                                         </div>
                                     </div>
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Card Payment Limits</p>
-                                            <span>Per calendar month</span>
+                                            <p>{t("card_payment_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$150,000</p>
@@ -498,8 +500,8 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawal Limits</p>
-                                            <span>Per calendar month</span>
+                                        <p>{t("cash_withdrawal_limits")}</p>
+                                            <span>{t("per_calendar_month")}</span>
                                         </div>
                                         <div className="tujhg">
                                             <p>$20,000</p>
@@ -508,17 +510,17 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Cash Withdrawals Included</p>
-                                            <span>Then $2 excl. VAT per withdrawal</span>
+                                        <p>{t("cash_withdrawals_included")}</p>
+                                            <span>{t("then_$2_excl_vat_per_withdrawal")}</span>
                                         </div>
                                         <div className="tujhg">
-                                            <p>unlimited</p>
+                                        <p>{t("unlimited")}</p>
                                         </div>
                                     </div>
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Netflix Subscription</p>
+                                        <p>{t("free_netflix_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -528,7 +530,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Free Spotify Subscription</p>
+                                        <p>{t("free_spotify_subscription")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -538,7 +540,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Concierge Service & Lounge Access</p>
+                                        <p>{t("concierge_service_lounge_access")}</p>
                                             <InfoIcon />
                                         </div>
                                         <div className="tujhg">
@@ -548,7 +550,7 @@ function NCXCardRanges()
 
                                     <div className="ytrew">
                                         <div className="vyth">
-                                            <p>Compatible with Apple Pay, Google Pay </p>
+                                        <p>{t("compatible_with_apple_pay_google_pay")} </p>
                                         </div>
                                         <div className="tujhg">
                                             <WhiteTick />

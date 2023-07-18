@@ -1,9 +1,11 @@
 import React from "react";
 // import CardMainVideo from '../../../images/new-cardvideo.mp4';
 import Button from "@mui/material/Button";
+import { useTranslation } from "react-i18next";
 
 function CardNewPageFirst()
 {
+    const { t } = useTranslation();
     return(
         <div className="berv_vwe">
             <div className="bf_vdo">
@@ -22,11 +24,11 @@ function CardNewPageFirst()
                     <div className="vcsd">
                         <div className="bve">
                             <h1>NCX Crypto Debit Card Pay for every day purchases with Crypto</h1>
-                            <h2 className="za__uj">NCX Crypto Debit Card</h2>
-                            <p>NCX Crypto Card pushes your payment limits higher and your options wider. Enjoy the premium experience and pay for every day purchases using card, funded by your Crypto assets 24/7/365, Globally.</p>
+                            <h2 className="za__uj">{t("ncx_token_utility_features_heading5")}</h2>
+                            <p>{t("mobile_crypto_debit_card_text")}</p>
                             <div className="bewec">
-                                <Button href="#" className="wec">Open an Account</Button>
-                                <Button href="#compare-cards" className="dwc">Compare Cards</Button>
+                                <Button href="#" className="wec">{t("open_an_account")}</Button>
+                                <Button href="#compare-cards" className="dwc">{t("compare_card")}</Button>
                             </div>
                         </div>
                     </div>

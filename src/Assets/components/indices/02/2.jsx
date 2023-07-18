@@ -13,27 +13,27 @@ function Indices2()
                 <div className="row inn__vmm__az">
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/financial-mart_h0lauq.png" alt="ncx" />
-                        <h3>Financial Market</h3>
-                        <p>Trade 200 Stocks, World Indices & ETFs across core and emerging markets.</p>
-                        <strong>Spreads as low as 0.5 on the US 500.</strong>
+                        <h3>{t("financial_market")}</h3>
+                        <p>{t("trade_200_stocks_world_indices_&_etfs_across_core_and_emerging_markets")}</p>
+                        <strong>{t("spreads_as_low_as_0.5_on_the_us_500")}</strong>
                     </div>
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/crypt_deri_grloud.png" alt="ncx" />
-                        <h3>Crypto Derivatives</h3>
-                        <p>Go long or short on over 150 pairs, take advantage of any market conditions.</p>
-                        <strong>Trade Crypto Derivatives with up to 100x Leverage.</strong>
+                        <h3>{t("Crypto_derivatives")}</h3>
+                        <p>{t("go_long_or_short_on_over_150_pairs_take_advantage_of_any_market_conditions")}.</p>
+                        <strong>{t("trade_crypto_derivatives_with_up_to_100x_leverage.")}</strong>
                     </div>
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/forex-min_bdcyds.png" alt="ncx" />
-                        <h3>Forex</h3>
-                        <p>Trade 170 Foreign Exchange Market pairs across majors, minors, and exotics.</p>
-                        <strong>Tight spreads from 0.1 pips on EUR/USD.</strong>
+                        <h3>{t("forex")}</h3>
+                        <p>{t("trade_170_foreign_exchange_market_pairs_across_majors_minors_and_exotics")}.</p>
+                        <strong>{t("tight_spreads_from_0.1_pips_on_eur/usd")}</strong>
                     </div>
                     <div className="col">
                         <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/metals-min_q2d7oi.png" alt="ncx"/>
-                        <h3>Metals & Commodities</h3>
-                        <p>Trade most popular commodities including energies and metals.</p>
-                        <strong>Spreads as low as 0.04 on Brent Crude.</strong>
+                        <h3>{t("metals_&_commodities")}</h3>
+                        <p>{t("trade_most_popular_commodities_including_energies_and_metals")}.</p>
+                        <strong>{t("spreads_as_low_as_0.04_on_brent_crude.")}</strong>
                     </div>
                 </div>
 
@@ -54,34 +54,34 @@ function Indices2()
                             <Slide index={0}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/financial-mart_h0lauq.png" alt="ncx" />
-                                    <h3>Financial Market</h3>
-                                    <p>Trade 200 Stocks, World Indices & ETFs across core and emerging markets.</p>
-                                    <strong>Spreads as low as 0.5 on the US 500.</strong>
+                                    <h3>{t("financial_market")}</h3>
+                                    <p>{t("trade_200_stocks_world_indices_&_etfs_across_core_and_emerging_markets")}</p>
+                                    <strong>{t("spreads_as_low_as_0.5_on_the_us_500")}</strong>
                                 </div>
                             </Slide>
                             <Slide index={1}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/crypt_deri_grloud.png" alt="ncx" />
-                                    <h3>Crypto Derivatives</h3>
-                                    <p>Go long or short on over 150 pairs, take advantage of any market conditions.</p>
-                                    <strong>Trade Crypto Derivatives with up to 100x Leverage.</strong>
+                                    <h3>{t("Crypto_derivatives")}</h3>
+                                    <p>{t("go_long_or_short_on_over_150_pairs_take_advantage_of_any_market_conditions")}.</p>
+                                    <strong>{t("trade_crypto_derivatives_with_up_to_100x_leverage.")}</strong>
                                 </div>
                             </Slide>
                             <Slide index={2}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498113/forex-min_bdcyds.png" alt="ncx" />
-                                    <h3>Forex</h3>
-                                    <p>Trade 170 Foreign Exchange Market pairs across majors, minors, and exotics.</p>
-                                    <strong>Tight spreads from 0.1 pips on EUR/USD.</strong>
+                                    <h3>{t("forex")}</h3>
+                                    <p>{t("trade_170_foreign_exchange_market_pairs_across_majors_minors_and_exotics")}.</p>
+                                    <strong>{t("tight_spreads_from_0.1_pips_on_eur/usd")}</strong>
                                 </div>
                             </Slide>
 
                             <Slide index={3}>
                                 <div className="col">
                                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689498114/metals-min_q2d7oi.png" alt="ncx"/>
-                                    <h3>Metals & Commodities</h3>
-                                    <p>Trade most popular commodities including energies and metals.</p>
-                                    <strong>Spreads as low as 0.04 on Brent Crude.</strong>
+                                    <h3>{t("metals_&_commodities")}</h3>
+                                    <p>{t("trade_most_popular_commodities_including_energies_and_metals")}.</p>
+                                    <strong>{t("spreads_as_low_as_0.04_on_brent_crude.")}</strong>
                                 </div>
                             </Slide>
                         </Slider>

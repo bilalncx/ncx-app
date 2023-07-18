@@ -1,7 +1,9 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 function IntegrationPlay()
 {
+    const { t } = useTranslation();
     return(
         <div className="integr__pla">
             <div className="container">
@@ -18,23 +20,23 @@ function IntegrationPlay()
                         </video>
                     </div>
                     <div className="tjmnh">
-                        <h1>Integrated Apple Pay and Google Pay</h1>
+                    <h1>{t("integrated_applepay_googlepay")}</h1>
                         <div className="hyf__gg">
                             <div className="fvdd">
-                                <h3>For your in-store payments</h3>
-                                <p>With Apple Pay & Google Pay, there’s no need to dig for your cards—you can pay quickly and easily with the device that’s already in your hand.</p>
+                            <h3>{t("four_your_in_store_payments")}</h3>
+                                <p>{t("four_your_in_store_payments_text")}</p>
                             </div>
                             <div className="fvdd">
-                                <h3>Encrypted and secured</h3>
-                                <p>With multiple layers of security, using one of the world’s most advanced security infrastructures to help keep your account safe.</p>
+                            <h3>{t("encrypted_and_secured")}</h3>
+                                <p>{t("encrypted_and_secured_text")}</p>
                             </div>
                             <div className="fvdd">
-                                <h3>For your online payments</h3>
-                                <p>Pay for your purchases in one click on your favourite applications or websites with just a click using Apple Pay and Google Pay. It's fast and secure!</p>
+                            <h3>{t("for_your_online_payments")}</h3>
+                                <p>{t("for_your_online_payments_text")}</p>
                             </div>
                             <div className="fvdd">
-                                <h3>Pay securely with your device</h3>
-                                <p>Apple Pay / Google Pay doesn’t send your actual card number with your payment. We use an encrypted virtual account number instead.</p>
+                            <h3>{t("pay_securely_with_your_device")}</h3>
+                                <p>{t("pay_securely_with_your_device_text")}</p>
                             </div>
                         </div>
                     </div>
