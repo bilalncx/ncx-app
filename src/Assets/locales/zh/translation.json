@@ -1369,6 +1369,8 @@
   "10_chains_with_ncx_cross_chain_dex": "10条带有NCX跨链DEX的链。",
   "view": "看法",
   "launch": "发射",
+  "new_user_must_complete_at_least_one_purchase": "推荐用户必须下载 APP、完成 KYC、在 Twitter 和 Telegram 上关注 NCX 才能获得 1,000 NCXT 推荐奖金",
+  "referred_user_must_complete_at_least_one_purchase_transaction": "推荐用户必须下载 APP、完成 KYC、在 Twitter 和 Telegram 上关注 NCX 才能获得 1,000 NCXT 推荐奖金",
 
   "******************************************************************************** New Wallet page ********************************************************************************": "",
    

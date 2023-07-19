@@ -1369,6 +1369,8 @@
   "10_chains_with_ncx_cross_chain_dex": "10 Chuỗi với DEX chuỗi chéo NCX.",
   "view": "Xem",
   "launch": "Phóng",
+  "new_user_must_complete_at_least_one_purchase": "Người dùng mới phải Tải xuống ứng dụng, hoàn thành KYC, theo dõi NCX trên Twitter & Telegram để nhận 4.000 NCXT",
+  "referred_user_must_complete_at_least_one_purchase_transaction": "Người dùng được giới thiệu phải Tải xuống ứng dụng, hoàn thành KYC, theo dõi NCX trên Twitter & Telegram để nhận 1.000 tiền thưởng giới thiệu NCXT",
 
   "******************************************************************************** New Wallet page ********************************************************************************": "",
    
