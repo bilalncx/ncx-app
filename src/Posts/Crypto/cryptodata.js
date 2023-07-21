@@ -1,5 +1,81 @@
 const data = [
   {
+    id: 618,
+    title: 'Bitcoin loses grip on US$30,000 as profit-taking kicks in; XRP gains as other top 10 crypto fall',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'XRP', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin slipped under US$30,000 in Wednesday morning trading in Asia on the back of profit-taking and liquidation of long positions after the recent run up on optimism spot exchange-traded funds for the token may win approval and attract institutional investment.</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:01 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689848973/ncx-blog-902_yvoscf.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin slipped under US$30,000 in Wednesday morning trading in Asia on the back of profit-taking and liquidation of long positions after the recent run up on optimism spot exchange-traded funds for the token may win approval and attract institutional investment.</p>
+    	<p>Ether and most other top 10 non-stablecoin cryptocurrencies also declined in lower trading volume. Ripple’s XRP token was the exception, gaining almost 4% in early Asia trade as the tailwind continued from the company’s partial victory last week in the lawsuit brought by the U.S. securities regulator.</p>	
+    	<h3>Bitcoin, Ether retreat</h3>
+      <p>Bitcoin fell below the US$30,000 line that has offered floor support since late June and lost 2.46% for the week, according to data from CryptoMarketCap.  As of 06:40 a.m. in Hong Kong, the world’s biggest cryptocurrency traded at US$29,784.42, down 1.22% over the last 24 hours.</p>
+      <p>The token continued to fluctuate around the US$30,000 line later in the Asia morning as overall trading volume in cryptocurrencies fell more than 9% on the day.</p>	
+    	<p>Data from Coinglass showed large liquidations in long positions in Bitcoin, or bets that prices for the token would rise further.</p>
+      <p>Ether dropped 0.76% to US$1,898.40, though it is still logging a 1.15% gain for the week.</p>
+      <p>Investors seemed unimpressed by the U.S. Securities and Exchange Commission (SEC) agreeing on Monday to review the application by digital asset manager Valkyrie Investments Inc. to launch a Bitcoin Spot exchange-traded fund (ETF).</p>
+      <p>The SEC agreed the same for the application by BlackRock on July 13, which along with several other Bitcoin ETF applications set off a bullish run in crypto for the past month. BlackRock is the world’s largest asset manager with US$9.4 trillion in assets. Tennessee-based Valkyrie had more than US$1 billion in assets under management in 2022.</p>
+      <p>In more background noise for crypto markets later today, Brian Armstrong – the chief executive officer of Coinbase, the largest crypto exchange in the U.S. – is expected to sit down with Democratic members of Congress to discuss regulation of digital assets, according to Bloomberg.</p>
+      <p>The SEC sued Coinbase on June 6, claiming that the exchange breached federal securities laws by offering unregistered financial securities to investors. Armstrong and other Coinbase executives have said they will fight the SEC allegations in court.</p>
+      <p>The SEC on July 13 received a setback in another lawsuit, filed more than two years ago, against Ripple Labs, when a U.S. district court ruled that Ripple Labs’ programmatic sales of its XRP cryptocurrency did not qualify as offerings of financial securities.</p>
+      <p>The Ripple ruling is a “potential watershed” for the broader crypto market, wrote Robert Quartly-Janeiro, the chief strategy officer of Singapore-based crypto exchange Bitrue, in an email statement shared with Forkast Tuesday.</p>
+      <p>XRP was the only top 10 cryptocurrency to gain on Wednesday morning, adding 3.89% to US$0.7678, further extending its weekly surge of 61.26%.</p>
+      <p>Losses were led by Polygon’s Matic and Solana. Polygon dipped 5.81% to US$0.7363, falling 0.36% in the past seven days.</p>
+      <p>Solana lost 5.24% to US$25.33, but it’s holding gains of 15.01% for the week.</p>
+      <p>The total crypto market capitalization fell 0.50% in the past 24 hours to US$1.2 trillion, with trading volume dipping 9.49% to US$32.17 billion.</p>
+      <h3>NFT trade sinks toward yearly low</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>In the non-fungible token (NFT) market, the Forkast 500 NFT index fell 0.37% in the past 24 hours to 2,717.68 as of 07:45 a.m. in Hong Kong.</p>
+      <p>Total NFT trading volume fell 14.05% to US$17.83 million in the past 24 hours, according to data from CryptoSlam. Forkast NFT market indexes measuring the performance on Ethereum, Polygon and Cardano blockchains all dropped, while the Solana index rose.</p>
+      <p>“We’re on pace for another yearly low for total global transactions today, and in general, sales are pretty unremarkable across blockchains,” said Yehudah Petscher, NFT Strategist at Forkast Labs, the parent company of Forkast.News. “The top collections are struggling to even reach $500k in daily secondary sales, which is unusual to see. The index reflects a flat market.”</p>
+      <p>Ethereum-based Azuki NFT collection topped trading volume, rising 3.26% to US$972,691. Uncategorized Bitcoin Ordinals — unique digital assets on the Bitcoin network that are not identified as part of one established collection — ranked second in volume, gaining 5.05% to US$698,982.</p>
+      <p>Luxury brand Louis Vuitton launched new digital collectibles on Monday celebrating its Speedy 40 VIA bag, which was designed in collaboration with American singer-songwriter Pharrell.</p>
+      <p>“Each [owner] will be given access to exclusive digital products, each accompanied by its physical twin,” tweeted Gaspard Lézin, the NFT collection manager for Louis Vuitton, on Monday.</p>
+      <h3>U.S. futures flat; CME predicts 99.8% chance of Fed rate hike</h3>
+      <p>U.S. stock futures traded flat as of 10:20 a.m. in Hong Kong after all three major U.S. indexes gained during regular trading on Tuesday.</p>
+      <p>In Asia, Japan’s Nikkei 225 gained on the bullish U.S. market session that followed upbeat earnings reports from major corporations, according to Trading Economics.</p>
+      <p>However, most other Asian stock markets continued a downtrend after China reported lower-than-expected economic growth of 6.3% for Q2 on Monday. The Shanghai Composite fell for the third consecutive session. Hong Kong’s Hang Seng, and South Korea’s Kospi also posted losses as of 10:40 a.m. in Hong Kong.</p>
+      <p>U.S. financial heavyweights Bank of America Corp. and Morgan Stanley & Co. both beat analyst estimates in Q2 earnings, lifting investor sentiment. Later on Wednesday, Tesla, Netflix, United Airlines and Goldman Sachs Group all report earnings for Q2.</p>
+      <p>The CME FedWatch Tool predicts a 99.8% chance the Fed will raise interest rates by 25 basis points at the next meeting on July 26. U.S. interest rates are now at 5% to 5.25%, the highest since 2006.</p>
+    </div>
+  },
+  {
+    id: 617,
+    title: 'XRP’s 60% Weekly Gain Defies Broader Crypto Slump as Bitcoin Stalls Below $30K',
+    category: 'Crypto',
+    subCategory: ['XRP', 'Bitcoin', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Ripple’s XRP outperformed most cryptocurrencies Tuesday as the initial market-wide rally following last Thursday’s lawsuit ruling has seemingly fizzled out.</p>
+    </div>,
+    authorName: 'Krisztian Sandor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 1:48 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689849825/ncx-blog-903_w95j9r.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ripple’s XRP outperformed most cryptocurrencies Tuesday as the initial market-wide rally following last Thursday’s lawsuit ruling has seemingly fizzled out.</p>
+    	<p>The native token of the Ripple payment system was the best performer among the top 25 crypto assets over the last 24 hours, gaining 3.6%. XRP retook its place as the fourth largest digital asset by market value, toppling the embattled exchange giant Binance’s BNB token.</p>	
+    	<p>Bitcoin (BTC) and ether (ETH), the two largest crypto assets by market capitalization, are now each lower than their levels from last Thursday, both stuck below their psychologically important price levels at $30,000 and $1,900.</p>
+      <p>“The Ripple vs. SEC lawsuit did not generate a broader lasting rally in crypto,” David Lawant, head of research at institutional crypto exchange FalconX.</p>
+      <p>Though it’s given back some of last Thursday's gains, XRP was still up roughly 60% since the ruling. The CoinDesk Crypto Market Index (CMI), which tracks the performance of the broader digital asset market, meanwhile, gave up all of its Thursday advance, declining 0.5% over the same period.</p>
+      <p>Top altcoins such as Polygon’s MATIC, Solana’s SOL and Cardano’s ADA, which enjoyed sizable rallies last Thursday, completely reversed to the levels where they traded prior to the XRP ruling. MATIC and SOL are now down 5% over the week, while ADA dropped 2%.</p>
+      <p>While the rush to purchase XRP could well be mostly behind us, Lawant said, digital asset funds adding the token to their holdings could represent some buying pressure boosting its price.</p>	
+    	<p>“Index funds are one potential source of additional institutional flow I’m still watching,” he said.</p>
+      <p>“XRP has a market capitalization of more than 3.5x of ADA and SOL, typically the largest constituents outside of BTC and ETH, with a weight of little over 1%,” said Lawant. “If XRP is included in the underlying indexes, the asset could represent 4-5% of the composition of the top broad crypto indexes.”</p>
+    </div>
+  },
+  {
     id: 616,
     title: 'Ethereum’s YTD turns profits despite price fluctuations',
     category: 'Crypto',
@@ -143,6 +219,48 @@ const data = [
       <p>Gottlieb also added his own caveat that this is simply one decision from one district court that other courts could adopt or not follow.</p>
       <p>Specifically, Byrne says the court made an error when it concluded "programmatic" sales of XRP on exchanges were not investment contracts. In his view, it's "obvious to anyone active in the industry" that Ripple is the principal promoter of XRP, no matter whether the purchasers of the digital asset on exchanges were aware they were purchasing from Ripple.</p>
       <p>"My hope is that Congress will get its act together and decide that it’s time for cryptocurrency tokens and cryptocurrency exchanges to receive their own purpose-built disclosure and supervisory frameworks which will take cryptocurrency regulation out of the slow and contradictory hands of our courts, and the politically motivated hands of the SEC," wrote Byrne. "My expectations of Congress are, however, quite low."</p>
+    </div>
+  },
+  {
+    id: 613,
+    title: 'Weekly Market Wrap: Bitcoin rises past US$31,000, cryptos rally after Ripple’s win against U.S. SEC',
+    category: 'Crypto',
+    subCategory: ['Botcoin', 'Ripple', 'SEC'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose 3.46% from July 7 to July 14 to US$31,222 at 7:30 p.m. Friday in Hong Kong. The world’s largest cryptocurrency by market capitalization has been trading above the US$30,000 mark for the whole week. Ether rose 6.88% over the week to US$1,992.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 14, 2023 - 5:28 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689850151/ncx-blog-904_zjzcqq.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose 3.46% from July 7 to July 14 to US$31,222 at 7:30 p.m. Friday in Hong Kong. The world’s largest cryptocurrency by market capitalization has been trading above the US$30,000 mark for the whole week. Ether rose 6.88% over the week to US$1,992.</p>
+    	<p>In a major win for the crypto industry, U.S. District Court Judge Analisa Torres ruled on Thursday that Ripple Labs’ programmatic sales of its XRP cryptocurrency did not qualify as financial securities.</p>	
+    	<p>The decision followed a 30-month legal battle, offering crypto investors a boost of optimism, which pushed up Bitcoin to US$31,736 on Friday and Ether to US$2,022, a high for Ether since May 2022.</p>
+      <p>“Thursday’s landmark ruling that Ripple’s XRP tokens sold on exchanges weren’t securities has in part contributed to the boost in the price of Bitcoin, pushing it past the long-awaited US$31,000,” Lucas Kiely, the chief investment officer of digital asset platform Yield App, told Forkast, adding that further positive news from institutions will boost Bitcoin prices.</p>
+      <p>In other positive news, Europe’s first Bitcoin exchange-traded fund (ETF) is expected to be publicly listed this month, following a 12-month delay. The news came after a flurry of spot Bitcoin ETF applications in the U.S. from financial heavyweights such as BlackRock, WisdomTree and Fidelity Investments.</p>
+      <p>Similar positive catalysts will be needed to boost investor sentiment and maintain Bitcoin above US$31,000, according to Jonas Betz, crypto market analyst and founder of consultancy firm Betz Crypto.</p>
+      <p>“The approval of a Bitcoin ETF would be a major step towards mainstream acceptance of Bitcoin, signaling regulatory confidence and potentially paving the way for significant institutional investment. News like this could trigger a bullish market reaction, pushing Bitcoin above US$31,000,” wrote Betz, in a statement shared with Forkast.</p>
+      <p>Boston-based Circle Internet Financial Limited, the issuer of the USDC stablecoin, on Wednesday announced workforce reductions and investment in non-core activities to refocus its business. The exact number of layoffs is unknown.</p>
+      <p>Adding to investor concerns, market talk suggested that the Bank of America was closing customer accounts related to Coinbase. The exchange’s chief executive officer, Brian Armstrong, created a Twitter poll on Wednesday asking if any customers had their Bank of America accounts closed due to transactions with Coinbase. Some 8.9% of the respondents said yes, while 19.3% said no and the other 71.9% simply chose “show results.”</p>
+      <p>The next day, Barclays downgraded Coinbase’s stock, ahead of the exchange’s earnings release scheduled for August 3, according to the bank’s research report. On the upside, the bank raised its price target for Coinbase stock to US$70, from US$61.</p>
+      <p>In the macroeconomy, U.S. inflation fell to 3% in June, down from 4% in May, representing the slowest rate of inflation since March 2021.</p>
+      <p>Max Breus, the co-founder and chief executive officer of Ubix Network, a protocol that connects blockchains with different consensus mechanisms, said that macroeconomic developments are just as important for the crypto market as the actions of regulatory agencies.</p>
+      <p>“The situation in the main global markets, the stock market, the bond market, the Fed’s rate policy is very important for investor sentiment. If there is a downtrend in global markets, then the cryptocurrency market will also be under pressure. Spot Bitcoin ETF is an important factor, but it is only a financial instrument. Global factors are more important for investor sentiment,” wrote Breus, in a statement shared with Forkast.</p>
+      <p>The global crypto market capitalization stood at US$1.25 trillion on Friday at 7:30 p.m. in Hong Kong, up 6.83% from US$1.17 trillion a week ago, according to CoinMarketCap data. With a market cap of US$606 billion, Bitcoin represented 48.5% of the market while Ether, valued at US$239 billion, accounted for 19.2%.</p>
+      <h3>Notable Movers: XRP, XLM</h3>	
+      <p>The XRP token was this week’s biggest gainer among the top 100 coins, rising 72.16% to US$0.8036. XRP started its rally on Thursday, boosted by Ripple’s court win over the Securities and Exchange Commission.</p>
+      <p>The XLM token, the native crypto of the Stellar blockchain, was the week’s second-biggest gainer, up 57.57% to US$0.1515. The token started its rally on Thursday, in parallel with the XRP token, boosted by market-wide euphoria from the court ruling.</p>
+      <h3>Next week: Bitcoin needs to close above US$31,000 to pave way to US$32,500</h3>
+      <p>Next week, investors will attend the sixth edition of the Ethereum Community Conference (EthCC) in Paris, France, which is the largest Ethereum-themed convention in Europe.</p>
+      <p>On the macroeconomic front, the Federal Reserve is set to release its latest balance sheet on Thursday, showing the Fed’s assets and liabilities. Investors will also anticipate a Tuesday speech from the vice-chairman of the U.S. Federal Reserve, Michael Barr, for clues on the Fed’s upcoming monetary policy decisions.</p>
+      <p>Yield App’s Kiely said that Bitcoin needs to hold above US$30,500 to maintain its bullish momentum.</p>
+      <p>“July began with a steady upward trend. Bitcoin retook recent resistance levels of US$30,500 earlier this week. Staying above that level will be key if Bitcoin is to continue the bullish trend,” Kiely wrote.</p>
+      <p>Ubix Network’s Max Breus said that US$31,000 is a key level for Bitcoin investors to watch.</p>
+    	<p>“This is the high level of consolidation since June 20. If the weekly price closes above US$31,000, then next week has a high chance of moving to US$32,500,” wrote Breus.</p>
     </div>
   },
   {

@@ -1,6 +1,215 @@
 const data = [
   {
-    id: 577,
+    id: 584,
+    title: 'Oil & Gas Stock Roundup: Exxon Denbury Buyout, Shell Oil Find & More',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Gas', 'Shell'],
+    description: <div className="blog-desc">
+      <p>It was another week when oil prices moved up while natural gas futures marked a loss.</p>
+    </div>,
+    authorName: 'Nilanjan Choudhury',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 5:20 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689845730/ncx-blog-895_yedulx.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>It was another week when oil prices moved up while natural gas futures marked a loss.</p>
+	    <p>On the news front, the headlines came from energy biggie ExxonMobil’s XOM acquisition of carbon management expert Denbury Inc. and its European peer Shell’s SHEL oil find offshore Namibia. Developments associated with SLB SLB, BP plc BP and Ring Energy REI also made it to the headlines.</p>	
+	    <p>Overall, it was a mixed seven-day period for the sector. West Texas Intermediate (WTI) crude futures increased 2.1% to close at $75.42 per barrel but natural gas prices dropped 1.7% to end at $2.54 per million British thermal units (MMBtu).</p>	
+	    <p>In particular, the crude price action continued to be positive, with a steady decline in inflation rates and the Federal Reserve's decision to reduce the magnitude of interest rate hikes. A weaker greenback also supported the dollar-denominated commodity.</p>
+      <p>Meanwhile, natural gas found itself on the opposite side on forecasts of cooler-than-expected temperatures and therefore limiting air conditioning demand.</p>
+      <h3>Recap of the Week’s Most Important Stories</h3>
+      <p>1.  U.S. supermajor ExxonMobil has entered into an agreement to acquire oil producer Denbury Inc. for $4.9 billion. The move is part of ExxonMobil’s plan to enhance its transition to clean energy with a well-established carbon dioxide sequestration operation. The acquisition will provide XOM access to the biggest pipeline network in the United States.</p>
+      <p>Denbury exited bankruptcy in September 2020. The company’s main business is to churn out crude. The majority of DEN’s revenues are generated from enhanced oil recovery or injecting carbon dioxide into wells to extract more oil. Denbury is also an expert in carbon management. The acquisition gives ExxonMobil ready-made carbon dioxide transportation, allowing XOM to make carbon capture a profitable business.</p>
+      <p>Oil and gas companies are actively involved in carbon capture and storage (CCS) projects. These offer a transition pathway for the rapid and effective reduction of carbon dioxide emissions beyond what can be achieved by alternative methods like electrification and renewable fuels. (ExxonMobil Signs Deal to Acquire Denbury for $4.9B)</p>
+      <p>2. Shell, a leading global energy company, announced its fourth oil discovery offshore Namibia. The successful drilling has confirmed the presence of hydrocarbon, marking a milestone in the company's efforts to explore and leverage new oil resources.</p>
+      <p>The drilling operation by Shell, in collaboration with partners QatarEnergy and Namibia's national oil company, yielded positive results. Although further evaluation is required to determine the development potential of the discovered hydrocarbon, this recent achievement is a testament to SHEL’s expansion strategy in the region.</p>
+      <p>Namibia, located in southwestern Africa, has emerged as an attractive destination for offshore oil exploration and production. Shell's recent discoveries, including the Graff and La Rona wells and TotalEnergies' Venus prospect in France, have generated significant excitement in the industry. (Shell Makes Fourth Oil Discovery Offshore Namibia)</p>
+      <p>3.  U.S. oilfield service biggie SLB announced that it is halting all shipments of products and technology to Russia from all its operations due to the continuous expansion of Western sanctions. It was one of the few providers to continue working in the country's oil sector following Russia's invasion of Ukraine. With the most recent embargo, more countries are now subject to restrictions that have been in place since 2022.</p>
+      <p>Management stated that the company takes its responsibility to comply with export control and economic sanction laws quite seriously.  It also added that SLB remains aligned with the international community in condemning and calling for an end to the war in Ukraine. The Zacks Rank #3 (Hold) company said that the Russia ban now applies to all its worldwide operations and is not just restricted to the United Kingdom, the United States, the European Union and Canada.</p>
+      <p>In order to comply with Western prohibitions on the transfer of oil equipment and technology, SLB reportedly changed its business operations earlier this year, per media reports. As part of the transformation, employees in Russia were denied access to specific communications and software platforms, and the unit was walled off from other activities. (SLB Halts Shipments to Russia From all of Its Operations)</p>
+      <p>4.   BP came as a major winner in a 7-gigawatt (GW) offshore wind site auction in Germany, marking its entry into the offshore wind market in continental Europe. The London-based energy major BP and French multinational TotalEnergies acquired development rights for four sites in the Germany dynamic tender round, with combined bids of €12.6 billion.</p>
+      <p>Three sites are situated 120 kilometers northwest of Heligoland in the North Sea. The sites are intended to develop 2 GW of offshore turbine capacity. The remaining one with 1 GW is located in the Baltic Sea. BP acquired rights to develop two projects, representing 4 GW of the total capacity. TotalEnergies received awards for the other two sites.</p>
+      <p>The awards align well with BP’s integrated energy strategy and disciplined capital allocation. The company expected returns of 6-8% from the project. The latest move is a crucial step in implementing BP’s strategy to become a profitable integrated player in the electricity markets. (BP Makes Foray Into Continental Europe's Offshore Wind Market)</p>
+      <p>5.   U.S.-based oil and gas producer Ring Energy recently agreed to buy the Central Basin Platform (“CBP”) assets of privately-held upstream company Founders Oil & Gas IV. The transaction, valued at $75 million, further solidifies Ring's presence in the Permian Basin and enhances its operational capabilities. The acquisition — to conclude by Sep 30 — is expected to be immediately accretive and bring various benefits to the company's shareholders.</p>
+      <p>The total transaction value comprises $60 million in cash to be paid at closing, and an additional deferred cash payment of $15 million, which will be due four months after the closing date. Ring will fund the transaction using its available cash reserves and borrowings under its recently reaffirmed senior revolving credit facility.</p>
+      <p>The acquisition of Founders' CBP assets strategically expands Ring's core operating area in Ector County, TX. This move allows REI to capture various cost synergies, further enhancing operational efficiency. The assets closely resemble the Stronghold assets acquired in the previous year, featuring high-quality rock formations and proven performance. Leveraging its expertise, Ring aims to optimize the undeveloped drilling locations available through the transaction. (Ring Energy to Acquire Permian Basin Assets for $75M)</p>
+      <h3>Price Performance</h3>
+      <p>The following table shows the price movement of some major oil and gas players over the past week and during the last six months.</p>
+      <h3>Company             Last Week                 Last 6 Months</h3>
+      <p>XOM                 -2.2%             -10.6%</p>
+      <p>CVX                  -0.4%             -15%</p>
+      <p>COP                 +3.7%            -11.5%</p>
+      <p>OXY                  +1.3%            -8.4%</p>
+      <p>SLB                  +7.1%            -3.3%</p>
+      <p>RIG                   +1%               +30.6%</p>
+      <p>VLO                  -1.2%             -17.4%</p>
+      <p>MPC                 +0.3%             -3%</p>
+      <p>With oil and gas moving in different directions, stocks were mixed. The Energy Select Sector SPDR — a popular way to track energy companies — edged up 0.8% last week. But over the past six months, the sector tracker has decreased 9.8%.</p>
+      <h3>What’s Next in the Energy World?</h3>
+      <p>As usual, market participants will closely track the regular releases to look for guidance on the direction of the commodities. In this context, the U.S. government’s statistics on oil and natural gas — one of the few solid indicators that come out regularly — will be on energy traders' radar. Data on rig count from the oilfield service firm Baker Hughes, which is a pointer to the trends in U.S. crude/natural gas production, is closely followed too. Finally, there will be 2023 Q2 earnings, with the first batch of S&P 500 components coming up with quarterly results.</p>
+    </div>
+  },
+  {
+    id: 583,
+    title: 'Gold Bounces as Inflation Cools and US Retail Sales Disappoint',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Inflation', 'US'],
+    description: <div className="blog-desc">
+      <p>In HYCM’s recent coverage of gold we focused on the sell-off following May’s highs, and attempted to identify price levels that could suggest further downside, or alternatively a bounce to higher-highs.</p>
+    </div>,
+    authorName: 'Giles Coghlan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:53 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689847917/ncx-blog-900_ybtpth.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>Are New Highs in Store?</strong></p>
+    	<p>In HYCM’s recent coverage of gold we focused on the sell-off following May’s highs, and attempted to identify price levels that could suggest further downside, or alternatively a bounce to higher-highs.</p>	
+    	<p>In June, we identified the 38.2% Fibonacci retracement at around $1905 as an important level, suggesting that if gold held it as support, it would add strength to the case that the recent sell-off was healthy consolidation, rather than a more concerning change of trend from bullish to bearish.</p>
+      <p>For the moment, it appears that the 38.2% retracement level is holding. Gold has tested it as support and subsequently bounced to new daily and weekly higher-highs. In the process, it has also broken above the 23.6% retracement level, with only the $2000 psychological level, May’s peak, and the asset’s 2020 all-time high now remaining as obstacles.</p>
+      <h3>The Story So Far</h3>	
+    	<p>Gold rallied to around $2090 per ounce in 2020 during the pandemic as a safe-haven. It subsequently fell back down following an unprecedented injection of fiscal stimulus, which led to a boom in risk assets.</p>
+      <p>Gold bulls returned in 2021 as inflation fears surfaced while the Federal reserve was still regarding the situation as transitory. It peaked early in 2022 with the commencement of the Ukraine conflict and sold off as the Federal Reserve commenced an aggressive rate hiking cycle in order to tame inflation.</p>
+      <p>Between late 2022 and early 2023 gold rallied again in expectation of a pause from the Federal Reserve. The Fed being closer to the end of its tightening than the start, it slowed the pace of its hikes and finally did pause in the June 2023 meeting, which has reignited interest in the yellow metal.</p>
+      <p>We have observed this same interest in our own investors, with gold being one of the HYCM’s most traded asset in 2022 and 2023.</p>
+      <h3>What’s Boosting Gold Prices?</h3>
+      <p>On the daily chart, following what appears to be a double-bottom at around $1915, gold experienced two sharp moves higher on Wednesday July 12, and Tuesday July 18. Each move saw gold closing around 1.2% higher, following key US economic data.</p>
+      <p>The June 12 data that exerted the most impact on gold prices was undoubtedly the CPI report for June, which showed inflation cooling to 3% on an annualised basis. This has markets betting on another pause from the Fed in its July 26 meeting, with more aggressive market participants expecting a cut from the Fed by year end, even though it has given no such indication.</p>
+      <p>On July 18, monthly retail sales data disappointed, suggesting that the US consumer is not in as strong a position as was previously thought. Core retail sales came in at 0.2%, to the market’s expectation of 0.4%. The broader reading also came in at 0.2%, much lower than Wall Street’s anticipated 0.5% figure.</p>
+      <p>What this pair of economic reports could suggest is that the Fed has finally made some headway in its battle against inflation, and that this headway has come at the cost of consumer strength, which was always an outcome to be expected. Aside from gold’s technical picture, which we’ll focus on below, the above are fundamentals that can be thought positive for gold.</p>
+      <p>Besides this, we also have US dollar weakness leading to gold strength. The dollar continues to weaken against its major trading counterparts, particularly the euro, as market participants attempt to price in the expected end of the tightening cycle (and perhaps return to rate cuts) taking place sooner in the US than in Europe.</p>
+      <h3>Technical Picture</h3>
+      <p>The most important levels to watch at the moment are the weekly May 2023 high at $1988, and the August 2020 weekly all-time high at around $2046. The fact that weekly highs are often lower than the extremes reached during intraday trading puts these levels within reach of current price action.</p>
+      <p>Gold futures are currently trading at $1981, which means that May’s weekly high is only $7 away. A weekly higher-high would be extremely positive for the technical picture, indicating a possible continuation higher. This would see the $2000 level coming into play, which is important psychologically and proved to be stubborn for both gold bulls and bears back in May. Importantly, a break above $2000 builds a case for gold being able to test its weekly all-time high in dollar terms at $2046.</p>
+      <p>On the downside, the range between $1905 and $1920 is important as support, with a break below $1915 possibly invalidating much of the above due to it representing a daily lower-low in price action. Before any such retreat, look for support to be established at the 26.6% retracement level at $1965.</p>
+    </div>
+  },
+  {
+    id: 582,
+    title: 'Shell (SHEL) Halts Crude Oil Loading at Forcados Terminal',
+    category: 'Commodities',
+    subCategory: ['Shell', 'Crude', 'Oil'],
+    description: <div className="blog-desc">
+      <p>Shell plc’s (SHEL) subsidiary, Shell Petroleum Development Company (SPDC), halted loadings of Nigeria's Forcados crude oil owing to a probable leak at the export terminal, per a Reuters report.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 4:03 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689846491/ncx-blog-896_gcbyu6.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Shell plc’s (SHEL) subsidiary, Shell Petroleum Development Company (SPDC), halted loadings of Nigeria's Forcados crude oil owing to a probable leak at the export terminal, per a Reuters report.</p>
+    	<p>According to the article, shipments of the grade, which was set to transport 220,000 barrels per day in July, were suspended when workers noticed fumes near a single buoy mooring that was loading oil onto a vessel. SPDC reported that investigations are underway.</p>	
+    	<p>The Forcados crude oil terminal, one of the country's seven main crude terminals, produced close to 7.9 million barrels per day (mbpd) of crude oil and condensate in June 2023, according to data from the Nigerian Upstream Petroleum Regulatory Commission.</p>	
+    	<p>The terminal's crude oil output has largely remained above 7 mbpd since the year's commencement, with minor dips in March and April 2023. The crude oil and condensate output at the terminal increased to 7.01 mbpd in May 2023, up from 5.78 mbpd in April 2023.</p>
+      <h3>Zacks Rank & Key Picks</h3>
+      <p>Shell is a group of U.S. and Europe-based big energy multinationals with operations across the world. Currently, Shell carries a Zack Rank #3 (Hold).</p>
+      <p>Some better-ranked stocks in the energy sector are Evolution Petroleum Corporation EPM, NGL Energy Partners LP NGL and Murphy USA MUSA. While Evolution Petroleum sports a Zacks Rank #1 (Strong Buy), both NGL Energy Partners and Murphy USA carry a Zacks Rank #2 (Buy) at present. You can see the complete list of today’s Zacks #1 Rank stocks here.</p>
+      <p>Evolution Petroleum is an independent energy company. It was formed to acquire and develop oil and gas fields and apply both conventional and specialized technology to accelerate production, particularly in low-permeability reservoirs. EPM has witnessed an upward earnings estimate revision for 2023 and 2024 in the past 60 days.</p>
+      <p>NGL Energy Partners, headquartered in Tulsa, OK, is a limited partnership operating a vertically-integrated propane business with three operating segments — retail propane, wholesale supply and marketing, and midstream. NGL has witnessed an upward earnings estimate revision for 2024 in the past 60 days.</p>
+      <p>Murphy USA operates stations close to Walmart supercenters and sells low-cost, high-volume fuel. This helps the company to get a lot more business than its competitors. Another significant competitive advantage for the firm is its access to product distribution centers and pipelines, which helps control costs in the intensely competitive retail sector. Over the past 30 days, MUSA has witnessed an upward earnings estimate revision for 2024.</p>
+    </div>
+  },
+  {
+    id: 581,
+    title: 'Oil prices dip on profit-taking despite tighter U.S. supplies',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Prices', 'US'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) -Oil prices edged lower on Wednesday, as investors took profits following earlier gains on tighter U.S. crude supplies and China's pledge to reinvigorate its economic growth.</p>
+    </div>,
+    authorName: 'Stephanie Kelly',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 4:26 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689846849/ncx-blog-897_r3lfqo.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Stephanie Kelly</p>
+    	<p>NEW YORK (Reuters) -Oil prices edged lower on Wednesday, as investors took profits following earlier gains on tighter U.S. crude supplies and China's pledge to reinvigorate its economic growth.</p>	
+    	<p>Brent futures dipped 17 cents at $79.46 a barrel, while U.S. West Texas Intermediate (WTI) crude dropped 40 cents at $75.35 a barrel.</p>	
+    	<p>Prices pared gains late in the session after both contracts had risen by over $1 a barrel. Market participants took advantage of the higher prices and took profits, said Phil Flynn, an analyst at Price Futures Group.</p>
+      <p>Strength in the U.S. dollar index also weighed on prices. A stronger greenback makes crude more expensive for investors holding other currencies.</p>
+      <p>Limiting losses, U.S. crude inventories fell by 708,000 barrels in the last week to 457.4 million barrels, compared with analysts' expectations in a Reuters poll for a drop of 2.4 million barrels, Energy Information Administration data showed on Wednesday. [EIA/S]</p>
+      <p>The data showed inventories in the Strategic Petroleum Reserve climbed for the first time since January 2021, as the U.S. tries to refill the reserve following last year's record drawdown.</p>
+      <p>"It's an end of an era," Flynn said. "We're reminded the SPR releases have come to an end, and the market is going to be on much more solid footing."</p>
+      <p>In a measure that could boost oil demand, China's top economic planner pledged on Tuesday to roll out policies to "restore and expand" consumption in the world's second-largest economy.</p>
+      <p>U.S. data on Tuesday showing retail sales rose less than expected in June boosted views that the Federal Reserve will stop raising interest rates. Higher rates increase borrowing costs and can slow economic growth and reduce oil demand.</p>
+      <p>In another positive sign, European Central Bank governing council member Klaas Knot on Tuesday suggested that rate hikes beyond the ECB's meeting next week were "by no means a certainty."</p>
+      <p>"Traders have started to become a lot more optimistic as inflation eases off. ... Any improvement in the inflation data also means an improvement in oil demand," said Naeem Aslam of Zaye Capital Markets.</p>
+      <p>Russia is set to reduce its oil exports by 2.1 million metric tons in the third quarter, in line with planned voluntary export cuts of 500,000 barrels per day in August, according to the country's energy ministry.</p>
+      <p>(Reporting by Stephanie Kelly in New York; additional reporting by Natalie Grover in London, Katya Golubkova in Tokyo and Trixie Yap in Singapore; Editing by David Holmes, David Goodman, Paul Simao, Mike Harrison and Leslie Adler)</p>
+    </div>
+  },
+  {
+    id: 580,
+    title: 'Gold advances over 1% as traders bet on Fed rate pause',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Traders', 'Fed'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold rose over 1% on Tuesday to a more than one-month high, bolstered by a softer dollar and lower Treasury yields, with investors betting that recent U.S. economic</p>
+    </div>,
+    authorName: 'Ashitha Shivaprasad',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 18, 2023 - 8:11 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689848285/ncx-blog-901_wbgss0.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Ashitha Shivaprasad</p>
+    	<p>(Reuters) - Gold rose over 1% on Tuesday to a more than one-month high, bolstered by a softer dollar and lower Treasury yields, with investors betting that recent U.S. economic readings make the case for a pause in the Federal Reserve's interest rate hikes.</p>
+      <p>Spot gold was up 1.1% at $1,975.49 per ounce by 2:03 p.m. ET (1803 GMT), after hitting the highest since late May. U.S. gold futures settled 1.2% higher at $1,980.80.</p>	
+    	<p>The dollar index wobbled near more than a one-year low, making bullion more affordable to buyers holding other currencies. Benchmark Treasury yields ticked lower for the second straight day. [USD/] [US/]</p>
+      <p>"Gold can certainly move towards $2,000 if incoming data suggests the Fed will back off after one more hike this month," said Jim Wyckoff, senior market analyst at Kitco.</p>
+      <p>Gold traders also took stock of data showing headline U.S. retail sales rose less than expected in June, though consumer spending appeared to be solid.</p>
+      <p>While the data boosted the idea of a less hawkish Fed by the end of this year, which would help gold, prices could fall to the $1,900 range if the central bank goes the other way, Wyckoff added.</p>
+      <p>Traders are pricing in another 25-basis-point rate hike at the Fed's July 25-26 meeting.</p>	
+    	<p>Higher interest rates increase the opportunity cost of holding zero-yielding gold.</p>
+      <p>"Gold has now reached a key technical area around $1,980-$1,985, where it had previously found support and resistance. The bulls will need to see gold clear this level on a closing basis if they want to see $2,000 plus again," Fawad Razaqzada, market analyst at City Index, said in a note.</p>
+      <p>Spot silver was up 0.6% at $25.01 per ounce, platinum rose 0.8% to $982.94 and palladium rose 2.5% to $1,315.91.</p>
+      <p>(Reporting by Ashitha Shivaprasad in Bengaluru; Editing by Paul Simao and Shounak Dasgupta)</p>
+    </div>
+  },
+  {
+    id: 579,
+    title: 'Indian Oil signs long term LNG import deals with ADNOC LNG, TotalEnergies',
+    category: 'Commodities',
+    subCategory: ['Indian', 'oil', 'LNG'],
+    description: <div className="blog-desc">
+      <p>NEW DELHI (Reuters) - Indian Oil Corp, the country's top refiner, has signed long-term liquefied natural gas (LNG) import deals with United Arab Emirates' s Abu Dhabi Gas Liquefaction Co Ltd (ADNOC LNG) and France's TotalEnergies.</p>
+    </div>,
+    authorName: 'Nidhi Verma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 17, 2023 - 1:43 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689847077/ncx-blog-898_sdmvn1.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Nidhi Verma</p>
+    	<p>NEW DELHI (Reuters) - Indian Oil Corp, the country's top refiner, has signed long-term liquefied natural gas (LNG) import deals with United Arab Emirates' s Abu Dhabi Gas Liquefaction Co Ltd (ADNOC LNG) and France's TotalEnergies.</p>	
+    	<p>The two deals were signed during Prime Minister Narendra Modi's Visit to France and UAE last week. Supplies under the two deals would commence from 2026, the Indian company said in two separate statements.</p>	
+    	<p>ADNOC LNG would supply up to 1.2 million metric tonnes per year (tpy) of LNG to IOC for 14 years, the Indian company said, adding India's trade treaty with UAE enable it to import LNG without paying a 2.5% import tax.</p>
+      <p>This is the first time that an Indian company has signed a long term LNG import deal with ADNOC.</p>
+      <p>TotalEnergies would supply 0.8 million tpy LNG to IOC under the 10 year deal, it said. TotalEnergies would supply LNG to IOC from its global portfolio.</p>
+      <p>India companies are spending billions of dollars to boost their gas infrastructure and are scouting for long term LNG imports deals as the nation wants to raise the share of gas in its energy mix to 15% by 2030 from 6.2% currently.</p>
+      <p>IOC's signings are also the latest in a slew of term deals signed by Asian LNG importers in recent months. In June, Bangladesh's state-owned Petrobangla signed a 10-year contract to receive LNG supplies from OQ Trading, formerly known as Oman Trading International, and a 15-year suppy deal with QatarEnergy, starting 2026.</p>
+      <p>Chinese importers Zhejiang Energy and ENN have also signed 20-year deals in recent weeks to receive North American supplies, after QatarEnergy inked 27-year agreements with China National Petroleum Corporation (CNPC) and Sinopec.</p>
+      <p>Meanwhile, Thailand's state-controlled PTT is in advanced talks with Qatar for a 15-year LNG deal for supplies of 1 or 2 million tonnes per annum, sources told Reuters.</p>
+      <p>(Reporting by Nidhi Verma; Editing by Simon Cameron-Moore)</p>
+    </div>
+  },
+  {
+    id: 578,
     title: 'India JSW Steel considering bid for stake in Teck coal unit - Bloomberg News',
     category: 'Commodities',
     subCategory: ['India', 'JSW', 'Coal'],
@@ -23,6 +232,43 @@ const data = [
       <p>Teck, before confirming the Glencore proposal, had said it received several proposals for its coal business, as it reworks a plan to split it from its copper and zinc unit. The plan failed to secure enough shareholder support in late April.</p>
       <p>Reuters reported in May that Canadian mining entrepreneur Pierre Lassonde was forming a consortium to buy a stake in Teck's coal business.</p>
       <p>(Reporting by Baranjot Kaur in BengaluruEditing by Matthew Lewis)</p>
+    </div>
+  },
+  {
+    id: 577,
+    title: 'Lithium And Gold Were The Only Positively Performing Commodities In H1',
+    category: 'Commodities',
+    subCategory: ['Lithium', 'Gold', 'Commodities'],
+    description: <div className="blog-desc">
+      <p>The second half of 2023 has officially begun, meaning it’s time for us to reflect on the commodities market so far this year.</p>
+    </div>,
+    authorName: '',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 15, 2023 - 4:30 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689847450/ncx-blog-899_j2rppq.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The second half of 2023 has officially begun, meaning it’s time for us to reflect on the commodities market so far this year. To view our interactive, updated Periodic Table of Commodities Returns, click here.</p>
+    	<p>In the first half of the year, lithium increased by 10.81%, making it the best-performing commodity and one of only two that recorded a positive return, the other being gold. Every other commodity that we follow lost ground during the six-month period as global manufacturing activity receded and China’s economy, historically a major demand engine, delivered a disappointing rebound after ending three years of pandemic lock-downs.</p>	
+    	<p>So why was lithium up in the first six months of 2023? In a word: batteries. The lightweight metal, the top performer in 2021 and 2022, is a key component of the boom in electric vehicle (EV) sales.</p>	
+    	<p>First-quarter EV sales suggested a promising year for the market, with a predicted global sales figure of approximately 14 million vehicles. This would mark a robust 35% increase from 2022, raising the global electric sales share to about 18%, according to the International Energy Agency (IEA).</p>
+      <p>China, the world’s number three supplier of lithium after Australia and Chile, remains the largest EV market. Tesla’s production in the country rose nearly 20% last month, aiding in the company’s record-breaking quarterly sales. The Elon Musk-led manufacturer, our favorite EV play, delivered 93,680 cars from its Shanghai factory in June, a significant increase from the 78,906 units in the same month last year and 77,695 vehicles in May.</p>
+      <p>Other car companies are rapidly shifting from combustion engine models to EVs or hybrids, boosting demand for lithium. Lamborghini, for instance, announced last year that it plans to invest at least 1.8 billion euros ($2 billion) to create a hybrid lineup by 2024 and to introduce its fully electric model by the end of the decade. The Volkswagen-owned company reported that its final gas-burning models are now sold out for the remainder of production.</p>
+      <h3>Hedging With Gold</h3>
+      <p>Gold was also positive in the first half, rising 4.93% and outperforming most other major assets. Its value was supported by a stable U.S. dollar and continued demand from central banks. The yellow metal was also sought by investors as a portfolio diversifier, particularly during the mini-banking crisis in March.</p>
+      <p>Central banks may be nearing the end of their interest rate tightening cycle, with the Federal Reserve expected to hike rates possibly one more time, especially after June’s strong jobs numbers. The market consensus suggests a mild economic contraction in the U.S. after the Fed pauses, along with slow growth in other developed markets.</p>
+      <p>Given its robust performance in the first half, gold is projected to remain supported in the second half of the year by factors such as India’s stronger economy, potential Chinese economic stimulus and continued hedging strategies. If the risk of recession persists, gold could see greater upside potential due to increased demand for high-quality, liquid assets, according to the latest report by the World Gold Council (WGC).</p>
+      <h3>Monthly PMIs Could Be Pointing To An Economic Contraction</h3>
+      <p>If the monthly PMIs (purchasing manager’s indices) are any indication, a recession could indeed be in the cards in the coming months. The Global Manufacturing PMI fell to 48.8 in June from 49.6 in May, extending a period of contraction for the 10th straight month. A reduction in factory output due to dwindling new orders and mounting pessimism drove this past month’s decline, impacting key regions such as the U.S., the eurozone, Canada, Japan and others.</p>
+      <p>As I’ve said many times before, we believe the global PMI to be a forward-looking economic indicator. This is particularly true of commodity prices, which largely slumped in the first half. Year-to-date through the end of June, agriculture commodities fell 5.77%, industrial metals lost 9.55% and energy, including oil and natural gas, retreated 11.56%. Precious metals were the only positively performing group.</p>
+      <p>Notably hit were metals like iron ore and copper, significant indicators of cyclical portions of the global economy such as construction and manufacturing. These sectors are currently experiencing recessions in many regions.</p>
+      <p>A slowdown in China’s property market, which directly impacts demand for construction materials like steel, aluminum, copper and nickel, also contributed to the declines. Despite output cuts by the Organization of Petroleum Exporting Countries (OPEC), the downturn in oil prices is primarily due to weak energy consumption, especially in Europe, and China’s increased focus on coal production amid an energy crisis.</p>
+      <h3>Global Oil Demand To Plateau?</h3>
+      <p>Looking ahead, global oil demand is projected to plateau over the next decade before entering a period of decline, largely due to increasing vehicle efficiency and the use of alternative energy sources, according to a new report by BP. The British oil and gas company expects the decline to be more pronounced after 2035, with projections for 2050 ranging from 20 to 75 million barrels per day (Mb/d), depending on the extent of global commitment to net-zero emissions.</p>
+      <p>Emerging economies will maintain or slightly increase their oil consumption in the first half of the forecast period, contrasting with accelerating declines in the developed world. As a result, these economies will increase their share of global oil demand from 55% in 2021 to approximately 70% by 2050, BP writes.</p>
+      <p>The first half of 2023 saw lithium and gold rise as the only two commodities with positive returns, driven by the booming electric vehicle (EV) market and global economic uncertainties, respectively. However, most commodities struggled due to weakening global manufacturing and demand. Investors, therefore, may want to closely monitor lithium and gold, while adopting a cautious stance toward other energy commodities as the world moves toward a greener future.</p>
     </div>
   },
   {

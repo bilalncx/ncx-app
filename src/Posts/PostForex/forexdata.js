@@ -1,5 +1,433 @@
 const data = [
   {
+    id: 588,
+    title: 'USD/JPY Forecast – US Dollar Bounces Against Japanese Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied significantly to reach the 50-Day EMA during the trading session on Wednesday, as we have reached the 50-Day EMA. The 50-Day EMA sits right around the ¥140 level,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:47 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689858948/ncx-blog-913_w22lxb.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar has rallied significantly to reach the 50-Day EMA during the trading session on Wednesday, as we have reached the 50-Day EMA. The 50-Day EMA sits right around the ¥140 level, so that has a certain amount of importance attached to it as well.</p>
+    	<p>With that being the case, I think we got a situation where we are trying to break out to the upside but it may take a little while to do so. If we do break above the ¥140.50 level, then I think it is only a matter time before the market really starts to take off, perhaps reaching the ¥142.50 level.</p>	
+    	<p>Underneath, the market looks at the ¥138 level as an area that is massive support, as we have seen over the last week or so. It’s also the top of an ascending triangle, and therefore we would see a little bit of “market memory” coming into the picture. The 200-Day EMA sits underneath there, and is rising. All things being equal, as long as we can stay above the ¥180 level, I think this market has a shot at bouncing and going higher.</p>	
+    	<p>Keep in mind that the Bank of Japan has made its intentions to stay dovish quite clear, and that should continue to work against the value of the Japanese yen itself. On the other side of the Pacific Ocean, you have the Federal Reserve which is almost certainly going to raise interest rates again. Beyond that, the Americans are likely to stay elevated for a while, so you get paid to hang on to this pair over the longer term.</p>
+      <p>I would anticipate a lot of choppiness and volatility overall, but I do think that given enough time we could go higher. The momentum to the downside seems to be a little bit overdone, as people were worried about the Bank of Japan changing its monetary policy, something that it would never actually do. While the Japanese economy does seem to be picking up a bit, we are still miles away from the Bank of Japan doing anything to change market dynamics anytime soon.</p>
+    </div>
+  },
+  {
+    id: 587,
+    title: 'GBP/USD Forecast – British Pound Gets Crushed',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has fallen rather hard against the US dollar, as we have seen the greenback pick up a bit of strength around the Forex world during the Wednesday session. That being said, as I write this article we are testing the 1.29 level,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:42 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689858748/ncx-blog-912_pp06ae.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has fallen rather hard against the US dollar, as we have seen the greenback pick up a bit of strength around the Forex world during the Wednesday session. That being said, as I write this article we are testing the 1.29 level, an area that doesn’t necessarily mean anything other than the fact that it is a large, round, psychologically significant figure.</p>
+	    <p>Breaking down below there is possible, and then it’s possible that we could see the 1.2850 level come into the picture to offer support as it was previous resistance. Underneath there, then we could see the 50-Day EMA come into the picture for support. It’s interesting to note that the 50-Day EMA is walking along the uptrend line, so it all comes together quite nicely for support.</p>	
+	    <p>If we were to turn around and go to the upside, the market will face a little bit of resistance near the 1.30 level. The 1.30 level being taken out to the upside opens up the possibility of a move to the 1.3150 level. Taking that out to the upside then allows the British pound to trade at the 1.3250 level given enough time.</p>	
+    	<p>Ultimately, I think this is a market that will find buyers on dips, and that this pullback is probably going to be a nice buying opportunity. However, if we were to break down below the 1.2650 level, then we can start to look at something a little bit more important, and we could see the US dollar really start to pick up strength.</p>
+      <p>This is probably going to be more about the US dollar than anything else, so pay attention to the greenback against other currencies. While there could be a bit of US dollar strength, it’s worth noting that the British pound has been one of the better performers against the greenback lately, so therefore this pair will probably be quite a bit more stubborn than many others to break down. I’m waiting for some sign of support to get involved and start buying again, but I will let other traders in the market try to front run that move, and just simply follow them after they put money to work.</p>
+    </div>
+  },
+  {
+    id: 586,
+    title: 'GBP/JPY Forecast – British Pound Continues to See Upward Momentum Against Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>During Wednesday’s trading session, the British pound initially attempted to rally against the Japanese yen but faced resistance near the ¥180 level. However, market support emerged, leading to a back-and-forth movement.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:37 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689858519/ncx-blog-911_glyv3u.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>During Wednesday’s trading session, the British pound initially attempted to rally against the Japanese yen but faced resistance near the ¥180 level. However, market support emerged, leading to a back-and-forth movement. This article explores the factors influencing the exchange rate between the British pound and Japanese yen and provides insights for traders navigating this volatile environment.</p>
+	    <p>The Bank of Japan’s dovish stance remains a crucial factor shaping the Japanese yen’s performance against major currencies, including the British pound. This dovishness casts a shadow of negativity on the yen, potentially influencing its exchange rate. In contrast, the British pound has experienced a substantial bullish run, which is likely to persist. Traders are advised to avoid fighting the prevailing trend and consider buying the dips as a favorable strategy.</p>	
+	    <p>The United Kingdom’s inflation levels have been significant drivers of the pound’s rally. This sustained strength suggests that the Bank of England is likely to maintain a hawkish stance. However, caution is necessary in this volatile environment. The market’s tendency for periodic volatility and the ¥184 resistance level demand careful attention. If breached, the next target could be ¥185. As a result, maintaining reasonable position sizes is prudent to manage risk.</p>	
+    	<p>In conclusion, the exchange rate between the British pound and Japanese yen exhibits volatility, influenced by the Bank of Japan’s dovishness and the pound’s bullish momentum. Buying opportunities during price dips are favored, considering the prevailing trend. However, caution is advised due to market fluctuations.</p>
+      <p>Traders should monitor the yen’s resistance levels and acknowledge the presence of noise in the market. The overall upward pressure on the British pound suggests that buyers hold control over the long-term trajectory. Nevertheless, it is important to navigate this volatile environment with care and maintain a cautious approach.</p>
+      <p>By staying informed about central bank policies, market trends, and potential resistance levels, traders can make more informed decisions and capitalize on opportunities presented by the British pound’s exchange rate with the Japanese yen, as it is a perfect example of central bank divergences at this point.</p>
+      <p>As long as the Bank of Japan continues to be so dovish, it is almost impossible for this pair to be shorted. Yes, there will be the occasional pullback, but at the end of the day, the market will continue to go higher over the long term. I have no interest in selling.</p>
+    </div>
+  },
+  {
+    id: 585,
+    title: 'AUD/USD Forecast – Australian Dollar Bounces From the 200-Day EMA',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has fallen during the early hours against the US dollar, reaching down to the 200-Day EMA. The 200-Day EMA is of course an indicator that a lot of people pay attention to,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:30 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689858372/ncx-blog-910_p7p1ad.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+    	<p>The Australian dollar has fallen during the early hours against the US dollar, reaching down to the 200-Day EMA. The 200-Day EMA is of course an indicator that a lot of people pay attention to, and the fact that the market reacted so aggressively to it does suggest that we are at least going to try to bounce from here. Keep an eye on the 0.68 level, which is an area where we had seen a lot of noise previously, and if we can take it out, then it’s possible that the market could go to the 0.69 level above, which is the area that we had formed a bit of a double top hat, and obviously if we were to break above there, it would be an extraordinarily bullish sign.</p>
+    	<p>More likely than not, we probably go back and forth between this area and that area, as we try to sort this out. The Australian dollar of course is highly levered to commodities and global growth, so you will have to pay attention to what happens in places like China, and of course the global demand for commodities in general is highly influenced by growth in Asia.</p>	
+	    <p>If we were to turn and break down below the 200-Day EMA, then the 0.67 level is an area where I think you have an opportunity to see buyers jump back in, if we break down below there, then the next major support level is a 0.66. It does look like we are essentially treading water, and I think that continues to be the case, as the markets are trying to figure out what’s going to happen overall, as the global economy seems to be a major inflection point.</p>	
+    	<p>The Australian dollar will be thrown around because of this, and then of course we have questions about whether or not inflation is cooling off in the United States, which has a lot of influence on what happens with the US dollar and the Federal Reserve. In other words, I would expect to see a lot of noisy behavior, but right now I suspect that the buyers are at least trying to make some type of stand in this region.</p>
+    </div>
+  },
+  {
+    id: 584,
+    title: 'EUR/USD Forecast – Euro Continues to Consolidate',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>In Wednesday’s trading session, the euro experienced a modest rally, breaching the 1.1250 level but showing signs of uncertainty. As market participants grapple with the impact of diverging monetary policies and inflation concerns,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:01 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689857457/ncx-blog-909_ua3kqx.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>In Wednesday’s trading session, the euro experienced a modest rally, breaching the 1.1250 level but showing signs of uncertainty. As market participants grapple with the impact of diverging monetary policies and inflation concerns, evaluating the euro’s trajectory becomes crucial. This article explores the prevailing factors influencing the euro’s performance and identifies potential buying opportunities amid short-term pullbacks.</p>
+	    <p>The ongoing debate surrounding the monetary policies of the Federal Reserve and the European Central Bank has become a focal point for traders. Speculation suggests that the Federal Reserve may adopt a more accommodative stance at a faster pace compared to their European counterparts.</p>	
+	    <p>This perception has been a driving force behind the recent upward trajectory of the euro. Given its status as the “anti-dollar,” closely monitoring the performance of the US dollar against other currencies becomes vital in determining the direction of the euro. In fact, it is a majority of the weighting in the US Dollar Index.</p>
+      <p>Should a pullback occur, several support levels may attract buyers’ attention. These include the 1.12 level, followed by the 1.11 level, and ultimately, the 50-Day Exponential Moving Average. A breakdown below the 50-Day EMA would signify a potential shift in the trend. Currently, adopting a “buy on the dip” strategy seems more prudent, or alternatively, anticipating a sideways market to temper excessive market fervor.</p>
+      <p>While a market correction may eventually materialize, attempting to short the market may not be advisable given its evident bullishness. Instead, it is wise to wait for a favorable value proposition to emerge. Pursuing the trade at its current elevated levels could prove challenging and potentially expensive. The euro has demonstrated resilience in the face of uncertainties, but careful monitoring of inflation concerns and the divergent monetary policies of the Federal Reserve and the European Central Bank remains crucial.</p>	
+	    <p>The euro’s performance continues to be influenced by inflation concerns and the diverging monetary policies of the Federal Reserve and the European Central Bank. As the “anti-dollar,” the euro’s trajectory is closely tied to the performance of the US dollar against other currencies. While potential pullbacks present buying opportunities, caution is advised, and patience in identifying value propositions will likely yield more favorable outcomes for those considering euro investments.</p>
+    </div>
+  },
+  {
+    id: 583,
+    title: 'Pound tumbles after inflation surprise',
+    category: 'Forex',
+    subCategory: ['Pound', 'Inflation', 'Forex'],
+    description: <div className="blog-desc">
+      <p>The pound has fallen by its largest margin since March after inflation declined more than economists expected.</p>
+    </div>,
+    authorName: 'Chris Price',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 4:11 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689852397/ncx-blog-908_do8bvb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The pound has fallen by its largest margin since March after inflation declined more than economists expected.</p>
+    	<p>Sterling has dropped 1pc toward $1.29 after hitting 15-month highs of more than $1.31 last Thursday.</p>	
+    	<p>It comes after official figures showed inflation in the UK fell to 7.9pc in June, which was down from 8.7pc in May and below economists’ predictions of a drop to 8.2pc.</p>	
+    	<p>It has prompted a dramatic day on markets, with traders cutting bets on the peak for interest rates to 5.75pc from 6.25pc on Tuesday.</p>
+      <p>That has in turn impacted the value of the pound and sent Government borrowing costs plummeting in a boost for mortgage holders.</p>
+      <p>Barclays strategist Emmanuel Cau said: “The strength in the pound was due to higher inflation pushing rates expectations up and growth expectations down.</p>
+      <p>“So today’s weaker-than-expected inflation print is arguably a relief, which should lift sentiment on the depressed domestic plays and rates plays.”</p>
+      <p>Samuel Tombs, chief UK economist at Pantheon Macroeconomics, called the figures “a watershed moment.”</p>
+      <p>He said: “We continue to think that the worst is over for UK households and that the MPC will not need to raise Bank Rate all the way to 6.25pc, as markets priced-in yesterday.”</p>
+      <p>06:47 PM BST</p>
+      <p>Signing off</p>
+      <p>That’s all from me, we’ll be back first thing tomorrow. I’ll leave you with this update from Jeremy Hunt, who believes that Britain can become the next Silicon Valley in the next decade...</p>
+      <h3>06:41 PM BST</h3>
+      <h3>Severn Trent Water downplays fears of hosepipe ban</h3>
+      <p>Severn Trent Water has downplayed fears of a hosepipe ban after claiming its reservoirs are ‘well filled’.</p>
+      <p>The British water company said that its reserves are 77pc full, which is 10pc higher than the same period last year.</p>
+      <p>Severn Trent, which supplies 4.6m households and businesses across the Midlands and Wales, said it is “well-positioned” to deal with the hot summer months.</p>
+      <p>It comes after South East Water imposed a temporary hosepipe ban across Kent and Sussex as prolonged hot weather and lack of rainfall placed pressure on the supplier’s reservoirs.</p>
+      <p>The decision came after thousands of households and businesses faced no tap water or low pressure last month.</p>
+      <p>Severn Water also confirmed that it remains on track to meet financial targets for the year.</p>
+      <h3>06:20 PM BST</h3>
+      <h3>Mike Ashley’s Frasers raises stake in Asos to 13pc</h3>
+      <p>Mike Ashley has raised his stake in Asos amid tensions between the Sports Direct billionaire and the struggling online fashion retailer’s biggest shareholder, retail editor Hannah Boland reports..</p>
+      <p>Mr Ashley’s Frasers Group has increased its voting rights in Asos to more than 13pc, new filings revealed on Wednesday, up from 10.6pc previously.</p>
+      <p>Danish retailer Bestseller, which is run by billionaire Anders Holch Povlsen, remains Asos’s largest shareholder.</p>
+      <p>The Telegraph revealed earlier this year that a row was brewing between the two billionaires over the Asos business, amid speculation about a possible takeover. It follows an earlier clash between Mr Ashley and Mr Holch Povlsen over Scotland’s oldest department store, Jenners.</p>
+      <p>Asos has been racing to overhaul its business after a slump in its share price. Shares are down around 63pc over the past year as shoppers shift away from online shopping after the end of the pandemic.</p>
+      <p>The turnaround is beginning to yield results, with Asos returning to profit and now making 30pc per order compared to last year.</p>
+      <h3>Microsoft promises Activision £4bn if takeover falls apart as deadline extended</h3>
+      <p>Microsoft has promised to pay Activision up to $5bn (£3.9bn) if its bid to buy the company fails, as the pair fight to win approval from Britain’s competition watchdog.</p>
+      <p>Technology reporter Matthew Field reports:</p>
+      <p>The tech companies have agreed to extend the deadline for their planned $69bn mega merger to mid-October after missing the initial deadline on Tuesday.</p>
+      <p>As part of the new deal, Microsoft has promised to increase the termination fee for Activision from $3bn to as much as $4.5bn if a deal can’t be reached by the autumn.</p>
+      <p>In addition, Microsoft will pay Call of Duty-maker Activision an extra $500m for the Xbox rights to its games over two years should the deal fall apart.</p>
+      <p>The sweeteners from Microsoft come as it battles to keep the takeover alive. The company has defeated competition objections in the US but must still overcome the concerns of the UK’s Competition and Markets Authority (CMA).</p>
+      <p>The CMA blocked the deal in April over fears that the merger would give Xbox-make Microsoft power to block hit games such as Call of Duty from appearing on other services.</p>
+      <h3>Netflix subscribers to pay more for advert-free viewing</h3>
+      <p>Netflix subscribers will have to pay £4 extra a month if they want to watch shows without adverts.</p>
+      <p>Personal finance reporter Madeleine Ross has the details:</p>
+      <p>The streaming service has axed its basic subscription, which cost £6.99 a month and allowed viewers to watch shows without adverts in standard definition on one screen, making it a popular option among people who lived alone.</p>
+      <p>Pricing changes mean new users will now have to pay £10.99 to enjoy commercial-free viewing on Netflix’s “Standard” service, which also allows for multiple screens simultaneously.</p>
+      <p>A “Premium” subscription is also available for £15.99 and offers Netflix customers the ability to watch shows on four screens at the same time in higher definition.</p>
+      <p>Fans of popular shows such as Bridgerton and The Witcher who are happy to sit through adverts can pay a reduced rate of £4.99 for Netflix’s “Standard with adverts” deal, although this option does not allow viewers to download shows to watch offline.</p>
+      <h3>Goldman Sachs' profits slump 60pc as property bets turn sour</h3>
+      <p>A global downturn in commercial property and poorly timed bets on home improvement loans have left Goldman Sachs nursing a 60pc slump in profits.</p>
+      <p>My colleague Chris Price has the story:</p>
+      <p>The Wall Street giant reported one of its worst quarters under chief executive David Solomon as a dealmaking drought and trading downturn also hit revenues.</p>
+      <p>The bigger-than-expected drop in second quarter profits was driven by a $504m (£390m) writedown in the value of Goldman’s GreenSky business, which offers US homeowners loans to improve their properties.</p>
+      <p>The investment bank also took a $485m hit on real estate investments amid a global downturn in the value of office blocks and other commercial properties.</p>
+      <p>Goldman profits slumped to $1.1bn (£850m) for the three months to the end of June, which was below forecasts.</p>
+      <p>Return on equity, a key measure of profitability, slid to 4pc — the worst among the top US banks.</p>
+      <p>The quarterly profit slump marks the worst three month period since the second quarter of 2020, when Goldman was forced to set aside millions to cover a corruption scandal linked to Malaysian state fund 1MDB.</p>
+      <p>As well as struggles with its consumer lending business and losses on property investments, the bank was hit by a downturn in corporate deal making and a slowdown in trading.</p>
+      <p>M&A dropped by 44pc in the first six months of 2023, according to Bain. The consultancy blamed “macroeconomic and interest rate uncertainty”.</p>
+      <p>Goldman’s results contrast with major Wall Street rivals whose earnings beat expectations, including JPMorgan Chase and Morgan Stanley. Executives cited a resilient economy but cautioned that high borrowing costs will begin to weigh on loan demand later this year.</p>
+      <p>Goldman has been trying to sell GreenSky just over a year after buying the business for $1.7bn as part of a push into retail banking.</p>
+      <p>However, the Wall Street lender has abandoned that push in recent months, folding its consumer brand Marcus into its asset management business and selling off loans.</p>
+      <p>Chairman and chief executive Mr Solomon told analysts in April that GreenSky is a “good business” but the bank might not be the “best long-term holder” given its strategic priorities.</p>
+      <p>The about turn on GreenSky is one of the most visible signs of how dramatically management has backtracked on its retail banking strategy in the past year.</p>
+      <h3>Asda co-owner stonewalls MPs on fuel prices</h3>
+      <p>Asda co-owner Mohsin Issa has rejected the CMA’s finding that the supermarket chain used volatile energy costs following the Ukraine war to “feather” fuel prices.</p>
+      <p>When asked by the Business and Trade Committee whether Asda saw volatile energy prices as an opportunity to increase profit margins, Mr Issa replied: “Absolutely not.”</p>
+      <p>The British billionaire also avoided answering questions on whether Asda deliberately increased their internal profit margin targets on fuel sales between 2019 and 2023, as found by the CMA.</p>
+      <p>“During that period our strategy did not change in terms of fuel pricing. Margin is an output of strategy, we more than invested that margin into food,” said Mr Issa. “We set the price and then others have an opportunity to undercut us.”</p>
+      <h3>Asda was slow to pass fuel price reductions to consumers, CMA tells MPs</h3>
+      <p>Asda repeatedly told the UK’s competition watchdog that it had not changed its fuel pricing strategy, MPs have been told.</p>
+      <p>Dan Turnbull, director of markets at the Competition and Markets Authority (CMA), said that Asda consistently maintained its strategy of being the lowest cost provider in any particular area.</p>
+      <p>However, the CMA said it found there were two very significant changes to Asda’s pricing approach, including its internal profit margin targets.</p>
+      <p>Mr Turnbull explained: “So we found that between 2021 and 2023 they significantly increased their internal fuel margin targets on a pence per litre basis, and indeed by 2023 those pence per litre targets were three times what they’d been in 2019.</p>
+      <p>The CMA official also revealed that Asda made a decision in 2022 to “deliberately feather prices on fuel as they came down from the peak” following the Ukraine war, particularly in the volatile diesel market.</p>
+      <p>He said: “Asda told us that they saw an opportunity as the wholesale price fell to pass through reductions in the retail price more slowly than they previously would have done.</p>
+      <p>“And they said that they applied that over 100 petrol stations where they faced no direct competition from another supermarket in the local area.”</p>
+      <h3>FTSE 100 closes in the green</h3>
+      <p>The FTSE 100 has closed up 1.8pc to 7,588.20, while the FTSE 250 midcap index has ended 3.78pc higher at 19,322.52.</p>
+      <p>Listed housebuilders enjoyed their their largest one-day gain since November 2008, climbing 7pc.</p>
+      <p>The FTSE 100 was particularly boosted by huge gains for Persimmon (share price up 8.29pc), Barratt Developments (7pc) and Taylor Wimpey (6.8pc) who have raised concerns about the impact of rate hikes on mortgages and the housing market.</p>
+      <h3>Rishi Sunak tight lipped on Tata gigafactory location</h3>
+      <p>Rishi Sunak has declined to confirm where Tata’s £4bn battery gigafactory would be built in the UK, saying “that is a question for the company” and “they will make those announcements in due course”.</p>
+      <p>The Indian conglomerate is widely reported to have chosen Somerset but refused to confirm the location.</p>
+      <p>The Prime Minister also insisted that it was not taxpayer subsidies alone which persuaded Tata to built its battery plant in the UK, which will create thousands of jobs. He said:</p>
+      <p>When I was Chancellor, I set up the automotive transformation fund, which was always there to provide targeted investment in strategic industries where we thought it would make sense.</p>
+      <p>But what is crucial about an investment like this is it’s not just going to be about that, it’s going to be about the quality of the workforce that we have here, the quality of our infrastructure, the road and rail connections, the approach to regulation, the competitiveness of our tax regime, which we have changed to make it more attractive for businesses to invest.</p>
+      <h3>Handing over</h3>
+      <p>I’m off now and will leave you with our desk night-owl Adam Mawardi, who will make sure you stay up-to-date into the evening.</p>
+      <p>Away from inflation, I’ll just flag to you some statistics from the US, where new home construction retreated in June after surging a month earlier.</p>
+      <p>Residential starts fell 8pc last month to a 1.4m annualised rate, according to government data.</p>
+      <p>Applications to build, a proxy for future construction, slipped 3.7pc to an annualized pace of 1.44m units. However, permits to build one-family homes increased to a one-year high.</p>
+      <p>The retrenchment in groundbreakings follows a surprise jump in the prior month and paints more of a picture of stabilisation in residential construction than renewed weakness.</p>
+      <p>Even with the decline, home starts are running at a pace that is above the pre-pandemic trend.</p>
+      <h3>National Grid sells stake in gas network amid doubts over hydrogen heating</h3>
+      <p>The National Grid has sold off more of Britain’s gas network to foreign investors just days after Grant Shapps raised doubts about plans to use the infrastructure for hydrogen heating.</p>
+      <p>Special correspondent Matt Oliver has the details:</p>
+      <p>A consortium led by Australian investment bank Macquarie on Wednesday said it was exercising an option to acquire another 20pc of the business now known as National Gas, taking its control to 80pc.</p>
+      <p>National Grid, which owns the remaining 20pc of the business, will bank £700m in the deal.</p>
+      <p>Macquarie and its partners also hope to acquire those shares as well, under an option agreement that will come due next summer.</p>
+      <p>The transaction comes amid debate over the future of Britain’s gas network, which currently pipes natural gas into millions of homes but will have to find a new purpose in the push towards “net zero” carbon emissions.</p>
+      <h3>Oil gains as Russian shipments fall</h3>
+      <p>Oil has risen to trade around $80 a barrel in London as traders weighed signs of tightening in the global crude market against a shaky economic backdrop.</p>
+      <p>Brent crude added 1.4pc, having gained in the previous session as data showed that Russia’s crude shipments fell to a six-month low in the four weeks to July 16.</p>
+      <p>US-produced West Texas Intermediate has also risen 1.4pc toward $77.</p>
+      <p>The curbs suggest that Moscow is fulfilling a pledge with its partners in the Opec+ cartel to rein in supplies.</p>
+      <p>Carsten Fritsch, commodity analyst at Commerzbank, said:</p>
+      <p>It looks like the price weakness is behind us, and traders seem to recognize that the market will tighten significantly from this month due to supply cuts and improving demand.</p>
+      <p>But the prospect for recessions in the US and the eurozone combined with slower demand in China will provide headwinds.</p>
+      <h3>US markets rise at the open</h3>
+      <p>Wall Street’s main indexes opened marginally higher as investors digested Goldman Sachs second-quarter results and assessed strong earnings from a number of smaller banks.</p>
+      <p>The Dow Jones Industrial Average rose 0.1pc at the open to 34,991.21.</p>
+      <p>The S&P 500 opened 0.2pc higher at 4,563.87, while the Nasdaq Composite gained 0.3pc to 14,398.53 at the opening bell.</p>
+      <h3>Gas prices increase as heatwave grips Europe</h3>
+      <p>European natural gas prices have pushed upwards as a heatwave sweeps the continent.</p>
+      <p>Benchmark futures rose as much as 4.2pc after earlier declines, suggesting extreme temperatures continue to test the market’s ability to cope with higher demand to power air conditioning.</p>
+      <p>Europe has emerged from the worst of last year’s crisis with ample gas storage levels, providing a sense of security that it will manage to restock enough fuel ahead of next winter.</p>
+      <p>Facilities are already 82pc full, well above the seasonal average, while natural gas supplies from Norway continue to edge higher.</p>
+      <p>Still, the extreme heat has triggered wildfires from Greece to Switzerland, while Rome and Spain’s Catalonia region recorded their highest-ever temperatures, driving up demand for fuel to power cooling needs.</p>
+      <p>Dutch front-month futures, the continent’s benchmark, are trading near €28 per megawatt hour. The UK equivalent also traded higher.</p>
+      <h3>European power demand to hit 20-year low, says IEA</h3>
+      <p>The shutdown of heavy industry is expected to send European demand for power to its lowest level in more than two decades in the wake of the war in Ukraine.</p>
+      <p>EU electricity demand is forecast to fall by 3pc this year, similar to the decrease recorded in 2022.</p>
+      <p>Europe’s energy-intensive industries have not yet recovered from last year’s production slump, according to the International Energy Agency (IEA), amid a 6pc year-on-year decline in total EU electricity demand during the first half of 2023.</p>
+      <p>The IEA said: “The competitiveness of European energy-intensive industry is threatened by high energy costs. There is no easy path forward.”</p>
+      <p>Electricity usage is also predicted to fall in the US and Japan, though the global picture will vary depending on changes in the economic outlook.</p>
+      <h3>Government 'taking the responsible decisions' to limit inflation</h3>
+      <p>Downing Street said it was “encouraging” to see falls in both the headline and core rates of inflation.</p>
+      <p>The Prime Minister’s official spokesman said: “We are not complacent, we know that high prices are still hurting some families and businesses, but we are taking the responsible decisions on spending so we limit the pressure on the Bank to raise interest rates further.”</p>
+      <p>The spokesman said he would not be drawn on what actions the Bank of England, which is operationally independent, should take.</p>
+      <h3>Banks 'will have to give customers three months' notice of account closures'</h3>
+      <p>British banks will have to give customers three months’ notice of account closures and provide an explanation of their decision under reforms, it has been reported.</p>
+      <p>The Treasury plans to force British lenders to be more transparent with customers following the controversy surrounding Nigel Farage after his bank account was closed over his political views, according to Sky News.</p>
+      <p>Today, the Prime Minister’s press secretary said it would be “incredibly concerning” if an individual’s bank account was closed because of their political views.</p>
+      <p>She said: “If the reports that we have seen today are true about the reasons for Nigel Farage and his bank account being closed down, that is obviously incredibly concerning and wrong.</p>
+      <p>“No-one should be barred from bank services for their political views.”</p>
+      <p>The Prime Minister’s official spokesman said it would be “unacceptable if financial services were being denied to anyone exercising their right to lawful free speech”.</p>
+      <h3>Mortgage lenders should 'move away from sudden rate hikes'</h3>
+      <p>The bigger-than-expected slowdown in inflation has fuelled hopes that the upward pressure on mortgage rates could start to ease.</p>
+      <p>The Bank of England has been raising interest rates as a tool to quell stubbornly high inflation but the latest figures will raise hopes that rates do not need to climb as high as feared.</p>
+      <p>According to Moneyfacts, the average two-year fixed-rate homeowner mortgage rate on the market on Wednesday is 6.81pc, up from 6.78pc on Tuesday.</p>
+      <p>The average five-year fixed residential mortgage rate is 6.33pc, up from an 6.3pc on Tuesday.</p>
+      <p>Andrew Montlake, managing director of mortgage brokers Coreco, said:</p>
+      <p>I suspect we will see a slight reprieve as swap rates (which lenders use to price their mortgages) ease a touch with the prospect that we are now closer to the top of the interest cycle than thought a few weeks ago.</p>
+      <p>The Bank of England must now exercise some restraint.</p>
+      <p>Whilst this may not yet mean we see a wholesale fall in mortgage rates, lenders should at least now move away from sudden rate hikes and also enjoy a period of calm reflection.</p>
+      <h3>FTSE 250 posts strongest gain in nearly six months</h3>
+      <p>The FTSE 250 is enjoying its strongest day in nearly six months after inflation came in lower than expected in a boost for the British economy.</p>
+      <p>The index of midcap companies is more focused on the UK than the export-heavy FTSE 100.</p>
+      <p>Rate-sensitive sectors such as homebuilders and private equity firms have performed best, along with those exposed to consumer spending power, such as travel stocks.</p>
+      <p>Great Portland Estates  was up 8.6pc, Redrow gained 8.1pc, Derwent London was up 7.9pc and Crest Nicholson had jumped 7.5pc.</p>
+      <p>Other strong gainers included startup investor Molten Ventures, up 7.7pc, media company Future, up 7.5pc, payments firm WAG Payment Solutions, up 6.6pc and insurer Direct Line, which has gained 5.1pc.</p>
+      <p>The FTSE 250 has climbed as much as 3.2pc to hit its highest level in a month, making its strongest move in a single day since February.</p>
+      <h3>Record rise for private rents</h3>
+      <p>Rents paid by private tenants in the UK increased by 5.1pc in the year to June — the largest rise since official records began in 2016.</p>
+      <p>London rents alone jumped by 5.3pc, according to the Office for National Statistics (ONS), up from 5.1pc a month earlier and the highest since September 2012.</p>
+      <p>The figures emphasise the headwinds facing the UK housing market, as interest rates keep rising and add to mortgage costs.</p>
+      <p>Those trends are forcing landlords to bump up their rents, while deterring buyers.</p>
+      <p>The ONS also said house prices recorded by the Land Registry increased by just 1.9pc in the year to May to an average of £286,000, slower than the 3.2pc gain recorded in April.</p>
+      <h3>Eurozone core inflation higher than first estimated</h3>
+      <p>Underlying inflation in the eurozone accelerated more than initially reported in June, cementing expectations of an interest-rate increase next week.</p>
+      <p>Core consumer prices, the key measure of price gains for the European Central Bank (ECB), rose 5.5pc from a year earlier, statistics agency Eurostat said.</p>
+      <p>The figure, which strips out volatile elements like food and energy, compares with a preliminary estimate of 5.4pc and a reading of 5.3pc in May.</p>
+      <p>The main gauge of inflation was confirmed at 5.5pc — the lowest level since before Russia invaded Ukraine.</p>
+      <p>With headline inflation now having almost halved since its 10.6pc peak in October, officials have shifted focus to core price rises, which have proving more stubborn.</p>
+      <p>Earlier this week Dutch central bank chief Klaas Knot, a rate setter for the ECB, said core inflation appears to have “plateaued,” describing any action beyond July as “a possibility but by no means a certainty.”</p>
+      <h3>House prices down £7,000 since September peak</h3>
+      <p>Average UK house prices increased by 1.9pc in the 12 months to May, slowing from 3.2pc in April, according to official figures.</p>
+      <p>The average UK house price was £286,000 in May 2023, which is £6,000 higher than 12 months earlier but £7,000 below a recent peak in September, the Office for National Statistics said.</p>
+      <p>Average house prices increased over the 12 months to May to £304,000 in England (1.7pc annual growth), £213,000 in Wales (1.8pc), £193,000 in Scotland (3.2pc) and £172,000 in Northern Ireland (5pc).</p>
+      <h3>'Long way to go' on inflation, says Hunt</h3>
+      <p>Chancellor Jeremy Hunt stressed the need to “stick to the plan” to get inflation under control.</p>
+      <p>Asked if the decline in inflation means the Bank of England should ease up on interest rate hikes, Mr Hunt said:</p>
+      <p>What we have seen is the Bank has taken very difficult decisions and the Government has taken very difficult decisions in the Autumn Statement to make sure that we really do start to bring down inflation.</p>
+      <p>We are seeing the first fruits of that but there’s a long way to go and we need to remember that families are still feeling a lot of pressure with very high food price inflation.</p>
+      <p>Although fuel prices have come down, they’re still significantly higher than they were a few years ago.</p>
+      <p>And so we need to stick to the plan to halve inflation, to bring it back even beyond that to the Bank of England’s target rate of 2pc.</p>
+      <p>But we can see from other countries, if we do that, we will succeed. And we can put this very difficult period for households behind us.</p>
+      <h3>Chechen warlord Ramzan Kadyrov’s ‘dear’ nephew handed top job by Putin at seized Evian owner</h3>
+      <p>The 32-year-old nephew of Chechen warlord Ramzan Kadyrov has been handed control of the Russian operations of Danone, after the Kremlin seized control of the French food maker’s local business.</p>
+      <p>Yakub Zakriev, a deputy prime minister of Chechnya and its agriculture minister, has been named general director of Danone Russia, official documents show.</p>
+      <p>Mr Zakriev is the son of the elder sister of Chechen leader Ramzan Kadyrov, who has referred to his relative as “dear nephew” on social media.</p>
+      <p>Mr Kadyrov is a close ally of Russian President Vladimir Putin and has publicly supported the war in Ukraine.</p>
+      <p>The appointment of the regional warlord’s nephew to run Danone Russia comes after Putin signed a decree on Sunday officially seizing control of the business, which owns brands such as Alpro, Actimel, and Evian.</p>
+      <p>The Kremlin has been taking over the local operations of many Western businesses that have chosen to flee the country following the invasion of Ukraine.</p>
+      <h3>Hunt dodges question on size of subsidies for Tata factory</h3>
+      <p>Chancellor Jeremy Hunt would not be drawn on the scale of the taxpayer subsidies being offered to secure the Tata investment. He said:</p>
+      <p>We are having discussions with lots of companies and we are in competition with companies all over the world for these big investments.</p>
+      <p>Obviously, those discussions are commercially sensitive.</p>
+      <p>But what you can see from today’s decision is that the industries that are going to grow the fastest this century - and of course electric vehicles are one of those sectors - are the sectors that we are fundamentally very strong in.</p>
+      <p>People want to invest in the UK because we have a very skilled workforce, we have brilliant universities and we have some of the most productive car plants in Europe.</p>
+      <h3>Gigafactory must be made with UK steel, says Unite boss</h3>
+      <p>Unite general secretary Sharon Graham said Tata’s decision to build a £4bn battery gigafactory in the UK is “a very welcome development” but highlighted Britain’s “last minute.com approach to our industrial strategy”. She said:</p>
+      <p>The US and Europe have clear, proactive plans for jobs and investment. We cannot continually lag behind.</p>
+      <p>The Government must seize on today’s good news to put forward a strategic long-term industrial plan that will be enacted as soon as possible.</p>
+      <p>As part of a comprehensive industrial strategy, the Government must ensure the gigafactory is constructed with UK steel.</p>
+      <p>There must also be reform of the sky-high energy business costs that are proving to be a serious risk to the future of manufacturing in the UK.</p>
+      <h3>Tata £4bn factory 'testatment' to UK car industry, says PM</h3>
+      <p>After Tata Group confirmed plans to invest £4bn to build a battery plant in the UK, Rishi Sunak said:</p>
+      <p>Tata Group’s multi-billion-pound investment in a new battery factory in the UK is testament to the strength of our car manufacturing industry and its skilled workers.</p>
+      <p>With the global transition to zero emission vehicles well underway, this will help grow our economy by driving forward our lead in battery technology whilst creating as many as 4,000 jobs, and thousands more in the supply chain.</p>
+      <p>We can be incredibly proud that Britain has been chosen as home to Tata Group’s first gigafactory outside India, securing our place as one of the most attractive places to build electric vehicles.</p>
+      <h3>'Close call' on size of next Bank of England interest rate rise</h3>
+      <p>Economist James Smith at ING said it will be a “close call” whether the Bank of England votes for a 0.25 or 0.5 percentage point interest rate rise in August. He said:</p>
+      <p>Is this enough to convince the Bank of England to opt for a 25 basis point rate hike in August?</p>
+      <p>We think it probably will - but it’s going to be a close call.</p>
+      <p>The Bank will also be looking at the recent wage data, which was stronger than expected but came alongside figures showing a renewed cooling in the jobs market and improvements in worker supply.</p>
+      <h3>What happened overnight</h3>
+      <p>Asia’s stock markets were mixed with growth concerns dragging on China’s equities.</p>
+      <p>However, shares rose in Japan and Australia after healthy US company earnings and retail data bolstered hopes the world’s biggest economy could avoid a recession.</p>
+      <p>MSCI’s broadest index of Asia-Pacific shares outside Japan was dragged 0.6pc lower by a 1.2pc drop for the Hang Seng. It has fallen daily since China’s growth data on Monday underscored the country’s faltering pandemic recovery.</p>
+      <p>Japan’s Nikkei rose 0.9pc and touched a two-week peak.</p>
+      <p>Wall Street stocks advanced on Tuesday as upbeat earnings on Wall Street and retail sales bolstered expectations that the Federal Reserve will hike interest rates next week.</p>
+      <p>The Dow Jones Industrial Average finished up 1.1pc at 34,951.93 and is on track for its longest streak of daily gains in more than two years.</p>
+      <p>The broad-based S&P 500 advanced 0.7pc to 4,554.98, while the tech-rich Nasdaq Composite Index gained 0.8pc to 14,353.64.</p>
+      <p>The yield on the benchmark10-year US Treasury slipped 0.2 basis points at 3.8pc.</p>
+    </div>
+  },
+  {
+    id: 582,
+    title: 'USD/JPY Forecast – US Dollar Sits on Top of Previous Important Level',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar continues to consolidate back and forth during the trading session on Tuesday as we have plunged into the vital ¥138 level. This is an area that I do believe continues to be important, as it was previous resistance.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 18, 2023 - 6:34 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689851961/ncx-blog-907_lvhd1p.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar continues to consolidate back and forth during the trading session on Tuesday as we have plunged into the vital ¥138 level. This is an area that I do believe continues to be important, as it was previous resistance.</p>
+    	<p>You can see on the chart that there was a massive ascending triangle, and that of course is going to continue to be an area that a lot of traders will be paying attention to due to “market memory.” With this being the case, the 50-Day EMA above could be a potential target, assuming that we can bounce from here.</p>	
+    	<p>On the other hand, you should keep an eye on the fact that we are between the 50-Day EMA and the 200-Day EMA indicators, and that does suggest that perhaps we will have a choppy area of consolidation. So far, that has certainly been the case so it’s not a real stretch to think that can happen. If we were to turn around and break down below the 200-Day EMA, it opens up the possibility of a move much lower, but I think it would take something rather extraordinarily negative to make that happen.</p>	
+    	<p>It is worth noting that so far, the pair has held up after the initial surge lower, so it’ll be interesting to see whether or not the US dollar can make a rally. We need to take out the top of the candlestick from the Monday session to even pretend to be able to do so, so keep an eye on that as well. All things being equal, I believe this is a market that’s probably going to be very noisy, but given enough time I also recognize that the Bank of Japan is most certainly one of the most dovish central banks in the world, and I don’t think that changes anytime soon.</p>
+      <p>With this, we will have to see how things play out but the interest rate differential continues to pay those who hold this position long going forward. With that, the market will continue to be noisy, but I do think that we are in the precipice of making a bigger move.</p>
+    </div>
+  },
+  {
+    id: 581,
+    title: 'EUR/USD Forecast – Euro Continues to Try to Rally',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro has rallied slightly early during the trading session on Tuesday, breaking above the 1.1250 level, but showing signs of hesitation. This is a market that had been a little overdone previously,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 18, 2023 - 6:01 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689851709/ncx-blog-906_o81wix.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Euro vs US Dollar Technical Analysis</p>
+    	<p>The euro has rallied slightly early during the trading session on Tuesday, breaking above the 1.1250 level, but showing signs of hesitation. This is a market that had been a little overdone previously, so it does make a certain amount of sense that the path higher becomes a little bit more difficult.</p>	
+    	<p>A short-term pullback opens up the possibility of buying “cheap euros”, as traders will continue to focus on the idea of whether or not inflation continues to be a major problem for the Europeans.</p>	
+    	<p>Keep in mind that right now, the biggest debate is going to be whether or not the Federal Reserve or the European Central Bank will continue to be tight with monetary policy. At this point, a lot of traders are betting that the Federal Reserve is looking to loosen monetary policy much quicker than the Europeans, so that’s part of what’s been driving this pair higher.</p>
+      <p>Furthermore, the euro is considered to be the “anti-dollar”, so pay close attention to what the US dollar is doing against most other currencies, because that will be the big signal as to which direction we are going.</p>
+      <p>On some type of pullback, there is the possibility that we will find buyers at the 1.12 level, the 1.11 level, and then again at the 50-Day EMA. It’s not until we break down below the 50-Day EMA that the trend could be in serious trouble. At this point, I think you are looking for a “buy on the dip” type of opportunity, or at the very least a market that is going to have to try to grind sideways and work off some of the excess froth.</p>
+      <p>While I do think that the market will probably eventually see some type of selloff, I would not be interested in trying to short this market, due to the fact that it is so obviously bullish. Simply waiting for some type of value proposition to go long again, so part of what you will probably be doing is waiting for an opportunity. Chasing the trade all the way up here could be very difficult, and perhaps even very expensive.</p>
+    </div>
+  },
+  {
+    id: 580,
+    title: 'Pound rallies against dollar and euro, but UK economy not out of the woods yet',
+    category: 'Forex',
+    subCategory: ['Pound', 'dollar', 'Uk'],
+    description: <div className="blog-desc">
+      <p>The pound headed higher against the euro (EURGBP=X) and the dollar (GBPUSD=X) on Tuesday as traders anticipate fresh inflation data dropping on Wednesday.</p>
+    </div>,
+    authorName: 'Lucy Harley-McKeown',
+    authorurl: 'https://www.yahoo.com/author/lucy-harley-mckeown/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 18, 2023 - 3:59 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689851469/ncx-blog-905_luswz2.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The pound headed higher against the euro (EURGBP=X) and the dollar (GBPUSD=X) on Tuesday as traders anticipate fresh inflation data dropping on Wednesday.</p>
+    	<p>The pound briefly hit $1.3126 against the dollar, just shy of 15-month highs seen earlier in the week. Meanwhile, it was at €1.16 to the euro.</p>	
+    	<p>The moves come ahead of the CPI reading for June, which is expected to signal inflation dropping. Predictions have stated expectations of a fall to about 8.2% in the 12 months to June, down from the 8.7% recorded in April and May.</p>	
+    	<p>This chimes with data released by Kantar on Tuesday, which showed slowing inflation of groceries, as supermarkets ramp up deals and consumers adjust spending. Food price inflation slowed for the fourth month in a row in June.</p>
+      <p>Despite this, analysts say the economy is not out of the woods yet.</p>
+      <p>"Although it is widely anticipated that we will see improvement in the topline numbers, it is not going to be good enough to deter the BOE’s plan to hike interest rates," said Naeem Aslam, chief investment officer at Zaye Capital Markets.</p>
+      <p>"In addition, there is just so much disparity in terms of inflation readings in the US and the UK, and it is clear that the Bank of England has a lot more to lose in terms of reputation."</p>
+      <p>The currency moves also come as UK support to rejoin the EU has surpassed 50% for the first time since the Brexit vote seven years ago, according to new polling from YouGov.</p>
+      <p>Some 51% said that they would vote for the UK to become an EU member again, while 32% said they’d stay out, according to the survey conducted last week.</p>
+      <p>The proportion in favour of rejoining has risen 11 points since January 2021, when Brexit formally took place.</p>
+    </div>
+  },
+  {
     id: 579,
     title: 'USD/JPY Weekly Forecast – US Dollar Plummets Into Support',
     category: 'Forex',
