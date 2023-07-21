@@ -1,5 +1,296 @@
 const data = [
   {
+    id: 571,
+    title: 'Dow Jones Futures Rise: Market Rally Hits 2023 Highs; Tesla Skids Late On These Elon Musk Comments',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Future', 'Rise'],
+    description: <div className="blog-desc">
+      <p>The major indexes hit new 52-week highs, but did pare morning gains. Tesla fell late as Elon Musk spoke on the earnings call. Netflix sold off late.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 4:06 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689922243/ncx-blog-928_dryxgf.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The major indexes hit new 52-week highs, but did pare morning gains. Tesla fell late as Elon Musk spoke on the earnings call. Netflix sold off late.</p>
+    	<p>Dow Jones futures edged higher early Thursday, while S&P 500 futures and Nasdaq futures fell modestly. Tesla (TSLA) and Netflix (NFLX) headlined earnings overnight.</p>	
+    	<p>The stock market rally closed off Wednesday's best levels, but the major indexes finished in positive territory after hitting fresh 52-week highs in the market. Market breadth was strong once again, but a number of leading stocks erased gains or reversed lower. The Nasdaq remains extended.</p>
+      <p>Apple (AAPL) hit a record high Wednesday on a Bloomberg report that it's built an internal generative AI chatbot for its employees, known as Ajax. AAPL stock backed off but still closed slightly higher. The midday news knocked fellow Dow Jones giant Microsoft (MSFT) and Google parent Alphabet (GOOGL), though the chatbot leaders came off intraday lows.</p>
+      <p>TSLA stock fell solidly in overnight trading after Tesla EPS and sales topped views, though operating profit missed. Shares lost ground during the earnings call as Elon Musk said that concerns about falling profit margins will "look silly" as Tesla achieves full self-driving.</p>
+      <p>NFLX stock tumbled in premarket trading as Netflix subscriber growth easily beat views but revenue came in light.</p>
+      <p>Las Vegas Sands (LVS), Discover Financial (DFS), IBM (IBM) and United Airlines (UAL) also reported Wednesday night. United Air and Las Vegas Sands beat views while Discover and IBM stock missed on earnings. UAL stock popped, signaling a move to the top of the buy range. IBM stock edged lower. DFS stock dived, signaling a drop well below a buy point. LVS stock fell, back toward the 50-day.</p>
+      <p>Early Thursday, Taiwan Semiconductor (TSM), D.R. Horton (DHI), Johnson & Johnson (JNJ) and American Airlines (AAL) topped views. TSM stock fell modestly and American Air dipped, while JNJ stock and D.R. Horton rose.</p>	
+    	<p>Tesla stock is on IBD Leaderboard, with UAL stock on the Leaderboard watchlist. Microsoft stock is on IBD Long-Term Leaders.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.1% vs. fair value, with JNJ stock providing a slim lift. S&P 500 futures retreated 0.1%. Nasdaq 100 futures fell 0.5%. Tesla stock and Netflix are notable S&P 500 and Nasdaq 100 components.</p>
+      <p>The 10-year Treasury yield rose 6 basis points to 3.79%.</p>
+      <p>Crude oil prices just edged higher, but copper futures jumped nearly 2%.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally closed off highs but slightly higher.</p>
+      <p>The Dow Jones Industrial Average rose 0.3% in Wednesday's stock market trading. The S&P 500 index climbed 0.2%. The Nasdaq composite ended just above break-even. The small-cap Russell 2000 gained 0.45%.</p>
+      <p>Apple stock edged up 0.7% to 195.10, after hitting a record 198.23 shortly after midday on the chatbot report. MSFT stock fell 1.2%. Shares popped 4% Tuesday, clearing a short consolidation, as Microsoft announced pricing for enterprise AI tools. Google stock sank 1.4%, moving back toward the 50-day line in a flat base.</p>
+      <p>Market breadth was strong, as financials continued to rally and telecoms rebounded for a second straight day.</p>
+      <p>The Invesco S&P 500 Equal Weight ETF (RSP) rose 0.5%, closing in on its 2023 highs.</p>
+      <p>The First Trust Nasdaq 100 Equal Weighted Index ETF (QQEW) edged up 0.1% while the Nasdaq 100 was fractionally lower.</p>
+      <p>The Nasdaq is 8.2% above its 50-day moving average with the Nasdaq 100 8.7%. Those are stretched, raising the odds of a market pullback. A lot of highly speculative growth names surging in recent days points to increasing froth.</p>
+      <p>U.S. crude oil prices fell 0.5% to $75.35 a barrel.</p>
+      <p>The 10-year Treasury yield slid 5 basis points to 3.73%, testing the 50-day line.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) fell 1.3%. The iShares Expanded Tech-Software Sector ETF (IGV) edged up 0.1%, with MSFT stock a major IGV component. The VanEck Vectors Semiconductor ETF (SMH) lost 1.05%.</p>
+      <p>Reflecting more-speculative stocks, ARK Innovation ETF (ARKK) climbed 1.6% and ARK Genomics ETF (ARKG) 1.1%. TSLA stock is the No. 1 holding across Ark Invest's ETFs.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) and the Global X U.S. Infrastructure Development ETF (PAVE) both dipped 0.3%. U.S. Global Jets ETF (JETS) ascended 0.8%, with UAL stock and American Air major holdings. SPDR S&P Homebuilders ETF (XHB) closed fractionally lower. The Energy Select SPDR ETF (XLE) rose 0.6% and the Health Care Select Sector SPDR Fund (XLV) climbed 0.5%.</p>
+      <p>The Industrial Select Sector SPDR Fund (XLI) edged lower.</p>
+      <p>The Financial Select SPDR ETF (XLF) advanced 0.4%. The SPDR S&P Regional Banking ETF (KRE) jumped 3.1%</p>
+      <h3>Tesla Earnings</h3>
+      <p>Tesla earnings came in at 91 cents a share, up 20% vs. a year earlier while comfortably beating views for 80 cents. That was helped by a 9-cent non-operating gain, largely favorable currency swings. Operating income of $2.4 billion missed views for $2.7 billion and fell 2.6% vs. a year earlier.</p>
+      <p>Revenue jumped 47% to $24.93 billion, slightly topping. In Q2 2022, Tesla Shanghai was shut for Covid lockdowns for several weeks while the Berlin and Austin plants were slowing picking up production.</p>
+      <p>Free cash flow was just over $1 billion, far short of consensus for $1.88 billion.</p>
+      <p>While deliveries hit a record high in Q2, inventories increased as production once again exceeded sales.</p>
+      <p>Gross margin fell to 18.2% from 19.3% in Q1 and 25% a year earlier, as Tesla continued to cut prices and offer other incentives to push up vehicle sales.</p>
+      <p>On the Tesla earnings call, investors wanted signs that gross margins would bottom out soon.</p>
+      <p>But on the call, CEO Elon Musk "short-term variances in gross margins" aren't important when "autonomy" vastly expands Tesla's profitability. That suggests Musk isn't concerned about further margin declines. Despite Musk's year forecasts, most autonomy experts say Tesla Full Self-Driving is far from achieving full self-driving.</p>
+      <p>Tesla said it's in talks to license FSD to a major automaker.</p>
+      <p>Tesla said in the earnings report that the "Cybertruck remains on track to begin initial production later this year at Gigafactory Texas." On Saturday, Tesla showed a photo of an Austin-made Cybertruck, but the Q2 earnings release suggests that it wasn't made on the production line.</p>
+      <p>Potential buyers still don't know what Cybertruck prices, battery range and other key specs will be. The Tesla earnings call had nothing on that.</p>
+      <p>There was also scant information about an upcoming Model 3 upgrade and possibly real hints on a future, next-generation model.</p>
+      <p>Musk did say Tesla will cut production over the summer for factory upgrades. Output has exceeded deliveries for several quarters, even with production already well below capacity.</p>
+      <p>He expects 1.8 million deliveries in 2023, the first such forecast for the EV maker.</p>
+      <p>Musk also said that the Optimus Bot should perform some meaningful work in Tesla factories next year.</p>
+      <p>Tesla stock fell more than 3% in overnight trade.</p>
+      <p>Shares reversed lower on Wednesday to close down 0.7% to 291.26. But shares are up 3.5% so far this week. TSLA stock has surged 137% in 2023, and is working toward a 313.80 buy point from a very deep cup base going back nearly 10 months.</p>
+      <h3>Netflix Earnings</h3>
+      <p>Netflix subscribers grew by 5.9 million in Q2, easily beating estimates of 1.8 million, as a password-sharing crackdown takes hold. The internet streaming giant now has 238.39 million paying customers worldwide.</p>
+      <p>Netflix earnings topped views but revenue came in light. The company also guided to mixed Q3 results.</p>
+      <p>Analysts expect Netflix earnings to fall 12% vs. a year earlier, with revenue up 4% to $8.27 billion</p>
+      <p>NFLX stock slumped more than 5% early Thursday. Shares rose 0.6% to 477.59 on Wednesday after popping 5.5% on Tuesday. Hollywood production is shut down with writers and now actors on strike.</p>
+      <p>But Netflix is well positioned with a deep content library, offering customers plenty of shows and movies to watch even as rivals face shrinking pipelines in the coming months. It raised its free cash flow evidence, citing reduced spending due to the strike.</p>
+      <h3>What To Do Now</h3>
+      <p>The past few days have been a good time to let your existing positions work. The major indexes keep rising, with leading stocks outperforming. Some are still flashing buy signals, but the odds of a market pullback are growing.</p>
+      <p>An extended, frothy market heading into the full force of earnings season carries heightened risks, especially for growth stocks.</p>
+      <p>A pullback might not be a big deal for positions held for weeks or months, but new buys could quickly come under pressure.</p>
+      <p>When a market rally has been doing well for weeks and your portfolio is racking up big gains, it's easy to get cocky. Remember, you're not any smarter than you were a month ago. Keep your ego and emotions in check.</p>
+      <p>Keep working on watchlists and pay attention to key earnings for your holdings.</p>
+    </div>
+  },
+  {
+    id: 570,
+    title: 'Tesla, Netflix pull Nasdaq and S&P lower, Dow ends higher',
+    category: 'Indices',
+    subCategory: ['Tesla', 'Netflix', 'Nasdaq'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) - The S&P 500 and Nasdaq fell on Thursday, weighed down by drops in Tesla and Netflix following their quarterly results, but the Dow advanced for a ninth straight day thanks to gains in Johnson & Johnson following a strong annual forecast.</p>
+    </div>,
+    authorName: 'Chuck Mikolajczak',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 1:14 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689924930/ncx-blog-932_ifv2lj.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Chuck Mikolajczak</p>
+    	<p>NEW YORK (Reuters) - The S&P 500 and Nasdaq fell on Thursday, weighed down by drops in Tesla and Netflix following their quarterly results, but the Dow advanced for a ninth straight day thanks to gains in Johnson & Johnson following a strong annual forecast.</p>	
+    	<p>Tesla's shares tumbled 9.74%, its biggest one-day percentage drop since April 20, after the electric-vehicle maker reported a drop in its second-quarter gross margins to a four-year low and CEO Elon Musk hinted at more price cuts.</p>
+      <p>Netflix slumped 8.41% to suffer its biggest one-day percentage decline since December 15, after the streaming video company's quarterly revenue fell short of estimates.</p>
+      <p>"The news last night in Tesla and Netflix, while it’s not the end of the world does give people a reason to wake up and go 'wow, maybe I shouldn’t be chasing these names up here,'" said Ken Polcari, managing partner at Kace Capital Advisors in Boca Raton, Florida.</p>
+      <p>"Let me take some money off the table and redeploy it into big boring names."</p>
+      <p>The Dow, however, was able to climb as Johnson & Johnson gained 6.07% after reporting results and announcing an annual profit forecast raise.</p>
+      <p>The Dow Jones Industrial Average rose 163.97 points, or 0.47%, to 35,225.18, the S&P 500 lost 30.85 points, or 0.68%, to 4,534.87 and the Nasdaq Composite dropped 294.71 points, or 2.05%, to 14,063.31.</p>
+      <p>The decline for the Nasdaq was its largest one-day percentage fall since March 9, while the Dow registered its ninth straight session of gains, its longest winning streak since September 2017.</p>	
+    	<p>The Nasdaq has surged 34.4% this year to levels not seen since early April 2022, supported by a seemingly unstoppable rally in megacap growth names such as Nvidia and Meta on optimism over the potential of artificial intelligence, a U.S. economy that has proven more resilient than many anticipated and expectations the end of then Federal Reserve's aggressive rate hike cycle was on the horizon.</p>
+      <p>The S&P technology, communication services and consumer discretionary sectors each dropped at least 2% on Thursday.</p>
+      <p>Tech shares saw additional pressure after business software maker SAP trimmed its full-year outlook for cloud revenue U.S. listed shares of SAP closed down 6.34%.</p>
+      <p>Economic data on Thursday indicated the labor market remains tight, while the housing and manufacturing sectors continue to slump.</p>
+      <p>United Airlines advanced 3.23% after lifting its full-year profit outlook and posted its highest ever quarterly earnings on booming demand for international travel.</p>
+      <p>With 77 S&P 500 companies having reported results through Thursday morning, second-quarter earnings are expected to have declined 7.9%, Refinitiv data showed, more than the 5.7% fall expected at the start of the month.</p>
+      <p>Volume on U.S. exchanges was 11.16 billion shares, compared with the 10.6 billion average for the full session over the last 20 trading days.</p>
+      <p>Declining issues outnumbered advancing ones on the NYSE by a 1.53-to-1 ratio; on Nasdaq, a 1.88-to-1 ratio favored decliners.</p>
+      <p>The S&P 500 posted 32 new 52-week highs and 2 new lows; the Nasdaq Composite recorded 67 new highs and 71 new lows.</p>
+      <p>(Reporting by Chuck Mikolajczak, editing by Deepa Babington)</p>
+    </div>
+  },
+  {
+    id: 569,
+    title: 'Dow hits 8-day winning streak as investors hope for more upbeat earnings reports',
+    category: 'Indices',
+    subCategory: ['Dow', 'Winning', 'Investors'],
+    description: <div className="blog-desc">
+      <p>Stocks rose Wednesday as earnings season ramped up, with the Dow Jones Industrial Average notching its eighth consecutive gain.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 8:08 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689924084/ncx-blog-930_ugxwlb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Stocks rose on Wednesday, with the Dow extending its winning streak to eight days.</li>
+        <li>Investors are hoping for more upbeat earnings reports for the second quarter.</li>
+        <li>Big tech firms including Tesla, Netflix, and IBM are set to report after the closing bell.</li>
+      </ul>
+    	<p>Stocks rose Wednesday as earnings season ramped up, with the Dow Jones Industrial Average notching its eighth consecutive gain.</p>
+    	<p>Blue chips are now in their longest winning streak since September 2019 and are at their highest level since early 2022.</p>
+      <p>Investors are hoping for more upbeat earnings amid a strong reporting season so far. Of the S&P 500 companies that have released their financials for the second quarter, 80% have reported earnings above analysts' estimates, FactSet data shows.</p>
+      <p>Markets are eyeing earnings for Big Tech firms next, with Tesla, Netflix, and IBM set to report late Wednesday.</p>
+      <h3>Here's where US indexes stood shortly after the 4 p.m. ET closing bell on Wednesday:</h3>
+      <ul>
+        <li>S&P 500: 4,565.72, up 0.24%</li>
+        <li>Dow Jones Industrial Average: 35,061.21, up 0.31% (109.28 points)</li>
+        <li>Nasdaq Composite: 14,358.02, up 0.03%</li>
+      </ul>	
+      <h3>Here's what else is happening today: </h3>
+      <ul>
+        <li>There's one reason to buy Tesla stock — and it has nothing to do with its EV business, according to one strategist.</li>
+        <li>Investors pumped $45 billion into stocks last month, the biggest inflow seen in over a year.</li>
+        <li>Office vacancy just hit an all-time-high despite more people returning to in-person work.</li>
+        <li>Buyers are getting rejected for loans at the fastest rate in five years.</li>
+        <li>There are four bearish scenarios that could rock the stock market by year-end, according to DataTrek Research.</li>
+        <li>Russia received millions worth in equipment from the US to keep its oil trade afloat, according to a new report.</li>
+      </ul>
+      <h3>In commodities, bonds, and crypto: </h3>
+      <ul>
+        <li>Oil fell. West Texas Intermediate crude slipped 0.6% to $75.30 a barrel. Brent, the international benchmark, slipped 0.3% to $79.39 per barrel.</li>
+        <li>Gold inched lower 0.03% to $1,978.31 an ounce.</li>
+        <li>The 10-year Treasury yield dipped 4 basis points to 3.742%.</li>
+        <li>Bitcoin ticked higher 0.63% to $30,064.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 568,
+    title: 'Nasdaq Halts Plan to Launch Crypto-Custodian Business in US',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'crypto-custodian', 'US'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Nasdaq Inc. became the latest mainstream financial firm to take a step back from digital assets, aborting its launch of a custodian business in the US due to the shifting business and regulatory environment.</p>
+    </div>,
+    authorName: 'Yueqi Yang and Katherine Doherty',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 11:19 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689925386/ncx-blog-933_mp7x1t.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Nasdaq Inc. became the latest mainstream financial firm to take a step back from digital assets, aborting its launch of a custodian business in the US due to the shifting business and regulatory environment.</p>
+    	<p>The exchange operator is also halting its efforts to pursue a license related to the business but will continue to build out its technology to handle crypto for clients.</p>	
+    	<p>"We remain committed to supporting the evolution of the digital asset ecosystem in a variety of ways,” including partnerships with potential ETF issuers, Adena Friedman, Nasdaq’s chief executive officer, said on the second-quarter earnings call on Wednesday.</p>
+      <p>Nasdaq pulled back amid a widening crackdown by regulators that aims to isolate crypto’s risks from the US financial system. Banks have been warned about their exposure to crypto businesses, and the US Securities and Exchange Commission has filed a series of lawsuits against some of the industry’s biggest firms, including Binance and Coinbase Global Inc.</p>
+      <p>Among the concerns are risks that could topple a federally insured bank, as well as the failure of some crypto platforms to separate different parts of their businesses, such as custody, market-making and trading, which could result in conflicts of interests.</p>	
+    	<p>“We do like to be able to operate in a pretty well-regulated environment and a well-understood regulatory framework, and right now that regulatory framework is changing,” Friedman said in a Bloomberg Television interview Wednesday. “So we decided to halt those efforts right now and really just focus in on the tech business and on the listings business,” adding that any return to the business would depend upon “what the regulatory framework looks like.”</p>
+      <p>Nasdaq has already built the products needed for the crypto custody business, Friedman said, and is “now productizing them to be able to sell to other market operators.”</p>
+      <p>Last September, Nasdaq announced plans to offer custody services for Bitcoin and Ether for institutional investors and has applied to get approval from the New York Department of Financial Services. A representative from the agency didn’t immediately respond to a request for comment on Nasdaq.</p>
+      <p>Nasdaq’s previous move toward entering that business was seen as a sign that Wall Street institutions were deepening engagement with digital assets. It had planned to launch the service by the end of the second quarter. Most recently, Nasdaq partnered with BlackRock Inc. to apply for an exchange-traded fund that invests directly in Bitcoin.</p>
+      <p>Bank of New York Mellon, which has launched a crypto custody services, said that the product has “never been the main focus for us in our digital assets journey,” CEO Robin Vince said on a media call Tuesday.</p>
+      <p>Nasdaq said its decision to halt the US custody business will have a “modest financial impact” by contributing to a decrease in its full-year expense growth guidance.</p>
+      <p>Nasdaq has been focused on diversifying its revenue sources beyond the exchange business where shares in public companies trade. It’s made investments in software, data and other offerings. The company also provides software for those in the crypto industry, including surveillance and trading tools.</p>
+      <p>--With assistance from Redd Brown and Tanaz Meghjani.</p>
+    </div>
+  },
+  {
+    id: 567,
+    title: 'Nasdaq Delays Crypto Custody Until Regulatory Concerns Die Down',
+    category: 'Indices',
+    subCategory: ['Nasdaq', 'Crypto', 'Die Down'],
+    description: <div className="blog-desc">
+      <p>Exchange operator Nasdaq today said it was halting its plans to launch a digital assets custodian service, citing the current regulatory environment in the States.</p>
+    </div>,
+    authorName: 'Mathew Di Salvo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 8:24 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689924626/ncx-blog-931_pvkldo.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Exchange operator Nasdaq today said it was halting its plans to launch a digital assets custodian service, citing the current regulatory environment in the States.</p>
+    	<p>But during its second-quarter earnings call Wednesday, Nasdaq CEO Adena Friedman said that the company would “remain committed to supporting the evolution of the digital asset ecosystem.”</p>	
+    	<p>News dropped last year that Nasdaq was planning to launch its own crypto custody service to capture institutional investor interest. But this year, American regulators have launched their toughest crackdown on the industry yet—suing a number of major crypto brands.</p>	
+    	<p>“This quarter, considering the shifting business and regulatory environment in the U.S., we’ve made the decision to halt our launch of the U.S. digital assets custodian business and our related efforts to pursue a relevant license,” Friedman said.</p>
+      <p>She added that the company would continue to engage with regulators and partner with exchange-traded fund issuers working to release crypto products.</p>
+      <p>The U.S. is becoming a difficult place for the crypto industry to do business.</p>
+      <p>Wall Street’s top regulator, U.S. Securities and Exchange Commission Chairman Gary Gensler, has cracked down on crypto exchanges, mainly because he alleges they have been selling unregistered securities.</p>
+      <p>Gensler even said regarding the industry: “We don’t need more digital currency.”</p>
+      <p>Though despite this, there does appear to be institutional interest in the space: BlackRock—and a number of other major asset managers—have applied for a spot Bitcoin ETF product.</p>
+      <p>Nasdaq has teamed up with BlackRock for the application, which is currently being reviewed by the SEC.</p>
+      <p>And a new crypto exchange aimed at big money investors, EDX Markets, launched last month. It’s backed by major Wall Street firms Charles Schwab, Citadel Securities, and Fidelity Digital Assets.</p>
+      <p>Bitcoin, the biggest digital asset by market cap, which is today priced at $29,839, is also up 80% since the start of the year, when it was trading for less than $17,000 per coin.</p>
+    </div>
+  },
+  {
+    id: 566,
+    title: 'Dow Jones Rises: Highly Shorted Carvana Surges On Guidance, Debt Deal; Tesla, Netflix Earnings Due',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Tesla', 'Netflix'],
+    description: <div className="blog-desc">
+      <p>The major indexes set fresh 52-week highs as earnings roll in. Carvana spiked on results and a debt restructuring. Tesla and Netflix earnings are on tap.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 6:47 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689923277/ncx-blog-929_hnyeos.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The major indexes set fresh 52-week highs as earnings roll in. Carvana spiked on results and a debt restructuring. Tesla and Netflix earnings are on tap.</p>
+    	<p>Dow Jones rose modestly Wednesday, along with the S&P 500 index and Nasdaq, after Microsoft (MSFT) lifted the major indexes to 52-week highs Tuesday. Meanwhile, Carvana (CVNA) and ASML (ASML) headlined earnings reports before the open.</p>
+      <p>Carvana surged early Wednesday on strong results, guidance and a debt-restructuring deal. ASML missed views but raised its outlook. The Dutch chip-equipment giant fell solidly, moving below a buy point.</p>
+      <p>Halliburton (HAL) reported mixed results while fellow oil services giant Baker Hughes (BKR) slightly beat. Superregional bank U.S. Bancorp (USB) narrowly exceeded forecasts, while Dow giant Goldman Sachs (GS) missed on earnings.</p>
+      <p>HAL stock fell slightly and Baker Hughes edged higher. U.S. Bancorp and GS stock climbed modestly.</p>
+      <p>All eyes will turn to Tesla (TSLA) and Netflix (NFLX) earnings after the close. Both are releasing second-quarter results.</p>	
+    	<p>Tesla stock rose slightly early Wednesday, with Cathie Wood's Ark Invest continuing to trim its holdings Tuesday. NFLX stock edged higher.</p>	
+    	<p>ASML and TSLA stock are on IBD Leaderboard. Microsoft stock is on IBD Long-Term Leaders. ASML stock is on the IBD 50.</p>
+      <h3>Dow Jones Today</h3>
+      <p>The Dow Jones rose 0.5%. The S&P 500 advanced 0.4%, with the Nasdaq up 0.4%.</p>
+      <p>Big telecom issues, led by Verizon (VZ) and AT&T (T,) were rebounding sharply after a three-week sell-off tied to lead sheathing used in telecom cables.</p>
+      <p>Among tech titans, Apple (AAPL), Meta Platforms (META), Google parent Alphabet (GOOGL) and MSFT stock were little changed.</p>
+      <p>Crude oil futures rose more than 1%. Meanwhile, the 10-year Treasury yield dipped 1 basis point to 3.78%.</p>
+      <p>U.S. housing starts fell 8% in June to an annual rate of 1.434 million units from May's downwardly revised 1.559 million. Economists expected 1.48 million. Building permits also came in lower than expected.</p>
+      <p>Overnight, the U.K. inflation rate fell to a still-hot 7.9% in June from May's 8.7%. Analysts had expected a milder drop to 8.2%. Core inflation unexpectedly cooled slightly to 6.9% from May's 31-year high of 7.1%.</p>
+      <h3>Stock Market Rally Tuesday</h3>
+      <p>The Dow Jones Industrial Average jumped 1.1% in Tuesday's stock market trading, hitting a 52-week high. The S&P 500 index climbed 0.7% and the Nasdaq composite 0.8%.</p>
+      <p>Crude oil prices rose 2.2% to $75.75 a barrel. The 10-year Treasury yield ticked down 1 basis point to 3.79%.</p>
+      <h3>ASML Earnings</h3>
+      <p>ASML earnings leapt 48% while revenue rose 35%, both beating analyst views. The Dutch maker of high-end chip equipment also guided higher on third-quarter sales and raised its 2023 revenue target.</p>
+      <p>ASML stock lost 4% Wednesday, dropping below a buy point. Shares edged up 0.3% on Tuesday to 757.03, slightly above a 747.13 buy point from a flat base, base-on-base pattern.</p>
+      <p>ASML stock is a notable holding in the VanEck Vectors Semiconductor ETF (SMH).</p>
+      <h3>Carvana Earnings</h3>
+      <p>Carvana reported second-quarter revenue fell 23.5% to $2.97 billion, but comfortably beat views. Gross per unit spiked 94% to $6,520.</p>
+      <p>The used-car dealer, which late Tuesday moved up results from Aug. 3, said it expects to achieve positive earnings before interest, taxes, depreciation and amortization, or EBITDA, in the third quarter. Carvana also announced a deal to cut debt by $1.2 billion.</p>
+      <p>CVNA stock surged more than 30% in volatile trade.</p>
+      <p>Carvana stock has skyrocketed 740% in 2023 through July 18. It remains heavily shorted.</p>
+      <h3>Tesla Earnings</h3>
+      <p>Tesla stock rose nearly 2% Wednesday.</p>
+      <p>Shares climbed 4.25% from Monday through Tuesday as the electric-vehicle giant touted its first Cybertruck, made in Austin, Texas.</p>
+      <p>Tesla stock has a 313.80 buy point from a very deep cup base, but a meaningful handle or pause would come in handy.</p>
+      <p>Tesla earnings are expected to rise 4% vs. a year earlier to 80 cents a share. Revenue should jump 43% to $24.22 billion, Tesla's Shanghai plant was shut down for several weeks in the second quarter of 2022 due to Covid lockdowns.</p>
+      <p>Ongoing price cuts and incentives pushed deliveries to a new record in the second quarter. But that likely pressured gross margins further. Tesla's gross profit margin was 19.3% in first quarter, down from 23.8% in the fourth quarter and 29.1% in the first quarter of 2022.</p>
+      <p>Investors will be interested when the Cybertruck ramps up production and deliveries, as well as when an upgraded Model 3 hits the streets.</p>
+      <p>TSLA stock remains the No. 1 holding across Cathie Wood's Ark Invest ETFs. But Ark Invest has been paring its stake in recent days and weeks. It sold $8.4 million worth of Tesla stock on Tuesday after unloading $13.1 million on Monday.</p>
+      <h3>Netflix Earnings</h3>
+      <p>NFLX stock climbed 1% Wednesday. Netflix subscribers likely grew by 1.8 million in the second quarter, after the streamer ended the first quarter with 232.5 million paying customers worldwide. Analysts expect Netflix earnings to fall 12% vs. a year earlier, with revenue up 4% to $8.27 billion.</p>
+      <p>Netflix stock popped 5.5% on Tuesday to 474.80, its highest level since January 2022. Shares decisively cleared a messy, short-term consolidation.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Apple stock dipped 0.4% early Wednesday. The iPhone giant edged down 0.1% to 193.73 on Tuesday. That's just below AAPL stock's June 30 all-time high of 194.48.</p>
+      <p>Microsoft stock edged up 0.3% Wednesday. Shares jumped 4% on Tuesday 359.49, clearing a four-week consolidation to a fresh record high. On Tuesday, the Dow tech titan announced pricing for artificial intelligence tools.</p>
+      <p>Microsoft 365 Copilot will cost $30 a month for enterprise customers, on top of their existing subscriptions. Microsoft also will use Meta's new AI large language model, Llama 2, via its Azure cloud-computing service.</p>
+      <p>On Wednesday, Microsoft and Activision (ATVI) agreed to extend their deal deadline to Oct. 18, providing a little more space to clear final regulatory hurdles.</p>
+      <p>Microsoft earnings for its fiscal third quarter are set for July 25. Apple's fiscal second-quarter results come on Aug. 3.</p>
+      <h3>Internet Giants Google, Meta</h3>
+      <p>Google stock climbed 0.3% early Wednesday. Shares edged down 0.7% to 123.76. GOOGL stock is working on a 129.04 buy point from a short base, but could be working on a handle. On July 13, Google stock gapped above its 50-day line, also breaking a trendline. That offered an early entry.</p>
+      <p>The internet search giant is restricting some employees' access to the Internet to limit cybersecurity risks, CNBC reported Tuesday night.</p>
+      <p>Meta stock edged up 0.7%. Shares rose 0.5% on Tuesday to 312.05. The social media giant hit a 52-week high of 316.24 last week.  Meta stock is on track for its ninth-straight monthly gain in a near-vertical advance.</p>
+      <p>Google earnings are due July 25, with Meta on tap July 26.</p>
+    </div>
+  },
+  {
     id: 565,
     title: 'S&P 500 Giant, Roger Federer Play Lead 5 Stocks Near Buy Points',
     category: 'Indices',
