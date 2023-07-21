@@ -1,5 +1,563 @@
 const data = [
   {
+    id: 607,
+    title: 'GE Stock Soars 70% With Earnings On Deck — Is It A Buy?',
+    category: 'Markets',
+    subCategory: ['GE', 'Stocks', 'Deck'],
+    description: <div className="blog-desc">
+      <p>The "new GE," GE Aerospace, will emerge in 2024. GE stock has rallied due to momentum in General Electric's aviation unit.</p>
+    </div>,
+    authorName: 'APARNA NARAYANAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 21, 2023 - 1:33 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689919607/ncx-blog-924_qoilss.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The "new GE," GE Aerospace, will emerge in 2024. GE stock has rallied due to momentum in General Electric's aviation unit.</p>
+    	<p>General Electric (GE) eyes a future as an aviation and defense pure play, shedding its diversified conglomerate past. Is GE stock a buy after soaring to multi-year highs, with earnings due?</p>
+      <h3>GE News</h3>
+      <p>The industrial giant plans to spin off its energy business as GE Vernova in early 2024. That will allow the "new GE," GE Aerospace, the company's jet-engine business, to emerge as a stand-alone company.</p>
+      <p>The aerospace unit is benefiting from a recovery in commercial air travel.</p>
+      <p>Its health care spinoff, GE HealthCare Technologies (GEHC), debuted on the Nasdaq in January. General Electric had announced a three-way breakup — into independent power, health care and aviation companies — in 2021. Prior to that, it shed a series of assets, from lighting to locomotives.</p>
+      <p>Industrial companies are grappling with supply-chain issues and macro uncertainties. Other headwinds include the rapid rise in inflation and the Russia-Ukraine war.</p>
+      <h3>GE Stock's Huge Rally</h3>	
+    	<p>GE stock cleared a 108.90 buy point at the end of June . The entry from a three-weeks-tight pattern offered a place for existing investors to add a few more shares. The stock is within buy range, which goes to 114.35.</p>
+      <p>It remains above the 21-day exponential moving average as well as longer-term averages. Shares have risen every month in 2023 so far and sit at a five-year-plus high.</p>
+      <p>Year to date, GE stock has soared 70%, including an 11.5% jump in the past three months. It has more than doubled from its Sept. 30, 2022 low of 48.29.</p>
+      <p>The relative strength line has flattened out after a strong rally. A rising RS line means that a stock is outperforming the S&P 500. It is the blue line in the chart shown.</p>
+      <p>The industrial giant earns an IBD Composite Rating of 88 out of 99, according to the IBD Stock Checkup tool. The rating combines key technical and fundamental metrics in a single score.</p>
+      <p>General Electric owns an RS Rating of 96, meaning it has outperformed 96% of all stocks in IBD's database over the past year.</p>
+      <p>GE remains a popular stock on Wall Street. As of June, 1,922 funds owned shares.</p>
+      <h3>GE Earnings</h3>	
+    	<p>On key earnings and sales metrics, GE stock earns an EPS Rating of 73 out of a best-possible 99, and an SMR Rating of C, on a scale of A (best) to E (worst). The EPS Rating compares a company's earnings per share growth to all other companies. The SMR Rating reflects sales growth, profit margins and return on equity.</p>
+      <p>In 2022, GE earnings surged 53% as revenue grew 3%, according to the company's 2022 Annual Report. On April 25, GE's first-quarter earnings crushed estimates.</p>
+      <p>After the GE HealthCare Technologies spinoff, GE's two remaining businesses focus on aerospace and energy, including renewable energy.</p>
+      <p>For aerospace and energy combined, GE management projects earnings will more than double to $1.70-$2 per share for full-year 2023, up from 77 cents in 2022.</p>
+      <p>Free cash flow (FCF) is a closely watched metric. In 2023, GE management expects FCF to grow as much as 35% to $4.2 billion at the combined aerospace and energy businesses. That would be up from $3.1 billion in 2022.</p>
+      <p>GE earnings for the second quarter are due on July 25.</p>
+      <p>Out of 20 analysts on Wall Street, 13 rate GE stock a buy. Seven have a hold and no one has a sell.</p>
+      <h3>GE Aerospace</h3>
+      <p>The aerospace segment — sometimes called GE's "crown jewel" — makes jet engines and aviation systems for plane makers including Boeing (BA). GE Aerospace also runs a lucrative aftermarket business for engine repair and maintenance.</p>
+      <p>During the pandemic, travel restrictions to halt the spread of Covid-19 negatively affected aircraft deliveries and orders.</p>
+      <p>Aerospace suppliers also struggled to deliver parts and equipment on time, due to pandemic-fueled shortages of semiconductor chips and plastics. Costs of aluminum and steel also rose.</p>
+      <p>For GE Aerospace, many of those headwinds have eased.</p>
+      <h3>Rivals To General Electric</h3>
+      <p>Rivals to General Electric include Raytheon Technologies (RTX), Siemens (SIEGY) and Honeywell (HON).</p>
+      <p>Raytheon and Rolls-Royce of Britain are major jet-engine rivals. GE competes with Siemens Energy in power and with Honeywell in aviation systems.</p>
+      <p>Other industrial peers include 3M (MMM) and Roper Technologies (ROP).</p>
+      <h3>Is GE Stock A Buy?</h3>
+      <p>General Electric's poised for a huge transformation, shedding its diversified past to make a big bet on an aviation-focused future.</p>
+      <p>However, the jet-engine business is highly cyclical. Globally, recession fears linger, while rate hikes to control inflation are weighing on many economies. The Russia-Ukraine war adds to business uncertainty.</p>
+      <p>For an industrial giant like General Electric, these are challenging headwinds.</p>
+      <p>From a technical view, GE shares have successfully rebounded from a test of the 10-week line.</p>
+      <p>The stock is currently in range from a 108.90 follow-on entry. It has ripped higher in 2023 ahead of the GE Aerospace debut.</p>
+      <p>Bottom line: GE stock is a buy.</p>
+      <p>Over the long term, buying an index fund, such as SPDR S&P 500 (SPY), would have delivered safer, higher returns than GE stock. If you want to invest in a large-cap stock, IBD offers several strong ideas here.</p>
+    </div>
+  },
+  {
+    id: 606,
+    title: 'Netflix Declines the Most This Year as Outlook Disappoints',
+    category: 'Markets',
+    subCategory: ['Netflix', 'Declines', 'Outlook'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Netflix Inc. shares fell the most this year after the company projected third-quarter revenue that fell short of Wall Street estimates, suggesting a crackdown on password sharing and a new advertising tier aren’t yet delivering the sales growth analysts anticipated.</p>
+    </div>,
+    authorName: 'Lucas Shaw',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 21, 2023 - 12:51 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689917386/ncx-blog-920_ftzfay.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Netflix Inc. shares fell the most this year after the company projected third-quarter revenue that fell short of Wall Street estimates, suggesting a crackdown on password sharing and a new advertising tier aren’t yet delivering the sales growth analysts anticipated.</p>
+    	<p>The shares tumbled 8.4% to $437.42 in New York Thursday, the most since Dec. 15. The stock had risen 62% this year through Wednesday on optimism surrounding the company’s new initiatives.</p>
+      <p>While Netflix grew its subscriber base by 8% in the second water, sales rose just 2.7% to $8.19 billion, coming in slightly below analysts’ projections. That was due in part to foreign exchange rates and to price cuts in some markets. Netflix also generated less revenue per customer in the most recent quarter. The company expects sales of $8.52 billion in the third quarter, compared with the $8.67 billion average of Wall Street estimates.</p>
+    	<p>The results were fine “but not enough to move the stock higher given the move in past three months,” LightShed Partners analyst Rich Greenfield said after the results were announced.</p>	
+    	<p>Netflix executives called for patience on a call with Bank of America analyst Jessica Reif Ehrlich. It will take several quarters to realize the financial benefits of paid sharing, co-Chief Executive Officer Greg Peters said Wednesday.</p>
+      <p>“While we’ve made steady progress this year, we have more work to do to reaccelerate our growth,” the company wrote in a letter to shareholders.</p>
+      <p>The shortfall overshadowed a solid quarter by most other metrics. Netflix added 5.89 million customers in the second period, more than doubling Wall Street estimates, and finished the quarter with 238.4 million members.</p>
+      <p>The results marked the company’s best second quarter since the depths of the pandemic three years ago and far surpassed Wall Street forecasts of 2.07 million new subscribers. Management expects similar growth this period.</p>
+      <p>The company credited much of the boom to its crackdown on password sharing. In May, the streaming leader started charging people in more than 100 countries to continue sharing their passwords, a key part of its plan to accelerate growth after a sluggish 2022. Viewers using someone else’s subscription can now either pay to keep sharing or set up their own account.</p>
+      <p>The plan has been controversial with users, and analysts were divided about how it would impact growth. Netflix lost customers in the first half of 2022, prompting a steep drop in the shares and leading to a selloff in other media stocks.</p>
+      <p>While the company initially warned it would see an uptick in cancellations at the start of the crackdown, new sign-ups are already exceeding cancellations. Netflix said that sales will accelerate in the months ahead, with third-quarter growth projected at 7.5%.</p>
+      <p>Earlier Wednesday, Netflix also eliminated the lowest-priced ad-free plan, pushing consumers toward a lower-priced, ad-backed service or a costlier commercial-free plan.</p>
+      <p>While analysts have raised concerns about losses from streaming at many of Netflix’s competitors, including Walt Disney Co. and Warner Bros. Discovery Inc., Netflix is delivering higher profit. Second-quarter earnings of $3.29 a share beat the $2.85 a share average analyst estimate, according to a Bloomberg survey.</p>
+      <p>Netflix raised its 2023 forecast for free cash flow to $5 billion, from at least $3.5 billion previously, as a result of a strike by writers and actors, which has shuttered production and cut spending. However, free cash flow will take a hit next year when productions get back up and running. Co-CEO Ted Sarandos declined to address how the strike would impact the company’s output of new programming.</p>
+      <p>--With assistance from Subrat Patnaik.</p>
+    </div>
+  },
+  {
+    id: 605,
+    title: 'Stocks shuffle sideways, China drips support as property crisis reignites',
+    category: 'Markets',
+    subCategory: ['Stock', 'China', 'property'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) - World share markets shuffled sideways on Thursday as investors looked ahead to a clutch of key central bank meetings, saw Chinese property teeter again and disappointing earnings from Netflix and Tesla that pushed Wall Street futures lower.</p>
+    </div>,
+    authorName: 'Marc Jones',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 6:53 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689862788/ncx-blog-915_mugjnm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Marc Jones</p>
+	    <p>LONDON (Reuters) - World share markets shuffled sideways on Thursday as investors looked ahead to a clutch of key central bank meetings, saw Chinese property teeter again and disappointing earnings from Netflix and Tesla that pushed Wall Street futures lower.</p>	
+	    <p>There had been pockets of gains in Asia and in commodities markets after China's government pledged some additional support for its economy, although there was another slide in its tech stocks along with the festering property concerns.</p>	
+	    <p>Europe's big bourses eventually nudged higher as a jump in metals prices, and a 2.3% leap in wheat after Russia struck Ukraine's ports, lifted mining and basic resource stocks more than 2%.</p>
+      <p>The major FX pairs were largely quiet but there was action in emerging markets.</p>
+      <p>China's yuan shot up after authorities tweaked cross-border financing rules and major state-owned banks were seen selling dollars, while Turkey's lira was stuck near a record low as its second interest rate hike since President Tayyip Erdogan secured a third decade in power in May underclubbed expectations.</p>
+      <p>"The need to tighten monetary policy to tame inflation and start to restore confidence in Turkish assets is recognised," said Stuart Cole, chief macro economist, at Equiti Capital.</p>
+      <p>"But there are genuine concerns that if they go too fast they may potentially risk financial stability and shock the economy in general."</p>
+      <p>The crucial next moves from the major economy central bank meetings in Japan, Europe and the United States are all a focus of investor attention, with the Bank of England then due in the first week of August.</p>
+      <p>Bank of Japan Governor Kazuo Ueda said this week there was still some distance to sustainably and stably achieving the central bank's 2% inflation target, dousing speculation of a change to its "yield curve control" policy next week.</p>
+      <p>Traders and analysts expect the European Central Bank to raise its benchmark rate by 25 basis points next week, but what comes after that has been up for debate in the wake of a recent dovish tone taken by the central bank's policymakers.</p>
+      <p>Markets seem a lot more certain of the Federal Reserve's next steps, with traders expecting a 25 basis point hike but no more after that.</p>
+      <p>FRAGILE CHINA</p>
+      <p>China stocks have been under pressure in recent weeks as soft economic data weighed on sentiment, with investors waiting for meaningful stimulus to jump-start the country's stuttering post-pandemic recovery.</p>
+      <p>Daleep Singh, chief global economist at PGIM Fixed Income, said China's current recovery is unlike others as it relies on consumer-led growth following years of credit fuelled investment in property and infrastructure.</p>
+      <p>"However, the consumer already appears to be losing momentum. Moreover, there is no evidence as of yet that the property slump is bottoming out... We anticipate that fiscal stimulus will focus on local governments."</p>
+      <p>Analysts at TD Securities meanwhile expect Beijing to announce a 4 trillion yuan ($560 billion) stimulus package at July's Politburo meeting.</p>
+      <p>Asia's tech stocks were not helped by Taiwan's TSMC - the world's biggest chipmaker - posting a 23.3% fall in second-quarter net profit.</p>
+      <p>U.S. futures were pointing down after Netflix's second-quarter revenue numbers fell short of estimates and electric carmaker Tesla's gross margin also failed to excite.</p>
+      <p>The Australian dollar rose 0.8% to $0.68 after strong domestic jobs data.</p>
+      <p>Bond markets were largely quiet following a strong rally on the back of better-looking inflation data from the United States and Britain over the last couple of weeks.</p>
+      <p>Commodities traders meanwhile watched wheat futures spike 2.3% on growing expectations that an attack on Ukrainian ports after Russia's withdrawal from a Black Sea export deal will have a longer-term impact on global supply.</p>
+      <p>Evghenia Sleptsova, senior economist at Oxford Economics, said that between August and May, when the deal was working relatively well, Ukraine exported on average 4.5-5mt of grains per month via ports, versus 5-6mt per month before the war.</p>
+      <p>Between March and June 2022 at the peak of Russia’s post-invasion sea blockade, that number had been just 0.2-1mt per month though, meaning there could be another a big fall now.</p>
+      <p>"River port capacity has now increased somewhat, but we can safely assume that about 3mt per month of Ukraine's grain exports would be lost," she added, if the deal was not revived.</p>
+      <p>(Additional reporting by Ankur Banerjee in Singapore; Editing by Sharon Singleton and John Stonestreet)</p>
+    </div>
+  },
+  {
+    id: 604,
+    title: 'Apple just added $71 billion in market value on news it developing an Apple GPT AI',
+    category: 'Markets',
+    subCategory: ['Apple', 'GPT', 'AI'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Matthew Fox',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 6:45 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689865963/ncx-blog-917_s2fy6h.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li><strong>Apple stock briefly jumped as much as 2% on Wednesday after Bloomberg reported on the company's AI ambitions.</strong></li>
+        <li><strong>The stock-price surge added as much as $71 billion to the company's market cap.</strong></li>
+        <li><strong>According ot the report, Apple is building a large language model and already has an internal chatbot.</strong></li>
+      </ul>
+    	<p>Apple stock surged as much as 2.3% to a record high on Wednesday after Bloomberg reported on the company's artificial intelligence ambitions.</p>
+    	<p>Shares later pared gains to just under 1%, but the surge added as much as $71 billion to the company's market valuation at its peak on Wednesday, bringing Apple's total market capitalization to a record $3.12 trillion.</p>	
+	    <p>The one-day gain is equivalent to the entire market valuation of large-cap companies like Micron, Waste Management, and is more than the entire valuation of 390 other S&P 500 companies.</p>	
+	    <p>The most valuable company in the world has been very quiet on AI and the potential it has, while mega-cap tech peers Microsoft, Alphabet, and others have detailed plans on how they're going to capture the AI market opportunity. Microsoft surged as much as 6% on Tuesday after it announced a $30 subscription for its AI tool set.</p>
+      <p>Now, Apple is developing generative AI tools in a bid to catch OpenAI and the massive success it saw with the release of ChatGPT last year, Bloomberg said.</p>
+      <p>The iPhone maker has codenamed its AI project as "Ajax," which includes the creation of a chatbot service that some engineers call "Apple GPT," according to the report.</p>
+      <p>Apple has an entire career page dedicated to recruiting engineers that are experienced in machine learning infrastructure, deep learning and reinforcement learning, and natural language processing and speech technologies, with 179 current job openings.</p>
+      <p>The AI push at Apple has become a major effort in recent months, according to the report, with several teams at the company collaborating on project Ajax. Some areas of the work include addressing potential privacy concerns related to the AI, as Apple has long prided itself on having strict privacy rules.</p>
+      <p>In a May conference call, Apple CEO Tim Cook said there are still a "number of issues that need to be sorted" when it comes to AI technology, and that the company would implement AI capabilities into its products on a "very thoughtful basis."</p>
+      <p>According to Bloomberg, Apple still lacks a clear and decisive strategy in terms of delivering its AI technologies to consumers, aside from small improvements to the search capability of photos and Apple Maps as well as Siri for its iPhone users.</p>
+      <p>For its AI chatbot, sources told Bloomberg that it's essentially a replica of OpenAI's ChatGPT and Alphabet's Bard, and that it has a stripped-down design that was not meant for public consumption. Right now, it appears the focus of Apple is to improve its underlying large language models that serve as the foundation of its AI ambitions.</p>
+    </div>
+  },
+  {
+    id: 603,
+    title: 'Japan exports underwhelm in June, global weakness drags on economy',
+    category: 'Markets',
+    subCategory: ['Japan', 'exports', 'global'],
+    description: <div className="blog-desc">
+      <p>TOKYO (Reuters) -Japan's annual exports grew much-less than expected in June, highlighting weak Chinese and Western demand that continues to undercut the post-COVID recovery in the world's third-biggest economy.</p>
+    </div>,
+    authorName: 'Tetsushi Kajimoto',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 4:04 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689920287/ncx-blog-925_yne8vx.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Tetsushi Kajimoto</p>
+    	<p>TOKYO (Reuters) -Japan's annual exports grew much-less than expected in June, highlighting weak Chinese and Western demand that continues to undercut the post-COVID recovery in the world's third-biggest economy.</p>	
+    	<p>The risk of a world recession amid monetary policy tightening since last year has cast a pall over export-led economies, with many countries including Japan relying on domestic consumption to underpin growth.</p>	
+    	<p>The trade data, released by the Ministry of Finance (MOF) on Thursday, showed exports rose 1.5% year-on-year last month, below the 2.3% gain expected by 15 economists in a Reuters poll, but faster than a 0.6% rise in May.</p>
+      <h3>It marked the first trade surplus since July 2021.</h3>
+      <p>Exports were led by U.S.-bound shipments of cars and mining machinery, while China-bound shipments of steel, chips and nonferrous metal caused a double-digit decline in overall exports to China.</p>
+      <p>"The effects of U.S. and European rate hikes aimed at curbing demand and inflation will persist from now on, while the Chinese economy is struggling despite some stimulus steps, all of which deprive the global economy of a growth engine," said Takeshi Minami, chief economist at Norinchukin Research Institute.</p>
+      <p>"Going forward, it could be hard for Japan to maintain a trade surplus in a stable manner unless exports regain strength and global commodity prices keep import costs low."</p>
+      <p>Imports fell 12.9% year-on-year in June, versus the median estimate for a 11.2% decrease. The decline in the value of imports, caused by drops in crude, coal and liquefied natural gas, should help ease concerns about rising costs of purchases.</p>
+      <p>The overall trade numbers produced a trade surplus of 43 billion yen ($308.11 million), confounding the median estimate for a 90.1 billion yen deficit.</p>
+      <p>A weak yen and surging import costs have led to nearly two years of trade deficits in Japan, another challenge for policymakers hoping to shore up a fragile recovery following the end of COVID curbs.</p>
+      <p>By region, exports to China, Japan's largest trading partner, fell 11% year-on-year last month, due to drops in shipments of steel, chips and nonferrous metal, following a 3.4% decline in May.</p>
+      <p>U.S.-bound shipments, Japan's major ally, rose 11.7% year-on-year in June, led by shipments of cars, construction and mining machinery, following a 9.4% rise in the previous month.</p>
+      <p>($1 = 139.5600 yen)</p>
+      <p>(Reporting by Tetsushi Kajimoto; Editing by Shri Navaratnam, Stephen Coates and Angus MacSwan)</p>
+    </div>
+  },
+  {
+    id: 602,
+    title: 'Wednesday ETF Winners And Losers: Small-Cap Fund Flows - QQQE, Little Cousin Of Invesco QQQ, Adds $173.17 Million',
+    category: 'Markets',
+    subCategory: ['ETF', 'Invesco', 'QQQ'],
+    description: <div className="blog-desc">
+      <p>We performed a screening of small-cap ETFs - defined as having Assets Under Management (AUM) between $400 million and $2 billion - to determine what funds had the largest change in net assets on the week,</p>
+    </div>,
+    authorName: 'Johnny Rice',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 3:51 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689918587/ncx-blog-922_jobrmq.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>We performed a screening of small-cap ETFs - defined as having Assets Under Management (AUM) between $400 million and $2 billion - to determine what funds had the largest change in net assets on the week, according to data from etfdb.com. Only non-leveraged funds were considered.</p>
+    	<h3>Winners</h3>
+      <h3>Direxion NASDAQ-100 Equal Weighted Index Shares (NASDAQ: QQQE)</h3>
+      <p>QQQE added $173.17 million in net assets over the trailing week.</p>	
+    	<p>Direxion NASDAQ-100 Equal Weighted Index Shares is tied to the NASDAQ-100, much like QQQ, the uber-popular ETF from Invesco. However, they differ greatly in their weighting methodologies. In contrast to the more popular market cap weighting of QQQ which tends to lead to a top heavy concentration, QQQE is equally distributed amongst the 102 holdings.</p>	
+    	<p>QQQE has $1.16 billion in AUM and an expense ratio of 0.35%. The fund has holdings in 102 companies, with the 10 largest comprising 11.24% of the fund.</p>
+      <p>The fund’s largest holdings are Sirius XM Holdings, Inc. (NASDAQ: SIRI) and Old Dominion Freight Line, Inc. (NASDAQ: ODFL) making up 1.29% and 1.16% of the fund, respectively.</p>
+      <p>QQQE has added $641.13 million in net assets YTD.</p>
+      <h3>ProShares Bitcoin Strategy ETF (NYSEARCA: BITO)</h3>
+      <p>BITO added $138.97 million in net assets over the trailing week.</p>
+      <p>BITO offers investors indirect exposure to Bitcoin within the ease and security of an ETF. The fund does not hold Bitcoin directly, but rather invests in Bitcoin futures. BITO’s price movements follow the general movements of Bitcoin itself.</p>
+      <p>BITO has $1.16 billion in AUM and an expense ratio of 0.95%.</p>
+      <p>BITO has added $361.76 million in net assets YTD.</p>
+      <h3>Losers</h3>
+      <h3>iShares Emerging Markets Equity Factor ETF (BATS: EMGF)</h3>
+      <p>EMGF lost $105.84 million in net assets over the trailing week.</p>
+      <p>The iShares Europe ETF offers exposure to a broad swath of large and mid-cap companies from emerging markets, like Taiwan. Within these markets, the fund looks for inexpensive stocks, financially healthy firms, trending stocks and relatively low market cap companies.</p>
+      <p>EMGF has $627.3 million in AUM and an expense ratio of 0.25%. The fund has holdings in 593 companies, with the 10 largest comprising 23.80% of the fund.</p>
+      <p>The fund’s largest holdings are Taiwan Semiconductor Manufacturing Co., Ltd. (NYSE: TSM) and Samsung Electronics Co., Ltd. (KRX: 005930) making up 6.35% and 4.58% of the fund, respectively.</p>
+      <p>EMGF has lost $165.19 million in net assets YTD.</p>
+      <h3>Innovator U.S. Equity Power Buffer ETF - February (BATS: PFEB)</h3>
+      <p>PFEB lost $66.30 million in net assets over the trailing week.</p>
+      <p>The Innovator S&P 500 Power Buffer ETF seeks to track the return of the S&P 500 Price Return Index up to a predetermined cap, 14.34%, while buffering investors against the first 15% of losses over the outcome period.</p>
+      <p>PFEB has $532.9 million in AUM and an expense ratio of 0.79%.</p>
+      <p>PFEB has added $258.51 million in net assets YTD.</p>
+    </div>
+  },
+  {
+    id: 601,
+    title: 'US stocks edge higher as traders hope to keep win streak alive ahead of Big Tech earnings',
+    category: 'Markets',
+    subCategory: ['US', 'Stocks', 'Tech'],
+    description: <div className="blog-desc">
+      <p>US stocks ticked higher on Wednesday as traders awaited high-profile earnings results from Tesla and Netflix and hoped to keep the market's latest winning streak alive.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 1:42 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689920700/ncx-blog-926_yzmxkm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Stocks ticked higher on Wednesday as traders hoped to keep the Dow's winning streak alive.</li>
+        <li>The index notched its seventh straight win on Tuesday, its longest streak since 2021.</li>
+        <li>Traders are waiting for Big Tech earnings to roll out, with Tesla and Netflix set to report after the close.</li>
+        <p></p>
+      </ul>
+    	<p>US stocks ticked higher on Wednesday as traders awaited high-profile earnings results from Tesla and Netflix and hoped to keep the market's latest winning streak alive.</p>
+    	<p>The Dow Jones Industrial Average closed higher for its seventh straight win on Tuesday, its longest streak of gains since 2021.</p>	
+    	<p>Markets are still digesting the latest round of bank earnings, with Goldman Sachs shares slipping after the investment bank missed expectations for the second quarter. Profits declined 58% from the last quarter, while revenue slipped 8%, the bank reported Wednesday morning.</p>	
+    	<p>Goldman's results were an outlier among big bank earnings reports that have mostly surprised to the upside so far. Both Bank of America and Morgan Stanley reported results that beat estimates on Tuesday.</p>
+      <p>Investors are awaiting earnings reports from Tesla, Netflix, and IBM after the closing bell on Wednesday.</p>
+      <h3>Here's where US indexes stood at the 9:30 p.m. ET opening bell on Wednesday:</h3>
+      <ul>
+        <li>S&P 500: 4,571.92, up 0.37%</li>
+        <li>Dow Jones Industrial Average: 35,121.24, up 0.48% (169.31 points)</li>
+        <li>Nasdaq Composite: 14,393.03, up 0.24%</li>
+      </ul>
+      <h3>Here's what else has happened today:</h3>
+      <ul>
+        <li>Elon Musk chimed in on Twitters after Microsoft and Nvidia's rally.</li>
+        <li>Russia is planning a digital version of the ruble after a 19% slide against the dollar this year.</li>
+        <li>Microsoft's market value soared as much as $154 billion on Tuesday. That's the equivalent of Jeff Bezos's entire fortune.</li>
+        <li>Goldman Sachs is warning of a historic slowdown in home price growth.</li>
+      </ul>
+      <h3>In commodities, bonds and crypto:</h3>
+      <ul>
+        <li>West Texas Intermediate crude edged up 0.7% to $76.29 per barrel. Brent crude, oil's international benchmark, climbed 0.8% to $80.33 a barrel.</li>
+        <li>Gold was down slightly to $1,979.40 per ounce.</li>
+        <li>The yield on the 10-year Treasury slipped two basis points to 3.76%.</li>
+        <li>Bitcoin inched higher 0.26% to $29,887.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 600,
+    title: 'Nvidia More Than Triples In 2023 On AI Boost — Is It A Buy?',
+    category: 'Markets',
+    subCategory: ['Nvidia', 'AI', 'Boost'],
+    description: <div className="blog-desc">
+      <p>Nvidia (NVDA), a giant in data centers and gaming, continues to sizzle. The chip giant is seen as one of the biggest winners of the AI boom. Is Nvidia stock a buy right now?</p>
+    </div>,
+    authorName: 'APARNA NARAYANAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 12:28 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689864115/ncx-blog-916_raxvra.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Nvidia (NVDA), a giant in data centers and gaming, continues to sizzle. The chip giant is seen as one of the biggest winners of the AI boom. Is Nvidia stock a buy right now?</p>
+    	<h3>Semiconductor, AI News</h3>
+      <p>On May 30, Nvidia Chief Executive Jensen Huang announced a new supercomputer, software and services for generative AI (artificial intelligence). Generative AI can create content, including written articles, from simple descriptive phrases by analyzing and digesting vast amounts of data. It can also write computer programming code.</p>	
+    	<p>For its latest quarter, graphics-chip maker Nvidia crushed Wall Street's targets on record data-center sales. Production is ramping up to meet huge demand for AI technology, CEO Huang said.</p>	
+    	<p>Nvidia is a leader in AI chips. In the tech industry's fierce battle for AI dominance, the advanced chips needed for generative AI, such as the ChatGPT chatbot, are key.</p>
+      <p>For those looking for top large-cap stocks to buy now, here's a dive into NVDA stock.</p>
+      <h3>Nvidia Stock Technical Analysis</h3>
+      <p>The chip stock is out of range from a 439.90 buy point. The entry from a three-weeks-tight pattern had offered a place for existing investors to add a few more shares. The buy range goes to $461.90, the IBD Leaderboard stock analysis shows. Shares pegged a 52-week of 480.88 on July 14 and have now pulled back a bit, near 471.</p>
+      <p>Nvidia stock rocketed in May on blowout earnings and strong guidance. NVDA joined the prestigious IBD Leaderboard in February on an earnings gap-up. Despite its scorching run so far in 2023, the chip giant continues to hold up well.</p>
+      <p>Year to date, Nvidia stock has skyrocketed more than 222%, after crashing in 2022.</p>
+      <p>NVDA earns an IBD Composite Rating of 98, the highest possible score. In other words, Nvidia stock is in the top 2% of all stocks in terms of technical and fundamental metrics.</p>
+      <p>Investors generally should focus on stocks with Comp Ratings of 90 or even 95 and above. Nvidia stock often earns a spot on the IBD 50, Big Cap 20 and Sector Leaders lists.</p>
+      <p>The relative strength line is striking fresh highs, the IBD MarketSmith charts show. A rising RS line means that a stock is outperforming the S&P 500. It is the blue line in the chart shown.</p>
+      <p>The IBD Stock Checkup tool shows that NVDA carries a Relative Strength Rating of 99. That means it has outperformed 99% of all other stocks over the past year.</p>
+      <p>The iShares PHLX Semiconductor ETF (SOXX) holds both Nvidia stock and AMD stock.</p>
+      <h3>Nvidia Earnings</h3>
+      <p>Nvidia's EPS Rating is 68 out of 99 and its SMR Rating is a B, on a scale of A to a worst E. The EPS rating compares a company's earnings growth to other stocks. Its SMR Rating gauges sales growth, profit margins and return on equity.</p>
+      <p>On May 24, the chip giant delivered a big beat-and-raise report. The Nvidia earnings report included a bullish, AI-fueled sales forecast.</p>
+      <p>The Santa Clara, Calif.-based company earned $1.09 a share on sales of $7.19 billion in the quarter ended April 30. Year over year, Nvidia earnings dropped 20% while sales fell 13%. But the results easily outpaced Wall Street's expectations.</p>
+      <p>In Q1, data-center sales rose 14% to $4.28 billion. Gaming-chip sales fell 38% to $2.24 billion.</p>
+      <p>Analysts expect Nvidia earnings to rebound 136% in fiscal 2024, on a 61% sales gain. Last year, Nvidia earnings fell 25%.</p>
+      <p>Its next quarterly report is expected on Aug. 23.</p>
+      <p>Out of 50 analysts covering NVDA stock, 43 rate it a buy. Six have a hold and one has a sell, according to FactSet.</p>
+      <h3>NVDA Backstory, Rivals</h3>
+      <p>The fabless chipmaker pioneered graphics processing units, or GPUs, to make video games more realistic. It's expanding in AI chips, used in supercomputers, data centers and drug development.</p>
+      <p>Nvidia's GPUs act as accelerators for central processing units, or CPUs, made by other companies. It's working on "supercomputers" combining its own CPUs and GPUs.</p>
+      <p>In addition, Nvidia chips are used for Bitcoin mining and self-driving electric cars.</p>
+      <p>Nvidia has made a big push into metaverse applications.</p>
+      <p>Fabless chip stocks include Qualcomm (QCOM), Broadcom (AVGO) and Monolithic Power Systems (MPWR).</p>
+      <p>Currently, the fabless group ranks No. 2 out of 197 industry groups. Fabless companies design the hardware while outsourcing the manufacturing to a third-party firm.</p>
+      <p>For the best returns, investors should focus on companies that are leading the market and their own industry group.</p>
+      <h3>Is Nvidia Stock A Buy?</h3>
+      <p>On a fundamental level, Nvidia earnings are expected to return to growth. They should more than double this fiscal year, driven by booming chip sales for data centers and artificial intelligence.</p>
+      <p>The fabless chipmaker is expanding in other growth areas such as automated electric cars and cloud gaming as well. The adoption of the metaverse and cryptocurrencies could further stoke demand for Nvidia chips.</p>
+      <p>However, macroeconomic uncertainties and risk of global recession linger.</p>
+      <p>NVDA stock has staged a massive comeback, more than tripling in 2023 so far. Shares cleared a 439.90 three-week-tight entry in June but have climbed above a proper buy zone.</p>
+      <p>Nvidia's latest supercomputer news and earnings have further highlighted its AI leadership.</p>
+      <p>Bottom line: Nvidia stock is a top stock in a top industry group, but it is not a buy right now. As a leading chip company with exposure to top end-markets, Nvidia is always one to watch.</p>
+    </div>
+  },
+  {
+    id: 599,
+    title: 'Morgan Stanley Sells $6.75 Billion of Debt Amid Bond Rush',
+    category: 'Markets',
+    subCategory: ['Morgan', 'Debt', 'Bond'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Morgan Stanley added to the recent wave of bank bond sales in the US investment-grade market on Wednesday, a sign that issuance is still going strong as lenders emerge from earnings blackout periods.</p>
+    </div>,
+    authorName: 'Allison Nicole Smith',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 12:17 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689916487/ncx-blog-918_e4iqm9.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Morgan Stanley added to the recent wave of bank bond sales in the US investment-grade market on Wednesday, a sign that issuance is still going strong as lenders emerge from earnings blackout periods.</p>
+    	<p>The bank sold $6.75 billion of debt in a four-part deal, according to a person familiar with the matter, who asked not to be identified as the details are private. The longest dated portion of the sale, an 11-year note that can’t be called for 10 years, yields 1.67 percentage points over Treasuries after initial pricing discussions in the area of 1.85 percentage points, said the person.</p>	
+    	<p>Morgan Stanley’s bond sale is the latest in a deluge of transactions from banks that have reported quarterly earnings. This reporting season has seen JPMorgan Chase & Co. sell a $4.5 billion dual-tranche deal, while Wells Fargo & Co. priced $1.725 billion of perpetual notes Monday followed by a jumbo $8.5 billion two-tranche trade on Tuesday, the bank’s largest self-led offering on record.</p>	
+    	<p>If this week’s bank deals are any indication, investors are hungry for more financial issuance. Morgan Stanley raked in $29 billion in orders for the high-grade deal, according to Bloomberg’s Brian Smith. Meanwhile, JPMorgan’s bond offering on Monday saw a peak book of $17 billion and Wells Fargo’s on Tuesday saw demand of more than $21 billion. Goldman Sachs Group Inc., Citigroup Inc. and Bank of America Corp. may still add to the bond issuance spree.</p>
+      <p>Morgan Stanley didn’t respond to a request for comment.</p>
+      <p>The recent flood of bank sales suggests that the second half of 2023 could be poised for an issuance rebound, as financial companies look to meet new regulations requiring lenders to have greater so-called total loss absorbing capacity. As such, some lenders may need to start tapping debt markets in order to have more securities that can help absorb losses in times of trouble.</p>
+      <p>Issuance from financial companies — usually some of the biggest sellers of corporate debt in the US — has been sluggish so far this year, after lenders front-loaded borrowing needs in 2022, in part to get ahead of the Federal Reserve’s interest-rate hikes.</p>
+      <p>Prior to Wednesday, the banking sector sold $303 billion of bonds in 2023, representing about 41% of investment-grade volume, according to data compiled by Bloomberg. That compares to about $394 billion sold and 53% of investment-grade volume in the same period a year earlier.</p>
+      <p>--With assistance from Michael Gambale, Brian Smith and Allan Lopez.</p>
+    </div>
+  },
+  {
+    id: 598,
+    title: 'AT&T Fires Back On Lead-Sheathed Cabling Issue, Telecom Stocks Climb',
+    category: 'Markets',
+    subCategory: ['AT&T', 'Telecom', 'Stock'],
+    description: <div className="blog-desc">
+      <p>Telecom stocks rebounded Wednesday after AT&T (T) responded to Wall Street's worries over its possible exposure regarding lead-sheathed cables installed in phone networks.</p>
+    </div>,
+    authorName: 'REINHARDT KRAUSE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 12:04 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689916805/ncx-blog-919_mjdiqk.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Telecom stocks rebounded Wednesday after AT&T (T) responded to Wall Street's worries over its possible exposure regarding lead-sheathed cables installed in phone networks. T stock gained over 8% as Wall Street analysts mulled an AT&T court filing.</p>
+    	<p>Shares in Verizon Communications (VZ), Lumen Technologies (LUMN) and Frontier (FYBR) also rose on Wednesday. The telecom stocks lost a combined $18 billion in market value last week.</p>	
+    	<p>Last week, the Wall Street Journal reported telecom companies installed potentially dangerous lead-covered cables. The cables exist overhead on poles, in soil and underwater.</p>
+      <h3>T Stock: Lake Tahoe Court Filing</h3>	
+    	<p>In the court filing, AT&T said: "Although the Journal seeks to raise the specter of a broad public health issue, lead-clad telecom cables make up a small part of AT&T's network. Based on its records, AT&T estimates that lead clad cables represent less than 10% of its copper footprint of roughly two million sheath miles of cable, the overwhelming majority of which remains in active service."</p>
+      <p>AT&T added: "More than two-thirds of its lead-clad cabling is either buried or in conduit, followed by aerial cable, and with a very small portion running underwater. There are varying costs of installation, maintenance, and removal by cable type."</p>
+      <p>Also, the court filing involves litigation over lead-clad cables in Lake Tahoe, which straddles the California-Nevada border.</p>
+      <p>Wall Street analysts debate how much it could cost the phone companies to remove the lead-sheathed cables. Phone companies installed most of the cables before the 1960s.</p>
+      <h3>AT&T Stock: Conference Call With Analysts</h3>
+      <p>Meanwhile, AT&T hosted a conference call with Wall Street analysts Tuesday night.</p>
+      <p>T stock analyst Gregory Williams from TD Cowen estimated that AT&T will spend $246 million per year removing lead-sheathed cabling from networks.</p>
+      <p>"AT&T investor relations hosted an impromptu investor call laying out the framework on the toxic lead-clad cable risk," Williams said in a note to clients. "The framework suggests minimal health risk, minimal cable exposure, minimal financial risk and remedied over many years, if any risk at all. We view the (Lake Tahoe) case as highly constructive on all telco and tower stocks that were impacted."</p>
+      <h3>Risk Seen At $84 Million A Year</h3>
+      <p>At Raymond James, telecom stocks analyst Frank Louthan said in his note to clients: "AT&T is telling us that the total exposure is 200,000 route-miles or less. If it is determined that it all must be removed, we estimate the risk to T is something in the neighborhood of $84 million per year."</p>
+      <p>On the stock market today, T stock popped 8.5% to close at 14.59. VZ stock rose 5.3% to 33.97. LUMN stock shot up 16.7% to 1.89. And FYBR soared 26.3% to 15.28.</p>
+      <p>Meanwhile, analysts noted AT&T's criticism of the WSJ in its court filing.</p>
+      <p>"The company took several shots at the WSJ articles and its methods and processes of gathering its data, and highlighted several key potential conflicts of interest in the Journal's work for its articles," said Louthan.</p>
+      <h3>Telecom Stocks: AT&T Criticism Of Reporting</h3>
+      <p>At Goldman Sachs, analyst Brett Feldman noted that AT&T has decided not to proceed with the removal of the two telecom cables from the bottom of Lake Tahoe.</p>
+      <p>"According to the filing, AT&T has always maintained that its lead-clad telecommunications cables pose no danger to those who work and play in the waters of Lake Tahoe, but in 2021, AT&T agreed to remove them simply to avoid the expense of litigation," Feldman said.</p>
+      <p>He added: "However, recent reporting by the WSJ has placed these cables at the center of what it claims is a national public health crisis, according to the filing. The filing further states that based on AT&T's repeated testing of these cables, it has serious concerns with the WSJ's testing methods and the reliability of its results and reporting."</p>
+      <p>AT&T wants the U.S. Environmental Protection Agency to look into the issue.</p>
+      <h3>Response From Dow Jones</h3>
+      <p>Both IBD and the Wall Street Journal are owned by News Corp (NWS) and operated by Dow Jones. A Dow Jones spokeswoman pointed to a Tuesday story from the Journal, which said AT&T erroneously identified the Environmental Defense Fund as the group that paid for its testing of the lead-sheathed cables.</p>
+      <p>"EDF didn't pay for testing used in the Journal's analysis and the Journal selected locations to test based on government permit records and additional reporting," the story said. "The Journal worked with Marine Taxonomic Services and other experts on sampling and selected independent laboratories for analysis of the samples. MTS has received guidance and funding from EDF."</p>
+      <p>As of Wednesday's market open, T stock had retreated 26% in 2023. Also, VZ stock was down 18%. Further, second-quarter earnings for Verizon stock are due July 25. Earnings for T stock are due July 26.</p>
+    </div>
+  },
+  {
+    id: 597,
+    title: 'Cathie Wood, ARK Invest Add Coinbase To Selling Spree; Unload $82 Million Of COIN Stock',
+    category: 'Markets',
+    subCategory: ['ARK', 'Cathie', 'Coinbase'],
+    description: <div className="blog-desc">
+      <p>Cathie Wood, ARK Invest unload $82 million worth of COIN stock in a multiday selling spree as Coinbase trades near 2023 highs.</p>
+    </div>,
+    authorName: 'HARRISON MILLER',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 20, 2023 - 12:04 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689862370/ncx-blog-914_wafp7g.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Cathie Wood, ARK Invest unload $82 million worth of COIN stock in a multiday selling spree as Coinbase trades near 2023 highs.</p>
+    	<p>Fund manager Cathie Wood and her ARK Invest Management firm are taking profits and on a selling spree that now includes Coinbase (COIN), as the cryptocurrency exchange rises to year-highs. COIN stock jumped Wednesday.</p>	
+    	<h3>Coinbase Selling Spree</h3>
+      <p>Wood and ARK Invest unloaded $82.1 million in Coinbase shares over the past three trading days, according to daily investor updates from the firm. Wood had also sold nearly $50.4 million worth of COIN stock Friday, after Coinbase rocketed to 2023 highs.</p>	
+    	<p>ARK sold 248,838 shares of COIN stock Monday, worth $26.26 million based on the 105.55 closing price.</p>
+      <p>The firm sold 127,266 shares from its flagship ARK Innovation ETF (ARKK), representing 0.15% of the total ETF. Wood offloaded 8,708 shares from the ARK Next Generation Internet ETF (ARKW), about 0.3% of the total fund. The firm sold 76,788 shares of COIN stock from the ARK Fintech Innovation ETF (ARKF) Monday, representing 0.78% of the total ETF.</p>
+      <p>Trading was much more muted Tuesday as Coinbase stock eased 1%. Wood and ARK sold 52,224 shares across the three ETFs worth $5.46 million based on the 104.59 closing price.</p>
+      <p>Wood unloaded Coinbase shares representing about 0.03% of ARKK's total holdings, 0.06% of ARKW's holdings and 0.16% of ARKF's total ETF, respectively.</p>
+      <h3>Cryptocurrencies Rally On Court Case Win</h3>
+      <p>Cryptocurrency prices and related stocks rallied at the end of last week after Ripple Labs scored what appears to be a major win in its court case against the Securities and Exchange Commission on Thursday.</p>
+      <p>The SEC sued Ripple in December 2020, accusing the crypto and blockchain solutions provider of offering its XRP token as an unregistered security. On Thursday, a judge in the Southern District of New York ruled XRP is a security when used for institutional sales but not when it's sold to the broader public. XRP rallied roughly 75% near 82 cents following the ruling.</p>
+      <p>Bitcoin and ethereum bolted near year-highs following the lawsuit update but faded early this week.</p>
+      <p>Bitcoin traded around $30,000 late Wednesday after rocketing as high as $31,809 last Thursday on the Ripple news. Ethereum briefly reclaimed its $2,000 level intraday last Thursday but slid back near $1,900 by Wednesday.</p>
+      <h3>Coinbase Stock</h3>
+      <p>Coinbase surged 5.3% to 110.15 Wednesday marking a new 2023 high. COIN stock rallied 24.5% last Thursday following the court decision. Shares are up about 22% over the past five days after paring gains on Friday and Tuesday.</p>
+      <p>COIN stock soared 211% so far this year.</p>
+    </div>
+  },
+  {
+    id: 596,
+    title: 'Stock Market Weakens In Afternoon Action; Lululemon Stock Breaks Out',
+    category: 'Markets',
+    subCategory: ['Stock', 'Lululemon', 'Break Out'],
+    description: <div className="blog-desc">
+      <p>The stock market deteriorated in afternoon trading on Wednesday, with the major indexes now showing mixed results. Investors analyzed a multitude of earnings reports, including Carvana (CVNA), ASML (ASML) and J.B. Hunt Transport Services (JBHT).</p>
+    </div>,
+    authorName: 'KIMBERLEY KOENIG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 9:41 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689917979/ncx-blog-921_miaqsb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The stock market deteriorated in afternoon trading on Wednesday, with the major indexes now showing mixed results. Investors analyzed a multitude of earnings reports, including Carvana (CVNA), ASML (ASML) and J.B. Hunt Transport Services (JBHT).</p>
+    	<p>The Nasdaq composite gave back earlier gains and traded down 0.1% in Wednesday afternoon trading. The Dow Jones Industrial Average led the indexes by adding 0.4%, while the S&P 500 edged up 0.2%. Meanwhile, the small-cap Russell 2000 rose 0.2%.</p>	
+    	<p>The Nasdaq 100-tracking Invesco QQQ Trust ETF (QQQ) reversed earlier gains to post a 0.2% loss. The Innovator IBD 50 ETF (FFTY) fared worse than the major indexes, dropping 2%.</p>	
+    	<p>NYSE and Nasdaq volume rose vs. the same time on Tuesday.</p>
+      <p>June housing starts of 1.434 million fell short of the 1.48 million consensus, according to Econoday. Meanwhile, permits tallied 1.44 million vs. the expected 1.483 million.</p>
+      <h3>Stock Market Movers: AI Stock Pops Again</h3>
+      <p>Palantir Technologies (PLTR) gave back earlier gains, shedding 0.8% after the company announced a partnership with SpecterOps. The deal will help SpecterOps provide its enterprise-grade defense solution to government agencies through Palantir's FedStart software-as-a-service (SaaS).</p>
+      <p>PLTR stock is seeing strength from its artificial intelligence focus. The cybersecurity stock hit a 52-week high today.</p>
+      <p>Shares of Lululemon Athletica (LULU) advanced 1.3% and broke out of a sideways-trending base, hitting the 389.06 buy point. The athleisure stock is in the 5% buy zone that extends to 408.51.</p>
+      <p>Lululemon stock hit a 52-week high. The company posted accelerating earnings growth of 54% in its April-ended quarter, on 24% sales growth. Analysts expect 18% EPS growth in fiscal 2024 and 15% in 2025.</p>
+      <p>Sofi Technologies (SOFI) trimmed bigger gains to add 2%. The fintech stock retreated from the 20% profit zone of a cup base with 8.24 buy point.</p>
+      <h3>Auto Retailer Surges After Earnings</h3>
+      <p>Carvana stock surged over 28% in huge volume, after the company reported higher-than-expected Q2 sales and announced it expects positive adjusted Q3 EBITDA.</p>
+      <p>The used-car retailer also said it plans to significantly reduce its debt.</p>
+      <p>Asset management and wealth stock Goldman Sachs (GS) added 1.5% after reporting a miss on its Q2 earnings estimates.</p>
+      <p>Interactive Brokers (IBKR) sank 3.8% after the company missed on both revenue and profit numbers for the second quarter. The online broker cited lower futures contracts and a drop in stock share volume.</p>
+      <p>IBD 50 stock ASML fell 3.9% despite reporting a beat on Q2 sales and earnings. The semiconductor equipment supplier also gave higher-than-expected third-quarter sales guidance.</p>
+      <p>Shares retreated below the buy zone of a flat base with a 747.13 buy point.</p>
+      <p>Oil services stock Halliburton (HAL) fell 2.9% in heavy volume after reporting a miss on its Q2 sales numbers and a beat on EPS. Shares are down over 5% year to date.</p>
+      <p>Shares of J.B. Hunt gained 2.3%, even though the company reported lower-than-expected Q2 revenue and profit.</p>
+      <p>Shares are in a saucer base with a 200.64 buy point.</p>
+      <h3>Other Stock Market Action</h3>
+      <p>Omnicom (OMC) sold off more than 11% in very heavy volume after reporting a miss on sales and in-line EPS.</p>
+      <p>Shares of the marketing and advertising stock fell below the 50-day moving average, flashing a sell signal. OMC is the S&P 500's biggest loser today.</p>
+      <p>IBD Leaderboard stock Tesla (TSLA) and Netflix (NFLX) are slated to report second-quarter earnings Wednesday after the market close.</p>
+      <p>Joby Aviation (JOBY) stock sank over 17% in heavy volume, after JPMorgan Chase downgraded the all-electric aircraft company to underweight from neutral and increased its price target to 6 from 5.</p>
+    </div>
+  },
+  {
+    id: 595,
+    title: 'Regional Banks Shrink Balance Sheets as Stricter Rules Loom',
+    category: 'Markets',
+    subCategory: ['Regional', 'Bank', 'balance'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- US regional banks are shrinking their balance sheets to strengthen capital and improve liquidity as heightened interest rates and an anticipated tightening of regulations loom over the sector.</p>
+    </div>,
+    authorName: 'Max Reyes',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 8:22 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689921742/ncx-blog-927_pgjgso.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- US regional banks are shrinking their balance sheets to strengthen capital and improve liquidity as heightened interest rates and an anticipated tightening of regulations loom over the sector.</p>
+    	<p>U.S. Bancorp said it increased its CET1 capital ratio in the second quarter by 60 basis points from the previous three months while also making targeted asset sales and securitizing auto loans in an effort to cut risk on its balance sheet. Citizens Financial Group Inc. earmarked around $14 billion in loans that it will allow to run off its balance sheet as part of “intensified balance sheet optimization efforts.”</p>	
+    	<p>In the most dramatic example so far this quarter, Western Alliance Bancorp said it sold roughly $4 billion in assets, including $3.5 billion in loans tied to residential, commercial real estate and business lending, to improve capital and liquidity while reducing wholesale borrowing.</p>	
+    	<p>Lenders are taking the steps after the most aggressive rate hikes by the Federal Reserve in decades eroded the value of assets held on their balance sheets while driving deposits out of bank accounts and into higher-yielding alternatives such as Treasuries. Those trends contributed to a series of regional bank failures earlier this year that shook the sector.</p>
+      <p>“It’s all about improving liquidity and capital ahead of tougher regulations. It’s also about improving the balance sheet to make it more profitable because of the higher funding costs,” said Herman Chan, a Bloomberg Intelligence analyst. “It creates a higher bar in terms of creating profitable growth. That’s why you’ve seen banks like Citizens pull back in areas that are less profitable for them.”</p>
+      <p>Shares of U.S. Bancorp, Citizens and other regional banks all climbed Wednesday morning, with the KBW Bank Index up 2.6% at 12:22 p.m. in New York.</p>
+      <p>Among banks reporting results Wednesday, U.S. Bancorp, Citizens and M&T Bank Corp. all said average deposits fell from the prior quarter as depositors spend money from their accounts or move their funds into higher-yielding alternatives. Financial firms are being forced to pay more for the deposits that stick around, cutting into the benefit to lending profits created by higher interest rates.</p>
+      <p>Average deposits at Minneapolis-based U.S. Bancorp, the country’s largest regional bank by assets, slipped 2.6% from the first quarter to $497.3 billion, missing the $503.2 billion average of analysts’ estimates in a Bloomberg survey. Noninterest-bearing deposits dropped even more dramatically, slumping 12%, according to a statement Wednesday. End-of-period deposits increased 3.2% from the first quarter to $521.6 billion.</p>
+      <p>At Buffalo, New York-based M&T, average deposits totaled $159.4 billion. While that just beat analysts’ estimates, it was down 9% from a year earlier and 1% from the second quarter, with the bank citing a shift to higher-cost deposits and competition. The bank said it expects $7 billion to $7.2 billion of net interest income this year, which was “trending toward the low end of the range.”</p>
+      <p>NII Declines</p>
+      <p>Citizens, meanwhile said its net interest income fell 5.5% from a year earlier. Average deposits dipped almost 1% from the first quarter to $173.2 billion. The Providence, Rhode Island-based bank saw its total interest expense jump to $943 million as the cost of deposits and short- and long-term funding also jumped. The bank expects net interest income for 2023 to fall 4%.</p>
+      <p>“This was a really important quarter for us to get the deposit level where we wanted, to get the Federal Home Loan Bank borrowings lower,” Citizens Chief Executive Officer Bruce Van Saun said on a conference call with analysts. “At this point, we feel that we don’t need to really aggressively grow deposits. We can have a more stable deposit profile.”</p>
+      <p>Even before it became clear US regulators planned to implement more stringent capital requirements for lenders, U.S. Bancorp’s acquisition of MUFG Union Bank meant it faced a move into a supervisory category that would require the bank to factor unrealized losses into its capital levels.</p>
+      <p>U.S. Bancorp has been adamant that existing efforts would preempt any need for a further capital raise. Executives said on a conference call with analysts that they’re confident they’ll be able to reduce risk-weighted assets to hit the bank’s targets.</p>
+      <p>“The reaction in the market today, it’s all around capital,” Chief Financial Officer Terry Dolan said in a phone interview. He said the rate at which the bank accrued capital and the CET1 ratio achieved demonstrate it will be able to shift categories and handle tougher regulations. “That is an important milestone.”</p>
+      <p>(Updates with CFO comments in last paragraph.)</p>
+    </div>
+  },
+  {
+    id: 594,
+    title: 'U.S. Stock Futures Tick Higher, Extending Rally',
+    category: 'Markets',
+    subCategory: ['US', 'Stock', 'Futures'],
+    description: <div className="blog-desc">
+      <p>U.S. stock futures advanced early Wednesday after a set of encouraging earnings reports and economic data. The Dow Jones Industrial Average contract added 58 points, or 0.2%, to 35,201. The S&P 500 traded up 0.</p>
+    </div>,
+    authorName: 'Brian Swint',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 19, 2023 - 1:25 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689919111/ncx-blog-923_emslgp.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>U.S. stock futures advanced early Wednesday after a set of encouraging earnings reports and economic data. The Dow Jones Industrial Average contract added 58 points, or 0.2%, to 35,201. The S&P 500 traded up 0.</p>
+    	<p>The Dow Jones Industrial Average contract added 58 points, or 0.2%, to 35,201. The S&P 500 traded up 0.1%. The technology-heavy Nasdaq also gained 0.1%. All three indexes gained yesterday, with the Dow closing at a one-year high.</p>	
+    	<p>Big banks including Morgan Stanley and Bank of America reported better-than-expected results on Tuesday, and a slowdown in retail sales raised hopes that the Federal Reserve may not raise interest rates as high as feared. More earnings are coming, including from electric car marker Tesla later on Wednesday.</p>	
+    	<p>“Earnings have largely beat profits estimates, with the banking sector in focus this week providing a solid set of numbers,” said Susannah Streeter, head of money and markets at Hargreaves Lansdown. “The U.S. may appear to be avoiding a hard landing, but a big chunk of the monetary tightening we’ve seen will not yet have fed through.”</p>
+      <p>DJIA DJIA (Dow Jones Global) 35225.18163.970.47%</p>
+      <p>S&P 500 SPX (S&P US) 4534.87-30.85-0.68%</p>
+      <p>Nasdaq COMP (Nasdaq) 14063.31-294.71-2.05%</p>
+    </div>
+  },
+  {
     id: 593,
     title: 'UBS to retain EY as auditor after Credit Suisse takeover- FT',
     category: 'Markets',
@@ -25,7 +583,7 @@ const data = [
       <p>(Reporting by Juby Babu in Bengaluru; Editing by Jamie Freed)</p>
     </div>
   },
-  {
+  {  
     id: 592,
     title: 'FTC Loses Appeal Bid to Block Microsoft-Activision Deal',
     category: 'Markets',
