@@ -418,12 +418,12 @@ function HomeNCXToken()
                             </div>
                         </div>
                         <div className="colstake">
-                            <p>$0.002</p>
-                            <p>$0.004</p>
+                            <p>$0.003</p>
+                            <p>$0.005</p>
                             <p>$0.007</p>
                             <p>$0.01</p>
-                            <p>$0.02</p>
-                            <p>$0.04</p>
+                            <p>$0.015</p>
+                            <p>$0.03</p>
                         </div>
                         <div className="colstake">
                             <p>{t("9_months")}</p>
@@ -489,10 +489,10 @@ function HomeNCXToken()
                         <h3>{t("ncx_token_price_in_USDT")}</h3>
                         <div className="mbl-tokrowitems sd2">
                             <div className="color">
-                                <p>$0.002</p>
+                                <p>$0.003</p>
                             </div>
                             <div className="color">
-                                <p>$0.004</p>
+                                <p>$0.005</p>
                             </div>
                             <div className="color">
                                 <p>$0.007</p>
@@ -501,10 +501,10 @@ function HomeNCXToken()
                                 <p>$0.01</p>
                             </div>
                             <div className="color">
-                                <p>$0.02</p>
+                                <p>$0.015</p>
                             </div>
                             <div className="color">
-                                <p>$0.04</p>
+                                <p>$0.03</p>
                             </div>
                         </div>
                     </div>
