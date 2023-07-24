@@ -147,6 +147,7 @@ div#indicies__page {
     #indicies__page .points__ff{
         column-gap: 5px !important;
         margin-bottom: 10px !important;
+        justify-content: center !important;
     }
     .trade__derivative{
         padding: 0px !important;
