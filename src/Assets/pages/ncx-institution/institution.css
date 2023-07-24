@@ -35,8 +35,11 @@ p.insta-head {
     line-height: 75px !important;
     font-family: 'hauora-medium' !important;
 } */
-#ncx_institution .institutional__ser .insse {
+/* #ncx_institution .institutional__ser .insse {
     max-width: 370px;
+} */
+#ncx_institution .institutional__ser .ml__vwxf .insse h1 {
+    width: 380px;
 }
 .institutional__ser h1:nth-child(2){
     position: relative;

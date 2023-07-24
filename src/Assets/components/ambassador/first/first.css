@@ -2,7 +2,7 @@
     background: transparent !important;
     background-color: transparent !important;
 } */
-#ncxAmbassador-page header#header-row.darkheader{
+/* #ncxAmbassador-page header#header-row.darkheader{
     background: #000000 !important;
     background-color: #000000 !important;
 }
@@ -24,7 +24,6 @@
     object-fit: cover;
     margin-bottom: -5px;
     max-height: 556px !important;
-    /* display: none; */
 }
 .ambassador.row {
     margin: 0px !important;
@@ -64,10 +63,10 @@
 }
 .txt44 {
     margin-bottom: 30px;
-}
+} */
 
 /* Crypto Debit/credit Card Section */
-.ambassador_card.row {
+/* .ambassador_card.row {
     margin: 0px;
     display: flex;
     filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.08));
@@ -166,19 +165,15 @@ a.card_learn {
     align-items: center;
     padding: 0px 10px;
     text-transform: capitalize;
-}
+} */
 
 /* New Styling */
-.new__ambass video {
+/* .new__ambass video {
     width: 100%;
     max-height: 600px;
     object-fit: cover;
-}
-.new__ambass{
-    position: relative;
-    background: #000000;
-}
-.new__ambass .container {
+} */
+/* .new__ambass .container {
     position: absolute;
     left: 0;
     right: 0;
@@ -186,10 +181,18 @@ a.card_learn {
     height: 100%;
     display: flex;
     align-items: center;
+} */
+.new__ambass{
+    position: relative;
+    background: #000000;
 }
-.insse {
+.fvsd__v video {
+    width: 100%;
+    max-height: 500px;
+}
+/* .insse {
     max-width: 330px;
-}
+} */
 .insse h1 {
     color: #FFFFFF;
     font-family: 'urbanist-regular';
@@ -215,7 +218,20 @@ a.card_learn {
     outline: none;
     text-decoration: none;
 }
-
+.ml__vwxf{
+    display: flex;
+    align-items: center;
+    padding: 50px 0px;
+}
+.ml__vwxf .insse{
+    width: 50%;
+}
+.ml__vwxf .fvsd__v{
+    width: 50%;
+}
+.ml__vwxf .insse h1 {
+    width: 330px;
+}
 
 #ncxAmbassador-page .ambassadordiv{
     display: none;
