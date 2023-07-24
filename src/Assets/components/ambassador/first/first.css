@@ -188,7 +188,7 @@ a.card_learn {
 }
 .fvsd__v video {
     width: 100%;
-    max-height: 500px;
+    max-height: 550px;
 }
 /* .insse {
     max-width: 330px;
@@ -221,7 +221,7 @@ a.card_learn {
 .ml__vwxf{
     display: flex;
     align-items: center;
-    padding: 50px 0px;
+    padding: 0px 0px 50px 0px;
 }
 .ml__vwxf .insse{
     width: 50%;
