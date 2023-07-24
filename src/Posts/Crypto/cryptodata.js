@@ -1,5 +1,130 @@
 const data = [
   {
+    id: 621,
+    title: 'Bitcoin reclaims US$30,000, Ether gains, Cardano leads winners as top 10 crypto rise',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'rise'],
+    description: <div className="blog-desc">
+      <p>Bitcoin rose in early Monday morning trading in Asia to reclaim the US$30,000 support level, but later retreated. Ether moved higher to near US$1,900, while most other top 10 non-stablecoin cryptocurrencies logged gains.</p>
+    </div>,
+    authorName: 'Tom Zuo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 4:58 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690202508/ncx-blog-936_a8b3wu.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin rose in early Monday morning trading in Asia to reclaim the US$30,000 support level, but later retreated. Ether moved higher to near US$1,900, while most other top 10 non-stablecoin cryptocurrencies logged gains.</p>
+    	<p>Cardano’s ADA token led the winners. In other markets, NFTs traded flat, while U.S. equity futures did the same. The week ahead brings lots more earnings in the U.S. for investors to get a picture of the state of the economy, while the Federal Reserve has a two-day meeting where it’s expected to raise interest rates.</p>	
+    	<h>Crypto</h>
+      <p>Bitcoin rose 1.33% over the 24 hours to US$30,059 as of 07:30 a.m. in Hong Kong, according to data from CoinMarketCap. Ether gained 1.73% to US$1,887.</p>
+      <p>However, both tokens have yet to make up losses for the past seven days, with Bitcoin off 0.37% for the week, while Ether is sitting on a weekly loss of 1.73%. Bitcoin fell back later in the morning.</p>
+      <p>Trading in Bitcoin and Ether will remain rangebound until the Fed decision on rates on July 27, Mark Wong, senior trader at Hong Kong-based digital asset platform Hashkey Group, said in a Friday newsletter. “A rate hike is all but priced in with an implied probability of 99.8% from the futures market,” Wong said.</p>
+      <p>Most other top 10 non-stablecoin cryptocurrencies also traded higher Monday, with Cardano’s ADA token leading the winners with a gain of 3.01% to US$0.3169 and up 0.59% for the week.</p>
+      <p>Input Output Global, one of the developers behind the Cardano blockchain, last week said Mithril – a Cardano stake-based signature scheme – was nearing its mainnet launch to improve the node syncing and security of the Cardano network.</p>
+      <p>On the regulatory front, a portion of the court’s recent verdict in the Ripple case was “wrongly decided,” said the U.S. Securities and Exchange Commission (SEC) on Friday in documents filed in its on-going lawsuit against Singapore-based Terraform Labs, hinting that the SEC would challenge the Ripple ruling.</p>
+      <p>The SEC in February charged Singapore-based Terraform Labs Pte and its co-founder Do Hyeong Kwon with orchestrating a multi-billion dollar crypto asset securities fraud involving an algorithmic stablecoin and other crypto asset securities.</p>
+      <p>The total crypto market capitalization rose 1.14% in the past 24 hours to US$1.20 trillion, while trading volume rose 13.56% to US$24.5 billion.</p>
+      <h3>Forkast 500 flat, OpenSea starts NFT swapping</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>The main Forkast 500 NFT index edged up 0.08% in the past 24 hours to 2,674.69 as of 10:10 a.m. in Hong Kong. Forkast’s Ethereum, Solana and Polygon NFT market indices moved lower, while the Cardano index logged gains.</p>
+      <p>Total NFT sales volume rose 1.30% in the past 24 hours to US$17.24 million, according to data from CryptoSlam, with the volume on Ethereum totaling US$12.02 million or more than two thirds of the total.</p>
+      <p>Among all NFT collections, Ethereum-based Bored Ape Yacht Club topped the 24-hour sales volume at US$1.60 million, edging up 1.19%. Volumes traded mixed in the top five NFT collections.</p>
+      <p>OpenSea, the world’s second-largest NFT marketplace by trading volume, launched its “Deals” function on Friday, which allows its NFT holders to directly swap their collections with each other and include wrapped Ether (WETH) in their offers to sweeten up the transactions.</p>
+      <p>Elsewhere, the slump in value of Twitter Co-Founder Jack Dorsey’s first NFT caught the attention of mainstream media including CNBC and the Economic Times on Sunday. The NFT, based on Dorsey’s first Twitter post, sold at over US$2.1 million in 2021, but the highest offer for the NFT is now 1 ETH (US$1,875), according to OpenSea.</p>
+      <p>“The NFT market is looking rather flat in the Forkast 500 index, (which) reflects that continued downtrend we’ve been watching most of the year,” Yehudah Petscher, NFT Strategist at Forkast Labs, said on Friday. The Forkast 500 NFT index has dropped over 35% since the start of the year.</p>
+      <p>“With the exception of January, the market almost completely slants right,” said Petscher.</p>
+      <h3>US equities await Fed, earnings</h3>
+      <p>U.S. stock futures traded mixed as of 12:30 p.m. in Hong Kong, with Dow Jones Industrial Average and S&P 500 futures dipping and Nasdaq futures edging higher. The three major U.S. indexes closed mixed in regular trading on Friday.</p>
+      <p>Asia’s main stock indexes also traded mixed on Monday morning. China’s Shanghai Composite, Japan’s Nikkei and South Korea’s Kospi all gained, while Hong Kong’s Hang Seng fell.</p>
+      <p>The U.S. Federal Reserve meets Wednesday and Thursday this week on interest rates and analysts overwhelmingly expect another 25-basis-point rate hike. The European Central Bank (ECB) is also expected to raise its rates later this week.</p>
+      <p>The CME FedWatch Tool predicts a 99.8% chance the Fed will raise rates to the range of 5.25% to 5.5% on July 26, the highest since January 2001.</p>
+      <p>With a rate hike priced into many markets, the focus on the Fed meeting will be forward guidance on monetary policies. Both Federal Reserve Chair Jerome Powell and ECB President Christine Lagarde have flagged stubborn inflation as a concern, according to Bloomberg on Saturday.</p>
+      <p>Along with the Fed and ECB, Japan’s central bank will also meet this week, but there is little likelihood of any change to its ultra-loose monetary policy.</p>
+      <p>In the U.S. this week, more than 150 U.S. corporations, including Microsoft, Alphabet and Meta Platforms, will release second-quarter results.</p>	
+    </div>
+  },
+  {
+    id: 620,
+    title: 'A bitcoin positive-feedback loop could more than quadruple the price beyond $120,000, analyst says',
+    category: 'Crypto',
+    subCategory: ['bitcoin', 'crypto', 'analyst'],
+    description: <div className="blog-desc">
+      <p>Bitcoin miners are creating a virtuous circle that could propel the token's price beyond already-bullish forecasts, Standard Chartered analyst Geoff Kendrick told Insider.</p>
+    </div>,
+    authorName: 'Filip De Mott',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 23, 2023 - 4:30 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690201694/ncx-blog-935_kx7ks3.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Bitcoin could soar above $120,000 if miners keep holding onto tokens, Standard Chartered analyst Geoff Kendrick said.</li>
+        <li>In an interview with Insider, he acknowledged bitcoin's price gains help fuel a positive-feedback loop.</li>
+        <li>"And so your point about this becoming self-fulfilling, I suspect is actually a very important driver."</li>
+      </ul>
+    	<p>Bitcoin miners are creating a virtuous circle that could propel the token's price beyond already-bullish forecasts, Standard Chartered analyst Geoff Kendrick told Insider.</p>
+    	<p>That's as miners often sell fewer tokens when the price climbs, a bullish tendency that led him say earlier this month that $120,000 is possible next year, representing 300% upside from current levels.</p>	
+    	<p>In a follow-up interview, Insider asked Kendrick: if higher prices cause miners to sell fewer tokens, further boosting prices, then would even higher prices fuel a positive-feedback loop that takes bitcoin past $120,000?</p>	
+    	<p>Yes.</p>
+      <p>"And so your point about this becoming self-fulfilling, I suspect is actually a very important driver," he said.</p>
+      <p>Miners predominantly sell bitcoin to cover costs. But as the price rises and previous debt struggles in the industry ebb away, miners are letting go of less bitcoin.</p>
+      <p>Another tailwind is the coin's upcoming halving in 2024, which is when the reward given to miners is cut in half. This is to cap the supply of bitcoins, and has historically led to price increases.</p>
+      <p>"Then if you add in some of the other things, like getting close to the halving cycle, et cetera, then that sort of adds," Kendrick said. "And then yeah, the cycle in theory just keeps going."</p>
+      <p>Miners also have little reason outside of bitcoin's price moves to sell the token, he said. Some of this is on account of the culture surrounding the industry, with many miners holding on in the anticipation that bitcoin eventually reaches stellar highs.</p>
+      <p>"So they basically want to have a company that starts out when prices are cheap, get cheaper electricity and stuff, and then hold on. It's like a super-leveraged play," he said.</p>
+      <p>Kendrick has been bullish on bitcoin this year, and in April he said it would hit $100,000 in 2024, citing a number of other factors beyond miner profitability. Examples included bitcoin's safe-haven reputation, regulatory adaptations, institutional interest, alternative currency fall-off, and less volatility.</p>
+      <p>Now, he told Insider that a few of these factors also suggest more upside.</p>
+      <p>For instance, BlackRock's interest in creating a bitcoin spot ETF signals growing demand from the investment firm's clients, while the Federal Reserve's expected end on its rate-hiking cycle would marginally help bitcoin.</p>
+      <p>The one factor that Kendrick would reassess was his idea that bitcoin would gain from disinvestment in other crypto, or so-called altcoins.</p>
+      <p>For this, he noted the recent courtroom victory of Ripple over the Securities and Exchange Commission, which sued the firm in 2020 over its cryptocurrency XRP.</p>
+      <p>However, a judge recently ruled in favor of Ripple, saying XRP is not a security, meaning it's outside the SEC's regulatory reach. The news sparked a rally in altcoins.</p>
+      <p>"So the assumption is, well, if Ripple is not [a security], then these are also not," he said. "So that's why you had big bounces in like Solana, as an example."</p>
+      <p>How long this tailwind for altcoins will last is uncertain, Kendrick said, adding that any institutional success in establishing bitcoin ETFs would prompt a renewed focus on apex tokens.</p>
+    </div>
+  },
+  {
+    id: 619,
+    title: 'Final countdown to Shibarium Mainnet means SHIB can expect to…',
+    category: 'Crypto',
+    subCategory: ['SHIB', 'Mainnet', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Usage of SHIB has increased since the Shibarium development team provided an update. Here’s what else you can expect now…</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 22, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690200959/ncx-blog-934_hswx8o.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Usage of SHIB has increased since the Shibarium development team provided an update. Here’s what else you can expect now…</p>
+      <ul>
+        <li>Shibarium Mainnet has reached the third stage of its roadmap</li>
+        <li>Shiba Inu’s active addresses, open interest, and network growth increased</li>
+      </ul>
+    	<p>After months of anticipation, Shibarium, the upcoming Layer Two (L2) blockchain of Shiba Inu [SHIB], might soon be launched on the Mainnet. This information was disclosed by NOWNodes, one of the development arms involved in the project.</p>
+      <h3>Only moments left</h3>	
+    	<p>According to NOWNodes, the Mainnet was already in the third phase of the Shibarium Roadmap. The tweet also revealed that once some of the conditions are met, it would announce the integration of the Shibarium RPC nodes.</p>
+      <p>RPC nodes is an acronym for Remote Procedure Call nodes. They are used to enable users to read data on blockchains and send transactions on different networks.</p>
+      <p>Following the disclosure, on-chain data showed that SHIB’s network growth spiked. At press time, the network growth had increased to 5,365. Here, network growth measures the number of new addresses interacting with a network.</p>
+      <p>When the metric rises, it means that a lot of new addresses transacted on the network. But when it falls, it means new cohorts refrained from exchanging between wallets.</p>
+      <p>Ergo, the hike in SHIB’s network revealed that adoption has risen. This was also reflected on the active addresses front.</p>
+      <h3>Increasing traction and interest</h3>	
+    	<p>Active addresses serve as a good indicator of daily users transacting on a particular blockchain. At the time of writing, SHIB’s 24-hour active addresses had increased to 10,500. This cites an increase in participation in successful transactions via the Shiba Inu network.</p>
+      <p>Despite the traction SHIB had, social volume remained in an uninspired state. At press time, Santiment revealed that the social volume was down to 38.</p>
+      <p>Social volume shows the total number of texts or search terms connected to an asset. When the metric is low, it means that there has been less relevant content linked to the asset.</p>
+      <p>However, when the social volume is high, it means unique mentions of the token are high. SHIB’s case was the former since the metric fell.</p>
+      <p>Furthermore, SHIB’s Open Interest (OI) also hiked. As an indicator used to track activities in the derivatives market, the OI is the total number of Futures contracts held by market participants.</p>
+      <p>The indicator is used to measure the market sentiment and strength behind the price. A decrease in Open Interest means that liquidity coming into the market has fallen.</p>
+      <p>On the contrary, when the indicator rises as SHIB did, then it suggests higher liquidity. Thus, if, the OI sustains the hike, then SHIB’s price might be positively affected.</p>
+    </div>
+  },
+  {
     id: 618,
     title: 'Bitcoin loses grip on US$30,000 as profit-taking kicks in; XRP gains as other top 10 crypto fall',
     category: 'Crypto',
