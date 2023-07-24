@@ -33,39 +33,39 @@ function HomeNCXToken()
                         <div className="colstake">
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>25,000</p>
+                                <p>15,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>50,000</p>
+                                <p>30,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>100,000</p>
+                                <p>60,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>250,000</p>
+                                <p>90,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>500,000</p>
+                                <p>120,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>1,000,000</p>
+                                <p>150,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>2,500,000</p>
+                                <p>200,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>5,000,000</p>
+                                <p>300,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>10,000,000</p>
+                                <p>700,000</p>
                             </div>
                         </div>
                         <div className="colstake">
@@ -121,8 +121,8 @@ function HomeNCXToken()
                             <p>110x</p>
                             <p>120x</p>
                             <p>130x</p>
-                            <p>140x</p>
                             <p>150x</p>
+                            <p>200x</p>
                         </div>
                         <div className="colstake">
                             <p></p>
@@ -154,39 +154,39 @@ function HomeNCXToken()
                         <div className="mbl-tokrowitems">
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>25K</p>
+                                <p>15K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>50K</p>
+                                <p>30K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>100K</p>
+                                <p>60K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>250K</p>
+                                <p>90K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>500K</p>
+                                <p>120K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>1M</p>
+                                <p>150K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>2.5M</p>
+                                <p>200K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>5M</p>
+                                <p>300K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>10M</p>
+                                <p>700K</p>
                             </div>
                         </div>
                     </div>
@@ -339,13 +339,13 @@ function HomeNCXToken()
                                 <p>120x</p>
                             </div>
                             <div className="color">
-                                <p>130x%</p>
-                            </div>
-                            <div className="color">
-                                <p>140x</p>
+                                <p>130x</p>
                             </div>
                             <div className="color">
                                 <p>150x</p>
+                            </div>
+                            <div className="color">
+                                <p>200x</p>
                             </div>
                         </div>
                     </div>
