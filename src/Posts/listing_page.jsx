@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/607" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689919607/ncx-blog-924_qoilss.webp"/></div>
-                                    <p className="dat"> July 21, 2023 - 1:33 AM</p>
-                                    <h1>GE Stock Soars 70% With Earnings On Deck — Is It A Buy?</h1>
-                                    <p>The "new GE," GE Aerospace, will emerge in 2024. GE stock has rallied due to momentum in General Electric's aviation unit.</p>
+                            <a href="/post-markets/610" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690204658/ncx-blog-937_x5qxzc.jpg"/></div>
+                                    <p className="dat"> July 24, 2023 - 4:24 PM</p>
+                                    <h1>Bonds Gain, Stocks Muted After Weak European Data: Markets Wrap</h1>
+                                    <p>(Bloomberg) -- Global bonds rallied and stock markets were muted Monday, as sharp declines in manufacturing and services gauges across Europe fanned concerns about economic growth.</p>
                                 </a>
-                            <a href="/post-markets/605" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689862788/ncx-blog-915_mugjnm.webp" alt="art_pic"/></div>
-                                    <p className="dat">   July 20, 2023 - 6:53 AM</p>
-                                    <h1>Stocks shuffle sideways, China drips support as property crisis reignites</h1>
-                                    <p>LONDON (Reuters) - World share markets shuffled sideways on Thursday as investors looked ahead to a clutch of key central bank meetings, saw Chinese property teeter again and disappointing earnings from Netflix and Tesla</p>
+                            <a href="/post-crypto/621" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690202508/ncx-blog-936_a8b3wu.webp" alt="art_pic"/></div>
+                                    <p className="dat">   July 24, 2023 - 4:58 AM</p>
+                                    <h1>Bitcoin reclaims US$30,000, Ether gains, Cardano leads winners as top 10 crypto rise</h1>
+                                    <p>Bitcoin rose in early Monday morning trading in Asia to reclaim the US$30,000 support level, but later retreated. Ether moved higher to near US$1,900, while most other top 10 non-stablecoin cryptocurrencies logged gains.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row"> 
-                            <a href="/post-crypto/618" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689848973/ncx-blog-902_yvoscf.webp" alt="art_pic"/></div>
-                                    <p className="dat"> July 19, 2023 - 6:01 PM</p>
-                                    <h1>Bitcoin loses grip on US$30,000 as profit-taking kicks in; XRP gains as other top 10 crypto fall</h1>
-                                    <p>Bitcoin slipped under US$30,000 in Wednesday morning trading in Asia on the back of profit-taking and liquidation of long positions after the recent run up on optimism spot exchange-traded funds for the token</p>
+                            <a href="/post-crypto/620" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690201694/ncx-blog-935_kx7ks3.webp" alt="art_pic"/></div>
+                                    <p className="dat">  July 23, 2023 - 4:30 PM</p>
+                                    <h1>A bitcoin positive-feedback loop could more than quadruple the price beyond $120,000, analyst says</h1>
+                                    <p>Bitcoin miners are creating a virtuous circle that could propel the token's price beyond already-bullish forecasts, Standard Chartered analyst Geoff Kendrick told Insider.</p>
                                 </a>
-                            <a href="/post-crypto/617" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689849825/ncx-blog-903_w95j9r.webp" alt="art_pic"/></div>
-                                    <p className="dat">  July 19, 2023 - 1:48 AM</p>
-                                    <h1>XRP’s 60% Weekly Gain Defies Broader Crypto Slump as Bitcoin Stalls Below $30K</h1>
-                                    <p>Ripple’s XRP outperformed most cryptocurrencies Tuesday as the initial market-wide rally following last Thursday’s lawsuit ruling has seemingly fizzled out.</p>
+                            <a href="/post-crypto/619" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690200959/ncx-blog-934_hswx8o.png" alt="art_pic"/></div>
+                                    <p className="dat">  July 22, 2023</p>
+                                    <h1>Final countdown to Shibarium Mainnet means SHIB can expect to…</h1>
+                                    <p>Usage of SHIB has increased since the Shibarium development team provided an update. Here’s what else you can expect now…</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/606" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689917386/ncx-blog-920_ftzfay.webp" alt="art_pic"/></div>
-                                    <p className="dat">  July 21, 2023 - 12:51 AM</p>
-                                    <h1>Netflix Declines the Most This Year as Outlook Disappoints</h1>
-                                    <p>(Bloomberg) -- Netflix Inc. shares fell the most this year after the company projected third-quarter revenue that fell short of Wall Street estimates, suggesting a crackdown on password sharing and a new advertising tier</p>
+                            <a href="/post-markets/609" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690205115/ncx-blog-939_wzxrnz.webp" alt="art_pic"/></div>
+                                    <p className="dat">  July 24, 2023 - 7:44 AM</p>
+                                    <h1>India Reliance eases off record highs as Q1 profit disappoints</h1>
+                                    <p>BENGALURU (Reuters) -Shares of Reliance Industries, India's largest company by market capitalisation, fell nearly 3% on Monday, the most in nearly two weeks, after the conglomerate posted a bigger-than-expected drop in profit late.</p>
                                 </a>
-                            <a href="/post-markets/604" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689865963/ncx-blog-917_s2fy6h.webp" alt="art_pic"/></div>
-                                    <p className="dat">   July 20, 2023 - 6:45 AM</p>
-                                    <h1>Apple just added $71 billion in market value on news it developing an Apple GPT AI</h1>
-                                    <p>Apple stock surged as much as 2.3% to a record high on Wednesday after Bloomberg reported on the company's artificial intelligence ambitions.</p>
+                            <a href="/post-markets/608" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690204790/ncx-blog-938_k15kig.webp" alt="art_pic"/></div>
+                                    <p className="dat">   July 24, 2023 - 4:50 AM</p>
+                                    <h1>Alibaba to Stay on Sidelines of Ant’s $6 Billion Stock Buyback</h1>
+                                    <p>(Bloomberg) -- Alibaba Group Holding Ltd. has decided not to sell any part of its one-third stake in Ant Group Co. during the Chinese fintech leader’s imminent share buyback, saying it wants to maintain its slice of an important partner.</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,6 +70,18 @@ function PostListingSection()
                     <div className="col rght_br">
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
+                            <a href="/post-markets/607" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689919607/ncx-blog-924_qoilss.webp" alt="art_pic"/></div>
+                                <p className="dat">  July 21, 2023 - 1:33 AM</p>
+                                <h1>GE Stock Soars 70% With Earnings On Deck — Is It A Buy?</h1>
+                                <p>The "new GE," GE Aerospace, will emerge in 2024. GE stock has rallied due to momentum in General Electric's aviation unit.</p>
+                            </a>
+                            <a href="/post-markets/606" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689917386/ncx-blog-920_ftzfay.webp"/></div>
+                                <p className="dat"> July 21, 2023 - 12:51 AM</p>
+                                <h1>Netflix Declines the Most This Year as Outlook Disappoints</h1>
+                                <p>(Bloomberg) -- Netflix Inc. shares fell the most this year after the company projected third-quarter revenue that fell short of Wall Street estimates, suggesting a crackdown on password sharing and a new advertising tier aren’t</p>
+                            </a>
                             <a href="/post-markets/603" className="col">
                                 <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689920287/ncx-blog-925_yne8vx.webp" alt="art_pic"/></div>
                                 <p className="dat"> July 20, 2023 - 4:04 AM</p>
@@ -81,18 +93,6 @@ function PostListingSection()
                                 <p className="dat">  July 20, 2023 - 3:51 AM</p>
                                 <h1>Wednesday ETF Winners And Losers: Small-Cap Fund Flows - QQQE, Little Cousin Of Invesco QQQ, Adds $173.17 Million</h1>
                                 <p>We performed a screening of small-cap ETFs - defined as having Assets Under Management (AUM) between $400 million and $2 billion - to determine what funds had the largest change in net assets on the week,</p>
-                            </a>
-                            <a href="/post-markets/601" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689920700/ncx-blog-926_yzmxkm.webp" alt="art_pic"/></div>
-                                <p className="dat">  July 20, 2023 - 1:42 AM</p>
-                                <h1>US stocks edge higher as traders hope to keep win streak alive ahead of Big Tech earnings</h1>
-                                <p>US stocks ticked higher on Wednesday as traders awaited high-profile earnings results from Tesla and Netflix and hoped to keep the market's latest winning streak alive.</p>
-                            </a>
-                            <a href="/post-markets/600" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689864115/ncx-blog-916_raxvra.webp"/></div>
-                                <p className="dat"> July 20, 2023 - 12:28 AM</p>
-                                <h1>Nvidia More Than Triples In 2023 On AI Boost — Is It A Buy?</h1>
-                                <p>Nvidia (NVDA), a giant in data centers and gaming, continues to sizzle. The chip giant is seen as one of the biggest winners of the AI boom. Is Nvidia stock a buy right now?</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>

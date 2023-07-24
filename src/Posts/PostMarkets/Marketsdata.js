@@ -1,5 +1,143 @@
 const data = [
   {
+    id: 610,
+    title: 'Bonds Gain, Stocks Muted After Weak European Data: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['Bonds', 'gain', 'European'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Global bonds rallied and stock markets were muted Monday, as sharp declines in manufacturing and services gauges across Europe fanned concerns about economic growth.</p>
+    </div>,
+    authorName: 'Sujata Rao and Julien Ponthus',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 4:24 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690204658/ncx-blog-937_x5qxzc.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Global bonds rallied and stock markets were muted Monday, as sharp declines in manufacturing and services gauges across Europe fanned concerns about economic growth.</p>
+    	<p>Investors were wary of making big equity bets at the start of a week packed with major central bank policy decisions and corporate earnings. In Europe, advance readings of the Purchasing Managers’ Indexes showed the private-sector economy contracted more than anticipated in July in the euro area and slowed sharply in Britain.</p>	
+    	<p>The figures sent investors scurrying for the safety of bonds, with the yield on German 10-year notes, the euro-area benchmark, as much as seven basis points lower, while UK yields slid 8 basis points.</p>
+      <p>US Treasury 10-year yields edged down as much as 4 basis points ahead of US flash PMIs that are expected to show an economy still in expansion mode, thanks to the services sector.</p>
+      <p>The data highlights the quandary for policy-setters, with traders positioning for the Federal Reserve and the European Central Bank to raise interest rates this week and to signal whether more hikes are likely after record tightening campaigns.</p>
+      <p>Equity markets, meanwhile, are looking into their busiest earnings week this season, with more than 500 major companies worldwide due to report quarterly results, including US megacaps such as Alphabet Inc., and Meta Platforms Inc. The next few days will be crucial for investors, who will be watching to see if slowing economic momentum shows up on profit margins.</p>
+      <p>“Markets have entered a phase of anxious waiting, with two factors coming into play, central banks and earnings,” said Jeanne Asseraf-Bitton, head of research and strategy at BFT Investment Managers. “I’m not sure there will be a lot of surprises coming from the central banks so it’s really earnings that will be key.”</p>
+      <p>Euro-Zone Private Sector Contracts in Dire Start to Quarter</p>
+      <p>US stock-index futures posted modest gains. Among individual movers, Mattel Inc. rose as much as much as 2.5% in premarket trading, after Barbie became the top-grossing picture in US and Canadian cinemas, taking in $155 million in ticket sales. Warner Bros. Discovery Inc., the parent of the Hollywood studio that produced the movie, also advanced.</p>
+      <p>A Pivotal Earnings Week Looms for High-Flying Stock Markets</p>
+      <p>US mega-cap tech shares including Nvidia Corp. and Microsoft Corp also rose. The Nasdaq special rebalancing is unlikely to solve the problem of high market concentration, and the index will remain too concentrated to be considered an actively managed diversified fund, according to Goldman Sachs strategists.</p>
+      <p>Europe’s Stoxx 600 equity gauge came under pressure, as some European corporate results confirmed weakening consumer demand. Philips, for instance, plunged as much as 7.7% after reporting a drop in order intake and Ryanair Holdings Plc fell after lowering its traffic prediction.</p>
+      <p>In currency markets, the euro slipped across the board, losing as much as 0.5% to the dollar and 0.8% against the Japanese yen.</p>
+      <p>While the Bank of Japan is expected to stick to ultra-loose policy settings at its Friday meeting, the yen strengthened, with officials expected to consider sharply increasing their inflation forecast for this fiscal year.</p>
+      <p>Elsewhere, wheat futures rose as much as 6.9% on Monday, extending last week’s surge after Russia attacked one of Ukraine’s Danube river ports, ramping up the risks facing Kyiv’s last major grain export route and global food trade.</p>
+      <p>Key events this week:</p>
+      <ul>
+        <li>US Conf. Board consumer confidence, Tuesday</li>
+        <li>US new home sales, Wednesday</li>
+        <li>FOMC rate decision, Fed Chair Powell news conference, Wednesday</li>
+        <li>China industrial profits, Thursday</li>
+        <li>ECB rate decision, Thursday</li>
+        <li>US GDP, durable goods orders, initial jobless claims, wholesale inventories, Thursday</li>
+        <li>Japan Tokyo CPI, Friday</li>
+        <li>BOJ rate decision, Friday</li>
+        <li>Eurozone economic confidence, consumer confidence, Friday</li>
+        <li>US consumer income, employment cost index, University of Michigan consumer sentiment, Friday</li>
+      </ul>	
+      <h3>Some of the main moves in markets:</h3>
+    	<p>Stocks</p>
+      <ul>
+        <li>The Stoxx Europe 600 fell 0.2% as of 1:13 p.m. London time</li>
+        <li>S&P 500 futures were little changed</li>
+        <li>Nasdaq 100 futures rose 0.2%</li>
+        <li>Futures on the Dow Jones Industrial Average were little changed</li>
+        <li>The MSCI Asia Pacific Index was little changed</li>
+        <li>The MSCI Emerging Markets Index fell 0.3%</li>
+      </ul>
+      <p>Currencies</p>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index was little changed</li>
+        <li>The euro fell 0.3% to $1.1094</li>
+        <li>The Japanese yen rose 0.5% to 141.03 per dollar</li>
+        <li>The offshore yuan was little changed at 7.1904 per dollar</li>
+        <li>The British pound was little changed at $1.2846</li>
+      </ul>
+      <h3>Cryptocurrencies</h3>
+      <ul>
+        <li>Bitcoin fell 3.2% to $29,176.63</li>
+        <li>Ether fell 2.3% to $1,848.91</li>
+      </ul>
+      <p>Bonds</p>
+      <ul>
+        <li>The yield on 10-year Treasuries declined four basis points to 3.80%</li>
+        <li>Germany’s 10-year yield declined seven basis points to 2.40%</li>
+        <li>Britain’s 10-year yield declined eight basis points to 4.20%</li>
+      </ul>
+      <p>Commodities</p>
+      <ul>
+        <li>Brent crude rose 0.6% to $81.52 a barrel</li>
+        <li>Spot gold rose 0.2% to $1,965.65 an ounce</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Michael Msika, Tassia Sipahutar and Phil Serafino.</p>
+    </div>
+  },
+  {
+    id: 609,
+    title: 'India Reliance eases off record highs as Q1 profit disappoints',
+    category: 'Markets',
+    subCategory: ['India', 'Reliance', 'Profit'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) -Shares of Reliance Industries, India's largest company by market capitalisation, fell nearly 3% on Monday, the most in nearly two weeks, after the conglomerate posted a bigger-than-expected drop in profit late.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 7:44 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690205115/ncx-blog-939_wzxrnz.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BENGALURU (Reuters) -Shares of Reliance Industries, India's largest company by market capitalisation, fell nearly 3% on Monday, the most in nearly two weeks, after the conglomerate posted a bigger-than-expected drop in profit late.</p>
+    	<p>The stock also slid 3.1% on Friday, ahead of the results, but that came after a rally of a little over 13% this month ahead of the demerger of Jio Financial Services last Thursday when the stock hit a record high.</p>	
+    	<p>However, the focus on Monday was on the fading fortunes of billionaire Mukesh Ambani-led company's flagship oil-to-chemicals (O2C) business after record-high refining margins last year following the post-pandemic jump in demand for fuels.</p>
+      <p>The business's earnings before interest, taxes, depreciation and amortisation (EBITDA) fell 6% in the latest quarter, weighing on overall profit since despite expanding into retail, green energy and telecommunication, the O2C business remains Reliance's largest at over 63% of operational revenue.</p>
+      <p>Analysts at Jefferies expect that the unit's profitability in the current quarter will remain under pressure from a limited impact of the EU ban on imports of Russian refined products, weak economic activity in China and the narrowing discount on Russian crude.</p>
+      <p>Even Reliance's telecoms and retail unit did not fare as well as expected.</p>
+      <p>In fact, Reliance Jio, the telecoms unit, posted its slowest profit growth in six quarters on higher expenses and a slowdown in tariff hikes.</p>
+      <p>Meanwhile, analysts at Antique Stock Broking said the retail division's revenue did not rise as much as it had anticipated given the store additions and the acquisition of brands and businesses, including German retailer Metro AG's Indian unit.</p>
+      <p>Still, the average rating of the 32 analysts covering Reliance's stock remains a "buy", while the median price target is 2,840.50 rupees, Refinitiv data shows.</p>
+      <p>That implies a roughly 13% jump from the current price of 2,504.95 rupees and is 8% higher than the stock's record high of 2,630.95.</p>
+      <p>(Reporting by Varun Vyas in Bengaluru; Editing by Savio D'Souza and Nivedita Bhattacharjee)</p>	
+    </div>
+  },
+  {
+    id: 608,
+    title: 'Alibaba to Stay on Sidelines of Ant’s $6 Billion Stock Buyback',
+    category: 'Markets',
+    subCategory: ['AliBaba', 'stock', 'Ants'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Alibaba Group Holding Ltd. has decided not to sell any part of its one-third stake in Ant Group Co. during the Chinese fintech leader’s imminent share buyback, saying it wants to maintain its slice of an important partner.</p>
+    </div>,
+    authorName: 'Jane Zhang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 4:50 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690204790/ncx-blog-938_k15kig.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Alibaba Group Holding Ltd. has decided not to sell any part of its one-third stake in Ant Group Co. during the Chinese fintech leader’s imminent share buyback, saying it wants to maintain its slice of an important partner.</p>
+    	<p>Alibaba said in an exchange filing it won’t take part in Ant’s plan to buy back as much as 7.6% of its stock, which the latter’s board has approved. That decision comes after the e-commerce company and Temasek Holdings Pte said they were considering unloading part of the stakes during the program.</p>	
+    	<p>Ant, a fintech pioneer that once dominated online spheres from mobile payments to money management, has lost much of its value since regulators scrapped what would have been a record IPO at the eleventh hour in 2020. Singapore’s state investment firm, for one, seeks a better understanding of how Ant arrived at its repurchase valuation of about 567.1 billion yuan ($78.9 billion). That’s almost 70% lower than an estimated $280 billion market capitalization in 2020.</p>	
+    	<p>Chinese regulators are wrapping up a two-year crackdown on the country’s once-freewheeling technology giants after slapping more than $1 billion of fines on Ant and Tencent Holdings Ltd. in July. Ant has completed its overhaul ordered by Beijing, though that pinched profitability and sapped growth at a sprawling platform that spanned lending and insurance to asset management.</p>
+      <p>Ant’s Alipay remains a central payment method on Alibaba’s Taobao and Tmall online shopping platforms, and a key customer of its $11 billion cloud business. The company is seeking to shore up the bottom line of its six main divisions, which are set to split six ways to create several independent corporations, most of which can then pursue their own funding and eventual market debuts.</p>
+      <p>what Bloomberg Intelligence Says</p>
+      <p>Alibaba’s decision not to sell back any of its Ant Group shares to the fintech firm raises the likelihood that the latter’s contribution to cloud revenue received by Alibaba will hit a record high in fiscal 2024. Last year, Ant paid 52% more cloud fees to Alibaba and contributed nearly 11% of its cloud revenue vs. 7.4% in the previous year.</p>
+      <p>- Catherine Lim and Francis Chan, analysts</p>
+      <p>“Given that Ant Group continues to be an important strategic partner to Alibaba Group’s various businesses, Alibaba Group has decided that it will not sell any shares to Ant Group under the proposed share repurchase, so as to maintain its shareholding in Ant Group,” the company said in its brief filing.</p>
+    </div>
+  },
+  {
     id: 607,
     title: 'GE Stock Soars 70% With Earnings On Deck — Is It A Buy?',
     category: 'Markets',
