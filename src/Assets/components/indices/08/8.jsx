@@ -35,6 +35,19 @@ function Indices8(){
                             <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
                     </div>
+                    <div className="col mgg">
+                        {/* <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-1_koiywt.png" alt="prices"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-2_pzfkhc.png" alt="prices"/> */}
+                        <video 
+                            autoPlay={true}
+                            muted={true}
+                            loop={true}
+                            playsInline={true}
+                            preload="auto"
+                            >
+                            <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1690184914/ncx-derivatives_1_jlfpwu.mp4" type="video/mp4" />
+                        </video>
+                    </div>
                     <div className="col tvt__f mobile">
                         <h1>{t("trade_derivatives_with_up_to_200k_leverage")}</h1>
                         <div className="points__ff">
@@ -60,10 +73,6 @@ function Indices8(){
                             <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="up_sin">{t("sign_up")}</Button>
                             <Button href="#" className="get__ap">{t("get_the_app")}</Button>
                         </div>
-                    </div>
-                    <div className="col mgg">
-                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-1_koiywt.png" alt="prices"/>
-                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492792/indices_head-2_pzfkhc.png" alt="prices"/>
                     </div>
                 </div>
             </div>
