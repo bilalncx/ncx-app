@@ -1,5 +1,118 @@
 const data = [
   {
+    id: 574,
+    title: 'European Shares Subdued; Spain’s IBEX Drops on Inconclusive Vote',
+    category: 'Indices',
+    subCategory: ['European', 'Spain', 'IBEX'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- European stocks were subdued at the start of the busiest week of the earnings season, with investors also awaiting key central bank policy meetings. Spanish stocks fell after an inconclusive election outcome.</p>
+    </div>,
+    authorName: 'Sagarika Jaisinghani and Macarena Muñoz',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 7:45 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690264380/ncx-blog-947_wljqpi.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- European stocks were subdued at the start of the busiest week of the earnings season, with investors also awaiting key central bank policy meetings. Spanish stocks fell after an inconclusive election outcome.</p>
+    	<p>The Stoxx 600 was little changed at the close, with media and technology stocks underperforming. Telecom and energy stocks gained. Spain’s IBEX 35 Index closed 0.3% lower.</p>	
+    	<p>“We expect markets to remain in a holding pattern until mid-week when the Fed and then the ECB publish their rate decisions,” said Joachim Klement, head of strategy, accounting and sustainability at Liberum Capital. “We think the central banks will hint at an end to their rate hikes, which should support markets significantly.”</p>	
+    	<p>A rally in European stocks has lost steam this month amid worries about central banks remaining hawkish for longer. Investors will hear from the Federal Reserve and European Central Bank this week, with both central banks expected to raise interest rates by 25 basis points. Focus will remain on any clues about further rate hikes as US inflation slows while the labor market remains resilient.</p>
+      <p>Meanwhile, the second-quarter earnings season kicks into high gear this week as Stoxx 600 companies with a combined market value of $6.8 trillion are scheduled to report results, according to data compiled by Bloomberg. JPMorgan Chase & Co. strategists said they expect firms to beat the low bar for the quarter, but guidance might be tougher to raise given a loss of momentum and disappointing economic data from China.</p>
+      <p>Growth worries are also increasing, as data showed the euro-area private-sector economy contracted more than anticipated in July, with order inflows and output expectations pointing to the downturn deepening in the coming months.</p>
+      <p>Among individual movers, Ryanair Holdings Plc dropped after the carrier lowered its full-year traffic prediction and said it may need to cut ticket prices to fill seats this winter as passengers become more cost sensitive. Vodafone Group Plc rallied as it reported first-quarter service revenue growth that beat analysts’ expectations.</p>
+      <p>For more on equity markets:</p>
+      <ul>
+        <li>Buckle Up for Volatile Week of Central-Bank Action: Taking Stock</li>
+        <li>M&A Watch Europe: SoftwareOne, Restaurant Group, GAM, Liontrust</li>
+        <li>US Stock Futures Unchanged</li>
+        <li>Ad Firm S4 Slashes Goals Over Wary Tech Clients: The London Rush</li>
+      </ul>
+      <p>--With assistance from Michael Msika and Daniel Curtis.</p>
+    </div>
+  },
+  {
+    id: 573,
+    title: 'How Nasdaq 100 Special Rebalance Punishes The Magnificent 7',
+    category: 'Indices',
+    subCategory: ['Nasdaq', '100', 'Magnificent'],
+    description: <div className="blog-desc">
+      <p>One of the so-called "Magnificent Seven" stocks, Meta Platforms, dodges the pending changes, says an analysis by Bespoke Investment Group. Meta's weight in the Nasdaq 100 will actually rise slightly. The Nasdaq 100 owns the 100 most-valuable nonfinancial stocks in the Nasdaq.</p>
+    </div>,
+    authorName: 'MATT KRANTZ',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 7:40 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690263793/ncx-blog-946_enskmh.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>One of the so-called "Magnificent Seven" stocks, Meta Platforms, dodges the pending changes, says an analysis by Bespoke Investment Group. Meta's weight in the Nasdaq 100 will actually rise slightly. The Nasdaq 100 owns the 100 most-valuable nonfinancial stocks in the Nasdaq.</p>
+    	<p>The Nasdaq 100 — one of the best-known and top-performing stock indexes — gets shaken up today. And some of the changes from the "special rebalance" might surprise you.</p>	
+    	<p>The biggest surprise of all? One of the so-called "Magnificent Seven" stocks, Meta Platforms (META), dodges the pending changes, says an analysis by Bespoke Investment Group. Meta's weight in the Nasdaq 100 will actually rise slightly.</p>	
+    	<p>The stock skates through the rebalance's rules designed to limit the weight of the dominant stocks in the index. The Nasdaq 100 owns the 100 most-valuable nonfinancial stocks in the Nasdaq.</p>
+      <p>This twist shows just how difficult it is to tame the outsize influence this group of stocks is having on markets, says Robert Maltbie, fund manager of Argonaut 2000 Partners. "Everyone is wrapped around these seven stocks," he said.</p>
+      <h3>Apple Isn't The Top Nasdaq 100 Change</h3>
+      <p>What's prompting the rare special rebalance in the Nasdaq 100? It's triggered when all the Nasdaq 100 stocks with individual 4.5% market value weights collectively account for 48% or more of the index.</p>
+      <p>And that happened on July 3, with six stocks: Apple (AAPL), Microsoft (MSFT), Nvidia (NVDA), Alphabet (GOOGL), Amazon.com (AMZN) and Tesla (TSLA). Together they accounted for 50.9% of the Nasdaq, Bespoke found. It's the third time since 1998 this rebalance happened.</p>
+      <p>And this raises another surprise. Apple isn't the stock to see the largest weighting cut in the Nasdaq 100. That's surprising as Apple is the most valuable stock in the Nasdaq 100, valued at roughly $3 trillion. But its weighting in the index is only falling 2.66 percentage points from its July 3 level, Bespoke said.</p>
+      <p>That's smaller than the 2.74 percentage point drop by Microsoft. The software giant's weight in the Nasdaq 100 is dropping to 10.06 from 12.8. Microsoft's big weighting cut is a remnant of the last Nasdaq 100 special rebalance during the tech rally of the late 1990s. At that point, Microsoft alone accounted for a quarter of the Nasdaq 100.</p>
+      <h3>Meta Platforms' Weight Rises (A Little)</h3>
+      <p>Why is Meta spared the kneecapping applied to the others? It's all about timing.</p>
+      <p>On July 3, the social media giant only accounted for 4.2% of the Nasdaq 100. That's just below the 4.5% balance threshold. There's the interesting part. Since Meta isn't directly part of the rebalance, its weight would increase to 5% as the other six giants' weights are cut. But Nasdaq's rules cap weightings at 4.4%, which will be Meta's new weight, Bespoke says.</p>
+      <h3>The Nasdaq 100 Will Still Be Top Heavy</h3>
+      <p>Even after the special rebalancing, though, the Nasdaq will still hinge on just a few giant stocks.</p>
+      <p>The six most-valuable stocks on the Nasdaq 100 will still account for 40% of the index following the changes. That's down from 50.9% on July 3, but still "very concentrated," Maltbie says. And that exposes the index to risk, as many of the Magnificent Seven stocks are extended past historical averages.</p>
+      <p>"The Magnificent Seven has created a statistical aberration," he said.</p>
+      <h3>Nasdaq 100 Tends To Perform Fine Following Special Rebalances</h3>
+      <p>You might think these special rebalances might take the wind out of the Nasdaq 100's sails. But that's not true historically: The index tends to do fine following these events.</p>
+      <p>Following the 1998 rebalance, the tech boom continued. The Nasdaq soared 112% in the 12 months following that rebalance, Bespoke found. And even following the May 2011 special rebalance, the Nasdaq 100 rose another 9%.</p>
+      <p>"The 9% gain a year later isn't so bad," Bespoke said. "Based on these historical examples, the Nasdaq's special rebalance doesn't signal doom or a major reversal for the market; if anything, a continuation of recent trends is the signal sent by limited precedent."</p>
+    </div>
+  },
+  {
+    id: 572,
+    title: 'Chevron Surprise: Dow Jones Oil Giant Announces Leadership Shake-Up As Earnings Tumble Nearly 50%',
+    category: 'Indices',
+    subCategory: ['Chevron', 'Dow jones', 'Oil'],
+    description: <div className="blog-desc">
+      <p>Chevron surprised markets Sunday, releasing better-than-expected second-quarter figures early, along with changes to its leadership structure.</p>
+    </div>,
+    authorName: 'KIT NORTON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 6:11 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690213758/ncx-blog-945_k98896.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Chevron surprised markets Sunday, releasing better-than-expected second-quarter figures early, along with changes to its leadership structure.</p>
+    	<p>Chevron (CVX) surprised the markets Sunday, releasing earlier-than-expected second-quarter numbers and announcing the oil giant's chief financial officer is stepping down in 2024. CVX angled higher early Monday.</p>	
+    	<p>Chevron topped Wall Street profit estimates, even as earnings dropped nearly 50%. The U.S. oil major also announced it waived the mandatory retirement age of 65 for Chief Executive Officer Mike Wirth, 62, and that Chief Financial Offer Pierre Breber will retire next year.</p>	
+    	<p>Eimear Bonner, currently the vice president and chief technology officer at Chevron, will succeed Breber on March 1, 2024, according to the company.</p>
+      <p>Chevron earnings per share fell 47% to $3.08. Analysts expected earnings of $2.91 per share. Chevron will still release full second-quarter results on Friday, when ExxonMobil (XOM) also reports.</p>
+      <p>CVX rose 2.3% t 162.38 early Monday during market trade. On Friday, Chevron stock gained 1.5% to 158.69. The Dow Jones component is down 12% in 2023.</p>
+      <p>U.S. crude oil futures rose to $77.65 per barrel Monday, the highest in three months on expectations of stronger demand in China and a tighter global supply outlook.</p>
+      <p>Last year, as the U.S. economy bounced from Covid pandemic retreat to inflation-driven growth, Russia invaded Ukraine in February. The combination sent oil, gasoline and natural gas prices soaring. This resulted in Chevron, Exxon Mobil and other energy stocks leading the market, with the companies racking up record profits.</p>
+      <h3>Chevron Earnings Details</h3>
+      <p>The energy giant announced Sunday in its second-quarter "performance highlights" that production in the Permian Basin set a quarterly record. Chevron reported production totaled 772,000 barrels of oil equivalent per day and that Permian production is track with full-year guidance.</p>
+      <p>Meanwhile, Chevron's net oil equivalent production so far in 2023 is running flat vs. 2022, totaling 2.9 million barrels of oil equivalent per day.</p>
+      <p>Chevron added it returned $7.2 billion to shareholders in Q2, with $2.8 billion in dividends and $4.4 billion in stock purchases.</p>
+      <p>The company also said it expects its $6.3 billion deal to acquire PDC Energy (PDCE) to close in August.</p>
+      <p>In Q1, Chevron topped Wall Street estimates, even as revenue slipped compared to a year ago. Earnings gained 6% to $3.55 per share in the first quarter. Sales dropped 6% to $50.79 billion. Higher margins on refined product sales drove the earning beat, the company said, partially offset by lower oil prices and rising production costs.</p>
+      <p>Chevron reported worldwide net oil-equivalent production of 2.98 million oil-equivalent barrels per day in Q1. That's down 3% compared to last year, primarily due to lower international production, the company said.</p>
+      <h3>ExxonMobil Earnings On The Way</h3>
+      <p>Estimates: Analysts predict Exxon earnings slipping 50% to $2.04 per share with revenue decreasing 30% to $81.8 billion.</p>
+      <p>Results: Check early Friday.</p>
+      <p>ExxonMobil stock edged up 1.9% to 105.84 early Monday. XOM closed Friday trading at 103.89. Shares are currently in consolidation and sitting around 15% below a 119.92 buy point, according to MarketSmith analysis.</p>
+      <p>In Q1, ExxonMobil earnings jumped 36% to $2.83 per share with revenue slipping 4% to $86.56 billion.</p>
+      <p>The company's net production in the first quarter was 3.8 million oil-equivalent barrels per day up 4% from last year. Meanwhile, ExxonMobil's upstream earnings totaled $6.5 billion in Q1, a 20% drop compared to the fourth-quarter 2022, but a 45% jump from last year.</p>
+      <p>Exxon reported the main drivers of this sequential quarterly drop was lower prices, with crude and natural gas realizations down 10% and 23%, respectively.</p>
+      <p>ExxonMobil stock has a 59 Composite Rating of 99. XOM shares have a 49 Relative Strength Rating and a 76 EPS Rating.</p>
+    </div>
+  },
+  {
     id: 571,
     title: 'Dow Jones Futures Rise: Market Rally Hits 2023 Highs; Tesla Skids Late On These Elon Musk Comments',
     category: 'Indices',
