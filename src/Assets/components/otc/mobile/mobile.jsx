@@ -21,10 +21,10 @@ function OTCMobileVersion()
                     <source src="https://res.cloudinary.com/dqbcnwbvy/video/upload/v1690184914/ncx-derivatives_1_jlfpwu.mp4" type="video/mp4" />
                 </video>
                 <div className="zx__txt">
-                    <h2>Large trades with NCX OTC Desk</h2>
-                    <p>{t("why_choose_otc_text_1")}</p>
-                    <p>{t("why_choose_otc_text_2")}</p>
-                    <p>{t("why_choose_otc_text_3")}</p>
+                    <h2 className="otc_v">Large trades with<span>NCX OTC Desk</span></h2>
+                    <p className="otc__p">{t("why_choose_otc_text_1")}</p>
+                    <p className="otc__p">{t("why_choose_otc_text_2")}</p>
+                    <p className="otc__p">{t("why_choose_otc_text_3")}</p>
                     <Button className="btn__mail" href="mailto: support@ncx.cx">{t("apply")}</Button>
                 </div>
             </div>
