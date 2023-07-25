@@ -30,14 +30,6 @@ p.insta-head {
     object-fit: contain;
     filter: drop-shadow(0px 4px 30px rgba(0, 0, 0, 0.25));
 }
-/* .institutional__ser h1 {
-    font-size: 55px !important;
-    line-height: 75px !important;
-    font-family: 'hauora-medium' !important;
-} */
-/* #ncx_institution .institutional__ser .insse {
-    max-width: 370px;
-} */
 #ncx_institution .institutional__ser .ml__vwxf .insse h1 {
     width: 380px;
 }
@@ -110,31 +102,6 @@ p.insta-head {
         font-size: 26px !important;
         line-height: 32px !important;
     }
-    /* .liquidity-row .otctxt p {
-        height: 110px !important;
-        min-height: 110px;
-    } */
-    /* .liquidity-row .otc-line {
-        height: 200px !important;
-    } */
-    /* .access_defi .otctxt p {
-        min-height: 220px !important;
-    } */
-    /* .access_defi .col:nth-child(2) .otctxt p {
-        min-height: 203px !important;
-    }
-    .access_defi .otc-line {
-        height: 305px !important;
-    }
-    .structured_product .otctxt p {
-        min-height: 175px !important;
-    }
-    .structured_product .otc-line {
-        height: 255px !important;
-    }
-    .structured_product .col:nth-child(1) .otctxt p {
-        min-height: 155px !important;
-    } */
     .trading-sol-row {
         display: block !important;
         padding: 80px 0px !important;
@@ -157,36 +124,6 @@ p.insta-head {
         font-size: 26px !important;
         line-height: 32px !important;
     }
-    /* .mbl_advag1 .otctxt p {
-        min-height: 220px !important;
-    }
-    .mbl_advag1 .otc-line {
-        height: 310px !important;
-    }
-    .mbl_advag2 .col:nth-child(1) .otctxt p {
-        min-height: 300px !important;
-    }
-    .mbl_advag2 .col:nth-child(2) .otctxt p {
-        min-height: 280px !important;
-    }
-    .mbl_advag2 .otc-line {
-        height: 385px !important;
-    }
-    .mbl_advag3 .col:nth-child(1) .otctxt p {
-        height: 150px;
-    }
-    .mbl_advag3 .col:nth-child(2) .otctxt p {
-        min-height: 138px !important;
-    }
-    .mbl_advag3 .otc-line {
-        height: 235px !important;
-    }
-    .mbl_advag4 p {
-        min-height: 150px !important;
-    }
-    .mbl_advag4 .otc-line {
-        height: 235px !important;
-    } */
     .OTCsect.row.mobile.four.mbl_advag4 {
         padding-top: 0px !important;
     }
@@ -245,9 +182,6 @@ p.insta-head {
         position: relative !important;
         padding-bottom: 80px !important;
     }
-    /* .OTCsect.row.mobile.assets2 .col:nth-child(2) h2 {
-        min-height: 35.19px;
-    } */
     .OTCsect.row.mobile.assets2 .otctxt p, .OTCsect.row.mobile.assets1 .otctxt p {
         min-height: 260px !important;
     }
@@ -330,14 +264,4 @@ p.insta-head {
     #ncx_institution .why__choose__Otc .col.third{
         background: transparent !important;
     }
-    /* body #ncx_institution .why__choose__Otc .col.third h1, body #ncx_institution .why__choose__Otc .col.third p, 
-    body #ncx_institution .why__choose__Otc .col.third h3{
-        color: #000000 !important;
-    }
-    body #ncx_institution #data__ana .col.third .cho__log p{
-        color: #A1A3A7 !important   ;
-    }
-    body #ncx_institution #data__ana .cho__log svg path{
-        fill: #9E61F8 !important;
-    } */
 }

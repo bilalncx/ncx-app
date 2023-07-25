@@ -32,7 +32,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Linear Finance <span>LINA/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -43,7 +43,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Ordinals Token <span>ODRI/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -54,7 +54,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Buy stETH on Spot and <span>Earn 6% APR Yield</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -76,7 +76,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Algorand <span>ALGO/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -87,7 +87,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">PEPE Token <span>PEPE/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -98,7 +98,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Aptos <span>APT/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -109,7 +109,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Kusama <span>KSM/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -120,7 +120,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Floki Inu <span>FLOKI/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -131,7 +131,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Harmony <span>ONE/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -142,7 +142,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Shiba Inu <span>SHIB/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>
@@ -153,7 +153,7 @@ function MartFlyer()
                                     </p>
                                     <div className="nhqwe">
                                         <h1 className="title_lst">Yearn.Finance <span>YFI/USDT</span></h1>
-                                        <Button className="trd_btn" href="https://trade.ncx.cx/">Trade</Button>
+                                        <Button className="trd_btn" href="https://exchange.ncx.cx/trade/">Trade</Button>
                                     </div>
                                 </div>
                             </Slide>

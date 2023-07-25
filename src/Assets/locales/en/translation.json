@@ -374,7 +374,7 @@
   "withdrawal_fee_lowest": "Withdrawal Fee Lowest",
   "data_and_analytics": "Data & Analytics",
   "historical_data": "Historical Data",
-  "backtest_strategy_optimization": "Backtest and Strategy Optimization",
+  "backtest_strategy_optimization": "Backtest Strategy Optimization",
   "backtest_strategy_optimization_text": "NCX supports traders to backtest and strategy optimization based on historical spot & margin, futures contracts and delivery contract data.",
   "analytics": "Analytics",
   "wide_range_analytics": "Wide Range of Analytics",

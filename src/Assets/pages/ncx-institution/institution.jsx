@@ -9,7 +9,8 @@ import ThirdSection from '../../components/institution/third/third';
 import FifthSection from '../../components/institution/fifth/fifth';
 import SixthSection from '../../components/institution/sixth/six';
 import SeventhSection from '../../components/institution/seventh/seven';
-import TradingAdvantage from '../../components/aboutus/advantages/trading'
+import TradingAdvantage from '../../components/aboutus/advantages/trading';
+import InstitutionMobile from '../../components/institution/mobile/mobile';
 
 function NCXInstitution()
 {
@@ -18,21 +19,30 @@ function NCXInstitution()
 
             <MyHeader />
 
-            <FirstSection />
+            <div className="inst_desktop">
 
-            <SecondSection />
+                <FirstSection />
 
-            <FifthSection />
+                <SecondSection />
 
-            <ThirdSection />
+                <FifthSection />
 
-            <TradingAdvantage />
+                <ThirdSection />
 
-            {/* <FourthSection /> */}
+                <TradingAdvantage />
 
-            <SixthSection />
+                <SixthSection />
 
-            <SeventhSection />
+                <SeventhSection />
+
+            </div>
+
+
+            <div className="inst_mbl">
+                
+                <InstitutionMobile />
+
+            </div>
 
             <MyFooter />
             
