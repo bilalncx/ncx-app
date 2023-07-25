@@ -27,7 +27,7 @@ function MyFooter()
                             <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                             <li><a href="https://exchange.ncx.cx/trade">{t("spot_trading")}</a></li>
                             <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
-                            <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
+                            <li><a href="https://exchange.ncx.cx/markets">{t("markets")}</a></li>
                             <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                             <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
                             <li><a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a></li>
@@ -81,7 +81,7 @@ function MyFooter()
                         <h1>{t("apps")}</h1>
                         <ul className="ul-two">
                             <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
-                            <li><a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
+                            <li><a href="#" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
                             <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
                             <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                         </ul>
@@ -92,7 +92,7 @@ function MyFooter()
                             <div className="app-barcode-row">
                                 <div className="appsttore">
                                     <p>{t("mobile_app")}</p>
-                                    <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer"><NCXGoogle /></a>
+                                    <a href="#" target="_blank" rel="noreferrer"><NCXGoogle /></a>
                                     <NCXApple />
                                 </div>
                                 <div className="bardcodd">
@@ -132,7 +132,7 @@ function MyFooter()
                         <li><a href="https://ncx.cx/buy-crypto">{t("buy_crypto")}</a></li>
                         <li><a href="https://exchange.ncx.cx/trade">{t("spot_trading")}</a></li>
                         <li><a href="https://ncx.cx/derivatives">{t("crypto_derivatives")}</a></li>
-                        <li><a href="https://ncx.cx/markets">{t("markets")}</a></li>
+                        <li><a href="https://exchange.ncx.cx/markets">{t("markets")}</a></li>
                         <li><a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("cross_chain_dex")}</a></li>
                         <li><a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a></li>
                         <li><a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a></li>
@@ -185,7 +185,7 @@ function MyFooter()
                     <ul>
                         <h1>{t("apps")}</h1>
                         <li><a href="#">{t("ncx_app_on_app_store")}</a></li>
-                        <li><a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
+                        <li><a href="#" target="_blank" rel="noreferrer">{t("ncx_app_on_google_play_store")}</a></li>
                         <li><a href="#">{t("ncx_ctrader_on_app_store")}</a></li>
                         <li><a href="#">{t("ncx_ctrader_on_google_play_store")}</a></li>
                     </ul>
@@ -209,7 +209,7 @@ function MyFooter()
                 <div className="app-barcode-row">
                     <div className="appsttore">
                         <p>{t("mobile_app")}</p>
-                        <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd&pli=1" target="_blank" rel="noreferrer"><img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" /></a>
+                        <a href="#" target="_blank" rel="noreferrer"><img src={MBLNCXGoogle} alt="ncx-app-on-googleplay-store" /></a>
                         <img src={MBLNCXAppStore} alt="ncx-app-on-appstore" />
                     </div>
                     <div className="bardcodd">

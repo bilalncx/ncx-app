@@ -687,7 +687,7 @@ function HomePageMarketSection()
                     <tbody id="market_table_body"></tbody>
 
                     <div className="more_bt">
-                        <a href="/markets">{t("view_more_markets")}</a>
+                        <a href="https://exchange.ncx.cx/markets">{t("view_more_markets")}</a>
                     </div>
                 </table>
             </div>

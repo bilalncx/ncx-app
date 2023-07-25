@@ -43,7 +43,7 @@ function NewFeatureSection()
                             <div id="ngbv" className="lkj head">
                                 <div className="uiop"></div>
                                 <div className="uiop clr">
-                                    <Button href="#" className="open_acnt">{t("open_an_account")}</Button>
+                                    <Button href="https://exchange.ncx.cx/register" className="open_acnt">{t("open_an_account")}</Button>
                                 </div>
                                 <div className="uiop">
                                     <div className="bynt">

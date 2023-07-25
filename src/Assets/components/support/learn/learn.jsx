@@ -35,9 +35,9 @@ function SupportPageSet()
                     <div className="row">
                         <div className="col fest">
                             <div className="support_leftbar">
-                                <div className="ncx-trends">
+                                <div className="trend">
                                     <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                    <p>{t("faq")}</p>
+                                    <h3>{t("faq")}</h3>
                                 </div>
 
                                 <div className="faq_nav">

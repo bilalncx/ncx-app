@@ -176,7 +176,7 @@ function HomeBannerSection()
 
             <div className="btn__dtr">
                 <Button href="/buy-crypto" className="byyy">{t("buy_crypto")}</Button>
-                <Button href="/markets" className="marr">{t("markets")}</Button>
+                <Button href="https://exchange.ncx.cx/markets" className="marr">{t("markets")}</Button>
             </div>
 
         </div>

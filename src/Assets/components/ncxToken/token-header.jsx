@@ -119,7 +119,7 @@ export default function Header() {
                   <a href="/derivatives">{t("derivatives")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="/markets">{t("markets")}</a>
+                  <a href="https://exchange.ncx.cx/markets">{t("markets")}</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("dex")}</a>
@@ -216,10 +216,10 @@ export default function Header() {
                         <a href="https://exchange.ncx.cx/trade" target="_blank" rel="noreferrer">{t("spot_trading")}</a>
                       </li>
                       <li>
-                        <a href="/derivatives">{t("derivatives")}</a>
+                        <a href="https://ncx.cx/derivatives">{t("derivatives")}</a>
                       </li>
                       <li>
-                        <a href="/market">{t("markets")}</a>
+                        <a href="https://exchange.ncx.cx/markets">{t("markets")}</a>
                       </li>
                       <li>
                         <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("dex")}</a>
@@ -228,13 +228,16 @@ export default function Header() {
                         <a href="https://ncx.cx/ncx-card">{t("ncx_card")}</a>
                       </li>
                       <li>
-                        <a href="ncx-token">{t("ncx_token")}</a>
+                        <a href="https://ncx.cx/wallet">{t("ncx_defi_wallet")}</a>
                       </li>
                       <li>
-                        <a href="/rewards">{t("rewards")}</a>
+                        <a href="https://ncx.cx/ncx-token">{t("ncx_token")}</a>
                       </li>
                       <li>
-                        <a href="/market-insights">{t("news_insights")}</a>
+                        <a href="https://ncx.cx/rewards">{t("rewards")}</a>
+                      </li>
+                      <li>
+                        <a href="https://ncx.cx/market-insights">{t("news_insights")}</a>
                       </li>
                       {/* <li>
                         <a className="btn01 signup launching-btn">Sign Up</a>

@@ -119,7 +119,7 @@ export default function Header() {
                   <a href="/derivatives">{t("derivatives")}</a>
                 </li>
                 <li className="main_title white_bg">
-                  <a href="/markets">{t("markets")}</a>
+                  <a href="https://exchange.ncx.cx/markets">{t("markets")}</a>
                 </li>
                 <li className="main_title white_bg">
                   <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("dex")}</a>
@@ -219,7 +219,7 @@ export default function Header() {
                         <a href="/derivatives">{t("derivatives")}</a>
                       </li>
                       <li>
-                        <a href="/markets">{t("markets")}</a>
+                        <a href="https://exchange.ncx.cx/markets">{t("markets")}</a>
                       </li>
                       <li>
                         <a href="https://bsc.ncx.cx/swap" target="_blank" rel="noreferrer">{t("dex")}</a>

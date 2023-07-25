@@ -9,11 +9,6 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-// import Deposit1 from '../../../images/deposit1.png';
-// import Deposit2 from '../../../images/deposit2.png';
-// import Deposit3 from '../../../images/deposit3.png';
-// import Deposit4 from '../../../images/deposit4.png';
-// import Deposit5 from '../../../images/deposit5.png';
 import CoinData from '.././deposit-payout-table';
 import { useTranslation } from "react-i18next";
 
@@ -37,9 +32,9 @@ function SupportPageSet()
                     <div className="row">
                         <div className="col fest">
                             <div className="support_leftbar">
-                                <div className="ncx-trends">
+                                <div className="trend">
                                     <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                    <p>{t("faq")}</p>
+                                    <h3>{t("faq")}</h3>
                                 </div>
 
                                 <div className="faq_nav">

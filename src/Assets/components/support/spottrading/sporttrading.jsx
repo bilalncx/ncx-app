@@ -9,15 +9,6 @@ import Telegram from '../../../components/footer/telegram.svg';
 import Twitter from '../../../components/footer/twitter.svg';
 import Instagram from '../../../images/instagram.svg';
 import { ReactComponent as CardArrow } from '../../../images/ncx-cardarrow.svg';
-// import SpotTrading1 from '../../../images/spot-trading-1.png';
-// import SpotTrading2 from '../../../images/spot-trading-2.png';
-// import SpotTrading3 from '../../../images/spot-trading-3.png';
-// import SpotWeb1 from '../../../images/spot-web1.png';
-// import SpotWeb2 from '../../../images/spot-web2.png';
-// import SpotWeb3 from '../../../images/spot-web3.png';
-// import SpotWeb4 from '../../../images/spot-web4.png';
-// import SpotWeb5 from '../../../images/spot-web5.png';
-// import SpotWeb6 from '../../../images/spot-web6.png';
 import { useTranslation } from "react-i18next";
 
 
@@ -41,9 +32,9 @@ function SupportPageSet()
                     <div className="row">
                         <div className="col fest">
                             <div className="support_leftbar">
-                                <div className="ncx-trends">
+                                <div className="trend">
                                     <img className="ncx-blacklogo" src={NCXLogo} alt="ncx-blacklogo"/>
-                                    <p>{t("faq")}</p>
+                                    <h3>{t("faq")}</h3>
                                 </div>
 
                                 <div className="faq_nav">

@@ -49,10 +49,10 @@ function NCXAPPSection()
                                     <NCXApple />
                                     <a href="https://play.google.com/store/apps/details?id=com.mfinance.ncxdigitalexchange.prd" target="_blank" rel="noreferrer"><NCXGoogle /></a>
                                 </div>
-                                <div className="home__btnff">
+                                {/* <div className="home__btnff">
                                     <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer" className="sin__op">{t("sign_up")}</Button>
                                     <Button href="#" className="cl__drp">{t("claim_airdrop")}</Button>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                         <div className="col ml__bgvv">
