@@ -1,5 +1,107 @@
 const data = [
   {
+    id: 591,
+    title: 'Interest rate rises to halve UK growth, think tank forecasts',
+    category: 'Forex',
+    subCategory: ['Interest', 'rises', 'UK'],
+    description: <div className="blog-desc">
+      <p>The impact of the Bank of England's interest rate rises is likely to have a long-term effect on economic growth in the UK, EY Item Club said, as it more than halved its forecast for 2024.</p>
+    </div>,
+    authorName: 'Lucy Harley-McKeown',
+    authorurl: 'https://www.yahoo.com/author/lucy-harley-mckeown/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 6:15 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690212211/ncx-blog-942_hxuqky.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The impact of the Bank of England's interest rate rises is likely to have a long-term effect on economic growth in the UK, EY Item Club said, as it more than halved its forecast for 2024.</p>
+    	<p>While the UK economy is expected to remain in growth for 2023, up to 0.4% from the 0.2% projected, the following year's forecast has been cut from spring's prediction of 1.9% to 0.8%.</p>	
+    	<p>The economy remains on course to avoid recession, although the 2025 GDP growth forecast has also been downgraded, from 2.3% to 1.7%, EY added.</p>	
+    	<p>Two more interest rate rises are predicted from the Bank of England, in August and September, with the Bank Rate forecast to peak at 5.5%, before rates start to be cut from the second half of next year.</p>
+      <p>Inflation is still expected to fall quickly in the second half of 2023, building on June’s downside surprise, but is now predicted to end the year at just below 5%. In April, it had been expected to end 2023 around 3%.</p>
+      <p>Despite the uncertain long-term forecast, there are bright spots in the data, said Hywel Ball, EY's UK chair.</p>
+      <p>"While the UK workforce may be smaller than past trends would imply, it has grown back to its pre-pandemic size," he added.</p>
+      <p>"Energy costs are falling and supply chain problems are easing. Business investment, which has been disappointing for some time, is starting to outpace the wider economy too. The foundation for growth is there, but the big question mark is the future path of inflation and interest rates.”</p>
+      <p>The UK’s economic outlook will be determined by the face-off between the drag from increased interest rates on the one hand, and the boost to activity from cheaper energy, easing supply chain pressures, and a growing workforce on the other, EY's release concludes.</p>
+      <p>The news comes amid news that business activity has seen a "considerable slowdown" in the last month. The S&P Global Flash PMI survey showed what the group's chief business economist called a "stalling" economy.</p>
+      <p>Survey respondents commented on a headwind to business activity from rising interest rates, elevated inflation, and more caution among clients due to the uncertain economic outlook.</p>
+    </div>
+  },
+  {
+    id: 590,
+    title: 'Worsening euro zone business downturn reignites recession fears',
+    category: 'Forex',
+    subCategory: ['Worsening', 'euro', 'business'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Euro zone business activity shrank much more than expected in July as demand in the bloc's dominant services industry declined while factory output fell at the fastest pace since COVID-19 first took hold, a survey showed.</p>
+    </div>,
+    authorName: 'Jonathan Cable',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 12:07 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690211816/ncx-blog-941_guoqbt.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Jonathan Cable</p>
+    	<p>LONDON (Reuters) -Euro zone business activity shrank much more than expected in July as demand in the bloc's dominant services industry declined while factory output fell at the fastest pace since COVID-19 first took hold, a survey showed.</p>	
+    	<p>The decline was broad-based with the euro zone's two biggest economies - Germany and France - both in contractionary territory and will likely add to fears the bloc will slip back into recession.</p>	
+    	<p>The survey also indicated the European Central Bank's sustained campaign of interest rate rises is starting to take its toll on consumers and denting the services sector.</p>
+      <p>This will pose questions for the bank, which meets on Thursday, as it weighs its fight against record inflation against the economic damage it could cause.</p>
+      <p>HCOB's flash Composite Purchasing Managers' Index (PMI) for the euro area, compiled by S&P Global and seen as a good gauge of overall economic health, dropped to an eight-month low of 48.9 in July from June's 49.9.</p>
+      <p>That was below the 50 mark separating growth from contraction and lower than all expectations in a Reuters poll which had predicted a modest dip to 49.7.</p>
+      <p>"The weakness was widespread across all sectors, but it was the manufacturing sector that posted another bad reading," said Paolo Grignani at Oxford Economics.</p>
+      <p>"Today's print confirms the deterioration in macroeconomic conditions is well underway and spreading from manufacturing to other sectors. In our baseline case we expect subdued growth for the second half of the year, but today's data suggest the risk of a small contraction in euro zone GDP in Q3 is increasing."</p>
+      <p>Activity in Germany, Europe's largest economy, contracted in July, increasing the likelihood of a recession in the second half.</p>
+      <p>In France a downturn extended into July as both the services and manufacturing sectors did worse than expected.</p>
+      <p>The euro slid and the bloc's government bond yields fell after the softer than expected data.</p>
+      <p>The private sector in Britain, outside the euro zone, is growing at its weakest pace in six months in July as orders for businesses stagnate in the face of rising interest rates and still-high inflation.</p>
+      <p>A PRICE TO PAY</p>
+      <p>The euro zone services PMI fell to 51.1 from 52.0, its lowest since January and shy of the Reuters poll forecast for 51.5.</p>
+      <p>Indebted consumers feeling the pinch from rising borrowing costs and prices cut back on spending, and the services new business index went below breakeven for the first time in seven months.</p>
+      <p>A PMI covering the bloc's manufacturing sector dropped to 42.7 from 43.4. The Reuters poll had forecast a slight rise to 43.5.</p>
+      <p>An index measuring output, which feeds into the composite PMI, fell to its lowest in over three years.</p>
+      <p>The decline came despite manufacturers running down backlogs of work and cutting their prices. Factories benefited from a sharp drop in input costs due to falling demand for materials and improved supply.</p>
+      <p>"Input price pressures continued to ease, but this was almost entirely due to costs falling in the manufacturing sector, which in turn probably reflects lower energy prices as well as improved global supply conditions," said Jack Allen-Reynolds at Capital Economics.</p>
+      <p>While prices in services proved stickier, any sign of easing pressures will probably be welcomed by policymakers at the ECB who have failed to get inflation back to their 2% target despite implementing the most aggressive policy tightening schedule in the bank's history.</p>
+      <p>They will raise interest rates by 25 basis points on Thursday adding to the woes of consumers, according to all economists in a Reuters poll, a slight majority of whom expect another hike in September.</p>
+      <p>(Reporting by Jonathan Cable; editing by John Stonestreet and Toby Chopra)</p>
+    </div>
+  },
+  {
+    id: 589,
+    title: 'Euro drops after weak business activity data, central banks in focus',
+    category: 'Forex',
+    subCategory: ['Euro', 'Central', 'Bank'],
+    description: <div className="blog-desc">
+      <p>SYDNEY/LONDON (Reuters) - The euro slid on Monday after activity data in key economies came in much softer than expected, giving markets a jolt at the start of a week packed with central bank meetings at which investors expect rate hikes in Europe and the United States.</p>
+    </div>,
+    authorName: 'Tom Westbrook and Alun John',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 24, 2023 - 4:56 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690211394/ncx-blog-940_dninl7.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Tom Westbrook and Alun John</p>
+    	<p>SYDNEY/LONDON (Reuters) - The euro slid on Monday after activity data in key economies came in much softer than expected, giving markets a jolt at the start of a week packed with central bank meetings at which investors expect rate hikes in Europe and the United States.</p>	
+    	<p>The European common currency fell 0.4% to $1.1083, skidding after a quiet Asian session on PMI data that showed euro zone business activity shrank much more than expected in July.</p>	
+    	<p>The pound dropped after British activity data, but less dramatically and was last down 0.1% at $1.2839.</p>
+      <p>Simon Harvey, head of FX analysis at Monex Europe, said slower euro zone growth would reduce the likelihood of "the portfolio inflows needed to take the euro back to its pre Ukraine war ranges of $1.12 to $1.20".</p>
+      <p>There is plenty more for investors to watch this week - the Federal Reserve concludes a meeting on Wednesday, followed by the European Central Bank (ECB) a day later and the Bank of Japan on Friday, as well as earnings from many heavyweight companies.</p>
+      <p>Investors expect both the ECB and Fed to raise rates by 25 basis points and the focus in both cases is on the signals they send around their September meetings. Softening inflation gauges might allow the Fed room to hint at a pause.</p>
+      <p>"The last week left markets believing in a soft-landing scenario for the U.S. markets where the (Fed) ends its hikes ... and then sees a steady drop in CPI without a recession," said Bob Savage, head of markets strategy at BNY Mellon.</p>
+      <p>The Bank of Japan (BOJ) is the most likely of the three central banks to throw up a market-moving surprise, traders say, with a tweak to its yield curve control policy seen as a possibility.</p>
+      <p>The yen strengthened with the dollar down 0.47% at 141.2 yen, and the euro down 0.7% at 156.6 yen.</p>
+      <p>Last Friday the Japanese currency dived to as weak as 141.92 per dollar, also sliding on crosses, following a Reuters report that the BOJ was leaning towards keeping its yield curve control policy unchanged, though volatility gauges have spiked as the meeting looms.</p>
+      <p>"If the BOJ adjusts its YCC programme, financial markets will likely take it as the start of a policy tightening cycle regardless of the BOJ's rationale. Under such a scenario we consider USD/JPY and EUR/JPY can lose about 2‑4 yen on the day," analysts at Commonwealth Bank of Australia wrote.</p>
+      <p>The Swiss franc was steady at 0.8648 per dollar, and the dollar index was up 0.1% at 101.2.</p>
+      <p>(Reporting by Tom Westbrook; Editing by David Holmes and Jacqueline Wong)</p>
+    </div>
+  },
+  {
     id: 588,
     title: 'USD/JPY Forecast – US Dollar Bounces Against Japanese Yen',
     category: 'Forex',
