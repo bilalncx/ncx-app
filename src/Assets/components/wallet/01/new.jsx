@@ -42,7 +42,7 @@ function NCXAPPSection()
                                      <span>{t("your_own_private_keys")}</span>
                                 </p>
                                 <div className="barcodd">
-                                    <img src={NCXBarCode} alt="NCX Bard Code to Download app" />
+                                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690363790/qrcode_2_oa3lws.png" alt="NCX Bard Code to Download app" />
                                     <p>{t("scan_to_download_ncx_app")}</p>
                                 </div>
                                 <div className="apps-divi">

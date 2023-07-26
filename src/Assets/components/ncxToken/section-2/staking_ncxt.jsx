@@ -45,7 +45,7 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>90,000</p>
+                                <p>100,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
@@ -61,11 +61,11 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>300,000</p>
+                                <p>500,000</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>700,000</p>
+                                <p>1,000,000</p>
                             </div>
                         </div>
                         <div className="colstake">
@@ -166,7 +166,7 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>90K</p>
+                                <p>100K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
@@ -182,11 +182,11 @@ function HomeNCXToken()
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>300K</p>
+                                <p>500K</p>
                             </div>
                             <div className="color">
                                 <NCXTokenIcon />
-                                <p>700K</p>
+                                <p>1M</p>
                             </div>
                         </div>
                     </div>

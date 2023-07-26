@@ -12,6 +12,7 @@ import AboutPartnerShips from '../../components/aboutus/partner/partner'
 import TradingAdvantages from '../../components/aboutus/advantages/trading';
 import TradingPairs from '../../components/aboutus/derivative/derivativs';
 import DataAnalytics from '../../components/aboutus/analytics/ana';
+import AboutMobileVersion from "../../components/aboutus/mobile/mobile";
 
 function NCXAboutUs()
 {
@@ -24,25 +25,31 @@ function NCXAboutUs()
             
             <MyHeader />
 
-            <About1 />
+            {/* <div className="about_desktop"> */}
+                <About1 />
 
-            <About2 />
+                <About2 />
 
-            <About3 />
+                <About3 />
 
-            <About4 />
+                <About4 />
 
-            <DataAnalytics />
+                <DataAnalytics />
 
-            <TradingPairs />
+                <TradingPairs />
 
-            <TradingAdvantages />
+                <TradingAdvantages />
 
-            <AboutDefi />
+                <AboutDefi />
 
-            <AboutPartnerShips />
+                <AboutPartnerShips />
 
-            <AboutLast />
+                <AboutLast />
+            {/* </div> */}
+
+            {/* <div className="about_mobile">
+                <AboutMobileVersion />
+            </div> */}
 
             <MyFooter />
 

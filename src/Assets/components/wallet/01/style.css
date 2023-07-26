@@ -201,3 +201,6 @@ section#right__left {
 #wallet_main_screen .ncxapp-section .row .col:last-child{
     align-items: flex-start !important;
 }
+#wallet__main__cc .ncxapp-section .row .barcodd p {
+    width: 105px !important;
+}

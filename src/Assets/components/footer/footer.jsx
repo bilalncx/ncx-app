@@ -97,7 +97,7 @@ function MyFooter()
                                     <NCXApple />
                                 </div>
                                 <div className="bardcodd">
-                                    < img src={NCXBarcode} alt="NCX Barcode to Download App" />
+                                    < img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690363790/qrcode_2_oa3lws.png" alt="NCX Barcode to Download App" />
                                     <p>{t("scan_to_download_ncx_app")}</p>
                                 </div>
                             </div>
@@ -214,7 +214,7 @@ function MyFooter()
                         <img src={MBLNCXAppStore} alt="ncx-app-on-appstore" />
                     </div>
                     <div className="bardcodd">
-                        < img src={NCXBarcode} alt="NCX Barcode to Download App" />
+                        < img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690363790/qrcode_2_oa3lws.png" alt="NCX Barcode to Download App" />
                         <p>{t("scan_to_download_ncx_app")}</p>
                     </div>
                 </div>

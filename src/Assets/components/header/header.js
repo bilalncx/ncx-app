@@ -150,7 +150,7 @@ export default function Header() {
                   <div class="download-box">
                     <div class="qr-box">
                       <div class="img-box">
-                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689405462/ncx-QRcode_mkn2ki.svg" alt="NCX Mobile App"/>
+                        <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690363790/qrcode_jitvgo.png" alt="NCX Mobile App"/>
                       </div>
                     </div>
                     <div class="pc-box">
