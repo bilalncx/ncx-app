@@ -3,8 +3,9 @@ import '../../institution/mobile/mobile.css';
 import { useTranslation } from "react-i18next";
 import CountUp from 'react-countup';
 import {ReactComponent as VVector} from '../../../images/v-vector.svg';
-import AboutTrade from '../../homepage/home-trade/trade';
-import Logo from '../../../images/new_sitelogo.svg';
+import AboutTrade from '../../indices/01/1';
+import NCXDeFi from '../../wallet/06/6';
+import PartnerShips from '../../homepage/banner/partner';
 
 function AboutMobileVersion()
 {
@@ -196,49 +197,39 @@ function AboutMobileVersion()
                 </div>
             </div>
 
-            {/* <div className="zx__zx2 brd__btm">
-                <div className="xs__edf">
-                    <h3>{t("security")}</h3>
-                    <p>{t("security_text")}</p>
-                </div>
-                <div className="xs__edf">
-                    <h3>{t("regulatory_compliance")}</h3>
-                    <p>{t("trading_advantages_text1")}</p>
-                </div>
-                <div className="xs__edf">
-                    <h3>{t("zero_fees")}</h3>
-                    <p>{t("zero_fees_text")}</p>
-                </div>
-                <div className="xs__edf">
-                    <h3>{t("fast_settlement")}</h3>
-                    <p>{t("fast_settlement_text")}</p>
-                </div>
-                <div className="xs__edf">
-                    <h3>{t("wide_coverage")}</h3>
-                    <p>{t("wide_coverage_text")}</p>
-                </div>
-                <div className="xs__edf">
-                    <h3>{t("professional_service")}</h3>
-                    <p>{t("professional_service_text")}</p>
-                </div>
-            </div> */}
+            <AboutTrade />
 
             <div className="zx__zx2 brd__btm">
-                <div className="trading_col">
-                    <div className="about_logo">
-                        <img src={Logo} alt="ncx" />
-                        <h1>{t("derivatives_trading")}</h1>
-                    </div>
+                <h2>Institutional Advantages </h2>
+                <div className="xs__edf">
+                    <h3>{t("compliance")}</h3>
+                    <p>NCX extensive compliance program is designed to be on par with the world’s leading regulatory and industry best practices. NCX’s risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
                 </div>
-
-                <div className="trade_derivatives_xx">
-                    <div className="tvs">
-                        <h1>{t("assets_text_1")}</h1>
-                        <p>{t("assets_text_2")}</p>
-                    </div>
-                    <AboutTrade />
+                <div className="xs__edf">
+                    <h3>{t("risk_management")}</h3>
+                    <p>Comprehensive risk management and risk analytical insights, risk alerts, complex simulations and stress-testing on trading data with forecasting capabilities, hedging and other recommendations for actions.</p>
+                </div>
+                <div className="xs__edf">
+                    <h3>{t("derivatives_market")}</h3>
+                    <p>NCX offers over 500 Derivatives Trading Pairs, from Cryptocurrencies to Financial Markets, Stocks, Forex,  Commodities, Metals, ETF’s Indices & Energies.</p>
+                </div>
+                <div className="xs__edf">
+                    <h3>Spot Market</h3>
+                    <p>{t("trading_advantage_text5")}</p>
+                </div>
+                <div className="xs__edf">
+                    <h3>{t("api_sdk_colo_service")}</h3>
+                    <p>{t("api-sdk-colo-text")}</p>
                 </div>
             </div>
+
+            <div className="zx__zx2 brd__btm"> 
+                <h2>{t("defi")}</h2>
+                <NCXDeFi />
+            </div>
+
+            <PartnerShips />
+            
 
         </div>
     )

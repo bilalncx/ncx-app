@@ -44,7 +44,7 @@
     p.otc__p{text-align: justify !important;}
 
     /* About Us Page Styling */
-    /* .about_desktop{display: none;}
+    .about_desktop{display: none;}
     .about_mobile{display: block;}
     .about_mobile .team_pairs p, .about_mobile .team_pairs span.balance, .about_mobile .team_pairs h1{color: #FFFFFF !important;}
     .about_mobile .row.team_pairs.mobile {padding: 30px 20px 14px 20px !important; margin: 0px !important;}
@@ -52,19 +52,6 @@
     .about_mobile .ncx-office {padding-top: 30px;}
     .about_mobile .ncx-office .img12 {display: flex !important; flex-direction: column; gap: 20px;}
     .about_mobile .ncx-office .img12 img{margin-bottom: 0px !important;}
-    .about_logo img {width: 100px; height: auto;}
-    .zx__zx2 .about_logo h1 {color: #FFFFFF; border-color: #FFFFFF !important; font-size: 24px !important; line-height: 26px !important; font-family: 'urbanist-regular' !important;}
-    .trading_col {width: 100% !important;}
-    .zx__zx2 .trade_derivatives_xx {padding: 0px !important; margin-top: 30px;}
-    .zx__zx2 .tvs h1 {font-size: 20px; font-family: 'urbanist-regular'; color: #FFFFFF !important;}
-    .zx__zx2 .tvs p {color: #5ED3F0 !important; font-size: 14px !important;}
-    .zx__zx2 #trade-tabs-sect button.trade-tabs, .zx__zx2 .inner-btntabs button.conttrade-tabs {border-radius: 8px!important; font-size: 12px !important; min-width: 70px!important;
-    color: #FFFFFF !important; border: 1px solid rgba(255,255,255,0.15); background: #121212 !important; margin: 0px !important; max-width: 120px !important; padding: 6px 8px !important;}
-    .zx__zx2 #trade-tabs-sect button.trade-tabs.active, .zx__zx2 #trade-tabs-sect .inner-btntabs button.conttrade-tabs.active{color: #5ED3F0 !important; border-color: #5ED3F0 !important;}
-    .zx__zx2 .buttons-tab {display: flex; flex-wrap: wrap !important; gap: 10px; margin-bottom: 10px;}
-    .zx__zx2 .trade_derivatives_xx .content-tabs {padding: 20px 15px !important; background: #141414;}
-    .zx__zx2 .inner-btntabs {display: flex; flex-wrap: wrap !important; gap: 5px; margin-bottom: 10px;}
-    .zx__zx2 .currecnycol-txt h1 {color: #FFFFFF !important; font-family: 'urbanist-regular' !important; text-align: left !important; font-weight: 400 !important;}
-    .zx__zx2 .currecnycol-txt p{color: #FFFFFF !important; text-align: left !important; font-weight: 300 !important; font-family: 'urbanist-regular' !important;}
-    .zx__zx2 .currecnycol-txt{border-bottom: 1px solid rgba(255,255,255,0.15) !important;} */
+    .zx__zx2 .wallet__defi{padding: 0px !important;}
+    .about_mobile .mbl__version .ind__cont {padding-bottom: 0px !important;}
 }

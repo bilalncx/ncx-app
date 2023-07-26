@@ -25,7 +25,7 @@ function NCXAboutUs()
             
             <MyHeader />
 
-            {/* <div className="about_desktop"> */}
+            <div className="about_desktop">
                 <About1 />
 
                 <About2 />
@@ -45,11 +45,11 @@ function NCXAboutUs()
                 <AboutPartnerShips />
 
                 <AboutLast />
-            {/* </div> */}
+            </div>
 
-            {/* <div className="about_mobile">
+            <div className="about_mobile">
                 <AboutMobileVersion />
-            </div> */}
+            </div>
 
             <MyFooter />
 
