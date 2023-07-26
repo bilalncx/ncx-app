@@ -1,6 +1,6 @@
 import React from "react";
 import './11.css';
-import {ReactComponent as DropIcon} from '../../../images/ind_faq_icon.svg';
+import {ReactComponent as DropIcon} from '../../../images/v-vector.svg';
 import { useTranslation } from "react-i18next";
 
 function IndicesFAQ()

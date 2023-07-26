@@ -51,11 +51,11 @@ div#indicies__page {
 #indicies__page.new__d .global__mart:before, #indicies__page.new__d .ind__banner:before{
     left: 2.05% !important;
 }
-#indicies__page.new__d .ind__fq{
+/* #indicies__page.new__d .ind__fq{
     background: url(https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689492622/indices_ellipse2_nk0ofm.png) !important;
     background-size: 100% 100% !important;
     background-position: center top !important;
-}
+} */
 
 
 /* Media queries starts from here */
