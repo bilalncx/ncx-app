@@ -24,7 +24,7 @@
     .zx__zx2 h2{margin-bottom: 30px;}
     #ncx_institution .mbl__version .wws__xx summary, .about_mobile .wws__xx summary {padding: 20px 0px !important; color: #FFFFFF !important; border-bottom: 1px solid rgba(255,255,255,0.25);}
     #ncx_institution .mbl__version .wws__xx .contt, .about_mobile .wws__xx .contt{color: #FFFFFF !important; margin: 20px 0px 10px 0px !important; padding: 0px !important;}
-    #ncx_institution .mbl__version .wws__xx details, .about_mobile .wws__xx details[open] span.red {transform: rotate(180deg); transition: all 0.4s cubic-bezier(1,1,1,1);}
+    #ncx_institution .mbl__version .wws__xx details[open] span.red, .about_mobile .wws__xx details[open] span.red {transform: rotate(180deg); transition: all 0.4s cubic-bezier(1,1,1,1);}
     .ml__huc h3 {font-size: 22px; font-family: 'roboto-light'; color: #FFFFFF; line-height: 28px; margin: 10px 0px 25px 0px;}
     .ml__huc p{font-size: 16px; font-family: 'roboto-light'; color: #B9B9BB; line-height: 22px;}
     .ml__huc img {width: 80px; height: 80px;}
