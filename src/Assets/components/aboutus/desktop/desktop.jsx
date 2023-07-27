@@ -7,6 +7,7 @@ import CountUp from 'react-countup';
 import { AnimationOnScroll } from 'react-animation-on-scroll';
 import Trade from '../../indices/01/1';
 import {ReactComponent as VVector} from '../../../images/v-vector.svg';
+import Partnets from '../../homepage/banner/partner';
 
 function AboutDesktopVersion()
 {
@@ -218,6 +219,8 @@ function AboutDesktopVersion()
             </div>
 
             <Trade />
+
+            <Partnets />
         </div>
     )
 }
