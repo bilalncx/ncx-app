@@ -8,6 +8,7 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 import Trade from '../../indices/01/1';
 import {ReactComponent as VVector} from '../../../images/v-vector.svg';
 import Partnets from '../../homepage/banner/partner';
+import NCXDeFi from '../../wallet/06/6';
 
 function AboutDesktopVersion()
 {
@@ -154,7 +155,7 @@ function AboutDesktopVersion()
                 <div className="container">
                     <h1 className="fg__rer">{t("trading_solutions")}</h1>
                     <div className="accord">
-                    <details>
+                        <details>
                             <summary>{t("portfolio_margin_account")}
                                 <span className='red'>
                                     <VVector />
@@ -218,7 +219,35 @@ function AboutDesktopVersion()
                 </div>
             </div>
 
+            <div className="vx__vrd brd__btm">
+                <div className="container">
+                    <h2>{t("data_and_analytics")}</h2>
+                    <div className="vf row">
+                        <div className="ml__huc">
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690277060/backtest_veasef.png" alt="ncx-cx"/>
+                            <h3>{t("backtest_strategy_optimization")}</h3>
+                            <p>{t("backtest_strategy_optimization_text")}</p>
+                        </div>
+                        <div className="ml__huc">
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690277061/range_t83asq.png" alt="ncx-cx"/>
+                            <h3>{t("wide_range_analytics")}</h3>
+                            <p>{t("wide_range_analytics_text")}</p>
+                        </div>
+                        <div className="ml__huc">
+                            <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690277061/tax-api_lsyhws.png" alt="ncx-cx"/>
+                            <h3>{t("tax_api_Transaction_history")}</h3>
+                            <p>{t("export_data_function_text")}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <Trade />
+
+            <div className="vx__vrd brd__btm"> 
+                <h2>{t("defi")}</h2>
+                <NCXDeFi />
+            </div>
 
             <Partnets />
         </div>
