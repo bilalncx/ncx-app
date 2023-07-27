@@ -66,7 +66,7 @@ function AboutSectionSection()
                             <p>{t("spot_trading_pairs")}</p>
                         </div>
                     </div>
-                    <div className="row team_pairs mobile">
+                    {/* <div className="row team_pairs mobile">
                         <div className="col">
                             <CountUp
                                 className="balance"
@@ -114,7 +114,7 @@ function AboutSectionSection()
                             />
                             <p>{t("spot_trading_pairs")}</p>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
                 <div className="about-txt">
                     <AnimationOnScroll animateIn="animate__fadeIn">

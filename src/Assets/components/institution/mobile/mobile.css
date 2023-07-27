@@ -50,8 +50,8 @@
     .about_mobile .row.team_pairs.mobile {padding: 30px 20px 14px 20px !important; margin: 0px !important;}
     .about_mobile p.otc__p {font-size: 15px !important; line-height: 22px !important;}
     .about_mobile .ncx-office {padding-top: 30px;}
-    .about_mobile .ncx-office .img12 {display: flex !important; flex-direction: column; gap: 20px;}
-    .about_mobile .ncx-office .img12 img{margin-bottom: 0px !important;}
+    .about_mobile .ncx-office .img12 {display: flex !important; flex-direction: column; gap: 20px; padding: 0px;}
+    .about_mobile .ncx-office .img12 img{margin-bottom: 0px !important; width: 100% !important;}
     .zx__zx2 .wallet__defi{padding: 0px !important;}
     .about_mobile .mbl__version .ind__cont {padding-bottom: 0px !important;}
 }

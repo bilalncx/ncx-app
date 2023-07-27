@@ -135,7 +135,7 @@ function InstitutionAboutUs()
                             </AnimationOnScroll>
                         </div>
                     </div>
-                    <div className="OTCsect row mobile one liquidity-row">
+                    {/* <div className="OTCsect row mobile one liquidity-row">
                         <div className="col">
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otc-linediv">
@@ -246,7 +246,7 @@ function InstitutionAboutUs()
                                 </div>
                             </AnimationOnScroll>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

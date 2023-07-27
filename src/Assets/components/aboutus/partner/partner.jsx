@@ -67,7 +67,7 @@ function NCXPartnerships()
                 </div>
 
 
-                <div className="partnerships row mobile">
+                {/* <div className="partnerships row mobile">
                     <div className="col partner-logo">
                         <Partnership1 />
                     </div>
@@ -106,7 +106,7 @@ function NCXPartnerships()
                     <div className="col partner-logo">
                         <Partnership10 />
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     )

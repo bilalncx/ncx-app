@@ -40,6 +40,17 @@ summary::-webkit-details-marker{
 .ncx-partnerships .partnerships.row.mobile{
     display: none;
 }
+@media screen and (max-width: 1200px){
+    .about_desktop .team_pairs p{width: 70% !important;}
+    .about_desktop .analytics_row.fsdcc3 .col{max-width: 360px !important;}
+    .about_desktop #derivative .trading_col, .about_desktop .data_analytics .trading_col{width: 100% !important;}
+    .about_desktop .market_maker_about .market-discount{padding: 50px 0px;}
+    .about_desktop .ncx-partnerships, .about_desktop .data_analytics{padding: 50px 0px !important;}
+    .about_desktop div#derivative{padding: 50px 0px !important; min-height: 900px !important;}
+    .about_desktop .about_defi{margin: 50px 0px !important;}
+    .about_desktop #defi_content {background-size: 100% !important; min-height: 750px;}
+}
+
 /* @media screen and (max-width: 800px){
     #ncx_about .crypto_card {
         display: block !important;

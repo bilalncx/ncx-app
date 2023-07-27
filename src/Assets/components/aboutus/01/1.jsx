@@ -31,7 +31,7 @@ function FirstVideo()
                 </div>
             </div>
 
-            <div id="mobileSlider">
+            {/* <div id="mobileSlider">
                 <video 
                     autoPlay={true}
                     muted={true}
@@ -47,7 +47,7 @@ function FirstVideo()
                         <p>{t("about_us_text")}</p>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 }
