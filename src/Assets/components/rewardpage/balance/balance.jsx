@@ -33,7 +33,7 @@ function MyBalance()
                             <CountUp
                                 className="ncx-balanceup"
                                 start={100}
-                                end={4000}
+                                end={2000}
                                 duration={3}
                                 useEasing={true}
                                 useGrouping={true}
