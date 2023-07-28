@@ -12,7 +12,7 @@ function FirstVideo()
             <div className="new__ambass">
                 <div className="container ml__vwxf">
                     <div className="insse">
-                        <h1>{t("ncx_market_maker_program_for_professional_volume_trading_equities")}</h1>
+                        <h1>{t("ncx_market_maker_program_for_professional_high_volume_trading_entities")}</h1>
                         <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                     </div>
                     <div className="fvsd__v">

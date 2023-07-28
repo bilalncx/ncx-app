@@ -23,7 +23,7 @@ function FirstVideo()
             <div className="new__ambass">
                 <div className="container ml__vwxf">
                     <div className="insse">
-                        <h1>{t("ncx_over_the_counter_otc_trade_in_large_blocks_with_competitive_rates")}</h1>
+                        <h1>{t("ncx_over_the_counter_otc_trade")}</h1>
                         <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                     </div>
                     <div className="fvsd__v">
@@ -53,7 +53,7 @@ function FirstVideo()
                 </video>
                 <div className="col card_txt">
                     <div className="inns-div">
-                        <h1>Large trades with NCX OTC Desk</h1>
+                        <h1>{t("large_trades_with_ncx_otc_desk")}</h1>
                         {/* <h1 className="border-bv">with NCX</h1>
                         <h1></h1> */}
                         {/* <div className="bbttn">
@@ -80,7 +80,7 @@ function FirstVideo()
                             <p>{t("why_choose_otc_text_2")}</p>
                             <p>{t("why_choose_otc_text_3")}</p>
                         </div>
-                        <div className="col">
+                        {/* <div className="col">
                             <div className="txx_grad">
                                 <div className="arrow__sff">
                                     <h3>Trade in large blocks with competitive rates</h3>
@@ -89,7 +89,7 @@ function FirstVideo()
                                 <h1>NCX Over-the-Counter (OTC)</h1>
                                 <p>OTC or over-the-counter trading is a method of trading crypto typically reserved for institutions and high-volume traders.  NCX OTC Desk executes large trades for big buyers who need significant liquidity.</p>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

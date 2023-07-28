@@ -106,7 +106,7 @@ function NCXAssetManagement()
                             </div>
                             <div className="trs">
                                 <h1>{t("corporations")}</h1>
-                                <p>Corporations allocating funds into digital assets and cryptocurrencies as part of their corporate treasury strategy. NCX Custody and Asset Management Service supports corporations to safeguard their digital assets on their balance sheet to hedge against inflation.</p>
+                                <p>{t("corporations_text_moblie")}</p>
                             </div>
                         </div>
                         <div className="col second">
@@ -121,12 +121,12 @@ function NCXAssetManagement()
                         </div>
                         <div className="col">
                             <div className="cho__log">
-                                <p>High Net-worth Investors</p>
+                                <p>{t("high_net_worth_investors")}</p>
                                 <SafeArrow />
                             </div>
                             <div className="trs">
-                                <h1>High Net-worth Investors</h1>
-                                <p>Custody and Asset Management service support investors to grant access to their sub-accounts to third-party professional trading or advisory team for treasury management.</p>
+                                <h1>{t("high_net_worth_investors")}</h1>
+                                <p>{t("high_net_worth_investors_text_mobile")}</p>
                             </div>
                         </div>
                     </div>

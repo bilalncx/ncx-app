@@ -129,7 +129,7 @@ function NCXhomepageOTCSection()
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
                                     <h2>{t("derivatives_market")}</h2>
-                                    <p>{t("derivatives_market_text")}</p>
+                                    <p>{t("ncx_offers_over_500_derivatives_trading_pairs")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC6 />
@@ -260,7 +260,7 @@ function NCXhomepageOTCSection()
                             <AnimationOnScroll animateIn="animate__fadeIn">
                                 <div className="otctxt">
                                     <h2>{t("derivatives_market")}</h2>
-                                    <p>{t("derivatives_market_text")}</p>
+                                    <p>{t("ncx_offers_over_500_derivatives_trading_pairs")}</p>
                                 </div>
                                 <div className="otc-image">
                                     <OTC6 />

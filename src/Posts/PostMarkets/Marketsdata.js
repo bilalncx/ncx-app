@@ -1,5 +1,74 @@
 const data = [
   {
+    id: 614,
+    title: 'Global Bond Markets Creak as Bank of Japan Eases YCC Policy',
+    category: 'Markets',
+    subCategory: ['Global Bond', 'Market', 'Japan'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- A shift in the last global anchor of low yields has sent a shiver down the spines of bond bulls worldwide.</p>
+    </div>,
+    authorName: 'Iris Ouyang, Nurin Sofia and Alice Atkins',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 28, 2023 - 1:37 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690544455/ncx-blog-967_ogjnah.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- A shift in the last global anchor of low yields has sent a shiver down the spines of bond bulls worldwide.</p>
+    	<p>The Bank of Japan took another step towards unwinding years of exceptionally loose policy on Friday, giving local benchmark yields more room to rise. That bolsters the argument that a wave of Japanese cash invested in everything from Treasuries to European bonds to Brazilian debt may soon flow out of global markets toward home.</p>	
+    	<p>Bond markets around the world have been under selling pressure in recent months as the US economy has remained resilient despite a string of Federal Reserve interest-rate hikes and as inflation in Europe has remained elevated.</p>	
+    	<p>Japan’s 10-year yield earlier jumped to a nine-year high of 0.57% following the decision, exceeding the BOJ’s earlier cap of 0.5% for the first time since March. Similar-maturity US Treasury yields climbed to within a whisker of an eight-month high.</p>
+      <p>An index of global government debt has dropped for five of the past seven days and is now some 3% down from this year’s high set in February.</p>
+      <p>“Once the BOJ steps foot out the door, they can control the pace of the exit but they can’t change direction,” said Tony Sycamore, a market analyst at IG Australia Pty.</p>
+      <p>German and UK bond declines were led by the long-end of their curves, lifting respective 30-year yields by six basis points. Shorter counterparts, which are more sensitive to changes in monetary policy, moved in the opposite direction in anticipation that an end to interest rate hikes may be drawing closer.</p>
+      <p>The BOJ maintained its target for 10-year yields at around 0% but said the 0.5% ceiling was a reference point, not a definite limit as it aimed to make its easing program more flexible. The yen whipsawed, falling more than 1% before reversing course and rallying to trade about the same amount higher — and then paring those gains.</p>
+      <p>The central bank’s move “will be interpreted by Treasury investors as a selling pressure because Japan’s government bond yields will likely move higher,” said Gordon Tsui, managing director and head of fixed income of Ping An of China Asset Management (Hong Kong). “Yen-based investors will become cautious on unhedged foreign currency exposure and need to manage down such mismatch. This will exert strengthening pressure on the yen.”</p>
+      <p>That would be bad news for bond bulls who are betting the Fed is near the end of its policy tightening and will soon have to cut interest rates to avoid a US recession. Jupiter Asset Management says 10-year Treasury yields may fall 150 basis points by the end of next year, while DoubleLine Capital LP’s Jeffrey Sherman argues that the Fed may slash rates by one percentage point.</p>
+      <p>Not everyone is convinced that the BOJ’s policy tweak will hurt global bonds that badly. For Shinji Kunibe, a lead portfolio manager at the global fixed-income group of Sumitomo Mitsui DS Asset Management, Friday’s change was “merely a technical one.”</p>
+      <p>“It has eliminated uncertainty over the BOJ’s policy outlook, so we can look at foreign bonds with a bias of buying,” he said. “The tweak is totally different from a rate hike and leaves Japan isolated” from the rest of the world where authorities are tightening policy.</p>
+      <p>Patrick Armstrong, chief investment officer at Plurimi Wealth, said he’s holding onto his short position in Japanese 10-year bonds on the basis that money will continue to flow to higher yielding markets.</p>
+      <p>The Bank of Japan will still have the loosest policy, he said. “Shorting something with such a low yield, and very little scope for lower rates in the near term is a very good risk adjusted return.”</p>
+      <p>--With assistance from Alice Atkins.</p>
+    </div>
+  },
+  {
+    id: 613,
+    title: 'European Stocks Track Longest Weekly Winning Streak Since April',
+    category: 'Markets',
+    subCategory: ['European', 'Stock', 'Streak'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- European stocks were lower on Friday, although still on track to complete their third straight weekly gain in the busiest period for earnings so far this season.</p>
+    </div>,
+    authorName: 'Sagarika Jaisinghani',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 28, 2023 - 1:00 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690543882/ncx-blog-966_m5cnd8.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- European stocks were lower on Friday, although still on track to complete their third straight weekly gain in the busiest period for earnings so far this season.</p>
+    	<p>The Stoxx 600 was down 0.3% by 9:44 a.m. in London, with global sentiment muted after the Bank of Japan’s move to loosen its signature yield curve control. The European benchmark remains 1% higher for the week, poised for its longest winning streak since mid-April.</p>	
+    	<p>Banking and personal care stocks outperformed today, while real estate and technology underperformed.</p>	
+    	<p>Among individual movers, Standard Chartered Plc climbed after it raised its forecasts for income growth for 2023 and added to its share buyback program as rising interest rates propelled earnings. British Airways-parent IAG SA rose as it reported better-than-expected profit on a surge in travel demand.</p>
+      <p>After a sharp rally earlier this year, European stocks are navigating a season of mixed earnings reports and an uncertain economic outlook. While results overall are set for a weaker showing, a lot of the disappointment appears to be priced in and the level of the negative price reaction skew is lower than the previous five quarters, Morgan Stanley strategists said. The Stoxx 600 has gained nearly 3% since the start of the season.</p>
+      <p>On the data front, a report showed France’s economy grew significantly faster than estimated and inflation eased, providing a positive surprise as rising interest rates stoke recession fears in the 20-nation euro area.</p>
+      <p>Still, market strategists said they remain cautious on the outlook for stocks in the second half.</p>
+      <p>“In an environment where inflation remains uncomfortably high, the labor market is strong and most companies maintain solid balance sheets, we believe that economic conditions will remain tight for longer and probabilities for a recession are high,” said Anthi Tsouvali, multi-asset strategist at State Street Global Markets.</p>
+      <p>“In such a backdrop, we would prefer defensives to cyclicals and regions that offer quality earnings,” Tsouvali said. “That’s why we prefer US to European equities and we expect the US to continue to outperform in the second half of the year.”</p>
+      <p>For more on equity markets:</p>
+      <ul>
+        <li>Shaky Earnings Outlook Can’t Stop Rally for Now: Taking Stock</li>
+        <li>M&A Watch Europe: Kering, GAM, Darktrace, Casino, Cellnex, BBVA</li>
+        <li>Stellantis Joins the Spinoff Bandwagon Amid IPO Lull: ECM Watch</li>
+        <li>US Stock Futures Unchanged; SIGA Technologies Gains</li>
+        <li>British Gas Owner Boosts Shareholder Returns: The London Rush</li>
+      </ul>
+      <p>--With assistance from Farah Elbahrawy and Michael Msika.</p>
+    </div>
+  },
+  {
     id: 612,
     title: 'Meta rallies as AI-powered ad sales drive monster forecast',
     category: 'Markets',

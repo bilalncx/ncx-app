@@ -78,7 +78,7 @@ function DataandAnalytics()
                             </div>
                             <div className="trs">
                                 <h1>{t("export_data_function")}</h1>
-                                <p>{t("")}Equipped with tax reporting tools, API to help keep track & export your activities to ensure you're fulfilling local tax reporting requirements.</p>
+                                <p>{t("tax_api_and_transaction_history")}</p>
                             </div>
                         </div>
                     </div>
