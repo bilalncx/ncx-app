@@ -48,7 +48,7 @@ function NCXTaskSection()
                     </div>
                     <div className="col">
                         <div className="tasktext">
-                            <h1>100<span>NCXT</span></h1>
+                            <h1>150<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
                                     <h3>{t("spot_trading_volume")} $5,000+</h3>
@@ -107,7 +107,7 @@ function NCXTaskSection()
                 <div className="tasksrow mobile">
                     <div className="col">
                         <div className="tasktext">
-                            <h1>100<span>NCXT</span></h1>
+                            <h1>150<span>NCXT</span></h1>
                             <div className="tasktext-div">
                                 <div className="col">
                                     <h3>{t("spot_trading_volume")} $5,000+</h3>
@@ -140,7 +140,7 @@ function NCXTaskSection()
                     <div className="tasksrow">
                         <div className="col">
                             <div className="tasktext">
-                                <h1>750<span>NCXT</span></h1>
+                                <h1>500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $10,000+</h3>
@@ -154,7 +154,7 @@ function NCXTaskSection()
                         </div>
                         <div className="col">
                             <div className="tasktext">
-                                <h1>1,000<span>NCXT</span></h1>
+                                <h1>750<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("derivatives_trading_volume")} $10,000+</h3>
@@ -168,7 +168,7 @@ function NCXTaskSection()
                         </div>
                         <div className="col">
                             <div className="tasktext">
-                                <h1>1,500<span>NCXT</span></h1>
+                                <h1>1,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $25,000+</h3>
@@ -198,7 +198,7 @@ function NCXTaskSection()
                     <div className="tasksrow mobile">
                         <div className="col">
                             <div className="tasktext">
-                                <h1>750<span>NCXT</span></h1>
+                                <h1>500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $10,000+</h3>
@@ -212,7 +212,7 @@ function NCXTaskSection()
                         </div>
                         <div className="col">
                             <div className="tasktext">
-                                <h1>1,000<span>NCXT</span></h1>
+                                <h1>750<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("derivatives_trading_volume")} $10,000+</h3>
@@ -228,7 +228,7 @@ function NCXTaskSection()
                     <div className="tasksrow mobile">
                         <div className="col">
                             <div className="tasktext">
-                                <h1>1,500<span>NCXT</span></h1>
+                                <h1>1,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $25,000+</h3>
@@ -258,7 +258,7 @@ function NCXTaskSection()
                     <div className="tasksrow">
                         <div className="col">
                             <div className="tasktext">
-                                <h1>1,500<span>NCXT</span></h1>
+                                <h1>2,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $50,000+</h3>
@@ -286,7 +286,7 @@ function NCXTaskSection()
                         </div>
                         <div className="col">
                             <div className="tasktext">
-                                <h1>2,500<span>NCXT</span></h1>
+                                <h1>3,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $100,000+</h3>
@@ -316,7 +316,7 @@ function NCXTaskSection()
                     <div className="tasksrow mobile">
                         <div className="col">
                             <div className="tasktext">
-                                <h1>1,500<span>NCXT</span></h1>
+                                <h1>2,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $50,000+</h3>
@@ -346,7 +346,7 @@ function NCXTaskSection()
                     <div className="tasksrow mobile">
                         <div className="col">
                             <div className="tasktext">
-                                <h1>2,500<span>NCXT</span></h1>
+                                <h1>3,000<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("spot_trading_volume")} $100,000+</h3>
@@ -390,7 +390,7 @@ function NCXTaskSection()
                         </div>
                         <div className="col">
                             <div className="tasktext">
-                                <h1>8,000<span>NCXT</span></h1>
+                                <h1>7,500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("derivatives_trading_volume")} $250,000+</h3>
@@ -448,7 +448,7 @@ function NCXTaskSection()
                         </div>
                         <div className="col">
                             <div className="tasktext">
-                                <h1>8,000<span>NCXT</span></h1>
+                                <h1>7,500<span>NCXT</span></h1>
                                 <div className="tasktext-div">
                                     <div className="col">
                                         <h3>{t("derivatives_trading_volume")} $250,000+</h3>

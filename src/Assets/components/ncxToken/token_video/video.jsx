@@ -36,7 +36,7 @@ function Home6thVideoSection(){
                             </div>
                         </div>
                         <div className="taskdiv two">
-                            <h3>1,000 <span>NCXT</span></h3>
+                            <h3>750 <span>NCXT</span></h3>
                             <div className="taskdiv11">
                                 <div className="text212">
                                     <h4>{t("reach_$10000_in_derivatives_trading_volume")}</h4>
