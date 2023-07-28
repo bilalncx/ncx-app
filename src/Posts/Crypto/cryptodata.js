@@ -1,5 +1,196 @@
 const data = [
   {
+    id: 626,
+    title: 'Will DOGE outplay SHIB, PEPE, and FLOKI on this front?',
+    category: 'Crypto',
+    subCategory: ['Doge', 'SHIB', 'PEPE'],
+    description: <div className="blog-desc">
+      <p>Dogecoin observes a rally as hype around X and Twitter begins to rise. Other memecoins such as SHIBA, FLOKI and PEPE fail to see the same growth.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 27, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690473227/ncx-blog-957_xlctxu.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dogecoin observes a rally as hype around X and Twitter begins to rise. Other memecoins such as SHIBA, FLOKI and PEPE fail to see the same growth.</p>
+    	<ul>
+        <li>Dogecoin’s price rallies materially. Elon Musk plays a role.</li>
+        <li>Other memecoins fail to see similar growth, traders turn pessimistic.</li>
+      </ul>
+      <p>Despite the market’s instability and regulatory scrutiny faced by altcoins, Dogecoin [DOGE] was able to maintain a rally for the past few weeks. Traders and investors of this meme-based cryptocurrency have persisted in accumulating significant amounts of DOGE despite the unstable market conditions.</p>	
+    	<h3>Who let the DOGE out?</h3>
+      <p>According to Santiment’s data, DOGE’s price appreciated by 25% in the past two weeks. There was a surge in the number of traders showing interest in DOGE, which resulted in this spike in price.</p>	
+    	<p>Due to this recent rally, several DOGE holders have started to get profitable as showcased by the increasing Market Value to Realized Value (MVRV) ratio.</p>
+      <h3>He Musk be stopped</h3>
+      <p>One of the reasons for the surge in interest in DOGE could be attributed to Elon Musk’s recent behavior with regard to X.com, formerly known as Twitter. The rebranding and renaming of the website led many speculators to believe that DOGE may serve a larger purpose for the website in the future.</p>
+      <p>Elon Musk did little to curb the speculation around DOGE and X. Instead, he further implied that the memecoin will have a pivotal role in the functioning of the website.</p>
+      <p>This was showcased by Musk’s recent location on his profile, which features both the letters, “X” and “D”. The latter could be presumed to be stand symbolizing DOGE. Furthermore, Elon’s behavior can lead to more market speculation and may impact DOGE’s price in the future.</p>
+      <h3>What’s cooking on the social front?</h3>
+      <p>Due to the aforementioned reasons, activity on DOGE’s social front shot up significantly. According to LunarCrush’s data, the number of social mentions for DOGE grew by 810% over the last week. Similarly, the number of social engagements for DOGE surged by 819% during the same period.</p>
+      <p>Moreover, the weighted sentiment around DOGE also started to move up. This indicated that the number of negative comments made against DOGE on social networks had started to decline.</p>
+      <p>At press time, Dogecoin was trading at $0.07856. After testing the $0.063 support level on 13 July, DOGE’s price showcased multiple high highs and high lows, indicating a bullish trend. However, the price observed a correction after testing the $0.083 resistance levels. This decline in price, however, wasn’t significant enough to establish a trend.</p>
+      <p>Additionally, the Relative Strength Index (RSI) also suggested a positive outlook for DOGE. At press time, it was at 58.65, implying that the momentum for DOGE was with the buyers. The Chaikin Money Flow (CMF) was also relatively high, suggesting that money flow favored the bulls at the time of writing.</p>
+      <h3>Memecoin see, memecoin do?</h3>
+      <p>In the past, DOGE’s rally has preceded the surge in the price of other memecoins, such as SHIBA and FLOKI. Due to the recent spike in DOGE prices, many have started to speculate the possibility of an uptick in interest in the memecoin market.</p>
+      <p>Over the last few weeks, the price of SHIB has soared. The price of SHIB went from $0.000007 to $0.000008. However, the same couldn’t be said about the other memecoins, especially, FLOKI and PEPE. Both of the tokens witnesses a significant depreciation in price during this period.</p>
+      <p>The dominance of Shiba Inu in this sector could be attributed to its growing community and its emerging metaverse. Shiba Inu’s constant focus on developing its ecosystem in both the DeFi and NFT sector can play an important role in providing the meme coin an edge against its competitors.</p>
+      <h3>Low cloud, High doubt</h3>
+      <p>However, on a macro level, the price and activity around the memecoins depend largely on each memecoin’s performance on the social front and the hype surrounding each token.</p>
+      <p>In this sector as well, SHIBA took the lead and outperformed both FLOKI and PEPE by a huge margin. According to Santiment’s data, FLOKI and PEPE were not able to have the same presence on the social front. Additionally, these coins exhibited lesser social dominance than SHIBA.</p>
+      <p>Due to this disparity, there was a massive difference between the market caps of each of the memecoins. DOGE topped the list, boasting a market cap of $11.05 billion.</p>
+      <p>Followed by SHIBA which had a market cap of $4.61 billion. PEPE and FLOKI failed to cross the billion-dollar market cap mark and currently had a market cap of $488 million and $207 million respectively.</p>
+      <h3>Traders stay bearish</h3>
+      <p>Despite the recent interest showcased by traders in DOGE and other memecoins, traders were extremely skeptical about the current surge in the price of memecoins.</p>
+      <p>Coinglass’ data indicated that the majority of the trades that were being made against DOGE, SHIB, FLOKI, and PEPE were shorts.</p>
+    </div>
+  },
+  {
+    id: 625,
+    title: 'MATIC falls to key 50% Fib support level – Is a recovery likely?',
+    category: 'Crypto',
+    subCategory: ['Matic', 'Fib', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Polygon [MATIC] failed in its attempt to flip its price action bullish on the higher timeframes. A 21% drop from the $0.8923 price level took MATIC to the 50% Fib level. The extension of the retracement saw MATIC erase its gains from the price pump on 13 July.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 27, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690472647/ncx-blog-956_rlptvy.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <p>MATIC bulls could find buying opportunities hard to come by, except…</p>
+      <ul>
+        <li>Price retracement saw MATIC drop to a critical price level.</li>
+        <li>Short-term gains could be in the works for bulls, due to bulls’ advantage on long/short ratio.</li>
+      </ul>
+    	<p>Polygon [MATIC] failed in its attempt to flip its price action bullish on the higher timeframes. A 21% drop from the $0.8923 price level took MATIC to the 50% Fib level. The extension of the retracement saw MATIC erase its gains from the price pump on 13 July.</p>
+    	<p>With Bitcoin [BTC] extending its range-bound formation between $29.2k to $29.5k, MATIC bulls could find buying opportunities hard to come by, unless the current level is defended successfully.</p>	
+    	<h3>Can bulls rebound from the 50% Fib level?</h3>
+      <p>Exploring MATIC’s price action considering the 12-hour timeframe revealed key price levels. The retracement from the $0.8923 level formed a higher low at the 23.6% Fib level ($0.8024) leading to a further price drop to the 50% Fib level ($0.7017).</p>	
+    	<p>A look southward showed that the 50% Fib level corresponded to a critical support level for bulls. Buyers rallied strongly from the level on 13 July with a 25% price pump. A retest of the level could produce similar results with the retracement easing at the 50% Fib level, as of press time.</p>
+      <p>While the Relative Strength Index (RSI) remained under the neutral 50, it registered a slight uptick to signal building demand. Also, the On Balance Volume (OBV) remained on an uptrend, despite a slight dip.</p>
+      <p>A strong bounce from the 50% Fib level would see bulls target take-profit levels at $0.8024 and $0.8923. However, if bulls can’t defend the level, sellers can break the higher low and target the $0.6568 (61.8% Fib) and $0.5927 (76.8% Fib) price levels.</p>
+      <h3>Bulls capture a large portion of open contracts</h3>
+      <p>A look at the exchange long/short data from Coinglass on the four-hour timeframe revealed a 56.58% swing in favor of buyers. Such a large share of the open contracts for longs is likely to translate into short-term gains for MATIC. Thus, buyers can ride on the bullish sentiment in the futures market to register a strong rebound from the $0.7017 price level.</p>
+     </div>
+  },
+  {
+    id: 624,
+    title: 'Has USDT managed to restore investor confidence? Data suggests…',
+    category: 'Crypto',
+    subCategory: ['USDT', 'Investor', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>USDT extended its dominance in the stablecoin market. But as Binance faced BUSD’s extinction, it agreed to offer another option.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 27, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690472079/ncx-blog-955_qqz63g.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>USDT extended its dominance in the stablecoin market. But as Binance faced BUSD’s extinction, it agreed to offer another option.</p>
+    	<ul>
+        <li>USDT’s market cap reached a new ATH, leaving TUSD and USDC behind.</li>
+        <li>Holders confirmed preference by holding USDT, but a new stablecoin is in town.</li>
+      </ul>
+      <p>Amid regulatory scrutiny and uncertainty surrounding stablecoins, Tether [USDT] has recently achieved a new milestone as its market cap reached an All-Time High (ATH). According to IntoTheBlock, USDT’s market cap reached $83.76 billion.</p>	
+    	<p>This development comes after the world’s largest stablecoin slightly fell from its previous high hit on 1 June.</p>
+      <h3>As USDT reigns, others fall apart</h3>
+      <p>The milestone signals renewed confidence in USDT over other stablecoins increased. This signals a spike in circulation and use of the coin. However, it has not been an easy ride for USDT, especially since TrueUSD [TUSD] came into the spotlight.</p>
+      <p>Holders’ appeal for stablecoins bring a sense of confidence that they can redeem their assets reliably. Furthermore, this gives them a lower chance of losing their value compared to other cryptocurrencies.</p>
+      <p>Between January and the time of writing, TUSD’s market cap went from $943 million to $2.8 billion. And this soaring market cap could be linked to lingering regulatory concerns market participants have around Circle [USDC]. It also links to the increasing phasing-out stage of Binance USD [BUSD].</p>
+      <p>While TUSD continues to make its mark known, USDC has lost hold of its market cap position. One reason for this is the way Ripple [XRP] surpassed it since the project partially won its SEC case.</p>
+      <p>In March, USDC recorded as much as $10 billion in outflows after Circle owned up to being affected by the chaos that hit the traditional finance industry.</p>
+      <h3>HODLing season as a new candidate appears</h3>	
+    	<p>With reference to its volume, on-chain data showed that USDT pumped to $25 billion on 24 July. However, the volume had decreased to $18.3 billion at press time.</p>
+      <p>As a yardstick used to measure an asset’s health and liquidity, a stablecoin’s volume shows the rate of market strength. Therefore, USDT’s volume reflects a relative improvement in liquidity gained.</p>
+      <p>As per the 7-day Market Value to Realized Value (MVRV) ratio, Santiment showed that USDT had fallen into the negative ratio. The MVRV ratio divides the market capitalization by the realized cap.</p>
+      <p>The more the ratio increases, the more participants are willing to sell for potential profits. Thus, at -4.338%, the USDT’s MVRV ratio means that the accumulation of the coin has resulted in HODLing rather than exchanging for other assets.</p>
+      <p>Meanwhile, Binance, who was partially in charge of BUSD has revealed that it would list a First Digital [FDUSD] stablecoin.</p>
+      <p>Developed by Hong Kong-based technology-driven firm, Binance noted that the First Digital stablecoin would operate like others with a 1:1 USD peg.</p>
+    </div>
+  },
+  {
+    id: 623,
+    title: 'Worldcoin: One day after launch, WLD FUD thrives',
+    category: 'Crypto',
+    subCategory: ['Worldcoin', 'Launch', 'FUD'],
+    description: <div className="blog-desc">
+      <p>The excitement around the project has been toned down. And while some issues were raised, there could still be potential for…</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690471689/ncx-blog-954_wqkgop.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The excitement around the project has been toned down. And while some issues were raised, there could still be potential for…</p>
+    	<ul>
+        <li>After a brief decrease, WLD gained another 22.35% in the last 24 hours.</li>
+        <li>Ethereum’s co-founder discussed some pros and cons as positive sentiment fell.</li>
+      </ul>
+      <p>The much-anticipated launch of Worldcoin [WLD] was met with great fanfare. However, its initial hours of entering the market were not without controversy. As a large part of the market expected, the WLD token, backed by a number of Venture Capitalists (VCs), increased as high as 85% within hours of the introduction.</p>	
+    	<p>However, the same price fell by 22.28% momentarily before its latest race back to $2.48 at press time. But that’s not all that has happened with the project.</p>
+      <h3>FUD in the building</h3>	
+    	<p>Just one day after its launch, FUD (Fear, Uncertainty, and Doubt) seemed to surround the project. This was because potential investors raised questions and some on-chain analysts dived deep into possible cons.</p>
+      <p>As a result of the spreading discussions and comments about WLD, Santiment tweeted that WLD was one of the top subjects being analyzed on several social platforms. However, the on-chain analytic platform also noted that most of the conversions tilted towards negativity.</p>
+      <p>Previously, Ethereum’s [ETH] co-founder Vitalik Buterin had made his opinion about the project known to the public on 24 July. Dissecting Worldcoin’s Proof of Humanity idea, Buterin noted that the privacy concerns and ethical issues raised in some corners could be valid.</p>
+      <p>At the same time, he opined that the proof of personhood developed by the project was important. He gave reasons for this opinion explaining that,</p>
+      <p><strong>Proof of personhood is valuable because it solves a lot of anti-spam and anti-concentration-of-power problems that many people have, in a way that avoids dependence on centralized authorities and reveals the minimal information possible</strong></p>
+      <p>On another end, pseudonymous on-chain sleuth ZachXBT raised some issues about the Worldcoin project. According to him, the project’s verification method could lead to the emergence of black-market accounts.</p>
+      <h3>A quick change in the narrative</h3>
+      <p>ZachXBT also accused Wolrdcoin of exploiting people from developing countries. But he also mentioned that the project’s future depends on the general narrative it would get around the crypto community.</p>
+      <p>Meanwhile, the weighted sentiment around WLD has been declining. At press time, the metric was down to 4.588. Intuitively, this metric is a social-volume weighted balance of the perception of an asset.</p>
+      <p>When it spikes, it implies that a vast majority of messages around an asset are positive. But when it falls, it means the average comment about an asset is negative, like in WLD’s case. This reinforced Santiment’s aforementioned opinion that FUD existed.</p>
+      <p>On the social volume front, the on-chain analytic platform showed that it had decreased. This means that the search for the WLD token has reduced compared to the period of launch.</p>
+    </div>
+  },
+  {
+    id: 622,
+    title: 'Bitcoin whales in a predicament as prices hover near $30k: To buy or to sell?',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Prices', 'Whales'],
+    description: <div className="blog-desc">
+      <p>As BTC struggles to cross over the $30,000 price mark, some whales have intensified accumulation, while others have reduced their risk exposure.</p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690470911/ncx-blog-953_xoc8ix.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>As BTC struggles to cross over the $30,000 price mark, some whales have intensified accumulation, while others have reduced their risk exposure.</p>
+      <ul>
+        <li>BTC whales have traded divergently as price oscillates within $28,000 to $32,000 ranges.</li>
+        <li>With a surge in BTC profits in the past few months, whales have increasingly sent their holdings to exchanges.</li>
+      </ul>
+      <p>For the past four months, Bitcoin [BTC] has been consistently trading within the range of $28,000 to $32,000. As the king coin lingers within a narrow price range, various cohorts of BTC whales have been making distinct trading moves, Glassnode found in its new report.</p>	
+	    <h3>Some sowed while others slept</h3>
+      <p>Glassnode found that in the last month, the different sub-groups of BTC whales exhibited varied behaviors as the coin’s price faced resistance at the $30,000 psychological price mark.</p>
+      <p>Whales that held between 1,000 to 10,000 BTC adopted a bullish approach as they increased their balance by about 33,800 BTC. Likewise, whales with over 100,000 BTC increased their holdings by 6,600 BTC.</p>
+      <p>However, holders of 10,000 to 100,000 BTC adopted a bearish approach, reducing their balance by 49,000 BTC. Due to this, the period under review was marked by a “net reduction of just -8.7k BTC,” Glassnode found.</p>
+      <p>However, while aggregate balance change remained relatively flat, the report noted that whale entities might be moving funds amongst themselves on crypto exchanges as “there are significant changes taking place both internally and via exchange flows.”</p>
+      <p>To test its theory, Glassnode considered BTC’s Whale Reshuffling metric on a 30-day moving average for two whale subdivisions: those with over 10,000 BTC and those with 1,000 to 10,000 BTC.</p>
+      <p>It found periods of strong inverse correlations of -0.55 or less, indicating instances of balance shifts between the two groups. These periods coincided with the times when BTC’s price approached the $30,000 range.</p>
+      <p>This led Glassnode to conclude:</p>	
+      <p><strong>“This suggests that whales have indeed exhibited a relatively neutral balance change of late, with much of their recent activity being reshuffling via exchanges.”</strong></p>
+      <p>With BTC’s MVRV ratio still in the profitable region, all cohorts of BTC whales have sent varying amounts of their holdings to crypto exchanges for onward sales. Glassnode found that the coin’s recent rally caused whale inflow volumes to surge “quite significantly” to over 16,300 BTC daily.</p>
+      <p><strong>“This is a whale dominance of 41% of all exchange inflows, which is comparable to both the LUNA crash (39%) and the failure of FTX (33%).”</strong></p>
+	    <p>Over the past five years, whale-to-exchange net flows have generally remained around ±5,000 BTC daily. However, in June and July of this year, there has been a sustained increase in whale inflows to exchanges, with a bias towards inflows ranging from 4,000 to 6,500 BTC per day.</p>
+    </div>
+  },
+  {
     id: 621,
     title: 'Bitcoin reclaims US$30,000, Ether gains, Cardano leads winners as top 10 crypto rise',
     category: 'Crypto',

@@ -387,8 +387,8 @@ function HomeNCXToken()
                         <p className="q1">{t("ncx_token_price_in_USDT")}</p>
                         <p className="q1">{t("lockup_period")}</p>
                         <p className="q1">{t("after_lockup_period_ends")}</p>
-                        <p className="q1">Receive Trading Fee Rebates during the Vesting Period</p>
-                        <p className="q1">Receive Staking Rewards during the Vesting Period</p>
+                        <p className="q1">{t("receive_trading_fee_rebates_during_the_vesting_period")}</p>
+                        <p className="q1">{t("receive_staking_rewards_during_the_vesting_period")}</p>
                     </div>
                     <div className="tokencolum-stake">
                         <div className="colstake">
