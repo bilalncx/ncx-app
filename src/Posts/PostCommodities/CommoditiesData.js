@@ -1,5 +1,134 @@
 const data = [
   {
+    id: 590,
+    title: 'Oil Rallies to $80 as US Economic Growth Improves Demand Outlook',
+    category: 'Commodities',
+    subCategory: ['Oil', 'US Economic', 'Growth'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil rose to the highest since April as signs of economic strength in the US improved the outlook for demand, outweighing concerns about a price correction based on technical factors.</p>
+    </div>,
+    authorName: 'Julia Fanzeres and Alex Longley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 27, 2023 - 11:31 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690521883/ncx-blog-963_vunyik.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil rose to the highest since April as signs of economic strength in the US improved the outlook for demand, outweighing concerns about a price correction based on technical factors.</p>
+    	<p>West Texas Intermediate settled above $80 a barrel as US economic growth exceeded expectations and speculation mounted that the Federal Reserve is nearing the end of its monetary tightening cycle. But crude is trading in overbought territory on its relative strength index for a third day, raising the threat of a pullback.</p>	
+    	<p>“Crude extending the bullish rally, led by ‘risk back on’ sentiment in the equity markets, is keeping the buyers present in the crude space,” said Dennis Kissler, senior vice president for trading at BOK Financial Securities. Yet “the market has gone up too far, too fast with speculative buying, and that is creating the overbought condition, so we should see some erratic corrections soon.”</p>	
+    	<p>Oil has broadly rallied since late June, aided by supply cuts from the Organization of Petroleum Exporting Countries and its allies, and signs that Russian seaborne crude exports are falling. But higher fuel prices are adding renewed inflationary pressure in the global economy, with gasoline surging around the world.</p>
+      <p>Saudi Arabia is expected to extend its 1 million barrel-a-day oil supply cut into September as it seeks to foster a tentative recovery in prices. With Russia also curbing output, banks including Standard Chartered Plc anticipate a deepening shortfall in the coming months.</p>
+    </div>
+  },
+  {
+    id: 589,
+    title: 'Gold hits 2-week low as upbeat US data lifts dollar, yields',
+    category: 'Commodities',
+    subCategory: ['Gold', 'US', 'Yields'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices slipped more than 1% to a two-week low on Thursday, weighed down by a stronger dollar and an uptick in bond yields after better-than-expected U.S. economic data.</p>
+    </div>,
+    authorName: 'Brijesh Patel',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 27, 2023 - 8:01 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690521630/ncx-blog-962_tgrsfm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Brijesh Patel</p>
+    	<p>(Reuters) - Gold prices slipped more than 1% to a two-week low on Thursday, weighed down by a stronger dollar and an uptick in bond yields after better-than-expected U.S. economic data.</p>	
+    	<p>Spot gold dropped 1.2% to $1,948.69 per ounce by 01:53 p.m. EDT (1753 GMT), its lowest since July 12. U.S. gold futures settled 1.2% lower to $1,945.70.</p>	
+    	<p>"There was a one and two punch on gold with a better-than-expected initial claims numbers showing that the strength of the U.S. labor market is resilient," said Phillip Streible, chief market strategist at Blue Line Futures in Chicago.</p>
+      <p>"Then also that surprise upside expectation in GDP data as well shows you that if there is any recession, it's just not no one seeing it right now. So it paves the way for higher for longer on interest rates."</p>
+      <p>Data showed the U.S. economy grew faster than expected in the second quarter as labor market resilience underpinned consumer spending.</p>
+      <p>A separate report from the Labor Department on Thursday showing initial claims for state unemployment benefits fell 7,000 to a seasonally adjusted 221,000 for the week ended July 22.</p>
+      <p>Following the data, the dollar index jumped 0.8% against its rivals, making gold more expensive for other currency holders. The benchmark U.S. 10-year yield climbed to a two-week high..</p>
+      <p>On Wednesday, the U.S. Federal Reserve raised interest rates by 25 basis points as expected. Markets priced in 57% odds of the Fed holding rates for the rest of the year, according to the CME FedWatch tool.</p>
+      <p>Meanwhile, the European Central Bank (ECB) raised interest rates for the ninth consecutive time on Thursday and kept the door open to further tightening.</p>
+      <p>Rising interest rates increase the opportunity cost of holding non-yielding bullion.</p>
+      <p>Spot silver was down 2.8% to $24.20 per ounce, platinum fell 2.7% to $935.26 while palladium dropped 1.4% to $1,240.99.</p>
+      <p>(Reporting by Brijesh Patel in Bengaluru; editing by Jonathan Oatis and Krishna Chandra Eluri)</p>
+    </div>
+  },
+  {
+    id: 588,
+    title: 'Rusoro Mining Ltd.s (CVE:RML) 20% gain last week benefited both retail investors who own 47% as well as insiders',
+    category: 'Commodities',
+    subCategory: ['Rusoro', 'Mining', 'Investors'],
+    description: <div className="blog-desc">
+      <p>A look at the shareholders of Rusoro Mining Ltd. (CVE:RML) can tell us which group is most powerful. And the group that holds the biggest piece of the pie are retail investors with 47% ownership.</p>
+    </div>,
+    authorName: 'Simply Wall St',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 - 5:01 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690521272/ncx-blog-961_i9mzxk.jpg',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Key Insights</h3>
+      <ul>
+        <li>The considerable ownership by retail investors in Rusoro Mining indicates that they collectively have a greater say in management and business strategy</li>
+        <li>A total of 5 investors have a majority stake in the company with 51% ownership</li>
+      </ul>
+    	<p>A look at the shareholders of Rusoro Mining Ltd. (CVE:RML) can tell us which group is most powerful. And the group that holds the biggest piece of the pie are retail investors with 47% ownership. In other words, the group stands to gain the most (or lose the most) from their investment into the company.</p>
+      <p>While retail investors were the group that benefitted the most from last week’s CA$34m market cap gain, insiders too had a 28% share in those profits.</p>
+      <p>Let's delve deeper into each type of owner of Rusoro Mining, beginning with the chart below.</p>
+      <h3>What Does The Lack Of Institutional Ownership Tell Us About Rusoro Mining?</h3>
+      <p>Small companies that are not very actively traded often lack institutional investors, but it's less common to see large companies without them.</p>
+    	<p>There could be various reasons why no institutions own shares in a company. Typically, small, newly listed companies don't attract much attention from fund managers, because it would not be possible for large fund managers to build a meaningful position in the company. On the other hand, it's always possible that professional investors are avoiding a company because they don't think it's the best place for their money. Rusoro Mining might not have the sort of past performance institutions are looking for, or perhaps they simply have not studied the business closely.</p>
+      <p>Hedge funds don't have many shares in Rusoro Mining. Gold Fields Limited is currently the largest shareholder, with 24% of shares outstanding. In comparison, the second and third largest shareholders hold about 14% and 5.9% of the stock. Note that the second and third-largest shareholders are also Chief Executive Officer and Member of the Board of Directors, respectively, meaning that the company's top shareholders are insiders.</p>
+      <p>Our research also brought to light the fact that roughly 51% of the company is controlled by the top 5 shareholders suggesting that these owners wield significant influence on the business.</p>
+      <p>Researching institutional ownership is a good way to gauge and filter a stock's expected performance. The same can be achieved by studying analyst sentiments. As far as we can tell there isn't analyst coverage of the company, so it is probably flying under the radar.</p>
+      <h3>Insider Ownership Of Rusoro Mining</h3>	
+    	<p>While the precise definition of an insider can be subjective, almost everyone considers board members to be insiders. Company management run the business, but the CEO will answer to the board, even if he or she is a member of it.</p>
+      <p>Most consider insider ownership a positive because it can indicate the board is well aligned with other shareholders. However, on some occasions too much power is concentrated within this group.</p>
+      <p>Our most recent data indicates that insiders own a reasonable proportion of Rusoro Mining Ltd.. Insiders own CA$57m worth of shares in the CA$203m company. We would say this shows alignment with shareholders, but it is worth noting that the company is still quite small; some insiders may have founded the business.</p>
+      <h3>General Public Ownership</h3>	
+    	<p>The general public-- including retail investors -- own 47% stake in the company, and hence can't easily be ignored. While this group can't necessarily call the shots, it can certainly have a real influence on how the company is run.</p>
+      <h3>Public Company Ownership</h3>
+      <p>It appears to us that public companies own 24% of Rusoro Mining. This may be a strategic interest and the two companies may have related business interests. It could be that they have de-merged. This holding is probably worth investigating further.</p>
+      <h3>Next Steps:</h3>
+      <p>It's always worth thinking about the different groups who own shares in a company. But to understand Rusoro Mining better, we need to consider many other factors. Like risks, for instance. Every company has them, and we've spotted 5 warning signs for Rusoro Mining (of which 4 are significant!) you should know about.</p>
+      <p>Of course, you might find a fantastic investment by looking elsewhere. So take a peek at this free list of interesting companies.</p>
+      <p>NB: Figures in this article are calculated using data from the last twelve months, which refer to the 12-month period ending on the last date of the month the financial statement is dated. This may not be consistent with full year annual report figures.</p>
+    </div>
+  },
+  {
+    id: 587,
+    title: 'Southern Copper Continues to Head North and So Do Our Price Targets',
+    category: 'Commodities',
+    subCategory: ['Southern', 'Copper', 'Price'],
+    description: <div className="blog-desc">
+      <p>Copper prices are still well below their February highs but SCCO just made a new 52-week high. What gives?</p>
+    </div>,
+    authorName: 'TheStreet.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 - 4:41 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690520500/ncx-blog-960_ajq3gv.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Copper prices are still well below their February highs but SCCO just made a new 52-week high. What gives?</p>
+    	<p>Stocks quotes in this article: SCCO</p>	
+    	<p>In a Real Money column on March 1, I recommended the long side of Southern Copper Corp (SCCO)  and then updated the charts on April 11.</p>
+      <p>SCCO shares made a new 52-week high on Tuesday so let's check out the charts again.</p>
+      <p>In the updated daily bar of the continuous futures contract of copper, below, I can see a constructive-looking picture. Prices have just moved above the 50-day and 200-day moving average lines. The slope of the 50-day has yet to turn positive.</p>
+      <p>Copper prices are still well below their February highs but SCCO just made a new 52-week high. What gives? Mining companies tend to lead the movement in the underlying metal. Why? Simple -- If you believe copper (or gold or silver or other metals) is going higher in price but you are not sure when you would buy the unleveraged mining company before buying a leveraged futures contract. With a futures position the timing is key. With the equity position we just remain patient.</p>
+      <p>In the daily bar chart of SCCO, below, I can see that the share price made a new high for the move up. SCCO trades above the rising 50-day moving average line and above the rising 200-day line.</p>
+      <p>Trading volume has been more active from November and the On-Balance-Volume (OBV) line has been in a rising trend for the past year and tells me that buyers of SCCO have been more aggressive than sellers. The trend-following Moving Average Convergence Divergence (MACD) oscillator is in a bullish alignment above the zero line.</p>
+      <p>In the weekly Japanese candlestick chart of SCCO, below, I can see that the shares have made a large upper level base pattern covering the past two years plus. Prices trade above the rising 40-week moving average line.</p>
+      <p>The weekly OBV line drifted lower from early 2021 but it looks like it is showing renewed strength. The MACD oscillator is above the zero line and turning upwards to a fresh outright buy signal.</p>
+	    <p>In this daily Point and Figure chart of SCCO, below, I can see the upside breakout and a potential price target in the $98 area.</p>
+      <p>In this weekly Point and Figure chart of SCCO, below, it projects a price target in the $115 area.</p>
+      <p><strong>Bottom-line strategy:</strong> Traders should continue to hold earlier purchases. Raise stops to $74. The $98 area is my new price target with $115 a longer-term objective.</p>
+    </div>
+  },
+  {
     id: 586,
     title: 'Oil prices rise as tight supply counters expected rate hikes',
     category: 'Commodities',

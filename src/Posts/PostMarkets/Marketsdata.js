@@ -1,5 +1,79 @@
 const data = [
   {
+    id: 612,
+    title: 'Meta rallies as AI-powered ad sales drive monster forecast',
+    category: 'Markets',
+    subCategory: ['Meta', 'AI', 'monster'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.</p>
+    </div>,
+    authorName: 'Aditya Soni',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 27, 2023 - 12:58 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690519927/ncx-blog-959_z7bdp8.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Aditya Soni</p>
+    	<p>(Reuters) -Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.</p>	
+    	<p>The Facebook owner was set to add about $60 billion to its market value after strong second-quarter earnings encouraged 18 analysts to lift their target price on a stock that has already more than doubled this year.</p>	
+    	<p>"Meta (is) in a class-of-their-own in digital ads," said Mark Shmulik of Bernstein, adding that its "monster guidance blew the doors off with an expected growth rate of +15-24% — numbers investors were hoping to maybe see as early as Q4."</p>
+      <p>While Meta's 12% rise in second-quarter ad revenue surpassed the 3% growth at Alphabet's Google, earnings reports from both the digital ad behemoths reinforced a recovery in the sector.</p>
+      <p>Meta and Google are on track to add around $160 billion to their combined market capitalization - a figure that is more than the individual market values of about 90% of the companies in the S&P 500 index.</p>
+      <p>Smaller rival Snap, however, disappointed on ad sales as advertisers stick to tried and true platforms.</p>
+      <p>Meta's results were also supported by improving monetization of Reels, a short-form video format that is the company's answer to TikTok. CEO Mark Zuckerberg said Reels now has an annual revenue run rate exceeding $10 billion, up from $3 billion last fall.</p>
+      <p>"Advertisers are gaining confidence in Meta's enhanced and AI-powered campaign planning and measurement capabilities, and spending more. Unsurprisingly, Reels monetization keeps improving," said Morningstar analyst Ali Mogharabi.</p>
+      <p>The positive analyst view reinforces how a focus on cost cuts and higher engagement through AI has helped Meta turn into a Wall Street darling this year after being derided for much of 2022 for its hefty spending on the ambitious metaverse.</p>
+      <p>Analysts have a median price target of $355.50 on Meta, which represents an upside of 19% to its stock's last close. The company has 12-month forward price-to-earnings ratio of 21.28, higher than Alphabet's 20.47 and the industry median of 15.18.</p>
+      <p>The accelerating revenue growth at Meta helped allay some concerns about an expected jump in expenses in 2024 due to legal fees and increased spending on infrastructure considered key to the tech sector's feverish AI race.</p>
+      <p>"There is an element of uncertainty in CapEx spending growth for 2024. That said, we do also see a series of monetization opportunities that can be sprung out of these innovations," said Mark Mahaney of Evercore ISI.</p>
+      <p>(Reporting by Aditya Soni in Bengaluru; Editing by Saumyadeb Chakrabarty)</p>
+    </div>
+  },
+  {
+    id: 611,
+    title: 'J.P. Morgan Recommends These 2 ‘Strong Buy’ Stocks — Including One With 90% Upside Potential',
+    category: 'Markets',
+    subCategory: ['JP', 'Morgan', 'wall Street'],
+    description: <div className="blog-desc">
+      <p>Despite the market’s big comeback in 2023, there is still one issue keeping positive sentiment in check; the prospect of a looming recession remains real. Nevertheless, J.P. Morgan Wealth Management’s Global Investment Strategist Elyse Ausenbaugh thinks investors have reason to be upbeat.</p>
+    </div>,
+    authorName: 'TipRanks',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 - 8:28 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690519411/ncx-blog-958_ist2tk.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Despite the market’s big comeback in 2023, there is still one issue keeping positive sentiment in check; the prospect of a looming recession remains real. Nevertheless, J.P. Morgan Wealth Management’s Global Investment Strategist Elyse Ausenbaugh thinks investors have reason to be upbeat.</p>
+    	<p>“There are actually a lot of things for investors to feel pretty good about right now – starting with the economy,” Ausenbaugh opined. “In spite of higher interest rates, the economy has stayed a lot more resilient than a lot of folks were fearing as we entered this year.”</p>	
+    	<p>While Ausenbaugh also points out that the stock market “is not the economy,” whether a recession hits or not, she also believes the trough has already been reached. “We do not think that stocks are going to revisit the lows that we saw back in October,” Ausenbaugh further said.</p>	
+    	<p>In fact, while there is still the possibility of a recession, the markets have been showing gradual improvement, and Ausenbaugh thinks investors should be optimistic about the latter part of 2023.</p>
+      <p>With that promising outlook as background, the stock experts at JPM are pointing investors toward the names that are poised to do well in the year ahead; they see two specific equities as potential winners, with one boating upside of 90%. After running the tickers through TipRanks’ database, it’s clear the rest of the Street is in agreement, with each earning a “Strong Buy” consensus rating.</p>
+      <h3>Travere Therapeutics (TVTX)</h3>
+      <p>The first JPM pick is Travere Therapeutics, a biopharmaceutical firm committed to the discovery and development of innovative treatments for rare diseases. Although this niche in biomedical research poses challenges due to the rarity of the diseases, making it tough to conduct viable studies and attracting a limited patient base, it also presents opportunities. The field of rare diseases is often less crowded due to these hurdles. Consequently, a company that successfully introduces a new drug in this market has a clear pathway to success.</p>
+      <p>Travere has done just that. The firm boasts four products at the commercialization stage: Cholbam and Chenodal from its bile acid treatment portfolio; ThiolaEC, a prophylactic for cystine kidney stones; and Filspari, a drug approved earlier this year to treat proteinuria in adult patients with IgA nephropathy. Additionally, Travere maintains a dynamic research pipeline with promising therapies for a variety of conditions, including the kidney ailment FSGS and the metabolic disorders CTX and HCU.</p>
+      <p>Earlier this month, Travere announced that it had entered into an agreement to sell its bile acid portfolio – Cholbam and Chenodal, used in the treatment of rare liver diseases – to Mirum Pharmaceuticals. The transaction is worth up to $445 million, with Travere receiving an up-front payment of $210 million and potentially another $235 million in sales-based milestones. The proceeds will help to fund the company’s pipeline research.</p>
+      <p>Currently, one of the most interesting projects in the pipeline is pegtibatinase, a drug candidate under study as a therapy for classic homocystinuria, HCU. This is a metabolic condition in which the body does not process the amino acid methionine, and builds up toxins in the blood and urine. At the end of May, the company released positive topline results from Cohort 6 of the Phase 1/2 COMPOSE study, a clinical trial of the drug candidate as an enzyme replacement therapy for the treatment of classical HCU. Travere is currently working with regulators to initiate a pivotal Phase 3 trial of pegtibatinase by the end of this year.</p>
+      <p>The combination of a new drug on the market and an advancing pipeline has captured the attention of JPMorgan analyst Anupam Rama, who wrote in his recent review of TVTX: “Broadly speaking, we see commercial momentum for Filspari (sparsentan) and key near-term data for the product, as well as better Street appreciation for the potential of pegtibatinase in homocystinuria (HCU), as upside levers over the next 12-18 months for TVTX shares… From a valuation perspective, we see the value of TVTX shares to be in the high-teens to low-$20s / share range on our conservative assumptions for Filspari + legacy commercial products + cash.”</p>
+      <p>Along with these comments, Rama gives Travere shares an Overweight (i.e. Buy) rating, and his price target, set at $26, implies a gain of ~64% over the next year.</p>
+      <p>Overall, no fewer than 14 analysts have weighed in on this biotech firm, and their reviews include 11 Buys and 3 Holds for a Strong Buy consensus rating. The stock’s current trading price is $15.89 and the $27.71 average price target is even more bullish than the JPM view, suggesting a 74% upside potential on the one-year horizon.</p>
+      <h3>Nerdy, Inc. (NRDY)</h3>
+      <p>Switching gears from biotech, we move to the digital education realm. Nerdy is an ed-tech firm that has created an innovative platform for online learning programs. Named AI for HI® – an acronym for Artificial Intelligence for Human Interaction – the company’s proprietary technology enhances learning experiences by delivering personalized, intelligent solutions. With the aid of ‘supercharged’ tools, this platform fosters an efficient and interactive connection between learners and subject matter experts.</p>
+      <p>Nerdy offers its online learnings at every scale – from one-on-one interactions, to small group classes, to large group live classes, to self-directed individual studies. The company can link learners to online tutors 24/7 through a digital chat, and offers courses in more than 3,000 subjects.</p>
+      <p>The company’s offerings also include Varsity Tutors for Schools. This program makes one-on-one private sessions and small group tutoring available through schools, using the Live Learning Platform. The program is designed to work with the school partners, to provide tutoring options tailored to students’ needs.</p>
+      <p>Nerdy is also switching its business to a membership model, and is experiencing success in that direction. Memberships made up 60% of the total revenue earned in the last reported quarter, an increase from the 50% realized in 4Q22.</p>
+      <p>We won’t see Nerdy’s 2Q23 results until next month, but the Q1 results have been available since May and a close look will show where the company stands today. As of the end of Q1 this year, Nerdy had total cash assets of $96.5 million, which included a quarterly gain of $5.8 million, and no net debt.</p>
+      <p>The company had total revenues in the quarter of $49.2 million, beating its own previously published guidance, growing 5% year-over-year, and coming in $2.8 million ahead of the analysts’ expectations. At the bottom line, however, the company’s EPS, a net loss of 21 cents per share, was 4 cents below the forecast.</p>
+      <p>5-star analyst Doug Anmuth covers Nerdy for JPMorgan, and he sees multiple positive factors lending support to this stock. He writes, “We remain bullish & continue to believe the Membership transition positions NRDY well for future growth. Membership is driving higher LTV & more recurring revenue than Packaged, & is also higher margin.</p>
+      <p>NRDY expects to shift fully toward the Membership model by the end of 2023, which should be a positive catalyst. Nerdy is also executing well across the Varsity Tutors for Schools (VTS) strategy, & we expect continued customer wins/ success as NRDY targets multi-year contracts w/large school districts while providing district-wide, bundled SaaS solutions.”</p>
+      <p>For Anmuth, this adds up to an Overweight (i.e. Buy) rating for NRDY, and his $8 price target points toward a solid 90% share gain in the coming year.</p>
+      <p>All in all, this stock has 8 recent analyst reviews on file, including 6 Buys and 2 Holds for a Strong Buy consensus rating. The shares are selling for $4.24 and have a $5.19 average price target; that combination gives ~23% upside potential over the next 12 months.</p>
+    </div>
+  },
+  {
     id: 610,
     title: 'Bonds Gain, Stocks Muted After Weak European Data: Markets Wrap',
     category: 'Markets',

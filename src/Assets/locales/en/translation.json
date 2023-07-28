@@ -1769,7 +1769,8 @@
   "low_latency_fibre_optic_and": "Low latency fibre optic and",
   "equinix_ny4_server" :"Equinix NY4 Server",
   "average_execution_speeds_of": "Average execution speeds of",
-  "under_40ms": "under 40ms"
+  "under_40ms": "under 40ms",
+  "receive_trading_fee_rebates_during_the_vesting_period": "Receive Trading Fee Rebates during the Vesting Period"
 
 
   

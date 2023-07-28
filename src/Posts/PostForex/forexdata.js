@@ -1,5 +1,123 @@
 const data = [
   {
+    id: 596,
+    title: 'USD/JPY Forecast – US Dollar Testing 50-Day EMA',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar fell a bit during the trading session on Wednesday, as we are waiting on the Federal Reserve interest rate decision. This obviously has a major influence on the US dollar, </p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 - 6:37 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690469934/ncx-blog-952_m9ixwg.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar fell a bit during the trading session on Wednesday, as we are waiting on the Federal Reserve interest rate decision. This obviously has a major influence on the US dollar, so it should not be much of a surprise that there might be a bit of profit-taking at this point. However, this sets up an interesting question, which of course is what we are going to do after the Federal Reserve releases its interest rate, and perhaps more importantly, the press conference afterward. After all, the Federal Reserve raising during the meeting is not going to be much of a surprise, but traders will be paying attention to the tone of the statement and press conference, to get a little bit of a heads up as to how tight the Federal Reserve will remain.</p>
+	    <p>Furthermore, you need to keep in mind that early on Friday, the Bank of Japan will have its interest rate decision, and of course will have some type of statement coming out. In other words, the next couple of days could be very noisy for this pair, and it’ll be interesting to see how this holds up. I anticipate that some type of pullback probably offers a buying opportunity, and I look at the ¥138 level underneath as a major floor in the market, as it was previously the top of an ascending triangle. With that being the case, I am paying close attention to this market if we get down to that area, because a breach of that level and of course the 200-Day EMA in that same general vicinity would send this market reeling.</p>	
+	    <p>On the other hand, if we can break above the top of the candlestick for the trading session on Wednesday, I anticipate that the market is probably going to target the ¥142.50 level, followed by the ¥145 level. The interest rate differential continues to favor the US dollar, but the question now is going to be how long will the Americans stay tight? I do believe that they are willing to stay tight for longer than a lot of the market is suggesting, especially over in the equity market so I do favor the upside at the moment.</p>	
+    </div>
+  },
+  {
+    id: 595,
+    title: 'GBP/JPY Forecast – British Pound Continues to Grind Sideways Against Japanese Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>In the trading session on Wednesday, the British pound pulled back a bit against the Japanese yen, hinting at a consolidation phase. Despite this temporary retreat, market analysis indicates that potential buyers may reenter the market,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 - 6:24 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690469359/ncx-blog-951_fewlzh.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>In the trading session on Wednesday, the British pound pulled back a bit against the Japanese yen, hinting at a consolidation phase. Despite this temporary retreat, market analysis indicates that potential buyers may reenter the market, with a focus on the historical support zone around the ¥180 level. The proximity of the 50-Day Exponential Moving Average to this area further strengthens the possibility of a significant bounce.</p>	
+	    <p>Compared to other major currencies, the British pound has displayed robustness, thanks to proactive measures taken by the Bank of England to address significant inflation pressures. This resilience stands in contrast to the Bank of Japan’s strategy of quantitative easing, aimed at maintaining low interest rates, which has contributed to the depreciation of the Japanese yen.</p>	
+	    <p>If the market were to experience a breakdown below the 50-Day EMA, the British pound could face a decline towards the ¥175 level. Notably, this level has previously acted as a pivotal point for initiating upward momentum and remains a crucial support level to monitor.</p>
+      <p>On the flip side, a potential market turnaround leading to an upward surge beyond the ¥183 level may pave the way for potential gains towards ¥184 and even ¥185, with the latter serving as the intermediate target. Surpassing this level could result in further appreciation, and some market participants might set their sights on the ¥200 level in the long term, although achieving such a milestone may present challenges.</p>
+      <p>The struggles faced by the Japanese yen can be attributed to the country’s prolonged experiment with quantitative easing, which has had significant consequences in the Forex markets. As a result, bearish sentiment persists among certain traders towards the Japanese yen.</p>
+      <p>The recent pullback of the British pound against the Japanese yen has led to a consolidation phase, attracting the attention of potential buyers. The pivotal ¥180 level, reinforced by the proximity of the 50-Day EMA, holds key significance. The strength exhibited by the British pound underscores the Bank of England’s efforts to tackle inflation, while the Japanese yen continues to grapple with the repercussions of long-standing quantitative easing. For what is worth, the Bank of Japan has an interest rate decision on Friday, so this might be what the market is waiting on.</p>
+    </div>
+  },
+  {
+    id: 594,
+    title: 'AUD/USD Forecast – The Australian Dollar Pulls Back Heading Toward the Fed Meeting',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar initially tried to rally a bit during the trading session on Wednesday, but gave back gains near the 0.68 level. At that point, we then fell to the 50-Day EMA,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 - 6:15 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690469104/ncx-blog-950_zo4sqc.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+    	<p>The Australian dollar initially tried to rally a bit during the trading session on Wednesday, but gave back gains near the 0.68 level. At that point, we then fell to the 50-Day EMA, but keep in mind that the Federal Reserve comes out with an interest rate decision late in the session, so that obviously will cause a lot of volatility. We are seeing the US dollar move all over the place, as the British pound is gaining, but the Aussie in the New Zealand dollar or falling. The question now is whether or not we can find any sustainable trend?</p>
+    	<p>When it comes to the Australian dollar it is likely to continue to chop back and forth, and therefore I don’t really have much of an opinion on this pair, other than if you are a short term range bound trader it might be your market. Breaking below the 50-Day EMA opens up the possibility of a move down to the 0.67 level, followed by the 0.66 level.</p>	
+    	<p>In general, I think this is a scenario where the market has to be approached cautiously because quite frankly it does not look like we are going to see certainty in general. The inflation numbers out of the Australian economy were a bit of a mess overnight, and therefore we have seen the Aussie suffer as a consequence. That being said, we also have the Federal Reserve later in the day, so Jerome could send this pair all over the place.</p>	
+    	<p>When you look at this market, you can see just how noisy it’s been, and quite frankly I just don’t see any real hopes for that changing anytime soon. The 200-Day EMA and the 50-Day EMA indicators are essentially flat, so that tells you just how lackluster this overall attitude is. The Australian dollar is highly sensitive to the commodity markets, and of course global growth in general. With that being the case, I think you got a situation where if you are short term range bound trader you might be able to get away with going back and forth, but as far as a sustainable move, I just don’t see it happening at the moment.</p>
+    </div>
+  },
+  {
+    id: 593,
+    title: 'EUR/USD Forecast – Euro Attempts a Bounce Waiting for Powell',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecat'],
+    description: <div className="blog-desc">
+      <p>The euro has rallied a bit during the trading session on Wednesday as we wait for the Federal Reserve announcement later in the day. That being said, the market did stabilize a bit during the Tuesday session,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 26, 2023 - 5:15 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690468842/ncx-blog-949_rtdm7t.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>The euro has rallied a bit during the trading session on Wednesday as we wait for the Federal Reserve announcement later in the day. That being said, the market did stabilize a bit during the Tuesday session, so the bounce was something that could have been expected. After all, we sold off quite drastically after a massive move higher. The question now is whether or not the Federal Reserve will send the US dollar lower, or if they will be hawkish enough to send this pair running toward the greenback. Ultimately, the overall long-term trend is bullish, so it does make sense that we would see some type of recovery but we have to wait until the dust settles after the announcement to make that assessment.</p>
+    	<p>All things being equal though, it does look like the market is probably going to try to go to the 1.1250 level. The 1.1250 level opens up the possibility of a move to the 1.15 level over the longer term, but keep in mind that there will be a lot of cautious trading out there during the day. However, if we were to turn around and continue to fall apart, the first thing they need to pay attention to is the bottom of the candlestick from Tuesday, which should be somewhat supported. After that, we have the 50-Day EMA which sits just below the 1.10 level, and of course there is a bit of psychology around that figure anyway.</p>	
+    	<p>At the end of the day, I do think that we continue to go higher, or at least sideways. That being said, the Federal Reserve will give way to the European Central Bank in less than 24 hours later, so I think that might make the reaction somewhat muted. After all, we will have to pay attention to what the Europeans are going to do, which is still a bit of an open question. Ultimately, I think we’ve got a situation where you will have to be very cautious, but the overall uptrend is still very much intact in this market, and it does take quite a bit to change the trend in the Forex world.</p>	
+    </div>
+  },
+  {
+    id: 592,
+    title: 'GBP/USD Forecast – British Pound Continues to Hang Around',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>Tuesday’s trading session witnessed a cautious and indecisive movement of the British pound, as market participants sought stability amid ongoing uncertainties.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 25, 2023 - 6:45 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690467293/ncx-blog-948_jdwsxx.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>Tuesday’s trading session witnessed a cautious and indecisive movement of the British pound, as market participants sought stability amid ongoing uncertainties. This article delves into the various factors influencing the pound’s behavior and offers insights into potential strategies for traders and investors to navigate its volatile trajectory.</p>
+    	<p>While there is a possibility of considering a long position in the British pound if it breaks above the top of the candlestick, prudent decision-making is essential. Recent sessions’ similar arguments suggest that exercising caution may be more appropriate. The presence of the 50-Day Exponential Moving Average and the uptrend line provides critical support, hinting at a potential turnaround in the near future.</p>	
+    	<p>In the current economic landscape, the Bank of England is expected to maintain a tight monetary policy, positioning the British pound as a strong performer in the currency markets. Despite the sudden rise in the value of the US dollar, other currencies may be more suitable candidates for shorting against the dollar, considering the pound’s historical resilience.</p>	
+    	<p>Given the anticipated noisy behavior in the market, adopting a cautious approach to position sizing becomes crucial. Waiting for confirmation of a clearer market direction may lead to more viable strategies, such as considering adding to positions in the British pound. Currently, shorting the pound does not seem viable unless a significant breakdown occurs below the 1.2650 level, potentially leading to further declines. However, such a move is likely to be influenced by broader US dollar strength rather than specific weaknesses in the pound.</p>
+      <p>Conversely, a bullish scenario could unfold, potentially propelling the British pound towards the 1.30 level, followed by the 1.3250 level. This optimistic path hinges on various factors, including inflation concerns and the overall strength of the US dollar.</p>
+      <p>As the British pound experiences volatile movements, the market remains uncertain, necessitating cautious decision-making for investors and traders. The support from the 50-Week EMA and the uptrend line offers hope for a potential turnaround, but concerns surrounding inflation and the Bank of England’s monetary policy add complexity to the pound’s trajectory.</p>
+      <p>Monitoring the evolving economic landscape and adjusting positions based on confirmations and market developments will be vital in managing the pound’s recent behavior. Traders and investors are advised to exercise prudence and patience in navigating the pound’s fluctuations, keeping a close eye on critical support and resistance levels is the best thing you can do now.</p>
+    </div>
+  },
+  {
     id: 591,
     title: 'Interest rate rises to halve UK growth, think tank forecasts',
     category: 'Forex',
