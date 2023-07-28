@@ -100,7 +100,7 @@ function AboutMobileVersion()
                 </div>
                 <div className="xs__edf">
                     <h3>{t("access_defi")}</h3>
-                    <p>Compliance and AML policies are limiting Institutions from certain DeFi products, NCX acts as a professional licensed entity allowing Institutions full access to Decentralised Finance.</p>
+                    <p>{t("defi_compliance_text")}</p>
                 </div>
                 <div className="xs__edf">
                     <h3>{t("assets_management")}</h3>
@@ -203,18 +203,18 @@ function AboutMobileVersion()
                 <h2>Institutional Advantages </h2>
                 <div className="xs__edf">
                     <h3>{t("compliance")}</h3>
-                    <p>NCX extensive compliance program is designed to be on par with the world’s leading regulatory and industry best practices. NCX’s risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                    <p>{t("regulatory_compliance_text")}</p>
                 </div>
                 <div className="xs__edf">
                     <h3>{t("risk_management")}</h3>
-                    <p>Comprehensive risk management and risk analytical insights, risk alerts, complex simulations and stress-testing on trading data with forecasting capabilities, hedging and other recommendations for actions.</p>
+                    <p>{t("risk_management_text_mobile")}</p>
                 </div>
                 <div className="xs__edf">
                     <h3>{t("derivatives_market")}</h3>
-                    <p>NCX offers over 500 Derivatives Trading Pairs, from Cryptocurrencies to Financial Markets, Stocks, Forex,  Commodities, Metals, ETF’s Indices & Energies.</p>
+                    <p>{t("ncx_offers_over_500_derivatives_trading_pairs")}</p>
                 </div>
                 <div className="xs__edf">
-                    <h3>Spot Market</h3>
+                    <h3>{t("spot_market")}</h3>
                     <p>{t("trading_advantage_text5")}</p>
                 </div>
                 <div className="xs__edf">

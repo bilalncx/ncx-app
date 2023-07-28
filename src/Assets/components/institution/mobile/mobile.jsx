@@ -41,7 +41,7 @@ function InstitutionMobile()
                 <h2>{t("institutional_services")}</h2>
                 <div className="xs__edf">
                     <h3>{t("liquidity_program")}</h3>
-                    <p>{t("about_liqiuidity_program")}</p>
+                    <p>{t("liquidity_program_text")}</p>
                 </div>
                 <div className="xs__edf">
                     <h3>{t("broker_program")}</h3>
@@ -49,7 +49,7 @@ function InstitutionMobile()
                 </div>
                 <div className="xs__edf">
                     <h3>{t("access_defi")}</h3>
-                    <p>Compliance and AML policies are limiting Institutions from certain DeFi products, NCX acts as a professional licensed entity allowing Institutions full access to Decentralised Finance.</p>
+                    <p>{t("defi_compliance_text")}</p>
                 </div>
                 <div className="xs__edf">
                     <h3>{t("assets_management")}</h3>
@@ -295,21 +295,21 @@ function InstitutionMobile()
             </div>
 
             <div className="zx__zx2">
-                <h2>Institutional Advantages </h2>
+                <h2>{t("institutional_advantages")}</h2>
                 <div className="xs__edf">
                     <h3>{t("compliance")}</h3>
-                    <p>NCX extensive compliance program is designed to be on par with the world’s leading regulatory and industry best practices. NCX’s risk-based and multi-layer control system has proven to be highly effective in AML and CFT.</p>
+                    <p>{t("regulatory_compliance_text")}</p>
                 </div>
                 <div className="xs__edf">
                     <h3>{t("risk_management")}</h3>
-                    <p>Comprehensive risk management and risk analytical insights, risk alerts, complex simulations and stress-testing on trading data with forecasting capabilities, hedging and other recommendations for actions.</p>
+                    <p>{t("risk_management_text_mobile")}</p>
                 </div>
                 <div className="xs__edf">
                     <h3>{t("derivatives_market")}</h3>
-                    <p>NCX offers over 500 Derivatives Trading Pairs, from Cryptocurrencies to Financial Markets, Stocks, Forex,  Commodities, Metals, ETF’s Indices & Energies.</p>
+                    <p>{t("ncx_offers_over_500_derivatives_trading_pairs")}</p>
                 </div>
                 <div className="xs__edf">
-                    <h3>Spot Market</h3>
+                    <h3>{t("spot_market")}</h3>
                     <p>{t("trading_advantage_text5")}</p>
                 </div>
                 <div className="xs__edf">
@@ -345,17 +345,17 @@ function InstitutionMobile()
                 <div className="ml__huc">
                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690277060/corporations_v588yu.png" alt="ncx-cx"/>
                     <h3>{t("corporations")}</h3>
-                    <p>{t("Corporations allocating funds into digital assets and cryptocurrencies as part of their corporate treasury strategy. NCX Custody and Asset Management Service supports corporations to safeguard their digital assets on their balance sheet to hedge against inflation.")}</p>
+                    <p>{t("corporations_text_moblie")}</p>
                 </div>
                 <div className="ml__huc">
                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690277060/miners_vhbdey.png" alt="ncx-cx"/>
                     <h3>{t("cryptocurrency_miners")}</h3>
-                    <p>{t("Custody and Asset Management Service helps Cryptocurrency Miners safeguard their mining rewards and ensure the mining rewards are disseminated to their clients without disruptions.")}</p>
+                    <p>{t("crypto_currency_miners_text")}</p>
                 </div>
                 <div className="ml__huc">
                     <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690277060/net-worth_qsbful.png" alt="ncx-cx"/>
-                    <h3>{t("High-net-worth Investors")}</h3>
-                    <p>{t("Custody and Asset Management service support investors to grant access to their sub-accounts to third-party professional trading or advisory team for treasury management.")}</p>
+                    <h3>{t("high_net_worth_investors")}</h3>
+                    <p>{t("high_net_worth_investors_text_mobile")}</p>
                 </div>
             </div>
         </div>

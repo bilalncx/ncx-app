@@ -45,7 +45,7 @@ function NCXEarningComplete()
                                 <p>{t("trade_to_earn")}</p>
                                 <NCXQuestionmark />
                             </div>
-                            <h1>{t("get_up_to_50000_ncxt_simply_trading!")}</h1>
+                            <h1>{t("get_up_to_50000_ncxt_simply_trading")}</h1>
                             <p className="getocode-txt">{t("trade_to_earn_text")}</p>
                             <a href="#">{t("sign_up_and_start_trading")}</a>
                         </AnimationOnScroll>

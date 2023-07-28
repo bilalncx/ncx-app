@@ -94,7 +94,7 @@ function InstitutionAboutUs()
                                 <div className="txtimgsect">
                                     <div className="otctxt">
                                         <h2>{t("derivatives_market")}</h2>
-                                        <p>{t("trading_advantage_text4")}</p>
+                                        <p>{t("ncx_offers_over_500_derivatives_trading_pairs")}</p>
                                     </div>
                                     <div className="otc-image">
                                         <OTC3 />

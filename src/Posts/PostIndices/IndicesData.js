@@ -1,5 +1,100 @@
 const data = [
   {
+    id: 576,
+    title: 'Dow Jones Sees Win Streak End, Microsoft Stock Near Buy Point; IPO Cava Up 137% Since IPO',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Microsoft', 'IPO'],
+    description: <div className="blog-desc">
+      <p>Southwest Airlines flashed a sell signal. At the session low near 329, MSFT stock dipped notably below its sharply rising 50-day moving average and 10-week moving average.</p>
+    </div>,
+    authorName: 'DAVID SAITO-CHUNG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 28, 2023 - 1:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690541017/ncx-blog-964_dzh0vu.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Southwest Airlines flashed a sell signal. At the session low near 329, MSFT stock dipped notably below its sharply rising 50-day moving average and 10-week moving average.</p>
+    	<p>The Dow Jones Industrial Average saw its 13-day winning streak snap in the stock market today, losing 237 points, or almost 0.7%. The 30-stock blue chip index also finished near session lows. Microsoft (MSFT) slumped for the fifth time in seven sessions, falling nearly 2.1%.</p>
+      <p>At the session low near 329, MSFT stock dipped notably below its sharply rising 50-day moving average and 10-week moving average.</p>
+      <p>A strong bounce off the 50-day line or the 10-week line could furnish a new secondary buy point. Please keep in mind that in terms of buying strategy, the best time to add shares in a winning position is during a confirmed market uptrend.</p>
+      <p>The generative AI play and cloud computing giant has blazed a torrid run since its breakout past a pair of proper entry points. One, Microsoft coasted past a narrow flat base with a 276.76 entry back in March.</p>
+      <p>Two, Mr. Softy rolled over a 292.08 entry in a handle within its first-stage cup with handle.</p>
+      <h3>Inside Dow Jones</h3>	
+    	<p>Within the Dow Jones Industrial Average, Honeywell (HON), Microsoft, American Express (AXP) and at least four additional components fell 2 points or more. At Thursday's session high of 35,645, the Dow Jones had gained 7.5% year to date, lagging much more robust gains by the Nasdaq composite and the S&P 500.</p>
+      <h3>AmEx And Honeywell Produce Sell Signals</h3>	
+    	<p>AXP undercut its 50-day line in disappointing fashion. The stock is triggering the golden rule of investing, falling more than 7% below a 177.04 handle buy point following a low-volume breakout earlier in the month.</p>
+      <p>Meanwhile, Honeywell cleaved its 50-day and 200-day moving averages, a bearish move that triggers a defensive sell signal.</p>
+      <p>Shares finished near their low for the day, down nearly 12 points, or almost 6%. Volume rushed 121% higher than usual levels. The expert in automotive and aerospace systems products posted a 13% rise in second-quarter earnings to $2.38 a share. Revenue inched up 2% to $9.15 billion; growth in the top line decelerated from year-over-year gains of 6% in the prior three quarters.</p>
+      <p>Notice on a daily chart how Honeywell's relative strength line has been falling precipitously since early July. This means HON stock has grossly underperformed the S&P 500 in recent weeks.</p>
+      <p>On Thursday, the Nasdaq eased almost 0.6% after poking to a session high 14,360, up 37% since Jan. 1. The S&P 500 backtracked a little more than 0.6% lower, less than a 1.3% drop by the Russell 2000.</p>
+      <p>Meanwhile, West Texas Intermediate crude oil futures rallied more than 1.2% to close at $79.77 a barrel in the wake of a solid first reading on second-quarter U.S. GDP data. At one point, Nymex crude touched $80.60, the highest point since April 19.</p>
+      <p>The U.S. economy rose 2.4% on an annualized basis, boosted in part by a 1.6% increase in personal consumption expenditures. Gasoline futures rose 1.4%, but natural gas fell 3%.</p>
+      <p>Investors sold more government securities. The yield on the key U.S. Treasury 10-year note jumped 16 basis points to 4.01%.</p>
+      <p>The 10-year note's yield last closed above 4% on July 10.</p>
+      <h3>Beyond Dow Jones: European Stocks Rally</h3>
+      <p>Across the pond, European bourses rallied even after the ECB ratcheted the cost of short-term money by another quarter point. But European Central Bank President Christine Lagarde noted during a news conference that the bank is getting to the stage of weighing the possibility of pausing its monetary tightening campaign that's aimed at quelling inflation.</p>
+      <p>The Stoxx Europe 600 jumped nearly 1.4%. It's gained in seven of the past eight trading days and notched a fresh 52-week high.</p>
+      <h3>Market Breadth Negative</h3>
+      <p>According to Thinkorswim data, falling stocks far exceeded rising ones by a nearly 3-1 margin on both the Nasdaq and the NYSE.</p>
+      <p>Despite strength in the price of crude oil, oil-related firms cooled off.</p>
+      <p>VanEck Oil Services ETF (OIH) slumped 1.5% to 332.62 in light turnover.</p>
+      <p>The exchange traded fund is trying to clear a cup without handle that shows a 336.30 buy point.</p>
+      <p>Meanwhile, iShares Expanded Tech Software ETF (IGV) reversed from early gains to a relatively milder 0.8% drop. Volume dropped 37% below its 50-day average. The fund remains nicely above its rising 21-day exponential moving average.</p>
+      <p>IGV has rallied more than 23% since clearing a flat base with a 300.11 entry.</p>
+      <h3>Airlines Nose Lower</h3>
+      <p>Elsewhere, Southwest Airlines (LUV) flashed a key sell signal. The stock fell 9% in more than quadruple usual turnover and sliced through its rising 50-day moving average, a true sign of weakness.</p>
+      <p>Shares sold off hard on Q2 results (net loss of 27 cents per share despite a 22% rise in revenue to $5.71 billion). As seen on a weekly chart, LUV skidded back below a 40-week moving average, a no-no for growth stock pickers.</p>
+      <p>Prior to the drop, Southwest's Relative Strength Rating of 57 had already pointed to the stock's middling performance over the past 12 months.</p>
+      <p>In general, focus on companies that hold an RS Rating of 85 or higher.</p>
+      <p>Some new issues may not have 12 months' worth of trading history, but as seen in the case of Cava Group (CAVA), they can still produce excellent relative strength.</p>
+      <h3>Beyond Dow Jones: Watch This New IPO</h3>
+      <p>Cava, down 3.4% to 49.88 in accelerating turnover on Thursday, priced its initial equity offering at $22 a share. After its IPO, the Mediterranean cuisine-themed fast-casual eatery chain rocketed on its June 15 debut on the NYSE to as high as 47.89. The stock built a narrow IPO base and powered past the 47.89 entry less than four weeks later.</p>
+      <p>According to MarketSmith, Cava stock hosts a solid 96 3-month Relative Strength Rating.</p>
+      <p>On Thursday, shares rallied more than 2% to a session high 53.25 before pulling back below 50 by day's end. That translated into a solid 11% advance from the entry. It also means CAVA has gotten extended past the 5% buy zone (from 47.89 to 50.28) and thus should not be chased at current price levels.</p>
+      <p>At this point, watch for a potential new base to form.</p>
+      <p>Cava's revenue climbed 28% to $203.1 million in the first quarter vs. a year earlier. That marked the strongest year-over-year top-line increase in at least five quarters. In the prior four quarters, Cava's top line grew on average 12.8%.</p>
+      <p>First-quarter net loss of 2 cents was also the smallest net loss in five quarters.</p>
+      <p>Wall Street sees the company losing 8 cents a share for all of 2023 and losing another 6 cents in 2024.</p>
+    </div>
+  },
+  {
+    id: 575,
+    title: 'Dow Jones Today: Index Plunges, Ending Streak, on Concern About Rate Hikes',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Index', 'Hikes'],
+    description: <div className="blog-desc">
+      <p>Dow Jones falls more than 200 points, ending the historic 13-day rally, on investor fears that strong economic data could bring more rate hikes.</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 28, 2023 - 12:32 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690543565/ncx-blog-965_mm2mkb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones falls more than 200 points, ending the historic 13-day rally, on investor fears that strong economic data could bring more rate hikes.</p>
+    	<p>Plunging almost 300 points over two hours in the afternoon, the Dow Jones Industrial Average ended its 13-session winning streak, missing its chance to set its longest run of gains since 1897. The Dow closed down 0.65% or about 225 points.</p>
+      <h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>The Dow Jones falls 0.65%, or 225 points, the first time the index has finished in the red in 14 sessions.</li>
+        <li>Dow Chemical rises 2%, while McDonalds moves higher by 1.4% on an earnings report beat.</li>
+        <li>Honeywell plunges more than 5% as revenue falls short of projections.</li>
+      </ul>	
+    	<p>Other stock indexes joined the Dow in moving downward. The S&P 500 dropped 0.6% and the Nasdaq fell 0.5%, as investors processed more positive economic news, including a U.S. gross domestic product (GDP) that showed the economy was growing faster than expectations. Investors worried economic growth could prompt even more interest rate hikes by the Federal Reserve.</p>
+      <h3>On the Upswing</h3>	
+      <p>Dow Chemical (DOW) rose 2%, climbing for the third-straight session since its second-quarter earnings report beat estimates, thanks to lower costs.</p>
+      <p>McDonald's (MCD) shares were up 1.4% after its earnings report beat revenue and profit estimates, but the company signaled sales would slow in the second half of the year. McDonald’s earnings of $3.17 a share were above estimates of $2.78, but its chief financial officer told investors on a call that revenue was expected to moderate.</p>
+      <p>Intel (INTC) shares rose 0.4% ahead of its earnings report release after markets close.</p>
+      <h3>On the Downside</h3>
+    	<p>Honeywell International (HON) tumbled 5% after the conglomerate’s earnings and full-year outlook were modestly above analysts' expectations. However, revenue fell to slightly lower than projections. The aerospace and building technologies provider reported revenue of $9.1 billion, less than the $9.2 billion analysts had forecast. Its earnings of $2.23 a share came in higher than the $2.21 analysts were looking to see.</p>
+      <p>American Express (AXP) dropped 2.2% following its $15 million settlement for its business-card sales practices after a Piper Sandler analyst raised concerns over how the resumption of student loan repayments could drag down the stock.</p>
+      <p>Microsoft (MSFT) shares dropped 2.4%, while Verizon (VZ) moved lower by 2.2%. Procter & Gamble (PG) shares traded 0.9% lower ahead of its earnings report on Friday.</p>
+    </div>
+  },
+  {
     id: 574,
     title: 'European Shares Subdued; Spain’s IBEX Drops on Inconclusive Vote',
     category: 'Indices',
