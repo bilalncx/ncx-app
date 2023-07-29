@@ -11,6 +11,7 @@ function HomePageMarketSection()
     async function getapi(url) {
         
         const response = await fetch(url);
+        console.log(response);
         
         // Storing data in form of JSON
         var data = await response.json();
