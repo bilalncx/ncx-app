@@ -32,8 +32,8 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q2 2021</h3>
                                 <div className="active border-map"></div>
-                                <h3>July 2021</h3>
-                                <p><span>Creation of a NCX Digital Exchange</span><span>Discovery Phase - Product Concept</span></p>
+                                <h3>{t("july_2021")}</h3>
+                                <p><span>{t("creation_of_a_ncx_digital_exchange")}</span><span>{t("discovery_phase_product_concept")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={1}>
@@ -41,7 +41,7 @@ function RoadmapSlider()
                                 <h3>Q3 2021</h3>
                                 <div className="active border-map"></div>
                                 <h3>Q3 2021</h3>
-                                <p><span>Pre-Development Phase</span><span>Software Architecture</span></p>
+                                <p><span>{t("pre_development_phase")}</span><span>{t("software_architecture")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={2}>
@@ -49,89 +49,89 @@ function RoadmapSlider()
                                 <h3>Q4 2021</h3>
                                 <div className="active border-map"></div>
                                 <h3>Q4 2021</h3>
-                                <p><span>Product Backlog</span><span>CI/CD Workflow, BPMN</span><span>User Flow Development</span></p>
+                                <p><span>{t("product_backlog")}</span><span>{t("ci_cd_workflow_bpmn")}</span><span>{t("user_flow_development")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={3}>
                             <div className="single_map">
                                 <h3>Q1 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>January 2022</h3>
-                                <p><span>Product Development Stage</span><span>Platform Backend Development</span></p>
+                                <h3>{t("january_2022")}</h3>
+                                <p><span>{t("product_development_stage")}</span><span>{t("platform_backend_development")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={4}>
                             <div className="single_map">
                                 <h3>Q1 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>March 2022</h3>
-                                <p><span>Frontend Development</span><span>Mobile App Architecture</span></p>
+                                <h3>{t("march_2022")}</h3>
+                                <p><span>{t("frontend_development")}</span><span>{t("mobile_app_architecture")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={5}>
                             <div className="single_map">
                                 <h3>Q3 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>April 2022</h3>
-                                <p><span>App Development</span><span>DEX Development</span><span>Cross-asset Liquidity Integration</span></p>
+                                <h3>{t("april_2022")}</h3>
+                                <p><span>{t("app_development")}</span><span>{t("dex_development")}</span><span>{t("cross_asset_liquidity_integration")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={6}>
                             <div className="single_map">
                                 <h3>Q3 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>July 2022</h3>
-                                <p><span>Testing Stage</span><span>NCX Platform Beta</span></p>
+                                <h3>{t("july_2022")}</h3>
+                                <p><span>{t("testing_stage")}</span><span>{t("ncx_platform_beta")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={7}>
                             <div className="single_map">
                                 <h3>Q3 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>September 2022</h3>
-                                <p><span>NCX Cross-Chain</span><span>DEX Beta</span></p>
+                                <h3>{t("september_2022")}</h3>
+                                <p><span>{t("ncx_cross_chain")}</span><span>{t("dex_beta")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={8}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>October 2022</h3>
-                                <p>Development of NCX DeFi Wallet</p>
+                                <h3>{t("october_2022")}</h3>
+                                <p>{t("development_of_ncx_defi_wallet")}</p>
                             </div>
                         </Slide>
                         <Slide index={9}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>October 2022</h3>
-                                <p>Deployment of NCX CEX & Spot Trading</p>
+                                <h3>{t("october_2022")}</h3>
+                                <p>{t("deployment_of_ncx_cex_spot_trading")}</p>
                             </div>
                         </Slide>
                         <Slide index={10}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>November 2022</h3>
-                                <p><span>NCX Token (NCXT) Smart</span><span>Contact Architecture</span></p>
+                                <h3>{t("november_2022")}</h3>
+                                <p><span>{t("ncx_token_ncxt_smart")}</span><span>{t("contact_architecture")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={11}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>November 2023</h3>
-                                <p><span>Launch of NCX</span><span>Cross-Chain DEX</span></p>
+                                <h3>{t("november_2023")}</h3>
+                                <p><span>{t("launch_of_ncx")}</span><span>{t("cross_chain_dex")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={12}>
                             <div className="single_map">
                                 <h3>Q1 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>February 2022</h3>
+                                <h3>{t("february_2022")}</h3>
                                 <p>
-                                    <span>Launch of Institutional</span>
-                                    <span>Services and NCX OTC</span>
+                                    <span>{t("launch_of_institutional")}</span>
+                                    <span>{t("services_and_ncx_otc")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -139,9 +139,9 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q2 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>March 2022</h3>
+                                <h3>{t("march_2022")}</h3>
                                 <p>
-                                    <span>NCX App Release </span>
+                                    <span>{t("ncx_app_release")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -149,10 +149,10 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>April 2023</h3>
+                                <h3>{t("april_2023")}</h3>
                                 <p>
-                                    <span>NCX DeFi Wallet</span>
-                                    <span>Architecture & Development</span>
+                                    <span>{t("ncx_defi_wallet")}</span>
+                                    <span>{t("architecture_&_development")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -160,10 +160,10 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>July 2023</h3>
+                                <h3>{t("july_2023")}</h3>
                                 <p>
-                                    <span>NCX App 2.0</span>
-                                    <span>Release</span>
+                                    <span>{t("ncx_app_2.0")}</span>
+                                    <span>{t("release")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -171,10 +171,10 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>August 2023</h3>
+                                <h3>{t("august_2023")}</h3>
                                 <p>
-                                    <span>Launch of NCXT</span>
-                                    <span>Token Private Sale</span>
+                                    <span>{t("launch_of_ncxt")}</span>
+                                    <span>{t("token_private_sale")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -184,8 +184,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Deployment of NCX</span>
-                                    <span>Derivatives Trading</span>
+                                    <span>{t("deployment_of_ncx")}</span>
+                                    <span>{t("derivatives_trading")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -195,8 +195,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCX Derivatives Trading</span>
-                                    <span>App on Release on iOS and Android</span>
+                                    <span>{t("ncx_derivatives_trading")}</span>
+                                    <span>{t("app_on_release_on_ios_and_android")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -206,7 +206,7 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Growth of Platform User-base through Global Marketing Campaigns</span>
+                                    <span>{t("growth_of_platform_user_base_through_global_marketing_campaigns")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -216,8 +216,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Release of NCX</span>
-                                    <span>DeFi Wallet App</span>
+                                    <span>{t("release_of_ncx")}</span>
+                                    <span>{t("defi_wallet_app")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -227,8 +227,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCXT Token Generation </span>
-                                    <span>Event, Liquidity Lockup</span>
+                                    <span>{t("ncxt_token_generation")}</span>
+                                    <span>{t("event_liquidity_lockup")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -238,8 +238,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCXT Release,</span>
-                                    <span>Token Allocation & Distribution</span>
+                                    <span>{t("ncxt_release")}</span>
+                                    <span>{t("token_allocation_distribution")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -249,9 +249,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCXT DEX Listings</span>
-                                    <span>Launch of NCXT </span>
-                                    <span>Spot Trading on NCX </span>
+                                    <span>{t("ncxt_dex_listings")}</span>
+                                    <span>{t("launch_of_ncxt")}</span>
+                                    <span>{t("spot_trading_on_ncx")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -261,8 +261,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Deployment of Liquidity</span>
-                                    <span>Pools and Yield Farms on NCX DEX</span>
+                                    <span>{t("deployment_of_liquidity")}</span>
+                                    <span>{t("pools_and_yield_farms_on_ncx_dex")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -272,8 +272,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Launch of NCXT</span>
-                                    <span>Staking Program</span>
+                                    <span>{t("launch_of_ncxt")}</span>
+                                    <span>{t("staking_program")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -283,8 +283,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Release of NCX</span>
-                                    <span>DeFi Wallet Web App and Chrome Extension</span>
+                                    <span>{t("release_of_ncx")}</span>
+                                    <span>{t("defi_wallet_web_app_and_chrome_extension")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -294,9 +294,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q4  2023</h3>
                                 <p>
-                                    <span>Growth of NCX Ecosystem</span>
-                                    <span>User-base and Marketshare</span>
-                                    <span>Partnerships and Integrations</span>
+                                    <span>{t("growth_of_ncx_ecosystem")}</span>
+                                    <span>{t("user_base_and_marketshare")}</span>
+                                    <span>{t("partnerships_and_integrations")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -306,8 +306,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q4 2023</h3>
                                 <p>
-                                    <span>NCXT CEX Listings</span>
-                                    <span>Expansion of User-base target Regions through Regional Marketing Campaigns</span>
+                                    <span>{t("ncxt_cex_listings")}</span>
+                                    <span>{t("expansion_of_user_base_target_regions_through_regional_marketing_campaigns")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -317,8 +317,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q1 2024</h3>
                                 <p>
-                                    <span>Deployment NCXT</span>
-                                    <span>Buy Back & Burn Mechanism</span>
+                                    <span>{t("deployment_ncxt")}</span>
+                                    <span>{t("buy_back_burn_mechanism")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -328,8 +328,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q1 2024</h3>
                                 <p>
-                                    <span>Launch of NCX</span>
-                                    <span>Crypto Debit Card</span>
+                                    <span>{t("launch_of_ncx")}</span>
+                                    <span>{t("crypto_debit_card")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -339,9 +339,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q2 2024</h3>
                                 <p>
-                                    <span>Addition of New Spot and</span>
-                                    <span>Derivatives Trading</span>
-                                    <span>Assets and Instruments</span>
+                                    <span>{t("addition_of_new_spot_and")}</span>
+                                    <span>{t("derivatives_trading")}</span>
+                                    <span>{t("assets_and_instruments")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -351,9 +351,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2024</h3>
                                 <p>
-                                    <span>Launch of NCX</span>
-                                    <span>Earn Program</span>
-                                    <span>Launch of NCX Lending</span>
+                                    <span>{t("launch_of_ncx")}</span>
+                                    <span>{t("earn_program")}</span>
+                                    <span>{t("launch_of_ncx_lending")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -363,7 +363,7 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q4 2024</h3>
                                 <p>
-                                    <span>Major NCX App Update - NCX App 2.0</span>
+                                    <span>{t("major_ncx_app_update_ncx_app_2.0")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -390,8 +390,8 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q2 2021</h3>
                                 <div className="active border-map"></div>
-                                <h3>July 2021</h3>
-                                <p><span>Creation of a NCX Digital Exchange</span><span>Discovery Phase - Product Concept</span></p>
+                                <h3>{t("july_2021")}</h3>
+                                <p><span>{t("creation_of_a_ncx_digital_exchange")}</span><span>{t("discovery_phase_product_concept")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={1}>
@@ -399,7 +399,7 @@ function RoadmapSlider()
                                 <h3>Q3 2021</h3>
                                 <div className="active border-map"></div>
                                 <h3>Q3 2021</h3>
-                                <p><span>Pre-Development Phase</span><span>Software Architecture</span></p>
+                                <p><span>{t("pre_development_phase")}</span><span>{t("software_architecture")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={2}>
@@ -407,89 +407,89 @@ function RoadmapSlider()
                                 <h3>Q4 2021</h3>
                                 <div className="active border-map"></div>
                                 <h3>Q4 2021</h3>
-                                <p><span>Product Backlog</span><span>CI/CD Workflow, BPMN</span><span>User Flow Development</span></p>
+                                <p><span>{t("product_backlog")}</span><span>{t("ci_cd_workflow_bpmn")}</span><span>{t("user_flow_development")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={3}>
                             <div className="single_map">
                                 <h3>Q1 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>January 2022</h3>
-                                <p><span>Product Development Stage</span><span>Platform Backend Development</span></p>
+                                <h3>{t("january_2022")}</h3>
+                                <p><span>{t("product_development_stage")}</span><span>{t("platform_backend_development")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={4}>
                             <div className="single_map">
                                 <h3>Q1 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>March 2022</h3>
-                                <p><span>Frontend Development</span><span>Mobile App Architecture</span></p>
+                                <h3>{t("march_2022")}</h3>
+                                <p><span>{t("frontend_development")}</span><span>{t("mobile_app_architecture")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={5}>
                             <div className="single_map">
                                 <h3>Q3 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>April 2022</h3>
-                                <p><span>App Development</span><span>DEX Development</span><span>Cross-asset Liquidity Integration</span></p>
+                                <h3>{t("april_2022")}</h3>
+                                <p><span>{t("app_development")}</span><span>{t("dex_development")}</span><span>{t("cross_asset_liquidity_integration")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={6}>
                             <div className="single_map">
                                 <h3>Q3 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>July 2022</h3>
-                                <p><span>Testing Stage</span><span>NCX Platform Beta</span></p>
+                                <h3>{t("july_2022")}</h3>
+                                <p><span>{t("testing_stage")}</span><span>{t("ncx_platform_beta")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={7}>
                             <div className="single_map">
                                 <h3>Q3 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>September 2022</h3>
-                                <p><span>NCX Cross-Chain</span><span>DEX Beta</span></p>
+                                <h3>{t("september_2022")}</h3>
+                                <p><span>{t("ncx_cross_chain")}</span><span>{t("dex_beta")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={8}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>October 2022</h3>
-                                <p>Development of NCX DeFi Wallet</p>
+                                <h3>{t("october_2022")}</h3>
+                                <p>{t("development_of_ncx_defi_wallet")}</p>
                             </div>
                         </Slide>
                         <Slide index={9}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>October 2022</h3>
-                                <p>Deployment of NCX CEX & Spot Trading</p>
+                                <h3>{t("october_2022")}</h3>
+                                <p>{t("deployment_of_ncx_cex_spot_trading")}</p>
                             </div>
                         </Slide>
                         <Slide index={10}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>November 2022</h3>
-                                <p><span>NCX Token (NCXT) Smart</span><span>Contact Architecture</span></p>
+                                <h3>{t("november_2022")}</h3>
+                                <p><span>{t("ncx_token_ncxt_smart")}</span><span>{t("contact_architecture")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={11}>
                             <div className="single_map">
                                 <h3>Q4 2022</h3>
                                 <div className="active border-map"></div>
-                                <h3>November 2023</h3>
-                                <p><span>Launch of NCX</span><span>Cross-Chain DEX</span></p>
+                                <h3>{t("november_2023")}</h3>
+                                <p><span>{t("launch_of_ncx")}</span><span>{t("cross_chain_dex")}</span></p>
                             </div>
                         </Slide>
                         <Slide index={12}>
                             <div className="single_map">
                                 <h3>Q1 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>February 2022</h3>
+                                <h3>{t("february_2022")}</h3>
                                 <p>
-                                    <span>Launch of Institutional</span>
-                                    <span>Services and NCX OTC</span>
+                                    <span>{t("launch_of_institutional")}</span>
+                                    <span>{t("services_and_ncx_otc")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -497,9 +497,9 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q2 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>March 2022</h3>
+                                <h3>{t("march_2022")}</h3>
                                 <p>
-                                    <span>NCX App Release </span>
+                                    <span>{t("ncx_app_release")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -507,10 +507,10 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="active border-map"></div>
-                                <h3>April 2023</h3>
+                                <h3>{t("april_2023")}</h3>
                                 <p>
-                                    <span>NCX DeFi Wallet</span>
-                                    <span>Architecture & Development</span>
+                                    <span>{t("ncx_defi_wallet")}</span>
+                                    <span>{t("architecture_&_development")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -518,10 +518,10 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>July 2023</h3>
+                                <h3>{t("july_2023")}</h3>
                                 <p>
-                                    <span>NCX App 2.0</span>
-                                    <span>Release</span>
+                                    <span>{t("ncx_app_2.0")}</span>
+                                    <span>{t("release")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -529,10 +529,10 @@ function RoadmapSlider()
                             <div className="single_map">
                                 <h3>Q3 2023</h3>
                                 <div className="border-map"></div>
-                                <h3>August 2023</h3>
+                                <h3>{t("august_2023")}</h3>
                                 <p>
-                                    <span>Launch of NCXT</span>
-                                    <span>Token Private Sale</span>
+                                    <span>{t("launch_of_ncxt")}</span>
+                                    <span>{t("token_private_sale")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -542,8 +542,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Deployment of NCX</span>
-                                    <span>Derivatives Trading</span>
+                                    <span>{t("deployment_of_ncx")}</span>
+                                    <span>{t("derivatives_trading")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -553,8 +553,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCX Derivatives Trading</span>
-                                    <span>App on Release on iOS and Android</span>
+                                    <span>{t("ncx_derivatives_trading")}</span>
+                                    <span>{t("app_on_release_on_ios_and_android")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -564,7 +564,7 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Growth of Platform User-base through Global Marketing Campaigns</span>
+                                    <span>{t("growth_of_platform_user_base_through_global_marketing_campaigns")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -574,8 +574,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Release of NCX</span>
-                                    <span>DeFi Wallet App</span>
+                                    <span>{t("release_of_ncx")}</span>
+                                    <span>{t("defi_wallet_app")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -585,8 +585,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCXT Token Generation </span>
-                                    <span>Event, Liquidity Lockup</span>
+                                    <span>{t("ncxt_token_generation")}</span>
+                                    <span>{t("event_liquidity_lockup")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -596,8 +596,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCXT Release,</span>
-                                    <span>Token Allocation & Distribution</span>
+                                    <span>{t("ncxt_release")}</span>
+                                    <span>{t("token_allocation_distribution")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -607,9 +607,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>NCXT DEX Listings</span>
-                                    <span>Launch of NCXT </span>
-                                    <span>Spot Trading on NCX </span>
+                                    <span>{t("ncxt_dex_listings")}</span>
+                                    <span>{t("launch_of_ncxt")}</span>
+                                    <span>{t("spot_trading_on_ncx")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -619,8 +619,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Deployment of Liquidity</span>
-                                    <span>Pools and Yield Farms on NCX DEX</span>
+                                    <span>{t("deployment_of_liquidity")}</span>
+                                    <span>{t("pools_and_yield_farms_on_ncx_dex")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -630,8 +630,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Launch of NCXT</span>
-                                    <span>Staking Program</span>
+                                    <span>{t("launch_of_ncxt")}</span>
+                                    <span>{t("staking_program")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -641,8 +641,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2023</h3>
                                 <p>
-                                    <span>Release of NCX</span>
-                                    <span>DeFi Wallet Web App and Chrome Extension</span>
+                                    <span>{t("release_of_ncx")}</span>
+                                    <span>{t("defi_wallet_web_app_and_chrome_extension")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -652,9 +652,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q4  2023</h3>
                                 <p>
-                                    <span>Growth of NCX Ecosystem</span>
-                                    <span>User-base and Marketshare</span>
-                                    <span>Partnerships and Integrations</span>
+                                    <span>{t("growth_of_ncx_ecosystem")}</span>
+                                    <span>{t("user_base_and_marketshare")}</span>
+                                    <span>{t("partnerships_and_integrations")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -664,8 +664,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q4 2023</h3>
                                 <p>
-                                    <span>NCXT CEX Listings</span>
-                                    <span>Expansion of User-base target Regions through Regional Marketing Campaigns</span>
+                                    <span>{t("ncxt_cex_listings")}</span>
+                                    <span>{t("expansion_of_user_base_target_regions_through_regional_marketing_campaigns")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -675,8 +675,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q1 2024</h3>
                                 <p>
-                                    <span>Deployment NCXT</span>
-                                    <span>Buy Back & Burn Mechanism</span>
+                                    <span>{t("deployment_ncxt")}</span>
+                                    <span>{t("buy_back_burn_mechanism")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -686,8 +686,8 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q1 2024</h3>
                                 <p>
-                                    <span>Launch of NCX</span>
-                                    <span>Crypto Debit Card</span>
+                                    <span>{t("launch_of_ncx")}</span>
+                                    <span>{t("crypto_debit_card")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -697,9 +697,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q2 2024</h3>
                                 <p>
-                                    <span>Addition of New Spot and</span>
-                                    <span>Derivatives Trading</span>
-                                    <span>Assets and Instruments</span>
+                                    <span>{t("addition_of_new_spot_and")}</span>
+                                    <span>{t("derivatives_trading")}</span>
+                                    <span>{t("assets_and_instruments")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -709,9 +709,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q3 2024</h3>
                                 <p>
-                                    <span>Launch of NCX</span>
-                                    <span>Earn Program</span>
-                                    <span>Launch of NCX Lending</span>
+                                    <span>{t("launch_of_ncx")}</span>
+                                    <span>{t("earn_program")}</span>
+                                    <span>{t("launch_of_ncx_lending")}</span>
                                 </p>
                             </div>
                         </Slide>
@@ -721,9 +721,9 @@ function RoadmapSlider()
                                 <div className="border-map"></div>
                                 <h3>Q4 2024</h3>
                                 <p>
-                                    <span>Major NCX App Update - NCX App 2.0</span>
-                                </p>
-                            </div>
+                                    <span>{t("major_ncx_app_update_ncx_app_2.0")}</span>
+                               </p>
+                               </div>
                         </Slide>
                     </Slider>
                     <ButtonBack className="tokenback"><CardArrow /></ButtonBack>
