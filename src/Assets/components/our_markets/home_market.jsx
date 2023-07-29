@@ -6,7 +6,7 @@ import { useTranslation } from "react-i18next";
 function HomePageMarketSection()
 {
     const api_url =
-	"https://b2t-api-cmc-ncxdigital.flexprotect.org/marketdata/cmc/v1/summary";
+	"https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=15&page=1&sparkline=false&price_change_percentage=24h&locale=en";
 
     async function getapi(url) {
         
@@ -14,6 +14,7 @@ function HomePageMarketSection()
         
         // Storing data in form of JSON
         var data = await response.json();
+        console.log(data);
         
         if (response) {
             hideloader();
@@ -28,253 +29,103 @@ function HomePageMarketSection()
     }
 
     function show(data) {
-        // Ethereum
-        const ETH1 = data.ETH_USD.id;
-        const ETH_ID = ETH1.replace(/_/g, " / ");  
-        const eth2 = data.ETH_USD.last;
-        const ETH_Price = parseFloat(eth2).toFixed(2);
-        const ETH3 = data.ETH_USD.high24hr;
-        const ETH_High = parseFloat(ETH3).toFixed(4);
-        const ETH4 = data.ETH_USD.low24hr;
-        const ETH_Low = parseFloat(ETH4).toFixed(4);
-        const ETH5 = data.ETH_USD.quoteVolume;
-        const ETH_Volume = parseFloat(ETH5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-        
-        // USDT
-        const USDT = data.USDT_USD.id;
-        const USDT_ID = USDT.replace(/_/g, " / ");  
-        const USDT2 = data.USDT_USD.last;
-        const USDT_Price = parseFloat(USDT2).toFixed(2);
-        const USDT3 = data.USDT_USD.high24hr;
-        const USDT_High = parseFloat(USDT3).toFixed(4);
-        const USDT4 = data.USDT_USD.low24hr;
-        const USDT_Low = parseFloat(USDT4).toFixed(4);
-        const USDT5 = data.USDT_USD.quoteVolume;
-        const USDT_Volume = parseFloat(USDT5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-        
-        // BTC
-        const BTC = data.BTC_USDT.id;
-        const BTC_ID = BTC.replace(/_/g, " / ");  
-        const BTC2 = data.BTC_USDT.last;
-        const BTC_Price = parseFloat(BTC2).toFixed(2);
-        const BTC3 = data.BTC_USDT.high24hr;
-        const BTC_High = parseFloat(BTC3).toFixed(4);
-        const BTC4 = data.BTC_USDT.low24hr;
-        const BTC_Low = parseFloat(BTC4).toFixed(4);
-        const BTC5 = data.BTC_USDT.quoteVolume;
-        const BTC_Volume = parseFloat(BTC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
-        // BCH
-        const BCH = data.BCH_USDT.id;
-        const BCH_ID = BCH.replace(/_/g, " / ");  
-        const BCH2 = data.BCH_USDT.last;
-        const BCH_Price = parseFloat(BCH2).toFixed(2);
-        const BCH3 = data.BCH_USDT.high24hr;
-        const BCH_High = parseFloat(BCH3).toFixed(4);
-        const BCH4 = data.BCH_USDT.low24hr;
-        const BCH_Low = parseFloat(BCH4).toFixed(4);
-        const BCH5 = data.BCH_USDT.quoteVolume;
-        const BCH_Volume = parseFloat(BCH5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin1ID = data[0].symbol;
+        const Coin1Image = data[0].image;
+        const Coin1Price = data[0].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin1High = data[0].high_24h.toLocaleString('en-US');
+        const Coin1Low = data[0].low_24h.toLocaleString('en-US');
 
-        // MATIC
-        const MATIC = data.MATIC_USDT.id;
-        const MATIC_ID = MATIC.replace(/_/g, " / ");  
-        const MATIC2 = data.MATIC_USDT.last;
-        const MATIC_Price = parseFloat(MATIC2).toFixed(2);
-        const MATIC3 = data.MATIC_USDT.high24hr;
-        const MATIC_High = parseFloat(MATIC3).toFixed(4);
-        const MATIC4 = data.MATIC_USDT.low24hr;
-        const MATIC_Low = parseFloat(MATIC4).toFixed(4);
-        const MATIC5 = data.MATIC_USDT.quoteVolume;
-        const MATIC_Volume = parseFloat(MATIC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin2ID = data[1].symbol;
+        const Coin2Image = data[1].image;
+        const Coin2Price = data[1].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin2High = data[1].high_24h.toLocaleString('en-US');
+        const Coin2Low = data[1].low_24h.toLocaleString('en-US');
 
-        // LTC 
-        const LTC = data.LTC_USDT.id;
-        const LTC_ID = LTC.replace(/_/g, " / ");  
-        const LTC2 = data.LTC_USDT.last;
-        const LTC_Price = parseFloat(LTC2).toFixed(2);
-        const LTC3 = data.LTC_USDT.high24hr;
-        const LTC_High = parseFloat(LTC3).toFixed(4);
-        const LTC4 = data.LTC_USDT.low24hr;
-        const LTC_Low = parseFloat(LTC4).toFixed(4);
-        const LTC5 = data.LTC_USDT.quoteVolume;
-        const LTC_Volume = parseFloat(LTC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin3ID = data[2].symbol;
+        const Coin3Image = data[2].image;
+        const Coin3Price = data[2].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin3High = data[2].high_24h.toLocaleString('en-US');
+        const Coin3Low = data[2].low_24h.toLocaleString('en-US');
 
-        // XRP 
-        const XRP = data.XRP_USD.id;
-        const XRP_ID = XRP.replace(/_/g, " / ");  
-        const XRP2 = data.XRP_USD.last;
-        const XRP_Price = parseFloat(XRP2).toFixed(2);
-        const XRP3 = data.XRP_USD.high24hr;
-        const XRP_High = parseFloat(XRP3).toFixed(4);
-        const XRP4 = data.XRP_USD.low24hr;
-        const XRP_Low = parseFloat(XRP4).toFixed(4);
-        const XRP5 = data.XRP_USD.quoteVolume;
-        const XRP_Volume = parseFloat(XRP5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin4ID = data[3].symbol;
+        const Coin4Image = data[3].image;
+        const Coin4Price = data[3].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin4High = data[3].high_24h.toLocaleString('en-US');
+        const Coin4Low = data[3].low_24h.toLocaleString('en-US');
 
-        // USDC 
-        const USDC = data.USDC_USD.id;
-        const USDC_ID = USDC.replace(/_/g, " / ");  
-        const USDC2 = data.USDC_USD.last;
-        const USDC_Price = parseFloat(USDC2).toFixed(2);
-        const USDC3 = data.USDC_USD.high24hr;
-        const USDC_High = parseFloat(USDC3).toFixed(4);
-        const USDC4 = data.USDC_USD.low24hr;
-        const USDC_Low = parseFloat(USDC4).toFixed(4);
-        const USDC5 = data.USDC_USD.quoteVolume;
-        const USDC_Volume = parseFloat(USDC5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin5ID = data[4].symbol;
+        const Coin5Image = data[4].image;
+        const Coin5Price = data[4].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin5High = data[4].high_24h.toLocaleString('en-US');
+        const Coin5Low = data[5].low_24h.toLocaleString('en-US');
 
-        // BAND 
-        const BAND = data.BAND_USDT.id;
-        const BAND_ID = BAND.replace(/_/g, " / ");  
-        const BAND2 = data.BAND_USDT.last;
-        const BAND_Price = parseFloat(BAND2).toFixed(2);
-        const BAND3 = data.BAND_USDT.high24hr;
-        const BAND_High = parseFloat(BAND3).toFixed(4);
-        const BAND4 = data.BAND_USDT.low24hr;
-        const BAND_Low = parseFloat(BAND4).toFixed(4);
-        const BAND5 = data.BAND_USDT.quoteVolume;
-        const BAND_Volume = parseFloat(BAND5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin6ID = data[5].symbol;
+        const Coin6Image = data[5].image;
+        const Coin6Price = data[6].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin6High = data[6].high_24h.toLocaleString('en-US');
+        const Coin6Low = data[6].low_24h.toLocaleString('en-US');
 
-        // BNB 
-        const BNB = data.BNB_USDT.id;
-        const BNB_ID = BNB.replace(/_/g, " / ");  
-        const BNB2 = data.BNB_USDT.last;
-        const BNB_Price = parseFloat(BNB2).toFixed(2);
-        const BNB3 = data.BNB_USDT.high24hr;
-        const BNB_High = parseFloat(BNB3).toFixed(4);
-        const BNB4 = data.BNB_USDT.low24hr;
-        const BNB_Low = parseFloat(BNB4).toFixed(4);
-        const BNB5 = data.BNB_USDT.quoteVolume;
-        const BNB_Volume = parseFloat(BNB5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin7ID = data[7].symbol;
+        const Coin7Image = data[7].image;
+        const Coin7Price = data[7].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin7High = data[7].high_24h.toLocaleString('en-US');
+        const Coin7Low = data[7].low_24h.toLocaleString('en-US');
 
-        // DOGE / USDT
-        const DOGE1 = data.DOGE_USDT.id;
-        const DOGE_ID = DOGE1.replace(/_/g, " / ");  
-        const DOGE2 = data.DOGE_USDT.last;
-        const DOGE_Price = parseFloat(DOGE2).toFixed(2);
-        const DOGE3 = data.DOGE_USDT.high24hr;
-        const DOGE_High = parseFloat(DOGE3).toFixed(4);
-        const DOGE4 = data.DOGE_USDT.low24hr;
-        const DOGE_Low = parseFloat(DOGE4).toFixed(4);
-        const DOGE5 = data.DOGE_USDT.quoteVolume;
-        const DOGE_Volume = parseFloat(DOGE5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin8ID = data[8].symbol;
+        const Coin8Image = data[8].image;
+        const Coin8Price = data[8].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin8High = data[8].high_24h.toLocaleString('en-US');
+        const Coin8Low = data[8].low_24h.toLocaleString('en-US');
 
-        // YFI / USDT
-        const YFI1 = data.YFI_USDT.id;
-        const YFI_ID = YFI1.replace(/_/g, " / ");  
-        const YFI2 = data.YFI_USDT.last;
-        const YFI_Price = parseFloat(YFI2).toFixed(2);
-        const YFI3 = data.YFI_USDT.high24hr;
-        const YFI_High = parseFloat(YFI3).toFixed(4);
-        const YFI4 = data.YFI_USDT.low24hr;
-        const YFI_Low = parseFloat(YFI4).toFixed(4);
-        const YFI5 = data.YFI_USDT.quoteVolume;
-        const YFI_Volume = parseFloat(YFI5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin9ID = data[9].symbol;
+        const Coin9Image = data[9].image;
+        const Coin9Price = data[9].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin9High = data[9].high_24h.toLocaleString('en-US');
+        const Coin9Low = data[9].low_24h.toLocaleString('en-US');
 
-        // LINK / USDT
-        const LINK1 = data.LINK_USDT.id;
-        const LINK_ID = LINK1.replace(/_/g, " / ");  
-        const LINK2 = data.LINK_USDT.last;
-        const LINK_Price = parseFloat(LINK2).toFixed(2);
-        const LINK3 = data.LINK_USDT.high24hr;
-        const LINK_High = parseFloat(LINK3).toFixed(4);
-        const LINK4 = data.LINK_USDT.low24hr;
-        const LINK_Low = parseFloat(LINK4).toFixed(4);
-        const LINK5 = data.LINK_USDT.quoteVolume;
-        const LINK_Volume = parseFloat(LINK5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin10ID = data[10].symbol;
+        const Coin10Image = data[10].image;
+        const Coin10Price = data[10].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin10High = data[10].high_24h.toLocaleString('en-US');
+        const Coin10Low = data[10].low_24h.toLocaleString('en-US');
 
-        // XMR / USDT
-        const XMR1 = data.XMR_USDT.id;
-        const XMR_ID = XMR1.replace(/_/g, " / ");  
-        const XMR2 = data.XMR_USDT.last;
-        const XMR_Price = parseFloat(XMR2).toFixed(2);
-        const XMR3 = data.XMR_USDT.high24hr;
-        const XMR_High = parseFloat(XMR3).toFixed(4);
-        const XMR4 = data.XMR_USDT.low24hr;
-        const XMR_Low = parseFloat(XMR4).toFixed(4);
-        const XMR5 = data.XMR_USDT.quoteVolume;
-        const XMR_Volume = parseFloat(XMR5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin11ID = data[11].symbol;
+        const Coin11Image = data[11].image;
+        const Coin11Price = data[11].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin11High = data[11].high_24h.toLocaleString('en-US');
+        const Coin11Low = data[11].low_24h.toLocaleString('en-US');
 
-        // DAI / USD
-        const DAI1 = data.DAI_USD.id;
-        const DAI_ID = DAI1.replace(/_/g, " / ");  
-        const DAI2 = data.DAI_USD.last;
-        const DAI_Price = parseFloat(DAI2).toFixed(2);
-        const DAI3 = data.DAI_USD.high24hr;
-        const DAI_High = parseFloat(DAI3).toFixed(4);
-        const DAI4 = data.DAI_USD.low24hr;
-        const DAI_Low = parseFloat(DAI4).toFixed(4);
-        const DAI5 = data.DAI_USD.quoteVolume;
-        const DAI_Volume = parseFloat(DAI5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin12ID = data[12].symbol;
+        const Coin12Image = data[12].image;
+        const Coin12Price = data[12].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin12High = data[12].high_24h.toLocaleString('en-US');
+        const Coin12Low = data[12].low_24h.toLocaleString('en-US');
 
-        // BAT / USDT
-        const BAT1 = data.BAT_USDT.id;
-        const BAT_ID = BAT1.replace(/_/g, " / ");  
-        const BAT2 = data.BAT_USDT.last;
-        const BAT_Price = parseFloat(BAT2).toFixed(2);
-        const BAT3 = data.BAT_USDT.high24hr;
-        const BAT_High = parseFloat(BAT3).toFixed(4);
-        const BAT4 = data.BAT_USDT.low24hr;
-        const BAT_Low = parseFloat(BAT4).toFixed(4);
-        const BAT5 = data.BAT_USDT.quoteVolume;
-        const BAT_Volume = parseFloat(BAT5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-
-        // TUSD / USDT
-        const TUSD1 = data.TUSD_USDT.id;
-        const TUSD_ID = TUSD1.replace(/_/g, " / ");  
-        const TUSD2 = data.TUSD_USDT.last;
-        const TUSD_Price = parseFloat(TUSD2).toFixed(2);
-        const TUSD3 = data.TUSD_USDT.high24hr;
-        const TUSD_High = parseFloat(TUSD3).toFixed(4);
-        const TUSD4 = data.TUSD_USDT.low24hr;
-        const TUSD_Low = parseFloat(TUSD4).toFixed(4);
-        const TUSD5 = data.TUSD_USDT.quoteVolume;
-        const TUSD_Volume = parseFloat(TUSD5).toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin13ID = data[13].symbol;
+        const Coin13Image = data[13].image;
+        const Coin13Price = data[13].current_price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        const Coin13High = data[13].high_24h.toLocaleString('en-US');
+        const Coin13Low = data[13].low_24h.toLocaleString('en-US');
 
         let tab =
             `
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/btc.svg" alt="coin-logo" />
-                    <h1>${BTC_ID}</h1>
+                    <img src=${Coin1Image} alt="coin-logo" />
+                    <h1>${Coin1ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${BTC_Price}</h1>
-                    <p>≈$${BTC_Price}</p>
+                    <h1>${Coin1Price}</h1>
+                    <p>≈$${Coin1Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${BTC_High}</h1>
-                    <p>≈$${BTC_High}</p>
+                    <h1>${Coin1High}</h1>
+                    <p>≈$${Coin1High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${BTC_Low}</h1>
-                    <p>≈$${BTC_Low}</p>
-                </td>
-                <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/btc_usdt.png" alt="graph" />
-                </td>
-                <td class="mark-volume">
-                    <h1>$1,223,312.00</h1>
-                </td>
-            </tr>
-
-            <tr>
-                <td class="mark-pair">
-                    <img src="https://ncx.cx/images/eth.svg" alt="coin-logo" />
-                    <h1>${ETH_ID}</h1>
-                </td>
-                <td class="mark-price">
-                    <h1>${ETH_Price}</h1>
-                    <p>≈$${ETH_Price}</p>
-                </td>
-                <td class="mark-high">
-                    <h1>${ETH_High}</h1>
-                    <p>≈$${ETH_High}</p>
-                </td>
-                <td class="mark-low">
-                    <h1>${ETH_Low}</h1>
-                    <p>≈$${ETH_Low}</p>
+                    <h1>${Coin1Low}</h1>
+                    <p>≈$${Coin1Low}</p>
                 </td>
                 <td class="mark-graph">
                     <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
@@ -286,376 +137,301 @@ function HomePageMarketSection()
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/usdt.svg" alt="coin-logo" />
-                    <h1>${USDT_ID}</h1>
+                    <img src=${Coin2Image} alt="coin-logo" />
+                    <h1>${Coin2ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${USDT_Price}</h1>
-                    <p>≈$${USDT_Price}</p>
+                    <h1>${Coin2Price}</h1>
+                    <p>≈$${Coin2Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${USDT_High}</h1>
-                    <p>≈$${USDT_High}</p>
+                    <h1>${Coin2High}</h1>
+                    <p>≈$${Coin2High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${USDT_Low}</h1>
-                    <p>≈$${USDT_Low}</p>
+                    <h1>${Coin2Low}</h1>
+                    <p>≈$${Coin2Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/usdt_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,244,431.00</h1>
+                    <h1>$1,123,32.00</h1>
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="mark-pair">
+                    <img src=${Coin3Image} alt="coin-logo" />
+                    <h1>${Coin3ID} / USDT</h1>
+                </td>
+                <td class="mark-price">
+                    <h1>${Coin3Price}</h1>
+                    <p>≈$${Coin3Price}</p>
+                </td>
+                <td class="mark-high">
+                    <h1>${Coin3High}</h1>
+                    <p>≈$${Coin3High}</p>
+                </td>
+                <td class="mark-low">
+                    <h1>${Coin3Low}</h1>
+                    <p>≈$${Coin3Low}</p>
+                </td>
+                <td class="mark-graph">
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                </td>
+                <td class="mark-volume">
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/bch.svg" alt="coin-logo" />
-                    <h1>${BCH_ID}</h1>
+                    <img src=${Coin4Image} alt="coin-logo" />
+                    <h1>${Coin4ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${BCH_Price}</h1>
-                    <p>≈$${BCH_Price}</p>
+                    <h1>${Coin4Price}</h1>
+                    <p>≈$${Coin4Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${BCH_High}</h1>
-                    <p>≈$${BCH_High}</p>
+                    <h1>${Coin4High}</h1>
+                    <p>≈$${Coin4High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${BCH_Low}</h1>
-                    <p>≈$${BCH_Low}</p>
+                    <h1>${Coin4Low}</h1>
+                    <p>≈$${Coin4Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/bch_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$289,849.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/bnb.svg" alt="coin-logo" />
-                    <h1>${BNB_ID}</h1>
+                    <img src=${Coin5Image} alt="coin-logo" />
+                    <h1>${Coin5ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${BNB_Price}</h1>
-                    <p>≈$${BNB_Price}</p>
+                    <h1>${Coin5Price}</h1>
+                    <p>≈$${Coin5Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${BNB_High}</h1>
-                    <p>≈$${BNB_High}</p>
+                    <h1>${Coin5High}</h1>
+                    <p>≈$${Coin5High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${BNB_Low}</h1>
-                    <p>≈$${BNB_Low}</p>
+                    <h1>${Coin5Low}</h1>
+                    <p>≈$${Coin5Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/bnb_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,215,789.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/matic.svg" alt="coin-logo" />
-                    <h1>${MATIC_ID}</h1>
+                    <img src=${Coin6Image} alt="coin-logo" />
+                    <h1>${Coin6ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${MATIC_Price}</h1>
-                    <p>≈$${MATIC_Price}</p>
+                    <h1>${Coin6Price}</h1>
+                    <p>≈$${Coin6Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${MATIC_High}</h1>
-                    <p>≈$${MATIC_High}</p>
+                    <h1>${Coin6High}</h1>
+                    <p>≈$${Coin6High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${MATIC_Low}</h1>
-                    <p>≈$${MATIC_Low}</p>
+                    <h1>${Coin6Low}</h1>
+                    <p>≈$${Coin6Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/matic_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$319,375.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/ltc.svg" alt="coin-logo" />
-                    <h1>${LTC_ID}</h1>
+                    <img src=${Coin7Image} alt="coin-logo" />
+                    <h1>${Coin7ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${LTC_Price}</h1>
-                    <p>≈$${LTC_Price}</p>
+                    <h1>${Coin7Price}</h1>
+                    <p>≈$${Coin7Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${LTC_High}</h1>
-                    <p>≈$${LTC_High}</p>
+                    <h1>${Coin7High}</h1>
+                    <p>≈$${Coin7High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${LTC_Low}</h1>
-                    <p>≈$${LTC_Low}</p>
+                    <h1>${Coin7Low}</h1>
+                    <p>≈$${Coin7Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/ltc_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$311,217.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/xrp.svg" alt="coin-logo" />
-                    <h1>${XRP_ID}</h1>
+                    <img src=${Coin8Image} alt="coin-logo" />
+                    <h1>${Coin8ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${XRP_Price}</h1>
-                    <p>≈$${XRP_Price}</p>
+                    <h1>${Coin8Price}</h1>
+                    <p>≈$${Coin8Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${XRP_High}</h1>
-                    <p>≈$${XRP_High}</p>
+                    <h1>${Coin8High}</h1>
+                    <p>≈$${Coin8High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${XRP_Low}</h1>
-                    <p>≈$${XRP_Low}</p>
+                    <h1>${Coin8Low}</h1>
+                    <p>≈$${Coin8Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/xrp_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$498,916.00</h1>
-                </td>
-            </tr>
-
-            <tr class="hide_mbl">
-                <td class="mark-pair">
-                    <img src="https://ncx.cx/images/usdc.svg" alt="coin-logo" />
-                    <h1>${USDC_ID}</h1>
-                </td>
-                <td class="mark-price">
-                    <h1>${USDC_Price}</h1>
-                    <p>≈$${USDC_Price}</p>
-                </td>
-                <td class="mark-high">
-                    <h1>${USDC_High}</h1>
-                    <p>≈$${USDC_High}</p>
-                </td>
-                <td class="mark-low">
-                    <h1>${USDC_Low}</h1>
-                    <p>≈$${USDC_Low}</p>
-                </td>
-                <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/usdc_usd.png" alt="graph" />
-                </td>
-                <td class="mark-volume">
-                    <h1>$1,108,348.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/band.svg" alt="coin-logo" />
-                    <h1>${BAND_ID}</h1>
+                    <img src=${Coin9Image} alt="coin-logo" />
+                    <h1>${Coin9ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${BAND_Price}</h1>
-                    <p>≈$${BAND_Price}</p>
+                    <h1>${Coin9Price}</h1>
+                    <p>≈$${Coin9Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${BAND_High}</h1>
-                    <p>≈$${BAND_High}</p>
+                    <h1>${Coin9High}</h1>
+                    <p>≈$${Coin9High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${BAND_Low}</h1>
-                    <p>≈$${BAND_Low}</p>
+                    <h1>${Coin9Low}</h1>
+                    <p>≈$${Coin9Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/band_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$562,226.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/doge.svg" alt="coin-logo" />
-                    <h1>${DOGE_ID}</h1>
+                    <img src=${Coin10Image} alt="coin-logo" />
+                    <h1>${Coin10ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${DOGE_Price}</h1>
-                    <p>≈$${DOGE_Price}</p>
+                    <h1>${Coin10Price}</h1>
+                    <p>≈$${Coin10Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${DOGE_High}</h1>
-                    <p>≈$${DOGE_High}</p>
+                    <h1>${Coin10High}</h1>
+                    <p>≈$${Coin10High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${DOGE_Low}</h1>
-                    <p>≈$${DOGE_Low}</p>
+                    <h1>${Coin10Low}</h1>
+                    <p>≈$${Coin10Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$557,839.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/yfi.svg" alt="coin-logo" />
-                    <h1>${YFI_ID}</h1>
+                    <img src=${Coin11Image} alt="coin-logo" />
+                    <h1>${Coin11ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${YFI_Price}</h1>
-                    <p>≈$${YFI_Price}</p>
+                    <h1>${Coin11Price}</h1>
+                    <p>≈$${Coin11Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${YFI_High}</h1>
-                    <p>≈$${YFI_High}</p>
+                    <h1>${Coin11High}</h1>
+                    <p>≈$${Coin11High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${YFI_Low}</h1>
-                    <p>≈$${YFI_Low}</p>
+                    <h1>${Coin11Low}</h1>
+                    <p>≈$${Coin11Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/yfi_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$354,382.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/link.svg" alt="coin-logo" />
-                    <h1>${LINK_ID}</h1>
+                    <img src=${Coin12Image} alt="coin-logo" />
+                    <h1>${Coin12ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${LINK_Price}</h1>
-                    <p>≈$${LINK_Price}</p>
+                    <h1>${Coin12Price}</h1>
+                    <p>≈$${Coin12Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${LINK_High}</h1>
-                    <p>≈$${LINK_High}</p>
+                    <h1>${Coin12High}</h1>
+                    <p>≈$${Coin12High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${LINK_Low}</h1>
-                    <p>≈$${LINK_Low}</p>
+                    <h1>${Coin12Low}</h1>
+                    <p>≈$${Coin12Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/link_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$284,971.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://ncx.cx/images/xmr.svg" alt="coin-logo" />
-                    <h1>${XMR_ID}</h1>
+                    <img src=${Coin13Image} alt="coin-logo" />
+                    <h1>${Coin13ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
-                    <h1>${XMR_Price}</h1>
-                    <p>≈$${XMR_Price}</p>
+                    <h1>${Coin13Price}</h1>
+                    <p>≈$${Coin13Price}</p>
                 </td>
                 <td class="mark-high">
-                    <h1>${XMR_High}</h1>
-                    <p>≈$${XMR_High}</p>
+                    <h1>${Coin13High}</h1>
+                    <p>≈$${Coin13High}</p>
                 </td>
                 <td class="mark-low">
-                    <h1>${XMR_Low}</h1>
-                    <p>≈$${XMR_Low}</p>
+                    <h1>${Coin13Low}</h1>
+                    <p>≈$${Coin13Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/xmr_usdt.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$424,431.00</h1>
-                </td>
-            </tr>
-
-            <tr class="hide_mbl">
-                <td class="mark-pair">
-                    <img src="https://ncx.cx/images/dai.svg" alt="coin-logo" />
-                    <h1>${DAI_ID}</h1>
-                </td>
-                <td class="mark-price">
-                    <h1>${DAI_Price}</h1>
-                    <p>≈$${DAI_Price}</p>
-                </td>
-                <td class="mark-high">
-                    <h1>${DAI_High}</h1>
-                    <p>≈$${DAI_High}</p>
-                </td>
-                <td class="mark-low">
-                    <h1>${DAI_Low}</h1>
-                    <p>≈$${DAI_Low}</p>
-                </td>
-                <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/dai_usd.png" alt="graph" />
-                </td>
-                <td class="mark-volume">
-                    <h1>$367,392.00</h1>
-                </td>
-            </tr>
-
-            <tr>
-                <td class="mark-pair">
-                    <img src="https://ncx.cx/images/bat.svg" alt="coin-logo" />
-                    <h1>${BAT_ID}</h1>
-                </td>
-                <td class="mark-price">
-                    <h1>${BAT_Price}</h1>
-                    <p>≈$${BAT_Price}</p>
-                </td>
-                <td class="mark-high">
-                    <h1>${BAT_High}</h1>
-                    <p>≈$${BAT_High}</p>
-                </td>
-                <td class="mark-low">
-                    <h1>${BAT_Low}</h1>
-                    <p>≈$${BAT_Low}</p>
-                </td>
-                <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/bat_usdt.png" alt="graph" />
-                </td>
-                <td class="mark-volume">
-                    <h1>$458,299.00</h1>
-                </td>
-            </tr>
-
-            <tr class="hide_mbl">
-                <td class="mark-pair">
-                    <img src="https://ncx.cx/images/tusd.svg" alt="coin-logo" />
-                    <h1>${TUSD_ID}</h1>
-                </td>
-                <td class="mark-price">
-                    <h1>${TUSD_Price}</h1>
-                    <p>≈$${TUSD_Price}</p>
-                </td>
-                <td class="mark-high">
-                    <h1>${TUSD_High}</h1>
-                    <p>≈$${TUSD_High}</p>
-                </td>
-                <td class="mark-low">
-                    <h1>${TUSD_Low}</h1>
-                    <p>≈$${TUSD_Low}</p>
-                </td>
-                <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/tusd_usdt.png" alt="graph" />
-                </td>
-                <td class="mark-volume">
-                    <h1>$587,982.00</h1>
+                    <h1>$1,123,32.00</h1>
                 </td>
             </tr>
             `;

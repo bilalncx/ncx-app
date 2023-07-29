@@ -30,6 +30,7 @@ import HomeCardVideo from "../components/homepage/HomeCardBox/homecardvideo";
 import ImageScrollHome from "../components/homepage/Imagescroll/scroll";
 import MartFlyer from "../components/homepage/3rdmarketsection/market-flyer";
 import HomeMobilePartner from "../components/homepage/banner/partner";
+import HomeNewMarkets from '../components/homepage/3rdmarketsection/markets';
 
 
 function MainHome()
@@ -52,6 +53,7 @@ function MainHome()
 
                 <div className="container">
                     <NCXNewHomeMarketSection />
+                    {/* <HomeNewMarkets /> */}
                 </div>
             </div>
 
