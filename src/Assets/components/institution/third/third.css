@@ -1,4 +1,4 @@
-div#trading_solutions {
+/* div#trading_solutions {
     position: relative;
     min-height: 770px;
     max-height: 1000px;
@@ -13,10 +13,7 @@ div#trading_solutions .ncx-otc p{
     color: #000000;
     border-color: #000000;
 }
-/* #trading_solutions .backgrdound-video{
-    min-height: 770px;
-    max-height: 880px;
-} */
+
 #trading_solutions .container {
     position: relative;
     top: 0;
@@ -43,4 +40,4 @@ div#trading_solutions .ncx-otc p{
 }
 #ncx_institution details[open] .contt{
     padding-top: 0px !important;
-}
+} */

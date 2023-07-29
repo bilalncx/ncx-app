@@ -1,4 +1,4 @@
-div#solutions_institutional {
+/* div#solutions_institutional {
     background: #FFFFFF;
     background-color: #FFFFFF;
     padding-top: 0px !important;
@@ -14,9 +14,6 @@ div#solutions_institutional {
     font-family: 'alliance-no-2-regular' !important;
     font-size: 25px !important;
 }
-/* #solutions_institutional .OTCsect.second.row .col:last-child h2 {
-    min-height: 59.4px;
-} */
 #solutions_institutional .OTCsect.second.row .col .otc-line{
     height: 290px !important
 }
@@ -32,9 +29,6 @@ div#solutions_institutional {
 .OTCsect.third.row.advantages3 {
     padding-top: 100px !important;
 }
-/* #solutions_institutional .advantages2 .col:nth-child(2) h2, #solutions_institutional .advantages2 .col:nth-child(3) h2{
-    min-height: 59.4px;
-} */
 #solutions_institutional .otctxt p{
     color: #616262 !important;
     min-height: unset;
@@ -93,4 +87,4 @@ div#solutions_institutional {
         margin-left: 0px !important;
         font-family: 'urbanist-regular' !important;
     }
-}
+} */

@@ -44,7 +44,7 @@ function DataandAnalytics()
                 </div>
             </div> */}
 
-            <div id="data__ana" className="why__choose__Otc">
+            {/* <div id="data__ana" className="why__choose__Otc">
                 <div className="container">
                     <div className="ncx-otc">
                         <img className="ncx-whitelogo" src={NCXLogo} alt="ncx-whitelogo" />
@@ -83,7 +83,7 @@ function DataandAnalytics()
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 }

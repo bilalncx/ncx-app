@@ -1,15 +1,7 @@
-div#exclusive_rates {
+/* div#exclusive_rates {
     position: relative;
     padding: 80px 0px;
 }
-/* #exclusive_rates .container {
-    position: relative;
-    top: 0;
-    width: 100% !important;
-    left: 0;
-    right: 0;
-    padding: 80px 0px 80px 0px;
-} */
 h1.exclusive {
     font-size: 34px;
     color: #000000;
@@ -66,4 +58,4 @@ h1.exclusive {
 .exclusive_rates .col:hover{
     border: 1px solid #A062FB !important;
     cursor: pointer;
-}
+} */

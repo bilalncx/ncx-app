@@ -11,6 +11,7 @@ import SixthSection from '../../components/institution/sixth/six';
 import SeventhSection from '../../components/institution/seventh/seven';
 import TradingAdvantage from '../../components/aboutus/advantages/trading';
 import InstitutionMobile from '../../components/institution/mobile/mobile';
+import InstitutionDesktop from '../../components/institution/inst-files/desktop'
 
 function NCXInstitution()
 {
@@ -21,7 +22,9 @@ function NCXInstitution()
 
             <div className="inst_desktop">
 
-                <FirstSection />
+                <InstitutionDesktop />
+
+                {/* <FirstSection />
 
                 <SecondSection />
 
@@ -33,7 +36,7 @@ function NCXInstitution()
 
                 <SixthSection />
 
-                <SeventhSection />
+                <SeventhSection /> */}
 
             </div>
 
