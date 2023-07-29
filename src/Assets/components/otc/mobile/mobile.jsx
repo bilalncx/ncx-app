@@ -1,5 +1,5 @@
 import React from "react";
-import '../../institution/mobile/mobile.css';
+import '../../institution/inst-files/mobile.css';
 import Button from "@mui/material/Button";
 import { useTranslation } from "react-i18next";
 import HomeMobilePartner from "../../homepage/banner/partner";

@@ -1,5 +1,5 @@
 import React from "react";
-import '../../institution/mobile/mobile.css';
+import '../../institution/inst-files/mobile.css';
 import { useTranslation } from "react-i18next";
 import CountUp from 'react-countup';
 import {ReactComponent as VVector} from '../../../images/v-vector.svg';
