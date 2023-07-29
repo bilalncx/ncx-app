@@ -137,7 +137,7 @@ function HomePageMarketSection()
 
             <tr>
                 <td class="mark-pair">
-                    <img src=${Coin2Image} alt="coin-logo" />
+                    <img src="https://res.cloudinary.com/daskmpyeg/image/upload/v1674490251/coins/eth_ykylbq.png" alt="coin-logo" />
                     <h1>${Coin2ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -153,16 +153,16 @@ function HomePageMarketSection()
                     <p>≈$${Coin2Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/btc_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$1,310,484.00</h1>
                 </td>
             </tr>
             
             <tr>
                 <td class="mark-pair">
-                    <img src=${Coin3Image} alt="coin-logo" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689920132/usdt_skcvw0.svg" alt="coin-logo" />
                     <h1>${Coin3ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -178,16 +178,16 @@ function HomePageMarketSection()
                     <p>≈$${Coin3Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/usdt_usdc.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$983,842.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src=${Coin4Image} alt="coin-logo" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689918232/xrp_dvuz4k.svg" alt="coin-logo" />
                     <h1>${Coin4ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -203,10 +203,10 @@ function HomePageMarketSection()
                     <p>≈$${Coin4Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/xrp_btc.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$458,321.00</h1>
                 </td>
             </tr>
 
@@ -228,10 +228,10 @@ function HomePageMarketSection()
                     <p>≈$${Coin5Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/bnb_usdt.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$1,215,789.00</h1>
                 </td>
             </tr>
 
@@ -253,10 +253,10 @@ function HomePageMarketSection()
                     <p>≈$${Coin6Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/usdc_usd.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$1,108,348.00</h1>
                 </td>
             </tr>
 
@@ -278,16 +278,16 @@ function HomePageMarketSection()
                     <p>≈$${Coin7Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/doge_usdt.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$557,839.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src=${Coin8Image} alt="coin-logo" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689918262/ada_pzfne4.svg" alt="coin-logo" />
                     <h1>${Coin8ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -303,10 +303,10 @@ function HomePageMarketSection()
                     <p>≈$${Coin8Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689576578/ada_usdt_qqvmxu.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$157,509,328</h1>
                 </td>
             </tr>
 
@@ -328,16 +328,16 @@ function HomePageMarketSection()
                     <p>≈$${Coin9Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689576754/sol_usdt_owsb9b.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$350,779,668</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src=${Coin10Image} alt="coin-logo" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689918359/tron_yl0zgq.svg" alt="coin-logo" />
                     <h1>${Coin10ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -353,10 +353,10 @@ function HomePageMarketSection()
                     <p>≈$${Coin10Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/trx_usdt.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$489,375.00</h1>
                 </td>
             </tr>
 
@@ -378,10 +378,10 @@ function HomePageMarketSection()
                     <p>≈$${Coin11Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/ltc_usdt.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$311,217.00</h1>
                 </td>
             </tr>
 
@@ -403,16 +403,16 @@ function HomePageMarketSection()
                     <p>≈$${Coin12Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://ncx.cx/images/new-graphs/matic_usdt.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$319,375.00</h1>
                 </td>
             </tr>
 
             <tr>
                 <td class="mark-pair">
-                    <img src=${Coin13Image} alt="coin-logo" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689921541/dot_ld7irl.svg" alt="coin-logo" />
                     <h1>${Coin13ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -428,10 +428,10 @@ function HomePageMarketSection()
                     <p>≈$${Coin13Low}</p>
                 </td>
                 <td class="mark-graph">
-                    <img src="https://ncx.cx/images/new-graphs/eth_usd.png" alt="graph" />
+                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689576790/dot_usdt_kva1vp.png" alt="graph" />
                 </td>
                 <td class="mark-volume">
-                    <h1>$1,123,32.00</h1>
+                    <h1>$84,086,130</h1>
                 </td>
             </tr>
             `;
