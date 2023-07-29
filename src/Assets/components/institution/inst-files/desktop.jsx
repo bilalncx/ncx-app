@@ -16,7 +16,7 @@ function AboutDesktopVersion()
                     <div className="container ml__vwxf">
                         <div className="insse">
                             <h1>{t("ncx_institutional_services_for_commercial_entities_funds_brokerages_xchange_hnwi")}</h1>
-                            <Button href="https://exchange.ncx.cx/register" target="_blank" rel="noreferrer">{t("sign_up")}</Button>
+                            <Button href="mailto: support@ncx.cx">{t("apply")}</Button>
                         </div>
                         <div className="fvsd__v">
                             <video 
