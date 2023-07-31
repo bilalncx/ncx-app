@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/614" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690544455/ncx-blog-967_ogjnah.webp"/></div>
-                                    <p className="dat"> July 28, 2023 - 1:37 PM</p>
-                                    <h1>Global Bond Markets Creak as Bank of Japan Eases YCC Policy</h1>
-                                    <p>(Bloomberg) -- A shift in the last global anchor of low yields has sent a shiver down the spines of bond bulls worldwide.</p>
+                            <a href="/post-markets/618" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690803814/ncx-blog-974_v5m2eu.webp"/></div>
+                                    <p className="dat"> July 31, 2023 - 11:07 AM</p>
+                                    <h1>Panasonic Q1 profit jumps, maintains FY forecast</h1>
+                                    <p>TOKYO (Reuters) - Japan's Panasonic Holdings posted a 42% rise in first quarter profit on Monday, buoyed by a weaker yen and stronger sales in its automotive and energy segments, while it stuck to its full-year outlook.</p>
                                 </a>
-                            <a href="/post-crypto/625" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690472647/ncx-blog-956_rlptvy.png" alt="art_pic"/></div>
-                                    <p className="dat">   July 27, 2023</p>
-                                    <h1>MATIC falls to key 50% Fib support level – Is a recovery likely?</h1>
-                                    <p>Polygon [MATIC] failed in its attempt to flip its price action bullish on the higher timeframes. A 21% drop from the $0.8923 price level took MATIC to the 50% Fib level. The extension of the retracement saw MATIC erase its gains from the price pump on 13 July.</p>
+                            <a href="/post-crypto/628" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690793490/ncx-blog-969_plqpzt.png" alt="art_pic"/></div>
+                                    <p className="dat">   July 31, 2023</p>
+                                    <h1>Optimism: How Worldcoin, Coinbase helped to lure in users to the protocol</h1>
+                                    <p>Interest in Optimism soared as TVL neared $1 billion. However, DEX volumes declined, signaling room for more growth in the DeFi sector.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row"> 
-                            <a href="/post-crypto/624" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690472079/ncx-blog-955_qqz63g.png" alt="art_pic"/></div>
-                                    <p className="dat">  July 27, 2023</p>
-                                    <h1>Has USDT managed to restore investor confidence? Data suggests…</h1>
-                                    <p>USDT extended its dominance in the stablecoin market. But as Binance faced BUSD’s extinction, it agreed to offer another option.</p>
+                            <a href="/post-crypto/629" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690797639/ncx-blog-970_v2goh7.png" alt="art_pic"/></div>
+                                    <p className="dat">  July 31, 2023</p>
+                                    <h1>BNB network remains resilient despite market uncertainty</h1>
+                                    <p>Activity on the BNBchain remains consistent. However, risky dApps and bearish sentiment may act as hurdles to BNB’s growth.</p>
                                 </a>
-                            <a href="/post-crypto/626" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690473227/ncx-blog-957_xlctxu.png" alt="art_pic"/></div>
-                                    <p className="dat">  July 27, 2023</p>
-                                    <h1>Will DOGE outplay SHIB, PEPE, and FLOKI on this front?</h1>
-                                    <p>Dogecoin observes a rally as hype around X and Twitter begins to rise. Other memecoins such as SHIBA, FLOKI and PEPE fail to see the same growth.</p>
+                            <a href="/post-crypto/627" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690792884/ncx-blog-968_z56hvu.png" alt="art_pic"/></div>
+                                    <p className="dat">  July 30, 2023</p>
+                                    <h1>Uniswap: How high can the bullish streak go?</h1>
+                                    <p>Uniswap’s recovery hit Q2 price ceiling but overall price action was bullish – Which way will price sway?</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/614" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690544455/ncx-blog-967_ogjnah.webp" alt="art_pic"/></div>
-                                    <p className="dat">  July 28, 2023 - 1:37 PM</p>
-                                    <h1>Global Bond Markets Creak as Bank of Japan Eases YCC Policy</h1>
-                                    <p>(Bloomberg) -- A shift in the last global anchor of low yields has sent a shiver down the spines of bond bulls worldwide.</p>
+                            <a href="/post-markets/617" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690803603/ncx-blog-973_ovbkmm.webp" alt="art_pic"/></div>
+                                    <p className="dat">  July 31, 2023 - 9:30 AM</p>
+                                    <h1>Goldman, Morgan Stanley See BOJ Tweak Boosting Japan Stocks</h1>
+                                    <p>(Bloomberg) -- Strategists at Morgan Stanley and Goldman Sachs Group Inc. see the Bank of Japan’s tweak of yield-curve control as providing clarity that will support further gains in the nation’s equity market.</p>
                                 </a>
-                            <a href="/post-markets/613" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690543882/ncx-blog-966_m5cnd8.webp" alt="art_pic"/></div>
-                                    <p className="dat">   July 28, 2023 - 1:00 PM</p>
-                                    <h1>European Stocks Track Longest Weekly Winning Streak Since April</h1>
-                                    <p>(Bloomberg) -- European stocks were lower on Friday, although still on track to complete their third straight weekly gain in the busiest period for earnings so far this season.</p>
+                            <a href="/post-markets/616" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690803374/ncx-blog-972_moosem.webp" alt="art_pic"/></div>
+                                    <p className="dat">   July 31, 2023 - 8:39 AM</p>
+                                    <h1>Stock market today: European shares open mixed after Asia rallies on hopes for Chinese stimulus</h1>
+                                    <p>BANGKOK (AP) — Shares were mixed in Europe after most Asian markets logged gains Monday on hopes for more stimulus from Beijing for the sluggish Chinese economy.</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br"> 
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
-                            <a href="/post-markets/612" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690519927/ncx-blog-959_z7bdp8.webp" alt="art_pic"/></div>
-                                <p className="dat"> July 27, 2023 - 12:58 PM</p>
-                                <h1>Meta rallies as AI-powered ad sales drive monster forecast</h1>
-                                <p>(Reuters) -Meta shares surged nearly 8% on Thursday as a rosy revenue forecast showed that artificial intelligence was helping the social media giant boost engagement and ad sales even in an uncertain economy.</p>
+                            <a href="/post-markets/615" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690802068/ncx-blog-971_d6ld1i.webp" alt="art_pic"/></div>
+                                <p className="dat"> July 30, 2023 - 3:00 PM</p>
+                                <h1>Apple, Amazon, Starbucks to Report in Packed Earnings Week</h1>
+                                <p>During the week, 170 S&P 500 companies, including four Dow Jones Industrial Average components, are scheduled to report. So far, 51% of S&P 500 companies have reported their earnings, according to FactSet.</p>
                             </a>
-                            <a href="/post-markets/611" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690519411/ncx-blog-958_ist2tk.webp" alt="art_pic"/></div>
-                                <p className="dat">   July 26, 2023 - 8:28 PM</p>
-                                <h1>J.P. Morgan Recommends These 2 ‘Strong Buy’ Stocks — Including One With 90% Upside Potential</h1>
-                                <p>Despite the market’s big comeback in 2023, there is still one issue keeping positive sentiment in check; the prospect of a looming recession remains real. Nevertheless, J.P. Morgan Wealth Management’s Global Investment</p>
+                            <a href="/post-markets/614" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690544455/ncx-blog-967_ogjnah.webp" alt="art_pic"/></div>
+                                <p className="dat">   July 28, 2023 - 1:37 PM</p>
+                                <h1>Global Bond Markets Creak as Bank of Japan Eases YCC Policy</h1>
+                                <p>(Bloomberg) -- A shift in the last global anchor of low yields has sent a shiver down the spines of bond bulls worldwide.</p>
                             </a>
-                            <a href="/post-forex/593" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690468842/ncx-blog-949_rtdm7t.webp"/></div>
-                                <p className="dat"> July 26, 2023 - 5:15 PM</p>
-                                <h1>EUR/USD Forecast – Euro Attempts a Bounce Waiting for Powell</h1>
-                                <p>The euro has rallied a bit during the trading session on Wednesday as we wait for the Federal Reserve announcement later in the day. That being said, the market did stabilize a bit during the Tuesday session,</p>
+                            <a href="/post-markets/613" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690543882/ncx-blog-966_m5cnd8.webp"/></div>
+                                <p className="dat"> July 28, 2023 - 1:00 PM</p>
+                                <h1>European Stocks Track Longest Weekly Winning Streak Since April</h1>
+                                <p>(Bloomberg) -- European stocks were lower on Friday, although still on track to complete their third straight weekly gain in the busiest period for earnings so far this season.</p>
                             </a>
-                            <a href="/post-crypto/622" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690470911/ncx-blog-953_xoc8ix.jpg" alt="art_pic"/></div>
-                                <p className="dat">   July 26, 2023</p>
-                                <h1>Bitcoin whales in a predicament as prices hover near $30k: To buy or to sell?</h1>
-                                <p>As BTC struggles to cross over the $30,000 price mark, some whales have intensified accumulation, while others have reduced their risk exposure.</p>
+                            <a href="/post-crypto/626" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690473227/ncx-blog-957_xlctxu.png" alt="art_pic"/></div>
+                                <p className="dat">   July 27, 2023</p>
+                                <h1>Will DOGE outplay SHIB, PEPE, and FLOKI on this front?</h1>
+                                <p>Dogecoin observes a rally as hype around X and Twitter begins to rise. Other memecoins such as SHIBA, FLOKI and PEPE fail to see the same growth.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
