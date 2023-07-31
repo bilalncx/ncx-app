@@ -1,5 +1,107 @@
 const data = [
   {
+    id: 629,
+    title: 'BNB network remains resilient despite market uncertainty',
+    category: 'Crypto',
+    subCategory: ['BNB', 'Market', 'Network'],
+    description: <div className="blog-desc">
+      <p>Activity on the BNBchain remains consistent. However, risky dApps and bearish sentiment may act as hurdles to BNB’s growth.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690797639/ncx-blog-970_v2goh7.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Activity on the BNBchain remains consistent. However, risky dApps and bearish sentiment may act as hurdles to BNB’s growth.</p>
+      <ul>
+        <li>Active addresses on the BNBchain remain high despite market volatility.</li>
+        <li>The price of BNB recovered as volume increased.</li>
+      </ul>
+    	<p>Binance’s [BNB] native BNB token was among the many that was impacted severely by the SEC lawsuit against the Binance exchange. However, despite all the volatility and uncertainty, the activity on the BNB chain remained high.</p>	
+    	<h3>BNB remains strong</h3>
+      <p>According to BNB’s recent data, the number of active users on the network was 4.02 million. These active users made transactions adding up to 3.67 million over the last week. One of the reasons how BNB was able to sustain users on its protocol was through its low gas fees of 0.00037 BNB.</p>
+      <p>However, despite the positive momentum on the BNBchain network, the progress of the protocol could be hindered by risky dApps.</p>	
+      <h3>Some suspicious activity</h3>
+    	<p>This week, DappBay’s Red Alarm flagged over 35 risky dApps for BNB. Unsafe dApps like -Staker Cafe, Okxo, Pepe Girl, Shiba Reward, and Maker Lending were among those identified, posing potential risks for users.</p>
+      <p>The identification of over 35 risky dApps on the BNB network by DappBay’s Red Alarm has the potential to impact BNB in several ways. Firstly, users’ trust and confidence in the BNB ecosystem may be undermined due to the presence of unsafe dApps. This could result in users being more cautious when using dApps, affecting overall adoption rates.</p>
+      <p>Moreover, the negative publicity surrounding risky dApps might influence investor sentiment, leading to fluctuations in BNB’s token value. Additionally, increased attention to these dApps could attract regulatory scrutiny, potentially impacting BNB’s standing in the market.</p>
+      <p>Despite the increase in risky dApps on the BNB chain, the protocol witnessed some positives last quarter. BNB’s data revealed a significant rise in market share, climbing from 38% at the start of Q2 to 45% by quarter-end. This performance emphasized the dominance of BNB Chain and the strong trust developers and users placed in its infrastructure.</p>
+      <h3>How is BNB doing?</h3>
+      <p>Along with the protocol, the price of the BNB token also witnessed some recovery. The volume of BNB grew in tandem with its price as well. At press time, the token was trading at $242.33.</p>
+    </div>
+  },
+  {
+    id: 628,
+    title: 'Optimism: How Worldcoin, Coinbase helped to lure in users to the protocol',
+    category: 'Crypto',
+    subCategory: ['Worldcoin', 'Coinbase', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Interest in Optimism soared as TVL neared $1 billion. However, DEX volumes declined, signaling room for more growth in the DeFi sector.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690793490/ncx-blog-969_plqpzt.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Interest in Optimism soared as TVL neared $1 billion. However, DEX volumes declined, signaling room for more growth in the DeFi sector.</p>
+      <ul>
+        <li>Optimism’s TVL surged and was approaching the $1 billion mark.</li>
+        <li>DEX volumes on Optimism declined, indicating the need for improvement.</li>
+      </ul>
+    	<p>Optimism[OP] has been slowly gaining momentum as activity on its protocol spiked. One reason for this could be the interest in Worldcoin, which led many investors and users to flock to the network.</p>	
+    	<h3>Adding the BASE</h3>
+      <p>However, it wasn’t just Worldcoin that was bringing activity to Optimism. Coinbase also played a great role. Earlier this week, Coinbase’s newly developed chain called BASE, which is built on top of the OP Stack, experienced a significant surge in deployed contracts as their development network (devnet) went live.</p>
+      <p>During the week of its launch, there was a spike in the number of newly deployed contracts. Interestingly, this figure increased by an impressive 400% in a week. This surge in deployed contracts showcased the growing activity and adoption of Coinbase’s BASE chain following its recent launch on the devnet.</p>
+      <p>Due to the high activity on Optimims, other dApps on the protocol also witnessed significant growth.</p>
+      <p>The renewed interest in Optimims over the last month has directly benefited Velodrome Finance, a central trading and liquidity marketplace on Optimism. During this period, Velodrome Finance experienced a remarkable increase in market capitalization, rising by 63.8%. Additionally, the fees generated on the platform surged impressively by 364.7%.</p>
+      <p>Despite these significant gains, VelodromeFi was still approximately $100 million away from reaching its all-time high (ATH). Remarkably, the platform was currently generating even higher fees, showcasing its potential for further growth and profitability in this market environment.</p>
+      <h3>Progress made on the protocol</h3>	
+      <p>As a result of these factors, Optimism’s Total Value Locked (TVL) experienced significant growth. Over the past few weeks, Optimism’s TVL surpassed the $900 million milestone and was gradually approaching the $1 billion mark. However, despite the upward trend in TVL, the volumes of decentralized exchange (DEX) on Optimism have been declining.</p>
+      <p>This decline in DEX volumes suggests that the protocol still has room for improvement in the DeFi sector. While Optimism’s TVL has been on the rise, addressing the challenges faced by DEX volumes will be crucial to further enhancing its position in the decentralized finance space.</p>
+    	<p>Coming to the OP token, it was trading at $1.58 and had appreciated by 5.83% in the last 24 hours at press time.</p>
+    </div>
+  },
+  {
+    id: 627,
+    title: 'Uniswap: How high can the bullish streak go?',
+    category: 'Crypto',
+    subCategory: ['Uniswap', 'bullish', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Uniswap’s recovery hit Q2 price ceiling but overall price action was bullish – Which way will price sway?</p>
+    </div>,
+    authorName: 'Benjamin Njiri',
+    authorurl: 'https://ambcrypto.com/author/benjamin-njiri/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 30, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690792884/ncx-blog-968_z56hvu.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Uniswap’s recovery hit Q2 price ceiling but overall price action was bullish – Which way will price sway?</p>
+      <ul>
+        <li>The trendline support was respected and validated.</li>
+        <li>Open Interest rates surged; short positions discouraged.</li>
+      </ul>
+    	<p>Uniswap [UNI] has maintained its recovery despite the recent muted Bitcoin [BTC] price performance. The native DEX altcoin has rallied over 60% from a mid-June low of $3.8 to over $6.0 at the time of writing. But the price action inched closer to its Q2 2023 price ceiling of $6.5. </p>	
+    	<p>The DEX platform recently received financial backing to improve its v4 protocol to remain dominant.</p>	
+      <h3>Will the trendline support hold?</h3>
+    	<p>So far, the trendline support has been respected and validated. It has acted as a crucial support since mid-June. The retest of the confluence of the trendline support and the bullish order block of $5.68 – $5.98 (cyan) offered buying opportunities, with a target of $6.45.</p>
+      <p>Although a successful retest of $6.5 could offer over 10% gains, the target ($6.5) is a crucial resistance level and Q2 price ceiling.</p>
+      <p>Given the weak BTC, 29.5k, a price rejection at the price ceiling could set UNI to head to the trendline support again. The trendline support could be a bid level for late bulls again. Above the Q2 price ceiling, the next resistance level is $6.9.</p>
+      <p>Conversely, an extended pullback below the trendline support and the bullish OB will flip the bias to bearish.</p>
+      <p>The RSI and CMF were bullish, reinforcing strong buying pressure and capital inflows to the UNI market.</p>
+      <h3>Open Interest rates surged; shorts discouraged</h3>
+      <p>According to Coinglass, there was a surge in Open Interest (OI) rates from $50 million to $60 million as UNI bounced from the trendline support. The metric confirms the bullish future market bias over the same period.</p>
+      <p>In addition, more short positions suffered liquidations, as illustrated by the long red bar graphs on UNI Total Liquidation Chart. It further confirms the bullish bias in the futures market.</p>
+    </div>
+  },
+  {
     id: 626,
     title: 'Will DOGE outplay SHIB, PEPE, and FLOKI on this front?',
     category: 'Crypto',

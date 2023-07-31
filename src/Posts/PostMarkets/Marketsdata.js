@@ -1,5 +1,126 @@
 const data = [
   {
+    id: 618,
+    title: 'Panasonic Q1 profit jumps, maintains FY forecast',
+    category: 'Markets',
+    subCategory: ['Panasonic', 'Profits', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>TOKYO (Reuters) - Japan's Panasonic Holdings posted a 42% rise in first quarter profit on Monday, buoyed by a weaker yen and stronger sales in its automotive and energy segments, while it stuck to its full-year outlook.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 11:07 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690803814/ncx-blog-974_v5m2eu.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>TOKYO (Reuters) - Japan's Panasonic Holdings posted a 42% rise in first quarter profit on Monday, buoyed by a weaker yen and stronger sales in its automotive and energy segments, while it stuck to its full-year outlook.</p>
+    	<p>Panasonic, whose energy unit makes batteries for Tesla Inc, said operating profit came to 90.37 billion yen ($637 million) in the three months to end-June, versus the 91.18 billion yen average forecast in a poll of 11 analysts by Refinitiv.</p>	
+    	<p>Its battery unit, Panasonic Energy, and Subaru said they have started talks to establish a battery supply partnership for electric vehicles that would supply the Japanese automaker with cylindrical lithium-ion batteries.</p>	
+    	<p>Panasonic, whose products span consumer electronics and delivery robots to sensing cameras and self-checkout systems, maintained its full-year forecast at 430 billion yen.</p>
+      <p>That compared to a 413.96 billion yen average profit forecast in a poll of 20 analysts by Refinitiv.</p>
+      <p>Last month, the chief technology officer of Panasonic's battery arm told Reuters the unit will need to build four more factories to reach its target for a sharp boost in annual capacity of EV batteries by 2031.</p>
+      <p>($1 = 141.9500 yen)</p>
+      <p>(Reporting by Daniel Leussink; Editing by David Dolan)</p>
+    </div>
+  },
+  {
+    id: 617,
+    title: 'Goldman, Morgan Stanley See BOJ Tweak Boosting Japan Stocks',
+    category: 'Markets',
+    subCategory: ['Goldman', 'Morgan', 'BOJ'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Strategists at Morgan Stanley and Goldman Sachs Group Inc. see the Bank of Japan’s tweak of yield-curve control as providing clarity that will support further gains in the nation’s equity market.</p>
+    </div>,
+    authorName: 'Winnie Hsu and Toshiro Hasegawa',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 9:30 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690803603/ncx-blog-973_ovbkmm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Strategists at Morgan Stanley and Goldman Sachs Group Inc. see the Bank of Japan’s tweak of yield-curve control as providing clarity that will support further gains in the nation’s equity market.</p>
+    	<p>Opportunities are “now even clearer,” Morgan Stanley strategists including Daniel Blake wrote after the the BOJ adjustment on Friday to allow the yield on 10-year bonds to trade as high as 1%. The central bank has “successfully added policy flexibility without signaling a tightening cycle,” they added.</p>	
+    	<p>Goldman’s Bruce Kirk and Kazunori Tatebe said the “BOJ overhang” appears to have been removed and that investors are likely to broaden their interests across sectors while selectively increasing weightings of large-cap stocks. “The combination of a stabilizing yen and improving corporate governance reform momentum could encourage more foreign investor inflows,” they wrote.</p>	
+    	<p>Underscoring the upbeat mood, the Topix rallied as much as 1.7% Monday, extending its advance this year to about 22%. The narrower Nikkei 225 gauge was also up and has surged 27%, outperforming many of its global peers as signs of stable inflation reinvigorate Japanese markets and investors including Warren Buffett boost their equity stakes.</p>
+      <p>Japan’s bank stocks extended gains Monday, but at a slower pace than the broader market. They had rallied Friday on optimism that profitability would improve as interest rates rise in Japan. Still, Morgan Stanley noted that sustained monetary tightening by the BOJ over next 12 months is unlikely and that further gains in banks may be limited.</p>
+      <p>Meanwhile, Citigroup Inc.’s Ryota Sakagami wrote that the upside and downside for Japanese stocks be limited because of the balancing impact of inflows of short-term funds to Japan potentially peaking while the US economy remains strong.</p>
+    </div>
+  },
+  {
+    id: 616,
+    title: 'Stock market today: European shares open mixed after Asia rallies on hopes for Chinese stimulus',
+    category: 'Markets',
+    subCategory: ['Stock', 'European', 'Asia'],
+    description: <div className="blog-desc">
+      <p>BANGKOK (AP) — Shares were mixed in Europe after most Asian markets logged gains Monday on hopes for more stimulus from Beijing for the sluggish Chinese economy.</p>
+    </div>,
+    authorName: 'ELAINE KURTENBACH',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 8:39 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690803374/ncx-blog-972_moosem.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BANGKOK (AP) — Shares were mixed in Europe after most Asian markets logged gains Monday on hopes for more stimulus from Beijing for the sluggish Chinese economy.</p>
+	    <p>Worries over China's slowdown have tempered optimism recently over the possibility that inflation is cooling enough to get the Federal Reserve to stop hiking interest rates.</p>	
+	    <p>Adding to pressure on the ruling Communist Party to reverse an economic slowdown, Chinese factory activity contracted in July as export orders shrank, a survey showed,</p>	
+	    <p>A purchasing managers’ index issued by the national statistics agency and an industry group improved to 49.3 from June’s 49 on a 100-point scale but was below the 50-point level that shows activity contracting.</p>
+      <p>“The PMI surveys suggest that China’s economic recovery continued to lose momentum in July,” Julian Evans-Pritchard of Capital Economics said in a commentary. “Looking forward, policy support is needed to prevent China’s economy from slipping into a recession, not least because external headwinds look set to persist for a while longer."</p>
+      <p>Germany's DAX was up 0.1% at 16,481.74, while the CAC 40 in Paris gained 0.2% to 7,492.95. Britain's FTSE 100 gave up 0.1% to 7,683.50. The futures for the S&P 500 and Dow Jones Industrial Average were nearly unchanged.</p>
+      <p>In Asian trading, the Hang Seng in Hong Kong rose 0.8% to 20,078.94, while the Shanghai Composite index advanced 0.5% to 3,291.04.</p>
+      <p>Tokyo's Nikkei 225 index closed 1.3% higher at 33,172.22. In Seoul, the Kospi climbed 0.9% to 2,632.58.</p>
+      <p>Australia's S&P/ASX 200 edged 0.1% higher, to 7,410.40 and the SET in Bangkok was up 0.8%. The Sensex in India rose 0.4% to 66,419.66.</p>
+      <p>Wall Street closed out another winning week on Friday, as the S&P 500 rose 1%. The Dow added 0.5% and the Nasdaq climbed 1.9% as Big Tech stocks led the market.</p>
+      <p>If inflation is cooling enough to get the Federal Reserve to stop hiking interest rates, that might allow the economy to continue growing and avoid a long-predicted recession.</p>
+      <p>Though critics say the stock market’s rally may have gone too far, too fast, hopes for a halt to rate hikes helped technology stocks and others seen as big beneficiaries from easier rates to rally.</p>
+      <p>A report on Friday showed the inflation measure the Fed prefers to use slowed last month by a touch more than expected. Data also showed total compensation for workers rose less than expected during the spring. While that’s discouraging for workers, investors see it adding less upward pressure on inflation.</p>
+      <p>The hope among traders is that the slowdown in inflation means Wednesday's hike to interest rates by the Federal Reserve will be the final one of this cycle. The federal funds rate has leaped to a level between 5.25% and 5.50%, up from virtually zero early last year. High interest rates work to lower inflation by slowing the entire economy and hurting prices for stocks and other investments.</p>
+      <p>In other trading Monday, U.S. benchmark crude oil gave up 5 cents to $80.53 a barrel in electronic trading on the New York Mercantile Exchange. It gained 49 cents to $80.58 on Friday.</p>
+      <p>Brent crude, the international standard, shed 6 cents to $84.35 a barrel.</p>
+      <p>The U.S. dollar rose to 142.43 Japanese yen from Friday's 141.01 yen. The euro was at $1.1021, up from $1.1019.</p>
+      <p>AP Business Writer Joe McDonald in Beijing contributed.</p>
+    </div>
+  },
+  {
+    id: 615,
+    title: 'Apple, Amazon, Starbucks to Report in Packed Earnings Week',
+    category: 'Markets',
+    subCategory: ['Apple', 'Amazon', 'Starbucks'],
+    description: <div className="blog-desc">
+      <p>During the week, 170 S&P 500 companies, including four Dow Jones Industrial Average components, are scheduled to report. So far, 51% of S&P 500 companies have reported their earnings, according to FactSet.</p>
+    </div>,
+    authorName: 'Ben Glickman',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 30, 2023 - 3:00 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690802068/ncx-blog-971_d6ld1i.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>During the week, 170 S&P 500 companies, including four Dow Jones Industrial Average components, are scheduled to report. So far, 51% of S&P 500 companies have reported their earnings, according to FactSet.</p>
+    	<p>Earnings are on pace to fall by 7.3% compared with a year ago, which would be the largest drop since the second quarter of 2020, according to FactSet.</p>	
+    	<p>The expected quarterly updates come after the Fed raised interest rates to a 22-year high on Wednesday, resuming a steady stream of rate hikes that paused in June. Officials have also signaled further increases may be on the way. Meanwhile, inflation has been tamed from its peaks last year, and economic growth has accelerated over the past three months.</p>	
+    	<p>Consumer spending has cooled but continues to grow. Spending by American consumers rose 1.6% in the second quarter, helping to lift the U.S. economy, but more slowly than the 4.2% rise in the first quarter.</p>
+      <p>“Our data did not indicate any behavior change across consumer segments” in the second quarter, Visa Chief Financial Officer Vasant Prabhu said Tuesday. “The consumer has remained resilient so far.” </p>
+      <p>PayPal Holdings reporting results Wednesday, and Block, reporting Thursday, will add color to that picture, showing how online payments have fared.</p>
+      <p>Apple will report Thursday after a mixed week for big tech, in which Microsoft said its sales growth slowed, while Google-parent Alphabet posted its second quarter of accelerating growth.</p>
+      <p>E-commerce juggernaut Amazon on Thursday and Shopify on Wednesday will indicate how aggressively consumers have been buying goods online. Online shopping has grown faster than retail overall, despite moderating since its rapid rise during the pandemic.</p>
+      <p>Starbucks, reporting Tuesday, and Yum! Brands on Wednesday will offer a sign of how much consumers will foot the bill for higher prices for their favorite brands. Yum has ramped up discount offerings at its KFC and Taco Bell chains to attract diners who want to save money. Starbucks, meanwhile, has said customers are spending extra on syrup, foams and add-ons to their drinks, and the company doesn’t need to discount its offerings.</p>
+      <p>Uber on Tuesday and DoorDash on Wednesday will paint a picture of consumer demand for deliveries. Delivery businesses surged during the pandemic, but growth has since cooled as more customers go out to eat and look to save money. Still, last quarter, users at DoorDash and UberEats continued to stomach higher food prices and stuck with delivery apps, sending the companies’ revenue higher.</p>
+      <p>Travel is still booming, and a flurry of earnings from hotel and accommodation chains will give perspective on how they are coping with high demand, including Marriott International on Tuesday as well as Airbnb, Booking Holdings and Hyatt on Thursday.</p>
+      <p>Last week, hotel owner Hilton Worldwide Holdings and cruise operator Royal Caribbean each said travel demand remains high despite higher prices. “As we increase pricing, we’re not really seeing that point where price is impacting our demand,” Royal Caribbean Chief Executive Jason Liberty said.</p>
+      <p>Kellogg and Kraft Heinz will show the state of often-volatile food prices. In June, prices of food consumed at home were flat, and have dropped in two of the past four months, according to the Bureau of Labor Statistics. In the past week, consumer-product makers Coca-Cola and Unilever reported the benefits of higher prices but noted that consumers are becoming more cost-conscious.</p>
+      <p>Warner Bros. Discovery reports on Thursday, and Cinemark Holdings on Friday. The two companies will shed light on the benefits of “Barbie,” which has given a jolt to the movie-theater business. The film, though, was released in the companies’ current quarter and not the quarter they are reporting.</p>
+      <p>Following a historically stormy quarter, several insurance companies—Allstate and Prudential Financial on Tuesday, MetLife on Wednesday—will report results. Property insurer Travelers swung to a loss in the second quarter after its catastrophe losses nearly doubled.</p>
+      <p>Pharmaceutical makers Pfizer and Merck on Tuesday, Moderna and Amgen on Thursday, as well as pharmacy chain CVS Health on Wednesday, will report their results as the bump from sales of Covid-19-related products continues to fade. Drugmakers have been aggressively pursuing acquisitions but have faced additional regulatory scrutiny.</p>
+      <p>Toymakers Hasbro and Funko will report on Thursday after Mattel last week reported a 12% drop in sales.</p>
+    </div>
+  },
+  {
     id: 614,
     title: 'Global Bond Markets Creak as Bank of Japan Eases YCC Policy',
     category: 'Markets',
