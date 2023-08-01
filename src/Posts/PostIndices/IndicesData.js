@@ -1,5 +1,255 @@
 const data = [
   {
+    id: 581,
+    title: 'US stocks up as FTSE closes higher amid unexpected UK mortgage approval rates',
+    category: 'Indices',
+    subCategory: ['US', 'FTSE', 'UK'],
+    description: <div className="blog-desc">
+      <p>Stock indexes across Europe finished the day in the green on Monday in London, as the market parsed positive inflation readings in the bloc and higher than expected mortgage approval rates among Britons.</p>
+    </div>,
+    authorName: 'Lucy Harley-McKeown',
+    authorurl: 'https://www.yahoo.com/author/lucy-harley-mckeown/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 7:37 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690883063/ncx-blog-987_ottrjf.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stock indexes across Europe finished the day in the green on Monday in London, as the market parsed positive inflation readings in the bloc and higher than expected mortgage approval rates among Britons.</p>
+    	<p>Fresh Bank of England data showed net mortgage approvals for house purchases up from 51,100 in May to 54,700 in June, while approvals for remortgaging rose from 34,100 to 39,100 during the same period.</p>
+      <p>The FTSE 100 (^FTSE) was up 0.3% by the close in London, having fallen earlier in the session. Meanwhile the DAX (^GDAXI) was up 0.1% and the CAC (^FCHI) was up 0.5%.</p>
+      <p>European markets were buoyed by a positive read on inflation. The bloc's consumer price index reading for June matched expectations, falling from 5.5% to 5.3%.</p>
+      <p>US stocks were also modestly up by closing time in Europe. The S&P 500 (^GSPC), the Dow (^DJI) and the Nasdaq (^IXIC) all rose by around 0.1%.</p>
+      <p>Meanwhile, an announcement is due to be made by UK prime minister Rishi Sunak on the future of Britain's North Sea drilling operations.</p>	
+    	<p>Sunak is set to lay out an expansion of carbon capture and storage as well as oil and gas drilling plans for the North Sea. These, the government says, are a bid to help Britain move towards net-zero by 2050.</p>
+      <p>The announcement will contain details of two new CSS clusters to be developed in the north-east of Scotland and the Humber — sites which could support up to 50,000 jobs.</p>
+      <p>The plans have drawn protests from climate change groups who argue that new oil and gas drilling is a distraction from actual solutions to reducing emissions.</p>
+      <p>Housebuilders are supporting the FTSE 100 (^FTSE) and FTSE 250 (^FTMC) today, here's Michael Hewson from CMC Markets UK with the lowdown:</p>
+      <p><strong>Both the FTSE100 and FTSE250 have fared reasonably well, with the FTSE100 closing at a 2-month high, with house builders seeing a bit of a rebound this month as interest rate rise expectations eased back from the peaks of a few weeks ago.</strong></p>
+      <p><strong>Persimmon had led the sector rebound, followed by Taylor Wimpey, while the better-than-expected numbers from Rolls-Royce last week catapulted it to the second-best performer this month behind Ocado, which has seen gains in excess of 60% in July, despite being one of the worst performers today.</strong></p>
+      <h3>Mortgage approvals rise amid soaring interest rates</h3>	
+    	<p>The Bank of England has released some key data on household money and credit:</p>
+      <p>-- Net mortgage approvals for house purchases saw an increase from 51,100 in May to 54,700 in June, while approvals for remortgaging rose from 34,100 to 39,100 during the same period.</p>
+      <p>-- The ‘effective’ interest rate – the actual interest rate paid – on newly drawn mortgages continued to exhibit sustained increases, having risen by a further seven basis points, to 4.63% in June.</p>
+      <p>-- Net borrowing of consumer credit by individuals rose to £1.7bn in June, the highest since April 2018.</p>
+      <p>No surprises here that interest rates on mortgages are tracking central bank rises. The net borrowing figure will be one for the Treasury to watch to assess the health of household finances overall.</p>
+      <h3>Here are the Eurozone CPI readings for July:</h3>
+      <p>-- Eurozone CPI (Y/Y) Jul: 5.3% (exp 5.3%; prev 5.5%)</p>
+      <p>-- Eurozone CPI Core (Y/Y) Jul P: 5.5% (exp 5.4%; prev 5.5%)</p>
+      <p>-- Eurozone CPI (M/M) Jul P: -0.1% (exp -0.1%; prev 0.3%)</p>
+      <p>Oil prices were set for the biggest monthly gains in over a year in July, hovering at three-month highs in the last trading session of the month.</p>
+      <p>Brent Crude (BZ=F) was sitting at around $84.90.</p>
+      <p>The moves come on expectations that Saudi Arabia will extend its output cuts into September. The nation has already cut output by 1 million barrels per day.</p>
+      <p>Brewing giant Heineken (HEIA.AS) reported a pullback in beer sales in its first half on Monday. The company put a 5.6% second quarter decline to disappointing performance in Vietnam and socio-economic volatility in Nigeria affecting consumer off-take accounted for over half of the decline in the first six months.</p>
+      <p>It also cut its outlook for full-year profit growth.</p>
+      <p>Stock dropped around 5% in Amsterdam on Monday morning following the report.</p>
+      <h3>There's some bellwether housing data on the slate today. Watch out for:</h3>
+      <p>-- The Nationwide House Price Index</p>
+      <p>-- A UK mortgage approvals reading</p>
+      <h3>Overnight in Asia and the US</h3>
+      <p>Chinese stocks appear to have shrugged off the latest data that shows activity in the service sector and manufacturing activity has weakened. Equities rose on the hope that Beijing would step in with stimulus to restart the lagging economy.</p>
+      <p>Hong Kong's Hang Seng (^HSI) rose 1.5% while the Shanghai Composite (000001.SS) was up 0.6%. The official manufacturing sector PMI came in at 49.3, slightly ahead of consensus expectations of 49.2. The non-manufacturing PMI, which includes sectors such as construction and agriculture, was 51.5. A reading above 50 indicates growth.</p>
+      <p>Japan's Nikkei (^N225) rose 1.3%, extending Friday's gains.</p>
+      <p>US stocks also finished Friday in the green.</p>
+      <p>Good morning! It's another week. Last week we saw a slew of central bank decisions and earnings calls around the world move markets — later this week the Bank of England is set to do the same.</p>
+      <p>Happy Monday, let's get to it.</p>
+    </div>
+  },
+  {
+    id: 580,
+    title: 'Dow Jones Falls In Final Day Of July; 6 Best Stocks To Buy And Watch',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Stock', 'buy'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average dropped Monday, with the stock market set to end July with gains. Best stocks to buy and watch include Dow Jones giant Boeing.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 5:59 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690882960/ncx-blog-986_dj17rv.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average dropped Monday, with the stock market set to end July with gains. Best stocks to buy and watch include Dow Jones giant Boeing.</p>
+      <p>The Dow Jones Industrial Average dropped Monday, with the stock market still set to end July with solid gains. Monday's mixed action comes as investors await critical employment news due this week.</p>
+    	<p>The labor market will be in focus this week, with a big monthly jobs report due Friday. Economists forecast a steady 3.6% unemployment rate for July and see employers adding 190,000 jobs, down from June, with a moderate gain in average hourly earnings.</p>
+      <p>Meanwhile, more employment data will be reported in the Labor Department's Job Openings and Labor Turnover Survey, due Tuesday at 10 a.m. ET.</p>
+      <p>On the earnings front, ON Semiconductor (ON) topped second-quarter views before the open. ON stock jumped 5% in early trade, hitting a record high. Sofi Technologies (SOFI) surged 18% on strong earnings results.</p>
+      <p>Late Monday, Arista Networks (ANET), DoubleVerify (DV), Lattice Semiconductor (LSCC), Monolithic Power (MPWR) and Rambus (RMBS) are due to report.</p>
+      <h3>Stock Market Today</h3>
+    	<p>Adobe (ADBE) rallied 3.2% Monday morning after Morgan Stanley upgraded the stock from equal weight to overweight, with a raised price target of 660.</p>
+      <p>Electric-vehicle giant Tesla (TSLA) traded up 0.7% early Monday. Dow Jones tech giants Apple (AAPL) and Microsoft (MSFT) were mixed after today's stock market open.</p>
+      <p>Other stock market leaders include Alphabet (GOOGL) and Meta Platforms (META). GOOGL stock inched higher, while Meta shares dropped 0.3% in early action.</p>
+      <p>Allegro MicroSystems (ALGM), Broadcom (AVGO), Skechers (SKX) — as well as Dow Jones stocks Boeing (BA), Caterpillar (CAT) and Salesforce (CRM) — are among the best stocks to watch in the current stock market rally.</p>	
+      <p>Tesla is an IBD Leaderboard stock, while Boeing and Skechers were recent IBD Stocks Of The Day.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+    	<p>After Monday's opening bell, the Dow Jones Industrial Average dropped less than 0.1%, while the S&P 500 lost 0.1%. The tech-heavy Nasdaq composite moved down 0.15% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) was down 0.15%, while the SPDR S&P 500 ETF (SPY) dropped 0.1% early Monday.</p>
+      <p>The 10-year U.S. Treasury yield ticked lower to 3.94% Monday morning.</p>
+      <p>West Texas Intermediate oil prices continued to add to their torrid gains Monday morning, at their highest level since mid-April. WTI futures traded 1% higher, to over $81 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Friday, the Dow Jones Industrial Average rose 0.5%, while the S&P 500 gained 1%. The tech-heavy Nasdaq composite climbed 1.9%.</p>
+      <p>Friday's Big Picture column commented, "Buyers came back into the stock market Friday after a harsh downside reversal for the major stock indexes Thursday. Friday's gains were fueled by mostly in-line inflation data inside the Personal Income and Spending report, along with another round of solid earnings reports."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market is at this year's highs.</p>
+      <h3>Dow Jones Stocks To Watch: Boeing, Caterpillar, Salesforce</h3>
+      <p>Aerospace giant Boeing broke out last week, surpassing a 223.91 flat-base entry. Shares are just out of the 5% buy area that went up to 235.11. BA stock dipped 0.3% Monday morning.</p>
+      <p>Industrial giant Caterpillar remains in buy range past a 250.89 entry in a cup with handle, according to IBD MarketSmith pattern recognition. CAT stock rose 0.9% early Monday. Caterpillar earnings are due Tuesday morning.</p>
+      <p>Salesforce's recent breakout continues to struggle, with the stock holding just above the flat base's 225.00 entry, according to IBD Leaderboard analysis. CRM stock rose 0.2% Friday, right above the entry. Shares slid 0.8% Monday morning on a Morgan Stanley downgrade from overweight to equal weight.</p>
+      <h3>Stocks To Buy And Watch: Allegro, Broadcom, Skechers</h3>
+      <p>Allegro MicroSystems surged past a new entry in recent weeks, in the buy range that runs up from the 48.72 entry to 51.16. The company reports fiscal first-quarter results Tuesday. And on Monday, ALGM stock climbed 2.2%.</p>
+      <p>Chip giant Broadcom is eyeing a 921.78 buy point in a consolidation, according to IBD MarketSmith pattern recognition. Shares are just 3% away from their latest entry. AVGO stock edged lower Monday morning.</p>
+      <p>Skechers broke out Friday, surging above a 54.77 buy point after the company's strong quarterly earnings results. Shares are in the buy area that runs up to 57.51. SKX stock was up 0.5% early Monday.</p>
+      <h3>Tesla Stock</h3>
+      <p>IBD Leaderboard stock Tesla rallied 4.2% Friday, snapping a three-day losing streak. Amid the recent pullback, Tesla shares are trying to find support around their key 50-day line. A decisive rebound would place the electric-vehicle leader in a new buy area.</p>
+      <p>TSLA stock looked to add to Friday's gains, trading up 0.7% Monday morning.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock added 1.35% Friday, holding near its recent highs. AAPL stock continues to hold sharply above a 157.38 buy point. Apple will report fiscal third-quarter results late Thursday. Early Monday, shares edged higher in morning action.</p>
+      <p>Microsoft shares tried find support at their 50-day line last week, but look for more decisive rebound to place the stock in a new buy area. And on Monday morning, Microsoft shares were down 0.4%.</p>
+    </div>
+  },
+  {
+    id: 579,
+    title: 'Zacks Industry Outlook Highlights CME Group, Intercontinental Exchange, Cboe Global Markets, Nasdaq and Coinbase Global',
+    category: 'Indices',
+    subCategory: ['Zack', 'CME Group', 'Coinbase'],
+    description: <div className="blog-desc">
+      <p>Chicago, IL – July 31, 2023 – Today, Zacks Equity Research discusses CME Group CME, Intercontinental Exchange ICE, Cboe Global Markets CBOE, Nasdaq NDAQ and Coinbase Global Inc. COIN.</p>
+    </div>,
+    authorName: 'Zacks Equity Research',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 2:46 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690881249/ncx-blog-985_rjt98l.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <h3>For Immediate Release</h3>
+    	<p>Chicago, IL – July 31, 2023 – Today, Zacks Equity Research discusses CME Group CME, Intercontinental Exchange ICE, Cboe Global Markets CBOE, Nasdaq NDAQ and Coinbase Global Inc. COIN.</p>
+    	<h3>Industry: Securities & Exchanges</h3>
+      <p>A compelling and diversified product portfolio helps drive revenues of Zacks Securities and Exchanges industry players. An increase in trading volumes, product expansion through prudent acquisitions and the increased adoption of a greater number of crypto assets are expected to benefit CME Group, Intercontinental Exchange, Cboe Global Markets, Nasdaq and Coinbase Global Inc.. Increased focus on accelerating their non-trading revenue base, which includes market technology, listing and information revenues, infuses dynamism in the business profile of the industry players. However, alterations in investment patterns, and priorities and compliance with regulations pose challenges.</p>
+      <h3>About the Industry</h3>
+      <p>The Zacks Securities and Exchanges industry comprises companies that operate electronic marketplaces, which facilitate the buying and selling of stocks, stock options, and bonds or commodity contracts. They facilitate trading across a diverse range of products in multiple asset classes and geographies. They generate revenues from fees received from the listed companies on their exchanges.</p>
+      <p>They also provide a range of data and listing services to global financial and commodity markets, including pricing and reference data, exchange data, analytics, feeds, index services, investments, risk management, desktops, and connectivity solutions, as well as corporate and ETF listing services, on the cash equity exchanges of players. The industry is witnessing increased adoption of crypto assets. Yet, industry players have to comply with a number of regulations, resulting in challenges.</p>
+      <h3>3 Trends Shaping the Future of the Securities and Exchanges Industry</h3>
+      <p><strong>Volatility Fueling Trading Volume: </strong>The players in the industry are largely dependent on product and service portfolios for revenues. Major services include trade execution, clearing, settlement services for securities and commodity contracts, listing services plus trading, and clearing systems services. Other revenue sources include data products and financial indexes along with information and public company services.</p>
+      <p>The maximization of transaction and clearing fees and the lowering of transaction-based expenses drive profits. Sustainable trading volume growth, driven by trading volatility, fuels transaction and clearing fees (a major component of the top line of industry players). Increasing focus on accelerating the non-trading revenue base, which includes market technology, listing and information revenues, infuses dynamism in the business profiles of the industry participants.</p>
+      <p><strong>Mergers and acquisitions:</strong> The industry continues to witness mergers and acquisitions, with companies evaluating opportunities to supplement their internal growth story by forging strategic alliances or acquiring businesses or technologies. These enable them to penetrate untapped markets, offer new products or services and enhance the value of their platforms and existing trade-related operations. Additionally, strategic buyouts lead to a diversified product portfolio (the primary growth catalyst) and help industry participants maintain their domestic market share, as well as fortify their global footprint.</p>
+      <p><strong>Continuous Investment in Technology:</strong> Industry players continue to invest heavily in technological development. Focus on building a strategic economic market model via technological advancements and upgrades of products and services will help all exchanges stay afloat amid changing industry dynamics.</p>
+      <p>In recent years, the players have launched a number of innovative technologies that rely on machine learning, automation and algorithms designed to improve trading decisions, while reducing trading inefficiencies, cyber threats and human errors, thus accelerating trading frequency. Players are also investing in automating non-trading operations that play an important part in revenue generation for the companies. Nonetheless, players have to comply with various regulations that are being implemented.</p>
+      <h3>Zacks Industry Rank Indicates Bright Prospects</h3>
+      <p>The Zacks Securities and Exchanges industry is housed within the broader Zacks Finance sector. It carries a Zacks Industry Rank #57, which places it in the top 23% of the 253 Zacks industries.</p>
+      <p>The group's Zacks Industry Rank, which is basically the average of the Zacks Rank of all the member stocks, reflects encouraging near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperforms the bottom 50% by a factor of more than 2 to 1.</p>
+      <p>The industry's positioning in the top 50% of the Zacks-ranked industries is a result of a positive earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are optimistic about this group's earnings growth potential. The industry's earnings estimates have been revised 0.5% upward by analysts for the current year.</p>
+      <p>Before we present a few securities and exchanges stocks worth considering for your portfolio, let's take a look at the industry's recent stock-market performance and valuation picture.</p>
+      <h3>Industry Underperforms Sector and S&P 500</h3>
+      <p>The Zacks Securities and Exchanges industry has underperformed the broader Zacks Finance sector and the Zacks S&P 500 composite over the past year. The industry has increased 6.4% compared with the broader sector's increase of 7.7%. The Zacks S&P 500 composite has risen 12.4% in the said time frame.</p>
+      <h3>Industry's Current Valuation</h3>
+      <p>On the basis of trailing 12-month price-to-book (P/B), which is commonly used for valuing finance stocks, the industry is currently trading at 3.56X compared with the S&P 500's 6.12X and the sector's 3.36X.</p>
+      <p>Over the last five years, the industry has traded as high as 4.77X, as low as 2.38X and at the median of 3.36X.</p>
+      <h3>5 Securities and Exchanges Stocks to Keep an Eye On</h3>
+      <p>We are presenting two Zacks Rank #2 (Buy) companies and three Zacks Rank #3 (Hold) stocks from the Securities and Exchanges industry. You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.</p>
+      <p><strong>Intercontinental Exchange:</strong> Atlanta, GA-based Intercontinental Exchange is a leading global operator of regulated exchanges, clearing houses and listings venues and a provider of data services for commodity, financial, fixed income and equity markets. This Zacks Rank #2 company is poised to grow on an expansive product and service portfolio and strength in global data services. Accelerated digitization taking place in the U.S. residential mortgage industry should favor Mortgage technology. ICE boasts the largest mortgage network.</p>
+      <p>The Zacks Consensus Estimate for the company's 2023 and 2024 EPS indicates a year-over-year rise of 4.9% and 8.7%, respectively. It came up with a four-quarter average earnings surprise of 1.76%. The consensus estimate for the company's 2023 and 2024 EPS has moved 1.5% and 1.7% north in the past 30 days. The expected long-term earnings growth rate is pegged at 11.2%.</p>
+      <p><strong>CME Group:</strong> Headquartered in Chicago, IL, CME Group boasts the largest futures exchange in the world in terms of trading volume as well as notional value traded. Efforts to expand futures in emerging markets, non-transaction-related opportunities, OTC offerings, cross-sell through alliances, strong global presence and solid liquidity should drive this Zacks Rank #2 company's growth.</p>
+      <p>The Zacks Consensus Estimate for the company's 2023 and 2024 EPS indicates year-over-year increases of 11.5% and 0.6%, respectively. It came up with a four-quarter average earnings surprise of 2.92%. The expected long-term earnings growth rate is pegged at 5.3%. The consensus estimate for the company's 2023 earnings has moved 1.6% and 0.9% north in the past 30 days.</p>
+      <p><strong>Cboe Global Markets:</strong> Based in Chicago, IL, Cboe Global, currently carrying a Zacks Rank #3, is one of the largest stock exchange operators by volume in the United States and globally for ETP trading. The company is poised for growth, given an expanding product line across asset classes, broadening geographic reach, a diversifying business mix with recurring revenues and technology.</p>
+      <p>The Zacks Consensus Estimate for the company's 2023 and 2024 EPS indicates year-over-year increases of 3.2% and 3.5%, respectively. It came up with a four-quarter average earnings surprise of 2.35%. CBOE has a Growth Score of A.</p>
+      <p><strong>Nasdaq:</strong> Headquartered in New York, Nasdaq is a leading provider of trading, clearing, marketplace technology, regulatory, securities listing, information, and public and private company services. Its strategy of accelerating its non-trading revenue base, maximizing opportunities as a technology and analytics provider, growing core marketplace businesses, and intensifying focus on Market Technology and Information Services businesses should continue to drive growth. NDAQ currently carries a Zacks Rank #3.</p>
+      <p>The Zacks Consensus Estimate for the company's 2023 EPS indicates a rise of 3.4% from the year-ago reported figure, while that for 2024 suggests a 0.9% year-over-year increase. It came up with a four-quarter average earnings surprise of 4.62%. The expected long-term earnings growth rate is pegged at 2.7%.</p>
+      <p><strong>Coinbase Global: </strong>Wilmington, DE-based Coinbase, carrying a Zacks Rank #3, provides financial infrastructure and technology for the cryptoeconomy in the United States and internationally. Coinbase Global is likely to gain from increased adoption of a greater number of crypto assets, higher volatility and a rise in interest across the entire crypto economy. An increase in both the average crypto asset prices and total crypto spot market volumes will drive the overall trading volume of COIN.</p>
+      <p>The Zacks Consensus Estimate for the company's 2023 and 2024 EPS indicates a rise of 78.1% and 11.2%, respectively, from the year-ago reported figure. The expected long-term earnings growth rate is pegged at 35.5%, outperforming the industry average of 12.7%. It came up with a four-quarter average earnings surprise of 8.92%.</p>
+      <h3>Why Haven't You Looked at Zacks' Top Stocks?</h3>
+      <p>Since 2000, our top stock-picking strategies have blown away the S&P's +6.2 average gain per year. Amazingly, they soared with average gains of +46.4%, +49.5% and +55.2% per year. Today you can access their live picks without cost or obligation.</p>	
+    </div>
+  },
+  {
+    id: 578,
+    title: 'Japan megabanks eye BOJ boost after solid first quarter',
+    category: 'Indices',
+    subCategory: ['Japan', 'BOJ', 'Megabank'],
+    description: <div className="blog-desc">
+      <p>TOKYO (Reuters) -Two of Japan's megabanks reported solid quarterly profits on Monday amid hopes the Bank of Japan's (BOJ) nudge towards policy normalisation will herald a sea change in their business after years of being squeezed by rock-bottom interest rates.</p>
+    </div>,
+    authorName: 'Makiko Yamazaki and Anton Bridge',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 10:39 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690880977/ncx-blog-984_umpiai.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Makiko Yamazaki and Anton Bridge</p>
+    	<p>TOKYO (Reuters) -Two of Japan's megabanks reported solid quarterly profits on Monday amid hopes the Bank of Japan's (BOJ) nudge towards policy normalisation will herald a sea change in their business after years of being squeezed by rock-bottom interest rates.</p>	
+    	<p>The central bank's relaxation of its cap on bond yields on Friday boosted the prospect of higher government bond yields creating a windfall for lenders, sending Japan's benchmark index of banking stocks to an eight-year high.</p>	
+    	<p>Higher government bond yields will in the long run lift returns on bond holdings at major lenders, which have had limited options for where to park huge deposits and so flocked to higher-yielding assets overseas such as U.S. Treasuries.</p>
+      <p>The tailwind comes as top banks revamp their businesses to withstand ultra-low rates at home by slimming domestic retail operations, beefing up their presence in Asia through acquisitions and ramping up U.S. investment banking.</p>
+      <p>Sumitomo Mitsui Financial Group (SMFG) and Mizuho Financial Group, Japan's second- and third-largest lenders by assets respectively, on Monday stuck to their full-year net profit forecasts, which point to their highest earnings since the mid 2010s.</p>
+      <p>Both forecasts have not factored in the impact of the latest policy shift.</p>
+      <p>"It might take a while till the BOJ ends its negative interest rate policy," IwaiCosmo Securities analyst Tomoaki Kawasaki said. "But the business environment for the Japanese lenders is improving."</p>
+      <p>For April-June, SMFG reported a net profit of 248 billion yen ($1.75 billion), down 1.8% from the same period a year earlier but accounting for 30% of its annual profit forecast of 820 billion yen.</p>
+      <p>Mizuho's net profit for the quarter jumped 53.9% to 245.19 billion yen, representing 40% of its annual profit forecast.</p>
+      <p>Japan's biggest lender, Mitsubishi UFJ Financial Group (MUFG), will report quarterly earnings on Tuesday.</p>
+      <p>Years of ultra-low interest rates in Japan have meant lenders have little margin for earnings from lending, which has typically translated into a discount for Japanese banking stocks.</p>
+      <p>SMFG is trading at a price to book value of 0.7, meaning its shares are trading at a discount to the value of its assets. In comparison, U.S. bank JP Morgan is trading at almost twice the value of its assets, according to Refinitiv data.</p>
+      <p>The Japanese banks, however, say a full earnings impact will only be felt after the BOJ ends its negative interest rate policy, where it imposes a 0.1% interest rate on a portion of excess reserves banks park with the central bank.</p>
+      <p>SMFG said it expects a policy rate increase to 0% would boost its annual net interest income by 30 billion yen.</p>
+      <p>While the latest policy change does not necessarily hasten the end of negative interest rates, "normalisation of the policy will come into sight if stable inflation is confirmed," IwaiCosmo's Kawasaki said.</p>
+      <p>($1 = 141.7000 yen)</p>
+      <p>(Reporting by Makiko Yamazaki, Anton Bridge and David Dolan; Editing by Christopher Cushing and Mark Potter)</p>
+    </div>
+  },
+  {
+    id: 577,
+    title: 'AI Stock Marvell And Eli Lilly Lead 5 Names Near Buy Points As S&P 500 Rallies On',
+    category: 'Indices',
+    subCategory: ['AI', 'Marvell', 'Eli Lilly'],
+    description: <div className="blog-desc">
+      <p>Top AI stock Marvell Technology and Eli Lilly lead this weekend's watch list of five stocks near buy points as the new S&P 500 bull market revs back up.</p>
+    </div>,
+    authorName: 'JED GRAHAM',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 29, 2023 - 7:12 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690879886/ncx-blog-983_rbrm5b.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Top AI stock Marvell Technology and Eli Lilly lead this weekend's watch list of five stocks near buy points as the new S&P 500 bull market revs back up.</p>
+    	<p>Top AI stock Marvell Technology (MRVL) and pharmaceutical giant Eli Lilly (LLY) lead this weekend's watch list of five stocks near buy points as the S&P 500 bull market revs back up. MRVL stock, whose AI chip business is surging, and LLY stock, which is being powered by prospects for its Alzheimer's treatment and weight-loss drugs, are joined by cruise line Carnival (CCL), construction equipment supplier United Rentals (URI) and aerospace contractor TransDigm (TDG).</p>	
+    	<p>CCL stock and URI are both part of the flagship IBD 50 list of leading growth stocks.</p>	
+    	<p>For now, the powerful AI-led stock market rally has found its footing and taken another step forward after some earnings volatility. The S&P 500 finished the week at a 15-month closing high and just 4.5% off its record close on Jan. 3, 2022. The renewed momentum came courtesy of Federal Reserve chair Jerome Powell. He indicated that if benign inflation data in June continues, the Fed may be done hiking.</p>
+      <p>Be sure to read IBD's The Big Picture every day to stay in sync with the market direction and what it means for your trading decisions.</p>
+      <h3>MRVL Stock</h3>
+      <p>Marvell makes chips used in wireless phone networks, automobiles, industrial systems, data storage devices and data centers.</p>
+      <p>MRVL expects its AI chip business to grow to $400 million in fiscal 2024, up from $200 million in fiscal 2023. Then it sees AI sales doubling again in fiscal 2025 to $800 million, reaching about 15% of sales. However, that strength will be partly offset by near-term softness in enterprise networking and data storage.</p>
+      <p>On Wednesday, Jefferies analyst Mark Lipacis highlighted comments by Microsoft (MSFT) and Google-parent Alphabet (GOOGL) on capex and AI spending, saying his firm's "above-consensus" estimates for AI-chipmaker Nvidia (NVDA) "may prove conservative." He also sees their commentary as positive for Marvell, among others.</p>
+      <p>On July 11, KeyBanc raised its price target for MRVL stock to 80 from 70, highlighting design wins from Amazon (AMZN) and Google.</p>
+      <p>MRVL stock rose 1.6% to 64.91 on Friday. Marvell has a 66.81 buy point from a cup-with-handle base, according to MarketSmith. However, a move above Thursday's 66.24 high would constitute a break above the handle downtrend and give investors an entry point just below the official buy point.</p>
+      <h3>LLY Stock</h3>
+      <p>Eli Lilly stock is riding a wave of good news and optimism over its donanemab Alzheimer's treatment and its Mounjaro type 2 diabetes treatment.</p>
+      <p>LLY stock was featured as IBD Stock Of The Day on July 18 after it announced a 29% slower decline in cognition over 18 months for patients who received its experimental drug than for placebo recipients.</p>
+      <p>Leering Partners analyst David Risinger predicted FDA approval of donanemab by year-end 2023. Lilly also is hoping to gain approval this year for Mounjaro as a weight-loss drug.</p>
+      <p>LLY stock rose 0.8% to 458.48 on Friday. On Wednesday, LLY stock bounced off its 50-day moving average. With Friday's advance, LLY stock is now actionable, though the bounce above the 50-day has come on below-average volume.</p>
+      <p>Eli Lilly could be setting up a 469.87 flat-base buy point but needs another week to complete it.</p>
+      <h3>CCL Stock</h3>
+      <p>Carnival was featured as IBD Stock Of The Day on Thursday, as CCL stock broke a trendline following better-than-expected Q2 results.</p>
+      <p>On Thursday, rival Royal Caribbean (RCL) reported big Q2 revenue and earnings beats, highlighting record pricing levels. Carnival reported results for its May fiscal second-quarter in June.</p>
+      <p>Recent data indicate little sign that the consumer is growing cautious when it comes to travel.</p>
+      <p>On July 11, Carnival's Holland America Line, a luxury cruise line, enjoyed a record day for bookings. "People are planning their vacations for next year and even into 2025, an in the process, they're choosing the best service at sea," Holland America Line president Gus Antorcha said in the news release.</p>
+      <p>Investors should note that Norwegian Cruise Line (NCLH) reports before Tuesday's market open.</p>
+      <p>CCL stock rose 1.5% to 18.49 on Friday. After finding support at its 21-day exponential moving average, CCL stock jumped higher late in the week, breaking a down-sloping trendline and offering an aggressive entry point. Investors also could use Thursday's high of 18.81 as an entry.</p>
+      <h3>URI Stock</h3>
+      <p>United Rentals was Friday's IBD Stock Of The Day, as the equipment-rental giant continued to bounce back after an initial selloff following Q2 earnings late Wednesday.</p>
+      <p>United Rentals topped estimates with Q2 EPS rising 26% to $9.88 and revenue up 28% to $3.55 billion. The company said its equipment sales surged 133%. Baird analyst Mircea Dobre said that the earnings beat and guidance raise largely reflect the equipment sales, while core rental operations basically matched expectations. But Credit Suisse said that URI's acquisition of Ahern, though a near-term drag, sets the firm up to capitalize on megatrends of infrastructure spending, reshoring of manufacturing and a clean energy boom.</p>
+      <p>URI stock tumbled just over 7% Thursday morning following earnings, but rebounded from the 10-week moving average and closed down just 0.7%. On Friday, United Rentals rose 1.1% to 446.07, though, finishing well off its 459.30 high. A move back above Friday's intraday high would break the handle trendline and offer an early entry. URI stock has an official cup-with-handle buy point of 471.82.</p>
+      <h3>TDG Stock</h3>
+      <p>TransDigm Group comprises 48 companies that produce highly engineered components and systems for nearly all military and commercial aircraft. About 90% of sales are unique, proprietary products, TransDigm says. About 50% to 55% of sales come in the aftermarket.</p>
+      <p>On July 6, Citi analyst Jason Gursky started coverage on TDG stock with a buy rating and 1,042 price target. He cited rising global air traffic, the healthy outlook for production of new aircraft and growing defense budgets. He also likes TransDigm's focus on proprietary products, giving it pricing power and margin-expansion potential.</p>
+      <p>TDG stock dipped 0.8% to 885.13 on Friday. TDG has now etched out a five-weeks-tight pattern, closing up or down by no more than 1.5% in each of the past four weeks. That has established an 899.97 buy point.</p>
+    </div>
+  },
+  {
     id: 576,
     title: 'Dow Jones Sees Win Streak End, Microsoft Stock Near Buy Point; IPO Cava Up 137% Since IPO',
     category: 'Indices',

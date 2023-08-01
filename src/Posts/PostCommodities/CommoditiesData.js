@@ -1,5 +1,141 @@
 const data = [
   {
+    id: 594,
+    title: 'UK to issue hundreds of new oil, gas licences in North Sea',
+    category: 'Commodities',
+    subCategory: ['Uk', 'Oil', 'North Sea'],
+    description: <div className="blog-desc">
+      <p>The UK government said Monday it would issue "hundreds" of new oil and gas licences in the North Sea to secure energy reserves while still aiming for net zero carbon emissions by 2050.</p>
+    </div>,
+    authorName: 'AFP',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 5:09 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690877258/ncx-blog-978_nz1xh2.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The UK government said Monday it would issue "hundreds" of new oil and gas licences in the North Sea to secure energy reserves while still aiming for net zero carbon emissions by 2050.</p>
+    	<p>The announcement angered environmental groups and comes amid an internal debate within the ruling Conservative party on green policies.</p>	
+    	<p>The main opposition Labour party has said it will not issue any new North Sea drilling licences if it regains power in a general election due next year.</p>	
+    	<p>"Investment in the North Sea will continue to unlock new projects, protect jobs, reduce emissions and boost UK energy independence," Downing Street said in a statement.</p>
+      <p>Russian President Vladimir Putin's invasion of Ukraine in February last year saw a global surge in energy prices as Western nations imposed sanctions against Moscow, targeting in particular its massive oil and gas exports.</p>
+      <p>On a visit to Scotland, British Prime Minister Rishi Sunak said the licensing decision was "entirely consistent with transitioning to net zero".</p>
+      <p>He said that even if Britain achieves net zero by mid-century, around a quarter of its energy needs will still come from oil and gas.</p>
+      <p>"What is important then is that we get that oil and gas in the best possible way. And that means getting it from here at home better for our energy security, not reliant on foreign dictators, better for jobs... but also better for the climate," Sunak added.</p>
+      <p>A study released Monday by the North Sea Transition Authority (NSTA) said the carbon footprint from domestic UK gas production was one-fourth the footprint from imported liquified natural gas.</p>
+      <p>- 'Betrayal of British people' -</p>
+      <p>But the licensing announcement prompted a backlash from environmental groups with Greenpeace calling it a "deliberate attempt to polarise the climate debate in the UK and score cheap political points".</p>
+      <p>Hugo Tagholm, director of Oceana UK, an ocean advocacy organisation, said the decision was a "betrayal of the British people" showing "no regard for a future for our children and generations to come".</p>
+      <p>"July was the hottest month ever because of burning fossil fuels," Just Stop Oil, which wants the UK government to end all new oil and gas exploration, said.</p>
+      <p>"Sunak is worse than a war criminal. He knows new oil and gas will impose unimaginable suffering and destroy the lives and livelihoods of billions of people," the group added.</p>
+      <p>Also on Monday, the government confirmed plans to build two more carbon-capture facilities along the North Sea coast, at Acorn in northeast Scotland and Viking near Humber, England, alongside two already under construction.</p>
+      <p>It said the four clusters could support up to 50,000 jobs by 2030.</p>
+      <p>Energy giant Shell, which is involved in one of the carbon capture projects, hailed it as a "central part of plans to decarbonise North Sea operations".</p>
+      <p>The technology, however, has been criticised by some climate experts, who say it risks distracting from efforts to phase out hydrocarbons.</p>
+      <p>- 'Green gloss' -</p>
+      <p>Greenpeace said carbon capturing is "often used for greenwashing by oil and gas companies so they can carry on polluting".</p>
+      <p>"Talking up carbon capture and storage is an obvious attempt to put a green gloss on the prime minister's announcement," Mike Childs, head of policy at Friends of the Earth, said.</p>
+      <p>Environmental policies have been a hot topic in the UK, especially since Labour's surprise defeat by the ruling Conservative party in a west London by-election.</p>
+      <p>Their defeat, by less than 500 votes, has been blamed on voter unease at Labour mayor Sadiq Khan expanding a scheme taxing the use of the most polluting vehicles, and appears to have emboldened Tory net zero opponents.</p>
+      <p>In a Telegraph interview on Sunday, Sunak insisted he was on the side of motorists and said he had ordered a review of so-called low traffic neighbourhoods, contentious local authority-led measures to limit vehicle use in designated areas by blocking roads.</p>
+      <p>Climate campaigners have accused the British leader of lacking conviction on climate policies and playing politics with the issue, with a general election looming amid a cost-of-living crisis.</p>
+    </div>
+  },
+  {
+    id: 593,
+    title: 'Oil to drift lower as slower growth offsets OPEC+ cuts: Reuters poll',
+    category: 'Commodities',
+    subCategory: ['Oil', 'OPEC+', 'drift'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Oil prices will stall this year as weak economic growth is expected to curb demand and offset the impact of OPEC+ production cuts on supply, a Reuters poll showed on Monday.</p>
+    </div>,
+    authorName: 'Rahul Paswan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 3:01 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690872089/ncx-blog-977_wsszei.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Rahul Paswan</p>
+    	<p>(Reuters) - Oil prices will stall this year as weak economic growth is expected to curb demand and offset the impact of OPEC+ production cuts on supply, a Reuters poll showed on Monday.</p>	
+    	<p>A survey of 37 economists and analysts forecast Brent crude would average $81.95 a barrel in 2023, down from June's $83.03 consensus and current levels of around $85. Brent was forecast to average $83.67 next year.</p>	
+    	<p>The global benchmark has averaged around $80 so far this year.</p>
+      <p>U.S. crude was seen averaging $77.20 a barrel in 2023, down from the previous month's $78.38 forecast, and $78.25 in 2024.</p>
+      <p>"We expect the impact of high interest rate levels to start curbing economic growth more strongly over H2 2023," data and analytics firm Kpler said, maintaining "a comparatively bearish view on the market".</p>
+      <p>Central banks, the U.S. Federal Reserve and the ECB, raised interest rates to historic highs this month.</p>
+      <p>Sluggish growth in top crude importer China has also weighed on oil prices so far in 2023.</p>
+      <p>However, Chinese stimulus measures and a pick-up in air travel could buoy prices later this year, analysts said.</p>
+      <p>Global oil demand was expected to increase by about 1-2.1 million barrels per day (bpd) in 2023, led by China.</p>
+      <p>"China's economic outlook may continue to disappoint but upside in oil demand is still possible with jet demand recovery from international flights later this year," said Ajay Parmar, associate director of global oil markets research at HSBC.</p>
+      <p>Some of the analysts expected supplies to tighten and support oil prices in the latter part of this year after Saudi Arabia and Russia deepened output cuts in July.</p>
+      <p>"We're forecasting that the oil market will be in deficit in Q3 and Q4 2023 because of the cuts by OPEC+, which will not be offset by non-OPEC producers," said John Paisie, president of Stratas Advisors.</p>
+      <p>(Reporting by Rahul Paswan in Bengaluru; additional reporting by Brijesh Patel; editing by Barbara Lewis)</p>
+    </div>
+  },
+  {
+    id: 592,
+    title: 'Gold set for best month in four as rate-hike cycle nears end',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Rate', 'Hike'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices rose on Monday, putting them on track for their best month in four, helped by a weaker dollar and expectations that major global central banks are nearing a peak with interest rate hikes.</p>
+    </div>,
+    authorName: 'Brijesh Patel',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 9:23 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690871612/ncx-blog-976_auu6qe.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Brijesh Patel</p>
+    	<p>(Reuters) - Gold prices rose on Monday, putting them on track for their best month in four, helped by a weaker dollar and expectations that major global central banks are nearing a peak with interest rate hikes.</p>	
+    	<p>Spot gold gained 0.4% to $1,967.77 per ounce by 02:39 p.m. EDT (1839 GMT). Bullion is up 2.5% so far this month.</p>	
+    	<p>U.S. gold futures settled 0.5% higher at $2,009.20.</p>
+      <p>The dollar index, meanwhile, was heading for its second straight monthly decline, making gold more attractive for other currency holders. [USD/]</p>
+      <p>Recent data showing signs of cooling inflation in the United States has raised expectations that the Federal Reserve was closer to ending its fastest rate hiking cycle since the 1980s.</p>
+      <p>According to the CME's FedWatch Tool, the probability that the Fed will leave rates unchanged this year is at 60%.</p>
+      <p>"I don't think the Fed's going to make a move in September, but later in the year, if we continue to get strong economic data, the Fed probably will make one more rate-hike," said Jim Wyckoff, senior market analyst at Kitco.</p>
+      <p>"Right now, the gold and silver markets are waiting for the next catalyst... if demand from China starts to recover, we see more upside in gold and silver."</p>
+      <p>Two European Central Bank policymakers on Friday also raised the prospect of an end to its steepest and longest string of rate rises.</p>
+      <p>Higher interest rates increase the opportunity cost of holding non-yielding bullion.</p>
+      <p>"Markets feel vindicated with their assessment that Fed rates are at or near their terminal rate, with key inflation reports from the U.S. all pointing towards a faster pace of disinflation," said Matt Simpson, senior analyst at City Index.</p>
+      <p>Elsewhere, silver rose about 1.8% to $24.77 per ounce. Platinum gained 1.8% to $952.55 and palladium climbed 3.1% to $1,284.05. All three were set for monthly gains.</p>
+      <p>(Reporting by Brijesh Patel and Harshit Verma in Bengaluru; Editing by Alexander Smith and Krishna Chandra Eluri)</p>
+    </div>
+  },
+  {
+    id: 591,
+    title: 'Oil prices hit multi-month highs on tightening supply',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Prices', 'Supply'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) -Oil prices rallied to a fresh three-month high on Monday and recorded their steepest monthly gains since January 2022, supported by signs of tightening global supply and rising demand through the rest of this year.</p>
+    </div>,
+    authorName: 'Shariq Khan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 4:37 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690871258/ncx-blog-975_i6bvha.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Shariq Khan</p>
+    	<p>BENGALURU (Reuters) -Oil prices rallied to a fresh three-month high on Monday and recorded their steepest monthly gains since January 2022, supported by signs of tightening global supply and rising demand through the rest of this year.</p>	
+    	<p>More actively traded October Brent crude futures rose $1.02, or 1.2%, to settle at $85.43 a barrel. The September Brent contract, which expired at settlement on Monday, rose 0.7% to close at $85.56 a barrel.</p>	
+    	<p>U.S. West Texas Intermediate crude futures rallied $1.22, or 1.5%, to $81.80 a barrel.</p>
+      <p>Both Brent and WTI hit their highest since late April for a third consecutive session on Monday, after notching their fifth straight weekly gains on Friday.</p>
+      <p>Saudi Arabia is expected to extend a voluntary oil output cut of 1 million barrels per day (bpd) for another month to include September. Saudi output fell by 860,000 barrels per day (bpd) in July, while total production from the Organization of Petroleum Exporting Countries was 840,000 bpd lower, a Reuters survey found on Monday.</p>
+      <p>"Crude prices are finishing a solid month on a high note as demand prospects remain impressive and no one doubts that OPEC+ will keep this market tight," OANDA analyst Edward Moya said.</p>
+      <p>Oil inventories are beginning to drop elsewhere too, especially in the U.S., where the government has started refilling the Strategic Petroleum Reserve from its lowest level in multiple decades. Five analysts polled by Reuters on Monday estimated on average that U.S. crude inventories fell by about 900,000 barrels in the week to July 28.</p>
+      <p>"After the end of SPR releases and recession fears and a liquidity drain due to bank stability fears, which caused the markets to ignore a looming supply squeeze, the coming supply deficits are getting too big to ignore," Price Futures Group analyst Phil Flynn said.</p>
+      <p>Goldman Sachs estimated that global oil demand rose to a record 102.8 million bpd in July and it revised up 2023 demand by about 550,000 bpd on stronger economic growth estimates in India and the U.S., offsetting a downgrade for China's consumption.</p>
+      <p>(Reporting by Shariq Khan in Bengaluru; Additional reporting by Natalie Grover in London, Florence Tan in Singapore and Mohi Narayan in New Delhi; Editing by Christina Fincher, Louise Heavens, David Evans, Nick Macfie and Paul Simao)</p>
+    </div>
+  },
+  {
     id: 590,
     title: 'Oil Rallies to $80 as US Economic Growth Improves Demand Outlook',
     category: 'Commodities',

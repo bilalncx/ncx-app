@@ -1,5 +1,140 @@
 const data = [
   {
+    id: 600,
+    title: 'Bank of England likely to raise interest rates to new high',
+    category: 'Forex',
+    subCategory: ['BOE', 'Interest', 'raise'],
+    description: <div className="blog-desc">
+      <p>The Bank of England (BoE) is likely to raise interest rates by 0.25% to 5.25% when the monetary policy committee (MPC) meets on Thursday.</p>
+    </div>,
+    authorName: 'Sajid Shaikh',
+    authorurl: 'https://www.yahoo.com/author/sajid-shaikh/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 31, 2023 - 6:07 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690878606/ncx-blog-982_hnhnfv.webp',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>The Bank of England (BoE) is likely to raise interest rates by 0.25% to 5.25% when the monetary policy committee (MPC) meets on Thursday.</p>
+	    <p>If the MPC goes ahead with the rate rise, which is widely expected by markets and forecast by analysts, this will be the 14th consecutive increase and may prompt another round of mortgage rate rises.</p>
+      <p>There is an outside chance the BoE may still go ahead with yet another 50bps rise. Central banks world over continue to grapple with rising inflation and last week both the Federal Reserve in the US and the European Central Bank opted for hikes.</p>
+      <p>The US Federal Reserve raised rates to 5.5%, highest since 2001, while the ECB to 4.25%, both opting for 25bps rise.</p>
+      <p>The International Monetary Fund last week raised its outlook for global economic growth for this year but warned that higher inflation could still require more interest rate hikes and cut into that growth. It forecasts UK GDP to rise by 0.4%, up from its previous forecast of -0.3%, in 2023 and by 1% in 2024, indicating the economy will avoid recession.</p>
+      <p>But the gloom is not over as the BoE, stung by criticism of getting its inflation call wrong, is likely to continue with its strategy of curbing spending.</p>
+      <p>However, with the UK inflation rate dropping to a 15-month low of 7.9% and millions of households facing steep rises in mortgage costs the Bank is most likely to take a conventional approach of steady rises.</p>
+      <p>"It's a close call, but we now think the MPC will settle for a 25bps hike, lifting Bank Rate to 5.25%," analysts at Deutsche Bank said.</p>
+      <p>"We see two further quarter point rate hikes on the table, with Bank Rate peaking at 5.75%. Rate cuts, we think, will commence from Q2-24. But risks are skewed to a later and more shallow easing cycle."</p>
+    	<p>In June, the MPC voted seven to two for a 50bps rise with notably both governor Andrew Bailey and chief economist Huw Pill voting in favour. Both have also consistently warned over the tough decisions needed to control rampant inflation.</p>
+      <p>"We are committed to returning inflation to the 2% target and will make the decisions necessary to achieve that," Bailey had said.</p>
+      <p>Central banks use interest rates as one of their primary tools to influence economic conditions. By raising interest rates, they aim to slow down economic activity and reduce inflationary pressures. Similarly, central banks may lower interest rates to stimulate borrowing, spending, and investment as they did during the COVID pandemic.</p>
+      <p>“The Bank of England is expected to follow through with another rate rise at its forthcoming meeting, even though a sliver of space has opened up to allow them to pause the rate hiking cycle if they wanted to, with inflation falling back considerably in June," said Laith Khalaf, head of investment analysis at AJ Bell.</p>
+      <p>“CPI is still way above target, so the Bank is likely to keep its foot on the brake pedal, even though that leads to mounting pressure on the UK’s beleaguered mortgage holders." He said the market is now expecting interest rates to top out at 5.75% or 6% by the end of the year.</p>
+      <p>Current economic indicators, including a strengthening pound and falling wholesale prices of gas, have contributed to the forecasting of inflation falling to below 2% target over next three years, according to analysts. Thus indicating the Bank has already done most of the heavy lifting work with regards to rate rises.</p>
+      <p>“The pay numbers, along with a possible desire to be seen doing something to bring inflation down, will be enough to sway the MPC into increasing rates again. But an August rise should mark the summit, or near-summit, of the current rate rise cycle,” said Martin Beck, chief economic adviser to the EY ITEM Club.</p>
+      <h3>Impact on mortgage rates</h3>
+      <p>There are about 2.2 million homeowners in the UK on variable rates, according to the latest data. Their mortgages go up as BoE raises interest rates.</p>
+      <p>The BoE's credit data published on Monday showed mortgage approvals rose to highest level in eight months in June, despite higher cost of borrowing via elevated mortgage rates.</p>	
+    	<p>The average two-year fixed-rate mortgage hit 6.86% last week, according to Moneyfacts. Analysts, however, are expecting banks to keep the cost of fixed-rate deals on the downward trajectory with leading banks including Barclays (BARC.L), TSB, HSBC (HSBA.L) and Nationwide (NBS.L) all cutting their rates.</p>
+      <p>"For major moves much below 6%, we can expect to have to wait for inflation to fall on a sustained basis and the Bank of England to be weighing up rate cuts. If you’ve been sitting on a variable rate, waiting for a good time to fix, then with Bank of England rates set to rise twice more, this could be what you’ve been waiting for," said Sarah Coles, Yahoo Finance UK columnist and personal finance analyst at Hargreaves Lansdown.</p>
+      <p>"You will need to be comfortable with watching fixed rates fall further into next year, but you will have the certainty of a fix at a lower rate than we’ve seen for weeks."</p>
+      <h3>Mortgage deals currently on offer</h3>
+      <h3>HSBC</h3>
+      <p>Two-year fixed fee saver mortgage 6.44%</p>
+      <p>Two-year fixed standard mortgage 6.14%</p>
+      <p>Followed by variable rate of 6.99%</p>
+      <h3>Barclays</h3>
+      <p>Two-year fixed (purchase only) 60% LTV 5.93%</p>
+      <p>Two-year fixed (purchase only) 75% LTV 5.99%</p>
+      <h3>Halifax</h3>
+      <p>Two-year fixed up to 60% LTV 6.42%</p>
+      <p>Two-year fixed 60-75% LTV 6.68%</p>
+      <p>Based on a £350,000 house with a £90,000 deposit for a 25-year mortgage.</p>
+      <h3>Lloyds</h3>
+      <p>Two-year fixed 60-75% LTV 6.78%</p>
+      <p>Based on same terms as above.</p>
+      <h3>Nationwide</h3>
+      <p>Two-year fixed 6.39%</p>
+      <p>Based on same terms as above.</p>
+      <h3>Natwest</h3>
+      <p>Two-year fixed 6.44%</p>
+      <p>Followed by variable rate of 7.74%</p>
+      <p>Based on same terms as above.</p>
+    </div>
+  },
+  {
+    id: 599,
+    title: 'GBP/JPY Weekly Forecast – British Pound Shows Immense Strength',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has fallen during the week, especially on Friday when the Bank of Japan announced that it was losing its yield curve control. That being said, the market is turned right back around to show signs of strength again,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 28, 2023 - 8:04 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690878400/ncx-blog-981_v9uavz.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The British pound has fallen during the week, especially on Friday when the Bank of Japan announced that it was losing its yield curve control. That being said, the market is turned right back around to show signs of strength again, and the massive hammer that forms for the week suggests that there are plenty of buyers willing to jump in.</p>
+	    <p>All things being equal, this is a market that I think given enough time will continue to go toward the highs, perhaps even try to break out to the upside even further. The ¥185 level is a major resistance barrier, and opens up a longer-term “buy-and-hold” type of situation.</p>	
+	    <p>All things being equal, I anticipate seeing a lot of noisy behavior, and I think that we’ve got a situation where you are probably looking to buy dips, as they occur from time to time. However, you probably need to do it on shorter-term charts, using the weekly chart as a bit of a guidepost as to where we are going next. Either way, this is a market that has shown just how more resilient the British pound is than any type of fear coming out of the Bank of Japan stating something.</p>	
+    	<p>The interest rate differential opens up a massive opportunity for those willing to hang onto the trade, so therefore I think we will continue to see buyers jump into this market and take advantage of value every time it appears. I have no interest in shorting it, but if we broke down below the ¥175 level, then you can make an argument for something a little bit deeper.</p>
+    </div>
+  },
+  {
+    id: 598,
+    title: 'AUD/USD Weekly Forecast – Australian Dollar Continues to Consolidate',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has been very noisy as of late and the past week was no different. All things being equal, it looks like we are bouncing around between the 0.66 level on the bottom and the 0.69 level on the top.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 28, 2023 - 8:00 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690878206/ncx-blog-980_fcadgt.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+	    <p>The Australian dollar has been very noisy as of late and the past week was no different. All things being equal, it looks like we are bouncing around between the 0.66 level on the bottom and the 0.69 level on the top.</p>
+    	<p>Because of this, shorter-term traders have been attracted to this market as it is so range bound, but it is going to be difficult to trade from a weekly chart. If we break down below the 0.66 level, then it opens up the possibility of a move down to the 0.65 handle. On the other hand, if we turn around and break out above the 0.69 level, then it opens up a move to the 200-Week EMA, which is closer to the 0.7050 level.</p>	
+    	<p>In general, this is a market that I think continues to see a lot of noise and therefore it’s going to be difficult to get aggressive. Keep in mind that the Aussie dollar is highly leveraged to the Asian economy and global growth in general, so it does make a certain amount of sense that we would see a lot of back and forth. In general, this is a market that I think you have to look at through the prism of confusion, and therefore it makes sense that we would continue to see this type of behavior.</p>	
+    	<p>However, if we break out of this range, that opens up a bigger trade that people will be paying close attention to. Until then, I think you have to be very cautious and recognize that the market is one that is difficult to hang onto.</p>
+    </div>
+  },
+  {
+    id: 597,
+    title: 'Mexican peso hits 7-1/2 year high vs dollar, further gains eyed',
+    category: 'Forex',
+    subCategory: ['Mexican', 'Peso', 'dollar'],
+    description: <div className="blog-desc">
+      <p>MEXICO CITY (Reuters) -Mexico's peso on Friday hit its highest level against the dollar since early December 2015, as the greenback lost steam after a slowdown in U.S. inflation bolstered the case for the Federal Reserve to end its interest rate hikes.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'July 28, 2023 - 7:43 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1690878013/ncx-blog-979_zk5pzg.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>MEXICO CITY (Reuters) -Mexico's peso on Friday hit its highest level against the dollar since early December 2015, as the greenback lost steam after a slowdown in U.S. inflation bolstered the case for the Federal Reserve to end its interest rate hikes.</p>
+    	<p>The currency, which has been dubbed the "super peso" in some quarters, including by its most prominent cheerleader, President Andres Manuel Lopez Obrador, strengthened by more than 1.3% in morning trading to 16.63 per dollar.</p>	
+    	<p>"What's happening with the peso right now is due to weakness in the dollar, but also because of optimism surrounding the Mexican peso," said Banco Base analyst Gabriela Siller.</p>	
+    	<p>"And with this international investors keep buying Mexican pesos and it may keep appreciating," she added.</p>
+      <p>Data pointing to softening U.S. inflation on the one hand and better-than-expected growth data on the other has helped weaken the dollar and boost the peso, which could continue firming to 16.40 to the dollar, Siller said.</p>
+      <p>In a research note this week, JPMorgan analysts wrote that while the peso has been considered a "high-beta risk proxy currency for much of the past two decades, we think it is time investors shed this outdated perception."</p>
+      <p>"The peso has entered a new chapter that will likely be accompanied by lower for longer volatility and a decoupling from the risk profile of its peer currencies in Latin America," they forecast in the note called "MXN: Not your padre's peso."</p>
+      <p>Some analysts have warned that a prolonged peso run could eventually be more harmful than beneficial to Mexico's economy because it makes Mexican exports more expensive and lowers the value of remittances sent back from the United States.</p>
+      <p>(Reporting by Anthony Esposito and Aida Pelaez-Fernandez, editing by Deepa Babington)</p>
+    </div>
+  },
+  {
     id: 596,
     title: 'USD/JPY Forecast – US Dollar Testing 50-Day EMA',
     category: 'Forex',
