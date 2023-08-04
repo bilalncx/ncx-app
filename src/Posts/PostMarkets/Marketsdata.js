@@ -1,5 +1,134 @@
 const data = [
   {
+    id: 621,
+    title: 'BOJ Intervenes for Second Time This Week to Slow Yield Spike',
+    category: 'Markets',
+    subCategory: ['BOJ', 'Yield', 'Spike'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The Bank of Japan came into the market for the second time this week to slow gains in benchmark sovereign bond yields, underscoring its determination to curb sharp moves in rates even as it makes room for them to rise.</p>
+    </div>,
+    authorName: 'Yumi Teso',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 9:44 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691072012/ncx-blog-1000_fimhs3.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The Bank of Japan came into the market for the second time this week to slow gains in benchmark sovereign bond yields, underscoring its determination to curb sharp moves in rates even as it makes room for them to rise.</p>
+    	<p>The buying operation Thursday also highlighted the challenge investors face interpreting a rates regime that is built on gray lines to let the BOJ be flexible rather than provide clarity for markets. The impact was also felt immediately in the currency market, with the yen weakening. It triggered mild choppiness in the Tokyo stock market, which remained lower.</p>	
+    	<p>“Two observations do not make a pattern, but for now five basis points increments could be the BOJ’s tolerance for movements higher in the 10-year Japan government bond yield,” said David Forrester, a strategist at Credit Agricole in Singapore. “Such a slow grind higher would help limit yen downside against the dollar in an environment of rising US Treasury yields.”</p>
+      <p>While the central bank adjusted policy on Friday to allow scope for 10-year yields to rise to 1%, its actions this week make it clear that it won’t tolerate a rapid move to that level.</p>
+      <p>The announcement of the unscheduled operation Thursday came after the benchmark 10-year note touched a fresh nine-year high of 0.65%. It dropped back fractionally below this after the BOJ said it would buy 400 billion yen ($2.8 billion) of securities across various maturities.</p>
+      <p>The prospect of an increase in JGB yields is rippling through global bond markets. Japanese investors, with ultra-low interest rates at home, are the biggest foreign holders of US government debt and own everything from European bonds to Brazilian notes. Each incremental yield gain at home may boost the incentive for them to repatriate funds.</p>
+      <p>A gauge that tracks banks including Mitsubishi UFJ Financial Group Inc. swung from an intraday gain to a loss after the latest move by the BOJ. Banks are seen as beneficiaries of higher interest rates, which widen the margins they can make on lending after decades of struggling with Japan’s ultra-low interest rates.</p>
+      <p>“It’s too early to tell whether they are focusing on the level or speed at which yields rise,” Shoki Omori, chief desk strategist at Mizuho Securities Co., said of the BOJ. “The 10-year yield can go to 0.7% in a week if the BOJ’s message remains unclear.”</p>
+      <p>The yen swung from a gain to a loss that made it the biggest laggard versus the dollar among Group-of-10 currencies.</p>
+      <p>“This is likely to cap prospects for lower USD/JPY in the near term amid a backdrop of rising US yields,” said. Moh Siong Sim, FX strategist at Bank of Singapore</p>	
+    	<p>--With assistance from Naoto Hosoda, David Finnerty and Ruth Carson.</p>
+    </div>
+  },
+  {
+    id: 620,
+    title: 'Goldman Sachs Predicts Over 60% Upside for These 2 Stocks — Here’s Why They Have Solid Upside',
+    category: 'Markets',
+    subCategory: ['Goldman', 'Stocks', 'market'],
+    description: <div className="blog-desc">
+      <p>Such has been the unpredictable nature of the markets and the economy in 2023, that’s it’s hard to guess what’s coming next.</p>
+    </div>,
+    authorName: 'TipRanks',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 4:49 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691070628/ncx-blog-999_q6bk3p.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>Such has been the unpredictable nature of the markets and the economy in 2023, that’s it’s hard to guess what’s coming next.</p>
+	    <p>For example, it should be remembered that at the start of the year and coming off the back of 2022’s merciless bear market, few had predicted the ensuing rally that has taken place since.</p>	
+	    <p>Likewise, for the broader economy. Against a backdrop of soaring inflation and high interest rates, there were plenty of financial prognosticators warning of an impending vicious recession. But given the rate at which inflation has cooled lately, those calls have now been replaced by forecasts of a soft landing and a mild recession, at worst.</p>	
+    	<p>On the other hand, Tuesday saw big news as Fitch, one of the world’s foremost credit rating agencies, downgraded the United States’ long-term foreign-currency issuer default rating from “AAA” to “AA+.” Fitch’s decision was grounded in their anticipation of a substantial deterioration in the Federal government’s fiscal position over the next three years. Of particular concern was the agency’s observation that the repetitive debt-limit political standoffs and last-minute resolutions have severely undermined confidence in fiscal management.</p>
+      <p>So, how is an investor meant to make sense of it all? Here some expert advice could come in handy, and this is where the Wall Street analysts, such as those working at banking giant Goldman Sachs, enter the frame. It is their job after all to seek out the names that are primed to do well whatever the macro/market backdrop.</p>
+	    <p>With this in mind, using the TipRanks database, we’ve tracked down two recent Goldman picks, ones which they think have strong gains in them for the coming year – on the order of 60%, or more. Let’s find out why they could surge from here.</p>	
+	    <h3>Stagwell, Inc. (STGW)</h3>
+      <p>The first stock on our Goldman-backed list is Stagwell, a marketing firm created by Mark Penn and focusing on scaled creative performance for major global brands. The company’s strategy includes the combination of human creativity with the latest data analytics, to bring the best of both to its clients. Stagwell boasts a workforce of more than 13,000, active in 34 countries around the world, driving effectiveness and improving business results.</p>	
+    	<p>The current incarnation of Stagwell took shape in 2021, when the company completed a merger with MDC Partners, but Penn’s firm has been in business since 2015. Stagwell has a network of over 70 agencies in its operations, and its enterprise client list includes more than 4,000 names. The firm brought in more than $2.68 billion in fiscal year 2022, for an 83% increase year-over-year.</p>
+      <p>The company appeared to hit a stumbling block as 2023 got started, however; its 1Q23 results, the last quarter reported, showed a top line of $622 million, down 3% year-over-year and missing the forecast by over $17 million. The firm’s non-GAAP earnings were reported at 13 cents per share, 7 cents per share below expectations.</p>
+	    <p>On the positive side, the company reported $53 million in quarterly ‘net new business wins,’ part of a $212 million total for the trailing twelve month period.</p>	
+	    <p>That last metric points to Stagwell’s underlying strength; the company’s ‘digital first’ approach is well adapted to today’s marketing environment. This theme is elaborated on by Goldman analyst Brett Feldman, who uses it to bolster his upbeat take on the stock.</p>	
+    	<p>Feldman writes of Stagwell, “STGW is well positioned to benefit from long-term secular growth in global digital advertising and marketing spend. Specifically, we expect STGW will continue to benefit from secular tailwinds to digital advertising spend, which we expect to outpace total advertising spend by LSD through 2026E (ex-US political), as companies continue to shift mix of advertising budgets towards digital mediums.</p>
+      <p>“We believe that STGW’s valuation looks attractive based on our outlook for organic growth as well as potential upside from further M&A or other potentially accretive allocation of capital,” the analyst added.</p>
+	    <p>Looking forward, Feldman rates Stagwell’s shares as a Buy, and he gives the stock a price target of $12, implying a one-year gain of ~88%.</p>	
+	    <p>Overall, Stagwell boasts a Moderate Buy rating from the Street’s consensus based on 6 recent share reviews that break down 4 to 2 in favor of Buys over Holds. The stock’s current trading price is $6.39 and the $10.17 average price target suggests that a 59% increase lies ahead for STGW.</p>	
+    	<h3>Impinj, Inc. (PI)</h3>
+      <p>From online marketing we’ll jump to the tech sector – specifically, to radio frequency identification technology, or RFID. This is a core component of the internet of things, IoT, and Impinj is a pioneer company in the field. The Seattle-based firm is a designer, maker, and distributor of RAIN RFID technology. This technology, particularly common in retail where it is a vital part of price scanning and loss prevention, is rapidly expanding into the IoT world, where it facilitates the connections that make so much of modern tech work.</p>
+      <p>Impinj’s product line includes all aspects of the RFID ecosystem. The company produces both tag and reader chips, as well as reader devices – and the software that connects them all together. Looking at some numbers reveals the scale of Impinj’s market. The company has deployed more than 4 million RFID readers in over 95 countries, and connected more than 75 billion items.</p>
+	    <p>This is clearly a growth sector, and Impinj reported solid revenue gains in its recent quarterly results, for 2Q23. Nevertheless, the shares fell after the report, losing 12%. A dive into the results explains what happened.</p>	
+	    <p>The company’s y/y revenue growth was powerful – the total of $86 million was up almost 44% from 2Q22 and beat the estimates by $1 million. The bottom-line adj. EPS of $0.33 also trumped expectations – by 2 cents.</p>	
+    	<p>So far, so good. However, the company’s guidance for Q3 came in well below expectations. Revenue is expected in the range between $63 to $66 million vs. consensus at $88.11 million. Likewise, adj. EPS is anticipated to be between ($0.12) to ($0.06), way off the $0.38 the analysts were looking for.</p>
+      <p>Goldman’s Toshiya Hari acknowledges the lackluster outlook but maintains faith in Impinj’s long-term prospects.</p>
+	    <p>The 5-star analyst writes, “While we are certainly disappointed by the updated outlook and reduce our forward estimates, we maintain our Buy rating on the stock with the belief that a 2H23 will mark a cyclical bottom for the Endpoint IC business, b the through-cycle growth prospects in RAIN RFID – based on growing adoption in and outside the traditional Retail/Apparel market – remain unchanged, and c Impinj’s competitive advantage supported by its complete product offering (i.e. systems, endpoint ICs, software) is intact.”</p>	
+	    <p>Alongside the Buy rating, Hari’s $101 price target makes room for one-year returns of 61%.</p>	
+    	<p>There are 7 recent analyst reviews on this stock, with a breakdown of 6 Buys and 1 Sell indicating a Moderate Buy consensus rating. The shares are priced at $62.53 and their $90.86 average price target implies they will show ~45% upside in the coming 12 months.</p>
+    </div>
+  },
+  {
+    id: 619,
+    title: 'Nvidia More Than Triples In 2023 On AI Boost — Is It A Buy?',
+    category: 'Markets',
+    subCategory: ['Nivdia', 'AI', 'Buy'],
+    description: <div className="blog-desc">
+      <p>Nvidia (NVDA), a giant in data centers and gaming, continues to sizzle. The chip giant is seen as one of the biggest winners of the AI boom. Is Nvidia stock a buy right now, with earnings due?</p>
+    </div>,
+    authorName: 'APARNA NARAYANAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 2, 2023 - 9:09 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691070079/ncx-blog-998_mlklku.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Nvidia (NVDA), a giant in data centers and gaming, continues to sizzle. The chip giant is seen as one of the biggest winners of the AI boom. Is Nvidia stock a buy right now, with earnings due?</p>
+    	<h3>Semiconductor, AI News</h3>
+      <p>In May, Nvidia Chief Executive Jensen Huang announced a new supercomputer, software and services for generative AI (artificial intelligence). Generative AI can create content, including written articles, from simple descriptive phrases by analyzing and digesting vast amounts of data. It can also write computer programming code.</p>	
+    	<p>For its latest quarter, graphics-chip maker Nvidia crushed Wall Street's targets on record data-center sales. Production is ramping up to meet huge demand for AI technology, CEO Huang said.</p>	
+    	<p>Nvidia is a leader in AI chips. In the tech industry's fierce battle for AI dominance, the advanced chips needed for generative AI, such as the ChatGPT chatbot, are key.</p>
+      <p>For those looking for top large-cap stocks to buy now, here's a dive into NVDA stock.</p>
+      <h3>Nvidia Stock Technical Analysis</h3>
+      <p>Nvidia slid nearly 6% Aug. 2 amid a broad market sell-off, briefly undercutting a 439.90 buy point. The entry from a three-weeks-tight pattern offered a place for existing investors to add a few more shares. The buy range goes to 461.90, the IBD Leaderboard stock analysis shows.</p>
+      <p>Shares are now below the 21-day exponential moving average, near 438. They remain above the 50-day line.</p>
+      <p>NVDA joined the prestigious IBD Leaderboard in February on an earnings gap-up. It surged again in May on blowout earnings and strong guidance.</p>
+      <p>Year to date, Nvidia stock has skyrocketed 200%, after crashing in 2022. It has jumped nearly 56% in just the past three months.</p>
+      <p>NVDA earns an IBD Composite Rating of 98, out of a best-possible 99. In other words, Nvidia stock is in the top 2% of all stocks in terms of technical and fundamental metrics.</p>
+      <p>Investors generally should focus on stocks with Comp Ratings of 90 or even 95 and above. Nvidia stock often earns a spot on the IBD 50, Big Cap 20 and Sector Leaders lists.</p>
+      <p>The relative strength line shows an uptrend, the IBD MarketSmith charts show. A rising RS line means that a stock is outperforming the S&P 500. It is the blue line in the chart shown.</p>
+      <p>The IBD Stock Checkup tool shows that NVDA carries a Relative Strength Rating of 99. That means it has outperformed 99% of all other stocks over the past year.</p>
+      <p>The iShares PHLX Semiconductor ETF (SOXX) holds both Nvidia stock and AMD stock.</p>
+      <h3>Nvidia Earnings</h3>
+      <p>Nvidia's EPS Rating is 68 out of 99 and its SMR Rating is a B, on a scale of A to a worst E. The EPS rating compares a company's earnings growth to other stocks. Its SMR Rating gauges sales growth, profit margins and return on equity.</p>
+      <p>On May 24, the chip giant delivered a big beat-and-raise report. The Nvidia earnings report included a bullish, AI-fueled sales forecast.</p>
+      <p>The Santa Clara, Calif.-based company earned $1.09 a share on sales of $7.19 billion in the quarter ended April 30. Year over year, Nvidia earnings dropped 20% while sales fell 13%. But the results easily outpaced Wall Street's expectations.</p>
+      <p>In Q1, data-center sales rose 14% to $4.28 billion. Gaming-chip sales fell 38% to $2.24 billion.</p>
+      <p>Analysts expect Nvidia earnings per share to rebound 138% in fiscal 2024, on a 61% sales gain. Last year, Nvidia earnings fell 25%.</p>
+      <p>Its next quarterly report is expected on Aug. 23.</p>
+      <p>Out of 50 analysts covering NVDA stock, 43 rate it a buy. Six have a hold and one has a sell, according to FactSet.</p>
+      <h3>NVDA Backstory, Rivals</h3>
+      <p>The fabless chipmaker pioneered graphics processing units, or GPUs, to make video games more realistic. It's expanding in AI chips, used in supercomputers, data centers and drug development.</p>
+      <p>Nvidia's GPUs act as accelerators for central processing units, or CPUs, made by other companies. It's working on "supercomputers" combining its own CPUs and GPUs.</p>
+      <p>In addition, Nvidia chips are used for Bitcoin mining and self-driving electric cars.</p>
+      <p>Nvidia has made a big push into metaverse applications.</p>
+      <p>Fabless chip stocks include Qualcomm (QCOM), Broadcom (AVGO) and Monolithic Power Systems (MPWR).</p>
+      <p>Currently, the fabless group ranks No. 3 out of 197 industry groups. Fabless companies design the hardware while outsourcing the manufacturing to a third-party firm</p>
+      <p>For the best returns, investors should focus on companies that are leading the market and their own industry group.</p>
+      <h3>Is Nvidia Stock A Buy?</h3>
+      <p>On a fundamental level, Nvidia earnings are expected to return to growth. They should more than double this fiscal year, driven by booming chip sales for data centers and artificial intelligence.</p>
+      <p>The fabless chipmaker is expanding in other growth areas such as automated electric cars and cloud gaming as well. The adoption of the metaverse and cryptocurrencies could further stoke demand for Nvidia chips.</p>
+      <p>However, macroeconomic uncertainties and risk of global recession linger.</p>
+      <p>NVDA stock has staged a massive comeback, more than tripling in 2023 so far. But shares chopped above and below a 439.90 follow-on entry amid broader volatility on Aug. 2. That suggests investors could wait for this top chip stock to make a strong move back into the buy zone.</p>
+      <p>Bottom line: Nvidia stock is not a buy right now. As a leading chip company with exposure to top end-markets, Nvidia is always one to watch.</p>
+    </div>
+  },
+  {
     id: 618,
     title: 'Panasonic Q1 profit jumps, maintains FY forecast',
     category: 'Markets',

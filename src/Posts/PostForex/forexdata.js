@@ -1,5 +1,131 @@
 const data = [
   {
+    id: 605,
+    title: 'Rupee hits 2-1/2 month low tracking Asian peers; RBI caps losses',
+    category: 'Forex',
+    subCategory: ['Rupee', 'RBI', 'Asian'],
+    description: <div className="blog-desc">
+      <p>MUMBAI/BENGALURU (Reuters) - The Indian rupee fell for a third straight session on Thursday, weakening to its lowest level in two-and-a-half months, tracking broad losses in Asian peers, but likely dollar sales by the country's central bank capped losses in the currency.</p>
+    </div>,
+    authorName: 'Siddhi Nayak and Sethuraman N R',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 11:36 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691065103/ncx-blog-992_fatc5y.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Siddhi Nayak and Sethuraman N R</p>
+    	<p>MUMBAI/BENGALURU (Reuters) - The Indian rupee fell for a third straight session on Thursday, weakening to its lowest level in two-and-a-half months, tracking broad losses in Asian peers, but likely dollar sales by the country's central bank capped losses in the currency.</p>	
+    	<p>The rupee ended at 82.7225 against the dollar, down 0.2% compared with 82.5825 on Wednesday.</p>
+      <p>It had fallen to an intraday low of 82.81, the lowest since May 24.</p>
+      <p>However, the Reserve Bank of India (RBI) likely sold dollars through some state-run banks at 82.75-82.80 rupee levels, preventing a further fall in the rupee, several foreign exchange traders told Reuters.</p>
+      <p>"Global factors are stacked up against the rupee and a fall to 83 looks pretty much in sight now," said Ritesh Bhusari, deputy general manager for treasury at private sector lender South Indian Bank.</p>
+      <p>"In case the rupee is able to sustain below 83 convincingly, despite the RBI's intervention, we foresee a fall towards 83.50 in due course," he said.</p>
+      <p>The rupee will trade in a narrow range over the coming three months and then strengthen slightly in a year as the RBI uses its vast foreign exchange reserves to keep the currency stable, a Reuters poll found.</p>
+      <p>Most Asian currencies and equities extended losses after a selloff in U.S. equities on Wednesday on risk off fuelled by ratings agency Fitch downgrading the U.S. credit rating. Indian equities also extended Wednesday's losses.</p>
+      <p>Apart from the U.S. credit downgrade, the jump in U.S. private payrolls also led to a rise in Treasury yields.</p>	
+    	<p>The 10-year U.S. yield reached 4.1650% on Thursday, the highest in just under nine months.</p>
+      <p>The uptick in U.S. yields boosted the dollar. The dollar index reached a near one-month high of 102.84 on Thursday.</p>
+      <p>Investors are awaiting the Bank of England's policy decision later in the day, and U.S non-farm payroll data on Friday.</p>
+      <p>(Reporting by Siddhi Nayak in Mumbai and Sethuraman NR in Bengaluru; Editing by Sonia Cheema)</p>
+    </div>
+  },
+  {
+    id: 604,
+    title: 'USD/JPY Forecast – US Dollar Balances After Initial Fall',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has initially pulled back a bit during the trading session on Wednesday, but the ¥142.50 level has offered a bit of support yet again, an area that has been important previously. Because of this, it looks like the market is trying to continue the overall uptrend,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 2, 2023 - 6:32 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691064250/ncx-blog-991_axmblc.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar has initially pulled back a bit during the trading session on Wednesday, but the ¥142.50 level has offered a bit of support yet again, an area that has been important previously. Because of this, it looks like the market is trying to continue the overall uptrend, and most clearly the Bank of Japan has found itself in a situation where the market isn’t even bothering to pay attention to it for very long. They recently stated that they were going to fight against the depreciating yen, and then stepped directly into the bond market and started buying again, which of course drives yields down, and makes the currency less attractive.</p>
+    	<p>Furthermore, the Federal Reserve is likely to remain very tight with its monetary policy going forward, and therefore is likely that the US dollar will continue to be strong, despite the fact that Fitch downgraded US debt overnight. All things being equal, this is a market that I think continues to see a lot of noisy behavior, but I think this remains more or less a “buy on the dips” type of situation. Underneath, we have the 50-Day EMA, which is closer to the ¥140.50 level and is rising.</p>	
+    	<p>If we can break above the ¥145.50 level, then the market is likely to continue to go looking to the ¥150 level. All things being equal, I think we have a situation where the markets will continue to see a lot of resistance there, but if we can break above that level, then it’s likely that the US dollar will climb toward the ¥150 level.</p>	
+	    <p>All things being equal, this is a market that I think continues to see a lot of noisy behavior, therefore it’s likely that we will see more of a “value hunting” type of situation, and with that being said, the market is likely to see as important. The ¥138 level underneath is significant support, as it was previous resistance for the massive ascending triangle that we broke out of previously, and of course we have the 200-Day EMA right around that same area as well. In general, expect volatility but with the jobs number coming out Friday, it’s likely that we will continue to see a lot of erratic trading.</p>
+    </div>
+  },
+  {
+    id: 603,
+    title: 'GBP/USD Forecast – British Pound Continues to Drift Lower',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has initially tried to rally during the day on Wednesday, but continues to drift a little bit lower after turning around. We broke below the 50-Day EMA, but quite frankly I don’t think it means much, as there are plenty of support levels just below that could come into the picture.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 2, 2023 - 6:26 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691063901/ncx-blog-990_z1teud.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound has initially tried to rally during the day on Wednesday, but continues to drift a little bit lower after turning around. We broke below the 50-Day EMA, but quite frankly I don’t think it means much, as there are plenty of support levels just below that could come into the picture.</p>
+    	<p>Furthermore, we have the Non-Farm Payroll announcement coming out on Friday, and a lot of people will more likely than not try to figure out whether or not we are going to see the US dollar strengthen, or if the Federal Reserve will see unemployment figure that gives them the opportunity to slow down.</p>	
+    	<p>All things being equal, this is a market that has plenty of support near the 1.2650 level, and of course the trend line just below there. That doesn’t necessarily mean that I’m jumping in and buying right away, but I would like to see some type of turnaround or bounce that successfully turns around the downward momentum.</p>	
+	    <p>When you look at the longer-term chart, it’s clear that we are in an up-trending market, so therefore it’s only a matter of waiting for some type of value and then confirmation. I have no interest whatsoever in trying to get too cute with this, because you can see that although we have pulled back a bit, the big scheme of things has not been a big deal.</p>
+      <p>In fact, it’s not until we break down below the 200-Day EMA that I would consider shorting the British pound, and even then I would have to see how the US dollar is doing around the world. Quite frankly, if I want to buy the US dollar, I will buy it against something else like the Swiss franc, because you get paid to hang onto it. While the US dollar could pick up a little bit of momentum, I think ultimately the market still needs to prove itself, so by the time we get done with the Friday session, we may have a bit more clarity. In the short term, I think we just kind of bounce around in this general vicinity.</p>
+    </div>
+  },
+  {
+    id: 602,
+    title: 'EUR/USD Forecast – Euro Continues to Grind Away',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>As one of the key technical indicators, the 50-Day EMA has proven its significance in the past, attracting the attention of traders. Additionally, the 1.10 level has played a crucial role in the market, contributing to the current noise and uncertainty observed in that region. Moreover, the psychological importance of the 1.10 level adds further complexity to the market’s dynamics.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 2, 2023 - 5:30 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691063780/ncx-blog-989_lwoirf.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>As one of the key technical indicators, the 50-Day EMA has proven its significance in the past, attracting the attention of traders. Additionally, the 1.10 level has played a crucial role in the market, contributing to the current noise and uncertainty observed in that region. Moreover, the psychological importance of the 1.10 level adds further complexity to the market’s dynamics.</p>
+	    <p>Looking ahead, market participants are eagerly awaiting the upcoming Friday Non-Farm Payroll announcement, which holds significant importance in influencing central bank decisions on interest rates, both key for the euro and the US dollar. With both central banks currently adopting relatively tight monetary policies, the jobs report will be instrumental in gauging its potential impact on these currencies. Should the jobs number exceed expectations, investors may lean towards favoring the US dollar, particularly considering signs of economic strain within the European Union, especially with the recent weakening of German economic strength.</p>	
+	    <p>In terms of potential support levels for the euro, the 1.09 level could act as a short-term support barrier, followed by the 200-Day EMA. Conversely, if the market turns bullish, the 1.11 level is likely to present a resistance barrier. However, a successful breach above this resistance could pave the way for further gains, with the 1.1250 level becoming the next target, as it marks a prior high.</p>	
+	    <p>Given the current state of the market, traders should anticipate choppy behavior in the coming days, followed by heightened volatility on Friday. The market appears to be in a holding pattern until the release of the Non-Farm Payroll data at 8:30 AM Eastern Standard Time on Friday. This event is expected to be a significant catalyst for the euro’s movement and may shape its trajectory in the near term.</p>
+      <p>In summary, the euro faced a marginal decline during Tuesday’s trading session, settling just above the critical 50-Day EMA. The 1.10 level’s importance and the psychological significance it holds contributed to the market’s current noise and uncertainty.</p>
+      <p>Market participants are eagerly awaiting the Non-Farm Payroll announcement on Friday, as it holds substantial influence over central bank decisions and interest-rate differentials between the euro and the US dollar. With both central banks maintaining relatively tight monetary policies, the upcoming jobs report is closely watched for potential implications on currency trends. Traders should be mindful of potential support and resistance levels, while also preparing for increased market volatility as the week progresses.</p>
+    </div>
+  },
+  {
+    id: 601,
+    title: 'USD/JPY Forecast – US Dollar Continues to Power Higher Against Yet',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has rallied significantly during the session on Tuesday, as we continue to see a lot of bullish pressure. All things being equal, it looks like the US dollar is starting to pick up strength around the world,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 1, 2023 - 6:35 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691063509/ncx-blog-988_fcegec.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>The US dollar has rallied significantly during the session on Tuesday, as we continue to see a lot of bullish pressure. All things being equal, it looks like the US dollar is starting to pick up strength around the world, and I do think that continues to be the case going forward. With this, the market then looks as if it is going to go looking to the ¥145 level. After all, the Bank of Japan recently chirped the market away from shorting the yen, only to turn around and start buying bonds again. In other words, the Bank of Japan blinked as soon as the market pressed the issue.</p>
+	    <p>This tells me that the Japanese yen has much further to fall, and we will more likely than not continue to see the market rates higher, especially as the Federal Reserve is going to remain “tighter for longer.” In general, this is a situation where pullbacks will offer buying opportunities, and the 50-Day EMA comes into the picture as support near the ¥140.50 level. This is assuming that we can pull back, but I really don’t think that happens anytime soon as the Federal Reserve will more likely than not be forced to stay tight.</p>	
+    	<p>Pay attention to the fact that Friday is Non-Farm Payroll Friday, as a better than anticipated jobs number will send this market straight up in the air. Yes, we are a little bit overbought at this point, but I think given enough time we will probably see buyers come in to pick up this market, and therefore I’m looking at every dip as a potential buying opportunity, but quite frankly that’s how this market has been for a while. With that being said, I have no interest in shorting this market, and quite frankly I think that we probably go looking toward the ¥150 level over the next several months. This obviously will move in different phases, so look for value and take advantage of it. Please, do not chase this trade as it’s a great way to lose money. The volatility in the Japanese yen is well known.</p>	
+    </div>
+  },
+  {
     id: 600,
     title: 'Bank of England likely to raise interest rates to new high',
     category: 'Forex',
