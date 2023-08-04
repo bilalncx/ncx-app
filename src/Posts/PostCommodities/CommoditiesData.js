@@ -1,5 +1,209 @@
 const data = [
   {
+    id: 599,
+    title: 'Warren Buffett Favorite Energy Stock Reported Profits Falling Nearly 80% in Q2',
+    category: 'Commodities',
+    subCategory: ['Warren', 'Energy', 'stock'],
+    description: <div className="blog-desc">
+      <p>Warren Buffett stock Occidental Petroleum (OXY) reported mixed second-quarter financials Wednesday, slightly missing on profit expectations while matching revenue expectations, </p>
+    </div>,
+    authorName: 'KIT NORTON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 3:31 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691128217/ncx-blog-1011_a6c4la.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Warren Buffett stock Occidental Petroleum (OXY) reported mixed second-quarter financials Wednesday, slightly missing on profit expectations while matching revenue expectations, as low oil and natural gas prices in the first half of the year continue to take their toll. OXY stock lost ground in early trade Thursday.</p>
+    	<p>While oil and natural gas prices have retreated in 2023, Warren Buffett's Berkshire Hathaway (BKRB) has continued to invest in those areas.</p>	
+    	<p>The billionaire investor bought up Occidental Petroleum stock throughout the first half of the year, bringing his stake in the Houston-based company to 25%.</p>	
+    	<p>The Warren Buffett stock dropped 2.4% early Thursday, after ending down 1.9% at 61.45 on Wednesday. Berkshire also holds a stake in Dow Jones energy giant Chevron (CVX). On Tuesday, CVX dropped 0.8%. CVX and ExxonMobil (XOM) reported on Friday that second-quarter sales fell around 30% with profits sinking 50% compared to a year ago.</p>
+      <h3>Warren Buffett Stock: Occidental Petroleum Earnings</h3>
+      <p>Estimates: Analysts expected Occidental Petroleum to report earnings sinking 77% to 72 cents per share in Q2. Meanwhile, Wall Street forecast revenue falling 37% to $6.7 billion.</p>
+      <p>Results: Occidental Petroleum reported EPS of 68 cents, down 78% vs. 2022, as sales fell 37% to $6.7 billion.</p>
+      <p>OXY announced oil and gas pre-tax income for the second quarter of 2023 was $1.1 billion, down 73% from Q2 2022.</p>
+      <p>OXY reported Wednesday that income from its oil and gas operations declined due to lower domestic natural gas and natural gas liquids prices (NGL) as well as lower domestic crude oil volumes.</p>
+      <p>Average Q2 worldwide crude oil prices fell 22% to $73.59 per barrel, according to OXY. Meanwhile, the company said average worldwide NGL prices decreased 545 $19.08 per barrel in Q2.</p>
+      <p>Occidental produced 1.218 million barrels of oil equivalent per day, exceeding the mid-point of its guidance. OXY announced Wednesday it expects average full-year production of 1.210 million barrels of oil equivalent per day.</p>
+      <p>In Q1, OXY had forecast full-year production guidance to average 1.195 million barrels of oil equivalent per day. Occidental Petroleum executives previously forecast 2023 production to average 1.18 million barrels of oil equivalent per day, keeping production mostly flat compared to the 1.16 million in 2022.</p>
+      <p>Occidental Petroleum also repurchased $425 million of stock in Q2. So far in 2023, OXY completed around 40% of its $3 billion repurchase program.</p>
+      <h3>Warren Buffett And His Energy Plays</h3>
+      <p>On July 10, Warren Buffett upped his bet on liquefied natural gas, agreeing to buy the Dominion Energy (D) share of the Maryland-based Cove Point LNG export plant in a $3.3 billion deal. Berkshire already owns a stake.</p>
+      <p>Meanwhile, on June 28 Buffett announced Berkshire purchased an additional 2.14 million shares of OXY over three days. Berkshire bought Occidental Petroleum stock at prices between 57.01-57.17. The OXY purchases brought Berkshire's total stake in Occidental Petroleum to 25%.</p>
+      <p>Buffett sold around $6 billion worth of Chevron stock in the first quarter, according to Berkshire's Q1 financial report.</p>
+      <p>Buffett's outfit reported reducing CVX holdings to $21.6 billion as of March 31. Warren Buffett began buying the Dow Jones stock in 2020. Prior to Buffett's Q1 decision to sell, Berkshire Hathaway amassed a stake totaling 167 million CVX shares, worth around $29 billion.</p>
+      <p>Investors will get a better idea about Warren Buffett stocks OXY and CVX this weekend when Berkshire Hathaway reports Q2 results.</p>
+      <h3>Warren Buffett Stock: Crude Oil Prices Above $80</h3>
+      <p>Currently, oil markets have undergone a change of heart. Crude oil prices have rallied for several weeks, topping $80 a barrel late last week for the first time since mid-April.</p>
+      <p>However, prices moved lower Wednesday even as the Energy Information Administration (EIA) announced U.S. commercial crude oil inventories fell by 17 million barrels from the previous week. At 439.8 million barrels, U.S. crude oil inventories are approximately 1% below the five-year average for this time of year, according to EIA data.</p>
+      <p>U.S. crude futures fell around 2% to around $79.70 per barrel on Wednesday. On Monday, crude rose 1.5% to $81.80, the highest since April. U.S. crude soared 15.8% in July, its best monthly gain since January 2022.</p>
+      <p>Brent crude futures edged down more than 1% to $83.60 Wednesday, with the international oil benchmark up 14.2% in July.</p>
+      <p>The market is focusing on tighter global supply amid Saudi-led cuts while demand hopes are improving. Odds of a U.S. recession have fallen, while Chinese authorities recently pledged to step up stimulus, bolstering the demand outlook for the world's top crude importer.</p>
+      <p>Meanwhile, U.S. natural gas futures traded around $2.49 per million British thermal units Wednesday. Investors anticipate homes and businesses will use less gas as the weather turns cooler in the next two weeks. Natural gas plants generating electricity will see less demand (like other power plants) due to reduced air conditioning use.</p>
+    </div>
+  },
+  {
+    id: 598,
+    title: 'Russian oil price cap under growing scrutiny as prices rise',
+    category: 'Commodities',
+    subCategory: ['Russian', 'Oil', 'Prices'],
+    description: <div className="blog-desc">
+      <p>When the West rolled out its unprecedented price cap on Russian oil late last year, it hoped to starve Moscow of much-needed revenue while minimising the impact on other countries.</p>
+    </div>,
+    authorName: 'Emeline BURCKEL',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 2:32 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691127756/ncx-blog-1010_r3cwou.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>When the West rolled out its unprecedented price cap on Russian oil late last year, it hoped to starve Moscow of much-needed revenue while minimising the impact on other countries.</p>
+    	<p>Eight months on, it is seen in Western capitals as a successful part of the squeeze on Russian President Vladimir Putin, but a policy that has yet to be properly tested, according to energy analysts.</p>	
+    	<p>With oil prices on the rise after months in the doldrums, the cap's impact -- and limits -- could now come into clearer focus.</p>
+      <p>"We also know, like with all of our measures, Russia will attempt to evade the price cap," Eric Van Nostrand, the US Treasury's acting assistant secretary for economic policy, said in a speech Thursday.</p>
+      <p>"We remain vigilant in monitoring oil markets and the whole coalition remains focused on enforcing our sanctions."</p>
+      <p>The mechanism, a price ceiling of $60 per barrel on Russian oil, was agreed and introduced by the European Union, G7 and Australia, in early December.</p>
+      <p>Companies based in EU and G7 member states and Australia are banned from providing services enabling maritime transport, such as insurance, of oil above that price.</p>
+      <p>It aims to restrict Russia's revenue as punishment for its invasion of Ukraine, while making sure Moscow keeps supplying the global market.</p>
+      <p>"Russia's revenue is, you know, nearly 50 percent lower than it was a year ago," a senior US official told reporters Tuesday.</p>
+      <p>"We're not evaluating the success of this policy based on how many molecules of oil are actually traded under $60," he added.</p>
+      <p>"We're evaluating the success of this based on whether Russia's aggregate revenue is suffering relative to an unrestricted market."</p>
+      <p>- 'Not been tested' -</p>
+      <p>"The G7 price cap has done what it was designed to do -- restrict Russian revenues while keeping oil in the market," Matthew Holland, an analyst at Energy Aspects, told AFP.</p>
+      <p>Helge Andre Martinsen, an analyst at DNB, noted Russian oil export volumes have been "surprisingly stable" and the price cap had "really not been tested due to a softening oil market".</p>
+      <p>Moscow had taken its own steps to soften the impact of the price cap, including before its introduction eight months ago.</p>
+      <p>The US official noted it had offered steeply discounted long-term contracts, around 30 percent below Brent Crude prices, to buyers in southeast Asia and India, ahead of December 2022.</p>
+      <p>Since then North Sea Brent Crude, the key benchmark for Europe, has remained below the $90 mark, while its US equivalent, the West Texas Intermediate (WTI), has not exceeded $85 a barrel.</p>
+      <p>Meanwhile Russian Urals, Moscow's oil benchmark, has mostly traded below the mandated $60-a-barrel price.</p>
+      <p>However, prices have been on the rise in recent weeks, with production cuts by Russia and other members of OPEC+ blamed in part.</p>
+      <p>In mid-July, Urals crude broke the $60-a-barrel barrier, according to reports based on data from pricing agency Argus Media.</p>
+      <p>- 'Nervous' -</p>
+      <p>Stephen Innes, analyst at SPI Asset Management, said the Russian production cut was "payback" on the West for its support for Ukraine.</p>
+      <p>"They knew it would drive oil prices higher in the middle of peak driving US season while China was filling every teapot refinery to the brim," he added.</p>
+      <p>But with prices on the rise, "it might be the first real test of the price cap", he added -- a forecast echoed by Martinsen.</p>
+      <p>Holland argues Urals breaching the cap "will reduce interest in Russian oil from some buyers", citing India in particular, which the analyst said gets "nervous about sanctions risks".</p>
+      <p>Moreover, the cap has also forced Russia to build up a fleet that exists outside of the G7 to transport its oil.</p>
+      <p>"Investments the Russian government makes into the shadow fleet or into its own insurance companies in order to sell above the cap, for example, draw funding away from its war chest as the Kremlin's cost of continuing the war in Ukraine continues to rise," said Van Nostrand.</p>	
+    	<p>For Han Tan, analyst at Exinity, "the true results from this price cap, as desired by the West, will only be manifested if there's a meaningful pullback in Russia's war efforts".</p>
+    </div>
+  },
+  {
+    id: 597,
+    title: 'Gold gains reverse after US credit rating downgrade',
+    category: 'Commodities',
+    subCategory: ['Gold', 'gain', 'US'],
+    description: <div className="blog-desc">
+      <p>Gold prices reversed some of its gains on Thursday after Fitch Ratings downgraded the US credit rating, which weighed on the US dollar, and had boosted the safe-haven asset.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 11:52 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691126962/ncx-blog-1008_z0yzdn.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Gold prices reversed some of its gains on Thursday after Fitch Ratings downgraded the US credit rating, which weighed on the US dollar, and had boosted the safe-haven asset.</p>
+    	<p>At the time of writing, gold (GC=F) was trading down 0.26% at $1,969.80 an ounce. Since the start of the year it has gained about 8% but has not returned to the $2,081.58 peak seen on 3 May — close to the high last seen in March the previous year, just after Russia’s invasion of Ukraine.</p>	
+    	<p>Laith Khalaf, head of investment analysis at AJ Bell, told Yahoo Finance UK: “Gold has been trading at around $1,950 an ounce for most of this year. The precious metal is often seen as a safe haven, but investors also need to be careful not to equate this with price stability.</p>	
+    	<p>“People do tend to flock to the precious metal in terms of financial stress, but it shouldn’t be taken as read that gold isn’t volatile. It is, and steep losses can be incurred. Between 1980 and 1982, the gold price fell by over 60%, and between 2011 and 2015, it fell by around 45%.”</p>
+      <p>Gold has been a top performing asset in 2023, contributing positive returns to investor portfolios, the World Gold Council said in its mid-year outlook.</p>
+      <p>However, the most recent data on gold’s rate of return to investors, published in January by Statista, showed the annual average return of gold in 2022 was just 0.4%. In 2021, it said the return of gold was around -3.6%.</p>
+      <h3>What influences gold prices?</h3>
+      <p>Gold is often considered a “safe haven” for being a reliable hedge against inflation and for when the economy is unstable. Gold usually retains its value regardless of economic conditions.</p>
+      <p>Therefore, the Fitch Ratings US downgrade supported the price of gold this week because it dented confidence in the US economy.</p>
+      <p>The news also sent the dollar down, which in turn, further boosted the precious metal as it is priced in dollars, providing a lower price opportunity for investors purchasing it in other currencies.</p>
+      <p>Interest rates are also known to impact the price of gold. While not guaranteed, the price of gold usually decreases when interest rates rise and increases when interest rates go down.</p>
+      <p>As it stands, gold’s macroeconomic backdrop is uncertain after the US Federal Reserve raised interest rates by another 25 basis points in July and left the door open for another rise in September.</p>
+      <p>Analysts at ANZ said this could cap gold’s current price rise.</p>
+      <p>“We expect shifting expectations around its terminal rate [which] could cap the upside in the near-term. Investment demand remains lacklustre, as investors wait for the Fed to end its tightening cycle."</p>
+      <p>Meanwhile, Edward Moya, senior market analyst at OANDA, said gold’s rally could extend if growth prospects turn sour.</p>
+      <p>“If Wall Street starts aggressively in rate cuts by the first quarter of 2024, gold could easily find a home above the $2,000 level.”</p>
+      <p>Moreover, supply and demand influences gold prices. The higher the price, the lower the quantity demanded — and the lower the price, the higher the quantity supplied.</p>
+      <p>“I think gold is viewed as a safe haven asset by some investors. So in uncertain times there's probably more demand for it. Given you can't print it — more demand and limited supply can often lead to higher prices,” Simon Popple, managing director of Brookville Capital, said.</p>
+      <p>Investor behaviour is also a driver of gold prices with many traders adopting a "herd" mentality when there's a price trend.</p>
+      <h3>Gold’s co-relation with the dollar</h3>
+      <p>Gold prices can fluctuate with currency swings, particularly the US dollar as the precious metal is priced in the currency.</p>
+      <p>For example, when the Fitch downgrade sent the value of the dollar down, gold prices rose as other currencies gain value.</p>
+      <h3>India’s gold appetite</h3>
+      <p>India remains one of the largest gold markets in the world, along with China, according to World Gold Council data.</p>
+      <p>Therefore, if the demand for gold in one of these countries subsides, it can also impact the price of gold.</p>
+      <p>In India, demand increased in 2021 by about 78% to approximately 797.3 tonnes. This was a five-year high, according to this gold demand trends report by the World Gold Council.</p>
+      <p>Simultaneously, gold jewellery demand also doubled year-on-year in 2021, to touch a six-year high of about 610.9 tons.</p>
+      <p>It was primarily fuelled by urban consumers and tied to weddings and festivals, such as Dhanteras and Dusshera, during which time buying gold is seen as crucial to the social aspect of celebrations.</p>
+      <p>Khalaf said that while gold traders often think in just days or weeks, everyday investors usually want an asset they can hold for years, and the long-term case for gold is more nuanced.</p>
+      <p>"Gold produces no cash flows and has few industrial uses, with demand mostly coming from jewellery manufacture and investment, so it’s more difficult to pin an intrinsic value on the precious metal. Consequently, the long term direction of gold is pretty difficult to gauge because with no cash flows to speak of, sentiment will play a larger part in pricing," he said.</p>
+      <h3>Gold v stocks</h3>
+      <p>Gold peaked in 1980 and fell 33% over the next 20 years, taking 27 years for it to reach its former high.</p>
+      <p>“That’s a long period in the wilderness. The stock market has of course also experienced some lengthy spells of weak performance," said Khalaf.</p>
+      <p>"From the height of the dot com bubble in 1999 to the depths of the pandemic in 2020, the FTSE 100 fell by almost 30%. But over this period, an investor would have still experienced a 50% return on their money, with dividends rolled up. There’s no such luck for long-term gold investors who receive no cash payments along the way.”</p>
+      <p>However, gold provides diversification in a portfolio because it behaves differently to other assets, especially equities.</p>
+      <p>“If you’re a conservative investor, you might therefore hold bonds and gold alongside equities because they will tend to perform well at different times. We also now live in a world where cash and bonds are offering much higher yields to investors and that does take some of the limelight away from gold,” Khalaf said.</p>
+    </div>
+  },
+  {
+    id: 596,
+    title: 'UK petrol prices rise as oil price jumps to $85',
+    category: 'Commodities',
+    subCategory: ['UK', 'Petrol', 'Oil'],
+    description: <div className="blog-desc">
+      <p>Commuting got more expensive again in July as petrol prices rose for the second consecutive month while diesel remained stable, according to new data from RAC Fuel Watch.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 3:01 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691127308/ncx-blog-1009_jbhon8.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Commuting got more expensive again in July as petrol prices rose for the second consecutive month while diesel remained stable, according to new data from RAC Fuel Watch.</p>
+    	<p>The rising price at the pumps comes as the price of oil has been trading above the $80 level, even hitting $85 a barrel, with the cost of the commodity being passed down the chain to consumers.</p>	
+    	<p>The question is, will sellers take lower margins as the wholesale costs climb or will consumers feel more price rises?</p>	
+    	<p>As it stands, a litre of unleaded petrol across the UK costs 145p, up a penny since the start of July and nearly 2p since the beginning of June.</p>
+      <p>Meanwhile, diesel stayed the same at 146p, ending a run of eight months of falling prices.</p>
+      <p>This means filling a tank for a 55-litre family car costs around £80 for either fuel — £80.21 for diesel and £79.75 for petrol.</p>
+      <p>“Worryingly though, the wholesale price of petrol rose 6p a litre from 19 July on the back of the rising cost of oil with retailers wasting no time in passing this on to drivers as the average price has increased by nearly 2p in that time,” the RAC said.</p>
+      <p>“July marks a turning point in the year for fuel prices as diesel stopped falling while petrol recorded its second consecutive monthly increase. But more concerning is the fact that oil has gone back up to $85 a barrel, causing wholesale prices to rise significantly,” RAC fuel spokesman Simon Williams said.</p>
+      <p>“While we’re fortunately not in the kind of upward price spiral we experienced last year, it feels like the better times at the pump are over for the time being. If oil producers continue to curb production then bigger forecourt price rises could be on the cards.”</p>
+      <p>Petrol and diesel are still cheaper in Northern Ireland despite prices rising by 1p and 3p respectively.</p>
+      <p>“Unleaded is 4p less than the UK average (£2.20 a tank) and diesel almost 5p (£2.75 a tank). Sadly, this shows drivers on this side of the Irish Sea are still losing out. If and when we finally see the two sets of prices coming together we hope it will be as a result of lower forecourt prices in the rest of the UK,” Williams added.</p>
+    </div>
+  },
+  {
+    id: 595,
+    title: 'Gold retreats as dollar, bond yields resume climb',
+    category: 'Commodities',
+    subCategory: ['Gold', 'dollar', 'bond'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices slipped on Wednesday as the dollar rose and bond yields strengthened after data showed U.S. private payrolls increased more than expected in July.</p>
+    </div>,
+    authorName: 'Brijesh Patel',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 2, 2023 - 7:37 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691126306/ncx-blog-1007_arpfke.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Brijesh Patel</p>
+    	<p>(Reuters) - Gold prices slipped on Wednesday as the dollar rose and bond yields strengthened after data showed U.S. private payrolls increased more than expected in July.</p>	
+    	<p>Spot gold was down 0.4% at $1,935.77 per ounce at 2:45 p.m. EDT (1845 GMT), after rising as much as 0.6% earlier on some safe-haven bids after ratings agency Fitch downgraded the U.S. government's credit rating to AA+ from AAA.</p>	
+    	<p>U.S. gold futures settled 0.2% lower at $1,975.</p>
+      <p>"Higher interest rates would ultimately put pressure on gold. Also, we are seeing more strength in the dollar. Prices are trapped below $2,000 and above $1,900 for the time being," said Daniel Pavilonis, senior market strategist at RJO Futures.</p>
+      <p>The dollar rose 0.3% to more than a three-week high, making gold more expensive for holders of other currencies. Benchmark U.S. 10-year Treasury yields climbed to their highest level since November 2022. [USD/] [US/]</p>
+      <p>U.S. private payrolls rose by 324,000 jobs last month, the ADP National Employment Report showed, well above the increase of 189,000 that economists polled by Reuters had forecast.</p>
+      <p>The Federal Reserve raised interest rates by 25 basis points last week. According to the CME's FedWatch Tool, the probability that the U.S. central bank would leave rates unchanged at its Sept. 19-20 meeting was at 83%.</p>
+      <p>Higher interest rates increase the opportunity cost of holding non-yielding bullion.</p>
+      <p>"Traders and investors are not badly shaken over the surprise Fitch news, but it did somewhat deflate heretofore upbeat marketplace attitudes that had recently pushed U.S. stock indexes to new highs for the year," Jim Wyckoff, senior market analyst at Kitco, wrote in a note. [.N]</p>
+      <p>All eyes are on the release on Friday of the U.S. nonfarm payrolls report for July. Overall payrolls are forecast to rise by 200,000, after increasing by 209,000 in June.</p>
+      <p>Elsewhere, spot silver fell 2.5% to $23.72 per ounce, platinum dropped 1.1% to $921.10 and palladium gained 0.1% to $1,240.74.</p>
+      <p>(Reporting by Brijesh Patel and Deep Vakil in Bengaluru; Editing by Shilpi Majumdar, Paul Simao and Maju Samuel)</p>
+    </div>
+  },
+  {
     id: 594,
     title: 'UK to issue hundreds of new oil, gas licences in North Sea',
     category: 'Commodities',

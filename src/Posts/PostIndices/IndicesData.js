@@ -1,5 +1,213 @@
 const data = [
   {
+    id: 585,
+    title: 'LIVE: FTSE and pound sink as Bank of England hikes interest rates to 15-year high',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Pound', 'BOG'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 (^FTSE) was in the red on Thursday, with the pound (GBPUSD=X) also trading lower, as traders digested news that the Bank of England had increased interest rates from 5% to 5.25%.</p>
+    </div>,
+    authorName: 'LaToya Harding',
+    authorurl: 'https://www.yahoo.com/author/latoya-harding/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 4:46 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691066986/ncx-blog-997_wj538c.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 (^FTSE) was in the red on Thursday, with the pound (GBPUSD=X) also trading lower, as traders digested news that the Bank of England had increased interest rates from 5% to 5.25%.</p>
+    	<p>London's benchmark index fell 0.8% by noon trade, hovering just above a two-week low, while the CAC (^FCHI) tumbled 0.7% in Paris, and the Frankfurt DAX (^GDAXI) was 0.8% lower.</p>	
+    	<p>The move, which was widely expected by economists, means UK interest rates are now at a fresh 15-year high. It was the 14th consecutive increase, as the Bank battles runaway inflation.</p>	
+    	<p>The Bank also warned on Thursday that interest rates will remain high for at least two years while forecasting that inflation will hit its 2% target in the second quarter of 2025.</p>
+      <p>The pound which was already trading lower during the day, weakened further after the announcement, down 0.5% at $1.26 and 0.4% lower at €1.16.</p>
+      <p>"With stubbornly high services inflation and a remarkably resilient jobs market, the Bank of England had no choice but to hike again today," James de Bunsen, portfolio manager at Janus Henderson, said.</p>
+      <p>"Real signs of pain in the housing market earlier this week all but ruled out another 50bps rise. However, the MPC will keep administering its bitter medicine to the economy until it cures those price pressures. And, like a toxic course of chemo, this patient is going to feel a whole lot worse before it starts to get better."</p>
+      <p>The hike will mean further pain for mortgage rates. Higher mortgage rates are ready starting to weigh on the UK property sector, where prices are falling by the most since 2009.</p>
+      <p>For the roughly 150,000 borrowers on tracker or variable rate mortgages in London, today's hike means an instant hike in mortgage payments.</p>
+      <p>However, for the majority of homeowners who are on fixed-rate deals, the effect will not be felt until their fixes expire.</p>
+      <h3>Bitcoin falls on Binance fraud charge fear</h3>
+      <p>Bitcoin dipped over 2% following news the US Department of Justice (DOJ) is reportedly contemplating bringing fraud charges against cryptocurrency exchange Binance.</p>
+      <p>Bitcoin (BTC-USD) fell below the $29,000 mark in early trade in Asia, but then bounced back modestly, with its price settling around $29,100 (£22,956), down over 2%.</p>
+      <p>The DOJ is hesitating over the fraud charges due to concerns over the negative impact on the larger crypto industry, according to Semafor.</p>
+      <p>Federal prosecutors are concerned charges against Binance could cause a run on the platform. They fear a repeat of the FTX collapse in November 2022 when an indictment led to a bank run that caused many retail investors to lose their money.</p>
+      <h3>Era of cheap food has come to an end</h3>
+      <p>The Bank’s decision today to raise its policy rate by 25 basis points reflects the good, the bad and the ugly of tightening monetary policy.</p>
+      <p>The more positive news is that the inflation, which is currently running at 7.9pc, is expected to fall further. The Bank’s conditional forecasts show that they are due to fall to 5pc by the end of the year and that it will hit the Bank’s target by the beginning of 2025. Monetary policy is working.</p>
+      <p>The bad news is that even though food inflation is expected to moderate, food prices will remain high and not decrease. This means that the era of cheap food has probably come to an end in the UK. It also highlights the need to build resilience in the UK economy by doing more to bolster the domestic food growing industry.</p>
+      <p>The ugly news is that financial conditions are tightening for both homeowners with mortgages and those who are renting. The Bank estimates that four million additional households will face higher mortgage payments by the end of 2025.</p>
+      <p>Rental prices for new lets are increasing at double digits rates. The cooling in the housing market means that housing investment is expected to decrease, which is likely to lead to fewer houses being built in the future.</p>
+      <h3>Will the UK go into recession?</h3>
+      <p>During the press conference, Andrew Bailey said it was the Bank's job to ensure inflation falls all the way back to its 2% target and stays low.</p>
+      <p>He added: "We do recognise, and I think it’s very important to say, that inflation has a very serious effect particularly on those least well off.</p>
+      <p>"But I will emphasise that the economy is more resilient. Yes unemployment has gone up a bit, but it is still at historically low levels. We haven’t experienced a recession and we’re not forecasting one."</p>
+      <p>Meanwhile, Vivek Paul, UK chief investment strategist at the BlackRock Investment Institute, said:</p>
+      <p><strong>"With over 500 basis points in cumulative tightening so far, it is hard to see the UK avoiding a period of weak economic growth.</strong></p>
+      <p><strong>Pandemic savings and cost-of-living support have been providing a buffer to UK households, but the delayed impact of rate rises, including the impact of higher mortgage rates, will start to bite.</strong></p>
+      <p><strong>Whether or not a recession formally occurs is secondary to the bigger picture – when we look back at this period in decades to come, we’ll likely see this as the middle of a multi-year stretch of near-zero growth."</strong></p>
+      <h3>BoE on inflation</h3>
+      <p>The Bank added on Thursday that it is forecasting inflation will hit its 2% target in the second quarter of 2025.</p>
+      <p>It also warned that interest rates will remain high for at least two years, and downgraded its expectation for GDP growth for this year to 0.5% from 0.75%.</p>
+      <h3>Chancellor responds to interest rates decision</h3>
+      <p>Chancellor of the exchequer, Jeremy Hunt said:</p>
+      <p><strong>“If we stick to the plan, the Bank forecasts inflation will be below 3% in a year's time without the economy falling into a recession.</strong></p>
+      <p><strong>“But that doesn't mean it's easy for families facing higher mortgage bills so we will continue to do what we can to help households.'”</strong></p>
+      <h3>Bank of England raises interest rates to new 15-year high</h3>
+      <p>The Bank of England has increased interest rates by 0.25% to 5.25%, its 14th consecutive hike, as it aims to combat high inflation.</p>
+      <p>The move, which was widely expected by economists, means UK interest rates are now at a fresh 15-year high.</p>
+      <p>The Monetary Policy Committee (MPC) voted in a three-way split over the rate rise.</p>
+      <p>Seema Shah, chief global strategist at Principal Asset Management, said:</p>
+      <p><strong>“It’s perhaps a little astonishing that, with inflation sitting at 7.9%, the Bank of England has managed to sound somewhat dovish today.</strong></p>
+      <p><strong>Clearly the weaker-than-expected June inflation number has strongly influenced the Bank’s decision to hike by just 25 basis points rather than the 50 basis points, although the three-way split in voting suggests that there are still a couple of hawks who are very concerned by the extremely elevated inflation numbers.</strong></p>
+      <p><strong>The Bank’s growth outlook is appropriately bleak. While Rishi Sunak will be relieved to see the UK is expected to escape recession, economic stagnation through to 2025 will certainly make for a challenging election backdrop.</strong></p>
+      <p><strong>Policy rates may not rise all the way to 6%, as had been feared a month ago, but the economic damage will still be significant.”</strong></p>
+      <h3>BoE: Positive Money protest</h3>
+      <p>We are just moments away from the Bank of England decision at noon. Here are some photos of protestors outside of Threadneedle Street this morning.</p>
+      <p>As well as an end to interest rate hikes, the protesters are calling for a windfall tax on the excess profits banks have made off the back of soaring rates.</p>
+      <p>They held balloons bearing the figure of £28.93 billion, reflecting the profits of the Big Four UK banks for the first half of this year and symbolising how they’ve “ballooned” 80% since last year, when they were £16.6 billion.</p>
+      <p>Hannah Dewhirst, head of campaigns at Positive Money, said:</p>
+      <p><strong>“We came out today to tell the Bank of England that we’ve had enough of senseless interest rate rises.</strong></p>
+      <p><strong>“Rate rises are failing to bring down inflation fuelled by international fossil fuel prices and food prices disrupted by climate change. They will only continue to impoverish households and enrich banks.</strong></p>
+      <p><strong>“What we need are better tools for dealing with inflation than blunt instruments like interest rates, and a windfall tax on bank profits to redress the harm done to workers and families by rate hikes."</strong></p>
+      <h3>London Stock Exchange Group boosted by interest rates</h3>
+      <p>The London Stock Exchange Group (LSEG.L) was among the top fallers in the FTSE 100 (^FTSE) on Thursday. despite revealing a jump in income from rising interest rates and growth in its data operation.</p>
+      <p>The stock sank around 6% in early trade following as it slightly missed profit estimates for its first half. Adjusted operating profit hit £1.4bn ($1.78bn), compared to a consensus estimate of £1.5bn. This was almost flat compared with a year ago.</p>
+      <p>Capital markets was the segment that grew the least, up 1.5% on the year. Meanwhile post-trade grew 19.2% and the data and analytics business was up 7.6%.</p>
+      <h3>Next ups profit forecast</h3>
+      <p>Next has announced its second quarter trading statement today. Here are the top lines:</p>
+      <p><strong>Full price sales were up 6.9% versus last year in the second quarter (May to July)The end of season sale went well with clearance rates ahead of group expectationsNext has increased its full year profit before tax guidance by £10m to £845m</strong></p>
+      <p>Charlie Huggins of Wealth Club said:</p>
+      <p><strong>"Next pulled a rabbit out of the hat on 19 June when it said sales had been much better than expected in the first seven weeks of the year. Since then sales growth has remained robust with Next ending the first half strongly.</strong></p>
+      <p><strong>Despite this excellent first half performance, Next remains cautious and is expecting sales to be broadly flat in the second half, a material slowdown.</strong></p>
+      <p><strong>So far, 2023 has not been anywhere near as bad as expected for the UK consumer, and this has benefitted Next and its peers. The big question is - how much longer can this last? Recent signs that inflation is moderating offers hope for the economy, but the longer interest rates stay above 5% the greater the likely squeeze on disposable incomes."</strong></p>
+      <h3>Pound hits lowest level since June</h3>
+      <p>The pound has fallen to its lowest level since June ahead of the Bank of England rate decision at noon today.</p>
+      <p>The pound (GBPUSD=X) is down against the US dollar by 0.5% to 1.2649. Against the euro, sterling (GBPEUR=X) was 0.3% lower to 1.1578.</p>
+      <p>Policymakers are expected to raise interest rates to a 15-year high of 5.25%, up from its current level of 5%, as the Bank seeks to tame inflation.</p>
+      <p>Sterling was the best performing major currency against the dollar in the first half of the year due to expectations the Bank would have to raise rates further than its global peers.</p>
+      <h3>Gold gains reverse after US credit rating downgrade</h3>
+      <p>Gold has been trading at around $1,950 an ounce for most of this year. The precious metal is often seen as a safe haven. Photo: Getty.</p>
+      <p>Gold prices reversed some of its gains on Thursday after Fitch Ratings downgraded the US credit rating, which weighed on the US dollar, and had boosted the safe-haven asset.</p>
+      <p>Earlier today, Gold (GC=F) was trading down 0.26% at $1,969.80 an ounce.</p>
+      <p>Since the start of the year it has gained about 8% but has not returned to the $2,081.58 peak seen on 3 May — close to the high last seen in March the previous year, just after Russia’s invasion of Ukraine.</p>
+    </div>
+  },
+  {
+    id: 584,
+    title: 'U.S. Stock Futures Continue Downgrade Slump With Big Tech Earnings in Focus',
+    category: 'Indices',
+    subCategory: ['US', 'Stocks', 'Futures'],
+    description: <div className="blog-desc">
+      <p>U.S. stock futures remained in a slump on Thursday as the U.S. credit rating downgrade by Fitch continued to sour sentiment, with investors looking ahead to earnings results out of Big Tech in the day ahead.</p>
+    </div>,
+    authorName: 'Jack Denton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 2:22 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691066800/ncx-blog-996_remwz7.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>U.S. stock futures remained in a slump on Thursday as the U.S. credit rating downgrade by Fitch continued to sour sentiment, with investors looking ahead to earnings results out of Big Tech in the day ahead.</p>
+    	<p>Futures for the Dow Jones Industrial Average retreated 50 points, or 0.1%, after the index tumbled 348 points on Wednesday to finish at 35,282. S&P 500 futures shed 0.2%, with contracts tracking the tech-heavy Nasdaq 0.3% in the red.</p>	
+    	<p>Fitch’s shock downgrade of the U.S. credit rating earlier this week has slammed the stock market—albeit not as much as the last time another major rating firm did the same, in 2011—and ushered the S&P 500 to its worst day since April on Wednesday. Stocks are still under pressure moving into Thursday as a shift in sentiment away from risk has continued with corporate earnings and key economic data looming.</p>	
+    	<p>“In a couple of weeks we may have forgotten about the Fitch U.S. debt downgrade but it's certainly given the start of the month a big dose of volatility,” said Jim Reid, a strategist at Deutsche Bank. “All this excitement has occurred ahead of a big day today including the Bank of England rate decision, U.S. services ISM, jobless claims, unit labor costs, and productivity, with Apple and Amazon then reporting after the bell.”</p>
+      <p>Indeed, quarterly earnings out of Big Tech are on tap, including from the world’s largest public company, Apple (ticker: AAPL), and fellow technology giant Amazon (AMZN), both reporting after the market close. After a big rally for tech stocks this year—which has buoyed the major indexes—the bar looks high for both companies.</p>
+      <p>Economic data will also be in focus in the day ahead, though U.S. services ISM and other readings will likely be overshadowed by the highlight of the week coming Friday, when the U.S. jobs report for July is released. This report is a key bellwether for the strength of the U.S. economy and an influential data point for the Federal Reserve as the central bank mulls interest-rate policy at a watershed moment.</p>
+      <p>DJIA
+
+      DJIA (Dow Jones Global)
+
+      35282.52-348.16-0.98%</p>
+      <p>S&P 500
+
+      SPX (S&P US)
+
+      4513.39-63.34-1.38%</p>
+      <p>Nasdaq
+
+      COMP (Nasdaq)
+
+      13973.45-310.47-2.17%</p>
+    </div>
+  },
+  {
+    id: 583,
+    title: 'Dow Jones Today: Index Dives on Rating Cut',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Index', 'Rating'],
+    description: <div className="blog-desc">
+      <p>Investors reacted to the Fitch Rating agency’s downgrade of U.S. credit, sending long-term bonds higher and the Dow Jones lower by about 1%, or 350 points.</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 - 12:33 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691066328/ncx-blog-995_dqa1aq.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Investors reacted to the Fitch Rating agency’s downgrade of U.S. credit, sending long-term bonds higher and the Dow Jones lower by about 1%, or 350 points.</p>
+    	<h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>The Dow Jones dropped almost 350 points, or about 1%, as stocks fell across indexes as Fitch cut the U.S. credit rating.</li>
+        <li>Walgreens was up as its rival CVS reported positive results.</li>
+        <li>Intel, Microsoft, Salesforce and Apple all fell as the tech sector lost 2.5%.</li>
+      </ul>
+      <p>Investors reacted to a downgrade of the U.S. credit rating by sending stocks lower across the board, along with boosting Treasury yields, to push the Dow Jones Industrial Average lower by almost 1%, or about 350 points.</p>	
+    	<p>The downgrade from the Fitch Ratings agency served to boost the 10-year Treasury yield to its highest level since November, hitting 4.08%, which served to serve tech stocks lower.</p>	
+    	<p>Since tech companies are primarily valued on profits expected to be earned in the future, higher bond yields make those future earnings look less valuable in comparison. Consequently, the Nasdaq dropped more than 2.1%, while the S&P 500 declined by 1.4%.</p>
+      <p>Walgreens Boots Alliance (WBA) was up 3.3% as its rival pharmacy retailer CVS (CVS) beat analyst estimates on earnings and revenues for the second quarter, sending CVS shares higher by 3.4%.</p>
+      <p>Johnson & Johnson (JNJ) shares moved up 0.4% after it reached an agreement with cancer victims in its talc lawsuits to appeal a bankruptcy judge’s recent ruling that derailed the $9 billion settlement.</p>
+      <p>Intel (INTC) shares fell 3.75% as its rival Advanced Micro Devices (AMD) reported earnings that showed continued weakness in the PC market, helping send AMD shares lower by almost 7%.</p>
+      <p>Shares of Walt Disney Company (DIS) traded lower by 3% while Boeing (BA) shares dropped 2.75%.</p>
+      <p>Amid a broader technology sector decline of 2.5%, Microsoft (MSFT) was down 2.4%, Salesforce (CRM) lost 1.7% and Apple (AAPL) dropped 1.5% ahead of its earnings report, scheduled for after the market closes on Thursday.</p>
+    </div>
+  },
+  {
+    id: 582,
+    title: 'Stock Market Losses Deepen At Midday As Nasdaq Tumbles 2.3%; These Stocks Are Damaged',
+    category: 'Indices',
+    subCategory: ['NAsdaq', 'Stock', 'Market'],
+    description: <div className="blog-desc">
+      <p>Stock market losses grew at midday Wednesday as a downgrade of U.S. government debt and strong jobs data and earnings reports rattled bulls' confidence. The Nasdaq composite led losses with a 2.3% drop at midday.</p>
+    </div>,
+    authorName: 'JUAN CARLOS ARANCIBIA',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 2, 2023 - 8:02 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691065893/ncx-blog-994_fef3fv.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stock market losses grew at midday Wednesday as a downgrade of U.S. government debt and strong jobs data and earnings reports rattled bulls' confidence. The Nasdaq composite led losses with a 2.3% drop at midday.</p>
+    	<p>The Nasdaq composite led losses with a 2.3% drop at midday. The composite is now slightly below its 21-day exponential moving average and the 14,000 level.</p>	
+    	<p>The S&P 500 gapped down 1.3% as it also tests the 21-day line and the 4500 level. The Dow Jones Industrial Average lost 0.7%. The small-cap Russell 2000 was off 1.5%.</p>
+      <p>Volume rose on the Nasdaq and NYSE compared with the same time on Tuesday.</p>
+      <p>The Innovator IBD 50 ETF (FFTY) fell 3.2%, as half of its stocks fell 3% or more.</p>
+      <p>Dynatrace (DT) gapped below its 50-day moving average in a 13% sell-off despite a better-than-expected June quarter. CrowdStrike (CRWD) fell back below the 162.25 buy point of Tuesday's breakout as shares slid 7.5%.</p>
+      <p>ELF Beauty (ELF) offset some of the IBD 50's loss as it soared 15% to a record high. The cosmetics products company sailed past June-quarter expectations and raised its full-year outlook.</p>
+      <p>Among major stocks, Microsoft (MSFT) dipped below its 50-day moving average, and Alphabet (GOOGL) is back near its 127.10 buy point.</p>
+      <h3>Fitch Downgrade Hits Stock Market</h3>
+      <p>In an unpleasant surprise for the stock market, Fitch Ratings late Tuesday downgraded U.S. long-term debt from a best-possible AAA to AA+ with a stable outlook.</p>
+      <p>"In Fitch's view, there has been a steady deterioration in standards of governance over the last 20 years, including on fiscal and debt matters," the rating agency said in announcing its decision. "The repeated debt-limit political standoffs and last-minute resolutions have eroded confidence in fiscal management."</p>
+      <p>Fitch also cited concerns about ballooning government deficits. It expects government deficits to rise to 6.3% of GDP in 2023, from 3.7% in 2022. That reflects weaker federal revenues, new spending initiatives and a higher interest burden. State and local governments are expected to run an overall deficit of 0.6% of GDP this year after running a small surplus of 0.2% of GDP in 2022.</p>
+      <p>It was the first Fitch downgrade of U.S. debt since Aug. 5, 2011, according to Dow Jones Market Data. The S&P 500 fell 6.7% the next day, which makes today's stock market reaction much more tolerable. Still, investors should be more guarded with risk-off now the predominant theme.</p>	
+      <p>Earlier Wednesday, the ADP Employment Survey showed the job market was still firm. July payrolls of 324,000 fell from 455,000 in June, but it was well above forecasts for 185,000, according to FactSet. That doesn't show a weakening job market like the one the Fed might prefer.</p>
+      <p>The benchmark 10-year Treasury yield rose 6 basis points to 4.11%. It's been above the 4% level three of the past five days. It is at the highest since Nov. 9, 2022.</p>
+      <p>U.S. crude oil fell 2.5% to $79.34 a barrel. That's despite the fact that the Energy Information Administration reported a drop in inventories of 17 million barrels from the previous week.</p>
+      <h3>Earnings Movers In Today's Stock Market</h3>
+      <p>Technology and health care companies were among the big earnings movers this morning.</p>
+      <p>Advanced Micro Devices (AMD) reversed to a loss of 6.9% even after the chip company late Tuesday beat Q2 expectations. AMD cited growing sales of chips for artificial intelligence. The stock is meeting resistance at its 50-day moving average as it forms a base-on-base formation.</p>
+      <p>Cardlytics (CDLX) vaulted 21% in huge volume, gapping to the highest level in nearly a year. The purchase analytics company beat Q2 expectations.</p>
+      <p>But Dynatrace (DT), another tech leader, sold off 13% at midday in heavy volume, piercing its 50-day moving average.</p>
+      <p>Humana (HUM) gapped above its downward-trending 50-day moving average. The managed care provider topped second-quarter estimates and raised its estimate of Medicare Advantage membership.</p>
+      <p>CVS Health (CVS) reversed higher by 3.6%. The operator of CVS drugstores and Aetna managed care topped sales and profit views. It cut its GAAP EPS guidance but maintained adjusted EPS guidance of $8.50 to $8.70.</p>
+      <h3>Restaurant Results Mixed</h3>
+    	<p>In the restaurant industry, Starbucks (SBUX) also reversed higher, up 2.7% at midday. The company gave a mixed June-quarter report late Tuesday.</p>
+      <p>Yum Brands (YUM) — which owns Taco Bell, KFC and Pizza Hut — erased early losses and was up nearly 1% at midday. Wingstop (WING) reversed higher and is trying to reclaim its 200-day moving average. The company beat Q2 views and raised its same-store sales and store expansion forecasts.</p>
+    </div>
+  },
+  {
     id: 581,
     title: 'US stocks up as FTSE closes higher amid unexpected UK mortgage approval rates',
     category: 'Indices',

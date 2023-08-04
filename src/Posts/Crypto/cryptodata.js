@@ -1,5 +1,221 @@
 const data = [
   {
+    id: 635,
+    title: 'Ripple gives two cents on SEC ruling, locks new set of XRP',
+    category: 'Crypto',
+    subCategory: ['Ripple', 'XRP', 'SEC'],
+    description: <div className="blog-desc">
+      <p>Ripple’s official response to the partial win against the SEC called the regulatory’s authority’s lawsuit nothing but a propaganda. Days after the win, XRP didn’t seem in the best of spirits.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691075606/ncx-blog-1006_oowiap.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ripple’s official response to the partial win against the SEC called the regulatory’s authority’s lawsuit nothing but a propaganda. Days after the win, XRP didn’t seem in the best of spirits.</p>
+    	<ul>
+        <li>The blockchain firm, Ripple, pointed out that both the judgment protects institutions and retailers.</li>
+        <li>Ripple sent 800 million XRP to its escrow wallet.</li>
+      </ul>
+      <p>Ripple [XRP] finally gave an in-depth response to the partial win it had against the U.S. SEC on 13 July. Although the firm expressed its gladness shortly after the ruling, its latest Q2 market report provides a lot of clarity on certain misconceptions about the case.</p>	
+    	<p>While Ripple published the report on 31 July, it only went public on 2 August. According to Ripple, SEC’s lawsuit against it was misguided and a “quest for political power.”</p>
+      <h3>Clarifying misconceptions</h3>	
+    	<p>However, Ripple also addressed some misinterpretations of the judgment. According to the firm, XRP is not just security in some corners but in all areas. Accusing the SEC of being a propaganda merchant, Ripple said,</p>
+      <p><strong>“The statement that the same “thing” can be sold to buyer “A” as part of a simple buy/sell transaction and also sold to buyer “B” as part of an investment contract is a non-controversial statement of the law. What finds no basis in the law is the SEC’s propaganda to the contrary.”</strong></p>
+      <p>Ripple also addressed some comments that pitched their tent with the notion that the judgment favored institutional investors over the retail cohort. The blockchain company explained that the sentiment was nowhere true saying that,</p>
+      <p><strong>“Consumers need protection, but not all roads lead to the SEC. If the SEC’s overreach has exposed a regulatory gap, that gap is not for a court to fill (and certainly not for the SEC to fill without legal authority).”</strong></p>
+      <p>Meanwhile, the crypto wallet sleuth Whale Alert noted that Ripple once again locked 800 million XRP by sending it into an escrow wallet.</p>
+      <h3>XPR locked again</h3>
+      <p>As a rule of thumb, Ripple locks XRP occasionally to ensure that market there is a balance between supply and demand in the market. In the report, Ripple also mentioned its XRP balance on the ledger, and in escrow. The report shed light on its holdings:</p>
+      <p><strong>“XRP that it currently has available in its wallets, and XRP that is subject to on-ledger escrow lockups that will be released each month over the next 42 months.”</strong></p>
+      <p>Ripple CEO Brad Garlinghouse also commented on the report. He noted that the SEC had once used the firm’s transparency against it. But this time, the regulatory agency cannot do that.</p>
+      <p>Lately, another judge handling the Terraforms Labs matter opined that the Ripple ruling was wrong. As of this writing, the sentiment around XRP was no more as optimistic as it was before.</p>
+      <p>As of this writing, XRP’s 30-day performance was a 43.16% hike— a drawdown from the incredible rise when Judge Torres declared XRP a partial winner.</p>
+    </div>
+  },
+  {
+    id: 634,
+    title: 'Why LTC’s post halving price action may leave investors feeling bitter',
+    category: 'Crypto',
+    subCategory: ['LTC', 'havling', 'Investors'],
+    description: <div className="blog-desc">
+      <p>A trip down memory lane reveals that Litecoin’s previous halving events in 2015 and 2019 did not yield much of an impact on its price action. In 2019 the price continued dipping days after the halving, A confirmation that the halving barely influenced the price</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691075190/ncx-blog-1005_gvl8lt.png',
+    content: <div className="blog-content">
+	    <h3>In this article:</h3>
+	    <p>A trip down memory lane reveals that Litecoin’s previous halving events in 2015 and 2019 did not yield much of an impact on its price action. In 2019 the price continued dipping days after the halving, A confirmation that the halving barely influenced the price</p>
+	    <ul>
+        <li>Litecoin successfully goes through its third halving event.</li>
+        <li>LTC extends its dip contrary to the bullish expectations around the halving.</li>
+      </ul>
+      <p>The highly anticipated Litcoin halving is finally completed and it is rather anticlimactic. This is because there were heavy expectations regarding the event based on what it does for LTC’s scarcity.</p>	
+	    <p>Before we get into the details, it is important to understand the core concept behind halvings. It happens when the block rewards issued for transaction validation in a proof-of-work network are slashed by half.</p>
+      <p>In Litecoin’s case, the halving will reduce the amount of LTC released in circulation after every four years. Doing so will lower the impact of inflation on LTC while maintaining a low supply.</p>
+      <h3>Litecoin’s price action during previous halvings reveals something interesting</h3>	
+    	<p>The aforementioned changes underscore one of the main reasons for the bullish expectations that have prevailed recently. Unfortunately, LTC’s actual performance in the days leading up to Litecoin’s latest halving has been rather underwhelming. However, this is not surprising, especially from a historic perspective.</p>
+      <p>A trip down memory lane revealed that Litecoin’s previous halving events in 2015 and 2019 did not yield much of an impact on its price action. In 2019 the price continued dipping days after the halving, A confirmation that the halving barely influenced the price.</p>
+      <p>Meanwhile, IntoTheBlock just released a comparison of some of the key metrics comparing the state of Litecoin in 2019 versus 2023.</p>
+      <h3>LTC bears prevail amid a successful halving</h3>
+      <p>Interestingly, LTC’s price action maintained a similar outcome. One would anticipate a bullish outcome given the importance of the halving and the hype around it but that was not the case.</p>
+      <p>Instead, LTC extended the bearish performance that has prevailed since the start of July. LTC exchanged hands at $87.59 after dipping by 6.7% in the last 24 hours.</p>
+      <p>As far as on-chain observations were concerned, we saw a bit of an uptick in the total open interest in USD. But the most notable change was the surge in social volume especially in the last 24 hours, soaring to a monthly high.</p>
+      <p>Despite this social volume surge, on-chain volume only managed a slight uptick.</p>
+      <p>Assessing LTC’s buy or sell pressure revealed that there was a slight uptick in realized cap in the last two days. This reflected the prevailing sell pressure as observed in the last 24 hours, which means short-term profit-taking was still active.</p>
+      <p>On the other hand, the mean coin age has been ascending steadily for the last four weeks.</p>
+      <p>The ascending mean coin age confirmed that there was a healthy amount of hodling going on in the LTC community despite the unfavorable price action.</p>
+    </div>
+  },
+  {
+    id: 633,
+    title: 'ETH tumbles despite the cheer around Ethereum’s ETF license. Assessing…',
+    category: 'Crypto',
+    subCategory: ['ETH', 'ETF', 'Despite'],
+    description: <div className="blog-desc">
+      <p>Ethereum faces a bearish storm amid shifting tides, but an influx of new traders through its ETF could change its direction.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691074517/ncx-blog-1004_gm2sig.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Ethereum faces a bearish storm amid shifting tides, but an influx of new traders through its ETF could change its direction.</p>
+     <ul>
+        <li>Six institutions have filed applications for Ethereum ETF.</li>
+       <li>ETH and S&P 500 prices trend separately as stocks gain more value.</li>
+     </ul>
+    	<p>A recent report showed that certain financial institutions have begun applying for an Ethereum ETF. As ETH gains recognition as an asset class in traditional finance, its price trend could be affected.</p>	
+    	<h3>Ethereum ETF on the cards</h3>
+     <p>According to Eric Balchunas, a senior ETF analyst at Bloomberg, six companies are applying for Ethereum futures ETFs. On 1 August, Volatility Shares, Bitwise, Roundhill, VanEck, Proshares, and Grayscale filed applications for these ETFs.</p>
+     <p>An Ethereum ETF is an exchange-traded fund that includes ETH or assets linked to its price. Unlike cryptocurrencies that are traded on dedicated cryptocurrency exchanges, an ETH ETF is traded on a traditional exchange.</p>
+     <p>The functioning of an ETH ETF is similar to any other ETF. Investors can purchase shares in the ETF through their brokerage, just like they buy stocks, and can trade these shares in the same manner.</p>
+     <p>The advantage of an Ethereum ETF is that investors don’t need to be concerned about private keys, storage, or security related to holding cryptocurrencies. Instead, they own shares in the ETF, providing them exposure to the cryptocurrency market without the complexity of purchasing and holding actual crypto assets.</p>
+     <h3>Current Ethereum and S&P 500 correlation</h3>
+     <p>The crypto-S&P 500 correlation chart revealed that Ethereum exhibited a strong correlation with stocks from early June to late July. During this period, their price trends moved in sync. However, the correlation weakened over time, and since then, ETH’s price trend has diverged from that of the S&P 500 and other stocks.</p>
+     <p>As of the current writing, the S&P 500 and other stocks have experienced notable increases, rising by over 10%. In contrast, the price of ETH declined, though it has been relatively small, remaining below 1%.</p>
+     <h3>ETH on a daily timeframe</h3>
+     <p>As of this writing, Ethereum was experiencing a loss on a daily timeframe, being valued at approximately $1,830, representing a 2% decline from previous levels. The Moving Average Convergence Divergence (MACD) indicator indicated a bearish sentiment as of this writing.</p>
+     <p>Additionally, the Relative Strength Index (RSI) line was nearing 40, which suggested the continuation of a significant bearish trend for Ethereum.</p>
+    </div>
+  },
+  {
+    id: 632,
+    title: 'wBTC transaction volume spikes. This is what it means for BTC…',
+    category: 'Crypto',
+    subCategory: ['wBTC', 'BTC', 'Transaction'],
+    description: <div className="blog-desc">
+      <p>Whales make waves as wBTC surges, stirring BTC trend questions. Positive exchange flow meets bearish resistance.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691074168/ncx-blog-1003_kflgds.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Whales make waves as wBTC surges, stirring BTC trend questions. Positive exchange flow meets bearish resistance.</p>
+       <ul>
+       <li>wBTC saw a couple of 2,000 transfers for the first time in over a month.</li>
+       <li>Inflow has dominated Bitcoin flow as the price remained bearish.</li>
+      </ul>
+	    <p>The wrapped version of Bitcoin [wBTC] recently experienced a significant surge. This move raised questions about whether holders were redeeming their BTCs and if it impacted the BTC trend.</p>	
+      <h3>wBTC transaction volume spikes</h3>
+      <p>On 1 July, the transaction volume of wrapped wBTC surged to over 7,000, marking the second occurrence of such a spike in over two months. However, the most notable activity on that day was related to top token transactions per Santiment.</p>
+      <p>There were two significant movements of 2,000 wBTC each, which decreased the supply of wBTC on exchanges. Notably, this whale transaction was the first in over a month.</p>
+      <p>As of this writing, the transaction volume exceeded 3,000, and the supply of wBTC on exchanges was approximately 3.4%. It’s important to understand that wrapped Bitcoin (wBTC) is a tokenized version of Bitcoin [BTC] that operates on a different blockchain network, commonly on the Ethereum blockchain. Its purpose is to provide the liquidity and functionality of BTC to decentralized applications (dApps) and smart contracts on the Ethereum platform.</p>	
+      <p>Wrapping Bitcoin involves depositing a specific amount with a trusted custodian or third party. Once the BTC is deposited, an equivalent amount of wBTC is minted and issued to the user. Each wBTC token is designed to maintain a 1:1 peg with the underlying BTC, ensuring that it is backed by an equal amount of BTC held in reserve. This mechanism allows wBTC to represent and track the value of Bitcoin while being usable in the Ethereum ecosystem.</p>
+      <h3>Tracking the trend of Bitcoin’s flow</h3>
+      <p>As per CryptoQuant’s data, while not highly significant, BTC did experience a positive flow on exchanges in the past few days. As of this writing, the exchange flow recorded more inflow, with over 1,200 BTC entering the exchanges.</p>
+      <p>This observation indicated that more BTC was being deposited into exchanges rather than withdrawn from them during this period.</p>
+      <h3>BTC stays trapped in the bear trend</h3>
+	    <p>Following a modest 1% price increase in the previous trading session on the daily timeframe, Bitcoin, once again, resumed its decline. At the time of writing, the price of BTC was approximately $29,500, reflecting a loss of nearly 1%.</p>
+      <p>Additionally, the Relative Strength Index (RSI) suggests that Bitcoin was still within a bearish trend, as it has been unable to break free from this downward trajectory.</p>
+    </div>
+  },
+  {
+    id: 631,
+    title: 'ADA stuck at key support, can bulls break through?',
+    category: 'Crypto',
+    subCategory: ['ADA', 'Stuck', 'bulls'],
+    description: <div className="blog-desc">
+      <p>ADA remained stuck at a critical price level, with Bollinger Bands suggesting a breakout move was imminent.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 3, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691073703/ncx-blog-1002_d3hkqu.png',
+    content: <div className="blog-content">
+      <h3>In this article:</h3>
+      <p>Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writer’s opinion.</p>
+	    <p>ADA remained stuck at a critical price level, with Bollinger Bands suggesting a breakout move was imminent.</p>
+      <ul>
+        <li>Buyers have propped up prices at a key support level.</li>
+        <li>Funding rates remained positive.</li>
+      </ul>
+	    <p>A recent price report on Cardano [ADA] highlighted the feasibility of the $0.3 support being a good buy level. However, bulls haven’t seized the opportunity, as prices remain stuck at key support levels.</p>	
+    	<p>While bulls and bears tussled for dominance at the critical price level, Bitcoin [BTC] rallied above $29k. Further gains for the king coin could provide the needed impulse for ADA bulls.</p>
+      <h3>A price breakout is looming, but which way will it go?</h3>
+      <p>ADA was on a gentle uptrend before the price rejection at the $0.376 price level. This led to a sharp reversal, which took ADA to the critical $0.3 support level. Despite the pullback, bulls have been able to hold on to the support level for over a week.</p>
+      <p>A look at the ADA’s price action on the 12-hour timeframe showed a tightening of the Bollinger Bands. This suggested that a price breakout was imminent. With prices lying at a critical level, the breakout could go either way.</p>
+	    <p>A bullish breakout will see ADA head toward the $0.35-$0.37 price level, with the $0.376 resistance a key hurdle to cross for more gains. On the flip side, a drop below the $0.3 support will see bears target the $0.25-$0.26 price region.</p>
+      <p>Meanwhile, the Relative Strength Index (RSI) hovered around the neutral 50, while the Chaikin Money Flow (CMF) also lingered around the zero mark. Both indicators revealed the neutrality of buyers and sellers while waiting for a clear trend to emerge from the press time price level.</p>
+      <h3>Market speculators can’t pick a side</h3>
+      <p>Speculators in the futures market adopted a cautious approach, due to the possibility of a price breakout. The Open Interest data on the four-hour timeframe fluctuated between $110 million and $120 million, per Coinalyze.</p>
+      <p>Another jump in BTC’s price could serve as the catalyst for the bullish breakout. Traders should however remain cautious and closely track Bitcoin’s price action.</p>
+    </div>
+  },
+  {
+    id: 630,
+    title: 'Can Ethereum NFTs return from the brink of a downfall',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'NFT', 'downfall'],
+    description: <div className="blog-desc">
+      <p>While traders may have hoped for respite, the NFT market keeps hinting at new lows.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 2, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691073344/ncx-blog-1001_gz345p.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>While traders may have hoped for respite, the NFT market keeps hinting at new lows.</p>
+      <ul>
+        <li>The NFT volume on the blockchain reached its lowest since November 2022.</li>
+        <li>Blur dominated OpenSea but trading activity on both marketplaces decreased.</li>
+      </ul>
+    	<p>Once recognized as a thriving landscape of digital art and collectibles, the Ethereum [ETH] NFT market was now experiencing a period of turbulence as activity and volume took a notable downturn. According to Dune Analytics, the transaction volume across all Ethereum marketplaces plunged to the lowest since November 2022.</p>	
+    	<p>Based on the data from the blockchain analytics platform, Blur stamped its dominance over OpenSea, as it recorded a $407.67 million volume all through the month. OpenSea and OpenSea Pro combined, on the other hand, fell short with a volume of $120.52 million.</p>
+      <h3>Addresses fall out of engagement</h3>
+      <p>However, the fall of NFTs in the Ethereum ecosystem has been impeding for a while. Before July, the market was in an ebb-and-flow state, with a decline commanding the flow for most of the year.</p>
+      <p>Besides the fall in volume, trading activity on these marketplaces has also decreased. According to Dune’s dashboard, the percentage of unique users on each on OpenSea, Blur, and the rest of the marketplace fell compared to previous months.</p>
+      <p>As a result of this decline, the number of independent addresses involved in Ethereum NFT transactions reached a two-year low.</p>	
+    	<p>A look at DappRadar’s data showed that almost all marketplaces in the Ethereum ecosystem registered a decline in traders in the last 30 days. At press time, traders on Blur had decreased by 33.25%</p>
+      <p>Furthermore, traders on the OpenSea marketplace fell by 28.24%. However, other marketplaces including Rarible and the OKX Marketplace registered upticks in sales and number of traders respectively.</p>
+      <h3>Finding respite in the “Otherside”</h3>
+      <p>Despite the drop in volume and activity, Bored Ape Yacht Club [BAYC] maintained the top position in sales. According to CryptoSlam, the Yuga Labs-backed collection recorded $25.71 million in sales.</p>
+      <p>Also, Yuga Labs had recently shown that it was not giving up on the NFT space in spite of the hawkish conditions.</p>
+      <p>On 31 July, the creator of BAYC and MAYC revealed that it was expanding its mission for the OthersideMeta collection. In doing this Yuga Labs noted that it was acquiring Roar Studios. It said,</p>
+      <p><strong>“We are proud to announce Yuga Labs is acquiring Roar Studios, a music and metaverse startup led by long-time entertainment Executive, Eric Reid, to execute our expansive vision for OthersideMeta.”</strong></p>
+      <p>Meanwhile, Ethereum NFT wash trading also fell. And according to crypto slam, the 30-day sales in this aspect were $279.10 million— a 61.79% decrease within the period.</p>
+    </div>
+  },
+  {
     id: 629,
     title: 'BNB network remains resilient despite market uncertainty',
     category: 'Crypto',
