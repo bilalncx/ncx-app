@@ -92,6 +92,7 @@ tr.hed {
 }
 .mark-pair img {
     width: 30px;
+    border-radius: 50px;
 }
 .more_bt {
     text-align: center;

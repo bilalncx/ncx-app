@@ -138,7 +138,7 @@ function HomePageMarketSection()
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://res.cloudinary.com/daskmpyeg/image/upload/v1674490251/coins/eth_ykylbq.png" alt="coin-logo" />
+                    <img src=${Coin2Image} alt="coin-logo" />
                     <h1>${Coin2ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -163,7 +163,7 @@ function HomePageMarketSection()
             
             <tr>
                 <td class="mark-pair">
-                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689920132/usdt_skcvw0.svg" alt="coin-logo" />
+                    <img src=${Coin3Image} alt="coin-logo" />
                     <h1>${Coin3ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -188,7 +188,7 @@ function HomePageMarketSection()
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689918232/xrp_dvuz4k.svg" alt="coin-logo" />
+                    <img src=${Coin4Image} alt="coin-logo" />
                     <h1>${Coin4ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -288,7 +288,7 @@ function HomePageMarketSection()
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689918262/ada_pzfne4.svg" alt="coin-logo" />
+                    <img src=${Coin8Image} alt="coin-logo" />
                     <h1>${Coin8ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -338,7 +338,7 @@ function HomePageMarketSection()
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689918359/tron_yl0zgq.svg" alt="coin-logo" />
+                    <img src=${Coin10Image} alt="coin-logo" />
                     <h1>${Coin10ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
@@ -413,7 +413,7 @@ function HomePageMarketSection()
 
             <tr>
                 <td class="mark-pair">
-                    <img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1689921541/dot_ld7irl.svg" alt="coin-logo" />
+                    <img src=${Coin13Image} alt="coin-logo" />
                     <h1>${Coin13ID} / USDT</h1>
                 </td>
                 <td class="mark-price">
