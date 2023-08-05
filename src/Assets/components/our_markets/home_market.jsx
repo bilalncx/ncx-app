@@ -6,16 +6,17 @@ import { useTranslation } from "react-i18next";
 function HomePageMarketSection()
 {
     const api_url =
-	"https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=15&page=1&sparkline=false&price_change_percentage=24h&locale=en";
+	// "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=15&page=1&sparkline=false&price_change_percentage=24h&locale=en";
+    "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1&sparkline=false&price_change_percentage=24h&locale=en";
 
     async function getapi(url) {
         
         const response = await fetch(url);
-        console.log(response);
+        // console.log(response);
         
         // Storing data in form of JSON
         var data = await response.json();
-        console.log(data);
+        // console.log(data);
         
         if (response) {
             hideloader();
