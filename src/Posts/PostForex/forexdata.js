@@ -1,5 +1,94 @@
 const data = [
   {
+    id: 609,
+    title: 'USD/JPY Weekly Price Forecast – US Dollar Continues to See Noisy Behavior',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Froecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar continues to show a lot of volatility, and the jobs report coming out on Friday weaker than expected will continue to cause more noise. That being said, the interest rate differential between the two could continue to drive this pair higher. In fact, that is exactly what I expect to see.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 - 9:27 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691320056/ncx-blog-1019_fiqvm9.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The US dollar continues to show a lot of volatility, and the jobs report coming out on Friday weaker than expected will continue to cause more noise. That being said, the interest rate differential between the two could continue to drive this pair higher. In fact, that is exactly what I expect to see.</p>
+    	<p>The 142.50 level above should be slightly resistant, but in the end, I don’t see why we couldn’t break above there. A short-term pullback makes a lot of sense, and that should be a buying opportunity going forward. The “buy on the dips” attitude can continue, and I expect it to. Also, you get paid to hold onto it. The market has been rising for some time, and the momentum continues to see upward pressure more than anything else.</p>	
+    	<p>This continues to be a market of noise, but there are a lot of opportunities out there. I like collecting swaps, and the 138 level underneath is going to be a major support level. This is an area that the sellers and buyers have been active at. The shape of the candle is somewhat lackluster, but the previous couple of weeks have been bullish, so this means that the markets are going to continue to see a lot of support in the short term as well.</p>	
+    	<p>A break above the top of the candlestick would be a very bullish sign, and could have this market chasing the 145 level, followed by the 147.50 level. I think we get there eventually but there is a lot of choppiness ahead in this pair.</p>
+    </div>
+  },
+  {
+    id: 608,
+    title: 'GBP/USD Weekly Forecast – British Pound Bounces Hard',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has fallen significantly during the course of the week to reach the 1.2650 level. The 1.2650 level underneath is a large, round, psychologically significant midcentury number, where the market has previously seen a lot of resistance.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 - 9:21 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691319909/ncx-blog-1018_bhjjvn.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The British pound has fallen significantly during the course of the week to reach the 1.2650 level. The 1.2650 level underneath is a large, round, psychologically significant midcentury number, where the market has previously seen a lot of resistance. Furthermore, we also have an uptrend line running into that area as well, so I think it all comes together to support the market in general. The Pound continues to see a lot of noise as the Non-Farm Payrolls number was cooler than anticipated. The dollar continues to see sellers in general, so it makes sense to see this pair going higher.</p>
+	    <p>The 1.2650 level being broken to the downside would be a major breach of support and could see a follow through kind of move. In this situation, we could see this market drop to the 50-Week EMA, an area that could be important. Breaking through that level opens up a major amount of selling pressure. The market breaking higher could be a sign that the GBP is ready to go to the 1.30 level over the next few months, which makes quite a bit of sense. The interest rate hike a few days ago continues to be a major driver as well.</p>	
+    	<p>The candlestick being a hammer suggests that there are a lot of buyers in this area. This should continue to be the case going forward, so it could lead to a move higher. A break above that candle allows the market to pick up momentum. I expect this in the next week or two, but keep in mind that August continues to be choppy and sideways typically.</p>
+    </div>
+  },
+  {
+    id: 607,
+    title: 'AUD/USD Weekly Forecast – Australian Dollar Shows a Lot of Volatility for the Week',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar initially shot higher during the course of the week, but found enough resistance near the 0.6750 level, before breaking down rather drastically. After all, the RBA chose not to raise interest rates this past week,</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 - 9:10 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691319750/ncx-blog-1017_ck0c0k.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The Australian dollar initially shot higher during the course of the week, but found enough resistance near the 0.6750 level, before breaking down rather drastically. After all, the RBA chose not to raise interest rates this past week, and therefore it sent the Aussie plunging. However, the jobs number on Friday has disappointed as far as jobs added, so we’ve seen the US dollar get hammered. The 0.66 level continues to be important, so to be interesting to see whether or not we can stay above it.</p>
+    	<p>All things being equal, I think we continue to see a lot of sideways action in general, but I also believe that it favors the downside. I think it’s going to be difficult for longer-term traders to make any real money in this market, but when you get short-term rallies, you probably start selling short-term signs of exhaustion. The 50-Week EMA sets just above the candlestick, and therefore it’s likely that we continue to see choppiness.</p>	
+    	<p>If we do break above the 50-Week EMA, then it’s likely that we could go looking for the 0.69 level, which is an area where we’ve seen a lot of trouble previously, where the double top hat form. I just don’t see that happening, but it is something that you need to keep in the back of your mind. Interest-rate differential still favors the US dollar, albeit somewhat slightly. In other words, I don’t even think there’s any type of interest rate differential play here, I think it’s just an opportunity to trade whether or not the commodity markets are going to rally, or if there’s going to be growth out there.</p>	
+    </div>
+  },
+  {
+    id: 606,
+    title: 'GBP/USD Forecast – British Pound Continues to Recover',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has rallied a bit during the trading session on Friday, as we have seen quite a bit of a recovery over the last 48 hours. The jobs number coming in cooler than anticipated of course makes quite a bit of sense that we would see the</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 - 8:47 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691319578/ncx-blog-1016_qepnvw.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+    	<p>The British pound has rallied a bit during the trading session on Friday, as we have seen quite a bit of a recovery over the last 48 hours. The jobs number coming in cooler than anticipated of course makes quite a bit of sense that we would see the US dollar suffer at the hands of the British pound, as the market has seen the Bank of England raise interest rates recently. That doesn’t necessarily mean that we are going to go straight up in the air, but it does make a certain amount of sense that the British pound continues to have quite a bit of lively behavior against the US dollar.</p>
+    	<p>Underneath, the 1.2650 level is an area that is significant support, right around with the uptrend line. All things being equal, this is a situation where we see a lot of noise, but I do think that eventually we try to go to the 1.30 level above, as it is a large, round, psychologically significant figure. There is nothing on this chart that suggests that we are going to pull back, and the fact that we ended up forming a bit of a hammer on the Thursday session suggests the traders were already positioning themselves for a move to the upside.</p>	
+	    <p>That being said, if we were to break out from here then a move below the trendline opens up the possibility of a move down to the 200-Day Moving Average, possibly the 1.2350 level after that. That would obviously be a very negative turn of events for the British pound, and therefore I think you would probably have quite a bit of selling pressure jump into the market as longs would have to cover their positions, and then of course people would probably be running to the US dollar for safety in some type of panic move. I don’t expect to see that happen in the short term, and certainly from the technical analysis standpoint, it doesn’t make any sense that we would see any selling pressure of significance in the short term. However, the reality is that we could get a sudden shift in the market so you should always keep your position size reasonable.</p>	
+    </div>
+  },
+  {
     id: 605,
     title: 'Rupee hits 2-1/2 month low tracking Asian peers; RBI caps losses',
     category: 'Forex',
