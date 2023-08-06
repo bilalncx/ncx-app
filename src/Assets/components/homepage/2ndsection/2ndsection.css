@@ -1,9 +1,5 @@
-/************************** HomePage Third CEX/DEX Section Starts from here *************************/
-#cex{
-    /* background: url(../../../images//ncx-cex-bg.png); */
+/* #cex{
     background: #000000;
-    background-repeat: no-repeat;
-    background-size: cover;
     padding-bottom: 100px;
 }
 #cex .row{
@@ -167,7 +163,7 @@
     #cex .hh_row {
         padding-top: 50px;
     }
-}
+} */
 
 
 /* New CSS */
@@ -215,8 +211,6 @@
 
 
 
-
-/* Mobile Slier Srt */
 @media screen and (max-width: 800px){
     .rf__aab.row {
         display: none;
