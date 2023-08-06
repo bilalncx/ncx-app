@@ -1,5 +1,172 @@
 const data = [
   {
+    id: 604,
+    title: 'World Gold Council on What Drives the Shiny Metal’s Price',
+    category: 'Commodities',
+    subCategory: ['World', 'Gold', 'Council'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- During periods of turmoil, gold tends to make headlines as fans of the precious metal argue it can act as a safe haven. But is it also an inflation hedge? Is it considered a risk asset?</p>
+    </div>,
+    authorName: 'Vildana Hajric and Michael P. Regan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 6, 2023 - 12:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691324447/ncx-blog-1028_kozogn.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- During periods of turmoil, gold tends to make headlines as fans of the precious metal argue it can act as a safe haven. But is it also an inflation hedge? Is it considered a risk asset?</p>
+    	<p>Joe Cavatoni, market strategist and head of Americas at the World Gold Council, joined the What Goes Up podcast to discuss how gold has been performing this year and what some of its primary price catalysts are.</p>	
+    	<p>Here are some highlights of the conversation, which have been condensed and edited for clarity. Click here to listen to the full podcast, or subscribe on Apple Podcasts or wherever you listen.</p>	
+    	<p>Listen to What Goes Up on Apple Podcasts</p>
+      <p>Listen to What Goes Up on Spotify</p>
+    	<p>Q: The explanation of what’s driving gold prices is a moving target. Help us think about what drives the price of gold up or down.</p>	
+    	<p>A: As an asset, it’s very unique because when you think about the strategic drivers of gold and how gold is consumed worldwide, it’s consumed in the consumption way, which is through jewelry, small bars and coins, maybe in technology like your iPhone, where it’s a component. And those types of consumption behaviors are driven strategically through economic expansion — simply put, you get wealthier, you feel comfortable about buying jewelry or you buy more technology, and you actually see economic expansion putting money in pockets and people actually using that to invest in things, including gold.</p>	
+    	<p>Q: Is that the primary driver?</p>
+      <p>It is, but I’m going to come back around and talk about the big markets like China and India, where there’s a bit of a mix — because it is consumer, but there’s also an element of savings there. And then secondly, you look at the investment side. So when market risk and uncertainty develops, higher levels of volatility, confusion around what’s going to play out for the next period of time — whether it’s one month, one year, whatever the case may be — long term, which is how we often make sure people understand that’s how you need to view gold, the market risk and uncertainty is benefited when gold is added to your portfolio, because in that context, investors see the type of diversification benefit you get from gold in your portfolio as helpful. So it correlates positively when the S&P 500 goes up, and it correlates negative when the S&P goes down. So you’ve got those two strategic drivers.</p>
+    	<p>Adding to that, you’ve got a global asset. So it’s not just something bought here in the US but it’s bought and sold all over the world. China and India are two huge markets from a consumption perspective. And in addition to that, this asset is actually produced and supplied on a global scale as well. So you’ve got a global element, you’ve got a regional element, you’ve got a consumer behavior, you’ve got an investment behavior.</p>	
+    	<p>Q: What has the price of gold done this year, and how do factors like monetary policy impact prices?</p>	
+    	<p>A: This year, what we’ve seen are two things. Number one, monetary policy continuing to be a headwind. The opportunity cost, the rotation of assets in a portfolio, risk-asset behavior, how people are dealing with their risk assets, that’s a moment where we see headwinds for gold. People don’t look to gold in those moments when movement in rates and movement in those risk assets is taking place. Once people have made their allocation, they come back around to gold and they put in their portfolio that ballast of a holding — 3%, 5%, 10% of their portfolio. So the price behavior this year has seen a lot of that.</p>
+      <p>But within the course of the year, we’ve also seen systemic events or moments that have kicked into place — a banking crisis, for a lack of a better way of putting it, moments where there’s a crisis and people say, ‘Hey look, I need to make sure that I can preserve my asset pool. My real assets need to go up, my safe-haven asset.’</p>
+    	<p>When the Fed has managed to cool off the economy, once that starts to develop, that monetary policy will loosen up, the ability for gold to start to see itself run. Right now what we’re seeing is range-bound pricing on the gold market. So you see us holding firm at about a $1,850, $1,900, almost $1,950 level, but not breaking out. We had a moment earlier in the year around that banking crisis where we did break out, but we’re not really breaking out just yet. And it’s simply because most institutional investors have not come back to the table. The range-bound pricing behavior we’re getting is being held up by mainly a lot of buying by central banks, which is a trend we’ve been seeing for a long time.</p>	
+    	<p>Q: I’m interested in the idea of gold as a haven asset. Why would someone go for gold instead of something like Treasuries?</p>	
+    	<p>A: Well, I think what you start to see are two factors that are pretty significant in terms of performance. It’s a limited-source asset. So over long-term performance, you’ll see that gold will actually appreciate. And ultimately what you find with the asset is second, it’s very liquid. The asset trades about $150 billion a day. So what I’d say is those factors really weigh in and actually make people feel comfortable and confident. And they are not linked to anything like a credit rating or a dollar currency or whatever the case may be that could have another level of impact on the overall price performance and trading activity of an asset. So you’re really looking at a unique asset that stands by itself. And ultimately with these unique drivers for consumption will continue to push the price higher over time. And that’s why I think people feel comfortable and confident putting it as a component — not the only component — in a portfolio.</p>
+      <p>--With assistance from Stacey Wong.</p>
+    </div>
+  },
+  {
+    id: 603,
+    title: 'Russian oil and grain exports halted after Ukraine drone strike near Black Sea port',
+    category: 'Commodities',
+    subCategory: ['Russian', 'Oil', 'Exports'],
+    description: <div className="blog-desc">
+      <p>A Ukrainian drone strike damaged a Russian ship near the port of Novorossiysk, forcing the key export hub for Moscow's oil and grain to temporarily halt traffic.</p>
+    </div>,
+    authorName: 'Filip De Mott',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023  - 3:42 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691323837/ncx-blog-1027_kmeopq.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Ukraine launched a sea drone strike on a Russian naval ship near the port of Novorossiysk.</li>
+        <li>The commodities shipping hub shut down for a few hours, halting exports of oil and grain.</li>
+        <li>It follows a wave of Russian attacks on Ukraine's ports and export facilities.</li>
+      </ul>
+    	<p>A Ukrainian drone strike damaged a Russian ship near the port of Novorossiysk, forcing the key export hub for Moscow's oil and grain to temporarily halt traffic.</p>
+    	<p>With help from the Ukrainian navy, security services sent two sea drones to carry out the attack, sources told the Financial Times, though Kyiv officially did not take responsibility.</p>	
+    	<p>While denied by Russian officials, video of the attack on the Olenegorsky Gornyak appeared to show the amphibious assault ship sustained damage and needed to be towed.</p>
+      <p>The port of Novorossiysk is home to a Russian navy base and exports about 600,000 barrels of oil a day.</p>
+      <p>After the drone attack, wheat futures jumped as much as 3.5% Friday morning, while Brent crude futures rose 0.6%.</p>
+      <p>The attack was preceded by a number of Russian assaults on Kyiv's grain export infrastructure these past weeks, such as Wednesday drone strike on Ukraine's primary inland port on the Danube River.</p>
+      <p>According to Reuters, the attack damaged 40,000 tons of grain headed towards African nations, as well as China and Israel.</p>
+      <p>"Moscow is waging a battle for a global catastrophe," Ukrainian President Volodymyr Zelensky said in a video address that followed. "In their madness, they need world food markets to collapse, they need a price crisis, they need disruptions in supplies."</p>
+      <p>The Kremlin's attacks came after it refused to extend a key grain deal held with Ukraine that helped secure safe passage for 33 million tons of crop exports since the deal was reached in July 2022.</p>
+      <p>Meanwhile, Ukraine's drone strike adds a new threat to Russia's commodity outflows, which are already limited Western sanctions and price caps.</p>	
+    	<p>The attack is unlikely to be a one-off event, drone-expert Stephen Wright told Insider, but only signals more to come. Ukraine is focusing on building bigger and more powerful sea drones, and wants to "get more explosives on board" to ramp up its attacks, he said.</p>
+    </div>
+  },
+  {
+    id: 602,
+    title: 'Oil prices rise after Saudi Arabia, Russia extend supply cuts',
+    category: 'Commodities',
+    subCategory: ['OIl', 'Saudi Arabia', 'Russia'],
+    description: <div className="blog-desc">
+      <p>Saudi Arabia has extended its one million barrel-per-day production cuts into September, while Russia announce it will cut oil exports, sending oil prices higher.</p>
+    </div>,
+    authorName: 'Akiko Fujita and Stephanie Mikulich',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 - 12:41 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691323545/ncx-blog-1026_tfg6sd.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Saudi Arabia has extended its one million barrel-per-day production cuts into September, while Russia announce it will cut oil exports, sending oil prices higher. Lipow Oil Associates President Andrew Lipow tells Yahoo Finance Live the move is "very significant." Lipow say the cuts "really emphasize the point that they are looking for higher prices, because the domestic budgets of these OPEC+ countries simply could not last when oil was under $70 a barrel."</p>
+    	<p>AKIKO FUJITA: Oil prices rising for a sixth straight week. And today's gains driven by Saudi Arabia and Russia's decision to extend production cuts. Remaining OPEC plus members though deciding to keep output unchanged in a meeting today causing prices to rally further. It comes as extreme weather poses threats to US production.</p>	
+    	<p>Let's bring in Andy Lipow, president of Lipow Oil Associates. Andy, good to talk to you today. I'm looking at where oil prices are trading today-- oil futures, I should say, above that $80 a barrel mark. How supportive do you think these cuts announced by Saudi Arabia, as well as Russia will be in terms of price action?</p>	
+    	<p>ANDREW LIPOW: Well, thanks for having me. I think these cuts are very significant. If we look back to October of last year, OPEC plus has cut over 5 million barrels a day from their production quotas. And these last voluntary cuts by Russia and Saudi Arabia really emphasized the point that they're looking for higher prices because the domestic budgets of these OPEC plus countries simply could not last when oil was under $70 a barrel.</p>
+      <p>- So Andy, do we expect to see oil hit $90 a barrel before the year is out?</p>
+    	<p>ANDREW LIPOW: I think there's a very good possibility, especially as we've seen Saudi Arabia take these proactive steps to get the price of oil higher. I think they'd be quite comfortable to see Brent crude oil prices at around $90 a barrel and WTI at about $85. But the market could move higher because OPEC plus tends to be reactive. And of course, as prices rise, they're certainly going to think it's in their benefit to keep those higher prices higher for a longer period of time without triggering a recession around the world.</p>	
+    	<p>AKIKO FUJITA: Andy, what are the supply-demand dynamics looking like right now? You know, on the one hand, we've got the prices above $80 a barrel, you've got the Russian cuts taking shape more. And yet you look at the demand picture at least in China where the biggest market is, we just haven't seen the kind of pickup in economic activity.</p>	
+    	<p>ANDREW LIPOW: Well, I think that their economic activity is lagging, but we do see in the physical oil market China is buying record amounts of crude oil and processing record amounts of that oil in their new refineries and existing refineries. So the oil market is seeing the demand. The latest cut of 500,000 barrels a day by Russia was actually impacting China at the most because China, India, Turkey, and Bulgaria have become the four main customers of that Russian oil. So it does look to me like inventories around the world are declining and supplies are getting tighter</p>
+      <p>- Andy, I want to ask you about just the impact of heat. It's not something over the years-- I've covered crude oil and it's not something that's been often in the conversation when you're talking about oil prices, oil inventories. What is the impact of extreme weather on that market?</p>
+    	<p>ANDREW LIPOW: Well, there's a number of impacts. The first is that in the Middle East, we see them burning more crude oil for power generation to run their air conditioners during the summer. As far as refinery operations go, refineries, like people, do not like it when the heat index is 110 to 115. They simply can't have the equipment work as efficiently. And as a result, they're cutting their operating rates not only here in the Southern us, but in places like Greece and Italy where temperatures are even higher than what we see here in Texas.</p>
+      <p>AKIKO FUJITA: So when you think about refineries having a breakdown, I mean this is already coming at a time when US inventory is low. To what extent is this-- as in the factor with the heat-- driving prices higher?</p>	
+    	<p>ANDREW LIPOW: Well, it certainly exacerbates the problem along with these refinery unscheduled outages that we've seen around the coast, as well as in the Midwest. So as-- gasoline demand is increased about 3% over the last four weeks compared to last year and inventories are declining and makes for a mix of higher gasoline prices for the consumer</p>
+      <p>Andy, I want to ask you about this. I've seen the Biden administration delaying some plans to restock the emergency oil reserves. Given where prices are, they've canceled this planned purchase. The energy department canceling this, this week.</p>	
+    	<p>So what does that say to you? Is that a good move? I mean, considering, especially given that you see WTI heading towards $85 a barrel, what's your thought on that?</p>
+      <p>ANDREW LIPOW: I think that the Biden administration is very focused on gasoline prices because it's such a pocketbook issue. I think the fact that the administration canceled the Strategic Petroleum Reserve purchases of 3 million barrels a month, they're really very small in the scheme of the oil market. It's less than 100,000 barrels a day when world oil demand is over 100 million barrels a day.</p>	
+    	<p>AKIKO FUJITA: Looking at gas prices right now, Andy, I'm looking at $3.80 right now a gallon. We have seen that number continue to tick up over the last few weeks. Are we going to see it push even higher going into year end or is this just something that we're seeing given the inventory picture right now?</p>
+      <p>ANDREW LIPOW: Well, I think over the next couple of weeks, we could see gasoline prices tick a little bit higher. We've got the bulk of the hurricane season ahead of us in the Gulf of Mexico. But as we get into the winter months being October for the oil market, we see that refiners are able to make the cheaper grade of winter gasoline. And that would mitigate further price rises.</p>	
+    	<p>- All right, Andy Lipow, president of Lipow Oil Associates. Thank you so much, and have a great weekend, and try to stay cool in Texas.</p>
+      <p>ANDREW LIPOW: Thanks very much. Appreciate it.</p>	
+    </div>
+  },
+  {
+    id: 601,
+    title: 'OPEC+ Reaffirms Strategy as Saudis Extend Unilateral Oil Cut',
+    category: 'Commodities',
+    subCategory: ['OPEC+', 'Saudi', 'Oil'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- OPEC+ signaled it will stay the course as group leader Saudi Arabia extends a production cut aimed at shoring up global oil markets.</p>
+    </div>,
+    authorName: 'Nayla Razzouk, Grant Smith and Fiona MacDonald',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 - 6:23 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691323040/ncx-blog-1025_r0inth.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- OPEC+ signaled it will stay the course as group leader Saudi Arabia extends a production cut aimed at shoring up global oil markets.</p>
+    	<p>A monitoring committee comprising the kingdom and other key OPEC+ nations recommended no changes to the coalition’s supply policy at an online meeting on Friday, according to a delegate, who asked not to be named because the information was private.</p>	
+    	<p>Riyadh announced on Thursday that it will extend a unilateral cutback of 1 million barrels a day into September — and potentially deepen the reduction after that — to support a fragile market. Crude prices are trading near a three-month high above $85 a barrel in London, yet fears over China’s economic rebound cloud the demand outlook.</p>	
+    	<p>The committee “will continue to closely assess market conditions” and noted that OPEC+ members are willing “to address market developments and stand ready to take additional measures at any time,” according to a statement on the organization’s website.</p>
+      <p>Major consuming nations have criticized the Saudis for constricting output when oil markets are already on track to tighten significantly, warning that a renewed inflationary spike would inflict more pain on consumers.</p>
+    	<p>The kingdom is getting some assistance from fellow OPEC+ member Russia, which is finally delivering on pledges to curb its supplies. Moscow announced on Thursday it will also continue export restraints into September, but taper them slightly to 300,000 barrels a day.</p>	
+    	<p>The country is pumping 9.5 million barrels a day now, in line with its pledge to reduce production by 500,000 barrels a day since March, Deputy Prime Minister Alexander Novak said in an interview with Rossiya 24 TV on Friday.</p>	
+    	<p>The global oil market “is quite stable,” and prices are at an “acceptable level,” Novak said.</p>
+      <p>The current effort is largely confined to the two OPEC+ leaders: several other nations among the Organization of Petroleum Exporting Countries and its partners are pumping below their assigned quotas and unable to cut further, plagued by inadequate investment and political instability.</p>
+    	<p>Defending the oil market has come at a cost for the Saudis, requiring them to slash output to a two-year low near 9 million barrels a day. The kingdom suffered the sharpest downgrade to economic growth projections by the International Monetary Fund, which sees the country expanding by just 1.9% this year, a fraction of its performance in 2022.</p>	
+    	<p>The Joint Ministerial Monitoring Committee will convene again on Oct. 4, according to the statement, while the full 23-nation OPEC+ alliance is due to meet in late November.</p>	
+    	<p>(Updates with Russia comments in seventh, eighth paragraphs.)</p>
+    </div>
+  },
+  {
+    id: 600,
+    title: 'Gold gains as dollar, yields tick lower after jobs data',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Gain', 'dollar'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices rose on Friday after a slightly weaker-than-expected U.S. jobs report pushed the dollar and Treasury yields lower, offering some respite to bullion which was still on track for its worst week in six.</p>
+    </div>,
+    authorName: 'Brijesh Patel',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 - 8:40 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691322808/ncx-blog-1024_xm1olp.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Brijesh Patel</p>
+    	<p>(Reuters) - Gold prices rose on Friday after a slightly weaker-than-expected U.S. jobs report pushed the dollar and Treasury yields lower, offering some respite to bullion which was still on track for its worst week in six.</p>	
+    	<p>Nonfarm payrolls increased by 187,000 jobs last month, the Labor Department said in its closely watched employment report. Economists polled by Reuters had forecast a gain of 200,000 jobs.</p>	
+	    <p>Spot gold was up 0.4% at $1,940.86 per ounce by 2:52 p.m. EDT (1852 GMT). Bullion, however, was down 0.9% so far this week.</p>
+      <p>U.S. gold futures settled 0.4% higher at $1,976.10.</p>
+    	<p>"The jobs report has allowed the market to propose that the Federal Reserve is not as likely to raise interest rates. As a result, we've seen bond yields drop along with the dollar and that is certainly supporting the price of gold," said David Meger, director of metals trading at High Ridge Futures.</p>	
+    	<p>Following the data, the dollar fell 0.5% against its rivals, making gold less expensive for other currency holders. Benchmark U.S. 10-year yields retreated from a nine-month high. [USD/] [US/]</p>	
+	    <p>According to the CME's FedWatch Tool, the probability that the Fed leaves rates unchanged at its September 19-20 meeting is now around 85% from around 78% just prior to the data coming out.</p>
+      <p>Gold is highly sensitive to rising U.S. interest rates, as these increase the opportunity cost of holding non-yielding bullion.</p>
+    	<p>"The data was bit weaker-than-expected, but not dramatically so, which is why a small slight rise in prices this morning ... Any dips (in gold) over the course of the next couple weeks, is likely going to be a buying opportunity," Meger said.</p>	
+    	<p>Elsewhere, spot silver gained 0.1% to $23.58 per ounce and platinum rose 0.6% to $919.36. Both were set for their third consecutive weekly loss.</p>	
+	    <p>Palladium eased 0.1% to $1,256.97 per ounce.</p>
+      <p>(Reporting by Brijesh Patel in Bengaluru; Editing by Shailesh Kuber, Sharon Singleton and Maju Samuel)</p>
+    </div>
+  },
+  {
     id: 599,
     title: 'Warren Buffett Favorite Energy Stock Reported Profits Falling Nearly 80% in Q2',
     category: 'Commodities',

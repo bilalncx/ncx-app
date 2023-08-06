@@ -1,5 +1,252 @@
 const data = [
   {
+    id: 589,
+    title: 'Dow Jones Futures: What To Do After Market Skids; 5 Stocks Near Buy Points',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Future', 'Market'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 5, 2023 - 9:59 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691322388/ncx-blog-1023_rxkszh.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3> 
+    	<p>Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures.</p>
+    	<p>The stock market rally came under pressure last week, with the Nasdaq leading a sell-off as Treasury yields jumped to 2023. The major indexes tried to rebound Friday as yields fell back, but stocks reversed lower.</p>	
+    	<p>The market rally could be at an inflection point, for good or ill. With the uptrend "under pressure," investors should be cautious about new buys. But it is an excellent time to be looking for promising stocks.</p>	
+    	<p>Nvidia (NVDA) is bouncing from a near-test of its 10-week line. Tesla (TSLA) is holding its 50-day and 10-week lines, with multiple possible entries. Broadcom (AVGO) is trading tightly. Toll Brothers (TOL) is rebounding from its 10-week line while Delta Air Lines (DAL) is trying to do so.</p>
+      <p>Earnings season has gone through its busiest two weeks, but hundreds of companies will be reporting this coming week.</p>
+      <h3>Berkshire Earnings</h3>
+    	<p>Warren Buffett's Berkshire Hathaway (BRKB) reported a 7% gain in operating profit Saturday morning, with with revenue up 21% to $92.5 billion. Analysts expected Berkshire earnings to fall 8% vs. a year earlier to $3.87 a share, with revenue up nearly 6% to $80.58 billion.</p>	
+    	<p>Berkshire stock buybacks slowed to $1.4 billion in Q2 vs. $4.4 billion in Q1. The conglomerate's cash pile jumped to $147.38 billion  from Q1's $130.62 billion.</p>	
+    	<p>Warren Buffett sold a net $7.98 billion worth of stocks. In Q1, Berkshire sold a net $10.4 billion worth of stocks.</p>
+      <p>BRKB stock is slightly extended from a buy point.</p>
+    	<p>Apple (AAPL) accounts for nearly half of Berkshire's equity portfolio. Apple stock is up 40% in 2023, though it fell sharply last week, breaking key levels Friday on lackluster earnings and guidance.</p>	
+    	<p>Palantir Technologies (PLTR) reports Monday night, with Eli Lilly (LLY) and Celsius Holdings (CELH) on Tuesday.</p>	
+    	<p>Nvidia stock, Tesla and Celsius are on IBD Leaderboard. TSLA stock is on the IBD 50. The video embedded in this article discusses the market action in depth, while also analyzing AVGO stock, Delta Air Lines and Toll Brothers.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures open at 6 p.m. ET Sunday, along with S&P 500 futures and Nasdaq 100 futures.</p>
+    	<p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>	
+    	<p>The stock market rally saw solid losses this past week. A Friday bounce turned into a downside reversal, even as Treasury yields came well off highs. It's not clear what drove the afternoon selling. There was a report of a major cyberattack.</p>	
+    	<p>The Dow Jones Industrial Average retreated 1.1% in last week's stock market trading. The S&P 500 index slumped 2.3%. The Nasdaq composite tumbled 2.85%. The small-cap Russell 2000 gave up 1.15%.</p>
+      <p>The S&P 500 and Nasdaq regained their 21-day moving averages intraday Friday, but closed back below that level. The Russell 2000 is just above that key short-term level, while the Dow Jones is approaching it.</p>
+    	<p>Apple stock was a big contributor to the market's tough week. The Dow titan tumbled 7.1%, its worst weekly loss in nine months. AAPL stock gapped below the 50-day line on Friday following earnings, with its market cap back below $3 trillion.</p>	
+    	<p>The 10-year Treasury yield jumped 9 basis points to 4.06%. But that's below the old 2023 highs. The yield got as high as 4.21% intraday Friday, a nine-month high and not far from the October 2022 15-year high of 4.31%. But the yield tumbled 13 basis points for the day.</p>	
+    	<p>The July jobs report showed hiring trends are slowing, with two Fed policymakers signaling a shift away from further rate hikes. The two-year Treasury yield, more closely tied to Fed policy, fell 10 basis points on Friday and for the week to 4.79%.</p>
+      <p>U.S. crude oil futures rose 2.8% to $82.82 a barrel, a sixth straight weekly gain.</p>
+      <h3>ETFs</h3>
+    	<p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) tumbled 4.3% last week.  The iShares Expanded Tech-Software Sector ETF (IGV) slumped 3.5%. The VanEck Vectors Semiconductor ETF (SMH) gave up 3.9%. Nvidia is the No. 1 holding in SMH, with AVGO stock a notable holding as well.</p>	
+    	<p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) plunged 8.2% last week and ARK Genomics ETF (ARKG) sold off 8.85%. Tesla stock is the No. 1 holding across Ark Invest's ETFs. Cathie Wood's Ark also owns some PLTR stock.</p>	
+    	<p>SPDR S&P Metals & Mining ETF (XME) fell 1.9% last week. The Global X U.S. Infrastructure Development ETF (PAVE) dipped 0.2%. U.S. Global Jets ETF (JETS) descended 4.4%, with DAL stock a big component. SPDR S&P Homebuilders ETF (XHB) declined 0.7%, with TOL stock a notable holding. The Energy Select SPDR ETF (XLE) rose 1.25%. The Health Care Select Sector SPDR Fund (XLV) fell back 2.1%, with LLY stock a notable component. The Industrial Select Sector SPDR Fund (XLI) stepped down 1.7%.</p>
+      <p>The Financial Select SPDR ETF (XLF) shed 0.8%. BRKB stock is the No. 1 holding in XLF, with Warren Buffett's Berkshire owning stakes in a number of other big financials, including Bank of America (BAC). The SPDR S&P Regional Banking ETF (KRE) dipped 0.3%.</p>
+    	<p>Rising long-term yields and falling shorter-term rates is good news for banks.</p>	
+      <h3>Stocks To Watch</h3>
+    	<p>Nvidia stock slumped 4.4% to 446.80, but did rise slightly after testing the 10-week line on Wednesday. Investors could try to add shares with a strong bounce. But a longer pause, perhaps with an actual touch of the 10-week line, would be preferable. Nvidia is the clear AI chip leader and the poster child for the Ailed market rally, so investors should be paying close attention to its action.</p>	
+    	<p>AVGO stock sank 2% to 881.65 last week. The chipmaker has flirted with a 921.78 buy point from a 16%-deep consolidation, according to MarketSmith analysis. The base is odd, starting with a downside reversal on a massive spike May 30. But Broadcom, which is also getting a big AI lift, has tightened up while the 10-week line is catching up. Last week's move may be part of a healthy shakeout.</p>
+      <p>Tesla stock fell 4.7% to 253.86, closing just above the 50-day line but below the 10-week. Shares are hitting resistance at the 21-day line. A strong move above the 21-day line could offer an early entry into the EV giant. Meanwhile, Tesla stock has an official cup-with-handle buy point of 299.29 on a deep consolidation going back to last September.</p>	
+    	<p>Tesla continues to increase discounts, adding to pressure on margins. An updated Model 3, with an eye at lower production costs, may begin production at the Shanghai plant later this month, according to local social media posts. Tesla China sales, including exports, hit a 2023 low last month, perhaps as Shanghai cuts production of the current Model 3.</p>
+      <p>Delta stock fell 2.5% to 44.59, testing its 10-week line before a slim gain Friday. Shares have retreated from a two-year high of 49.81 following earnings last month, but DAL stock is looking better than other airline stocks. A strong bounce, perhaps above the 21-day line, would offer an early entry. Investors also could view 49.81 as a handle buy point to a massive base starting in March 2021.</p>	
+    	<p>TOL stock fell 1% to 79.39 last week, bouncing back Friday from the 10-week line with a 2.2% gain, albeit in below-average volume. Toll Bros. could be actionable from a move above  a short trendline, using the Aug. 1 high of 81 as an entry point. The luxury homebuilder is a few weeks away from a new base.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally suffered significant losses last week amid rising Treasury yields, with Friday's downside reversal discouraging.</p>	
+    	<p>The market has been due for a sideways stretch. The Nasdaq is just above its 50-day line, the smallest gap in four months. A longer pause or pullback also would be healthy.</p>
+      <p>Market breadth remains strong with leadership across many sectors.</p>	
+    	<p>Many leading stocks are finding key support or working on bases. Some of the names finding 50-day/10-week support, including Tesla stock, Toll Bros. and DAL, could be setting up for bullish moves. But they could also break those key levels, especially if the broader market retreats.</p>
+      <p>Treasury yields are clearly a major factor for the stock market rally right now. If the 10-year yield tumbles back below 4%, the indexes could move back toward recent highs. If yields resume their sharp advance and approach long-term peaks, the uptrend would likely come under further pressure.</p>
+      <h3>What To Do Now</h3>	
+    	<p>With the market rally under pressure, investors don't want to be too aggressive. As a practical matter, not many stocks are flashing buy signals at the moment. But, a lot of stocks are close to doing so. So spend this weekend running screens and building up your watchlists.</p>
+      <p>With the market at a possible inflection point, investors have to stay flexible.</p>	
+    	<p>In the past week, investors may have wanted to take a more-defensive stance, taking some profits and trimming exposure somewhat. If the market shows further weakness, investors may need to step that up, so review your portfolio closely.</p>
+      <p>If stocks flash buy signals and you take action, do so gradually. The past few weeks of up-and-down trading, including Friday, have meant that many recent buys have quickly struggled.</p>
+      <p>Earnings season is far from over. This past week saw several big winners but also a lot of major losers.</p>
+    </div>
+  },
+  {
+    id: 588,
+    title: 'Greece Returns to Investment-Grade Elite With Scope Rating Upgrade',
+    category: 'Indices',
+    subCategory: ['Greece', 'Investment', 'Elite'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Greece’s investment-grade status was restored by Scope Ratings, evidence of its progress in repairing public finances 13 years after it became the first euro-zone member to be cut to junk.</p>
+    </div>,
+    authorName: 'Sotiris Nikas and Paul Tugwell',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 - 10:28 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691321756/ncx-blog-1022_r8gztk.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Greece’s investment-grade status was restored by Scope Ratings, evidence of its progress in repairing public finances 13 years after it became the first euro-zone member to be cut to junk.</p>
+    	<p>Friday’s decision helps draw a line under the debt crisis that erupted in 2010 and required three international bailout programs as Greece’s membership of the now 20-member euro zone was thrown into question.</p>	
+    	<p>It also follows the resounding reelection of Prime Minister Kyriakos Mitsotakis, who’s pledged sound state finances and a continuation of the economic reforms he embarked on four years ago.</p>	
+    	<p>“A steady trajectory of decline in public debt, on the back of high inflation, above-potential real economic growth, low average interest costs of the prevailing debt portfolio and achievement of primary fiscal surpluses” is among drivers for the upgrade, Scope said in a statement lifting Greek sovereign rating to BBB- from BB+.</p>
+      <p>It also cited “sustained European institutional support for Greece,” while added that “credit ratings remain challenged,” mainly due to high government debt.</p>
+      <p>The upgrade was widely expected by investors, who have been buying the nation’s bonds at lower yields than those of investment-grade peers like Italy, making them the euro area’s best performers this year. That’s a turnaround after many were burnt in the largest sovereign restructuring in history.</p>
+      <p>Scope’s assessments aren’t currently recognized by the European Central Bank — meaning it won’t accept Greek bonds as collateral. But that situation may change soon as the Frankfurt-based institution reviews Scope’s eligibility.</p>
+      <p>Analysts expect other ratings firms to follow Scope’s example over the coming months, with Mitsotakis targeting upgrades by year-end. Before Friday’s announcement, Japan’s Rating and Investment Information Inc. was the first credit assessor to lift Greece to investment.</p>
+      <p>The move by Scope is “a development that further strengthens the forecasts for an upgrade by the end of the year also by the rating agencies recognized by the European Central Bank,” the Greek Finance Ministry said in a statement Saturday.</p>
+      <p>The government will continue the same policy of fiscal seriousness and responsibility which is the only stable basis for the development of the Greek economy, the ministry said.</p>
+      <p>DBRS Morningstar on Friday highlighted that Greece is on the threshold of an investment grade rating, saying it was focused on the implementation of structural reforms, improvements in economic prospects and the country’s commitment to fiscal consolidation.</p>
+      <p>With Mitsotakis planning to repay rescue loans early and trim the ratio of debt to economic output below 140% by 2027 from a high of 206% in 2020, investors had already been piling into Greek bonds.</p>
+      <p>The benefits of attaining investment status will be huge and haven’t been fully priced in yet, according to Bank of Greece Governor Yannis Stournaras. Only one in 10 funds can invest in a jurisdiction rated below that, he said last month.</p>
+      <p>Other Mitsotakis promises for his second term include cutting unemployment to 8%, boosting exports to 60% of gross domestic product and returning to primary budget surpluses of 2%-2.5% of GDP a year.</p>
+      <p>“Structural reforms that have meaningfully curtailed high non-performing loan ratios and substantively enhanced banking-system stability alongside policies aligned with Recovery and Resilience Facility funding and the European Semester mobilizing investment and boosting recovery” also supported Friday’s action, Scope said.</p>
+      <p>--With assistance from Sonja Wind, Aline Oyamada and Hari Govind.</p>
+    </div>
+  },
+  {
+    id: 587,
+    title: 'Dow Jones Reverses Lower On Reports Of Cyberattack; Amazon Soars, Apple Plunges',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Amazon', 'Apple'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average reversed lower for a loss of 0.4% Friday on reports that a cyberattack hit hospital computer systems across several states. Top gainers in the Dow Jones included Amgen (AMGN), which jumped on earnings. But Apple (AAPL) was a drag, down nearly 5%.</p>
+    </div>,
+    authorName: 'KEN SHREVE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 - 12:05 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691321459/ncx-blog-1021_lrplop.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average reversed lower for a loss of 0.4% Friday on reports that a cyberattack hit hospital computer systems across several states. Top gainers in the Dow Jones included Amgen (AMGN), which jumped on earnings. But Apple (AAPL) was a drag, down nearly 5%.</p>
+    	<p>Amgen gapped up close to its 200-day moving average on a nice earnings and revenue beat. It also upped its full-year forecast. But Wall Street frowned on Apple's earnings report, which showed another quarter of declining revenue. IPhone and iPad revenue missed expectations, but services were a bright spot, with revenue up 8% to $21.2 billion. Apple stock gapped below the 50-day moving average.</p>	
+    	<p>Microsoft (MSFT) also outperformed in the Dow Jones today, but it's still stuck below its 50-day moving average.</p>	
+    	<p>The July jobs report was a focal point in the stock market today. Nonfarm payrolls came in at 187,000, just below the 200,000 consensus. June payroll growth was revised slightly lower to 185,000 from an initially reported 209,000. The Federal Reserve wants to see some softness in the labor market to help bring inflation down. But wages rose more than expected, up 0.4% month over month and 4.4% year over year.</p>
+      <p>Federal funds futures traders aren't expecting the Fed to raise interest rates at the September meeting. In fact, they think the current federal funds rate will be right where it is now (5.25% to 5.5%) at the end of the year.</p>
+    	<p>After three straight gains, the 10-year yield slumped 14 basis points to around 4.05%. The U.S. dollar fell sharply, too.</p>
+      <h3>Outside The Dow Jones</h3>	
+    	<p>The Nasdaq composite also turned lower after a strong early move above the 14,000 level. It closed with a loss of 0.4%. Preliminary data showed lower volume on the Nasdaq, with declining stocks only having a slight edge over advancers.</p>	
+    	<p>Top gainers in the Nasdaq 100 included enterprise software giant Atlassian (TEAM), which rallied sharply after reporting strong Q2 results.</p>
+      <p>The S&P 500, up 0.8% intraday, turned lower and closed with a loss of 0.5%. Preliminary data showed slightly higher volume on the NYSE, with winners having a slight edge over losers.</p>
+    	<p>Several leading growth stocks have come under heavy selling pressure in recent days. The Nasdaq marked a harsh distribution day Wednesday, falling 2.2% in higher volume, putting the stock market uptrend under pressure.</p>	
+    	<p>A weak earnings report from Fortinet (FTNT) fueled broad-based selling among security software firms. Fortinet gapped below its 200-day moving average and was down 25% in late trading. Group peer Palo Alto Networks (PANW) slumped below its 50-day line in heavy volume, falling around 8%.</p>	
+    	<p>Amazon.com (AMZN) was an earnings winner, up 8% in strong volume. Revenue at Amazon Web Services rose 12% to $22.1 billion. Ad revenue jumped 22% to $10.7 billion. AMZN guided Q3 revenue above expectations.</p>
+      <p>At one point Friday, Amazon picked up $139.7 billion in market cap, making it the 10th largest one-day market cap gain in history.</p>
+    	<p>Several technology stocks in the Dow Jones index came under selling pressure, but losses were contained. Cisco Systems (CSCO) gave back 1%, while Salesforce (CRM) eased 0.5%.</p>	
+    	<h3>Growth Stocks On The Move</h3>
+      <p>Dropbox (DBX), tracked in the top-rated database software group, soared nearly 6% after reporting strong Q2 results. DBX is in a follow-on buy zone after a bullish bounce off its 10-week moving average.</p>	
+    	<p>Two other top stocks found support at their 10-week lines this week: Shake Shack (SHAK) and Martin Marietta (MLM). SHAK and MLM are new additions to the Leaderboard model portfolio, which is about 70% invested at this point.</p>
+      <p>Booking Holdings (BKNG) gapped above its short-term moving averages and the 3,000 level, rising nearly 8% to an all-time high. Adjusted profit jumped 97% to $37.62 a share. Revenue increased 27% to $5.46 billion. CEO Glenn Fogel said the company expects a record summer travel season.</p>
+    	<p>Retail leader Floor & Decor (FND) gapped down to its 50-day line and held support for most of the session. But the stock closed near session lows and just below the support level. Earnings and revenue came in mostly in line with expectations.</p>	
+    </div>
+  },
+  {
+    id: 586,
+    title: 'LIVE: FTSE ends higher as UK housebuilding slumps and US economy adds fewer jobs',
+    category: 'Indices',
+    subCategory: ['FTSE', 'UK', 'US'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 (^FTSE) managed to close higher on Friday as UK housebuilding continued to suffer from high interest rates, and the US economy added fewer new jobs than expected last month.</p>
+    </div>,
+    authorName: 'LaToya Harding',
+    authorurl: 'https://www.yahoo.com/author/latoya-harding/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 - 7:20 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691321104/ncx-blog-1020_asnbyu.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 (^FTSE) managed to close higher on Friday as UK housebuilding continued to suffer from high interest rates, and the US economy added fewer new jobs than expected last month.</p>
+    	<p>London's benchmark index had a rollercoaster day, starting lower and closing 0.5% up, while the CAC (^FCHI) gained 0.8% in Paris, and the Frankfurt DAX (^GDAXI) was 0.3% higher.</p>	
+    	<p>According to S&P Global there was a sharp fall in house building in July as new orders were constrained by rising borrowing costs.</p>	
+    	<p>It meant that residential construction work declined for eight consecutive months, with construction companies noting that rising interest rates had led to fewer sales enquiries and slower decision-making among clients during the month.</p>
+      <p>The reading came in at 43.0, up from June’s 39.6, but still well below the 50-point mark showing stagnation.</p>
+      <p>The construction Purchasing Managers’ Index (PMI) recovered to 51.7, its highest level since February, and up from June’s five-month low of 48.9.</p>
+      <p>John Glen, chief economist at the Chartered Institute of Procurement & Supply (CIPS), said: "Although the sector showed a slight uplift in activity in July, there is a question mark over the sustainability of this growth and the challenges that lie beneath the floorboards.</p>
+      <p>"Decisions about buying a new home are being delayed by many consumers. Another fall in residential building levels and for the eighth month in a row, it’s obvious that UK interest rate rises and cost of living pressures have dealt a hammer blow to the housing sector. The commercial and civil engineering sectors remained the only engines of growth last month."</p>
+      <p>Meanwhile, German factory orders saw their highest jump in three years in June in a sign that the economy is stabilising. Demand climbed 7% from the previous month, thanks to major orders, beating expectations of a decline.</p>
+      <p>"European markets underwent another negative session yesterday as this week’s sell off continued to gather momentum, with the DAX falling for the 4th day in a row, while the FTSE100 finished lower for the 3rd straight session, although it was notable that we closed well off the lows of the day," Michael Hewson of CMC Markets said.</p>
+      <p>World stock markets are set for their worst week since March. According to Reuters the MSCI All-World index is headed for its biggest weekly drop in five months.</p>
+      <p>Across the pond, the US non-farm payroll rose by 187,000 in July, below forecasts of an increase of 200,000.</p>
+      <p>June’s NFP was also revised down 209,000 to 185,000, while May’s was cut from 306,000 to 281,000, meaning fewer jobs were created in the spring than initially thought.</p>
+      <p>The US Bureau of Labour Statistics has also reported that the unemployment rate fell to 3.5%, down from 3.6% in June.</p>
+      <h3>Blog close and recap</h3>
+      <p>Well that's all from us today - thanks for following along. Be sure to catch us again on Monday.</p>
+      <p>Here's a quick reminder of today's top stories:</p>
+      <p>UK car sales rise for 12 months in a row</p>
+      <p>WPP shares slide 7%</p>
+      <p>Capita shares plummet as cyber attack costs up to £25m</p>
+      <p>UK housebuilding knocked by high interest rates</p>
+      <p>US adds 187,000 new jobs in July</p>
+      <p>Apple market cap falls back below $3trn</p>
+      <h3>Interest rate hikes slowing UK inflation</h3>
+      <p>Huw Pill, the Bank of England’s (BoE) chief economist, has said he sees growing evidence that interest rate hikes are slowing down UK inflation.</p>
+      <p>Speaking at a briefing for the Bank’s agents about Thursday’s interest rate decision and monetary policy report, he said Threadneedle Street’s consecutive run of rate hikes was bringing down the cost of borrowing.</p>
+      <p>UK inflation dropped to a 15-month low of 7.9% in the year to June — the lowest reading since March 2022. Economists predicted that the rate would dip to 8.2% from 8.7% in both April and May.</p>
+      <p>But while the rate of inflation is slowing, it is still nearly four times more than the BoE’s 2% target, and higher than in other advanced economies.</p>
+      <p>"The monetary policy committee (MPC) is committed to achieving its target," Pill said during the presentation. "There are increasing signs that the policy actions it's taken over the last 18 months are working in pursuit of that target."</p>
+      <p>He added that “MPC analysis focused on inflation persistence” and that “higher rates are helping curb inflation and pay”.</p>
+      <p>“We are trying to balance the risks of doing too little, but it is possible that we do too much,” he said.</p>
+      <h3>Apple market cap falls back below $3trn</h3>
+      <p>Apple has lost its status as the world’s only $3trn company thanks to a slowdown in iPhone sales.</p>
+      <p>The tech company revealed last night in its earnings update that sales for its iPhones fell in the three months to June, leading to it posting a third straight quarter of revenue losses.</p>
+      <p>The news sent shares down 3.5% to $184 after the bell in New York, knocking $100bn from its overall value.</p>
+      <p>It is now trading 2.7% lower, with a valuation of $2.93trn.</p>
+      <h3>More on US jobs...</h3>
+      <p>Richard Flynn, managing director at Charles Schwab UK, said:</p>
+      <p>"Today’s jobs report is slightly weaker than expected. Last month’s results offered evidence that employment growth had begun to slow, and today’s numbers indicate that a downward trend may be in motion.</p>
+      <p>"While this should be encouraging for policymakers as they continue to battle sticky inflation, the Fed would likely prefer to see wage gains closer to 3%. Growth in the 4% region may not be enough to convince bankers that monetary policy is working, so further interest rate hikes may be around the corner.”</p>
+      <h3>US adds 187,000 new jobs in July</h3>     
+      <p>US non-farm payrolls rose by 187,000 in July, below forecasts of an increase of 200,000.</p>
+      <p>June’s NFP was also revised down from 209,000 to 185,000, while May’s has been cut from 306,000 to 281,000.</p>
+      <p>This means fewer jobs were created in the spring than initially thought, as a string of 11 interest rate rises by the US Federal Reserve since March 2022 has reduced the number of new positions.</p>
+      <p>The Bureau of Labour Statistics added that the unemployment rate fell to 3.5% in July, down from 3.6% the previous month.</p>
+      <h3>Wall Street set to open higher</h3>
+      <p>With just over an hour to go before the bell in New York, stocks across the pond look set to open in positive territory.</p>
+      <p>S&P 500 futures (ES=F) are up 0.2%, Dow futures (YM=F) have risen 0.1%, and Nasdaq futures (NQ=F) are 0.2% higher.</p>
+      <p>We will find out about the latest US jobs report in a few minutes too.</p>
+      <h3>Capita shares plummet as cyber attack costs up to £25m</h3>
+      <p>Capita slumped 15% in London on Friday, the biggest faller on the FTSE 250 (^FTMC), after a recent Russian cyber attack heavily impacted the company.</p>
+      <p>The outsourcing firm dropped to a statutory pre-tax loss of £67.9m for the six months to 30 June following the impact of disposals and costs linked to the data breach. This was a fall from £100,000 profit the previous year.</p>
+      <p>The attack hacked its Microsoft Office 365 software and accessed the personal data of staff working for the company and dozens of clients.</p>
+      <p>Capita said the loss was also driven by business exits and a goodwill impairment.</p>
+      <p>It expects the cyber attack to cost between £20m and £25m, comprising of specialist professional fees, recovery and remediation costs and investments to its cyber security.</p>
+      <p>“Having taken extensive steps to recover and secure our data, using third party monitoring we still have found no evidence of any information in circulation, on the dark web or otherwise, more than three months after the cyber incident," it said.</p>
+      <p>Capita manages crucial services for local councils, the military, and the NHS.</p>
+      <h3>Mortgage rate update</h3>
+      <p>Moneyfacts have released their latest daily mortgage rates.</p>
+      <p>It has reported that the average two-year fixed residential mortgage rate is 6.85%. This is unchanged from the previous working day – and since Tuesday, when it rose from Monday’s 6.81%.</p>
+      <p>However, this provides little relief for those seeking longer-term fixed rates.</p>
+      <p>The average five-year fixed residential mortgage rate today has dropped to 6.35%, down from 6.36% on Thursday.</p>
+      <h3>How to improve your credit score before buying a house</h3>
+      <p>With lenders increasing mortgage rates and tightening up on their affordability criteria, having a healthy credit score is becoming increasingly important for those wanting to get on the housing ladder.</p>
+      <p>It's a good idea to become more informed about your credit score prior to seeking a mortgage and begin monitoring and building your credit score before purchasing a new home.</p>
+      <h3>Business registrations fall amid climbing interest rates</h3>
+      <p>Experts at Forbes Advisor have conducted an analysis of the most recent UK business demography statistics report from the Office for National Statistics.</p>
+      <p>Here are some of their key findings:</p>
+      <p>*UK business registrations drop by 14% in Q2 2023 compared to the same period last year</p>
+      <p>*Transportation & Storage sector hit hardest with 59% decrease in business births in Q2 2023 vs Q2 2022</p>
+      <p>*Wales faces largest drop in business ‘births’, with a 34% decrease in new business registrations year on year</p>
+      <p>*There has been a notable 15% improvement in business survival rates in Q2 2023 vs Q2 2022</p>
+      <h3>Gold price faces the strength of dollar</h3>
+      <p>The price of gold (GC=F) is at a crossroads as the weekend approaches, coinciding with the rise of the US dollar and the yields of US Treasury bonds.</p>
+      <p>Gold was trading flat at $1968.80 at the time of writing.</p>
+      <p>"Traders are anticipating more significant market events, notably the release of Non-Farm Payrolls data later today," Rania Gule, market analyst at XS.com, said.</p>
+      <p>"Moreover, the downgrade of the US sovereign debt rating from AAA to AA+ by Fitch has led to increased concerns and a notable decline in market risk appetite.</p>
+      <p>"From a technical perspective, the current gold price is testing the support trendline at $1930, and in the event of a downside break, the next support could be in the range of $1885 to $1895.</p>
+      <p>This price zone includes a series of previous lows, the 200-day Simple Moving Average (SMA), and the 38.2% Fibonacci retracement level of the movement from $1614 to $2062. In the bullish scenario, resistance could be seen at the recent peak level of $1950, followed by stubborn resistance at $2000."</p>
+      <h3>Airport parking could cost 300% more</h3>
+      <p>Holidaymakers who park at UK airports could be paying four times the price — or hundreds more — by not booking ahead, according to a new analysis.</p>
+      <p>Travellers could stand to save £150 on average with forward planning, consumer group Which? found after analysing prices at 16 airport car parks. It said the analysis reveals leaving it to the last minute can come with a "serious financial sting.”</p>
+      <p>The consumer group looked at the differences between the prices a traveller could expect to pay for a week’s stay in August on the day versus booking four months in advance.</p>
+      <p>In the most expensive case, Which? found travellers could pay as much as £583 on the day for a week of parking.</p>
+      <p>The biggest saving was at Manchester Airport's multi-storey car park, where paying on the day would cost you four times (327%) as much. A week's stay booked four months in advance was charged at £95, compared with a staggering £406 on the day of departure.</p>
+      <h3>Asia and Wall Street</h3>
+      <p>Stocks in Asia climbed on Friday after China’s new central bank governor met with real estate developers, saying they would be allowed to raise more money by selling bonds.</p>
+      <p>The Nikkei (^N225) climbed 0.1% on the day in Japan, while the Hang Seng (^HSI) gained almost 0.5% in Hong Kong and the Shanghai Composite (000001.SS) advanced 0.2%.</p>
+      <p>Across the pond, Wall Street sank for a third day in a row. The S&P 500 (^GSPC) lost 0.25% and the tech-heavy Nasdaq (^IXIC) was 0.1% lower at the close. The Dow Jones (^DJI) dipped 0.2% lower during the session.</p>
+      <p>Traders will be focusing on July’s US jobs figures later today. Economists predict around 200,000 new jobs were created in America last month, down on the 209,000 the previous month, with the unemployment rate coming in steady at 3.6%.</p>
+    </div>
+  },
+  {
     id: 585,
     title: 'LIVE: FTSE and pound sink as Bank of England hikes interest rates to 15-year high',
     category: 'Indices',

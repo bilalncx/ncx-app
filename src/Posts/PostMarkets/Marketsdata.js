@@ -1,5 +1,245 @@
 const data = [
   {
+    id: 627,
+    title: 'Investors Bet That High Rates Will Linger',
+    category: 'Markets',
+    subCategory: ['Investors', 'Linger', 'rate'],
+    description: <div className="blog-desc">
+      <p>The yield on the benchmark 10-year U.S. Treasury note has surged close to its highest level in more than a decade, lifted by new bets that a strong economy could support years of higher interest rates.</p>
+    </div>,
+    authorName: 'Sam Goldfarb',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 6, 2023 - 1:30 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691328164/ncx-blog-1034_to9yxm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The yield on the benchmark 10-year U.S. Treasury note has surged close to its highest level in more than a decade, lifted by new bets that a strong economy could support years of higher interest rates.</p>
+    	<p>The 10-year yield settled Friday at 4.060%, according to Tradeweb, slipping after a mixed monthly jobs report. But that was still up from 3.968% a week earlier and within touching distance of its 14-year high of 4.231% from October.</p>	
+    	<p>The recent climb in longer-term Treasury yields—which play a role in determining the cost of everything from mortgages to stocks—comes even as yields on shorter-term bonds have stalled. That is a sign investors think cooling inflation and resilient economic growth will allow the Federal Reserve to stop raising rates, then leave them unchanged at least until the end of the year. The yield on the 2-year Treasury note closed Friday at 4.791%, down from 4.895% a week earlier.</p>	
+    	<p>Analysts call the pattern a “bear steepening,” because bond prices are falling and longer-term yields are climbing relative to short-term ones, which would normally increase the gap between them. Bond yields rise when their prices fall.</p>
+      <p>In this case, yields on shorter-term Treasurys months ago climbed well above those on longer-term bonds—inverting the normal yield curve—because investors anticipated that the Fed would keep raising rates to fight inflation and then cut rates once a recession arrives.</p>
+    	<p>Now, though, almost the opposite is happening. Signals from the Fed that it is at or near the end of its rate-raising campaign have bolstered shorter-term Treasurys. But they have fed the selloff in longer-term bonds by reducing concerns that an aggressive central bank would precipitate a downturn.</p>	
+    	<p>“This massive inversion that we’ve had for a long period of time was all predicated on the fact that you were going to get a hard landing and that owning long-duration bonds was the way to protect you,” said Jim Caron, chief investment officer of the portfolio solutions group at Morgan Stanley Investment Management. “Now what the market’s saying is, well, if you’re not going to get a hard landing, then why would I want to own 10-year notes?” </p>	
+    	<p>Strong economic data isn’t the only reason that Treasury yields have climbed in recent days. Some added pressure came late last month, when the Bank of Japan said it was lifting its hard cap on 10-year government bond yields to 1% from 0.5%.</p>
+      <p>That fueled concerns that Japanese investors might shift some cash away from their substantial holdings of U.S. Treasurys toward domestic bonds.</p>
+    	<p>Then the U.S. Treasury Department announced on Monday that it faced greater borrowing needs in the coming months than investors had anticipated. That meant the market would need to absorb more bonds just as traders were finding them less appealing.</p>	
+    	<p>Still, the underlying conditions for the higher yields have been building for months, with report after report suggesting that the economy is on solid footing even as inflation shows signs of easing. That remained true after Friday’s jobs report, which showed slightly lower-than-expected job growth in July but a larger-than-anticipated increase in average hourly earnings.</p>	
+    	<p>Investors are now ramping up bets on a so-called soft landing, in which inflation returns to the Fed’s 2% annual target while the economy keeps on expanding.</p>
+      <p>The implications of that scenario could be profound, suggesting that the economy can withstand much higher rates than investors have long believed was possible.</p>
+    	<p>A prolonged period of higher bond yields would be a setback for recent home buyers who have been hoping for rates to fall so that they can refinance their mortgages, along with others who are waiting to buy a home. The average rate on the standard 30-year fixed mortgage was recently 6.9%, up from about 5% a year ago.</p>	
+    	<p>At the same time, higher rates and bond yields would be a boon to risk-averse savers and to pensions that have been forced for years to take greater risks to meet return targets. They would also make it easier for the Fed to fight recessions by giving the central bank more room to cut rates when the economy turns south.</p>	
+    	<p>Optimism recently has extended across different markets. Investors in recent months have been willing to pay increasingly high prices for stocks relative to what companies are expected to earn in profits over the next year. Valuations have become even more stretched when measured against bond yields.</p>
+      <p>One argument made in favor of stocks, however, is that the longer-run outlook for corporate profits and economic growth might be improving, with some citing advances in areas such as artificial intelligence technologies.</p>
+    	<p>For investors, an important question is whether short-term rates set by the Fed have to fall from their current level around 5.5% to 2.5%—roughly their highest point of the 2010s—or whether “we are moving back toward something that looks a little bit like what we had in the ’90s” when rates were consistently higher, said Zach Griffiths, a senior strategist at the research firm CreditSights.</p>	
+    	<p>Some, though, note that market expectations can shift quickly, along with the economy.</p>	
+    	<p>“All recessions and downturns are a kind of slowly-then-suddenly phenomenon,” said Matt Smith, investment director at Ruffer, whose team has bought Treasury debt in a bet that its price will increase amid a downturn. </p>
+      <p>“We don’t have a view on when, but we have that position in reflection of the fact that we think the Fed’s tightening will cause a recession,” Smith said.</p>
+    </div>
+  },
+  {
+    id: 626,
+    title: 'What Meta, Amazon, Google, Apple and AMD Are Saying About AI',
+    category: 'Markets',
+    subCategory: ['Meta', 'Amazon', 'Apple'],
+    description: <div className="blog-desc">
+      <p>Artificial intelligence is unquestionably the next big battleground for big tech. So much hype has surrounded AI that top execs at Amazon, Meta, Apple, and AMD all reported major pushes into AI capabilities and applications in their latest quarterly earnings calls.</p>
+    </div>,
+    authorName: 'Jose Antonio Lanz',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 6, 2023 - 4:39 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691327761/ncx-blog-1033_tvuser.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Artificial intelligence is unquestionably the next big battleground for big tech. So much hype has surrounded AI that top execs at Amazon, Meta, Apple, and AMD all reported major pushes into AI capabilities and applications in their latest quarterly earnings calls.</p>
+    	<p>On Amazon's Q2 update, CEO Andy Jassy highlighted AI as "at the heart of what we do," saying the company is working to implement AI across all of its businesses from AWS to Alexa. He said AI will drive customer experiences and operations, calling it a "significant investment and focus."</p>	
+    	<p>With a net income of $6.7 billion in the second quarter of 2023, this was Amazon’s best performing quarter since 2020.</p>	
+    	<p>Specifically, Jassy stated: "AWS has continued to add to its meaningful leadership position in the cloud with a slew of generative AI releases that make it much easier and more cost-effective for companies to train and run models (Trainium and Inferentia chips), customize Large Language Models to build generative AI applications and agents (Bedrock), and write code much more efficiently with CodeWhisperer."</p>
+      <p>This builds on moves like the new $100 million Generative AI fund recently launched by AWS, Amazon's cloud computing arm.</p>
+      <p>Amazon Pledges $100 Million for Generative AI Startups</p>
+      <p>Meanwhile, Meta CEO Mark Zuckerberg boasted about how the billions his company spent on AI infrastructure were clearly paying off in the form of better content recommendations and engagement on Facebook. He said AI-recommended posts are the fastest growing category of content on Facebook's news feed.</p>
+      <p>Meta has "partnered with Microsoft to open source Llama 2, the latest version of our large language model, and make it available for both research and commercial use," Zuckerberg elaborated. This hints at potential plans where Meta could soon release a commercial version of its LLaMA natural language model to outside developers.</p>
+      <p>Microsoft mentioned AI 175 times on its earnings call, so it’s clearly an important part of its business today.</p>
+      <p>Microsoft stocks have been rising throughout 2023, suggesting nobody has been surfing the AI hype wave as well as they are. The company secured a strategic partnership with OpenAI, which gives it a good slice of the revenue obtained by the world’s largest private LLM, and later partnered with Meta to profit from the world’s largest open source LLM.</p>
+      <p>The company reported revenue of $56.2 billion, up 8 percent year-on-year, and a big part of it is thanks to AI.</p>
+      <p>"Every customer I speak with is asking not only how, but how fast they can apply next-generation AI to address the biggest opportunities and challenges they face," Microsoft CEO Satya Nadella said.</p>
+      <p>OpenAI, Google, Microsoft Promise White House to Keep AI Safe</p>
+      <p>Although AI has never headlined an Apple keynote presentation, CEO Tim Cook described AI and machine learning as "core, fundamental technologies" used in "virtually every product."</p>
+      <p>He said Apple has researched generative AI like ChatGPT "for years" and will "responsibly advance" it in products when ready. This aligns with new AI-powered iOS features like crash detection.</p>
+      <p>Apple's earnings call showed a slight decline in hardware sales: iPhone revenue was down from $40.7 billion to $39.7 billion, Mac revenue fell from $7.4 billion to $6.8 billion, and iPad revenue dropped from $7.2 billion to $5.8 billion. But the software side saved the ship: Apple set an all-time revenue record in services, going from $19.6 billion in the year-ago quarter to $21.2 billion.</p>
+      <p>Not to be left out, AMD CEO Lisa Su pointed to AI as a "multi-billion dollar opportunity" with customer AI engagements up 7X in the recent quarter. She expects new data center AI chips to launch by Q4 to tap into booming demand, and said AMD is "on-track to launch and ramp production of MI300 accelerators" for heavy AI workloads.</p>
+    </div>
+  },
+  {
+    id: 625,
+    title: 'More firms on Wall Street are bracing for a stock sell-off. Here why JPMorgan, Wells Fargo, and others say the market huge gains are at risk.',
+    category: 'Markets',
+    subCategory: ['Wall Street', 'JP Morgan', 'Wells fargo'],
+    description: <div className="blog-desc">
+      <p>Stocks so far have blown past investors' expectations for 2023 – but some analysts are bracing for a sell-off as the market approaches new highs.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 6, 2023  - 12:30 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691326805/ncx-blog-1031_icdjct.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Some Wall Street analysts are sounding the alarm for a coming sell-off in stocks.</li>
+        <li>That comes as the S&P 500 enjoys its best year since 1927, gaining 18% from January.</li>
+        <li>But a closer look at inflation and the hype for AI shows a grim outlook, experts say.</li>
+      </ul>
+    	<p>Stocks so far have blown past investors' expectations for 2023 – but some analysts are bracing for a sell-off as the market approaches new highs.</p>
+    	<p>That comes as the S&P 500 enjoys one of its best years since 1927, largely thanks to Wall Street's excitement for artificial intelligence. After sliding 20% last year, the benchmark index is now up 18% from the start of 2023, and is just 6% away from retouching its all-time-high of 4,796, which it notched in January 2022.</p>	
+    	<p>But some forecasters warn inflation, though cooled from highs last summer, could produce more surprises while the recent stock run-up is showing signs of a bubble.</p>	
+    	<p>Four Wall Street experts explain why the market's gains are at risk:</p>
+      <h3>JPMorgan</h3>
+      <p>The hype for artificial intelligence is creating a bubble in stocks that could soon be at risk of bursting, according to JPMorgan's Marko Kolanovic.</p>	
+    	<p>In a recent note, the top quant strategist pointed to the high concentration of stocks in the S&P 500, with the top seven firms making up 25% of the benchmark index. That's a strong indicator of a bubble that could easily be threatened by headwinds beating down on the current macro environment.</p>	
+    	<p>"We remain of the view that the delayed impact of the global interest rate shock, steady erosion of consumer savings and post-COVID pent-up demand, and deeply troubling global geopolitical context will result in market declines and re-emergence of market volatility," he warned.</p>
+      <h3>Wells Fargo</h3>
+      <p>There's too big of a risk that inflation could rebound, according to Well Fargo's chief global market strategist Scott Wren, who believes the risk-to-reward tradeoff of entering the market at this point is poor.</p>
+      <p>Though prices have cooled dramatically from last year, inflation could easily heat up again due to lingering pressures in the economy, like the strong labor market.</p>	
+    	<p>"If inflation's descent flattens out and reverses as interest rates rise higher, we believe the sectors that have driven this rally should be vulnerable to sharp pullbacks," Wren said in a note this past week.</p>	
+    	<p>But he sees the overall S&P 500 ending the year at 4,600-4,800, above current levels.</p>
+      <h3>BlackRock</h3>
+      <p>The world's largest asset manager sees "rollercoaster inflation" ahead as prices enter a period of volatility. That's bad news for stocks: High inflation raises costs for firms, weighing on profits. But falling inflation lowers prices that firms charge, which is also a negative for profits.</p>	
+    	<p>"We expect a squeeze on corporate margins if inflation stays high — and an even larger squeeze if it falls," the note added. "So good economic news like falling inflation is not necessarily good news for markets."</p>
+      <h3>Rosenberg Research</h3>	
+      <p>David Rosenberg, the head of Rosenberg Research, pointed to the Dow's recent 13-day winning streak, which was the longest since 1987.</p>
+      <p>Back then, the Dow gained 28% over a period of 13 days, Rosenberg noted, before the index then plummeted 19% in October later that year. He dismissed the current uptrend in stocks as another short-lived "FOMO-based" rally.</p>
+      <p>"The giddiness was omnipresent as is the case today and the bears were laughed at … but look at how the year ended … FLAT!" Rosenberg said in a recent note to clients.</p>
+      <p>And while markets have cheered falling inflation, that mean lower profits for businesses, which could also weigh on stocks, he warned. Inflation fell sharply during the early 1980s, early 2000s, and in 2008, he said, periods that recessions when the S&P 500 posted hefty losses.</p>
+    </div>
+  },
+  {
+    id: 624,
+    title: 'Earnings Beat of the Week: Toyota Nearly Doubled Its Operating Profit',
+    category: 'Markets',
+    subCategory: ['Toyota', 'Profit', 'eranings'],
+    description: <div className="blog-desc">
+      <p>Toyota Motor Co. (TM), the world's top-selling automaker, nearly doubled its operating profit from a year earlier as better pricing, productivity gains, and supply-chain improvements boosted sales.</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 - 4:00 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691326132/ncx-blog-1030_zd6tua.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Better pricing, productivity gains, and supply-chain improvements boosted sales</p>
+    	<p>Toyota Motor Co. (TM), the world's top-selling automaker, nearly doubled its operating profit from a year earlier as better pricing, productivity gains, and supply-chain improvements boosted sales.</p>	
+    	<h3>KET TAKEAWAYS</h3>
+      <ul>
+        <li>Toyota, the world's biggest automaker by sales, nearly doubled its operating profit from a year ago.</li>
+        <li>The company sold nearly 2.33 million cars in the April-June period, up 15.5% from the year-ago quarter, while those of its electric vehicles (EVs) rose 30%.</li>
+        <li>Sales growth was driven by productivity gains, better pricing, supply-chain improvements, and currency tailwinds from a weaker yen.</li>
+      </ul>
+      <p>Operating income for Toyota surged 94% from the year-ago quarter to 1.12 trillion yen ($7.89 billion), beating estimates of 945 billion yen ($6.66 billion). Profit growth was driven by rising sales, productivity gains, and currency tailwinds from a weaker yen, which boosted exports of the company's vehicles. Net income totaled nearly 1.33 trillion yen ($9.37 billion), up 75% from the same quarter last year</p>
+      <p>Toyota sold just under 2.33 million cars in the April-June period, up 15.5% from the year-ago quarter, with sales of electric vehicles (EVs) up close to 30%. The company attributed higher sales to productivity gains, easing supply-chain constraints for semiconductors, and better pricing that more accurately reflected each car's retail value.</p>
+      <p>"As a result of selling each car meticulously at prices that match the product appeal refined through Toyota’s long-standing 'making ever-better cars' initiative, operating income increased, which helped reduce the impact of the sharp rise in materials prices," the company said in its earnings presentation.</p>
+      <p>On the other hand, while supply-chain constraints have eased, that's led to a backlog of orders at the company, with customers having to wait extended periods for deliveries.</p>
+      <p>"Many customers are still waiting for delivery of their cars, especially new models, for a long time, so we are working to deliver them as soon as possible," Toyota said.</p>
+      <p>For 2023 as a whole, Toyota forecasts a 3-trillion yen ($21.14 billion) profit, saying business conditions haven't markedly changed from three months ago. This compares with an average forecast of 3.6 trillion yen ($25.37 billion) compiled from 23 market analysts, Reuters reported.</p>
+      <p>With more than 9 million cars sold in 2022, Toyota is the world's top-selling automaker, a position it has held for three years after surpassing then-top-seller Volkswagen in 2020.</p>
+      <h3>More Profitable Than Tesla</h3>
+      <p>For the first time since 2021, Toyota is more profitable than EV rival Tesla (TSLA), with an operating profit margin of 10.6% in the latest quarter, compared with Tesla's 9.6%.</p>	
+    	<p>Toyota's electrification efforts and growing EV sales have taken some market share away from Tesla, with Toyota's battery electric vehicle (BEV) sales up a stunning 623% from the same quarter last year.</p>
+      <p>Toyota shares rose 2% this week, and are up more than 25% so far this year.</p>
+    </div>
+  },
+  {
+    id: 623,
+    title: 'Exclusive-UBS nears major investment bank restructuring -sources',
+    category: 'Markets',
+    subCategory: ['UBS', 'Investment', 'Bank'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) - UBS Group AG is poised to make sweeping changes to the senior ranks of its investment banking division globally as soon as Monday, marking a new milestone in the process of integrating Credit Suisse, people familiar with the</p>
+    </div>,
+    authorName: 'Abigail Summerville, Milana Vinn and David Carnevali',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 - 3:39 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691327058/ncx-blog-1032_lztp8z.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>By Abigail Summerville, Milana Vinn and David Carnevali</p>
+	    <p>NEW YORK (Reuters) - UBS Group AG is poised to make sweeping changes to the senior ranks of its investment banking division globally as soon as Monday, marking a new milestone in the process of integrating Credit Suisse, people familiar with the matter said. The changes are aimed at producing unified teams following the completion of UBS's emergency takeover in June of Credit Suisse.</p>	
+	    <p>The changes are broad and involve several dealmaking groups, including healthcare, consumer/retail, financial sponsors and equity capital markets, the sources said.</p>	
+	    <p>Under the shake-up some Credit Suisse bankers will take on bigger roles in the combined company while some others leave, the sources said. Some UBS bankers will leave the firm as a result of the reshuffling, the sources said.</p>
+      <p>The restructuring is the latest move by CEO Sergio Ermotti to integrate UBS and Credit Suisse in a process that the bank has said would be painful, with tens of thousands of jobs hanging in the balance.</p>
+	    <p>One of the team heads who is in discussions about potentially exiting is UBS's global head of consumer products and retail deals, Jeff Rose, two of the sources said. Jon Levin, who has served as Credit Suisse's head of retail investment banking, is in talks to replace him, the sources added.</p>	
+	    <p>Matt Eilers, UBS's global head of financial sponsors, is also in talks about possibly leaving, two of the sources said. Rob DiGia, UBS's global head of healthcare, will remain with the bank and is in talks about assuming a chairman-level role, according to two separate sources among those familiar with the matter.</p>	
+	    <p>The sources cautioned that the changes have not been finalized and details of restructuring remained in flux. They asked not to be identified ahead of an official announcement. Rose, Levin, Eilers and DiGia did not respond to requests for comment. A UBS spokeswoman declined to comment.</p>
+      <p>Reuters reported earlier on Friday on the reshuffling of one of the teams, UBS's technology, media and telecommunications (TMT) group. The bank is in talks to name Laurence Braham, who joined the Swiss bank from Barclays Plc earlier this year, as global co-head of technology, people familiar with the matter said.</p>
+	    <p>His co-head would be Christian Lesueur, who has been global head of TMT investment banking, the sources added. Steve Pettigrew, who just joined UBS from Bank of America Corp, would be leading software M&A under Braham, according to the sources. Neil Meyer, who worked alongside Braham at Barclays and followed him to UBS, would co-lead media and communications dealmaking globally alongside Lesueur, the sources said.</p>	
+	    <p>UBS has been trying to regain dealmaking market share. It ranked eighth in Refinitiv's global mergers and acquisitions league table in the first half of 2023, down from sixth a year earlier. In the Americas, UBS was 14th in the first half, down from seventh a year earlier.</p>	
+	    <p>UBS's savings targets and indications from insiders and analysts suggest it might be looking at cutting about a third of the combined group's global workforce, or some 30,000-35,000 jobs, Reuters reported on Thursday.</p>
+      <p>(Reporting by Abigail Summerville, Milana Vinn and David Carnevali in New York; Editing by Leslie Adler)</p>
+    </div>
+  },
+  {
+    id: 622,
+    title: 'Stock Market Week: Disney In A Funk; Earnings Due From Honda Motor, Foreign Airlines',
+    category: 'Markets',
+    subCategory: ['Stock', 'Disney', 'Honda'],
+    description: <div className="blog-desc">
+      <p>It was a rough and busy week for the stock market. The Stock Trader's Almanac notes that the first nine trading days of August are historically weak, and the big benchmarks were due for a modest pullback.</p>
+    </div>,
+    authorName: 'IBD STAFF',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 - 3:39 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691325430/ncx-blog-1029_kseunn.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>It was a rough and busy week for the stock market. The Stock Trader's Almanac notes that the first nine trading days of August are historically weak, and the big benchmarks were due for a modest pullback. Breadth of leadership remains largely intact as earnings season downshifts with a couple of weeks to run. Disney (DIS) earnings will be center stage in the coming week, along with reports from Honda Motor (HMC) and Alibaba Holdings (BABA).</p>
+      <h3>Stocks To Watch: Leaders In A Pressured Market</h3>
+    	<p>The stock market rally is now under pressure, with many growth stocks in particular taking hits. But Oracle (ORCL), Lennar (LEN), Airbnb (ABNB), MercadoLibre (MELI) and Cardinal Health (CAH), hailing from different sectors, show the market's breadth continues to hold up. Most have earnings out of the way, with only Cardinal Health on tap in mid-August. Oracle, Lennar, Airbnb and Cardinal Health are modestly below entries, with all but Airbnb testing support at their 10-week lines — so watch for rebounds. A three-week advance has left MercadoLibre below an official breakout. But the stock is actionable now, after the surge that followed its earnings report on Wednesday.</p>	
+    	<h3>Economic Calendar: Taming The Inflation Tiger</h3>
+      <p>The coming week's batch of economic data will be short, but very much on point. Thursday's consumer price index for July is expected to give the Fed another month of benign data. Both the overall CPI and core prices are forecast to rise 0.2%. The CPI inflation rate is expected to pick up to 3.2% from 3%, as a flat reading from July 2022 drops out of the 12-month tally. Core CPI inflation should dip to 4.7% from 4.8%. Against a backdrop of falling prices, one source of moderate risk would be medical costs. We'll get a read on that with the producer price index, out Friday. Economists expect the PPI to show another month of tame wholesale inflation after a 0.1% rise in June.</p>	
+    	<p>Falling used-car prices, smaller rent increases and moderating wage growth give economists a degree of confidence that core inflation will remain in check in coming months, though rising energy prices will likely boost the broad CPI in August. One source of moderate risk would be a pickup in medical costs. We'll get a read on that with the producer price index, out Friday at 8:30 a.m. ET.</p>
+      <p>PPI medical services costs feed directly into the Fed's primary inflation rate, the core PCE price index, which is released later in the month.</p>
+    	<p>Economists expect the PPI to show another month of tame wholesale inflation after a 0.1% rise in June.</p>	
+      <h3>Blue-Chip Earnings: Will Disney's Funk Continue?</h3>
+    	<p>Dow Jones entertainment giant Disney reports fiscal Q3 results late Wednesday. Analysts expect earnings to fall 9.2% — a fourth straight quarterly drop. Revenue is seen rising 4.6% to $22.49 billion. Total streaming subscribers are seen increasing to 231.24 million, little changed from 231.2 million in Q2 and 221.1 million last year. The target for Disney+ subscribership is 156.11 million, down from 157.8 million in Q2. Disney+ had 152.1 million subscribers last year. DIS stock is down 1.4% so far this year, but started August with its first weekly gain in five weeks. Disney is the week's only Dow stock due to report, with 80% of the Dow industrials having now reported.</p>	
+    	<h3>Stock Market Perspective: August Gets A Mixed Start</h3>
+      <p>The Dow industrials managed a tight finish as its three-week win streak stalled. The S&P 500 snapped its July rally, while the Nasdaq continued its back-and-forth action. Three days of losses left the market's uptrend under pressure. U.S. oil prices held above $80 a barrel, a sixth weekly advance. Drilling stocks have the biggest one-month gain among industries.</p>
+      <h3>Automakers: Japan's Big Carmakers Rally</h3>
+    	<p>A 67% jump in adjusted fiscal Q4 earnings sent Toyota Motor's (TM) margins above those of Tesla (TSLA) and launched Toyota's shares to an Aug. 1 breakout. The carmaker is now up 26% since the end of May. Honda Motor is set up in a similar base ahead of its earnings next week: It's up 40% year to date after advancing in every month so far this year. Analysts see a 64% rise in earnings and a 13% gain in revenue. Investors will be keen to know whether Honda aims to follow Toyota's plan, announced Monday, to boost EV production in China. Honda reports Wednesday.</p>
+      <h3>Travel: Foreign Airlines Check In</h3>	
+    	<p>After running near the head of the stock market throughout early 2023, airline stocks collectively lost ground in three of the past four weeks. That puts them just outside the top 25 industries for the year through July. But international travel has been a key driver, and two non-U.S. air travel players, Panama's Copa (CPA) and Brazil's Azul (AZUL), report next week. Analysts see massive revenue and earnings jumps for Copa. Azul targets narrower losses and a 15% jump in sales. Azul is up 78% year to date. Copa has a roughly 34% gain.</p>	
+    	<h3>Growth Stocks: A Few Earnings Opportunists</h3>
+      <p>With the market uptrend under pressure, and earnings season still in play, investors want to be choosy about stocks.  A number of off-the-beaten-path names poised for breakouts and with earnings due could  be worth watching in the coming week. Cleveland, Ohio-based TransDigm Group (TDG) has posted tight weekly closes since the end of June. Manitowoc (MTW) and chipmaker Ichor Holdings (ICHR) are testing 10-week support. ODP (ODP) — the old Office Depot — has pulled back below a buy point. GolarLNG (GLNG) and Atkore (ATKR) are also on the list.</p>
+      <h3>Monday</h3>
+      <p>Skyworks Solutions (SWKS) will report its fiscal third-quarter results late Monday. Analysts see the wireless-chip maker earning $1.67 a share, down 32% year over year, on sales of $1.07 billion, down 13%.</p>
+    	<p>Tyson Foods' (TSN) fiscal third-quarter financials are due early Monday. Analysts see profit falling around 87% to 26 cents per share with sales coming in at $13.6 billion, nearly flat vs. 2022. TSN earnings have been on a sharp decline since Q1 2022. In the second quarter, Tyson Foods reported a loss of 4 cents per share, but both the company and analysts expect profitability through the end of the fiscal year.</p>	
+    	<p>RingCentral (RNG) reports Q2 earnings late Monday. Analysts predict EPS of 75 cents, up 66% from a year earlier. Revenue is expected to rise 10% to $536 million. Belmont, Calif.-based RingCentral sells cloud-based business communications software for workplace collaboration and customer support. Shares are below a buy point in a bottoming base.</p>	
+    	<p>Veeco Instruments (VECO) plans to report its second-quarter results late Monday. Wall Street expects the semiconductor equipment supplier to earn 30 cents a share, down 14% year over year, on sales of $157.9 million, down 4%.</p>
+      <h3>Tuesday</h3>
+      <p>Eli Lilly (LLY) is on deck early Tuesday to report its second-quarter earnings. Analysts polled by FactSet expect Lilly to earn an adjusted $1.98 per share on $7.58 billion in sales. Earnings would climb more than 58% as sales rise 21%.</p>
+    	<p>UPS (UPS) reports early Tuesday. Analysts expect another quarterly decline, with EPS down 24% and revenue down 7%. Commentary on the recently averted workers' strike will be watched. UPS stock is trading below a 187.82 buy point in a cup-with-handle base.</p>	
+    	<p>Expeditors International (EXPD) announces second-quarter financials early Tuesday. Analysts forecast EPS falling 40% to $1.38 with sales also declining 40%, to $2.7 billion. At the end of Q1, EXPD management said it was working to bring expenses in line with its revenue drop by "lowering head count and payroll expenses without resorting to layoffs."</p>
+      <h3>Wednesday</h3>	
+    	<p>Wynn Resorts (WYNN) reports second-quarter earnings after the stock market closes Wednesday. Wall Street forecasts WYNN to announce earnings of 59 cents per share, up from a 82-cent loss a year ago. Analysts predict revenue will grow 65% to $1.5 billion. Wynn Resorts has a long string of quarterly losses, but analysts expect Q2 to be the beginning of a stretch of profitability.</p>
+      <p>Digital advertising firm Trade Desk (TTD) reports Q2 earnings after the stock market close Wednesday. Analysts predict 30% EPS growth to 26 cents. Revenue is expected to grow 21% to $455 million.</p>
+    	<p>Vishay Intertechnology (VSH) will release its Q2 results early Wednesday. Analysts predict the electronic components maker will earn 63 cents a share, down 23% year over year, on sales of $880 million, up 2%.</p>	
+    	<p>Jazz Pharmaceuticals (JAZZ) reports its second-quarter earnings late Wednesday. Analysts expect the biotech company to report a 3.5% increase in adjusted earnings to $4.45 per share, while sales are expected to edge up 1% to $942 million.</p>	
+    	<p>Jack in the Box (JACK) reports Q3 earnings early Wednesday. Analysts expect the San Diego-based fast-food chain to report a 2.9% decline in earnings to $1.34 per share while revenue dips 1% to $394 million. JACK stock has been fighting to clear a cup-with-handle buy point.</p>
+      <h3>Thursday</h3>
+      <p>Analysts expect CACI International (CACI) earnings to increase 7.9% to $4.90 per share on 5.2% revenue growth to $1.73 billion for its Q4 results early Thursday. CACI stock is rallying above the buy zone for a flat base after breaking out on June 11.</p>
+    	<p>IonQ (IONQ) will post its second-quarter results late Thursday. Analysts expect the quantum-computing startup to lose 13 cents a share on sales of $4.3 million in the period. Sales are seen rising 67% from the same quarter last year.</p>	
+    </div>
+  },
+  {
     id: 621,
     title: 'BOJ Intervenes for Second Time This Week to Slow Yield Spike',
     category: 'Markets',
