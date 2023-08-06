@@ -1,5 +1,156 @@
 const data = [
   {
+    id: 639,
+    title: 'Cardano: Why did users decline in Q2?',
+    category: 'Crypto',
+    subCategory: ['Cardano', 'ADA', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Network activity on Cardano trickled downwards in Q2, while transactions count and protocol revenue surged.</p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 6, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691319331/ncx-blog-1015_flwptp.jpg',
+    content: <div className="blog-content">
+    	<h3></h3>
+    	<p>Network activity on Cardano trickled downwards in Q2, while transactions count and protocol revenue surged.</p>
+      <ul>
+        <li>Network activity suffered a decline on Cardano in Q2.</li>
+        <li>Meanwhile, DeFi TVL and network revenue rallied.</li>
+      </ul>
+    	<p>Layer-1 smart contract network Cardano [ADA] saw a slight decline in network activity during the second quarter of 2023, according to a new report by Messari.</p>	
+    	<p>However, other key ecosystem growth metrics rallied, including the number of daily on-chain transactions, the Total Value Locked (TVL) in Cardano DeFi protocols, and the chain’s revenue.</p>	
+    	<h3>Cardano failed to attract new users in Q2 because…</h3>
+      <p>Despite the growth in the number of decentralized finance (DeFi) protocols that launched on Cardano between 1 April and 30 June, the Proof-of-Stake (PoS) network experienced a decline in the count of daily active addresses and the number of new addresses created daily.</p>
+      <p>According to the report, in Q2, the average daily active address count on Cardano was 57,821. This represented a 4% decrease from the 60,208 recorded as the average daily active address count in Q1. Messari acknowledged:</p>
+      <p><strong>“This marks the fourth QoQ decrease in address activity in the past five quarters.”  </strong></p>
+      <p>While many expected the new DeFi protocols to bring in new users to the Cardano blockchain, the reverse was the case. Per Messari, the average daily new addresses fell by 103% during the period under review.</p>
+      <p>However, in spite of all this, the number of transactions completed daily increased. As confirmed in the report:</p>
+      <p><strong>“Transaction activity, on the other hand, did increase in Q2. Average daily transactions were up 1.9% QoQ from 67,500 to 68,800.”</strong></p>
+      <p>Although a network’s transaction count and its active addresses count are typically correlated and often trend in the same direction, Messari found that for Cardano, they “have deviated slightly in recent quarters.” While many may naturally think this concerning, Messari added:</p>
+      <p><strong>“The ratio of transactions to active addresses has been growing steadily over the past five quarters, suggesting that the average user is more active now than they previously were.”</strong></p>
+      <p>This suggests that the decline in active addresses suffered in Q2 was not a result of a decrease in user activity but instead due to a reduction in the number of users who are simply holding ADA and not transacting with it.</p>
+      <h3>Shout out to the stablecoins</h3>
+      <p>In the quarter under review, the TVL held across the DeFi protocols housed with Cardano increased by 7%. The TVL growth occurred despite a persistent decline in ADA’s value in Q2.</p>
+      <p>According to Messari:</p>
+      <p><strong>“Stablecoins, arguably the most important piece of infrastructure that is fueling this TVL run, also grew in both absolute and relative terms. The total stablecoin market cap grew 34.9% QoQ from $10.0 million to $13.5 million. Relative to other networks, Cardano’s stablecoin market cap moved up from 54th to 37th in 2023.”</strong></p>
+      <p>Regarding the chain’s revenue, Cardano’s quarterly revenue increased by double digits. In Q2, Cardano’s revenue totaled $788,290. </p>
+    </div>
+  },
+  {
+    id: 638,
+    title: 'Ethereum’s ‘quiet time’ should not be taken for weakness: Analysts',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'crypto', 'Analysts'],
+    description: <div className="blog-desc">
+      <p>These on-chain analysts opined that an opportunity lies in the ETH market from a technical perspective.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691318624/ncx-blog-1014_bit7uz.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>These on-chain analysts opined that an opportunity lies in the ETH market from a technical perspective.</p>
+      <ul>
+        <li>Although ETH displayed signs of weakness, it had the potential to surge.</li>
+        <li>The altcoin’s volatility was low as the price continued to drop.</li>
+      </ul>
+    	<p>For some time, Ethereum [ETH] has been experiencing a relatively subdued period in the market, with concerns arising about its price action. However, analysts are cautioning against interpreting this phase as a weakness in the altcoin.</p>
+      <p>Some of those backing ETH to thrive include Glassnode co-founders Jan Hapell and Yann Allemann. The duo, who operate on Twitter under the “Negentropic” username, noted that Bitcoin [BTC] might shine going forward.</p>
+      <h3>The calm before ETH storms</h3>
+      <p>The analysts argued that ETH’s apparent calmness should not be underestimated, as there could be a” golden mid-term opportunity.” Hapell and Allemann, in their tweet, also shared an image of the ETH/USD chart, indicating that the altcoin could be set for a breakout.</p>
+      <p>Over the last seven days, ETH has been hovering around $1,835 and has been unable to hit $1,900 within the said timeframe. But do metrics agree that an ETH breakout is on the horizon?</p>
+      <p>Well, from Glassnode’s data, ETH’s seller exhaustion constant was down to $0.097. The seller exhaustion constant is the product of the 30-day price volatility and the coin supply in profit.</p>
+      <p>Originally created by ARK Invest and David Puell, the metric also checks for capitulation and bottoms. So the drop indicates low volatility and high losses. Thus, ETH could be close to its lowest value in the current market cycle.</p>
+      <h3>Is ETH at a fair price?</h3>
+      <p>Additionally, the Network Value to Transaction (NVT) signal rose mildly after a recent fall to 82.92. As a modified version of the NVT Ratio, the NVT signal checks if a blockchain network is overvalued or not by using the 90-day Moving Average (MA).</p>
+      <p>If the metric jumps extremely high, it means that the asset is overvalued. But ETH’s NVT increase was not exactly significant. So, the coin can be said to be at a fair value.</p>
+      <p>As per the price action, the ETH/USD 4-hour chart showed that the altcoin held support at $1,831. Despite numerous attempts to push the price upwards, selling pressure has ensured that ETH gets rejected at $1,857.</p>	
+    	<p>The Exponential Moving Average (EMA) also gave an insight into what to expect from ETH in the short term. At press time, the 20 EMA (blue) was below the 50 EMA (yellow).</p>
+      <p>If the 20 EMA is above the 50 EMA, the trend is bullish. But if the 50 EMA is above 20 EMA, the trend is bearish. Therefore, the odds are on ETH to decrease before any run up the charts.</p>	
+    </div>
+  },
+  {
+    id: 637,
+    title: 'Shiba Inu decouples from the market; Is this catalyst why?',
+    category: 'Crypto',
+    subCategory: ['Shiba', 'decouples', 'market'],
+    description: <div className="blog-desc">
+      <p>Shiba Inu and Bone ShibaSwap have registered massive growth in terms of price over the last seven days as the Shibarium launch draws closer.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 5, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691318143/ncx-blog-1013_k2ncqj.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Shiba Inu and Bone ShibaSwap have registered massive growth in terms of price over the last seven days as the Shibarium launch draws closer.</p>
+      <ul>
+        <li>SHIB’s market indicators and on-chain metrics revealed what was working in its favor.</li>
+        <li>Shibarium’s hype was also responsible for turning things bullish.</li>
+      </ul>
+    	<p>Shiba Inu [SHIB] has decoupled from the crypto market, as its daily and weekly charts were painted green. Unlike most cryptos, SHIB managed to push its price up in a bearish market. A catalyst for this growth could be the upcoming ETH Toronto event, which will include announcements regarding its much-hyped Shibarium.</p>
+      <h3>Shiba Inu’s graph is on fire</h3>	
+    	<p>While most of the crypto market remained under the bears’ influence, Shiba Inu decoupled. As per CoinMarketCap, SHIB’s price rose by more than 5% and 10% in the last 24 hours and the past week, respectively.</p>
+      <p>At the time of writing, it was trading at $0.000008651 with a market capitalization of over $5.1 billion, making it the 14th largest crypto.</p>
+      <p>Along with the price, SHIB’s 24-hour trading volume also shot up by 34%, which was bullish. A look at SHIB’s daily chart gave a better understanding of what supported this surge.</p>
+      <p>The Exponential Moving Average (EMA) Ribbon displayed a bullish crossover a few days ago. Moreover, Shiba Inu’s Relative Strength Index (RSI) gained upward momentum.</p>
+      <p>SHIB’s Chaikin Money Flow (CMF) also spiked and went above the neutral mark.</p>
+      <h3>Shiba Inu remain whales’ favorite </h3>
+      <p>Interestingly, whale activity around SHIB also increased, as evident from the spike in its whale transaction count. Moreover, Whalestats’ data revealed that the memecoin was also the top traded token among the top 100 Ethereum whales in the last 24 hours.</p>
+      <p>Thanks to the price uptick, the memecoin’s MVRV Ratio also increased. However, it was surprising to see a dip in SHIB’s social volume, considering its immense popularity. The metric registered a dip over the last few days.</p>
+      <p>Therefore, there is a possibility of SHIB’s price action turning bearish in the coming days.</p>	
+    	<p>While SHIB enjoyed price gains, BONE ShibaSwap [BONE] also had its share of price upticks. Notably, BONE outperformed SHIB on the weekly chart. CoinMarketCap’s data further pointed out that BONE was up by more than 23% over the last week. At press time, it was valued at $1.65 with a market cap of over $379 million.</p>
+      <h3>The Shibarium hype</h3>
+      <p>Though SHIB’s latest uptrend can be attributed to bullish market indicators and metrics, due credit should also be given to the upcoming event. On 15 and 16 August, the Ethereum Toronto event will take place, where major announcements are expected to be made for Shibarium.</p>
+      <p>As the event date draws closer, Shiba Inu’s marketing team is leaving no stone unturned in building up the hype. LUCIE recently posted a tweet highlighting Shibarium’s aim and how the blockchain plans to integrate Self-Sovereign Identity (SSI) into its protocols.</p>
+      <p>As per the tweet, the integration of SSI is aimed at enhancing the security of the Shibarium. Users will have more control over their digital identities thanks to SSI, which enables them to securely manage and share their personal data.</p>
+      <p>As the hype continues to grow, it will be interesting to see how SHIB and other tokens in its ecosystem react over the days to follow.</p>
+    </div>
+  },
+  {
+    id: 636,
+    title: 'Bitcoin may be ready for a rebound – Here’s why',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'crypto', 'rebound'],
+    description: <div className="blog-desc">
+      <p>Key indicators suggest that Bitcoin could be coming out of its shell, which has been enclosed in a decline thus far.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 4, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691317501/ncx-blog-1012_ef3kpo.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Key indicators suggest that Bitcoin could be coming out of its shell, which has been enclosed in a decline thus far.</p> 
+      <ul>
+        <li>Bitcoin’s utility has increased amid recent losses, signaling a potential increase in value.</li>
+        <li>Liquidity decreased, but BTC may not drop near $20,000 anytime soon.</li>
+      </ul>
+    	<p>As the flagship digital asset, Bitcoin [BTC] may be showing signs of a potential rebound after facing a period of consolidation and downward pressure. The recent dip, which led BTC below $28,000, has caused a change in market sentiment, leading some to question the presence of an early bull market.</p>	
+    	<h3>Sights on recovery</h3>
+      <p>However, Santiment revealed that there has been an increase in active addresses, such that the metric as of 3 August surpassed the heights of the last three and a half months. The rise in active addresses suggests a surge in utilizing BTC in transactions.</p>
+      <p>But it wasn’t just that. The increase coincided with negative sentiment and major transactions in losses. Historically, this is evidence that the period of consolidation could soon come to an end. In turn, BTC might bounce back in the upward trajectory.</p>
+      <p>From the chart shared above by the on-chain analytics platform, on-chain volume in profit to loss was down to -0.155. As a key indicator of profitability in the market, this decline implies that loss-taking volume was overwhelming profits made.</p>
+      <p>Furthermore, the 30-day Market Value to Realized Value (MVRV) ratio was also negative. The MVRV ratio measures the relationship between the market and realized capitalizations. Values in the positive region indicate an advancement toward the market top.</p>
+      <p>Conversely, when the metric is in negative territory, it implies that BTC could be near the bottom. So, in its press time state, BTC had more tendency to recover than slide again. Another metric to consider in this regard is volume.</p>
+      <h3>The pace is being established</h3>	
+    	<p>As of this writing, the volume was 12.32 billion. While this metric decreased, it has previously risen to 20.05 billion on 2 August, indicating increased liquidity. Therefore, if the volume experiences another hike, it could set the tone for BTC’s bounce.</p>
+      <p>Meanwhile, Bitcoin’s realized cap was $396.98 billion, according to CryptoQuant. This metric attempts to measure the value of a coin by comparing the network value and the on-chain volume-weighted price.</p>
+      <p>When compared with the market cap, on-chain data showed that the market value was far ahead at $567.11 billion. Typically, when the market cap and realized cap are similar in value or the latter is a little higher, it could signal closeness to the market bottom.</p>
+      <p>But in this case, BTC may have the potential to rebound. However, considering the press time price as the bottom may not be valid. Hence, if BTC decreases again, it might still be around the $25,000 region.</p>
+    </div>
+  },
+  {
     id: 635,
     title: 'Ripple gives two cents on SEC ruling, locks new set of XRP',
     category: 'Crypto',
