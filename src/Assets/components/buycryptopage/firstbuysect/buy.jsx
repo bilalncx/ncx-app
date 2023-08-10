@@ -1,11 +1,6 @@
 import React from "react";
 import './buy.css';
 import Button from "@mui/material/Button";
-import { ReactComponent as TrendingGraph } from '../../../images/ncx-trendinggraph.svg';
-import { ReactComponent as Ethereum } from '../../../images/ncx-ethereum.svg';
-import { ReactComponent as Bitcoin } from '../../../images/ncx-bitcoin.svg';
-import { ReactComponent as BinanceCoinBNB } from '../../../images/ncx-binancecoinbnb.svg';
-import { ReactComponent as ChangeValue } from '../../../images/cryptochange.svg';
 import { ReactComponent as RewardStar } from '../../../images/ncx-reward-star.svg';
 import { useTranslation } from "react-i18next";
 

@@ -226,6 +226,9 @@ a.vea_vv:focus, a.vea_vv:hover, a.vea_vv:focus-visible{
 }
 .col.vwev .accordian details summary{
     padding: 32px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .slvs .carousel .csver .carousel__inner-slide img {
     max-height: 40px;
