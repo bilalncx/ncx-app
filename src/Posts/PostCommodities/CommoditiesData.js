@@ -1,5 +1,161 @@
 const data = [
   {
+    id: 609,
+    title: 'Oil Holds Near $83 as IEA Sees Consumption at a Record',
+    category: 'Commodities',
+    subCategory: ['Oil', 'IEA', 'Record'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil was on track to end the week little changed, after touching the highest since November in recent days, as the International Energy Agency’s monthly snapshot pointed to a robust market.</p>
+    </div>,
+    authorName: 'Yongchang Chin and Alex Longley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 12:57 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691755439/ncx-blog-1055_oskf5x.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil was on track to end the week little changed, after touching the highest since November in recent days, as the International Energy Agency’s monthly snapshot pointed to a robust market.</p>
+    	<p>West Texas Intermediate futures traded near $83 a barrel, virtually flat on the week. Global oil demand has surged to a record thanks to robust Chinese consumption, the IEA said. It followed a report from OPEC that suggested a sharp supply deficit of more than 2 million barrels a day this quarter.</p>	
+    	<p>Oil has rallied since late-June on cuts from Saudi Arabia, aided by export curbs from OPEC+ ally Russia. Traders are also continuing to monitor the wider economic outlook, as the impact of the Federal Reserve’s aggressive rate-hiking cycle continues to ripple through markets.</p>
+      <p>Iran has moved four US citizens from prison to house arrest, the first step of an emerging deal between Washington and Tehran that could eventually see more barrels from the OPEC producer hitting the market.</p>
+      <p>“What we anticipate is the acceleration of the trend of de minimis sanctions enforcement to enable Iranian barrels to reach the Asian market,” RBC Capital Markets LLC analysts including Helima Croft wrote in a note. “Nonetheless there remain important spoilers to watch. Congress may seek to upend this informal reset and try to mandate the enforcement of existing punitive measures.”</p>	
+    	<p>The tightness is flowing through to downstream fuel markets, with a type of petroleum left over from oil refining costing more than crude in Europe for the first time in decades. Prices of gasoline and diesel are also well above seasonal norms, partly as a result of refinery output curbs.</p>
+    </div>
+  },
+  {
+    id: 608,
+    title: 'Gold stays near 1-month lows as US dollar, yields hold ground',
+    category: 'Commodities',
+    subCategory: ['Gold', 'US', 'Dollar'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices held near one-month lows on Friday, shrugging off cooler-than-expected U.S. inflation figures for last month, with bullion staying on course to wrap up its worst week in seven as the U.S. dollar and bond yields stood strong.</p>
+    </div>,
+    authorName: 'Swati Verma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 6:26 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691754950/ncx-blog-1054_u3cwim.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Swati Verma</p>
+    	<p>(Reuters) - Gold prices held near one-month lows on Friday, shrugging off cooler-than-expected U.S. inflation figures for last month, with bullion staying on course to wrap up its worst week in seven as the U.S. dollar and bond yields stood strong.</p>	
+    	<p>Spot gold edged 0.2% higher to $1,916.53 per ounce by 0727 GMT, but traded near its lowest level since July 7 touched earlier in the day. U.S. gold futures were steady at $1,948.80.</p>	
+    	<p>Gold gained as much as 0.8% on Thursday after data showed the U.S. consumer price index (CPI) climbed less than expected in July, raising bets that the Fed will unlikely hike interest rates again in 2023.</p>
+      <p>Interest rate increases tend to lift bond yields and in turn raise the opportunity cost of holding non-yielding bullion.</p>
+      <p>"Once the CPI dust had settled, markets seemed to remember that core CPI at 4.7% is still not great – even if it was slower than expected," said Matt Simpson, a senior analyst at City Index, adding that gold's move higher lacked conviction.</p>
+      <p>"We also had Fed member Mary Daly putting a fly in the dovish ointment, saying whether another hold or hike at the Fed's next meeting is 'yet to be determined'. And that saw the U.S. dollar regain its strength."</p>
+      <p>Gold prices have slid about 1.3% so far in the week as the U.S. dollar index and benchmark 10-year Treasury bond yields were on track for their fourth consecutive weekly gain. [USD/] [US/]</p>
+      <p>Moderating inflation and strong labour data present an ideal macroeconomic balance, pushing out the possibility of a hard landing, which diminishes safe-haven flows for gold and also supports a higher-for-longer rates scenario, ANZ analysts wrote in a note.</p>
+      <p>Spot silver rose 0.2% to $22.72 an ounce and platinum added 0.6% to $912.04. Still, both were on track for their fourth straight weekly loss.</p>
+      <p>Palladium was up 0.3% at $1,290.43, eyeing its best week since mid-June.</p>
+      <p>(Reporting by Swati Verma in Bengaluru; Editing by Sherry Jacob-Phillips and Subhranshu Sahu)</p>
+    </div>
+  },
+  {
+    id: 607,
+    title: 'Oil holds near highs on upbeat demand growth forecasts',
+    category: 'Commodities',
+    subCategory: ['Oil', 'growth', 'forecasts'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) - Oil prices held near recent highs on Friday amid optimistic demand forecasts from the OPEC producer group and the International Energy Agency (IEA).</p>
+    </div>,
+    authorName: 'Ahmad Ghaddar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 4:38 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691754719/ncx-blog-1053_zmcixx.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Ahmad Ghaddar</p>
+    	<p>LONDON (Reuters) - Oil prices held near recent highs on Friday amid optimistic demand forecasts from the OPEC producer group and the International Energy Agency (IEA).</p>	
+    	<p>Brent crude was down 12 cents, or 0.1%, at $86.28 a barrel at 0910 GMT while U.S. West Texas Intermediate (WTI) crude futures were down 7 cents, or 0.1%, at $82.75.</p>	
+    	<p>Both benchmarks have been on a sustained rally since June, with WTI trading on Thursday at its highest this year and Brent hitting its highest since late January.</p>
+      <p>The IEA on Friday warned that global inventories could fall sharply over the rest of 2023, potentially driving prices even higher, though the agency expects demand growth to slow to 1 million barrels per day (bpd) in 2024, down 150,000 bpd from its previous forecast.</p>
+      <p>The Organization of Petroleum Exporting Countries (OPEC) on Thursday said it expects global oil demand to rise by 2.25 million bpd in 2024, compared with growth of 2.44 million bpd this year. Both forecasts were unchanged from last month.</p>
+      <p>In 2024 "solid" economic growth amid continued improvements in China is expected to boost oil consumption, it added.</p>
+      <p>"Demand is reassuringly upbeat," PVM oil analyst Tamas Varga said. "These cheerful projections suggest that OPEC is sanguine on global economic prospects."</p>
+      <p>Market sentiment was also lifted by Thursday's U.S. consumer prices data for July, which fuelled speculation that the Federal Reserve is nearing the end of its aggressive rate hike cycle.</p>
+      <p>On the supply side, prices have been supported by extensions to output cuts by Saudi Arabia and Russia alongside supply fears driven by the potential for conflict between Russia and Ukraine to disrupt Russian oil shipments in the Black Sea region.</p>
+      <p>Mixed economic data from China weighed on sentiment, however.</p>
+      <p>While customs data showed crude imports up year on year, China's overall exports plunged 14.5%, with monthly crude imports retreating from June's near-record highs to the lowest level since January.</p>
+      <p>Data this week also showed China's consumer prices fell into deflation and factory gate prices extended declines in July, raising concerns about fuel demand in the world's second-largest economy.</p>
+      <p>(Reporting by Ahmad Ghaddar; Additional reporting by Andrew Hayley in Beijing; Editing by David Goodman)</p>
+    </div>
+  },
+  {
+    id: 606,
+    title: 'JPMorgan Predicts Record Highs for Gold — Should You Invest Now?',
+    category: 'Commodities',
+    subCategory: ['JPMorgan', 'Gold', 'Invest'],
+    description: <div className="blog-desc">
+      <p>Gold has always been in demand, for both its beauty and its utility. It’s also often used as a diversification tool, or even as a speculative stand-alone investment. But its price is often hard to predict.</p>
+    </div>,
+    authorName: 'John Csiszar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 12:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691754384/ncx-blog-1052_sv5h03.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Gold has always been in demand, for both its beauty and its utility. It’s also often used as a diversification tool, or even as a speculative stand-alone investment. But its price is often hard to predict.</p>
+    	<p>As a commodity, the price of gold doesn’t depend on earnings and revenue growth, as is the case with stocks. Rather, a multitude of outside forces, from interest rates to monetary policy to geopolitical events, can drive the price of gold up or down. But it can be hard for the individual investor to factor in all of these components on their own.</p>	
+    	<p>To help out, JP Morgan recently came out with a bold prediction for the price of gold over the next 12 to 18 months, based on certain specific factors. Here’s what the famed investment house had to say.</p>	
+    	<h3>JP Morgan’s Gold Prediction</h3>
+      <p>According to a research note penned by Greg Shearer, executive director of global commodities research, gold will average $2,012 by the middle of next year and hit $2,175 per ounce by the fourth quarter of 2024. This is up from a price of about $1,915 as of Aug. 9, 2023.</p>
+      <p>If the market price reaches the $2,175 predicted by JP Morgan by Q4 2024, that would represent a gain of about 13.5%.</p>
+      <h3>What Are the Reasons for the Call?</h3>
+      <p>Shearer expects the Federal Reserve to completely reverse its policy of tightening interest rates in the very near future. According to his research note, he expects that the Fed will actually begin cutting rates by Q2 2024, with falling yields being a “significant driver” for gold.</p>
+      <p>When interest rates drop, demand for gold typically rises. As investment firm PIMCO explains it, when yields are high, gold becomes less attractive because it doesn’t pay any income. But when interest rates fall, so too does the opportunity cost for owning gold.</p>
+      <p>In other words, owning gold in a low-rate environment does force you to give up the high income you might earn from other investments in a high-yield environment. Thus, money tends to flow back into gold, as JP Morgan predicts for the upcoming 12-to-18 months.</p>
+      <p>Shearer also notes that there is still the potential for a recession in the coming months. Recessionary environments tend to dampen interest rates even further, which in turn supports the case for owning gold. According to Shearer, the deeper any recession is, the higher gold prices are likely to go.</p>
+      <p>In addition to the falling-interest-rate scenario, JP Morgan also sees support for gold in the form of institutional demand. According to the firm, central banks will likely continue to buy gold to diversify away from the U.S. dollar — which tends to fall along with interest rates — and to hedge against heightened geopolitical risks.</p>
+      <h3>Should You Invest Now?</h3>
+      <p>Investing in gold is not for everyone.</p>
+      <p>For starters, it doesn’t cast off any income. Actual gold is also quite illiquid, although you can sidestep this by owning an exchange-traded fund tracking the price of gold instead.</p>
+      <p>Lastly, gold prices can be notoriously fickle. Unlike stocks, which have actual businesses behind them generating revenue and earnings, gold is the ultimate supply-and-demand commodity. Investors typically use it more as a hedge than as a straight investment, and most financial advisors suggest that even the most bullish investors only devote 10% or less of their portfolios to commodities like gold.</p>
+      <p>That being said, if you believe in JP Morgan’s analysis, gold might prove a good asset in terms of both diversification and appreciation over the next 12 to 18 months. Most economists believe that the Fed will indeed begin to cut interest rates sometime in 2024, and this forms the backdrop of JP Morgan’s argument.</p>
+      <p>Of course, many economists also called for a recession in 2023, and thus far, the U.S. economy has proven surprisingly resilient. Falling interest rates might actually help prop up the economy and keep it out of recession, in which case JP Morgan’s argument for gold might be too bullish.</p>
+      <p>As the future price of gold can’t be determined with any certainty, if you’re considering investing, consult with a financial advisor so you can discuss if gold is something that matches your investment objectives and risk tolerance. Also, consider limiting your gold investment to no more than 10% of your overall portfolio, even if you’re bullish on the precious metal.</p>
+    </div>
+  },
+  {
+    id: 605,
+    title: 'European Gas Declines as Market Cools After Fears of LNG Strikes',
+    category: 'Commodities',
+    subCategory: ['Eyropean', 'Gas', 'LNG'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- European natural gas declined Thursday as traders took stock of an extreme price swing in the previous session, fueled by the possibility of strikes in Australia that could disrupt supplies.</p>
+    </div>,
+    authorName: 'Anna Shiryaevskaya',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 8:35 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691753926/ncx-blog-1051_yjndgj.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- European natural gas declined Thursday as traders took stock of an extreme price swing in the previous session, fueled by the possibility of strikes in Australia that could disrupt supplies.</p>
+    	<p>Benchmark futures settled 7% lower, erasing an earlier gain. The contract surged 28% on Wednesday, the most since March 2022.</p>	
+    	<p>The abrupt change is the latest example of intense volatility that has stalked Europe’s gas market for months. Traders continue to be on edge even though the continent’s fuel inventories are about 88% full on average — well above normal for the time of year — and industrial demand remains tepid after last year’s energy crisis.</p>	
+    	<p>Workers at some Chevron Corp. and Woodside Energy Group Ltd. facilities in Australia are considering industrial action, which could have implications for liquefied natural gas supplies. Talks are ongoing and further negotiations are scheduled for Aug. 15. Any prolonged strikes, which could begin as soon as next week, risk tightening the market for the fuel as buyers in Asia would have to seek alternative supplies.</p>
+      <p>On Thursday, Asian spot LNG price tracked earlier European price moves, rising 10% after a public holiday in Singapore on Wednesday, according to S&P Global Commodity Insights.</p>
+      <p>Any interruption at the Australian facilities risks disrupting about 10% of global LNG exports. If the dispute were to last one month, about 3 million tons of LNG capacity could be affected, removing about 44 cargoes of LNG from the market, according to Claudio Steuer, director or SyEnergy Consulting.</p>
+      <p>However, the strikes — if they materialize — may only have a limited impact on physical shipments to Europe, he said. While some US supplies could shift to Asia, Europe also sources LNG via long-term contracts from Norway, Algeria, Qatar and Nigeria.</p>
+      <p>“Markets rise on speculation and fall on facts,” Steuer said. “Once the market realized the disruption may be much smaller and the market is adequately supplied at the moment,” European prices corrected.</p>
+      <p>It’s also possible trader positioning contributed to the recent price surge.</p>
+      <p>“The strength and extent of the move may have been driven by an unwinding of short positions, and the market has fallen back to some extent today as the dust settles,” said Callum Macpherson, head of commodities at Investec. There was a similar move that drove prices higher in recent months, he added.</p>
+      <p>Gas Inventories</p>
+      <p>Still, traders are keeping a close eye on gas stockpiles and maintenance schedules. Total LNG inventories in Japan may have fallen below last year’s level due to more robust power demand, according to Rystad Energy. In China, LNG tank stockpiles at import terminals could hit 90% in the coming month, which could force importers to push back seaborne shipment deliveries.</p>
+      <p>Europe’s LNG imports have already slipped from the highs seen earlier this year, while stockpiles continue to build. There’s also considerable focus on any potential changes to maintenance schedules in Norway, the region’s top producer.</p>
+      <p>Dutch front-month futures, Europe’s gas benchmark, closed at €37.06 a megawatt-hour. The UK equivalent dropped 6.8%, also erasing an earlier gain.</p>
+      <p>--With assistance from Elena Mazneva.</p>
+    </div>
+  },
+  {
     id: 604,
     title: 'World Gold Council on What Drives the Shiny Metal’s Price',
     category: 'Commodities',

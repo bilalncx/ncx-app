@@ -1,5 +1,111 @@
 const data = [
   {
+    id: 630,
+    title: 'US stocks rise after CPI shows inflation came in cooler than expected in July',
+    category: 'Markets',
+    subCategory: ['US', 'Stocks', 'CPI'],
+    description: <div className="blog-desc">
+      <p>US stocks jumped on Thursday as July Consumer Price Index data showed inflation rose last month at a slower rate than economists were predicting.</p>
+    </div>,
+    authorName: 'Max Adams',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 1:35 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691758633/ncx-blog-1058_wyclh4.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>US stocks climbed on Thursday as traders digested inflation data for July.</li>
+        <li>The Consumer Price Index showed inflation rose 3.2% last month, slower than economists expected.</li>
+      </ul>
+    	<p>US stocks jumped on Thursday as July Consumer Price Index data showed inflation rose last month at a slower rate than economists were predicting.</p> 
+    	<p>Inflation rose 3.2% on an annualized basis in July. That's higher than 3.0% in June but lower than the expected rate of 3.3%. Month-to-month, inflation rose 0.2% from June to July, which was in line with expectations.</p>	
+    	<p>Although the annualized rate of inflation came in hotter than June's figures, market watchers still think that prices are cooling enough to bolster the argument that the Federal Reserve is done raising interest rates. Fed fund futures are pricing in 90% odds that the central bank holds its target rate steady at 5.25%-5.50% at next month's meeting of the Federal Open Market Committee, and that rate cuts could be coming as early as the first quarter of next year.</p>	
+    	<p>"The case is building for the Fed to keep policy rates unchanged in September. Both headline and core inflation are waning and the internals of the CPI print suggest that further deceleration pressures should build over the coming months," Seema Shah, chief global strategist at Principal Asset Management, said.</p>
+      <h3>Here's where US indexes stood shortly after the 9:30 a.m. opening bell on Thursday: </h3>
+      <ul>
+        <li>S&P 500: 4,499.51, up 0.71%</li>
+        <li>Dow Jones Industrial Average: 35,409.52, up 0.82% (292 points)</li>
+        <li>Nasdaq Composite: 13,847, up 0.81%</li>
+      </ul>
+      <h3>Here's what else is going on today:</h3>
+      <ul>
+        <li>China is heading for another real estate crisis — but on a scale it's never seen before.</li>
+        <li>Bearish hedge fund boss Boaz Weinstein is feeling the pain from this year's surprise stock rally.</li>
+        <li>Tesla sales in China have slipped, but the country's sagging economy may not be to blame.</li>
+        <li>The rally in stocks is under pressure and corporate profits could be about to sink, JPMorgan says.</li>
+      </ul>
+      <h3>In commodities, bonds, and crypto: </h3>
+      <ul>
+        <li>West Texas Intermediate crude oil dropped 0.88% to $83.66 a barrel. Brent, the international benchmark, fell 0.63% to $87.14 a barrel.</li>
+        <li>Gold edged up 0.5% to $1,959.10 per ounce.</li>
+        <li>The yield on the 10-year Treasury bond slipped about one basis point to 3.99%.</li>
+        <li>Bitcoin fell 0.05% to $29,550.</li>
+      </ul>
+    </div>
+  },
+  {
+    id: 629,
+    title: 'Alibaba Grows Income from Operations by 70%, Pushing Stock Higher',
+    category: 'Markets',
+    subCategory: ['Alibaba', 'Grows', 'Stock'],
+    description: <div className="blog-desc">
+      <p>Alibaba Group Holdings Ltd. (BABA) delivered serious gains in the quarter ended June 30, with income from operations up 70% year-over-year, sending its stock up nearly 7% this morning.</p>
+    </div>,
+    authorName: 'Investopedia',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 10, 2023 - 6:16 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691758078/ncx-blog-1057_hz5web.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Alibaba Group Holdings Ltd. (BABA) delivered serious gains in the quarter ended June 30, with income from operations up 70% year-over-year, sending its stock up nearly 7% this morning.</p>
+    	<h3>KEY TAKEAWAYS</h3>
+      <ul>
+        <li>Alibaba saw a 56% jump in earnings per share, driven by growth in digital media and international commerce.</li>
+        <li>While year-over-year comparisons are slightly skewed due to COVID lockdowns a year ago, Alibaba showed solid quarterly growth as well.</li>
+        <li>Growth across all segments suggests that March's corporate restructuring is paying off for the company.</li>
+      </ul>
+      <p>During the same quarter a year ago, cities around China were under strict COVID lockdown, with the country's largest city, Shanghai, shut down from April 1, 2022, to June 1, 2022.</p>	
+    	<p>But Alibaba's earnings results are still good, showing balance sheet growth from the previous quarter.</p>	
+    	<p>An overall revenue increase of 14% translates to a revenue beat and a 56% jump in diluted earnings per share. The strong quarter was driven by growth across all segments, including 36% growth in Digital Media and Entertainment. Free cash flow was up 76% year-over-year.</p>
+      <p>There have been concerns this year that slowing consumer spend in China would translate to lower gains for the retail giant. The Alibaba International Digital Commerce Group notched 41% growth in the quarter, showing that the company's foreign sales can make up the difference.</p>
+      <p>Alibaba's growth across all segments suggests its restructuring plan announced in March is paying off in the face of domestic economic headwinds.</p>
+      <p>In September, Alibaba CEO and Chairman Daniel Zhang will step down to instead head the company's cloud computing and artificial intelligence (AI) segment. Alibaba plans to spin out that computing business, which recently announced it would support an AI model for Chinese customers created by Meta Platforms Inc. (META). Last month, Alibaba was hit with a nearly $1 billion fine, though investors believe that may signal the end of regulatory punishment.</p>
+    </div>
+  },
+  {
+    id: 628,
+    title: 'China internet giants order $5 billion of Nvidia chips to power AI ambitions -FT',
+    category: 'Markets',
+    subCategory: ['China', 'Nvidia', 'AI'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday.</p>
+    </div>,
+    authorName: 'Kanjyik Ghosh and Stephen Nellis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 12:23 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691757551/ncx-blog-1056_yuzaix.avif',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Kanjyik Ghosh and Stephen Nellis</p>
+    	<p>(Reuters) -China's internet giants are rushing to acquire high-performance Nvidia chips vital for building generative artificial intelligence systems, making orders worth $5 billion, the Financial Times reported on Wednesday.</p>	
+    	<p>Baidu, TikTok-owner ByteDance, Tencent and Alibaba have made orders worth $1 billion to acquire about 100,000 A800 processors from the U.S. chipmaker to be delivered this year, the FT reported, citing multiple people familiar with the matter.</p>
+      <p>The Chinese groups had also purchased a further $4 billion worth of graphics processing units to be delivered in 2024, according to the report.</p>
+      <p>A Nvidia spokesperson would not elaborate on the report but said that "consumer internet companies and cloud providers invest billions of dollars on data center components every year, often placing orders many months in advance."</p>
+      <p>The Biden administration last October issued a sweeping set of rules designed to freeze China's semiconductor industry in place while the U.S. pours billions of dollars in subsidies into its chip industry.</p>
+      <p>Nvidia offers the A800 processor in China to meet export control rules after U.S. officials asked the company to stop exporting its two top computing chips to the country for AI-related work.</p>
+      <p>The FT report comes as President Biden on Wednesday signed an executive order that would narrowly prohibit certain U.S. investments in sensitive technology in China and require government notification of funding in other tech sectors.</p>	
+    	<p>Nvidia's finance chief said in June that restrictions on exports of AI chips to China "would result in a permanent loss of opportunities for the U.S. industry", though the company expected no immediate material impact.</p>
+      <p>Baidu, ByteDance, Tencent and Alibaba did not immediately respond to Reuters' requests for comment.</p>
+      <p>(Reporting by Kanjyik Ghosh in Bengaluru and Stephen Nellis in San Francisco; Editing by Anil D'Silva and Diane Craft)</p>
+    </div>
+  },
+  {
     id: 627,
     title: 'Investors Bet That High Rates Will Linger',
     category: 'Markets',
