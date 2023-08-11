@@ -1,5 +1,188 @@
 const data = [
   {
+    id: 616,
+    title: 'UK economy grows 0.2% in second quarter, avoiding recession',
+    category: 'Forex',
+    subCategory: ['UK', 'economy', 'Recession'],
+    description: <div className="blog-desc">
+      <p>The UK's economy grew 0.2% in the second quarter, with gross domestic product (GDP) also growing 0.5% in June, according to the latest figures from the Office for National Statistics.</p>
+    </div>,
+    authorName: 'Lucy Harley-McKeown',
+    authorurl: 'https://www.yahoo.com/author/lucy-harley-mckeown/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 10:16 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691747235/ncx-blog-1047_j0tpfs.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The UK's economy grew 0.2% in the second quarter, with gross domestic product (GDP) also growing 0.5% in June, according to the latest figures from the Office for National Statistics.</p>
+    	<p>This narrowly avoided a second month of declining growth and outstripped economists expectations.</p>	
+    	<p>The services sector grew by 0.1% on the quarter, driven by increases in information and communication, accommodation and food service activities, and human health and social work activities; elsewhere, the production sector grew by 0.7%, with 1.6% growth in manufacturing.</p>	
+    	<p>“The economy bounced back from the effects of May’s extra bank holiday to record strong growth in June," said ONS director of economic statistics Darren Morgan. "Manufacturing saw a particularly strong month with both cars and the often-erratic pharmaceutical industry seeing particularly buoyant growth."</p>
+      <p>The UK is the only major advanced economy yet to have met pre-COVID levels of late-2019, the data showed. It is now 0.2% below that level as of the end of June. That's compared with 0.2% above for Germany, 1.7% for France, 2.2% for Italy and 6.2% for the United States.</p>
+      <p>Looking at the broader picture, gross domestic product (GDP) showed no growth in the three months to May.</p>
+      <p>Production output has bounced back, having fallen by 0.6% in May after a fall of 0.2% in April. This was revised up from a fall of 0.3% in the previous publication. This sector was the main contributor to the fall in monthly GDP in May.</p>
+      <p>“The actions we’re taking to fight inflation are starting to take effect, which means we’re laying the strong foundations needed to grow the economy," said chancellor Jeremy Hunt.</p>
+      <p>“The Bank of England are now forecasting that we will avoid recession, and if we stick to our plan to help people into work and boost business investment, the IMF have said over the longer-term we will grow faster than Germany, France and Italy.”</p>
+      <p>Various long-term forecasts from the likes of the IMF and KPMG have looked to modest long-term growth for the UK. Last month KPMG said it expects growth to remain weak, with real GDP at just 0.3% in 2023, rising to 1.1% in 2024. "The risks are skewed to the downside," they added.</p>
+      <p>FTSE 100 futures were pointing to a lower open on Friday in London.</p>
+    </div>
+  },
+  {
+    id: 615,
+    title: 'JPMorgan Stock Top Stories: Commercial Real Estate Debt Challenges and Goldman Sachs Frozen Assets',
+    category: 'Forex',
+    subCategory: ['JPMorgan', 'Real Estate', 'Goldman'],
+    description: <div className="blog-desc">
+      <p>Big banks, including JPMorgan, are grappling with a potential crisis in the commercial real estate sector. Efforts to offload commercial real estate loans have been met with challenges, as interested buyers are scarce.</p>
+    </div>,
+    authorName: 'Mohit Manghnani',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 10:57 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691746895/ncx-blog-1046_zeyvpw.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p><strong>Commercial Real Estate Debt Crisis Looms: </strong>Big banks, including JPMorgan, are grappling with a potential crisis in the commercial real estate sector. Efforts to offload commercial real estate loans have been met with challenges, as interested buyers are scarce.</p>
+    	<p>JPMorgan, in particular, has been attempting to sell a $350 million loan backed by the HSBC Tower in Manhattan, even offering ultra-low interest financing to potential buyers.</p>	
+    	<p>The commercial real estate industry is under duress due to a combination of banking failures, tightening credit conditions, escalating interest rates, and plummeting property valuations.</p>	
+    	<p>With approximately $1.5 trillion in commercial real estate debt slated for refinancing in the next three years, the risk of foreclosure is surging. Late payments on such loans are accumulating, heightening the risk of a full-blown commercial real estate crisis. Business Insider and Bollyinside report.</p>
+      <p><strong>Russian Court Freezes Goldman Sachs Assets: </strong>In a move that could have ripple effects across the banking sector, a Russian court has frozen shares of companies worth around $36 million owned by Goldman Sachs Group Inc. (NYSE: GS)</p>
+      <p>This decision came after Otkritie Bank alleged that Goldman Sachs declined to honor a swap contract due to sanctions related to the conflict in Ukraine.</p>
+      <p>The Moscow Arbitration Court has frozen 37 million shares of retailer Detsky Mir PJSC owned by Goldman Sachs, along with smaller amounts of shares in major Russian companies. The value of the frozen assets significantly surpasses the 614.7 million rubles ($6.4 million) that Otkritie sought from Goldman Sachs. BNN Bloomberg reports.</p>
+    </div>
+  },
+  {
+    id: 614,
+    title: 'Yen Dips to Weakest Since 2008 Against Euro, Eyes 145 Per Dollar',
+    category: 'Forex',
+    subCategory: ['Yen', 'Euro', 'Dollar'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The yen fell to the weakest against the euro since 2008 on Thursday, extending losses after tame US inflation data and putting traders on guard for jawboning from Japanese officials.</p>
+    </div>,
+    authorName: 'Aline Oyamada and Carter Johnson',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 7:06 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691746572/ncx-blog-1045_xauxc5.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>(Bloomberg) -- The yen fell to the weakest against the euro since 2008 on Thursday, extending losses after tame US inflation data and putting traders on guard for jawboning from Japanese officials.</p>
+    	<p>The currency set fresh session lows against the euro, falling as much as 0.9% to 159.21, after US consumer pricing data strengthened bets that the Federal Reserve will hold rates steady at its September meeting. The yen initially gained against the greenback following the release, only to reverse course and slip about 0.5% to around 144.40. The closely watched level of 145 per dollar is in reach if losses extend. The last time it hit that mark was at the end of June.</p>	
+    	<p>Japanese authorities stepped in to support the yen last year for the first time since 1998 after the currency tumbled toward 146 per dollar. That sent the currency on a rally to below 130 at the start of the year, before it resumed weakening. Japan is the only nation that maintains a negative benchmark interest rate in the world.</p>	
+    	<p>“The fact that it’s breaking out now is a function of a reduction in bond volatility and event-risk out of the way until Jackson Hole, so there is a carry element to it,” said Brad Bechtel, a foreign-exchange strategist at Jefferies, refering to a gathering of monetary-policy officials later this month. He expects the yen to fall to 160 against the euro, “and then we’ll have to see.”</p>
+      <p>To be sure, a break beyond 160 for the euro against the yen could be tough to sustain. The looming prospect of intervention from Japanese policymakers will likely limit greater yen weakness, according to Kit Juckes at Societe Generale and Jay Zhao-Murray at Monex Canada.</p>
+      <p>A recent policy adjustment by the Bank of Japan, which allowed benchmark 10-year rates to move up toward 1%, has provided little support to the currency.</p>
+      <p>--With assistance from Naomi Tajitsu, Anya Andrianova and Mark Tannenbaum.</p>
+    </div>
+  },
+  {
+    id: 613,
+    title: 'USD/JPY Forecast – US Dollar Continues to Find Buyers on Dips',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>In Thursday’s trading session, the US dollar exhibited its strength by surpassing the ¥142.50 mark, inching closer to ¥143.50 against the Japanese yen. Despite this robust uptrend, traders are advised to proceed with caution as the currency pair is currently positioned at the upper boundary of a short-term consolidation phase.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 6:28 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691746203/ncx-blog-1044_wjbzmy.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>In Thursday’s trading session, the US dollar exhibited its strength by surpassing the ¥142.50 mark, inching closer to ¥143.50 against the Japanese yen. Despite this robust uptrend, traders are advised to proceed with caution as the currency pair is currently positioned at the upper boundary of a short-term consolidation phase.</p>
+    	<p>This juncture could potentially lead to a slight retracement, but prevailing market sentiment suggests that any such dip might offer an appealing buying opportunity due to the favorable swap associated with this pairing.</p>	
+    	<p>If a temporary pullback occurs, market observers foresee significant support around the ¥141.75 level, bolstered by the ascending 50-Day Exponential Moving Average. This specific level garners substantial attention from both traders and investors, underscoring its importance. Equally noteworthy is the shift of the ¥138 level, previously a robust resistance, into a crucial support threshold. Given these factors, the likelihood of a substantial market decline seems limited, making it a less conducive environment for implementing selling strategies.</p>	
+    	<p>Another critical aspect requiring careful analysis is the alignment of the 200-Day Exponential Moving Average at the ¥138 level. This technical indicator holds significance within the market and possesses the potential to influence price dynamics.</p>
+      <p>Looking ahead, the ¥145 level assumes significance as a pivotal resistance, historically impeding upward momentum. A successful breach of this barrier could signify an imminent breakout, potentially unlocking substantial upside potential. If this scenario unfolds, traders might set their sights on the ¥150 mark as a long-term objective, potentially marking a notable milestone in the trajectory of this currency pair.</p>
+      <p>The intricate interaction of the USD/JPY pair is intrinsically linked to the decisions made by the Bank of Japan (BoJ). The persistent implementation of robust quantitative easing measures by the BoJ continues to exert considerable influence over the valuation of the Japanese yen, shaping the discernible trend observed on the price chart.</p>
+      <p>As the USD/JPY pair showcased its resilience against the backdrop of the Japanese yen in a recent trading session, it now finds itself at the upper bounds of a brief consolidation phase. Despite the potential for a minor retracement, the broader outlook remains optimistic, supported by immediate support levels and the attractive positive swap dynamics.</p>
+      <p>Traders are advised to vigilantly monitor critical levels, including the formidable ¥145 resistance threshold, which has the potential to act as a catalyst for significant upward movement. Furthermore, keeping a watchful eye on the policy decisions of the Bank of Japan is essential for effectively navigating the complexities of this particular currency pair.</p>
+    </div>
+  },
+  {
+    id: 612,
+    title: 'GBP/USD Forecast – British Pound Continues Its Overall Consolidation',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially shot higher after the CPI readings in the United States, and of course the unemployment claims. That being said, the market doesn’t look like it’s got enough momentum to continue going higher, with the 50-Day EMA offering a little bit of a magnet for price.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 6:21 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691745913/ncx-blog-1043_pdqega.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound initially shot higher after the CPI readings in the United States, and of course the unemployment claims. That being said, the market doesn’t look like it’s got enough momentum to continue going higher, with the 50-Day EMA offering a little bit of a magnet for price.</p>
+	    <p>At this point, it looks like we are just consolidating right above the 1.2650 level, which is an area that has been important a couple of times. Ultimately, if we break down below there then we have to deal with the uptrend line and the 200-Day EMA that both offer support. If we were to break down below the 200-Day EMA, then the market could go much lower. At that point, then the trend would change. Until then, this is more or less going to either be a sideways or a “buy on the dips” market.</p>	
+    	<p>A break above the 1.28 level opens up the possibility of a move to the 1.30 level, but I think at this point in time it probably takes quite a bit of effort to actually make that happen. The 1.30 level of course is a large, round, psychologically significant figure, in an area where we’ve seen some noise in the past. Breaking up over there then opens up the possibility of a move to the 1.3150 level, which was the most recent high.</p>	
+    	<p>Keep in mind that the Bank of England continues to keep its monetary policy very tight, while the Federal Reserve does the same. In that environment, the market doesn’t really see a huge differential between the 2 currencies, so expect a lot of choppy and sideways action in general. However, we are in an uptrend overall, so therefore you have to favor the upside, albeit somewhat slightly at this point.</p>
+      <p>Quite frankly, I like both of these currencies at the moment, so I don’t necessarily like playing them against each other but it does offer a bit of a secondary indicator as to which currency you might want to own against others. In other words, the winner here should continue to be a winner elsewhere.</p>
+    </div>
+  },
+  {
+    id: 611,
+    title: 'EUR/USD Forecast – Euro Continues to Bounce From Potential Lows',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The euro rallied a bit during the trading session on Thursday as we have bounced from the 50-Day EMA. The 50-Day EMA continues to be a major indicator that a lot of people will pay attention to for directionality.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 4:59 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691745502/ncx-blog-1042_yufugv.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Euro vs US Dollar Technical Analysis</h3>
+	    <p>The euro rallied a bit during the trading session on Thursday as we have bounced from the 50-Day EMA. The 50-Day EMA continues to be a major indicator that a lot of people will pay attention to for directionality. Underneath, the 1.09 level offers support, and then after that we have the 200-Day EMA, which is sitting right at the uptrend line. The uptrend line of course is something that everybody will be paying attention to as it is so obvious.</p>
+	    <p>That being said, if we can break above the 1.1050 level, then it’s very likely that the euro will continue to go higher, perhaps reaching toward the 1.1250 level, an area that has been important multiple times, and of course is where we fell from last time. If we can break above there, then it’s likely that we go much higher. All things being equal, we are still very much in an uptrend, and therefore I don’t really know that anything has changed. This is a market that I think continues to see a lot of noisy behavior.</p>	
+	    <p>If we were to break down below the uptrend line underneath, then I think the market will eventually perhaps try to move down to the 1.06 level. Breaking the trendline would also be a major breach of support and could signify that the US dollar was about to strengthen quite drastically against not only the euro, but most other assets as well.</p>	
+	    <p>Either way, expect a lot of volatility but as things stand right now, we are still very much in an uptrend, so you have to assume that there will continue to be buyers in this market, at least in the short term. However, there are a couple of levels, as previously mentioned, that should be paid close attention to, because they could give us a bit of a “heads up” as to where we are going if things have changed.</p>
+      <p>Expect noisy trading, but at the end of the day, you also should expect plenty of buyers and support just below, although inflation numbers in the United States should be watched closely to determine whether or not that continues to be the case.</p>
+    </div>
+  },
+  {
+    id: 610,
+    title: 'Indian rupee strengthens on dollar weakness, likely RBI intervention',
+    category: 'Forex',
+    subCategory: ['Indian', 'RBI', 'dollar'],
+    description: <div className="blog-desc">
+      <p>MUMBAI (Reuters) - The Indian rupee strengthened against the U.S. dollar in the final minutes of trade on Thursday as the dollar weakened, and traders cited likely dollar sales by the Reserve Bank of India.</p>
+    </div>,
+    authorName: 'Jaspreet Kalra',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 6:49 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691744906/ncx-blog-1041_w30bkm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Jaspreet Kalra</p>
+    	<p>MUMBAI (Reuters) - The Indian rupee strengthened against the U.S. dollar in the final minutes of trade on Thursday as the dollar weakened, and traders cited likely dollar sales by the Reserve Bank of India.</p>	
+    	<p>The rupee closed at 82.7125, gaining 0.12% from the previous session.</p>
+      <p>The RBI was possibly selling dollars in the final minutes of trade, two traders at state-run banks said. Foreign banks were also selling dollars following a correction in the dollar index, one of the traders said.</p>
+      <p>In its monetary policy decision on Thursday, the Indian central bank kept rates unchanged but moved to reduce the amount of cash in banking system as inflation concerns resurfaced due to a spike in food prices.</p>
+      <p>Attention now shifts to U.S consumer inflation data, due at 6:00 p.m. IST (1230 GMT), which is expected to show that core prices rose by 0.2% in July for a yearly gain of 4.8%.</p>
+      <p>A softer-than-expected inflation reading could signal that the U.S. economy is cooling, while an inflation number above expectations could raise the possibility of another rate hike from the U.S. Federal Reserve.</p>
+      <p>"Unless we get a completely out of the blue number, the rupee should not react much," said Abhilash Koikkrra, head of forex & commodities at Nuvama Professional Clients Group said.</p>
+      <p>While the rupee has not depreciated below the 83 mark, that level might not hold for long, a forex trader at a state-run bank said.</p>	
+    	<p>The expectation is that it will move to 83.20-25 levels over the next few weeks but not much beyond that, the trader said.</p>
+      <p>(Reporting by Jaspreet Kalra; Editing by Varun H K)</p>
+    </div>
+  },
+  {
     id: 609,
     title: 'USD/JPY Weekly Price Forecast – US Dollar Continues to See Noisy Behavior',
     category: 'Forex',

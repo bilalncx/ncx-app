@@ -1,5 +1,267 @@
 const data = [
   {
+    id: 592,
+    title: 'Dow Jones Closes Near Session Low; Cathie Wood Loads Up On This Stock Despite 23% Plunge',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Cathie wood', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average closed near session lows after ceding ground early as Walt Disney (DIS) jumped following its report. Famed fund manager Cathie Wood loaded up on Roblox (RBLX) despite a huge plunge for the stock. China stock Alibaba (BABA) vaulted after earnings.</p>
+    </div>,
+    authorName: 'MICHAEL LARKIN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 12:32 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691750612/ncx-blog-1050_uioaqw.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average closed near session lows after ceding ground early as Walt Disney (DIS) jumped following its report. Famed fund manager Cathie Wood loaded up on Roblox (RBLX) despite a huge plunge for the stock. China stock Alibaba (BABA) vaulted after earnings.</p>
+    	<p>Meanwhile, a couple of stocks attempted breakouts amid the buoyant early action. But Expro Group (XPRO) and Progress Software (PRGS) had mixed luck after moving above entries.</p>	
+    	<p>Stocks initially jumped after data showed consumer prices in July rose 3.2% vs. July 2022, cooler than economists consensus view for a 3.3% lift. The rise of 0.2% from June was in line with expectations. Core prices, which exclude food and energy, were up 4.8% year over year and 0.2% from June. This met expectations. Investors are hoping falling inflation will cause the Federal Reserve to be less aggressive on interest rates.</p>	
+    	<p>"Stocks pared gains after summer doldrums settled in and the buying dried up," Oanda senior market analyst Edward Moya told IBD. "The S&P 500 is at some key technical levels and it seems buyers are not willing to try to push it higher."</p>
+      <p>Treasury yields rose. The 10-year yield jumped 10 basis point to 4.11% while the two-year yield rose 5 basis point to 4.85%. The yield curve remains inverted.</p>
+      <h3>Nasdaq Gains Vanish As Small Caps Slide</h3>
+      <p>The tech-heavy Nasdaq saw almost all of its early gains disappear as it closed 0.1% higher. MercadoLibre (MELI) was a top performer here, rising 5.7% and clearing a cup base buy point of 1,365.64.</p>
+      <p>The benchmark S&P 500 fared even worse, closing virtually flat. Tapestry (TPR) stood out here for the wrong reasons, plunging 15.9% on the news it plans to buy rival Capri Holdings (CPRI) for $8.5 billion.</p>
+      <p>The S&P 500 sectors ended the session mixed. Communication services and consumer discretionary fared best in the stock market today. Utilities and real estate lagged the most.</p>
+      <p>The bears nibbled at small caps, with the Russell 2000 falling 0.4%. Growth stocks were also mauled, with the Innovator IBD 50 ETF (FFTY) closing the day down 0.8%.</p>
+      <h3>Dow Jones Today: Disney Stock Pops After Earnings</h3>
+      <p>The Dow Jones flirted with negative territory. It ended the session with a meager gain of 53 points, a 0.2% gain.</p>
+      <p>Disney was the top performer on the Dow Jones today, popping despite posting mixed results late Wednesday. While it is struggling with slowing streaming growth and high content costs, Wall Street cheered its second set of major price increases in less than a year.</p>
+      <p>Among those hikes were more than 20% increases to the cost of the ad-free versions of Disney+ and Hulu. The cost of the ad-supported versions will not change. Disney Parks, Experiences and Products revenue jumped 13% over the year to $8.33 billion.</p>
+      <p>But while Disney stock gained 4.9%, its lift year to date of just over 3% badly lags the benchmark S&P 500's gain of nearly 17%. Disney gapped up through its 50-day moving average. But with the stock still below its 200-day line, this would be a very aggressive entry point.</p>
+      <p>Intel (INTC) and Salesforce (CRM) were the next best performers on the Dow Jones, with gains of 1.2% each. Goldman Sachs (GS) lagged as it skidded 0.7% and sank further below the 200-day line.</p>
+      <h3>Cathie Wood Loads Up On Roblox Stock After Plunge</h3>
+      <p>Fund manager Wood is never afraid to buy on the dip. Some would say the ARK Invest CEO outdid herself after loading up on Roblox stock Wednesday.</p>
+      <p>At its lows for that session, Roblox lost 23% on the previous day's closing price. It was hammered after missing analyst views for both earnings and revenue.</p>
+      <p>A silver lining for bulls is that daily active users rocketed 25% year over year.</p>
+      <p>She snapped up just under 664,000 shares for her ARK Innovation ETF (ARKK), almost 122,000 for the ARK Next Generation Internet ETF (ARKW) and just under 80,000 for the Ark Fintech Innovation ETF (ARKF).</p>
+      <p>And Cathie Wood is not the only fan of Roblox stock. Wedbush analyst Nick McKay upgraded the stock to outperform from neutral. He has set a price target of 37. In a research note he said the stock "may have the most compelling growth trajectory among the video game names in our coverage universe."</p>
+      <p>Roblox stock rallied 3.9% Thursday but remains firmly rooted below its 50-day and 200-day moving averages, MarketSmith analysis shows.</p>
+      <h3>Alibaba Earnings Boost China Stocks</h3>
+      <p>China e-commerce play Alibaba had a strong session after it posted solid results.</p>
+      <p>The firm managed to beat analysts expectations on the top and bottom lines. A 14% pop in revenue was its best year-over-year sales growth since 2021. Management also touted its efforts in artificial intelligence, telling analysts "the growth opportunity driven by AI services has just begun."</p>
+      <p>Alibaba stock finished the session up 4.6% and sits above both its major and its short-term moving averages.</p>
+      <p>Other China stocks also rose. Vipshop (VIPS) rose 0.4% while Baidu (BIDU) lifted 0.6%, Tencent (TCEHY) rose 0.6% while Warren Buffett-Backed BYD (BYDDF) rose 0.9%.</p>
+      <h3>Outside Dow Jones: These Stocks Test Buy Points</h3>
+      <p>Even with the current stock market uptrend under pressure, it is important to keep an eye on breakouts.</p>
+      <p>Oil well construction play Expro Group ended the day in a buy zone after clearing a cup-with-handle entry of 23.72.</p>
+      <p>Overall stellar performance has netted it an IBD Composite Rating of 97. It is currently in the top 6% of stocks in terms of price performance over the last 12 months.</p>
+      <p>Progress Software had less luck, reversing back under its buy zone after testing a cup-base entry of 61.79. The database software play boasts strong earnings and stock market performance but has been struggling to move decisively higher of late.</p>
+    </div>
+  },
+  {
+    id: 591,
+    title: 'FTSE 100 and European markets in the green as US inflation ticks up',
+    category: 'Indices',
+    subCategory: ['FTSE', 'European', 'US'],
+    description: <div className="blog-desc">
+      <p>The FTSE 100 and stocks across Europe built on gains from the day before on Thursday, in spite of evident pain in the UK housing market and fresh data showing inflation is creeping up in the US.</p>
+    </div>,
+    authorName: 'Lucy Harley-McKeown',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 10, 2023 - 6:26 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691749787/ncx-blog-1049_sggmje.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The FTSE 100 and stocks across Europe built on gains from the day before on Thursday, in spite of evident pain in the UK housing market and fresh data showing inflation is creeping up in the US.</p>
+    	<p>The US Consumer Price Inflation reading for July hit analysts expectations of 0.2%, and matched the previous month's reading. Year-on-year CPI for the US hit 3.2%, up from 3% the month before.</p>	
+    	<p>Markets will be looking to reads on inflation such as the CPI as a guide on how the Federal Reserve might adjust interest rates in future meetings.</p>	
+    	<p>The S&P 500 (^GSPC) was 0.5% higher by the close in London. Meanwhile, the Dow (^DJI) and the Nasdaq (^IXIC) gained 0.6% respectively.</p>
+      <p>Meanwhile, UK housing market data from RICS released Thursday morning showed more signs of a slowdown in property in the UK, as agreed sales fell to -44% in July, down from -36% the previous month.</p>
+      <p>The pressure of high interest rates has choked both buyer demand and mortgage applications meaning that price declines reached levels last seen in 2009.</p>
+      <p>The FTSE 100 (^FTSE) was up 0.4% by the end of the day, while the DAX (^GDAXI) in Germany had risen 1% and Paris's CAC (^FCHI) moved 1.6% higher.</p>
+      <h3>LIVE UPDATES</h3>
+      <p>Michael Hewson, chief market analyst at CMC Markets is noting that the FTSE 100 is underpoerforming today due to "over 10% of the index going ex-dividend, including the likes of AstraZeneca, Rio Tinto, Shell, NatWest, Barclays, BP, and HSBC, which has served to knock over 30 points off the index."</p>
+      <p>"The announcement by China to end its ban on overseas travel groups to other countries has also helped boost travel, leisure, and the luxury sector, especially the CAC 40, with LVMH, Hermes, and Kering, getting a lift along with Burberry in the UK," he added.</p>
+      <p>Some more commentary from Charlie Ripley, senior investment strategist for Allianz Investment Management:</p>
+      <p><strong>A building trend of disinflation will certainly be welcomed by the Fed as they prepare for a policy decision at the September meeting. Within the data, shelter costs continued to be a driving factor for inflation, while price declines were seen in the goods sector and in particular used vehicles. Overall, the case continues to build for the Fed to done with the hiking cycle as real yields are well into positive territory and progress on bringing down inflation is evident.</strong></p>
+      <p>Tamara Charm, partner at McKinsey & Company comments on US inflation figures:</p>
+      <p><strong>We’re seeing consumers are of two minds. Despite the fact that most Americans have more money now than they did pre-pandemic, consumers are still more cautious with their spend than last year. At the same time, according to The University of Michigan, consumer sentiment continues to recover.</strong></p>
+      <p><strong>Consumers are continuing to trade down, yet they are also splurging on those things that feel more important in the moment. This is true across income levels and demographics, with higher earners trading down from their usual spending habits as well. At the same time, consumers are excited to be out and about again and splurging in certain areas including travel and entertainment. Higher income Gen Z and millennials are especially excited to splurge.</strong></p>
+      <p>LaToya points out that Disney will be one to watch at the open in the US with shares up around 1.7% premarket.</p>
+      <p>It said it is raising prices for its streaming service by more than a quarter.</p>
+      <p>From October, the US entertainment firm will hike the monthly cost of Disney+ to $13.99 (£11) per month, a 27% increase.</p>
+      <p>It is also planning to roll out its ad-supported subscription tier internationally, starting at £4.99 in the UK, as chief executive Bob Iger looks to increase profitability.</p>
+      <p>Traditional TV continued to struggle during the period, with revenues down 7% and profits falling 23%.</p>
+      <p>Disney+ saw a 7.4% decline in subscribers to 146.1 million, yet The Walt Disney Company reported a 4% rise in revenues to $22.3bn compared to the same period in 2022.</p>
+      <p>Alongside gloom from RICS today, a shocking stat has come through from Hilltop Credit Partners:</p>
+      <p>-- UK rents rose at +3.8% in the 3 months to June and are currently +10.4% above year-ago levels and 29% above pre-pandemic levels.</p>
+      <p>Latest figures from Ireland shows the pace of consumer price inflation slowing. Prices rose by 5.8% between July 2022 and July 2023, down from an annual increase of 6.1% in the 12 months to June 2023.</p>
+      <p>Even with the decrease, this is the twenty second straight month where the annual increase in the CPI has been at least 5.0%.</p>
+      <p>Education (-6.3%) and Transport (-4.5%) were the only divisions to show a decrease when compared with July 2022.</p>
+      <h3>Top movers in the FTSE today are:</h3>
+      <p>Spirax-Sarco Engineering (SPX.L) ⬇️ 5.6%</p>
+      <p>Persimmon (PSN.L) ⬆️ 3.5%</p>
+      <p>Rio Tinto (RIO.L) ⬇️ 3.2%</p>
+      <p>Prudential (PRU.L) ⬆️ 2.6%</p>
+      <p>Intercontinental Hotels Group (IHG.L) ⬆️ 2.5%</p>
+      <p><strong>BREAKING: </strong>Wilco bosses say the chain has collapsed as rescue talks have failed, leaving 12,000 jobs on the line.</p>
+      <p>Mark Jackson said that Wilco "must concede that with regret, we've no choice but to take the difficult decision to enter into administration."</p>
+      <p>Bloomberg is reporting that low-cost retailer Wilko is teetering on the brink of insolvency, with proceedings to begin as soon as this morning.</p>
+      <p>The company has roughly 400 stores and employs 12,000 people.</p>
+      <p>After a review of fund managers, the FCA has found that some businesses "require improvement" on best practices.</p>
+      <p>Here's what the regulator said:</p>
+      <p><strong>Today’s findings show that many firms have now fully integrated considerations on assessment of value into their product development and fund governance processes. This greater focus has also driven changes in fees and charges, resulting in savings of costs to consumers amounting to millions of pounds.</strong></p>
+      <p><strong>However, there remain outliers, where action needs to be taken. This is particularly important with the Consumer Duty which came into force on 31 July, where firms are expected to deliver fair value for retail consumers.</strong></p>
+      <p>Following the RICS numbers housebuilder Persimmon (PSN.L) echoed the mood music.</p>
+      <p>It said it completed 4,249 homes in the first half of 2023, down from 6,652 in January-June 2022.</p>
+      <p>Meanwhile, pre-tax profits dropped to £151m, down from £439.7m a year ago, even though average prices rose to £256,445 from £245,597. Profit margins shrunk, as costs rose.</p>
+      <p>Despite the souring numbers, its stock was up 1.3% in early trade in London.</p>
+      <h3>Overnight in the US and Asia</h3>
+      <p>Despite a cheery mood in Europe on Wednesday, major stock indexes in the US closed in the red overnight.</p>
+      <p>The S&P 500 (^GSPC) was down 0.7%, the Dow (^DJI) pulled back 0.5% and the Nasdaq (^IXIC) was 1.2% lower.</p>
+      <p>Traders are practising some cation ahead of the US CPI reading, which analysts think could indicate more difficult times ahead for the economy.</p>
+      <p>"Today’s number is expected to show us that it is not possible for inflation numbers to continue to move in a straight line," said Naeem Aslam, chief investment officer at Zaye Capital Markets. "In fact, the number is likely to show us today that the journey for the inflation number from here onwards is going to be a lot more difficult than previously anticipated, and there are a number of important factors behind this, such as soaring oil prices."</p>
+      <p>Meanwhile it was a broadly positive day in Asia on Thursday, with the Nikkei (^N225) up 0.8% by close, Hong Kong's Hang Seng (^HSI) finishing almost flat and Shanghai's Composite index (000001.SS) rising 0.3% in the session.</p>
+      <p>Indexes have done well to recover from jitters about China's growth rate amid declines in factory activity and a year-on-year decline in consumer prices.</p>
+      <p>Good morning! It's another beautiful day in London. Markets look set to open in the green. Let's get to it.</p>
+    </div>
+  },
+  {
+    id: 590,
+    title: 'FTSE and Wall Street slip amid weak US and China trade',
+    category: 'Indices',
+    subCategory: ['FTSE', 'Wall Street', 'China'],
+    description: <div className="blog-desc">
+      <p>European stock markets were in negative territory on Tuesday as UK retail data showed that like-for-like sales slowed during July, rising 1.8% but well below the three-month average of 3.3%.</p>
+    </div>,
+    authorName: 'LaToya Harding',
+    authorurl: 'https://www.yahoo.com/author/latoya-harding/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 8, 2023 - 6:27 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691749464/ncx-blog-1048_zmjafu.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>European stock markets were in negative territory on Tuesday as UK retail data showed that like-for-like sales slowed during July, rising 1.8% but well below the three-month average of 3.3%.</p>
+    	<p>In London, the FTSE 100 (^FTSE) fell 0.5% by afternoon trade, also knocked by weaker-than-expected trade data from China, while the CAC (^FCHI) also lost 1% in Paris, and the Frankfurt DAX (^GDAXI) was 1.2% lower.</p>	
+    	<p>Across the pond, the S&P 500 (^GSPC) lost 1% and the tech-heavy Nasdaq (^IXIC) was 1.2% lower at the opening bell. The Dow Jones (^DJI) also slipped 1.2%.</p>	
+    	<p>The British Retail Consortium (BRC) revealed that food sales performed particularly well during the period, but at the expense of online sales of non-food items like clothes which showed a sharp slowdown.</p>
+      <p>"It is clear that consumers are spending their money much more carefully and spending only when necessary, as Bank of England rate hikes continue to bite on incomes," Michael Hewson of CMC Markets said.</p>
+      <p>"With some consumers approaching a cliff edge as their fixed rate terms come up for expiry, they may well be saving more in order to mitigate the impact of an impending sharp rise in mortgage costs."</p>
+      <p>A separate survey from Barclaycard showed that spending on entertainment saw a boost of 15.8% even as clothing sales declined. Bars, pubs, and clubs saw a pickup in spending as did the concerts and movies.</p>
+      <p>Hewson added: "Bars, pubs, and clubs saw a pickup in spending as did the entertainment sector as Taylor Swift did for July, what Beyoncé did for May.</p>
+      <p>"The release of a big slate of summer films may also have offered a boost with the latest Indiana Jones film, along with Mission Impossible Dead Reckoning, Barbie and Oppenheimer prompting people to venture out given the wetter weather during the month."</p>
+      <p>Meanwhile, exports in China during July suffered a bigger than expected decline of 14.5%. This was worst performance since February 2020, with global demand remaining weak.</p>
+      <p>Imports saw a decline of 12.4%, an even worse performance from June’s 6.8%, with all sectors of the economy showing weakness.</p>
+      <h3>Blog close and recap</h3>
+      <p>Well that's all we have time for today - thanks for following along. Be sure to join us again tomorrow bright and early.</p>
+      <p>Here's a quick summary of the main headlines from today:</p>
+      <p>China's trade slumps in July</p>
+      <p>Investors lose taste for Beyond Meat</p>
+      <p>Italy approves 40% windfall tax on banks</p>
+      <p>Abrdn falls to bottom of FTSE</p>
+      <p>US trade deficit shrinks by more than 4%</p>
+      <h3>Pound and oil update</h3>
+      <p>The pound (GBPUSD=X) is down against the US dollar by 0.6% to 1.2702. Against the euro, sterling (GBPEUR=X) is 0.1% lower to 1.1612.</p>
+      <p>In commodities, oil prices are on a downward trajectory.</p>
+      <p>US crude oil, or West Texas Intermediate (CL=F), has lost 1.1% to trade at $81.03 a barrel, while Brent crude (BZ=F) fell 1.2% to $84.40.</p>
+      <p>George Pavel, general manager at Capex.com, said:</p>
+      <p><strong>"Oil prices came under pressure after Chinese economic data demonstrated a faster-than-expected decline in exports and imports. This data comes on top of an already weaker-than-expected recovery in China. The data directed traders’ concerns to oil demand levels once again as China sees declining oil imports.</strong></p>
+      <p><strong>"Overall, crude has been accumulating gains for more than a month. Prices have been recovering due to the expectations of tighter supply as Saudi Arabia and Russia extended their production cuts to include September. Both countries remained open to increasing the size of their production cuts if necessary to support the market.</strong></p>
+      <p><strong>"Otherwise, rising tensions in the black sea could affect Russia’s ability to deliver part of its oil production to its remaining trade partners. Renewed issues on this supply route could add to the concerns around available volumes on the market and could contribute to support prices."</strong></p>
+      <h3>Tenants more likely to receive support from younger landlords</h3>
+      <p>Over half (57%) of landlords aged between 18 and 24 would provide support to tenants during the cost-of-living crisis if asked, it has been revealed.</p>
+      <p>However, only just over a fifth of all tenants (21%) believe their landlords would definitely support them if approached</p>
+      <p>Landlords who answered ‘yes’ to providing support if asked, decreased with each age group, down to 40% at 55+</p>
+      <p>More than half of all landlords (51%), and over two thirds of tenants (68%), believe communication is the most important factor in a landlord-tenant relationship.</p>
+      <h3>Wall Street falls after opening</h3>
+      <p>US stocks have opened lower after Moody’s cut credit ratings of several small- to mid-sized American banks.</p>
+      <p>The ratings agency downgraded 10 of the country’s biggest lenders, sparking concern about the financial health of the world’s largest economy.</p>
+      <p>The Dow Jones Industrial Average (^DJI)fell 0.4% while the S&P 500 (^GSPC) opened 0.5% lower. The tech-heavy Nasdaq (^IXIC) dropped 0.9%</p>
+      <h3>US trade deficit shrinks by more than 4%</h3>
+      <p>US trade deficit has shrunk by over 4%, it has been revealed.</p>
+      <p>America’s goods and services deficit was $65.5bn in June, down $2.8bn from the $68.3bn recorded in May.</p>
+      <p>Imports fell by 1% to $313bn, including a $2.3bn decrease in shipments of heavy-duty capital goods into the US.</p>
+      <p>Exports were 0.1% down at $247.5bn, partly due to a £500m drop in the value of crude oil shipments.</p>
+      <h3>NIESR key points:</h3>
+      <p>The National Institute of Economic and Social Research (NIESR) held a press conference today. Here are the key points from the meeting:</p>
+      <h3>Wider economy</h3>
+      <p>*Inflation has peaked in the advanced economies</p>
+      <p>*It expects a relatively quick return to target rates</p>
+      <p>*GDP growth expected to be weak this year and next</p>
+      <p>*...and likely to remain low relative to the recent past</p>
+      <h3>UK economy</h3>
+      <p>*Projection of the UK Bank Rate is below market curve at a 5.50% peak</p>
+      <p>*Forecasts GDP growth in this year and next of 0.4% and 0.3%, respectively</p>
+      <p>* Unemployment rate expected to by 4.1% in 2023, 4.7% in 2024, and peaking at 5.1% in 2025.</p>
+      <p>*It expects wage growth to remain above 6% in 2023 and 2024.</p>
+      <h3>Glencore sees profit fall and cuts shareholder returns</h3>
+      <p>Glencore (GLEN.L) slumped as much as 4% in London on Tuesday after it reported a sharp fall in first-half profit and cut returns to its shareholders.</p>
+      <p>The Switzerland-based mining firm blamed a decline in the price of coal, which has plunged 69% since September last year, as well as disappointing growth in China. It is now seeking to increase the supply of key materials, such as copper, cobalt, and nickel.</p>
+      <p>First-half core earnings came in at $9.4bn (£7.4bn), half the record number it posted last year when Russia's invasion of Ukraine sent energy prices soaring. It was also 15% below analyst consensus.</p>
+      <p>Glencore added that it would top up its dividend by $1bn and buy back a further $1.2bn of its own stock — also sharply lower than a year earlier, in part because the company is holding back $2bn in cash while it bids to buy Teck Resources’s (TECK-A.TO) coal business.</p>
+      <h3>Abrdn falls to bottom of FTSE</h3>
+      <p>Abrdn (ABDN.L) tumbled to the bottom of the FTSE 100 (^FTSE) after it reported a drop in its assets under management thanks to clients pulling money from its funds amid volatile markets. The stock is currently 10% lower on the day.</p>
+      <p>Assets dropped to £495.7bn from £500bn at the end of 2022, while net outflows came in at £5.2bn in the first half of the year, compared to an average £3.1bn forecast by analysts.</p>
+      <p>Analysts on average also expected AUMA of £500bn for the period, according to company-compiled estimates.</p>
+      <p>The asset manager raised its share buyback plan to £300m from £150m announced in June.</p>
+      <p>Adjusted operating profit for the first half rose 10% to £127m as the company reined in costs, however, it still missed analysts' estimate of a profit of £133m.</p>
+      <p><strong>Stephen Bird, chief executive, said: "The business has been reshaped to deliver greater resilience, while getting set to take advantage of fast moving sectoral and macroeconomic factors.</strong></p>
+      <p>"There is still work to do to complete our transformation."</p>
+      <h3>NS&I: Premium Bonds winning odds increase</h3>
+      <p>NS&I has said that there will be 5,785,904 prizes up for grabs from September — an increase of more than 269,000 when compared with August 2023.</p>
+      <p>This improves the odds of winning to 21,000 to one, from 22,000 to one previously — their best level since the April 2008 prize draw.</p>
+      <p>The estimated number of £1m prizes in September will remain the same, at two, but will be around 90 £100,000 prizes, up from an estimated 77 in August.</p>
+      <p>There will also be an estimated 181 £50,000 prizes, up from 154 in August.</p>
+      <p>While there will be more big money prizes on offer, the estimated number of £25 prizes will reduce, to 1,027,604 in September, down from 1,700,728 in August.</p>
+      <p>The prize fund rate will increase from from 4.00% to 4.65% from the September draw, marking its highest level since March 1999.</p>
+      <p>The change in odds will see an estimated extra £66m added to the prize fund next month, with a potential prize pot of more than £470m.</p>
+      <h3>JP Morgan's Chase UK chief executive exits</h3>
+      <p>The CEO of JP Morgan’s online-only retail bank, Chase UK, has resigned.</p>
+      <p>An internal memo said:</p>
+      <p><strong>We will continue on this journey together, but we will need to do so without Sanjiv Somani, who is leaving the firm and will pursue opportunities outside of JPMorgan Chase.</strong></p>
+      <p><strong>I want to thank Sanjiv for leading ICB in the UK, and for his considerable contribution to building and launching the business that we have today. I will immediately reassume the day-to-day leadership of our UK business to ensure seamless continuity in the execution of our plans.”</strong></p>
+      <h3>Property: How to give your home a summer MOT</h3>
+      <p>Regular maintenance is essential to keep your home running smoothly and help to avoid major repairs — and hefty bills — further down the line.</p>
+      <p>It can be a good idea to tackle these tasks now, before colder weather sets in.</p>
+      <p>It comes as Moneyfacts has reported that:</p>
+      <p>The average two-year fixed residential mortgage rate today is 6.84%, unchanged from Monday</p>
+      <p>The average five-year fixed residential mortgage rate today is 6.35%, also unchanged from Monday.</p>
+      <p>Three more residential mortgage products have come onto the market today, lifting the total available to 5,106.</p>
+      <h3>Italian banks slide</h3>
+      <p>Victoria Scholar, head of investment at Interactive Investor, says:</p>
+      <p><strong>Italian banks such as Intesa Sanpaolo, BPER Banca and Unicredit are falling particularly sharply after the government approved a 40% windfall tax on banks for 2023.</strong></p>
+      <p><strong>Banks have enjoyed a major tailwind from rising interest rates with the government looking to redistribute those earnings towards those who are struggling with expensive mortgage payments.</strong></p>
+      <p><strong>The Euro Stoxx banks index is on track for its worst session since March.</strong></p>
+      <h3>Italy approves 40% windfall tax on banks</h3>
+      <p>Italy has hit banks with a one-off 40% windfall tax for 2023 as it plans to use proceeds to help mortgage holders.</p>
+      <p>The move, which has already been imposed in countries such as Spain and Hungary, has sent banking shares plunging.</p>
+      <p>Rome expects to collect less than €3bn (£2.58bn, $3.29bn) from the measure, sources close to the matter told Reuters. However, some analysts' estimates were higher.</p>
+      <h3>Investors lose taste for Beyond Meat</h3>
+      <p>Shares in Beyond Meat (BYND) have slumped as much as 14% in pre-market trading on Tuesday after it lowered its profit forecast for the year amid “softer demand in the plant-based meat category”.</p>
+      <p>The supplier of McDonald’s McPlant burger said net revenues slumped by nearly a third (30.5%) in the three months to the end of June, as shoppers turned to cheaper animal meat.</p>
+      <p>It added that it now expects annual revenue of between $360m (£282m) to $380m, down from earlier estimates of as much as $415m.</p>
+      <h3>China's trade slumps in July</h3>
+      <p>The latest China trade numbers for July continued to point to weak economic activity and subdued domestic demand.</p>
+      <p>The last two months of Q2 saw sharp declines in exports, with a 12.4% fall in June, while July numbers suffered a bigger than expected decline of 14.5%. This was the worst performance since February 2020, with global demand remaining weak.</p>
+      <p>Imports during July saw a decline of 12.4%, an even worse performance from June’s 6.8%, with all sectors of the economy showing weakness.</p>
+      <p>Michael Hewson of CMC Markets said:</p>
+      <p><strong>With numbers this poor it surely can’t be too long before Chinese policymakers take further steps to support their economy with further easing measures, however, there appears to be some reluctance to do so at any scale for the moment, due to concerns over capital outflows.</strong></p>
+      <h3>Wall Street and Asia</h3>
+      <p>Asian shares closed mostly lower last night as investors digested weaker Chinese trade data ahead of key inflation readings from China and the United States due later this week.</p>
+      <p>The Hang Seng (^HSI) slumped 1.9% in Hong Kong and the Shanghai Composite (000001.SS) dropped 0.3% on the day. In Japan, the Nikkei (^N225) managed to outperform, climbing 0.4% during the session.</p>
+      <p>Meanwhile, US stocks ended with mild gains after their worst weekly decline since March last week.</p>
+      <p>The S&P 500 (^GSPC) gained 0.9%, recovering more than a third of losses last week, and the tech-heavy Nasdaq (^IXIC) was 0.6% lower at the close. The Dow Jones (^DJI) rose 1.2%.</p>
+      <p>The US dollar also pushed higher and the benchmark yield on 10-year Treasuries advanced eight basis points to 4.11%.</p>
+      <p>This followed comments from a Federal Reserve official signalling that interest rates could remain higher for longer to tame inflation pressures.</p>
+      <h3>Coming up...</h3>
+      <p>Morning! We are back with our live coverage of what's going on in the markets and in the wider economy.</p>
+      <p>Here's what's on the agenda for today...</p>
+      <p>00:01 BRC Sales Monitor</p>
+      <p>7am: Trading announcements: TI Fluid Systems, Glencore, InterContinental Hotels, Abrdn</p>
+      <p>7:00am Consumer Price Index (GER)</p>
+      <p>7:45am: French trade data for June</p>
+      <p>11am: US NFIB Small Business Optimism Index</p>
+      <p>1:30pm: US balance of trade for June</p>
+      <p>1:30pm: Canada’s balance of trade for June</p>
+      <p>3:00pm US Wholesales Inventories</p>
+    </div>
+  },
+  {
     id: 589,
     title: 'Dow Jones Futures: What To Do After Market Skids; 5 Stocks Near Buy Points',
     category: 'Indices',

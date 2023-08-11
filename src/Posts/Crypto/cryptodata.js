@@ -1,5 +1,249 @@
 const data = [
   {
+    id: 645,
+    title: 'SHIB surges to new highs amid speculation around the launch of…',
+    category: 'Crypto',
+    subCategory: ['SHIB', 'Speculation', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Anticipation builds for the Shibarium launch as soaring prices mark a vibrant August while transaction dynamics reshape the landscape.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691743371/ncx-blog-1039_htuwha.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Anticipation builds for the Shibarium launch as soaring prices mark a vibrant August while transaction dynamics reshape the landscape.</p>
+    	<ul>
+        <li>SHIB has seen an over 40% increase in price since its decline in June.</li>
+        <li>The lead developer hints at the potential launch of the Shibarium beta.</li>
+      </ul>
+      <p>The launch of Shiba Inu’s Shibarium has been a topic of discussion for several months, but no actual launch has occurred. Nevertheless, a recent announcement by the main developer hinted at another upcoming launch.</p>	
+    	<p>As a result, the value of SHIB has experienced a more lucrative upward trend since the beginning of August.</p>
+      <h3>Shiba Inu surges</h3>	
+    	<p>A recent post by Kaiko highlighted Shiba Inu’s positive price trend over the past few weeks. The data indicated a 25% increase in its value since 1 July. Analyzing the SHIB daily chart revealed a noteworthy shift — despite a 12.9% drop on 10 June, the price rebounded by more than 40%.</p>
+      <p>August stood out as a particularly strong month, with an almost 15% surge in value noticed in one trading period. The surge marked the highest increase in nearly five months. SHIB demonstrated an additional 2% uptick in value as of this writing. The bullish momentum was evident, supported by the Relative Strength Index (RSI).</p>
+      <p>The price movement also attempted to surpass its long Moving Average (blue line), which acted as a resistance point. Conversely, the short Moving Average (yellow line) was the current support.</p>
+      <p>This recent bullish trend can be attributed to a post from the lead developer, Shytoshi Kusama, on 31 July. In this post, he indicated that the Shibarium launch was approaching, prompting the need to “mint the remaining supply of BONE and renounce the BONE contract.”</p>
+      <h3>The state of the Shiba Inu L2 testnet</h3>
+      <p>Examining the Shiba Inu Shibarium using Puppy Scan revealed a cessation in tracking transactions on the testnet. Before this halt, the L2 testnet registered an average of 250,000 daily transactions.</p>
+      <p>In light of these daily transaction volumes, the cumulative total reached over 35 million transactions per the latest available record. Additionally, the platform showcased more than 17 million wallets.</p>
+      <p>While the precise cause for the scanner’s discontinuation of transaction tracking on the testnet remains uncertain, one plausible explanation could be the upcoming launch of the beta version.</p>
+      <h3>SHIB adds more transaction volume as active addresses decline</h3>
+      <p>SHIB’s transaction volume experienced modest surges in August. Although these spikes may seem minor, they marked a threshold not attained in over a month. Specifically, on 5 and 7 August, the transaction volume surged past $160 million. Presently, the transaction volume hovered around $32 million.</p>
+      <p>On the contrary, the 30-day count of active addresses has not demonstrated the same robustness as other metrics. A decrease in active addresses has been evident since the beginning of the month. At the time of writing, the count of active addresses stood at 114,000.</p>
+    </div>
+  },
+  {
+    id: 644,
+    title: 'L1 vs L2: Will Ethereum emerge unscathed?',
+    category: 'Crypto',
+    subCategory: ['L1', 'L2', 'Ethereum'],
+    description: <div className="blog-desc">
+      <p>L2s are beginning to surge in dominance as L1 cryptocurrencies lag behind. The market cap and sentiment of most tokens remain unaffected.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691743088/ncx-blog-1038_dqfiqr.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>L2s are beginning to surge in dominance as L1 cryptocurrencies lag behind. The market cap and sentiment of most tokens remain unaffected.</p>
+      <ul>
+        <li>L2 solutions have challenged L1 dominance.</li>
+        <li>Surge in L2 dominance impacted NFT activity and fees generated.</li>
+      </ul>
+    	<p>The ever-evolving landscape of the cryptocurrency sector continues to captivate enthusiasts worldwide. One intriguing development is the burgeoning rivalry between Layer 1 (L1) networks and Layer 2 (L2) solutions.</p>	
+    	<h3>Unveiling L2’s ascent amidst L1 dominance</h3>
+      <p>In a sector notorious for its fierce competition, the recent surge in L2 solutions stirred speculation about its potential to disrupt the reigning L1 networks.</p>
+      <p>Despite the established dominance of L1 networks and cryptocurrencies, the spotlight shifted onto the rising prominence of L2s, casting a shadow over the market share of their predecessors.</p>
+      <p>Crypto analyst Jamie Coutts’ data indicated that L2 adoption was growing at a faster rate than expected. This growth could prove to be beneficial for the Ethereum [ETH] network. However, it could harm L1s cryptocurrencies in the short term.</p>
+      <h3>Taking a deeper look</h3>	
+      <p>Within an intricate web of cryptocurrency dynamics, the value beneath the surface is often masked by price fluctuations. The resurgence of growth in L1 networks owes credit to the burgeoning influence of L2 solutions, coupled with a more lenient monetary tightening environment.</p>
+      <p>Surprisingly, the sector managed to remain deflationary, even during the bear market, with a pre-Merge inflation rate of 4%. Remarkably, despite cooling market activity, Ethereum staking witnessed a noteworthy 38% upsurge over a mere three-month period.</p>
+      <p>Ethereum’s resolute ambition to amplify its scalability via L2 rollups became evident through on-chain insights. Amidst a decline in L1 activity over the past year, utilization of the network surged, propelling its financials into a phase of unprecedented prosperity.</p>
+      <p>The past year witnessed a migration of activity to L2 solutions, reshaping the Ethereum landscape remarkably. With a staggering increase of 245% in active addresses, L2 adoption introduced hundreds of thousands of new users to Web3.</p>
+      <h3>Fees and NFTs</h3>
+      <p>As L2 adoption gathered momentum, Ethereum’s economic landscape underwent a transformation in terms of fees as well. The surge in L2 fees, averaging $600,000 daily, has not only mitigated cannibalized L1 revenue but has also catalyzed the amplification of network effects.</p>
+      <p>L1 fees, underpinned by rollups, were projected to represent a substantial chunk of total fees, reaching 20% by the end of the year and a staggering 50% within the next three years, according to the data. However, this growth could be hindered by the progress of L2s.</p>
+      <p>The ascendancy of L2s brought consequential shifts in the realm of NFTs as well. The lower fee costs of L2 NFT marketplaces prompted an 80% reduction in total NFT activity on L1 networks, causing a decline in sales volumes for the same.</p>
+      <h3>Analyzing the tokenomics</h3>
+      <p>In terms of market cap, both L1 and L2 tokens witnessed similar levels of growth. However, Optimism [OP] stood out in this regard and witnessed the most month-on-month activity according to Santiment’s data.</p>
+      <p>On the social front, it was seen that the weighted sentiment for both protocols was improving. However, the only exception was Arbitrum, which was the only protocol that witnessed a decline in this area.</p>
+      <h3>L2’s impact on Ethereum</h3>
+      <p>Beyond the borders of the L2 domain, the Ethereum ecosystem stands to benefit from the burgeoning growth of L2 solutions, heralding a potential era of prosperity.</p>
+      <p>Due to the progress made by layer 2 solutions, the volume of activity that they could bring to the Ethereum network could be extremely large. Because of this, gas usage and revenue accrued by Ethereum will remain consistent.</p>
+      <p>At press time, ETH was trading at $1850. The number of addresses holding ETH has increased over the past week, signaling increased interest in cryptocurrency.</p>
+      <p>The MVRV ratio for Ethereum during this period declined, showcasing that most addresses holding ETH were not profitable at press time.</p>
+      <p>The falling MVRV ratio of ETH suggested that the likelihood of ETH being sold was relatively much lower due to lack of an incentive to sell.</p>
+    </div>
+  },
+  {
+    id: 643,
+    title: 'Cardano’s TVL surges thanks to stablecoin adoption but there’s a catch',
+    category: 'Crypto',
+    subCategory: ['Cardano', 'TVL', 'Stablecoin'],
+    description: <div className="blog-desc">
+      <p>Cardano’s TVL embarked on its rally after the launch of the DJED and iUSD stablecoins. Furthermore, ADA’s TVL has been steadily growing since then and it just reached a 12-month high. However, concerns may still loom around ADA’s future.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691742400/ncx-blog-1037_bgcbwe.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Cardano’s TVL embarked on its rally after the launch of the DJED and iUSD stablecoins. Furthermore, ADA’s TVL has been steadily growing since then and it just reached a 12-month high. However, concerns may still loom around ADA’s future.</p>
+    	<ul>
+        <li>Cardano’s native stablecoins made significant contributions to its TVL.</li>
+        <li>Cardano network activity slows down, influencing ADA demand.</li>
+      </ul>
+      <p>What are the factors that have been driving Cardano’s growth? Recent research revealed that the network’s TVL grew by 199% in the first half of 2023. It also suggested that stablecoins have been behind this growth.</p>	
+    	<p>It is not just any stablecoins that contributed to Cardano’s TVL growth. The latest data suggests that the TVL embarked on its rally after the launch of the DJED and iUSD stablecoins. Interestingly, ADA’s TVL has been steadily growing since then and it just reached a 12-month high.</p>	
+    	<p>The fact that the launch of those two stablecoins pegged to the U.S. dollar triggered TVL growth is not surprising. This is because incentives around the two stablecoins encouraged the use of ADA as collateral. For example, DJED is minted when ADA is added to the smart contract reserve pool while iUSD is minted when ADA is added to a CDP.</p>
+      <p>The incentive here is that ADA holders that bought the token at discounted prices could use their holdings to access the aforementioned stablecoins. They could then use those stablecoins for other purposes within the Cardano ecosystem.</p>
+      <p>Cardano TVL maintained its steady upside in the last few months. It recently peaked at 601.92 million coins. This represented roughly $179.59 million at present market value.</p>
+      <h3>Cardano’s metrics reveal this about its performance</h3>
+      <p>We explored Cardano’s on-chain metrics and here’s what we found. The blockchain network’s development activity has been on the rise for the last 30 days. Healthy development activity usually goes hand in hand with boosting investor sentiment. Interestingly, Cardano’s weighted sentiment has also been rising in the last four weeks.</p>
+      <p>The surge in weighted sentiment confirmed that many analysts anticipate a bullish outcome. However, ADA’s price action has been moving in the opposite direction judging by the selling pressure we observed since mid-July.</p>
+      <p>ADA exchanged hands at $0.29 at press time. It struggled to push back above the 5-day moving average due to low momentum. ADA’s price remains relatively subdued and with barely any interesting findings on its price chart. This reflected the low volume that prevailed in the last three weeks or so.</p>
+      <p>The low volume also aligned with the declining network activity. The number of daily active addresses has been waning in the last 30 days. In other words, the lack of excitement in the market underscores the low demand for ADA.</p>
+    </div>
+  },
+  {
+    id: 642,
+    title: 'Aptos stalls at range-high: Can sellers gain more ground? ',
+    category: 'Crypto',
+    subCategory: ['Aptos', 'Stalls', 'Gain'],
+    description: <div className="blog-desc">
+      <p>APT was holding steady at the mid-range but could present a shorting opportunity if BTC drops below the $29.5k range-low.</p>
+    </div>,
+    authorName: 'Benjamin Njiri',
+    authorurl: 'https://ambcrypto.com/author/benjamin-njiri/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691742049/ncx-blog-1036_ztcxtd.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>APT was holding steady at the mid-range but could present a shorting opportunity if BTC drops below the $29.5k range-low.</p>
+      <ul>
+        <li>APT has been range-bound since 18 July.</li>
+        <li>Aptos partnered with Microsoft, setting APT to rally 10%.</li>
+      </ul>
+    	<p>Aptos Labs has reportedly partnered with Microsoft to facilitate, integrate, and scale Web3 solutions. The native token, Aptos [APT], reacted positively to the news and rallied over 10% on 9 August.</p>	
+    	<p>However, Bitcoin [BTC] recorded a sharp retracement ahead of July’s CPI data, denting APT’s recent gains. At the time of writing, BTC bears and bulls tussled for the $29.5k range-low, and any more losses could embolden APT sellers.</p>	
+    	<h3>APT bulls and bears tussle for mid-range</h3>
+      <p>APT’s Relative Strength Index climbed above the 50 mark, reinforcing a surge in demand and buying pressure on 9 August. Similarly, the Chaikin Money Flow also crossed above the zero mark – a positive reading illustrating improved capital inflows into APT’s market.</p>
+      <p>However, price action forayed into the resistance area after Wednesday’s pump. APT has been range-bound since July 18, oscillating between $6.67 – $7.97. The pump faced rejection at the range-high ($7.97).</p>
+      <p>Above the range-high lies a weekly bearish order block (OB) of $8.2 – $9.4 (red). In most cases, bearish OBs lead to negative price reactions.</p>
+      <p>In this case, the weekly OB is on a higher timeframe and aligns with the previous range-high in May 2023. That makes the $7.97 – $9.5 a crucial bearish zone. Another likely price rejection in the area could set APT to head lower, presenting two possible short set-ups.</p>
+      <p>The first set-up is shorting upon a retest of the range-high ($7.97), with take-profit at mid-range ($7.3). Secondly, shorting at the mid-range ($7.3), with take-profit at the range-low ($6.67) – a likely +8% profit. Stop losses will be placed at $8.4 and $7.6, respectively.</p>
+      <p>A daily candlestick session close above weekly bearish OBs will invalidate the bearish thesis.</p>
+      <h3>Open Interest rates surge</h3>
+      <p>The Futures market data suggested the short ideas above could be far-fetched at the time of writing. Notably, Open Interest rates surged from $75 million on 9 August to over $150 million – more than double demand.</p>
+      <p>Additionally, the Cumulative Delta Volume (CVD), which tracks sellers vs buyers control, showed a massive positive slop after a little dump. It illustrates that bulls were in control and renders the above short ideas risky.</p>
+      <p>However, BTC’s price action will dictate APT’s price direction. A drop below or rally above the $29.5k range-low will confirm or invalidate the short ideas.</p>
+    </div>
+  },
+  {
+    id: 641,
+    title: 'Slowing US inflation data inspires hope for a crypto price rally',
+    category: 'Crypto',
+    subCategory: ['US', 'Inflation', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin dipped on Friday morning in Asia, falling below the US$29,500 threshold. Ether also edged down as other top 10 non-stablecoin cryptocurrencies traded mixed.</p>
+    </div>,
+    authorName: 'Danny Park',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 11, 2023 - 5:15 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691741523/ncx-blog-1035_t5qac6.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin dipped on Friday morning in Asia, falling below the US$29,500 threshold. Ether also edged down as other top 10 non-stablecoin cryptocurrencies traded mixed. Market experts expect Bitcoin and Ether to remain steady in the short term ahead of a potential rally backed by easing macroeconomic conditions. The Forkast 500 NFT Index was up, while in the U.S., core inflation data came in lower than expected. That strengthened bets the Federal Reserve will pause interest rate hikes, while global equities were mixed.</p>
+      <h3>Cryptos steady</h3>
+    	<p>Bitcoin dropped 0.39% in the last 24 hours to US$29,439.41 as of 6:30 a.m. in Hong Kong but gained 0.95% for the week, according to CoinMarketCap data. The world’s largest cryptocurrency by market capitalization hovered around the US$29,500 line after reaching a high of US$29,688 overnight.</p>	
+    	<p>Ether also edged down 0.09% to US$1,851.14 but posted a 1.08% weekly increase.</p>	
+    	<p>“As we digest CPI numbers, the price of BTC and ETH has barely moved,” said Lucy Hu, senior trader at Hong Kong-headquartered digital asset management platform Metalpha. “We expect the major pairs BTC and ETH may continue to trade in a tight range, and likely trend higher.”</p>
+      <p>The U.S. headline Consumer Price Index (CPI) released by the Labor Department on Thursday gained 0.2% in July, raising the inflation indicator to 3.2%. That is lower than the expected 3.3% reported by Reuters.</p>
+      <p>“The CPI headline is an important one, which signals that we’re most likely at the end of the hiking curve from the Fed,” said Michaël van de Poppe, the chief executive officer of Amsterdam-based crypto trading company MN Trading.</p>
+      <p>“Crypto native people are always eagerly looking at this event for forecasts and therefore, given that the outline is lower than expected, having a case where price starts to rally is a likely case,” said van de Poppe. He added that investors should now examine the U.S. Producer Price Index data released Friday as another key measure of wholesale inflation.</p>
+      <p>Analysts have also circled Aug. 13 — the next deadline for ARK Investment Management’s spot Bitcoin exchange traded fund (ETF) application in the U.S. — as another key date on the market calendar.</p>
+      <p>ARK initially made the application in April, and then filed an additional amendment in July.</p>
+      <p>ARK Invest CEO Cathie Wood told Bloomberg Monday that the U.S. Securities and Exchange Commission will likely approve multiple spot crypto ETF applications at once, if they do decide to give them the green light.</p>
+      <p>Other top 10 non-stablecoin cryptocurrencies traded mixed on Friday. Solana led the winners, adding 1.59% to US$24.70 for a bullish weekly gain of 9.56%. Tron also gained 1.15% to US$0.07717, adding 0.52% in the last seven days.</p>
+      <p>The total crypto market capitalization dipped 0.24% in the past 24 hours to US$1.17 trillion, while trading volume also declined 26.24% to US$26.47 billion.</p>
+      <h3>DeGods NFT collection surges 740% with new update</h3>
+      <p><strong>The indexes are proxy measures of the performance of the global NFT market. They are managed by CryptoSlam, a sister company of Forkast.News under the Forkast.Labs umbrella.</strong></p>
+      <p>The main Forkast 500 NFT index rose 0.57% in the past 24 hours to 2,501.74 as of 09:15 a.m. in Hong Kong. It recorded a 1.24% gain for the week. Meanwhile, Forkast’s Ethereum, Polygon and Cardano NFT indexes logged losses, while the index measuring Solana NFTs gained.</p>
+      <p>Total NFT trading volume gained 21.42% in the past 24 hours to over US$18.87 million, according to data from CryptoSlam.</p>
+      <p>Sales volume on Ethereum, the largest NFT network, jumped 53.44% to US$12.37 million. Polygon and Solana, which placed second and third on Cryptoslam’s NFT blockchain ranking, both logged losses.</p>
+      <p>In terms of NFT collections, trade volume of  Ethereum-based DeGods surged 740.14% to US$3.33 million. The digital art collection announced new updates by the name “Season III,” where one DeGod NFT holder receives four generative artworks and other perks.</p>
+      <p>However, Yehudah Petscher, NFT Strategist at Forkast Labs, said the DeGods update was very poorly received by the community.</p>
+      <p>“Instead of offering a free mint, or even affordable mint, the cost to upgrade your existing NFT to the new Season III art is 333 $DUST, which is around .4 ETH,” wrote Petscher.</p>
+      <p>As of Friday morning in Asia, 0.4 ETH amounts to US$739.35.</p>
+      <p>“When projects like the CyberKongz fail to sell out at .25 ETH and are told that’s too expensive in this market, it’s hard to imagine who would think .4 ETH would work right now,” Petscher added.</p>
+      <p>Also, Opepen and Checks NFT collection maker Jack Butcher’s digital art collection, Infinity, was hacked Thursday, Butcher’s collaborator Jalil.eth posted on Twitter.</p>
+      <p>The hack drained 38.56 ETH (US$71,273.15) from the wallet.</p>
+      <h3>US inflation not yet conquered</h3>
+      <p>U.S. stock futures traded mixed to flat as of 11:30 a.m. in Hong Kong, after the stock market closed lower on Wednesday.</p>
+      <p>Main stock indexes in Asia were also mixed on Friday — China’s Shanghai Composite, Hong Kong’s Hang Seng logged losses, while Japan’s Nikkei 225 and South Korea’s Kospi gained.</p>
+      <p>July’s U.S. consumer price index (CPI), released Thursday, rose to 3.2%, lower than the expected 3.3%. That strengthened bets the U.S. Federal Reserve will pause its current cycle of interest rate hikes.</p>
+      <p>San Francisco Fed president Mary Daly said Thursday in a Yahoo! finance interview that the latest CPI data does not mean the central bank has conquered inflation. She added that the Fed remains fully committed to reducing inflation to its 2% target.</p>
+      <p>The Fed meets on Sep. 19 to make its next move on interest rates, which are now between 5.25% to 5.50%, the highest level in the past 22 years. Analysts at the CME FedWatch Tool predict a 89.0% chance there will be no interest rate hike in September, up from 87.0% on Thursday.</p>
+      <p>Investors now await July’s Producer Price Index (PPI) — a key inflation indicator that monitors selling prices received by domestic producers of goods and services — which is set to be announced later on Friday.</p>
+      <p>Stocks in China and Hong Kong fell amid mounting Sino-U.S. tension. U.S. President Joe Biden called China a “ticking time bomb in many cases” on Thursday at a political fundraiser in Utah, pointing to its weak economic growth.</p>
+      <p>On Wednesday, Biden signed an executive order to regulate U.S. investment in Chinese entities engaged in three sectors: semiconductors and microelectronics, quantum information technologies, and artificial intelligence.</p>
+    </div>
+  },
+  {
+    id: 640,
+    title: 'Bitcoin, Ether rise near key levels, Sol leads gains across top 10 cryptos',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Ether', 'Sol'],
+    description: <div className="blog-desc">
+      <p>Bitcoin and Ether rose during Wednesday afternoon trading in Hong Kong, along with all other top 10 non-stablecoin cryptocurrencies by market capitalization. With over 69% of Bitcoin supply inactive for over a year, long-term investors remain bullish on the world’s first cryptocurrency, industry experts told Forkast.</p>
+    </div>,
+    authorName: 'Zoltan Vardai',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 9, 2023 - 1:50 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1691743881/ncx-blog-1040_ngypsx.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin and Ether rose during Wednesday afternoon trading in Hong Kong, along with all other top 10 non-stablecoin cryptocurrencies by market capitalization. With over 69% of Bitcoin supply inactive for over a year, long-term investors remain bullish on the world’s first cryptocurrency, industry experts told Forkast.</p>
+    	<h3>Bitcoin, Ether near significant support levels as Solana leads winners</h3>
+      <p>Bitcoin was little changed during afternoon trading in Asia, trading at US$29,779 as of 4:30 p.m. in Hong Kong after it fell below the US$30,000 support level on July 24.</p>
+      <p>“Recent data reveals that a staggering 69.2% of the total Bitcoin supply has remained untouched for over a year. This trend showcases a robust belief in Bitcoin’s long-term value, even amidst the notorious downturns that have characterized the cryptocurrency market over the past year,” according to a Bitfinex research report, shared with Forkast.</p>	
+    	<p>“With a significant chunk of Bitcoin’s supply remaining inactive, the available supply in the market diminishes. This inherent scarcity, juxtaposed with burgeoning demand, has the potential to drive prices upward. The unwavering faith in Bitcoin paints a bullish picture for the cryptocurrency’s future.”</p>	
+    	<p>Lifted by Bitcoin, Ether rose 0.26% during afternoon trading in Asia to US$1,860 from US$1,869 earlier today.</p>
+      <p>Solana’s SOL token was the day’s biggest winner in the top 10, gaining 5.83% in the past 24 hours to US$24.60, followed by Polygon’s Matic, up 3.64% to US$0.6931.</p>
+      <p>Total crypto market capitalization over the past 24 hours rose 1.86% to US$1.18 trillion while market volume increased 24.90% to US$40.37 billion, according to CoinMarketCap data.</p>
+      <h3>DraftKings is day’s largest NFT collection by sales volume</h3>
+      <p>The Forkast 500 NFT index fell 0.36% to 2,473.76 points in the 24 hours to 4:30 p.m. in Hong Kong but fell 1.22% during the week.</p>
+      <p>Bitcoin’s 24-hour non-fungible token sales declined for a third consecutive day, falling 23.81% to US$286,819 with the network slipping to the ninth largest blockchain by 24-hour NFT sales volume, according to CryptoSlam.</p>
+      <p>Polygon-native NFT collection DraftKings became the largest NFT collection by 24-hour sales volume across all chains, rising 23.84% to US$4.5 million, lifting Polygon to the second-largest network by 24-hour sales volume, as NFT sales on the network rose 500% to US$5.29 million. The sales increase lifted the Forkast Pol NFT Composite up 2.97% in the past 24 hours.</p>
+      <p>“We’re really beginning to see the type of NFTs that do well in this market, which is cheaper NFTs with high volume. DMarket, Gods Unchained, Sorare and DraftKings all represent a form of gaming, all are pretty affordable, and all have thousands of traders. This is what the future of NFTs will really look like,”  said Yehudah Petscher, NFT strategist for Forkast Labs.</p>
+      <p>Ethereum’s 24-hour NFT sales continued yesterday’s recovery, rising 34.58% to US$9.75 million, while sales for the largest Ethereum-native NFT collection, the Bored Ape Yacht Club, rose 1.06% to US$834,460. Its twin collection, the Mutant Ape Yacht Club, rose 20.19% to US$6541,420.</p>
+      <p>Among Forkast Labs NFT indexes, the Forkast SOL NFT Composite and the Forkast CAR NFT Composite were the only ones in the red for the day.</p>
+      <h3>Asian equities fall, U.S. stock futures rise, despite concerns around the banking sector</h3>
+      <p>Major Asian equities declined as of 4:30 p.m. in Hong Kong except for Hong Kong’s Hang Seng Index that rose for the first time this week. Japan’s Nikkei 225, the Shenzhen Component and the Shanghai Composite all posted declines.</p>
+      <p>Investor sentiment took a hit after Moody’s Investor Service lowered the credit rating of 10 small and midsize U.S. banks citing funding risks and weaker profitability. The ratings agency warned that it could downgrade another six major U.S. banks.</p>
+      <p>Despite concerns around the banking sector, U.S. stock futures recovered during Wednesday afternoon trading in Hong Kong, with the Dow Jones Industrial Average futures, the S&P 500 futures index and the tech-heavy Nasdaq-100 futures all posting gains.</p>
+      <p>Traders now look forward to the release of U.S. consumer price index data for July, scheduled for tomorrow, to gauge the Fed’s future monetary policy decisions. Bloomberg analysts expect the core CPI to rise 0.2% in July, which would be the smallest monthly increase in the past two and a half years.</p>
+      <p>On the corporate front, investors are now anticipating earnings from companies like Walt Disney Company, Sony, Honda, and Roblox Corporation.</p>
+      <p>Over in Europe, equities rose on Wednesday, with the DAX 40 gaining 1.17% and the pan-European Stoxx 600 index rising 0.92%, recovering from yesterday’s slump.</p>
+    </div>
+  },
+  {
     id: 639,
     title: 'Cardano: Why did users decline in Q2?',
     category: 'Crypto',
