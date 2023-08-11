@@ -1107,3 +1107,6 @@ a.cl__drp:hover{
     width: 18px !important;
     height: 18px !important;
 }
+details summary::-webkit-details-marker {
+    display:none !important;
+}
