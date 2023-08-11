@@ -1,5 +1,6 @@
 import  React from "react";
 import '../styles/home.css';
+import '../components/homepage/whatwedo/whatwe.css';
 import '../styles/media-query.css'
 import "animate.css/animate.min.css";
 import '../components/homepage/3rdmarketsection/market.css';

@@ -961,6 +961,7 @@ span.mbl-bltshow {
         width: 10.5%;
         min-height: 35px;
         border-radius: 3px;
+        background: rgba(31, 31, 31, 0.6);
     }
     .mbl-tokrowitems .color div {
         width: 13px;

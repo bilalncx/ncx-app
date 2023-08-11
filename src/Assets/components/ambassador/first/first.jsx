@@ -27,8 +27,8 @@ function FirstVideo()
                         <Icon />
                         <h1>NCX Ambassador</h1>
                         <div className="txt44">
-                            <p>NCX Ambassadors are global promotion partners of NCX - The Global Cryptocurrency Exchange</p>
-                            <p>Ambassadors earn a passive income of 40-60% commission on trading fees of their affiliates</p>
+                            <p>NCX Ambassadors are global promotion partners of NCX - The Global Cryptocurrency Exchange.</p>
+                            <p>Ambassadors earn a passive income of 40-60% commission on trading fees of their affiliates.</p>
                         </div>
                         {/* <ApplyNowModal /> */}
                         <Button href="mailto: support@ncx.cx">Apply Now</Button>
