@@ -21,8 +21,8 @@
 .inst__itute .OTCsect.row.second{padding-top: 25px;}
 .inst__itute .OTCsect.row .col {min-height: unset !important; flex: inherit; width: 32%; border: 1px solid rgba(255, 255, 255, 0.15); padding: 30px 20px 30px 20px;}
 .inst__itute .OTCsect.row .col:hover, .vx__vrd .vf.row .ml__huc:hover{ box-shadow: 0 0 15px rgba(255,255,255,.5);}
-.inst__itute .otctxt p{ min-height: unset !important; margin: 0px !important; font-size: 15px !important;}
-.inst__itute .otctxt h2{ margin-bottom: 20px !important; font-size: 20px !important;}
+.inst__itute .otctxt p{ min-height: unset !important; margin: 0px !important; font-size: 15px !important; color: #FFFFFF;}
+.inst__itute .otctxt h2{ margin-bottom: 20px !important; font-size: 20px !important; color: #FFFFFF;}
 .vx__vrd h2{ font-size: 32px; color: #FFFFFF; font-family: 'urbanist-regular'; text-align: center; line-height: 36px; margin-bottom: 50px;}
 .vx__vrd{padding: 100px 0px;}
 .vx__vrd .wallet__defi{padding: 0px !important;}

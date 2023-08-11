@@ -1100,6 +1100,8 @@ a.cl__drp:hover{
     .bg-dark .trading__platform .trg__ff__fe p{
         min-height: unset !important;
     }
+    .earingingcomplet-sect{padding: 50px 0px !important;}
+    p.task{margin-top: 20px !important;}
 }
 .uiop.tick svg{
     width: 18px !important;
