@@ -1,5 +1,96 @@
 const data = [
   {
+    id: 619,
+    title: 'Yen Slides Toward Intervention Zone on Wide Japan-US Yield Gap',
+    category: 'Forex',
+    subCategory: ['Japan', 'Yen', 'Intervention'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The yen touched its weakest in nine months as Japan’s interest-rate gap with the US pushes the currency toward levels that last year saw intervention by authorities in Tokyo.</p>
+    </div>,
+    authorName: 'Yumi Teso',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 11:03 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692005064/ncx-blog-1067_nlcrg1.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The yen touched its weakest in nine months as Japan’s interest-rate gap with the US pushes the currency toward levels that last year saw intervention by authorities in Tokyo.</p>
+    	<p>After depreciating for five straight days last week, the yen broke through 145.07 versus the dollar Monday to a zone previously seen in November last year. The dollar-yen pair was down 0.1% at 3:51 p.m. in Tokyo after advancing as high as 145.22 earlier.</p>	
+    	<p>Still, investors are wary of any further sharp moves as some Japanese traders return after a holiday Friday and others remain on summer vacations, thinning trading volume. The market is also on watch for potential comments from government officials in Tokyo in coming days.</p>	
+    	<p>A bout of pronounced weakness in the currency late in 2022 drew Japanese authorities into the market on three occasions, in what were their first such interventions to support the yen since 1998. The first of the forays came as it tumbled toward 146.</p>
+      <p>“Intervention concerns in the market will probably grow and officials will probably verbally intervene,” said Sumitomo Mitsui Banking Corp. chief strategist Daisuke Uno. “However, real intervention is unlikely anytime soon.”</p>
+      <p>Elevated Treasury yields are ramping up the pressure on the yen, with the rate on 10-year US debt approaching 4.2% while Japanese government bonds of the same maturity are around 0.6%.</p>
+      <p>While the BOJ adjusted its yield-curve control program on July 28 to make it more flexible — allowing 10-year rates room to move up toward 1% — this has failed to stem weakness in the currency. That’s partly because the central bank has also indicated it won’t tolerate a rapid move in yields, and bought JGBs to stem the climb.</p>
+      <p>Intervention is more likely if moves are more one-sided and volatility is excessive, rather than simply a breach of 145, said Christopher Wong, an FX strategist at Oversea-Chinese Banking Corp. in Singapore. Investors who are long in dollar-yen may be “cautious of jawboning, but with dollar strength in the background, the path of least resistance may be to the upside for now,” he added.</p>
+      <p>The yen has slumped about 9.5% against the dollar this year, making it the worst performer among key developed-market currencies.</p>
+      <p>Due to a lack of a major market driver and a quiet holiday season, the pair is unlikely to see a one-way move at the moment, according to Monex Inc. bond and currency trader Tsutomu Soma. “Should there be any market-moving headlines, however, moves may be exaggerated due to thin liquidity.”</p>
+      <p>--With assistance from Matthew Burgess and Marcus Wong.</p>
+    </div>
+  },
+  {
+    id: 618,
+    title: 'Embattled Peso Seeks Relief as Philippines to Weigh Rate Hike',
+    category: 'Forex',
+    subCategory: ['Peso', 'Philippines', 'Rate'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- A rebound in the dollar has hit the peso harder than most of its peers and the losses may get exacerbated if policymakers at the Philippine central bank hold interest rates this week.</p>
+    </div>,
+    authorName: 'Karl Lester M. Yap',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 7:34 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692004522/ncx-blog-1066_zpvw8q.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- A rebound in the dollar has hit the peso harder than most of its peers and the losses may get exacerbated if policymakers at the Philippine central bank hold interest rates this week.</p>
+    	<p>With a 3.6% slide in August, the currency has already gone from Asia’s second-best performer to one of the worst in the region. It will likely extend the losses from this year’s nadir if a pause by the Bangko Sentral ng Pilipinas on Thursday further widens the rate differential with the US.</p>	
+    	<p>“Should the central bank refrain from a rate hike, the peso will come under more pressure,” said Michael Ricafort, chief economist at Rizal Commercial Banking Corp., who is predicting an increase. “There’s a need to maintain the rate differentials with the US after the Federal Reserve’s move in July.”</p>	
+    	<p>The rate setters will need to balance the need to tame consumer prices and support the currency, which last week slid to the lowest since December, against stimulating the economy as growth weakens. BSP has raised interest rates by 425 basis points since May last year to 6.25%, pushing borrowing costs to one of the highest in the region.</p>
+      <p>All 18 economists in a Bloomberg survey expect the central bank to stand pat at its policy meeting on Thursday. A hike will help arrest the currency’s decline and kickstart a 4% rally by the end of 2023, according to MUFG Bank Ltd.</p>
+      <p>“The recent sharp drop in the peso may be overdone,” said Michael Wan, an analyst at MUFG in Singapore. “Outsourcing, tourism and remittances will offset the trade deficit, and prevent a deterioration in the current-account deficit.”</p>
+      <p>EM Pressure</p>
+      <p>The peso, which slid 1.2% to 56.99 per dollar on Monday, may rebound to 54 by the end of the year, according to MUFG, Australia & New Zealand Banking Group Ltd., and Pantheon Macroeconomics Ltd. The currency was emerging Asia’s top performer after the rupiah in the first seven months of this year.</p>
+      <p>A cautionary tone from the central bank on the pitfalls of “too much” tightening is keeping peso bulls away for now. After signaling in July there’s room to raise rates again, Governor Eli Remolona this month tempered the hawkish view to avoid crimping economic growth as inflation eases to a 16-month low.</p>
+      <p>“There is concern over whether BSP will continue hiking,” said Brendan McKenna, a strategist at Wells Fargo & Co. in New York. “On top of that, China’s growth deceleration is creating volatility across emerging markets.”</p>
+      <p>The peso is not alone. Emerging-market currencies are set for their worst monthly drop since February as the dollar rebounded following growing optimism the US may avoid a recession and more Fed hikes.</p>
+      <p>“We expect a lot of volatility,” said Robert Dan Roces, chief economist at Security Bank Corp. in Manila. “But any more peso weakness may trigger the central bank to deploy its foreign-exchange reserves and draw a hard line.”</p>
+      <p>Here are the key Asian economic data due this week:</p>
+      <ul>
+        <li>Monday, Aug 14: India CPI</li>
+        <li>Tuesday, Aug. 15: Japan GDP; Australia wage price index; China industrial production, retail sales, fixed assets, 1-year medium-term lending facility rate; Indonesia trade</li>
+        <li>Wednesday, Aug. 16: New Zealand rate decision</li>
+        <li>Thursday, Aug. 17: Australia employment; Philippine rate decision; Singapore non-oil domestic exports</li>
+        <li>Friday, Aug. 18: Japan national CPI; Malaysia GDP</li>
+      </ul>
+      <p>(Updates peso’s drop in August, adds the currency’s move on Monday)</p>
+    </div>
+  },
+  {
+    id: 617,
+    title: 'Hedge Funds Turned Long Aussie Dollar at Just the Wrong Time',
+    category: 'Forex',
+    subCategory: ['Aussie', 'Dollar', 'Hedge'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Hedge funds turned the most bullish on the Australian dollar than they’ve been at any point this year, just before concerns over a slowing Chinese economy dragged the currency to a nine-month low.</p>
+    </div>,
+    authorName: 'Matthew Burgess and Michael G. Wilson',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 6:58 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692004307/ncx-blog-1065_zbno7j.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Hedge funds turned the most bullish on the Australian dollar than they’ve been at any point this year, just before concerns over a slowing Chinese economy dragged the currency to a nine-month low.</p>
+    	<p>The Aussie fell as much as 0.6% to 64.57 US cents, the weakest since November as China’s worsening property slump raised concern of a further slowdown in the world’s second-largest economy. That may bode ill for leveraged funds whose positioning in the Aussie swung to a net-long of 17,432 contracts in the week ended Aug. 8 from a net short in the previous week, according to Commodity Futures Trading Commission data.</p>	
+    	<p>Disappointing growth in China, the world’s biggest commodities importer, and a widening rate differential with the US has dragged the Aussie to near the bottom of the Group-of-10 currency performance rankings this month. The Aussie is likely to remain under pressure with key Australian jobs and Chinese industrial output as well as retail sales data due this week, according to Commonwealth Bank of Australia.</p>	
+    	<p>“AUD/USD can be sensitive to any misses on the wages and labor force data now the Reserve Bank of Australia is at or close to the end of their tightening cycle,” Kristina Clifton and Carol Kong, strategists at CBA, wrote in a note. “Weak Chinese data this week can be another reminder of the soft outlook and weigh on AUD/USD.”</p>
+      <p>--With assistance from Garfield Reynolds.</p>
+    </div>
+  },
+  {
     id: 616,
     title: 'UK economy grows 0.2% in second quarter, avoiding recession',
     category: 'Forex',

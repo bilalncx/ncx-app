@@ -1,5 +1,155 @@
 const data = [
   {
+    id: 595,
+    title: 'Dow Jones Futures Rise As Rally Tries To Survive: Tesla, Steel Giant Move On News',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Futures', 'Tesla'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures rose slightly Monday morning, along with S&P 500 futures and Nasdaq futures. Tesla (TSLA) cut Model Y prices in China while U.S. Steel rejected a takeover bid.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 4:15 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692018061/ncx-blog-1083_onaxoo.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures rose slightly Monday morning, along with S&P 500 futures and Nasdaq futures. Tesla (TSLA) cut Model Y prices in China while U.S. Steel rejected a takeover bid.</p>
+    	<p>Workplace management software maker Monday.com (MNDY) crushed EPS views and also topped on revenue. MNDY stock jumped more than 5% before the open.</p>	
+    	<p>The stock market rally had a mixed week, but the action was generally negative, with resurgent Treasury yields and mixed earnings weighing on growth.</p>	
+    	<p>The Nasdaq fell through the 50-day and 10-week moving averages last week. Tesla stock and Nvidia (NVDA) are decisively below their 10-week lines. Nvidia stock's decline is especially important as it's the leader of the AI-led market rally.</p>
+      <p>The S&P 500 edged lower, but found support around its 10-week line Friday. The Dow Jones rose slightly for the week.</p>
+      <p>The market rally is in danger of falling into a correction. While techs arguably already are in a correction, industrials, infrastructure, housing and energy sectors are holding up or gaining ground. So are some retail, travel, medical, transportation and financial names.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.1% vs. fair value. S&P 500 futures advanced 0.1% and Nasdaq 100 futures climbed 0.1%.</p>
+      <p>The 10-year Treasury yield held at 4.17%.</p>
+      <p>Crude oil futures fell 1%. Copper prices edged lower.</p>
+      <p>Hong Kong's Hang Seng fell 1.6% as property sector woes continued.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stocks Near Buy Points</h3>
+      <p>Arista Networks (ANET), Tenaris (TS), Visa (V), SLB (SLB), Lennar (LEN), Martin Marietta (MLM), Delta Air Lines (DAL), Flowserve (FLS), Lululemon Athletica (LULU) and JPMorgan Chase (JPM) are all setting up or holding up.</p>
+      <p>Meanwhile, Cardinal Health (CAH), Cava Group (CAVA), Home Depot (HD), StoneCo (STNE) and On Holding (ONON) are trading around buy zones with earnings due this coming week.</p>
+      <p>Still, investors should be thinking defensively in the current market environment.</p>
+      <p>Tesla stock, Nvidia and Martin Marietta are on IBD Leaderboard. SLB stock is on SwingTrader. Tesla, SLB, Applied Materials and ANET stock are on the IBD Big Cap 20. Flowserve was Friday's IBD Stock Of The Day.</p>
+      <p>The video embedded in this article discussed the weekly market action in depth, while also analyzing Flowserve, JPM stock and Nvidia.</p>
+      <h3>Tesla Cuts Model Y China Prices</h3>
+      <p>The EV giant cut China prices of the Model Y Long Range and Performance variants by RMB14,000 ($1,930), adding to pressure on Tesla margins. The Model Y faces several new crossover rivals in China. The base Model Y, the most popular variant in China, was left unchanged.</p>
+      <p>Meanwhile, Tesla is offering an insurance subsidy of RMB 8,000 for Model 3 buyers. It may be trying to clear out inventory. An updated Tesla Model 3 reportedly is imminent in China.</p>
+      <h3>Tesla Stock</h3>
+      <p>TSLA stock fell more than 2% early Monday, signaling a two-month low.</p>
+      <p>Last week, Tesla stock declined 4.4% to 242.65. Shares fell below their 50-day line on Monday and then kept losing ground. TSLA stock is now 6.7% below its 10-week line. Finishing the week more than 2% below the 10-week is a significant sell signal. Recent buyers should likely get out.</p>
+      <p>Those with big cushions can consider taking partial profits depending on your investing strategy and conviction in the stock.</p>
+      <h3>U.S. Steel Rejects Takeover Bid, But...</h3>
+      <p>Cleveland-Cliffs (CLF) offered $17.50 a share plus 1.02 CLF shares for each U.S. Steel (X) share, worth $32.53 a share as of Friday's close. U.S. Steel rejected the deal, Cleveland-Cliffs said Sunday. Earlier Sunday, U.S. Steel said it was mulling strategic options after "receiving multiple unsolicited proposals." Options include the sale of key assets or even the entire company.</p>
+      <p>U.S. Steel stock soared more than 25% early Monday. CLF stock reversed slightly higher.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally had a mixed week that was damaging for the Nasdaq and growth names.</p>
+      <p>The Dow Jones Industrial Average rose 0.6% in last week's stock market trading. The S&P 500 index dipped 0.3%. The Nasdaq composite slumped 1.9%. The small-cap Russell 2000 gave up 1.65%.</p>
+      <p>Market breadth is weakening on the Nasdaq, but much less so on the NYSE.</p>
+      <p>The 10-year Treasury yield jumped 11 basis points to 4.17%, close to the 2023 high of 4.21% set Aug. 4. The yield rocketed from a Thursday morning low of 3.96%.</p>
+      <p>With Treasury yields rising and overseas economies ailing, the U.S. dollar is coming up to 2023 highs.</p>
+      <p>U.S. crude oil futures climbed 0.45% to $83.19 a barrel, the seventh straight weekly gain. But copper prices fell 3.4%, and it's off 5.2% in two weeks.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) tumbled 4.9% last week. The iShares Expanded Tech-Software Sector ETF (IGV) slid 1.7%. The VanEck Vectors Semiconductor ETF (SMH) plunged 5.2%. Nvidia stock is the No. 1 SMH holding.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) gave up 5.8% last week and ARK Genomics ETF (ARKG) sold off 6.15%. Tesla stock is the No. 1 holding across Ark Invest's ETFs.</p>
+      <p>The SPDR S&P Metals & Mining ETF (XME) slipped 1.4% last week. The Global X U.S. Infrastructure Development ETF (PAVE) edged up 0.2%, with MLM stock a holding.</p>
+      <p>U.S. Global Jets ETF (JETS) edged down 0.5%, with DAL stock a notable component. SPDR S&P Homebuilders ETF (XHB) dipped 0.7%, with LEN stock a member.</p>
+      <p>The Energy Select SPDR ETF (XLE) popped 3.5%. SLB is one of the top XLE components. and the Health Care Select Sector SPDR Fund (XLV) rose 2.45%, with CAH stock advancing. The Industrial Select Sector SPDR Fund (XLI) nudged 0.6% higher.</p>
+      <p>The Financial Select SPDR ETF (XLF) rose a fraction, with Dow Jones giants Visa and JPM stock both notable holding. The SPDR S&P Regional Banking ETF (KRE) slid 1.65%.</p>
+      <h3>Nvidia Stock</h3>
+      <p>Nvidia fell below its 50-day line on Wednesday, reversed lower on Thursday and extended losses Friday. Shares finished down 8.6% to 408.55, their worst weekly decline of the year, and in higher volume. NVDA stock is now 5.1% below its 10-week line. Recent investors likely should be out.</p>
+      <p>Longer-term investors could take profits or not. If you're going to hold a winner for its big run, you're going to have to sit through corrections. Nvidia is the leading stock of the AI-led rally, but are you willing to sit through the downturn?</p>
+      <p>Also note: Nvidia earnings are due on Aug. 23.</p>
+      <p>The overall chip sector is falling back, with fellow leaders such as Broadcom (AVGO) and Marvell Technology (MRVL) tumbling below the 50-day line this past week. More broadly, AI plays had a tough week.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>The stock market rally is on the verge of a correction.</p>
+      <p>The Nasdaq fell through its 50-day and 10-week lines on Wednesday, and those are now starting to separate. But it's not decisively below those levels.</p>
+      <p>The S&P 500 touched its 10-week line on Friday, but is holding that for now. The Russell 2000 nearly touched its 10-week. Both have hit resistance at the 21-day line.</p>
+      <p>The Dow Jones is holding its 21-day.</p>
+      <p>Many growth leaders are decisively below the 10-week line, with Tesla and Nvidia stock just two notable names. A large number of tech plays suffered huge losses in the past couple of weeks.</p>
+      <p>On the other hand, the S&P 500 is holding the 50-day line, even with tech losses. Many sectors look fine, with Visa, SLB, JPMorgan, Flowserve and Lululemon among the names in those fields. That could continue even if the market enters a mild correction. But most aren't really booming either.</p>
+      <h3>What To Do Now</h3>
+      <p>Investors should be increasingly defensive, especially with regards to growth plays. Overall and tech exposure should have been coming down in the past couple of weeks, even if only by addressing holdings on a case-by-case basis.</p>
+      <p>You can still make buys outside of tech, but those areas are generally holding up or giving ground grudgingly vs. making real advances. One exception is the energy sector, fueled by weeks of higher oil prices. SLB stock is among the few names noted in this article that is actually in a buy zone.</p>
+      <p>It's still possible that the market rally revives, especially if Treasury yields ease.</p>
+      <p>The ongoing pullback is letting leading stocks pull back to key levels and work on new bases. So a slew of buying opportunities could develop, whether that's in a few days or several weeks.</p>
+      <p>Investors need to prepare for that moment. Build up those watchlists, keeping an eye on stocks showing strong relative strength.</p>
+    </div>
+  },
+  {
+    id: 594,
+    title: 'Stock market today: Asia follows Wall Street lower after US data revive fears about rate hike',
+    category: 'Indices',
+    subCategory: ['Stock', 'Market', 'Asia'],
+    description: <div className="blog-desc">
+      <p>BEIJING (AP) — Asian stock markets tumbled Monday after mixed U.S. economic data revived worries the Federal Reserve might hike interest rates again.</p>
+    </div>,
+    authorName: 'JOE McDONALD',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 7:48 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692017778/ncx-blog-1082_fvzyc9.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BEIJING (AP) — Asian stock markets tumbled Monday after mixed U.S. economic data revived worries the Federal Reserve might hike interest rates again.</p>
+	    <p>Hong Kong's main market index plunged 2.3% and Shanghai, Tokyo and Sydney also fell. Oil prices retreated.</p>	
+	    <p>Wall Street's benchmark S&P 500 index slipped 0.1% on Friday after government data showed producer price inflation accelerated in July. Earlier data showed consumer prices also rose faster in July.</p>
+      <p>“Setbacks to optimistic expectations are hard to ignore,” said Tan Boon Heng of Mizuho Bank in a report. “The data need to provide reasons” for the Federal Reserve "not to hike.</p>
+      <p>The Shanghai Composite Index fell 1.1% to 3,154.16 and the Nikkei 225 in Tokyo shed 1% to 32,160.30. The Hang Seng in Hong Kong sank to 18,629.82.</p>
+      <p>The Kospi in South Korea retreated 1% to 2,565.37 and Sydney's S&P-ASX 200 was 0.8% lower at 7,283.60.</p>
+      <p>New Zealand and Southeast Asian markets also declined.</p>
+      <p>On Wall Street, the S&P 500 fell to 4,464.05 on Friday after the Labor Department's producer price index rose 0.8% over a year earlier, accelerating from June's 0.2% rate. The index fell 0.3% for the week, its second consecutive weekly decline.</p>
+      <p>The Nasdaq composite fell 0.7% to 13,644.85. The Dow Jones Industrial Average gained 0.3% to 35,281.40.</p>
+      <p>The price data clashed with investor hopes the Fed will decide inflation is under control following a year of rapid rate hikes to cool economic activity and no more increases are needed.</p>
+      <p>The majority of Wall Street traders still bet the central bank will make no change to the fed funds rate at its September meeting, according to data from CME Group. Such hopes helped the S&P 500 rally 19.5% in the first seven months of this year.</p>
+      <p>Critics warn Wall Street too quickly formed a consensus that inflation is under control, the economy will avoid a recession and the Fed has ended its rate hike cycle.</p>
+      <p>Earlier, government data showed U.S. consumer inflation accelerated to 3.2% in July from the previous month's 3%. That is down from last year's peak above 9% but still higher than the Fed's 2% target.</p>
+      <p>Bond yields rose, including the two-year Treasury yield, which climbed to 4.89%. The yield, which closely tracks expectations for the Fed, had been at 4.80% right before the report’s release. The yield on the 10-year Treasury rose to 4.16% from 4.10% late Thursday. It helps set rates for mortgages and other important loans.</p>
+      <p>Fed officials say rate decisions will depend on hiring, inflation and other data.</p>	
+	    <p>Major U.S. retailers are set to report quarterly results this week, including Home Depot on Tuesday, Target on Wednesday and Walmart on Thursday.</p>
+      <p>In energy markets, benchmark U.S. crude lost 72 cents to $82.47 per barrel in electronic trading on the New York Mercantile Exchange. The contract rose 37 cents on Friday to $83.19. Brent crude, the price basis for international oil trading, fell 76 cents to $86.05 per barrel in London. It advanced 41 cents on Friday to $86.81 a barrel.</p>
+      <p>The dollar fell to 144.93 yen from Friday's 144.97 yen. The euro fell to $1.0933 from $1.0951.</p>
+    </div>
+  },
+  {
+    id: 593,
+    title: 'Earnings Follow Superstar Stocks like NVIDIA and Super Micro',
+    category: 'Indices',
+    subCategory: ['Superstar', 'Nvidia', 'Super Micro'],
+    description: <div className="blog-desc">
+      <p>But, when it comes to the best of breed outlier companies, earnings follow superstar stocks. And you can spot them following institutional demand.</p>
+    </div>,
+    authorName: 'Lucas Downey',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 13, 2023 - 1:39 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692017241/ncx-blog-1081_yxzj5e.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>But, when it comes to the best of breed outlier companies, earnings follow superstar stocks. And you can spot them following institutional demand.</p>
+    	<h3>Earnings Follow Superstar Stocks</h3>
+      <p>Let’s start with the market first. Below shows how the price of the S&P 500 plots a strong correlation to its trailing 12-month EPS since 2012.</p>	
+    	<p>Understanding the overall earnings picture will give you an edge. But when it comes to the best stocks out there, the stock often moves prior to exploding earnings.</p>	
+    	<p>Take NVIDIA Corp. (NVDA) as an example. Below plots the stock price since 2012 overlaid against its 12-month trailing EPS. Notice 3 periods when the stock rallied well ahead of the earnings pop:</p>
+      <p>Circled first, NVDA started jumping in 2015, when trailing earnings were .28 per share. Fast forward to January 2019, EPS rallied to $1.87.</p>
+      <p>Observing the 2nd green circle, the stock started juicing in the 2nd half of 2019 when trailing EPS was at a low of $1.11. Fast forward to April 2022, EPS ballooned to $3.85.</p>
+      <p>Let’s look at another recent example, Super Micro Computer (SMCI).</p>
+      <p>Below plots the stock price overlaid against earnings since 2012. Notice last summer, the stock began to explode higher in the middle of the bear market!</p>
+      <p>Shares and earnings were muted for years. Then in June 2022, the stock began to march higher. Back then, the 12-month trailing EPS sat at $3.44, ballooning to $10.61 by August 2023.</p>
+      <p>This proves once again how earnings follow superstar stocks.</p>
+      <p>So, what can investors do to catch these trending stocks early? Follow the Big Money. MAPsignals is all about finding the best stocks under institutional accumulation.</p>
+      <p>Below plots NVIDIA each time it was profiled in our research. This blue signal is made up of 2 drivers: institutional buy pressure and healthy fundamentals like earnings growth.</p>
+      <p>Below I’ve noted the 3 circles for NVDA:</p>
+      <p>Next, here’s SMCI footprints. Again, blue bars appeared last summer as earnings were set to explode:</p>
+      <p>Please note, this buying began right in the teeth of a nasty bear market. That’s the power of Big Money analysis.</p>
+      <p>In general, stocks follow earnings. The relationship is undeniable. But, the bigger prize is in spotting outlier stocks which are on professional investors’ radar.</p>
+      <p>Disclosure: As of the time of this writing, the author holds no positions in NVDA or SMCI.</p>
+    </div>
+  },
+  {
     id: 592,
     title: 'Dow Jones Closes Near Session Low; Cathie Wood Loads Up On This Stock Despite 23% Plunge',
     category: 'Indices',
