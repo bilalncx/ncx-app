@@ -12,7 +12,7 @@ function FirstSect()
 {
     const { t } = useTranslation();
     // The data/time we want to countdown to
-    var countDownDate = new Date("August 15 2023 00:00:00").getTime();
+    var countDownDate = new Date("September 10 2023 00:00:00").getTime();
 
     // Run myfunc every second
     var myfunc = setInterval(function() {
