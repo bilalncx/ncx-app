@@ -1,5 +1,223 @@
 const data = [
   {
+    id: 651,
+    title: 'Ethereum: Are institutional investors in the U.S shunning ETH?',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'ETH', 'US'],
+    description: <div className="blog-desc">
+      <p>As Ethereum trades below $2000 and in a tight range, institutional investors in the USA look towards other altcoins.</p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 14, 2023 ',  
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692003885/ncx-blog-1064_lgslyy.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>As Ethereum trades below $2000 and in a tight range, institutional investors in the USA look towards other altcoins.</p>
+      <ul>
+        <li>Ethereum’s CPI revealed that institutional investors in the USA have reduced their exposure to the altcoin</li>
+        <li>On the daily chart, daily traders were spotted distributing their ETH holdings</li>
+      </ul>
+    	<p>Ethereum’s [ETH] Coinbase Premium Index (CPI) recently slipped into negative territory, suggesting that institutional investors in the USA have reduced their accumulation of the altcoin on Coinbase. This, according to findings shared by CryptoQuant’s pseudonymous analyst ‘Greatest Trader.’</p>	
+    	<p>The CPI is a metric that measures the difference between the price of an asset on Coinbase and its price on Binance. When an asset’s CPI value is positive, it indicates strong buying pressure among institutional investors on Coinbase. Conversely, when the CPI metric returns a negative value, less accumulation activity takes place on Coinbase.</p>	
+    	<p>Greatest Trader analyzed ETH’s CPI on a 30-day moving average and found that “there has been a substantial shift in sentiment within the U.S. market, as evidenced by the noticeable downward trend in the premium index.”</p>
+      <p>At the time of writing, ETH’s CPI was negative for the first time over the past month with a reading of -0.0027.</p>
+      <p>According to the analyst, this shift in sentiment is noteworthy because “numerous U.S. investors are wealthy individuals or institutional entities” and are, therefore, capable of influencing the asset’s price movements.</p>
+      <p>Commenting on the impact of the CPI decline on the ETH market, the analyst added,</p>
+      <p><strong>“This behavior might cast a pessimistic light on ETH’s prospects. It implies that these investors might not be inclined to accumulate ETH within this price range, possibly signifying a bearish sentiment prevailing in the market.”</strong></p>
+      <h3>Not just America…</h3>
+      <p>An assessment of fund flows into digital asset investment products revealed that the year so far has been marked by significant outflows from ETH.</p>
+      <p>Although the altcoin touched the psychological $2000-price mark in April, it has since trended south to linger in a narrow range since. This, in a way, has eroded investors’ confidence and has caused negative sentiment to return to the market.</p>
+      <p>As of 4 August, the year-to-date outflows from ETH totaled $76 million.</p>
+      <h3>Traders continue to look away</h3>
+      <p>At press time, ETH was changing hands at $1,848. Facing strong resistance at $2000, the alt’s price has lingered in a tight range since April. This, due to its statistically positive correlation with Bitcoin [BTC], whose price has lingered between $29,000 and $30,000 since April.</p>
+      <p>With waning accumulation among daily traders, key momentum indicators lay below their neutral points at press time. The Relative Strength Index (RSI) was 47.36, while the Money Flow Index (MFI) inched closer to the oversold zone at 26.31.</p>
+      <p>Signalling increased liquidity exit from the ETH market, its Chaikin Money Flow (CMF) was negative at press time.</p>
+    </div>
+  },
+  {
+    id: 650,
+    title: 'Uniswap: Founder Hayden not here to make ‘FRENS’ with latest update',
+    category: 'Crypto',
+    subCategory: ['Uniswap', 'Hayden', 'FRENS'],
+    description: <div className="blog-desc">
+      <p>Uniswap faces market uncertainty due to a developer’s controversial actions around the FRENS token. While Uniswap’s activity declined post-controversy…</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 14, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692003636/ncx-blog-1063_ymd4zb.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Uniswap faces market uncertainty due to a developer’s controversial actions around the FRENS token. While Uniswap’s activity declined post-controversy…</p>
+    	<ul>
+        <li>Threat to Uniswap’s market sentiment arises due to FRENS token developer controversy</li>
+        <li>UNI has, however, exhibited resilience amidst setbacks</li>
+      </ul>
+      <p>Uniswap [UNI], a pioneering DEX within the DeFi sector, has consistently maintained its position as a dominant player in the space. However, recent developments involving the developer of the FRENS token has introduced an element of uncertainty in Uniswap’s market sentiment.</p>	
+    	<h3>We didn’t start the “Fire”</h3>
+      <p>In response to the negative exposure, Uniswap’s founder took to Twitter to address the situation, revealing that the individual responsible for the FRENS token had been dismissed from their role.</p>	
+    	<p>The individual in question, known as AzFlin, had been identified as the developer behind the meme token FrensTech (FRENS). Shortly after deploying the FRENS token, AzFlin executed a transfer of 14 WETH (equivalent to approximately $25,800) from the Base network and proceeded to liquidate the tokens acquired from the liquidity pool.</p>
+      <p>Allegations emerged that AzFlin engaged in a practice commonly referred to as “rug-pulling,” where liquidity is withdrawn from a project immediately after its launch. Investigations revealed that AzFlin accessed the funds through the HOP protocol, effectively removing the ETH liquidity, a sum of 14 ETH, that had been contributed as fees.</p>
+      <p>AzFlin, however, disputed the accusation of rug-pulling, acknowledging only the removal of 1 ETH worth of liquidity from the project.</p>
+      <p>While AzFlin denied a deliberate rug pull, he confirmed the sale of a portion of FRENS tokens sourced from the liquidity pool. He justified this action by asserting that the tokens had originally been acquired using personal funds.</p>
+      <p>Interestingly, the FRENS token incident is not an isolated occurrence within the Base network. In a similar fashion, the BALD memecoin saw significant interest and hit a market cap of $85 million, before falling victim to a rug pull executed by its deployer in July.</p>
+      <h3>A slowdown in activity</h3>
+      <p>Despite Founder Hayden’s efforts to address concerns and dispel fears surrounding Uniswap, the protocol experienced setbacks. Within a 24-hour timeframe, Uniswap’s activity plummeted by 27.3%, accompanied by a decline of 13.5% in the fees collected.</p>
+      <p>Conversely, UNI exhibited signs of growth as its price ascended from $5.793 to $6.15. Here, the surge in price can be attributed to a hike in the number of UNI holders over the past week.</p>
+    </div>
+  },
+  {
+    id: 649,
+    title: 'Solana vs Polygon: How is 2023 turning out to be for both?',
+    category: 'Crypto',
+    subCategory: ['Solana', 'Polygon', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Polygon had more daily active addresses than Solana for three consecutive months, but SOL outshined MATIC in a few areas.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 14, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692003307/ncx-blog-1062_ow9qei.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Polygon had more daily active addresses than Solana for three consecutive months, but SOL outshined MATIC in a few areas.</p>
+      <ul>
+        <li>Solana’s TVL gained and hit its highest level since the beginning of 2023</li>
+        <li>MATIC’s market cap plummeted in June, while SOL registered gains</li>
+      </ul>
+    	<p>Over the last few months, Polygon [MATIC] has witnessed a surge in its network activity, with the same higher than that of Solana [SOL]. However, Solana still dominated Polygon by a significant margin in terms of transactions. Not only that, but SOL’s performance in the DeFi space also remains promising, as its TVL hit this year’s highest level recently. In fact, SOL also outshined MATIC by its price action, as the former overtook the latter in market capitalization.</p>
+      <h3>Is Polygon actually ahead of Solana?</h3>
+      <p>Artemis’ data pointed out that Solana’s daily active addresses declined over the last three months. This allowed Polygon to overtake Solana in terms of that metric. Moreover, MATIC has consistently managed to have more users on the network to date. However, looking at the whole picture revealed that MATIC is still way behind SOL in the number of daily transactions processed by the networks.</p>	
+    	<p>Not only that, Solana is also closing in on Polygon in terms of their captured value. As is evident from Artemis’ chart, Solana’s fees and revenue have gained since mid-July, even flipping Polygon on two occasions.</p>	
+    	<p>However, at press time, Polygon’s fees and revenue remained slightly higher than those of SOL. Nonetheless, SOL recently touched a new milestone. DeFiLlama pointed out that SOL’s TVL was moving up and, at press time, was sitting at the highest level since the beginning of the year.</p>
+      <h3>A wider look at both blockchains</h3>
+      <p>Apart from network activity, both blockchains’ staking ecosystems are also interesting to observe. SOL is way ahead of MATIC in terms of staking market cap, as the former’s figures stood at $9.77 billion, while the latter had a staking market cap of $2.4 billion at press time. While MATIC had a staking ratio of 38.91%, SOL posted a reading of 70.84%. Moreover, the number of staking wallets was also higher on Solana than on Polygon.</p>
+      <p>Nonetheless, Santiment’s chart revealed both blockchains have been performing neck to neck in their respective NFT ecosystems. Both MATIC and SOL had similar numbers of NFT trade counts and trade volume in USD, which proves the competition.</p>
+      <h3>Bullish price action for Solana?</h3>
+      <p>Towards the beginning of May, MATIC’s market cap was well above that of SOL. However, things started to turn sour for MATIC as it bled considerably over the next few weeks. This allowed Solana to take over, as the token flipped MATIC on 6 July. Since then, the latter has been able to reclaim its lead in terms of market cap.</p>
+      <p>In fact, as per CoinMarketCap, SOL’s price appreciated by over 7% over the past week. On the contrary, MATIC only managed to hike by 1%. At press time, SOL was trading at $24.77 while MATIC’s value was $0.6794 on the charts.</p>
+    </div>
+  },
+  {
+    id: 648,
+    title: 'What a major approval means for Tron, TRX investors',
+    category: 'Crypto',
+    subCategory: ['Tron', 'TRX', 'Investors'],
+    description: <div className="blog-desc">
+      <p>Last week, Tron approved its committee proposal no. 89, activating the PUSH0 instruction in the TRON virtual machine.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 14, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692003001/ncx-blog-1061_dywf26.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Last week, Tron approved its committee proposal no. 89, activating the PUSH0 instruction in the TRON virtual machine.</p>
+      <ul>
+        <li>Tron’s social engagement and mentions dropped over the last seven days</li>
+        <li>TRX’s price was slow-moving, and the trend might continue</li>
+      </ul>
+    	<p>Tron [TRX] recently shared its weekly report, highlighting the developments that happened in its ecosystem. Among them, the most notable update was related to a newly passed proposal. While the proposal was being passed, TRX’s price action remained dormant, however, as it failed to move up over the last seven days. Not only that, but the token’s performance on the social front was also not at par. </p>	
+    	<h3>Tron approves new committee proposal </h3>
+      <p>Tron’s weekly roundup report pointed out that the blockchain approved its committee proposal 89. The proposal was aimed at activating the PUSH0 instruction in the TRON virtual machine (TVM). For starters, it was suggested to implement and enable the PUSH0 instruction in TVM in order to keep it compatible with Ethereum Virtual Machine (EVM) and to share the same advantages with TRON developers and users.</p>
+      <p>Mentioning the changes, the PUSH0 instruction in TVM brings both technical and economic benefits. A few of the advantages of the update include a reduction in contract code size, a reduction in the risk of contracts using various instructions as an optimization measure, etc.</p>
+      <p>However, the approval did not receive much traction in the crypto-community as TRX’s social metrics dropped last week. LunarCrush’s chart revealed that while TRX’s social engagement dropped by 48%, its social mentions also sank by 30%. On top of that, investors’ confidence in TRX was also low, as its bullish sentiments declined by more than 24%.</p>
+      <h3>Not a lot of volatility?</h3>	
+      <p>Not only was Tron’s performance on the social front not at par, but its price action also remained less volatile last week.</p>
+    	<p>According to CoinMarketCap, TRX’s price has moved by less than 1% over the last seven days. At press time, it was trading at $0.07732 with a market capitalization of more than $6.9 billion, making it the 10th largest crypto by market cap. The sluggish price action caused the token’s 1-week price volatility to remain low through the week.</p>
+      <p>Investors’ interest in trading the token also dropped, as is evident from the slight decline in its trading volume over the last few days. However, thanks to the efforts made by developers, the blockchain’s development activity remained high, which by and large is a positive sign.</p>
+      <p>If derivatives metrics are to be believed, Tron’s price action might remain underwhelming. Coinglass’ chart revealed that TRX’s open interest remained stable too.</p>
+      <p>Additionally, its OI-weighted funding rate was also found to be green. This suggested that investors have been buying TRX at its current price in the Futures market, increasing the chances of TRX continuing its prevailing price trend.</p>
+    </div>
+  },
+  {
+    id: 647,
+    title: 'Dogecoin: Assessing if the weekend’s hype had any impact',
+    category: 'Crypto',
+    subCategory: ['Dogecoin', 'Hype', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>DOGE’s price failed to react despite the uptick in social engagements during the weekend’s trading session.</p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 14, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692002653/ncx-blog-1060_seygtr.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>DOGE’s price failed to react despite the uptick in social engagements during the weekend’s trading session.</p>
+      <ul>
+        <li>DOGE’s social activity rallied over the weekend’s trading session</li>
+        <li>Its price, however, failed to react accordingly</li>
+      </ul>
+    	<p>One of the market’s leading memecoins, Dogecoin [DOGE] registered high social activity over the weekend. Even so, its price failed to record any significant rally on the charts.</p>	
+    	<p>In fact, according to data from LunarCrush, DOGE’s social activity hiked by over 73% on 12 August, with total social engagements of 65 million.</p>	
+    	<p>The surge in an asset’s social activity often indicates increased interest in that asset. Depending on market sentiment, it determines the next direction of that asset’s price.</p>
+      <p>With a mere 2% jump in price during the weekend’s trading session, the market’s negative sentiment put pressure on DOGE’s price.</p>
+      <h3>DOGE’s troubles did not start today</h3>
+      <p>Although its price has rallied by 18% over the past month, DOGE’s on-chain data revealed a gradual decline in network activity. According to data from IntoTheBlock, the count of transactions involving DOGE has fallen steeply since 27 July.</p>
+      <p>With 229,290 DOGE transactions completed on 12 August, figures for the same have dropped by 56% since the month began.</p>
+      <p>As the daily transaction count dwindles, the number of transactions that qualify as whale transactions has also decreased. In fact, IntoTheBlock found that the number of daily DOGE transactions worth between $1 million and $10 million has dropped by 66% over the past month alone.</p>
+      <p>While its price has appreciated in the last month, DOGE holders are yet to be incentivized to trade more because the coin remains undervalued, as shown by its Market Value to Realized Value (MVRV) ratio.</p>
+      <p>A high and positive MVRV ratio indicates that the market is overvalued, as investors pay more for coins than they are worth. Conversely, when it is low and negative, the market is undervalued, as investors pay less for coins than they are worth.</p>
+      <p>DOGE’s MVRV slipped into the negative territory on 20 April and has since remained below the zero line, data from Santiment revealed. With a reading of -10.21% at press time, if all DOGE holders sold their coins at its current price, most traders would realize losses.</p>
+      <h3>In DOGE we trust</h3>
+      <p>While the memecoin remains a significantly unprofitable venture for most holders, Open Interest continues to climb. In fact, it has trended upwards over the last two months.</p>
+      <p>According to Coinglass, DOGE’s Open Interest has hiked by 99% since 12 June.</p>
+      <p>Finally, a look at funding rates across exchanges showed that most trade positions occupied since then have been long positions.</p>
+      <p>This was a sign that more traders had placed bets in favor of a hike in DOGE’s value. This is a bullish signal, which may help the memecoin’s price rally.</p>
+    </div>
+  },
+  {
+    id: 646,
+    title: 'Aptos’ TVL growth shades Ethereum, BNB Chain, and Cardano',
+    category: 'Crypto',
+    subCategory: ['Aptos', 'TVL', 'BNB'],
+    description: <div className="blog-desc">
+      <p>Aptos defied contagion fears to log TVL growth over the past month, all while other leading L1 chain saw a drop in user activity.</p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 13, 2023 ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692002265/ncx-blog-1059_emuy9h.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Aptos defied contagion fears to log TVL growth over the past month, all while other leading L1 chain saw a drop in user activity.</p>
+      <ul>
+        <li>Aptos’ TVL has risen by 29% in the last 30 days</li>
+        <li>Following a brief price uptick on 9 August, APT accumulation has flattened</li>
+      </ul>
+    	<p>In the last month, the decentralized finance (DeFi) vertical of Layer 1 (L1) blockchain network Aptos [APT] has seen significant growth in its total value locked (TVL). </p>	
+    	<p>In fact, according to data from Artemis, Aptos’ TVL has grown by over 25% in the last 30 days, while the TVLs of leading L1 chains such as Ethereum [ETH], BNB Chain [BNB], and Cardano [ADA] have all slowed.</p>	
+    	<p>Curve’s hack episode of 30 July  triggered fears of a contagion effect across the DeFi ecosystem. This, for example, impacted leading network Ethereum, which suffered a sharp fall in TVL two days after the re-entrancy exploit of the decentralized exchange.</p>
+      <p>While other chains have grappled with liquidity exit and decreased user activity as liquidity providers hold onto their funds, protocols on Aptos appear to have been shielded from the aftermath of the hack.</p>
+      <p>For example, according to data from DefiLlama, Aptos’ leading protocol in terms of TVL – Thala – has seen an 82% growth in TVL over the last 30 days.</p>
+      <h3>It is not all smiles on Aptos</h3>
+      <p>Amid the growth in TVL, an assessment of network activity on the chain revealed a corresponding uptick in the daily count of distinct addresses with signed transactions. In fact, according to Aptos Explorer, this has climbed by over 100% in the last month.</p>
+      <p>However, while there has been a surge in the number of transaction-executing addresses, the overall count of transactions executed on the chain in the past month has fallen.</p>
+      <p>As of 12 August, 606,501 transactions were completed on the L1 network. This represented a 69% drop from the 1.94 million transactions completed on 19 July.</p>
+      <p>Moreover, despite the influx of new protocols to the chain over the past few weeks, it is yet to attract new demand. Also, as per Aptos Explorer, the daily count of new addresses created on the chain has declined steadily over the past month.</p>
+      <h3>Microsoft juice no more?</h3>
+      <p>On 9 August, Aptos announced its partnership with tech giant Microsoft. This resulted in a 10% intraday rally in APT’s price.</p>
+      <p>The altcoin, however, has shed most of these gains o verthe past four days. Exchanging hands at $7.16 at press time, the token’s value has since declined by 8%.</p>
+      <p>The fall in value has been due to a drop in accumulation following the brief rally on 9 August. Especially as many daily traders sought to profit. On the D1 chart, key momentum indicators have since trended south, suggesting a drop in APT accumulation among these traders.</p>
+      <p>However, sell-offs have also been kept at bay, with these indicators still positioned above their respective neutral points. For example, the token’s Relative Strength Index (RSI) and Money Flow Index (MFI) were 51.97 and 59.16, respectively, at press time.</p>
+      <p>Likewise, APT’s Chaikin Money Flow returned a positive value of 0.03, suggesting that the market had enough liquidity to prevent any sharp price declines.</p>
+    </div>
+  },
+  {
     id: 645,
     title: 'SHIB surges to new highs amid speculation around the launch of…',
     category: 'Crypto',

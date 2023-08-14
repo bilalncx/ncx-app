@@ -1,5 +1,561 @@
 const data = [
   {
+    id: 643,
+    title: 'Stocks, Bond Climb as China Takes Action on Debt: Markets Wrap',
+    category: 'Markets',
+    subCategory: ['Stocks', 'Bond', 'China'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Stocks and bonds rose as China moved to address a worsening property slump, shoring up confidence in global markets.</p>
+    </div>,
+    authorName: 'Cecile Gutscher and Sagarika Jaisinghani',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 1:08 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692016137/ncx-blog-1080_f18nzh.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Stocks and bonds rose as China moved to address a worsening property slump, shoring up confidence in global markets.</p>
+    	<p>US and European equity futures advanced, while bond yields ticked lower. The moves came after China’s banking regulator announced it would set up a task force to examine risks at Zhongzhi Enterprise Group Co.</p>	
+    	<p>The company, one of the nation’s largest largest private wealth managers, had missed payments on investment products sold to high-net worth clients and corporations. That came as news broke that Chinese developer Country Garden Holdings Co. is seeking to extend a maturing bond for the first time.</p>	
+    	<p>That came as news broke that Chinese developer Country Garden Holdings Co. is seeking to extend a maturing bond for the first time.</p>
+      <p>“It’s such a significant financial shock to the system that the authorities will do everything they can to contain it,” said Andrew Bell, chief executive officer at Witan Investment Trust. “I suspect the risk of contagion beyond China is pretty low. But it is another reason for markets to be a little bit cautious over the summer.”</p>
+      <p>Country Gardens is soliciting some bondholders’ feedback on a proposal to extend payment of a yuan note due Sept. 2, people familiar with the matter said, asking not to be identified discussing a private matter. Once China’s largest private-sector developer by sales, the company is at risk of joining a slew of defaulters if it fails to make coupon payments on two dollar bonds within a 30-day grace period.</p>
+      <p>Shares in mainland China declined while almost all of the 80 members of Hong Kong’s Hang Seng Index slipped Monday. The CSI 300 Index, which is the benchmark of onshore Chinese shares, is now close to erasing all of the gains it made after the Politburo meeting last month amid signs of deterioration in the economy.</p>
+      <p>Yields on government bonds in Europe ticked lower. Treasury yields were steady near levels last seen in November on speculation the Federal Reserve will keep interest rates in restrictive territory and disappoint investors hoping for easier policy.</p>
+      <p>Focus later this week will be on minutes of Fed’s latest policy meeting as traders seek clues on the central bank’s next move.</p>
+      <p>“Equity markets have had quite a strong rally over the last two or three months on hopes that we’re about to see the peak in interest rates,” Bell said. “The market was traveling a little bit on fumes, and now we have to live through the good news before before you can jump another step higher.”</p>
+      <p>The yen steadied after breaching its year-high level of 145.07 versus the dollar as investors started to monitor for any signs the government may intervene as it did last year.</p>
+      <p>The ruble weakened beyond the psychologically important level of 100 to the dollar for the first time since March last year, as Russia’s war in Ukraine drags on and international sanctions throttle the economy.</p>
+      <h3>Key events this week:</h3>
+      <ul>
+        <li>China medium-term lending, retail sales, industrial production, fixed-asset investment, FX net settlement, Tuesday</li>
+        <li>Japan industrial production, GDP, Tuesday</li>
+        <li>UK jobless claims, unemployment, Tuesday</li>
+        <li>US retail sales, empire manufacturing, business inventories, cross-border investment, Tuesday</li>
+        <li>Reserve Bank of Australia policy minutes, Tuesday</li>
+        <li>Federal Reserve Bank of Minneapolis President Neel Kashkari speaks, Tuesday</li>
+        <li>China property prices, Wednesday</li>
+        <li>Eurozone industrial production, GDP, Wednesday</li>
+        <li>UK CPI, Wednesday</li>
+        <li>US FOMC minutes, housing starts, industrial production, Wednesday</li>
+        <li>US initial jobless claims, US Conf. Board leading index, Thursday</li>
+        <li>Eurozone CPI, Friday</li>
+      </ul>
+      <h3>Some of the main moves in markets:</h3>
+      <p>Stocks</p>
+      <ul>
+        <li>The Stoxx Europe 600 rose 0.2% as of 10:06 a.m. London time</li>
+        <li>S&P 500 futures rose 0.2%</li>
+        <li>Nasdaq 100 futures rose 0.4%</li>
+        <li>Futures on the Dow Jones Industrial Average rose 0.1%</li>
+        <li>The MSCI Asia Pacific Index fell 1.2%</li>
+        <li>The MSCI Emerging Markets Index fell 0.9%</li>
+      </ul>
+      <h3>Currencies</h3>
+      <ul>
+        <li>The Bloomberg Dollar Spot Index was little changed</li>
+        <li>The euro was little changed at $1.0943</li>
+        <li>The Japanese yen was little changed at 144.94 per dollar</li>
+        <li>The offshore yuan fell 0.2% to 7.2768 per dollar</li>
+        <li>The British pound was unchanged at $1.2696</li>
+      </ul>
+      <h3>Cryptocurrencies</h3>
+      <ul>
+        <li>Bitcoin was little changed at $29,385.29</li>
+        <li>Ether fell 0.3% to $1,847.1</li>
+      </ul>
+      <h3>Bonds</h3>
+      <ul>
+        <li>The yield on 10-year Treasuries was little changed at 4.15%</li>
+        <li>Germany’s 10-year yield declined one basis point to 2.61%</li>
+        <li>ritain’s 10-year yield was little changed at 4.52%</li>
+      </ul>
+      <h3>Commodities</h3>
+      <ul>
+        <li>Brent crude fell 0.4% to $86.49 a barrel</li>
+        <li>Spot gold was little changed</li>
+      </ul>
+      <p>This story was produced with the assistance of Bloomberg Automation.</p>
+      <p>--With assistance from Michael Msika and Tassia Sipahutar.</p>
+    </div>
+  },
+  {
+    id: 642,
+    title: 'Stock market today: Global markets mixed after stronger US inflation revives fears of rate hike',
+    category: 'Markets',
+    subCategory: ['Stock', 'Global Market', 'US'],
+    description: <div className="blog-desc">
+      <p>BEIJING (AP) — Global stock markets were mixed Monday after stronger U.S. inflation revived worries the Federal Reserve might hike interest rates again.</p>
+    </div>,
+    authorName: 'JOE McDONALD',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 9:38 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692015934/ncx-blog-1079_vgvlro.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BEIJING (AP) — Global stock markets were mixed Monday after stronger U.S. inflation revived worries the Federal Reserve might hike interest rates again.</p>
+    	<p>Shanghai, London and Tokyo declined. Paris, Frankfurt and Wall Street futures rose. Oil prices fell.</p>	
+    	<p>Wall Street's benchmark S&P 500 index slipped Friday after government data showed producer price inflation accelerated in July. Earlier data showed consumer prices also rose faster in July.</p>	
+    	<p>“Setbacks to optimistic expectations are hard to ignore,” said Tan Boon Heng of Mizuho Bank in a report. “The data need to provide reasons (for the Federal Reserve) not to hike.”</p>
+      <p>In early trading, the FTSE 100 in London lost less than 0.1% to 7,517.92. The CAC 40 in Paris advanced 0.4% to 7,366.42 and the DAX in Frankfurt gained 0.5% to 15,911.02.</p>
+      <p>On Wall Street, the future for the S&P 500 index was up 0.3%. That for the Dow Jones Industrial Average added 0.2%.</p>
+      <p>On Friday, the S&P 500 lost 0.1% after the Labor Department’s producer price index rose 0.8% over a year earlier, accelerating from June’s 0.2% rate. The index fell 0.3% for the week, its second consecutive weekly decline.</p>
+      <p>The Nasdaq composite fell 0.7% and the Dow gained 0.3%.</p>
+      <p>In Asia, the Shanghai Composite Index fell 0.3% to 3,178.42 and the Nikkei 225 in Tokyo shed 1.3% to 32,059.91. The Hang Seng in Hong Kong sank 1.6% to 18,773.55.</p>
+      <p>The Kospi in South Korea retreated 0.8% to 2,570.87 and Sydney's S&P-ASX 200 was 0.9% lower at 7,277.00.</p>
+      <p>India's Sensex lost less than 0.1% to 65,283.59. New Zealand and Southeast Asian markets also declined.</p>
+      <p>The U.S. inflation data clashed with investor hopes the Fed will decide prices are under control following a year of rapid rate hikes to cool economic activity and no more increases are needed.</p>
+      <p>The majority of Wall Street traders still bet the central bank will make no change to the fed funds rate at its September meeting, according to data from CME Group. Such hopes helped the S&P 500 rally 19.5% in the first seven months of this year.</p>
+      <p>Critics warn Wall Street too quickly formed a consensus that inflation is under control, the economy will avoid a recession and the Fed has ended its rate hike cycle.</p>
+      <p>Earlier, government data showed U.S. consumer inflation accelerated to 3.2% in July from the previous month's 3%. That is down from last year's peak above 9% but still higher than the Fed's 2% target.</p>
+      <p>Bond yields rose, including the two-year Treasury yield, which climbed to 4.89%. The yield, which closely tracks expectations for the Fed, had been at 4.80% right before the report’s release. The yield on the 10-year Treasury rose to 4.16% from 4.10% late Thursday. It helps set rates for mortgages and other important loans.</p>
+      <p>Fed officials say rate decisions will depend on hiring, inflation and other data.</p>
+      <p>Major U.S. retailers are set to report quarterly results this week, including Home Depot on Tuesday, Target on Wednesday and Walmart on Thursday.</p>
+      <p>In energy markets, benchmark U.S. crude lost 31 cents to $82.88 per barrel in electronic trading on the New York Mercantile Exchange. The contract rose 37 cents on Friday to $83.19. Brent crude, the price basis for international oil trading, fell 41 cents to $86.40 per barrel in London. It advanced 41 cents on Friday to $86.81 a barrel.</p>
+      <p>The dollar fell to 144.88 yen from Friday's 144.97 yen. The euro gained to $1.0955 from $1.0951.</p>
+    </div>
+  },
+  {
+    id: 641,
+    title: 'India Adani Group stocks hit by first auditor quitting over Hindenburg report',
+    category: 'Markets',
+    subCategory: ['India', 'Adani', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) -Shares of Adani Group companies fell between 3% and 6% on Monday after Deloitte resigned as auditor of Adani Ports, the first such move at the Gautam Adani-led conglomerate since U.S. short-seller Hindenburg's report on the company in January.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 8:01 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692015077/ncx-blog-1078_upu5ux.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BENGALURU (Reuters) -Shares of Adani Group companies fell between 3% and 6% on Monday after Deloitte resigned as auditor of Adani Ports, the first such move at the Gautam Adani-led conglomerate since U.S. short-seller Hindenburg's report on the company in January.</p>
+    	<p>Deloitte, Adani Ports' auditor since May 2017, quit amid concerns over certain related party transactions that Hindenburg had raised and which the company did not wish to look into independently, Reuters reported on Friday.</p>	
+    	<p>Adani Ports said Deloitte, which does not audit any of the other core listed Adani Group companies, had all the necessary information and its reason to quit was "not convincing."</p>	
+    	<p>In its report, Hindenburg also alleged the conglomerate of improper use of tax havens and other business dealings.</p>
+      <p>While the group has denied all allegations, the report led to Adani's listed units losing more than $100 billion in market value and sparked regulatory investigations.</p>
+      <p>Separately, India's market regulator, which was due to submit a final report on its probe on Monday, said it sought 15 more days to conclude an investigation into the conglomerate's dealings with some offshore entities.</p>
+      <p>Shares of Adani Ports fell as much as 3.7% on Monday. Flagship Adani Enterprises dropped 5.5%, while Adani Power, Adani Energy Solutions, Adani Wilmar, Adani Green Energy and Adani Total Gas declined between 3% and 5%.</p>
+      <p>"The market would have liked it if the Adani management would have made the (related party) disclosures on their own," said Avinash Gorakshakar, head of research at Profitmart Securities.</p>
+      <p>"In the near term, the Adani Group stocks will likely remain under pressure and any re-rating will happen gradually when the water settles down."</p>
+      <p>Adani Ports named MSKA & Associates, an independent member firm of BDO International, as its new auditor.</p>
+      <p>(Reporting by Rama Venkat in Bengaluru; Editing by Savio D'Souza and Varun H K)</p>
+    </div>
+  },
+  {
+    id: 640,
+    title: 'U.S. Office Woes and China’s Slowdown Rattle Singapore’s REIT Market',
+    category: 'Markets',
+    subCategory: ['US', 'China', 'Signapore'],
+    description: <div className="blog-desc">
+      <p>SINGAPORE—One of Asia’s largest markets for real-estate investment trusts is reeling from America’s office slump and China’s slowing economy.</p>
+    </div>,
+    authorName: 'Weilun Soon',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 8:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692014613/ncx-blog-1077_tezgja.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>SINGAPORE—One of Asia’s largest markets for real-estate investment trusts is reeling from America’s office slump and China’s slowing economy.</p>
+    	<p>Singapore’s $73 billion market for publicly listed real-estate investment trusts was recently shaken after a U.S. office trust run by Manulife said in July that the value of its portfolio fell 15% in the first half of 2023, causing it to breach a loan covenant. The vehicle and two others that focus on U.S. commercial properties have lost more than two-thirds of their combined market value over the past year.</p>	
+    	<p>Market participants are worried that Manulife U.S. REIT’s woes are the tip of the iceberg. Stock prices of some Singapore-listed REITs that hold commercial properties in China have also fallen this year, as the country’s macroeconomic outlook worsens.</p>	
+    	<p>Dasin Retail Trust, which owns shopping malls in Southern China, said some of its tenants, including the Chinese operator of supermarket chain Carrefour, terminated leases early. It also disclosed in July that its portfolio’s value declined in 2022.</p>
+      <p>Some trust managers recently asked the Monetary Authority of Singapore, the country’s top financial regulator, to ease its leverage limits to give them more financial flexibility to negotiate lending terms with banks, according to people familiar with the matter. Singapore REITs generally have to stay within a 45% debt-to-assets ratio.</p>
+      <p>A MAS spokesperson said it closely monitors macroeconomic conditions and has regular discussions with the industry. If trusts exceed the leverage limit because their property values declined, that wouldn’t constitute a breach, the spokesperson added.</p>
+      <p>Singapore has drawn dozens of property-trust listings over the past two decades, and has become the biggest Asian market for REITs outside of Japan. The vehicles together account for 12% of Singapore’s total stock-market capitalization. The recent declines in U.S. property valuations and stock prices are shaping up to be a test of the market’s resilience. Most China-focused REITs haven’t reported such declines—but analysts say the worry is that the effects of China’s sputtering recovery will start to affect occupancy at malls and industrial parks that some of the trusts hold, and their valuations.</p>
+      <p>“There’s a sense of nervousness in the market,” said Vijay Natarajan, a REIT analyst at RHB Bank Singapore. He said a lot of factors have contributed, including rapidly rising interest rates and the pandemic’s effect on overseas properties. These developments have disproportionately affected internationally focused REITs in Singapore, as they tend to have smaller portfolio sizes and are less diversified, he added.</p>
+      <p>In the U.S., many office workers have resisted going back to the workplace, leading companies to reconsider the amount of office space they need. That is in turn sending valuations of office REITs and stocks of office landlords lower.</p>
+      <p>Manulife U.S. REIT has buildings in or close to major American cities including Los Angeles, Atlanta and Washington, D.C.</p>
+      <p>The trust recently sought independent valuations of its portfolio, and its managers were surprised to learn that it had dropped by $280 million to $1.63 billion.</p>
+      <p>The trust’s building, 1750 Pennsylvania Avenue, which is located a block from the White House and counts the U.S. government as its anchor tenant, was valued at $124 million, versus $156 million at the end of 2022.</p>
+      <p>Its 11-story office property at 500 Plaza Drive in Secaucus, N.J., for instance, was worth $67 million at the end of June, down 27% from six months earlier, according to valuations provided by a unit of Jones Lang LaSalle. Just 7 miles away, its office building at 10 Exchange Place in Jersey City was valued at $258 million, down 11% from the end of 2022.</p>
+      <p>The overall loss in value, coupled with a sharp rise in interest rates that increased its borrowing costs, caused the trust to breach one of its financial covenants. The Manulife U.S. REIT didn’t make a cash distribution for the first half. It said on Monday that its manager made a payment to lower its leverage ratio slightly, and is in talks with lenders about waiving the covenant breach. It may also sell Phipps Tower, an office building in Atlanta, to help bolster its liquidity.</p>
+      <p>Shares of the REIT dropped further on Monday. They have lost close to half their value over the past month. The trust is also considering other asset sales to third parties, said Caroline Fong, Manulife U.S. REIT’s deputy chief executive officer.</p>
+      <p>Given the sharp drop in valuations in the first half of the year, analysts from DBS said financial support from the trust’s sponsor may be needed to help resolve the problems. That could be in the form of an equity injection or asset sales, they said.</p>
+      <p>Other U.S.- and China-focused REITs in Singapore recently reported earnings, but didn’t conduct external valuations for their properties for their midyear disclosures. Many vehicles do that only for their full-year results.</p>
+    </div>
+  },
+  {
+    id: 639,
+    title: 'ECB Still Seen Delivering One Last Hike in September, Poll Shows',
+    category: 'Markets',
+    subCategory: ['ECB', 'Hike', 'market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Unmoved by recent signs that inflation pressure is abating, economists continue to predict that the European Central Bank will deliver one final increase in interest rates next month.</p>
+    </div>,
+    authorName: 'Andrew Langley and Harumi Ichikura',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 14, 2023 - 8:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692014201/ncx-blog-1076_anxvjx.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Unmoved by recent signs that inflation pressure is abating, economists continue to predict that the European Central Bank will deliver one final increase in interest rates next month.</p>
+    	<p>The deposit rate will be lifted to 4% in September from 3.75% now, a Bloomberg poll showed. At the same time, respondents reckon officials will start cutting borrowing costs in March, a month earlier than they previously thought.</p>	
+    	<p>The results come as major central banks ponder the end of their more than yearlong rate-hiking campaigns. President Christine Lagarde has said the ECB’s Sept. 13-14 meeting will be between a 10th straight increase and a pause.</p>	
+    	<p>Since officials last convened, ECB research has suggested that underlying inflation — a metric they’ve been keenly watching — has probably peaked. What’s more, a separate poll of consumers revealed that expectations for price growth across the 20-nation euro zone dropped further, though remained above the 2% goal.</p>
+      <p>Analysts in the Bloomberg survey, however, boosted their projections for inflation in 2023, and for core inflation this year and next. And a market measure of price gains is testing record highs.</p>
+      <p>Money markets currently price a 70% chance of a 25 basis-point ECB hike next month.</p>
+      <p>Aside from inflation, warnings about economic weakness are getting louder. Executive Board member Fabio Panetta this month urged prudence “in calibrating our monetary-policy stance if we are to reach our inflation target without harming economic activity unnecessarily.”</p>
+      <p>While the euro area has so far dodged a recession and is likely to continue doing so, its biggest member — Germany — suffered a winter downturn and stagnated in the second quarter. Economists expect another quarter of zero growth in the three months through September and still see German output shrinking by 0.3% this year, with the outlook for 2024 also shifting down to 0.8% from 1%.</p>
+    </div>
+  },
+  {
+    id: 638,
+    title: 'A $4.3 Billion India Fund’s Long Search for New CEO Stirs Worry',
+    category: 'Markets',
+    subCategory: ['India', 'CEO', 'Funds'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- National Investment & Infrastructure Fund’s long-drawn hunt for a new Chief Executive Officer is raising concerns among investors, according to people familiar with the matter, potentially posing a risk to the government’s plans for the business.</p>
+    </div>,
+    authorName: 'Preeti Singh',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 7:20 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692013754/ncx-blog-1075_duslvn.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- National Investment & Infrastructure Fund’s long-drawn hunt for a new Chief Executive Officer is raising concerns among investors, according to people familiar with the matter, potentially posing a risk to the government’s plans for the business.</p>
+    	<p>The board of India’s state-backed fund has tapped recruitment firm Russell Reynolds to conduct a search, but there’s been scant progress about 11 months after Sujoy Bose prematurely left, said the people, asking not to be identified discussing a private matter. Some external candidates have been cautious due to uncertainty around the fund’s strategy and the extent of government influence, said the people.</p>	
+    	<p>NIIF, as the fund is known, counts a clutch of global and domestic investors as backers, including Abu Dhabi Investment Authority and Temasek Holdings Pte. Some investors are closely watching the process, and further delays could impact their willingness to commit to new fundraising by NIIF, they said.</p>	
+    	<p>For now, the heads of various NIIF units, including Master Fund, Fund of Funds and Strategic Opportunities Fund, are steering their individual businesses, though a cohesive investment strategy for the $4.3 billion fund is lacking, the people said. Delays in recruiting a new CEO may start to hit the growth of NIIF, through which the government hopes to raise billions of dollars to improve the nation’s infrastructure, they said.</p>
+      <p>NIIF and Russell Reynolds didn’t respond to a request for comment. A finance ministry spokesperson didn’t respond to a text message seeking comment.</p>
+      <p>In May, the company named its chief operating officer Rajiv Dhar as CEO on an interim basis till a permanent replacement is found for Bose. Bose announced his intention to step down in September, a few years before the end of his term, in what many saw as evidence of the government’s frustration over the fund’s performance.</p>
+      <p>India’s Finance Minister Nirmala Sitharaman last year said she would like the firm to be “more robust” and would review it.</p>
+      <p>NIIF is India’s first major attempt to develop a capital-raising structure on home soil, and is majority-owned by global investors. The Indian government, with a 49% stake, is its largest shareholder. The fund primarily invests in local companies that build power plants, airports and roads, and provides long-tenure loans through its new shadow bank unit.</p>
+      <p>--With assistance from Ruchi Bhatia.</p>
+    </div>
+  },
+  {
+    id: 637,
+    title: 'Is AMC Stock A Buy Or Sell Now? Here What Fundamentals, Chart Action, Fund Ownership Metrics Say',
+    category: 'Markets',
+    subCategory: ['AMC', 'Stock', 'Fund'],
+    description: <div className="blog-desc">
+      <p>Going to the movies is fun and exciting again. But can it match the truly mind-bending action of AMC Entertainment (AMC)?</p>
+    </div>,
+    authorName: 'DAVID SAITO-CHUNG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 14, 2023 - 4:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692012116/ncx-blog-1074_hrb5dy.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Going to the movies is fun and exciting again. But can it match the truly mind-bending action of AMC Entertainment (AMC)?</p>
+    	<p>Starting the year 2021 at 2 a share, AMC stock skyrocketed 36-fold to an all-time high of 72.62 on June 2 that same year. Then came 2022, a brutal year for meme stocks.</p>	
+    	<p>AMC stock started the year at 27.20 and ended at 4.07, a miserable loss of 85%.</p>	
+    	<p>Since then, AMC's drama in the stock market today has continued.</p>
+      <p>The current year initially saw a much better start for AMC. But after more than doubling from its year-end close of 4.07 during the first two months of 2023, shares slid hard after the company said March 14 that 87% of voting shareholders approved a plan to conduct a 1-for-10 reverse stock split.</p>
+      <p>That reverse split has yet to take place.</p>
+      <p>Meanwhile, on July 21 after the market close, AMC stock jumped as much as 100% to an after-hours session high of 8.80 following reports that the deal to convert its preferred equity units, nicknamed APEs, into common shares, got rejected by a Delaware court.</p>
+      <p>Dow Jones reported that the court's Vice Chancellor Morgan Zurn rejected an earlier settlement that would have allowed the conversion to go forward, quoting Bloomberg.</p>
+      <h3>AMC Stock Briefly Retakes Key Technical Level</h3>
+      <p>During the following regular market session on July 24, AMC stock jumped more than 35% and reached as high as 6.23. Volume soared more than 11 times its average pace over the past 50 sessions.</p>
+      <p>The stock also briefly ramped above its 200-day moving average for the first time since February.</p>
+      <p>But AMC stock pulled back hard again. Shares also dipped back below the 200-day line, a key long-term technical level.</p>
+      <h3>AMC Stock Today: Is It A Buy Now?</h3>
+      <p>Meanwhile, the relative strength line, which graphs a stock or ETF's day-to-day performance vs. the S&P 500, has trended lower. This means AMC is still underperforming the S&P 500. However, in recent weeks, AMC stock's RS line is rising sharply and trying to bottom out.</p>
+      <p>AMC stock has recently seen its market value rebound to $2.7 billion on 519.2 million shares outstanding, according to MarketSmith. The float (freely traded shares) stands at 514 million.</p>
+      <p>So, is AMC stock a buy now? Or is it a sell?</p>
+      <p>This story examines fundamental, technical and fund ownership factors to determine if the Leawood, Kan., company with 950 theaters and 10,500 screens scores a good probability of making money for stock traders.</p>
+      <h3>Q2 Earnings Out</h3>
+      <p>AMC is trying to mount a comeback. On Friday, shares jumped 5.6% to 5.26, up almost 20% for the third quarter so far.</p>
+      <p>On Aug. 8, the company posted a net profit of a penny a share, down from a net loss of 10 cents in the year-ago quarter. Sales rose 16% to $1.35 billion.</p>
+      <p>Meanwhile, adjusted EBITDA grew 71% to $182.5 million. Operating cash flow expanded by $63.2 million to a total $13.4 million; on a non-GAAP basis, it generated $99.8 million in operating cash. This helped boost the company's liquidity to $643.4 million, including $208.1 million of undrawn capacity under a revolving credit facility.</p>
+      <p>CEO Adam Aron, in a news release, noted that AMC theaters around the globe welcomed more than 66 million guests in the quarter, the highest level since Q4 of 2019.</p>
+      <p>"One area that has far exceeded pre-pandemic norms has been per-patron revenue," Aron said. The firm generated revenue of $7.36 per patron from food and beverages, "within a penny of our all-time high watermark. Considering the substantial operating margin of our food and beverage business, this is contributing meaningfully to our improving profitability," he added.</p>
+      <h3>A Strong Start In The Third Quarter</h3>
+      <p>The company highlighted that Q3 is "off to an explosive start" with big hits in the movies "Barbie," "Oppenheimer," "Mission Impossible: Dead Reckoning Part I," "Sound of Freedom," and others. July turned in the highest monthly revenue in the company's 103-year history.</p>
+      <p>Barron's reported on Wednesday that B. Riley analyst Eric Wold estimates "box office revenues per screen for AMC recovered to 93% of 2Q19 levels vs. an industry recovery to 82% of 2Q19 levels." Wold rated the stock at neutral with a 4.50 price target.</p>
+      <p>Keep in mind that blockbuster movies or TV shows don't necessarily lead to an equally sizable windfall for the theater operators.</p>
+      <p>Robert Marich, author of "Marketing to Moviegoers," told IBD that "profit excess from ticket sales of blockbuster movies goes disproportionately to Hollywood distributors, because theater percentage of ticket revenue diminishes on a percentage basis."</p>
+      <p>Wall Street currently sees AMC posting a net loss of 31 cents a share this year and a net loss of 22 cents in 2024, down from 24 cents. In 2022, AMC posted a full-year adjusted net loss of 69 cents a share vs. a net loss of $1.25 in 2021.</p>
+      <h3>AMC Sales Continue To Recover</h3>
+      <p>In early May, the stock reported a net loss of 13 cents in the first quarter of 2023. A year ago, AMC suffered a net loss of 26 cents a share. Revenue jumped 21% to $954.4 million. The company saw food and beverage spending per patron of $6.90 globally and $7.99 in the U.S.</p>
+      <p>CEO Adam Aron noted the first-quarter results as the strongest for a first quarter of the year in at least four years. "The recovery in the European box office easily surpassed 2022 by some 29%, totaling more than $1.7 billion," Aron noted.</p>
+      <p>He added "The Super Mario Brothers Movie" has helped the second quarter get off to a marvelous start with ticket sales surpassing $1 billion worldwide.</p>
+      <h3>AMC Stock Trying To Reach May Levels</h3>
+      <p>On May 4, AMC stock posted its highest close since March 7. At one point, the small cap's year-to-date gain reached 44%. But AMC stock let those gains slip away again. Notice too how it slumped below the 50-day moving average again.</p>
+      <p>Yet since July 24, shares have retaken this important technical level.</p>
+      <p>Further gains could point to a bullish shift in the balance of demand vs. supply. After all, leading growth stocks tend to rally above the 50-day moving average (drawn in red in the accompanying daily chart), as well as pull the 50-day line higher.</p>
+      <h3>The Preferred Units Puzzle</h3>
+      <p>Earlier, in a filing issued on July 31 to the Securities and Exchange Commission, Aron made it abundantly clear that the company and shareholders would benefit from the conversion plan of APE preferred equity units.</p>
+      <p>"To protect AMC's shareholder value over the long term, we must be able to raise equity capital," Aron wrote in an open letter.  That is especially the case now with the added uncertainty caused by the writers and actors strikes, which could delay the release of movies currently scheduled for 2024 and 2025."</p>
+      <p>"If we are unable to raise equity capital, the risk materially increases of AMC conceivably running out of cash in 2024 or 2025, or of AMC being unable to satisfactorily refinance and stretch out the maturity of some of our debt (which is required of us beginning as early as 2024)," Aron added.</p>
+      <p>In March, the company had received the green light from a shareholder vote to convert its APE units into common stock.</p>
+      <p>"If implemented, AMC should have an ability to raise a significant amount of equity capital in the months and years ahead. Winning these shareholder votes by such a lopsided margin is a powerful vote of confidence to allow AMC to raise equity capital, reduce debt, strengthen our balance sheet and continue our transformation," Aron said in a March 14 news release.</p>
+      <p>Yet retail investors could see a dilution in the value of their shares overall if the plan were to go forward.</p>
+      <h3>April 3 Settlement Rocks AMC Stock</h3>
+      <p>The stock got knocked hard after the company reached an agreement on April 3 with a group of common stockholders in AMC. In the agreement, the plaintiffs would receive one share of common stock for every 7.5 shares held following the reverse stock split in connection with a planned conversion of APE preferred units into common shares.</p>
+      <p>In a news release issued by law firms Bernstein Litowitz Berger & Grossmann, Grant & Eisenhofer, Fields Kupka & Shukurov, and Saxena White, the settlement will preserve more than $100 million of common stockholders' stake in the company. That value would fluctuate based on market trading.</p>
+      <p>Holders of AMC's class A common shares received one APE for every share of AMC owned on Aug. 15 last year. At the time, management warned investors that AMC stock would feel the impact of what has been dubbed the "APE-split." But the preferred units plunged after their Aug. 22, 2022, market debut.</p>
+      <p>The next day on April 4, shares tanked 23% to 3.91 in heavy trading following news that the company settled a shareholders lawsuit over AMC's plan to convert its "APE" equity preferred units into common shares. But two days later, AMC stock barreled ahead 19% in late-afternoon trading on news that a judge in the Delaware Chancery Court rejected the settlement.</p>
+      <p>In the first quarter of this year, the company said it raised gross proceeds of $80.3 million through the sale of 49.3 million APE units.</p>
+      <p>During the second quarter, AMC Entertainment raised another $34.2 million before commissions and fees after dumping 21.2 million APE units. As a result, currently no APEs are available to be issued under a September equity program approved by the board.</p>
+      <h3>Will The Shorts Cover AMC Stock This Year?</h3>
+      <p>Even though an epic short squeeze rally hit overdrive in January 2021, AMC stock still attracted short sellers during the summer of that year. Now, after a bruising decline since the spring of 2021, have the shorts let up?</p>
+      <p>Let's first revisit the hyper-fast run during the meme stock boom of 2021. Prior to the giant gain on June 2, 2021, over just five sessions of trade (May 24 to 28), AMC obliterated the short sellers by rising as much as 203%. In the week ended June 4, AMC stock almost finished up 100% or more for a second straight week. Incredible.</p>
+      <p>In January 2021, WallStreetBets chat-room traders on Reddit joined in unison in buying shares and bullish call options in AMC stock. They did the same in a band of other companies that had been heavily sold short and struggling.</p>
+      <p>According to MarketSmith, short interest — shares sold short by individual and professional investors — currently totals 5 times AMC stock's daily average volume of 27.4 million shares. Thus, total short interest has cooled a bit to 137 million shares, or nearly 27% of the stock's float of 514 million — still a heavy amount.</p>
+      <p>Strong future profits could lead to increasing accumulation by large funds and other institutional investors. A powerful rebound could force short sellers to cover their positions, helping to propel shares even higher.</p>
+      <p>When a stock shows a high level of short interest and is getting bid up, you can almost count on a chain reaction of buying to occur. Why? Short sellers, betting on a decline in the stock, at some point may have to do a sudden about-face. They cover their short position by buying back shares.</p>
+      <p>The NYSE publishes data on short sale positions twice a month. Plus, the short coverage ratio can be skewed by dramatic changes in daily share turnover. The above data also does not consider any shares that may have been sold short in dark pools.</p>
+      <h3>Key IBD Ratings</h3>
+      <p>AMC's ratings in IBD Stock Checkup are showing bearish tints.</p>
+      <p>They include a much improved 61 Earnings Per Share Rating on a scale of 1 to 99, up sharply from 23 in recent months. Prior to the Q4 report, AMC's EPS score stood at 42.</p>
+      <p>Meanwhile, a 36 Composite Rating on a scale of 1 (wizened) to 99 (wizardly) in recent days is rising yet remains desperately low. It stands well below a score of 76 in February. When choosing growth stocks for the biggest potential gains based on the CAN SLIM investment paradigm, focus on those with a Composite Rating of 90 or higher. Shooting for a 95 or higher, particularly at the start of a new bull market, is even better.</p>
+      <p>During the first quarter of this year, AMC's movies industry group had ranked highly among IBD's 197 industry groups in terms of six-month price-weighted performance. The group cooled off in April, ranking 87th out of 197 industries, but has since risen to as high as 20th in recent weeks.</p>
+      <p>Check the daily price-weighted performance of all IBD industry groups, plus rankings based on six-month performance, at IBD Data Tables.</p>
+      <h3>AMC Stock: Relative Strength Sinking Again</h3>
+      <p>In August last year, AMC held a very respectable 96 Relative Strength Rating. This score means AMC stock had outperformed 96% of all stocks in the IBD database over the past 12 months. And the 3-month RS Rating at the time zoomed to a highest possible 99, according to MarketSmith data. These two ratings now stand mixed at 15 and 84, respectively. These scores have fluctuated a lot.</p>
+      <p>The RS Rating runs from 1 to 99; the higher, the better the stock in general.</p>
+      <p>Watch to see how the RS Rating changes in the coming week.</p>
+      <p>The Accumulation/Distribution Rating shows a positive B grade on a scale of A to E. This rating analyzes 13 weeks' worth of price-and-volume action. A grade of C+ or higher points to institutions, on net, accumulating shares.</p>
+      <p>Meanwhile, mutual funds owning a piece of AMC stock have dropped from 686 at the end of 2021 to as low as 307 as of the end of the second quarter this year, according to MarketSmith.</p>
+      <h3>Stock Action In 2021 Vs. 2022</h3>
+      <p>Back in May 2021, this story suggested watching how AMC stock handles potential upside resistance near 20. In fact, the action since that incredible week ended Jan. 29 molded a deep cup pattern. From that vantage point, AMC delivered a second breakout on May 27, surpassing a new 20.46 buy point with fury. (MarketSmith has a change-date function that makes it easy to look at historical charts.)</p>
+      <p>To get this ideal entry in a cup without handle, simply add 10 cents to the cup's left-side high — 20.36. On May 27, shares rifled past the 20.46 entry. For a while, AMC refused to look back. Still, with gains of as much as 501% in just two weeks, it made sense to lock in at least partial profits.</p>
+      <p>For a few days in August 2022, AMC tried to cross a nearly 12-month trendline that connects the September 2021 peak (32.43, adjusted for a stock split) with lower highs in November 2021 (28.23) and early April 2022 (21.09). For the very aggressive trader, this trendline breakout near 15 offered an uber-speculative entry. But the rally attempt fizzled fast.</p>
+      <p>As always, control your risk. Not all breakouts work, especially when the stock market uptrend goes under pressure or into a correction. The best time to buy? When IBD notes the market in a confirmed uptrend, it signifies that buying demand is healthy among institutional investors.</p>
+      <p>In stock investing, seek the wind at your back, not in your face.</p>
+      <h3>AMC Stock In 2023: Is It A Buy Now? Or A Sell?</h3>
+      <p>Despite the recent rally, AMC still sits 88% below its split-adjusted high of 44.61 set on June 2, 2021. So at the current price level, it does not yet trade at an IBD-style entry point.</p>
+      <p>However, next week the situation could change dramatically. Watch to see if a new bullish chart pattern will form. And AMC will definitely need weeks, if not months, to build the right side of that new base in bullish fashion.</p>
+      <p>An excellent set-up means the big boys and girls on Wall Street are more inclined to buy and hold shares, not dump them. Once a strong chart pattern has been established, an IBD-targeting breakout offers traders the best opportunity to reap gains at the start of a potential big run.</p>
+      <p>So at this point, AMC stock is not a buy. At some point, a cup base will form, but it's too early to tell.</p>
+      <p>On the positive side, the recent low of 4.01 held above the prior low of 3.88. But will AMC keep marking higher lows in the coming months?</p>
+      <h3>Shares also need to do these four things now:</h3>
+      <ol>
+        <li>Rise above the 10-week moving average and stay above it. This hasn't happened yet in 2023 so far.</li>
+        <li>Overcome a large overhead supply of disgruntled holders ready to sell if the stock climbs back to around 6 to 8 a share. Plus, the February near-term high of 8.53 may emerge as the left-side lip of a deep bottoming base.</li>
+        <li>Present price-and-volume action that signals heavy accumulation by fund managers, not distribution. On the bright side, AMC has not posted a sharp loss in heavy weekly volume since early April.</li>
+        <li>Rebound above its still-falling 40-week moving average, which has sunk to 5.23 recently.</li>
+      </ol>
+      <h3>One More Key</h3>
+      <p>Finally, after you buy any stock with solid prospects, always heed the golden rule of investing. Keeping losses small keeps you in the investing game for the long haul.</p>
+    </div>
+  },
+  {
+    id: 636,
+    title: 'China Hedge Funds in Crisis After Losses, US Investor Retreat',
+    category: 'Markets',
+    subCategory: ['China', 'US', 'Investors'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Foreign investors are losing interest in China, and hedge funds that target the world’s second-biggest economy are paying the price.</p>
+    </div>,
+    authorName: 'Bei Hu and Nishant Kumar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 4:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692005759/ncx-blog-1068_gtr1ga.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Foreign investors are losing interest in China, and hedge funds that target the world’s second-biggest economy are paying the price.</p>
+    	<p>The number of active China-focused hedge funds has slipped for the first time since at least 2012, with only five new funds launched this year as of June, according to data from Preqin Ltd. Another 18 funds were liquidated, the data show.</p>
+    	<p>The contraction marks a major shift for offshore China hedge funds, which accounted for almost half of new funds in Asia as recently as 2021 as investors sought to ride the wave of the once high-flying economy and capital markets. Beijing’s crackdowns on private companies in industries including after-school tutoring and e-commerce, along with growing geopolitical tensions with the US, have led to weak returns since then and sapped global investors’ appetite for China assets.</p>	
+    	<p>“We definitely see less demand for China managers from both Asia and foreign investors,” said Otto Chan, head of portfolio management at Persistent Asset Partners Ltd., a 21-year-old fund of hedge funds firm.</p>
+      <p>Dantai Capital Ltd. shuttered its flagship Greater China hedge fund this year after concluding its investment strategy no longer worked in the current market environment. Tiger Management LLC-backed Yulan Capital Management also liquidated an Asia hedge fund focused on Greater China in late 2022, according to a newsletter.</p>
+      <p>China-focused hedge funds — stock pickers in particular — are facing an unprecedented second consecutive year of losses, according to Eurekahedge Pte data. More than two-thirds of China-focused hedge funds lost money in 2022, while 36% were down a fifth or more. In the first half of this year, 62% of China funds failed to make money, Preqin data showed.</p>
+      <p>China’s economic recovery is losing steam despite Beijing’s recent policy support, while geopolitical tensions with the US are showing little signs of letting up.</p>
+      <p>Managers put on a brave face in public, touting the country’s long-term growth potential and cheap valuation. In private, they bemoan the end of offshore China hedge funds, those that raise money from international investors to trade securities related to the country, said one of them.</p>
+      <p>Legends China Fund dropped 16% in the first seven months of 2023, after more than 20% losses in each of the last two years, according to a newsletter and a person with knowledge of the matter, who asked not to be identified discussing private information. Blue Creek China Fund was down 17% in the first half, struggling to end a losing streak that began in 2021, according to its June newsletter.</p>
+      <p>A representative for Legends declined to comment. Blue Creek didn’t reply to emails seeking comment.</p>
+      <p>Certain shared characteristics of offshore China funds made them particularly vulnerable to the latest regulatory and geopolitical headwinds.</p>
+      <p>Some 88% of the 417 China-focused hedge funds in Bloomberg’s database specialize in equity long-short, or taking bullish and bearish wagers on stocks. Out of those, two-fifths are long-biased. The strategy tends to fare better when the market is in an upswing. Many focused on investing in tech and e-commerce stocks.</p>
+      <p>Greater China equity long-short funds were down about 1% through July, with 11% reporting their figures, according to Eurekahedge.</p>
+      <p>The MSCI China Index has dropped 43% since the end of 2020, versus a 19% gain for the US S&P 500 Index over the same period.</p>
+      <p>Investors are seeing more political risks for their China investments and have become less confident about the long-term economic upside, said William Ma, global chief investment officer of GROW Investment Group, a Shanghai-based asset manager backed by Julius Baer Group Ltd.</p>
+      <p>Some investors who have been hurt by their China exposure for two years are waiting for a market rebound to reduce their holdings. With North American pensions scaling back existing allocations or putting future plans on hold, other investors are wary of being caught in the path of these outflows, said another long-time investor in Asia hedge funds, who asked not to be identified because of the political sensitivity of such comments.</p>
+      <p>Shifting Tactics</p>
+      <p>Facing this existential crisis, China managers are trying to adapt.</p>
+      <p>In the last three years, APS Asset Management Pte, which oversees $2.1 billion in China long-short and long-only strategies, has seen tepid interest from North American backers, especially among the public pensions, said President Ken Chung.</p>
+      <p>The Singapore-based company has in recent months redirected capital raising efforts to include the Middle East and South Africa. In the first half, it scored its maiden investors from these two geographies.</p>
+      <p>“We’ve grown up in a world where it’s a US-led global world order,” Chung said. “Going forward, it will be a two-sun solar system. One is US-led, one is China-led. And there will be planets that revolve around either one.”</p>
+      <p>Some managers who previously targeted international investors are pivoting toward a domestic audience, pitching funds that will trade regional or even stocks globally, said GROW’s Ma, declining to identify the firms.</p>
+      <p>As supply chains diversify away from China, others are touting their edge in a so-called “China+1” strategy. That involves tapping into the trend of Chinese companies building production facilities in places including Cambodia and India, or expanding sales outside of China and US markets, Ma said.</p>
+      <p>Certain past investment approaches such as momentum trading will have to change, said Chris Wang, chief investment officer of Yunqi Capital Ltd. in Hong Kong.</p>
+      <p>The “extremely high risk premium” investors attach to the China market may put company fundamentals, corporate governance and shareholder returns in the spotlight. The largest profit contributor to his China fund last year was TAL Education Group, which was sitting on cash levels that were twice as high as its market value when he built his stake, Wang said. His largest bullish bet now is on Qifu Technology Inc., which has been handing back half of its earnings to investors through dividends and share buybacks.</p>
+      <p>“Companies are sitting on a lot of cash. Investment opportunities and returns are not as attractive as they used to be,” he said. “So it’s logical to boost investor payout. It’s clearly going to be a major trend in the next five to 10 years.”</p>
+      <p>--With assistance from David Ramli.</p>
+    </div>
+  },
+  {
+    id: 635,
+    title: 'Aussie telecom firms Telstra, TPG will not appeal block of asset transfer deal',
+    category: 'Markets',
+    subCategory: ['Aussie', 'Telstra', 'TPG'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Australian telecom firms Telstra Group and TPG Telecom on Monday said separately they would not appeal the country's competition tribunal's decision to block an asset transfer deal between the two telecom giants.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 2:59 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692011483/ncx-blog-1073_ia6pst.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) - Australian telecom firms Telstra Group and TPG Telecom on Monday said separately they would not appeal the country's competition tribunal's decision to block an asset transfer deal between the two telecom giants.</p>
+    	<p>In June, the Australian Competition Tribunal upheld the competition regulator's decision to block the deal between the telecom firms, under which Telstra would have bought spectrum and transmission towers from TPG, while TPG would have kept selling 4G and 5G coverage using Telstra infrastructure.</p>	
+    	<p>The country's competition regulator had ruled against the asset transfer deal in December citing competition concerns and potentially impacting the no. 2 wireless internet provider Optus, owned by Singapore Telecommunications.</p>	
+    	<p>Telstra did not provide any details about its decision to not appeal the tribunal's decision in the exchange filing, and did not immediately respond to a Reuters request for further details.</p>
+      <p>TPG Telecom, which also did not provide any reason, said it would "continue to explore commercial options to expand its mobile network".</p>
+      <p>(Reporting by Sameer Manekar in Bengaluru; editing by Diane Craft)</p>
+    </div>
+  },
+  {
+    id: 634,
+    title: 'SoftBank Is in Talks to Buy Vision Fund’s Stake in Arm, Reuters Says',
+    category: 'Markets',
+    subCategory: ['SoftBank', 'vision', 'Fund'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- SoftBank Group Corp. is in discussions to purchase the 25% stake in Arm Ltd. it doesn’t directly own from Vision Fund 1, the $100 billion investment fund it raised in 2017, Reuters reported, citing people familiar with the matter.</p>
+    </div>,
+    authorName: 'Susanne Barton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 13, 2023 - 7:44 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692009640/ncx-blog-1072_sm2t9h.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- SoftBank Group Corp. is in discussions to purchase the 25% stake in Arm Ltd. it doesn’t directly own from Vision Fund 1, the $100 billion investment fund it raised in 2017, Reuters reported, citing people familiar with the matter.</p>
+    	<p>If the negotiations lead to a deal, investors in the fund including Saudi Arabia’s Public Investment Fund and Abu Dhabi’s Mubadala would be positioned for an immediate windfall, Reuters said.</p>	
+    	<p>The chip designer is targeting an initial public offering at a valuation of between $60 billion and $70 billion as soon as September, Bloomberg reported earlier this month. Several tech companies, including Amazon.com Inc., Intel Corp. and Nvidia Corp., have held talks to become anchor investors in the IPO, people familiar with the matter have said.</p>	
+    	<p>Raine Group is advising SoftBank on the negotiations, Reuters reported. Founder and Chief Executive Masayoshi Son recused himself from VF1’s deliberations on the matter so that the fund makes a decision independently in the interest of its investors, the people told the news service.</p>
+      <p>SoftBank, VF1 and Arm declined to comment to Reuters. Raine did not immediately respond to requests for comment from the news service.</p>
+    </div>
+  },
+  {
+    id: 633,
+    title: 'Saudi Arabia Plans to Issue $9.6 Billion in Sukuk After Buyback',
+    category: 'Markets',
+    subCategory: ['Saudi Arabia', 'Sukuk', 'Buyback'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Saudi Arabia has completed an early purchase of more than 35.7 billion riyals ($9.5 billion) of outstanding debt and will issue about 35.9 billion riyals in sukuk as the kingdom plans to bolster its domestic market.</p>
+    </div>,
+    authorName: 'Omar Tamo',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 13, 2023 - 6:58 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692007496/ncx-blog-1071_eyomza.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Saudi Arabia has completed an early purchase of more than 35.7 billion riyals ($9.5 billion) of outstanding debt and will issue about 35.9 billion riyals in sukuk as the kingdom plans to bolster its domestic market.</p>
+    	<p>The government bought a portion of its debt instruments maturing in 2024, 2025 and 2026, the National Debt Management Center said in a statement on Sunday. The buyback represents the largest early purchase transaction arranged by NDMC.</p>	
+    	<p>The Saudi government will issue new sukuk worth 35.9 billion riyals under the Local Saudi Sukuk Issuance Program, NDMC said. The program will be divided into four tranches, with issuances maturing in 2031, 2032, 2033 and 2038.</p>	
+    	<p>The initiative is part of NDMC’s efforts to strengthen the domestic market and “to keep up with market developments which have been reflected positively on the growing trading volume in the secondary market,” the agency said. The transaction will also align NDMC’s efforts with other initiatives to enhance public finances in the medium and long term.</p>
+      <p>HSBC Saudi Arabia, Al Rajhi Capital, SNB Capital, and AlJazira Capital have been appointed as joint lead managers to lead the transaction.</p>
+    </div>
+  },
+  {
+    id: 632,
+    title: 'Exclusive-SoftBank in talks to buy Vision Fund 25% stake in Arm -sources',
+    category: 'Markets',
+    subCategory: ['SoftBank', 'Fund', 'Vision'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) -SoftBank Group Corp is in talks to acquire the 25% stake in Arm Ltd it does not directly own from Vision Fund 1 (VF1), a $100 billion investment fund it raised in 2017, according to people familiar with the matter, potentially delivering a win for investors who have waited years for strong returns.</p>
+    </div>,
+    authorName: 'Echo Wang and Anirban Sen',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 13, 2023 - 6:56 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692007338/ncx-blog-1070_oprejc.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Echo Wang and Anirban Sen</p>
+    	<p>NEW YORK (Reuters) -SoftBank Group Corp is in talks to acquire the 25% stake in Arm Ltd it does not directly own from Vision Fund 1 (VF1), a $100 billion investment fund it raised in 2017, according to people familiar with the matter, potentially delivering a win for investors who have waited years for strong returns.</p>	
+    	<p>The discussions come as SoftBank, which currently owns 75% of Arm, is preparing to list the chip designer on Nasdaq next month at a valuation of $60 billion to $70 billion.</p>
+      <p>If the negotiations lead to a deal, the Japanese tech investor would be delivering a major, immediate windfall to VF1 investors, including Saudi Arabia's Public Investment Fund and Abu Dhabi's Mubadala. They nursed losses after many of SoftBank's bets on startups such as workspace provider WeWork Inc and ride-sharing firm Didi Global soured.</p>
+      <p>The alternative -- letting VF1 sell its Arm shares in the stock market over time following the initial public offering (IPO) -- would typically take at least one to two years given the size of the stake. It would also be more risky for the fund's investors since it is possible that Arm's shares could drop following the IPO.</p>	
+    	<p>VF1 returned to profitability in the latest quarter thanks to investors' excitement around artificial intelligence boosting the value of some of the startups in which it invested. Yet its previous losses prevented SoftBank from securing outside investors for Vision Fund 2 (VF2), whose $56 billion in capital came from the Japanese firm and its management, including Chief Executive Masayoshi Son.</p>
+      <p>A big windfall for VF1 investors could boost SoftBank's chances of tapping them for capital again in the future, though SoftBank currently has no plans to do so, according to the sources.</p>
+      <p>Son, who has hired investment bank Raine Group to advise SoftBank on the negotiations, has recused himself from VF1's deliberations on the matter so that the fund makes a decision independently in the interest of its investors, the sources said.</p>
+      <p>VF1's investment committee and SoftBank's investment advisory board, attended by fund investor representatives, are handling the negotiations, one of the sources added.</p>
+      <p>The exact valuation for Arm that the two sides are discussing for their transaction could not be learned, and the sources cautioned that it is possible that no agreement will be reached.</p>
+      <p>If a deal is inked, SoftBank would be selling fewer Arm shares in the IPO and would be likely retaining a stake of between 85% and 90%, according to the sources, who requested anonymity because the negotiations are confidential.</p>
+      <p>SoftBank, VF1 and Arm declined to comment. Raine did not immediately respond to requests for comment.</p>
+      <h3>CORNERSTONE INVESTORS</h3>
+      <p>Arm's IPO would be a boon not just for VF1 but also for SoftBank, which reported its third consecutive quarterly loss last week. It was hit by declines in the valuations of major holdings such as Chinese e-commerce firm Alibaba Group, German telecommunications company Deutsche Telekom and U.S. wireless carrier T-Mobile U.S..</p>
+      <p>SoftBank, which took Arm private for $32 billion in 2016, sold a 25% stake in the company to VF1 for $8 billion in 2017. SoftBank has also been in talks with several technology companies about bringing them onboard as cornerstone investors in Arm ahead of its IPO, including Amazon.com Inc, Reuters has reported.</p>
+      <p>SoftBank last week said VF1 delivered a gain of $12.4 billion on $89.6 billion of investments, while VF2 carried a $18.6 billion loss on $51.8 billion of investments.</p>
+      <p>The investment giant has been in "defense mode" since May 2022 after technology valuations crashed amid a rise in interest rates and economic uncertainty. But in June, Son said he was planning to shift to "offence" mode amid excitement over advances in artificial intelligence.</p>
+      <p>SoftBank began preparations for an IPO of Arm after a deal to sell the company to Nvidia Corp for $40 billion collapsed last year over objections from U.S. and European antitrust regulators.</p>
+      <p>Arm has been considering an offering up to $10 billion for its listing. Its plans to go public come as the U.S. IPO market shows signs of a recovery after an arid spell that lasted a year and a half, as major companies including grocery delivery service Instacart and marketing automation firm Klaviyo Inc get ready to list in New York.</p>
+      <p>Earlier this year, Arm rebuffed a campaign from the British government to list its shares in London and said it would pursue a flotation on a U.S. exchange.</p>
+      <p>Arm's business has fared better than the broader chip industry because it licenses designs rather than paying to make processing systems itself. Its technology has become ubiquitous in smart phones and data centers, delivering lucrative royalty payments. Yet demand for smart phones has weakened lately, weighing on Arm's earnings.</p>
+      <p>In a show of Arm's significance for its investment portfolio, SoftBank in April asked Arm Chief Executive Rene Haas to join its board of directors.</p>
+      <p>(Reporting by Echo Wang and Anirban Sen in New York; Editing by Greg Roumeliotis, Mark Porter and Diane Craft)</p>
+    </div>
+  },
+  {
+    id: 631,
+    title: 'Bond Market Sees No End to Tumult as Fed Casts a Hawkish Shadow',
+    category: 'Markets',
+    subCategory: ['Bond', 'Fed', 'Hawkish'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Across Wall Street, there’s growing relief that the Federal Reserve — at long last — may be done raising interest rates. But that doesn’t mean turbulence in the bond market will soon become a thing of the past.</p>
+    </div>,
+    authorName: 'Liz Capo McCormick, Michael Mackenzie and Ye Xie',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 13, 2023 - 12:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692006813/ncx-blog-1069_cck5dr.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Across Wall Street, there’s growing relief that the Federal Reserve — at long last — may be done raising interest rates. But that doesn’t mean turbulence in the bond market will soon become a thing of the past.</p>
+    	<p>Investors anticipate that US Treasuries will continue to be whipsawed by heightened volatility as economic uncertainty threatens to alter the central bank’s path or keep rates pinned higher for far longer than traders currently expect.</p>	
+    	<p>Already, some Fed officials are underscoring that there may still be more work to do as inflation continues to hold above their 2% target despite the most aggressive monetary policy tightening in four decades. At Barclays, strategists have advised clients to sell two-year Treasuries on anticipation that rates will remain elevated next year, bucking broader speculation that the Fed will initiate a series of rate cuts as soon as March. And benchmark 10-year yields — a baseline for the broader financial system — are pushing back toward last year’s highs.</p>	
+    	<p>“The rise in long-dated yields has been driven by the hawkish message from the Fed,” said Rob Waldner, chief strategist fixed income at Invesco. “The central bank is staying hawkish and that’s keeping uncertainty high.”</p>
+      <p>That uncertainty, along with an increase in new debt sales as the federal government contends with mounting deficits, has weighed on the bond market. Even with the sharp jump in interest rates, the overall Treasury market returned just 0.1% this year, according to Bloomberg’s index, far short of the big gains once expected to emerge when the end of the Fed’s hiking appeared in sight.</p>
+      <p>After the central bank’s policy meeting in July, when it raised its overnight rate by a quarter percentage point, Chair Jerome Powell emphasized that its decision at the next meeting in September would hinge on the data released over the next two months.</p>
+      <p>So far, the major reports have generally supported speculation that it will hold steady in September, with job growth cooling and signs of easing inflation. But the core consumer price index — which strips out volatile food and energy prices and is seen as a better measure of underlying inflation pressures — still rose at a 4.7% annual pace in July. On Friday, an index of producer prices also rose at a faster-than-expected pace, driving up Treasury yields across maturities.</p>
+      <p>In the coming week, traders will scour the release of the minutes from the July 25-26 FOMC meeting for clues on where policymakers see rates heading and any diverging views between them.</p>
+      <p>The annual gathering of global central bankers in later this month in Jackson Hole, Wyoming, will also be closely watched. It could give Powell a venue to push back on markets pricing in that the Fed will cut its key rate to around 4% by January 2025. It’s in a range 5.25-5.5% now.</p>
+      <p>“The committee is divided,” said Subadra Rajappa, head of U.S. rates strategy for Societe Generale. “The market pricing is showing a lack of conviction. Six cuts are priced in. These are not deep cuts. That’s a high-for-longer story. I cannot see a strong trade here.”</p>
+      <p>What Bloomberg Economics says...</p>
+      <p>“Minutes of the July 25-26 FOMC meeting, to be released Aug. 16, will show that a majority of Fed officials were encouraged by progress on disinflation, but not yet convinced the rate-hike cycle is over.”</p>
+      <p>— Anna Wong, chief US economist</p>
+      <p>— Read her full report, here</p>
+      <p>Even so, some investors have been pouring into the Treasury market, drawn by the higher interest rates and concern that this year’s stock market rally is unsustainable. That’s put US Treasuries on course for a record year of inflows, according to Bank of America Corp. strategists.</p>
+      <p>US Treasuries on Track for Record Year of Inflows, BofA Says</p>
+      <p>Kerrie Debbs, a certified financial planner at Main Street Financial Solutions, however, has been warning clients that bonds aren’t a sure-fire haven from risk and that the stock market’s push higher may not persist.</p>
+      <p>“There are still a whole host of events that could stall these positive market returns, including continuing inflation, perception of credit quality of US government debt, skyrocketing US budget deficits, political instability in the world and more,” said Debbs, who has around 50 clients and manages about $70 million in total assets.</p>
+      <h3>Economic calendar:</h3>
+      <ul>
+        <li>Aug. 15: Retail sales; Import/export prices; Empire Manufacturing; Business inventories; NAHB Housing Market Index; TIC flows</li>
+        <li>Aug. 16: MBA Mortgage Applications; building permits; housing starts; industrial production; FOMC meeting minutes</li>
+        <li>Aug. 17: Jobless claims; Philadelphia Fed Business Outlook; Leading Index</li>
+        <li>Aug. 18: Bloomberg US Aug. US economic survey</li>
+      </ul>
+      <h3>Fed calendar</h3>
+      <ul>
+        <li>Aug. 15: Minneapolis Fed President Neel Kashkari</li>
+        <li>Aug. 16: FOMC minutes released</li>
+      </ul>
+      <h3>Auction calendar:</h3>
+      <li>Aug. 14: 13- and 26-week bills</li>
+      <li>Aug. 15: 42-day cash management bills</li>
+      <li>Aug. 16: 17-week bills</li>
+      <li>Aug. 17: 4- and 8-week bills</li>
+    <p>--With assistance from Edward Bolingbroke and Farah Elbahrawy.</p>
+    </div>
+  },
+  {
     id: 630,
     title: 'US stocks rise after CPI shows inflation came in cooler than expected in July',
     category: 'Markets',

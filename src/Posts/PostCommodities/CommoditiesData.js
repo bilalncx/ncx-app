@@ -1,5 +1,203 @@
 const data = [
   {
+    id: 614,
+    title: 'Oil Falls as Concerns About China Spur Volatility Across Markets',
+    category: 'Commodities',
+    subCategory: ['Oil', 'China', 'MArket'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil declined in a volatile session where sentiment was being driven by renewed worries surrounding China’s property sector.</p>
+    </div>,
+    authorName: 'Yongchang Chin and Alex Longley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 4:48 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692021727/ncx-blog-1088_q0qal4.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil declined in a volatile session where sentiment was being driven by renewed worries surrounding China’s property sector.</p>
+    	<p>West Texas Intermediate fell near $82. Global markets were pressured on concerns around the debt of some Chinese developers, though there was some respite as one, Country Garden Holdings Co., is seeking to extend a maturing bond for the first time. China’s offshore yuan weakened and the dollar climbed, making commodities priced in the currency less appealing.</p>	
+    	<p>Crude has risen by about a quarter since its lows in June as OPEC+ linchpins Russia and Saudi Arabia curtailed supply. That’s helped push the market into a deficit of more than 2 million barrels a day this quarter, the producer group has estimated. Rising risks to flows of Russian crude through the Black Sea due to the war in Ukraine have also aided the gains.</p>	
+    	<p>At the same time, the outlook in the US has brightened as a growing number of economists — including the Federal Reserve’s own staff — now predict the country will escape a recession, which could buoy energy demand.</p>
+      <p>“Crude oil prices are pulling back this morning on China concerns,” said Bjarne Schieldrop, chief commodity analyst at SEB AB. “But Saudi Arabia is probably very happy with the overall situation. It has showed the oil market yet again who’s boss and the world will also need more of its oil in the coming months.”</p>
+      <p>A snapshot of conditions in China will come on Tuesday with industrial-production figures, including for the refining industry. The country, the world’s largest crude buyer, has been opening new plants, buoying import demand.</p>
+    </div>
+  },
+  {
+    id: 613,
+    title: 'Five Key Charts to Watch in Global Commodities This Week',
+    category: 'Commodities',
+    subCategory: ['Five', 'Global', 'Commodities'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- A year ago this week, US President Joe Biden signed into law the landmark Inflation Reduction Act, pouring hundreds of billions of dollars into efforts to respond to the climate crisis and boost the nation’s reliance on clean energy.</p>
+    </div>,
+    authorName: 'Sophie Caronello',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 4:43 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692021385/ncx-blog-1087_lrrd1g.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- A year ago this week, US President Joe Biden signed into law the landmark Inflation Reduction Act, pouring hundreds of billions of dollars into efforts to respond to the climate crisis and boost the nation’s reliance on clean energy. This year, the world has seen devastating wildfires, extreme weather and war combine to further destabilize food and energy markets and push power grids to their limits.</p>
+    	<p>Here are five notable charts — actually, one is a map — to consider in global commodity markets as the week gets underway.</p>	
+    	<h3>Emissions</h3>	
+    	<p>Wednesday marks the anniversary of the climate law that has channeled upwards of $370 billion into clean-energy initiatives as the US aims to reduce its carbon footprint. Under current policies, the country is set to drive emissions of harmful greenhouse gases to 32%-51% below 2005 levels in 2035, according to an annual analysis by Rhodium Group. By 2030, the US is on track to achieve a 29%-42% reduction — a notable improvement from previous forecasts, but not enough to meet its pledge under the Paris Agreement, the group’s data show. This puts greater emphasis on additional policies by states and local governments, as well as the private sector, to help achieve the ambitious targets.</p>
+      <h3>Climate</h3>
+    	<p>July was officially Earth’s hottest month on record, according to the European Union’s Copernicus Climate Change Service. In the US, four states — Arizona, Florida, Maine and New Mexico — set fresh records last month, data from the National Oceanic and Atmospheric Administration released Aug. 8 show. With blistering heat prevailing again this month, power grids — as well as crops like wheat, corn and soybeans — will most certainly continue to come under pressure. Biden recently said the extreme heat is costing the US $100 billion a year.</p>	
+    	<h3>Agriculture</h3>
+      <p>The combination of India’s decision to ban a large portion of its rice exports and the increasing threat of an El Niño weather pattern on harvests in key producers has sent prices of the grain surging. Benchmark Thai white rice jumped to $648 a ton last week and is on course for the biggest monthly advance since January 2018, threatening the availability of a food staple for billions in Asia and Africa. With robust demand and shrinking supplies ahead, rice’s rampant rally looks set to continue.</p>
+      <h3>Oil</h3>	
+    	<p>US oil production is set to grow faster than previously forecast, according to the latest government data. That’s welcome relief to a market that has tightened in the wake of Saudi Arabia’s output cuts, which are set to extend at least into September, and those of Russia. And despite growing evidence of a warming planet, global oil demand has never been stronger. World consumption averaged 103 million barrels a day for the first time in June amid robust Chinese demand, strong summer air travel and increased use in power generation, the International Energy Agency said Friday. That should support further price gains in the months ahead. Both West Texas Intermediate and Brent futures — the global benchmark — edged lower Monday after coming off their seventh straight weekly advance.</p>
+      <h3>Natural Gas</h3>
+      <p>Traders will be focused on whether strikes materialize at three major liquefied natural gas facilities in Australia, which threaten to disrupt about 10% of global LNG exports. While Europe rarely receives LNG from Australia, the potential shortage will impact Asia buyers, who would need to compete with the continent for replacement cargoes. Even though Europe has built up much higher inventories than usual for the time of year — and sources its LNG from a wide variety of suppliers — benchmark natural gas prices surged last week by the most since June as concerns re-emerged over the continent’s ability to secure enough supplies ahead of winter should a squeeze emerge in Asia. Prices edged lower on Monday.</p>
+      <p>--With assistance from Jennifer A. Dlouhy, Alex Tanzi and Ruth Liao.</p>
+    </div>
+  },
+  {
+    id: 612,
+    title: '11 Cheap Gold Stocks To Buy According to Analysts',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Stocks', 'Cheap'],
+    description: <div className="blog-desc">
+      <p>In this article, we discuss the 11 cheap gold stocks to buy according to analysts. To skip the detailed analysis of the gold industry, go directly to the 5 Cheap Gold Stocks To Buy According to Analysts.</p>
+    </div>,
+    authorName: 'Affan Mir',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 3:02 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692020277/ncx-blog-1086_wcibm2.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>In this article, we discuss the 11 cheap gold stocks to buy according to analysts. To skip the detailed analysis of the gold industry, go directly to the 5 Cheap Gold Stocks To Buy According to Analysts.</p>
+    	<p>Gold is considered one of the biggest safe haven assets. In 2022, the international demand for gold was around 3,303 metric tons which shows a significant improvement from 2020 when the pandemic triggered a drop in gold demand to 2,301 metric tons, the lowest since 2010. China and India are the countries with the highest gold consumption as of 2022.</p>	
+    	<p>Despite being considered an inflation hedge, gold has shown a high amount of volatility. One of the main reasons is that interest rate hikes have an adverse effect on the prices of precious metals. However, 2023 has been a good year for gold and its per-ounce price rose by 5.4% in the first half of 2023, closing at $1,912.25 per ounce in June. We can see that the gold rates are rising even with the rising interest rates which usually isn’t the case for precious metals. This can be attributed to the fact that investments in gold are considered to be more secure and safe during economic crises. At the time of writing on August 2, per ounce gold price closed at $1934.50.</p>	
+    	<p>According to an Invesco survey of the central bank and sovereign wealth funds, several countries are retrieving their gold stored outside of their countries in light of sanctions imposed by the West on Russia. Around 60% of the survey participants believe gold to be more attractive and 68% of the participants were keeping reserves in their country, up from 50% in 2020.</p>
+      <h3>Industry Outlook</h3>
+      <p>At the end of June, the European Central Bank and the Bank of England increased interest rates, while the US Federal Reserve took a break from the hike only to raise it by 25 bps in July. Experts believe that the hikes are nearing an end which bears good news for precious metals, including gold and silver.</p>	
+    	<p>Nevertheless, the recession fears have slightly eased but still aren’t over and during these times gold’s intrinsic value is much more attractive than other investments such as stocks and bonds. While all other stocks and bonds become a little unappealing, gold stocks can be expected to do well due to the rising demand for yellow metal.</p>
+      <p>Moreover, companies like Centerra Gold Inc. (NYSE:CGAU) and Newmont Corporation (NYSE:NEM) seem quite positive about their H2 2023 performance in terms of revenue and production. At its Q2 2023 earnings call, Newmont Corporation (NYSE:NEM)’s Chief Executive Officer, Tom Palmer said:</p>	
+    	<p>“As planned, higher gold production is expected in the second half of the year, and will be driven by higher grades and tonnes mined from both Subika Underground and open pit at Ahafo. Higher grades and tonnes mined Cerro Negro is the first wave of our district expansion which comes online in the third quarter. Higher tonnes mined and processed at Tanami, where we will mine the highest grades for the year in the fourth quarter.”</p>
+      <h3>Our Methodology</h3>
+      <p>For this article, we chose 11 companies that have significant operations in the gold industry based on their average analyst price targets as of the August 2 market close. We omitted the companies with less than $1 billion market cap and only chose the companies that had more Buy or Overweight ratings than Hold and Sell. The stocks in this article have been listed in ascending order of the upside potential based on their average analyst price targets. The average analyst price targets were taken from Tipranks.</p>	
+    	<p>For a better understanding of these stocks, we also discussed the hedge fund sentiment of most of these stocks which was taken from Insider Monkey’s database of 943 elite hedge funds.</p>
+      <h3>Cheap Gold Stocks To Buy According to Analysts</h3>
+      <p>Agnico Eagle Mines Limited (NYSE:AEM)</p>	
+    	<p>Upside: 27.60%</p>
+      <p>Average Price Target: $62.04</p>	
+    	<p>Agnico Eagle Mines Limited (NYSE:AEM) is a gold production company operating in Canada, Finland, Australia, and Mexico. In the US, the company is involved in exploration and development activities. Agnico Eagle Mines Limited (NYSE:AEM) was founded in 1953 and is headquartered in Ontario, Canada.</p>
+      <p>In the last three months, Agnico Eagle Mines Limited (NYSE:AEM) has been covered by 7 analysts and all of them maintain a Buy or Overweight rating on the company stock. The average analyst price target of $62.04 represents a 27.60% upside to Agnico Eagle Mines Limited (NYSE:AEM)’s stock price of $48.62 at the August 2 market close.</p>	
+    	<p>In the second quarter, Agnico Eagle Mines Limited (NYSE:AEM) reported a non-GAAP EPS of $0.65, exceeding the analysts’ expectations by 9 cents. The company’s revenue of $1.72 billion represented an almost 9% year-over-year growth after the company achieved record gold production. Agnico Eagle Mines Limited (NYSE:AEM)’s gold production in Q2 2023 was 1.686 million ounces compared to 1.519 million ounces in Q2 2022.</p>
+      <p>Sibanye Stillwater Limited (NYSE:SBSW), B2Gold Corp. (NYSE:BTG), and Sandstorm Gold Ltd. (NYSE:SAND) are some of the cheap gold stocks according to analysts along with Agnico Eagle Mines Limited (NYSE:AEM).</p>	
+    	<p>Old West Management made the following comment about Agnico Eagle Mines Limited (NYSE:AEM) in its Q4 2022 investor letter:</p>
+      <p>“Agnico Eagle Mines Limited (NYSE:AEM) is the third largest gold miner in the world with mines in Canada, Australia, Finland, and Mexico. Although we have long respected the company, we became shareholders when they acquired our portfolio holding, Kirkland Lake Gold. Agnico chairman Sean Boyd is one of the most respected executives in the mining industry. He was appointed CEO in 1998 and was recently appointed Executive Chairman. Boyd is a large shareholder and perfectly fits our owner/manager role. This year the company is projected to make nearly $1 billion in net income on $5.8 billion in revenue with $758 million of free cash flow. Net income has been growing 15% per year for several years. Agnico has a fortress balance sheet with $1.3 billion of long term debt, which is only 2 times EBITDA, and $820 million cash in the bank. The stock trades at $55 per share, which is 26 times earnings with a 2.9% dividend yield.”</p>	
+    	<h3>Wheaton Precious Metals Corp. (NYSE:WPM)</h3>
+      <p>Upside: 30.28%</p>
+      <p>Average Price Target: $55.07</p>	
+    	<p>Wheaton Precious Metals Corp. (NYSE:WPM) is a Canadian precious metals production company. As of December 2022, the company has proven and probable gold reserves of 13.90 million ounces, 489.2 million ounces of silver, 33.2 million pounds of cobalt, 600,000 ounces of palladium, and 170,000 ounces of platinum.</p>
+      <p>Wheaton Precious Metals Corp. (NYSE:WPM)’s latest growth prospect is its gold stream agreement with Lumina Gold for the Cangrejos gold-copper mine in Ecuador for $300 million. Wheaton Precious Metals Corp. (NYSE:WPM) is expected to buy 6.6% of Cangrejos gold-copper mined till the delivery of 700,000 ounces of gold, which will then be reduced to 4.4% of the gold production till the mine exhausts. The life of the mine is expected to be 26 years.</p>
+      <p>Wheaton Precious Metals Corp. (NYSE:WPM) has been covered by 8 analysts in the last three months with 5 Buy and 3 Hold ratings and an average price target of $55.07 compared to $42.27 at the August 2 market close.</p>	
+    	<p>White Falcon Capital Management made the following comment about Wheaton Precious Metals Corp. (NYSE:WPM) in its second quarter 2023 investor letter:</p>
+      <p>“Precious Metals Royalty basket (Wheaton Precious Metals Corp. (NYSE:WPM), SSL, TFPM): In the current macroeconomic environment, there are many ways to ‘win’ with gold. It is remarkable that even with record positive real yields, gold is flirting with all time highs. Why? Western central banks are increasing interest rates which means that they will have to pay more interest on the record levels of debt that their government’s owe. Where will the money come from to pay the higher interest expense? The answer is simple – more debt and more money printing! We believe the gold knows this! We believe that precious metals will protect real purchasing power and act as a hedge to the portfolio when macroeconomic uncertainty arises. Owning royalty companies at reasonable valuations gives us a high quality exposure to precious metals without project or cost inflation risks inherent in a mining company.”</p>
+      <h3>Newmont Corporation (NYSE:NEM)</h3>
+      <p>Upside: 32.71%</p>	
+    	<p>Average Price Target: $53.96</p>
+      <p>Newmont Corporation (NYSE:NEM) is a mining company primarily focusing on gold. The company also produces copper, silver, zinc, and lead. Its gold mines are located in the US, Canada, Mexico, Argentina, Peru, Australia, Ghana, the Dominican Republic, and the Republic of Suriname. Based on the coverage by 11 analysts, Newmont Corporation (NYSE:NEM)’s average price target stands at $53.96, registering an upside of 32.71% from its stock price at the market close of August 2.</p>
+      <p>Newmont Corporation (NYSE:NEM) was held by 52 hedge funds in Q1 2023 at a combined value of $628.372 million. First Eagle Investment Management was its most prominent hedge fund holder for the first quarter in a row with over 18.43 million shares worth $903.453 million.</p>	
+    	<p>On July 20, Newmont Corporation (NYSE:NEM)’s Board of Directors announced a $0.40 quarterly dividend payable by September 21 to the shareholders of record on September 7. At the time of writing on August 2, the company has a dividend yield of 3.94%.</p>
+      <h3>SSR Mining Inc. (NASDAQ:SSRM)</h3>
+      <p>Upside: 38.49%</p>
+      <p>Average Price Target: $19.97</p>	
+    	<p>SSR Mining Inc. (NASDAQ:SSRM) is a Colorado-based mining company formerly known as Silver Standard Resources. The company’s products include gold, silver, copper, lead, and zinc. SSR Mining Inc. (NASDAQ:SSRM) has been covered by 3 analysts in the last three months and all of them maintain a Buy or Outperform rating on the stock. Their average price target of $19.97 represents a 38.5% upward change from the August 2 market close stock price of $14.42, bringing the company to the 8th spot on our list of cheap gold stocks to buy according to analysts.</p>
+      <p>SSR Mining Inc. (NASDAQ:SSRM) is expected to increase its gold and copper production after it announced the acquisition of 40% interest and immediate operational control in the Hod Maden gold-copper development project. The production from the mine is expected to start in 2027 and will likely add attributable 80,000 gold equivalent ounces and $66 million in free cash flow annually for SSR Mining Inc. (NASDAQ:SSRM).</p>
+      <h3>Osisko Gold Royalties Ltd (NYSE:OR)</h3>
+      <p>Upside: 41.80%</p>	
+    	<p>Average Price Target: $19.88</p>
+      <p>Osisko Gold Royalties Ltd (NYSE:OR) holds royalties on gold, silver, and diamond mines. The company’s business model is one of its most attractive features. Most of the company’s revenues are generated through royalties which lower the company’s expenses and allow high margins.</p>
+      <p>On July 28, Osisko Gold Royalties Ltd (NYSE:OR) announced that it has entered into a binding agreement to acquire a 1% copper net smelter return royalty and a 3% gold net smelter return royalty from Chile’s Hot Chili Ltd.'s Costa Fuego copper-gold project. The acquisition is valued at $15 million. This deal can become a significant growth catalyst for Osisko Gold Royalties Ltd (NYSE:OR). According to the company, Hot Chili’s preliminary economic assessment forecasts the mine’s life at 16 years and it is expected to produce 49,000 ounces of gold and 95 kilotonnes of copper per annum for the first 14 years.</p>	
+    	<p>Osisko Gold Royalties Ltd (NYSE:OR)’s average analyst price target of $19.88 shows a 41.8% upside to the company’s August 2 market close stock price of $14.02. Out of 4 analysts that have covered the company, 3 maintain a Buy or Overweight rating on Osisko Gold Royalties Ltd (NYSE:OR)’s stock.</p>
+      <p>Palm Valley Capital Management made the following comment about Osisko Gold Royalties Ltd (NYSE:OR) in its Q1 2023 investor letter:</p>
+      <p>“We did not purchase any new holdings for the Fund during the first quarter. In January, we sold one position: Osisko Gold Royalties Ltd (NYSE:OR). Osisko reported record royalty and streaming revenues as it has steadily grown its portfolio of assets, which is skewed toward Canada—considered to be the highest quality jurisdiction for miners. The company recently deconsolidated the results of mining developer Osisko Development from its financials, clarifying Osisko Royalties’ business model for less familiar investors. Each quarter, we update the company’s NAV based on the underlying value of each of its key royalty and streaming interests, in addition to the net financial assets it holds. Osisko’s share price exceeded our estimate of NAV, so we sold the position.”</p>
+      <h3>Pan American Silver Corp. (NYSE:PAAS)</h3>
+      <p>Upside: 41.87%</p>
+      <p>Average Price Target: $22.26</p>
+      <p>Pan American Silver Corp. (NYSE:PAAS) is a gold, silver, zinc, copper, and lead mining company headquartered in Vancouver, Canada. The company operates in Mexico, Peru, Bolivia, and Argentina. The average analyst price target of $22.26 shows a 41.87% change in Pan American Silver Corp. (NYSE:PAAS)’s August 2 stock price and takes the 6th spot on our list of cheap gold stocks.</p>
+      <p>Pan American Silver Corp. (NYSE:PAAS) stock was held by 19 hedge funds in Q1 2023. In the quarter, Arctis Global, Springbok Capital, LMR Partners, Sciencast Management, and Contrarius Investment Management added the company stock to their investment portfolio.</p>
+      <p>On July 31, Pan American Silver Corp. (NYSE:PAAS) announced the sale of its 56.25% stake in the Argentinian Mara copper project to Glencore (GLCNF) for $475 million in cash and net smelter return royalty of 0.75%. Pan American Silver Corp. (NYSE:PAAS) also agreed to sell two of its other non-core assets in Peru and Chile.</p>
+      <p>Pan American Silver Corp. (NYSE:PAAS) is one of the most noteworthy cheap gold stocks to buy according to analysts along the likes of Sibanye Stillwater Limited (NYSE:SBSW), B2Gold Corp. (NYSE:BTG), and Sandstorm Gold Ltd. (NYSE:SAND).</p>
+    </div>
+  },
+  {
+    id: 611,
+    title: 'Oil slips as China worries, stronger dollar weigh',
+    category: 'Commodities',
+    subCategory: ['Oil', 'China', 'Dollar'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) -Oil prices slipped about 1% on Monday as concerns about China's faltering economic recovery and a stronger dollar, after seven weeks of gains driven by tightening supply from OPEC+ cuts.</p>
+    </div>,
+    authorName: 'Natalie Grover',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023 - 4:53 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692020018/ncx-blog-1085_t5ztkp.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Natalie Grover</p>
+    	<p>LONDON (Reuters) -Oil prices slipped about 1% on Monday as concerns about China's faltering economic recovery and a stronger dollar, after seven weeks of gains driven by tightening supply from OPEC+ cuts.</p>	
+    	<p>Brent crude futures slipped 93 cents, or about 1.1% to $86.46 a barrel by 1237 GMT while U.S. West Texas Intermediate crude fell $1.03, or roughly 1.2%, to $82.81 a barrel.</p>	
+    	<p>"Crude has been in overbought territory for some time now, defying expectations of a correction. It has been singularly focused on U.S. economic optimism, to the exclusion of the increasingly stronger headwinds blowing in the eurozone and China," said Vandana Hari, founder of oil market analysis provider Vanda Insights.</p>
+      <p>"A rebalancing is overdue but it may need a reality check in the markets stateside," she said.</p>	
+    	<p>China's sluggish economic recovery and a stronger U.S. dollar could depress prices, but OPEC+ has indicated it would do whatever it takes to tighten supply and stabilise markets, CMC Markets analyst Tina Teng said.</p>	
+    	<p>The U.S. dollar index extended gains after a slightly bigger increase in U.S. producer prices in July lifted Treasury yields despite expectations the Federal Reserve is at the end of hiking interest rates. [FRX/]</p>
+      <p>A stronger dollar pressures oil demand by making the commodity more expensive for buyers holding other currencies.</p>	
+    	<p>Meanwhile, supply cuts by Saudi Arabia and Russia, part of the alliance between the Organization of the Petroleum Exporting Countries and their allies, or OPEC+, are expected to erode oil inventories over the rest of this year, potentially driving prices even higher, the International Energy Agency said in its monthly report on Friday.</p>	
+    	<p>Last week’s encouraging demand estimates, falling OPEC supply, declining inventories and mitigated inflationary pressure, said Tamas Varga of oil broker PVM, "is a warning signal that unless China joins the party the path upwards will be paved with pitfalls".</p>
+      <p>Separately on Monday, a Shell spokesperson said exports of Nigeria's Forcados crude oil resumed on Sunday, roughly a month after loadings of the medium sweet grade were suspended because of a potential leak at the export terminal.</p>
+      <p>The suspension of Forcados loadings contributed to Nigeria becoming the second-biggest contributor to the drop in OPEC crude oil output in July, a Reuters survey showed.</p>
+      <p>(Reporting by Natalie Grover in London; Additional reporting by Florence Tan in Singapore and Mohi Narayan in New Delhi; editing by Sonali Paul and Jason Neely)</p>
+    </div>
+  },
+  {
+    id: 610,
+    title: '3 Crucial Catalysts Could Push Devon Energy Dividend a Lot Higher in 2024',
+    category: 'Commodities',
+    subCategory: ['Energy', 'Dividend', 'Higher'],
+    description: <div className="blog-desc">
+      <p>After falling this year, Devon Energy's dividend appears poised to rebound in the coming quarters.</p>
+    </div>,
+    authorName: 'Matthew DiLallo, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 12, 2023 - 4:42 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692019651/ncx-blog-1084_wkcvjt.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>After falling this year, Devon Energy's dividend appears poised to rebound in the coming quarters.</p>
+    	<p>Devon Energy's (DVN -0.69%) innovative dividend has been on a steep downward trend over the past year. After peaking at $1.55 per share following last year's second quarter, the company's combined fixed-plus-variable dividend payment has declined for four straight quarters. It will only be $0.49 per share following this year's second quarter.</p>	
+	    <p>However, better days appear to be ahead for Devon Energy's dividend. A trio of catalysts could give the oil stock the fuel to pay higher dividends in 2024.</p>	
+    	<h3>Oil prices are rebounding (and could continue rallying)</h3>
+      <p>Devon Energy sold its oil at an average price of $71.74 per barrel during the second quarter. That's down from an average of $95.80 per barrel in the year-ago period. The more than 25% decline in crude prices put downward pressure on Devon's cash flow, which fuels its variable dividend.</p>
+      <p>However, crude oil prices have rebounded over the last few weeks. WTI, the primary U.S. oil benchmark price, has risen more than 8% in the past month and was recently around $83 per barrel. The big driver has been continued healthy demand and extra production cuts by OPEC.</p>
+      <p>Those two factors could continue pushing crude prices higher. Analysts expect that there will be a wide gap between global supplies and demand over the next few months, which will enable the economy to burn off excess inventory. Many oil market forecasters believe this could push oil prices up over $90 a barrel by early next year. Higher oil prices would provide a lift to Devon Energy's cash flow.</p>
+      <h3>Growing oil production</h3>
+      <p>Devon Energy is putting itself in an even better position to capitalize on higher crude prices by growing its production. The company's oil production reached an all-time high of 323,000 barrels per day (BPD) during the second quarter, an 8% increase from the year-ago period. It benefited from recent acquisitions and newly drilled wells in the oil-rich Delaware Basin.</p>
+      <p>The oil company expects its crude output to continue rising. It sees production increasing to as much as 330,000 BPD in the third quarter, fueled by recently completed wells. The company's oil production should continue rising in the coming quarters as it drills and completes additional wells. Higher oil production will grow its cash flow, especially if prices continue to rise.</p>
+      <h3>Cost inflation is moderating</h3>
+      <p>Falling oil prices weren't the only headwind impacting Devon Energy's free cash flow this year. The company also took a hit from higher costs as inflation drove up oilfield service prices, increasing capital expenses.</p>
+      <p>However, those headwinds are starting to fade. CEO Rick Muncrief commented on this trend on the second-quarter conference call. He stated:</p>
+      <p><strong>Our business is also beginning to benefit from service cost deflation as contracts are refreshed. This is driven by reduced activity from natural gas-focused companies and private producers over the past few months, resulting in improved availability of services and cost deflation in virtually every category.</strong></p>
+      <p>The CEO expects these deflationary trends to continue. That will provide meaningful savings, which will flow through over the next year. The company expects to maintain its cost discipline, enabling those savings to accrue to investors through higher free cash flow, the bulk of which it will return to shareholders through variable dividends and share repurchases.</p>
+      <h3>Setting up for a strong year in 2024</h3>
+      <p>While it's still early, Devon Energy appears poised to produce more free cash flow next year, fueled by higher oil prices, increased oil production, and cost deflation. That will give it more money to pay variable dividends, given its framework of paying out 50% of its free cash each quarter. These catalysts make now seem like a compelling time to buy shares of Devon Energy to potentially cash in on a higher dividend next year.</p>
+      <h3>Should you invest $1,000 in Devon Energy right now?</h3>
+      <p>Before you consider Devon Energy, you'll want to hear this.</p>
+      <p>The Motley Fool Stock Advisor analyst team just revealed what they believe are the 10 best stocks for investors to buy right now... and Devon Energy wasn't one of them.</p>
+    </div>
+  },
+  {
     id: 609,
     title: 'Oil Holds Near $83 as IEA Sees Consumption at a Record',
     category: 'Commodities',
