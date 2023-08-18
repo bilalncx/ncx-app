@@ -1,5 +1,155 @@
 const data = [
   {
+    id: 625,
+    title: 'USD/JPY Forecast – US Dollar Continues to Look Upwards',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>In the USD/JPY pair, current signs lean towards a potential upward climb. This upward tilt isn’t surprising when considering the interest rate differences between the respective central banks. With the Bank of Japan showing no inclination towards tightening its monetary stance, this rate disparity remains a pivotal player in shaping market trends. Given this backdrop, I anticipate a potential move towards the ¥147.50 level, and if sustained, we could even see an eventual approach to the ¥150 mark over time.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 6:51 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692351762/ncx-blog-1098_yatxui.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+    	<p>In the USD/JPY pair, current signs lean towards a potential upward climb. This upward tilt isn’t surprising when considering the interest rate differences between the respective central banks. With the Bank of Japan showing no inclination towards tightening its monetary stance, this rate disparity remains a pivotal player in shaping market trends. Given this backdrop, I anticipate a potential move towards the ¥147.50 level, and if sustained, we could even see an eventual approach to the ¥150 mark over time.</p>
+    	<p>Digging deeper, the market has a sturdy bedrock of support. Observers should recognize that the market may have currently reached a somewhat exaggerated point. Thus, a significant pullback, offering a valuable entry opportunity, is on my radar. While there’s potential for this value to appear at reduced levels, I’m skeptical about becoming a seller in the current market landscape, even if a pullback does occur.</p>	
+    	<p>An essential aspect to consider is the 50-Day Exponential Moving Average hovering near the ¥142.50 mark. Its upward curve suggests potential dynamic support. However, its closeness to the current trade values might limit its capacity to sway prices substantially. Given these conditions, my expectation leans towards the market seeking foundational support during any pullbacks. The overarching perspective seems to favor buying on downturns, foreseeing a broader upward momentum persisting over time.</p>
+      <p>Selling the USD/JPY pair, given the prevailing conditions, appears less enticing. It’s hard to picture a strategic advantage in selling, but it’s always wise to keep all possibilities on the table. If the market were to slide below the ¥140 level, it’d be crucial to reassess our stance. However, any dramatic directional shift seems largely dependent on any policy changes either from the Federal Reserve or the Bank of Japan.</p>	
+    	<p>To wrap up, the relationship between the US dollar and the Japanese yen is characterized by a web of intricacies. The balancing act between interest rate gaps, technical indicators, and the postures of central banks makes the market a challenging puzzle. Traders venturing into this arena need to remain sharp, relying on informed judgment and strategic maneuvering. It’s vital to be attuned to shifts in sentiment, policy decisions, and technical support markers, as these will be instrumental in dictating the future course of the pair.</p>
+    </div>
+  },
+  {
+    id: 624,
+    title: 'GBP/USD Forecast – British Pound Rises Against USD',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound showcased modest gains in Thursday’s trading, eyeing a potential rise beyond the 50-Day Exponential Moving Average. Yet, the market’s movements remain predictably unpredictable, emphasizing the need for careful strategy formulation. Interestingly, the pound has stayed its upward course against the US dollar, even amidst a recent two-week consolidation phase. After all, we rose a bit during the day, and therefore the market is at a crossroads.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 6:47 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692351478/ncx-blog-1097_brtg7k.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs US Dollar Technical Analysis</h3>
+	    <p>The British pound showcased modest gains in Thursday’s trading, eyeing a potential rise beyond the 50-Day Exponential Moving Average. Yet, the market’s movements remain predictably unpredictable, emphasizing the need for careful strategy formulation. Interestingly, the pound has stayed its upward course against the US dollar, even amidst a recent two-week consolidation phase. After all, we rose a bit during the day, and therefore the market is at a crossroads.</p>
+	    <p>Central to our understanding here is the broader risk sentiment among global traders. It’s clear that the pound’s steady rise is poised for a resurgence, hinting at a possible market rally. However, current indicators suggest that we might have to wait for a definitive upswing. A substantial upward push, one that tops the highs of the previous week—especially those seen on Thursday—could be the spark that drives the market closer to the 1.30 benchmark. This could solidify the upward momentum we’ve been witnessing.</p>	
+    	<p>Delving deeper, an evident uptrend line emerges as crucial, revealing its significant influence. This, combined with the 200-Day Exponential Moving Average, forms a robust support area. While there’s always a chance of a downward break, such a scenario appears remote for now. Even amidst the market’s recent sidesteps and fluctuations, the pound stands strong and continues to be a preferred choice in global currency circles.</p>	
+    	<p>Considering the present erratic market movements, a tempered approach to positions is recommended. The existing volatility presents challenges, demanding thoughtful strategies. It’s essential to recognize the ongoing holiday mood across major trading entities. This means that major market swings might be on the back burner for now. Given this quieter period, my stance is neither too bullish nor bearish.</p>
+      <p>To sum up, the pound’s trajectory suggests a cautious yet upward trend in the trading world. The immediate target seems to be surpassing the 50-Day EMA, set against the backdrop of the ever-changing market landscape. Its continued rise against the US dollar is noteworthy, with the current pause likely being a brief halt before the next phase. As we wade through this market, staying alert to changes in risk sentiments and technical markers is vital. Especially in this festive season, a methodical approach, coupled with readiness for sudden volatility, will be the key to navigating the market’s complexities.</p>
+    </div>
+  },
+  {
+    id: 623,
+    title: 'GBP/JPY Forecast – British Pound Continues to Crush Yen',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>This upward push, especially after multiple tries, highlights the growing preference among traders for a “buy on the dips” strategy. This approach anticipates momentary downturns, aligning with the currency’s likely continued ascent. As a result, many are steering clear of shorting this pair. Significantly, the 50-Day Exponential Moving Average, situated around ¥180, stands as a testament to the bullish momentum’s strength.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 6:43 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692350960/ncx-blog-1096_r6yf9f.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>This upward push, especially after multiple tries, highlights the growing preference among traders for a “buy on the dips” strategy. This approach anticipates momentary downturns, aligning with the currency’s likely continued ascent. As a result, many are steering clear of shorting this pair. Significantly, the 50-Day Exponential Moving Average, situated around ¥180, stands as a testament to the bullish momentum’s strength.</p>
+	    <p>A look at the trading chart hints at a forthcoming move towards the ¥190 level, yet it’s crucial to recognize the challenges of such a trek. On an extended horizon, aiming for the ¥200 level seems like a viable long-term ambition. While this jump might seem ambitious, the interest rate difference between the UK and Japan plays a pivotal role in driving up the pound’s value. Given this backdrop, the upward momentum looks set to persist, encouraging traders to hold onto their positions. This dynamic, especially the attractive financing rates, isn’t something large financial institutions will miss out on.</p>	
+	    <p>Temporary downturns should be expected. These offer avenues for traders to identify and capitalize on market value, especially given the bullish streak observed in recent weeks. The breakthrough beyond the significant ¥185 resistance—now likely a support level—might come with some market noise. It seems almost inevitable, though, that the pound is set to soar even higher in time. The market pulling back in this environment will more likely than not be short term opportunities that should be taken advantage of. I have no interest in shorting this pair for the foreseeable future.</p>	
+    	<p>To wrap up, the British pound’s recent performance paints a picture of bullish momentum intertwined with tactical support thresholds. The push beyond ¥185 is a pivotal move, echoing the prevailing “buy on the dips” sentiment among the trading community. The envisioned short-lived downturns only cement this viewpoint further. While the road to ¥190 and potentially further looks promising, the pound’s appeal largely hinges on the nuances of interest rate disparities. As the market wades through periodic downturns, the scene offers a plethora of opportunities to capitalize on the dominant bullish trend. Amid these dynamics, a keen focus on pivotal markers, like the ¥185 level, will guide traders in this ever-evolving market landscape.</p>
+    </div>
+  },
+  {
+    id: 622,
+    title: 'AUD/USD Forecast – Australian Dollar Pushes Into Support',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has plunged a bit during the trading session on Thursday, to breakdown below the 0.64 level before turning around and showing signs of life. In fact, we are in the midst of a major bounce as I record this video, so it will be interesting to see how this plays out.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 6:40 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692350644/ncx-blog-1095_nstpmv.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has plunged a bit during the trading session on Thursday, to breakdown below the 0.64 level before turning around and showing signs of life. In fact, we are in the midst of a major bounce as I record this video, so it will be interesting to see how this plays out. The 0.64 level has been a significant support level in the past, so it does make quite a bit of sense that we see this happen. Just above, the 0.65 level is an area that could cause a certain amount of resistance as it was previous support. Even if we break above there, I think there are plenty of resistance barriers to be concerned about, for example the 0.66 level above there.</p>
+	    <p>On the other hand, if we were to break down below the bottom of the session for Thursday, this market could really start to fall apart. Keep in mind that the Australian dollar is very sensitive to risk appetite and global movement of currency, as well as demand for commodities, so therefore you need to be cautious about getting overly aggressive when there are so many problems around the world. However, if we do see positive news, the Australian dollar might be the first place people run to. After all, it is based on the idea of Asian growth, and of course the idea of demand for hard materials from Asia more than anybody else.</p>	
+    	<p>We are a little overextended to the downside, so I think it’s possible that the market needs to bounce regardless, so therefore I would not get short at this point, unless of course we do break down below the bottom of the candle for the day. In general, I think you can expect a significant amount of messy trading, which has been the hallmark of these last few trading months. All things being equal, you need to be cautious with your position size and recognize that there are a lot of headwinds out there that could cause major issues. Make sure that you are not overly leveraged at any given moment, because of the potential problems that come with such a sensitive currency pair.</p>	
+    </div>
+  },
+  {
+    id: 621,
+    title: 'EUR/USD Forecast – Euro Continues to Kill Time',
+    category: 'Forex',
+    subCategory: ['EUR', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>Traders are closely watching the 1.09 level, a pivotal focal point in current market activities. The 50-Day Exponential Moving Average (EMA) stands out as an influential indicator, providing vital insights into market movements.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 5:56 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692349447/ncx-blog-1094_ma2od2.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>Euro vs US Dollar Technical Analysis</h3>
+    	<p>Traders are closely watching the 1.09 level, a pivotal focal point in current market activities. The 50-Day Exponential Moving Average (EMA) stands out as an influential indicator, providing vital insights into market movements. At just below the present market rates, this 1.09 point reaffirms its importance as a foundational support level for discerning traders. Moreover, the 200-Day EMA intersects with a crucial uptrend line, reflecting the overall health and momentum of the broader market.</p>
+    	<p>This market foundation paints a hopeful picture. It indicates that if the euro breaches the 1.1050 mark, it’s set to aim for the 1.1250 level—a historically significant pivot that has often signaled significant market reversals. Achieving this could indicate promising growth opportunities for the euro. The current market trend showcases an undeniable resilience, with the euro’s value standing firm despite the usual market fluctuations and inherent volatility.</p>	
+    	<p>However, markets are about scenarios, and if we hypothesize a situation where the euro falls below the current uptrend, it might stabilize around 1.06. A decline to such a level isn’t just a statistic. It could potentially indicate a strengthening US dollar, which would have implications for a wide array of assets, not just the euro itself.</p>	
+    	<p>Navigating this market requires a steady hand, especially given its inherent unpredictability. The ongoing circumstances underscore a positive and continuous trend for the euro, backed by strong and consistent buying interest. This current enthusiasm, however, shouldn’t lead to complacency. It’s essential to be alert to key market levels, as these can provide early signs of shifts in market direction. Even with the market’s natural ups and downs, the sustained support and active engagement from buyers seem set to remain steadfast. Importantly, for those keen on gauging the euro’s sustainability, the US inflation metrics provide an indispensable tool.</p>
+      <p>To sum it up, the euro’s recent movements highlight its steady climb, underpinned by the reliable 50-Day EMA. The currency’s future strength is linked to its capability to break through significant barriers like the 1.1050 and 1.1250 marks. For traders and market watchers, understanding crucial market intersections, combined with an in-depth look at macroeconomic data—especially US inflation figures—is essential in navigating this terrain.</p>
+    </div>
+  },
+  {
+    id: 620,
+    title: 'Strong British Data Gives the BoE More Room to Hike',
+    category: 'Forex',
+    subCategory: ['British', 'BoE', 'Data'],
+    description: <div className="blog-desc">
+      <p>There’s been a range of mostly positive data from the UK since late last week which is part of the reason for the pound’s continued multi-year highs against some currencies such as the yen and New Zealand dollar.</p>
+    </div>,
+    authorName: 'Michael Stark',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 2:38 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692348992/ncx-blog-1093_bijy3f.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>There’s been a range of mostly positive data from the UK since late last week which is part of the reason for the pound’s continued multi-year highs against some currencies such as the yen and New Zealand dollar. This article summarises the releases and evaluates the potential impact on the Bank of England’s policy at upcoming meetings and on the charts of cable and pound-yen.</p>
+      <p>The British job report on Tuesday 15 August showed slightly accelerating unemployment at 4.2% and a positive figure for claimant count change against expectations although last month’s figure for claimants was revised down. However, the highlight of the job report was extremely strong annual growth in average weekly earnings:</p>
+    	<p>8.2% for the total figure was the highest in more than two years, while 7.8% excluding bonus was the highest ever recorded. These numbers suggest that inflationary pressure in the UK is likely to remain high. Although rates have risen strongly over the last year and seem likely to continue upward, some of the impact is starting to be felt on inflation:</p>	
+    	<p>Annual non-core inflation at 6.8% in the UK is the lowest in about 18 months and demonstrates the effects of the BoE’s hawkish policy. However, some of the drop in recent months can be attributed to lower costs of fuel and transport. July saw the first monthly deflation in the UK since January.</p>
+      <p>The Bank of England meets three more times before the end of the year, with the next meeting on 21 September coming only one day after the Fed’s statement and press conference. As of now, it seems very likely that there’ll be another single hike to the bank rate next month, which would take it to 5.5%.</p>
+      <p>The primary intrigue over the next few weeks is likely to be less whether there’ll be a double hike, which seems unfavourable at the moment, and more whether support for a 0.5% hike might increase. At the last vote of the Monetary Policy Committee on 3 August, there were two dissenters from the consensus who favoured a double hike.</p>
+      <p>As the Fed seems nearly certain for now to hold at 5.25-5.5% next month, considering the context of strong progress on driving inflation down, the BoE might overtake its American counterpart in the fourth quarter. Meanwhile the Bank of Japan hasn’t started tightening policy apart from relatively minor tweaks to quantitative easing and ceilings for bonds.</p>
+      <p>The BoE also seems to be fairly confident of avoiding a recession next year. British quarterly GDP came in unexpectedly positive last week, albeit at a negligible 0.1% growth. The fundamental situation for sterling seems quite positive on the whole. but analysing charts and finding higher probability opportunities is essential given that some uptrends are very mature.</p>
+      <h3>Cable, Daily</h3>	
+    	<p>Cable seems to be a reasonably good candidate for traders wanting to buy the pound because it’s not close to its high. 9 July’s $1.314 was a high of about 15 months which could be reached again if it’s confirmed that the BoE’s hawkishness will continue and the Fed pause. The key support is the 100 SMA around $1.265, which has been tested twice unsuccessfully so far this month.</p>
+      <p>The dragonfly dojis from there within oversold and relatively high buying volume considering the season would traditionally suggest buying. Conversely, some reasonably strong catalyst would probably be needed for the price to push back above the 50 SMA from Bands around $1.28. That doesn’t seem likely until the NFP next month, so technical action might dominate in the meantime.</p>
+      <h3>Pound-yen, Daily</h3>
+      <p>Although not quite the same parabolic shape as GBPNZD, buying into pound-yen now would traditionally be seen as excessively risky. The price is at a high of nearly eight years and strongly overbought. However, any correction or retreat from the current high in the immediate future would probably be quite small. That’s because of the strong reaction by buyers late last month as the price made its first serious attempt this summer to push back below ¥180.</p>
+      <p>Japanese inflation at 23.30 GMT on Thursday 17 August is a critical release which is likely to drive movement by the yen on most of its charts. If the headline figure does indeed decline to the consensus of 2.5%, the yen might continue to lose strength, but that in turn might encourage the Bank of Japan to intervene to support the currency as late last year.</p>
+      <p>If you’d like to discover more about any of these topics and the prospects for the Fed’s next meeting, register for and join Exness’ upcoming webinar on 11 September at 10.00 GMT. Antreas Themistokleous CFTe, trading specialist at Exness, will discuss the latest news affecting major symbols, analyse gold, forex and more live plus answer all relevant questions.</p>
+    </div>
+  },
+  {
     id: 619,
     title: 'Yen Slides Toward Intervention Zone on Wide Japan-US Yield Gap',
     category: 'Forex',

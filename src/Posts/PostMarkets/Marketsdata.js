@@ -1,5 +1,267 @@
 const data = [
   {
+    id: 650,
+    title: 'Vietnam Tycoon Loses $18 Billion After EV Maker’s Shares Sink',
+    category: 'Markets',
+    subCategory: ['Vietnam', 'EV Maker', 'Tycoon'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- After an astronomical rise in its first day of trading, VinFast Auto Ltd. is now coming back to Earth — erasing a chunk of its billionaire founder’s fortune.</p>
+    </div>,
+    authorName: 'Anders Melin',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 18, 2023 - 8:30 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692370824/ncx-blog-1125_x3zhrd.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- After an astronomical rise in its first day of trading, VinFast Auto Ltd. is now coming back to Earth — erasing a chunk of its billionaire founder’s fortune.</p>
+    	<p>The Vietnamese electric-vehicle maker has fallen sharply over the two most recent trading days in New York, eliminating more than half of the 255% gain it notched on Tuesday when it listed on the Nasdaq Global Select Market.</p>	
+    	<p>At $46.4 billion, VinFast’s market capitalization is still just above that of General Motors Co.</p>	
+    	<p>Chairman and founder Pham Nhat Vuong, who controls all but a few shares of the company, has seen his net worth tumble roughly 40% to $26.2 billion, according to the Bloomberg Billionaires Index.</p>
+      <p>Big share-price swings were to be expected. Vuong controls 99% of VinFast’s stock, mostly through his business conglomerate, Vingroup JSC. That leaves a small fraction left for other investors to trade, meaning that even relatively small transactions can have a big impact on the price.</p>
+      <p>Still, Vuong isn’t hurting. Because Bloomberg’s index hadn’t accounted for his stake in VinFast until the company this week completed its merger with a blank-check company, he remains significantly richer than before the listing.</p>
+      <p>On paper, he gained almost $40 billion in the first trading day — one of the biggest wealth jumps ever recorded by the index.</p>
+    </div>
+  },
+  {
+    id: 649,
+    title: 'Foreign investors are giving up on China as capital flows reverse',
+    category: 'Markets',
+    subCategory: ['Foreign', 'Investors', 'Capital'],
+    description: <div className="blog-desc">
+      <p>Foreign investors are giving up on China as the economy's post-COVID recovery continues to fizzle with little hope of relief from Beijing.</p>
+    </div>,
+    authorName: 'Jason Ma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023 - 7:03 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692370428/ncx-blog-1124_rky3yt.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Foreign investors are giving up on China as the country's post-COVID rebound fizzles.</li>
+        <li>They resumed dumping Chinese stocks and bonds after Beijing's pledges to boost the economy briefly lifted hopes.</li>
+        <li>Exchanges in Shanghai and Shenzhen have seen nine straight days of outflows among overseas traders.</li>
+      </ul>
+    	<p>Foreign investors are giving up on China as the economy's post-COVID recovery continues to fizzle with little hope of relief from Beijing.</p>
+    	<p>In recent weeks, global investors have resumed dumping Chinese stocks and bonds after briefly seeing inflows last month, when the government pledged more help for the economy.</p>	
+    	<p>Hong Kong's Stock Connect trading scheme, which allows foreigners to trade mainland-listed stocks, had seen 54 billion yuan ($7.4 billion) of net purchases after a July 24 promise from the Communist Party's politburo for support. But according to the Financial Times, those gains are now nearly all gone.</p>	
+    	<p>In addition, stock exchanges in Shanghai and Shenzhen have seen nine straight days of outflows among overseas traders, according to Bloomberg, tying a record streak. During that span, foreign investors sold 46.2 billion yuan of mainland Chinese stocks.</p>
+      <p>Meanwhile, foreign institutional investors shed 37 billion yuan worth of Chinese bonds in July, according to data out Wednesday from China's foreign exchange regulator.</p>
+      <p>While officials in Beijing raised hopes last month with bullish talk of aggressive support, they have failed to deliver on actual policies that indicate expansive moves, and analysts don't expect any to come as the central government is seen as wary of adding too much debt.</p>
+      <p>Recent weeks have also seen fresh signs that the Chinese economy is getting worse, with retail sales and industrial output slowing further and consumer prices slipping in deflationary territory.</p>
+      <p>Portfolio managers told the FT that the pace of selling has picked up this month and will likely accelerate further, even after a surprise rate cut from the central bank this week.</p>
+      <p>The pessimism among global investors is translating to China's benchmark stock gauge as well. The CSI 300 index of Shanghai- and Shenzhen-listed shares have nearly given back all of its 5.7% gain after the July politburo meeting.</p>
+      <p>Meanwhile, the yuan has also felt the effects of the reversal and has dropped 2.4% against the dollar this month. That prompted Beijing to pressure state-run banks to intervene in currency markets this week to prop up the yuan.</p>
+      <p>The recent outflow of capital on the part of global investors picks up where they left off in the spring, as weakness in China's economy was becoming clear following a first-quarter bounce.</p>
+      <p>According to Reuters, $1.71 billion worth of mainland shares were sold by foreigners in May, outpacing April's $659 million withdrawal.</p>
+      <p>Following China's ending of its COVID-19 restrictions in December, bullish hopes for an economic rebound led to investments worth $25.05 billion in the first five months of 2023.</p>
+      <p>That's compared to $6.36 billion in the entirety of 2022, Reuters reported. But the hopes that fueled this year's heavy investment have been dashed as growth continues to cool across a number of Chinese sectors.</p>
+      <p>In addition to the consumer and manufacturing sectors, the real estate market — which serves as a key store of wealth in China's economy — has also been getting worse. In July, China's new-home prices fell for a second consecutive month and at a faster pace.</p>
+    </div>
+  },
+  {
+    id: 648,
+    title: 'Japan core inflation eases, bolstering view BOJ will stand pat',
+    category: 'Markets',
+    subCategory: ['Japan', 'Inflation', 'BOJ'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Tetsushi Kajimoto',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023 - 3:38 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692370303/ncx-blog-1123_d2p5df.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Tetsushi Kajimoto</p>
+    	<p>TOKYO (Reuters) -Japan's core consumer prices slowed in July, supporting expectations the Bank of Japan (BOJ) will be in no rush to phase out monetary easing, even as inflation remains stubbornly above the central bank's target.</p>	
+    	<p>The 3.1% rise in the core consumer price index (CPI), which includes oil products but excludes volatile fresh food prices, matched a median market forecast, following a 3.3% increase the previous month. It held above the BOJ's 2% inflation target for the 16th straight month.</p>	
+    	<p>The so-called core-core inflation index, which excludes fresh food and energy prices and is closely watched by the BOJ as a better gauge of trend inflation, rose 4.3% year-on-year in July, accelerating from the previous month.</p>
+      <p>The central bank argues that wage pressures have yet to build up enough to warrant a fresh tweak to the ultra-loose monetary stance.</p>
+      <p>Still, analysts say an acceleration in service-led inflation is a positive sign that demand-side inflation, which the BOJ is looking to stoke, may be building.</p>
+      <p>"The data confirmed that price pressures are rising in the service-sector such as accommodation as well as food, while import inflation including energy is calming down," said Takeshi Minami, chief economist at Norinchukin Research Institute.</p>
+      <p>Gabriel Ng, economist at Capital Economics, said the key question is whether services inflation can pick up the baton.</p>
+      <p>"With unit labour costs barely rising and consumer spending starting to falter as real incomes are falling sharply, we doubt that it will," said Ng.</p>
+      <p>"Accordingly, we still expect the Bank of Japan to keep its short-term policy rate unchanged for the foreseeable future."</p>
+      <p>Food costs were among the major contributors to overall inflation due to elevated prices of raw materials.</p>
+      <p>The data comes after the BOJ's closely watched policy meeting late last month in which the central bank tweaked monetary policy to allow the 10-year bond yield cap to move more flexibly.</p>
+      <p>A Reuters poll of 16 analysts expected data due next Friday to show the Tokyo-area core consumer prices likely rose 2.9% year-on-year in August, slowing from the prior month's 3%, with some bracing for inflation to slow below 2% in fiscal 2024.</p>
+      <p>BOJ Governor Kazuo Ueda has stressed the need to keep policy ultra-loose until cost-push inflation shifts into one driven by robust domestic demand and higher wage growth.</p>
+      <p>Under the BOJ's yield curve control, the central bank guides short-term interest rates at -0.1% and buys huge amounts of government bonds to cap the 10-year bond yield around 0% as part of efforts to fire up inflation to its 2% target.</p>
+      <p>(Reporting by Tetsushi Kajimoto; Editing by Sam Holmes and Jacqueline Wong)</p>
+    </div>
+  },
+  {
+    id: 647,
+    title: 'Is Nvidia Stock A Buy? More Analysts Hike Price Targets Amid AI Boom, But This Risk Looms',
+    category: 'Markets',
+    subCategory: ['Nvidia', 'Price', 'AI'],
+    description: <div className="blog-desc">
+      <p>Nvidia (NVDA), a giant in data centers and gaming, continues to sizzle. The chip giant is seen as one of the biggest winners of the AI boom. Is Nvidia stock a buy right now, with earnings due next week?</p>
+    </div>,
+    authorName: 'APARNA NARAYANAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 10:06 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692369344/ncx-blog-1122_yxlmit.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Nvidia (NVDA), a giant in data centers and gaming, continues to sizzle. The chip giant is seen as one of the biggest winners of the AI boom. Is Nvidia stock a buy right now, with earnings due next week?</p>
+    	<h3>Semiconductor, AI News</h3>
+      <p>On Aug. 14, Morgan Stanley named Nvidia its top pick, citing demand for AI (artificial intelligence) chips, while supply lags.</p>	
+    	<p>Analysts continue to pound the table for the AI chip leader. Firms raising their price targets for Nvidia ahead of its upcoming earnings include Oppenheimer on Aug. 17, as well as Rosenblatt, Raymond James and Piper Sandler on Aug. 16.</p>
+      <p>Earlier in August, Nvidia unveiled its next-gen AI super chip: the GH200, coming next year.</p>	
+    	<p>Nvidia taps the emerging market for generative AI. Generative AI can create content, including written articles, from simple phrases by analyzing vast amounts of data. It can also write programming code.</p>
+      <p>For those looking for the top large-cap stocks to buy now, here's a dive into the AI chip leader.</p>
+      <h3>Nvidia Stock Technical Analysis</h3>
+      <p>Shares of Nvidia jumped 7% in big volume on Aug. 14, reclaiming the 50-day moving average. The chipmaker nudged higher, near 437, on Aug. 17, holding just above the 50-day line.</p>
+      <p>Nvidia stock eyes a 452.68 buy point. That would be a trendline entry from the Aug. 15 high and still fairly close to the 50-day line.</p>
+      <p>But its upcoming earnings report raises the risk.</p>
+      <p>Further, investors should bear in mind that Nvidia increasingly stands alone. The broader market continues to sell off, including many other chip and AI leaders.</p>
+      <p>NVDA joined the prestigious IBD Leaderboard in February on an earnings gap-up. It surged again in May on blowout earnings and strong guidance.</p>
+      <p>Year to date, Nvidia stock has skyrocketed nearly 199%, after crashing in 2022. The chip stock set a 52-week high on July 14.</p>
+      <p>The relative strength line is not far from recent highs, the IBD MarketSmith charts show. A rising RS line means that a stock is outperforming the S&P 500. It is the blue line in the chart shown.</p>
+      <p>NVDA earns an IBD Composite Rating of 97, out of a best-possible 99. In other words, Nvidia stock is in the top 3% of all stocks in terms of technical and fundamental metrics.</p>
+      <p>Investors generally should focus on stocks with Comp Ratings of 90 or even 95 and above. Nvidia stock often earns a spot on the IBD 50, Big Cap 20 and Sector Leaders lists.</p>
+      <p>The IBD Stock Checkup tool shows that NVDA carries a Relative Strength Rating of 99. That means it has outperformed 99% of all other stocks over the past year.</p>
+      <p>The iShares PHLX Semiconductor ETF (SOXX) holds both Nvidia stock and AMD stock.</p>
+      <h3>Nvidia Earnings</h3>
+      <p>Nvidia's EPS Rating is 69 out of 99 and its SMR Rating is a B, on a scale of A to a worst E. The EPS rating compares a company's earnings growth to other stocks. Its SMR Rating gauges sales growth, profit margins and return on equity.</p>
+      <p>On May 24, the chip giant delivered a big beat-and-raise report. The Nvidia earnings report included a bullish, AI-fueled sales forecast.</p>
+      <p>The Santa Clara, Calif.-based company earned $1.09 a share on sales of $7.19 billion in the quarter ended April 30. Year over year, Nvidia earnings dropped 20% while sales fell 13%. But the results easily outpaced Wall Street's expectations.</p>
+      <p>In Q1, data-center sales rose 14% to $4.28 billion. Gaming-chip sales fell 38% to $2.24 billion.</p>
+      <p>For the full year, analysts expect Nvidia earnings to rebound 144% as sales jump 63%. Last year, Nvidia earnings fell 25% per share.</p>
+      <p>Its next quarterly report is due on Aug. 23, after the market close.</p>
+      <p>Out of 50 analysts covering NVDA stock, 43 rate it a buy. Six have a hold and one has a sell, according to FactSet.</p>
+      <h3>NVDA Backstory, Rivals</h3>
+      <p>The fabless chipmaker pioneered graphics processing units, or GPUs, to make video games more realistic. It's expanding in AI chips, used in supercomputers, data centers and drug development.</p>
+      <p>Nvidia's GPUs act as accelerators for central processing units, or CPUs, made by other companies. It's working on "supercomputers" combining its own CPUs and GPUs.</p>
+      <p>In addition, Nvidia chips are used for Bitcoin mining and self-driving electric cars.</p>
+      <p>Nvidia has made a big push into metaverse applications.</p>
+      <p>Fabless chip stocks include Qualcomm (QCOM), Broadcom (AVGO) and Monolithic Power Systems (MPWR).</p>
+      <p>Currently, the fabless group ranks No. 15 out of 197 industry groups. Fabless companies design the hardware while outsourcing the manufacturing to a third-party firm.</p>
+      <p>For the best returns, investors should focus on companies that are leading the market and their own industry group.</p>
+      <h3>Is Nvidia Stock A Buy?</h3>
+      <p>On a fundamental level, Nvidia earnings are expected to return to growth. They should more than double this fiscal year, driven by booming chip sales for data centers and artificial intelligence.</p>
+      <p>The fabless chipmaker is expanding in other growth areas such as automated electric cars and cloud gaming as well. The adoption of the metaverse and cryptocurrencies could further stoke demand for Nvidia chips.</p>
+      <p>However, macroeconomic uncertainties and risk of global recession linger.</p>
+      <p>NVDA stock has staged a massive comeback, nearly tripling in 2023 so far. Shares are flirting with a new trendline entry after regaining key technical levels. The AI chip leader's upcoming report and overall market conditions are also factors to consider before making any new or bolt-on purchase.</p>
+      <p>Bottom line: Nvidia stock is not a buy right now, but it's close.</p>
+      <p>As a chip company with exposure to top growth markets, Nvidia is always one to watch.</p>
+    </div>
+  },
+  {
+    id: 646,
+    title: 'Stock Market Still Showing Losses; Palantir Stock Loses 27% This Month',
+    category: 'Markets',
+    subCategory: ['Stock', 'Market', 'Palantir'],
+    description: <div className="blog-desc">
+      <p>The major indexes in the stock market are showing modest losses, as they pulled back in the past hour of trading. Earnings reports produced pain for Warren Buffett-backed StoneCo (STNE) and Wolfspeed (WOLF).</p>
+    </div>,
+    authorName: 'KIMBERLEY KOENIG',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 9:50 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692369084/ncx-blog-1121_i9rqkm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The major indexes in the stock market are showing modest losses, as they pulled back in the past hour of trading. Earnings reports produced pain for Warren Buffett-backed StoneCo (STNE) and Wolfspeed (WOLF).</p>
+    	<p>The Nasdaq composite was still struggling and dipped 0.3% in Thursday's stock market action. The Dow Jones Industrial Average also shaved off 0.3% and the S&P 500 inched lower 0.1%. The small-cap Russell 2000 pulled back 0.2%.</p>	
+    	<p>The Nasdaq composite remains below its 50-day moving average. The Dow is trading below its 21-day-exponential moving average for a third day, while the S&P 500 is under its 50-day line also for its third day in a row.</p>
+      <p>The Nasdaq 100-tracking Invesco QQQ Trust ETF (QQQ) also edged lower. And the Innovator IBD 50 ETF (FFTY) shed 1%.</p>
+      <p>Volume rose on the NYSE and fell on the Nasdaq vs. the same time on Wednesday.</p>
+      <p>The benchmark 10-year Treasury yield rose 6 basis points to 4.32%.</p>
+      <p>The initial weekly jobless claims for the period ended Aug. 12 came in at 239,000 vs. the 240,000 consensus and below 248,000 in the prior week.</p>
+      <p>The August Philadelphia Fed Manufacturing Index flashed a surprise reading of a positive 12.0 vs. the negative 10.0 expected, which showed expansion in the manufacturing sector.</p>
+      <h3>Stock Market Action: Palantir Continues Its sell-Off</h3>
+    	<p>According to Wednesday's The Big Picture, IBD's recommended stock market exposure was lowered to 40%-60% in light of Wednesday's weak market action, down from 60%-80% exposure.</p>
+      <p>A market under distribution is not the time for new buys and should generally be avoided. Gains can evaporate quickly in a weak stock market.</p>
+      <p>Palantir Technologies (PLTR) sold off over 6% to sink deeper below its 10-week moving average. Shares lost over 27% so far this month so far, after racing to a 52-week high on Aug. 1.</p>
+      <p>The security software stock was on a downtrend, then got hit hard after the company reported its Q2 earnings report on Aug. 7, showing slower revenue growth.</p>
+      <p>Avnet (AVT) rallied over 9% after the semiconductor and electronics maker beat fiscal fourth-quarter earnings and sales estimates, and gave Q1 sales and EPS guidance above analysts forecasts.</p>
+      <p>Dow Jones stock Walmart (WMT) erased gains and is now down 1.9%. The big-box retailer beat fiscal second-quarter earnings and sales estimates and raised its full-year 2024 revenue and adjusted EPS outlook. The stock is finding support at its 50-day line.</p>
+      <p>Dow component Cisco Systems (CSCO) gained 4.2% after reporting better-than-expected fiscal Q4 profit and revenue. Shares hit a 52-week high on the move, which made Cisco the Dow's biggest gainer Thursday. The stock hit the 53.89 buy point of a three-weeks-tight pattern and is in a buy zone reaching to 56.58.</p>
+      <p>Aluminum packaging stock Ball (BALL) popped 2.8% after it agreed to sell its Ball Aerospace business to U.K.-based BAE Systems (BAESY) for $5.6 billion, according to a Barron's article. BAE Systems stock sold off 4% on the news.</p>
+      <h3>Other Movers: Buffett Stock Sinks After Earnings</h3>
+      <p>Shares of Buffett-backed Brazilian fintech StoneCo cratered over 6% in heavy volume, despite the company reporting positive Q2 earnings and sales numbers, and giving third-quarter revenue guidance above analysts' estimates.</p>
+      <p>Shares of Wolfspeed gapped down more than 15% after the company reported a larger-than-expected fiscal Q4 loss and guided for a larger first-quarter loss and lower revenue. The power device maker's stock fell further below the 50-day line.</p>
+      <p>Synopsys (SNPS) improved and is now up 0.3%, after the semiconductor test software maker reported a beat on its fiscal Q3 sales and profit estimates. Shares are back below the 50-day line.</p>
+      <p>CVS Health (CVS) plummeted over 9% on news that Blue Shield of California will no longer use CVS Caremark for its pharmacy benefit manager. Instead, Blue Shield will utilize Amazon's (AMZN) at-home delivery service and Mark Cuban's Cost Plus Drug company for its low-cost drugs.</p>
+      <p>CVS stock fell below its 50-day line, flashing a sell signal. Amazon stock was flat.</p>
+      <p>Meanwhile, health care stock Cigna Group (CI) tanked over 7% and Dow stock UnitedHealth Group (UNH) fell 1.2% in sympathy with CVS.</p>
+      <p>Hawaiian Electric (HE) sank over 19% in heavy volume on news of its potential liability in the Maui wildfires, according to the Wall Street Journal.</p>
+      <p>Lastly, in stock market action office management software stock Asure Software (ASUR) tumbled over 14%.</p>
+    </div>
+  },
+  {
+    id: 645,
+    title: 'Stagflation risk in India remains low despite recent jump in prices - RBI bulletin',
+    category: 'Markets',
+    subCategory: ['Staglation', 'India', 'RBI'],
+    description: <div className="blog-desc">
+      <p>MUMBAI (Reuters) - The risk of stagflation, a period of weak growth and high inflation, remains low in India despite a sharp uptick in prices, the Reserve Bank of India said in its August bulletin on Thursday.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 6:19 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692368545/ncx-blog-1120_nc3gjm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>MUMBAI (Reuters) - The risk of stagflation, a period of weak growth and high inflation, remains low in India despite a sharp uptick in prices, the Reserve Bank of India said in its August bulletin on Thursday.</p>
+    	<p>"Stagflation risk remains low for India with a probability of only 3% with easing of financial conditions, stability of the INR/USD exchange rate and steady domestic fuel prices," a study conducted by the central bank showed.</p>	
+    	<p>The uptick in June inflation mutated in July with the unprecedented shock to tomato prices spilling over to prices of other vegetables, the RBI wrote in its State of the Economy article.</p>	
+    	<p>India's annual retail inflation rose sharply to a 15-month high of 7.44% in July from 4.87% the previous month, fuelled by a sharp jump in vegetable and cereal prices. The figures breached the upper end of the RBI's inflation band of 2%-6% for the first time in five months.</p>
+      <p>High-frequency food price data for August so far shows prices of cereals and pulses continued to increase this month, according to the bulletin. Tomato prices, on average, registered a further increase, although more recent data indicates some pullback in prices, the RBI added.</p>
+      <p>Onion and potato prices also registered sequential upticks, it said.</p>
+      <p>"While core inflation witnessed a moderation (in July), headline inflation is expected to average well above 6% in the second quarter," RBI wrote.</p>
+      <p>At the rate review last week, the Monetary Policy Committee held the repo rate steady but the RBI took measures to temporarily withdraw the liquidity overhang in the banking system.</p>
+      <p>"The slosh of liquidity also has implications for financial stability in the form of potential asset price bubbles and weakening of lending standards," the RBI wrote in the bulletin.</p>
+      <p>"As the banking system engages in absorbing this excess liquidity into prudent credit expansion, it is necessary to temporarily pre-empt the surplus liquidity from getting into the cracks," it added.</p>
+      <p>The central bank's economic activity index (EAI) nowcasts GDP growth for Q1 2023/24 at 7.8%, the bulletin showed.</p>
+      <p>(Reporting by Swati Bhat and Ira Dugal; editing by Eileen Soreng)</p>
+    </div>
+  },
+  {
+    id: 644,
+    title: 'Bonds are flashing a warning on mounting US debt and markets would be rattled if Treasury yields rise much more, market vet Ed Yardeni says',
+    category: 'Markets',
+    subCategory: ['Bonds', 'US', 'Market'],
+    description: <div className="blog-desc">
+      <p>The bond market is flashing a warning about America's debt problem, and stocks could be confronted with a sell-off as yields on Treasury bonds continue to rise, according to market veteran Ed Yardeni.</p>
+    </div>,
+    authorName: 'Jennifer Sor',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 17, 2023 - 2:19 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692368318/ncx-blog-1119_xcku0y.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>The bond market is sending a warning on growing US debt, Ed Yardeni said.</li>
+        <li>That's seen in rising bond yields, with the yield on the 10-year Treasury surpassing 4%.</li>
+        <li>Yields could touch 4.5% this year and spark a sell-off in stocks, Yardeni warned.</li>
+      </ul>
+    	<p>The bond market is flashing a warning about America's debt problem, and stocks could be confronted with a sell-off as yields on Treasury bonds continue to rise, according to market veteran Ed Yardeni.</p>
+    	<p>The Yardeni Research president pointed to the increasingly attractive yield on bonds, with the yield on the 10-year Treasury note clocking in at 4.213% on Wednesday. That's a sign markets are anticipating higher economic risk over the next decade – and it's largely due to America's staggering debt load, Yardeni said.</p>	
+    	<p>"The problem is, the bond market now cares quite a bit about the federal deficit, and as we all know, the fiscal policy is extremely profligate. We have mounting federal deficits and mounting debt," Yardeni told Fox Business on Wednesday.</p>
+      <p>The US federal debt balance hit $32 trillion for the first time this year. Growing debt is less worrying during periods of recession, as the government may ramp up spending to stimulate the economy, but debt growing rapidly while the economy is on track for a 5% expansion is concerning, Yardeni said.</p>
+      <p>Higher bond yields could also spell trouble for stocks, as they influence investors to shift away from equities and make it more expensive for companies to service their debts. The 10-year Treasury yield could potentially surpass 4.5% this year, Yardeni predicted, a move that could take the S&P 500 down to its 200-day moving average of around 4,121.</p>
+      <p>That implies a 7% downside from current levels, but a sell-off of as much as 10% is possible, he added.</p>
+      <p>"I'm a nervous bond bull because we're at a very important technical level here," Yardeni said. "It could be nasty to the upside," he added.</p>	
+    	<p>The Fed has signaled it could soon be ready to lower real interest rates, but sticky inflation is still a risk that could change that calculus. Investors have priced in an 89% chance the Fed will keep interest rates level at its September policy meeting, and a 21% chance the Fed could begin cutting rates early next year, according to the CME FedWatch tool.</p>
+    </div>
+  },
+  {
     id: 643,
     title: 'Stocks, Bond Climb as China Takes Action on Debt: Markets Wrap',
     category: 'Markets',

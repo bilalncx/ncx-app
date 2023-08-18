@@ -1,5 +1,581 @@
 const data = [
   {
+    id: 667,
+    title: 'Crypto now more stable than oil: Decoding this turn of events',
+    category: 'Crypto',
+    subCategory: ['Crypto', 'Stable', 'OIL'],
+    description: <div className="blog-desc">
+      <p>The 90-day annualized volatility for Bitcoin and Ethereum plummeted to multi-year lows, making them less volatile than crude oil.</p>
+    </div>,
+    authorName: 'Aniket Verma',
+    authorurl: 'https://ambcrypto.com/author/aniket-verma/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692367538/ncx-blog-1118_v3rv3s.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>The 90-day annualized volatility for Bitcoin and Ethereum plummeted to multi-year lows, making them less volatile than crude oil.</p>
+    	<ul>
+        <li>The lack of external catalysts forced top cryptos to stay glued to their narrow ranges.</li>
+        <li>Experts said that the silent phase could be utilized for innovations in the industry.</li>
+      </ul>
+      <p>The fiercest critics of cryptocurrencies’ high volatility may be finding it hard to stomach the ongoing dynamics of the market. For the uninitiated, the crypto market was exhibiting more stability than the oil market as of 16 August.</p>	
+    	<p>According to digital assets data provider Kaiko, the 90-day annualized volatility for Bitcoin [BTC] and Ethereum [ETH] plummeted to multi-year lows of 35% and 37%, respectively. This made them less volatile than the ‘Black Gold,’ which was at 41%.</p>	
+    	<h3>Digital Gold vs Black Gold</h3>
+      <p>The two largest cryptos by market cap have remained glued to narrow trading ranges, with no directional breakout from the gains earned through the last meaningful rally in June, per Glassnode.</p>
+      <p>The June rally was built on the hype around TradFi interest in digital assets. However, things haven’t moved faster since then. The U.S. Securities and Exchange Commission (SEC) pushed back the deadlines for several spot ETF approvals to 2024, as the regulator subjects the crypto instruments to stringent examination.</p>
+      <p>The delay triggered anxieties among participants with both BTC and ETH recording week-to-date (WTD) losses of more than 3%.</p>
+      <p>On the other hand, continuous supply curbs have sent crude oil benchmark indices like the Brent Crude and West Texas Intermediate (WTI) soaring. Since mid-June, Brent Crude has shot up by more than 12% until the press time value of $83.61, according to Investing.com.</p>
+      <p>WTI was up 15% in the same time period.</p>
+      <p>The dip in crypto assets’ volatility could be attributed to shrinking liquid supply, i.e. the number of tokens available for buying and selling. BTC and ETH reserves on exchanges hit multi-year lows at the time of writing.</p>
+      <h3>What does low volatility mean for the market?</h3>
+      <p>Gracy Chen, Managing Director at crypto exchange Bitget, said that the drop in volatility could have severe ramifications for the crypto industry, saying:</p>
+      <p><strong>“Lower user demand leads the entire industry to tighten profit margins, resulting in layoffs of employees and blockchain workers’ transition to other industries. The inflow of off-site capital slows down significantly, and the industry enters a period of decline.”</strong></p>
+      <p>However, she added that the calm phase presents an opportunity for further innovation in the industry as developers could better focus on building products as per market needs.</p>
+      <p>Her views were echoed by Iakov Levin, co-founder of decentralized asset management platform Locus Finance. He stated that the market was in a sort of rebuilding phase after the bloodbath of 2022, acknowledging:</p>
+      <p><strong>“Right now is the time when the industry focuses on building and laying the foundation for the next few years while enjoying silent times. It is not an interesting period, but the most important in the development of the industry.”</strong></p>
+    </div>
+  },
+  {
+    id: 666,
+    title: 'USDT’s dominance on Tron jumps over 48%; does it mean good news for TRX?',
+    category: 'Crypto',
+    subCategory: ['USDT', 'Tron', 'TRX'],
+    description: <div className="blog-desc">
+      <p>USDT secured dominance as far as usage on the Tron network is concerned. It even managed to outshine Ethereum which currently accounts for 43% of usage on Tron. The USDT stablecoin is the most dominant asset on the network at 48.6%.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 18, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692367137/ncx-blog-1117_ccba2v.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>USDT secured dominance as far as usage on the Tron network is concerned. It even managed to outshine Ethereum which currently accounts for 43% of usage on Tron. The USDT stablecoin is the most dominant asset on the network at 48.6%.</p>
+    	<ul>
+        <li>USDT becomes the most dominant cryptocurrency by demand and activity in the Tron ecosystem.</li>
+        <li>Tension rises among traders as USDT pushes closer to the key support level but will it hold?</li>
+      </ul>
+      <p>Demand for cryptocurrencies has fueled robust utility for most top blockchains, stablecoins account for most of the on-chain transactions. Tron has been at the forefront taping into the market’s huge stablecoin appetite.</p>	
+    	<p>USDT on the Tron is like a match made in heaven. This is because the Tether-issued stablecoin accounts for the bulk of stablecoin volumes on the Tron network. According to a Pundi X Labs analysis, TRX transactions going through Tron grew by 47% in the last 4 months.</p>	
+    	<p>The same analysis revealed that USDT managed to secure dominance as far as usage on the Tron network was concerned. It even managed to outshine Ethereum [ETH] which currently accounts for 43% of usage on Tron. The USDT stablecoin is the most dominant asset on the network at 48.6%.</p>
+      <p>Pundi X Labs mentioned lower fees and faster transactions as some of the key reasons for Tron’s stablecoin adoption. But just how much has this impacted Tron network fees?</p>
+      <p>Well, fees on the network have been averaging over $1 million for the last few months since February.</p>
+      <p>For reference, the Tron network fees only briefly managed to push above the $500,000 mark at the height of the 2021 bull market. Note that this represents daily fees collected on the network.</p>
+      <h3>TRX goes for a support line retest</h3>
+      <p>Capitulation is the name of the game and that is exactly what transpired with TRX in the last few days. The bears regained control after TRX failed to rescue the price from the consolidation phase observed in the first half of August.</p>
+      <p>The price inched closer to its long-term support line after pushing as low as $0.075. Interaction with the support line will likely take place near the $0.073 price level.</p>
+      <p>Will TRX bounce back after interacting with support or will it extend its bearish trajectory? Investor sentiment has reverted to indicate bearish expectations.</p>
+      <p>However, traders should take note of whale activity. The supply held by top addresses remained flat, hence whales are not contributing to sell or buy pressure.</p>
+      <p>As the world ponders upon TRX’s fate, perhaps we can look into its counterpart Bitcoin [BTC] which recently broke below its support.</p>
+      <p>TRX could follow a similar path but it is also rapidly approaching oversold territory. Traders should thus, keep an eye out for signs of strong accumulation which could put TRX back on a bullish trajectory.</p>
+    </div>
+  },
+  {
+    id: 665,
+    title: 'Solana [SOL] bounces from range-low support, what’s next?',
+    category: 'Crypto',
+    subCategory: ['Solana', 'SOL', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Solana’s [SOL] range-bound price movement continued after another price rejection at the range-high.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692366702/ncx-blog-1116_sd8vwj.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Solana’s [SOL] range-bound price movement continued after another price rejection at the range-high.</p>
+      <ul>
+        <li>Range-bound formation persisted with neither buyers nor sellers ready to give up price levels.</li>
+        <li>Traders adopted a cautious approach in the futures market.</li>
+      </ul>
+    	<p>Successive attempts by Solana [SOL] bulls to break out of the compact price range have not yielded the expected outcome. The latest bullish rejection at the range-high kept SOL in its sideways movement between $22.4 to $25.3.</p>	
+    	<p>Following Bitcoin’s [BTC] descent below $29k, SOL dipped rapidly from the range high. However, SOL’s price recovered immediately through a combination of the bullish order block (OB) and support level.</p>
+      <p>If SOL’s recent price precedent is to be followed, bulls will make another attempt for the range high ($25.3). Nevertheless, bears could take advantage of the bearish market sentiment to flip the $22.4 support level.</p>
+      <h3>Bulls and bears refuse to give up their respective price levels</h3>	
+    	<p>The recent price rejection at the $25.3 resistance saw the Relative Strength Index (RSI) dip below the neutral 50. However, it was recovering, as of press time to highlight rising buying pressure for Solana. On the other hand, the On Balance Volume (OBV) fell off over the past 48 hours and didn’t show any signs of recovery yet.</p>
+      <p>A look at the price chart on the 12-hour timeframe showed the price tussle between buyers and sellers has ranged on for close to a month. After sellers successfully flipped the $25.3 level to resistance on 22 July, bulls have staunchly defended the $22.3 support level.</p>
+      <p>While bulls have refused to give up the support level, bears have also made the $25.3 price level a stronghold, rebuffing multiple bullish breakout attempts. This oscillating price action has limited SOL’s price progress on the higher timeframes with traders waiting for a clear market trend.</p>
+      <p>If bulls successfully rally to the range high again, a close above the level will see further upside available at the $29-$32 price level. Alternatively, bears flipping the $22.3 support level could see sellers aim for the $18-$20 price zone.</p>
+      <h3>Tight margins in the futures market</h3>
+      <p>The exchange long/short ratio typically serves as a good indicator of the direction speculators think the market will swing next. In the case of Solana, the long/short ratio remained firmly neutral with neither longs nor shorts holding a significant advantage.</p>
+      <p>This hinted at speculators adopting a cautious approach in anticipation of a breakout from the price range.</p>
+    </div>
+  },
+  {
+    id: 664,
+    title: 'Avalanche network activity plummets: Can this development offer respite?',
+    category: 'Crypto',
+    subCategory: ['Avalanche', 'Network', 'Plummets'],
+    description: <div className="blog-desc">
+      <p>AVAX staking will reportedly be among the services offered through AvaCloud. In other words, Avalache just unlocked a new corridor that will facilitate AVAX demand for staking which may encourage a long-term bias.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692365993/ncx-blog-1115_y0zz9w.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>AVAX staking will reportedly be among the services offered through AvaCloud. In other words, Avalache just unlocked a new corridor that will facilitate AVAX demand for staking which may encourage a long-term bias.</p>
+    	<ul>
+        <li>Avalanche explores more growth opportunities in Japan to revive slowing network activity.</li>
+        <li>AVAX enters a possible accumulation zone after its recent bearish performance.</li>
+      </ul>
+      <p>As the market extends the period of low volatility, it is important to look into how it has impacted some of the top blockchains. A look at Avalanche and its current performance hammers down this point but the network has been making efforts aimed toward growth.</p>	
+    	<p>Avalanche’s performance took a hit from sluggish market conditions recently. Its address activity put the impact into perspective. Daily active addresses on Avalanched achieved a six-month peak in mid-June at over 130,000 addresses. It has since cooled down to roughly 50,000 daily active addresses.</p>
+      <p>The number of daily transactions on the Avalanche network unsurprisingly dipped during the same period. However, it is worth noting that daily transactions dipped even before address activity slowed down.</p>	
+    	<p>Many networks tend to deploy measures aimed at sustaining growth or activity. Avalanche’s latest efforts revealed that the chain is exploring growth opportunities in the Asian region. Furthermore, it recently revealed that the Japanese firm SBI VC will adopt its AvaCloud WEB3 launchpad to roll out its services.</p>
+      <p>The aforementioned development not only underscores Avalanche’s continued growth but also the potential for onboarding more organic utility. AVAX staking will reportedly be among the services offered through AvaCloud. In other words, Avalanche just unlocked a new corridor that will facilitate AVAX demand for staking which may encourage a long-term bias.</p>
+      <h3>Are the tides about to change for AVAX?</h3>
+      <p>AVAX received a 30%+ discount from its highest price point in mid-June. Notably around the same time that daily active addresses started tapering off. It recently bottomed out near the $11 price level and exchanged hands at $11.38 at press time.</p>
+      <p>AVAX’s recent lows could be considered noteworthy for two main reasons. The price retested a previous accumulation range where it bounced off in June. The other observation is that the Relative Strength Index (RSI) recently entered the oversold zone.</p>
+      <p>These findings underscore a high probability of a pivot in the next few days. However, that will depend on whether AVAX can secure enough bullish demand to yield a sizable rally.</p>
+      <p>AVAX sentiment peaked in favor of the bull in mid-August. However, the price extended the downside, leading to a sentiment dip. Despite this, most of the analysts and investors submitting their expectations are still in favor of a bullish outcome.</p>
+      <p>Avalanche’s recent development regarding Japan and the oversold price, may offer substantial reasons for a bullish sentiment.</p>
+    </div>
+  },
+  {
+    id: 663,
+    title: 'Shiba Inu’s much awaited Shibarium gets off to a rocky start',
+    category: 'Crypto',
+    subCategory: ['Shiba', 'Shibarium', 'Rocky'],
+    description: <div className="blog-desc">
+      <p>Shiba Inu’s Shibarium launch promised to elevate SHIB and BONE beyond memes, but challenges surfaced. Amid hopes and hurdles, the community awaits Shibarium’s evolution.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 18, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692365450/ncx-blog-1114_v6nzik.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Shiba Inu’s Shibarium launch promised to elevate SHIB and BONE beyond memes, but challenges surfaced. Amid hopes and hurdles, the community awaits Shibarium’s evolution.</p>
+    	<ul>
+        <li>The Shibarium scanner showed a stall in transactions as of this writing.</li>
+        <li>SHIB and BONE have been on a decline as negative feedback persists.</li>
+      </ul>
+      <p>On 16 August, the Shiba Inu [SHIB] community received a response regarding the question of “when Shibarium.” The eagerly anticipated Shibarium platform was finally introduced. This launch brought crucial utility to SHIB and BONE tokens, attempting to elevate them beyond meme coins. Nevertheless, the launch didn’t proceed as smoothly as some users had hoped, as few challenges surfaced.</p>	
+    	<h3>Introducing the Shiba Inu Shibarium</h3>
+      <p>On 16 August, the Shiba Inu community was informed about the launch of Shibarium. This Ethereum Layer 2 (L2) solution was introduced several months after initiating the testnet. Upon its launch, the testnet garnered immense activity with millions of transactions and registered wallets. The high transaction volume and wallet count on the testnet indicated the platform’s popularity.</p>	
+    	<p>Also, the recently launched Shibarium has already begun witnessing wallet addresses and transactions. As of this writing, the number of wallets has surpassed 2,000, while over 190,000 blocks have been generated, along with more than 200 transactions.</p>
+      <p>Shibarium employs a novel consensus mechanism called proof-of-participation (PoP), which selects validators based on their holdings in the relevant cryptocurrency. This approach aims to avoid the computational expenses associated with proof-of-work systems.</p>
+      <p>The new L2 blockchain solution, Shibarium, is designed to interact seamlessly with the primary Ethereum Layer-1 blockchain. This interaction enhances scalability and cost-effectiveness in the transaction processes.</p>
+      <h3>Concerns arise about the Shiba Inu L2</h3>
+      <p>Examining the Shibarium scanner revealed a potentially challenging beginning for the Shiba Inu Layer 2 (L2) network. As of this writing, the most recent recorded transaction on the scanner occurred five hours ago. Before this observed transaction, there was a seven-hour gap in recorded transactions. This situation has given rise to various speculations within the community.</p>
+      <p>Numerous reports suggested that the Ethereum bridged onto the platform might have been irretrievably lost. A screenshot purportedly from Shytoshi Kusama, the lead developer, implied that the bridged ETH may be unrecoverable.</p>
+      <p>However, a post by Lucie, the Shiba Inu marketing strategist, disputed the authenticity of the screenshot, asserting that the developers were actively working to address the issue.</p>
+      <p>Despite these efforts, the ecosystem tokens, SHIB and BONE, continued to experience a decline in value, which the situation has done little to assuage.</p>
+      <h3>SHIB and BONE decline further</h3>
+      <p>Shibarium’s launch adversely affected Shiba Inu’s performance, as observed in the daily timeframe. The chart indicated a 7% drop in value on 16 August, coinciding with the Shibarium launch.</p>
+      <p>Additionally, at the time of writing, Shiba Inu had incurred an additional loss of more than 2%, extending its downward trend. Despite this decline, the Relative Strength Index (RSI) signaled only a slight bearish sentiment.</p>
+      <p>Likewise, BONE didn’t fare any better on the daily timeframe. It suffered a decline exceeding 5% on 16 August and continued its downward trajectory, experiencing a nearly 9% loss as of this writing. The RSI for BONE indicated proximity to the oversold zone due to this decline.</p>
+      <p>Although this may not have been the favorable start anticipated by the Shiba Inu community, there remains potential for improvement. It’s worth noting that even the testnet launch encountered challenges initially before gaining momentum.</p>
+      <p>The crucial factor now lies in how the development team addresses the existing challenges in the upcoming days, as this will heavily influence the trajectory of Shibarium.</p>
+    </div>
+  },
+  {
+    id: 662,
+    title: 'ATOM: As sell pressure wanes near year low, is a recovery in sight?',
+    category: 'Crypto',
+    subCategory: ['ATOM', 'Wanes', 'crypto'],
+    description: <div className="blog-desc">
+      <p>ATOM has been on a significant bearish downtrend but bulls could take advantage of nearby support and recovery by BTC to rally.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 18, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692365103/ncx-blog-1113_h3rhpr.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>ATOM has been on a significant bearish downtrend but bulls could take advantage of nearby support and recovery by BTC to rally.</p>
+    	<ul>
+        <li>ATOM’s bearish swing looked to bottom out close to key support level.</li>
+        <li>Longs bid aggressively in the futures market with the hopes of initiating a rebound.</li>
+      </ul>
+      <p>Bitcoin’s [BTC] dip to $28.5k over the past day rippled across the market with altcoins experiencing significant drawbacks. Cosmos [ATOM] was on a bearish downtrend and an 11% dip in the past 48 hours extended this trend.</p>	
+    	<p>With prevailing market conditions extremely bearish, ATOM sellers would be looking to extend their leverage. However, bulls could take advantage of nearby support and recovery by BTC to rally.</p>	
+    	<h3>Can waning bearish momentum yield a price reversal?</h3>
+      <p>The bullish defense of the $8.98 support level crumbled to intense selling pressure in early August. Bullish attempts to rally from the support level found the $10.25 resistance hard to surmount. This kept ATOM in a range-bound formation until the break below the critical support level.</p>
+      <p>The bearish breakout accelerated gains by sellers, as bulls struggled to mount a fightback. As of press time, ATOM was trading close to the $7 year low achieved on 10 June.</p>
+      <p>With the bearish momentum easing, bulls can attempt to use the $7.2 – $7.5 support level to rebound in the short term. However, this would be based on a rise in trading volume. As of press time, the On Balance Volume registered an uptick, highlighting the building interest in demand for ATOM.</p>
+      <p>Another positive sign for bulls was the Relative Strength Index (RSI) climbing out of the oversold zone. An influx of buying pressure could ramp up the demand for ATOM in the short term, leading to a price reversal.</p>
+      <p>In the meantime, sellers could look to actively drive prices toward the $7 – $7.3 price zone, if the bullish rebound falters.</p>
+      <h3>Bulls look to make a comeback</h3>
+      <p>The exchange long/short ratio showed rallying attempts by bulls in the short term. Buyers held positions worth $30.29m which amounted to a 54.2% market share of all open contracts.</p>
+      <p>The bullish dominance on the long/short ratio along with positive signs by the on-chart indicators hinted at a bullish reversal in the short term.</p>
+    </div>
+  },
+  {
+    id: 661,
+    title: 'Stablecoins stare at another disappointing month – why?',
+    category: 'Crypto',
+    subCategory: ['Stablecoin', 'Stare', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>The stablecoin market cap recorded the 17th straight month of decline as of 14 August, falling to $124 billion.</p>
+    </div>,
+    authorName: 'Aniket Verma',
+    authorurl: 'https://ambcrypto.com/author/aniket-verma/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692364319/ncx-blog-1112_v6phbf.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The stablecoin market cap recorded the 17th straight month of decline as of 14 August, falling to $124 billion.</p>
+      <ul>
+        <li>USDT’s market cap dropped by 0.62% to $83.3 billion in August.</li>
+        <li>The progress made by countries on CBDC posed another headache for stablecoins.</li>
+      </ul>
+    	<p>Stablecoins are the backbone of the digital asset market, and are widely seen as having the best possibility of mimicking or perhaps replacing traditional currencies. By combining the benefits of cryptocurrencies while maintaining a fixed value, these unique assets serve as the primary way for traders on non-fiat crypto exchanges to enter and exit trades.</p>	
+    	<p>However, ever since the sensational collapse of TerraUSD [UST] in 2022, the sentiment around stablecoins has become one of increased caution and scrutiny.</p>	
+    	<p>According to the latest report by digital assets market data provider CCData, the total stablecoin marketcap recorded the 17th straight month of downfall as of 14 August. The market cap fell to $124 billion, the lowest since August 2021.</p>
+      <p>As major cryptos like Bitcoin [BTC] witnessed historic lows in volatility, active trading declined considerably, leading to lower demand for stablecoins. As of 14 August, stablecoin trading volume was just $194 billion. At the prevailing rate, August was on track to record another dry spell, as per the report. Recall that July logged the second-lowest monthly stablecoin trading volume of the year at the time of publication.</p>
+      <h3>USDT’s depeg unnerves market</h3>
+      <p>Being the largest stablecoin, Tether [USDT] is considered as a bellwether for stablecoin sentiment in the market. As a result, headwinds affecting USDT usually have a rippling effect on the broader ecosystem.</p>
+      <p>USDT’s market cap dropped by 0.62% to $83.3 billion in August, marking the first loss in the end-of-month market cap since October 2022. The USD-pegged crypto had a tough time last week after it suffered the deepest depeg since the collapse of FTX exchange in 2022.</p>
+      <p>Due to the depeg, USDT witnessed a significant rise in redemptions. However, the issuing company Tether managed to process the redemptions with relative ease, instilling trust in USDT’s reserves.</p>
+      <p>Having said that, the incident had a far lesser impact on the stablecoin market cap when compared to some of the other crypto crises. At the time of writing, USDT almost regained its value, trading at $0.9987, per CoinMarketCap data.</p>
+      <p>Meanwhile, crisis-hit USD Coin [USDC] extended its losing streak. The second-largest stablecoin’s market cap declined for the eight consecutive months, falling 1.82% to $25.8 billion.</p>
+      <h3>FDUSD’s ascent shakes up the dynamics</h3>
+      <p>The report also drew attention to the emergence of another Binance-backed stablecoin First Digital USD [FDUSD].</p>
+      <p>After getting listed on the crypto behemoth in the last week of July, FDUSD’s market witnessed a whopping 1410% surge in August. The impressive growth catapulted the dollar-pegged asset to become the tenth-largest stablecoin in the market, with the valuation above $305 million.</p>
+      <p>The coin was listed as part of Binance’s popular zero fee trading program, which slashed maker and taker fees for practically all spot trading pairs.</p>
+      <p>Interestingly, FDUSD scooped a big portion of the market share from other Binance-related stablecoins. Binance USD [BUSD] and TrueUSD [TUSD] registered sizable declines of 9.35% and 9.15% to $3.37 billion and $2.75 billion, respectively, per the report.</p>
+      <p>Notably, BUSD was in a phasing-out stage. Binance has put its focus on promoting other stablecoins like TUSD and the recently-launched FDUSD.</p>
+      <h3>PayPal’s stablecoin push</h3>
+      <p>The month of August also saw big moves from the TradFi giants in the sphere of stablecoins. Online payments company PayPal debuted its stablecoin PayPal USD [PYUSD], in a bid to improve the payment experience in virtual environment.</p>
+      <p>The market cap of the Ethereum [ETH]-based stablecoin was just about $27 million as per the report. However, given the magnitude and size of PayPal’s ecosystem, the coin stood to gain significantly in the future.</p>
+      <p>To put things into perspective, even if PYUSD was used for 1% of PayPal’s payment volume in Q2 2023, the transaction volume would be almost $3.77 billion.</p>
+      <h3>Stablecoins brace for CBDC threat</h3>
+      <p>Most experts would agree that in today’s world, stablecoins would face the biggest challenge from Central bank digital currencies (CBDCs). Many emerging markets have been doubling down on their CBDC efforts lately.</p>
+      <p>As the name suggests, these assets will be issued by the country’s central bank. And each CBDC will be pegged to the national currency. The motive behind backing these assets is to extend the benefits of stable digital currencies without losing regulatory control over them.</p>
+      <p>Russia started its digital Ruble trials recently in the hopes of shielding its monetary system from Western sanctions. Furthermore, South Korea divulged more details about its upcoming CBDC pilot phase.</p>
+    </div>
+  },
+  {
+    id: 660,
+    title: 'Solana eclipses XRP & DOGE in this metric, but it’s not all good news',
+    category: 'Crypto',
+    subCategory: ['Solana', 'XRP', 'DOGE'],
+    description: <div className="blog-desc">
+      <p>Beneath this remarkable feat, SOL has faced its fair share of challenges, as its price experienced a recent downturn.</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692362935/ncx-blog-1111_sdrzw8.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Beneath this remarkable feat, SOL has faced its fair share of challenges, as its price experienced a recent downturn.</p>
+      <ul>
+        <li>SOL liquidity increased but its price has not been stable.</li>
+        <li>Traders’ bullish sentiment could not stop a $3.90 million liquidation.</li>
+      </ul>
+    	<p>Solana [SOL] has become one of the altcoins with really high liquidity on Coinbase, according to market research platform Kaiko. Having high liquidity sometimes enables price stability and less volatility.</p>
+      <h3>SOL’s health isn’t wealth</h3>	
+    	<p>And as a measure of the demand for and supply of an asset, SOL’s high liquidity is an indication of a healthy market on its side. According to Kaiko, the hike in liquidity ensured that SOL outpaced Ripple [XRP], Dogecoin [DOGE], and Polygon [MATIC] as per the metric.</p>	
+    	<p>Leading altcoins in terms of liquidity may not be surprising considering how SOL outperformed most assets in the market lately. However, beneath this remarkable feat, SOL has faced its fair share of challenges, as its price has experienced a recent downturn.</p>
+       <p>Based on CoinMarketCap’s data, SOL lost 4.22% of its value in the last seven days. From the four-hour SOL/USD chart, the altcoin formed a bearish market structure.</p>
+       <p>As of 15 August, SOL tried to hold support at $23.96. But unfortunately, there was little to no buying pressure to curtail the increasing sell-off. Thus, this led the support down to $22.90.</p>
+       <p>While SOL has risen mildly above the $22 region, volatility has become really extreme, as indicated by the Bollinger Bands (BB). The lower band of the BB also touched SOL’s price previously, indicating that the altcoin was oversold.</p>
+       <p>Although there has been a slight reversal in the trend, the Moving Average Convergence Divergence (MACD) showed that the momentum remained largely in bearish control. Negative MACD values indicate that the 12-day EMA is below the 26-day EMA.</p>
+       <p>And at press time, the MACD was -0.13. Unless demand for SOL outweighs the selling pressure, the altcoin price could decrease as low as $20.</p>
+       <h3>Optimism gives opposing result </h3>
+       <p>Despite SOL’s downtrend, the funding rate was positive, based on Santiment’s data. Typically, a negative funding rate means that short positions outpaced long positions. However, the positive SOL funding rate implies that the average trader’s sentiment toward SOL was bullish.</p>
+       <p>Like the funding rate, the weighted sentiment was also in the positive region. The weighted sentiment considers the unique social volume with respect to opinions around an asset. </p>
+       <p>When the metric is positive, it implies that the average perception of an asset is optimistic. Conversely, a negative weighted sentiment suggests the opposite. And SOL supported the former.</p>
+       <p>Meanwhile, information from derivatives tracking portal Coinglass showed that about $3.90 million SOL positions were wiped out in the last 24 hours.</p>
+       <p>Also, longs accounted for $2.94 million out of those liquidated. Shorts positions liquidated, on the other hand, were worth $952,670.</p>
+    </div>
+  },
+  {
+    id: 659,
+    title: 'Uniswap [UNI] prices continued to dive lower, where will it see some respite?',
+    category: 'Crypto',
+    subCategory: ['Uniswap', 'UNI', 'Prices'],
+    description: <div className="blog-desc">
+      <p>The strong selling pressure forced UNI to nosedive below the $6.2 and $6 levels. At the time of writing, UNI was trading at $5.84 and within a bullish order block on the daily timeframe</p>
+    </div>,
+    authorName: 'Akashnath S',
+    authorurl: 'https://ambcrypto.com/author/akashnath-sumukar/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692362518/ncx-blog-1110_ceh8zn.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The strong selling pressure forced UNI to nosedive below the $6.2 and $6 levels. At the time of writing, UNI was trading at $5.84 and within a bullish order block on the daily timeframe</p>
+    	<ul>
+        <li>Uniswap had a strong bearish outlook in the lower timeframes</li>
+        <li>The confluence of a higher timeframe demand zone and range lows highlighted a critical area on the price charts</li>
+      </ul>
+      <p>Uniswap [UNI] has been in an uptrend on the daily timeframe since early July. August saw the bulls face rejection at $6.7, marking a potential range that the token would trade within in the coming weeks.</p>	
+    	<p>Bitcoin [BTC] dropped from $29.6k on 14 August to trade at $29.1k at press time. Although this was only a 1.66% drop, it has affected the sentiment in the altcoin market heavily. Uniswap faced intense selling pressure over the past 24 hours.</p>	
+      <h3>The swift recent losses showed the range lows might not be defensible</h3>
+    	<p>The range formation (green) for UNI extended from $5.7 to $6.7. Over the past week, the mid-range mark at $6.2 saw some skirmishes between buyers and sellers, but a conclusive winner did not emerge until 15 August.</p>
+      <p>The strong selling pressure forced UNI to nosedive below the $6.2 and $6 levels. At the time of writing, UNI was trading at $5.84 and within a bullish order block on the daily timeframe. This demand zone had confluence with the range lows as well.</p>
+      <p>Therefore, if a reversal were to occur, this would be the ideal spot. Yet, the OBV jumped below a short-term support level as selling volume rocketed higher. If BTC losses continued, it looked very likely that UNI would drop to the next zone of support at $5.2. A drop below $5.7 and a retest of the same could offer a shorting opportunity.</p>
+      <h3>The spot CVD began to reverse its uptrend as bearish sentiment intensified</h3>
+      <p>Over the past week the spot CVD was in a healthy uptrend. But the shift in sentiment over the past two days meant the bears were back in control. The sharp price drop was accompanied by a slide in the Open Interest. It also saw a large number of long liquidations.</p>
+      <p>This showed long positions were forced to sell as prices hit liquidation levels. It was also accompanied by a drop in the spot CVD, showing sellers were wholly dominant in the short term.</p>
+    </div>
+  },
+  {
+    id: 658,
+    title: 'Can sustained selling pressure flip XLM bearish?',
+    category: 'Crypto',
+    subCategory: ['XLM', 'Bearish', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Bears looked to flip XLM bearish, as selling pressure extended to bullish order block.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 16, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692361744/ncx-blog-1109_o0wsf0.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bears looked to flip XLM bearish, as selling pressure extended to bullish order block.</p>
+      <ul>
+        <li>Bears extended selling leverage with XLM trading at a key price zone.</li>
+        <li>Shorts primed to capitalize on the sustained selling pressure in the futures market.</li>
+      </ul>
+    	<p>The multiple rejections of Stellar Lumens’ [XLM] bullish rally at a critical price level has left buyers frustrated. With Bitcoin [BTC] and major altcoins posting losses over the past 24 hours, XLM sunk to a key bullish order block (OB).</p>	
+    	<p>The price action at this order block will be super critical to XLM’s next move. Will bears break below the bullish OB and push prices lower or can buyers reverse the selling trend?</p>
+      <h3>Bulls can’t scale key price hurdle</h3>
+      <p>XLM reached a yearly high of $0.198 on 13 July following a breakout from its compact trading range. However, a keen price tussle ensued between bulls and bears with sellers leveraging the $0.17 resistance to halt the bullish advances.</p>
+      <p>Bullish attempts to extend the gains after the massive breakout have yielded little results. The most recent attempt to break the $0.17 resistance on 28 July led to bears breaking the previous higher low, as sellers looked to flip XLM bearish on the 12-hour timeframe.</p>
+      <p>The current selling pressure along with price resting at the bullish OB presents two distinct possibilities. A bearish candle close below the bullish OB could trigger an extended downward move with targets at $0.1 to $0.11.</p>
+      <p>On the other hand, the bullish OB could offer bulls new buying opportunities, as evidenced on 18 July. This could see another price rally from the $0.12 level, especially if Bitcoin mounts a significant price recovery above $29.5k.</p>
+      <p>In the meantime, the Relative Strength Index (RSI) descended into the oversold zone. This highlighted the strong bearish momentum for XLM. The Chaikin Money Flow (CMF) hovered just under the zero mark with a reading of -0.03, hinting at capital preservation moves by traders.</p>
+      <h3>Sellers backed by strong bearish conviction in futures market</h3>
+      <p>The exchange long/short ratio data from Coinglass revealed a strong leaning by market speculators toward further price dips for XLM. Shorts held a 52.72% share of all open XLM contracts with a $9.48 million margin over longs, as of press time.</p>	
+    	<p>This highlighted the upper hand of sellers with a strong possibility of the bullish OB caving to the selling pressure.</p>
+    </div>
+  },
+  {
+    id: 657,
+    title: 'Chainlink plummets below $7 as sell pressure overwhelms bulls',
+    category: 'Crypto',
+    subCategory: ['Chainlink', 'plummets', 'bulls'],
+    description: <div className="blog-desc">
+      <p>To the south, traders can watch out for $6.58 and $6.06. The bulls could drive a bounce in prices at those places.</p>
+    </div>,
+    authorName: 'Akashnath S',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 16, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692361323/ncx-blog-1108_gzujud.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>To the south, traders can watch out for $6.58 and $6.06. The bulls could drive a bounce in prices at those places.</p>
+      <ul>
+        <li>The sudden drop to $6.8 saw large quantities of long positions liquidated.</li>
+        <li>The price action showed that a retest of $7 could be followed by another move downward.</li>
+      </ul>
+    	<p>Chainlink [LINK] had an optimistic outlook on the price chart last week. The bulls were knocking on the doors of the $7.7 resistance zone with strength. Yet, the sellers managed to prevail. A retest of the same resistance zone saw LINK rejected, yielding losses of 10% within 36 hours that began on 14 August.</p>	
+    	<p>The technical indicators showed that the next few days were likely to see LINK descend further. The RSI showed strong bearish momentum and the OBV noted increased selling volume over the past two days.</p>	
+    	<h3>The Chainlink bullish order block breached with ferocity</h3>
+      <p>The H4 bullish order block (cyan) extended from $7-$7.2. It was the region where LINK began its earlier rally that faced rejection at the $7.7 level. A retest of this zone might provide a bounce in prices.</p>
+      <p>This was not to be. The recent wave of selling saw a large candle with massive trading volume close the H4 trading session below the order block. Hence this region can be expected to serve as resistance as it was changed to a bearish breaker block.</p>
+      <p>To the south the $6.58 and $6.06 levels were ones to scrutinize. The bulls could drive a bounce in prices at those places. Short-sellers can look to enter positions targeting these levels with invalidation above the breaker block.</p>
+      <h3>Long liquidations painted a not-so-pretty picture</h3>
+      <p>As Chainlink prices breached the $7 mark to sink as low as $6.8, it triggered a cascade of long liquidations. These positions were forced to sell and added to the bearish sentiment in the market. Over the past few hours, the long liquidations slowly ticked higher again.</p>
+      <p>The OI has been relatively stable after the plunge. If the OI rose alongside falling prices it would indicate an acceleration in short positions being opened. This would compound the bearish sentiment in the market.</p>
+    </div>
+  },
+  {
+    id: 656,
+    title: 'Ethereum: Traders looking for a green signal should read this',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Traders', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Although Ethereum’s exchange outflow and inflow reached a five-year and seven-year low, other metrics displayed that ETH could witness bearish price action only in the near future.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 16, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692360926/ncx-blog-1107_s2eoap.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Although Ethereum’s exchange outflow and inflow reached a five-year and seven-year low, other metrics displayed that ETH could witness bearish price action only in the near future.</p>
+    	<ul>
+        <li>ETH’s price remained above its realized price, which hovered between $1,500 and $1,600.</li>
+        <li>Ethereum’s supply on exchanges declined while its supply outside of exchanges shot up.</li>
+      </ul>
+      <p>As the market is witnessing less activity, Ethereum’s [ETH] price has continued to stay under the $1,900 mark. Therefore, investors might want to accumulate more ETH before the token enters its next bull rally.</p>	
+    	<p>Interestingly, CryptoQuant’s latest analysis sheds light on when investors should consider accumulating the altcoin. However, a look at a few metrics suggested that buying pressure around ETH was relatively weak.</p>	
+    	<h3>This indicates good buying opportunities</h3>
+      <p>A CryproQuant analyst and author recently posted an analysis that highlighted a metric to mention when investors should stockpile ETH. As per the analysis, Ethereum’s realized price hovered between $1.500 and $1,600 from January to August 2023. This is the average “break-even” price at which Ethereum holders make no money or lose money.</p>
+      <p>When ETH‘s price falls below the realized price and quickly recovers, it indicates that the market believes Ethereum is undervalued. Thus, there were three buying opportunities year-to-date, after which the token’s price rallied.</p>
+      <p>According to CoinMarketCap, at press time, ETH was trading at $1,840.24 with a market capitalization of over $221 billion. This meant that at press time, ETH’s price was above its realized price, suggesting that it was not undervalued.</p>
+      <p>Interestingly, Glassnode Alerts’ tweet pointed out that ETH’s exchange outflow reached a five-year low of 6,045.499 ETH.</p>
+      <p>At first glance, this looked bearish, but upon a thorough check, a different story was revealed. Not only did exchange outflow, but ETH’s exchange inflow also reached a seven-month low. A drop in both metrics clearly indicated that investors were reluctant to trade ETH.</p>
+      <h3>Should investors start accumulating ETH?</h3>
+      <p>Though the overall market remained dormant, a look at ETH’s metrics suggested that investors might have already started accumulating. The token’s supply on exchanges dropped over the last month, while its supply outside of exchanges increased. Moreover, ETH’s supply held by top addresses also shot up, reflecting whales’ confidence in the token.</p>
+      <p>Considering that ETH has become comfortable under $1,900, investors might as well think about increasing their accumulation ahead of a bull run to enjoy profits. This was because the chances of ETH continuing its sluggish price action seemed likely but only in the short term.</p>
+      <p>Additionally, Coinglass’ data revealed that ETH’s open interest was relatively high. Moreover, its funding rate was also green.</p>
+      <p>A high funding rate means that derivatives buyers were purchasing ETH at its current price. This increases the chances of a continued price trend.</p>
+    </div>
+  },
+  {
+    id: 655,
+    title: 'THOR surges over 300%: Exploring reasons behind the supercharged bulls',
+    category: 'Crypto',
+    subCategory: ['THOR', 'Supercharged', 'Bulls'],
+    description: <div className="blog-desc">
+      <p>Thorswap has been ramping up its deflationary characteristics through token burns. It recently revealed that its August volume burn surpassed the 300% mark. The DEX plans to burn as much as 7.5 million THOR tokens.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '', 
+    createdAt: 'August 16, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692359365/ncx-blog-1106_lttylt.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Thorswap has been ramping up its deflationary characteristics through token burns. It recently revealed that its August volume burn surpassed the 300% mark. The DEX plans to burn as much as 7.5 million THOR tokens.</p> 
+    	<ul>
+        <li>THOR delivers an impressive bullish performance.</li>
+        <li>Thorswap’s token burns and incentives to attract whales are the main catalysts.</li>
+      </ul>
+      <p>We’re halfway through August and the market is already starting to show some excitement, albeit in an isolated few coins. THOR, not to be confused with Thorchain, is among the digital currencies that have performed exceptionally well recently.</p>	
+    	<p>THOR is the native token on the Thorswap DEX. It has lately been commanding a lot of attention, especially after its impressive performance. THOR traded as low as $0.076 on 6 August which happens to be its lowest price in roughly six weeks. It peaked at $0.87 on Monday (14 August) after an impressive 1017% rally from its monthly low.</p>	
+    	<h3>THOR and its thunder</h3>
+      <p>THOR exchanged hands at $0.38 at press time, after pulling back from its peak of 14 August. Some selling pressure was expected since the price was already deep in overbought territory. Despite that, the press price still represented a 400%+ gain from its recent monthly low.</p>
+      <p>Now that we have observed THOR’s robust rally, it is time to look into the reasons why. A bit of research revealed that the network offers incentives.</p>
+      <p>For example, most of the network’s recent activity involved a lot of whales. This is not surprising considering that the Thorswap DEX recently introduced a 50% whale tier discount.</p>
+      <h3>Of whales and token burns</h3>
+      <p>Most DEXes tend to be pricier than their centralized counterparts. Nevertheless, whales need and use DEXes to bypass transaction size restrictions. Such a hefty discount was bound to attract a significant amount of whales and as such, fueling demand for the THOR token. However, this was not the only reason for the rally.</p>
+      <p>Thorswap has been ramping up its deflationary characteristics through token burns. It recently revealed that its August volume burn surpassed the 300% mark. The DEX plans to burn as much as 7.5 million THOR tokens as part of a governance-approved proposal.</p>
+      <p>The burnt THOR volume is enough to have an impact on both the sentiment as well as the price. But can these factors support more upside or is the token headed for more upside? Well, Thorswap’s real volume has already pivoted after a double top with a lower high.</p>
+      <p>Note that the same volume metric was previously dormant in the last four weeks before the excitement observed in the last few weeks. Heavy profit-taking may curtail the upside but not necessarily by much given that the token burns will still continue in the second half of August.</p>
+    </div>
+  },
+  {
+    id: 654,
+    title: 'Tron’s latest achievement suggests this about the network',
+    category: 'Crypto',
+    subCategory: ['Tron', 'TRX', 'Network'],
+    description: <div className="blog-desc">
+      <p>Tron adoption reached a new milestone as the total number of accounts surpassed 178 billion. TRX’s price action remained dormant.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 15, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692359035/ncx-blog-1105_fyv9we.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Tron adoption reached a new milestone as the total number of accounts surpassed 178 billion. TRX’s price action remained dormant.</p>
+    	<ul>
+        <li>Tron witnessed growth in its staking ecosystem.</li>
+        <li>Metrics suggested that TRX’s popularity declined last week.</li>
+      </ul>
+      <p>Tron [TRX] adoption continues to rise at a commendable pace as the blockchain reaches a new milestone. The blockchain has recently announced that its total number of accounts has exceeded 178 million.</p>	
+    	<p>The blockchain’s staking ecosystem also witnessed growth over the past few weeks. However, despite a promising uptick in metrics, the blockchain performance in the DeFi space has somewhat plateaued.</p>
+      <h3>Is Tron witnessing wholesome growth?</h3>
+      <p>Not only did Tron’s total addresses go up, but its total transactions also climbed to over 6.2 billion. The metric clearly indicated increased usage and activity on the network.</p>
+      <p>On top of that, the blockchain also recently passed its committee proposal 89, which can help in further increasing its adoption. The proposal was aimed at activating the PUSH0 instruction in the TRON virtual machine (TVM).</p>
+      <p>Tron Spark, a popular X handle that posts updates related to the Tron ecosystem, pointed out in a recent tweet a few factors that might have been playing a role in boosting adoption.</p>
+      <p>As per the tweet, the non-fungible token (NFT) market has blossomed over recent years, and the blockchain’s ecosystem provides a suitable platform for its creation and trade.</p>
+      <p>In fact, if metrics are to be considered, TRX witnessed a massive boom in its NFT space during the last NFT summer. This was evident from the steep rise in the number of NFT trade counts and trade volume in USD.</p>
+      <p>Apart from NFTs, the tweet also mentioned that the blockchain has seen a surge in DeFi projects, which offer a range of financial services without intermediaries.</p>
+      <p>Thanks to that, Tron’s TVL has remained relatively high. However, it must also be noted that the metric’s growth rate remained low as the TVL graph somewhat plateaued. At press time, TRX’s TVL stood at $5.678 billion, as per DeFiLlama.</p>
+      <p>The blockchain’s staking ecosystem also grew over the last few weeks. As per Staking Rewards’ data, the total TRX staked went up in the last seven days. Not only that, but the number of TRX stakers also increased slightly.</p>
+      <p>At press time, Tron had a staking ratio of 47.69% and a staking market capitalization of more than $3 billion.</p>
+      <h3>TRX is reluctant to move</h3>
+      <p>While the blockchain’s health seemed up to par, its native token’s price action remained slow. As per CoinMarketCap, TRX’s price only went up by 0.8% in the last week. At the time of writing, it was trading at $0.07743 with a market cap of nearly $7 billion.</p>	
+    	<p>The token’s popularity took a blow last week as its social volume dropped. The weighted sentiment revealed that negative sentiment was dominant in the market. However, thanks to the efforts made by developers, the blockchain’s development activity remained high.</p>
+    </div>
+  },
+  {
+    id: 653,
+    title: 'A look at Arbitrum as L2 competition rises',
+    category: 'Crypto',
+    subCategory: ['Arbitrum', 'L2', 'rises'],
+    description: <div className="blog-desc">
+      <p>Base’s surge in transactions per second and revenue marks a significant shift in the competitive dynamics of the L2 sector, threatening Arbitrum’s dominance.</p>
+    </div>,
+    authorName: 'Himalay Patel',
+    authorurl: 'https://ambcrypto.com/author/himalay-patel/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692358219/ncx-blog-1104_dgghe0.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Base’s surge in transactions per second and revenue marks a significant shift in the competitive dynamics of the L2 sector, threatening Arbitrum’s dominance.</p>
+    	<ul>
+        <li>Arbitrum’s L2 dominance was challenged by the rise of Base and Optimism, altering the L2 landscape.</li>
+        <li>Base surged in TPS and revenue, signaling growing competition and the potential shift in hierarchy.</li>
+      </ul>
+      <p>Throughout the year, Arbitrum[ARB] held a firm grip on the Layer 2 (L2) landscape. However, as Base and Optimism make significant strides, Arbitrum’s position as the L2 leader seems to be wavering.</p>	
+    	<h3>Can Arbitrum keep up?</h3>
+      <p>In a surprising turn of events, Base surged ahead, claiming the third position in transactions per second (TPS). This feat outperformed both Arbitrum and Optimism, garnering attention for Base’s growing influence.</p>	
+    	<p>Notably, BuildOnBase’s revenue generation in August also exceeded its competitors, with Base generating $2.4 million, Arbitrum $1.05 million, and Optimism $1.1 million.</p>
+      <p>The emergence of Base as a serious contender highlights the evolving nature of the L2 landscape, where new players can swiftly challenge established giants.</p>
+      <p>Artemis’ data provided a sobering view of Arbitrum’s recent performance, revealing a decline in overall network activity. Moreover, the number of transactions processed on the network witnessed a noticeable drop during this period.</p>
+      <p>This decline in activity raises questions about Arbitrum’s ability to maintain its momentum in the face of emerging competition.</p>
+      <p>Despite these challenges, Arbitrum has managed to retain a strong foothold in the decentralized finance (DeFi) sector. The protocol’s Total Value Locked (TVL) remained substantial, outpacing many other protocols by a significant margin. Additionally, Arbitrum’s performance in terms of Decentralized Exchange (DEX) volumes showcased its continued relevance and influence.</p>
+      <p>However, even stalwarts like Arbitrum are not immune to the ebbs and flows of the market. Over the past month, the protocol experienced a decline in both revenue and activity. Revenue dipped by 22.4%, while daily active users witnessed a notable decline of 20.2%.</p>
+      <p>This downturn in revenue and activity raises concerns about Arbitrum’s resilience in the midst of increasing competition.</p>
+      <p>On the price front, ARB tokens were trading at $1.14 at press time. This value, while stable, prompts a closer look at other metrics that shed light on the protocol’s health.</p>
+      <p>Network growth data indicated a decline, hinting at a potential waning interest from new participants. Additionally, the velocity of ARB trades registered a decrease, implying that trading frequency had decreased over the period.</p>
+    </div>
+  },
+  {
+    id: 652,
+    title: 'What a major approval means for Tron, TRX investors',
+    category: 'Crypto',
+    subCategory: ['Tron', 'TRX', 'Investors'],
+    description: <div className="blog-desc">
+      <p>Last week, Tron approved its committee proposal no. 89, activating the PUSH0 instruction in the TRON virtual machine.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 14, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692358004/ncx-blog-1103_mtwsoi.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Last week, Tron approved its committee proposal no. 89, activating the PUSH0 instruction in the TRON virtual machine.</p>
+      <ul>
+        <li>Tron’s social engagement and mentions dropped over the last seven days</li>
+        <li>TRX’s price was slow-moving, and the trend might continue</li>
+      </ul>
+    	<p>Tron [TRX] recently shared its weekly report, highlighting the developments that happened in its ecosystem. Among them, the most notable update was related to a newly passed proposal. While the proposal was being passed, TRX’s price action remained dormant, however, as it failed to move up over the last seven days. Not only that, but the token’s performance on the social front was also not at par.</p>	
+    	<h3>Tron approves new committee proposal </h3>
+      <p>Tron’s weekly roundup report pointed out that the blockchain approved its committee proposal 89. The proposal was aimed at activating the PUSH0 instruction in the TRON virtual machine (TVM). For starters, it was suggested to implement and enable the PUSH0 instruction in TVM in order to keep it compatible with Ethereum Virtual Machine (EVM) and to share the same advantages with TRON developers and users.</p>	
+      <p>Mentioning the changes, the PUSH0 instruction in TVM brings both technical and economic benefits. A few of the advantages of the update include a reduction in contract code size, a reduction in the risk of contracts using various instructions as an optimization measure, etc.</p>
+    	<p>However, the approval did not receive much traction in the crypto-community as TRX’s social metrics dropped last week. LunarCrush’s chart revealed that while TRX’s social engagement dropped by 48%, its social mentions also sank by 30%. On top of that, investors’ confidence in TRX was also low, as its bullish sentiments declined by more than 24%.</p>
+      <h3>Not a lot of volatility?</h3>
+      <p>Not only was Tron’s performance on the social front not at par, but its price action also remained less volatile last week.</p>
+      <p>According to CoinMarketCap, TRX’s price has moved by less than 1% over the last seven days. At press time, it was trading at $0.07732 with a market capitalization of more than $6.9 billion, making it the 10th largest crypto by market cap. The sluggish price action caused the token’s 1-week price volatility to remain low through the week.</p>
+      <p>Investors’ interest in trading the token also dropped, as is evident from the slight decline in its trading volume over the last few days. However, thanks to the efforts made by developers, the blockchain’s development activity remained high, which by and large is a positive sign.</p>
+      <p>If derivatives metrics are to be believed, Tron’s price action might remain underwhelming. Coinglass’ chart revealed that TRX’s open interest remained stable too.</p>
+      <p>Additionally, its OI-weighted funding rate was also found to be green. This suggested that investors have been buying TRX at its current price in the Futures market, increasing the chances of TRX continuing its prevailing price trend.</p>
+    </div>
+  },
+  {
     id: 651,
     title: 'Ethereum: Are institutional investors in the U.S shunning ETH?',
     category: 'Crypto',

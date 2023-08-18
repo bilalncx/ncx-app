@@ -1,5 +1,119 @@
 const data = [
   {
+    id: 618,
+    title: 'Oil set to snap 7-week winning streak on US rate outlook, China woes',
+    category: 'Commodities',
+    subCategory: ['Oil', 'US', 'China'],
+    description: <div className="blog-desc">
+      <p>SINGAPORE (Reuters) -Oil prices looked set to snap a seven-week winning streak on Friday as concerns about China's slowing economic growth and the possibility of more U.S. interest rate hikes outweighed signs of tightening supply.</p>
+    </div>,
+    authorName: 'Sudarshan Varadhan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023 - 5:48 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692348666/ncx-blog-1092_jk6k4b.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Sudarshan Varadhan</p>
+    	<p>SINGAPORE (Reuters) -Oil prices looked set to snap a seven-week winning streak on Friday as concerns about China's slowing economic growth and the possibility of more U.S. interest rate hikes outweighed signs of tightening supply.</p>	
+    	<p>Major benchmarks were slightly higher on Friday, with U.S. West Texas Intermediate crude (WTI) rising 22 cents, or 0.3%, to $80.61 a barrel, while Brent crude was up 8 cents, or 0.1%, at $84.12 a barrel as of 0611 GMT.</p>	
+    	<p>The seven-week winning streak was the longest for both benchmarks this year. Brent futures rose by about 18% and WTI by more than 20% in the seven weeks ended Aug. 11 to the highest levels in months before paring some gains this week, when both fell by more than 3%.</p>
+      <p>The U.S. Federal Reserve's focus on containing inflation amid stronger-than-expected economic data was keeping a lid on oil prices, which have risen sharply in the recent weeks due to concerns over supply.</p>
+      <p>The U.S. Labor Department on Thursday reported the number of Americans filing new claims for jobless benefits fell in the last week, suggesting the still-tight employment market could prolong the Fed's tightening campaign to cool the economy.</p>
+      <p>That report followed similarly upbeat economic data earlier in the week, including U.S. retail sales, which suggested the Fed may have to stick with higher rates for longer.</p>
+      <p>Investors fret that higher borrowing costs could impede economic growth and in turn reduce overall demand, including for oil.</p>
+      <p>Adding to the concerns, a recent batch of economic data from China, the world's second largest oil consumer, has highlighted a rapid loss of economic momentum since the second quarter.</p>
+      <p>China's sputtering economy has whipsawed global financial markets in the past few months, with a property crisis spooking investors amid contagion fears.</p>
+      <p>However, tightening oil supply due to production cuts by the Organization of the Petroleum Exporting countries and allies, together called OPEC+, and increasing demand, mainly due to higher travel and improved industrial activity in the U.S., has supported prices, and could lead to a rise in the coming days, analysts said.</p>
+      <p>U.S. oil production was offsetting some losses in output due to OPEC+ cuts, but the falling U.S. rig count meant such support could likely be short-lived, ANZ Research said in a report on Friday.</p>
+      <p>Data released this week also showed that U.S. crude oil inventories fell by nearly 6 million barrels last week on strong exports and refining run rates. Weekly products supplied, a proxy for demand, rose to the highest since December. [EIA/S].</p>
+      <p>Despite recent economic weaknesses, China made a rare draw on crude oil inventories in July, the first time in 33 months it has dipped into storage.</p>
+      <p>"Momentum indicators are showing supply tightness. Investors have started increasing their bullish bets, net-long positions are reaching an annual high," ANZ said in its report.</p>
+      <p>(Reporting by Sudarshan Varadhan; Editing by Shri Navaratnam and Jamie Freed)</p>
+    </div>
+  },
+  {
+    id: 617,
+    title: 'This Natural Gas Stock Is The Big Winner On New S&P Index Shuffle',
+    category: 'Commodities',
+    subCategory: ['Gas', 'Stock', 'S&P'],
+    description: <div className="blog-desc">
+      <p>S&P Dow Jones Indices announced late Wednesday that S&P index changes coming Monday would include U.S. natural gas producer Chesapeake Energy (CHK) and defense contractor Mercury Systems (MRCY). CHK jumped on the news while MRCY also edged up Thursday.</p>
+    </div>,
+    authorName: 'KIT NORTON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023 - 12:03 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692348285/ncx-blog-1091_jgjjqm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>S&P Dow Jones Indices announced late Wednesday that S&P index changes coming Monday would include U.S. natural gas producer Chesapeake Energy (CHK) and defense contractor Mercury Systems (MRCY). CHK jumped on the news while MRCY also edged up Thursday.</p>
+    	<p>The ratings agency announced that Chesapeake will join the S&P MidCap 400, replacing. Mercury Systems will move from the midcap index to the S&P SmallCap 600. Both changes are effective at the start of trade Monday.</p>	
+    	<p>Arconic (ARNC), a metals processing and fabrication operation, is exiting the S&P SmallCap 600 index. Fund manager Apollo Global Management (APO) is expected to close its $5.2 billion acquisition for ARNC soon.</p>	
+    	<p>The S&P index changes follows Chesapeake Energy announcing Monday it would sell its remaining assets in the energy rich Eagle Ford shale region to SilverBow Resources (SBOW) for $700 million.</p>
+      <p>CHK has divested $3.5 billion in Eagle Ford assets, as it moves away from oil production to focus primarily on natural gas. In January it sold portions to WildFire Energy for $1.43 billion. In February, the Oklahoma City-based energy producer also unloaded assets to INEOS for $1.4 billion.</p>
+      <h3>S&P Index Adjustment</h3>
+      <p>CHK stock surged 4.4% to 86.24 Thursday during market trade, reversing a four-day decline and moving above its 200-day moving average.</p>
+      <p>Meanwhile, MRCY edged up around 2.5%. Mercury Systems stock gained 6.9% to 36.17 on Wednesday, coming back up to its 50-day line. APO and ARNC edged down and up, respectively.</p>
+      <p>The IBD-tracked Oil & Gas-U.S. Exploration & Production group has advanced around 4.7% in 2023, underperforming compared to the S&P 500's 15% gain. The group jumped more than 8% in June, as oil prices recovered, outpacing both the S&P 500 and the Nasdaq.</p>
+      <p>U.S. natural gas futures hovered around $2.60 per million British thermal units early Thursday, down around 60% from the same time last year when futures spiked to 14-year highs as Russia's invasion of Ukraine sparked fears of an energy crisis in Europe.</p>
+      <p>CHK has a 50 Composite Rating out of 99. Chesapeake Energy stock has a 38 Relative Strength Rating and its EPS Rating is 10 out of 99.</p>
+    </div>
+  },
+  {
+    id: 616,
+    title: 'Oil prices to hit $91 by year-end, UBS says',
+    category: 'Commodities',
+    subCategory: ['Oil', 'UBS', 'Prices'],
+    description: <div className="blog-desc">
+      <p>Oil is poised to rally beyond $90 per barrel by the end of the year amid record demand and tightening supply, according to UBS strategists.</p>
+    </div>,
+    authorName: 'Ines Ferré',
+    authorurl: 'https://www.yahoo.com/author/ines-ferre/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 16, 2023 - 9:54 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692347911/ncx-blog-1090_scswhb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3> 
+    	<p>Oil is poised to rally beyond $90 per barrel by the end of the year amid record demand and tightening supply, according to UBS strategists.</p>
+    	<p>"We still see scope for global oil prices to rally,” said a recent UBS note to investors. “We now expect Brent to hit USD 95/bbl and the US WTI benchmark to rise to USD 91/bbl by end-December, up from the current USD 90/bbl and USD 85/bbl, respectively."</p>	
+    	<p>Brent International (BZ=F) prices stand just below $85 per barrel, about 3% off year-to-date highs reached earlier in August. West Texas Intermediate (CL=F) is hovering above $80 per barrel.</p>	
+    	<p>Concerns over China’s economy, the world’s second-largest consumer of crude, recently has put pressure on crude futures. Data released Tuesday by China's National Bureau of Statistics added to concerns of a sluggish recovery as Beijing unexpectedly cut policy rates and withheld information on youth unemployment.</p>
+      <p>"Some investors remain skeptical that China’s latest stimulus efforts—a 15- basis-point cut to its one-year medium-term lending facility (MLF) and a 10bps cut to the short-term 7-day reverse repo rate—will be sufficient to revive demand," the UBS note said. "China is the world’s largest oil importer, the second-largest consumer, and the seventh-largest producer."</p>
+      <p>However, UBS strategists don’t expect the price slide to persist amid firming fundamentals. Those include declining inventories and tight supply as OPEC+ production nears a two year low.</p>
+      <p>OPEC+ has been cutting production since October of last year. Saudi Arabia recently extended its one million barrel-per-day output reduction into September, while Russia announced it will slash oil exports.</p>
+      <p>“We expect global oil demand to hit a record high in August,” the note said.</p>
+      <p>Goldman Sachs analysts recently reaffirmed their forecast of $93 per barrel for Brent crude and $86 per barrel for WTI by December, highlighting the market is less "pessimistic" about the global economy.</p>
+    </div>
+  },
+  {
+    id: 615,
+    title: 'Saudi Arabia Can Play Its Oil-Supply Game, but Demand Will Make the Rules',
+    category: 'Commodities',
+    subCategory: ['Saudi arabia', 'Oil', 'Supply'],
+    description: <div className="blog-desc">
+      <p>The Saudis may sugar coat a production cut as providing stability for the market, but here's what they fail to realize.</p>
+    </div>,
+    authorName: 'TheStreet.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 16, 2023 - 9:53 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692347690/ncx-blog-1089_eqsylt.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Saudis may sugar coat a production cut as providing stability for the market, but here's what they fail to realize.</p>
+    	<p>Brent oil prices have rallied a good $15 per barrel from the lows in July. The highs reached last week around $87 per barrel. It seems the OPEC+ council cannot withstand prices below $70, and hence decided to intervene, activating the OPEC put. Of course, the OPEC put, which is really the Saudi put, has no regard for the consequences of higher-for-longer oil prices -- as long as it maximizes its chances of receiving higher revenues for their oil production. Now, the Fed has to be quite mindful of activating the "Fed put," as the wrong timing can cause much dire consequences. As much as Saudi Arabia may sugar coat the cut as providing stability for the market, it is trying to protect a floor so to speak. But what they fail to realize is how their actions influence the entire world and the Fed put, as well.</p>	
+    	<p>During the summer, Saudi Arabia has a higher power burn, so it suits them to cut production now and pump more domestically. But it has extended its one-million-barrel-per day cut through the end of September, with the goal, or hope rather, that when Chinese demand returns, the world will be tighter than normal, causing prices to rally abnormally.</p>	
+    	<p>They are buying time hoping the eventual rebound in the fourth quarter will take over the job for them. But something more sinister is at work, and perhaps that's why OPEC should look past what economists tell them as they never get the cycle right in the first place. They may have succeeded in temporarily getting oil prices much higher, but the rest of the world is going through a very harsh slowdown that is yet to be felt in asset prices. China is imploding as it has a battle to either quell the disinflationary momentum or support the yuan. The currency is now trading at the lowest since 2015 vs. the dollar, but they are limited as to what it can do as its only hope is to boost the domestic consumer who is not willing to buy another home or another car. Latest Chinese data shows exports slowing down, which it needs to keep its debt fuel bubble going. Its property developers are defaulting on loans that are being offset by shadow banks; this entire Ponzi scheme is finally coming to light as it does not work if the second-hand home market is not on a constant uptrend. They tried to pump money in the economy in the first half of the year, that rally and growth fizzled out. China is not operating in a silo as it needs western world and their demand to chase their products.</p>
+      <p>The Fed has been fighting this battle to get inflation down, a mandate it will not give up on. But the longer oil prices stay higher, it defeats their purpose. This also means that it cannot cut rates when the time comes as inflation will be out of the box again, and then it will be too late. Saudi Arabia may think it is being extremely clever in tweaking the market to keep it up higher for longer, but this is making matters worse. They have cut their Arab light production, which tends to influence many refiners decision as to how much gas oil to produce. The lower gas oil production is causing havoc in the physical markets as gasoline refining margins are sky rocketing. A lot of refineries need light oil to produce products and not heavy oil. So, Saudis are playing a very cheeky game.</p>
+      <p>The problem is demand, not supply. And as much as one would like to keep prices propped up, if the demand rebound never comes, that price rally is futile. A recession will take all prices lower, despite the Saudi put. As each day goes by, the illusion of the Chinese and global demand recovery remains elusive, as the global economy is pushed into a harsh slowdown. OPEC may just be delaying the inevitable, but eventually commodities succumb to the global pressures, especially when the natural floor is nowhere to be seen around these levels.</p>
+    </div>
+  },
+  {
     id: 614,
     title: 'Oil Falls as Concerns About China Spur Volatility Across Markets',
     category: 'Commodities',
