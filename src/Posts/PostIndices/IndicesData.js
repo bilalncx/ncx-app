@@ -1,5 +1,201 @@
 const data = [
   {
+    id: 599,
+    title: 'Dow Jones Futures: Bears Rule As More Leaders Crack, But Ultimate AI Stock Nvidia Fights On',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Nvidia', 'Bears'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures were little changed early Friday, along with S&P 500 futures and Nasdaq futures.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023 - 9:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692354523/ncx-blog-1102_yu8muo.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures were little changed early Friday, along with S&P 500 futures and Nasdaq futures.</p>
+    	<p>Applied Materials (AMAT) and Ross Stores (ROST) headlined overnight earnings, with Deere (DE) and China EV startup XPeng (XPEV) due early Friday.</p>	
+    	<p>The stock market continued to bleed on Thursday while Treasury yields kept rising. The major indexes tried to hold their ground, helped by Cisco Systems (CSCO) rallying on earnings. But once again stocks weakened as the session wore on. The Dow Jones fell below its 50-day line, joining the Nasdaq, S&P 500 and Russell 2000.</p>
+      <p>Leading stocks suffered more damage, looking bad even when the major indexes were flat. Homebuilders Lennar (LEN), KB Home (KBH) and D.R. Horton (DHI) broke lower.</p>
+      <p>Nvidia (NVDA), the stock of the 2023 market rally, largely held its ground as yet another analyst made bullish comments about NVDA stock heading into earnings next week. But almost all other chip stocks are below their 50-day lines. Meanwhile, more-speculative AI plays Palantir Technologies (PLTR) and C3.ai (AI) broke further.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures climbed 0.1% vs. fair value. S&P 500 futures were flat and Nasdaq 100 futures fell 0.1%.</p>
+      <p>The 10-year Treasury yield declined several basis points to 4.25%.</p>	
+    	<p>Bitcoin tumbled Thursday night on news that SpaceX has sold all its holdings in the cryptocurrency.</p>
+      <p>China property giant Evergrande filed for bankruptcy in New York on Thursday night. Hong Kong's Hang Seng slid 1% intraday Friday.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Earnings</h3>
+      <p>AMAT stock rose modestly in late trading after Applied Materials earnings and revenue comfortably beat views. The chip equipment giant also guided higher. AMAT stock edged down 0.5% to 137.59 on Thursday, after falling below its 50-day line recently.</p>
+      <p>ROST stock jumped overnight, signaling a breakout, after Ross Stores topped earnings views and guided slightly higher. Shares fell 1.9% to 113.06 on Thursday. Ross Stores stock has been flirting with a 115.48 cup-with-handle buy point.</p>
+      <p>Deere, XPeng and Chinese e-commerce play Vipshop (VIPS) are on tap before Friday's open.</p>
+      <p>DE stock fell slightly Thursday but found support at its 50-day line. XPEV stock rose Thursday but has pulled back sharply after a huge June-July move. VIPS stock bounced but is below its 50-day line.</p>
+      <p>Meanwhile, Palo Alto Networks (PANW) looms Friday night. Earnings reports after the close are highly unusual, and the cybersecurity giant has given no explanation. PANW stock fell Thursday to its worst level since late May.</p>
+      <h3>Stock Market Thursday</h3>
+      <p>The stock market closed near session lows yet again.</p>
+      <p>The Dow Jones Industrial Average fell 0.8% in Thursday's stock market trading. The S&P 500 index also lost 0.8%. The Nasdaq composite skidded 1.2%. The small-cap Russell 2000 slumped 1.15%.</p>
+      <p>The 10-year Treasury yield climbed 5 basis points to 4.31%. Intraday, the yield hit 4.328%, a whisker below the 15-year high of 4.331% set last October. It's already the highest close since November 2007.</p>
+      <p>U.S. crude oil prices rose 1.3% to $80.39 a barrel, snapping a three-session slide. Copper futures climbed 0.9%.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) slumped 2.3%. The iShares Expanded Tech-Software Sector ETF (IGV) gave up 1.5%. The VanEck Vectors Semiconductor ETF (SMH) fell 0.7%. AMAT stock is a notable SMH holding, with Nvidia the No. 1 holding.</p>
+      <p>Reflecting stocks with more-speculative stories, the ARK Innovation ETF (ARKK) retreated 2.4% and ARK Genomics (ARKG) lost 0.7%.</p>
+      <p>The SPDR S&P Metals & Mining ETF (XME) edged up 0.2%, while the Global X U.S. Infrastructure Development ETF (PAVE) declined 1.5%. U.S. Global Jets (JETS) descended 1.5%. SPDR S&P Homebuilders (XHB) tumbled 3.6%, with DHI stock and Lennar holdings. The Energy Select SPDR ETF (XLE) rose 1.2%. The Health Care Select Sector SPDR Fund (XLV) dropped 0.8%.</p>
+      <p>The Industrial Select Sector SPDR Fund (XLI) slipped 0.8%, with DE stock a top-10 holding.</p>
+      <p>The Financial Select SPDR ETF (XLF) dipped 0.5%. The SPDR S&P Regional Banking ETF (KRE) was flat.</p>
+      <h3>Market Analysis</h3>
+      <p>The losses keep piling up for the major indexes and leading stocks. Bulls are no longer putting up much of a fight.</p>
+      <p>The Nasdaq is 3.5% below its 50-day line, with the 21-day about to cross below the 50-day. The S&P 500 is separating from the 50-day while the Russell 2000 is approaching its 200-day.</p>
+      <p>The Dow Jones, which looked strong Monday, has dipped below its 50-day line.</p>
+      <p>The Nasdaq advance/decline line has hit long-term lows. The NYSE A/D line has pulled back, but more modestly.</p>
+      <p>Leading stocks do not look good. Some heretofore resilient areas are cracking, like homebuilders. Lennar, D.R. Horton and KBH stock fell 5% to 6% and are now decisively below their 50-day lines.</p>
+      <p>Nvidia stock lost a fraction Thursday but is still holding the bulk of Monday's big rebound. The ultimate AI stock finished pennies below its 50-day line but is essentially finding support. But that's not enough to prop up the broader market.</p>
+      <p>Other AI plays are not holding up. PLTR stock plunged 8.5% and AI stock skidded 5.3%. Both broke below fresh levels after diving through their 50-day lines earlier this week.</p>
+      <p>Energy plays are doing well thanks to rising crude prices. Industrials, infrastructure plays and some steel stocks are showing relative strength, even as many pull back modestly.</p>
+      <h3>What To Do Now</h3>
+      <p>The stock market has piled losses onto losses. Investors have to take action, paring exposure as recent buys turn into losers and longer holdings slash gains.</p>
+      <p>The stock market arguably is due for a rebound. But with the Nasdaq well below its 50-day and Nvidia looming, there's little reason to get excited over one good day.</p>
+      <p>Investors may want to use a market bounce as a chance to exit positions.</p>
+      <p>Still, when a strong uptrend resumes, many stocks will offer buying opportunities. So you want to be ready. Keep working on watchlists, emphasizing stocks showing relative strength.</p>
+    </div>
+  },
+  {
+    id: 598,
+    title: 'Dow Jones Dives Below Critical Level; Cathie Wood Piles Into This Stock After 50% Plunge',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Cathie Wood', 'Stocks'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average fell under a key level as Walmart (WMT) reversed lower despite an earnings beat. CVS Health (CVS) cratered after a big insurer tapped rivals including Amazon.com (AMZN) for drugs. Famed fund manager Cathie Wood snapped up shares in a pharma stock despite a big plunge.</p>
+    </div>,
+    authorName: 'MICHAEL LARKIN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 18, 2023 - 12:25 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692353792/ncx-blog-1101_sagos8.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average fell under a key level as Walmart (WMT) reversed lower despite an earnings beat. CVS Health (CVS) cratered after a big insurer tapped rivals including Amazon.com (AMZN) for drugs. Famed fund manager Cathie Wood snapped up shares in a pharma stock despite a big plunge.</p>
+    	<p>With the market weakening, now is a good time to bulk up one's watchlist. PDD (PDD), Cinemark (CNK) and Automatic Data Processing (ADP) are potential candidates near entries.</p>	
+    	<p>Stocks fell after investors digested more economic data. First-time jobless claims fell to 239,000 vs. 248,000 in the previous week, according to the Labor Department. Economists had expected them to fall to 240,000. Ongoing strength in the jobs market bolsters the case of interest rate hawks.</p>
+      <p>In addition, the Philadelphia Fed manufacturing index came in with a 12.0 reading, showing growth. This was much better than the expected -10.0 reading.</p>
+      <p>Treasury yields were mixed. The 10-year yield rose 5 basis point to 4.31% while the two-year yield slipped 5 basis point to 4.93%. Dow Jones Market Data says the 10-year yield is at the highest since Nov. 7, 2007, based on 3 p.m. ET yields.</p>
+      <h3>Bears Maul Nasdaq, Small Caps</h3>	
+      <p>The tech-heavy Nasdaq closed at session lows, falling 1.2%. Moderna (MRNA) stood out from the crowd as it turned in a powerful gain of 7.4%.</p>
+      <p>The benchmark S&P 500 held up slightly better, but still fell 0.8%. Juniper Networks (JNPR) shined here thanks to a lift of 3.1%.</p>
+      <p>The S&P 500 sectors were almost all negative. Consumer staples and consumer discretionary lagged the most in the stock market today. Energy was the only area to finish in positive territory.</p>
+      <p>Small caps were spanked, with the Russell 2000 falling 1.1%. But bears gave growth stocks the worst thrashing, with the Innovator IBD 50 ETF (FFTY) diving 2.1%.</p>
+      <h3>Dow Jones Today: Walmart Earnings Beat, WMT Reverses</h3>
+      <p>The Dow Jones closed down 291 points, or 0.8%. There was enough to cause it to end below the 50-day moving average, joining the Nasdaq and the S&P 500 below this key level.</p>
+      <p>Walmart was among the worst performers in the Dow despite posting strong earnings and sales results and raising its fiscal-year outlook. The retail giant ended the session down 2.2% after reversing lower. It retreated below the 50-day moving average, MarketSmith analysis shows.</p>
+      <p>In contrast, Cisco Systems (CSCO) popped 3.3% after topping views on the top and bottom lines.</p>
+      <p>Poor sessions from the likes of Intel (INTC), Boeing (BA) and UnitedHealth (UNH) also dragged. But Walgreens Boots Alliance (WBA) fared worst of all on the index as it skidded 3.7%.</p>
+      <h3>Cathie Wood Snaps Up Stock After Dip, Sells Shopify</h3>
+    	<p>Big-name investors are often brave enough to buy on the dip. That is certainly the case with Wood, the famed fund manager.</p>
+      <p>The ARK Invest CEO was at it again when she snapped up a big chunk of Recursion Pharmaceuticals (RXRX) Wednesday.</p>
+      <p>Her firm bought almost 220,000 shares for the ARK Genomic Revolution ETF (ARKG).</p>
+      <p>From its July 19 high of 16.75 to today's low of 8.42, its decline was about 50%. The company is unprofitable for now but its shares are in the top 13% of stocks in terms of price performance over the past 12 months.</p>
+      <p>RXRX stock does seem to be getting support at the 200-day moving average, at least for now.</p>
+      <p>Wood also trimmed her holdings of Shopify (SHOP) in her flagship ARK Innovation ETF by just over 182,000 shares Wednesday.</p>
+      <h3>CVS Stock Craters On Amazon Move</h3>
+      <p>CVS Health was given a painful beatdown on news Blue Shield of California is ending its pharmacy benefits partnership with the firm.</p>
+      <p>The insurer is ditching CVS Caremark in favor of Amazon Pharmacy and Mark Cuban Cost Plus Drug as it seeks to save on the cost of pharmaceuticals.</p>
+      <p>Blue Shield of California CEO Paul Markovich said he believes the firm will "be saving $500 million a year" once the plan comes to fruition.</p>
+      <p>But while this may benefit customers, it has proved to be a bitter pill for CVS shareholders. CVS stock ended off lows but still fell 8.1%, gapping below its 50-day moving average. This is a key sell signal for a stock that had barely begun to rebound.</p>
+      <h3>Outside Dow Jones: These Stocks Eye Buy Points</h3>
+      <p>With the stock market struggling, it is a good time to add names to your watchlist.</p>
+      <p>China e-commerce stock PDD is one to watch for adventurous investors. Shares have formed a cup-with-handle base with a 92.79 buy point.</p>
+      <p>PDD stock has been finding support at the 10-week moving average. Overall strong performance is reflected in its IBD Composite Rating of 93 out of 99.</p>
+      <p>Cinemark is eying a consolidation pattern entry of 18.85, but has formed a handle with an 18.46 buy point. It is in the top 11% of stocks in terms of price performance over the past 12 months.</p>
+      <p>The cinema chain has also been seeing rising institutional investment, with its Accumulation/Distribution Rating coming in at B.</p>
+      <p>Outsourcing and payroll services play ADP has formed a cup with handle with an entry point of 256.84. The relative strength line is looking bullish. Performance is strong overall, with its IBD Composite Rating coming in at 99.</p>
+    </div>
+  },
+  {
+    id: 597,
+    title: 'Dow Jones Rises After Jobless Claims; Walmart Drops On Earnings',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Jobless', 'Walmart'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average rose Thursday, boosted by the morning's economic data that included lower-than-expected unemployment claims. Meanwhile, Walmart reversed lower despite strong earnings results.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 6:20 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692353435/ncx-blog-1100_qotlix.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average rose Thursday, boosted by the morning's economic data that included lower-than-expected unemployment claims. Meanwhile, Walmart reversed lower despite strong earnings results.</p>
+    	<p>The Labor Department reported first-time jobless claims dropped to 239,000 vs. 248,000 in the previous week. They were expected to fall to 240,000.</p>	
+    	<p>Further, the Philadelphia Fed manufacturing index came in with a 12.0 reading, showing growth. It was anticipated to remain in contraction, with a -10.0 reading.</p>
+      <p>Early Thursday, key earnings movers included Walmart (WMT). The retail giant gave up early losses to drop 0.6% after the company reported strong earnings and sales results and raised its fiscal-year outlook.</p>
+      <p>Also on the move were StoneCo (STNE), and Dow Jones stock Cisco Systems (CSCO). Cisco shares rallied nearly 5% in early action, while StoneCo dived 6%.</p>	
+    	<h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) traded down 1% Thursday morning. Dow Jones tech icons Apple (AAPL) and Microsoft (MSFT) were lower after today's stock market open.</p>
+      <p>Other stock market leaders include Alphabet (GOOGL), Meta Platforms (META) and Nvidia (NVDA). GOOGL stock traded up 1%, while Meta shares lost a fraction in early trade. Finally, Nvidia shares climbed 0.6% on a pair of price-target hikes. Oppenheimer raised its price target to 500, while Rosenblatt upped its target to 800.</p>
+      <p>Costco Wholesale (COST), Expro (XPRO), SLB (SLB) and Oracle (ORCL) — as well as Dow Jones stocks Boeing (BA) and Visa (V) — are among the best stocks to watch as the market's uptrend comes under increasing pressure.</p>
+      <p>Tesla and Costco are IBD Leaderboard stocks, while Boeing and SLB were recent IBD Stock Of The Day picks. Costco was featured in this Stocks Near A Buy Zone column. Oracle is an IBD SwingTrader stock.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Thursday's opening bell, the Dow Jones Industrial Average rose 0.3%, while the S&P 500 gained 0.1%. The tech-heavy Nasdaq composite turned down 0.3% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) was down 0.25%, while the SPDR S&P 500 ETF (SPY) moved up 0.1% early Thursday.</p>
+      <p>Early Thursday, the 10-year U.S. Treasury yield ticked higher to 4.31%, after settling at 4.25% Tuesday.</p>
+      <p>West Texas Intermediate oil prices are well off early August highs and testing support around $80. WTI futures rose 1.5% early Thursday, looking for a rebound after three days of declines, recovering to just to above $80.50 a barrel.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Wednesday, the Dow Jones Industrial Average dropped 0.5%, while the S&P 500 lost 0.8%. The tech-heavy Nasdaq composite tumbled 1.15%, further below its 50-day line.</p>
+      <p>Wednesday's Big Picture column commented, "Headed into Wednesday, IBD's recommended stock market exposure was 60% to 80%. In light of Wednesday's weak session, exposure should be lowered to 40% to 60%."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market continues to pull back from this year's highs.</p>
+      <h3>Dow Jones Stocks: Boeing, Visa</h3>
+      <p>Aerospace giant Boeing broke out in recent weeks, topping a 223.91 flat-base entry. Shares are back in the 5% buy area that goes up to 235.11, following a two-day slide. BA stock moved up 0.2% Thursday morning.</p>
+      <p>And Dow Jones payments leader Visa continues to hold in buy range past a 235.57 flat-base buy point, according to IBD MarketSmith pattern recognition. V stock was up 0.3% early Thursday.</p>
+      <h3>Stocks To Watch: Expro, SLB, MercadoLibre, Costco, Oracle</h3>
+      <p>Offshore drilling services provider Expro snapped a three-day losing streak Wednesday, but is still below a 23.72 buy point in a cup-with-handle base, according to IBD MarketSmith. XPRO stock was up 1.3% Thursday morning.</p>
+      <p>Energy giant SLB, formerly known as Schlumberger, fell further below its 58.70 buy point in a cup with handle with a 0.9% drop Wednesday. SLB stock bounced 2.1% early Thursday.</p>
+      <p>Among IBD Leaderboard stocks, Costco was a new half-size position last week. The megacap retailer is just shy of a handle entry at 571.16, and it's trying to hold above a mini trendline near 559-560. On Thursday morning, Costco stock inched higher.</p>
+      <p>Oracle continues to trace a flat base with a 127.54 buy point. An early entry at 121.36 is also in play, as the software leader tries to maintain support around the 50-day line. ORCL stock moved up 0.6% early Thursday.</p>
+      <h3>Tesla Stock</h3>
+      <p> stock Tesla skidded another 3.2% Tuesday, closing further below its 50-day line and extending a losing streak to four sessions. Amid the unabated selling, it's clear that the stock requires more time to consolidate before a new entry.</p>
+      <p> looked to bounce back from Wednesday's losses, but reversed lower to fall 1% early Thursday.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock dropped 0.5% Wednesday, hitting a recent low. The stock remains squarely below the 50-day line following sharp losses in recent weeks. Shares traded down 0.8% Thursday.</p>
+      <p>Microsoft shares remain squarely below their 50-day line and at their recent lows, signs the stock needs more time to consolidate before a new buy point emerges. And on Thursday morning, the stock fell 0.3%.</p>
+    </div>
+  },
+  {
+    id: 596,
+    title: 'The S&P 500 is massively overvalued - and likely to plunge like it did last year, top economist David Rosenberg says',
+    category: 'Indices',
+    subCategory: ['S&P', 'Overvalued', 'David'],
+    description: <div className="blog-desc">
+      <p>Get ready for a repeat of last year's slump in stocks, as investors wake up to the mounting risks in markets today, David Rosenberg has warned.</p>
+    </div>,
+    authorName: 'Theron Mohamed',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 17, 2023 - 12:34 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692352659/ncx-blog-1099_oi85ty.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>David Rosenberg expects a repeat of last year's sharp decline in stocks as risks mount in markets.</li>
+        <li>The economist sees several headwinds including Fitch and Moody's downgrades and Chinese deflation.</li>
+        <li>The S&P 500 is way overvalued by historical standards and relative to other assets, Rosenberg says.</li>
+      </ul>
+    	<p>Get ready for a repeat of last year's slump in stocks, as investors wake up to the mounting risks in markets today, David Rosenberg has warned.</p>
+    	<p>The Rosenberg Research president pointed to deflation in China, the prospect of higher borrowing costs for the US government after Fitch downgraded the country's credit rating, and a looming credit crunch after Moody's cut the credit ratings of several US regional banks. He also singled out the resumption of student-loan payments in September as a likely drag on young Americans' future spending.</p>	
+    	<p>"The stock market simply does not understand, or more charitably does not appreciate," those headwinds, Rosenberg said in a video uploaded to his firm's YouTube channel on Tuesday.</p>
+      <p>"It would be one thing if the S&P 500 was priced for these imperfections, but instead it is priced for perfection," the former chief North American economist at Merrill Lynch added.</p>
+      <p>Rosenberg explained that the equity-risk premium, or the projected difference in returns from stocks versus safe assets like government bonds, has tumbled to two-decade lows. Moreover, S&P 500 companies' valuations are in the top 9% of expensiveness in the index's history, he said.</p>
+      <p>The veteran economist noted his firm's Strategizer tool, which models future returns for different assets and markets, is now showing its lowest score for the S&P 500 since January 2022. He pointed out that the benchmark index slumped nearly 30% during the next nine months last year, as price-to-earnings multiples receded toward historical averages.</p>
+      <p>"We should expect a déjà vu, especially with interest rates so much higher than they were back then," Rosenberg said.</p>	
+    	<p>Investors should avoid the "uber-expensive" US stock market, and instead buy "undervalued and deeply shorted" US Treasuries, Rosenberg argued. He also touted stocks in Canada and Asia — excluding China given the geopolitical risks of parking money there now —  as well as gold, a traditional haven asset.</p>
+      <p>Rosenberg has been pounding the alarm on stocks and economic risks for a while. In a recent research note, he compared the current hype around stocks to the mania that preceded the Great Crash of 1929, the dot-com bubble's implosion in the early 2000s, and the housing market's collapse in 2008.</p>
+      <p>Moreover, he warned that American consumers are burning through their savings and racking up credit-card debt as they weather historic inflation and sharply higher interest rates. They're now "at the end of the rope," paving the way for a painful recession, he said.</p>
+    </div>
+  },
+  {
     id: 595,
     title: 'Dow Jones Futures Rise As Rally Tries To Survive: Tesla, Steel Giant Move On News',
     category: 'Indices',
