@@ -1,5 +1,113 @@
 const data = [
   {
+    id: 621,
+    title: 'Oil Rises for Third Day as Tighter Market Vies With Demand Risks',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Rises', 'MArket'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil rose for a third day as signs the physical market is tightening offset growing demand risks in China and the US.</p>
+    </div>,
+    authorName: 'Yongchang Chin and Alex Longley',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 5:03 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692628732/ncx-blog-1144_y5hocp.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil rose for a third day as signs the physical market is tightening offset growing demand risks in China and the US.</p>
+    	<p>Global benchmark Brent traded above $85 a barrel and is up more than 2% since last Wednesday’s close. The most immediate parts of the oil futures curve are pointing to tight supplies as curbs from OPEC+ linchpins Russia and Saudi Arabia help propel crude prices higher.</p>	
+    	<p>There was also some support from wider markets, with European equities trading higher. US futures also pointed to a firmer open after a rough August so far for investors.</p>	
+    	<p>Economic malaise in China — ranging from downbeat consumers to struggling exports — and stubbornly persistent inflation risks in the US saw oil fall last week, bucking a recent strong run. Chinese banks made a smaller-than-expected cut to their benchmark lending rate Monday and avoided trimming the reference rate for mortgages, despite the central bank putting pressure on lenders to boost loans.</p>
+      <p>Meanwhile, some refined products such as diesel — the workhorse fuel of the global economy — have started pricing in scarcity this winter, boosting their premium to the oil from which they are made. Gasoline futures in New York have risen by 15% this year, also outpacing crude.</p>
+      <p>“The Chinese growth outlook is causing demand concerns while the crude oil market, including various product markets, remains exceptionally tight,” said Arne Lohmann Rasmusen, head of research at A/S Global Risk Management. “The increased backwardation indicates that the spot market is tight.”</p>
+      <p>The annual Jackson Hole symposium in Wyoming, which features speakers including Federal Reserve Chair Jerome Powell, may provide clues on the direction of interest rates. More increases in borrowing costs may be coming in the US after minutes of the Fed’s July meeting showed officials remained concerned about the inflationary threat.</p>
+    </div>
+  },
+  {
+    id: 620,
+    title: 'Analysis-China LNG buyers expand trading after adding more US, Qatari contracts',
+    category: 'Commodities',
+    subCategory: ['China', 'LNG', 'Qatari'],
+    description: <div className="blog-desc">
+      <p>SINGAPORE/LONDON (Reuters) - China's liquefied natural (LNG) gas importers are starting up or expanding trading desks in London and Singapore to better manage their growing and diversified supply portfolios in an increasingly volatile global market.</p>
+    </div>,
+    authorName: 'Chen Aizhu, Emily Chow and Marwa Rashad',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 7:55 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692628495/ncx-blog-1143_mv9exd.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Chen Aizhu, Emily Chow and Marwa Rashad</p>
+    	<p>SINGAPORE/LONDON (Reuters) - China's liquefied natural (LNG) gas importers are starting up or expanding trading desks in London and Singapore to better manage their growing and diversified supply portfolios in an increasingly volatile global market.</p>	
+    	<p>The beefed-up trading presence of Chinese importers puts them in direct competition with such global heavyweights as Shell, BP, Equinor and TotalEnergies for a market that the International Energy Agency says doubled in value to $450 billion last year.</p>	
+    	<p>About a dozen Chinese companies have been expanding trading teams or adding new desks, with privately run ENN Natural Gas and state-run China National Offshore Oil Corp (CNOOC) the latest to plan London offices, and utility China Gas Holdings setting up a Singapore operation, company officials and traders said.</p>
+      <p>Chinese gas importers have also boosted long-term LNG contracts with Qatar and U.S. suppliers by nearly 50% since late 2022 to more than 40 million metric tons per year (mtpy), with plans to add more volumes from those two countries, as well as from Oman, Canada and Mozambique, traders and analysts said.</p>
+    	<p>"We're going to see a paradigm shift in Chinese companies from being total net importers to (being) more international and domestic trading players," said Toby Copson, Shanghai-based head of global trading for Trident LNG.</p>	
+    	<p>Already, state-run PetroChina, Sinopec, Sinochem Group and CNOOC are actively trading volatility to capitalise on their long portfolios, Copson said.</p>	
+    	<p>China vies with Japan to be the world's largest LNG importer, although it's not clear how much surplus or other volumes Chinese companies might have available to trade.</p>
+      <p>PetroChina International (PCI), trading arm of PetroChina and China's largest gas trader with a 100-strong global team in Beijing and four other international offices, imported or traded about 30 million tons of LNG last year.</p>
+    	<p>Zhang Yaoyu, PCI's global head of LNG trading, declined to comment on the company's traded volume, but said trading was part of the company's overall strategy.</p>	
+    	<p>"Supply security is still at the heart of our business activities. Trading capability is one of the enablers ... to help us better deal with market swings," Zhang said.</p>	
+    	<p>By 2026, Chinese companies are expected to have contracted LNG supplies of more than 100 million tons a year. That could mean a surplus of up to 8 million tons that year, according to consultancy Poten & Partners, or a deficit of 5 million to 6 million tons based on estimates from pricing agency ICIS.</p>
+      <p>Either way, China's growing domestic output and more piped gas from Central Asia and Russia provide enough of a fuel base that Chinese gas companies can trade or swap U.S. and other portfolio cargoes when arbitrages open or it makes market sense.</p>
+    	<p>"I could see China becoming a seasonal seller to places like Southeast Asia, South Korea and Japan, as well as into Europe," said Jason Feer, head of business intelligence at Poten & Partners.</p>	
+    	<p>U.S. LNG contracts are done on a free-on-board (FOB), open basis with no restrictions on destination, and consultant Rystad Energy estimates U.S. volume will make up a quarter of China's long-term contracts by 2030.</p>	
+    	<p>Qatar, which will be China's largest supplier for 2026, however, offers traditional LNG contracts that are restricted to a single destination or country.</p>
+      <p>BIG PUSH IN A SHIFTING MARKET</p>
+    	<p>Russia's invasion of Ukraine last year forced European buyers to raise LNG imports by two-thirds to replace lost Russian piped gas. This created an outlet for companies with available supplies, and Chinese, Japanese and South Korean companies pounced as global LNG prices surged and the value of the market doubled.</p>	
+    	<p>European users have also been reluctant to sign long-term contracts because of decarbonisation goals, and Asian gas traders and importers have been sending LNG to Europe during spring and summer to fill storage tanks there, Feer said.</p>	
+    	<p>PCI as well signed a deal in May to use Rotterdam's Gate regasification terminal for 20 years, a first for a Chinese company in Europe.</p>
+      <p>These openings in the market and a more liberalised domestic gas market have also prompted smaller Chinese gas distributors and importers to expand into the trading space.</p>	
+    	<p>China Gas Holdings, for instance, which has signed contracts for 3.7 million tons per year for U.S. LNG, is hiring its first two traders for a new office in Singapore and is looking to secure more contracts, a company executive told Reuters.</p>	
+    	<p>It joins ENN, Beijing Gas, Zhejiang Energy and JOVO Energy in establishing a trading presence in the Southeast Asian energy hub.</p>
+      <p>"Compared to Japanese firms, Chinese are way more aggressive in expansion, with PCI and Unipec among the best payers offering comparable packages as the global majors," as they look to fill out trading desks, said a Singapore-based recruiter.</p>	
+    	<p>(Reporting by Chen Aizhu and Emily Chow in Singapore, and Marwa Rashad in London; Additional reporting by Yuka Obayashi in Tokyo; Editing by Tom Hogue)</p>	
+    </div>
+  },
+  {
+    id: 619,
+    title: 'Diesel Is Pricing a Scarcity With Winter Demand Looming',
+    category: 'Commodities',
+    subCategory: ['Diesel', 'Pricing', 'Demand'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- At any other time in history, the current state of the global diesel market would have sent some countries into a panic.</p>
+    </div>,
+    authorName: 'Elizabeth Low, Jack Wittels and Chunzi Xu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 5:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692628144/ncx-blog-1142_mnxddl.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- At any other time in history, the current state of the global diesel market would have sent some countries into a panic.</p>
+    	<p>All over the world, prices for the fuel are sky-high relative to the crude oil from which it is made, pointing to a scarcity that should alarm inflation-obsessed governments everywhere. And within just a few months, the Northern Hemisphere will enter winter, pushing up demand for heating.</p>	
+    	<p>The good news is that the market looked even worse this time last year following Russia’s invasion of Ukraine — and prices ultimately came down, helped by a relatively mild winter. However, today’s shriveled stockpiles mean the world can ill afford any bullish market surprises: supply curbs can arise at any time, or demand shocks can come from cold weather or surprisingly strong economies.</p>	
+    	<p>“We should be building stocks now as they usually begin drawing seasonally from September,” said Eugene Lindell, head of refined products at industry consultant FGE. “There is a worry that stocks will not build sufficiently before October, and we will then start seeing draws from what threatens to be a low base.”</p>
+      <p>The crux of the diesel supply concerns now lies in Europe and the US Atlantic Coast, he added.</p>
+      <p>Oil markets have been rocked by soaring fuelmaking margins in recent weeks, with refinery curbs shrinking global supplies at a time when crude producers including Saudi Arabia are keeping barrels off the market.</p>
+      <p>Lean Inventories</p>
+      <p>Stockpiles of diesel-type fuel in northwest Europe are set to fall in coming months, according to consultancy Wood Mackenzie Ltd. While that’s typical for the time of year, inventories are currently lower than historical norms — though still up year-on-year.</p>
+      <p>“The outlook for Europe diesel/gasoil supply is tight in our current forecast, driven by the lower diesel/gasoil yields expected from lighter crude slates, the shift to jet yields, and unplanned refinery outages,” said Emma Howsham, a research analyst for refining and oil product markets at Wood Mackenzie. “Demand is expected to increase month-on-month to November.”</p>
+      <p>A switch to less dense crude — a function of cuts by Saudi Arabia, Russia and others — has led to OECD Europe’s yields of diesel-type fuel being more than 1.6% lower in July compared with the historic average, she said.</p>
+      <p>In the midst of the existing supply crunch, markets are closely watching China as its refiners await a fresh round of fuel export quotas from the government, which will allow them to keep shipping fuels. While ample Chinese flows could help to ease the current tightness, there’s a possibility they could offer thin relief this time.</p>
+      <p>It’s unlikely there’ll be a surge in Chinese diesel shipments, even after the quotas have been issued, said Jianan Sun, an oil analyst at Energy Aspects. China’s domestic diesel demand has “surprised to the upside” with higher than expected infrastructure spending offsetting losses from the property market, he added. As a result, stockpiles failed to build even during seasons of weaker demand, said Sun.</p>
+      <p>In the US, retail diesel prices have risen consistently since late July, so much so that it contributed more to inflation than gasoline in August. American refiners haven’t been able to build up inventories this summer, the typical period for supply growth in between crop seasons and ahead of winter heating. That’s because market conditions have made stockpiling a losing venture, similar to last year.</p>
+      <p>New England’s main supplier, East Canada’s Irving refinery, will undergo major maintenance work lasting seven weeks starting September. This leaves the region out of reach for pipelines, at the mercy of seaborne shipments from further afield.</p>
+      <p>Bullish Bets</p>
+      <p>The diesel market’s performance is important beyond the universe of a few specialist traders.</p>
+      <p>In its broadest definition, this type of fuel — which has varying specifications and is used in everything from cars and ships to heating and heavy machinery — is the single biggest chunk of petroleum product demand.</p>
+      <p>Hedge funds are lifting their bullish bets, with net-long positions on ICE gasoil rose to the highest since March 2022 last week. Net-long positions on Nymex diesel also jumped to an 18-month high earlier this month.</p>
+      <p>Beyond that, it’s a vital fuel for the world’s supply chains, and major shortages and price shocks can have implications for governments and industries.</p>
+      <p>Last year, high diesel prices spurred trucker strikes across Asia, pressuring governments trying to stave off inflation from rising energy costs. In the US, farmers and trucking companies that purchase in bulk stand to hurt even more from the rising costs.</p>
+      <p>The current crunch highlights a dilemma that nations have in phasing out oil refineries as they try to transition away from fossil fuels.</p>
+      <p>Recent heatwaves have capped refinery output and impacted a global system that’s still coping with the halting of several plants in recent years, said FGE’s Lindell.</p>
+    </div>
+  },
+  {
     id: 618,
     title: 'Oil set to snap 7-week winning streak on US rate outlook, China woes',
     category: 'Commodities',

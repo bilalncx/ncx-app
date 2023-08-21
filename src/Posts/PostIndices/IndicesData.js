@@ -1,5 +1,216 @@
 const data = [
   {
+    id: 603,
+    title: 'Dow Jones Futures Rise: Market In Correction As Nvidia Earnings, Powell Speech Loom; What To Do',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Nvidia', 'Powell'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures rose modestly Monday morning, along with S&P 500 futures and Nasdaq futures, even as Treasury yields rebounded. Nvidia (NVDA) earnings and a big speech from Fed chief Jerome Powell lie ahead.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 4:20 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692627220/ncx-blog-1141_xiclqx.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures rose modestly Monday morning, along with S&P 500 futures and Nasdaq futures, even as Treasury yields rebounded. Nvidia (NVDA) earnings and a big speech from Fed chief Jerome Powell lie ahead.</p>
+    	<p>Palo Alto Networks (PANW) reported Friday night, with PANW stock surging early Monday. U.K. regulators cleared the Broadcom (AVGO) takeover of VMware (VMW) Monday, with the U.S. taking no action. Only China is left to OK the Broadcom-VMware deal. VMW stock popped, while Broadcom edged higher.</p>	
+    	<p>The stock market fell into a correction last week, as the key indexes tumbled below their 50-day lines and leading stocks broke hard with Treasury yields surging to 15-year highs. The indexes did bounce off lows Friday as the 10-year yield fell back, but the picture hasn't fundamentally changed.</p>	
+    	<p>Friday could just be a short-term bounce. Investors should wait for sustained strength. Nvidia's earnings and Fed chief Powell's Jackson Hole speech could be market catalysts, but which way?</p>
+      <p>Investors should be defensive during the market correction, but looking for stocks that are holding up relatively well. Arista Networks (ANET), Diamond Offshore (DO), Commercial Metals (CMC), Visa (V), Boeing (BA) and Google-parent Alphabet (GOOGL) are six stocks to watch, along with Nvidia.</p>	
+    	<p>Nvidia stock is on IBD Leaderboard. ANET stock is on the IBD 50. Google stock is on the IBD Big Cap 20. Diamond Offshore was Friday's IBD Stock Of The Day.</p>	
+    	<p>The video embedded in the article discussed a big market week and analyzed Google, Boeing and DO stock.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.3% above fair value. S&P 500 futures climbed 0.45% and Nasdaq 100 futures rose 0.6%.</p>	
+    	<p>The 10-year Treasury yield rose a few basis points to 4.3%.</p>	
+    	<p>Crude oil futures climbed more than 1%.</p>
+      <p>China's Hang Seng index fell 1.8%. Overnight, China's central bank cut its one-year loan prime rate to 3.45% from 3.55%, but unexpectedly kept its five-year loan prime rate at 4.2%. Chinese financial regulators met with state-owned banks, once again telling lenders to boost loans along with various housing-related measures, according to a central statement released Sunday. Beijing has pledged support frequently for a faltering economy, but has relied on rate cuts and regulatory tweaks or prodding vs. fiscal stimulus.</p>	
+    	<p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Palo Alto Earnings</h3>	
+    	<p>Palo Alto earnings beat views late Friday, while revenue just missed. The cybersecurity giant guided up on earnings but down slightly for revenue.</p>
+      <p>Friday night earnings reports are rare, so the timing had raised investor concerns.</p>
+      <p>PANW stock jumped nearly 13% in premarket trading Monday. Shares rose 1% to 209.69 in Friday's session after falling to 201.07 intraday, testing a prior buy point around 203. But Palo Alto stock has dived 16.1% in August through Friday's close.</p>
+      <h3>Stock Market Correction</h3>
+      <p>A stock market correction took hold last week, with big losses for the major indexes and leading stocks. Rising Treasury yields and mounting China economic concerns were big headwinds.</p>	
+    	<p>The Dow Jones Industrial Average fell 2.2% in last week's stock market trading. The S&P 500 index sank 2.1%. The Nasdaq composite slumped 2.6%. The small-cap Russell 2000 skidded 3.4%.</p>	
+    	<p>The 10-year Treasury yield rose more than 8 basis points this week to 4.25%, even with Friday's retreat of nearly six basis points. During the week, the 10-year yield came within a fraction of the 15-year high of 4.331% set in October 2022. It did set its highest close since late 2007.</p>
+      <p>U.S. crude oil futures fell 2.3% to $81.25 a barrel last week.</p>
+      <h3>ETFs</h3>	
+    	<p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) tumbled 3.7% last week. The iShares Expanded Tech-Software Sector ETF (IGV) retreated 1.5%. PANW stock is in IGV. The VanEck Vectors Semiconductor ETF (SMH) lost a fraction. Nvidia stock is the No. 1 SMH holding.</p>	
+    	<p>SPDR S&P Metals & Mining ETF (XME) rose 0.5% last week, with CMC stock a significant holding. The Global X U.S. Infrastructure Development ETF (PAVE) sank 2.6%. U.S. Global Jets ETF (JETS) descended 4.7%. SPDR S&P Homebuilders ETF (XHB) plunged 4.4%. The Energy Select SPDR ETF (XLE) fell 1.2%, snapping a five-week win streak. The Health Care Select Sector SPDR Fund (XLV) retreated 1.6%. The Industrial Select Sector SPDR Fund (XLI) declined 2.4%, with BA stock a major holding.</p>
+      <p>The Financial Select SPDR ETF (XLF) retreated 2.8%, with Visa stock a top-10 member. And the SPDR S&P Regional Banking ETF (KRE) tumbled 6.4%.</p>	
+    	<p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) slumped 5.5% last week and ARK Genomics ETF (ARKG) 4.9%.</p>	
+      <h3>Nvidia Earnings</h3>
+    	<p>It's fair to say that expectations are high heading into Nvidia earnings on Wednesday night. Q1 results were stellar while the Q2 guidance was spectacular. Meanwhile, at least five Wall Street analysts pounded the table for Nvidia last week, upgrading the chip giant or raising NVDA stock price targets. Two more raised price targets on Monday.</p>
+      <p>So strong results and guidance could fail to lift Nvidia stock.</p>	
+    	<p>Nvidia stock actually popped 6% in the past week to 432.99, fueled by Monday's 7.6% surge. Shares flirted with an aggressive entry, but then faded to end the week just below the 50-day line.</p>	
+    	<p>Shares rose nearly 3% early Monday amid the ongoing bullish analyst comments, signaling a move back above the 50-day and 21-day lines.</p>	
+    	<p>Investors could use Tuesday's high of 452.68 as an early entry. Nvidia stock is on track to have a new base at the end of this week.</p>
+      <p>Nvidia earnings will likely have a big impact on the broader market, especially chip and AI plays.</p>	
+      <h3>Fed Chief Powell's Jackson Hole Speech</h3>
+    	<p>Fed chief Jerome Powell will give a policy speech on Friday, Aug. 25, at the annual Jackson Hole symposium.</p>	
+    	<p>Fed chief Powell is likely to signal patience about further rate hikes, while still leaving the door open, and pushing back on the prospects for rate cuts. With inflation still too high but coming down, policymakers see less urgency to act. A big jump in Treasury yields means that market rates have tightened considerably in the past few weeks, further reducing the need for official Fed rate hikes.</p>
+      <p>Another reason to wait and see? While U.S. economic growth is solid, Europe and China are showing weakness and could be a drag on U.S. inflation and growth ahead.</p>
+      <p>Of course, a hawkish Powell speech could upend rate-hike expectations. Investors see scant chance of a Fed rate hike in late September, with modest odds of a hike by the Nov. 1 meeting.</p>
+      <h3>Stocks Near Buy Zones</h3>	
+    	<p>ANET stock rose 3.25% to 180.62 last week, regaining a 178.36 buy point. Strong Cisco (CSCO) earnings and orders buoyed peer rival Arista Networks. Shares have been trading relatively tight following an earnings gap-up, with the relative strength line continuing to climb.</p>	
+    	<p>DO stock jumped 5% on Friday to 15.96, rebounding from the 21-day and 50-day lines and breaking a trendline in an emerging consolidation. Diamond Offshore is among many oil drillers, machinery and services firms showing strength.</p>
+      <p>Google stock fell 1.9% on Friday to 127.46, closing above the 127.10 cup-with-handle buy point after briefly undercutting that. Investors could buy the internet giant here, but getting above the 132 area would clear the bulk of a shelf.</p>	
+    	<p>Visa stock found support at the 50-day line on Friday, also holding a 235.57 buy point from a flat base. The Dow Jones payments giant has been trading tightly in the buy zone for some weeks, and now has a new flat base, or base-on-base pattern, with a 245.37 buy point. A move above the Aug. 10 high of 243.95 could be a good place to enter.</p>
+      <p>CMC stock rose 1.7% to 55.99 last week, working on a 56.49 buy point from a cup-with-handle base, according to MarketSmith analysis. Commercial Metals flirted with breaking the handle's downtrend a few times. The specialty steel play is trading around the 21-day line while the 10-week has nearly caught up,</p>	
+    	<p>BA stock fell 3.8% to 226.76 last week, getting as low as 221.68 on Friday morning, round-tripping an 8.6% advance from a 223.91 flat-base buy point. But Boeing stock found support at the 50-day/10-week line and closed in buy range. A move above the 21-day line, especially if it coincided with a reviving market, might offer a place to buy shares.</p>
+      <h3>Market Analysis</h3> 
+      <p>The stock market is in a correction. The key indexes have all fallen below their 50-day lines, especially the Nasdaq.</p>	
+    	<p>While Arista Networks, Boeing, Visa, Diamond Offshore and Google stock are in buy areas, most leading stocks have suffered significant damage that could take several days, weeks or months to repair.</p>
+      <p>Winners outpaced losers on Friday, but market breadth has been terrible, especially on the Nasdaq.</p>	
+    	<p>Friday's rebound from intraday lows was nice to see, but the market was "due" for a bounce. But we don't know if that will last more than a day or two. The 50-day line would be key resistance for the Nasdaq and many stocks.</p>
+      <p>Friday marks day one of a stock market rally attempt. While the Nasdaq and S&P 500 edged lower Friday, they closed in the upper half of their range, so that qualifies as a "pink" rally day for those indexes. The Dow Jones finished slightly higher.</p>	
+    	<p>The market rally attempt continues until the indexes undercut Friday's lows.</p>
+      <p>A follow-through day could come as soon as Wednesday, though it could be weeks away. As a practical matter, a FSD seems unlikely before Nvidia earnings Wednesday night. Powell's Jackson Hole speech Friday also could be the trigger for a new confirmed market rally.</p>	
+    	<p>But these events also could spur much-bigger losses for the now-shallow correction.</p>
+      <p>The 10-year Treasury yield is a major stock market driver right now. Despite Friday's sharp decline the 10-year yield has risen for five straight weeks, up 43 basis points.</p>	
+    	<h3>What To Do Now</h3>
+      <p>Investors shouldn't get excited over Friday's bounce. One day doesn't make a trend. Investors should have pared exposure significantly over the past couple of weeks. If you still feel too exposed, you could use market bounces as a chance to sell further.</p>
+      <p>For those so inclined, a brief market bounce could create shorting opportunities.</p>	
+    	<p>The market could have a short correction, with Nvidia and Fed chief Powell reviving bullish sentiment. Or the selling could intensify.</p>
+      <p>Don't try to guess what the market will do. Pay attention to what the market is doing, and be prepared. Keep updating your watchlists, focusing on stocks showing relative strength. Those names could change significantly during the correction.</p>	
+    </div>
+  },
+  {
+    id: 602,
+    title: 'LIVE: FTSE 100 and European markets rise as UK house prices fall',
+    category: 'Indices',
+    subCategory: ['FTSE', 'European', 'UK'],
+    description: <div className="blog-desc">
+      <p>Stocks in Europe moved higher by the afternoon on Monday in London as further evidence of price falls in the UK housing market hit.</p>
+    </div>,
+    authorName: 'Lucy Harley-McKeown',
+    authorurl: 'https://www.yahoo.com/author/lucy-harley-mckeown/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 3:18 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692626319/ncx-blog-1140_g6p3zo.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stocks in Europe moved higher by the afternoon on Monday in London as further evidence of price falls in the UK housing market hit.</p>
+    	<p>The FTSE (^FTSE) was trading 0.3% higher while Germany's DAX (^GDAXI) was up 0.6% and the CAC (^FCHI) in Paris rose 1%.</p>	
+    	<p>Average asking prices for UK homes listed by new sellers fell by £7,012 to £364,895 this month, or about 1.9%, according to fresh data from online real estate portal Rightmove (RMV.L).</p>
+      <p>This was coupled with a falling number of agreed sales, which were 15% lower than levels seen in 2019.</p>
+      <p>Meanwhile, the data showed that rents continue to creep up, meaning it is becoming more attractive for first-time buyers to enter the market. The number of first-time buyers was above the average — sitting at 10% lower than levels seen in 2019.</p>	
+    	<p>Elsewhere, China adjusted its mortgage rates causing jitters in its markets during the trading day.</p>
+      <p>Stay with us for live updates throughout the day:</p>
+      <h3>Here are our tickers to watch today</h3>
+      <p>Retail stocks and energy are propping up the FTSE 100 (^FTSE) today. Here's the lowdown on the top risers as of 10.25am:</p>
+      <p>BP (BP.L) 1.7% ⬆️</p>
+      <p>Shell (SHEL.L) 1.25% ⬆️</p>
+      <p>Tesco (TSCO.L) 1.6% ⬆️</p>
+      <p>JD Sports (JD.L) 1.3% ⬆️</p>
+      <p>Burberry (BRBY.L) 1% ⬆️</p>
+      <p>The pound (GBPUSD=X) just fell about 0.1% against the dollar, but it remains above the $1.27 mark, which has been a resistance point of late.</p>
+      <p>Jackson Hole, the meeting of central bankers in the US between 24 and 26 August, will be the event to watch this week in terms of monitoring for price changes in FX.</p>
+      <p>Some new charting on inflation from the ONS:</p>
+      <p>The ONS notes that the sharp fall in the 12-month inflation rate in August 2020 reflects the Eat Out to Help Out scheme introduced by the British government to support the hospitality industry during the COVID-19 pandemic. This led to a corresponding sharp increase in the inflation rate in August 2021 because of the base effect.</p>
+      <p>Meanwhile, there's some turmoil in the natural gas market due to supply concerns in Australia. Neil Wilson, chief market analyst at Finalto Trading has the update:</p>
+      <p><strong>Natural gas prices rose sharply in Europe amid supply concerns in Australia. US prices edged up, trading about 4% above Friday’s lows early on Monday. Union talks in Australia are due on Wednesday and traders are concerned about the potential for supply disruptions if a deal cannot be achieved. Meanwhile crude oil prices rallied for a third day to clear the 21-day EMA, with spot WTI north of $81 for a one-week high.</strong></p>
+      <p>Elsewhere, real estate-related stocks are also in trouble this morning,:</p>
+      <p>Taylor Wimpey (TW.L) 3.4% ⬇️</p>
+      <p>Persimmon (PSN.L) 2.8% ⬇️</p>
+      <p>Barratt (BDEV.L) 2.1% ⬇️</p>
+      <p>Continuing the real estate theme this morning, housebuilder Crest Nicholson (CRST.L) has issued a profit warning amid "worsened" trading conditions over the summer.</p>
+      <p>It blamed the chill on the increased borrowing costs for first-time buyers as things have become "significantly more expensive".</p>
+      <p>Stock was down 10.5% by 9.15am in London as it said its sales-per-outlet-per-week which was running at 0.5 for the first half of the year has pulled back to 0.25 for H2.</p>
+      <h3>Overnight in the US and Asia</h3>
+      <p>Chinese stocks pulled back further on Monday after the country moved to stabilise the economy via changes to rates linked to mortgages. Beijing kept the key interest which guides mortgage rates on hold, but made a cut to another shorter-term rate.</p>
+      <p>The People's Bank of China kept the five-year loan prime rate (LPR) at 4.2% when the expectation was it would be cut by 15bp. Meanwhile, the one-year LPR was cut by 10bp to 3.45%.</p>
+      <p>Chinese stocks had been in the doldrums in recent weeks due to fears of stagnating growth.</p>
+      <p>The Hang Seng (^HSI) in Hong Kong closed 1.9% lower, while the SSE Composite (000001.SS) was 1.2% lower. In Japan, the Nikkei (^N225) rose 0.4%.</p>
+      <p>After a week of relative volatility in US markets due to signals on inflation, major indexes made muted moves at the close on Friday. The S&P 500 (^GSPC) was almost flat, while the Dow (^DJI) rose 0.1% and the Nasdaq (^IXIC) lost 0.2%.</p>
+      <p>Top lines on house prices are:</p>
+      <p>🏠 Average asking prices for UK homes listed by new sellers fell by £7,012 to £364,895 this month, or about 1.9%.</p>
+      <p>🏠 This was coupled with a falling number of agreed sales, which were 15% lower than levels seen in 2019.</p>
+      <p>🏠 In the typical first-time buyer sector of two-bedroom and fewer properties, average advertised rents are up by 12% compared to last year and by 33% compared with the same time in 2019.</p>
+      <p>Good morning! It's a grey Monday in London and first up we have news on the house market from the good folks at Rightmove:</p>
+      <p>Yahoo FinanceIn the typical first-time buyer sector of two-bedroom and fewer properties, average advertised rents are up by 12% compared to last year and by 33% compared with the same time in 2019.</p>
+    </div>
+  },
+  {
+    id: 601,
+    title: 'Stocks bounce higher, Treasury yields extend run, as markets track Fed, China risks',
+    category: 'Indices',
+    subCategory: ['Stocks', 'Treasury', 'China'],
+    description: <div className="blog-desc">
+      <p>Stocks look set to start the week as they ended on Friday: focused on Fed rate risks and China's weakening post-Covid recovery.</p>
+    </div>,
+    authorName: 'TheStreet.com',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 2:15 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692625628/ncx-blog-1139_je7p70.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Stocks look set to start the week as they ended on Friday: focused on Fed rate risks and China's weakening post-Covid recovery.</p>
+    	<p>U.S. equity futures rebounded pre-market trading Monday, while Treasury bond yields edged higher and the dollar held steady against its global peers, as investors continue to weigh the impact of China's weakening economy, and the threat of higher Federal Reserve interest rates, on a sputtering domestic stock market.</p>	
+    	<p>The S&P 500 ended modestly lower Friday, capping another down week that has taken the biggest U.S. benchmark more than 5% lower from its late July peak amid a surge in longer-term Treasury bond yields tied, in part, to the surprising outperformance of the U.S. economy.</p>	
+    	<p>Investors will be looking for direction from Powell with respect to the Fed's near-term rate plans, particularly in light of the resilient U.S. economy, which the Atlanta Fed suggests is growing at a 5.8% clip, more than twice the pace of the 2.4% growth recorded over the three months ending in June.</p>
+      <p>At last year's Jackson Hole summit, Powell warned that the rate hikes needed to tame inflation, which was then running at more than 8%, would require "some pain" for American consumers. Since then, however, headline CPI has fallen to 3.2%, the unemployment rate has retreated to a five-decade low of 3.5% and the economy has continued to outpace its global rivals.</p>
+      <p>Whether or not that performance will lead to higher Fed rates, however, remains to be seen, with the CME Group's FedWatch pricing in a just an 11.5% chance of a September rate hike ahead of Chairman Jerome Powell's speech at the Jackson Hole, Wyoming symposium later this week.</p>
+      <p>That said, 10-year Treasury note yields were back above 4.3% level in overnight dealing, extending an August move that has added 33 basis points to the benchmark paper, with 2-year notes also rising to 4.973% -- more than triple the current dividend yield for the S&P 500.</p>
+      <p>The U.S. dollar index, which tracks the greenback against a basket of six global currency peers, was marked 0.12% lower at 103.356 as markets adopted a modestly more aggressive appetite for risk heading into the Monday session.</p>
+      <p>That optimism wasn't tied to overnight events in China, however, where the central bank trimmed another key lending benchmark -- the 1-year Loan Prime Rate -- by a less-than-expected 10 basis points, and left the longer 5-year rate unchanged, as part of its piecemeal effort to revive its moribund economy.</p>
+      <p>Stocks in Hong Kong extended their run of declines to a seventh consecutive session, falling 1.5%, while further weakness in China pulled the region-wide Asia ex-Japan index deeper into its two-month low.</p>
+      <p>European stocks were firmer, however, and largely tracking U.S. markets in early Frankfurt trading, with the Stoxx 600 rising 0.62% and the FTSE 100 gaining 0.24% in London.</p>
+      <p>Heading into the start of the trading day on Wall Street, futures tied to the S&P 500, which is down 4.78% for the month, were priced for a 15 point opening bell gain.</p>
+      <p>Contracts tied to the Dow Jones Industrial Average, meanwhile, suggest a 65 point advance while the tech-focused Nasdaq, blunted by the ongoing rise in Treasury yields, is priced for an 80 point opening bell bump.</p>
+      <p>Chipmaker Nvidia NVDA, which published blowout quarterly earnings in late May that effectively kick-started the rally in AI-related stocks around the world, will publish its second quarter update after the close of trading on Wednesday, with investors looking for the sector's 'kingmaker' to report a bottom line of $2.07 per share on revenue of $11.131 billion.</p>
+      <p>Earlier this spring Nvidia forecast current-quarter revenue of around $11 billion, more than 50% ahead of Wall Street estimates, with a gross margin of around 70%, which equates to earnings in the region of $2.04 a share.</p>
+      <p>The group's near-term sales outlook, however, will be crucial in determining if companies are putting real investment dollars into their much-hyped AI strategies.</p>
+      <p>he stock was marked 2.6% higher in pre-market trading following a price target upgrade from KeyBanc Capital Markets.</p>
+      <p>The second quarter earnings season will also wind to a close this week, with 12 S&P 500 companies reporting over the next five days, including retailers Lowe's Companies  (LOW) - Get Free Report, Macy's  (M) - Get Free Report, Kohl's  (KSS) - Get Free Report, Dollar Tree  (DLTR) - Get Free Report, Nordstrom  (JWN) - Get Free Report and GAP  (GPS) - Get Free Report.</p>
+      <p>With 472 companies in the S&P 500 reporting so far, collective earnings are set to fall 3.4% from last year to a share-weighted $449.8 billion. That total is likely to rebound over the third quarter, however, with earnings expected to rise 1.3% to a $46.2 billion over the three months ending in September.</p>
+    </div>
+  },
+  {
+    id: 600,
+    title: 'U.S. Stock Futures Gain, Nasdaq Leads, With Nvidia in Focus',
+    category: 'Indices',
+    subCategory: ['US', 'Nasdaq', 'Nvidia'],
+    description: <div className="blog-desc">
+      <p>U.S. stock futures were rising early on Monday after another losing week. Earnings from Nvidia and messages from the Jackson Hole symposium of central bankers are set to be the highlights of the week.</p>
+    </div>,
+    authorName: 'Adam Clark',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 1:09 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692625114/ncx-blog-1138_dmpve2.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>U.S. stock futures were rising early on Monday after another losing week. Earnings from Nvidia and messages from the Jackson Hole symposium of central bankers are set to be the highlights of the week.</p>
+	    <p>Dow Jones Industrial Average futures were up 75 points, or 0.2%. S&P 500 futures gained 0.4% and Nasdaq 100 futures pointed up 0.6%.</p>	
+    	<p>The tech-heavy Nasdaq index was leading the gains as investors look ahead to the earnings of chip maker Nvidia on Wednesday, which are expected to show whether investment in artificial-intelligence technology is holding up.</p>	
+    	<p>Later in the week attention will shift to Federal Reserve Chairman Jerome Powell and his remarks at the Fed’s Jackson Hole symposium for central bankers. The event kicks off on Thursday evening and features a speech by Powell on Friday morning which will be watched for clues to the Fed’s interest-rate path.</p>
+      <p>“As recently as early June, futures were still expecting a rate cut from the Fed by the end of 2023. But they now don’t see a full 25bp [basis points] cut priced in until the May 2024 meeting. That’s a big shift in just over a couple of months,” Deutsche Bank’s Jim Reid wrote in a research note on Monday.</p>
+      <p>DJIA
+
+DJIA (Dow Jones Global)
+
+34569.5068.840.20%</p>
+<p>S&P 500
+
+SPX (S&P US)
+
+4392.8323.120.53%</p>
+<p>Nasdaq
+
+COMP (Nasdaq)
+
+13387.6196.840.73%</p>
+    </div>
+  },
+  {
     id: 599,
     title: 'Dow Jones Futures: Bears Rule As More Leaders Crack, But Ultimate AI Stock Nvidia Fights On',
     category: 'Indices',
