@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                            <a href="/post-crypto/667" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692367538/ncx-blog-1118_v3rv3s.jpg"/></div>
-                                    <p className="dat"> August 18, 2023</p>
-                                    <h1>Crypto now more stable than oil: Decoding this turn of events</h1>
-                                    <p>The 90-day annualized volatility for Bitcoin and Ethereum plummeted to multi-year lows, making them less volatile than crude oil.</p>
+                            <a href="/post-crypto/674" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692622376/ncx-blog-1132_wsjtww.png"/></div>
+                                    <p className="dat"> August 21, 2023</p>
+                                    <h1>Why now is the best time to invest in altcoins</h1>
+                                    <p>While fear among investors was dominant in the market, a few of the altcoins’ metrics turned bullish, suggesting a possible bull rally.</p>
                                 </a>
-                            <a href="/post-crypto/666" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692367137/ncx-blog-1117_ccba2v.png" alt="art_pic"/></div>
-                                    <p className="dat">  August 18, 2023</p>
-                                    <h1>USDT’s dominance on Tron jumps over 48%; does it mean good news for TRX?</h1>
-                                    <p>USDT secured dominance as far as usage on the Tron network is concerned. It even managed to outshine Ethereum which currently accounts for 43% of usage on Tron. The USDT stablecoin is the most dominant asset on the network at 48.6%.</p>
+                            <a href="/post-crypto/673" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692621947/ncx-blog-1131_ndmccb.png" alt="art_pic"/></div>
+                                    <p className="dat"> August 21, 2023</p>
+                                    <h1>Solana vs Dogecoin: What to expect as the race heats up</h1>
+                                    <p>Solana and Dogecoin’s market caps remained close to each other with only a difference of a few thousand dollars.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row"> 
-                            <a href="/post-crypto/665" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692366702/ncx-blog-1116_sd8vwj.png" alt="art_pic"/></div>
-                                    <p className="dat"> August 18, 2023</p>
-                                    <h1>Solana [SOL] bounces from range-low support, what’s next?</h1>
-                                    <p>Solana’s [SOL] range-bound price movement continued after another price rejection at the range-high.</p>
+                            <a href="/post-crypto/672" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692621094/ncx-blog-1130_ndybef.jpg" alt="art_pic"/></div>
+                                    <p className="dat">  August 21, 2023</p>
+                                    <h1>Bitcoin: Analyzing how the next halving might affect BTC</h1>
+                                    <p>Bitcoin’s value was worth only about 0.2 of what it should ideally be as per the stock-to-flow model, suggesting room for exponential growth.</p>
                                 </a>
-                            <a href="/post-crypto/664" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692365993/ncx-blog-1115_y0zz9w.png" alt="art_pic"/></div>
-                                    <p className="dat">  August 18, 2023</p>
-                                    <h1>Avalanche network activity plummets: Can this development offer respite?</h1>
-                                    <p>AVAX staking will reportedly be among the services offered through AvaCloud. In other words, Avalache just unlocked a new corridor that will facilitate AVAX demand for staking which may encourage a long-term bias.</p>
+                            <a href="/post-crypto/671" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692620949/ncx-blog-1129_myidnq.png" alt="art_pic"/></div>
+                                    <p className="dat">  August 20, 2023</p>
+                                    <h1>A look at Bitcoin in light of the just concluded bearish week</h1>
+                                    <p>The whale selloff has leveled out for now. As such, Bitcoin may enjoy some relief from more downside. On the other hand, the same whale category did not register a sharp bounce.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br"> 
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
-                            <a href="/post-crypto/663" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692365450/ncx-blog-1114_v6nzik.png" alt="art_pic"/></div>
-                                <p className="dat">August 18, 2023</p>
-                                <h1>Shiba Inu’s much awaited Shibarium gets off to a rocky start</h1>
-                                <p>Shiba Inu’s Shibarium launch promised to elevate SHIB and BONE beyond memes, but challenges surfaced. Amid hopes and hurdles, the community awaits Shibarium’s evolution.</p>
+                            <a href="/post-indices/603" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692627220/ncx-blog-1141_xiclqx.webp" alt="art_pic"/></div>
+                                <p className="dat">August 21, 2023 - 4:20 PM</p>
+                                <h1>Dow Jones Futures Rise: Market In Correction As Nvidia Earnings, Powell Speech Loom; What To Do</h1>
+                                <p>Dow Jones futures rose modestly Monday morning, along with S&P 500 futures and Nasdaq futures, even as Treasury yields rebounded. Nvidia (NVDA) earnings and a big speech from Fed chief Jerome Powell lie ahead.</p>
                             </a>
-                            <a href="/post-crypto/662" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692365103/ncx-blog-1113_h3rhpr.png"/></div>
-                                <p className="dat"> August 18, 2023</p>
-                                <h1>ATOM: As sell pressure wanes near year low, is a recovery in sight?</h1>
-                                <p>ATOM has been on a significant bearish downtrend but bulls could take advantage of nearby support and recovery by BTC to rally.</p>
+                            <a href="/post-forex/629" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692624772/ncx-blog-1137_lqd9pm.webp"/></div>
+                                <p className="dat">August 21, 2023 - 3:25 PM</p>
+                                <h1>JPMorgan sees Japan threshold for yen intervention at around 150 yen per dollar</h1>
+                                <p>LONDON (Reuters) - Japan's threshold for currency market intervention on the yen is likely to be around 150 per dollar, investment bank JPMorgan's analysts said on Monday.</p>
                             </a>
-                            <a href="/post-markets/648" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692370303/ncx-blog-1123_d2p5df.webp" alt="art_pic"/></div>
-                                <p className="dat"> August 18, 2023 - 3:38 AM</p>
-                                <h1>Japan core inflation eases, bolstering view BOJ will stand pat</h1>
-                                <p>TOKYO (Reuters) -Japan's core consumer prices slowed in July, supporting expectations the Bank of Japan (BOJ) will be in no rush to phase out monetary easing, even as inflation remains stubbornly above the central bank's target.</p>
+                            <a href="/post-crypto/675" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692622722/ncx-blog-1133_aocfqf.png" alt="art_pic"/></div>
+                                <p className="dat"> August 21, 2023</p>
+                                <h1>What Monero’s northbound momentum tells you</h1>
+                                <p>Monero’s performance on the social front was commendable, while its price rallied by 2%, suggesting a continued bull run.</p>
                             </a>
-                            <a href="/post-forex/622" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692350644/ncx-blog-1095_nstpmv.webp" alt="art_pic"/></div>
-                                <p className="dat">August 17, 2023 - 6:40 PM</p>
-                                <h1>AUD/USD Forecast – Australian Dollar Pushes Into Support</h1>
-                                <p>The Australian dollar has plunged a bit during the trading session on Thursday, to breakdown below the 0.64 level before turning around and showing signs of life. In fact, we are in the midst of a major bounce as I record this video, so it will be interesting to see how this plays out.</p>
+                            <a href="/post-crypto/670" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692620460/ncx-blog-1128_srspak.png" alt="art_pic"/></div>
+                                <p className="dat">August 20, 2023</p>
+                                <h1>Litecoin: The state of LTC miners post-halving</h1>
+                                <p>Since the last halving, Litecoin’s hashrate has remained stable, and its difficulty reached an all-time high on 2 August.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
@@ -107,23 +107,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Forex</h1>
                             <div className="art_grf row">
-                            <a href="/post-forex/625" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692351762/ncx-blog-1098_yatxui.webp" alt="art_pic"/></div>
-                                    <p className="dat">  August 17, 2023 - 6:51 PM</p>
-                                    <h1>USD/JPY Forecast – US Dollar Continues to Look Upwards</h1>
-                                    <p>In the USD/JPY pair, current signs lean towards a potential upward climb. This upward tilt isn’t surprising when considering the interest rate differences between the respective central banks. With the Bank of Japan showing no inclination towards tightening its monetary stance, this rate disparity remains a pivotal player in shaping market trends.</p>
+                            <a href="/post-forex/628" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692624417/ncx-blog-1136_orf6tv.webp" alt="art_pic"/></div>
+                                    <p className="dat">  August 21, 2023 - 3:16 PM</p>
+                                    <h1>Pound has peaked and will come under renewed pressure, says HSBC</h1>
+                                    <p>The pound has peaked and will come under pressure in the coming months as the housing market stumbles and consumer resilience fades, according to HSBC.</p>
                                 </a>
-                            <a href="/post-forex/624" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692351478/ncx-blog-1097_brtg7k.webp" alt="art_pic"/></div>
-                                    <p className="dat">  August 17, 2023 - 6:47 PM</p>
-                                    <h1>GBP/USD Forecast – British Pound Rises Against USD</h1>
-                                    <p>The British pound showcased modest gains in Thursday’s trading, eyeing a potential rise beyond the 50-Day Exponential Moving Average. Yet, the market’s movements remain predictably unpredictable, emphasizing the need for careful strategy formulation.</p>
+                            <a href="/post-forex/627" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692624087/ncx-blog-1135_h3ft9u.webp" alt="art_pic"/></div>
+                                    <p className="dat">  August 21, 2023 - 9:27 AM</p>
+                                    <h1>Rupee Outperforms EM Asia Peers Even as It Nears Record Low</h1>
+                                    <p>(Bloomberg) -- The Indian rupee is within a whisker of a record low, but it’s still a favored emerging-market currency with some investors.</p>
                                 </a>
-                            <a href="/post-forex/623" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692350960/ncx-blog-1096_r6yf9f.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 17, 2023 - 6:43 PM</p>
-                                    <h1>GBP/JPY Forecast – British Pound Continues to Crush Yen</h1>
-                                    <p>This upward push, especially after multiple tries, highlights the growing preference among traders for a “buy on the dips” strategy. This approach anticipates momentary downturns, aligning with the currency’s likely continued ascent. As a result, many are steering clear of shorting this pair.</p>
+                            <a href="/post-forex/626" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692623828/ncx-blog-1134_lmdzwg.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 21, 2023 - 4:48 AM</p>
+                                    <h1>Dollar retreats from 2-month high, yuan turns higher</h1>
+                                    <p>LONDON (Reuters) - The dollar fell from a two-month high on Monday following five straight weeks of gains, as risk sentiment improved in Europe, with attention already turning to the Federal Reserve's Jackson Hole symposium which kicks off on Friday.</p>
                                 </a>
                             </div>
                             <Button href="/post-forex" className="red__mor">View All</Button>
@@ -134,23 +134,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Commodities</h1>
                             <div className="art_grf row">
-                            <a href="/post-commodities/618" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692348666/ncx-blog-1092_jk6k4b.webp" alt="art_pic"/></div>
-                                    <p className="dat">August 18, 2023 - 5:48 AM</p>
-                                    <h1>Oil set to snap 7-week winning streak on US rate outlook, China woes</h1>
-                                    <p>SINGAPORE (Reuters) -Oil prices looked set to snap a seven-week winning streak on Friday as concerns about China's slowing economic growth and the possibility of more U.S. interest rate hikes outweighed signs of tightening supply.</p>
+                            <a href="/post-commodities/621" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692628732/ncx-blog-1144_y5hocp.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 21, 2023 - 5:03 PM</p>
+                                    <h1>Oil Rises for Third Day as Tighter Market Vies With Demand Risks</h1>
+                                    <p>(Bloomberg) -- Oil rose for a third day as signs the physical market is tightening offset growing demand risks in China and the US.</p>
                                 </a>   
-                            <a href="/post-commodities/617" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692348285/ncx-blog-1091_jgjjqm.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 18, 2023 - 12:03 AM</p>
-                                    <h1>This Natural Gas Stock Is The Big Winner On New S&P Index Shuffle</h1>
-                                    <p>S&P Dow Jones Indices announced late Wednesday that S&P index changes coming Monday would include U.S. natural gas producer Chesapeake Energy (CHK) and defense contractor Mercury Systems (MRCY). CHK jumped on the news while MRCY also edged up Thursday.</p>
+                            <a href="/post-commodities/620" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692628495/ncx-blog-1143_mv9exd.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 21, 2023 - 7:55 AM</p>
+                                    <h1>Analysis-China LNG buyers expand trading after adding more US, Qatari contracts</h1>
+                                    <p>SINGAPORE/LONDON (Reuters) - China's liquefied natural (LNG) gas importers are starting up or expanding trading desks in London and Singapore to better manage their growing and diversified supply portfolios in an increasingly volatile global market.</p>
                                 </a>   
-                            <a href="/post-commodities/616" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692347911/ncx-blog-1090_scswhb.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 16, 2023 - 9:54 PM</p>
-                                    <h1>Oil prices to hit $91 by year-end, UBS says</h1>
-                                    <p>Oil is poised to rally beyond $90 per barrel by the end of the year amid record demand and tightening supply, according to UBS strategists.</p>
+                            <a href="/post-commodities/619" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692628144/ncx-blog-1142_mnxddl.webp" alt="art_pic"/></div>
+                                    <p className="dat">August 21, 2023 - 5:00 AM</p>
+                                    <h1>Diesel Is Pricing a Scarcity With Winter Demand Looming</h1>
+                                    <p>(Bloomberg) -- At any other time in history, the current state of the global diesel market would have sent some countries into a panic.</p>
                                 </a>                   
                             </div>
                             <Button href="/post-commodities" className="red__mor">View All</Button>
@@ -161,23 +161,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Indices</h1>
                             <div className="art_grf row">
-                            <a href="/post-indices/599" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692354523/ncx-blog-1102_yu8muo.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 18, 2023 - 9:00 AM</p>
-                                    <h1>Dow Jones Futures: Bears Rule As More Leaders Crack, But Ultimate AI Stock Nvidia Fights On</h1>
-                                    <p>Dow Jones futures were little changed early Friday, along with S&P 500 futures and Nasdaq futures.</p>
+                            <a href="/post-indices/602" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692626319/ncx-blog-1140_g6p3zo.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 21, 2023 - 3:18 PM</p>
+                                    <h1>LIVE: FTSE 100 and European markets rise as UK house prices fall</h1>
+                                    <p>Stocks in Europe moved higher by the afternoon on Monday in London as further evidence of price falls in the UK housing market hit.</p>
                                 </a>
                             <a href="/post-indices/598" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692353792/ncx-blog-1101_sagos8.webp" alt="art_pic"/></div>
-                                    <p className="dat">  August 18, 2023 - 12:25 AM</p>
-                                    <h1>Dow Jones Dives Below Critical Level; Cathie Wood Piles Into This Stock After 50% Plunge</h1>
-                                    <p>The Dow Jones Industrial Average fell under a key level as Walmart (WMT) reversed lower despite an earnings beat. CVS Health (CVS) cratered after a big insurer tapped rivals including Amazon.com (AMZN) for drugs. Famed fund manager Cathie Wood snapped up shares in a pharma stock despite a big plunge.</p>
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692625628/ncx-blog-1139_je7p70.webp" alt="art_pic"/></div>
+                                    <p className="dat">  August 21, 2023 - 2:15 PM</p>
+                                    <h1>Stocks bounce higher, Treasury yields extend run, as markets track Fed, China risks</h1>
+                                    <p>Stocks look set to start the week as they ended on Friday: focused on Fed rate risks and China's weakening post-Covid recovery.</p>
                                 </a>
                             <a href="/post-indices/597" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692353435/ncx-blog-1100_qotlix.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 17, 2023 - 6:20 PM</p>
-                                    <h1>Dow Jones Rises After Jobless Claims; Walmart Drops On Earnings</h1>
-                                    <p>The Dow Jones Industrial Average rose Thursday, boosted by the morning's economic data that included lower-than-expected unemployment claims. Meanwhile, Walmart reversed lower despite strong earnings results.</p>
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692625114/ncx-blog-1138_dmpve2.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 21, 2023 - 1:09 PM</p>
+                                    <h1>U.S. Stock Futures Gain, Nasdaq Leads, With Nvidia in Focus</h1>
+                                    <p>U.S. stock futures were rising early on Monday after another losing week. Earnings from Nvidia and messages from the Jackson Hole symposium of central bankers are set to be the highlights of the week.</p>
                                 </a>  
                             </div> 
                             <Button href="/post-indices" className="red__mor">View All</Button>

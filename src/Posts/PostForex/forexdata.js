@@ -1,5 +1,129 @@
 const data = [
   {
+    id: 629,
+    title: 'JPMorgan sees Japan threshold for yen intervention at around 150 yen per dollar',
+    category: 'Forex',
+    subCategory: ['JPMOrgan', 'Japan', 'Dollar'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) - Japan's threshold for currency market intervention on the yen is likely to be around 150 per dollar, investment bank JPMorgan's analysts said on Monday.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 3:25 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692624772/ncx-blog-1137_lqd9pm.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>LONDON (Reuters) - Japan's threshold for currency market intervention on the yen is likely to be around 150 per dollar, investment bank JPMorgan's analysts said on Monday.</p>
+    	<p>"We think that the MoF (Ministry of Finance Japan) will not intervene in the FX market at around (the) 145 level. Our threshold level of JPY buying intervention is around 150," they said in a note.</p>	
+    	<p>The yen was trading at 145.87 to the dollar on Monday, having been as weak as 146.56 last week.</p>	
+    	<p>JPMorgan's analysts added that the fundamental conditions in the Japanese economy had been improving since the last time the MoF intervened to lift the yen last year.</p>
+      <p>"Intervention needed is not as acute as in the September and October intervention cases," they said.</p>
+      <p>(Reporting by Marc Jones; editing by Dhara Ranasinghe)</p>
+    </div>
+  },
+  {
+    id: 628,
+    title: 'Pound has peaked and will come under renewed pressure, says HSBC',
+    category: 'Forex',
+    subCategory: ['Pound', 'HSBC', 'Forex'],
+    description: <div className="blog-desc">
+      <p>The pound has peaked and will come under pressure in the coming months as the housing market stumbles and consumer resilience fades, according to HSBC.</p>
+    </div>,
+    authorName: 'Szu Ping Chan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 3:16 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692624417/ncx-blog-1136_orf6tv.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The pound has peaked and will come under pressure in the coming months as the housing market stumbles and consumer resilience fades, according to HSBC.</p>
+    	<p>The bank has joined a growing chorus of City analysts who are becoming increasingly bearish on sterling, which has been the best-performing G10 currency this year.</p>	
+    	<p>Dominic Bunning, head of European foreign exchange research at HSBC, said weak retail sales data last week raised alarm bells over the sustainability of sterling’s rally, which saw the pound hit $1.31 in July.</p>
+      <p>Mr Bunning said: “The consumer resilience that we saw helping to drive the pound higher earlier this year appears to be fading slightly earlier than we expected.</p>
+      <p>“We have been bullish on the pound since November last year, with a forecast it would hit $1.30. Having breached that level – briefly – last month, risks are building that it may now represent the peak in the currency rather than a more sustainable level beyond the end of the drizzly summer.”</p>
+      <p>So far this year, the pound has climbed 5.3pc against the dollar to $1.27 and 3.5pc on the euro at €1.13.</p>
+      <p>The value of the pound has been boosted by stronger-than-expected economic growth and continued interest rate rises from the Bank of England.</p>
+      <p>The bearish verdict comes just months after Citi and Goldman admitted they were “wrong” to bet against the pound, as the former tore up its prediction that sterling would hit parity against the dollar in the wake of the mini-Budget.</p>
+      <p>However, Mr Bunning said households were starting to feel the pinch from higher mortgage rates.</p>
+      <p>He said: “More households will be dragged into the higher interest rate environment as fixed-term mortgages expire. Housing market activity has already stumbled even if prices haven’t fallen that far.”</p>
+      <p>Analysts at Nomura, who also warned last year that sterling could fall below parity against the dollar, doubled down on their gloomy UK outlook by outlining five reasons why the pound had further to fall.</p>
+      <p>Jordan Rochester at Nomura said falling UK factory gate prices suggested headline consumer prices inflation, which stood at 6.8pc in July, would start to fall quickly in the coming months.</p>
+      <p>A manufacturing slowdown also suggests the pound will fall to $1.22 by October, according to Nomura.</p>
+      <p>Mr Rochester said: “It’s rare for the pound to outperform when large economies such as China are experiencing a slowdown.”</p>	
+    	<p>JP Morgan has also warned that the pound has further to fall as higher interest rates start to “bite”. It also expects higher interest rates to hit consumers as mortgage costs rise.</p>
+    </div>
+  },
+  {
+    id: 627,
+    title: 'Rupee Outperforms EM Asia Peers Even as It Nears Record Low',
+    category: 'Forex',
+    subCategory: ['Rupee', 'EM Asia', 'Record'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The Indian rupee is within a whisker of a record low, but it’s still a favored emerging-market currency with some investors.</p>
+    </div>,
+    authorName: 'Subhadip Sircar and Ronojoy Mazumdar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 9:27 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692624087/ncx-blog-1135_h3ft9u.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The Indian rupee is within a whisker of a record low, but it’s still a favored emerging-market currency with some investors.</p>
+    	<p>A reserves stockpile of $600 billion, more than $16 billion worth of foreign inflows for stocks this year and economic growth forecast at 6.5% are among the reasons behind the optimism for Neuberger Berman Singapore and Columbia Threadneedle Investments.</p>	
+    	<p>“The reserve number is very comfortable right now,” said Prashant Singh, senior portfolio manager for emerging-markets debt at Neuberger Berman Singapore, who favors the rupee. “Not only are the reserves high but the overall external balances profile has improved in the last couple of years.”</p>	
+    	<p>The improved economic fundamentals are why the currency is largely holding its own against the dollar — it’s down just 0.5% this year and is Asia’s third-best performer — when others from the Singapore dollar to the South Korean won have slipped more. That’s a far cry from the taper tantrum year of 2013, when the rupee plunged 11% with the nation struggling with a current account deficit and shrinking reserves.</p>
+      <p>The rupee was at 83.1025 to a dollar on Monday, within striking distance of its record low of 83.2912 touched in October. Its volatility though dropped in June to the lowest since 2005. Most analysts forecast the currency will rise to 82 per dollar by end of 2023.</p>
+      <p>Gaura Sen Gupta, an economist at IDFC FIRST Bank Ltd., is one of those who disagree. She points out that the rupee remains vulnerable to further depreciation pressure as interest rate differentials with the US are at historic lows, and predicts the currency will fall toward 84 in the coming months.</p>
+      <p>Still, India’s currency does have two other arguments in its favor. Its limited dependence on China, whose economy is stuttering, works in its favor as it’s less impacted than other EM currencies, said David Forrester, senior FX strategist at Credit Agricole CIB in Singapore.</p>
+      <p>Part of the rupee’s weakness stems from intervention by the Reserve Bank of India to build reserves, which explains why investors are shrugging off the decline. The central bank has taken advantage of the hot inflows into the nation’s stock market to build back its dollar reserves by selling rupee. It has also pledged to curb excess volatility.</p>
+      <p>“I expect RBI to continue with its intervention operations, which will keep the INR fluctuations narrow and relatively stable, presenting investors with a higher risk-adjusted return from the INR bond market,” said Lin Jing Leong, senior EM sovereign analyst at Columbia Threadneedle Investments.</p>
+      <p>--With assistance from Ruchi Bhatia.</p>
+    </div>
+  },
+  {
+    id: 626,
+    title: 'Dollar retreats from 2-month high, yuan turns higher',
+    category: 'Forex',
+    subCategory: ['Dollar', 'Yuan', 'High'],
+    description: <div className="blog-desc">
+      <p>LONDON (Reuters) - The dollar fell from a two-month high on Monday following five straight weeks of gains, as risk sentiment improved in Europe, with attention already turning to the Federal Reserve's Jackson Hole symposium which kicks off on Friday.</p>
+    </div>,
+    authorName: 'Samuel Indyk',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 4:48 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692623828/ncx-blog-1134_lmdzwg.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Samuel Indyk</p>
+    	<p>LONDON (Reuters) - The dollar fell from a two-month high on Monday following five straight weeks of gains, as risk sentiment improved in Europe, with attention already turning to the Federal Reserve's Jackson Hole symposium which kicks off on Friday.</p>	
+    	<p>The dollar index, which measures the currency against six other majors, was last down 0.2% at 103.18, but still close to Friday's two-month high of 103.68.</p>	
+    	<p>"Risk appetite seems a lot steadier than it has done in the last few weeks which seems to be weighing on the dollar," said Michael Brown, market analyst at Trader X, noting that European shares are higher and Wall Street futures point to a positive open.</p>
+      <p>"In the grand scheme of things, moves are pretty limited ... I'm loathed to read too much into today's trade before Jackson Hole," Brown added</p>
+      <p>Fed chair Jerome Powell is set to speak on Friday, and his comments may set the direction for U.S. Treasury yields, which have driven the rise in the dollar in recent weeks.</p>
+      <p>Ten-year yields rose 14 basis points last week and touched a 10-month high of 4.328%, within a whisker of a 15-year high. [US/]</p>
+      <p>The theme this year for the annual gathering in Wyoming is "structural shifts in the global economy".</p>
+      <p>"Two things that may come across are: decades of ultra-low rates backed by ultra-low inflation may be over," said Vishnu Varathan, head of economics and strategy at Mizuho Bank in Singapore.</p>
+      <p>"And global policy-makers may prefer to maintain restrictive real rates for a while."</p>
+      <p>Meanwhile, the Australian dollar, at $0.6420, and the New Zealand dollar, at $0.5926, were pinned close to last week's nine-month lows after a rate cut from China disappointed markets worried about a stalling economy.</p>
+      <p>China cut its one-year benchmark lending rate by 10 basis points (bp) and left its five-year rate unchanged, against economists' expectations for larger 15 bp cuts to both.</p>
+      <p>"Authorities are very alert to the risks of reigniting the property market boom and that almost by default leaves the currency going lower as the way policy is eased as a kind of escape valve," said Adam Cole, chief currency strategist at RBC Capital Markets.</p>
+      <p>"That's what we expect going forward, and not surprisingly that spills over into G10, principally to Aussie dollar underperformance."</p>
+      <p>The Antipodean currencies often function as a liquid proxy for the yuan, owing to the region's exports to China, and are doubly vulnerable as the rate outlook drives up the greenback.</p>
+      <p>The offshore yuan had fallen to the weak side of 7.3 per dollar before firming after Reuters reported that state-owned Chinese banks were seen actively mopping up offshore yuan liquidity, a move that raised the cost of shorting the currency.</p>
+      <p>China's currency reversed course in the offshore market and was last up 0.2% to 7.2909 per dollar.</p>
+      <p>Like the yuan, the yen is also on intervention watch, having fallen to levels around which authorities stepped in last year. It was down 0.3% at 145.89 a dollar in European trade.</p>
+      <p>The euro edged up 0.3% to $1.0906. Sterling rose slightly to $1.2756 and the Swiss franc was just above a six-week low hit last week at 0.8793 per dollar.</p>
+      <p>Bitcoin, which was battered to a two-month low last week as rising U.S. yields and China's slowing economy drove a wave of selling, nursed those losses at $25,997.</p>
+      <p>(Reporting by Samuel Indyk in London and Tom Westbrook in Singapore; Editing by Kirsten Donovan and Mark Potter)</p>
+    </div>
+  },
+  {
     id: 625,
     title: 'USD/JPY Forecast – US Dollar Continues to Look Upwards',
     category: 'Forex',

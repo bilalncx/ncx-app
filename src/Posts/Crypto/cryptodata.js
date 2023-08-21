@@ -1,5 +1,285 @@
 const data = [
   {
+    id: 675,
+    title: 'What Monero’s northbound momentum tells you',
+    category: 'Crypto',
+    subCategory: ['Monero', 'northbound', 'momentum'],
+    description: <div className="blog-desc">
+      <p>Monero’s performance on the social front was commendable, while its price rallied by 2%, suggesting a continued bull run.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 21, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692622722/ncx-blog-1133_aocfqf.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Monero’s performance on the social front was commendable, while its price rallied by 2%, suggesting a continued bull run.</p>
+      <ul>
+        <li>Monero’s price moved northward one week after the blockchain released its latest network update.</li>
+        <li>XMR’s trading volume also increased, and a few market indicators looked bullish.</li>
+      </ul>
+    	<p>Monero [XMR] witnessed a considerable increase in its social activity in the last 24 hours. The uptrend was not only limited to its performance on the social front, but it was also reflected on the coin’s price chart. This happened a week after the blockchain released its last network upgrade, making Monero more stable. However, will a hike in social activity be enough for the blockchain to maintain its price trajectory?</p>	
+    	<h3>Monero is getting back on track</h3>
+      <p>CryptoDep, a popular X account that posts updates related to cryptos, recently revealed in a tweet that XMR’s social engagement reached 625 thousand in the last 24 hours on 20 August. Not only that, but the coin also had an Altrank of 12, which was a bullish signal.</p>
+      <p>The growth in popularity was reflected well on the coin’s price chart, as its value increased by more than 2% in the last 24 hours. According to CoinMarketCap, at press time, Monero was trading at $147.63 with a market capitalization of $2.7 billion. Additionally, its one-day trading volume also shot up by 30%, acting as a foundation for the price hike.</p>
+      <p>Apart from popularity, another possible reason behind this uptrend could be the last network update that the blockchain pushed on 13 August 2023. The update brought along several new features, such as an upgrade to its Bulletproof algorithm to make it Bulletproof+.</p>	
+    	<p>This reduced typical transaction size by nearly 5-7 % and also made transactions lighter and faster while improving typical verification performance by 5-7%.</p>
+      <p>However, despite the recent hike in price, the blockchain’s mining sector witnessed a decline. This was evident from the drop in XMR’s hashrate, suggesting an outflow of miners since July 2023.</p>
+      <h3>Should Monero investors have high hopes?</h3>
+      <p>Though the price trend looked promising, a few of the metrics were concerning. For instance, XMR’s funding rate turned red. This meant that derivatives investors were reluctant to buy XMR at a higher price. Additionally, its open interest also dropped slightly, which was a negative signal.</p>
+      <p>Nonetheless, a few of the market indicators remained bullish. For instance, after entering the oversold zone, the Relative Strength Index (RSI) gained upward momentum, which can help push XMR’s price further up.</p>
+      <p>Additionally, its MACD also displayed the possibility of a bullish crossover in the days to follow. Unfortunately, the Chaikin Money Flow (CMF) continued to favor the bears as it remained considerably below the neutral mark.</p>
+    </div>
+  },
+  {
+    id: 674,
+    title: 'Why now is the best time to invest in altcoins',
+    category: 'Crypto',
+    subCategory: ['altcoin', 'invest', 'crypto'],
+    description: <div className="blog-desc">
+      <p>While fear among investors was dominant in the market, a few of the altcoins’ metrics turned bullish, suggesting a possible bull rally.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 21, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692622376/ncx-blog-1132_wsjtww.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>While fear among investors was dominant in the market, a few of the altcoins’ metrics turned bullish, suggesting a possible bull rally.</p>
+    	<ul>
+        <li>Investors continued to accumulate more ETH as its supply outside of exchanges increased.</li>
+        <li>XRP was up by more than 4% in the last 24 hours, and a few metrics were bullish.</li>
+      </ul>
+      <p>Over the last few days, the crypto market has witnessed a massive downfall. This caused most cryptos to shed their values by nearly double digits, including Ripple [XRP] and Ethereum [ETH]. While the market remained under bears’ influence, it has opened the right opportunity for investors to increase their accumulation.</p>	
+    	<p>Interestingly, the latest data suggested that most altcoins were in the underbought zone, which can cause an uptick in buying pressure, in turn, changing the market condition around.</p>
+      <h3>A massive price correction</h3>	
+      <p>Though there might have been multiple factors at play that caused the entire market to turn red, a major reason might have been SpaceX’s dump of Bitcoin [BTC] worth millions of dollars. Thanks to this, Ethereum went under the $1,600 mark for a short while.</p>
+      <p>However, Santiment’s latest tweet revealed that several altcoins went into the underbought zone over the last few days. Not only were altcoins underbought, but the overall trading sentiment remained low.</p>
+      <p>As per CoinMarketCap, the 24-hour trading volume dropped by more than 30%, reflecting investors’ reluctance to actively trade. However, while the market remains sluggish, it might be the right opportunity for investors to accumulate more before the market turns bullish. In fact, investors were already accumulating the king of altcoins.</p>
+      <p>As per Santiment, ETH’s supply on exchanges dropped substantially while its supply outside of exchanges increased. Additionally, whales’ confidence in the king of altcoins was high as the supply held by top addresses went up.</p>
+      <h3>Are Altcoins entering a bull rally?</h3>
+      <p>Surprisingly, while ETH’s price was still slow-moving, XRP, on the other hand, showed high volatility. According to CoinMarketCap, the altcoin was up by more than 4% in the last 24 hours, which was remarkable, considering the current market condition.</p>
+      <p>At press time, it was trading at $0.5288 with a market cap of over $27.9 billion. The recent price uptick helped XRP increase its MVRV Ratio slightly. Additionally, positive sentiment around the token was relatively high.</p>
+      <p>Not only that, but ETH’s Relative Strength Index (RSI) was in an oversold zone, which is a bullish development. Moreover, CryptoQuant’s data revealed that ETH’s exchange reserve was declining, suggesting that buying pressure was increasing.</p>
+      <p>This happened while the market’s Fear and Greed index had a value of 34. When the metric’s value remains low, the chances of a price uptick increase. Therefore, investors might consider this a good opportunity to increase their accumulation to enjoy profits during the next bull run.</p>
+    	<p>However, taking into account the unpredictable nature of the crypto market, the possibility of a further downtrend can’t be ruled out.</p>
+    </div>
+  },
+  {
+    id: 673,
+    title: 'Solana vs Dogecoin: What to expect as the race heats up',
+    category: 'Crypto',
+    subCategory: ['Solana', 'Dogecoin', 'Race'],
+    description: <div className="blog-desc">
+      <p>Solana and Dogecoin’s market caps remained close to each other with only a difference of a few thousand dollars.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692621947/ncx-blog-1131_ndmccb.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Solana and Dogecoin’s market caps remained close to each other with only a difference of a few thousand dollars.</p>
+      <ul>
+        <li>Dogecoin flipped Solana on 18 August to reclaim its 8th spot on the list of top cryptos.</li>
+        <li>Though a few metrics were bullish on SOL, market indicators suggested otherwise.</li>
+      </ul>
+    	<p>Over the last week,the market capitalizations of Dogecoin [DOGE] and Solana [SOL] were closely knit. This allowed both tokens to flip each other on multiple occasions. A few days ago, SOL flipped DOGE to become the eighth largest crypto. However, the good days did not last long, as DOGE quickly reclaimed its spot. The reason behind this episode was revealed upon a look at their metrics and daily charts.</p>	
+    	<h3>Solana and Dogecoin are neck-to-neck</h3>
+      <p>A look at both the cryptos’ market caps revealed that there were several instances when both flipped each other over the last week. Though the difference in their prices was massive, their market caps remained close to each other, with only a slight difference of a few thousand dollars.</p>
+      <p>According to CoinMakretCap, at the time of writing, Solana had a market cap of $8.828 billion, while Dogecoin’s market cap was $9 billion, giving it the edge.</p>
+      <p>A look at the market sentiment around both tokens clearly pointed out that DOGE was the leader. This was evident from the drop in SOL’s weighted sentiment, while the same metric for DOGE remained high.</p>
+      <p>Dogecoin last flipped Solana on 18 August to claim its spot. The 4-hour chart of DOGE showed what helped the memecoin.</p>
+      <p>During that time frame, DOGE’s MACD displayed a bullish crossover. Its Money Flow Index (MFI) also registered a sharp uptick, helping the coin to marginally increase its value.</p>
+      <h3>Will Solana be able to beat DOGE?</h3>	
+    	<p>While DOGE’s price went up by more than 1% in the last 24 hours, SOL only managed to push its price up by 0.18%. Nonetheless, a few of the metrics were bullish on SOL, suggesting a further price uptick in the days to follow.</p>
+      <p>As per Santiment’s chart, SOL’s open interest dropped substantially. A decline in the metric usually means that the on-going price trend might end soon. Moreover, Solana’s DyDx and Binance funding rates were red, further increasing the chances of a trend reversal.</p>
+      <p>However, a look at SOL’s daily chart painted a bearish picture. The distance between the 20-day Exponential Moving Average (EMA) and the 55-day EMA was shrinking, indicating a possible bearish crossover soon.</p>
+      <p>The Relative Strength Index (RSI) was also resting below the neutral mark. This meant that the chances of SOL going ahead of DOGE in the near term were unlikely. Nonetheless, the Chaikin Money Flow (CMF) registered an uptick, which was a bullish development. </p>
+    </div>
+  },
+  {
+    id: 672,
+    title: 'Bitcoin: Analyzing how the next halving might affect BTC',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'BTC', 'halving'],
+    description: <div className="blog-desc">
+      <p>Bitcoin’s value was worth only about 0.2 of what it should ideally be as per the stock-to-flow model, suggesting room for exponential growth.</p>
+    </div>,
+    authorName: 'Aniket Verma',
+    authorurl: 'https://ambcrypto.com/author/aniket-verma/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692621094/ncx-blog-1130_ndybef.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin’s value was worth only about 0.2 of what it should ideally be as per the stock-to-flow model, suggesting room for exponential growth.</p>
+    	<ul>
+        <li>As per stock-to-flow deflection, Bitcoin was undervalued in relation to its scarcity.</li>
+        <li>Long-term holders had access to 75% of Bitcoin’s circulating supply.</li>
+      </ul>
+      <p>The impact of Bitcoin’s [BTC] scarcity on its long-term value has been one of the most widely discussed and analyzed topics within the crypto community. Over the years, experts have developed several models that provide insights into the relation between the two and help investors make informed decisions.</p>	
+    	<p>According to a recent post by on-chain analytics firm Glassnode, BTC’s stock-to-flow (S/F) deflection dipped to a 1-month low, suggesting more room for bull cycles in the near future.</p>	
+    	<h3>Bitcoin’s scarcity to drive its value</h3>
+      <p>In layman terms, the S/F deflection determines whether an asset is overvalued or undervalued in relation to its scarcity. In the current situation, the deflection was less than 1 and as indicated above, deeper in the green undervalued territory.</p>
+      <p>The S/F deflection is derived by dividing Bitcoin’s price by one of its most popular models, the S/F ratio. Created by anonymous analyst PlanB, the S/F ratio compares the current stock of Bitcoin to the number of new Bitcoins mined each year.</p>
+      <p>The narrative which underpins this model is that the value of an asset is directly proportional to its scarcity. The higher the ratio, the scarcer the asset becomes, and in turn drives the price.</p>
+      <p>The model states that the halving events that occur roughly every four years — when the rate of new coins mined is halved— directly affect the price of Bitcoin. Data from Glassnode further proved this. Note how BTC’s price remained subdued in the days leading to the halving. However, on completion, it exploded to new highs.</p>
+      <p>At the time of writing, BTC was worth only about 0.2 of what it should ideally be as per the S/F model. With the next halving event scheduled for April 2024, there was a chance that BTC would reach its full potential.</p>
+      <h3>Diamond hands stocking up</h3>
+      <p>The halving-induced bullish expectations spurred long-term Bitcoin holders (LTH) to stock up for the big day. At the time of writing, seasoned investors of the king coin accounted for 75% of all tokens in circulation.</p>
+      <p>BTC crawled back above the $26,000-mark on 19 August, as the stormy week drew to a close. It exchanged hands at $26,108 at the time of writing, per CoinMarketCap.</p>
+    </div>
+  },
+  {
+    id: 671,
+    title: 'A look at Bitcoin in light of the just concluded bearish week',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'bearish', 'week'],
+    description: <div className="blog-desc">
+      <p>The whale selloff has leveled out for now. As such, Bitcoin may enjoy some relief from more downside. On the other hand, the same whale category did not register a sharp bounce.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 20, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692620949/ncx-blog-1129_myidnq.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The whale selloff has leveled out for now. As such, Bitcoin may enjoy some relief from more downside. On the other hand, the same whale category did not register a sharp bounce.</p>
+    	<ul>
+        <li>A look at what recent on-chain findings could signal in terms of Bitcoin’s next move.</li>
+        <li>Bitcoin sell pressure slowed down paving the way for some accumulation but it might not be out of the woods yet.</li>
+      </ul>
+      <p>It would be wise to look into the state of Bitcoin [BTC] especially after concluding a bearish week. The metrics may offer deeper insights into how recent events have affected BTC holdings’ demand.</p>
+      <p>The number of addresses in profit or at a loss is an important metric for Bitcoin analysts. It gives a rough estimate of how investors have been affected by the recent bearish conditions. It can also be used to evaluate the impact of sell pressure.</p>
+      <p>According to a recent Glassnode alert, the number of Bitcoin addresses at a loss just reached a new monthly high.</p>
+      <p>The above means that Bitcoin’s breakeven point is above the current level and confirms the short-term focus. Meanwhile, the BTC amount of supply last active over 10 years just soared to a new ATH. This suggests that long-term holders have not shifted their perspective despite the harsh crash.</p>
+      <h3>Can Bitcoin secure a bullish robust bullish demand?</h3>
+      <p>Diving deeper we found that the number of addresses that are in loss just soared to a new monthly high. These findings do a great job of identifying the magnitude of the bearish outcome on BTC holders. But those findings do not highlight the subsequent outcome after the crash.</p>	
+    	<p>Perhaps an assessment of whale activity on Glassnode may offer insights into whether the market’s next move. Will it bounce back slow or fast, and is more downside likely?  Well, addresses holding over 1,000 and over 10,000 BTC dropped off considerably. This confirms that Bitcoin whales have been contributing to sell pressure from 14 to 17 August.</p>
+      <p>Bitcoin traders should note that the latest findings indicate that the whale selloff has leveled out for now. As such, Bitcoin may enjoy some relief from more downside. On the other hand, the same whale category did not register a sharp bounce.</p>
+      <p>As far as accumulation is concerned, Bitcoin’s exchange flow data shows that the amount of BTC flowing out of exchanges outweighed inflows. A net flow of coins from exchanges into private wallets is a sign of accumulation.</p>	
+    	<p>Bitcoin options open interest declined considerably since mid-August. However, it has also not bounced back in a manner to suggest that the bulls might be about to make a strong comeback. This could signal that the market is not yet clear in terms of recovery.</p>
+    </div>
+  },
+  {
+    id: 670,
+    title: 'Litecoin: The state of LTC miners post-halving',
+    category: 'Crypto',
+    subCategory: ['Litecoin', 'LTC', 'miners'],
+    description: <div className="blog-desc">
+      <p>Since the last halving, Litecoin’s hashrate has remained stable, and its difficulty reached an all-time high on 2 August.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 20, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692620460/ncx-blog-1128_srspak.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Since the last halving, Litecoin’s hashrate has remained stable, and its difficulty reached an all-time high on 2 August.</p>
+      <ul>
+        <li>Litecoin’s miner fees have been declining for weeks.</li>
+        <li>LTC’s weekly chart was painted red, but metrics suggested a trend reversal.</li>
+      </ul>
+    	<p>Litecoin [LTC] mining industry has been able to maintain its growth trajectory after the blockchain’s latest halving on 2 August, 2023. Not only was the blockchain’s hashrate stable, but its mining difficulty recently touched an all-time high, reflecting stable growth in the ecosystem.</p>	
+    	<p>However, since halving LTC’s performance on the price front has not been up to par. Considering LTC’s bearish price action and the decline in mining reward, will the sector be able to maintain its growth?</p>	
+    	<h3>A closer look at Litecoin’s mining sector</h3>
+      <p>Since the blockchain’s third halving, Litecoin’s hashrate has remained stable. Rather, if past weeks are to be considered, the sector was showing consistent growth. At press time, Litecoin’s hashrate was 772.99 TH/s.</p>
+      <p>Additionally, as hashrate increased, mining difficulty also went up, even touching an ATH on 5 August 2023. These metrics clearly reflect the growing popularity of Litecoin mining.</p>
+      <p>It was interesting to note that a possible reason behind this surge could be Dogecoin [DOGE].</p>
+      <p>Shan Belew, a popular crypto influencer, mentioned in a recent tweet that high hashrate might be the result of Dogecoin being merged-mined with Litecoin.</p>
+      <p>However, the growth rate might halt soon as a few of the metrics revealed the possibility of miners exiting the network. For instance, Glassnode’s chart pointed out that LTC’s mining fees have been declining for months.</p>
+      <p>LTC’s performance on the price front was also concerning. According to CoinMarketCap, LTC was down by more than 22% over the last week. At press time, it was trading at $64.40 with a market capitalization of over $4.7 billion.</p>
+      <p>The latest halving had already reduced miners’ rewards to half. That, combined with a drop in miners’ fees and a substantially low coin price, can motivate miners to exit the network in order to look for more profitable mining options.</p>
+      <h3>Can Litecoin’s price be the savior?</h3>
+      <p>LTC’s price can play a crucial role in sustaining the growth of its mining ecosystem, as it can help miners increase their profit margins. Thankfully, a few of the metrics looked positive for LTC. For example, after a sharp drop, Litecoin’s MVRV Ratio recovered slightly.</p>
+      <p>Additionally, its Binance funding rate was red, meaning the derivatives buyers were not purchasing the token at its current price. This increased the chances of a trend reversal.</p>
+      <p>Therefore, whether LTC’s price chooses to follow a northbound route in the days to come, will be interesting to watch.</p>
+    </div>
+  },
+  {
+    id: 669,
+    title: 'Will Polygon’s gaming sector help MATIC stabilize? ',
+    category: 'Crypto',
+    subCategory: ['Polygon', 'Gaming', 'Matic'],
+    description: <div className="blog-desc">
+      <p>Among the top five Polygon dApps over the last 24 hours, three were from the gaming space, showcasing the popularity of games on the blockchain.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 20, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692619939/ncx-blog-1127_sbh1iq.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Among the top five Polygon dApps over the last 24 hours, three were from the gaming space, showcasing the popularity of games on the blockchain.</p>
+    	<ul>
+        <li>The Immutable zkEVM testnet went live, offering new features and capabilities.</li>
+        <li>MATIC’s chart remained red, and metrics were bearish.</li>
+      </ul>
+      <p>Over the last few months, Polygon [MATIC] has made considerable developments in its gaming ecosystem. Its efforts reflected well on the blockchain’s metrics, as it suggested consistent gaming activity.</p>	
+    	<p>The future of blockchain in gaming has huge potential to grow, but its effects on MATIC remain to be seen.</p>	
+      <h3>A deep dive into Polygon’s gaming ecosystem</h3>
+    	<p>Dune Analytics’ data suggested that Polygon’s gaming ecosystem was witnessing steady growth at press time. Several metrics supported this notion, including unique addresses, transactions, and unique addresses in gaming dApps.</p>
+      <p>The above trend remained true with the number of transactions in gaming dApps as well.</p>
+      <p>DappRadar also revealed that the gaming space contributed a lot to Polygon’s growth. This was evident from the fact that among the top five dApps in the Polygon ecosystem, three of them were from the gaming space in the last 24 hours. The gaming apps were Pandra War, Sunflower Land, and Planet IX.</p>
+      <p>Interestingly, MATIC also announced a partnership in the recent past that could fuel further growth of the gaming ecosystem over the coming months. Immutable zkEVM testnet recently went live, adding new functionalities.</p>
+      <p>Users who choose Immutable zkEVM will receive all the advantages of  zkEVMs in addition to Immutable’s vertically integrated gaming-specific features designed to make building web3 games simple.</p>
+      <p>Sandeep Nailwal, co-founder of Polygon, also tweeted about how this partnership was important for Polygon 2.0. As per the tweet, these testnets mark a huge step forward for Polygon 2.0’s vision.</p>
+      <h3>MATIC continues its struggle</h3>
+      <p>While the blockchain’s gaming ecosystem flourished, its native token, MATIC, couldn’t turn its chart green. As per CoinMarketCap, MATIC was down by more than 14% in the last seven days. At press time, it was trading at $0.5808 with a market capitalization of over $5.4 billion.</p>
+      <p>A look at Polygon’s metrics suggested that the downtrend might continue. The token’s exchange reserve was increasing. An uptick in the metric means that selling pressure on MATIC remained high. Its active addresses and transfer volume also dropped, which looked bearish.</p>
+    </div>
+  },
+  {
+    id: 668,
+    title: 'Elon Musk, Bitcoin, and the possibility of volatility',
+    category: 'Crypto',
+    subCategory: ['Elon Musk', 'Bitcoin', 'Volatility'],
+    description: <div className="blog-desc">
+      <p>The crypto market turned red after SpaceX sold BTC worth millions of dollars. However, BTC was showing signs of recovery.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 19, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692619444/ncx-blog-1126_bgchuy.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>The crypto market turned red after SpaceX sold BTC worth millions of dollars. However, BTC was showing signs of recovery.</p>
+      <ul>
+        <li>The percentage of BTC supply in profit fell from 71% to 61%.</li>
+        <li>BTC was still under $26,000, but a few metrics were bullish.</li>
+      </ul>
+    	<p>Over the last few days, the crypto market witnessed a sudden downtrend, causing top coins like Bitcoin [BTC] and Ethereum’s [ETH] price to plummet. Not only was the effect limited to the market leaders, but altcoins with lower market caps also felt the heat.</p>	  
+    	<h3>Why did Bitcoin’s price sink?</h3>
+      <p>Over the past few weeks, BTC remained comfortable under the $30,000 mark. However, investors were shocked on 17 August as the king coin witnessed a major drop, pushing its price below $26,000.</p>
+      <p>According to CoinMarketCap, BTC was down by more than 11% in the last seven days. At press time, it was trading at $25,897.22 with a market capitalization of over $503 billion. Additionally, its trading volume also sank by over 38% in the last 24 hours.</p>
+      <p>Though there might have been multiple factors at play that caused the entire market to turn red, Lookonchain pointed out what could have been the most potent trigger. Unsurprisingly, it was Elon Musk who ignited this episode.</p>
+      <p>Musk’s spacecraft engineering company, SpaceX, had sold $373 million worth of Bitcoin. This dump from SpaceX might have sparked fear among investors, resulting in a price drop.</p>	
+    	<p>The price decline had a larger impact on BTC’s on-chain metrics. Glassnode’s recent analysis revealed that the percentage of BTC supply in profit has just fallen from 71% to 61%. This reflects the ‘top-heavy’ market, which has become increasingly price sensitive.</p>
+      <p>Moreover, Bitcoin’s number of UTXOs in loss just reached a one-month high of 41,944,655.958. Not only that, but whale activity around the coin dropped as its number of whales just reached a 1-month low of 1,599.</p>
+      <h3>Bitcoin showing signs of recovery</h3>
+      <p>However, the market decline came to a halt, thanks to the Securities and Exchange Commission (SEC). This happened after the regulatory body revealed its plans to approve Ethereum futures ETFs.</p>
+      <p>According to a 17 August Bloomberg report, the SEC is unlikely to block the product, which has seen a lot of applications from numerous firms. Since then, BTC’s on-chain metrics have shown signs of recovery, giving hope that the king of crytpos’ value might witness an uptick.</p>
+      <p>Notably, as per CryptoQuant, Bitcoin’s exchange reserve was decreasing, suggesting that the coin was not under selling pressure. The coin’s aSORP was green, which meant that more investors were selling at a loss, signaling a possible market bottom.</p>
+      <p>Moreover, BTC’s Relative Strength Index (RSI) was in an oversold position. This could increase buying pressure on the coin and, in turn, increase its price.</p>
+    </div>
+  },
+  {
     id: 667,
     title: 'Crypto now more stable than oil: Decoding this turn of events',
     category: 'Crypto',
