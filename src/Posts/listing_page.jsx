@@ -37,12 +37,12 @@ function PostListingSection()
                                     <h1>Bitcoin: Analyzing how the next halving might affect BTC</h1>
                                     <p>Bitcoin’s value was worth only about 0.2 of what it should ideally be as per the stock-to-flow model, suggesting room for exponential growth.</p>
                                 </a>
-                            <a href="/post-crypto/671" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692620949/ncx-blog-1129_myidnq.png" alt="art_pic"/></div>
-                                    <p className="dat">  August 20, 2023</p>
-                                    <h1>A look at Bitcoin in light of the just concluded bearish week</h1>
-                                    <p>The whale selloff has leveled out for now. As such, Bitcoin may enjoy some relief from more downside. On the other hand, the same whale category did not register a sharp bounce.</p>
-                                </a>
+                            <a href="/post-crypto/675" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692622722/ncx-blog-1133_aocfqf.png" alt="art_pic"/></div>
+                                <p className="dat"> August 21, 2023</p>
+                                <h1>What Monero’s northbound momentum tells you</h1>
+                                <p>Monero’s performance on the social front was commendable, while its price rallied by 2%, suggesting a continued bull run.</p>
+                            </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
                         </div>
@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/650" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692370824/ncx-blog-1125_x3zhrd.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 18, 2023 - 8:30 AM</p>
-                                    <h1>Vietnam Tycoon Loses $18 Billion After EV Maker’s Shares Sink</h1>
-                                    <p>(Bloomberg) -- After an astronomical rise in its first day of trading, VinFast Auto Ltd. is now coming back to Earth — erasing a chunk of its billionaire founder’s fortune.</p>
+                            <a href="/post-markets/658" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692693142/ncx-blog-1152_xewjmw.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 21, 2023 - 9:52 PM</p>
+                                    <h1>US borrowing costs highest since 2007 amid interest rate fears</h1>
+                                    <p>Joe Biden’s US government faces its highest borrowing costs since before the global financial crisis amid concerns that the Federal Reserve will keep interest rates higher for longer.</p>
                                 </a>
-                            <a href="/post-markets/649" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692370428/ncx-blog-1124_rky3yt.webp" alt="art_pic"/></div>
-                                    <p className="dat">  August 18, 2023 - 7:03 AM</p>
-                                    <h1>Foreign investors are giving up on China as capital flows reverse</h1>
-                                    <p>Foreign investors are giving up on China as the economy's post-COVID recovery continues to fizzle with little hope of relief from Beijing.</p>
+                            <a href="/post-markets/657" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692688218/ncx-blog-1151_xmzlyw.webp" alt="art_pic"/></div>
+                                    <p className="dat">  August 21, 2023 - 2:33 PM</p>
+                                    <h1>Bond Bulls at JPMorgan, Allianz Double Down on a Bet Gone Bad</h1>
+                                    <p>(Bloomberg) -- Convinced a recession in the US was near, some of the world’s most prominent money managers loaded up on government bonds this year in a bold bet that would atone for the punishing losses suffered in 2022.</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -82,17 +82,17 @@ function PostListingSection()
                                 <h1>JPMorgan sees Japan threshold for yen intervention at around 150 yen per dollar</h1>
                                 <p>LONDON (Reuters) - Japan's threshold for currency market intervention on the yen is likely to be around 150 per dollar, investment bank JPMorgan's analysts said on Monday.</p>
                             </a>
-                            <a href="/post-crypto/675" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692622722/ncx-blog-1133_aocfqf.png" alt="art_pic"/></div>
-                                <p className="dat"> August 21, 2023</p>
-                                <h1>What Monero’s northbound momentum tells you</h1>
-                                <p>Monero’s performance on the social front was commendable, while its price rallied by 2%, suggesting a continued bull run.</p>
+                            <a href="/post-markets/656" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692687613/ncx-blog-1150_dtym0u.jpg" alt="art_pic"/></div>
+                                <p className="dat">August 21, 2023 - 2:16 PM</p>
+                                <h1>Nvidia earnings will be major test for AI demand, market rally</h1>
+                                <p>(Reuters) -Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?</p>
                             </a>
-                            <a href="/post-crypto/670" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692620460/ncx-blog-1128_srspak.png" alt="art_pic"/></div>
-                                <p className="dat">August 20, 2023</p>
-                                <h1>Litecoin: The state of LTC miners post-halving</h1>
-                                <p>Since the last halving, Litecoin’s hashrate has remained stable, and its difficulty reached an all-time high on 2 August.</p>
+                            <a href="/post-markets/655" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692687087/ncx-blog-1149_mqbnh7.webp" alt="art_pic"/></div>
+                                <p className="dat"> August 21, 2023 - 1:10 PM</p>
+                                <h1>Credit Suisse Shuts Japan Equity Trading for Hedge Funds</h1>
+                                <p>(Bloomberg) -- Credit Suisse is shutting its cash equity sales business in Japan, and has told hedge funds and other institutional clients it would no longer be taking orders as UBS Group AG proceeds with a global overhaul.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
