@@ -44,6 +44,7 @@ import PostCommoditiesList from './Posts/PostCommodities/ArticlesList';
 import PostIndicesDetails from './Posts/PostIndices/SinglePage';
 import PostIndicesList from './Posts/PostIndices/ArticlesList';
 import NCXCardPage from './Assets/pages/ncxcard/newcard';
+import AccountPage from './Assets/pages/acounting/accounting';
 
 const App = () => {
   return (
@@ -91,6 +92,7 @@ const App = () => {
           <Route path='/post-commodities/:id' element={<PostCommoditiesDetails />} />
           <Route path='/post-markets' element={<PostMarketList />}/>
           <Route path='/post-markets/:id' element={<PostMarketDetails />} />
+          <Route path='/accounting' element={<AccountPage />} />
           {/* <Route path='/new-card' element={<NCXCard />} /> */}
         </Routes>
       </BrowserRouter>

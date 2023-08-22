@@ -1,0 +1,21 @@
+/* desktop styling */
+.accnt__v.one {background: #000000; padding: 80px 0px;}
+.accnt__v.one .row {margin: 0px;}
+.accnt__v.one .row .col {padding: 0px; width: 50%; flex: inherit; display: flex; flex-direction: column; justify-content: center;}
+.accnt__v.one .row .col.mgi img{width: 100%; max-width: 600px; margin: 0 auto; margin-right: 0px;}
+.accnt__v.one .row .col h2 {color: #FFFFFF; font-size: 46px; font-family: 'urbanist-medium'; line-height: 50px; margin-bottom: 30px;}
+.accnt__v.one .row .col h2 span{display: block;}
+.accnt__v.one .row .col p {color: #FFFFFF; font-size: 18px; font-family: 'urbanist-regular';}
+.accnt__v.one .row .col a {font-size: 16px; color: #FFFFFF; text-transform: inherit; padding: 10px 25px; border: 1px solid #FFFFFF; border-radius: 50px; margin-top: 30px; width: fit-content; transition: 0.5s;}
+.accnt__v.one .row .col a:hover{background: #FFFFFF; color: #000000; transition: 0.5s;}
+.accnt__v.tw{background: #FFFFFF; padding: 80px 0px;}
+.accnt__v.tw .row .col {padding: 0px; width: 50%; flex: inherit; display: flex; flex-direction: column; justify-content: center;}
+.accnt__v.tw .row .col img{width: 100%; max-width: 600px; margin: 0 auto; margin-left: 0px;}
+.mla h2{color: #000000; font-size: 46px; font-family: 'urbanist-medium'; line-height: 50px; margin-bottom: 30px; padding-right: 80px;}
+.mla {padding-left: 50px !important;}
+.mla ul{padding-left: 0px; margin-bottom: 0px; padding-right: 100px;}
+.mla ul li {font-size: 18px; font-family: 'urbanist-regular'; line-height: 24px; list-style-type: none; padding: 0px 0px 15px 40px; position: relative;}
+.mla ul li:before{content: ''; background: url('../../images/tick-sim.svg'); background-repeat: no-repeat; background-size: 100%; width: 20px; display: block; position: absolute; height: 20px; left: 0px; top: 7px;}
+.mla a {width: fit-content; background: #000000; color: #FFFFFF; font-family: 'urbanist-medium'; font-size: 16px; text-transform: inherit; padding: 10px 25px; border-radius: 50px; margin-top: 15px;}
+.mla a:hover{background: #000000; color: #FFFFFF;}
+.accnt__pg a:focus, .accnt__pg a:focus-visible{text-decoration: none !important; outline: none !important;}

@@ -181,6 +181,8 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/new-card") > -1){
       $("body").addClass("body-overflow");
+    }else if (window.location.href.indexOf("/accounting") > -1){
+      $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");
     }
