@@ -1,5 +1,588 @@
 const data = [
   {
+    id: 658,
+    title: 'US borrowing costs highest since 2007 amid interest rate fears',
+    category: 'Markets',
+    subCategory: ['US', 'Borrowing', 'interest'],
+    description: <div className="blog-desc">
+      <p>Joe Biden’s US government faces its highest borrowing costs since before the global financial crisis amid concerns that the Federal Reserve will keep interest rates higher for longer.</p>
+    </div>,
+    authorName: 'Chris Price',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 9:52 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692693142/ncx-blog-1152_xewjmw.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Joe Biden’s US government faces its highest borrowing costs since before the global financial crisis amid concerns that the Federal Reserve will keep interest rates higher for longer.</p>
+    	<p>The yield on 10-year Treasuries rose to a 16-year high of 4.342pc amid recent evidence of a robust US economy.</p>	
+    	<p>The coupon on 30-year US bonds hit its highest level since April 2011, reaching 4.468pc. The yield on 10-year UK gilts has pushed five basis points higher today to 4.71pc.</p>	
+    	<p>It comes as investors keenly await comments from Federal Reserve chairman Jerome Powell on Friday at a meeting of central bankers at Jackson Hole in Wyoming that begins on August 24. He could offer clues on the outlook for interest rates.</p>
+      <p>Rick Meckler, partner at Cherry Lane Investments, said: “I don’t think the market is looking for some statement suggesting rate rises are over.</p>	
+    	<p>“But investors are looking for anything that can turn the near-term negative sentiment.”</p>	
+    	<p>Traders have bet there is an 89pc chance that the Fed will pause its interest rate increases in September, according to the CME Group’s Fedwatch tool.</p>
+      <p>06:51 PM BST</p>	
+    	<p>That's all from me</p>	
+    	<p>Before I go, here are the latest headlines:</p>
+      <ul>
+        <li>Björn from ABBA and Johnny Cash’s daughter to advise Google on AI in music</li>
+        <li>Pound has peaked and will come under renewed pressure, says HSBC</li>
+        <li>‘Lacklustre’ German economy to stagnate again, warns central bank</li>
+      </ul>
+      <p>06:43 PM BST</p>	
+      <h3>Ovo ordered to improve customer service after ‘serious concerns’ raised</h3>
+    	<p>Ovo has been ordered to improve its customer service after “serious concerns” were raised over unresolved complaints and waiting times.</p>	
+    	<p>Ofgem has set Ovo “clear expectations and improvement targets” to address outstanding complaints and reduce how long it takes for issues to be resolved.</p>
+      <p>The UK’s gas and electricity regulator launched compliance proceedings against the Bristol-based supplier after it was contacted by the Energy Ombudsman and Citizens Advice Scotland.</p>	
+    	<p>Ovo faces potential enforcement action and fines if it does not improve its complaint and referral processes.</p>	
+    	<p>An Ovo spokesman said: “Ofgem did not identify any non-compliance from Ovo on this matter.</p>
+      <p>“We continue to place serious emphasis on the support we provide to our customers and have assured Ofgem of this.”</p>	
+      <p>06:21 PM BST</p>
+      <h3>Net zero infrastructure group to delist from London's group as losses surge</h3>
+    	<p>Renewable energy group Fulcrum Utility Services plans to delist from the London Stock Exchange as losses widen.</p>	
+    	<p>Fulcrum, which designs and builds renewable energy infrastructure, said it has reviewed the “advantages and disadvantages” of remaining on London’s Aim.</p>
+      <p>This included the company’s “limited prospects” of raising additional funds from investors, plus the significant costs and regulatory burden which listed businesses face.</p>	
+    	<p>Fulcrum said that delisting would help support the group’s return to profitability and help simplify the business.</p>	
+    	<p>Shareholders of the Sheffield-based company will vote on the proposals at next month’s general meeting.</p>
+      <p>Revenue sank 18pc to £50.6m in the year to March 31, while pre-tax losses ballooned 81pc to £25.7m.</p>	
+    	<p>Interim chief executive Lindsay Austin blamed the performance on “legacy issues and the difficult conditions that the group has operated in”.</p>	
+    	<p>05:51 PM BST</p>
+      <h3>FTSE 100 closes at six-week low as housebuilders face downturn</h3>
+      <p>Britain’s blue-chip index has closed at a six-week low after poor industry data and a major profit warning dragged down the UK’s largest housebuilders.</p>	
+    	<p>The FTSE 100 closed down 0.06pc to 7,257.82, reversing all opening gains from this morning’s rally.</p>	
+    	<p>The midcap FTSE 250 tumbled 1.09pc to 17,898.99, closing in the red for the seventh consecutive session.</p>
+      <p>It comes after data from website Rightmove showed asking prices for homes in Britain fell sharply this month amid as rising mortgage costs. Meanwhile, Crest Nicholson tumbled 14.4pc after the housebuilder lowered its annual profit expectations.</p>	
+    	<p>It saw more than half a billion pounds has been wiped off Britain’s largest housebuilders as traders reacted to concerns of a deepening downturn in the property sector. Housing stocks fell 3.54pc.</p>	
+    	<p>Michael Hewson, chief market analyst at CMC Markets UK, said: “A profit warning from UK housebuilder Crest Nicholson has reinforced the challenges facing the housing market in the months ahead with interest rates set to be hiked further next month.”</p>
+      <p>04:54 PM BST</p>	
+      <h3>Aviva testing artificial intelligence across UK business</h3>
+    	<p>British insurance group Aviva has begun piloting artificial intelligence across its business to offer customers a “quicker solution”.</p>	
+    	<p>The London-based provider is currently testing the technology in its insurance claims division, according to Adam Winslow, chief executive of Aviva UK and Ireland general insurance.</p>
+      <p>He told trade publication InsurancePost: “When storms happen a lot of customers contact us to check whether certain things are covered. There are a lot of people we use for those calls, but we can serve that need far more easily with AI.”</p>	
+    	<p>“It is about matching a customer with a policy and the documentation to say what is and isn’t covered.”</p>	
+    	<p>While Aviva is exploring how AI can be used for administrative tasks, Mr Winslow said that humans will still be needed for “empathetic work” that requires emotional support.</p>
+      <p>04:28 PM BST</p>	
+      <h3>Handing over</h3>
+    	<p>That is your lot from me today. The ever-dependable Adam Mawardi will take things from here.</p>	
+    	<p>Some say he is worth his weight in gold, although that might not be the highest compliment on today’s prices:</p>
+      <p>04:22 PM BST</p>	
+      <h3>US government faces shutdown as row over spending deepens</h3>
+    	<p>The US government faces another federal shutdown later this year, Goldman Sachs has warned, with Republicans at loggerheads over “root canal” spending cuts.</p>	
+    	<p>A lack of consensus in Congress over annual spending bills will likely bring the American political system to a halt, the investment bank warned, leading to a hit of 0.2 percentage points per week to the nation’s economy.</p>
+      <p>It comes as members of the hardline House Freedom Caucus are pushing to cut spending to the fiscal 2022 level of $1.47trn (£1.16trn), which would be $120bn less than President Joe Biden and House Speaker Kevin McCarthy agreed to in their May debt ceiling compromise which averted a potentially disastrous default on US debts.</p>	
+    	<p>With Republicans also seeking higher spending on defence, veterans benefits and border security, analysts say the hardline target would mean cuts of up to 25pc in areas such as agriculture, infrastructure, science, commerce, water and energy, and healthcare.</p>	
+    	<p>Representative Don Bacon, a centrist Republican from Nebraska, said: “The reductions are so deep. They want to make everything a root canal.”</p>
+      <p>Goldman’s chief US political economist Alec Phillips said: “The federal government looks more likely than not to temporarily shut down later this year.”</p>	
+    	<p>04:07 PM BST</p>	
+      <h3>US long-term Treasury yields highest in 12 years</h3>
+    	<p>The yield on 30-year US Treasury bonds has hit its highest level since April 2011 amid concerns that interest rates could remain higher for a longer period of time.</p>
+      <p>The coupon hit 4.468pc, and was last up 8.5 basis points to 4.464pc.</p>	
+    	<p>It comes as recent evidence of a robust US economy stokes concerns the Federal Reserve could keep rates higher for longer.</p>	
+    	<p>Investors are now keenly waiting for comments from Federal Reserve chairman Jerome Powell on Friday at a meeting of central bankers at Jackson Hole in Wyoming that begins on August 24.</p>
+      <p>The yield on 30-year UK gilts has risen four basis points to 4.91pc.</p>	
+      <p>03:56 PM BST</p>
+      <h3>Bitcoin slump deepens amid bond sell-off</h3>
+    	<p>Bitcoin added to losses racked up during the digital token’s worst week since November last year as the prospect of higher-for-longer borrowing costs sapped demand for riskier investments across global markets.</p>	
+    	<p>The largest digital asset fell 0.2pc toward £20,000, trading near a two-month low after shedding more than 10pc last week. Smaller coins like Ether and XRP also slid.</p>
+      <p>Longer term UK gilts and US Treasury yields are around multi-year highs as part of a global bond selloff.</p>	
+    	<p>The surging yields come as traders fear a prolonged period of high interest rates to choke inflation. Such a backdrop would restrain liquidity and pose a challenge for riskier assets like stocks and crypto.</p>	
+    	<p>Top central bankers are due to meet in Jackson Hole this week for the Federal Reserve’s annual symposium. Fed Chair Jerome Powell’s comments due on Friday will be closely examined for clues about the policy outlook.</p>
+      <p>Tony Sycamore, a market analyst at IG Australia, said: “The market potentially is hoping there is going to be some dovish rhetoric coming out of Jackson Hole. I don’t think they are going to be dovish.”</p>	
+    	<p>Mr Sycamore expects the S&P 500 stock index to drop another 2pc to 3pc amid a climb in the 10-year US Treasury yield past 4.33pc, with Bitcoin extending its decline to about $25,000 (£19,638).</p>	
+    	<p>03:38 PM BST</p>
+      <h3>Gas price volatility to 'remain over next few years,' warn economists</h3>
+      <p>Gas prices remain 9.5pc higher today after surging as much as 18pc earlier amid the threat of strikes at plants in Australia.</p>	
+    	<p>Up to 10pc of the world’s liquified natural gas exports could be disrupted if strikes go ahead, with unions setting a deadline of Wednesday for an agreement in pay talks with Woodside Energy.</p>	
+    	<p>The looming threat of walkouts comes as workers at Chevron plants in Australia also began voting on potential strikes last week.</p>
+      <p>The possibility of walkouts sent gas prices soaring as much as 40pc when the news first broke earlier this month.</p>	
+    	<p>Kieran Tompkins, commodities economist at Capital Economics, said the volatility “serves as a reminder that natural gas markets are still carrying the scars of Russia’s invasion of Ukraine”. He added:</p>	
+    	<p>We think that an environment of more volatile prices is set to remain a feature of natural gas markets over the next few years.</p>
+      <p>However, major investments in new LNG export terminals will raise global export capacity from 2025, which should help volatility return closer to historic norms.</p>	
+    	<p>03:20 PM BST</p>	
+      <h3>US markets would rebound in event of US federal shutdown, says Goldman Sachs</h3>
+    	<p>Any losses in the private sector from a US federal government shutdown would be made up in the quarter after the closure, Goldman Sachs predicts.</p>
+      <p>Stock markets ended either flat or higher during the prolonged closures experienced in 1995-96, 2013 and 2018-19.</p>	
+    	<p>Goldman’s chief US political economist Alec Phillips said:</p>	
+    	<p>Markets have not reacted strongly to prior shutdowns.</p>
+      <p>However, in each instance equity prices were lower at some point in the days following the start of the shutdown than when it began.</p>	
+    	<p>03:00 PM BST</p>	
+      <h3>Bond investors warned of 'trouble ahead' over climate change</h3>
+    	<p>Bond investors have been warned to brace for “trouble ahead” over climate change and that they cannot rely on credit ratings to give them a fair assessment of the risks they are exposed to as a result of wildfires and extreme weather caused by global warming.</p>
+      <p>The Institute for Energy Economics and Financial Analysis said that all of the big three credit ratings companies — Moody’s, S&P Global and Fitch — have issued warnings but these have gone largely unnoticed.</p>	
+    	<p>Hazel Ilango, an energy finance analyst at IEEFA the US-based non-profit organisation said that inside the industry, “alarm bells have been sounding for months”.</p>	
+    	<p>IEEFA notes that in June, S&P warned that climate change is becoming a “significant” driver affecting credit worthiness, but acknowledged that “very few climate-related rating actions” had taken place since early 2022.</p>
+      <p>Fitch has warned that about 20pc of corporates face downgrades next decade due to climate change, while Moody’s has said that credit risks linked to environmental, social and governance factors are rising.</p>	
+    	<p>However, Ms Ilango said he warnings went largely unheeded, which “is concerning”.</p>	
+    	<p>According to IEEFA, failure to gradually reflect the impact of climate change in credit ratings will expose issuers to bigger, sudden losses further down the road.</p>
+      <p>The warning comes as extreme weather dominates news headlines, with large swaths of North America, Europe, Asia and Africa afflicted by everything from floods, to drought to wildfires.</p>	
+    	<p>02:34 PM BST</p>	
+      <h3>Wall Street gains at the opening bell</h3>
+    	<p>US markets increased at the opening bell after a bruising August so far for investors.</p>
+      <p>The Dow Jones Industrial Average has increased 0.1pc to 34,529.82 ahead of this week’s annual gathering of central bankers at Jackson Hole, Wyoming, with Federal Reserve Chairman Jerome Powell due to speak Friday.</p>	
+    	<p>The S&P 500 has gained 0.3pc to 4,383.55 while the Nasdaq Composite was up 0.5pc to 13,360.66 after the opening bell.</p>	
+    	<p>02:19 PM BST</p>
+      <h3>More than half of Premium Bond savers have not won a penny</h3>
+      <p>More than 13m Premium Bond savers have not won a single prize in nearly two decades, figures reveal.</p>	
+    	<p>Madeline Ross has the details.</p>
+      <p>Premium Bonds are Britain’s favourite savings product with more than 22m customers investing more than £121bn. But millions of savers would be better off putting their money elsewhere.</p>	
+    	<p>Data from National Savings and Investments (NS&I) reveals that 62pc of Premium Bond savers have not won a single prize since May 2004.</p>	
+    	<p>Premium Bonds do not pay guaranteed interest, but instead each £1 bond is entered into a monthly prize draw to have the chance to win anything between £25 and £1m tax-free. The savings product will offer its best rates since 1999 when it rises to 4.65pc from September adding £66m to the NS&I’s monthly prize pot.</p>
+      <p>The figures, obtained via the Freedom of Information Act, show that the average prize winner had £38,874 stashed away. The average holding of a saver who has not won in nearly 20 years is just £106.</p>	
+    	<p>02:01 PM BST</p>	
+      <h3>Biden 'considers meeting' with MBS at G20</h3>
+    	<p>US President Joe Biden is considering meeting with Saudi Crown Prince Mohammed bin Salman on the sidelines of next month’s G20 summit, it has been reported.</p>
+      <p>A meeting between the two leaders in New Delhi, India, could give a push to the talks the White House has been holding with the Saudi government for a deal which includes US security guarantees for Riyadh, and a normalisation agreement between Saudi Arabia and Israel, according to Axios.</p>	
+    	<p>01:38 PM BST</p>	
+      <h3>Driverless car company forced to cut ‘robotaxi’ fleet after collision</h3>
+    	<p>Dozens of driverless cars have been taken off the road in San Francisco after a “robotaxi” crashed into a fire engine last week.</p>
+      <p>Our technology editor James Titcomb has the latest:</p>	
+    	<p>Cruise, the driverless car subsidiary of General Motors, has been ordered to reduce the size of its self-driving fleet in the city by half after the collision.</p>	
+    	<p>The company had around 100 vehicles operating during the day and 300 at night, when there is less traffic, so will have 50 and 150 respectively under the reductions.</p>
+      <p>The order to shrink down operations follows a collision between a Cruise cab and a fire engine that had its sirens on last Thursday.</p>	
+    	<p>01:12 PM BST</p>	
+      <h3>Pound has peaked and will come under renewed pressure, says HSBC</h3>
+    	<p>The pound has peaked and will come under pressure in the coming months as the housing market stumbles and consumer resilience fades, according to HSBC.</p>
+      <p>Our economics editor Szu Ping Chan has the details:</p>	
+    	<p>The bank has joined a growing chorus of City analysts who are becoming increasingly bearish on sterling, which has been the best-performing G10 currency this year.</p>	
+    	<p>Dominic Bunning, head of European foreign exchange research at HSBC, said weak retail sales data last week raised alarm bells over the sustainability of sterling’s rally, which saw the pound hit $1.31 in July.</p>
+      <p>Mr Bunning said: “The consumer resilience that we saw helping to drive the pound higher earlier this year appears to be fading slightly earlier than we expected.</p>	
+    	<p>“We have been bullish on the pound since November last year, with a forecast it would hit $1.30. Having breached that level – briefly – last month, risks are building that it may now represent the peak in the currency rather than a more sustainable level beyond the end of the drizzly summer.”</p>
+      <p>So far this year, the pound has climbed 5.3pc against the dollar to $1.27 and 3.5pc on the euro at €1.13.</p>	
+      <p>12:54 PM BST</p>
+      <h3>Need for ECB interest rate rises questioned</h3>
+    	<p>Given the outlook for Germany’s economy, questions have been asked about whether more interest rate rises are needed from the European Central Bank.</p>	
+    	<p>The ECB deposit rate stands at a record 3.75pc:</p>
+      <p>12:28 PM BST</p>	
+      <h3>US chipmaker Broadcom given go-ahead for £54m UK cloud firm takeover</h3>
+    	<p>Broadcom’s proposed purchase of VMware would not substantially reduce competition in the supply of server hardware components in the UK, the industry regulator has said.</p>	
+    	<p>The UK’s competition watchdog has cleared the largest deal in its history as it said that the tie-up of US companies Broadcom and VMware would not damage UK competition.</p>
+      <p>The $69bn (£54bn) deal - the largest the Competition and Markets Authority (CMA) has ever investigated - raises “no competition concerns”, the regulator said.</p>	
+    	<p>It cleared the deal after an in-depth investigation which considered several areas where there had been some concern.</p>	
+    	<p>Broadcom makes computer chips, while VMware is a cloud technology company. The CMA had looked at whether by owning VMware, Broadcom would be able to spy on its competitors who used VMware services.</p>
+      <p>It assessed whether rival chipmakers would have to share commercially sensitive information with VMware to ensure their chips work with VMware’s software.</p>	
+    	<p>But the watchdog said that “this is unlikely to be a concern, in particular since information about new product adaptations only needs to be shared with VMware at a stage when it is too late to be of commercial benefit to Broadcom.”</p>	
+    	<p>It also looked at whether the merged companies could make VMware’s software work less well with products made by Broadcom’s rivals. But it concluded that this would not make sense for the company, as the benefit would be outweighed by the financial cost.</p>
+      <p>12:14 PM BST</p>	
+      <h3>British landlords face £3bn hit as WeWork warns of collapse</h3>
+    	<p>Landlords face losing billions in rent owed by WeWork, as the work space provider grapples with the rise of home working.</p>	
+    	<p>Our technology editor James Titcomb has the latest:</p>
+      <p>British landlords are exposed to more than £3bn in rental commitments from WeWork, London’s biggest private tenant.</p>	
+    	<p>A Telegraph analysis of WeWork’s UK subsidiaries shows the pay-as-you-go office provider has signed leases worth £3.1bn at more than 50 locations in Britain.</p>	
+    	<p>But the firm, once valued at $47bn (£37bn), has warned that there are “substantial doubts” over its ability to keep operating and its shares have lost 97pc of their value over the past 12 months.</p>
+      <p>The company, which takes long leases from office providers and sublets them on monthly contracts, slammed the brakes on a global expansion and pursued profitability after founder Adam Neumann’s 2019 plans for a New York flotation publicly unravelled.</p>	
+    	<p>The company went public two years later. However, the rise of working from home and a surplus of office capacity has hit the business.</p>
+      <p>11:59 AM BST</p>	
+      <h3>Germany's central bank raises alarm on 'lacklustre' economy</h3>
+    	<p>Germany’s “lacklustre” economy will likely stagnate again in the third quarter, the Bundesbank has said, as weak demand from abroad and high interest rates take their toll on Europe’s industrial powerhouse.</p>	
+    	<p>After preliminary estimates suggested that the economy recorded zero growth in the second quarter of 2023, the outlook for the July to September period was not much better, the country’s central bank said in its monthly report.</p>
+      <p>“German economic output will probably remain largely unchanged again in the third quarter,” it said.</p>	
+    	<p>Europe’s largest economy is “still lacklustre” and “still experiencing a period of weakness”, it added.</p>	
+    	<p>The gloomy outlook adds to concerns that Germany will drag down the eurozone’s economic performance this year, with the International Monetary Fund predicting it will be the only major advanced economy to shrink in 2023.</p>
+      <p>National statistics agency Destatis will release final data for the second quarter on Friday.</p>	
+    	<p>The German economy shrank over the two preceding quarters, meeting the technical definition of a recession.</p>	
+    	<p>11:38 AM BST</p>
+      <h3>Ramaphosa backs expansion of Brics group to rival G7</h3>
+      <p>South African president Cyril Ramaphosa expressed support for an expansion of the Brics group of emerging market powers, which will gather for its annual summit in Johannesburg this week.</p>	
+    	<p>The leaders of Brics — Brazil, Russia, India, China and South Africa — are due to hold three days of talks starting on August 22, with a possible expansion high on the agenda.</p>	
+    	<p>More than 20 nations have formally applied to join, Mr Ramaphosa said.</p>
+      <p>He said: “An expanded Brics will represent a diverse group of nations which share a common desire to have a more balanced world order.”</p>	
+    	<p>The summit will be attended by United Nations Secretary-General Antonio Guterres and more than 30 African heads of state, as well as others from the Global South.</p>	
+    	<p>Chinese President Xi Jinping, in an op-ed published in several South African media outlets on Monday, said his country and South Africa, as “natural members” of the Global South, should push for developing countries to have more sway in international affairs.</p>
+      <p>11:13 AM BST</p>	
+      <h3>Wall Street poised to open higher</h3>
+    	<p>US stocks have risen in premarket trading after a sharp selloff last week, with investors awaiting more clues on interest rates from an upcoming gathering of central bank policymakers in Jackson Hole.</p>	
+    	<p>Strong gains in equities this year have been tested in August, with the S&P 500 losing more than 5pc from its intra-day high in late July.</p>
+      <p>Fresh evidence of a robust US economy last week yet again stoked expectations that the Federal Reserve could keep rates higher for longer, driving 10-year Treasury yield to its highest level since October.</p>	
+    	<p>The yield on the 10-year note was up at 4.28pc on Monday and a breach above 4.338pc would take it to levels not seen since 2007.</p>
+      <p>Investors are now keenly waiting for comments from Fed Chair Jerome Powell on Friday at a meeting of central bankers at Jackson Hole in Wyoming that begins on August 24.</p>	
+    	<p>Charu Chanana, a market strategist at Saxo Markets, said:</p>	
+    	<p>The symposium will be key to assess Powell’s dovishness meter. If he raises concerns on the economic momentum or the rising credit risks, that may prompt the markets to price in rate cuts to start earlier.</p>
+      <p>In premarket trading, the Dow Jones Industrial Average was up 0.4pc, the S&P 500 was 0.5pc higher and Nasdaq 100 futures had risen 0.7pc.</p>	
+    	<p>10:50 AM BST</p>	
+      <h3>Pound weakens as dollar holds firm</h3>
+    	<p>The pound has dipped against the dollar, which has held steady as investors looked ahead to the Federal Reserve’s Jackson Hole symposium for guidance on where interest rates might settle.</p>
+      <p>The event - where Fed chair Jerome Powell is set to speak on Friday - is the major market focus and may set the direction for US Treasury yields.</p>	
+    	<p>The pound has fallen 0.1pc against the dollar to $1.27 and is down 0.3pc against the euro, which is worth more than 85p.</p>	
+    	<p>Meanwhile, the Australian dollar, at $0.6402, and the New Zealand dollar, at $0.5919, were pinned close to last week’s nine-month lows after a rate cut from China disappointed markets worried about a stalling economy.</p>
+      <p>China cut its one-year benchmark lending rate by 10 basis points and left its five-year rate unchanged, against economists’ expectations for larger 15 basis points cuts to both.</p>	
+    	<p>The yuan slid to the weak side of 7.3 per dollar despite a firm fixing of its trading range by the central bank.</p>	
+      <p>10:24 AM BST</p>
+      <h3>Tesco to cover cost of VAT on period pants</h3>
+    	<p>Tesco has become the first retailer to cover the cost of VAT on its range of period pants, following an industry campaign calling on the Government to remove the 20pc tax that applies to the product.</p>
+      <p>The 20pc reduction in price brings the pants in line with other period products which have been exempt from VAT since 2021, the supermarket said.</p>	
+    	<p>The permanent reduction in price is across all eight lines of Tesco’s own-brand F&F period pants, with a three-pack reduced to £14.40 from £18 and a single pack of pants reduced to £6 from £7.50.</p>	
+    	<p>The announcement comes after Tesco joined the Say Pants To The Tax campaign, calling on the Government to reclassify period pants as a period product rather than garments in order for them to be exempt from VAT.</p>
+      <p>Marks & Spencer wrote an open letter to the Financial Secretary in partnership with period underwear brand Wuka earlier this month, calling for the removal of VAT from the pants.</p>	
+    	<p>10:07 AM BST</p>	
+      <h3>More than £500m wiped off UK housebuilders as downturn deepens</h3>
+    	<p>More than half a billion pounds has been wiped off Britain’s largest housebuilders amid a deepening downturn in the property sector.</p>
+      <p>The largest developers across the FTSE 100 and FTSE 250 were the biggest fallers today after poor industry data and a major profit warning.</p>	
+    	<p>Figures from Rightmove showed asking prices for homes in Britain suffered the biggest August fall since 2018 this month as soaring mortgage costs put buyers under pressure.</p>
+      <p>Meanwhile, more than £50m was wiped off the value of Crest Nicholson shares as the housebuilder issued a profit warning today after trading “worsened during the summer of this year”.</p>	
+    	<p>In all, housebuilders have taken a hit of more than £552m in early trading, as Redrow, Vestry, Taylor Wimpey, Persimmon, Barrett and Berkeley sank to the bottom of the UK’s main stock markets.</p>	
+    	<p>Victoria Scholar, head of investment at Interactive Investor said: “Shares in Crest Nicholson have had a tough time lately, underperforming the UK market, weighed down by the prospect of ongoing inflation, higher interest rates and subdued borrowing.</p>
+      <p>“And the stock is trading sharply lower in today’s trade, shedding over 12pc, pricing in the hefty profit downgrade.</p>	
+    	<p>“Its update is weighing on other stocks in the sector like Taylor Wimpey, Persimmon and Barratt Developments which have sunk to the bottom of the FTSE 100. Real estate is the worst performing sector across Europe today.”</p>	
+    	<p>09:50 AM BST</p>
+      <h3>Soy hits three-week high amid US heatwave</h3>
+      <p>Soybean prices have risen to the highest since July as hot weather grips the US growing region, raising concerns about crops.</p>	
+    	<p>Parts of US states including Iowa, Illinois and Nebraska — large corn and soy growers — are under excessive heat warnings, the National Weather Service said.</p>	
+    	<p>While it can be notoriously hot from mid- to late August, temperatures for the areas are expected to break numerous daily and potentially monthly records.</p>
+      <p>The “heat dome” could last for more than a week and is boosting crop prices, Paris-based adviser Agritel said.</p>	
+    	<p>The weather is a particular concern for soybeans, as they are still in a crucial development phase — while most corn has finished pollinating.</p>	
+    	<p>Meanwhile, wheat futures fell, reversing earlier gains. It comes as Ukraine could finalise a deal with global insurers as early as next month to cover grain ships sailing to and from its Black Sea ports, according to the Financial Times.</p>
+      <p>09:19 AM BST</p>	
+      <h3>Oil ticks higher as dollar rally slows</h3>
+    	<p>Oil has risen for a third day amid signs of tightening supplies in the market and a stall in the dollar’s rally.</p>	
+    	<p>Global benchmark Brent traded 0.7pc higher above $85 a barrel, and is up more than 2pc since last Wednesday’s close.</p>
+      <p>Supply curbs from Russia and Saudi Arabia have driven a rally since late June, while US crude stockpiles have shrunk to the least since January.</p>	
+    	<p>The dollar was steady today following declines in the previous two sessions, making commodities that are priced in the currency cheaper for many buyers. That came after the greenback had been strengthening from mid-July.</p>	
+    	<p>Yeap Jun Rong, a market strategist for IG Asia said a stall in the dollar rally over the past few sessions is aiding oil.</p>
+      <p>He said: “All eyes will be on whether China will be able to pull off a recovery through the rest of the year to provide further conviction for oil prices to continue higher.”</p>	
+    	<p>08:54 AM BST</p>
+      <h3>Domino's franchisee to declare Russian business bankrupt</h3>
+      <p>The Russian arm of fast food chain Domino’s is likely to close after its London-listed parent company decided to put it into bankruptcy.</p>	
+    	<p>Apparently failing to find a buyer for the Russian business, DP Eurasia said it has decided its subsidiary should instead file for bankruptcy.</p>	
+    	<p>The franchisee runs around 170 Domino’s pizza sites in the country, and had previously said it was “evaluating its presence” there.</p>
+      <p>The Russian economy has been hit by sanctions since President Vladimir Putin launched his unprovoked full-scale invasion of Ukraine in February 2022, a continuation of the Kremlin’s campaign in eastern Ukraine and Crimea which started in 2014.</p>	
+    	<p>Although DP Eurasia has not been named by Ukraine as one of the International Sponsors of War - a list which includes businesses such as Unilever, Procter & Gamble, Yves Rocher, and Mondelez - it has faced criticism for continuing to do business in Russia.</p>	
+    	<p>Late last year the company was named and shamed in the House of Commons for its ongoing presence in the country.</p>
+      <p>DP Eurasia has Domino’s franchise sites in Turkey, Russia, Azerbaijan and Georgia. In Turkey it is the biggest pizza delivery chain, with 673 sites, and it is the third-largest in Russia.</p>	
+    	<p>08:37 AM BST</p>	
+      <h3>FTSE 250 slumps amid property sector worries</h3>
+    	<p>Housebuilders have dragged down the FTSE 250 after disappointing data on asking prices and a profit warning from Crest Nicholson.</p>
+      <p>The UK’s midcap stock index has fallen 0.3pc, with the housing sector index slipping 2.9pc.</p>	
+    	<p>Data from website Rightmove showed asking prices for homes in Britain fell sharply this month, as rising mortgage costs caused sellers to lower their expectations of what they can get for their properties.</p>	
+    	<p>It was the biggest monthly fall for August since 2018 and twice as steep as the usual summertime fall.</p>
+      <p>Meanwhile, Crest Nicholson tumbled 14.4pc after the housebuilder lowered its annual profit expectations.</p>	
+    	<p>The FTSE 100 opened higher as it was boosted by energy stocks in a rebound from six-week lows hit in the previous session.</p>	
+    	<p>The UK’s blue-chip index rose as much as 0.2pc as oil and gas stocks added 1pc amid a bounce in oil prices caused by lower exports from Saudi Arabia and Russia.</p>
+      <p>08:25 AM BST</p>	
+      <h3>Asking prices for homes plunge to lowest level in five years</h3>
+    	<p>Advertised house prices have fallen by the biggest amount in five years as high mortgage rates ward off potential buyers.</p>	
+    	<p>Our personal finance reporter Alexa Phillips has the details:</p>
+      <p>The average asking price of newly marketed properties dropped by 1.9pc (£7,012) this month, to £364,895, marking the biggest cut in August since 2018, according to Rightmove.</p>	
+    	<p>Sellers are pricing competitively to attract buyers hit by high mortgage rates and cost of living pressures, the property website said.</p>
+      <p>While a number of big-name lenders have announced rate cuts over the past few weeks, the average two-year mortgage rate has only marginally slipped from 6.78pc to 6.76pc in the past month, according to Moneyfacts, an analyst.</p>	
+    	<p>The number of sales agreed is now 15pc lower than in 2019, while there was a 10pc decline for properties bought by first-time buyers.</p>	
+    	<p>08:14 AM BST</p>
+      <h3>European gas prices jump nearly a fifth</h3>
+      <p>European natural gas prices have surged as Australian workers prepare for a strike if no deal is reached in pay talks on Wednesday.</p>	
+    	<p>Benchmark Dutch front-month gas soared as much as 18pc to €42.90 a megawatt-hour in early trading as the looming walkouts threaten global supplies.</p>	
+    	<p>The industrial action could start as early as September 2 if Woodside Energy, the operator of the plant, does not offer a suitable agreement, unions said over the weekend.</p>
+      <p>Workers at Chevron plants also began voting on potential strikes last week.</p>	
+    	<p>The possibility of supply disruptions in Australia, which may impact 10pc of global LNG exports, has kept European traders on edge this month.</p>	
+    	<p>Anxiety has surged even though the continent is well-stocked for winter and it rarely receives fuel from Australia.</p>
+      <p>08:06 AM BST</p>	
+      <h3>Mixed start for UK markets</h3>
+    	<p>Stock markets in London have struggled for direction after the interest rate cut in China.</p>	
+    	<p>The internationally-focused FTSE 100 has gained 0.1pc to 7,266.29 while the FTSE 250 was down 0.2pc to 18,068.09.</p>
+      <p>07:57 AM BST</p>	
+      <h3>Housing slowdown triggers profit warning at Crest Nicholson</h3>
+    	<p>Housebuilder Crest Nicholson has said that the housing market has slowed considerably this summer, especially in recent weeks, as it downgraded its profit forecast for the year.</p>	
+    	<p>The builder said that “trading conditions for the housing market have worsened during the summer of this year”, as “the economic uncertainty is deterring prospective home movers”.</p>
+      <p>It came despite prices remaining resilient because there is not much supply of homes to buy and not many people who are being forced to sell because of a deterioration in their financial situations.</p>	
+    	<p>The business said that it expected adjusted pre-tax profit to reach £50m in the year ending October 31. It had previously indicated that profit would reach around £73.7m.</p>	
+    	<p>07:54 AM BST</p>
+      <h3>China to spearhead push for G7 rival as economy weakens at home</h3>
+      <p>China will push the world’s leading emerging market powers to become a full-scale rival to the G7 group of wealthy nations as it seeks to enlist more members.</p>	
+    	<p>The Brics bloc  — Brazil, Russia, India, China and South Africa — will use an annual leaders’ summit in Johannesburg this week to begin the process of enlisting more members to bolster its global status.</p>
+      <p>The push has been driven mainly by Chinese President Xi Jinping but also backed by Russia and South Africa.</p>	
+    	<p>There will also be talks on how to accelerate a shift away from the dollar, in part by increasing the use of local currencies in trade between members, which is surging, according to a draft agenda seen by Bloomberg.</p>	
+    	<p>It comes as China’s central bank cut interest rates today in an attempt to counter the post-Covid growth slowdown in the world’s second-largest economy.</p>
+      <p>Activity has been dragged down recently by uncertainty in the labour market and global economic sluggishness, weakening demand for Chinese goods.</p>	
+    	<p>07:49 AM BST</p>	
+      <h3>China cuts key interest rate in bid to kickstart economy</h3>
+    	<p>China’s central bank cut a key interest rate but kept another on hold in a move that has confused economists as it attempts to counter the post-Covid slowdown in the world’s second-largest economy.</p>
+      <p>Activity has been dragged down recently by uncertainty in the labour market and global economic sluggishness, weakening demand for Chinese goods.</p>	
+    	<p>Growth has also been hit by financial troubles in the real estate sector, with several leading developers on the verge of bankruptcy and struggling to complete projects.</p>	
+    	<p>The People’s Bank of China said today cut the one-year loan prime rate (LPR), which serves as a benchmark for corporate loans, from 3.55pc to 3.45pc.</p>
+      <p>However, the five-year LPR, which is used to price mortgages, was held at 4.2pc, despite economists predicting the rate to be cut by 15 basis points following a similar reduction last week to an important central bank policy loan rate.</p>	
+    	<p>Goldman Sachs economist Maggie Wei described the LPR cut as “disappointing”, adding that it “would not help with building confidence” as Chinese authorities pursue an economic recovery.</p>	
+    	<p>Zhang Zhiwei, chief economist at Pinpoint Asset Management, said: “The decision to keep the 5-year unchanged is puzzling.</p>
+      <p>“It is not clear how to interpret this decision and the cut last week.”</p>	
+    	<p>China stocks fell to around nine-month lows as investors were disappointed by the milder-than-expected measures to boost confidence.</p>	
+    	<p>Raymond Yeung, chief economist for Greater China at Australia & New Zealand Banking Group, said: “The surprising hold of five-year LPR is inconsistent with the overall policy tone of property bailout.</p>
+      <p>“The policy message of this LPR hold will confuse the market and dilute the sentiment impact.”</p>	
+    	<p>Julian Evans-Pritchard, head of China Economics at Capital Economics, said: “The big picture is that the PBOC’s approach to monetary policy is of limited use in the current environment and won’t be enough, on its own at least, to put a floor beneath growth.”</p>	
+    	<p>He added: “But the disappointing follow-through from the MLF cut to the LPR strengthens our view that the PBOC is unlikely to embrace the sizeable declines needed to revive credit demand.”</p>
+      <p>07:31 AM BST</p>	
+      <h3>Good morning</h3>
+    	<p>Chinese banks kept a key interest rate that guides mortgages on hold, a surprise move that sowed confusion over the country’s approach to stemming the nation’s property slump.</p>
+      <p>The five-year loan prime rate (LPR) was unexpectedly held steady at 4.2pc on Monday, according to data from the People’s Bank of China.</p>	
+    	<p>Most economists had predicted the rate to be cut by 15 basis points following a similar reduction last week to an important central bank policy loan rate. That was seen as precursor for a cut to the 5-year LPR.</p>	
+    	<p>The one-year LPR was lowered by 10 basis points to 3.45pc from 3.55pc, a smaller cut than what most economists surveyed by Bloomberg had expected.</p>
+      <h3>5 things to start your day</h3>
+      <p>1 Rudderless EY gripped by soul searching as private equity circles | After tumbling from the peaks of ‘Project Everest’, the firm’s future hangs in the balance</p>	
+    	<p>2 Ocado-backed robot chef sold for pennies in the pound | Karakuri collapses into administration as venture investment dries up</p>	
+    	<p>3 Taxpayer-funded Welsh sports car factory still empty 12 months after refurbishment | British sports car brand TV has yet to formally sign the lease</p>
+      <p>4 MumsGPT: the AI chatbot trained on two decades of parenting advice | Mumsnet uses technology from OpenAI to comb through threads of 10 million users</p>	
+    	<p>5 Airline baggage and add-on fees boost Ryanair’s revenue by £18bn | Passengers face ‘eye watering’ charges to book seats and stow bags</p>	
+    	<h3>What happened overnight</h3>
+      <p>Asian stocks were mixed as investors were disappointed by China’s milder-than-expected measures to boost confidence, with the country’s sluggish recovery and property woes keeping sentiment fragile.</p>
+      <p>China cut its one-year benchmark lending rate today but surprised markets by keeping the five-year rate unchanged, falling short of market expectations of cuts to both rates.</p>	
+    	<p>China’s blue-chip CSI 300 Index dropped 0.5pc by the midday recess to its lowest since late November 2022, while the Shanghai Composite Index lost 0.4pc.</p>	
+    	<p>Hong Kong’s Hang Seng Index fell 1.4pc, and the Hang Seng China Enterprises Index declined 1.3pc.</p>
+      <p>Meanwhile, Tokyo shares ended a three-day losing streak to close higher, with bargain-hunting supporting the market.</p>	
+    	<p>The benchmark Nikkei 225 index gained 0.4pc to end at 31,565.64, while the broader Topix index added 0.2pc to 2,241.49.</p>	
+    	<p>The Kospi in Seoul gained 0.1pc to 2,507.16 while Sydney’s S&P-ASX 200 shed 0.3pc to 7,124.60.</p>
+      <p>India’s Sensex opened up 0.3pc at 65,147.47. New Zealand and Singapore retreated while Bangkok and Jakarta gained.</p>	
+    </div>
+  },
+  {
+    id: 657,
+    title: 'Bond Bulls at JPMorgan, Allianz Double Down on a Bet Gone Bad',
+    category: 'Markets',
+    subCategory: ['Bond', 'JPMorgan', 'Allianz'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Convinced a recession in the US was near, some of the world’s most prominent money managers loaded up on government bonds this year in a bold bet that would atone for the punishing losses suffered in 2022.</p>
+    </div>,
+    authorName: 'Anchalee Worrachate and Liz Capo McCormick',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 2:33 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692688218/ncx-blog-1151_xmzlyw.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Convinced a recession in the US was near, some of the world’s most prominent money managers loaded up on government bonds this year in a bold bet that would atone for the punishing losses suffered in 2022.</p>
+    	<p>That strategy is now misfiring once again, saddling them with subpar returns and testing their resolve as the selloff deepens week after week.</p>	
+    	<p>The past week was especially painful. The annual return on US government bonds fell into the red as Treasury yields flirt with a 15-year high, reflecting the view that interest rates may be elevated for years to come — and that the economy will be able to sustain it.</p>	
+    	<p>And Treasuries began this week on the back foot once again with benchmark yields pushing higher on Monday.</p>
+      <p>Bob Michele, one of the most outspoken bond bulls, is undeterred. The CIO for fixed income at J.P. Morgan Asset Management, who correctly predicted the slide in Treasury yields “all the way down to zero” from 2% in 2019, says now his strategy is to buy every dip in bond prices.</p>
+      <p>The firm’s flagship Global Bond Opportunities Fund is down 1.5% over the past month and beating just 35% of peers so far this year, compared with 83% over the past five, according to data compiled by Bloomberg.</p>
+      <p>Others in the same camp — among them Allianz Global Investors, Abrdn Investments, Columbia Threadneedle Investments, DoubleLine Capital and TCW Group — believe the economy is only just starting to absorb the impact of five percentage points of Federal Reserve rate hikes. A deeply inverted yield curve, an unfailing harbinger of recession, supports this view.</p>
+      <p>“We don’t think this time it’s different,” said Michele. “But from that first rate hike until recession could take a while. We continue to see a growing list of indicators which are only at these levels if the US economy is already in recession or about to enter recession.”</p>
+      <p>Yet the US economy continues to defy recession die-hards. Growth is accelerating and new jobs are being created. Consumers are resilient. Even staff at the US central bank are no longer forecasting a recession. Bank of America’s latest global survey found investors increasingly expect no recession at all within the next 18 months.</p>
+      <p>As they keep their recession watch, bond bulls are underperforming, and searching for ways to cushion losses.</p>
+      <p>For those who manage a pure bond fund, there are various levers to bet on or against economic growth. An anti-growth bet would be to increase duration, a measure of sensitivity to interest rates, and allocate away from riskier assets like high-yield credit likely to face losses from corporate defaults in a recession.</p>
+      <p>They can also hedge by making temporary adjustments to duration, even if it goes against their long-term views.</p>
+      <p>Despite being a bond bull, Columbia Threadneedle’s Gene Tannuzzo has pared duration since July as the yield curve became more deeply inverted, shifting to shorter-dated Treasuries. The Strategic Income Fund he helps manage is up 2.8% this year, beating 82% of competitors, according to data compiled by Bloomberg.</p>
+      <p>“The best days in bonds are ahead of us” as the Fed approaches the end of its rate-hiking campaign, Tannuzzo said.</p>
+      <p>By contrast fund managers at Abrdn and Allianz have overweight positions on duration. TCW, like JPMAM, is buying Treasuries on price dips to add to its long duration position. DoubleLine has also boosted allocations long-dated bonds recently, but offset it with short-dated corporate debt.</p>
+      <p>“We don’t think we’re going to be wrong,” said Mike Riddell, a portfolio manager at Allianz who’s been long duration since mid-2022. “We’ve remained long duration. We do not believe all the monetary tightening will not have any impact on growth.”</p>
+      <p>Historical patterns suggest rate hikes lead to slumping economies more often than not. Former Fed Vice Chair Alan Blinder studied 11 monetary policy tightenings from 1965 to 2022 and found that four ended in a soft landing with stable or lower inflation, and the rest in hard landings.</p>
+      <p>But whether yields will follow economies down, this time, is another question. A key shift in the borrowing needs of the US and other wealthy economies means they’re prepared to let deficits balloons to fund ageing populations, defense spending and making good on promises to cut carbon emissions.</p>
+      <p>Faced with a flood of debt issuance, investors will demand higher yields.</p>
+      <p>Even so, riding a short-Treasury positions into 2023 wasn’t always a ticket to easy gains.</p>
+      <p>The Virtus AlphaSimplex public mutual fund (ticker ASFYX) is down about 6% this year. While its short bond, long stock call looked well-positioned to benefit from the current environment, a big chunk of the drawdowns happened during the banking crisis in the first quarter, according to Kathryn Kaminski, AlphaSimplex Group’s chief research strategist and portfolio manager. Her view is that rates will remain elevated, warranting the short position.</p>
+      <p>AlphaSimplex Quant Sees Scope for US 10-Year Yields to Reach 6%</p>
+      <p>“If inflation stays at about where we are now and rates are where we are then there’s no way that long-term cash flow – with no risk premium – can stay there,” said Kaminski. “If rates don’t go down fast enough, long term fixed income have to go down in value. That’s what the market is underestimating.”</p>
+      <p>For his part, JPMorgan’s Michele is confident bond yields will fall once the Fed winds down its tightening cycle, long before the first rate cut.</p>
+      <p>“Whether the US economy enters recession or a soft landing, the bond market rallies after the last rate hike,” he said. “The Fed may keep rates at these levels for quite some time, but growth and inflationary pressure continue to slow.”</p>
+      <p>--With assistance from Greg Ritchie and Isabelle Lee.</p>
+    </div>
+  },
+  {
+    id: 656,
+    title: 'Nvidia earnings will be major test for AI demand, market rally',
+    category: 'Markets',
+    subCategory: ['Nvidia', 'AI', 'Market'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?</p>
+    </div>,
+    authorName: 'Chavi Mehta',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 21, 2023 - 2:16 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692687613/ncx-blog-1150_dtym0u.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Chavi Mehta</p>
+    	<p>(Reuters) -Nvidia investors expect the chip designer to forecast quarterly revenue above estimates when it reports results on Wednesday. Their only question is, by how much?</p>	
+    	<p>The company has been the biggest beneficiary of the rise of ChatGPT and other generative artificial intelligence apps, virtually all of which are powered by its graphics processors.</p>	
+    	<p>Nvidia shares have tripled in value this year, adding more than $700 billion to the company's market valuation and making it the first trillion-dollar chip firm. They closed 8.5% higher on Monday, their biggest jump in nearly three months.</p>
+      <p>The blistering rally in its shares means that Nvidia has little room for any earnings-related disappointment and anything other than a higher-than-expected forecast could trigger a rout in its stock, some analysts have warned.</p>
+      <p>The results could also dictate the direction of the wider market this week, as most of the S&P 500's gains this year have come from the AI-driven rally in Nvidia and Big Tech stocks.</p>
+      <p>"I've been covering tech since 1994 and I have never seen an environment where you are so dependent on one company to deliver," said Inge Heydorn, partner at GP Bullhound, which owns both Nvidia and AMD shares.</p>
+      <p>"AI is really the last pillar of growth and everybody is depending on it. If Nvidia shows weakness, we could be in for quite a substantial correction in the market."</p>
+      <p>Wall Street expects the chip company to guide for a rise of about 110% in third-quarter revenue to $12.50 billion, according to Refinitiv. Nvidia has only forecast revenue below estimates once in the past two years.</p>
+      <p>Citi analysts said last week they were only modeling a revenue forecast of around $12 billion, but buy-side expectations have gone up to $14 billion.</p>
+      <p>At least 10 brokerages raised their price targets on the stock last week, pushing the median view to $500, which is 15.5% higher than its last close.</p>
+      <p>While the company's 12-month forward price-to-earnings ratio soared dramatically to more than 80 after its second-quarter revenue forecast of over 50% growth in May, it has come down since then as analysts raise their earnings expectations.</p>
+      <p>It now trades at nearly 40 times the consensus earnings for the next 12 months, much higher than AMD's 29.</p>
+      <p>Investors will be looking at sales at Nvidia's data center unit, home to its prized H100 chip used in AI, to see if the valuation can be justified.</p>
+      <p>SUPPLY-DEMAND DIVIDE</p>
+      <p>Analysts said Nvidia is able to meet only half the demand and its H100 chip is selling for double its original price of $20,000, adding the trend could go on for several quarters.</p>
+      <p>Still, there are some fears about growth as some of the demand surge is coming from China, where companies are stockpiling chips over worries about more U.S. export curbs.</p>
+      <p>"I don't think the risk of losing China business is incorporated in numbers and this is also somewhat disturbing the picture," Heydorn said.</p>
+      <p>The supply-demand divide could also lead some buyers to turn to rival AMD, which is looking to challenge Nvidia's most powerful offering for AI workloads with its M1300X chip.</p>
+      <p>"AMD's chips could be as much as 50% cheaper than Nvidia GPUs and somebody like Meta or Google may want to look at lowering their cost," Piper Sandler's Harsh Kumar said.</p>
+      <p>AMD expects to start shipping the chip in the fourth quarter and could control roughly 10% of the AI chip market next year, analysts said.</p>
+      <p>But they warned AMD will face an uphill battle in catching up with Nvidia's software CUDA, which is already the industry standard in AI and has a major head start over the company's similar offering.</p>
+      <p>"Historically in semiconductors, the leader always has 70% or 80% share of the market but the customers always want to keep a second source around, so that the leader doesn't overcharge, and that second source here is AMD," Kumar said.</p>
+      <p>(Reporting by Chavi Mehta in Bengaluru, additional reporting by Jaspreet Singh and Zaheer Kachwala, Writing by Aditya Soni; Editing by Anil D'Silva)</p>
+    </div>
+  },
+  {
+    id: 655,
+    title: 'Credit Suisse Shuts Japan Equity Trading for Hedge Funds',
+    category: 'Markets',
+    subCategory: ['Credit Suisse', 'Japan', 'Funds'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Credit Suisse is shutting its cash equity sales business in Japan, and has told hedge funds and other institutional clients it would no longer be taking orders as UBS Group AG proceeds with a global overhaul.</p>
+    </div>,
+    authorName: 'Takashi Nakamichi and Nao Sano',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 1:10 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692687087/ncx-blog-1149_mqbnh7.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Credit Suisse is shutting its cash equity sales business in Japan, and has told hedge funds and other institutional clients it would no longer be taking orders as UBS Group AG proceeds with a global overhaul.</p>
+    	<p>A number of staff in Tokyo are leaving as part of process, according to people with knowledge of the matter. Credit Suisse’s investment bank arm has already exited from stock underwriting in the country, the people said, declining to be identified as the deliberations are private. Both UBS and Credit Suisse declined to comment.</p>	
+    	<p>The purchase of Credit Suisse has increased UBS’s workforce to about 120,000, which Switzerland’s largest bank intends to ultimately cut by about 30%, Bloomberg has reported, and it’s considering slashing two-thirds of investment bankers in Asia-Pacific.</p>	
+    	<p>Shares in the Swiss lenders were up 0.44% at 11:10 a.m. in Zurich.</p>
+      <p>The Japanese securities unit had 421 employees as of March this year, according to local filings. It has also been offering foreign exchange trading among other services such as wealth management. It is unclear about the fate of Credit Suisse’s other businesses in the country.</p>
+      <p>UBS has shown little appetite for Credit Suisse’s investment bank since the government-brokered deal was announced in March. The bank said it would continue its own strategy of a smaller capital-lite securities unit, and would only use Credit Suisse’s investment bank to reinforce their global business while managing the rest down. The bank has said it aims to reduce staff costs by about $6 billion over the next several years.</p>
+      <p>UBS is due to release more detailed information around its strategy along with second-quarter results for the combined banks on Aug. 31. This month, UBS announced that it was terminating an agreement with the Swiss government in which the state guaranteed up to $10 billion of losses that could stem from the acquisition of Credit Suisse assets.</p>
+      <p>--With assistance from Tom Metcalf.</p>
+    </div>
+  },
+  {
+    id: 654,
+    title: 'Arm Listing Set to Be Turning Point for IPO Market, SoftBank',
+    category: 'Markets',
+    subCategory: ['Arm', 'IPO Market', 'SoftBank'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Arm Ltd. is expected to unveil its filing for an initial public offering as soon as Monday, giving the market a peek at the chip designer’s financial health seven years after it was acquired by SoftBank Group Corp.</p>
+    </div>,
+    authorName: 'Liana Baker',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 12:00 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692686842/ncx-blog-1148_kyolxe.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Arm Ltd. is expected to unveil its filing for an initial public offering as soon as Monday, giving the market a peek at the chip designer’s financial health seven years after it was acquired by SoftBank Group Corp.</p>
+    	<p>The IPO, planned for September, is on track to be the year’s largest and could be one of the biggest tech listings ever on a US exchange. While Bloomberg News reported Arm was aiming to be valued at $60 billion to $70 billion in an IPO raising $8 billion to $10 billion, that target could be lower since SoftBank has decided to hold onto more of the company after buying Vision Fund’s stake in it.</p>	
+    	<p>Arm won’t have to disclose the proposed size and price of the share sale until later filings with the US Securities and Exchange Commission.</p>	
+    	<p>The listing is set to be the largest in the US since electric-vehicle maker Rivian Automotive Inc.’s $13.7 billion offering in November 2021. An all-time high of $339 billion was raised in more than 1,000 IPOs that year before the window for new major listings was all but closed.</p>
+      <p>Arm’s debut could spur dozens of startups such as online grocery delivery company Instacart Inc. and marketing and data automation provider Klaviyo to follow through — or further delay — their own IPO plans.</p>
+      <p>It’s also the latest twist for Arm, which had a deal to be acquired by Nvidia Corp. that was called off last year after opposition from customers and regulators. The listing may lead to a payday for SoftBank, which is looking for a win after an expansion into startup investing that went awry. SoftBank isn’t ready to part ways with Arm just yet though, and will float only about 10% of the company’s stock, Bloomberg News has reported.</p>
+      <p>Revenue Fall</p>
+      <p>Arm sells the blueprints needed to design microprocessors, and licenses technology known as instruction sets that dictate how software programs communicate with those chips. The power efficiency of Arm’s technology helped make it ubiquitous in phones, where battery life is critical.</p>
+      <p>Potential investors will be scrutinizing how Cambridge, UK-based Arm plans to diversify beyond its mobile-chip designs, which are used by technology heavyweights such as Apple Inc. and Amazon.com Inc. Though Arm’s influence has steadily grown, the company faces a broader slump in chip demand. Draft documents show Arm’s annual revenue fell 1% in its last fiscal year.</p>
+      <p>Chief Executive Officer Rene Haas has been steering the company to sign up more customers that make chips for computers, servers and data centers, a more lucrative area than the mobile market.</p>
+      <p>The listing will be a welcome event for fee-starved investment bankers, whose commissions and bonuses have shrunk with the dearth of IPOs this year.</p>
+      <p>In what is the worst year for US IPOs at this point since the depths of the financial crisis in 2009, Johnson & Johnson spinoff Kenvue Inc. alone accounts for almost a third of the $14.4 billion raised by it and 109 other companies since Jan. 1, according to data complied by Bloomberg.</p>
+      <p>28 Banks</p>
+      <p>There are at least 28 banks signed onto Arm’s IPO, Bloomberg News has reported.</p>
+      <p>Arm’s listing is taking some cues from previous high-profile technology companies. In a twist reminiscent of Alibaba Group Holding Ltd.’s landmark $25 billion US IPO almost a decade ago, Arm won’t be using a “lead-left” bank and has decided to pay its top four underwriters equally.</p>
+      <p>The IPO will include several strategic investors, who will buy about $100 million of common stock each, according to people familiar with the matter. Though it involves smaller sums, that’s in the same vein as a 2012 deal in which ASML Holding NV brought in some of its biggest customers — Samsung Electronics Co., Intel Corp. and Taiwan Semiconductor Manufacturing Co. — as investors.</p>
+      <p>The lineup hasn’t been set, but customers and partners of Arm such as Intel, Nvidia and Amazon have all been candidates to invest, Bloomberg News has reported.</p>
+      <p>Under founder Masayoshi Son, SoftBank has invested more than $140 billion in unprofitable startups beginning in 2017, inflating valuations worldwide before they were punctured by the Covid pandemic, China’s tech crackdown and the US Federal Reserve’s rate hikes. Last year, its Vision Fund lost a record $30 billion.</p>
+      <p>--With assistance from Ian King, Michael Hytha and Fion Li.</p>
+    </div>
+  },
+  {
+    id: 653,
+    title: 'China’s Surprise Move on Loan Rates Shows Banks Under Pressure',
+    category: 'Markets',
+    subCategory: ['China', 'Loan', 'Banks'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Chinese banks kept a key interest rate that guides mortgages on hold and made a smaller-than-expected cut to another rate, surprise moves that reflect Beijing’s difficult choice between boosting confidence and safeguarding the banking system’s stability.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 11:14 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692685096/ncx-blog-1147_mc1dhk.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Chinese banks kept a key interest rate that guides mortgages on hold and made a smaller-than-expected cut to another rate, surprise moves that reflect Beijing’s difficult choice between boosting confidence and safeguarding the banking system’s stability.</p>
+    	<p>The five-year loan prime rate was left at 4.2% on Monday, according to data from the People’s Bank of China. Most economists had predicted the rate to be cut by 15 basis points following a similar reduction last week to an key central bank policy loan rate. That was seen as precursor for a cut to the 5-year LPR.</p>	
+    	<p>The one-year LPR was lowered by 10 basis points to 3.45% from 3.55%, a smaller cut than most economists predicted.</p>	
+    	<p>The moves highlight a dilemma facing Beijing as it seeks to boost borrowing by cutting interests rates while at the same time needing to preserve financial stability. Lower lending rates would reduce banks’ revenue and profitability, with the PBOC highlighting those risks in a report last week.</p>
+      <p>“Protecting banks’ net interest margins is the main motivation behind the smaller-than-expected cuts to LPR in our view,” Goldman Sachs Group Inc. economists including Maggie Wei wrote in a note. “Having said that, confidence remains key to an economic recovery, and the disappointing cut to LPR would not help with building confidence.”</p>
+      <p>Stocks in China and Hong Kong declined on Monday. A gauge of Chinese firms listed in Hong Kong fell as much as 1.9% to the lowest since November. The offshore yuan extended a modest decline against the dollar, weakening about 0.3%. China 10-year bond yields fell two basis points to 2.55%, the lowest since 2020.</p>
+      <p>The government has signaled more urgency in shoring up growth for the world’s second-largest economy as borrowing demand slumps, deflation pressures take hold and confidence struggles to recover. Investors are also concerned about contagion risks following a liquidity crisis at a major shadow bank.</p>
+      <p>The decision on the loan prime rates came as a surprise after last week’s shock cut to the PBOC’s medium-term lending facility rate, and a meeting days later between the central bank, financial regulators and bank executives, in which lenders were again told to boost loans.</p>
+      <p>That all culminated in expectations Monday that the loan prime rates would also be reduced. While the rates are determined by the banks, the PBOC has influence over the monthly setting. The rates are based on the interest rates that 18 banks offer their best customers, and they are quoted as a spread over the central bank’s one-year policy rate.</p>
+      <p>Some analysts said the hold in the five-year rate suggests Beijing may be planning more direct measures to support the property market.</p>
+      <p>What Bloomberg Economics Says ...</p>
+      <p>“The surprise hold on China’s five-year loan prime rate conveys two messages. First, there may be doubts that slashing rates for new mortgage loans — which are already at a record low — is the best way to shore up the housing market. Second, it could be a signal that other — non-monetary — policy support is in the pipeline.”</p>
+      <p>— Eric Zhu, economist</p>
+      <p>Weak data recently has prompted prompting several banks to cut their growth forecasts for the year to below 5%, implying the government may miss a growth target set earlier this year. Citigroup Inc. economists on Monday trimmed their forecast to 4.7% from 5%, citing a slow policy roll-out, while UBS Group AG downgraded its forecast to 4.2%.</p>
+      <p>Chinese banks have faced narrower profit margins in recent years due to fiercer competition and a decline in lending rates since the pandemic, the PBOC said in a special section of its quarterly report published last week. Banks need to maintain “reasonable profits and net interest margins” so they can serve the real economy and prevent financial risks, the PBOC said.</p>
+      <p>Lenders may have also been constrained because average new mortgage rates are at record lows. The average fell to 4.11% in June, according to last week’s PBOC report. The PBOC is also guiding banks to lower the rates for existing mortgages, which will weigh on their margins.</p>
+      <p>Last year, the five-year LPR was cut by a total of 35 basis points — more than the 20-basis point reductions seen in the MLF rate, and deeper than the 15 basis points worth of trims to the one-year LPR.</p>
+      <p>“The lack of ability to lower the LPR rate, which is determined by banks, even with such a strong MLF rate cut suggest more measures to lower banks’ cost of liabilities will become more urgent,” said Becky Liu, head of China macro strategy at Standard Chartered Plc.</p>
+      <p>She sees the possibility of a cut to the reserve requirement ratio for banks, reduced deposit rates and trims to relending rates.</p>
+      <p>Monday’s actions also send a signal “that authorities don’t want the property market to overheat,” said Bruce Pang, chief economist and head of research for greater China at Jones Lang LaSalle Inc.</p>
+      <p>“There has been speculation on whether the government will completely let loose property policies after the Politburo meeting omitted the pledge that housing is not for speculation,” he said, referring to a meeting held last month by the Communist Party’s top decision-making body. The absence of that slogan, a signature of President Xi Jinping, fueled speculation that some tough restrictions on property would be reversed.</p>
+      <p>“The signal now is that there will still be policy controls on the property sector, just that they will be optimized,” Pang said, adding that authorities have also introduced a mechanism for lowering new mortgage rates already, lessening the need to adjust the five-year LPR.</p>
+      <p>--With assistance from Qizi Sun, Cormac Mullen, Tan Hwee Ann, Paul Dobson, April Ma, Tao Zhang and Tom Hancock.</p>
+    </div>
+  },
+  {
+    id: 652,
+    title: 'Goldman Cuts China Stock Targets on Renewed Property Concerns',
+    category: 'Markets',
+    subCategory: ['Goldman', 'China', 'stocks'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Chinese stocks will settle in a lower trading range than previously expected until Beijing introduces more forceful policy responses to address the contagion risk from a property slump, according to Goldman Sachs Group Inc.</p>
+    </div>,
+    authorName: 'John Cheng',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 10:53 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692684092/ncx-blog-1146_nrbvsn.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Chinese stocks will settle in a lower trading range than previously expected until Beijing introduces more forceful policy responses to address the contagion risk from a property slump, according to Goldman Sachs Group Inc.</p>
+    	<p>The Wall Street bank has cut its full-year earnings-per-share growth estimate for the MSCI China Index to 11% from 14%, and reduced the 12-month index target to 67 from 70, according to a Monday note by strategists including Kinger Lau. That new target implies a 13% gain from the gauge’s Friday close.</p>	
+    	<p>“The post-July-Politburo excitement was short-lived,” the strategists wrote, referring to the Communist Party’s top decision-making body. “The ailing housing market and its potential contagion to the real and financial economies are the widely-cited reasons for the correction.”</p>	
+    	<p>This is the second time in three months that Goldman has lowered its views on Chinese equities, as pessimism permeates the country’s stock market following a deepening property crisis and signs of stress in the shadow banking system. Recent measures by authorities to boost market confidence have been piecemeal in nature, with Goldman’s economists also predicting any large-scale stimulus from Beijing off the table for now.</p>
+      <p>Chinese shares are still supported by “inexpensive valuations and light investor positioning,” but the upside is capped by the ongoing liquidity and growth headwinds, the Goldman strategists wrote. The growth pressures have resulted in renewed downgrades in profit expectations, they added.</p>
+      <p>The MSCI China Index fell nearly 2% on Monday, taking its decline from a January peak to 23%. The Hang Seng Index, which fell into a bear market on Friday, slid for a seventh straight day, set for the longest losing streak since November 2021.</p>
+      <p>Goldman last reduced its MSCI China target to 70 from 80 in June, citing earnings and currency concerns.</p>
+      <p>In the latest report, the strategists recommended sectors and stocks with higher earnings visibility and profit delivery capability, as well as those that benefit from the yuan’s depreciation. It suggested going underweight in companies disproportionately exposed to financial or investment incomes.</p>
+    </div>
+  },
+  {
+    id: 651,
+    title: 'Stock market today: Asian stocks mixed as traders await Fed conference for interest rate update',
+    category: 'Markets',
+    subCategory: ['Asian', 'Syocks', 'Fed'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'JOE McDONALD',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 7:31 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692683088/ncx-blog-1145_v5sear.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BEIJING (AP) — Asian stocks were mixed Monday as traders looked ahead to the Federal Reserve’s summer conference for signs of whether the U.S. central bank thinks inflation is under control or more interest rate hikes are needed to cool inflation.</p>
+    	<p>Shanghai and Hong Kong retreated while Tokyo and Seoul advanced. Oil prices rose.</p>	
+    	<p>Wall Street’s benchmark S&P 500 index edged down 0.1% on Friday to end the week lower ahead of the Jackson Hole, Wyoming, conference. Traders are watching because Fed officials have used the event in the past to indicate changes in policy direction.</p>	
+    	<p>There “may be rude hawkish surprises” for investors who assume rate hikes are finished, said Tan Boon Heng of Mizuho Bank in a report. Chair Jerome Powell “may allude to structurally higher (and potentially more volatile) inflation being the new norm."</p>
+      <p>The Shanghai Composite Index lost 0.3% to 3,122.67 while the Nikkei 225 in Tokyo advanced 0.6% to 31,626.56. The Hang Seng in Hong Kong lost 1.1% to 17,760.29.</p>
+      <p>The Kospi in Seoul gained 0.6% to 2,518.44 while Sydney’s S&P-ASX 200 shed 0.2% to 7,137.10.</p>
+      <p>New Zealand, Singapore and Bangkok retreated while Singapore gained.</p>
+      <p>On Wall Street, the S&P 500 declined to 4,369.71 on Friday. The Dow Jones Industrial Average added 0.1% to 34,500.66. The Nasdaq composite slipped 0.2% to 13,290.78.</p>
+      <p>The S&P 500 soared in the first seven months of 2023 but has given back more than one-quarter of those gains after critics warned the market embraced the notion too early that inflation was under control and rate hikes were finished.</p>
+      <p>Some investors are shifting money to bonds as higher interest rates make their payout bigger and less risky.</p>
+      <p>Microsoft slipped 0.1% Friday. Alphabet dropped 1.9% and Tesla sank 1.7%.</p>
+      <p>Tech and other high-growth stocks are seen as some of the biggest losers due to higher rates. Several are down more than 10% from this year’s highs.</p>
+      <p>Data indicating U.S. consumer spending and hiring are unexpectedly strong have fueled expectations the Fed might feel pressure to keep its benchmark lending rate higher for longer.</p>
+      <p>Inflation has declined from its peak above 9% last year but still is above the Fed’s 2% target. Consumer prices rose 3.2% in July over a year earlier, up from the previous month’s 3% increase.</p>
+      <p>Economists say the last stage of getting inflation down to the Fed’s target may prove the most difficult.</p>
+      <p>On Friday, Ross Stores jumped 5% for the largest gain in the S&P 500 after it reported stronger results than expected. Estee Lauder fell 3.3% despite reporting stronger profit and revenue than expected. Its profit forecast for its upcoming fiscal year fell short of Wall Street’s estimates.</p>
+      <p>In energy markets, benchmark U.S. crude gained 73 cents to $81.39 per barrel in electronic trading on the New York Mercantile Exchange. Brent crude, the price basis for international oil trading, advanced 75 cents to $85.55 per barrel in London.</p>
+      <p>The dollar edged up to 145.35 yen from Friday’s 145.32 yen. The euro rose to $1.0882 from $1.0878.</p>
+    </div>
+  },
+  {
     id: 650,
     title: 'Vietnam Tycoon Loses $18 Billion After EV Maker’s Shares Sink',
     category: 'Markets',
