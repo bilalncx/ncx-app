@@ -1,5 +1,177 @@
 const data = [
   {
+    id: 607,
+    title: 'Asian stocks track Wall Street Nvidia-led rally',
+    category: 'Indices',
+    subCategory: ['Asian', 'Stocks', 'Nvidia'],
+    description: <div className="blog-desc">
+      <p>HONG KONG (Reuters) -Asian shares rallied on Thursday after blockbuster results from tech darling Nvidia boosted Wall Street and a retreat in U.S. bond yields eased pressure on borrowing costs globally.</p>
+    </div>,
+    authorName: 'Julie Zhu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 5:50 AM ', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692875967/ncx-blog-1178_x2uuwx.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Julie Zhu</p>
+    	<p>HONG KONG (Reuters) -Asian shares rallied on Thursday after blockbuster results from tech darling Nvidia boosted Wall Street and a retreat in U.S. bond yields eased pressure on borrowing costs globally.</p>	
+    	<p>A round of soft manufacturing surveys had also revived hopes central banks were done tightening, though that might change depending on what clues about interest rates Federal Reserve Chairman Jerome Powell gives at an annual central bank summit in Jackson Hole, Wyoming, on Friday.</p>	
+	    <p>"Equities rallied and bond yields retreated as flash PMI data for August signalled weaker economic activity in the U.S., euro area and UK, fuelling market expectations that central banks may not have to raise rates again," said analysts at ANZ in a note.</p>
+      <p>"This week's Jackson Hole Symposium remains firmly in focus for markets ... We expect (Powell) will err on the side of caution with respect to inflation, noting some signs of improvement but still with a long way to go."</p>
+      <p>European markets were set for a higher open, with pan-region Euro Stoxx 50 futures up 1.7%, German DAX futures rising 0.6% and FTSE futures adding 0.5%.</p>
+      <p>MSCI's broadest index of Asia-Pacific shares outside Japan was up 1.7%, also lifted by Nvidia's bullish outlook.</p>
+      <p>The index is however down 8.1% so far this month due to the weakness in China's economy and yuan, as well as some gloomy factory readings from Japan, which also left sentiment fragile.</p>
+      <p>U.S. stock futures, the S&P 500 e-minis, rose 0.77%.</p>
+      <p>Australian shares edged up 0.63%, while Japan's Nikkei stock index rose 0.81%, in a fourth straight session of gains on Thursday, the longest streak since mid-June.</p>
+      <p>China stocks also rebounded on Thursday with blue-chip CSI300 index advancing 1.28% and Hong Kong's Hang Seng index up 2.1% in afternoon trade as some investors bought the dip following recent slumps.</p>
+      <p>The yuan inched higher against the dollar, as the central bank continued to fix the daily mid-point at stronger-than-expected levels.</p>
+      <p>"With the Chinese currency edging higher today, foreign capital has flowed back into and helped stabilise China's stock markets," Zhang Zihua, chief investment officer at Beijing Yunyi Asset Management. "A rally in the broader Asian markets following Nvidia's forecast has also lifted sentiment."</p>
+      <p>Foreign investors bought a net 2.9 billion yuan ($398.78 million) of Chinese shares so far in the day, snapping a 13-day selling streak.</p>
+      <p>On Wednesday, U.S. stocks ended sharply higher across the board as shares of Nvidia jumped nearly 10% in trading after the bell, hitting an all-time high after it forecast third-quarter revenue well above Wall Street targets.</p>
+      <p>On Wall Street, the Dow Jones Industrial Average rose 0.54%, the S&P 500 gained 1.10% and the Nasdaq Composite added 1.59%.</p>
+      <p>In U.S. Treasuries, the yield on benchmark 10-year Treasury notes reached 4.2076% compared with its U.S. close of 4.198% on Wednesday when it eased from near 16-year highs after weak business activity data from the United States and the euro zone.</p>
+      <p>The two-year yield, which rises with traders' expectations of higher Fed fund rates, touched 4.9885% compared with a U.S. close of 4.952%.</p>
+      <p>In currency markets, the dollar index stayed flat at 103.35 in afternoon Asia trade after hitting a two-month high of 103.4 against a basket of major currencies.</p>
+      <p>The yen recovered to 145.165 after hitting a nine-month trough of 145.34 amid talk from a former Bank of Japan official that Japan will only intervene in the market if the currency plunges past 150 to the dollar.</p>
+      <p>U.S. crude dipped 0.06% to $78.84 a barrel. Brent crude fell to $83.2 per barrel.</p>
+      <p>Gold was slightly higher. Spot gold was traded at $1,919.5 per ounce. [GOL/]</p>
+      <p>(Editing by Lincoln Feast)</p>
+    </div>
+  },
+  {
+    id: 606,
+    title: 'Dow Jones Rises, Yields Dive As Powell Jackson Hole Speech Looms; Cathie Wood Zooms In On This Stock',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Jackson', 'Cathie Wood'],
+    description: <div className="blog-desc">
+      <p>Major indexes trimmed some gains but ended sharply higher Wednesday ahead of Fed chief Jerome Powell's speech at the Jackson Hole, Wyo., Economic Symposium Friday. The Dow Jones Industrial Average lagged other indexes with a 0.5% gain at the closing bell.</p>
+    </div>,
+    authorName: 'VIDYA RAMAKRISHNAN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 12:29 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692875489/ncx-blog-1177_mpp1hs.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Major indexes trimmed some gains but ended sharply higher Wednesday ahead of Fed chief Jerome Powell's speech at the Jackson Hole, Wyo., Economic Symposium Friday. The Dow Jones Industrial Average lagged other indexes with a 0.5% gain at the closing bell.</p>
+    	<p>On Wednesday, the S&P Global Purchasing Managers' Index showed that manufacturing slowed in August, falling to a 47 reading, below consensus views of 48.8. Services also came in lower than forecasts of 52, at 51, according to Econoday.</p>	
+    	<p>New home sales rose to 714,000 in July after 697,000 in June and above views of 705,000.</p>	
+    	<p>The stock market wasn't bothered by the mixed economic data. Instead, it seemed to focus on a drop in yields. The yield on the benchmark 10-year Treasury note plunged 13 basis points to 4.19%, dropping noticeably after the PMI report came out.</p>
+      <p>The S&P 500 closed 1.1% higher, while the Nasdaq led with a gain of 1.6%.</p>
+      <p>Volume was higher on the NYSE but lower on the Nasdaq, according to preliminary data.</p>
+      <p>The small-cap Russell 2000 also did well, gaining 1% at the close of day. The Innovator IBD 50 (FFTY) ETF rose 1.3%.</p>
+      <p>Crude oil fell over 1% to $78.65 a barrel.</p>
+      <h3>Dow Jones Stocks</h3>
+      <p>On Wednesday, Nike (NKE) extended its losing streak to 10 days as the footwear industry group also sold off. Nike has undercut its June and July lows in a bearish sign for the stock.</p>
+      <p>Apple (AAPL) rose for the fourth consecutive day and is approaching its 50-day line. Shares rose 2.3% Wednesday.</p>
+      <h3>Stocks Moving Today</h3>
+      <p>FootLocker (FL) plunged on earnings. Shares are at lows last seen in October 2010. Revenue declined 10% from the prior year as comparable sales fell and margins also shrank. Earnings fell sharply to 4 cents per share from $1.10 in the year-ago period.</p>
+      <p>The footwear maker lowered guidance for fiscal 2023 and is pausing its quarterly dividend after the October payout. Shares were down 28% at the closing bell.</p>
+      <p>Netflix (NFLX) rose 3.5% as the streaming giant got bullish nods from analysts at Oppenheimer, who see high margin revenue drivers in its new ad-supported service and a crackdown on password sharing. Oppenheimer analysts maintained an outperform rating for the stock but jacked up the price target to 515. Shares fell a little short of retaking the 50-day line in the stock market today.</p>
+      <p>Unsurprisingly, weak demand from communications and consumer electronics companies resulted in a lackluster quarter for Analog Devices (ADI). Sales and earnings fell 1% from the prior year.</p>
+      <p>Free cash flow as a percentage of revenue came in at 27% versus 29% a year ago. Nonetheless, the company returned $1.1 billion to shareholders through buybacks and dividends. For the fourth quarter, the company expects a decline in sales of $2.7 billion with earnings per share of $2. Shares reversed higher and approached the 200-day line.</p>
+      <p>Subscription growth for Peloton Interactive (PTON) Connected Fitness segment was more than offset by a seasonal slowdown in hardware sales, a churn in subscriptions, and a bike-seat recall in the quarter ended June 30. The stock fell to an all-time low Wednesday, off 23% in heavy volume.</p>
+      <p>Among other earnings movers, Kohl's (KSS) reversed higher and gained 5%. Falling comparable sales drove a decline in second-quarter revenue. But the company reduced inventory and cut costs. The retailer maintained its outlook for the year for a sales decline of 2%-4% and earnings per share of $2.10-$2.70. The stock is forming a cup-with-handle with a 29.65 entry.</p>
+      <h3>Cathie Wood Picks Up Zoom</h3>
+      <p>Beaten-down Zoom Video Communications (ZM) rose 3.5%. Cathie Wood's Ark Innovation ETF (ARKK) bought 104,898 shares of the video conferencing company. The Ark Next Gen Internet ETF (ARKW) bought 17,933 shares as well. ZM stock is trying to retake the 50-day line but remains depressed.</p>
+      <p>Several software companies moved after results. Splunk (SPLK) rose in after hours trading after it reported earnings, while Snowflake (SNOW) and NetApp (NTAP) fell following their reports.</p>
+    </div>
+  },
+  {
+    id: 605,
+    title: 'Dow Jones Rises After Key Economic Data; Tesla Skids On Output Cut; Nvidia Earnings Next',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Tesla', 'Nvidia'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average rose Wednesday morning after key economic data. Meanwhile, Tesla stock reversed higher after a report said the company's German plant lowered its production target. And Nvidia earnings are due out after the close.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023 - 6:33 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692875305/ncx-blog-1176_fis9bf.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average rose Wednesday morning after key economic data. Meanwhile, Tesla stock reversed higher after a report said the company's German plant lowered its production target. And Nvidia earnings are due out after the close.</p>
+    	<p>Key economic data out Wednesday morning includes the S&P Global's Purchasing Managers' Index, or PMI, for the manufacturing and services indexes. The manufacturing index dipped to 47.0 in August, below the 48.8 estimate and down from July's 49.0 reading. Further, the services index dropped to 51.0 in August vs. 52.3 in July.</p>	
+    	<p>Finally, new home sales rose to 714,000 in July, above the 705,000 estimate, vs. June's 697,000.</p>	
+    	<p>Early Wednesday, Abercrombie & Fitch (ANF), Advance Auto Parts (AAP), Analog Devices (ADI) and Foot Locker (FL) — along with Kohl's (KSS), Peloton Interactive (PTON,) Toll Brothers (TOL) and Urban Outfitters (URBN) — were key earnings movers.</p>
+      <p>ANF stock surged 19% in morning trade, while AAP climbed almost 1%. Analog Devices slipped nearly 4%, as Foot Locker plunged 32%. Kohl's advanced more than 4%, while Peloton stock crumbled 26% in early action.</p>
+      <p>Finally, Toll Brothers shares rose 2.5%, while URBN stock jumped nearly 3%.</p>
+      <h3>Stock Market Today: Nvidia Earnings</h3>
+      <p>Graphics-chip maker Nvidia (NVDA) rose 1.8% Wednesday morning ahead of the chip designer's earnings report late. After four straight quarters of declining earnings, adjusted profit is expected to jump to $3.04 a share, with revenue up 65% to $11.04 billion. There's no doubt it's an earnings report that could move the Nasdaq hard, one way or the other.</p>
+      <p>Electric-vehicle giant Tesla (TSLA) traded up 0.7% Wednesday. Dow Jones tech icons Apple (AAPL) and Microsoft (MSFT) were higher after today's stock market open.</p>
+      <p>Other stock market leaders include Alphabet (GOOGL) and Meta Platforms (META). GOOGL stock rose 1.5%, while Meta shares gained 0.7% in early action.</p>
+      <p>Costco Wholesale (COST), Lululemon (LULU), Arista Networks (ANET) and Oracle (ORCL) — as well as Dow Jones stocks Boeing (BA) and Visa (V) — are among the best stocks to watch in the ongoing stock market correction.</p>
+      <p>Tesla and Costco are IBD Leaderboard stocks, while Boeing was a recent IBD Stock Of The Day pick. Arista was featured in this Stocks Near A Buy Zone column.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Wednesday's opening bell, the Dow Jones Industrial Average rose 0.2%, while the S&P 500 gained 0.7%. The tech-heavy Nasdaq composite added 1.2% in morning action.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) was up 1.1%, while the SPDR S&P 500 ETF (SPY) rose 0.7% early Wednesday.</p>
+      <p>Also on Wednesday, the 10-year U.S. Treasury yield ticked lower to 4.24%, after settling at 4.32% Tuesday, just off the highest level since 2007.</p>
+      <p>West Texas Intermediate oil prices threatened to extend a losing streak to three sessions, sliding 1.5% Wednesday. WTI futures held just below $78.50 a barrel in morning trade ahead of the Energy Information Administration's weekly inventory report at 10:30 a.m. ET.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Tuesday, the Dow Jones Industrial Average fell 0.5%, while the S&P 500 dipped 0.3%. The tech-heavy Nasdaq composite finished up 0.1%.</p>
+      <p>Tuesday's Big Picture column commented, "The Nasdaq tried to extend gains after Monday's lower-volume bounce from oversold conditions. The index popped above its 10-day moving average early Tuesday, rising more than 0.7%, but sellers knocked the index down to session lows by the close. The Nasdaq remains mired below its 10-, 21- and 50-day moving averages, which are potential resistance levels to watch."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market tries to stabilize after a sharp pullback from this year's highs.</p>
+      <h3>Dow Jones Stocks: Boeing, Visa</h3>
+      <p>Aerospace giant Boeing broke out in recent weeks, topping a 223.91 flat-base entry. Shares are testing their buy point and 50-day line, as they added 0.1% Tuesday. BA stock dipped 0.2% Wednesday morning.</p>
+      <p>And Dow Jones payments leader Visa continues to hold in a buy range past a 235.57 flat-base buy point, according to IBD MarketSmith pattern recognition. Meanwhile, another entry is available, with the stock forming another flat base that has a 245.37 entry. Shares are rebounding from support around their 50-day line. V stock gained0.4% Wednesday.</p>
+      <h3>Stocks To Watch: Arista, Lululemon, Costco, Oracle</h3>
+      <p>AI stock leader Arista Networks is trying to move out of buy range beyond its 178.36 buy point in a consolidation, with a 1.5% rise Tuesday. Its RS line is at its highest level since late March, which is a sign of big outperformance in recent weeks. ANET stock rose 0.1% Wednesday morning.</p>
+      <p>Lululemon is once again testing its key 50-day line as shares dropped 1.4% Tuesday. LULU's RS line is at its highest level since May, according to IBD MarketSmith. LULU shares dropped 1.8% in morning trade. The company reports second-quarter results on Aug. 31.</p>
+      <p>On the IBD Leaderboard, Costco was added as a half-size position in recent weeks. The megacap retailer is threatening to decisively close below its 50-day support level. Meanwhile, a handle entry looms at 571.16. COST stock edged a fraction lower early Wednesday.</p>
+      <p>Oracle continues to trace a flat base with a 127.54 buy point. An early entry at 118.06 is also in play, as the software leader tries to maintain support around the 50-day line. ORCL stock rose 0.3% in premarket trade.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla rose 0.8% Tuesday, adding to Monday's sharp gains. Still, shares are well below their 50-day line. Amid the recent spate of selling, it's clear that the stock requires more time to consolidate before a new entry emerges. Wait for a decisive move back above the 21- and 50-day moving averages before considering a new purchase of TSLA stock.</p>
+      <p>Early Wednesday, Tesla stock threatened to give up Tuesday's gains, but reversed 0.7% higher.</p>
+      <p>According to a Business Insider report, Tesla lowered the production target of its German plant to 4,350 a week in July and August after hitting 5,000 a week in March, and plans to reduce it further.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock climbed 0.8% Tuesday, extending a win streak to three sessions. The stock remains squarely below the 50-day line following sharp losses in recent weeks. AAPL stock tacked on 1.6% early Wednesday.</p>
+      <p>Microsoft shares also trade near their recent lows, a sign the stock needs more time to consolidate before a new buy point emerges. While recent gains are bullish, the stock remains below its 21- and 50-day lines, so there isn't a buy signal yet. And on Wednesday morning, the stock added 1.3%.</p>
+    </div>
+  },
+  {
+    id: 604,
+    title: 'S&P 500 to end 2023 up 17% but little gains seen between now and year end - Reuters poll',
+    category: 'Indices',
+    subCategory: ['S&P', '500', 'Gains'],
+    description: <div className="blog-desc">
+      <p>U.S. stocks will eke out only marginal gains between now and year end, according to strategists in a Reuters poll on Wednesday, who said inflation and higher interest rates were among the biggest risks for the market.</p>
+    </div>,
+    authorName: 'Caroline Valetkevitch',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023 - 5:16 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692874511/ncx-blog-1175_xub1ii.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Caroline Valetkevitch</p>
+    	<p>NEW YORK (Reuters) -</p>	
+    	<p>U.S. stocks will eke out only marginal gains between now and year end, according to strategists in a Reuters poll on Wednesday, who said inflation and higher interest rates were among the biggest risks for the market.</p>	
+    	<p>The benchmark S&P 500 index was forecast to end the year at 4,496, about 2.2% above Monday's close of 4,399.77 and up about 17% from end 2022, according to the median forecast of 41 strategists in an Aug. 9-22 Reuters poll.</p>
+      <p>The latest prediction was higher than the 4,150 year-end target in a May poll.</p>
+      <p>Some expect optimism over artificial intelligence that has driven a sharp rally in technology stocks this year to support further market gains, while they said a cooldown in the U.S. economy may not be as bad as feared.</p>
+      <p>The S&P 500 is up over 14% so far in 2023 after falling 19% in 2022, and the Nasdaq is up 29% year-to-date.</p>
+      <p>Eight of 13 strategists who answered an additional question said a correction in the U.S. stock market was likely by the end of this year, and two said it was highly likely.</p>
+      <p>Confidence that the Federal Reserve has reined in inflation enough to end its rate hikes has fueled stock market gains this year. However, concerns that the U.S. central bank will keep interest rates higher for longer have recently pushed up U.S. Treasury yields, and fanned worries about the impact of higher borrowing costs on businesses and consumers.</p>
+      <p>The benchmark 10-year Treasury yield hit near 16-year highs this week.</p>
+      <p>"The S&P 500 may currently be in correction mode," said Terry Sandven, chief equity strategist at U.S. Bank Wealth Management. His year-end target on the S&P 500 is 4,600.</p>
+      <p>"Persistent inflation is kryptonite to valuation as it implies a higher-for-longer Fed hawkish stance. Elevated interest rates, due to continued inflationary pressures, results in lower present values and lower stock prices," he said.</p>
+      <p>Earnings growth for S&P 500 companies for 2023 is estimated at just 1.8%, and the index's forward 12-month price-to-earnings ratio is close to 19, up from 17 at the end of 2022 and above its long-term average of about 16, according to Refinitiv data.</p>
+      <p>"When a lot of the AI euphoria was in full swing a couple of months ago, the multiples that people were willing to pay for broader indices, for individual stocks, were kind of silly," said Sameer Samana, senior global market strategist at Wells Fargo Investment Institute in Charlotte, North Carolina.</p>
+      <p>"The environment we're headed into is going to be marked by volatile and high sticky inflation, higher rates ... and you're probably going to see some shift in market leadership."</p>
+      <p>Wells Fargo, which expects the S&P 500 to end this year between 4,000 and 4,200, says a U.S. recession as still likely.</p>
+      <p>The poll's median forecast for end-2024 for the S&P 500 was 4,800.</p>
+      <p>The survey also showed the Dow Jones industrial average is expected to finish the year at 36,000, up over 4% from Monday's close. That forecast is also higher than the previous poll's median target.</p>
+      <p>(Reporting by Caroline Valetkevitch; additional reporting by Noel Randewich in San Francisco, and Chuck Mikolajczak, Stephen Culp and Sinead Carew in New York; Polling by Prerana Bhat and Rahul Trivedi; Editing by Kim Coghill)</p>
+    </div>
+  },
+  {
     id: 603,
     title: 'Dow Jones Futures Rise: Market In Correction As Nvidia Earnings, Powell Speech Loom; What To Do',
     category: 'Indices',

@@ -1,5 +1,176 @@
 const data = [
   {
+    id: 663,
+    title: 'Bond Buyers Haven’t Had It This Good Since the Financial Crisis',
+    category: 'Markets',
+    subCategory: ['Bond', 'Financial', 'Buyers'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The prospect of global interest rates remaining higher for longer is tipping the case for many investors to switch into bonds from stocks.</p>
+    </div>,
+    authorName: 'Tassia Sipahutar and Ameya Karve',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 7:18 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692885516/ncx-blog-1193_osb9kd.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The prospect of global interest rates remaining higher for longer is tipping the case for many investors to switch into bonds from stocks.</p>
+    	<p>Fixed income offers a 180-basis-point yield premium over the dividend returns from stocks, according to data compiled by Bloomberg. That’s the widest in 15 years, and the gap is likely to persist or even widen as traders bet that the era of low rates has come to an end.</p>	
+    	<p>Investors willing to make that switch have had to stomach a brutal bond selloff that shows few signs of easing. The latest EPFR Global data suggest that the shift, even if costly in recent months, is happening as debt funds reeled in their 21st consecutive week of inflows, while their stock counterparts recorded outflows of around $2.2 billion. In major markets, investors expect yields to return to levels seen before the global financial crisis.</p>	
+    	<p>“Even the investment-grade bonds are giving you equity-like returns,” with half the volatility, Sanjay Guglani, chief executive officer at Silverdale Capital Pte Ltd., a Singapore-based fund manager who manages about $1 billion of assets, told Bloomberg Television. “This is a dawn of a new era for fixed income, we never had such a fantastic yields for almost 20 years.”</p>
+      <p>Global bonds are offering an average yield of 4.0%, data compiled by Bloomberg show, almost twice as much as the 2.2% dividend return for the MSCI ACWI Index. Fidelity International points out that positive real yields make the case for Treasuries even more compelling.</p>
+      <p>The next cue for traders is likely to come when the world’s top central bankers gather at the annual Jackson Hole symposium from Thursday to discuss the outlook for monetary policies. Federal Reserve Chair Jerome Powell is slated to speak Friday.</p>
+      <p>The years following the global financial crisis, when policymakers were looking to juice up economies and combat anemic price pressures with ultra-low interest rates, were the heyday for stocks, according to the metric comparing bond yields and dividend yields.</p>
+      <p>But the relationship reversed in early 2022, as the Fed kicked off its most aggressive tightening campaign in four decades. That’s because investors are betting higher borrowing costs will stymie economic growth and crimp corporate profits.</p>
+      <p>The prospect that borrowing costs may rise further — with Fed minutes published on Aug. 16 showing rate setters remain largely concerned about inflation — has pummeled equities in recent weeks. MSCI’s gauge of developed and emerging market stocks has fallen over 5% so far this month.</p>
+      <p>“We are seeing across regions, some shifts from equity to buy high-quality credit,” said Adam Whiteley, head of global credit at London for BNY Mellon Corp.’s Insight Investment. “Under the current environment of higher inflation and economic uncertainty, investors are definitely looking at bonds as a relatively safe asset that can offer an alternative to stocks.”</p>
+      <p>But, there’s still significant debate over where policy rates are headed. Treasury yields took a tumble on Wednesday as US data trailed economists’ forecasts and Citigroup Inc. noted that a short squeeze may be emerging after the recent ramp-up in bearish bets.</p>
+      <p>In contrast, equity traders had reason to cheer after a bullish earnings forecast from Nvidia Corp. spurred a rally in S&P 500 and Nasdaq 100 futures. The chipmaker’s shares soared 10% in US post-market trading Wednesday after it delivered a third-straight sales forecast that surpassed Wall Street estimates.</p>
+      <p>Skeptics also note that Japan is an outlier. Equity funds recorded a 10th week of inflows in the week ended Aug. 16, according to data from EPFR. Meanwhile, debt funds had the biggest inflow in two years in the week ended Aug. 9.</p>
+      <p>This came on the heels of a move by the Bank of Japan in July to loosen its grip on bond yields — a decision that’s expected to boost the yen over time and make domestic assets more attractive. The positive sentiment pushed the yield spread between the bonds and stocks to near the narrowest in more than two years.</p>
+      <p>Other than Japan, Asia may offer a value proposition for those arguing the case for equities. Payout ratios in the region are some of the lowest globally, “so the longer-term story for dividend growth for equities here is very compelling,” said Sat Duhra, a fund manager at Janus Henderson Investors.</p>
+      <p>No Landing</p>
+      <p>Meanwhile, with the odds of a US recession seen receding and large federal budget deficits increasing the supply of Treasury debt, bond yields have been surging.</p>
+      <p>Tightening bets are also pushing up rates at the front-end of the curve, with the policy-sensitive two-year Treasury yield exceeding 5% this week.</p>
+      <p>“We are looking at that bull steepening phase to start to happen and that could actually happen before the Fed even starts cutting,” Christy Tan, Asia Pacific investment strategist at Franklin Templeton, told Bloomberg Television. “There is room for the longer end of the yield curve to actually also continue to deliver income and also yield appreciation.”</p>
+      <p>--With assistance from Abhishek Vishnoi and Harry Suhartono.</p>
+    </div>
+  },
+  {
+    id: 662,
+    title: 'Nvidia bets $25 billion that AI boom is far from over',
+    category: 'Markets',
+    subCategory: ['Nvidia', 'AI', 'Market'],
+    description: <div className="blog-desc">
+      <p>(Reuters) -Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism.</p>
+    </div>,
+    authorName: 'Stephen Nellis and Max A. Cherney',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 5:14 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692884721/ncx-blog-1192_kijjua.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Stephen Nellis and Max A. Cherney</p>
+    	<p>(Reuters) -Nvidia's CEO Jensen Huang said he expects the artificial intelligence boom will last well into next year and made what could be the largest single bet yet in the tech sector to back up his optimism.</p>	
+    	<p>The company's sales forecast on Wednesday blew past Wall Street's expectations and it said it would buy back another $25 billion of its shares, a move most companies make when their leadership thinks the company is undervalued. Nvidia's stock price, though, has more than tripled this year and was set to hit an all-time high after Wednesday's results.</p>	
+    	<p>Nvidia said it plans to ramp up production of its hardware into next year, quashing doubts that a few analysts had raised about how long the AI craze could last. The company has a near-monopoly on the computing systems used to power services like ChatGPT, OpenAI's blockbuster generative AI chatbot.</p>
+      <p>"We have excellent visibility through the year and into next year, and we're already planning the next generation infrastructure with leading (cloud computing firms) and data center builders," Huang told investors on a conference call.</p>
+      <p>In an interview with Reuters, Huang said two things are driving that demand: a switch from traditional data centers that were built around central processors to ones built around Nvidia's powerful chips, and the rising use of content generated by AI systems in everything from legal contracts to marketing materials.</p>
+      <p>"These two fundamental trends are what's behind everything that we're seeing, and we're about a quarter into it," he said. "It's hard to say how many quarters are ahead of us, but this fundamental shift is not going to end. This is not a one-quarter thing."</p>
+      <p>Huang's move to buy back stock when it is more expensive than it has ever been tops the bets that even other large tech companies are making on AI, but comes as its price-to-earnings multiple fell to about 43 from 60 after analysts upgraded their earnings estimates in May.</p>
+      <p>Microsoft said the $10.7 billion in capital expenditures it made in its fiscal fourth quarter - a large portion of which went toward Nvidia hardware - is a figure that would continue to rise. It has also invested $10 billion in OpenAI.</p>
+      <p>Meta Platforms, Amazon.com's cloud computing unit AWS and others have also bet tens of billions of dollars collectively on AI-related hardware and products.</p>
+      <p>Demand for the chips has given Nvidia the cash for the investor payday. The company reported its adjusted gross margins nearly doubled to 71.2% in its second quarter, when most semiconductor companies have gross margins between 50% and 60%.</p>
+      <p>Kinngai Chan, an analyst at Summit Insights Group said Nvidia's inventory of $4.32 billion is "light."</p>
+      <p>"We think (Nvidia) will continue to beat the $16 billion guide for the October quarter as demand continues to outstrip supply," Chan said, referring to the company's third-quarter revenue outlook.</p>
+      <p>To be sure, some analysts don't see unlimited demand. Dylan Patel of SemiAnalysis said many tech companies are spending heavily on Nvidia graphics processing units (GPUs) this year before determining how they will actually make money off products developed with those chips.</p>
+      <p>"They must overinvest in GPUs or risk missing the boat. At some point the true use cases will shake out, and many of these players will stop investing, though others will likely continue accelerating investment," Patel said.</p>
+      <p>Huang declined to comment on whether the AI boom will last past next year. He said the biggest risk Nvidia faces is securing supplies.</p>
+      <p>The company said the biggest sales driver this quarter was its HGX system, which is an entire computer built around Nvidia's chip. That system is much more complex than just the chip itself, and any missing piece can delay shipments.</p>
+      <p>"We're getting great cooperation from our supply chain. And it's a complicated supply chain," Huang told Reuters. "People think it's a GPU chip. But it's a very complicated GPU system. It's 70 pounds. It's 35,000 components. It's $200,000."</p>
+      <p>(Reporting by Stephen Nellis and Max Cherney in San Francisco; Additional reporting by Chavi Mehta; Editing by Sonali Paul)</p>
+    </div>
+  },
+  {
+    id: 661,
+    title: 'Snowflake Trounces Views On 36% Sales Growth; Shares Are Rising',
+    category: 'Markets',
+    subCategory: ['Snowflake', 'Trounces', 'Growth'],
+    description: <div className="blog-desc">
+      <p>Snowflake (SNOW) reported second-quarter earnings Wednesday that trounced analyst expectations and showed 36% revenue growth. SNOW stock was up 3% in aftermarket trades.</p>
+    </div>,
+    authorName: 'RYAN DEFFENBAUGH',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 2:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692884198/ncx-blog-1191_lyws0v.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Snowflake (SNOW) reported second-quarter earnings Wednesday that trounced analyst expectations and showed 36% revenue growth. SNOW stock was up 3% in aftermarket trades.</p>
+    	<p>For its fiscal second quarter ending in July, the cloud-data platform provider reported adjusted earnings of 22 cents per share on revenue of $674 million. The revenue marked a 36% increase from the $497 million in sales for the same period last year.</p>	
+    	<p>SNOW stock analysts polled by FactSet expected earnings of 10 cents per share on a 33% yearly sales rise, to $662 million.</p>	
+    	<p>Also, Snowflake officials reiterated their sales outlook for the rest of the company's fiscal 2024, ending in January. The firm expects $2.6 billion in sales for the year, representing 34% year-over-year growth. But that outlook is short of the $2.76 billion expected from analysts polled by FactSet ahead of Wednesday's earnings.</p>
+      <p>SNOW shares took a hit in May when the company lowered its outlook for the year prior to first-quarter earnings. The company predicted 44% to 45% sales growth.</p>
+      <p>Snowflake shares climbed 4.2% to 162.30 in recent aftermarket trades on the stock market today.</p>
+      <h3>Potential AI Boost?</h3>
+      <p>Snowflake reported its quarterly results as most eyes in the investor world were trained on the earnings report of chipmaker and artificial intelligence leader Nvidia (NVDA). Company officials said Snowflake also can benefit from the AI boom.</p>
+      <p>"Snowflake as the global epicenter of trusted enterprise data is well positioned to enable the growing interest in AI/[machine learning]," Snowflake Chairman and Chief Executive Frank Slootman said in written remarks. "Enterprises and institutions alike are increasingly aware they cannot have an AI strategy without a data strategy."</p>
+      <p>Snowflake announced in June that it was partnering with Nvidia to allow businesses to build custom large language models using their data in the Snowflake Data Cloud.</p>
+      <h3>SNOW Stock: Looking For Thaw In Cloud-Computing</h3>
+      <p>Large companies have spent the past several quarters looking for ways to reduce — or optimize — spending on cloud services. But there were signs of improvement for the marketing leading up to Wednesday's earnings for Snowflake.</p>
+      <p>Notably, Amazon (AMZN) earlier this month reported second-quarter sales growth for its Amazon Web Services cloud-computing unit that topped analyst expectations. SNOW stock climbed 3.5% in trading the day after Amazon's earnings report, on Aug. 4.</p>
+      <p>Product revenue for Snowflake — which accounts for customers using the company's software to store or analyze data — increased 37% year over year to $642 million on the quarter.</p>
+      <p>SNOW stock ended the regular trading session 2% higher at $155.70 on the stock market today. Overall, SNOW stock is up 8% from the start of the year, coming into its earnings report. But shares have fallen 12.5% this quarter.</p>
+      <p>Further, Snowflake stock holds a weak IBD Composite Rating of 56 out of a best-possible 99, according to IBD Stock Checkup. The company's shares rank 59th out of 127 companies in the Computer Software-Enterprise group.</p>
+    </div>
+  },
+  {
+    id: 660,
+    title: 'Mortgage lender Better set for Nasdaq debut in test for choppy markets',
+    category: 'Markets',
+    subCategory: ['Mortgage', 'Nasdaq', 'markets'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - SoftBank-backed Better, the digital mortgage lender which hit the headlines in 2021 after laying off 900 employees on Zoom, is set to go public on the Nasdaq stock exchange on Thursday via a merger with a blank-check company, the company said Wednesday.</p>
+    </div>,
+    authorName: 'Hannah Lang',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023 - 9:15 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692884058/ncx-blog-1190_v1lj2x.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Hannah Lang</p>
+    	<p>(Reuters) - SoftBank-backed Better, the digital mortgage lender which hit the headlines in 2021 after laying off 900 employees on Zoom, is set to go public on the Nasdaq stock exchange on Thursday via a merger with a blank-check company, the company said Wednesday.</p>	
+    	<p>The listing caps a rocky two years for the company which delayed the deal multiple times amid regulatory scrutiny and slowing mortgage demand, and will test market appetite for home lenders as U.S. Federal Reserve rate hikes continue to weigh on the housing market.</p>	
+    	<p>The deal will provide Better with an infusion of $550 million from SoftBank which it will use to expand its mortgage product offerings in anticipation of a boom in demand for refinancings next year, when rates are expected to start falling, Better executives said.</p>
+      <p>"We think that this is a really great time for us to be out there, capitalized with an additional $550 million from SoftBank that will enable the company to continue to innovate and serve its customers," CEO Vishal Garg in an interview.</p>
+      <p>Shares in the company will trade under the ticker BETR.</p>
+      <p>The company is going public as U.S. mortgage rates continue to surge, with the popular 30-year fixed rate last week hitting the highest level in more than 21 years. U.S. home builder confidence weakened in August, as mortgage rates and stubbornly high housing prices discouraged prospective buyers.</p>
+      <p>Better planned to go public via a $6 billion special-purpose acquisition company (SPAC) merger with Aurora Acquisition Corp. in 2021, but delayed the deal amid a U.S. Securities and Exchange Commission (SEC) inquiry and multiple rounds of layoffs, regulatory filings show.</p>
+      <p>The SEC last year requested information on Garg's business transactions and allegations made in a lawsuit that Garg and Better provided misleading statements to investors about Better's financial prospects and performance.</p>
+      <p>The SEC informed Better and Aurora this month that it had concluded its probe and would not be recommending an enforcement action, according to a regulatory filing.</p>
+      <p>Better enjoyed huge growth during the onset of the COVID-19 pandemic when mortgage rates cratered, notching more than $850 million in revenue in 2020, filings show. But it has struggled as rates have risen, reporting a net first quarter loss of $89.9 million in July.</p>
+      <p>It has conducted multiple rounds of layoffs since the SPAC deal was announced, including infamously laying off 900 employees via Zoom in December 2021 after which Garg took a break and worked with an executive coach. He later apologized.</p>
+      <p>Garg says the company is now "much more mature."</p>
+      <p>"We're much more considerate of all constituents, whether they be regulators, the press, our employees," he said.</p>
+      <p>When interest rates fall, Better expects huge demand for cash-out refinancings, which it says it will be able to deliver in one day. Earlier this year, Better.com launched a one-day mortgage product, allowing customers to get pre-approved, lock in a rate and get a mortgage commitment letter within 24 hours.</p>
+      <p>The company expects to share more details on adoption rates when it reports earnings for the second quarter.</p>
+      <p>(Reporting by Hannah Lang in Washington; Editing by Michelle Price and Mark Potter)</p>
+    </div>
+  },
+  {
+    id: 659,
+    title: 'Landlords With $1.2 Trillion of Debt Face Rising Default Risks',
+    category: 'Markets',
+    subCategory: ['Landlord', 'Trillion', 'debt'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- About $1.2 trillion of debt on US commercial real estate is “potentially troubled” because it’s highly leveraged and property values are falling, according to Newmark Group Inc.</p>
+    </div>,
+    authorName: 'John Gittelsohn',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023 - 7:00 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692882938/ncx-blog-1189_itre40.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- About $1.2 trillion of debt on US commercial real estate is “potentially troubled” because it’s highly leveraged and property values are falling, according to Newmark Group Inc.</p>
+    	<p>Offices are the biggest near-term problem, accounting for more than half of the $626 billion of at-risk debt that’s set to mature by the end of 2025, the brokerage estimates. Office values have tumbled 31% from a peak in March 2022, when the Federal Reserve started raising interest rates, according to property analytics firm Green Street.</p>	
+    	<p>Concerns are mounting that defaults will increase as property values fall and costs rise for landlords who need to refinance at higher interest rates. Overleveraged owners are often more motivated to stop payments than sink money into buildings with diminished prospects for returns. Blackstone Inc., Brookfield Corp. and Goldman Sachs Group Inc. are among investors that have defaulted or relinquished offices to lenders this year.</p>	
+    	<p>“They’re going to have every incentive to hand back the keys to lenders,” David Bitner, global head of research at Newmark, said in an interview. “I’m shocked that hasn’t happened a lot more.”</p>
+      <p>Newmark defines “potentially troubled” as properties where debt represents at least 80% of the real estate’s marked-to-market value, based on price indexes including Green Street’s.</p>
+      <p>Banks, which have tightened lending since this year’s collapse of Silicon Valley Bank, carry the biggest share of at-risk debt, with $303 billion of potentially troubled loans maturing through 2025, according to Newmark.</p>
+      <p>After offices, apartment buildings are the next-biggest category of potentially troubled properties, with $192 billion in debt needing to be refinanced through 2025, Newmark estimates.</p>
+      <p>Landlords who try to hang on and weather the storm are likely to take a bigger hit than those who cut their losses more quickly, according to Bitner.</p>
+      <p>“There’s going to be a reckoning,” he said, “and everybody that waited to deal with the problem is going to regret they did.”</p>
+    </div>
+  },
+  {
     id: 658,
     title: 'US borrowing costs highest since 2007 amid interest rate fears',
     category: 'Markets',

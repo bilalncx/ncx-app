@@ -1,5 +1,314 @@
 const data = [
   {
+    id: 630,
+    title: 'Gold climbs two-week peak as Jackson Hole looms',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Jackson', 'Looms'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold rose for a fourth straight session to a two-week high on Thursday, extending gains from the previous session fuelled by weaker U.S. data in the run up to likely interest rate guidance from central bankers at Jackson Hole.</p>
+    </div>,
+    authorName: 'Deep Kaushik Vakil',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 24, 2023 - 5:48 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692880732/ncx-blog-1186_a0z4wr.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Deep Kaushik Vakil</p>
+    	<p>(Reuters) - Gold rose for a fourth straight session to a two-week high on Thursday, extending gains from the previous session fuelled by weaker U.S. data in the run up to likely interest rate guidance from central bankers at Jackson Hole.</p>	
+    	<p>Spot gold was up 0.3% at $1,919.07 per ounce by 0956 GMT, hitting its highest level since Aug. 10. U.S. gold futures were flat at $1,947.40.</p>	
+    	<p>Dollar-priced bullion climbed nearly 1% on Wednesday as the U.S. dollar and Treasury yields tumbled after data showed U.S. business activity approached the stagnation point in August. [USD/] [US/]</p>
+      <p>"Some economic worries have propelled some safe-haven demand, but gold has been really more or less range-bound" between $1,880 and $1,970, said Bank of China International analyst Xiao Fu.</p>
+      <p>The Federal Reserve is holding its annual symposium in Jackson Hole, Wyoming from Aug. 24 to Aug. 26, with investors waiting for Fed Chair Jerome Powell's speech on Friday for confirmation on whether interest rates are going to stay higher for longer.</p>
+      <p>Higher U.S. rates raise the opportunity cost of holding gold, which yields no interest.</p>
+      <p>"The centre of attention is on Jackson Hole. The rebound over the past four days is really because gold reached $1,900, and there tends to be some buying-on-dips demand," Fu added.</p>
+      <p>Traders also firmed up bets that the European Central Bank would pause hiking interest rates in September, as sharp contractions in business activity pointed to deepening economic pain in Europe.</p>
+      <p>Spot silver fell 0.8% to $24.12 per ounce and platinum was down 0.2% at $928.18. Palladium dropped 0.8% to $1,263.78.</p>
+      <p>For silver, immediate resistance at $24.50 will be on watch next, and moving past this level may potentially pave the way to retest its year-to-date high of around $26, Yeap Jun Rong, a market strategist at IG said.</p>
+      <p>(Reporting by Swati Verma in Bengaluru; Editing by Sonia Cheema, Sohini Goswami and Tomasz Janowski)</p>
+    </div>
+  },
+  {
+    id: 629,
+    title: 'Another Deadly Coal Accident in China Threatens Output Growth',
+    category: 'Commodities',
+    subCategory: ['Coa;', 'China', 'Growth'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Fatal accidents continue to undermine China’s coal industry, with the latest incident in Shaanxi set to impede plans to raise production if authorities once again ramp up scrutiny of mine safety.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 4:52 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692881688/ncx-blog-1188_klie6c.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Fatal accidents continue to undermine China’s coal industry, with the latest incident in Shaanxi set to impede plans to raise production if authorities once again ramp up scrutiny of mine safety.</p>
+    	<p>A gas explosion on Monday at a mine in China’s third-largest coal province killed 11, halting operations there and ending a month-long run of declining prices for thermal coal. It’s the worst accident since February, when a mine collapse in Inner Mongolia claimed 53 lives and triggered nationwide checks on safety.</p>	
+    	<p>If regulators respond in similar fashion, it’ll be difficult to keep raising average monthly levels of output, Hou Jian, an analyst at the China Coal Transport and Distribution Association, told a briefing on Wednesday. The association cut its forecast for annual production by almost 100 million tons to 4.6 billion tons.</p>	
+    	<p>China mined nearly 4.5 billion tons last year, a record, as Beijing prioritizes production of its mainstay fuel to safeguard energy security after the economy was blighted by power outages in recent years. But the limits of that expansion are becoming apparent, as the quality of coal declines and all-too-frequent accidents hamper operations.</p>
+      <p>The latest disaster affected coal used by the steel industry and coking coal futures in Dalian have climbed over 8% this week to above 1,500 yuan ($206) a ton. Most of China’s coal goes to power generation and the domestic spot price for the thermal variety inched up to around 820 yuan a ton on Wednesday, after falling for nearly a month, according to CCTD.</p>
+      <p>The Week’s Diary</p>
+      <p>(All times Beijing unless noted.)</p>
+      <p>Thursday, Aug. 24:</p>
+      <ul>
+        <li>Power System and Green Energy Conf. in Shanghai, day 1</li>
+        <li>EARNINGS: China Coal, ENN Energy, Eve Energy, Sungrow</li>
+      </ul>
+      <p>Friday, Aug. 25:</p>
+      <ul>
+        <li>China weekly iron ore port stockpiles</li>
+        <li>Shanghai exchange weekly commodities inventory, ~15:30</li>
+        <li>Power System and Green Energy Conf. in Shanghai, day 2</li>
+        <li>EARNINGS: Shenhua, CMOC, Jiangxi Copper, Tongling Metals, Zijin Mining, Huayou Cobalt</li>
+      </ul>
+      <p>Saturday, Aug. 26</p>
+      <ul>
+        <li>Power System and Green Energy Conf. in Shanghai, day 3</li>
+      </ul>
+      <p>Sunday, Aug. 27</p>
+      <ul>
+        <li>China’s industrial profits for July, 09:30</li>
+        <li>EARNINGS: Sinopec</li>
+      </ul>
+      <p>On the Wire</p>
+      <p>China is attempting to diffuse risks from its $9 trillion pile of off balance-sheet local government debt, without resorting to major bailouts.</p>
+      <p>Three years ago, China cracked down on a booming real estate sector to reduce risk and make homes more affordable — part of President Xi Jinping’s “common prosperity” drive.</p>
+      <p>China’s housing slump is hitting consumption, one reason the recovery has disappointed this year, according to Bloomberg Economics. Spending on home appliances, furniture and building materials has dropped with the property downturn.</p>
+    </div>
+  },
+  {
+    id: 628,
+    title: 'Oil steadies, US Fed chief speech in spotlight',
+    category: 'Commodities',
+    subCategory: ['Oil', 'US', 'Fed'],
+    description: <div className="blog-desc">
+      <p></p>
+    </div>,
+    authorName: 'Ahmad Ghaddar',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 4:37 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692881398/ncx-blog-1187_v4f8s4.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Ahmad Ghaddar</p>
+    	<p>LONDON (Reuters) -Oil prices steadied after earlier declines on Thursday caused bydisappointing economic data from key economies, with investors awaiting a speech by U.S. Federal Reserve Chair Jerome Powell on Friday for clues on interest rate moves.</p>	
+    	<p>Brent crude climbed 6 cents, or 0.1%, to $83.27 a barrel by 0855 GMT, after dropping to $82.57 earlier in the session. U.S. West Texas Intermediate crude rose 4 cents, or 0.1%, to $78.93 a barrel, after falling to $78.22.</p>	
+    	<p>Manufacturing data from a host of purchasing managers' index (PMI) surveys on Wednesday painted a grim picture of the health of economies across the globe, raising demand concerns, analysts said.</p>
+      <p>Japan reported shrinking factory activity for a third straight month in August. Euro zone business activity also declined more than expected, particularly in Germany. Britain's economy looked set to shrink in the current quarter, leaving it in danger of falling into recession.</p>
+      <p>U.S. business activity approached the stagnation point in August, with growth at its weakest since February.</p>
+      <p>"China's worsening growth momentum is the primary cause of the deterioration in global manufacturing," BCA Research analysts said. "This is weighing on European countries where growth remains heavily exposed to Chinese demand, like Germany," they added.</p>
+      <p>Meanwhile, Federal Reserve officials and policymakers from the European Central Bank, the Bank of England and the Bank of Japan head to Jackson Hole where higher-for-longer interest rate talk may dominate despite a dip in inflationary pressures.</p>
+      <p>On the supply side, Iran's crude oil output will reach 3.4 million barrels per day (bpd) by the end of September, the country's oil minister was quoted as saying by state media, even though U.S. sanctions remain in place.</p>
+      <p>U.S. officials are also drafting a proposal that would ease sanctions on Venezuela's oil sector, allowing more companies and countries to import its crude oil, if the South American nation moves toward a free and fair presidential election, according to five people with knowledge of the plans.</p>
+      <p>A larger than expected fall in U.S. crude inventories helped support the market.</p>
+      <p>U.S. crude inventories fell by 6.1 million barrels in the week to Aug. 18 to 433.5 million barrels, compared with analysts' expectations in a Reuters poll for a 2.8 million-barrel drop.</p>
+      <p>However, a climb in U.S. gasoline stocks last week indicated fuel demand has been weaker than expected.</p>
+      <p>Meanwhile, analysts expect Saudi Arabia, the de facto leader of the Organization of the Petroleum Exporting Countries (OPEC), to extend its 1 million bpd voluntary production cut into October to help support the market.</p>
+      <p>(Additional reporting by Mohi Narayan in New Delhi; Editing by Kim Coghill)</p>
+    </div>
+  },
+  {
+    id: 627,
+    title: 'Why Hecla Mining Stock Bounced Back on Wednesday',
+    category: 'Commodities',
+    subCategory: ['Hecla', 'Mining', 'stock'],
+    description: <div className="blog-desc">
+      <p>With silver prices rebounding, investors saw value in the silver miner after its recent steep fall.</p>
+    </div>,
+    authorName: 'Neha Chamaria, The Motley Fool',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 12:27 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692880358/ncx-blog-1185_wcent9.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>With silver prices rebounding, investors saw value in the silver miner after its recent steep fall.</p>
+      <h3>What happened</h3>
+    	<p>Shares of Hecla Mining (HL 8.25%) shot higher on Wednesday and were up a solid 8.25% at the close. It's a U-turn for the silver stock, which was falling rapidly over the past couple of days after reporting a fire at a key mine. Investors might have seen value in the stock today as prices of precious metals rose on macroeconomic fears.</p>
+      <h3>So what</h3>	
+    	<p>In August, business activity in the U.S. grew at its slowest pace since February, as reflected in the S&P Global's U.S. Composite Purchasing Managers Index, which fell to 50.4 in August. The reading fell short of the market's expectations as it didn't expect to see the service sector contracting even as the manufacturing sector continues to be under pressure.</p>
+      <p>Adding to the disappointment on Wednesday, the Bureau of Labor Statistics narrowed its total tally of jobs created in March. In other words, the payroll growth in the year that ended in March was perhaps slower than expected.</p>
+      <p>The disappointing economic data raised questions about the strength of the U.S. economy and refueled investors' fears of a recession, compelling some to flock to safe-haven assets like gold and silver. Prices of both precious metals rose on Wednesday, with silver inching nearly 4% higher as industry experts also expect demand from China to recover as Beijing takes steps to slow down the yuan's depreciation.</p>
+      <h3>Now what</h3>
+      <p>With Hecla Mining stock dropping to its lowest point of the year on Tuesday and trading barely 20% off 52-week lows, investors saw hope in Wednesday's rebound in silver prices. They expect higher prices for the metal to offset at least some of the projected weakness in the miner's production this quarter because of a fire.</p>	
+    	<p>Earlier this week, Hecla Mining reported a fire at its Lucky Friday mine in Idaho and said it's expected to hurt the mine's production and costs. Hecla Mining is one of the largest silver producers in the U.S., and Lucky Friday is one of its two largest mines. </p>
+    </div>
+  },
+  {
+    id: 626,
+    title: 'Canada steps up pace of oil production growth, seen rising 8% in two years',
+    category: 'Commodities',
+    subCategory: ['Canada', 'Oil', 'production'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - A busy oil sands maintenance season and early summer wildfires put a dent in Canadian crude production in the second quarter, but oil companies are ramping up growth over the next two years and will add nearly 8% to Canada's total output, analysts estimate.</p>
+    </div>,
+    authorName: 'Nia Williams',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023 - 1:51 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692879510/ncx-blog-1184_muvzng.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Nia Williams</p>
+    	<p>(Reuters) - A busy oil sands maintenance season and early summer wildfires put a dent in Canadian crude production in the second quarter, but oil companies are ramping up growth over the next two years and will add nearly 8% to Canada's total output, analysts estimate.</p>	
+    	<p>The roughly 375,000 barrel per day (bpd) increase in two years would be more than Canada, the world's fourth-largest oil producer, has managed to add over the last five years combined, even after promising European allies it would boost crude output in the wake of Russia's invasion of Ukraine in early 2022.</p>	
+    	<p>According to Canada Energy Regulator data, Canadian oil production averaged 4.86 million bpd in 2022, up from 4.61 million bpd in 2018.</p>
+      <p>Much of the growth will come from oil sands producers like Cenovus Energy and Canadian Natural Resources Ltd (CNRL) tweaking operations to boost efficiency.</p>
+      <p>Companies are also moving forward on so-called "step-out" or "tie-back" oil sands thermal projects, where instead of building an entirely new facility to steam bitumen deposits, they are linking new areas with existing plants to speed up development and lower costs.</p>
+      <p>The move to boost output - while continuing to funnel free cash to shareholders - shows producers are confident prices will stay firm, analysts said.</p>
+      <p>"Companies can finally say things have recovered enough in the industry that we can maintain returns to shareholders and put some money into production growth," said RBN Energy analyst Martin King.</p>
+      <p>Benchmark North American crude has averaged $75.64 a barrel year-to-date, declining from 2022 highs, but above the five-year average of $65.89 a barrel.</p>
+      <p>Increasing production would be at odds with the Canadian government's effort to meet its goal of cutting carbon emissions by 40-45% by 2030, given oil and gas is the country's highest-emitting sector.</p>
+      <p>RBN expects total Canadian crude output to increase 175,000 bpd this year and another 200,000 bpd in 2024, while S&P Global Commodity Insights analyst Kevin Birn said annual oil sands production alone will rise around 350,000 bpd by 2025.</p>
+      <p>Two-thirds of Canada's crude comes from northern Alberta's oil sands.</p>
+      <p>STEP-OUTS AND TIE-BACKS</p>
+      <p>Following a lacklustre second quarter, Cenovus downgraded its full-year production forecast due to wildfires, while Suncor Energy, CNRL and MEG Energy warned that output would come in at the lower end of their 2022 guidance after big maintenance turnarounds.</p>
+      <p>Output is expected to pick up in the second half of the year, and companies are making progress on tie-in projects.</p>
+      <p>Cenovus is building a 17-km (11-mile) pipeline connecting its Narrows Lake site to its Christina Lake processing facility that will add up to 30,000 bpd in 2025 , while CNRL is planning to develop the Pike project, purchased from BP in 2022, by stepping out from its Jackfish and Kirby facilities.</p>
+      <p>"It's a great opportunity and quite innovative. Rather than building a central processing facility all way up at the site, we've been able to tie it back to our existing plant," Norrie Ramsay, Cenovus's executive vice-president upstream, told an earnings call this month.</p>
+      <p>The new volumes will coincide with the planned start-up of the 600,000 bpd Trans Mountain expansion (TMX) pipeline project in the first quarter of 2024. However, delays to TMX could result in pipeline congestion and force producers to ship crude by rail, adding costs.</p>
+      <p>"It'll have to be done by the middle of next year or we'll have to have more rail," said Eight Capital analyst Phil Skolnick.</p>
+      <p>(Reporting by Nia Williams; Editing by Denny Thomas and Sephen Coates)</p>
+    </div>
+  },
+  {
+    id: 625,
+    title: 'Commodities round-up: Oil prices lower as gold maintains its allure',
+    category: 'Commodities',
+    subCategory: ['Commodities', 'Oil', 'Gold'],
+    description: <div className="blog-desc">
+      <p>The state of China’s economy and demand destruction continues to weigh on the minds of investors as China faces a property crisis, falling exports, and weak consumer spending.</p>
+    </div>,
+    authorName: 'Angela Barnes',
+    authorurl: 'https://www.yahoo.com/author/angela-barnes/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 23, 2023 - 12:44 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692878467/ncx-blog-1183_fzifdh.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The state of China’s economy and demand destruction continues to weigh on the minds of investors as China faces a property crisis, falling exports, and weak consumer spending.</p>
+    	<p>These challenges are also reflected in commodities price charts.</p>	
+    	<p>For oil, it is a case of weighing up supply and demand concerns, with countries such as Saudi Arabia extending crude output cuts into September with uncertainty over whether they will go deeper and for longer.</p>
+      <h3>Oil prices</h3>	
+    	<p>On Wednesday, demand concerns are putting more pressure on prices. US crude oil (CL=F), or West Texas Intermediate (WTI), was trading down 0.12% at $80.25 a barrel in early London trade, while Brent (BZ=F) declined 0.54% to $83.57.</p>
+      <p>Since the beginning of August, WTI has lost about 3% while Brent has lost about 2.40%.</p>
+      <p>However, Craig Erlam, senior market analyst at OANDA, said: “There's always been a risk of US rates remaining higher for longer, while China's recovery has been sluggish for months, as has their response to it.</p>
+      <p>“We need to see a significant change in the trend of the data to seriously change the outlook for crude and we haven't seen that. It may come over the next month or so but for now, we just appear to have seen crude move into a higher range between $80-$90.”</p>
+      <h3>Gold</h3>
+      <p>Meanwhile, gold (GC=F) was trading higher on Wednesday, up 0.27% at $1,931.20 an ounce.</p>
+      <p>Naeem Aslam, chief investment officer at Zaye Capital Markets, noted how the precious metal has been in a $1,900 price level battle.</p>
+      <p>“The bulls are really trying their best to keep the price at this level, as it is considered an important level of support. The fresh comment from the Richmond Fed president made traders a little nervous again, as his message was very clear: traders should think carefully if they anticipate that the Fed is done with their interest rate hike cycle.”</p>
+      <p>He also noted that any weakness in the dollar could represent an opportunity for gold prices to move higher.</p>
+      <p>Meanwhile, a dozen money managers said that they expect to maintain or raise their exposure to the precious metal in the coming 12 months with gold maintaining its allure, according to a poll by Bloomberg News between 10 August and 22 August.</p>
+      <p>More than two-thirds see gold prices rising, and five expect a clear all-time high.</p>
+      <p>“We do anticipate there’s pent-up gold demand from investors waiting for the Fed to finish,” Darwei Kung, head of commodities and portfolio manager at DWS Group, said.</p>
+      <h3>Base metals</h3>
+      <p>Iron ore was among the base metals on the rise on Wednesday, along with Nickel and Copper (HG=F).</p>
+      <p>However, gains in metal prices were limited by a firm US dollar as a stronger USD makes it more expensive to buy the greenback-priced metals.</p>
+      <p>China’s pledge to provide more support for its flagging economy may have lifted sentiment for the metals.</p>
+      <p>However, analysts at ING believe metals will stay under pressure in the second half of the year as the sluggish recovery in China will likely continue to weigh on demand.</p>
+      <p>“We believe that any improvements in metals prices will depend on the eventual implementation of China’s stimulus measures and actual demand improvement.”</p>
+    </div>
+  },
+  {
+    id: 624,
+    title: 'Exclusive-Insurers raise premiums for Black Sea tankers as tensions mount - traders',
+    category: 'Commodities',
+    subCategory: ['Insurers', 'Black sea', 'traders'],
+    description: <div className="blog-desc">
+      <p>MOSCOW (Reuters) - Insurance companies have notified charterers of ships operating in Russia's Black Sea ports of an increase in additional payments known as "war risk premiums", four traders said.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023 - 11:05 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692878118/ncx-blog-1182_y74bxh.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>MOSCOW (Reuters) - Insurance companies have notified charterers of ships operating in Russia's Black Sea ports of an increase in additional payments known as "war risk premiums", four traders said.</p>
+    	<p>A war risk premium was added to the common insurance costs for tankers last year after the start of Russia's military action in Ukraine, which Moscow calls a special military operation.</p>	
+    	<p>Military actions in the Black Sea area of Russian and Ukrainian Black Sea ports have escalated since the grain export deal fell apart in mid-July.</p>	
+    	<p>Most recently Russia reported several attacks at its Black Sea ports. So far, oil loadings from Russia's Black Sea ports have not been affected by the attacks, but risks are mounting, traders said.</p>
+      <p>The war risk premium was increased from around 1% of the cargo's cost to some 1.20-1.25%, the traders said.</p>
+      <p>The increase means every voyage will cost $200,000 per one Suezmax tanker (can carry 120,000-200,000 tonnes) more if Russian oil is delivered to India. The rise in the premium means the overall cost of the premium will be almost $1 million.</p>
+      <p>Although the sum is not huge it adds to Russia's overall oil export costs, which have soared since February 2022 due to sanctions.</p>
+      <p>At the peak of Russian supply and sanctions crisis Russian companies were paying as much as $20 million per tanker towards insurance shipping and freight costs representing more than a third of each cargo's value.</p>
+      <p>Traders added the increase was mostly applied to cargoes carrying Russian oil and products, while the premium of cargoes carrying Kazakh origin volumes was generally stable around 1%.</p>
+      <p>"Volumes originated from Russia are associated with higher risks than others, though current situation gives insurers lots of reason to raise prices for anyone operating in Russian Black Sea ports," one of the traders said.</p>
+      <p>Grain traders have expressed concerns about the security of grains shipments and the rise in war risk premium for oil tankers shows the worries have spread to wider markets.</p>
+      <p>Overall crude oil loadings from Black Sea Novorossiisk and CPC terminal account for some 2% of global supply. Oil product exports from Russia's Black Sea ports is about 4 million tonnes per year.</p>
+      <p>(Reporting by Reuters; editing by David Evans)</p>
+    </div>
+  },
+  {
+    id: 623,
+    title: 'Gold scales near two-week peak as Treasury yields retreat',
+    category: 'Commodities',
+    subCategory: ['Gold', 'Scales', 'Treasury'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold prices jumped 1% to a near two-week high on Wednesday, helped by a pullback in U.S. bond yields and the dollar as investors looked ahead to the Jackson Hole symposium for guidance on interest rates.</p>
+    </div>,
+    authorName: 'Harshit Verma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023 - 5:42 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692877537/ncx-blog-1181_junbbk.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Harshit Verma</p>
+    	<p>(Reuters) - Gold prices jumped 1% to a near two-week high on Wednesday, helped by a pullback in U.S. bond yields and the dollar as investors looked ahead to the Jackson Hole symposium for guidance on interest rates.</p>	
+    	<p>Spot gold rose 1% to $1,916.20 per ounce by 2:17 p.m. EDT (1817 GMT), after hitting its highest since Aug. 11. It was also poised to register its biggest daily percentage rise in over a month.</p>
+      <p>U.S. gold futures settled 1.1% higher at $1,948.10.</p>
+      <p>"It (gold) was a little oversold ahead of itself and we're getting a bounce on some bargain hunting and then short covering," said Bob Haberkorn, senior market strategist at RJO Futures, adding that a slight dip in yields is also helping.</p>	
+      <p>Benchmark 10-year Treasury yields slipped from near 16-year highs hit in the previous session, while the dollar fell after weak U.S. PMI data, making gold more attractive for other currency holders. [USD/] [US/]</p>
+      <p>The S&P Global's flash U.S. composite PMI index showed U.S. business activity approached the stagnation point in August, with growth at its weakest since February as demand for new business in the vast service sector contracted.</p>
+      <p>Market participants' focus will be on a speech by Federal Reserve Chair Jerome Powell at Jackson Hole on Friday for additional clues about the path for interest rates.</p>
+      <p>According to the CME's FedWatch Tool, the probability that the Fed leaves rates unchanged at its September meeting is now at 88.5%.</p>
+      <p>Gold is highly sensitive to rising U.S. interest rates, as they increase the opportunity cost of holding non-yielding bullion.</p>
+      <p>"People are expecting a continued hawkish tone from Chair Powell. It is too early for him to point to a loosening in policy on the horizon," said Daniel Ghali, commodity strategist at TD Securities.</p>
+      <p>"The markets attention is now shifting from how high will rates go to how long will rates remain high."</p>
+      <p>Spot silver gained 4.1% to $24.34 an ounce and platinum added 1.4% to $931.65. Palladium was up 0.9% at $1,273.53.</p>
+    	<p>(Reporting by Harshit Verma and Brijesh Patel in Bengaluru; editing by David Evans, Ed Osmond and Krishna Chandra Eluri)</p>
+    </div>
+  },
+  {
+    id: 622,
+    title: 'Newmont gets Aussie regulatory nod for $16.8 billion Newcrest deal',
+    category: 'Commodities',
+    subCategory: ['Newmont', 'Aussie', 'Newcrest'],
+    description: <div className="blog-desc">
+      <p>(Reuters) - Gold miner Newmont Corp said on Monday it has received clearance from Australia's competition regulator to proceed with its proposed A$26.2 billion ($16.80 billion) takeover of Newcrest Mining.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 22, 2023 - 2:13 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692877356/ncx-blog-1180_fm0g3z.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Reuters) - Gold miner Newmont Corp said on Monday it has received clearance from Australia's competition regulator to proceed with its proposed A$26.2 billion ($16.80 billion) takeover of Newcrest Mining.</p>
+    	<p>If the deal goes through, Newcrest shareholders would receive 0.400 Newmont share for each share, with an implied value of A$29.27 a share.</p>	
+    	<p>Newcrest in mid-May said it would back the takeover offer in what would be the third-largest deal ever involving an Australian company.</p>	
+    	<p>"The ACCC has assessed the transaction and considered that a public review was not required," a spokesperson for the Australian Competition and Consumer Commission told Reuters.</p>
+      <p>Newmont continues advancing other regulatory approvals and expects to close the transaction in the fourth quarter of this year, it said.</p>
+      <p>The deal still requires approvals from Australia's Foreign Investment Review Board (FIRB), as well as nods from regulators in Japan, the Philippines and Papua New Guinea.</p>
+      <p>Newcrest did not immediately respond to Reuters' requests for comment.</p>
+      <p>($1 = 1.5596 Australian dollars)</p>
+      <p>(Reporting by Harish Sridharan in Bengaluru; Additional reporting by Rishav Chatterjee; Editing by Shailesh Kuber and Sohini Goswami)</p>
+    </div>
+  },
+  {
     id: 621,
     title: 'Oil Rises for Third Day as Tighter Market Vies With Demand Risks',
     category: 'Commodities',
@@ -22,6 +331,34 @@ const data = [
       <p>Meanwhile, some refined products such as diesel — the workhorse fuel of the global economy — have started pricing in scarcity this winter, boosting their premium to the oil from which they are made. Gasoline futures in New York have risen by 15% this year, also outpacing crude.</p>
       <p>“The Chinese growth outlook is causing demand concerns while the crude oil market, including various product markets, remains exceptionally tight,” said Arne Lohmann Rasmusen, head of research at A/S Global Risk Management. “The increased backwardation indicates that the spot market is tight.”</p>
       <p>The annual Jackson Hole symposium in Wyoming, which features speakers including Federal Reserve Chair Jerome Powell, may provide clues on the direction of interest rates. More increases in borrowing costs may be coming in the US after minutes of the Fed’s July meeting showed officials remained concerned about the inflationary threat.</p>
+    </div>
+  },
+  {
+    id: 620,
+    title: 'Are Gold Bullion ETFs Better Bets Than Miners?',
+    category: 'Commodities',
+    subCategory: ['Gold', 'ETFs', 'Miners'],
+    description: <div className="blog-desc">
+      <p>The largest gold bullion ETF SPDR Gold Shares GLD is up 3.4% this year against the Gold Miners Equity ETF GDX’s 3.7% losses. The fund GLD has lost 3.6% in the past three months (as of Aug 18, 2023) against 13.4% losses seen in the miners ETF GDX.</p>
+    </div>,
+    authorName: 'Sanghamitra Saha',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 21, 2023 - 4:14 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692876980/ncx-blog-1179_vrdcgb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The largest gold bullion ETF SPDR Gold Shares GLD is up 3.4% this year against the Gold Miners Equity ETF GDX’s 3.7% losses. The fund GLD has lost 3.6% in the past three months (as of Aug 18, 2023) against 13.4% losses seen in the miners ETF GDX. In this article, we’ll tell you why bullion ETFs are currently better bets than miners, if you at all want to play the gold space.</p>
+    	<h3>Inside the Opportunities and Weakness of Gold Bullion Investments</h3>
+      <p>Inflation has significantly reduced from its 40-year peak in mid-2022. Hence, a less-hawkish Fed this year has provided much-needed support to gold bullion prices. Gold prices tend to move inversely to interest rates. When interest rates decline, non-interest-bearing gold becomes more attractive as it competes more favorably with interest-bearing investments like bonds.</p>	
+    	<p>Physical demand for gold remains robust, fueled by central bank purchases and consumer demand. Central banks from emerging markets continue to diversify their reserves by acquiring gold, reflecting their confidence in the metal's enduring value.</p>	
+    	<p>The metal is seen as a safe-haven assets. With the U.S. banking sector struggling with potential rating downgrades and the likely contagion from China’s ailing real estate sector, we may see a broad-based crash in the market. If this happens, gold bullion may gain in value due to risk-off trade sentiments.</p>
+      <p>However, inflation remains considerably above the Fed's desired 2% level. The Fed members see further upside risks to inflation, which may cause further rate hikes. This may result in higher treasury yields and increased strength of the greenback, which will go against the greenback.</p>
+      <p>Invesco DB Precious Metals Fund DBP and abrdn Physical Gold Shares ETF SGOL have lost 1.1% and 1.2% last week, respectively.</p>
+      <h3>Inside the Pain of Miners</h3>
+      <p>High oil prices are negatives. Mining companies’ 50% of production costs are closely linked to energy prices. After a moderate rally this year, crude prices have been hovering around $80-level. The WTI crude ETF USO has added 13.7% in the past three months. This should cause trouble for gold miners’ operating margins.</p>
+      <p>Earnings have been mixed-to-downbeat. Newmont Corporation NEM reported adjusted earnings were 33 cents per share, which lagged the Zacks Consensus Estimate of 39 cents. The company’s revenues of $2,683 million also missed the Zacks Consensus Estimate of $2,870.1 million. Barrick Gold Corporation GOLD came up with mixed results. While adjusted earnings beat expectations, revenues missed the same.</p>
     </div>
   },
   {
