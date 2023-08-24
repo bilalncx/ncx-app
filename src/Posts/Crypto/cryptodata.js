@@ -1,5 +1,298 @@
 const data = [
   {
+    id: 683,
+    title: 'SOL could regain its lost confidence thanks to Solana’s latest integration',
+    category: 'Crypto',
+    subCategory: ['SOL', 'Solana', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Solana Pay’s Shopify integration will allow merchants and entrepreneurs to leverage WEB3 payments. However, SOL’s price action didn’t exactly react in the best way to the news.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 24, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692866878/ncx-blog-1160_y3laqo.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Solana Pay’s Shopify integration will allow merchants and entrepreneurs to leverage WEB3 payments. However, SOL’s price action didn’t exactly react in the best way to the news.</p>
+    	<ul>
+        <li>Solana Pay finally rolls out on Shopify and it may change payment processing.</li>
+        <li>SOL maintains relative strength despite the recent sell pressure.</li>
+      </ul>
+      <p>Imagine a future where blockchain and cryptocurrencies facilitate payments while shopping. Solana Pay aims to achieve that and it recently made an important stride through its integration with Shopify.</p>	
+    	<p>According to Solana’s latest announcement, Solana Pay’s Shopify integration will allow merchants and entrepreneurs to leverage WEB3 payments. This will allow them to bypass transaction fees and third-party payment processing.</p>	
+    	<p>Note that any WEB2-based third-party payment processors usually add an extra cost to transactions. The deployment of WEB3-based solutions could thus be a game changer not only for merchants but also for shoppers.</p>
+      <p>This acts as an important milestone for the Solana blockchain because it could mark the start of more such integrations to come. If successful, Solana could unlock robust network utility. This could also increase the chances of securing more demand around SOL.</p>
+      <h3>Will the development trigger a favorable investor sentiment?</h3>
+      <p>News of Solana Pay’s integration with Shopify has the potential to influence market sentiment. This is because the development ushers in the potential for real-world use cases.</p>
+      <p>We observed a surge in Solana’s social dominance in the last 24 hours at press time. This suggested that the market reacted to the news.</p>
+      <p>The social dominance was still low compared to its largest spikes. However, the weighted sentiment achieved a more noteworthy uptick in the last three days. In other words, investors received a confidence boost which correlates with recent market lows.</p>
+      <p>Solana’s native cryptocurrency SOL recently dipped to a $20.31 low during Tuesday’s (22 August) trading session. It rallied by almost 5% in the last 24 hours which suggested that the market reacted favorably to the Solana Pay and Shopify integration.</p>
+      <p>Most of the top cryptocurrencies by marketcap were deeply oversold after the recent crash. However, SOL maintained some relative strength which helped it avoid the oversold zone.</p>
+      <p>We also observed that SOL maintained a healthy premium from its June lows. In contrast, some of the top cryptos such as Bitcoin came close to their June lows while ETH fell below its lowest price in June.</p>
+      <p>SOL was partly able to maintain some relative strength courtesy of healthy demand activity. Its volume metric registered a net gain since 21 August.</p>
+      <p>While the volume spike suggested the return of demand in line with the recent price action, SOL’s future remains uncertain. An erosion of the low market confidence could send prices back on a bearish trajectory.</p>
+    </div>
+  },
+  {
+    id: 682,
+    title: 'BNB: All fingers point to CZ as Binance stays atop market minds',
+    category: 'Crypto',
+    subCategory: ['BNB', 'CZ', 'Binance'],
+    description: <div className="blog-desc">
+      <p>The silence of CZ has caused the crypto community to keep pondering if anything was wrong with the exchange and its effect on BNB. What’s the latest?</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692866701/ncx-blog-1159_bm29gf.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The silence of CZ has caused the crypto community to keep pondering if anything was wrong with the exchange and its effect on BNB. What’s the latest?</p>
+    	<ul>
+        <li>BNB and Binance continue to be among the top discussions around the crypto community.</li>
+        <li>CZ has not yet addressed recent allegations, as more criticism trooped in.</li>
+      </ul>
+      <p>Both Binance and its native coin Binance Coin [BNB] have rarely had a week off without controversy. While the exchange and coin remain at the forefront of the crypto market’s attention, the spotlight isn’t exclusively positive.</p>	
+    	<h3>On the wrong side of the divide</h3>
+      <p>Due to these issues, Binance and BNB became the first and third fastest-rising subjects in the market. According to Santiment, one cogent reason BNB was in most of the discussion was because of the concerns about support for its price action.</p>
+      <p>Lately, Binance has come under intense scrutiny for defending the BNB value by selling its Bitcoin [BTC] holdings. And in turn, creating demand for the exchange coin. Also, the recent suspension of SEPA payouts by Binance has raised questions about regulatory compliance and its reputation.</p>
+      <p>But all hands from major players in the ecosystem point to one person— Chanpeng Zhao (CZ), the outspoken CEO of Binance. AMBCrypto had previously reported how a number of analysts have accused CZ of manipulating the market all in his bid to “save BNB.”</p>
+      <p>While there has been no concrete proof of the allegations, CZ, in an unusual fashion, has not responded publicly to the matter. The Binance CEO is an active user of X (formerly Twitter).</p>
+      <p>But an assessment of his posts and replies on the social media platform revealed that CZ has done all he can to evade responding to the accusations. However, this lack of clarity has affected BNB in other places.</p>
+      <h3>The bashing hasn’t stopped</h3>
+      <p>For instance, BNB’s weighted sentiment tanked on 18 August such that it reached lows that had never been experienced before. The weighted sentiment measures the unique social volume around an asset while indicating the acumen around the cryptocurrency.</p>
+      <p>At press time, BNB’s weighted sentiment was -3.578. This suggests that the broader market was wary of interacting or transacting the coin.</p>
+      <p>While CZ continues to remain quiet despite the criticism, other analysts have not ceased condemning the Binance CEO. The latest fault-finding has come from renowned trader Peter Brandt.</p>
+      <p>Brandt, who was responding to a Mike Alfred lambast of CZ, said Binance and its CEO were a “global scam.” He also did not leave BNB out of the picture, calling the coin a “cheap fiat.”</p>
+      <p>Meanwhile, the Open Interest in BNB has been increasing. Open interest is the total number of outstanding derivative contracts for an asset that has not been settled.</p>	
+    	<p>Therefore, the hike in the metric suggests that traders were pumping liquidity into BNB contracts.</p>
+    </div>
+  },
+  {
+    id: 681,
+    title: 'Base’s TPS surpasses Ethereum, Optimism and Arbitrum lag',
+    category: 'Crypto',
+    subCategory: ['TPS', 'Ethereum', 'Arbitrum'],
+    description: <div className="blog-desc">
+      <p>Base’s Transactions Per Second surpassed that of Ethereum on 22 August. Arbitrum and Optimism also had to give way for the Coinbase L2. What drove this flip?</p>
+    </div>,
+    authorName: 'Victor Olanrewaju',
+    authorurl: 'https://ambcrypto.com/author/victor-olanrewaju/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692866109/ncx-blog-1158_jqv4wm.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Base’s Transactions Per Second surpassed that of Ethereum on 22 August. Arbitrum and Optimism also had to give way for the Coinbase L2. What drove this flip?</p>
+    	<ul>
+        <li>friend.tech, a new application on Base, ensured that the L2 transaction outpaced others in the Ethereum ecosystem.</li>
+        <li>Base’s TVL surged, as the amount bridged exceeded $253 million.</li>
+      </ul>
+      <p>As it stands, the reign of many Ethereum [ETH] L2s has been put on hold, making way for Coinbase’s L2, Base, to take the mantle. And it’s not just that. The Ethereum Mainnet may have also stepped back for Base to take the crown of increased activity and traction.</p>	
+    	<p>How has this come to be?</p>
+      <h3>Friends help Base trump the king</h3>	
+    	<p>Not to beat around the bush, Base’s Transactions Per Second (TPS) surpassed that of Ethereum on 22 August, according to L2 Beat. As per the chart below, Ethereum’s TPS was 12.05 while Base was 15.88.</p>
+      <p>The data revealed that Base’s TPS had increased by 73.56% in the last 24 hours. Ethereum, on the other hand, decreased by 1.47% within the same timeframe. However, there was one particular reason that Base was able to achieve the milestone and its name— friend.tech.</p>
+      <p>friend.tech is a mobile application built on Coinbase L2. While it prides itself as the “marketplace for your friends,” friend.tech provides an avenue for users to tokenize their identity. And, in turn, can sell shares of themselves to their followers or anyone interested in their community.</p>
+      <p>Despite being launched only recently, friend.tech has experienced rapid growth and adoption. According to Dune Analytics, the application has amassed 97,316 unique traders. These traders have been involved in over one million transactions, valued at 39.195 ETH.</p>
+      <p>But besides Ethereum, Base has also pegged back the dominance of Arbitrum [ARB] and Optimism [OP]. Previously, AMBCrypto had reported how Base’s emergence had disrupted the L2 flow.</p>
+      <p>The daily transactions reflect the usage rate of the network on a day-to-day basis. Therefore, the hike in transactions suggested optimism around Base. If it stays the same or increases further, the project might completely overtake its predecessors.</p>
+      <p>Moreover, the integration of projects like Compound [COMP] and Aave [AAVE] also ensured that the “on-chain summer” leader attracted more users. Now, the shift has extended to transactions.</p>
+      <h3>L2 standings have changed</h3>
+      <p>According to Delphi Digital, daily transactions on Base have outstripped those of Optimism and Arbitrum combined.</p>
+      <p>At the time of writing, over $253 million had been bridged on Base. Based on Dune’s data, ETH led the cohort of assets that have appeared on the network. This was followed by stablecoins Tether [USDT] and DAI.</p>
+      <p>Also, Base’s Total Value Locked (TVL) has risen to $185.32 million, DefiLlama revealed. The surge in TVL implies that participants have come to trust Base despite a series of scams appearing on the network before its public Mainnet launch.</p>
+    </div>
+  },
+  {
+    id: 680,
+    title: 'This is how RUNE reacted to THORChain’s latest launch ',
+    category: 'Crypto',
+    subCategory: ['RUNE', 'THORChain', 'launch'],
+    description: <div className="blog-desc">
+      <p>THORChain’s lending protocol went live on 21 August while RUNE’s price continued its bull rally. RUNE’s RSI was in an overbought zone, which was bearish.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 23, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692864149/ncx-blog-1157_fjn5ix.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>THORChain’s lending protocol went live on 21 August while RUNE’s price continued its bull rally. RUNE’s RSI was in an overbought zone, which was bearish.</p>
+    	<ul>
+        <li>THORChain’s launch allows users to lend their native Layer 1 assets, like BTC and ETH, to borrow TOR.</li>
+        <li>After a short decline, RUNE’s price regained upward momentum.</li>
+      </ul>
+      <p>THORChain [RUNE] recently decoupled from the market as it enjoyed a comfortable bull rally over the past two weeks. Investors were actually expecting the token to rally further, as it was awaiting a major launch.</p>	
+    	<p>However, that was not the case, as the price witnessed a correction.</p>	
+      <h3>THORChain’s lending protocol is live</h3>
+      <p>On 21 August, THORChain announced that its lending protocol went live. With the launch, users could lend their native Layer-1 assets, like Bitcoin [BTC] and Ethereum [ETH], to THORChain and borrow a USD-denominated debt.</p>
+      <p>The new debt denominator is named TOR, and debt can be repaid in any THORChain-supported asset, including stablecoins.</p>
+      <p>The release made THORChain a hot topic of discussion, as evident from the rise in its social volume. However, its weighted sentiment dropped during that period.</p>
+      <h3>RUNE’s response was surprising</h3>
+    	<p>Though the launch had the potential to fuel RUNE’s ongoing rally, the ground reality turned out to be different. As reported earlier, there was a chance of a price correction. This turned out to be true, as on 21 August, RUNE’s price declined for a couple of hours.</p>
+      <p>Nonetheless, the token later stabilized and again gained upward momentum.</p>
+      <p>According to CoinMarketCap, RUNE’s price has increased by more than 5% in the last 24 hours. At press time, it was trading at $1.68 with a market capitalization of over $572 million.</p>
+      <p>In another spot of good news, RUNE’s Open Interest increased while its price went up. A hike in this metric suggested that the press time price trend might continue longer.</p>
+      <p>However, CryptoQuant’s data revealed that THORChain’s Relative Strength Index (RSI) was overbought, which was bearish. On top of that, both the token’s Chaikin Money Flow (CMF) and On Balance Volume (OBV) registered downticks. This could prevent the token’s price from going up any further.</p>
+      <p>But, the Exponential Moving Average (EMA) Ribbon revealed a clear bullish upper hand in the market, as the 20-day EMA was above the 55-day EMA.</p>
+    </div>
+  },
+  {
+    id: 679,
+    title: 'Cardano’s development activity impresses despite…',
+    category: 'Crypto',
+    subCategory: ['Cardano', 'Development', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Despite ADA’s vibrant on-chain vitality, price struggles persist, painting a complex portrait of innovation and challenge.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 23, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692863808/ncx-blog-1156_hopddf.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Despite ADA’s vibrant on-chain vitality, price struggles persist, painting a complex portrait of innovation and challenge.</p>
+      <ul>
+        <li>Cardano ranked as the top chain with the most development activity.</li>
+        <li>Cardano’s TVL and stablecoin market cap were also on the rise.</li>
+      </ul>
+    	<p>In 2023, Cardano [ADA] has consistently been ranked as the second-highest blockchain in development activity. However, it has overtaken the leading position in the past 30 days, becoming the blockchain with the most significant development activity.</p>	
+    	<h3>Cardano leads in dev activity</h3>
+      <p>Recent data from Santiment revealed that Cardano has successfully surpassed Polkadot [DOT] and Kusama, taking the lead as the blockchain with the highest development activity. Historically, Cardano had held the second position, but in the last 30 days, it showcased an impressive count of more than 500 development activities.</p>	
+    	<p>Polkadot and Kusama recorded around 493 combined during the same period.</p>
+      <p>Moreover, as of this writing, the pace of development activity on Cardano has not shown signs of slowing down. According to Santiment’s data, the activity score exceeded 84 at press time, with a noticeable upward trend on the chart.</p>
+      <p>While there was a decline in development activity during the previous week, it rebounded and regained momentum by the time of this report.</p>
+      <h3>Other Cardano metrics worth noting</h3>
+      <p>Cardano’s positive momentum was not confined to its development activity; its Total Value Locked (TVL) and stablecoin market cap also demonstrated growth, as evidenced by DefiLlama.</p>
+      <p>After reaching its peak in 2022, the TVL experienced a gradual decline throughout that year. However, the current year presented a different picture, as the chain’s TVL was on an upward trajectory. As of this writing, the TVL had surpassed $161 million.</p>
+      <p>In addition to the TVL increase, the stablecoin market cap on the Cardano chain has been experiencing noteworthy growth. The DefiLlama chart indicated that the stablecoin market cap’s uptrend had been more pronounced than the TVL.</p>
+      <p>As of this writing, the stablecoin market cap has exceeded $15 million. This growth in the stablecoin market cap indicated the organic expansion that the Cardano chain was undergoing.</p>
+      <h3>ADA yet to catch up on-chain positives</h3>
+      <p>Examining ADA on a daily timeframe revealed a disparity between its on-chain activities and its price performance. As of this writing, ADA’s price had retreated to the $0.2 range, following an earlier surge to the $0.4 range earlier in the year.</p>
+      <p>Trading at approximately $0.26 at press time, it experienced a decline of over 1%. Also, the price trend appeared lackluster, as evident from its position below its long and short Moving Averages (blue and yellow lines).</p>
+      <p>Furthermore, ADA’s price trajectory had positioned it near the oversold zone, a consequence of its trend, as indicated by the Relative Strength Index (RSI). This confluence of factors suggested a less-than-favorable outlook for ADA’s price movement.</p>
+    </div>
+  },
+  {
+    id: 678,
+    title: 'Shiba Inu’s burn rate spikes to over 1000%; will SHIB switch sides?',
+    category: 'Crypto',
+    subCategory: ['Shiba', 'SHIB', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>SHIB’s recent journey resembles a roller coaster, plunging since 13 August. A flicker of recovery is seen but overshadowed by earlier losses as the bearish RSI at 40 lingers.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 23, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692863450/ncx-blog-1155_o7mkvd.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>SHIB’s recent journey resembles a roller coaster, plunging since 13 August. A flicker of recovery is seen but overshadowed by earlier losses as the bearish RSI at 40 lingers.</p>
+    	<ul>
+        <li>Over 1 billion SHIB has been burned in the last 24 hours.</li>
+        <li>SHIB has been on a downtrend, and its bearish trend has continued.</li>
+      </ul>
+      <p>Shiba Inu recently experienced an unusually high burn rate, which hadn’t been observed for some time. This burn rate coincided with ongoing discussions and excitement about the Shibarium, driven by recent developments.</p>	
+	    <p>The question arises: Did SHIB’s trade volume suddenly increase, or was the burn rate an independent occurrence?</p>
+      <h3>Shiba Inu’s burn rate soars</h3>
+      <p>Based on the latest information from Shiburn, the burn rate of Shiba Inu has noticeably escalated beyond its recent patterns. The data indicates that over 1 billion tokens were burned within the last 24 hours alone.</p>
+      <p>Furthermore, the chart illustrated a staggering surge of over 1,000% in the burn rate during this same 24-hour period. Also, this recent increase in burn rate has contributed to a cumulative burn of over 2 billion tokens in the past week. This was a substantial and noteworthy development.</p>
+      <h3>SHIB volume remains the same</h3>	
+      <p>Examining the trading volume using data from Santiment revealed that, despite the heightened burn rate, there was either minimal or no notable change in the trading volume. The most substantial trading volume Shiba Inu experienced was back in July, with a peak of over 23 billion.</p>
+      <p>However, trading activities have remained subdued since then, hovering around 108 million. This suggested that a corresponding increase in SHIB trading did not instigate the recent surge in burn rate.</p>
+      <h3>Shiba Inu Shibarium’s relaunch date is yet to be known</h3>
+	    <p>As of 19 August, Shytoshi Kusama, the lead developer of Shiba Inu, communicated to the Shiba community that efforts were actively continuing on the Shibarium project. Additionally, this update followed the initial launch, which encountered difficulties leading to a delay in block production for several hours.</p>
+      <p>Subsequently, on 22 August, another blog post from the lead developer reported the successful optimization of Shibarium. The blog post highlighted other advancements and noted that testing was ongoing for the L2 platform.</p>
+      <p>While no specific relaunch date has been provided, the absence of such information doesn’t appear to have dampened the enthusiasm within the community.</p>
+      <h3>SHIB remains bearish</h3>
+      <p>Over the recent days, Shiba Inu [SHIB] experienced a notable downward trajectory, clearly illustrated by its daily timeframe chart. Starting from 13 August, the chart has depicted a consistent decline, punctuated by occasional pauses.</p>
+      <p>As of this writing, SHIB was trading with a marginal gain, albeit under 1%, which appeared more as a slight rebound from the substantial losses it had encountered. Furthermore, the Relative Strength Index (RSI) for SHIB stood at 40, underscoring an ongoing bearish trend.</p>
+    </div>
+  },
+  {
+    id: 677,
+    title: 'Starknet releases new update; will it drive adoption? ',
+    category: 'Crypto',
+    subCategory: ['Starknet', 'Crypto', 'Update'],
+    description: <div className="blog-desc">
+      <p>As a part of Starknet Quantum Leap, the rollup launched v0.12.1 on Mainnet, adding new features to improve efficiency </p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 22, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692862501/ncx-blog-1154_stzjko.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>As a part of Starknet Quantum Leap, the rollup launched v0.12.1 on Mainnet, adding new features to improve efficiency </p>
+      <ul>
+        <li>Starknet, in one instance, outperformed zkSync Era in terms of active addresses.</li>
+        <li>The rollup was faring well against popular L2s like Optimism and Arbitrum.</li>
+      </ul>
+    	<p>Like most rollups and L2s, Starknet’s popularity has also been on the rise for several weeks. It launched its latest network update, Starknet v0.12.1, on 21 August, which added new features to the rollup.</p>	
+    	<p>As revealed earlier, the upgrade improves the efficiency of the sequencer capacity by addressing the issue of failed transactions. While Starknet pushed its network update, other rollups like Polygon zkEVM and zkSync Era also continued to grow.</p>	
+    	<h3>Starknet gets a network update</h3>
+      <p>As a part of the Starknet Quantum Leap, the rollup launched v0.12.1 on Mainnet. The update aims to improve transaction efficiency by making quite a few changes. The upgrade adds a validation stage before sequencing to filter out invalid transactions earlier.</p>
+      <p>Failed transactions will have a reverted status and be included in the block, paying fees. Other notable features include mempool validation and Keccak built-in.</p>
+      <p>While the update was pushed, Starknet’s TVL, after a decline, gained upward momentum. However, after registering spikes on 19 August, both its active addresses and daily transactions sank.</p>
+      <h3>Other rollups are buckling up</h3>
+      <p>Not only Starknet, but zkEVM also reached a new milestone. The rollup’s total deposits exceeded the $115 million mark. Not only that, but Polygonscan’s data revealed that zkEVM’s total unique addresses also crossed 400k a few days after the rollup completed five months of its deployment.</p>
+      <p>zkSync Era’s performance was no less, as it outperformed Ethereum [ETH], Arbitrum One, Optimism [OP], and other rollups in a key metric. The rollup recently mentioned in a tweet that its transactions per second reached a new all-time high of 13.44 on 20 August 2023.</p>
+      <p>Considering the rollups’ updates, it was important to check how they were faring against each other. As per Artemis, zkSync Era continued to dominate zkEVM and Starknet in all key metrics. However, Starknet managed to outperform zkSync in terms of active addresses on 28 July 2023.</p>
+      <p>Recently, the rollup also flipped zkEVM in terms of TVL, reflecting Starknet’s growth. Interestingly, Starknet fared well against top L2s like Optimism and Arbitrum. This was evident from the daily active addresses graph, as they were closely knit.</p>
+    </div>
+  },
+  {
+    id: 676,
+    title: 'What to expect as Avalanche prepares for another token unlock',
+    category: 'Crypto',
+    subCategory: ['Avalanche', 'Token', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Amidst price challenges, Avalanche readies for a significant unlock event. Despite recent declines, the unlock introduces intrigue and potential impact.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 22, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692862011/ncx-blog-1153_yrp2uz.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Amidst price challenges, Avalanche readies for a significant unlock event. Despite recent declines, the unlock introduces intrigue and potential impact.</p>
+    	<ul>
+        <li>More AVAX, representing over 2% of the current supply, will be unlocked on 26 August.</li>
+        <li>AVAX has continued to decline alongside its market cap.</li>
+      </ul>
+      <p>Avalanche [AVAX] has faced a challenging period recently, with its price experiencing a noteworthy decrease. Despite this decline, the planned unlock event is still on track and is set to occur later this week. This event will result in the release of additional AVAX into circulation.</p>	
+    	<h3>The Avalanche unlocks</h3>
+      <p>Based on information collected from Token Unlocks, Avalanche is scheduled to undergo an unlock event later this week. The data indicated that a total of 9.54 million AVAX, equivalent to a value exceeding $100 million, would be unlocked on 26 August.</p>	
+    	<p>The details from Token Unlocks revealed that these unlocked AVAX tokens would be allocated among the Foundation, partners, and the team, with a portion also designated for airdrops.</p>
+      <p>About 53% of the maximum supply has been unlocked, and the forthcoming unlock event accounts for 2.77% of the circulating supply. However, it was worth noting that there has been a recent decrease in the market capitalization of the circulating supply.</p>
+      <h3>Avalanche market cap declines as unlock approaches</h3>
+      <p>As of this writing, Avalanche’s circulating supply was more than 344 million tokens, with a market capitalization surpassing $3.6 billion, as reported by CoinMarketCap.</p>
+      <p>Nevertheless, the visual representation illustrated a nearly $1 billion decline in market capitalization for AVAX during August alone. As of this writing, the token had experienced an almost 2% decrease in value.</p>
+      <p>This decline could be attributed to the continuous drop in price that Avalanche has encountered over the preceding weeks.</p>
+      <h3>AVAX maintains a downward trend</h3>
+      <p>Examining the daily timeframe chart of Avalanche revealed that the decline in its price was initiated in July, although the most substantial drop occurred during August. As of this writing, the token was experiencing an almost 3% decrease, with a trading value hovering around $10.5.</p>
+      <p>This downward price trend was evident in the Relative Strength Index (RSI) and the Moving Average (MA). The RSI was recorded below 30. This indicates an oversold condition.</p>
+      <p>Additionally, the price was below its short-term and long-term Moving Averages, represented by the yellow and blue lines.</p>
+      <p>While the impending unlock event might raise concerns given Avalanche’s current trajectory, its impact should not be significantly pronounced. However, if any effects are to manifest, they are unlikely to be immediate.</p>
+    </div>
+  },
+  {
     id: 675,
     title: 'What Monero’s northbound momentum tells you',
     category: 'Crypto',
