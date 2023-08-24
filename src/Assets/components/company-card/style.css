@@ -1,0 +1,86 @@
+/* desktop styling */
+.accnt__v.one {background: #000000; padding: 80px 0px;}
+.accnt__v.one .row {margin: 0px;}
+.accnt__v.one .row .col {padding: 0px; width: 50%; flex: inherit; display: flex; flex-direction: column; justify-content: center;}
+.accnt__v.one .row .col.mgi img{width: 100%; max-width: 500px; margin: 0 auto;}
+.accnt__v.one .row .col h2 {color: #FFFFFF; font-size: 46px; font-family: 'urbanist-medium'; line-height: 50px; margin-bottom: 30px;}
+.accnt__v.one .row .col h2 span{display: block;}
+.accnt__v.one .row .col p {color: #FFFFFF; font-size: 18px; font-family: 'urbanist-regular';}
+.accnt__v.one .row .col a {font-size: 16px; color: #FFFFFF; text-transform: inherit; padding: 10px 25px; border: 1px solid #FFFFFF; border-radius: 50px; margin-top: 30px; width: fit-content; transition: 0.5s; box-shadow: 0 0 15px hsla(0,0%,100%,.5);}
+.accnt__v.one .row .col a:hover{background: #FFFFFF; color: #000000; transition: 0.5s;}
+.accnt__v.tw{background: #FFFFFF; padding: 80px 0px;}
+.accnt__v.tw .row .col {padding: 0px; width: 50%; flex: inherit; display: flex; flex-direction: column; justify-content: center;}
+.accnt__v.tw .row .col img{width: 100%; max-width: 600px; margin: 0 auto; margin-right: 0px;}
+.mla h2{color: #000000; font-size: 46px; font-family: 'urbanist-medium'; line-height: 50px; margin-bottom: 30px; padding-right: 80px;}
+.mla {padding-right: 50px !important;}
+.mla ul, .sdf ul{padding-left: 0px; margin-bottom: 0px; padding-right: 160px;}
+.mla ul li, .sdf ul li {font-size: 18px; font-family: 'urbanist-regular'; line-height: 24px; list-style-type: none; padding: 0px 0px 15px 40px; position: relative;}
+.mla ul li:before{content: ''; background: url('../../images/tick-sim.svg'); background-repeat: no-repeat; background-size: 100%; width: 20px; display: block; position: absolute; height: 20px; left: 0px; top: 7px;}
+.mla a {width: fit-content; color: #000000; font-family: 'urbanist-medium'; font-size: 16px; text-transform: inherit; padding: 10px 25px; border-radius: 50px; margin-top: 15px; border: 1px solid #000000; transition: 0.5s;}
+.mla a:hover{background: #000000; color: #FFFFFF; transition: 0.5s;}
+.sdf ul li{color: #FFFFFF; padding-left: 35px;}
+.sdf ul li:before{content: ''; background: url('../../images/white-vk.svg'); background-repeat: no-repeat; background-size: 100%; width: 20px; display: block; position: absolute; height: 20px; left: 0px; top: 4px;}
+.accnt__pg a:focus, .accnt__pg a:focus-visible{text-decoration: none !important; outline: none !important;}
+.accnt__v.asczz {padding: 100px 0px;}
+.accnt__v.asczz h2 {font-size: 40px; font-family: 'urbanist-medium'; text-align: center;}
+.row.zxse {margin: 0px; padding-top: 70px;}
+.ncxcard01 img {height: 190px; width: auto;}
+.ncxcard01 h3 { font-size: 22px; font-family: 'urbanist-regular'; margin: 10px 0px 20px 0px;}
+.ncxcard01 p { font-size: 16px; font-family: 'urbanist-regular'; margin-bottom: 20px; text-align: justify; min-height: 138px;}
+.ncxcard01 a { font-size: 16px; font-family: 'urbanist-medium'; color: #000000; border-bottom: 1px solid; position: relative;}
+.ncxcard01 a:after{content: ''; background: url(../../images/btn_arow.svg); width: 16px; height: 16px; position: absolute; display: block; right: -25px; top: 3px; }
+#NCXCreditCardSlider .carousel__slider-tray {display: flex;}
+#NCXCreditCardSlider .carousel__slider-tray .carousel__slide {padding: 0px !important; height: unset;}
+#NCXCreditCardSlider .carousel{position: relative !important; width: 100% !important; overflow: hidden;}
+#NCXCreditCardSlider .carousel .slider { max-width: 1350px; margin: 0 auto; position: relative; padding: 70px 0px 0px 0px !important;}
+.buttonNext{padding: 0px; background: none; border: none; background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important; height: 638px !important; width: 150px !important; position: absolute; right: 0px; top: 0px;}
+.buttonBack{padding: 0px; background: none; border: none; background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important; height: 638px !important; width: 150px !important; position: absolute; left: 0px; top: 0px; transform: rotate(180deg);}
+button:disabled{display: none;}
+#NCXCreditCardSlider .horizontalSlider___281Ls{overflow: unset !important;}
+article.ncxcard01 {padding-right: 50px; padding-left: 50px; border-right: 0.5px solid rgba(0,0,0,1);}
+article.ncxcard01.vb{border: none;}
+.buttonBack svg {transform: rotate(-180deg);}
+div#NCXCreditCardSlider.mobile-ss{display: none;}
+.accnt__pg details {border-bottom: 1px solid #FFFFFF !important;}
+.accnt__pg .accordian details summary {font-family: 'urbanist-regular' !important;}
+.accnt__pg .accordian details[open] .contt{border: none !important; padding-bottom: 0px !important;}
+p.bnR {margin-bottom: 5px !important;}
+ul.czP li {font-size: 16px; color: #FFFFFF; font-family: 'urbanist-light' !important; list-style-type: disc !important;}
+ul.czP{padding-left: 20px !important; margin-bottom: 20px !important;}
+.row.xcm {margin: 0px;}
+
+@media screen and (min-width: 801px) and (max-width: 1100px){
+    .accnt__v.one .row .col h2, .mla h2, .accnt__v.asczz h2{font-size: 36px; padding: 0px;}
+    .mla ul, .sdf ul{padding-right: 0px;}
+    .accnt__v.one .row .col.mgi img{max-width: 400px;}
+    article.ncxcard01{padding: 0px 30px;}
+}
+
+@media screen and (max-width: 800px){
+    div#NCXCreditCardSlider {display: none;}
+    div#NCXCreditCardSlider.mobile-ss{display: block !important;}
+    #NCXCreditCardSlider.mobile-ss .buttonBack, #NCXCreditCardSlider.mobile-ss .buttonNext {height: 40px !important; width: 40px !important; position: relative !important; right: inherit !important; top: inherit !important; display: inline-block !important; margin: 0px 5px 0px 5px !important;}
+    .bvb {padding-top: 40px; text-align: center;}
+    #NCXCreditCardSlider .carousel .slider{height: unset}
+    article.ncxcard01{padding: 0px 30px;}
+    .col.mgi{display: none !important;}
+    .accnt__v.one .row .col{width: 100% !important; align-items: center;}
+    .accnt__v.one {background: url(https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692868067/imv_v1zf5g.png); background-size: cover; background-repeat: no-repeat; padding: 120px 0px !important;}
+    .accnt__v.one .row .col ul{display: none !important;}
+    .accnt__v.one .row .col h2{font-size: 26px; font-family: 'urbanist-regular' !important; line-height: 34px; text-align: center;}
+    .accnt__v.one .row .col a{margin-top: 5px; font-size: 14px; padding: 8px 20px;}
+    .accnt__pg div#compare-cards:before, .accnt__pg div#compare-cards:after{display: none !important;}
+    .accnt__pg div#compare-cards .card_rnag_mbl .carousel__slider{min-height: 550px !important; height: 550px;}
+    .accnt__v.tw{padding: 50px 0px;}
+    .accnt__v.tw .row .col {width: 100% !important; padding: 0px !important;}
+    .accnt__v.tw .row .col h2 {padding: 0px; font-size: 26px; text-align: center; margin-bottom: 20px; line-height: 34px;}
+    .accnt__v.tw .row .col.mla ul {padding: 0px;}
+    .mla ul li:before{width: 15px; height: 15px;}
+    .mla ul li, .sdf ul li{font-size: 16px; line-height: 20px; padding: 0px 0px 10px 25px;}
+    .mla a {font-size: 14px; margin-top: 20px; padding: 8px 20px;}
+    .accnt__v.tw .row .col:last-child{margin-top: 20px;}
+    .accnt__v.asczz{padding: 50px 0px;}
+    .accnt__v.asczz h2 {font-size: 24px; line-height: 34px; width: 80%; margin: 0 auto;}
+    #NCXCreditCardSlider .carousel .slider{padding-top: 30px !important;}
+    .rtD {text-align: center;}
+}

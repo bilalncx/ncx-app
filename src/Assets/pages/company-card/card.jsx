@@ -1,5 +1,5 @@
 import React from "react";
-import Desktop from '../../components/accounting/desktop';
+import Desktop from '../../components/company-card/desktop';
 import MyHeader from '../../components/header/header';
 import MyFooter from "../../components/footer/footer";
 

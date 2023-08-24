@@ -1,0 +1,14 @@
+.qwm.one{background: url(https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692885875/background-2_k4ggiw.png);
+background-repeat: no-repeat; background-size: cover; padding: 140px 0px 80px 0px; background-color: #000000;}
+.row.caz{margin: 0px;}
+.row.caz .col{width: 50%; padding: 0px; flex: inherit;}
+.caz h2{font-size: 40px; line-height: 48px; font-family: 'urbanist-medium'; color: #FFFFFF; margin-bottom: 30px;}
+.caz p{font-size: 18px; line-height: 26px; font-family: 'urbanist-regular'; color: #FFFFFF; width: 75%; margin: 0 auto; margin-left: 0px; margin-bottom: 30px;}
+.caz a {color: #FFFFFF; text-transform: initial; font-size: 16px; font-family: 'urbanist-regular'; letter-spacing: 0; transition: 0.5s; box-shadow: 0 0 15px hsla(0,0%,100%,.5); border: 1px solid #FFFFFF; border-radius: 50px; padding: 10px 20px; background: rgba(255,255,255,0.1);}
+.caz a:hover{background: #FFFFFF; color: #000000; transition: 0.5s;}
+.caz a:focus, .caz a:focus-visible{outline: none; text-decoration: none;}
+.yuio{height: 40px; padding: 0px !important; text-align: center; display: flex; justify-content: center; align-items: center;}
+.yuio img{height: 30px; width: auto;}
+.eght img{width: auto; height: 20px}
+.yuio.forth img{width: auto; height: 20px}
+.partner.va{padding-top: 150px;}
