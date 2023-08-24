@@ -1,9 +1,7 @@
 import React from "react";
 import './style.css';
 import Button from "@mui/material/Button";
-import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
-import { ReactComponent as CardLeftArrow } from '../../images/card_leftarrow.svg';
-import { ReactComponent as CardRightArrow } from '../../images/card_rightarrow.svg';
+import { CarouselProvider, Slider, Slide } from 'pure-react-carousel';
 import Promo1 from '../../images/promo-1.png';
 import Promo2 from '../../images/promo-2.png';
 import Promo3 from '../../images/promo-3.png';
@@ -46,43 +44,43 @@ function DigitalBusinessAcnt()
                     >
 
                     <Slider>
-                        <Slide index={0} className="yuio">
+                        <Slide index={0} className="qsfg">
                             <img src={Promo1} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={1} className="yuio">
+                        <Slide index={1} className="qsfg">
                             <img src={Promo2} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={2} className="yuio">
+                        <Slide index={2} className="qsfg">
                             <img src={Promo3} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={3} className="yuio forth">
+                        <Slide index={3} className="qsfg forth">
                             <img src={Promo4} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={4} className="yuio">
+                        <Slide index={4} className="qsfg">
                             <img src={Promo5} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={5} className="yuio">
+                        <Slide index={5} className="qsfg">
                             <img src={Promo6} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={6} className="yuio">
+                        <Slide index={6} className="qsfg">
                             <img src={Promo7} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={7} className="yuio eght">
+                        <Slide index={7} className="qsfg eght">
                             <img src={Promo8} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={8} className="yuio">
+                        <Slide index={8} className="qsfg">
                             <img src={Promo9} alt="ncx-partner"/>
                         </Slide>
 
-                        <Slide index={9} className="yuio">
+                        <Slide index={9} className="qsfg">
                             <img src={Promo10} alt="ncx-partner"/>
                         </Slide>
 

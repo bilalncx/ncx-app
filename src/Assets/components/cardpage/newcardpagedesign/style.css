@@ -900,7 +900,7 @@ img.mbL_fwc{
         margin-top: 40px;
     }
     .col.vwev .accordian details:last-child{
-        border-bottom: none;
+        border-bottom: none !important;
     }
     .inservv.desktop{
         display: none;
