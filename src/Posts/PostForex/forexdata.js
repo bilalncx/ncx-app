@@ -1,5 +1,236 @@
 const data = [
   {
+    id: 652,
+    title: 'Powell Pushes Dollar to Longest Weekly Win Streak in 15 Months',
+    category: 'Forex',
+    subCategory: ['Powell', 'Dollar', 'streak'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The greenback climbed while US Treasuries slipped after Federal Reserve Chair Jerome Powell said policymakers are prepared to raise interest rates further if needed in the fight to reign in inflation.</p>
+    </div>,
+    authorName: 'Anya Andrianova',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 26, 2023 - 12:28 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693045625/ncx-blog-1202_o7xk8c.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The greenback climbed while US Treasuries slipped after Federal Reserve Chair Jerome Powell said policymakers are prepared to raise interest rates further if needed in the fight to reign in inflation.</p>
+    	<p>The Bloomberg Dollar Spot Index strengthened on Friday, bringing its weekly advance to 0.2%. The US currency is poised to cap off a six-week streak of gains, the longest since May 2022. All Group of 10 currencies minus the Australian dollar weakened against the greenback this week as investors contemplate the Fed’s path.</p>	
+    	<p>“Powell is even slightly more hawkish than expected,” said Valentin Marinov, head of G-10 FX strategy at Credit Agricole. “The persistent tightening of financial conditions could erode risk sentiment in another boost to the dollar.”</p>	
+    	<p>The dollar has been rebounding as hope builds that the US may be able to skirt a recession while the Fed may have to persist in its rate hiking regime for a little bit longer to bring down inflation to the central bank’s 2% target.</p>
+      <p>Expectations for additional rate increases crept higher during and then after Powell’s speech. Overnight index swaps are pricing in around 17 basis points of additional rate hike premium for the November policy meeting, up from 15 basis points at Thursday’s close. That suggests a 68% chance of a 25 basis point hike at the meeting.</p>
+      <p>Investors will now look to next week’s labor data for more clarity on the Fed’s rate path.</p>
+      <p>“Powell’s ability to stay firm on inflation is helped by upward revisions to growth expectations,” Societe Generale strategist Kit Juckes said. “He spent much more time making sure we understand they will keep policy tight until they win the inflation fight than talking about growth.”</p>
+      <p>The euro nearly erased its loss on the day after European Central Bank President Christine Lagarde said the ECB will set interest rates as high as needed to tame inflation. The currency earlier fell to a session low of 1.0766 per dollar, the weakest level since mid-June.</p>
+      <p>For UBS Global Wealth Management’s Solita Marcelli, the euro offers more upside than the dollar, and she expects the Fed to end its tightening cycle ahead of the ECB.</p>
+      <p>“Our base case is that the Fed has already reached the end of its tightening cycle,” wrote Marcelli wrote in a report, adding that “views on the Fed could continue to shift in response to data over coming weeks.”</p>
+      <p>--With assistance from George Lei and Edward Bolingbroke.</p>
+    </div>
+  },
+  {
+    id: 651,
+    title: 'GBP/JPY Weekly Forecast – British Pounds Shows Hesitation',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has initially tried to rally during the course of the week we gave back gains to show a little bit of hesitation against the Japanese yen. That being said, this is a market that is still very well supported by interest rate differentials, and I look at this through the prism of buying on the dip.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 6:08 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693045397/ncx-blog-1201_qflsdl.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The British pound has initially tried to rally during the course of the week we gave back gains to show a little bit of hesitation against the Japanese yen. That being said, this is a market that is still very well supported by interest rate differentials, and I look at this through the prism of buying on the dip.</p>
+    	<p>Yes, I can see that we may be forming a tweezer top, but at the end of the day, the fundamentals will win over a couple of candlesticks. That being said, if we do see some type of turnaround, it’s not until we break down below the ¥180 level that you can take a sell off serious at all. Even then, you probably have supported just above the ¥175 level.</p>	
+	    <p>The interest rate differential is still huge, and therefore traders are getting paid to hang on to this currency position going forward. If we can break above the top of the potential tweezer top, then the market has the ability to run toward the ¥187.50 level, possibly even the ¥190 level. Longer-term, I would not be surprised at all see this pair reached the ¥200 level, it’s obvious that we got a little ahead of ourselves a while ago, and what we are seeing now is essentially the market trying to work off some of that excess profit.</p>	
+    	<p>Another thing that you need to pay attention to is the fact that liquidity will increase here rather soon, and that could see the market reacting as to how the larger players get involved after their holiday season.</p>
+    </div>
+  },
+  {
+    id: 650,
+    title: 'AUD/USD Weekly Forecast – Australian Dollar Continues to Test Support',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has gone back and forth during the course of the week, as we continue to see a lot of noisy trading. It looks as if the 0.65 level in the 0.64 level both offer a barrier that the market will have to deal with. That being said, it certainly looks as if there is more selling pressure than buying pressure. And on shorter-term charts, it’s been more or less a “fade the rally” scenario.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 6:04 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693045246/ncx-blog-1200_tkmjnu.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Weekly Technical Analysis</h3>
+	    <p>The Australian dollar has gone back and forth during the course of the week, as we continue to see a lot of noisy trading. It looks as if the 0.65 level in the 0.64 level both offer a barrier that the market will have to deal with. That being said, it certainly looks as if there is more selling pressure than buying pressure. And on shorter-term charts, it’s been more or less a “fade the rally” scenario.</p>
+	    <p>If we break down below the previous weekly candlestick, it’s very possible that the Aussie dollar goes looking to the 0.62 level underneath, which has also been important more than once. Either way, expect to see a lot of noisy trading, and if we do break out to the upside, we could see a run to the 0.66 level, but we have to get through the crucial 0.65 level first.</p>	
+	    <p>Keep in mind that the Australian dollar is highly sensitive to global growth and the commodity markets. In other words, there are a lot of external influences that can come into the picture and give people headaches. If and when we see markets react to those, we need to understand that the Australian central bank itself is somewhat ambivalent, some are not necessarily trading on their monetary policy. However, the US central bank is rather tight with its monetary policy, some of which has shown itself in this market. I do believe that this is a scenario where we have a lot of noise ahead, and therefore you need to be cost efficient with your position sizing. In the end, this is a market that looks very bearish, but could turn around on a dime.</p>
+    </div>
+  },
+  {
+    id: 649,
+    title: 'GBP/JPY Forecast – British Pound Finds Buyers on the Dip',
+    category: 'Forex',
+    subCategory: ['GBP', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound initially fell during the trading session on Friday, but turned around to show signs of life again. By doing so, the market looks as if it is trying to get back to the ¥185 level, an area that is a large, round, psychologically significant figure.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 5:58 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693045054/ncx-blog-1199_qzgovf.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>British Pound vs Japanese Yen Technical Analysis</h3>
+	    <p>The British pound initially fell during the trading session on Friday, but turned around to show signs of life again. By doing so, the market looks as if it is trying to get back to the ¥185 level, an area that is a large, round, psychologically significant figure. If we were to break above the top of the previous candlestick, it opens up the possibility of a move to the ¥186.50 level. On the other hand, if we were to break down below the bottom of the candlestick on Friday, then we could see a move toward the 50-Day EMA underneath, which is sitting around the ¥181.50 level.</p>
+	    <p>That being said, the British pound continues to enjoy more demand than the Japanese yen as the interest rate differential between the 2 economies is wide enough to drive a freight train through. All things being equal, this is a market that I think eventually will break above the ¥185 level, and go looking to much higher levels.</p>	
+    	<p>If that’s going to be the case, I think this ends up being a nice buying opportunity but with all of the uncertainty out there, you need to be cautious with your position sizing. In this environment, things could get rather ugly, and therefore you need to make sure that you take your time building up a position, but recognizes the fact that once momentum comes back into the market and traders are back from summer holiday, the thing could get moving rather quickly.</p>	
+	    <p>Until the Bank of Japan changes its overall attitude, I just do not see a situation where the Japanese yen picks up any significant strength, at least for any significant amount of time. With that being the case, you have to look at this through the prism of finding value as it occurs, and then just simply taking advantage of it. The overall interest rate differential between the 2 currencies will continue to be the major driver of where we go next, as traders get paid to hang on to this position over the longer term. Shorting isn’t a possibility until we break down below ¥180 at the very least.</p>
+    </div>
+  },
+  {
+    id: 648,
+    title: 'AUD/USD Forecast – Australian Dollar Tries to Stabilize',
+    category: 'Forex',
+    subCategory: ['AUD', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The Australian dollar has gone back and forth during the trading session on Friday, hanging onto the 0.64 level. The 0.64 level was the bottom of a recent consolidation that a lot of people will be paying attention to, and therefore it makes a lot of sense that we would see noise in this general vicinity. With that being said, if we do break down below the 0.64 level, then it’s likely that we see a drop down to the 0.63 level.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 5:54 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693044843/ncx-blog-1198_edkklx.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>Australian Dollar vs US Dollar Technical Analysis</h3>
+	    <p>The Australian dollar has gone back and forth during the trading session on Friday, hanging onto the 0.64 level. The 0.64 level was the bottom of a recent consolidation that a lot of people will be paying attention to, and therefore it makes a lot of sense that we would see noise in this general vicinity. With that being said, if we do break down below the 0.64 level, then it’s likely that we see a drop down to the 0.63 level.</p>
+	    <p>Alternatively, if we can rally from here, the 0.65 level comes into the focus of traders, as it has been resistance recently. A lot of this will come down to the Federal Reserve and its monetary policy, or perhaps better put, what people believe it will be. If we can break above the 0.65 level, then it opens up the possibility of a move to the 0.66 level, but I think it would take a significant turnaround by Jerome Powell to make that happen.</p>	
+	    <p>Either way, I would anticipate a lot of noisy trading in the short-term, followed by perhaps a more sustainable rally or fall in roughly 2 weeks. After all, traders are coming back from summer vacation, and that will bring a lot more liquidity into the market. You should also keep in mind that the Australian dollar is highly sensitive to commodity markets and of course global growth. Both of those are a bit of a mixed bag right now so to be interesting to see how this plays out but the “push/pull” attitude of the market probably continues to be the mainstay here.</p>	
+    </div>
+  },
+  {
+    id: 647,
+    title: 'USD/JPY Weekly Forecast – US Dollar Continues to Grind Against the Japanese Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has gone back and forth during the course of the trading week against the Japanese yen, as it looks like we are trying to figure out where we are going to go longer term. At this point, I think it’s very possible that we still have the likelihood of a move toward the ¥150 level, but it may take some time to get there.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 5:43 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693044624/ncx-blog-1197_bggvln.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>US Dollar vs Japanese Yen Weekly Technical Analysis</h3>
+    	<p>The US dollar has gone back and forth during the course of the trading week against the Japanese yen, as it looks like we are trying to figure out where we are going to go longer term. At this point, I think it’s very possible that we still have the likelihood of a move toward the ¥150 level, but it may take some time to get there.</p>
+    	<p>Alternatively, I think we have to look at this through the prism of finding value on dips, and recognize that there is going to be a lot of noise overall. Because of this, we have to be cautious about position sizing because it is going to be noisy, but I certainly have no interest in shorting this market.</p>	
+    	<p>Looking ahead, I think that the market will probably start to see more liquidity affect things as traders come back from holiday, and then of course he is going to be a major influence on the bond markets as well. As long as the Bank of Japan continues to see the need to do yield curve control, I just don’t see how the Japanese yen strengthens for any significant amount of time.</p>	
+    	<p>I also recognize that the US dollar remains very bullish from a standpoint of interest rates, especially against this particular currency. If we start to see a little bit of a run to safety, it’s possible that we see a move back to the yen, but at the end of the day the markets always seem to end up with the US dollar on their mind in those times. With this, I think it’s probably only a matter of time before we go much higher, with ¥150 being the initial target.</p>
+    </div>
+  },
+  {
+    id: 646,
+    title: 'GBP/USD Weekly Forecast – British Pound Slams Into Trendline',
+    category: 'Forex',
+    subCategory: ['GBP', 'USD', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The British pound has initially tried to rally during the trading week, but struggled and the 200-Week EMA to turn things around and show signs of ugly negativity. At this point, we are testing a major support region, and it’s possible that we could see a breakdown, but a lot of this is going to come down to how the market reacts to the Jackson Hole speeches. At this point, the market is likely to continue to see a lot of volatility, and therefore I think you need to be cautious with your position size.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 5:39 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693044384/ncx-blog-1196_dmjpfn.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+    	<h3>British Pound vs US Dollar Weekly Technical Analysis</h3>
+    	<p>The British pound has initially tried to rally during the trading week, but struggled and the 200-Week EMA to turn things around and show signs of ugly negativity. At this point, we are testing a major support region, and it’s possible that we could see a breakdown, but a lot of this is going to come down to how the market reacts to the Jackson Hole speeches. At this point, the market is likely to continue to see a lot of volatility, and therefore I think you need to be cautious with your position size.</p>
+    	<p>That being said, if we do turn around and take out the top of the candlestick for this week, and perhaps even the one previous, that opens up a move to the 1.30 level. In the other direction, if the market breaks down below the lows of the week, then we could very well move down to the 50-Week EMA, near the 1.24 level.</p>	
+    	<p>In general, this is a situation where you need to be very cautious, but I do think that it is probably only a matter time before we get a bigger move. Once we do, it should have legs, as traders are coming back from holiday and putting serious money to work. In the meantime, it’s probably prudent that you keep your position size reasonable, and therefore you probably want to layer into any position that you are getting involved in.</p>	
+    	<p>It’s been a nice run higher, but that doesn’t necessarily mean that we are ready to turn around right away. However, if Jerome Powell shocks the markets with a little bit of hesitation, that could send the US dollar much lower, and therefore the British pound much higher.</p>
+    </div>
+  },
+  {
+    id: 645,
+    title: 'USD/JPY Forecast – US Dollar Struggles Against Yen',
+    category: 'Forex',
+    subCategory: ['USD', 'JPY', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>The US dollar has initially tried to rally against the Japanese yen, but has also seen a little bit of a pullback as we wait for the Jackson Hole Symposium speeches. That being said, it is still very much an uptrend and it’s difficult to bet against it.</p>
+    </div>,
+    authorName: 'Christopher Lewis',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 5:30 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693044168/ncx-blog-1195_osrkdu.webp',
+    content: <div className="blog-content">
+      <p>In this article:</p>
+	    <h3>US Dollar vs Japanese Yen Technical Analysis</h3>
+	    <p>The US dollar has initially tried to rally against the Japanese yen, but has also seen a little bit of a pullback as we wait for the Jackson Hole Symposium speeches. That being said, it is still very much an uptrend and it’s difficult to bet against it. Because of this, I think you have got a situation where you have to pay close attention to the overall attitude of the markets, and recognizes that we are still in the consolidation area of what could be thought of as a bullish flag.</p>
+	    <p>With that in mind, I’m a bit cautious to get short anytime soon and I think that more likely than not, pullbacks are going to end up being buying opportunities before it is all said and done. After all, the Federal Reserve remains very tight with his monetary policy, and of course the Bank of Japan is doing everything it can to keep interest rates low, which is a killer of currency.</p>	
+    	<p>All things being equal, I do think that pullbacks we bought into and I think that it is probably only a matter of time before we truly take off to the upside. Once we do, then we are going to threaten the ¥147.50 level, and then possibly the ¥150 level. In fact, I would not surprise me at all to see the US dollar go much higher against the Japanese yen.</p>	
+    	<p>If we were to break down below the ¥144 level, then I think you might have a little bit of a deeper correction on your hands, but it’s not necessarily something I’m looking for at the moment. With this, I anticipate that we will see a lot of noisy behavior, but ultimately even if we were to break down below there, I think the “floor in the market” is probably closer to the ¥142.50 level, an area that also features not only historical support and resistance, but the 50-Day EMA in that same general vicinity. With this, I will be looking for opportunities to pick up “cheap US dollars” along the way. I have no interest in selling whatsoever.</p>
+    </div>
+  },
+  {
+    id: 644,
+    title: 'Marketmind: Dollar rockets as Powell trumps AI',
+    category: 'Forex',
+    subCategory: ['Dollar', 'AI', 'Marketmind'],
+    description: <div className="blog-desc">
+      <p>Hopes for a late August bloom in world markets were put on hold as investors hunkered down for a sobering assessment of the long-term interest rate trajectory from the Federal Reserve boss later on Friday - sending the dollar soaring again in the process.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 2:04 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693043924/ncx-blog-1194_ukhiea.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <p>A look at the day ahead in U.S. and global markets from Mike Dolan</p>
+    	<p>Hopes for a late August bloom in world markets were put on hold as investors hunkered down for a sobering assessment of the long-term interest rate trajectory from the Federal Reserve boss later on Friday - sending the dollar soaring again in the process.</p>
+    	<p>Fed Chair Jerome Powell is due to deliver a keynote address to the annual central banking symposium in Jackson Hole at 1405 GMT. Trepidation about the speech largely explains why renewed buzz about artificial intelligence after this week's blowout Nvidia results ended up being such as a damp squib on Thursday.</p>	
+    	<p>And given increasingly contrasting fortunes of economies on either side of the Atlantic, Powell's words are expected to contain a different message to the one from European Central Bank President Christine Lagarde later in the day at 1900 GMT.</p>	
+    	<p>That much was underlined by August business surveys this week showing activity contracting in the euro zone but still expanding stateside. Another survey miss from Germany's Ifo on Friday reinforced the picture.</p>
+      <p>The euro/dollar exchange rate plunged to its lowest level in more than two months on Friday as a result - off a whopping 4.5% from the peaks of July as the U.S. long-term bond yields resumed their upward march through August.</p>
+      <p>The dollar's index against the most traded currencies leaped to its highest since June 7, with sterling recoiling sharply too to June levels due to gathering UK economic clouds.</p>
+      <p>Spurring the dollar on ahead of the Jackson Hole set-piece was a marginal shift in Fed futures pricing to now indicate a greater than 50% chance of one more Fed rate hike to the 5.5-5.75% next month.</p>
+      <p>While not a sea change in pricing, the shifting odds put the onus on Powell to walk the market back if indeed he wants to signal the Fed is done with its rate hike campaign.</p>
+      <p>Some of his colleagues on Thursday indicated that the central bank may indeed have done enough on policy rate tightening - and can continue bear down on inflation by keeping rates high for longer. That allows the traditional lags in credit tightening to kick in while keeping long-term bond markets on their toes.</p>
+      <p>Philadelphia Fed President Patrick Harker and Boston Fed President Susan Collins tentatively welcomed the recent jump in bond market yields as something that could complement the Fed's work to get inflation back to the 2% target and stave off another hike.</p>
+      <p>"We may be near, we could even be at a place where we would hold," Collins said.</p>
+      <p>"Higher longer rates are consistent with an understanding that this is going to take some time," said Harker.</p>
+      <p>Certainly the latest U.S. economic numbers showed no sign of unfolding weakness, with jobless claims falling below forecast in the latest week and core durable goods orders still resilient in July too.</p>
+      <p>Markets pricing for the ECB and Bank of England policy rates, meantime, has recoiled sharply in recent weeks. Money market and swaps rates now see the ECB campaign as over at 3.75% and no further hikes likely in the cycle. Implied BoE terminal rates have fall back sharply to 5.5% from as high as 6% in July.</p>
+      <p>That helped European stocks buck the dour equity market mood of the past 24 hours, where Asia shares had followed Wall St's sharp tech-led reversal into the red on Thursday. U.S. futures were mostly flat ahead of the open on Friday.</p>
+      <p>Treasury yields were a shade higher overnight, while oil prices perked back up.</p>
+      <p>China's bourses were also in the red but authorities are planning to cut the stamp duty on stock trading by as much as 50%, sources told Reuters - a further attempt to revitalise the country's struggling stock market. Authorities also stepped up their defence of the yuan.</p>
+      <p>Turkey's lira gave back only some of Thursday's gains after its central bank shocked with a 750 basis point interest rate to 25%.</p>
+      <p>Events to watch for on Friday:</p>
+      <p>* Federal Reserve Chair Jerome Powell gives keynote speech at annual Fed symposium in Jackson Hole. European Central Bank President Christine Lagarde also speaks at Jackson Hole.</p>
+      <p>* University of Michigan's final August consumer survey</p>
+      <p>* ASEAN finance ministers, central bank chiefs meet in Jakarta</p>
+      <p>* U.S. corporate earnings: Marvell, Workday, Hibbett etc</p>
+      <p>(By Mike Dolan, editing by Christina Fincher, mike.dolan@thomsonreuters.com. Twitter: @reutersMikeD)</p>
+    </div>
+  },
+  {
     id: 643,
     title: 'Pound and euro fall against dollar as economic data warns of recession',
     category: 'Forex',

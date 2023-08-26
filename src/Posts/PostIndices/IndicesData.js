@@ -1,5 +1,172 @@
 const data = [
   {
+    id: 610,
+    title: 'Dow Jones Off Session Lows As Powell Talks Tough; AI Stocks Nvidia, Marvell Technology Hit Hard',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'AI', 'Nvidia'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average was volatile Friday as Wall Street weighed comments by Federal Reserve Chair Jerome Powell at the Jackson Hole Economic Symposium. Gainers in the stock market today included Netflix (NFLX), which got a nice price target hike from Loop Capital.</p>
+    </div>,
+    authorName: 'KEN SHREVE',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 7:57 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693048879/ncx-blog-1205_kx9jvb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average was volatile Friday as Wall Street weighed comments by Federal Reserve Chair Jerome Powell at the Jackson Hole Economic Symposium. Gainers in the stock market today included Netflix (NFLX), which got a nice price target hike from Loop Capital.</p>
+    	<p>Gains for the stock market faded after Powell said inflation is still too high and that the Fed is prepared to raise interest rates further if necessary. But indexes bounced back over the past hour.</p>	
+    	<p>Netflix stock was near session lows but still outperformed after Loop Capital upgraded shares to buy from hold with a 500 price target. NFLX poked above its 50-day moving average earlier in the week, but shares fell sharply with the broad market Thursday, down nearly 5% in light turnover. Like a lot of other growth stocks at this point, Netflix is stuck below its 50-day moving average.</p>	
+    	<p>The 10-year Treasury edged higher to 4.26% at midday. Federal funds futures traders think there's an 80% chance that the Fed will leave the fed funds rate unchanged at the September meeting, in a range of 5.25% to 5.50%. But odds have risen to about 50/50 for another 25-basis-point hike at the November meeting.</p>
+      <p>Top gainers in the Dow Jones today included Johnson & Johnson (JNJ) and Salesforce (CRM), but Salesforce was well off highs ahead of next week's earnings report. Results are due Wednesday after the close.</p>
+      <h3>Outside The Dow Jones</h3>
+      <p>The Nasdaq composite turned slightly lower after rising nearly 1.3% intraday. Losers beat winners on the Nasdaq by nearly 2 to 1.</p>
+      <p>Nvidia (NVDA) slumped another 3% after a rough session Thursday that saw sellers knock NVDA to session lows by the close. Shares soared more than 6% early Thursday, but the gain faded to 0.1% by the close. NVDA's price action is a classic example of what stalling action looks like on a daily chart. Heavy-volume without further price progress can be seen in the major stock indexes or individual stocks. For the Nasdaq and S&P 500, it's considered a form of distribution in certain cases.</p>
+      <p>Adobe stock held a 1% gain. The software giant is showing strength by holding support at its 10-week moving average.</p>
+      <p>While the Dow Jones and Nasdaq briefly poked above their 50-day lines Thursday, the S&P 500 didn't quite get there. The index hit a high of 4,458 Thursday, about 1 point below the index's 50-day line.</p>
+      <p>The S&P 500 climbed 0.1% and the Dow Jones index was up 0.3% at midday. Declining stocks were evenly matched with advancers on the NYSE.</p>
+      <p>Earnings winners included enterprise software giant Workday (WDAY). After a wild session Thursday that saw WDAY stock reverse sharply lower, shares were up 3% at midday Friday. Late Thursday, the company reported a 72% rise in quarterly profit, with revenue up 16% to $1.79 billion.</p>
+      <p>Ulta Beauty (ULTA), which has been on a downtrend since May, extended losses after reporting earnings and revenue growth that slowed from the prior quarter. ULTA stock is approaching a key test of the 400 level.</p>
+      <h3>IBD Growth Screens</h3>
+      <p>In the MarketSmith Growth 250, sellers knocked Marvell Technology (MRVL) lower after the stock suffered a bearish outside day Thursday in very heavy volume. Earnings declined for the third straight quarter and revenue fell 12% to $1.34 billion. The results were mostly in line with expectations. Revenue guidance for the current quarter was also in line.</p>
+      <p>Intuit (INTU) reversed higher after earnings topped expectations. The TurboTax maker also raised its dividend 15%, but revenue guidance was light. Intuit stock remains in a bullish technical setup, just above a long consolidation after finding support at the 10-week moving average.</p>
+      <p>Medpace (MEDP), a new entrant to the IBD 50 Top 10 in Leaderboard, is making a second test of its 10-week line. Normally, that would put MEDP stock in an alternate buy zone. But with the stock market in a correction, new buys are risky.</p>
+      <p>Mastercard (MA) held a modest gain, along with Dow Jones stock Visa (V). Both stocks continue to hold near all-time highs.</p>
+    </div>
+  },
+  {
+    id: 609,
+    title: 'Dow Jones Futures Rise: Stakes High For Fed Chief Powell Speech After Ugly Market Reversal',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Fed', 'Future'],
+    description: <div className="blog-desc">
+      <p>Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, with Fed chief Jerome Powell's big Jackson Hole speech on tap.</p>
+    </div>,
+    authorName: 'ED CARSON',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 4:17 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693046809/ncx-blog-1204_dh85lb.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, with Fed chief Jerome Powell's big Jackson Hole speech on tap.</p>
+    	<p>The stock market rally attempt had an ugly session Thursday, with the major indexes all reversing lower after hitting resistance near the 50-day line, closing near session lows.</p>	
+    	<p>Nvidia (NVDA) essentially erased its big initial gains on its blowout earnings, while many other AI stocks reversed lower to varying degrees, including MRVL stock, Broadcom (AVGO), Adobe (ADBE), Palantir Technologies (PLTR), C3.ai (AI) as well as server maker Super Micro Computer (SMCI).</p>	
+    	<h3>Earnings</h3>
+      <p>Marvell Technology (MRVL), Workday (WDAY) and Intuit (INTU) reported earnings after the close.</p>
+      <p>MRVL stock fell modestly in premarket trade as Marvell earnings eked past views. That followed a big downside reversal in Thursday's session.</p>
+      <p>WDAY stock rose modestly overnight after Workday earnings topped and the software giant guided higher. Shares fell modestly Thursday, moving slightly below the 50-day line in a short consolidation.</p>
+      <p>INTU stock declined slightly in extended action. Intuit earnings topped and the TurboTax maker hiked its dividend by 15%, but revenue guidance was light. Shares edged lower Thursday, holding in a buy zone after rebounding from the 50-day line last Friday.</p>
+      <p>NVDA stock is on IBD Leaderboard. ADBE stock is on the IBD 50.</p>
+      <h3>Fed Chief Powell's Jackson Hole Speech</h3>
+      <p>Fed chief Jerome Powell will give a policy speech at 10:05 a.m. on Friday at the annual Jackson Hole symposium.</p>
+      <p>Fed chief Powell is likely to signal patience, while still leaving the door open to further rate hikes. He'll also likely push back on the prospects for rate cuts. With inflation still too high but coming down, policymakers see less urgency to act.</p>
+      <p>The big jump in 10-year Treasury yields in recent weeks means that market rates have tightened considerably, further reducing the need for official Fed rate hikes.</p>
+      <p>But Powell could signal that longer-term trends will make bringing inflation back to 2% a challenge.</p>
+      <p>Powell's speech will be important for rate-hike expectations. Investors see about a 20% chance of a Fed rate hike in late September. But the odds of a hike by the Nov. 1 meeting have risen to 45%. Expectations of Fed rate cuts have been pushed well into next year.</p>
+      <h3>Dow Jones Futures Today</h3>
+      <p>Dow Jones futures rose 0.4% vs. fair value. S&P 500 futures advanced 0.3%. Nasdaq 100 futures climbed 0.2%.</p>
+      <p>The 10-year Treasury yield was little changed.</p>
+      <p>Crude oil rose more than 1%, back to $80 a barrel.</p>
+      <p>Remember that overnight action in Dow futures and elsewhere doesn't necessarily translate into actual trading in the next regular stock market session.</p>
+      <h3>Stock Market Rally</h3>
+      <p>The stock market rally opened higher, but the indexes quickly hit resistance at the 50-day line and reversed lower, with the Nasdaq showing the biggest swing.</p>
+      <p>The Dow Jones Industrial Average fell 1.1% in Thursday's stock market trading. The S&P 500 index slumped 1.35%. The Nasdaq composite sold off 1.9%. The small-cap Russell 2000 sank 1.3%.</p>
+      <p>U.S. crude oil prices edged up 0.2% to $79.05 a barrel. Copper futures sank 0.95%.</p>
+      <p>The 10-year Treasury yield rose nearly 4 basis points to 4.23%. The U.S. dollar continues to climb.</p>
+      <h3>ETFs</h3>
+      <p>Among growth ETFs, the Innovator IBD 50 ETF (FFTY) fell 1.6%. The iShares Expanded Tech-Software Sector ETF (IGV) gave up 2.3%, with INTU stock and Workday key members. The VanEck Vectors Semiconductor ETF (SMH) slumped 2.6%. Nvidia stock is the top holding in SMH, with Marvell and AVGO stock also notable components.</p>
+      <p>Reflecting more-speculative story stocks, ARK Innovation ETF (ARKK) shed 3.55% and ARK Genomics ETF (ARKG) skidded 3.8%.</p>
+      <p>SPDR S&P Metals & Mining ETF (XME) sank 1.5% and the Global X U.S. Infrastructure Development ETF (PAVE) gave up 1.2%. U.S. Global Jets ETF (JETS) descended 1.7%. SPDR S&P Homebuilders ETF (XHB) stepped down 1.55%. The Energy Select SPDR ETF (XLE) fell 0.7% and the Health Care Select Sector SPDR Fund (XLV) declined 0.8%.</p>
+      <p>The Industrial Select Sector SPDR Fund (XLI) gave up 1.2%.</p>
+      <p>The Financial Select SPDR ETF (XLF) closed down 0.7%. The SPDR S&P Regional Banking ETF (KRE) edged up 0.4%.</p>
+      <h3>Nvidia Stock</h3>
+      <p>NVDA stock jumped to a record 502.66 soon after the open, following the latest blowout Nvidia earnings and guidance Wednesday night. But shares quickly pared gains, closing up just 0.1% to 471.74.</p>
+      <p>The AI chip leader had run up sharply heading into earnings. Nvidia stock is still up 8.9% for the week.</p>
+      <h3>AI Stocks Reverse Lower</h3>
+      <p>Meanwhile, other AI stocks simply turned negative — modestly, solidly or sharply. Many were around key technical levels and suffered outside, downside days following initial gaps higher.</p>
+      <p>MRVL stock hit 64.23 intraday, jumping from the 50-day line, but then reversed for a 6.85% loss to 57.29 ahead of Thursday night's earnings.</p>
+      <p>AVGO stock sank 2.5% to 854.46 after touching 909.86 after the open. Broadcom earnings are due Aug. 31.</p>
+      <p>SMCI stock tumbled 5.4% to 262.50, reversing from 298.35 intraday.</p>
+      <p>ADBE stock retreated 3.4% to 512.43, below its 21-day line but holding its 50-day. Shares briefly hit 539.67 Thursday morning.</p>
+      <p>PLTR stock slid 7.6% to 14.14, reversing from 15.72 intraday as it hit resistance at the 21-day line.</p>
+      <p>AI stock reversed near its 21-day at its morning peak of 33.67, plunging 11.6% to 28.83. C3.ai stock hit a three-month low.</p>
+      <h3>Market Rally Analysis</h3>
+      <p>Thursday was ugly. The losses were one thing, but to see the major indexes and many leading stocks reverse sharply lower from key resistance in a nascent market rally was discouraging. Thursday's higher volume followed market gains in below-average trade.</p>
+      <p>Clearly, Nvidia earnings expectations were sky high for the market.</p>
+      <p>A follow-through day could still happen.</p>
+      <p>The Nasdaq and S&P 500 rally attempts are intact as long they hold above their Aug. 18 lows. The Dow Jones undercut recent intraday lows on Thursday, so its market rally day count goes to zero.</p>
+      <p>Fed chief Powell's speech offers a possible catalyst. But, as with Nvidia, we don't know which way. Markets also could take time to digest the implications Powell's longer-term outlook.</p>
+      <p>The market correction could end up running longer and perhaps deeper than investors thought a day earlier. That may be especially true of AI stocks and the tech sector overall.</p>
+      <p>Energy and some non-tech areas are holding up better.</p>
+      <h3>What To Do Now</h3>
+      <p>Investors should remain defensive and ready to cut individual holdings as needed.</p>
+      <p>It's not a good time to be making new buys. Instead, Thursday offered some shorting opportunities as the indexes and key stocks reversed lower from key levels.</p>
+      <p>Investors shouldn't get aggressive before a follow-through day with the major indexes facing stiff resistance.</p>
+      <p>But stay engaged and flexible. Have your watchlists up to date so you're prepared.</p>
+    </div>
+  },
+  {
+    id: 608,
+    title: 'Dow Jones Dives 374 Points As Powell Speech Risks Rise; Elon Musk Issues This Cybertruck Warning',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Elon Musk', 'Cybertruck'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average and other indexes fell sharply as attention turned to the Jackson Hole speech by Fed Chair Jerome Powell. Nvidia (NVDA) lost almost all its gains after blowout earnings. Tesla (TSLA) CEO Elon Musk issued a Cybertruck warning to employees.</p>
+    </div>,
+    authorName: 'MICHAEL LARKIN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 12:32 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693046548/ncx-blog-1203_nzhohu.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average and other indexes fell sharply as attention turned to the Jackson Hole speech by Fed Chair Jerome Powell. Nvidia (NVDA) lost almost all its gains after blowout earnings. Tesla (TSLA) CEO Elon Musk issued a Cybertruck warning to employees.</p>
+    	<p>Meanwhile, a trio of stocks near buy points were holding up even amid the broader pullback. Box (BOX), NOV (NOV) and Automatic Data Processing (ADP) all showed strength.</p>	
+    	<p>Treasury yields rose. The 10-year yield gained 4 basis point to 4.24%, while the two-year yield surged 7 basis points to 5.03%. The yield curve got further inverted.</p>	
+    	<h3>Powell Speech Looms Large Over Market</h3>
+      <p>Stocks reversed lower with Powell set to give a much-anticipated speech at the Economic Symposium in Jackson Hole, Wyo., on Friday.</p>
+      <p>Earlier Thursday, first-time unemployment claims unexpectedly fell to 230,000 vs. 240,000 in the previous week, Labor Department data showed. Economists had expected them to rise to 241,000.</p>
+      <p>Durable goods orders fell 5.2% in July, more than estimates for a 4% decline. Excluding transportation, durable goods orders rose 0.5%, above forecasts.</p>
+      <p>"It seems, we are getting steady reminders about how well this economy is doing and that keeps the risks of a somewhat hawkish Fed Chair Powell speech on the table," Oanda Senior Market Analyst Edward Moya told IBD. "Today, we saw jobless claims remain low and the Atlanta Fed still sees the economy sizzling hot in Q3."</p>
+      <p>Former hedge fund manager and IBD Live contributor David Ryan also made a bearish call on social media.</p>
+      <p>"The QQQ has seen its high for the year on 7/19/23. NVDA's earnings mark the final move in tech. Raise cash and get defensive," he said on X, formerly Twitter.</p>
+      <h3>Nasdaq Gains Evaporate As Bears Bite Small Caps</h3>
+      <p>The tech-heavy Nasdaq saw early gains evaporate as it was kicked 1.9% lower. Autodesk (ADSK) was a star here, closing up 2.1% following its earnings report.</p>
+      <p>The benchmark S&P 500 skidded 1.4%. Dollar Tree (DLTR) and Advanced Micro Devices (AMD) lagged with declines of 12.9% and 7%, respectively. Dollar Tree beat quarterly earnings views but comments from CEO Rick Dreiling about the "challenging macro environment" spooked investors.</p>
+      <p>The S&P 500 sectors all finished in negative territory. Technology, communication services and consumer discretionary fared worst in the stock market today. Financials and real estate suffered the smallest declines.</p>
+      <p>The bears took a big bite out of small caps, with the Russell 2000 losing 1.2%. Growth stocks were also spanked, with the Innovator IBD 50 ETF (FFTY) falling 1.5%.</p>
+      <h3>Dow Jones Today: Boeing, Apple Stock Lag</h3>
+      <p>The Dow Jones also got hammered into the close. It fell 374 points or 1.1%.</p>
+      <p>Apple (AAPL) was one of the worst laggards on the index as it slid 2.6%. It lost ground on its 50-day moving average, MarketSmith analysis shows. Microsoft (MSFT) also struggled with a 2.2% dip.</p>
+      <p>But Boeing (BA) fared worst of all in the Dow, with the aerospace giant falling 4.9%. Intel (INTC) and Walt Disney (DIS) also lagged with declines of 4.1% and 3.9%, respectively.</p>
+      <p>Verizon Communications (VZ) and insurance stock Travelers (TRV) performed best on the Dow Jones today despite meager lifts of 0.6% each.</p>
+      <h3>Tesla Stock Dips; Elon Musk Issues Cybertruck Warning</h3>
+      <p>Tesla stock fell even as the release of the much-hyped Cybertruck looks to be moving closer toward reality.</p>
+      <p>On Wednesday, Musk shared a photo of himself in one of the vehicles on X, formerly Twitter. "Just drove the production candidate Cybertruck at Tesla Giga Texas," he said.</p>
+      <p>And it emerged Thursday that he had shared an email explaining how vital it is to be precise when building the SUV.</p>
+      <p>"Due to the nature of Cybertruck, which is made of bright metal with mostly straight edges, any dimensional variation shows up like a sore thumb," he said in a Wednesday memo leaked to Electrek.</p>
+      <p>Musk also said that "precision predicates perfectionism" and said parts "need to be designed and built to sub 10 micron accuracy." Final prices and specifications have yet to be released.</p>
+      <p>In addition, Reuters reported investors negatively affected by Musk's tweet in August 2018 about taking the company private soon will receive a payout. It will come from a fund established as part of a settlement with the SEC.</p>
+      <p>Tesla stock fell 2.9% and is trading below the 50-day moving average. Nevertheless, TSLA remains up nearly 113% for the year.</p>
+      <h3>Nvidia Stock Gains Fade Despite Explosive Earnings</h3>
+      <p>Nvidia had an explosive opening before ceding nearly all of its gains, closing with a tiny lift of 0.1%.</p>
+      <p>The company reported earnings and revenue well ahead of expectations. Adjusted profit soared more than 400% to $2.70 a share. Revenue jumped 101% to $13.51 billion. Data center revenue more than doubled to $10.32 billion.</p>
+      <p>NVDA forecast sales of $16 billion in the current quarter, well clear of expectations. This would be a 170% surge from the same period last year.</p>
+      <p>Nvidia stock briefly touched an all-time high and is now up around 229% since the start of the year. The AI stock is a member of the prestigious IBD Leaderboard list of top stocks.</p>
+      <h3>Outside Dow Jones: 3 Stocks Hold Strong Near Entries</h3>
+      <p>With the stock market in a correction now is a time to be building your watchlist. Here are some potential candidates showing strength.</p>
+      <p>Box stock gave up just 0.3% as it held close to a cup-with-handle entry of 31.94, MarketSmith analysis shows.</p>
+      <p>The database software play has a very good IBD Composite Rating coming in at 89 out of 99. Earnings are a key strength here.</p>
+      <p>Oil & gas industry equipment stock NOV fell 1% but remains close to a cup-with-handle buy point of 20.98. All-around performance is solid here. The relative strength line has been looking strong of late.</p>
+      <p>Automatic Data Processing slipped 0.5% as it holds near a cup with handle with an entry point of 256.84. The RS line continues to show grit.</p>
+      <p>The outsourcing and payroll services stock has a very good EPS Rating of 93. It is also in the top 23% of stocks in terms of price performance over the last 12 months.</p> 
+    </div>
+  },
+  {
     id: 607,
     title: 'Asian stocks track Wall Street Nvidia-led rally',
     category: 'Indices',

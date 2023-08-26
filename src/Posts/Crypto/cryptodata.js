@@ -1,5 +1,324 @@
 const data = [
   {
+    id: 692,
+    title: 'Worldcoin tanks by over 50% as data privacy concerns mount',
+    category: 'Crypto',
+    subCategory: ['Worldcoin', 'Crypto', 'data'],
+    description: <div className="blog-desc">
+      <p>As regulators worldwide voice their concerns about Worldcoin, WLD holders have had to deal with a decline in the cryptocurrency’s value.</p>
+    </div>,
+    authorName: 'Abiodun Oladokun',
+    authorurl: 'https://ambcrypto.com/author/abiodun-oladokun/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 26, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693053293/ncx-blog-1214_gkkrul.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>As regulators worldwide voice their concerns about Worldcoin, WLD holders have had to deal with a decline in the cryptocurrency’s value.</p>
+    	<ul>
+        <li>WLD’s value declined by more than 50% in the first month of the project’s launch.</li>
+        <li>This has been a result of the regulatory concerns around the project.</li>
+      </ul>
+      <p>Since Worldcoin’s [WLD] mainnet launch a month ago, the regulatory concerns that have since plagued the project have resulted in a more than 50% decline in the value of its token.</p>	
+    	<p>According to data from CoinMarketCap, trading at $1.27 at press time, the price per WLD token has dropped by 53% since its $2.71 price high on the day the project launched.</p>	
+      <h3>Worldcoin was beset with problems after it launched</h3>
+    	<p>Since Sam Altman’s Worldcoin launched, data privacy concerns have been raised by regulators in various countries across the world.</p>
+      <p>For example, a week after the project went live on the mainnet, the French data protection agency Commission Nationale Informatique & Libertés (CNIL) stated,</p>
+      <p><strong>“The legality of this collection seems questionable, as do the conditions for storing biometric data.”</strong></p>
+      <p>On 2 August, via a post on Facebook, the Kenyan government announced the suspension of the operations of Worldcoin pending a risk assessment by relevant government agencies.</p>
+      <p>These regulatory scrutinies have put downward pressure on the value of its WLD token. Social activity around the token has dwindled in the last month, suggesting that interest in it has dropped significantly.</p>
+      <p>According to on-chain data provider Santiment, WLD’s social volume and social dominance have fallen by 95% and 74% in the past 30 days. This indicates a severe drop in the hype around the project.</p>
+      <p>With mounting regulatory issues, the daily demand for WLD has also dropped. Since 26 July, the daily account of addresses created to trade WLD has trended downward and has declined by 98%.</p>
+      <p>In addition, the count of daily addresses involved in WLD transactions has steadily declined since its price began its descent. For context, as of 25 July, 1673 addresses completed WLD transactions. However, on 25 August, less than 150 addresses transacted the altcoin.</p>
+      <h3>Is there a silver lining?</h3>
+      <p>Despite the price drop in the last month, a further assessment of WLD’s profitability revealed that its holders have continued to book profits.</p>
+      <p>Data from Santiment at press time showed that the ratio of WLD’s on-chain transaction volume profit to loss was 1.998.</p>
+      <p>A ratio of 1.998 meant that for every $1.998 of profit made on WLD transactions, there was $1 of loss. This was a positive ratio, which suggested that there were more profits than losses on WLD transactions.</p>
+      <p>In other words, the profit generated from daily on-chain transactions was almost twice the number of losses incurred.</p>
+      <p>However, while daily traders have found a way to circumvent losses on their daily trades, most WLD holders remain at a loss. According to IntoTheBlock, 98% of WLD token holders were “out of money” at the time of writing.</p>
+    </div>
+  },
+  {
+    id: 691,
+    title: 'Bitcoin Cash [BCH] could be ready for another pump. Here’s why…',
+    category: 'Crypto',
+    subCategory: ['BTC', 'BCH', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>Bitcoin Cash maintained its bullish bias on the higher timeframes with the possibility of another rally on the horizon.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 26, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693052539/ncx-blog-1213_snbphl.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin Cash maintained its bullish bias on the higher timeframes with the possibility of another rally on the horizon.</p>
+      <ul>
+        <li>BCH hovered over a key support level with the possibility of another rally.</li>
+        <li>The rising mean coin age hinted at the network-wide accumulation of BCH.</li>
+      </ul>
+    	<p>The huge gains enjoyed by Bitcoin Cash [BCH] holders in June almost feel like a distant memory. Since the huge run from $104 to $329, BCH has gone on a corrective dip that has wiped away almost 50% of the June gains.</p>	
+    	<p>Despite the deep retracement, the bullish bias remained on the higher timeframes. With the price hovering over a crucial support level, another wild rally could be imminent for BCH.</p>
+      <h3>Key support level could unlock massive gains</h3>	
+    	<p>Looking back to BCH’s massive pump in June highlighted a key price trend. Price ranged between the $100 – $120 price zone before embarking on the huge rally.</p>
+      <p>BCH’s press time price action on the 12-hour timeframe mirrored the June move with the price hovering above the $186 support level. This presents buyers with another opportunity for a significant rally.</p>
+      <p>The Moving Average Convergence Divergence (MACD) indicator posted a bullish crossover along with green bars above the zero level to signal bullish intent. Likewise, the Relative Strength Index (RSI) jumped out of the oversold zone with the Chaikin Money Flow (CMF) also pushing strongly to the zero mark after hovering for long in negative territory.</p>
+      <p>A bullish push from this level will retain BCH’s bullish sentiment with $250 and $300 attainable price ranges. However, if bears break below this support level, it will signal a shift in momentum with sellers able to target the $130 to $150 price levels.</p>
+      <h3>Bulls have been accumulating BCH</h3>
+      <p>According to data from Santiment, the 90-day mean coin age has been rising constantly since mid-July. This hinted at a network-wide accumulation of BCH.</p>
+      <p>Although the mean coin age was rising swiftly, the funding rate remained largely negative throughout the period. A shift in the funding rate would be essential to bulls flocking into the market and pushing BCH on another price rally.</p>
+    </div>
+  },
+  {
+    id: 690,
+    title: 'DYDX garners interest from seasoned investors: What’s coming next?',
+    category: 'Crypto',
+    subCategory: ['DYDX', 'Investors', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>The native token of decentralized derivative dYdX surged in value, spurred by aggressive accumulation by experienced investors.</p>
+    </div>,
+    authorName: 'Aniket Verma',
+    authorurl: 'https://ambcrypto.com/author/aniket-verma/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 26, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693051664/ncx-blog-1212_cesxx5.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The native token of decentralized derivative dYdX surged in value, spurred by aggressive accumulation by experienced investors.</p>
+    	<ul>
+        <li>DYDX’s recent rally reversed all losses since the market collapse of last week.</li>
+        <li>Withdrawals from exchanges spiked over the last 30 days.</li>
+      </ul>
+      <p>Decentralized derivative token dYdX [DYDX] was one of the top performers in the last seven days of crypto trading, according to data from CoinMarketCap.  Much of the growth was powered by the overnight rally of 23 August, during which the token jumped 10% to $2.19.</p>	
+    	<p>Although the price retreated back to $2.15 at press time, the upsurge reversed all the losses made by the asset since the market collapse of last week.</p>	
+    	<h3>Experienced investors grab DYDX</h3>
+      <p>The spike in DYDX’s price was led by seasoned investors of the coin. In a statement shared with AMB Crypto, Nansen analyst Martin Lee said that while the count of smart money wallets holding DYDX tokens has stayed flat over the last two months, they have been steadily adding to their stacks.</p>
+      <p>For the uninitiated, “smart money” is a term generally used for well-informed and experienced investors, having a better understanding of the market vis à vis retail investors. This cohort has a proven track record of profitability.</p>
+      <p>Moreover, the analyst stated that withdrawals from exchanges have spiked over the last 30 days. This could imply that bullish traders were HODLing tokens in anticipation of a price increase.</p>
+      <h3>What’s behind the rise?</h3>
+      <p>The demand for DYDX was spurred by hype around the impending mainnet launch of the ecosystem’s standalone blockchain dYdX V4. The chain, being developed using the Cosmos [ATOM] framework, was in the testing phase at the time of publication.</p>
+      <p>The dYdX foundation recently discussed the prospect of making DYDX the native L1 asset on the new chain. The increased accumulation, therefore, was most likely rooted in this expectation.</p>
+      <p>Recall that in the current version V3, trades are settled in an L2 (layer-2) system, which publishes zero-knowledge (ZK) proofs periodically to a base layer Ethereum [ETH]. However, going forward, the network won’t depend on any external blockchain or system.</p>
+      <p>The new network also intends to fill the gaps in full decentralization that the existing system has. Every activity, from order book matching to facilitating trades, was expected to take place on-chain.</p>
+      <p>At the time of writing, dYdX was the largest perpetual futures protocol, clocking trading volumes of more than $476 milion in the last 24 hours, per data from DeFiLlama.</p>
+    </div>
+  },
+  {
+    id: 689,
+    title: 'DOT: Recovery elusive after hitting key demand zone',
+    category: 'Crypto',
+    subCategory: ['DOT', 'Demand', 'Crypto'],
+    description: <div className="blog-desc">
+      <p>DOT was at a key interest level for bulls. But BTC muted movement could delay a solid recovery for a while.</p>
+    </div>,
+    authorName: 'Benjamin Njiri',
+    authorurl: 'https://ambcrypto.com/author/benjamin-njiri/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 26, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693051366/ncx-blog-1211_mnvcxd.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>DOT was at a key interest level for bulls. But BTC muted movement could delay a solid recovery for a while.</p>
+      <ul>
+        <li>DOT’s price action graced a crucial demand zone near $4.5.</li>
+        <li>Liquidation data discouraged longs, but shorts suffered, too.</li>
+      </ul>
+    	<p>Polkadot [DOT] was at a significant discount and long-term support level for buying opportunities. But a corrective rebound remained elusive, which could unnerve impatient bulls.</p>
+      <p>DOT traded at $4.43 at the time of writing. The level was an extension of its range formation ($4.0 – $4.55) since 18 August. However, the range formation coincided with a crucial long-term support and weekly bullish order block (OB).</p>
+      <h3>What’s next after the consolidation?</h3>	
+    	<p>The demand zone is a weekly bullish OB of $4.22 – $4.59 (cyan) and doubled up as January and December lows. The Q1 rally bounced from the above level, and a similar trend was observed during the June recovery.</p>
+      <p>But another August retest was yet to record a solid corrective rebound from the demand zone. A price consolidation has extended for over a week without signs of a price reversal.</p>
+      <p>However, the CMF fluctuated above zero, underscoring weak but positive capital inflows. The RSI also attempted to retreat from the oversold zone, demonstrating mild buying pressure, yet sellers had overall control.</p>
+      <p>So, DOT could shoot to $5 or $5.2 in the next few days/weeks, especially if Bitcoin [BTC] surges above $26.8k and $27k. But the bulls must clear the $4.8 to gain an extra edge.</p>
+      <p>Conversely, a breach below the demand zone will expose DOT to possible depreciation to the $4.0 level.</p>
+      <h3>Longs discouraged</h3>	
+    	<p>At the time of writing, long positions were discouraged. According to Coinglass’s liquidation data, over $55k longs were wrecked compared to $20k shorts within 12 hours before publication time.</p>
+      <p>The difference between short and long liquidations wasn’t too large, suggesting likely extended range formation. But BTC’s muted movement could delay a solid corrective rebound, so it’s worth tracking its price action.</p>
+    </div>
+  },
+  {
+    id: 688,
+    title: 'MakerDAO and Uniswap lead on the DeFi front; will UNI and MKR comply?',
+    category: 'Crypto',
+    subCategory: ['DAO', 'Uniswap', 'MKR'],
+    description: <div className="blog-desc">
+      <p>In a sea of losses, MakerDAO and Uniswap shine bright. Their resilient holders defy trends, showcasing DeFi’s potential amidst market turmoil.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 26, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693050976/ncx-blog-1210_xzw2eh.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>In a sea of losses, MakerDAO and Uniswap shine bright. Their resilient holders defy trends, showcasing DeFi’s potential amidst market turmoil.</p>
+    	<ul>
+        <li>Just 52% of MKR holders were holding at a loss, while it is around 72% for UNI.</li>
+        <li>Maker and Uniswap are currently trending below the neutral lines on their RSIs.</li>
+      </ul>
+      <p>Uniswap [UNI] and MakerDAO [MKR] have distinguished themselves from other DeFi tokens by having fewer holders holding at a loss. In a period when most DeFi tokens and other cryptocurrencies are seeing most of their holders incurring losses, this achievement sets these tokens apart.</p>	
+    	<h3>Less Maker and Uniswap holders at a loss</h3>
+      <p>The crypto market experienced an extended period of decline, leading to a decrease in the value of various assets, including DeFi tokens. This downturn also contributed to a rise in the number of holders experiencing losses, as reported by Into The Block.</p>	
+    	<p>However, amidst these circumstances, MakerDAO and Uniswap have emerged as standout performers among DeFi tokens.</p>
+      <p>According to Into The Block’s report, MakerDAO [MKR] displayed a figure of approximately 52.3% of its holders in a loss position. Similarly, Uniswap [UNI] secured the second position, with roughly 72% of its holders facing losses.</p>
+      <p>To provide context, Compound [COMP] and Ox exhibited higher numbers, with around 93% and 86% of their respective holders incurring losses. On the other hand, Aave recorded 76.3% of its holders dealing with losses.</p>
+      <h3>MKR and UNI flash bearish signal</h3>
+      <p>Examining MakerDAO on a daily timeframe revealed that it was not exempt from the broader market’s downward price movement. However, the impact appeared relatively moderate; the chart illustrated a trend with a steadier ascent rather than a decline.</p>
+      <p>As of this writing, it was exchanging hands within the range of approximately $990 to $1,000. Nevertheless, the trend exhibited a distinct bearish nature, as evidenced by its Relative Strength Index (RSI).</p>
+      <p>In contrast, Uniswap exhibited greater price volatility, evident from its daily chart. Its press time trading value hovered around $4.5, declining over 1%. The RSI also pointed toward a bearish trajectory for Uniswap, with its signal being more pronounced since it had slipped below the 30 mark.</p>
+      <h3>Maker and Uniswap’s TVL declines</h3>
+      <p>A broader perspective on the Total Value Locked (TVL) for MakerDAO and Uniswap revealed a noticeable decline. At the time of this assessment, Maker’s TVL hovered around $5 billion, according to data from DefiLlama. Comparatively, just before 12 August, the TVL exceeded $5.9 billion. However, a steep reduction became evident, leading to the present TVL level.</p>
+      <p>Similarly, Uniswap encountered a significant drop in its TVL on 22 August, causing it to plummet to approximately $1 billion, per DefiLlama. Nonetheless, at the present moment, the TVL has rebounded and stabilized at around $3.4 billion.</p>
+    </div>
+  },
+  {
+    id: 687,
+    title: 'Ethereum staking continues to rise, but an opposing trend emerges',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'Staking', 'rise'],
+    description: <div className="blog-desc">
+      <p>As an increasing portion of Ethereum’s circulating supply finds its home in staking protocols, a silent shift is unfurling, redefining the very essence of ownership.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693050748/ncx-blog-1209_p67xyj.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>As an increasing portion of Ethereum’s circulating supply finds its home in staking protocols, a silent shift is unfurling, redefining the very essence of ownership.</p>
+    	<ul>
+        <li>The total staked ETH was almost 28 million.</li>
+        <li>Staked ETH currently makes up 21.8% of the total ETH supply.</li>
+      </ul>
+      <p>Ethereum [ETH] staking has developed a distinct trajectory, separate from the price trends. As more of the circulating supply gets locked up in staking, one particular metric is experiencing a decline.</p>	
+      <h3>Ethereum staking on the rise</h3>
+      <p>Recent data from CryptoQuant indicated a steady upward trajectory in Ethereum’s total staked value. As of this writing, nearly 28 million ETH were staked, in sharp contrast to the approximately 16 million ETH staked in January. This signified a substantial increase in staking volume.</p>
+      <p>According to CryptoMarketCap, the total circulating supply of ETH had surpassed 120 million as of this writing. Additionally, data from Dune Analytics revealed that the staked portion constituted more than 21.8% of the total supply, implying that nearly 22% of the entire ETH supply was staked at press time.</p>
+      <p>Considering the daily staking rate, this proportion is anticipated to rise further. However, it’s worth noting that while staking potential was on the rise, there was an opposing trend in the supply of ETH on exchanges.</p>
+      <h3>Exchanges see less and less Ethereum</h3>
+      <p>In January, the proportion of the entire Ethereum supply held on exchanges exceeded 11%. Nonetheless, this metric has undergone a substantial reduction in recent months.</p>
+    	<p>As of this writing, the percentage of the circulating supply residing on exchanges hovered around 8.5%. Also, this shift signified a decrease from the January figure of over 13 million to approximately 10.7 million on exchanges.</p>	
+    	<p>Additionally, this reflected a scenario where an increasing number of holders were inclined to stake their ETH. Furthermore, it demonstrated that a smaller proportion opted to retain their holdings on exchanges.</p>
+      <h3>ETH volume sees a slight decline</h3>
+      <p>The decline in Ethereum’s supply on exchanges has had repercussions on its trading volume, as highlighted by Santiment. The volume chart revealed that while ETH was still experiencing a respectable trading volume, it paled compared to the volume recorded at the start of the year.</p>
+      <p>As of this writing, the trading volume was approximately 5 billion. Furthermore, this figure falls several billion short of the average volume exceeding 7 billion observed around January.</p>
+    </div>
+  },
+  {
+    id: 686,
+    title: 'Solana’s DeFi space shows potential, but what has investors worried?',
+    category: 'Crypto',
+    subCategory: ['Solana', 'DeFi', 'Investors'],
+    description: <div className="blog-desc">
+      <p>Solana’s TVL helped the overall DeFi market’s TVL to somewhat hold its ground. SOL, however, was down by more than 5% in the last 24 hours.</p>
+    </div>,
+    authorName: 'Dipayan Mitra',
+    authorurl: 'https://ambcrypto.com/author/dipayan-mitra/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 25, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693050401/ncx-blog-1208_nzavpb.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Solana’s TVL helped the overall DeFi market’s TVL to somewhat hold its ground. SOL, however, was down by more than 5% in the last 24 hours.</p>
+    	<ul>
+        <li>Solana recently announced multiple launches and partnerships.</li>
+        <li>Though SOL’s chart was red, a few of the metrics suggested a trend reversal.</li>
+      </ul>
+      <p>Solana [SOL] DeFi’s Total Value Locked (TVL) has fallen sharply over the past year since being at its lowest since February 2021. However, Solana’s relatively stable TVL has provided some relief to the overall DeFi market.</p>	
+    	<h3>Solana’s contribution in the DeFi market</h3>
+      <p>The DeFi market TVL has recently fallen to a historic low of $37.78 billion, surpassing even the FTX and Terra episodes. The remaining value likely stemmed from Solana’s TVL post-FTX tumble, combined with retail investors. At press time, SOL had a TVL of over $1.08 billion.</p>
+      <p>However, Solana’s DeFi can help move things along with its latest partnerships and launches. The most notable partnership was with Shopify.</p>	
+    	<p>Solana Pay’s Shopify integration will allow merchants and entrepreneurs to leverage Web3 payments. This will also allow them to bypass transaction fees and third-party payment processing.</p>
+      <p>Another promising launch was the Solana ChatGPT plugin. The newly launched plugin makes it easier to monitor wallet balances, understand transactions, or even explore NFTs.</p>
+      <p>On top of that, Membrane Finance brought the first euro stablecoin to Solana. This enables new use cases such as foreign exchange, euro-denominated debit card payments, and blockchain-native value storage.</p>
+      <p>All these developments add much value to the offerings and capabilities of the blockchain, which can reflect on paper in the months to follow.</p>
+      <h3>Solana’s investors have concerns</h3>
+      <p>Though the blockchain boasted potential, SOL’s performance was underwhelming. According to CoinMarketCap, SOL was down by more than 5% in just the last 24 hours. At press time, it was trading at $20.62 with a market capitalization of over $8.4 billion, making it the ninth-largest crypto.</p>
+      <p>However, sentiment around the token was high, which was evident from its weighted sentiment and social volume.</p>
+      <p>Moreover, a few of the metrics looked bullish on SOL, which could initiate a trend reversal soon. For instance, Solana’s latest price drop was accompanied by a decline in its Open Interest.</p>
+      <p>A drop in the metric is generally followed by a change in price trends. Therefore, there is a chance of SOL’s price chart turning green in the short term.</p>
+    </div>
+  },
+  {
+    id: 685,
+    title: 'ARK Invest and 21Shares apply for Ethereum ETFs',
+    category: 'Crypto',
+    subCategory: ['ARK', 'Ethereum', 'ETFs'],
+    description: <div className="blog-desc">
+      <p>ARK Invest and 21Shares have submitted joint applications for Ethereum futures ETFs, coinciding with reports of potential SEC approval.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 25, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693049852/ncx-blog-1207_jyyz28.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+	    <p>ARK Invest and 21Shares have submitted joint applications for Ethereum futures ETFs, coinciding with reports of potential SEC approval.</p>
+	    <ul>
+        <li>The collaboration showcases an effort to diversify investment options for potential investors in the cryptocurrency space.</li>
+        <li>The SEC’s previous rejections have underscored the stringent regulatory environment surrounding crypto-based financial products.</li>
+      </ul>
+      <p>ARK Invest and 21Shares, prominent investment firms, have submitted joint applications for two Ethereum [ETH] futures exchange-traded funds (ETFs). This move coincided with recent reports indicating that the U.S. Securities and Exchange Commission (SEC) might be on the verge of approving Ethereum ETF applications.</p>	
+      <p>The proposed ETFs were detailed in a filing made to the SEC on 24 August. ARKZ is planned to allocate a minimum of 25% of its total assets to cash-settled Ethereum futures contracts. These include those available on the Chicago Mercantile Exchange (CME).</p>
+    	<p>Conversely, ARKY will feature both Bitcoin [BTC] and Ethereum futures contracts in its composition. Empowered Funds will serve as the investment advisor for these Ethereum products.</p>
+      <p>Notably, ARK Invest and 21Shares had previously collaborated to launch a spot Bitcoin ETF in the year 2021.</p>
+      <p>The SEC had previously rejected ARK Invest’s initial two attempts for a Bitcoin spot ETF. The first request was in March 2022, and the other in January. Subsequently, they filed their latest Bitcoin spot ETF application in April, a couple of months ahead of the $10 trillion firm BlackRock’s own application.</p>
+      <h3>Ethereum ETF application filed amid…</h3>
+      <p>The SEC’s scrutiny led to a significant development wherein several Bitcoin spot ETF applications were deemed inadequate. In response, ARK 21Shares and other applicants incorporated surveillance sharing agreements into their applications as a strategic measure.</p>
+      <p>In addition to their recent Ethereum ETF filings, these investment firms are also eagerly awaiting the outcomes of their applications for the “Ark 21Shares Active Bitcoin Futures ETF” (ARKA) and the “Ark 21Shares Active On-Chain Bitcoin Strategy ETF” (ARKC).</p>
+      <p>This move is indicative of growing interest within the investment community to tap into the evolving cryptocurrency market. Ethereum has garnered significant attention due to its smart contract capabilities and its role in the decentralized finance (DeFi) ecosystem.</p>
+      <p>The partnership comes at a time when financial institutions are increasingly exploring opportunities in the cryptocurrency market.</p>	
+    	<p>While the SEC’s previous rejections underscore the stringent regulatory environment, the recent developments signal a potential shift in attitude. The anticipation of Ethereum ETF approvals indicates that regulators are acknowledging the maturation of the cryptocurrency market and its integration into traditional financial frameworks.</p>
+    </div>
+  },
+  {
+    id: 684,
+    title: 'Did Elon Musk’s latest move influence DOGE, SHIB, and FLOKI? ',
+    category: 'Crypto',
+    subCategory: ['Elon Musk', 'Doge', 'SHIB'],
+    description: <div className="blog-desc">
+      <p>Unraveling Musk’s cryptic signals as Dogecoin’s captain, exploring intertwined Shiba Inu and Floki voyages. Did his recent post steer their fates?</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 25, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693049409/ncx-blog-1206_zipjkz.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Unraveling Musk’s cryptic signals as Dogecoin’s captain, exploring intertwined Shiba Inu and Floki voyages. Did his recent post steer their fates?</p>
+    	<ul>
+        <li>Elon Musk’s post has, in the past, affected DOGE, SHIB, and FLOKI</li>
+        <li>However, despite the recent post, DOGE, SHIB, and FLOKI followed regular market trends.</li>
+      </ul>
+      <p>Elon Musk’s posts related to Dogecoin [DOGE] are familiar territory, and typically, his remarks influence the trajectory of dog-themed cryptocurrencies. Yet, this influence doesn’t stop at DOGE; it also stretches to similar tokens, such as Shiba Inu [SHIB] and Floki.</p>	
+    	<p>Can his recent post about DOGE be credited with initiating any notable shifts in the value of these tokens?</p>
+      <h3>Musk on Dogecoin</h3>
+      <p>In a recent social media update, Elon Musk, the X, formerly Twitter head, mentioned that X was a DOGE-friendly place, responding to another user’s post. Given Musk’s history of DOGE-related communications, it’s challenging to ascertain whether this was a veiled reference to the DOGE cryptocurrency or simply a regular statement.</p>
+      <p>Musk’s considerable influence on DOGE has led to legal actions by some DOGE holders who allege his undue control and manipulation of the token’s price. Additionally, similar dog-themed tokens like Shiba Inu and Floki typically experience the impact of DOGE’s market movements. Was that the case this time?</p>
+      <h3>Analyzing the DogeCoin, Shiba Inu, and Floki price trend</h3>
+      <p>Examining the daily timeframe charts of Dogecoin, Shiba Inu, and Floki on 23 August revealed a common trend of value appreciation at the close of trading. However, attributing this solely to the “Musk effect” seems implausible, given that most cryptocurrencies ended the day with gains.</p>
+      <p>Specifically, Dogecoin rose over 1.6% by the day’s end. Nevertheless, the current scenario indicated a decrease of nearly 1%, with the token’s value hovering around $0.06. Notably, its Relative Strength Index (RSI) plummeted significantly below the neutral threshold of 50, standing at less than 40.</p>
+      <p>Turning to SHIB, it demonstrated a more substantial surge on the same day, marking a growth of over 4% in its value. As of this writing, however, it has experienced a decline of approximately 1%. Unlike DOGE, SHIB’s RSI was also positioned beneath the neutral line, indicating its prevailing downtrend.</p>
+      <p>FLOKI, too, enjoyed an increase exceeding 2% on 23 August, yet its current state reflected a loss. Also, its RSI underscored a solid bearish trend by residing below 35.</p>
+      <h3>Did the DOGE, SHIB, and FLOKI volumes react?</h3>
+      <p>Similarly, when examining the trading volume of Dogecoin, Shiba Inu, and Floki, it became evident that there were no notable spikes in activity. According to the volume data available on Santiment, these tokens exhibited consistent volume patterns on 23 August.</p>
+      <p>As of this writing, the trading volumes were approximately 233 million, 169 million, and 9 million for DOGE, SHIB, and FLOKI, respectively.</p>	
+    </div>
+  },
+  {
     id: 683,
     title: 'SOL could regain its lost confidence thanks to Solana’s latest integration',
     category: 'Crypto',

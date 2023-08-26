@@ -1,5 +1,77 @@
 const data = [
   {
+    id: 632,
+    title: 'Oil futures up 1% to one-week high on soaring US diesel prices',
+    category: 'Commodities',
+    subCategory: ['Oil', 'US', 'prices'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) -Oil futures climbed about 1% to a one-week high on Friday as U.S. diesel prices soared, the number of oil rigs dropped and a fire broke out at a refinery in Louisiana.</p>
+    </div>,
+    authorName: 'Scott DiSavino',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 25, 2023 - 4:48 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693054404/ncx-blog-1215_ack6oc.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Scott DiSavino</p>
+    	<p>NEW YORK (Reuters) -Oil futures climbed about 1% to a one-week high on Friday as U.S. diesel prices soared, the number of oil rigs dropped and a fire broke out at a refinery in Louisiana.</p>	
+    	<p>Brent futures rose $1.12, or 1.3%, to settle at $84.48 a barrel, while U.S. West Texas Intermediate (WTI) crude rose 78 cents, or 1.0%, to settle at $79.83.</p>	
+    	<p>Diesel futures soared about 5% to a near seven-month high, boosting the diesel crack spread, a measure of refining profit margins, to its highest since January 2023.</p>
+      <p>"The main thing was concern about diesel prices, the diesel crack spread and worries about diesel shortages when refineries go into maintenance," said Phil Flynn, an analyst at Price Futures Group. He added prices also drew support from a fire at a Louisiana refinery and a drop in U.S. oil rigs.</p>
+      <p>Weak economic data and a stronger dollar limited gains. For the week, Brent declined less than 1% and WTI lost about 2%. Last week, both benchmarks fell about 2%.</p>
+      <p>A fire in a giant naphtha storage tank was contained on Friday afternoon at Marathon Petroleum's 596,000 barrel-per-day (bpd) Garyville, Louisiana refinery.</p>
+      <p>In August, U.S. energy firms cut the number of active oil rigs for a ninth straight month, energy services firm Baker Hughes said in its closely followed report.</p>
+      <p>Crude prices rose despite weak economic news from Germany, Europe's biggest economy, and the U.S. dollar rose to an 11-week high against a basket of other currencies after U.S. Federal Reserve Chair Jerome Powell said further interest rate hikes may be needed to fight inflation.</p>
+      <p>Higher interest rates can slow economic growth and reduce oil demand. A stronger dollar can also slow demand by making oil more expensive for holders of other currencies.</p>
+      <p>U.S. consumer sentiment, meanwhile, fell modestly in August, as short- and long-term inflation expectations worsened, a survey showed on Friday.</p>
+      <p>Analysts at Morgan Stanley said they expect Brent prices to be well supported around $80 per barrel, with crude likely to remain in a deficit over the rest of this year before returning to a small surplus in early 2024.</p>
+      <p>But the likelihood of crude deficits is no foregone conclusion, said John Evans of oil broker PVM.</p>
+      <p>Norwegian energy firm Equinor, for example, said it started production at its extended Statfjord Ost field six months ahead of schedule.</p>
+      <p>(Additional reporting by Natalie Grover in London, Laura Sanicola in Washington and Muyu Xu in Singapore; editing by David Goodman, Jason Neely, David Gregorio and Cynthia Osterman)</p>
+    </div>
+  },
+  {
+    id: 631,
+    title: 'David Rosenberg: Commodities in your asset mix will boost returns in all economic seasons',
+    category: 'Commodities',
+    subCategory: ['David Rosenberg', 'Commodities', 'economic'],
+    description: <div className="blog-desc">
+      <p>In the past two years, the GSCI commodity index has generated a net positive return of 31.6 per cent, while the S&P 500 has delivered a total that barely touches one per cent and the 10-year U.S. Treasury has lost 18.9 per cent.</p>
+    </div>,
+    authorName: 'David Rosenberg',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 24, 2023 - 9:18 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693061293/ncx-blog-1227_xmp9uy.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By David Rosenberg and Bhawana Chhabra</p>
+    	<p>In the past two years, the GSCI commodity index has generated a net positive return of 31.6 per cent, while the S&P 500 has delivered a total that barely touches one per cent and the 10-year U.S. Treasury has lost 18.9 per cent.</p>	
+    	<p>With that in mind, we decided to see how risk-adjusted returns could be improved if investors tweaked their traditional 60/40 stock/bond asset mix benchmark (which triggered a combined net loss of minus 16 per cent last year) in favour of a model that targeted a 50/25/25 equity/bonds/commodity mix.</p>	
+    	<p>We ran iterations on the asset allocation for portfolios across the years and found that commodities are a formidable diversification tool, no matter the season in the financial world.</p>
+      <p>There are a few key economic reasons why commodities offer a good hedge. First, commodities are a diversified bunch within themselves: energy commodities and base metals are driven by supply-demand cycles in the economy and hence tend to go up during expansionary cycles. Precious metals such as gold behave more like a safe haven, and everyone flocks to them when things aren’t going well, thus leading to all-season protection from commodities.</p>	
+    	<h3>Inflation hedge</h3>
+      <p>Second, commodities provide a decent inflation hedge as well, with a historic near-20-per-cent positive statistical relationship. But the real beauty is that commodities have virtually no correlation with the direction of equity markets and have historically commanded an inverse correlation to the movement in bond prices, hence the critical diversifying characteristics.</p>	
+    	<p>In essence, the resource or materials sector acts differently than stocks and bonds. The only risk to owning commodities is if the global economy enters a deflation phase as it did in 2001-02 and in 2008-09, but this is why you also want to hedge with a same-sized exposure to Treasury bonds.</p>
+      <p>Owing to those reasons, there is no single year going back to 1974 (that’s how far the data history goes) when all three asset classes simultaneously ended the year in red. That is very interesting and underscores the need to limit concentrated bets and focus on diversification at all times.</p>	
+    	<p>There is no such thing as a sure thing, and you never want to put all your eggs in one basket. And, critically, what this analysis proves is that true diversification means being involved in more than just two asset classes that, as we saw in 2022, can go down in tandem and rather sharply. Commodity returns in a tough 2022 investing environment were a solid 26 per cent and this gets very little attention.</p>	
+    	<p>To understand how portfolios with and without commodities behave during different economic phases, we ran iterations on the classic 60/40 equity/bond portfolio and 50/25/25 equity/bond/commodities portfolio. The results weren’t surprising. Getting commodities in the mix means better returns across most economic phases.</p>
+      <p>Across expansionary phases, the 60/40 portfolio has given a median compound annualized growth rate (CAGR) of nearly a sub-10 per cent return, which is lower than the 11 per-cent-return in the 50/25/25 portfolio. The median Sharpe ratio (which adjusts for volatility) for the 50:25:25 portfolio during expansions is 0.8, which is double that of the 60/40 at 0.4.</p>	
+    	<p>For recessions going back to 1974, the equity/bond portfolio has provided a 7.2-per-cent total return on a median basis, while the equity/bond/commodities portfolio total CAGR was modestly superior at 7.4 per cent.</p>	
+    	<p>While stagflation lasted from 1969 to the end of 1980, our iterations begin from 1973 (owing to limitations on data availability) and for this period, the average CAGR for the 60/40 portfolio was 6.8 per cent versus 13.7 per cent (almost double) for the 50/25/25 portfolio.</p>
+      <p>For periods with high inflation, but strong growth (not stagflation but demand-led inflation), the median CAGR total return on the equity/bond portfolio was 4.1 per cent while that of the equity/bond/commodities mix was more than twice as good at 8.5 per cent.</p>	
+    	<ul>
+        <li>Great China slowdown has wider implications than meet the eye</li>
+        <li>Why immigration could be good for housing affordability</li>
+        <li>Recession call has the haters out in force</li>
+      </ul>
+      <p>Hence, it is reasonable to assume that investors would do well to maximize their risk-adjusted returns in practically any economic scenario with a 50/25/25 asset mix compared to the traditional 60/40 allocation — even through recessions when bonds provide the buffer. But the key to this 50/25/25 is that you don’t really have to time the business cycle as much as you need to do with 60/40 and that is the major point.</p>	
+    </div>
+  },
+  {
     id: 630,
     title: 'Gold climbs two-week peak as Jackson Hole looms',
     category: 'Commodities',

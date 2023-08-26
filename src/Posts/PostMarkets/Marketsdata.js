@@ -1,5 +1,381 @@
 const data = [
   {
+    id: 674,
+    title: 'Big Short Investor Michael Burry Bets $1.6 Billion On A Market Crash — Here Are 3 Investment Opportunities If You Want To Stay Away From Stocks',
+    category: 'Markets',
+    subCategory: ['Michael Burry', 'Investment', 'Big Short'],
+    description: <div className="blog-desc">
+      <p>The renowned hedge fund manager successfully wagered against the U.S. housing bubble in 2008, a gutsy call that became the focal point of the film “The Big Short.”</p>
+    </div>,
+    authorName: 'jing',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 26, 2023 - 12:30 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693060893/ncx-blog-1226_tm0jfb.webp',
+    content: <div className="blog-content">
+    	<h3>Michael Burry has always been one to challenge mainstream thinking.</h3>
+    	<p>The renowned hedge fund manager successfully wagered against the U.S. housing bubble in 2008, a gutsy call that became the focal point of the film “The Big Short.”</p>
+    	<p>Now, he’s betting against the U.S. stock market.</p>	
+    	<p>In its latest 13F filing with the Securities and Exchange Commission, Burry’s firm Scion Asset Management disclosed a substantial amount of put options against exchange-traded funds (ETFs) that track major U.S. stock market indices.</p>
+      <h3>Don’t Miss:</h3>	
+      <ul>
+        <li>Elon Musk's vision and ventures are propelling Austin, Texas into an extraordinary opportunity for investors. Here’s how to invest before he floods it with new tech workers.</li>
+        <li>A fine wine index called Liv-ex Fine Wine 1000 GREW in value during the Great Recession. Premium liquor has been moving to the beat of its own drum. Click here to browse curated casks and collections.</li>
+      </ul>
+    	<p>In particular, Scion held $886.56 million worth of put options against the SPDR S&P 500 ETF Trust (NYSEARCA: SPY) at the end of the second quarter. SPY tracks the S&P 500 Index and is the largest ETF in the U.S. measured by assets under management. Burry’s firm also had $738.84 million in put options against the Invesco QQQ Trust Series 1 (NASDAQ: QQQ), an ETF that follows the Nasdaq-100.</p>
+      <p>Put options provide the holder the right to sell an asset at a predetermined price. The value of put options typically increases when the price of the underlying asset drops.</p>
+      <p>With a combined value of $1.6 billion, these put options accounted for 93.59% of Burry’s portfolio at the end of June.</p>
+      <p>If you are wary about the market’s future like Burry, there are investment opportunities outside the realm of stocks. Here’s a look at three of them.</p>
+      <h3>High-Yield Savings Accounts</h3>
+      <p>When the Federal Reserve kept its benchmark interest rates near zero, most savings accounts paid next to nothing.</p>
+      <p>Then inflation got out of control, and the Federal Reserve had to start tightening. In 2022, the U.S. central bank announced seven rate hikes.</p>
+      <p>Interest rate increases have continued in 2023, and the benchmark rate is the highest it’s been since 2001.</p>
+      <p>While higher interest rates have sent shockwaves across the economy — they are a key reason behind many experts’ warnings about stocks — they also mean that people can finally earn some return on their savings.</p>
+      <p>These days, there are plenty of high-yield savings accounts to choose from. And you don’t even need to visit a brick-and-mortar bank to find the ones that pay higher interest rates and charge no account fees.</p>
+      <h3>Single-Family Rentals</h3>
+      <p>This one might sound counterintuitive. A high-interest rate environment also leads to high mortgage rates, so shouldn’t that impact the housing market negatively?</p>
+      <p>It’s true that real estate has taken a hit.</p>
+      <p>Billionaire investor Stanley Druckenmiller recently said that housing “has obviously gone down dramatically given the 500 basis-point increase in interest rates.”</p>
+      <p>But this is not doom and gloom, as he noted that there’s now a “structural shortage in single-family homes.”</p>
+      <p>“So if things got bad enough, I could actually see housing — which is about the last thing you would think of intuitively — could be a big beneficiary on the way out,” Druckenmiller said.</p>
+      <p>The reality is that regardless of the state of the stock market, people will always need a place to live. Meanwhile, elevated home prices and high mortgage rates mean owning a home is less feasible. And when people can’t afford to buy a home, renting becomes the only option. This creates a stable rental income stream for landlords.</p>
+      <p>The best part? It’s easy for retail investors to invest in housing — and you don’t need to buy a house to do it. These days, there are options to invest directly in single-family rentals with as little as $100 while staying completely hands-off.</p>
+      <h3>Fine art</h3>
+      <p>Art might not be the first thing that comes to mind when people think of investments. But the ultra-rich have long been holding artworks in their portfolios — and reaping rewards from this unique asset class.</p>
+      <p>From 1995 to 2022, contemporary art has appreciated at a compound annual growth rate of 12.6%, outperforming the S&P 500’s annual return of 9% over the same time frame.</p>
+      <p>Art also offers diversification as its value is not directly tethered to the stock market, bonds or real estate.</p>
+      <p>To be sure, it usually takes a lot to get in the game.</p>
+      <p>For instance, in 2020, Amazon.com Inc. Founder Jeff Bezos reportedly spent $52.5 million on Ed Ruscha’s “Hurting the Word Radio #2” and another $18.5 million on Kerry James Marshall’s “Vignette 19.”</p>
+      <p>Nowadays you don’t need to be the founder of an e-commerce empire to delve into the art market. New companies have innovated ways for retail investors to invest in masterpieces by the likes of Banksy and Picasso for as little as $20 per share.</p>
+    </div>
+  },
+  {
+    id: 673,
+    title: 'Shares of Better.com — whose CEO fired 900 workers on a Zoom call — slumped 95% on their first day of trade',
+    category: 'Markets',
+    subCategory: ['Better.com', 'CEO', 'trade'],
+    description: <div className="blog-desc">
+      <p>Better Home & Finance, or Better.com, had an awful Thursday debut on the Nasdaq — the stock slumped as much as 95% on its first day of trade.</p>
+    </div>,
+    authorName: 'Huileng Tan',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 9:17 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693060157/ncx-blog-1225_gzfrvi.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+      <ul>
+        <li>Shares of online mortgage lender Better.com slumped as much as 95% after its Nasdaq debut.</li>
+        <li>The shares plunged at the opening bell. They fell so quickly that trading was halted four times in the first 30 minutes.</li>
+        <li>Better.com CEO Vishal Garg brutally laid off 900 employees via a Zoom call in 2021.</li>
+      </ul>
+    	<p>Better Home & Finance, or Better.com, had an awful Thursday debut on the Nasdaq — the stock slumped as much as 95% on its first day of trade.</p>
+    	<p>Shares of the Softbank-backed online mortgage lender — which had merged with blank-check company Aurora Acquisition Corp. — plunged at the opening bell. They fell so quickly that trading was halted four times in the first 30 minutes, Insider's Alex Nicoll reported on Thursday.</p>	
+    	<p>Better.com's disastrous debut on the Nasdaq followed dramatic turns at the digital mortgage company since December 2021 when CEO Vishal Garg brutally laid off 900 employees on a Zoom call.</p>	
+    	<p>He also accused at least 250 of the laid-off staffers of stealing from the company over-reporting their working hours, Fortune reported at the time.</p>
+      <p>News of Garg's handling of the mass firing went viral, and he later apologized to the remaining employees, admitting that he had "blundered the execution" of the layoffs.</p>	
+    	<p>Garg seems to have emerged a different person from the episode, telling TechCrunch in an interview published Wednesday that he had since gone through "a lot" of leadership training and has "worked really, really hard" to be a kinder boss.</p>
+      <p>News of Better.com's plans to go public first broke in May 2021, but the merger with Aurora was delayed amid regulatory scrutiny and the controversial layoffs.</p>	
+    	<p>Better.com grew massively during the COVID-19 pandemic thanks to the hot housing market and low interest rates. But it posted a net first-quarter loss of $89.9 million in July due to falling demand for mortgages on the back of soaring interest rates.</p>
+      <p>Despite the setback in its stock price on its trading debut, Better.com said it is taking a long-term view of its business.</p>	
+    	<p>"We're focused on building a multi-generational business that creates long-term value for our investors," Kevin Ryan, president and CFO of Better.com told Insider.</p>
+      <p>Shares closed 93.4% lower at $1.15 apiece on Thursday.</p>	
+    </div>
+  },
+  {
+    id: 672,
+    title: 'Evergrande Seeks to Resume Trading After Shares Were Halted in March 2022',
+    category: 'Markets',
+    subCategory: ['Evergrande', 'trading', 'market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- China Evergrande Group, the defaulted developer at the heart of the country’s real estate crisis, applied to resume stock trading after a 17-month halt, saying it has fulfilled all the listing requirements.</p>
+    </div>,
+    authorName: 'Li Liu',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 8:36 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693059835/ncx-blog-1224_eejv9o.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- China Evergrande Group, the defaulted developer at the heart of the country’s real estate crisis, applied to resume stock trading after a 17-month halt, saying it has fulfilled all the listing requirements.</p>
+    	<p>Evergrande is seeking to restart trading in Hong Kong on Aug. 28, ending a suspension that began in March last year, according to a filing Friday. The property developer released long-delayed earnings last month for 2021 and 2022, helping it meet requirements to resume trading.</p>	
+    	<p>The resumption would be the latest recovery step for the embattled developer, which is undergoing one of the biggest debt overhauls ever in China. The real estate giant sought Chapter 15 bankruptcy protection in New York last week, shielding it from creditors in the US while it works on the restructuring deal elsewhere. The company also received court approval to hold votes on its offshore-debt restructuring plan, scheduled for next week.</p>
+      <p>Evergrande first defaulted on a dollar bond in December 2021 following months of uncertainty about its finances. The company’s struggles helped set off the initial wave of concerns about China’s property sector that have kept growing. The contagion also spread to Country Garden Holdings Co., once the nation’s biggest developer, that’s now on the verge of default after missing coupon payments. China has responded with several measures to revive the property market, including the latest easing of mortgage policies.</p>	
+    	<p>Evergrande said it has met six requirements to resume trading next week. These include publishing results and conducting an independent investigation into the enforcement by banks of pledge guarantees for its Evergrande Property Services unit. It also addressed issues raised by its auditors. PwC stepped down as Evergrande’s auditor in January and was replaced by Prism Hong Kong & Shanghai Ltd.</p>
+      <p>As part of the trading resumption request, Evergrande released partial results for the first half of 2023. The firm had contracted sales of 33.4 billion yuan ($4.58 billion), and total assets of 1.74 trillion yuan, according to the statement. The company resumed work on 732 projects and delivered 301,000 units in 2022, it added.</p>	
+    	<p>The company is scheduled to hold a board meeting Aug. 27 to approve its interim results for 2023, according to a filing earlier this month.</p>
+      <p>Evergrande last traded at HK$1.65 (21 US cents) in March 2022, down about 95% from its peak in 2017, for a market value of HK$21.8 billion.</p>	
+    </div>
+  },
+  {
+    id: 671,
+    title: 'Bond Market Losses Are Finally Over, Unless Yields Blow Past 6%',
+    category: 'Markets',
+    subCategory: ['Bond', 'Market', 'Yields'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- As brutal as it’s been for US bond investors, the math is finally turning in their favor.</p>
+    </div>,
+    authorName: 'Ye Xie',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 8:19 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693059585/ncx-blog-1223_ngqedg.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- As brutal as it’s been for US bond investors, the math is finally turning in their favor.</p>
+    	<p>The recent round of selling has left the Bloomberg USAgg Index’s yield-to-duration ratio — a measure of how much yields would need to jump to wipe out the value of coming interest payments — hovering around the highest levels in over a decade.</p>	
+    	<p>This week, that ratio rose to 83 basis points, indicating the average-weighted yield of the securities in the benchmark would need to rise by that amount to create losses large enough to offset one year’s worth of interest.</p>	
+    	<p>The yield on that index — broad gauge of investment-grade debt — hit 5.2% Tuesday, before pulling back. That means it would need to jump to around 6% to produce negative returns from here.</p>
+      <p>Few are currently expecting yields to climb that high, even with speculation mounting that the Federal Reserve will hold monetary policy tight to ensure inflation doesn’t pick up again. As a result, bonds may have finally reached the point where interest payments are large enough to insulate investors from price losses, providing a floor for a market that’s struggling to emerge from the deepest downturn since at least the 1970s.</p>	
+    	<p>The ratio in the broad index doesn’t mean every segment of the market is equally insulated, since it would still take a much smaller move to produce losses on the longest-dated securities. So negative returns may continue to crop up in places.</p>
+      <p>But overall, it’s a welcome buffer for investors who have been hammered by losses since the Fed started raising rates in March 2022.</p>	
+    	<p>Prices slid again this month, driving Treasuries briefly back into the red for the year, due to a confluence of forces, including the economy’s resilience and a deluge of new Treasury sales. The selloff sent 10-year Treasury yields to a 16-year high of 4.36% on Tuesday. They traded at around 4.25% on Friday after Fed Chair Jerome Powell said the central bank is prepared to raise interest rates further, if needed.</p>
+      <p>“That’s a much more attractive yield than you’ve been able get for a long time,” said Thomas Hollenberg, a fixed-income portfolio manager at Capital Group, which manages $2.3 trillion in assets. “On a long term, hold-to-maturity basis, that presents good value.”</p>	
+    	<p>The yield-to-duration ratio, which amounts to a reward-to-risk measure for investors, has increased steadily as the Fed’s hikes pulled yields off rock-bottom lows.</p>
+      <p>At the end of 2021, when yields were just 1.75%, the duration of the Bloomberg index stood at 6.8 — meaning every 100 basis-point increase in interest rates would push prices down 6.8%, far more than a year’s worth of interest income at the time. By contrast, that measure is 6.3 now.</p>
+      <p>The cushion provided by interest payments is most apparent in the shortest-dated securities, which already have the highest yields. It would take a 260 basis-point jump in yields to result in losses for 1-3 year debt. Much less would be needed to put longer-term bonds back in the red: A 29 basis-points rise in the Bloomberg long-term Treasury index, which tracks 20- and 30-year bonds, would be enough offset 12 months of interest income, according to Bloomberg data.</p>
+    </div>
+  },
+  {
+    id: 670,
+    title: 'UBS Considers Its First AT1 Bond Sale Since Credit Suisse Rescue',
+    category: 'Markets',
+    subCategory: ['UBS', 'AT1', 'Bond'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- UBS Group AG is exploring its first sale of additional tier 1 bonds since its rescue acquisition of collapsed Swiss peer Credit Suisse Group AG, people familiar with the bank’s plans said.</p>
+    </div>,
+    authorName: 'Abhinav Ramnarayan and Tasos Vossos',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 7:47 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693059372/ncx-blog-1222_ooum3b.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- UBS Group AG is exploring its first sale of additional tier 1 bonds since its rescue acquisition of collapsed Swiss peer Credit Suisse Group AG, people familiar with the bank’s plans said.</p>
+    	<p>The sale of the risky instruments could come as early as September, one of the people added. There are no formal arrangements in place yet for an offering, and the bank could still decide not to press ahead. A spokesperson for UBS declined to comment.</p>	
+    	<p>Additional tier 1 bonds, which act as a capital buffer when banks run into difficulties, were the focus of investor angst when $17 billion of Credit Suisse AT1s were wiped out as part of its government-orchestrated takeover by UBS.</p>	
+    	<p>A last-minute tweak of Swiss law allowed this to go ahead even as Credit Suisse shareholders managed to preserve some value in the deal. This pushed Swiss AT1 bond spreads wider compared to European counterparts.</p>
+      <p>Two AT1 issues by UBS, a S$700 million ($516 million) bond and a $2.5 billion note, reach their first early repayment dates in November and January, respectively, based on data compiled by Bloomberg. Repaying them without new issuance would deplete the lender’s additional tier 1 capital bucket.</p>
+      <p>The market for AT1 debt was hit hard by the Credit Suisse collapse, but has since made something of a comeback, delivering strong returns for those who braved it. However, AT1s issued by UBS are still indicated wider compared to similar bonds from non-Swiss peers, based on data compiled by Bloomberg.</p>
+      <p>Supply has also returned. In June, banks sold the first euro-denominated issues since the Credit Suisse wipeout and BNP Paribas SA became the first to brave the US dollar market with $1.5 billion sale in August. Meanwhile, US heavyweights Goldman Sachs Group Inc. and Wells Fargo & Co. also resumed issuance of their own flavor of additional tier 1 capital, preferred shares, in recent weeks.</p>
+    </div>
+  },
+  {
+    id: 669,
+    title: 'Market Rally Attempt Suffers Big Reversal Amid Nvidia Earnings, Powell Speech: Weekly Review',
+    category: 'Markets',
+    subCategory: ['Market', 'Nvidia', 'Powell'],
+    description: <div className="blog-desc">
+      <p>A stock market rally attempt gained momentum to start the week, but then suffered an ugly reversal Thursday after initially gaining as Nvidia (NVDA) crushed views and sharply raised guidance yet again. NVDA erased post-earnings gains but was up sharply for the week, although many AI plays fell sharply. Fed chief Jerome Powell on Friday said inflation is too high and rates may have to keep rising.</p>
+    </div>,
+    authorName: 'IBD STAFF',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 7:16 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693058801/ncx-blog-1221_rshi6i.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>A stock market rally attempt gained momentum to start the week, but then suffered an ugly reversal Thursday after initially gaining as Nvidia (NVDA) crushed views and sharply raised guidance yet again. NVDA erased post-earnings gains but was up sharply for the week, although many AI plays fell sharply. Fed chief Jerome Powell on Friday said inflation is too high and rates may have to keep rising.</p>
+    	<p>Meanwhile, many retailers sold off on weak results or guidance, including Dick's Sporting Goods (DKS), Foot Locker (FL) and Macy's (M), though Abercrombie & Fitch (ANF) soared on strong earnings.</p>	
+    	<p>Treasury yields jumped to a 15-year high, but then backed off slightly. The U.S. dollar is at a 2023 high.</p>
+      <h3>Market Correction Isn't Over</h3>	
+    	<p>The stock market rally attempt isn't over for the S&P 500 and Nasdaq but Thursday's downside reversal from the 50-day line was an ominous sign. The correction remains in force for now. Nvidia earnings failed to buoy the market, while many retailers warned on consumer spending. The 10-year Treasury yield pulled back after hitting a 15-year high.</p>
+      <h3>Powell: Rate-Hike Threat Real</h3>
+      <p>Federal Reserve chair Jerome Powell, in his annual Jackson Hole policy speech, said policymakers may need to hike again due to the U.S. economy's surprising strength. However, he stressed that the Fed will "proceed carefully" with any hikes. Overall, the speech seemed to be slightly more hawkish than Powell's comments after the late July Fed meeting. Odds of a late September hike remain low, but are now roughly 50-50 for a move by the Nov. 1 meeting.</p>	
+    	<p>Economic Data Mixed</p>	
+    	<p>The latest batch of data came in mixed, detracting a bit from perceptions that the U.S. economy is on a tear in the third quarter.</p>
+      <p>S&P Global's flash U.S. composite output index fell to 50.4 in August, just above the 50 neutral level, from 52 in July. The services activity index slipped to 51 from 52.3, also a six-month low. The manufacturing output index dipped back into contractionary territory, falling 2.7 points to 47.5.</p>	
+    	<p>Durable goods orders fell 5.2% in July, and the picture wasn't exactly robust even excluding typical volatility in Boeing aircraft orders. Core capital goods orders, seen as a proxy for capital spending, edged up 0.1%, while the prior month's orders were revised down to -0.2% from an initial read of +0.4%.</p>	
+    	<p>Still, there's no sign of rising layoffs, with new jobless claims falling to 230,000 in the week through Aug. 19, down from 240,000 the prior week. The number of people continuing to claim jobless benefits fell to 1.702 million, down nearly 9% from the recent peak in early April.</p>
+      <p>Meanwhile, new home sales rose to a 714,000 annual rate, a 17-month high, from a downwardly revised 684,000 the month before. That improvement comes as existing home sales remain mired near long-term lows due to limited supply: July's annual pace of 4.07 million fell 2.2% vs, June and 16.6% from a year earlier.</p>	
+    	<h3>AI Chips Drive Nvidia Beat</h3>
+      <p>Artificial intelligence chipmaker Nvidia (NVDA) smashed Wall Street's lofty expectations for its fiscal second quarter and guided much higher than views for the current period. It was the second big beat-and-raise quarter in a row for Nvidia. On a year-over-year basis, its earnings rocketed 429% while sales soared 101% thanks to massive demand for chips and hardware for AI data centers. Nvidia predicted its sales will rise 170% in the current quarter. Analog Devices (ADI) missed estimates for its fiscal third quarter as customers work through high inventories. It also guided lower for the current quarter. And Marvell Technology (MRVL) narrowly beat fiscal Q2 targets and provided an in-line outlook for Q3.</p>	
+      <h3>Retailers Cite Consumer Woes</h3>
+    	<p>Macy's reported yet another quarter of year-over-year declines, with adjusted EPS off 74% but still beating views. The department store giant said it's cautious about consumer spending. Dick's Sporting Goods (DKS) and Foot Locker (FL) slashed guidance after disappointing quarterly results. Dick's blamed its woes in part on higher theft and organized crime, while Foot Locker noted consumer issues. Several other retailers had poor results.</p>
+      <h3>Young Adult Stores Are Bright Spots</h3>
+      <p>Abercrombie & Fitch (ANF), Urban Outfitters (URBN) and Guess (GES) reported strong earnings that easily beat views with revenue growth also topping. Abercrombie and Guess also raised guidance. Those two stocks skyrocketed. URBN stock rose on earnings but tumbled for the week.</p>	
+    	<p>Miniso Earnings Jump</p>	
+    	<p>Chinese retailer Miniso (MNSO) topped fiscal Q4 estimates, with a 127% EPS gain. Revenue grew 30% to $448.5 million. Miniso opened 277 stores in the quarter, including 56 overseas. In Chinese currency terms, adjusted profit per ADS grew 150% on 40% revenue growth. MNSO stock surged past a shelf formation.</p>
+      <p>Software Earnings</p>	
+    	<p>Human resources software maker Workday (WDAY) easily topped Wall Street's Q2 estimates. EPS leapt 72% while revenue climbed 16% to $1.79 billion. WDAY stock rose modestly. Snowflake (SNOW) reported a big jump in earnings while revenue climbed 36% to $674 million. The data analytics software maker guided in line after cutting estimates multiple times. CFO Michael Scarpelli said Snowflake is seeing "encouraging signs of stabilization, but not recovery" for corporate software spend. SNOW stock reversed lower on Thursday.</p>	
+    	<p>News In Brief</p>
+      <p>Splunk (SPLK) jumped after the data analytics software firm easily beat Q2 views and raised its full-year outlook. Revenue increased 14% to $911 million, easily beating views. EPS skyrocketed to 71 cents. Shares gapped out of a base.</p>	
+    	<p>Baidu (BIDU) reported a 43% increase in net profit, soundly beating Q2 views. Revenue increased 15% to $4.67 billion, also topping forecasts. The Chinese search giant said AI presents "a significant market opportunity for us." U.S.-listed BIDU shares climbed 2.75% Tuesday.</p>	
+    	<p>Zoom Video (ZM) beat views with a 28% EPS gain in its July-ended Q2 with revenue up 4% to $1.14 billion. The video conferencing company also raised guidance for the rest of the year. ZM shares were up fractionally for the week as of Friday afternoon.</p>
+      <p>Lowe's (LOW) reported a 2% EPS decline, topping views, while sales fell 9%, in line with forecasts. Professional sales were strong. LOW stock rose modestly.</p>	
+    	<p>Boeing (BA) found a new 737 Max manufacturing issue that could delay deliveries again. It's a job done by supplier Spirit AeroSystems (SPR). Boeing says it has a fix. BA stock fell while SPR tumbled.</p>	
+    	<p>Moderna (MRNA) and Covid vaccine makers jumped Monday amid reports of rising Covid-related hospitalizations. MRNA also benefited from a new deal with China's Carsgen to study a cancer vaccine regimen. The companies will test Moderna's off-the-shelf cancer vaccine with Carsgen's cell therapy. The cell therapy has shown promise in patients with gastric, pancreatic and other digestive system cancers.</p>
+      <p>Toll Brothers (TOL) reported a 59% EPS gain, the second straight quarter of accelerating growth, while revenue rose 8%. Both beat fiscal Q3 views. The luxury homebuilder guided higher. Shares rose.</p>	
+    	<p>Autodesk (ADSK), a maker of software for computer-aided design and workflows, beat estimates for its fiscal second quarter and topped views with its outlook. Its Q2 earnings increased 16% while sales advanced 9% to $1.35 billion.</p>	
+    	<p>NetEase (NTES), one of China's leading online games and internet services providers, topped Q2 EPS estimates with a 61% gain, but sales disappointed with a 3% drop to $3.3 billion.</p>
+      <p>Intuit (INTU) beat fiscal Q4 views but offered a mixed outlook for the current period. The financial software firm's EPS grew 50%, with sales up 12% to $2.71 billion.</p>
+    </div>
+  },
+  {
+    id: 668,
+    title: 'Brazil’s Inflation Speeds Past Forecasts After Key Rate Cut',
+    category: 'Markets',
+    subCategory: ['Brazil', 'Inflation', 'forecast'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Brazil’s annual inflation sped up more than expected in early August, snapping a 14-month slowdown as the central bank pledges to continue cutting its interest rate.</p>
+    </div>,
+    authorName: 'Andrew Rosati',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 5:04 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693058548/ncx-blog-1220_wf56er.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Brazil’s annual inflation sped up more than expected in early August, snapping a 14-month slowdown as the central bank pledges to continue cutting its interest rate.</p>
+    	<p>Government data released Friday showed consumer prices rose 4.24% in mid-August from a year earlier, more than the 4.12% median estimate from analysts surveyed by Bloomberg. Monthly inflation stood at 0.28%.</p>	
+    	<p>Brazil kicked off a monetary easing cycle on Aug. 2, lowering the benchmark Selic to 13.25% following a slowdown in consumer price growth and signs that activity is weakening. The annual inflation rate is now picking up due to comparisons from year ago when tax cuts were implemented. Still, months of double-digit borrowing costs have caused consumer demand and manufacturing to stagnate, infuriating President Luiz Inacio Lula da Silva as he tries deliver robust growth for Latin America’s largest economy.</p>	
+    	<p>Swap rates climbed across the curve after the release of the inflation data. Contracts due in January 2025, which indicate market sentiment about monetary policy at the end of next year, rose 12 basis points in morning trading, as traders reduced bets of a longer easing cycle.</p>
+      <p>Inflation Drivers</p>
+    	<p>During the first two weeks of August, housing costs jumped 1.08% on rising prices of utilities, representing the biggest driver of the mid-month increase. Another key contributor, health care costs, gained 0.81%, while the price of food and beverages fell 0.65%.</p>	
+    	<p>Estimates of core inflation, which strips out volatile items like food and fuel, accelerated to 0.33% on the month, from 0.09% before, according to Banco Pine S.A.</p>	
+    	<p>That’s like to add to already mounting price pressures. On Aug. 15, state-controlled Petroleo Brasileiro SA jacked up wholesale gasoline and diesel prices to reduce a cost gap with international markets.</p>
+      <p>After months of selling fuels domestically at a steep discount, Petrobras, as the oil giant is known, pleased shareholders and surprised analysts with the size of the adjustment.</p>
+    	<p>The annual inflation rate is far below last year’s peak over 12% though above the 2023 target of 3.25%. Central bank chief Roberto Campos Neto has pushed back against bets that policymakers will speed up monetary easing.</p>	
+    	<p>“The fight against inflation is not yet won,” he said last week. “A window has opened to lower rates with credibility.”</p>	
+    	<p>--With assistance from Giovanna Serafim.</p>
+    </div>
+  },
+  {
+    id: 667,
+    title: 'IMF Chief Sees Monetary Policy Divergence After Inflation Fight',
+    category: 'Markets',
+    subCategory: ['IMP', 'Chief', 'Inflation'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- International Monetary Fund Managing Director Kristalina Georgieva expects global monetary policies to diverge after most major central bankers have spent the last year tightening credit conditions to slow price gains.</p>
+    </div>,
+    authorName: 'Ramsey Al-Rikabi',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 4:45 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693058152/ncx-blog-1219_jmb7hj.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bloomberg -- International Monetary Fund Managing Director Kristalina Georgieva expects global monetary policies to diverge after most major central bankers have spent the last year tightening credit conditions to slow price gains.</p>
+    	<p>“We’re going to see after a period of convergence in monetary policy action — tightening rates, fighting inflation — some divergence” as, for instance, the US economy grows faster than the European Union, Georgieva said in an interview with Bloomberg Television on Friday.</p>	
+    	<p>Georgieva’s comments come ahead of a speech by Federal Reserve Chair Jerome Powell in Wyoming later Friday, which will be intensely monitored for clues on the path of interest rates. Central bankers from around the world are meeting in Jackson Hole for an annual three-day gathering, including Christine Lagarde, president of the European Central Bank.</p>	
+    	<p>“Central bankers will have to recognize that some specificity in how they approach the fight against inflation — and how they link this to their role in supporting growth and employment — how they approach that is going to be a matter of thorough assessment of national data.”</p>
+      <p>The IMF last month raised its outlook for the world economy this year, partly on expectations for a soft landing in the US, seeing global gross domestic product growing 3%. However, it warned of lingering downside risks from higher interest rates and Russia’s war in Ukraine.</p>	
+    	<p>Georgieva also highlighted the cost of economic fragmentation, which she wrote about earlier this week in an article in Foreign Affairs, describing it in the piece as “a process that begins with increasing barriers to trade and investment and, in its extreme form, ends with countries’ breaking into rival economic blocs.”</p>	
+    	<p>The fund has warned that increasing restrictions on the trade of goods and services could reduce global GDP by up to 7%, while foreign direct investment could be channeled into competing groups of countries, hurting output.</p>
+      <p>These warnings come amid worries about rising economic and political competition between the US and China. Earlier this week, the BRICS group of countries said it plans to more than double its membership, adding Saudi Arabia, United Arab Emirates and Egypt — among others — to the emerging-market bloc with heavyweights China, India and Russia.</p>	
+    	<p>--With assistance from Lisa Abramowicz, Jonathan Ferro and Tom Keene.</p>	
+    </div>
+  },
+  {
+    id: 666,
+    title: 'Global Banks Tear Up Forecasts for Turkish Rates After Huge Hike',
+    category: 'Markets',
+    subCategory: ['Global bank', 'Turkish', 'Forecast'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Economists at the world’s biggest lenders have a lot of catching up to do in rewriting forecasts for Turkish interest rates after the central bank blindsided the market on Thursday with an unexpectedly steep hike.</p>
+    </div>,
+    authorName: 'Beril Akman',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 1:32 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693057969/ncx-blog-1218_byfemo.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Economists at the world’s biggest lenders have a lot of catching up to do in rewriting forecasts for Turkish interest rates after the central bank blindsided the market on Thursday with an unexpectedly steep hike.</p>
+    	<p>But with the lira coming under renewed selling pressure, policymakers likely won’t stop a monetary tightening cycle that already delivered the biggest rate increase in years to lift Turkey’s benchmark by 7.5 percentage points to 25%.</p>	
+    	<p>Global banks from Morgan Stanley to Barclays Plc and JPMorgan Chase & Co. now say rates will reach at least 30% by the end of the year, reflecting expectations of a massive shift from the central bank’s earlier guidance of “gradual” tightening.</p>	
+    	<p>The Turkish central bank “delivered a major positive surprise,” Barclays analysts said in a report on Friday. “This flies in the face of the commonly held analyst/market view that the policy rate is psychologically capped at 25%.”</p>
+      <p>The emerging outlook is aligning with market expectations that monetary policy should be much tighter still.</p>
+    	<p>The Turkish currency’s overnight indexed swaps — derivatives used to bet on future borrowing costs — are showing expectations for higher rates ahead. The one-year contract spiked to 33.5%, the highest level since before elections in May, from 28% on Wednesday.</p>	
+    	<p>“We believe the Turkish central bank’s move was important in terms of limiting the volatility in FX,” said Mustafa Oner, an analyst at ICBC Turkey Investment. “It is a positive and effective action for the short-term.”</p>
+      <p>The surprise decision already appeared to carry less sway with traders on Friday, with the lira weakening as much as 2.7% against the US dollar. It’s the worst performance across emerging markets, erasing about half of the currency’s gains from Thursday.</p>
+      <p>The challenge for policymakers now isn’t only to appease investors but also to ensure they still have the support of President Recep Tayyip Erdogan.</p>	
+      <p>Erdogan, a self-styled enemy of high borrowing costs, has chased out three central bank governors since 2019, spurring an exodus of capital that has weighed heavily on the lira.</p>
+      <p>The president appeared to be trying a new tack since his reelection in May, appointing officials that favor more conventional measures to steer the economy.</p>
+      <p>Uncertainty will keep the market guessing until Erdogan weighs in.</p>
+      <p>The “rate hike was commendable, but it has delivered us to a point where we have to watch out for reactions from Erdogan,” Tatha Ghose of Commerzbank AG said in a report. “The pessimistic scenario is where deeply entrenched inflation takes longer to respond, and meanwhile, Erdogan loses patience and declares that high interest rates do not work.”</p>
+    	<p>--With assistance from Tugce Ozsoy.</p>
+    </div>
+  },
+  {
+    id: 665,
+    title: 'Japan SoftBank will likely sell shares in India Zomato - CNBC-TV18',
+    category: 'Markets',
+    subCategory: ['Japan', 'Softbank', 'Zomato'],
+    description: <div className="blog-desc">
+      <p>BENGALURU (Reuters) -Japan's SoftBank Group will likely sell shares in Indian food delivery firm Zomato as the lock-in for investors post the company's acquisition of Blinkit ends on Aug. 25, CNBC-TV18 reported on Friday, citing sources.</p>
+    </div>,
+    authorName: 'Reuters',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 11:50 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693057717/ncx-blog-1217_ewhaal.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BENGALURU (Reuters) -Japan's SoftBank Group will likely sell shares in Indian food delivery firm Zomato as the lock-in for investors post the company's acquisition of Blinkit ends on Aug. 25, CNBC-TV18 reported on Friday, citing sources.</p>
+    	<p>Zomato, which acquired the quick grocery-delivery startup Blinkit for 44.47 billion rupees ($538.05 million) last year, had issued a 3.55% stake to investor Softbank as part of the deal.</p>	
+    	<p>U.S.-based firms Sequoia and Tiger Global, who were investors in Blinkit, had also received shares in Zomato after the acquisition.</p>	
+    	<p>Shares received by the investors will unlock for trading on Aug. 28, CNBC-TV18 said. Zomato and Softbank declined to comment on the report.</p>
+      <p>The broadcaster's report did not specify if Softbank plans on selling its entire stake in Zomato.</p>
+      <p>About 5.07 million shares of Gurgaon-based Zomato changed hands on Friday in a block deal at 91.8 rupees per share, Refinitiv data showed, although the details of the transaction were not known.</p>
+      <p>Shares were last down about 3.1%.</p>
+      <p>($1 = 82.6510 Indian rupees)</p>
+      <p>(Reporting by Biplob Kumar Das in Bengaluru; Editing by Savio D'Souza and Eileen Soreng)</p>
+    </div>
+  },
+  {
+    id: 664,
+    title: 'Analysis-Nvidia $25 billion buyback a head-scratcher for some shareholders',
+    category: 'Markets',
+    subCategory: ['Nvidia', 'buy-back', 'shareholders'],
+    description: <div className="blog-desc">
+      <p>NEW YORK (Reuters) - Nvidia's move to buy back $25 billion of its shares after its stock has more than tripled this year caught some investors off-guard, even as they cheered a stellar second-quarter report.</p>
+    </div>,
+    authorName: 'Lewis Krauskopf, Chibuike Oguh and Lance Tupper',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 25, 2023 - 9:02 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693057503/ncx-blog-1216_njbs7u.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Lewis Krauskopf, Chibuike Oguh and Lance Tupper</p>
+    	<p>NEW YORK (Reuters) - Nvidia's move to buy back $25 billion of its shares after its stock has more than tripled this year caught some investors off-guard, even as they cheered a stellar second-quarter report.</p>	
+    	<p>Shares of Nvidia touched a record high on Thursday, a day after the company blew past expectations with its quarterly revenue forecast as an artificial-intelligence boom fueled demand for its chips. Nvidia shares, which had run up in the days leading up to its report, climbed more than 6% on Thursday but pared gains to end the day little changed.</p>	
+    	<p>However, Nvidia's stock buyback - the fifth-biggest repurchase announcement among U.S.-based companies this year, according to EPFR - surprised some investors.</p>
+      <p>Companies commonly repurchase their stock as a way to return capital to shareholders. Such buybacks can benefit a stock's price by reducing the supply of shares and increasing demand, and can boost earnings per share, a closely watched investor metric.</p>
+      <p>But while shareholders often see buybacks as an encouraging sign when a company’s stock appears cheap, Nvidia’s shares have shot up some 220% in 2023, leaving investors searching for the reasons behind the company’s move.</p>
+      <p>"It's a little bit of a head-scratcher," said King Lip, chief strategist at Baker Avenue Wealth Management, which has $2.5 billion in assets under management and counts Nvidia as a top-10 holding.</p>
+      <p>"As a shareholder, we like to see stock buybacks, but for a company like Nvidia that is growing so fast, you kind of want to see their earnings being plowed back in to the company,” Lip added.</p>
+      <p>As opposed to companies with sluggish financial performance growth that turn to buybacks to help prop up earnings per share, the announcement from Nvidia "comes as a surprise" given that they are "a hot growth tech name," said Daniel Morgan, senior portfolio manager at Synovus Trust, which owns Nvidia shares.</p>
+      <p>"The message seems to be that (Nvidia's) management believes that their stock is undervalued," Morgan said.</p>
+      <p>GENERATING CASH</p>
+      <p>For some investors, an "undervalued" Nvidia might be a difficult message to stomach. Nvidia shares traded at 45 times forward 12-month earnings estimates as of Wednesday compared with about 19 times for the overall S&P 500, according to Refinitiv Datastream.</p>
+      <p>"Historically, you'd love it when a company is able to buy their stock back when it is depressed, but I don't think anybody can make the case that it is at a depressed place right now," said Tom Plumb, CEO and lead portfolio manager at Plumb Funds, which has Nvidia as one of its largest holdings.</p>
+      <p>However, Plumb said, the company might be limited in how it can deploy its resources after its deal to buy semiconductor designer Arm Holdings Ltd collapsed last year amid regulatory concerns.</p>
+      <p>"They're generating incredible amounts of cash, more than they need for their current investment strategy, and they're prohibited from buying significant complementary businesses," Plumb said. "So what are they going to do with their cash?"</p>
+      <p>Nvidia spent about 27% of revenue on research and development last year, in line with rival chip companies.</p>
+      <p>The company did not immediately respond to a request for comment.</p>
+      <p>In its second-quarter earnings release on Wednesday, Nvidia said its board approved $25 billion in additional share repurchases "without expiration," and that the company plans to continue repurchases this fiscal year.</p>
+      <p>Despite the staggering dollar amount, Nvidia's buyback amounted to only 2.1% of its nearly $1.2 trillion market value, or buyback yield, as of Wednesday. That is less than the historic 2.58% buyback yield for the overall S&P 500, when looking over one-year periods, according to Howard Silverblatt, senior index analyst at S&P Dow Jones Indices.</p>
+      <p>Meanwhile, several other megacap tech and growth companies have announced even bigger buybacks this year: Apple at $90 billion, Alphabet at $70 billion and Meta Platforms at $40 billion.</p>
+      <p>Tech companies tend to prefer using cash for buybacks over dividends, because "if they are on the hook for a dividend every quarter that may hinder their ability to take advantage of growth opportunities," said Daniel Klausner, head of U.S. public equity advisory at Houlihan Lokey.</p>
+      <p>Indeed, some investors welcomed Nvidia's buyback decision.</p>
+      <p>"It’s a show of confidence," said Francisco Bido, senior portfolio manager for F/M Investments' large cap focused fund, which holds Nvidia shares. "If they had better use for (the cash), I am pretty sure they would have done it."</p>
+      <p>(Reporting by Lewis Krauskopf, Chibuike Oguh and Lance Tupper in New York; Additional reporting by Echo Wang in New York and Stephen Nellis in San Francisco; Editing by Ira Iosebashvili and Matthew Lewis)</p>
+    </div>
+  },
+  {
     id: 663,
     title: 'Bond Buyers Haven’t Had It This Good Since the Financial Crisis',
     category: 'Markets',
