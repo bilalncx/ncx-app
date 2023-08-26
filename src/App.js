@@ -46,6 +46,7 @@ import PostIndicesList from './Posts/PostIndices/ArticlesList';
 import NCXCardPage from './Assets/pages/ncxcard/newcard';
 import AccountPage from './Assets/pages/company-card/card';
 import BusinessAccountPage from './Assets/pages/business-account/business';
+import Accounting from './Assets/pages/accounting/account';
 
 const App = () => {
   return (
@@ -93,8 +94,9 @@ const App = () => {
           <Route path='/post-commodities/:id' element={<PostCommoditiesDetails />} />
           <Route path='/post-markets' element={<PostMarketList />}/>
           <Route path='/post-markets/:id' element={<PostMarketDetails />} />
-          <Route path='/company-card' element={<AccountPage />} />
-          <Route path='/digital-business-account' element={<BusinessAccountPage />} />
+          <Route path='/company-cards' element={<AccountPage />} />
+          <Route path='/business-accounts' element={<BusinessAccountPage />} />
+          <Route path='/accounting' element={<Accounting />} />
           {/* <Route path='/new-card' element={<NCXCard />} /> */}
         </Routes>
       </BrowserRouter>

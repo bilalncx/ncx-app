@@ -37,7 +37,7 @@
 .buttonBack{padding: 0px; background: none; border: none; background: linear-gradient(269.4deg, #FFFFFF 0.52%, rgba(255, 255, 255, 0) 99.48%) !important; height: 638px !important; width: 150px !important; position: absolute; left: 0px; top: 0px; transform: rotate(180deg);}
 button:disabled{display: none;}
 #NCXCreditCardSlider .horizontalSlider___281Ls{overflow: unset !important;}
-article.ncxcard01 {padding-right: 50px; padding-left: 50px; border-right: 0.5px solid rgba(0,0,0,1);}
+article.ncxcard01 {padding-right: 50px; padding-left: 50px; border-right: 1px solid rgba(0,0,0,0.1);}
 article.ncxcard01.vb{border: none;}
 .buttonBack svg {transform: rotate(-180deg);}
 div#NCXCreditCardSlider.mobile-ss{display: none;}

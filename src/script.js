@@ -181,9 +181,11 @@ $(document).ready(function() {
       $("body").addClass("body-overflow");
     } else if (window.location.href.indexOf("/new-card") > -1){
       $("body").addClass("body-overflow");
-    }else if (window.location.href.indexOf("/company-card") > -1){
+    }else if (window.location.href.indexOf("/company-cards") > -1){
       $("body").addClass("body-overflow");
-    } else if (window.location.href.indexOf("/digital-business-account") > -1){
+    } else if (window.location.href.indexOf("/business-accounts") > -1){
+      $("body").addClass("body-overflow");
+    } else if (window.location.href.indexOf("/accounting") > -1){
       $("body").addClass("body-overflow");
     } else{
       $("body").removeClass("body-overflow");

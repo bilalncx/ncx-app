@@ -491,7 +491,7 @@ function AccountingDesktop(){
                                     </svg>
                                     </summary>
                                     <div className='contt'>
-                                        <p>ATM Withdrawals up to  $20,000 per month per card, depending on the card tier. You can set limits on weekly or monthly ATM withdrawals for each card - depending on your preferences - to help you better manage your team's budget.</p>
+                                        <p>ATM Withdrawals up to  $20,000 per month per card, depending on the card tier. You can set limits on weekly or monthly ATM withdrawals for each card, depending on your preferences, to help you better manage your team's budget.</p>
                                     </div>
                                 </details>
                                 <details>
@@ -501,7 +501,7 @@ function AccountingDesktop(){
                                         </svg>
                                     </summary>
                                     <div className='contt'>
-                                        <p>NCX Cards are free and only offered to users with 30,000+ staked NCXT, depending on the amount of staked NCXT users are eligible for one of the 4 card tiers that offer different spending and ATM withdrawal limits, as well as Free Netflix and Spotify Subscriptions, Concierge Service & Lounge Access. </p>
+                                        <p>NCX Cards are free and only offered to users with 30,000+ staked NCXT. Depending on the amount of staked NCXT, users are eligible for one of the 4 card tiers that offer different spending and ATM withdrawal limits.</p>
                                     </div>
                                 </details>
                                 <details>
@@ -511,7 +511,7 @@ function AccountingDesktop(){
                                         </svg>
                                     </summary>
                                     <div className='contt'>
-                                        <p>NCX cards are secured with 3-D Secure technology. 3-D Secure requires at least two separate verification methods from you (the user) across multiple devices. This assists us in ensuring that the one utilizing the card is indeed you, while also aiding in more effectively recognizing any possible unauthorized transactions on your account.</p>
+                                        <p>NCX cards are secured with 3-D Secure technology. 3-D Secure requires at least two separate verification methods from you (the user) across multiple devices. This assists us in ensuring that the one utilizing the card is indeed you, whilst recognizing any possible unauthorized transactions on your account.</p>
                                     </div>
                                 </details>
                                 <details>

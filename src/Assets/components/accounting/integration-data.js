@@ -1,0 +1,196 @@
+const IntegrateData = [
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/390c6ee6-cbe7-4b57-b41b-28b34e03f969_Assoconnect_Logo_a0w3g6.png',
+        company: 'AssoConnect',
+        slug: 'associations',
+        desc: 'integration_desc_1',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031588/d59178f8-d307-47cc-9ae6-67a702b47f70_axonaut-256-logo_1_ufxpfi.jpg',
+        company: 'Axonaut',
+        slug: 'accounting',
+        desc: 'integration_desc_2',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/0c9b25ba-85cb-4d87-ad29-e9ae5afffcad_acasi_1_arpzpd.png',
+        company: 'Acasi',
+        slug: 'accounting',
+        desc: 'integration_desc_3',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/c7f144d8-dc14-4bf8-9ae2-5a67200e50e0_clementine_1_hamaet.png',
+        company: 'Compta Clémentine',
+        slug: 'accounting',
+        desc: 'integration_desc_4',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/78bbc3fb-8dd4-4a1a-afab-33d1d2786436_hero-connect-logo-partner-datev-placeholder_ixbmfp.png',
+        company: 'DATEV-Schnittstelle für Belegbilder',
+        slug: 'accounting',
+        desc: 'integration_desc_5'
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/78bbc3fb-8dd4-4a1a-afab-33d1d2786436_hero-connect-logo-partner-datev-placeholder_ixbmfp.png',
+        company: 'DATEV-Schnittstelle',
+        slug: 'accounting',
+        desc: 'integration_desc_6',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/717509b9-50c9-4998-ac46-333679b7b644_Connect_-_logo_rgx6bm.png',
+        company: 'Fizen',
+        slug: 'associations',
+        desc: 'integration_desc_7',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/88dd54f0-d01f-4be5-be36-2e1f1dd60fcb_Connect_-_logo_pbbdo9.png',
+        company: 'Indy',
+        slug: 'accounting',
+        desc: 'integration_desc_8',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/144fb069-6196-4553-ac15-a2cb804b0517_Sellssy_Connect_Logo_2x_zahloh.png',
+        company: 'Sellsy',
+        slug: 'accounting',
+        desc: 'integration_desc_9',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/83d8b528-9363-47af-9ec4-648d4ea61e8a_stripe-logo_rworar.png',
+        company: 'Stripe',
+        slug: 'associations',
+        desc: 'integration_desc_10',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/875f6962-9c95-4cc1-85bf-7d2f6cfb5a7e_Accountable_Connect_Logo_lwukui.png',
+        company: 'Accountable',
+        slug: 'accounting',
+        desc: 'integration_desc_11',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/620bca60-79b5-4192-931f-dd5105fa5569_Tiime_Connect_Logo_2x_doxpql.png',
+        company: 'Sorted',
+        slug: 'accounting',
+        desc: 'integration_desc_12',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031587/2d0a12ac-c09b-4d4c-8bb6-48c9c781ed62_Sorted_Connect_Logo_1_zezqkd.png',
+        company: 'Tiime',
+        slug: 'associations',
+        desc: 'integration_desc_13',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/73c94dbb-58ea-4c31-bfe3-21f7943e7c52_ZohoBooks_Connect_Logo_x2_ldz61a.png',
+        company: 'Zoho Books',
+        slug: 'accounting',
+        desc: 'integration_desc_14',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/15547313-18d1-4f39-93a0-4a2ec011b9bc_quickbooks_cxcryd.png',
+        company: 'Quickbooks',
+        slug: 'accounting',
+        desc: 'integration_desc_15',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/f2a7a11e-083a-446d-96c7-6a59e5122f30_Comptalib_Logo_2x_as57tr.png',
+        company: 'Comptalib',
+        slug: 'associations',
+        desc: 'integration_desc_16',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/f4c11d4b-6c61-4274-8932-27b0e1696a07_Dext_Connect_Logo2_x_yxcznk.png',
+        company: 'Dext',
+        slug: 'accounting',
+        desc: 'integration_desc_17',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/20bba1aa-cc24-4f50-9eee-26cae2bf3e50_dougs_iisymc.png',
+        company: 'Dougs',
+        slug: 'accounting',
+        desc: 'integration_desc_18',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/7c0a7af4-3cb4-456f-b3b4-c2cee22415c1_JePilite_Connect_Logo_2_lvj8uq.png',
+        company: 'Evoliz',
+        slug: 'associations',
+        desc: 'integration_desc_19',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/5eb7e2b8-7d9a-4793-9dac-ae6fb07e9bd3_Evoliz_2_slwzur.png',
+        company: 'JePilote',
+        slug: 'accounting',
+        desc: 'integration_desc_20',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/98a16f4d-43fb-417b-b73a-e7f7f5ed8485_Group_1807_j1imcr.png',
+        company: 'Pennylane',
+        slug: '',
+        desc: 'integration_desc_21',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031586/41c23a5d-1063-4503-b8e4-fe0bd235f49c_Comptalib_Logo_2_ws6y9i.png',
+        company: 'Macompta.fr',
+        slug: 'associations',
+        desc: 'integration_desc_22',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/9189b44a-d051-480e-bdbe-94214a46b132_livli_1_ihmwdv.png',
+        company: 'Livli',
+        slug: 'accounting',
+        desc: 'integration_desc_23',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/c551b77d-5e60-454b-bb60-7db0d837a66b_cacomptepourmoi_t7vptn.png',
+        company: 'Ça Compte Pour Moi',
+        slug: 'accounting',
+        desc: 'integration_desc_24',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/63f24de5-2256-4c7a-8362-40fb235e20aa_Connect_-_Logo_Xero_192x192_vgigha.png',
+        company: 'Xero',
+        slug: 'associations',
+        desc: 'integration_desc_25',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/a98ba199-d773-4207-b161-5570b98cb8d0_Connect_-_Logo-8_jdj2rw.png',
+        company: 'Allmybanks (via EBICS)',
+        slug: '',
+        desc: 'integration_desc_26',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/4b56c2fe-08fb-4bf1-b502-90f7e88e62ce_Connect_-_Logo-7_tn2wj4.png',
+        company: 'NetSuite (via EBICS)',
+        slug: '',
+        desc: 'integration_desc_27',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/699c99b7-3b16-4f2d-940e-af21022d47d8_Connect_-_Logo-5_kwg5qt.png',
+        company: 'Odoo (via EBICS)',
+        slug: 'associations',
+        desc: 'integration_desc_28',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/cbc025be-205b-4601-8754-4822703591fb_Connect_-_Logo-2_nbbumd.png',
+        company: 'Sage 100 (via EBICS)',
+        slug: 'accounting',
+        desc: 'integration_desc_29',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/1606e4cc-2c89-44df-b737-c5036d91e6c4_Connect_-_Logo-3_b4az14.png',
+        company: 'Sage 1000 (via EBICS)',
+        slug: 'accounting',
+        desc: 'integration_desc_30',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/c5639e98-ba72-42ac-b9eb-9b0a94948df5_Connect_-_Logo_lxzhll.png',
+        company: 'Sage X3 (via EBICS)',
+        slug: '',
+        desc: 'integration_desc_31',
+    },
+    {
+        img: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693031585/d7b9c462-be0e-448d-b5c0-5ddb1bf0d1fe_Connect_-_Logo_zsq4ah.png',
+        company: 'Your ERP or treasury tool (via EBICS)',
+        slug: '',
+        desc: 'integration_desc_32',
+    }
+]
+
+export default IntegrateData;

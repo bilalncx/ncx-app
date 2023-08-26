@@ -13,3 +13,158 @@ box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.60); border: 1px solid #FFFFF
 .eght img{width: auto; height: 20px}
 .qsfg.forth img{width: auto; height: 20px}
 .partner.va{padding-top: 150px;}
+.qwn.tow{padding: 100px 0px; background: #000000;}
+.qwn.tow h2, .qwn.four h2{font-size: 40px; font-family: 'urbanist-medium'; text-align: center; color: #FFFFFF;}
+.row.asPo {margin: 0px; padding-top: 70px !important;}
+.row.asPo .col { flex: inherit; width: 50%; padding: 0px;}
+.er {display: flex; align-items: center; gap: 30px;}
+.img-bx {width: 28%;}
+.txt-bx {width: 72%;}
+.img-bx img {width: 100%;}
+.txt-bx h3, .row.sxRR .col h3 {font-size: 24px; font-family: 'urbanist-medium'; color: #FFFFFF; margin-bottom: 20px;}
+.txt-bx p, .row.sxRR .col p {font-size: 16px; color: #FFFFFF; font-family: 'urbanist-regular'; line-height: 24px; margin-bottom: 20px;}
+.txt-bx a{ display: flex; transition: 0.1s ease-in; transform: translateX(0%); align-items: center; gap: 8px; font-size: 16px; font-family: 'urbanist-medium'; color: #FFFFFF; border-bottom: 1px solid #FFFFFF; position: relative;}
+.vrF {width: fit-content;}
+.vrF svg path{fill: #FFFFFF;}
+.txt-bx a:hover svg{transform: translateX(50%); transition: 0.1s ease-in; }
+.qwn.three{padding: 100px 0px; background: #FFFFFF;}
+.qwn.three h2{font-size: 40px; font-family: 'urbanist-medium'; text-align: center; color: #000000; margin-bottom: 70px;}
+.row.asoOp {margin: 0px; display: flex; justify-content: space-between;}
+.row.asoOp .col { width: 50%; flex: inherit; position: relative;}
+.row.asoOp .txt-bx h3, .row.asoOp .txt-bx p{color: #000000;}
+.row.asoOp .txt-bx p{text-align: justify;}
+.col.ma {border-right: 1px solid rgba(0,0,0,0.1); padding: 0px 50px 0px 0px;}
+.col.mb{padding: 0px 0px 0px 50px;}
+.col.mc {border-right: 1px solid rgba(0,0,0,0.1); padding: 50px 50px 0px 0px;}
+.col.md{padding: 50px 0px 0px 50px;}
+.col.ma .er, .col.mb .er{border-bottom: 1px solid rgba(0,0,0,0.1); padding-bottom: 50px;}
+.col.mb .er p{min-height: 192px;}
+.qwn.four {background: #000000; padding: 100px 0px;}
+.row.sxRR {margin: 0px; padding-top: 70px;}
+.row.sxRR .col {flex: inherit; width: 33.33%; padding: 0px 50px;}
+.row.sxRR .col img{width: 100%; height: auto; margin-bottom: 20px;}
+.col.qr {border-right: 1px solid rgba(255,255,255, 0.3);}
+.col.qw {border-right: 1px solid rgba(255,255,255, 0.3);}
+.row.sxRR .col p{text-align: justify;}
+.cta {text-align: center; padding-top: 50px;}
+.qwn.five{padding: 100px 0px; background: #FFFFFF;}
+.row.vUU{margin: 0px;}
+.row.vUU .col {padding: 0px;width: 50%;flex: inherit;}
+.row.vUU .col.im img{width: 100%; max-width: 550px;}
+.row.vUU .col.tx{padding-left: 30px !important; border-left: 1px solid rgba(0,0,0,0.1)}
+.col.tx h2 {font-size: 40px; color: #000000; font-family: 'urbanist-medium'; margin-bottom: 50px;}
+.col.tx h3 {font-size: 26px; color: #000000; font-family: 'urbanist-semibold'; margin-bottom: 20px;}
+.col.tx p{font-size: 18px; color: #000000; font-family: 'urbanist-regular'; margin-bottom: 20px;}
+.qmR {margin-bottom: 20px; border-bottom: 1px solid rgba(0,0,0,0.1); padding-bottom: 30px;}
+.qmR a, .qmRv a{ width: fit-content; display: flex; transition: 0.1s ease-in; transform: translateX(0%); align-items: center; gap: 8px; font-size: 16px; font-family: 'urbanist-medium'; color: #000000; border-bottom: 1px solid #000000; position: relative;}
+.qmR a:hover svg, .qmRv a:hover svg{transform: translateX(50%); transition: 0.1s ease-in; }
+.qwn.six {background: #000000; padding: 100px 0px;}
+.qwn.six h2 {text-align: center; color: #FFFFFF; font-size: 40px; font-family: 'urbanist-medium';}
+.werPP.row .col {background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.15); backdrop-filter: blur(2px); border-radius: 4px; flex: 0 0 21%; min-height: 324px; padding: 25px 20px; text-align: center;}
+.werPP.row {padding-top: 70px; margin: 0px; display: flex; flex-flow: wrap; gap: 20px; justify-content: center;}
+.werPP.row img {width: 80px; height: auto;}
+.werPP.row .col h3 {font-size: 22px; font-family: 'urbanist-medium'; color: #FFFFFF; padding: 25px 0px;}
+.werPP.row .col p{font-size: 16px; line-height: 22px; font-family: 'urbanist-regular'; color: #FFFFFF; padding: 0px 10px;}
+.werPP.row .col:hover {border: 1px solid #fff; box-shadow: 0 0 15px hsla(0,0%,100%,.75);}
+.qwn.seven {padding: 100px 0px; background: #FFFFFF;}
+.qwn.seven h2 {font-size: 40px; font-family: 'urbanist-medium'; text-align: center; color: #000000;}
+.qwn.seven h3, .qwn.seven p{color: #000000 !important;}
+.qwn.seven .col.qw, .qwn.seven .col.qr{border-right: 1px solid rgba(0,0,0,0.1) !important;}
+#qwPcX{display: none;}
+.qwn.six .mbl__sec__cr{display: none;}
+
+@media screen and (min-width: 1300px){
+    .row.asoOp .txt-bx p{min-height: 240px !important; margin-bottom: 0px !important;}
+}
+
+@media screen and (min-width: 800px) and (max-width: 1280px){
+    .dig-B h2 {font-size: 34px !important; line-height: 40px !important;}
+    .row.sxRR .col{padding: 0px 30px !important;}
+    .dig-B p {font-size: 16px !important; line-height: 24px !important;}
+    .werPP.row .col{flex: 0 0 25% !important;}
+}
+@media screen and (max-width: 1080px){
+    .caz h2 br{display: none;}
+    .caz p{width: 100% !important;}
+    .row.sxRR .col{padding: 0px 20px !important;}
+    .dig-B h3 {font-size: 20px !important;}
+    .qwm.one{padding: 100px 0px 80px 0px !important;}
+    .qsfg img{height: 24px; width: auto;}
+    .eght img{width: auto; height: 17px}
+    .qsfg.forth img{width: auto; height: 17px}
+    .partner.va{padding-top: 100px;}
+    .qwn.three .er{display: block !important;}
+    .txt-bx{width: 100% !important;}
+    .img-bx {width: 50%;}
+    .werPP.row .col{flex: 0 0 30% !important;}
+    .qwn{padding: 80px 0px !important;}
+    .werPP.row .col p{padding: 0px !important;}
+    .txt-bx p br{display: none !important;}
+    .col.ma{padding: 0px 20px 0px 0px;}
+    .col.mb{padding: 0px 0px 0px 20px;}
+    .col.mc{padding: 20px 20px 0px 0px;}
+    .col.md{padding: 20px 0px 0px 20px;}
+    .col.ma .er, .col.mb .er{padding-bottom: 20px;}
+}
+@media screen and (max-width: 800px){
+    .qwn{padding: 50px 0px !important;}
+    .dig-B h2 {font-size: 26px !important; line-height: 34px !important;}
+    .row.sxRR{padding-top: 50px;}
+    .row.sxRR .col{width: 100% !important; padding: 0px 0px 30px 0px !important; border-bottom: 1px solid rgba(0,0,0,0.1) !important;}
+    .row.sxRR .col.qt{border-bottom: 0px !important;}
+    .row.sxRR .col.qw, .row.sxRR .col.qr{border-right: none !important;}
+    .row.vUU .col{width: 100%;}
+    .col.im{order: 2; margin-top: 30px;}
+    .row.vUU .col.tx{order: 1; border-left: none; padding: 0px !important;}
+    .row.vUU .col.tx h2{margin-bottom: 30px;}
+    .qwn.four .row.sxRR .col{padding-bottom: 0px !important;}
+    .cta{padding-top: 30px;}
+    .qwn.three h2{margin-bottom: 30px;}
+    .row.asoOp {display: block;}
+    .row.asoOp .col{width: 100%; padding: 0px;}
+    .col.ma{border-right: none !important;}
+    .col.mc {border-bottom: 1px solid rgba(0,0,0,0.1); border-right: none !important;}
+    .row.asoOp .img-bx {width: 100%; text-align: center; padding: 20px 0px;}
+    .row.asoOp .img-bx img{height: 180px; width: auto;}
+    .row.asPo .col{width: 100%;}
+    .row.asPo{padding-top: 30px !important;}
+    .row.asPo:last-child{padding-top: 20px !important;}
+    .row.asPo .col .er {display: block;}
+    .row.asPo .col .er .img-bx{text-align: center; width: 100%; padding: 20px 0px !important;}
+    .row.asPo .col .er .img-bx img{height: 180px; width: auto;}
+    .qwn.tow{padding-bottom: 80px !important; position: relative;}
+    #qwPcX{display: block; background: #000000; padding: 50px 0px !important;}
+    .partner.va{display: none;}
+    .row.caz .col{width: 100% !important; text-align: center;}
+    .qwm.one{padding: 65px 0px !important;}
+    .qwm.one h2{text-align: center; margin-bottom: 10px;}
+    .caz p{text-align: center;}
+    .caz a {font-size: 14px; padding: 8px 20px;}
+    .werPP{display: none !important;}
+    .qwn.six .mbl__sec__cr{display: block; padding-top: 30px;}
+    .qwn.six .mbl__sec__cr button.carousel__dot--selected:disabled{display: block !important;}
+    .qwn.six .mbl__sec__cr .carousel__slide{padding: 15px 30px !important;}
+    .qwn.six .mbl__sec__cr .azx p{color: #FFFFFF; font-family: 'urbanist-regular' !important; min-height: 90px;}
+    .qwn.tow:before {
+        content: '';
+        width: 48%;
+        height: 0.75px;
+        background: linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 2%;
+        margin: 0 auto;
+    }
+    .qwn.tow:after {
+        content: '';
+        width: 48%;
+        height: 0.75px;
+        background: linear-gradient(90deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 2%;
+        margin: 0 auto;
+    }
+}
