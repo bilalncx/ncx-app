@@ -1,5 +1,90 @@
 const data = [
   {
+    id: 612,
+    title: 'Dow Jones Rallies 300 Points With Jobs, Inflation Data On Deck; Tesla Rival Xpeng Surges On Didi Deal',
+    category: 'Indices',
+    subCategory: ['Dow Jones', 'Tesla', 'Didi'],
+    description: <div className="blog-desc">
+      <p>The Dow Jones Industrial Average rallied as much as 300 points Monday, as China-based Tesla rival Xpeng Motors (XPEV) soared on news it plans to buy the smart vehicle unit of ride-hailing app Didi Global.</p>
+    </div>,
+    authorName: 'SCOTT LEHTONEN',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 6:20 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693295185/ncx-blog-1241_oweeaa.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>The Dow Jones Industrial Average rallied as much as 300 points Monday, as China-based Tesla rival Xpeng Motors (XPEV) soared on news it plans to buy the smart vehicle unit of ride-hailing app Didi Global.</p>
+    	<p>Xpeng Motors surged 5.5% Monday morning after the company said it is buying Didi's smart electric car development business in a deal worth up to $744 million. XPEV shares are rebounding from their 50-day line after a big advance in recent months.</p>	
+    	<p>On the markets front, Friday's jobs report will take center stage heading into the final week of August. A solid report for the month would not assure a rate hike. But a surprisingly soft report — with payroll gains closer to 100,000 — would likely take a hike off the table. Meanwhile, the Commerce Department's July personal income and spending data comes out Thursday.</p>	
+    	<p>On the earnings front, Dow Jones software giant Salesforce (CRM) delivers its second-quarter earnings report on Wednesday. CRM's report leaves only Nike (NKE) and Walgreens (WBA) yet to report on the Dow Jones Industrial Average.</p>
+      <p>And several software stocks also are on the earnings calendar, including MongoDB (MDB) Nutanix (NTNX) and Samsara (IOT), along with security software stocks CrowdStrike (CRWD) and Okta (OKTA).</p>
+      <h3>Stock Market Today</h3>
+      <p>Electric-vehicle giant Tesla (TSLA) traded up 0.5% Monday, while Nvidia (NVDA) fell 1.5%. Dow Jones tech icons Apple (AAPL) and Microsoft (MSFT) were modestly higher after today's stock market open.</p>
+      <p>Other stock market leaders include Alphabet (GOOGL) and Meta Platforms (META). GOOGL stock gained 1% while Meta shares rose 0.6% in early action.</p>
+      <p>Baker Hughes (BKR), Fastly (FSLY), Oracle (ORCL) and Tidewater (TDW) — as well as Dow Jones stocks Merck (MRK) and Visa (V) — are among the best stocks to watch in the ongoing stock market correction.</p>
+      <h3>Dow Jones Today: Oil Prices, Treasury Yields</h3>
+      <p>After Monday's opening bell, the Dow Jones Industrial Average rose 0.7%, while the S&P 500 climbed 0.6%. The tech-heavy Nasdaq composite gained 0.6% in morning action.</p>
+      <p>Global markets traded higher, with European bourses holding in positive territory despite hawkish rate-hike comments in Jerome Powell's Jackson Hole speech Friday. China's markets rallied early, after a series of market support measures by regulators. But sellers swept in and dragged markets well off their early highs, leaving Hong Kong's Hang Seng Index up less than 1% and the Shanghai composite with a 1.1% gain.</p>
+      <p>Among U.S. exchange-traded funds, the Nasdaq 100 tracker Invesco QQQ Trust (QQQ) was up 0.7%, while the SPDR S&P 500 ETF (SPY) rose 0.5% early Monday.</p>
+      <p>Also on Monday, the 10-year U.S. Treasury yield ticked lower to 4.2% Monday after modest losses last week.</p>
+      <p>West Texas Intermediate oil prices were little changed in morning trade Monday, following a two-day bounce. WTI futures held right around the $80-a-barrel mark.</p>
+      <h3>Stock Market Action</h3>
+      <p>On Friday, the Dow Jones Industrial Average rebounded 0.7%, while the S&P 500 also reversed from early losses to gain 0.7%.</p>
+      <p>Friday's Big Picture column commented, "The Nasdaq composite managed to reverse higher to end the session up 0.9%. It also netted a weekly gain of more than 2%. Nevertheless, it remains below the key 50-day moving average. The tech-heavy index is now up almost 31% so far in 2023."</p>
+      <p>Now is an important time to read IBD's The Big Picture column as the stock market tries to stabilize after a sharp pullback from this year's highs.</p>
+      <h3>Dow Jones Stocks: Merck, Visa</h3>
+      <p>Drug giant Merck fought to stay above its 50-day line with a 0.7% rise on Friday. MRK stock is tracing a flat base with a 119.65 buy point and a 115.61 early entry. Shares inched lower early Monday.</p>
+      <p>And Dow Jones payments leader Visa continues to hold in a buy range past a 235.57 flat-base buy point, according to IBD MarketSmith pattern recognition. Meanwhile, another entry is available, with the stock forming another flat base that has a 245.37 entry. V stock gained 0.2% Monday.</p>
+      <h3>Stocks To Watch: Baker, Fastly, Oracle, Tidewater</h3>
+      <p>Oilfield services and equipment leader Baker Hughes has been trading tightly the past five weeks and has a buy point at its 2023 high of 36.48, according to IBD MarketSmith. BKR stock edged higher in early morning trade.</p>
+      <p>Software leader Fastly broke out past an ascending base's 21.54 buy point on Friday, rallying nearly 8%. Shares are in the 5% buy area, but the market correction should keep investors on the sidelines. FSLY stock traded up 2.6% in early trade.</p>
+      <p>Oracle continues to trace a flat base with a 127.54 buy point. An early entry at 118.06 is also in play, as the software leader holds below the 50-day line. ORCL stock rose 0.8% in morning trade.</p>
+      <p>IBD Leaderboard stock Tidewater is rebounding from support around its 10-week line, placing the energy leader in a new buy area. TDW stock was up 0.1% early Monday.</p>
+      <h3>Tesla Stock</h3>
+      <p>Tesla stock rallied 3.7% Friday, rebounding from Thursday's skid. Shares remain well below their 50-day line. Amid the recent spate of selling, it's clear that the stock requires more time to consolidate before a new entry emerges. Wait for a decisive move back above the 21- and 50-day moving averages before considering a new purchase of TSLA stock.</p>
+      <p>Early Monday, Tesla stock looked to add to Friday's gain, rising around 0.5%.</p>
+      <h3>Dow Jones Leaders: Apple, Microsoft</h3>
+      <p>Among Dow Jones stocks, Apple stock climbed 1.3% Friday, recovering a part of Thursday's sell-off. The stock remains squarely below the 50-day line following sharp losses in recent weeks. AAPL stock rose 0.5% early Monday.</p>
+      <p>Microsoft shares also are trying to rebound from their recent lows, but the stock needs more time to consolidate before a new buy point emerges. The stock remains below its 21- and 50-day lines, so there isn't a buy signal yet. And on Monday morning, the stock moved up 0.6%.</p>
+    </div>
+  },
+  {
+    id: 611,
+    title: 'Traders Have S&P 500 Comebacks Fading at Historic Pace',
+    category: 'Indices',
+    subCategory: ['Traders', 'S&P', 'Fading'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Surprised that the S&P 500 swung into the green Friday? Don’t worry. Just wait. It’ll fall again after the next opening bell.</p>
+    </div>,
+    authorName: 'Elena Popina and Jessica Menton',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 3:39 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693294790/ncx-blog-1240_q6t2ol.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Surprised that the S&P 500 swung into the green Friday? Don’t worry. Just wait. It’ll fall again after the next opening bell.</p>
+    	<p>That’s been the August trend, at least, thwarting any effort to revive the US stock-market rally since it stalled early this month.</p>	
+    	<p>Nineteen trading sessions have come and gone in August without a single back-to-back gain in the S&P 500. If that continues, it will be the first month without two consecutive up days since May 2010 in the aftermath of the global financial crisis.</p>	
+    	<p>The pattern illustrates the lack of conviction among investors after the sharp run-up fueled by artificial intelligence breakthroughs, better-than-expected earnings and speculation the Federal Reserve would shift to cutting interest rates once the economy cooled. By the end of July, the S&P 500 had risen almost 30% off its October lows.</p>
+      <p>The mood has since shifted as the surprising resilience of the economy and sticky inflation have markets expecting the Fed to hold rates high. On Friday, Chair Jerome Powell reinforced that conviction during a long-awaited speech in Jackson Hole, Wyoming, where he emphasized that the central bank stands ready to keep raising interest rates, if needed, to keep pulling down inflation.</p>
+      <p>“The equity market ran very hot into late July, and it’s in this cooling, what’s-next phase,” said Todd Sohn, ETF and technical strategist at Strategas Securities LLC. “Some clarity on interest rates would certainly help. Is the Fed done? That’s probably the next catalyst.”</p>
+      <p>It’s easy to see why the rally stalled. By the start of the month, the S&P 500 was less than 5% away from retracing its record high, despite deep uncertainty about the economy. Then came a combination of rising yields, interest-rate anxiety and weak seasonal patterns that gave skeptics the upper hand.</p>
+      <p>Many held out hope for help from Nvidia Corp., a major force in the AI-fueled tech-stock surge. But even a blowout forecast from the chipmaker Wednesday wasn’t enough to rekindle it. Morgan Stanley strategist Michael Wilson pointed to that as a signal this year’s rally is “exhausted,” portending more declines to come.</p>
+      <p>The other times when the S&P 500 went this long without two consecutive up days occurred during turbulent times. It happened during the pandemic’s first wave in March 2020 and before that in October 2018, when concern about slowing growth ratted investors. In 2015, the S&P 500’s first real down year since the great financial crisis, a streak of at least 25 days without back-to-back up days happened twice.</p>
+      <p>“It’s less of a clear case for bulls at this point,” said Chad Morganlander, senior portfolio manager at Washington Crossing Advisors. “Valuations are less compelling, and a lot of positives are priced in with the S&P 500 near the 4,400 line.”</p>
+      <p>Mark Newton, head of technical strategy at Fundstrat Global Advisors, has his eyes on 4,400 as well. That’s a threshold being watched closely by technical analysts — who look for insight in historic trading patterns — since a sustained push above that level could indicate the stock market is gaining renewed strength. It closed just above that Friday after a 0.7% gain.</p>
+      <p>But the general drift this month has been down, with the S&P 500 rising just six days this month. And September doesn’t tend to be a good time for stocks: In the past three decades, the benchmark has averaged a loss of 0.4% during September, making it the worst month of the year, data compiled by Bloomberg show.</p>
+      <p>To Newton, the trajectory of equities in the coming weeks will hinge on how much further bond yields rise — and how fast.</p>
+      <p>That has particular bearing on technology and so-called growth shares whose projected profits are delivered years in the future, which means the present value of those future profits are worth less as yields rise. The yield on a 10-year Treasury note has advanced in five out of six weeks.</p>
+      <p>“Markets appear to be at an inflection point as investors assess various cross currents,” said Sophia Drossos, economist and strategist at Point72 Asset Management.</p>
+      <p>“Since the start of the summer, the resilience of the U.S. economy led consensus expectations — somewhat begrudgingly — to abandon the view for an imminent recession,” she said. “But going forward, there is considerable uncertainty about the outlook.”</p>
+    </div>
+  },
+  {
     id: 610,
     title: 'Dow Jones Off Session Lows As Powell Talks Tough; AI Stocks Nvidia, Marvell Technology Hit Hard',
     category: 'Indices',

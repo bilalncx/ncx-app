@@ -1,5 +1,262 @@
 const data = [
   {
+    id: 699,
+    title: 'ApeCoin’s tale of accumulation and selling sparks market speculation',
+    category: 'Crypto',
+    subCategory: ['Apecoin', 'market', 'crypto'],
+    description: <div className="blog-desc">
+      <p>Amidst ApeCoin’s dance between accumulation and selling, a dedicated supporter’s bold move meets a fading surge in activity. Sentiment ripples, leaving traders speculating on its dynamic fate.</p>
+    </div>,
+    authorName: 'Adewale Olarinde',
+    authorurl: 'https://ambcrypto.com/author/adewale-olarinde/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693289139/ncx-blog-1234_qtlcvm.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Amidst ApeCoin’s dance between accumulation and selling, a dedicated supporter’s bold move meets a fading surge in activity. Sentiment ripples, leaving traders speculating on its dynamic fate.</p>
+    	<ul>
+        <li>Over 150,000 ApeCoin was recently accumulated by a wallet.</li>
+        <li>The APE market sentiment, however, remains negative.</li>
+      </ul>
+      <p>Over the past few weeks, the story of ApeCoin appears to be revolving around two main activities: dumping and accumulation. According to recent on-chain tracking, there has been a noticeable increase in accumulation during this time, alongside instances of selling. How have these actions influenced the overall sentiment and trajectory of the token?</p>	
+    	<h3>ApeCoin sees large accumulation</h3>
+      <p>A recent update from Look on-chain highlighted that a wallet associated with Machi Big Brother, a dedicated supporter of the Bored Ape Yacht Club (BAYC) ecosystem, has made a new purchase of ApeCoin. The data from the on-chain tracker revealed that this account acquired more than 154,000 APE tokens, using 135 ETH, with a total value of $222,000.</p>	
+    	<p>Furthermore, this fresh accumulation adds to the previous holdings accumulated earlier in the month, resulting in a total APE accumulation of over 3 million for August. These acquisitions were made at an average price of $1.73 per token.</p>
+      <p>Additionally, this recent action sharply contrasted with the activities observed in the previous week. During that time, a wallet was noted to have sold off over 180,000 APE tokens, incurring a loss exceeding $1.5 million. While these sales could be attributed to market fatigue, the recent purchase presented a bullish move and reflected a positive sentiment.</p>
+      <h3>ApeCoin volume and active addresses flash divergent signals</h3>
+      <p>Santiment’s volume metric indicated that the recent sell-off and accumulation activities involving ApeCoin have not had a noticeable impact on its trading volume. The volume trend remained within normal levels, displaying no sudden spikes or significant downward shifts.</p>
+      <p>As of this writing, the trade volume was approximately 30 million.</p>
+      <p>However, a contrasting situation was evident in the active addresses metric. The seven-day active addresses showed that APE experienced a surge, surpassing 20,000 around 17 August. This elevated level was sustained until roughly 24 August, after which it began to decline.</p>
+      <p>As of this writing, the count of active addresses was about 6,500.</p>
+      <p>This reduction in active addresses corresponded to a decline in positive sentiments surrounding ApeCoin.</p>
+      <h3>APE funding rate stays negative</h3>
+      <p>Despite the recent accumulation, the market sentiment for ApeCoin has not shifted into a positive state. This conclusion could be drawn from the funding rate of ApeCoin on Coinglass, which, as of this writing, was at a negative value of -0.008. This negative rate suggested that traders were anticipating a decrease in the token price.</p>
+      <p>Observing the daily timeframe chart of APE, it was evident that the token was undergoing a decline, with a loss exceeding 2% as of this writing. The trading price was approximately $1.3.</p>
+    </div>
+  },
+  {
+    id: 698,
+    title: 'How Litecoin emerged as the popular crypto for payments',
+    category: 'Crypto',
+    subCategory: ['Litecoin', 'Crypto', 'Popular'],
+    description: <div className="blog-desc">
+      <p>Litecoin’s share of the global payments jumped from 23% in March to a little over 34% by the end of July.</p>
+    </div>,
+    authorName: 'Aniket Verma',
+    authorurl: 'https://ambcrypto.com/author/aniket-verma/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 28, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693288297/ncx-blog-1233_ytdlr6.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Litecoin’s share of the global payments jumped from 23% in March to a little over 34% by the end of July.</p>
+      <ul>
+        <li>LTC’s share of global payments jumped from 23% in March to a little over 34% by the end of July.</li>
+        <li>LTC shed 30% of its value since the beginning of the month.</li>
+      </ul>
+    	<p>Litecoin [LTC] was one of the most preferred cryptocurrencies for payments as tracked by the world’s largest crypto payment processor BitPay. LTC’s share of the global payments jumped from 23% in March to a little over 34% by the end of July, representing a nearly 50% jump.</p>	
+    	<p>In fact, not so long ago in June, the “Digital Silver” flipped the “Digital Gold” Bitcoin [BTC] to grab the numero uno spot for the first time in history. However, LTC’s growth trajectory has since plateaued, and it ceded the first position to BTC.</p>	
+    	<h3>Litecoin’s summer of growth</h3>
+      <p>Much of the growth was powered by the parabolic rise in transactions in the May-June period. According to Glassnode, LTC’s transactions count reached levels comparable to Bitcoin’s daily tally on several occasions during this phase.</p>
+      <p>It should be recalled that demand for Litecoin swelled after exasperated users sought cheaper alternatives when transaction fees on Bitcoin were touching the skies.</p>
+      <h3>LTC’s charts still in the red</h3>
+      <p>The month of August, which saw the all-important halving in Litecoin’s block rewards, hasn’t panned out the way most of the token’s fanbase would have liked. LTC was hit hard by two successive bearish phases.</p>
+      <p>Initially, the excitement over Litecoin’s scarcity dampened as the token plunged 10% within days of halving. The bigger decline came during the Bitcoin-led market bloodbath, when the token tanked 24%, as shown by CoinMarketCap.  Overall, LTC shed 30% of its value since the beginning of the month.</p>
+      <h3>Whales began to accumulate</h3>
+      <p>Sensing the impending price drop, Litecoin whales liquidated their holdings just in time. However, as the market began to move sideways, these big investors began to add to their stacks.</p>
+      <p>As per data from Santiment, addresses storing between 1,000-10,0000 tokens increased sharply over the past week. The cohort holding between 10,000-100,000 LTCs exhibited a similar behavior. This indicated that whales were optimistic of a bull run in near future.</p>
+      <p>However, sentiment around Litecoin continued to be pessimistic. The weighted sentiment, which is a measurement of commentary around the asset, trended in the negative territory.</p>
+    </div>
+  },
+  {
+    id: 697,
+    title: 'I asked ChatGPT to assess Litecoin’s future, its response assured me',
+    category: 'Crypto',
+    subCategory: ['ChatGPT', 'Litecoin', 'Future'],
+    description: <div className="blog-desc">
+      <p>I asked ChatGPT about the future performance of Litecoin as the regulatory environment in the U.S. evolves.</p>
+    </div>,
+    authorName: 'Suzuki Shillsalot',
+    authorurl: 'https://ambcrypto.com/author/suzuki-shillsalot/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 27, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693235470/ncx-blog-1232_zto0eq.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>I asked ChatGPT about the future performance of Litecoin as the regulatory environment in the U.S. evolves.</p>
+    	<p>Litecoin [LTC] has just broken a record in terms of network transactions. The Litecoin network highlighted this year’s impressive performance in terms of transactions, noting that even though the year is only eight months old, 2023 has already eclipsed last year’s record number of 39 million transactions.</p>	
+    	<h3>Glass half full</h3>
+      <p>On 2 August, the third edition of Litecoin’s halving took place when the network reached a block height of 2,520,000, which reduced miners’ rewards from 12.5 LTC to 6.25 LTC.</p>
+      <p>Halving is a significant event programmed into certain cryptocurrency protocols, including Litecoin, that takes place at regular intervals. During this event, the block reward given to miners for validating transactions and securing the network is reduced by half.</p>	
+    	<p>The primary purpose of halving is to control the issuance rate of new coins and manage inflation within the cryptocurrency system.</p>
+      <p>The impact of halving is two-fold. First, it introduces an element of scarcity into the cryptocurrency ecosystem. With the reduced block rewards, the rate at which new coins are introduced into circulation decreases.</p>
+      <p>This creates a sense of scarcity among market participants, potentially leading to an increase in demand for cryptocurrency.</p>
+      <p>Secondly, halving affects the mining rewards for miners. As the block rewards are halved, miners receive fewer coins for their mining efforts. This can result in decreased mining profitability, especially for miners with higher operating costs.</p>
+      <p>Some miners may be compelled to leave the network if the costs of mining exceed the rewards, potentially leading to a temporary decline in the network’s hash rate and overall security.</p>
+      <p>Litecoin, as it completes its third halving since its inception in 2011, will experience a reduction in its supply rate. It will lead to fewer new Litecoins being mined. This scarcity factor could trigger increased demand and speculative activity in the cryptocurrency market.</p>
+      <p>Furthermore, miners will need to adjust to the reduced mining rewards, which may impact their profitability and mining operations.</p>
+      <h3>ChatGPT makes a comparison</h3>
+      <p>It is expected that the halving could help Litecoin gain more market share in the PoW sector. To make a comparison, I consulted ChatGPT to highlight the various differences of multiple PoW cryptocurrencies and their various advantages.</p>
+      <p>According to the AI bot, Litecoin’s emphasis on faster transactions and lower fees is likely to attract more users and investors. As transaction volumes increase, network activity for Litecoin could surge, enhancing its appeal as a quick and cost-effective digital currency.</p>
+      <p>However, Dogecoin’s inflationary nature stands in contrast to Litecoin’s scarcity induced by halving. While Dogecoin has strong community and viral appeal, concerns about dilution arising from its inflationary supply might favor Litecoin in the short term.</p>
+      <p>Meanwhile, users valuing privacy and anonymity are more likely to stick with Monero due to its unique privacy features. However, for those prioritizing speed and lower fees, Litecoin could serve as a practical alternative.</p>
+      <p>Regarding Ethereum Classic [ETC], its focus on immutability and code-as-law principles might attract a distinct audience compared to Litecoin’s user base. The short-term advantage for each cryptocurrency would depend on specific use cases and the preferences of users and investors during this period.</p>
+      <h3>Does Litecoin have a competitive advantage?</h3>
+      <p>Recent regulatory scrutiny against various cryptocurrencies has impacted various altcoins negatively. However, Litecoin was one of the few altcoins that was considered a commodity in the lawsuit filing against Binance [BNB].</p>
+      <p>After asking ChatGPT’s opinion on this development, it stated that the classification of Litecoin as a commodity by the CFTC could have several benefits. As a regulated commodity, Litecoin’s value shall skyrocket, and it will emerge as a shining star in the cosmic arena of cryptocurrencies.</p>
+      <p>The CFTC’s recognition may also lead to investment, innovation and adoption, supporting Litecoin’s growth.</p>
+      <h3>Price tells a different story</h3>
+      <p>Despite these factors, LTC’s price did not see much green at press time. It was trading at $64.42 at the time of writing.</p>
+      <p>While both LTC’s Relative Strength Index (RSI) and Money Flow Index (MFI) rested above the neutral 50-mark, its On Balance Volume (OBV) reflected a positive metric.</p>
+      <p>In conclusion, its on-chain metrics suggest that a possible bullish price action is around the corner.</p>
+    </div>
+  },
+  {
+    id: 696,
+    title: 'Ethereum retail traders accumulate: Will their efforts drive a bullish reversal?',
+    category: 'Crypto',
+    subCategory: ['Ethereum', 'trader', 'bullish'],
+    description: <div className="blog-desc">
+      <p>Retail addresses have been accumulating at the current levels. New data reveals that Ethereum addresses holding at least 10 ETH just reached a 4-week high.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 27, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693235024/ncx-blog-1231_yzwjib.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Retail addresses have been accumulating at the current levels. New data reveals that Ethereum addresses holding at least 10 ETH just reached a 4-week high.</p>
+    	<ul>
+        <li>ETH flagged multiple signs indicating that it was ripe for a bullish takeover.</li>
+        <li>ETH whales could be keeping the sell pressure alive.</li>
+      </ul>
+      <p>Ethereum [ETH] has been on a bearish streak since the second week of July. Its mid-August dip extended that downside, but now the bulls have been showing signs of exhaustion. Recent findings suggest that accumulation is gaining traction.</p>	
+    	<p>ETH delivered sideways price action for the last few days, indicating that the bears are taking a break. According to one of the latest Glassnode alerts, retail addresses have been accumulating at the current levels. The alert reveals that Ethereum addresses holding at least 10 ETH just reached a 4-week high.</p>
+      <p>The observation was an indicator that ETH traders were regaining some confidence in the market. This was further backed by the observation that ETH has been flowing out of exchanges. In addition, ETH exchange balances just fell to a multi-year low.</p>
+      <p>The last time that ETH exchanges were at the current level was in 2016. This observation was also favorable for a long-term bullish outlook because it confirms a long-term bias.</p>
+      <p>Despite these findings, ETH bulls remain subdued. This means that the prevailing levels of accumulation are not strong enough for a sizable rally. This is likely because investors are concerned that the downside might continue, especially considering the prevailing threat of higher interest rates.</p>
+      <h3>Analyzing the key reasons why the bulls remain dormant</h3>	
+    	<p>The current state of demand in the derivatives market underscores the aforementioned concern. Usually, a substantial price drop such as the one we observed recently attracts significant demand.</p>
+      <p>However, that price crash was characterized by heavy liquidations. The threat of more downside and subsequent uncertainty resulted in a dip in ETH options open interest.</p>
+      <p>ETH’s estimated leverage ratio is currently hovering at its lowest level in the last 4 weeks. It further emphasizes the point that there is currently a low appetite for the cryptocurrency.</p>
+      <p>However, the usual suspects seem to be the ones holding back the possibility of a rally. Addresses in the 1,000 and 10,000 ETH categories have been shedding off some of their coins, thus contributing to sell pressure.</p>
+      <h3>Evaluating the possibilities</h3>
+      <p>While the threat of more downside is real, traders should note that the next FOMC meeting is scheduled to take place in the second half of September. This means there might be an opportunity for the bulls to gain an edge over the market.</p>
+      <p>But with the current whale activity, traders should keep an eye out for when whales start to pivot because it would signal the start of a bullish relief.</p>
+    </div>
+  },
+  {
+    id: 695,
+    title: 'XLM maintains its downtrend: Will prices dip further?',
+    category: 'Crypto',
+    subCategory: ['XLM', 'downtrend', 'crypto'],
+    description: <div className="blog-desc">
+      <p>XLM retested previous range-high of $0.13 as a resistance and could head lower towards the range-low and bullish OB.</p>
+    </div>,
+    authorName: 'Benjamin Njiri',
+    authorurl: 'https://ambcrypto.com/author/benjamin-njiri/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 27, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693234282/ncx-blog-1230_wty1dd.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>XLM retested previous range-high of $0.13 as a resistance and could head lower towards the range-low and bullish OB.</p>
+      <ul>
+        <li>XLM has been making lower highs since mid-July.</li>
+        <li>Open Interest rates dropped and funding rates fluctuated. </li>
+      </ul>
+    	<p>Stellar [XLM] could be poised for further market control. The altcoin was firmly bearish on the higher time-frame charts. Besides, the futures market didn’t outrightly lean towards bulls as of publication.</p>	
+    	<p>In the meantime, Bitcoin [BTC] continued its price range above $25.8k, and further price slump couldn’t be overruled if September’s FOMC Meeting takes a hawkish stance.</p>	
+    	<h3>Will sellers target the previous range low</h3>
+      <p>The marked areas are weekly bearish and bullish order blocks (OB). The cyan area of $0.113 – $0.130 is a weekly bearish OB and aligns with the Q2 2022 range-high. Between June – October 2022, XLM oscillated between $0.1307 and $0.0989.</p>
+      <p>On the other hand, the white area of $0.095 – $0.109 is a weekly bullish OB that has been retested twice as a support in July and August. The area also aligned with the Q2 2022 range-lows.</p>
+      <p>At the time of writing, XLM faced rejection at the confluence of the 50-EMA (Exponential Moving Average) and the previous range-high ($0.13). Besides, the daily timeframe was bearish as the price has been making lower highs since July.</p>
+      <p>So, sellers could lower XLM prices to the range-low $0.099 area in the next few days. However, bulls are expected to defend the range-lows, especially if BTC doesn’t record sharp losses in the midterm.</p>
+      <p>The CMF crossed the zero mark, demonstrating improved capital inflows. However, the RSI recovered but failed to cross above the 50-neutral mark, illustrating that buying pressure waned.</p>
+      <h3>Funding rates fluctuated as Open Interest dipped</h3>
+      <p>The funding rates have fluctuated in the past few days but have been overall negative, painting a bearish inclination. In addition, the Open Interest rates improved between 18-21 August but declined steadily afterward. It further cements the bearish bias in the futures market.</p>
+      <p>However, the CVD (Cumulative Volume Delta), which tracks whether buyers or sellers have market control, maintained a steady but sluggish positive slope. It suggests that buyers had little leverage and calls for tracking of BTC movement for optimized trade set-ups.</p>
+    </div>
+  },
+  {
+    id: 694,
+    title: 'Is Litecoin overvalued? Exploring demand amid lowered prices',
+    category: 'Crypto',
+    subCategory: ['Litecoin', 'overvalued', 'ATH'],
+    description: <div className="blog-desc">
+      <p>BTC is only down by roughly 62% from its ATH, while ETH is at a 675% discount from its historic high. Based on the ATH discounts, we can conclude that LTC is more overvalued than its counterparts.</p>
+    </div>,
+    authorName: 'Michael Nderitu',
+    authorurl: 'https://ambcrypto.com/author/michael-nderitu/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 27, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693233868/ncx-blog-1229_cvamiq.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>BTC is only down by roughly 62% from its ATH, while ETH is at a 675% discount from its historic high. Based on the ATH discounts, we can conclude that LTC is more overvalued than its counterparts.</p>
+    	<ul>
+        <li>Litecoin was multiple times oversold compared to Bitcoin and Ethereum.</li>
+        <li>LTC saw a surge in retail demand, but whales were still on the sidelines.</li>
+      </ul>
+      <p>August was perhaps the most anticipated month for Litecoin [LTC] holders due to the halving. However, the month is coming to its conclusion, and LTC’s price continued to favor the bears.</p>	
+    	<p>Litecoin’s bearish bias suggested a loss of excitement among holders. However, the cryptocurrency, which is often described as digital silver, has undergone a substantial discount since its July high. So, is it undervalued, or should traders anticipate more downside?</p>	
+    	<p>For starters, LTC’s $65.47 press time price represented a 63% premium from its lowest point at its lowest price point during crypto winter. On the other hand, it was at a 43% discount from its highest price point in July.</p>
+      <p>While LTC’s discount from July highs represented a healthy discount, it was much steeper if we contemplated its historic high. The cryptocurrency peaked at around $417 during the height of the 2021 bull run. Its press time price represented a 41% discount from its 2021 peak.</p>
+      <p>We decided to compare Litecoin’s downside with that of Bitcoin and found something interesting. BTC was only down by roughly 62% from its ATH. Meanwhile, in the same time period, ETH was at a 675% discount from its historic high.</p>
+      <p>Based on the ATH discounts, we can conclude that LTC is more overvalued than its counterparts.</p>
+      <h3>Is LTC securing significant demand?</h3>
+      <p>Note that Litecoin bears seems to be on recess after dominating since July. The price is also in oversold territory and also in a support level previously tested in March. Technically, we should see some accumulation in this region considering the support and oversold conditions as well as the sizable discount.</p>
+      <p>LTC’s supply distribution metric revealed something interesting. Retail traders have been buying the dip, as seen by the upside in addresses holding between 10 and 1,000 LTC (denoted in red and orange).</p>
+      <p>On the other hand, whale addresses registered net outflows in the last 10 days (addresses denoted in green, pink, and blue).</p>
+      <p>The above observation confirmed that whales were still sitting by the sidelines, thus holding back the bulls. Daily active addresses have notably declined in the last few days compared to the levels observed at the start of August.</p>
+      <p>At press time, Litecoin’s MVRV ratio was down to its lowest level in the last four weeks. This meant there was less incentive to sell below this level. Nevertheless, it does not guarantee that the price won’t go down further.</p>
+    </div>
+  },
+  {
+    id: 693,
+    title: 'Bitcoin mining difficulty hits new ATH: What caused it?',
+    category: 'Crypto',
+    subCategory: ['Bitcoin', 'Mining', 'ATH'],
+    description: <div className="blog-desc">
+      <p>Bitcoin’s mining difficulty jumped to all-time highs over the past week, reflecting miners’ confidence in the profitability of mining.</p>
+    </div>,
+    authorName: 'Aniket Verma',
+    authorurl: 'https://ambcrypto.com/author/aniket-verma/',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: ' August 27, 2023', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693233417/ncx-blog-1228_uatnvr.jpg',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Bitcoin’s mining difficulty jumped to all-time highs over the past week, reflecting miners’ confidence in the profitability of mining.</p>
+    	<ul>
+        <li>Bitcoin’s network hash rate bumped to a 4-month high.</li>
+        <li>Miners delayed selling their holdings due to their belief in the growth potential of BTC.</li>
+      </ul>
+      <p>Bitcoin’s [BTC] miner activity is closely tracked by experts in the crypto ecosystem, as it provides vital clues into the network’s health and the level of profitability in the mining sector.</p>	
+    	<p>As per a post by on-chain analytics firm Glassnode, the network hash rate bumped to a 4-month high on 26 August. The previous 4-month peak was recorded more than a month ago on 7 July.</p>	
+    	<h3>Miners switch on their machines</h3>
+      <p>An increase in hash rate implied that more computational power was dedicated to validating the transactions and securing the network. The entry of more miners or use of more efficient machines generally leads to a spike in this metric. Overall, the increase is a healthy sign with regard to security and decentralization of the network.</p>
+      <p>The jump in hash rate propelled the mining difficulty to all-time highs over the past week. The mining difficulty adjusts automatically roughly every two weeks in order to keep the total block time at 10 minutes.</p>
+      <p>In a statement shared by Bitfinex analysts to AMB Crypto, they revealed that the increase in mining difficulty was rooted in miners’ bullish expectations from Bitcoin.</p>
+      <p><strong>“Miners could be confident that the price of Bitcoin will eventually rebound as this can be seen as a mere downwards deviation from its real value. Hence investing more resources to mine Bitcoin at these prices could be highly profitable to them.“</strong></p>
+      <h3>Are miners bullish on BTC?</h3>
+      <p>The analysts further stated that miners delayed selling their assets due to their belief in the growth potential of BTC.</p>
+      <p>Glassnode’s data supported the above insights. It revealed that the total supply stored in miner addresses reached a monthly high of 1.83 million as of 26 August.</p>
+      <p>Remember that miners frequently cash out to meet their mining and power costs. A delay in liquidations generally means that they are waiting for Bitcoin’s price to gain more strength.</p>
+      <h3>Miner earnings decline</h3>
+      <p>Miners’ optimism about Bitcoin was a refreshing sign, especially in a phase when earnings have dried up considerably. Apart from the early-May euphoria over BRC-2o, Bitcoin miners’ revenues have stayed muted for the majority of the ongoing crypto winter.</p>
+    </div>
+  },
+  {
     id: 692,
     title: 'Worldcoin tanks by over 50% as data privacy concerns mount',
     category: 'Crypto',

@@ -12,17 +12,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Latest Insights</h1>
                             <div className="art_grf row">
-                            <a href="/post-crypto/692" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693053293/ncx-blog-1214_gkkrul.jpg"/></div>
-                                    <p className="dat"> August 26, 2023</p>
-                                    <h1>Worldcoin tanks by over 50% as data privacy concerns mount</h1>
-                                    <p>As regulators worldwide voice their concerns about Worldcoin, WLD holders have had to deal with a decline in the cryptocurrency’s value.</p>
+                            <a href="/post-commodities/637" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693290601/ncx-blog-1235_p4y1g8.webp"/></div>
+                                    <p className="dat">August 28, 2023 - 11:17 PM</p>
+                                    <h1>Oil Nudged Higher by Equities as Thin Trading Amplifies Swings</h1>
+                                    <p>(Bloomberg) -- Oil edged up alongside equities as thin summer trading left the commodity to follow broader markets.</p>
                                 </a>
-                            <a href="/post-crypto/691" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693052539/ncx-blog-1213_snbphl.png" alt="art_pic"/></div>
-                                    <p className="dat">August 26, 2023</p>
-                                    <h1>Bitcoin Cash [BCH] could be ready for another pump. Here’s why…</h1>
-                                    <p>Bitcoin Cash maintained its bullish bias on the higher timeframes with the possibility of another rally on the horizon.</p>
+                            <a href="/post-commodities/636" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693294135/ncx-blog-1239.jpg_y5sdzp.png" alt="art_pic"/></div>
+                                    <p className="dat">August 28, 2023 - 6:06 PM</p>
+                                    <h1>Iran inaugurates last phase of mega-gas field</h1>
+                                    <p>Iranian President Ebrahim Raisi inaugurated on Monday the last phase of the South Pars gas field, one of the world's largest natural gas condensate field and the country's biggest.</p>
                                 </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -31,17 +31,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Crypto</h1>
                             <div className="art_grf row"> 
-                            <a href="/post-crypto/690" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693051664/ncx-blog-1212_cesxx5.jpg" alt="art_pic"/></div>
-                                    <p className="dat">  August 26, 2023</p>
-                                    <h1>DYDX garners interest from seasoned investors: What’s coming next?</h1>
-                                    <p>The native token of decentralized derivative dYdX surged in value, spurred by aggressive accumulation by experienced investors.</p>
+                            <a href="/post-crypto/699" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693289139/ncx-blog-1234_qtlcvm.png" alt="art_pic"/></div>
+                                    <p className="dat">  August 28, 2023</p>
+                                    <h1>ApeCoin’s tale of accumulation and selling sparks market speculation</h1>
+                                    <p>Amidst ApeCoin’s dance between accumulation and selling, a dedicated supporter’s bold move meets a fading surge in activity. Sentiment ripples, leaving traders speculating on its dynamic fate.</p>
                                 </a>
-                            <a href="/post-crypto/689" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693051366/ncx-blog-1211_mnvcxd.png" alt="art_pic"/></div>
-                                <p className="dat">August 26, 2023</p>
-                                <h1>DOT: Recovery elusive after hitting key demand zone</h1>
-                                <p>DOT was at a key interest level for bulls. But BTC muted movement could delay a solid recovery for a while.</p>
+                            <a href="/post-crypto/698" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693288297/ncx-blog-1233_ytdlr6.jpg" alt="art_pic"/></div>
+                                <p className="dat"> August 28, 2023</p>
+                                <h1>How Litecoin emerged as the popular crypto for payments</h1>
+                                <p>Litecoin’s share of the global payments jumped from 23% in March to a little over 34% by the end of July.</p>
                             </a>
                             </div>
                             <Button href="/post-crypto" className="red__mor">View All</Button>
@@ -50,17 +50,17 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Markets</h1>
                             <div className="art_grf row">
-                            <a href="/post-markets/674" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693060893/ncx-blog-1226_tm0jfb.webp" alt="art_pic"/></div>
-                                    <p className="dat">August 26, 2023 - 12:30 AM</p>
-                                    <h1>Big Short Investor Michael Burry Bets $1.6 Billion On A Market Crash — Here Are 3 Investment Opportunities If You Want To Stay Away From Stocks</h1>
-                                    <p>The renowned hedge fund manager successfully wagered against the U.S. housing bubble in 2008, a gutsy call that became the focal point of the film “The Big Short.”</p>
+                            <a href="/post-markets/679" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693298404/ncx-blog-1246_znnueq.webp" alt="art_pic"/></div>
+                                    <p className="dat">August 28, 2023 - 6:21 PM</p>
+                                    <h1>StanChart to Sell Jet Lessor to Saudi PIF Unit for $3.6 Billion</h1>
+                                    <p>(Bloomberg) -- Standard Chartered Plc agreed to sell its aviation finance business to a unit of Saudi Arabia’s sovereign wealth fund for $3.6 billion and inked a separate deal to offload a portfolio of loans as part of efforts to boost returns.</p>
                                 </a>
-                            <a href="/post-markets/673" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693060157/ncx-blog-1225_gzfrvi.webp" alt="art_pic"/></div>
-                                    <p className="dat">  August 25, 2023 - 9:17 PM</p>
-                                    <h1>Shares of Better.com — whose CEO fired 900 workers on a Zoom call — slumped 95% on their first day of trade</h1>
-                                    <p>Better Home & Finance, or Better.com, had an awful Thursday debut on the Nasdaq — the stock slumped as much as 95% on its first day of trade.</p>
+                            <a href="/post-markets/678" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693298177/ncx-blog-1245_wkp76w.webp" alt="art_pic"/></div>
+                                    <p className="dat">  August 28, 2023 - 1:18 PM</p>
+                                    <h1>China’s 5.5% Stock Rally Fizzles in Blow to Market Rescue Effort</h1>
+                                    <p>(Bloomberg) -- Chinese stocks pared most of their early gains on Monday, showing once again that Beijing’s efforts to boost markets are falling flat in the face of economic worries.</p>
                                 </a>
                             </div>
                             <Button href="/post-markets" className="red__mor">View All</Button>
@@ -70,29 +70,29 @@ function PostListingSection()
                     <div className="col rght_br"> 
                         <div className="bardd">
                             <h1 className="ma__rere">Trending Articles</h1>
-                            <a href="/post-crypto/688" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693050976/ncx-blog-1210_xzw2eh.png" alt="art_pic"/></div>
-                                <p className="dat"> August 26, 2023</p>
-                                <h1>MakerDAO and Uniswap lead on the DeFi front; will UNI and MKR comply?</h1>
-                                <p>In a sea of losses, MakerDAO and Uniswap shine bright. Their resilient holders defy trends, showcasing DeFi’s potential amidst market turmoil.</p>
+                            <a href="/post-commodities/633" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693291021/ncx-blog-1236_rad1cf.webp" alt="art_pic"/></div>
+                                <p className="dat"> August 28, 2023 - 10:00 AM</p>
+                                <h1>China’s Zijin Mulls $3.8 Billion Expansion of Serbia Copper Mine</h1>
+                                <p>(Bloomberg) -- China’s Zijin Mining Group Co. is developing plans to expand its copper mine in eastern Serbia due to demand for the metal considered vital to the global energy transition — an effort that could cost billions of dollars.</p>
                             </a>
-                            <a href="/post-markets/672" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693059835/ncx-blog-1224_eejv9o.webp"/></div>
-                                <p className="dat">August 25, 2023 - 8:36 PM</p>
-                                <h1>Evergrande Seeks to Resume Trading After Shares Were Halted in March 2022</h1>
-                                <p>(Bloomberg) -- China Evergrande Group, the defaulted developer at the heart of the country’s real estate crisis, applied to resume stock trading after a 17-month halt, saying it has fulfilled all the listing requirements.</p>
+                            <a href="/post-markets/677" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693297625/ncx-blog-1244_wltuhr.webp"/></div>
+                                <p className="dat">August 28, 2023 - 8:46 AM</p>
+                                <h1>SoftBank Plans AI Tour for Founders to Boost Technology Adoption</h1>
+                                <p>(Bloomberg) -- SoftBank Group Corp. will take a group of its Indian startup founders to Silicon Valley next month for an artificial intelligence tour as the Japanese investor steps up efforts to infuse its portfolio companies with the technology.</p>
                             </a>
-                            <a href="/post-markets/671" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693059585/ncx-blog-1223_ngqedg.webp" alt="art_pic"/></div>
-                                <p className="dat"> August 25, 2023 - 8:19 PM</p>
-                                <h1>Bond Market Losses Are Finally Over, Unless Yields Blow Past 6%</h1>
-                                <p>(Bloomberg) -- As brutal as it’s been for US bond investors, the math is finally turning in their favor.</p>
+                            <a href="/post-markets/676" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693297400/ncx-blog-1243_i4zwth.webp" alt="art_pic"/></div>
+                                <p className="dat"> August 28, 2023 - 5:36 AM</p>
+                                <h1>Evergrande loses $2 billion in value as trade resumes; extends creditor voting</h1>
+                                <p>HONG KONG (Reuters) - China Evergrande Group lost $2.2 billion, or 79% of its market value, on Monday after its shares resumed trading in a crucial step for the world's most indebted property firm to restructure its offshore debt.</p>
                             </a>
-                            <a href="/post-forex/648" className="col">
-                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693044843/ncx-blog-1198_edkklx.webp" alt="art_pic"/></div>
-                                <p className="dat"> August 25, 2023 - 5:54 PM</p>
-                                <h1>AUD/USD Forecast – Australian Dollar Tries to Stabilize</h1>
-                                <p>The Australian dollar has gone back and forth during the trading session on Friday, hanging onto the 0.64 level. The 0.64 level was the bottom of a recent consolidation that a lot of people will be paying attention to,</p>
+                            <a href="/post-crypto/695" className="col">
+                                <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693234282/ncx-blog-1230_wty1dd.png" alt="art_pic"/></div>
+                                <p className="dat"> August 27, 2023</p>
+                                <h1>XLM maintains its downtrend: Will prices dip further?</h1>
+                                <p>XLM retested previous range-high of $0.13 as a resistance and could head lower towards the range-low and bullish OB.</p>
                             </a>
                             {/* <a href="/post-crypto/441" className="col">
                                 <div className="fdd-d"><img src="https://ncx.cx/images/ncx-blog-456.jpg" alt="art_pic"/></div>
@@ -134,23 +134,23 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Commodities</h1>
                             <div className="art_grf row">
-                            <a href="/post-commodities/632" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693054404/ncx-blog-1215_ack6oc.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 25, 2023 - 4:48 AM</p>
-                                    <h1>Oil futures up 1% to one-week high on soaring US diesel prices</h1>
-                                    <p>NEW YORK (Reuters) -Oil futures climbed about 1% to a one-week high on Friday as U.S. diesel prices soared, the number of oil rigs dropped and a fire broke out at a refinery in Louisiana.</p>
+                            <a href="/post-commodities/636" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693294135/ncx-blog-1239.jpg_y5sdzp.png" alt="art_pic"/></div>
+                                    <p className="dat"> August 28, 2023 - 6:06 PM</p>
+                                    <h1>Iran inaugurates last phase of mega-gas field</h1>
+                                    <p>Iranian President Ebrahim Raisi inaugurated on Monday the last phase of the South Pars gas field, one of the world's largest natural gas condensate field and the country's biggest.</p>
                                 </a>   
-                            <a href="/post-commodities/631" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693061293/ncx-blog-1227_xmp9uy.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 24, 2023 - 9:18 PM</p>
-                                    <h1>David Rosenberg: Commodities in your asset mix will boost returns in all economic seasons</h1>
-                                    <p>In the past two years, the GSCI commodity index has generated a net positive return of 31.6 per cent, while the S&P 500 has delivered a total that barely touches one per cent and the 10-year U.S. Treasury has lost 18.9 per cent.</p>
+                            <a href="/post-commodities/635" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693292799/ncx-blog-1238_dyxr5n.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 28, 2023 - 5:01 PM</p>
+                                    <h1>Global clean energy shift won hit Reliance oil business- Ambani</h1>
+                                    <p>NEW DELHI (Reuters) - Reliance Industries Ltd will continue to operate its refineries and petrochemical projects profitably, even as fossil fuel demand wanes due to a gradual global shift to clean energy, Chairman Mukesh Ambani said on Friday.</p>
                                 </a>   
-                            <a href="/post-commodities/630" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1692880732/ncx-blog-1186_a0z4wr.webp" alt="art_pic"/></div>
-                                    <p className="dat">August 24, 2023 - 5:48 AM</p>
-                                    <h1>Gold climbs two-week peak as Jackson Hole looms</h1>
-                                    <p>(Reuters) - Gold rose for a fourth straight session to a two-week high on Thursday, extending gains from the previous session fuelled by weaker U.S. data in the run up to likely interest rate guidance from central bankers at Jackson Hole.</p>
+                            <a href="/post-commodities/634" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693291670/ncx-blog-1237_xg9qkz.webp" alt="art_pic"/></div>
+                                    <p className="dat">August 28, 2023 - 4:26 PM</p>
+                                    <h1>Asia Up, Europe Up, Commodities Up - Global Markets Today While US Was Sleeping</h1>
+                                    <p>On Friday, August 25, the U.S. markets closed higher after Federal Reserve Chair Jerome Powell's Jackson Hole Symposium speech, where he indicated a willingness to raise interest rates when necessary.</p>
                                 </a>                   
                             </div>
                             <Button href="/post-commodities" className="red__mor">View All</Button>
@@ -161,24 +161,24 @@ function PostListingSection()
                         <div className="category_se">
                             <h1 className="tile_hed">Indices</h1>
                             <div className="art_grf row">
+                            <a href="/post-indices/612" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693295185/ncx-blog-1241_oweeaa.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 28, 2023 - 6:20 PM</p>
+                                    <h1>Dow Jones Rallies 300 Points With Jobs, Inflation Data On Deck; Tesla Rival Xpeng Surges On Didi Deal</h1>
+                                    <p>The Dow Jones Industrial Average rallied as much as 300 points Monday, as China-based Tesla rival Xpeng Motors (XPEV) soared on news it plans to buy the smart vehicle unit of ride-hailing app Didi Global.</p>
+                                </a>
+                            <a href="/post-indices/611" className="col">
+                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693294790/ncx-blog-1240_q6t2ol.webp" alt="art_pic"/></div>
+                                    <p className="dat"> August 28, 2023 - 3:39 PM</p>
+                                    <h1>Traders Have S&P 500 Comebacks Fading at Historic Pace</h1>
+                                    <p>(Bloomberg) -- Surprised that the S&P 500 swung into the green Friday? Don’t worry. Just wait. It’ll fall again after the next opening bell.</p>
+                                </a>  
                             <a href="/post-indices/610" className="col">
                                     <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693048879/ncx-blog-1205_kx9jvb.webp" alt="art_pic"/></div>
                                     <p className="dat"> August 25, 2023 - 7:57 PM</p>
                                     <h1>Dow Jones Off Session Lows As Powell Talks Tough; AI Stocks Nvidia, Marvell Technology Hit Hard</h1>
                                     <p>The Dow Jones Industrial Average was volatile Friday as Wall Street weighed comments by Federal Reserve Chair Jerome Powell at the Jackson Hole Economic Symposium. Gainers in the stock market today included Netflix (NFLX), which got a nice price target hike from Loop Capital.</p>
                                 </a>
-                            <a href="/post-indices/609" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693046809/ncx-blog-1204_dh85lb.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 25, 2023 - 4:17 PM</p>
-                                    <h1>Dow Jones Futures Rise: Stakes High For Fed Chief Powell Speech After Ugly Market Reversal</h1>
-                                    <p>Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, with Fed chief Jerome Powell's big Jackson Hole speech on tap.</p>
-                                </a>
-                            <a href="/post-indices/608" className="col">
-                                    <div className="fdd-d"><img src="https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693046548/ncx-blog-1203_nzhohu.webp" alt="art_pic"/></div>
-                                    <p className="dat"> August 25, 2023 - 12:32 AM</p>
-                                    <h1>Dow Jones Dives 374 Points As Powell Speech Risks Rise; Elon Musk Issues This Cybertruck Warning</h1>
-                                    <p>The Dow Jones Industrial Average and other indexes fell sharply as attention turned to the Jackson Hole speech by Fed Chair Jerome Powell. Nvidia (NVDA) lost almost all its gains after blowout earnings. </p>
-                                </a>  
                             </div> 
                             <Button href="/post-indices" className="red__mor">View All</Button>
                         </div>

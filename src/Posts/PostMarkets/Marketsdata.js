@@ -1,5 +1,172 @@
 const data = [
   {
+    id: 679,
+    title: 'StanChart to Sell Jet Lessor to Saudi PIF Unit for $3.6 Billion',
+    category: 'Markets',
+    subCategory: ['Stanchart', 'PIF', 'Saudi'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Standard Chartered Plc agreed to sell its aviation finance business to a unit of Saudi Arabia’s sovereign wealth fund for $3.6 billion and inked a separate deal to offload a portfolio of loans as part of efforts to boost returns.</p>
+    </div>,
+    authorName: 'Adveith Nair and Matthew Martin',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 6:21 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693298404/ncx-blog-1246_znnueq.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Standard Chartered Plc agreed to sell its aviation finance business to a unit of Saudi Arabia’s sovereign wealth fund for $3.6 billion and inked a separate deal to offload a portfolio of loans as part of efforts to boost returns.</p>
+    	<p>AviLease, a jet lessor owned by Saudi Arabia’s Public Investment Fund, will acquire a portfolio of 100 narrowbody aircraft and become servicer for another 22 jets, according to a statement. The combined platform will own and manage 167 planes.</p>	
+    	<p>Separately, Apollo Global Management Inc.-backed PK Airfinance agreed to buy the majority of a $920 million portfolio of secured aviation loans from Standard Chartered. Affiliates of Apollo will buy the rest of the aviation loans.</p>	
+    	<p>Both deals are expected to close before the end of the year.</p>
+      <p>Standard Chartered had earmarked its aviation business for sale earlier this year and hired advisers for the process.</p>
+      <p>Dublin-based Standard Chartered Aviation Finance owns and manages more than 120 aircraft and offers services including jet fuel hedging and re-marketing of aircraft. It also includes a debt-financing business to finance the purchase of airplanes.</p>
+      <p>AviLease, founded last year, is among a number of companies the Saudi sovereign wealth fund has bankrolled as it pushes deeper into sectors from sports to tourism through a series of high-profile acquisitions.</p>
+      <p>“This acquisition will propel AviLease and will in turn support Saudi Arabia’s aviation ecosystem,” AviLease Chairman Fahad Al Saif said in the statement.</p>
+      <p>The deal is part of a push by the country to become a global trade, logistics and tourism hub, and help diversify its economy away from a reliance on oil sales. The kingdom has launched a new national airline and plans to develop one of the world’s biggest airports in its capital, Riyadh.</p>
+    </div>
+  },
+  {
+    id: 678,
+    title: 'China’s 5.5% Stock Rally Fizzles in Blow to Market Rescue Effort',
+    category: 'Markets',
+    subCategory: ['China', 'stock', 'Market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Chinese stocks pared most of their early gains on Monday, showing once again that Beijing’s efforts to boost markets are falling flat in the face of economic worries.</p>
+    </div>,
+    authorName: 'Bloomberg News',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 1:18 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693298177/ncx-blog-1245_wkp76w.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Chinese stocks pared most of their early gains on Monday, showing once again that Beijing’s efforts to boost markets are falling flat in the face of economic worries.</p>
+    	<p>After opening 5.5% higher on a slew of market support measures announced over the weekend, the CSI 300 Index of mainland stocks pared its advance to close just 1.2% higher. Foreign funds accelerated their selling through the day, poised to take this month’s outflows to the biggest on record. Authorities asked some mutual funds to avoid offloading equities on a net basis on Monday, people familiar with the matter said.</p>	
+    	<p>Traders had been expecting more forceful support measures after recent efforts by authorities failed to arrest the market’s slide. The announcements on Sunday included a reduction in the levy charged on stock trades, restrictions on share sales by top stakeholders at some firms, and lower deposit ratios for margin financing. The China Securities Regulatory Commission also said it will slow the pace of initial public offerings.</p>	
+    	<p>Monday’s price action suggests foreign investors need to see concrete steps aimed at reviving the economy before returning to China’s equity market, one of the world’s worst performers in August. While Beijing is ramping up its campaign to lift market sentiment, the country’s economic slowdown has been fueled by structural and entrenched problems that are proving harder to fix.</p>
+      <p>“The open today was a bit too strong, and that level of hype understandably leads to some people walking away from the table,” said Lin Menghan, a fund manager at Shanghai Xiejie Asset Management Co. “The measures overall addressed the issues of outflow and dilution of funds in the market, rather than where the fresh liquidity will come from.”</p>
+      <p>Data Sunday showed the decline in China’s industrial profits persisted in July, the latest reading to confirm the dire state of the economy that has lapsed into a deflation.</p>
+      <p>Global funds sold the equivalent of $1.1 billion of mainland shares on a net basis via trading links with Hong Kong, according to data compiled by Bloomberg.</p>
+      <p>Stamp Duty</p>
+      <p>China last cut the stamp duty in April 2008, reducing it to 0.1% to support the market after a plunge, triggering a 9.3% rally in the Shanghai Composite in the following session and spurring a bull run into the next year. The gauge closed 1.1% higher on Monday. In May 2007, authorities had raised the rate to 0.3% to cool a rally that was drawing more than 300,000 new investors a day.</p>
+      <p>The CSRC’s restriction on share sales by major stakeholders applies to firms whose stock prices have fallen below IPO levels or net asset levels, or those that have not given out enough dividends. Less than half of the onshore firms are trading above both book value and IPO price, according to data compiled by Bloomberg.</p>
+      <p>The raft of changes this time are expected to bring the equivalent of 750 billion yuan ($103 billion) of new funds into the market per year, according to estimates from Huatai Securities. “New restrictions on share sales in effect keep around 250 billion yuan of funds from selling, and bring the strongest benefit to liquidity” among the measures, analysts including Wang Yi wrote in a note.</p>
+      <p>Meanwhile, some property stocks jumped by daily limits as the regulator said the embattled sector is exempt from new restrictions on refinancing.</p>
+      <p>China’s stock slump has likely reached a level that policymakers can no longer turn a blind eye to. As households suffer from a shrinking wealth effect from the property crisis, invigorating capital markets has become even more crucial.</p>
+      <p>Authorities earlier this month urged pension funds, large banks and other big domestic financial institutions to increase stock investments to support the market. Regulators have also cut handling fees on stock transactions, prodded mutual fund managers to increase purchases of their own equity funds and encouraged companies to do more share buybacks. CSRC has reportedly approved 17 exchange-traded fund products and 20 mutual funds recently in a bid to support markets.</p>
+      <p>‘Bazooka’ Needed</p>
+      <p>Still, foreign investors have been fleeing in droves, and the market’s response to stimulus measures has become increasingly muted in recent weeks. On Friday, the unveiling of property stimulus measures sparked an initial flurry of buying, with China’s benchmark CSI 300 Index reversing losses. However, the gauge resumed declines after about 10 minutes and ended the day down 0.4%.</p>
+      <p>The Hang Seng China Enterprises Index advanced 1.2% on Monday, trimming its earlier 4.1% jump. While the gains have helped pare its losses for August to under 10%, the gauge of Chinese shares listed in Hong Kong is still one of the world’s worst performers among more than 90 equity gauges tracked by Bloomberg.</p>
+      <p>The stamp duty cut “shows the urgency for policymakers to turn around market sentiment, but last time this was followed by massive stimulus, which may not be the case this time around,” said Marvin Chen, an analyst for Bloomberg Intelligence. “The key for a sustained re-rating is still turning around economic growth momentum, and more policy support will be needed.”</p>
+      <p>China’s 10-year government bond yield gained two basis points on Monday, after earlier rising five basis points on bets some investors will likely switch to equities from bonds. The offshore yuan advanced as much as 0.3% before swinging to a decline.</p>
+      <p>The PBOC set its daily reference rate for the yuan at its strongest since mid-August, continuing a trend of more robust-than-expected fixings for the managed currency. It also injected the most amount of short-term cash to the financial system since February, a measure likely aimed at managing month-end liquidity needs.</p>
+      <p>“We expect a rally this week, maybe to a less degree than those after China lowered stamp duty in 2008,” said Neo Wang, Evercore ISI’s New York-based managing director for China Research. Wang added that a turnaround in the A-share market would not happen unless Beijing adopts more “bazooka” measures, such as the 4 trillion yuan stimulus package it rolled out in 2008.</p>
+      <p>--With assistance from Iris Ouyang, Zhu Lin and Wenjin Lv.</p>
+    </div>
+  },
+  {
+    id: 677,
+    title: 'SoftBank Plans AI Tour for Founders to Boost Technology Adoption',
+    category: 'Markets',
+    subCategory: ['SoftBank', 'AI', 'Technology'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- SoftBank Group Corp. will take a group of its Indian startup founders to Silicon Valley next month for an artificial intelligence tour as the Japanese investor steps up efforts to infuse its portfolio companies with the technology.</p>
+    </div>,
+    authorName: 'Anto Antony',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 8:46 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693297625/ncx-blog-1244_wltuhr.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- SoftBank Group Corp. will take a group of its Indian startup founders to Silicon Valley next month for an artificial intelligence tour as the Japanese investor steps up efforts to infuse its portfolio companies with the technology.</p>
+    	<p>The investor is helping portfolio companies adopt AI and has been setting up meetings for the founders it backs with the leading players in the field, said Sumer Juneja, managing partner overseeing Europe, Middle East, Africa and India investments at SoftBank’s Vision Fund, in an interview in Mumbai. SoftBank expects to take many of the 20 founders from its India companies on the tour, he said, without naming specific names. Its portfolio in the country includes Oyo Hotels, ride-hailing provider Ola and delivery firm Swiggy.</p>	
+    	<p>SoftBank, led by Masayoshi Son, began making startup investments again in the June quarter after coming to a virtual halt as investors soured on money-losing startups. The Japanese company has built up a cash pile of more than $40 billion and is in the process of taking chip designer Arm Holdings Ltd. public in a deal that will raise additional money.</p>	
+    	<p>“What we don’t want to do is to invest in a company that misses the AI wave and then three years later turn irrelevant,” Juneja said. “Having a sophisticated tech team and being in the right industry where it could use AI to make the business model even more efficient are must-haves for us to write new cheques.”</p>
+      <p>Investors are rushing to back AI companies worldwide as products such as ChatGPT are quickly gaining popularity. Companies in many sectors, including software-as-a-service, will become redundant if they don’t adopt AI use cases quickly, according to Juneja. However, the biggest challenge with AI today is how to use it best.</p>
+      <p>“If you are too late to the AI party, you are toast, and if you are too early, it won’t impact your revenue. We are helping to ensure the transition is right,” he said.</p>
+      <p>Son invested more than $140 billion in startups after setting up the Vision Fund in 2017, championing the potential of new technologies such as artificial intelligence. But many of those investments have plummeted in value, including office-sharing startup WeWork Inc.</p>
+    </div>
+  },
+  {
+    id: 676,
+    title: 'Evergrande loses $2 billion in value as trade resumes; extends creditor voting',
+    category: 'Markets',
+    subCategory: ['Evergrande', 'Trade', 'resumes'],
+    description: <div className="blog-desc">
+      <p>HONG KONG (Reuters) - China Evergrande Group lost $2.2 billion, or 79% of its market value, on Monday after its shares resumed trading in a crucial step for the world's most indebted property firm to restructure its offshore debt.</p>
+    </div>,
+    authorName: 'Clare Jim',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 5:36 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693297400/ncx-blog-1243_i4zwth.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Clare Jim</p>
+    	<p>HONG KONG (Reuters) - China Evergrande Group lost $2.2 billion, or 79% of its market value, on Monday after its shares resumed trading in a crucial step for the world's most indebted property firm to restructure its offshore debt.</p>	
+    	<p>Evergrande is at the centre of a crisis in China's property sector that has seen a string of debt defaults since late 2021, and its stock has been suspended for 17 months.</p>	
+    	<p>The developer, which is in the process of getting approvals from creditors and the courts to implement the debt restructuring plan, said on Monday it would postpone by a month meetings for these creditors to vote on the proposal to give more time "to maximise creditor engagement and support informed-decision making".</p>
+      <p>The scheme meetings will now take place on Sept 26, instead of Monday, but three people with direct knowledge of the matter said many creditors had already registered their vote by a deadline last Wednesday to submit forms.</p>
+      <p>Evergrande needs approval from more than 75% of the holders of each debt class to approve the plan, which offers creditors with a basket of options to swap debt for new bonds and equity-linked instruments backed by its stocks and those of its Hong Kong-listed units.</p>
+      <p>Its Hong Kong listed shares closed down 79% to HK$0.35 on Monday. Market capitalisation shrank to HK$4.6 billion ($586.29 million) from HK$21.8 billion ($2.78 billion) from when it last traded.</p>
+      <h3>PROPERTY DOWNTURN</h3>
+      <p>Evergrande's valuation hit an all-time high of close to HK$420 billion in 2017.</p>
+      <p>The stock has been suspended since March 21, 2022, and resumed trading after the company said it had fulfilled all conditions by the Hong Kong Stock Exchange.</p>
+      <p>Its units, China Evergrande New Energy Vehicle Group and Evergrande Property Services Group, have both resumed trading in the past month after a 16 month halt.</p>
+      <p>Evergrande would have faced delisting if the suspension had reached 18 months.</p>
+      <p>"Going forward things will continue to be difficult for both its operations and share performance," said Steven Leung, Hong Kong-based director of UOB Kay Hian.</p>
+      <p>"There's little hope that Evergrande can rely on selling houses to repay debt because homebuyers would prefer state-owned developers, and it won't be able to benefit from stimulus policies."</p>
+      <p>The deepening of debt crisis in the property sector has weighed on the recovery of China's economy, putting more pressure to policymakers to roll out stimulus measures. The government has so far relaxed residential housing loan rules and supported affordable housing, briefly cheering investors.</p>
+      <p>The Hang Seng Mainland Properties Index rose more than 6% in early morning session, before closing up 0.1%</p>
+      <p>However, China's new home prices will likely show no growth this year, according to a Reuters poll.</p>
+      <p>"We haven't seen meaningful improvement in the property market's fundamentals," said Mark Dong, Hong Kong-based general manager of Minority Asset Management, which manages more than $1 billion in assets. The firm has cut its holding in property stocks, Dong said.</p>
+      <p>Evergrande's trade resumption also came after the developer on Sunday reported a narrower net loss for the first half of the year due to a rise in revenue.</p>
+      <p>Evergrande also posted a combined net loss of $81 billion for 2021 and 2022 in a long-overdue earnings report last month, versus an 8.1 billion yuan profit in 2020.</p>
+      <p>As with Evergrande's previous two annual financial statements, auditor Prism Hong Kong and Shanghai has not issued a conclusion on this report, citing multiple uncertainties relating to the business as a going concern.</p>
+      <p>($1 = 7.2834 Chinese yuan renminbi)</p>
+      <p>($1 = 7.8447 Hong Kong dollars)</p>
+      <p>(This story has been refiled to remove extraneous words in headline)</p>
+      <p>(Reporting by Clare Jim; Additional reporting by Xie Yu and Donny Kwok; Editing by Kim Coghill and Christopher Cushing and Miral Fahmy)</p>
+    </div>
+  },
+  {
+    id: 675,
+    title: 'Wall Street’s Hot Options Come to Europe. Will They Take Off?',
+    category: 'Markets',
+    subCategory: ['Wall street', 'Europe', 'market'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- The zero-day options trade that has taken Wall Street by storm will finally arrive in Europe next week, in a fresh test for the region’s long-struggling capital markets.</p>
+    </div>,
+    authorName: 'Justina Lee',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 27, 2023 - 11:30 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693296528/ncx-blog-1242_fpwm3m.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- The zero-day options trade that has taken Wall Street by storm will finally arrive in Europe next week, in a fresh test for the region’s long-struggling capital markets.</p>
+    	<p>Starting Monday, Deutsche Boerse AG’s Eurex will list Euro Stoxx 50 (SX5E) derivatives that expire every weekday, following US peers who introduced the now-booming contracts tied to the S&P 500 last year. Every trading session, investors in Europe will be able to buy and sell derivatives expiring the same day, known as zero-days-to-expiration contracts, or 0DTE.</p>	
+    	<p>Their introduction unleashed a torrent of trading activity on the other side of the Atlantic, as retail and institutional investors used them as a tool for speculation and hedging.</p>
+      <p>At one point this month 0DTE accounted for a record 55% of the trading volume for options tied to the S&P 500, according to data compiled by Nomura Securities International. The derivatives have grown so popular that some now fear they’re swaying America’s benchmark equity gauge itself.</p>
+      <p>In Europe, the level of demand for the contracts will be closely watched by participants looking for signs of life in the moribund market. But amid the chronic underperformance of equity benchmarks, dwindling stock listings and stagnant volumes, the options face an uphill battle to have an impact.</p>
+      <p>“You don’t have that same kind of pent-up demand,” said Kieran Diamond, a London-based derivatives strategist at UBS Group AG. “And the S&P just has a very strong track record as the main global liquidity pool for equity volatility.”</p>
+      <p>As of Tuesday, the daily notional amount of Euro Stoxx 50 options traded averaged $45 billion over the past month, data compiled by UBS show. For the US benchmark, the equivalent figure was nearly $1.3 trillion.</p>
+      <p>Even before the addition of Tuesday and Thursday expirations last year — which made it possible to trade S&P 500 products expiring every weekday — weekly options had been growing in popularity in the US, Diamond noted. In contrast, activity in options tied to the SX5E is mainly focused on monthly contracts.</p>
+      <p>While the new expirations are unlikely to generate a frenzy to match the US, they may still lift volumes, with trading pros as the main users, according to Patrick Bonouvrie, head of European index derivatives trading at Optiver BV.</p>
+      <p>“There’s been a clear trend globally in investors showing greater preference for shorter-dated options,” Bonouvrie said by email. “Daily options allow for the hedging of very specific risks – such as ECB events – that couldn’t be hedged with the same granularity before.”</p>
+      <p>Eurex has previously said the new contracts are a response to increasingly strong demand from institutions for more options with short-term expiries. Alongside the introduction of daily expirations, the derivatives will also now settle at the stock-market close of 5:30 p.m. Central European Time, instead of the current midday settlement. That will allow greater scope to trade events during the market day.</p>
+      <p>The new derivatives are unlikely to find much retail investor interest, however. Day traders have turned out to be a notable driver of the 0DTE boom in the US, the exchange at the center of the frenzy said this week. But retail participation overall in the equity market in Europe is substantially lower than across the Atlantic, suggesting a key source of demand simply isn’t present.</p>
+      <p>To some, that may be no bad thing. Strategists in the US have speculated that 0DTE activity is now so large it can move the S&P 500, as option dealers rush to hedge their own positions while traders furiously buy and sell contracts in response to intraday swings.</p>	
+    	<p>It’s all the subject of a heated debate with no end in sight — one that Europe is unlikely to be part of any time soon.</p>
+    </div>
+  },
+  {
     id: 674,
     title: 'Big Short Investor Michael Burry Bets $1.6 Billion On A Market Crash — Here Are 3 Investment Opportunities If You Want To Stay Away From Stocks',
     category: 'Markets',

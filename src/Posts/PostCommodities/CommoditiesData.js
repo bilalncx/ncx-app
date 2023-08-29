@@ -1,5 +1,158 @@
 const data = [
   {
+    id: 637,
+    title: 'Oil Nudged Higher by Equities as Thin Trading Amplifies Swings',
+    category: 'Commodities',
+    subCategory: ['Oil', 'Equities', 'Trading'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- Oil edged up alongside equities as thin summer trading left the commodity to follow broader markets.</p>
+    </div>,
+    authorName: 'Julia Fanzeres',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 11:17 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693290601/ncx-blog-1235_p4y1g8.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- Oil edged up alongside equities as thin summer trading left the commodity to follow broader markets.</p>
+    	<p>Aggregate open interest in West Texas Intermediate crude is down about 16% from its peak in early June. Risk-on sentiment across markets nudged oil higher, even as a mixed demand outlook and the prospect of more supply from Iran and Venezuela sapped investors’ conviction.</p>	
+    	<p>Oil’s rally has faltered in recent weeks as the deteriorating demand outlook in China, the world’s biggest oil importer, remains a lingering concern for traders. The stumble comes despite efforts by OPEC+, the producers’ group led by Saudi Arabia and Russia, to shore up prices by curbing supply. At the same time, US talks with Iran and Venezuela have fueled speculation that both nations will boost crude exports.</p>
+    </div>
+  },
+  {
+    id: 636,
+    title: 'Iran inaugurates last phase of mega-gas field',
+    category: 'Commodities',
+    subCategory: ['Iran', 'Mega', 'gas'],
+    description: <div className="blog-desc">
+      <p>Iranian President Ebrahim Raisi inaugurated on Monday the last phase of the South Pars gas field, one of the world's largest natural gas condensate field and the country's biggest.</p>
+    </div>,
+    authorName: 'AFP',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 6:06 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693294135/ncx-blog-1239.jpg_y5sdzp.png',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>Iranian President Ebrahim Raisi inaugurated on Monday the last phase of the South Pars gas field, one of the world's largest natural gas condensate field and the country's biggest.</p>
+    	<p>Iran shares the gas field with energy giant Qatar and there are 24 platforms on the side of the Islamic republic which has been developing it in the Gulf since the 1990s.</p>	
+    	<p>Oil Minister Javad Owji said around 50 million cubic meters of gas will be extracted daily from phase 11 of the project "after the completion of the wells", during a ceremony in the southern port city of Asalouyeh broadcast live on state television.</p>
+      <p>Raisi meanwhile complained that foreign companies, including French energy giant Total, "had not fulfilled their obligations to complete the 11th phase of South Pars", leaving Iranian experts to do the job.</p>
+      <p>Total was due to develop phase 11 of South Pars along with China's National Petroleum Corporation (CNPC) and an Iranian firm, under a 2017 deal worth $4.8 billion.</p>	
+    	<p>A year later Total withdrew from the project after then US president Donald Trump unilaterally pulled out from the landmark 2015 nuclear agreement and reimposed sanctions on Iran. In 2019, Tehran announced that China had also abandoned the project.</p>
+      <p>Iran has the world's second largest gas reserves, after Russia, and the world's fourth largest oil reserves.</p>
+    </div>
+  },
+  {
+    id: 635,
+    title: 'Global clean energy shift won hit Reliance oil business- Ambani',
+    category: 'Commodities',
+    subCategory: ['Reliance', 'Oil', 'Ambani'],
+    description: <div className="blog-desc">
+      <p>NEW DELHI (Reuters) - Reliance Industries Ltd will continue to operate its refineries and petrochemical projects profitably, even as fossil fuel demand wanes due to a gradual global shift to clean energy, Chairman Mukesh Ambani said on Friday.</p>
+    </div>,
+    authorName: 'Nidhi Verma',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 5:01 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693292799/ncx-blog-1238_dyxr5n.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>By Nidhi Verma</p>
+    	<p>NEW DELHI (Reuters) - Reliance Industries Ltd will continue to operate its refineries and petrochemical projects profitably, even as fossil fuel demand wanes due to a gradual global shift to clean energy, Chairman Mukesh Ambani said on Friday.</p>	
+    	<p>"We have already put in place a comprehensive strategy to ensure that all our investments and all our assets remain not just safe, but actually become profitable even as fossil fuel demand wanes," Ambani said at the group's annual shareholder meeting.</p>
+      <p>He said Reliance will switch to 100% green energy for captive consumption to cut energy costs, and upgrade the output of its refineries into value added chemicals.</p>	
+    	<p>Billionaire Ambani on Monday also announced the appointment of his three children as board directors at the oil-to-chemicals conglomerate, as he prepares to eventually hand over the reins.</p>
+      <p>Reliance, the operator of the world's biggest refining complex at Jamnagar in western India, is investing 750 billion rupees ($9.08 billion) in clean energy and technologies as it seeks to become net carbon zero by 2035.</p>
+      <p>The company is building four giga factories at Jamnagar to produce solar cells and modules, energy storage batteries, fuel cells and green hydrogen.</p>
+      <p>"..let me assure you that both during and after energy transition, our Jamnagar refining complex and all other petrochemical complexes will continue to operate profitably," he said.</p>
+      <p>Reliance aims to start commissioning facilities at its solar cell and module factory in phases from end-2025 and to set up a battery giga factory by 2026, he said, adding the plan is to install at least 100 gigawatts of renewable energy generation capacity by 2030.</p>
+      <p>Ambani said Reliance's Jamnagar refining complex, which has the capability to process 1.4 million barrels of oil per day, will be progressively operated as a chemicals and materials feedstock production engine.</p>
+      <p>($1 = 82.6000 Indian rupees)</p>
+      <p>(Reporting by Nidhi Verma; Editing by Sharon Singleton)</p>
+    </div>
+  },
+  {
+    id: 634,
+    title: 'Asia Up, Europe Up, Commodities Up - Global Markets Today While US Was Sleeping',
+    category: 'Commodities',
+    subCategory: ['Asia', 'Europe', 'Commodities'],
+    description: <div className="blog-desc">
+      <p>On Friday, August 25, the U.S. markets closed higher after Federal Reserve Chair Jerome Powell's Jackson Hole Symposium speech, where he indicated a willingness to raise interest rates when necessary.</p>
+    </div>,
+    authorName: 'Akanksha Bakshi',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 4:26 PM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693291670/ncx-blog-1237_xg9qkz.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>On Friday, August 25, the U.S. markets closed higher after Federal Reserve Chair Jerome Powell's Jackson Hole Symposium speech, where he indicated a willingness to raise interest rates when necessary.</p>
+    	<p>All key S&P 500 sectors increased, with consumer discretionary, technology, and energy as top gainers.</p>	
+    	<p>On Friday, the Dow Jones Industrial Average concluded with a 0.73% increase, closing at 34,346.90. The S&P 500 exhibited a rise of 0.67%, ending at 4,405.71. Likewise, the Nasdaq Composite experienced a gain of 0.94%, finishing the session at 13,590.65.</p>	
+    	<h3>Asian Markets Today</h3>
+      <ul>
+        <li>Japan's Nikkei 225 closed Monday's session higher by 1.80% at 32,197.50. It surged the most in two months as investors rebounded from previous losses. Yet, tourism-linked stocks dropped due to concerns over China's seafood ban.</li>
+        <li>Australia's S&P/ASX 200 was up 0.63%, ending the session at 7,159.80. Encouraging retail figures from the Australian Bureau of Statistics on Monday led to a 1.36% rise in consumer discretionary stocks, making them prominent gainers in the market.</li>
+        <li>China's Shanghai Composite closed the session at 3,098.64, up 1.13%, Shenzhen CSI 300 rose 1.17% to close at 3,752.62.</li>
+        <li>Chinese stocks rose as the government lowered trading taxes and announced additional measures to revive its struggling capital markets.</li>
+        <li>The Hang Seng index in Hong Kong was up 0.94%, closing at 18,120.50.</li>
+      </ul>
+      <h3>Eurozone at 05:30 AM ET</h3>
+      <ul>
+        <li>The Pan-European STOXX 600 index is up 0.54%.</li>
+        <li>The DAX index in Germany traded 0.42% higher, and the CAC 40 in France rose 0.62%.</li>
+        <li>The U.K.'s FTSE 100 traded higher by 0.07%.</li>
+      </ul>
+      <h3>Commodities at 05:30 AM ET</h3>
+      <ul>
+        <li>Crude Oil WTI was trading higher by 0.56% at $80.28/bbl, and Brent was up 0.36% to $84.25/bbl.</li>
+        <li>Natural Gas was up 2.90% to $2.734.</li>
+        <li>Gold was trading higher by 0.07% at $1,941.15, Silver was down 0.13% to $24.303, and Copper rose 0.05% to $3.786.</li>
+      </ul>
+      <h3>US Futures at 05:30 AM ET</h3>
+      <p>Dow futures were up 0.21%, S&P 500 futures were up 0.16%, and Nasdaq 100 futures rose 0.23%.</p>
+      <h3>Forex at 05:30 AM ET</h3>
+      <p>The U.S. Dollar Index was up 0.08% to 104.16. USD/JPY rose 0.11% to 146.56, while USD/AUD was down 0.02% at 1.5607.</p>
+    </div>
+  },
+  {
+    id: 633,
+    title: 'China’s Zijin Mulls $3.8 Billion Expansion of Serbia Copper Mine',
+    category: 'Commodities',
+    subCategory: ['China', 'Zijin', 'Serbia'],
+    description: <div className="blog-desc">
+      <p>(Bloomberg) -- China’s Zijin Mining Group Co. is developing plans to expand its copper mine in eastern Serbia due to demand for the metal considered vital to the global energy transition — an effort that could cost billions of dollars.</p>
+    </div>,
+    authorName: 'Misha Savic',
+    authorurl: '',
+    authorAvatar: 'https://ncx.cx/images/avatar-placeholder.svg',
+    authorContent: '',
+    createdAt: 'August 28, 2023 - 10:00 AM', 
+    cover: 'https://res.cloudinary.com/dqbcnwbvy/image/upload/v1693291021/ncx-blog-1236_rad1cf.webp',
+    content: <div className="blog-content">
+    	<h3>In this article:</h3>
+    	<p>(Bloomberg) -- China’s Zijin Mining Group Co. is developing plans to expand its copper mine in eastern Serbia due to demand for the metal considered vital to the global energy transition — an effort that could cost billions of dollars.</p>
+    	<p>The company opened the Cukaru Peki copper and gold mine almost two years ago, with a $678 million investment allowing it to reach reserves a few hundred meters deep. Now it wants to drill down almost 2 kilometers (1.25 miles) to make the most of assets acquired in a takeover spree.</p>	
+    	<p>“These are vast reserves, which require additional infrastructure, additional investment of around $3.5 billion to $3.8 billion,” said Branko Rakocevic, the top Serbian official at the mine, whom the Chinese company authorized to speak with reporters.</p>	
+    	<p>Across the globe, companies and governments are racing to produce materials considered key to the shift toward a greener economy. Copper in particular is used in wind turbines, power grids and electric vehicles. China is the world’s top-supplier of so-called critical minerals, but the European Union and US are seeking to boost domestic supplies to ensure that they don’t fall further behind in the transition.</p>
+      <p>Serbia, a candidate for EU membership, has embraced foreign investors including China as it looks to revitalize an ailing sector of its economy. Australia-based BHP Group, the world’s biggest mining company, is also looking more closely, signing an agreement earlier this year to explore for new copper deposits in the country.</p>
+      <p>Cukaru Peki is located in the town of Bor, where copper, gold and silver have been mined for over a century. The mine’s lower zone, at depths of more than 460 meters (1,508 feet), is believed to hold 2.2 million tons of copper, more than in the upper zone. Its gold content is thought to be lower at the deeper depths.</p>
+      <p>The upper zone may be exhausted of its deposits around 2034, while deeper operations could start in 7 to 10 years, according to Rakocevic. Zijin’s long-term plans for the site include building roads, and expanding power supply and flotation facilities, he said.</p>
+      <p>Zijin’s Expansion</p>
+      <p>Zijin bought Serbia’s sole copper and gold complex in 2018, when the government auctioned off the debt-laden business in an effort to save thousands of jobs in an impoverished mining region. Following a string of takeovers, the Chinese company developed full control of what is now Cukaru Peki.</p>
+      <p>The acquisition — and further investments to expand mines in Congo and Tibet — are helping to transform Zijin into one of the world’s largest copper miners, leapfrogging western producers like Rio Tinto, Anglo American and Antofagasta. By 2025, it expects to produce about 1.2 million tons of copper, a six-fold increase over levels seen in 2017.</p>
+      <p>Zijin now runs two units in Serbia. One produces copper cathodes, gold, silver and sulfuric acid at facilities co-owned with the government. The other, Serbia Zijin Mining — which operates the Cukaru Peki mine — exports copper concentrate to China, Canada, Bulgaria, Spain and Korea.</p>
+      <p>The companies have been among Serbia’s top exporters for the last two years, riding a wave of demand for metals. Benchmark copper futures soared earlier this year, though prices have cooled in recent months, largely over concerns about the health of China’s economy.</p>
+      <p>“Still, copper is in demand always and everywhere” which justifies the long-term investment, Rakocevic said. “The market is stable enough. Prices declined from last year, but we don’t expect much volatility.”</p>
+      <p>--With assistance from Mark Burton.</p>
+    </div>
+  },
+  {
     id: 632,
     title: 'Oil futures up 1% to one-week high on soaring US diesel prices',
     category: 'Commodities',
